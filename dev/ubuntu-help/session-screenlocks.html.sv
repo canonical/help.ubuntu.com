@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="prefs-display.html" title="Visning och skärm">Visning och skärm</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="prefs-display.html.sv" title="Visning och skärm">Visning och skärm</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="hardware-problems-graphics.html" title="Skärmproblem">Skärmproblem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html.sv#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="hardware-problems-graphics.html.sv" title="Skärmproblem">Skärmproblem</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">Om du lämnar din dator ett par minuter kommer skärmen automatiskt att låsa sig själv så att du måste skriva in ditt lösenord för att börja använda den igen. Detta görs av säkerhetsskäl (så att ingen kan röra ditt arbete om du lämnar datorn obevakad), men det kan vara irriterande om skärmen låser sig allt för snabbt.</p>
 <p class="p">För att vänta en längre tid innan skärmen låser sig automatiskt:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Sekretessinställningar</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Sekretessinställningar</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Sekretessinställningar</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="gui">Skärmlås</span>.</p></li>
 <li class="steps"><p class="p">Om <span class="gui">Automatiskt skärmlås</span> är på, kan du ändra värdet i rullgardinsmenyn <span class="gui">Lås skärmen om tom efter</span>.</p></li>
@@ -70,10 +70,10 @@
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Skärmproblem">Skärmproblem</a><span class="desc"> — Felsök skärm- och grafikproblem.</span>
+<a href="hardware-problems-graphics.html.sv" title="Skärmproblem">Skärmproblem</a><span class="desc"> — Felsök skärm- och grafikproblem.</span>
 </li>
 <li class="links ">
-<a href="prefs-display.html" title="Visning och skärm">Visning och skärm</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Ändra skrivbords- och låsskärmsbakgrunderna">Bakgrund</a></span>, <span class="link"><a href="look-resolution.html" title="Ändra upplösning eller rotation på skärmen">storlek och rotering</a></span>, ljusstyrka…</span>
+<a href="prefs-display.html.sv" title="Visning och skärm">Visning och skärm</a><span class="desc"> — <span class="link"><a href="look-background.html.sv" title="Ändra skrivbords- och låsskärmsbakgrunderna">Bakgrund</a></span>, <span class="link"><a href="look-resolution.html.sv" title="Ändra upplösning eller rotation på skärmen">storlek och rotering</a></span>, ljusstyrka…</span>
 </li>
 </ul></div>
 </div></div>
@@ -81,11 +81,11 @@
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Lås automatiskt din skärm">Lås automatiskt din skärm</a><span class="desc"> — Förhindra andra personer från att använda ditt skrivbord när du går iväg från datorn.</span>
+<a href="privacy-screen-lock.html.sv" title="Lås automatiskt din skärm">Lås automatiskt din skärm</a><span class="desc"> — Förhindra andra personer från att använda ditt skrivbord när du går iväg från datorn.</span>
 </li>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Lås skärmen">Lås skärmen</a></li>
+<li class="links "><a href="shell-exit.html.sv#lock-screen" title="Lås skärmen">Lås skärmen</a></li>
 <li class="links ">
-<a href="display-blank.html" title="Ställ in tiden för skärmtömning">Ställ in tiden för skärmtömning</a><span class="desc"> — Ändra tiden till skärmtömning för att spara ström.</span>
+<a href="display-blank.html.sv" title="Ställ in tiden för skärmtömning">Ställ in tiden för skärmtömning</a><span class="desc"> — Ändra tiden till skärmtömning för att spara ström.</span>
 </li>
 </ul></div>
 </div></div>

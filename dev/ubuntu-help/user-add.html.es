@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="user-accounts.html" title="Cuentas de usuario">Usuarios</a> › <a class="trail" href="user-accounts.html#manage" title="Gestionar las cuentas de usuario">Cuentas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="user-accounts.html.es" title="Cuentas de usuario">Usuarios</a> › <a class="trail" href="user-accounts.html.es#manage" title="Gestionar las cuentas de usuario">Cuentas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Añadir una cuenta de usuario nueva</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Puede añadir varias cuentas de usuario a su equipo. Dar una cuenta a cada persona en su hogar o empresa. Cada usuario tiene su propia carpeta de inicio, documentos y configuración.</p>
-<p class="p">Necesita <span class="link"><a href="user-admin-explain.html" title="¿Cómo funcionan los privilegios de administrador?">privilegios de administrador</a></span> para añadir cuentas de usuario.</p>
+<p class="p">Necesita <span class="link"><a href="user-admin-explain.html.es" title="¿Cómo funcionan los privilegios de administrador?">privilegios de administrador</a></span> para añadir cuentas de usuario.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Usuarios</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Usuarios</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Usuarios</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Desbloquear</span> en la esquina superior derecha e introduzca su contraseña cuando se le pida.</p></li>
 <li class="steps"><p class="p">Debajo de la lista de cuentas en la izquierda, pulse el botón <span class="gui">+</span> para añadir una cuenta de usuario nueva.</p></li>
 <li class="steps">
-<p class="p">Si quiere que el nuevo usuario tenga <span class="link"><a href="user-admin-explain.html" title="¿Cómo funcionan los privilegios de administrador?">acceso de administrador</a></span> al equipo, seleccione <span class="gui">Administrador</span> para el tipo de cuenta.</p>
+<p class="p">Si quiere que el nuevo usuario tenga <span class="link"><a href="user-admin-explain.html.es" title="¿Cómo funcionan los privilegios de administrador?">acceso de administrador</a></span> al equipo, seleccione <span class="gui">Administrador</span> para el tipo de cuenta.</p>
 <p class="p">Los administradores pueden hacer cosas como añadir y eliminar usuarios, instalar software y controladores y cambiar la fecha y la hora.</p>
 </li>
 <li class="steps"><p class="p">Escriba el nombre completo del nuevo usuario. El nombre de usuario se rellenará automáticamente en función del nombre completo. Si no le gusta el nombre de usuario propuesto, puede cambiarlo.</p></li>
@@ -75,12 +75,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Gestionar las cuentas de usuario">Gestionar las cuentas de usuario</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.es#manage" title="Gestionar las cuentas de usuario">Gestionar las cuentas de usuario</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-delete.html" title="Eliminar una cuenta de usuario">Eliminar una cuenta de usuario</a><span class="desc"> — Eliminar usuarios que ya no usan su equipo</span>
+<a href="user-delete.html.es" title="Eliminar una cuenta de usuario">Eliminar una cuenta de usuario</a><span class="desc"> — Eliminar usuarios que ya no usan su equipo</span>
 </li></ul></div>
 </div></div>
 </div>

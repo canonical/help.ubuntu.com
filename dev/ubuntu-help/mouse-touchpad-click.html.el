@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="mouse.html" title="Ποντίκι">Ποντίκι</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="mouse.html.el" title="Ποντίκι">Ποντίκι</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="mouse.html" title="Ποντίκι">Ποντίκι</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="mouse.html.el" title="Ποντίκι">Ποντίκι</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="region"><div class="contents">
 <p class="p">Μπορείτε να πατήσετε την πινακίδα αφής σας για να κάνετε κλικ αντί να χρησιμοποιήσετε ένα κουμπί.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ποντίκι &amp; επιφάνεια αφής</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ποντίκι &amp; επιφάνεια αφής</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ποντίκι &amp; πινακίδα αφής</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps">
 <p class="p">Στην ενότητα <span class="gui">Πινακίδα αφής</span>, επιλέξτε <span class="gui">Πάτημα για κλικ</span>.</p>
@@ -71,8 +71,8 @@
 <li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
       second tap. Drag the item where you want it, then lift your finger to
       drop.</p></li>
-<li class="list"><p class="p">Εάν η πινακίδα αφής υποστηρίζει πατήματα πολλαπλών δακτύλων, κάντε δεξί κλικ πατώντας με δύο δάκτυλα μονομιάς. Αλλιώς, χρειάζεστε ακόμα να χρησιμοποιήσετε πλήκτρα υλικού για να κάνετε δεξί κλικ. Δείτε <span class="link"><a href="a11y-right-click.html" title="Προσομοίωση δεξιού κλικ του ποντικιού">Προσομοίωση δεξιού κλικ του ποντικιού</a></span> για μια μέθοδο δεξιού κλικ χωρίς ένα δεύτερο πλήκτρο ποντικιού.</p></li>
-<li class="list"><p class="p">Εάν η πινακίδα αφής υποστηρίζει πατήματα πολλαπλών δακτύλων, <span class="link"><a href="mouse-middleclick.html" title="Μεσαίο κλικ">μεσαίο κλικ</a></span> πιέζοντας με τρία δάκτυλα μονομιάς.</p></li>
+<li class="list"><p class="p">Εάν η πινακίδα αφής υποστηρίζει πατήματα πολλαπλών δακτύλων, κάντε δεξί κλικ πατώντας με δύο δάκτυλα μονομιάς. Αλλιώς, χρειάζεστε ακόμα να χρησιμοποιήσετε πλήκτρα υλικού για να κάνετε δεξί κλικ. Δείτε <span class="link"><a href="a11y-right-click.html.el" title="Προσομοίωση δεξιού κλικ του ποντικιού">Προσομοίωση δεξιού κλικ του ποντικιού</a></span> για μια μέθοδο δεξιού κλικ χωρίς ένα δεύτερο πλήκτρο ποντικιού.</p></li>
+<li class="list"><p class="p">Εάν η πινακίδα αφής υποστηρίζει πατήματα πολλαπλών δακτύλων, <span class="link"><a href="mouse-middleclick.html.el" title="Μεσαίο κλικ">μεσαίο κλικ</a></span> πιέζοντας με τρία δάκτυλα μονομιάς.</p></li>
 </ul></div></div></div>
 <div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
     are spread far enough apart. If your fingers are too close, your computer
@@ -84,7 +84,7 @@
 <div class="region"><div class="contents">
 <p class="p">Μπορείτε να κυλίσετε την πινακίδα αφής σας χρησιμοποιώντας δύο δάκτυλα.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ποντίκι &amp; επιφάνεια αφής</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ποντίκι &amp; επιφάνεια αφής</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ποντίκι &amp; πινακίδα αφής</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Στην ενότητα <span class="gui">Πινακίδα αφής</span>, επιλέξτε <span class="gui">Κύλιση με δύο δάκτυλα</span>.</p></li>
 </ol></div></div></div>
@@ -97,7 +97,7 @@
 <div class="region"><div class="contents">
 <p class="p">Μπορείτε να σύρετε το περιεχόμενο σαν να γλιστράτε ένα φυσικό κομμάτι χαρτιού χρησιμοποιώντας την πινακίδα αφής.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ποντίκι &amp; επιφάνεια αφής</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ποντίκι &amp; επιφάνεια αφής</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ποντίκι &amp; πινακίδα αφής</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Στην ενότητα <span class="gui">Πινακίδα αφής</span>, επιλέξτε <span class="gui">Φυσική κύλιση</span>.</p></li>
 </ol></div></div></div>
@@ -109,7 +109,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html" title="Ποντίκι">Ποντίκι</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Χρησιμοποιήστε το αριστερό ποντίκι">Αριστερόχειρες</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Προσαρμογή ταχύτητας του ποντικιού και τις πινακίδας αφής">Ταχύτητα και ευαισθησία</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Κάντε κλικ, σύρετε ή κυλήστε με την πινακίδα αφής">Πάτημα πινακίδας αφής και κύλιση</a></span>…</span>
+<a href="mouse.html.el" title="Ποντίκι">Ποντίκι</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.el" title="Χρησιμοποιήστε το αριστερό ποντίκι">Αριστερόχειρες</a></span>, <span class="link"><a href="mouse-sensitivity.html.el" title="Προσαρμογή ταχύτητας του ποντικιού και τις πινακίδας αφής">Ταχύτητα και ευαισθησία</a></span>, <span class="link"><a href="mouse-touchpad-click.html.el" title="Κάντε κλικ, σύρετε ή κυλήστε με την πινακίδα αφής">Πάτημα πινακίδας αφής και κύλιση</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

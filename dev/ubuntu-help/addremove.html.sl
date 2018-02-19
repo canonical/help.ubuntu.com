@@ -43,48 +43,48 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Install &amp; remove software</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-install.html" title="Install additional applications"><span class="title">
+<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.sl" title="Install additional applications"><span class="title">
     Install additional applications
   </span><span class="linkdiv-dash"> — </span><span class="desc">
       Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
       useful.
     </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html" title="Odstranjevanje programov"><span class="title">Odstranjevanje programov</span><span class="linkdiv-dash"> — </span><span class="desc">
+<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html.sl" title="Odstranjevanje programov"><span class="title">Odstranjevanje programov</span><span class="linkdiv-dash"> — </span><span class="desc">
       Remove applications that you no longer use.
     </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html" title="Add software repositories"><span class="title">
+<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html.sl" title="Add software repositories"><span class="title">
     Add software repositories
   </span><span class="linkdiv-dash"> — </span><span class="desc">
       Add repositories to extend the software sources Ubuntu uses for 
       installation and upgrades.
     </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html" title="Dodajanje osebnega arhiva paketov (PPA)"><span class="title">Dodajanje osebnega arhiva paketov (PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">
+<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html.sl" title="Dodajanje osebnega arhiva paketov (PPA)"><span class="title">Dodajanje osebnega arhiva paketov (PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">
         Add PPAs to extend the software sources Ubuntu uses for
         installation and upgrades.
     </span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html" title="Uporaba programa Synaptic za naprednejše upravljanje programov"><span class="title">Uporaba programa Synaptic za naprednejše upravljanje programov</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic je zmogljiv a zapleten nadomestek <span class="app">Programov Ubuntu</span> za upravljanje programov.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
+<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.sl" title="Uporaba programa Synaptic za naprednejše upravljanje programov"><span class="title">Uporaba programa Synaptic za naprednejše upravljanje programov</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic je zmogljiv a zapleten nadomestek <span class="app">Programov Ubuntu</span> za upravljanje programov.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.sl" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
     Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
     </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html" title="Namestite jezike"><span class="title">Namestite jezike</span><span class="linkdiv-dash"> — </span><span class="desc">Namestite več prevodov in povezane podporne pakete jezika.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html.sl" title="Namestite jezike"><span class="title">Namestite jezike</span><span class="linkdiv-dash"> — </span><span class="desc">Namestite več prevodov in povezane podporne pakete jezika.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.sl" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

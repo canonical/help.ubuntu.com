@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set keyboard shortcuts</title>
+<title>Ustawianie skrótów klawiszowych</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,20 +44,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="keyboard.html" title="Klawiatura">Klawiatura</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="keyboard.html" title="Klawiatura">Klawiatura</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set keyboard shortcuts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Ustawianie skrótów klawiszowych</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">To change the key or keys to be pressed for a keyboard shortcut:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Keyboard</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Klawiatura</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Klawiatura</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Klawiatura</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Wybierz kartę <span class="gui">Skróty</span>.</p></li>
 <li class="steps"><p class="p">Select a category in the left pane, and the row for the desired action
       on the right. The current shortcut definition will change to
@@ -77,24 +76,24 @@
 <div class="title title-table"><h3><span class="title">Launchers</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Launch help browser</p></td>
+<td><p class="p">Uruchomienie przeglądarki pomocy</p></td>
 <td><p class="p">Wyłączone</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Launch calculator</p></td>
+<td style="border-top-style: solid;"><p class="p">Uruchomienie kalkulatora</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-calculator.svg" class="media media-inline" alt="Calculator key symbol"></span></span> lub <span class="key"><kbd>Kalkulator</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Launch email client</p></td>
+<td style="border-top-style: solid;"><p class="p">Uruchomienie klienta poczty</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="Mail key symbol"></span></span> lub <span class="key"><kbd>Poczta</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Launch web browser</p></td>
+<td style="border-top-style: solid;"><p class="p">Uruchomienie przeglądarki WWW</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-world.svg" class="media media-inline" alt="WWW key symbol"></span></span> lub <span class="media"><span class="media media-image"><img src="figures/keyboard-key-home.svg" class="media media-inline" alt="WWW key symbol"></span></span> lub <span class="key"><kbd>WWW</kbd></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Katalog domowy</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-folder.svg" class="media media-inline" alt="Explorer key symbol"></span></span> or <span class="media"><span class="media media-image"><img src="figures/keyboard-key-computer.svg" class="media media-inline" alt="Explorer key symbol"></span></span> or <span class="key"><kbd>Explorer</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-folder.svg" class="media media-inline" alt="Explorer key symbol"></span></span> lub <span class="media"><span class="media media-image"><img src="figures/keyboard-key-computer.svg" class="media media-inline" alt="Explorer key symbol"></span></span> lub <span class="key"><kbd>Menedżer plików</kbd></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Wyszukiwanie</p></td>
@@ -109,19 +108,19 @@
 <div class="title title-table"><h3><span class="title">Nawigacja</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Move window to workspace 1</p></td>
+<td><p class="p">Przeniesienie okna na 1. obszar roboczy</p></td>
 <td><p class="p">Wyłączone</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window to workspace 2</p></td>
+<td style="border-top-style: solid;"><p class="p">Przeniesienie okna na 2. obszar roboczy</p></td>
 <td style="border-top-style: solid;"><p class="p">Wyłączone</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window to workspace 3</p></td>
+<td style="border-top-style: solid;"><p class="p">Przeniesienie okna na 3. obszar roboczy</p></td>
 <td style="border-top-style: solid;"><p class="p">Wyłączone</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window to workspace 4</p></td>
+<td style="border-top-style: solid;"><p class="p">Przeniesienie okna na 4. obszar roboczy</p></td>
 <td style="border-top-style: solid;"><p class="p">Wyłączone</p></td>
 </tr>
 <tr>
@@ -134,7 +133,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Move window one workspace up</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Move window one workspace down</p></td>
@@ -173,19 +172,19 @@
 <td style="border-top-style: solid;"><p class="p">Wyłączone</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to workspace 1</p></td>
+<td style="border-top-style: solid;"><p class="p">Przełączenie na 1. obszar roboczy</p></td>
 <td style="border-top-style: solid;"><p class="p">Wyłączone</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to workspace 2</p></td>
+<td style="border-top-style: solid;"><p class="p">Przełączenie na 2. obszar roboczy</p></td>
 <td style="border-top-style: solid;"><p class="p">Wyłączone</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to workspace 3</p></td>
+<td style="border-top-style: solid;"><p class="p">Przełączenie na 3. obszar roboczy</p></td>
 <td style="border-top-style: solid;"><p class="p">Wyłączone</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to workspace 4</p></td>
+<td style="border-top-style: solid;"><p class="p">Przełączenie na 4. obszar roboczy</p></td>
 <td style="border-top-style: solid;"><p class="p">Wyłączone</p></td>
 </tr>
 <tr>
@@ -213,27 +212,27 @@
 <div class="title title-table"><h3><span class="title">Zrzuty ekranu</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Save a screenshot to file</p></td>
+<td><p class="p">Zapisanie zrzutu ekranu do pliku</p></td>
 <td><p class="p"><span class="key"><kbd>Print</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot of a window to file</p></td>
+<td style="border-top-style: solid;"><p class="p">Zapisanie zrzutu okna do pliku</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot of an area to file</p></td>
+<td style="border-top-style: solid;"><p class="p">Zapisanie zrzutu obszaru do pliku</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Copy a screenshot to clipboard</p></td>
+<td style="border-top-style: solid;"><p class="p">Skopiowanie zrzutu ekranu do schowka</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Copy a screenshot of a window to clipboard</p></td>
+<td style="border-top-style: solid;"><p class="p">Skopiowanie zrzutu okna do schowka</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Copy a screenshot of an area to clipboard</p></td>
+<td style="border-top-style: solid;"><p class="p">Skopiowanie zrzutu obszaru do schowka</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -249,19 +248,19 @@
 <div class="title title-table"><h3><span class="title">Dźwięk i multimedia</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Volume mute</p></td>
+<td><p class="p">Wyciszenie</p></td>
 <td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mute.svg" class="media media-inline" alt="Mute key symbol"></span></span> (Audio mute)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Volume down</p></td>
+<td style="border-top-style: solid;"><p class="p">Zmniejszenie głośności</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-voldown.svg" class="media media-inline" alt="Volume Down key symbol"></span></span> (Audio lower volume)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Volume up</p></td>
+<td style="border-top-style: solid;"><p class="p">Zwiększenie głośności</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-volup.svg" class="media media-inline" alt="Volume Up key symbol"></span></span> (Audio raise volume)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Launch media player</p></td>
+<td style="border-top-style: solid;"><p class="p">Uruchomienie odtwarzacza multimediów</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-media.svg" class="media media-inline" alt="Media key symbol"></span></span> (Audio media)</p></td>
 </tr>
 <tr>
@@ -269,23 +268,23 @@
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-play.svg" class="media media-inline" alt="Play key symbol"></span></span> (Audio play)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Pause playback</p></td>
+<td style="border-top-style: solid;"><p class="p">Wstrzymanie odtwarzania</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-pause.svg" class="media media-inline" alt="Pause key symbol"></span></span> (Audio pause)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Stop playback</p></td>
+<td style="border-top-style: solid;"><p class="p">Zatrzymanie odtwarzania</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-stop.svg" class="media media-inline" alt="Stop key symbol"></span></span> (Audio stop)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Previous track</p></td>
+<td style="border-top-style: solid;"><p class="p">Poprzednia ścieżka</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-previous.svg" class="media media-inline" alt="Previous key symbol"></span></span> (Audio previous)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Next track</p></td>
+<td style="border-top-style: solid;"><p class="p">Następna ścieżka</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-next.svg" class="media media-inline" alt="Next key symbol"></span></span> (Audio next)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Eject</p></td>
+<td style="border-top-style: solid;"><p class="p">Wysunięcie</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-eject.svg" class="media media-inline" alt="Eject key symbol"></span></span> (Eject)</p></td>
 </tr>
 </table></div>
@@ -301,19 +300,19 @@
 <td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Show the activities overview</p></td>
+<td style="border-top-style: solid;"><p class="p">Wyświetlenie ekranu podglądu</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Log out</p></td>
+<td style="border-top-style: solid;"><p class="p">Wylogowanie</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Lock screen</p></td>
+<td style="border-top-style: solid;"><p class="p">Zablokowanie ekranu</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Show the message tray</p></td>
+<td style="border-top-style: solid;"><p class="p">Wyświetlenie obszaru powiadamiania</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -321,11 +320,11 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>N</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Show all applications</p></td>
+<td style="border-top-style: solid;"><p class="p">Wyświetlenie wszystkich programów</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Open the application menu</p></td>
+<td style="border-top-style: solid;"><p class="p">Otwarcie menu programu</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
 </tr>
 </table></div>
@@ -337,11 +336,11 @@
 <div class="title title-table"><h3><span class="title">Pisanie</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Switch to next input source</p></td>
+<td><p class="p">Przełączenie na następne źródło wprowadzania</p></td>
 <td><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Spacja</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to previous input source</p></td>
+<td style="border-top-style: solid;"><p class="p">Przełączenie na poprzednie źródło wprowadzania</p></td>
 <td style="border-top-style: solid;"><p class="p">Wyłączone</p></td>
 </tr>
 <tr>
@@ -385,11 +384,11 @@
 <td style="border-top-style: solid;"><p class="p">Wyłączone</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Increase text size</p></td>
+<td style="border-top-style: solid;"><p class="p">Zwiększenie rozmiaru czcionki</p></td>
 <td style="border-top-style: solid;"><p class="p">Wyłączone</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Decrease text size</p></td>
+<td style="border-top-style: solid;"><p class="p">Zmniejszenie rozmiaru czcionki</p></td>
 <td style="border-top-style: solid;"><p class="p">Wyłączone</p></td>
 </tr>
 <tr>
@@ -409,7 +408,7 @@
 <td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Spacja</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Toggle fullscreen mode</p></td>
+<td style="border-top-style: solid;"><p class="p">Przełączenie trybu pełnoekranowego</p></td>
 <td style="border-top-style: solid;"><p class="p">Wyłączone</p></td>
 </tr>
 <tr>
@@ -417,11 +416,11 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Maximize window</p></td>
+<td style="border-top-style: solid;"><p class="p">Maksymalizacja okna</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Restore window</p></td>
+<td style="border-top-style: solid;"><p class="p">Przywrócenie okna</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -429,19 +428,19 @@
 <td style="border-top-style: solid;"><p class="p">Wyłączone</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Close window</p></td>
+<td style="border-top-style: solid;"><p class="p">Zamknięcie okna</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F4</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Hide window</p></td>
+<td style="border-top-style: solid;"><p class="p">Ukrycie okna</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window</p></td>
+<td style="border-top-style: solid;"><p class="p">Przeniesienie okna</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Resize window</p></td>
+<td style="border-top-style: solid;"><p class="p">Zmiana rozmiaru okna</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -514,17 +513,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="Klawiatura">Klawiatura</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html" title="Make the keyboard cursor blink">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html#mobility" title="Niepełnosprawność ruchowa">keyboard accessibility</a></span>…
+<a href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a><span class="desc"> — 
+      <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.pl-PL" title="Make the keyboard cursor blink">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">keyboard accessibility</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Przydatne skróty klawiszowe">Przydatne skróty klawiszowe</a><span class="desc"> — Get around the desktop using the keyboard.</span>
+<a href="shell-keyboard-shortcuts.html.pl-PL" title="Przydatne skróty klawiszowe">Przydatne skróty klawiszowe</a><span class="desc"> — Get around the desktop using the keyboard.</span>
 </li></ul></div>
 </div></div>
 </div>

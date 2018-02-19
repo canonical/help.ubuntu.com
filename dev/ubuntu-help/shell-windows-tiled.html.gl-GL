@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicativos e xanelas">Aplicativos e xanelas</a> » <a class="trail" href="shell-windows.html" title="Xanelas e espazos de traballo">Xanelas e espazos de traballo</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Traballando coas xanelas">Compartido por Windows</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="shell-overview.html.gl-GL" title="Your desktop">Escritorio</a> › <a class="trail" href="shell-overview.html.gl-GL#apps" title="Aplicativos e xanelas">Aplicativos e xanelas</a> » <a class="trail" href="shell-windows.html.gl-GL" title="Xanelas e espazos de traballo">Xanelas e espazos de traballo</a> › <a class="trail" href="shell-windows.html.gl-GL#working-with-windows" title="Traballando coas xanelas">Compartido por Windows</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Xanelas en mosaico</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">Pode maximizar unha xanela só na parte esquerda ou dereita da pantalla, permitíndolle poñer dúas xanelas lado a lado para cambiar rapidamente entre elas.</p>
 <p class="p">To maximize a window along a side of the screen, grab the titlebar and
   drag it to the left or right side until half of the screen is highlighted.
-  Using the keyboard, hold down <span class="key"><a href="keyboard-key-super.html" title="Que é a tecla Super?"><kbd>Super</kbd></a></span> and
+  Using the keyboard, hold down <span class="key"><a href="keyboard-key-super.html.gl-GL" title="Que é a tecla Super?"><kbd>Super</kbd></a></span> and
   press the <span class="key"><kbd>Left</kbd></span> or <span class="key"><kbd>Right</kbd></span> key.</p>
 <p class="p">Para restaurar unha xanela ao seu tamaño orixinal, arrástrea desde o lado da pantalla, ou use o mesmo atallo de teclado que empregou para maximizala.</p>
 <div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Manteña premida a tecla <span class="key"><kbd>Alt</kbd></span> e arrastre a xanela a calquera parte para movela.</p></div></div></div></div>
@@ -62,12 +62,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Traballando coas xanelas">Traballando coas xanelas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.gl-GL#working-with-windows" title="Traballando coas xanelas">Traballando coas xanelas</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-maximize.html" title="Maximizar e restaurar unha xanela">Maximizar e restaurar unha xanela</a><span class="desc"> — Prema dúas veces sobre a barra de título da xanela.</span>
+<a href="shell-windows-maximize.html.gl-GL" title="Maximizar e restaurar unha xanela">Maximizar e restaurar unha xanela</a><span class="desc"> — Prema dúas veces sobre a barra de título da xanela.</span>
 </li></ul></div>
 </div></div>
 </div>

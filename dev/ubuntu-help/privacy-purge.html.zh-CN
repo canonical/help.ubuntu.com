@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.zh-CN" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html.zh-CN#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="privacy.html" title="Privacy Settings">Privacy Settings</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="privacy.html.zh-CN" title="Privacy Settings">Privacy Settings</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -64,7 +64,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Automatically empty your trash and clear temporary files</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Privacy</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Privacy</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Purge Trash &amp; Temporary Files</span>.</p></li>
@@ -79,19 +79,19 @@
 </ol></div>
 </div></div>
 <div class="note note-tip" title="提示"><div class="inner"><div class="region"><div class="contents"><p class="p">You can delete files immediately and permanently without using the Trash.
-    See <span class="link"><a href="files-delete.html#permanent" title="永久删除文件">永久删除文件</a></span> for information.</p></div></div></div></div>
+    See <span class="link"><a href="files-delete.html.zh-CN#permanent" title="永久删除文件">永久删除文件</a></span> for information.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
+<li class="links "><a href="files.html.zh-CN#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
 <li class="links ">
-<a href="privacy.html" title="Privacy Settings">Privacy Settings</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html" title="自动锁定屏幕">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
+<a href="privacy.html.zh-CN" title="Privacy Settings">Privacy Settings</a><span class="desc"> — 
+      <span class="link"><a href="privacy-screen-lock.html.zh-CN" title="自动锁定屏幕">Screen lock</a></span>,
+      <span class="link"><a href="privacy-history-recent-off.html.zh-CN" title="Turn off or limit file history tracking">Usage history</a></span>,
+      <span class="link"><a href="privacy-purge.html.zh-CN" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
     </span>
 </li>
 </ul></div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.en" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="color.html.en" title="Color management">Color management</a> › <a class="trail" href="color.html.en#calibration" title="Calibration">Calibration</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">Settings</a> » <a class="trail" href="color.html" title="Color management">Color management</a> › <a class="trail" href="color.html#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.en" title="User &amp; system settings">Settings</a> » <a class="trail" href="color.html.en" title="Color management">Color management</a> › <a class="trail" href="color.html.en#calibration" title="Calibration">Calibration</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
   devices are used to profile screens, but they work in slightly different
   ways.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.en#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Color</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel and select your
       screen.</p></li>
@@ -79,19 +79,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">More Information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Calibration">Calibration</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.en#calibration" title="Calibration">Calibration</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">See Also</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html" title="How do I calibrate my camera?">How do I calibrate my camera?</a><span class="desc"> — Calibrating your camera is important to capture accurate colors.</span>
+<a href="color-calibrate-camera.html.en" title="How do I calibrate my camera?">How do I calibrate my camera?</a><span class="desc"> — Calibrating your camera is important to capture accurate colors.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html" title="How do I calibrate my printer?">How do I calibrate my printer?</a><span class="desc"> — Calibrating your printer is important to print accurate colors.</span>
+<a href="color-calibrate-printer.html.en" title="How do I calibrate my printer?">How do I calibrate my printer?</a><span class="desc"> — Calibrating your printer is important to print accurate colors.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-scanner.html" title="How do I calibrate my scanner?">How do I calibrate my scanner?</a><span class="desc"> — Calibrating your scanner is important to capture accurate colors.</span>
+<a href="color-calibrate-scanner.html.en" title="How do I calibrate my scanner?">How do I calibrate my scanner?</a><span class="desc"> — Calibrating your scanner is important to capture accurate colors.</span>
 </li>
 </ul></div>
 </div></div>

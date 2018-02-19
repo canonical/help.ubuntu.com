@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="bluetooth.html" title="蓝牙">蓝牙</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="bluetooth.html.zh-CN" title="蓝牙">蓝牙</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Disconnect a Bluetooth device</span></h1></div>
@@ -54,14 +54,15 @@
   like a mouse or headset, or if you no longer wish to transfer files to or
   from a device.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">单击<span class="gui">菜单栏</span>上的蓝牙图标，选择<span class="gui">蓝牙设置</span>。</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Bluetooth Settings</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
+      start typing <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select the device which you want to disconnect from the list.</p></li>
 <li class="steps"><p class="p">In the device dialog box, switch <span class="gui">Connection</span> to
       <span class="gui">OFF</span>, or to remove the device from the <span class="gui">Devices</span> list,
       click <span class="gui">Remove Device</span>.</p></li>
 </ol></div></div></div>
-<p class="p">您还可以在稍后<span class="link"><a href="bluetooth-connect-device.html" title="将您的计算机连接至一蓝牙设备">重新连接一个蓝牙设备</a></span>。</p>
+<p class="p">您还可以在稍后<span class="link"><a href="bluetooth-connect-device.html.zh-CN" title="将您的计算机连接至一蓝牙设备">重新连接一个蓝牙设备</a></span>。</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -69,13 +70,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="蓝牙">蓝牙</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="将您的计算机连接至一蓝牙设备">连接</a></span>、<span class="link"><a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">发送文件</a></span>、<span class="link"><a href="bluetooth-turn-on-off.html" title="开启或关闭蓝牙">开启或关闭</a></span>…</span>
+<a href="bluetooth.html.zh-CN" title="蓝牙">蓝牙</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.zh-CN" title="将您的计算机连接至一蓝牙设备">连接</a></span>、<span class="link"><a href="bluetooth-send-file.html.zh-CN" title="Send files to a Bluetooth device">发送文件</a></span>、<span class="link"><a href="bluetooth-turn-on-off.html.zh-CN" title="开启或关闭蓝牙">开启或关闭</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth-connect-device.html" title="将您的计算机连接至一蓝牙设备">将您的计算机连接至一蓝牙设备</a><span class="desc"> — 配对蓝牙设备。</span>
+<a href="bluetooth-connect-device.html.zh-CN" title="将您的计算机连接至一蓝牙设备">将您的计算机连接至一蓝牙设备</a><span class="desc"> — 配对蓝牙设备。</span>
 </li></ul></div>
 </div></div>
 </div>

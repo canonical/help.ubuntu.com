@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Accesso universale">Accesso universale</a> › <a class="trail" href="a11y.html#mobility" title="Difficoltà motorie">Difficoltà motorie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.it" title="Accesso universale">Accesso universale</a> › <a class="trail" href="a11y.html.it#mobility" title="Difficoltà motorie">Difficoltà motorie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> » <a class="trail" href="mouse.html.it" title="Mouse">Mouse</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="mouse.html.it" title="Mouse">Mouse</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,13 +58,13 @@
 <p class="p">In caso di difficoltà nell'utilizzo di un mouse o di un altro dispositivo di puntamento, è possibile controllare il puntatore usando il tastierino numerico sulla tastiera. Tale caratteristica è chiamata <span class="em">Mouse da tastiera</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<p class="p">Open the <span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p>
 <p class="p">You can access the <span class="gui">Activities</span> overview by pressing on it,
       by moving your mouse pointer against the top-left corner of the screen,
       using <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>
       followed by <span class="key"><kbd>Enter</kbd></span> or using
-      <span class="key"><a href="keyboard-key-super.html" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span>.</p>
+      <span class="key"><a href="keyboard-key-super.html.it" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span>.</p>
 </li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Use the up and down arrow keys to select <span class="gui">Mouse Keys</span> in the
@@ -80,9 +80,9 @@
   keypads.</p>
 <p class="p">Ogni numero sul tastierino numerico corrisponde a una direzione. Per esempio, la pressione del tasto <span class="key"><kbd>8</kbd></span> farà spostare il puntatore del mouse verso l'alto e la pressione del tasto <span class="key"><kbd>2</kbd></span> lo farà spostare verso il basso. Premere il tasto <span class="key"><kbd>5</kbd></span> per fare clic una volta col mouse o premerlo velocemente due volte per fare un doppio-clic.</p>
 <p class="p">Most keyboards have a special key which allows you to right-click,
-  sometimes called the <span class="key"><a href="keyboard-key-menu.html" title="Cos'è il tasto Menu?"><kbd>Menu</kbd></a></span> key. Note,
+  sometimes called the <span class="key"><a href="keyboard-key-menu.html.it" title="Cos'è il tasto Menu?"><kbd>Menu</kbd></a></span> key. Note,
   however, that this key responds to where your keyboard focus is, not where
-  your mouse pointer is. See <span class="link"><a href="a11y-right-click.html" title="Simulare il clic col pulsante destro">Simulare il clic col pulsante destro</a></span> for information on
+  your mouse pointer is. See <span class="link"><a href="a11y-right-click.html.it" title="Simulare il clic col pulsante destro">Simulare il clic col pulsante destro</a></span> for information on
   how to right-click by holding down <span class="key"><kbd>5</kbd></span> or the left mouse button.</p>
 <p class="p">Per usare il tastierino numerico per digitare numeri mentre è attivo il mouse da tastiera, attivare il tasto <span class="key"><kbd>Bloc Num</kbd></span>. Il mouse non può essere controllato da tastiera quando <span class="key"><kbd>Bloc Num</kbd></span> è attivo.</p>
 <div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">I tasti numerici normali, posizionati in una riga nella parte superiore della tastiera, non possono controllare il puntatore del mouse. Solo i tasti del tastierino numerico possono essere utilizzati per questa funzione.</p></div></div></div></div>
@@ -92,12 +92,12 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Difficoltà motorie">Difficoltà motorie</a></li>
+<li class="links "><a href="a11y.html.it#mobility" title="Difficoltà motorie">Difficoltà motorie</a></li>
 <li class="links ">
-<a href="mouse.html" title="Mouse">Mouse</a><span class="desc"> — 
-      <span class="link"><a href="mouse-lefthanded.html" title="Usare il mouse con la mano sinistra">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html" title="Regolare la velocità del mouse e del touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
+<a href="mouse.html.it" title="Mouse">Mouse</a><span class="desc"> — 
+      <span class="link"><a href="mouse-lefthanded.html.it" title="Usare il mouse con la mano sinistra">Left-handed</a></span>,
+      <span class="link"><a href="mouse-sensitivity.html.it" title="Regolare la velocità del mouse e del touchpad">speed and sensitivity</a></span>,
+      <span class="link"><a href="mouse-touchpad-click.html.it" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
     </span>
 </li>
 </ul></div>

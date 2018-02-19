@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Qu'est-ce qu'un pilote ?</span></h1></div>
@@ -63,20 +63,20 @@ and audio cards.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Matériel et pilotes">Matériel et pilotes</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Problèmes connus">Problèmes matériels</a></span>, <span class="link"><a href="printing.html" title="Impression">imprimantes</a></span>, <span class="link"><a href="power.html" title="Énergie et batterie">gestion de l'énergie</a></span>, <span class="link"><a href="color.html" title="Gestion de la couleur">gestion de la couleur</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">bluetooth</a></span>, <span class="link"><a href="disk.html" title="Disques durs et périphériques de stockage">disques</a></span>…</span>
+<a href="hardware.html.fr" title="Matériel et pilotes">Matériel et pilotes</a><span class="desc"> — <span class="link"><a href="hardware.html.fr#problems" title="Problèmes connus">Problèmes matériels</a></span>, <span class="link"><a href="printing.html.fr" title="Impression">imprimantes</a></span>, <span class="link"><a href="power.html.fr" title="Énergie et batterie">gestion de l'énergie</a></span>, <span class="link"><a href="color.html.fr" title="Gestion de la couleur">gestion de la couleur</a></span>, <span class="link"><a href="bluetooth.html.fr" title="Bluetooth">bluetooth</a></span>, <span class="link"><a href="disk.html.fr" title="Disques durs et périphériques de stockage">disques</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-nowireless.html" title="Absence de réseau sans fil à la sortie de veille de l'ordinateur">Absence de réseau sans fil à la sortie de veille de l'ordinateur</a><span class="desc"> — Problèmes relatifs à certains périphériques sans fil qui après une sortie de veille de votre ordinateur, ne se réveillent pas correctement.</span>
+<a href="power-nowireless.html.fr" title="Absence de réseau sans fil à la sortie de veille de l'ordinateur">Absence de réseau sans fil à la sortie de veille de l'ordinateur</a><span class="desc"> — Problèmes relatifs à certains périphériques sans fil qui après une sortie de veille de votre ordinateur, ne se réveillent pas correctement.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-problem-connecting.html" title="Impossible de connecter mon périphérique Bluetooth">Impossible de connecter mon périphérique Bluetooth</a><span class="desc"> — L'adaptateur peut être débranché ou ne pas avoir de pilote (driver), ou bien le Bluetooth peut être désactivé ou bloqué.</span>
+<a href="bluetooth-problem-connecting.html.fr" title="Impossible de connecter mon périphérique Bluetooth">Impossible de connecter mon périphérique Bluetooth</a><span class="desc"> — L'adaptateur peut être débranché ou ne pas avoir de pilote (driver), ou bien le Bluetooth peut être désactivé ou bloqué.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?">Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.fr" title="Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?">Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 </ul></div>
 </div></div>

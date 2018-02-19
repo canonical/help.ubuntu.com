@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#backup" title="Αντίγραφα ασφαλείας">Αντίγραφα ασφαλείας</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#backup" title="Αντίγραφα ασφαλείας">Αντίγραφα ασφαλείας</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Αντίγραφα ασφαλείας των σημαντικών σας αρχείων</span></h1></div>
@@ -53,17 +53,17 @@
 <p class="p">Ο καλύτερος τρόπος για να δημιουργήσετε αντίγραφα ασφαλείας των αρχείων σας, είναι να το κάνετε συχνά, κρατώντας τα αντίγραφα εκτός τόπου και (πιθανόν) κρυπτογραφημένα.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-where.html" title="Πού να αποθηκεύσετε τα αντίγραφα σας"><span class="title">Πού να αποθηκεύσετε τα αντίγραφα σας</span><span class="linkdiv-dash"> — </span><span class="desc">Συμβουλευτείτε για το πού να αποθηκεύσετε τα αντίγραφα ασφαλείας σας και τι τύπο συσκευής αποθήκευσης να χρησιμοποιήσετε.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-how.html" title="Πώς να δημιουργήσετε αντίγραφα ασφαλείας"><span class="title">Πώς να δημιουργήσετε αντίγραφα ασφαλείας</span><span class="linkdiv-dash"> — </span><span class="desc">Χρησιμοποιήστε το Déjà Dup (ή κάποια άλλη εφαρμογή εφεδρείας) για να αντιγράψετε τα πολύτιμα αρχεία και ρυθμίσεις σας για να προστατευτείτε από απώλειες.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-where.html.el" title="Πού να αποθηκεύσετε τα αντίγραφα σας"><span class="title">Πού να αποθηκεύσετε τα αντίγραφα σας</span><span class="linkdiv-dash"> — </span><span class="desc">Συμβουλευτείτε για το πού να αποθηκεύσετε τα αντίγραφα ασφαλείας σας και τι τύπο συσκευής αποθήκευσης να χρησιμοποιήσετε.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-how.html.el" title="Πώς να δημιουργήσετε αντίγραφα ασφαλείας"><span class="title">Πώς να δημιουργήσετε αντίγραφα ασφαλείας</span><span class="linkdiv-dash"> — </span><span class="desc">Χρησιμοποιήστε το Déjà Dup (ή κάποια άλλη εφαρμογή εφεδρείας) για να αντιγράψετε τα πολύτιμα αρχεία και ρυθμίσεις σας για να προστατευτείτε από απώλειες.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-what.html" title="Τι να αντιγράψετε στο αντίγραφο ασφαλείας"><span class="title">Τι να αντιγράψετε στο αντίγραφο ασφαλείας</span><span class="linkdiv-dash"> — </span><span class="desc">Δημιουργήστε αντίγραφα ασφαλείας όλων όσων δεν μπορείτε να αντέξετε να τα χάσετε εάν κάτι πάει στραβά.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-what.html.el" title="Τι να αντιγράψετε στο αντίγραφο ασφαλείας"><span class="title">Τι να αντιγράψετε στο αντίγραφο ασφαλείας</span><span class="linkdiv-dash"> — </span><span class="desc">Δημιουργήστε αντίγραφα ασφαλείας όλων όσων δεν μπορείτε να αντέξετε να τα χάσετε εάν κάτι πάει στραβά.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Αντίγραφα ασφαλείας">Αντίγραφα ασφαλείας</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.el#backup" title="Αντίγραφα ασφαλείας">Αντίγραφα ασφαλείας</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="color.html" title="நிற மேலாண்மை">நிற மேலாண்மை</a> › <a class="trail" href="color.html#profiles" title="நிற தனியமைப்புகள்">நிற தனியமைப்புகள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="color.html.ta" title="நிற மேலாண்மை">நிற மேலாண்மை</a> › <a class="trail" href="color.html.ta#profiles" title="நிற தனியமைப்புகள்">நிற தனியமைப்புகள்</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="color.html" title="நிற மேலாண்மை">நிற மேலாண்மை</a> › <a class="trail" href="color.html#profiles" title="நிற தனியமைப்புகள்">நிற தனியமைப்புகள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="color.html.ta" title="நிற மேலாண்மை">நிற மேலாண்மை</a> › <a class="trail" href="color.html.ta#profiles" title="நிற தனியமைப்புகள்">நிற தனியமைப்புகள்</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <p class="p">Alternatively you can manage your color profiles through the
   <span class="gui">Color</span> panel.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Color</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel and select your
       device.</p></li>
@@ -69,7 +69,7 @@
 <p class="p">The manufacturer of your display may supply a profile that you can use.
   These profiles are usually made for the average display, so may not be perfect
   for your specific one. For the best calibration, you should
-  <span class="link"><a href="color-calibrate-screen.html" title="என் திரையை எப்படி அளவை வகுப்பது?">create your own profile</a></span> using a
+  <span class="link"><a href="color-calibrate-screen.html.ta" title="என் திரையை எப்படி அளவை வகுப்பது?">create your own profile</a></span> using a
   colorimeter or a spectrophotometer.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -77,16 +77,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="நிற தனியமைப்புகள்">நிற தனியமைப்புகள்</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.ta#profiles" title="நிற தனியமைப்புகள்">நிற தனியமைப்புகள்</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html" title="சாதனங்களுக்கு எப்படி தனியமைப்புகளை நிர்ணயிப்பது?">சாதனங்களுக்கு எப்படி தனியமைப்புகளை நிர்ணயிப்பது?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-assignprofiles.html.ta" title="சாதனங்களுக்கு எப்படி தனியமைப்புகளை நிர்ணயிப்பது?">சாதனங்களுக்கு எப்படி தனியமைப்புகளை நிர்ணயிப்பது?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="நிற தனியமைப்பு என்பது என்ன?">நிற தனியமைப்பு என்பது என்ன?</a><span class="desc"> — நிற தனியமைப்பு என்பது எளிய ஒரு கோப்பாகும், அது ஒரு நிற வெளி அல்லது சாதன பதில்வினையை உணர்த்தும்.</span>
+<a href="color-whatisprofile.html.ta" title="நிற தனியமைப்பு என்பது என்ன?">நிற தனியமைப்பு என்பது என்ன?</a><span class="desc"> — நிற தனியமைப்பு என்பது எளிய ஒரு கோப்பாகும், அது ஒரு நிற வெளி அல்லது சாதன பதில்வினையை உணர்த்தும்.</span>
 </li>
 </ul></div>
 </div></div>

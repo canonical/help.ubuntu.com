@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Apa itu penggerak?</span></h1></div>
@@ -73,20 +73,20 @@ double-sided printing, but is otherwise completely functional.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras &amp; penggerak</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Masalah umum">Masalah perangkat keras</a></span>, <span class="link"><a href="printing.html" title="Pencetakan">pencetak</a></span>, <span class="link"><a href="power.html" title="Daya &amp; baterai">pengaturan daya</a></span>, <span class="link"><a href="color.html" title="Manajemen warna">manajemen warna</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Disk &amp; penyimpanan">disk</a></span>…</span>
+<a href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras &amp; penggerak</a><span class="desc"> — <span class="link"><a href="hardware.html.id#problems" title="Masalah umum">Masalah perangkat keras</a></span>, <span class="link"><a href="printing.html.id" title="Pencetakan">pencetak</a></span>, <span class="link"><a href="power.html.id" title="Daya &amp; baterai">pengaturan daya</a></span>, <span class="link"><a href="color.html.id" title="Manajemen warna">manajemen warna</a></span>, <span class="link"><a href="bluetooth.html.id" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.id" title="Disk &amp; penyimpanan">disk</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspendfail.html" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.id" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-problem-connecting.html" title="Saya tak bisa menyambung ke perangkat Bluetooth saya">Saya tak bisa menyambung ke perangkat Bluetooth saya</a><span class="desc"> — Adaptor mungkin dimatikan atau tak memiliki driver, atau Bluetooth mungkin dinonaktifkan atau diblokir.</span>
+<a href="bluetooth-problem-connecting.html.id" title="Saya tak bisa menyambung ke perangkat Bluetooth saya">Saya tak bisa menyambung ke perangkat Bluetooth saya</a><span class="desc"> — Adaptor mungkin dimatikan atau tak memiliki driver, atau Bluetooth mungkin dinonaktifkan atau diblokir.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="Saya tak punya jaringan nirkabel ketika membangunkan komputer saya">Saya tak punya jaringan nirkabel ketika membangunkan komputer saya</a><span class="desc"> — Some wireless devices have problems handling when your computer is
+<a href="power-nowireless.html.id" title="Saya tak punya jaringan nirkabel ketika membangunkan komputer saya">Saya tak punya jaringan nirkabel ketika membangunkan komputer saya</a><span class="desc"> — Some wireless devices have problems handling when your computer is
     suspended and does not resume properly.</span>
 </li>
 </ul></div>

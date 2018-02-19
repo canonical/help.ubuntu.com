@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.el" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html.el#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Τι σημαίνουν τα εικονίδια στην πάνω γραμμή;</span></h1></div>
@@ -52,11 +52,11 @@
 <p class="p">Αυτή η ενότητα εξηγεί τη σημασία των εικονιδίων που βρίσκονται στη πάνω δεξιά γωνία της οθόνης. Ειδικά, περιγράφονται οι διαφορετικές παραλλαγές των έτοιμων εικονιδίων από τη διεπαφή του GNOME.Οδηγεί σε ένα μενού που ενερ</p>
 <div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="Η πάνω γραμμή του κελύφους GNOME"></div></div>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="status-icons.html#universalicons" title="Εικονίδια μενού γενικής πρόσβασης">Εικονίδια μενού γενικής πρόσβασης</a></li>
-<li class="links "><a href="status-icons.html#audioicons" title="Εικονίδια ελέγχου έντασης">Εικονίδια ελέγχου έντασης</a></li>
-<li class="links "><a href="status-icons.html#bluetoothicons" title="Εικονίδια του διαχειριστή Bluetooth">Εικονίδια του διαχειριστή Bluetooth</a></li>
-<li class="links "><a href="status-icons.html#networkicons" title="Εικονίδια διαχειριστή δικτύου">Εικονίδια διαχειριστή δικτύου</a></li>
-<li class="links "><a href="status-icons.html#batteryicons" title="Εικονίδια διαχειριστή ισχύος">Εικονίδια διαχειριστή ισχύος</a></li>
+<li class="links "><a href="status-icons.html.el#universalicons" title="Εικονίδια μενού γενικής πρόσβασης">Εικονίδια μενού γενικής πρόσβασης</a></li>
+<li class="links "><a href="status-icons.html.el#audioicons" title="Εικονίδια ελέγχου έντασης">Εικονίδια ελέγχου έντασης</a></li>
+<li class="links "><a href="status-icons.html.el#bluetoothicons" title="Εικονίδια του διαχειριστή Bluetooth">Εικονίδια του διαχειριστή Bluetooth</a></li>
+<li class="links "><a href="status-icons.html.el#networkicons" title="Εικονίδια διαχειριστή δικτύου">Εικονίδια διαχειριστή δικτύου</a></li>
+<li class="links "><a href="status-icons.html.el#batteryicons" title="Εικονίδια διαχειριστή ισχύος">Εικονίδια διαχειριστή ισχύος</a></li>
 </ul></div></div></div>
 </div>
 <div id="universalicons" class="sect"><div class="inner">
@@ -306,7 +306,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.el#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html#backup" title="Cópia de segurança">Cópia de segurança</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#backup" title="Cópia de segurança">Cópia de segurança</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Restaurando uma cópia de segurança</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Se você perdeu ou excluiu algum arquivo seu, mas tem uma cópia de segurança dele, você pode restaurá-lo:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Se você quiser restaurar sua cópia de segurança de um dispositivo como uma unidade de disco externa, uma unidade USB ou um outro computador na rede, você pode <span class="link"><a href="files-copy.html" title="Copiando ou movendo arquivos e pastas">copiá-los</a></span> de volta a seu computador.</p></li>
+<li class="list"><p class="p">Se você quiser restaurar sua cópia de segurança de um dispositivo como uma unidade de disco externa, uma unidade USB ou um outro computador na rede, você pode <span class="link"><a href="files-copy.html.pt-BR" title="Copiando ou movendo arquivos e pastas">copiá-los</a></span> de volta a seu computador.</p></li>
 <li class="list"><p class="p">Se você criou sua cópia usando um aplicativo para este fim como o <span class="app">Déjà Dup</span>, recomenda-se que utilize o mesmo aplicativo para restaurar sua cópia de segurança. Consulte a ajuda do aplicativo: ele fornecerá instruções específicas sobre como restaurar seus arquivos.</p></li>
 </ul></div></div></div>
 </div>
@@ -59,7 +59,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Cópia de segurança">Cópia de segurança</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt-BR#backup" title="Cópia de segurança">Cópia de segurança</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

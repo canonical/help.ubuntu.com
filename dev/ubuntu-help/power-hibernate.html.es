@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="power.html" title="Energía y batería">Energía y batería</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="power.html.es" title="Energía y batería">Energía y batería</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="power.html" title="Energía y batería">Energía y batería</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="power.html.es" title="Energía y batería">Energía y batería</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Cuando <span class="em">hiberna</span> el equipo, se guardan todas las aplicaciones y los documentos y el equipo se apaga por completo, por lo que no utiliza ningún tipo de energía, pero sus aplicaciones y documentos seguirán estando abiertos al encender el equipo de nuevo.</p>
-<p class="p">Desafortunadamente, la hibernación<span class="link"><a href="power-suspendfail.html" title="¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?">no funciona</a></span> en muchos casos, lo que puede provocar la pérdida de datos si espera que sus documentos y aplicaciones se abran de nuevo al volver a encender el equipo. Por lo tanto, la hibernación está desactivada de forma predeterminada.</p>
+<p class="p">Desafortunadamente, la hibernación<span class="link"><a href="power-suspendfail.html.es" title="¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?">no funciona</a></span> en muchos casos, lo que puede provocar la pérdida de datos si espera que sus documentos y aplicaciones se abran de nuevo al volver a encender el equipo. Por lo tanto, la hibernación está desactivada de forma predeterminada.</p>
 </div>
 <div id="test-hibernate" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Pruebe si la hibernación funciona</span></h2></div>
@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">Puede usar la línea de órdenes para probar si la hibernación funciona en su equipo.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra el <span class="app">Terminal</span> pulsando <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> o buscando <span class="input">terminal</span> en el <span class="gui">Tablero</span>.</p></li>
+<li class="steps"><p class="p">Abra el <span class="app">Terminal</span> buscando <span class="input">terminal</span> en el <span class="gui">Resumen de actividades</span>.</p></li>
 <li class="steps">
 <p class="p">Escriba <span class="cmd">sudo systemctl hibernate</span> en el terminal y pulse <span class="key"><kbd>Intro</kbd></span>.</p>
 <p class="p">Escriba su contraseña cuando se le pida.</p>
@@ -104,13 +104,13 @@ ResultActive=yes</pre></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Energía y batería">Energía y batería</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Compruebe el estado de la batería">Estado de la batería</a></span>, <span class="link"><a href="power-suspend.html" title="¿Qué ocurre cuando suspendo el equipo?">suspender</a></span>, <span class="link"><a href="power-whydim.html" title="¿Por qué mi pantalla se oscurece después de un tiempo?">atenuación de la pantalla</a></span>…</span>
+<a href="power.html.es" title="Energía y batería">Energía y batería</a><span class="desc"> — <span class="link"><a href="power-status.html.es" title="Compruebe el estado de la batería">Estado de la batería</a></span>, <span class="link"><a href="power-suspend.html.es" title="¿Qué ocurre cuando suspendo el equipo?">suspender</a></span>, <span class="link"><a href="power-whydim.html.es" title="¿Por qué mi pantalla se oscurece después de un tiempo?">atenuación de la pantalla</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-suspendfail.html" title="¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?">¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?</a><span class="desc"> — Algunos componentes hardware del equipo dan problemas al suspender.</span>
+<a href="power-suspendfail.html.es" title="¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?">¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?</a><span class="desc"> — Algunos componentes hardware del equipo dan problemas al suspender.</span>
 </li></ul></div>
 </div></div>
 </div>

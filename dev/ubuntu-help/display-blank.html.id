@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="hardware-problems-graphics.html" title="Masalah layar">Masalah layar</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html.id#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="hardware-problems-graphics.html.id" title="Masalah layar">Masalah layar</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="power.html" title="Daya &amp; baterai">Daya &amp; baterai</a> › <a class="trail" href="power.html#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a> › <a class="trail" href="power.html.id#saving" title="Power saving settings">Power saving settings</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="prefs-display.html" title="Tampilan &amp; layar">Tampilan &amp; layar</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="power.html" title="Daya &amp; baterai">Daya &amp; baterai</a> › <a class="trail" href="power.html#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a> › <a class="trail" href="power.html.id#saving" title="Power saving settings">Power saving settings</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -62,7 +62,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">To set the screen blanking time:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Daya</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Daya</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Daya</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Use the <span class="gui">Blank screen</span> drop-down list under <span class="gui">Power
       Saving</span> to set the time until the screen blanks, or disable the blanking
@@ -71,7 +71,7 @@
 </div></div>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">When your computer is left idle, the screen will automatically lock
     itself for security reasons. To change this behavior, see
-    <span class="link"><a href="session-screenlocks.html" title="The screen locks itself too quickly">The screen locks itself too quickly</a></span>.</p></div></div></div></div>
+    <span class="link"><a href="session-screenlocks.html.id" title="The screen locks itself too quickly">The screen locks itself too quickly</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -80,11 +80,11 @@
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Masalah layar">Masalah layar</a><span class="desc"> — Melacak masalah layar dan grafis.</span>
+<a href="hardware-problems-graphics.html.id" title="Masalah layar">Masalah layar</a><span class="desc"> — Melacak masalah layar dan grafis.</span>
 </li>
-<li class="links "><a href="power.html#saving" title="Power saving settings">Power saving settings</a></li>
+<li class="links "><a href="power.html.id#saving" title="Power saving settings">Power saving settings</a></li>
 <li class="links ">
-<a href="prefs-display.html" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Latar belakang</a></span>, <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">ukuran dan rotasi</a></span>, kecerahan…</span>
+<a href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — <span class="link"><a href="look-background.html.id" title="Change the desktop and lock screen backgrounds">Latar belakang</a></span>, <span class="link"><a href="look-resolution.html.id" title="Change the resolution or rotation of the screen">ukuran dan rotasi</a></span>, kecerahan…</span>
 </li>
 </ul></div>
 </div></div>
@@ -92,10 +92,10 @@
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-whydim.html" title="Mengapa layar saya meredup setelah beberapa saat?">Mengapa layar saya meredup setelah beberapa saat?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
+<a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">Mengapa layar saya meredup setelah beberapa saat?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
 </li>
 <li class="links ">
-<a href="session-screenlocks.html" title="The screen locks itself too quickly">The screen locks itself too quickly</a><span class="desc"> — Change how long to wait before locking the screen in the
+<a href="session-screenlocks.html.id" title="The screen locks itself too quickly">The screen locks itself too quickly</a><span class="desc"> — Change how long to wait before locking the screen in the
     <span class="gui">Privacy</span> settings.</span>
 </li>
 </ul></div>

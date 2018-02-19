@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="color.html" title="Upravljanje barv">Upravljanje barv</a> › <a class="trail" href="color.html#profiles" title="Barvni profili">Barvni profili</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="color.html.sl" title="Upravljanje barv">Upravljanje barv</a> › <a class="trail" href="color.html.sl#profiles" title="Barvni profili">Barvni profili</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="color.html" title="Upravljanje barv">Upravljanje barv</a> › <a class="trail" href="color.html#profiles" title="Barvni profili">Barvni profili</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="color.html.sl" title="Upravljanje barv">Upravljanje barv</a> › <a class="trail" href="color.html.sl#profiles" title="Barvni profili">Barvni profili</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -62,30 +62,30 @@
     more than a year before the date you bought the device then it’s
     likely dummy data generated that is useless.
   </p>
-<p class="p">Oglejte si <span class="link"><a href="color-why-calibrate.html" title="Zakaj moram sam izvesti umerjanje?">Zakaj moram sam izvesti umerjanje?</a></span> za podrobnosti zakaj so barvni profili proizvajalcev pogosto popolnoma neuporabni.</p>
+<p class="p">Oglejte si <span class="link"><a href="color-why-calibrate.html.sl" title="Zakaj moram sam izvesti umerjanje?">Zakaj moram sam izvesti umerjanje?</a></span> za podrobnosti zakaj so barvni profili proizvajalcev pogosto popolnoma neuporabni.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Barvni profili">Barvni profili</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.sl#profiles" title="Barvni profili">Barvni profili</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-missingvcgt.html" title="Ali vam manjkajo podatki za celozaslonski popravek barve?">Ali vam manjkajo podatki za celozaslonski popravek barve?</a><span class="desc"> — Celozaslonski barvni popravek spremeni barve v vseh oknih.</span>
+<a href="color-missingvcgt.html.sl" title="Ali vam manjkajo podatki za celozaslonski popravek barve?">Ali vam manjkajo podatki za celozaslonski popravek barve?</a><span class="desc"> — Celozaslonski barvni popravek spremeni barve v vseh oknih.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Kaj je barvni profil?">Kaj je barvni profil?</a><span class="desc"> — Barvni profil je enostavna datoteka, ki izrazi barvni prostor ali odziv naprave.</span>
+<a href="color-whatisprofile.html.sl" title="Kaj je barvni profil?">Kaj je barvni profil?</a><span class="desc"> — Barvni profil je enostavna datoteka, ki izrazi barvni prostor ali odziv naprave.</span>
 </li>
 <li class="links ">
-<a href="color-testing.html" title="Kako lahko preizkusim ali upravljanje barv deluje pravilno?">Kako lahko preizkusim ali upravljanje barv deluje pravilno?</a><span class="desc"> — Use the supplied test profiles to check that your profiles are being
+<a href="color-testing.html.sl" title="Kako lahko preizkusim ali upravljanje barv deluje pravilno?">Kako lahko preizkusim ali upravljanje barv deluje pravilno?</a><span class="desc"> — Use the supplied test profiles to check that your profiles are being
     applied correctly to your screen.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Zakaj moram sam izvesti umerjanje?">Zakaj moram sam izvesti umerjanje?</a><span class="desc"> — Umerjanje je pomembno, če vam ni vseeno kakšne barve prikazujete ali natisnete.</span>
+<a href="color-why-calibrate.html.sl" title="Zakaj moram sam izvesti umerjanje?">Zakaj moram sam izvesti umerjanje?</a><span class="desc"> — Umerjanje je pomembno, če vam ni vseeno kakšne barve prikazujete ali natisnete.</span>
 </li>
 </ul></div>
 </div></div>

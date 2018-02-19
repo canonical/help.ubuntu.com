@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Barrierefreiheit</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Die GNOME-Arbeitsumgebung beinhaltet Hilfstechnologien zur Unterstützung von Benutzern mit diversen Beeinträchtigungen und besonderen Bedürfnissen und zur Interaktion mit gebräuchlichen Bedienungshilfen. Es kann ein Barrierefreiheitsmenü der oberen Leiste hinzugefügt werden, um viele Barrierefreiheitsfunktionen zu erreichen.</p>
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html" title="Das Barrierefreiheitsmenü finden"><span class="title">Das Barrierefreiheitsmenü finden</span><span class="linkdiv-dash"> — </span><span class="desc">Das Barrierefreiheitsmenü ist das Symbol im oberen Panel, das wie ein Mensch aussieht.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.de" title="Das Barrierefreiheitsmenü finden"><span class="title">Das Barrierefreiheitsmenü finden</span><span class="linkdiv-dash"> — </span><span class="desc">Das Barrierefreiheitsmenü ist das Symbol im oberen Panel, das wie ein Mensch aussieht.</span></a></div></div></div></div>
 </div>
 <div id="vision" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Visuelle Beeinträchtigungen</span></h2></div>
@@ -59,10 +59,10 @@
 <div class="title title-links"><h3><span class="title">Blindheit</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-braille.html" title="Den Bildschirm in Brailleschrift lesen">Den Bildschirm in Brailleschrift lesen</a><span class="desc"> — Den <span class="app">Orca</span>-Bildschirmleser mit einer Braillezeile verwenden.</span>
+<a href="a11y-braille.html.de" title="Den Bildschirm in Brailleschrift lesen">Den Bildschirm in Brailleschrift lesen</a><span class="desc"> — Den <span class="app">Orca</span>-Bildschirmleser mit einer Braillezeile verwenden.</span>
 </li>
 <li class="links ">
-<a href="a11y-screen-reader.html" title="Den Bildschirm laut vorlesen">Den Bildschirm laut vorlesen</a><span class="desc"> — Den <span class="app">Orca</span>-Bildschirmleser verwenden, damit er die Benutzerschnittstelle vorliest.</span>
+<a href="a11y-screen-reader.html.de" title="Den Bildschirm laut vorlesen">Den Bildschirm laut vorlesen</a><span class="desc"> — Den <span class="app">Orca</span>-Bildschirmleser verwenden, damit er die Benutzerschnittstelle vorliest.</span>
 </li>
 </ul></div>
 </div></div>
@@ -70,16 +70,16 @@
 <div class="title title-links"><h3><span class="title">Sehschwäche</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-cursor-blink.html" title="Den Tastaturcursor blinken lassen">Den Tastaturcursor blinken lassen</a><span class="desc"> — Den Tastaturcursor blinken lassen und einstellen, wie schnell er blinkt.</span>
+<a href="keyboard-cursor-blink.html.de" title="Den Tastaturcursor blinken lassen">Den Tastaturcursor blinken lassen</a><span class="desc"> — Den Tastaturcursor blinken lassen und einstellen, wie schnell er blinkt.</span>
 </li>
 <li class="links ">
-<a href="a11y-mag.html" title="Einen Bildschirmbereich vergrößern">Einen Bildschirmbereich vergrößern</a><span class="desc"> — Vergrößern Sie das Bild, damit Sie einfacher lesen können.</span>
+<a href="a11y-mag.html.de" title="Einen Bildschirmbereich vergrößern">Einen Bildschirmbereich vergrößern</a><span class="desc"> — Vergrößern Sie das Bild, damit Sie einfacher lesen können.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="Kontrast anpassen">Kontrast anpassen</a><span class="desc"> — Lassen Sie Fenster und Knöpfe am Bildschirm kräftiger (oder schwächer) hervorstechen, so dass sie leichter zu sehen sind.</span>
+<a href="a11y-contrast.html.de" title="Kontrast anpassen">Kontrast anpassen</a><span class="desc"> — Lassen Sie Fenster und Knöpfe am Bildschirm kräftiger (oder schwächer) hervorstechen, so dass sie leichter zu sehen sind.</span>
 </li>
 <li class="links ">
-<a href="a11y-font-size.html" title="Schriftgröße auf dem Bildschirm ändern">Schriftgröße auf dem Bildschirm ändern</a><span class="desc"> — Verwenden Sie größere Schriften, um Text einfacher lesen zu können.</span>
+<a href="a11y-font-size.html.de" title="Schriftgröße auf dem Bildschirm ändern">Schriftgröße auf dem Bildschirm ändern</a><span class="desc"> — Verwenden Sie größere Schriften, um Text einfacher lesen zu können.</span>
 </li>
 </ul></div>
 </div></div>
@@ -88,7 +88,7 @@
 <div id="sound" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Gehörprobleme</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul><li class="links ">
-<a href="a11y-visualalert.html" title="Den Bildschirm bei Warnklängen blinken lassen">Den Bildschirm bei Warnklängen blinken lassen</a><span class="desc"> — Visuelle Alarme aktivieren, um den Bildschirm oder das Fenster aufblinken zu lassen, wenn ein Warnklang abgespielt wird.</span>
+<a href="a11y-visualalert.html.de" title="Den Bildschirm bei Warnklängen blinken lassen">Den Bildschirm bei Warnklängen blinken lassen</a><span class="desc"> — Visuelle Alarme aktivieren, um den Bildschirm oder das Fenster aufblinken zu lassen, wenn ein Warnklang abgespielt wird.</span>
 </li></ul></div></div></div></div></div>
 </div></div>
 <div id="mobility" class="sect"><div class="inner">
@@ -99,10 +99,10 @@
 <div class="title title-links"><h3><span class="title">Mausbewegung</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-sensitivity.html" title="Anpassen der Geschwindigkeit von Maus und Tastfeld">Anpassen der Geschwindigkeit von Maus und Tastfeld</a><span class="desc"> — Ändern Sie, wie schnell sich der Mauszeiger bewegt, wenn Sie Ihre Maus oder Ihr Tastfeld benutzen.</span>
+<a href="mouse-sensitivity.html.de" title="Anpassen der Geschwindigkeit von Maus und Tastfeld">Anpassen der Geschwindigkeit von Maus und Tastfeld</a><span class="desc"> — Ändern Sie, wie schnell sich der Mauszeiger bewegt, wenn Sie Ihre Maus oder Ihr Tastfeld benutzen.</span>
 </li>
 <li class="links ">
-<a href="mouse-mousekeys.html" title="Klicken und Bewegen des Mauszeigers mit dem Nummernblock der Tastatur">Klicken und Bewegen des Mauszeigers mit dem Nummernblock der Tastatur</a><span class="desc"> — Die Tastaturmaus aktivieren, um mit Hilfe des Nummernblocks den Mauszeiger zu bewegen.</span>
+<a href="mouse-mousekeys.html.de" title="Klicken und Bewegen des Mauszeigers mit dem Nummernblock der Tastatur">Klicken und Bewegen des Mauszeigers mit dem Nummernblock der Tastatur</a><span class="desc"> — Die Tastaturmaus aktivieren, um mit Hilfe des Nummernblocks den Mauszeiger zu bewegen.</span>
 </li>
 </ul></div>
 </div></div>
@@ -110,13 +110,13 @@
 <div class="title title-links"><h3><span class="title">Klicken und ziehen</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-doubleclick.html" title="Anpassen der Doppelklickgeschwindigkeit">Anpassen der Doppelklickgeschwindigkeit</a><span class="desc"> — Legen Sie fest, wie schnell Sie ein zweites Mal die Maustaste drücken müssen, um doppelt zu klicken.</span>
+<a href="mouse-doubleclick.html.de" title="Anpassen der Doppelklickgeschwindigkeit">Anpassen der Doppelklickgeschwindigkeit</a><span class="desc"> — Legen Sie fest, wie schnell Sie ein zweites Mal die Maustaste drücken müssen, um doppelt zu klicken.</span>
 </li>
 <li class="links ">
-<a href="a11y-right-click.html" title="Einen Klick der rechten Maustaste simulieren">Einen Klick der rechten Maustaste simulieren</a><span class="desc"> — Die linke Maustaste für einen Rechtsklick gedrückt halten.</span>
+<a href="a11y-right-click.html.de" title="Einen Klick der rechten Maustaste simulieren">Einen Klick der rechten Maustaste simulieren</a><span class="desc"> — Die linke Maustaste für einen Rechtsklick gedrückt halten.</span>
 </li>
 <li class="links ">
-<a href="a11y-dwellclick.html" title="Klicken durch Überfahren simulieren">Klicken durch Überfahren simulieren</a><span class="desc"> — Der <span class="gui">Überfahren-Klick</span> (Verzögerter Klick) erlaubt Ihnen zu klicken, indem Sie die Maus unbewegt halten.</span>
+<a href="a11y-dwellclick.html.de" title="Klicken durch Überfahren simulieren">Klicken durch Überfahren simulieren</a><span class="desc"> — Der <span class="gui">Überfahren-Klick</span> (Verzögerter Klick) erlaubt Ihnen zu klicken, indem Sie die Maus unbewegt halten.</span>
 </li>
 </ul></div>
 </div></div>
@@ -124,22 +124,22 @@
 <div class="title title-links"><h3><span class="title">Bedienung der Tastatur</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-osk.html" title="Eine Bildschirmtastatur verwenden">Eine Bildschirmtastatur verwenden</a><span class="desc"> — So verwenden Sie eine Bildschirmtastatur zur Texteingabe durch Mausklicks oder mit einem Tastbildschirm.</span>
+<a href="keyboard-osk.html.de" title="Eine Bildschirmtastatur verwenden">Eine Bildschirmtastatur verwenden</a><span class="desc"> — So verwenden Sie eine Bildschirmtastatur zur Texteingabe durch Mausklicks oder mit einem Tastbildschirm.</span>
 </li>
 <li class="links ">
-<a href="a11y-stickykeys.html" title="Klebrige Tasten aktivieren">Klebrige Tasten aktivieren</a><span class="desc"> — Tastenkombinationen Taste für Taste tippen, statt alle Tasten gleichzeitig gedrückt halten zu müssen.</span>
+<a href="a11y-stickykeys.html.de" title="Klebrige Tasten aktivieren">Klebrige Tasten aktivieren</a><span class="desc"> — Tastenkombinationen Taste für Taste tippen, statt alle Tasten gleichzeitig gedrückt halten zu müssen.</span>
 </li>
 <li class="links ">
-<a href="a11y-bouncekeys.html" title="Springende Tasten aktivieren">Springende Tasten aktivieren</a><span class="desc"> — Schnell wiederholtes Drücken derselben Tasten ignorieren.</span>
+<a href="a11y-bouncekeys.html.de" title="Springende Tasten aktivieren">Springende Tasten aktivieren</a><span class="desc"> — Schnell wiederholtes Drücken derselben Tasten ignorieren.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html" title="Tastatursteuerung">Tastatursteuerung</a><span class="desc"> — Benutzen Sie Anwendungen und die Arbeitsumgebung ohne Maus.</span>
+<a href="keyboard-nav.html.de" title="Tastatursteuerung">Tastatursteuerung</a><span class="desc"> — Benutzen Sie Anwendungen und die Arbeitsumgebung ohne Maus.</span>
 </li>
 <li class="links ">
-<a href="a11y-slowkeys.html" title="Tastenverzögerung einschalten">Tastenverzögerung einschalten</a><span class="desc"> — Eine Verzögerung zwischen dem Drücken der Taste und dem Erscheinen des Buchstabens am Bildschirm.</span>
+<a href="a11y-slowkeys.html.de" title="Tastenverzögerung einschalten">Tastenverzögerung einschalten</a><span class="desc"> — Eine Verzögerung zwischen dem Drücken der Taste und dem Erscheinen des Buchstabens am Bildschirm.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Wiederholte Tastendrücke verwalten">Wiederholte Tastendrücke verwalten</a><span class="desc"> — Buchstaben von der Tastatur nicht wiederholt auslösen lassen, wenn Sie eine Taste gedrückt halten, oder die Verzögerung und Geschwindigkeit der Wiederholung ändern.</span>
+<a href="keyboard-repeat-keys.html.de" title="Wiederholte Tastendrücke verwalten">Wiederholte Tastendrücke verwalten</a><span class="desc"> — Buchstaben von der Tastatur nicht wiederholt auslösen lassen, wenn Sie eine Taste gedrückt halten, oder die Verzögerung und Geschwindigkeit der Wiederholung ändern.</span>
 </li>
 </ul></div>
 </div></div>
@@ -149,7 +149,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Siehe auch</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-key-menu.html" title="Was ist die Menü-Taste?">Was ist die <span class="key"><kbd>Menü</kbd></span>-Taste?</a><span class="desc"> — Die <span class="key"><kbd>Menü</kbd></span>-Taste öffnet ein Kontextmenü mit der Tastatur anstatt mit einem Klick mit der rechten Maustaste.</span>
+<a href="keyboard-key-menu.html.de" title="Was ist die Menü-Taste?">Was ist die <span class="key"><kbd>Menü</kbd></span>-Taste?</a><span class="desc"> — Die <span class="key"><kbd>Menü</kbd></span>-Taste öffnet ein Kontextmenü mit der Tastatur anstatt mit einem Klick mit der rechten Maustaste.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -159,7 +159,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu-Leitfaden">Ubuntu-Leitfaden</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.de" title="Ubuntu-Leitfaden">Ubuntu-Leitfaden</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

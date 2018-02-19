@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fichiers, dossiers &amp; recherches</span></h1></div>
@@ -53,15 +53,15 @@
 <div class="hgroup"><h2 class="title"><span class="title">Tâches courantes</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-preview.html" title="Aperçu des fichiers et des dossiers"><span class="title">Aperçu des fichiers et des dossiers</span><span class="linkdiv-dash"> — </span><span class="desc">Afficher et masquer rapidement des aperçus de documents, de vidéos et autres.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-browse.html" title="Consultation de vos fichiers et dossiers"><span class="title">Consultation de vos fichiers et dossiers</span><span class="linkdiv-dash"> — </span><span class="desc">Gérer et organiser les fichiers avec le gestionnaire de fichiers.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-copy.html" title="Copie et déplacement de fichiers et dossiers"><span class="title">Copie et déplacement de fichiers et dossiers</span><span class="linkdiv-dash"> — </span><span class="desc">Copier ou déplacer des éléments vers un nouveau dossier.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-rename.html" title="Modification d'un nom de fichier ou de dossier"><span class="title">Modification d'un nom de fichier ou de dossier</span><span class="linkdiv-dash"> — </span><span class="desc">Modifier le nom d'un fichier ou d'un dossier.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-preview.html.fr" title="Aperçu des fichiers et des dossiers"><span class="title">Aperçu des fichiers et des dossiers</span><span class="linkdiv-dash"> — </span><span class="desc">Afficher et masquer rapidement des aperçus de documents, de vidéos et autres.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-browse.html.fr" title="Consultation de vos fichiers et dossiers"><span class="title">Consultation de vos fichiers et dossiers</span><span class="linkdiv-dash"> — </span><span class="desc">Gérer et organiser les fichiers avec le gestionnaire de fichiers.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-copy.html.fr" title="Copie et déplacement de fichiers et dossiers"><span class="title">Copie et déplacement de fichiers et dossiers</span><span class="linkdiv-dash"> — </span><span class="desc">Copier ou déplacer des éléments vers un nouveau dossier.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-rename.html.fr" title="Modification d'un nom de fichier ou de dossier"><span class="title">Modification d'un nom de fichier ou de dossier</span><span class="linkdiv-dash"> — </span><span class="desc">Modifier le nom d'un fichier ou d'un dossier.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-search.html" title="Recherche de fichiers"><span class="title">Recherche de fichiers</span><span class="linkdiv-dash"> — </span><span class="desc">Locate files based on file name and type.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-delete.html" title="Suppression de fichiers et de dossiers"><span class="title">Suppression de fichiers et de dossiers</span><span class="linkdiv-dash"> — </span><span class="desc">Supprimer des fichiers ou dossiers dont vous n'avez plus besoin.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-sort.html" title="Tri des fichiers et des dossiers"><span class="title">Tri des fichiers et des dossiers</span><span class="linkdiv-dash"> — </span><span class="desc">Organiser les fichiers par nom, taille, type ou en fonction de leur date de modification.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-search.html.fr" title="Recherche de fichiers"><span class="title">Recherche de fichiers</span><span class="linkdiv-dash"> — </span><span class="desc">Locate files based on file name and type.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-delete.html.fr" title="Suppression de fichiers et de dossiers"><span class="title">Suppression de fichiers et de dossiers</span><span class="linkdiv-dash"> — </span><span class="desc">Supprimer des fichiers ou dossiers dont vous n'avez plus besoin.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-sort.html.fr" title="Tri des fichiers et des dossiers"><span class="title">Tri des fichiers et des dossiers</span><span class="linkdiv-dash"> — </span><span class="desc">Organiser les fichiers par nom, taille, type ou en fonction de leur date de modification.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -69,41 +69,41 @@
 <div class="hgroup"><h2 class="title"><span class="title">Davantage de tâches concernant les fichiers</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html" title="Arrêt ou limitation du suivi de l'historique des fichiers"><span class="title">Arrêt ou limitation du suivi de l'historique des fichiers</span><span class="linkdiv-dash"> — </span><span class="desc">Empêcher ou limiter l'ordinateur dans le traçage des fichiers récemment utilisés.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html" title="Consultation de fichiers sur un serveur ou un réseau partagé"><span class="title">Consultation de fichiers sur un serveur ou un réseau partagé</span><span class="linkdiv-dash"> — </span><span class="desc">Afficher et modifier des fichiers sur un autre ordinateur par FTP, SSH, partage Windows ou WebDAV.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="Ouverture de fichiers avec une autre application"><span class="title">Ouverture de fichiers avec une autre application</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.fr" title="Arrêt ou limitation du suivi de l'historique des fichiers"><span class="title">Arrêt ou limitation du suivi de l'historique des fichiers</span><span class="linkdiv-dash"> — </span><span class="desc">Empêcher ou limiter l'ordinateur dans le traçage des fichiers récemment utilisés.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.fr" title="Consultation de fichiers sur un serveur ou un réseau partagé"><span class="title">Consultation de fichiers sur un serveur ou un réseau partagé</span><span class="linkdiv-dash"> — </span><span class="desc">Afficher et modifier des fichiers sur un autre ordinateur par FTP, SSH, partage Windows ou WebDAV.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-open.html.fr" title="Ouverture de fichiers avec une autre application"><span class="title">Ouverture de fichiers avec une autre application</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
     type of file. You can change the default too.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-share.html" title="Partage de fichiers par courriel"><span class="title">Partage de fichiers par courriel</span><span class="linkdiv-dash"> — </span><span class="desc">Transférer facilement des fichiers à vos contacts de courriel à partir du gestionnaire de fichiers.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html" title="Propriétés de fichier"><span class="title">Propriétés de fichier</span><span class="linkdiv-dash"> — </span><span class="desc">Afficher des informations basiques sur le fichier, définir les permissions et sélectionner les applications par défaut.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-share.html.fr" title="Partage de fichiers par courriel"><span class="title">Partage de fichiers par courriel</span><span class="linkdiv-dash"> — </span><span class="desc">Transférer facilement des fichiers à vos contacts de courriel à partir du gestionnaire de fichiers.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html.fr" title="Propriétés de fichier"><span class="title">Propriétés de fichier</span><span class="linkdiv-dash"> — </span><span class="desc">Afficher des informations basiques sur le fichier, définir les permissions et sélectionner les applications par défaut.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html" title="Préférences du gestionnaire de fichiers"><span class="title">Préférences du gestionnaire de fichiers</span><span class="linkdiv-dash"> — </span><span class="desc">Afficher et définir les préférences du navigateur de fichiers.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html" title="Purge de la corbeille et des fichiers temporaires"><span class="title">Purge de la corbeille et des fichiers temporaires</span><span class="linkdiv-dash"> — </span><span class="desc">Régler la fréquence avec laquelle la corbeille et le dossier des fichiers temporaires doivent être vidés.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="Recherche d'un fichier perdu"><span class="title">Recherche d'un fichier perdu</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
+<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.fr" title="Préférences du gestionnaire de fichiers"><span class="title">Préférences du gestionnaire de fichiers</span><span class="linkdiv-dash"> — </span><span class="desc">Afficher et définir les préférences du navigateur de fichiers.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.fr" title="Purge de la corbeille et des fichiers temporaires"><span class="title">Purge de la corbeille et des fichiers temporaires</span><span class="linkdiv-dash"> — </span><span class="desc">Régler la fréquence avec laquelle la corbeille et le dossier des fichiers temporaires doivent être vidés.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html.fr" title="Recherche d'un fichier perdu"><span class="title">Recherche d'un fichier perdu</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
     downloaded.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-recover.html" title="Restauration d'un fichier à partir de la corbeille"><span class="title">Restauration d'un fichier à partir de la corbeille</span><span class="linkdiv-dash"> — </span><span class="desc">Les fichiers supprimés sont généralement déplacés dans la corbeille, d'où ils peuvent être récupérés.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html" title="Écriture de fichiers sur un CD ou un DVD"><span class="title">Écriture de fichiers sur un CD ou un DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Graver des fichiers et des documents sur un CD ou DVD vierge avec une application de gravure.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-recover.html.fr" title="Restauration d'un fichier à partir de la corbeille"><span class="title">Restauration d'un fichier à partir de la corbeille</span><span class="linkdiv-dash"> — </span><span class="desc">Les fichiers supprimés sont généralement déplacés dans la corbeille, d'où ils peuvent être récupérés.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html.fr" title="Écriture de fichiers sur un CD ou un DVD"><span class="title">Écriture de fichiers sur un CD ou un DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Graver des fichiers et des documents sur un CD ou DVD vierge avec une application de gravure.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="removable" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Médias amovibles et disques externes</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html" title="Démontage d'un lecteur externe en toute sécurité"><span class="title">Démontage d'un lecteur externe en toute sécurité</span><span class="linkdiv-dash"> — </span><span class="desc">Éjecter ou démonter une clé USB, un CD, un DVD ou tout autre périphérique.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Ouverture d'applications associées à des périphériques ou des disques"><span class="title">Ouverture d'applications associées à des périphériques ou des disques</span><span class="linkdiv-dash"> — </span><span class="desc">Lancer automatiquement des applications pour CD, DVD, appareils photo, baladeurs audio et autres périphériques et médias.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html.fr" title="Démontage d'un lecteur externe en toute sécurité"><span class="title">Démontage d'un lecteur externe en toute sécurité</span><span class="linkdiv-dash"> — </span><span class="desc">Éjecter ou démonter une clé USB, un CD, un DVD ou tout autre périphérique.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.fr" title="Ouverture d'applications associées à des périphériques ou des disques"><span class="title">Ouverture d'applications associées à des périphériques ou des disques</span><span class="linkdiv-dash"> — </span><span class="desc">Lancer automatiquement des applications pour CD, DVD, appareils photo, baladeurs audio et autres périphériques et médias.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="backup" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Sauvegardes</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html" title="Fréquence des sauvegardes"><span class="title">Fréquence des sauvegardes</span><span class="linkdiv-dash"> — </span><span class="desc">Apprendre à estimer la fréquence de sauvegarde des fichiers importants pour votre sécurité.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html" title="Où trouver les fichiers à sauvegarder ?"><span class="title">Où trouver les fichiers à sauvegarder ?</span><span class="linkdiv-dash"> — </span><span class="desc">Une liste des dossiers contenant des documents, des fichiers et des paramètres que vous aimeriez sans doute sauvegarder.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-restore.html" title="Restauration d'une sauvegarde"><span class="title">Restauration d'une sauvegarde</span><span class="linkdiv-dash"> — </span><span class="desc">Restaurer vos fichiers à partir d'une sauvegarde.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html.fr" title="Fréquence des sauvegardes"><span class="title">Fréquence des sauvegardes</span><span class="linkdiv-dash"> — </span><span class="desc">Apprendre à estimer la fréquence de sauvegarde des fichiers importants pour votre sécurité.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html.fr" title="Où trouver les fichiers à sauvegarder ?"><span class="title">Où trouver les fichiers à sauvegarder ?</span><span class="linkdiv-dash"> — </span><span class="desc">Une liste des dossiers contenant des documents, des fichiers et des paramètres que vous aimeriez sans doute sauvegarder.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-restore.html.fr" title="Restauration d'une sauvegarde"><span class="title">Restauration d'une sauvegarde</span><span class="linkdiv-dash"> — </span><span class="desc">Restaurer vos fichiers à partir d'une sauvegarde.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-why.html" title="Sauvegarde de vos fichiers importants"><span class="title">Sauvegarde de vos fichiers importants</span><span class="linkdiv-dash"> — </span><span class="desc">Pourquoi, de quoi, où et comment faire des sauvegardes ?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-check.html" title="Vérification de votre sauvegarde"><span class="title">Vérification de votre sauvegarde</span><span class="linkdiv-dash"> — </span><span class="desc">Vérifier que votre sauvegarde est réussie.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-why.html.fr" title="Sauvegarde de vos fichiers importants"><span class="title">Sauvegarde de vos fichiers importants</span><span class="linkdiv-dash"> — </span><span class="desc">Pourquoi, de quoi, où et comment faire des sauvegardes ?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-check.html.fr" title="Vérification de votre sauvegarde"><span class="title">Vérification de votre sauvegarde</span><span class="linkdiv-dash"> — </span><span class="desc">Vérifier que votre sauvegarde est réussie.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -111,14 +111,14 @@
 <div class="hgroup"><h2 class="title"><span class="title">Astuces et questions</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html" title="Définition des permissions d'accès"><span class="title">Définition des permissions d'accès</span><span class="linkdiv-dash"> — </span><span class="desc">Contrôler qui peut avoir accès à vos dossiers et fichiers.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-hidden.html" title="Masquage d'un fichier"><span class="title">Masquage d'un fichier</span><span class="linkdiv-dash"> — </span><span class="desc">Masquer un fichier pour le rendre invisible dans le gestionnaire de fichiers.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html" title="Modification des signets d'un dossier"><span class="title">Modification des signets d'un dossier</span><span class="linkdiv-dash"> — </span><span class="desc">Ajouter, supprimer et renommer les signets du gestionnaire de fichiers.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html.fr" title="Définition des permissions d'accès"><span class="title">Définition des permissions d'accès</span><span class="linkdiv-dash"> — </span><span class="desc">Contrôler qui peut avoir accès à vos dossiers et fichiers.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-hidden.html.fr" title="Masquage d'un fichier"><span class="title">Masquage d'un fichier</span><span class="linkdiv-dash"> — </span><span class="desc">Masquer un fichier pour le rendre invisible dans le gestionnaire de fichiers.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html.fr" title="Modification des signets d'un dossier"><span class="title">Modification des signets d'un dossier</span><span class="linkdiv-dash"> — </span><span class="desc">Ajouter, supprimer et renommer les signets du gestionnaire de fichiers.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-templates.html" title="Modèles de types de documents usuels"><span class="title">Modèles de types de documents usuels</span><span class="linkdiv-dash"> — </span><span class="desc">Créer rapidement de nouveaux documents à partir de modèles de fichier.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-tilde.html" title="Quel est ce fichier avec un ~ à la fin de son nom ?"><span class="title">Quel est ce fichier avec un <span class="file">~</span> à la fin de son nom ?</span><span class="linkdiv-dash"> — </span><span class="desc">Ce sont des fichiers de sauvegarde. Ils sont masqués par défaut.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-select.html" title="Sélection de fichier par motif"><span class="title">Sélection de fichier par motif</span><span class="linkdiv-dash"> — </span><span class="desc">Appuyez sur <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> pour sélectionner plusieurs fichiers avec des noms similaires.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-templates.html.fr" title="Modèles de types de documents usuels"><span class="title">Modèles de types de documents usuels</span><span class="linkdiv-dash"> — </span><span class="desc">Créer rapidement de nouveaux documents à partir de modèles de fichier.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-tilde.html.fr" title="Quel est ce fichier avec un ~ à la fin de son nom ?"><span class="title">Quel est ce fichier avec un <span class="file">~</span> à la fin de son nom ?</span><span class="linkdiv-dash"> — </span><span class="desc">Ce sont des fichiers de sauvegarde. Ils sont masqués par défaut.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-select.html.fr" title="Sélection de fichier par motif"><span class="title">Sélection de fichier par motif</span><span class="linkdiv-dash"> — </span><span class="desc">Appuyez sur <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> pour sélectionner plusieurs fichiers avec des noms similaires.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -126,7 +126,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Guide du bureau Ubuntu">Guide du bureau Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.fr" title="Guide du bureau Ubuntu">Guide du bureau Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

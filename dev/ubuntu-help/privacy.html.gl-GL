@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferencias de privacidade</span></h1></div>
@@ -54,11 +54,11 @@
   use these settings to clear your computer usage history and clean out
   unnecessary files.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html" title="Bloquear a pantalla automaticamente"><span class="title">Bloquear a pantalla automaticamente</span><span class="linkdiv-dash"> — </span><span class="desc">Impedir que outras persoas poidan usar o seu escritorio cando se ausente do seu computador.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html" title="Limpar o lixo e ficheiros temporais"><span class="title">Limpar o lixo e ficheiros temporais</span><span class="linkdiv-dash"> — </span><span class="desc">Estabeleza cada canto tempo se limpará o lixo e os ficheiros temporais do seu computador.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
+<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.gl-GL" title="Bloquear a pantalla automaticamente"><span class="title">Bloquear a pantalla automaticamente</span><span class="linkdiv-dash"> — </span><span class="desc">Impedir que outras persoas poidan usar o seu escritorio cando se ausente do seu computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.gl-GL" title="Limpar o lixo e ficheiros temporais"><span class="title">Limpar o lixo e ficheiros temporais</span><span class="linkdiv-dash"> — </span><span class="desc">Estabeleza cada canto tempo se limpará o lixo e os ficheiros temporais do seu computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.gl-GL" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
     files.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-location.html" title="Control location services"><span class="title">Control location services</span><span class="linkdiv-dash"> — </span><span class="desc">Enable or disable geolocation.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-location.html.gl-GL" title="Control location services"><span class="title">Control location services</span><span class="linkdiv-dash"> — </span><span class="desc">Enable or disable geolocation.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -66,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Configuracións do usuario e sistema">Configuracións do usuario e sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html" title="Rato">rato</a></span>, <span class="link"><a href="prefs-display.html" title="Pantalla e monitor">pantalla</a></span>, <span class="link"><a href="prefs-language.html" title="Rexión e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html" title="Contas de usuario">contas de usuario</a></span>…</span>
+<a href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións do usuario e sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.gl-GL" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html.gl-GL" title="Rato">rato</a></span>, <span class="link"><a href="prefs-display.html.gl-GL" title="Pantalla e monitor">pantalla</a></span>, <span class="link"><a href="prefs-language.html.gl-GL" title="Rexión e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html.gl-GL" title="Contas de usuario">contas de usuario</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

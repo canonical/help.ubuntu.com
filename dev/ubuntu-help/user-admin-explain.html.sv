@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="user-accounts.html" title="Användarkonton">Användare</a> › <a class="trail" href="user-accounts.html#privileges" title="Användarbehörigheter">Behörigheter</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="user-accounts.html.sv" title="Användarkonton">Användare</a> › <a class="trail" href="user-accounts.html.sv#privileges" title="Användarbehörigheter">Behörigheter</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hur fungerar administratörsbehörighet?</span></h1></div>
@@ -72,34 +72,34 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Användarbehörigheter">Användarbehörigheter</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.sv#privileges" title="Användarbehörigheter">Användarbehörigheter</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-othersedit.html" title="Andra användare kan inte redigera nätverksanslutningarna">Andra användare kan inte redigera nätverksanslutningarna</a><span class="desc"> — Du måste avmarkera alternativet <span class="gui">Tillgänglig för alla användare</span> i nätverksanslutningens inställningar.</span>
+<a href="net-othersedit.html.sv" title="Andra användare kan inte redigera nätverksanslutningarna">Andra användare kan inte redigera nätverksanslutningarna</a><span class="desc"> — Du måste avmarkera alternativet <span class="gui">Tillgänglig för alla användare</span> i nätverksanslutningens inställningar.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="Problem som orsakas av administratörsbegränsningar">Problem som orsakas av administratörsbegränsningar</a><span class="desc"> — Vissa saker, som att installera program, kan du endast göra om du har administratörsbehörighet.</span>
+<a href="user-admin-problems.html.sv" title="Problem som orsakas av administratörsbegränsningar">Problem som orsakas av administratörsbegränsningar</a><span class="desc"> — Vissa saker, som att installera program, kan du endast göra om du har administratörsbehörighet.</span>
 </li>
 <li class="links ">
-<a href="printing-setup-default-printer.html" title="Ställ in standardskrivaren">Ställ in standardskrivaren</a><span class="desc"> — Välj skrivaren som du använder oftast.</span>
+<a href="printing-setup-default-printer.html.sv" title="Ställ in standardskrivaren">Ställ in standardskrivaren</a><span class="desc"> — Välj skrivaren som du använder oftast.</span>
 </li>
 <li class="links ">
-<a href="user-delete.html" title="Ta bort ett användarkonto">Ta bort ett användarkonto</a><span class="desc"> — Ta bort användare som inte längre använder din dator.</span>
+<a href="user-delete.html.sv" title="Ta bort ett användarkonto">Ta bort ett användarkonto</a><span class="desc"> — Ta bort användare som inte längre använder din dator.</span>
 </li>
 <li class="links ">
-<a href="user-changepassword.html" title="Välj ditt lösenord">Välj ditt lösenord</a><span class="desc"> — Håll ditt konto säkert genom att ändra ditt lösenord ofta i dina kontoinställningar.</span>
+<a href="user-changepassword.html.sv" title="Välj ditt lösenord">Välj ditt lösenord</a><span class="desc"> — Håll ditt konto säkert genom att ändra ditt lösenord ofta i dina kontoinställningar.</span>
 </li>
 <li class="links ">
-<a href="user-changepicture.html" title="Ändra ditt foto på inloggningsskärmen">Ändra ditt foto på inloggningsskärmen</a><span class="desc"> — Lägg till ditt foto till inloggnings- och användarskärmarna.</span>
+<a href="user-changepicture.html.sv" title="Ändra ditt foto på inloggningsskärmen">Ändra ditt foto på inloggningsskärmen</a><span class="desc"> — Lägg till ditt foto till inloggnings- och användarskärmarna.</span>
 </li>
 <li class="links ">
-<a href="printing-name-location.html" title="Ändra namnet eller platsen för en skrivare">Ändra namnet eller platsen för en skrivare</a><span class="desc"> — Ändra namnet eller platsen för en skrivare i skrivarinställningarna.</span>
+<a href="printing-name-location.html.sv" title="Ändra namnet eller platsen för en skrivare">Ändra namnet eller platsen för en skrivare</a><span class="desc"> — Ändra namnet eller platsen för en skrivare i skrivarinställningarna.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="Ändra vem som har administratörsbehörighet">Ändra vem som har administratörsbehörighet</a><span class="desc"> — Du kan tillåta användare att göra ändringar för systemet genom att ge dem administratörsbehörighet.</span>
+<a href="user-admin-change.html.sv" title="Ändra vem som har administratörsbehörighet">Ändra vem som har administratörsbehörighet</a><span class="desc"> — Du kan tillåta användare att göra ändringar för systemet genom att ge dem administratörsbehörighet.</span>
 </li>
 </ul></div>
 </div></div>

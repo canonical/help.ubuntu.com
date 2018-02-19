@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="user-accounts.html" title="பயனர் கணக்குகள்">பயனர்கள்</a> › <a class="trail" href="user-accounts.html#privileges" title="பயனர் அனுமதிகள்">அனுமதிகள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="user-accounts.html.ta" title="பயனர் கணக்குகள்">பயனர்கள்</a> › <a class="trail" href="user-accounts.html.ta#privileges" title="பயனர் அனுமதிகள்">அனுமதிகள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">நிர்வாக கட்டுப்பாடுகளால் ஏற்படும் சிக்கல்கள்</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You may experience a few problems if you do not have
-  <span class="link"><a href="user-admin-explain.html" title="நிர்வாக அனுமதிகள் எப்படி வேலை செய்கின்றன?">administrative privileges</a></span>. Some tasks
+  <span class="link"><a href="user-admin-explain.html.ta" title="நிர்வாக அனுமதிகள் எப்படி வேலை செய்கின்றன?">administrative privileges</a></span>. Some tasks
   require administrative privileges in order to work, such as:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">connecting to networks or wireless networks,</p></li>
@@ -65,16 +65,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="பயனர் அனுமதிகள்">பயனர் அனுமதிகள்</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.ta#privileges" title="பயனர் அனுமதிகள்">பயனர் அனுமதிகள்</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="நிர்வாக அனுமதிகள் எப்படி வேலை செய்கின்றன?">நிர்வாக அனுமதிகள் எப்படி வேலை செய்கின்றன?</a><span class="desc"> — கணினியின் முக்கிய விஷயங்களை மாற்ற உங்களுக்கு நிர்வாக அனுமதிகள் வேண்டும்.</span>
+<a href="user-admin-explain.html.ta" title="நிர்வாக அனுமதிகள் எப்படி வேலை செய்கின்றன?">நிர்வாக அனுமதிகள் எப்படி வேலை செய்கின்றன?</a><span class="desc"> — கணினியின் முக்கிய விஷயங்களை மாற்ற உங்களுக்கு நிர்வாக அனுமதிகள் வேண்டும்.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="நிர்வாக உரிமைகள் யாருக்கு உள்ளது என்பதை மாற்றுதல்">நிர்வாக உரிமைகள் யாருக்கு உள்ளது என்பதை மாற்றுதல்</a><span class="desc"> — You can allow users to make changes to the system by giving them
+<a href="user-admin-change.html.ta" title="நிர்வாக உரிமைகள் யாருக்கு உள்ளது என்பதை மாற்றுதல்">நிர்வாக உரிமைகள் யாருக்கு உள்ளது என்பதை மாற்றுதல்</a><span class="desc"> — You can allow users to make changes to the system by giving them
     administrative privileges.</span>
 </li>
 </ul></div>

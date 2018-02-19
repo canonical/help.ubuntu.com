@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.sr" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html.sr#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Вратите датотеку из смећа</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Да вратите датотеку из смећа:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Датотеке</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Датотеке</span>.</p></li>
 <li class="steps"><p class="p">Притисните на <span class="app">Датотеке</span> да отворите управника датотека.</p></li>
 <li class="steps"><p class="p">Притисните <span class="gui">Смеће</span> у бочној површи. Ако не видите бочну површ, притисните на <span class="gui">Датотеке</span> у горњој траци и изаберите <span class="gui">Бочна површ</span>.</p></li>
 <li class="steps"><p class="p">Ако је ваша обрисана датотека тамо, кликните на њу и изаберите <span class="gui">Врати</span>. Након овога датотека ће бити враћена у фасциклу из које је обрисана.</p></li>
@@ -67,16 +67,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sr#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-lost.html" title="Пронађите изгубљену датотеку">Пронађите изгубљену датотеку</a><span class="desc"> — Пратите ова упутства ако не можете да пронађете датотеке које сте направили или преузели.</span>
+<a href="files-lost.html.sr" title="Пронађите изгубљену датотеку">Пронађите изгубљену датотеку</a><span class="desc"> — Пратите ова упутства ако не можете да пронађете датотеке које сте направили или преузели.</span>
 </li>
 <li class="links ">
-<a href="files-delete.html" title="Уклоните датотеке и фасцикле">Уклоните датотеке и фасцикле</a><span class="desc"> — Уклоните датотеке и фасцикле које вам више не требају.</span>
+<a href="files-delete.html.sr" title="Уклоните датотеке и фасцикле">Уклоните датотеке и фасцикле</a><span class="desc"> — Уклоните датотеке и фасцикле које вам више не требају.</span>
 </li>
 </ul></div>
 </div></div>

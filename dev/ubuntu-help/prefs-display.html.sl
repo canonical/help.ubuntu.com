@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zaslon</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="look-background.html" title="Change the desktop and lock screen backgrounds"><span class="title">Change the desktop and lock screen backgrounds</span><span class="linkdiv-dash"> — </span><span class="desc">Set an image, color, or gradient as your desktop background or lock
+<div class="linkdiv "><a class="linkdiv" href="look-background.html.sl" title="Change the desktop and lock screen backgrounds"><span class="title">Change the desktop and lock screen backgrounds</span><span class="linkdiv-dash"> — </span><span class="desc">Set an image, color, or gradient as your desktop background or lock
     screen background.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-resolution.html" title="Change the resolution or rotation of the screen"><span class="title">Change the resolution or rotation of the screen</span><span class="linkdiv-dash"> — </span><span class="desc">Sprememba ločljivosti zaslona in njegove usmerjenosti (vrtenje).</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html" title="Connect another monitor to your computer"><span class="title">Connect another monitor to your computer</span><span class="linkdiv-dash"> — </span><span class="desc">Set up an additional monitor.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html" title="Set screen brightness"><span class="title">Set screen brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
+<div class="linkdiv "><a class="linkdiv" href="look-resolution.html.sl" title="Change the resolution or rotation of the screen"><span class="title">Change the resolution or rotation of the screen</span><span class="linkdiv-dash"> — </span><span class="desc">Sprememba ločljivosti zaslona in njegove usmerjenosti (vrtenje).</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.sl" title="Connect another monitor to your computer"><span class="title">Connect another monitor to your computer</span><span class="linkdiv-dash"> — </span><span class="desc">Set up an additional monitor.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.sl" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.sl" title="Set screen brightness"><span class="title">Set screen brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
     light.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="Zaslon se prehitro zaklene"><span class="title">Zaslon se prehitro zaklene</span><span class="linkdiv-dash"> — </span><span class="desc">Change how long to wait before locking the screen in the
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.sl" title="Zaslon se prehitro zaklene"><span class="title">Zaslon se prehitro zaklene</span><span class="linkdiv-dash"> — </span><span class="desc">Change how long to wait before locking the screen in the
     <span class="gui">Privacy</span> settings.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Uporabniške in sistemske nastavitve">Uporabniške in sistemske nastavitve</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tipkovnica">Tipkovnica</a></span>, <span class="link"><a href="mouse.html" title="Miška">miška</a></span>, <span class="link"><a href="prefs-display.html" title="Zaslon">zaslon</a></span>, <span class="link"><a href="prefs-language.html" title="Področje in jezik">jeziki</a></span>, <span class="link"><a href="user-accounts.html" title="Uporabniški računi">uporabniški računi</a></span> …</span>
+<a href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Uporabniške in sistemske nastavitve</a><span class="desc"> — <span class="link"><a href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a></span>, <span class="link"><a href="mouse.html.sl" title="Miška">miška</a></span>, <span class="link"><a href="prefs-display.html.sl" title="Zaslon">zaslon</a></span>, <span class="link"><a href="prefs-language.html.sl" title="Področje in jezik">jeziki</a></span>, <span class="link"><a href="user-accounts.html.sl" title="Uporabniški računi">uporabniški računi</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

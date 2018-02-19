@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="getting-started.html" title="Komma igång">Börja med GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="getting-started.html.sv" title="Komma igång">Börja med GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-launch-applications.html" title="Starta program">Föregående</a><a class="nextlinks-next" href="gs-use-windows-workspaces.html" title="Använda fönster och arbetsytor">Nästa</a>
+<a class="nextlinks-prev" href="gs-launch-applications.html.sv" title="Starta program">Föregående</a><a class="nextlinks-next" href="gs-use-windows-workspaces.html.sv" title="Använda fönster och arbetsytor">Nästa</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Växla uppgifter</span></h1></div>
 <div class="region">
@@ -104,7 +104,7 @@
 </ol></div></div></div></div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-launch-applications.html" title="Starta program">Föregående</a><a class="nextlinks-next" href="gs-use-windows-workspaces.html" title="Använda fönster och arbetsytor">Nästa</a>
+<a class="nextlinks-prev" href="gs-launch-applications.html.sv" title="Starta program">Föregående</a><a class="nextlinks-next" href="gs-use-windows-workspaces.html.sv" title="Använda fönster och arbetsytor">Nästa</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -112,13 +112,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Komma igång">Börja med GNOME</a><span class="desc"> — Är GNOME nytt för dig? Lär dig hur du använder det.</span>
+<a href="getting-started.html.sv" title="Komma igång">Börja med GNOME</a><span class="desc"> — Är GNOME nytt för dig? Lär dig hur du använder det.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-switching.html" title="Växla mellan fönster">Växla mellan fönster</a><span class="desc"> — Tryck <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tabb</kbd></span></span>.</span>
+<a href="shell-windows-switching.html.sv" title="Växla mellan fönster">Växla mellan fönster</a><span class="desc"> — Tryck <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tabb</kbd></span></span>.</span>
 </li></ul></div>
 </div></div>
 </div>

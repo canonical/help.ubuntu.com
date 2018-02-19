@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-general.html" title="Nätverkstermer &amp; -tips">Nätverkstermer &amp; -tips</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-general.html.sv" title="Nätverkstermer &amp; -tips">Nätverkstermer &amp; -tips</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Trygghet på internet</span></h1></div>
@@ -53,16 +53,16 @@
 <p class="p">Trots säkerhetsåtgärderna som tagits för att försäkra att din installation av Linux är säker, så finns det alltid sårbarheter. Som en normalanvändare på internet kan du fortfarande vara mottaglig för:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Nätfiskebedrägerier (webbplatser och e-post som försöker få tag i känslig information genom bedrägeri)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html" title="Behöver jag söka igenom min e-post efter virus?">Vidarebefordran av skadlig e-post</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html" title="Behöver jag ett antivirusprogram?">Program med skadliga avsikter (virus)</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html" title="Vad betyder WEP och WPA?">Obehörig fjärr-/lokal nätverksåtkomst</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.sv" title="Behöver jag söka igenom min e-post efter virus?">Vidarebefordran av skadlig e-post</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.sv" title="Behöver jag ett antivirusprogram?">Program med skadliga avsikter (virus)</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.sv" title="Vad betyder WEP och WPA?">Obehörig fjärr-/lokal nätverksåtkomst</a></span></p></li>
 </ul></div></div></div>
 <p class="p">För att hålla dig säker på nätet, tänk på följande:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Var försiktig med e-post, bilagor eller länka som skickats från personer som du inte känner.</p></li>
 <li class="list"><p class="p">Om en webbplats erbjudande låter för bra för att vara sant, eller ber om känslig information som verkar onödig, tänk efter en gång till på vilken information du skickar och möjliga konsekvenser om den informationen äventyras av identitetstjuvar eller andra kriminella.</p></li>
-<li class="list"><p class="p">Var försiktig med att ge <span class="link"><a href="user-admin-explain.html" title="Hur fungerar administratörsbehörighet?">rootnivåbehörighet</a></span> till ett program, speciellt sådana som du inte har använt tidigare eller som inte är välkända. Att ge någon eller något rootnivåbehörighet utsätter din dator för en stor risk att utnyttjas.</p></li>
-<li class="list"><p class="p">Säkerställ att du bara kör nödvändiga fjärråtkomsttjänster. Att ha SSH eller VNC körandes kan vara användbar men lämnar också din dator öppen för intrång om de inte säkrats tillräckligt. Överväg att använda en <span class="link"><a href="net-firewall-on-off.html" title="Aktivera eller blockera brandväggsåtkomst">brandvägg</a></span> för att hjälpa dig att skydda din dator från intrång.</p></li>
+<li class="list"><p class="p">Var försiktig med att ge <span class="link"><a href="user-admin-explain.html.sv" title="Hur fungerar administratörsbehörighet?">rootnivåbehörighet</a></span> till ett program, speciellt sådana som du inte har använt tidigare eller som inte är välkända. Att ge någon eller något rootnivåbehörighet utsätter din dator för en stor risk att utnyttjas.</p></li>
+<li class="list"><p class="p">Säkerställ att du bara kör nödvändiga fjärråtkomsttjänster. Att ha SSH eller VNC körandes kan vara användbar men lämnar också din dator öppen för intrång om de inte säkrats tillräckligt. Överväg att använda en <span class="link"><a href="net-firewall-on-off.html.sv" title="Aktivera eller blockera brandväggsåtkomst">brandvägg</a></span> för att hjälpa dig att skydda din dator från intrång.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Nätverkstermer &amp; -tips">Nätverkstermer &amp; -tips</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Hitta din IP-adress">Hitta din IP-adress</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Vad betyder WEP och WPA?">WEP- &amp; WPA-säkerhet</a></span>, <span class="link"><a href="net-macaddress.html" title="Vad är en MAC-adress?">MAC-adresser</a></span>, <span class="link"><a href="net-proxy.html" title="Definiera proxyinställningar">proxyservrar</a></span>…</span>
+<a href="net-general.html.sv" title="Nätverkstermer &amp; -tips">Nätverkstermer &amp; -tips</a><span class="desc"> — <span class="link"><a href="net-findip.html.sv" title="Hitta din IP-adress">Hitta din IP-adress</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.sv" title="Vad betyder WEP och WPA?">WEP- &amp; WPA-säkerhet</a></span>, <span class="link"><a href="net-macaddress.html.sv" title="Vad är en MAC-adress?">MAC-adresser</a></span>, <span class="link"><a href="net-proxy.html.sv" title="Definiera proxyinställningar">proxyservrar</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

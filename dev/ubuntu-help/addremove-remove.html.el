@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Προσθήκη/Αφαίρεση Λογισμικού</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.el" title="Install &amp; remove software">Προσθήκη/Αφαίρεση Λογισμικού</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Απομακρύνετε μια εφαρμογή</span></h1></div>
@@ -58,7 +58,7 @@
    Some applications are available in both formats. In such a case in <span class="app">Ubuntu Software</span> the snap will be listed first.</p>
 <p class="p">You may also wish to remove software that does not have a GUI.
     To remove such software, you can use
-    <span class="link"><a href="addremove-install-synaptic.html" title="Χρησιμοποιήστε το Synaptic για πιο προχωρημένη διαχείριση λογισμικού">Synaptic</a></span>. Note that <span class="app">Synaptic</span> does not list snaps.
+    <span class="link"><a href="addremove-install-synaptic.html.el" title="Χρησιμοποιήστε το Synaptic για πιο προχωρημένη διαχείριση λογισμικού">Synaptic</a></span>. Note that <span class="app">Synaptic</span> does not list snaps.
   </p>
 <p class="p">To remove an application:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -91,10 +91,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Απομακρύνετε μια εφαρμογή">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+<a href="addremove.html.el" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
+      <span class="link"><a href="addremove-install.html.el" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.el" title="Απομακρύνετε μια εφαρμογή">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.el" title="Add software repositories">add repositories</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -102,7 +102,7 @@
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Install additional applications">
+<a href="addremove-install.html.el" title="Install additional applications">
     Install additional applications
   </a><span class="desc"> — 
       Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
@@ -110,7 +110,7 @@
     </span>
 </li>
 <li class="links ">
-<a href="addremove-install-synaptic.html" title="Χρησιμοποιήστε το Synaptic για πιο προχωρημένη διαχείριση λογισμικού">Χρησιμοποιήστε το Synaptic για πιο προχωρημένη  διαχείριση λογισμικού</a><span class="desc"> — 
+<a href="addremove-install-synaptic.html.el" title="Χρησιμοποιήστε το Synaptic για πιο προχωρημένη διαχείριση λογισμικού">Χρησιμοποιήστε το Synaptic για πιο προχωρημένη  διαχείριση λογισμικού</a><span class="desc"> — 
       Synaptic is a powerful but complicated software management alternative to 
       <span class="app">Ubuntu Software</span>.
     </span>

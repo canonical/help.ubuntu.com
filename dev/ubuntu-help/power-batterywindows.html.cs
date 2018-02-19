@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="power.html" title="Napájení a baterie">Napájení a baterie</a> › <a class="trail" href="power.html#faq" title="Dotazy">Dotazy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a> › <a class="trail" href="power.html.cs#faq" title="Dotazy">Dotazy</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="power.html" title="Napájení a baterie">Napájení a baterie</a> › <a class="trail" href="power.html#faq" title="Dotazy">Dotazy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a> › <a class="trail" href="power.html.cs#faq" title="Dotazy">Dotazy</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">U některých počítačů se může provoz na baterii jevit kratší, když běží pod Linuxem, než když běží pod Windows nebo Mac OS. Jedním z důvodů tohoto jevu je, že výrobci instalují pro Windows/Mac OS speciální software, který optimalizuje různá nastavení hardwaru/softwaru pro daný model počítače. Toto vyladění je hodně specifické a obvykle nezdokumentované, takže přenést jej do Linuxu je obtížné.</p>
-<p class="p">Bohužel neexistuje snadný způsob, jak byste si toto vyladění mohli sami provést, aniž byste znali přesně, co dělat. Může se vám ale hodit pár obecných <span class="link"><a href="power-batterylife.html" title="Snižte spotřebu a prodlužte výdrž baterie">metod úspory energie</a></span>. Pokud má váš počítač <span class="link"><a href="power-batteryslow.html" title="Proč je můj notebook pomalý, když běží na baterie?">procesor se škálovatelnou frekvencí</a></span>, mohou se ukázat jako přínosná i tato nastavení.</p>
+<p class="p">Bohužel neexistuje snadný způsob, jak byste si toto vyladění mohli sami provést, aniž byste znali přesně, co dělat. Může se vám ale hodit pár obecných <span class="link"><a href="power-batterylife.html.cs" title="Snižte spotřebu a prodlužte výdrž baterie">metod úspory energie</a></span>. Pokud má váš počítač <span class="link"><a href="power-batteryslow.html.cs" title="Proč je můj notebook pomalý, když běží na baterie?">procesor se škálovatelnou frekvencí</a></span>, mohou se ukázat jako přínosná i tato nastavení.</p>
 <p class="p">Dalším možným důvodem nesrovnalostí je, že se liší způsob odhadu způsob výdrže baterie ve Windows/Mac OS a v Linuxu. Skutečná výdrž baterie bude naprosto stejná, ale různé postupy poskytnou různé odhady.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,19 +62,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Dotazy">Dotazy</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.cs#faq" title="Dotazy">Dotazy</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batteryestimate.html" title="Odhad výdrže baterie je nesprávný">Odhad výdrže baterie je nesprávný</a><span class="desc"> — Výdrž baterie zobrazená po kliknutí na <span class="gui">ikonu baterie</span> je jen odhad.</span>
+<a href="power-batteryestimate.html.cs" title="Odhad výdrže baterie je nesprávný">Odhad výdrže baterie je nesprávný</a><span class="desc"> — Výdrž baterie zobrazená po kliknutí na <span class="gui">ikonu baterie</span> je jen odhad.</span>
 </li>
 <li class="links ">
-<a href="power-batteryslow.html" title="Proč je můj notebook pomalý, když běží na baterie?">Proč je můj notebook pomalý, když běží na baterie?</a><span class="desc"> — Některé notebooky se záměrně zpomalí, když běží na baterie.</span>
+<a href="power-batteryslow.html.cs" title="Proč je můj notebook pomalý, když běží na baterie?">Proč je můj notebook pomalý, když běží na baterie?</a><span class="desc"> — Některé notebooky se záměrně zpomalí, když běží na baterie.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Snižte spotřebu a prodlužte výdrž baterie">Snižte spotřebu a prodlužte výdrž baterie</a><span class="desc"> — Tipy na snížení spotřeby vašeho počítače.</span>
+<a href="power-batterylife.html.cs" title="Snižte spotřebu a prodlužte výdrž baterie">Snižte spotřebu a prodlužte výdrž baterie</a><span class="desc"> — Tipy na snížení spotřeby vašeho počítače.</span>
 </li>
 </ul></div>
 </div></div>

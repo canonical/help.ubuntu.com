@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Звук, видео и слике">Звук, видео и слике</a> › <a class="trail" href="media.html#videos" title="Видео снимци и видео камере">Видео снимци</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.sr" title="Звук, видео и слике">Звук, видео и слике</a> › <a class="trail" href="media.html.sr#videos" title="Видео снимци и видео камере">Видео снимци</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Звук, видео и слике">Звук, видео и слике</a> › <a class="trail" href="media.html#music" title="Музика и преносни музички уређаји">Музика и музички уређаји</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.sr" title="Звук, видео и слике">Звук, видео и слике</a> › <a class="trail" href="media.html.sr#music" title="Музика и преносни музички уређаји">Музика и музички уређаји</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html#removable" title="Преносиви уређаји и спољни дискови">Преносиви уређаји и спољни дискови</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.sr" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html.sr#removable" title="Преносиви уређаји и спољни дискови">Преносиви уређаји и спољни дискови</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Звук, видео и слике">Звук, видео и слике</a> › <a class="trail" href="media.html#photos" title="Фотографије и дигитални фотоапарати">Фотографије</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.sr" title="Звук, видео и слике">Звук, видео и слике</a> › <a class="trail" href="media.html.sr#photos" title="Фотографије и дигитални фотоапарати">Фотографије</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <p class="p">Можете да подесите да се одговарајући програм самостално покрене када прикључите уређај или уметнете диск или медијску картицу. На пример, можете пожелети да се покрене ваш управник фотографија када прикључите дигитални фотоапарат. Можете такође и да искључите ово, тако да се не деси ништа када нешто прикључите.</p>
 <p class="p">Да одредите који ће се програми покренути када прикључите разне уређаје:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Детаљи</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Детаљи</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Детаљи</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Кликните <span class="gui">Преносиви медији</span>.</p></li>
 <li class="steps">
@@ -77,7 +77,7 @@
 <dt class="terms">Звучни дискови</dt>
 <dd class="terms"><p class="p">Изаберите ваш омиљени програм за музику или програм за извлачење звучних ЦД-а да управља звучним дисковима. Ако користите звучне ДВД-ве (ДВД-А), изаберите како да их отворите у делу <span class="gui">Остали медији…</span>. Ако отворите звучни диск у управнику датотека, нумере ће бити приказане као ВАВ датотеке које ћете моћи да пустите у било ком програму за пуштање музике.</p></dd>
 <dt class="terms">Видео дискови</dt>
-<dd class="terms"><p class="p">Изаберите ваш омиљени видео програм за управљање видео ДВД дисковима. Користите дугме <span class="gui">Остали медији…</span> да подесите програм за Блуреј, ХД ДВД, видео ЦД (ВЦД), и супер видео ЦД (СВЦД). А ДВД или други видео дискови не раде исправно када их убаците, погледајте <span class="link"><a href="video-dvd.html" title="Зашто не могу да пустим ДВД?">Зашто не могу да пустим ДВД?</a></span>.</p></dd>
+<dd class="terms"><p class="p">Изаберите ваш омиљени видео програм за управљање видео ДВД дисковима. Користите дугме <span class="gui">Остали медији…</span> да подесите програм за Блуреј, ХД ДВД, видео ЦД (ВЦД), и супер видео ЦД (СВЦД). А ДВД или други видео дискови не раде исправно када их убаците, погледајте <span class="link"><a href="video-dvd.html.sr" title="Зашто не могу да пустим ДВД?">Зашто не могу да пустим ДВД?</a></span>.</p></dd>
 <dt class="terms">Празни дискови</dt>
 <dd class="terms"><p class="p">Користите дугме <span class="gui">Остали медији…</span> да изаберете програм за записивање дискова за празне ЦД, ДВД, Блуреј, и ХД ДВД дискове.</p></dd>
 <dt class="terms">Фото-апарати и фотографије</dt>
@@ -101,10 +101,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#videos" title="Видео снимци и видео камере">Видео снимци</a></li>
-<li class="links "><a href="media.html#music" title="Музика и преносни музички уређаји">Музика и музички уређаји</a></li>
-<li class="links "><a href="files.html#removable" title="Преносиви уређаји и спољни дискови">Преносиви уређаји и спољни дискови</a></li>
-<li class="links "><a href="media.html#photos" title="Фотографије и дигитални фотоапарати">Фотографије</a></li>
+<li class="links "><a href="media.html.sr#videos" title="Видео снимци и видео камере">Видео снимци</a></li>
+<li class="links "><a href="media.html.sr#music" title="Музика и преносни музички уређаји">Музика и музички уређаји</a></li>
+<li class="links "><a href="files.html.sr#removable" title="Преносиви уређаји и спољни дискови">Преносиви уређаји и спољни дискови</a></li>
+<li class="links "><a href="media.html.sr#photos" title="Фотографије и дигитални фотоапарати">Фотографије</a></li>
 </ul></div>
 </div></div></div>
 </div>

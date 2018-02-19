@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html#apps" title="Program och fönster">Program och fönster</a> » <a class="trail" href="shell-windows.html" title="Fönster och arbetsytor">Fönster och arbetsytor</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Arbeta med arbetsytor">Arbetsytor</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html.sv" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html.sv#apps" title="Program och fönster">Program och fönster</a> » <a class="trail" href="shell-windows.html.sv" title="Fönster och arbetsytor">Fönster och arbetsytor</a> › <a class="trail" href="shell-windows.html.sv#working-with-workspaces" title="Arbeta med arbetsytor">Arbetsytor</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Flytta ett fönster till en annan arbetsyta</span></h1></div>
@@ -52,16 +52,16 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Via musen:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>.</p></li>
 <li class="steps"><p class="p">Klicka och dra fönstret mot höger del av skärmen.</p></li>
-<li class="steps"><p class="p"><span class="em"><a href="shell-workspaces.html" title="Vad är en arbetsyta, och hur hjälper den mig?">Arbetsyteväxlaren</a></span> kommer att visas.</p></li>
+<li class="steps"><p class="p"><span class="em"><a href="shell-workspaces.html.sv" title="Vad är en arbetsyta, och hur hjälper den mig?">Arbetsyteväxlaren</a></span> kommer att visas.</p></li>
 <li class="steps"><p class="p">Släpp fönstret på en tom arbetsyta. Denna arbetsyta innehåller nu fönstret du släppte, och en ny tom arbetsyta kommer att visas längst ner i <span class="em">arbetsyteväxlaren</span>.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Via tangentbordet:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Välj fönstret som du vill flytta (till exempel via <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tabb</kbd></span></span> <span class="em"><a href="shell-windows-switching.html" title="Växla mellan fönster">fönsterväxlaren</a></span>).</p></li>
+<li class="steps"><p class="p">Välj fönstret som du vill flytta (till exempel via <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.sv" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tabb</kbd></span></span> <span class="em"><a href="shell-windows-switching.html.sv" title="Växla mellan fönster">fönsterväxlaren</a></span>).</p></li>
 <li class="steps">
 <p class="p">Tryck <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> för flytta fönstret till en arbetsyta som är ovanför den aktuella arbetsytan i <span class="em">arbetsyteväxlaren</span>.</p>
 <p class="p">Tryck <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> för flytta fönstret till en arbetsyta som är nedanför den aktuella arbetsytan i <span class="em">arbetsyteväxlaren</span>.</p>
@@ -74,12 +74,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Arbeta med arbetsytor">Arbeta med arbetsytor</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.sv#working-with-workspaces" title="Arbeta med arbetsytor">Arbeta med arbetsytor</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-workspaces.html" title="Vad är en arbetsyta, och hur hjälper den mig?">Vad är en arbetsyta, och hur hjälper den mig?</a><span class="desc"> — Arbetsytor är ett sätta gruppera fönster på ditt skrivbord.</span>
+<a href="shell-workspaces.html.sv" title="Vad är en arbetsyta, och hur hjälper den mig?">Vad är en arbetsyta, och hur hjälper den mig?</a><span class="desc"> — Arbetsytor är ett sätta gruppera fönster på ditt skrivbord.</span>
 </li></ul></div>
 </div></div>
 </div>

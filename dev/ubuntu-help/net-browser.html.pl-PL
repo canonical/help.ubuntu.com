@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Przeglądarki WWW</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html" title="Change which web browser opens websites by default"><span class="title">Change which web browser opens websites by default</span><span class="linkdiv-dash"> — </span><span class="desc">Change the default web browser by going to <span class="gui">Details</span> in <span class="gui">Settings</span>.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html" title="Zainstaluj wtyczkę Flash"><span class="title">Zainstaluj wtyczkę Flash</span><span class="linkdiv-dash"> — </span><span class="desc">You may need to install Flash to be able to view some websites, which display videos and interactive web pages.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html.pl-PL" title="Change which web browser opens websites by default"><span class="title">Change which web browser opens websites by default</span><span class="linkdiv-dash"> — </span><span class="desc">Change the default web browser by going to <span class="gui">Details</span> in <span class="gui">Settings</span>.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html.pl-PL" title="Zainstaluj wtyczkę Flash"><span class="title">Zainstaluj wtyczkę Flash</span><span class="linkdiv-dash"> — </span><span class="desc">You may need to install Flash to be able to view some websites, which display videos and interactive web pages.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -58,18 +58,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Sieć bezprzewodowa">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Sieć przewodowa">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Problemy z siecią">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Przeglądarki WWW">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email &amp; email software">email accounts</a></span>…
-    </span>
+<a href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieci bezprzewodowe</a></span>, <span class="link"><a href="net-wired.html.pl-PL" title="Sieć przewodowa">przewodowe</a></span>, <span class="link"><a href="net-problem.html.pl-PL" title="Problemy z siecią">problemy z połączeniem</a></span>, <span class="link"><a href="net-browser.html.pl-PL" title="Przeglądarki WWW">przeglądanie Internetu</a></span>, <span class="link"><a href="net-email.html.pl-PL" title="Poczta e-mail i klienty poczty">konta e-mail</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-browse-web.html" title="Przeglądanie WWW">Samouczek przeglądania WWW</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-browse-web.html.pl-PL" title="Przeglądanie WWW">Samouczek przeglądania WWW</a></li></ul></div>
 </div></div>
 </div>
 </div>

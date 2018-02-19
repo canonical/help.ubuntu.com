@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-security.html" title="Esiet droši internetā">Esiet droši internetā</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-security.html.lv" title="Esiet droši internetā">Esiet droši internetā</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Biežāk lietotie tīkla porti</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Šis ir saraksts ar biežāk izmantotajiem tīkla pakalpojumu lietotņu, tādiem kā datņu koplietošana, attālinātas darbvirsmas pārlūkošana, portiem. Jūs varat mainīt savas sistēmas ugunsmūri, lai  tas <span class="link"><a href="net-firewall-on-off.html" title="Ieslēgt vai bloķēt ugunsmūra pieeju">bloķē vai atļauj pieeju</a></span> šīm lietotnēm. Lietošanā ir tūkstošiem portu, tāpēc šis saraksts nav pilnīgs.</p>
+<p class="p">Šis ir saraksts ar biežāk izmantotajiem tīkla pakalpojumu lietotņu, tādiem kā datņu koplietošana, attālinātas darbvirsmas pārlūkošana, portiem. Jūs varat mainīt savas sistēmas ugunsmūri, lai  tas <span class="link"><a href="net-firewall-on-off.html.lv" title="Ieslēgt vai bloķēt ugunsmūra pieeju">bloķē vai atļauj pieeju</a></span> šīm lietotnēm. Lietošanā ir tūkstošiem portu, tāpēc šis saraksts nav pilnīgs.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
 <thead><tr>
 <td><p class="p">Porti</p></td>
@@ -96,13 +96,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Esiet droši internetā">Esiet droši internetā</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Vai man vajag anti-vīrus programmu?">Pretvīrusu programmatūra</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Ieslēgt vai bloķēt ugunsmūra pieeju">vienkārši ugunsmūri</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Biežāk lietotie tīkla porti">ugunsmūra porti</a></span>…</span>
+<a href="net-security.html.lv" title="Esiet droši internetā">Esiet droši internetā</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.lv" title="Vai man vajag anti-vīrus programmu?">Pretvīrusu programmatūra</a></span>, <span class="link"><a href="net-firewall-on-off.html.lv" title="Ieslēgt vai bloķēt ugunsmūra pieeju">vienkārši ugunsmūri</a></span>, <span class="link"><a href="net-firewall-ports.html.lv" title="Biežāk lietotie tīkla porti">ugunsmūra porti</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-on-off.html" title="Ieslēgt vai bloķēt ugunsmūra pieeju">Ieslēgt vai bloķēt ugunsmūra pieeju</a><span class="desc"> — Jūs varat kontrolēt, kura programma varēs piekļūt tīklam. Tas palīdzēs uzturēt jūsu datoru drošībā.</span>
+<a href="net-firewall-on-off.html.lv" title="Ieslēgt vai bloķēt ugunsmūra pieeju">Ieslēgt vai bloķēt ugunsmūra pieeju</a><span class="desc"> — Jūs varat kontrolēt, kura programma varēs piekļūt tīklam. Tas palīdzēs uzturēt jūsu datoru drošībā.</span>
 </li></ul></div>
 </div></div>
 </div>

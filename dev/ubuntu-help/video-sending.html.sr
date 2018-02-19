@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Звук, видео и слике">Звук, видео и слике</a> › <a class="trail" href="media.html#videos" title="Видео снимци и видео камере">Видео снимци</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.sr" title="Звук, видео и слике">Звук, видео и слике</a> › <a class="trail" href="media.html.sr#videos" title="Видео снимци и видео камере">Видео снимци</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Друге особе не могу да пуштају снимке које сам направио</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">Ако сте направили снимак на вашем линукс рачунару и послали га некоме ко користи Виндоуз или Мек ОС, можете увидети да имају проблема са пуштањем снимка.</p>
 <p class="p">Да би била у могућности да пусти ваш снимак, особа којој сте га послали мора да има инсталиране одговарајуће <span class="em">кодеке</span>. Кодек је мали комад софтвера који зна како да обради снимак и да га прикаже на екрану. Постоји велики број видео формата и сваки захтева другачији кодек за пуштање. Можете да проверите у ком је формату ваш снимак на следећи начин:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Отворите <span class="app">Датотеке</span> из прегледа <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">активности</a></span>.</p></li>
+<li class="list"><p class="p">Отворите <span class="app">Датотеке</span> из прегледа <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">активности</a></span>.</p></li>
 <li class="list"><p class="p">Кликните десним тастером миша на датотеку снимка и изаберите <span class="gui">Особине</span>.</p></li>
 <li class="list"><p class="p">Идите на језичак <span class="gui">Звук/видео</span> или <span class="gui">Видео</span> и погледајте који су <span class="gui">кодеци</span> исписани под <span class="gui">Видео</span> и <span class="gui">Звук</span> (ако и видео има звук).</p></li>
 </ul></div></div></div>
@@ -64,7 +64,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Видео снимци и видео камере">Видео снимци</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.sr#videos" title="Видео снимци и видео камере">Видео снимци</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="mouse.html" title="Мышь">Мышь</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="mouse.html.ru" title="Мышь">Мышь</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Специальные возможности">Специальные возможности</a> › <a class="trail" href="a11y.html#mobility" title="Ограничения подвижности">Ограничения подвижности</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ru" title="Специальные возможности">Специальные возможности</a> › <a class="trail" href="a11y.html.ru#mobility" title="Ограничения подвижности">Ограничения подвижности</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="mouse.html" title="Мышь">Мышь</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="mouse.html.ru" title="Мышь">Мышь</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,9 +58,9 @@
 <p class="p">Если вам трудно управлять мышью или другим координатным устройством, можно управлять указателем мыши с помощью клавиш цифрового блока клавиатуры. Эта функция называется <span class="em">«кнопки мыши»</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p>
-<p class="p">Открыть режим <span class="gui">Обзора</span> можно, нажав на него, а также переведя курсор мыши в левый верхний угол экрана, с помощью клавиш <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> и <span class="key"><kbd>Enter</kbd></span>, или же используя клавишу <span class="key"><a href="keyboard-key-super.html" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>.</p>
+<p class="p">Открыть режим <span class="gui">Обзора</span> можно, нажав на него, а также переведя курсор мыши в левый верхний угол экрана, с помощью клавиш <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> и <span class="key"><kbd>Enter</kbd></span>, или же используя клавишу <span class="key"><a href="keyboard-key-super.html.ru" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>.</p>
 </li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Универсальный доступ</span>, чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Use the up and down arrow keys to select <span class="gui">Mouse Keys</span> in the
@@ -75,7 +75,7 @@
   feature often on a laptop, you can purchase external USB or Bluetooth numeric
   keypads.</p>
 <p class="p">Каждая клавиша с номером в цифровом блоке соответствует направлению. Например, нажатие клавиши <span class="key"><kbd>8</kbd></span> переместит указатель вверх, а нажатие клавиши <span class="key"><kbd>2</kbd></span> — вниз. Чтобы выполнить нажатие мышью, нажмите <span class="key"><kbd>5</kbd></span>, а для двойного нажатия быстро нажмите эту же клавишу дважды.</p>
-<p class="p">На многих клавиатурах имеется специальная клавиша, соответствующая нажатию правой кнопкой мыши. Иногда её называют «кнопкой <span class="key"><a href="keyboard-key-menu.html" title="Что такое клавиша Меню?"><kbd>Меню</kbd></a></span>». Обратите внимание, что нажатие этой клавиши соответствует нажатию правой кнопкой там, где находится фокус клавиатуры, а не там, где находится указатель мыши. См. <span class="link"><a href="a11y-right-click.html" title="Имитация нажатия правой кнопкой мыши">Имитация нажатия правой кнопкой мыши</a></span>, чтобы узнать, как можно имитировать нажатие правой кнопкой при удержании нажатой клавиши <span class="key"><kbd>5</kbd></span> или левой кнопки мыши.</p>
+<p class="p">На многих клавиатурах имеется специальная клавиша, соответствующая нажатию правой кнопкой мыши. Иногда её называют «кнопкой <span class="key"><a href="keyboard-key-menu.html.ru" title="Что такое клавиша Меню?"><kbd>Меню</kbd></a></span>». Обратите внимание, что нажатие этой клавиши соответствует нажатию правой кнопкой там, где находится фокус клавиатуры, а не там, где находится указатель мыши. См. <span class="link"><a href="a11y-right-click.html.ru" title="Имитация нажатия правой кнопкой мыши">Имитация нажатия правой кнопкой мыши</a></span>, чтобы узнать, как можно имитировать нажатие правой кнопкой при удержании нажатой клавиши <span class="key"><kbd>5</kbd></span> или левой кнопки мыши.</p>
 <p class="p">Если при включённых «кнопках мыши» нужно воспользоваться цифровым блоком для ввода цифр, включите <span class="key"><kbd>Num Lock</kbd></span>. Помните, что при включённом <span class="key"><kbd>Num Lock</kbd></span> управлять указателем мыши с помощью цифрового блока клавиатуры невозможно.</p>
 <div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">Обычные клавиши с цифрами, находящиеся в верхнем ряду клавиатуры, не могут управлять указателем мыши. Для этого можно использовать лишь клавиши цифрового блока.</p></div></div></div></div>
 </div>
@@ -85,9 +85,9 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse.html" title="Мышь">Мышь</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Управление мышью левой рукой">Управление левой рукой</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Настройка скорости мыши и сенсорной панели">скорость и чувствительность</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Нажатия, перетаскивание и прокрутка с помощью сенсорной панели">нажатия и прокрутка на сенсорной панели</a></span>…</span>
+<a href="mouse.html.ru" title="Мышь">Мышь</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.ru" title="Управление мышью левой рукой">Управление левой рукой</a></span>, <span class="link"><a href="mouse-sensitivity.html.ru" title="Настройка скорости мыши и сенсорной панели">скорость и чувствительность</a></span>, <span class="link"><a href="mouse-touchpad-click.html.ru" title="Нажатия, перетаскивание и прокрутка с помощью сенсорной панели">нажатия и прокрутка на сенсорной панели</a></span>…</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Ограничения подвижности">Ограничения подвижности</a></li>
+<li class="links "><a href="a11y.html.ru#mobility" title="Ограничения подвижности">Ограничения подвижности</a></li>
 </ul></div>
 </div></div></div>
 </div>

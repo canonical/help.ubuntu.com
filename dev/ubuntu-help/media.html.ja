@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">サウンド、ビデオ、画像</span></h1></div>
@@ -54,13 +54,13 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-broken.html" title="サウンドの問題"><span class="title">サウンドの問題</span><span class="linkdiv-dash"> — </span><span class="desc">音声が出ない、あるいは音声の質が悪い、といった問題を解決します。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-volume.html" title="サウンドの音量の変更"><span class="title">サウンドの音量の変更</span><span class="linkdiv-dash"> — </span><span class="desc">コンピューターのサウンドの音量をセットし、それぞれのアプリケーションの音量を調節します。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html" title="外付けマイクを使用する"><span class="title">外付けマイクを使用する</span><span class="linkdiv-dash"> — </span><span class="desc">アナログあるいはUSBマイクを使い、デフォルトの入力デバイスとして選択します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-broken.html.ja" title="サウンドの問題"><span class="title">サウンドの問題</span><span class="linkdiv-dash"> — </span><span class="desc">音声が出ない、あるいは音声の質が悪い、といった問題を解決します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-volume.html.ja" title="サウンドの音量の変更"><span class="title">サウンドの音量の変更</span><span class="linkdiv-dash"> — </span><span class="desc">コンピューターのサウンドの音量をセットし、それぞれのアプリケーションの音量を調節します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html.ja" title="外付けマイクを使用する"><span class="title">外付けマイクを使用する</span><span class="linkdiv-dash"> — </span><span class="desc">アナログあるいはUSBマイクを使い、デフォルトの入力デバイスとして選択します。</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html" title="外部のスピーカーやヘッドフォンを使う"><span class="title">外部のスピーカーやヘッドフォンを使う</span><span class="linkdiv-dash"> — </span><span class="desc">スピーカーあるいはヘッドフォンを接続し、デフォルトのオーディオ出力デバイスを選択します。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-alert.html" title="警告音を選択する、もしくは無効にする"><span class="title">警告音を選択する、もしくは無効にする</span><span class="linkdiv-dash"> — </span><span class="desc">メッセージのための再生音を選び、警告音量の設定や警告音の無効を設定します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html.ja" title="外部のスピーカーやヘッドフォンを使う"><span class="title">外部のスピーカーやヘッドフォンを使う</span><span class="linkdiv-dash"> — </span><span class="desc">スピーカーあるいはヘッドフォンを接続し、デフォルトのオーディオ出力デバイスを選択します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-alert.html.ja" title="警告音を選択する、もしくは無効にする"><span class="title">警告音を選択する、もしくは無効にする</span><span class="linkdiv-dash"> — </span><span class="desc">メッセージのための再生音を選び、警告音量の設定や警告音の無効を設定します。</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">詳細</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="ユーザー設定およびシステム設定">ユーザー設定およびシステム設定</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="キーボード">キーボード</a></span>, <span class="link"><a href="mouse.html" title="マウス">マウス</a></span>, <span class="link"><a href="prefs-display.html" title="Display &amp; screen">ディスプレイ</a></span>, <span class="link"><a href="prefs-language.html" title="地域と言語">言語</a></span>, <span class="link"><a href="user-accounts.html" title="ユーザーアカウント">ユーザーアカウント</a></span>…</span>
+<a href="prefs.html.ja" title="ユーザー設定およびシステム設定">ユーザー設定およびシステム設定</a><span class="desc"> — <span class="link"><a href="keyboard.html.ja" title="キーボード">キーボード</a></span>, <span class="link"><a href="mouse.html.ja" title="マウス">マウス</a></span>, <span class="link"><a href="prefs-display.html.ja" title="Display &amp; screen">ディスプレイ</a></span>, <span class="link"><a href="prefs-language.html.ja" title="地域と言語">言語</a></span>, <span class="link"><a href="user-accounts.html.ja" title="ユーザーアカウント">ユーザーアカウント</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -78,33 +78,33 @@
 <div class="hgroup"><h2 class="title"><span class="title">音楽とポータブルオーディオプレイヤー</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="I can’t play the songs I bought from an online music store"><span class="title">I can’t play the songs I bought from an online music store</span><span class="linkdiv-dash"> — </span><span class="desc">Support for that file format might not be installed or the songs could be “copy protected”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html" title="My new iPod won’t work"><span class="title">My new iPod won’t work</span><span class="linkdiv-dash"> — </span><span class="desc">iPod はあらかじめ、iTunes ソフトウェアを使って設定しておく必要があります。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html.ja" title="I can’t play the songs I bought from an online music store"><span class="title">I can’t play the songs I bought from an online music store</span><span class="linkdiv-dash"> — </span><span class="desc">Support for that file format might not be installed or the songs could be “copy protected”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html.ja" title="My new iPod won’t work"><span class="title">My new iPod won’t work</span><span class="linkdiv-dash"> — </span><span class="desc">iPod はあらかじめ、iTunes ソフトウェアを使って設定しておく必要があります。</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html" title="Songs don’t appear on my iPod when I copy them onto it"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span><span class="linkdiv-dash"> — </span><span class="desc">メディアプレイヤーを使って楽曲をコピーし、その後に iPod を安全に取り外します。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="デバイスやディスクにあわせてアプリケーションを起動する"><span class="title">デバイスやディスクにあわせてアプリケーションを起動する</span><span class="linkdiv-dash"> — </span><span class="desc">CDやDVD、カメラ、オーディオプレイヤー、その他のデバイスおよびメディアにあわせてアプリケーションを自動起動します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html.ja" title="Songs don’t appear on my iPod when I copy them onto it"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span><span class="linkdiv-dash"> — </span><span class="desc">メディアプレイヤーを使って楽曲をコピーし、その後に iPod を安全に取り外します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.ja" title="デバイスやディスクにあわせてアプリケーションを起動する"><span class="title">デバイスやディスクにあわせてアプリケーションを起動する</span><span class="linkdiv-dash"> — </span><span class="desc">CDやDVD、カメラ、オーディオプレイヤー、その他のデバイスおよびメディアにあわせてアプリケーションを自動起動します。</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="photos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">写真とデジタルカメラ</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="デバイスやディスクにあわせてアプリケーションを起動する"><span class="title">デバイスやディスクにあわせてアプリケーションを起動する</span><span class="linkdiv-dash"> — </span><span class="desc">CDやDVD、カメラ、オーディオプレイヤー、その他のデバイスおよびメディアにあわせてアプリケーションを自動起動します。</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html" title="メディアカードリーダーの問題"><span class="title">メディアカードリーダーの問題</span><span class="linkdiv-dash"> — </span><span class="desc">メディアカードリーダーの問題を解決します。</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.ja" title="デバイスやディスクにあわせてアプリケーションを起動する"><span class="title">デバイスやディスクにあわせてアプリケーションを起動する</span><span class="linkdiv-dash"> — </span><span class="desc">CDやDVD、カメラ、オーディオプレイヤー、その他のデバイスおよびメディアにあわせてアプリケーションを自動起動します。</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html.ja" title="メディアカードリーダーの問題"><span class="title">メディアカードリーダーの問題</span><span class="linkdiv-dash"> — </span><span class="desc">メディアカードリーダーの問題を解決します。</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="videos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">ビデオとビデオカメラ</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="video-sending.html" title="Other people can’t play the videos I made"><span class="title">Other people can’t play the videos I made</span><span class="linkdiv-dash"> — </span><span class="desc">正しいビデオコーデックがインストールされているか確かめます。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd.html" title="Why won’t DVDs play?"><span class="title">Why won’t DVDs play?</span><span class="linkdiv-dash"> — </span><span class="desc">正しいコーデックがインストールされていないか、DVD のリージョンが異なる可能性があります。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="app-cheese.html" title="ウェブカメラで面白い写真や動画を撮る"><span class="title">ウェブカメラで面白い写真や動画を撮る</span><span class="linkdiv-dash"> — </span><span class="desc">これはあなたの個人的な写真撮影装置のようなものです。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-sending.html.ja" title="Other people can’t play the videos I made"><span class="title">Other people can’t play the videos I made</span><span class="linkdiv-dash"> — </span><span class="desc">正しいビデオコーデックがインストールされているか確かめます。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd.html.ja" title="Why won’t DVDs play?"><span class="title">Why won’t DVDs play?</span><span class="linkdiv-dash"> — </span><span class="desc">正しいコーデックがインストールされていないか、DVD のリージョンが異なる可能性があります。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="app-cheese.html.ja" title="ウェブカメラで面白い写真や動画を撮る"><span class="title">ウェブカメラで面白い写真や動画を撮る</span><span class="linkdiv-dash"> — </span><span class="desc">これはあなたの個人的な写真撮影装置のようなものです。</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="デバイスやディスクにあわせてアプリケーションを起動する"><span class="title">デバイスやディスクにあわせてアプリケーションを起動する</span><span class="linkdiv-dash"> — </span><span class="desc">CDやDVD、カメラ、オーディオプレイヤー、その他のデバイスおよびメディアにあわせてアプリケーションを自動起動します。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html" title="どうすればDVD再生用の制限されたコーデックを使用できますか？"><span class="title">どうすればDVD再生用の制限されたコーデックを使用できますか？</span><span class="linkdiv-dash"> — </span><span class="desc">多くの商業用DVDは暗号化されており、復号ソフトウェアを使わないと再生できません。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.ja" title="デバイスやディスクにあわせてアプリケーションを起動する"><span class="title">デバイスやディスクにあわせてアプリケーションを起動する</span><span class="linkdiv-dash"> — </span><span class="desc">CDやDVD、カメラ、オーディオプレイヤー、その他のデバイスおよびメディアにあわせてアプリケーションを自動起動します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html.ja" title="どうすればDVD再生用の制限されたコーデックを使用できますか？"><span class="title">どうすればDVD再生用の制限されたコーデックを使用できますか？</span><span class="linkdiv-dash"> — </span><span class="desc">多くの商業用DVDは暗号化されており、復号ソフトウェアを使わないと再生できません。</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -112,7 +112,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu デスクトップガイド">Ubuntu デスクトップガイド</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.ja" title="Ubuntu デスクトップガイド">Ubuntu デスクトップガイド</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

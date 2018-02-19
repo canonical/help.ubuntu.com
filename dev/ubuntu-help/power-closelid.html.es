@@ -44,17 +44,17 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="power.html" title="Energía y batería">Energía y batería</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="power.html.es" title="Energía y batería">Energía y batería</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="power.html" title="Energía y batería">Energía y batería</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="power.html.es" title="Energía y batería">Energía y batería</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">¿Por qué se apaga mi equipo cuando cierro la tapa?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Cuando cierra la pantalla de su portátil, su equipo se <span class="link"><a href="power-suspend.html" title="¿Qué ocurre cuando suspendo el equipo?"><span class="em">suspend</span></a></span> para ahorrar energía. Esto quiere decir que el equipo no está realmente apagado, solo está durmiendo. Puede despertarlo abriendo de nuevo la pantalla. Si no se despierta así, pruebe pulsando un botón del ratón o una tecla cualquiera. Si sigue sin funcionar, pulse el botón de encendido.</p>
-<p class="p">Algunos equipos no se suspenden correctamente, normalmente porque su hardware no funciona completamente con el sistema operativo (ej. los controladores de Linux no están completos). En este caso, verá que no puede reanudar su equipo después de haber cerrado la tapa del portátil. Puede intentar <span class="link"><a href="power-suspendfail.html" title="¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?">arreglar problemas de suspensión</a></span>, o puede evitar que el equipo intente suspenderse cuando cierre la tapa de su portátil.</p>
+<p class="p">Cuando cierra la pantalla de su portátil, su equipo se <span class="link"><a href="power-suspend.html.es" title="¿Qué ocurre cuando suspendo el equipo?"><span class="em">suspend</span></a></span> para ahorrar energía. Esto quiere decir que el equipo no está realmente apagado, solo está durmiendo. Puede despertarlo abriendo de nuevo la pantalla. Si no se despierta así, pruebe pulsando un botón del ratón o una tecla cualquiera. Si sigue sin funcionar, pulse el botón de encendido.</p>
+<p class="p">Algunos equipos no se suspenden correctamente, normalmente porque su hardware no funciona completamente con el sistema operativo (ej. los controladores de Linux no están completos). En este caso, verá que no puede reanudar su equipo después de haber cerrado la tapa del portátil. Puede intentar <span class="link"><a href="power-suspendfail.html.es" title="¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?">arreglar problemas de suspensión</a></span>, o puede evitar que el equipo intente suspenderse cuando cierre la tapa de su portátil.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Parar la suspensión del equipo cuando se cierra la tapa</span></h2></div>
@@ -64,10 +64,11 @@
 <p class="p">Si no quiere que el equipo se suspenda al cerrar la tapa, puede cambiar la configuración de ese comportamiento.</p>
 <div class="note note-warning" title="Advertencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Tenga cuidado si cambia esta configuración. Algunos portátiles se pueden sobrecalentar si se dejan encendidos con la tapa cerrada, especialmente si están en un lugar cerrado como una mochila.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Retoques</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Retoques</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Retoques</span> para abrir la aplicación.</p></li>
 <li class="steps"><p class="p">Pulse en la pestaña <span class="gui">Energía</span>.</p></li>
-<li class="steps"><p class="p">Active la <span class="gui">No suspender al cerrar la tapa</span> (<span class="gui">Encendido</span>).</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
+      <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Cierre la ventana de la <span class="gui">Retoques</span>.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -78,17 +79,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Energía y batería">Energía y batería</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Compruebe el estado de la batería">Estado de la batería</a></span>, <span class="link"><a href="power-suspend.html" title="¿Qué ocurre cuando suspendo el equipo?">suspender</a></span>, <span class="link"><a href="power-whydim.html" title="¿Por qué mi pantalla se oscurece después de un tiempo?">atenuación de la pantalla</a></span>…</span>
+<a href="power.html.es" title="Energía y batería">Energía y batería</a><span class="desc"> — <span class="link"><a href="power-status.html.es" title="Compruebe el estado de la batería">Estado de la batería</a></span>, <span class="link"><a href="power-suspend.html.es" title="¿Qué ocurre cuando suspendo el equipo?">suspender</a></span>, <span class="link"><a href="power-whydim.html.es" title="¿Por qué mi pantalla se oscurece después de un tiempo?">atenuación de la pantalla</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspendfail.html" title="¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?">¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?</a><span class="desc"> — Algunos componentes hardware del equipo dan problemas al suspender.</span>
+<a href="power-suspendfail.html.es" title="¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?">¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?</a><span class="desc"> — Algunos componentes hardware del equipo dan problemas al suspender.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="¿Qué ocurre cuando suspendo el equipo?">¿Qué ocurre cuando suspendo el equipo?</a><span class="desc"> — Suspender pone su equipo a dormir para que use menos energía.</span>
+<a href="power-suspend.html.es" title="¿Qué ocurre cuando suspendo el equipo?">¿Qué ocurre cuando suspendo el equipo?</a><span class="desc"> — Suspender pone su equipo a dormir para que use menos energía.</span>
 </li>
 </ul></div>
 </div></div>

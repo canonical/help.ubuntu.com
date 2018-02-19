@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html#problems" title="Problemi comuni">Problemi comuni</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> » <a class="trail" href="mouse.html.it" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html.it#problems" title="Problemi comuni">Problemi comuni</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html#problems" title="Problemi comuni">Problemi comuni</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="mouse.html.it" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html.it#problems" title="Problemi comuni">Problemi comuni</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Il punatore del mouse non si sposta</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Controllare che il mouse sia collegato">Controllare che il mouse sia collegato</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Verificare che il mouse stia effettivamente funzionando">Verificare che il mouse stia effettivamente funzionando</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Verificare mouse senza fili">Verificare mouse senza fili</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.it#plugged-in" title="Controllare che il mouse sia collegato">Controllare che il mouse sia collegato</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.it#broken" title="Verificare che il mouse stia effettivamente funzionando">Verificare che il mouse stia effettivamente funzionando</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.it#wireless-mice" title="Verificare mouse senza fili">Verificare mouse senza fili</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Controllare che il mouse sia collegato</span></h2></div>
@@ -78,8 +78,8 @@
 <li class="list"><p class="p">Make sure the mouse is turned on. There is often a switch on the
       bottom of the mouse to turn the mouse off completely, so you can take it
       with you without it constantly waking up.</p></li>
-<li class="list"><p class="p">Se si usa un mouse Bluetooth, assicurarsi di averlo effettivamente associato al computer. Per maggiori informazioni, consultare <span class="link"><a href="bluetooth-connect-device.html" title="Connettere il computer a un dispositivo Bluetooth">Connettere il computer a un dispositivo Bluetooth</a></span>.</p></li>
-<li class="list"><p class="p">Premere un pulsante e verificare se il puntatore del mouse ora si muove. Alcuni mouse senza fili si mettono in pausa per risparmiare energia e così potrebbero non rispondere fino a quando non si preme un pulsante. Per maggiori informazioni, consultare <span class="link"><a href="mouse-wakeup.html" title="Mouse reacts with delay before it starts working">Mouse reacts with delay before it starts working</a></span>.</p></li>
+<li class="list"><p class="p">Se si usa un mouse Bluetooth, assicurarsi di averlo effettivamente associato al computer. Per maggiori informazioni, consultare <span class="link"><a href="bluetooth-connect-device.html.it" title="Connettere il computer a un dispositivo Bluetooth">Connettere il computer a un dispositivo Bluetooth</a></span>.</p></li>
+<li class="list"><p class="p">Premere un pulsante e verificare se il puntatore del mouse ora si muove. Alcuni mouse senza fili si mettono in pausa per risparmiare energia e così potrebbero non rispondere fino a quando non si preme un pulsante. Per maggiori informazioni, consultare <span class="link"><a href="mouse-wakeup.html.it" title="Mouse reacts with delay before it starts working">Mouse reacts with delay before it starts working</a></span>.</p></li>
 <li class="list"><p class="p">Verificare che la batteria del mouse sia carica.</p></li>
 <li class="list"><p class="p">Assicurarsi che il ricevitore (adattatore) sia saldamente collegato al computer.</p></li>
 <li class="list"><p class="p">Se il mouse e il ricevitore possono operare su diversi canali radio, assicurarsi che siano entrambi impostati sullo stesso canale.</p></li>
@@ -92,7 +92,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Problemi comuni">Problemi comuni del mouse</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.it#problems" title="Problemi comuni">Problemi comuni del mouse</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

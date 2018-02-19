@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-general.html" title="Tīkla noteikumi un padomi">Tīkla noteikumi un padomi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-general.html.lv" title="Tīkla noteikumi un padomi">Tīkla noteikumi un padomi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Atrodiet savu IP adresi.</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Atrodiet savu iekšējo (tīkla) IP adresi</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Tīkls</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Tīkls</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Tīkls</span>, lai atvērtu paneli.</p></li>
 <li class="steps">
 <p class="p">Izvēlieties <span class="gui">Wi-Fi</span> vai <span class="gui">Vadu</span> no saraksta kreisajā pusē.</p>
@@ -77,17 +77,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Tīkla noteikumi un padomi">Tīkla noteikumi un padomi</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Atrodiet savu IP adresi.">Atrodi savu IP adresi</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Ko nozīmē WEP un WPA?">WEP un WPA drošība</a></span>, <span class="link"><a href="net-macaddress.html" title="Kas ir MAC adrese?">MAC adreses</a></span>, <span class="link"><a href="net-proxy.html" title="Norādīt starpnieka iestatījumus">starpnieki</a></span>…</span>
+<a href="net-general.html.lv" title="Tīkla noteikumi un padomi">Tīkla noteikumi un padomi</a><span class="desc"> — <span class="link"><a href="net-findip.html.lv" title="Atrodiet savu IP adresi.">Atrodi savu IP adresi</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.lv" title="Ko nozīmē WEP un WPA?">WEP un WPA drošība</a></span>, <span class="link"><a href="net-macaddress.html.lv" title="Kas ir MAC adrese?">MAC adreses</a></span>, <span class="link"><a href="net-proxy.html.lv" title="Norādīt starpnieka iestatījumus">starpnieki</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-what-is-ip-address.html" title="Kas ir IP adrese?">Kas ir IP adrese?</a><span class="desc"> — IP adrese ir kā tālruņa numurs jūsu datoram.</span>
+<a href="net-what-is-ip-address.html.lv" title="Kas ir IP adrese?">Kas ir IP adrese?</a><span class="desc"> — IP adrese ir kā tālruņa numurs jūsu datoram.</span>
 </li>
 <li class="links ">
-<a href="net-fixed-ip-address.html" title="Veidot savienojumu ar fiksēto IP adresi.">Veidot savienojumu ar fiksēto IP adresi.</a><span class="desc"> — Statiskas IP adreses izmantošana var atvieglot dažu tīkla pakalpojumu sniegšanu no jūsu datora.</span>
+<a href="net-fixed-ip-address.html.lv" title="Veidot savienojumu ar fiksēto IP adresi.">Veidot savienojumu ar fiksēto IP adresi.</a><span class="desc"> — Statiskas IP adreses izmantošana var atvieglot dažu tīkla pakalpojumu sniegšanu no jūsu datora.</span>
 </li>
 </ul></div>
 </div></div>

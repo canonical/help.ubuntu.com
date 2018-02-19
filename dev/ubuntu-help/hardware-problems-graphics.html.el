@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Προβλήματα οθόνης</span></h1></div>
@@ -51,20 +51,20 @@
 <div class="contents">
 <p class="p">Τα περισσότερα προβλήματα με την οθόνη προκαλούνται από προβλήματα με οδηγούς γραφικών ή διαμόρφωση. Ποια από τα παρακάτω θέματα περιγράφει καλύτερα το πρόβλημα που αντιμετωπίζεται;</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;"><span class="title">Γιατί η οθόνη μου εξασθενεί μετά από λίγο;</span><span class="linkdiv-dash"> — </span><span class="desc">Η οθόνη θα εξασθενίσει όταν ο υπολογιστής είναι αδρανής για να εξοικονομήσει ισχύ.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html" title="Γιατί κάποια πράγματα φαίνονται ασαφή/θολά στην οθόνη μου;"><span class="title">Γιατί κάποια πράγματα φαίνονται ασαφή/θολά στην οθόνη μου;</span><span class="linkdiv-dash"> — </span><span class="desc">Η ανάλυση οθόνης μπορεί να έχει οριστεί λαθεμένα.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;"><span class="title">Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;</span><span class="linkdiv-dash"> — </span><span class="desc">Κάποια εξαρτήματα υπολογιστών προκαλούν προβλήματα με την αναστολή.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="Η οθόνη κλειδώνει υπερβολικά γρήγορα"><span class="title">Η οθόνη κλειδώνει υπερβολικά γρήγορα</span><span class="linkdiv-dash"> — </span><span class="desc">Αλλάξτε τον χρόνο αναμονής πριν να κλειδώσετε την οθόνη στις ρυθμίσεις <span class="gui">Ιδιωτικότητα</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html" title="Ορισμός φωτεινότητας της οθόνης"><span class="title">Ορισμός φωτεινότητας της οθόνης</span><span class="linkdiv-dash"> — </span><span class="desc">Αλλάξτε τη φωτεινότητα οθόνης για να γίνει πιο ευανάγνωστη στο λαμπερό φως.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Ορισμός χρόνου σβησίματος οθόνης"><span class="title">Ορισμός χρόνου σβησίματος οθόνης</span><span class="linkdiv-dash"> — </span><span class="desc">Αλλάξτε τον χρόνο σβησίματος της οθόνης σας για να εξοικονομήσετε ενέργεια.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="Ο υπολογιστής μου δεν ανοίγει"><span class="title">Ο υπολογιστής μου δεν ανοίγει</span><span class="linkdiv-dash"> — </span><span class="desc">Χαλαρά καλώδια και προβλήματα υλικού είναι πιθανά αίτια.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.el" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;"><span class="title">Γιατί η οθόνη μου εξασθενεί μετά από λίγο;</span><span class="linkdiv-dash"> — </span><span class="desc">Η οθόνη θα εξασθενίσει όταν ο υπολογιστής είναι αδρανής για να εξοικονομήσει ισχύ.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.el" title="Γιατί κάποια πράγματα φαίνονται ασαφή/θολά στην οθόνη μου;"><span class="title">Γιατί κάποια πράγματα φαίνονται ασαφή/θολά στην οθόνη μου;</span><span class="linkdiv-dash"> — </span><span class="desc">Η ανάλυση οθόνης μπορεί να έχει οριστεί λαθεμένα.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.el" title="Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;"><span class="title">Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;</span><span class="linkdiv-dash"> — </span><span class="desc">Κάποια εξαρτήματα υπολογιστών προκαλούν προβλήματα με την αναστολή.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.el" title="Η οθόνη κλειδώνει υπερβολικά γρήγορα"><span class="title">Η οθόνη κλειδώνει υπερβολικά γρήγορα</span><span class="linkdiv-dash"> — </span><span class="desc">Αλλάξτε τον χρόνο αναμονής πριν να κλειδώσετε την οθόνη στις ρυθμίσεις <span class="gui">Ιδιωτικότητα</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.el" title="Ορισμός φωτεινότητας της οθόνης"><span class="title">Ορισμός φωτεινότητας της οθόνης</span><span class="linkdiv-dash"> — </span><span class="desc">Αλλάξτε τη φωτεινότητα οθόνης για να γίνει πιο ευανάγνωστη στο λαμπερό φως.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.el" title="Ορισμός χρόνου σβησίματος οθόνης"><span class="title">Ορισμός χρόνου σβησίματος οθόνης</span><span class="linkdiv-dash"> — </span><span class="desc">Αλλάξτε τον χρόνο σβησίματος της οθόνης σας για να εξοικονομήσετε ενέργεια.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.el" title="Ο υπολογιστής μου δεν ανοίγει"><span class="title">Ο υπολογιστής μου δεν ανοίγει</span><span class="linkdiv-dash"> — </span><span class="desc">Χαλαρά καλώδια και προβλήματα υλικού είναι πιθανά αίτια.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα υλικού</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα υλικού</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

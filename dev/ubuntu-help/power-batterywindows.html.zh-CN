@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="power.html" title="电源 &amp; 电池">电源 &amp; 电池</a> › <a class="trail" href="power.html#faq" title="问题">问题</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="power.html.zh-CN" title="电源 &amp; 电池">电源 &amp; 电池</a> › <a class="trail" href="power.html.zh-CN#faq" title="问题">问题</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="power.html" title="电源 &amp; 电池">电源 &amp; 电池</a> › <a class="trail" href="power.html#faq" title="问题">问题</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="power.html.zh-CN" title="电源 &amp; 电池">电源 &amp; 电池</a> › <a class="trail" href="power.html.zh-CN#faq" title="问题">问题</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,27 +54,27 @@
 <div class="region">
 <div class="contents">
 <p class="p">一些计算机出现在 Linux 下，电池寿命比 Windows 或 Mac OS 下短的问题，一个原因是那些计算机厂家为某些型号的计算机，安装了特殊的 Windows/Mac OS 优化硬件/软件设计。这些设计常常高度专一，很难描述，因此包含到 Linux 下也是很困难的。</p>
-<p class="p">遗憾的是，在对其不十分了解的情况下，Linux 开发者很难为您应用这些调整。但是，您可能会发现使用一些<span class="link"><a href="power-batterylife.html" title="使用很少电源，延长电池寿命">简单的节能方法</a></span>会有所帮助。如果您的计算机有<span class="link"><a href="power-batteryslow.html" title="为什么使用电池时，我的笔记本电脑运行速度变慢？">变速处理器</a></span>，您会发现更改其设置也很有用。</p>
-<p class="p">差异的另外一个可能原因在于 Windows/Mac OS 上估计电池寿命的方法与在 Linux 上使用的方法不同。实际电池寿命可能完全相同，但是不同的方法提供不同的估计。有关更多信息，请参见<span class="link"><a href="power-batteryestimate.html" title="估计的电池剩余时间有误">估计的电池剩余时间有误</a></span>。</p>
+<p class="p">遗憾的是，在对其不十分了解的情况下，Linux 开发者很难为您应用这些调整。但是，您可能会发现使用一些<span class="link"><a href="power-batterylife.html.zh-CN" title="使用很少电源，延长电池寿命">简单的节能方法</a></span>会有所帮助。如果您的计算机有<span class="link"><a href="power-batteryslow.html.zh-CN" title="为什么使用电池时，我的笔记本电脑运行速度变慢？">变速处理器</a></span>，您会发现更改其设置也很有用。</p>
+<p class="p">差异的另外一个可能原因在于 Windows/Mac OS 上估计电池寿命的方法与在 Linux 上使用的方法不同。实际电池寿命可能完全相同，但是不同的方法提供不同的估计。有关更多信息，请参见<span class="link"><a href="power-batteryestimate.html.zh-CN" title="估计的电池剩余时间有误">估计的电池剩余时间有误</a></span>。</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="问题">问题</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.zh-CN#faq" title="问题">问题</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batteryslow.html" title="为什么使用电池时，我的笔记本电脑运行速度变慢？">为什么使用电池时，我的笔记本电脑运行速度变慢？</a><span class="desc"> — 一些笔记本在使用电池供电时会降速。</span>
+<a href="power-batteryslow.html.zh-CN" title="为什么使用电池时，我的笔记本电脑运行速度变慢？">为什么使用电池时，我的笔记本电脑运行速度变慢？</a><span class="desc"> — 一些笔记本在使用电池供电时会降速。</span>
 </li>
 <li class="links ">
-<a href="power-batteryestimate.html" title="估计的电池剩余时间有误">估计的电池剩余时间有误</a><span class="desc"> — 单击<span class="gui">电池图标</span>时所显示的电量只是粗略估计值。</span>
+<a href="power-batteryestimate.html.zh-CN" title="估计的电池剩余时间有误">估计的电池剩余时间有误</a><span class="desc"> — 单击<span class="gui">电池图标</span>时所显示的电量只是粗略估计值。</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="使用很少电源，延长电池寿命">使用很少电源，延长电池寿命</a><span class="desc"> — 减少计算机能耗的技巧。</span>
+<a href="power-batterylife.html.zh-CN" title="使用很少电源，延长电池寿命">使用很少电源，延长电池寿命</a><span class="desc"> — 减少计算机能耗的技巧。</span>
 </li>
 </ul></div>
 </div></div>

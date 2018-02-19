@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="accounts.html" title="Spletni računi">Spletni računi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="accounts.html.sl" title="Spletni računi">Spletni računi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nadzor do katerih spletnih staritev lahko dostopa račun</span></h1></div>
@@ -57,13 +57,13 @@
   for chat.</p>
 <p class="p">Nekatere od storitev, ki jih zagotavljajo spleti računi, lahko onemogočite:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Online Accounts</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Online Accounts</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select the account which you want to change from the list on the
       left.</p></li>
 <li class="steps"><p class="p">A list of services that are available with this account will be
-      shown under <span class="gui">Use for</span>. See <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Online services and applications</a></span>
+      shown under <span class="gui">Use for</span>. See <span class="link"><a href="accounts-which-application.html.sl" title="Online services and applications">Online services and applications</a></span>
       to see which applications access which services.</p></li>
 <li class="steps"><p class="p">Switch off any of the services that you do not want to use.</p></li>
 </ol></div></div></div>
@@ -78,10 +78,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Spletni računi">Spletni računi</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Dodaj račun">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Odstranitev računa">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.sl" title="Spletni računi">Spletni računi</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.sl" title="Dodaj račun">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.sl" title="Odstranitev računa">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.sl" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -89,11 +89,11 @@
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="accounts-remove.html" title="Odstranitev računa">Odstranitev računa</a><span class="desc"> — Remove access to an online service provider from your
+<a href="accounts-remove.html.sl" title="Odstranitev računa">Odstranitev računa</a><span class="desc"> — Remove access to an online service provider from your
     applications.</span>
 </li>
 <li class="links ">
-<a href="accounts-which-application.html" title="Online services and applications">Online services and applications</a><span class="desc"> — Seznam programov, ki lahko uporabijo račune ustvarjene v <span class="app">Spletni računi</span> in storitve, ki jih lahko uporabijo.</span>
+<a href="accounts-which-application.html.sl" title="Online services and applications">Online services and applications</a><span class="desc"> — Seznam programov, ki lahko uporabijo račune ustvarjene v <span class="app">Spletni računi</span> in storitve, ki jih lahko uporabijo.</span>
 </li>
 </ul></div>
 </div></div>

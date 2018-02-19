@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Co je to ovladač?</span></h1></div>
@@ -61,20 +61,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardware a ovladače">Hardware a ovladače</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Běžné problémy">Problémy s hardwarem</a></span>, <span class="link"><a href="printing.html" title="Tisk">tiskárny</a></span>, <span class="link"><a href="power.html" title="Napájení a baterie">nastavení napájení</a></span>, <span class="link"><a href="color.html" title="Správa barev">správa barev</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Disky a úložiště">disky</a></span>…</span>
+<a href="hardware.html.cs" title="Hardware a ovladače">Hardware a ovladače</a><span class="desc"> — <span class="link"><a href="hardware.html.cs#problems" title="Běžné problémy">Problémy s hardwarem</a></span>, <span class="link"><a href="printing.html.cs" title="Tisk">tiskárny</a></span>, <span class="link"><a href="power.html.cs" title="Napájení a baterie">nastavení napájení</a></span>, <span class="link"><a href="color.html.cs" title="Správa barev">správa barev</a></span>, <span class="link"><a href="bluetooth.html.cs" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.cs" title="Disky a úložiště">disky</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-problem-connecting.html" title="Nemohu připojit své zařízení Bluetooth">Nemohu připojit své zařízení Bluetooth</a><span class="desc"> — Adaptér může být vypnutý nebo možná nemáte ovladače nebo je Bluetooth zakázané nebo blokované.</span>
+<a href="bluetooth-problem-connecting.html.cs" title="Nemohu připojit své zařízení Bluetooth">Nemohu připojit své zařízení Bluetooth</a><span class="desc"> — Adaptér může být vypnutý nebo možná nemáte ovladače nebo je Bluetooth zakázané nebo blokované.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="Po probuzení počítače nemám žádnou bezdrátovou síť">Po probuzení počítače nemám žádnou bezdrátovou síť</a><span class="desc"> — Některá bezdrátová zařízení mají problém s přechodem počítače do stavu spánku a nesprávně pak obnoví svou činnost.</span>
+<a href="power-nowireless.html.cs" title="Po probuzení počítače nemám žádnou bezdrátovou síť">Po probuzení počítače nemám žádnou bezdrátovou síť</a><span class="desc"> — Některá bezdrátová zařízení mají problém s přechodem počítače do stavu spánku a nesprávně pak obnoví svou činnost.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Proč se můj počítač nechce znovu zapnout po jeho uspání?">Proč se můj počítač nechce znovu zapnout po jeho uspání?</a><span class="desc"> — Některý hardware způsobuje problémy s uspáním do paměti.</span>
+<a href="power-suspendfail.html.cs" title="Proč se můj počítač nechce znovu zapnout po jeho uspání?">Proč se můj počítač nechce znovu zapnout po jeho uspání?</a><span class="desc"> — Některý hardware způsobuje problémy s uspáním do paměti.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Контакти</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Користите <span class="app">Контакте</span> да чувате, приступите или да уредите податке за ваше контакте, локално или у вашим <span class="link"><a href="accounts.html" title="Налози на мрежи">Налозима на мрежи</a></span>.</p>
+<p class="p">Користите <span class="app">Контакте</span> да чувате, приступите или да уредите податке за ваше контакте, локално или у вашим <span class="link"><a href="accounts.html.sr" title="Налози на мрежи">Налозима на мрежи</a></span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html" title="Покретање Контаката по први пут"><span class="title">Покретање Контаката по први пут</span><span class="linkdiv-dash"> — </span><span class="desc">Чувајте ваше контакте у локалном адресару или на налогу на мрежи.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html" title="Додајте или уклоните контакт"><span class="title">Додајте или уклоните контакт</span><span class="linkdiv-dash"> — </span><span class="desc">Додајте или уклоните контакт из месног адресара.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html" title="Повежите се са вашим контактом"><span class="title">Повежите се са вашим контактом</span><span class="linkdiv-dash"> — </span><span class="desc">Пошаљите поруку, ћаскајте, или позовите контакт.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-search.html" title="Потражите контакт"><span class="title">Потражите контакт</span><span class="linkdiv-dash"> — </span><span class="desc">Потражите контакт.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html" title="Увежите и развежите контакте"><span class="title">Увежите и развежите контакте</span><span class="linkdiv-dash"> — </span><span class="desc">Комбинујте податке за контакт из неколико извора.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html" title="Уредите својства контакта"><span class="title">Уредите својства контакта</span><span class="linkdiv-dash"> — </span><span class="desc">Уредите податке за сваки контакт.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.sr" title="Покретање Контаката по први пут"><span class="title">Покретање Контаката по први пут</span><span class="linkdiv-dash"> — </span><span class="desc">Чувајте ваше контакте у локалном адресару или на налогу на мрежи.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html.sr" title="Додајте или уклоните контакт"><span class="title">Додајте или уклоните контакт</span><span class="linkdiv-dash"> — </span><span class="desc">Додајте или уклоните контакт из месног адресара.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.sr" title="Повежите се са вашим контактом"><span class="title">Повежите се са вашим контактом</span><span class="linkdiv-dash"> — </span><span class="desc">Пошаљите поруку, ћаскајте, или позовите контакт.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-search.html.sr" title="Потражите контакт"><span class="title">Потражите контакт</span><span class="linkdiv-dash"> — </span><span class="desc">Потражите контакт.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html.sr" title="Увежите и развежите контакте"><span class="title">Увежите и развежите контакте</span><span class="linkdiv-dash"> — </span><span class="desc">Комбинујте податке за контакт из неколико извора.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.sr" title="Уредите својства контакта"><span class="title">Уредите својства контакта</span><span class="linkdiv-dash"> — </span><span class="desc">Уредите податке за сваки контакт.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Бежично умрежавање">Бежична</a></span>, <span class="link"><a href="net-wired.html" title="Жичано умрежавање">жичана</a></span>, <span class="link"><a href="net-problem.html" title="Мрежни проблеми">проблеми повезивања</a></span>, <span class="link"><a href="net-browser.html" title="Веб прегледници">прегледање веба</a></span>, <span class="link"><a href="net-email.html" title="Е-пошта и програми за е-пошту">налози е-поште</a></span>…</span>
+<a href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sr" title="Бежично умрежавање">Бежична</a></span>, <span class="link"><a href="net-wired.html.sr" title="Жичано умрежавање">жичана</a></span>, <span class="link"><a href="net-problem.html.sr" title="Мрежни проблеми">проблеми повезивања</a></span>, <span class="link"><a href="net-browser.html.sr" title="Веб прегледници">прегледање веба</a></span>, <span class="link"><a href="net-email.html.sr" title="Е-пошта и програми за е-пошту">налози е-поште</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

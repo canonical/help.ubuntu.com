@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Instalace a odstranění softwaru">Přidat/odebrat software</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.cs" title="Instalace a odstranění softwaru">Přidat/odebrat software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Odstranění aplikace</span></h1></div>
@@ -56,7 +56,7 @@
    Some applications are available in both formats. In such a case in <span class="app">Ubuntu Software</span> the snap will be listed first.</p>
 <p class="p">You may also wish to remove software that does not have a GUI.
     To remove such software, you can use
-    <span class="link"><a href="addremove-install-synaptic.html" title="Použití Synaptic pro pokročilejší správu softwaru">Synaptic</a></span>. Note that <span class="app">Synaptic</span> does not list snaps.
+    <span class="link"><a href="addremove-install-synaptic.html.cs" title="Použití Synaptic pro pokročilejší správu softwaru">Synaptic</a></span>. Note that <span class="app">Synaptic</span> does not list snaps.
   </p>
 <p class="p">Pro odstranění aplikace:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -83,17 +83,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Instalace a odstranění softwaru">Instalace a odstranění softwaru</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Instalace dodatečných aplikací">Instalace aplikací</a></span>, <span class="link"><a href="addremove-remove.html" title="Odstranění aplikace">odstranění aplikací</a></span>, <span class="link"><a href="addremove-sources.html" title="Přidávání zdrojů softwaru">přidání zdrojů softwaru</a></span>…</span>
+<a href="addremove.html.cs" title="Instalace a odstranění softwaru">Instalace a odstranění softwaru</a><span class="desc"> — <span class="link"><a href="addremove-install.html.cs" title="Instalace dodatečných aplikací">Instalace aplikací</a></span>, <span class="link"><a href="addremove-remove.html.cs" title="Odstranění aplikace">odstranění aplikací</a></span>, <span class="link"><a href="addremove-sources.html.cs" title="Přidávání zdrojů softwaru">přidání zdrojů softwaru</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Instalace dodatečných aplikací">Instalace dodatečných aplikací</a><span class="desc"> — Použijte <span class="app">Ubuntu Software</span> k instalaci dodatečných aplikací a vylepšete své Ubuntu.</span>
+<a href="addremove-install.html.cs" title="Instalace dodatečných aplikací">Instalace dodatečných aplikací</a><span class="desc"> — Použijte <span class="app">Ubuntu Software</span> k instalaci dodatečných aplikací a vylepšete své Ubuntu.</span>
 </li>
 <li class="links ">
-<a href="addremove-install-synaptic.html" title="Použití Synaptic pro pokročilejší správu softwaru">Použití Synaptic pro pokročilejší správu softwaru</a><span class="desc"> — Synaptic je efektivní, ale komplikovanou alternativou k <span class="app">Ubuntu Software</span>.</span>
+<a href="addremove-install-synaptic.html.cs" title="Použití Synaptic pro pokročilejší správu softwaru">Použití Synaptic pro pokročilejší správu softwaru</a><span class="desc"> — Synaptic je efektivní, ale komplikovanou alternativou k <span class="app">Ubuntu Software</span>.</span>
 </li>
 </ul></div>
 </div></div>

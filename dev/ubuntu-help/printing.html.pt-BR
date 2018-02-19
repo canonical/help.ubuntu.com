@@ -43,37 +43,37 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Imprimindo</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html" title="Como eu posso verificar os níveis de tinha ou toner da impressora?"><span class="title">Como eu posso verificar os níveis de tinha ou toner da impressora?</span><span class="linkdiv-dash"> — </span><span class="desc">Verifique a quantidade restante de tinta ou toner nos cartuchos de impressora.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html" title="Imprimindo para arquivo"><span class="title">Imprimindo para arquivo</span><span class="linkdiv-dash"> — </span><span class="desc">Salve um documento como um arquivo PDF, PostScript ou SVG em vez de enviá-lo para a impressora.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.pt-BR" title="Como eu posso verificar os níveis de tinha ou toner da impressora?"><span class="title">Como eu posso verificar os níveis de tinha ou toner da impressora?</span><span class="linkdiv-dash"> — </span><span class="desc">Verifique a quantidade restante de tinta ou toner nos cartuchos de impressora.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html.pt-BR" title="Imprimindo para arquivo"><span class="title">Imprimindo para arquivo</span><span class="linkdiv-dash"> — </span><span class="desc">Salve um documento como um arquivo PDF, PostScript ou SVG em vez de enviá-lo para a impressora.</span></a></div>
 </div></div></div></div>
 <div id="setup" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Configurar uma impressora</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-setup.html" title="Configurando uma impressora local"><span class="title">Configurando uma impressora local</span><span class="linkdiv-dash"> — </span><span class="desc">Configure uma impressora que está conectada a seu computador.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-name-location.html" title="Alterando o nome ou localização de uma impressora"><span class="title">Alterando o nome ou localização de uma impressora</span><span class="linkdiv-dash"> — </span><span class="desc">Altere o nome ou localização de uma impressora nas configurações de impressora.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-setup.html.pt-BR" title="Configurando uma impressora local"><span class="title">Configurando uma impressora local</span><span class="linkdiv-dash"> — </span><span class="desc">Configure uma impressora que está conectada a seu computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-name-location.html.pt-BR" title="Alterando o nome ou localização de uma impressora"><span class="title">Alterando o nome ou localização de uma impressora</span><span class="linkdiv-dash"> — </span><span class="desc">Altere o nome ou localização de uma impressora nas configurações de impressora.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html" title="Definindo a impressora padrão"><span class="title">Definindo a impressora padrão</span><span class="linkdiv-dash"> — </span><span class="desc">Escolha a impressora que você usa com mais frequência.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html.pt-BR" title="Definindo a impressora padrão"><span class="title">Definindo a impressora padrão</span><span class="linkdiv-dash"> — </span><span class="desc">Escolha a impressora que você usa com mais frequência.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="paper" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tamanhos e layout diferentes de papel</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html" title="Alterando o tamanho do papel ao imprimir"><span class="title">Alterando o tamanho do papel ao imprimir</span><span class="linkdiv-dash"> — </span><span class="desc">Imprima um documento em um tamanho ou orientação de papel diferente.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-order.html" title="Fazendo páginas imprimirem em uma ordem diferente"><span class="title">Fazendo páginas imprimirem em uma ordem diferente</span><span class="linkdiv-dash"> — </span><span class="desc">Intercale e inverta a ordem de impressão.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-select.html" title="Imprimindo apenas determinadas páginas"><span class="title">Imprimindo apenas determinadas páginas</span><span class="linkdiv-dash"> — </span><span class="desc">Imprima apenas páginas específicas, ou apenas um intervalo de páginas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html.pt-BR" title="Alterando o tamanho do papel ao imprimir"><span class="title">Alterando o tamanho do papel ao imprimir</span><span class="linkdiv-dash"> — </span><span class="desc">Imprima um documento em um tamanho ou orientação de papel diferente.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-order.html.pt-BR" title="Fazendo páginas imprimirem em uma ordem diferente"><span class="title">Fazendo páginas imprimirem em uma ordem diferente</span><span class="linkdiv-dash"> — </span><span class="desc">Intercale e inverta a ordem de impressão.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-select.html.pt-BR" title="Imprimindo apenas determinadas páginas"><span class="title">Imprimindo apenas determinadas páginas</span><span class="linkdiv-dash"> — </span><span class="desc">Imprima apenas páginas específicas, ou apenas um intervalo de páginas.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html" title="Imprimindo envelopes"><span class="title">Imprimindo envelopes</span><span class="linkdiv-dash"> — </span><span class="desc">Certifique-se que você tenha o envelope na posição correta, e escolheu o tamanho de papel correta.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html" title="Imprimindo layouts de frente e verso ou multi-página"><span class="title">Imprimindo layouts de frente e verso ou multi-página</span><span class="linkdiv-dash"> — </span><span class="desc">Imprima ambos lados do papel, ou múltiplas páginas por folha.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html" title="Imprimindo um folheto"><span class="title">Imprimindo um folheto</span><span class="linkdiv-dash"> — </span><span class="desc">Como imprimir um folheto multipágina usando papel A4 ou Carta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.pt-BR" title="Imprimindo envelopes"><span class="title">Imprimindo envelopes</span><span class="linkdiv-dash"> — </span><span class="desc">Certifique-se que você tenha o envelope na posição correta, e escolheu o tamanho de papel correta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html.pt-BR" title="Imprimindo layouts de frente e verso ou multi-página"><span class="title">Imprimindo layouts de frente e verso ou multi-página</span><span class="linkdiv-dash"> — </span><span class="desc">Imprima ambos lados do papel, ou múltiplas páginas por folha.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.pt-BR" title="Imprimindo um folheto"><span class="title">Imprimindo um folheto</span><span class="linkdiv-dash"> — </span><span class="desc">Como imprimir um folheto multipágina usando papel A4 ou Carta.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -82,16 +82,16 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html" title="Cancelando, pausando ou liberando um trabalho de impressão"><span class="title">Cancelando, pausando ou liberando um trabalho de impressão</span><span class="linkdiv-dash"> — </span><span class="desc">Cancele um trabalho de impressão ou remova-o da fila.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-streaks.html" title="Por que há listras, linhas ou cores incorretas nas minhas impressões?"><span class="title">Por que há listras, linhas ou cores incorretas nas minhas impressões?</span><span class="linkdiv-dash"> — </span><span class="desc">Se as impressões estiverem com listras, falhas ou faltando cores, confira os níveis da tinta ou limpe a cabeça de impressão.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html.pt-BR" title="Cancelando, pausando ou liberando um trabalho de impressão"><span class="title">Cancelando, pausando ou liberando um trabalho de impressão</span><span class="linkdiv-dash"> — </span><span class="desc">Cancele um trabalho de impressão ou remova-o da fila.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-streaks.html.pt-BR" title="Por que há listras, linhas ou cores incorretas nas minhas impressões?"><span class="title">Por que há listras, linhas ou cores incorretas nas minhas impressões?</span><span class="linkdiv-dash"> — </span><span class="desc">Se as impressões estiverem com listras, falhas ou faltando cores, confira os níveis da tinta ou limpe a cabeça de impressão.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html" title="Resolvendo um atolamento de papel"><span class="title">Resolvendo um atolamento de papel</span><span class="linkdiv-dash"> — </span><span class="desc">Como você resolve um atolamento de papel vai depender da marca e modelo da impressora que você tem.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html.pt-BR" title="Resolvendo um atolamento de papel"><span class="title">Resolvendo um atolamento de papel</span><span class="linkdiv-dash"> — </span><span class="desc">Como você resolve um atolamento de papel vai depender da marca e modelo da impressora que você tem.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Mais informações</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Problemas comuns">Problemas com hardware</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.pt-BR#problems" title="Problemas comuns">Problemas com hardware</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -101,7 +101,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardwares &amp; drivers">Hardwares &amp; drivers</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Problemas comuns">Problemas de hardware</a></span>, <span class="link"><a href="printing.html" title="Imprimindo">impressoras</a></span>, <span class="link"><a href="power.html" title="Energia &amp; bateria">configurações de energia</a></span>, <span class="link"><a href="color.html" title="Gerenciamento de cores">gerenciamento de cores</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Discos &amp; armazenamento">discos</a></span>…</span>
+<a href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardwares &amp; drivers</a><span class="desc"> — <span class="link"><a href="hardware.html.pt-BR#problems" title="Problemas comuns">Problemas de hardware</a></span>, <span class="link"><a href="printing.html.pt-BR" title="Imprimindo">impressoras</a></span>, <span class="link"><a href="power.html.pt-BR" title="Energia &amp; bateria">configurações de energia</a></span>, <span class="link"><a href="color.html.pt-BR" title="Gerenciamento de cores">gerenciamento de cores</a></span>, <span class="link"><a href="bluetooth.html.pt-BR" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.pt-BR" title="Discos &amp; armazenamento">discos</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

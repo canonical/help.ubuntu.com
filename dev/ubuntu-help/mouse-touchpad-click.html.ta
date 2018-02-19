@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="mouse.html" title="சொடுக்கி">சொடுக்கி</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="mouse.html.ta" title="சொடுக்கி">சொடுக்கி</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="mouse.html" title="சொடுக்கி">சொடுக்கி</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="mouse.html.ta" title="சொடுக்கி">சொடுக்கி</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="region"><div class="contents">
 <p class="p">You can tap your touchpad to click instead of using a button.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps">
@@ -72,8 +72,8 @@
 <li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
       second tap. Drag the item where you want it, then lift your finger to
       drop.</p></li>
-<li class="list"><p class="p">உங்கள் தொடுதிட்டு பல விரல் தட்டல்களை ஆதரித்தால், ஒரே நேரத்தில் இரண்டு விரல்களால் தட்டுவதன் மூலம் வலது சொடுக்கம் செய்யலாம். இல்லையெனில், நீங்கள் வலது சொடுக்கத்திற்கு வன்பொருள் பொத்தான்களைப் பயன்படுத்த வேண்டும். இரண்டாவது சொடுக்கி பொத்தான் இல்லாமல் வலது சொடுக்கம் செய்யும் ஒரு முறை பற்றி அறிய <span class="link"><a href="a11y-right-click.html" title="சொடுக்கி வலது சொடுக்க ஏற்பாடு">சொடுக்கி வலது சொடுக்க ஏற்பாடு</a></span> ஐப் பார்க்கவும்.</p></li>
-<li class="list"><p class="p">உங்கள் தொடுதிட்டு பல விரல் தட்டல்களை ஆதரித்தால், ஒரே நேரத்தில் மூன்று விரல்களால் தட்டுவதன் மூலம் <span class="link"><a href="mouse-middleclick.html" title="நடு சொடுக்கம்">நடு சொடுக்கம்</a></span> செய்யலாம்.</p></li>
+<li class="list"><p class="p">உங்கள் தொடுதிட்டு பல விரல் தட்டல்களை ஆதரித்தால், ஒரே நேரத்தில் இரண்டு விரல்களால் தட்டுவதன் மூலம் வலது சொடுக்கம் செய்யலாம். இல்லையெனில், நீங்கள் வலது சொடுக்கத்திற்கு வன்பொருள் பொத்தான்களைப் பயன்படுத்த வேண்டும். இரண்டாவது சொடுக்கி பொத்தான் இல்லாமல் வலது சொடுக்கம் செய்யும் ஒரு முறை பற்றி அறிய <span class="link"><a href="a11y-right-click.html.ta" title="சொடுக்கி வலது சொடுக்க ஏற்பாடு">சொடுக்கி வலது சொடுக்க ஏற்பாடு</a></span> ஐப் பார்க்கவும்.</p></li>
+<li class="list"><p class="p">உங்கள் தொடுதிட்டு பல விரல் தட்டல்களை ஆதரித்தால், ஒரே நேரத்தில் மூன்று விரல்களால் தட்டுவதன் மூலம் <span class="link"><a href="mouse-middleclick.html.ta" title="நடு சொடுக்கம்">நடு சொடுக்கம்</a></span> செய்யலாம்.</p></li>
 </ul></div></div></div>
 <div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
     are spread far enough apart. If your fingers are too close, your computer
@@ -85,7 +85,7 @@
 <div class="region"><div class="contents">
 <p class="p">நீங்கள் இரண்டு விரல்களைப் பயன்படுத்தி உங்கள் தொடுதிட்டைக் கொண்டு உருட்ட முடியும்.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps"><p class="p"><span class="gui">தொடுதிட்டு</span> பிரிவில், <span class="gui">இரு விரல் உருட்டல்</span> ஐ தேர்வு செய்யவும்.</p></li>
@@ -104,7 +104,7 @@
 <div class="region"><div class="contents">
 <p class="p">நீங்கள் தொடுதிட்டைப் பயன்படுத்தி ஒரு துண்டு காகிதத்தை விரலால் இழுத்துச் செல்வது போலவே உள்ளடக்கத்தை இழுக்க முடியும்.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Natural
@@ -118,7 +118,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html" title="சொடுக்கி">சொடுக்கி</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="உங்கள் சொடுக்கியை இடதுகைப் பழக்கத்திற்கு ஏற்றபடி பயன்படுத்துதல்">இடக்கைப் பழக்கம்</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="சொடுக்கி மற்றும் தொடுதிட்டின் வேகத்தை சரிசெய்தல்">வேகமும் உணர்திறனும்</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="தொடுதிட்டைப் பயன்படுத்தி சொடுக்குதல், இழுத்தல் அல்லது உருட்டுதல்">தொடுதிட்டு சொடுக்கமும் உருட்டுதலும்</a></span>…</span>
+<a href="mouse.html.ta" title="சொடுக்கி">சொடுக்கி</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.ta" title="உங்கள் சொடுக்கியை இடதுகைப் பழக்கத்திற்கு ஏற்றபடி பயன்படுத்துதல்">இடக்கைப் பழக்கம்</a></span>, <span class="link"><a href="mouse-sensitivity.html.ta" title="சொடுக்கி மற்றும் தொடுதிட்டின் வேகத்தை சரிசெய்தல்">வேகமும் உணர்திறனும்</a></span>, <span class="link"><a href="mouse-touchpad-click.html.ta" title="தொடுதிட்டைப் பயன்படுத்தி சொடுக்குதல், இழுத்தல் அல்லது உருட்டுதல்">தொடுதிட்டு சொடுக்கமும் உருட்டுதலும்</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

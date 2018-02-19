@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="media.html#sound" title="Alapszintű hangkezelés">Hang</a> » <a class="trail" href="sound-broken.html" title="Hangproblémák">Hangproblémák</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="media.html.hu#sound" title="Alapszintű hangkezelés">Hang</a> » <a class="trail" href="sound-broken.html.hu" title="Hangproblémák">Hangproblémák</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="sound-broken.html" title="Hangproblémák">Hangproblémák</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html.hu#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="sound-broken.html.hu" title="Hangproblémák">Hangproblémák</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <div id="mute" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Győződjön meg róla, hogy a hang nincs elnémítva</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#yourname" title="Ön és a számítógépe">rendszer menüt</a></span>, és győződjön meg róla, hogy a hang nincs elnémítva vagy nagyon lehalkítva.</p>
+<p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#yourname" title="Ön és a számítógépe">rendszer menüt</a></span>, és győződjön meg róla, hogy a hang nincs elnémítva vagy nagyon lehalkítva.</p>
 <p class="p">Egyes laptopokon vannak némításra szolgáló kapcsolók vagy billentyűk, próbálja megnyomni ezeket.</p>
 <p class="p">Ellenőrizze azt is, hogy a hang lejátszásához használt alkalmazásban (például a zenelejátszóban vagy médialejátszóban) nem némította-e el a hangot. Az alkalmazás főablakában lehet egy némítás vagy hangerő gomb, ellenőrizze azt is.</p>
 <p class="p">Megnézheti az <span class="gui">Alkalmazások</span> lapot is a <span class="gui">Hang</span> felületen.</p>
@@ -80,7 +80,7 @@
 <div class="region"><div class="contents">
 <p class="p">Egyes számítógépek több hangeszközt is tartalmaznak. Ezek közül néhány képes hang kiadására, mások nem, emiatt ellenőrizze, hogy a megfelelő van-e kiválasztva. Ez próbálgatással dönthető el a legkönnyebben.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Hang</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Hang</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Hang</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps">
 <p class="p">A <span class="gui">Kimenet</span> lapon módosítsa a kiválasztott eszköz profilbeállításait, és próbáljon hangot lejátszani, ezzel tesztelve a működését. Lehet, hogy a lista minden profilját ki kell majd próbálnia.</p>
@@ -96,7 +96,7 @@
 <p class="p">A hangkártya típusának meghatározásához használhatja az <span class="cmd">lspci</span> parancsot a terminálban:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui">Tevékenységek</span> áttekintést, és indítsa el a Terminált.</p></li>
-<li class="steps"><p class="p">Futtassa az <span class="cmd">lspci</span> parancsot <span class="link"><a href="user-admin-explain.html" title="Hogyan működik a rendszergazdai jogosultság?">rendszergazdaként</a></span>; vagy a <span class="cmd">sudo lspci</span> kiadásával és a jelszava beírásával, vagy a <span class="cmd">su</span> kiadásával és a <span class="em">root</span> jelszó beírásával, majd az <span class="cmd">lspci</span> parancs kiadásával.</p></li>
+<li class="steps"><p class="p">Futtassa az <span class="cmd">lspci</span> parancsot <span class="link"><a href="user-admin-explain.html.hu" title="Hogyan működik a rendszergazdai jogosultság?">rendszergazdaként</a></span>; vagy a <span class="cmd">sudo lspci</span> kiadásával és a jelszava beírásával, vagy a <span class="cmd">su</span> kiadásával és a <span class="em">root</span> jelszó beírásával, majd az <span class="cmd">lspci</span> parancs kiadásával.</p></li>
 <li class="steps"><p class="p">Ellenőrizze, hogy szerepel-e a listában <span class="em">audio controller</span> vagy <span class="em">audio device</span>: ebben az esetben látnia kell a hangkártya gyártóját és modellszámát. Ezen kívül az <span class="cmd">lspci -v</span> parancs részletesebb információkat jelenít meg.</p></li>
 </ol></div></div></div>
 <p class="p">Ennek ismeretében megtalálhatja és telepítheti a hangkártya illesztőprogramját. A legjobb az Ön által használt Linux disztribúció támogatói fórumán tanácsot kérni.</p>
@@ -108,7 +108,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html" title="Hangproblémák">Hangproblémák</a><span class="desc"> — Hibaelhárítás, például nincs hang vagy rossz minőségű.</span>
+<a href="sound-broken.html.hu" title="Hangproblémák">Hangproblémák</a><span class="desc"> — Hibaelhárítás, például nincs hang vagy rossz minőségű.</span>
 </li></ul></div>
 </div></div></div>
 </div>

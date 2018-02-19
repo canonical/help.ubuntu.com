@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#backup" title="Säkerhetskopiering">Säkerhetskopiering</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#backup" title="Säkerhetskopiering">Säkerhetskopiering</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Återställ en säkerhetskopia</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Om du har förlorat eller tagit bort några av dina filer, men du har en säkerhetskopia av dem så kan du återställa dem från säkerhetskopian:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Om du vill återställa din säkerhetskopia från en enhet så som en extern hårddisk, USB-enhet eller en annan dator på nätverket så kan du <span class="link"><a href="files-copy.html" title="Kopiera eller flytta filer och mappar">kopiera dem</a></span> tillbaka på din dator.</p></li>
+<li class="list"><p class="p">Om du vill återställa din säkerhetskopia från en enhet så som en extern hårddisk, USB-enhet eller en annan dator på nätverket så kan du <span class="link"><a href="files-copy.html.sv" title="Kopiera eller flytta filer och mappar">kopiera dem</a></span> tillbaka på din dator.</p></li>
 <li class="list"><p class="p">Om du skapade din säkerhetskopia via ett säkerhetskopieringsprogram så som <span class="app">Déjà Dup</span> så rekommenderas det att du använder samma program för att återställa säkerhetskopian. Läs igenom programhjälpen igen för ditt säkerhetskopieringsprogram: den kommer att ge specifika instruktioner om hur dina filer kan återställas.</p></li>
 </ul></div></div></div>
 </div>
@@ -59,7 +59,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Säkerhetskopiering">Säkerhetskopiering</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sv#backup" title="Säkerhetskopiering">Säkerhetskopiering</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

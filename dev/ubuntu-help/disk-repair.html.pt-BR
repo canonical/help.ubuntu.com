@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="disk.html" title="Discos &amp; armazenamento">Discos &amp; armazenamento</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="disk.html.pt-BR" title="Discos &amp; armazenamento">Discos &amp; armazenamento</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Corrigindo um sistema de arquivos danificado</span></h1></div>
@@ -67,11 +67,7 @@
 <div class="note note-warning" title="Aviso"><div class="inner">
 <div class="title title-note"><h2><span class="title">Possibilidade de perda de dados na correção</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If the filesystem structure is damaged it can affect the files stored
-     in it. In some cases these files can not be brought into a valid form
-     again and will be deleted or moved to a special directory. It is normally
-     the <span class="em">lost+found</span> folder in the top level directory of the filesystem
-     where these recovered file parts can be found.</p>
+<p class="p">Se a estrutura do sistema de arquivos estiver danificada, ela pode afetar os arquivos armazenados nele. Em alguns casos, esses arquivos não podem ser trazidos novamente para uma forma válida e serão excluídos ou movidos para um diretório especial. Normalmente, é a pasta <span class="em">lost+found</span> no diretório de nível superior do sistema de arquivos onde essas partes de arquivos recuperadas podem ser encontradas.</p>
 <p class="p">Se os dados forem valiosos demais para serem perdidos durante este processo, é aconselhável fazer uma cópia de segurança salvando uma imagem do volume antes da correção.</p>
 <p class="p">Esta imagem pode então ser processada com ferramentas de análise forense, como <span class="app">sleuthkit</span> para recuperar arquivos e partes de dados perdidos que não foram restaurados durante a reparação, além de arquivos removidos anteriormente.</p>
 </div></div>
@@ -89,7 +85,7 @@
 <li class="steps">
 <p class="p">Após a conclusão, você será notificado se o sistema de arquivos pode ser corrigido com sucesso. Em caso de sucesso, ele pode ser usado novamente de maneira normal.</p>
 <p class="p">Se o sistema de arquivos não puder ser corrigido, faça uma cópia de segurança salvando uma imagem do volume para poder recuperar arquivos importantes mais tarde. Isso pode ser feito montando a imagem somente leitura ou usando ferramentas de análise forense como <span class="app">sleuthkit</span>.</p>
-<p class="p">Para usar o volume novamente, ele tem que ser <span class="link"><a href="disk-format.html" title="Limpando tudo de uma unidade removível">formatado</a></span> com um novo sistema de arquivos. Todos os dados serão descartados.</p>
+<p class="p">Para usar o volume novamente, ele tem que ser <span class="link"><a href="disk-format.html.pt-BR" title="Limpando tudo de uma unidade removível">formatado</a></span> com um novo sistema de arquivos. Todos os dados serão descartados.</p>
 </li>
 </ol></div>
 </div></div>
@@ -99,7 +95,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Discos &amp; armazenamento">Discos &amp; armazenamento</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Verificando quanto resta de espaço em disco">Espaço em disco</a></span>, <span class="link"><a href="disk-benchmark.html" title="Testando o desempenho do seu disco rígido">desempenho</a></span>, <span class="link"><a href="disk-check.html" title="Verificando problemas no seu disco rígido">problemas</a></span>, <span class="link"><a href="disk-partitions.html" title="Gerenciando volumes e partições">volumes e partições</a></span>…</span>
+<a href="disk.html.pt-BR" title="Discos &amp; armazenamento">Discos &amp; armazenamento</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.pt-BR" title="Verificando quanto resta de espaço em disco">Espaço em disco</a></span>, <span class="link"><a href="disk-benchmark.html.pt-BR" title="Testando o desempenho do seu disco rígido">desempenho</a></span>, <span class="link"><a href="disk-check.html.pt-BR" title="Verificando problemas no seu disco rígido">problemas</a></span>, <span class="link"><a href="disk-partitions.html.pt-BR" title="Gerenciando volumes e partições">volumes e partições</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a> » <a class="trail" href="shell-windows.html" title="Ventanas y áreas de trabajo">Ventanas y áreas de trabajo</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Trabajar con áreas de trabajo:">Áreas de trabajo</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html.es" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html.es#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a> » <a class="trail" href="shell-windows.html.es" title="Ventanas y áreas de trabajo">Ventanas y áreas de trabajo</a> › <a class="trail" href="shell-windows.html.es#working-with-workspaces" title="Trabajar con áreas de trabajo:">Áreas de trabajo</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">¿Qué es un área de trabajo y cómo me ayudará?</span></h1></div>
@@ -54,7 +54,7 @@
 <p class="p">Podría utilizar las áreas de trabajo para organizar su trabajo. Por ejemplo, podría tener todas sus ventanas de comunicación, tales como el correo electrónico y su programa de chat en un área de trabajo y el trabajo que está haciendo en un área de trabajo diferente. Su gestor de música podría estar en una tercera área de trabajo.</p>
 <p class="p">Usando áreas de trabajo:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">En la a la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span>, mueva el cursor a la parte derecha de la pantalla.</p></li>
+<li class="list"><p class="p">En la a la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span>, mueva el cursor a la parte derecha de la pantalla.</p></li>
 <li class="list"><p class="p">Aparecerá un panel vertical con las áreas de trabajo en uso y con área de trabajo adicional vacía. Esto es el selector de áreas de trabajo.</p></li>
 <li class="list"><p class="p">Para añadir un área de trabajo, mueva una ventana de un área de trabajo existente hasta el área de trabajo vacía en el selector de áreas de trabajo. Esta área de trabajo contiene ahora la ventana que se dejó en ella, y debe aparecer un área de trabajo nueva vacía en la parte inferior.</p></li>
 <li class="list"><p class="p">Para quitar un área de trabajo, simplemente cierre todas las ventanas que tenga, o muévalas a otras áreas de trabajo.</p></li>
@@ -66,16 +66,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Trabajar con áreas de trabajo:">Trabajar con áreas de trabajo:</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.es#working-with-workspaces" title="Trabajar con áreas de trabajo:">Trabajar con áreas de trabajo:</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-workspaces-switch.html" title="Cambie entre las áreas de trabajo">Cambie entre las áreas de trabajo</a><span class="desc"> — Usar el selector de áreas de trabajo.</span>
+<a href="shell-workspaces-switch.html.es" title="Cambie entre las áreas de trabajo">Cambie entre las áreas de trabajo</a><span class="desc"> — Usar el selector de áreas de trabajo.</span>
 </li>
 <li class="links ">
-<a href="shell-workspaces-movewindow.html" title="Mover una ventana a un área de trabajo diferente">Mover una ventana a un área de trabajo diferente</a><span class="desc"> — Vaya a la vista de <span class="gui">Actividades</span> y arrastre la ventana a un área de trabajo diferente.</span>
+<a href="shell-workspaces-movewindow.html.es" title="Mover una ventana a un área de trabajo diferente">Mover una ventana a un área de trabajo diferente</a><span class="desc"> — Vaya a la vista de <span class="gui">Actividades</span> y arrastre la ventana a un área de trabajo diferente.</span>
 </li>
 </ul></div>
 </div></div>

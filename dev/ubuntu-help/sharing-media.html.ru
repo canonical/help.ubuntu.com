@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="Общий доступ">Общий доступ</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.ru" title="Общий доступ">Общий доступ</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="prefs-sharing.html" title="Параметры общего доступа">Параметры общего доступа</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="prefs-sharing.html.ru" title="Параметры общего доступа">Параметры общего доступа</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,13 +56,13 @@
 <p class="p">Просматривать, производить поиск в файлах мультимедиа и проигрывать мультимедия со своего компьютера можно с помощью устройств, поддерживающих <span class="sys">UPnP</span> или <span class="sys">DLNA</span>, такими, как смартфон, телевизор или игровая консоль. Настройте <span class="gui">Общий доступ к мультимедиа</span>, чтобы эти устройства имели доступ к вашим папкам, содержащим музыку, фото и видео.</p>
 <div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">Чтобы параметр <span class="gui">Общий доступ к мультимедиа</span> стал видимым, в системе должен быть установлен пакет <span class="app">Rygel</span>.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Sharing</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Общий доступ</span> чтобы открыть этот раздел настроек.</p></li>
 <li class="steps">
 <p class="p">Если переключатель <span class="gui">Общий доступ</span> находится в положении <span class="gui">Выкл.</span>, то включите его.</p>
 <div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">If the text below <span class="gui">Computer Name</span> allows
-      you to edit it, you can <span class="link"><a href="sharing-displayname.html" title="Set the display name for your computer">change</a></span>
+      you to edit it, you can <span class="link"><a href="sharing-displayname.html.ru" title="Set the display name for your computer">change</a></span>
       the name your computer displays on the network.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Выберите <span class="gui">Общий доступ к мультимедиа</span>.</p></li>
@@ -89,10 +89,10 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Общий доступ">Общий доступ</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Общий доступ к рабочему столу">Общий доступ к рабочему столу</a></span>, <span class="link"><a href="files-share.html" title="Обмен файлами по почте">Как делиться файлами по почте</a></span>, <span class="link"><a href="sharing-media.html" title="Сделать общими музыку, фото и видео.">Общий доступ к мультимедиа</a></span>…</span>
+<a href="sharing.html.ru" title="Общий доступ">Общий доступ</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ru" title="Общий доступ к рабочему столу">Общий доступ к рабочему столу</a></span>, <span class="link"><a href="files-share.html.ru" title="Обмен файлами по почте">Как делиться файлами по почте</a></span>, <span class="link"><a href="sharing-media.html.ru" title="Сделать общими музыку, фото и видео.">Общий доступ к мультимедиа</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html" title="Параметры общего доступа">Параметры общего доступа</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Управление общим доступом по Bluetooth">Общий доступ по Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html" title="Сделайте общими ваши личные файлы">Общий доступ к личным файлам</a></span>, <span class="link"><a href="sharing-desktop.html" title="Общий доступ к рабочему столу">Общий доступ к экрану</a></span>, <span class="link"><a href="sharing-media.html" title="Сделать общими музыку, фото и видео.">Общий доступ к мультимедиа</a></span>…</span>
+<a href="prefs-sharing.html.ru" title="Параметры общего доступа">Параметры общего доступа</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.ru" title="Управление общим доступом по Bluetooth">Общий доступ по Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.ru" title="Сделайте общими ваши личные файлы">Общий доступ к личным файлам</a></span>, <span class="link"><a href="sharing-desktop.html.ru" title="Общий доступ к рабочему столу">Общий доступ к экрану</a></span>, <span class="link"><a href="sharing-media.html.ru" title="Сделать общими музыку, фото и видео.">Общий доступ к мультимедиа</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

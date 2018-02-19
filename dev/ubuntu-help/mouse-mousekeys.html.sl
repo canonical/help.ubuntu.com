@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="mouse.html" title="Miška">Miška</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="mouse.html.sl" title="Miška">Miška</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="mouse.html" title="Miška">Miška</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="mouse.html.sl" title="Miška">Miška</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="a11y.html" title="Splošni dostop">Splošni dostop</a> › <a class="trail" href="a11y.html#mobility" title="Težave z gibanjem">Težave z gibanjem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="a11y.html.sl" title="Splošni dostop">Splošni dostop</a> › <a class="trail" href="a11y.html.sl#mobility" title="Težave z gibanjem">Težave z gibanjem</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,13 +58,13 @@
 <p class="p">V primeru da imate težave z uporabo miške ali druge kazalne naprave, lahko miškin kazalec nadzirate s številsko  tipkovnico. Ta zmožnost se imenuje <span class="em">miškine tipke</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p>
 <p class="p">You can access the <span class="gui">Activities</span> overview by pressing on it,
       by moving your mouse pointer against the top-left corner of the screen,
       using <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>
       followed by <span class="key"><kbd>Enter</kbd></span> or using
-      <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span>.</p>
+      <span class="key"><a href="keyboard-key-super.html.sl" title="What is the Super key?"><kbd>Super</kbd></a></span>.</p>
 </li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Use the up and down arrow keys to select <span class="gui">Mouse Keys</span> in the
@@ -80,9 +80,9 @@
   keypads.</p>
 <p class="p">Vsako število na številski tipkovnici ustreza določeni smeri. Pritisk na <span class="key"><kbd>8</kbd></span> bo kazalec premaknil navzgor in pritisk na <span class="key"><kbd>2</kbd></span> ga bo premaknil navzdol. Pritisnite <span class="key"><kbd>5</kbd></span> za klik z miško ali jo hitro pritisnite dvakrat za dvoklik.</p>
 <p class="p">Most keyboards have a special key which allows you to right-click,
-  sometimes called the <span class="key"><a href="keyboard-key-menu.html" title="What is the Menu key?"><kbd>Menu</kbd></a></span> key. Note,
+  sometimes called the <span class="key"><a href="keyboard-key-menu.html.sl" title="What is the Menu key?"><kbd>Menu</kbd></a></span> key. Note,
   however, that this key responds to where your keyboard focus is, not where
-  your mouse pointer is. See <span class="link"><a href="a11y-right-click.html" title="Simulacija desnega klika miške">Simulacija desnega klika miške</a></span> for information on
+  your mouse pointer is. See <span class="link"><a href="a11y-right-click.html.sl" title="Simulacija desnega klika miške">Simulacija desnega klika miške</a></span> for information on
   how to right-click by holding down <span class="key"><kbd>5</kbd></span> or the left mouse button.</p>
 <p class="p">V primeru da želite številsko tipkovnico uporabiti za vnašanje medtem ko so miškine tipke omogočene, <span class="key"><kbd>Num Lock</kbd></span> vklopite. Ko je <span class="key"><kbd>Num Lock</kbd></span> vklopljen, miške ne morete nadzirati.</p>
 <div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">Običajne številske tipke v vrsti na vrhu tipkovnice miškinega kazalca ne bodo nadzorovale. Uporabite lahko samo tipke številske tipkovnice.</p></div></div></div></div>
@@ -93,9 +93,9 @@
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse.html" title="Miška">Miška</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Uporaba miške z levico">Uporaba miške z levico</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Prilagoditev hitrosti miške in drsne ploščice">hitrost in občutljivost</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Kliknice, povlecite ali drsajte z drsno ploščico">klikanje in drsanje po drsni ploščici</a></span> …</span>
+<a href="mouse.html.sl" title="Miška">Miška</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.sl" title="Uporaba miške z levico">Uporaba miške z levico</a></span>, <span class="link"><a href="mouse-sensitivity.html.sl" title="Prilagoditev hitrosti miške in drsne ploščice">hitrost in občutljivost</a></span>, <span class="link"><a href="mouse-touchpad-click.html.sl" title="Kliknice, povlecite ali drsajte z drsno ploščico">klikanje in drsanje po drsni ploščici</a></span> …</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Težave z gibanjem">Težave z gibanjem</a></li>
+<li class="links "><a href="a11y.html.sl#mobility" title="Težave z gibanjem">Težave z gibanjem</a></li>
 </ul></div>
 </div></div></div>
 </div>

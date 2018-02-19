@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Configuração de privacidade</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">A <span class="em">Configuração da privacidade</span> em GNOME ajuda-lhe a controlar se determinadas partes de seu escritório são visíveis ou não ao resto de utilizadores. Pode usar esta configuração para limpar o histórico de uso de o seu computador e eliminar ficheiros desnecessários.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html" title="Bloquear automaticamente seu ecrã"><span class="title">Bloquear automaticamente seu ecrã</span><span class="linkdiv-dash"> — </span><span class="desc">Impedir que outras pessoas possam usar seu escritório quando se afaste da sua computador.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html" title="Desativar ou limitar o registro do histórico"><span class="title">Desativar ou limitar o registro do histórico</span><span class="linkdiv-dash"> — </span><span class="desc">Deixar de registar ou limitar o registro de ficheiros usados recentemente.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html" title="Limpar a caixote do lixo e os ficheiros temporários"><span class="title">Limpar a caixote do lixo e os ficheiros temporários</span><span class="linkdiv-dash"> — </span><span class="desc">Estabelecer com que frequência se limpam a caixote do lixo e os ficheiros temporários da sua computador.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-location.html" title="Controlar os serviços de localização"><span class="title">Controlar os serviços de localização</span><span class="linkdiv-dash"> — </span><span class="desc">Ativar ou desativar a geolocalização.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.pt" title="Bloquear automaticamente seu ecrã"><span class="title">Bloquear automaticamente seu ecrã</span><span class="linkdiv-dash"> — </span><span class="desc">Impedir que outras pessoas possam usar seu escritório quando se afaste da sua computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.pt" title="Desativar ou limitar o registro do histórico"><span class="title">Desativar ou limitar o registro do histórico</span><span class="linkdiv-dash"> — </span><span class="desc">Deixar de registar ou limitar o registro de ficheiros usados recentemente.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.pt" title="Limpar a caixote do lixo e os ficheiros temporários"><span class="title">Limpar a caixote do lixo e os ficheiros temporários</span><span class="linkdiv-dash"> — </span><span class="desc">Estabelecer com que frequência se limpam a caixote do lixo e os ficheiros temporários da sua computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-location.html.pt" title="Controlar os serviços de localização"><span class="title">Controlar os serviços de localização</span><span class="linkdiv-dash"> — </span><span class="desc">Ativar ou desativar a geolocalização.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,7 +62,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Utente e configuração do sistema">Utente e configuração do sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html" title="Rato">rato</a></span>, <span class="link"><a href="prefs-display.html" title="Ecrã">ecrã</a></span>, <span class="link"><a href="prefs-language.html" title="Região e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html" title="Contas de utilizador">contas de utilizador</a></span>…</span>
+<a href="prefs.html.pt" title="Utente e configuração do sistema">Utente e configuração do sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.pt" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html.pt" title="Rato">rato</a></span>, <span class="link"><a href="prefs-display.html.pt" title="Ecrã">ecrã</a></span>, <span class="link"><a href="prefs-language.html.pt" title="Região e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html.pt" title="Contas de utilizador">contas de utilizador</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

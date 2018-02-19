@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html#common-file-tasks" title="பொதுவான பணிகள்">பொதுவான பணிகள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ta" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html.ta#common-file-tasks" title="பொதுவான பணிகள்">பொதுவான பணிகள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">கோப்புகள் மற்றும் கோப்புறைகளை அழித்தல்</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">If you do not want a file or folder any more, you can delete it. When you
   delete an item it is moved to the <span class="gui">Trash</span> folder, where it is stored
-  until you empty the trash. You can <span class="link"><a href="files-recover.html" title="குப்பைத் தொட்டியில் இருந்து ஒரு கோப்பை மீட்டல்">restore
+  until you empty the trash. You can <span class="link"><a href="files-recover.html.ta" title="குப்பைத் தொட்டியில் இருந்து ஒரு கோப்பை மீட்டல்">restore
   items</a></span> in the <span class="gui">Trash</span> folder to their original location if you
   decide you need them, or if they were accidentally deleted.</p>
 <div class="steps"><div class="inner">
@@ -80,7 +80,7 @@
 <li class="steps"><p class="p">இதை செயல்தவிர்க்க முடியாது என்பதால், கோப்பு அல்லது கோப்புறையை அழித்துவிட வேண்டுமா என உறுதிப்படுத்துமாறு உங்களிடம் கேட்கப்படும்.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">Windows அல்லது Mac OS போன்ற பிற இயக்க முறைமைகளில் <span class="link"><a href="files.html#removable" title="நீக்கக்கூடிய இயக்கிகள் மற்றும் வெளி வட்டுகள்">நீக்கக்கூடிய சாதனங்களில்</a></span> இருந்து அழிக்கப்பட்ட கோப்புகள் காண்பிக்கப்படாது போகலாம். அந்தக் கோப்புகள் அப்போதும் இருக்கும், நீங்கள் சாதனத்தை மீண்டும் உங்கள் கணினியில் இணைக்கும் போது அவற்றைக் காணலாம்.</p></div></div></div></div>
+<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">Windows அல்லது Mac OS போன்ற பிற இயக்க முறைமைகளில் <span class="link"><a href="files.html.ta#removable" title="நீக்கக்கூடிய இயக்கிகள் மற்றும் வெளி வட்டுகள்">நீக்கக்கூடிய சாதனங்களில்</a></span> இருந்து அழிக்கப்பட்ட கோப்புகள் காண்பிக்கப்படாது போகலாம். அந்தக் கோப்புகள் அப்போதும் இருக்கும், நீங்கள் சாதனத்தை மீண்டும் உங்கள் கணினியில் இணைக்கும் போது அவற்றைக் காணலாம்.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -88,15 +88,15 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="பொதுவான பணிகள்">பொதுவான பணிகள்</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ta#common-file-tasks" title="பொதுவான பணிகள்">பொதுவான பணிகள்</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-recover.html" title="குப்பைத் தொட்டியில் இருந்து ஒரு கோப்பை மீட்டல்">குப்பைத் தொட்டியில் இருந்து ஒரு கோப்பை மீட்டல்</a><span class="desc"> — அழிக்கப்படும் கோப்புகள் பொதுவாக குப்பைத் தொட்டிக்கு அனுப்பப்படும், ஆனால் அவற்றை மீட்டெடுக்க முடியும்.</span>
+<a href="files-recover.html.ta" title="குப்பைத் தொட்டியில் இருந்து ஒரு கோப்பை மீட்டல்">குப்பைத் தொட்டியில் இருந்து ஒரு கோப்பை மீட்டல்</a><span class="desc"> — அழிக்கப்படும் கோப்புகள் பொதுவாக குப்பைத் தொட்டிக்கு அனுப்பப்படும், ஆனால் அவற்றை மீட்டெடுக்க முடியும்.</span>
 </li>
-<li class="links "><a href="nautilus-behavior.html#trash" title="குப்பைத்தொட்டி">கோப்பு மேலாளர் குப்பைத் தொட்டி முன்னுரிமைகள்</a></li>
+<li class="links "><a href="nautilus-behavior.html.ta#trash" title="குப்பைத்தொட்டி">கோப்பு மேலாளர் குப்பைத் தொட்டி முன்னுரிமைகள்</a></li>
 </ul></div>
 </div></div>
 </div>

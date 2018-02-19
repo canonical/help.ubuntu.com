@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html" title="Réseau filaire">Réseau filaire</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.fr" title="Réseau filaire">Réseau filaire</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Création d'une connexion avec une adresse IP fixe</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">La plupart des réseaux attribuent automatiquement une <span class="link"><a href="net-what-is-ip-address.html" title="Qu'est-ce qu'une adresse IP ?">adresse IP</a></span> et d'autres détails à votre ordinateur quand vous vous connectez au réseau. Ces détails sont susceptibles de changer de temps en temps mais il est possible que vous vouliez conserver une adresse IP fixe que vous connaissez (par exemple, pour identifier un serveur de fichiers).</p>
+<p class="p">La plupart des réseaux attribuent automatiquement une <span class="link"><a href="net-what-is-ip-address.html.fr" title="Qu'est-ce qu'une adresse IP ?">adresse IP</a></span> et d'autres détails à votre ordinateur quand vous vous connectez au réseau. Ces détails sont susceptibles de changer de temps en temps mais il est possible que vous vouliez conserver une adresse IP fixe que vous connaissez (par exemple, pour identifier un serveur de fichiers).</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Pour attribuer à votre ordinateur une adresse IP fixe (statique) :</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Réseau</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">In the left pane, select the network connection that you want to have
@@ -65,7 +65,7 @@
       button will be located next to the active network.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
       and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>
-<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html" title="Qu'est-ce qu'une adresse IP ?">IP Address</a></span> and
+<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html.fr" title="Qu'est-ce qu'une adresse IP ?">IP Address</a></span> and
       <span class="gui">Gateway</span>, as well as the appropriate <span class="gui">Netmask</span>.</p></li>
 <li class="steps"><p class="p">Dans la partie <span class="gui">DNS</span>, basculer l'interrupteur <span class="gui">Automatique</span> sur <span class="gui">Désactivé</span>. Saisissez l'adresse du serveur DNS que vous souhaitez utiliser. Ajoutez d'autres adresses de serveurs DNS à l'aide du bouton <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">Dans la partie <span class="gui">Routes par défaut</span>, basculer l'interrupteur <span class="gui">Automatique</span> sur <span class="gui">Désactivé</span>. Saisissez l'<span class="gui">Addresse</span>, le <span class="gui">Masque réseau</span>, la <span class="gui">Passerelle</span> pour la route que vous souhaitez utiliser. Ajouter des routes supplémentaires à l'aide du bouton <span class="gui">+</span>.</p></li>
@@ -79,13 +79,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html" title="Réseau filaire">Réseau filaire</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Connexion à un réseau filaire (Ethernet)">Connexions Internet filaires</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Création d'une connexion avec une adresse IP fixe">adresses IP fixes</a></span>…</span>
+<a href="net-wired.html.fr" title="Réseau filaire">Réseau filaire</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.fr" title="Connexion à un réseau filaire (Ethernet)">Connexions Internet filaires</a></span>, <span class="link"><a href="net-fixed-ip-address.html.fr" title="Création d'une connexion avec une adresse IP fixe">adresses IP fixes</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-findip.html" title="Recherche de votre adresse IP">Recherche de votre adresse IP</a><span class="desc"> — Connaître votre adresse IP peut vous aider à résoudre des problèmes de réseau.</span>
+<a href="net-findip.html.fr" title="Recherche de votre adresse IP">Recherche de votre adresse IP</a><span class="desc"> — Connaître votre adresse IP peut vous aider à résoudre des problèmes de réseau.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html.lv#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="net-wireless-troubleshooting.html.lv" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wireless.html" title="Bezvadu tīkls">Bezvadu tīkls</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a> » <a class="trail" href="net-wireless-troubleshooting.html.lv" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Bezvadu tīkla problēmu risināšana">Iepriekšējā</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Bezvadu tīkla problēmu risināšana">Nākamā</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting.html.lv" title="Bezvadu tīkla problēmu risināšana">Iepriekšējā</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html.lv" title="Bezvadu tīkla problēmu risināšana">Nākamā</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Bezvadu tīkla problēmu risināšana</span></h1>
@@ -64,7 +64,7 @@
 <li class="steps"><p class="p">Pārliecinieties, ka jūsu portatīvais dators nav pieslēgts <span class="em">vadu</span> interneta savienojumam.</p></li>
 <li class="steps"><p class="p">Ja jums ir ārējais bezvadu tīkla adapters (piemēram, USB adapters vai PCMCIA karte, kas ir ievietojama jūsu portatīvajā datorā), pārliecinieties, ka tas ir kārtīgi ievietots jūsu datorā pareizajā vietā.</p></li>
 <li class="steps"><p class="p">Ja bezvadu tīkla karte ir <span class="em">iekšā</span> jūsu datorā, pārliecinieties, ka bezvadu tīkla slēdzis ir ieslēgts (ja tam ir tāds). Portatīvajiem datoriem parasti ir bezvadu tīkla slēdži, kurus jūs varat ieslēgt, nospiežot pogu kombināciju uz savas tastatūras taustiņiem.</p></li>
-<li class="steps"><p class="p">Spiediet uz sistēmas statusa laukumu augšējā joslā un izvēlieties <span class="gui">Wi-Fi</span>, tad izvēlieties <span class="gui">Wi-Fi iestatījumi</span>.Jums arī vajadzētu pārbaudīt vai <span class="link"><a href="net-wireless-airplane.html" title="Izslēdziet bezvadu tīklu (lidmašīnas režīms)">lidmašīnas režīms</a></span> <span class="em">nav</span> ieslēgts.</p></li>
+<li class="steps"><p class="p">Spiediet uz sistēmas statusa laukumu augšējā joslā un izvēlieties <span class="gui">Wi-Fi</span>, tad izvēlieties <span class="gui">Wi-Fi iestatījumi</span>.Jums arī vajadzētu pārbaudīt vai <span class="link"><a href="net-wireless-airplane.html.lv" title="Izslēdziet bezvadu tīklu (lidmašīnas režīms)">lidmašīnas režīms</a></span> <span class="em">nav</span> ieslēgts.</p></li>
 <li class="steps">
 <p class="p">Atveriet termināli un ierakstiet <span class="cmd">nmcli device</span> un spiediet <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Tas parādīs informāciju par jūsu tīkla saskarņu un savienojuma statusu. Aplūkojiet sarakstu un meklējiet, vai ir kāds vienums, kas saistīts ar bezvadu tīkla adapteri. Ja stāvoklis ir <span class="code">Savienots</span>, tas nozīmē, ka adapters strādā un ir savienota ar bezvadu maršrutētāju.</p>
@@ -74,14 +74,14 @@
 <p class="p">Ja informācija no <span class="cmd">nmcli ierīces</span> neuzrādīja, ka jūs esat savienots ar tīklu, spiediet <span class="gui">Nākamā</span>, lai pārietu uz nākamo daļu problēmu risināšanas pamācībā.</p>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Bezvadu tīkla problēmu risināšana">Iepriekšējā</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Bezvadu tīkla problēmu risināšana">Nākamā</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting.html.lv" title="Bezvadu tīkla problēmu risināšana">Iepriekšējā</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html.lv" title="Bezvadu tīkla problēmu risināšana">Nākamā</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a><span class="desc"> — Identificēt un novērst problēmas ar bezvadu tīkla savienojumiem.</span>
+<a href="net-wireless-troubleshooting.html.lv" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a><span class="desc"> — Identificēt un novērst problēmas ar bezvadu tīkla savienojumiem.</span>
 </li></ul></div>
 </div></div></div>
 </div>

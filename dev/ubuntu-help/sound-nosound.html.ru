@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html#problems" title="Типичные проблемы">Неполадки</a> » <a class="trail" href="sound-broken.html" title="Проблемы со звуком">Проблемы со звуком</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки</a> » <a class="trail" href="sound-broken.html.ru" title="Проблемы со звуком">Проблемы со звуком</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="media.html#sound" title="Основы работы со звуком">Звук</a> » <a class="trail" href="sound-broken.html" title="Проблемы со звуком">Проблемы со звуком</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="media.html.ru#sound" title="Основы работы со звуком">Звук</a> » <a class="trail" href="sound-broken.html.ru" title="Проблемы со звуком">Проблемы со звуком</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div id="mute" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Проверьте, включён ли звук</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="Вы и ваш компьютер">system menu</a></span> and make sure that
+<p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#yourname" title="Вы и ваш компьютер">system menu</a></span> and make sure that
   the sound is not muted or turned down.</p>
 <p class="p">Some laptops have mute switches or keys on their keyboards — try pressing
   that key to see if it unmutes the sound.</p>
@@ -99,7 +99,7 @@
   have the correct sound device selected. This might involve some
   trial-and-error to choose the right one.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Sound</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Звук</span> чтобы открыть этот раздел настроек.</p></li>
 <li class="steps">
@@ -122,7 +122,7 @@
   card you have:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Go to the <span class="gui">Activities</span> overview and open a Terminal.</p></li>
-<li class="steps"><p class="p">Run <span class="cmd">lspci</span> as <span class="link"><a href="user-admin-explain.html" title="Как работают административные полномочия?">superuser</a></span>;
+<li class="steps"><p class="p">Run <span class="cmd">lspci</span> as <span class="link"><a href="user-admin-explain.html.ru" title="Как работают административные полномочия?">superuser</a></span>;
       either type <span class="cmd">sudo lspci</span> and type your password, or type
       <span class="cmd">su</span>, enter the <span class="em">root</span> (administrative) password,
       then type <span class="cmd">lspci</span>.</p></li>
@@ -143,7 +143,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html" title="Проблемы со звуком">Проблемы со звуком</a><span class="desc"> — Решение проблем, связанных с отсутствием звука или плохим качеством звучания.</span>
+<a href="sound-broken.html.ru" title="Проблемы со звуком">Проблемы со звуком</a><span class="desc"> — Решение проблем, связанных с отсутствием звука или плохим качеством звучания.</span>
 </li></ul></div>
 </div></div></div>
 </div>

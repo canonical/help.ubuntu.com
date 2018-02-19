@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html#backup" title="Backing up">Backing up</a> » <a class="trail" href="backup-why.html" title="Backup berkas-berkas penting Anda">Cadangan</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#backup" title="Backing up">Backing up</a> » <a class="trail" href="backup-why.html.id" title="Backup berkas-berkas penting Anda">Cadangan</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bagaimana melakukan back up</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Cara termudah membackup berkas dan pengaturan Anda adalah dengan membiarkan aplikasi backup mengelola proses backup bagi Anda. Tersedia sejumlah aplikasi backup yang berbeda, misalnya <span class="app">Déjà Dup</span>.</p>
 <p class="p">Bantuan bagi aplikasi backup yang Anda pilih akan membimbing Anda langkah demi langkah dalam mengatur preferensi Anda bagi backup, serta bagaimana memulihkan data Anda.</p>
-<p class="p">Sebuah pilihan alternatif adalah untuk <span class="link"><a href="files-copy.html" title="Menyalin atau memindah berkas dan folder">menyalin berkas Anda</a></span> ke lokasi yang aman, seperti hard drive eksternal, komputer lain pada jaringan, atau USB drive. <span class="link"><a href="backup-thinkabout.html" title="Dimana saya dapat menemukan berkas yang ingin saya back up?">Berkas pribadi</a></span> dan pengaturan Anda biasanya dalam folder Home Anda, sehingga Anda dapat menyalinnya dari sana.</p>
+<p class="p">Sebuah pilihan alternatif adalah untuk <span class="link"><a href="files-copy.html.id" title="Menyalin atau memindah berkas dan folder">menyalin berkas Anda</a></span> ke lokasi yang aman, seperti hard drive eksternal, komputer lain pada jaringan, atau USB drive. <span class="link"><a href="backup-thinkabout.html.id" title="Dimana saya dapat menemukan berkas yang ingin saya back up?">Berkas pribadi</a></span> dan pengaturan Anda biasanya dalam folder Home Anda, sehingga Anda dapat menyalinnya dari sana.</p>
 <p class="p">Banyaknya data yang dapat Anda backup dibatasi oleh ukuran media penyimpanan. Bila Anda memiliki ruang pada perangkat backup Anda, hal terbaik adalah untuk membackup seluruh folder Rumah Anda dengan pengecualian berikut:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Berkas yang telah dibackup di tempat lain, seperti ke CD, DVD, atau media lepas pasang lain.</p></li>
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Backup berkas-berkas penting Anda">Backup berkas-berkas penting Anda</a><span class="desc"> — Mengapa, apa, dimana, dan bagaimana backup.</span>
+<a href="backup-why.html.id" title="Backup berkas-berkas penting Anda">Backup berkas-berkas penting Anda</a><span class="desc"> — Mengapa, apa, dimana, dan bagaimana backup.</span>
 </li></ul></div>
 </div></div></div>
 </div>

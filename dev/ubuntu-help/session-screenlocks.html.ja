@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="ハードウェアとドライバー">ハードウェア</a> › <a class="trail" href="hardware.html#problems" title="よくある問題">問題</a> » <a class="trail" href="hardware-problems-graphics.html" title="画面の問題">画面の問題</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> › <a class="trail" href="hardware.html.ja#problems" title="よくある問題">問題</a> » <a class="trail" href="hardware-problems-graphics.html.ja" title="画面の問題">画面の問題</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="prefs-display.html" title="Display &amp; screen">Display &amp; screen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ja" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="prefs-display.html.ja" title="Display &amp; screen">Display &amp; screen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
   screen locks itself too quickly.</p>
 <p class="p">To wait a longer period before the screen is automatically locked:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Privacy</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Privacy</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press on <span class="gui">Screen Lock</span>.</p></li>
@@ -77,10 +77,10 @@
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Display &amp; screen">Display &amp; screen</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">背景</a></span>, <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">サイズと向き</a></span>, 明るさ…</span>
+<a href="prefs-display.html.ja" title="Display &amp; screen">Display &amp; screen</a><span class="desc"> — <span class="link"><a href="look-background.html.ja" title="Change the desktop and lock screen backgrounds">背景</a></span>, <span class="link"><a href="look-resolution.html.ja" title="Change the resolution or rotation of the screen">サイズと向き</a></span>, 明るさ…</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="画面の問題">画面の問題</a><span class="desc"> — 
+<a href="hardware-problems-graphics.html.ja" title="画面の問題">画面の問題</a><span class="desc"> — 
       Troubleshoot screen and graphics problems.
     </span>
 </li>
@@ -90,11 +90,11 @@
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="display-blank.html" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Change the screen blanking time to save power.</span>
+<a href="display-blank.html.ja" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Change the screen blanking time to save power.</span>
 </li>
-<li class="links "><a href="shell-exit.html#lock-screen" title="画面のロック">画面のロック</a></li>
+<li class="links "><a href="shell-exit.html.ja#lock-screen" title="画面のロック">画面のロック</a></li>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="画面を自動的にロックする">画面を自動的にロックする</a><span class="desc"> — 席を外している間に、他の人がデスクトップを使用できないようにします。</span>
+<a href="privacy-screen-lock.html.ja" title="画面を自動的にロックする">画面を自動的にロックする</a><span class="desc"> — 席を外している間に、他の人がデスクトップを使用できないようにします。</span>
 </li>
 </ul></div>
 </div></div>

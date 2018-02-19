@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="color.html" title="Управление цветом">Управление цветом</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="color.html.ru" title="Управление цветом">Управление цветом</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="color.html" title="Управление цветом">Управление цветом</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="color.html.ru" title="Управление цветом">Управление цветом</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">You may want to assign a color profile for your screen or printer so that
   the colors which it shows are more accurate.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Color</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Цвет</span>, чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Выберите устройство, для которого необходимо добавить цветовой профиль.</p></li>
@@ -72,20 +72,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html" title="Управление цветом">Управление цветом</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html" title="Почему важно управление цветом?">Почему это важно</a></span>, <span class="link"><a href="color.html#profiles" title="Цветовые профили">цветовые профили</a></span>, <span class="link"><a href="color.html#calibration" title="Калибровка и профилирование">как откалибровать устройство</a></span>…</span>
+<a href="color.html.ru" title="Управление цветом">Управление цветом</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.ru" title="Почему важно управление цветом?">Почему это важно</a></span>, <span class="link"><a href="color.html.ru#profiles" title="Цветовые профили">цветовые профили</a></span>, <span class="link"><a href="color.html.ru#calibration" title="Калибровка и профилирование">как откалибровать устройство</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Зачем выполнять калибровку самостоятельно?">Зачем выполнять калибровку самостоятельно?</a><span class="desc"> — Калибровка важна, если вы заботитесь о точности передачи цветов на экране или при печати.</span>
+<a href="color-why-calibrate.html.ru" title="Зачем выполнять калибровку самостоятельно?">Зачем выполнять калибровку самостоятельно?</a><span class="desc"> — Калибровка важна, если вы заботитесь о точности передачи цветов на экране или при печати.</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html" title="Как импортировать цветовые профили?">Как импортировать цветовые профили?</a><span class="desc"> — Цветовые профили можно легко импортировать, открыв их.</span>
+<a href="color-howtoimport.html.ru" title="Как импортировать цветовые профили?">Как импортировать цветовые профили?</a><span class="desc"> — Цветовые профили можно легко импортировать, открыв их.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Что такое цветовой профиль?">Что такое цветовой профиль?</a><span class="desc"> — Цветовой профиль — это простой файл, описывающий цветовое пространство или отклик устройства.</span>
+<a href="color-whatisprofile.html.ru" title="Что такое цветовой профиль?">Что такое цветовой профиль?</a><span class="desc"> — Цветовой профиль — это простой файл, описывающий цветовое пространство или отклик устройства.</span>
 </li>
 </ul></div>
 </div></div>

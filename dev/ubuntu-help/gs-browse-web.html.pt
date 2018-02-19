@@ -43,15 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Primeiros passos">Primeiros passos com o GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.pt" title="Primeiros passos">Primeiros passos com o GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="Fique online">Anterior</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Ligar a contas online">Seguinte</a>
+<a class="nextlinks-prev" href="gs-get-online.html.pt" title="Fique online">Anterior</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.pt" title="Ligar a contas online">Seguinte</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Navegar na Internet</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Mova o ponteiro do rato para o canto de <span class="gui">Atividades</span> no topo à esquerda do ecrã para mostrar o <span class="gui">Panorama de atividades</span>.</p></li>
+<li class="steps"><p class="p">Selecione o ícone de navegador <span class="app">Firefox</span> da barra no lado esquerdo da tela.</p></li>
+</ol></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">De forma alternativa, pode executar o navegador da seguinte forma: <span class="link"><a href="gs-use-system-search.html.pt" title="Use a procura do sistema">digite</a></span> <span class="app">Firefox</span> no <span class="gui">Panorama de atividades</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Carregue na barra de endereço no topo da janela do navegador e comece a digitar a página que deseja visitar.</p></li>
 <li class="steps">
 <p class="p">Ao digitar uma página, a procura começa pelo histórico e pelo favoritos do navegador, de forma que não precisa de se lembrar do endereço exato.</p>
@@ -59,9 +67,10 @@
 </li>
 <li class="steps"><p class="p">Com a lista pendente, pode selecionar rapidamente uma página usando as teclas de setas.</p></li>
 <li class="steps"><p class="p">Após ter uma página selecionada, prima <span class="key"><kbd>Enter</kbd></span> para a visitar.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="Fique online">Anterior</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Ligar a contas online">Seguinte</a>
+<a class="nextlinks-prev" href="gs-get-online.html.pt" title="Fique online">Anterior</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.pt" title="Ligar a contas online">Seguinte</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -69,13 +78,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Primeiros passos">Primeiros passos com o GNOME</a><span class="desc"> — É novo no GNOME? Aprenda como começar.</span>
+<a href="getting-started.html.pt" title="Primeiros passos">Primeiros passos com o GNOME</a><span class="desc"> — É novo no GNOME? Aprenda como começar.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Navegadores">Navegadores</a><span class="desc"> — <span class="link"><a href="net-default-browser.html" title="Mudar que navegador abre de maneira predeterminada os lugares site">Mudar o navegador predeterminado</a></span>, <span class="link"><a href="net-install-flash.html" title="Install the Flash plug-in">instalar flash</a></span>…</span>
+<a href="net-browser.html.pt" title="Navegadores">Navegadores</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.pt" title="Mudar que navegador abre de maneira predeterminada os lugares site">Mudar o navegador predeterminado</a></span>, <span class="link"><a href="net-install-flash.html.pt" title="Install the Flash plug-in">instalar flash</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

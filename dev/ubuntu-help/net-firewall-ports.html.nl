@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-security.html" title="Veiligheid op het internet">Veiligheid op het internet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-security.html.nl" title="Veiligheid op het internet">Veiligheid op het internet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Veelgebruikte netwerkpoorten</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">This is a list of network ports commonly used by applications that provide
   network services, like file sharing or remote desktop viewing. You can change
-  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html" title="Firewalltoegang inschakelen of blokkeren.">block or allow
+  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html.nl" title="Firewalltoegang inschakelen of blokkeren.">block or allow
   access</a></span> to these applications. There are thousands of ports in use, so
   this table isn’t complete.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
@@ -101,13 +101,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Veiligheid op het internet">Veiligheid op het internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Heb ik anti-virussoftware nodig?">Antivirussoftware</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Firewalltoegang inschakelen of blokkeren.">basis-firewalls</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Veelgebruikte netwerkpoorten">firewall-poorten</a></span>…</span>
+<a href="net-security.html.nl" title="Veiligheid op het internet">Veiligheid op het internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.nl" title="Heb ik anti-virussoftware nodig?">Antivirussoftware</a></span>, <span class="link"><a href="net-firewall-on-off.html.nl" title="Firewalltoegang inschakelen of blokkeren.">basis-firewalls</a></span>, <span class="link"><a href="net-firewall-ports.html.nl" title="Veelgebruikte netwerkpoorten">firewall-poorten</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-on-off.html" title="Firewalltoegang inschakelen of blokkeren.">Firewalltoegang inschakelen of blokkeren.</a><span class="desc"> — U kunt bepalen welke programma's toegang hebben tot het netwerk. Dit helpt uw computer veilig te houden.</span>
+<a href="net-firewall-on-off.html.nl" title="Firewalltoegang inschakelen of blokkeren.">Firewalltoegang inschakelen of blokkeren.</a><span class="desc"> — U kunt bepalen welke programma's toegang hebben tot het netwerk. Dit helpt uw computer veilig te houden.</span>
 </li></ul></div>
 </div></div>
 </div>

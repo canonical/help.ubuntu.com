@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Додајте/уклоните програме</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.sr" title="Install &amp; remove software">Додајте/уклоните програме</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Инсталирајте језике</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Када инсталирате Убунту, језик који изаберете приликом инсталације бива инсталиран са енглеским језиком, али можете додати још неки.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
@@ -59,7 +59,7 @@
 <li class="steps"><p class="p">Кликните <span class="gui">Инсталирај / уклони језике...</span>. Прозор <span class="gui">инсталираних језика</span> исписује све доступне језике, са означеним тренутно инсталираним језицима.</p></li>
 <li class="steps"><p class="p">Означите језике које желите да инсталирате, и одзначите оне тренутно инсталиране језике које желите да уклоните.</p></li>
 <li class="steps"><p class="p">Кликните <span class="gui">Промени измене</span>.</p></li>
-<li class="steps"><p class="p">Потребна су <span class="link"><a href="user-admin-explain.html" title="Како функционишу администраторска овлашћења?">Администраторска права</a></span>. Унесите вашу лозинку, или лозинку за тражени администраторски налог.</p></li>
+<li class="steps"><p class="p">Потребна су <span class="link"><a href="user-admin-explain.html.sr" title="Како функционишу администраторска овлашћења?">Администраторска права</a></span>. Унесите вашу лозинку, или лозинку за тражени администраторски налог.</p></li>
 </ol></div></div></div>
 <p class="p">Као додатак преводима који се користе за приказивање изборника и порука, са новим језиком можете пратити различите компоненте језичке подршке као што су речници за проверу писања, словни ликови и начини уноса.</p>
 <div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">Неки преводи могу бити непотпуни, а одређени програми можда уопште не подржавају српски језик.</p></div></div></div></div>
@@ -70,10 +70,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Уклоните програм">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+<a href="addremove.html.sr" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
+      <span class="link"><a href="addremove-install.html.sr" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.sr" title="Уклоните програм">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.sr" title="Add software repositories">add repositories</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -81,7 +81,7 @@
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Install additional applications">
+<a href="addremove-install.html.sr" title="Install additional applications">
     Install additional applications
   </a><span class="desc"> — 
       Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
@@ -89,7 +89,7 @@
     </span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Регион и језик">Регион и језик</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Промените језик који користите">Језик</a></span>, <span class="link"><a href="session-formats.html" title="Измените записе датума и мерења">регион и формати</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">распореди тастатуре</a></span>…</span>
+<a href="prefs-language.html.sr" title="Регион и језик">Регион и језик</a><span class="desc"> — <span class="link"><a href="session-language.html.sr" title="Промените језик који користите">Језик</a></span>, <span class="link"><a href="session-formats.html.sr" title="Измените записе датума и мерења">регион и формати</a></span>, <span class="link"><a href="keyboard-layouts.html.sr" title="Use alternative keyboard layouts">распореди тастатуре</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="power.html" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="power.html.el" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="power.html" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="power.html.el" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Όταν ο υπολογιστής <span class="em">αδρανοποιείται</span>, όλες οι εφαρμογές και τα έγγραφά σας αποθηκεύονται και ο υπολογιστής κλείνει εντελώς ώστε να μη χρησιμοποιεί καθόλου ενέργεια, οι εφαρμογές όμως και τα έγγραφα θα είναι ακόμη ανοιχτά όταν θέσετε ξανά σε λειτουργία τον υπολογιστή.</p>
-<p class="p">Δυστυχώς, η αδρανοποίηση σε πολλές περιπτώσεις <span class="link"><a href="power-suspendfail.html" title="Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;">δεν λειτουργεί</a></span>, κάτι το οποίο μπορεί να προκαλέσει την απώλεια δεδομένων σας αν προσδοκάτε να ανοίξουν ξανά τα έγγραφα και οι εφαρμογές σας όταν ενεργοποιήσετε ξανά τον υπολογιστή σας. Για τον λόγο αυτό, η αδρανοποίηση είναι απενεργοποιημένη από προεπιλογή.</p>
+<p class="p">Δυστυχώς, η αδρανοποίηση σε πολλές περιπτώσεις <span class="link"><a href="power-suspendfail.html.el" title="Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;">δεν λειτουργεί</a></span>, κάτι το οποίο μπορεί να προκαλέσει την απώλεια δεδομένων σας αν προσδοκάτε να ανοίξουν ξανά τα έγγραφα και οι εφαρμογές σας όταν ενεργοποιήσετε ξανά τον υπολογιστή σας. Για τον λόγο αυτό, η αδρανοποίηση είναι απενεργοποιημένη από προεπιλογή.</p>
 </div>
 <div id="test-hibernate" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ελέγξτε αν λειτουργεί η αδρανοποίηση</span></h2></div>
@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">Μπορείτε να χρησιμοποιήσετε τη γραμμή εντολών ώστε να δείτε αν η αδρανοποίηση λειτουργεί στον υπολογιστή σας.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε το <span class="app">Τερματικό</span> πιέζοντας το συνδυασμό πλήκτρων <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> ή αναζητώντας τον όρο <span class="input">τερματικό</span> στο <span class="gui">Dash</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε το <span class="app">Τερματικό</span> αναζητώντας τον όρο <span class="input">τερματικό</span> στο <span class="gui">Δραστηριότητες</span>.</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Εισαγάγετε τον κωδικό πρόσβασης όταν σας ζητηθεί.</p>
@@ -108,17 +108,17 @@ ResultActive=yes</pre></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;">screen dimming</a></span>…
+<a href="power.html.el" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.el" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.el" title="Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.el" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-suspendfail.html" title="Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;">Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;</a><span class="desc"> — Κάποια εξαρτήματα υπολογιστών προκαλούν προβλήματα με την αναστολή.</span>
+<a href="power-suspendfail.html.el" title="Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;">Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;</a><span class="desc"> — Κάποια εξαρτήματα υπολογιστών προκαλούν προβλήματα με την αναστολή.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html#faq" title="உதவிக்குறிப்புகள் மற்றும் கேள்விகள்">உதவிக்குறிப்புகள் மற்றும் கேள்விகள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ta" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html.ta#faq" title="உதவிக்குறிப்புகள் மற்றும் கேள்விகள்">உதவிக்குறிப்புகள் மற்றும் கேள்விகள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ஒரு கோப்பை மறைத்தல்</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">The <span class="app">Files</span> file manager gives you the ability to hide and unhide
   files at your discretion. When a file is hidden, it is not displayed by the
   file manager, but it is still there in its folder.</p>
-<p class="p">ஒரு கோப்பை மறைக்க, அதன் பெயரின் முன்பு ஒரு <span class="file">.</span> ஐ சேர்த்து அதை <span class="link"><a href="files-rename.html" title="ஒரு கோப்பு அல்லது கோப்புறையை மறுபெயரிடுதல்">மறுபெயரிடவும்</a></span>. உதாரணமாக <span class="file"> example.txt</span> எனும் பெயருள்ள ஒரு கோப்பை மறைக்க, நீங்கள் அதை <span class="file">.example.txt</span> என மறுபெயரிட வேண்டும்.</p>
+<p class="p">ஒரு கோப்பை மறைக்க, அதன் பெயரின் முன்பு ஒரு <span class="file">.</span> ஐ சேர்த்து அதை <span class="link"><a href="files-rename.html.ta" title="ஒரு கோப்பு அல்லது கோப்புறையை மறுபெயரிடுதல்">மறுபெயரிடவும்</a></span>. உதாரணமாக <span class="file"> example.txt</span> எனும் பெயருள்ள ஒரு கோப்பை மறைக்க, நீங்கள் அதை <span class="file">.example.txt</span> என மறுபெயரிட வேண்டும்.</p>
 <div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">You can hide folders in the same way that you can hide files. Hide a
   folder by placing a <span class="file">.</span> at the beginning of the folder’s name.</p></div></div></div></div>
 </div>
@@ -87,8 +87,8 @@
   view options button in the toolbar and pick <span class="gui">Show Hidden Files</span>, or
   press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> to hide any other hidden
   files again.</p>
-<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">முன்னிருப்பாக, நீங்கள் கோப்பு மேலாளரை மூடும் வரை மட்டுமே மறைக்கப்பட்ட கோப்புகளைப் பார்க்க முடியும். கோப்பு மேலாளர் எப்போதும் மறைக்கப்பட்ட கோப்புகளைக் காட்ட வேண்டும் என அமைக்க <span class="link"><a href="nautilus-views.html" title="கோப்புகள் இல் உள்ள முன்னுரிமைகளைக் காட்டும்"><span class="app">கோப்புகள்</span> இல் உள்ள முன்னுரிமைகளைக் காட்டும்</a></span> ஐப் பார்க்கவும்.</p></div></div></div></div>
-<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">மறைக்கப்பட்ட கோப்புகள் பெரும்பாலானவை தங்கள் பெயரின் தொடக்கத்தில் <span class="file">.</span> ஐக் கொண்டிருக்கும், ஆனால் மாறாக சில கோப்புகளில் பெயரின் முடிவில் <span class="file">~</span> இருக்கலாம். இந்த கோப்புகள் மறுபிரதி கோப்புகளாகும். மேலும் தகவலுக்கு <span class="link"><a href="files-tilde.html" title="பெயரின் இறுதியில் உள்ள ~ என உள்ள கோப்பு என்ன கோப்பு?">பெயரின் இறுதியில் உள்ள <span class="file">~</span> என உள்ள கோப்பு என்ன கோப்பு?</a></span> ஐப் பார்க்கவும்.</p></div></div></div></div>
+<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">முன்னிருப்பாக, நீங்கள் கோப்பு மேலாளரை மூடும் வரை மட்டுமே மறைக்கப்பட்ட கோப்புகளைப் பார்க்க முடியும். கோப்பு மேலாளர் எப்போதும் மறைக்கப்பட்ட கோப்புகளைக் காட்ட வேண்டும் என அமைக்க <span class="link"><a href="nautilus-views.html.ta" title="கோப்புகள் இல் உள்ள முன்னுரிமைகளைக் காட்டும்"><span class="app">கோப்புகள்</span> இல் உள்ள முன்னுரிமைகளைக் காட்டும்</a></span> ஐப் பார்க்கவும்.</p></div></div></div></div>
+<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">மறைக்கப்பட்ட கோப்புகள் பெரும்பாலானவை தங்கள் பெயரின் தொடக்கத்தில் <span class="file">.</span> ஐக் கொண்டிருக்கும், ஆனால் மாறாக சில கோப்புகளில் பெயரின் முடிவில் <span class="file">~</span> இருக்கலாம். இந்த கோப்புகள் மறுபிரதி கோப்புகளாகும். மேலும் தகவலுக்கு <span class="link"><a href="files-tilde.html.ta" title="பெயரின் இறுதியில் உள்ள ~ என உள்ள கோப்பு என்ன கோப்பு?">பெயரின் இறுதியில் உள்ள <span class="file">~</span> என உள்ள கோப்பு என்ன கோப்பு?</a></span> ஐப் பார்க்கவும்.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -96,12 +96,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="உதவிக்குறிப்புகள் மற்றும் கேள்விகள்">உதவிக்குறிப்புகள் மற்றும் கேள்விகள்</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ta#faq" title="உதவிக்குறிப்புகள் மற்றும் கேள்விகள்">உதவிக்குறிப்புகள் மற்றும் கேள்விகள்</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-tilde.html" title="பெயரின் இறுதியில் உள்ள ~ என உள்ள கோப்பு என்ன கோப்பு?">பெயரின் இறுதியில் உள்ள <span class="file">~</span> என உள்ள கோப்பு என்ன கோப்பு?</a><span class="desc"> — இவை மறுபிரதி கோப்புகள். முன்னிருப்பாக அவை மறைக்கப்பட்டிருக்கும்.</span>
+<a href="files-tilde.html.ta" title="பெயரின் இறுதியில் உள்ள ~ என உள்ள கோப்பு என்ன கோப்பு?">பெயரின் இறுதியில் உள்ள <span class="file">~</span> என உள்ள கோப்பு என்ன கோப்பு?</a><span class="desc"> — இவை மறுபிரதி கோப்புகள். முன்னிருப்பாக அவை மறைக்கப்பட்டிருக்கும்.</span>
 </li></ul></div>
 </div></div>
 </div>

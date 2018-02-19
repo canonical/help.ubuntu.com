@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fingeravtryck &amp; smartkort</span></h1></div>
 <div class="region">
-<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="session-fingerprint.html" title="Logga in med ett fingeravtryck"><span class="title">Logga in med ett fingeravtryck</span><span class="linkdiv-dash"> — </span><span class="desc">Du kan logga in på ditt system med hjälp av en stödd fingeravtrycksläsare istället för att skriva in ett lösenord.</span></a></div></div></div></div></div>
+<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="session-fingerprint.html.sv" title="Logga in med ett fingeravtryck"><span class="title">Logga in med ett fingeravtryck</span><span class="linkdiv-dash"> — </span><span class="desc">Du kan logga in på ditt system med hjälp av en stödd fingeravtrycksläsare istället för att skriva in ett lösenord.</span></a></div></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Maskinvara och drivrutiner">Maskinvara och drivrutiner</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Vanliga problem">Hårdvaruproblem</a></span>, <span class="link"><a href="printing.html" title="Utskrifter">skrivare</a></span>, <span class="link"><a href="power.html" title="Ström och batteri">ströminställningar</a></span>, <span class="link"><a href="color.html" title="Färghantering">färghantering</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Diskar och lagring">diskar</a></span>…</span>
+<a href="hardware.html.sv" title="Maskinvara och drivrutiner">Maskinvara och drivrutiner</a><span class="desc"> — <span class="link"><a href="hardware.html.sv#problems" title="Vanliga problem">Hårdvaruproblem</a></span>, <span class="link"><a href="printing.html.sv" title="Utskrifter">skrivare</a></span>, <span class="link"><a href="power.html.sv" title="Ström och batteri">ströminställningar</a></span>, <span class="link"><a href="color.html.sv" title="Färghantering">färghantering</a></span>, <span class="link"><a href="bluetooth.html.sv" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.sv" title="Diskar och lagring">diskar</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

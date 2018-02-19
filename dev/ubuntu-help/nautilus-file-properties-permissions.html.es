@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#faq" title="Consejos y preguntas">Consejos y preguntas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#faq" title="Consejos y preguntas">Consejos y preguntas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Establecer los permisos del archivo</span></h1></div>
@@ -58,7 +58,7 @@
 <p class="p">Puede asignar los permisos para el propietario del archivo, el grupo del propietario y todos los demás usuarios del sistema. Para sus archivos, usted es su propietario, y puede concederse a sí mismo permisos de solo lectura o de lectura/escritura. Defina un archivo como solo lectura si no quiere cambiarlo accidentalmente.</p>
 <p class="p">Cada usuario de su equipo pertenece a un grupo. En equipos domésticos, es habitual que cada usuario tenga su propio grupo, y que los permisos de grupo no se usen a menudo. En entornos empresariales, los grupos se usan a veces para departamentos o proyectos. Además de tener un propietario, cada archivo pertenece a un grupo. Puede asignar el grupo de un archivo y controlar los permisos para todos los usuarios de ese grupo. Puede asignar el grupo de un archivo solo si es un grupo al que usted pertenece.</p>
 <p class="p">También puede asignar los permisos de los usuarios que no sean el propietario ni que estén en el grupo del archivo.</p>
-<p class="p">Si el archivo es un programa, como por ejemplo un script, tendrá que seleccionar <span class="gui">Permitir ejecutar el archivo como un programa</span> para ejecutarlo. Incluso con esta opción activada, puede que el gestor de archivos abra ese archivo dentro de una aplicación o le pregunte qué hacer. Para obtener más información consulte la <span class="link"><a href="nautilus-behavior.html#executable" title="Archivos de texto ejecutables">Archivos de texto ejecutables</a></span>.</p>
+<p class="p">Si el archivo es un programa, como por ejemplo un script, tendrá que seleccionar <span class="gui">Permitir ejecutar el archivo como un programa</span> para ejecutarlo. Incluso con esta opción activada, puede que el gestor de archivos abra ese archivo dentro de una aplicación o le pregunte qué hacer. Para obtener más información consulte la <span class="link"><a href="nautilus-behavior.html.es#executable" title="Archivos de texto ejecutables">Archivos de texto ejecutables</a></span>.</p>
 </div></div>
 </div></div>
 <div id="folders" class="sect"><div class="inner">
@@ -84,12 +84,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Consejos y preguntas">Consejos y preguntas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.es#faq" title="Consejos y preguntas">Consejos y preguntas</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-basic.html" title="Propiedades del archivo">Propiedades del archivo</a><span class="desc"> — Ver información básica del archivo, asignar permisos y seleccionar aplicaciones predeterminadas.</span>
+<a href="nautilus-file-properties-basic.html.es" title="Propiedades del archivo">Propiedades del archivo</a><span class="desc"> — Ver información básica del archivo, asignar permisos y seleccionar aplicaciones predeterminadas.</span>
 </li></ul></div>
 </div></div>
 </div>

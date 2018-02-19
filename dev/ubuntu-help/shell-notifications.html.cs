@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html#desktop" title="Přizpůsobení svého uživatelského prostředí">Přizpůsobení svého uživatelského prostředí</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.cs" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html.cs#desktop" title="Přizpůsobení svého uživatelského prostředí">Přizpůsobení svého uživatelského prostředí</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Upozornění a pořadač zpráv</span></h1></div>
@@ -61,7 +61,7 @@
 <div id="messagetray" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Pořadač zpráv</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Pořadač zpráv vám poskytuje způsob, jak se vrátit ke svým upozorněním, až se vám to hodí. Objeví se po kliknutí na hodiny nebo po zmáčknutí <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Co je klávesa Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span>. Obsahuje všechna upozornění, na která jste zatím nereagovali nebo jsou v něm umístěna trvale.</p>
+<p class="p">Pořadač zpráv vám poskytuje způsob, jak se vrátit ke svým upozorněním, až se vám to hodí. Objeví se po kliknutí na hodiny nebo po zmáčknutí <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.cs" title="Co je klávesa Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span>. Obsahuje všechna upozornění, na která jste zatím nereagovali nebo jsou v něm umístěna trvale.</p>
 <p class="p">Upozornění si můžete zobrazit kliknutím na položku v pořadači zpráv. Jedná se obvykle o zprávy poslané aplikacemi. Avšak upozornění z diskuzí jsou pojata trochu jinak a jsou podána podle jednotlivých kontaktů, které vám zprávy poslaly.</p>
 <p class="p">Pořadač zpráv můžete zavřít opětovným zmáčknutím <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> nebo klávesou <span class="key"><kbd>Esc</kbd></span>.</p>
 </div></div>
@@ -71,7 +71,7 @@
 <div class="region"><div class="contents">
 <p class="p">Když na něčem pracujete a nechcete být obtěžováni, můžete upozornění vypnout.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Upozornění</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Upozornění</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Upozornění</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Přepněte vypínač <span class="gui">Upozornění v cedulích</span> na <span class="gui">○</span> (vypnuto).</p></li>
 </ol></div></div></div>
@@ -83,7 +83,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="Přizpůsobení svého uživatelského prostředí">Přizpůsobení svého uživatelského prostředí</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.cs#desktop" title="Přizpůsobení svého uživatelského prostředí">Přizpůsobení svého uživatelského prostředí</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

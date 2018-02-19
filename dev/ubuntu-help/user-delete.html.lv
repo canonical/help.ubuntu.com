@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="user-accounts.html" title="Lietotāju konti">Lietotāji</a> › <a class="trail" href="user-accounts.html#manage" title="Pārvaldīt lietotāju kontus">Konti</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="user-accounts.html.lv" title="Lietotāju konti">Lietotāji</a> › <a class="trail" href="user-accounts.html.lv#manage" title="Pārvaldīt lietotāju kontus">Konti</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Dzēst lietotāja kontu</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Jūs varat <span class="link"><a href="user-add.html" title="Pievienot jaunu lietotāja kontu">pievienot vairākus lietotāju kontus</a></span>. Ja kāds jūsu datoru vairs neizmanto, jūs varat izdzēst atbilstošo lietotāja kontu.</p>
-<p class="p">Jums ir jābūt <span class="link"><a href="user-admin-explain.html" title="Kā strādā administratīvās tiesības?">administratora tiesībām</a></span>, lai dzēstu lietotāju kontus.</p>
+<p class="p">Jūs varat <span class="link"><a href="user-add.html.lv" title="Pievienot jaunu lietotāja kontu">pievienot vairākus lietotāju kontus</a></span>. Ja kāds jūsu datoru vairs neizmanto, jūs varat izdzēst atbilstošo lietotāja kontu.</p>
+<p class="p">Jums ir jābūt <span class="link"><a href="user-admin-explain.html.lv" title="Kā strādā administratīvās tiesības?">administratora tiesībām</a></span>, lai dzēstu lietotāju kontus.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Lietotāji</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Lietotāji</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Lietotāji</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Spiediet pogu <span class="gui">Atslēgt</span> un ievadiet savu  paroli.</p></li>
 <li class="steps"><p class="p">Izvēlieties lietotāju, kuru vēlaties dzēst, un spiediet <span class="gui">-</span> pogu kontu sarakstā apakšā pa kreisi, lai dzēstu tā lietotāja kontu.</p></li>
@@ -64,16 +64,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Pārvaldīt lietotāju kontus">Pārvaldīt lietotāju kontus</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.lv#manage" title="Pārvaldīt lietotāju kontus">Pārvaldīt lietotāju kontus</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Kā strādā administratīvās tiesības?">Kā strādā administratīvās tiesības?</a><span class="desc"> — Administratora tiesības vajadzīgas, lai veiktu nopietnas izmaiņas sistēmā.</span>
+<a href="user-admin-explain.html.lv" title="Kā strādā administratīvās tiesības?">Kā strādā administratīvās tiesības?</a><span class="desc"> — Administratora tiesības vajadzīgas, lai veiktu nopietnas izmaiņas sistēmā.</span>
 </li>
 <li class="links ">
-<a href="user-add.html" title="Pievienot jaunu lietotāja kontu">Pievienot jaunu lietotāja kontu</a><span class="desc"> — Pievienot jaunus lietotājus, lai cilvēki varētu ierakstīties sistēmā un lietot datoru.</span>
+<a href="user-add.html.lv" title="Pievienot jaunu lietotāja kontu">Pievienot jaunu lietotāja kontu</a><span class="desc"> — Pievienot jaunus lietotājus, lai cilvēki varētu ierakstīties sistēmā un lietot datoru.</span>
 </li>
 </ul></div>
 </div></div>

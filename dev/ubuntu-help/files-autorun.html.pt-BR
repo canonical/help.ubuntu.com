@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Som, vídeo &amp; imagens">Som, vídeo &amp; imagens</a> › <a class="trail" href="media.html#photos" title="Fotos e câmeras digitais">Fotos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.pt-BR" title="Som, vídeo &amp; imagens">Som, vídeo &amp; imagens</a> › <a class="trail" href="media.html.pt-BR#photos" title="Fotos e câmeras digitais">Fotos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Som, vídeo &amp; imagens">Som, vídeo &amp; imagens</a> › <a class="trail" href="media.html#music" title="Música e reprodutores portáteis de áudio">Música e reprodutores</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.pt-BR" title="Som, vídeo &amp; imagens">Som, vídeo &amp; imagens</a> › <a class="trail" href="media.html.pt-BR#music" title="Música e reprodutores portáteis de áudio">Música e reprodutores</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html#removable" title="Unidades removíveis e discos externos">Unidades removíveis e discos externos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#removable" title="Unidades removíveis e discos externos">Unidades removíveis e discos externos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Som, vídeo &amp; imagens">Som, vídeo &amp; imagens</a> › <a class="trail" href="media.html#videos" title="Vídeos e câmeras de vídeo">Vídeos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.pt-BR" title="Som, vídeo &amp; imagens">Som, vídeo &amp; imagens</a> › <a class="trail" href="media.html.pt-BR#videos" title="Vídeos e câmeras de vídeo">Vídeos</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <p class="p">Você pode ter um aplicativo sendo iniciado automaticamente quando você conecta um dispositivo ou insere um disco ou cartão de memória. Por exemplo, você pode querer que seu organizador de fotografias seja iniciado quando você conectar uma câmera digital. É também possível desativar esse recurso, para que nada aconteça quando você plugar alguma coisa ao computador.</p>
 <p class="p">Para decidir que aplicativos deveriam ser executados quando você pluga vários dispositivos:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Detalhes</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Detalhes</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Detalhes</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Mídia removível</span>.</p></li>
 <li class="steps">
@@ -77,7 +77,7 @@
 <dt class="terms">Discos de áudio</dt>
 <dd class="terms"><p class="p">Escolha seu aplicativo de música favorito ou extrator de áudio de CD para manipular CDs de áudio. Se você usa DVDs de áudio (DVD-A), selecione como abri-los em <span class="gui">Outras mídias…</span>. Se você abrir um disco de áudio no gerenciador de arquivos, as trilhas aparecerão como arquivos WAV, que você pode reproduzir em qualquer aplicativo de reprodução de áudio.</p></dd>
 <dt class="terms">Discos de vídeo</dt>
-<dd class="terms"><p class="p">Escolha seu aplicativo de vídeo favorito para lidar com DVDs de vídeo. Use o botão <span class="gui">Outras mídias…</span> para definir um aplicativo para Blu-ray, HD DVD, video CD (VCD) e super video CD (SVCD). Se DVDs ou outros discos de vídeo não funcionam corretamente quando você os insere, veja <span class="link"><a href="video-dvd.html" title="Por que os DVDs não tocam?">Por que os DVDs não tocam?</a></span>.</p></dd>
+<dd class="terms"><p class="p">Escolha seu aplicativo de vídeo favorito para lidar com DVDs de vídeo. Use o botão <span class="gui">Outras mídias…</span> para definir um aplicativo para Blu-ray, HD DVD, video CD (VCD) e super video CD (SVCD). Se DVDs ou outros discos de vídeo não funcionam corretamente quando você os insere, veja <span class="link"><a href="video-dvd.html.pt-BR" title="Por que os DVDs não tocam?">Por que os DVDs não tocam?</a></span>.</p></dd>
 <dt class="terms">Discos vazios</dt>
 <dd class="terms"><p class="p">Use o botão <span class="gui">Outras mídias…</span> para selecionar um aplicativo de gravação de disco para CDs, DVDs, discos Blu-ray e HD-DVDs vazios.</p></dd>
 <dt class="terms">Câmeras e fotos</dt>
@@ -101,10 +101,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#photos" title="Fotos e câmeras digitais">Fotos</a></li>
-<li class="links "><a href="media.html#music" title="Música e reprodutores portáteis de áudio">Música e reprodutores</a></li>
-<li class="links "><a href="files.html#removable" title="Unidades removíveis e discos externos">Unidades removíveis e discos externos</a></li>
-<li class="links "><a href="media.html#videos" title="Vídeos e câmeras de vídeo">Vídeos</a></li>
+<li class="links "><a href="media.html.pt-BR#photos" title="Fotos e câmeras digitais">Fotos</a></li>
+<li class="links "><a href="media.html.pt-BR#music" title="Música e reprodutores portáteis de áudio">Música e reprodutores</a></li>
+<li class="links "><a href="files.html.pt-BR#removable" title="Unidades removíveis e discos externos">Unidades removíveis e discos externos</a></li>
+<li class="links "><a href="media.html.pt-BR#videos" title="Vídeos e câmeras de vídeo">Vídeos</a></li>
 </ul></div>
 </div></div></div>
 </div>

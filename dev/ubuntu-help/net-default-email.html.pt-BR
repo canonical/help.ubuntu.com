@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-email.html" title="E-mail &amp; software de e-mail">E-mail &amp; software de e-mail</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-email.html.pt-BR" title="E-mail &amp; software de e-mail">E-mail &amp; software de e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Alterando qual aplicativo de correio é usado para escrever e-mails</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Quando você clica em um botão ou link para enviar um novo e-mail (por exemplo, em seu aplicativo processador de textos), seu aplicativo padrão de correio irá se abrir com uma mensagem em branco, pronta para você escrever. Se você tiver mais que um aplicativo de correio instalado, contudo, o aplicativo de correio errado pode se abrir. Você pode corrigir isso alterando qual é o aplicativo de e-mail padrão:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Detalhes</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Detalhes</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Detalhes</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Escolha <span class="gui">Aplicativos padrões</span> na lista do lado esquerdo da janela.</p></li>
 <li class="steps"><p class="p">Escolha qual cliente de e-mail você gostaria que fosse usado por padrão alterando a opção <span class="gui">Correio</span>.</p></li>
@@ -62,7 +62,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email.html" title="E-mail &amp; software de e-mail">E-mail &amp; software de e-mail</a><span class="desc"> — <span class="link"><a href="net-default-email.html" title="Alterando qual aplicativo de correio é usado para escrever e-mails">Aplicativos padrões de e-mail</a></span>, <span class="link"><a href="net-email-virus.html" title="Eu preciso verificar meus e-mails por vírus?">Eu deveria verificar por vírus?</a></span>…</span>
+<a href="net-email.html.pt-BR" title="E-mail &amp; software de e-mail">E-mail &amp; software de e-mail</a><span class="desc"> — <span class="link"><a href="net-default-email.html.pt-BR" title="Alterando qual aplicativo de correio é usado para escrever e-mails">Aplicativos padrões de e-mail</a></span>, <span class="link"><a href="net-email-virus.html.pt-BR" title="Eu preciso verificar meus e-mails por vírus?">Eu deveria verificar por vírus?</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

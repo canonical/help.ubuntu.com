@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -62,29 +62,29 @@
     more than a year before the date you bought the device then it’s
     likely dummy data generated that is useless.
   </p>
-<p class="p">Zie <span class="link"><a href="color-why-calibrate.html" title="Waarom moet ik zelf kalibreren?">Waarom moet ik zelf kalibreren?</a></span> voor informatie over waarom door verkopers geleverde profielen vaak waardeloos zijn.</p>
+<p class="p">Zie <span class="link"><a href="color-why-calibrate.html.nl" title="Waarom moet ik zelf kalibreren?">Waarom moet ik zelf kalibreren?</a></span> voor informatie over waarom door verkopers geleverde profielen vaak waardeloos zijn.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.nl#profiles" title="Kleurprofielen">Kleurprofielen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-testing.html" title="Hoe kan ik controleren of kleurbeheer naar behoren werkt?">Hoe kan ik controleren of kleurbeheer naar behoren werkt?</a><span class="desc"> — Gebruik de meegeleverde testprofielen om na te gaan of uw profielen correct worden toegepast op uw scherm.</span>
+<a href="color-testing.html.nl" title="Hoe kan ik controleren of kleurbeheer naar behoren werkt?">Hoe kan ik controleren of kleurbeheer naar behoren werkt?</a><span class="desc"> — Gebruik de meegeleverde testprofielen om na te gaan of uw profielen correct worden toegepast op uw scherm.</span>
 </li>
 <li class="links ">
-<a href="color-missingvcgt.html" title="Mist u informatie voor kleurcorrectie voor volledig scherm?">Mist u informatie voor kleurcorrectie voor volledig scherm?</a><span class="desc"> — Kleurcorrectie voor het gehele scherm verandert alle kleuren op alle vensters.</span>
+<a href="color-missingvcgt.html.nl" title="Mist u informatie voor kleurcorrectie voor volledig scherm?">Mist u informatie voor kleurcorrectie voor volledig scherm?</a><span class="desc"> — Kleurcorrectie voor het gehele scherm verandert alle kleuren op alle vensters.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Waarom moet ik zelf kalibreren?">Waarom moet ik zelf kalibreren?</a><span class="desc"> — Kalibreren is belangrijk als u geeft om de weergave of het afdrukken van kleuren.</span>
+<a href="color-why-calibrate.html.nl" title="Waarom moet ik zelf kalibreren?">Waarom moet ik zelf kalibreren?</a><span class="desc"> — Kalibreren is belangrijk als u geeft om de weergave of het afdrukken van kleuren.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Wat is een kleurprofiel?">Wat is een kleurprofiel?</a><span class="desc"> — Een kleurprofiel is een eenvoudig bestand dat een kleurruimte of de respons van een apparaat uitdrukt.</span>
+<a href="color-whatisprofile.html.nl" title="Wat is een kleurprofiel?">Wat is een kleurprofiel?</a><span class="desc"> — Een kleurprofiel is een eenvoudig bestand dat een kleurruimte of de respons van een apparaat uitdrukt.</span>
 </li>
 </ul></div>
 </div></div>

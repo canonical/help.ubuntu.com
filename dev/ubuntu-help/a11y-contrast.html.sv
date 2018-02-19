@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="a11y.html" title="Hjälpmedel">Hjälpmedel</a> › <a class="trail" href="a11y.html#vision" title="Synnedsättningar">Synnedsättningar</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="a11y.html.sv" title="Hjälpmedel">Hjälpmedel</a> › <a class="trail" href="a11y.html.sv#vision" title="Synnedsättningar">Synnedsättningar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Justera kontrasten</span></h1></div>
@@ -51,13 +51,13 @@
 <div class="contents">
 <p class="p">Du kan justera kontrasten för fönster och knappar så att de är enklare att se. Detta är inte detsamma som att ändra ljusstyrkan för hela skärmen; endast delar av <span class="em">användargränssnittet</span> kommer att ändras.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Hjälpmedel</span>.</p></li>
+<li class="steps"><p class="p">Öppna <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Hjälpmedel</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Hjälpmedel</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Slå om <span class="gui">Hög kontrast</span> till <span class="gui">PÅ</span> i avsnittet <span class="gui">Se</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tips"><div class="inner">
 <div class="title title-note"><h2><span class="title">Aktivera och inaktivera hög kontrast snabbt</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Du kan aktivera eller inaktivera hög kontrast genom att klicka på <span class="link"><a href="a11y-icon.html" title="Hitta hjälpmedelsmenyn">hjälpmedelsikonen</a></span> i systemraden och välja <span class="gui">Hög kontrast</span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Du kan aktivera eller inaktivera hög kontrast genom att klicka på <span class="link"><a href="a11y-icon.html.sv" title="Hitta hjälpmedelsmenyn">hjälpmedelsikonen</a></span> i systemraden och välja <span class="gui">Hög kontrast</span>.</p></div></div>
 </div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -65,12 +65,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Synnedsättningar">Synnedsättningar</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.sv#vision" title="Synnedsättningar">Synnedsättningar</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="display-brightness.html" title="Ställ in ljusstyrka">Ställ in ljusstyrka</a><span class="desc"> — Ändra skärmens ljusstyrka för att göra den läsligare i starkt ljus.</span>
+<a href="display-brightness.html.sv" title="Ställ in ljusstyrka">Ställ in ljusstyrka</a><span class="desc"> — Ändra skärmens ljusstyrka för att göra den läsligare i starkt ljus.</span>
 </li></ul></div>
 </div></div>
 </div>

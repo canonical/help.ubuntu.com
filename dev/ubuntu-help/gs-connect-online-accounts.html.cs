@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Začínáme">Začínáme s GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.cs" title="Začínáme">Začínáme s GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-browse-web.html" title="Brouzdání po webu">Předchozí</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html" title="Změna data, času a časového pásma">Následující</a>
+<a class="nextlinks-prev" href="gs-browse-web.html.cs" title="Brouzdání po webu">Předchozí</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.cs" title="Změna data, času a časového pásma">Následující</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Připojení k účtům on-line</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klikněte na <span class="gui"><a href="shell-introduction.html#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> v pravé části horní lišty.</p></li>
+<li class="steps"><p class="p">Klikněte na <span class="gui"><a href="shell-introduction.html.cs#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> v pravé části horní lišty.</p></li>
 <li class="steps"><p class="p">Klikněte na tlačítko nastavení v levé dolní části nabídky.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa2.svg" width="100%" class="media media-block" alt=""></div></div>
@@ -71,7 +71,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Řada účtů on-line umožňuje zvolit služby, které ve spojitosti s tímto účtem chcete používat. Pokud některou službu používat nechcete, zakažte ji kliknutím na přepínač <span class="gui">❙/○</span> na pravé straně okna.</p></li></ol></div></div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-browse-web.html" title="Brouzdání po webu">Předchozí</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html" title="Změna data, času a časového pásma">Následující</a>
+<a class="nextlinks-prev" href="gs-browse-web.html.cs" title="Brouzdání po webu">Předchozí</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.cs" title="Změna data, času a časového pásma">Následující</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -79,13 +79,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Začínáme">Začínáme s GNOME</a><span class="desc"> — Začínáte s GNOME? Naučte se základní triky.</span>
+<a href="getting-started.html.cs" title="Začínáme">Začínáme s GNOME</a><span class="desc"> — Začínáte s GNOME? Naučte se základní triky.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Účty on-line">Účty on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Přidání účtu">Přidání účtu on-line</a></span>, <span class="link"><a href="accounts-remove.html" title="Odebrání účtu">odebrání účtu on-line</a></span>, <span class="link"><a href="accounts-which-application.html" title="Služby a aplikace on-line">něco o službách</a></span>…</span>
+<a href="accounts.html.cs" title="Účty on-line">Účty on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html.cs" title="Přidání účtu">Přidání účtu on-line</a></span>, <span class="link"><a href="accounts-remove.html.cs" title="Odebrání účtu">odebrání účtu on-line</a></span>, <span class="link"><a href="accounts-which-application.html.cs" title="Služby a aplikace on-line">něco o službách</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

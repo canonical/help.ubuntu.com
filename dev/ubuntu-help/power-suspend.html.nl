@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Wanneer u de computer in de <span class="em">pauzestand</span> zet, wordt hij gepauzeerd. Al uw toepassingen en documenten blijven open staan, maar het scherm en andere delen van de computer worden uitgezet om energie te besparen. De computer staat echter nog wel aan en zal nog altijd een kleine hoeveelheid stroom gebruiken. U kunt hem weer activeren door een toets in te drukken of met de muis te klikken. Als dat niet werkt, probeer dan op de aan/uit-knop te drukken.</p>
-<p class="p">Sommige computers hebben problemen met hardwareondersteuning hetgeen betekent dat <span class="link"><a href="power-suspendfail.html" title="Why does my computer not turn back on after I suspended it?">de pauzestand mogelijk niet goed functioneert</a></span>. Het is een goed idee om de pauzestand eerst op uw computer te testen voordat u er echt gebruik van gaat maken.</p>
+<p class="p">Sommige computers hebben problemen met hardwareondersteuning hetgeen betekent dat <span class="link"><a href="power-suspendfail.html.nl" title="Why does my computer not turn back on after I suspended it?">de pauzestand mogelijk niet goed functioneert</a></span>. Het is een goed idee om de pauzestand eerst op uw computer te testen voordat u er echt gebruik van gaat maken.</p>
 <div class="note note-important" title="Belangrijk"><div class="inner">
 <div class="title title-note"><h2><span class="title">Sla uw werk altijd op voordat u de pauzestand gebruikt</span></h2></div>
 <div class="region"><div class="contents"><p class="p">U dient al uw werk op te slaan voordat u de computer in de pauzestand zet, voor het geval er iets fout gaat en uw geopende toepassingen en documenten niet kunnen worden hersteld wanneer u de computer weer activeert.</p></div></div>
@@ -66,24 +66,24 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Voeding &amp; accu">Voeding &amp; accu</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Controleer de accustatus">Accustatus</a></span>, <span class="link"><a href="power-suspend.html" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">pauzestand</a></span>, <span class="link"><a href="power-whydim.html" title="Waarom wordt mijn scherm na enige tijd zwart?">scherm dimmen</a></span>…</span>
+<a href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a><span class="desc"> — <span class="link"><a href="power-status.html.nl" title="Controleer de accustatus">Accustatus</a></span>, <span class="link"><a href="power-suspend.html.nl" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">pauzestand</a></span>, <span class="link"><a href="power-whydim.html.nl" title="Waarom wordt mijn scherm na enige tijd zwart?">scherm dimmen</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html" title="Automatische pauzestand instellen">Automatische pauzestand instellen</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-autosuspend.html.nl" title="Automatische pauzestand instellen">Automatische pauzestand instellen</a><span class="desc"> — Configure your computer to suspend automatically.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Gebruik minder stroom en verbeter de levensduur van de accu">Gebruik minder stroom en verbeter de levensduur van de accu</a><span class="desc"> — Tips om het energieverbruik van uw computer te verminderen.</span>
+<a href="power-batterylife.html.nl" title="Gebruik minder stroom en verbeter de levensduur van de accu">Gebruik minder stroom en verbeter de levensduur van de accu</a><span class="desc"> — Tips om het energieverbruik van uw computer te verminderen.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Pauzestand">Pauzestand</a></li>
+<li class="links "><a href="shell-exit.html.nl#suspend" title="Pauzestand">Pauzestand</a></li>
 <li class="links ">
-<a href="power-closelid.html" title="Waarom wordt mijn computer uitgeschakeld wanneer ik hem dichtdoe?">Waarom wordt mijn computer uitgeschakeld wanneer ik hem dichtdoe?</a><span class="desc"> — Laptops worden in de pauzestand gezet wanneer ze dicht gedaan worden, om energie te sparen.</span>
+<a href="power-closelid.html.nl" title="Waarom wordt mijn computer uitgeschakeld wanneer ik hem dichtdoe?">Waarom wordt mijn computer uitgeschakeld wanneer ik hem dichtdoe?</a><span class="desc"> — Laptops worden in de pauzestand gezet wanneer ze dicht gedaan worden, om energie te sparen.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.nl" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 </ul></div>
 </div></div>

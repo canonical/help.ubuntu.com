@@ -43,22 +43,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Anwendungen installieren &amp; entfernen</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html" title="Eine Anwendung entfernen"><span class="title">Eine Anwendung entfernen</span><span class="linkdiv-dash"> — </span><span class="desc">Ungenutzte Anwendungen entfernen</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-install.html" title="Zusätzliche Anwendungen installieren"><span class="title">Zusätzliche Anwendungen installieren</span><span class="linkdiv-dash"> — </span><span class="desc">Verwenden <span class="app">Ubuntu Software</span> um zusätzliche Programme zu installieren und Ubuntu nützlicher zu machen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html" title="Ein Persönliches Paketarchiv (PPA) hinzufügen"><span class="title">Ein Persönliches Paketarchiv (PPA) hinzufügen</span><span class="linkdiv-dash"> — </span><span class="desc">Hinzufügen von PPAs für weitere Software-Quellen für Installation und Aktualisierungen für Ubuntu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html" title="Paketquellen hinzufügen"><span class="title">Paketquellen hinzufügen</span><span class="linkdiv-dash"> — </span><span class="desc">Fügen Sie Paketquellen hinzu, um die von Ubuntu genutzte Softwarebasis für Installationen und Aktualisierungen zu erweitern.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html.de" title="Eine Anwendung entfernen"><span class="title">Eine Anwendung entfernen</span><span class="linkdiv-dash"> — </span><span class="desc">Ungenutzte Anwendungen entfernen</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.de" title="Zusätzliche Anwendungen installieren"><span class="title">Zusätzliche Anwendungen installieren</span><span class="linkdiv-dash"> — </span><span class="desc">Verwenden <span class="app">Ubuntu Software</span> um zusätzliche Programme zu installieren und Ubuntu nützlicher zu machen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html.de" title="Ein Persönliches Paketarchiv (PPA) hinzufügen"><span class="title">Ein Persönliches Paketarchiv (PPA) hinzufügen</span><span class="linkdiv-dash"> — </span><span class="desc">Hinzufügen von PPAs für weitere Software-Quellen für Installation und Aktualisierungen für Ubuntu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html.de" title="Paketquellen hinzufügen"><span class="title">Paketquellen hinzufügen</span><span class="linkdiv-dash"> — </span><span class="desc">Fügen Sie Paketquellen hinzu, um die von Ubuntu genutzte Softwarebasis für Installationen und Aktualisierungen zu erweitern.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html" title="Synaptic zur erweiterten Anwendungsverwaltung nutzen"><span class="title">Synaptic zur erweiterten Anwendungsverwaltung nutzen</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic ist eine mächtige, aber auch komplizierte Softwareverwaltungsalternative  zu <span class="app">Ubuntu Software</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html" title="Sprachen installieren"><span class="title">Sprachen installieren</span><span class="linkdiv-dash"> — </span><span class="desc">Installieren von weiteren Übersetzungen und damit zusammenhängenden Paketen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Startmedium erstellen"><span class="title">Startmedium erstellen</span><span class="linkdiv-dash"> — </span><span class="desc"> 
+<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.de" title="Synaptic zur erweiterten Anwendungsverwaltung nutzen"><span class="title">Synaptic zur erweiterten Anwendungsverwaltung nutzen</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic ist eine mächtige, aber auch komplizierte Softwareverwaltungsalternative  zu <span class="app">Ubuntu Software</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html.de" title="Sprachen installieren"><span class="title">Sprachen installieren</span><span class="linkdiv-dash"> — </span><span class="desc">Installieren von weiteren Übersetzungen und damit zusammenhängenden Paketen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.de" title="Startmedium erstellen"><span class="title">Startmedium erstellen</span><span class="linkdiv-dash"> — </span><span class="desc"> 
     Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
     </span></a></div>
 </div>
@@ -67,7 +67,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu-Leitfaden">Ubuntu-Leitfaden</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.de" title="Ubuntu-Leitfaden">Ubuntu-Leitfaden</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

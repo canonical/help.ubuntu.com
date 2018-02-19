@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="color.html" title="Upravljanje barv">Upravljanje barv</a> › <a class="trail" href="color.html#profiles" title="Barvni profili">Barvni profili</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="color.html.sl" title="Upravljanje barv">Upravljanje barv</a> › <a class="trail" href="color.html.sl#profiles" title="Barvni profili">Barvni profili</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="color.html" title="Upravljanje barv">Upravljanje barv</a> › <a class="trail" href="color.html#profiles" title="Barvni profili">Barvni profili</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="color.html.sl" title="Upravljanje barv">Upravljanje barv</a> › <a class="trail" href="color.html.sl#profiles" title="Barvni profili">Barvni profili</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <p class="p">Alternatively you can manage your color profiles through the
   <span class="gui">Color</span> panel.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Color</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel and select your
       device.</p></li>
@@ -69,7 +69,7 @@
 <p class="p">The manufacturer of your display may supply a profile that you can use.
   These profiles are usually made for the average display, so may not be perfect
   for your specific one. For the best calibration, you should
-  <span class="link"><a href="color-calibrate-screen.html" title="Kako umeriti zaslon?">create your own profile</a></span> using a
+  <span class="link"><a href="color-calibrate-screen.html.sl" title="Kako umeriti zaslon?">create your own profile</a></span> using a
   colorimeter or a spectrophotometer.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -77,16 +77,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Barvni profili">Barvni profili</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.sl#profiles" title="Barvni profili">Barvni profili</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Kaj je barvni profil?">Kaj je barvni profil?</a><span class="desc"> — Barvni profil je enostavna datoteka, ki izrazi barvni prostor ali odziv naprave.</span>
+<a href="color-whatisprofile.html.sl" title="Kaj je barvni profil?">Kaj je barvni profil?</a><span class="desc"> — Barvni profil je enostavna datoteka, ki izrazi barvni prostor ali odziv naprave.</span>
 </li>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Kako določiti profile napravam?">Kako določiti profile napravam?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-assignprofiles.html.sl" title="Kako določiti profile napravam?">Kako določiti profile napravam?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
 </li>
 </ul></div>
 </div></div>

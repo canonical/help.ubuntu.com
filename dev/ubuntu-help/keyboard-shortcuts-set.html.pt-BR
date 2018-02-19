@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="keyboard.html.pt-BR" title="Teclado">Teclado</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html.pt-BR" title="Teclado">Teclado</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Para alterar a tecla ou as teclas a serem pressionadas para um atalho de teclado:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Teclado</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Teclado</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Teclado</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione a aba <span class="gui">Atalhos</span>.</p></li>
 <li class="steps"><p class="p">Selecione uma categoria no painel esquerdo e a linha para a ação desejada à direita. A definição atual do atalho vai ser alterada para <span class="gui">Novo acelerador…</span></p></li>
@@ -129,7 +129,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Mover a janela um espaço de trabalho acima</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html" title="O que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html.pt-BR" title="O que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Mover a janela um espaço de trabalho abaixo</p></td>
@@ -495,13 +495,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Disposições de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Fazendo o cursor de teclado piscar">cursor intermitente</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiências motoras">acessibilidade no teclado</a></span>…</span>
+<a href="keyboard.html.pt-BR" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.pt-BR" title="Use alternative keyboard layouts">Disposições de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.pt-BR" title="Fazendo o cursor de teclado piscar">cursor intermitente</a></span>, <span class="link"><a href="a11y.html.pt-BR#mobility" title="Deficiências motoras">acessibilidade no teclado</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Atalhos de teclado úteis">Atalhos de teclado úteis</a><span class="desc"> — Conheça o ambiente de trabalho usando o teclado.</span>
+<a href="shell-keyboard-shortcuts.html.pt-BR" title="Atalhos de teclado úteis">Atalhos de teclado úteis</a><span class="desc"> — Conheça o ambiente de trabalho usando o teclado.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html#apps" title="Приложения и окна">Приложения и окна</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ru" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html.ru#apps" title="Приложения и окна">Приложения и окна</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html#apps" title="Приложения и окна">Приложения и окна</a> » <a class="trail" href="shell-windows.html" title="Окна и рабочие места">Окна и рабочие места</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Работа с окнами">Окна</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ru" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html.ru#apps" title="Приложения и окна">Приложения и окна</a> » <a class="trail" href="shell-windows.html.ru" title="Окна и рабочие места">Окна и рабочие места</a> › <a class="trail" href="shell-windows.html.ru#working-with-windows" title="Работа с окнами">Окна</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -59,14 +59,14 @@
   which applications are running.</p>
 <p class="p">На рабочем месте:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Чтобы активировать <span class="gui">переключатель окон</span>, нажмите комбинацию клавиш <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>.</p></li>
-<li class="steps"><p class="p">Отпустите клавишу <span class="key"><a href="keyboard-key-super.html" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>, чтобы выбрать следующее окно в переключателе.</p></li>
-<li class="steps"><p class="p">Или, продолжая удерживать клавишу <span class="key"><a href="keyboard-key-super.html" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>, нажимайте <span class="key"><kbd>Tab</kbd></span> для циклического просмотра открытых окон, или <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> для просмотра в обратном порядке.</p></li>
+<li class="steps"><p class="p">Чтобы активировать <span class="gui">переключатель окон</span>, нажмите комбинацию клавиш <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.ru" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Отпустите клавишу <span class="key"><a href="keyboard-key-super.html.ru" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>, чтобы выбрать следующее окно в переключателе.</p></li>
+<li class="steps"><p class="p">Или, продолжая удерживать клавишу <span class="key"><a href="keyboard-key-super.html.ru" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>, нажимайте <span class="key"><kbd>Tab</kbd></span> для циклического просмотра открытых окон, или <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> для просмотра в обратном порядке.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">Окна в переключателе окон группируются по приложениям. Миниатюры приложений с несколькими окнами создают выпадающий список по мере нажатий на них мышкой. Чтобы пройти по списку, нажимайте клавишу <span class="key"><kbd>`</kbd></span> (то есть клавишу над клавишей <span class="key"><kbd>Tab</kbd></span>), удерживая при этом нажатой клавишу <span class="key"><a href="keyboard-key-super.html" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>, пока не будет выбрано нужное окно.</p></div></div></div></div>
+<div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">Окна в переключателе окон группируются по приложениям. Миниатюры приложений с несколькими окнами создают выпадающий список по мере нажатий на них мышкой. Чтобы пройти по списку, нажимайте клавишу <span class="key"><kbd>`</kbd></span> (то есть клавишу над клавишей <span class="key"><kbd>Tab</kbd></span>), удерживая при этом нажатой клавишу <span class="key"><a href="keyboard-key-super.html.ru" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>, пока не будет выбрано нужное окно.</p></div></div></div></div>
 <p class="p">С помощью клавиш со стрелками <span class="key"><kbd>→</kbd></span> и <span class="key"><kbd>←</kbd></span> в переключателе окон можно перемещаться между значками приложений. Значок приложения также можно выбрать с помощью мыши.</p>
 <p class="p">Миниатюры приложений, у которых имеется только одно окно, можно показать с помощью клавиши <span class="key"><kbd>↓</kbd></span>.</p>
-<p class="p">Чтобы переключиться на <span class="link"><a href="shell-windows.html" title="Окна и рабочие места">окно</a></span>, откройте <span class="gui">Обзор</span> и нажмите на это окно. Если у вас открыто несколько <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Работа с рабочими местами">рабочих мест</a></span>, вы можете нажать на любое рабочее место, чтобы посмотреть, какие окна открыты на этом рабочем месте.</p>
+<p class="p">Чтобы переключиться на <span class="link"><a href="shell-windows.html.ru" title="Окна и рабочие места">окно</a></span>, откройте <span class="gui">Обзор</span> и нажмите на это окно. Если у вас открыто несколько <span class="link"><a href="shell-windows.html.ru#working-with-workspaces" title="Работа с рабочими местами">рабочих мест</a></span>, вы можете нажать на любое рабочее место, чтобы посмотреть, какие окна открыты на этом рабочем месте.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -74,15 +74,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-overview.html#apps" title="Приложения и окна">Приложения и окна</a></li>
-<li class="links "><a href="shell-windows.html#working-with-windows" title="Работа с окнами">Работа с окнами</a></li>
+<li class="links "><a href="shell-overview.html.ru#apps" title="Приложения и окна">Приложения и окна</a></li>
+<li class="links "><a href="shell-windows.html.ru#working-with-windows" title="Работа с окнами">Работа с окнами</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-use-windows-workspaces.html" title="Использование окон и рабочих столов">Руководство по использованию окон и рабочих мест</a></li>
-<li class="links "><a href="gs-switch-tasks.html" title="Переключение между задачами">Руководство по переключению задач</a></li>
+<li class="links "><a href="gs-use-windows-workspaces.html.ru" title="Использование окон и рабочих столов">Руководство по использованию окон и рабочих мест</a></li>
+<li class="links "><a href="gs-switch-tasks.html.ru" title="Переключение между задачами">Руководство по переключению задач</a></li>
 </ul></div>
 </div></div>
 </div>

@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="accounts.html" title="Verkkotilit">Verkkotilit</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="accounts.html.fi" title="Verkkotilit">Verkkotilit</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Miksi lisäisin tilin?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Tilien lisääminen tuo haluamasi palvelut, kuten kalenterin, keskustelun ja sähköpostin, suoraan työpöydälle liittäen ne saumattomasti osaksi käyttökokemusta. Se myös mahdollistaa useiden eri palveluiden, kuten keskustelujen, seuraamisen samanaikaisesti. Kun tili on kerran luotu, kaikki palvelut ovat valmiita käyttöön heti tietokoneen käynnistyttyä.</p>
-<p class="p">Lue <span class="link"><a href="accounts-which-application.html" title="Verkkopalvelut ja sovellukset">Verkkopalvelut ja sovellukset</a></span> saadaksesi tietoa, mitkä sovellukset voivat käyttää mitäkin palveluita.</p>
+<p class="p">Lue <span class="link"><a href="accounts-which-application.html.fi" title="Verkkopalvelut ja sovellukset">Verkkopalvelut ja sovellukset</a></span> saadaksesi tietoa, mitkä sovellukset voivat käyttää mitäkin palveluita.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Verkkotilit">Verkkotilit</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Lisää tili">Lisää verkkotili</a></span>, <span class="link"><a href="accounts-remove.html" title="Poista tili">Poista tili</a></span>, <span class="link"><a href="accounts-which-application.html" title="Verkkopalvelut ja sovellukset">Lisätietoja palveluista</a></span>…</span>
+<a href="accounts.html.fi" title="Verkkotilit">Verkkotilit</a><span class="desc"> — <span class="link"><a href="accounts-add.html.fi" title="Lisää tili">Lisää verkkotili</a></span>, <span class="link"><a href="accounts-remove.html.fi" title="Poista tili">Poista tili</a></span>, <span class="link"><a href="accounts-which-application.html.fi" title="Verkkopalvelut ja sovellukset">Lisätietoja palveluista</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html.pt#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Visualizar ficheiros e diretórios</span></h1></div>
@@ -58,12 +58,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-preview.html" title="Preferências da vista prévia do gestor de ficheiros">Preferências da vista prévia do gestor de ficheiros</a><span class="desc"> — Controlar cuándo usam-se miniaturas para os ficheiros.</span>
+<a href="nautilus-preview.html.pt" title="Preferências da vista prévia do gestor de ficheiros">Preferências da vista prévia do gestor de ficheiros</a><span class="desc"> — Controlar cuándo usam-se miniaturas para os ficheiros.</span>
 </li></ul></div>
 </div></div>
 </div>

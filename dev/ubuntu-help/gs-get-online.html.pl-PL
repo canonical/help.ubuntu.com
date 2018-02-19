@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Wprowadzenie do środowiska">Wprowadzenie do środowiska GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.pl-PL" title="Wprowadzenie do środowiska">Wprowadzenie do środowiska GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="Używanie wyszukiwania systemowego">Poprzednia</a><a class="nextlinks-next" href="gs-browse-web.html" title="Przeglądanie WWW">Następna</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.pl-PL" title="Używanie wyszukiwania systemowego">Poprzednia</a><a class="nextlinks-next" href="gs-browse-web.html.pl-PL" title="Przeglądanie WWW">Następna</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Łączenie z siecią</span></h1></div>
 <div class="region">
@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Aby połączyć z siecią Wi-Fi (bezprzewodową):</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Kliknij <span class="gui"><a href="shell-introduction.html#yourname" title="Użytkownik i komputer">menu systemowe</a></span> po prawej stronie górnego paska.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui"><a href="shell-introduction.html.pl-PL#yourname" title="Użytkownik i komputer">menu systemowe</a></span> po prawej stronie górnego paska.</p></li>
 <li class="steps"><p class="p">Wybierz <span class="gui">Nie połączono z siecią Wi-Fi</span>. Sekcja menu Wi-Fi się rozszerzy.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Wybierz sieć</span>.</p></li>
 </ol></div>
@@ -88,7 +88,7 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="Używanie wyszukiwania systemowego">Poprzednia</a><a class="nextlinks-next" href="gs-browse-web.html" title="Przeglądanie WWW">Następna</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.pl-PL" title="Używanie wyszukiwania systemowego">Poprzednia</a><a class="nextlinks-next" href="gs-browse-web.html.pl-PL" title="Przeglądanie WWW">Następna</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -96,19 +96,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Wprowadzenie do środowiska">Wprowadzenie do środowiska GNOME</a><span class="desc"> — Nowy użytkownik środowiska GNOME? Dowiedz się, jak go używać.</span>
+<a href="getting-started.html.pl-PL" title="Wprowadzenie do środowiska">Wprowadzenie do środowiska GNOME</a><span class="desc"> — Nowy użytkownik środowiska GNOME? Dowiedz się, jak go używać.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Sieć bezprzewodowa">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Sieć przewodowa">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Problemy z siecią">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Przeglądarki WWW">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email &amp; email software">email accounts</a></span>…
-    </span>
+<a href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieci bezprzewodowe</a></span>, <span class="link"><a href="net-wired.html.pl-PL" title="Sieć przewodowa">przewodowe</a></span>, <span class="link"><a href="net-problem.html.pl-PL" title="Problemy z siecią">problemy z połączeniem</a></span>, <span class="link"><a href="net-browser.html.pl-PL" title="Przeglądarki WWW">przeglądanie Internetu</a></span>, <span class="link"><a href="net-email.html.pl-PL" title="Poczta e-mail i klienty poczty">konta e-mail</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="color.html" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html.el#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="color.html" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html.el#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -62,29 +62,29 @@
     more than a year before the date you bought the device then it’s
     likely dummy data generated that is useless.
   </p>
-<p class="p">Δείτε <span class="link"><a href="color-why-calibrate.html" title="Γιατί πρέπει να κάνω τη βαθμονόμηση μόνος μου;">Γιατί πρέπει να κάνω τη βαθμονόμηση μόνος μου;</a></span> για πληροφορίες γιατί τα παρεχόμενα προφίλ από τον πωλητή είναι συχνά χειρότερα από άχρηστα.</p>
+<p class="p">Δείτε <span class="link"><a href="color-why-calibrate.html.el" title="Γιατί πρέπει να κάνω τη βαθμονόμηση μόνος μου;">Γιατί πρέπει να κάνω τη βαθμονόμηση μόνος μου;</a></span> για πληροφορίες γιατί τα παρεχόμενα προφίλ από τον πωλητή είναι συχνά χειρότερα από άχρηστα.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.el#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Γιατί πρέπει να κάνω τη βαθμονόμηση μόνος μου;">Γιατί πρέπει να κάνω τη βαθμονόμηση μόνος μου;</a><span class="desc"> — Η βαθμονόμηση είναι σημαντική εάν ενδιαφέρεστε για τα χρώματα που εμφανίζονται ή τυπώνονται.</span>
+<a href="color-why-calibrate.html.el" title="Γιατί πρέπει να κάνω τη βαθμονόμηση μόνος μου;">Γιατί πρέπει να κάνω τη βαθμονόμηση μόνος μου;</a><span class="desc"> — Η βαθμονόμηση είναι σημαντική εάν ενδιαφέρεστε για τα χρώματα που εμφανίζονται ή τυπώνονται.</span>
 </li>
 <li class="links ">
-<a href="color-missingvcgt.html" title="Πληροφορίες που λείπουν για τη διόρθωση χρώματος όλης της οθόνης;">Πληροφορίες που λείπουν για τη διόρθωση χρώματος όλης της οθόνης;</a><span class="desc"> — Η διόρθωση χρώματος όλης της οθόνης τροποποιεί όλα τα χρώματα της οθόνης σε όλα τα παράθυρα.</span>
+<a href="color-missingvcgt.html.el" title="Πληροφορίες που λείπουν για τη διόρθωση χρώματος όλης της οθόνης;">Πληροφορίες που λείπουν για τη διόρθωση χρώματος όλης της οθόνης;</a><span class="desc"> — Η διόρθωση χρώματος όλης της οθόνης τροποποιεί όλα τα χρώματα της οθόνης σε όλα τα παράθυρα.</span>
 </li>
 <li class="links ">
-<a href="color-testing.html" title="Πως ελέγχω αν η διαχείριση χρώματος λειτουργεί σωστά;">Πως ελέγχω αν η διαχείριση χρώματος λειτουργεί σωστά;</a><span class="desc"> — Χρησιμοποιήστε τα παρεχόμενα προφίλ δοκιμής για να ελέγξετε ότι τα προφίλ σας εφαρμόζονται σωστά στην οθόνη σας.</span>
+<a href="color-testing.html.el" title="Πως ελέγχω αν η διαχείριση χρώματος λειτουργεί σωστά;">Πως ελέγχω αν η διαχείριση χρώματος λειτουργεί σωστά;</a><span class="desc"> — Χρησιμοποιήστε τα παρεχόμενα προφίλ δοκιμής για να ελέγξετε ότι τα προφίλ σας εφαρμόζονται σωστά στην οθόνη σας.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Τι είναι ένα προφίλ χρώματος;">Τι είναι ένα προφίλ χρώματος;</a><span class="desc"> — Ένα προφίλ χρώματος είναι ένα απλό αρχείο που εκφράζει ένα χρωματικό χώρο ή απόκριση μιας συσκευής.</span>
+<a href="color-whatisprofile.html.el" title="Τι είναι ένα προφίλ χρώματος;">Τι είναι ένα προφίλ χρώματος;</a><span class="desc"> — Ένα προφίλ χρώματος είναι ένα απλό αρχείο που εκφράζει ένα χρωματικό χώρο ή απόκριση μιας συσκευής.</span>
 </li>
 </ul></div>
 </div></div>

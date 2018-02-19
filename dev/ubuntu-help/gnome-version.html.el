@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Συμβουλές &amp; κόλπα">Συμβουλές &amp; κόλπα</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.el" title="Συμβουλές &amp; κόλπα">Συμβουλές &amp; κόλπα</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Προσδιορισμός της έκδοσης του GNOME που εκτελείται</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Μπορείτε να προσδιορίσετε την έκδοση του GNOME που εκτελείται στο σύστημά σας πηγαίνοντας στο παράθυρο <span class="gui">Λεπτομέρειες</span> στις <span class="gui">Ρυθμίσεις</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Λεπτομέρειες</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Λεπτομέρειες</span>.</p></li>
 <li class="steps">
 <p class="p">Κάντε κλικ στο <span class="gui">Λεπτομέρειες</span> για να ανοίξετε τον πίνακα.</p>
 <p class="p">A window appears showing information about your system, including your
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Συμβουλές &amp; κόλπα">Συμβουλές &amp; κόλπα</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Εισαγωγή ειδικών χαρακτήρων">Ειδικοί χαρακτήρες</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Μεσαίο κλικ">Συντομεύσεις μεσαίου κλικ</a></span>…</span>
+<a href="tips.html.el" title="Συμβουλές &amp; κόλπα">Συμβουλές &amp; κόλπα</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.el" title="Εισαγωγή ειδικών χαρακτήρων">Ειδικοί χαρακτήρες</a></span>, <span class="link"><a href="mouse-middleclick.html.el" title="Μεσαίο κλικ">Συντομεύσεις μεσαίου κλικ</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Data e hora</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="clock-set.html" title="Cambiar a hora e data"><span class="title">Cambiar a hora e data</span><span class="linkdiv-dash"> — </span><span class="desc">Use the <span class="gui">Date &amp; Time Settings</span> to alter the date or
+<div class="linkdiv "><a class="linkdiv" href="clock-set.html.gl-GL" title="Cambiar a hora e data"><span class="title">Cambiar a hora e data</span><span class="linkdiv-dash"> — </span><span class="desc">Use the <span class="gui">Date &amp; Time Settings</span> to alter the date or
     time.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="Apuntamentos no reloxo"><span class="title">Apuntamentos no reloxo</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo"><span class="title">Apuntamentos no reloxo</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
     screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html" title="Cambiar a súa hora do sistema"><span class="title">Cambiar a súa hora do sistema</span><span class="linkdiv-dash"> — </span><span class="desc">Update your time zone to your current location so that your time is correct.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-world.html" title="Add a world clock"><span class="title">Add a world clock</span><span class="linkdiv-dash"> — </span><span class="desc">Display times in other cities under the calendar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html.gl-GL" title="Cambiar a súa hora do sistema"><span class="title">Cambiar a súa hora do sistema</span><span class="linkdiv-dash"> — </span><span class="desc">Update your time zone to your current location so that your time is correct.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-world.html.gl-GL" title="Add a world clock"><span class="title">Add a world clock</span><span class="linkdiv-dash"> — </span><span class="desc">Display times in other cities under the calendar.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -62,12 +62,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Configuracións do usuario e sistema">Configuracións do usuario e sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html" title="Rato">rato</a></span>, <span class="link"><a href="prefs-display.html" title="Pantalla e monitor">pantalla</a></span>, <span class="link"><a href="prefs-language.html" title="Rexión e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html" title="Contas de usuario">contas de usuario</a></span>…</span>
+<a href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións do usuario e sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.gl-GL" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html.gl-GL" title="Rato">rato</a></span>, <span class="link"><a href="prefs-display.html.gl-GL" title="Pantalla e monitor">pantalla</a></span>, <span class="link"><a href="prefs-language.html.gl-GL" title="Rexión e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html.gl-GL" title="Contas de usuario">contas de usuario</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-change-date-time-timezone.html" title="Cambiar a data, hora e fuso horario">Un titorial sobre cambiar a data, hora e fuso horario</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-change-date-time-timezone.html.gl-GL" title="Cambiar a data, hora e fuso horario">Un titorial sobre cambiar a data, hora e fuso horario</a></li></ul></div>
 </div></div>
 </div>
 </div>

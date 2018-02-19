@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="mouse.html" title="Hiiri">Hiiri</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="mouse.html.fi" title="Hiiri">Hiiri</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="mouse.html" title="Hiiri">Hiiri</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="mouse.html.fi" title="Hiiri">Hiiri</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="region"><div class="contents">
 <p class="p">You can tap your touchpad to click instead of using a button.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps">
@@ -73,8 +73,8 @@
 <li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
       second tap. Drag the item where you want it, then lift your finger to
       drop.</p></li>
-<li class="list"><p class="p">Jos kosketuslevy tukee usean sormen napautuksia, voit simuloida hiiren oikean painikkeen napsautusta napauttamalla kosketuslevyä kahdella sormella samaan aikaan. Muussa tapauksessa sinun täytyy käyttää fyysisiä painikkeita hiiren oikean näppäimen napsautukseen. Lue toisesta tavasta simuloida hiiren oikeaa napsautusta artikkelista <span class="link"><a href="a11y-right-click.html" title="Simuloi hiiren oikean napin painallusta">Simuloi hiiren oikean napin painallusta</a></span> .</p></li>
-<li class="list"><p class="p">Jos kosketuslevy tukee usean sormen napautuksia, <span class="link"><a href="mouse-middleclick.html" title="Hiiren keskimmäisen painikkeen napsautus">hiiren keskimmäisen painikkeen napsautus</a></span> onnistuu napauttamalla kosketuslevyä kolmella sormella samanaikaisesti.</p></li>
+<li class="list"><p class="p">Jos kosketuslevy tukee usean sormen napautuksia, voit simuloida hiiren oikean painikkeen napsautusta napauttamalla kosketuslevyä kahdella sormella samaan aikaan. Muussa tapauksessa sinun täytyy käyttää fyysisiä painikkeita hiiren oikean näppäimen napsautukseen. Lue toisesta tavasta simuloida hiiren oikeaa napsautusta artikkelista <span class="link"><a href="a11y-right-click.html.fi" title="Simuloi hiiren oikean napin painallusta">Simuloi hiiren oikean napin painallusta</a></span> .</p></li>
+<li class="list"><p class="p">Jos kosketuslevy tukee usean sormen napautuksia, <span class="link"><a href="mouse-middleclick.html.fi" title="Hiiren keskimmäisen painikkeen napsautus">hiiren keskimmäisen painikkeen napsautus</a></span> onnistuu napauttamalla kosketuslevyä kolmella sormella samanaikaisesti.</p></li>
 </ul></div></div></div>
 <div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
     are spread far enough apart. If your fingers are too close, your computer
@@ -86,7 +86,7 @@
 <div class="region"><div class="contents">
 <p class="p">You can scroll using your touchpad using two fingers.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Two finger
@@ -107,7 +107,7 @@
 <p class="p">You can drag content as if sliding a physical piece of paper using the
   touchpad.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Natural
@@ -121,7 +121,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html" title="Hiiri">Hiiri</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Käytä hiirtä vasenkätisen asetuksin">Vasenkätisyys</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Muuta hiiren ja kosketuslevyn nopeutta">nopeus ja herkkyys</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">kosketuslevyn vierittäminen ja napsauttaminen</a></span>…</span>
+<a href="mouse.html.fi" title="Hiiri">Hiiri</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.fi" title="Käytä hiirtä vasenkätisen asetuksin">Vasenkätisyys</a></span>, <span class="link"><a href="mouse-sensitivity.html.fi" title="Muuta hiiren ja kosketuslevyn nopeutta">nopeus ja herkkyys</a></span>, <span class="link"><a href="mouse-touchpad-click.html.fi" title="Click, drag, or scroll with the touchpad">kosketuslevyn vierittäminen ja napsauttaminen</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#calibration" title="Kalibratie">Kalibratie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#calibration" title="Kalibratie">Kalibratie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">U kunt uw scherm kalibreren zodat het de kleuren accurater weergeeft. Dit is vooral nuttig als u zich bezig houdt met digitale fotografie, ontwerp of kunst.</p>
 <p class="p">Om dit te doen heeft u of een colorimeter of een spectrofotometer. Beide worden gebruikt om profielen voor schermen te maken, maar ze werken niet helemaal hetzelfde.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Kleur</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Kleur</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Kleur</span> om het paneel te openen en selecteer uw scherm.</p></li>
 <li class="steps"><p class="p">Zorg ervoor dat uw kalibratieappraat met uw computer is verbonden.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Kalibreren…</span> om de kalibratie te beginnen.</p></li>
@@ -69,19 +69,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Kalibratie">Kalibratie</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.nl#calibration" title="Kalibratie">Kalibratie</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html" title="Hoe kalibreer ik mijn camera?">Hoe kalibreer ik mijn camera?</a><span class="desc"> — Kalibreren van uw camera is belangrijk om kleuren nauwkeurig vast te leggen.</span>
+<a href="color-calibrate-camera.html.nl" title="Hoe kalibreer ik mijn camera?">Hoe kalibreer ik mijn camera?</a><span class="desc"> — Kalibreren van uw camera is belangrijk om kleuren nauwkeurig vast te leggen.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html" title="Hoe kalibreer ik mijn printer?">Hoe kalibreer ik mijn printer?</a><span class="desc"> — Het kalibreren van uw printer is belangrijk voor het afdrukken van accurate kleuren.</span>
+<a href="color-calibrate-printer.html.nl" title="Hoe kalibreer ik mijn printer?">Hoe kalibreer ik mijn printer?</a><span class="desc"> — Het kalibreren van uw printer is belangrijk voor het afdrukken van accurate kleuren.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-scanner.html" title="Hoe kalibreer ik mijn scanner">Hoe kalibreer ik mijn scanner</a><span class="desc"> — Kalibreren van uw scanner is belangrijk om kleuren nauwkeurig vast te leggen.</span>
+<a href="color-calibrate-scanner.html.nl" title="Hoe kalibreer ik mijn scanner">Hoe kalibreer ik mijn scanner</a><span class="desc"> — Kalibreren van uw scanner is belangrijk om kleuren nauwkeurig vast te leggen.</span>
 </li>
 </ul></div>
 </div></div>

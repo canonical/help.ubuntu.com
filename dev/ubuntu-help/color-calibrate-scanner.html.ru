@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="color.html" title="Управление цветом">Управление цветом</a> › <a class="trail" href="color.html#calibration" title="Калибровка и профилирование">Калибровка и профилирование</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="color.html.ru" title="Управление цветом">Управление цветом</a> › <a class="trail" href="color.html.ru#calibration" title="Калибровка и профилирование">Калибровка и профилирование</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="color.html" title="Управление цветом">Управление цветом</a> › <a class="trail" href="color.html#calibration" title="Калибровка и профилирование">Калибровка и профилирование</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="color.html.ru" title="Управление цветом">Управление цветом</a> › <a class="trail" href="color.html.ru#calibration" title="Калибровка и профилирование">Калибровка и профилирование</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Удостоверьтесь, что сканер подключён к компьютеру по кабелю или по сети.</p></li>
 <li class="steps"><p class="p">Отсканируйте калибровочную мишень и сохраните её в виде несжатого файла формата TIFF. </p></li>
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Color</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Цвет</span>, чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Создать</span> для начала калибровки.</p></li>
@@ -69,22 +69,22 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Калибровка и профилирование">Калибровка и профилирование</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.ru#calibration" title="Калибровка и профилирование">Калибровка и профилирование</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html" title="Как откалибровать камеру?">Как откалибровать камеру?</a><span class="desc"> — Калибровка камеры важна для точной передачи цветов на снимке.</span>
+<a href="color-calibrate-camera.html.ru" title="Как откалибровать камеру?">Как откалибровать камеру?</a><span class="desc"> — Калибровка камеры важна для точной передачи цветов на снимке.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-screen.html" title="Как откалибровать монитор?">Как откалибровать монитор?</a><span class="desc"> — Калибровка дисплея важна для точного отображения цветов.</span>
+<a href="color-calibrate-screen.html.ru" title="Как откалибровать монитор?">Как откалибровать монитор?</a><span class="desc"> — Калибровка дисплея важна для точного отображения цветов.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html" title="Как откалибровать принтер?">Как откалибровать принтер?</a><span class="desc"> — Калибровка принтера важна для точной передачи цветов при печати.</span>
+<a href="color-calibrate-printer.html.ru" title="Как откалибровать принтер?">Как откалибровать принтер?</a><span class="desc"> — Калибровка принтера важна для точной передачи цветов при печати.</span>
 </li>
 <li class="links ">
-<a href="color-calibrationtargets.html" title="Какие типы мишеней поддерживаются?">Какие типы мишеней поддерживаются?</a><span class="desc"> — Для создания профилей фотокамер и сканеров необходимы калибровочные мишени.</span>
+<a href="color-calibrationtargets.html.ru" title="Какие типы мишеней поддерживаются?">Какие типы мишеней поддерживаются?</a><span class="desc"> — Для создания профилей фотокамер и сканеров необходимы калибровочные мишени.</span>
 </li>
 </ul></div>
 </div></div>

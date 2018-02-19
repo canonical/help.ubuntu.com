@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Γενική πρόσβαση">Γενική πρόσβαση</a> › <a class="trail" href="a11y.html#mobility" title="Κινητικά προβλήματα">Κινητικά προβλήματα</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.el" title="Γενική πρόσβαση">Γενική πρόσβαση</a> › <a class="trail" href="a11y.html.el#mobility" title="Κινητικά προβλήματα">Κινητικά προβλήματα</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="keyboard.html" title="Πληκτρολόγιο">Πληκτρολόγιο</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="keyboard.html.el" title="Πληκτρολόγιο">Πληκτρολόγιο</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="keyboard.html" title="Πληκτρολόγιο">Πληκτρολόγιο</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="keyboard.html.el" title="Πληκτρολόγιο">Πληκτρολόγιο</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">Ενεργοποιήστε τα <span class="em">Αργά πλήκτρα</span> εάν θα θέλατε να υπάρχει μια καθυστέρηση μεταξύ πατήματος ενός πλήκτρου και εμφάνισης αυτού του γράμματος στην οθόνη. Αυτό σημαίνει ότι πρέπει να κρατάτε πατημένο  για λίγο, κάθε επιθυμητό πλήκτρο που θέλετε να πληκτρολογήσετε πριν εμφανιστεί. Χρησιμοποιήστε τα αργά πλήκτρα εάν πατάτε τυχαία πολλά πλήκτρα τη φορά όταν πληκτρολογείτε, ή εάν δυσκολεύεστε να πατήσετε το σωστό πλήκτρο στο πληκτρολόγιο με τη μία.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Γενική πρόσβαση</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Γενική πρόσβαση</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Γενική πρόσβαση</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Πατήστε <span class="gui">Βοήθεια πληκτρολόγησης (AccessX)</span> στην ενότητα <span class="gui">Πληκτρολόγηση</span>.</p></li>
 <li class="steps"><p class="p">Αλλάξτε τα <span class="gui">Αργά πλήκτρα</span> σε <span class="gui">ΝΑΙ</span>.</p></li>
@@ -66,7 +66,7 @@
 <div class="title title-note"><h2><span class="title">Ενεργοποιήστε και απενεργοποιήστε γρήγορα τα αργά πλήκτρα</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Στο <span class="gui">Ενεργοποίηση με το πληκτρολόγιο</span>, επιλέξτε <span class="gui">Ενεργοποίηση λειτουργιών προσιτότητας από το πληκτρολόγιο</span> για ενεργοποίηση ή απενεργοποίηση των αργών πλήκτρων από το πληκτρολόγιο. Όταν επιλεχθεί αυτή η επιλογή, μπορείτε να πατήσετε και να κρατήσετε πατημένο το <span class="key"><kbd>Shift</kbd></span> για οκτώ δευτερόλεπτα για να ενεργοποιήσετε ή να απενεργοποιήσετε τα αργά πλήκτρα.</p>
-<p class="p">Μπορείτε επίσης να ενεργοποιήσετε ή να απενεργοποιήσετε τα αργά πλήκτρα κάνοντας κλικ στο <span class="link"><a href="a11y-icon.html" title="Βρείτε το μενού γενικής πρόσβασης">εικονίδιο προσιτότητας</a></span> στην πάνω γραμμή και να επιλέξετε <span class="gui">αργά πλήκτρα</span>. Το εικονίδιο πρόσβασης είναι ορατό όταν μία ή περισσότερες ρυθμίσεις έχουν ενεργοποιηθεί από τον πίνακα <span class="gui">Γενική πρόσβαση</span>.</p>
+<p class="p">Μπορείτε επίσης να ενεργοποιήσετε ή να απενεργοποιήσετε τα αργά πλήκτρα κάνοντας κλικ στο <span class="link"><a href="a11y-icon.html.el" title="Βρείτε το μενού γενικής πρόσβασης">εικονίδιο προσιτότητας</a></span> στην πάνω γραμμή και να επιλέξετε <span class="gui">αργά πλήκτρα</span>. Το εικονίδιο πρόσβασης είναι ορατό όταν μία ή περισσότερες ρυθμίσεις έχουν ενεργοποιηθεί από τον πίνακα <span class="gui">Γενική πρόσβαση</span>.</p>
 </div></div>
 </div></div>
 <p class="p">Χρησιμοποιήστε τον ολισθητή <span class="gui">αποδοχή καθυστέρησης</span> για να ελέγξετε πόσο πρέπει να πατάτε ένα πλήκτρο για να καταχωριστεί.</p>
@@ -79,9 +79,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Κινητικά προβλήματα">Κινητικά προβλήματα</a></li>
+<li class="links "><a href="a11y.html.el#mobility" title="Κινητικά προβλήματα">Κινητικά προβλήματα</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Πληκτρολόγιο">Πληκτρολόγιο</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Διατάξεις πληκτρολογίου</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Κάντε τον δρομέα πληκτρολογίου να αναβοσβήνει">αναβόσβησμα δρομέα</a></span>, <span class="link"><a href="a11y.html#mobility" title="Κινητικά προβλήματα">προσιτότητα πληκτρολογίου</a></span>…</span>
+<a href="keyboard.html.el" title="Πληκτρολόγιο">Πληκτρολόγιο</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.el" title="Use alternative keyboard layouts">Διατάξεις πληκτρολογίου</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.el" title="Κάντε τον δρομέα πληκτρολογίου να αναβοσβήνει">αναβόσβησμα δρομέα</a></span>, <span class="link"><a href="a11y.html.el#mobility" title="Κινητικά προβλήματα">προσιτότητα πληκτρολογίου</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

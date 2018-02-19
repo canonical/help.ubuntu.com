@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="prefs-sharing.html" title="Preferencias de compartición">Preferencias de compartición</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="prefs-sharing.html.gl-GL" title="Preferencias de compartición">Preferencias de compartición</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Set the display name for your computer</span></h1></div>
@@ -54,7 +54,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Change the display name of your computer:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Sharing</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Sharing</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Edit the text below <span class="gui">Computer Name</span> to change the name your
@@ -67,11 +67,11 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-sharing.html" title="Preferencias de compartición">Preferencias de compartición</a><span class="desc"> — 
-      <span class="link"><a href="sharing-bluetooth.html" title="Controlar a compartición por Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html" title="Share your personal files">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html" title="Compartir o meu escritorio remoto">Screen sharing</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Comparta a súa música, fotos e vídeos">Media sharing</a></span>…
+<a href="prefs-sharing.html.gl-GL" title="Preferencias de compartición">Preferencias de compartición</a><span class="desc"> — 
+      <span class="link"><a href="sharing-bluetooth.html.gl-GL" title="Controlar a compartición por Bluetooth">Bluetooth sharing</a></span>,
+      <span class="link"><a href="sharing-personal.html.gl-GL" title="Share your personal files">Personal file sharing</a></span>,
+      <span class="link"><a href="sharing-desktop.html.gl-GL" title="Compartir o meu escritorio remoto">Screen sharing</a></span>,
+      <span class="link"><a href="sharing-media.html.gl-GL" title="Comparta a súa música, fotos e vídeos">Media sharing</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

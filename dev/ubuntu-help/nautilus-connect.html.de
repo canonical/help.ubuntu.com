@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="sharing.html" title="Freigabe">Freigabe</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="sharing.html.de" title="Freigabe">Freigabe</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.de" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html.de#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -134,15 +134,15 @@
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Freigabe">Freigabe</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Ihre Arbeitsumgebung freigeben">Bildschirmfreigabe</a></span>, <span class="link"><a href="files-share.html" title="Dateien via E-Mail teilen">Share files by email</a></span>, <span class="link"><a href="sharing-media.html" title="Ihre Musik, Fotos und Videos freigeben">Media sharing</a></span> …</span>
+<a href="sharing.html.de" title="Freigabe">Freigabe</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.de" title="Ihre Arbeitsumgebung freigeben">Bildschirmfreigabe</a></span>, <span class="link"><a href="files-share.html.de" title="Dateien via E-Mail teilen">Share files by email</a></span>, <span class="link"><a href="sharing-media.html.de" title="Ihre Musik, Fotos und Videos freigeben">Media sharing</a></span> …</span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a></li>
+<li class="links "><a href="files.html.de#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="Dateien via E-Mail teilen">Dateien via E-Mail teilen</a><span class="desc"> — Übertragen Sie einfach Dateien zu Ihren E-Mail-Kontakten aus der Dateiverwaltung heraus.</span>
+<a href="files-share.html.de" title="Dateien via E-Mail teilen">Dateien via E-Mail teilen</a><span class="desc"> — Übertragen Sie einfach Dateien zu Ihren E-Mail-Kontakten aus der Dateiverwaltung heraus.</span>
 </li></ul></div>
 </div></div>
 </div>

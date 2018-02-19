@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html#faq" title="Astuces et questions">Astuces et questions</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html.fr" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html.fr#faq" title="Astuces et questions">Astuces et questions</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Quel est ce fichier avec un <span class="file">~</span> à la fin de son nom ?</span></h1></div>
@@ -56,19 +56,19 @@
   of the <span class="app">Files</span> toolbar) or pressed
   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. You can hide them again by
   repeating either of these steps.</p>
-<p class="p">Ces fichiers sont gérés exactement de la même manière que ceux qui sont visibles. Consultez <span class="link"><a href="files-hidden.html" title="Masquage d'un fichier">Masquage d'un fichier</a></span> pour savoir comment manipuler les fichiers cachés.</p>
+<p class="p">Ces fichiers sont gérés exactement de la même manière que ceux qui sont visibles. Consultez <span class="link"><a href="files-hidden.html.fr" title="Masquage d'un fichier">Masquage d'un fichier</a></span> pour savoir comment manipuler les fichiers cachés.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Astuces et questions">Astuces et questions</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.fr#faq" title="Astuces et questions">Astuces et questions</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-hidden.html" title="Masquage d'un fichier">Masquage d'un fichier</a><span class="desc"> — Masquer un fichier pour le rendre invisible dans le gestionnaire de fichiers.</span>
+<a href="files-hidden.html.fr" title="Masquage d'un fichier">Masquage d'un fichier</a><span class="desc"> — Masquer un fichier pour le rendre invisible dans le gestionnaire de fichiers.</span>
 </li></ul></div>
 </div></div>
 </div>

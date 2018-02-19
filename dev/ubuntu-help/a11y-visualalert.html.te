@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="సార్వత్రిక ప్రాప్యత">సార్వత్రిక ప్రాప్యత</a> › <a class="trail" href="a11y.html#sound" title="వినికిడి లోపం">వినికిడి లోపం</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.te" title="సార్వత్రిక ప్రాప్యత">సార్వత్రిక ప్రాప్యత</a> › <a class="trail" href="a11y.html.te#sound" title="వినికిడి లోపం">వినికిడి లోపం</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ఎలర్ట్ శబ్ధముల కొరకు తెరను ఫ్లాష్ చేయి</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">కొన్ని రకాల సందేశాలు మరియు ఘటనల కొరకు మీ కంప్యూటర్ సాధారణ ఎలర్ట్ శబ్ధం మ్రోగించును. ఈ శబ్ధాలను మీరు వినలేక పోతే, శబ్ధం మ్రోగినప్పుడు మీరు మొత్తం తెరనందు లేదా ప్రస్తుత విండోనందు విజువల్ ఫ్లాగ్ పొందవచ్చు.</p>
 <p class="p">This can also be useful if you’re in an environment where you need your
-  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="Choose or disable the alert sound">Choose or disable the alert sound</a></span>
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html.te" title="Choose or disable the alert sound">Choose or disable the alert sound</a></span>
   to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.te#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Visual Alerts</span> in the <span class="gui">Hearing</span> section.</p></li>
@@ -62,19 +62,19 @@
 <li class="steps"><p class="p"> Select whether you want the entire screen or just your current window
       title to flash.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="చిట్కా"><div class="inner"><div class="region"><div class="contents"><p class="p">పై పట్టీ నందలి <span class="gui">విజువల్ ఎలర్ట్స్</span> ఎంపికచేసి <span class="link"><a href="a11y-icon.html" title="సార్వత్రిక సౌలభ్యత మెనును కనుగొనండి">ఏక్సెసబిలిటి ప్రతిమ</a></span> పై నొక్కి మీరు త్వరగా విజువల్ ఎలర్ట్స్ ఆన్ మరియు ఆఫ్ చేయవచ్చు.</p></div></div></div></div>
+<div class="note note-tip" title="చిట్కా"><div class="inner"><div class="region"><div class="contents"><p class="p">పై పట్టీ నందలి <span class="gui">విజువల్ ఎలర్ట్స్</span> ఎంపికచేసి <span class="link"><a href="a11y-icon.html.te" title="సార్వత్రిక సౌలభ్యత మెనును కనుగొనండి">ఏక్సెసబిలిటి ప్రతిమ</a></span> పై నొక్కి మీరు త్వరగా విజువల్ ఎలర్ట్స్ ఆన్ మరియు ఆఫ్ చేయవచ్చు.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#sound" title="వినికిడి లోపం">వినికిడి లోపం</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.te#sound" title="వినికిడి లోపం">వినికిడి లోపం</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ఇవి కూడా చూడండి</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-alert.html" title="Choose or disable the alert sound">Choose or disable the alert sound</a><span class="desc"> — Choose the sound to play for messages, set the alert volume, or
+<a href="sound-alert.html.te" title="Choose or disable the alert sound">Choose or disable the alert sound</a><span class="desc"> — Choose the sound to play for messages, set the alert volume, or
     disable alert sounds.</span>
 </li></ul></div>
 </div></div>

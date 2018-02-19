@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Ambiente grafico</a> › <a class="trail" href="shell-overview.html#apps" title="Applicazioni e finestre">Applicazioni e finestre</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.it" title="Your desktop">Ambiente grafico</a> › <a class="trail" href="shell-overview.html.it#apps" title="Applicazioni e finestre">Applicazioni e finestre</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Ambiente grafico</a> › <a class="trail" href="shell-overview.html#apps" title="Applicazioni e finestre">Applicazioni e finestre</a> » <a class="trail" href="shell-windows.html" title="Finestre e spazi di lavoro">Finestre e spazi di lavoro</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Lavorare con le finestre">Finestre</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.it" title="Your desktop">Ambiente grafico</a> › <a class="trail" href="shell-overview.html.it#apps" title="Applicazioni e finestre">Applicazioni e finestre</a> » <a class="trail" href="shell-windows.html.it" title="Finestre e spazi di lavoro">Finestre e spazi di lavoro</a> › <a class="trail" href="shell-windows.html.it#working-with-windows" title="Lavorare con le finestre">Finestre</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,25 +60,25 @@
 <p class="p">Da uno spazio di lavoro:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Press
-      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
+      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.it" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
       to bring up the <span class="gui">window switcher</span>.</p></li>
-<li class="steps"><p class="p">Release <span class="key"><a href="keyboard-key-super.html" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span> to select the next
+<li class="steps"><p class="p">Release <span class="key"><a href="keyboard-key-super.html.it" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span> to select the next
       (highlighted) window in the switcher.</p></li>
-<li class="steps"><p class="p">Otherwise, still holding down the <span class="key"><a href="keyboard-key-super.html" title="Cos'è il tasto Super?"><kbd>
+<li class="steps"><p class="p">Otherwise, still holding down the <span class="key"><a href="keyboard-key-super.html.it" title="Cos'è il tasto Super?"><kbd>
       Super</kbd></a></span> key, press <span class="key"><kbd>Tab</kbd></span> to cycle through the list of open
       windows, or <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to cycle
       backwards.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Suggerimento"><div class="inner"><div class="region"><div class="contents"><p class="p">Windows in the window switcher are grouped by application. Previews of
     applications with multiple windows pop down as you click through. Hold down
-    <span class="key"><a href="keyboard-key-super.html" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span> and press <span class="key"><kbd>`</kbd></span> (or the
+    <span class="key"><a href="keyboard-key-super.html.it" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span> and press <span class="key"><kbd>`</kbd></span> (or the
     key above <span class="key"><kbd>Tab</kbd></span>) to step through the list.</p></div></div></div></div>
 <p class="p">È anche possibile usare i tasti <span class="key"><kbd>→</kbd></span> e <span class="key"><kbd>←</kbd></span> per spostarsi tra le icone delle applicazioni nel selettore, oppure attivarne una facendo clic sulla sua icona con il mouse.</p>
 <p class="p">Le anteprime delle applicazioni con una singola finestra possono essere mostrate con il tasto <span class="key"><kbd>↓</kbd></span>.</p>
 <p class="p">From the <span class="gui">Activities</span> overview, click on a
-  <span class="link"><a href="shell-windows.html" title="Finestre e spazi di lavoro">window</a></span> to switch to it and leave the
+  <span class="link"><a href="shell-windows.html.it" title="Finestre e spazi di lavoro">window</a></span> to switch to it and leave the
   overview. If you have multiple
-  <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Lavorare con gli spazi di lavoro">workspaces</a></span> open,
+  <span class="link"><a href="shell-windows.html.it#working-with-workspaces" title="Lavorare con gli spazi di lavoro">workspaces</a></span> open,
   you can click on each workspace to view the open windows on each
   workspace.</p>
 </div>
@@ -88,15 +88,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-overview.html#apps" title="Applicazioni e finestre">Applicazioni e finestre</a></li>
-<li class="links "><a href="shell-windows.html#working-with-windows" title="Lavorare con le finestre">Lavorare con le finestre</a></li>
+<li class="links "><a href="shell-overview.html.it#apps" title="Applicazioni e finestre">Applicazioni e finestre</a></li>
+<li class="links "><a href="shell-windows.html.it#working-with-windows" title="Lavorare con le finestre">Lavorare con le finestre</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-switch-tasks.html" title="Cambiare attività">A tutorial on switching tasks</a></li>
-<li class="links "><a href="gs-use-windows-workspaces.html" title="Usare finestre e spazi di lavoro">A tutorial on using windows and workspaces</a></li>
+<li class="links "><a href="gs-switch-tasks.html.it" title="Cambiare attività">A tutorial on switching tasks</a></li>
+<li class="links "><a href="gs-use-windows-workspaces.html.it" title="Usare finestre e spazi di lavoro">A tutorial on using windows and workspaces</a></li>
 </ul></div>
 </div></div>
 </div>

@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html#common-file-tasks" title="Häufige Aufgaben">Häufige Aufgaben</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.de" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html.de#common-file-tasks" title="Häufige Aufgaben">Häufige Aufgaben</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Dateien und Ordner löschen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Falls Sie eine Datei oder einen Ordner nicht mehr benötigen, dann löschen Sie diesen. Wenn Sie ein Objekt löschen wird es in den <span class="gui">Papierkorb</span>-Ordner verschoben, wo es verbleibt, bis Sie den Papierkorb leeren. Im <span class="gui">Papierkorb</span>-Ordner befindliche Objekte können an ihrem ursprünglichen Ort <span class="link"><a href="files-recover.html" title="Eine Datei aus dem Papierkorb wiederherstellen">wiederhergestellt werden</a></span>, falls Sie diese doch noch brauchen oder wenn sie versehentlich gelöscht wurden.</p>
+<p class="p">Falls Sie eine Datei oder einen Ordner nicht mehr benötigen, dann löschen Sie diesen. Wenn Sie ein Objekt löschen wird es in den <span class="gui">Papierkorb</span>-Ordner verschoben, wo es verbleibt, bis Sie den Papierkorb leeren. Im <span class="gui">Papierkorb</span>-Ordner befindliche Objekte können an ihrem ursprünglichen Ort <span class="link"><a href="files-recover.html.de" title="Eine Datei aus dem Papierkorb wiederherstellen">wiederhergestellt werden</a></span>, falls Sie diese doch noch brauchen oder wenn sie versehentlich gelöscht wurden.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">So verschieben Sie eine Datei in den Papierkorb:</span></h2></div>
 <div class="region"><ol class="steps">
@@ -72,7 +72,7 @@
 <li class="steps"><p class="p">Da Sie dies nicht rückgängig machen können, werden Sie um Bestätigung gebeten, dass die Datei oder der Ordner gelöscht werden soll.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Gelöschte Dateien auf einem <span class="link"><a href="files.html#removable" title="Wechsellaufwerke und externe Platten">Wechseldatenträger</a></span> sind unter anderen Betriebssystemen, wie etwa Windows oder Mac OS, möglicherweise nicht sichtbar. Die Dateien sind aber immer noch da und verfügbar, wenn Sie das Gerät wieder an Ihren Rechner anschließen.</p></div></div></div></div>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Gelöschte Dateien auf einem <span class="link"><a href="files.html.de#removable" title="Wechsellaufwerke und externe Platten">Wechseldatenträger</a></span> sind unter anderen Betriebssystemen, wie etwa Windows oder Mac OS, möglicherweise nicht sichtbar. Die Dateien sind aber immer noch da und verfügbar, wenn Sie das Gerät wieder an Ihren Rechner anschließen.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -80,15 +80,15 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Häufige Aufgaben">Häufige Aufgaben</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.de#common-file-tasks" title="Häufige Aufgaben">Häufige Aufgaben</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-recover.html" title="Eine Datei aus dem Papierkorb wiederherstellen">Eine Datei aus dem Papierkorb wiederherstellen</a><span class="desc"> — Wenn Sie Dateien löschen, werden sie normalerweise in den Papierkorb verschoben, können aber aus dem Papierkorb wiederhergestellt werden.</span>
+<a href="files-recover.html.de" title="Eine Datei aus dem Papierkorb wiederherstellen">Eine Datei aus dem Papierkorb wiederherstellen</a><span class="desc"> — Wenn Sie Dateien löschen, werden sie normalerweise in den Papierkorb verschoben, können aber aus dem Papierkorb wiederhergestellt werden.</span>
 </li>
-<li class="links "><a href="nautilus-behavior.html#trash" title="Papierkorb">Einstellungen für den Papierkorb in der Dateiverwaltung</a></li>
+<li class="links "><a href="nautilus-behavior.html.de#trash" title="Papierkorb">Einstellungen für den Papierkorb in der Dateiverwaltung</a></li>
 </ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#faq" title="Συμβουλές και ερωτήσεις">Συμβουλές και ερωτήσεις</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#faq" title="Συμβουλές και ερωτήσεις">Συμβουλές και ερωτήσεις</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Τι είναι ένα αρχείο με μια <span class="file">~</span> στο τέλος του ονόματος του;</span></h1></div>
@@ -51,19 +51,19 @@
 <div class="contents">
 <p class="p">Αρχεία με ένα <span class="file">~</span> στο τέλος των ονομάτων τους (παραδείγματος χάρη, <span class="file">παράδειγμα.txt~</span>) είναι αυτόματα δημιουργημένα αντίγραφα των επεξεργασμένων εγγράφων στον επεξεργαστή κειμένου <span class="app">gedit</span> ή σε άλλες εφαρμογές. Είναι ασφαλές να τα διαγράψετε, αλλά δεν βλάπτει να τα αφήσετε στον υπολογιστή σας.</p>
 <p class="p">Αυτά τα αρχεία είναι κρυφά από προεπιλογή. Εάν τα βλέπετε, αυτό συμβαίνει είτε γιατί επιλέξατε <span class="gui">Εμφάνιση κρυφών αρχείων</span> (στις επιλογές προβολής της εργαλειοθήκης <span class="app">Αρχεία</span>) ή γιατί πατήσατε  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Μπορείτε να τα κρύψετε ξανά επαναλαμβάνοντας οποιοδήποτε από αυτά τα βήματα.</p>
-<p class="p">Αυτά τα αρχεία αντιμετωπίζονται με τον ίδιο τρόπο ως κανονικά κρυφά αρχεία. Για συμβουλές για το πως να διαχειριστείτε κρυφά αρχεία δείτε <span class="link"><a href="files-hidden.html" title="Απόκρυψη ενός αρχείου">Απόκρυψη ενός αρχείου</a></span>.</p>
+<p class="p">Αυτά τα αρχεία αντιμετωπίζονται με τον ίδιο τρόπο ως κανονικά κρυφά αρχεία. Για συμβουλές για το πως να διαχειριστείτε κρυφά αρχεία δείτε <span class="link"><a href="files-hidden.html.el" title="Απόκρυψη ενός αρχείου">Απόκρυψη ενός αρχείου</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Συμβουλές και ερωτήσεις">Συμβουλές και ερωτήσεις</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.el#faq" title="Συμβουλές και ερωτήσεις">Συμβουλές και ερωτήσεις</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-hidden.html" title="Απόκρυψη ενός αρχείου">Απόκρυψη ενός αρχείου</a><span class="desc"> — Κάντε ένα αρχείο κρυφό, έτσι ώστε να μην μπορείτε να το δείτε στον διαχειριστή αρχείων.</span>
+<a href="files-hidden.html.el" title="Απόκρυψη ενός αρχείου">Απόκρυψη ενός αρχείου</a><span class="desc"> — Κάντε ένα αρχείο κρυφό, έτσι ώστε να μην μπορείτε να το δείτε στον διαχειριστή αρχείων.</span>
 </li></ul></div>
 </div></div>
 </div>

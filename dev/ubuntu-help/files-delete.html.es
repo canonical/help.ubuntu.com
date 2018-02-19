@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#common-file-tasks" title="Tareas comunes">Tareas comunes</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#common-file-tasks" title="Tareas comunes">Tareas comunes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Eliminar archivos y carpetas</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Si ya no quiere un archivo o una carpeta, puede eliminarla. Cuando elimina un elemento, se mueve a la carpeta <span class="gui">Papelera</span>, donde se guarda hasta que la vacía. Puede <span class="link"><a href="files-recover.html" title="Recuperar un archivo de la papelera">restaurar elementos</a></span> de la <span class="gui">Papelera</span> a su ubicación original si decide que los necesita, o si los eliminó accidentalmente.</p>
+<p class="p">Si ya no quiere un archivo o una carpeta, puede eliminarla. Cuando elimina un elemento, se mueve a la carpeta <span class="gui">Papelera</span>, donde se guarda hasta que la vacía. Puede <span class="link"><a href="files-recover.html.es" title="Recuperar un archivo de la papelera">restaurar elementos</a></span> de la <span class="gui">Papelera</span> a su ubicación original si decide que los necesita, o si los eliminó accidentalmente.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Para enviar un archivo a la papelera:</span></h2></div>
 <div class="region"><ol class="steps">
@@ -72,7 +72,7 @@
 <li class="steps"><p class="p">Como no puede deshacer esta operación, se le preguntará que confirme si quiere eliminar el archivo o carpeta.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Los archivos eliminados en un <span class="link"><a href="files.html#removable" title="Dispositivos extraíbles y discos externos">dispositivo extraíble</a></span> puede no ser visibles en otros sistemas operativos, tales como Windows o Mac OS. Los archivos siguen ahí, y estarán disponibles cuando conecte el dispositivo de nuevo en su equipo.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Los archivos eliminados en un <span class="link"><a href="files.html.es#removable" title="Dispositivos extraíbles y discos externos">dispositivo extraíble</a></span> puede no ser visibles en otros sistemas operativos, tales como Windows o Mac OS. Los archivos siguen ahí, y estarán disponibles cuando conecte el dispositivo de nuevo en su equipo.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -80,14 +80,14 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Tareas comunes">Tareas comunes</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.es#common-file-tasks" title="Tareas comunes">Tareas comunes</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html#trash" title="Papelera">Preferencias de la papelera del gestor de archivos</a></li>
+<li class="links "><a href="nautilus-behavior.html.es#trash" title="Papelera">Preferencias de la papelera del gestor de archivos</a></li>
 <li class="links ">
-<a href="files-recover.html" title="Recuperar un archivo de la papelera">Recuperar un archivo de la papelera</a><span class="desc"> — Cuando elimina un archivo, normalmente se envía a la papelera, pero es posible recuperarlo.</span>
+<a href="files-recover.html.es" title="Recuperar un archivo de la papelera">Recuperar un archivo de la papelera</a><span class="desc"> — Cuando elimina un archivo, normalmente se envía a la papelera, pero es posible recuperarlo.</span>
 </li>
 </ul></div>
 </div></div>

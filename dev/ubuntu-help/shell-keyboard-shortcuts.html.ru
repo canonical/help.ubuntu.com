@@ -44,27 +44,27 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="keyboard.html" title="Клавиатура">Клавиатура</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="keyboard.html.ru" title="Клавиатура">Клавиатура</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="keyboard.html" title="Клавиатура">Клавиатура</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="keyboard.html.ru" title="Клавиатура">Клавиатура</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Полезные советы">Полезные советы</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.ru" title="Полезные советы">Полезные советы</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html#apps" title="Приложения и окна">Приложения и окна</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ru" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html.ru#apps" title="Приложения и окна">Приложения и окна</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Полезные комбинации клавиш</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">На этой странице приведён обзор комбинаций клавиш, которые помогут вам более эффективно использовать рабочий стол и приложения. Если у вас нет возможности использовать мышь или иное указующее устройство, обратитесь к разделу «<span class="link"><a href="keyboard-nav.html" title="Управление с помощью клавиатуры">Управление с помощью клавиатуры</a></span>» для получения дополнительной информации о том, как использовать пользовательский интерфейс только при помощи клавиатуры.</p>
+<p class="p">На этой странице приведён обзор комбинаций клавиш, которые помогут вам более эффективно использовать рабочий стол и приложения. Если у вас нет возможности использовать мышь или иное указующее устройство, обратитесь к разделу «<span class="link"><a href="keyboard-nav.html.ru" title="Управление с помощью клавиатуры">Управление с помощью клавиатуры</a></span>» для получения дополнительной информации о том, как использовать пользовательский интерфейс только при помощи клавиатуры.</p>
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="true"></div>
 <div class="inner">
 <div class="title title-table"><h2><span class="title">Управление рабочим столом</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> или клавиша <span class="key"><a href="keyboard-key-super.html" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span> key</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> или клавиша <span class="key"><a href="keyboard-key-super.html.ru" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span> key</p></td>
 <td><p class="p">Переключение между <span class="gui">Обзором</span> и рабочим столом. Чтобы быстро найти нужное приложение, контакт или документ, просто начните вводить его имя в <span class="gui">Обзоре</span>.</p></td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Переключение между окнами">Быстрое переключение между окнами.</a></span> Удерживайте клавишу <span class="key"><kbd>Shift</kbd></span> для переключения в обратном порядке.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.ru" title="Переключение между окнами">Быстрое переключение между окнами.</a></span> Удерживайте клавишу <span class="key"><kbd>Shift</kbd></span> для переключения в обратном порядке.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
@@ -97,11 +97,11 @@
       <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> or
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span>
     </p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Переключение между рабочими местами">Переключение между рабочими местами</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.ru" title="Переключение между рабочими местами">Переключение между рабочими местами</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> и <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Перемещение окна на другое рабочее место">Перемещение текущего окна на другое рабочее место</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.ru" title="Перемещение окна на другое рабочее место">Перемещение текущего окна на другое рабочее место</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
@@ -113,15 +113,15 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html" title="Завершение сеанса, выключение компьютера или переключение пользователей">Выключение</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.ru" title="Завершение сеанса, выключение компьютера или переключение пользователей">Выключение</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html#lock-screen" title="Блокирование экрана">Блокировка экрана.</a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.ru#lock-screen" title="Блокирование экрана">Блокировка экрана.</a></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Откройте <span class="link"><a href="shell-notifications.html#messagingtray" title="shell-notifications#messagingtray">панель сообщений</a></span>. Чтобы закрыть панель, нажмите ещё раз <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> или <span class="key"><kbd>Esc</kbd></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p">Откройте <span class="link"><a href="shell-notifications.html.ru#messagingtray" title="shell-notifications#messagingtray">панель сообщений</a></span>. Чтобы закрыть панель, нажмите ещё раз <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> или <span class="key"><kbd>Esc</kbd></span>.</p></td>
 </tr>
 </table></div>
 </div>
@@ -161,19 +161,19 @@
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p"><span class="key"><kbd>Prnt Scrn</kbd></span></p></td>
-<td><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Сделать снимок экрана">Создание снимка экрана.</a></span></p></td>
+<td><p class="p"><span class="link"><a href="screen-shot-record.html.ru#screenshot" title="Сделать снимок экрана">Создание снимка экрана.</a></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Prnt Scrn</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Сделать снимок экрана">Создание снимка окна.</a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.ru#screenshot" title="Сделать снимок экрана">Создание снимка окна.</a></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Prnt Scrn</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Сделать снимок экрана">Создание снимка области на экране.</a></span> Курсор сменит вид на перекрестие. Нажмите и тащите, чтобы выделить область.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.ru#screenshot" title="Сделать снимок экрана">Создание снимка области на экране.</a></span> Курсор сменит вид на перекрестие. Нажмите и тащите, чтобы выделить область.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screencast" title="Создание скринкаста">Запуск и остановка записи происходящего на экране.</a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.ru#screencast" title="Создание скринкаста">Запуск и остановка записи происходящего на экране.</a></span></p></td>
 </tr>
 </table></div>
 </div>
@@ -186,28 +186,28 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
+<a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ru" title="Использование альтернативных раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ru" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html.ru#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
 </li>
 <li class="links ">
-<a href="tips.html" title="Полезные советы">Полезные советы</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Ввод специальных символов">Специальные символы</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Нажатие средней кнопки мыши">использование средней кнопки мыши</a></span>…</span>
+<a href="tips.html.ru" title="Полезные советы">Полезные советы</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.ru" title="Ввод специальных символов">Специальные символы</a></span>, <span class="link"><a href="mouse-middleclick.html.ru" title="Нажатие средней кнопки мыши">использование средней кнопки мыши</a></span>…</span>
 </li>
-<li class="links "><a href="shell-overview.html#apps" title="Приложения и окна">Приложения и окна</a></li>
+<li class="links "><a href="shell-overview.html.ru#apps" title="Приложения и окна">Приложения и окна</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Настройка комбинаций клавиш">Настройка комбинаций клавиш</a><span class="desc"> — Создание или изменение комбинаций клавиш в параметрах клавиатуры.</span>
+<a href="keyboard-shortcuts-set.html.ru" title="Настройка комбинаций клавиш">Настройка комбинаций клавиш</a><span class="desc"> — Создание или изменение комбинаций клавиш в параметрах клавиатуры.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html" title="Управление с помощью клавиатуры">Управление с помощью клавиатуры</a><span class="desc"> — Работа с приложениями и рабочим столом без мыши.</span>
+<a href="keyboard-nav.html.ru" title="Управление с помощью клавиатуры">Управление с помощью клавиатуры</a><span class="desc"> — Работа с приложениями и рабочим столом без мыши.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html" title="Что такое клавиша Super?">Что такое клавиша <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — Клавиша <span class="key"><kbd>Super</kbd></span> открывает режим <span class="gui">Обзора</span>. На клавиатуре она обычно находится рядом с клавишей <span class="key"><kbd>Alt</kbd></span>.</span>
+<a href="keyboard-key-super.html.ru" title="Что такое клавиша Super?">Что такое клавиша <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — Клавиша <span class="key"><kbd>Super</kbd></span> открывает режим <span class="gui">Обзора</span>. На клавиатуре она обычно находится рядом с клавишей <span class="key"><kbd>Alt</kbd></span>.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-menu.html" title="Что такое клавиша Меню?">Что такое клавиша <span class="key"><kbd>Меню</kbd></span>?</a><span class="desc"> — Клавиша <span class="key"><kbd>Меню</kbd></span> открывает контекстное меню, используется вместо нажатия правой кнопки мыши.</span>
+<a href="keyboard-key-menu.html.ru" title="Что такое клавиша Меню?">Что такое клавиша <span class="key"><kbd>Меню</kbd></span>?</a><span class="desc"> — Клавиша <span class="key"><kbd>Меню</kbd></span> открывает контекстное меню, используется вместо нажатия правой кнопки мыши.</span>
 </li>
 </ul></div>
 </div></div>

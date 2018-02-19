@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comunes">Problemas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html.es#problems" title="Problemas comunes">Problemas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problemas de la pantalla</span></h1></div>
@@ -51,20 +51,20 @@
 <div class="contents">
 <p class="p">La mayoría de los problemas con la pantalla se deben a controladores de gráficos que no están funcionando correctamente o al uso de una configuración errónea. ¿Cuál de los siguientes temas describe mejor el problema que tiene?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html" title="Establecer el brillo de la pantalla"><span class="title">Establecer el brillo de la pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar el brillo de la pantalla para hacerla más legible en condiciones de mucha luz ambiental.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Establecer el tiempo de apagado de la pantalla"><span class="title">Establecer el tiempo de apagado de la pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar el tiempo de apagado de la pantalla para ahorrar energía.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="La pantalla se bloquea demasiado deprisa"><span class="title">La pantalla se bloquea demasiado deprisa</span><span class="linkdiv-dash"> — </span><span class="desc">Cambie el tiempo de espera antes de que se bloquee la pantalla en la configuración de <span class="gui">Privacidad</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?"><span class="title">¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?</span><span class="linkdiv-dash"> — </span><span class="desc">Algunos componentes hardware del equipo dan problemas al suspender.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="¿Por qué mi pantalla se oscurece después de un tiempo?"><span class="title">¿Por qué mi pantalla se oscurece después de un tiempo?</span><span class="linkdiv-dash"> — </span><span class="desc">La pantalla se oscurecerá cuando el equipo esté inactivo para ahorrar energía.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html" title="¿Por qué parece que lo que hay en mi pantalla está difuso o pixelado?"><span class="title">¿Por qué parece que lo que hay en mi pantalla está difuso o pixelado?</span><span class="linkdiv-dash"> — </span><span class="desc">La resolución de la pantalla puede estar incorrectamente ajustada.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="Mi equipo no se enciende"><span class="title">Mi equipo no se enciende</span><span class="linkdiv-dash"> — </span><span class="desc">Los cables sueltos y los problemas de hardware son las posibles razones.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.es" title="Establecer el brillo de la pantalla"><span class="title">Establecer el brillo de la pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar el brillo de la pantalla para hacerla más legible en condiciones de mucha luz ambiental.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.es" title="Establecer el tiempo de apagado de la pantalla"><span class="title">Establecer el tiempo de apagado de la pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar el tiempo de apagado de la pantalla para ahorrar energía.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.es" title="La pantalla se bloquea demasiado deprisa"><span class="title">La pantalla se bloquea demasiado deprisa</span><span class="linkdiv-dash"> — </span><span class="desc">Cambie el tiempo de espera antes de que se bloquee la pantalla en la configuración de <span class="gui">Privacidad</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.es" title="¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?"><span class="title">¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?</span><span class="linkdiv-dash"> — </span><span class="desc">Algunos componentes hardware del equipo dan problemas al suspender.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.es" title="¿Por qué mi pantalla se oscurece después de un tiempo?"><span class="title">¿Por qué mi pantalla se oscurece después de un tiempo?</span><span class="linkdiv-dash"> — </span><span class="desc">La pantalla se oscurecerá cuando el equipo esté inactivo para ahorrar energía.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.es" title="¿Por qué parece que lo que hay en mi pantalla está difuso o pixelado?"><span class="title">¿Por qué parece que lo que hay en mi pantalla está difuso o pixelado?</span><span class="linkdiv-dash"> — </span><span class="desc">La resolución de la pantalla puede estar incorrectamente ajustada.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.es" title="Mi equipo no se enciende"><span class="title">Mi equipo no se enciende</span><span class="linkdiv-dash"> — </span><span class="desc">Los cables sueltos y los problemas de hardware son las posibles razones.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Problemas comunes">Problemas de hardware</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.es#problems" title="Problemas comunes">Problemas de hardware</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

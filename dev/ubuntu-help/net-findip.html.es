@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-general.html" title="Términos y consejos sobre redes">Términos y consejos sobre redes</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-general.html.es" title="Términos y consejos sobre redes">Términos y consejos sobre redes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Buscar su dirección IP</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Buscar su dirección IP interna (de red)</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Red</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Red</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Red</span> para abrir el panel.</p></li>
 <li class="steps">
 <p class="p">Elija la conexión <span class="gui">Inalámbrica</span> o <span class="gui">Cableada</span> en el panel de la izquierda.</p>
@@ -77,17 +77,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Términos y consejos sobre redes">Términos y consejos sobre redes</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Buscar su dirección IP">Saber su dirección IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="¿Qué significan WEP y WPA?">seguridad WEP y WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="¿Qué es una dirección MAC?">dirección MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Definir la configuración del proxy">proxies</a></span>…</span>
+<a href="net-general.html.es" title="Términos y consejos sobre redes">Términos y consejos sobre redes</a><span class="desc"> — <span class="link"><a href="net-findip.html.es" title="Buscar su dirección IP">Saber su dirección IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.es" title="¿Qué significan WEP y WPA?">seguridad WEP y WPA</a></span>, <span class="link"><a href="net-macaddress.html.es" title="¿Qué es una dirección MAC?">dirección MAC</a></span>, <span class="link"><a href="net-proxy.html.es" title="Definir la configuración del proxy">proxies</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-fixed-ip-address.html" title="Crear una conexión con una dirección IP fija">Crear una conexión con una dirección IP fija</a><span class="desc"> — Usar una dirección IP estática facilita el proporcionar algunos servicios de red desde su equipo.</span>
+<a href="net-fixed-ip-address.html.es" title="Crear una conexión con una dirección IP fija">Crear una conexión con una dirección IP fija</a><span class="desc"> — Usar una dirección IP estática facilita el proporcionar algunos servicios de red desde su equipo.</span>
 </li>
 <li class="links ">
-<a href="net-what-is-ip-address.html" title="¿Qué es una dirección IP?">¿Qué es una dirección IP?</a><span class="desc"> — Una dirección IP es como un número de teléfono para su equipo.</span>
+<a href="net-what-is-ip-address.html.es" title="¿Qué es una dirección IP?">¿Qué es una dirección IP?</a><span class="desc"> — Una dirección IP es como un número de teléfono para su equipo.</span>
 </li>
 </ul></div>
 </div></div>

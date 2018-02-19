@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="mouse.html" title="マウス">マウス</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="mouse.html.ja" title="マウス">マウス</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="mouse.html" title="マウス">マウス</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ja" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="mouse.html.ja" title="マウス">マウス</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="ユニバーサルアクセス">ユニバーサルアクセス</a> › <a class="trail" href="a11y.html#mobility" title="運動障害">運動障害</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ja" title="ユニバーサルアクセス">ユニバーサルアクセス</a> › <a class="trail" href="a11y.html.ja#mobility" title="運動障害">運動障害</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,13 +58,13 @@
 <p class="p">マウスやその他のポインティングデバイスを使うのが困難な場合は、キーボードのテンキーパッドを使ってマウスポインターを操作できます。この機能は<span class="em">マウスキー</span>と呼ばれています。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p>
 <p class="p">You can access the <span class="gui">Activities</span> overview by pressing on it,
       by moving your mouse pointer against the top-left corner of the screen,
       using <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>
       followed by <span class="key"><kbd>Enter</kbd></span> or using
-      <span class="key"><a href="keyboard-key-super.html" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span>.</p>
+      <span class="key"><a href="keyboard-key-super.html.ja" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span>.</p>
 </li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Use the up and down arrow keys to select <span class="gui">Mouse Keys</span> in the
@@ -80,9 +80,9 @@
   keypads.</p>
 <p class="p">キーパッドの各数字は移動方向へ対応しています。たとえば、<span class="key"><kbd>8</kbd></span> キーを押すとポインターは上に移動し、<span class="key"><kbd>2</kbd></span> キーを押すと下に移動します。<span class="key"><kbd>5</kbd></span> キーでクリックができ、すばやく 2 回押すとダブルクリックとなります。</p>
 <p class="p">Most keyboards have a special key which allows you to right-click,
-  sometimes called the <span class="key"><a href="keyboard-key-menu.html" title="Menu キーとは何ですか?"><kbd>Menu</kbd></a></span> key. Note,
+  sometimes called the <span class="key"><a href="keyboard-key-menu.html.ja" title="Menu キーとは何ですか?"><kbd>Menu</kbd></a></span> key. Note,
   however, that this key responds to where your keyboard focus is, not where
-  your mouse pointer is. See <span class="link"><a href="a11y-right-click.html" title="右クリックを代替する">右クリックを代替する</a></span> for information on
+  your mouse pointer is. See <span class="link"><a href="a11y-right-click.html.ja" title="右クリックを代替する">右クリックを代替する</a></span> for information on
   how to right-click by holding down <span class="key"><kbd>5</kbd></span> or the left mouse button.</p>
 <p class="p">マウスキーを使っているときにキーパッドで数字入力をしたい場合は、<span class="key"><kbd>Num Lock</kbd></span> をオンにしてください。ただし、<span class="key"><kbd>Num Lock</kbd></span> がオンになっているときはキーパッドでマウスポインターを操作することはできません。</p>
 <div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">キーボードの上部に並んでいる通常の数字キーでは、マウスポインターを操作することはできません。キーパッドの数字キーだけが使えます。</p></div></div></div></div>
@@ -93,9 +93,9 @@
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse.html" title="マウス">マウス</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="左手でマウスを使う">左手で利用する</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="マウスやタッチパッドの速度を調節する">速度と感度</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">タッチパッドでクリックとスクロール</a></span>…</span>
+<a href="mouse.html.ja" title="マウス">マウス</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.ja" title="左手でマウスを使う">左手で利用する</a></span>, <span class="link"><a href="mouse-sensitivity.html.ja" title="マウスやタッチパッドの速度を調節する">速度と感度</a></span>, <span class="link"><a href="mouse-touchpad-click.html.ja" title="Click, drag, or scroll with the touchpad">タッチパッドでクリックとスクロール</a></span>…</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="運動障害">運動障害</a></li>
+<li class="links "><a href="a11y.html.ja#mobility" title="運動障害">運動障害</a></li>
 </ul></div>
 </div></div></div>
 </div>

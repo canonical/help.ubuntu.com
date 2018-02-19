@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hardware &amp; stuurprogramma's</span></h1></div>
@@ -51,46 +51,46 @@
 <div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="printing.html" title="Afdrukken">Afdrukken</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html" title="Een lokale printer instellen">Lokale installatie</a></span>, <span class="link"><a href="printing-order.html" title="Pagina's in een andere volgorde laten afdrukken">ordenen en sorteren</a></span>, <span class="link"><a href="printing-2sided.html" title="Tweezijdig afdrukken en multipagina-opmaak">dubbelzijdig en meerdere pagina's</a></span>…</span></div>
+<div class="links-grid-link"><a href="printing.html.nl" title="Afdrukken">Afdrukken</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html.nl" title="Een lokale printer instellen">Lokale installatie</a></span>, <span class="link"><a href="printing-order.html.nl" title="Pagina's in een andere volgorde laten afdrukken">ordenen en sorteren</a></span>, <span class="link"><a href="printing-2sided.html.nl" title="Tweezijdig afdrukken en multipagina-opmaak">dubbelzijdig en meerdere pagina's</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html" title="Uw computer met een Bluetooth-apparaat verbinden">Verbinden</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Bestanden sturen naar een Bluetooth-apparaat">bestanden overbrengen</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth in- of uitschakelen">aan- en uitzetten</a></span>...</span></div>
+<div class="links-grid-link"><a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html.nl" title="Uw computer met een Bluetooth-apparaat verbinden">Verbinden</a></span>, <span class="link"><a href="bluetooth-send-file.html.nl" title="Bestanden sturen naar een Bluetooth-apparaat">bestanden overbrengen</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.nl" title="Bluetooth in- of uitschakelen">aan- en uitzetten</a></span>...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html" title="Kleurbeheer">Kleurbeheer</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Waarom is kleurbeheer belangrijk?">Waarom is dit belangrijk</a></span>, <span class="link"><a href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a></span>, <span class="link"><a href="color.html#calibration" title="Kalibratie">Hoe kan ik een apparaat kalibreren</a></span>…</span></div>
+<div class="links-grid-link"><a href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.nl" title="Waarom is kleurbeheer belangrijk?">Waarom is dit belangrijk</a></span>, <span class="link"><a href="color.html.nl#profiles" title="Kleurprofielen">Kleurprofielen</a></span>, <span class="link"><a href="color.html.nl#calibration" title="Kalibratie">Hoe kan ik een apparaat kalibreren</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html" title="Muis">Muis</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html" title="Gebruik de muis met uw linker hand">Linkshandig</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="De snelheid van de muis en het touchpad aanpassen">snelheid en gevoeligheid</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Klik, sleep, of scroll met het touchpad">touchpad klikken en scrollen</a></span>...</span></div>
+<div class="links-grid-link"><a href="mouse.html.nl" title="Muis">Muis</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.nl" title="Gebruik de muis met uw linker hand">Linkshandig</a></span>, <span class="link"><a href="mouse-sensitivity.html.nl" title="De snelheid van de muis en het touchpad aanpassen">snelheid en gevoeligheid</a></span>, <span class="link"><a href="mouse-touchpad-click.html.nl" title="Klik, sleep, of scroll met het touchpad">touchpad klikken en scrollen</a></span>...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="disk.html" title="Schijven &amp; opslag">Schijven &amp; opslag</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html" title="Controleer hoeveel schijfruimte er nog besschikbaar is">Schijfruimte</a></span>, <span class="link"><a href="disk-benchmark.html" title="De prestaties van u harde schijf testen">presentatie</a></span>, <span class="link"><a href="disk-check.html" title="Controleer of er problemen zijn met u harde schijf">problemen</a></span>, <span class="link"><a href="disk-partitions.html" title="Volumes en partities beheren">volumes en partities</a></span>...</span></div>
+<div class="links-grid-link"><a href="disk.html.nl" title="Schijven &amp; opslag">Schijven &amp; opslag</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html.nl" title="Controleer hoeveel schijfruimte er nog besschikbaar is">Schijfruimte</a></span>, <span class="link"><a href="disk-benchmark.html.nl" title="De prestaties van u harde schijf testen">presentatie</a></span>, <span class="link"><a href="disk-check.html.nl" title="Controleer of er problemen zijn met u harde schijf">problemen</a></span>, <span class="link"><a href="disk-partitions.html.nl" title="Volumes en partities beheren">volumes en partities</a></span>...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="keyboard.html" title="Toetsenbord">Toetsenbord</a></div>
+<div class="links-grid-link"><a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="keyboard-layouts.html" title="Alternatieve toetsenbordindelingen gebruiken">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html" title="De toetsenbordcursor laten knipperen">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html#mobility" title="Beperkte mobiliteit">keyboard accessibility</a></span>…
+      <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">keyboard accessibility</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware-auth.html" title="Vingerafdruk &amp; smartcards">Vingerafdruk &amp; smartcards</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-fingerprint.html" title="Aanmelden met een vingerafdruk">Vingerafdruk-lezers</a></span>, smartcards…</span></div>
+<div class="links-grid-link"><a href="hardware-auth.html.nl" title="Vingerafdruk &amp; smartcards">Vingerafdruk &amp; smartcards</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-fingerprint.html.nl" title="Aanmelden met een vingerafdruk">Vingerafdruk-lezers</a></span>, smartcards…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="power.html" title="Voeding &amp; accu">Voeding &amp; accu</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="power-status.html" title="Controleer de accustatus">Accustatus</a></span>, <span class="link"><a href="power-suspend.html" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">pauzestand</a></span>, <span class="link"><a href="power-whydim.html" title="Waarom wordt mijn scherm na enige tijd zwart?">scherm dimmen</a></span>…</span></div>
+<div class="links-grid-link"><a href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="power-status.html.nl" title="Controleer de accustatus">Accustatus</a></span>, <span class="link"><a href="power-suspend.html.nl" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">pauzestand</a></span>, <span class="link"><a href="power-whydim.html.nl" title="Waarom wordt mijn scherm na enige tijd zwart?">scherm dimmen</a></span>…</span></div>
 </div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Meer onderwerpen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="Wat is een stuurprogramma?">Wat is een stuurprogramma?</a><span class="desc"> — Een hardware/apparaatstuurprogramma stelt uw computer in staat aangesloten apparaten te gebruiken.</span>
+<a href="hardware-driver.html.nl" title="Wat is een stuurprogramma?">Wat is een stuurprogramma?</a><span class="desc"> — Een hardware/apparaatstuurprogramma stelt uw computer in staat aangesloten apparaten te gebruiken.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -98,23 +98,23 @@
 <div class="hgroup"><h2 class="title"><span class="title">Veel voorkomende problemen</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul>
 <li class="links ">
-<a href="sound-broken.html" title="Geluidsproblemen">Geluidsproblemen</a><span class="desc"> — Problemen zoals het niet hebben van geluid of geluid van slechte kwaliteit oplossen.</span>
+<a href="sound-broken.html.nl" title="Geluidsproblemen">Geluidsproblemen</a><span class="desc"> — Problemen zoals het niet hebben van geluid of geluid van slechte kwaliteit oplossen.</span>
 </li>
 <li class="links ">
-<a href="printing.html#problems" title="Printerproblemen">Printerproblemen</a><span class="desc"> — Printers die niet zijn gedetecteerd, vastlopend papier, afdrukken die er niet goed uitzien…</span>
+<a href="printing.html.nl#problems" title="Printerproblemen">Printerproblemen</a><span class="desc"> — Printers die niet zijn gedetecteerd, vastlopend papier, afdrukken die er niet goed uitzien…</span>
 </li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li>
-<li class="links "><a href="bluetooth.html#problems" title="Problemen">Problemen met Bluetooth</a></li>
+<li class="links "><a href="bluetooth.html.nl#problems" title="Problemen">Problemen met Bluetooth</a></li>
 <li class="links ">
-<a href="hardware-cardreader.html" title="Problemen met geheugenkaartlezers">Problemen met geheugenkaartlezers</a><span class="desc"> — Problemen met de geheugenkaartlezer oplossen</span>
-</li>
-<li class="links ">
-<a href="hardware-problems-graphics.html" title="Schermproblemen">Schermproblemen</a><span class="desc"> — Grafische problemen en problemen met het scherm oplossen.</span>
+<a href="hardware-cardreader.html.nl" title="Problemen met geheugenkaartlezers">Problemen met geheugenkaartlezers</a><span class="desc"> — Problemen met de geheugenkaartlezer oplossen</span>
 </li>
 <li class="links ">
-<a href="power.html#problems" title="Problemen">Stroomproblemen</a><span class="desc"> — Problemen met stroom en accu's oplossen.</span>
+<a href="hardware-problems-graphics.html.nl" title="Schermproblemen">Schermproblemen</a><span class="desc"> — Grafische problemen en problemen met het scherm oplossen.</span>
+</li>
+<li class="links ">
+<a href="power.html.nl#problems" title="Problemen">Stroomproblemen</a><span class="desc"> — Problemen met stroom en accu's oplossen.</span>
 </li>
 </ul></div></div></div></div></div>
 </div></div>
@@ -122,7 +122,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Handleiding Ubuntu-desktop">Handleiding Ubuntu-desktop</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.nl" title="Handleiding Ubuntu-desktop">Handleiding Ubuntu-desktop</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

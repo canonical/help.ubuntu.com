@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="bluetooth.html.cs" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Připojení počítače k zařízení Bluetooth</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">Než můžete začít používat zařízení Bluetooth, jako je myš nebo sluchátka, musíte je nejprve spojit s počítačem. Tento postup se často nazývá <span class="em">párování</span> zařízení Bluetooth.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Bluetooth</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Ujistěte se, že je Bluetooth zapnuté: vypínač nahoře by měl být v poloze <span class="gui">❙</span>. Pokud tomu tak je, počítač začne automaticky vyhledávat zařízení.</p></li>
-<li class="steps"><p class="p">Nastavte ostatní zařízení Bluetooth, aby byla <span class="link"><a href="bluetooth-visibility.html" title="Co je to viditelnost Bluetooth?">vyhledatelná a viditelná</a></span> a umístěte je v dosahu do 5 až 10 metrů od počítače.</p></li>
+<li class="steps"><p class="p">Nastavte ostatní zařízení Bluetooth, aby byla <span class="link"><a href="bluetooth-visibility.html.cs" title="Co je to viditelnost Bluetooth?">vyhledatelná a viditelná</a></span> a umístěte je v dosahu do 5 až 10 metrů od počítače.</p></li>
 <li class="steps"><p class="p">Klikněte na zařízení v seznamu <span class="gui">Zařízení</span>. Otevře se panel pro zařízení.</p></li>
 <li class="steps">
 <p class="p">Pokud budete požádáni, potvrďte na svém dalším zařízení PIN. Zařízení by vám mělo ukázat stejný PIN, jako vidíte na obrazovce svého počítač. Potvrďte PIN na zařízení (asi budete muset kliknout na <span class="gui">Spárovat</span> nebo <span class="gui">Potvrdit</span>) a pak klikněte na <span class="gui">Potvrdit</span> na počítači.</p>
@@ -73,17 +73,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Připojení počítače k zařízení Bluetooth">Připojení</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Posílání souborů do zařízení Bluetooth">posílání souborů</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Zapnutí nebo vypnutí Bluetooth">zapnutí a vypnutí</a></span>…</span>
+<a href="bluetooth.html.cs" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.cs" title="Připojení počítače k zařízení Bluetooth">Připojení</a></span>, <span class="link"><a href="bluetooth-send-file.html.cs" title="Posílání souborů do zařízení Bluetooth">posílání souborů</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.cs" title="Zapnutí nebo vypnutí Bluetooth">zapnutí a vypnutí</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-remove-connection.html" title="Odpojení zařízení Bluetooth">Odpojení zařízení Bluetooth</a><span class="desc"> — Jak odebrat zařízení ze seznamu se zařízeními Bluetooth.</span>
+<a href="bluetooth-remove-connection.html.cs" title="Odpojení zařízení Bluetooth">Odpojení zařízení Bluetooth</a><span class="desc"> — Jak odebrat zařízení ze seznamu se zařízeními Bluetooth.</span>
 </li>
 <li class="links ">
-<a href="sharing-bluetooth.html" title="Ovládání sdílení po Bluetooth">Ovládání sdílení po Bluetooth</a><span class="desc"> — Jak umožnit nahrávání souborů na váš počítač přes Bluetooth.</span>
+<a href="sharing-bluetooth.html.cs" title="Ovládání sdílení po Bluetooth">Ovládání sdílení po Bluetooth</a><span class="desc"> — Jak umožnit nahrávání souborů na váš počítač přes Bluetooth.</span>
 </li>
 </ul></div>
 </div></div>

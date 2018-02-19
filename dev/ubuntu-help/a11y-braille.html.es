@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="a11y.html" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html#vision" title="Deficiencias visuales">Deficiencias visuales</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="a11y.html.es" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html.es#vision" title="Deficiencias visuales">Deficiencias visuales</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Leer la pantalla en Braille</span></h1></div>
@@ -57,12 +57,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Deficiencias visuales">Deficiencias visuales</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.es#vision" title="Deficiencias visuales">Deficiencias visuales</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y-screen-reader.html" title="Leer la pantalla en voz alta">Leer la pantalla en voz alta</a><span class="desc"> — Use el lector de pantalla <span class="app">Orca</span> para leer la interfaz de usuario.</span>
+<a href="a11y-screen-reader.html.es" title="Leer la pantalla en voz alta">Leer la pantalla en voz alta</a><span class="desc"> — Use el lector de pantalla <span class="app">Orca</span> para leer la interfaz de usuario.</span>
 </li></ul></div>
 </div></div>
 </div>

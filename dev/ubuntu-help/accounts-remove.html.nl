@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="accounts.html" title="Online-accounts">Online-accounts</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="accounts.html.nl" title="Online-accounts">Online-accounts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een account verwijderen</span></h1></div>
@@ -57,13 +57,13 @@
     or sites. Look for an app called “GNOME” and remove it.</p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-weergave en typ <span class="gui">Online-accounts</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-weergave en typ <span class="gui">Online-accounts</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Online-accounts</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Selecteer het account dat u wilt verwijderen.</p></li>
 <li class="steps"><p class="p">Klik op de knop <span class="gui">-</span> linksonder in het venster.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Verwijderen</span> in het bevestigingsvenster.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">In plaats van het volledig verwijderen van het account kunt u kiezen voor het <span class="link"><a href="accounts-disable-service.html" title="Bepaal tot welke online diensten een account toegang geeft">uitschakelen van de dienst</a></span> zodat uw computer geen toegang heeft tot deze dienst.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">In plaats van het volledig verwijderen van het account kunt u kiezen voor het <span class="link"><a href="accounts-disable-service.html.nl" title="Bepaal tot welke online diensten een account toegang geeft">uitschakelen van de dienst</a></span> zodat uw computer geen toegang heeft tot deze dienst.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -71,13 +71,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Online-accounts">Online-accounts</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Een account toevoegen">Een online-account toevoegen</a></span>, <span class="link"><a href="accounts-remove.html" title="Een account verwijderen">Een account verwijderen</a></span>, <span class="link"><a href="accounts-which-application.html" title="Online-services en -toepassingen">Meer te weten komen over diensten</a></span>…</span>
+<a href="accounts.html.nl" title="Online-accounts">Online-accounts</a><span class="desc"> — <span class="link"><a href="accounts-add.html.nl" title="Een account toevoegen">Een online-account toevoegen</a></span>, <span class="link"><a href="accounts-remove.html.nl" title="Een account verwijderen">Een account verwijderen</a></span>, <span class="link"><a href="accounts-which-application.html.nl" title="Online-services en -toepassingen">Meer te weten komen over diensten</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="Bepaal tot welke online diensten een account toegang geeft">Bepaal tot welke online diensten een account toegang geeft</a><span class="desc"> — Bij sommige online-accounts kunt u meerdere diensten gebruiken (zoals agenda en e-mail). U kunt zelf bepalen welke van deze diensten gebruikt kunnen worden door uw lokale toepassingen.</span>
+<a href="accounts-disable-service.html.nl" title="Bepaal tot welke online diensten een account toegang geeft">Bepaal tot welke online diensten een account toegang geeft</a><span class="desc"> — Bij sommige online-accounts kunt u meerdere diensten gebruiken (zoals agenda en e-mail). U kunt zelf bepalen welke van deze diensten gebruikt kunnen worden door uw lokale toepassingen.</span>
 </li></ul></div>
 </div></div>
 </div>

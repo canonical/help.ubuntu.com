@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Recover a file from the Trash</title>
+<title>Przywracanie pliku z Kosza</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,19 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Recover a file from the Trash</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Przywracanie pliku z Kosza</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">If you delete a file with the file manager, the file is normally placed
   into the <span class="gui">Trash</span>, and should be able to be restored.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To restore a file from the Trash:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Aby przywrócić plik z Kosza:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="app">Files</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="app">Pliki</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="app">Files</span> to open the file manager.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Trash</span> in the sidebar. If you do not see the sidebar,
       click <span class="gui">Files</span> in the top bar and pick <span class="gui">Sidebar</span>.</p></li>
@@ -79,16 +78,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-delete.html" title="Delete files and folders">Delete files and folders</a><span class="desc"> — Remove files or folders you no longer need.</span>
+<a href="files-delete.html.pl-PL" title="Usuwanie plików i katalogów">Usuwanie plików i katalogów</a><span class="desc"> — Remove files or folders you no longer need.</span>
 </li>
 <li class="links ">
-<a href="files-lost.html" title="Find a lost file">Find a lost file</a><span class="desc"> — Follow these tips if you can’t find a file you created or
+<a href="files-lost.html.pl-PL" title="Wyszukiwanie zgubionego pliku">Wyszukiwanie zgubionego pliku</a><span class="desc"> — Follow these tips if you can’t find a file you created or
     downloaded.</span>
 </li>
 </ul></div>

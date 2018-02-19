@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#common-file-tasks" title="Κοινές εργασίες">Κοινές εργασίες</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#common-file-tasks" title="Κοινές εργασίες">Κοινές εργασίες</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Μετονομασία αρχείου ή φακέλου</span></h1></div>
@@ -57,7 +57,7 @@
 <li class="steps"><p class="p">Πληκτρολογήστε το νέο όνομα και πατήστε το πλήκτρο <span class="key"><kbd>Enter</kbd></span> ή κάντε κλικ στο <span class="gui">Μετονομασία</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Μπορείτε επίσης να μετονομάσετε ένα αρχείο από το παράθυρο <span class="link"><a href="nautilus-file-properties-basic.html" title="Ιδιότητες αρχείου">ιδιότητες</a></span>.</p>
+<p class="p">Μπορείτε επίσης να μετονομάσετε ένα αρχείο από το παράθυρο <span class="link"><a href="nautilus-file-properties-basic.html.el" title="Ιδιότητες αρχείου">ιδιότητες</a></span>.</p>
 <p class="p">Όταν μετονομάζετε ένα αρχείο, επιλέγεται μόνο το πρώτο μέρος του ονόματος αρχείου και όχι η επέκταση του (το μέρος μετά τη <span class="file">.</span>). Η επέκταση κανονικά δηλώνει τον τύπο του αρχείου (για παράδειγμα, <span class="file">αρχείο.pdf</span> είναι ένα έγγραφο PDF) και συνήθως δεν θέλετε να το αλλάξετε. Αν χρειάζεστε επίσης να αλλάξετε την επέκταση, επιλέξτε όλο το όνομα αρχείου και αλλάξτε το.</p>
 <div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Εάν μετονομάσατε λάθος αρχείο, ή ονομάσατε το αρχείο σας λαθεμένα, μπορείτε να αναιρέσετε την μετονομασία. Για να αντιστρέψετε την ενέργεια, κάντε κλικ αμέσως το κουμπί μενού στην εργαλειοθήκη και επιλέξτε <span class="gui">Αναίρεση μετονομασίας</span>, ή πατήστε <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span> για να επαναφέρετε το προηγούμενο όνομα.</p></div></div></div></div>
 </div>
@@ -65,7 +65,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Έγκυροι χαρακτήρες για ονόματα αρχείων</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Μπορείτε να χρησιμοποιήσετε οποιοδήποτε χαρακτήρα εκτός από του <span class="file">/</span> (πλαγιοκάθετο) σε ονόματα αρχείου. Μερικές συσκευές, χρησιμοποιούν ένα <span class="em">σύστημα αρχείων</span> που έχει περισσότερους περιορισμούς σε ονόματα αρχείων. Συνεπώς, είναι καλύτερη πρακτική να αποφύγετε τους ακόλουθους χαρακτήρες στα ονόματα αρχείων: <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
-<div class="note note-warning" title="Προειδοποίηση"><div class="inner"><div class="region"><div class="contents"><p class="p">Αν ονομάσετε ένα αρχείο με μια <span class="file">.</span> ως τον πρώτο χαρακτήρα του, τότε το αρχείο θα είναι <span class="link"><a href="files-hidden.html" title="Απόκρυψη ενός αρχείου">κρυφό</a></span> όταν προσπαθήσετε να το δείτε στον διαχειριστή αρχείων.</p></div></div></div></div>
+<div class="note note-warning" title="Προειδοποίηση"><div class="inner"><div class="region"><div class="contents"><p class="p">Αν ονομάσετε ένα αρχείο με μια <span class="file">.</span> ως τον πρώτο χαρακτήρα του, τότε το αρχείο θα είναι <span class="link"><a href="files-hidden.html.el" title="Απόκρυψη ενός αρχείου">κρυφό</a></span> όταν προσπαθήσετε να το δείτε στον διαχειριστή αρχείων.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="common-probs" class="sect"><div class="inner">
@@ -79,14 +79,14 @@
 <dt class="terms">Το όνομα είναι υπερβολικά μεγάλο</dt>
 <dd class="terms"><p class="p">Σε μερικά συστήματα αρχείων, τα ονόματα αρχείων δεν έχουν περισσότερους από 255 χαρακτήρες. Αυτό το όριο των 255 χαρακτήρων περιλαμβάνει και τα ονόματα αρχείων και τη διαδρομή προς το αρχείο (για παράδειγμα., <span class="file">/home/wanda/Documents/work/business-proposals/…</span>), έτσι θα πρέπει να αποφεύγετε μεγάλα ονόματα αρχείων και φακέλων όπου είναι δυνατό.</p></dd>
 <dt class="terms">Η επιλογή για μετονομασία είναι αχνή</dt>
-<dd class="terms"><p class="p">Εάν η <span class="gui">Μετονομασία</span> είναι αχνή, δεν έχετε την άδεια να μετονομάσετε το αρχείο. Θα πρέπει να είσαστε προσεκτικοί με την μετονομασία τέτοιων αρχείων, καθώς η μετονομασία μερικών προστατευμένων αρχείων μπορεί να προκαλέσει αστάθεια στο σύστημα. Για περισσότερες πληροφορίες δείτε <span class="link"><a href="nautilus-file-properties-permissions.html" title="Ορισμός δικαιωμάτων αρχείου">Ορισμός δικαιωμάτων αρχείου</a></span>.</p></dd>
+<dd class="terms"><p class="p">Εάν η <span class="gui">Μετονομασία</span> είναι αχνή, δεν έχετε την άδεια να μετονομάσετε το αρχείο. Θα πρέπει να είσαστε προσεκτικοί με την μετονομασία τέτοιων αρχείων, καθώς η μετονομασία μερικών προστατευμένων αρχείων μπορεί να προκαλέσει αστάθεια στο σύστημα. Για περισσότερες πληροφορίες δείτε <span class="link"><a href="nautilus-file-properties-permissions.html.el" title="Ορισμός δικαιωμάτων αρχείου">Ορισμός δικαιωμάτων αρχείου</a></span>.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Κοινές εργασίες">Κοινές εργασίες</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.el#common-file-tasks" title="Κοινές εργασίες">Κοινές εργασίες</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="hardware-problems-graphics.html" title="Screen problems">Screen problems</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.ro#problems" title="Common problems">Problems</a> » <a class="trail" href="hardware-problems-graphics.html.ro" title="Screen problems">Screen problems</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Why do things look fuzzy/pixelated on my screen?</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">This can happen because the display resolution that you have set it is not
 the right one for your screen.</p>
-<p class="p">To solve this, open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span>
+<p class="p">To solve this, open the <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activities</a></span>
 overview and start typing <span class="gui">Displays</span>. Click on <span class="gui">Displays</span>
 to open the panel. Try some of the <span class="gui">Resolution</span> options and set the
 one that makes the screen look better.</p>
@@ -70,7 +70,7 @@ one that makes the screen look better.</p>
   cannot show the same window on both screens at once.</p>
 <p class="p">To set up the displays so that they each have their own resolution:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Displays</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Displays</span> to open the panel.</p></li>
 <li class="steps"><p class="p">The displays should be listed as <span class="gui">Mirrored</span>. Select your main
@@ -89,7 +89,7 @@ one that makes the screen look better.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-problems-graphics.html" title="Screen problems">Screen problems</a><span class="desc"> — 
+<a href="hardware-problems-graphics.html.ro" title="Screen problems">Screen problems</a><span class="desc"> — 
       Troubleshoot screen and graphics problems.
     </span>
 </li></ul></div>
@@ -97,7 +97,7 @@ one that makes the screen look better.</p>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vezi și</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-resolution.html" title="Change the resolution or rotation of the screen">Change the resolution or rotation of the screen</a><span class="desc"> — Change the resolution of the screen and its orientation
+<a href="look-resolution.html.ro" title="Change the resolution or rotation of the screen">Change the resolution or rotation of the screen</a><span class="desc"> — Change the resolution of the screen and its orientation
     (rotation).</span>
 </li></ul></div>
 </div></div>

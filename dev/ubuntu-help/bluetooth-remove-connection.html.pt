@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> » <a class="trail" href="bluetooth.html.pt" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Desligar um dispositivo Bluetooth</span></h1></div>
@@ -51,12 +51,12 @@
 <div class="contents">
 <p class="p">Se não quer voltar a ligar a um dispositivo Bluetooth pode tirar a conexão. É útil se já não quer voltar a usar um dispositivo como um rato ou uns auriculares ou se já não vai voltar a transferir ficheiros a ou desde um dispositivo.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Carregue no ícone de Bluetooth na <span class="gui">barra de menu</span> e selecione <span class="gui">Configuração de Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Selecione <span class="gui">Configuração de Bluetooth</span> para abrir o painel.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Carregue em <span class="gui">Bluetooth</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione na lista o dispositivo que quer desligar.</p></li>
 <li class="steps"><p class="p">No quadro de diálogo de dispositivos, mude <span class="gui">Conexão</span> a <span class="gui">Apagado</span>, ou para tirar o dispositivo da lista de <span class="gui">Dispositivos</span>, carregue em <span class="gui">Tirar dispositivo</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Pode <span class="link"><a href="bluetooth-connect-device.html" title="Ligar o seu computador a um dispositivo Bluetooth">voltar a ligar a um dispositivo Bluetooth</a></span> mais tarde se quer.</p>
+<p class="p">Pode <span class="link"><a href="bluetooth-connect-device.html.pt" title="Ligar o seu computador a um dispositivo Bluetooth">voltar a ligar a um dispositivo Bluetooth</a></span> mais tarde se quer.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -64,13 +64,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Ligar o seu computador a um dispositivo Bluetooth">Connetar</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Enviar ficheiros a um dispositivo Bluetooth">envar ficheiros</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Acender ou apagar o Bluetooth">apagar e acender</a></span>…</span>
+<a href="bluetooth.html.pt" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.pt" title="Ligar o seu computador a um dispositivo Bluetooth">Connetar</a></span>, <span class="link"><a href="bluetooth-send-file.html.pt" title="Enviar ficheiros a um dispositivo Bluetooth">envar ficheiros</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.pt" title="Acender ou apagar o Bluetooth">apagar e acender</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth-connect-device.html" title="Ligar o seu computador a um dispositivo Bluetooth">Ligar o seu computador a um dispositivo Bluetooth</a><span class="desc"> — Emparelhar dispositivos Bluetooth.</span>
+<a href="bluetooth-connect-device.html.pt" title="Ligar o seu computador a um dispositivo Bluetooth">Ligar o seu computador a um dispositivo Bluetooth</a><span class="desc"> — Emparelhar dispositivos Bluetooth.</span>
 </li></ul></div>
 </div></div>
 </div>

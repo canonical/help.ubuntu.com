@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు">నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.te" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.te" title="నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు">నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">మీ ఐపీ చిరునామాను కనుక్కోండి</span></h1></div>
@@ -56,7 +56,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">మీ అంతర్గత (జాలం) ఐపీ చిరునామాను కనుక్కోండి</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.te#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps">
@@ -88,11 +88,11 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు">నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు</a><span class="desc"> — 
-      <span class="link"><a href="net-findip.html" title="మీ ఐపీ చిరునామాను కనుక్కోండి">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html" title="What is a MAC address?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html" title="ప్రాక్సీ అమరికలను నిర్వచించండి">proxies</a></span>…
+<a href="net-general.html.te" title="నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు">నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు</a><span class="desc"> — 
+      <span class="link"><a href="net-findip.html.te" title="మీ ఐపీ చిరునామాను కనుక్కోండి">Find your IP address</a></span>,
+      <span class="link"><a href="net-wireless-wepwpa.html.te" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
+      <span class="link"><a href="net-macaddress.html.te" title="What is a MAC address?">MAC addresses</a></span>,
+      <span class="link"><a href="net-proxy.html.te" title="ప్రాక్సీ అమరికలను నిర్వచించండి">proxies</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -100,11 +100,11 @@
 <div class="title"><h2><span class="title">ఇవి కూడా చూడండి</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-fixed-ip-address.html" title="Create a connection with a fixed IP address">Create a connection with a fixed IP address</a><span class="desc"> — Using a static IP address can make it easier to provide some network
+<a href="net-fixed-ip-address.html.te" title="Create a connection with a fixed IP address">Create a connection with a fixed IP address</a><span class="desc"> — Using a static IP address can make it easier to provide some network
     services from your computer.</span>
 </li>
 <li class="links ">
-<a href="net-what-is-ip-address.html" title="What is an IP address?">What is an IP address?</a><span class="desc"> — An IP Address is like a phone number for your computer.</span>
+<a href="net-what-is-ip-address.html.te" title="What is an IP address?">What is an IP address?</a><span class="desc"> — An IP Address is like a phone number for your computer.</span>
 </li>
 </ul></div>
 </div></div>

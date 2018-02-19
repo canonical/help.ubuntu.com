@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wireless.html" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Σύνδεση σε ασύρματο δίκτυο</span></h1></div>
@@ -51,15 +51,15 @@
 <div class="contents">
 <p class="p">Εάν έχετε έναν υπολογιστή με ενεργό το ασύρματο, μπορείτε να συνδεθείτε σε ένα ασύρματο δίκτυο που είναι μες την περιοχή πρόσβασης του διαδικτύου, να δείτε κοινόχρηστα αρχεία στο δίκτυο κ.ο.κ.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε το <span class="gui"><a href="shell-introduction.html#yourname" title="Εσείς και ο υπολογιστή σας">μενού του συστήματος</a></span> από τη δεξιά πλευρά της πάνω γραμμής.</p></li>
+<li class="steps"><p class="p">Ανοίξτε το <span class="gui"><a href="shell-introduction.html.el#yourname" title="Εσείς και ο υπολογιστή σας">μενού του συστήματος</a></span> από τη δεξιά πλευρά της πάνω γραμμής.</p></li>
 <li class="steps"><p class="p">Επιλέξτε <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Χωρίς σύνδεση το Wi-Fi</span>. Θα επεκταθεί η ενότητα Wi-Fi του μενού.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Επιλογή δικτύου</span>.</p></li>
 <li class="steps">
 <p class="p">Επιλέξτε το όνομα του δικτύου στο οποίο θέλετε να συνδεθείτε, έπειτα πατήστε <span class="gui">Σύνδεση</span>.</p>
-<p class="p">Εάν το όνομα του δικτύου δεν είναι στη λίστα, δοκιμάστε πατώντας στο <span class="gui">Περισσότερα</span> για να δείτε εάν το δίκτυο είναι πιο κάτω στη λίστα. Εάν δεν βλέπετε ακόμα το δίκτυο, μπορεί να είσαστε εκτός περιοχής ή το δίκτυο <span class="link"><a href="net-wireless-hidden.html" title="Σύνδεση σε κρυφό ασύρματο δίκτυο">μπορεί να είναι κρυμμένο</a></span>.</p>
+<p class="p">Εάν το όνομα του δικτύου δεν είναι στη λίστα, δοκιμάστε πατώντας στο <span class="gui">Περισσότερα</span> για να δείτε εάν το δίκτυο είναι πιο κάτω στη λίστα. Εάν δεν βλέπετε ακόμα το δίκτυο, μπορεί να είσαστε εκτός περιοχής ή το δίκτυο <span class="link"><a href="net-wireless-hidden.html.el" title="Σύνδεση σε κρυφό ασύρματο δίκτυο">μπορεί να είναι κρυμμένο</a></span>.</p>
 </li>
 <li class="steps">
-<p class="p">Εάν το δίκτυο προστατεύεται με ένα κωδικό πρόσβασης (<span class="link"><a href="net-wireless-wepwpa.html" title="Τι σημαίνουν τα WEP και WPA;">κλειδί κρυπτογράφησης</a></span>), εισάγετε τον κωδικό πρόσβασης όταν σας ζητηθεί και κάντε κλικ στο <span class="gui">Σύνδεση</span>.</p>
+<p class="p">Εάν το δίκτυο προστατεύεται με ένα κωδικό πρόσβασης (<span class="link"><a href="net-wireless-wepwpa.html.el" title="Τι σημαίνουν τα WEP και WPA;">κλειδί κρυπτογράφησης</a></span>), εισάγετε τον κωδικό πρόσβασης όταν σας ζητηθεί και κάντε κλικ στο <span class="gui">Σύνδεση</span>.</p>
 <p class="p">Εάν δεν ξέρετε το κλειδί, μπορεί να είναι γραμμένο στην κάτω πλευρά του ασύρματου δρομολογητή ή στον σταθμό βάσης, στο εγχειρίδιο οδηγιών του, ή μπορεί να πρέπει να το ζητήσετε από τον διαχειριστή του ασύρματου δικτύου.</p>
 </li>
 <li class="steps"><p class="p">Το εικονίδιο δικτύου θα αλλάξει εμφάνιση καθώς ο υπολογιστής προσπαθεί να συνδεθεί στο δίκτυο.</p></li>
@@ -70,7 +70,7 @@
   There are a number of things that could have caused this to happen. You could
   have entered the wrong password, the wireless signal could be too weak, or
   your computer’s wireless card might have a problem, for example. See
-  <span class="link"><a href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Ανιχνευτής προβλημάτων ασύρματου δικτύου</a></span> for more help.</p>
+  <span class="link"><a href="net-wireless-troubleshooting.html.el" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Ανιχνευτής προβλημάτων ασύρματου δικτύου</a></span> for more help.</p>
 <p class="p">Μια πιο ισχυρή σύνδεση σε ένα ασύρματο δίκτυο δεν σημαίνει αναγκαστικά ότι έχετε μια γρηγορότερη σύνδεση διαδικτύου, ή ότι θα έχετε πιο γρήγορες ταχύτητες λήψης. Η ασύρματη σύνδεση συνδέει τον υπολογιστή σας στην <span class="em">συσκευή που παρέχει τη σύνδεση διαδικτύου</span> (όπως ένας δρομολογητής ή μόντεμ), αλλά οι δύο συνδέσεις είναι στην πραγματικότητα διαφορετικές και έτσι εκτελούνται σε διαφορετικές ταχύτητες.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -79,17 +79,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Σύνδεση σε ασύρματο δίκτυο">Σύνδεση σε wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Σύνδεση σε κρυφό ασύρματο δίκτυο">Κρυφά δίκτυα</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;">Αποσύνδεση</a></span>…</span>
+<a href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.el" title="Σύνδεση σε ασύρματο δίκτυο">Σύνδεση σε wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.el" title="Σύνδεση σε κρυφό ασύρματο δίκτυο">Κρυφά δίκτυα</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.el" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;">Αποσύνδεση</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Ανιχνευτής προβλημάτων ασύρματου δικτύου</a><span class="desc"> — Ταυτοποιήστε και διορθώστε προβλήματα με ασύρματες συνδέσεις</span>
+<a href="net-wireless-troubleshooting.html.el" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Ανιχνευτής προβλημάτων ασύρματου δικτύου</a><span class="desc"> — Ταυτοποιήστε και διορθώστε προβλήματα με ασύρματες συνδέσεις</span>
 </li>
 <li class="links ">
-<a href="net-wireless-disconnecting.html" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;">Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;</a><span class="desc"> — Μπορεί να έχετε χαμηλό σήμα, ή το δίκτυο μπορεί να μην σας επιτρέπει να συνδεθείτε κατάλληλα.</span>
+<a href="net-wireless-disconnecting.html.el" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;">Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;</a><span class="desc"> — Μπορεί να έχετε χαμηλό σήμα, ή το δίκτυο μπορεί να μην σας επιτρέπει να συνδεθείτε κατάλληλα.</span>
 </li>
 </ul></div>
 </div></div>

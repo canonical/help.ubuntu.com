@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="privacy.html" title="Ustawienia prywatności">Ustawienia prywatności</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="privacy.html.pl-PL" title="Ustawienia prywatności">Ustawienia prywatności</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -64,9 +64,8 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Automatically empty your trash and clear temporary files</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Privacy</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Prywatność</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Prywatność</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Prywatność</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Purge Trash &amp; Temporary Files</span>.</p></li>
 <li class="steps"><p class="p">Set one or both of the <span class="gui">Automatically empty Trash</span> or
       <span class="gui">Automatically purge Temporary Files</span> switches to
@@ -79,19 +78,19 @@
 </ol></div>
 </div></div>
 <div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">You can delete files immediately and permanently without using the Trash.
-    See <span class="link"><a href="files-delete.html#permanent" title="Permanently delete a file">Permanently delete a file</a></span> for information.</p></div></div></div></div>
+    See <span class="link"><a href="files-delete.html.pl-PL#permanent" title="Permanently delete a file">Permanently delete a file</a></span> for information.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
+<li class="links "><a href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a></li>
 <li class="links ">
-<a href="privacy.html" title="Ustawienia prywatności">Ustawienia prywatności</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html" title="Automatyczne blokowanie ekranu">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
+<a href="privacy.html.pl-PL" title="Ustawienia prywatności">Ustawienia prywatności</a><span class="desc"> — 
+      <span class="link"><a href="privacy-screen-lock.html.pl-PL" title="Automatyczne blokowanie ekranu">Screen lock</a></span>,
+      <span class="link"><a href="privacy-history-recent-off.html.pl-PL" title="Turn off or limit file history tracking">Usage history</a></span>,
+      <span class="link"><a href="privacy-purge.html.pl-PL" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
     </span>
 </li>
 </ul></div>

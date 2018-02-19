@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Ambiente grafico</a> › <a class="trail" href="shell-overview.html#apps" title="Applicazioni e finestre">Applicazioni e finestre</a> » <a class="trail" href="shell-windows.html" title="Finestre e spazi di lavoro">Finestre e spazi di lavoro</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Lavorare con gli spazi di lavoro">Spazi di lavoro</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.it" title="Your desktop">Ambiente grafico</a> › <a class="trail" href="shell-overview.html.it#apps" title="Applicazioni e finestre">Applicazioni e finestre</a> » <a class="trail" href="shell-windows.html.it" title="Finestre e spazi di lavoro">Finestre e spazi di lavoro</a> › <a class="trail" href="shell-windows.html.it#working-with-workspaces" title="Lavorare con gli spazi di lavoro">Spazi di lavoro</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Cos'è uno spazio di lavoro e come può essere utile?</span></h1></div>
@@ -58,7 +58,7 @@
 <p class="p">Per usare gli spazi di lavoro:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the
-    <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview, move your cursor
+    <span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> overview, move your cursor
     to the right-most side of the screen.</p></li>
 <li class="list"><p class="p">A vertical panel will appear showing
     workspaces in use, plus an empty workspace. This is the
@@ -77,16 +77,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Lavorare con gli spazi di lavoro">Lavorare con gli spazi di lavoro</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.it#working-with-workspaces" title="Lavorare con gli spazi di lavoro">Lavorare con gli spazi di lavoro</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-workspaces-switch.html" title="Passare da uno spazio di lavoro all'altro">Passare da uno spazio di lavoro all'altro</a><span class="desc"> — Use the workspace selector.</span>
+<a href="shell-workspaces-switch.html.it" title="Passare da uno spazio di lavoro all'altro">Passare da uno spazio di lavoro all'altro</a><span class="desc"> — Use the workspace selector.</span>
 </li>
 <li class="links ">
-<a href="shell-workspaces-movewindow.html" title="Spostare una finestra su un diverso spazio di lavoro">Spostare una finestra su un diverso spazio di lavoro</a><span class="desc"> — Go to the <span class="gui">Activities</span> overview and drag the window to a
+<a href="shell-workspaces-movewindow.html.it" title="Spostare una finestra su un diverso spazio di lavoro">Spostare una finestra su un diverso spazio di lavoro</a><span class="desc"> — Go to the <span class="gui">Activities</span> overview and drag the window to a
     different workspace.</span>
 </li>
 </ul></div>

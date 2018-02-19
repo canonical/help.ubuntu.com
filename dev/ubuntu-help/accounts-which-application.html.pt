@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="accounts.html" title="Contas em linha">Contas em linha</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="accounts.html.pt" title="Contas em linha">Contas em linha</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Serviços e aplicações em linha</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Uma vez que tenha acrescentado uma conta em linha, qualquer aplicação pode usar essa conta para qualquer dos serviços disponíveis que não se tenham <span class="link"><a href="accounts-disable-service.html" title="Controlar que serviços em linha pode usar uma conta para aceder">desativado</a></span>. Diferentes provedores oferecem diferentes serviços. Esta págia pronta os diferentes serviços e algumas de aplicações conhecidos que os usam.</p>
+<p class="p">Uma vez que tenha acrescentado uma conta em linha, qualquer aplicação pode usar essa conta para qualquer dos serviços disponíveis que não se tenham <span class="link"><a href="accounts-disable-service.html.pt" title="Controlar que serviços em linha pode usar uma conta para aceder">desativado</a></span>. Diferentes provedores oferecem diferentes serviços. Esta págia pronta os diferentes serviços e algumas de aplicações conhecidos que os usam.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Calendário</dt>
 <dd class="terms"><p class="p">O serviço de calendário permite-lhe ver, acrescentar e editar eventos num calendário em linha. Isto o usam aplicações tais como <span class="app">Calendar</span>, <span class="app">Evolution</span>, e <span class="app">California</span>.</p></dd>
@@ -60,7 +60,7 @@
 <dt class="terms">Documentos</dt>
 <dd class="terms"><p class="p">O serviço de documentos permite-lhe ver seus documentos em linha, como os que estão em Google docs. Pode ver os documentos utilizando o aplicação <span class="app">Documentos</span>.</p></dd>
 <dt class="terms">Ficheiros</dt>
-<dd class="terms"><p class="p">O serviço Ficheiros acrescenta uma localização de ficheiro remota, como se tivesse acrescentado uma utilizando a funcionalidade de <span class="link"><a href="nautilus-connect.html" title="Examinar ficheiros num servidor ou partilha de rede">Ligar ao servidor</a></span> no gestor de ficheiros. Pode aceder aos ficheiros remotos utilizando o gestor de ficheiros bem como os diálogos de abrir e guardar ficheiros de qualquer aplicação.</p></dd>
+<dd class="terms"><p class="p">O serviço Ficheiros acrescenta uma localização de ficheiro remota, como se tivesse acrescentado uma utilizando a funcionalidade de <span class="link"><a href="nautilus-connect.html.pt" title="Examinar ficheiros num servidor ou partilha de rede">Ligar ao servidor</a></span> no gestor de ficheiros. Pode aceder aos ficheiros remotos utilizando o gestor de ficheiros bem como os diálogos de abrir e guardar ficheiros de qualquer aplicação.</p></dd>
 <dt class="terms">E-mail</dt>
 <dd class="terms"><p class="p">O serviço de e-mail permite-lhe enviar e receber correios eletrónicos mediante um provedor de e-mail como Google. Isto o usa <span class="app">Evolution</span>.</p></dd>
 <dt class="terms">Fotos</dt>
@@ -77,13 +77,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Contas em linha">Contas em linha</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Acrescentar uma conta">Acrescentar uma conta em linha</a></span>, <span class="link"><a href="accounts-remove.html" title="Tirar uma conta">Tirar uma conta</a></span>, <span class="link"><a href="accounts-which-application.html" title="Serviços e aplicações em linha">Aprender mais sobre os serviços</a></span>…</span>
+<a href="accounts.html.pt" title="Contas em linha">Contas em linha</a><span class="desc"> — <span class="link"><a href="accounts-add.html.pt" title="Acrescentar uma conta">Acrescentar uma conta em linha</a></span>, <span class="link"><a href="accounts-remove.html.pt" title="Tirar uma conta">Tirar uma conta</a></span>, <span class="link"><a href="accounts-which-application.html.pt" title="Serviços e aplicações em linha">Aprender mais sobre os serviços</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="Controlar que serviços em linha pode usar uma conta para aceder">Controlar que serviços em linha pode usar uma conta para aceder</a><span class="desc"> — Algumas contas em linha podem-se usar para aceder a vários serviços (como o calendário e o correio). Pode controlar quais desses serviços podem usar as aplicações.</span>
+<a href="accounts-disable-service.html.pt" title="Controlar que serviços em linha pode usar uma conta para aceder">Controlar que serviços em linha pode usar uma conta para aceder</a><span class="desc"> — Algumas contas em linha podem-se usar para aceder a vários serviços (como o calendário e o correio). Pode controlar quais desses serviços podem usar as aplicações.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="Problemi di rete">Problemi di rete</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.it" title="Problemi di rete">Problemi di rete</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Reti WiFi">Reti WiFi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.it" title="Reti WiFi">Reti WiFi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,10 +56,10 @@
 <p class="p">There are a number of reasons why you might not be able to see your
   wireless network on the list of available networks from the system menu.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Se nell'elenco non è visualizzata alcuna rete, l'hardware WiFi potrebbe essere spento o <span class="link"><a href="net-wireless-troubleshooting.html" title="Risoluzione dei problemi relativi alle reti senza fili">potrebbe non funzionare correttamente</a></span>. Assicurarsi che sia acceso.</p></li>
+<li class="list"><p class="p">Se nell'elenco non è visualizzata alcuna rete, l'hardware WiFi potrebbe essere spento o <span class="link"><a href="net-wireless-troubleshooting.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">potrebbe non funzionare correttamente</a></span>. Assicurarsi che sia acceso.</p></li>
 <li class="list"><p class="p">La rete potrebbe essere fuori portata: provare ad avvicinarsi alla stazione fissa o al router WiFi per vedere se la rete compare nell'elenco.</p></li>
 <li class="list"><p class="p">L'aggiornamento dell'elenco delle reti senza fili richiede un certo tempo. Se il computer è stato appena acceso o spostato, attendere per circa un minuto e quindi controllare se la rete compare nell'elenco.</p></li>
-<li class="list"><p class="p">La rete potrebbe essere nascosta. In tal caso è necessario <span class="link"><a href="net-wireless-hidden.html" title="Connettersi a una rete WiFi nascosta">connettersi in modo diverso</a></span>.</p></li>
+<li class="list"><p class="p">La rete potrebbe essere nascosta. In tal caso è necessario <span class="link"><a href="net-wireless-hidden.html.it" title="Connettersi a una rete WiFi nascosta">connettersi in modo diverso</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -69,16 +69,16 @@
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html" title="Problemi di rete">Problemi di rete</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html" title="Risoluzione dei problemi relativi alle reti senza fili">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
+<a href="net-problem.html.it" title="Problemi di rete">Problemi di rete</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.it" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="net-wireless.html" title="Reti WiFi">Reti WiFi</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Connettersi a una rete WiFi">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connettersi a una rete WiFi nascosta">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Perché la connessione senza fili continua a disconnettersi?">Disconnecting</a></span>…
+<a href="net-wireless.html.it" title="Reti WiFi">Reti WiFi</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.it" title="Connettersi a una rete WiFi">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.it" title="Connettersi a una rete WiFi nascosta">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.it" title="Perché la connessione senza fili continua a disconnettersi?">Disconnecting</a></span>…
     </span>
 </li>
 </ul></div>
@@ -86,7 +86,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-hidden.html" title="Connettersi a una rete WiFi nascosta">Connettersi a una rete WiFi nascosta</a><span class="desc"> — Connect to a wireless network that is not displayed in the network
+<a href="net-wireless-hidden.html.it" title="Connettersi a una rete WiFi nascosta">Connettersi a una rete WiFi nascosta</a><span class="desc"> — Connect to a wireless network that is not displayed in the network
     list.</span>
 </li></ul></div>
 </div></div>

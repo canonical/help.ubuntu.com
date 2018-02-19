@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Узнайте больше</span></h1></div>
@@ -54,17 +54,17 @@
   </p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="about-this-guide.html" title="Об этом руководстве"><span class="title">Об этом руководстве</span><span class="linkdiv-dash"> — </span><span class="desc">Несколько советов по использованию руководства пользователя Ubuntu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html" title="Сообщите о неисправности в Ubuntu"><span class="title">Сообщите о неисправности в Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Как и куда сообщить о проблемах с Ubuntu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="about-this-guide.html.ru" title="Об этом руководстве"><span class="title">Об этом руководстве</span><span class="linkdiv-dash"> — </span><span class="desc">Несколько советов по использованию руководства пользователя Ubuntu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html.ru" title="Сообщите о неисправности в Ubuntu"><span class="title">Сообщите о неисправности в Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Как и куда сообщить о проблемах с Ubuntu.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="get-involved.html" title="Участвуйте в улучшении этого руководства"><span class="title">Участвуйте в улучшении этого руководства</span><span class="linkdiv-dash"> — </span><span class="desc">Как и куда сообщать об ошибках в этом руководстве.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="get-involved.html.ru" title="Участвуйте в улучшении этого руководства"><span class="title">Участвуйте в улучшении этого руководства</span><span class="linkdiv-dash"> — </span><span class="desc">Как и куда сообщать об ошибках в этом руководстве.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Руководство пользователя Ubuntu">Руководство пользователя Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.ru" title="Руководство пользователя Ubuntu">Руководство пользователя Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

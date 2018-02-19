@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Menulis berkas ke CD atau DVD</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">You can put files onto a blank disc by using <span class="gui">CD/DVD Creator</span>.
   The option to create a CD or DVD will appear in the file manager as soon as
   you place the CD into your CD/DVD writer. The file manager lets you transfer
-  files to other computers or perform <span class="link"><a href="backup-why.html" title="Backup berkas-berkas penting Anda">backups</a></span> by
+  files to other computers or perform <span class="link"><a href="backup-why.html.id" title="Backup berkas-berkas penting Anda">backups</a></span> by
   putting files onto a blank disc. To write files to a CD or DVD:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Place an empty disc into your CD/DVD writable drive.</p></li>
@@ -95,7 +95,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-general.html" title="Verkkojen nimikkeet ja vinkit">Verkkojen nimikkeet ja vinkit</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-general.html.fi" title="Verkkojen nimikkeet ja vinkit">Verkkojen nimikkeet ja vinkit</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Internet ja turvassa pysyminen</span></h1></div>
@@ -59,9 +59,9 @@
 <p class="p">Linux-asennuksesi turvallisuudesta huolimatta ohjelmistoissa on aina vikoja. Internet-käyttäjänä olet myös kohteena seuraaville uhkille:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Tietojenkalasteluyritykset (sivustot ja sähköpostit, jotka yrittävät hankkia arkaluonteista tietoa petoksen avulla)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html" title="Pitääkö minun skannata sähköpostit virusten varalta?">Haitallisten sähköpostiviestien välittäminen</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html" title="Tarvitsenko virustentorjuntaohjelman?">Paha-aikeiset ohjelmat (eli virukset)</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html" title="Mitä WEP ja WPA tarkoittavat?">Unauthorized remote/local network
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.fi" title="Pitääkö minun skannata sähköpostit virusten varalta?">Haitallisten sähköpostiviestien välittäminen</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.fi" title="Tarvitsenko virustentorjuntaohjelman?">Paha-aikeiset ohjelmat (eli virukset)</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.fi" title="Mitä WEP ja WPA tarkoittavat?">Unauthorized remote/local network
       access</a></span></p></li>
 </ul></div></div></div>
 <p class="p">Edistä tietoturvaasi pitämällä nämä asiat mielessä:</p>
@@ -72,11 +72,11 @@
       information you are submitting and the potential consequences if that
       information is compromised by identity thieves or other criminals.</p></li>
 <li class="list"><p class="p">Be careful in providing
-      <span class="link"><a href="user-admin-explain.html" title="Kuinka pääkäyttäjäoikeudet toimivat?">root level permissions</a></span> to any
+      <span class="link"><a href="user-admin-explain.html.fi" title="Kuinka pääkäyttäjäoikeudet toimivat?">root level permissions</a></span> to any
       application, especially ones that you have not used before or which are
       not well-known. Providing anyone or anything with root level permissions
       puts your computer at high risk to exploitation.</p></li>
-<li class="list"><p class="p">Pidä auki vain niitä verkkoyhteyksiä, joita oikeasti tarvitset. <span class="app">SSH</span> tai <span class="app">VNC</span> -yhteydet voivat olla hyödyllisiä, mutta ilman asianmukaisia suojauksia altistavat myös hyökkäyksille. Harkitse tarvittaessa tietokoneesi suojaamista <span class="link"><a href="net-firewall-on-off.html" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">palomuurilla</a></span>.</p></li>
+<li class="list"><p class="p">Pidä auki vain niitä verkkoyhteyksiä, joita oikeasti tarvitset. <span class="app">SSH</span> tai <span class="app">VNC</span> -yhteydet voivat olla hyödyllisiä, mutta ilman asianmukaisia suojauksia altistavat myös hyökkäyksille. Harkitse tarvittaessa tietokoneesi suojaamista <span class="link"><a href="net-firewall-on-off.html.fi" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">palomuurilla</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -84,7 +84,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Verkkojen nimikkeet ja vinkit">Verkkojen nimikkeet ja vinkit</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="IP-osoitteen selvittäminen">IP-osoitteen selvittäminen</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Mitä WEP ja WPA tarkoittavat?">WEP- ja WPA-turvallisuus</a></span>, <span class="link"><a href="net-macaddress.html" title="Mikä MAC-osoite on?">MAC-osoitteet</a></span>, <span class="link"><a href="net-proxy.html" title="Määritä välityspalvelimen asetukset">välityspalvelimet</a></span>…</span>
+<a href="net-general.html.fi" title="Verkkojen nimikkeet ja vinkit">Verkkojen nimikkeet ja vinkit</a><span class="desc"> — <span class="link"><a href="net-findip.html.fi" title="IP-osoitteen selvittäminen">IP-osoitteen selvittäminen</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.fi" title="Mitä WEP ja WPA tarkoittavat?">WEP- ja WPA-turvallisuus</a></span>, <span class="link"><a href="net-macaddress.html.fi" title="Mikä MAC-osoite on?">MAC-osoitteet</a></span>, <span class="link"><a href="net-proxy.html.fi" title="Määritä välityspalvelimen asetukset">välityspalvelimet</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

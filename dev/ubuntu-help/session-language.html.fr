@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="prefs-language.html" title="Pays &amp; langue.">Pays &amp; langue.</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="prefs-language.html.fr" title="Pays &amp; langue.">Pays &amp; langue.</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Modification de la langue</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Vous pouvez utiliser votre bureau et vos applications dans des dizaines de langues différentes, à condition que les paquets de langue correspondants soient installés sur votre ordinateur.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Pays &amp; langue</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Langue</span>.</p></li>
@@ -71,13 +71,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Pays &amp; langue.">Pays &amp; langue.</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Modification de la langue">Langue</a></span>, <span class="link"><a href="session-formats.html" title="Modification des formats de la date et du système de mesure">région et formats</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Utiliser des configurations de clavier alternatives">agencement du clavier</a></span>…</span>
+<a href="prefs-language.html.fr" title="Pays &amp; langue.">Pays &amp; langue.</a><span class="desc"> — <span class="link"><a href="session-language.html.fr" title="Modification de la langue">Langue</a></span>, <span class="link"><a href="session-formats.html.fr" title="Modification des formats de la date et du système de mesure">région et formats</a></span>, <span class="link"><a href="keyboard-layouts.html.fr" title="Utiliser des configurations de clavier alternatives">agencement du clavier</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-formats.html" title="Modification des formats de la date et du système de mesure">Modification des formats de la date et du système de mesure</a><span class="desc"> — Choisir une région afin de définir la date et l'heure, les nombres, la devise et le système de mesure.</span>
+<a href="session-formats.html.fr" title="Modification des formats de la date et du système de mesure">Modification des formats de la date et du système de mesure</a><span class="desc"> — Choisir une région afin de définir la date et l'heure, les nombres, la devise et le système de mesure.</span>
 </li></ul></div>
 </div></div>
 </div>

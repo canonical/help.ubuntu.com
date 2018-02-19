@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="mouse.html" title="マウス">マウス</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="mouse.html.ja" title="マウス">マウス</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="mouse.html" title="マウス">マウス</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ja" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="mouse.html.ja" title="マウス">マウス</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="region"><div class="contents">
 <p class="p">You can tap your touchpad to click instead of using a button.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps">
@@ -73,8 +73,8 @@
 <li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
       second tap. Drag the item where you want it, then lift your finger to
       drop.</p></li>
-<li class="list"><p class="p">タッチパッドがマルチタップをサポートしているなら、いちどに2つの指でタップすることで右クリックすることができます。サポートしていない場合は右クリックボタンが必要です。マウスの副ボタンを使わず右クリックする方法については<span class="link"><a href="a11y-right-click.html" title="右クリックを代替する">右クリックを代替する</a></span>を参照してください。</p></li>
-<li class="list"><p class="p">タッチパッドがマルチタップをサポートしているなら、 3つの指を同時にタップして<span class="link"><a href="mouse-middleclick.html" title="中クリック">中クリック</a></span>ができます。</p></li>
+<li class="list"><p class="p">タッチパッドがマルチタップをサポートしているなら、いちどに2つの指でタップすることで右クリックすることができます。サポートしていない場合は右クリックボタンが必要です。マウスの副ボタンを使わず右クリックする方法については<span class="link"><a href="a11y-right-click.html.ja" title="右クリックを代替する">右クリックを代替する</a></span>を参照してください。</p></li>
+<li class="list"><p class="p">タッチパッドがマルチタップをサポートしているなら、 3つの指を同時にタップして<span class="link"><a href="mouse-middleclick.html.ja" title="中クリック">中クリック</a></span>ができます。</p></li>
 </ul></div></div></div>
 <div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
     are spread far enough apart. If your fingers are too close, your computer
@@ -86,7 +86,7 @@
 <div class="region"><div class="contents">
 <p class="p">You can scroll using your touchpad using two fingers.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Two finger
@@ -107,7 +107,7 @@
 <p class="p">You can drag content as if sliding a physical piece of paper using the
   touchpad.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Natural
@@ -121,7 +121,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html" title="マウス">マウス</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="左手でマウスを使う">左手で利用する</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="マウスやタッチパッドの速度を調節する">速度と感度</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">タッチパッドでクリックとスクロール</a></span>…</span>
+<a href="mouse.html.ja" title="マウス">マウス</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.ja" title="左手でマウスを使う">左手で利用する</a></span>, <span class="link"><a href="mouse-sensitivity.html.ja" title="マウスやタッチパッドの速度を調節する">速度と感度</a></span>, <span class="link"><a href="mouse-touchpad-click.html.ja" title="Click, drag, or scroll with the touchpad">タッチパッドでクリックとスクロール</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

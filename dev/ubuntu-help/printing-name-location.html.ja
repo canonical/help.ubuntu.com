@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="printing.html" title="印刷">印刷</a> › <a class="trail" href="printing.html#setup" title="プリンターをセットアップする">設定</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="printing.html.ja" title="印刷">印刷</a> › <a class="trail" href="printing.html.ja#setup" title="プリンターをセットアップする">設定</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">プリンターの名前または場所を変更する</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">プリンターの名前または場所をプリンター設定で変更できます。</p>
-<div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">You need <span class="link"><a href="user-admin-explain.html" title="How do administrative privileges work?">administrative privileges</a></span>
+<div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">You need <span class="link"><a href="user-admin-explain.html.ja" title="How do administrative privileges work?">administrative privileges</a></span>
     on the system to change the name or location of a printer.</p></div></div></div></div>
 </div>
 <div id="printer-name-change" class="sect"><div class="inner">
@@ -58,7 +58,7 @@
 <div class="region"><div class="contents">
 <p class="p">プリンター名を変更する手順は次のとおりです。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
 <li class="steps"><p class="p">右上にある<span class="gui">ロック解除</span>ボタンをクリックして、パスワードを入力します。</p></li>
@@ -73,7 +73,7 @@
 <div class="region"><div class="contents">
 <p class="p">プリンターの場所を変更します。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
 <li class="steps"><p class="p">右上にある<span class="gui">ロック解除</span>ボタンをクリックして、パスワードを入力します。</p></li>
@@ -87,12 +87,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="プリンターをセットアップする">プリンターをセットアップする</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.ja#setup" title="プリンターをセットアップする">プリンターをセットアップする</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-admin-explain.html" title="How do administrative privileges work?">How do administrative privileges work?</a><span class="desc"> — You need administrative privileges to change important parts of your
+<a href="user-admin-explain.html.ja" title="How do administrative privileges work?">How do administrative privileges work?</a><span class="desc"> — You need administrative privileges to change important parts of your
     system.</span>
 </li></ul></div>
 </div></div>

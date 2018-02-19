@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="accounts.html" title="Nätkonton">Nätkonton</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="accounts.html.sv" title="Nätkonton">Nätkonton</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nättjänster och program</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">När du har lagt till ett nätkonto kan vilket program som helst använda det kontot för vilken tillgänglig tjänst som helst som du inte har <span class="link"><a href="accounts-disable-service.html" title="Styr vilka nättjänster ett konto kan användas med">inaktiverat</a></span>. Olika leverantörer tillhandahåller olika tjänster. Denna sida listar de olika tjänsterna och några av programmen som använder dem.</p>
+<p class="p">När du har lagt till ett nätkonto kan vilket program som helst använda det kontot för vilken tillgänglig tjänst som helst som du inte har <span class="link"><a href="accounts-disable-service.html.sv" title="Styr vilka nättjänster ett konto kan användas med">inaktiverat</a></span>. Olika leverantörer tillhandahåller olika tjänster. Denna sida listar de olika tjänsterna och några av programmen som använder dem.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Kalender</dt>
 <dd class="terms"><p class="p">Kalender-tjänsten låter dig visa, lägga till och redigera händelser i en nätkalender. Den används av program så som <span class="app">Kalender</span>, <span class="app">Evolution</span> och <span class="app">California</span>.</p></dd>
@@ -60,7 +60,7 @@
 <dt class="terms">Dokument</dt>
 <dd class="terms"><p class="p">Dokument-tjänsten låter dig visa dina nätdokument, t.ex. de i Google docs. Du kan visa dina dokument via programmet <span class="app">Dokument</span>.</p></dd>
 <dt class="terms">Filer</dt>
-<dd class="terms"><p class="p">Filer-tjänsten lägger till en plats för fjärrfiler, som om du hade lagt till en via funktionaliteten <span class="link"><a href="nautilus-connect.html" title="Bläddra genom filer på en server eller nätverksutdelning">Anslut till server</a></span> i filhanteraren. Du kan nå fjärrfiler genom filhanteraren, samt genom dialoger för att öppna och spara filer i vilket program som helst.</p></dd>
+<dd class="terms"><p class="p">Filer-tjänsten lägger till en plats för fjärrfiler, som om du hade lagt till en via funktionaliteten <span class="link"><a href="nautilus-connect.html.sv" title="Bläddra genom filer på en server eller nätverksutdelning">Anslut till server</a></span> i filhanteraren. Du kan nå fjärrfiler genom filhanteraren, samt genom dialoger för att öppna och spara filer i vilket program som helst.</p></dd>
 <dt class="terms">E-post</dt>
 <dd class="terms"><p class="p">E-post-tjänsten låter dig skicka och ta emot e-post via en e-post-leverantör så som Google. Den används av <span class="app">Evolution</span>.</p></dd>
 <dt class="terms">Foton</dt>
@@ -77,13 +77,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Nätkonton">Nätkonton</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Lägg till ett konto">Lägg till ett nätkonto</a></span>, <span class="link"><a href="accounts-remove.html" title="Ta bort ett konto">Ta bort ett konto</a></span>, <span class="link"><a href="accounts-which-application.html" title="Nättjänster och program">Lär dig om tjänster</a></span>…</span>
+<a href="accounts.html.sv" title="Nätkonton">Nätkonton</a><span class="desc"> — <span class="link"><a href="accounts-add.html.sv" title="Lägg till ett konto">Lägg till ett nätkonto</a></span>, <span class="link"><a href="accounts-remove.html.sv" title="Ta bort ett konto">Ta bort ett konto</a></span>, <span class="link"><a href="accounts-which-application.html.sv" title="Nättjänster och program">Lär dig om tjänster</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="Styr vilka nättjänster ett konto kan användas med">Styr vilka nättjänster ett konto kan användas med</a><span class="desc"> — Vissa nätkonton kan användas för att nå flera tjänster (exempelvis kalender och e-post). Du kan styra vilken av dessa tjänster som kan användas av program.</span>
+<a href="accounts-disable-service.html.sv" title="Styr vilka nättjänster ett konto kan användas med">Styr vilka nättjänster ett konto kan användas med</a><span class="desc"> — Vissa nätkonton kan användas för att nå flera tjänster (exempelvis kalender och e-post). Du kan styra vilken av dessa tjänster som kan användas av program.</span>
 </li></ul></div>
 </div></div>
 </div>

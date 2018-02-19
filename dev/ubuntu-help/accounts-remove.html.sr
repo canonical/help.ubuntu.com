@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="accounts.html" title="Налози на мрежи">Налози на мрежи</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="accounts.html.sr" title="Налози на мрежи">Налози на мрежи</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Уклоните налог</span></h1></div>
@@ -55,13 +55,13 @@
 <p class="p">Како да опозовете овлашћење зависи од достављача услуге. Проверите ваша подешавања на веб сајту достављача за овлашћене или повезане програме или сајтове. Потражите програм под називом „Гном“ и уклоните га.</p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-terminology.html" title="shell-terminology">Активности</a></span> и почните да куцате <span class="gui">Налози на мрежи</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-terminology.html.sr" title="shell-terminology">Активности</a></span> и почните да куцате <span class="gui">Налози на мрежи</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">налоге на мрежи</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Изаберите налог који желите да уклоните.</p></li>
 <li class="steps"><p class="p">Кликните на дугме <span class="gui">-</span> у доњем левом углу прозора.</p></li>
 <li class="steps"><p class="p">Кликните <span class="gui">Уклони</span> у прозорчету за потврду.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Уместо потпуног брисања налога, можете да <span class="link"><a href="accounts-disable-service.html" title="Одредите којим услугама на мрежи може да приступи налог">ограничите услуге</a></span> којима може да приступи ваша радна површ.</p></div></div></div></div>
+<div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Уместо потпуног брисања налога, можете да <span class="link"><a href="accounts-disable-service.html.sr" title="Одредите којим услугама на мрежи може да приступи налог">ограничите услуге</a></span> којима може да приступи ваша радна површ.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -69,13 +69,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Налози на мрежи">Налози на мрежи</a><span class="desc"> — <span class="link"><a href="accounts-create.html" title="accounts-create">Додајте налог на мрежи</a></span>, <span class="link"><a href="accounts-add.html" title="Додајте налог">Уклоните налог</a></span>, <span class="link"><a href="accounts-remove.html" title="Уклоните налог">Сазнајте о услугама</a></span>…</span>
+<a href="accounts.html.sr" title="Налози на мрежи">Налози на мрежи</a><span class="desc"> — <span class="link"><a href="accounts-create.html.sr" title="accounts-create">Додајте налог на мрежи</a></span>, <span class="link"><a href="accounts-add.html.sr" title="Додајте налог">Уклоните налог</a></span>, <span class="link"><a href="accounts-remove.html.sr" title="Уклоните налог">Сазнајте о услугама</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="Одредите којим услугама на мрежи може да приступи налог">Одредите којим услугама на мрежи може да приступи налог</a><span class="desc"> — Неки налози на мрежи могу бити коришћени за приступ неколико услуга (као календар и е-пошта). Можете да одредите које од ових услуга могу да користе програми.</span>
+<a href="accounts-disable-service.html.sr" title="Одредите којим услугама на мрежи може да приступи налог">Одредите којим услугама на мрежи може да приступи налог</a><span class="desc"> — Неки налози на мрежи могу бити коришћени за приступ неколико услуга (као календар и е-пошта). Можете да одредите које од ових услуга могу да користе програми.</span>
 </li></ul></div>
 </div></div>
 </div>

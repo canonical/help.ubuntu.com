@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,28 +54,28 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html" title="Imitēt klikšķinātu turot peli virs"><span class="title">Imitēt klikšķinātu turot peli virs</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">Virs-novietošanas klikšķa</span> (apstājas klikšķa) iespēja jums ļauj klikšķināt, turot peli nekustīgu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html" title="Izmantot peli kā kreilim"><span class="title">Izmantot peli kā kreilim</span><span class="linkdiv-dash"> — </span><span class="desc">Apgriez kreiso un labo peles pogu, peles iestatījumos.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html" title="Klikšķini un kustini peles rādītāju, izmantojot papildtastatūru"><span class="title">Klikšķini un kustini peles rādītāju, izmantojot papildtastatūru</span><span class="linkdiv-dash"> — </span><span class="desc">Aktivē peles taustiņus, lai kontrolētu peli ar papildtastatūru.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html" title="Pielāgo dubultklikšķa ātrumu"><span class="title">Pielāgo dubultklikšķa ātrumu</span><span class="linkdiv-dash"> — </span><span class="desc">Kontrolē to, cik ātri jāspiež peles poga otro reizi, lai izpildītos dubultklikšķis.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.lv" title="Imitēt klikšķinātu turot peli virs"><span class="title">Imitēt klikšķinātu turot peli virs</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">Virs-novietošanas klikšķa</span> (apstājas klikšķa) iespēja jums ļauj klikšķināt, turot peli nekustīgu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html.lv" title="Izmantot peli kā kreilim"><span class="title">Izmantot peli kā kreilim</span><span class="linkdiv-dash"> — </span><span class="desc">Apgriez kreiso un labo peles pogu, peles iestatījumos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.lv" title="Klikšķini un kustini peles rādītāju, izmantojot papildtastatūru"><span class="title">Klikšķini un kustini peles rādītāju, izmantojot papildtastatūru</span><span class="linkdiv-dash"> — </span><span class="desc">Aktivē peles taustiņus, lai kontrolētu peli ar papildtastatūru.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.lv" title="Pielāgo dubultklikšķa ātrumu"><span class="title">Pielāgo dubultklikšķa ātrumu</span><span class="linkdiv-dash"> — </span><span class="desc">Kontrolē to, cik ātri jāspiež peles poga otro reizi, lai izpildītos dubultklikšķis.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html" title="Piemērot peles vai skārienpaliktņa ātrumu"><span class="title">Piemērot peles vai skārienpaliktņa ātrumu</span><span class="linkdiv-dash"> — </span><span class="desc">Iestati to, cik ātri peles rādītājs kustās, izmantojot peli vai skārienpaliktni.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html" title="Simulēt peles labā taustiņa klikšķi"><span class="title">Simulēt peles labā taustiņa klikšķi</span><span class="linkdiv-dash"> — </span><span class="desc">Spiediet un turiet kreiso peles pogu, lai veiktu klikšķi ar labo taustiņu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html" title="Spiediet, velciet vai ritiniet ar skārienpaliktni"><span class="title">Spiediet, velciet vai ritiniet ar skārienpaliktni</span><span class="linkdiv-dash"> — </span><span class="desc">Spiediet, velciet vai ritiniet, izmantojot sitienus un žestus uz skārienpaliktņa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.lv" title="Piemērot peles vai skārienpaliktņa ātrumu"><span class="title">Piemērot peles vai skārienpaliktņa ātrumu</span><span class="linkdiv-dash"> — </span><span class="desc">Iestati to, cik ātri peles rādītājs kustās, izmantojot peli vai skārienpaliktni.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.lv" title="Simulēt peles labā taustiņa klikšķi"><span class="title">Simulēt peles labā taustiņa klikšķi</span><span class="linkdiv-dash"> — </span><span class="desc">Spiediet un turiet kreiso peles pogu, lai veiktu klikšķi ar labo taustiņu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.lv" title="Spiediet, velciet vai ritiniet ar skārienpaliktni"><span class="title">Spiediet, velciet vai ritiniet ar skārienpaliktni</span><span class="linkdiv-dash"> — </span><span class="desc">Spiediet, velciet vai ritiniet, izmantojot sitienus un žestus uz skārienpaliktņa.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Biežākās problēmas</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html" title="Pelei ir aizture, pirms tā sāk strādāt"><span class="title">Pelei ir aizture, pirms tā sāk strādāt</span><span class="linkdiv-dash"> — </span><span class="desc">Ja tev vajag pakustināt vai nospiest peli, pirms tā sāk reaģēt.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html" title="Peles rādītājs nekustās"><span class="title">Peles rādītājs nekustās</span><span class="linkdiv-dash"> — </span><span class="desc">Kā pārbaudīt to, kāpēc jūsu pele nestrādā.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.lv" title="Pelei ir aizture, pirms tā sāk strādāt"><span class="title">Pelei ir aizture, pirms tā sāk strādāt</span><span class="linkdiv-dash"> — </span><span class="desc">Ja tev vajag pakustināt vai nospiest peli, pirms tā sāk reaģēt.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.lv" title="Peles rādītājs nekustās"><span class="title">Peles rādītājs nekustās</span><span class="linkdiv-dash"> — </span><span class="desc">Kā pārbaudīt to, kāpēc jūsu pele nestrādā.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="tips" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Padomi</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Vidējais klikšķis"><span class="title">Vidējais klikšķis</span><span class="linkdiv-dash"> — </span><span class="desc">Izmanto peles vidējo pogu, lai atvērtu lietotnes, atvērtu cilnes un vēl.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.lv" title="Vidējais klikšķis"><span class="title">Vidējais klikšķis</span><span class="linkdiv-dash"> — </span><span class="desc">Izmanto peles vidējo pogu, lai atvērtu lietotnes, atvērtu cilnes un vēl.</span></a></div></div>
 <div class="links-twocolumn"></div>
 </div></div></div></div></div>
 </div></div>
@@ -85,10 +85,10 @@
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html" title="Aparatūra un draiveri">Aparatūra un draiveri</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Biežākās problēmas">Aparatūras problēmas</a></span>, <span class="link"><a href="printing.html" title="Drukāšana">printeri</a></span>, <span class="link"><a href="power.html" title="Barošana un baterija">barošanas iestatījumi</a></span>, <span class="link"><a href="color.html" title="Krāsu pārvaldība">krāsu pārvaldība</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Diski un uzglabāšana">diski</a></span>…</span>
+<a href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra un draiveri</a><span class="desc"> — <span class="link"><a href="hardware.html.lv#problems" title="Biežākās problēmas">Aparatūras problēmas</a></span>, <span class="link"><a href="printing.html.lv" title="Drukāšana">printeri</a></span>, <span class="link"><a href="power.html.lv" title="Barošana un baterija">barošanas iestatījumi</a></span>, <span class="link"><a href="color.html.lv" title="Krāsu pārvaldība">krāsu pārvaldība</a></span>, <span class="link"><a href="bluetooth.html.lv" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.lv" title="Diski un uzglabāšana">diski</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Lietotājs un sistēmas iestatījumi</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tastatūra">Tastatūra</a></span>, <span class="link"><a href="mouse.html" title="Pele">pele</a></span>, <span class="link"><a href="prefs-display.html" title="Displejs un ekrāns">displejs</a></span>, <span class="link"><a href="prefs-language.html" title="Vieta un valoda">valodas</a></span>, <span class="link"><a href="user-accounts.html" title="Lietotāju konti">lietotāju konti</a></span>…</span>
+<a href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Lietotājs un sistēmas iestatījumi</a><span class="desc"> — <span class="link"><a href="keyboard.html.lv" title="Tastatūra">Tastatūra</a></span>, <span class="link"><a href="mouse.html.lv" title="Pele">pele</a></span>, <span class="link"><a href="prefs-display.html.lv" title="Displejs un ekrāns">displejs</a></span>, <span class="link"><a href="prefs-language.html.lv" title="Vieta un valoda">valodas</a></span>, <span class="link"><a href="user-accounts.html.lv" title="Lietotāju konti">lietotāju konti</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

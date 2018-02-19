@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-wired.html" title="Conexiones cableadas">Conexiones cableadas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-wired.html.es" title="Conexiones cableadas">Conexiones cableadas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Crear una conexión con una dirección IP fija</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">La mayoría de las redes asignan automáticamente una <span class="link"><a href="net-what-is-ip-address.html" title="¿Qué es una dirección IP?">dirección IP</a></span> y otros detalles al equipo cuando se conecta a la red. Estos detalles pueden cambiar cada cierto tiempo, pero puede querer tener una dirección IP fija en el equipo, para saber siempre qué dirección tiene (por ejemplo, si es un servidor de archivos).</p>
+<p class="p">La mayoría de las redes asignan automáticamente una <span class="link"><a href="net-what-is-ip-address.html.es" title="¿Qué es una dirección IP?">dirección IP</a></span> y otros detalles al equipo cuando se conecta a la red. Estos detalles pueden cambiar cada cierto tiempo, pero puede querer tener una dirección IP fija en el equipo, para saber siempre qué dirección tiene (por ejemplo, si es un servidor de archivos).</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Para dar a su equipo una dirección IP fija (estática):</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Red</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Red</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Red</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">En el panel de la izquierda, seleccione la conexión de red a la que quiere asignar una IP fija. Si se conecta a la red por cable, pulse en <span class="gui">Cableada</span>, y luego pulse el botón <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuración"></span></span> en la esquina inferior derecha del panel. Para una conexión <span class="gui">Inalámbrica</span>, el botón de <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuración"></span></span> se situará junto a la red activa.</p></li>
 <li class="steps"><p class="p">Pulse en la pestaña <span class="gui">IPv4</span> o <span class="gui">IPv6</span> y cambie la opción <span class="gui">Direcciones</span> a <span class="em">Manual</span>.</p></li>
@@ -70,13 +70,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html" title="Conexiones cableadas">Conexiones cableadas</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Conectar a una red cableada (Ethernet)">Conexiones de Internet cableadas</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Crear una conexión con una dirección IP fija">direcciones IP fijas</a></span>…</span>
+<a href="net-wired.html.es" title="Conexiones cableadas">Conexiones cableadas</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.es" title="Conectar a una red cableada (Ethernet)">Conexiones de Internet cableadas</a></span>, <span class="link"><a href="net-fixed-ip-address.html.es" title="Crear una conexión con una dirección IP fija">direcciones IP fijas</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-findip.html" title="Buscar su dirección IP">Buscar su dirección IP</a><span class="desc"> — Conocer su dirección IP le puede ayudar a resolver problemas de red.</span>
+<a href="net-findip.html.es" title="Buscar su dirección IP">Buscar su dirección IP</a><span class="desc"> — Conocer su dirección IP le puede ayudar a resolver problemas de red.</span>
 </li></ul></div>
 </div></div>
 </div>

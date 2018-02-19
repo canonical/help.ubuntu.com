@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="color.html" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html#calibration" title="Kalibrering">Kalibrering</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="color.html.sv" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html.sv#calibration" title="Kalibrering">Kalibrering</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="color.html" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html#calibration" title="Kalibrering">Kalibrering</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="color.html.sv" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html.sv#calibration" title="Kalibrering">Kalibrering</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Säkerställ att din bildlärare är ansluten till din dator med en kabel eller över nätverket.</p></li>
 <li class="steps"><p class="p">Läs in ditt kalibreringsmål och spara det som en okomprimerad TIFF-fil.</p></li>
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Färg</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Färg</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Färg</span> för att öppna panelen och välja din bildläsare.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="gui">Kalibrera…</span> för att påbörja kalibreringen.</p></li>
 </ol></div></div></div>
@@ -68,22 +68,22 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Kalibrering">Kalibrering</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.sv#calibration" title="Kalibrering">Kalibrering</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html" title="Hur kalibrerar jag min kamera?">Hur kalibrerar jag min kamera?</a><span class="desc"> — Att kalibrera din kamera är viktigt för att fånga korrekta färger.</span>
+<a href="color-calibrate-camera.html.sv" title="Hur kalibrerar jag min kamera?">Hur kalibrerar jag min kamera?</a><span class="desc"> — Att kalibrera din kamera är viktigt för att fånga korrekta färger.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html" title="Hur kalibrerar jag min skrivare?">Hur kalibrerar jag min skrivare?</a><span class="desc"> — Det är viktigt att kalibrera din skrivare för att utskriften ska ge rätt färger.</span>
+<a href="color-calibrate-printer.html.sv" title="Hur kalibrerar jag min skrivare?">Hur kalibrerar jag min skrivare?</a><span class="desc"> — Det är viktigt att kalibrera din skrivare för att utskriften ska ge rätt färger.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-screen.html" title="Hur kalibrerar jag min skärm?">Hur kalibrerar jag min skärm?</a><span class="desc"> — Att kalibrera din skärm är viktigt för att visa korrekta färger.</span>
+<a href="color-calibrate-screen.html.sv" title="Hur kalibrerar jag min skärm?">Hur kalibrerar jag min skärm?</a><span class="desc"> — Att kalibrera din skärm är viktigt för att visa korrekta färger.</span>
 </li>
 <li class="links ">
-<a href="color-calibrationtargets.html" title="Vilka måltyper finns det stöd för?">Vilka måltyper finns det stöd för?</a><span class="desc"> — Kalibreringsmål behövs för att genomföra profilering av bildläsare och kamera.</span>
+<a href="color-calibrationtargets.html.sv" title="Vilka måltyper finns det stöd för?">Vilka måltyper finns det stöd för?</a><span class="desc"> — Kalibreringsmål behövs för att genomföra profilering av bildläsare och kamera.</span>
 </li>
 </ul></div>
 </div></div>

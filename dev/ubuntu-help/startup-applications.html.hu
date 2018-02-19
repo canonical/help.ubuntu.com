@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Az asztal">Asztal</a> › <a class="trail" href="shell-overview.html#apps" title="Alkalmazások és ablakok">Alkalmazások és ablakok</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.hu" title="Az asztal">Asztal</a> › <a class="trail" href="shell-overview.html.hu#apps" title="Alkalmazások és ablakok">Alkalmazások és ablakok</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -68,9 +68,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-overview.html#apps" title="Alkalmazások és ablakok">Alkalmazások és ablakok</a></li>
+<li class="links "><a href="shell-overview.html.hu#apps" title="Alkalmazások és ablakok">Alkalmazások és ablakok</a></li>
 <li class="links ">
-<a href="prefs.html" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Billentyűzet">Billentyűzet</a></span>, <span class="link"><a href="mouse.html" title="Egér">egér</a></span>, <span class="link"><a href="prefs-display.html" title="Megjelenítés és képernyő">kijelző</a></span>, <span class="link"><a href="prefs-language.html" title="Terület és nyelv">nyelvek</a></span>, <span class="link"><a href="user-accounts.html" title="Felhasználói fiókok">felhasználók</a></span>…</span>
+<a href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a><span class="desc"> — <span class="link"><a href="keyboard.html.hu" title="Billentyűzet">Billentyűzet</a></span>, <span class="link"><a href="mouse.html.hu" title="Egér">egér</a></span>, <span class="link"><a href="prefs-display.html.hu" title="Megjelenítés és képernyő">kijelző</a></span>, <span class="link"><a href="prefs-language.html.hu" title="Terület és nyelv">nyelvek</a></span>, <span class="link"><a href="user-accounts.html.hu" title="Felhasználói fiókok">felhasználók</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

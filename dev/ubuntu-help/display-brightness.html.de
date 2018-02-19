@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="prefs-display.html" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="prefs-display.html.de" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Häufige Probleme">Probleme</a> » <a class="trail" href="hardware-problems-graphics.html" title="Bildschirmprobleme">Bildschirmprobleme</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html.de#problems" title="Häufige Probleme">Probleme</a> » <a class="trail" href="hardware-problems-graphics.html.de" title="Bildschirmprobleme">Bildschirmprobleme</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,19 +54,19 @@
 <div class="region">
 <div class="contents">
 <p class="p">Abhängig von Ihrer Hardware können Sie die Bildschirmhelligkeit anpassen, um Energie zu sparen und/oder das Lesen in hellem Umgebungslicht zu verbessern.</p>
-<p class="p">Um die Bildschirmhelligkeit anzupassen, klicken Sie auf das <span class="gui"><a href="shell-introduction.html#yourname" title="Sie und Ihr Rechner">Systemmenü</a></span> auf der rechten Seite des oberen Panel und verschieben Sie den Schieberegler der Bildschirmhelligkeit. Die Änderung wird sofort umgesetzt.</p>
+<p class="p">Um die Bildschirmhelligkeit anzupassen, klicken Sie auf das <span class="gui"><a href="shell-introduction.html.de#yourname" title="Sie und Ihr Rechner">Systemmenü</a></span> auf der rechten Seite des oberen Panel und verschieben Sie den Schieberegler der Bildschirmhelligkeit. Die Änderung wird sofort umgesetzt.</p>
 <div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Viele Laptop-Tastaturen verfügen über spezielle Tasten, um die Helligkeit anzupassen. Üblicherweise zeigen diese Tasten die Abbildung einer Sonne. Halten Sie die <span class="key"><kbd class="key-Fn">Fn</kbd></span>-Taste gedrückt, um diese Tasten zu verwenden.</p></div></div></div></div>
 <p class="p">Sie können die Bildschirmhelligkeit auch im Bereich <span class="gui">Leistung</span> anpassen.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">So passen Sie die Bildschirmhelligkeit im <span class="gui">Leistung</span>-Panel an:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Leistung</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Leistung</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Leistung</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Stellen Sie den Schieberegler <span class="gui">Bildschirmhelligkeit</span> auf den gewünschten Wert. Die Änderung wird sofort wirksam.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Wenn Ihr Rechner über einen integrierten Helligkeitssensor verfügt, wird die Bildschirmhelligkeit automatisch für Sie angepasst. Sie können diese automatische Anpassung im <span class="gui">Leistung</span>-Panel deaktivieren.</p></div></div></div></div>
-<p class="p">Sofern es möglich ist, die Helligkeit Ihres Bildschirms einzustellen, dann können Sie den Bildschirm bei Untätigkeit automatisch abdunkeln lassen, um Energie zu sparen. Wenn Sie Ihren Rechner dann wieder bedienen, wird der Bildschirm wieder aufgehellt. Lesen Sie <span class="link"><a href="power-whydim.html" title="Warum wird mein Bildschirm nach einer Weile dunkler?">Warum wird mein Bildschirm nach einer Weile dunkler?</a></span> für weitere Informationen.</p>
+<p class="p">Sofern es möglich ist, die Helligkeit Ihres Bildschirms einzustellen, dann können Sie den Bildschirm bei Untätigkeit automatisch abdunkeln lassen, um Energie zu sparen. Wenn Sie Ihren Rechner dann wieder bedienen, wird der Bildschirm wieder aufgehellt. Lesen Sie <span class="link"><a href="power-whydim.html.de" title="Warum wird mein Bildschirm nach einer Weile dunkler?">Warum wird mein Bildschirm nach einer Weile dunkler?</a></span> für weitere Informationen.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -75,10 +75,10 @@
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Anpassen des Hintergrundes für den Schreibtisch und den Sperrbildschirm">Hintergrund</a></span>, <span class="link"><a href="look-resolution.html" title="Ändern der Auflösung und der Drehung des Bildschirms">Größe und Drehung</a></span>, Helligkeit …</span>
+<a href="prefs-display.html.de" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a><span class="desc"> — <span class="link"><a href="look-background.html.de" title="Anpassen des Hintergrundes für den Schreibtisch und den Sperrbildschirm">Hintergrund</a></span>, <span class="link"><a href="look-resolution.html.de" title="Ändern der Auflösung und der Drehung des Bildschirms">Größe und Drehung</a></span>, Helligkeit …</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Bildschirmprobleme">Bildschirmprobleme</a><span class="desc"> — Fehlerbeseitigung bei Bildschirm- und Grafikproblemen.</span>
+<a href="hardware-problems-graphics.html.de" title="Bildschirmprobleme">Bildschirmprobleme</a><span class="desc"> — Fehlerbeseitigung bei Bildschirm- und Grafikproblemen.</span>
 </li>
 </ul></div>
 </div></div>
@@ -86,16 +86,16 @@
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autobrightness.html" title="Automatische Helligkeit einschalten">Automatische Helligkeit einschalten</a><span class="desc"> — Automatisch die Bildschirmhelligkeit regeln, um den Akku zu schonen.</span>
+<a href="power-autobrightness.html.de" title="Automatische Helligkeit einschalten">Automatische Helligkeit einschalten</a><span class="desc"> — Automatisch die Bildschirmhelligkeit regeln, um den Akku zu schonen.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Energie sparen und die Lebensdauer des Akkus verlängern">Energie sparen und die Lebensdauer des Akkus verlängern</a><span class="desc"> — Tipps zur Reduzierung des Energieverbrauchs Ihres Rechners.</span>
+<a href="power-batterylife.html.de" title="Energie sparen und die Lebensdauer des Akkus verlängern">Energie sparen und die Lebensdauer des Akkus verlängern</a><span class="desc"> — Tipps zur Reduzierung des Energieverbrauchs Ihres Rechners.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="Kontrast anpassen">Kontrast anpassen</a><span class="desc"> — Lassen Sie Fenster und Knöpfe am Bildschirm kräftiger (oder schwächer) hervorstechen, so dass sie leichter zu sehen sind.</span>
+<a href="a11y-contrast.html.de" title="Kontrast anpassen">Kontrast anpassen</a><span class="desc"> — Lassen Sie Fenster und Knöpfe am Bildschirm kräftiger (oder schwächer) hervorstechen, so dass sie leichter zu sehen sind.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="Warum wird mein Bildschirm nach einer Weile dunkler?">Warum wird mein Bildschirm nach einer Weile dunkler?</a><span class="desc"> — Der Bildschirm wird bei Untätigkeit abgedunkelt, um Energie zu sparen.</span>
+<a href="power-whydim.html.de" title="Warum wird mein Bildschirm nach einer Weile dunkler?">Warum wird mein Bildschirm nach einer Weile dunkler?</a><span class="desc"> — Der Bildschirm wird bei Untätigkeit abgedunkelt, um Energie zu sparen.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html" title="Узнайте больше">Узнайте больше</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.ru" title="Узнайте больше">Узнайте больше</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Участвуйте в улучшении этого руководства</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Эта справочная система создана сообществом добровольцев. Мы будем рады, если вы примете участие в развитии. Если вы обнаружили ошибку на страницах справки (например опечатки, неправильные инструкции или отсутствие тем, которые должны быть затронуты), то можно <span class="em">сообщить об ошибке</span>.</p>
 <p class="p">Чтобы сообщить об ошибке, нажмите <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> и введите <span class="input">ubuntu-bug ubuntu-docs</span>. Нажмите клавишу <span class="gui">Enter</span> для начала процесса сбора сведений об ошибке.</p>
-<p class="p">Обратитесь к <span class="link"><a href="report-ubuntu-bug.html" title="Сообщите о неисправности в Ubuntu">инструкции по отправке сообщений об ошибках в Ubuntu</a></span> для подробной информации о том, как сообщить об ошибке.</p>
+<p class="p">Обратитесь к <span class="link"><a href="report-ubuntu-bug.html.ru" title="Сообщите о неисправности в Ubuntu">инструкции по отправке сообщений об ошибках в Ubuntu</a></span> для подробной информации о том, как сообщить об ошибке.</p>
 <p class="p">Спасибо, что помогаете сделать справку Ubuntu лучше!</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -60,13 +60,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html" title="Узнайте больше">Узнайте больше</a><span class="desc"> — <span class="link"><a href="about-this-guide.html" title="Об этом руководстве">Советы по работе с этим руководством</a></span>, <span class="link"><a href="get-involved.html" title="Участвуйте в улучшении этого руководства">помощь в его улучшении</a></span>…</span>
+<a href="more-help.html.ru" title="Узнайте больше">Узнайте больше</a><span class="desc"> — <span class="link"><a href="about-this-guide.html.ru" title="Об этом руководстве">Советы по работе с этим руководством</a></span>, <span class="link"><a href="get-involved.html.ru" title="Участвуйте в улучшении этого руководства">помощь в его улучшении</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="report-ubuntu-bug.html" title="Сообщите о неисправности в Ubuntu">Сообщите о неисправности в Ubuntu</a><span class="desc"> — Как и куда сообщить о проблемах с Ubuntu.</span>
+<a href="report-ubuntu-bug.html.ru" title="Сообщите о неисправности в Ubuntu">Сообщите о неисправности в Ubuntu</a><span class="desc"> — Как и куда сообщить о проблемах с Ubuntu.</span>
 </li></ul></div>
 </div></div>
 </div>

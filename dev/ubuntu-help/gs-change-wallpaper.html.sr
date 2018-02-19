@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Почетак коришћења">Почетак коришћења Гнома</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.sr" title="Почетак коришћења">Почетак коришћења Гнома</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Промена датума, времена и временске зоне">Претходно</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.sr" title="Промена датума, времена и временске зоне">Претходно</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">Промена позадине</span></h1></div>
 <div class="region">
 <div class="contents"><div class="ui-tile ">
@@ -67,7 +67,7 @@
 <div id="change-wallpaper-overview" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Промена позадине</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Кликните на <span class="gui"><a href="shell-introduction.html#yourname" title="Ви и ваш рачунар">системски изборник</a></span> у десном делу горње траке.</p></li>
+<li class="steps"><p class="p">Кликните на <span class="gui"><a href="shell-introduction.html.sr#yourname" title="Ви и ваш рачунар">системски изборник</a></span> у десном делу горње траке.</p></li>
 <li class="steps"><p class="p">Кликните на дугме за подешавања у доњем левом делу изборника.</p></li>
 <li class="steps"><p class="p">Кликните на површ <span class="gui">Позадина</span>.</p></li>
 <li class="steps"><p class="p">Кликните на тренутну слику позадине на левој страни прозора <span class="gui">Позадина</span>.</p></li>
@@ -76,20 +76,20 @@
 <li class="steps"><p class="p">Затворите прозор <span class="gui">Позадина</span> кликом на икс дугме у горњем десном углу прозора.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Промена датума, времена и временске зоне">Претходно</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.sr" title="Промена датума, времена и временске зоне">Претходно</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Почетак коришћења">Почетак коришћења Гнома</a><span class="desc"> — Први пут користите Гном? Научите да га користите.</span>
+<a href="getting-started.html.sr" title="Почетак коришћења">Почетак коришћења Гнома</a><span class="desc"> — Први пут користите Гном? Научите да га користите.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-background.html" title="Измените радну површ и закључајте позадине екрана">Измените радну површ и закључајте позадине екрана</a><span class="desc"> — Поставите слику, боју, или прелив као позадину ваше радне површи или закључајте позадину екрана.</span>
+<a href="look-background.html.sr" title="Измените радну површ и закључајте позадине екрана">Измените радну површ и закључајте позадине екрана</a><span class="desc"> — Поставите слику, боју, или прелив као позадину ваше радне површи или закључајте позадину екрана.</span>
 </li></ul></div>
 </div></div>
 </div>

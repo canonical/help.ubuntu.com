@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> » <a class="trail" href="power.html" title="Alimentazione e batteria">Alimentazione e batteria</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> » <a class="trail" href="power.html.it" title="Alimentazione e batteria">Alimentazione e batteria</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="power.html" title="Alimentazione e batteria">Alimentazione e batteria</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="power.html.it" title="Alimentazione e batteria">Alimentazione e batteria</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -75,10 +75,10 @@ their useful lifetime, although you should not expect a big difference.</p>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Alimentazione e batteria">Alimentazione e batteria</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Cosa succede quando si sospende il computer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Perché lo schermo si oscura dopo un po' di tempo?">screen dimming</a></span>…
+<a href="power.html.it" title="Alimentazione e batteria">Alimentazione e batteria</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.it" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.it" title="Cosa succede quando si sospende il computer?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.it" title="Perché lo schermo si oscura dopo un po' di tempo?">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

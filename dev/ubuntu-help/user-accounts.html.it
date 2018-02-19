@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Account utente</span></h1></div>
@@ -56,32 +56,32 @@
 <div class="hgroup"><h2 class="title"><span class="title">Gestire gli account utente</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Aggiungere un nuovo account utente"><span class="title">Aggiungere un nuovo account utente</span><span class="linkdiv-dash"> — </span><span class="desc">Aggiungere nuovi utenti al sistema.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Cambiare la fotografia del proprio account"><span class="title">Cambiare la fotografia del proprio account</span><span class="linkdiv-dash"> — </span><span class="desc">Aggiungere la propria foto alla schermata di accesso e alla scrivania.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-add.html.it" title="Aggiungere un nuovo account utente"><span class="title">Aggiungere un nuovo account utente</span><span class="linkdiv-dash"> — </span><span class="desc">Aggiungere nuovi utenti al sistema.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html.it" title="Cambiare la fotografia del proprio account"><span class="title">Cambiare la fotografia del proprio account</span><span class="linkdiv-dash"> — </span><span class="desc">Aggiungere la propria foto alla schermata di accesso e alla scrivania.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Eliminare un account utente"><span class="title">Eliminare un account utente</span><span class="linkdiv-dash"> — </span><span class="desc">Rimuovere gli utenti che non utilizzano più il computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Log in automatically"><span class="title">Log in automatically</span><span class="linkdiv-dash"> — </span><span class="desc">Set up automatic login for when you switch on your computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html.it" title="Eliminare un account utente"><span class="title">Eliminare un account utente</span><span class="linkdiv-dash"> — </span><span class="desc">Rimuovere gli utenti che non utilizzano più il computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html.it" title="Log in automatically"><span class="title">Log in automatically</span><span class="linkdiv-dash"> — </span><span class="desc">Set up automatic login for when you switch on your computer.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="passwords" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Password</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html" title="Cambiare la propria password"><span class="title">Cambiare la propria password</span><span class="linkdiv-dash"> — </span><span class="desc">Mantenere il proprio account sicuro modificando spesso la password nelle impostazioni dell'account.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html" title="Scegliere una password sicura"><span class="title">Scegliere una password sicura</span><span class="linkdiv-dash"> — </span><span class="desc">Usare password più lunghe e complicate.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html.it" title="Cambiare la propria password"><span class="title">Cambiare la propria password</span><span class="linkdiv-dash"> — </span><span class="desc">Mantenere il proprio account sicuro modificando spesso la password nelle impostazioni dell'account.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html.it" title="Scegliere una password sicura"><span class="title">Scegliere una password sicura</span><span class="linkdiv-dash"> — </span><span class="desc">Usare password più lunghe e complicate.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="privileges" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Privilegi utente</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html" title="Come funzionano i privilegi di amministrazione?"><span class="title">Come funzionano i privilegi di amministrazione?</span><span class="linkdiv-dash"> — </span><span class="desc">You need administrative privileges to change important parts of your
+<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.it" title="Come funzionano i privilegi di amministrazione?"><span class="title">Come funzionano i privilegi di amministrazione?</span><span class="linkdiv-dash"> — </span><span class="desc">You need administrative privileges to change important parts of your
     system.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html" title="Concedere i privilegi di amministrazione"><span class="title">Concedere i privilegi di amministrazione</span><span class="linkdiv-dash"> — </span><span class="desc">You can allow users to make changes to the system by giving them
+<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.it" title="Concedere i privilegi di amministrazione"><span class="title">Concedere i privilegi di amministrazione</span><span class="linkdiv-dash"> — </span><span class="desc">You can allow users to make changes to the system by giving them
     administrative privileges.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html" title="Problemi causati dalla mancanza di privilegi di amministrazione"><span class="title">Problemi causati dalla mancanza di privilegi di amministrazione</span><span class="linkdiv-dash"> — </span><span class="desc">You can do some things, like installing applications, only if you
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.it" title="Problemi causati dalla mancanza di privilegi di amministrazione"><span class="title">Problemi causati dalla mancanza di privilegi di amministrazione</span><span class="linkdiv-dash"> — </span><span class="desc">You can do some things, like installing applications, only if you
     have administrative privileges.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
@@ -90,12 +90,12 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni utente e di sistema</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html" title="Tastiera">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html" title="Mouse">mouse</a></span>,
-      <span class="link"><a href="prefs-display.html" title="Visualizzazione e schermo">display</a></span>,
-      <span class="link"><a href="prefs-language.html" title="Region &amp; Language">languages</a></span>,
-      <span class="link"><a href="user-accounts.html" title="Account utente">user accounts</a></span>…
+<a href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni utente e di sistema</a><span class="desc"> — 
+      <span class="link"><a href="keyboard.html.it" title="Tastiera">Keyboard</a></span>,
+      <span class="link"><a href="mouse.html.it" title="Mouse">mouse</a></span>,
+      <span class="link"><a href="prefs-display.html.it" title="Visualizzazione e schermo">display</a></span>,
+      <span class="link"><a href="prefs-language.html.it" title="Region &amp; Language">languages</a></span>,
+      <span class="link"><a href="user-accounts.html.it" title="Account utente">user accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

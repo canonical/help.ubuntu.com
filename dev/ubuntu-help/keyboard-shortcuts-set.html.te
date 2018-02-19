@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="keyboard.html" title="కీబోర్డు">కీబోర్డు</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.te" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="keyboard.html.te" title="కీబోర్డు">కీబోర్డు</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="keyboard.html" title="కీబోర్డు">కీబోర్డు</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.te" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="keyboard.html.te" title="కీబోర్డు">కీబోర్డు</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">To change the key or keys to be pressed for a keyboard shortcut:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.te#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
       start typing <span class="gui">Keyboard</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Keyboard</span> to open the panel.</p></li>
 <li class="steps"><p class="p"><span class="gui">అడ్డదారుల</span> ట్యాబును ఎంపికచేయి.</p></li>
@@ -134,7 +134,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Move window one workspace up</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html.te" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Move window one workspace down</p></td>
@@ -515,13 +515,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="కీబోర్డు">కీబోర్డు</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">కీబోర్డు నమూనాలు</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Make the keyboard cursor blink">కర్సరు మిటకరణం</a></span>, <span class="link"><a href="a11y.html#mobility" title="చలన వైకల్యం">కీబోర్డు ప్రాపనీయత</a></span>…</span>
+<a href="keyboard.html.te" title="కీబోర్డు">కీబోర్డు</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.te" title="Use alternative keyboard layouts">కీబోర్డు నమూనాలు</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.te" title="Make the keyboard cursor blink">కర్సరు మిటకరణం</a></span>, <span class="link"><a href="a11y.html.te#mobility" title="చలన వైకల్యం">కీబోర్డు ప్రాపనీయత</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ఇవి కూడా చూడండి</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="ఉపయోగకరమైన కీబోర్డు అడ్డదారులు">ఉపయోగకరమైన కీబోర్డు అడ్డదారులు</a><span class="desc"> — Get around the desktop using the keyboard.</span>
+<a href="shell-keyboard-shortcuts.html.te" title="ఉపయోగకరమైన కీబోర్డు అడ్డదారులు">ఉపయోగకరమైన కీబోర్డు అడ్డదారులు</a><span class="desc"> — Get around the desktop using the keyboard.</span>
 </li></ul></div>
 </div></div>
 </div>

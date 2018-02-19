@@ -45,62 +45,62 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Logotip Ubuntu"></span></span> Vodič po namizju Ubuntu</span></h1></div>
-<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 17.10</span></div><div class="region"><div class="contents">
+<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 18.04</span></div><div class="region"><div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Naučite se kako se odjavite, preklapljate med uporabniki in še več.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Uvod v GNOME"><span class="title">Uvod v  GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.sl" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Naučite se kako se odjavite, preklapljate med uporabniki in še več.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.sl" title="Uvod v GNOME"><span class="title">Uvod v  GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
     <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Zaganjanje programov"><span class="title">Zaganjanje programov</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.sl" title="Zaganjanje programov"><span class="title">Zaganjanje programov</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="shell-overview.html" title="Your desktop">Your desktop</a></div>
+<div class="links-grid-link"><a href="shell-overview.html.sl" title="Your desktop">Your desktop</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="clock-calendar.html" title="Sestanki v koledarju">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="Obvestila in vrstica sporočanja">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="Uporabne tipkovne bližnjice">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="Okna in delovne površine">windows and workspaces</a></span>…
+      <span class="link"><a href="clock-calendar.html.sl" title="Sestanki v koledarju">Calendar</a></span>,
+      <span class="link"><a href="shell-notifications.html.sl" title="Obvestila in vrstica sporočanja">notifications</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.sl" title="Uporabne tipkovne bližnjice">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-windows.html.sl" title="Okna in delovne površine">windows and workspaces</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html" title="Brezžične povezave">Brezžično</a></span>, <span class="link"><a href="net-wired.html" title="Žične povezave">žično</a></span>, <span class="link"><a href="net-problem.html" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html" title="Spletni brskalniki">spletno brskanje</a></span>, <span class="link"><a href="net-email.html" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span></div>
+<div class="links-grid-link"><a href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.sl" title="Brezžične povezave">Brezžično</a></span>, <span class="link"><a href="net-wired.html.sl" title="Žične povezave">žično</a></span>, <span class="link"><a href="net-problem.html.sl" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html.sl" title="Spletni brskalniki">spletno brskanje</a></span>, <span class="link"><a href="net-email.html.sl" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html" title="Zvok, video in slike">Zvok, video in slike</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="media.html#photos" title="Fotografije in digitalni fotoaparati">Digitalni fotoaparati</a></span>, <span class="link"><a href="media.html#music" title="Glasba in prenosni predvajalniki zvoka">iPodi</a></span>, <span class="link"><a href="media.html#photos" title="Fotografije in digitalni fotoaparati">urejanje fotografij</a></span>, <span class="link"><a href="media.html#videos" title="Videoposnetki in video kamere">predvajanje videov</a></span> …</span></div>
+<div class="links-grid-link"><a href="media.html.sl" title="Zvok, video in slike">Zvok, video in slike</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="media.html.sl#photos" title="Fotografije in digitalni fotoaparati">Digitalni fotoaparati</a></span>, <span class="link"><a href="media.html.sl#music" title="Glasba in prenosni predvajalniki zvoka">iPodi</a></span>, <span class="link"><a href="media.html.sl#photos" title="Fotografije in digitalni fotoaparati">urejanje fotografij</a></span>, <span class="link"><a href="media.html.sl#videos" title="Videoposnetki in video kamere">predvajanje videov</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="files.html" title="Datoteke, mape in iskanje">Datoteke, mape in iskanje</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="files-search.html" title="Iskanje datotek">Iskanje</a></span>, <span class="link"><a href="files-delete.html" title="Izbris datotek in map">izbris datotek</a></span>, <span class="link"><a href="files.html#backup" title="Ustvarjanje varnostnih kopij">varnostne kopije</a></span>, <span class="link"><a href="files.html#removable" title="Odstranljivi pogoni in zunanji diski">odstranljivi pogoni</a></span> …</span></div>
+<div class="links-grid-link"><a href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke, mape in iskanje</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="files-search.html.sl" title="Iskanje datotek">Iskanje</a></span>, <span class="link"><a href="files-delete.html.sl" title="Izbris datotek in map">izbris datotek</a></span>, <span class="link"><a href="files.html.sl#backup" title="Ustvarjanje varnostnih kopij">varnostne kopije</a></span>, <span class="link"><a href="files.html.sl#removable" title="Odstranljivi pogoni in zunanji diski">odstranljivi pogoni</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a></div>
+<div class="links-grid-link"><a href="addremove.html.sl" title="Install &amp; remove software">Install &amp; remove software</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Odstranjevanje programov">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+      <span class="link"><a href="addremove-install.html.sl" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.sl" title="Odstranjevanje programov">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.sl" title="Add software repositories">add repositories</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs.html" title="Uporabniške in sistemske nastavitve">Uporabniške in sistemske nastavitve</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html" title="Tipkovnica">Tipkovnica</a></span>, <span class="link"><a href="mouse.html" title="Miška">miška</a></span>, <span class="link"><a href="prefs-display.html" title="Zaslon">zaslon</a></span>, <span class="link"><a href="prefs-language.html" title="Področje in jezik">jeziki</a></span>, <span class="link"><a href="user-accounts.html" title="Uporabniški računi">uporabniški računi</a></span> …</span></div>
+<div class="links-grid-link"><a href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Uporabniške in sistemske nastavitve</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a></span>, <span class="link"><a href="mouse.html.sl" title="Miška">miška</a></span>, <span class="link"><a href="prefs-display.html.sl" title="Zaslon">zaslon</a></span>, <span class="link"><a href="prefs-language.html.sl" title="Področje in jezik">jeziki</a></span>, <span class="link"><a href="user-accounts.html.sl" title="Uporabniški računi">uporabniški računi</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema in gonilniki</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="hardware.html#problems" title="Pogoste težave">Težave s strojno opremo</a></span>, <span class="link"><a href="printing.html" title="Tiskanje">tiskalniki</a></span>, <span class="link"><a href="power.html" title="Napajanje in baterija">nastavitve porabe</a></span>, <span class="link"><a href="color.html" title="Upravljanje barv">upravljanje barv</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Diski in shramba">diski</a></span> …</span></div>
+<div class="links-grid-link"><a href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema in gonilniki</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="hardware.html.sl#problems" title="Pogoste težave">Težave s strojno opremo</a></span>, <span class="link"><a href="printing.html.sl" title="Tiskanje">tiskalniki</a></span>, <span class="link"><a href="power.html.sl" title="Napajanje in baterija">nastavitve porabe</a></span>, <span class="link"><a href="color.html.sl" title="Upravljanje barv">upravljanje barv</a></span>, <span class="link"><a href="bluetooth.html.sl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.sl" title="Diski in shramba">diski</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="a11y.html" title="Splošni dostop">Splošni dostop</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="a11y.html#vision" title="Težave z vidom">Videnje</a></span>, <span class="link"><a href="a11y.html#sound" title="Težave s sluhom">poslušanje</a></span>, <span class="link"><a href="a11y.html#mobility" title="Težave z gibanjem">gibčnost</a></span>, <span class="link"><a href="a11y-braille.html" title="Preberite zaslon v Braillovi pisavi">braillova pisava</a></span>, <span class="link"><a href="a11y-mag.html" title="Magnify a screen area">povečevalo zaslona</a></span> ...</span></div>
+<div class="links-grid-link"><a href="a11y.html.sl" title="Splošni dostop">Splošni dostop</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="a11y.html.sl#vision" title="Težave z vidom">Videnje</a></span>, <span class="link"><a href="a11y.html.sl#sound" title="Težave s sluhom">poslušanje</a></span>, <span class="link"><a href="a11y.html.sl#mobility" title="Težave z gibanjem">gibčnost</a></span>, <span class="link"><a href="a11y-braille.html.sl" title="Preberite zaslon v Braillovi pisavi">braillova pisava</a></span>, <span class="link"><a href="a11y-mag.html.sl" title="Magnify a screen area">povečevalo zaslona</a></span> ...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="tips.html" title="Namigi in triki">Namigi in triki</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html" title="Vnos posebnih znakov">Posebni znaki</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Srednji klik">bližnjice s srednjim klikom</a></span> ...</span></div>
+<div class="links-grid-link"><a href="tips.html.sl" title="Namigi in triki">Namigi in triki</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.sl" title="Vnos posebnih znakov">Posebni znaki</a></span>, <span class="link"><a href="mouse-middleclick.html.sl" title="Srednji klik">bližnjice s srednjim klikom</a></span> ...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="more-help.html" title="Dobite več pomoči">Dobite več pomoči</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html" title="O tem vodniku">Namigi za uporabo tega vodnika</a></span>, <span class="link"><a href="get-involved.html" title="Sodelujte pri izboljšavi tega vodnika">pomagajte izboljšati ta vodnik</a></span> …</span></div>
+<div class="links-grid-link"><a href="more-help.html.sl" title="Dobite več pomoči">Dobite več pomoči</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html.sl" title="O tem vodniku">Namigi za uporabo tega vodnika</a></span>, <span class="link"><a href="get-involved.html.sl" title="Sodelujte pri izboljšavi tega vodnika">pomagajte izboljšati ta vodnik</a></span> …</span></div>
 </div>
 </div></div></div>
 </div></div>

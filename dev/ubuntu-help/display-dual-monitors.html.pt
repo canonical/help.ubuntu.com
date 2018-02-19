@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="prefs-display.html" title="Ecrã">Ecrã</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="prefs-display.html.pt" title="Ecrã">Ecrã</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ligar outro ecrã à computador</span></h1></div>
@@ -54,11 +54,11 @@
 <div class="region"><div class="contents">
 <p class="p">Para configurar um ecrã adicional, ligue o ecrã à computador. Se seu sistema não a reconhece imediatamente, ou se quer ajustar a sua configuração:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Ecrãs</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Ecrãs</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Ecrãs</span> para abrir o painel.</p></li>
 <li class="steps">
 <p class="p">Carregue sobre o ecrã que quer ativar ou desativar e, na lista de configuração de ecrãs escolha <span class="gui">Apagar</span> para desativar o ecrã, ou uma das opções <span class="gui">Primário</span>, <span class="gui">Secundário</span>, ou <span class="gui">Espelho</span> para o ativar.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">O ecrã primário é a que tem a <span class="link"><a href="shell-introduction.html" title="Introdução a GNOME">barra superior</a></span>, e na que se mostra a vista de <span class="gui">Atividades</span>.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">O ecrã primário é a que tem a <span class="link"><a href="shell-introduction.html.pt" title="Introdução a GNOME">barra superior</a></span>, e na que se mostra a vista de <span class="gui">Atividades</span>.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Para rotacionar a orientação do ecrã, use os botões com as setas até que a vista prévia seja correta.</p></li>
 <li class="steps"><p class="p">Quando esteja satisfeito com a configuração, carregue <span class="gui">Aplicar</span> e depois carregue <span class="gui">Manter mudanças</span>.</p></li>
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Ecrã">Ecrã</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Mudar o fundo do escritório e do ecrã de bloqueio">Fundo</a></span>, <span class="link"><a href="look-resolution.html" title="Mudar a resolução ou a rotação do ecrã">tamanho e rotação</a></span>, brilho…</span>
+<a href="prefs-display.html.pt" title="Ecrã">Ecrã</a><span class="desc"> — <span class="link"><a href="look-background.html.pt" title="Mudar o fundo do escritório e do ecrã de bloqueio">Fundo</a></span>, <span class="link"><a href="look-resolution.html.pt" title="Mudar a resolução ou a rotação do ecrã">tamanho e rotação</a></span>, brilho…</span>
 </li></ul></div>
 </div></div></div>
 </div>

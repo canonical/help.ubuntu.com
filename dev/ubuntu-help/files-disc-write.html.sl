@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html.sl#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zapis datotek na CD ali DVD</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Datoteke lahko zapišete na prazen disk z <span class="gui">Ustvarjalnikom CD-jev/DVD-jev</span>. Možnost ustvarjanja CD-ja ali DVD-ja se bo v upravljalniku datotek pojavila takoj, ko vstavite CD v zapisovalnik CD/DVD. Upravljalnik datotek vam omogoča enostaven prenos datotek na druge računalnike ali ustvarjanje <span class="link"><a href="backup-why.html" title="Ustvarjanje varnostne kopije pomembnih datotek">varnostnih kopij</a></span> s kopiranjem datotek na prazen disk. Za zapisovanje datotek na CD ali DVD:</p>
+<p class="p">Datoteke lahko zapišete na prazen disk z <span class="gui">Ustvarjalnikom CD-jev/DVD-jev</span>. Možnost ustvarjanja CD-ja ali DVD-ja se bo v upravljalniku datotek pojavila takoj, ko vstavite CD v zapisovalnik CD/DVD. Upravljalnik datotek vam omogoča enostaven prenos datotek na druge računalnike ali ustvarjanje <span class="link"><a href="backup-why.html.sl" title="Ustvarjanje varnostne kopije pomembnih datotek">varnostnih kopij</a></span> s kopiranjem datotek na prazen disk. Za zapisovanje datotek na CD ali DVD:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Prazen disk vstavite v zapisljivi pogon CD/DVD.</p></li>
 <li class="steps">
@@ -87,7 +87,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sl#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

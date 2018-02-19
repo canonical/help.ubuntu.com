@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.sr" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html.sr#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="privacy.html" title="Подешавања приватности">Подешавања приватности</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="privacy.html.sr" title="Подешавања приватности">Подешавања приватности</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Избаците ваше смеће и очистите ваше привремене датотеке</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Приватност</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Приватност</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Приватност</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Изаберите <span class="gui">Очисти смеће и привремене датотеке</span>.</p></li>
 <li class="steps"><p class="p">Поставите један или оба прекидача <span class="gui">Сам избаци смеће</span> или <span class="gui">Сам прочисти привремене датотеке</span> на <span class="gui">УКЉ.</span>.</p></li>
@@ -66,16 +66,16 @@
 <li class="steps"><p class="p">Користите дугмад <span class="gui">Избаци смеће</span> или <span class="gui">Прочисти привремене датотеке</span> да одмах обавите ове радње.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Можете да обришете датотеке одмах и трајно а да не користите смеће. Видите <span class="link"><a href="files-delete.html#permanent" title="Трајно обришите датотеку">Трајно обришите датотеку</a></span> за више о томе.</p></div></div></div></div>
+<div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Можете да обришете датотеке одмах и трајно а да не користите смеће. Видите <span class="link"><a href="files-delete.html.sr#permanent" title="Трајно обришите датотеку">Трајно обришите датотеку</a></span> за више о томе.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a></li>
+<li class="links "><a href="files.html.sr#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a></li>
 <li class="links ">
-<a href="privacy.html" title="Подешавања приватности">Подешавања приватности</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Самостално закључајте ваш екран">Закључавање екрана</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Искључите или ограничите праћење историјата датотека">Историјат коришћења</a></span>, <span class="link"><a href="privacy-purge.html" title="Очистите смеће и привремене датотеке">Чишћење смећа и привремених датотека</a></span>…</span>
+<a href="privacy.html.sr" title="Подешавања приватности">Подешавања приватности</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.sr" title="Самостално закључајте ваш екран">Закључавање екрана</a></span>, <span class="link"><a href="privacy-history-recent-off.html.sr" title="Искључите или ограничите праћење историјата датотека">Историјат коришћења</a></span>, <span class="link"><a href="privacy-purge.html.sr" title="Очистите смеће и привремене датотеке">Чишћење смећа и привремених датотека</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="disk.html" title="Diskar och lagring">Diskar och lagring</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="disk.html.sv" title="Diskar och lagring">Diskar och lagring</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="addremove.html" title="Installera &amp; ta bort mjukvara">Lägg till/ta bort program</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="addremove.html.sv" title="Installera &amp; ta bort mjukvara">Lägg till/ta bort program</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -71,10 +71,10 @@
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="disk.html" title="Diskar och lagring">Diskar och lagring</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Kontrollera hur mycket diskutrymme som finns kvar">Diskutrymme</a></span>, <span class="link"><a href="disk-benchmark.html" title="Testa din hårddisks prestanda">prestanda</a></span>, <span class="link"><a href="disk-check.html" title="Kontrollera din hårddisk efter problem">problem</a></span>, <span class="link"><a href="disk-partitions.html" title="Hantera volymer och partitioner">volymer och partitioner</a></span>…</span>
+<a href="disk.html.sv" title="Diskar och lagring">Diskar och lagring</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.sv" title="Kontrollera hur mycket diskutrymme som finns kvar">Diskutrymme</a></span>, <span class="link"><a href="disk-benchmark.html.sv" title="Testa din hårddisks prestanda">prestanda</a></span>, <span class="link"><a href="disk-check.html.sv" title="Kontrollera din hårddisk efter problem">problem</a></span>, <span class="link"><a href="disk-partitions.html.sv" title="Hantera volymer och partitioner">volymer och partitioner</a></span>…</span>
 </li>
 <li class="links ">
-<a href="addremove.html" title="Installera &amp; ta bort mjukvara">Installera &amp; ta bort mjukvara</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Installera fler program">Installera program</a></span>, <span class="link"><a href="addremove-remove.html" title="Ta bort ett program">ta bort program</a></span>, <span class="link"><a href="addremove-sources.html" title="Lägg till fler programförråd">lägg till förråd</a></span>…</span>
+<a href="addremove.html.sv" title="Installera &amp; ta bort mjukvara">Installera &amp; ta bort mjukvara</a><span class="desc"> — <span class="link"><a href="addremove-install.html.sv" title="Installera fler program">Installera program</a></span>, <span class="link"><a href="addremove-remove.html.sv" title="Ta bort ett program">ta bort program</a></span>, <span class="link"><a href="addremove-sources.html.sv" title="Lägg till fler programförråd">lägg till förråd</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

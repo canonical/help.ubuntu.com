@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ru" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html.ru#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="Общий доступ">Общий доступ</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.ru" title="Общий доступ">Общий доступ</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <div class="title title-steps"><h2><span class="title">Чтобы поделиться файлом по почте:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="app">Files</span> application from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview.</p></li>
 <li class="steps"><p class="p">Найдите файл, который нужно отправить.</p></li>
 <li class="steps"><p class="p">Right-click the file and select <span class="gui">Send to…</span>. An email compose
       window will appear with the file attached.</p></li>
@@ -77,9 +77,9 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
+<li class="links "><a href="files.html.ru#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
 <li class="links ">
-<a href="sharing.html" title="Общий доступ">Общий доступ</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Общий доступ к рабочему столу">Общий доступ к рабочему столу</a></span>, <span class="link"><a href="files-share.html" title="Обмен файлами по почте">Как делиться файлами по почте</a></span>, <span class="link"><a href="sharing-media.html" title="Сделать общими музыку, фото и видео.">Общий доступ к мультимедиа</a></span>…</span>
+<a href="sharing.html.ru" title="Общий доступ">Общий доступ</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ru" title="Общий доступ к рабочему столу">Общий доступ к рабочему столу</a></span>, <span class="link"><a href="files-share.html.ru" title="Обмен файлами по почте">Как делиться файлами по почте</a></span>, <span class="link"><a href="sharing-media.html.ru" title="Сделать общими музыку, фото и видео.">Общий доступ к мультимедиа</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -87,10 +87,10 @@
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="nautilus-connect.html" title="Обзор файлов на сервере или сетевом ресурсе">Обзор файлов на сервере или сетевом ресурсе</a><span class="desc"> — Просмотр и редактирование файлов на другом компьютере через FTP, SSH, общие ресурсы Windows или WebDAV.</span>
+<a href="nautilus-connect.html.ru" title="Обзор файлов на сервере или сетевом ресурсе">Обзор файлов на сервере или сетевом ресурсе</a><span class="desc"> — Просмотр и редактирование файлов на другом компьютере через FTP, SSH, общие ресурсы Windows или WebDAV.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-send-file.html" title="Отправка файлов на устройство Bluetooth">Отправка файлов на устройство Bluetooth</a><span class="desc"> — Обмен файлами с устройствами Bluetooth, такими как телефон.</span>
+<a href="bluetooth-send-file.html.ru" title="Отправка файлов на устройство Bluetooth">Отправка файлов на устройство Bluetooth</a><span class="desc"> — Обмен файлами с устройствами Bluetooth, такими как телефон.</span>
 </li>
 </ul></div>
 </div></div>

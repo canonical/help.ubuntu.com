@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="power.html" title="மின்சக்தி &amp; பேட்டரி">மின்சக்தி &amp; பேட்டரி</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="power.html.ta" title="மின்சக்தி &amp; பேட்டரி">மின்சக்தி &amp; பேட்டரி</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="power.html" title="மின்சக்தி &amp; பேட்டரி">மின்சக்தி &amp; பேட்டரி</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="power.html.ta" title="மின்சக்தி &amp; பேட்டரி">மின்சக்தி &amp; பேட்டரி</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 documents are stored and the computer completely switches off so it does not
 use any power, but the applications and documents will still be open when you
 switch on the computer again.</p>
-<p class="p">Unfortunately, hibernate <span class="link"><a href="power-suspendfail.html" title="என் கணினியை இடைநிறுத்திய பிறகு ஏன் மீண்டும் இயங்க மாட்டேனென்கிறது?">doesn't work</a></span>
+<p class="p">Unfortunately, hibernate <span class="link"><a href="power-suspendfail.html.ta" title="என் கணினியை இடைநிறுத்திய பிறகு ஏன் மீண்டும் இயங்க மாட்டேனென்கிறது?">doesn't work</a></span>
  in many cases, which can cause you to lose data if you expect your documents
  and applications to re-open when you switch your computer back on. Therefore,
  hibernate is disabled by default.</p>
@@ -73,8 +73,8 @@ switch on the computer again.</p>
 </div></div>
 <p class="p">You can use the command line to test if hibernate works on your computer.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="app">Terminal</span> by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> or by searching for <span class="input">terminal</span>
-        in the <span class="gui">Dash</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="app">Terminal</span> by searching for <span class="input">terminal</span>
+     in the <span class="gui">Activities overview</span>.</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Enter your password when prompted.</p>
@@ -120,17 +120,17 @@ ResultActive=yes</pre></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="மின்சக்தி &amp; பேட்டரி">மின்சக்தி &amp; பேட்டரி</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="என் கணினியை இடைநிறுத்தும் போது என்ன நடக்கும்?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="சிறிது நேரம் கழித்து என் திரை ஏன் மங்கலாகிறது?">screen dimming</a></span>…
+<a href="power.html.ta" title="மின்சக்தி &amp; பேட்டரி">மின்சக்தி &amp; பேட்டரி</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.ta" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.ta" title="என் கணினியை இடைநிறுத்தும் போது என்ன நடக்கும்?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.ta" title="சிறிது நேரம் கழித்து என் திரை ஏன் மங்கலாகிறது?">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-suspendfail.html" title="என் கணினியை இடைநிறுத்திய பிறகு ஏன் மீண்டும் இயங்க மாட்டேனென்கிறது?">என் கணினியை இடைநிறுத்திய பிறகு ஏன் மீண்டும் இயங்க மாட்டேனென்கிறது?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.ta" title="என் கணினியை இடைநிறுத்திய பிறகு ஏன் மீண்டும் இயங்க மாட்டேனென்கிறது?">என் கணினியை இடைநிறுத்திய பிறகு ஏன் மீண்டும் இயங்க மாட்டேனென்கிறது?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li></ul></div>
 </div></div>
 </div>

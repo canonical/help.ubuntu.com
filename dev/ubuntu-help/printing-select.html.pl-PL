@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Print only certain pages</title>
+<title>Drukowanie tylko podanych stron</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,24 +43,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="printing.html" title="Drukowanie">Drukowanie</a> › <a class="trail" href="printing.html#paper" title="Different paper sizes and layouts">Sizes and layouts</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="printing.html.pl-PL" title="Drukowanie">Drukowanie</a> › <a class="trail" href="printing.html.pl-PL#paper" title="Różne rozmiary i układy papieru">Rozmiary i układy</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Print only certain pages</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Drukowanie tylko podanych stron</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To only print certain pages from the document:</p>
+<p class="p">Aby wydrukować tylko podane strony dokumentu:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the print dialog by pressing
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">General</span> tab, choose <span class="gui">Pages</span> from the
       <span class="gui">Range</span> section.</p></li>
-<li class="steps"><p class="p">Type the numbers of the pages you want to print in the text box,
-    separated by commas. Use a dash to denote a range of pages.</p></li>
+<li class="steps"><p class="p">Wpisz numery stron do wydrukowania, oddzielone przecinkami. Użyj myślnika, aby podać zakres stron.</p></li>
 </ol></div></div></div>
 <div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents">
-<p class="p">For example, if you enter “1,3,5-7,9” in the <span class="gui">Pages</span> text box,
-    pages 1,3,5,6,7 and 9 will be printed.</p>
+<p class="p">Na przykład, wpisanie „1,3,5-7,9” w polu tekstowym <span class="gui">Strony</span> spowoduje wydrukowanie 1., 3., 5., 6., 7. i 9. strony.</p>
 <div class="media media-image"><div class="inner"><img src="figures/printing-select.png" class="media media-block" alt=""></div></div>
 </div></div></div></div>
 </div>
@@ -68,7 +66,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#paper" title="Different paper sizes and layouts">Different paper sizes and layouts</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.pl-PL#paper" title="Różne rozmiary i układy papieru">Różne rozmiary i układy papieru</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-wireless.html" title="Conexiones inalámbricas">Conexiones inalámbricas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-wireless.html.es" title="Conexiones inalámbricas">Conexiones inalámbricas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">He introducido la contraseña correcta, pero sigo sin poder conectarme</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Si está seguro de que ha introducido correctamente la <span class="link"><a href="net-wireless-wepwpa.html" title="¿Qué significan WEP y WPA?">contraseña de la red inalámbrica</a></span> pero aún no puede conectarse correctamente a la red inalámbrica, intente alguna de las siguientes sugerencias:</p>
+<p class="p">Si está seguro de que ha introducido correctamente la <span class="link"><a href="net-wireless-wepwpa.html.es" title="¿Qué significan WEP y WPA?">contraseña de la red inalámbrica</a></span> pero aún no puede conectarse correctamente a la red inalámbrica, intente alguna de las siguientes sugerencias:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Compruebe dos veces que ha introducido correctamente la contraseña</p>
@@ -61,7 +61,7 @@
 </li>
 <li class="list">
 <p class="p">Intente apagar su tarjeta inalámbrica y volverla a encender</p>
-<p class="p">A veces, las tarjetas inalámbricas «se atascan» o sufren un problema menor que provoca que no se puedan conectar. Pruebe a apagar la tarjeta y volverla a encender para reiniciarla; consulte la <span class="link"><a href="net-wireless-troubleshooting.html" title="Solucionador de problemas de red inalámbrica">Solucionador de problemas de red inalámbrica</a></span> para obtener más información.</p>
+<p class="p">A veces, las tarjetas inalámbricas «se atascan» o sufren un problema menor que provoca que no se puedan conectar. Pruebe a apagar la tarjeta y volverla a encender para reiniciarla; consulte la <span class="link"><a href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Solucionador de problemas de red inalámbrica</a></span> para obtener más información.</p>
 </li>
 <li class="list">
 <p class="p">Compruebe que está usando el tipo correcto de seguridad inalámbrica</p>
@@ -69,7 +69,7 @@
 </li>
 <li class="list">
 <p class="p">Compruebe que su tarjeta inalámbrica está correctamente soportada</p>
-<p class="p">Algunas tarjetas inalámbricas no están bien soportadas. Muestran una conexión inalámbrica pero no pueden conectarse a la red porque sus controladores no tienen la capacidad de hacerlo. Intente conseguir otro controlador inalámbrico, o compruebe si necesita llevar a cabo algún otro paso adicional (como instalar un<span class="em">firmware</span> diferente). Consulte la <span class="link"><a href="net-wireless-troubleshooting.html" title="Solucionador de problemas de red inalámbrica">Solucionador de problemas de red inalámbrica</a></span> para obtener más información.</p>
+<p class="p">Algunas tarjetas inalámbricas no están bien soportadas. Muestran una conexión inalámbrica pero no pueden conectarse a la red porque sus controladores no tienen la capacidad de hacerlo. Intente conseguir otro controlador inalámbrico, o compruebe si necesita llevar a cabo algún otro paso adicional (como instalar un<span class="em">firmware</span> diferente). Consulte la <span class="link"><a href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Solucionador de problemas de red inalámbrica</a></span> para obtener más información.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -78,7 +78,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Conexiones inalámbricas">Conexiones inalámbricas</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Conectar con una red inalámbrica">Conectar con una red inalámbrica</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Conectar a una red inalámbrica oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="¿Por qué mi red inalámbrica permanece desconectada?">desconectarse</a></span>…</span>
+<a href="net-wireless.html.es" title="Conexiones inalámbricas">Conexiones inalámbricas</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.es" title="Conectar con una red inalámbrica">Conectar con una red inalámbrica</a></span>, <span class="link"><a href="net-wireless-hidden.html.es" title="Conectar a una red inalámbrica oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.es" title="¿Por qué mi red inalámbrica permanece desconectada?">desconectarse</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html#apps" title="Program och fönster">Program och fönster</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html.sv" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html.sv#apps" title="Program och fönster">Program och fönster</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html#apps" title="Program och fönster">Program och fönster</a> » <a class="trail" href="shell-windows.html" title="Fönster och arbetsytor">Fönster och arbetsytor</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Arbeta med fönster">Fönster</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html.sv" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html.sv#apps" title="Program och fönster">Program och fönster</a> » <a class="trail" href="shell-windows.html.sv" title="Fönster och arbetsytor">Fönster och arbetsytor</a> › <a class="trail" href="shell-windows.html.sv#working-with-windows" title="Arbeta med fönster">Fönster</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,14 +56,14 @@
 <p class="p">Du kan se alla körande program som har ett grafiskt användargränssnitt i <span class="em">fönsterväxlaren</span>. Detta gör växlande mellan uppgifter till en enstegsprocess och ger en överblick över vilka program som kör.</p>
 <p class="p">Från en arbetsyta:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Tryck <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tabb</kbd></span></span> för att visa <span class="gui">fönsterväxlaren</span>.</p></li>
-<li class="steps"><p class="p">Släpp <span class="key"><a href="keyboard-key-super.html" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span> för att välja nästa (markerade) fönster i växlaren.</p></li>
-<li class="steps"><p class="p">Annars, medan du fortfarande håller ner <span class="key"><a href="keyboard-key-super.html" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>-tangenten, tryck på <span class="key"><kbd>Tabb</kbd></span> för att gå igenom listan över öppna fönster eller <span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Tabb</kbd></span></span> för att gå baklänges.</p></li>
+<li class="steps"><p class="p">Tryck <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.sv" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tabb</kbd></span></span> för att visa <span class="gui">fönsterväxlaren</span>.</p></li>
+<li class="steps"><p class="p">Släpp <span class="key"><a href="keyboard-key-super.html.sv" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span> för att välja nästa (markerade) fönster i växlaren.</p></li>
+<li class="steps"><p class="p">Annars, medan du fortfarande håller ner <span class="key"><a href="keyboard-key-super.html.sv" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>-tangenten, tryck på <span class="key"><kbd>Tabb</kbd></span> för att gå igenom listan över öppna fönster eller <span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Tabb</kbd></span></span> för att gå baklänges.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Fönster i fönsterväxlaren grupperas per program. Förhandsvisningar av programmen med flera fönster poppar ner när du klickar genom dem. Håll ner <span class="key"><a href="keyboard-key-super.html" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span> och tryck <span class="key"><kbd>`</kbd></span> (eller tangenten ovanför <span class="key"><kbd>Tabb</kbd></span>) för att stega genom listan.</p></div></div></div></div>
+<div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Fönster i fönsterväxlaren grupperas per program. Förhandsvisningar av programmen med flera fönster poppar ner när du klickar genom dem. Håll ner <span class="key"><a href="keyboard-key-super.html.sv" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span> och tryck <span class="key"><kbd>`</kbd></span> (eller tangenten ovanför <span class="key"><kbd>Tabb</kbd></span>) för att stega genom listan.</p></div></div></div></div>
 <p class="p">Du kan också flytta mellan programikonerna i fönsterväxlaren med <span class="key"><kbd>→</kbd></span>- eller <span class="key"><kbd>←</kbd></span>-tangenterna eller välja en genom att klicka på den med musen.</p>
 <p class="p">Förhandsvisningar av program med ett enda fönster kan visas med <span class="key"><kbd>↓</kbd></span>-tangenten.</p>
-<p class="p">Från översiktsvyn <span class="gui">Aktiviteter</span>, klicka på ett <span class="link"><a href="shell-windows.html" title="Fönster och arbetsytor">fönster</a></span> för att växla till det och lämna översiktsvyn. Om du har flera <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Arbeta med arbetsytor">arbetsytor</a></span> öppna kan du klicka på varje arbetsytor för att visa de öppna fönstren på den arbetsytan.</p>
+<p class="p">Från översiktsvyn <span class="gui">Aktiviteter</span>, klicka på ett <span class="link"><a href="shell-windows.html.sv" title="Fönster och arbetsytor">fönster</a></span> för att växla till det och lämna översiktsvyn. Om du har flera <span class="link"><a href="shell-windows.html.sv#working-with-workspaces" title="Arbeta med arbetsytor">arbetsytor</a></span> öppna kan du klicka på varje arbetsytor för att visa de öppna fönstren på den arbetsytan.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -71,15 +71,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-windows.html#working-with-windows" title="Arbeta med fönster">Arbeta med fönster</a></li>
-<li class="links "><a href="shell-overview.html#apps" title="Program och fönster">Program och fönster</a></li>
+<li class="links "><a href="shell-windows.html.sv#working-with-windows" title="Arbeta med fönster">Arbeta med fönster</a></li>
+<li class="links "><a href="shell-overview.html.sv#apps" title="Program och fönster">Program och fönster</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-use-windows-workspaces.html" title="Använda fönster och arbetsytor">En handledning i att använda fönster och arbetsytor</a></li>
-<li class="links "><a href="gs-switch-tasks.html" title="Växla uppgifter">En handledning i att växla mellan uppgifter</a></li>
+<li class="links "><a href="gs-use-windows-workspaces.html.sv" title="Använda fönster och arbetsytor">En handledning i att använda fönster och arbetsytor</a></li>
+<li class="links "><a href="gs-switch-tasks.html.sv" title="Växla uppgifter">En handledning i att växla mellan uppgifter</a></li>
 </ul></div>
 </div></div>
 </div>

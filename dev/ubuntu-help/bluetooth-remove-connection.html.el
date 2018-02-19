@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="bluetooth.html.el" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Αποσύνδεση συσκευής Bluetooth</span></h1></div>
@@ -51,12 +51,12 @@
 <div class="contents">
 <p class="p">Εάν δεν θέλετε να είστε συνδεδεμένοι σε μια συσκευή Bluetooth, μπορείτε να αφαιρέσετε τη σύνδεση. Αυτό είναι χρήσιμο εάν δεν θέλετε να χρησιμοποιήσετε μια συσκευή όπως ένα ποντίκι ή ακουστικά, ή εάν δεν θέλετε πια να μεταφέρετε αρχεία προς ή από τη συσκευή.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Κάντε κλικ στο εικονίδιο Bluetooth στη <span class="gui">γραμμή μενού</span> και επιλέξτε <span class="gui">Ρυθμίσεις Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Πατήστε στις <span class="gui">Ρυθμίσεις Bluetooth</span> για να ανοίξετε τον πίνακα.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Bluetooth</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Επιλέξτε τη συσκευή που θέλετε να αποσυνδέσετε από την λίστα.</p></li>
 <li class="steps"><p class="p">Στο πλαίσιο διαλόγου της συσκευής, αλλάξτε το <span class="gui">Σύνδεση</span> σε <span class="gui">ΟΧΙ</span>, ή για να αφαιρέσετε τη συσκευή από τη λίστα <span class="gui">Συσκευές</span>, κάντε κλικ στο <span class="gui">Αφαίρεση συσκευής</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Μπορείτε να <span class="link"><a href="bluetooth-connect-device.html" title="Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth">επανασυνδέσετε μια συσκευή Bluetooth</a></span> αργότερα εάν θέλετε.</p>
+<p class="p">Μπορείτε να <span class="link"><a href="bluetooth-connect-device.html.el" title="Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth">επανασυνδέσετε μια συσκευή Bluetooth</a></span> αργότερα εάν θέλετε.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -64,13 +64,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth">Σύνδεση</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Αποστολή αρχείων σε μια συσκευή Bluetooth">Αποστολή αρχείων</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Ενεργοποίηση ή απενεργοποίηση του bluetooth">Ενεργοποίηση και απενεργοποίηση</a></span>…</span>
+<a href="bluetooth.html.el" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.el" title="Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth">Σύνδεση</a></span>, <span class="link"><a href="bluetooth-send-file.html.el" title="Αποστολή αρχείων σε μια συσκευή Bluetooth">Αποστολή αρχείων</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.el" title="Ενεργοποίηση ή απενεργοποίηση του bluetooth">Ενεργοποίηση και απενεργοποίηση</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth-connect-device.html" title="Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth">Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth</a><span class="desc"> — Ζεύγος συσκευών Bluetooth.</span>
+<a href="bluetooth-connect-device.html.el" title="Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth">Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth</a><span class="desc"> — Ζεύγος συσκευών Bluetooth.</span>
 </li></ul></div>
 </div></div>
 </div>

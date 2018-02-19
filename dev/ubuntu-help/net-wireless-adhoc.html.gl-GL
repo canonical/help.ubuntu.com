@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Redes sen fíos">Redes sen fíos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Conectar cunha rede sen fíos</span></h1></div>
@@ -54,7 +54,7 @@
   internet connection you’ve made with another interface, such as to a wired
   network or over the cellular network.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="Vostede e o seu computador">system menu</a></span> from the right
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#yourname" title="Vostede e o seu computador">system menu</a></span> from the right
     side of the top bar.</p></li>
 <li class="steps"><p class="p">Select
     <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>
@@ -76,10 +76,10 @@ will need this information to connect to the hotspot you’ve just created.</p>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Redes sen fíos">Redes sen fíos</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Conectar cunha rede sen fíos">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Conectar a unha rede sen fíos oculta">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Porque a miña rede sen fíos permanece desconectada?">Disconnecting</a></span>…
+<a href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.gl-GL" title="Conectar cunha rede sen fíos">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.gl-GL" title="Porque a miña rede sen fíos permanece desconectada?">Disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

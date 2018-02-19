@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Ar ko sākt">Darba sākšana ar GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.lv" title="Ar ko sākt">Darba sākšana ar GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="Izmantot sistēmas meklēšanu">Iepriekšējā</a><a class="nextlinks-next" href="gs-browse-web.html" title="Pārlūkot tīmekli">Nākamā</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.lv" title="Izmantot sistēmas meklēšanu">Iepriekšējā</a><a class="nextlinks-next" href="gs-browse-web.html.lv" title="Pārlūkot tīmekli">Nākamā</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Nokļūt internetā</span></h1></div>
 <div class="region">
@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Lai savienotos ar Wi-Fi (bezvadu) tīklu:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Spiediet <span class="gui"><a href="shell-introduction.html#yourname" title="Jūs un jūsu dators">sistēmas izvēlni</a></span> augšējās joslas labajā pusē.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui"><a href="shell-introduction.html.lv#yourname" title="Jūs un jūsu dators">sistēmas izvēlni</a></span> augšējās joslas labajā pusē.</p></li>
 <li class="steps"><p class="p">Izvēlieties <span class="gui">Wi-Fi nav savienots</span>. Tiks izvēsta Wi-Fi izvēlnes sadaļa.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Izvēlieties tīklu</span>.</p></li>
 </ol></div>
@@ -88,7 +88,7 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="Izmantot sistēmas meklēšanu">Iepriekšējā</a><a class="nextlinks-next" href="gs-browse-web.html" title="Pārlūkot tīmekli">Nākamā</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.lv" title="Izmantot sistēmas meklēšanu">Iepriekšējā</a><a class="nextlinks-next" href="gs-browse-web.html.lv" title="Pārlūkot tīmekli">Nākamā</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -96,13 +96,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Ar ko sākt">Darba sākšana ar GNOME</a><span class="desc"> — Vai GNOME 3 vide jums ir nepazīstama? Uzziniet, kā tajā darboties.</span>
+<a href="getting-started.html.lv" title="Ar ko sākt">Darba sākšana ar GNOME</a><span class="desc"> — Vai GNOME 3 vide jums ir nepazīstama? Uzziniet, kā tajā darboties.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Bezvadu tīkls">Bezvadu tīkls</a></span>, <span class="link"><a href="net-wired.html" title="Vadu savienojums">vadu</a></span>, <span class="link"><a href="net-problem.html" title="Tīkla problēmas">savienojumu problēmas</a></span>, <span class="link"><a href="net-browser.html" title="Tīmekļa pārlūkprogrammas">tīmekļa pārlūkošana</a></span>, <span class="link"><a href="net-email.html" title="E-pasts un e-pasta programmatūra">e-pasta konti</a></span>…</span>
+<a href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a><span class="desc"> — <span class="link"><a href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a></span>, <span class="link"><a href="net-wired.html.lv" title="Vadu savienojums">vadu</a></span>, <span class="link"><a href="net-problem.html.lv" title="Tīkla problēmas">savienojumu problēmas</a></span>, <span class="link"><a href="net-browser.html.lv" title="Tīmekļa pārlūkprogrammas">tīmekļa pārlūkošana</a></span>, <span class="link"><a href="net-email.html.lv" title="E-pasts un e-pasta programmatūra">e-pasta konti</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

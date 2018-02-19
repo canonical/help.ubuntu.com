@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html#problems" title="Masalah umum">Masalah</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html.id#problems" title="Masalah umum">Masalah</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.id" title="Jaringan Nirkabel">Jaringan Nirkabel</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html" title="Pelacak masalah jaringan nirkabel">Selanjutnya</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html.id" title="Pelacak masalah jaringan nirkabel">Selanjutnya</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">Pelacak masalah jaringan nirkabel</span></h1></div>
 <div class="region">
 <div class="contents">
@@ -83,7 +83,7 @@
 </div></div>
 </div></div>
 </div>
-<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html" title="Pelacak masalah jaringan nirkabel">Selanjutnya</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html.id" title="Pelacak masalah jaringan nirkabel">Selanjutnya</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
@@ -91,15 +91,15 @@
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Menyambung ke wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?">Memutus</a></span>…</span>
+<a href="net-wireless.html.id" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Menyambung ke wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.id" title="Mengapa jaringan nirkabel saya terputus terus?">Memutus</a></span>…</span>
 </li>
-<li class="links "><a href="hardware.html#problems" title="Masalah umum">Masalah-masalah perangkat keras</a></li>
+<li class="links "><a href="hardware.html.id#problems" title="Masalah umum">Masalah-masalah perangkat keras</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Menyambung ke jaringan nirkabel</a><span class="desc"> — Get on the internet — wirelessly.</span>
+<a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Menyambung ke jaringan nirkabel</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

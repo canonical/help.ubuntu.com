@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-email.html" title="Е-пошта и програми за е-пошту">Е-пошта и програми за е-пошту</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-email.html.sr" title="Е-пошта и програми за е-пошту">Е-пошта и програми за е-пошту</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Измените који програм за пошту се користи за писање е-поште</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Када кликнете на дугме или на везу да пошаљете нову е-пошту (на пример, у вашем програму за обраду текста), ваш основни програм за пошту ће се отворити са празном поруком, спреман за писање. Међутим, ако имате више од једног инсталираног програма за пошту, могао би да се отвори погрешан програм за пошту. Можете ово да исправите тако што ћете изменити који је основни програм за пошту:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Детаљи</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Детаљи</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Детаљи</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Изаберите <span class="gui">Основни програми</span> са списка на левој страни прозора.</p></li>
 <li class="steps"><p class="p">Изаберите који програм за пошту желите да буде коришћен као основни тако што ћете изменити опцију <span class="gui">Пошта</span>.</p></li>
@@ -62,7 +62,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email.html" title="Е-пошта и програми за е-пошту">Е-пошта и програми за е-пошту</a><span class="desc"> — <span class="link"><a href="net-default-email.html" title="Измените који програм за пошту се користи за писање е-поште">Основни програми за пошту</a></span>, <span class="link"><a href="net-email-virus.html" title="Да ли требам да прегледам моју пошту за вирусима?">Да ли је потребно прегледање због вируса?</a></span>…</span>
+<a href="net-email.html.sr" title="Е-пошта и програми за е-пошту">Е-пошта и програми за е-пошту</a><span class="desc"> — <span class="link"><a href="net-default-email.html.sr" title="Измените који програм за пошту се користи за писање е-поште">Основни програми за пошту</a></span>, <span class="link"><a href="net-email-virus.html.sr" title="Да ли требам да прегледам моју пошту за вирусима?">Да ли је потребно прегледање због вируса?</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

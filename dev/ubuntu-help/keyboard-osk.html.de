@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="keyboard.html" title="Tastatur">Tastatur</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="keyboard.html.de" title="Tastatur">Tastatur</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="keyboard.html" title="Tastatur">Tastatur</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="keyboard.html.de" title="Tastatur">Tastatur</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Barrierefreiheit">Barrierefreiheit</a> › <a class="trail" href="a11y.html#mobility" title="Mobilitätseinschränkungen">Mobilitätseinschränkungen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.de" title="Barrierefreiheit">Barrierefreiheit</a> › <a class="trail" href="a11y.html.de#mobility" title="Mobilitätseinschränkungen">Mobilitätseinschränkungen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,22 +58,22 @@
 <p class="p">Falls an Ihren Rechner keine Tastatur angeschlossen ist oder Sie absichtlich keine verwenden wollen, können Sie zur Eingabe von Text die <span class="em">Bildschirmtastatur</span> verwenden.</p>
 <div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Die Bildschirmtastatur ist automatisch aktiviert, wenn Sie einen Tastbildschirm verwenden.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Barrierefreiheit</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Barrierefreiheit</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Barrierefreiheit</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Schalten Sie im Abschnitt <span class="gui">Texteingabe</span> die <span class="gui">Bildschirmtastatur</span> ein.</p></li>
 </ol></div></div></div>
 <p class="p">Bei der nächsten Notwendigkeit einer Eingabe öffnet sich die Bildschirmtastatur am unteren Rand des Bildschirms.</p>
 <p class="p">Klicken Sie auf den Knopf <span class="gui">123</span>, um Ziffern und Symbole einzugeben. Weitere Symbole sind verfügbar, wenn Sie auf den Knopf <span class="gui">{#*</span> klicken. Um zur Buchstabentastatur zurückzukehren, klicken Sie auf <span class="gui">Abc</span>.</p>
-<p class="p">Klicken Sie auf das Symbol <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="Tastatur"></span></span></span>, um die Tastatur vorübergehend zu verbergen. Die Tastatur wird automatisch wieder angezeigt, sobald Sie auf ein Objekt klicken, dass diese verwendet. Um die Tastatur wieder anzuzeigen, öffnen Sie das <span class="link"><a href="shell-notifications.html" title="Benachrichtigungen und das Benachrichtigungsfeld">Benachrichtigungsfeld</a></span>, indem Sie die Maus an den unteren Rand des Bildschirms bewegen, und klicken Sie auf das Tastatur-Symbol.</p>
+<p class="p">Klicken Sie auf das Symbol <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="Tastatur"></span></span></span>, um die Tastatur vorübergehend zu verbergen. Die Tastatur wird automatisch wieder angezeigt, sobald Sie auf ein Objekt klicken, dass diese verwendet. Um die Tastatur wieder anzuzeigen, öffnen Sie das <span class="link"><a href="shell-notifications.html.de" title="Benachrichtigungen und das Benachrichtigungsfeld">Benachrichtigungsfeld</a></span>, indem Sie die Maus an den unteren Rand des Bildschirms bewegen, und klicken Sie auf das Tastatur-Symbol.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Mobilitätseinschränkungen">Mobilitätseinschränkungen</a></li>
+<li class="links "><a href="a11y.html.de#mobility" title="Mobilitätseinschränkungen">Mobilitätseinschränkungen</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Tastatur">Tastatur</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Tastaturbelegungen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Den Tastaturcursor blinken lassen">blinkender Cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mobilitätseinschränkungen">Barrierefreiheit der Tastatur</a></span> …</span>
+<a href="keyboard.html.de" title="Tastatur">Tastatur</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.de" title="Use alternative keyboard layouts">Tastaturbelegungen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.de" title="Den Tastaturcursor blinken lassen">blinkender Cursor</a></span>, <span class="link"><a href="a11y.html.de#mobility" title="Mobilitätseinschränkungen">Barrierefreiheit der Tastatur</a></span> …</span>
 </li>
 </ul></div>
 </div></div></div>

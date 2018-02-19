@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="power.html" title="電源とバッテリー">電源とバッテリー</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="power.html.ja" title="電源とバッテリー">電源とバッテリー</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="power.html" title="電源とバッテリー">電源とバッテリー</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ja" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="power.html.ja" title="電源とバッテリー">電源とバッテリー</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">コンピューターを<span class="em">サスペンド</span>すると、スリープ状態に入ります。アプリケーションやドキュメントはすべて開いたままの状態ですが、コンピューターの画面および他の部分は電源オフになり節電できます。コンピューター自体の電源はオンのままのため、若干の電力は消費し続けています。何らかのキーを押すかマウスをクリックするとコンピューターをスリープ状態から復帰させることができます。キーボードやマウスを操作してもコンピューターが立ち上がらない場合は電源ボタンを押してみてください。</p>
 <p class="p">Some computers have problems with hardware support which mean that they
-<span class="link"><a href="power-suspendfail.html" title="コンピューターをサスペンドしたあと復帰しないのはなぜですか?">may not be able to suspend properly</a></span>. It is
+<span class="link"><a href="power-suspendfail.html.ja" title="コンピューターをサスペンドしたあと復帰しないのはなぜですか?">may not be able to suspend properly</a></span>. It is
 a good idea to test suspend on your computer to see if it does work before
 relying on it.</p>
 <div class="note note-important" title="重要"><div class="inner">
@@ -69,10 +69,10 @@ relying on it.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="電源とバッテリー">電源とバッテリー</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="コンピューターをサスペンドしたらどうなりますか?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="しばらくすると画面が暗くなるのはなぜですか?">screen dimming</a></span>…
+<a href="power.html.ja" title="電源とバッテリー">電源とバッテリー</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.ja" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.ja" title="コンピューターをサスペンドしたらどうなりますか?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.ja" title="しばらくすると画面が暗くなるのはなぜですか?">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -80,17 +80,17 @@ relying on it.</p>
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-autosuspend.html.ja" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="コンピューターの蓋を閉めるとオフになるのはなぜですか?">コンピューターの蓋を閉めるとオフになるのはなぜですか?</a><span class="desc"> — ラップトップは蓋を閉めると節電のためスリープ状態に入ります。</span>
+<a href="power-closelid.html.ja" title="コンピューターの蓋を閉めるとオフになるのはなぜですか?">コンピューターの蓋を閉めるとオフになるのはなぜですか?</a><span class="desc"> — ラップトップは蓋を閉めると節電のためスリープ状態に入ります。</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="コンピューターをサスペンドしたあと復帰しないのはなぜですか?">コンピューターをサスペンドしたあと復帰しないのはなぜですか?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.ja" title="コンピューターをサスペンドしたあと復帰しないのはなぜですか?">コンピューターをサスペンドしたあと復帰しないのはなぜですか?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="サスペンド">サスペンド</a></li>
+<li class="links "><a href="shell-exit.html.ja#suspend" title="サスペンド">サスペンド</a></li>
 <li class="links ">
-<a href="power-batterylife.html" title="電力の消費を抑えてバッテリー長持ちさせる">電力の消費を抑えてバッテリー長持ちさせる</a><span class="desc"> — コンピューターの電力消費を抑えるためのヒントです。</span>
+<a href="power-batterylife.html.ja" title="電力の消費を抑えてバッテリー長持ちさせる">電力の消費を抑えてバッテリー長持ちさせる</a><span class="desc"> — コンピューターの電力消費を抑えるためのヒントです。</span>
 </li>
 </ul></div>
 </div></div>

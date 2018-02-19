@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="mouse.html" title="Rato">Rato</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="mouse.html.gl-GL" title="Rato">Rato</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="mouse.html" title="Rato">Rato</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="mouse.html.gl-GL" title="Rato">Rato</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="region"><div class="contents">
 <p class="p">You can tap your touchpad to click instead of using a button.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps">
@@ -72,8 +72,8 @@
 <li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
       second tap. Drag the item where you want it, then lift your finger to
       drop.</p></li>
-<li class="list"><p class="p">Se a súa área táctil é multitáctil, prema co botón dereito do rato usando dous dedos á vez. Do contrario precisará usar os botóns hardware para premer co botón dereito do rato. Para ver un método de pulsación dereita do rato sen usar o segundo botón do rato consulte a <span class="link"><a href="a11y-right-click.html" title="Simular o clic dereito do rato">Simular o clic dereito do rato</a></span>.</p></li>
-<li class="list"><p class="p">Se a súa área táctil admite multi-toque pode <span class="link"><a href="mouse-middleclick.html" title="Clic central">premer co botón do medio</a></span> premendo con tres dedos á vez.</p></li>
+<li class="list"><p class="p">Se a súa área táctil é multitáctil, prema co botón dereito do rato usando dous dedos á vez. Do contrario precisará usar os botóns hardware para premer co botón dereito do rato. Para ver un método de pulsación dereita do rato sen usar o segundo botón do rato consulte a <span class="link"><a href="a11y-right-click.html.gl-GL" title="Simular o clic dereito do rato">Simular o clic dereito do rato</a></span>.</p></li>
+<li class="list"><p class="p">Se a súa área táctil admite multi-toque pode <span class="link"><a href="mouse-middleclick.html.gl-GL" title="Clic central">premer co botón do medio</a></span> premendo con tres dedos á vez.</p></li>
 </ul></div></div></div>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
     are spread far enough apart. If your fingers are too close, your computer
@@ -85,7 +85,7 @@
 <div class="region"><div class="contents">
 <p class="p">Pode facer desprazamentos usando a súa área táctil usando dous dedos.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Na sección <span class="gui">Touchpad</span>, marque <span class="gui">Desprazamento con dous dedos</span>.</p></li>
@@ -104,7 +104,7 @@
 <div class="region"><div class="contents">
 <p class="p">Pode arrastrar o contido coma se estivera desprazando unha peda de papel física usando a área táctil.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Natural
@@ -118,7 +118,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html" title="Rato">Rato</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Usar un rato para zurdos">Zurdo</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Axustar a velocidade do rato e touchpad">velocidade e sensibilidade</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Premer, arrastrar e desprazarse coa súa área táctil">presión e desprazamento do touchpad</a></span>…</span>
+<a href="mouse.html.gl-GL" title="Rato">Rato</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.gl-GL" title="Usar un rato para zurdos">Zurdo</a></span>, <span class="link"><a href="mouse-sensitivity.html.gl-GL" title="Axustar a velocidade do rato e touchpad">velocidade e sensibilidade</a></span>, <span class="link"><a href="mouse-touchpad-click.html.gl-GL" title="Premer, arrastrar e desprazarse coa súa área táctil">presión e desprazamento do touchpad</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

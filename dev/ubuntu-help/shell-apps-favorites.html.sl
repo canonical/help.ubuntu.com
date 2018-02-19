@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Namizje</a> › <a class="trail" href="shell-overview.html#desktop" title="Customize your desktop">Customize your desktop</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="shell-overview.html.sl" title="Your desktop">Namizje</a> › <a class="trail" href="shell-overview.html.sl#desktop" title="Customize your desktop">Customize your desktop</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Pripnite svoje priljubljene programe na pregledno ploščo</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To add an application to the <span class="link"><a href="shell-introduction.html#activities" title="Activities overview">dash</a></span>
+<p class="p">To add an application to the <span class="link"><a href="shell-introduction.html.sl#activities" title="Activities overview">dash</a></span>
   for easy access:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview by
+      <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview by
       clicking <span class="gui">Activities</span> at the top left of the screen</p></li>
 <li class="steps"><p class="p">Click the grid button in the dash and find the application you want to
       add.</p></li>
@@ -71,12 +71,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="Customize your desktop">Customize your desktop</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.sl#desktop" title="Customize your desktop">Customize your desktop</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html" title="Zaganjanje programov">Zaganjanje programov</a><span class="desc"> — Launch apps from the <span class="gui">Activities</span> overview.</span>
+<a href="shell-apps-open.html.sl" title="Zaganjanje programov">Zaganjanje programov</a><span class="desc"> — Launch apps from the <span class="gui">Activities</span> overview.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="color.html" title="Xestión de cor">Xestión de cor</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="color.html.gl-GL" title="Xestión de cor">Xestión de cor</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="color.html" title="Xestión de cor">Xestión de cor</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="color.html.gl-GL" title="Xestión de cor">Xestión de cor</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">You may want to assign a color profile for your screen or printer so that
   the colors which it shows are more accurate.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Color</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select the device for which you want to add a profile.</p></li>
@@ -74,20 +74,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html" title="Xestión de cor">Xestión de cor</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html" title="Porque é importante a xestión de cor?">Porqué é importante</a></span>, <span class="link"><a href="color.html#profiles" title="Perfiles de cor">Perfiles de cor</a></span>, <span class="link"><a href="color.html#calibration" title="Calibración">Como calibrar un dispositivo</a></span>…</span>
+<a href="color.html.gl-GL" title="Xestión de cor">Xestión de cor</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.gl-GL" title="Porque é importante a xestión de cor?">Porqué é importante</a></span>, <span class="link"><a href="color.html.gl-GL#profiles" title="Perfiles de cor">Perfiles de cor</a></span>, <span class="link"><a href="color.html.gl-GL#calibration" title="Calibración">Como calibrar un dispositivo</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-howtoimport.html" title="Como importo os perfiles de cor?">Como importo os perfiles de cor?</a><span class="desc"> — Color profiles can be imported by opening them.</span>
+<a href="color-howtoimport.html.gl-GL" title="Como importo os perfiles de cor?">Como importo os perfiles de cor?</a><span class="desc"> — Color profiles can be imported by opening them.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Porque teño que facer unha calibración por min mesmo?">Porque teño que facer unha calibración por min mesmo?</a><span class="desc"> — A calibración é importante se se preocupa polas cores que mostra ou imprime.</span>
+<a href="color-why-calibrate.html.gl-GL" title="Porque teño que facer unha calibración por min mesmo?">Porque teño que facer unha calibración por min mesmo?</a><span class="desc"> — A calibración é importante se se preocupa polas cores que mostra ou imprime.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Que é un perfil de cor?">Que é un perfil de cor?</a><span class="desc"> — Un perfil de cor é un simple ficheiro que expresa un espazo de cor ou unha resposta dun dispositivo.</span>
+<a href="color-whatisprofile.html.gl-GL" title="Que é un perfil de cor?">Que é un perfil de cor?</a><span class="desc"> — Un perfil de cor é un simple ficheiro que expresa un espazo de cor ou unha resposta dun dispositivo.</span>
 </li>
 </ul></div>
 </div></div>

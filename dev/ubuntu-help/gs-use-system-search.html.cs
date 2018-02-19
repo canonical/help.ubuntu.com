@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Začínáme">Začínáme s GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.cs" title="Začínáme">Začínáme s GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-windows-workspaces.html" title="Používání oken a pracovních ploch">Předchozí</a><a class="nextlinks-next" href="gs-get-online.html" title="Připojení k internetu">Následující</a>
+<a class="nextlinks-prev" href="gs-use-windows-workspaces.html.cs" title="Používání oken a pracovních ploch">Předchozí</a><a class="nextlinks-next" href="gs-get-online.html.cs" title="Připojení k internetu">Následující</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Vyhledávání v systému</span></h1></div>
 <div class="region">
@@ -87,7 +87,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Když si chcete přizpůsobit, co se má zobrazovat ve výsledcích hledání:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klikněte na <span class="gui"><a href="shell-introduction.html#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> v pravé části horní lišty.</p></li>
+<li class="steps"><p class="p">Klikněte na <span class="gui"><a href="shell-introduction.html.cs#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> v pravé části horní lišty.</p></li>
 <li class="steps"><p class="p">Klikněte na tlačítko nastavení v levé dolní části nabídky.</p></li>
 <li class="steps"><p class="p">Klikněte na panel <span class="gui">Hledání</span>.</p></li>
 <li class="steps"><p class="p">V seznamu prohledávaných míst klikněte na přepínač <span class="gui">❙/○</span> vedle prohledávaného místa, které chcete povolit či zakázat.</p></li>
@@ -96,7 +96,7 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-windows-workspaces.html" title="Používání oken a pracovních ploch">Předchozí</a><a class="nextlinks-next" href="gs-get-online.html" title="Připojení k internetu">Následující</a>
+<a class="nextlinks-prev" href="gs-use-windows-workspaces.html.cs" title="Používání oken a pracovních ploch">Předchozí</a><a class="nextlinks-next" href="gs-get-online.html.cs" title="Připojení k internetu">Následující</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -104,13 +104,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Začínáme">Začínáme s GNOME</a><span class="desc"> — Začínáte s GNOME? Naučte se základní triky.</span>
+<a href="getting-started.html.cs" title="Začínáme">Začínáme s GNOME</a><span class="desc"> — Začínáte s GNOME? Naučte se základní triky.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html" title="Spouštění aplikací">Spouštění aplikací</a><span class="desc"> — Jak spustit aplikaci z přehledu <span class="gui">Činnosti</span>.</span>
+<a href="shell-apps-open.html.cs" title="Spouštění aplikací">Spouštění aplikací</a><span class="desc"> — Jak spustit aplikaci z přehledu <span class="gui">Činnosti</span>.</span>
 </li></ul></div>
 </div></div>
 </div>

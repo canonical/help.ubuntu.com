@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Univerzální přístup">Univerzální přístup</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.cs" title="Univerzální přístup">Univerzální přístup</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vyhledání nabídky univerzálního přístupu</span></h1></div>
@@ -58,7 +58,7 @@
 </div></div>
 <p class="p">Pokud nabídku univerzálního přístupu nevidíte, můžete ji zapnout v panelu nastavení <span class="gui">Univerzální přístup</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Univerzální přístup</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Univerzální přístup</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Univerzální přístup</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Přepněte vypínač <span class="gui">Vždy zobrazovat nabídku univerzálního přístupu</span> na <span class="gui">❙</span> (zapnuto).</p></li>
 </ol></div></div></div>
@@ -69,7 +69,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y.html" title="Univerzální přístup">Univerzální přístup</a><span class="desc"> — <span class="link"><a href="a11y.html#vision" title="Zraková postižení">Zrak</a></span>, <span class="link"><a href="a11y.html#sound" title="Sluchová postižení">sluch</a></span>, <span class="link"><a href="a11y.html#mobility" title="Pohybová postižení">pohyblivost</a></span>, <span class="link"><a href="a11y-braille.html" title="Čtení obrazovky pomocí braillského řádku">Braille</a></span>, <span class="link"><a href="a11y-mag.html" title="Zvětšení části obrazovky">lupa obrazovky</a></span>…</span>
+<a href="a11y.html.cs" title="Univerzální přístup">Univerzální přístup</a><span class="desc"> — <span class="link"><a href="a11y.html.cs#vision" title="Zraková postižení">Zrak</a></span>, <span class="link"><a href="a11y.html.cs#sound" title="Sluchová postižení">sluch</a></span>, <span class="link"><a href="a11y.html.cs#mobility" title="Pohybová postižení">pohyblivost</a></span>, <span class="link"><a href="a11y-braille.html.cs" title="Čtení obrazovky pomocí braillského řádku">Braille</a></span>, <span class="link"><a href="a11y-mag.html.cs" title="Zvětšení části obrazovky">lupa obrazovky</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html#problems" title="Типичные проблемы">Неполадки</a> » <a class="trail" href="hardware-problems-graphics.html" title="Проблемы с экраном">Проблемы с экраном</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки</a> » <a class="trail" href="hardware-problems-graphics.html.ru" title="Проблемы с экраном">Проблемы с экраном</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="prefs-display.html" title="Монитор и экран">Монитор и экран</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="prefs-display.html.ru" title="Монитор и экран">Монитор и экран</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">Если вы не работаете с компьютером в течение нескольких минут, экран будет автоматически заблокирован, для разблокирования экрана необходимо ввести пароль. Это делается из соображений безопасности (никто не сможет испортить вашу работу, если компьютер оставлен без присмотра). В тоже время, если экран блокируется слишком быстро, это может раздражать.</p>
 <p class="p">Чтобы установить более длительный период ожидания перед автоматической блокировкой экрана:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Privacy</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Конфиденциальность</span> чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Блокировка экрана</span>.</p></li>
@@ -72,10 +72,10 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Монитор и экран">Монитор и экран</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Изменение фонов рабочего стола и экрана блокировки">Фон</a></span>, <span class="link"><a href="look-resolution.html" title="Изменение разрешения или ориентации экрана">размер и ориентация</a></span>, яркость…</span>
+<a href="prefs-display.html.ru" title="Монитор и экран">Монитор и экран</a><span class="desc"> — <span class="link"><a href="look-background.html.ru" title="Изменение фонов рабочего стола и экрана блокировки">Фон</a></span>, <span class="link"><a href="look-resolution.html.ru" title="Изменение разрешения или ориентации экрана">размер и ориентация</a></span>, яркость…</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Проблемы с экраном">Проблемы с экраном</a><span class="desc"> — Устранение проблем с экраном и графикой.</span>
+<a href="hardware-problems-graphics.html.ru" title="Проблемы с экраном">Проблемы с экраном</a><span class="desc"> — Устранение проблем с экраном и графикой.</span>
 </li>
 </ul></div>
 </div></div>
@@ -83,12 +83,12 @@
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="display-blank.html" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Change the screen blanking time to save power.</span>
+<a href="display-blank.html.ru" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Change the screen blanking time to save power.</span>
 </li>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Автоматическая блокировка экрана">Автоматическая блокировка экрана</a><span class="desc"> — Предотвращение доступа других людей к вашему рабочему столу, когда вы отходите от компьютера.</span>
+<a href="privacy-screen-lock.html.ru" title="Автоматическая блокировка экрана">Автоматическая блокировка экрана</a><span class="desc"> — Предотвращение доступа других людей к вашему рабочему столу, когда вы отходите от компьютера.</span>
 </li>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Блокирование экрана">Блокирование экрана</a></li>
+<li class="links "><a href="shell-exit.html.ru#lock-screen" title="Блокирование экрана">Блокирование экрана</a></li>
 </ul></div>
 </div></div>
 </div>

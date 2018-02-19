@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="more-help.html" title="Dobite več pomoči">Dobite več pomoči</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="more-help.html.sl" title="Dobite več pomoči">Dobite več pomoči</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">O tem vodniku</span></h1></div>
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html" title="Dobite več pomoči">Dobite več pomoči</a><span class="desc"> — <span class="link"><a href="about-this-guide.html" title="O tem vodniku">Namigi za uporabo tega vodnika</a></span>, <span class="link"><a href="get-involved.html" title="Sodelujte pri izboljšavi tega vodnika">pomagajte izboljšati ta vodnik</a></span> …</span>
+<a href="more-help.html.sl" title="Dobite več pomoči">Dobite več pomoči</a><span class="desc"> — <span class="link"><a href="about-this-guide.html.sl" title="O tem vodniku">Namigi za uporabo tega vodnika</a></span>, <span class="link"><a href="get-involved.html.sl" title="Sodelujte pri izboljšavi tega vodnika">pomagajte izboljšati ta vodnik</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

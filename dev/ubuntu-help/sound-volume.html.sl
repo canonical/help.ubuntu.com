@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="media.html#sound" title="Osnovni zvok">Zvok</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="media.html.sl#sound" title="Osnovni zvok">Zvok</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Spreminjanje glasnosti zvoka</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To change the sound volume, open the <span class="gui"><a href="shell-introduction.html#yourname" title="Vi in vaš računalnik">system
+<p class="p">To change the sound volume, open the <span class="gui"><a href="shell-introduction.html.sl#yourname" title="Vi in vaš računalnik">system
   menu</a></span> from the right side of the top bar and move the volume slider left
   or right. You can completely turn off sound by dragging the slider to the
   left.</p>
@@ -71,7 +71,7 @@
 <p class="p">Some applications have volume controls in their main windows. If your
   application has its volume control, use that to change the volume. If not:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span>
       overview and start typing <span class="gui">Sound</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
 <li class="steps">
@@ -90,7 +90,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="Osnovni zvok">Osnovni zvok</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Spreminjanje glasnosti zvoka">Glasnost</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Uporaba drugih zvočnikov ali slušalk">zvočniki in slušalke</a></span>, <span class="link"><a href="sound-usemic.html" title="Uporaba drugega mikrofona">mikrofoni</a></span> …</span>
+<a href="media.html.sl#sound" title="Osnovni zvok">Osnovni zvok</a><span class="desc"> — <span class="link"><a href="sound-volume.html.sl" title="Spreminjanje glasnosti zvoka">Glasnost</a></span>, <span class="link"><a href="sound-usespeakers.html.sl" title="Uporaba drugih zvočnikov ali slušalk">zvočniki in slušalke</a></span>, <span class="link"><a href="sound-usemic.html.sl" title="Uporaba drugega mikrofona">mikrofoni</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

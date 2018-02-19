@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="color.html" title="Värinhallinta">Värinhallinta</a> › <a class="trail" href="color.html#profiles" title="Väriprofiilit">Väriprofiilit</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="color.html.fi" title="Värinhallinta">Värinhallinta</a> › <a class="trail" href="color.html.fi#profiles" title="Väriprofiilit">Väriprofiilit</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="color.html" title="Värinhallinta">Värinhallinta</a> › <a class="trail" href="color.html#profiles" title="Väriprofiilit">Väriprofiilit</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="color.html.fi" title="Värinhallinta">Värinhallinta</a> › <a class="trail" href="color.html.fi#profiles" title="Väriprofiilit">Väriprofiilit</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -62,30 +62,30 @@
     more than a year before the date you bought the device then it’s
     likely dummy data generated that is useless.
   </p>
-<p class="p">Lue <span class="link"><a href="color-why-calibrate.html" title="Miksi minun pitää tehdä kalibrointi itse?">Miksi minun pitää tehdä kalibrointi itse?</a></span> ymmärtääksesi, minkä vuoksi valmistajien tarjoamat profiilit ovat yleensä täysin hyödyttömiä.</p>
+<p class="p">Lue <span class="link"><a href="color-why-calibrate.html.fi" title="Miksi minun pitää tehdä kalibrointi itse?">Miksi minun pitää tehdä kalibrointi itse?</a></span> ymmärtääksesi, minkä vuoksi valmistajien tarjoamat profiilit ovat yleensä täysin hyödyttömiä.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Väriprofiilit">Väriprofiilit</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.fi#profiles" title="Väriprofiilit">Väriprofiilit</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-testing.html" title="How do I test if color management is working correctly?">How do I test if color management is working correctly?</a><span class="desc"> — Use the supplied test profiles to check that your profiles are being
+<a href="color-testing.html.fi" title="How do I test if color management is working correctly?">How do I test if color management is working correctly?</a><span class="desc"> — Use the supplied test profiles to check that your profiles are being
     applied correctly to your screen.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Miksi minun pitää tehdä kalibrointi itse?">Miksi minun pitää tehdä kalibrointi itse?</a><span class="desc"> — Kalibrointi on tärkeää, jos välität näytettävistä tai tulostettavista väreistä.</span>
+<a href="color-why-calibrate.html.fi" title="Miksi minun pitää tehdä kalibrointi itse?">Miksi minun pitää tehdä kalibrointi itse?</a><span class="desc"> — Kalibrointi on tärkeää, jos välität näytettävistä tai tulostettavista väreistä.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Mitä väriprofiili tarkoittaa?">Mitä väriprofiili tarkoittaa?</a><span class="desc"> — Väriprofiili on tiedosto, joka ilmaisee laitteen väriominaisuuksia, kuten väriavaruuden.</span>
+<a href="color-whatisprofile.html.fi" title="Mitä väriprofiili tarkoittaa?">Mitä väriprofiili tarkoittaa?</a><span class="desc"> — Väriprofiili on tiedosto, joka ilmaisee laitteen väriominaisuuksia, kuten väriavaruuden.</span>
 </li>
 <li class="links ">
-<a href="color-missingvcgt.html" title="Puuttuvat tiedot koko näytön värinkorjausta varten?">Puuttuvat tiedot koko näytön värinkorjausta varten?</a><span class="desc"> — Koko näytön värinkorjaus muokkaa kaikkia ruudun värejä kaikissa ikkunoissa.</span>
+<a href="color-missingvcgt.html.fi" title="Puuttuvat tiedot koko näytön värinkorjausta varten?">Puuttuvat tiedot koko näytön värinkorjausta varten?</a><span class="desc"> — Koko näytön värinkorjaus muokkaa kaikkia ruudun värejä kaikissa ikkunoissa.</span>
 </li>
 </ul></div>
 </div></div>

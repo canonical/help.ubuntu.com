@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#removable" title="Flyttbara enheter och externa diskar">Flyttbara enheter och externa diskar</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#removable" title="Flyttbara enheter och externa diskar">Flyttbara enheter och externa diskar</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="media.html" title="Ljud, video och bilder">Ljud, video och bilder</a> › <a class="trail" href="media.html#photos" title="Foton och digitalkameror">Foton</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="media.html.sv" title="Ljud, video och bilder">Ljud, video och bilder</a> › <a class="trail" href="media.html.sv#photos" title="Foton och digitalkameror">Foton</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="media.html" title="Ljud, video och bilder">Ljud, video och bilder</a> › <a class="trail" href="media.html#music" title="Musik och bärbara ljudspelare">Musik och spelare</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="media.html.sv" title="Ljud, video och bilder">Ljud, video och bilder</a> › <a class="trail" href="media.html.sv#music" title="Musik och bärbara ljudspelare">Musik och spelare</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="media.html" title="Ljud, video och bilder">Ljud, video och bilder</a> › <a class="trail" href="media.html#videos" title="Videor och videokameror">Videor</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="media.html.sv" title="Ljud, video och bilder">Ljud, video och bilder</a> › <a class="trail" href="media.html.sv#videos" title="Videor och videokameror">Videor</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <p class="p">Du kan få ett program att starta automatiskt när du ansluter en enhet eller matar in en disk eller ett mediakort. Du vill kanske till exempel att din fotohanterare ska starta när du ansluter en digitalkamera. Du kan också stänga av detta så att ingenting händer när du ansluter något.</p>
 <p class="p">För att bestämma vilka program som ska starta när du ansluter olika enheter:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Justeringsverktyg</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Justeringsverktyg</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Detaljer</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Flyttbar media</span>.</p></li>
 <li class="steps">
@@ -77,7 +77,7 @@
 <dt class="terms">Ljudskivor</dt>
 <dd class="terms"><p class="p">Välj ditt önskade musikprogram eller extraherare för CD-ljud för att hantera ljud-cd. Om du använder dvd (DVD-A) så kan du välja hur de ska öppnas under <span class="gui">Övriga media…</span>. Om du öppnar en ljudskiva med filhanteraren kommer spåren att visas som WAV-filer som du kan spela i vilket musikspelarprogram som helst.</p></dd>
 <dt class="terms">Videoskivor</dt>
-<dd class="terms"><p class="p">Välj ditt önskade videoprogram för att hantera video-dvd. Använd knappen <span class="gui">Övriga media…</span> för att ställa in ett program för Blu-ray, HD DVD, video-cd (VCD) och super video cd (SVCD). Om dvder eller andra videoskivor inte fungerar korrekt när du matar in dem, se <span class="link"><a href="video-dvd.html" title="Varför spelas inte dvd-filmer upp?">Varför spelas inte dvd-filmer upp?</a></span>.</p></dd>
+<dd class="terms"><p class="p">Välj ditt önskade videoprogram för att hantera video-dvd. Använd knappen <span class="gui">Övriga media…</span> för att ställa in ett program för Blu-ray, HD DVD, video-cd (VCD) och super video cd (SVCD). Om dvder eller andra videoskivor inte fungerar korrekt när du matar in dem, se <span class="link"><a href="video-dvd.html.sv" title="Varför spelas inte dvd-filmer upp?">Varför spelas inte dvd-filmer upp?</a></span>.</p></dd>
 <dt class="terms">Tomma skivor</dt>
 <dd class="terms"><p class="p">Använd knappen <span class="gui">Övriga media…</span> för att välja ett program som skriver skivor för tomma cd, dvder, Blu-ray-skivor och tomma HD-DVD:er.</p></dd>
 <dt class="terms">Kameror och foton</dt>
@@ -101,10 +101,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#removable" title="Flyttbara enheter och externa diskar">Flyttbara enheter och externa diskar</a></li>
-<li class="links "><a href="media.html#photos" title="Foton och digitalkameror">Foton</a></li>
-<li class="links "><a href="media.html#music" title="Musik och bärbara ljudspelare">Musik och spelare</a></li>
-<li class="links "><a href="media.html#videos" title="Videor och videokameror">Videor</a></li>
+<li class="links "><a href="files.html.sv#removable" title="Flyttbara enheter och externa diskar">Flyttbara enheter och externa diskar</a></li>
+<li class="links "><a href="media.html.sv#photos" title="Foton och digitalkameror">Foton</a></li>
+<li class="links "><a href="media.html.sv#music" title="Musik och bärbara ljudspelare">Musik och spelare</a></li>
+<li class="links "><a href="media.html.sv#videos" title="Videor och videokameror">Videor</a></li>
 </ul></div>
 </div></div></div>
 </div>

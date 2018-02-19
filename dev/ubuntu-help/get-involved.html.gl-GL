@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="more-help.html" title="Obter máis axuda">Obter máis axuda</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="more-help.html.gl-GL" title="Obter máis axuda">Obter máis axuda</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Participe para mellorar esta guía</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Así axuda a un sistema creado por unha comunidade de voluntarios. A súa participación é benvida. Se atopa un problema con estas páxinas de axuda (como erros tipográficos, instrucións incorrectas ou temas que deberían tratarse pero non se tratan), pode enviar un <span class="em">informe de erro</span>.</p>
 <p class="p">Para comunicar un erro, prema <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> e escriba <span class="input">ubuntu-bug ubuntu-docs</span>. Despois prema <span class="gui">Intro</span> para iniciar o proceso de recopilación do fallo.</p>
-<p class="p">Vexa ás  <span class="link"><a href="report-ubuntu-bug.html" title="Informar dun problema en Ubuntu">instrucións de Ubuntu para comunicar fallos</a></span> se desexa máis información sobre como informar dun fallo.</p>
+<p class="p">Vexa ás  <span class="link"><a href="report-ubuntu-bug.html.gl-GL" title="Informar dun problema en Ubuntu">instrucións de Ubuntu para comunicar fallos</a></span> se desexa máis información sobre como informar dun fallo.</p>
 <p class="p">Grazas por axudar a mellorar a Axuda de Ubuntu!</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -60,13 +60,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html" title="Obter máis axuda">Obter máis axuda</a><span class="desc"> — <span class="link"><a href="about-this-guide.html" title="Sobre esta guía">Consellos para usar esta guía</a></span>, <span class="link"><a href="get-involved.html" title="Participe para mellorar esta guía">axude a mellorar esta guía</a></span>…</span>
+<a href="more-help.html.gl-GL" title="Obter máis axuda">Obter máis axuda</a><span class="desc"> — <span class="link"><a href="about-this-guide.html.gl-GL" title="Sobre esta guía">Consellos para usar esta guía</a></span>, <span class="link"><a href="get-involved.html.gl-GL" title="Participe para mellorar esta guía">axude a mellorar esta guía</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="report-ubuntu-bug.html" title="Informar dun problema en Ubuntu">Informar dun problema en Ubuntu</a><span class="desc"> — Como e onde informar de problemas con Ubuntu.</span>
+<a href="report-ubuntu-bug.html.gl-GL" title="Informar dun problema en Ubuntu">Informar dun problema en Ubuntu</a><span class="desc"> — Como e onde informar de problemas con Ubuntu.</span>
 </li></ul></div>
 </div></div>
 </div>

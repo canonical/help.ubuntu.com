@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="Izrazi in namigi omrežja">Izrazi in namigi omrežja</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.sl" title="Izrazi in namigi omrežja">Izrazi in namigi omrežja</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kaj je naslov MAC?</span></h1></div>
@@ -53,7 +53,7 @@
 <p class="p">Naslovi MAC so sestavljeni iz šestih nizov dveh znakov, ki so ločeni z dvopičjem. Primer naslova MAC je <span class="code">00:1B:44:11:3A:B7</span>.</p>
 <p class="p">Za določitev naslova MAC svoje omrežne strojne opreme:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps">
@@ -78,7 +78,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Izrazi in namigi omrežja">Izrazi in namigi omrežja</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Najdite svoj naslov IP">Najdite svoj naslov IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Kaj WEP in WPA pomenita?">varnost WEP in WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Kaj je naslov MAC?">naslovi MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Določitev nastavitvev posredniškega strežnika">posredniški strežniki</a></span> …</span>
+<a href="net-general.html.sl" title="Izrazi in namigi omrežja">Izrazi in namigi omrežja</a><span class="desc"> — <span class="link"><a href="net-findip.html.sl" title="Najdite svoj naslov IP">Najdite svoj naslov IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.sl" title="Kaj WEP in WPA pomenita?">varnost WEP in WPA</a></span>, <span class="link"><a href="net-macaddress.html.sl" title="Kaj je naslov MAC?">naslovi MAC</a></span>, <span class="link"><a href="net-proxy.html.sl" title="Določitev nastavitvev posredniškega strežnika">posredniški strežniki</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

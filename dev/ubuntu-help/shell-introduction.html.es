@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Introducción a GNOME</span></h1></div>
@@ -51,29 +51,29 @@
 <div class="contents">
 <p class="p">GNOME 3 cuenta con una interfaz de usuario completamente reinventada, diseñada para permanecer fuera de su vista, minimizar las distracciones, y ayudarle a trabajar. La primera vez que inicie una sesión, verá un escritorio vacío y la barra superior.</p>
 <div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="Barra superior de GNOME Shell"></div></div>
-<p class="p">La barra superior proporciona acceso a las ventanas y a sus aplicaciones, a su calendario y a sus citas, y a las <span class="link"><a href="status-icons.html" title="¿Qué significan los iconos de la barra superior?">propiedades del sistema</a></span> como el sonido, la red, y la energía. En el menú de estado en la barra superior, puede cambiar el volumen o el brillo de la pantalla, editar su conexión <span class="gui">inalámbrica</span>, comprobar el estado de la batería, salir o cambiar de usuario, y apagar el equipo.</p>
+<p class="p">La barra superior proporciona acceso a las ventanas y a sus aplicaciones, a su calendario y a sus citas, y a las <span class="link"><a href="status-icons.html.es" title="¿Qué significan los iconos de la barra superior?">propiedades del sistema</a></span> como el sonido, la red, y la energía. En el menú de estado en la barra superior, puede cambiar el volumen o el brillo de la pantalla, editar su conexión <span class="gui">inalámbrica</span>, comprobar el estado de la batería, salir o cambiar de usuario, y apagar el equipo.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="shell-introduction.html#activities" title="Vista de Actividades">Vista de <span class="gui">Actividades</span></a></li>
-<li class="links "><a href="shell-introduction.html#appmenu" title="Menú de aplicaciones">Menú de aplicaciones</a></li>
-<li class="links "><a href="shell-introduction.html#clock" title="Reloj, calendario y citas">Reloj, calendario y citas</a></li>
-<li class="links "><a href="shell-introduction.html#yourname" title="Usted y su equipo">Usted y su equipo</a></li>
-<li class="links "><a href="shell-introduction.html#lockscreen" title="Bloquear la pantalla">Bloquear la pantalla</a></li>
-<li class="links "><a href="shell-introduction.html#window-list" title="Lista de ventanas">Lista de ventanas</a></li>
+<li class="links "><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Vista de <span class="gui">Actividades</span></a></li>
+<li class="links "><a href="shell-introduction.html.es#appmenu" title="Menú de aplicaciones">Menú de aplicaciones</a></li>
+<li class="links "><a href="shell-introduction.html.es#clock" title="Reloj, calendario y citas">Reloj, calendario y citas</a></li>
+<li class="links "><a href="shell-introduction.html.es#yourname" title="Usted y su equipo">Usted y su equipo</a></li>
+<li class="links "><a href="shell-introduction.html.es#lockscreen" title="Bloquear la pantalla">Bloquear la pantalla</a></li>
+<li class="links "><a href="shell-introduction.html.es#window-list" title="Lista de ventanas">Lista de ventanas</a></li>
 </ul></div></div></div>
 </div>
 <div id="activities" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Vista de <span class="gui">Actividades</span></span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-activities.png" class="media media-block" alt="Botón «Actividades»"></div></div>
-<p class="p">Para acceder a sus ventanas y aplicaciones, pulse el botón <span class="gui">Actividades</span>, o simplemente lleve el puntero del ratón a la esquina superior izquierda activa. También puede pulsar la tecla <span class="link"><a href="keyboard-key-super.html" title="¿Qué es la tecla Super?">Super</a></span> en su teclado. Puede ver sus ventanas y aplicaciones en la vista de actividades. También puede empezar a escribir para buscar aplicaciones, archivos o carpetas y en la web.</p>
+<p class="p">Para acceder a sus ventanas y aplicaciones, pulse el botón <span class="gui">Actividades</span>, o simplemente lleve el puntero del ratón a la esquina superior izquierda activa. También puede pulsar la tecla <span class="link"><a href="keyboard-key-super.html.es" title="¿Qué es la tecla Super?">Super</a></span> en su teclado. Puede ver sus ventanas y aplicaciones en la vista de actividades. También puede empezar a escribir para buscar aplicaciones, archivos o carpetas y en la web.</p>
 <div class="media media-image floatstart if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-dash.png" height="300" class="media media-block" alt="El tablero"></div></div>
 <p class="p">A la izquierda de la vista, encontrará el <span class="em">tablero</span>. El tablero le muestra sus aplicaciones favoritas y en ejecución. Pulse en cualquier icono en el tablero para abrir dicha aplicación. Si la aplicación se está ejecutando, se resaltará. Pulsar en el icono abrirá la ventana utilizada ​​más recientemente. También puede arrastrar el icono a la vista general o a cualquier área de trabajo de la derecha.</p>
 <p class="p">Pulsar con el botón derecho muestra un menú que le permite escoger cualquier ventana de una aplicación en ejecución, o abrir una ventana nueva. También puede pulsar en el icono mientras mantiene pulsada la tecla <span class="key"><kbd>Ctrl</kbd></span> para abrir una ventana nueva.</p>
 <p class="p">Cuando entre en la vista, inicialmente estará en la vista de las ventanas. Esto muestra las miniaturas de todas las ventanas en el área de trabajo actual.</p>
 <p class="p">Pulse en el botón de rejilla en la parte inferior del tablero para mostrar la vista de aplicaciones. Esto le muestra todas las aplicaciones instaladas en su equipo. Pulse en cualquier aplicación para ejecutarla, o arrastre una aplicación a la vista o sobre la miniatura del espacio de trabajo. También puede arrastrar una aplicación al tablero para que sea uno de los favoritos. Sus aplicaciones favoritas permanecerán en el tablero, incluso cuando no estén en funcionamiento, para que pueda acceder a ellas rápidamente.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="Iniciar aplicaciones">Aprender más acerca de iniciar aplicaciones.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="Ventanas y áreas de trabajo">Aprender más acerca de las ventanas y las áreas de trabajo.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html.es" title="Iniciar aplicaciones">Aprender más acerca de iniciar aplicaciones.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows.html.es" title="Ventanas y áreas de trabajo">Aprender más acerca de las ventanas y las áreas de trabajo.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -90,8 +90,8 @@
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appts.png" width="250" class="media media-block" alt="Reloj, calendario, citas y notificaciones"></div></div>
 <p class="p">Pulse en el reloj en el centro de la barra superior para ver la fecha actual, un calendario mensual y una lista de sus próximas citas. También puede abrir el calendario pulsando <span class="keyseq"><span class="key"><kbd>Súper</kbd></span>+<span class="key"><kbd>M</kbd></span></span>. Puede acceder a la configuración de fecha y hora y abrir totalmente su calendario de <span class="app">Evolution</span> directamente desde el menú.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html" title="Citas de calendario">Aprender más sobre el calendario y las citas.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-notifications.html" title="Notificaciones y la bandeja de mensajes">Aprender más acerca de la bandeja de mensajes</a></span>.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html.es" title="Citas de calendario">Aprender más sobre el calendario y las citas.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-notifications.html.es" title="Notificaciones y la bandeja de mensajes">Aprender más acerca de la bandeja de mensajes</a></span>.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -101,7 +101,7 @@
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-exit.png" width="250" class="media media-block" alt="Menú del usuario"></div></div>
 <p class="p">Pulse en el menú del sistema en la esquina superior derecha de la pantalla para la configuración del sistema y su equipo.</p>
 <p class="p">Al dejar su equipo, puede bloquear la pantalla para evitar que otras personas lo usen. Puede rápidamente cambiar de usuario sin necesidad de iniciar la sesión completamente para dar a alguien acceso al equipo. O bien, puede suspender o apagar el equipo desde el menú.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html" title="Cerrar la sesión, apagar o cambiar de usuario">Aprender más acerca de cambiar de usuario, cerrar la sesión y apagar el equipo.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html.es" title="Cerrar la sesión, apagar o cambiar de usuario">Aprender más acerca de cambiar de usuario, cerrar la sesión y apagar el equipo.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div id="lockscreen" class="sect"><div class="inner">
@@ -109,14 +109,14 @@
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="Bloquear la pantalla"></div></div>
 <p class="p">Cuando bloquea su pantalla o se bloquea automáticamente, se muestra la pantalla de bloqueo. Además de proteger su escritorio mientras está ausente de su equipo, la pantalla de bloqueo muestra la fecha y la hora. También muestra información sobre la batería y el estado de la red, y le permite controlar la reproducción de medios.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html" title="La pantalla de bloqueo">Aprenda más sobre la pantalla de bloqueo.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html.es" title="La pantalla de bloqueo">Aprenda más sobre la pantalla de bloqueo.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div id="window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Lista de ventanas</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">GNOME implementa una manera de cambiar entre ventanas diferente a a la de la lista de ventanas visible en otros entornos de escritorio. Esto le permite centrarse en las tareas que tiene a mano sin distracciones.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Cambiar entre ventanas">Aprender más sobre cambiar entre ventanas. </a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html.es" title="Cambiar entre ventanas">Aprender más sobre cambiar entre ventanas. </a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -124,9 +124,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="index.html" title="Guía del escritorio de Ubuntu">Guía del escritorio de Ubuntu</a></li>
+<li class="links "><a href="index.html.es" title="Guía del escritorio de Ubuntu">Guía del escritorio de Ubuntu</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Su escritorio">Su escritorio</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Citas de calendario">Calendario</a></span>, <span class="link"><a href="shell-notifications.html" title="Notificaciones y la bandeja de mensajes">notificaciones</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Atajos de teclado útiles">atajos del teclado</a></span>, <span class="link"><a href="shell-windows.html" title="Ventanas y áreas de trabajo">ventanas y áreas de trabajo</a></span>…</span>
+<a href="shell-overview.html.es" title="Su escritorio">Su escritorio</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.es" title="Citas de calendario">Calendario</a></span>, <span class="link"><a href="shell-notifications.html.es" title="Notificaciones y la bandeja de mensajes">notificaciones</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.es" title="Atajos de teclado útiles">atajos del teclado</a></span>, <span class="link"><a href="shell-windows.html.es" title="Ventanas y áreas de trabajo">ventanas y áreas de trabajo</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

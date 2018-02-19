@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="color.html" title="Gestion de la couleur">Gestion de la couleur</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="color.html.fr" title="Gestion de la couleur">Gestion de la couleur</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="color.html" title="Gestion de la couleur">Gestion de la couleur</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="color.html.fr" title="Gestion de la couleur">Gestion de la couleur</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">You may want to assign a color profile for your screen or printer so that
   the colors which it shows are more accurate.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Color</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Couleur</span> pour ouvrir le panneau. </p></li>
 <li class="steps"><p class="p">Sélectionnez le périphérique auquel vous souhaitez ajouter un profil.</p></li>
@@ -72,20 +72,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html" title="Gestion de la couleur">Gestion de la couleur</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html" title="Importance de la gestion des couleurs">Pourquoi est-ce important ?</a></span>, <span class="link"><a href="color.html#profiles" title="Profils de couleurs">Profils de couleurs</a></span>, <span class="link"><a href="color.html#calibration" title="Étalonnage">Comment étalonner un périphérique</a></span>…</span>
+<a href="color.html.fr" title="Gestion de la couleur">Gestion de la couleur</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.fr" title="Importance de la gestion des couleurs">Pourquoi est-ce important ?</a></span>, <span class="link"><a href="color.html.fr#profiles" title="Profils de couleurs">Profils de couleurs</a></span>, <span class="link"><a href="color.html.fr#calibration" title="Étalonnage">Comment étalonner un périphérique</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-howtoimport.html" title="Importation de profils de couleur">Importation de profils de couleur</a><span class="desc"> — Importer des profils de couleur en les ouvrant.</span>
+<a href="color-howtoimport.html.fr" title="Importation de profils de couleur">Importation de profils de couleur</a><span class="desc"> — Importer des profils de couleur en les ouvrant.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Qu'est-ce qu'un profil de couleurs ?">Qu'est-ce qu'un profil de couleurs ?</a><span class="desc"> — Un profil de couleurs est un simple fichier qui décrit un espace colorimétrique ou la réponse d'un périphérique.</span>
+<a href="color-whatisprofile.html.fr" title="Qu'est-ce qu'un profil de couleurs ?">Qu'est-ce qu'un profil de couleurs ?</a><span class="desc"> — Un profil de couleurs est un simple fichier qui décrit un espace colorimétrique ou la réponse d'un périphérique.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Étalonnage par vous-même">Étalonnage par vous-même</a><span class="desc"> — Étalonner est important si vous voulez faire attention aux couleurs que vous affichez ou que vous imprimez.</span>
+<a href="color-why-calibrate.html.fr" title="Étalonnage par vous-même">Étalonnage par vous-même</a><span class="desc"> — Étalonner est important si vous voulez faire attention aux couleurs que vous affichez ou que vous imprimez.</span>
 </li>
 </ul></div>
 </div></div>

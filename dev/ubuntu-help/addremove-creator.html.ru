@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="disk.html" title="Диски и другие устройства хранения информации">Диски и другие устройства хранения информации</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="disk.html.ru" title="Диски и другие устройства хранения информации">Диски и другие устройства хранения информации</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Установка и удаление программ">Установка и удаление программ</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.ru" title="Установка и удаление программ">Установка и удаление программ</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -71,10 +71,10 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="disk.html" title="Диски и другие устройства хранения информации">Диски и другие устройства хранения информации</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Проверка оставшегося свободного места на диске">Дисковое пространство</a></span>, <span class="link"><a href="disk-benchmark.html" title="Тестирование производительности жёсткого диска">производительность</a></span>, <span class="link"><a href="disk-check.html" title="Проверка жёсткого диска на наличие неисправностей">неполадки</a></span>, <span class="link"><a href="disk-partitions.html" title="Управление томами и разделами">тома и разделы</a></span>…</span>
+<a href="disk.html.ru" title="Диски и другие устройства хранения информации">Диски и другие устройства хранения информации</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ru" title="Проверка оставшегося свободного места на диске">Дисковое пространство</a></span>, <span class="link"><a href="disk-benchmark.html.ru" title="Тестирование производительности жёсткого диска">производительность</a></span>, <span class="link"><a href="disk-check.html.ru" title="Проверка жёсткого диска на наличие неисправностей">неполадки</a></span>, <span class="link"><a href="disk-partitions.html.ru" title="Управление томами и разделами">тома и разделы</a></span>…</span>
 </li>
 <li class="links ">
-<a href="addremove.html" title="Установка и удаление программ">Установка и удаление программ</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Установка дополнительных приложений">Установка приложений</a></span>, <span class="link"><a href="addremove-remove.html" title="Удаление приложения">удаление приложений</a></span>, <span class="link"><a href="addremove-sources.html" title="Добавление репозиториев программного обеспечения">добавление репозиториев</a></span>…</span>
+<a href="addremove.html.ru" title="Установка и удаление программ">Установка и удаление программ</a><span class="desc"> — <span class="link"><a href="addremove-install.html.ru" title="Установка дополнительных приложений">Установка приложений</a></span>, <span class="link"><a href="addremove-remove.html.ru" title="Удаление приложения">удаление приложений</a></span>, <span class="link"><a href="addremove-sources.html.ru" title="Добавление репозиториев программного обеспечения">добавление репозиториев</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

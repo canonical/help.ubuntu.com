@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ääni, video ja kuvat</span></h1></div>
@@ -54,13 +54,13 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-broken.html" title="Ääniongelmat"><span class="title">Ääniongelmat</span><span class="linkdiv-dash"> — </span><span class="desc">Ääneen liittyvien ongelmien kuten äänen puuttumisen tai huonon laadun ongelmanratkaisu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html" title="Käytä eri kaiuttimia tai kuulokkeita"><span class="title">Käytä eri kaiuttimia tai kuulokkeita</span><span class="linkdiv-dash"> — </span><span class="desc">Yhdistä kaiuttimet tai kuulokkeet tietokoneeseen ja aseta ne oletustoistolaitteiksi.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html" title="Käytä eri mikrofonia"><span class="title">Käytä eri mikrofonia</span><span class="linkdiv-dash"> — </span><span class="desc">Käytä analogista tai USB-mikrofonia ja valitse se oletuslaitteeksi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-broken.html.fi" title="Ääniongelmat"><span class="title">Ääniongelmat</span><span class="linkdiv-dash"> — </span><span class="desc">Ääneen liittyvien ongelmien kuten äänen puuttumisen tai huonon laadun ongelmanratkaisu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html.fi" title="Käytä eri kaiuttimia tai kuulokkeita"><span class="title">Käytä eri kaiuttimia tai kuulokkeita</span><span class="linkdiv-dash"> — </span><span class="desc">Yhdistä kaiuttimet tai kuulokkeet tietokoneeseen ja aseta ne oletustoistolaitteiksi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html.fi" title="Käytä eri mikrofonia"><span class="title">Käytä eri mikrofonia</span><span class="linkdiv-dash"> — </span><span class="desc">Käytä analogista tai USB-mikrofonia ja valitse se oletuslaitteeksi.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-volume.html" title="Muuta äänenvoimakkuutta"><span class="title">Muuta äänenvoimakkuutta</span><span class="linkdiv-dash"> — </span><span class="desc">Aseta tietokoneen äänenvoimakkuus ja määritä jokaiselle sovellukselle äänenvoimakkuus erikseen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-alert.html" title="Valitse tai kytke hälytysääni pois päältä"><span class="title">Valitse tai kytke hälytysääni pois päältä</span><span class="linkdiv-dash"> — </span><span class="desc">Valitse hälytysääni ilmoituksille, määritä hälytysäänen voimakkuus tai kytke se pois päälle.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-volume.html.fi" title="Muuta äänenvoimakkuutta"><span class="title">Muuta äänenvoimakkuutta</span><span class="linkdiv-dash"> — </span><span class="desc">Aseta tietokoneen äänenvoimakkuus ja määritä jokaiselle sovellukselle äänenvoimakkuus erikseen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-alert.html.fi" title="Valitse tai kytke hälytysääni pois päältä"><span class="title">Valitse tai kytke hälytysääni pois päältä</span><span class="linkdiv-dash"> — </span><span class="desc">Valitse hälytysääni ilmoituksille, määritä hälytysäänen voimakkuus tai kytke se pois päälle.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Lisätietoja</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html" title="Hiiri">hiiri</a></span>, <span class="link"><a href="prefs-display.html" title="Näyttö">näytöt</a></span>, <span class="link"><a href="prefs-language.html" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html" title="Käyttäjätilit">käyttäjätilit</a></span>…</span>
+<a href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a><span class="desc"> — <span class="link"><a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html.fi" title="Hiiri">hiiri</a></span>, <span class="link"><a href="prefs-display.html.fi" title="Näyttö">näytöt</a></span>, <span class="link"><a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html.fi" title="Käyttäjätilit">käyttäjätilit</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -78,33 +78,33 @@
 <div class="hgroup"><h2 class="title"><span class="title">Musiikki ja kannettavat soittimet</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Avaa sovelluksia laitteita tai levyjä liitettäessä"><span class="title">Avaa sovelluksia laitteita tai levyjä liitettäessä</span><span class="linkdiv-dash"> — </span><span class="desc">Suorita jokin sovellus automaattisesti kun liität CD:n, ja DVD:n, kameran, musiikkisoittimen tai muun laitteen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="I can’t play the songs I bought from an online music store"><span class="title">I can’t play the songs I bought from an online music store</span><span class="linkdiv-dash"> — </span><span class="desc">Support for that file format might not be installed or the songs could be “copy protected”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.fi" title="Avaa sovelluksia laitteita tai levyjä liitettäessä"><span class="title">Avaa sovelluksia laitteita tai levyjä liitettäessä</span><span class="linkdiv-dash"> — </span><span class="desc">Suorita jokin sovellus automaattisesti kun liität CD:n, ja DVD:n, kameran, musiikkisoittimen tai muun laitteen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html.fi" title="I can’t play the songs I bought from an online music store"><span class="title">I can’t play the songs I bought from an online music store</span><span class="linkdiv-dash"> — </span><span class="desc">Support for that file format might not be installed or the songs could be “copy protected”.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html" title="Songs don’t appear on my iPod when I copy them onto it"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span><span class="linkdiv-dash"> — </span><span class="desc">Käytä musiikkisoitinta musiikin turvalliseen kopioimiseen ja poistamiseen iPodista.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html" title="Uusi iPodini ei toimi"><span class="title">Uusi iPodini ei toimi</span><span class="linkdiv-dash"> — </span><span class="desc">Uudet iPodit pitää aktivoida iTunes-ohjelmalla ennen kuin niitä voi käyttää.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html.fi" title="Songs don’t appear on my iPod when I copy them onto it"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span><span class="linkdiv-dash"> — </span><span class="desc">Käytä musiikkisoitinta musiikin turvalliseen kopioimiseen ja poistamiseen iPodista.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html.fi" title="Uusi iPodini ei toimi"><span class="title">Uusi iPodini ei toimi</span><span class="linkdiv-dash"> — </span><span class="desc">Uudet iPodit pitää aktivoida iTunes-ohjelmalla ennen kuin niitä voi käyttää.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="photos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Valokuvat ja digikamerat</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Avaa sovelluksia laitteita tai levyjä liitettäessä"><span class="title">Avaa sovelluksia laitteita tai levyjä liitettäessä</span><span class="linkdiv-dash"> — </span><span class="desc">Suorita jokin sovellus automaattisesti kun liität CD:n, ja DVD:n, kameran, musiikkisoittimen tai muun laitteen.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html" title="Kortinlukijoiden ongelmat"><span class="title">Kortinlukijoiden ongelmat</span><span class="linkdiv-dash"> — </span><span class="desc">Muistikortinlukijoiden ongelmien ratkaisuja.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.fi" title="Avaa sovelluksia laitteita tai levyjä liitettäessä"><span class="title">Avaa sovelluksia laitteita tai levyjä liitettäessä</span><span class="linkdiv-dash"> — </span><span class="desc">Suorita jokin sovellus automaattisesti kun liität CD:n, ja DVD:n, kameran, musiikkisoittimen tai muun laitteen.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html.fi" title="Kortinlukijoiden ongelmat"><span class="title">Kortinlukijoiden ongelmat</span><span class="linkdiv-dash"> — </span><span class="desc">Muistikortinlukijoiden ongelmien ratkaisuja.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="videos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Videot ja videokamerat</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Avaa sovelluksia laitteita tai levyjä liitettäessä"><span class="title">Avaa sovelluksia laitteita tai levyjä liitettäessä</span><span class="linkdiv-dash"> — </span><span class="desc">Suorita jokin sovellus automaattisesti kun liität CD:n, ja DVD:n, kameran, musiikkisoittimen tai muun laitteen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd.html" title="Miksi DVD:t eivät toimi?"><span class="title">Miksi DVD:t eivät toimi?</span><span class="linkdiv-dash"> — </span><span class="desc">Et ole ehkä asentanut vaadittavia tiedostomuotoja, tai DVD voi olla väärästä sijainnista.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="app-cheese.html" title="Ota hauskoja kuvia ja videoita verkkokamerallasi"><span class="title">Ota hauskoja kuvia ja videoita verkkokamerallasi</span><span class="linkdiv-dash"> — </span><span class="desc">Henkilökohtainen valokuvauskoppisi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.fi" title="Avaa sovelluksia laitteita tai levyjä liitettäessä"><span class="title">Avaa sovelluksia laitteita tai levyjä liitettäessä</span><span class="linkdiv-dash"> — </span><span class="desc">Suorita jokin sovellus automaattisesti kun liität CD:n, ja DVD:n, kameran, musiikkisoittimen tai muun laitteen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd.html.fi" title="Miksi DVD:t eivät toimi?"><span class="title">Miksi DVD:t eivät toimi?</span><span class="linkdiv-dash"> — </span><span class="desc">Et ole ehkä asentanut vaadittavia tiedostomuotoja, tai DVD voi olla väärästä sijainnista.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="app-cheese.html.fi" title="Ota hauskoja kuvia ja videoita verkkokamerallasi"><span class="title">Ota hauskoja kuvia ja videoita verkkokamerallasi</span><span class="linkdiv-dash"> — </span><span class="desc">Henkilökohtainen valokuvauskoppisi.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="video-sending.html" title="Other people can’t play the videos I made"><span class="title">Other people can’t play the videos I made</span><span class="linkdiv-dash"> — </span><span class="desc">Tarkista, että he ovat asentaneet vaadittavat tiedostomuodot.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html" title="Miten otan rajoitetut tiedostomuodot käyttöön?"><span class="title">Miten otan rajoitetut tiedostomuodot käyttöön?</span><span class="linkdiv-dash"> — </span><span class="desc">Useimmat kaupalliset DVD-levyt ovat salattuja, eivätkä ne toimi ilman salauksenpurkuohjelmistoa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-sending.html.fi" title="Other people can’t play the videos I made"><span class="title">Other people can’t play the videos I made</span><span class="linkdiv-dash"> — </span><span class="desc">Tarkista, että he ovat asentaneet vaadittavat tiedostomuodot.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html.fi" title="Miten otan rajoitetut tiedostomuodot käyttöön?"><span class="title">Miten otan rajoitetut tiedostomuodot käyttöön?</span><span class="linkdiv-dash"> — </span><span class="desc">Useimmat kaupalliset DVD-levyt ovat salattuja, eivätkä ne toimi ilman salauksenpurkuohjelmistoa.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -112,7 +112,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntun työpöytäopas">Ubuntun työpöytäopas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.fi" title="Ubuntun työpöytäopas">Ubuntun työpöytäopas</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

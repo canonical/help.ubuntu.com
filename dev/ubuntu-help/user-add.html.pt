@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="user-accounts.html" title="Contas de utilizador">Utentes</a> › <a class="trail" href="user-accounts.html#manage" title="Gerir as contas de utilizador">Contas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="user-accounts.html.pt" title="Contas de utilizador">Utentes</a> › <a class="trail" href="user-accounts.html.pt#manage" title="Gerir as contas de utilizador">Contas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Acrescentar uma conta de utilizador nova</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Pode acrescentar várias contas de utilizador o seu computador. Dar uma conta à cada pessoa em seu lar ou empresa. A cada utilizador tem a sua propria diretório de início, documentos e configuração.</p>
-<p class="p">Precisa <span class="link"><a href="user-admin-explain.html" title="Como funcionam os privilégios de administrador?">privilégios de administrador</a></span> para acrescentar contas de utilizador.</p>
+<p class="p">Precisa <span class="link"><a href="user-admin-explain.html.pt" title="Como funcionam os privilégios de administrador?">privilégios de administrador</a></span> para acrescentar contas de utilizador.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Utentes</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Utentes</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Utentes</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Carregue <span class="gui">Desbloquear</span> no canto superior direita e introduza a sua palavra-passe quando se lhe peça.</p></li>
 <li class="steps"><p class="p">Embaixo da lista de contas na esquerda, carregue o botão <span class="gui">+</span> para anhadir uma conta de utilizador nova.</p></li>
 <li class="steps">
-<p class="p">Se quer que o novo utilizador tenha <span class="link"><a href="user-admin-explain.html" title="Como funcionam os privilégios de administrador?">acesso de administrador</a></span> à computador, selecione <span class="gui">Administrador</span> para o tipo de conta.</p>
+<p class="p">Se quer que o novo utilizador tenha <span class="link"><a href="user-admin-explain.html.pt" title="Como funcionam os privilégios de administrador?">acesso de administrador</a></span> à computador, selecione <span class="gui">Administrador</span> para o tipo de conta.</p>
 <p class="p">Os administradores podem fazer coisas como acrescentar e eliminar utilizadores, instalar software e controladores e mudar a data e a hora.</p>
 </li>
 <li class="steps"><p class="p">Enter the new user’s full name. The username will be filled in
@@ -80,12 +80,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Gerir as contas de utilizador">Gerir as contas de utilizador</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.pt#manage" title="Gerir as contas de utilizador">Gerir as contas de utilizador</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-delete.html" title="Eliminar uma conta de utilizador">Eliminar uma conta de utilizador</a><span class="desc"> — Eliminar utilizadores que já não usam o seu computador</span>
+<a href="user-delete.html.pt" title="Eliminar uma conta de utilizador">Eliminar uma conta de utilizador</a><span class="desc"> — Eliminar utilizadores que já não usam o seu computador</span>
 </li></ul></div>
 </div></div>
 </div>

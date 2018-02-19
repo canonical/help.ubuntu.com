@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="a11y.html" title="Accès universel">Accès universel</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="a11y.html.fr" title="Accès universel">Accès universel</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Recherche du menu « Accès universel »</span></h1></div>
@@ -58,7 +58,7 @@
 </div></div>
 <p class="p">Si vous ne voyez pas le menu d'accès universel dans la barre en haut de l'écran, vous pouvez l'activer via le panneau des paramètres de <span class="gui">Accès Universel</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ouvrez la vue d'ensemble des <span class="link"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d'ensemble des <span class="link"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur l'icône <span class="gui">Accès universel</span> pour afficher le panneau.</p></li>
 <li class="steps"><p class="p">Basculez l'interrupteur <span class="gui">Toujours afficher le menu Accès universel</span> sur <span class="gui">Activé</span>.</p></li>
 </ol></div></div></div>
@@ -76,7 +76,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y.html" title="Accès universel">Accès universel</a><span class="desc"> — <span class="link"><a href="a11y.html#vision" title="Vision défaillante">Vision</a></span>, <span class="link"><a href="a11y.html#sound" title="Audition défaillante">audition</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mobilité défaillante">mobilité</a></span>, <span class="link"><a href="a11y-braille.html" title="Lecture en Braille d'un écran">braille</a></span>, <span class="link"><a href="a11y-mag.html" title="Agrandissement d'une zone écran">loupe</a></span>…</span>
+<a href="a11y.html.fr" title="Accès universel">Accès universel</a><span class="desc"> — <span class="link"><a href="a11y.html.fr#vision" title="Vision défaillante">Vision</a></span>, <span class="link"><a href="a11y.html.fr#sound" title="Audition défaillante">audition</a></span>, <span class="link"><a href="a11y.html.fr#mobility" title="Mobilité défaillante">mobilité</a></span>, <span class="link"><a href="a11y-braille.html.fr" title="Lecture en Braille d'un écran">braille</a></span>, <span class="link"><a href="a11y-mag.html.fr" title="Agrandissement d'une zone écran">loupe</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

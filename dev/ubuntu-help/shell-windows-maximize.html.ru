@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html#apps" title="Приложения и окна">Приложения и окна</a> » <a class="trail" href="shell-windows.html" title="Окна и рабочие места">Окна и рабочие места</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Работа с окнами">Окна</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ru" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html.ru#apps" title="Приложения и окна">Приложения и окна</a> » <a class="trail" href="shell-windows.html.ru" title="Окна и рабочие места">Окна и рабочие места</a> › <a class="trail" href="shell-windows.html.ru#working-with-windows" title="Работа с окнами">Окна</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Разворачивание и восстановление размеров окна</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Можно развернуть окно, чтобы оно заняло всё пространство рабочего стола, а потом восстановить прежний размер окна. Также можно развернуть окна вертикально вдоль левой и правой сторон экрана, чтобы видеть два окна одновременно. Подробнее об этом смотрите <span class="link"><a href="shell-windows-tiled.html" title="Плиточное расположение окон">Плиточное расположение окон</a></span>.</p>
-<p class="p">Чтобы развернуть окно, нажмите на его заголовок и перетаскивайте окно к верхней части экрана, или просто выполните двойное нажатие на заголовке. Чтобы развернуть окно с помощью клавиатуры, удерживайте нажатой клавишу <span class="key"><a href="keyboard-key-super.html" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span> и нажмите <span class="key"><kbd>↑</kbd></span>, или нажмите <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
+<p class="p">Можно развернуть окно, чтобы оно заняло всё пространство рабочего стола, а потом восстановить прежний размер окна. Также можно развернуть окна вертикально вдоль левой и правой сторон экрана, чтобы видеть два окна одновременно. Подробнее об этом смотрите <span class="link"><a href="shell-windows-tiled.html.ru" title="Плиточное расположение окон">Плиточное расположение окон</a></span>.</p>
+<p class="p">Чтобы развернуть окно, нажмите на его заголовок и перетаскивайте окно к верхней части экрана, или просто выполните двойное нажатие на заголовке. Чтобы развернуть окно с помощью клавиатуры, удерживайте нажатой клавишу <span class="key"><a href="keyboard-key-super.html.ru" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span> и нажмите <span class="key"><kbd>↑</kbd></span>, или нажмите <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
 <p class="p">Чтобы восстановить прежний размер окна, перетащите его к центру от краёв экрана. Если окно развёрнуто во весь экран, можно выполнить двойное нажатие на заголовке окна для восстановления его прежнего размера. Для этого также можно использовать те же самые комбинации клавиш, с помощью которых вы разворачивали окно.</p>
 <div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">Удерживая клавишу <span class="key"><kbd>Super</kbd></span>, перетащите окно в любое место.</p></div></div></div></div>
 </div>
@@ -59,12 +59,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Работа с окнами">Работа с окнами</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.ru#working-with-windows" title="Работа с окнами">Работа с окнами</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-tiled.html" title="Плиточное расположение окон">Плиточное расположение окон</a><span class="desc"> — Разворачивание двух окон рядом друг с другом.</span>
+<a href="shell-windows-tiled.html.ru" title="Плиточное расположение окон">Плиточное расположение окон</a><span class="desc"> — Разворачивание двух окон рядом друг с другом.</span>
 </li></ul></div>
 </div></div>
 </div>

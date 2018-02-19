@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html#problems" title="Типичные проблемы">Неполадки</a> » <a class="trail" href="bluetooth.html#problems" title="Неполадки">Неполадки Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки</a> » <a class="trail" href="bluetooth.html.ru#problems" title="Неполадки">Неполадки Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">I cannot connect my Bluetooth device</span></h1></div>
@@ -56,17 +56,17 @@
 <dt class="terms">Оборудование Bluetooth не распознано</dt>
 <dd class="terms"><p class="p">Your Bluetooth adapter or dongle may not have been recognized by the
       computer. This could be because
-      <span class="link"><a href="hardware-driver.html" title="Что такое драйвер?">drivers</a></span> for the adapter are not
+      <span class="link"><a href="hardware-driver.html.ru" title="Что такое драйвер?">drivers</a></span> for the adapter are not
       installed. Some Bluetooth adapters are not supported on Linux, so you may
       not be able to get the right drivers for them. In this case, you will
       probably have to get a different Bluetooth adapter.</p></dd>
 <dt class="terms">Adapter is not switched on</dt>
-<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Click the
-          Bluetooth icon in the <span class="gui">menu bar</span> and check that it’s not
-          <span class="link"><a href="bluetooth-turn-on-off.html" title="Включение и выключение Bluetooth">disabled</a></span>.</p></dd>
+<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Open the
+        Bluetooth panel and check that it is not
+        <span class="link"><a href="bluetooth-turn-on-off.html.ru" title="Включение и выключение Bluetooth">disabled</a></span>.</p></dd>
 <dt class="terms">Выключено соединение с Bluetooth на устройстве</dt>
 <dd class="terms"><p class="p">Check that Bluetooth is turned on on the device you are trying to
-      connect to, and that it is <span class="link"><a href="bluetooth-visibility.html" title="Что такое видимость Bluetooth?">discoverable
+      connect to, and that it is <span class="link"><a href="bluetooth-visibility.html.ru" title="Что такое видимость Bluetooth?">discoverable
       or visible</a></span>. For example, if you are trying to connect to a phone,
       make sure that it is not in airplane mode.</p></dd>
 <dt class="terms">В вашем компьютере нет адаптера Bluetooth</dt>
@@ -78,12 +78,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="bluetooth.html#problems" title="Неполадки">Неполадки Bluetooth</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="bluetooth.html.ru#problems" title="Неполадки">Неполадки Bluetooth</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="Что такое драйвер?">Что такое драйвер?</a><span class="desc"> — Драйвер позволяет компьютеру использовать подключённые к нему устройства.</span>
+<a href="hardware-driver.html.ru" title="Что такое драйвер?">Что такое драйвер?</a><span class="desc"> — Драйвер позволяет компьютеру использовать подключённые к нему устройства.</span>
 </li></ul></div>
 </div></div>
 </div>

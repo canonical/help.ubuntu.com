@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="mouse.html.pt-BR" title="Mouse">Mouse</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="mouse.html.pt-BR" title="Mouse">Mouse</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="region"><div class="contents">
 <p class="p">Você pode tocar no seu touchpad para clicar, ao invés de usar um botão.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Mouse &amp; touchpad</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Mouse &amp; touchpad</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Mouse &amp; touchpad</span> para abrir o painel.</p></li>
 <li class="steps">
 <p class="p">Na seção <span class="gui">Touchpad</span>, marque <span class="gui">Toque para clicar</span>.</p>
@@ -69,8 +69,8 @@
 <li class="list"><p class="p">Para clicar, dê um toque no touchpad.</p></li>
 <li class="list"><p class="p">Para duplo clique, dê dois toques.</p></li>
 <li class="list"><p class="p">Para arrastar um item, dê dois toques sem levantar o seu dedo após o segundo toque. Arraste o item para onde você quiser e, então, levante o seu dedo para soltar o item.</p></li>
-<li class="list"><p class="p">Se o seu mouse tiver suporte a multitoque, execute o clique com botão direito tocando com dois dedos de uma só vez. Do contrário, você ainda precisará usar os botões de hardware para fazer o clique com botão direito. Veja <span class="link"><a href="a11y-right-click.html" title="Simulando o clique com o botão direito do mouse">Simulando o clique com o botão direito do mouse</a></span> por um método sem uso de um segundo botão de mouse.</p></li>
-<li class="list"><p class="p">Se o seu touchpad tem suporte a multitoque, execute o <span class="link"><a href="mouse-middleclick.html" title="Clique com o botão do meio">clique com botão do meio</a></span> tocando com três dedos de uma só vez.</p></li>
+<li class="list"><p class="p">Se o seu mouse tiver suporte a multitoque, execute o clique com botão direito tocando com dois dedos de uma só vez. Do contrário, você ainda precisará usar os botões de hardware para fazer o clique com botão direito. Veja <span class="link"><a href="a11y-right-click.html.pt-BR" title="Simulando o clique com o botão direito do mouse">Simulando o clique com o botão direito do mouse</a></span> por um método sem uso de um segundo botão de mouse.</p></li>
+<li class="list"><p class="p">Se o seu touchpad tem suporte a multitoque, execute o <span class="link"><a href="mouse-middleclick.html.pt-BR" title="Clique com o botão do meio">clique com botão do meio</a></span> tocando com três dedos de uma só vez.</p></li>
 </ul></div></div></div>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Ao tocar ou arrastar com múltiplos dedos, certifique-se de que seus dedos estão afastados o suficiente. Se eles estiverem muito perto, o seu computador pode achar que eles são um só dedo.</p></div></div></div></div>
 </div></div>
@@ -80,7 +80,7 @@
 <div class="region"><div class="contents">
 <p class="p">Você pode usar rolagem no seu touchpad usando dois dedos.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Mouse &amp; touchpad</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Mouse &amp; touchpad</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Mouse &amp; touchpad</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Na seção <span class="gui">Touchpad</span>, marque <span class="gui">Rolagem com dois dedos</span>.</p></li>
 </ol></div></div></div>
@@ -93,7 +93,7 @@
 <div class="region"><div class="contents">
 <p class="p">Você pode arrastar um conteúdo como se deslizasse um pedaço de papel usando o touchpad.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Mouse &amp; touchpad</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Mouse &amp; touchpad</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Mouse &amp; touchpad</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Na seção <span class="gui">Touchpad</span>, marque <span class="gui">Rolagem natural</span>.</p></li>
 </ol></div></div></div>
@@ -105,7 +105,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html" title="Mouse">Mouse</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Usando um mouse como canhoto">Canhoto</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Ajustando a velocidade do mouse e do touchpad">velocidade e sensibilidade</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Clicando, arrastando ou rolagem com o touchpad">clicando e rolando com o touchpad</a></span>…</span>
+<a href="mouse.html.pt-BR" title="Mouse">Mouse</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.pt-BR" title="Usando um mouse como canhoto">Canhoto</a></span>, <span class="link"><a href="mouse-sensitivity.html.pt-BR" title="Ajustando a velocidade do mouse e do touchpad">velocidade e sensibilidade</a></span>, <span class="link"><a href="mouse-touchpad-click.html.pt-BR" title="Clicando, arrastando ou rolagem com o touchpad">clicando e rolando com o touchpad</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

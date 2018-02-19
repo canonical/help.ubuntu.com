@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Terminologie sítí a rady</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html" title="Co je to IP adresa?"><span class="title">Co je to IP adresa?</span><span class="linkdiv-dash"> — </span><span class="desc">IP adresa je něco jako telefonní číslo vašeho počítače.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html" title="Co je to MAC adresa?"><span class="title">Co je to MAC adresa?</span><span class="linkdiv-dash"> — </span><span class="desc">Jedná se o jedinečný identifikátor přiřazený síťovému hardwaru.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html" title="Jak zůstat na Internetu v bezpečí"><span class="title">Jak zůstat na Internetu v bezpečí</span><span class="linkdiv-dash"> — </span><span class="desc">Obecné rady, které byste měli mít na paměti při používání Internetu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html.cs" title="Co je to IP adresa?"><span class="title">Co je to IP adresa?</span><span class="linkdiv-dash"> — </span><span class="desc">IP adresa je něco jako telefonní číslo vašeho počítače.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html.cs" title="Co je to MAC adresa?"><span class="title">Co je to MAC adresa?</span><span class="linkdiv-dash"> — </span><span class="desc">Jedná se o jedinečný identifikátor přiřazený síťovému hardwaru.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html.cs" title="Jak zůstat na Internetu v bezpečí"><span class="title">Jak zůstat na Internetu v bezpečí</span><span class="linkdiv-dash"> — </span><span class="desc">Obecné rady, které byste měli mít na paměti při používání Internetu.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-proxy.html" title="Nastavení proxy"><span class="title">Nastavení proxy</span><span class="linkdiv-dash"> — </span><span class="desc">Proxy je prostředníkem ve webovém provozu. Používá se pro anonymní přístup k webům, k řízení provozu nebo z bezpečnostních důvodů.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-findip.html" title="Zjištění vaší IP adresy"><span class="title">Zjištění vaší IP adresy</span><span class="linkdiv-dash"> — </span><span class="desc">Znalost své adresy IP může pomoci při řešení problémů se sítí.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-proxy.html.cs" title="Nastavení proxy"><span class="title">Nastavení proxy</span><span class="linkdiv-dash"> — </span><span class="desc">Proxy je prostředníkem ve webovém provozu. Používá se pro anonymní přístup k webům, k řízení provozu nebo z bezpečnostních důvodů.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-findip.html.cs" title="Zjištění vaší IP adresy"><span class="title">Zjištění vaší IP adresy</span><span class="linkdiv-dash"> — </span><span class="desc">Znalost své adresy IP může pomoci při řešení problémů se sítí.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -65,13 +65,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Bezdrátové sítě">Bezdrátové</a></span>, <span class="link"><a href="net-wired.html" title="Drátová síť">drátové</a></span>, <span class="link"><a href="net-problem.html" title="Problémy se sítí">problémy s připojením</a></span>, <span class="link"><a href="net-browser.html" title="Prohlížeče WWW">prohlížení www</a></span>, <span class="link"><a href="net-email.html" title="E-mail a poštovní software">poštovní účty</a></span>…</span>
+<a href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové</a></span>, <span class="link"><a href="net-wired.html.cs" title="Drátová síť">drátové</a></span>, <span class="link"><a href="net-problem.html.cs" title="Problémy se sítí">problémy s připojením</a></span>, <span class="link"><a href="net-browser.html.cs" title="Webové prohlížeče">prohlížení www</a></span>, <span class="link"><a href="net-email.html.cs" title="E-mail a poštovní software">poštovní účty</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Bezdrátové sítě">Bezdrátové sítě</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Připojení k bezdrátové síti">Připojení k Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Připojení ke skryté bezdrátové síti">Skryté sítě</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Proč se moje síť pořád odpojuje?">Odpojování</a></span>…</span>
+<a href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové sítě</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.cs" title="Připojení k bezdrátové síti">Připojení k Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.cs" title="Připojení ke skryté bezdrátové síti">Skryté sítě</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.cs" title="Proč se moje síť pořád odpojuje?">Odpojování</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

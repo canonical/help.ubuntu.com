@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="mouse.html" title="சொடுக்கி">சொடுக்கி</a> › <a class="trail" href="mouse.html#problems" title="பொதுவான பிரச்சினைகள்">பொதுவான பிரச்சினைகள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="mouse.html.ta" title="சொடுக்கி">சொடுக்கி</a> › <a class="trail" href="mouse.html.ta#problems" title="பொதுவான பிரச்சினைகள்">பொதுவான பிரச்சினைகள்</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="mouse.html" title="சொடுக்கி">சொடுக்கி</a> › <a class="trail" href="mouse.html#problems" title="பொதுவான பிரச்சினைகள்">பொதுவான பிரச்சினைகள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="mouse.html.ta" title="சொடுக்கி">சொடுக்கி</a> › <a class="trail" href="mouse.html.ta#problems" title="பொதுவான பிரச்சினைகள்">பொதுவான பிரச்சினைகள்</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">சொடுக்கி சுட்டி நகரவில்லை</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="சொடுக்கி செருகப்பட்டுள்ளதா எனப் பார்க்கவும்">சொடுக்கி செருகப்பட்டுள்ளதா எனப் பார்க்கவும்</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="சொடுக்கி உண்மையில் வேலை செய்கிறதா என்று பாருங்கள்">சொடுக்கி உண்மையில் வேலை செய்கிறதா என்று பாருங்கள்</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="வயர்லெஸ் சொடுக்கிகளை சோதித்தல்">வயர்லெஸ் சொடுக்கிகளை சோதித்தல்</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.ta#plugged-in" title="சொடுக்கி செருகப்பட்டுள்ளதா எனப் பார்க்கவும்">சொடுக்கி செருகப்பட்டுள்ளதா எனப் பார்க்கவும்</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.ta#broken" title="சொடுக்கி உண்மையில் வேலை செய்கிறதா என்று பாருங்கள்">சொடுக்கி உண்மையில் வேலை செய்கிறதா என்று பாருங்கள்</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.ta#wireless-mice" title="வயர்லெஸ் சொடுக்கிகளை சோதித்தல்">வயர்லெஸ் சொடுக்கிகளை சோதித்தல்</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">சொடுக்கி செருகப்பட்டுள்ளதா எனப் பார்க்கவும்</span></h2></div>
@@ -78,8 +78,8 @@
 <li class="list"><p class="p">Make sure the mouse is turned on. There is often a switch on the
       bottom of the mouse to turn the mouse off completely, so you can take it
       with you without it constantly waking up.</p></li>
-<li class="list"><p class="p">நீங்கள் ஒரு Bluetooth சொடுக்கியைப் பயன்படுத்தினால், சொடுக்கியை உங்கள் கணினியுடன் இணையாக்கியுள்ளீர்களா எனப் பார்த்துக்கொள்ளவும். <span class="link"><a href="bluetooth-connect-device.html" title="உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்">உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்</a></span> ஐப் பார்க்கவும்.</p></li>
-<li class="list"><p class="p">ஒரு பொத்தானை சொடுக்கி, இப்போது சொடுக்கி சுட்டி நகர்கிறதா எனப் பார்க்கவும். சில வயர்லெஸ் சொடுக்கிகள் மின்சக்தியை சேமிக்க தூக்க முறைக்குச் சென்றுவிடக்கூடும், இதனால் நீங்கள் ஒரு பொத்தானை சொடுக்காதவரை அது வேலைசெய்யாது. <span class="link"><a href="mouse-wakeup.html" title="சொடுக்கி வேலை செய்யத் தொடங்கும் முன் சற்று தாமதிக்கும்">சொடுக்கி வேலை செய்யத் தொடங்கும் முன் சற்று தாமதிக்கும்</a></span> ஐப் பார்க்கவும்.</p></li>
+<li class="list"><p class="p">நீங்கள் ஒரு Bluetooth சொடுக்கியைப் பயன்படுத்தினால், சொடுக்கியை உங்கள் கணினியுடன் இணையாக்கியுள்ளீர்களா எனப் பார்த்துக்கொள்ளவும். <span class="link"><a href="bluetooth-connect-device.html.ta" title="உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்">உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்</a></span> ஐப் பார்க்கவும்.</p></li>
+<li class="list"><p class="p">ஒரு பொத்தானை சொடுக்கி, இப்போது சொடுக்கி சுட்டி நகர்கிறதா எனப் பார்க்கவும். சில வயர்லெஸ் சொடுக்கிகள் மின்சக்தியை சேமிக்க தூக்க முறைக்குச் சென்றுவிடக்கூடும், இதனால் நீங்கள் ஒரு பொத்தானை சொடுக்காதவரை அது வேலைசெய்யாது. <span class="link"><a href="mouse-wakeup.html.ta" title="சொடுக்கி வேலை செய்யத் தொடங்கும் முன் சற்று தாமதிக்கும்">சொடுக்கி வேலை செய்யத் தொடங்கும் முன் சற்று தாமதிக்கும்</a></span> ஐப் பார்க்கவும்.</p></li>
 <li class="list"><p class="p">சொடுக்கியின் பேட்டரியில் சார்ஜ் உள்ளதா என்று பாருங்கள்.</p></li>
 <li class="list"><p class="p">ரிசீவர் (டாங்கிள்) கணினியில் உறுதியாக செருகப்பட்டுள்ளதா என்று உறுதிப்படுத்திக்கொள்ளவும்.</p></li>
 <li class="list"><p class="p">உங்கள் சொடுக்கி மற்றும் ரிசீவர் இரண்டும் வெவ்வேறு ரேடியோ சேனல்களில் இயங்க முடியும் என்றால், அவை இரண்டும் ஒரே சேனலில் அமைக்கப்பட்டுள்ளதா என்று உறுதிப்படுத்திக்கொள்ளவும்.</p></li>
@@ -92,7 +92,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="பொதுவான பிரச்சினைகள்">பொதுவான சொடுக்கி பிரச்சினைகள்</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.ta#problems" title="பொதுவான பிரச்சினைகள்">பொதுவான சொடுக்கி பிரச்சினைகள்</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

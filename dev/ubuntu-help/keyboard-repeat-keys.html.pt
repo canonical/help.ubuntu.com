@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="keyboard.html.pt" title="Teclado">Teclado</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Acesso universal">Acesso universal</a> › <a class="trail" href="a11y.html#mobility" title="Deficiências motoras">Deficiências motoras</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.pt" title="Acesso universal">Acesso universal</a> › <a class="trail" href="a11y.html.pt#mobility" title="Deficiências motoras">Deficiências motoras</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> » <a class="trail" href="keyboard.html.pt" title="Teclado">Teclado</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,7 +61,7 @@
   disable this feature, or change how long it takes before key presses
   start repeating, or how quickly key presses repeat.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Acesso universal</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Acesso universal</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Acesso universal</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Carregue <span class="gui">Repetir teclas</span> na seção <span class="gui">Escritura</span>.</p></li>
 <li class="steps">
@@ -75,9 +75,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Deficiências motoras">Deficiências motoras</a></li>
+<li class="links "><a href="a11y.html.pt#mobility" title="Deficiências motoras">Deficiências motoras</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">distribuições de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Fazer que pisce o cursor do teclado">pisco do cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiências motoras">acessibilidade do teclado</a></span>…</span>
+<a href="keyboard.html.pt" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.pt" title="Use alternative keyboard layouts">distribuições de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.pt" title="Fazer que pisce o cursor do teclado">pisco do cursor</a></span>, <span class="link"><a href="a11y.html.pt#mobility" title="Deficiências motoras">acessibilidade do teclado</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

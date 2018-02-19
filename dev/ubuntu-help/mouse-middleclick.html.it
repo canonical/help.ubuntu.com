@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html#tips" title="Suggerimenti">Suggerimenti</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> » <a class="trail" href="mouse.html.it" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html.it#tips" title="Suggerimenti">Suggerimenti</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html#tips" title="Suggerimenti">Suggerimenti</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="mouse.html.it" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html.it#tips" title="Suggerimenti">Suggerimenti</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Trucchi e suggerimenti">Trucchi e suggerimenti</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.it" title="Trucchi e suggerimenti">Trucchi e suggerimenti</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@ with a scroll wheel, you can usually press directly down on the scroll
 wheel to middle-click. If you don’t have a middle mouse button, you
 can press the left and right mouse buttons at the same time to
 middle-click.</p>
-<p class="p">Sui touchpad che supportano il tocco con più dita, è possibile battere con tre dita contemporaneamente per ottenere un clic centrale. È necessario <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">abilitare i clic del mouse con il touchpad</a></span> nelle impostazioni del touchpad per ottenere questo risultato.</p>
+<p class="p">Sui touchpad che supportano il tocco con più dita, è possibile battere con tre dita contemporaneamente per ottenere un clic centrale. È necessario <span class="link"><a href="mouse-touchpad-click.html.it" title="Click, drag, or scroll with the touchpad">abilitare i clic del mouse con il touchpad</a></span> nelle impostazioni del touchpad per ottenere questo risultato.</p>
 <p class="p">Molte applicazioni usano il clic col pulsante centrale per accedere a scorciatoie avanzate mediante i clic.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
@@ -82,9 +82,9 @@ button for other functions. Search your application’s help for
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="mouse.html#tips" title="Suggerimenti">Suggerimenti sul mouse</a></li>
+<li class="links "><a href="mouse.html.it#tips" title="Suggerimenti">Suggerimenti sul mouse</a></li>
 <li class="links ">
-<a href="tips.html" title="Trucchi e suggerimenti">Trucchi e suggerimenti</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Inserire caratteri speciali">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Clic col pulsante centrale">middle click shortcuts</a></span>…</span>
+<a href="tips.html.it" title="Trucchi e suggerimenti">Trucchi e suggerimenti</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.it" title="Inserire caratteri speciali">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html.it" title="Clic col pulsante centrale">middle click shortcuts</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

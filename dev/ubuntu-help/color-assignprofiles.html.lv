@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="color.html" title="Krāsu pārvaldība">Krāsu pārvaldība</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="color.html.lv" title="Krāsu pārvaldība">Krāsu pārvaldība</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="color.html" title="Krāsu pārvaldība">Krāsu pārvaldība</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="color.html.lv" title="Krāsu pārvaldība">Krāsu pārvaldība</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Iespējams, ka vēlaties piešķirt krāsu profilu savam ekrānam vai printerim, lai tā krāsas attēlotos precīzāk.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Krāsa</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Krāsa</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Krāsa</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Izvēlieties ierīci, kurai vēlaties pievienot profilu.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Pievienot profilu</span>, lai izvēlētos esošu profilu vai importēt profilu.</p></li>
@@ -70,20 +70,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html" title="Krāsu pārvaldība">Krāsu pārvaldība</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html" title="Kāpēc krāsu pārvaldība ir svarīga?">Kāpēc tas ir svarīgi</a></span>, <span class="link"><a href="color.html#profiles" title="Krāsu profili">Krāsu profili</a></span>, <span class="link"><a href="color.html#calibration" title="Kalibrācija">Kā kalibrēt ierīci</a></span>…</span>
+<a href="color.html.lv" title="Krāsu pārvaldība">Krāsu pārvaldība</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.lv" title="Kāpēc krāsu pārvaldība ir svarīga?">Kāpēc tas ir svarīgi</a></span>, <span class="link"><a href="color.html.lv#profiles" title="Krāsu profili">Krāsu profili</a></span>, <span class="link"><a href="color.html.lv#calibration" title="Kalibrācija">Kā kalibrēt ierīci</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Kas ir krāsu profils?">Kas ir krāsu profils?</a><span class="desc"> — Krāsu profils ir vienkārša datne, kas raksturo krāsu telpu vai ierīces krāsu atbildi.</span>
+<a href="color-whatisprofile.html.lv" title="Kas ir krāsu profils?">Kas ir krāsu profils?</a><span class="desc"> — Krāsu profils ir vienkārša datne, kas raksturo krāsu telpu vai ierīces krāsu atbildi.</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html" title="Kā lai es importēju krāsu profilus?">Kā lai es importēju krāsu profilus?</a><span class="desc"> — Krāsu profilus var importēti, tos vienkārši atverot.</span>
+<a href="color-howtoimport.html.lv" title="Kā lai es importēju krāsu profilus?">Kā lai es importēju krāsu profilus?</a><span class="desc"> — Krāsu profilus var importēti, tos vienkārši atverot.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Kāpēc man pašam ir jāveic kalibrēšana?">Kāpēc man pašam ir jāveic kalibrēšana?</a><span class="desc"> — Kalibrēšana ir svarīga, ja jums ir svarīgi, kā izskatās krāsas uz ekrāna vai izdrukājot.</span>
+<a href="color-why-calibrate.html.lv" title="Kāpēc man pašam ir jāveic kalibrēšana?">Kāpēc man pašam ir jāveic kalibrēšana?</a><span class="desc"> — Kalibrēšana ir svarīga, ja jums ir svarīgi, kā izskatās krāsas uz ekrāna vai izdrukājot.</span>
 </li>
 </ul></div>
 </div></div>

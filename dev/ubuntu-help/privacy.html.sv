@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sekretessinställningar</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p"><span class="em">Sekretessinställningarna</span> i GNOME hjälper dig att styra huruvida vissa delar av ditt skrivbord ska vara synligt för andra. Du kan också använda dessa inställningar för att rensa din dators användningshistorik och rensa ut onödiga filer.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html" title="Lås automatiskt din skärm"><span class="title">Lås automatiskt din skärm</span><span class="linkdiv-dash"> — </span><span class="desc">Förhindra andra personer från att använda ditt skrivbord när du går iväg från datorn.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html" title="Stäng av eller begränsa filhistorik"><span class="title">Stäng av eller begränsa filhistorik</span><span class="linkdiv-dash"> — </span><span class="desc">Stoppa eller begränsa din dator från att spåra dina nyligen använda filer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html" title="Töm papperskorgen &amp; ta bort tillfälliga filer"><span class="title">Töm papperskorgen &amp; ta bort tillfälliga filer</span><span class="linkdiv-dash"> — </span><span class="desc">Ställ in hur ofta din papperskorg och tillfälliga filer kommer att rensas bort från din dator.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-location.html" title="Kontrollera platstjänster"><span class="title">Kontrollera platstjänster</span><span class="linkdiv-dash"> — </span><span class="desc">Aktivera eller inaktivera platstjänster.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.sv" title="Lås automatiskt din skärm"><span class="title">Lås automatiskt din skärm</span><span class="linkdiv-dash"> — </span><span class="desc">Förhindra andra personer från att använda ditt skrivbord när du går iväg från datorn.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.sv" title="Stäng av eller begränsa filhistorik"><span class="title">Stäng av eller begränsa filhistorik</span><span class="linkdiv-dash"> — </span><span class="desc">Stoppa eller begränsa din dator från att spåra dina nyligen använda filer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.sv" title="Töm papperskorgen &amp; ta bort tillfälliga filer"><span class="title">Töm papperskorgen &amp; ta bort tillfälliga filer</span><span class="linkdiv-dash"> — </span><span class="desc">Ställ in hur ofta din papperskorg och tillfälliga filer kommer att rensas bort från din dator.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-location.html.sv" title="Kontrollera platstjänster"><span class="title">Kontrollera platstjänster</span><span class="linkdiv-dash"> — </span><span class="desc">Aktivera eller inaktivera platstjänster.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,7 +62,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html" title="Användarkonton">användarkonton</a></span>…</span>
+<a href="prefs.html.sv" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html.sv" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html.sv" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html.sv" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html.sv" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html.sv" title="Användarkonton">användarkonton</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

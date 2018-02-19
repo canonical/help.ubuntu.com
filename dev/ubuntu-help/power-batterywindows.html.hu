@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="power.html" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> › <a class="trail" href="power.html#faq" title="Kérdések">Kérdések</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> › <a class="trail" href="power.html.hu#faq" title="Kérdések">Kérdések</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="power.html" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> › <a class="trail" href="power.html#faq" title="Kérdések">Kérdések</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> › <a class="trail" href="power.html.hu#faq" title="Kérdések">Kérdések</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Egyes számítógépek akkumulátoros üzemideje rövidebb lehet Linux futtatásakor, mint Windows, vagy Mac OS használatakor. Ennek egyik oka, hogy a számítógépgyártók speciális szoftvert telepítenek a Windows/Mac OS rendszerekhez, hogy optimalizálják a különféle hardver- és szoftverbeállításokat az adott számítógép-típuson. Ezek a finomhangolások gyakran nagyon specifikusak, esetleg nem dokumentáltak, így igen nehéz Linuxhoz illeszteni ezeket.</p>
-<p class="p">Sajnos nem könnyű önállóan alkalmazni ezeket a finombeállításokat anélkül, hogy pontosan tudná, mik azok. Esetleg egyes <span class="link"><a href="power-batterylife.html" title="Kevesebb energia használata és az akkumulátoros üzemidő javítása">energiatakarékossági módszerek segíthetnek</a></span>. Ha a számítógépe <span class="link"><a href="power-batteryslow.html" title="Miért lassú a laptopom, ha akkumulátorról működik?">változtatható sebességű processzorral működik</a></span>, akkor szintén hasznos lehet annak beállításait megváltoztatni.</p>
+<p class="p">Sajnos nem könnyű önállóan alkalmazni ezeket a finombeállításokat anélkül, hogy pontosan tudná, mik azok. Esetleg egyes <span class="link"><a href="power-batterylife.html.hu" title="Kevesebb energia használata és az akkumulátoros üzemidő javítása">energiatakarékossági módszerek segíthetnek</a></span>. Ha a számítógépe <span class="link"><a href="power-batteryslow.html.hu" title="Miért lassú a laptopom, ha akkumulátorról működik?">változtatható sebességű processzorral működik</a></span>, akkor szintén hasznos lehet annak beállításait megváltoztatni.</p>
 <p class="p">A különbség másik lehetséges oka, hogy az akkumulátor-üzemidő becslésének módja eltérő a Windows/Mac OS rendszereken és Linuxon. A tényleges akkumulátor-üzemidő lehet, hogy pontosan ugyanaz, de az eltérő eljárások különböző becslést adnak.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,19 +62,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Kérdések">Kérdések</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.hu#faq" title="Kérdések">Kérdések</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batteryestimate.html" title="A becsült akkumulátoros üzemidő téves">A becsült akkumulátoros üzemidő téves</a><span class="desc"> — Az <span class="gui">akkumulátor ikonra</span> kattintáskor megjelenített akkumulátor-üzemidő csak egy becslés.</span>
+<a href="power-batteryestimate.html.hu" title="A becsült akkumulátoros üzemidő téves">A becsült akkumulátoros üzemidő téves</a><span class="desc"> — Az <span class="gui">akkumulátor ikonra</span> kattintáskor megjelenített akkumulátor-üzemidő csak egy becslés.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Kevesebb energia használata és az akkumulátoros üzemidő javítása">Kevesebb energia használata és az akkumulátoros üzemidő javítása</a><span class="desc"> — Tippek a számítógép áramfogyasztásának csökkentéséhez.</span>
+<a href="power-batterylife.html.hu" title="Kevesebb energia használata és az akkumulátoros üzemidő javítása">Kevesebb energia használata és az akkumulátoros üzemidő javítása</a><span class="desc"> — Tippek a számítógép áramfogyasztásának csökkentéséhez.</span>
 </li>
 <li class="links ">
-<a href="power-batteryslow.html" title="Miért lassú a laptopom, ha akkumulátorról működik?">Miért lassú a laptopom, ha akkumulátorról működik?</a><span class="desc"> — Némely laptopok üzemszerűen lelassulnak, ha akkumulátorról működnek.</span>
+<a href="power-batteryslow.html.hu" title="Miért lassú a laptopom, ha akkumulátorról működik?">Miért lassú a laptopom, ha akkumulátorról működik?</a><span class="desc"> — Némely laptopok üzemszerűen lelassulnak, ha akkumulátorról működnek.</span>
 </li>
 </ul></div>
 </div></div>

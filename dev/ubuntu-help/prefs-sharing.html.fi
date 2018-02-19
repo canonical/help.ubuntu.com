@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Jakamisasetukset</span></h1></div>
@@ -54,15 +54,15 @@
   <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html" title="Set the display name for your computer"><span class="title">Set the display name for your computer</span><span class="linkdiv-dash"> — </span><span class="desc">Control how your computer will appear to other computers or
+<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.fi" title="Set the display name for your computer"><span class="title">Set the display name for your computer</span><span class="linkdiv-dash"> — </span><span class="desc">Control how your computer will appear to other computers or
     devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html" title="Jaa henkilökohtaisia tiedostoja"><span class="title">Jaa henkilökohtaisia tiedostoja</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people access files in your <span class="file">Public</span>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.fi" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.fi" title="Jaa henkilökohtaisia tiedostoja"><span class="title">Jaa henkilökohtaisia tiedostoja</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people access files in your <span class="file">Public</span>
     folder.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-media.html" title="Jaa musiikkia, kuvia ja videoita"><span class="title">Jaa musiikkia, kuvia ja videoita</span><span class="linkdiv-dash"> — </span><span class="desc">Share media on your local network using UPnP.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html" title="Jaa työpöytäsi"><span class="title">Jaa työpöytäsi</span><span class="linkdiv-dash"> — </span><span class="desc">Päästä muut katsomaan ja käyttämään työpöytääsi VNC-yhteydellä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-media.html.fi" title="Jaa musiikkia, kuvia ja videoita"><span class="title">Jaa musiikkia, kuvia ja videoita</span><span class="linkdiv-dash"> — </span><span class="desc">Share media on your local network using UPnP.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.fi" title="Jaa työpöytäsi"><span class="title">Jaa työpöytäsi</span><span class="linkdiv-dash"> — </span><span class="desc">Päästä muut katsomaan ja käyttämään työpöytääsi VNC-yhteydellä.</span></a></div>
 </div>
 </div></div></div>
 </div>
@@ -71,7 +71,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html" title="Hiiri">hiiri</a></span>, <span class="link"><a href="prefs-display.html" title="Näyttö">näytöt</a></span>, <span class="link"><a href="prefs-language.html" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html" title="Käyttäjätilit">käyttäjätilit</a></span>…</span>
+<a href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a><span class="desc"> — <span class="link"><a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html.fi" title="Hiiri">hiiri</a></span>, <span class="link"><a href="prefs-display.html.fi" title="Näyttö">näytöt</a></span>, <span class="link"><a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html.fi" title="Käyttäjätilit">käyttäjätilit</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">桌面</a> › <a class="trail" href="shell-overview.html#apps" title="应用程序和窗口">应用程序和窗口</a> » <a class="trail" href="shell-windows.html" title="窗口和工作区">窗口和工作区</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="使用窗口">窗口</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.zh-CN" title="Your desktop">桌面</a> › <a class="trail" href="shell-overview.html.zh-CN#apps" title="应用程序和窗口">应用程序和窗口</a> » <a class="trail" href="shell-windows.html.zh-CN" title="窗口和工作区">窗口和工作区</a> › <a class="trail" href="shell-windows.html.zh-CN#working-with-windows" title="使用窗口">窗口</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">移动和缩放窗口</span></h1></div>
@@ -54,19 +54,19 @@
   and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Move a window by dragging the titlebar, or hold down
-      <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> and drag anywhere in the
+      <span class="key"><a href="keyboard-key-super.html.zh-CN" title="What is the Super key?"><kbd>Super</kbd></a></span> and drag anywhere in the
       window. Hold down <span class="key"><kbd>Shift</kbd></span> while moving to snap the window to the
       edges of the screen and other windows.</p></li>
 <li class="list"><p class="p">改变窗口大小可以拖动窗口的四个边或角，按住 <span class="key"><kbd>Shift</kbd></span> 键可以让窗口贴紧屏幕或其他窗口的边缘。</p></li>
 <li class="list"><p class="p">使用键盘来移动或改变窗口大小。按 <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span> 来移动窗口，或者按 <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span> 改变窗口大小。使用方向键移动或改变窗口大小，然后按<span class="key"><kbd>回车键</kbd></span>确定，也可以按 <span class="key"><kbd>Esc</kbd></span> 取消，返回到原来的状态。</p></li>
-<li class="list"><p class="p">把窗口拖动到屏幕顶部可以<span class="link"><a href="shell-windows-maximize.html" title="最大化和取消最大化(恢复)窗口。">最大化窗口</a></span>，把窗口拖到屏幕的一侧，将会在屏幕这一半最大化，这样您可以将<span class="link"><a href="shell-windows-tiled.html" title="平铺窗口">两个窗口并排最大化</a></span>。</p></li>
+<li class="list"><p class="p">把窗口拖动到屏幕顶部可以<span class="link"><a href="shell-windows-maximize.html.zh-CN" title="最大化和取消最大化(恢复)窗口。">最大化窗口</a></span>，把窗口拖到屏幕的一侧，将会在屏幕这一半最大化，这样您可以将<span class="link"><a href="shell-windows-tiled.html.zh-CN" title="平铺窗口">两个窗口并排最大化</a></span>。</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="使用窗口">使用窗口</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.zh-CN#working-with-windows" title="使用窗口">使用窗口</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

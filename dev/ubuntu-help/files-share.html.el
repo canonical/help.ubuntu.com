@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="sharing.html" title="Κοινή χρήση">Κοινή χρήση</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="sharing.html.el" title="Κοινή χρήση">Κοινή χρήση</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Για να μοιραστείτε ένα αρχείο με ηλεκτρονική αλληλογραφία:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε τα <span class="app">Αρχεία</span> από την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε τα <span class="app">Αρχεία</span> από την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>.</p></li>
 <li class="steps"><p class="p">Εντοπίστε το αρχείο που θέλετε να μεταφέρετε.</p></li>
 <li class="steps"><p class="p">Κάντε δεξί κλικ στο αρχείο και επιλέξτε <span class="gui">Αποστολή σε…</span>. Το παράθυρο σύνταξης μηνύματος θα εμφανιστεί με το συνημμένο αρχείο.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Προς</span> για επιλογή μιας επαφής, ή εισάγετε μια διεύθυνση ηλεκτρονικής αλληλογραφίας, όπου θέλετε να στείλετε το αρχείο. Συμπληρώστε το <span class="gui">Θέμα</span> και το σώμα του μηνύματος όπως απαιτείται και πατήστε <span class="gui">Αποστολή</span>.</p></li>
@@ -73,19 +73,19 @@
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Κοινή χρήση">Κοινή χρήση</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Κοινή χρήση της επιφάνειας εργασίας σας">Κοινή χρήση επιφάνειας εργασίας</a></span>, <span class="link"><a href="files-share.html" title="Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία">Κοινή χρήση αρχείων μέσω ηλεκτρονικής αλληλογραφίας</a></span>, <span class="link"><a href="sharing-media.html" title="Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας">Κοινή χρήση πολυμέσων</a></span>…</span>
+<a href="sharing.html.el" title="Κοινή χρήση">Κοινή χρήση</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.el" title="Κοινή χρήση της επιφάνειας εργασίας σας">Κοινή χρήση επιφάνειας εργασίας</a></span>, <span class="link"><a href="files-share.html.el" title="Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία">Κοινή χρήση αρχείων μέσω ηλεκτρονικής αλληλογραφίας</a></span>, <span class="link"><a href="sharing-media.html.el" title="Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας">Κοινή χρήση πολυμέσων</a></span>…</span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a></li>
+<li class="links "><a href="files.html.el#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-send-file.html" title="Αποστολή αρχείων σε μια συσκευή Bluetooth">Αποστολή αρχείων σε μια συσκευή Bluetooth</a><span class="desc"> — Κοινή χρήση αρχείων σε συσκευές bluetooth όπως το τηλέφωνο σας.</span>
+<a href="bluetooth-send-file.html.el" title="Αποστολή αρχείων σε μια συσκευή Bluetooth">Αποστολή αρχείων σε μια συσκευή Bluetooth</a><span class="desc"> — Κοινή χρήση αρχείων σε συσκευές bluetooth όπως το τηλέφωνο σας.</span>
 </li>
 <li class="links ">
-<a href="nautilus-connect.html" title="Περιήγηση αρχείων σε έναν διακομιστή ή σε ένα κοινόχρηστο δίκτυο">Περιήγηση αρχείων σε έναν διακομιστή ή σε ένα κοινόχρηστο δίκτυο</a><span class="desc"> — Δείτε και επεξεργαστείτε αρχεία σε άλλον υπολογιστή μέσα από FTP, SSH, κοινόχρηστα Windows ή WebDAV.</span>
+<a href="nautilus-connect.html.el" title="Περιήγηση αρχείων σε έναν διακομιστή ή σε ένα κοινόχρηστο δίκτυο">Περιήγηση αρχείων σε έναν διακομιστή ή σε ένα κοινόχρηστο δίκτυο</a><span class="desc"> — Δείτε και επεξεργαστείτε αρχεία σε άλλον υπολογιστή μέσα από FTP, SSH, κοινόχρηστα Windows ή WebDAV.</span>
 </li>
 </ul></div>
 </div></div>

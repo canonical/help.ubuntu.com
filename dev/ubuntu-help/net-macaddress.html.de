@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-general.html" title="Netzwerk-Begriffe und Tipps">Netzwerk-Begriffe und Tipps</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-general.html.de" title="Netzwerk-Begriffe und Tipps">Netzwerk-Begriffe und Tipps</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Was ist eine MAC-Adresse?</span></h1></div>
@@ -53,7 +53,7 @@
 <p class="p">Eine MAC-Adresse besteht aus sechsmal zwei Zeichen, jedes Zeichenpaar durch einen Doppelpunkt getrennt. <span class="code">00:1B:44:11:3A:B7</span> ist ein Beispiel für eine MAC-Adresse.</p>
 <p class="p">So identifizieren Sie die MAC-Adresse Ihrer eigenen Netzwerk-Hardware:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Netzwerk</span>.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Netzwerk</span>.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Netzwerk</span>, um das Panel zu öffnen.</p></li>
 <li class="steps">
 <p class="p">Wählen Sie <span class="gui">Funknetzwerk</span> oder <span class="gui">Kabelgebunden</span> in der linken Liste aus.</p>
@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Netzwerk-Begriffe und Tipps">Netzwerk-Begriffe und Tipps</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Ihre IP-Adresse ermitteln">IP-Adresse herausfinden</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Was bedeuten WEP und WPA?">Sicherheit mit WEP und WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Was ist eine MAC-Adresse?">MAC-Adressen</a></span>, <span class="link"><a href="net-proxy.html" title="Proxy-Einstellungen festlegen">Proxys</a></span> …</span>
+<a href="net-general.html.de" title="Netzwerk-Begriffe und Tipps">Netzwerk-Begriffe und Tipps</a><span class="desc"> — <span class="link"><a href="net-findip.html.de" title="Ihre IP-Adresse ermitteln">IP-Adresse herausfinden</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.de" title="Was bedeuten WEP und WPA?">Sicherheit mit WEP und WPA</a></span>, <span class="link"><a href="net-macaddress.html.de" title="Was ist eine MAC-Adresse?">MAC-Adressen</a></span>, <span class="link"><a href="net-proxy.html.de" title="Proxy-Einstellungen festlegen">Proxys</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

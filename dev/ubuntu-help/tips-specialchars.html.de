@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Tipps und Tricks">Tipps und Tricks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.de" title="Tipps und Tricks">Tipps und Tricks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sonderzeichen eingeben</span></h1></div>
@@ -53,22 +53,14 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Methoden zum Eingeben von Zeichen</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Zeichentabelle">Zeichentabelle</a></li>
-<li class="links "><a href="tips-specialchars.html#characters" title="Zeichen">Zeichen</a></li>
-<li class="links "><a href="tips-specialchars.html#compose" title="Compose-Taste">Compose-Taste</a></li>
-<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Ersetzungscodes">Ersetzungscodes</a></li>
-<li class="links "><a href="tips-specialchars.html#layout" title="Tastaturbelegungen">Tastaturbelegungen</a></li>
-<li class="links "><a href="tips-specialchars.html#im" title="Eingabemethoden">Eingabemethoden</a></li>
+<li class="links "><a href="tips-specialchars.html.de#characters" title="Zeichen">Zeichen</a></li>
+<li class="links "><a href="tips-specialchars.html.de#compose" title="Compose-Taste">Compose-Taste</a></li>
+<li class="links "><a href="tips-specialchars.html.de#ctrlshiftu" title="Ersetzungscodes">Ersetzungscodes</a></li>
+<li class="links "><a href="tips-specialchars.html.de#layout" title="Tastaturbelegungen">Tastaturbelegungen</a></li>
+<li class="links "><a href="tips-specialchars.html.de#im" title="Eingabemethoden">Eingabemethoden</a></li>
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Zeichentabelle</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">GNOME liefert eine Zeichentabelle, die Ihnen das Durchsuchen aller Unicode-Zeichen ermöglicht. Verwenden Sie diese Zeichentabelle, um die gewünschten Zeichen zu finden, und fügen Sie sie anschließend ein, wo immer Sie wollen.</p>
-<p class="p">Sie finden die <span class="app">Zeichentabelle</span> in der <span class="gui">Aktivitäten</span>-Übersicht. Weitere Informationen zur Zeichentabelle finden Sie im <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">Zeichentabelle-Handbuch</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Zeichen</span></h2></div>
 <div class="region"><div class="contents">
@@ -85,12 +77,13 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Eine Compose-Taste festlegen</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Optimierungswerkzeug</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Optimierungswerkzeug</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Optimierungswerkzeug</span>, um die Anwendung zu öffnen.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf den Reiter <span class="gui">Tastatur und Maus</span>.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Deaktiviert</span> im Abschnitt <span class="gui">Compose-Taste</span>.</p></li>
 <li class="steps"><p class="p">Aktivieren Sie den Schalter im Dialog und suchen Sie die gewünschte Tastenkombination, die Sie verwenden wollen.</p></li>
 <li class="steps"><p class="p">Aktivieren Sie das Ankreuzfeld an der Taste, die Sie als Compose-Taste verwenden wollen.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Schließen Sie das Fenster <span class="gui">Optimierungswerkzeug</span>.</p></li>
 </ol></div>
 </div></div>
@@ -113,7 +106,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tastaturbelegungen</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Sie können Ihre Tastatur so einstellen, dass Sie sich wie eine Tastatur für eine andere Sprache verhält, ungeachtet der auf den Tasten abgebildeten Buchstaben. Sie können sogar mittels eines Symbols im oberen Panel einfach zwischen verschiedenen Tastaturbelegungen wechseln. In <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span> finden Sie weitere Informationen darüber.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Sie können Ihre Tastatur so einstellen, dass Sie sich wie eine Tastatur für eine andere Sprache verhält, ungeachtet der auf den Tasten abgebildeten Buchstaben. Sie können sogar mittels eines Symbols im oberen Panel einfach zwischen verschiedenen Tastaturbelegungen wechseln. In <span class="link"><a href="keyboard-layouts.html.de" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span> finden Sie weitere Informationen darüber.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Eingabemethoden</span></h2></div>
@@ -128,13 +121,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Tipps und Tricks">Tipps und Tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Sonderzeichen eingeben">Sonderzeichen</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Mittelklick">Aufgaben per Mittelklick abkürzen</a></span> …</span>
+<a href="tips.html.de" title="Tipps und Tricks">Tipps und Tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.de" title="Sonderzeichen eingeben">Sonderzeichen</a></span>, <span class="link"><a href="mouse-middleclick.html.de" title="Mittelklick">Aufgaben per Mittelklick abkürzen</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.de" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
 </li></ul></div>
 </div></div>
 </div>

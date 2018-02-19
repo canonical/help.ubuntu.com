@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="color.html" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html#profiles" title="Färgprofiler">Färgprofiler</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="color.html.sv" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html.sv#profiles" title="Färgprofiler">Färgprofiler</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="color.html" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html#profiles" title="Färgprofiler">Färgprofiler</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="color.html.sv" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html.sv#profiles" title="Färgprofiler">Färgprofiler</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -63,25 +63,25 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Färgprofiler">Färgprofiler</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.sv#profiles" title="Färgprofiler">Färgprofiler</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Hur associerar jag färgprofiler till enheter?">Hur associerar jag färgprofiler till enheter?</a><span class="desc"> — I <span class="guiseq"><span class="gui">Inställningar</span> ▸ <span class="gui">Färg</span></span> kan du lägga till en färgprofil för din skärm.</span>
+<a href="color-assignprofiles.html.sv" title="Hur associerar jag färgprofiler till enheter?">Hur associerar jag färgprofiler till enheter?</a><span class="desc"> — I <span class="guiseq"><span class="gui">Inställningar</span> ▸ <span class="gui">Färg</span></span> kan du lägga till en färgprofil för din skärm.</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html" title="Hur importerar jag färgprofiler?">Hur importerar jag färgprofiler?</a><span class="desc"> — Färgprofiler kan importeras genom att öppna dem.</span>
+<a href="color-howtoimport.html.sv" title="Hur importerar jag färgprofiler?">Hur importerar jag färgprofiler?</a><span class="desc"> — Färgprofiler kan importeras genom att öppna dem.</span>
 </li>
 <li class="links ">
-<a href="color-canshareprofiles.html" title="Kan jag dela min färgprofil?">Kan jag dela min färgprofil?</a><span class="desc"> — Att dela färgprofiler är aldrig en bra idé eftersom hårdvara förändras över tid.</span>
+<a href="color-canshareprofiles.html.sv" title="Kan jag dela min färgprofil?">Kan jag dela min färgprofil?</a><span class="desc"> — Att dela färgprofiler är aldrig en bra idé eftersom hårdvara förändras över tid.</span>
 </li>
 <li class="links ">
-<a href="color-whatisspace.html" title="Vad är en färgrymd?">Vad är en färgrymd?</a><span class="desc"> — En färgrymd är ett definierat intervall av färger.</span>
+<a href="color-whatisspace.html.sv" title="Vad är en färgrymd?">Vad är en färgrymd?</a><span class="desc"> — En färgrymd är ett definierat intervall av färger.</span>
 </li>
 <li class="links ">
-<a href="color-gettingprofiles.html" title="Var får jag tag på färgprofiler?">Var får jag tag på färgprofiler?</a><span class="desc"> — Färgprofiler tillhandahålls av tillverkare men du kan också generera dem själv.</span>
+<a href="color-gettingprofiles.html.sv" title="Var får jag tag på färgprofiler?">Var får jag tag på färgprofiler?</a><span class="desc"> — Färgprofiler tillhandahålls av tillverkare men du kan också generera dem själv.</span>
 </li>
 </ul></div>
 </div></div>

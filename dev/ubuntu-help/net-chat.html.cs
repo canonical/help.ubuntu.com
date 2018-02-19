@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Chatování a společenské sítě</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html" title="Rychlá komunikace na Ubuntu"><span class="title">Rychlá komunikace na Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">S <span class="app">Empathy</span> můžete chatovat, telefonovat a videotelefonovat s přáteli a kolegy na mnoha sítích</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html" title="Videotelefonování"><span class="title">Videotelefonování</span><span class="linkdiv-dash"> — </span><span class="desc">Jaké aplikace mohu použít pro videotelefonování?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html.cs" title="Rychlá komunikace na Ubuntu"><span class="title">Rychlá komunikace na Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">S <span class="app">Empathy</span> můžete chatovat, telefonovat a videotelefonovat s přáteli a kolegy na mnoha sítích</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html.cs" title="Videotelefonování"><span class="title">Videotelefonování</span><span class="linkdiv-dash"> — </span><span class="desc">Jaké aplikace mohu použít pro videotelefonování?</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html" title="Jak mohu použít Skype v Ubuntu?"><span class="title">Jak mohu použít Skype v Ubuntu?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> je proprietární software a na Ubuntu se musí nainstalovat ručně</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html.cs" title="Jak mohu použít Skype v Ubuntu?"><span class="title">Jak mohu použít Skype v Ubuntu?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> je proprietární software a na Ubuntu se musí nainstalovat ručně</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -61,13 +61,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Bezdrátové sítě">Bezdrátové</a></span>, <span class="link"><a href="net-wired.html" title="Drátová síť">drátové</a></span>, <span class="link"><a href="net-problem.html" title="Problémy se sítí">problémy s připojením</a></span>, <span class="link"><a href="net-browser.html" title="Prohlížeče WWW">prohlížení www</a></span>, <span class="link"><a href="net-email.html" title="E-mail a poštovní software">poštovní účty</a></span>…</span>
+<a href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové</a></span>, <span class="link"><a href="net-wired.html.cs" title="Drátová síť">drátové</a></span>, <span class="link"><a href="net-problem.html.cs" title="Problémy se sítí">problémy s připojením</a></span>, <span class="link"><a href="net-browser.html.cs" title="Webové prohlížeče">prohlížení www</a></span>, <span class="link"><a href="net-email.html.cs" title="E-mail a poštovní software">poštovní účty</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Účty on-line">Účty on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Přidání účtu">Přidání účtu on-line</a></span>, <span class="link"><a href="accounts-remove.html" title="Odebrání účtu">odebrání účtu on-line</a></span>, <span class="link"><a href="accounts-which-application.html" title="Služby a aplikace on-line">něco o službách</a></span>…</span>
+<a href="accounts.html.cs" title="Účty on-line">Účty on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html.cs" title="Přidání účtu">Přidání účtu on-line</a></span>, <span class="link"><a href="accounts-remove.html.cs" title="Odebrání účtu">odebrání účtu on-line</a></span>, <span class="link"><a href="accounts-which-application.html.cs" title="Služby a aplikace on-line">něco o službách</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

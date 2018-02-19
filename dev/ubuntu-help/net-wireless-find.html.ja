@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="ネットワーク関連の問題">ネットワーク関連の問題</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.ja" title="ネットワーク関連の問題">ネットワーク関連の問題</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="無線ネットワーク">無線ネットワーク</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.ja" title="無線ネットワーク">無線ネットワーク</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,10 +56,10 @@
 <p class="p">There are a number of reasons why you might not be able to see your
   wireless network on the list of available networks from the system menu.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">一覧にネットワークが何も表示されない場合、ワイヤレスハードウェアがオフになっているか<span class="link"><a href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">正常に動作していない可能性</a></span>があります。ワイヤレスハードウェアを確認してオンにしてください。</p></li>
+<li class="list"><p class="p">一覧にネットワークが何も表示されない場合、ワイヤレスハードウェアがオフになっているか<span class="link"><a href="net-wireless-troubleshooting.html.ja" title="無線ネットワークトラブルシューティング">正常に動作していない可能性</a></span>があります。ワイヤレスハードウェアを確認してオンにしてください。</p></li>
 <li class="list"><p class="p">ネットワーク範囲の外にいる可能性があります。無線基地局またはルーターに近い場所に移動し、ネットワークが一覧に表示されるようになるかどうか確認します。</p></li>
 <li class="list"><p class="p">無線ネットワーク一覧の更新には時間がかかります。コンピューターの電源を入れたばかりだったり、場所を移動したばかりの場合には、数分待ってから一覧にネットワークが表示されるか確認します。</p></li>
-<li class="list"><p class="p">ネットワークが非表示設定になっている可能性があります。非表示のネットワークの場合には、<span class="link"><a href="net-wireless-hidden.html" title="非表示設定の無線ネットワークに接続">別の方法で接続する</a></span>必要があります。</p></li>
+<li class="list"><p class="p">ネットワークが非表示設定になっている可能性があります。非表示のネットワークの場合には、<span class="link"><a href="net-wireless-hidden.html.ja" title="非表示設定の無線ネットワークに接続">別の方法で接続する</a></span>必要があります。</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -69,17 +69,17 @@
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html" title="ネットワーク関連の問題">ネットワーク関連の問題</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線接続トラブルシューティング</a></span>、<span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">wifi ネットワーク検索</a></span>…</span>
+<a href="net-problem.html.ja" title="ネットワーク関連の問題">ネットワーク関連の問題</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.ja" title="無線ネットワークトラブルシューティング">無線接続トラブルシューティング</a></span>、<span class="link"><a href="net-wireless-find.html.ja" title="I can’t see my wireless network in the list">wifi ネットワーク検索</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html" title="無線ネットワーク">無線ネットワーク</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="無線ネットワークに接続する">無線接続</a></span>、<span class="link"><a href="net-wireless-hidden.html" title="非表示設定の無線ネットワークに接続">非表示設定のネットワーク</a></span>、<span class="link"><a href="net-wireless-disconnecting.html" title="無線ネットワークが切断されてしまいます、なぜですか?">切断する</a></span>…</span>
+<a href="net-wireless.html.ja" title="無線ネットワーク">無線ネットワーク</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.ja" title="無線ネットワークに接続する">無線接続</a></span>、<span class="link"><a href="net-wireless-hidden.html.ja" title="非表示設定の無線ネットワークに接続">非表示設定のネットワーク</a></span>、<span class="link"><a href="net-wireless-disconnecting.html.ja" title="無線ネットワークが切断されてしまいます、なぜですか?">切断する</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-hidden.html" title="非表示設定の無線ネットワークに接続">非表示設定の無線ネットワークに接続</a><span class="desc"> — Connect to a wireless network that is not displayed in the network
+<a href="net-wireless-hidden.html.ja" title="非表示設定の無線ネットワークに接続">非表示設定の無線ネットワークに接続</a><span class="desc"> — Connect to a wireless network that is not displayed in the network
     list.</span>
 </li></ul></div>
 </div></div>

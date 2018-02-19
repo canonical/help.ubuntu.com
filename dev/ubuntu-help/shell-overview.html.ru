@@ -43,27 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Your desktop</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Введение в GNOME"><span class="title">Введение в GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Наглядное введение в функциональные возможности рабочего стола. Верхняя панель. Режим <span class="gui">Обзора</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Завершение сеанса, выключение компьютера или переключение пользователей"><span class="title">Завершение сеанса, выключение компьютера или переключение пользователей</span><span class="linkdiv-dash"> — </span><span class="desc">Способы завершения работы с учётной записью: завершение сеанса, переключение пользователей и другие.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.ru" title="Введение в GNOME"><span class="title">Введение в GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Наглядное введение в функциональные возможности рабочего стола. Верхняя панель. Режим <span class="gui">Обзора</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.ru" title="Завершение сеанса, выключение компьютера или переключение пользователей"><span class="title">Завершение сеанса, выключение компьютера или переключение пользователей</span><span class="linkdiv-dash"> — </span><span class="desc">Способы завершения работы с учётной записью: завершение сеанса, переключение пользователей и другие.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Запуск приложений"><span class="title">Запуск приложений</span><span class="linkdiv-dash"> — </span><span class="desc">Запуск приложений из режима <span class="gui">Обзора</span>.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.ru" title="Запуск приложений"><span class="title">Запуск приложений</span><span class="linkdiv-dash"> — </span><span class="desc">Запуск приложений из режима <span class="gui">Обзора</span>.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Customize your desktop</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html" title="Добавление приложений в боковую панель"><span class="title">Добавление приложений в боковую панель</span><span class="linkdiv-dash"> — </span><span class="desc">Добавление (или удаление) значков часто используемых приложений из боковой панели.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html" title="Панель для уведомлений и сообщений"><span class="title">Панель для уведомлений и сообщений</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.ru" title="Добавление приложений в боковую панель"><span class="title">Добавление приложений в боковую панель</span><span class="linkdiv-dash"> — </span><span class="desc">Добавление (или удаление) значков часто используемых приложений из боковой панели.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.ru" title="Панель для уведомлений и сообщений"><span class="title">Панель для уведомлений и сообщений</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
     certain events happen.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="События календаря"><span class="title">События календаря</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.ru" title="События календаря"><span class="title">События календаря</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
     screen.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
@@ -71,14 +71,14 @@
 <div class="hgroup"><h2 class="title"><span class="title">Приложения и окна</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="startup-applications.html" title="Автоматически запускаемые приложения"><span class="title">Автоматически запускаемые приложения</span><span class="linkdiv-dash"> — </span><span class="desc">Укажите, какие приложения будут запускаться во время входа в систему.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows.html" title="Окна и рабочие места"><span class="title">Окна и рабочие места</span><span class="linkdiv-dash"> — </span><span class="desc">Перемещение и упорядочивание окон.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Переключение между окнами"><span class="title">Переключение между окнами</span><span class="linkdiv-dash"> — </span><span class="desc">Нажмите <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.ru" title="Автоматически запускаемые приложения"><span class="title">Автоматически запускаемые приложения</span><span class="linkdiv-dash"> — </span><span class="desc">Укажите, какие приложения будут запускаться во время входа в систему.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows.html.ru" title="Окна и рабочие места"><span class="title">Окна и рабочие места</span><span class="linkdiv-dash"> — </span><span class="desc">Перемещение и упорядочивание окон.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.ru" title="Переключение между окнами"><span class="title">Переключение между окнами</span><span class="linkdiv-dash"> — </span><span class="desc">Нажмите <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Полезные комбинации клавиш"><span class="title">Полезные комбинации клавиш</span><span class="linkdiv-dash"> — </span><span class="desc">Управление рабочим столом с помощью клавиатуры.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="status-icons.html" title="Что означают значки в верхней панели?"><span class="title">Что означают значки в верхней панели?</span><span class="linkdiv-dash"> — </span><span class="desc">Объясняется значение значков, расположенных справа в верхней панели.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html" title="Экран блокировки"><span class="title">Экран блокировки</span><span class="linkdiv-dash"> — </span><span class="desc">Декоративный и функциональный экран блокировки содержит полезную информацию.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.ru" title="Полезные комбинации клавиш"><span class="title">Полезные комбинации клавиш</span><span class="linkdiv-dash"> — </span><span class="desc">Управление рабочим столом с помощью клавиатуры.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="status-icons.html.ru" title="Что означают значки в верхней панели?"><span class="title">Что означают значки в верхней панели?</span><span class="linkdiv-dash"> — </span><span class="desc">Объясняется значение значков, расположенных справа в верхней панели.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.ru" title="Экран блокировки"><span class="title">Экран блокировки</span><span class="linkdiv-dash"> — </span><span class="desc">Декоративный и функциональный экран блокировки содержит полезную информацию.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -86,7 +86,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Руководство пользователя Ubuntu">Руководство пользователя Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.ru" title="Руководство пользователя Ubuntu">Руководство пользователя Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Software toevoegen &amp; verwijderen">Software toevoegen/verwijderen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.nl" title="Software toevoegen &amp; verwijderen">Software toevoegen/verwijderen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Extra toepassingen installeren</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Een toepassing is software die beschikt over een grafische gebruikersinterface (GUI). Het ontwikkelteam van Ubuntu heeft een standaard set toepassingen uitgekozen die naar haar mening Ubuntu zeer bruikbaar maakt voor de meeste dagelijkse taken. Maar u zult vast meer software willen installeren om Ubuntu nog bruikbaarder voor u te maken. U kunt <span class="app">Ubuntu Software</span> gebruiken om toepassingen te installeren.</p>
 <p class="p">Toepassingen zijn beschikbaar in twee vormen: snap-pakketten en Debian-pakketten. Vanaf nu wordt een toepassing die als snap-pakket beschikbaar is een <span class="em">snap</span> genoemd. Om een snap te installeren (of te verwijderen) moet u zich aanmelden bij de Snap-winkel/Ubuntu One. Sommige toepassingen zijn beschikbaar in beide vormen. In zo'n geval zal de snap als eerste in de lijst in <span class="app">Ubuntu Software</span> voorkomen.</p>
-<p class="p">Het kan ook zijn dat u software wilt installeren die niet over een GUI beschikt. Om dergelijke software te installeren kunt u <span class="link"><a href="addremove-install-synaptic.html" title="Gebruik Synaptic voor geavanceerder softwarebeheer">Synaptic</a></span> gebruiken. Merk op dat <span class="app">Synaptic</span> geen snaps opneemt in de lijst.</p>
+<p class="p">Het kan ook zijn dat u software wilt installeren die niet over een GUI beschikt. Om dergelijke software te installeren kunt u <span class="link"><a href="addremove-install-synaptic.html.nl" title="Gebruik Synaptic voor geavanceerder softwarebeheer">Synaptic</a></span> gebruiken. Merk op dat <span class="app">Synaptic</span> geen snaps opneemt in de lijst.</p>
 <p class="p">Om een toepassing te installeren:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">
@@ -70,20 +70,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Software toevoegen &amp; verwijderen">Software toevoegen &amp; verwijderen</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Extra toepassingen installeren">Toepassingen installeren</a></span>, <span class="link"><a href="addremove-remove.html" title="Een toepassing verwijderen">toepassingen verwijderen</a></span>, <span class="link"><a href="addremove-sources.html" title="Softwarebronnen toevoegen">softwarebronnen toevoegen</a></span>…</span>
+<a href="addremove.html.nl" title="Software toevoegen &amp; verwijderen">Software toevoegen &amp; verwijderen</a><span class="desc"> — <span class="link"><a href="addremove-install.html.nl" title="Extra toepassingen installeren">Toepassingen installeren</a></span>, <span class="link"><a href="addremove-remove.html.nl" title="Een toepassing verwijderen">toepassingen verwijderen</a></span>, <span class="link"><a href="addremove-sources.html.nl" title="Softwarebronnen toevoegen">softwarebronnen toevoegen</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-remove.html" title="Een toepassing verwijderen">Een toepassing verwijderen</a><span class="desc"> — Software verwijderen die u niet langer gebruikt.</span>
+<a href="addremove-remove.html.nl" title="Een toepassing verwijderen">Een toepassing verwijderen</a><span class="desc"> — Software verwijderen die u niet langer gebruikt.</span>
 </li>
 <li class="links ">
-<a href="addremove-install-synaptic.html" title="Gebruik Synaptic voor geavanceerder softwarebeheer">Gebruik Synaptic voor geavanceerder softwarebeheer</a><span class="desc"> — Synaptic is een krachtig doch gecompliceerd softwarebeheer-alternatief voor <span class="app">Ubuntu Software</span>.</span>
+<a href="addremove-install-synaptic.html.nl" title="Gebruik Synaptic voor geavanceerder softwarebeheer">Gebruik Synaptic voor geavanceerder softwarebeheer</a><span class="desc"> — Synaptic is een krachtig doch gecompliceerd softwarebeheer-alternatief voor <span class="app">Ubuntu Software</span>.</span>
 </li>
 <li class="links ">
-<a href="prefs-language-install.html" title="Talen installeren">Talen installeren</a><span class="desc"> — Meer vertalingen en gerelateerde taalondersteuningspakketten installeren.</span>
+<a href="prefs-language-install.html.nl" title="Talen installeren">Talen installeren</a><span class="desc"> — Meer vertalingen en gerelateerde taalondersteuningspakketten installeren.</span>
 </li>
 </ul></div>
 </div></div>

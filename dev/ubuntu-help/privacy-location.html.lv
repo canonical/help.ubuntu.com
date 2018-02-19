@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="privacy.html" title="Privātuma iestatījumi">Privātuma iestatījumi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="privacy.html.lv" title="Privātuma iestatījumi">Privātuma iestatījumi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kontrolēt atrašanās vietas pakalpojumus</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Izslēgt ģeolokācijas iespējas savā darbvirsmā</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Privātums</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Privātums</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Privātums</span>, lai atvērtu paneli.</p></li>
 <li class="steps">
 <p class="p">Iestatiet slēdzi <span class="gui">Atrašanās vietas pakalpojumi</span> uz <span class="gui">◯</span>.</p>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html" title="Privātuma iestatījumi">Privātuma iestatījumi</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Automātiski bloķēt ekrānu">Ekrāna bloķēšana</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Izslēgt vai ierobežot datņu vēstures izsekošanu">Izmantojuma vēsture</a></span>, <span class="link"><a href="privacy-purge.html" title="Iztīrīt miskasti un pagaidu datnes">Iztīrīt miskasti un pagaidu datnes</a></span>…</span>
+<a href="privacy.html.lv" title="Privātuma iestatījumi">Privātuma iestatījumi</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.lv" title="Automātiski bloķēt ekrānu">Ekrāna bloķēšana</a></span>, <span class="link"><a href="privacy-history-recent-off.html.lv" title="Izslēgt vai ierobežot datņu vēstures izsekošanu">Izmantojuma vēsture</a></span>, <span class="link"><a href="privacy-purge.html.lv" title="Iztīrīt miskasti un pagaidu datnes">Iztīrīt miskasti un pagaidu datnes</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

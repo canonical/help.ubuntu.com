@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> › <a class="trail" href="hardware.html#problems" title="Problèmes connus">Problèmes</a> » <a class="trail" href="power.html#problems" title="Problèmes">Problèmes d'énergie</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> › <a class="trail" href="hardware.html.fr#problems" title="Problèmes connus">Problèmes</a> » <a class="trail" href="power.html.fr#problems" title="Problèmes">Problèmes d'énergie</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Absence de réseau sans fil à la sortie de veille de l'ordinateur</span></h1></div>
@@ -51,13 +51,13 @@
 <div class="contents">
 <p class="p">If you have suspended your computer, you may find that your wireless
   internet connection does not work when you resume it again. This happens when
-  the <span class="link"><a href="hardware-driver.html" title="Qu'est-ce qu'un pilote ?">driver</a></span> for the wireless device does
+  the <span class="link"><a href="hardware-driver.html.fr" title="Qu'est-ce qu'un pilote ?">driver</a></span> for the wireless device does
   not fully support certain power saving features.
   Typically, the wireless connection fails to turn on properly when the
   computer is resumed.</p>
 <p class="p">Si cela se produit, essayez d'éteindre et de rallumer votre carte réseau sans fil :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Réseau</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Sélectionnez <span class="gui">Wi-Fi</span>.</p></li>
@@ -72,17 +72,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html#problems" title="Problèmes">Problèmes d'énergie</a><span class="desc"> — Résoudre les problèmes relatifs à l'énergie et aux batteries.</span>
+<a href="power.html.fr#problems" title="Problèmes">Problèmes d'énergie</a><span class="desc"> — Résoudre les problèmes relatifs à l'énergie et aux batteries.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspendfail.html" title="Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?">Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.fr" title="Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?">Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="Qu'est-ce qu'un pilote ?">Qu'est-ce qu'un pilote ?</a><span class="desc"> — Un pilote de matériel/périphérique permet à votre ordinateur d'utiliser les périphériques qui y sont connectés.</span>
+<a href="hardware-driver.html.fr" title="Qu'est-ce qu'un pilote ?">Qu'est-ce qu'un pilote ?</a><span class="desc"> — Un pilote de matériel/périphérique permet à votre ordinateur d'utiliser les périphériques qui y sont connectés.</span>
 </li>
 </ul></div>
 </div></div>

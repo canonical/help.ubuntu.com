@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html#faq" title="Triki in vprašanja">Triki in vprašanja</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html.sl#faq" title="Triki in vprašanja">Triki in vprašanja</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nastavitev dovoljenja datotek</span></h1></div>
@@ -68,7 +68,7 @@
     belong to.</p>
 <p class="p">You can also set the permissions for users other than the owner and
     those in the file’s group.</p>
-<p class="p">V primeru da je datoteka program kot je skript, morate za njeno poganjanje izbrati <span class="gui">Dovoli izvajanje datoteke kot programa</span>. Tudi če je ta možnost izbrana, bo morda upravljalnik datotek še vedno odprl datoteko v programu in vas vprašal kaj želite narediti. Za več podrobnosti si oglejte <span class="link"><a href="nautilus-behavior.html#executable" title="Izvedljive besedilne datoteke">Izvedljive besedilne datoteke</a></span>.</p>
+<p class="p">V primeru da je datoteka program kot je skript, morate za njeno poganjanje izbrati <span class="gui">Dovoli izvajanje datoteke kot programa</span>. Tudi če je ta možnost izbrana, bo morda upravljalnik datotek še vedno odprl datoteko v programu in vas vprašal kaj želite narediti. Za več podrobnosti si oglejte <span class="link"><a href="nautilus-behavior.html.sl#executable" title="Izvedljive besedilne datoteke">Izvedljive besedilne datoteke</a></span>.</p>
 </div></div>
 </div></div>
 <div id="folders" class="sect"><div class="inner">
@@ -98,12 +98,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Triki in vprašanja">Triki in vprašanja</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sl#faq" title="Triki in vprašanja">Triki in vprašanja</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-basic.html" title="Lastnosti datoteke">Lastnosti datoteke</a><span class="desc"> — Ogled osnovnih podatkov, nastavitev dovoljenj in izbira privzetih programov.</span>
+<a href="nautilus-file-properties-basic.html.sl" title="Lastnosti datoteke">Lastnosti datoteke</a><span class="desc"> — Ogled osnovnih podatkov, nastavitev dovoljenj in izbira privzetih programov.</span>
 </li></ul></div>
 </div></div>
 </div>

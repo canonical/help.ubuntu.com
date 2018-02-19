@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="accounts.html" title="Nätkonton">Nätkonton</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="accounts.html.sv" title="Nätkonton">Nätkonton</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Varför lägga till ett konto?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Att lägga till dina konton gör att ditt val av tjänster så som kalender, chatt och e-post kommer direkt till din skrivbordsmiljö och gör att informationen från tjänsterna sömlöst blir en del av din användarupplevelse. Genom att lägga till konton kan du enkelt komma i kontakt med tjänster från olika konton, så som chattar, samtidigt. Bara ställ in ditt konto så kommer din dator att göra alla kontona och tjänsterna redo för dig när du startar datorn.</p>
-<p class="p">Se <span class="link"><a href="accounts-which-application.html" title="Nättjänster och program">Nättjänster och program</a></span> för mer information om vilka program som kan komma åt vilka nättjänster.</p>
+<p class="p">Se <span class="link"><a href="accounts-which-application.html.sv" title="Nättjänster och program">Nättjänster och program</a></span> för mer information om vilka program som kan komma åt vilka nättjänster.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Nätkonton">Nätkonton</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Lägg till ett konto">Lägg till ett nätkonto</a></span>, <span class="link"><a href="accounts-remove.html" title="Ta bort ett konto">Ta bort ett konto</a></span>, <span class="link"><a href="accounts-which-application.html" title="Nättjänster och program">Lär dig om tjänster</a></span>…</span>
+<a href="accounts.html.sv" title="Nätkonton">Nätkonton</a><span class="desc"> — <span class="link"><a href="accounts-add.html.sv" title="Lägg till ett konto">Lägg till ett nätkonto</a></span>, <span class="link"><a href="accounts-remove.html.sv" title="Ta bort ett konto">Ta bort ett konto</a></span>, <span class="link"><a href="accounts-which-application.html.sv" title="Nättjänster och program">Lär dig om tjänster</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html.es" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html.es#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">¿Qué significan los iconos de la barra superior?</span></h1></div>
@@ -52,11 +52,11 @@
 <p class="p">Esta sección explica el significado de los iconos que se encuentran en la esquina superior derecha de la pantalla, especialmente todas las variaciones posibles proporcionadas por GNOME de estos iconos.</p>
 <div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="Barra superior de GNOME Shell"></div></div>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="status-icons.html#universalicons" title="Iconos del menú de acceso universal">Iconos del menú de acceso universal</a></li>
-<li class="links "><a href="status-icons.html#audioicons" title="Iconos del control de volumen">Iconos del control de volumen</a></li>
-<li class="links "><a href="status-icons.html#bluetoothicons" title="Iconos del gestor de Bluetooth">Iconos del gestor de Bluetooth</a></li>
-<li class="links "><a href="status-icons.html#networkicons" title="Iconos del gestor de la red">Iconos del gestor de la red</a></li>
-<li class="links "><a href="status-icons.html#batteryicons" title="Iconos del gestor de energía">Iconos del gestor de energía</a></li>
+<li class="links "><a href="status-icons.html.es#universalicons" title="Iconos del menú de acceso universal">Iconos del menú de acceso universal</a></li>
+<li class="links "><a href="status-icons.html.es#audioicons" title="Iconos del control de volumen">Iconos del control de volumen</a></li>
+<li class="links "><a href="status-icons.html.es#bluetoothicons" title="Iconos del gestor de Bluetooth">Iconos del gestor de Bluetooth</a></li>
+<li class="links "><a href="status-icons.html.es#networkicons" title="Iconos del gestor de la red">Iconos del gestor de la red</a></li>
+<li class="links "><a href="status-icons.html.es#batteryicons" title="Iconos del gestor de energía">Iconos del gestor de energía</a></li>
 </ul></div></div></div>
 </div>
 <div id="universalicons" class="sect"><div class="inner">
@@ -306,7 +306,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.es#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

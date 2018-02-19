@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-security.html" title="Håll dig säker på internet">Håll dig säker på internet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-security.html.sv" title="Håll dig säker på internet">Håll dig säker på internet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Behöver jag ett antivirusprogram?</span></h1></div>
@@ -60,13 +60,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Håll dig säker på internet">Håll dig säker på internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Behöver jag ett antivirusprogram?">Antivirusprogramvara</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Aktivera eller blockera brandväggsåtkomst">grundläggande brandväggar</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Vanligt förekommande nätverksportar">brandväggsportar</a></span>…</span>
+<a href="net-security.html.sv" title="Håll dig säker på internet">Håll dig säker på internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.sv" title="Behöver jag ett antivirusprogram?">Antivirusprogramvara</a></span>, <span class="link"><a href="net-firewall-on-off.html.sv" title="Aktivera eller blockera brandväggsåtkomst">grundläggande brandväggar</a></span>, <span class="link"><a href="net-firewall-ports.html.sv" title="Vanligt förekommande nätverksportar">brandväggsportar</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email-virus.html" title="Behöver jag söka igenom min e-post efter virus?">Behöver jag söka igenom min e-post efter virus?</a><span class="desc"> — Det är osannolikt att virus infekterar din dator, men kan infektera datorerna hos de personer du e-postar.</span>
+<a href="net-email-virus.html.sv" title="Behöver jag söka igenom min e-post efter virus?">Behöver jag söka igenom min e-post efter virus?</a><span class="desc"> — Det är osannolikt att virus infekterar din dator, men kan infektera datorerna hos de personer du e-postar.</span>
 </li></ul></div>
 </div></div>
 </div>

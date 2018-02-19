@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="mouse.html" title="鼠标">鼠标</a> › <a class="trail" href="mouse.html#problems" title="常见问题">常见问题</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="mouse.html.zh-CN" title="鼠标">鼠标</a> › <a class="trail" href="mouse.html.zh-CN#problems" title="常见问题">常见问题</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="mouse.html" title="鼠标">鼠标</a> › <a class="trail" href="mouse.html#problems" title="常见问题">常见问题</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="mouse.html.zh-CN" title="鼠标">鼠标</a> › <a class="trail" href="mouse.html.zh-CN#problems" title="常见问题">常见问题</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">鼠标指针不移动</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="检查鼠标是否连接好">检查鼠标是否连接好</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="检查鼠标是否正常工作">检查鼠标是否正常工作</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="检查无线鼠标">检查无线鼠标</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.zh-CN#plugged-in" title="检查鼠标是否连接好">检查鼠标是否连接好</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.zh-CN#broken" title="检查鼠标是否正常工作">检查鼠标是否正常工作</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.zh-CN#wireless-mice" title="检查无线鼠标">检查无线鼠标</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">检查鼠标是否连接好</span></h2></div>
@@ -78,7 +78,7 @@
 <li class="list"><p class="p">Make sure the mouse is turned on. There is often a switch on the
       bottom of the mouse to turn the mouse off completely, so you can take it
       with you without it constantly waking up.</p></li>
-<li class="list"><p class="p">如果您使用蓝牙鼠标，请确保您已经将鼠标与电脑正确配对。参阅<span class="link"><a href="bluetooth-connect-device.html" title="将您的计算机连接至一蓝牙设备">将您的计算机连接至一蓝牙设备</a></span>。</p></li>
+<li class="list"><p class="p">如果您使用蓝牙鼠标，请确保您已经将鼠标与电脑正确配对。参阅<span class="link"><a href="bluetooth-connect-device.html.zh-CN" title="将您的计算机连接至一蓝牙设备">将您的计算机连接至一蓝牙设备</a></span>。</p></li>
 <li class="list"><p class="p">单击鼠标键，看鼠标指针现在是否移动。某些无线鼠标会为省电而进入休眠模式，因此可能单击鼠标键后才有响应。</p></li>
 <li class="list"><p class="p">检查鼠标的电池是否有电。</p></li>
 <li class="list"><p class="p">确保接收器(dongle)窂固地接入计算机上。</p></li>
@@ -92,7 +92,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="常见问题">常见鼠标问题</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.zh-CN#problems" title="常见问题">常见鼠标问题</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

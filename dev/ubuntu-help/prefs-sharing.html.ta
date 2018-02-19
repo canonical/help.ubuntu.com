@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">பகிர்தல் அமைவுகள்</span></h1></div>
@@ -52,15 +52,15 @@
 <p class="p">உள்ளமை பிணையம் அல்லது <span class="em">Bluetooth</span> போன்ற பிற வசதிகள் மூலம் என்ன பகிரப்படுகிறது என்பதைக் கட்டுப்படுத்த GNOME இன் <span class="em">பகிர்தல் அமைவுகள்</span> உதவுகிறது.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html" title="Set the display name for your computer"><span class="title">Set the display name for your computer</span><span class="linkdiv-dash"> — </span><span class="desc">Control how your computer will appear to other computers or
+<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.ta" title="Set the display name for your computer"><span class="title">Set the display name for your computer</span><span class="linkdiv-dash"> — </span><span class="desc">Control how your computer will appear to other computers or
     devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Bluetooth மூலம் பகிர்தலைக் கட்டுப்படுத்துதல்"><span class="title">Bluetooth மூலம் பகிர்தலைக் கட்டுப்படுத்துதல்</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html" title="Share your personal files"><span class="title">Share your personal files</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people access files in your <span class="file">Public</span>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.ta" title="Bluetooth மூலம் பகிர்தலைக் கட்டுப்படுத்துதல்"><span class="title">Bluetooth மூலம் பகிர்தலைக் கட்டுப்படுத்துதல்</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.ta" title="Share your personal files"><span class="title">Share your personal files</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people access files in your <span class="file">Public</span>
     folder.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-media.html" title="உங்கள் இசை, புகைப்படங்கள் மற்றும் வீடியோக்களைப் பகிர்தல்"><span class="title">உங்கள் இசை, புகைப்படங்கள் மற்றும் வீடியோக்களைப் பகிர்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">Share media on your local network using UPnP.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html" title="உங்கள் பணிமேசையைப் பகிர்தல்"><span class="title">உங்கள் பணிமேசையைப் பகிர்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">VNC ஐப் பயன்படுத்தி மற்றவர்கள் உங்கள் பணிமேசையைப் பார்க்க மற்றும் தொடர்புகொள்ளச் செய்தல்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-media.html.ta" title="உங்கள் இசை, புகைப்படங்கள் மற்றும் வீடியோக்களைப் பகிர்தல்"><span class="title">உங்கள் இசை, புகைப்படங்கள் மற்றும் வீடியோக்களைப் பகிர்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">Share media on your local network using UPnP.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.ta" title="உங்கள் பணிமேசையைப் பகிர்தல்"><span class="title">உங்கள் பணிமேசையைப் பகிர்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">VNC ஐப் பயன்படுத்தி மற்றவர்கள் உங்கள் பணிமேசையைப் பார்க்க மற்றும் தொடர்புகொள்ளச் செய்தல்.</span></a></div>
 </div>
 </div></div></div>
 </div>
@@ -69,7 +69,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">பயனர் &amp; கணினி அமைவுகள்</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="விசைப்பலகை">விசைப்பலகை</a></span>, <span class="link"><a href="mouse.html" title="சொடுக்கி">சொடுக்கி</a></span>, <span class="link"><a href="prefs-display.html" title="காட்சி &amp; திரை">காட்சி</a></span>, <span class="link"><a href="prefs-language.html" title="பகுதி &amp; மொழி">மொழிகள்</a></span>, <span class="link"><a href="user-accounts.html" title="பயனர் கணக்குகள்">பயனர் கணக்குகள்</a></span>…</span>
+<a href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">பயனர் &amp; கணினி அமைவுகள்</a><span class="desc"> — <span class="link"><a href="keyboard.html.ta" title="விசைப்பலகை">விசைப்பலகை</a></span>, <span class="link"><a href="mouse.html.ta" title="சொடுக்கி">சொடுக்கி</a></span>, <span class="link"><a href="prefs-display.html.ta" title="காட்சி &amp; திரை">காட்சி</a></span>, <span class="link"><a href="prefs-language.html.ta" title="பகுதி &amp; மொழி">மொழிகள்</a></span>, <span class="link"><a href="user-accounts.html.ta" title="பயனர் கணக்குகள்">பயனர் கணக்குகள்</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

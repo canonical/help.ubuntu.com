@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Restaurando um arquivo da lixeira</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Para restaurar um arquivo da lixeira:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="app">Arquivos</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="app">Arquivos</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="app">Arquivos</span> para abrir o gerenciador de arquivos.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Lixeira</span> na barra lateral. Se você não vê a barra lateral, clique em <span class="gui">Arquivos</span> na barra superior e escolha <span class="gui">Barra lateral</span>.</p></li>
 <li class="steps"><p class="p">Se o seu arquivo excluído estiver ali, clique nele e selecione <span class="gui">Restaurar</span>. Ele será restaurado à pasta de onde foi excluído.</p></li>
@@ -67,16 +67,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt-BR#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-delete.html" title="Excluindo arquivos e pastas">Excluindo arquivos e pastas</a><span class="desc"> — Remova arquivos e pastas que não precise mais.</span>
+<a href="files-delete.html.pt-BR" title="Excluindo arquivos e pastas">Excluindo arquivos e pastas</a><span class="desc"> — Remova arquivos e pastas que não precise mais.</span>
 </li>
 <li class="links ">
-<a href="files-lost.html" title="Localizando um arquivo perdido">Localizando um arquivo perdido</a><span class="desc"> — Siga essas dicas se você não consegue localizar um arquivo que você criou ou baixou.</span>
+<a href="files-lost.html.pt-BR" title="Localizando um arquivo perdido">Localizando um arquivo perdido</a><span class="desc"> — Siga essas dicas se você não consegue localizar um arquivo que você criou ou baixou.</span>
 </li>
 </ul></div>
 </div></div>

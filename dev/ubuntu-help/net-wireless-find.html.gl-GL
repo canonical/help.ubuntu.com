@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="Problemas de rede">Problemas de rede</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.gl-GL" title="Problemas de rede">Problemas de rede</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Redes sen fíos">Redes sen fíos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,10 +56,10 @@
 <p class="p">There are a number of reasons why you might not be able to see your
   wireless network on the list of available networks from the system menu.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Se non se mostra ningunha rede na lista, o seu hardware de rede sen fíos podería estar desactivado, ou <span class="link"><a href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos">podería non estar funcionando ben</a></span>. Asegúrese de que está acendido.</p></li>
+<li class="list"><p class="p">Se non se mostra ningunha rede na lista, o seu hardware de rede sen fíos podería estar desactivado, ou <span class="link"><a href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">podería non estar funcionando ben</a></span>. Asegúrese de que está acendido.</p></li>
 <li class="list"><p class="p">Pode estar fóra do rango da rede. Tente acercarse á estación base sen fíos/enrutador e vexa se aparece a rede despois dun tempo.</p></li>
 <li class="list"><p class="p">A actualización da lista de redes sen fíos leva un tempo. Se acaba de acender o seu computador ou moveuse a unha localización distinto, agarde un minuto e comprobe se a rede aparece na lista.</p></li>
-<li class="list"><p class="p">A rede pode estar oculta. Necesita <span class="link"><a href="net-wireless-hidden.html" title="Conectar a unha rede sen fíos oculta">conectarse dunha forma distinta</a></span> se a rede está oculta.</p></li>
+<li class="list"><p class="p">A rede pode estar oculta. Necesita <span class="link"><a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">conectarse dunha forma distinta</a></span> se a rede está oculta.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -69,13 +69,13 @@
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html" title="Problemas de rede">Problemas de rede</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos">Resolución de erros en redes sen fíos</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">atopar a súa rede sen fíos</a></span>…</span>
+<a href="net-problem.html.gl-GL" title="Problemas de rede">Problemas de rede</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de erros en redes sen fíos</a></span>, <span class="link"><a href="net-wireless-find.html.gl-GL" title="I can’t see my wireless network in the list">atopar a súa rede sen fíos</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html" title="Redes sen fíos">Redes sen fíos</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Conectar cunha rede sen fíos">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Conectar a unha rede sen fíos oculta">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Porque a miña rede sen fíos permanece desconectada?">Disconnecting</a></span>…
+<a href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.gl-GL" title="Conectar cunha rede sen fíos">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.gl-GL" title="Porque a miña rede sen fíos permanece desconectada?">Disconnecting</a></span>…
     </span>
 </li>
 </ul></div>
@@ -83,7 +83,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-hidden.html" title="Conectar a unha rede sen fíos oculta">Conectar a unha rede sen fíos oculta</a><span class="desc"> — Connect to a wireless network that is not displayed in the network
+<a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">Conectar a unha rede sen fíos oculta</a><span class="desc"> — Connect to a wireless network that is not displayed in the network
     list.</span>
 </li></ul></div>
 </div></div>

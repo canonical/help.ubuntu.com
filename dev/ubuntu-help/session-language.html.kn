@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">ಸಿದ್ಧತೆಗಳು</a> » <a class="trail" href="prefs-language.html" title="Region &amp; Language">Region &amp; Language</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.kn" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.kn" title="User &amp; system settings">ಸಿದ್ಧತೆಗಳು</a> » <a class="trail" href="prefs-language.html.kn" title="Region &amp; Language">Region &amp; Language</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Change which language you use</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">You can use your desktop and applications in any of dozens of languages,
   provided you have the proper language packs installed on your computer.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.kn#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Language</span>.</p></li>
@@ -84,17 +84,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">ಇನ್ನಷ್ಟು ಮಾಹಿತಿ</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Region &amp; Language">Region &amp; Language</a><span class="desc"> — 
-      <span class="link"><a href="session-language.html" title="Change which language you use">Language</a></span>,
-      <span class="link"><a href="session-formats.html" title="Change date and measurement formats">region and formats</a></span>,
-      <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">keyboard layouts</a></span>…
+<a href="prefs-language.html.kn" title="Region &amp; Language">Region &amp; Language</a><span class="desc"> — 
+      <span class="link"><a href="session-language.html.kn" title="Change which language you use">Language</a></span>,
+      <span class="link"><a href="session-formats.html.kn" title="Change date and measurement formats">region and formats</a></span>,
+      <span class="link"><a href="keyboard-layouts.html.kn" title="Use alternative keyboard layouts">keyboard layouts</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ಇದನ್ನೂ ಸಹ ನೋಡಿ</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-formats.html" title="Change date and measurement formats">Change date and measurement formats</a><span class="desc"> — Choose a region used for date and time, numbers, currency,
+<a href="session-formats.html.kn" title="Change date and measurement formats">Change date and measurement formats</a><span class="desc"> — Choose a region used for date and time, numbers, currency,
     and measurement.</span>
 </li></ul></div>
 </div></div>

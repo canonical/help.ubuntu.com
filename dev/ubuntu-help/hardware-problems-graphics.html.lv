@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html#problems" title="Biežākās problēmas">Problēmas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html.lv#problems" title="Biežākās problēmas">Problēmas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ekrāna problēmas</span></h1></div>
@@ -51,20 +51,20 @@
 <div class="contents">
 <p class="p">Lielākā daļa problēmu ar ekrānu ir saistītas ar video draiveriem vai konfigurāciju. Kura no zemāk atrodamajām tēmām vislabāk apraksta jūsu problēmu?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="Ekrāns tiek slēgts par ātru"><span class="title">Ekrāns tiek slēgts par ātru</span><span class="linkdiv-dash"> — </span><span class="desc">Mainīt laiku, kas paiet pirms ekrāna slēgšanas, <span class="gui">Privātuma</span> iestatījumos.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html" title="Iestatiet ekrāna spilgtumu"><span class="title">Iestatiet ekrāna spilgtumu</span><span class="linkdiv-dash"> — </span><span class="desc">Izmainiet ekrāna spilgtumu, lai padarītu to vieglāk lasāmu spilgtā gaismā.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Iestatīt ekrāna aptumšošanas laiku"><span class="title">Iestatīt ekrāna aptumšošanas laiku</span><span class="linkdiv-dash"> — </span><span class="desc">Izmainiet ekrāna aptumšošanas laiku, lai ietaupītu jaudu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="Kāpēc mans dators neatmostas pēc iesnaudināšanas?"><span class="title">Kāpēc mans dators neatmostas pēc iesnaudināšanas?</span><span class="linkdiv-dash"> — </span><span class="desc">Dažu datoru sastāvā ir aparatūra, kas izraisa problēmas ar iesnaudināšanu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Kāpēc pēc kāda laika ekrāns kļūst tumšāks?"><span class="title">Kāpēc pēc kāda laika ekrāns kļūst tumšāks?</span><span class="linkdiv-dash"> — </span><span class="desc">Kad dators kādu laiku nav lietots, klēpjdatora ekrāns tiks aptumšots, lai taupītu enerģiju.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html" title="Kāpēc viss uz mana ekrāna izskatās miglains vai pikseļots?"><span class="title">Kāpēc viss uz mana ekrāna izskatās miglains vai pikseļots?</span><span class="linkdiv-dash"> — </span><span class="desc">Varētu būt iestatīta nepareizā ekrāna izšķirtspēja.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="Dators neieslēdzas"><span class="title">Dators neieslēdzas</span><span class="linkdiv-dash"> — </span><span class="desc">Nepilnīgi iesprausti vadi un aparatūras problēmas ir iespējami iemesli.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.lv" title="Ekrāns tiek slēgts par ātru"><span class="title">Ekrāns tiek slēgts par ātru</span><span class="linkdiv-dash"> — </span><span class="desc">Mainīt laiku, kas paiet pirms ekrāna slēgšanas, <span class="gui">Privātuma</span> iestatījumos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.lv" title="Iestatiet ekrāna spilgtumu"><span class="title">Iestatiet ekrāna spilgtumu</span><span class="linkdiv-dash"> — </span><span class="desc">Izmainiet ekrāna spilgtumu, lai padarītu to vieglāk lasāmu spilgtā gaismā.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.lv" title="Iestatīt ekrāna aptumšošanas laiku"><span class="title">Iestatīt ekrāna aptumšošanas laiku</span><span class="linkdiv-dash"> — </span><span class="desc">Izmainiet ekrāna aptumšošanas laiku, lai ietaupītu jaudu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.lv" title="Kāpēc mans dators neatmostas pēc iesnaudināšanas?"><span class="title">Kāpēc mans dators neatmostas pēc iesnaudināšanas?</span><span class="linkdiv-dash"> — </span><span class="desc">Dažu datoru sastāvā ir aparatūra, kas izraisa problēmas ar iesnaudināšanu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.lv" title="Kāpēc pēc kāda laika ekrāns kļūst tumšāks?"><span class="title">Kāpēc pēc kāda laika ekrāns kļūst tumšāks?</span><span class="linkdiv-dash"> — </span><span class="desc">Kad dators kādu laiku nav lietots, klēpjdatora ekrāns tiks aptumšots, lai taupītu enerģiju.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.lv" title="Kāpēc viss uz mana ekrāna izskatās miglains vai pikseļots?"><span class="title">Kāpēc viss uz mana ekrāna izskatās miglains vai pikseļots?</span><span class="linkdiv-dash"> — </span><span class="desc">Varētu būt iestatīta nepareizā ekrāna izšķirtspēja.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.lv" title="Dators neieslēdzas"><span class="title">Dators neieslēdzas</span><span class="linkdiv-dash"> — </span><span class="desc">Nepilnīgi iesprausti vadi un aparatūras problēmas ir iespējami iemesli.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Biežākās problēmas">Aparatūras problēmas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.lv#problems" title="Biežākās problēmas">Aparatūras problēmas</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

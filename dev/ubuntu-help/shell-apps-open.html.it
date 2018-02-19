@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Avviare applicazioni</span></h1></div>
@@ -51,9 +51,9 @@
 <div class="contents">
 <p class="p">Move your mouse pointer to the
   <span class="gui">Activities</span> corner at the top left of the screen to show the
-  <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview. This is where you
+  <span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> overview. This is where you
   can find all of your applications. You can also open the overview by pressing
-  the <span class="key"><a href="keyboard-key-super.html" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span> key.</p>
+  the <span class="key"><a href="keyboard-key-super.html.it" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span> key.</p>
 <p class="p">There are several ways of opening an application once you’re in the
   <span class="gui">Activities</span> overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
@@ -65,7 +65,7 @@
 <p class="p">Some applications have icons in the <span class="em">dash</span>, the vertical strip
       of icons on the left-hand side of the <span class="gui">Activities</span> overview.
       Click one of these to start the corresponding application.</p>
-<p class="p">Se alcune applicazioni vengono usante molto spesso, è possibile <span class="link"><a href="shell-apps-favorites.html" title="Mantenere le proprie applicazioni preferite nella dash">aggiungerle alla dash</a></span>.</p>
+<p class="p">Se alcune applicazioni vengono usante molto spesso, è possibile <span class="link"><a href="shell-apps-favorites.html.it" title="Mantenere le proprie applicazioni preferite nella dash">aggiungerle alla dash</a></span>.</p>
 </li>
 <li class="list"><p class="p">Click the grid button at the bottom of the dash. You will see the
       frequently used applications if the <span class="gui">Frequent</span>
@@ -74,7 +74,7 @@
       applications. Press on the application to start it.</p></li>
 <li class="list">
 <p class="p">You can launch an application in a separate
-      <span class="link"><a href="shell-workspaces.html" title="Cos'è uno spazio di lavoro e come può essere utile?">workspace</a></span> by dragging its icon from
+      <span class="link"><a href="shell-workspaces.html.it" title="Cos'è uno spazio di lavoro e come può essere utile?">workspace</a></span> by dragging its icon from
       the dash, and dropping it onto one of the workspaces on the right-hand
       side of the screen. The application will open in the chosen
       workspace.</p>
@@ -102,13 +102,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="index.html" title="Guida Ubuntu Desktop">Guida Ubuntu Desktop</a></li>
+<li class="links "><a href="index.html.it" title="Guida Ubuntu Desktop">Guida Ubuntu Desktop</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Your desktop">Your desktop</a><span class="desc"> — 
-      <span class="link"><a href="clock-calendar.html" title="Appuntamenti in calendario">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="Notifiche e cassetto dei messaggi">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="Utili scorciatoie da tastiera">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="Finestre e spazi di lavoro">windows and workspaces</a></span>…
+<a href="shell-overview.html.it" title="Your desktop">Your desktop</a><span class="desc"> — 
+      <span class="link"><a href="clock-calendar.html.it" title="Appuntamenti in calendario">Calendar</a></span>,
+      <span class="link"><a href="shell-notifications.html.it" title="Notifiche e cassetto dei messaggi">notifications</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.it" title="Utili scorciatoie da tastiera">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-windows.html.it" title="Finestre e spazi di lavoro">windows and workspaces</a></span>…
     </span>
 </li>
 </ul></div>
@@ -116,10 +116,10 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-launch-applications.html" title="Lanciare applicazioni">A tutorial on launching applications</a></li>
-<li class="links "><a href="gs-use-system-search.html" title="Usare la ricerca di sistema">A tutorial on using the system search</a></li>
+<li class="links "><a href="gs-launch-applications.html.it" title="Lanciare applicazioni">A tutorial on launching applications</a></li>
+<li class="links "><a href="gs-use-system-search.html.it" title="Usare la ricerca di sistema">A tutorial on using the system search</a></li>
 <li class="links ">
-<a href="shell-apps-favorites.html" title="Mantenere le proprie applicazioni preferite nella dash">Mantenere le proprie applicazioni preferite nella dash</a><span class="desc"> — Aggiungere (o rimuovere) alla dash le icone di programmi usati frequentemente.</span>
+<a href="shell-apps-favorites.html.it" title="Mantenere le proprie applicazioni preferite nella dash">Mantenere le proprie applicazioni preferite nella dash</a><span class="desc"> — Aggiungere (o rimuovere) alla dash le icone di programmi usati frequentemente.</span>
 </li>
 </ul></div>
 </div></div>

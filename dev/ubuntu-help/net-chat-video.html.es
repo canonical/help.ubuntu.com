@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-chat.html" title="Charlas y redes sociales">Charlas y redes sociales</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-chat.html.es" title="Charlas y redes sociales">Charlas y redes sociales</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Llamadas de vídeo</span></h1></div>
@@ -64,17 +64,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html" title="Charlas y redes sociales">Charlas y redes sociales</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html" title="Mensajería instantánea con Ubuntu">Charle en cualquier red usando <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html" title="Llamadas de vídeo">realice vídeollamadas</a></span>, <span class="link"><a href="net-chat-skype.html" title="¿Cómo usar Skype en Ubuntu?">instalar skype</a></span></span>
+<a href="net-chat.html.es" title="Charlas y redes sociales">Charlas y redes sociales</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html.es" title="Mensajería instantánea con Ubuntu">Charle en cualquier red usando <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.es" title="Llamadas de vídeo">realice vídeollamadas</a></span>, <span class="link"><a href="net-chat-skype.html.es" title="¿Cómo usar Skype en Ubuntu?">instalar skype</a></span></span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat-empathy.html" title="Mensajería instantánea con Ubuntu">Mensajería instantánea con Ubuntu</a><span class="desc"> — Con <span class="app">Empathy</span> puede conversar, hacer audio y videollamadas con amigos y compañeros de varias redes</span>
+<a href="net-chat-empathy.html.es" title="Mensajería instantánea con Ubuntu">Mensajería instantánea con Ubuntu</a><span class="desc"> — Con <span class="app">Empathy</span> puede conversar, hacer audio y videollamadas con amigos y compañeros de varias redes</span>
 </li>
 <li class="links ">
-<a href="net-chat-skype.html" title="¿Cómo usar Skype en Ubuntu?">¿Cómo usar Skype en Ubuntu?</a><span class="desc"> — <span class="app">Skype</span> es un software privativo y debe instalarse manualmente en Ubuntu</span>
+<a href="net-chat-skype.html.es" title="¿Cómo usar Skype en Ubuntu?">¿Cómo usar Skype en Ubuntu?</a><span class="desc"> — <span class="app">Skype</span> es un software privativo y debe instalarse manualmente en Ubuntu</span>
 </li>
 </ul></div>
 </div></div>

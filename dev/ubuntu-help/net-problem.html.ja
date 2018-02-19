@@ -43,22 +43,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ネットワーク関連の問題</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html.ja" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
     connect to a hidden network.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="Other users can’t connect to the internet"><span class="title">Other users can’t connect to the internet</span><span class="linkdiv-dash"> — </span><span class="desc">コンピューターを使用する人が誰でもネットワーク接続を行えるよう、ネットワーク接続の設定 (パスワードなど) を保存することができます。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="Other users can’t edit the network connections"><span class="title">Other users can’t edit the network connections</span><span class="linkdiv-dash"> — </span><span class="desc">ネットワーク接続の設定内で<span class="gui">他のユーザーにも利用可能にする</span>オプションのチェックを外す必要があります。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html.ja" title="Other users can’t connect to the internet"><span class="title">Other users can’t connect to the internet</span><span class="linkdiv-dash"> — </span><span class="desc">コンピューターを使用する人が誰でもネットワーク接続を行えるよう、ネットワーク接続の設定 (パスワードなど) を保存することができます。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html.ja" title="Other users can’t edit the network connections"><span class="title">Other users can’t edit the network connections</span><span class="linkdiv-dash"> — </span><span class="desc">ネットワーク接続の設定内で<span class="gui">他のユーザーにも利用可能にする</span>オプションのチェックを外す必要があります。</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-slow.html" title="インターネットが遅い"><span class="title">インターネットが遅い</span><span class="linkdiv-dash"> — </span><span class="desc">Other things might be downloading, you could have a poor connection,
+<div class="linkdiv "><a class="linkdiv" href="net-slow.html.ja" title="インターネットが遅い"><span class="title">インターネットが遅い</span><span class="linkdiv-dash"> — </span><span class="desc">Other things might be downloading, you could have a poor connection,
     or it could be a busy time of day.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="無線ネットワークが切断されてしまいます、なぜですか?"><span class="title">無線ネットワークが切断されてしまいます、なぜですか?</span><span class="linkdiv-dash"> — </span><span class="desc">信号が弱い、またはネットワークに正しく接続されていない可能性があります。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html.ja" title="無線ネットワークが切断されてしまいます、なぜですか?"><span class="title">無線ネットワークが切断されてしまいます、なぜですか?</span><span class="linkdiv-dash"> — </span><span class="desc">信号が弱い、またはネットワークに正しく接続されていない可能性があります。</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -67,13 +67,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="無線ネットワーク">無線</a></span>、<span class="link"><a href="net-wired.html" title="有線によるネットワーク">有線</a></span>、<span class="link"><a href="net-problem.html" title="ネットワーク関連の問題">接続関連の問題</a></span>、<span class="link"><a href="net-browser.html" title="ウェブブラウザー">web ブラウジング</a></span>、<span class="link"><a href="net-email.html" title="メールとメールソフトウェア">メールアカウント</a></span>…</span>
+<a href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ja" title="無線ネットワーク">無線</a></span>、<span class="link"><a href="net-wired.html.ja" title="有線によるネットワーク">有線</a></span>、<span class="link"><a href="net-problem.html.ja" title="ネットワーク関連の問題">接続関連の問題</a></span>、<span class="link"><a href="net-browser.html.ja" title="ウェブブラウザー">web ブラウジング</a></span>、<span class="link"><a href="net-email.html.ja" title="メールとメールソフトウェア">メールアカウント</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="無線ネットワーク">無線ネットワーク</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="無線ネットワークに接続する">無線接続</a></span>、<span class="link"><a href="net-wireless-hidden.html" title="非表示設定の無線ネットワークに接続">非表示設定のネットワーク</a></span>、<span class="link"><a href="net-wireless-disconnecting.html" title="無線ネットワークが切断されてしまいます、なぜですか?">切断する</a></span>…</span>
+<a href="net-wireless.html.ja" title="無線ネットワーク">無線ネットワーク</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.ja" title="無線ネットワークに接続する">無線接続</a></span>、<span class="link"><a href="net-wireless-hidden.html.ja" title="非表示設定の無線ネットワークに接続">非表示設定のネットワーク</a></span>、<span class="link"><a href="net-wireless-disconnecting.html.ja" title="無線ネットワークが切断されてしまいます、なぜですか?">切断する</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

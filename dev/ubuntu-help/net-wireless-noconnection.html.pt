@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-wireless.html" title="Conexões sem fios">Conexões sem fios</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-wireless.html.pt" title="Conexões sem fios">Conexões sem fios</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">I’ve entered the correct password, but I still can’t connect</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you’re sure that you entered the correct <span class="link"><a href="net-wireless-wepwpa.html" title="Que significam WEP e WPA?">wireless password</a></span> but you still can’t successfully connect to a wireless network, try some of the following:</p>
+<p class="p">If you’re sure that you entered the correct <span class="link"><a href="net-wireless-wepwpa.html.pt" title="Que significam WEP e WPA?">wireless password</a></span> but you still can’t successfully connect to a wireless network, try some of the following:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Verifique duas vezes que tem introduzido corretamente a palavra-passe</p>
@@ -61,7 +61,7 @@
 </li>
 <li class="list">
 <p class="p">Tente apagar seu cartão sem fios e voltá-la a acender</p>
-<p class="p">Sometimes wireless cards get stuck or experience a minor problem that means they won’t connect. Try turning the card off and then on again to reset it — see <span class="link"><a href="net-wireless-troubleshooting.html" title="Solucionador de problemas de rede sem fios">Solucionador de problemas de rede sem fios</a></span> for more information.</p>
+<p class="p">Sometimes wireless cards get stuck or experience a minor problem that means they won’t connect. Try turning the card off and then on again to reset it — see <span class="link"><a href="net-wireless-troubleshooting.html.pt" title="Solucionador de problemas de rede sem fios">Solucionador de problemas de rede sem fios</a></span> for more information.</p>
 </li>
 <li class="list">
 <p class="p">Check that you’re using the correct type of wireless security</p>
@@ -69,7 +69,7 @@
 </li>
 <li class="list">
 <p class="p">Verifique que seu cartão sem fios está corretamente suportada</p>
-<p class="p">Some wireless cards aren’t supported very well. They show up as a wireless connection, but they can’t connect to a network because their drivers lack the ability to do this. See if you can get an alternative wireless driver, or if you need to perform some extra set-up (like installing a different <span class="em">firmware</span>). See <span class="link"><a href="net-wireless-troubleshooting.html" title="Solucionador de problemas de rede sem fios">Solucionador de problemas de rede sem fios</a></span> for more information.</p>
+<p class="p">Some wireless cards aren’t supported very well. They show up as a wireless connection, but they can’t connect to a network because their drivers lack the ability to do this. See if you can get an alternative wireless driver, or if you need to perform some extra set-up (like installing a different <span class="em">firmware</span>). See <span class="link"><a href="net-wireless-troubleshooting.html.pt" title="Solucionador de problemas de rede sem fios">Solucionador de problemas de rede sem fios</a></span> for more information.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -78,7 +78,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Conexões sem fios">Conexões sem fios</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Ligar com uma rede sem fios">Ligar com uma rede sem fios</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Ligar a uma rede sem fios oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Por que minha rede sem fios permanece desligada?">desligar-se</a></span>…</span>
+<a href="net-wireless.html.pt" title="Conexões sem fios">Conexões sem fios</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pt" title="Ligar com uma rede sem fios">Ligar com uma rede sem fios</a></span>, <span class="link"><a href="net-wireless-hidden.html.pt" title="Ligar a uma rede sem fios oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pt" title="Por que minha rede sem fios permanece desligada?">desligar-se</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

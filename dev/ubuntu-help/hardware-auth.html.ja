@@ -43,25 +43,25 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="ハードウェアとドライバー">ハードウェア</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fingerprints &amp; smart cards</span></h1></div>
 <div class="region">
-<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="session-fingerprint.html" title="Log in with a fingerprint"><span class="title">Log in with a fingerprint</span><span class="linkdiv-dash"> — </span><span class="desc">You can log in to your system using a supported fingerprint scanner
+<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="session-fingerprint.html.ja" title="Log in with a fingerprint"><span class="title">Log in with a fingerprint</span><span class="linkdiv-dash"> — </span><span class="desc">You can log in to your system using a supported fingerprint scanner
     instead of typing in your password.</span></a></div></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="ハードウェアとドライバー">ハードウェアとドライバー</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html#problems" title="よくある問題">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html" title="印刷">printers</a></span>,
-      <span class="link"><a href="power.html" title="電源とバッテリー">power settings</a></span>,
-      <span class="link"><a href="color.html" title="カラーマネージメント">color management</a></span>,
-      <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html" title="Disks &amp; storage">disks</a></span>…
+<a href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェアとドライバー</a><span class="desc"> — 
+      <span class="link"><a href="hardware.html.ja#problems" title="よくある問題">Hardware problems</a></span>,
+      <span class="link"><a href="printing.html.ja" title="印刷">printers</a></span>,
+      <span class="link"><a href="power.html.ja" title="電源とバッテリー">power settings</a></span>,
+      <span class="link"><a href="color.html.ja" title="カラーマネージメント">color management</a></span>,
+      <span class="link"><a href="bluetooth.html.ja" title="Bluetooth">Bluetooth</a></span>,
+      <span class="link"><a href="disk.html.ja" title="Disks &amp; storage">disks</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

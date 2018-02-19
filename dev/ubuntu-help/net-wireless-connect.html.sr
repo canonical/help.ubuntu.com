@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-wireless.html" title="Бежично умрежавање">Бежично умрежавање</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-wireless.html.sr" title="Бежично умрежавање">Бежично умрежавање</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Повезивање на бежичну мрежу</span></h1></div>
@@ -51,21 +51,21 @@
 <div class="contents">
 <p class="p">Ако имате рачунар са бежичном картицом, можете да се повежете на бежичну мрежу којој сте у домету да бисте добили приступ интернету, видели дељене датотеке на мрежи, и тако даље.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите <span class="gui"><a href="shell-introduction.html#yourname" title="Ви и ваш рачунар">изборник система</a></span> на десној страни горње траке.</p></li>
+<li class="steps"><p class="p">Отворите <span class="gui"><a href="shell-introduction.html.sr#yourname" title="Ви и ваш рачунар">изборник система</a></span> на десној страни горње траке.</p></li>
 <li class="steps"><p class="p">Изаберите <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Бежична мрежа није повезана</span>. Одељак бежичне везе у изборнику ће се раширити.</p></li>
 <li class="steps"><p class="p">Притисните на <span class="gui">Изабери мрежу</span>.</p></li>
 <li class="steps">
 <p class="p">Изаберите назив мреже на коју желите да се повежете, затим кликните <span class="gui">Повежи се</span>.</p>
-<p class="p">Ако назив мреже није на списку, покушајте да кликнете на <span class="gui">Још</span> да видите да ли је мрежа при дну списка. Ако још увек не видите мрежу, може бити да сте ван домета или да је мрежа <span class="link"><a href="net-wireless-hidden.html" title="Повежите се на скривену бежичну мрежу">можда скривена</a></span>.</p>
+<p class="p">Ако назив мреже није на списку, покушајте да кликнете на <span class="gui">Још</span> да видите да ли је мрежа при дну списка. Ако још увек не видите мрежу, може бити да сте ван домета или да је мрежа <span class="link"><a href="net-wireless-hidden.html.sr" title="Повежите се на скривену бежичну мрежу">можда скривена</a></span>.</p>
 </li>
 <li class="steps">
-<p class="p">Ако је мрежа заштићена лозинком (<span class="link"><a href="net-wireless-wepwpa.html" title="Шта значи ВЕП и ВПА?">кључем шифровања</a></span>), унесите је када вам буде била затражена и кликните на <span class="gui">Успостави везу</span>.</p>
+<p class="p">Ако је мрежа заштићена лозинком (<span class="link"><a href="net-wireless-wepwpa.html.sr" title="Шта значи ВЕП и ВПА?">кључем шифровања</a></span>), унесите је када вам буде била затражена и кликните на <span class="gui">Успостави везу</span>.</p>
 <p class="p">Ако не знате кључ, може бити да је записан на полеђини бежичног усмеривача или основне поставе или у приручнику упутства, или ћете морати да питате особу која администрира бежичну мрежу.</p>
 </li>
 <li class="steps"><p class="p">Иконица мреже ће променити изглед како рачунар буде покушавао да се повеже на мрежу.</p></li>
 <li class="steps"><p class="p">Ако је повезивање успешно обављено, иконица ће се променити у тачкице са неколико усправних штапића изнад (<span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>). Више штапића означавају јачу везу са мрежом. Мање штапића значи да је веза слаба и неће бити много поуздана.</p></li>
 </ol></div></div></div>
-<p class="p">Ако повезивање на мрежу није успешно, од вас може бити затражено да поново унесете вашу лозинку или вас може обавестити да је веза са мрежом прекинута. Узрок овоме може бити велики број ствари. Можда сте унели погрешну лозинку, бежични сигнал може бити превише слаб, или можда бежична картица вашег рачунара није исправна. За више помоћи погледајте <span class="link"><a href="net-wireless-troubleshooting.html" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a></span>.</p>
+<p class="p">Ако повезивање на мрежу није успешно, од вас може бити затражено да поново унесете вашу лозинку или вас може обавестити да је веза са мрежом прекинута. Узрок овоме може бити велики број ствари. Можда сте унели погрешну лозинку, бежични сигнал може бити превише слаб, или можда бежична картица вашег рачунара није исправна. За више помоћи погледајте <span class="link"><a href="net-wireless-troubleshooting.html.sr" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a></span>.</p>
 <p class="p">Јача веза на бежичну мрежу не мора обавезно да значи да ћете имати бржу везу на интернет, или да ћете имати веће брзине преузимања. Бежична веза повезује ваш рачунар на <span class="em">уређај који обезбеђује везу на интернет</span> (на усмеривач или модем), али ове две везе су заправо различите, тако да ће радити при другачијим брзинама.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -74,17 +74,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Бежично умрежавање">Бежично умрежавање</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Повезивање на бежичну мрежу">Повезивање на бежичну</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Повежите се на скривену бежичну мрежу">Скривене мреже</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Зашто се моја бежична мрежа непрестано прекида?">Прекидање везе</a></span>…</span>
+<a href="net-wireless.html.sr" title="Бежично умрежавање">Бежично умрежавање</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.sr" title="Повезивање на бежичну мрежу">Повезивање на бежичну</a></span>, <span class="link"><a href="net-wireless-hidden.html.sr" title="Повежите се на скривену бежичну мрежу">Скривене мреже</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.sr" title="Зашто се моја бежична мрежа непрестано прекида?">Прекидање везе</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless-disconnecting.html" title="Зашто се моја бежична мрежа непрестано прекида?">Зашто се моја бежична мрежа непрестано прекида?</a><span class="desc"> — Можете имати слаб сигнал, или вам мрежа неће дозволити да се исправно повежете.</span>
+<a href="net-wireless-disconnecting.html.sr" title="Зашто се моја бежична мрежа непрестано прекида?">Зашто се моја бежична мрежа непрестано прекида?</a><span class="desc"> — Можете имати слаб сигнал, или вам мрежа неће дозволити да се исправно повежете.</span>
 </li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a><span class="desc"> — Одредите и исправите проблеме са бежичним везама.</span>
+<a href="net-wireless-troubleshooting.html.sr" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a><span class="desc"> — Одредите и исправите проблеме са бежичним везама.</span>
 </li>
 </ul></div>
 </div></div>

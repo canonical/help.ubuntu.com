@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Чат и социальные сети</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html" title="Видеозвонки"><span class="title">Видеозвонки</span><span class="linkdiv-dash"> — </span><span class="desc">Какое приложение я могу использовать для видеозвонков?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html" title="Мгновенные сообщения в Ubuntu"><span class="title">Мгновенные сообщения в Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">С <span class="app">Empathy</span> можно общаться, звонить и совершать видеозвонки своим друзьям и коллегам в самых разных сетях</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html.ru" title="Видеозвонки"><span class="title">Видеозвонки</span><span class="linkdiv-dash"> — </span><span class="desc">Какое приложение я могу использовать для видеозвонков?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html.ru" title="Мгновенные сообщения в Ubuntu"><span class="title">Мгновенные сообщения в Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">С <span class="app">Empathy</span> можно общаться, звонить и совершать видеозвонки своим друзьям и коллегам в самых разных сетях</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html" title="Как я могу использовать Skype в Ubuntu?"><span class="title">Как я могу использовать Skype в Ubuntu?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> является проприетарной программой и в Ubuntu его придётся установить вручную</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html.ru" title="Как я могу использовать Skype в Ubuntu?"><span class="title">Как я могу использовать Skype в Ubuntu?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> является проприетарной программой и в Ubuntu его придётся установить вручную</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -61,16 +61,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Беспроводные сети">Беспроводные</a></span>, <span class="link"><a href="net-wired.html" title="Проводные сети">проводные</a></span>, <span class="link"><a href="net-problem.html" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html" title="Веб-браузеры">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
+<a href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные</a></span>, <span class="link"><a href="net-wired.html.ru" title="Проводные сети">проводные</a></span>, <span class="link"><a href="net-problem.html.ru" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html.ru" title="Веб-браузеры">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html.ru" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Сетевые учётные записи">Сетевые учётные записи</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Добавление учётной записи">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Удаление учётной записи">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.ru" title="Сетевые учётные записи">Сетевые учётные записи</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.ru" title="Добавление учётной записи">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.ru" title="Удаление учётной записи">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.ru" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div>

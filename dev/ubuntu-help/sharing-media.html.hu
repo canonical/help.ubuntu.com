@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="prefs-sharing.html" title="Megosztás beállításai">Megosztás beállításai</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="prefs-sharing.html.hu" title="Megosztás beállításai">Megosztás beállításai</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="sharing.html" title="Megosztás">Megosztás</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="sharing.html.hu" title="Megosztás">Megosztás</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,11 +56,11 @@
 <p class="p">A számítógépén lévő médiafájlokat tallózhatja, keresheti és lejátszhatja egy <span class="sys">UPnP</span> vagy <span class="sys">DLNA</span>-képes eszközzel, például telefonnal, TV-vel vagy játékkonzollal. A <span class="gui">Médiamegosztás</span> beállításával engedélyezheti ezen eszközöknek a zenéit, fényképeit és videóit tartalmazó mappák elérését.</p>
 <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">A <span class="gui">Médiamegosztás</span> csak akkor látható, ha a <span class="app">Rygel</span> csomag telepítve van.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Megosztás</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Megosztás</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Megosztás</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps">
 <p class="p">Ha a <span class="gui">Megosztás</span> <span class="gui">KI</span> van kapcsolva, akkor kapcsolja <span class="gui">BE</span> állásba a kapcsolót.</p>
-<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">Ha a <span class="gui">Számítógép neve</span> alatti szöveg szerkeszthető, akkor <span class="link"><a href="sharing-displayname.html" title="A számítógép megjelenő nevének beállítása">megváltoztathatja</a></span> a számítógép által a hálózaton megjelenített nevet.</p></div></div></div></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">Ha a <span class="gui">Számítógép neve</span> alatti szöveg szerkeszthető, akkor <span class="link"><a href="sharing-displayname.html.hu" title="A számítógép megjelenő nevének beállítása">megváltoztathatja</a></span> a számítógép által a hálózaton megjelenített nevet.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Nyissa meg a <span class="gui">Médiamegosztás</span> panelt.</p></li>
 <li class="steps"><p class="p">Kapcsolja <span class="gui">BE</span> a <span class="gui">Médiamegosztás</span> kapcsolót.</p></li>
@@ -79,10 +79,10 @@
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Megosztás">Megosztás</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Az asztal megosztása">Asztalmegosztás</a></span>, <span class="link"><a href="files-share.html" title="Fájlok megosztása e-mailben">Fájlok megosztása e-mailben</a></span>, <span class="link"><a href="sharing-media.html" title="Zene, fényképek és videók megosztása">Médiamegosztás</a></span>…</span>
+<a href="sharing.html.hu" title="Megosztás">Megosztás</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.hu" title="Az asztal megosztása">Asztalmegosztás</a></span>, <span class="link"><a href="files-share.html.hu" title="Fájlok megosztása e-mailben">Fájlok megosztása e-mailben</a></span>, <span class="link"><a href="sharing-media.html.hu" title="Zene, fényképek és videók megosztása">Médiamegosztás</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html" title="Megosztás beállításai">Megosztás beállításai</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Bluetooth megosztás szabályozása">Bluetooth megosztás</a></span>, <span class="link"><a href="sharing-personal.html" title="Személyes fájljainak megosztása">Személyes fájlmegosztás</a></span> <span class="link"><a href="sharing-desktop.html" title="Az asztal megosztása">Képernyőmegosztás</a></span>, <span class="link"><a href="sharing-media.html" title="Zene, fényképek és videók megosztása">Médiamegosztás</a></span>…</span>
+<a href="prefs-sharing.html.hu" title="Megosztás beállításai">Megosztás beállításai</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.hu" title="Bluetooth megosztás szabályozása">Bluetooth megosztás</a></span>, <span class="link"><a href="sharing-personal.html.hu" title="Személyes fájljainak megosztása">Személyes fájlmegosztás</a></span> <span class="link"><a href="sharing-desktop.html.hu" title="Az asztal megosztása">Képernyőmegosztás</a></span>, <span class="link"><a href="sharing-media.html.hu" title="Zene, fényképek és videók megosztása">Médiamegosztás</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

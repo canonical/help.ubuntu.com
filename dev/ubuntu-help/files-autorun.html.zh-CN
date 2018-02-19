@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html#removable" title="可移动设备和外置磁盘">可移动设备和外置磁盘</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.zh-CN" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html.zh-CN#removable" title="可移动设备和外置磁盘">可移动设备和外置磁盘</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="声音、视频 &amp; 图片">声音、视频 &amp; 图片</a> › <a class="trail" href="media.html#photos" title="照片和数码相机">照片</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.zh-CN" title="声音、视频 &amp; 图片">声音、视频 &amp; 图片</a> › <a class="trail" href="media.html.zh-CN#photos" title="照片和数码相机">照片</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="声音、视频 &amp; 图片">声音、视频 &amp; 图片</a> › <a class="trail" href="media.html#videos" title="视频和摄像机">视频</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.zh-CN" title="声音、视频 &amp; 图片">声音、视频 &amp; 图片</a> › <a class="trail" href="media.html.zh-CN#videos" title="视频和摄像机">视频</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="声音、视频 &amp; 图片">声音、视频 &amp; 图片</a> › <a class="trail" href="media.html#music" title="音乐和便携式音乐播放器">音乐和播放器</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.zh-CN" title="声音、视频 &amp; 图片">声音、视频 &amp; 图片</a> › <a class="trail" href="media.html.zh-CN#music" title="音乐和便携式音乐播放器">音乐和播放器</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <p class="p">当您插入某个设备、光盘或媒体卡时，您可以自动启动特定的应用程序。例如，当您插入数码相机时，您可能希望启动您的照片管理器。您也可以将其关闭，这样在您插入对应设备时系统将不自动进行任何操作。</p>
 <p class="p">接入不同设备时，选择用哪一个程序打开它：</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
     start typing <span class="gui">Details</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Removable Media</span>.</p></li>
@@ -94,7 +94,7 @@
 <dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
     <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
     video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
+    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html.zh-CN" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
     </p></dd>
 <dt class="terms">空白光盘</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing
@@ -126,10 +126,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#removable" title="可移动设备和外置磁盘">可移动设备和外置磁盘</a></li>
-<li class="links "><a href="media.html#photos" title="照片和数码相机">照片</a></li>
-<li class="links "><a href="media.html#videos" title="视频和摄像机">视频</a></li>
-<li class="links "><a href="media.html#music" title="音乐和便携式音乐播放器">音乐和播放器</a></li>
+<li class="links "><a href="files.html.zh-CN#removable" title="可移动设备和外置磁盘">可移动设备和外置磁盘</a></li>
+<li class="links "><a href="media.html.zh-CN#photos" title="照片和数码相机">照片</a></li>
+<li class="links "><a href="media.html.zh-CN#videos" title="视频和摄像机">视频</a></li>
+<li class="links "><a href="media.html.zh-CN#music" title="音乐和便携式音乐播放器">音乐和播放器</a></li>
 </ul></div>
 </div></div></div>
 </div>

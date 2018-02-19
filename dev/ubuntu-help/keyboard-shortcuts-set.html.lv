@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="keyboard.html" title="Tastatūra">Tastatūra</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="keyboard.html.lv" title="Tastatūra">Tastatūra</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="keyboard.html" title="Tastatūra">Tastatūra</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="keyboard.html.lv" title="Tastatūra">Tastatūra</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Lai izmainītu taustiņu vai taustiņus, kas veido tastatūras saīsni:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Tastatūra</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Tastatūra</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Tastatūra</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Izvēlieties <span class="gui">Saīsnes</span> cilni.</p></li>
 <li class="steps"><p class="p">Kreisajā rūtī izvēlieties kategoriju, un labajā pusē vēlamās darbības rindu. Pašreizējā saīsnes definīcija tiks mainīta uz <span class="gui">jauno paātrinātāju…</span></p></li>
@@ -129,7 +129,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Pārvietot logu uz darbvietu augšup</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html.lv" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Pārvietot logu uz darbvietu lejup</p></td>
@@ -495,13 +495,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="Tastatūra">Tastatūra</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Tastatūru izkārtojumi</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Izdariet tā, lai tastatūras kursors mirgotu">kursora mirgošana</a></span>, <span class="link"><a href="a11y.html#mobility" title="Kustību traucējumi">tastatūras pieejamība</a></span>…</span>
+<a href="keyboard.html.lv" title="Tastatūra">Tastatūra</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.lv" title="Use alternative keyboard layouts">Tastatūru izkārtojumi</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.lv" title="Izdariet tā, lai tastatūras kursors mirgotu">kursora mirgošana</a></span>, <span class="link"><a href="a11y.html.lv#mobility" title="Kustību traucējumi">tastatūras pieejamība</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Noderīgas tastatūras saīsnes">Noderīgas tastatūras saīsnes</a><span class="desc"> — Pārvietojieties pa darbvirsmu, izmantojot tastatūru.</span>
+<a href="shell-keyboard-shortcuts.html.lv" title="Noderīgas tastatūras saīsnes">Noderīgas tastatūras saīsnes</a><span class="desc"> — Pārvietojieties pa darbvirsmu, izmantojot tastatūru.</span>
 </li></ul></div>
 </div></div>
 </div>

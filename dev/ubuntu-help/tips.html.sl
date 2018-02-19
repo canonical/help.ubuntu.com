@@ -43,25 +43,25 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Namigi in triki</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="gnome-version.html" title="Determine which version of GNOME is running"><span class="title">Determine which version of GNOME is running</span><span class="linkdiv-dash"> — </span><span class="desc">How to determine which version of GNOME is running.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Srednji klik"><span class="title">Srednji klik</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
+<div class="linkdiv "><a class="linkdiv" href="gnome-version.html.sl" title="Determine which version of GNOME is running"><span class="title">Determine which version of GNOME is running</span><span class="linkdiv-dash"> — </span><span class="desc">How to determine which version of GNOME is running.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.sl" title="Srednji klik"><span class="title">Srednji klik</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
     more.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Uporabne tipkovne bližnjice"><span class="title">Uporabne tipkovne bližnjice</span><span class="linkdiv-dash"> — </span><span class="desc">Uporaba namizja s tipkovnico.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html" title="Vnos posebnih znakov"><span class="title">Vnos posebnih znakov</span><span class="linkdiv-dash"> — </span><span class="desc">Vnos znakov, ki jih na svoji tipkovnici ne najdete, vključno s tujimi abecedami, matematičnimi simboli in okrasnimi znaki.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html" title="Zaslonske slike in posnetki"><span class="title">Zaslonske slike in posnetki</span><span class="linkdiv-dash"> — </span><span class="desc">Take a picture or record a video of what is happening on your
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.sl" title="Uporabne tipkovne bližnjice"><span class="title">Uporabne tipkovne bližnjice</span><span class="linkdiv-dash"> — </span><span class="desc">Uporaba namizja s tipkovnico.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html.sl" title="Vnos posebnih znakov"><span class="title">Vnos posebnih znakov</span><span class="linkdiv-dash"> — </span><span class="desc">Vnos znakov, ki jih na svoji tipkovnici ne najdete, vključno s tujimi abecedami, matematičnimi simboli in okrasnimi znaki.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html.sl" title="Zaslonske slike in posnetki"><span class="title">Zaslonske slike in posnetki</span><span class="linkdiv-dash"> — </span><span class="desc">Take a picture or record a video of what is happening on your
     screen.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.sl" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

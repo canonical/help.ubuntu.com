@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html#faq" title="Tippek és kérdések">Tippek és kérdések</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.hu" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html.hu#faq" title="Tippek és kérdések">Tippek és kérdések</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mik azok a <span class="file">~</span> végződésű fájlok?</span></h1></div>
@@ -51,19 +51,19 @@
 <div class="contents">
 <p class="p">A <span class="file">~</span> karakterre végződő nevű fájlok (például: <span class="file">példa.txt~</span>) automatikusan létrehozott biztonsági másolatok a <span class="app">gedit</span> szövegszerkesztőben vagy más alkalmazásokban módosított fájlokról. Ezek biztonságosan törölhetők, de nem okoz problémát a megtartásuk sem.</p>
 <p class="p">Ezek a fájlok alapesetben rejtettek. Ha mégis látja őket, akkor vagy kiválasztotta a <span class="gui">Rejtett fájlok megjelenítése</span> menüpontot (a <span class="app">Fájlok</span> eszköztár nézetbeállítások menüjében), vagy megnyomta a <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> billentyűkombinációt. Ezen lépések egyikének megismétlésével újra elrejtheti a fájlokat.</p>
-<p class="p">Ezeket a fájlokat normál rejtett fájlokként kezeli a rendszer. A rejtett fájlok kezelésével kapcsolatos tanácsokért lásd: <span class="link"><a href="files-hidden.html" title="Fájl elrejtése">Fájl elrejtése</a></span>.</p>
+<p class="p">Ezeket a fájlokat normál rejtett fájlokként kezeli a rendszer. A rejtett fájlok kezelésével kapcsolatos tanácsokért lásd: <span class="link"><a href="files-hidden.html.hu" title="Fájl elrejtése">Fájl elrejtése</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tippek és kérdések">Tippek és kérdések</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.hu#faq" title="Tippek és kérdések">Tippek és kérdések</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-hidden.html" title="Fájl elrejtése">Fájl elrejtése</a><span class="desc"> — Fájl láthatatlanná tétele, hogy ne jelenjen meg a fájlkezelőben.</span>
+<a href="files-hidden.html.hu" title="Fájl elrejtése">Fájl elrejtése</a><span class="desc"> — Fájl láthatatlanná tétele, hogy ne jelenjen meg a fájlkezelőben.</span>
 </li></ul></div>
 </div></div>
 </div>

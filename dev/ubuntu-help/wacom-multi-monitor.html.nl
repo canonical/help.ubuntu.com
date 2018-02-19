@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="wacom.html" title="Wacom-tekentablet">Wacom-tekentablet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="wacom.html.nl" title="Wacom-tekentablet">Wacom-tekentablet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een monitor kiezen</span></h1></div>
 <div class="region">
 <div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Wacom-tablet</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Wacom-tablet</span>.</p></li>
 <li class="steps">
 <p class="p">Klik op <span class="gui">Wacom-tablet</span> om het paneel te openen.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html" title="Wacom-tekentablet">Wacom-tekentablet</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html" title="Een monitor kiezen">Een monitor koppelen</a></span>, <span class="link"><a href="wacom-stylus.html" title="De pen configureren">de pen configureren</a></span>, <span class="link"><a href="wacom-left-handed.html" title="Het tablet gebruiken met uw linkerhand">de tablet linkshandig gebruiken</a></span>…</span>
+<a href="wacom.html.nl" title="Wacom-tekentablet">Wacom-tekentablet</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html.nl" title="Een monitor kiezen">Een monitor koppelen</a></span>, <span class="link"><a href="wacom-stylus.html.nl" title="De pen configureren">de pen configureren</a></span>, <span class="link"><a href="wacom-left-handed.html.nl" title="Het tablet gebruiken met uw linkerhand">de tablet linkshandig gebruiken</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

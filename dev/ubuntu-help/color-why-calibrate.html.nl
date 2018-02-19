@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#calibration" title="Kalibratie">Kalibratie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html#calibration" title="Kalibratie">Kalibratie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#calibration" title="Kalibratie">Kalibratie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -63,19 +63,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Kalibratie">Kalibratie</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.nl#calibration" title="Kalibratie">Kalibratie</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Hoe kan ik profielen toewijzen aan apparaten?">Hoe kan ik profielen toewijzen aan apparaten?</a><span class="desc"> —  Ga in <span class="guiseq"><span class="gui">Instellingen</span> ▸ <span class="gui">Kleur</span></span> om een kleurprofiel voor uw scherm toe te voegen.</span>
+<a href="color-assignprofiles.html.nl" title="Hoe kan ik profielen toewijzen aan apparaten?">Hoe kan ik profielen toewijzen aan apparaten?</a><span class="desc"> —  Ga in <span class="guiseq"><span class="gui">Instellingen</span> ▸ <span class="gui">Kleur</span></span> om een kleurprofiel voor uw scherm toe te voegen.</span>
 </li>
 <li class="links ">
-<a href="color-notifications.html" title="Kan ik gewaarschuwd worden als mijn kleurprofiel inaccuraat is?">Kan ik gewaarschuwd worden als mijn kleurprofiel inaccuraat is?</a><span class="desc"> — U kan gewaarschuwd worden als uw kleurprofiel oud en inaccuraat is.</span>
+<a href="color-notifications.html.nl" title="Kan ik gewaarschuwd worden als mijn kleurprofiel inaccuraat is?">Kan ik gewaarschuwd worden als mijn kleurprofiel inaccuraat is?</a><span class="desc"> — U kan gewaarschuwd worden als uw kleurprofiel oud en inaccuraat is.</span>
 </li>
 <li class="links ">
-<a href="color-gettingprofiles.html" title="Waar kan ik een kleurprofiel verkrijgen?">Waar kan ik een kleurprofiel verkrijgen?</a><span class="desc"> — Kleurprofielen worden geleverd door leveranciers en kunnen door u zelf gegenereerd worden.</span>
+<a href="color-gettingprofiles.html.nl" title="Waar kan ik een kleurprofiel verkrijgen?">Waar kan ik een kleurprofiel verkrijgen?</a><span class="desc"> — Kleurprofielen worden geleverd door leveranciers en kunnen door u zelf gegenereerd worden.</span>
 </li>
 </ul></div>
 </div></div>

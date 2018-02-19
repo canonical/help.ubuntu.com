@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="printing.html" title="Tiskanje">Tiskanje</a> › <a class="trail" href="printing.html#paper" title="Različne velikosti in razporeditve papirja.">Velikosti in razporeditve</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="printing.html.sl" title="Tiskanje">Tiskanje</a> › <a class="trail" href="printing.html.sl#paper" title="Različne velikosti in razporeditve papirja.">Velikosti in razporeditve</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tiskanje knjižice</span></h1></div>
@@ -59,16 +59,16 @@
 </ol></div></div></div>
 <p class="p">Izberite vrsto tiskalnika, ki jo boste uporabili za tiskanje s seznama spodaj:</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="printing-booklet-duplex.html" title="Print a booklet on a double-sided printer"><span class="title">Print a booklet on a double-sided printer</span><span class="linkdiv-dash"> — </span><span class="desc">Print folded booklets (like a book or pamphlet) from a PDF using normal
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet-duplex.html.sl" title="Print a booklet on a double-sided printer"><span class="title">Print a booklet on a double-sided printer</span><span class="linkdiv-dash"> — </span><span class="desc">Print folded booklets (like a book or pamphlet) from a PDF using normal
     A4/Letter-size paper.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-booklet-singlesided.html" title="Tisk knjižice na enostranskem tiskalniku"><span class="title">Tisk knjižice na enostranskem tiskalniku</span><span class="linkdiv-dash"> — </span><span class="desc">Print a booklet from a PDF using a single-sided printer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet-singlesided.html.sl" title="Tisk knjižice na enostranskem tiskalniku"><span class="title">Tisk knjižice na enostranskem tiskalniku</span><span class="linkdiv-dash"> — </span><span class="desc">Print a booklet from a PDF using a single-sided printer.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#paper" title="Različne velikosti in razporeditve papirja.">Različne velikosti in razporeditve papirja.</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.sl#paper" title="Različne velikosti in razporeditve papirja.">Različne velikosti in razporeditve papirja.</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="printing.html" title="Штампање">Штампање</a> › <a class="trail" href="printing.html#setup" title="Подесите штампач">Подешавање</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="printing.html.sr" title="Штампање">Штампање</a> › <a class="trail" href="printing.html.sr#setup" title="Подесите штампач">Подешавање</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Подесите локални штампач</span></h1></div>
@@ -58,26 +58,26 @@
 </ol></div></div></div>
 <p class="p">Ако ваш штампач није самостално подешен, можете да га додате у подешавањима штампача:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Штампачи</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Штампачи</span>.</p></li>
 <li class="steps"><p class="p">Кликните <span class="gui">Штампачи</span>.</p></li>
 <li class="steps"><p class="p">Кликните на дугме <span class="gui">Откључај</span> у горњем десном углу и упишите вашу лозинку.</p></li>
 <li class="steps"><p class="p">Кликните на дугме <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">У прозорчету које ће се појавити, изаберите ваш нови штампач. Притисните <span class="gui">Додај</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Ако се ваш штампач не појави у прозору за додавање новог штампача, мораћете да инсталирате управљачке програме штампања.</p>
-<p class="p">Након што сте инсталирали штампач, можда ћете желети да <span class="link"><a href="printing-setup-default-printer.html" title="Подесите основни штампач">измените ваш основни штампач</a></span>.</p>
+<p class="p">Након што сте инсталирали штампач, можда ћете желети да <span class="link"><a href="printing-setup-default-printer.html.sr" title="Подесите основни штампач">измените ваш основни штампач</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Подесите штампач">Подесите штампач</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.sr#setup" title="Подесите штампач">Подесите штампач</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-setup-default-printer.html" title="Подесите основни штампач">Подесите основни штампач</a><span class="desc"> — Изаберите штампач који најчешће користите.</span>
+<a href="printing-setup-default-printer.html.sr" title="Подесите основни штампач">Подесите основни штампач</a><span class="desc"> — Изаберите штампач који најчешће користите.</span>
 </li></ul></div>
 </div></div>
 </div>

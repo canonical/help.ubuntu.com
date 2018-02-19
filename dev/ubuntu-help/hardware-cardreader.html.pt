@@ -44,19 +44,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Som, vídeo e imagens">Som, vídeo e imagens</a> › <a class="trail" href="media.html#photos" title="Fotos e câmaras digitais">Fotos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.pt" title="Som, vídeo e imagens">Som, vídeo e imagens</a> › <a class="trail" href="media.html.pt#photos" title="Fotos e câmaras digitais">Fotos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.pt#problems" title="Problemas comuns">Problemas</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problemas com leitores de cartões</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Michos computadores contêm leitores para cartões de armazenamento SD, MMC, MS, CF e outras. Dever-se-iam detetar automaticamente e <span class="link"><a href="disk-partitions.html" title="Gerir volumes e partições">montar</a></span>. Aqui pode ler alguma resolução de problemas se não são detetadas e montadas automaticamente:</p>
+<p class="p">Michos computadores contêm leitores para cartões de armazenamento SD, MMC, MS, CF e outras. Dever-se-iam detetar automaticamente e <span class="link"><a href="disk-partitions.html.pt" title="Gerir volumes e partições">montar</a></span>. Aqui pode ler alguma resolução de problemas se não são detetadas e montadas automaticamente:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Assegure-se de que o cartão está inserido corretamente. Muitos cartões parece que estão ao revés quando se inseriram corretamente. Assegure-se também de que o cartão está bem colocado na ranhura; alguns cartões, especialmente as CF requerem que se faça um pouco de força para as inserir corretamente. (Tenha cuidado de não empurrar muito forte. Se choca contra algo solido, não a force.)</p></li>
-<li class="steps"><p class="p">Abra <span class="app">Ficheiros</span> desde a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Ativities</a></span>. Aparece o cartão inserido na lista <span class="gui">Dispositivos</span> em barra-a lateral da esquerda? Algumas vezes, o cartão aparece nesta lista mas não está montada; carregue sobre ela uma vez para a montar. (Se barra-a lateral não está visível, carregue <span class="key"><kbd>F9</kbd></span> ou carregue em <span class="gui">Ficheiros</span> na barra superior e escolha <span class="gui">Varra lateral</span>.)</p></li>
+<li class="steps"><p class="p">Abra <span class="app">Ficheiros</span> desde a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Ativities</a></span>. Aparece o cartão inserido na lista <span class="gui">Dispositivos</span> em barra-a lateral da esquerda? Algumas vezes, o cartão aparece nesta lista mas não está montada; carregue sobre ela uma vez para a montar. (Se barra-a lateral não está visível, carregue <span class="key"><kbd>F9</kbd></span> ou carregue em <span class="gui">Ficheiros</span> na barra superior e escolha <span class="gui">Varra lateral</span>.)</p></li>
 <li class="steps"><p class="p">Se seu cartão não aparece na barra lateral, carregue <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>L</kbd></span></span>, escreva <span class="input">computador:///</span> e carregue <span class="key"><kbd>Enter</kbd></span>. Se seu leitor de cartões está configurado corretamente, o leitor deveria aparecer como um dispositivo quando não tem um cartão, e o cartão em si quando se tenha montado.</p></li>
 <li class="steps"><p class="p">Se vê o leitor de cartões mas não o cartão, o problema pode estar em o cartão em se. Tente com um cartão diferente ou prove o cartão num leitor de cartões se é-lhe possível.</p></li>
 </ol></div></div></div>
@@ -67,8 +67,8 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#photos" title="Fotos e câmaras digitais">Fotos</a></li>
-<li class="links "><a href="hardware.html#problems" title="Problemas comuns">Problemas de hardware</a></li>
+<li class="links "><a href="media.html.pt#photos" title="Fotos e câmaras digitais">Fotos</a></li>
+<li class="links "><a href="hardware.html.pt#problems" title="Problemas comuns">Problemas de hardware</a></li>
 </ul></div>
 </div></div></div>
 </div>

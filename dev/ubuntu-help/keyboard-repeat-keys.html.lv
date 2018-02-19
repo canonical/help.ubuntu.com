@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="keyboard.html" title="Tastatūra">Tastatūra</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="keyboard.html.lv" title="Tastatūra">Tastatūra</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="keyboard.html" title="Tastatūra">Tastatūra</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="keyboard.html.lv" title="Tastatūra">Tastatūra</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universālā piekļuve">Universālā piekļuve</a> › <a class="trail" href="a11y.html#mobility" title="Kustību traucējumi">Kustību traucējumi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.lv" title="Universālā piekļuve">Universālā piekļuve</a> › <a class="trail" href="a11y.html.lv#mobility" title="Kustību traucējumi">Kustību traucējumi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">Pēc noklusējuma, kad tu turi taustiņu piespiestu, simbols tiks atkārtots tik ilgi, kamēr tu šo taustiņu atlaidīsi. Ja tev ir grūtības noņemt pirkstu no taustiņa pietiekami ātri, tu vari atslēgt šo iespēju vai pamainīt laiku, cik ilgam jāpaiet, kamēr taustiņi sāk atkārtoties, vai cik ātri taustiņu piespiešana atkārtojas.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Universālā piekļuve</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Universālā piekļuve</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Universālā piekļuve</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Atkārtot taustiņus</span> sadaļā <span class="gui">Rakstīšana</span>.</p></li>
 <li class="steps">
@@ -71,9 +71,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Kustību traucējumi">Kustību traucējumi</a></li>
+<li class="links "><a href="a11y.html.lv#mobility" title="Kustību traucējumi">Kustību traucējumi</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Tastatūra">Tastatūra</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Tastatūru izkārtojumi</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Izdariet tā, lai tastatūras kursors mirgotu">kursora mirgošana</a></span>, <span class="link"><a href="a11y.html#mobility" title="Kustību traucējumi">tastatūras pieejamība</a></span>…</span>
+<a href="keyboard.html.lv" title="Tastatūra">Tastatūra</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.lv" title="Use alternative keyboard layouts">Tastatūru izkārtojumi</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.lv" title="Izdariet tā, lai tastatūras kursors mirgotu">kursora mirgošana</a></span>, <span class="link"><a href="a11y.html.lv#mobility" title="Kustību traucējumi">tastatūras pieejamība</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

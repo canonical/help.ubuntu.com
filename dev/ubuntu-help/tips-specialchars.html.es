@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="tips.html" title="Trucos y consejos">Trucos y consejos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="tips.html.es" title="Trucos y consejos">Trucos y consejos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Insertar caracteres especiales</span></h1></div>
@@ -53,22 +53,14 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Métodos para introducir caracteres</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Mapa de caracteres">Mapa de caracteres</a></li>
-<li class="links "><a href="tips-specialchars.html#characters" title="Caracteres">Caracteres</a></li>
-<li class="links "><a href="tips-specialchars.html#compose" title="Tecla de composición">Tecla de composición</a></li>
-<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Puntos de código">Puntos de código</a></li>
-<li class="links "><a href="tips-specialchars.html#layout" title="Distribuciones de teclado">Distribuciones de teclado</a></li>
-<li class="links "><a href="tips-specialchars.html#im" title="Métodos de entrada">Métodos de entrada</a></li>
+<li class="links "><a href="tips-specialchars.html.es#characters" title="Caracteres">Caracteres</a></li>
+<li class="links "><a href="tips-specialchars.html.es#compose" title="Tecla de composición">Tecla de composición</a></li>
+<li class="links "><a href="tips-specialchars.html.es#ctrlshiftu" title="Puntos de código">Puntos de código</a></li>
+<li class="links "><a href="tips-specialchars.html.es#layout" title="Distribuciones de teclado">Distribuciones de teclado</a></li>
+<li class="links "><a href="tips-specialchars.html.es#im" title="Métodos de entrada">Métodos de entrada</a></li>
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Mapa de caracteres</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">GNOME viene con una aplicación de mapa de caracteres que le permite examinar todos los caracteres en Unicode. Use el mapa de caracteres para buscar el carácter que quiere, y cópielo y péguelo donde quiera.</p>
-<p class="p">Puede encontrar el <span class="app">Mapa de caracteres</span> en la vista de <span class="gui">Actividades</span>. Para obtener más información sobre el mapa de caracteres, consulte el <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">manual del mapa de caracteres</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Caracteres</span></h2></div>
 <div class="region"><div class="contents">
@@ -85,12 +77,13 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Definir una tecla de composición</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Retoques</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Retoques</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Retoques</span> para abrir la aplicación.</p></li>
 <li class="steps"><p class="p">Pulse en la pestaña <span class="gui">Teclado y ratón</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Desactivado</span> junto a la opción de <span class="gui">Tecla de composición</span>.</p></li>
 <li class="steps"><p class="p">Active el interruptor en el diálogo y elija el atajo del teclado que quiere usar.</p></li>
 <li class="steps"><p class="p">Marque la casilla de la tecla que quiere usar como Tecla de composición.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Cierre la ventana de la <span class="gui">Retoques</span>.</p></li>
 </ol></div>
 </div></div>
@@ -113,7 +106,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Distribuciones de teclado</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Puede hacer que el teclado se comporte como el teclado de otro idioma, independientemente de las letras impresas en las teclas. Incluso puede cambiar fácilmente entre diferentes distribuciones de teclado con un icono en la barra superior. Para saber cómo hacerlo, consulte la <span class="link"><a href="keyboard-layouts.html" title="Usar distribuciones de teclado alternativas">Usar distribuciones de teclado alternativas</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Puede hacer que el teclado se comporte como el teclado de otro idioma, independientemente de las letras impresas en las teclas. Incluso puede cambiar fácilmente entre diferentes distribuciones de teclado con un icono en la barra superior. Para saber cómo hacerlo, consulte la <span class="link"><a href="keyboard-layouts.html.es" title="Usar distribuciones de teclado alternativas">Usar distribuciones de teclado alternativas</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Métodos de entrada</span></h2></div>
@@ -128,13 +121,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Trucos y consejos">Trucos y consejos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Insertar caracteres especiales">Caracteres especiales</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Pulsación central">atajos del botón del medio</a></span>…</span>
+<a href="tips.html.es" title="Trucos y consejos">Trucos y consejos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.es" title="Insertar caracteres especiales">Caracteres especiales</a></span>, <span class="link"><a href="mouse-middleclick.html.es" title="Pulsación central">atajos del botón del medio</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Usar distribuciones de teclado alternativas">Usar distribuciones de teclado alternativas</a><span class="desc"> — Añadir distribuciones de teclado y cambiar entre ellas.</span>
+<a href="keyboard-layouts.html.es" title="Usar distribuciones de teclado alternativas">Usar distribuciones de teclado alternativas</a><span class="desc"> — Añadir distribuciones de teclado y cambiar entre ellas.</span>
 </li></ul></div>
 </div></div>
 </div>

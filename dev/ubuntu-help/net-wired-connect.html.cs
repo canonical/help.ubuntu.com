@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wired.html" title="Drátová síť">Drátová síť</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wired.html.cs" title="Drátová síť">Drátová síť</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Připojení k drátové síti (Ethernet)</span></h1></div>
@@ -52,14 +52,14 @@
 <p class="p">Nastavení u většiny drátových sítí spočívá v pouhém zasunutí síťového kabelu do zdířky v počítači. Ikona drátové sítě (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="nastavení"></span></span>) na horní liště by měla během připojování pod sebou tři tečky. Když spojení ustaveno, tečky zmizí.</p>
 <p class="p">V případě, že se tak nestane, měli byste nejprve zkontrolovat, že máte správně zapojený síťový kabel. Jeden konec by měl být zasunutý do čtvercové ethernetová (síťové) zástrčky na počítači a druhý do síťového přepínače, routeru, síťové zásuvky na zdi a podobně (v závislosti na tom, jak máte síť realizovanou). Často jsou po stranách ethernetové zásuvky na počítači kontrolky, které se po zapojení a rozjetí sítě rozsvítí.</p>
 <div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Počítače nemůžete sítovým kabelem propojit na přímo mezi sebou (respektive ne bez speciální verze kabelu). Abyste propojili dva počítače, musíte je oba připojit do síťového rozbočovače, přepínače nebo směrovače.</p></div></div></div></div>
-<p class="p">Jestli stále nejste připojeni, možná vaše síť nepodporuje automatické nastavení (DHCP). V takovém případě ji budete muset <span class="link"><a href="net-manual.html" title="Ruční nastavení sítě">nastavit ručně</a></span>.</p>
+<p class="p">Jestli stále nejste připojeni, možná vaše síť nepodporuje automatické nastavení (DHCP). V takovém případě ji budete muset <span class="link"><a href="net-manual.html.cs" title="Ruční nastavení sítě">nastavit ručně</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html" title="Drátová síť">Drátová síť</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Připojení k drátové síti (Ethernet)">Připojení k Internetu po drátu</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Vytvoření připojení se pevnou adresou IP">pevná IP adresa</a></span>…</span>
+<a href="net-wired.html.cs" title="Drátová síť">Drátová síť</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.cs" title="Připojení k drátové síti (Ethernet)">Připojení k Internetu po drátu</a></span>, <span class="link"><a href="net-fixed-ip-address.html.cs" title="Vytvoření připojení se pevnou adresou IP">pevná IP adresa</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

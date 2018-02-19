@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Päiväys ja kello</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="clock-set.html" title="Muuta päivämäärää ja aikaa"><span class="title">Muuta päivämäärää ja aikaa</span><span class="linkdiv-dash"> — </span><span class="desc">Use the <span class="gui">Date &amp; Time Settings</span> to alter the date or
+<div class="linkdiv "><a class="linkdiv" href="clock-set.html.fi" title="Muuta päivämäärää ja aikaa"><span class="title">Muuta päivämäärää ja aikaa</span><span class="linkdiv-dash"> — </span><span class="desc">Use the <span class="gui">Date &amp; Time Settings</span> to alter the date or
     time.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="Kalenteritapaamiset"><span class="title">Kalenteritapaamiset</span><span class="linkdiv-dash"> — </span><span class="desc">Aseta kalenterimerkintäsi näkyviin näytön yläpalkin kalenteriin.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html" title="Vaihda aikavyöhykettä"><span class="title">Vaihda aikavyöhykettä</span><span class="linkdiv-dash"> — </span><span class="desc">Update your time zone to your current location so that your time is correct.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-world.html" title="Lisää maailmankello"><span class="title">Lisää maailmankello</span><span class="linkdiv-dash"> — </span><span class="desc">Näytä muiden kaupunkien kellonajat kalenterin alapuolella.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.fi" title="Kalenteritapaamiset"><span class="title">Kalenteritapaamiset</span><span class="linkdiv-dash"> — </span><span class="desc">Aseta kalenterimerkintäsi näkyviin näytön yläpalkin kalenteriin.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html.fi" title="Vaihda aikavyöhykettä"><span class="title">Vaihda aikavyöhykettä</span><span class="linkdiv-dash"> — </span><span class="desc">Update your time zone to your current location so that your time is correct.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-world.html.fi" title="Lisää maailmankello"><span class="title">Lisää maailmankello</span><span class="linkdiv-dash"> — </span><span class="desc">Näytä muiden kaupunkien kellonajat kalenterin alapuolella.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -61,12 +61,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html" title="Hiiri">hiiri</a></span>, <span class="link"><a href="prefs-display.html" title="Näyttö">näytöt</a></span>, <span class="link"><a href="prefs-language.html" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html" title="Käyttäjätilit">käyttäjätilit</a></span>…</span>
+<a href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a><span class="desc"> — <span class="link"><a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html.fi" title="Hiiri">hiiri</a></span>, <span class="link"><a href="prefs-display.html.fi" title="Näyttö">näytöt</a></span>, <span class="link"><a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html.fi" title="Käyttäjätilit">käyttäjätilit</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-change-date-time-timezone.html" title="Vaihda päivää, aikaa ja aikavyöhykettä">Opas päivän, ajan ja aikavyöhykkeen muuttamiseen</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-change-date-time-timezone.html.fi" title="Vaihda päivää, aikaa ja aikavyöhykettä">Opas päivän, ajan ja aikavyöhykkeen muuttamiseen</a></li></ul></div>
 </div></div>
 </div>
 </div>

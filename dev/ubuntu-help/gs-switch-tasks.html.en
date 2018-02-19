@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Getting Started">Getting Started with GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.en" title="Getting Started">Getting Started with GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-launch-applications.html" title="Launch applications">Previous</a><a class="nextlinks-next" href="gs-use-windows-workspaces.html" title="Use windows and workspaces">Next</a>
+<a class="nextlinks-prev" href="gs-launch-applications.html.en" title="Launch applications">Previous</a><a class="nextlinks-next" href="gs-use-windows-workspaces.html.en" title="Use windows and workspaces">Next</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Switch tasks</span></h1></div>
 <div class="region">
@@ -131,7 +131,7 @@
 </ol></div></div></div></div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-launch-applications.html" title="Launch applications">Previous</a><a class="nextlinks-next" href="gs-use-windows-workspaces.html" title="Use windows and workspaces">Next</a>
+<a class="nextlinks-prev" href="gs-launch-applications.html.en" title="Launch applications">Previous</a><a class="nextlinks-next" href="gs-use-windows-workspaces.html.en" title="Use windows and workspaces">Next</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -139,13 +139,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">More Information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Getting Started">Getting Started with GNOME</a><span class="desc"> — New to GNOME? Learn how to get around.</span>
+<a href="getting-started.html.en" title="Getting Started">Getting Started with GNOME</a><span class="desc"> — New to GNOME? Learn how to get around.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">See Also</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-switching.html" title="Switch between windows">Switch between windows</a><span class="desc"> — Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span>
+<a href="shell-windows-switching.html.en" title="Switch between windows">Switch between windows</a><span class="desc"> — Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span>
 </li></ul></div>
 </div></div>
 </div>

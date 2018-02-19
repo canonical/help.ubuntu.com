@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="hardware-auth.html" title="கைரேகைகள் மற்றும் ஸ்மார்ட் கார்டுகள்">கைரேகைகள் மற்றும் ஸ்மார்ட் கார்டுகள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="hardware-auth.html.ta" title="கைரேகைகள் மற்றும் ஸ்மார்ட் கார்டுகள்">கைரேகைகள் மற்றும் ஸ்மார்ட் கார்டுகள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">விரல் ரேகை மூலம் புகுபதிவு செய்தல்</span></h1></div>
@@ -55,10 +55,10 @@
 <p class="p">Before you can log in with your fingerprint, you need to record it so that
   the system can use it to identify you.</p>
 <div class="note note-tip" title="துணுக்கு"><div class="inner"><div class="region"><div class="contents"><p class="p">உங்கள் விரல் மிக உலர்ந்திருந்தால், உங்கள் விரல் ரேகையைப் பதிவு செய்வது சிரமமாகலாம். இப்படி நடந்தால் விரலை லேசாக ஈரப்பதமாக்கி சுத்தமான, இழைகளற்ற துணியால் துடைத்துவிட்டு மீண்டும் முயற்சிக்கவும்.</p></div></div></div></div>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html" title="நிர்வாக அனுமதிகள் எப்படி வேலை செய்கின்றன?">administrator privileges</a></span>
+<p class="p">You need <span class="link"><a href="user-admin-explain.html.ta" title="நிர்வாக அனுமதிகள் எப்படி வேலை செய்கின்றன?">administrator privileges</a></span>
   to edit user accounts other than your own.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Users</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Users</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press on <span class="gui">Disabled</span>, next to <span class="gui">Fingerprint Login</span> to
@@ -82,7 +82,7 @@
 <div class="region"><div class="contents">
 <p class="p">இப்போது உங்கள் புதிய விரல்ரேகை புகுபதிவு வேலை செய்கிறதா என்று சரிபார்க்கவும். நீங்கள் ஒரு விரல் ரேகையைப் பதிவு செய்தாலும், நீங்கள் உங்கள் கடவுச்சொல்லை கொண்டும் புகுபதிவு செய்ய முடியும்.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Save any open work, and then <span class="link"><a href="shell-exit.html#logout" title="விடுபதிகை செய்தல் அல்லது பயனர்களை மாற்றுதல்">log
+<li class="steps"><p class="p">Save any open work, and then <span class="link"><a href="shell-exit.html.ta#logout" title="விடுபதிகை செய்தல் அல்லது பயனர்களை மாற்றுதல்">log
       out</a></span>.</p></li>
 <li class="steps"><p class="p">புகுபதிவு திரையில், பட்டியலில் இருந்து உங்கள் பெயரைத் தேர்ந்தெடுக்கவும். கடவுச்சொல் உள்ளிடும் படிவம் தோன்றும்.</p></li>
 <li class="steps"><p class="p">Instead of typing your password, you should be able to swipe your
@@ -95,7 +95,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-auth.html" title="கைரேகைகள் மற்றும் ஸ்மார்ட் கார்டுகள்">கைரேகைகள் மற்றும் ஸ்மார்ட் கார்டுகள்</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html" title="விரல் ரேகை மூலம் புகுபதிவு செய்தல்">கைரேகை வாசிப்பான்கள்</a></span>, ஸ்மார்ட் கார்டுகள்…</span>
+<a href="hardware-auth.html.ta" title="கைரேகைகள் மற்றும் ஸ்மார்ட் கார்டுகள்">கைரேகைகள் மற்றும் ஸ்மார்ட் கார்டுகள்</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html.ta" title="விரல் ரேகை மூலம் புகுபதிவு செய்தல்">கைரேகை வாசிப்பான்கள்</a></span>, ஸ்மார்ட் கார்டுகள்…</span>
 </li></ul></div>
 </div></div></div>
 </div>

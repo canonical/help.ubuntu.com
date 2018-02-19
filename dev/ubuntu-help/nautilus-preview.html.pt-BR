@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a> » <a class="trail" href="nautilus-prefs.html" title="Preferências do gerenciador de arquivos">Preferências do gerenciador de arquivos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a> » <a class="trail" href="nautilus-prefs.html.pt-BR" title="Preferências do gerenciador de arquivos">Preferências do gerenciador de arquivos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferências de visualização do gerenciador de arquivos</span></h1></div>
@@ -53,11 +53,11 @@
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Arquivos</span></dt>
 <dd class="terms">
-<p class="p">Por padrão, todas as visualização são feitas para <span class="gui">Apenas arquivos locais</span>, aqueles em seu computador ou conectados a unidades externas. Você pode definir este recurso para <span class="gui">Sempre</span> ou <span class="gui">Nunca</span>. O gerenciador de arquivos pode <span class="link"><a href="nautilus-connect.html" title="Navegando nos arquivos em um servidor ou compartilhamento de rede">navegar nos arquivos em outros computadores</a></span> em uma área de rede local ou na Internet. Se você com frequência navega em arquivos em um área de rede local e a rede possui uma velocidade comunicação alta, então você pode querer definir a opção de visualização para <span class="gui">Sempre</span>.</p>
+<p class="p">Por padrão, todas as visualização são feitas para <span class="gui">Apenas arquivos locais</span>, aqueles em seu computador ou conectados a unidades externas. Você pode definir este recurso para <span class="gui">Sempre</span> ou <span class="gui">Nunca</span>. O gerenciador de arquivos pode <span class="link"><a href="nautilus-connect.html.pt-BR" title="Navegando nos arquivos em um servidor ou compartilhamento de rede">navegar nos arquivos em outros computadores</a></span> em uma área de rede local ou na Internet. Se você com frequência navega em arquivos em um área de rede local e a rede possui uma velocidade comunicação alta, então você pode querer definir a opção de visualização para <span class="gui">Sempre</span>.</p>
 <p class="p">Além disso, você pode usar a configuração de <span class="gui">Apenas para arquivos menores que:</span> para limitar o tamanho dos arquivos visualizados.</p>
 </dd>
 <dt class="terms"><span class="gui">Pastas</span></dt>
-<dd class="terms"><p class="p">Se você mostra tamanhos de arquivos em <span class="link"><a href="nautilus-list.html" title="Preferências de colunas da lista do arquivos">Colunas de visualização de lista</a></span> ou <span class="link"><a href="nautilus-display.html#icon-captions" title="Legendas dos ícones">legendas de ícones</a></span>, pastas serão mostradas com uma contagem de quantos arquivos e pastas elas contém. A contagem de itens em uma pasta pode ser lenta, especialmente para pastas muito grandes ou em uma rede. Você pode desabilitar ou habilitar este recurso ou habilitá-la somente para arquivos em seu computador e em unidades externas locais.</p></dd>
+<dd class="terms"><p class="p">Se você mostra tamanhos de arquivos em <span class="link"><a href="nautilus-list.html.pt-BR" title="Preferências de colunas da lista do arquivos">Colunas de visualização de lista</a></span> ou <span class="link"><a href="nautilus-display.html.pt-BR#icon-captions" title="Legendas dos ícones">legendas de ícones</a></span>, pastas serão mostradas com uma contagem de quantos arquivos e pastas elas contém. A contagem de itens em uma pasta pode ser lenta, especialmente para pastas muito grandes ou em uma rede. Você pode desabilitar ou habilitar este recurso ou habilitá-la somente para arquivos em seu computador e em unidades externas locais.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Preferências do gerenciador de arquivos">Preferências do gerenciador de arquivos</a><span class="desc"> — Veja ou defina preferências do navegador de arquivos.</span>
+<a href="nautilus-prefs.html.pt-BR" title="Preferências do gerenciador de arquivos">Preferências do gerenciador de arquivos</a><span class="desc"> — Veja ou defina preferências do navegador de arquivos.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-preview.html" title="Visualizando arquivos e pastas">Visualizando arquivos e pastas</a><span class="desc"> — Mostra e esconde rapidamente as visualizações de documentos, imagens, vídeos e mais.</span>
+<a href="files-preview.html.pt-BR" title="Visualizando arquivos e pastas">Visualizando arquivos e pastas</a><span class="desc"> — Mostra e esconde rapidamente as visualizações de documentos, imagens, vídeos e mais.</span>
 </li></ul></div>
 </div></div>
 </div>

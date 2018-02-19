@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Περισσότερη βοήθεια</span></h1></div>
@@ -54,17 +54,17 @@
   </p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html" title="Αναφορά προβλήματος στο Ubuntu"><span class="title">Αναφορά προβλήματος στο Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Πώς και πού μπορούν να αναφερθούν προβλήματα σχετικά με το Ubuntu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="get-involved.html" title="Συμμετέχετε για να βελτιώσετε αυτό τον οδηγό"><span class="title">Συμμετέχετε για να βελτιώσετε αυτό τον οδηγό</span><span class="linkdiv-dash"> — </span><span class="desc">Πώς και πού μπορούν να αναφερθούν προβλήματα με αυτά τα θέματα βοήθειας.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html.el" title="Αναφορά προβλήματος στο Ubuntu"><span class="title">Αναφορά προβλήματος στο Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Πώς και πού μπορούν να αναφερθούν προβλήματα σχετικά με το Ubuntu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="get-involved.html.el" title="Συμμετέχετε για να βελτιώσετε αυτό τον οδηγό"><span class="title">Συμμετέχετε για να βελτιώσετε αυτό τον οδηγό</span><span class="linkdiv-dash"> — </span><span class="desc">Πώς και πού μπορούν να αναφερθούν προβλήματα με αυτά τα θέματα βοήθειας.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="about-this-guide.html" title="Σχετικά με αυτό τον οδηγό"><span class="title">Σχετικά με αυτό τον οδηγό</span><span class="linkdiv-dash"> — </span><span class="desc">Μερικές συμβουλές για τη χρήση του οδηγού περιβάλλοντος του Ubuntu.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="about-this-guide.html.el" title="Σχετικά με αυτό τον οδηγό"><span class="title">Σχετικά με αυτό τον οδηγό</span><span class="linkdiv-dash"> — </span><span class="desc">Μερικές συμβουλές για τη χρήση του οδηγού περιβάλλοντος του Ubuntu.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Οδηγός χρήσης Ubuntu">Οδηγός χρήσης Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.el" title="Οδηγός χρήσης Ubuntu">Οδηγός χρήσης Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

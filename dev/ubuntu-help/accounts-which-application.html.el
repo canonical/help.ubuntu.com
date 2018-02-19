@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="accounts.html" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακοί λογαριασμοί</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="accounts.html.el" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακοί λογαριασμοί</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Διαδικτυακές υπηρεσίες και εφαρμογές</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Αφού προσθέσετε έναν διαδικτυακό λογαριασμό, οποιαδήποτε εφαρμογή μπορεί πλέον να χρησιμοποιήσει τις διαθέσιμες υπηρεσίες που δεν έχουν <span class="link"><a href="accounts-disable-service.html" title="Ελέγξτε ποιες διαδικτυακές υπηρεσίες ενός λογαριασμού μπορούν να χρησιμοποιηθούν για πρόσβαση">απενεργοποιηθεί</a></span>. Διάφοροι πάροχοι δίνουν διαφορετικές υπηρεσίες. Αυτή η σελίδα περιέχει τις διάφορες υπηρεσίες και μερικές γνωστές εφαρμογές που τις χρησιμοποιούν.</p>
+<p class="p">Αφού προσθέσετε έναν διαδικτυακό λογαριασμό, οποιαδήποτε εφαρμογή μπορεί πλέον να χρησιμοποιήσει τις διαθέσιμες υπηρεσίες που δεν έχουν <span class="link"><a href="accounts-disable-service.html.el" title="Ελέγξτε ποιες διαδικτυακές υπηρεσίες ενός λογαριασμού μπορούν να χρησιμοποιηθούν για πρόσβαση">απενεργοποιηθεί</a></span>. Διάφοροι πάροχοι δίνουν διαφορετικές υπηρεσίες. Αυτή η σελίδα περιέχει τις διάφορες υπηρεσίες και μερικές γνωστές εφαρμογές που τις χρησιμοποιούν.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Ημερολόγιο</dt>
 <dd class="terms"><p class="p">Η υπηρεσία «Ημερολόγιο» σας επιτρέπει να δείτε, να προσθέσετε και να επεξεργαστείτε συμβάντα σε ένα διαδικτυακό ημερολόγιο. Χρησιμοποιείται από εφαρμογές όπως το <span class="app">Ημερολόγιο</span>, το <span class="app">Evolution</span>, και το <span class="app">California</span>.</p></dd>
@@ -62,7 +62,7 @@
 <dt class="terms">Έγγραφα</dt>
 <dd class="terms"><p class="p">Η υπηρεσία «Έγγραφα» σας επιτρέπει να δείτε τα διαδικτυακά σας έγγραφα όπως αυτά στο Google docs. Μπορείτε να δείτε τα έγγραφα σας χρησιμοποιώντας την εφαρμογή <span class="app">Έγγραφα</span>.</p></dd>
 <dt class="terms">Αρχεία</dt>
-<dd class="terms"><p class="p">Η υπηρεσία «Αρχεία» προσθέτει μια απομακρυσμένη τοποθεσία αρχείων, όπως η λειτουργία <span class="link"><a href="nautilus-connect.html" title="Περιήγηση αρχείων σε έναν διακομιστή ή σε ένα κοινόχρηστο δίκτυο">Σύνδεση σε διακομιστή</a></span> του διαχειριστή αρχείων. Μπορείτε να προσπελάσετε απομακρυσμένα αρχεία χρησιμοποιώντας τον διαχειριστή αρχείων, καθώς επίσης και από τους διαλόγους «Άνοιγμα» και «Αποθήκευση» της κάθε εφαρμογής.</p></dd>
+<dd class="terms"><p class="p">Η υπηρεσία «Αρχεία» προσθέτει μια απομακρυσμένη τοποθεσία αρχείων, όπως η λειτουργία <span class="link"><a href="nautilus-connect.html.el" title="Περιήγηση αρχείων σε έναν διακομιστή ή σε ένα κοινόχρηστο δίκτυο">Σύνδεση σε διακομιστή</a></span> του διαχειριστή αρχείων. Μπορείτε να προσπελάσετε απομακρυσμένα αρχεία χρησιμοποιώντας τον διαχειριστή αρχείων, καθώς επίσης και από τους διαλόγους «Άνοιγμα» και «Αποθήκευση» της κάθε εφαρμογής.</p></dd>
 <dt class="terms">Αλληλογραφία</dt>
 <dd class="terms"><p class="p">Η υπηρεσία «Αλληλογραφία» σας επιτρέπει να στέλνετε και να λαμβάνετε αλληλογραφίας μέσω ενός παρόχου όπως το Google. Χρησιμοποιείται από το <span class="app">Evolution</span>.</p></dd>
 <dt class="terms">Φωτογραφίες</dt>
@@ -84,13 +84,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακοί λογαριασμοί</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Προσθήκη λογαριασμού">Προσθήκη διαδικτυακού λογαριασμού</a></span>, <span class="link"><a href="accounts-remove.html" title="Αφαίρεση λογαριασμού">Αφαίρεση λογαριασμού</a></span>, <span class="link"><a href="accounts-which-application.html" title="Διαδικτυακές υπηρεσίες και εφαρμογές">Μάθετε σχετικά με τις υπηρεσίες</a></span>…</span>
+<a href="accounts.html.el" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακοί λογαριασμοί</a><span class="desc"> — <span class="link"><a href="accounts-add.html.el" title="Προσθήκη λογαριασμού">Προσθήκη διαδικτυακού λογαριασμού</a></span>, <span class="link"><a href="accounts-remove.html.el" title="Αφαίρεση λογαριασμού">Αφαίρεση λογαριασμού</a></span>, <span class="link"><a href="accounts-which-application.html.el" title="Διαδικτυακές υπηρεσίες και εφαρμογές">Μάθετε σχετικά με τις υπηρεσίες</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="Ελέγξτε ποιες διαδικτυακές υπηρεσίες ενός λογαριασμού μπορούν να χρησιμοποιηθούν για πρόσβαση">Ελέγξτε ποιες διαδικτυακές υπηρεσίες ενός λογαριασμού μπορούν να χρησιμοποιηθούν για πρόσβαση</a><span class="desc"> — Μερικοί διαδικτυακοί λογαριασμοί μπορούν να χρησιμοποιηθούν για να προσπελάσετε πολλαπλές υπηρεσίες (όπως ημερολόγιο και ηλεκτρονική αλληλογραφία). Μπορείτε να ελέγξετε ποια από αυτές τις υπηρεσίες μπορούν να χρησιμοποιηθούν από τις εφαρμογές.</span>
+<a href="accounts-disable-service.html.el" title="Ελέγξτε ποιες διαδικτυακές υπηρεσίες ενός λογαριασμού μπορούν να χρησιμοποιηθούν για πρόσβαση">Ελέγξτε ποιες διαδικτυακές υπηρεσίες ενός λογαριασμού μπορούν να χρησιμοποιηθούν για πρόσβαση</a><span class="desc"> — Μερικοί διαδικτυακοί λογαριασμοί μπορούν να χρησιμοποιηθούν για να προσπελάσετε πολλαπλές υπηρεσίες (όπως ημερολόγιο και ηλεκτρονική αλληλογραφία). Μπορείτε να ελέγξετε ποια από αυτές τις υπηρεσίες μπορούν να χρησιμοποιηθούν από τις εφαρμογές.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a> » <a class="trail" href="nautilus-prefs.html" title="Preferências do gerenciador de arquivos">Preferências do gerenciador de arquivos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a> » <a class="trail" href="nautilus-prefs.html.pt-BR" title="Preferências do gerenciador de arquivos">Preferências do gerenciador de arquivos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferências de visões no <span class="app">Arquivos</span></span></h1></div>
@@ -55,7 +55,7 @@
 <dt class="terms"><span class="gui">Organizar itens</span></dt>
 <dd class="terms">
 <p class="p">Você pode alterar a ordem que é usada nas pastas usando a lista suspensa <span class="gui">Organizar itens</span> nas preferências para ordenar por nome, tamanho de arquivo, tipo de arquivo, quando foi alterado pela última modificação, quando foram acessado pela última vez ou quando foram movidas para lixeira.</p>
-<p class="p">Você pode alterar como os <span class="link"><a href="files-sort.html" title="Organizando arquivos e pastas">arquivos são organizados</a></span> em uma pasta individual clicando no botão de opções de visão na barra de ferramentas e escolhendo <span class="gui">Nome</span>, <span class="gui">Tamanho</span>, <span class="gui">Tipo</span>, <span class="gui">Data de modificação</span> ou clicando nos cabeçalhos das coluna de lista na visualização de lista.</p>
+<p class="p">Você pode alterar como os <span class="link"><a href="files-sort.html.pt-BR" title="Organizando arquivos e pastas">arquivos são organizados</a></span> em uma pasta individual clicando no botão de opções de visão na barra de ferramentas e escolhendo <span class="gui">Nome</span>, <span class="gui">Tamanho</span>, <span class="gui">Tipo</span>, <span class="gui">Data de modificação</span> ou clicando nos cabeçalhos das coluna de lista na visualização de lista.</p>
 </dd>
 <dt class="terms"><span class="gui">Organizar pastas antes de arquivos</span></dt>
 <dd class="terms"><p class="p">Por padrão, o gerenciador de arquivos não mais mostra todas as pastas antes dos arquivos. Para ver todas as pastas listadas antes dos arquivos, habilite esta opção.</p></dd>
@@ -66,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Preferências do gerenciador de arquivos">Preferências do gerenciador de arquivos</a><span class="desc"> — Veja ou defina preferências do navegador de arquivos.</span>
+<a href="nautilus-prefs.html.pt-BR" title="Preferências do gerenciador de arquivos">Preferências do gerenciador de arquivos</a><span class="desc"> — Veja ou defina preferências do navegador de arquivos.</span>
 </li></ul></div>
 </div></div></div>
 </div>

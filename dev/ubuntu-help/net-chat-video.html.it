@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-chat.html" title="Chat e social netwok">Chat e social netwok</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-chat.html.it" title="Chat e social netwok">Chat e social netwok</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Video chiamate</span></h1></div>
@@ -64,10 +64,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html" title="Chat e social netwok">Chat e social netwok</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Messaggistica istantanea con Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Video chiamate">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Come è possibile usare Skype in Ubuntu?">install skype</a></span>
+<a href="net-chat.html.it" title="Chat e social netwok">Chat e social netwok</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.it" title="Messaggistica istantanea con Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.it" title="Video chiamate">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.it" title="Come è possibile usare Skype in Ubuntu?">install skype</a></span>
     </span>
 </li></ul></div>
 </div></div>
@@ -75,10 +75,10 @@
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat-skype.html" title="Come è possibile usare Skype in Ubuntu?">Come è possibile usare Skype in Ubuntu?</a><span class="desc"> — <span class="app">Skype</span> è un software proprietario e deve essere installato manualmente in Ubuntu</span>
+<a href="net-chat-skype.html.it" title="Come è possibile usare Skype in Ubuntu?">Come è possibile usare Skype in Ubuntu?</a><span class="desc"> — <span class="app">Skype</span> è un software proprietario e deve essere installato manualmente in Ubuntu</span>
 </li>
 <li class="links ">
-<a href="net-chat-empathy.html" title="Messaggistica istantanea con Ubuntu">Messaggistica istantanea con Ubuntu</a><span class="desc"> — Con <span class="app">Empathy</span> è possibile conversare ed effettuare chiamate e video chiamate con amici e colleghi su diverse reti.</span>
+<a href="net-chat-empathy.html.it" title="Messaggistica istantanea con Ubuntu">Messaggistica istantanea con Ubuntu</a><span class="desc"> — Con <span class="app">Empathy</span> è possibile conversare ed effettuare chiamate e video chiamate con amici e colleghi su diverse reti.</span>
 </li>
 </ul></div>
 </div></div>

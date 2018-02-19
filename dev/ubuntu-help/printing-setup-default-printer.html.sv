@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="printing.html" title="Utskrifter">Utskrifter</a> › <a class="trail" href="printing.html#setup" title="Ställ in en skrivare">Inställning</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="printing.html.sv" title="Utskrifter">Utskrifter</a> › <a class="trail" href="printing.html.sv#setup" title="Ställ in en skrivare">Inställning</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ställ in standardskrivaren</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Om du har mer än en skrivare tillgänglig kan du välja vilken som kommer att vara din standardskrivare. Du bör välja skrivaren som du använder oftast.</p>
-<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Du behöver <span class="link"><a href="user-admin-explain.html" title="Hur fungerar administratörsbehörighet?">administrationsbehörighet</a></span> på systemet för att ställa in standardskrivaren.</p></div></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Du behöver <span class="link"><a href="user-admin-explain.html.sv" title="Hur fungerar administratörsbehörighet?">administrationsbehörighet</a></span> på systemet för att ställa in standardskrivaren.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skrivare</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skrivare</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Skrivare</span>.</p></li>
 <li class="steps"><p class="p">Välj din önskade standardskrivare från listan av tillgängliga skrivare.</p></li>
 <li class="steps"><p class="p">Klicka på knappen <span class="gui">Lås upp</span> i övre högra hörnet och mata in ditt lösenord.</p></li>
@@ -65,16 +65,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Ställ in en skrivare">Ställ in en skrivare</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.sv#setup" title="Ställ in en skrivare">Ställ in en skrivare</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Hur fungerar administratörsbehörighet?">Hur fungerar administratörsbehörighet?</a><span class="desc"> — Du behöver administratörsbehörighet för att ändra viktiga delar i ditt system.</span>
+<a href="user-admin-explain.html.sv" title="Hur fungerar administratörsbehörighet?">Hur fungerar administratörsbehörighet?</a><span class="desc"> — Du behöver administratörsbehörighet för att ändra viktiga delar i ditt system.</span>
 </li>
 <li class="links ">
-<a href="printing-setup.html" title="Ställ in en lokal skrivare">Ställ in en lokal skrivare</a><span class="desc"> — Ställ in en skrivare som är ansluten till din dator.</span>
+<a href="printing-setup.html.sv" title="Ställ in en lokal skrivare">Ställ in en lokal skrivare</a><span class="desc"> — Ställ in en skrivare som är ansluten till din dator.</span>
 </li>
 </ul></div>
 </div></div>

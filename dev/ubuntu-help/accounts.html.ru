@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Сетевые учётные записи</span></h1></div>
@@ -54,14 +54,14 @@
   applications to access online services like email, calendars, chat, and
   documents.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="accounts-add.html" title="Добавление учётной записи"><span class="title">Добавление учётной записи</span><span class="linkdiv-dash"> — </span><span class="desc">Allow applications to access your accounts online for photos,
+<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.ru" title="Добавление учётной записи"><span class="title">Добавление учётной записи</span><span class="linkdiv-dash"> — </span><span class="desc">Allow applications to access your accounts online for photos,
     contacts, calendars, and more.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html" title="Удаление учётной записи"><span class="title">Удаление учётной записи</span><span class="linkdiv-dash"> — </span><span class="desc">Remove access to an online service provider from your
+<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.ru" title="Удаление учётной записи"><span class="title">Удаление учётной записи</span><span class="linkdiv-dash"> — </span><span class="desc">Remove access to an online service provider from your
     applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html" title="Why add an account?"><span class="title">Why add an account?</span><span class="linkdiv-dash"> — </span><span class="desc">Зачем добавлять учётные записи электронной почты или социальных сетей в мою среду рабочего стола?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html" title="Online services and applications"><span class="title">Online services and applications</span><span class="linkdiv-dash"> — </span><span class="desc">Приложения могут использовать учётные записи, созданные в <span class="app">Сетевых учётных записях</span> и предоставляемые ими услуги.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html" title="К каким сетевым сервисам разрешён доступ с помощью учётной записи."><span class="title">К каким сетевым сервисам разрешён доступ с помощью учётной записи.</span><span class="linkdiv-dash"> — </span><span class="desc">Некоторые сетевые учётные записи можно использовать для доступа к нескольким службам (например, календарь и почта). Можно выбрать, какие из этих служб будут использоваться приложениями.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html" title="Почему тип моей учётной записи отсутствует в списке?"><span class="title">Почему тип моей учётной записи отсутствует в списке?</span><span class="linkdiv-dash"> — </span><span class="desc">Что делать, если поставщика сетевой учётной записи нет в списке?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.ru" title="Why add an account?"><span class="title">Why add an account?</span><span class="linkdiv-dash"> — </span><span class="desc">Зачем добавлять учётные записи электронной почты или социальных сетей в мою среду рабочего стола?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.ru" title="Online services and applications"><span class="title">Online services and applications</span><span class="linkdiv-dash"> — </span><span class="desc">Приложения могут использовать учётные записи, созданные в <span class="app">Сетевых учётных записях</span> и предоставляемые ими услуги.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.ru" title="К каким сетевым сервисам разрешён доступ с помощью учётной записи."><span class="title">К каким сетевым сервисам разрешён доступ с помощью учётной записи.</span><span class="linkdiv-dash"> — </span><span class="desc">Некоторые сетевые учётные записи можно использовать для доступа к нескольким службам (например, календарь и почта). Можно выбрать, какие из этих служб будут использоваться приложениями.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html.ru" title="Почему тип моей учётной записи отсутствует в списке?"><span class="title">Почему тип моей учётной записи отсутствует в списке?</span><span class="linkdiv-dash"> — </span><span class="desc">Что делать, если поставщика сетевой учётной записи нет в списке?</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -70,15 +70,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
+<a href="prefs.html.ru" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html.ru" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html.ru" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html.ru" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html.ru" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-connect-online-accounts.html" title="Подключение к сетевым учётным записям">Как подключить сетевые учётные записи</a></li>
+<li class="links "><a href="gs-connect-online-accounts.html.ru" title="Подключение к сетевым учётным записям">Как подключить сетевые учётные записи</a></li>
 <li class="links ">
-<a href="net-chat.html" title="Чат и социальные сети">Чат и социальные сети</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html" title="Мгновенные сообщения в Ubuntu">Общайтесь в любой сети с помощью <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html" title="Видеозвонки">делайте видеозвонки</a></span>, <span class="link"><a href="net-chat-skype.html" title="Как я могу использовать Skype в Ubuntu?">установите Skype</a></span></span>
+<a href="net-chat.html.ru" title="Чат и социальные сети">Чат и социальные сети</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html.ru" title="Мгновенные сообщения в Ubuntu">Общайтесь в любой сети с помощью <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.ru" title="Видеозвонки">делайте видеозвонки</a></span>, <span class="link"><a href="net-chat-skype.html.ru" title="Как я могу использовать Skype в Ubuntu?">установите Skype</a></span></span>
 </li>
 </ul></div>
 </div></div>

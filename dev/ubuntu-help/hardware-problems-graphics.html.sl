@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html#problems" title="Pogoste težave">Težave</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html.sl#problems" title="Pogoste težave">Težave</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Težave z zaslonom</span></h1></div>
@@ -51,22 +51,22 @@
 <div class="contents">
 <p class="p">Večino težav z zaslonov povzročajo težave z grafičnimi gonilniki ali nastavitve. Katero izmed poglavij najbolje opiše vašo težavo?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html" title="Set screen brightness"><span class="title">Set screen brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.sl" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.sl" title="Set screen brightness"><span class="title">Set screen brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
     light.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html" title="Zakaj je moj zaslon videti meglen/točkast?"><span class="title">Zakaj je moj zaslon videti meglen/točkast?</span><span class="linkdiv-dash"> — </span><span class="desc">Morda je ločljivost zaslona nepravilno nastavljena.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?"><span class="title">Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Zakaj se moj zaslon po določenem času zatemni?"><span class="title">Zakaj se moj zaslon po določenem času zatemni?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="Zaslon se prehitro zaklene"><span class="title">Zaslon se prehitro zaklene</span><span class="linkdiv-dash"> — </span><span class="desc">Change how long to wait before locking the screen in the
+<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.sl" title="Zakaj je moj zaslon videti meglen/točkast?"><span class="title">Zakaj je moj zaslon videti meglen/točkast?</span><span class="linkdiv-dash"> — </span><span class="desc">Morda je ločljivost zaslona nepravilno nastavljena.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.sl" title="Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?"><span class="title">Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.sl" title="Zakaj se moj zaslon po določenem času zatemni?"><span class="title">Zakaj se moj zaslon po določenem času zatemni?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.sl" title="Zaslon se prehitro zaklene"><span class="title">Zaslon se prehitro zaklene</span><span class="linkdiv-dash"> — </span><span class="desc">Change how long to wait before locking the screen in the
     <span class="gui">Privacy</span> settings.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="Moj računalnik se ne prižge"><span class="title">Moj računalnik se ne prižge</span><span class="linkdiv-dash"> — </span><span class="desc">Možna vzroka sta razrahljani kabli in težave s strojno opremo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.sl" title="Moj računalnik se ne prižge"><span class="title">Moj računalnik se ne prižge</span><span class="linkdiv-dash"> — </span><span class="desc">Možna vzroka sta razrahljani kabli in težave s strojno opremo.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Pogoste težave">Težave s strojno opremo</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.sl#problems" title="Pogoste težave">Težave s strojno opremo</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

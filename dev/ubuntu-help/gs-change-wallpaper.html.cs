@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Začínáme">Začínáme s GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.cs" title="Začínáme">Začínáme s GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Změna data, času a časového pásma">Předchozí</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.cs" title="Změna data, času a časového pásma">Předchozí</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">Změna tapety</span></h1></div>
 <div class="region">
 <div class="contents"><div class="ui-tile ">
@@ -67,7 +67,7 @@
 <div id="change-wallpaper-overview" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Změna tapety</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klikněte na <span class="gui"><a href="shell-introduction.html#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> v pravé části horní lišty.</p></li>
+<li class="steps"><p class="p">Klikněte na <span class="gui"><a href="shell-introduction.html.cs#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> v pravé části horní lišty.</p></li>
 <li class="steps"><p class="p">Klikněte na tlačítko nastavení v levé dolní části nabídky.</p></li>
 <li class="steps"><p class="p">Klikněte na panle <span class="gui">Pozadí</span>.</p></li>
 <li class="steps"><p class="p">Klikněte na aktuální obrázek pozadí, který je zobrazen v levé části okna <span class="gui">Pozadí</span>.</p></li>
@@ -76,20 +76,20 @@
 <li class="steps"><p class="p">Zavřete okno <span class="gui">Pozadí</span> kliknutím na křížek v pravém horním rohu okna.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Změna data, času a časového pásma">Předchozí</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.cs" title="Změna data, času a časového pásma">Předchozí</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Začínáme">Začínáme s GNOME</a><span class="desc"> — Začínáte s GNOME? Naučte se základní triky.</span>
+<a href="getting-started.html.cs" title="Začínáme">Začínáme s GNOME</a><span class="desc"> — Začínáte s GNOME? Naučte se základní triky.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-background.html" title="Změna pozadí pracovní plochy a uzamknuté obrazovky">Změna pozadí pracovní plochy a uzamknuté obrazovky</a><span class="desc"> — Jak nastavit obrázek, barvu nebo barevný přechod jako pozadí pracovní plochy nebo uzamknuté obrazovky.</span>
+<a href="look-background.html.cs" title="Změna pozadí pracovní plochy a uzamknuté obrazovky">Změna pozadí pracovní plochy a uzamknuté obrazovky</a><span class="desc"> — Jak nastavit obrázek, barvu nebo barevný přechod jako pozadí pracovní plochy nebo uzamknuté obrazovky.</span>
 </li></ul></div>
 </div></div>
 </div>

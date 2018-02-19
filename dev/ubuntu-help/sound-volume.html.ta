@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="media.html#sound" title="அடிப்படை ஒலி">ஒலி</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="media.html.ta#sound" title="அடிப்படை ஒலி">ஒலி</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ஒலியளவை மாற்றுதல்</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To change the sound volume, open the <span class="gui"><a href="shell-introduction.html#yourname" title="நீங்களும் உங்கள் கணினியும்">system
+<p class="p">To change the sound volume, open the <span class="gui"><a href="shell-introduction.html.ta#yourname" title="நீங்களும் உங்கள் கணினியும்">system
   menu</a></span> from the right side of the top bar and move the volume slider left
   or right. You can completely turn off sound by dragging the slider to the
   left.</p>
@@ -71,7 +71,7 @@
 <p class="p">Some applications have volume controls in their main windows. If your
   application has its volume control, use that to change the volume. If not:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span>
       overview and start typing <span class="gui">Sound</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
 <li class="steps">
@@ -90,7 +90,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="அடிப்படை ஒலி">அடிப்படை ஒலி</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="ஒலியளவை மாற்றுதல்">ஒலியளவு</a></span>, <span class="link"><a href="sound-usespeakers.html" title="வேறு ஸ்பீக்கர்கள் அல்லது ஹெட்ஃபோன்களைப் பயன்படுத்துதல்">ஸ்பீக்கர்கள் மற்றும் தலையணிகள்</a></span>, <span class="link"><a href="sound-usemic.html" title="வேறு ஒரு மைக்ரோஃபோனைப் பயன்படுத்தவும்">மைக்ரோஃபோன்கள்</a></span>…</span>
+<a href="media.html.ta#sound" title="அடிப்படை ஒலி">அடிப்படை ஒலி</a><span class="desc"> — <span class="link"><a href="sound-volume.html.ta" title="ஒலியளவை மாற்றுதல்">ஒலியளவு</a></span>, <span class="link"><a href="sound-usespeakers.html.ta" title="வேறு ஸ்பீக்கர்கள் அல்லது ஹெட்ஃபோன்களைப் பயன்படுத்துதல்">ஸ்பீக்கர்கள் மற்றும் தலையணிகள்</a></span>, <span class="link"><a href="sound-usemic.html.ta" title="வேறு ஒரு மைக்ரோஃபோனைப் பயன்படுத்தவும்">மைக்ரோஃபோன்கள்</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

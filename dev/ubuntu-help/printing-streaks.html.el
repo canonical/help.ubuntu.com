@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="printing.html#problems" title="Προβλήματα εκτυπωτή">Προβλήματα εκτυπωτή</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="printing.html.el#problems" title="Προβλήματα εκτυπωτή">Προβλήματα εκτυπωτή</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Γιατί υπάρχουν ραβδώσεις, γραμμές ή εσφαλμένα χρώματα στα αντίτυπα μου;</span></h1></div>
@@ -71,13 +71,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html#problems" title="Προβλήματα εκτυπωτή">Προβλήματα εκτυπωτή</a><span class="desc"> — Εκτυπωτές που δεν ανιχνεύτηκαν, κολλημένα χαρτιά, αντίτυπα που φαίνονται εσφαλμένα…</span>
+<a href="printing.html.el#problems" title="Προβλήματα εκτυπωτή">Προβλήματα εκτυπωτή</a><span class="desc"> — Εκτυπωτές που δεν ανιχνεύτηκαν, κολλημένα χαρτιά, αντίτυπα που φαίνονται εσφαλμένα…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-inklevel.html" title="How can I check my printer’s ink or toner levels?">How can I check my printer’s ink or toner levels?</a><span class="desc"> — Ελέγξτε την ποσότητα του μελανιού ή γραφίτη που υπάρχει στις κεφαλές του εκτυπωτή.</span>
+<a href="printing-inklevel.html.el" title="How can I check my printer’s ink or toner levels?">How can I check my printer’s ink or toner levels?</a><span class="desc"> — Ελέγξτε την ποσότητα του μελανιού ή γραφίτη που υπάρχει στις κεφαλές του εκτυπωτή.</span>
 </li></ul></div>
 </div></div>
 </div>

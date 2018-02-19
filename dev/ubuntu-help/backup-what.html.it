@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="File, cartelle e ricerche">File</a> › <a class="trail" href="files.html#backup" title="Eseguire backup">Eseguire backup</a> » <a class="trail" href="backup-why.html" title="Eseguire il backup dei file importanti">Backup</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.it" title="File, cartelle e ricerche">File</a> › <a class="trail" href="files.html.it#backup" title="Eseguire backup">Eseguire backup</a> » <a class="trail" href="backup-why.html.it" title="Eseguire il backup dei file importanti">Backup</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Dati di cui eseguire il backup</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">È utile effettuare il backup dei <span class="link"><a href="backup-thinkabout.html" title="Dove è possibile trovare i file di cui effettuare il backup?">file più importanti</a></span> e di quelli difficili da ricreare. Di seguito vengono riportati alcuni esempi in ordine d'importanza:</p>
+<p class="p">È utile effettuare il backup dei <span class="link"><a href="backup-thinkabout.html.it" title="Dove è possibile trovare i file di cui effettuare il backup?">file più importanti</a></span> e di quelli difficili da ricreare. Di seguito vengono riportati alcuni esempi in ordine d'importanza:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">File personali</dt>
 <dd class="terms"><p class="p">Questo comprende documenti, fogli elettronici, email, appuntamenti sul calendario, dati finanziari, foto di famiglia o qualsiasi altro file personale che si ritiene insostituibile.</p></dd>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Eseguire il backup dei file importanti">Eseguire il backup dei file importanti</a><span class="desc"> — Perché, di cosa, dove e come eseguire backup.</span>
+<a href="backup-why.html.it" title="Eseguire il backup dei file importanti">Eseguire il backup dei file importanti</a><span class="desc"> — Perché, di cosa, dove e come eseguire backup.</span>
 </li></ul></div>
 </div></div></div>
 </div>

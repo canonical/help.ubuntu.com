@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="கோப்பு மேலாளர் முன்னுரிமைகள்">கோப்பு மேலாளர் முன்னுரிமைகள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ta" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html.ta#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.ta" title="கோப்பு மேலாளர் முன்னுரிமைகள்">கோப்பு மேலாளர் முன்னுரிமைகள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">கோப்பு மேலாளர் நடத்தை முன்னுரிமைகள்</span></h1></div>
@@ -60,7 +60,7 @@
 <div id="executable" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">செயல்படுத்தக்கூடிய உரை கோப்புகள்</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">நீங்கள் இயக்கக்கூடிய ஒரு நிரலைக் கொண்டுள்ள உரைக் கோப்பே செயல்படுத்தக்கூடிய உரை கோப்பு எனப்படும். ஒரு கோப்பு நிரலாக செயல்படுத்தப்பட வேண்டுமெனில் அதை <span class="link"><a href="nautilus-file-properties-permissions.html" title="கோப்பு அனுமதிகளை அமைத்தல்">கோப்பு அனுமதிகளும்</a></span> அனுமதிக்க வேண்டும். <span class="link"><a href="nautilus-file-properties-permissions.html" title="கோப்பு அனுமதிகளை அமைத்தல்"> கோப்பு அனுமதிகளை </a></span> ஒரு திட்டம் என ரன் கோப்பு அனுமதிக்க வேண்டும். <span class="sys">Shell</span>, <span class="sys">Python</span> மற்றும் <span class="sys">Perl</span> ஸ்கிரிப்ட்டுகள் இவற்றில் பொதுவானவை. அவற்றின் நீட்டிப்புகள் முறையே <span class="file">.sh</span>, <span class="file">.py</span> மற்றும் <span class="file">.pl</span> ஆகும்.</p>
+<p class="p">நீங்கள் இயக்கக்கூடிய ஒரு நிரலைக் கொண்டுள்ள உரைக் கோப்பே செயல்படுத்தக்கூடிய உரை கோப்பு எனப்படும். ஒரு கோப்பு நிரலாக செயல்படுத்தப்பட வேண்டுமெனில் அதை <span class="link"><a href="nautilus-file-properties-permissions.html.ta" title="கோப்பு அனுமதிகளை அமைத்தல்">கோப்பு அனுமதிகளும்</a></span> அனுமதிக்க வேண்டும். <span class="link"><a href="nautilus-file-properties-permissions.html.ta" title="கோப்பு அனுமதிகளை அமைத்தல்"> கோப்பு அனுமதிகளை </a></span> ஒரு திட்டம் என ரன் கோப்பு அனுமதிக்க வேண்டும். <span class="sys">Shell</span>, <span class="sys">Python</span> மற்றும் <span class="sys">Perl</span> ஸ்கிரிப்ட்டுகள் இவற்றில் பொதுவானவை. அவற்றின் நீட்டிப்புகள் முறையே <span class="file">.sh</span>, <span class="file">.py</span> மற்றும் <span class="file">.pl</span> ஆகும்.</p>
 <p class="p">நீங்கள் செயல்படுத்தக்கூடிய உரை கோப்பு ஒன்றைத் திறக்கும் போது, நீங்கள் இவ்விருப்பங்களைத் தேர்வு செய்யலாம்:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">செயல்படுத்தக்கூடிய உரை கோப்புகளை திறக்கும் போது அவற்றை இயக்குதல்</span></p></li>
@@ -93,7 +93,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">இதனையும் பார்</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="files-delete.html" title="கோப்புகள் மற்றும் கோப்புறைகளை அழித்தல்">கோப்புகள் மற்றும் கோப்புறைகளை அழித்தல்</a><span class="desc"> — இனி தேவைப்படாத கோப்புகள் அல்லது கோப்புறைகளை நீக்குதல்.</span>
+<a href="files-delete.html.ta" title="கோப்புகள் மற்றும் கோப்புறைகளை அழித்தல்">கோப்புகள் மற்றும் கோப்புறைகளை அழித்தல்</a><span class="desc"> — இனி தேவைப்படாத கோப்புகள் அல்லது கோப்புறைகளை நீக்குதல்.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -104,7 +104,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="கோப்பு மேலாளர் முன்னுரிமைகள்">கோப்பு மேலாளர் முன்னுரிமைகள்</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.ta" title="கோப்பு மேலாளர் முன்னுரிமைகள்">கோப்பு மேலாளர் முன்னுரிமைகள்</a><span class="desc"> — View and set preferences for the file browser.</span>
 </li></ul></div>
 </div></div></div>
 </div>

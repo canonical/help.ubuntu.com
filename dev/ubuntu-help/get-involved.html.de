@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html" title="Weitergehende Hilfe erhalten">Weitergehende Hilfe erhalten</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.de" title="Weitergehende Hilfe erhalten">Weitergehende Hilfe erhalten</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Beteiligen Sie sich an der Verbesserung dieses Leitfadens</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Dieses Hilfesystem wurde von einer Gemeinschaft Freiwilliger erstellt. Sie sind herzlich eingeladen sich ebenfalls daran zu beteiligen. Falls Sie ein Problem mit diesen Hilfeseiten feststellen (wie Tippfehler, falsche Anweisungen oder Themen, die leider nicht behandelt wurden), können Sie einen <span class="em">Fehlerbericht</span> erstellen.</p>
 <p class="p">Um einen Fehler zu berichten, drücken Sie <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> und geben Sie <span class="input">ubuntu-bug ubuntu-docs</span> ein. Drücken Sie die <span class="gui">Eingabetaste</span>, um mit der Datensammlung für den Fehlerbericht zu beginnen.</p>
-<p class="p">Unter <span class="link"><a href="report-ubuntu-bug.html" title="Ein Problem mit Ubuntu melden">Ein Problem mit Ubuntu melden</a></span> finden Sie weitere Informationen zum Melden eines Fehlers.</p>
+<p class="p">Unter <span class="link"><a href="report-ubuntu-bug.html.de" title="Ein Problem mit Ubuntu melden">Ein Problem mit Ubuntu melden</a></span> finden Sie weitere Informationen zum Melden eines Fehlers.</p>
 <p class="p">Danke für die Unterstützung bei der Verbesserung der Ubuntu-Hilfe!</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -60,13 +60,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html" title="Weitergehende Hilfe erhalten">Weitergehende Hilfe erhalten</a><span class="desc"> — <span class="link"><a href="about-this-guide.html" title="Info zu diesem Handbuch">Hinweise zur Verwendung dieses Handbuchs</a></span>, <span class="link"><a href="get-involved.html" title="Beteiligen Sie sich an der Verbesserung dieses Leitfadens">Dieses Handbuch verbessern</a></span> …</span>
+<a href="more-help.html.de" title="Weitergehende Hilfe erhalten">Weitergehende Hilfe erhalten</a><span class="desc"> — <span class="link"><a href="about-this-guide.html.de" title="Info zu diesem Handbuch">Hinweise zur Verwendung dieses Handbuchs</a></span>, <span class="link"><a href="get-involved.html.de" title="Beteiligen Sie sich an der Verbesserung dieses Leitfadens">Dieses Handbuch verbessern</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="report-ubuntu-bug.html" title="Ein Problem mit Ubuntu melden">Ein Problem mit Ubuntu melden</a><span class="desc"> — Wie und wo Probleme mit Ubuntu gemeldet werden.</span>
+<a href="report-ubuntu-bug.html.de" title="Ein Problem mit Ubuntu melden">Ein Problem mit Ubuntu melden</a><span class="desc"> — Wie und wo Probleme mit Ubuntu gemeldet werden.</span>
 </li></ul></div>
 </div></div>
 </div>

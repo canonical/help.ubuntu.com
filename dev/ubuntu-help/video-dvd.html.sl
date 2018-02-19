@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="media.html" title="Zvok, video in slike">Zvok, video in slike</a> › <a class="trail" href="media.html#videos" title="Videoposnetki in video kamere">Video posnetki</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="media.html.sl" title="Zvok, video in slike">Zvok, video in slike</a> › <a class="trail" href="media.html.sl#videos" title="Videoposnetki in video kamere">Video posnetki</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Why won’t DVDs play?</span></h1></div>
@@ -91,12 +91,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Videoposnetki in video kamere">Video posnetki</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.sl#videos" title="Videoposnetki in video kamere">Video posnetki</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="video-dvd-restricted.html" title="Kaj naj omogočim omejene kodeke za predvajanje DVD-jev?">Kaj naj omogočim omejene kodeke za predvajanje DVD-jev?</a><span class="desc"> — Večina komercialnih DVD-jev je šifriranih, zato jih ne boste mogli predvajati brez programov za odšifriranje.</span>
+<a href="video-dvd-restricted.html.sl" title="Kaj naj omogočim omejene kodeke za predvajanje DVD-jev?">Kaj naj omogočim omejene kodeke za predvajanje DVD-jev?</a><span class="desc"> — Večina komercialnih DVD-jev je šifriranih, zato jih ne boste mogli predvajati brez programov za odšifriranje.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html#photos" title="Foto's en digitale camera's">Foto's</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#photos" title="Foto's en digitale camera's">Foto's</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#removable" title="Verwijderbare schijven en externe schijven">Verwijderbare schijven en externe schijven</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#removable" title="Verwijderbare schijven en externe schijven">Verwijderbare schijven en externe schijven</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html#videos" title="Video's en videocamera's">Video's</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#videos" title="Video's en videocamera's">Video's</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <p class="p">U kunt een toepassing automatisch laten starten wanneer u een apparaat aansluit of een schijf of kaart in de computer plaatst. Zo zou u misschien willen dat uw fotobeheerprogramma start wanneer u een digitale camera aansluit. U kunt dit ook uitschakelen, zodat er niets gebeurt wanneer u iets aansluit.</p>
 <p class="p">Om te beslissen welke toepassing gestart moet worden wanneer u verschillende apparaten aansluit:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Details</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Details</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Details</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Verwijderbare media</span>.</p></li>
 <li class="steps">
@@ -77,7 +77,7 @@
 <dt class="terms">Audioschijven</dt>
 <dd class="terms"><p class="p">Kies uw favoriete muziektoepassing of cd-ripper om audio-cd's te verwerken. Als u audio-DVD's (DVD-A) gebruikt, moet u onder <span class="gui">Overige media…</span> aangeven hoe u ze wil openen. Als u een audio-cd met de bestandsbeheerder opent, zullen de tracks als WAV-bestanden worden weergegeven die met elke audiospeler-toepassing af te spelen zijn.</p></dd>
 <dt class="terms">Videoschijven</dt>
-<dd class="terms"><p class="p">Kies uw favoriete videotoepassing om DVD's te verwerken. Gebruik de <span class="gui">Overige media…</span>-knop om een toepassing voor Blu-ray, HD DVD, video CD (VCD), en super video cd (SVCD) in te stellen. Zie <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span> als DVD's of andere videoschijven niet correct functioneren als u ze invoert.</p></dd>
+<dd class="terms"><p class="p">Kies uw favoriete videotoepassing om DVD's te verwerken. Gebruik de <span class="gui">Overige media…</span>-knop om een toepassing voor Blu-ray, HD DVD, video CD (VCD), en super video cd (SVCD) in te stellen. Zie <span class="link"><a href="video-dvd.html.nl" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span> als DVD's of andere videoschijven niet correct functioneren als u ze invoert.</p></dd>
 <dt class="terms">Blanco schijven</dt>
 <dd class="terms"><p class="p">Gebruik de <span class="gui">Overige media…</span>-knop om een brandprogramma voor blanco cd's, blanco DVD's, blanco Blu-ray schijven, en blanco HD DVDs te kiezen.</p></dd>
 <dt class="terms">Camera's en fotos</dt>
@@ -101,10 +101,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#photos" title="Foto's en digitale camera's">Foto's</a></li>
-<li class="links "><a href="media.html#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a></li>
-<li class="links "><a href="files.html#removable" title="Verwijderbare schijven en externe schijven">Verwijderbare schijven en externe schijven</a></li>
-<li class="links "><a href="media.html#videos" title="Video's en videocamera's">Video's</a></li>
+<li class="links "><a href="media.html.nl#photos" title="Foto's en digitale camera's">Foto's</a></li>
+<li class="links "><a href="media.html.nl#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a></li>
+<li class="links "><a href="files.html.nl#removable" title="Verwijderbare schijven en externe schijven">Verwijderbare schijven en externe schijven</a></li>
+<li class="links "><a href="media.html.nl#videos" title="Video's en videocamera's">Video's</a></li>
 </ul></div>
 </div></div></div>
 </div>

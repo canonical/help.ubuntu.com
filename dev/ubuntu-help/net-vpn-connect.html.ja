@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html" title="有線によるネットワーク">有線によるネットワーク</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.ja" title="有線によるネットワーク">有線によるネットワーク</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="無線ネットワーク">無線ネットワーク</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.ja" title="無線ネットワーク">無線ネットワーク</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -74,7 +74,7 @@
  instructions to get that working.</p></div></div></div></div>
 <p class="p">To set up the VPN connection:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p"><span class="gui">ネットワーク</span>を選択して設定パネルを開きます。</p></li>
 <li class="steps"><p class="p">At the bottom of the list on the left, click the <span class="gui">+</span> button
@@ -84,7 +84,7 @@
 <li class="steps"><p class="p">Fill in the VPN connection details, then press <span class="gui">Add</span> once you
       are finished.</p></li>
 <li class="steps"><p class="p">When you have finished setting-up the VPN, open the
-      <span class="gui"><a href="shell-introduction.html#yourname" title="あなた、およびお使いのコンピューターについて">system menu</a></span> from the right side of
+      <span class="gui"><a href="shell-introduction.html.ja#yourname" title="あなた、およびお使いのコンピューターについて">system menu</a></span> from the right side of
       the top bar, click <span class="gui">VPN off</span> and select <span class="gui">Connect</span>. You
       may need to enter a password for the connection before it is established.
       Once the connection is made, you will see a lock shaped icon in the top
@@ -104,10 +104,10 @@
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wired.html" title="有線によるネットワーク">有線によるネットワーク</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="有線 (Ethernet) ネットワークへの接続">有線インターネット接続</a></span>、<span class="link"><a href="net-fixed-ip-address.html" title="固定 IP アドレスの接続を作成">固定 IP アドレス</a></span>…</span>
+<a href="net-wired.html.ja" title="有線によるネットワーク">有線によるネットワーク</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.ja" title="有線 (Ethernet) ネットワークへの接続">有線インターネット接続</a></span>、<span class="link"><a href="net-fixed-ip-address.html.ja" title="固定 IP アドレスの接続を作成">固定 IP アドレス</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html" title="無線ネットワーク">無線ネットワーク</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="無線ネットワークに接続する">無線接続</a></span>、<span class="link"><a href="net-wireless-hidden.html" title="非表示設定の無線ネットワークに接続">非表示設定のネットワーク</a></span>、<span class="link"><a href="net-wireless-disconnecting.html" title="無線ネットワークが切断されてしまいます、なぜですか?">切断する</a></span>…</span>
+<a href="net-wireless.html.ja" title="無線ネットワーク">無線ネットワーク</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.ja" title="無線ネットワークに接続する">無線接続</a></span>、<span class="link"><a href="net-wireless-hidden.html.ja" title="非表示設定の無線ネットワークに接続">非表示設定のネットワーク</a></span>、<span class="link"><a href="net-wireless-disconnecting.html.ja" title="無線ネットワークが切断されてしまいます、なぜですか?">切断する</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

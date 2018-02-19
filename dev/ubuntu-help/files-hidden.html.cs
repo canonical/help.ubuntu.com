@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#faq" title="Tipy a otázky">Tipy a otázky</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#faq" title="Tipy a otázky">Tipy a otázky</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Skrytí souboru</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Správce souborů <span class="app">Soubory</span> poskytuje možnost skrýt a odhalit soubory, které jsou určené jako skryté. Když je soubor určený jako skrytý, normálně se ve správci souborů nezobrazí, ale ve své složce se stále nachází.</p>
-<p class="p">Když chcete souboru skrýt, <span class="link"><a href="files-rename.html" title="Přejmenování souboru nebo složky">přejmenujte jej</a></span> s <span class="file">.</span> na začátku názvu souboru. Například, abyste skryli soubor s názvem <span class="file">příklad.txt</span>, museli byste jej přejmenovat na <span class="file">.příklad.txt</span>.</p>
+<p class="p">Když chcete souboru skrýt, <span class="link"><a href="files-rename.html.cs" title="Přejmenování souboru nebo složky">přejmenujte jej</a></span> s <span class="file">.</span> na začátku názvu souboru. Například, abyste skryli soubor s názvem <span class="file">příklad.txt</span>, museli byste jej přejmenovat na <span class="file">.příklad.txt</span>.</p>
 <div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Složky můžete skrývat úplně stejným způsobem, jako soubory. Stačí přidat znak <span class="file">.</span> na začátek názvu složky.</p></div></div></div></div>
 </div>
 <div id="show-hidden" class="sect"><div class="inner">
@@ -65,8 +65,8 @@
 <div class="region"><div class="contents">
 <p class="p">Abyste odhalili skryté soubory, přejděte do složky obsahující skryté soubory a klikněte na nástrojové liště na tlačítko voleb zobrazení a zaškrtněte <span class="gui">Zobrazovat skryté soubory</span>. Po té můžete najít skrytý soubor a přejmenovat jej tak, že nebude mít <span class="file">.</span> na začátku názvu. Například, když chcete aby nebyl skrytý soubor <span class="file">.příklad.txt</span>, měli byste jej přejmenovat na <span class="file">příklad.txt</span>.</p>
 <p class="p">Až máte soubor přejmenovaný, buď klikněte na nástrojové liště na tlačítko voleb zobrazení a znovu klikněte na <span class="gui">Zobrazovat skryté soubory</span> nebo zmáčkněte <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>, aby se ostatní skryté soubory opět skryly.</p>
-<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Výchozí chování je, že skryté soubory uvidíte ve správci souborů, jen dokud jej nezavřete. Při jeho příštím spuštění se opět zobrazovat nebudou. Toto chování můžete změnit, aby se zobrazovaly nastálo, viz <span class="link"><a href="nautilus-views.html" title="Předvolby zobrazení v Souborech">Předvolby zobrazení v <span class="app">Souborech</span></a></span>.</p></div></div></div></div>
-<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Většina skrytých souborů má <span class="file">.</span> na začátku svého názvu, ale existují i takové, které mají <span class="file">~</span> na konci svého názvu. Jedná se o záložní soubory. Další informace viz <span class="link"><a href="files-tilde.html" title="Co je to za soubor s ~ na konci názvu?">Co je to za soubor s <span class="file">~</span> na konci názvu?</a></span>.</p></div></div></div></div>
+<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Výchozí chování je, že skryté soubory uvidíte ve správci souborů, jen dokud jej nezavřete. Při jeho příštím spuštění se opět zobrazovat nebudou. Toto chování můžete změnit, aby se zobrazovaly nastálo, viz <span class="link"><a href="nautilus-views.html.cs" title="Předvolby zobrazení v Souborech">Předvolby zobrazení v <span class="app">Souborech</span></a></span>.</p></div></div></div></div>
+<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Většina skrytých souborů má <span class="file">.</span> na začátku svého názvu, ale existují i takové, které mají <span class="file">~</span> na konci svého názvu. Jedná se o záložní soubory. Další informace viz <span class="link"><a href="files-tilde.html.cs" title="Co je to za soubor s ~ na konci názvu?">Co je to za soubor s <span class="file">~</span> na konci názvu?</a></span>.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -74,12 +74,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tipy a otázky">Tipy a otázky</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.cs#faq" title="Tipy a otázky">Tipy a otázky</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-tilde.html" title="Co je to za soubor s ~ na konci názvu?">Co je to za soubor s <span class="file">~</span> na konci názvu?</a><span class="desc"> — Jedná se o záložní soubory. Standardně bývají skryté.</span>
+<a href="files-tilde.html.cs" title="Co je to za soubor s ~ na konci názvu?">Co je to za soubor s <span class="file">~</span> na konci názvu?</a><span class="desc"> — Jedná se o záložní soubory. Standardně bývají skryté.</span>
 </li></ul></div>
 </div></div>
 </div>

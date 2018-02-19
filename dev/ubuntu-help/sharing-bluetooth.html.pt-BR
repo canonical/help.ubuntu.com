@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="prefs-sharing.html" title="Configurações de compartilhamento">Configurações de compartilhamento</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="prefs-sharing.html.pt-BR" title="Configurações de compartilhamento">Configurações de compartilhamento</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="bluetooth.html.pt-BR" title="Bluetooth">Bluetooth</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="sharing.html" title="Compartilhamento">Compartilhamento</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="sharing.html.pt-BR" title="Compartilhamento">Compartilhamento</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -59,13 +59,13 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Permitir que arquivos sejam compartilhados com sua pasta <span class="file">Downloads</span></span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Bluetooth</span> para abrir o painel.</p></li>
-<li class="steps"><p class="p">Certifique-se de que o <span class="link"><a href="bluetooth-turn-on-off.html" title="Ligando ou desligando o Bluetooth"><span class="gui">Bluetooth</span> está ativado</a></span>.</p></li>
+<li class="steps"><p class="p">Certifique-se de que o <span class="link"><a href="bluetooth-turn-on-off.html.pt-BR" title="Ligando ou desligando o Bluetooth"><span class="gui">Bluetooth</span> está ativado</a></span>.</p></li>
 <li class="steps"><p class="p">Dispositivos com capacidade para Bluetooth podem enviar arquivos para sua pasta <span class="file">Downloads</span> apenas quando o painel <span class="gui">Bluetooth</span> está aberto.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Você pode <span class="link"><a href="sharing-displayname.html" title="Definindo o nome exibido pelo seu computador">alterar</a></span> o nome que seu computador exibe para outros dispositivos.</p></div></div></div></div>
+<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Você pode <span class="link"><a href="sharing-displayname.html.pt-BR" title="Definindo o nome exibido pelo seu computador">alterar</a></span> o nome que seu computador exibe para outros dispositivos.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -74,20 +74,20 @@
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Conectando seu computador a um dispositivo Bluetooth">Conectar</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Enviando arquivos a um dispositivo Bluetooth">enviar arquivos</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Ligando ou desligando o Bluetooth">ligar/desligar</a></span>…</span>
+<a href="bluetooth.html.pt-BR" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.pt-BR" title="Conectando seu computador a um dispositivo Bluetooth">Conectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.pt-BR" title="Enviando arquivos a um dispositivo Bluetooth">enviar arquivos</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.pt-BR" title="Ligando ou desligando o Bluetooth">ligar/desligar</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Compartilhamento">Compartilhamento</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Compartilhando sua área de trabalho">Compartilhamento da área de trabalho</a></span>, <span class="link"><a href="files-share.html" title="Compartilhando arquivos por e-mail">Compartilhar arquivos por e-mail</a></span>, <span class="link"><a href="sharing-media.html" title="Compartilhando suas músicas, fotos e vídeos">Compartilhamento de multimídia</a></span>…</span>
+<a href="sharing.html.pt-BR" title="Compartilhamento">Compartilhamento</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.pt-BR" title="Compartilhando sua área de trabalho">Compartilhamento da área de trabalho</a></span>, <span class="link"><a href="files-share.html.pt-BR" title="Compartilhando arquivos por e-mail">Compartilhar arquivos por e-mail</a></span>, <span class="link"><a href="sharing-media.html.pt-BR" title="Compartilhando suas músicas, fotos e vídeos">Compartilhamento de multimídia</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html" title="Configurações de compartilhamento">Configurações de compartilhamento</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Controlando compartilhamento de arquivos por Bluetooth">Compartilhamento Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html" title="Compartilhando seus arquivos pessoais">Compartilhamento de arquivos pessoais</a></span>, <span class="link"><a href="sharing-desktop.html" title="Compartilhando sua área de trabalho">Compartilhamento de área de trabalho</a></span>, <span class="link"><a href="sharing-media.html" title="Compartilhando suas músicas, fotos e vídeos">Compartilhamento de mídia</a></span>…</span>
+<a href="prefs-sharing.html.pt-BR" title="Configurações de compartilhamento">Configurações de compartilhamento</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.pt-BR" title="Controlando compartilhamento de arquivos por Bluetooth">Compartilhamento Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.pt-BR" title="Compartilhando seus arquivos pessoais">Compartilhamento de arquivos pessoais</a></span>, <span class="link"><a href="sharing-desktop.html.pt-BR" title="Compartilhando sua área de trabalho">Compartilhamento de área de trabalho</a></span>, <span class="link"><a href="sharing-media.html.pt-BR" title="Compartilhando suas músicas, fotos e vídeos">Compartilhamento de mídia</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth-connect-device.html" title="Conectando seu computador a um dispositivo Bluetooth">Conectando seu computador a um dispositivo Bluetooth</a><span class="desc"> — Pareie dispositivos Bluetooth.</span>
+<a href="bluetooth-connect-device.html.pt-BR" title="Conectando seu computador a um dispositivo Bluetooth">Conectando seu computador a um dispositivo Bluetooth</a><span class="desc"> — Pareie dispositivos Bluetooth.</span>
 </li></ul></div>
 </div></div>
 </div>

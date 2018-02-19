@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="user-accounts.html" title="Кориснички налози">Корисници</a> › <a class="trail" href="user-accounts.html#manage" title="Управљајте корисничким налозима">Налози</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="user-accounts.html.sr" title="Кориснички налози">Корисници</a> › <a class="trail" href="user-accounts.html.sr#manage" title="Управљајте корисничким налозима">Налози</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Обришите кориснички налог</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Можете да <span class="link"><a href="user-add.html" title="Додајте налог новог корисника">додате више корисничких налога на вашем рачунару</a></span>. Ако неко више не користи ваш рачунар, можете да обришете налог тог корисника.</p>
-<p class="p">Потребна су вам <span class="link"><a href="user-admin-explain.html" title="Како функционишу администраторска овлашћења?">администраторска права</a></span> за брисање корисничких налога.</p>
+<p class="p">Можете да <span class="link"><a href="user-add.html.sr" title="Додајте налог новог корисника">додате више корисничких налога на вашем рачунару</a></span>. Ако неко више не користи ваш рачунар, можете да обришете налог тог корисника.</p>
+<p class="p">Потребна су вам <span class="link"><a href="user-admin-explain.html.sr" title="Како функционишу администраторска овлашћења?">администраторска права</a></span> за брисање корисничких налога.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Корисници</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Корисници</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Корисници</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Притисните <span class="gui">Откључај</span> у горњем десном углу и унесите вашу лозинку.</p></li>
 <li class="steps"><p class="p">Изаберите корисника којег желите да обришете и кликните на дугме <span class="gui">-</span>, испод списка налога на левој страни, да обришете налог тог корисника.</p></li>
@@ -64,16 +64,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Управљајте корисничким налозима">Управљајте корисничким налозима</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.sr#manage" title="Управљајте корисничким налозима">Управљајте корисничким налозима</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-add.html" title="Додајте налог новог корисника">Додајте налог новог корисника</a><span class="desc"> — Додајте нове кориснике тако да неко други може да се пријави на рачунар.</span>
+<a href="user-add.html.sr" title="Додајте налог новог корисника">Додајте налог новог корисника</a><span class="desc"> — Додајте нове кориснике тако да неко други може да се пријави на рачунар.</span>
 </li>
 <li class="links ">
-<a href="user-admin-explain.html" title="Како функционишу администраторска овлашћења?">Како функционишу администраторска овлашћења?</a><span class="desc"> — Потребна су вам администраторска овлашћења да измените важне делове вашег система.</span>
+<a href="user-admin-explain.html.sr" title="Како функционишу администраторска овлашћења?">Како функционишу администраторска овлашћења?</a><span class="desc"> — Потребна су вам администраторска овлашћења да измените важне делове вашег система.</span>
 </li>
 </ul></div>
 </div></div>

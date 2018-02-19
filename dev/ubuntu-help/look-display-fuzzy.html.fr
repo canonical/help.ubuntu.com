@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> › <a class="trail" href="hardware.html#problems" title="Problèmes connus">Problèmes</a> » <a class="trail" href="hardware-problems-graphics.html" title="Problèmes d'écran">Problèmes d'écran</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> › <a class="trail" href="hardware.html.fr#problems" title="Problèmes connus">Problèmes</a> » <a class="trail" href="hardware-problems-graphics.html.fr" title="Problèmes d'écran">Problèmes d'écran</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Pourquoi l'affichage de mon écran est-il brouillé/pixelisé ?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Cela arrive si vous définissez une résolution inadaptée à votre écran.</p>
-<p class="p">To solve this, open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span>
+<p class="p">To solve this, open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span>
 overview and start typing <span class="gui">Displays</span>. Click on <span class="gui">Displays</span>
 to open the panel. Try some of the <span class="gui">Resolution</span> options and set the
 one that makes the screen look better.</p>
@@ -65,7 +65,7 @@ one that makes the screen look better.</p>
 <p class="p">Vous pouvez faire en sorte que les deux affichages aient deux résolutions différentes, mais vous ne pourrez pas afficher la même chose sur les deux écrans à la fois. En fait, vous aurez deux écrans indépendants connectés en même temps. Vous pourrez déplacer les fenêtres d'un écran à l'autre, mais vous ne pourrez pas afficher la même fenêtre en même temps sur les deux écrans.</p>
 <p class="p">Pour paramétrer les affichages pour que chacun ait sa propre résolution :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Displays</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Displays</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Les écrans doivent être en <span class="gui">Mirroir</span>. Sélectionnez votre écran principal.</p></li>
@@ -80,13 +80,13 @@ one that makes the screen look better.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-problems-graphics.html" title="Problèmes d'écran">Problèmes d'écran</a><span class="desc"> — Résoudre les problèmes d'écran ou de carte graphique.</span>
+<a href="hardware-problems-graphics.html.fr" title="Problèmes d'écran">Problèmes d'écran</a><span class="desc"> — Résoudre les problèmes d'écran ou de carte graphique.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-resolution.html" title="Modification de la résolution ou de la rotation de l'écran">Modification de la résolution ou de la rotation de l'écran</a><span class="desc"> — Modifier la résolution de l'écran et son orientation (rotation).</span>
+<a href="look-resolution.html.fr" title="Modification de la résolution ou de la rotation de l'écran">Modification de la résolution ou de la rotation de l'écran</a><span class="desc"> — Modifier la résolution de l'écran et son orientation (rotation).</span>
 </li></ul></div>
 </div></div>
 </div>

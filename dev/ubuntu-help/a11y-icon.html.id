@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html" title="Akses universal">Akses universal</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html.id" title="Akses universal">Akses universal</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Temukan menu akses universal</span></h1></div>
@@ -58,7 +58,7 @@
 </div></div>
 <p class="p">Bila Anda tak melihat menu akses universal, Anda dapat memfungsikannya dari panel pengaturan <span class="gui">Akses Universal</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Nyalakan <span class="gui">Selalu Tunjukkan Menu Akses Universal</span>.</p></li>
 </ol></div></div></div>
@@ -76,7 +76,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y.html" title="Akses universal">Akses universal</a><span class="desc"> — <span class="link"><a href="a11y.html#vision" title="Masalah visual">Penglihatan</a></span>, <span class="link"><a href="a11y.html#sound" title="Masalah pendengaran">pendengaran</a></span>, <span class="link"><a href="a11y.html#mobility" title="Masalah mobilitas">mobilitas</a></span>, <span class="link"><a href="a11y-braille.html" title="Baca layar dalam Braille">braille</a></span>, <span class="link"><a href="a11y-mag.html" title="Perbesar suatu wilayah layar">pembesar layar</a></span>…</span>
+<a href="a11y.html.id" title="Akses universal">Akses universal</a><span class="desc"> — <span class="link"><a href="a11y.html.id#vision" title="Masalah visual">Penglihatan</a></span>, <span class="link"><a href="a11y.html.id#sound" title="Masalah pendengaran">pendengaran</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">mobilitas</a></span>, <span class="link"><a href="a11y-braille.html.id" title="Baca layar dalam Braille">braille</a></span>, <span class="link"><a href="a11y-mag.html.id" title="Perbesar suatu wilayah layar">pembesar layar</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

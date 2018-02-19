@@ -43,26 +43,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html#apps" title="Програми и прозори">Програми и прозори</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.sr" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html.sr#apps" title="Програми и прозори">Програми и прозори</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Прозори и радни простори</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Као и друге радне површи, Гном користи прозоре за приказивање ваших радних програма. Коришћењем и прегледа <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и <span class="em">полетника</span>, можете да покренете нове програме и да управљате радним прозорима.</p>
+<p class="p">Као и друге радне површи, Гном користи прозоре за приказивање ваших радних програма. Коришћењем и прегледа <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и <span class="em">полетника</span>, можете да покренете нове програме и да управљате радним прозорима.</p>
 <p class="p">Можете заједно да групишете програме у радним просторима. Погледајте теме помоћи прозора и радних простора испод да научите боље како да користите ове функције.</p>
 </div>
 <div id="working-with-windows" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Рад са прозорима</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html" title="Повећајте и поништите повећање прозора"><span class="title">Повећајте и поништите повећање прозора</span><span class="linkdiv-dash"> — </span><span class="desc">Два пута кликните или превуците траку наслова да увећате или повратите прозор.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html" title="Поплочајте прозоре"><span class="title">Поплочајте прозоре</span><span class="linkdiv-dash"> — </span><span class="desc">Повећајте два прозора један поред другог.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Пребацујте се између прозора"><span class="title">Пребацујте се између прозора</span><span class="linkdiv-dash"> — </span><span class="desc">Притисните <span class="keyseq"><span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>Таб</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.sr" title="Повећајте и поништите повећање прозора"><span class="title">Повећајте и поништите повећање прозора</span><span class="linkdiv-dash"> — </span><span class="desc">Два пута кликните или превуците траку наслова да увећате или повратите прозор.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.sr" title="Поплочајте прозоре"><span class="title">Поплочајте прозоре</span><span class="linkdiv-dash"> — </span><span class="desc">Повећајте два прозора један поред другог.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.sr" title="Пребацујте се између прозора"><span class="title">Пребацујте се између прозора</span><span class="linkdiv-dash"> — </span><span class="desc">Притисните <span class="keyseq"><span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>Таб</kbd></span></span>.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html" title="Премештајте и мењајте величину прозора"><span class="title">Премештајте и мењајте величину прозора</span><span class="linkdiv-dash"> — </span><span class="desc">Распоредите прозоре у радним просторима да би вам помогли у бољем раду.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html" title="Пронађите изгубљени прозор"><span class="title">Пронађите изгубљени прозор</span><span class="linkdiv-dash"> — </span><span class="desc">Проверите преглед <span class="gui">Активности</span> или остале радне просторе.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.sr" title="Премештајте и мењајте величину прозора"><span class="title">Премештајте и мењајте величину прозора</span><span class="linkdiv-dash"> — </span><span class="desc">Распоредите прозоре у радним просторима да би вам помогли у бољем раду.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.sr" title="Пронађите изгубљени прозор"><span class="title">Пронађите изгубљени прозор</span><span class="linkdiv-dash"> — </span><span class="desc">Проверите преглед <span class="gui">Активности</span> или остале радне просторе.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -70,17 +70,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Рад са радним просторима</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html" title="Шта је то радни простро, и како ће ми помоћи?"><span class="title">Шта је то радни простро, и како ће ми помоћи?</span><span class="linkdiv-dash"> — </span><span class="desc">Радни простори представљају начин груписања прозора на радној површи.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html" title="Пребацујте се између радних простора"><span class="title">Пребацујте се између радних простора</span><span class="linkdiv-dash"> — </span><span class="desc">Користите бирача радног простора.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.sr" title="Шта је то радни простро, и како ће ми помоћи?"><span class="title">Шта је то радни простро, и како ће ми помоћи?</span><span class="linkdiv-dash"> — </span><span class="desc">Радни простори представљају начин груписања прозора на радној површи.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.sr" title="Пребацујте се између радних простора"><span class="title">Пребацујте се између радних простора</span><span class="linkdiv-dash"> — </span><span class="desc">Користите бирача радног простора.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html" title="Преместите прозор на други радни простор"><span class="title">Преместите прозор на други радни простор</span><span class="linkdiv-dash"> — </span><span class="desc">Идите на преглед <span class="gui">активности</span> и превуците прозор на други радни простор.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.sr" title="Преместите прозор на други радни простор"><span class="title">Преместите прозор на други радни простор</span><span class="linkdiv-dash"> — </span><span class="desc">Идите на преглед <span class="gui">активности</span> и превуците прозор на други радни простор.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Програми и прозори">Програми и прозори</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.sr#apps" title="Програми и прозори">Програми и прозори</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

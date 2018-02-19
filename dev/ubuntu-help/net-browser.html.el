@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Περιηγητές Ιστού</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html" title="Αλλαγή του προεπιλεγμένου περιηγητή διαδικτύου"><span class="title">Αλλαγή του προεπιλεγμένου περιηγητή διαδικτύου</span><span class="linkdiv-dash"> — </span><span class="desc">Αλλάξτε τον προεπιλεγμένο περιηγητή ιστού πηγαίνοντας στο μενού <span class="gui">Λεπτομέρειες</span> στις <span class="gui">Ρυθμίσεις</span>.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html" title="Εγκατάσταση πρόσθετου για το flash"><span class="title">Εγκατάσταση πρόσθετου για το flash</span><span class="linkdiv-dash"> — </span><span class="desc">You may need to install Flash to be able to view some websites, which display videos and interactive web pages.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html.el" title="Αλλαγή του προεπιλεγμένου περιηγητή διαδικτύου"><span class="title">Αλλαγή του προεπιλεγμένου περιηγητή διαδικτύου</span><span class="linkdiv-dash"> — </span><span class="desc">Αλλάξτε τον προεπιλεγμένο περιηγητή ιστού πηγαίνοντας στο μενού <span class="gui">Λεπτομέρειες</span> στις <span class="gui">Ρυθμίσεις</span>.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html.el" title="Εγκατάσταση πρόσθετου για το flash"><span class="title">Εγκατάσταση πρόσθετου για το flash</span><span class="linkdiv-dash"> — </span><span class="desc">You may need to install Flash to be able to view some websites, which display videos and interactive web pages.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -58,12 +58,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Ασύρματη δικτύωση">Ασύρματο</a></span>, <span class="link"><a href="net-wired.html" title="Ενσύρματη δικτύωση">Ενσύρματο</a></span>, <span class="link"><a href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα σύνδεσης</a></span>, <span class="link"><a href="net-browser.html" title="Περιηγητές Ιστού">Περιήγηση ιστού</a></span>, <span class="link"><a href="net-email.html" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Λογαριασμοί αλληλογραφίας</a></span>…</span>
+<a href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a><span class="desc"> — <span class="link"><a href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματο</a></span>, <span class="link"><a href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματο</a></span>, <span class="link"><a href="net-problem.html.el" title="Προβλήματα δικτύου">Προβλήματα σύνδεσης</a></span>, <span class="link"><a href="net-browser.html.el" title="Περιηγητές Ιστού">Περιήγηση ιστού</a></span>, <span class="link"><a href="net-email.html.el" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Λογαριασμοί αλληλογραφίας</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-browse-web.html" title="Περιήγηση στον Ιστό">A tutorial on browsing the web</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-browse-web.html.el" title="Περιήγηση στον Ιστό">A tutorial on browsing the web</a></li></ul></div>
 </div></div>
 </div>
 </div>

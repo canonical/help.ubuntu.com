@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="prefs-language.html" title="Περιοχή &amp; γλώσσα">Περιοχή &amp; γλώσσα</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="prefs-language.html.el" title="Περιοχή &amp; γλώσσα">Περιοχή &amp; γλώσσα</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Αλλάξτε τη γλώσσα που χρησιμοποιείτε</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Μπορείτε να χρησιμοποιήσετε την επιφάνεια εργασίας σας και τις εφαρμογές σε πολλές γλώσσες, με την προϋπόθεση ότι έχετε τα κατάλληλα πακέτα της γλώσσας εγκατεστημένα στον υπολογιστή σας.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Περιοχή &amp; γλώσσα</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Περιοχή &amp; γλώσσα</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Περιοχή &amp; γλώσσα</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στη <span class="gui">Γλώσσα</span>.</p></li>
 <li class="steps"><p class="p">Επιλέξτε την επιθυμητή περιοχή και γλώσσα. Αν η περιοχή και η γλώσσα σας δεν είναι καταχωρισμένες, πατήστε <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> στο κάτω μέρος της λίστας για να επιλέξετε από όλες τις διαθέσιμες περιοχές και γλώσσες.</p></li>
@@ -70,13 +70,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Περιοχή &amp; γλώσσα">Περιοχή &amp; γλώσσα</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Αλλάξτε τη γλώσσα που χρησιμοποιείτε">Γλώσσα</a></span>, <span class="link"><a href="session-formats.html" title="Αλλαγή μορφών ημερομηνίας και μέτρησης">Περιοχή και τύποι</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Διατάξεις πληκτρολογίου</a></span>…</span>
+<a href="prefs-language.html.el" title="Περιοχή &amp; γλώσσα">Περιοχή &amp; γλώσσα</a><span class="desc"> — <span class="link"><a href="session-language.html.el" title="Αλλάξτε τη γλώσσα που χρησιμοποιείτε">Γλώσσα</a></span>, <span class="link"><a href="session-formats.html.el" title="Αλλαγή μορφών ημερομηνίας και μέτρησης">Περιοχή και τύποι</a></span>, <span class="link"><a href="keyboard-layouts.html.el" title="Use alternative keyboard layouts">Διατάξεις πληκτρολογίου</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-formats.html" title="Αλλαγή μορφών ημερομηνίας και μέτρησης">Αλλαγή μορφών ημερομηνίας και μέτρησης</a><span class="desc"> — Επιλέξτε μια περιοχή που χρησιμοποιείτε για ημερομηνία και ώρα, αριθμούς, νόμισμα και μετρήσεις.</span>
+<a href="session-formats.html.el" title="Αλλαγή μορφών ημερομηνίας και μέτρησης">Αλλαγή μορφών ημερομηνίας και μέτρησης</a><span class="desc"> — Επιλέξτε μια περιοχή που χρησιμοποιείτε για ημερομηνία και ώρα, αριθμούς, νόμισμα και μετρήσεις.</span>
 </li></ul></div>
 </div></div>
 </div>

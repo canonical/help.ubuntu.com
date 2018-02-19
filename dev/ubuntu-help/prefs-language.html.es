@@ -43,15 +43,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Región e idioma</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="session-language.html" title="Cambiar el idioma que usa"><span class="title">Cambiar el idioma que usa</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar a un idioma diferente la interfaz de usuario y el texto de la ayuda.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-formats.html" title="Cambiar la fecha y los formatos de medida"><span class="title">Cambiar la fecha y los formatos de medida</span><span class="linkdiv-dash"> — </span><span class="desc">Elija una región usada para fecha, hora, números, moneda y medidas.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html" title="Usar distribuciones de teclado alternativas"><span class="title">Usar distribuciones de teclado alternativas</span><span class="linkdiv-dash"> — </span><span class="desc">Añadir distribuciones de teclado y cambiar entre ellas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-language.html.es" title="Cambiar el idioma que usa"><span class="title">Cambiar el idioma que usa</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar a un idioma diferente la interfaz de usuario y el texto de la ayuda.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-formats.html.es" title="Cambiar la fecha y los formatos de medida"><span class="title">Cambiar la fecha y los formatos de medida</span><span class="linkdiv-dash"> — </span><span class="desc">Elija una región usada para fecha, hora, números, moneda y medidas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.es" title="Usar distribuciones de teclado alternativas"><span class="title">Usar distribuciones de teclado alternativas</span><span class="linkdiv-dash"> — </span><span class="desc">Añadir distribuciones de teclado y cambiar entre ellas.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -59,13 +59,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Usuario y configuración del sistema">Usuario y configuración del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html" title="Ratón">ratón</a></span>, <span class="link"><a href="prefs-display.html" title="Pantalla">pantalla</a></span>, <span class="link"><a href="prefs-language.html" title="Región e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html" title="Cuentas de usuario">cuentas de usuario</a></span>…</span>
+<a href="prefs.html.es" title="Usuario y configuración del sistema">Usuario y configuración del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.es" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html.es" title="Ratón">ratón</a></span>, <span class="link"><a href="prefs-display.html.es" title="Pantalla">pantalla</a></span>, <span class="link"><a href="prefs-language.html.es" title="Región e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html.es" title="Cuentas de usuario">cuentas de usuario</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language-install.html" title="Instalar idiomas">Instalar idiomas</a><span class="desc"> — Instalar más traducciones y paquetes relacionados con idiomas.</span>
+<a href="prefs-language-install.html.es" title="Instalar idiomas">Instalar idiomas</a><span class="desc"> — Instalar más traducciones y paquetes relacionados con idiomas.</span>
 </li></ul></div>
 </div></div>
 </div>

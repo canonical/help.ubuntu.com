@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-wireless.html" title="Trådlösa nätverk">Trådlösa nätverk</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlösa nätverk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Jag har matat in rätt lösenord, men kan fortfarande inte ansluta</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Om du är säker på att du matat in korrekt <span class="link"><a href="net-wireless-wepwpa.html" title="Vad betyder WEP och WPA?">trådlöst lösenord</a></span> men fortfarande inte lyckas ansluta till ett trådlöst nätverk prova något av följande:</p>
+<p class="p">Om du är säker på att du matat in korrekt <span class="link"><a href="net-wireless-wepwpa.html.sv" title="Vad betyder WEP och WPA?">trådlöst lösenord</a></span> men fortfarande inte lyckas ansluta till ett trådlöst nätverk prova något av följande:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Dubbelkolla att du har korrekt lösenord</p>
@@ -61,7 +61,7 @@
 </li>
 <li class="list">
 <p class="p">Prova att stänga av ditt trådlösa kort och sätt igång det igen</p>
-<p class="p">Ibland kan trådlösa kort fastna eller råka ut för mindre problem som innebär att de inte fungerar ordentligt. Prova att stänga av kortet och sätta igång det igen för att återställa det — se <span class="link"><a href="net-wireless-troubleshooting.html" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a></span> för vidare information.</p>
+<p class="p">Ibland kan trådlösa kort fastna eller råka ut för mindre problem som innebär att de inte fungerar ordentligt. Prova att stänga av kortet och sätta igång det igen för att återställa det — se <span class="link"><a href="net-wireless-troubleshooting.html.sv" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a></span> för vidare information.</p>
 </li>
 <li class="list">
 <p class="p">Kontrollera att du använder korrekt typ av trådlös säkerhet</p>
@@ -69,7 +69,7 @@
 </li>
 <li class="list">
 <p class="p">Kontrollera att ditt trådlösa kort har ordentligt stöd</p>
-<p class="p">Vissa trådlösa kort har inte särskilt bra stöd. De visas som en trådlös anslutning, men de kan inte ansluta till ett nätverk eftersom deras drivrutiner saknar möjligheten att göra detta. Se om du kan få tag i en alternativ trådlös drivrutin eller om du behöver utföra någon extra inställning (som att installera en annan <span class="em">fast programvara</span>). Se <span class="link"><a href="net-wireless-troubleshooting.html" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a></span> för vidare information.</p>
+<p class="p">Vissa trådlösa kort har inte särskilt bra stöd. De visas som en trådlös anslutning, men de kan inte ansluta till ett nätverk eftersom deras drivrutiner saknar möjligheten att göra detta. Se om du kan få tag i en alternativ trådlös drivrutin eller om du behöver utföra någon extra inställning (som att installera en annan <span class="em">fast programvara</span>). Se <span class="link"><a href="net-wireless-troubleshooting.html.sv" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a></span> för vidare information.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -78,7 +78,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Trådlösa nätverk">Trådlösa nätverk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Anslut till ett trådlöst nätverk">Anslut till wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Anslut till ett dolt, trådlöst nätverk">Dolda nätverk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Varför kopplar mitt trådlösa nätverk ner hela tiden?">Koppla ifrån</a></span>…</span>
+<a href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlösa nätverk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.sv" title="Anslut till ett trådlöst nätverk">Anslut till wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.sv" title="Anslut till ett dolt, trådlöst nätverk">Dolda nätverk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.sv" title="Varför kopplar mitt trådlösa nätverk ner hela tiden?">Koppla ifrån</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

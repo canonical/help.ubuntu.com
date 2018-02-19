@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Установка и удаление программ">Установка и удаление программ</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.ru" title="Установка и удаление программ">Установка и удаление программ</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Установка языков</span></h1></div>
@@ -51,13 +51,13 @@
 <div class="contents">
 <p class="p">Выбранный при установке Ubuntu язык устанавливается совместно с английским, но в дальнейшем можно добавить и другие языки.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Откройте <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Обзор</a></span> и начните набирать <span class="gui">Язык и регион</span>.</p></li>
+<li class="steps"><p class="p">Откройте <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Обзор</a></span> и начните набирать <span class="gui">Язык и регион</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Язык и регион</span>, чтобы открыть панель.</p></li>
 <li class="steps"><p class="p">Нажмите кнопку <span class="gui">Управление установленными языками</span>, чтобы открыть <span class="gui">Язык системы</span>.</p></li>
 <li class="steps"><p class="p">Щёлкните <span class="gui">Установка и удаление языков...</span>. Окно <span class="gui">Установленные языки</span> покажет список всех имеющихся языков, уже установленные языки отмечены в списке.</p></li>
 <li class="steps"><p class="p">Отметьте языки, которые требуется установить, и снимите метки с тех языков, которые нужно удалить.</p></li>
 <li class="steps"><p class="p">Щёлкните <span class="gui">Применить изменения</span>.</p></li>
-<li class="steps"><p class="p">Потребуются <span class="link"><a href="user-admin-explain.html" title="Как работают административные полномочия?">административные привилегии</a></span>. Введите ваш пароль или пароль запрашиваемой учётной записи администратора.</p></li>
+<li class="steps"><p class="p">Потребуются <span class="link"><a href="user-admin-explain.html.ru" title="Как работают административные полномочия?">административные привилегии</a></span>. Введите ваш пароль или пароль запрашиваемой учётной записи администратора.</p></li>
 </ol></div></div></div>
 <p class="p">Вместе с новым языком, как дополнение к переводам меню и сообщений, могут быть установлены различные компоненты поддержки языка, такие как словари для проверки правописания, шрифты и методы ввода.</p>
 <div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">Некоторые переводы могут оказаться неполными, а отдельные приложения могут совсем не поддерживать ваш язык.</p></div></div></div></div>
@@ -68,17 +68,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Установка и удаление программ">Установка и удаление программ</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Установка дополнительных приложений">Установка приложений</a></span>, <span class="link"><a href="addremove-remove.html" title="Удаление приложения">удаление приложений</a></span>, <span class="link"><a href="addremove-sources.html" title="Добавление репозиториев программного обеспечения">добавление репозиториев</a></span>…</span>
+<a href="addremove.html.ru" title="Установка и удаление программ">Установка и удаление программ</a><span class="desc"> — <span class="link"><a href="addremove-install.html.ru" title="Установка дополнительных приложений">Установка приложений</a></span>, <span class="link"><a href="addremove-remove.html.ru" title="Удаление приложения">удаление приложений</a></span>, <span class="link"><a href="addremove-sources.html.ru" title="Добавление репозиториев программного обеспечения">добавление репозиториев</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Установка дополнительных приложений">Установка дополнительных приложений</a><span class="desc"> — Используйте <span class="app">Менеджер приложений Ubuntu</span> для установки дополнительных полезных приложений.</span>
+<a href="addremove-install.html.ru" title="Установка дополнительных приложений">Установка дополнительных приложений</a><span class="desc"> — Используйте <span class="app">Менеджер приложений Ubuntu</span> для установки дополнительных полезных приложений.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Язык и регион">Язык и регион</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Изменение языка">Язык</a></span>, <span class="link"><a href="session-formats.html" title="Изменение форматов даты и единиц измерения">регион и форматы</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">раскладки клавиатуры</a></span>…</span>
+<a href="prefs-language.html.ru" title="Язык и регион">Язык и регион</a><span class="desc"> — <span class="link"><a href="session-language.html.ru" title="Изменение языка">Язык</a></span>, <span class="link"><a href="session-formats.html.ru" title="Изменение форматов даты и единиц измерения">регион и форматы</a></span>, <span class="link"><a href="keyboard-layouts.html.ru" title="Использование альтернативных раскладок клавиатуры">раскладки клавиатуры</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

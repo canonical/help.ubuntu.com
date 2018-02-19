@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="prefs-language.html" title="Region &amp; språk">Region &amp; språk</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="prefs-language.html.sv" title="Region &amp; språk">Region &amp; språk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ändra datum och mätvärden</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Du kan styra formaten som används för datum, tider, tal, valuta och mätningar så att de matchar lokala seder i din region.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Region &amp; språk</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Region &amp; språk</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Region &amp; språk</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Format</span>.</p></li>
 <li class="steps"><p class="p">Välj den region som bäst passar formaten som du önskar använda. Om din region och språk inte är listade, klicka på <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> längst ner i listan för att välja bland alla tillgängliga regioner och språk.</p></li>
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Region &amp; språk">Region &amp; språk</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Ändra vilket språk du använder">Ändra språk</a></span>, <span class="link"><a href="session-formats.html" title="Ändra datum och mätvärden">region och format</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Använd alternativa tangentbordslayouter">tangentbordslayouter</a></span>…</span>
+<a href="prefs-language.html.sv" title="Region &amp; språk">Region &amp; språk</a><span class="desc"> — <span class="link"><a href="session-language.html.sv" title="Ändra vilket språk du använder">Ändra språk</a></span>, <span class="link"><a href="session-formats.html.sv" title="Ändra datum och mätvärden">region och format</a></span>, <span class="link"><a href="keyboard-layouts.html.sv" title="Använd alternativa tangentbordslayouter">tangentbordslayouter</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-language.html" title="Ändra vilket språk du använder">Ändra vilket språk du använder</a><span class="desc"> — Växla till ett annat språk för användargränssnittet och hjälptext.</span>
+<a href="session-language.html.sv" title="Ändra vilket språk du använder">Ändra vilket språk du använder</a><span class="desc"> — Växla till ett annat språk för användargränssnittet och hjälptext.</span>
 </li></ul></div>
 </div></div>
 </div>

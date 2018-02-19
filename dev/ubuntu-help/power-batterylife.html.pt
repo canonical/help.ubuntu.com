@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="power.html" title="Energia e bateria">Energia e bateria</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="power.html.pt" title="Energia e bateria">Energia e bateria</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="power.html" title="Energia e bateria">Energia e bateria</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> » <a class="trail" href="power.html.pt" title="Energia e bateria">Energia e bateria</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,9 +56,9 @@
 <div id="general" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Conselhos gerais</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#suspend" title="Suspender">Suspenda o seu computador</a></span> quando não o esteja utilizando. Isto reduz significativamente a energia que consome e pode retomar a computador muito rápidamente.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#shutdown" title="Apagar ou reiniciar">Apague</a></span> a computador quando não o vá usar durante muito tempo. Algumas pessoas acham que apagar uma computador com regularidade pode fazer que se desgaste mais rápidamente, mas não é o caso.</p></li>
-<li class="list"><p class="p">Use o painel de <span class="gui">Energia</span> na <span class="app">Configuração</span> para mudar suas opções de energia. Há várias opções que podem lhe ajudar a poupar energia: pode <span class="link"><a href="display-blank.html" title="Estabelecer o tempo de escurecimento do ecrã">atenuar automaticamente o ecrã</a></span> passado um verdadeiro tempo; reduzir o <span class="link"><a href="display-brightness.html" title="Estabelecer o brilho do ecrã">brilho do ecrã</a></span> e fazer que a computador <span class="link"><a href="power-autosuspend.html" title="Configurar a suspensão automática">se suspenda automaticamente</a></span> se não o usa durante um verdadeiro período de tempo.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.pt#suspend" title="Suspender">Suspenda o seu computador</a></span> quando não o esteja utilizando. Isto reduz significativamente a energia que consome e pode retomar a computador muito rápidamente.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.pt#shutdown" title="Apagar ou reiniciar">Apague</a></span> a computador quando não o vá usar durante muito tempo. Algumas pessoas acham que apagar uma computador com regularidade pode fazer que se desgaste mais rápidamente, mas não é o caso.</p></li>
+<li class="list"><p class="p">Use o painel de <span class="gui">Energia</span> na <span class="app">Configuração</span> para mudar suas opções de energia. Há várias opções que podem lhe ajudar a poupar energia: pode <span class="link"><a href="display-blank.html.pt" title="Estabelecer o tempo de escurecimento do ecrã">atenuar automaticamente o ecrã</a></span> passado um verdadeiro tempo; reduzir o <span class="link"><a href="display-brightness.html.pt" title="Estabelecer o brilho do ecrã">brilho do ecrã</a></span> e fazer que a computador <span class="link"><a href="power-autosuspend.html.pt" title="Configurar a suspensão automática">se suspenda automaticamente</a></span> se não o usa durante um verdadeiro período de tempo.</p></li>
 <li class="list"><p class="p">Apague qualquer dispositivo externo (como impressoras ou escáneres) quando não os use.</p></li>
 </ul></div></div></div></div></div>
 </div></div>
@@ -66,7 +66,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Portáteis, netbooks e outros dispositivos com baterias</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Reduzir o <span class="link"><a href="display-brightness.html" title="Estabelecer o brilho do ecrã">brilho do ecrã</a></span>; o consumo de energia do ecrã supõe uma parte significativa do consumo de energia total dum portátil.</p>
+<p class="p">Reduzir o <span class="link"><a href="display-brightness.html.pt" title="Estabelecer o brilho do ecrã">brilho do ecrã</a></span>; o consumo de energia do ecrã supõe uma parte significativa do consumo de energia total dum portátil.</p>
 <p class="p">A maioria de porta-hostis têm botões no teclado (ou uma combinação de teclas) que pode usar para reduzir o brilho.</p>
 </li>
 <li class="list">
@@ -88,31 +88,31 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Energia e bateria">Energia e bateria</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Verifique o estado da bateria">Estado da bateria</a></span>, <span class="link"><a href="power-suspend.html" title="Que ocorre quando suspendo a computador?">suspender</a></span>, <span class="link"><a href="power-whydim.html" title="Por que meu ecrã se escurece após um tempo?">enfraquecimento do ecrã</a></span>…</span>
+<a href="power.html.pt" title="Energia e bateria">Energia e bateria</a><span class="desc"> — <span class="link"><a href="power-status.html.pt" title="Verifique o estado da bateria">Estado da bateria</a></span>, <span class="link"><a href="power-suspend.html.pt" title="Que ocorre quando suspendo a computador?">suspender</a></span>, <span class="link"><a href="power-whydim.html.pt" title="Por que meu ecrã se escurece após um tempo?">enfraquecimento do ecrã</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html#shutdown" title="Apagar ou reiniciar">Apagar ou reiniciar</a></li>
+<li class="links "><a href="shell-exit.html.pt#shutdown" title="Apagar ou reiniciar">Apagar ou reiniciar</a></li>
 <li class="links ">
-<a href="power-wireless.html" title="Desativar os dispositivos sem fios não usados">Desativar os dispositivos sem fios não usados</a><span class="desc"> — Pode-se apagar o Bluetooth, a rede WiFi e a rede de banda larga para reduzir o consumo de bateria.</span>
+<a href="power-wireless.html.pt" title="Desativar os dispositivos sem fios não usados">Desativar os dispositivos sem fios não usados</a><span class="desc"> — Pode-se apagar o Bluetooth, a rede WiFi e a rede de banda larga para reduzir o consumo de bateria.</span>
 </li>
 <li class="links ">
-<a href="display-brightness.html" title="Estabelecer o brilho do ecrã">Estabelecer o brilho do ecrã</a><span class="desc"> — Mudar o brilho do ecrã para fazê-la mais legível em condições de muita luz ambiental.</span>
+<a href="display-brightness.html.pt" title="Estabelecer o brilho do ecrã">Estabelecer o brilho do ecrã</a><span class="desc"> — Mudar o brilho do ecrã para fazê-la mais legível em condições de muita luz ambiental.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="Por que meu ecrã se escurece após um tempo?">Por que meu ecrã se escurece após um tempo?</a><span class="desc"> — O ecrã escurecer-se-á quando a computador esteja inativa para poupar energia.</span>
+<a href="power-whydim.html.pt" title="Por que meu ecrã se escurece após um tempo?">Por que meu ecrã se escurece após um tempo?</a><span class="desc"> — O ecrã escurecer-se-á quando a computador esteja inativa para poupar energia.</span>
 </li>
 <li class="links ">
-<a href="power-batterywindows.html" title="Por que tenho menor tempo de bateria que o que tinha em Windows/Mac VOS?">Por que tenho menor tempo de bateria que o que tinha em Windows/Mac VOS?</a><span class="desc"> — Os ajustes dos fabricantes e diferentes estimativas de duração da bateria podem ser a causa deste problema.</span>
+<a href="power-batterywindows.html.pt" title="Por que tenho menor tempo de bateria que o que tinha em Windows/Mac VOS?">Por que tenho menor tempo de bateria que o que tinha em Windows/Mac VOS?</a><span class="desc"> — Os ajustes dos fabricantes e diferentes estimativas de duração da bateria podem ser a causa deste problema.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Que ocorre quando suspendo a computador?">Que ocorre quando suspendo a computador?</a><span class="desc"> — Suspender põe o seu computador a dormir para que use menos energia.</span>
+<a href="power-suspend.html.pt" title="Que ocorre quando suspendo a computador?">Que ocorre quando suspendo a computador?</a><span class="desc"> — Suspender põe o seu computador a dormir para que use menos energia.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Suspender">Suspender</a></li>
+<li class="links "><a href="shell-exit.html.pt#suspend" title="Suspender">Suspender</a></li>
 <li class="links ">
-<a href="power-status.html" title="Verifique o estado da bateria">Verifique o estado da bateria</a><span class="desc"> — Mostrar o estado da bateria e dos dispositivos conetados.</span>
+<a href="power-status.html.pt" title="Verifique o estado da bateria">Verifique o estado da bateria</a><span class="desc"> — Mostrar o estado da bateria e dos dispositivos conetados.</span>
 </li>
 </ul></div>
 </div></div>

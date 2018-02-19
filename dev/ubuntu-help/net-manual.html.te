@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html" title="Wired Networking">Wired Networking</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.te" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.te" title="Wired Networking">Wired Networking</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="నిస్తంత్రి నెట్‌వర్కింగు">నిస్తంత్రి నెట్‌వర్కింగు</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.te" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.te" title="నిస్తంత్రి నెట్‌వర్కింగు">నిస్తంత్రి నెట్‌వర్కింగు</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,7 +61,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">To manually set your network settings:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.te#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps">
@@ -77,7 +77,7 @@
 </li>
 <li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
       and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>
-<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html" title="What is an IP address?">IP Address</a></span> and
+<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html.te" title="What is an IP address?">IP Address</a></span> and
       <span class="gui">Gateway</span>, as well as the appropriate <span class="gui">Netmask</span>.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">DNS</span> section, switch <span class="gui">Automatic</span> to
       <span class="gui">OFF</span>. Enter the IP address of a DNS server you want to use.
@@ -99,16 +99,16 @@
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wired.html" title="Wired Networking">Wired Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wired-connect.html" title="Connect to a wired (Ethernet) network">Wired internet connections</a></span>,
-      <span class="link"><a href="net-fixed-ip-address.html" title="Create a connection with a fixed IP address">Fixed IP addresses</a></span>…
+<a href="net-wired.html.te" title="Wired Networking">Wired Networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wired-connect.html.te" title="Connect to a wired (Ethernet) network">Wired internet connections</a></span>,
+      <span class="link"><a href="net-fixed-ip-address.html.te" title="Create a connection with a fixed IP address">Fixed IP addresses</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="net-wireless.html" title="నిస్తంత్రి నెట్‌వర్కింగు">నిస్తంత్రి నెట్‌వర్కింగు</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
+<a href="net-wireless.html.te" title="నిస్తంత్రి నెట్‌వర్కింగు">నిస్తంత్రి నెట్‌వర్కింగు</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.te" title="Connect to a wireless network">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.te" title="Connect to a hidden wireless network">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.te" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
     </span>
 </li>
 </ul></div>

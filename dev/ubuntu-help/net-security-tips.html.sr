@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-general.html" title="Услови умрежавања и савети">Услови умрежавања и савети</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-general.html.sr" title="Услови умрежавања и савети">Услови умрежавања и савети</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Останите безбедни на интернету</span></h1></div>
@@ -53,16 +53,16 @@
 <p class="p">Упркос мерама које су предузете како би се обезбедила безбедност ваше инсталације Линукса, увек постоје слабости. Као просечан корисник на интернету још увек можете бити осетљиви на:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Преваре упецавања (веб сајтови који покушавају да дознају поверљиве податке путем обмане)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html" title="Да ли требам да прегледам моју пошту за вирусима?">Прослеђивање злонамерних е-порука</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html" title="Да ли ми је потребан анти-вирус?">Програме са лошим намерама (вируси)</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html" title="Шта значи ВЕП и ВПА?">Неовлашћени удаљени/локални мрежни приступ</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.sr" title="Да ли требам да прегледам моју пошту за вирусима?">Прослеђивање злонамерних е-порука</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.sr" title="Да ли ми је потребан анти-вирус?">Програме са лошим намерама (вируси)</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.sr" title="Шта значи ВЕП и ВПА?">Неовлашћени удаљени/локални мрежни приступ</a></span></p></li>
 </ul></div></div></div>
 <p class="p">Да сачувате безбедност на мрежи, упамтите добро следеће савете:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Припазите на е-пошту, прилоге, или везе које су вам послали људи које не познајете.</p></li>
 <li class="list"><p class="p">Ако је понуда веб сајта превише добра да би била истинита, или ако вам тражи поверљиве податке који изгледају неопходни, размислите два пута о томе које податке шаљете и о могућим последицама ако тај податак злоупотребе крадљивци идентитета или други зликовци.</p></li>
-<li class="list"><p class="p">Будите пажљиви приликом додељивања <span class="link"><a href="user-admin-explain.html" title="Како функционишу администраторска овлашћења?">овлашћења на нивоу администратора</a></span> неком програму, нарочито онима које пре тога нисте користили или програмима који су слабо познати. Обезбедити било коме/било шта са овлашћењима на нивоу администратора излаже ваш рачунар високом нивоу искоришћавања.</p></li>
-<li class="list"><p class="p">Будите сигурни да сте покренули само неопходне услуге удаљеног приступа. Покретање безбедне шкољке или ВНЦ-а може бити корисно, али такође оставља ваш рачунар отвореним за упаде ако није обезбеђен на прави начин. Размотрите употребу <span class="link"><a href="net-firewall-on-off.html" title="Укључите или блокирајте приступ мрежне баријере">мрежне баријере</a></span> да заштитите рачунар од упада.</p></li>
+<li class="list"><p class="p">Будите пажљиви приликом додељивања <span class="link"><a href="user-admin-explain.html.sr" title="Како функционишу администраторска овлашћења?">овлашћења на нивоу администратора</a></span> неком програму, нарочито онима које пре тога нисте користили или програмима који су слабо познати. Обезбедити било коме/било шта са овлашћењима на нивоу администратора излаже ваш рачунар високом нивоу искоришћавања.</p></li>
+<li class="list"><p class="p">Будите сигурни да сте покренули само неопходне услуге удаљеног приступа. Покретање безбедне шкољке или ВНЦ-а може бити корисно, али такође оставља ваш рачунар отвореним за упаде ако није обезбеђен на прави начин. Размотрите употребу <span class="link"><a href="net-firewall-on-off.html.sr" title="Укључите или блокирајте приступ мрежне баријере">мрежне баријере</a></span> да заштитите рачунар од упада.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Услови умрежавања и савети">Услови умрежавања и савети</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Сазнајте вашу ИП адресу">Сазнајте вашу ИП адресу</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Шта значи ВЕП и ВПА?">ВЕП и ВПА безбедност</a></span>, <span class="link"><a href="net-macaddress.html" title="Шта је то МАК адреса?">МАК адресе</a></span>, <span class="link"><a href="net-proxy.html" title="Одредите подешавања посредника">посредници</a></span>…</span>
+<a href="net-general.html.sr" title="Услови умрежавања и савети">Услови умрежавања и савети</a><span class="desc"> — <span class="link"><a href="net-findip.html.sr" title="Сазнајте вашу ИП адресу">Сазнајте вашу ИП адресу</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.sr" title="Шта значи ВЕП и ВПА?">ВЕП и ВПА безбедност</a></span>, <span class="link"><a href="net-macaddress.html.sr" title="Шта је то МАК адреса?">МАК адресе</a></span>, <span class="link"><a href="net-proxy.html.sr" title="Одредите подешавања посредника">посредници</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

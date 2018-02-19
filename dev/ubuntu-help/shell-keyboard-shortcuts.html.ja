@@ -44,27 +44,27 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">デスクトップ</a> › <a class="trail" href="shell-overview.html#apps" title="アプリケーションとウィンドウ">アプリケーションとウィンドウ</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ja" title="Your desktop">デスクトップ</a> › <a class="trail" href="shell-overview.html.ja#apps" title="アプリケーションとウィンドウ">アプリケーションとウィンドウ</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="keyboard.html" title="キーボード">キーボード</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="keyboard.html.ja" title="キーボード">キーボード</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="ヒントとコツ">ヒントとコツ</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.ja" title="ヒントとコツ">ヒントとコツ</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="keyboard.html" title="キーボード">キーボード</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ja" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="keyboard.html.ja" title="キーボード">キーボード</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">便利なキーボードショートカット</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">このページでは、デスクトップやアプリケーションをより効率的に使う上で役に立つキーボードショートカットの概要を説明します。マウスやポインティングデバイスの使用が困難である場合は、キーボードだけを使った操作法の詳細について <span class="link"><a href="keyboard-nav.html" title="キーボード操作">キーボード操作</a></span> を参照してください。</p>
+<p class="p">このページでは、デスクトップやアプリケーションをより効率的に使う上で役に立つキーボードショートカットの概要を説明します。マウスやポインティングデバイスの使用が困難である場合は、キーボードだけを使った操作法の詳細について <span class="link"><a href="keyboard-nav.html.ja" title="キーボード操作">キーボード操作</a></span> を参照してください。</p>
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="true"></div>
 <div class="inner">
 <div class="title title-table"><h2><span class="title">デスクトップを使いこなす</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> または <span class="link"><a href="keyboard-key-super.html" title="Super キーとは何ですか?">Super</a></span> キー</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> または <span class="link"><a href="keyboard-key-super.html.ja" title="Super キーとは何ですか?">Super</a></span> キー</p></td>
 <td><p class="p"><span class="gui">アクティビティ</span>画面とデスクトップを切り替えます。アクティビティ画面では、キー入力を始めるとすぐに、アプリケーション、連絡先、ドキュメントの検索が行われます。</p></td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="ウィンドウを切り替える">すばやくウィンドウを切り替えます</a></span>。<span class="key"><kbd>Shift</kbd></span>を押しながらの場合は、切り替え順序が逆転します。</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.ja" title="ウィンドウを切り替える">すばやくウィンドウを切り替えます</a></span>。<span class="key"><kbd>Shift</kbd></span>を押しながらの場合は、切り替え順序が逆転します。</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
@@ -100,11 +100,11 @@
       <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> or
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span>
     </p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="ワークスペースを切り替える">ワークスペースを切り替えます</a></span>。</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.ja" title="ワークスペースを切り替える">ワークスペースを切り替えます</a></span>。</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> および <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="ウィンドウを別のワークスペースへ移動する">現在のウィンドウを別のワークスペースへ移します</a></span>。</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.ja" title="ウィンドウを別のワークスペースへ移動する">現在のウィンドウを別のワークスペースへ移します</a></span>。</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
@@ -116,15 +116,15 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html" title="ログアウト、電源オフ、ユーザー切り替え">Power Off</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.ja" title="ログアウト、電源オフ、ユーザー切り替え">Power Off</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html#lock-screen" title="画面のロック">画面をロックします</a></span>。</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.ja#lock-screen" title="画面のロック">画面をロックします</a></span>。</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Open <span class="link"><a href="shell-notifications.html#messagetray" title="メッセージトレイ">the message
+<td style="border-top-style: solid;"><p class="p">Open <span class="link"><a href="shell-notifications.html.ja#messagetray" title="メッセージトレイ">the message
     tray</a></span>. Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> again or
     <span class="key"><kbd>Esc</kbd></span> to close.</p></td>
 </tr>
@@ -166,19 +166,19 @@
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p"><span class="key"><kbd>Prnt Scrn</kbd></span></p></td>
-<td><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="スクリーンショットを撮る">スクリーンショットを撮ります</a></span>。</p></td>
+<td><p class="p"><span class="link"><a href="screen-shot-record.html.ja#screenshot" title="スクリーンショットを撮る">スクリーンショットを撮ります</a></span>。</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Prnt Scrn</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="スクリーンショットを撮る">ウィンドウのスクリーンショットを撮ります</a></span>。</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.ja#screenshot" title="スクリーンショットを撮る">ウィンドウのスクリーンショットを撮ります</a></span>。</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Prnt Scrn</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="スクリーンショットを撮る">選択領域のスクリーンショットを撮ります</a></span>。マウスポインターが十字型に変わります。ドラッグして領域を選択します。</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.ja#screenshot" title="スクリーンショットを撮る">選択領域のスクリーンショットを撮ります</a></span>。マウスポインターが十字型に変わります。ドラッグして領域を選択します。</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screencast" title="スクリーンキャストの作成">スクリーンキャストの録画を開始します</a></span>。</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.ja#screencast" title="スクリーンキャストの作成">スクリーンキャストの録画を開始します</a></span>。</p></td>
 </tr>
 </table></div>
 </div>
@@ -190,12 +190,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-overview.html#apps" title="アプリケーションとウィンドウ">アプリケーションとウィンドウ</a></li>
+<li class="links "><a href="shell-overview.html.ja#apps" title="アプリケーションとウィンドウ">アプリケーションとウィンドウ</a></li>
 <li class="links ">
-<a href="keyboard.html" title="キーボード">キーボード</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">キーボードレイアウト</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="キーボードのカーソルを点滅させる">カーソル点滅</a></span>, <span class="link"><a href="a11y.html#mobility" title="運動障害">キーボードのアクセシビリティ</a></span>…</span>
+<a href="keyboard.html.ja" title="キーボード">キーボード</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ja" title="Use alternative keyboard layouts">キーボードレイアウト</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ja" title="キーボードのカーソルを点滅させる">カーソル点滅</a></span>, <span class="link"><a href="a11y.html.ja#mobility" title="運動障害">キーボードのアクセシビリティ</a></span>…</span>
 </li>
 <li class="links ">
-<a href="tips.html" title="ヒントとコツ">ヒントとコツ</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="特殊な文字を入力する">特殊文字</a></span>、<span class="link"><a href="mouse-middleclick.html" title="中クリック">中クリックのショートカット</a></span>…</span>
+<a href="tips.html.ja" title="ヒントとコツ">ヒントとコツ</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.ja" title="特殊な文字を入力する">特殊文字</a></span>、<span class="link"><a href="mouse-middleclick.html.ja" title="中クリック">中クリックのショートカット</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -203,16 +203,16 @@
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-key-menu.html" title="Menu キーとは何ですか?"><span class="key"><kbd>Menu</kbd></span> キーとは何ですか?</a><span class="desc"> — <span class="key"><kbd>Menu</kbd></span> キーを使うと、マウスの右クリックを行わずにキーボードからコンテキストメニューを開くことができます。</span>
+<a href="keyboard-key-menu.html.ja" title="Menu キーとは何ですか?"><span class="key"><kbd>Menu</kbd></span> キーとは何ですか?</a><span class="desc"> — <span class="key"><kbd>Menu</kbd></span> キーを使うと、マウスの右クリックを行わずにキーボードからコンテキストメニューを開くことができます。</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html" title="Super キーとは何ですか?"><span class="key"><kbd>Super</kbd></span> キーとは何ですか?</a><span class="desc"> — <span class="key"><kbd>Super</kbd></span> キーは<span class="gui">アクティビティ</span>画面を開くのに使用します。通常、このキーはキーボードの <span class="key"><kbd>Alt</kbd></span> キーの隣にあります。</span>
+<a href="keyboard-key-super.html.ja" title="Super キーとは何ですか?"><span class="key"><kbd>Super</kbd></span> キーとは何ですか?</a><span class="desc"> — <span class="key"><kbd>Super</kbd></span> キーは<span class="gui">アクティビティ</span>画面を開くのに使用します。通常、このキーはキーボードの <span class="key"><kbd>Alt</kbd></span> キーの隣にあります。</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="キーボードショートカットを設定する">キーボードショートカットを設定する</a><span class="desc"> — <span class="gui">キーボード</span>の設定でキーボードショートカットの割り当て、変更を行います。</span>
+<a href="keyboard-shortcuts-set.html.ja" title="キーボードショートカットを設定する">キーボードショートカットを設定する</a><span class="desc"> — <span class="gui">キーボード</span>の設定でキーボードショートカットの割り当て、変更を行います。</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html" title="キーボード操作">キーボード操作</a><span class="desc"> — マウスなしでアプリケーションやデスクトップを使います。</span>
+<a href="keyboard-nav.html.ja" title="キーボード操作">キーボード操作</a><span class="desc"> — マウスなしでアプリケーションやデスクトップを使います。</span>
 </li>
 </ul></div>
 </div></div>

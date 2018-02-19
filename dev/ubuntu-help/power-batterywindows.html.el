@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="power.html" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> › <a class="trail" href="power.html#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="power.html.el" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> › <a class="trail" href="power.html.el#faq" title="Questions">Questions</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="power.html" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> › <a class="trail" href="power.html#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="power.html.el" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> › <a class="trail" href="power.html.el#faq" title="Questions">Questions</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Μερικοί υπολογιστές εμφανίζονται να έχουν πιο σύντομη ζωή μπαταρίας όταν εκτελούνται σε Linux παρά όταν εκτελούνται σε Windows ή Mac OS. Ένας λόγος για αυτό είναι ότι οι πωλητές υπολογιστών εγκαθιστούν ειδικό λογισμικό για Windows/Mac OS που βελτιστοποιεί ποικίλες ρυθμίσεις υλικού/λογισμικού για ένα δεδομένο μοντέλο υπολογιστή. Αυτές οι μικρορυθμίσεις είναι συχνά πολύ ειδικές και ατεκμηρίωτες, έτσι η συμπερίληψη τους στα Linux είναι δύσκολη.</p>
-<p class="p">Δυστυχώς, δεν υπάρχει εύκολος τρόπος εφαρμογής αυτών των μικρορυθμίσεων από εσάς χωρίς την ακριβή γνώση τους. Μπορεί να βρείτε ότι η χρήση μερικών <span class="link"><a href="power-batterylife.html" title="Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας">μεθόδων αποθήκευσης ισχύος</a></span> βοηθά, όμως. Εάν ο υπολογιστής σας έχει έναν <span class="link"><a href="power-batteryslow.html" title="Γιατί είναι ο φορητός υπολογιστής μου επιβραδύνεται όταν δουλεύει με μπαταρία;">επεξεργαστή μεταβλητής ταχύτητας</a></span>, μπορεί να βρείτε ότι η αλλαγή των ρυθμίσεων του είναι επίσης χρήσιμη.</p>
+<p class="p">Δυστυχώς, δεν υπάρχει εύκολος τρόπος εφαρμογής αυτών των μικρορυθμίσεων από εσάς χωρίς την ακριβή γνώση τους. Μπορεί να βρείτε ότι η χρήση μερικών <span class="link"><a href="power-batterylife.html.el" title="Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας">μεθόδων αποθήκευσης ισχύος</a></span> βοηθά, όμως. Εάν ο υπολογιστής σας έχει έναν <span class="link"><a href="power-batteryslow.html.el" title="Γιατί είναι ο φορητός υπολογιστής μου επιβραδύνεται όταν δουλεύει με μπαταρία;">επεξεργαστή μεταβλητής ταχύτητας</a></span>, μπορεί να βρείτε ότι η αλλαγή των ρυθμίσεων του είναι επίσης χρήσιμη.</p>
 <p class="p">Ένας άλλος πιθανός λόγος για την διαφορά είναι ότι η μέθοδος της εκτίμησης της ζωής της μπαταρίας είναι διαφορετική σε Windows/Mac OS παρά σε Linux. Η ενεργή ζωή μπαταρίας μπορεί να είναι ακριβώς η ίδια, αλλά οι διαφορετικές μέθοδοι δίνουν διαφορετικές εκτιμήσεις.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,19 +62,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Questions">Questions</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.el#faq" title="Questions">Questions</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batteryslow.html" title="Γιατί είναι ο φορητός υπολογιστής μου επιβραδύνεται όταν δουλεύει με μπαταρία;">Γιατί είναι ο φορητός υπολογιστής μου επιβραδύνεται όταν δουλεύει με μπαταρία;</a><span class="desc"> — Μερικοί φορητοί επιβραδύνονται επίτηδες όταν εκτελούνται με μπαταρία.</span>
+<a href="power-batteryslow.html.el" title="Γιατί είναι ο φορητός υπολογιστής μου επιβραδύνεται όταν δουλεύει με μπαταρία;">Γιατί είναι ο φορητός υπολογιστής μου επιβραδύνεται όταν δουλεύει με μπαταρία;</a><span class="desc"> — Μερικοί φορητοί επιβραδύνονται επίτηδες όταν εκτελούνται με μπαταρία.</span>
 </li>
 <li class="links ">
-<a href="power-batteryestimate.html" title="Η εκτιμώμενη ζωή της μπαταρίας είναι εσφαλμένη">Η εκτιμώμενη ζωή της μπαταρίας είναι εσφαλμένη</a><span class="desc"> — Η εμφανιζόμενη ζωή της μπαταρίας όταν κάνετε κλικ στο <span class="gui">εικονίδιο μπαταρίας</span> είναι μια εκτίμηση.</span>
+<a href="power-batteryestimate.html.el" title="Η εκτιμώμενη ζωή της μπαταρίας είναι εσφαλμένη">Η εκτιμώμενη ζωή της μπαταρίας είναι εσφαλμένη</a><span class="desc"> — Η εμφανιζόμενη ζωή της μπαταρίας όταν κάνετε κλικ στο <span class="gui">εικονίδιο μπαταρίας</span> είναι μια εκτίμηση.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας">Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας</a><span class="desc"> — Συμβουλές για μείωση της κατανάλωσης ισχύος του υπολογιστή σας.</span>
+<a href="power-batterylife.html.el" title="Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας">Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας</a><span class="desc"> — Συμβουλές για μείωση της κατανάλωσης ισχύος του υπολογιστή σας.</span>
 </li>
 </ul></div>
 </div></div>

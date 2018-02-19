@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="keyboard.html" title="Tangentbord">Tangentbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="keyboard.html.sv" title="Tangentbord">Tangentbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="keyboard.html" title="Tangentbord">Tangentbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="keyboard.html.sv" title="Tangentbord">Tangentbord</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -64,16 +64,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="Tangentbord">Tangentbord</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Använd alternativa tangentbordslayouter">Tangentbordslayouter</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Få tangentbordsmarkören att blinka">markörblinkning</a></span>, <span class="link"><a href="a11y.html#mobility" title="Rörelsehinder">tangentbordshjälpmedel</a></span>…</span>
+<a href="keyboard.html.sv" title="Tangentbord">Tangentbord</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.sv" title="Använd alternativa tangentbordslayouter">Tangentbordslayouter</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sv" title="Få tangentbordsmarkören att blinka">markörblinkning</a></span>, <span class="link"><a href="a11y.html.sv#mobility" title="Rörelsehinder">tangentbordshjälpmedel</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Användbara tangentbordsgenvägar">Användbara tangentbordsgenvägar</a><span class="desc"> — Ta sig runt på skrivbordet med hjälp av tangentbordet.</span>
+<a href="shell-keyboard-shortcuts.html.sv" title="Användbara tangentbordsgenvägar">Användbara tangentbordsgenvägar</a><span class="desc"> — Ta sig runt på skrivbordet med hjälp av tangentbordet.</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Rörelsehinder">Rörelsehinder</a></li>
+<li class="links "><a href="a11y.html.sv#mobility" title="Rörelsehinder">Rörelsehinder</a></li>
 </ul></div>
 </div></div>
 </div>

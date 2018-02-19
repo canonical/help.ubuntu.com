@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Универзални приступ">Универзални приступ</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.sr" title="Универзални приступ">Универзални приступ</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Пронађите изборник универзалног приступа</span></h1></div>
@@ -58,7 +58,7 @@
 </div></div>
 <p class="p">Ако не видите изборник универзалног приступа, можете да га укључите са панела подешавања <span class="gui">Универзалног приступа</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Универзални приступ</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Универзални приступ</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Универзални приступ</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Пребаците <span class="gui">Увек прикажи изборник универзалног приступа</span> на <span class="gui">УКЉ.</span>.</p></li>
 </ol></div></div></div>
@@ -69,7 +69,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y.html" title="Универзални приступ">Универзални приступ</a><span class="desc"> — <span class="link"><a href="a11y.html#vision" title="Оштећења вида">Видети</a></span>, <span class="link"><a href="a11y.html#sound" title="Оштећења слуха">чути</a></span>, <span class="link"><a href="a11y.html#mobility" title="Оштећења покрета">покретљивост</a></span>, <span class="link"><a href="a11y-braille.html" title="Читајте екран Брајевим писмом">брајево писмо</a></span>, <span class="link"><a href="a11y-mag.html" title="Повећајте област екрана">увеличавач екрана</a></span>…</span>
+<a href="a11y.html.sr" title="Универзални приступ">Универзални приступ</a><span class="desc"> — <span class="link"><a href="a11y.html.sr#vision" title="Оштећења вида">Видети</a></span>, <span class="link"><a href="a11y.html.sr#sound" title="Оштећења слуха">чути</a></span>, <span class="link"><a href="a11y.html.sr#mobility" title="Оштећења покрета">покретљивост</a></span>, <span class="link"><a href="a11y-braille.html.sr" title="Читајте екран Брајевим писмом">брајево писмо</a></span>, <span class="link"><a href="a11y-mag.html.sr" title="Повећајте област екрана">увеличавач екрана</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

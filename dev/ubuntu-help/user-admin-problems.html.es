@@ -43,35 +43,35 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="user-accounts.html" title="Cuentas de usuario">Usuarios</a> › <a class="trail" href="user-accounts.html#privileges" title="Privilegios del usuario">Privilegios</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="user-accounts.html.es" title="Cuentas de usuario">Usuarios</a> › <a class="trail" href="user-accounts.html.es#privileges" title="Privilegios del usuario">Privilegios</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problemas causados por restricciones administrativas</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Puede tener algunos problemas si no tiene <span class="link"><a href="user-admin-explain.html" title="¿Cómo funcionan los privilegios de administrador?">privilegios de administrador</a></span>. Algunas tareas necesitan privilegios de administrador para funcionar, por ejemplo:</p>
+<p class="p">Puede tener algunos problemas si no tiene <span class="link"><a href="user-admin-explain.html.es" title="¿Cómo funcionan los privilegios de administrador?">privilegios de administrador</a></span>. Algunas tareas necesitan privilegios de administrador para funcionar, por ejemplo:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">conectarse a redes cableadas/inalámbricas,</p></li>
 <li class="list"><p class="p">ver el contenido de una partición de disco diferente (ej. una partición de Windows), o</p></li>
 <li class="list"><p class="p">instalar aplicaciones nuevas</p></li>
 </ul></div></div></div>
-<p class="p">Puede <span class="link"><a href="user-admin-change.html" title="Cambiar quién tiene privilegios de administrador">cambiar quién tiene privilegios de administrador</a></span>.</p>
+<p class="p">Puede <span class="link"><a href="user-admin-change.html.es" title="Cambiar quién tiene privilegios de administrador">cambiar quién tiene privilegios de administrador</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Privilegios del usuario">Privilegios del usuario</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.es#privileges" title="Privilegios del usuario">Privilegios del usuario</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-change.html" title="Cambiar quién tiene privilegios de administrador">Cambiar quién tiene privilegios de administrador</a><span class="desc"> — Puede permitir a los usuarios hacer cambios en el sistema dándoles privilegios de administrador.</span>
+<a href="user-admin-change.html.es" title="Cambiar quién tiene privilegios de administrador">Cambiar quién tiene privilegios de administrador</a><span class="desc"> — Puede permitir a los usuarios hacer cambios en el sistema dándoles privilegios de administrador.</span>
 </li>
 <li class="links ">
-<a href="user-admin-explain.html" title="¿Cómo funcionan los privilegios de administrador?">¿Cómo funcionan los privilegios de administrador?</a><span class="desc"> — Necesita privilegios de administrador para cambiar partes importantes de su sistema.</span>
+<a href="user-admin-explain.html.es" title="¿Cómo funcionan los privilegios de administrador?">¿Cómo funcionan los privilegios de administrador?</a><span class="desc"> — Necesita privilegios de administrador para cambiar partes importantes de su sistema.</span>
 </li>
 </ul></div>
 </div></div>

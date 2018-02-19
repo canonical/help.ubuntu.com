@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="more-help.html" title="Få mer hjälp">Få mer hjälp</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="more-help.html.sv" title="Få mer hjälp">Få mer hjälp</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Rapportera ett problem i Ubuntu</span></h1></div>
@@ -78,13 +78,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html" title="Få mer hjälp">Få mer hjälp</a><span class="desc"> — <span class="link"><a href="about-this-guide.html" title="Om denna handbok">Användningstips</a></span>, <span class="link"><a href="get-involved.html" title="Medverka till att förbättra den här handboken">hjälp till att förbättra handboken</a></span>…</span>
+<a href="more-help.html.sv" title="Få mer hjälp">Få mer hjälp</a><span class="desc"> — <span class="link"><a href="about-this-guide.html.sv" title="Om denna handbok">Användningstips</a></span>, <span class="link"><a href="get-involved.html.sv" title="Medverka till att förbättra den här handboken">hjälp till att förbättra handboken</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="get-involved.html" title="Medverka till att förbättra den här handboken">Medverka till att förbättra den här handboken</a><span class="desc"> — Hur och var du ska rapportera problem med dessa hjälptexter.</span>
+<a href="get-involved.html.sv" title="Medverka till att förbättra den här handboken">Medverka till att förbättra den här handboken</a><span class="desc"> — Hur och var du ska rapportera problem med dessa hjälptexter.</span>
 </li></ul></div>
 </div></div>
 </div>

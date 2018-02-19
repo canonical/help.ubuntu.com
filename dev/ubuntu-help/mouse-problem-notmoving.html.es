@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="mouse.html" title="Ratón">Ratón</a> › <a class="trail" href="mouse.html#problems" title="Problemas comunes">Problemas comunes</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="mouse.html.es" title="Ratón">Ratón</a> › <a class="trail" href="mouse.html.es#problems" title="Problemas comunes">Problemas comunes</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="mouse.html" title="Ratón">Ratón</a> › <a class="trail" href="mouse.html#problems" title="Problemas comunes">Problemas comunes</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="mouse.html.es" title="Ratón">Ratón</a> › <a class="trail" href="mouse.html.es#problems" title="Problemas comunes">Problemas comunes</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">El puntero del ratón no se mueve</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Compruebe que el ratón está conectado">Compruebe que el ratón está conectado</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Compruebe que actualmente el ratón funciona">Compruebe que actualmente el ratón funciona</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Comprobar el ratón inalámbrico">Comprobar el ratón inalámbrico</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.es#plugged-in" title="Compruebe que el ratón está conectado">Compruebe que el ratón está conectado</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.es#broken" title="Compruebe que actualmente el ratón funciona">Compruebe que actualmente el ratón funciona</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.es#wireless-mice" title="Comprobar el ratón inalámbrico">Comprobar el ratón inalámbrico</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Compruebe que el ratón está conectado</span></h2></div>
@@ -76,8 +76,8 @@
 <div class="region"><div class="contents">
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Asegúrese de que el ratón está encendido. Generalmente existe un interruptor en la parte de inferior del ratón para apagar completamente el ratón, de tal forma que puede moverlo de un sitio a otro sin tener que despertarlo constantemente.</p></li>
-<li class="list"><p class="p">Si está usando un ratón Bluetooth, asegúrese de que ha emparejado el ratón con el equipo. Consulte la <span class="link"><a href="bluetooth-connect-device.html" title="Conectar su equipo a un dispositivo Bluetooth">Conectar su equipo a un dispositivo Bluetooth</a></span>.</p></li>
-<li class="list"><p class="p">Pulse un botón y compruebe si el puntero del ratón se mueve ahora. Algunos ratones inalámbricos se ponen en reposo para ahorrar energía, por lo que es posible que no respondan hasta que pulse un botón. Consulte la <span class="link"><a href="mouse-wakeup.html" title="El ratón sufre un retardo antes de empezar a funcionar">El ratón sufre un retardo antes de empezar a funcionar</a></span>.</p></li>
+<li class="list"><p class="p">Si está usando un ratón Bluetooth, asegúrese de que ha emparejado el ratón con el equipo. Consulte la <span class="link"><a href="bluetooth-connect-device.html.es" title="Conectar su equipo a un dispositivo Bluetooth">Conectar su equipo a un dispositivo Bluetooth</a></span>.</p></li>
+<li class="list"><p class="p">Pulse un botón y compruebe si el puntero del ratón se mueve ahora. Algunos ratones inalámbricos se ponen en reposo para ahorrar energía, por lo que es posible que no respondan hasta que pulse un botón. Consulte la <span class="link"><a href="mouse-wakeup.html.es" title="El ratón sufre un retardo antes de empezar a funcionar">El ratón sufre un retardo antes de empezar a funcionar</a></span>.</p></li>
 <li class="list"><p class="p">Compruebe que la batería del ratón está cargada</p></li>
 <li class="list"><p class="p">Compruebe que el receptor está firmemente conectado al equipo.</p></li>
 <li class="list"><p class="p">Si el ratón y el receptor pueden funcionar en canales de radio diferentes, asegúrese de que están en el mismo canal.</p></li>
@@ -90,7 +90,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Problemas comunes">Problemas comunes del ratón</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.es#problems" title="Problemas comunes">Problemas comunes del ratón</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

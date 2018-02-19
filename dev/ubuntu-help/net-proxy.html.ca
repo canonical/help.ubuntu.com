@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="Networking terms &amp; tips">Networking terms &amp; tips</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.ca" title="Networking terms &amp; tips">Networking terms &amp; tips</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Define proxy settings</span></h1></div>
@@ -62,7 +62,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Change proxy method</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Network proxy</span> from the list on the left.</p></li>
@@ -91,11 +91,11 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Networking terms &amp; tips">Networking terms &amp; tips</a><span class="desc"> — 
-      <span class="link"><a href="net-findip.html" title="Find your IP address">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html" title="What is a MAC address?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html" title="Define proxy settings">proxies</a></span>…
+<a href="net-general.html.ca" title="Networking terms &amp; tips">Networking terms &amp; tips</a><span class="desc"> — 
+      <span class="link"><a href="net-findip.html.ca" title="Find your IP address">Find your IP address</a></span>,
+      <span class="link"><a href="net-wireless-wepwpa.html.ca" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
+      <span class="link"><a href="net-macaddress.html.ca" title="What is a MAC address?">MAC addresses</a></span>,
+      <span class="link"><a href="net-proxy.html.ca" title="Define proxy settings">proxies</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

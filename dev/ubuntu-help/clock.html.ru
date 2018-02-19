@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Дата и время</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="clock-set.html" title="Изменение даты и времени"><span class="title">Изменение даты и времени</span><span class="linkdiv-dash"> — </span><span class="desc">Use the <span class="gui">Date &amp; Time Settings</span> to alter the date or
+<div class="linkdiv "><a class="linkdiv" href="clock-set.html.ru" title="Изменение даты и времени"><span class="title">Изменение даты и времени</span><span class="linkdiv-dash"> — </span><span class="desc">Use the <span class="gui">Date &amp; Time Settings</span> to alter the date or
     time.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html" title="Изменение часового пояса"><span class="title">Изменение часового пояса</span><span class="linkdiv-dash"> — </span><span class="desc">Синхронизируйте часовой пояс с вашим текущим местоположением, чтобы время было точным.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="События календаря"><span class="title">События календаря</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
+<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html.ru" title="Изменение часового пояса"><span class="title">Изменение часового пояса</span><span class="linkdiv-dash"> — </span><span class="desc">Синхронизируйте часовой пояс с вашим текущим местоположением, чтобы время было точным.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.ru" title="События календаря"><span class="title">События календаря</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
     screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-world.html" title="Add a world clock"><span class="title">Add a world clock</span><span class="linkdiv-dash"> — </span><span class="desc">Display times in other cities under the calendar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-world.html.ru" title="Add a world clock"><span class="title">Add a world clock</span><span class="linkdiv-dash"> — </span><span class="desc">Display times in other cities under the calendar.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -62,12 +62,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
+<a href="prefs.html.ru" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html.ru" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html.ru" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html.ru" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html.ru" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-change-date-time-timezone.html" title="Смена даты, времени и часового пояса">Как изменить дату, время и часовой пояс.</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-change-date-time-timezone.html.ru" title="Смена даты, времени и часового пояса">Как изменить дату, время и часовой пояс.</a></li></ul></div>
 </div></div>
 </div>
 </div>

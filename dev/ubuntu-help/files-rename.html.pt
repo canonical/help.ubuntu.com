@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html.pt#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Renomear um ficheiro ou uma diretório</span></h1></div>
@@ -57,7 +57,7 @@
 <li class="steps"><p class="p">Escreva o nome novo e carregue <span class="key"><kbd>Enter</kbd></span> ou carregue em <span class="gui">Renomear</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Também pode renomear um ficheiro desde a janela de <span class="link"><a href="nautilus-file-properties-basic.html" title="Propriedades do ficheiro">propriedades</a></span>.</p>
+<p class="p">Também pode renomear um ficheiro desde a janela de <span class="link"><a href="nautilus-file-properties-basic.html.pt" title="Propriedades do ficheiro">propriedades</a></span>.</p>
 <p class="p">Quando renomeia um ficheiro, só se seleciona a primeira parte do nome desse ficheiro, sem a extenssão (a parte que vai após o <span class="file">.</span>). A extenssão normalmente representa o tipo de ficheiro (p.ej <span class="file">archivo.pdf</span> é um documento PDF), e normalmente não querrá a mudar. Se precisa mudar a extenssão também, selecione o nome completo do ficheiro e mude-o.</p>
 <div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Se muda o nome do ficheiro incorreto, ou atribui um nome equivocado ao ficheiro, pode desfazer o renomeado. Para reverter esta ação imediatamente, carregue o botão do menu na barra de ferramentas e escolha <span class="gui">Desfazer renomeado</span>, ou carregue <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span> para restaurar o nome.</p></div></div></div></div>
 </div>
@@ -65,7 +65,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Carateres válidos para nomes de ficheiro</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Pode usar qualquer caráter nos nomes de ficheiros, excepto a barra inclinada <span class="file">/</span>. Alguns dispositivos, no entanto, usam <span class="em">sistemas de ficheiros</span> com mais restrições nos nomes de ficheiros. Portanto, é recomendável evitar os seguintes carateres: <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span></p>
-<div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">Se nomeia a um ficheiro com um <span class="file">.</span> como primeiro caráter, o ficheiro estará <span class="link"><a href="files-hidden.html" title="Ocultar um ficheiro">oculto</a></span> quando tente ver no gestor de ficheiros.</p></div></div></div></div>
+<div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">Se nomeia a um ficheiro com um <span class="file">.</span> como primeiro caráter, o ficheiro estará <span class="link"><a href="files-hidden.html.pt" title="Ocultar um ficheiro">oculto</a></span> quando tente ver no gestor de ficheiros.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="common-probs" class="sect"><div class="inner">
@@ -79,14 +79,14 @@
 <dt class="terms">O nome de ficheiro demasiado longo</dt>
 <dd class="terms"><p class="p">Em alguns sistemas de ficheiros, os nomes dos ficheiros não podem ter mais de 255 carateres. Este limite de 255 carateres inclui tanto o nome do ficheiro como a caminho do ficheiro (ex. <span class="file">/home/wanda/Documentos/trabalho/propostas-trabalho/…</span>), pelo que deveria evitar nomes longos em ficheiros e diretórios sempre que seja possível.</p></dd>
 <dt class="terms">A opção para renomear está em cinza</dt>
-<dd class="terms"><p class="p">Se a opção <span class="gui">Renomear</span> aparece em cor cinza, é que não tem as permissões necessárias para renomear o ficheiro. Deve ter cuidado ao tratar de renomear estes ficheiros, já que mudar o nome a ficheiros protegidos pode causar problemas ou fazer que seu sistema se volte instável. Consulte a <span class="link"><a href="nautilus-file-properties-permissions.html" title="Estabelecer as permissões do ficheiro">Estabelecer as permissões do ficheiro</a></span> para obter mais informação.</p></dd>
+<dd class="terms"><p class="p">Se a opção <span class="gui">Renomear</span> aparece em cor cinza, é que não tem as permissões necessárias para renomear o ficheiro. Deve ter cuidado ao tratar de renomear estes ficheiros, já que mudar o nome a ficheiros protegidos pode causar problemas ou fazer que seu sistema se volte instável. Consulte a <span class="link"><a href="nautilus-file-properties-permissions.html.pt" title="Estabelecer as permissões do ficheiro">Estabelecer as permissões do ficheiro</a></span> para obter mais informação.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

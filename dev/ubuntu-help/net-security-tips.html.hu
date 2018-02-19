@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-general.html" title="Hálózatkezelés és tippek">Hálózatkezelés és tippek</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-general.html.hu" title="Hálózatkezelés és tippek">Hálózatkezelés és tippek</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Maradjon biztonságban az interneten</span></h1></div>
@@ -53,16 +53,16 @@
 <p class="p">A Linux biztonságossá tételére irányuló erőfeszítések ellenére mindig előfordulhatnak sebezhetőségek. Átlagos internetfelhasználóként továbbra is ki van téve:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Adathalászatnak – egyes weboldalak és e-mailek megtévesztéssel próbálnak bizalmas információkat kicsalni.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html" title="Kell vírusokat keresnem az e-mailjeimben?">Rosszindulatú levelek továbbításának</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html" title="Szükségem van vírusirtóra?">Rosszindulatú alkalmazásoknak (vírusoknak)</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html" title="Mit jelent a WEP és WPA?">Nem engedélyezett távoli/helyi hálózati hozzáférésnek</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.hu" title="Kell vírusokat keresnem az e-mailjeimben?">Rosszindulatú levelek továbbításának</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.hu" title="Szükségem van vírusirtóra?">Rosszindulatú alkalmazásoknak (vírusoknak)</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.hu" title="Mit jelent a WEP és WPA?">Nem engedélyezett távoli/helyi hálózati hozzáférésnek</a></span></p></li>
 </ul></div></div></div>
 <p class="p">Az online biztonság megőrzéséhez tartsa szem előtt a következő tippeket:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Legyen óvatos az olyan e-mailekkel, mellékletekkel vagy hivatkozásokkal, amelyeket ismeretlenektől kapott.</p></li>
 <li class="list"><p class="p">Ha egy weboldal ajánlata túl szép ahhoz, hogy igaz legyen, vagy látszólag fölöslegesen kér be érzékeny adatokat, gondolja meg kétszer is, milyen adatokat ad meg. Bizonyos személyes vagy banki adatok személyazonosság-tolvajok vagy más bűnözők kezébe kerülése súlyos következményekkel járhat.</p></li>
-<li class="list"><p class="p">Legyen óvatos, amikor az alkalmazások <span class="link"><a href="user-admin-explain.html" title="Hogyan működik a rendszergazdai jogosultság?">rendszergazdai hozzáférést kérnek</a></span>, különösen ha még nem használta az adott alkalmazást, vagy az interneten nem talál róla semmit. A rendszergazdai hozzáférés megadásával számítógépét a feltörés veszélyének teheti ki.</p></li>
-<li class="list"><p class="p">Győződjön meg róla, hogy csak a szükséges távoli hozzáférést biztosító szolgáltatások futnak. Az SSH vagy VNC futtatása hasznos lehet, de számítógépét a behatolás veszélyének teheti ki, ha nem ügyel a biztonságukra. Fontolja meg egy <span class="link"><a href="net-firewall-on-off.html" title="Tűzfal-hozzáférés engedélyezése és blokkolása">tűzfal</a></span> használatát a számítógép behatolás elleni védelméhez.</p></li>
+<li class="list"><p class="p">Legyen óvatos, amikor az alkalmazások <span class="link"><a href="user-admin-explain.html.hu" title="Hogyan működik a rendszergazdai jogosultság?">rendszergazdai hozzáférést kérnek</a></span>, különösen ha még nem használta az adott alkalmazást, vagy az interneten nem talál róla semmit. A rendszergazdai hozzáférés megadásával számítógépét a feltörés veszélyének teheti ki.</p></li>
+<li class="list"><p class="p">Győződjön meg róla, hogy csak a szükséges távoli hozzáférést biztosító szolgáltatások futnak. Az SSH vagy VNC futtatása hasznos lehet, de számítógépét a behatolás veszélyének teheti ki, ha nem ügyel a biztonságukra. Fontolja meg egy <span class="link"><a href="net-firewall-on-off.html.hu" title="Tűzfal-hozzáférés engedélyezése és blokkolása">tűzfal</a></span> használatát a számítógép behatolás elleni védelméhez.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Hálózatkezelés és tippek">Hálózatkezelés és tippek</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="IP-címének meghatározása">IP-cím meghatározása</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Mit jelent a WEP és WPA?">WEP és WPA biztonság</a></span>, <span class="link"><a href="net-macaddress.html" title="Mi az a MAC-cím?">MAC-címek</a></span>, <span class="link"><a href="net-proxy.html" title="Proxy beállításainak megadása">proxyk</a></span>…</span>
+<a href="net-general.html.hu" title="Hálózatkezelés és tippek">Hálózatkezelés és tippek</a><span class="desc"> — <span class="link"><a href="net-findip.html.hu" title="IP-címének meghatározása">IP-cím meghatározása</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.hu" title="Mit jelent a WEP és WPA?">WEP és WPA biztonság</a></span>, <span class="link"><a href="net-macaddress.html.hu" title="Mi az a MAC-cím?">MAC-címek</a></span>, <span class="link"><a href="net-proxy.html.hu" title="Proxy beállításainak megadása">proxyk</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

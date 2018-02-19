@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="addremove.html" title="Instalar y eliminar software">Añadir/eliminar software</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="addremove.html.es" title="Instalar y eliminar software">Añadir/eliminar software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Use Synaptic para una gestión de software más avanzada</span></h1></div>
@@ -72,17 +72,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Instalar y eliminar software">Instalar y eliminar software</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Instalar aplicaciones adicionales">Instalar aplicaciones</a></span>, <span class="link"><a href="addremove-remove.html" title="Desinstalar una aplicación">desinstalar aplicaciones</a></span>, <span class="link"><a href="addremove-sources.html" title="Añadir repositorios de software">añadir repositorios</a></span>…</span>
+<a href="addremove.html.es" title="Instalar y eliminar software">Instalar y eliminar software</a><span class="desc"> — <span class="link"><a href="addremove-install.html.es" title="Instalar aplicaciones adicionales">Instalar aplicaciones</a></span>, <span class="link"><a href="addremove-remove.html.es" title="Desinstalar una aplicación">desinstalar aplicaciones</a></span>, <span class="link"><a href="addremove-sources.html.es" title="Añadir repositorios de software">añadir repositorios</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-remove.html" title="Desinstalar una aplicación">Desinstalar una aplicación</a><span class="desc"> — Eliminar aplicaciones que ya no usa.</span>
+<a href="addremove-remove.html.es" title="Desinstalar una aplicación">Desinstalar una aplicación</a><span class="desc"> — Eliminar aplicaciones que ya no usa.</span>
 </li>
 <li class="links ">
-<a href="addremove-install.html" title="Instalar aplicaciones adicionales">Instalar aplicaciones adicionales</a><span class="desc"> — Use <span class="app">Ubuntu Software</span> para instalar aplicaciones adiciones y hacer a Ubuntu más útil.</span>
+<a href="addremove-install.html.es" title="Instalar aplicaciones adicionales">Instalar aplicaciones adicionales</a><span class="desc"> — Use <span class="app">Ubuntu Software</span> para instalar aplicaciones adiciones y hacer a Ubuntu más útil.</span>
 </li>
 </ul></div>
 </div></div>

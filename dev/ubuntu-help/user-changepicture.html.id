@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="user-accounts.html" title="Akun pengguna">Pengguna</a> › <a class="trail" href="user-accounts.html#manage" title="Mengelola akun pengguna">Akun</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="user-accounts.html.id" title="Akun pengguna">Pengguna</a> › <a class="trail" href="user-accounts.html.id#manage" title="Mengelola akun pengguna">Akun</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mengubah foto layar log masuk Anda</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Ketika Anda log masuk atau berganti pengguna, Anda akan melihat suatu daftar pengguna dengan foto log masuk mereka. Anda dapat mengubah foto Anda ke citra stok atau citra milik Anda. Anda bahkan dapat mengambil suatu foto log masuk baru dengan webcam Anda.</p>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html" title="Bagaimana privilese administratif bekerja?">administrator privileges</a></span>
+<p class="p">You need <span class="link"><a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">administrator privileges</a></span>
   to edit user accounts other than your own.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengguna</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengguna</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Users</span> to open the panel.</p></li>
 <li class="steps"><p class="p">If you want to edit a user other than yourself, press
       <span class="gui">Unlock</span> in the top right corner and type in your
@@ -80,12 +80,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Mengelola akun pengguna">Mengelola akun pengguna</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.id#manage" title="Mengelola akun pengguna">Mengelola akun pengguna</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-admin-explain.html" title="Bagaimana privilese administratif bekerja?">Bagaimana privilese administratif bekerja?</a><span class="desc"> — You need administrative privileges to change important parts of your
+<a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">Bagaimana privilese administratif bekerja?</a><span class="desc"> — You need administrative privileges to change important parts of your
     system.</span>
 </li></ul></div>
 </div></div>

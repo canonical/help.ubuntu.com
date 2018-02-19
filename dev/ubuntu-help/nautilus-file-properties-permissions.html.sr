@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html#faq" title="Савети и питања">Савети и питања</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.sr" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html.sr#faq" title="Савети и питања">Савети и питања</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Подесите овлашћења над датотеком</span></h1></div>
@@ -58,7 +58,7 @@
 <p class="p">Можете да подесите овлашћења за власника датотеке, власника групе, и за све остале кориснике на систему. За ваше датотеке, ви сте власник, и можете сами себи да дате овлашћење само за читање или за читање и уписивање. Подесите датотеку на само за читање ако не желите случајно да је измените.</p>
 <p class="p">Сваки корисник на вашем рачунару припада групи. На кућним рачунарима, уобичајено је да сваки корисник има своју сопствену групу, а овлашћења групе нису често коришћена. У окружењима удружења, групе су понекад коришћене за одељења или пројекте. Као што има власника, свака датотека припада групи. Можете да подесите групу датотеке и да одредите овлашћења за све кориснике у тој групи. Можете једино да подесите групу датотеке на групу којој ви припадате.</p>
 <p class="p">Можете такође да подесите овлашћења за кориснике поред власника и за оне у групи датотеке.</p>
-<p class="p">Ако је датотека програм, као скрипта, морате да изаберете <span class="gui">Дозволи покретање датотеке као програма</span> да бисте је покренули. Чак и са овом опцијом изабраном, управник датотека може још увек да отвори датотеку у програму или да вас пита шта да ради. Погледајте <span class="link"><a href="nautilus-behavior.html#executable" title="Извршне текстуалне датотеке">Извршне текстуалне датотеке</a></span> за више података.</p>
+<p class="p">Ако је датотека програм, као скрипта, морате да изаберете <span class="gui">Дозволи покретање датотеке као програма</span> да бисте је покренули. Чак и са овом опцијом изабраном, управник датотека може још увек да отвори датотеку у програму или да вас пита шта да ради. Погледајте <span class="link"><a href="nautilus-behavior.html.sr#executable" title="Извршне текстуалне датотеке">Извршне текстуалне датотеке</a></span> за више података.</p>
 </div></div>
 </div></div>
 <div id="folders" class="sect"><div class="inner">
@@ -84,12 +84,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Савети и питања">Савети и питања</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sr#faq" title="Савети и питања">Савети и питања</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-basic.html" title="Својства датотеке">Својства датотеке</a><span class="desc"> — Погледајте основне податке о датотеци, подесите овлашћења, и изаберите основне програме.</span>
+<a href="nautilus-file-properties-basic.html.sr" title="Својства датотеке">Својства датотеке</a><span class="desc"> — Погледајте основне податке о датотеци, подесите овлашћења, и изаберите основне програме.</span>
 </li></ul></div>
 </div></div>
 </div>

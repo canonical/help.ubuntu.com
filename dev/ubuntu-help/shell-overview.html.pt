@@ -43,40 +43,40 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Seu escritório</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Introdução a GNOME"><span class="title">Introdução a GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Uma introdução visual a seu escritório, a barra superior e a vista de <span class="gui">Atividades</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Fechar a sessão, apagar ou mudar de utilizador"><span class="title">Fechar a sessão, apagar ou mudar de utilizador</span><span class="linkdiv-dash"> — </span><span class="desc">Aprender como sair da sua conta de utilizador, fechando a sessão, mudando de utilizador, etc.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.pt" title="Introdução a GNOME"><span class="title">Introdução a GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Uma introdução visual a seu escritório, a barra superior e a vista de <span class="gui">Atividades</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.pt" title="Fechar a sessão, apagar ou mudar de utilizador"><span class="title">Fechar a sessão, apagar ou mudar de utilizador</span><span class="linkdiv-dash"> — </span><span class="desc">Aprender como sair da sua conta de utilizador, fechando a sessão, mudando de utilizador, etc.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Iniciar aplicações"><span class="title">Iniciar aplicações</span><span class="linkdiv-dash"> — </span><span class="desc">Lançar aplicações desde a vista de <span class="gui">Atividades</span>.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.pt" title="Iniciar aplicações"><span class="title">Iniciar aplicações</span><span class="linkdiv-dash"> — </span><span class="desc">Lançar aplicações desde a vista de <span class="gui">Atividades</span>.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Personalizar seu escritório</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html" title="Ancorar seus aplicações favoritos ao tabuleiro"><span class="title">Ancorar seus aplicações favoritos ao tabuleiro</span><span class="linkdiv-dash"> — </span><span class="desc">Acrescentar (ou eliminar) ícones de programas de uso frequente no tabuleiro.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="Citas de calendário"><span class="title">Citas de calendário</span><span class="linkdiv-dash"> — </span><span class="desc">Mostrar seus citas no calendário na parte superior do ecrã.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.pt" title="Ancorar seus aplicações favoritos ao tabuleiro"><span class="title">Ancorar seus aplicações favoritos ao tabuleiro</span><span class="linkdiv-dash"> — </span><span class="desc">Acrescentar (ou eliminar) ícones de programas de uso frequente no tabuleiro.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.pt" title="Citas de calendário"><span class="title">Citas de calendário</span><span class="linkdiv-dash"> — </span><span class="desc">Mostrar seus citas no calendário na parte superior do ecrã.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html" title="Notificações e a bandeja de mensagens"><span class="title">Notificações e a bandeja de mensagens</span><span class="linkdiv-dash"> — </span><span class="desc">Mensagens emergentes na parte superior do ecrã que lhe avisam de quando ocorrem certos eventos.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.pt" title="Notificações e a bandeja de mensagens"><span class="title">Notificações e a bandeja de mensagens</span><span class="linkdiv-dash"> — </span><span class="desc">Mensagens emergentes na parte superior do ecrã que lhe avisam de quando ocorrem certos eventos.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="apps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Aplicações e janelas</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Atalhos de teclado úteis"><span class="title">Atalhos de teclado úteis</span><span class="linkdiv-dash"> — </span><span class="desc">Mover pelo escritório utilizando o teclado.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows.html" title="Janelas e áreas de trabalho"><span class="title">Janelas e áreas de trabalho</span><span class="linkdiv-dash"> — </span><span class="desc">Mover e organizar suas janelas.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Mudar entre janelas"><span class="title">Mudar entre janelas</span><span class="linkdiv-dash"> — </span><span class="desc">Carregue <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.pt" title="Atalhos de teclado úteis"><span class="title">Atalhos de teclado úteis</span><span class="linkdiv-dash"> — </span><span class="desc">Mover pelo escritório utilizando o teclado.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows.html.pt" title="Janelas e áreas de trabalho"><span class="title">Janelas e áreas de trabalho</span><span class="linkdiv-dash"> — </span><span class="desc">Mover e organizar suas janelas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.pt" title="Mudar entre janelas"><span class="title">Mudar entre janelas</span><span class="linkdiv-dash"> — </span><span class="desc">Carregue <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html" title="O ecrã de bloqueio"><span class="title">O ecrã de bloqueio</span><span class="linkdiv-dash"> — </span><span class="desc">O ecrã de bloqueio decorativa e funcional transmite informação útil.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="status-icons.html" title="Que significam os ícones da barra superior?"><span class="title">Que significam os ícones da barra superior?</span><span class="linkdiv-dash"> — </span><span class="desc">Explica o significado dos ícones de parte-a direita da barra superior.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="startup-applications.html" title="Startup Applications"><span class="title">Startup Applications</span><span class="linkdiv-dash"> — </span><span class="desc">Choose what applications to start when you log in.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.pt" title="O ecrã de bloqueio"><span class="title">O ecrã de bloqueio</span><span class="linkdiv-dash"> — </span><span class="desc">O ecrã de bloqueio decorativa e funcional transmite informação útil.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="status-icons.html.pt" title="Que significam os ícones da barra superior?"><span class="title">Que significam os ícones da barra superior?</span><span class="linkdiv-dash"> — </span><span class="desc">Explica o significado dos ícones de parte-a direita da barra superior.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.pt" title="Startup Applications"><span class="title">Startup Applications</span><span class="linkdiv-dash"> — </span><span class="desc">Choose what applications to start when you log in.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.pt" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

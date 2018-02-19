@@ -43,26 +43,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Seu escritório">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicações e janelas">Aplicações e janelas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pt" title="Seu escritório">Escritorio</a> › <a class="trail" href="shell-overview.html.pt#apps" title="Aplicações e janelas">Aplicações e janelas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Janelas e áreas de trabalho</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Ao igual que outros escritórios, GNOME usa janelas para mostrar as aplicações em execução. Usando a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e o <span class="em">tabuleiro</span>, pode lançar aplicações novos e controlar as janelas ativas.</p>
+<p class="p">Ao igual que outros escritórios, GNOME usa janelas para mostrar as aplicações em execução. Usando a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e o <span class="em">tabuleiro</span>, pode lançar aplicações novos e controlar as janelas ativas.</p>
 <p class="p">Também pode agrupar seus aplicações em áreas de trabalho. Visite os temas de ajuda de janela e área de trabalho que se mostram a seguir para aprender melhor como usar estas caraterísticas.</p>
 </div>
 <div id="working-with-windows" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Trabalhar com janelas</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html" title="Encontrar uma janela perdida"><span class="title">Encontrar uma janela perdida</span><span class="linkdiv-dash"> — </span><span class="desc">Verificar a vista de <span class="gui">Atividades</span> ou olhar em outras áreas de trabalho.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html" title="Janelas em mosaico"><span class="title">Janelas em mosaico</span><span class="linkdiv-dash"> — </span><span class="desc">Maximizar duas janelas lado a lado.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html" title="Maximizar e desmaximizar (restaurar) uma janela"><span class="title">Maximizar e desmaximizar (restaurar) uma janela</span><span class="linkdiv-dash"> — </span><span class="desc">Duplo clique na barra de titulos da janela para a maximizar ou a restaurar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.pt" title="Encontrar uma janela perdida"><span class="title">Encontrar uma janela perdida</span><span class="linkdiv-dash"> — </span><span class="desc">Verificar a vista de <span class="gui">Atividades</span> ou olhar em outras áreas de trabalho.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.pt" title="Janelas em mosaico"><span class="title">Janelas em mosaico</span><span class="linkdiv-dash"> — </span><span class="desc">Maximizar duas janelas lado a lado.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.pt" title="Maximizar e desmaximizar (restaurar) uma janela"><span class="title">Maximizar e desmaximizar (restaurar) uma janela</span><span class="linkdiv-dash"> — </span><span class="desc">Duplo clique na barra de titulos da janela para a maximizar ou a restaurar.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html" title="Mover e redimensionar janelas"><span class="title">Mover e redimensionar janelas</span><span class="linkdiv-dash"> — </span><span class="desc">Colocar janelas num área de trabalho para ajudar-lhe a trabalhar mais eficientemente.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Mudar entre janelas"><span class="title">Mudar entre janelas</span><span class="linkdiv-dash"> — </span><span class="desc">Carregue <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.pt" title="Mover e redimensionar janelas"><span class="title">Mover e redimensionar janelas</span><span class="linkdiv-dash"> — </span><span class="desc">Colocar janelas num área de trabalho para ajudar-lhe a trabalhar mais eficientemente.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.pt" title="Mudar entre janelas"><span class="title">Mudar entre janelas</span><span class="linkdiv-dash"> — </span><span class="desc">Carregue <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -70,17 +70,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Trabalhar com áreas de trabalho:</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html" title="Que é um área de trabalho e como ajudar-me-á?"><span class="title">Que é um área de trabalho e como ajudar-me-á?</span><span class="linkdiv-dash"> — </span><span class="desc">As áreas de trabalho são uma maneira de agrupar janelas em seu escritório.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html" title="Mover uma janela a um área de trabalho diferente"><span class="title">Mover uma janela a um área de trabalho diferente</span><span class="linkdiv-dash"> — </span><span class="desc">Vá à vista de <span class="gui">Atividades</span> e arraste a janela a um área de trabalho diferente.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.pt" title="Que é um área de trabalho e como ajudar-me-á?"><span class="title">Que é um área de trabalho e como ajudar-me-á?</span><span class="linkdiv-dash"> — </span><span class="desc">As áreas de trabalho são uma maneira de agrupar janelas em seu escritório.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.pt" title="Mover uma janela a um área de trabalho diferente"><span class="title">Mover uma janela a um área de trabalho diferente</span><span class="linkdiv-dash"> — </span><span class="desc">Vá à vista de <span class="gui">Atividades</span> e arraste a janela a um área de trabalho diferente.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html" title="Mude entre as áreas de trabalho"><span class="title">Mude entre as áreas de trabalho</span><span class="linkdiv-dash"> — </span><span class="desc">Utilizar o seletor de áreas de trabalho.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.pt" title="Mude entre as áreas de trabalho"><span class="title">Mude entre as áreas de trabalho</span><span class="linkdiv-dash"> — </span><span class="desc">Utilizar o seletor de áreas de trabalho.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Aplicações e janelas">Aplicações e janelas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.pt#apps" title="Aplicações e janelas">Aplicações e janelas</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

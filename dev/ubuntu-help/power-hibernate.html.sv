@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="power.html" title="Ström och batteri">Ström och batteri</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="power.html.sv" title="Ström och batteri">Ström och batteri</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="power.html" title="Ström och batteri">Ström och batteri</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="power.html.sv" title="Ström och batteri">Ström och batteri</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">När datorn är i <span class="em">viloläge</span> är alla dina program och dokument sparade och datorn är helt avstängd och drar ingen ström, men programmen och dokumenten kommer fortfarande att vara öppna när du sätter igång datorn igen.</p>
-<p class="p">Tyvärr <span class="link"><a href="power-suspendfail.html" title="Varför återstartar inte min dator efter att jag har försatt den i vänteläge?">fungerar inte</a></span> viloläget i många fall, vilket kan förorsaka att du förlorar data om du förväntar dig att dina dokument och program återöppnas när du sätter igång datorn igen. Därför är viloläget avstängt som standard.</p>
+<p class="p">Tyvärr <span class="link"><a href="power-suspendfail.html.sv" title="Varför återstartar inte min dator efter att jag har försatt den i vänteläge?">fungerar inte</a></span> viloläget i många fall, vilket kan förorsaka att du förlorar data om du förväntar dig att dina dokument och program återöppnas när du sätter igång datorn igen. Därför är viloläget avstängt som standard.</p>
 </div>
 <div id="test-hibernate" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Prova om viloläget fungerar</span></h2></div>
@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">Du kan använda kommandoraden för att testa om viloläget fungerar på din dator.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna <span class="app">Terminalen</span> genom att trycka <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> eller genom att söka efter <span class="input">terminal</span> i <span class="gui">Snabbstartspanelen</span>.</p></li>
+<li class="steps"><p class="p">Öppna <span class="app">Terminal</span> genom att söka efter <span class="input">terminal</span> i <span class="gui">Aktivitetsöversikten</span>.</p></li>
 <li class="steps">
 <p class="p">Skriv <span class="cmd">sudo systemctl hibernate</span> i terminalen och tryck <span class="key"><kbd>Retur</kbd></span>.</p>
 <p class="p">Mata in ditt lösenord när du blir tillfrågad.</p>
@@ -104,13 +104,13 @@ ResultActive=yes</pre></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Ström och batteri">Ström och batteri</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Kontrollera batteristatus">Batteristatus</a></span>, <span class="link"><a href="power-suspend.html" title="Vad händer när jag försätter min dator i vänteläge?">försätta i vänteläge</a></span>, <span class="link"><a href="power-whydim.html" title="Varför tonas min skärm ner efter ett tag?">skärmtoning</a></span>…</span>
+<a href="power.html.sv" title="Ström och batteri">Ström och batteri</a><span class="desc"> — <span class="link"><a href="power-status.html.sv" title="Kontrollera batteristatus">Batteristatus</a></span>, <span class="link"><a href="power-suspend.html.sv" title="Vad händer när jag försätter min dator i vänteläge?">försätta i vänteläge</a></span>, <span class="link"><a href="power-whydim.html.sv" title="Varför tonas min skärm ner efter ett tag?">skärmtoning</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-suspendfail.html" title="Varför återstartar inte min dator efter att jag har försatt den i vänteläge?">Varför återstartar inte min dator efter att jag har försatt den i vänteläge?</a><span class="desc"> — Viss datorhårdvara orsakar problem med vänteläge.</span>
+<a href="power-suspendfail.html.sv" title="Varför återstartar inte min dator efter att jag har försatt den i vänteläge?">Varför återstartar inte min dator efter att jag har försatt den i vänteläge?</a><span class="desc"> — Viss datorhårdvara orsakar problem med vänteläge.</span>
 </li></ul></div>
 </div></div>
 </div>

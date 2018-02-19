@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">メールとメールソフトウェア</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="メールのウイルススキャンをする必要がありますか?"><span class="title">メールのウイルススキャンをする必要がありますか?</span><span class="linkdiv-dash"> — </span><span class="desc">ウイルスがあなたのコンピューターに感染する可能性は大きくありませんが、あなたがメールを送った相手先のコンピューターに感染する可能性があります。</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-email.html" title="メール作成に使うアプリケーションの変更"><span class="title">メール作成に使うアプリケーションの変更</span><span class="linkdiv-dash"> — </span><span class="desc">Change the default email client by going to <span class="gui">Details</span> in <span class="gui">Settings</span>.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-email-virus.html.ja" title="メールのウイルススキャンをする必要がありますか?"><span class="title">メールのウイルススキャンをする必要がありますか?</span><span class="linkdiv-dash"> — </span><span class="desc">ウイルスがあなたのコンピューターに感染する可能性は大きくありませんが、あなたがメールを送った相手先のコンピューターに感染する可能性があります。</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-email.html.ja" title="メール作成に使うアプリケーションの変更"><span class="title">メール作成に使うアプリケーションの変更</span><span class="linkdiv-dash"> — </span><span class="desc">Change the default email client by going to <span class="gui">Details</span> in <span class="gui">Settings</span>.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="無線ネットワーク">無線</a></span>、<span class="link"><a href="net-wired.html" title="有線によるネットワーク">有線</a></span>、<span class="link"><a href="net-problem.html" title="ネットワーク関連の問題">接続関連の問題</a></span>、<span class="link"><a href="net-browser.html" title="ウェブブラウザー">web ブラウジング</a></span>、<span class="link"><a href="net-email.html" title="メールとメールソフトウェア">メールアカウント</a></span>…</span>
+<a href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ja" title="無線ネットワーク">無線</a></span>、<span class="link"><a href="net-wired.html.ja" title="有線によるネットワーク">有線</a></span>、<span class="link"><a href="net-problem.html.ja" title="ネットワーク関連の問題">接続関連の問題</a></span>、<span class="link"><a href="net-browser.html.ja" title="ウェブブラウザー">web ブラウジング</a></span>、<span class="link"><a href="net-email.html.ja" title="メールとメールソフトウェア">メールアカウント</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

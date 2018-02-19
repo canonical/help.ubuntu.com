@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="media.html#sound" title="Osnovni zvok">Zvok</a> » <a class="trail" href="sound-broken.html" title="Težave z zvokom">Težave z zvokom</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="media.html.sl#sound" title="Osnovni zvok">Zvok</a> » <a class="trail" href="sound-broken.html.sl" title="Težave z zvokom">Težave z zvokom</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html#problems" title="Pogoste težave">Težave</a> » <a class="trail" href="sound-broken.html" title="Težave z zvokom">Težave z zvokom</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html.sl#problems" title="Pogoste težave">Težave</a> » <a class="trail" href="sound-broken.html.sl" title="Težave z zvokom">Težave z zvokom</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div id="mute" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Prepričajte se, da zvok ni utišan</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="Vi in vaš računalnik">system menu</a></span> and make sure that
+<p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#yourname" title="Vi in vaš računalnik">system menu</a></span> and make sure that
   the sound is not muted or turned down.</p>
 <p class="p">Some laptops have mute switches or keys on their keyboards — try pressing
   that key to see if it unmutes the sound.</p>
@@ -99,7 +99,7 @@
   have the correct sound device selected. This might involve some
   trial-and-error to choose the right one.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Sound</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
 <li class="steps">
@@ -122,7 +122,7 @@
   card you have:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Pojdite v pregled <span class="gui">Dejavnosti</span> in odprite Terminal.</p></li>
-<li class="steps"><p class="p">Run <span class="cmd">lspci</span> as <span class="link"><a href="user-admin-explain.html" title="Kako delujejo skrbniška dovoljenja?">superuser</a></span>;
+<li class="steps"><p class="p">Run <span class="cmd">lspci</span> as <span class="link"><a href="user-admin-explain.html.sl" title="Kako delujejo skrbniška dovoljenja?">superuser</a></span>;
       either type <span class="cmd">sudo lspci</span> and type your password, or type
       <span class="cmd">su</span>, enter the <span class="em">root</span> (administrative) password,
       then type <span class="cmd">lspci</span>.</p></li>
@@ -143,7 +143,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html" title="Težave z zvokom">Težave z zvokom</a><span class="desc"> — Odpravljanje težav kot je računalnik brez zvoka ali s slabo kakovostjo zvoka.</span>
+<a href="sound-broken.html.sl" title="Težave z zvokom">Težave z zvokom</a><span class="desc"> — Odpravljanje težav kot je računalnik brez zvoka ali s slabo kakovostjo zvoka.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,22 +44,22 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="bluetooth.html.pt-BR" title="Bluetooth">Bluetooth</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="sharing.html" title="Compartilhamento">Compartilhamento</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="sharing.html.pt-BR" title="Compartilhamento">Compartilhamento</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Enviando arquivos a um dispositivo Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Você pode enviar arquivos para dispositivos Bluetooth conectados, tais como alguns telefones celulares ou outros computadores. Alguns tipos de dispositivos não permitem a transferência de arquivos ou de tipos específicos de arquivos. Você pode fazer esses envios de três formas: usando o ícone Bluetooth na barra superior, a partir da janela de configurações de Bluetooth ou diretamente do gerenciador de arquivos.</p>
+<p class="p">Você pode enviar arquivos para dispositivos Bluetooth conectados, tais como alguns telefones celulares ou outros computadores. Alguns tipos de dispositivos não permitem a transferência de arquivos ou de tipos específicos de arquivos. Você pode enviar arquivos usando a janela de configurações de Bluetooth.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Bluetooth</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Certifique-se de que o Bluetooth está habilitado: o alternador na barra de título deveria estar definido em <span class="key"><kbd>❙</kbd></span>.</p></li>
 <li class="steps">
-<p class="p">Na lista <span class="gui">Dispositivos</span>, selecione o dispositivo ao qual os arquivos serão enviados. Se o dispositivo desejado não é mostrado como <span class="gui">Conectado</span> na lista, você precisa se <span class="link"><a href="bluetooth-connect-device.html" title="Conectando seu computador a um dispositivo Bluetooth">conectar</a></span> a ele.</p>
+<p class="p">Na lista <span class="gui">Dispositivos</span>, selecione o dispositivo ao qual os arquivos serão enviados. Se o dispositivo desejado não é mostrado como <span class="gui">Conectado</span> na lista, você precisa se <span class="link"><a href="bluetooth-connect-device.html.pt-BR" title="Conectando seu computador a um dispositivo Bluetooth">conectar</a></span> a ele.</p>
 <p class="p">Um painel específico para o dispositivo externo aparecerá.</p>
 </li>
 <li class="steps"><p class="p">Clique em <span class="gui">Enviar arquivos…</span> e o seletor de arquivos aparecerá.</p></li>
@@ -77,17 +77,17 @@
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Conectando seu computador a um dispositivo Bluetooth">Conectar</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Enviando arquivos a um dispositivo Bluetooth">enviar arquivos</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Ligando ou desligando o Bluetooth">ligar/desligar</a></span>…</span>
+<a href="bluetooth.html.pt-BR" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.pt-BR" title="Conectando seu computador a um dispositivo Bluetooth">Conectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.pt-BR" title="Enviando arquivos a um dispositivo Bluetooth">enviar arquivos</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.pt-BR" title="Ligando ou desligando o Bluetooth">ligar/desligar</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Compartilhamento">Compartilhamento</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Compartilhando sua área de trabalho">Compartilhamento da área de trabalho</a></span>, <span class="link"><a href="files-share.html" title="Compartilhando arquivos por e-mail">Compartilhar arquivos por e-mail</a></span>, <span class="link"><a href="sharing-media.html" title="Compartilhando suas músicas, fotos e vídeos">Compartilhamento de multimídia</a></span>…</span>
+<a href="sharing.html.pt-BR" title="Compartilhamento">Compartilhamento</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.pt-BR" title="Compartilhando sua área de trabalho">Compartilhamento da área de trabalho</a></span>, <span class="link"><a href="files-share.html.pt-BR" title="Compartilhando arquivos por e-mail">Compartilhar arquivos por e-mail</a></span>, <span class="link"><a href="sharing-media.html.pt-BR" title="Compartilhando suas músicas, fotos e vídeos">Compartilhamento de multimídia</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="Compartilhando arquivos por e-mail">Compartilhando arquivos por e-mail</a><span class="desc"> — Transfira arquivos facilmente para os seus contatos de e-mail a partir do gerenciador de arquivos.</span>
+<a href="files-share.html.pt-BR" title="Compartilhando arquivos por e-mail">Compartilhando arquivos por e-mail</a><span class="desc"> — Transfira arquivos facilmente para os seus contatos de e-mail a partir do gerenciador de arquivos.</span>
 </li></ul></div>
 </div></div>
 </div>

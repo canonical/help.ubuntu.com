@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="prefs-display.html" title="Дисплеј и екран">Дисплеј и екран</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="prefs-display.html.sr" title="Дисплеј и екран">Дисплеј и екран</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="hardware-problems-graphics.html" title="Проблеми екрана">Проблеми екрана</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html.sr#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="hardware-problems-graphics.html.sr" title="Проблеми екрана">Проблеми екрана</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">Ако оставите ваш рачунар на неколико минута, екран ће се сам закључати тако да ћете морати да унесете лозинку да бисте почели поново да га користите. Ово се ради из безбедносних разлога (тако да нико не може да поремети ваш рад ако оставите рачунар без надзора), али може бити замарајуће ако се екран пребрзо закључава.</p>
 <p class="p">Да би се екран закључавао након дужег времена:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Приватност</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Приватност</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Приватност</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Притисните <span class="gui">Закључај екран</span>.</p></li>
 <li class="steps"><p class="p">Ако је укључено <span class="gui">Сам закључај екран</span>, можете да измените вредност у падајућем списку <span class="gui">Закључај екран након мировања од</span>.</p></li>
@@ -70,22 +70,22 @@
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Дисплеј и екран">Дисплеј и екран</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Измените радну површ и закључајте позадине екрана">Позадина</a></span>, <span class="link"><a href="look-resolution.html" title="Измените резолуцију или окренутост екрана">величина и ротација</a></span>, осветљеност…</span>
+<a href="prefs-display.html.sr" title="Дисплеј и екран">Дисплеј и екран</a><span class="desc"> — <span class="link"><a href="look-background.html.sr" title="Измените радну површ и закључајте позадине екрана">Позадина</a></span>, <span class="link"><a href="look-resolution.html.sr" title="Измените резолуцију или окренутост екрана">величина и ротација</a></span>, осветљеност…</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Проблеми екрана">Проблеми екрана</a><span class="desc"> — Решите проблеме екрана и графике.</span>
+<a href="hardware-problems-graphics.html.sr" title="Проблеми екрана">Проблеми екрана</a><span class="desc"> — Решите проблеме екрана и графике.</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Закључавање екрана">Закључавање екрана</a></li>
+<li class="links "><a href="shell-exit.html.sr#lock-screen" title="Закључавање екрана">Закључавање екрана</a></li>
 <li class="links ">
-<a href="display-blank.html" title="Подесите време затамњивања екрана">Подесите време затамњивања екрана</a><span class="desc"> — Измените време затамњивања екрана да уштедите енергију.</span>
+<a href="display-blank.html.sr" title="Подесите време затамњивања екрана">Подесите време затамњивања екрана</a><span class="desc"> — Измените време затамњивања екрана да уштедите енергију.</span>
 </li>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Самостално закључајте ваш екран">Самостално закључајте ваш екран</a><span class="desc"> — Не дозволите другима да користе вашу радну површ када се удаљите од вашег рачунара.</span>
+<a href="privacy-screen-lock.html.sr" title="Самостално закључајте ваш екран">Самостално закључајте ваш екран</a><span class="desc"> — Не дозволите другима да користе вашу радну површ када се удаљите од вашег рачунара.</span>
 </li>
 </ul></div>
 </div></div>

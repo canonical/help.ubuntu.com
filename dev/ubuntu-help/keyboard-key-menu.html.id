@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="keyboard.html" title="Papan tik">Papan tik</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="keyboard.html.id" title="Papan tik">Papan tik</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="keyboard.html" title="Papan tik">Papan tik</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="keyboard.html.id" title="Papan tik">Papan tik</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -79,15 +79,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
+<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Use alternative keyboard layouts">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Masalah mobilitas">Masalah mobilitas</a></li>
+<li class="links "><a href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a></li>
 <li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Pintasan papan tik yang berguna">Pintasan papan tik yang berguna</a><span class="desc"> — Get around the desktop using the keyboard.</span>
+<a href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna">Pintasan papan tik yang berguna</a><span class="desc"> — Get around the desktop using the keyboard.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="user-accounts.html" title="Uporabniški računi">Uporabniki</a> › <a class="trail" href="user-accounts.html#manage" title="Upravljanje uporabniških računov">Računi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="user-accounts.html.sl" title="Uporabniški računi">Uporabniki</a> › <a class="trail" href="user-accounts.html.sl#manage" title="Upravljanje uporabniških računov">Računi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Dodajanje novega uporabniškga računa</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Na svoj računalnik lahko dodate več uporabniških računov. Vsaki osebi v svojem gospodinjstvu ali podjetju dajte en račun. Vsak uporabnik ima svojo domačo mapo, dokumente in nastavitve.</p>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html" title="Kako delujejo skrbniška dovoljenja?">administrator privileges</a></span>
+<p class="p">You need <span class="link"><a href="user-admin-explain.html.sl" title="Kako delujejo skrbniška dovoljenja?">administrator privileges</a></span>
   to add user accounts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Users</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Users</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
@@ -62,7 +62,7 @@
       accounts on the left, to add a new user account.</p></li>
 <li class="steps">
 <p class="p">If you want the new user to have
-      <span class="link"><a href="user-admin-explain.html" title="Kako delujejo skrbniška dovoljenja?">administrative access</a></span> to the
+      <span class="link"><a href="user-admin-explain.html.sl" title="Kako delujejo skrbniška dovoljenja?">administrative access</a></span> to the
       computer, select <span class="gui">Administrator</span> for the account type.</p>
 <p class="p">Administrators can do things like add and delete users, install software
       and drivers, and change the date and time.</p>
@@ -92,12 +92,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Upravljanje uporabniških računov">Upravljanje uporabniških računov</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.sl#manage" title="Upravljanje uporabniških računov">Upravljanje uporabniških računov</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-delete.html" title="Izbris uporabniškega računa">Izbris uporabniškega računa</a><span class="desc"> — Odstranitev uporabnikov, ki ne uporabljajo več vašega računalnika.</span>
+<a href="user-delete.html.sl" title="Izbris uporabniškega računa">Izbris uporabniškega računa</a><span class="desc"> — Odstranitev uporabnikov, ki ne uporabljajo več vašega računalnika.</span>
 </li></ul></div>
 </div></div>
 </div>

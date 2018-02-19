@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Logga ut, stäng av eller växla användare</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Logga ut eller växla användare</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">För att låta andra användare använda din dator kan du antingen logga ut eller låta dig själv vara inloggad och bara växla användare. Om du växlar användare, kommer alla dina program att fortsätta köra och allting kommer att finnas kvar som där du lämnade det när du logga in igen.</p>
-<p class="p">För att <span class="gui">Logga ut</span> eller <span class="gui">Växla användare</span>, klicka på <span class="link"><a href="shell-introduction.html#yourname" title="Du och din dator">systemmenyn</a></span> på höger sida av systemraden, klicka på ditt namn och välj sedan rätt alternativ.</p>
+<p class="p">För att <span class="gui">Logga ut</span> eller <span class="gui">Växla användare</span>, klicka på <span class="link"><a href="shell-introduction.html.sv#yourname" title="Du och din dator">systemmenyn</a></span> på höger sida av systemraden, klicka på ditt namn och välj sedan rätt alternativ.</p>
 <div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Alternativen <span class="gui">Logga ut</span> och <span class="gui">Växla användare</span> visas bara i meny om du har mer än ett användarkonto på ditt system.</p></div></div></div></div>
 </div></div>
 </div></div>
@@ -61,7 +61,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Lås skärmen</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p">Om du ska lämna din dator för en kort stund bör du låsa skärmen för att förhindra andra människor från att nå dina filer eller körande program. När du kommer tillbaka, höj upp gardinen på <span class="link"><a href="shell-lockscreen.html" title="Låsskärmen">låsskärmen</a></span> och mata in ditt lösenord för att logga in igen. Om du inte låser din skärm kommer den automatiskt att låsas efter en viss tid.</p>
+<p class="p">Om du ska lämna din dator för en kort stund bör du låsa skärmen för att förhindra andra människor från att nå dina filer eller körande program. När du kommer tillbaka, höj upp gardinen på <span class="link"><a href="shell-lockscreen.html.sv" title="Låsskärmen">låsskärmen</a></span> och mata in ditt lösenord för att logga in igen. Om du inte låser din skärm kommer den automatiskt att låsas efter en viss tid.</p>
 <p class="p">För att låsa din skärm, klicka på systemmenyn på höger sida av systemraden och tryck på knappen för att låsa skärmen längst ner på menyn.</p>
 <p class="p">När skärmen är låst, kan andra användare logga in på deras egna konton genom att klicka på <span class="gui">Logga in som en annan användare</span> på lösenordsskärmen. Du kan växla tillbaka till ditt skrivbord när de är klara.</p>
 </div>
@@ -71,10 +71,10 @@
 <div class="title"><h3><span class="title">Se även</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Lås automatiskt din skärm">Lås automatiskt din skärm</a><span class="desc"> — Förhindra andra personer från att använda ditt skrivbord när du går iväg från datorn.</span>
+<a href="privacy-screen-lock.html.sv" title="Lås automatiskt din skärm">Lås automatiskt din skärm</a><span class="desc"> — Förhindra andra personer från att använda ditt skrivbord när du går iväg från datorn.</span>
 </li>
 <li class="links ">
-<a href="session-screenlocks.html" title="Skärmen låser sig själv allt för snabbt">Skärmen låser sig själv allt för snabbt</a><span class="desc"> — Ändra hur länge det tar innan skärmen låser sig själv i <span class="gui">Sekretessinställningar</span>.</span>
+<a href="session-screenlocks.html.sv" title="Skärmen låser sig själv allt för snabbt">Skärmen låser sig själv allt för snabbt</a><span class="desc"> — Ändra hur länge det tar innan skärmen låser sig själv i <span class="gui">Sekretessinställningar</span>.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -94,13 +94,13 @@
 <div class="title"><h3><span class="title">Se även</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batterylife.html" title="Använd mindre ström och förbättra batteridriftstiden">Använd mindre ström och förbättra batteridriftstiden</a><span class="desc"> — Tips på hur du reducerar din dators strömförbrukning.</span>
+<a href="power-batterylife.html.sv" title="Använd mindre ström och förbättra batteridriftstiden">Använd mindre ström och förbättra batteridriftstiden</a><span class="desc"> — Tips på hur du reducerar din dators strömförbrukning.</span>
 </li>
 <li class="links ">
-<a href="power-autosuspend.html" title="Konfigurera automatiskt vänteläge">Konfigurera automatiskt vänteläge</a><span class="desc"> — Konfigurera din dator att automatiskt gå i vänteläge.</span>
+<a href="power-autosuspend.html.sv" title="Konfigurera automatiskt vänteläge">Konfigurera automatiskt vänteläge</a><span class="desc"> — Konfigurera din dator att automatiskt gå i vänteläge.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Vad händer när jag försätter min dator i vänteläge?">Vad händer när jag försätter min dator i vänteläge?</a><span class="desc"> — Vänteläge försätter din dator i ett strömsparläge där den drar mindre ström.</span>
+<a href="power-suspend.html.sv" title="Vad händer när jag försätter min dator i vänteläge?">Vad händer när jag försätter min dator i vänteläge?</a><span class="desc"> — Vänteläge försätter din dator i ett strömsparläge där den drar mindre ström.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -113,14 +113,14 @@
 <div class="contents">
 <p class="p">Om du vill stänga av din dator helt eller göra en full omstart, klicka på systemmenyn på höger sida av systemraden och tryck på avstängningsknappen längst ner på menyn. En dialogruta kommer att öppnas som erbjuder dig alternativen att antingen <span class="gui">Starta om</span> eller <span class="gui">Stäng av</span>.</p>
 <p class="p">Om det finns andra användare som är inloggade är du kanske inte tillåten att stänga av eller starta om datorn eftersom detta kommer att avsluta deras sessioner. Om du är en administrativ användare kan du bli tillfrågad om ditt lösenord för att stänga av.</p>
-<div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Du kan vilja stänga av din dator om du vill flytta den och inte har något batteri, om ditt batteri är lågt eller inte håller laddning bra. En avstängd dator använder också <span class="link"><a href="power-batterylife.html" title="Använd mindre ström och förbättra batteridriftstiden">mindre energi</a></span> än en som är i vänteläge.</p></div></div></div></div>
+<div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Du kan vilja stänga av din dator om du vill flytta den och inte har något batteri, om ditt batteri är lågt eller inte håller laddning bra. En avstängd dator använder också <span class="link"><a href="power-batterylife.html.sv" title="Använd mindre ström och förbättra batteridriftstiden">mindre energi</a></span> än en som är i vänteläge.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Se även</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html" title="Använd mindre ström och förbättra batteridriftstiden">Använd mindre ström och förbättra batteridriftstiden</a><span class="desc"> — Tips på hur du reducerar din dators strömförbrukning.</span>
+<a href="power-batterylife.html.sv" title="Använd mindre ström och förbättra batteridriftstiden">Använd mindre ström och förbättra batteridriftstiden</a><span class="desc"> — Tips på hur du reducerar din dators strömförbrukning.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -133,18 +133,18 @@
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html" title="Ditt skrivbord">Ditt skrivbord</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Kalendermöten">Kalender</a></span>, <span class="link"><a href="shell-notifications.html" title="Aviseringar och meddelandefältet">aviseringar</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Användbara tangentbordsgenvägar">tangentbordsgenvägar</a></span>, <span class="link"><a href="shell-windows.html" title="Fönster och arbetsytor">fönster och arbetsytor</a></span>…</span>
+<a href="shell-overview.html.sv" title="Ditt skrivbord">Ditt skrivbord</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.sv" title="Kalendermöten">Kalender</a></span>, <span class="link"><a href="shell-notifications.html.sv" title="Aviseringar och meddelandefältet">aviseringar</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.sv" title="Användbara tangentbordsgenvägar">tangentbordsgenvägar</a></span>, <span class="link"><a href="shell-windows.html.sv" title="Fönster och arbetsytor">fönster och arbetsytor</a></span>…</span>
 </li>
-<li class="links "><a href="index.html" title="Handbok för Ubuntu-skrivbordet">Handbok för Ubuntu-skrivbordet</a></li>
+<li class="links "><a href="index.html.sv" title="Handbok för Ubuntu-skrivbordet">Handbok för Ubuntu-skrivbordet</a></li>
 <li class="links ">
-<a href="power.html" title="Ström och batteri">Ström och batteri</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Kontrollera batteristatus">Batteristatus</a></span>, <span class="link"><a href="power-suspend.html" title="Vad händer när jag försätter min dator i vänteläge?">försätta i vänteläge</a></span>, <span class="link"><a href="power-whydim.html" title="Varför tonas min skärm ner efter ett tag?">skärmtoning</a></span>…</span>
+<a href="power.html.sv" title="Ström och batteri">Ström och batteri</a><span class="desc"> — <span class="link"><a href="power-status.html.sv" title="Kontrollera batteristatus">Batteristatus</a></span>, <span class="link"><a href="power-suspend.html.sv" title="Vad händer när jag försätter min dator i vänteläge?">försätta i vänteläge</a></span>, <span class="link"><a href="power-whydim.html.sv" title="Varför tonas min skärm ner efter ett tag?">skärmtoning</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-autologin.html" title="Logga in automatiskt">Logga in automatiskt</a><span class="desc"> — Ställ in automatisk inloggning när du startar din dator.</span>
+<a href="user-autologin.html.sv" title="Logga in automatiskt">Logga in automatiskt</a><span class="desc"> — Ställ in automatisk inloggning när du startar din dator.</span>
 </li></ul></div>
 </div></div>
 </div>

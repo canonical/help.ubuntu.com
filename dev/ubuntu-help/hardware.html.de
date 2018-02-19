@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hardware und Treiber</span></h1></div>
@@ -51,42 +51,42 @@
 <div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html" title="Ihren Rechner mit einem anderen Bluetooth-Gerät verbinden">Verbinden</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Dateien an ein Bluetooth-Gerät senden">Dateien senden</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth ein- oder ausschalten">ein- und ausschalten</a></span> …</span></div>
+<div class="links-grid-link"><a href="bluetooth.html.de" title="Bluetooth">Bluetooth</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html.de" title="Ihren Rechner mit einem anderen Bluetooth-Gerät verbinden">Verbinden</a></span>, <span class="link"><a href="bluetooth-send-file.html.de" title="Dateien an ein Bluetooth-Gerät senden">Dateien senden</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.de" title="Bluetooth ein- oder ausschalten">ein- und ausschalten</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="printing.html" title="Drucken">Drucken</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html" title="Eine lokalen Drucker einrichten">Lokale Einstellungen</a></span>, <span class="link"><a href="printing-order.html" title="Drucken von Seiten in einer anderen Reihenfolge">Reihenfolge und Zusammentragen</a></span>, <span class="link"><a href="printing-2sided.html" title="Beidseitiger Druck und mehrseitige Anordnungen">beidseitig und mehrere Seiten pro Blatt</a></span> …</span></div>
+<div class="links-grid-link"><a href="printing.html.de" title="Drucken">Drucken</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html.de" title="Eine lokalen Drucker einrichten">Lokale Einstellungen</a></span>, <span class="link"><a href="printing-order.html.de" title="Drucken von Seiten in einer anderen Reihenfolge">Reihenfolge und Zusammentragen</a></span>, <span class="link"><a href="printing-2sided.html.de" title="Beidseitiger Druck und mehrseitige Anordnungen">beidseitig und mehrere Seiten pro Blatt</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="power.html" title="Energie und Akkus">Energie und Akkus</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="power-status.html" title="Akkustatus überprüfen">Akkuzustand</a></span>, <span class="link"><a href="power-suspend.html" title="Was passiert, wenn ich den Rechner in Bereitschaft versetze?">Bereitschaft</a></span>, <span class="link"><a href="power-whydim.html" title="Warum wird mein Bildschirm nach einer Weile dunkler?">Bildschirm abdunkeln</a></span> …</span></div>
+<div class="links-grid-link"><a href="power.html.de" title="Energie und Akkus">Energie und Akkus</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="power-status.html.de" title="Akkustatus überprüfen">Akkuzustand</a></span>, <span class="link"><a href="power-suspend.html.de" title="Was passiert, wenn ich den Rechner in Bereitschaft versetze?">Bereitschaft</a></span>, <span class="link"><a href="power-whydim.html.de" title="Warum wird mein Bildschirm nach einer Weile dunkler?">Bildschirm abdunkeln</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html" title="Farbverwaltung">Farbverwaltung</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Warum ist Farbverwaltung wichtig?">Warum ist es wichtig</a></span>, <span class="link"><a href="color.html#profiles" title="Farbprofile">Farbprofile</a></span>, <span class="link"><a href="color.html#calibration" title="Kalibrierung">Kalibrierung eines Gerätes</a></span> …</span></div>
+<div class="links-grid-link"><a href="color.html.de" title="Farbverwaltung">Farbverwaltung</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.de" title="Warum ist Farbverwaltung wichtig?">Warum ist es wichtig</a></span>, <span class="link"><a href="color.html.de#profiles" title="Farbprofile">Farbprofile</a></span>, <span class="link"><a href="color.html.de#calibration" title="Kalibrierung">Kalibrierung eines Gerätes</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="disk.html" title="Festplatten und Speicherung">Festplatten und Speicherung</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html" title="Überprüfen, wieviel Festplattenspeicher verfügbar ist">Speicherplatz</a></span>, <span class="link"><a href="disk-benchmark.html" title="Testen der Leistungsfähigkeit Ihrer Festplatte">Geschwindigkeit</a></span>, <span class="link"><a href="disk-check.html" title="Überprüfen Ihrer Festplatte auf Probleme">Probleme</a></span>, <span class="link"><a href="disk-partitions.html" title="Datenträger und Partitionen verwalten">Laufwerke und Partitionen</a></span> …</span></div>
+<div class="links-grid-link"><a href="disk.html.de" title="Festplatten und Speicherung">Festplatten und Speicherung</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html.de" title="Überprüfen, wieviel Festplattenspeicher verfügbar ist">Speicherplatz</a></span>, <span class="link"><a href="disk-benchmark.html.de" title="Testen der Leistungsfähigkeit Ihrer Festplatte">Geschwindigkeit</a></span>, <span class="link"><a href="disk-check.html.de" title="Überprüfen Ihrer Festplatte auf Probleme">Probleme</a></span>, <span class="link"><a href="disk-partitions.html.de" title="Datenträger und Partitionen verwalten">Laufwerke und Partitionen</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware-auth.html" title="Fingerabdruckleser und Smartcards">Fingerabdruckleser und Smartcards</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-fingerprint.html" title="Anmelden per Fingerabdruck">Fingerabdruckleser</a></span>, Smartcards …</span></div>
+<div class="links-grid-link"><a href="hardware-auth.html.de" title="Fingerabdruckleser und Smartcards">Fingerabdruckleser und Smartcards</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-fingerprint.html.de" title="Anmelden per Fingerabdruck">Fingerabdruckleser</a></span>, Smartcards …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html" title="Maus">Maus</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html" title="Die Maus mit der linken Hand verwenden">Linkshändig</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Anpassen der Geschwindigkeit von Maus und Tastfeld">Geschwindigkeit und Empfindlichkeit</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Klicken, Ziehen oder Rollen mit dem Tastfeld">klicken und rollen mit dem Touchpad </a></span> …</span></div>
+<div class="links-grid-link"><a href="mouse.html.de" title="Maus">Maus</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.de" title="Die Maus mit der linken Hand verwenden">Linkshändig</a></span>, <span class="link"><a href="mouse-sensitivity.html.de" title="Anpassen der Geschwindigkeit von Maus und Tastfeld">Geschwindigkeit und Empfindlichkeit</a></span>, <span class="link"><a href="mouse-touchpad-click.html.de" title="Klicken, Ziehen oder Rollen mit dem Tastfeld">klicken und rollen mit dem Touchpad </a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="keyboard.html" title="Tastatur">Tastatur</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Tastaturbelegungen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Den Tastaturcursor blinken lassen">blinkender Cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mobilitätseinschränkungen">Barrierefreiheit der Tastatur</a></span> …</span></div>
+<div class="links-grid-link"><a href="keyboard.html.de" title="Tastatur">Tastatur</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.de" title="Use alternative keyboard layouts">Tastaturbelegungen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.de" title="Den Tastaturcursor blinken lassen">blinkender Cursor</a></span>, <span class="link"><a href="a11y.html.de#mobility" title="Mobilitätseinschränkungen">Barrierefreiheit der Tastatur</a></span> …</span></div>
 </div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Weitere Themen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="Was ist ein Treiber?">Was ist ein Treiber?</a><span class="desc"> — Ein Hardware-/Geräte-Treiber ermöglicht Ihrem Rechner die Verwendung von Geräten, die mit ihm verbunden sind.</span>
+<a href="hardware-driver.html.de" title="Was ist ein Treiber?">Was ist ein Treiber?</a><span class="desc"> — Ein Hardware-/Geräte-Treiber ermöglicht Ihrem Rechner die Verwendung von Geräten, die mit ihm verbunden sind.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -94,23 +94,23 @@
 <div class="hgroup"><h2 class="title"><span class="title">Häufige Probleme</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Bildschirmprobleme">Bildschirmprobleme</a><span class="desc"> — Fehlerbeseitigung bei Bildschirm- und Grafikproblemen.</span>
+<a href="hardware-problems-graphics.html.de" title="Bildschirmprobleme">Bildschirmprobleme</a><span class="desc"> — Fehlerbeseitigung bei Bildschirm- und Grafikproblemen.</span>
 </li>
-<li class="links "><a href="bluetooth.html#problems" title="Probleme">Bluetooth-Probleme</a></li>
+<li class="links "><a href="bluetooth.html.de#problems" title="Probleme">Bluetooth-Probleme</a></li>
 <li class="links ">
-<a href="power.html#problems" title="Probleme">Energieprobleme</a><span class="desc"> — Problemlösungen mit Stromversorgung und Akkus.</span>
-</li>
-<li class="links ">
-<a href="sound-broken.html" title="Klangprobleme">Klangprobleme</a><span class="desc"> — Problemlösungen bei fehlender Klangausgabe oder schlechter Klangqualität.</span>
+<a href="power.html.de#problems" title="Probleme">Energieprobleme</a><span class="desc"> — Problemlösungen mit Stromversorgung und Akkus.</span>
 </li>
 <li class="links ">
-<a href="printing.html#problems" title="Probleme beim Drucken">Probleme beim Drucken</a><span class="desc"> — Nicht erkannte Drucker, Papierstaus, falsche Ausdrucke …</span>
+<a href="sound-broken.html.de" title="Klangprobleme">Klangprobleme</a><span class="desc"> — Problemlösungen bei fehlender Klangausgabe oder schlechter Klangqualität.</span>
 </li>
 <li class="links ">
-<a href="hardware-cardreader.html" title="Probleme mit Speicherkartenlesern">Probleme mit Speicherkartenlesern</a><span class="desc"> — Fehlerbeseitigung bei Speicherkartenlesern</span>
+<a href="printing.html.de#problems" title="Probleme beim Drucken">Probleme beim Drucken</a><span class="desc"> — Nicht erkannte Drucker, Papierstaus, falsche Ausdrucke …</span>
 </li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Problemlösungen für Funknetzwerke">Problemlösungen für Funknetzwerke</a><span class="desc"> — Probleme mit Ihrer Funknetzwerkverbindung eingrenzen und lösen.</span>
+<a href="hardware-cardreader.html.de" title="Probleme mit Speicherkartenlesern">Probleme mit Speicherkartenlesern</a><span class="desc"> — Fehlerbeseitigung bei Speicherkartenlesern</span>
+</li>
+<li class="links ">
+<a href="net-wireless-troubleshooting.html.de" title="Problemlösungen für Funknetzwerke">Problemlösungen für Funknetzwerke</a><span class="desc"> — Probleme mit Ihrer Funknetzwerkverbindung eingrenzen und lösen.</span>
 </li>
 </ul></div></div></div></div></div>
 </div></div>
@@ -118,7 +118,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu-Leitfaden">Ubuntu-Leitfaden</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.de" title="Ubuntu-Leitfaden">Ubuntu-Leitfaden</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

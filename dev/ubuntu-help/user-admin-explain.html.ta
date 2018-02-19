@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="user-accounts.html" title="பயனர் கணக்குகள்">பயனர்கள்</a> › <a class="trail" href="user-accounts.html#privileges" title="பயனர் அனுமதிகள்">அனுமதிகள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="user-accounts.html.ta" title="பயனர் கணக்குகள்">பயனர்கள்</a> › <a class="trail" href="user-accounts.html.ta#privileges" title="பயனர் அனுமதிகள்">அனுமதிகள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">நிர்வாக அனுமதிகள் எப்படி வேலை செய்கின்றன?</span></h1></div>
@@ -96,36 +96,36 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="பயனர் அனுமதிகள்">பயனர் அனுமதிகள்</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.ta#privileges" title="பயனர் அனுமதிகள்">பயனர் அனுமதிகள்</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — பிணைய இணைப்பு அமைவுகளில் <span class="gui">அனைத்து பயனர்களுக்கும் கிடைக்கும்</span> என்ற விருப்பத்தை தேர்வு நீக்கவும் வேண்டும்.</span>
+<a href="net-othersedit.html.ta" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — பிணைய இணைப்பு அமைவுகளில் <span class="gui">அனைத்து பயனர்களுக்கும் கிடைக்கும்</span> என்ற விருப்பத்தை தேர்வு நீக்கவும் வேண்டும்.</span>
 </li>
 <li class="links ">
-<a href="printing-name-location.html" title="அச்சுப்பொறியின் பெயர் அல்லது இருப்பிடத்தை மாற்றுதல்">அச்சுப்பொறியின் பெயர் அல்லது இருப்பிடத்தை மாற்றுதல்</a><span class="desc"> — அச்சுப்பொறி அமைவுகளில், அச்சுப்பொறியின் பெயர் அல்லது இருப்பிடத்தை மாற்றுதல்.</span>
+<a href="printing-name-location.html.ta" title="அச்சுப்பொறியின் பெயர் அல்லது இருப்பிடத்தை மாற்றுதல்">அச்சுப்பொறியின் பெயர் அல்லது இருப்பிடத்தை மாற்றுதல்</a><span class="desc"> — அச்சுப்பொறி அமைவுகளில், அச்சுப்பொறியின் பெயர் அல்லது இருப்பிடத்தை மாற்றுதல்.</span>
 </li>
 <li class="links ">
-<a href="user-changepassword.html" title="உங்கள் கடவுச்சொல்லை மாற்றுதல்">உங்கள் கடவுச்சொல்லை மாற்றுதல்</a><span class="desc"> — கணக்கு அமைவுகளில் உங்கள் கடவுச்சொல்லை அடிக்கடி மாற்றி உங்கள் கணக்கை பாதுகாப்பாக வைத்துக்கொள்ளுதல்.</span>
+<a href="user-changepassword.html.ta" title="உங்கள் கடவுச்சொல்லை மாற்றுதல்">உங்கள் கடவுச்சொல்லை மாற்றுதல்</a><span class="desc"> — கணக்கு அமைவுகளில் உங்கள் கடவுச்சொல்லை அடிக்கடி மாற்றி உங்கள் கணக்கை பாதுகாப்பாக வைத்துக்கொள்ளுதல்.</span>
 </li>
 <li class="links ">
-<a href="user-changepicture.html" title="உங்கள் புகுபதிவு திரை புகைப்படத்தை மாற்றுதல்">உங்கள் புகுபதிவு திரை புகைப்படத்தை மாற்றுதல்</a><span class="desc"> — உங்கள் புகுபதிவு மற்றும் பயனர் திரைகளில் உங்கள் புகைப்படத்தைச் சேர்த்தல்.</span>
+<a href="user-changepicture.html.ta" title="உங்கள் புகுபதிவு திரை புகைப்படத்தை மாற்றுதல்">உங்கள் புகுபதிவு திரை புகைப்படத்தை மாற்றுதல்</a><span class="desc"> — உங்கள் புகுபதிவு மற்றும் பயனர் திரைகளில் உங்கள் புகைப்படத்தைச் சேர்த்தல்.</span>
 </li>
 <li class="links ">
-<a href="user-delete.html" title="ஒரு பயனர் கணக்கை அழித்தல்">ஒரு பயனர் கணக்கை அழித்தல்</a><span class="desc"> — கணினியை இனி பயன்படுத்தாத பயனர்களை அகற்றுதல்.</span>
+<a href="user-delete.html.ta" title="ஒரு பயனர் கணக்கை அழித்தல்">ஒரு பயனர் கணக்கை அழித்தல்</a><span class="desc"> — கணினியை இனி பயன்படுத்தாத பயனர்களை அகற்றுதல்.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="நிர்வாக உரிமைகள் யாருக்கு உள்ளது என்பதை மாற்றுதல்">நிர்வாக உரிமைகள் யாருக்கு உள்ளது என்பதை மாற்றுதல்</a><span class="desc"> — You can allow users to make changes to the system by giving them
+<a href="user-admin-change.html.ta" title="நிர்வாக உரிமைகள் யாருக்கு உள்ளது என்பதை மாற்றுதல்">நிர்வாக உரிமைகள் யாருக்கு உள்ளது என்பதை மாற்றுதல்</a><span class="desc"> — You can allow users to make changes to the system by giving them
     administrative privileges.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="நிர்வாக கட்டுப்பாடுகளால் ஏற்படும் சிக்கல்கள்">நிர்வாக கட்டுப்பாடுகளால் ஏற்படும் சிக்கல்கள்</a><span class="desc"> — You can do some things, like installing applications, only if you
+<a href="user-admin-problems.html.ta" title="நிர்வாக கட்டுப்பாடுகளால் ஏற்படும் சிக்கல்கள்">நிர்வாக கட்டுப்பாடுகளால் ஏற்படும் சிக்கல்கள்</a><span class="desc"> — You can do some things, like installing applications, only if you
     have administrative privileges.</span>
 </li>
 <li class="links ">
-<a href="printing-setup-default-printer.html" title="முன்னிருப்பு அச்சுப்பொறியை அமைத்தல்">முன்னிருப்பு அச்சுப்பொறியை அமைத்தல்</a><span class="desc"> — நீங்கள் பெரும்பாலும் பயன்படுத்தும் அச்சுப்பொறியைத் தேர்வு செய்தல்.</span>
+<a href="printing-setup-default-printer.html.ta" title="முன்னிருப்பு அச்சுப்பொறியை அமைத்தல்">முன்னிருப்பு அச்சுப்பொறியை அமைத்தல்</a><span class="desc"> — நீங்கள் பெரும்பாலும் பயன்படுத்தும் அச்சுப்பொறியைத் தேர்வு செய்தல்.</span>
 </li>
 </ul></div>
 </div></div>

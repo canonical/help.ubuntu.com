@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html#common-file-tasks" title="Biežākie uzdevumi">Biežākie uzdevumi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.lv" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html.lv#common-file-tasks" title="Biežākie uzdevumi">Biežākie uzdevumi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Pārdēvēt datni vai mapi</span></h1></div>
@@ -57,7 +57,7 @@
 <li class="steps"><p class="p">Ierakstiet jauno nosaukumu un nospiediet <span class="key"><kbd>Enter</kbd></span> vai klikšķiniet <span class="gui">Pārdēvēt</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Jūs varat arī pārdēvēt datni, izmantojot <span class="link"><a href="nautilus-file-properties-basic.html" title="Datņu īpašības">īpašību</a></span> logu.</p>
+<p class="p">Jūs varat arī pārdēvēt datni, izmantojot <span class="link"><a href="nautilus-file-properties-basic.html.lv" title="Datņu īpašības">īpašību</a></span> logu.</p>
 <p class="p">Pārdēvējot datni, tiek automātiski iezīmēta tikai nosaukuma pirmā daļa (līdz pēdējam <span class="file">.</span>). Otrā daļa, ko sauc par paplašinājumu, apzīmē datnes veidu — piemēram, <span class="file">datne.pdf</span> ir PDF dokuments — un parasti to nevajadzētu mainīt. Ja vēlaties nomainīt arī paplašinājumu, sākumā izvēlieties visu datnes nosaukumu.</p>
 <div class="note note-tip" title="Padoms"><div class="inner"><div class="region"><div class="contents"><p class="p">Ja gadījās pārdēvēt nepareizo datni vai ierakstīt nepareizu nosaukumu, varat pārdēvēšanu atsaukt. Tūlīt pēc darbības, spiediet uz izvēlnes pogas rīkjoslā un izvēlieties <span class="gui">Atsaukt pārdēvēšanu</span>, vai spiediet <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span>, lai atjaunotu iepriekšējo nosaukumu.</p></div></div></div></div>
 </div>
@@ -65,7 +65,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Derīgas rakstzīmes datņu nosaukumiem</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Datņu nosaukumos var izmantot jebkuras rakstzīmes, izņemot <span class="file">/</span> (slīpsvītru). Tomēr dažas ierīces izmanto <span class="em">datņu sistēmas</span>, kurām ir vairāk ierobežojumu. Tāpēc visdrošāk ir datņu nosaukumos izvairīties no šādām rakstzīmēm — <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
-<div class="note note-warning" title="Brīdinājums"><div class="inner"><div class="region"><div class="contents"><p class="p">Ja datnes nosaukums sākas ar <span class="file">.</span> , datne būs <span class="link"><a href="files-hidden.html" title="Slēpt datni">slēpta</a></span>, skatot mapi ar datņu pārvaldnieku.</p></div></div></div></div>
+<div class="note note-warning" title="Brīdinājums"><div class="inner"><div class="region"><div class="contents"><p class="p">Ja datnes nosaukums sākas ar <span class="file">.</span> , datne būs <span class="link"><a href="files-hidden.html.lv" title="Slēpt datni">slēpta</a></span>, skatot mapi ar datņu pārvaldnieku.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="common-probs" class="sect"><div class="inner">
@@ -79,14 +79,14 @@
 <dt class="terms">Datnes nosaukums ir par garu</dt>
 <dd class="terms"><p class="p">Dažās datņu sistēmās datņu nosaukumi kopā ar ceļu (piemēram, <span class="file">/home/anna/Dokumenti/darbs/jaunie-projekti/… </span>) nedrīkst garumā pārsniegt 255 rakstzīmes. Tāpēc ieteicams pēc iespējas izvairīties no gariem datņu un mapju nosaukumiem.</p></dd>
 <dt class="terms">Iespēja pārdēvēt nav pieejama</dt>
-<dd class="terms"><p class="p">Ja iespēja <span class="gui">Pārdēvēt</span> ir neaktīva, jums nav atļaujas pārdēvēt datni. Pārdēvējot šādas datnes, ieteicama piesardzība, jo dažu aizsargāto datņu pārdēvēšana varētu padarīt sistēmu nelietojamu. Skatiet <span class="link"><a href="nautilus-file-properties-permissions.html" title="Iestatīt atļaujas datnēm">Iestatīt atļaujas datnēm</a></span>, lai uzzinātu vairāk.</p></dd>
+<dd class="terms"><p class="p">Ja iespēja <span class="gui">Pārdēvēt</span> ir neaktīva, jums nav atļaujas pārdēvēt datni. Pārdēvējot šādas datnes, ieteicama piesardzība, jo dažu aizsargāto datņu pārdēvēšana varētu padarīt sistēmu nelietojamu. Skatiet <span class="link"><a href="nautilus-file-properties-permissions.html.lv" title="Iestatīt atļaujas datnēm">Iestatīt atļaujas datnēm</a></span>, lai uzzinātu vairāk.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Biežākie uzdevumi">Biežākie uzdevumi</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.lv#common-file-tasks" title="Biežākie uzdevumi">Biežākie uzdevumi</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

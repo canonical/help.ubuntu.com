@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="disk.html" title="Discos e almacenamento">Discos e almacenamento</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="disk.html.gl-GL" title="Discos e almacenamento">Discos e almacenamento</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Adjust the size of a filesystem</span></h1></div>
@@ -77,7 +77,7 @@
 <p class="p">Depending on how much data has to be moved from the shrunk part, the
        filesystem resize may take longer time.</p>
 <div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">The filesystem resize automatically involves
-         <span class="link"><a href="disk-repair.html" title="Repair a damaged filesystem">repairing</a></span> of the filesystem. Therefore
+         <span class="link"><a href="disk-repair.html.gl-GL" title="Repair a damaged filesystem">repairing</a></span> of the filesystem. Therefore
          it is advised to back up important data before starting. The action
          must not be stopped or it will result in a damaged filesystem.</p></div></div></div></div>
 </li>
@@ -97,7 +97,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Discos e almacenamento">Discos e almacenamento</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Comprobar canto espazo de disco hai dispoñíbel">Espazo de disco</a></span>, <span class="link"><a href="disk-benchmark.html" title="Comprobar o rendemento do seu disco duro">rendemento</a></span>, <span class="link"><a href="disk-check.html" title="Comprobar os problemas do disco duro">problemas</a></span>, <span class="link"><a href="disk-partitions.html" title="Xestionar os volumes e particións">volumes e particións</a></span>…</span>
+<a href="disk.html.gl-GL" title="Discos e almacenamento">Discos e almacenamento</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.gl-GL" title="Comprobar canto espazo de disco hai dispoñíbel">Espazo de disco</a></span>, <span class="link"><a href="disk-benchmark.html.gl-GL" title="Comprobar o rendemento do seu disco duro">rendemento</a></span>, <span class="link"><a href="disk-check.html.gl-GL" title="Comprobar os problemas do disco duro">problemas</a></span>, <span class="link"><a href="disk-partitions.html.gl-GL" title="Xestionar os volumes e particións">volumes e particións</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

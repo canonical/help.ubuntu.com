@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-email.html" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-email.html.el" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-security.html" title="Μένοντας ασφαλής στο διαδίκτυο">Μένοντας ασφαλής στο διαδίκτυο</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-security.html.el" title="Μένοντας ασφαλής στο διαδίκτυο">Μένοντας ασφαλής στο διαδίκτυο</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Οι ιοί είναι προγράμματα που προκαλούν προβλήματα εάν καταφέρουν να βρουν τον δρόμο τους στον υπολογιστή σας. Ένας συνηθισμένος τρόπος τους για να μπουν στον υπολογιστή σας είναι μέσα από μηνύματα ηλεκτρονικής αλληλογραφίας.</p>
 <p class="p">Viruses that can affect computers running Linux are quite rare, so you are
-  <span class="link"><a href="net-antivirus.html" title="Χρειάζομαι λογισμικό προστασίας από ιούς;">unlikely to get a virus through email or
+  <span class="link"><a href="net-antivirus.html.el" title="Χρειάζομαι λογισμικό προστασίας από ιούς;">unlikely to get a virus through email or
   otherwise</a></span>. If you receive an email with a virus hidden in it, it will
   probably have no effect on your computer. As such, you probably don’t need to
   scan your email for viruses.</p>
@@ -75,13 +75,13 @@
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-email.html" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας</a><span class="desc"> — <span class="link"><a href="net-default-email.html" title="Αλλάξτε ποια εφαρμογή αλληλογραφίας χρησιμοποιείται για συγγραφή ηλεκτρονικής αλληλογραφίας">Προεπιλεγμένες εφαρμογές αλληλογραφίας</a></span>, <span class="link"><a href="net-email-virus.html" title="Χρειάζεται να σαρώνω την ηλεκτρονική αλληλογγραφία μου για ιούς;">Πρέπει να σαρώσω τον υπολογιστή μου για ιούς;</a></span>…</span>
+<a href="net-email.html.el" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας</a><span class="desc"> — <span class="link"><a href="net-default-email.html.el" title="Αλλάξτε ποια εφαρμογή αλληλογραφίας χρησιμοποιείται για συγγραφή ηλεκτρονικής αλληλογραφίας">Προεπιλεγμένες εφαρμογές αλληλογραφίας</a></span>, <span class="link"><a href="net-email-virus.html.el" title="Χρειάζεται να σαρώνω την ηλεκτρονική αλληλογγραφία μου για ιούς;">Πρέπει να σαρώσω τον υπολογιστή μου για ιούς;</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-security.html" title="Μένοντας ασφαλής στο διαδίκτυο">Μένοντας ασφαλής στο διαδίκτυο</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="Χρειάζομαι λογισμικό προστασίας από ιούς;">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Ενεργοποιήστε ή φράξτε την πρόσβαση τείχους προστασίας">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Κοινές χρησιμοποιούμενες θύρες δικτύου">firewall ports</a></span>…
+<a href="net-security.html.el" title="Μένοντας ασφαλής στο διαδίκτυο">Μένοντας ασφαλής στο διαδίκτυο</a><span class="desc"> — 
+      <span class="link"><a href="net-antivirus.html.el" title="Χρειάζομαι λογισμικό προστασίας από ιούς;">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.el" title="Ενεργοποιήστε ή φράξτε την πρόσβαση τείχους προστασίας">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.el" title="Κοινές χρησιμοποιούμενες θύρες δικτύου">firewall ports</a></span>…
     </span>
 </li>
 </ul></div>
@@ -89,7 +89,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="Χρειάζομαι λογισμικό προστασίας από ιούς;">Χρειάζομαι λογισμικό προστασίας από ιούς;</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
+<a href="net-antivirus.html.el" title="Χρειάζομαι λογισμικό προστασίας από ιούς;">Χρειάζομαι λογισμικό προστασίας από ιούς;</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
     software.</span>
 </li></ul></div>
 </div></div>

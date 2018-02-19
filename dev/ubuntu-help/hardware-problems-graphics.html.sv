@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html#problems" title="Vanliga problem">Problem</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html.sv#problems" title="Vanliga problem">Problem</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Skärmproblem</span></h1></div>
@@ -51,20 +51,20 @@
 <div class="contents">
 <p class="p">De flesta problemen med skärmar orsakas av problem med grafikdrivrutiner eller konfiguration. Vilket av ämnena nedan beskriver bäst problemet du upplever?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="Skärmen låser sig själv allt för snabbt"><span class="title">Skärmen låser sig själv allt för snabbt</span><span class="linkdiv-dash"> — </span><span class="desc">Ändra hur länge det tar innan skärmen låser sig själv i <span class="gui">Sekretessinställningar</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html" title="Ställ in ljusstyrka"><span class="title">Ställ in ljusstyrka</span><span class="linkdiv-dash"> — </span><span class="desc">Ändra skärmens ljusstyrka för att göra den läsligare i starkt ljus.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Ställ in tiden för skärmtömning"><span class="title">Ställ in tiden för skärmtömning</span><span class="linkdiv-dash"> — </span><span class="desc">Ändra tiden till skärmtömning för att spara ström.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html" title="Varför ser saker otydliga/pixellerade ut på min skärm?"><span class="title">Varför ser saker otydliga/pixellerade ut på min skärm?</span><span class="linkdiv-dash"> — </span><span class="desc">Skärmupplösningen kan vara felaktigt inställd.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Varför tonas min skärm ner efter ett tag?"><span class="title">Varför tonas min skärm ner efter ett tag?</span><span class="linkdiv-dash"> — </span><span class="desc">Skärmen tonas ner när datorn är oanvänd för att spara ström.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="Varför återstartar inte min dator efter att jag har försatt den i vänteläge?"><span class="title">Varför återstartar inte min dator efter att jag har försatt den i vänteläge?</span><span class="linkdiv-dash"> — </span><span class="desc">Viss datorhårdvara orsakar problem med vänteläge.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="Min dator vill inte starta"><span class="title">Min dator vill inte starta</span><span class="linkdiv-dash"> — </span><span class="desc">Lösa kablar och hårdvaruproblem är möjliga orsaker.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.sv" title="Skärmen låser sig själv allt för snabbt"><span class="title">Skärmen låser sig själv allt för snabbt</span><span class="linkdiv-dash"> — </span><span class="desc">Ändra hur länge det tar innan skärmen låser sig själv i <span class="gui">Sekretessinställningar</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.sv" title="Ställ in ljusstyrka"><span class="title">Ställ in ljusstyrka</span><span class="linkdiv-dash"> — </span><span class="desc">Ändra skärmens ljusstyrka för att göra den läsligare i starkt ljus.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.sv" title="Ställ in tiden för skärmtömning"><span class="title">Ställ in tiden för skärmtömning</span><span class="linkdiv-dash"> — </span><span class="desc">Ändra tiden till skärmtömning för att spara ström.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.sv" title="Varför ser saker otydliga/pixellerade ut på min skärm?"><span class="title">Varför ser saker otydliga/pixellerade ut på min skärm?</span><span class="linkdiv-dash"> — </span><span class="desc">Skärmupplösningen kan vara felaktigt inställd.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.sv" title="Varför tonas min skärm ner efter ett tag?"><span class="title">Varför tonas min skärm ner efter ett tag?</span><span class="linkdiv-dash"> — </span><span class="desc">Skärmen tonas ner när datorn är oanvänd för att spara ström.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.sv" title="Varför återstartar inte min dator efter att jag har försatt den i vänteläge?"><span class="title">Varför återstartar inte min dator efter att jag har försatt den i vänteläge?</span><span class="linkdiv-dash"> — </span><span class="desc">Viss datorhårdvara orsakar problem med vänteläge.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.sv" title="Min dator vill inte starta"><span class="title">Min dator vill inte starta</span><span class="linkdiv-dash"> — </span><span class="desc">Lösa kablar och hårdvaruproblem är möjliga orsaker.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Vanliga problem">Hårdvaruproblem</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.sv#problems" title="Vanliga problem">Hårdvaruproblem</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

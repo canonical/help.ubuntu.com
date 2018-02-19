@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="addremove.html" title="Instalar e eliminar software">Engadir/Eliminar aplicativos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="addremove.html.gl-GL" title="Instalar e eliminar software">Engadir/Eliminar aplicativos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Instalar aplicativos adicionais</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Un aplicativo é software cunha interface gráfica para o usuario (GUI). O equipo de desenvolvemento do Ubuntu seleccionou un conxunto de aplicativos que cremos fai o Ubuntu moi útil para o día a día. Con todo, vostede pode instalar máis aplicativos para axustalo ás súas necesidades. Para instalar un aplicativo pode usar o <span class="app">Ubuntu Software</span>.</p>
 <p class="p">Os aplicativos están dispoñíbeis en dous formatos: paquetes snap e paquetes Debian. Aos paquetes dispoñíbeis como snaps chamarémoslle de agora en diante <span class="em">snap</span>. Para instalar ou eliminar un snap ten que iniciar sesión na Tenda de snaps/Ubuntu One. Algúns aplicativos están dispoñíbeis en ambos os formatos. Neste caso o snap aparecerá primeiro no <span class="app">Ubuntu Software</span>.</p>
-<p class="p">Quizais desexe instalar software que non ten interface de usuario. Para instalar ese software, pode usar o <span class="link"><a href="addremove-install-synaptic.html" title="Use Synaptic para unha xestión de software máis avanzada">Synaptic</a></span>. Teña en conta que o <span class="app">Synaptic</span> non lista snaps.</p>
+<p class="p">Quizais desexe instalar software que non ten interface de usuario. Para instalar ese software, pode usar o <span class="link"><a href="addremove-install-synaptic.html.gl-GL" title="Use Synaptic para unha xestión de software máis avanzada">Synaptic</a></span>. Teña en conta que o <span class="app">Synaptic</span> non lista snaps.</p>
 <p class="p">Para instalar un aplicativo.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Prema na icona do <span class="app">Ubuntu Software</span> situada na <span class="gui">Doca</span> ou busque <span class="input">Software</span> na barra de busca das <span class="em">Actividades</span>.</p></li>
@@ -67,20 +67,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Instalar e eliminar software">Instalar e eliminar software</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Instalar aplicativos adicionais">Instalar aplicativos</a></span>, <span class="link"><a href="addremove-remove.html" title="Retirar un aplicativo">eliminar aplicativos</a></span>, <span class="link"><a href="addremove-sources.html" title="Engadir repositorios de software">engadir repositorios</a></span>…</span>
+<a href="addremove.html.gl-GL" title="Instalar e eliminar software">Instalar e eliminar software</a><span class="desc"> — <span class="link"><a href="addremove-install.html.gl-GL" title="Instalar aplicativos adicionais">Instalar aplicativos</a></span>, <span class="link"><a href="addremove-remove.html.gl-GL" title="Retirar un aplicativo">eliminar aplicativos</a></span>, <span class="link"><a href="addremove-sources.html.gl-GL" title="Engadir repositorios de software">engadir repositorios</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-language-install.html" title="Instalar idiomas">Instalar idiomas</a><span class="desc"> — Instalar máis traducións e paquetes de asistencia do idioma relacionado.</span>
+<a href="prefs-language-install.html.gl-GL" title="Instalar idiomas">Instalar idiomas</a><span class="desc"> — Instalar máis traducións e paquetes de asistencia do idioma relacionado.</span>
 </li>
 <li class="links ">
-<a href="addremove-remove.html" title="Retirar un aplicativo">Retirar un aplicativo</a><span class="desc"> — Elimine aplicativos que xa non usa.</span>
+<a href="addremove-remove.html.gl-GL" title="Retirar un aplicativo">Retirar un aplicativo</a><span class="desc"> — Elimine aplicativos que xa non usa.</span>
 </li>
 <li class="links ">
-<a href="addremove-install-synaptic.html" title="Use Synaptic para unha xestión de software máis avanzada">Use Synaptic para unha xestión de software máis avanzada</a><span class="desc"> — Synaptic é unha potente pero complicada alternativa de xestión de software a <span class="app">Ubuntu Software</span>.</span>
+<a href="addremove-install-synaptic.html.gl-GL" title="Use Synaptic para unha xestión de software máis avanzada">Use Synaptic para unha xestión de software máis avanzada</a><span class="desc"> — Synaptic é unha potente pero complicada alternativa de xestión de software a <span class="app">Ubuntu Software</span>.</span>
 </li>
 </ul></div>
 </div></div>

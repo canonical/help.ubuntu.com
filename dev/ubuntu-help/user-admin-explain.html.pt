@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="user-accounts.html" title="Contas de utilizador">Utentes</a> › <a class="trail" href="user-accounts.html#privileges" title="Mordomias do utilizador">Mordomias</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="user-accounts.html.pt" title="Contas de utilizador">Utentes</a> › <a class="trail" href="user-accounts.html.pt#privileges" title="Mordomias do utilizador">Mordomias</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Como funcionam os privilégios de administrador?</span></h1></div>
@@ -87,34 +87,34 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Mordomias do utilizador">Mordomias do utilizador</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.pt#privileges" title="Mordomias do utilizador">Mordomias do utilizador</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-delete.html" title="Eliminar uma conta de utilizador">Eliminar uma conta de utilizador</a><span class="desc"> — Eliminar utilizadores que já não usam o seu computador</span>
+<a href="user-delete.html.pt" title="Eliminar uma conta de utilizador">Eliminar uma conta de utilizador</a><span class="desc"> — Eliminar utilizadores que já não usam o seu computador</span>
 </li>
 <li class="links ">
-<a href="printing-setup-default-printer.html" title="Estabelecer a impressora predeterminada">Estabelecer a impressora predeterminada</a><span class="desc"> — Selecionar a impressora que usa mais frequentemente.</span>
+<a href="printing-setup-default-printer.html.pt" title="Estabelecer a impressora predeterminada">Estabelecer a impressora predeterminada</a><span class="desc"> — Selecionar a impressora que usa mais frequentemente.</span>
 </li>
 <li class="links ">
-<a href="user-changepicture.html" title="Mudar a imagem de início de sessão">Mudar a imagem de início de sessão</a><span class="desc"> — Acrescentar a sua foto aos ecrãs de início de sessão e utilizador.</span>
+<a href="user-changepicture.html.pt" title="Mudar a imagem de início de sessão">Mudar a imagem de início de sessão</a><span class="desc"> — Acrescentar a sua foto aos ecrãs de início de sessão e utilizador.</span>
 </li>
 <li class="links ">
-<a href="user-changepassword.html" title="Mudar a sua palavra-passe">Mudar a sua palavra-passe</a><span class="desc"> — Mantenha a sua conta segura mudando a sua palavra-passe frequentemente, na configuração da sua conta.</span>
+<a href="user-changepassword.html.pt" title="Mudar a sua palavra-passe">Mudar a sua palavra-passe</a><span class="desc"> — Mantenha a sua conta segura mudando a sua palavra-passe frequentemente, na configuração da sua conta.</span>
 </li>
 <li class="links ">
-<a href="printing-name-location.html" title="Mudar o nome ou a localização duma impressora">Mudar o nome ou a localização duma impressora</a><span class="desc"> — Mudar o nome ou a localização duma impressora nas opções de impressão.</span>
+<a href="printing-name-location.html.pt" title="Mudar o nome ou a localização duma impressora">Mudar o nome ou a localização duma impressora</a><span class="desc"> — Mudar o nome ou a localização duma impressora nas opções de impressão.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="Mudar quem tem privilégios de administrador">Mudar quem tem privilégios de administrador</a><span class="desc"> — Pode permitir aos utilizadores fazer mudanças no sistema dando-lhes privilégios de administrador.</span>
+<a href="user-admin-change.html.pt" title="Mudar quem tem privilégios de administrador">Mudar quem tem privilégios de administrador</a><span class="desc"> — Pode permitir aos utilizadores fazer mudanças no sistema dando-lhes privilégios de administrador.</span>
 </li>
 <li class="links ">
-<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — Deve desmarcar a opção <span class="gui">Disponível para todos os utilizadores</span> na configuração da conexão.</span>
+<a href="net-othersedit.html.pt" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — Deve desmarcar a opção <span class="gui">Disponível para todos os utilizadores</span> na configuração da conexão.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="Problemas causados por restrições administrativas">Problemas causados por restrições administrativas</a><span class="desc"> — Pode fazer algumas coisas, como instalar aplicações, só se tem privilégios de administrador.</span>
+<a href="user-admin-problems.html.pt" title="Problemas causados por restrições administrativas">Problemas causados por restrições administrativas</a><span class="desc"> — Pode fazer algumas coisas, como instalar aplicações, só se tem privilégios de administrador.</span>
 </li>
 </ul></div>
 </div></div>

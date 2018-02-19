@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">ಸಿದ್ಧತೆಗಳು</a> » <a class="trail" href="media.html#sound" title="Basic sound">ಧ್ವನಿ</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.kn" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.kn" title="User &amp; system settings">ಸಿದ್ಧತೆಗಳು</a> » <a class="trail" href="media.html.kn#sound" title="Basic sound">ಧ್ವನಿ</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Choose or disable the alert sound</span></h1></div>
@@ -54,7 +54,7 @@
   volume independently of your system volume, or disable alert sounds
   entirely.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.kn#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Sound</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Sound Effects</span> tab, select an alert sound. Each sound
@@ -72,17 +72,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">ಇನ್ನಷ್ಟು ಮಾಹಿತಿ</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="Basic sound">Basic sound</a><span class="desc"> — 
-     <span class="link"><a href="sound-volume.html" title="Change the sound volume">Volume</a></span>,
-     <span class="link"><a href="sound-usespeakers.html" title="Use different speakers or headphones">speakers and headphones</a></span>,
-     <span class="link"><a href="sound-usemic.html" title="Use a different microphone">microphones</a></span>…
+<a href="media.html.kn#sound" title="Basic sound">Basic sound</a><span class="desc"> — 
+     <span class="link"><a href="sound-volume.html.kn" title="Change the sound volume">Volume</a></span>,
+     <span class="link"><a href="sound-usespeakers.html.kn" title="Use different speakers or headphones">speakers and headphones</a></span>,
+     <span class="link"><a href="sound-usemic.html.kn" title="Use a different microphone">microphones</a></span>…
    </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ಇದನ್ನೂ ಸಹ ನೋಡಿ</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y-visualalert.html" title="Flash the screen for alert sounds">Flash the screen for alert sounds</a><span class="desc"> — Enable visual alerts to flash the screen or window when an
+<a href="a11y-visualalert.html.kn" title="Flash the screen for alert sounds">Flash the screen for alert sounds</a><span class="desc"> — Enable visual alerts to flash the screen or window when an
     alert sound is played.</span>
 </li></ul></div>
 </div></div>

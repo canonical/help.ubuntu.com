@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html.fr" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html.fr#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Écriture de fichiers sur un CD ou un DVD</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Il est possible de graver des fichiers sur un disque vierge avec le <span class="gui">Créateur de CD/DVD</span>. L'option apparaît dans le gestionnaire de fichiers dès qu'un disque vierge est inséré dans le graveur de CD/DVD. Le gestionnaire de fichiers vous permet de transférer des fichiers vers d'autres ordinateurs ou de faire des <span class="link"><a href="backup-why.html" title="Sauvegarde de vos fichiers importants">sauvegardes</a></span> en copiant des fichiers sur des disques vierges. Pour graver des fichiers sur un CD ou un DVD :</p>
+<p class="p">Il est possible de graver des fichiers sur un disque vierge avec le <span class="gui">Créateur de CD/DVD</span>. L'option apparaît dans le gestionnaire de fichiers dès qu'un disque vierge est inséré dans le graveur de CD/DVD. Le gestionnaire de fichiers vous permet de transférer des fichiers vers d'autres ordinateurs ou de faire des <span class="link"><a href="backup-why.html.fr" title="Sauvegarde de vos fichiers importants">sauvegardes</a></span> en copiant des fichiers sur des disques vierges. Pour graver des fichiers sur un CD ou un DVD :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">insérez un disque vierge dans votre graveur de CD/DVD,</p></li>
 <li class="steps">
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.fr#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

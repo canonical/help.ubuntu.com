@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="mouse.html" title="Mus">Mus</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="mouse.html.sv" title="Mus">Mus</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="mouse.html" title="Mus">Mus</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="mouse.html.sv" title="Mus">Mus</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Du kan kasta om beteende på vänster och höger knapp på din mus eller styrplatta för att göra det bekvämare att använda för vänsterhänta.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Mus &amp; styrplatta</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Mus &amp; styrplatta</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Mus &amp; styrplatta</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">I avsnittet <span class="gui">Allmänt</span>, slå om <span class="gui">Primärknapp</span> till <span class="gui">Höger</span>.</p></li>
 </ol></div></div></div>
@@ -66,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html" title="Mus">Mus</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Använd din mus med vänster hand">Vänsterhänt</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Justera hastigheten för musen och styrplattan">hastighet och känslighet</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Klicka, dra eller rulla med styrplattan">klickning och rullning med styrplatta</a></span>…</span>
+<a href="mouse.html.sv" title="Mus">Mus</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.sv" title="Använd din mus med vänster hand">Vänsterhänt</a></span>, <span class="link"><a href="mouse-sensitivity.html.sv" title="Justera hastigheten för musen och styrplattan">hastighet och känslighet</a></span>, <span class="link"><a href="mouse-touchpad-click.html.sv" title="Klicka, dra eller rulla med styrplattan">klickning och rullning med styrplatta</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

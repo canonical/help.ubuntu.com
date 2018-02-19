@@ -43,26 +43,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="clock.html" title="Datum und Uhrzeit">Datum und Uhrzeit</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="clock.html.de" title="Datum und Uhrzeit">Datum und Uhrzeit</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ändern Ihrer Zeitzone</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Datum und Uhrzeit</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Datum und Uhrzeit</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Datum und Uhrzeit</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Wenn Sie <span class="gui">Zeitzone automatisch ermitteln</span> auf <span class="gui">AN</span> gestellt haben, sollte sich Ihre Zeitzone automatisch einstellen, wenn Sie eine Internetverbindung haben. Um die Zeitzone manuell einzustellen, stellen Sie den Schalter auf <span class="gui">AUS</span>.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Zeitzone</span> und wählen Sie anschließend Ihren derzeitigen Standort auf der Karte und wählen Sie Ihre aktuelle Stadt aus.</p></li>
 </ol></div></div></div>
-<p class="p">Die Uhrzeit passt sich automatisch an, wenn Sie einen anderen Standort wählen. Sie können die Uhr auch <span class="link"><a href="clock-set.html" title="Datum und Uhrzeit ändern">manuell stellen</a></span>.</p>
+<p class="p">Die Uhrzeit passt sich automatisch an, wenn Sie einen anderen Standort wählen. Sie können die Uhr auch <span class="link"><a href="clock-set.html.de" title="Datum und Uhrzeit ändern">manuell stellen</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Datum und Uhrzeit">Datum und Uhrzeit</a><span class="desc"> — <span class="link"><a href="clock-set.html" title="Datum und Uhrzeit ändern">Datum und Uhrzeit einstellen</a></span>, <span class="link"><a href="clock-world.html" title="Eine Weltuhr hinzufügen">Weltuhren</a></span>, <span class="link"><a href="clock-timezone.html" title="Ändern Ihrer Zeitzone">Zeitzonen</a></span>, <span class="link"><a href="clock-calendar.html" title="Kalendereinträge">Kalender und Termine</a></span> …</span>
+<a href="clock.html.de" title="Datum und Uhrzeit">Datum und Uhrzeit</a><span class="desc"> — <span class="link"><a href="clock-set.html.de" title="Datum und Uhrzeit ändern">Datum und Uhrzeit einstellen</a></span>, <span class="link"><a href="clock-world.html.de" title="Eine Weltuhr hinzufügen">Weltuhren</a></span>, <span class="link"><a href="clock-timezone.html.de" title="Ändern Ihrer Zeitzone">Zeitzonen</a></span>, <span class="link"><a href="clock-calendar.html.de" title="Kalendereinträge">Kalender und Termine</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

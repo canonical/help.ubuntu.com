@@ -43,34 +43,34 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="a11y.html" title="Hjälpmedel">Hjälpmedel</a> › <a class="trail" href="a11y.html#sound" title="Hörselnedsättningar">Hörselnedsättningar</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="a11y.html.sv" title="Hjälpmedel">Hjälpmedel</a> › <a class="trail" href="a11y.html.sv#sound" title="Hörselnedsättningar">Hörselnedsättningar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Blinka skärmen vid larmljud</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Din dator kommer att spela ett enkelt larmljud för vissa typer av meddelande och händelser. Om du har svårt att höra dessa ljud kan du antingen låta hela skärmen eller det aktuella fönstret blinka när ett larmljud spelas.</p>
-<p class="p">Detta kan också vara användbart om du är i en miljö där din dator måste vara tyst, som på ett bibliotek. Se <span class="link"><a href="sound-alert.html" title="Välj eller inaktivera larmljudet">Välj eller inaktivera larmljudet</a></span> för att lära dig hur du tystar larmljuden, och aktivera sedan visuella larm.</p>
+<p class="p">Detta kan också vara användbart om du är i en miljö där din dator måste vara tyst, som på ett bibliotek. Se <span class="link"><a href="sound-alert.html.sv" title="Välj eller inaktivera larmljudet">Välj eller inaktivera larmljudet</a></span> för att lära dig hur du tystar larmljuden, och aktivera sedan visuella larm.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Hjälpmedel</span>.</p></li>
+<li class="steps"><p class="p">Öppna <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Hjälpmedel</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Hjälpmedel</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="gui">Visuella larm</span> i avsnittet <span class="gui">Höra</span>.</p></li>
 <li class="steps"><p class="p">Slå om <span class="gui">Visuella larm</span> till <span class="gui">PÅ</span>.</p></li>
 <li class="steps"><p class="p">Välj om du vill att hela skärmen eller bara det aktuella fönstrets namnlist ska blinka.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Du kan också aktivera eller inaktivera visuella larm genom att klicka på <span class="link"><a href="a11y-icon.html" title="Hitta hjälpmedelsmenyn">hjälpmedelsikonen</a></span> i systemraden och välja <span class="gui">Visuella larm</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Du kan också aktivera eller inaktivera visuella larm genom att klicka på <span class="link"><a href="a11y-icon.html.sv" title="Hitta hjälpmedelsmenyn">hjälpmedelsikonen</a></span> i systemraden och välja <span class="gui">Visuella larm</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#sound" title="Hörselnedsättningar">Hörselnedsättningar</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.sv#sound" title="Hörselnedsättningar">Hörselnedsättningar</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-alert.html" title="Välj eller inaktivera larmljudet">Välj eller inaktivera larmljudet</a><span class="desc"> — Välj ett ljud som spelar för meddelanden, ställa in larmljudet eller inaktivera larmljud.</span>
+<a href="sound-alert.html.sv" title="Välj eller inaktivera larmljudet">Välj eller inaktivera larmljudet</a><span class="desc"> — Välj ett ljud som spelar för meddelanden, ställa in larmljudet eller inaktivera larmljud.</span>
 </li></ul></div>
 </div></div>
 </div>

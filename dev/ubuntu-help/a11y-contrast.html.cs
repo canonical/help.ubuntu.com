@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Univerzální přístup">Univerzální přístup</a> › <a class="trail" href="a11y.html#vision" title="Zraková postižení">Zraková postižení</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.cs" title="Univerzální přístup">Univerzální přístup</a> › <a class="trail" href="a11y.html.cs#vision" title="Zraková postižení">Zraková postižení</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Úprava kontrastu</span></h1></div>
@@ -51,13 +51,13 @@
 <div class="contents">
 <p class="p">Můžete si upravit kontrast oken a tlačítek, aby byla na pohled zřetelnější. Je to něco jiného, než změna jasu celé obrazovky. Změní se jen součásti <span class="em">uživatelského rozhraní</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Univerzální přístup</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Univerzální přístup</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Univerzální přístup</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">V části <span class="gui">Zrak</span> přepněte vypínač <span class="gui">Vysoký kontrast</span> na <span class="gui">❙</span> (zapnuto).</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner">
 <div class="title title-note"><h2><span class="title">Rychlé zapnutí a vypnutí vysokého kontrastu</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Vypnout nebo zapnout vysoký kontrast můžete kliknutím na <span class="link"><a href="a11y-icon.html" title="Vyhledání nabídky univerzálního přístupu">ikonu zpřístupnění</a></span> na horní liště a následným výběrem položky <span class="gui">Vysoký kontrast</span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Vypnout nebo zapnout vysoký kontrast můžete kliknutím na <span class="link"><a href="a11y-icon.html.cs" title="Vyhledání nabídky univerzálního přístupu">ikonu zpřístupnění</a></span> na horní liště a následným výběrem položky <span class="gui">Vysoký kontrast</span>.</p></div></div>
 </div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -65,12 +65,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Zraková postižení">Zraková postižení</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.cs#vision" title="Zraková postižení">Zraková postižení</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="display-brightness.html" title="Nastavení jasu obrazovky">Nastavení jasu obrazovky</a><span class="desc"> — Jak změnit jas obrazovky, aby byla čitelnější na ostrém světle.</span>
+<a href="display-brightness.html.cs" title="Nastavení jasu obrazovky">Nastavení jasu obrazovky</a><span class="desc"> — Jak změnit jas obrazovky, aby byla čitelnější na ostrém světle.</span>
 </li></ul></div>
 </div></div>
 </div>

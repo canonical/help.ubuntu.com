@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="power.html" title="Energía y batería">Energía y batería</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="power.html.es" title="Energía y batería">Energía y batería</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="power.html" title="Energía y batería">Energía y batería</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="power.html.es" title="Energía y batería">Energía y batería</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,9 +56,9 @@
 <div id="general" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Consejos generales</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#shut-down" title="shell-exit#shut-down">Suspenda su equipo</a></span> cuando no lo esté usando. Esto reduce significativamente la energía que consume y puede reanudar el equipo muy rápidamente.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#shutdown" title="Apagar o reiniciar">Apague</a></span> el equipo cuando no vaya a usarlo durante mucho tiempo. Algunas personas creen que apagar un equipo con regularidad puede hacer que se desgaste más rápidamente, pero no es el caso.</p></li>
-<li class="list"><p class="p">Use el panel de <span class="gui">Energía</span> en la <span class="app">Configuración</span> para cambiar sus opciones de energía. Hay varias opciones que pueden ayudarle a ahorrar energía: puede <span class="link"><a href="display-blank.html" title="Establecer el tiempo de apagado de la pantalla">atenuar automáticamente la pantalla</a></span> pasado un cierto tiempo; reducir el <span class="link"><a href="display-brightness.html" title="Establecer el brillo de la pantalla">brillo de la pantalla</a></span> y hacer que el equipo <span class="link"><a href="power-suspend.html" title="¿Qué ocurre cuando suspendo el equipo?">se suspenda automáticamente</a></span> si no lo usa durante un cierto período de tiempo.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.es#shut-down" title="shell-exit#shut-down">Suspenda su equipo</a></span> cuando no lo esté usando. Esto reduce significativamente la energía que consume y puede reanudar el equipo muy rápidamente.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.es#shutdown" title="Apagar o reiniciar">Apague</a></span> el equipo cuando no vaya a usarlo durante mucho tiempo. Algunas personas creen que apagar un equipo con regularidad puede hacer que se desgaste más rápidamente, pero no es el caso.</p></li>
+<li class="list"><p class="p">Use el panel de <span class="gui">Energía</span> en la <span class="app">Configuración</span> para cambiar sus opciones de energía. Hay varias opciones que pueden ayudarle a ahorrar energía: puede <span class="link"><a href="display-blank.html.es" title="Establecer el tiempo de apagado de la pantalla">atenuar automáticamente la pantalla</a></span> pasado un cierto tiempo; reducir el <span class="link"><a href="display-brightness.html.es" title="Establecer el brillo de la pantalla">brillo de la pantalla</a></span> y hacer que el equipo <span class="link"><a href="power-suspend.html.es" title="¿Qué ocurre cuando suspendo el equipo?">se suspenda automáticamente</a></span> si no lo usa durante un cierto período de tiempo.</p></li>
 <li class="list"><p class="p">Apague cualquier dispositivo externo (como impresoras o escáneres) cuando no los use.</p></li>
 </ul></div></div></div></div></div>
 </div></div>
@@ -66,7 +66,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Portátiles, netbooks y otros dispositivos con baterías</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Reducir el <span class="link"><a href="display-brightness.html" title="Establecer el brillo de la pantalla">brillo de la pantalla</a></span>; el consumo de energía de la pantalla supone una parte significativa del consumo de energía total de un portátil.</p>
+<p class="p">Reducir el <span class="link"><a href="display-brightness.html.es" title="Establecer el brillo de la pantalla">brillo de la pantalla</a></span>; el consumo de energía de la pantalla supone una parte significativa del consumo de energía total de un portátil.</p>
 <p class="p">La mayoría de los portátiles tienen botones en el teclado (o una combinación de teclas) que puede usar para reducir el brillo.</p>
 </li>
 <li class="list">
@@ -88,31 +88,31 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Energía y batería">Energía y batería</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Compruebe el estado de la batería">Estado de la batería</a></span>, <span class="link"><a href="power-suspend.html" title="¿Qué ocurre cuando suspendo el equipo?">suspender</a></span>, <span class="link"><a href="power-whydim.html" title="¿Por qué mi pantalla se oscurece después de un tiempo?">atenuación de la pantalla</a></span>…</span>
+<a href="power.html.es" title="Energía y batería">Energía y batería</a><span class="desc"> — <span class="link"><a href="power-status.html.es" title="Compruebe el estado de la batería">Estado de la batería</a></span>, <span class="link"><a href="power-suspend.html.es" title="¿Qué ocurre cuando suspendo el equipo?">suspender</a></span>, <span class="link"><a href="power-whydim.html.es" title="¿Por qué mi pantalla se oscurece después de un tiempo?">atenuación de la pantalla</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html#shutdown" title="Apagar o reiniciar">Apagar o reiniciar</a></li>
+<li class="links "><a href="shell-exit.html.es#shutdown" title="Apagar o reiniciar">Apagar o reiniciar</a></li>
 <li class="links ">
-<a href="power-status.html" title="Compruebe el estado de la batería">Compruebe el estado de la batería</a><span class="desc"> — Mostrar el estado de la batería y de los dispositivos conectados.</span>
+<a href="power-status.html.es" title="Compruebe el estado de la batería">Compruebe el estado de la batería</a><span class="desc"> — Mostrar el estado de la batería y de los dispositivos conectados.</span>
 </li>
 <li class="links ">
-<a href="power-wireless.html" title="Desactivar los dispositivos inalámbricos no usados">Desactivar los dispositivos inalámbricos no usados</a><span class="desc"> — Se puede apagar el Bluetooth, la red WiFi y la red de banda ancha para reducir el consumo de batería.</span>
+<a href="power-wireless.html.es" title="Desactivar los dispositivos inalámbricos no usados">Desactivar los dispositivos inalámbricos no usados</a><span class="desc"> — Se puede apagar el Bluetooth, la red WiFi y la red de banda ancha para reducir el consumo de batería.</span>
 </li>
 <li class="links ">
-<a href="display-brightness.html" title="Establecer el brillo de la pantalla">Establecer el brillo de la pantalla</a><span class="desc"> — Cambiar el brillo de la pantalla para hacerla más legible en condiciones de mucha luz ambiental.</span>
+<a href="display-brightness.html.es" title="Establecer el brillo de la pantalla">Establecer el brillo de la pantalla</a><span class="desc"> — Cambiar el brillo de la pantalla para hacerla más legible en condiciones de mucha luz ambiental.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Suspender">Suspender</a></li>
+<li class="links "><a href="shell-exit.html.es#suspend" title="Suspender">Suspender</a></li>
 <li class="links ">
-<a href="power-whydim.html" title="¿Por qué mi pantalla se oscurece después de un tiempo?">¿Por qué mi pantalla se oscurece después de un tiempo?</a><span class="desc"> — La pantalla se oscurecerá cuando el equipo esté inactivo para ahorrar energía.</span>
-</li>
-<li class="links ">
-<a href="power-batterywindows.html" title="¿Por qué tengo menor tiempo de batería que el que tenía en Windows/Mac OS?">¿Por qué tengo menor tiempo de batería que el que tenía en Windows/Mac OS?</a><span class="desc"> — Los ajustes de los fabricantes y diferentes estimaciones de duración de la batería pueden ser la causa de este problema.</span>
+<a href="power-whydim.html.es" title="¿Por qué mi pantalla se oscurece después de un tiempo?">¿Por qué mi pantalla se oscurece después de un tiempo?</a><span class="desc"> — La pantalla se oscurecerá cuando el equipo esté inactivo para ahorrar energía.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="¿Qué ocurre cuando suspendo el equipo?">¿Qué ocurre cuando suspendo el equipo?</a><span class="desc"> — Suspender pone su equipo a dormir para que use menos energía.</span>
+<a href="power-batterywindows.html.es" title="¿Por qué tengo menor tiempo de batería que el que tenía en Windows/Mac OS?">¿Por qué tengo menor tiempo de batería que el que tenía en Windows/Mac OS?</a><span class="desc"> — Los ajustes de los fabricantes y diferentes estimaciones de duración de la batería pueden ser la causa de este problema.</span>
+</li>
+<li class="links ">
+<a href="power-suspend.html.es" title="¿Qué ocurre cuando suspendo el equipo?">¿Qué ocurre cuando suspendo el equipo?</a><span class="desc"> — Suspender pone su equipo a dormir para que use menos energía.</span>
 </li>
 </ul></div>
 </div></div>

@@ -44,19 +44,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Ήχος, βίντεο &amp; εικόνες">Ήχος, βίντεο &amp; εικόνες</a> › <a class="trail" href="media.html#photos" title="Φωτογραφίες και ψηφιακές κάμερες">Φωτογραφίες</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.el" title="Ήχος, βίντεο &amp; εικόνες">Ήχος, βίντεο &amp; εικόνες</a> › <a class="trail" href="media.html.el#photos" title="Φωτογραφίες και ψηφιακές κάμερες">Φωτογραφίες</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Προβλήματα αναγνώστη κάρτας μέσων</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Πολλοί υπολογιστές περιέχουν αναγνώστες για SD, MMC, SM, MS, CF και άλλες κάρτες μέσων αποθήκευσης. Αυτές πρέπει να ανιχνευτούν αυτόματα και να <span class="link"><a href="disk-partitions.html" title="Διαχείριση τόμων και κατατμήσεων">προσαρτηθούν</a></span>. Εδώ είναι μερικά βήματα ανίχνευσης προβλημάτων:</p>
+<p class="p">Πολλοί υπολογιστές περιέχουν αναγνώστες για SD, MMC, SM, MS, CF και άλλες κάρτες μέσων αποθήκευσης. Αυτές πρέπει να ανιχνευτούν αυτόματα και να <span class="link"><a href="disk-partitions.html.el" title="Διαχείριση τόμων και κατατμήσεων">προσαρτηθούν</a></span>. Εδώ είναι μερικά βήματα ανίχνευσης προβλημάτων:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Βεβαιωθείτε ότι η κάρτα έχει μπει σωστά. Πολλές κάρτες φαίνονται σαν να είναι ανάποδα όταν εισαχθούν σωστά. Επίσης βεβαιωθείτε ότι η κάρτα μπήκε σταθερά στην σχισμή· μερικές κάρτες, ειδικά CF, απαιτούν κάποια δύναμη για να μπουν σωστά. (Να είστε προσεκτικοί να μην το παρακάνετε! Εάν συναντήσετε κάτι συμπαγές, μην το σπρώξετε.)</p></li>
-<li class="steps"><p class="p">Ανοίξτε <span class="app">Αρχεία</span> από την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>. Εμφανίζεται η κάρτα που βάλατε στη λίστα <span class="gui">Συσκευές</span> στην αριστερή πλευρική στήλη; Μερικές φορές η κάρτα εμφανίζεται στη λίστα αλλά δεν είναι προσαρτημένη· πατήστε την μια φορά για προσάρτηση. (Αν η πλευρική στήλη δεν είναι ορατή, πατήστε <span class="key"><kbd>F9</kbd></span> ή κάντε κλικ στο <span class="gui">Αρχεία</span> στην πάνω γραμμή επιλέγοντας <span class="gui">Πλευρική στήλη</span>.)</p></li>
+<li class="steps"><p class="p">Ανοίξτε <span class="app">Αρχεία</span> από την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>. Εμφανίζεται η κάρτα που βάλατε στη λίστα <span class="gui">Συσκευές</span> στην αριστερή πλευρική στήλη; Μερικές φορές η κάρτα εμφανίζεται στη λίστα αλλά δεν είναι προσαρτημένη· πατήστε την μια φορά για προσάρτηση. (Αν η πλευρική στήλη δεν είναι ορατή, πατήστε <span class="key"><kbd>F9</kbd></span> ή κάντε κλικ στο <span class="gui">Αρχεία</span> στην πάνω γραμμή επιλέγοντας <span class="gui">Πλευρική στήλη</span>.)</p></li>
 <li class="steps"><p class="p">Αν η κάρτα σας δεν εμφανίζεται στην πλευρική στήλη, πατήστε <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>L</kbd></span></span>, έπειτα πληκτρολογήστε <span class="input">computer:///</span> και πατήστε το πλήκτρο <span class="key"><kbd>Enter</kbd></span>. Αν ο αναγνώστης της κάρτα σας είναι σωστά ρυθμισμένος, τότε θα πρέπει να εμφανίζεται ως συσκευή όταν δεν υπάρχει κάρτα και ως η ίδια η κάρτα όταν η κάρτα έχει προσαρτηθεί σε αυτόν.</p></li>
 <li class="steps"><p class="p">Εάν βλέπετε τον αναγνώστη κάρτας αλλά όχι την κάρτα, το πρόβλημα μπορεί να είναι με την ίδια την κάρτα. Δοκιμάστε μια διαφορετική κάρτα ή ελέγξτε την κάρτα σε έναν διαφορετικό αναγνώστη εάν είναι δυνατό.</p></li>
 </ol></div></div></div>
@@ -67,8 +67,8 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα υλικού</a></li>
-<li class="links "><a href="media.html#photos" title="Φωτογραφίες και ψηφιακές κάμερες">Φωτογραφίες</a></li>
+<li class="links "><a href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα υλικού</a></li>
+<li class="links "><a href="media.html.el#photos" title="Φωτογραφίες και ψηφιακές κάμερες">Φωτογραφίες</a></li>
 </ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Berkas, folder, &amp; cari</span></h1></div>
@@ -53,15 +53,15 @@
 <div class="hgroup"><h2 class="title"><span class="title">Tugas umum</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-search.html" title="Cari berkas"><span class="title">Cari berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Locate files based on file name and type.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-delete.html" title="Menghapus berkas dan folder"><span class="title">Menghapus berkas dan folder</span><span class="linkdiv-dash"> — </span><span class="desc">Menghapus berkas atau folder yang tidak Anda perlukan lagi.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-rename.html" title="Mengubah nama berkas atau folder"><span class="title">Mengubah nama berkas atau folder</span><span class="linkdiv-dash"> — </span><span class="desc">Mengubah nama berkas atau folder.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-copy.html" title="Menyalin atau memindah berkas dan folder"><span class="title">Menyalin atau memindah berkas dan folder</span><span class="linkdiv-dash"> — </span><span class="desc">Menyalin atau memindah butir-butir ke folder baru.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-search.html.id" title="Cari berkas"><span class="title">Cari berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Locate files based on file name and type.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-delete.html.id" title="Menghapus berkas dan folder"><span class="title">Menghapus berkas dan folder</span><span class="linkdiv-dash"> — </span><span class="desc">Menghapus berkas atau folder yang tidak Anda perlukan lagi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-rename.html.id" title="Mengubah nama berkas atau folder"><span class="title">Mengubah nama berkas atau folder</span><span class="linkdiv-dash"> — </span><span class="desc">Mengubah nama berkas atau folder.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-copy.html.id" title="Menyalin atau memindah berkas dan folder"><span class="title">Menyalin atau memindah berkas dan folder</span><span class="linkdiv-dash"> — </span><span class="desc">Menyalin atau memindah butir-butir ke folder baru.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-browse.html" title="Meramban berkas dan folder"><span class="title">Meramban berkas dan folder</span><span class="linkdiv-dash"> — </span><span class="desc">Kelola dan organisasikan berkas dengan manajer berkas.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-preview.html" title="Pratinjau berkas dan folder"><span class="title">Pratinjau berkas dan folder</span><span class="linkdiv-dash"> — </span><span class="desc">Dengan cepat tampilkan dan sembunyikan pratilik bagi dokumen, gambar, video, dan lainnya.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-sort.html" title="Urutkan berkas dan folder"><span class="title">Urutkan berkas dan folder</span><span class="linkdiv-dash"> — </span><span class="desc">Atur berkas berdasarkan nama, ukuran, jenis, atau kapan mereka diubah.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-browse.html.id" title="Meramban berkas dan folder"><span class="title">Meramban berkas dan folder</span><span class="linkdiv-dash"> — </span><span class="desc">Kelola dan organisasikan berkas dengan manajer berkas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-preview.html.id" title="Pratinjau berkas dan folder"><span class="title">Pratinjau berkas dan folder</span><span class="linkdiv-dash"> — </span><span class="desc">Dengan cepat tampilkan dan sembunyikan pratilik bagi dokumen, gambar, video, dan lainnya.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-sort.html.id" title="Urutkan berkas dan folder"><span class="title">Urutkan berkas dan folder</span><span class="linkdiv-dash"> — </span><span class="desc">Atur berkas berdasarkan nama, ukuran, jenis, atau kapan mereka diubah.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -69,24 +69,24 @@
 <div class="hgroup"><h2 class="title"><span class="title">More file-related tasks</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-share.html" title="Berbagi berkas lewat surel"><span class="title">Berbagi berkas lewat surel</span><span class="linkdiv-dash"> — </span><span class="desc">Easily transfer files to your email contacts from the file
+<div class="linkdiv "><a class="linkdiv" href="files-share.html.id" title="Berbagi berkas lewat surel"><span class="title">Berbagi berkas lewat surel</span><span class="linkdiv-dash"> — </span><span class="desc">Easily transfer files to your email contacts from the file
     manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html" title="Browse files on a server or network share"><span class="title">Browse files on a server or network share</span><span class="linkdiv-dash"> — </span><span class="desc">View and edit files on another computer over FTP, SSH, Windows
+<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.id" title="Browse files on a server or network share"><span class="title">Browse files on a server or network share</span><span class="linkdiv-dash"> — </span><span class="desc">View and edit files on another computer over FTP, SSH, Windows
     shares, or WebDAV.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="Buka berkas dengan aplikasi lain"><span class="title">Buka berkas dengan aplikasi lain</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
+<div class="linkdiv "><a class="linkdiv" href="files-open.html.id" title="Buka berkas dengan aplikasi lain"><span class="title">Buka berkas dengan aplikasi lain</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
     type of file. You can change the default too.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="Cari berkas yang hilang"><span class="title">Cari berkas yang hilang</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html.id" title="Cari berkas yang hilang"><span class="title">Cari berkas yang hilang</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
     downloaded.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-recover.html" title="Memulihkan berkas dari Tong Sampah"><span class="title">Memulihkan berkas dari Tong Sampah</span><span class="linkdiv-dash"> — </span><span class="desc">Berkas yang dihapus biasanya dikirim ke Tong Sampah, tapi dapat dipulihkan.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-recover.html.id" title="Memulihkan berkas dari Tong Sampah"><span class="title">Memulihkan berkas dari Tong Sampah</span><span class="linkdiv-dash"> — </span><span class="desc">Berkas yang dihapus biasanya dikirim ke Tong Sampah, tapi dapat dipulihkan.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html" title="Menulis berkas ke CD atau DVD"><span class="title">Menulis berkas ke CD atau DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Simpan berkas dan dokumen ke dalam CD atau DVD kosong memakai pembakar CD/DVD.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html" title="Preferensi manajer berkas"><span class="title">Preferensi manajer berkas</span><span class="linkdiv-dash"> — </span><span class="desc">View and set preferences for the file browser.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html" title="Properti berkas"><span class="title">Properti berkas</span><span class="linkdiv-dash"> — </span><span class="desc">View basic file information, set permissions, and choose
+<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html.id" title="Menulis berkas ke CD atau DVD"><span class="title">Menulis berkas ke CD atau DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Simpan berkas dan dokumen ke dalam CD atau DVD kosong memakai pembakar CD/DVD.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.id" title="Preferensi manajer berkas"><span class="title">Preferensi manajer berkas</span><span class="linkdiv-dash"> — </span><span class="desc">View and set preferences for the file browser.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html.id" title="Properti berkas"><span class="title">Properti berkas</span><span class="linkdiv-dash"> — </span><span class="desc">View basic file information, set permissions, and choose
     default applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.id" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
     from your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.id" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
     files.</span></a></div>
 </div>
 </div></div></div></div></div>
@@ -94,21 +94,21 @@
 <div id="removable" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Removable drives and external disks</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Buat aplikasi untuk perangkat atau disc"><span class="title">Buat aplikasi untuk perangkat atau disc</span><span class="linkdiv-dash"> — </span><span class="desc">Secara otomatis menjalankan aplikasi bagi CD dan DVD, kamera, pemutar audio, dan perangkat serta media lain.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html" title="Melepas kandar eksternal secara aman"><span class="title">Melepas kandar eksternal secara aman</span><span class="linkdiv-dash"> — </span><span class="desc">Mengeluarkan atau melepas kait suatu drive flash USB, CD, DVD, atau perangkat lain.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.id" title="Buat aplikasi untuk perangkat atau disc"><span class="title">Buat aplikasi untuk perangkat atau disc</span><span class="linkdiv-dash"> — </span><span class="desc">Secara otomatis menjalankan aplikasi bagi CD dan DVD, kamera, pemutar audio, dan perangkat serta media lain.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html.id" title="Melepas kandar eksternal secara aman"><span class="title">Melepas kandar eksternal secara aman</span><span class="linkdiv-dash"> — </span><span class="desc">Mengeluarkan atau melepas kait suatu drive flash USB, CD, DVD, atau perangkat lain.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="backup" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Backing up</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-why.html" title="Backup berkas-berkas penting Anda"><span class="title">Backup berkas-berkas penting Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Mengapa, apa, dimana, dan bagaimana backup.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html" title="Dimana saya dapat menemukan berkas yang ingin saya back up?"><span class="title">Dimana saya dapat menemukan berkas yang ingin saya back up?</span><span class="linkdiv-dash"> — </span><span class="desc">Daftar folder dimana Anda dapat menemukan dokumen, berkas, dan pengaturan yang mungkin ingin Anda backup.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html" title="Frekuensi pembuatan cadangan"><span class="title">Frekuensi pembuatan cadangan</span><span class="linkdiv-dash"> — </span><span class="desc">Pelajari seberapa sering Anda mesti membackup berkas penting Anda untuk memastikan agar mereka aman.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-why.html.id" title="Backup berkas-berkas penting Anda"><span class="title">Backup berkas-berkas penting Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Mengapa, apa, dimana, dan bagaimana backup.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html.id" title="Dimana saya dapat menemukan berkas yang ingin saya back up?"><span class="title">Dimana saya dapat menemukan berkas yang ingin saya back up?</span><span class="linkdiv-dash"> — </span><span class="desc">Daftar folder dimana Anda dapat menemukan dokumen, berkas, dan pengaturan yang mungkin ingin Anda backup.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html.id" title="Frekuensi pembuatan cadangan"><span class="title">Frekuensi pembuatan cadangan</span><span class="linkdiv-dash"> — </span><span class="desc">Pelajari seberapa sering Anda mesti membackup berkas penting Anda untuk memastikan agar mereka aman.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-restore.html" title="Mengembalikan dari cadangan"><span class="title">Mengembalikan dari cadangan</span><span class="linkdiv-dash"> — </span><span class="desc">Mengambil berkas Anda dari backup.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-check.html" title="Periksa cadangan Anda"><span class="title">Periksa cadangan Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Verifikasi cadangan Anda sukses.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-restore.html.id" title="Mengembalikan dari cadangan"><span class="title">Mengembalikan dari cadangan</span><span class="linkdiv-dash"> — </span><span class="desc">Mengambil berkas Anda dari backup.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-check.html.id" title="Periksa cadangan Anda"><span class="title">Periksa cadangan Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Verifikasi cadangan Anda sukses.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -116,16 +116,16 @@
 <div class="hgroup"><h2 class="title"><span class="title">Tip dan pertanyaan</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html" title="Menata izin berkas"><span class="title">Menata izin berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Control who can view and edit your files and folders.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-hidden.html" title="Menyembunyikan berkas"><span class="title">Menyembunyikan berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Make a file invisible, so you cannot see it in the file
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html.id" title="Menata izin berkas"><span class="title">Menata izin berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Control who can view and edit your files and folders.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-hidden.html.id" title="Menyembunyikan berkas"><span class="title">Menyembunyikan berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Make a file invisible, so you cannot see it in the file
     manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-select.html" title="Pilih berkas menurut pola"><span class="title">Pilih berkas menurut pola</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> to select multiple
+<div class="linkdiv "><a class="linkdiv" href="files-select.html.id" title="Pilih berkas menurut pola"><span class="title">Pilih berkas menurut pola</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> to select multiple
     files which have similar names.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html" title="Sunting folder penanda taut"><span class="title">Sunting folder penanda taut</span><span class="linkdiv-dash"> — </span><span class="desc">Tambah, hapus, dan ubah nama penanda taut dalam manajer berkas.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-templates.html" title="Templat bagi tipe dokumen yang biasa dipakai"><span class="title">Templat bagi tipe dokumen yang biasa dipakai</span><span class="linkdiv-dash"> — </span><span class="desc">Secara cepat membuat dokumen baru dari templat berkas tersuai.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-tilde.html" title="What is a file with a ~ at the end of its name?"><span class="title">What is a file with a <span class="file">~</span> at the end of its name?</span><span class="linkdiv-dash"> — </span><span class="desc">These are backup files. They are hidden by default.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html.id" title="Sunting folder penanda taut"><span class="title">Sunting folder penanda taut</span><span class="linkdiv-dash"> — </span><span class="desc">Tambah, hapus, dan ubah nama penanda taut dalam manajer berkas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-templates.html.id" title="Templat bagi tipe dokumen yang biasa dipakai"><span class="title">Templat bagi tipe dokumen yang biasa dipakai</span><span class="linkdiv-dash"> — </span><span class="desc">Secara cepat membuat dokumen baru dari templat berkas tersuai.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-tilde.html.id" title="What is a file with a ~ at the end of its name?"><span class="title">What is a file with a <span class="file">~</span> at the end of its name?</span><span class="linkdiv-dash"> — </span><span class="desc">These are backup files. They are hidden by default.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -133,7 +133,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Panduan Desktop Ubuntu">Panduan Desktop Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.id" title="Panduan Desktop Ubuntu">Panduan Desktop Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

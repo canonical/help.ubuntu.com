@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="color.html" title="Gerenciamento de cores">Gerenciamento de cores</a> › <a class="trail" href="color.html#profiles" title="Perfis de cores">Perfis de cores</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="color.html.pt-BR" title="Gerenciamento de cores">Gerenciamento de cores</a> › <a class="trail" href="color.html.pt-BR#profiles" title="Perfis de cores">Perfis de cores</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Gerenciamento de cores">Gerenciamento de cores</a> › <a class="trail" href="color.html#profiles" title="Perfis de cores">Perfis de cores</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="color.html.pt-BR" title="Gerenciamento de cores">Gerenciamento de cores</a> › <a class="trail" href="color.html.pt-BR#profiles" title="Perfis de cores">Perfis de cores</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,28 +56,28 @@
 <p class="p">Você pode importar um perfil de cores clicando duas vezes em um arquivo <span class="file">.ICC</span> ou <span class="file">.ICM</span> no navegador de arquivos.</p>
 <p class="p">Alternativamente, você pode gerenciar seus perfis de cores por meio do painel <span class="gui">Cor</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Cor</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Cor</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Cor</span> para abrir o painel e selecione seu dispositivo.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Adicionar perfil</span> para selecionar um perfil existente ou importar um novo perfil.</p></li>
 <li class="steps"><p class="p">Pressione <span class="gui">Adicionar</span> para confirmar sua seleção.</p></li>
 </ol></div></div></div>
-<p class="p">O fabricante do seu monitor pode fornecer um perfil que você possa usar. Esses perfis são normalmente feitos para um monitor padrão, de forma que pode não ser perfeito para o seu especificamente. Para a melhor calibração, você deveria <span class="link"><a href="color-calibrate-screen.html" title="Como calibro minha tela?">criar seu próprio perfil</a></span> usando um colorímetro ou um espectrofotômetro.</p>
+<p class="p">O fabricante do seu monitor pode fornecer um perfil que você possa usar. Esses perfis são normalmente feitos para um monitor padrão, de forma que pode não ser perfeito para o seu especificamente. Para a melhor calibração, você deveria <span class="link"><a href="color-calibrate-screen.html.pt-BR" title="Como calibro minha tela?">criar seu próprio perfil</a></span> usando um colorímetro ou um espectrofotômetro.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Perfis de cores">Perfis de cores</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.pt-BR#profiles" title="Perfis de cores">Perfis de cores</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Como atribuo perfis a dispositivos?">Como atribuo perfis a dispositivos?</a><span class="desc"> — Procure em <span class="guiseq"><span class="gui">Configurações</span> ▸ <span class="gui">Cor</span></span> para adicionar um perfil de cor para sua tela.</span>
+<a href="color-assignprofiles.html.pt-BR" title="Como atribuo perfis a dispositivos?">Como atribuo perfis a dispositivos?</a><span class="desc"> — Procure em <span class="guiseq"><span class="gui">Configurações</span> ▸ <span class="gui">Cor</span></span> para adicionar um perfil de cor para sua tela.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="O que é um perfil de cores?">O que é um perfil de cores?</a><span class="desc"> — Um perfil de cores é um arquivo simples, que expressa um espaço de cores ou a resposta de um dispositivo.</span>
+<a href="color-whatisprofile.html.pt-BR" title="O que é um perfil de cores?">O que é um perfil de cores?</a><span class="desc"> — Um perfil de cores é um arquivo simples, que expressa um espaço de cores ou a resposta de um dispositivo.</span>
 </li>
 </ul></div>
 </div></div>

@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html" title="Énergie et batterie">Énergie et batterie</a> › <a class="trail" href="power.html#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a> › <a class="trail" href="power.html.fr#saving" title="Power saving settings">Power saving settings</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="prefs-display.html" title="Affichage et écran">Affichage et écran</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="prefs-display.html.fr" title="Affichage et écran">Affichage et écran</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html" title="Énergie et batterie">Énergie et batterie</a> › <a class="trail" href="power.html#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a> › <a class="trail" href="power.html.fr#saving" title="Power saving settings">Power saving settings</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> › <a class="trail" href="hardware.html#problems" title="Problèmes connus">Problèmes</a> » <a class="trail" href="hardware-problems-graphics.html" title="Problèmes d'écran">Problèmes d'écran</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> › <a class="trail" href="hardware.html.fr#problems" title="Problèmes connus">Problèmes</a> » <a class="trail" href="hardware-problems-graphics.html.fr" title="Problèmes d'écran">Problèmes d'écran</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -62,7 +62,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">To set the screen blanking time:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span>
       overview and start typing <span class="gui">Power</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Use the <span class="gui">Blank screen</span> drop-down list under <span class="gui">Power
@@ -72,7 +72,7 @@
 </div></div>
 <div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">When your computer is left idle, the screen will automatically lock
     itself for security reasons. To change this behavior, see
-    <span class="link"><a href="session-screenlocks.html" title="L'écran se verrouille trop rapidement">L'écran se verrouille trop rapidement</a></span>.</p></div></div></div></div>
+    <span class="link"><a href="session-screenlocks.html.fr" title="L'écran se verrouille trop rapidement">L'écran se verrouille trop rapidement</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -81,11 +81,11 @@
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Affichage et écran">Affichage et écran</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Modification de l'arrière-plan du bureau et de l'écran de veille">Arrière-plan</a></span>, <span class="link"><a href="look-resolution.html" title="Modification de la résolution ou de la rotation de l'écran">taille et rotation</a></span>, luminosité...</span>
+<a href="prefs-display.html.fr" title="Affichage et écran">Affichage et écran</a><span class="desc"> — <span class="link"><a href="look-background.html.fr" title="Modification de l'arrière-plan du bureau et de l'écran de veille">Arrière-plan</a></span>, <span class="link"><a href="look-resolution.html.fr" title="Modification de la résolution ou de la rotation de l'écran">taille et rotation</a></span>, luminosité...</span>
 </li>
-<li class="links "><a href="power.html#saving" title="Power saving settings">Power saving settings</a></li>
+<li class="links "><a href="power.html.fr#saving" title="Power saving settings">Power saving settings</a></li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Problèmes d'écran">Problèmes d'écran</a><span class="desc"> — Résoudre les problèmes d'écran ou de carte graphique.</span>
+<a href="hardware-problems-graphics.html.fr" title="Problèmes d'écran">Problèmes d'écran</a><span class="desc"> — Résoudre les problèmes d'écran ou de carte graphique.</span>
 </li>
 </ul></div>
 </div></div>
@@ -93,10 +93,10 @@
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-whydim.html" title="Diminution de la luminosité de l'écran après un certain temps d'inactivité">Diminution de la luminosité de l'écran après un certain temps d'inactivité</a><span class="desc"> — L'écran s'assombrit quand l'ordinateur est mis au repos pour économiser l'énergie.</span>
+<a href="power-whydim.html.fr" title="Diminution de la luminosité de l'écran après un certain temps d'inactivité">Diminution de la luminosité de l'écran après un certain temps d'inactivité</a><span class="desc"> — L'écran s'assombrit quand l'ordinateur est mis au repos pour économiser l'énergie.</span>
 </li>
 <li class="links ">
-<a href="session-screenlocks.html" title="L'écran se verrouille trop rapidement">L'écran se verrouille trop rapidement</a><span class="desc"> — Modifier le temps d'attente avant le verrouillage de l'écran dans les paramètres <span class="gui">Confidentialité</span>.</span>
+<a href="session-screenlocks.html.fr" title="L'écran se verrouille trop rapidement">L'écran se verrouille trop rapidement</a><span class="desc"> — Modifier le temps d'attente avant le verrouillage de l'écran dans les paramètres <span class="gui">Confidentialité</span>.</span>
 </li>
 </ul></div>
 </div></div>

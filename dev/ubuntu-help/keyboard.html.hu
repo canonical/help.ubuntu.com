@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,32 +56,32 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Terület és nyelv</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Alternatív billentyűzetkiosztások használata">Alternatív billentyűzetkiosztások használata</a><span class="desc"> — Billentyűzetkiosztások hozzáadása és váltás köztük.</span>
+<a href="keyboard-layouts.html.hu" title="Alternatív billentyűzetkiosztások használata">Alternatív billentyűzetkiosztások használata</a><span class="desc"> — Billentyűzetkiosztások hozzáadása és váltás köztük.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Akadálymentesítés</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-bouncekeys.html" title="Billentyűszűrés bekapcsolása">Billentyűszűrés bekapcsolása</a><span class="desc"> — Ugyanazon billentyű gyorsan ismételt leütéseinek mellőzése.</span>
+<a href="a11y-bouncekeys.html.hu" title="Billentyűszűrés bekapcsolása">Billentyűszűrés bekapcsolása</a><span class="desc"> — Ugyanazon billentyű gyorsan ismételt leütéseinek mellőzése.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html" title="Billentyűzetnavigáció">Billentyűzetnavigáció</a><span class="desc"> — Alkalmazások és az asztal használata egér nélkül.</span>
+<a href="keyboard-nav.html.hu" title="Billentyűzetnavigáció">Billentyűzetnavigáció</a><span class="desc"> — Alkalmazások és az asztal használata egér nélkül.</span>
 </li>
 <li class="links ">
-<a href="keyboard-osk.html" title="Képernyő-billentyűzet használata">Képernyő-billentyűzet használata</a><span class="desc"> — Képernyő-billentyűzet használata szöveg bevitelére az egérrel vagy érintőképernyővel gombokra kattintva.</span>
+<a href="keyboard-osk.html.hu" title="Képernyő-billentyűzet használata">Képernyő-billentyűzet használata</a><span class="desc"> — Képernyő-billentyűzet használata szöveg bevitelére az egérrel vagy érintőképernyővel gombokra kattintva.</span>
 </li>
 <li class="links ">
-<a href="a11y-slowkeys.html" title="Lassú billentyűk bekapcsolása">Lassú billentyűk bekapcsolása</a><span class="desc"> — Késleltetés a billentyűlenyomás és a billentyű képernyőn történő megjelenése között.</span>
+<a href="a11y-slowkeys.html.hu" title="Lassú billentyűk bekapcsolása">Lassú billentyűk bekapcsolása</a><span class="desc"> — Késleltetés a billentyűlenyomás és a billentyű képernyőn történő megjelenése között.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-menu.html" title="Mi az a Menü billentyű?">Mi az a <span class="key"><kbd>Menü</kbd></span> billentyű?</a><span class="desc"> — A <span class="key"><kbd>Menü</kbd></span> billentyű a jobb kattintás helyett a billentyűzettel jeleníti meg a helyi menüt.</span>
+<a href="keyboard-key-menu.html.hu" title="Mi az a Menü billentyű?">Mi az a <span class="key"><kbd>Menü</kbd></span> billentyű?</a><span class="desc"> — A <span class="key"><kbd>Menü</kbd></span> billentyű a jobb kattintás helyett a billentyűzettel jeleníti meg a helyi menüt.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html" title="Mi az a Super billentyű?">Mi az a <span class="key"><kbd>Super</kbd></span> billentyű?</a><span class="desc"> — A <span class="key"><kbd>Super</kbd></span> billentyű megnyitja a <span class="gui">Tevékenységek</span> áttekintést. Ez általában az <span class="key"><kbd>Alt</kbd></span> billentyű mellett van.</span>
+<a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?">Mi az a <span class="key"><kbd>Super</kbd></span> billentyű?</a><span class="desc"> — A <span class="key"><kbd>Super</kbd></span> billentyű megnyitja a <span class="gui">Tevékenységek</span> áttekintést. Ez általában az <span class="key"><kbd>Alt</kbd></span> billentyű mellett van.</span>
 </li>
 <li class="links ">
-<a href="a11y-stickykeys.html" title="Ragadós billentyűk bekapcsolása">Ragadós billentyűk bekapcsolása</a><span class="desc"> — Gyorsbillentyűk bevitele billentyűnként, az összes billentyű egyidejű lenyomása helyett.</span>
+<a href="a11y-stickykeys.html.hu" title="Ragadós billentyűk bekapcsolása">Ragadós billentyűk bekapcsolása</a><span class="desc"> — Gyorsbillentyűk bevitele billentyűnként, az összes billentyű egyidejű lenyomása helyett.</span>
 </li>
 </ul></div>
 </div></div>
@@ -89,19 +89,19 @@
 <div class="title title-links"><h2><span class="title">Más témák</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-cursor-blink.html" title="A billentyűzetkurzor villogóvá tétele">A billentyűzetkurzor villogóvá tétele</a><span class="desc"> — A beszúrási pont villogóvá tétele, és a villogás sebességének megadása.</span>
+<a href="keyboard-cursor-blink.html.hu" title="A billentyűzetkurzor villogóvá tétele">A billentyűzetkurzor villogóvá tétele</a><span class="desc"> — A beszúrási pont villogóvá tétele, és a villogás sebességének megadása.</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Gyorsbillentyűk beállítása">Gyorsbillentyűk beállítása</a><span class="desc"> — Adjon meg vagy módosítson gyorsbillentyűket a <span class="gui">Billentyűzet</span> beállításai alatt.</span>
+<a href="keyboard-shortcuts-set.html.hu" title="Gyorsbillentyűk beállítása">Gyorsbillentyűk beállítása</a><span class="desc"> — Adjon meg vagy módosítson gyorsbillentyűket a <span class="gui">Billentyűzet</span> beállításai alatt.</span>
 </li>
 <li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Hasznos gyorsbillentyűk">Hasznos gyorsbillentyűk</a><span class="desc"> — Az asztali környezet használata a billentyűzet segítségével.</span>
+<a href="shell-keyboard-shortcuts.html.hu" title="Hasznos gyorsbillentyűk">Hasznos gyorsbillentyűk</a><span class="desc"> — Az asztali környezet használata a billentyűzet segítségével.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Ismételt billentyűlenyomások kezelése">Ismételt billentyűlenyomások kezelése</a><span class="desc"> — A billentyűzet ne ismételje meg a lenyomott billentyűt, vagy az ismétlés késleltetésének és sebességének módosítása.</span>
+<a href="keyboard-repeat-keys.html.hu" title="Ismételt billentyűlenyomások kezelése">Ismételt billentyűlenyomások kezelése</a><span class="desc"> — A billentyűzet ne ismételje meg a lenyomott billentyűt, vagy az ismétlés késleltetésének és sebességének módosítása.</span>
 </li>
 <li class="links ">
-<a href="numeric-keypad.html" title="Numerikus billentyűzet">Numerikus billentyűzet</a><span class="desc"> — A numerikus billentyűzet bekapcsolása alapértelmezésben.</span>
+<a href="numeric-keypad.html.hu" title="Numerikus billentyűzet">Numerikus billentyűzet</a><span class="desc"> — A numerikus billentyűzet bekapcsolása alapértelmezésben.</span>
 </li>
 </ul></div>
 </div></div>
@@ -112,10 +112,10 @@
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Billentyűzet">Billentyűzet</a></span>, <span class="link"><a href="mouse.html" title="Egér">egér</a></span>, <span class="link"><a href="prefs-display.html" title="Megjelenítés és képernyő">kijelző</a></span>, <span class="link"><a href="prefs-language.html" title="Terület és nyelv">nyelvek</a></span>, <span class="link"><a href="user-accounts.html" title="Felhasználói fiókok">felhasználók</a></span>…</span>
+<a href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a><span class="desc"> — <span class="link"><a href="keyboard.html.hu" title="Billentyűzet">Billentyűzet</a></span>, <span class="link"><a href="mouse.html.hu" title="Egér">egér</a></span>, <span class="link"><a href="prefs-display.html.hu" title="Megjelenítés és képernyő">kijelző</a></span>, <span class="link"><a href="prefs-language.html.hu" title="Terület és nyelv">nyelvek</a></span>, <span class="link"><a href="user-accounts.html.hu" title="Felhasználói fiókok">felhasználók</a></span>…</span>
 </li>
 <li class="links ">
-<a href="hardware.html" title="Hardver és illesztőprogramok">Hardver és illesztőprogramok</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Gyakori problémák">Hardverproblémák</a></span>, <span class="link"><a href="printing.html" title="Nyomtatás">nyomtatók</a></span>, <span class="link"><a href="power.html" title="Energiagazdálkodás és akkumulátorok">energiagazdálkodás</a></span>, <span class="link"><a href="color.html" title="Színkezelés">színkezelés</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Lemezek és tárolók">lemezek</a></span>…</span>
+<a href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver és illesztőprogramok</a><span class="desc"> — <span class="link"><a href="hardware.html.hu#problems" title="Gyakori problémák">Hardverproblémák</a></span>, <span class="link"><a href="printing.html.hu" title="Nyomtatás">nyomtatók</a></span>, <span class="link"><a href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">energiagazdálkodás</a></span>, <span class="link"><a href="color.html.hu" title="Színkezelés">színkezelés</a></span>, <span class="link"><a href="bluetooth.html.hu" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.hu" title="Lemezek és tárolók">lemezek</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

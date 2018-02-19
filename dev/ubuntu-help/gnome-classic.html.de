@@ -48,15 +48,15 @@
 <div class="region">
 <div class="contents">
 <p class="p"><span class="em">GNOME Classic</span> ist für Benutzer gedacht, die eine traditionellere Arbeitsumgebung bevorzugen. Es basiert <span class="em">GNOME 3</span>-Technologien, aber bringt eine Anzahl von Änderungen in die Benutzeroberfläche ein, wie die Menüs <span class="gui">Anwendungen</span> und <span class="gui">Orte</span> im oberen Panel und eine Fensterliste am unteren Rand des Bildschirms.</p>
-<p class="p">Sie können das Menü <span class="gui">Anwendungen</span> in der oberen Leiste zum Starten von Anwendungen nutzen. Die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht ist verfügbar, indem Sie den Eintrag <span class="gui">Aktivitäten-Übersicht</span> im Menü wählen.</p>
-<p class="p">Um die <span class="em"><span class="gui">Aktivitäten</span>-Übersicht</span> zu öffnen können Sie auch die <span class="key"><a href="keyboard-key-super.html" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>-Taste drücken.</p>
+<p class="p">Sie können das Menü <span class="gui">Anwendungen</span> in der oberen Leiste zum Starten von Anwendungen nutzen. Die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht ist verfügbar, indem Sie den Eintrag <span class="gui">Aktivitäten-Übersicht</span> im Menü wählen.</p>
+<p class="p">Um die <span class="em"><span class="gui">Aktivitäten</span>-Übersicht</span> zu öffnen können Sie auch die <span class="key"><a href="keyboard-key-super.html.de" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>-Taste drücken.</p>
 </div>
 <div id="gnome-classic-window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Fensterliste</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Die Fensterliste am unteren Rand des Bildschirms bietet Zugriff auf all Ihre geöffneten Fenster und Anwendungen und lässt Sie diese schnell minimieren und wiederherstellen.</p>
 <p class="p">An der rechten Seite der Fensterliste zeigt GNOME die Nummer der aktuellen Arbeitsfläche, zum Beispiel <span class="gui">1</span> für die erste (obere) Arbeitsfläche. Zusätzlich wird die Gesamtanzahl der verfügbaren Arbeitsflächen angezeigt. Um zu einer anderen Arbeitsfläche zu wechseln, klicken Sie auf diesen Knopf und wählen Sie die gewünschte Arbeitsfläche aus dem Menü aus.</p>
-<p class="p">Falls eine Anwendung oder Systemkomponente Ihre Aufmerksamkeit erfordert, wird ein blaues Symbol an der rechten Seite der Fensterliste angezeigt. Ein Klick auf das blaue Symbol zeigt das <span class="link"><a href="shell-notifications.html" title="Benachrichtigungen und das Benachrichtigungsfeld">Benachrichtigungsfeld</a></span> an, in dem Sie auf alle Ihre Benachrichtigungen zugreifen können.</p>
+<p class="p">Falls eine Anwendung oder Systemkomponente Ihre Aufmerksamkeit erfordert, wird ein blaues Symbol an der rechten Seite der Fensterliste angezeigt. Ein Klick auf das blaue Symbol zeigt das <span class="link"><a href="shell-notifications.html.de" title="Benachrichtigungen und das Benachrichtigungsfeld">Benachrichtigungsfeld</a></span> an, in dem Sie auf alle Ihre Benachrichtigungen zugreifen können.</p>
 </div></div>
 </div></div>
 <div id="gnome-classic-switch" class="sect"><div class="inner">

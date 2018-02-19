@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,28 +54,28 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html" title="A dupla kattintás sebességének módosítása"><span class="title">A dupla kattintás sebességének módosítása</span><span class="linkdiv-dash"> — </span><span class="desc">Az ismételt egérgomblenyomás sebességének beállítása dupla kattintáshoz.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html" title="Az egér és érintőtábla sebességének módosítása"><span class="title">Az egér és érintőtábla sebességének módosítása</span><span class="linkdiv-dash"> — </span><span class="desc">Az egérmutató mozgási sebességének módosítása.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html" title="Az egérmutató mozgatása és kattintás a numerikus billentyűzettel"><span class="title">Az egérmutató mozgatása és kattintás a numerikus billentyűzettel</span><span class="linkdiv-dash"> — </span><span class="desc">Egérbillentyűk engedélyezése az egérmutató mozgatásához a numerikus billentyűzettel.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html" title="Bal kezes egér használata"><span class="title">Bal kezes egér használata</span><span class="linkdiv-dash"> — </span><span class="desc">A bal és jobb egérgomb megcserélése az egérbeállításokban.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.hu" title="A dupla kattintás sebességének módosítása"><span class="title">A dupla kattintás sebességének módosítása</span><span class="linkdiv-dash"> — </span><span class="desc">Az ismételt egérgomblenyomás sebességének beállítása dupla kattintáshoz.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.hu" title="Az egér és érintőtábla sebességének módosítása"><span class="title">Az egér és érintőtábla sebességének módosítása</span><span class="linkdiv-dash"> — </span><span class="desc">Az egérmutató mozgási sebességének módosítása.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.hu" title="Az egérmutató mozgatása és kattintás a numerikus billentyűzettel"><span class="title">Az egérmutató mozgatása és kattintás a numerikus billentyűzettel</span><span class="linkdiv-dash"> — </span><span class="desc">Egérbillentyűk engedélyezése az egérmutató mozgatásához a numerikus billentyűzettel.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html.hu" title="Bal kezes egér használata"><span class="title">Bal kezes egér használata</span><span class="linkdiv-dash"> — </span><span class="desc">A bal és jobb egérgomb megcserélése az egérbeállításokban.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html" title="Jobb gombos egérkattintás szimulálása"><span class="title">Jobb gombos egérkattintás szimulálása</span><span class="linkdiv-dash"> — </span><span class="desc">Nyomja le és tartsa lenyomva a bal egérgombot a jobb gombos kattintáshoz.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html" title="Kattintás szimulálása rámutatással"><span class="title">Kattintás szimulálása rámutatással</span><span class="linkdiv-dash"> — </span><span class="desc">A <span class="gui">Rámutatási (elidőzési) kattintás</span> segítségével az egeret egy helyben tartva kattinthat.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html" title="Kattintás, húzás vagy görgetés az érintőtáblával"><span class="title">Kattintás, húzás vagy görgetés az érintőtáblával</span><span class="linkdiv-dash"> — </span><span class="desc">Kattintás, húzás vagy görgetés koppintásokkal és gesztusokkal az érintőtáblán.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.hu" title="Jobb gombos egérkattintás szimulálása"><span class="title">Jobb gombos egérkattintás szimulálása</span><span class="linkdiv-dash"> — </span><span class="desc">Nyomja le és tartsa lenyomva a bal egérgombot a jobb gombos kattintáshoz.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.hu" title="Kattintás szimulálása rámutatással"><span class="title">Kattintás szimulálása rámutatással</span><span class="linkdiv-dash"> — </span><span class="desc">A <span class="gui">Rámutatási (elidőzési) kattintás</span> segítségével az egeret egy helyben tartva kattinthat.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.hu" title="Kattintás, húzás vagy görgetés az érintőtáblával"><span class="title">Kattintás, húzás vagy görgetés az érintőtáblával</span><span class="linkdiv-dash"> — </span><span class="desc">Kattintás, húzás vagy görgetés koppintásokkal és gesztusokkal az érintőtáblán.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Gyakori problémák</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html" title="Az egér késleltetéssel kezd működni"><span class="title">Az egér késleltetéssel kezd működni</span><span class="linkdiv-dash"> — </span><span class="desc">Ha meg kell mozgatnia az egeret, vagy kattintania kell, hogy az reagáljon.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html" title="Az egérmutató nem mozog"><span class="title">Az egérmutató nem mozog</span><span class="linkdiv-dash"> — </span><span class="desc">Az egér hibás működésének ellenőrzése.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.hu" title="Az egér késleltetéssel kezd működni"><span class="title">Az egér késleltetéssel kezd működni</span><span class="linkdiv-dash"> — </span><span class="desc">Ha meg kell mozgatnia az egeret, vagy kattintania kell, hogy az reagáljon.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.hu" title="Az egérmutató nem mozog"><span class="title">Az egérmutató nem mozog</span><span class="linkdiv-dash"> — </span><span class="desc">Az egér hibás működésének ellenőrzése.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="tips" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tippek</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Kattintás a középső egérgombbal"><span class="title">Kattintás a középső egérgombbal</span><span class="linkdiv-dash"> — </span><span class="desc">A középső egérgomb használata alkalmazások és lapok megnyitására, és sok másra.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.hu" title="Kattintás a középső egérgombbal"><span class="title">Kattintás a középső egérgombbal</span><span class="linkdiv-dash"> — </span><span class="desc">A középső egérgomb használata alkalmazások és lapok megnyitására, és sok másra.</span></a></div></div>
 <div class="links-twocolumn"></div>
 </div></div></div></div></div>
 </div></div>
@@ -85,10 +85,10 @@
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Billentyűzet">Billentyűzet</a></span>, <span class="link"><a href="mouse.html" title="Egér">egér</a></span>, <span class="link"><a href="prefs-display.html" title="Megjelenítés és képernyő">kijelző</a></span>, <span class="link"><a href="prefs-language.html" title="Terület és nyelv">nyelvek</a></span>, <span class="link"><a href="user-accounts.html" title="Felhasználói fiókok">felhasználók</a></span>…</span>
+<a href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a><span class="desc"> — <span class="link"><a href="keyboard.html.hu" title="Billentyűzet">Billentyűzet</a></span>, <span class="link"><a href="mouse.html.hu" title="Egér">egér</a></span>, <span class="link"><a href="prefs-display.html.hu" title="Megjelenítés és képernyő">kijelző</a></span>, <span class="link"><a href="prefs-language.html.hu" title="Terület és nyelv">nyelvek</a></span>, <span class="link"><a href="user-accounts.html.hu" title="Felhasználói fiókok">felhasználók</a></span>…</span>
 </li>
 <li class="links ">
-<a href="hardware.html" title="Hardver és illesztőprogramok">Hardver és illesztőprogramok</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Gyakori problémák">Hardverproblémák</a></span>, <span class="link"><a href="printing.html" title="Nyomtatás">nyomtatók</a></span>, <span class="link"><a href="power.html" title="Energiagazdálkodás és akkumulátorok">energiagazdálkodás</a></span>, <span class="link"><a href="color.html" title="Színkezelés">színkezelés</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Lemezek és tárolók">lemezek</a></span>…</span>
+<a href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver és illesztőprogramok</a><span class="desc"> — <span class="link"><a href="hardware.html.hu#problems" title="Gyakori problémák">Hardverproblémák</a></span>, <span class="link"><a href="printing.html.hu" title="Nyomtatás">nyomtatók</a></span>, <span class="link"><a href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">energiagazdálkodás</a></span>, <span class="link"><a href="color.html.hu" title="Színkezelés">színkezelés</a></span>, <span class="link"><a href="bluetooth.html.hu" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.hu" title="Lemezek és tárolók">lemezek</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="keyboard.html" title="Тастатура">Тастатура</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="keyboard.html.sr" title="Тастатура">Тастатура</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="keyboard.html" title="Тастатура">Тастатура</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="keyboard.html.sr" title="Тастатура">Тастатура</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -64,16 +64,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="Тастатура">Тастатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Распореди тастатуре</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Учините да курсор тастатуре трепери">треперење курсора</a></span>, <span class="link"><a href="a11y.html#mobility" title="Оштећења покрета">приступачност тастатуре</a></span>…</span>
+<a href="keyboard.html.sr" title="Тастатура">Тастатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.sr" title="Use alternative keyboard layouts">Распореди тастатуре</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sr" title="Учините да курсор тастатуре трепери">треперење курсора</a></span>, <span class="link"><a href="a11y.html.sr#mobility" title="Оштећења покрета">приступачност тастатуре</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Корисне пречице тастатуре">Корисне пречице тастатуре</a><span class="desc"> — Крећите се по радној површи користећи тастатуру.</span>
+<a href="shell-keyboard-shortcuts.html.sr" title="Корисне пречице тастатуре">Корисне пречице тастатуре</a><span class="desc"> — Крећите се по радној површи користећи тастатуру.</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Оштећења покрета">Оштећења покрета</a></li>
+<li class="links "><a href="a11y.html.sr#mobility" title="Оштећења покрета">Оштећења покрета</a></li>
 </ul></div>
 </div></div>
 </div>

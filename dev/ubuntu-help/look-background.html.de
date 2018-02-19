@@ -43,15 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="prefs-display.html" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="prefs-display.html.de" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Anpassen des Hintergrundes für den Schreibtisch und den Sperrbildschirm</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Sie können die Bilder für Ihre Hintergründe ändern oder eine einfache Farbe verwenden.</p>
+<p class="p">You can change the image used for your backgrounds or set it to be a
+  solid color.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Hintergrund</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Hintergrund</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Hintergrund</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Wählen Sie den <span class="gui">Hintergrund</span> oder <span class="gui">Sperrbildschirm</span>.</p></li>
 <li class="steps">
@@ -63,7 +64,7 @@
 </ul></div></div></div>
 </li>
 <li class="steps"><p class="p">Die Einstellungen werden sofort angewendet.</p></li>
-<li class="steps"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Wechseln zwischen Arbeitsflächen">Wechseln Sie zu einer leeren Arbeitsfläche</a></span>, um den gesamten Schreibtisch zu sehen.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.de" title="Wechseln zwischen Arbeitsflächen">Wechseln Sie zu einer leeren Arbeitsfläche</a></span>, um den gesamten Schreibtisch zu sehen.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -72,12 +73,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Anpassen des Hintergrundes für den Schreibtisch und den Sperrbildschirm">Hintergrund</a></span>, <span class="link"><a href="look-resolution.html" title="Ändern der Auflösung und der Drehung des Bildschirms">Größe und Drehung</a></span>, Helligkeit …</span>
+<a href="prefs-display.html.de" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a><span class="desc"> — <span class="link"><a href="look-background.html.de" title="Anpassen des Hintergrundes für den Schreibtisch und den Sperrbildschirm">Hintergrund</a></span>, <span class="link"><a href="look-resolution.html.de" title="Ändern der Auflösung und der Drehung des Bildschirms">Größe und Drehung</a></span>, Helligkeit …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-change-wallpaper.html" title="Bildschirmhintergrund ändern">Eine Kurzanleitung zum Ändern des Bildschirmhintergrunds</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-change-wallpaper.html.de" title="Bildschirmhintergrund ändern">Eine Kurzanleitung zum Ändern des Bildschirmhintergrunds</a></li></ul></div>
 </div></div>
 </div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> » <a class="trail" href="printing.html" title="Stampa">Stampa</a> › <a class="trail" href="printing.html#setup" title="Configurare una stampante">Configurazione</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> » <a class="trail" href="printing.html.it" title="Stampa">Stampa</a> › <a class="trail" href="printing.html.it#setup" title="Configurare una stampante">Configurazione</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Impostare una stampante locale</span></h1></div>
@@ -64,7 +64,7 @@
 <p class="p">If your printer was not set up automatically, you can add it in the
   printer settings:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Unlock</span> button in the top-right corner and enter
@@ -75,19 +75,19 @@
 </ol></div></div></div>
 <p class="p">If your printer does not appear in the Add a New Printer window, you may
   need to install print drivers.</p>
-<p class="p">Dopo aver installato la stampante, può essere necessario <span class="link"><a href="printing-setup-default-printer.html" title="Impostare la stampante predefinita">cambiare la stampante predefinita</a></span>.</p>
+<p class="p">Dopo aver installato la stampante, può essere necessario <span class="link"><a href="printing-setup-default-printer.html.it" title="Impostare la stampante predefinita">cambiare la stampante predefinita</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Configurare una stampante">Configurare una stampante</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.it#setup" title="Configurare una stampante">Configurare una stampante</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-setup-default-printer.html" title="Impostare la stampante predefinita">Impostare la stampante predefinita</a><span class="desc"> — Scegliere la stampante che si utilizza più frequentemente.</span>
+<a href="printing-setup-default-printer.html.it" title="Impostare la stampante predefinita">Impostare la stampante predefinita</a><span class="desc"> — Scegliere la stampante che si utilizza più frequentemente.</span>
 </li></ul></div>
 </div></div>
 </div>

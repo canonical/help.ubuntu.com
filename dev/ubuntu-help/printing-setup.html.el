@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="printing.html" title="Εκτύπωση">Εκτύπωση</a> › <a class="trail" href="printing.html#setup" title="Ρύθμιση ενός εκτυπωτή">Ρύθμιση</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="printing.html.el" title="Εκτύπωση">Εκτύπωση</a> › <a class="trail" href="printing.html.el#setup" title="Ρύθμιση ενός εκτυπωτή">Ρύθμιση</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ρύθμιση τοπικού εκτυπωτή</span></h1></div>
@@ -58,26 +58,26 @@
 </ol></div></div></div>
 <p class="p">Εάν ο εκτυπωτής σας δεν ορίστηκε αυτόματα, μπορείτε να τον προσθέσετε στις ρυθμίσεις του εκτυπωτή:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Εκτυπωτές</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Εκτυπωτές</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Εκτυπωτές</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο κουμπί <span class="gui">Ξεκλείδωμα</span> στη πάνω δεξιά γωνία και εισάγετε τον κωδικό πρόσβασής σας.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο κουμπί <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">Στο αναδυόμενο παράθυρο, επιλέξτε τον νέο σας εκτυπωτή. Κάντε κλικ στο <span class="gui">Προσθήκη</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Εάν ο εκτυπωτής σας δεν εμφανιστεί στο αναδυόμενο παράθυρο «Προσθήκη νέου εκτυπωτή», ίσως χρειαστεί να εγκαταστήσετε τους οδηγούς του εκτυπωτή.</p>
-<p class="p">Μετά την εγκατάσταση του εκτυπωτή, μπορεί να θελήσετε να <span class="link"><a href="printing-setup-default-printer.html" title="Ορίστε τον προεπιλεγμένο εκτυπωτή">αλλάξετε τον προεπιλεγμένο σας εκτυπωτή</a></span>.</p>
+<p class="p">Μετά την εγκατάσταση του εκτυπωτή, μπορεί να θελήσετε να <span class="link"><a href="printing-setup-default-printer.html.el" title="Ορίστε τον προεπιλεγμένο εκτυπωτή">αλλάξετε τον προεπιλεγμένο σας εκτυπωτή</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Ρύθμιση ενός εκτυπωτή">Ρύθμιση ενός εκτυπωτή</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.el#setup" title="Ρύθμιση ενός εκτυπωτή">Ρύθμιση ενός εκτυπωτή</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-setup-default-printer.html" title="Ορίστε τον προεπιλεγμένο εκτυπωτή">Ορίστε τον προεπιλεγμένο εκτυπωτή</a><span class="desc"> — Επιλέξτε τον εκτυπωτή που χρησιμοποιείτε πιο συχνά.</span>
+<a href="printing-setup-default-printer.html.el" title="Ορίστε τον προεπιλεγμένο εκτυπωτή">Ορίστε τον προεπιλεγμένο εκτυπωτή</a><span class="desc"> — Επιλέξτε τον εκτυπωτή που χρησιμοποιείτε πιο συχνά.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,34 +43,34 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Univerzální přístup">Univerzální přístup</a> › <a class="trail" href="a11y.html#sound" title="Sluchová postižení">Sluchová postižení</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.cs" title="Univerzální přístup">Univerzální přístup</a> › <a class="trail" href="a11y.html.cs#sound" title="Sluchová postižení">Sluchová postižení</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bliknutí obrazovky jako vizuální upozornění</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">U různých zpráv a událostí počítač přehraje krátký výstražný zvuk. Pokud vám dělá problémy tyto zvuky poslouchat, můžete si místo nich nechat vizuálně zablikat buď celou obrazovkou nebo aktuálním oknem.</p>
-<p class="p">Hodí se to i pro případy, kdy pracujete v prostředí, kde nesmí váš počítač rušit zvuky, jako třeba ve veřejné knihovně. Jak ztišit zvuková upozornění a povolit vizuální se dočtete v část <span class="link"><a href="sound-alert.html" title="Výběr a vypnutí zvuku upozornění">Výběr a vypnutí zvuku upozornění</a></span>.</p>
+<p class="p">Hodí se to i pro případy, kdy pracujete v prostředí, kde nesmí váš počítač rušit zvuky, jako třeba ve veřejné knihovně. Jak ztišit zvuková upozornění a povolit vizuální se dočtete v část <span class="link"><a href="sound-alert.html.cs" title="Výběr a vypnutí zvuku upozornění">Výběr a vypnutí zvuku upozornění</a></span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Univerzální přístup</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Univerzální přístup</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Univerzální přístup</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">V části <span class="gui">Sluch</span> zmáčkněte <span class="gui">Vizuální upozornění</span>.</p></li>
 <li class="steps"><p class="p">Přepněte vypínač <span class="gui">Vizuální upozornění</span> na <span class="gui">❙</span> (zapnuto).</p></li>
 <li class="steps"><p class="p">Vyberte si, jestli chcete, aby zablikala celá obrazovka nebo jen záhlaví aktuálního okna.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Vypnout nebo zapnout kombinace kláves jedním prstem můžete rychle kliknutím na <span class="link"><a href="a11y-icon.html" title="Vyhledání nabídky univerzálního přístupu">ikonu zpřístupnění</a></span> na horní liště a výběrem <span class="gui">Vizuální upozornění</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Vypnout nebo zapnout kombinace kláves jedním prstem můžete rychle kliknutím na <span class="link"><a href="a11y-icon.html.cs" title="Vyhledání nabídky univerzálního přístupu">ikonu zpřístupnění</a></span> na horní liště a výběrem <span class="gui">Vizuální upozornění</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#sound" title="Sluchová postižení">Sluchová postižení</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.cs#sound" title="Sluchová postižení">Sluchová postižení</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-alert.html" title="Výběr a vypnutí zvuku upozornění">Výběr a vypnutí zvuku upozornění</a><span class="desc"> — Jak si vybrat zvuk, který se přehraje při upozornění, a jak nastavit jeho hlasitost, případně jak jej vypnout.</span>
+<a href="sound-alert.html.cs" title="Výběr a vypnutí zvuku upozornění">Výběr a vypnutí zvuku upozornění</a><span class="desc"> — Jak si vybrat zvuk, který se přehraje při upozornění, a jak nastavit jeho hlasitost, případně jak jej vypnout.</span>
 </li></ul></div>
 </div></div>
 </div>

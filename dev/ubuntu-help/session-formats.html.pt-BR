@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="prefs-language.html" title="Região &amp; idioma">Região &amp; idioma</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="prefs-language.html.pt-BR" title="Região &amp; idioma">Região &amp; idioma</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Alterando os formatos de data e medidas</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Você pode controlar os formatos que são usados para datas, horas, numerais, unidade monetária e unidades de medida para corresponder aos costumes locais de sua região.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Região &amp; idioma</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Região &amp; idioma</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Região &amp; idioma</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Formatos</span>.</p></li>
 <li class="steps"><p class="p">Selecione a região que melhor corresponda com os formatos que você gostaria de usar. Se sua região e idioma não estiverem listadas, clique em <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> logo abaixo da lista para selecionar entre todas as regiões e idiomas disponíveis.</p></li>
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Região &amp; idioma">Região &amp; idioma</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Alterando que idioma você usa">Idioma</a></span>, <span class="link"><a href="session-formats.html" title="Alterando os formatos de data e medidas">região e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">disposições de teclado</a></span>…</span>
+<a href="prefs-language.html.pt-BR" title="Região &amp; idioma">Região &amp; idioma</a><span class="desc"> — <span class="link"><a href="session-language.html.pt-BR" title="Alterando que idioma você usa">Idioma</a></span>, <span class="link"><a href="session-formats.html.pt-BR" title="Alterando os formatos de data e medidas">região e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html.pt-BR" title="Use alternative keyboard layouts">disposições de teclado</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-language.html" title="Alterando que idioma você usa">Alterando que idioma você usa</a><span class="desc"> — Alterne para um idioma diferente para a interface com usuário e para o texto de ajuda.</span>
+<a href="session-language.html.pt-BR" title="Alterando que idioma você usa">Alterando que idioma você usa</a><span class="desc"> — Alterne para um idioma diferente para a interface com usuário e para o texto de ajuda.</span>
 </li></ul></div>
 </div></div>
 </div>

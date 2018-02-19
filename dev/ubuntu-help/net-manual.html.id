@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html" title="Jaringan Kabel">Jaringan Kabel</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.id" title="Jaringan Kabel">Jaringan Kabel</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.id" title="Jaringan Nirkabel">Jaringan Nirkabel</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,7 +61,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Untuk menata pengaturan jaringan secara manual:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Jaringan</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Jaringan</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Jaringan</span> untuk membuka panel.</p></li>
 <li class="steps">
 <p class="p">In the left pane, select the network connection that you want to set
@@ -76,7 +76,7 @@
 </li>
 <li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
       and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>
-<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html" title="Apa itu alamat IP?">IP Address</a></span> and
+<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html.id" title="Apa itu alamat IP?">IP Address</a></span> and
       <span class="gui">Gateway</span>, as well as the appropriate <span class="gui">Netmask</span>.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">DNS</span> section, switch <span class="gui">Automatic</span> to
       <span class="gui">OFF</span>. Enter the IP address of a DNS server you want to use.
@@ -98,10 +98,10 @@
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wired.html" title="Jaringan Kabel">Jaringan Kabel</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Menyambung ke suatu jaringan (Ethernet) kabel">Koneksi internet melalui kabel</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Buat suatu koneksi dengan suatu alamat IP yang tetap">Alamat IP tetap</a></span>…</span>
+<a href="net-wired.html.id" title="Jaringan Kabel">Jaringan Kabel</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.id" title="Menyambung ke suatu jaringan (Ethernet) kabel">Koneksi internet melalui kabel</a></span>, <span class="link"><a href="net-fixed-ip-address.html.id" title="Buat suatu koneksi dengan suatu alamat IP yang tetap">Alamat IP tetap</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Menyambung ke wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?">Memutus</a></span>…</span>
+<a href="net-wireless.html.id" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Menyambung ke wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.id" title="Mengapa jaringan nirkabel saya terputus terus?">Memutus</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

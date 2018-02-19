@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="accounts.html" title="Contas on-line">Contas on-line</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="accounts.html.pt-BR" title="Contas on-line">Contas on-line</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Aplicativos e serviços on-line</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Assim que você tiver adicionado uma conta on-line, qualquer aplicativo pode usar aquela conta para qualquer dos serviços disponíveis que você não <span class="link"><a href="accounts-disable-service.html" title="Controlando quais serviços on-line uma conta pode ser usada para acessar">desabilitou</a></span>. Provedores diferentes fornecem serviços diferentes. Essa página lista os serviços diferentes e alguns aplicativos que os usam.</p>
+<p class="p">Assim que você tiver adicionado uma conta on-line, qualquer aplicativo pode usar aquela conta para qualquer dos serviços disponíveis que você não <span class="link"><a href="accounts-disable-service.html.pt-BR" title="Controlando quais serviços on-line uma conta pode ser usada para acessar">desabilitou</a></span>. Provedores diferentes fornecem serviços diferentes. Essa página lista os serviços diferentes e alguns aplicativos que os usam.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Agenda</dt>
 <dd class="terms"><p class="p">O serviço Agenda permite que você veja, adicione e edite eventos na agenda on-line. Ele é usado por aplicativos como <span class="app">Agenda</span>, <span class="app">Evolution</span> e <span class="app">California</span>.</p></dd>
@@ -60,7 +60,7 @@
 <dt class="terms">Documentos</dt>
 <dd class="terms"><p class="p">O serviço Documentos permite que você veja seus documentos on-line como, por exemplo, os dos Google Docs. Você pode ver seus documentos usando o aplicativo <span class="app">Documentos</span>.</p></dd>
 <dt class="terms">Arquivos</dt>
-<dd class="terms"><p class="p">O serviço Arquivos adiciona uma localização de arquivos remota, como se você tivesse adicionado uma usando a funcionalidade <span class="link"><a href="nautilus-connect.html" title="Navegando nos arquivos em um servidor ou compartilhamento de rede">Conectar ao servidor</a></span> no gerenciador de arquivos. Você pode acessar os arquivos remotos usando o gerenciador de arquivos, assim como por diálogos de abrir e salvar arquivos em qualquer aplicativo.</p></dd>
+<dd class="terms"><p class="p">O serviço Arquivos adiciona uma localização de arquivos remota, como se você tivesse adicionado uma usando a funcionalidade <span class="link"><a href="nautilus-connect.html.pt-BR" title="Navegando nos arquivos em um servidor ou compartilhamento de rede">Conectar ao servidor</a></span> no gerenciador de arquivos. Você pode acessar os arquivos remotos usando o gerenciador de arquivos, assim como por diálogos de abrir e salvar arquivos em qualquer aplicativo.</p></dd>
 <dt class="terms">Correio</dt>
 <dd class="terms"><p class="p">O serviço Correio permite que você envie e receba e-mail por um provedor de e-mail como o Google. Ele é usado pelo <span class="app">Evolution</span>.</p></dd>
 <dt class="terms">Fotos</dt>
@@ -77,13 +77,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Contas on-line">Contas on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Adicionando uma conta">Adicione uma conta on-line</a></span>, <span class="link"><a href="accounts-remove.html" title="Removendo uma conta">Exclua uma conta</a></span>, <span class="link"><a href="accounts-which-application.html" title="Aplicativos e serviços on-line">Aprenda sobre os serviços</a></span>…</span>
+<a href="accounts.html.pt-BR" title="Contas on-line">Contas on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html.pt-BR" title="Adicionando uma conta">Adicione uma conta on-line</a></span>, <span class="link"><a href="accounts-remove.html.pt-BR" title="Removendo uma conta">Exclua uma conta</a></span>, <span class="link"><a href="accounts-which-application.html.pt-BR" title="Aplicativos e serviços on-line">Aprenda sobre os serviços</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="Controlando quais serviços on-line uma conta pode ser usada para acessar">Controlando quais serviços on-line uma conta pode ser usada para acessar</a><span class="desc"> — Algumas contas on-line podem ser usadas para acessar múltiplos serviços (como agenda e e-mail). Você pode controlar quais desses serviços podem ser usados por aplicativos.</span>
+<a href="accounts-disable-service.html.pt-BR" title="Controlando quais serviços on-line uma conta pode ser usada para acessar">Controlando quais serviços on-line uma conta pode ser usada para acessar</a><span class="desc"> — Algumas contas on-line podem ser usadas para acessar múltiplos serviços (como agenda e e-mail). Você pode controlar quais desses serviços podem ser usados por aplicativos.</span>
 </li></ul></div>
 </div></div>
 </div>

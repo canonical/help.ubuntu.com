@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html#apps" title="Aplikace a okna">Aplikace a okna</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.cs" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html.cs#apps" title="Aplikace a okna">Aplikace a okna</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Co znamenají ikony na horní liště?</span></h1></div>
@@ -52,11 +52,11 @@
 <p class="p">Tato kapitola vysvětluje význam jednotlivých ikon nacházejících se v pravém horním rohu obrazovky. Přesněji řečeno, jsou popsány různé varianty ikon poskytovaných rozhraním GNOME.</p>
 <div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="Horní lišta GNOME Shellu"></div></div>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="status-icons.html#universalicons" title="Ikony nabídky univerzálního přístupu">Ikony nabídky univerzálního přístupu</a></li>
-<li class="links "><a href="status-icons.html#audioicons" title="Ikony ovládání hlasitosti">Ikony ovládání hlasitosti</a></li>
-<li class="links "><a href="status-icons.html#bluetoothicons" title="Ikony správy Bluetooth">Ikony správy Bluetooth</a></li>
-<li class="links "><a href="status-icons.html#networkicons" title="Ikony správy sítě">Ikony správy sítě</a></li>
-<li class="links "><a href="status-icons.html#batteryicons" title="Ikony správy napájení.">Ikony správy napájení.</a></li>
+<li class="links "><a href="status-icons.html.cs#universalicons" title="Ikony nabídky univerzálního přístupu">Ikony nabídky univerzálního přístupu</a></li>
+<li class="links "><a href="status-icons.html.cs#audioicons" title="Ikony ovládání hlasitosti">Ikony ovládání hlasitosti</a></li>
+<li class="links "><a href="status-icons.html.cs#bluetoothicons" title="Ikony správy Bluetooth">Ikony správy Bluetooth</a></li>
+<li class="links "><a href="status-icons.html.cs#networkicons" title="Ikony správy sítě">Ikony správy sítě</a></li>
+<li class="links "><a href="status-icons.html.cs#batteryicons" title="Ikony správy napájení.">Ikony správy napájení.</a></li>
 </ul></div></div></div>
 </div>
 <div id="universalicons" class="sect"><div class="inner">
@@ -306,7 +306,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Aplikace a okna">Aplikace a okna</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.cs#apps" title="Aplikace a okna">Aplikace a okna</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

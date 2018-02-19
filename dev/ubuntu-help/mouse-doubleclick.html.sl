@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="mouse.html" title="Miška">Miška</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="mouse.html.sl" title="Miška">Miška</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="mouse.html" title="Miška">Miška</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="mouse.html.sl" title="Miška">Miška</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="a11y.html" title="Splošni dostop">Splošni dostop</a> › <a class="trail" href="a11y.html#mobility" title="Težave z gibanjem">Težave z gibanjem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="a11y.html.sl" title="Splošni dostop">Splošni dostop</a> › <a class="trail" href="a11y.html.sl#mobility" title="Težave z gibanjem">Težave z gibanjem</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@ quickly enough. If the second press is too long after the first, you’ll
 just get two separate clicks, not a double click. If you have difficulty
 pressing the mouse button quickly, you should increase the timeout.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
   start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Under <span class="gui">Pointing &amp; Clicking</span>, adjust the <span class="gui">Double-click</span>
@@ -75,9 +75,9 @@ pressing the mouse button quickly, you should increase the timeout.</p>
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse.html" title="Miška">Miška</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Uporaba miške z levico">Uporaba miške z levico</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Prilagoditev hitrosti miške in drsne ploščice">hitrost in občutljivost</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Kliknice, povlecite ali drsajte z drsno ploščico">klikanje in drsanje po drsni ploščici</a></span> …</span>
+<a href="mouse.html.sl" title="Miška">Miška</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.sl" title="Uporaba miške z levico">Uporaba miške z levico</a></span>, <span class="link"><a href="mouse-sensitivity.html.sl" title="Prilagoditev hitrosti miške in drsne ploščice">hitrost in občutljivost</a></span>, <span class="link"><a href="mouse-touchpad-click.html.sl" title="Kliknice, povlecite ali drsajte z drsno ploščico">klikanje in drsanje po drsni ploščici</a></span> …</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Težave z gibanjem">Težave z gibanjem</a></li>
+<li class="links "><a href="a11y.html.sl#mobility" title="Težave z gibanjem">Težave z gibanjem</a></li>
 </ul></div>
 </div></div></div>
 </div>

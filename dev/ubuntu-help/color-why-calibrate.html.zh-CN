@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="color.html" title="色彩管理">色彩管理</a> › <a class="trail" href="color.html#calibration" title="校准">校准</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="color.html.zh-CN" title="色彩管理">色彩管理</a> › <a class="trail" href="color.html.zh-CN#calibration" title="校准">校准</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="color.html" title="色彩管理">色彩管理</a> › <a class="trail" href="color.html#calibration" title="校准">校准</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="color.html.zh-CN" title="色彩管理">色彩管理</a> › <a class="trail" href="color.html.zh-CN#calibration" title="校准">校准</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -63,19 +63,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="校准">校准</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.zh-CN#calibration" title="校准">校准</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-gettingprofiles.html" title="从哪里可以获取色彩配置文件？">从哪里可以获取色彩配置文件？</a><span class="desc"> — 色彩配置文件可以由厂商提供，也可以自行生成。</span>
+<a href="color-gettingprofiles.html.zh-CN" title="从哪里可以获取色彩配置文件？">从哪里可以获取色彩配置文件？</a><span class="desc"> — 色彩配置文件可以由厂商提供，也可以自行生成。</span>
 </li>
 <li class="links ">
-<a href="color-notifications.html" title="当我的颜色配置文件不准确时，会显示提示信息吗？">当我的颜色配置文件不准确时，会显示提示信息吗？</a><span class="desc"> — 您会被提醒颜色配置文件是陈旧的和不准确的。</span>
+<a href="color-notifications.html.zh-CN" title="当我的颜色配置文件不准确时，会显示提示信息吗？">当我的颜色配置文件不准确时，会显示提示信息吗？</a><span class="desc"> — 您会被提醒颜色配置文件是陈旧的和不准确的。</span>
 </li>
 <li class="links ">
-<a href="color-assignprofiles.html" title="我如何为设备指定配置文件？">我如何为设备指定配置文件？</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-assignprofiles.html.zh-CN" title="我如何为设备指定配置文件？">我如何为设备指定配置文件？</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
 </li>
 </ul></div>
 </div></div>

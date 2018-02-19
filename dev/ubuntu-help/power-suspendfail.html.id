@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="power.html#problems" title="Masalah">Masalah daya</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html.id#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="power.html.id#problems" title="Masalah">Masalah daya</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="hardware-problems-graphics.html" title="Masalah layar">Masalah layar</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html.id#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="hardware-problems-graphics.html.id" title="Masalah layar">Masalah layar</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">If you <span class="link"><a href="power-suspend.html" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span> your computer, then try to
+<div class="contents"><p class="p">If you <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span> your computer, then try to
 resume it, you may find that it does not work as you expected. This could be
 because suspend is not supported properly by your hardware.</p></div>
 <div id="resume" class="sect"><div class="inner">
@@ -80,7 +80,7 @@ because suspend is not supported properly by your hardware.</p></div>
 <p class="p">If you suspend your computer and then resume it again, you
   may find that your internet connection, mouse, or some other device does not
   work properly. This could be because the driver for the device does not
-  properly support suspend. This is a <span class="link"><a href="hardware-driver.html" title="Apa itu penggerak?">problem with the driver</a></span> and not the device
+  properly support suspend. This is a <span class="link"><a href="hardware-driver.html.id" title="Apa itu penggerak?">problem with the driver</a></span> and not the device
   itself.</p>
 <p class="p">If the device has a power switch, try turning it off and then on again. In
   most cases, the device will start working again. If it connects via a USB
@@ -97,10 +97,10 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power.html#problems" title="Masalah">Masalah daya</a><span class="desc"> — Melacak masalah daya dan baterai.</span>
+<a href="power.html.id#problems" title="Masalah">Masalah daya</a><span class="desc"> — Melacak masalah daya dan baterai.</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Masalah layar">Masalah layar</a><span class="desc"> — Melacak masalah layar dan grafis.</span>
+<a href="hardware-problems-graphics.html.id" title="Masalah layar">Masalah layar</a><span class="desc"> — Melacak masalah layar dan grafis.</span>
 </li>
 </ul></div>
 </div></div>
@@ -108,20 +108,20 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-driver.html" title="Apa itu penggerak?">Apa itu penggerak?</a><span class="desc"> — Driver perangkat/perangkat keras memungkinkan komputer Anda memakai perangkat yang tercantol padanya.</span>
+<a href="hardware-driver.html.id" title="Apa itu penggerak?">Apa itu penggerak?</a><span class="desc"> — Driver perangkat/perangkat keras memungkinkan komputer Anda memakai perangkat yang tercantol padanya.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Apa yang terjadi ketika saya mensuspensi komputer?">Apa yang terjadi ketika saya mensuspensi komputer?</a><span class="desc"> — Suspensi mengatur komputer Anda agar tidur sehingga memakai lebih sedikit daya.</span>
+<a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">Apa yang terjadi ketika saya mensuspensi komputer?</a><span class="desc"> — Suspensi mengatur komputer Anda agar tidur sehingga memakai lebih sedikit daya.</span>
 </li>
 <li class="links ">
-<a href="power-hibernate.html" title="How do I hibernate my computer?">How do I hibernate my computer?</a><span class="desc"> — Hibernate is disabled by default since it's not well supported.</span>
+<a href="power-hibernate.html.id" title="How do I hibernate my computer?">How do I hibernate my computer?</a><span class="desc"> — Hibernate is disabled by default since it's not well supported.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="Mengapa komputer saya mati ketika saya menutup lid?">Mengapa komputer saya mati ketika saya menutup lid?</a><span class="desc"> — Laptops go to sleep when you close the lid, in order to save
+<a href="power-closelid.html.id" title="Mengapa komputer saya mati ketika saya menutup lid?">Mengapa komputer saya mati ketika saya menutup lid?</a><span class="desc"> — Laptops go to sleep when you close the lid, in order to save
     power.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="Saya tak punya jaringan nirkabel ketika membangunkan komputer saya">Saya tak punya jaringan nirkabel ketika membangunkan komputer saya</a><span class="desc"> — Some wireless devices have problems handling when your computer is
+<a href="power-nowireless.html.id" title="Saya tak punya jaringan nirkabel ketika membangunkan komputer saya">Saya tak punya jaringan nirkabel ketika membangunkan komputer saya</a><span class="desc"> — Some wireless devices have problems handling when your computer is
     suspended and does not resume properly.</span>
 </li>
 </ul></div>

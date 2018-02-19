@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-browser.html" title="Веб прегледници">Веб прегледници</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-browser.html.sr" title="Веб прегледници">Веб прегледници</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Измените у ком веб прегледнику се отварају веб сајтови</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Када кликнете на везу до веб странице у неком програму, веб прегледник ће сам отворити ту страницу. Међутим, ако сте инсталирали више од једног прегледника, страница се можда неће отворити у прегледнику у којем бисте желели да се отвори. Да исправите ово, измените основног веб прегледника:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Детаљи</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Детаљи</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Детаљи</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Изаберите <span class="gui">Основни програми</span> са списка на левој страни прозора.</p></li>
 <li class="steps"><p class="p">Изаберите у ком веб прегледнику желите да везе буду отворене изменивши опцију <span class="gui">Интернет</span>.</p></li>
@@ -63,7 +63,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Веб прегледници">Веб прегледници</a><span class="desc"> — <span class="link"><a href="net-default-browser.html" title="Измените у ком веб прегледнику се отварају веб сајтови">Промените основни прегледник</a></span>, <span class="link"><a href="net-install-flash.html" title="Инсталирајте прикључак Флеш">инсталирајте Флеш</a></span>…</span>
+<a href="net-browser.html.sr" title="Веб прегледници">Веб прегледници</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.sr" title="Измените у ком веб прегледнику се отварају веб сајтови">Промените основни прегледник</a></span>, <span class="link"><a href="net-install-flash.html.sr" title="Инсталирајте прикључак Флеш">инсталирајте Флеш</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#common-file-tasks" title="Tareas comunes">Tareas comunes</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#common-file-tasks" title="Tareas comunes">Tareas comunes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Copiar o mover archivos y carpetas</span></h1></div>
@@ -91,19 +91,19 @@
 </ol></div>
 </div>
 </div>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">No puede copiar o mover un archivo a una carpeta de <span class="em">solo lectura</span>. Algunas carpetas son de solo lectura para impedir que pueda hacer cambios en su contenido. Puede hacer que deje de ser de solo lectura <span class="link"><a href="nautilus-file-properties-permissions.html" title="Establecer los permisos del archivo">cambiando los permisos del archivo</a></span>.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">No puede copiar o mover un archivo a una carpeta de <span class="em">solo lectura</span>. Algunas carpetas son de solo lectura para impedir que pueda hacer cambios en su contenido. Puede hacer que deje de ser de solo lectura <span class="link"><a href="nautilus-file-properties-permissions.html.es" title="Establecer los permisos del archivo">cambiando los permisos del archivo</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Tareas comunes">Tareas comunes</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.es#common-file-tasks" title="Tareas comunes">Tareas comunes</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-browse.html" title="Examinar archivos y carpetas">Examinar archivos y carpetas</a><span class="desc"> — Gestione y organice archivos con el gestor de archivos.</span>
+<a href="files-browse.html.es" title="Examinar archivos y carpetas">Examinar archivos y carpetas</a><span class="desc"> — Gestione y organice archivos con el gestor de archivos.</span>
 </li></ul></div>
 </div></div>
 </div>

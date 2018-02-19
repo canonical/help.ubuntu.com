@@ -43,15 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Ar ko sākt">Darba sākšana ar GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.lv" title="Ar ko sākt">Darba sākšana ar GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="Nokļūt internetā">Iepriekšējā</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Savienoties ar tiešsaistes kontiem">Nākamā</a>
+<a class="nextlinks-prev" href="gs-get-online.html.lv" title="Nokļūt internetā">Iepriekšējā</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.lv" title="Savienoties ar tiešsaistes kontiem">Nākamā</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Pārlūkot tīmekli</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Pārvietojiet peles rādītāju uz <span class="gui">Aktivitātes</span> ekrāna augšā kreisajā stūrī, lai redzētu <span class="gui">Aktivitāšu pārskatu</span>.</p></li>
+<li class="steps"><p class="p">Izvēlieties pārlūka <span class="app">Firefox</span> ikonu no kreisās ekrāna puses.</p></li>
+</ol></div></div></div>
+<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Vai arī varat pārlūku palaist <span class="link"><a href="gs-use-system-search.html.lv" title="Izmantot sistēmas meklēšanu">vienkārši ierakstot</a></span> <span class="em">Firefox</span> <span class="gui">Aktivitāšu pārskatā</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Spiediet uz adreses joslas pārlūka loga augšpusē un sāciet rakstīt vietnes nosaukumu, kuru vēlaties apmeklēt.</p></li>
 <li class="steps">
 <p class="p">Tīmekļa vietnes rakstīšanas laikā tā tiek meklēta pārlūka vēsturē un grāmatzīmēs, lai jums nevajadzētu atcerēties precīzu adresi.</p>
@@ -59,9 +67,10 @@
 </li>
 <li class="steps"><p class="p">No šī saraksta jūs varat ātri izvēlēties tīmekļa vietnes, izmantojot bultu taustiņus.</p></li>
 <li class="steps"><p class="p">Pēc tīmekļa vietnes izvēles, spiediet <span class="key"><kbd>Enter</kbd></span>, lai to apmeklētu.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="Nokļūt internetā">Iepriekšējā</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Savienoties ar tiešsaistes kontiem">Nākamā</a>
+<a class="nextlinks-prev" href="gs-get-online.html.lv" title="Nokļūt internetā">Iepriekšējā</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.lv" title="Savienoties ar tiešsaistes kontiem">Nākamā</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -69,13 +78,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Ar ko sākt">Darba sākšana ar GNOME</a><span class="desc"> — Vai GNOME 3 vide jums ir nepazīstama? Uzziniet, kā tajā darboties.</span>
+<a href="getting-started.html.lv" title="Ar ko sākt">Darba sākšana ar GNOME</a><span class="desc"> — Vai GNOME 3 vide jums ir nepazīstama? Uzziniet, kā tajā darboties.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Tīmekļa pārlūkprogrammas">Tīmekļa pārlūkprogrammas</a><span class="desc"> — <span class="link"><a href="net-default-browser.html" title="Nomainiet, kura tīmekļa pārlūkprogrammā pēc noklusējuma atver tīmekļa lapas">Nomainīt noklusējuma pārlūku</a></span>, <span class="link"><a href="net-install-flash.html" title="Instalēt Flash spraudni">instalēt Flash</a></span>…</span>
+<a href="net-browser.html.lv" title="Tīmekļa pārlūkprogrammas">Tīmekļa pārlūkprogrammas</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.lv" title="Nomainiet, kura tīmekļa pārlūkprogrammā pēc noklusējuma atver tīmekļa lapas">Nomainīt noklusējuma pārlūku</a></span>, <span class="link"><a href="net-install-flash.html.lv" title="Instalēt Flash spraudni">instalēt Flash</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

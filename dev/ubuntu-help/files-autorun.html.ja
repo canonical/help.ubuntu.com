@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="サウンド、ビデオ、画像">サウンド、ビデオ、画像</a> › <a class="trail" href="media.html#videos" title="ビデオとビデオカメラ">ビデオ</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ja" title="サウンド、ビデオ、画像">サウンド、ビデオ、画像</a> › <a class="trail" href="media.html.ja#videos" title="ビデオとビデオカメラ">ビデオ</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html#removable" title="リムーバブルドライブと外付けディスク">リムーバブルドライブと外付けディスク</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ja" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html.ja#removable" title="リムーバブルドライブと外付けディスク">リムーバブルドライブと外付けディスク</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="サウンド、ビデオ、画像">サウンド、ビデオ、画像</a> › <a class="trail" href="media.html#photos" title="写真とデジタルカメラ">写真</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ja" title="サウンド、ビデオ、画像">サウンド、ビデオ、画像</a> › <a class="trail" href="media.html.ja#photos" title="写真とデジタルカメラ">写真</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="サウンド、ビデオ、画像">サウンド、ビデオ、画像</a> › <a class="trail" href="media.html#music" title="音楽とポータブルオーディオプレイヤー">音楽とプレイヤー</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ja" title="サウンド、ビデオ、画像">サウンド、ビデオ、画像</a> › <a class="trail" href="media.html.ja#music" title="音楽とポータブルオーディオプレイヤー">音楽とプレイヤー</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <p class="p">デバイスを接続したときや、ディスクやメディアカードを挿入したときにアプリケーションを自動起動させることができます。たとえば、デジタルカメラをつないだら写真管理ソフトが起動するようにしておくと便利でしょう。この機能をオフにして、デバイスを接続しても何も起動しないように設定することもできます。</p>
 <p class="p">さまざまなデバイスを接続した場合に起動するアプリケーションを設定する方法は次のとおりです。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
     start typing <span class="gui">Details</span>.</p></li>
 <li class="steps"><p class="p"><span class="gui">詳細</span>をクリックしてパネルを開きます。</p></li>
 <li class="steps"><p class="p"><span class="gui">リムーバブルメディア</span>をクリックします。</p></li>
@@ -94,7 +94,7 @@
 <dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
     <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
     video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
+    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html.ja" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
     </p></dd>
 <dt class="terms">空のディスク</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing
@@ -126,10 +126,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#videos" title="ビデオとビデオカメラ">ビデオ</a></li>
-<li class="links "><a href="files.html#removable" title="リムーバブルドライブと外付けディスク">リムーバブルドライブと外付けディスク</a></li>
-<li class="links "><a href="media.html#photos" title="写真とデジタルカメラ">写真</a></li>
-<li class="links "><a href="media.html#music" title="音楽とポータブルオーディオプレイヤー">音楽とプレイヤー</a></li>
+<li class="links "><a href="media.html.ja#videos" title="ビデオとビデオカメラ">ビデオ</a></li>
+<li class="links "><a href="files.html.ja#removable" title="リムーバブルドライブと外付けディスク">リムーバブルドライブと外付けディスク</a></li>
+<li class="links "><a href="media.html.ja#photos" title="写真とデジタルカメラ">写真</a></li>
+<li class="links "><a href="media.html.ja#music" title="音楽とポータブルオーディオプレイヤー">音楽とプレイヤー</a></li>
 </ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-chat.html" title="Pikaviestit ja sosiaaliset verkostot">Pikaviestit ja sosiaaliset verkostot</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-chat.html.fi" title="Pikaviestit ja sosiaaliset verkostot">Pikaviestit ja sosiaaliset verkostot</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Videopuhelut</span></h1></div>
@@ -64,10 +64,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html" title="Pikaviestit ja sosiaaliset verkostot">Pikaviestit ja sosiaaliset verkostot</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Pikaviestit Ubuntussa">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Videopuhelut">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Miten käytän Skypeä Ubuntussa?">install skype</a></span>
+<a href="net-chat.html.fi" title="Pikaviestit ja sosiaaliset verkostot">Pikaviestit ja sosiaaliset verkostot</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.fi" title="Pikaviestit Ubuntussa">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.fi" title="Videopuhelut">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.fi" title="Miten käytän Skypeä Ubuntussa?">install skype</a></span>
     </span>
 </li></ul></div>
 </div></div>
@@ -75,10 +75,10 @@
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat-skype.html" title="Miten käytän Skypeä Ubuntussa?">Miten käytän Skypeä Ubuntussa?</a><span class="desc"> — <span class="app">Skype</span> on suljettu ohjelma ja on asennettava Ubuntuun manuaalisesti</span>
+<a href="net-chat-skype.html.fi" title="Miten käytän Skypeä Ubuntussa?">Miten käytän Skypeä Ubuntussa?</a><span class="desc"> — <span class="app">Skype</span> on suljettu ohjelma ja on asennettava Ubuntuun manuaalisesti</span>
 </li>
 <li class="links ">
-<a href="net-chat-empathy.html" title="Pikaviestit Ubuntussa">Pikaviestit Ubuntussa</a><span class="desc"> — <span class="app">Empathyllä</span> avulla voi lähettää pikaviestejä ja puhua ääni- ja videopuheluita monissa eri palveluissa.</span>
+<a href="net-chat-empathy.html.fi" title="Pikaviestit Ubuntussa">Pikaviestit Ubuntussa</a><span class="desc"> — <span class="app">Empathyllä</span> avulla voi lähettää pikaviestejä ja puhua ääni- ja videopuheluita monissa eri palveluissa.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#faq" title="Tipy a otázky">Tipy a otázky</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#faq" title="Tipy a otázky">Tipy a otázky</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nastavení oprávnění souboru</span></h1></div>
@@ -58,7 +58,7 @@
 <p class="p">Můžete nastavit oprávnění pro vlastníka souboru, pro skupinu vlastníků souboru a pro všechny ostatní uživatele. U svých souborů, u kterých jste vlastníky, si můžete dát sami sobě oprávnění „jen k čtení“ nebo k „čtení a zápisu“. Pokud nechcete, abyste si soubor náhodně změnili, nastavte si pro něj oprávnění „jen k čtení“.</p>
 <p class="p">Každý uživatel na počítači náleží do nějaké skupiny. Na domácím počítači je běžné, že má každý uživatel vytvořenou svoji vlastní skupinu a skupinová oprávnění se příliš nepoužívají. Ve firemním prostředí jsou skupiny obvykle používány pro oddělení nebo projekty. Obdobně, jako má každý soubor svého vlastníka, tak každý soubor přísluší i nějaké skupině. Tu můžete souboru nastavit a řídit pak oprávnění pro všechny uživatele v této skupině. Souboru můžete nastavit jen skupinu, do které patříte.</p>
 <p class="p">Oprávnění můžete nastavit i pro ostatní uživatele, než je vlastník a ti ve skupině souboru.</p>
-<p class="p">Jestliže je soubor spustitelným programem, například se jedná o skript, musíte vybrat <span class="gui">Povolit spuštění souboru jako programu</span>, aby šel spustit. I se zapnutou touto volbou může správce souborů soubor otevřít v aplikaci nebo se dotázat, co s ním. Podívejte se na <span class="link"><a href="nautilus-behavior.html#executable" title="Spustitelné textové soubory">Spustitelné textové soubory</a></span>, kde se dočtete proč.</p>
+<p class="p">Jestliže je soubor spustitelným programem, například se jedná o skript, musíte vybrat <span class="gui">Povolit spuštění souboru jako programu</span>, aby šel spustit. I se zapnutou touto volbou může správce souborů soubor otevřít v aplikaci nebo se dotázat, co s ním. Podívejte se na <span class="link"><a href="nautilus-behavior.html.cs#executable" title="Spustitelné textové soubory">Spustitelné textové soubory</a></span>, kde se dočtete proč.</p>
 </div></div>
 </div></div>
 <div id="folders" class="sect"><div class="inner">
@@ -84,12 +84,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tipy a otázky">Tipy a otázky</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.cs#faq" title="Tipy a otázky">Tipy a otázky</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-basic.html" title="Vlastnosti souboru">Vlastnosti souboru</a><span class="desc"> — Jak zobrazit základní informace o souboru, jak nastavit oprávnění a jak změnit výchozí aplikace.</span>
+<a href="nautilus-file-properties-basic.html.cs" title="Vlastnosti souboru">Vlastnosti souboru</a><span class="desc"> — Jak zobrazit základní informace o souboru, jak nastavit oprávnění a jak změnit výchozí aplikace.</span>
 </li></ul></div>
 </div></div>
 </div>

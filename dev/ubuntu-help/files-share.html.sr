@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.sr" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html.sr#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="sharing.html" title="Дељење">Дељење</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="sharing.html.sr" title="Дељење">Дељење</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Да делите датотеку е-поштом:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите програм <span class="app">Датотеке</span> из прегледа <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">активности</a></span>.</p></li>
+<li class="steps"><p class="p">Отворите програм <span class="app">Датотеке</span> из прегледа <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">активности</a></span>.</p></li>
 <li class="steps"><p class="p">Пронађите датотеку коју желите да пренесете.</p></li>
 <li class="steps"><p class="p">Притисните десним тастером миша на датотеку и изаберите <span class="gui">Пошаљи…</span>. Појавиће се прозор за састављање порука са прикаченом датотеком.</p></li>
 <li class="steps"><p class="p">Кликните <span class="gui">Коме</span> да изаберете контакт, или унесите адресу е-поште на коју желите да пошаљете датотеку. Попуните <span class="gui">Наслов</span> и разраду поруке као што се тражи и кликните <span class="gui">Пошаљи</span>.</p></li>
@@ -73,19 +73,19 @@
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Дељење">Дељење</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Делите радну површ">Дељење радне површи</a></span>, <span class="link"><a href="files-share.html" title="Делите датотеке е-поштом">Дељење датотека е-поштом</a></span>, <span class="link"><a href="sharing-media.html" title="Делите вашу музику, фотографије и видео записе">Дељење медија</a></span>…</span>
+<a href="sharing.html.sr" title="Дељење">Дељење</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.sr" title="Делите радну површ">Дељење радне површи</a></span>, <span class="link"><a href="files-share.html.sr" title="Делите датотеке е-поштом">Дељење датотека е-поштом</a></span>, <span class="link"><a href="sharing-media.html.sr" title="Делите вашу музику, фотографије и видео записе">Дељење медија</a></span>…</span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a></li>
+<li class="links "><a href="files.html.sr#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-send-file.html" title="Пошаљите датотеке Блутут уређају">Пошаљите датотеке Блутут уређају</a><span class="desc"> — Делите датотеке Блутут уређајима као што је ваш телефон.</span>
+<a href="bluetooth-send-file.html.sr" title="Пошаљите датотеке Блутут уређају">Пошаљите датотеке Блутут уређају</a><span class="desc"> — Делите датотеке Блутут уређајима као што је ваш телефон.</span>
 </li>
 <li class="links ">
-<a href="nautilus-connect.html" title="Претражујте датотеке на серверу или мрежном дељењу">Претражујте датотеке на серверу или мрежном дељењу</a><span class="desc"> — Прегледајте и уређујте датотеке на другом рачунару преко ФТП-а, безбедне шкољке, Виндоуз дељења, или ВебДАВ-а.</span>
+<a href="nautilus-connect.html.sr" title="Претражујте датотеке на серверу или мрежном дељењу">Претражујте датотеке на серверу или мрежном дељењу</a><span class="desc"> — Прегледајте и уређујте датотеке на другом рачунару преко ФТП-а, безбедне шкољке, Виндоуз дељења, или ВебДАВ-а.</span>
 </li>
 </ul></div>
 </div></div>

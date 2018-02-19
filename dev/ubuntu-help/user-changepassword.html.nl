@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="user-accounts.html" title="Gebruikersaccounts">Gebruikers</a> › <a class="trail" href="user-accounts.html#passwords" title="Wachtwoorden">Wachtwoorden</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="user-accounts.html.nl" title="Gebruikersaccounts">Gebruikers</a> › <a class="trail" href="user-accounts.html.nl#passwords" title="Wachtwoorden">Wachtwoorden</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Uw wachtwoord wijzigen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Het is een goed idee om van tijd tot tijd uw wachtwoord te wijzigen, vooral als u denkt dat iemand anders uw wachtwoord kent.</p>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">administrator privileges</a></span>
+<p class="p">You need <span class="link"><a href="user-admin-explain.html.nl" title="Hoe werken beheerdersrechten?">administrator privileges</a></span>
   to edit user accounts other than your own.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Gebruikers</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Gebruikers</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Gebruikersaccounts</span> om het venster te openen.</p></li>
 <li class="steps"><p class="p">Klik op het label <span class="gui">·····</span> naast <span class="gui">Wachtwoord</span>. Als u het wachtwoord voor een andere gebruiker wijzigt, dan dient u eerst het venster te <span class="gui">ontgrendelen</span></p></li>
 <li class="steps">
@@ -62,7 +62,7 @@
 </li>
 <li class="steps"><p class="p">Klik op <span class="gui">Wijzigen</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Zorg ervoor dat u <span class="link"><a href="user-goodpassword.html" title="Kies een veilig wachtwoord">een goed wachtwoord kiest</a></span>. Dit helpt uw gebruikersaccount veilig te houden.</p>
+<p class="p">Zorg ervoor dat u <span class="link"><a href="user-goodpassword.html.nl" title="Kies een veilig wachtwoord">een goed wachtwoord kiest</a></span>. Dit helpt uw gebruikersaccount veilig te houden.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Wanneer u uw aanmeldwachtwoord wijzigt, dan zal uw aanmeldwachtwoord in de sleutelbos automatisch aangepast worden zodat het hetzelfde is als uw nieuwe aanmeldwachtwoord.</p></div></div></div></div>
 <p class="p">Als u uw wachtwoord vergeten bent kan elke gebruiker met beheerdersrechten het voor u wijzigen.</p>
 </div>
@@ -71,16 +71,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#passwords" title="Wachtwoorden">Wachtwoorden</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.nl#passwords" title="Wachtwoorden">Wachtwoorden</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">Hoe werken beheerdersrechten?</a><span class="desc"> — U heeft beheerdersrechten nodig om belangrijke delen van uw systeem te wijzigen.</span>
+<a href="user-admin-explain.html.nl" title="Hoe werken beheerdersrechten?">Hoe werken beheerdersrechten?</a><span class="desc"> — U heeft beheerdersrechten nodig om belangrijke delen van uw systeem te wijzigen.</span>
 </li>
 <li class="links ">
-<a href="user-goodpassword.html" title="Kies een veilig wachtwoord">Kies een veilig wachtwoord</a><span class="desc"> — Gebruik langere, ingewikkeldere wachtwoorden.</span>
+<a href="user-goodpassword.html.nl" title="Kies een veilig wachtwoord">Kies een veilig wachtwoord</a><span class="desc"> — Gebruik langere, ingewikkeldere wachtwoorden.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,39 +43,39 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Печать</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html" title="How can I check my printer’s ink or toner levels?"><span class="title">How can I check my printer’s ink or toner levels?</span><span class="linkdiv-dash"> — </span><span class="desc">Проверка уровня чернил или тонера в картриджах принтера.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html" title="Печать в файл"><span class="title">Печать в файл</span><span class="linkdiv-dash"> — </span><span class="desc">Save a document as a PDF, PostScript or SVG file instead of sending
+<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.ru" title="How can I check my printer’s ink or toner levels?"><span class="title">How can I check my printer’s ink or toner levels?</span><span class="linkdiv-dash"> — </span><span class="desc">Проверка уровня чернил или тонера в картриджах принтера.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html.ru" title="Печать в файл"><span class="title">Печать в файл</span><span class="linkdiv-dash"> — </span><span class="desc">Save a document as a PDF, PostScript or SVG file instead of sending
     it to a printer.</span></a></div>
 </div></div></div></div>
 <div id="setup" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Установка принтера</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-setup.html" title="Установка локального принтера"><span class="title">Установка локального принтера</span><span class="linkdiv-dash"> — </span><span class="desc">Настройте принтер, подключённый к вашему компьютеру.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html" title="Выбор принтера, используемого по умолчанию"><span class="title">Выбор принтера, используемого по умолчанию</span><span class="linkdiv-dash"> — </span><span class="desc">Выберите принтер, которым пользуетесь чаще всего.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-setup.html.ru" title="Установка локального принтера"><span class="title">Установка локального принтера</span><span class="linkdiv-dash"> — </span><span class="desc">Настройте принтер, подключённый к вашему компьютеру.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html.ru" title="Выбор принтера, используемого по умолчанию"><span class="title">Выбор принтера, используемого по умолчанию</span><span class="linkdiv-dash"> — </span><span class="desc">Выберите принтер, которым пользуетесь чаще всего.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-name-location.html" title="Как изменить имя или местоположение принтера"><span class="title">Как изменить имя или местоположение принтера</span><span class="linkdiv-dash"> — </span><span class="desc">Изменение имени и местоположения принтера в параметрах принтера.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-name-location.html.ru" title="Как изменить имя или местоположение принтера"><span class="title">Как изменить имя или местоположение принтера</span><span class="linkdiv-dash"> — </span><span class="desc">Изменение имени и местоположения принтера в параметрах принтера.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="paper" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Различные размеры и ориентация бумаги</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html" title="Print envelopes"><span class="title">Print envelopes</span><span class="linkdiv-dash"> — </span><span class="desc">Make sure that you have the envelope the right way up, and have
+<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.ru" title="Print envelopes"><span class="title">Print envelopes</span><span class="linkdiv-dash"> — </span><span class="desc">Make sure that you have the envelope the right way up, and have
     chosen the correct paper size.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html" title="Двусторонняя печать и печать нескольких страниц на листе"><span class="title">Двусторонняя печать и печать нескольких страниц на листе</span><span class="linkdiv-dash"> — </span><span class="desc">Печать на обеих сторонах бумаги или печать нескольких страниц на листе.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html" title="Изменение размера бумаги для печати"><span class="title">Изменение размера бумаги для печати</span><span class="linkdiv-dash"> — </span><span class="desc">Печать документа на бумаге другого размера или ориентации.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html.ru" title="Двусторонняя печать и печать нескольких страниц на листе"><span class="title">Двусторонняя печать и печать нескольких страниц на листе</span><span class="linkdiv-dash"> — </span><span class="desc">Печать на обеих сторонах бумаги или печать нескольких страниц на листе.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html.ru" title="Изменение размера бумаги для печати"><span class="title">Изменение размера бумаги для печати</span><span class="linkdiv-dash"> — </span><span class="desc">Печать документа на бумаге другого размера или ориентации.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html" title="Печать буклета"><span class="title">Печать буклета</span><span class="linkdiv-dash"> — </span><span class="desc">Как напечатать многостраничный буклет на бумаге размера A4 или Letter.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-order.html" title="Печать страниц в другом порядке"><span class="title">Печать страниц в другом порядке</span><span class="linkdiv-dash"> — </span><span class="desc">Упорядочивание копий и обратный порядок печати страниц.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-select.html" title="Печать только указанных страниц"><span class="title">Печать только указанных страниц</span><span class="linkdiv-dash"> — </span><span class="desc">Печать только отдельных страниц или диапазона страниц.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.ru" title="Печать буклета"><span class="title">Печать буклета</span><span class="linkdiv-dash"> — </span><span class="desc">Как напечатать многостраничный буклет на бумаге размера A4 или Letter.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-order.html.ru" title="Печать страниц в другом порядке"><span class="title">Печать страниц в другом порядке</span><span class="linkdiv-dash"> — </span><span class="desc">Упорядочивание копий и обратный порядок печати страниц.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-select.html.ru" title="Печать только указанных страниц"><span class="title">Печать только указанных страниц</span><span class="linkdiv-dash"> — </span><span class="desc">Печать только отдельных страниц или диапазона страниц.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -84,16 +84,16 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html" title="Отменить, приостановить или возобновить задачу печати"><span class="title">Отменить, приостановить или возобновить задачу печати</span><span class="linkdiv-dash"> — </span><span class="desc">Отмена незаконченного задания на печать и удаление его из очереди.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-streaks.html" title="Почему на распечатках присутствуют полосы, посторонние линии или неправильные цвета?"><span class="title">Почему на распечатках присутствуют полосы, посторонние линии или неправильные цвета?</span><span class="linkdiv-dash"> — </span><span class="desc">Если на распечатках видны полосы, непропечатки или отсутствуют некоторые цвета, проверьте уровень чернил или выполните очистку печатающей головки.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html.ru" title="Отменить, приостановить или возобновить задачу печати"><span class="title">Отменить, приостановить или возобновить задачу печати</span><span class="linkdiv-dash"> — </span><span class="desc">Отмена незаконченного задания на печать и удаление его из очереди.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-streaks.html.ru" title="Почему на распечатках присутствуют полосы, посторонние линии или неправильные цвета?"><span class="title">Почему на распечатках присутствуют полосы, посторонние линии или неправильные цвета?</span><span class="linkdiv-dash"> — </span><span class="desc">Если на распечатках видны полосы, непропечатки или отсутствуют некоторые цвета, проверьте уровень чернил или выполните очистку печатающей головки.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html" title="Устранение замятия бумаги"><span class="title">Устранение замятия бумаги</span><span class="linkdiv-dash"> — </span><span class="desc">Способ устранения замятия бумаги зависит от производителя и модели принтера.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html.ru" title="Устранение замятия бумаги"><span class="title">Устранение замятия бумаги</span><span class="linkdiv-dash"> — </span><span class="desc">Способ устранения замятия бумаги зависит от производителя и модели принтера.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Дополнительная информация</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Типичные проблемы">Неполадки оборудования</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки оборудования</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -103,7 +103,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Оборудование и драйверы">Оборудование и драйверы</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Типичные проблемы">Неполадки оборудования</a></span>, <span class="link"><a href="printing.html" title="Печать">принтеры</a></span>, <span class="link"><a href="power.html" title="Питание и аккумулятор">параметры питания</a></span>, <span class="link"><a href="color.html" title="Управление цветом">управление цветом</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Диски и другие устройства хранения информации">диски</a></span>…</span>
+<a href="hardware.html.ru" title="Оборудование и драйверы">Оборудование и драйверы</a><span class="desc"> — <span class="link"><a href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки оборудования</a></span>, <span class="link"><a href="printing.html.ru" title="Печать">принтеры</a></span>, <span class="link"><a href="power.html.ru" title="Питание и аккумулятор">параметры питания</a></span>, <span class="link"><a href="color.html.ru" title="Управление цветом">управление цветом</a></span>, <span class="link"><a href="bluetooth.html.ru" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.ru" title="Диски и другие устройства хранения информации">диски</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

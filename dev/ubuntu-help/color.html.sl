@@ -44,28 +44,28 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Upravljanje barv</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="color-assignprofiles.html" title="Kako določiti profile napravam?"><span class="title">Kako določiti profile napravam?</span><span class="linkdiv-dash"> — </span><span class="desc">Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-whyimportant.html" title="Zakaj je upravljanje z barvami pomembno?"><span class="title">Zakaj je upravljanje z barvami pomembno?</span><span class="linkdiv-dash"> — </span><span class="desc">Upravljanje barv je pomembno za razvijalce, fotografe in umetnike.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-assignprofiles.html.sl" title="Kako določiti profile napravam?"><span class="title">Kako določiti profile napravam?</span><span class="linkdiv-dash"> — </span><span class="desc">Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whyimportant.html.sl" title="Zakaj je upravljanje z barvami pomembno?"><span class="title">Zakaj je upravljanje z barvami pomembno?</span><span class="linkdiv-dash"> — </span><span class="desc">Upravljanje barv je pomembno za razvijalce, fotografe in umetnike.</span></a></div>
 </div></div></div></div>
 <div id="profiles" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Barvni profili</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-whatisprofile.html" title="Kaj je barvni profil?"><span class="title">Kaj je barvni profil?</span><span class="linkdiv-dash"> — </span><span class="desc">Barvni profil je enostavna datoteka, ki izrazi barvni prostor ali odziv naprave.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-whatisspace.html" title="Kaj je barvni prostor?"><span class="title">Kaj je barvni prostor?</span><span class="linkdiv-dash"> — </span><span class="desc">Barvni prostor je definiran razpon barv.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whatisprofile.html.sl" title="Kaj je barvni profil?"><span class="title">Kaj je barvni profil?</span><span class="linkdiv-dash"> — </span><span class="desc">Barvni profil je enostavna datoteka, ki izrazi barvni prostor ali odziv naprave.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whatisspace.html.sl" title="Kaj je barvni prostor?"><span class="title">Kaj je barvni prostor?</span><span class="linkdiv-dash"> — </span><span class="desc">Barvni prostor je definiran razpon barv.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html" title="Kako lahko uvozim barvne profile?"><span class="title">Kako lahko uvozim barvne profile?</span><span class="linkdiv-dash"> — </span><span class="desc">Color profiles can be imported by opening them.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-gettingprofiles.html" title="Kje lahko dobim barvne profile?"><span class="title">Kje lahko dobim barvne profile?</span><span class="linkdiv-dash"> — </span><span class="desc">Barve profile zagotavljajo ponudniki, lahko pa jih ustvarite tudi sami.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html.sl" title="Kako lahko uvozim barvne profile?"><span class="title">Kako lahko uvozim barvne profile?</span><span class="linkdiv-dash"> — </span><span class="desc">Color profiles can be imported by opening them.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-gettingprofiles.html.sl" title="Kje lahko dobim barvne profile?"><span class="title">Kje lahko dobim barvne profile?</span><span class="linkdiv-dash"> — </span><span class="desc">Barve profile zagotavljajo ponudniki, lahko pa jih ustvarite tudi sami.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -73,17 +73,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Umerjanje</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html" title="Ali lahko svoj barvni profil delim z drugimi?"><span class="title">Ali lahko svoj barvni profil delim z drugimi?</span><span class="linkdiv-dash"> — </span><span class="desc">Deljenje barvnih profilov ni priporočeno, ker se strojna oprema spreminja skozi čas.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html" title="Kako umeriti fotoaparat?"><span class="title">Kako umeriti fotoaparat?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjanje vašega fotoaparata je pomembno za zajem natančnih barv.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html" title="Kako umeriti optični bralnik?"><span class="title">Kako umeriti optični bralnik?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjanje optičnega bralnika je pomembno pri natančnemu zajemu barv.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html" title="Kako umeriti tiskalnik?"><span class="title">Kako umeriti tiskalnik?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjanje vašega tiskalnika je pomembno za tiskanje natančnih barv.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html" title="Kako umeriti zaslon?"><span class="title">Kako umeriti zaslon?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjanje zaslona je pomembno za natančen prikaz barv na zaslonu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html.sl" title="Ali lahko svoj barvni profil delim z drugimi?"><span class="title">Ali lahko svoj barvni profil delim z drugimi?</span><span class="linkdiv-dash"> — </span><span class="desc">Deljenje barvnih profilov ni priporočeno, ker se strojna oprema spreminja skozi čas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html.sl" title="Kako umeriti fotoaparat?"><span class="title">Kako umeriti fotoaparat?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjanje vašega fotoaparata je pomembno za zajem natančnih barv.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html.sl" title="Kako umeriti optični bralnik?"><span class="title">Kako umeriti optični bralnik?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjanje optičnega bralnika je pomembno pri natančnemu zajemu barv.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html.sl" title="Kako umeriti tiskalnik?"><span class="title">Kako umeriti tiskalnik?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjanje vašega tiskalnika je pomembno za tiskanje natančnih barv.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html.sl" title="Kako umeriti zaslon?"><span class="title">Kako umeriti zaslon?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjanje zaslona je pomembno za natančen prikaz barv na zaslonu.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html" title="Katere vrste ciljev so podprte?"><span class="title">Katere vrste ciljev so podprte?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjevalni cilji so potrebni za do profiliranje kamere in optičnega bralnika.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html" title="Kateri instrumenti za merjenje barv so podprti?"><span class="title">Kateri instrumenti za merjenje barv so podprti?</span><span class="linkdiv-dash"> — </span><span class="desc">Podpiramo veliko število naprav za umerjanje.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="What’s the difference between calibration and characterization?"><span class="title">What’s the difference between calibration and characterization?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjanje in karakterizacija sta dve popolnoma različni stvari.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html" title="Zakaj moram sam izvesti umerjanje?"><span class="title">Zakaj moram sam izvesti umerjanje?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjanje je pomembno, če vam ni vseeno kakšne barve prikazujete ali natisnete.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html.sl" title="Katere vrste ciljev so podprte?"><span class="title">Katere vrste ciljev so podprte?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjevalni cilji so potrebni za do profiliranje kamere in optičnega bralnika.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html.sl" title="Kateri instrumenti za merjenje barv so podprti?"><span class="title">Kateri instrumenti za merjenje barv so podprti?</span><span class="linkdiv-dash"> — </span><span class="desc">Podpiramo veliko število naprav za umerjanje.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html.sl" title="What’s the difference between calibration and characterization?"><span class="title">What’s the difference between calibration and characterization?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjanje in karakterizacija sta dve popolnoma različni stvari.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html.sl" title="Zakaj moram sam izvesti umerjanje?"><span class="title">Zakaj moram sam izvesti umerjanje?</span><span class="linkdiv-dash"> — </span><span class="desc">Umerjanje je pomembno, če vam ni vseeno kakšne barve prikazujete ali natisnete.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -91,13 +91,13 @@
 <div class="hgroup"><h2 class="title"><span class="title">Težave</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-notifications.html" title="Ali sem lahko obveščen/a, ko je moj bravni profil nenatančen?"><span class="title">Ali sem lahko obveščen/a, ko je moj bravni profil nenatančen?</span><span class="linkdiv-dash"> — </span><span class="desc">Lahko ste obveščeni, če je vaš barvni profil star ali nenatančen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-missingvcgt.html" title="Ali vam manjkajo podatki za celozaslonski popravek barve?"><span class="title">Ali vam manjkajo podatki za celozaslonski popravek barve?</span><span class="linkdiv-dash"> — </span><span class="desc">Celozaslonski barvni popravek spremeni barve v vseh oknih.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notifications.html.sl" title="Ali sem lahko obveščen/a, ko je moj bravni profil nenatančen?"><span class="title">Ali sem lahko obveščen/a, ko je moj bravni profil nenatančen?</span><span class="linkdiv-dash"> — </span><span class="desc">Lahko ste obveščeni, če je vaš barvni profil star ali nenatančen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-missingvcgt.html.sl" title="Ali vam manjkajo podatki za celozaslonski popravek barve?"><span class="title">Ali vam manjkajo podatki za celozaslonski popravek barve?</span><span class="linkdiv-dash"> — </span><span class="desc">Celozaslonski barvni popravek spremeni barve v vseh oknih.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-testing.html" title="Kako lahko preizkusim ali upravljanje barv deluje pravilno?"><span class="title">Kako lahko preizkusim ali upravljanje barv deluje pravilno?</span><span class="linkdiv-dash"> — </span><span class="desc">Use the supplied test profiles to check that your profiles are being
+<div class="linkdiv "><a class="linkdiv" href="color-testing.html.sl" title="Kako lahko preizkusim ali upravljanje barv deluje pravilno?"><span class="title">Kako lahko preizkusim ali upravljanje barv deluje pravilno?</span><span class="linkdiv-dash"> — </span><span class="desc">Use the supplied test profiles to check that your profiles are being
     applied correctly to your screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="Why don’t the default monitor profiles have a calibration expiry?"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">Privzeti profili zaslona nimajo datuma umerjanja.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html.sl" title="Why don’t the default monitor profiles have a calibration expiry?"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">Privzeti profili zaslona nimajo datuma umerjanja.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -107,10 +107,10 @@
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema in gonilniki</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Pogoste težave">Težave s strojno opremo</a></span>, <span class="link"><a href="printing.html" title="Tiskanje">tiskalniki</a></span>, <span class="link"><a href="power.html" title="Napajanje in baterija">nastavitve porabe</a></span>, <span class="link"><a href="color.html" title="Upravljanje barv">upravljanje barv</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Diski in shramba">diski</a></span> …</span>
+<a href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema in gonilniki</a><span class="desc"> — <span class="link"><a href="hardware.html.sl#problems" title="Pogoste težave">Težave s strojno opremo</a></span>, <span class="link"><a href="printing.html.sl" title="Tiskanje">tiskalniki</a></span>, <span class="link"><a href="power.html.sl" title="Napajanje in baterija">nastavitve porabe</a></span>, <span class="link"><a href="color.html.sl" title="Upravljanje barv">upravljanje barv</a></span>, <span class="link"><a href="bluetooth.html.sl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.sl" title="Diski in shramba">diski</a></span> …</span>
 </li>
 <li class="links ">
-<a href="prefs.html" title="Uporabniške in sistemske nastavitve">Uporabniške in sistemske nastavitve</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tipkovnica">Tipkovnica</a></span>, <span class="link"><a href="mouse.html" title="Miška">miška</a></span>, <span class="link"><a href="prefs-display.html" title="Zaslon">zaslon</a></span>, <span class="link"><a href="prefs-language.html" title="Področje in jezik">jeziki</a></span>, <span class="link"><a href="user-accounts.html" title="Uporabniški računi">uporabniški računi</a></span> …</span>
+<a href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Uporabniške in sistemske nastavitve</a><span class="desc"> — <span class="link"><a href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a></span>, <span class="link"><a href="mouse.html.sl" title="Miška">miška</a></span>, <span class="link"><a href="prefs-display.html.sl" title="Zaslon">zaslon</a></span>, <span class="link"><a href="prefs-language.html.sl" title="Področje in jezik">jeziki</a></span>, <span class="link"><a href="user-accounts.html.sl" title="Uporabniški računi">uporabniški računi</a></span> …</span>
 </li>
 </ul></div>
 </div></div></div>

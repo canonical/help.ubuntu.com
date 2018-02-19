@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wireless.html" title="Bezdrátové sítě">Bezdrátové sítě</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové sítě</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wired.html" title="Drátová síť">Drátová síť</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wired.html.cs" title="Drátová síť">Drátová síť</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,13 +58,13 @@
 <div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Pokud neexistuje pro NetworkManager balíček pro váš typ VPN, budete si muset nejspíše stáhnout a nainstalovat nějaký klientský software od firmy, která poskytuje software pro vaši VPN. V takovém případě se asi budete muset řídit jinými pokyny pro zprovoznění.</p></div></div></div></div>
 <p class="p">Když chcete nastavit připojení VPN:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Síť</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Síť</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Síť</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Ve spodní části seznamu nalevo klikněte na tlačítko <span class="gui">+</span>, aby se přidalo nové připojení.</p></li>
 <li class="steps"><p class="p">V seznamu rozhraní zvolte <span class="gui">VPN</span>.</p></li>
 <li class="steps"><p class="p">Zvolte, který druh připojení VPN máte.</p></li>
 <li class="steps"><p class="p">Vyplňte všechny podrobné údaje připojení VPN a až budete hotovi, zmáčkněte <span class="gui">Přidat</span>.</p></li>
-<li class="steps"><p class="p">Až je nastavení VPN dokončené, otevřete <span class="gui"><a href="shell-introduction.html#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> vpravo na horní liště, klikněte na <span class="gui">VPN   Vypnuto</span> a vyberte <span class="gui">Připojit</span>. Možná budete muset, než se spojení sestaví, pro něj zadat heslo. Jakmile je spojení sestavené, uvidíte na horní liště ikonu ve tvaru zámku.</p></li>
+<li class="steps"><p class="p">Až je nastavení VPN dokončené, otevřete <span class="gui"><a href="shell-introduction.html.cs#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> vpravo na horní liště, klikněte na <span class="gui">VPN   Vypnuto</span> a vyberte <span class="gui">Připojit</span>. Možná budete muset, než se spojení sestaví, pro něj zadat heslo. Jakmile je spojení sestavené, uvidíte na horní liště ikonu ve tvaru zámku.</p></li>
 <li class="steps"><p class="p">Doufáme, že jste se úspěšně připojili k VPN. Pokud ne, raději dvakrát zkontrolujte nastavení VPN, která jste zadali. To můžete provést v panelu <span class="gui">Síť</span>, který jste použili při vytváření připojení. V něm vyberete v seznamu připojení VPN a zmáčknutím tlačítka <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="nastavení"></span></span> si nastavení zobrazte.</p></li>
 <li class="steps"><p class="p">Když se chcete od VPN odpojit, klikněte na systémovou nabídku na horní liště a klikněte na <span class="gui">Vypnout</span> pod názvem svého připojení VPN.</p></li>
 </ol></div></div></div>
@@ -75,10 +75,10 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="Bezdrátové sítě">Bezdrátové sítě</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Připojení k bezdrátové síti">Připojení k Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Připojení ke skryté bezdrátové síti">Skryté sítě</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Proč se moje síť pořád odpojuje?">Odpojování</a></span>…</span>
+<a href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové sítě</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.cs" title="Připojení k bezdrátové síti">Připojení k Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.cs" title="Připojení ke skryté bezdrátové síti">Skryté sítě</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.cs" title="Proč se moje síť pořád odpojuje?">Odpojování</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wired.html" title="Drátová síť">Drátová síť</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Připojení k drátové síti (Ethernet)">Připojení k Internetu po drátu</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Vytvoření připojení se pevnou adresou IP">pevná IP adresa</a></span>…</span>
+<a href="net-wired.html.cs" title="Drátová síť">Drátová síť</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.cs" title="Připojení k drátové síti (Ethernet)">Připojení k Internetu po drátu</a></span>, <span class="link"><a href="net-fixed-ip-address.html.cs" title="Vytvoření připojení se pevnou adresou IP">pevná IP adresa</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -43,15 +43,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html#desktop" title="Personalizar su escritorio">Personalizar su escritorio</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html.es" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html.es#desktop" title="Personalizar su escritorio">Personalizar su escritorio</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Anclar sus aplicaciones favoritas al tablero</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Para añadir una aplicación al <span class="link"><a href="shell-introduction.html#activities" title="Vista de Actividades">tablero</a></span> y poder acceder a ella fácilmente:</p>
+<p class="p">Para añadir una aplicación al <span class="link"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">tablero</a></span> y poder acceder a ella fácilmente:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> pulsando en <span class="gui">Actividades</span> en la parte superior izquierda de la pantalla</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> pulsando en <span class="gui">Actividades</span> en la parte superior izquierda de la pantalla</p></li>
 <li class="steps"><p class="p">Pulse en el botón de la rejilla en el tablero para buscar la aplicación que quiere.</p></li>
 <li class="steps">
 <p class="p">Pulse con el botón derecho sobre el icono de la aplicación y elija <span class="gui">Añadir a favoritos</span>.</p>
@@ -65,12 +65,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="Personalizar su escritorio">Personalizar su escritorio</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.es#desktop" title="Personalizar su escritorio">Personalizar su escritorio</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html" title="Iniciar aplicaciones">Iniciar aplicaciones</a><span class="desc"> — Lanzar aplicaciones desde la vista de <span class="gui">Actividades</span>.</span>
+<a href="shell-apps-open.html.es" title="Iniciar aplicaciones">Iniciar aplicaciones</a><span class="desc"> — Lanzar aplicaciones desde la vista de <span class="gui">Actividades</span>.</span>
 </li></ul></div>
 </div></div>
 </div>

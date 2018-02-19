@@ -54,11 +54,11 @@
   <span class="gui">Places</span> menus on the top bar, and a window
   list at the bottom of the screen.</p>
 <p class="p">You can use the <span class="gui">Applications</span> menu on the top bar to launch
- applications. The <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span>
+ applications. The <span class="gui"><a href="shell-introduction.html.he#activities" title="Activities overview">Activities</a></span>
  overview is available by selecting the <span class="gui">Activities
  Overview</span> item from the menu.</p>
 <p class="p">To access the <span class="em"><span class="gui">Activities</span> overview</span>,
- you can also press the <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> key.</p>
+ you can also press the <span class="key"><a href="keyboard-key-super.html.he" title="What is the Super key?"><kbd>Super</kbd></a></span> key.</p>
 </div>
 <div id="gnome-classic-window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Window list</span></h2></div>
@@ -72,7 +72,7 @@
  the identifier and select the workspace you want to use from the menu.</p>
 <p class="p">If an application or a system component wants to get your attention, it
  will display a blue icon at the right-hand side of the window list. Clicking
- the blue icon shows the <span class="link"><a href="shell-notifications.html" title="Notifications and the message tray">message tray</a></span>,
+ the blue icon shows the <span class="link"><a href="shell-notifications.html.he" title="Notifications and the message tray">message tray</a></span>,
  which lets you access all your notifications.</p>
 </div></div>
 </div></div>

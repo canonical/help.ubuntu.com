@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Verkkotilit</span></h1></div>
@@ -51,16 +51,16 @@
 <div class="contents">
 <p class="p">Voit lisätä joidenkin verkkopalveluiden, kuten Googlen ja Facebookin, tunnukset <span class="gui">Verkkotileihin</span>. Verkkotilin lisääminen mahdollistaa kalenteri-, sähköposti-, keskustelu- ja muiden verkkotilejä hyödyntävien sovellusten käyttämisen.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="accounts-add.html" title="Lisää tili"><span class="title">Lisää tili</span><span class="linkdiv-dash"> — </span><span class="desc">Salli sovellusten käyttää verkkotilejäsi kuvia, yhteystietoja, kalentereita ja paljon muuta varten.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html" title="Poista tili"><span class="title">Poista tili</span><span class="linkdiv-dash"> — </span><span class="desc">Remove access to an online service provider from your
+<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.fi" title="Lisää tili"><span class="title">Lisää tili</span><span class="linkdiv-dash"> — </span><span class="desc">Salli sovellusten käyttää verkkotilejäsi kuvia, yhteystietoja, kalentereita ja paljon muuta varten.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.fi" title="Poista tili"><span class="title">Poista tili</span><span class="linkdiv-dash"> — </span><span class="desc">Remove access to an online service provider from your
     applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html" title="Miksi lisäisin tilin?"><span class="title">Miksi lisäisin tilin?</span><span class="linkdiv-dash"> — </span><span class="desc">Mitä hyötyä on sähköpostin tai sosiaalisen median tilien lisäämisestä?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html" title="Control which online services an account can be used to access"><span class="title">Control which online services an account can be used to access</span><span class="linkdiv-dash"> — </span><span class="desc">Some online accounts can be used to access multiple services (like
+<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.fi" title="Miksi lisäisin tilin?"><span class="title">Miksi lisäisin tilin?</span><span class="linkdiv-dash"> — </span><span class="desc">Mitä hyötyä on sähköpostin tai sosiaalisen median tilien lisäämisestä?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.fi" title="Control which online services an account can be used to access"><span class="title">Control which online services an account can be used to access</span><span class="linkdiv-dash"> — </span><span class="desc">Some online accounts can be used to access multiple services (like
     calendar and email). You can control which of these services can be used by
     applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html" title="Verkkopalvelut ja sovellukset"><span class="title">Verkkopalvelut ja sovellukset</span><span class="linkdiv-dash"> — </span><span class="desc">Applications can use the accounts created in <span class="app">Online
+<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.fi" title="Verkkopalvelut ja sovellukset"><span class="title">Verkkopalvelut ja sovellukset</span><span class="linkdiv-dash"> — </span><span class="desc">Applications can use the accounts created in <span class="app">Online
     Accounts</span> and the services they exploit.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html" title="Why is my account type not on the list?"><span class="title">Why is my account type not on the list?</span><span class="linkdiv-dash"> — </span><span class="desc">Mitä jos verkkopalvelun tarjoaja ei ole listattuna?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html.fi" title="Why is my account type not on the list?"><span class="title">Why is my account type not on the list?</span><span class="linkdiv-dash"> — </span><span class="desc">Mitä jos verkkopalvelun tarjoaja ei ole listattuna?</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -69,18 +69,18 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html" title="Hiiri">hiiri</a></span>, <span class="link"><a href="prefs-display.html" title="Näyttö">näytöt</a></span>, <span class="link"><a href="prefs-language.html" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html" title="Käyttäjätilit">käyttäjätilit</a></span>…</span>
+<a href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a><span class="desc"> — <span class="link"><a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html.fi" title="Hiiri">hiiri</a></span>, <span class="link"><a href="prefs-display.html.fi" title="Näyttö">näytöt</a></span>, <span class="link"><a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html.fi" title="Käyttäjätilit">käyttäjätilit</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-connect-online-accounts.html" title="Yhdistä verkkotileihin">Opas verkkotileihin yhdistämisestä</a></li>
+<li class="links "><a href="gs-connect-online-accounts.html.fi" title="Yhdistä verkkotileihin">Opas verkkotileihin yhdistämisestä</a></li>
 <li class="links ">
-<a href="net-chat.html" title="Pikaviestit ja sosiaaliset verkostot">Pikaviestit ja sosiaaliset verkostot</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Pikaviestit Ubuntussa">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Videopuhelut">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Miten käytän Skypeä Ubuntussa?">install skype</a></span>
+<a href="net-chat.html.fi" title="Pikaviestit ja sosiaaliset verkostot">Pikaviestit ja sosiaaliset verkostot</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.fi" title="Pikaviestit Ubuntussa">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.fi" title="Videopuhelut">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.fi" title="Miten käytän Skypeä Ubuntussa?">install skype</a></span>
     </span>
 </li>
 </ul></div>

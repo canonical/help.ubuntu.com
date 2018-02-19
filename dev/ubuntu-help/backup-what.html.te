@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="దస్త్రాలు, సంచయాలు &amp; వెతుకులాట">Files</a> › <a class="trail" href="files.html#backup" title="Backing up">Backing up</a> » <a class="trail" href="backup-why.html" title="మీ ముఖ్యమైన ఫైళ్ళను బ్యాకప్ తీయి">బ్యాక్అప్లు</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.te" title="దస్త్రాలు, సంచయాలు &amp; వెతుకులాట">Files</a> › <a class="trail" href="files.html.te#backup" title="Backing up">Backing up</a> » <a class="trail" href="backup-why.html.te" title="మీ ముఖ్యమైన ఫైళ్ళను బ్యాకప్ తీయి">బ్యాక్అప్లు</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ఏమి బ్యాక్అప్ చేయాలి</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">మీ <span class="link"><a href="backup-thinkabout.html" title="నేను బ్యాకప్ తీయాలనుకొనే ఫైళ్ళను నేను ఎక్కడ కనుగొనగలను?">అతిముఖ్యమైన ఫైళ్ళు</a></span> అదే విధంగా తిరిగిసృష్టించుటకు క్లిష్టమైన ఫైళ్ళను బ్యాకప్ తీయుట మీ ప్రాముఖ్యతగా వుండాలి. ఉదాహరణకు, అతిముఖ్యమైన వాటినుండి అంత ముఖ్యమైనవికాని వాటివరకు:</p>
+<p class="p">మీ <span class="link"><a href="backup-thinkabout.html.te" title="నేను బ్యాకప్ తీయాలనుకొనే ఫైళ్ళను నేను ఎక్కడ కనుగొనగలను?">అతిముఖ్యమైన ఫైళ్ళు</a></span> అదే విధంగా తిరిగిసృష్టించుటకు క్లిష్టమైన ఫైళ్ళను బ్యాకప్ తీయుట మీ ప్రాముఖ్యతగా వుండాలి. ఉదాహరణకు, అతిముఖ్యమైన వాటినుండి అంత ముఖ్యమైనవికాని వాటివరకు:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">మీ వ్యక్తిగత ఫైళ్ళు</dt>
 <dd class="terms"><p class="p">వీటిలో పత్రములు, స్ప్రెడ్‌షీట్లు, ఈమెయిల్, క్యాలెండర్ నియామకాలు, ఆర్ధిక దత్తాంశం, ఇంట్లో ఫొటోలు, లేదా తిరిగి పొందుటకు సాధ్యంకాని ఏ ఫైళ్ళైనా ఈ కోవలోకే వస్తాయి.</p></dd>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="మీ ముఖ్యమైన ఫైళ్ళను బ్యాకప్ తీయి">మీ ముఖ్యమైన ఫైళ్ళను బ్యాకప్ తీయి</a><span class="desc"> — బ్యాకప్స్ ఎప్పుడు, ఎందుకు, ఎక్కడ మరియు ఎలా.</span>
+<a href="backup-why.html.te" title="మీ ముఖ్యమైన ఫైళ్ళను బ్యాకప్ తీయి">మీ ముఖ్యమైన ఫైళ్ళను బ్యాకప్ తీయి</a><span class="desc"> — బ్యాకప్స్ ఎప్పుడు, ఎందుకు, ఎక్కడ మరియు ఎలా.</span>
 </li></ul></div>
 </div></div></div>
 </div>

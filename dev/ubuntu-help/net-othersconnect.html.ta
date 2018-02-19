@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.ta" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Other users can’t connect to the internet</span></h1></div>
@@ -53,7 +53,7 @@
   will normally be able to use it. If the connection information is not shared,
   you should check the connection settings.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps"><p class="p">இடப்புறம் உள்ள பட்டியலில் இருந்து <span class="gui">Wi-Fi</span> ஐ தேர்ந்தெடுக்கவும்.</p></li>
@@ -75,13 +75,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் இணைப்புகளை சிக்கல் தீர்த்தல்</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">உங்கள் wifi பிணையத்தைக் கண்டறிதல்</a></span>…</span>
+<a href="net-problem.html.ta" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் இணைப்புகளை சிக்கல் தீர்த்தல்</a></span>, <span class="link"><a href="net-wireless-find.html.ta" title="I can’t see my wireless network in the list">உங்கள் wifi பிணையத்தைக் கண்டறிதல்</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — பிணைய இணைப்பு அமைவுகளில் <span class="gui">அனைத்து பயனர்களுக்கும் கிடைக்கும்</span> என்ற விருப்பத்தை தேர்வு நீக்கவும் வேண்டும்.</span>
+<a href="net-othersedit.html.ta" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — பிணைய இணைப்பு அமைவுகளில் <span class="gui">அனைத்து பயனர்களுக்கும் கிடைக்கும்</span> என்ற விருப்பத்தை தேர்வு நீக்கவும் வேண்டும்.</span>
 </li></ul></div>
 </div></div>
 </div>

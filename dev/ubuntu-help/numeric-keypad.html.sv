@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="keyboard.html" title="Tangentbord">Tangentbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="keyboard.html.sv" title="Tangentbord">Tangentbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="keyboard.html" title="Tangentbord">Tangentbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="keyboard.html.sv" title="Tangentbord">Tangentbord</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,8 +55,8 @@
 <div class="contents">
 <p class="p">Med tangenten <span class="key"><kbd>Num Lock</kbd></span> kan du manuellt aktivera eller avaktivera det numeriska tangentbordet. Datorers BIOS-inställningar inkluderar ofta ett alternativ för att bestämma om det numeriska tangentbordet ska aktiveras vid systemstart. Detta är annars ett sätt att ändra inställningarna:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html" title="Installera fler program">Installera</a></span> paketet <span class="em">numlockx</span>.</p></li>
-<li class="steps"><p class="p">Öppna <span class="app"><span class="link"><a href="startup-applications.html" title="Uppstartsprogram">Uppstartsprogram</a></span></span> och lägg till ett startprogram med kommandot: <span class="cmd">numlockx on</span></p></li>
+<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html.sv" title="Installera fler program">Installera</a></span> paketet <span class="em">numlockx</span>.</p></li>
+<li class="steps"><p class="p">Öppna <span class="app"><span class="link"><a href="startup-applications.html.sv" title="Uppstartsprogram">Uppstartsprogram</a></span></span> och lägg till ett startprogram med kommandot: <span class="cmd">numlockx on</span></p></li>
 </ol></div></div></div>
 <p class="p">Om du även vill ha det numeriska tangentbordet vid inloggningsskärmen kan du skapa en speciell konfigurationsfil. Tryck <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> för att öppna ett terminalfönster, och kör sedan detta kommando (det är ett enda långt kommando, även om det kan visas med radbrytning på din skärm - kopiera och klistra in för att det säkert ska bli rätt):</p>
 <p class="p"><span class="cmd">sudo sh -c 'printf "[Seat:*]\ngreeter-setup-script=numlockx on\n" &gt;/etc/lightdm/lightdm.conf.d/50-numlock.conf'</span></p>
@@ -66,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="Tangentbord">Tangentbord</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Använd alternativa tangentbordslayouter">Tangentbordslayouter</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Få tangentbordsmarkören att blinka">markörblinkning</a></span>, <span class="link"><a href="a11y.html#mobility" title="Rörelsehinder">tangentbordshjälpmedel</a></span>…</span>
+<a href="keyboard.html.sv" title="Tangentbord">Tangentbord</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.sv" title="Använd alternativa tangentbordslayouter">Tangentbordslayouter</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sv" title="Få tangentbordsmarkören att blinka">markörblinkning</a></span>, <span class="link"><a href="a11y.html.sv#mobility" title="Rörelsehinder">tangentbordshjälpmedel</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

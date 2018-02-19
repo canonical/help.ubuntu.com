@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-problem.html" title="Nätverksproblem">Nätverksproblem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-problem.html.sv" title="Nätverksproblem">Nätverksproblem</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-wireless.html" title="Trådlösa nätverk">Trådlösa nätverk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlösa nätverk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -82,17 +82,17 @@
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html" title="Nätverksproblem">Nätverksproblem</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Felsökning av trådlösa nätverk">Felsök trådlösa anslutningar</a></span>, <span class="link"><a href="net-wireless-find.html" title="Jag kan inte se mitt trådlösa nätverk i listan">hitta ditt trådlösa nätverk</a></span>…</span>
+<a href="net-problem.html.sv" title="Nätverksproblem">Nätverksproblem</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.sv" title="Felsökning av trådlösa nätverk">Felsök trådlösa anslutningar</a></span>, <span class="link"><a href="net-wireless-find.html.sv" title="Jag kan inte se mitt trådlösa nätverk i listan">hitta ditt trådlösa nätverk</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html" title="Trådlösa nätverk">Trådlösa nätverk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Anslut till ett trådlöst nätverk">Anslut till wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Anslut till ett dolt, trådlöst nätverk">Dolda nätverk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Varför kopplar mitt trådlösa nätverk ner hela tiden?">Koppla ifrån</a></span>…</span>
+<a href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlösa nätverk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.sv" title="Anslut till ett trådlöst nätverk">Anslut till wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.sv" title="Anslut till ett dolt, trådlöst nätverk">Dolda nätverk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.sv" title="Varför kopplar mitt trådlösa nätverk ner hela tiden?">Koppla ifrån</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Anslut till ett trådlöst nätverk">Anslut till ett trådlöst nätverk</a><span class="desc"> — Nå internet — trådlöst.</span>
+<a href="net-wireless-connect.html.sv" title="Anslut till ett trådlöst nätverk">Anslut till ett trådlöst nätverk</a><span class="desc"> — Nå internet — trådlöst.</span>
 </li></ul></div>
 </div></div>
 </div>

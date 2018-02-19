@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ustawienia udostępniania</span></h1></div>
@@ -54,15 +54,15 @@
   <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html" title="Set the display name for your computer"><span class="title">Set the display name for your computer</span><span class="linkdiv-dash"> — </span><span class="desc">Control how your computer will appear to other computers or
+<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.pl-PL" title="Set the display name for your computer"><span class="title">Set the display name for your computer</span><span class="linkdiv-dash"> — </span><span class="desc">Control how your computer will appear to other computers or
     devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html" title="Share your personal files"><span class="title">Share your personal files</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people access files in your <span class="file">Public</span>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.pl-PL" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.pl-PL" title="Share your personal files"><span class="title">Share your personal files</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people access files in your <span class="file">Public</span>
     folder.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-media.html" title="Udostępnianie muzyki, zdjęć i filmów"><span class="title">Udostępnianie muzyki, zdjęć i filmów</span><span class="linkdiv-dash"> — </span><span class="desc">Udostępnianie multimediów w lokalnej sieci za pomocą UPnP.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html" title="Udostępnianie pulpitu"><span class="title">Udostępnianie pulpitu</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people view and interact with your desktop using VNC.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-media.html.pl-PL" title="Udostępnianie muzyki, zdjęć i filmów"><span class="title">Udostępnianie muzyki, zdjęć i filmów</span><span class="linkdiv-dash"> — </span><span class="desc">Udostępnianie multimediów w lokalnej sieci za pomocą UPnP.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.pl-PL" title="Udostępnianie pulpitu"><span class="title">Udostępnianie pulpitu</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people view and interact with your desktop using VNC.</span></a></div>
 </div>
 </div></div></div>
 </div>
@@ -71,7 +71,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia użytkownika i systemu</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Klawiatura">Klawiatura</a></span>, <span class="link"><a href="mouse.html" title="Mysz">mysz</a></span>, <span class="link"><a href="prefs-display.html" title="Ekran">ekran</a></span>, <span class="link"><a href="prefs-language.html" title="Region i język">język</a></span>, <span class="link"><a href="user-accounts.html" title="Konta użytkowników">konta użytkowników</a></span>…</span>
+<a href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia użytkownika i systemu</a><span class="desc"> — <span class="link"><a href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a></span>, <span class="link"><a href="mouse.html.pl-PL" title="Mysz">mysz</a></span>, <span class="link"><a href="prefs-display.html.pl-PL" title="Ekran">ekran</a></span>, <span class="link"><a href="prefs-language.html.pl-PL" title="Region i język">język</a></span>, <span class="link"><a href="user-accounts.html.pl-PL" title="Konta użytkowników">konta użytkowników</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

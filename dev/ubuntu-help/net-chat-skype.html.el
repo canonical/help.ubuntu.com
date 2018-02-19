@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-chat.html" title="Συνομιλία &amp; Κοινωνική δικτύωση">Συνομιλία &amp; Κοινωνική δικτύωση</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-chat.html.el" title="Συνομιλία &amp; Κοινωνική δικτύωση">Συνομιλία &amp; Κοινωνική δικτύωση</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Πώς μπορώ να χρησιμοποιήσω το Skype στο Ubuntu ;</span></h1></div>
@@ -78,17 +78,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html" title="Συνομιλία &amp; Κοινωνική δικτύωση">Συνομιλία &amp; Κοινωνική δικτύωση</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Άμεσα μηνύματα στο Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Βιντεοκλήσεις">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Πώς μπορώ να χρησιμοποιήσω το Skype στο Ubuntu ;">install skype</a></span>
+<a href="net-chat.html.el" title="Συνομιλία &amp; Κοινωνική δικτύωση">Συνομιλία &amp; Κοινωνική δικτύωση</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.el" title="Άμεσα μηνύματα στο Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.el" title="Βιντεοκλήσεις">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.el" title="Πώς μπορώ να χρησιμοποιήσω το Skype στο Ubuntu ;">install skype</a></span>
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat-video.html" title="Βιντεοκλήσεις">Βιντεοκλήσεις</a><span class="desc"> — Τι εφαρμογές μπορώ να χρησιμοποιήσω για να πραγματοποιήσω βιντεοκλήσεις;</span>
+<a href="net-chat-video.html.el" title="Βιντεοκλήσεις">Βιντεοκλήσεις</a><span class="desc"> — Τι εφαρμογές μπορώ να χρησιμοποιήσω για να πραγματοποιήσω βιντεοκλήσεις;</span>
 </li></ul></div>
 </div></div>
 </div>

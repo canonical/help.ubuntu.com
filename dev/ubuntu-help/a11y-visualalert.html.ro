@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Acces universal">Acces universal</a> › <a class="trail" href="a11y.html#sound" title="Afecțiuni de auz">Afecțiuni de auz</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ro" title="Acces universal">Acces universal</a> › <a class="trail" href="a11y.html.ro#sound" title="Afecțiuni de auz">Afecțiuni de auz</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Flash the screen for alert sounds</span></h1></div>
@@ -54,10 +54,10 @@
   can have either the entire screen or your current window visually flash
   whenever the alert sound is played.</p>
 <p class="p">This can also be useful if you’re in an environment where you need your
-  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="Choose or disable the alert sound">Choose or disable the alert sound</a></span>
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html.ro" title="Choose or disable the alert sound">Choose or disable the alert sound</a></span>
   to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Acces universal</span>.</p></li>
+<li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Acces universal</span>.</p></li>
 <li class="steps"><p class="p">Apăsați pe <span class="gui">Acces universal</span> pentru a deschide panoul.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Visual Alerts</span> in the <span class="gui">Hearing</span> section.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Visual Alerts</span> to <span class="gui">ON</span>.</p></li>
@@ -65,7 +65,7 @@
       title to flash.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Sfat"><div class="inner"><div class="region"><div class="contents"><p class="p">You can quickly turn visual alerts on and off by clicking the
-    <span class="link"><a href="a11y-icon.html" title="Găsirea meniului access universal">accessibility icon</a></span> on the top bar and
+    <span class="link"><a href="a11y-icon.html.ro" title="Găsirea meniului access universal">accessibility icon</a></span> on the top bar and
     selecting <span class="gui">Visual Alerts</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -73,12 +73,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#sound" title="Afecțiuni de auz">Afecțiuni de auz</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.ro#sound" title="Afecțiuni de auz">Afecțiuni de auz</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vezi și</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-alert.html" title="Choose or disable the alert sound">Choose or disable the alert sound</a><span class="desc"> — Choose the sound to play for messages, set the alert volume, or
+<a href="sound-alert.html.ro" title="Choose or disable the alert sound">Choose or disable the alert sound</a><span class="desc"> — Choose the sound to play for messages, set the alert volume, or
     disable alert sounds.</span>
 </li></ul></div>
 </div></div>

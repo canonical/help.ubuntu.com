@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="power.html" title="Barošana un baterija">Barošana un baterija</a> › <a class="trail" href="power.html#saving" title="Enerģijas taupīšanas iestatījumi">Enerģijas taupīšanas iestatījumi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="power.html.lv" title="Barošana un baterija">Barošana un baterija</a> › <a class="trail" href="power.html.lv#saving" title="Enerģijas taupīšanas iestatījumi">Enerģijas taupīšanas iestatījumi</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="power.html" title="Barošana un baterija">Barošana un baterija</a> › <a class="trail" href="power.html#saving" title="Enerģijas taupīšanas iestatījumi">Enerģijas taupīšanas iestatījumi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="power.html.lv" title="Barošana un baterija">Barošana un baterija</a> › <a class="trail" href="power.html.lv#saving" title="Enerģijas taupīšanas iestatījumi">Enerģijas taupīšanas iestatījumi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Jūs varat konfigurēt datoru tā, lai tas automātiski iesnaustu, kad tas ir dīkstāvē. Var norādīt dažādus dīkstāves intervālus, atkarībā no tā, vai tiek izmantot baterija.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Barošana</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Barošana</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Barošana</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Sadaļā <span class="gui">Iesnaudināšanas un izslēgšanas poga</span> spiediet <span class="gui">Automātiski iesnaudināt</span>.</p></li>
 <li class="steps">
@@ -69,14 +69,14 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#saving" title="Enerģijas taupīšanas iestatījumi">Enerģijas taupīšanas iestatījumi</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.lv#saving" title="Enerģijas taupīšanas iestatījumi">Enerģijas taupīšanas iestatījumi</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html#suspend" title="Iesnaudināt">Iesnaudināt</a></li>
+<li class="links "><a href="shell-exit.html.lv#suspend" title="Iesnaudināt">Iesnaudināt</a></li>
 <li class="links ">
-<a href="power-suspend.html" title="Kas notiek, iesnaudinot datoru?">Kas notiek, iesnaudinot datoru?</a><span class="desc"> — Iesnaudināšana liek datoram pāriet īpašā režīmā, kas patērē mazāk elektroenerģijas.</span>
+<a href="power-suspend.html.lv" title="Kas notiek, iesnaudinot datoru?">Kas notiek, iesnaudinot datoru?</a><span class="desc"> — Iesnaudināšana liek datoram pāriet īpašā režīmā, kas patērē mazāk elektroenerģijas.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="printing.html" title="Tisk">Tisk</a> › <a class="trail" href="printing.html#setup" title="Nastavení tiskárny">Nastavení</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="printing.html.cs" title="Tisk">Tisk</a> › <a class="trail" href="printing.html.cs#setup" title="Nastavení tiskárny">Nastavení</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Instalace místní tiskárny</span></h1></div>
@@ -58,26 +58,26 @@
 </ol></div></div></div>
 <p class="p">Jestliže se vaše tiskárna nenainstaluje automaticky, můžete ji přidat v nastaveních tiskáren:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Tiskárny</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Tiskárny</span>.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Tiskárny</span>.</p></li>
 <li class="steps"><p class="p">Klikněte na tlačítko <span class="gui">Odemknout</span> v pravém horním rohu a zadejte heslo.</p></li>
 <li class="steps"><p class="p">Klikněte na tlačítko <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">V okně, které se objeví, vyberte novou tiskárnu. Klikněte na <span class="gui">Přidat</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Pokud se vaše tiskárna v okně <span class="gui">Přidání nové tiskárny</span> neobjeví, budete možná muset nainstalovat tiskový ovladač.</p>
-<p class="p">Po nainstalování nové tiskárny možná budete chtít <span class="link"><a href="printing-setup-default-printer.html" title="Nastavení výchozí tiskárny">změnit svoji výchozí tiskárnu</a></span>.</p>
+<p class="p">Po nainstalování nové tiskárny možná budete chtít <span class="link"><a href="printing-setup-default-printer.html.cs" title="Nastavení výchozí tiskárny">změnit svoji výchozí tiskárnu</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Nastavení tiskárny">Nastavení tiskárny</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.cs#setup" title="Nastavení tiskárny">Nastavení tiskárny</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-setup-default-printer.html" title="Nastavení výchozí tiskárny">Nastavení výchozí tiskárny</a><span class="desc"> — Vyberte si tiskárnu, kterou používáte nejčastěji.</span>
+<a href="printing-setup-default-printer.html.cs" title="Nastavení výchozí tiskárny">Nastavení výchozí tiskárny</a><span class="desc"> — Vyberte si tiskárnu, kterou používáte nejčastěji.</span>
 </li></ul></div>
 </div></div>
 </div>

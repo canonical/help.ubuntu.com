@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html#backup" title="Mentés">Mentés</a> » <a class="trail" href="backup-why.html" title="Mentse fontos fájljait">Mentések</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.hu" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html.hu#backup" title="Mentés">Mentés</a> » <a class="trail" href="backup-why.html.hu" title="Mentse fontos fájljait">Mentések</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Biztonsági mentés</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">A fájlok és beállítások mentésének legegyszerűbb módja egy biztonsági mentő alkalmazásra bízni a folyamatot. Számos ilyen alkalmazás érhető el, például a <span class="app">Déjà Dup</span>.</p>
 <p class="p">A kiválasztott biztonsági mentő alkalmazás súgója végigvezeti a biztonsági mentés beállításainak megadásán, valamint az adatok visszaállításán.</p>
-<p class="p">Ennek alternatívája a <span class="link"><a href="files-copy.html" title="Fájlok és mappák másolása vagy mozgatása">fájlok átmásolása</a></span> biztonságos helyre, például külső merevlemezre, másik számítógépre a hálózaton, vagy USB-meghajtóra. <span class="link"><a href="backup-thinkabout.html" title="Hol találhatom a mentendő fájlokat?">Személyes fájljai</a></span> és beállításai általában a saját mappájában vannak, így azokat onnan másolhatja át.</p>
+<p class="p">Ennek alternatívája a <span class="link"><a href="files-copy.html.hu" title="Fájlok és mappák másolása vagy mozgatása">fájlok átmásolása</a></span> biztonságos helyre, például külső merevlemezre, másik számítógépre a hálózaton, vagy USB-meghajtóra. <span class="link"><a href="backup-thinkabout.html.hu" title="Hol találhatom a mentendő fájlokat?">Személyes fájljai</a></span> és beállításai általában a saját mappájában vannak, így azokat onnan másolhatja át.</p>
 <p class="p">Az elmenthető adatok mennyiségét csak a tárolóeszköz mérete korlátozza. Ha van elég hely az eszközön, a legjobb módszer a teljes saját mappájának mentése, a következő kivételekkel:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Máshová, például CD-re, DVD-re vagy más cserélhető adathordozóra már elmentett fájlok.</p></li>
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Mentse fontos fájljait">Mentse fontos fájljait</a><span class="desc"> — Miért, mit, hová és hogyan mentsen.</span>
+<a href="backup-why.html.hu" title="Mentse fontos fájljait">Mentse fontos fájljait</a><span class="desc"> — Miért, mit, hová és hogyan mentsen.</span>
 </li></ul></div>
 </div></div></div>
 </div>

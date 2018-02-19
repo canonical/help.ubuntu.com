@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="hardware-problems-graphics.html" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="hardware-problems-graphics.html.el" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Γιατί κάποια πράγματα φαίνονται ασαφή/θολά στην οθόνη μου;</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Αυτό μπορεί να συμβεί επειδή η ανάλυση οθόνης που έχετε ορίσει δεν είναι η σωστή για την οθόνη σας.</p>
-<p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Οθόνες</span>. Κάντε κλικ στο <span class="gui">Οθόνες</span> για να ανοίξετε τον πίνακα. Δοκιμάστε κάποιες από τις επιλογές <span class="gui">ανάλυσης</span> και ορίστε αυτήν που κάνει την οθόνη να φαίνεται καλύτερα.</p>
+<p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Οθόνες</span>. Κάντε κλικ στο <span class="gui">Οθόνες</span> για να ανοίξετε τον πίνακα. Δοκιμάστε κάποιες από τις επιλογές <span class="gui">ανάλυσης</span> και ορίστε αυτήν που κάνει την οθόνη να φαίνεται καλύτερα.</p>
 </div>
 <div id="multihead" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Όταν συνδέονται πολλές οθόνες</span></h2></div>
@@ -62,7 +62,7 @@
 <p class="p">Μπορείτε να το ορίσετε έτσι ώστε οι δύο οθόνες να έχουν διαφορετικές αναλύσεις, αλλά δεν θα μπορείτε να εμφανίσετε το ίδιο πράγμα και στις δύο οθόνες ταυτόχρονα. Στην πραγματικότητα, θα έχετε δύο ανεξάρτητες οθόνες συνδεμένες ταυτόχρονα. Μπορείτε να μετακινήσετε τα παράθυρα από τη μια οθόνη στην άλλη, αλλά δεν μπορείτε να εμφανίσετε το ίδιο παράθυρο και στις δύο οθόνες ταυτόχρονα.</p>
 <p class="p">Για να ρυθμίσετε τις οθόνες έτσι ώστε να έχουν τη δικιά τους ανάλυση:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Οθόνες</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Οθόνες</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Οθόνες</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Οι οθόνες πρέπει να καταχωρίζονται ως <span class="gui">Με κατοπτρισμό</span>. Επιλέξτε την κύρια οθόνη σας.</p></li>
 <li class="steps"><p class="p">Επιλέξτε <span class="gui">Πρωτεύον</span> στη λίστα με τις ρυθμίσεις οθόνης και έπειτα κάντε κλικ στο <span class="gui">Εφαρμογή</span> για να την αποθηκεύσετε.</p></li>
@@ -76,13 +76,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-problems-graphics.html" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a><span class="desc"> — Λύστε προβλήματα οθόνης και γραφικών.</span>
+<a href="hardware-problems-graphics.html.el" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a><span class="desc"> — Λύστε προβλήματα οθόνης και γραφικών.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-resolution.html" title="Αλλαγή της ανάλυσης ή της περιστροφής της οθόνης">Αλλαγή της ανάλυσης ή της περιστροφής της οθόνης</a><span class="desc"> — Αλλάξτε την ανάλυση της οθόνης και τον προσανατολισμό (περιστροφή).</span>
+<a href="look-resolution.html.el" title="Αλλαγή της ανάλυσης ή της περιστροφής της οθόνης">Αλλαγή της ανάλυσης ή της περιστροφής της οθόνης</a><span class="desc"> — Αλλάξτε την ανάλυση της οθόνης και τον προσανατολισμό (περιστροφή).</span>
 </li></ul></div>
 </div></div>
 </div>

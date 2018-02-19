@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="a11y.html" title="Acceso universal">Acceso universal</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="a11y.html.gl-GL" title="Acceso universal">Acceso universal</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Atopar o menú de acceso universal</span></h1></div>
@@ -58,7 +58,7 @@
 </div></div>
 <p class="p">Se non ve o menú de menú de acceso universal, pode activalo desde o panel de <span class="gui">Acceso Universal</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
 <li class="steps"><p class="p">Prema sobre <span class="gui">Acceso universal</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Troque <span class="gui">Mostrar sempre o menú de acceso universal</span> a <span class="gui">I</span>.</p></li>
 </ol></div></div></div>
@@ -69,7 +69,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y.html" title="Acceso universal">Acceso universal</a><span class="desc"> — <span class="link"><a href="a11y.html#vision" title="Deficiencias visuais">Visión</a></span>, <span class="link"><a href="a11y.html#sound" title="Deficiencias auditivas">audición</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiencias motoras">movilidade</a></span>, <span class="link"><a href="a11y-braille.html" title="Ler a pantalla en Braille">braile</a></span>, <span class="link"><a href="a11y-mag.html" title="Ampliar o área da pantalla">magnificador de pantalla</a></span>…</span>
+<a href="a11y.html.gl-GL" title="Acceso universal">Acceso universal</a><span class="desc"> — <span class="link"><a href="a11y.html.gl-GL#vision" title="Deficiencias visuais">Visión</a></span>, <span class="link"><a href="a11y.html.gl-GL#sound" title="Deficiencias auditivas">audición</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">movilidade</a></span>, <span class="link"><a href="a11y-braille.html.gl-GL" title="Ler a pantalla en Braille">braile</a></span>, <span class="link"><a href="a11y-mag.html.gl-GL" title="Ampliar o área da pantalla">magnificador de pantalla</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

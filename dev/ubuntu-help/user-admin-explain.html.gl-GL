@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="user-accounts.html" title="Contas de usuario">Usuarios</a> › <a class="trail" href="user-accounts.html#privileges" title="Privilexios de usuario">Privilexios</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="user-accounts.html.gl-GL" title="Contas de usuario">Usuarios</a> › <a class="trail" href="user-accounts.html.gl-GL#privileges" title="Privilexios de usuario">Privilexios</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Como funcionan os privilexios administrativos?</span></h1></div>
@@ -109,35 +109,35 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Privilexios de usuario">Privilexios de usuario</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.gl-GL#privileges" title="Privilexios de usuario">Privilexios de usuario</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-changepicture.html" title="Cambiar a súa foto da pantalla de inicio de sesión">Cambiar a súa foto da pantalla de inicio de sesión</a><span class="desc"> — Engada un pouco de personalización ao seu inicio de sesión e ás súas pantallas de usuario.</span>
+<a href="user-changepicture.html.gl-GL" title="Cambiar a súa foto da pantalla de inicio de sesión">Cambiar a súa foto da pantalla de inicio de sesión</a><span class="desc"> — Engada un pouco de personalización ao seu inicio de sesión e ás súas pantallas de usuario.</span>
 </li>
 <li class="links ">
-<a href="user-changepassword.html" title="Cambiar o seu contrasinal">Cambiar o seu contrasinal</a><span class="desc"> — Manteña a súa conta segura cambiando o seu contrasinal a miúdo desde as súas configuracións de conta.</span>
+<a href="user-changepassword.html.gl-GL" title="Cambiar o seu contrasinal">Cambiar o seu contrasinal</a><span class="desc"> — Manteña a súa conta segura cambiando o seu contrasinal a miúdo desde as súas configuracións de conta.</span>
 </li>
 <li class="links ">
-<a href="printing-name-location.html" title="Cambiar o tamaño e localización dunha impresora">Cambiar o tamaño e localización dunha impresora</a><span class="desc"> — Cambie o nome e localización dunha impresora nas preferencias de impresión.</span>
+<a href="printing-name-location.html.gl-GL" title="Cambiar o tamaño e localización dunha impresora">Cambiar o tamaño e localización dunha impresora</a><span class="desc"> — Cambie o nome e localización dunha impresora nas preferencias de impresión.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="Como funcionan os privilexios de administración?">Como funcionan os privilexios de administración?</a><span class="desc"> — You can allow users to make changes to the system by giving them
+<a href="user-admin-change.html.gl-GL" title="Como funcionan os privilexios de administración?">Como funcionan os privilexios de administración?</a><span class="desc"> — You can allow users to make changes to the system by giving them
     administrative privileges.</span>
 </li>
 <li class="links ">
-<a href="user-delete.html" title="Eliminar unha conta de usuario">Eliminar unha conta de usuario</a><span class="desc"> — Eliminar usuarios que xa non se usan no seu computador</span>
+<a href="user-delete.html.gl-GL" title="Eliminar unha conta de usuario">Eliminar unha conta de usuario</a><span class="desc"> — Eliminar usuarios que xa non se usan no seu computador</span>
 </li>
 <li class="links ">
-<a href="printing-setup-default-printer.html" title="Estabelecer a impresora predeterminada">Estabelecer a impresora predeterminada</a><span class="desc"> — Seleccionar a impresora que usa máis frecuentemente.</span>
+<a href="printing-setup-default-printer.html.gl-GL" title="Estabelecer a impresora predeterminada">Estabelecer a impresora predeterminada</a><span class="desc"> — Seleccionar a impresora que usa máis frecuentemente.</span>
 </li>
 <li class="links ">
-<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — Debe desmarcar a opción <span class="gui">Dispoñibel para todos os usuarios</span> nas configuracións de conexión da rede.</span>
+<a href="net-othersedit.html.gl-GL" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — Debe desmarcar a opción <span class="gui">Dispoñibel para todos os usuarios</span> nas configuracións de conexión da rede.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="Problemas causados polas restricións administrativas">Problemas causados polas restricións administrativas</a><span class="desc"> — You can do some things, like installing applications, only if you
+<a href="user-admin-problems.html.gl-GL" title="Problemas causados polas restricións administrativas">Problemas causados polas restricións administrativas</a><span class="desc"> — You can do some things, like installing applications, only if you
     have administrative privileges.</span>
 </li>
 </ul></div>

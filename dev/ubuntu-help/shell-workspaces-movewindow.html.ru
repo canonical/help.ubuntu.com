@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html#apps" title="Приложения и окна">Приложения и окна</a> » <a class="trail" href="shell-windows.html" title="Окна и рабочие места">Окна и рабочие места</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Работа с рабочими местами">Рабочие места</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ru" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html.ru#apps" title="Приложения и окна">Приложения и окна</a> » <a class="trail" href="shell-windows.html.ru" title="Окна и рабочие места">Окна и рабочие места</a> › <a class="trail" href="shell-windows.html.ru#working-with-workspaces" title="Работа с рабочими местами">Рабочие места</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Перемещение окна на другое рабочее место</span></h1></div>
@@ -53,9 +53,9 @@
 <div class="title title-steps"><h2><span class="title">С помощью мыши:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview.</p></li>
 <li class="steps"><p class="p">Нажмите на окно и тащите его к правой стороне экрана.</p></li>
-<li class="steps"><p class="p">The <span class="em"><a href="shell-workspaces.html" title="Что такое рабочее место, и для чего оно нужно?">workspace selector</a></span> will
+<li class="steps"><p class="p">The <span class="em"><a href="shell-workspaces.html.ru" title="Что такое рабочее место, и для чего оно нужно?">workspace selector</a></span> will
       appear.</p></li>
 <li class="steps"><p class="p">Перетащите окно на пустое рабочее место. Теперь на этом рабочем месте будет размещаться окно, которое вы перетащили, а внизу <span class="em">переключателя рабочих мест</span> появится новое пустое рабочее место.</p></li>
 </ol></div>
@@ -64,8 +64,8 @@
 <div class="title title-steps"><h2><span class="title">С помощью клавиатуры:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Select the window that you want to move (for example, using the
-      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
-      <span class="em"><a href="shell-windows-switching.html" title="Переключение между окнами">window switcher</a></span>).</p></li>
+      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.ru" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
+      <span class="em"><a href="shell-windows-switching.html.ru" title="Переключение между окнами">window switcher</a></span>).</p></li>
 <li class="steps">
 <p class="p">Нажмите <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> для перехода на рабочее место выше текущего в <span class="em">переключателе рабочих мест</span>.</p>
 <p class="p">Нажмите <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> для перехода на рабочее место ниже текущего в <span class="em">переключателе рабочих мест</span>.</p>
@@ -78,12 +78,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Работа с рабочими местами">Работа с рабочими местами</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.ru#working-with-workspaces" title="Работа с рабочими местами">Работа с рабочими местами</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-workspaces.html" title="Что такое рабочее место, и для чего оно нужно?">Что такое рабочее место, и для чего оно нужно?</a><span class="desc"> — Рабочие места — это способ группировки окон на рабочем столе.</span>
+<a href="shell-workspaces.html.ru" title="Что такое рабочее место, и для чего оно нужно?">Что такое рабочее место, и для чего оно нужно?</a><span class="desc"> — Рабочие места — это способ группировки окон на рабочем столе.</span>
 </li></ul></div>
 </div></div>
 </div>

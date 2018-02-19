@@ -43,31 +43,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A Bluetooth egy vezeték nélküli protokoll, amely lehetővé teszi számos különböző típusú eszköz csatlakoztatását a számítógépéhez. A Bluetooth gyakran használatos fejhallgatókhoz és beviteli eszközökhöz, például egerekhez és billentyűzetekhez. Bluetooth használatával <span class="link"><a href="bluetooth-send-file.html" title="Fájlok küldése Bluetooth-eszközre">fájlokat is továbbíthat eszközök között</a></span>, például a számítógépéről a mobiltelefonjára.</p>
+<p class="p">A Bluetooth egy vezeték nélküli protokoll, amely lehetővé teszi számos különböző típusú eszköz csatlakoztatását a számítógépéhez. A Bluetooth gyakran használatos fejhallgatókhoz és beviteli eszközökhöz, például egerekhez és billentyűzetekhez. Bluetooth használatával <span class="link"><a href="bluetooth-send-file.html.hu" title="Fájlok küldése Bluetooth-eszközre">fájlokat is továbbíthat eszközök között</a></span>, például a számítógépéről a mobiltelefonjára.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html" title="Bluetooth be- vagy kikapcsolása"><span class="title">Bluetooth be- vagy kikapcsolása</span><span class="linkdiv-dash"> — </span><span class="desc">A számítógép Bluetooth-eszközének engedélyezése vagy letiltása.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Bluetooth megosztás szabályozása"><span class="title">Bluetooth megosztás szabályozása</span><span class="linkdiv-dash"> — </span><span class="desc">Fájlok feltöltésének engedélyezése a számítógépre Bluetooth használatával.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html" title="Bluetooth-eszköz leválasztása"><span class="title">Bluetooth-eszköz leválasztása</span><span class="linkdiv-dash"> — </span><span class="desc">Eszköz eltávolítása a Bluetooth-eszközök listájáról.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html" title="Csatlakoztassa számítógépét Bluetooth eszközökhöz"><span class="title">Csatlakoztassa számítógépét Bluetooth eszközökhöz</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth eszközök párosítása.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html" title="Fájlok küldése Bluetooth-eszközre"><span class="title">Fájlok küldése Bluetooth-eszközre</span><span class="linkdiv-dash"> — </span><span class="desc">Fájlok megosztása Bluetooth-eszközökre, például a telefonjára.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html" title="Mi az a Bluetooth-láthatóság?"><span class="title">Mi az a Bluetooth-láthatóság?</span><span class="linkdiv-dash"> — </span><span class="desc">Más eszközök felismerhetik-e a számítógépét.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html.hu" title="Bluetooth be- vagy kikapcsolása"><span class="title">Bluetooth be- vagy kikapcsolása</span><span class="linkdiv-dash"> — </span><span class="desc">A számítógép Bluetooth-eszközének engedélyezése vagy letiltása.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.hu" title="Bluetooth megosztás szabályozása"><span class="title">Bluetooth megosztás szabályozása</span><span class="linkdiv-dash"> — </span><span class="desc">Fájlok feltöltésének engedélyezése a számítógépre Bluetooth használatával.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html.hu" title="Bluetooth-eszköz leválasztása"><span class="title">Bluetooth-eszköz leválasztása</span><span class="linkdiv-dash"> — </span><span class="desc">Eszköz eltávolítása a Bluetooth-eszközök listájáról.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html.hu" title="Csatlakoztassa számítógépét Bluetooth eszközökhöz"><span class="title">Csatlakoztassa számítógépét Bluetooth eszközökhöz</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth eszközök párosítása.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.hu" title="Fájlok küldése Bluetooth-eszközre"><span class="title">Fájlok küldése Bluetooth-eszközre</span><span class="linkdiv-dash"> — </span><span class="desc">Fájlok megosztása Bluetooth-eszközökre, például a telefonjára.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html.hu" title="Mi az a Bluetooth-láthatóság?"><span class="title">Mi az a Bluetooth-láthatóság?</span><span class="linkdiv-dash"> — </span><span class="desc">Más eszközök felismerhetik-e a számítógépét.</span></a></div>
 </div></div></div>
 </div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Problémák</span></h2></div>
 <div class="region">
-<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html" title="Nem tudom csatlakoztatni a Bluetooth-eszközöm"><span class="title">Nem tudom csatlakoztatni a Bluetooth-eszközöm</span><span class="linkdiv-dash"> — </span><span class="desc">Az adapter ki van kapcsolva, esetleg nincs illesztőprogramja, vagy a Bluetooth ki van kapcsolva/blokkolva van.</span></a></div></div></div></div></div>
+<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html.hu" title="Nem tudom csatlakoztatni a Bluetooth-eszközöm"><span class="title">Nem tudom csatlakoztatni a Bluetooth-eszközöm</span><span class="linkdiv-dash"> — </span><span class="desc">Az adapter ki van kapcsolva, esetleg nincs illesztőprogramja, vagy a Bluetooth ki van kapcsolva/blokkolva van.</span></a></div></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">További információk</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Gyakori problémák">Hardverproblémák</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.hu#problems" title="Gyakori problémák">Hardverproblémák</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -77,7 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardver és illesztőprogramok">Hardver és illesztőprogramok</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Gyakori problémák">Hardverproblémák</a></span>, <span class="link"><a href="printing.html" title="Nyomtatás">nyomtatók</a></span>, <span class="link"><a href="power.html" title="Energiagazdálkodás és akkumulátorok">energiagazdálkodás</a></span>, <span class="link"><a href="color.html" title="Színkezelés">színkezelés</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Lemezek és tárolók">lemezek</a></span>…</span>
+<a href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver és illesztőprogramok</a><span class="desc"> — <span class="link"><a href="hardware.html.hu#problems" title="Gyakori problémák">Hardverproblémák</a></span>, <span class="link"><a href="printing.html.hu" title="Nyomtatás">nyomtatók</a></span>, <span class="link"><a href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">energiagazdálkodás</a></span>, <span class="link"><a href="color.html.hu" title="Színkezelés">színkezelés</a></span>, <span class="link"><a href="bluetooth.html.hu" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.hu" title="Lemezek és tárolók">lemezek</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

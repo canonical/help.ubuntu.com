@@ -43,22 +43,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bläddra bland filer och mappar</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Använd filhanteraren <span class="app">Filer</span> för att bläddra bland och organisera filerna på din dator. Du kan också använda den för att hantera filer på lagringsenheter (som externa hårddiskar), på <span class="link"><a href="nautilus-connect.html" title="Bläddra genom filer på en server eller nätverksutdelning">filservrar</a></span> och på nätverksdiskar.</p>
-<p class="p">För att starta filhanteraren, öppna <span class="app">Filer</span> i översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>. Du kan också söka efter filer och mappar via översiktsvyn på samma sätt som du kan <span class="link"><a href="shell-apps-open.html" title="Starta program">söka efter program</a></span>.</p>
+<p class="p">Använd filhanteraren <span class="app">Filer</span> för att bläddra bland och organisera filerna på din dator. Du kan också använda den för att hantera filer på lagringsenheter (som externa hårddiskar), på <span class="link"><a href="nautilus-connect.html.sv" title="Bläddra genom filer på en server eller nätverksutdelning">filservrar</a></span> och på nätverksdiskar.</p>
+<p class="p">För att starta filhanteraren, öppna <span class="app">Filer</span> i översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>. Du kan också söka efter filer och mappar via översiktsvyn på samma sätt som du kan <span class="link"><a href="shell-apps-open.html.sv" title="Starta program">söka efter program</a></span>.</p>
 </div>
 <div id="files-view-folder-contents" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Utforska innehåller i mappar</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">I filhanteraren, dubbelklicka på vilken mapp som helst för att se dess innehåll och dubbelklicka eller <span class="link"><a href="mouse-middleclick.html" title="Mittenklick">mittenklicka</a></span> på vilken fil som helst för att öppna den med standardprogrammet för den filen. Mittenklicka på en mapp för att öppna den i en ny flik. Du kan också högerklicka på en mapp för att öppna den i en ny flik eller ett nytt fönster.</p>
-<p class="p">När du letar genom filerna i en mapp kan du snabbt <span class="link"><a href="files-preview.html" title="Förhandsgranska filer och mappar">förhandsgranska varje fil</a></span> genom att trycka på mellanslagstangenten för att säkerställa att du har fått tag i rätt fil innan du öppnar, kopierar eller tar bort den.</p>
+<p class="p">I filhanteraren, dubbelklicka på vilken mapp som helst för att se dess innehåll och dubbelklicka eller <span class="link"><a href="mouse-middleclick.html.sv" title="Mittenklick">mittenklicka</a></span> på vilken fil som helst för att öppna den med standardprogrammet för den filen. Mittenklicka på en mapp för att öppna den i en ny flik. Du kan också högerklicka på en mapp för att öppna den i en ny flik eller ett nytt fönster.</p>
+<p class="p">När du letar genom filerna i en mapp kan du snabbt <span class="link"><a href="files-preview.html.sv" title="Förhandsgranska filer och mappar">förhandsgranska varje fil</a></span> genom att trycka på mellanslagstangenten för att säkerställa att du har fått tag i rätt fil innan du öppnar, kopierar eller tar bort den.</p>
 <p class="p"><span class="em">Sökvägsraden</span>, ovanför listan av filer och mappar, visar dig vilken mapp du tittar i, inklusive den aktuella mappens föräldramappar. Klicka på en föräldramapp i sökvägsraden för att gå till den mappen. Högerklicka på vilken mapp som helst i sökvägsraden för att öppna den i en ny flik eller ett nytt fönster, eller se dess egenskaper.</p>
-<p class="p">Om du vill snabbt <span class="link"><a href="files-search.html" title="Sök efter filer">söka efter en fil</a></span>, i eller under mappen du tittar i, börja skriv dess namn. En <span class="em">sökrad</span> kommer att visas i toppen av fönstret och den första filen som matchar din sökning kommer att markeras. Tryck på <span class="key"><kbd>Esc</kbd></span> för att avbryta sökningen.</p>
+<p class="p">Om du vill snabbt <span class="link"><a href="files-search.html.sv" title="Sök efter filer">söka efter en fil</a></span>, i eller under mappen du tittar i, börja skriv dess namn. En <span class="em">sökrad</span> kommer att visas i toppen av fönstret och den första filen som matchar din sökning kommer att markeras. Tryck på <span class="key"><kbd>Esc</kbd></span> för att avbryta sökningen.</p>
 <p class="p">Du kan snabbt nå vanliga platser från <span class="em">sidopanelen</span>. Om du inte ser sidopanelen, klicka på <span class="gui">Filer</span> i verktygsfältet och välj <span class="gui">Visa sidopanel</span>. Du kan lägga till bokmärken för mappar som du använder ofta som då kommer att visas i sidopanelen. Dra en mapp till sidopanelen och släpp den på <span class="gui">Nytt bokmärke</span>, som visas dynamiskt eller klicka på fönstermenyn och välj sedan <span class="gui">Bokmärk denna plats</span>.</p>
 </div></div>
 </div></div>
@@ -67,12 +67,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sv#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-copy.html" title="Kopiera eller flytta filer och mappar">Kopiera eller flytta filer och mappar</a><span class="desc"> — Kopiera eller flytta objekt till en ny mapp.</span>
+<a href="files-copy.html.sv" title="Kopiera eller flytta filer och mappar">Kopiera eller flytta filer och mappar</a><span class="desc"> — Kopiera eller flytta objekt till en ny mapp.</span>
 </li></ul></div>
 </div></div>
 </div>

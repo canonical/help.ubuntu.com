@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html.fr" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html.fr#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="privacy.html" title="Paramètres de confidentialité">Paramètres de confidentialité</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="privacy.html.fr" title="Paramètres de confidentialité">Paramètres de confidentialité</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Turn off file history tracking</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Privacy</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Confidentialité</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Sélectionnez <span class="gui">Utilisation et historique</span>.</p></li>
@@ -75,7 +75,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Restrict the amount of time your file history is tracked</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Privacy</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Confidentialité</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Sélectionnez <span class="gui">Utilisation et historique</span>.</p></li>
@@ -90,9 +90,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a></li>
+<li class="links "><a href="files.html.fr#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a></li>
 <li class="links ">
-<a href="privacy.html" title="Paramètres de confidentialité">Paramètres de confidentialité</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Verrouillage automatique de l'écran">Verrouillage de l'écran</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Arrêt ou limitation du suivi de l'historique des fichiers">Historique d'utilisation</a></span>, <span class="link"><a href="privacy-purge.html" title="Purge de la corbeille et des fichiers temporaires">Vider la corbeille et les fichiers temporaires</a></span>…</span>
+<a href="privacy.html.fr" title="Paramètres de confidentialité">Paramètres de confidentialité</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.fr" title="Verrouillage automatique de l'écran">Verrouillage de l'écran</a></span>, <span class="link"><a href="privacy-history-recent-off.html.fr" title="Arrêt ou limitation du suivi de l'historique des fichiers">Historique d'utilisation</a></span>, <span class="link"><a href="privacy-purge.html.fr" title="Purge de la corbeille et des fichiers temporaires">Vider la corbeille et les fichiers temporaires</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

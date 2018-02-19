@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="File, cartelle e ricerche">File</a> › <a class="trail" href="files.html#common-file-tasks" title="Attività comuni">Attività comuni</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.it" title="File, cartelle e ricerche">File</a> › <a class="trail" href="files.html.it#common-file-tasks" title="Attività comuni">Attività comuni</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Copiare o spostare file e cartelle</span></h1></div>
@@ -109,7 +109,7 @@
 <div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">You cannot copy or move a file into a folder that is <span class="em">read-only</span>.
   Some folders are read-only to prevent you from making changes to their
   contents. You can change things from being read-only by
-  <span class="link"><a href="nautilus-file-properties-permissions.html" title="Impostare i permessi sui file">changing file permissions
+  <span class="link"><a href="nautilus-file-properties-permissions.html.it" title="Impostare i permessi sui file">changing file permissions
   </a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -117,12 +117,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Attività comuni">Attività comuni</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.it#common-file-tasks" title="Attività comuni">Attività comuni</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-browse.html" title="Esplorare file e cartelle">Esplorare file e cartelle</a><span class="desc"> — Gestire e organizzare file con il gestore di file.</span>
+<a href="files-browse.html.it" title="Esplorare file e cartelle">Esplorare file e cartelle</a><span class="desc"> — Gestire e organizzare file con il gestore di file.</span>
 </li></ul></div>
 </div></div>
 </div>

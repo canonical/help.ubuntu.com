@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » <a class="trail" href="shell-windows.html" title="Παράθυρα και χώροι εργασίας">Παράθυρα και χώροι εργασίας</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Δουλεύοντας με χώρους εργασίας">Χώροι εργασίας</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.el" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html.el#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » <a class="trail" href="shell-windows.html.el" title="Παράθυρα και χώροι εργασίας">Παράθυρα και χώροι εργασίας</a> › <a class="trail" href="shell-windows.html.el#working-with-workspaces" title="Δουλεύοντας με χώρους εργασίας">Χώροι εργασίας</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Τι είναι ένας χώρος εργασίας και πώς θα με βοηθήσει;</span></h1></div>
@@ -54,7 +54,7 @@
 <p class="p">Οι χώροι εργασίας μπορούν να χρησιμοποιηθούν για την οργάνωση της δουλειάς σας. Για παράδειγμα, μπορείτε να έχετε όλα τα παράθυρα επικοινωνίας, όπως αλληλογραφία και το πρόγραμμά συνομιλίας σας, στην επιφάνεια εργασίας και την εργασία που κάνετε σε έναν διαφορετικό χώρο εργασίας. Ο διαχειριστής μουσικής σας μπορεί να είναι ένας τρίτος χώρος εργασίας.</p>
 <p class="p">Χρησιμοποιώντας χώρους εργασίας:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Στην επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>, μετακινήστε τον δρομέα σας στην δεξιότερη πλευρά της οθόνης.</p></li>
+<li class="list"><p class="p">Στην επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>, μετακινήστε τον δρομέα σας στην δεξιότερη πλευρά της οθόνης.</p></li>
 <li class="list"><p class="p">Θα εμφανιστεί ένας κάθετος πίνακας με τους χώρους εργασίας που χρησιμοποιούνται, μαζί με έναν κενό. Ο τελευταίος είναι ο επιλογέας χώρου εργασίας.</p></li>
 <li class="list"><p class="p">Για να προσθέσετε ένα χώρο εργασίας, σύρετε και αποθέστε ένα παράθυρο σε έναν άδειο χώρο εργασίας στον επιλογέα. Πλέον αυτός ο χώρος εργασίας περιέχει το παράθυρο που αποθέσατε, ενώ ένας νέος έχει εμφανιστεί κάτω από αυτόν.</p></li>
 <li class="list"><p class="p">Για να αφαιρέσετε έναν χώρο εργασίας, απλά κλείστε όλα τα παράθυρά του ή μετακινήστε τα σε άλλους χώρους εργασίας.</p></li>
@@ -66,16 +66,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Δουλεύοντας με χώρους εργασίας">Δουλεύοντας με χώρους εργασίας</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.el#working-with-workspaces" title="Δουλεύοντας με χώρους εργασίας">Δουλεύοντας με χώρους εργασίας</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-workspaces-switch.html" title="Εναλλαγή μεταξύ των χώρων εργασίας">Εναλλαγή μεταξύ των χώρων εργασίας</a><span class="desc"> — Χρησιμοποιήστε τον επιλογέα χώρου εργασίας.</span>
+<a href="shell-workspaces-switch.html.el" title="Εναλλαγή μεταξύ των χώρων εργασίας">Εναλλαγή μεταξύ των χώρων εργασίας</a><span class="desc"> — Χρησιμοποιήστε τον επιλογέα χώρου εργασίας.</span>
 </li>
 <li class="links ">
-<a href="shell-workspaces-movewindow.html" title="Μετακίνηση παραθύρου σε διαφορετικό χώρο εργασίας">Μετακίνηση παραθύρου σε διαφορετικό χώρο εργασίας</a><span class="desc"> — Μεταβείτε στην επισκόπηση <span class="gui">Δραστηριότητες</span> και σύρετε το παράθυρο σε έναν διαφορετικό χώρο εργασίας.</span>
+<a href="shell-workspaces-movewindow.html.el" title="Μετακίνηση παραθύρου σε διαφορετικό χώρο εργασίας">Μετακίνηση παραθύρου σε διαφορετικό χώρο εργασίας</a><span class="desc"> — Μεταβείτε στην επισκόπηση <span class="gui">Δραστηριότητες</span> και σύρετε το παράθυρο σε έναν διαφορετικό χώρο εργασίας.</span>
 </li>
 </ul></div>
 </div></div>

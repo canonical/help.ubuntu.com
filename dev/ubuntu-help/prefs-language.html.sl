@@ -43,15 +43,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Področje in jezik</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="session-language.html" title="Izbira jezika, ki ga uporabljate"><span class="title">Izbira jezika, ki ga uporabljate</span><span class="linkdiv-dash"> — </span><span class="desc">Preklopite na drug jezik za uporabniški vmesnik in besedilo pomoči.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-formats.html" title="Sprememba datuma in oblik merjenja"><span class="title">Sprememba datuma in oblik merjenja</span><span class="linkdiv-dash"> — </span><span class="desc">Izberite regijo, ki naj se uporablja za datum in čas, števila, valuto in merske enote.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk"><span class="title">Uporaba nadomestnih razporeditev tipk</span><span class="linkdiv-dash"> — </span><span class="desc">Dodajte razporeditev tipk in preklapljajte med njimi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-language.html.sl" title="Izbira jezika, ki ga uporabljate"><span class="title">Izbira jezika, ki ga uporabljate</span><span class="linkdiv-dash"> — </span><span class="desc">Preklopite na drug jezik za uporabniški vmesnik in besedilo pomoči.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-formats.html.sl" title="Sprememba datuma in oblik merjenja"><span class="title">Sprememba datuma in oblik merjenja</span><span class="linkdiv-dash"> — </span><span class="desc">Izberite regijo, ki naj se uporablja za datum in čas, števila, valuto in merske enote.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk"><span class="title">Uporaba nadomestnih razporeditev tipk</span><span class="linkdiv-dash"> — </span><span class="desc">Dodajte razporeditev tipk in preklapljajte med njimi.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -59,13 +59,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Uporabniške in sistemske nastavitve">Uporabniške in sistemske nastavitve</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tipkovnica">Tipkovnica</a></span>, <span class="link"><a href="mouse.html" title="Miška">miška</a></span>, <span class="link"><a href="prefs-display.html" title="Zaslon">zaslon</a></span>, <span class="link"><a href="prefs-language.html" title="Področje in jezik">jeziki</a></span>, <span class="link"><a href="user-accounts.html" title="Uporabniški računi">uporabniški računi</a></span> …</span>
+<a href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Uporabniške in sistemske nastavitve</a><span class="desc"> — <span class="link"><a href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a></span>, <span class="link"><a href="mouse.html.sl" title="Miška">miška</a></span>, <span class="link"><a href="prefs-display.html.sl" title="Zaslon">zaslon</a></span>, <span class="link"><a href="prefs-language.html.sl" title="Področje in jezik">jeziki</a></span>, <span class="link"><a href="user-accounts.html.sl" title="Uporabniški računi">uporabniški računi</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language-install.html" title="Namestite jezike">Namestite jezike</a><span class="desc"> — Namestite več prevodov in povezane podporne pakete jezika.</span>
+<a href="prefs-language-install.html.sl" title="Namestite jezike">Namestite jezike</a><span class="desc"> — Namestite več prevodov in povezane podporne pakete jezika.</span>
 </li></ul></div>
 </div></div>
 </div>

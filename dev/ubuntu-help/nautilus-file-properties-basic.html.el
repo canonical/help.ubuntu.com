@@ -43,27 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ιδιότητες αρχείου</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Για να προβάλετε πληροφορίες για ένα αρχείο ή φάκελο, κάντε δεξί κλικ σε αυτό και επιλέξτε <span class="gui">Ιδιότητες</span>. Μπορείτε επίσης να επιλέξετε το αρχείο και να πατήσετε <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Enter</kbd></span></span>.</p>
-<p class="p">Το παράθυρο ιδιοτήτων αρχείου σας εμφανίζει πληροφορίες όπως τον τύπο του αρχείου, το μέγεθος του αρχείου και πότε τροποποιήθηκε τελευταία. Εάν χρειάζεστε αυτήν την πληροφορία συχνά, μπορείτε να την εμφανίσετε στο <span class="link"><a href="nautilus-list.html" title="Προτιμήσεις στηλών λίστας αρχείων">στήλες προβολής λίστας</a></span> ή <span class="link"><a href="nautilus-display.html#icon-captions" title="Λεζάντες εικονιδίων">τίτλοι εικονιδίου</a></span>.</p>
-<p class="p">Οι πληροφορίες στην καρτέλα <span class="gui">Βασικά</span> εξηγούνται παρακάτω. Υπάρχουν επίσης οι καρτέλες <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Ορισμός δικαιωμάτων αρχείου">Δικαιώματα</a></span></span> και <span class="gui"><span class="link"><a href="files-open.html#default" title="Αλλαγή της προεπιλεγμένης εφαρμογής">Άνοιγμα με</a></span></span>. Για συγκεκριμένους τύπους αρχείων, όπως εικόνες και βίντεο, θα υπάρχει μια πρόσθετη καρτέλα που παρέχει πληροφορίες όπως τις διαστάσεις, διάρκεια και κωδικοποιητή-αποκωδικοποιητή.</p>
+<p class="p">Το παράθυρο ιδιοτήτων αρχείου σας εμφανίζει πληροφορίες όπως τον τύπο του αρχείου, το μέγεθος του αρχείου και πότε τροποποιήθηκε τελευταία. Εάν χρειάζεστε αυτήν την πληροφορία συχνά, μπορείτε να την εμφανίσετε στο <span class="link"><a href="nautilus-list.html.el" title="Προτιμήσεις στηλών λίστας αρχείων">στήλες προβολής λίστας</a></span> ή <span class="link"><a href="nautilus-display.html.el#icon-captions" title="Λεζάντες εικονιδίων">τίτλοι εικονιδίου</a></span>.</p>
+<p class="p">Οι πληροφορίες στην καρτέλα <span class="gui">Βασικά</span> εξηγούνται παρακάτω. Υπάρχουν επίσης οι καρτέλες <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.el" title="Ορισμός δικαιωμάτων αρχείου">Δικαιώματα</a></span></span> και <span class="gui"><span class="link"><a href="files-open.html.el#default" title="Αλλαγή της προεπιλεγμένης εφαρμογής">Άνοιγμα με</a></span></span>. Για συγκεκριμένους τύπους αρχείων, όπως εικόνες και βίντεο, θα υπάρχει μια πρόσθετη καρτέλα που παρέχει πληροφορίες όπως τις διαστάσεις, διάρκεια και κωδικοποιητή-αποκωδικοποιητή.</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Βασικές ιδιότητες</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Όνομα</span></dt>
-<dd class="terms"><p class="p">Μπορείτε να μετονομάσετε το αρχείο αλλάζοντας αυτό το πεδίο. Μπορείτε επίσης να μετονομάσετε ένα αρχείο έξω από το παράθυρο ιδιοτήτων. Δείτε <span class="link"><a href="files-rename.html" title="Μετονομασία αρχείου ή φακέλου">Μετονομασία αρχείου ή φακέλου</a></span>.</p></dd>
+<dd class="terms"><p class="p">Μπορείτε να μετονομάσετε το αρχείο αλλάζοντας αυτό το πεδίο. Μπορείτε επίσης να μετονομάσετε ένα αρχείο έξω από το παράθυρο ιδιοτήτων. Δείτε <span class="link"><a href="files-rename.html.el" title="Μετονομασία αρχείου ή φακέλου">Μετονομασία αρχείου ή φακέλου</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Τύπος</span></dt>
 <dd class="terms">
 <p class="p">This helps you identify the type of the file, such as PDF document,
     OpenDocument Text, or JPEG image. The file type determines which
     applications can open the file, among other things. For example, you
-    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="Άνοιγμα αρχείων με άλλες εφαρμογές">Άνοιγμα αρχείων με άλλες εφαρμογές</a></span>
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html.el" title="Άνοιγμα αρχείων με άλλες εφαρμογές">Άνοιγμα αρχείων με άλλες εφαρμογές</a></span>
     for more information on this.</p>
 <p class="p">Ο <span class="em">τύπος MIME</span> του αρχείου προβάλλεται σε παρενθέσεις· ο τύπος MIME είναι ένας τυπικός τρόπος που οι υπολογιστές χρησιμοποιούν για να αναφερθούν σε αυτόν τον τύπο αρχείου.</p>
 </dd>
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.el#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="Ορισμός δικαιωμάτων αρχείου">Ορισμός δικαιωμάτων αρχείου</a><span class="desc"> — Ελέγξτε ποιος μπορεί να προβάλει και να επεξεργαστεί τα αρχεία και τους φακέλους σας.</span>
+<a href="nautilus-file-properties-permissions.html.el" title="Ορισμός δικαιωμάτων αρχείου">Ορισμός δικαιωμάτων αρχείου</a><span class="desc"> — Ελέγξτε ποιος μπορεί να προβάλει και να επεξεργαστεί τα αρχεία και τους φακέλους σας.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="keyboard.html" title="Клавиатура">Клавиатура</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="keyboard.html.ru" title="Клавиатура">Клавиатура</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="keyboard.html" title="Клавиатура">Клавиатура</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="keyboard.html.ru" title="Клавиатура">Клавиатура</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -64,15 +64,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
+<a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ru" title="Использование альтернативных раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ru" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html.ru#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Ограничения подвижности">Ограничения подвижности</a></li>
+<li class="links "><a href="a11y.html.ru#mobility" title="Ограничения подвижности">Ограничения подвижности</a></li>
 <li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Полезные комбинации клавиш">Полезные комбинации клавиш</a><span class="desc"> — Управление рабочим столом с помощью клавиатуры.</span>
+<a href="shell-keyboard-shortcuts.html.ru" title="Полезные комбинации клавиш">Полезные комбинации клавиш</a><span class="desc"> — Управление рабочим столом с помощью клавиатуры.</span>
 </li>
 </ul></div>
 </div></div>

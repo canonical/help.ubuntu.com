@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="power.html" title="Virransäästö ja akku">Virransäästö ja akku</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="power.html.fi" title="Virransäästö ja akku">Virransäästö ja akku</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="power.html" title="Virransäästö ja akku">Virransäästö ja akku</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="power.html.fi" title="Virransäästö ja akku">Virransäästö ja akku</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,17 +57,17 @@
 <div id="general" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Yleisiä neuvoja</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#suspend" title="Valmiustila">Aseta tietokone valmiustilaan</a></span> kun et käytä sitä. Koneen virrankulutus vähenee huomattavasti, mutta kone käynnistyy silti nopeasti.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#shutdown" title="Sammutus tai uudelleenkäynnistys">Turn off</a></span> the computer when you
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.fi#suspend" title="Valmiustila">Aseta tietokone valmiustilaan</a></span> kun et käytä sitä. Koneen virrankulutus vähenee huomattavasti, mutta kone käynnistyy silti nopeasti.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.fi#shutdown" title="Sammutus tai uudelleenkäynnistys">Turn off</a></span> the computer when you
     will not be using it for longer periods. Some people worry that turning off
     a computer regularly may cause it to wear out faster, but this is not the
     case.</p></li>
 <li class="list"><p class="p">Use the <span class="gui">Power</span> panel in <span class="app">Settings</span> to change your
     power settings. There are a number of options that will help to save power:
-    you can <span class="link"><a href="display-blank.html" title="Set screen blanking time">automatically blank the screen</a></span>
-    after a certain time, reduce the <span class="link"><a href="display-brightness.html" title="Aseta näytön kirkkaus">screen
+    you can <span class="link"><a href="display-blank.html.fi" title="Set screen blanking time">automatically blank the screen</a></span>
+    after a certain time, reduce the <span class="link"><a href="display-brightness.html.fi" title="Aseta näytön kirkkaus">screen
     brightness</a></span>, and have the computer
-    <span class="link"><a href="power-autosuspend.html" title="Set up automatic suspend">automatically suspend</a></span> if you have not
+    <span class="link"><a href="power-autosuspend.html.fi" title="Set up automatic suspend">automatically suspend</a></span> if you have not
     used it for a certain period of time.</p></li>
 <li class="list"><p class="p">Turn off any external devices (like printers and scanners) when you are
     not using them.</p></li>
@@ -77,7 +77,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Kannettavat, miniläppärit ja muut akkua käyttävät laitteet</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Reduce the <span class="link"><a href="display-brightness.html" title="Aseta näytön kirkkaus">screen
+<p class="p">Reduce the <span class="link"><a href="display-brightness.html.fi" title="Aseta näytön kirkkaus">screen
      brightness</a></span>. Powering the screen accounts for a significant fraction
      of a laptop power consumption.</p>
 <p class="p">Useimpien kannettavien näppäimistöissä on valoisuuden säätöä varten omat näppäimet (tai pikanäppäimet).</p>
@@ -105,33 +105,33 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Virransäästö ja akku">Virransäästö ja akku</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Tarkista akun tila">Akun tila</a></span>, <span class="link"><a href="power-suspend.html" title="Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?">valmiustila</a></span>, <span class="link"><a href="power-whydim.html" title="Miksi näyttö himmenee itsestään?">näytön himmentäminen</a></span>…</span>
+<a href="power.html.fi" title="Virransäästö ja akku">Virransäästö ja akku</a><span class="desc"> — <span class="link"><a href="power-status.html.fi" title="Tarkista akun tila">Akun tila</a></span>, <span class="link"><a href="power-suspend.html.fi" title="Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?">valmiustila</a></span>, <span class="link"><a href="power-whydim.html.fi" title="Miksi näyttö himmenee itsestään?">näytön himmentäminen</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="display-brightness.html" title="Aseta näytön kirkkaus">Aseta näytön kirkkaus</a><span class="desc"> — Change the screen brightness to make it more readable in bright
+<a href="display-brightness.html.fi" title="Aseta näytön kirkkaus">Aseta näytön kirkkaus</a><span class="desc"> — Change the screen brightness to make it more readable in bright
     light.</span>
 </li>
 <li class="links ">
-<a href="power-batterywindows.html" title="Miksi akkua tuntuu olevan vähemmän kuin Windowsissa tai Mac OS X:ssä?">Miksi akkua tuntuu olevan vähemmän kuin Windowsissa tai Mac OS X:ssä?</a><span class="desc"> — Valmistajan ohjelmistolisäykset ja akun käyttöajan arvioinnin erot voivat aiheuttaa tämän ongelman.</span>
+<a href="power-batterywindows.html.fi" title="Miksi akkua tuntuu olevan vähemmän kuin Windowsissa tai Mac OS X:ssä?">Miksi akkua tuntuu olevan vähemmän kuin Windowsissa tai Mac OS X:ssä?</a><span class="desc"> — Valmistajan ohjelmistolisäykset ja akun käyttöajan arvioinnin erot voivat aiheuttaa tämän ongelman.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="Miksi näyttö himmenee itsestään?">Miksi näyttö himmenee itsestään?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
+<a href="power-whydim.html.fi" title="Miksi näyttö himmenee itsestään?">Miksi näyttö himmenee itsestään?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?">Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?</a><span class="desc"> — Valmiustila asettaa tietokoneen virtaa säästävään tilaan.</span>
+<a href="power-suspend.html.fi" title="Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?">Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?</a><span class="desc"> — Valmiustila asettaa tietokoneen virtaa säästävään tilaan.</span>
 </li>
-<li class="links "><a href="shell-exit.html#shutdown" title="Sammutus tai uudelleenkäynnistys">Sammutus tai uudelleenkäynnistys</a></li>
+<li class="links "><a href="shell-exit.html.fi#shutdown" title="Sammutus tai uudelleenkäynnistys">Sammutus tai uudelleenkäynnistys</a></li>
 <li class="links ">
-<a href="power-wireless.html" title="Switch off unused wireless technologies">Switch off unused wireless technologies</a><span class="desc"> — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span>
+<a href="power-wireless.html.fi" title="Switch off unused wireless technologies">Switch off unused wireless technologies</a><span class="desc"> — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span>
 </li>
 <li class="links ">
-<a href="power-status.html" title="Tarkista akun tila">Tarkista akun tila</a><span class="desc"> — Display the status of the battery and connected devices.</span>
+<a href="power-status.html.fi" title="Tarkista akun tila">Tarkista akun tila</a><span class="desc"> — Display the status of the battery and connected devices.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Valmiustila">Valmiustila</a></li>
+<li class="links "><a href="shell-exit.html.fi#suspend" title="Valmiustila">Valmiustila</a></li>
 </ul></div>
 </div></div>
 </div>

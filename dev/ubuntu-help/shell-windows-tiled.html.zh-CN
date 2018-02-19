@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">桌面</a> › <a class="trail" href="shell-overview.html#apps" title="应用程序和窗口">应用程序和窗口</a> » <a class="trail" href="shell-windows.html" title="窗口和工作区">窗口和工作区</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="使用窗口">窗口</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.zh-CN" title="Your desktop">桌面</a> › <a class="trail" href="shell-overview.html.zh-CN#apps" title="应用程序和窗口">应用程序和窗口</a> » <a class="trail" href="shell-windows.html.zh-CN" title="窗口和工作区">窗口和工作区</a> › <a class="trail" href="shell-windows.html.zh-CN#working-with-windows" title="使用窗口">窗口</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">平铺窗口</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">您可以只在屏幕的左侧或右侧最大化窗口，允许您将两个窗口快速并排放置以快速切换。</p>
 <p class="p">To maximize a window along a side of the screen, grab the titlebar and
   drag it to the left or right side until half of the screen is highlighted.
-  Using the keyboard, hold down <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> and
+  Using the keyboard, hold down <span class="key"><a href="keyboard-key-super.html.zh-CN" title="What is the Super key?"><kbd>Super</kbd></a></span> and
   press the <span class="key"><kbd>Left</kbd></span> or <span class="key"><kbd>Right</kbd></span> key.</p>
 <p class="p">要恢复窗口原来大小，把它拖离屏幕边缘，或者再使用原来最大化的快捷键。</p>
 <div class="note note-tip" title="提示"><div class="inner"><div class="region"><div class="contents"><p class="p">按住 <span class="key"><kbd>Alt</kbd></span> 键并拖动窗口的任何地方可以移动窗口。</p></div></div></div></div>
@@ -62,12 +62,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="使用窗口">使用窗口</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.zh-CN#working-with-windows" title="使用窗口">使用窗口</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-maximize.html" title="最大化和取消最大化(恢复)窗口。">最大化和取消最大化(恢复)窗口。</a><span class="desc"> — 双击或拖动标题栏以最大化或恢复窗口。</span>
+<a href="shell-windows-maximize.html.zh-CN" title="最大化和取消最大化(恢复)窗口。">最大化和取消最大化(恢复)窗口。</a><span class="desc"> — 双击或拖动标题栏以最大化或恢复窗口。</span>
 </li></ul></div>
 </div></div>
 </div>

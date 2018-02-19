@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="keyboard.html" title="Tipkovnica">Tipkovnica</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="keyboard.html" title="Tipkovnica">Tipkovnica</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="a11y.html" title="Splošni dostop">Splošni dostop</a> › <a class="trail" href="a11y.html#mobility" title="Težave z gibanjem">Težave z gibanjem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="a11y.html.sl" title="Splošni dostop">Splošni dostop</a> › <a class="trail" href="a11y.html.sl#mobility" title="Težave z gibanjem">Težave z gibanjem</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">Vklopite <span class="em">odskočne tipke</span> za prezrtje pritiskov tipke, ki se hitro ponavljajo. Možnost je koristna za uporabnike, ki imajo težave s tresavico rok, zaradi katere je posamezna tipka pogosto pritisnjena večkrat zaporedno.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Typing Assist (AccessX)</span> in the <span class="gui">Typing</span>
@@ -67,7 +67,7 @@
 <div class="note note-tip" title="Namig"><div class="inner">
 <div class="title title-note"><h2><span class="title">Hiter vklop in izklop odskočnih tipk</span></h2></div>
 <div class="region"><div class="contents"><p class="p">You can turn bounce keys on and off by clicking the
-    <span class="link"><a href="a11y-icon.html" title="Najdite meni splošnega dostopa">accessibility icon</a></span> on the top bar and
+    <span class="link"><a href="a11y-icon.html.sl" title="Najdite meni splošnega dostopa">accessibility icon</a></span> on the top bar and
     selecting <span class="gui">Bounce Keys</span>. The accessibility icon is visible when
     one or more settings have been enabled from the <span class="gui">Universal Access</span>
     panel.</p></div></div>
@@ -79,9 +79,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Težave z gibanjem">Težave z gibanjem</a></li>
+<li class="links "><a href="a11y.html.sl#mobility" title="Težave z gibanjem">Težave z gibanjem</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Tipkovnica">Tipkovnica</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span>
+<a href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sl" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html.sl#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span>
 </li>
 </ul></div>
 </div></div></div>

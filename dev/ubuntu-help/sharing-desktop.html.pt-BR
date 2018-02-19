@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="prefs-sharing.html" title="Configurações de compartilhamento">Configurações de compartilhamento</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="prefs-sharing.html.pt-BR" title="Configurações de compartilhamento">Configurações de compartilhamento</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="sharing.html" title="Compartilhamento">Compartilhamento</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="sharing.html.pt-BR" title="Compartilhamento">Compartilhamento</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,11 +56,11 @@
 <p class="p">Você pode deixar que outros vejam e controlem sua área de trabalho a partir de outro computador, através de um aplicativo de visualização de área de trabalho. Configure <span class="gui">Compartilhamento de tela</span> para permitir que outras pessoas acessem seu ambiente e para configurar as preferências de segurança.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Você deve ter o pacote <span class="app">Vino</span> instalado para que <span class="gui">Compartilhamento de tela</span> esteja visível.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Compartilhamento</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Compartilhamento</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Compartilhamento</span> para abrir o painel.</p></li>
 <li class="steps">
 <p class="p">Se <span class="gui">Compartilhar</span> estiver em <span class="key"><kbd>○</kbd></span>, alterne-o para <span class="key"><kbd>❙</kbd></span>.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Se o texto embaixo de <span class="gui">Nome do computador</span> permite que o edite, você pode <span class="link"><a href="sharing-displayname.html" title="Definindo o nome exibido pelo seu computador">alterar</a></span> o nome que o seu computador exibe na rede.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Se o texto embaixo de <span class="gui">Nome do computador</span> permite que o edite, você pode <span class="link"><a href="sharing-displayname.html.pt-BR" title="Definindo o nome exibido pelo seu computador">alterar</a></span> o nome que o seu computador exibe na rede.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Selecione <span class="gui">Compartilhamento de tela</span>.</p></li>
 <li class="steps"><p class="p">Para deixar outros verem sua área de trabalho, alterne <span class="gui">Compartilhamento de tela</span> para <span class="key"><kbd>❙</kbd></span>. Isso significa que outras pessoas serão capazes de tentar se conectar a seu computador e ver o que está na sua tela.</p></li>
@@ -110,10 +110,10 @@
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Compartilhamento">Compartilhamento</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Compartilhando sua área de trabalho">Compartilhamento da área de trabalho</a></span>, <span class="link"><a href="files-share.html" title="Compartilhando arquivos por e-mail">Compartilhar arquivos por e-mail</a></span>, <span class="link"><a href="sharing-media.html" title="Compartilhando suas músicas, fotos e vídeos">Compartilhamento de multimídia</a></span>…</span>
+<a href="sharing.html.pt-BR" title="Compartilhamento">Compartilhamento</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.pt-BR" title="Compartilhando sua área de trabalho">Compartilhamento da área de trabalho</a></span>, <span class="link"><a href="files-share.html.pt-BR" title="Compartilhando arquivos por e-mail">Compartilhar arquivos por e-mail</a></span>, <span class="link"><a href="sharing-media.html.pt-BR" title="Compartilhando suas músicas, fotos e vídeos">Compartilhamento de multimídia</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html" title="Configurações de compartilhamento">Configurações de compartilhamento</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Controlando compartilhamento de arquivos por Bluetooth">Compartilhamento Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html" title="Compartilhando seus arquivos pessoais">Compartilhamento de arquivos pessoais</a></span>, <span class="link"><a href="sharing-desktop.html" title="Compartilhando sua área de trabalho">Compartilhamento de área de trabalho</a></span>, <span class="link"><a href="sharing-media.html" title="Compartilhando suas músicas, fotos e vídeos">Compartilhamento de mídia</a></span>…</span>
+<a href="prefs-sharing.html.pt-BR" title="Configurações de compartilhamento">Configurações de compartilhamento</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.pt-BR" title="Controlando compartilhamento de arquivos por Bluetooth">Compartilhamento Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.pt-BR" title="Compartilhando seus arquivos pessoais">Compartilhamento de arquivos pessoais</a></span>, <span class="link"><a href="sharing-desktop.html.pt-BR" title="Compartilhando sua área de trabalho">Compartilhamento de área de trabalho</a></span>, <span class="link"><a href="sharing-media.html.pt-BR" title="Compartilhando suas músicas, fotos e vídeos">Compartilhamento de mídia</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

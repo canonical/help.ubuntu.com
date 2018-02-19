@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="prefs-language.html" title="Wilayah &amp; Bahasa">Wilayah &amp; Bahasa</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="prefs-language.html.id" title="Wilayah &amp; Bahasa">Wilayah &amp; Bahasa</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mengubah format tanggal dan pengukurang</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">You can control the formats that are used for dates, times, numbers,
   currency, and measurement to match the local customs of your region.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Wilayah &amp; Bahasa</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Format</span>.</p></li>
@@ -78,13 +78,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Wilayah &amp; Bahasa">Wilayah &amp; Bahasa</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Ubah bahasa mana yang Anda pakai">Bahasa</a></span>, <span class="link"><a href="session-formats.html" title="Mengubah format tanggal dan pengukurang">wilayah dan formats</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">tata letak papan tik</a></span>…</span>
+<a href="prefs-language.html.id" title="Wilayah &amp; Bahasa">Wilayah &amp; Bahasa</a><span class="desc"> — <span class="link"><a href="session-language.html.id" title="Ubah bahasa mana yang Anda pakai">Bahasa</a></span>, <span class="link"><a href="session-formats.html.id" title="Mengubah format tanggal dan pengukurang">wilayah dan formats</a></span>, <span class="link"><a href="keyboard-layouts.html.id" title="Use alternative keyboard layouts">tata letak papan tik</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-language.html" title="Ubah bahasa mana yang Anda pakai">Ubah bahasa mana yang Anda pakai</a><span class="desc"> — Switch to a different language for user interface and help
+<a href="session-language.html.id" title="Ubah bahasa mana yang Anda pakai">Ubah bahasa mana yang Anda pakai</a><span class="desc"> — Switch to a different language for user interface and help
     text.</span>
 </li></ul></div>
 </div></div>

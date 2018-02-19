@@ -43,40 +43,40 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Jūsu darbvirsma</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Ievads GNOME vidē"><span class="title">Ievads GNOME vidē</span><span class="linkdiv-dash"> — </span><span class="desc">Vizuāls ievads — darbvirsma, augšējā josla un <span class="gui">Aktivitāšu</span> pārskats.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Izrakstīties, izslēgt datoru vai pārslēgt lietotājus"><span class="title">Izrakstīties, izslēgt datoru vai pārslēgt lietotājus</span><span class="linkdiv-dash"> — </span><span class="desc">Iemācieties, kā pamest savu lietotāja kontu, izrakstoties, mainot lietotājus u.t.t.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.lv" title="Ievads GNOME vidē"><span class="title">Ievads GNOME vidē</span><span class="linkdiv-dash"> — </span><span class="desc">Vizuāls ievads — darbvirsma, augšējā josla un <span class="gui">Aktivitāšu</span> pārskats.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.lv" title="Izrakstīties, izslēgt datoru vai pārslēgt lietotājus"><span class="title">Izrakstīties, izslēgt datoru vai pārslēgt lietotājus</span><span class="linkdiv-dash"> — </span><span class="desc">Iemācieties, kā pamest savu lietotāja kontu, izrakstoties, mainot lietotājus u.t.t.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Palaist lietotnes"><span class="title">Palaist lietotnes</span><span class="linkdiv-dash"> — </span><span class="desc">Palaidiet lietotnes no <span class="gui">Aktivitāšu</span> pārskata.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.lv" title="Palaist lietotnes"><span class="title">Palaist lietotnes</span><span class="linkdiv-dash"> — </span><span class="desc">Palaidiet lietotnes no <span class="gui">Aktivitāšu</span> pārskata.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Pielāgot savu darbvirsmu</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="Kalendāra tikšanās"><span class="title">Kalendāra tikšanās</span><span class="linkdiv-dash"> — </span><span class="desc">Attēlot jūsu tikšanās kalendāra laukā, kas ir ekrāna augšpusē.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html" title="Paziņojumi un ziņojumu paplāte"><span class="title">Paziņojumi un ziņojumu paplāte</span><span class="linkdiv-dash"> — </span><span class="desc">Ziņojumi nokrīt no ekrāna augšpuses, informējot jūs, kad notiek kādi noteikti notikumi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.lv" title="Kalendāra tikšanās"><span class="title">Kalendāra tikšanās</span><span class="linkdiv-dash"> — </span><span class="desc">Attēlot jūsu tikšanās kalendāra laukā, kas ir ekrāna augšpusē.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.lv" title="Paziņojumi un ziņojumu paplāte"><span class="title">Paziņojumi un ziņojumu paplāte</span><span class="linkdiv-dash"> — </span><span class="desc">Ziņojumi nokrīt no ekrāna augšpuses, informējot jūs, kad notiek kādi noteikti notikumi.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html" title="Pievienot savas iecienītās lietotnes panelim"><span class="title">Pievienot savas iecienītās lietotnes panelim</span><span class="linkdiv-dash"> — </span><span class="desc">Pievienot (vai izņemt) bieži lietoto programmu ikonas uz paneļa.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.lv" title="Pievienot savas iecienītās lietotnes panelim"><span class="title">Pievienot savas iecienītās lietotnes panelim</span><span class="linkdiv-dash"> — </span><span class="desc">Pievienot (vai izņemt) bieži lietoto programmu ikonas uz paneļa.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="apps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Lietotnes un logi</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html" title="Bloķēt ekrānu"><span class="title">Bloķēt ekrānu</span><span class="linkdiv-dash"> — </span><span class="desc">Dekoratīvais un funkcionālais bloķēšanas ekrāns sniedz noderīgu informāciju.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="status-icons.html" title="Ko nozīmē ikonas augšējā joslā?"><span class="title">Ko nozīmē ikonas augšējā joslā?</span><span class="linkdiv-dash"> — </span><span class="desc">Izskaidro augšējās joslas labajā pusē izvietoto ikonu nozīmi.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows.html" title="Logi un darbvietas"><span class="title">Logi un darbvietas</span><span class="linkdiv-dash"> — </span><span class="desc">Pārvietojiet un organizējiet savus logus.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.lv" title="Bloķēt ekrānu"><span class="title">Bloķēt ekrānu</span><span class="linkdiv-dash"> — </span><span class="desc">Dekoratīvais un funkcionālais bloķēšanas ekrāns sniedz noderīgu informāciju.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="status-icons.html.lv" title="Ko nozīmē ikonas augšējā joslā?"><span class="title">Ko nozīmē ikonas augšējā joslā?</span><span class="linkdiv-dash"> — </span><span class="desc">Izskaidro augšējās joslas labajā pusē izvietoto ikonu nozīmi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows.html.lv" title="Logi un darbvietas"><span class="title">Logi un darbvietas</span><span class="linkdiv-dash"> — </span><span class="desc">Pārvietojiet un organizējiet savus logus.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Noderīgas tastatūras saīsnes"><span class="title">Noderīgas tastatūras saīsnes</span><span class="linkdiv-dash"> — </span><span class="desc">Pārvietojieties pa darbvirsmu, izmantojot tastatūru.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Pārslēgties starp logiem"><span class="title">Pārslēgties starp logiem</span><span class="linkdiv-dash"> — </span><span class="desc">Spiediet <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="startup-applications.html" title="Startup Applications"><span class="title">Startup Applications</span><span class="linkdiv-dash"> — </span><span class="desc">Choose what applications to start when you log in.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.lv" title="Noderīgas tastatūras saīsnes"><span class="title">Noderīgas tastatūras saīsnes</span><span class="linkdiv-dash"> — </span><span class="desc">Pārvietojieties pa darbvirsmu, izmantojot tastatūru.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.lv" title="Pārslēgties starp logiem"><span class="title">Pārslēgties starp logiem</span><span class="linkdiv-dash"> — </span><span class="desc">Spiediet <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.lv" title="Startup Applications"><span class="title">Startup Applications</span><span class="linkdiv-dash"> — </span><span class="desc">Choose what applications to start when you log in.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu darbvirsmas rokasgrāmata">Ubuntu darbvirsmas rokasgrāmata</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata">Ubuntu darbvirsmas rokasgrāmata</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

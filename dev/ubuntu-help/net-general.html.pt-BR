@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Termos &amp; dicas de conectividade</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-proxy.html" title="Definindo configurações de proxy"><span class="title">Definindo configurações de proxy</span><span class="linkdiv-dash"> — </span><span class="desc">Um proxy é um intermediário para o tráfego web, podendo ser usado para acessar serviços web anonimamente, para ter mais controle ou segurança.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-findip.html" title="Descobrindo o seu endereço de IP"><span class="title">Descobrindo o seu endereço de IP</span><span class="linkdiv-dash"> — </span><span class="desc">Conhecer seu endereço IP pode ajudar você a resolver alguns problemas de rede.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html" title="Mantendo-se seguro na Internet"><span class="title">Mantendo-se seguro na Internet</span><span class="linkdiv-dash"> — </span><span class="desc">Dicas gerais para ter em mente ao usar a Internet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-proxy.html.pt-BR" title="Definindo configurações de proxy"><span class="title">Definindo configurações de proxy</span><span class="linkdiv-dash"> — </span><span class="desc">Um proxy é um intermediário para o tráfego web, podendo ser usado para acessar serviços web anonimamente, para ter mais controle ou segurança.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-findip.html.pt-BR" title="Descobrindo o seu endereço de IP"><span class="title">Descobrindo o seu endereço de IP</span><span class="linkdiv-dash"> — </span><span class="desc">Conhecer seu endereço IP pode ajudar você a resolver alguns problemas de rede.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html.pt-BR" title="Mantendo-se seguro na Internet"><span class="title">Mantendo-se seguro na Internet</span><span class="linkdiv-dash"> — </span><span class="desc">Dicas gerais para ter em mente ao usar a Internet.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html" title="O que é um endereço IP?"><span class="title">O que é um endereço IP?</span><span class="linkdiv-dash"> — </span><span class="desc">Um endereços IP é como um número de telefone para seu computador.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html" title="O que é um endereço MAC?"><span class="title">O que é um endereço MAC?</span><span class="linkdiv-dash"> — </span><span class="desc">O identificador único atribuído a uma hardware de rede.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html.pt-BR" title="O que é um endereço IP?"><span class="title">O que é um endereço IP?</span><span class="linkdiv-dash"> — </span><span class="desc">Um endereços IP é como um número de telefone para seu computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html.pt-BR" title="O que é um endereço MAC?"><span class="title">O que é um endereço MAC?</span><span class="linkdiv-dash"> — </span><span class="desc">O identificador único atribuído a uma hardware de rede.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -65,13 +65,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Rede sem fio">Rede sem fio</a></span>, <span class="link"><a href="net-wired.html" title="Rede com fio">rede cabeada</a></span>, <span class="link"><a href="net-problem.html" title="Problemas de rede">problemas de conexão</a></span>, <span class="link"><a href="net-browser.html" title="Navegadores web">navegação web</a></span>, <span class="link"><a href="net-email.html" title="E-mail &amp; software de e-mail">contas de e-mail</a></span>…</span>
+<a href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.pt-BR" title="Rede sem fio">Rede sem fio</a></span>, <span class="link"><a href="net-wired.html.pt-BR" title="Rede com fio">rede cabeada</a></span>, <span class="link"><a href="net-problem.html.pt-BR" title="Problemas de rede">problemas de conexão</a></span>, <span class="link"><a href="net-browser.html.pt-BR" title="Navegadores web">navegação web</a></span>, <span class="link"><a href="net-email.html.pt-BR" title="E-mail &amp; software de e-mail">contas de e-mail</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Rede sem fio">Rede sem fio</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Conectando a uma rede sem fio">Conectar-se a redes sem fio</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Conectando a um rede sem fio oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Por que minha conexão sem fio fica desconectando?">desconectando</a></span>…</span>
+<a href="net-wireless.html.pt-BR" title="Rede sem fio">Rede sem fio</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pt-BR" title="Conectando a uma rede sem fio">Conectar-se a redes sem fio</a></span>, <span class="link"><a href="net-wireless-hidden.html.pt-BR" title="Conectando a um rede sem fio oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pt-BR" title="Por que minha conexão sem fio fica desconectando?">desconectando</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,34 +56,34 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Področje in jezik</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk">Uporaba nadomestnih razporeditev tipk</a><span class="desc"> — Dodajte razporeditev tipk in preklapljajte med njimi.</span>
+<a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">Uporaba nadomestnih razporeditev tipk</a><span class="desc"> — Dodajte razporeditev tipk in preklapljajte med njimi.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Splošni dostop</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-nav.html" title="Krmarjenje s tipkami">Krmarjenje s tipkami</a><span class="desc"> — Uporaba programov in namizja brez miške.</span>
+<a href="keyboard-nav.html.sl" title="Krmarjenje s tipkami">Krmarjenje s tipkami</a><span class="desc"> — Uporaba programov in namizja brez miške.</span>
 </li>
 <li class="links ">
-<a href="keyboard-osk.html" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
+<a href="keyboard-osk.html.sl" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
     mouse or a touchscreen.</span>
 </li>
 <li class="links ">
-<a href="a11y-stickykeys.html" title="Vklop lepljivih tipk">Vklop lepljivih tipk</a><span class="desc"> — Vtipkajte tipkovne bližnjice po eno tipko na enkrat namesto pritiska vseh tipk hkrati.</span>
+<a href="a11y-stickykeys.html.sl" title="Vklop lepljivih tipk">Vklop lepljivih tipk</a><span class="desc"> — Vtipkajte tipkovne bližnjice po eno tipko na enkrat namesto pritiska vseh tipk hkrati.</span>
 </li>
 <li class="links ">
-<a href="a11y-bouncekeys.html" title="Vklop odskočnih tipk">Vklop odskočnih tipk</a><span class="desc"> — Prezri hitro ponavljajoče se pritiske na isto tipko.</span>
+<a href="a11y-bouncekeys.html.sl" title="Vklop odskočnih tipk">Vklop odskočnih tipk</a><span class="desc"> — Prezri hitro ponavljajoče se pritiske na isto tipko.</span>
 </li>
 <li class="links ">
-<a href="a11y-slowkeys.html" title="Vklop počasnih tipk">Vklop počasnih tipk</a><span class="desc"> — Zakasnitev med pritiskom tipke in njeno pojavitvijo na zaslonu.</span>
+<a href="a11y-slowkeys.html.sl" title="Vklop počasnih tipk">Vklop počasnih tipk</a><span class="desc"> — Zakasnitev med pritiskom tipke in njeno pojavitvijo na zaslonu.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-menu.html" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
+<a href="keyboard-key-menu.html.sl" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
     rather than with a right-click.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html" title="What is the Super key?">What is the <span class="key"><kbd>Super</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
+<a href="keyboard-key-super.html.sl" title="What is the Super key?">What is the <span class="key"><kbd>Super</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
     You can usually find it next to the <span class="key"><kbd>Alt</kbd></span> key on your
     keyboard.</span>
 </li>
@@ -93,19 +93,19 @@
 <div class="title title-links"><h2><span class="title">Druge teme</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-cursor-blink.html" title="Ali naj vrivnik tipkovnice utripa">Ali naj vrivnik tipkovnice utripa</a><span class="desc"> — Nastavitev utripanja vstavitvene točke in nadzor hitrosti utripanja.</span>
+<a href="keyboard-cursor-blink.html.sl" title="Ali naj vrivnik tipkovnice utripa">Ali naj vrivnik tipkovnice utripa</a><span class="desc"> — Nastavitev utripanja vstavitvene točke in nadzor hitrosti utripanja.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Nastavite tipkovnico tako, da ne ponavlja črk medtem ko držite tipko ali spremenite zakasnitev in hitrost ponavljanja tipk.</span>
+<a href="keyboard-repeat-keys.html.sl" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Nastavite tipkovnico tako, da ne ponavlja črk medtem ko držite tipko ali spremenite zakasnitev in hitrost ponavljanja tipk.</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Nastavitev tipkovnih bližnjic">Nastavitev tipkovnih bližnjic</a><span class="desc"> — Tipkovne bližnjice lahko določite ali spremenite v nastavitvah <span class="gui">Tipkovnica</span>.</span>
+<a href="keyboard-shortcuts-set.html.sl" title="Nastavitev tipkovnih bližnjic">Nastavitev tipkovnih bližnjic</a><span class="desc"> — Tipkovne bližnjice lahko določite ali spremenite v nastavitvah <span class="gui">Tipkovnica</span>.</span>
 </li>
 <li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Uporabne tipkovne bližnjice">Uporabne tipkovne bližnjice</a><span class="desc"> — Uporaba namizja s tipkovnico.</span>
+<a href="shell-keyboard-shortcuts.html.sl" title="Uporabne tipkovne bližnjice">Uporabne tipkovne bližnjice</a><span class="desc"> — Uporaba namizja s tipkovnico.</span>
 </li>
 <li class="links ">
-<a href="numeric-keypad.html" title="Številska tipkovnica">Številska tipkovnica</a><span class="desc"> — Privzeto omogočite številsko tipkovnico.</span>
+<a href="numeric-keypad.html.sl" title="Številska tipkovnica">Številska tipkovnica</a><span class="desc"> — Privzeto omogočite številsko tipkovnico.</span>
 </li>
 </ul></div>
 </div></div>
@@ -116,10 +116,10 @@
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema in gonilniki</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Pogoste težave">Težave s strojno opremo</a></span>, <span class="link"><a href="printing.html" title="Tiskanje">tiskalniki</a></span>, <span class="link"><a href="power.html" title="Napajanje in baterija">nastavitve porabe</a></span>, <span class="link"><a href="color.html" title="Upravljanje barv">upravljanje barv</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Diski in shramba">diski</a></span> …</span>
+<a href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema in gonilniki</a><span class="desc"> — <span class="link"><a href="hardware.html.sl#problems" title="Pogoste težave">Težave s strojno opremo</a></span>, <span class="link"><a href="printing.html.sl" title="Tiskanje">tiskalniki</a></span>, <span class="link"><a href="power.html.sl" title="Napajanje in baterija">nastavitve porabe</a></span>, <span class="link"><a href="color.html.sl" title="Upravljanje barv">upravljanje barv</a></span>, <span class="link"><a href="bluetooth.html.sl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.sl" title="Diski in shramba">diski</a></span> …</span>
 </li>
 <li class="links ">
-<a href="prefs.html" title="Uporabniške in sistemske nastavitve">Uporabniške in sistemske nastavitve</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tipkovnica">Tipkovnica</a></span>, <span class="link"><a href="mouse.html" title="Miška">miška</a></span>, <span class="link"><a href="prefs-display.html" title="Zaslon">zaslon</a></span>, <span class="link"><a href="prefs-language.html" title="Področje in jezik">jeziki</a></span>, <span class="link"><a href="user-accounts.html" title="Uporabniški računi">uporabniški računi</a></span> …</span>
+<a href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Uporabniške in sistemske nastavitve</a><span class="desc"> — <span class="link"><a href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a></span>, <span class="link"><a href="mouse.html.sl" title="Miška">miška</a></span>, <span class="link"><a href="prefs-display.html.sl" title="Zaslon">zaslon</a></span>, <span class="link"><a href="prefs-language.html.sl" title="Področje in jezik">jeziki</a></span>, <span class="link"><a href="user-accounts.html.sl" title="Uporabniški računi">uporabniški računi</a></span> …</span>
 </li>
 </ul></div>
 </div></div></div>

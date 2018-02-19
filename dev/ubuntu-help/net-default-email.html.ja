@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html" title="メールとメールソフトウェア">メールとメールソフトウェア</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html.ja" title="メールとメールソフトウェア">メールとメールソフトウェア</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">メール作成に使うアプリケーションの変更</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">メール送信用のボタンやリンクをクリックすると (たとえばワープロソフト上で)、既定のメールクライアントが起動し、メールを作成できるようになります。しかしながら、複数のメールクライアントがインストールされている環境では、期待とは異なるクライアントが起動する場合もあります。既定のメールクライアントを変更することで、この問題を修正できます。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Details</span>.</p></li>
 <li class="steps"><p class="p"><span class="gui">詳細</span>をクリックしてパネルを開きます。</p></li>
 <li class="steps"><p class="p">ウィンドウ左側の一覧から<span class="gui">既定のアプリケーション</span>を選択します。</p></li>
@@ -63,9 +63,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email.html" title="メールとメールソフトウェア">メールとメールソフトウェア</a><span class="desc"> — 
-      <span class="link"><a href="net-default-email.html" title="メール作成に使うアプリケーションの変更">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html" title="メールのウイルススキャンをする必要がありますか?">Should I scan for viruses?</a></span>…
+<a href="net-email.html.ja" title="メールとメールソフトウェア">メールとメールソフトウェア</a><span class="desc"> — 
+      <span class="link"><a href="net-default-email.html.ja" title="メール作成に使うアプリケーションの変更">Default email apps</a></span>,
+      <span class="link"><a href="net-email-virus.html.ja" title="メールのウイルススキャンをする必要がありますか?">Should I scan for viruses?</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

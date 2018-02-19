@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Сетевые термины и советы</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html" title="Безопасность в Интернете"><span class="title">Безопасность в Интернете</span><span class="linkdiv-dash"> — </span><span class="desc">Общие советы, которые следует учитывать при использовании интернета.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-proxy.html" title="Настройка прокси-сервера"><span class="title">Настройка прокси-сервера</span><span class="linkdiv-dash"> — </span><span class="desc">Прокси — это посредник для веб-трафика, с его помощью можно анонимно использовать веб-службы, с целью контроля или для обеспечения безопасности.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-findip.html" title="Определение своего IP-адреса"><span class="title">Определение своего IP-адреса</span><span class="linkdiv-dash"> — </span><span class="desc">Знание своего IP-адреса может помочь в решении некоторых проблем с сетью.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html.ru" title="Безопасность в Интернете"><span class="title">Безопасность в Интернете</span><span class="linkdiv-dash"> — </span><span class="desc">Общие советы, которые следует учитывать при использовании интернета.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-proxy.html.ru" title="Настройка прокси-сервера"><span class="title">Настройка прокси-сервера</span><span class="linkdiv-dash"> — </span><span class="desc">Прокси — это посредник для веб-трафика, с его помощью можно анонимно использовать веб-службы, с целью контроля или для обеспечения безопасности.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-findip.html.ru" title="Определение своего IP-адреса"><span class="title">Определение своего IP-адреса</span><span class="linkdiv-dash"> — </span><span class="desc">Знание своего IP-адреса может помочь в решении некоторых проблем с сетью.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html" title="Что такое IP-адрес?"><span class="title">Что такое IP-адрес?</span><span class="linkdiv-dash"> — </span><span class="desc">IP-адрес — что-то вроде телефонного номера вашего компьютера.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html" title="Что такое MAC-адрес?"><span class="title">Что такое MAC-адрес?</span><span class="linkdiv-dash"> — </span><span class="desc">Уникальный код, присвоенный сетевому устройству.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html.ru" title="Что такое IP-адрес?"><span class="title">Что такое IP-адрес?</span><span class="linkdiv-dash"> — </span><span class="desc">IP-адрес — что-то вроде телефонного номера вашего компьютера.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html.ru" title="Что такое MAC-адрес?"><span class="title">Что такое MAC-адрес?</span><span class="linkdiv-dash"> — </span><span class="desc">Уникальный код, присвоенный сетевому устройству.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -65,16 +65,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Беспроводные сети">Беспроводные</a></span>, <span class="link"><a href="net-wired.html" title="Проводные сети">проводные</a></span>, <span class="link"><a href="net-problem.html" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html" title="Веб-браузеры">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
+<a href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные</a></span>, <span class="link"><a href="net-wired.html.ru" title="Проводные сети">проводные</a></span>, <span class="link"><a href="net-problem.html.ru" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html.ru" title="Веб-браузеры">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html.ru" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Беспроводные сети">Беспроводные сети</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Подключение к беспроводной сети">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Подключение к скрытой беспроводной сети">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Почему беспроводное соединение постоянно прерывается?">Disconnecting</a></span>…
+<a href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные сети</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.ru" title="Подключение к беспроводной сети">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ru" title="Подключение к скрытой беспроводной сети">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ru" title="Почему беспроводное соединение постоянно прерывается?">Disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div>

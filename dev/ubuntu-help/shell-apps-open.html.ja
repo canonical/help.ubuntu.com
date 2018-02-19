@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">アプリケーションの起動</span></h1></div>
@@ -51,9 +51,9 @@
 <div class="contents">
 <p class="p">Move your mouse pointer to the
   <span class="gui">Activities</span> corner at the top left of the screen to show the
-  <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview. This is where you
+  <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview. This is where you
   can find all of your applications. You can also open the overview by pressing
-  the <span class="key"><a href="keyboard-key-super.html" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span> key.</p>
+  the <span class="key"><a href="keyboard-key-super.html.ja" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span> key.</p>
 <p class="p">There are several ways of opening an application once you’re in the
   <span class="gui">Activities</span> overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
@@ -63,7 +63,7 @@
       to type an related term. Click the application’s icon to start it.</p></li>
 <li class="list">
 <p class="p"><span class="em">ダッシュボード</span> (<span class="gui">アクティビティ</span>画面の左側にある、アイコンが縦に並んだ細長い領域) にアイコンが配置されているアプリケーションもあります。アイコンをクリックすると、該当のアプリケーションが起動します。</p>
-<p class="p">よく使うアプリケーションは、<span class="link"><a href="shell-apps-favorites.html" title="お気に入りのアプリをダッシュボードに追加する">ダッシュボードに追加</a></span>しておくとよいでしょう。</p>
+<p class="p">よく使うアプリケーションは、<span class="link"><a href="shell-apps-favorites.html.ja" title="お気に入りのアプリをダッシュボードに追加する">ダッシュボードに追加</a></span>しておくとよいでしょう。</p>
 </li>
 <li class="list"><p class="p">Click the grid button at the bottom of the dash. You will see the
       frequently used applications if the <span class="gui">Frequent</span>
@@ -72,7 +72,7 @@
       applications. Press on the application to start it.</p></li>
 <li class="list">
 <p class="p">You can launch an application in a separate
-      <span class="link"><a href="shell-workspaces.html" title="ワークスペースとは何ですか? 何の役に立ちますか?">workspace</a></span> by dragging its icon from
+      <span class="link"><a href="shell-workspaces.html.ja" title="ワークスペースとは何ですか? 何の役に立ちますか?">workspace</a></span> by dragging its icon from
       the dash, and dropping it onto one of the workspaces on the right-hand
       side of the screen. The application will open in the chosen
       workspace.</p>
@@ -98,13 +98,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="index.html" title="Ubuntu デスクトップガイド">Ubuntu デスクトップガイド</a></li>
+<li class="links "><a href="index.html.ja" title="Ubuntu デスクトップガイド">Ubuntu デスクトップガイド</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Your desktop">Your desktop</a><span class="desc"> — 
-      <span class="link"><a href="clock-calendar.html" title="スケジュール表">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="通知メッセージとメッセージトレイ">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="便利なキーボードショートカット">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="ウィンドウとワークスペース">windows and workspaces</a></span>…
+<a href="shell-overview.html.ja" title="Your desktop">Your desktop</a><span class="desc"> — 
+      <span class="link"><a href="clock-calendar.html.ja" title="スケジュール表">Calendar</a></span>,
+      <span class="link"><a href="shell-notifications.html.ja" title="通知メッセージとメッセージトレイ">notifications</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.ja" title="便利なキーボードショートカット">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-windows.html.ja" title="ウィンドウとワークスペース">windows and workspaces</a></span>…
     </span>
 </li>
 </ul></div>
@@ -113,10 +113,10 @@
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-apps-favorites.html" title="お気に入りのアプリをダッシュボードに追加する">お気に入りのアプリをダッシュボードに追加する</a><span class="desc"> — よく使うプログラムのアイコンをダッシュボードに追加 (あるいは削除) します。</span>
+<a href="shell-apps-favorites.html.ja" title="お気に入りのアプリをダッシュボードに追加する">お気に入りのアプリをダッシュボードに追加する</a><span class="desc"> — よく使うプログラムのアイコンをダッシュボードに追加 (あるいは削除) します。</span>
 </li>
-<li class="links "><a href="gs-launch-applications.html" title="アプリケーションを起動する">アプリケーションの起動に関するチュートリアル</a></li>
-<li class="links "><a href="gs-use-system-search.html" title="システムの検索機能を使用する">システムの検索機能に関するチュートリアル</a></li>
+<li class="links "><a href="gs-launch-applications.html.ja" title="アプリケーションを起動する">アプリケーションの起動に関するチュートリアル</a></li>
+<li class="links "><a href="gs-use-system-search.html.ja" title="システムの検索機能を使用する">システムの検索機能に関するチュートリアル</a></li>
 </ul></div>
 </div></div>
 </div>

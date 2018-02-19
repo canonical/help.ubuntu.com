@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Account online</span></h1></div>
@@ -54,17 +54,17 @@
   applications to access online services like email, calendars, chat, and
   documents.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="accounts-add.html" title="Aggiungere un account"><span class="title">Aggiungere un account</span><span class="linkdiv-dash"> — </span><span class="desc">Allow applications to access your accounts online for photos,
+<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.it" title="Aggiungere un account"><span class="title">Aggiungere un account</span><span class="linkdiv-dash"> — </span><span class="desc">Allow applications to access your accounts online for photos,
     contacts, calendars, and more.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html" title="Rimuovere un account"><span class="title">Rimuovere un account</span><span class="linkdiv-dash"> — </span><span class="desc">Remove access to an online service provider from your
+<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.it" title="Rimuovere un account"><span class="title">Rimuovere un account</span><span class="linkdiv-dash"> — </span><span class="desc">Remove access to an online service provider from your
     applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html" title="Why add an account?"><span class="title">Why add an account?</span><span class="linkdiv-dash"> — </span><span class="desc">Why add your email or social media accounts to your desktop?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html" title="Control which online services an account can be used to access"><span class="title">Control which online services an account can be used to access</span><span class="linkdiv-dash"> — </span><span class="desc">Some online accounts can be used to access multiple services (like
+<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.it" title="Why add an account?"><span class="title">Why add an account?</span><span class="linkdiv-dash"> — </span><span class="desc">Why add your email or social media accounts to your desktop?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.it" title="Control which online services an account can be used to access"><span class="title">Control which online services an account can be used to access</span><span class="linkdiv-dash"> — </span><span class="desc">Some online accounts can be used to access multiple services (like
     calendar and email). You can control which of these services can be used by
     applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html" title="Online services and applications"><span class="title">Online services and applications</span><span class="linkdiv-dash"> — </span><span class="desc">Applications can use the accounts created in <span class="app">Online
+<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.it" title="Online services and applications"><span class="title">Online services and applications</span><span class="linkdiv-dash"> — </span><span class="desc">Applications can use the accounts created in <span class="app">Online
     Accounts</span> and the services they exploit.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html" title="Why is my account type not on the list?"><span class="title">Why is my account type not on the list?</span><span class="linkdiv-dash"> — </span><span class="desc">What if an online service provider is not listed?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html.it" title="Why is my account type not on the list?"><span class="title">Why is my account type not on the list?</span><span class="linkdiv-dash"> — </span><span class="desc">What if an online service provider is not listed?</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -73,25 +73,25 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni utente e di sistema</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html" title="Tastiera">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html" title="Mouse">mouse</a></span>,
-      <span class="link"><a href="prefs-display.html" title="Visualizzazione e schermo">display</a></span>,
-      <span class="link"><a href="prefs-language.html" title="Region &amp; Language">languages</a></span>,
-      <span class="link"><a href="user-accounts.html" title="Account utente">user accounts</a></span>…
+<a href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni utente e di sistema</a><span class="desc"> — 
+      <span class="link"><a href="keyboard.html.it" title="Tastiera">Keyboard</a></span>,
+      <span class="link"><a href="mouse.html.it" title="Mouse">mouse</a></span>,
+      <span class="link"><a href="prefs-display.html.it" title="Visualizzazione e schermo">display</a></span>,
+      <span class="link"><a href="prefs-language.html.it" title="Region &amp; Language">languages</a></span>,
+      <span class="link"><a href="user-accounts.html.it" title="Account utente">user accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-connect-online-accounts.html" title="Connettere ad account online">A tutorial on connecting to online
+<li class="links "><a href="gs-connect-online-accounts.html.it" title="Connettere ad account online">A tutorial on connecting to online
      accounts</a></li>
 <li class="links ">
-<a href="net-chat.html" title="Chat e social netwok">Chat e social netwok</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Messaggistica istantanea con Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Video chiamate">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Come è possibile usare Skype in Ubuntu?">install skype</a></span>
+<a href="net-chat.html.it" title="Chat e social netwok">Chat e social netwok</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.it" title="Messaggistica istantanea con Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.it" title="Video chiamate">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.it" title="Come è possibile usare Skype in Ubuntu?">install skype</a></span>
     </span>
 </li>
 </ul></div>

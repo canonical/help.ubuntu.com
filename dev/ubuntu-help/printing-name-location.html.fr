@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="printing.html" title="Impression">Impression</a> › <a class="trail" href="printing.html#setup" title="Configuration d'une imprimante">Configuration</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="printing.html.fr" title="Impression">Impression</a> › <a class="trail" href="printing.html.fr#setup" title="Configuration d'une imprimante">Configuration</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Modification du nom et de l'emplacement d'une imprimante</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Vous pouvez modifier le nom et l'emplacement d'une imprimante dans les paramètres de l'imprimante.</p>
-<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">You need <span class="link"><a href="user-admin-explain.html" title="Comment les privilèges administrateur fonctionnent-ils ?">administrative privileges</a></span>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">You need <span class="link"><a href="user-admin-explain.html.fr" title="Comment les privilèges administrateur fonctionnent-ils ?">administrative privileges</a></span>
     on the system to change the name or location of a printer.</p></div></div></div></div>
 </div>
 <div id="printer-name-change" class="sect"><div class="inner">
@@ -58,7 +58,7 @@
 <div class="region"><div class="contents">
 <p class="p">Si vous souhaitez modifier le nom d'une imprimante, conformez-vous aux étapes suivantes :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">Déverrouiller</span> en haut à droite et saisissez votre mot de passe.</p></li>
@@ -73,7 +73,7 @@
 <div class="region"><div class="contents">
 <p class="p">Pour modifier l'emplacement d'une imprimante :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">Déverrouiller</span> en haut à droite et saisissez votre mot de passe.</p></li>
@@ -87,12 +87,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Configuration d'une imprimante">Configuration d'une imprimante</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.fr#setup" title="Configuration d'une imprimante">Configuration d'une imprimante</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-admin-explain.html" title="Comment les privilèges administrateur fonctionnent-ils ?">Comment les privilèges administrateur fonctionnent-ils ?</a><span class="desc"> — Les privilèges administrateur sont requis pour modifier des parties importantes du système.</span>
+<a href="user-admin-explain.html.fr" title="Comment les privilèges administrateur fonctionnent-ils ?">Comment les privilèges administrateur fonctionnent-ils ?</a><span class="desc"> — Les privilèges administrateur sont requis pour modifier des parties importantes du système.</span>
 </li></ul></div>
 </div></div>
 </div>

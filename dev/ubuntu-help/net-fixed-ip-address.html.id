@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html" title="Jaringan Kabel">Jaringan Kabel</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.id" title="Jaringan Kabel">Jaringan Kabel</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Buat suatu koneksi dengan suatu alamat IP yang tetap</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Most networks will automatically assign an <span class="link"><a href="net-what-is-ip-address.html" title="Apa itu alamat IP?">IP address</a></span> and other details to your
+<p class="p">Most networks will automatically assign an <span class="link"><a href="net-what-is-ip-address.html.id" title="Apa itu alamat IP?">IP address</a></span> and other details to your
   computer when you connect to the network. These details can change
   periodically, but you might want to have a fixed IP address for the computer
   so you always know what its address is (for example, if it is a file
@@ -57,7 +57,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Untuk memberi alamat IP tetap (statik) ke komputer Anda:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Jaringan</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Jaringan</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Jaringan</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">In the left pane, select the network connection that you want to have
       a fixed address. If you plug in to the network with a cable, click
@@ -68,7 +68,7 @@
       button will be located next to the active network.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
       and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>
-<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html" title="Apa itu alamat IP?">IP Address</a></span> and
+<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html.id" title="Apa itu alamat IP?">IP Address</a></span> and
       <span class="gui">Gateway</span>, as well as the appropriate <span class="gui">Netmask</span>.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">DNS</span> section, switch <span class="gui">Automatic</span> to
       <span class="gui">OFF</span>. Enter the IP address of a DNS server you want to use.
@@ -88,13 +88,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html" title="Jaringan Kabel">Jaringan Kabel</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Menyambung ke suatu jaringan (Ethernet) kabel">Koneksi internet melalui kabel</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Buat suatu koneksi dengan suatu alamat IP yang tetap">Alamat IP tetap</a></span>…</span>
+<a href="net-wired.html.id" title="Jaringan Kabel">Jaringan Kabel</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.id" title="Menyambung ke suatu jaringan (Ethernet) kabel">Koneksi internet melalui kabel</a></span>, <span class="link"><a href="net-fixed-ip-address.html.id" title="Buat suatu koneksi dengan suatu alamat IP yang tetap">Alamat IP tetap</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-findip.html" title="Temukan alamat IP Anda">Temukan alamat IP Anda</a><span class="desc"> — Knowing your IP address can help you troubleshoot network problems.</span>
+<a href="net-findip.html.id" title="Temukan alamat IP Anda">Temukan alamat IP Anda</a><span class="desc"> — Knowing your IP address can help you troubleshoot network problems.</span>
 </li></ul></div>
 </div></div>
 </div>

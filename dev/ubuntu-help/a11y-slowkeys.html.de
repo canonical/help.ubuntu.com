@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="keyboard.html" title="Tastatur">Tastatur</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="keyboard.html.de" title="Tastatur">Tastatur</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="keyboard.html" title="Tastatur">Tastatur</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="keyboard.html.de" title="Tastatur">Tastatur</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Barrierefreiheit">Barrierefreiheit</a> › <a class="trail" href="a11y.html#mobility" title="Mobilitätseinschränkungen">Mobilitätseinschränkungen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.de" title="Barrierefreiheit">Barrierefreiheit</a> › <a class="trail" href="a11y.html.de#mobility" title="Mobilitätseinschränkungen">Mobilitätseinschränkungen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">Aktivieren Sie die <span class="em">Tastaturverzögerung</span>, wenn Sie eine Verzögerung zwischen dem Drücken einer Taste und dem Erscheinen des Buchstabens am Bildschirm haben wollen. Das bedeutet, dass Sie jede Taste, die Sie tippen wollen, eine Zeitlang gedrückt halten müssen, bevor sie erscheint. Verwenden Sie die Tastaturverzögerung, wenn Sie beim Tippen unabsichtlich mehrere Tasten gleichzeitig drücken oder wenn es Ihnen schwer fällt, auf Anhieb die richtige Taste zu drücken.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Barrierefreiheit</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Barrierefreiheit</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Barrierefreiheit</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Öffnen Sie <span class="gui">Tippassistent (AccessX)</span> und wählen Sie den Reiter <span class="gui">Texteingabe</span>.</p></li>
 <li class="steps"><p class="p">Stellen Sie die <span class="gui">Tastenverzögerung</span> auf <span class="gui">AN</span>.</p></li>
@@ -66,7 +66,7 @@
 <div class="title title-note"><h2><span class="title">Tastenverzögerung schnell ein- und ausschalten</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Wählen Sie <span class="gui">Barrierefreiheitsfunktionen mit der Tastatur aktivieren</span> in <span class="gui">Per Tastatur aktivieren</span>, um die Tastenverzögerung mit der Tastatur ein- und auszuschalten. Wenn diese Option gewählt ist, können Sie die Tastenverzögerung ein- oder ausschalten, indem Sie die <span class="key"><kbd>Umschalttaste</kbd></span> acht Sekunden lang gedrückt halten.</p>
-<p class="p">Sie können die Tastenverzögerung schnell ein- und ausschalten, indem Sie auf das <span class="link"><a href="a11y-icon.html" title="Das Barrierefreiheitsmenü finden">Symbol für Barrierefreiheit</a></span> im oberen Panel klicken und <span class="gui">Tastenverzögerung</span> wählen. Das Barrierefreiheitssymbol ist sichtbar, wenn Sie eine oder mehrere Einstellungen in der <span class="gui">Barrierefreiheit</span> aktiviert haben.</p>
+<p class="p">Sie können die Tastenverzögerung schnell ein- und ausschalten, indem Sie auf das <span class="link"><a href="a11y-icon.html.de" title="Das Barrierefreiheitsmenü finden">Symbol für Barrierefreiheit</a></span> im oberen Panel klicken und <span class="gui">Tastenverzögerung</span> wählen. Das Barrierefreiheitssymbol ist sichtbar, wenn Sie eine oder mehrere Einstellungen in der <span class="gui">Barrierefreiheit</span> aktiviert haben.</p>
 </div></div>
 </div></div>
 <p class="p">Verwenden Sie den Schieberegler <span class="gui">Akzeptanzverzögerung</span> um festzulegen, wie lang Sie eine Taste gedrückt halten müssen, damit sie akzeptiert wird.</p>
@@ -77,9 +77,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Mobilitätseinschränkungen">Mobilitätseinschränkungen</a></li>
+<li class="links "><a href="a11y.html.de#mobility" title="Mobilitätseinschränkungen">Mobilitätseinschränkungen</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Tastatur">Tastatur</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Tastaturbelegungen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Den Tastaturcursor blinken lassen">blinkender Cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mobilitätseinschränkungen">Barrierefreiheit der Tastatur</a></span> …</span>
+<a href="keyboard.html.de" title="Tastatur">Tastatur</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.de" title="Use alternative keyboard layouts">Tastaturbelegungen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.de" title="Den Tastaturcursor blinken lassen">blinkender Cursor</a></span>, <span class="link"><a href="a11y.html.de#mobility" title="Mobilitätseinschränkungen">Barrierefreiheit der Tastatur</a></span> …</span>
 </li>
 </ul></div>
 </div></div></div>

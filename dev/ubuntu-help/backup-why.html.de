@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html#backup" title="Datensicherung">Datensicherung</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.de" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html.de#backup" title="Datensicherung">Datensicherung</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sichern Ihrer wichtigen Dateien</span></h1></div>
@@ -53,17 +53,17 @@
 <p class="p">Die beste Möglichkeit der Dateisicherung ist, dies regelmäßig zu tun und die Kopien extern und verschlüsselt aufzubewahren.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-how.html" title="Eine Sicherung erstellen"><span class="title">Eine Sicherung erstellen</span><span class="linkdiv-dash"> — </span><span class="desc">Verwenden Sie Déjà Dup (oder eine andere Anwendung zur Datensicherung), um Kopien Ihrer wertvollen Dateien und Einstellungen zu erstellen und vor Verlust zu schützen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-what.html" title="Was gesichert werden sollte"><span class="title">Was gesichert werden sollte</span><span class="linkdiv-dash"> — </span><span class="desc">Sichern Sie alles, dessen Verlust Sie nicht verschmerzen können, falls etwas schief geht.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-how.html.de" title="Eine Sicherung erstellen"><span class="title">Eine Sicherung erstellen</span><span class="linkdiv-dash"> — </span><span class="desc">Verwenden Sie Déjà Dup (oder eine andere Anwendung zur Datensicherung), um Kopien Ihrer wertvollen Dateien und Einstellungen zu erstellen und vor Verlust zu schützen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-what.html.de" title="Was gesichert werden sollte"><span class="title">Was gesichert werden sollte</span><span class="linkdiv-dash"> — </span><span class="desc">Sichern Sie alles, dessen Verlust Sie nicht verschmerzen können, falls etwas schief geht.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-where.html" title="Speicherorte Ihrer Sicherungen"><span class="title">Speicherorte Ihrer Sicherungen</span><span class="linkdiv-dash"> — </span><span class="desc">Empfehlungen zum Speichern von Sicherungen und zum Typ des Sicherungsmediums.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-where.html.de" title="Speicherorte Ihrer Sicherungen"><span class="title">Speicherorte Ihrer Sicherungen</span><span class="linkdiv-dash"> — </span><span class="desc">Empfehlungen zum Speichern von Sicherungen und zum Typ des Sicherungsmediums.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Datensicherung">Datensicherung</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.de#backup" title="Datensicherung">Datensicherung</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

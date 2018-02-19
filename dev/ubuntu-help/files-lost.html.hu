@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.hu" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html.hu#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Elveszett fájl megkeresése</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">Ha létrehozott vagy letöltött egy fájlt, de nem találja, akkor kövesse ezeket a tippeket.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Ha nem emlékszik, hova mentette a fájlt, de van elképzelése a nevéről, akkor megpróbálhatja a <span class="link"><a href="files-search.html" title="Fájlok keresése">név alapján megkeresni a fájlt</a></span>.</p></li>
+<li class="list"><p class="p">Ha nem emlékszik, hova mentette a fájlt, de van elképzelése a nevéről, akkor megpróbálhatja a <span class="link"><a href="files-search.html.hu" title="Fájlok keresése">név alapján megkeresni a fájlt</a></span>.</p></li>
 <li class="list"><p class="p">Ha letöltött egy fájlt, akkor a böngészője lehet, hogy automatikusan egy általános mappába mentette. Nézze meg az <span class="file">Asztal</span> és a <span class="file">Letöltések</span> mappát a saját mappájában.</p></li>
-<li class="list"><p class="p">Lehet, hogy véletlenül törölte a fájlt. A fájlok törlésükkor a Kukába kerülnek, és addig ott is maradnak, amíg saját kezűleg ki nem üríti a Kukát. A törölt fájl visszaállításával kapcsolatban lásd: <span class="link"><a href="files-recover.html" title="Fájl visszaállítása a Kukából">Fájl visszaállítása a Kukából</a></span>.</p></li>
-<li class="list"><p class="p">Lehet, hogy úgy nevezte át a fájlt, hogy az rejtetté vált. A <span class="file">.</span> karakterrel kezdődő, vagy <span class="file">~</span> karakterrel végződő fájlok rejtettek a fájlkezelőben. Nyomja meg a nézetbeállítások gombot a <span class="app">Fájlok</span> eszköztárán, és válassza a <span class="gui">Rejtett fájlok megjelenítése</span> menüpontot a megjelenítésükhöz. További információkért lásd: <span class="link"><a href="files-hidden.html" title="Fájl elrejtése">Fájl elrejtése</a></span>.</p></li>
+<li class="list"><p class="p">Lehet, hogy véletlenül törölte a fájlt. A fájlok törlésükkor a Kukába kerülnek, és addig ott is maradnak, amíg saját kezűleg ki nem üríti a Kukát. A törölt fájl visszaállításával kapcsolatban lásd: <span class="link"><a href="files-recover.html.hu" title="Fájl visszaállítása a Kukából">Fájl visszaállítása a Kukából</a></span>.</p></li>
+<li class="list"><p class="p">Lehet, hogy úgy nevezte át a fájlt, hogy az rejtetté vált. A <span class="file">.</span> karakterrel kezdődő, vagy <span class="file">~</span> karakterrel végződő fájlok rejtettek a fájlkezelőben. Nyomja meg a nézetbeállítások gombot a <span class="app">Fájlok</span> eszköztárán, és válassza a <span class="gui">Rejtett fájlok megjelenítése</span> menüpontot a megjelenítésükhöz. További információkért lásd: <span class="link"><a href="files-hidden.html.hu" title="Fájl elrejtése">Fájl elrejtése</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,12 +62,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.hu#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-recover.html" title="Fájl visszaállítása a Kukából">Fájl visszaállítása a Kukából</a><span class="desc"> — A törölt fájlok normális esetben a Kukába kerülnek, de visszaállíthatók.</span>
+<a href="files-recover.html.hu" title="Fájl visszaállítása a Kukából">Fájl visszaállítása a Kukából</a><span class="desc"> — A törölt fájlok normális esetben a Kukába kerülnek, de visszaállíthatók.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kontakte</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Verwenden Sie <span class="app">Kontakte</span>, um Informationen über Ihre Kontakte zu speichern, einzusehen und zu bearbeiten. Dies betrifft sowohl lokale Kontakte als auch jene Ihrer <span class="link"><a href="accounts.html" title="Online-Konten">Online-Konten</a></span>.</p>
+<p class="p">Verwenden Sie <span class="app">Kontakte</span>, um Informationen über Ihre Kontakte zu speichern, einzusehen und zu bearbeiten. Dies betrifft sowohl lokale Kontakte als auch jene Ihrer <span class="link"><a href="accounts.html.de" title="Online-Konten">Online-Konten</a></span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html" title="Kontakte zum ersten Mal starten"><span class="title">Kontakte zum ersten Mal starten</span><span class="linkdiv-dash"> — </span><span class="desc">Ihre Kontakte in einem lokalen Adressbuch oder in einem Online-Konto speichern.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html" title="Einen Kontakt hinzufügen oder entfernen"><span class="title">Einen Kontakt hinzufügen oder entfernen</span><span class="linkdiv-dash"> — </span><span class="desc">So entfernen Sie einen Kontakt oder fügen ihn dem lokalen Adressbuch hinzu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html" title="Kontaktdetails bearbeiten"><span class="title">Kontaktdetails bearbeiten</span><span class="linkdiv-dash"> — </span><span class="desc">Die Information für jeden Kontakt bearbeiten.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html" title="Kontakte verknüpfen oder deren Verknüpfung lösen"><span class="title">Kontakte verknüpfen oder deren Verknüpfung lösen</span><span class="linkdiv-dash"> — </span><span class="desc">Informationen aus mehreren Quellen für einen Kontakt kombinieren.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html" title="Mit Ihrem Kontakt verbinden"><span class="title">Mit Ihrem Kontakt verbinden</span><span class="linkdiv-dash"> — </span><span class="desc">Mit einem Kontakt chatten, ihn anrufen oder eine E-Mail senden.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-search.html" title="Nach einem Kontakt suchen"><span class="title">Nach einem Kontakt suchen</span><span class="linkdiv-dash"> — </span><span class="desc">Nach einem Kontakt suchen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.de" title="Kontakte zum ersten Mal starten"><span class="title">Kontakte zum ersten Mal starten</span><span class="linkdiv-dash"> — </span><span class="desc">Ihre Kontakte in einem lokalen Adressbuch oder in einem Online-Konto speichern.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html.de" title="Einen Kontakt hinzufügen oder entfernen"><span class="title">Einen Kontakt hinzufügen oder entfernen</span><span class="linkdiv-dash"> — </span><span class="desc">So entfernen Sie einen Kontakt oder fügen ihn dem lokalen Adressbuch hinzu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.de" title="Kontaktdetails bearbeiten"><span class="title">Kontaktdetails bearbeiten</span><span class="linkdiv-dash"> — </span><span class="desc">Die Information für jeden Kontakt bearbeiten.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html.de" title="Kontakte verknüpfen oder deren Verknüpfung lösen"><span class="title">Kontakte verknüpfen oder deren Verknüpfung lösen</span><span class="linkdiv-dash"> — </span><span class="desc">Informationen aus mehreren Quellen für einen Kontakt kombinieren.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.de" title="Mit Ihrem Kontakt verbinden"><span class="title">Mit Ihrem Kontakt verbinden</span><span class="linkdiv-dash"> — </span><span class="desc">Mit einem Kontakt chatten, ihn anrufen oder eine E-Mail senden.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-search.html.de" title="Nach einem Kontakt suchen"><span class="title">Nach einem Kontakt suchen</span><span class="linkdiv-dash"> — </span><span class="desc">Nach einem Kontakt suchen.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Drahtlose Verbindungen">Funknetzwerk</a></span>, <span class="link"><a href="net-wired.html" title="Kabelverbindungen">Kabelgebunden</a></span>, <span class="link"><a href="net-problem.html" title="Netzwerkprobleme">Verbindungsprobleme</a></span>, <span class="link"><a href="net-browser.html" title="Webbrowser">Webbrowser</a></span>, <span class="link"><a href="net-email.html" title="E-Mail und E-Mail-Software">E-Mail-Konten</a></span> …</span>
+<a href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.de" title="Drahtlose Verbindungen">Funknetzwerk</a></span>, <span class="link"><a href="net-wired.html.de" title="Kabelverbindungen">Kabelgebunden</a></span>, <span class="link"><a href="net-problem.html.de" title="Netzwerkprobleme">Verbindungsprobleme</a></span>, <span class="link"><a href="net-browser.html.de" title="Webbrowser">Webbrowser</a></span>, <span class="link"><a href="net-email.html.de" title="E-Mail und E-Mail-Software">E-Mail-Konten</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

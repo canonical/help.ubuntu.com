@@ -43,23 +43,33 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bluetooth in- of uitschakelen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">U kunt Bluetooth inschakelen om verbinding te maken met andere Bluetooth-apparaten, of u kunt dit uitschakelen om energie te sparen. Om Bluetooth in te schakelen, klik op het Bluetooth-pictogram in de menubalk en zet <span class="gui">Bluetooth</span> <span class="gui">AAN</span>.</p>
-<p class="p">Veel laptops hebben een schakelaar of toetscombinatie waarmee Bluetooth kan worden in- of uitgeschakeld. Als de Bluetooth-hardware is uitgeschakeld, dan ziet u geen Bluetooth-pictogram in de menubalk. Zoek naar een schakelaar of een toets op uw toetsenbord. De toets op het toetsenbord vindt u vaak met behulp van de <span class="key"><kbd class="key-Fn">Fn</kbd></span>-toets.</p>
-<p class="p">Om Bluetooth uit te schakelen, klik op het Bluetooth-pictogram en zet <span class="gui">Bluetooth</span> <span class="gui">UIT</span>.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Uw computer is <span class="link"><a href="bluetooth-visibility.html" title="Wat is Bluetooth-zichtbaarheid?">zichtbaar</a></span> als <span class="gui">Zichtbaar</span> <span class="gui">AAN</span> staat in het Bluetooth-menu.</p></div></div></div></div>
+<p class="p">U kunt Bluetooth inschakelen om verbinding te maken met andere Bluetooth-apparaten of u kunt dit uitschakelen om energie te sparen. Om Bluetooth in te schakelen:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Klik op het <span class="gui">Bluetooth</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Zet de schakelaar aan de bovenkant <span class="gui">AAN</span>.</p></li>
+</ol></div></div></div>
+<p class="p">Veel laptops hebben een schakelaar of toetscombinatie waarmee Bluetooth kan worden in- of uitgeschakeld. Zoek naar een schakelaar of een toets op uw toetsenbord. De toets op het toetsenbord vindt u vaak met behulp van de <span class="key"><kbd class="key-Fn">Fn</kbd></span>-toets.</p>
+<p class="p">Om Bluetooth uit te schakelen:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">Systeemmenu</a></span> aan de rechterzijde van de menubalk.</p></li>
+<li class="steps"><p class="p">Selecteer <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span> Niet in gebruik</span>. Het Bluetooth-onderdeel van het menu zal uitklappen.</p></li>
+<li class="steps"><p class="p">Selecteer <span class="gui">Uitschakelen</span>.</p></li>
+</ol></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Uw computer is <span class="link"><a href="bluetooth-visibility.html.nl" title="Wat is Bluetooth-zichtbaarheid?">zichtbaar</a></span> zolang het <span class="gui">Bluetooth</span>-paneel open staat.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Uw computer met een Bluetooth-apparaat verbinden">Verbinden</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Bestanden sturen naar een Bluetooth-apparaat">bestanden overbrengen</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth in- of uitschakelen">aan- en uitzetten</a></span>...</span>
+<a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.nl" title="Uw computer met een Bluetooth-apparaat verbinden">Verbinden</a></span>, <span class="link"><a href="bluetooth-send-file.html.nl" title="Bestanden sturen naar een Bluetooth-apparaat">bestanden overbrengen</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.nl" title="Bluetooth in- of uitschakelen">aan- en uitzetten</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

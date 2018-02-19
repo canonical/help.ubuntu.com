@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="mouse.html" title="சொடுக்கி">சொடுக்கி</a> › <a class="trail" href="mouse.html#tips" title="குறிப்புகள்">குறிப்புகள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="mouse.html.ta" title="சொடுக்கி">சொடுக்கி</a> › <a class="trail" href="mouse.html.ta#tips" title="குறிப்புகள்">குறிப்புகள்</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="குறிப்புகள் &amp; தந்திரங்கள்">குறிப்புகள் &amp; தந்திரங்கள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.ta" title="குறிப்புகள் &amp; தந்திரங்கள்">குறிப்புகள் &amp; தந்திரங்கள்</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="mouse.html" title="சொடுக்கி">சொடுக்கி</a> › <a class="trail" href="mouse.html#tips" title="குறிப்புகள்">குறிப்புகள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="mouse.html.ta" title="சொடுக்கி">சொடுக்கி</a> › <a class="trail" href="mouse.html.ta#tips" title="குறிப்புகள்">குறிப்புகள்</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@ with a scroll wheel, you can usually press directly down on the scroll
 wheel to middle-click. If you don’t have a middle mouse button, you
 can press the left and right mouse buttons at the same time to
 middle-click.</p>
-<p class="p">பல விரல் தட்டல்களை ஆதரிக்கும் தொடுதிட்டுகளில், நீங்கள் நடு சொடுக்கம் செய்ய ஒரே நேரத்தில் மூன்று விரல்களால் தட்டலாம். இது வேலை செய்ய நீங்கள் தொடுதிட்டு அமைவுகளில் <span class="link"><a href="mouse-touchpad-click.html" title="தொடுதிட்டைப் பயன்படுத்தி சொடுக்குதல், இழுத்தல் அல்லது உருட்டுதல்">தட்டு சொடுக்கத்தை செயல்படுத்த</a></span> வேண்டும்.</p>
+<p class="p">பல விரல் தட்டல்களை ஆதரிக்கும் தொடுதிட்டுகளில், நீங்கள் நடு சொடுக்கம் செய்ய ஒரே நேரத்தில் மூன்று விரல்களால் தட்டலாம். இது வேலை செய்ய நீங்கள் தொடுதிட்டு அமைவுகளில் <span class="link"><a href="mouse-touchpad-click.html.ta" title="தொடுதிட்டைப் பயன்படுத்தி சொடுக்குதல், இழுத்தல் அல்லது உருட்டுதல்">தட்டு சொடுக்கத்தை செயல்படுத்த</a></span> வேண்டும்.</p>
 <p class="p">பல பயன்பாடுகள் மேம்பட்ட சொடுக்க குறுக்குவழிகளுக்கு நடு சொடுக்கத்தைப் பயன்படுத்துகின்றன.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
@@ -83,9 +83,9 @@ button for other functions. Search your application’s help for
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="tips.html" title="குறிப்புகள் &amp; தந்திரங்கள்">குறிப்புகள் &amp; தந்திரங்கள்</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="சிறப்பு எழுத்துக்களை உள்ளிடுதல்">சிறப்பு எழுத்துகள்</a></span>, <span class="link"><a href="mouse-middleclick.html" title="நடு சொடுக்கம்">நடு சொடுக்க குறுக்குவழிகள்</a></span>…</span>
+<a href="tips.html.ta" title="குறிப்புகள் &amp; தந்திரங்கள்">குறிப்புகள் &amp; தந்திரங்கள்</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.ta" title="சிறப்பு எழுத்துக்களை உள்ளிடுதல்">சிறப்பு எழுத்துகள்</a></span>, <span class="link"><a href="mouse-middleclick.html.ta" title="நடு சொடுக்கம்">நடு சொடுக்க குறுக்குவழிகள்</a></span>…</span>
 </li>
-<li class="links "><a href="mouse.html#tips" title="குறிப்புகள்">சொடுக்கி குறிப்புகள்</a></li>
+<li class="links "><a href="mouse.html.ta#tips" title="குறிப்புகள்">சொடுக்கி குறிப்புகள்</a></li>
 </ul></div>
 </div></div></div>
 </div>

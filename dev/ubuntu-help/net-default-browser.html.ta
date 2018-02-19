@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-browser.html" title="வலை உலாவிகள்">வலை உலாவிகள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-browser.html.ta" title="வலை உலாவிகள்">வலை உலாவிகள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Change which web browser opens websites by default</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">நீங்கள் ஏதேனும் ஒரு பயன்பாட்டில் ஒரு வலைப்பக்க இணைப்பை சொடுக்கும் போது, அந்த பக்கம் தானாகவே ஒரு வலை உலாவியால் திறக்கப்படும். இருபினும் உங்களிடம் ஒன்றுக்கும் அதிக உலாவிகள் நிறுவப்பட்டிருந்தால், அந்தப் பக்கம் நீங்கள் விரும்புகின்ற உலாவியால் திறக்கபடாமல் போகலாம். இதை சரி செய்ய முன்னிருப்பு வலை உலாவியை மாற்றவும்:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Details</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
 <li class="steps"><p class="p">சாளரத்தின் இடது பக்கத்தில் உள்ள பட்டியலில் இருந்து <span class="gui">முன்னிருப்பு பயன்பாடுகள்</span> ஐ தேர்வு செய்யவும்.</p></li>
@@ -68,9 +68,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="வலை உலாவிகள்">வலை உலாவிகள்</a><span class="desc"> — 
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="Install the Flash plug-in">install Flash</a></span>…
+<a href="net-browser.html.ta" title="வலை உலாவிகள்">வலை உலாவிகள்</a><span class="desc"> — 
+      <span class="link"><a href="net-default-browser.html.ta" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-install-flash.html.ta" title="Install the Flash plug-in">install Flash</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="user-accounts.html" title="Λογαριασμοί χρηστών">Χρήστες</a> › <a class="trail" href="user-accounts.html#privileges" title="Προνόμια χρήστη">Προνόμια</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="user-accounts.html.el" title="Λογαριασμοί χρηστών">Χρήστες</a> › <a class="trail" href="user-accounts.html.el#privileges" title="Προνόμια χρήστη">Προνόμια</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Πώς δουλεύουν τα δικαιώματα διαχειριστή;</span></h1></div>
@@ -87,34 +87,34 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Προνόμια χρήστη">Προνόμια χρήστη</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.el#privileges" title="Προνόμια χρήστη">Προνόμια χρήστη</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — Χρειάζεται να αποεπιλέξετε την επιλογή <span class="gui">Διαθέσιμο για όλους τους χρήστες</span> στις ρυθμίσεις σύνδεσης δικτύου.</span>
+<a href="net-othersedit.html.el" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — Χρειάζεται να αποεπιλέξετε την επιλογή <span class="gui">Διαθέσιμο για όλους τους χρήστες</span> στις ρυθμίσεις σύνδεσης δικτύου.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή">Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή</a><span class="desc"> — Μπορείτε να επιτρέψετε τους χρήστες να κάνουν αλλαγές στο σύστημα δίνοντας τους δικαιώματα διαχειριστή.</span>
+<a href="user-admin-change.html.el" title="Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή">Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή</a><span class="desc"> — Μπορείτε να επιτρέψετε τους χρήστες να κάνουν αλλαγές στο σύστημα δίνοντας τους δικαιώματα διαχειριστή.</span>
 </li>
 <li class="links ">
-<a href="user-changepassword.html" title="Αλλάξτε τον κωδικό πρόσβασής σας">Αλλάξτε τον κωδικό πρόσβασής σας</a><span class="desc"> — Κρατήστε τον λογαριασμό σας ασφαλή αλλάζοντας τον κωδικό πρόσβασής σας συχνά στις ρυθμίσεις λογαριασμών.</span>
+<a href="user-changepassword.html.el" title="Αλλάξτε τον κωδικό πρόσβασής σας">Αλλάξτε τον κωδικό πρόσβασής σας</a><span class="desc"> — Κρατήστε τον λογαριασμό σας ασφαλή αλλάζοντας τον κωδικό πρόσβασής σας συχνά στις ρυθμίσεις λογαριασμών.</span>
 </li>
 <li class="links ">
-<a href="printing-name-location.html" title="Αλλαγή ονόματος ή θέσης ενός εκτυπωτή">Αλλαγή ονόματος ή θέσης ενός εκτυπωτή</a><span class="desc"> — Αλλάξτε το όνομα ή τη θέση ενός εκτυπωτή στις ρυθμίσεις εκτυπωτή.</span>
+<a href="printing-name-location.html.el" title="Αλλαγή ονόματος ή θέσης ενός εκτυπωτή">Αλλαγή ονόματος ή θέσης ενός εκτυπωτή</a><span class="desc"> — Αλλάξτε το όνομα ή τη θέση ενός εκτυπωτή στις ρυθμίσεις εκτυπωτή.</span>
 </li>
 <li class="links ">
-<a href="user-changepicture.html" title="Αλλαγή της φωτογραφίας οθόνης εισόδου">Αλλαγή της φωτογραφίας οθόνης εισόδου</a><span class="desc"> — Προσθέστε την φωτογραφία σας στη σύνδεση και τις οθόνες των χρηστών.</span>
+<a href="user-changepicture.html.el" title="Αλλαγή της φωτογραφίας οθόνης εισόδου">Αλλαγή της φωτογραφίας οθόνης εισόδου</a><span class="desc"> — Προσθέστε την φωτογραφία σας στη σύνδεση και τις οθόνες των χρηστών.</span>
 </li>
 <li class="links ">
-<a href="user-delete.html" title="Διαγραφή λογαριασμού χρήστη">Διαγραφή λογαριασμού χρήστη</a><span class="desc"> — Αφαιρέστε χρήστες που δεν χρησιμοποιούν πια τον υπολογιστή σας.</span>
+<a href="user-delete.html.el" title="Διαγραφή λογαριασμού χρήστη">Διαγραφή λογαριασμού χρήστη</a><span class="desc"> — Αφαιρέστε χρήστες που δεν χρησιμοποιούν πια τον υπολογιστή σας.</span>
 </li>
 <li class="links ">
-<a href="printing-setup-default-printer.html" title="Ορίστε τον προεπιλεγμένο εκτυπωτή">Ορίστε τον προεπιλεγμένο εκτυπωτή</a><span class="desc"> — Επιλέξτε τον εκτυπωτή που χρησιμοποιείτε πιο συχνά.</span>
+<a href="printing-setup-default-printer.html.el" title="Ορίστε τον προεπιλεγμένο εκτυπωτή">Ορίστε τον προεπιλεγμένο εκτυπωτή</a><span class="desc"> — Επιλέξτε τον εκτυπωτή που χρησιμοποιείτε πιο συχνά.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="Προβλήματα που προκαλούνται από διαχειριστικούς περιορισμούς">Προβλήματα που προκαλούνται από διαχειριστικούς περιορισμούς</a><span class="desc"> — Μπορείτε να κάνετε μόνο κάποια πράγματα, όπως εγκατάσταση εφαρμογών, μόνο εάν έχετε δικαιώματα διαχειριστή.</span>
+<a href="user-admin-problems.html.el" title="Προβλήματα που προκαλούνται από διαχειριστικούς περιορισμούς">Προβλήματα που προκαλούνται από διαχειριστικούς περιορισμούς</a><span class="desc"> — Μπορείτε να κάνετε μόνο κάποια πράγματα, όπως εγκατάσταση εφαρμογών, μόνο εάν έχετε δικαιώματα διαχειριστή.</span>
 </li>
 </ul></div>
 </div></div>

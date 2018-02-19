@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="disk.html" title="డిస్కులు మరియు నిల్వ">డిస్కులు మరియు నిల్వ</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.te" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="disk.html.te" title="డిస్కులు మరియు నిల్వ">డిస్కులు మరియు నిల్వ</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">మీ హార్డు డిస్కు యొక్క పనితనం పరిశీలించండి</span></h1></div>
@@ -52,14 +52,14 @@
 <p class="p">మీ హార్డు డిస్కు యొక్క వేగం పరిశీలించుటకు:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open <span class="app">Disks</span> from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.te#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview.</p></li>
 <li class="steps"><p class="p">Choose the disk from the list in the left pane.</p></li>
 <li class="steps"><p class="p">Click the menu button and select <span class="gui">Benchmark disk…</span> from the
       menu.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Start Benchmark…</span> and adjust the <span class="gui">Transfer
       Rate</span> and <span class="gui">Access Time</span> parameters as desired.</p></li>
 <li class="steps">
-<p class="p">డిస్కునుండి ఎంత త్వరగా దత్తాంశం చదువగల్గుతోందో పరీక్షించుటకు <span class="gui">బెంచ్‌మార్కింగ్ ప్రారంభించు</span> నొక్కుము. <span class="link"><a href="user-admin-explain.html" title="How do administrative privileges work?">నిర్వహణ అనుమతులు</a></span> అవసరం కావచ్చు. మీ సంకేతపదంను, లేదా అభ్యర్ధించిన నిర్వహణాధికారి ఖాతా కొరకు సంకేతపదమును ప్రవేశపెట్టుము.</p>
+<p class="p">డిస్కునుండి ఎంత త్వరగా దత్తాంశం చదువగల్గుతోందో పరీక్షించుటకు <span class="gui">బెంచ్‌మార్కింగ్ ప్రారంభించు</span> నొక్కుము. <span class="link"><a href="user-admin-explain.html.te" title="How do administrative privileges work?">నిర్వహణ అనుమతులు</a></span> అవసరం కావచ్చు. మీ సంకేతపదంను, లేదా అభ్యర్ధించిన నిర్వహణాధికారి ఖాతా కొరకు సంకేతపదమును ప్రవేశపెట్టుము.</p>
 <div class="note" title="చీటి"><div class="inner"><div class="region"><div class="contents"><p class="p">If <span class="gui">Perform write-benchmark</span> is checked, the benchmark
         will test how fast data can be read from and written to the disk. This
         will take longer to complete.</p></div></div></div></div>
@@ -73,7 +73,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="డిస్కులు మరియు నిల్వ">డిస్కులు మరియు నిల్వ</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="ఎంత డిస్కు జాగా మిగిలివుందో పరిశీలించు">డిస్కు జాగా</a></span>, <span class="link"><a href="disk-benchmark.html" title="మీ హార్డు డిస్కు యొక్క పనితనం పరిశీలించండి">పనితనం</a></span>, <span class="link"><a href="disk-check.html" title="హార్డు డిస్కు సమస్యలను పరిశీలించండి">సమస్యలు</a></span>, <span class="link"><a href="disk-partitions.html" title="వాల్యూమ్లు మరియు విభజనలు నిర్వహించుము">వాల్యూమ్లు మరియు విభజనలు</a></span>…</span>
+<a href="disk.html.te" title="డిస్కులు మరియు నిల్వ">డిస్కులు మరియు నిల్వ</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.te" title="ఎంత డిస్కు జాగా మిగిలివుందో పరిశీలించు">డిస్కు జాగా</a></span>, <span class="link"><a href="disk-benchmark.html.te" title="మీ హార్డు డిస్కు యొక్క పనితనం పరిశీలించండి">పనితనం</a></span>, <span class="link"><a href="disk-check.html.te" title="హార్డు డిస్కు సమస్యలను పరిశీలించండి">సమస్యలు</a></span>, <span class="link"><a href="disk-partitions.html.te" title="వాల్యూమ్లు మరియు విభజనలు నిర్వహించుము">వాల్యూమ్లు మరియు విభజనలు</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

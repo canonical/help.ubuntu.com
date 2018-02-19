@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="accounts.html" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακοί λογαριασμοί</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="accounts.html.el" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακοί λογαριασμοί</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Προσθήκη λογαριασμού</span></h1></div>
@@ -51,23 +51,23 @@
 <div class="contents">
 <p class="p">Η προσθήκη ενός λογαριασμού θα βοηθήσει τη σύνδεση των διαδικτυακών λογαριασμών σας με την επιφάνεια εργασίας του GNOME. Έτσι, το πρόγραμμα ηλεκτρονικής αλληλογραφίας σας, το πρόγραμμα συνομιλιών και άλλες σχετικές εφαρμογές θα ρυθμιστούν για σας.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Διαδικτυακοί λογαριασμοί</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Διαδικτυακοί λογαριασμοί</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Διαδικτυακοί λογαριασμοί</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο κουμπί <span class="key"><kbd>+</kbd></span> στο κάτω αριστερό τμήμα του παραθύρου.</p></li>
 <li class="steps"><p class="p">Επιλέξτε τον τύπο του λογαριασμού που θέλετε να προσθέσετε.</p></li>
 <li class="steps"><p class="p">Θα ανοίξει ένα μικρό παράθυρο με μια ιστοσελίδα στην οποία μπορείτε να εισάγετε τα διαπιστευτήρια του διαδικτυακού λογαριασμού σας. Για παράδειγμα, αν ρυθμίζεται έναν λογαριασμό στο Google, δώστε το όνομα χρήστη και τον κωδικό πρόσβασης που έχετε στο Google. Ορισμένοι πάροχοι σας επιτρέπουν να δημιουργήσετε ένα νέο λογαριασμό από τον διάλογο εισόδου.</p></li>
 <li class="steps"><p class="p">Εάν έχετε εισάγει τα διαπιστευτήριά σας σωστά, θα σας ζητηθεί να επιτρέψετε την πρόσβαση του GNOME στον διαδικτυακό λογαριασμό σας. Εξουσιοδοτήστε την πρόσβαση για να συνεχίσετε.</p></li>
-<li class="steps"><p class="p">Όλες οι υπηρεσίες που προσφέρονται από έναν πάροχο λογαριασμού θα ενεργοποιηθούν από προεπιλογή. <span class="link"><a href="accounts-disable-service.html" title="Ελέγξτε ποιες διαδικτυακές υπηρεσίες ενός λογαριασμού μπορούν να χρησιμοποιηθούν για πρόσβαση">Αλλάξτε</a></span> τις ατομικές υπηρεσίες σε <span class="gui">ΟΧΙ</span> για να τις απενεργοποιήσετε.</p></li>
+<li class="steps"><p class="p">Όλες οι υπηρεσίες που προσφέρονται από έναν πάροχο λογαριασμού θα ενεργοποιηθούν από προεπιλογή. <span class="link"><a href="accounts-disable-service.html.el" title="Ελέγξτε ποιες διαδικτυακές υπηρεσίες ενός λογαριασμού μπορούν να χρησιμοποιηθούν για πρόσβαση">Αλλάξτε</a></span> τις ατομικές υπηρεσίες σε <span class="gui">ΟΧΙ</span> για να τις απενεργοποιήσετε.</p></li>
 </ol></div></div></div>
-<p class="p">Αφού έχετε προσθέσει λογαριασμούς, οι εφαρμογές μπορούν να τους χρησιμοποιήσουν για τις υπηρεσίες που έχετε επιτρέψει. Για περισσότερες πληροφορίες στον έλεγχο των υπηρεσιών δείτε  <span class="link"><a href="accounts-disable-service.html" title="Ελέγξτε ποιες διαδικτυακές υπηρεσίες ενός λογαριασμού μπορούν να χρησιμοποιηθούν για πρόσβαση">Ελέγξτε ποιες διαδικτυακές υπηρεσίες ενός λογαριασμού μπορούν να χρησιμοποιηθούν για πρόσβαση</a></span>.</p>
-<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Αρκετές διαδικτυακές υπηρεσίες παρέχουν ένα διακριτικό εξουσιοδότησης το οποίο αποθηκεύει το GNOME αντί για τον κωδικό πρόσβασης σας. Αν αφαιρέσετε έναν λογαριασμό, θα πρέπει επίσης να ανακαλέσετε αυτό το πιστοποιητικό στην διαδικτυακή υπηρεσία. Για περισσότερες πληροφορίες δείτε <span class="link"><a href="accounts-remove.html" title="Αφαίρεση λογαριασμού">Αφαίρεση λογαριασμού</a></span>.</p></div></div></div></div>
+<p class="p">Αφού έχετε προσθέσει λογαριασμούς, οι εφαρμογές μπορούν να τους χρησιμοποιήσουν για τις υπηρεσίες που έχετε επιτρέψει. Για περισσότερες πληροφορίες στον έλεγχο των υπηρεσιών δείτε  <span class="link"><a href="accounts-disable-service.html.el" title="Ελέγξτε ποιες διαδικτυακές υπηρεσίες ενός λογαριασμού μπορούν να χρησιμοποιηθούν για πρόσβαση">Ελέγξτε ποιες διαδικτυακές υπηρεσίες ενός λογαριασμού μπορούν να χρησιμοποιηθούν για πρόσβαση</a></span>.</p>
+<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Αρκετές διαδικτυακές υπηρεσίες παρέχουν ένα διακριτικό εξουσιοδότησης το οποίο αποθηκεύει το GNOME αντί για τον κωδικό πρόσβασης σας. Αν αφαιρέσετε έναν λογαριασμό, θα πρέπει επίσης να ανακαλέσετε αυτό το πιστοποιητικό στην διαδικτυακή υπηρεσία. Για περισσότερες πληροφορίες δείτε <span class="link"><a href="accounts-remove.html.el" title="Αφαίρεση λογαριασμού">Αφαίρεση λογαριασμού</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακοί λογαριασμοί</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Προσθήκη λογαριασμού">Προσθήκη διαδικτυακού λογαριασμού</a></span>, <span class="link"><a href="accounts-remove.html" title="Αφαίρεση λογαριασμού">Αφαίρεση λογαριασμού</a></span>, <span class="link"><a href="accounts-which-application.html" title="Διαδικτυακές υπηρεσίες και εφαρμογές">Μάθετε σχετικά με τις υπηρεσίες</a></span>…</span>
+<a href="accounts.html.el" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακοί λογαριασμοί</a><span class="desc"> — <span class="link"><a href="accounts-add.html.el" title="Προσθήκη λογαριασμού">Προσθήκη διαδικτυακού λογαριασμού</a></span>, <span class="link"><a href="accounts-remove.html.el" title="Αφαίρεση λογαριασμού">Αφαίρεση λογαριασμού</a></span>, <span class="link"><a href="accounts-which-application.html.el" title="Διαδικτυακές υπηρεσίες και εφαρμογές">Μάθετε σχετικά με τις υπηρεσίες</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

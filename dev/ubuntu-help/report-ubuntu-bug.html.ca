@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html" title="Obteniu més ajuda">Obteniu més ajuda</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.ca" title="Obteniu més ajuda">Obteniu més ajuda</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Informeu d'un problema a l'Ubuntu</span></h1></div>
@@ -92,16 +92,16 @@ repositories. In this case, you cannot use Ubuntu's built-in bug reporting tool.
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html" title="Obteniu més ajuda">Obteniu més ajuda</a><span class="desc"> — 
-        <span class="link"><a href="about-this-guide.html" title="Quant a aquesta guia">Tips on using this guide</a></span>,
-        <span class="link"><a href="get-involved.html" title="Participeu en la millora d'aquesta guia">help improve this guide</a></span>…
+<a href="more-help.html.ca" title="Obteniu més ajuda">Obteniu més ajuda</a><span class="desc"> — 
+        <span class="link"><a href="about-this-guide.html.ca" title="Quant a aquesta guia">Tips on using this guide</a></span>,
+        <span class="link"><a href="get-involved.html.ca" title="Participeu en la millora d'aquesta guia">help improve this guide</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="get-involved.html" title="Participeu en la millora d'aquesta guia">Participeu en la millora d'aquesta guia</a><span class="desc"> — On i com podeu informar sobre problemes d'aquesta ajuda.</span>
+<a href="get-involved.html.ca" title="Participeu en la millora d'aquesta guia">Participeu en la millora d'aquesta guia</a><span class="desc"> — On i com podeu informar sobre problemes d'aquesta ajuda.</span>
 </li></ul></div>
 </div></div>
 </div>

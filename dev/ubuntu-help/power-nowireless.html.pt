@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="power.html#problems" title="Problemas">Problemas de energia</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.pt#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="power.html.pt#problems" title="Problemas">Problemas de energia</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Não tenho conexão sem fios à rede quando acordo minha computador</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Se tem suspendido o seu computador, pode encontrar que a sua conexão sem fios a Internet não funciona quando se acorda de novo. Isto sucede quando os <span class="link"><a href="hardware-driver.html" title="Que é um controlador?">controladores</a></span> do dispositivo sem fios, não são totalmente compatíveis com determinadas caraterísticas de poupança de energia. Normalmente, a conexão sem fios não se acende corretamente quando a computador se reativa.</p>
+<p class="p">Se tem suspendido o seu computador, pode encontrar que a sua conexão sem fios a Internet não funciona quando se acorda de novo. Isto sucede quando os <span class="link"><a href="hardware-driver.html.pt" title="Que é um controlador?">controladores</a></span> do dispositivo sem fios, não são totalmente compatíveis com determinadas caraterísticas de poupança de energia. Normalmente, a conexão sem fios não se acende corretamente quando a computador se reativa.</p>
 <p class="p">Se isto passa, tente apagar seu adaptador sem fios e o voltar a acender:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Rede</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Rede</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Rede</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione <span class="gui">sem fios</span>.</p></li>
 <li class="steps"><p class="p"><span class="gui">Apague</span> seu cartão sem fios e volte a <span class="gui">acendê-la</span>.</p></li>
@@ -66,17 +66,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html#problems" title="Problemas">Problemas de energia</a><span class="desc"> — Resolução de problemas sobre energia e bateria.</span>
+<a href="power.html.pt#problems" title="Problemas">Problemas de energia</a><span class="desc"> — Resolução de problemas sobre energia e bateria.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspendfail.html" title="Por que minha computador não reage após o ter enviado suspendido?">Por que minha computador não reage após o ter enviado suspendido?</a><span class="desc"> — Alguns componentes hardware da computador dão problemas ao suspender.</span>
+<a href="power-suspendfail.html.pt" title="Por que minha computador não reage após o ter enviado suspendido?">Por que minha computador não reage após o ter enviado suspendido?</a><span class="desc"> — Alguns componentes hardware da computador dão problemas ao suspender.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="Que é um controlador?">Que é um controlador?</a><span class="desc"> — Um controlador de hardware/dispositivo é aquilo que permite o seu computador usar dispositivos que estão ligados a ele.</span>
+<a href="hardware-driver.html.pt" title="Que é um controlador?">Que é um controlador?</a><span class="desc"> — Um controlador de hardware/dispositivo é aquilo que permite o seu computador usar dispositivos que estão ligados a ele.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-general.html" title="Όροι δικτύωσης &amp; συμβουλές">Όροι δικτύωσης &amp; συμβουλές</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-general.html.el" title="Όροι δικτύωσης &amp; συμβουλές">Όροι δικτύωσης &amp; συμβουλές</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Τι είναι μια διεύθυνση MAC;</span></h1></div>
@@ -53,7 +53,7 @@
 <p class="p">Μια διεύθυνση MAC αποτελείται από έξι σύνολα των δύο χαρακτήρων, που ο καθένας χωρίζεται από μια διπλή τελεία. <span class="code">00:1B:44:11:3A:B7</span> είναι ένα παράδειγμα μιας διεύθυνσης MAC.</p>
 <p class="p">Για να ταυτοποιήσετε τη διεύθυνση MAC του δικού σας υλικού δικτύου:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Δίκτυο</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Δίκτυο</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Δίκτυο</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps">
 <p class="p">Επιλέξτε τη συσκευή, <span class="gui">Wi-Fi</span> ή <span class="gui">Ενσύμαρτη</span>, από τον αριστερό πίνακα.</p>
@@ -72,7 +72,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Όροι δικτύωσης &amp; συμβουλές">Όροι δικτύωσης &amp; συμβουλές</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Βρείτε τη διεύθυνση IP σας">Βρείτε τη διεύθυνσή σας IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Τι σημαίνουν τα WEP και WPA;">WEP &amp; ασφάλεια WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Τι είναι μια διεύθυνση MAC;">Διευθύνσεις MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Ορισμός ρυθμίσεων διαμεσολαβητή">Διαμεσολαβητές</a></span>…</span>
+<a href="net-general.html.el" title="Όροι δικτύωσης &amp; συμβουλές">Όροι δικτύωσης &amp; συμβουλές</a><span class="desc"> — <span class="link"><a href="net-findip.html.el" title="Βρείτε τη διεύθυνση IP σας">Βρείτε τη διεύθυνσή σας IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.el" title="Τι σημαίνουν τα WEP και WPA;">WEP &amp; ασφάλεια WPA</a></span>, <span class="link"><a href="net-macaddress.html.el" title="Τι είναι μια διεύθυνση MAC;">Διευθύνσεις MAC</a></span>, <span class="link"><a href="net-proxy.html.el" title="Ορισμός ρυθμίσεων διαμεσολαβητή">Διαμεσολαβητές</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Trådbundna nätverk</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html" title="Anslut till ett trådbundet (Ethernet) nätverk"><span class="title">Anslut till ett trådbundet (Ethernet) nätverk</span><span class="linkdiv-dash"> — </span><span class="desc">För att ställa in de flesta trådbundna anslutningar, är allt du behöver göra att ansluta nätverkskabeln.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Ange nätverksinställningar manuellt"><span class="title">Ange nätverksinställningar manuellt</span><span class="linkdiv-dash"> — </span><span class="desc">Du kan behöva mata in nätverksinställningar om de inte tilldelas automatiskt.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Anslut till ett VPN"><span class="title">Anslut till ett VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Ställ in en VPN-anslutning till ett lokalt nätverk över internet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html" title="Skapa en anslutning med en fast IP-adress"><span class="title">Skapa en anslutning med en fast IP-adress</span><span class="linkdiv-dash"> — </span><span class="desc">Att använda en statisk IP-adress kan göra det enklare att erbjuda vissa nätverkstjänster från din dator.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html.sv" title="Anslut till ett trådbundet (Ethernet) nätverk"><span class="title">Anslut till ett trådbundet (Ethernet) nätverk</span><span class="linkdiv-dash"> — </span><span class="desc">För att ställa in de flesta trådbundna anslutningar, är allt du behöver göra att ansluta nätverkskabeln.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html.sv" title="Ange nätverksinställningar manuellt"><span class="title">Ange nätverksinställningar manuellt</span><span class="linkdiv-dash"> — </span><span class="desc">Du kan behöva mata in nätverksinställningar om de inte tilldelas automatiskt.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html.sv" title="Anslut till ett VPN"><span class="title">Anslut till ett VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Ställ in en VPN-anslutning till ett lokalt nätverk över internet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html.sv" title="Skapa en anslutning med en fast IP-adress"><span class="title">Skapa en anslutning med en fast IP-adress</span><span class="linkdiv-dash"> — </span><span class="desc">Att använda en statisk IP-adress kan göra det enklare att erbjuda vissa nätverkstjänster från din dator.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Trådlösa nätverk">Trådlöst</a></span>, <span class="link"><a href="net-wired.html" title="Trådbundna nätverk">trådbundet</a></span>, <span class="link"><a href="net-problem.html" title="Nätverksproblem">anslutningsproblem</a></span>, <span class="link"><a href="net-browser.html" title="Webbläsare">webbsurfning</a></span>, <span class="link"><a href="net-email.html" title="E-post &amp; e-postprogramvara">e-postkonton</a></span>…</span>
+<a href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlöst</a></span>, <span class="link"><a href="net-wired.html.sv" title="Trådbundna nätverk">trådbundet</a></span>, <span class="link"><a href="net-problem.html.sv" title="Nätverksproblem">anslutningsproblem</a></span>, <span class="link"><a href="net-browser.html.sv" title="Webbläsare">webbsurfning</a></span>, <span class="link"><a href="net-email.html.sv" title="E-post &amp; e-postprogramvara">e-postkonton</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

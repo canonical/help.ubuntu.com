@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Adicionar/remover programa</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.pt-BR" title="Install &amp; remove software">Adicionar/remover programa</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Install languages</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">When you install Ubuntu, the language you select at installation gets
   installed together with English, but you can add further languages.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
@@ -63,7 +63,7 @@
 <li class="steps"><p class="p">Check the languages you want to install, and uncheck those
       currently installed languages you want to remove.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Apply Changes</span>.</p></li>
-<li class="steps"><p class="p"><span class="link"><a href="user-admin-explain.html" title="Como funcionam os privilégios administrativos?">Privilégios administrativos</a></span> são necessários. Informe sua senha ou a senha para a conta de administrador que for requisitada.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="user-admin-explain.html.pt-BR" title="Como funcionam os privilégios administrativos?">Privilégios administrativos</a></span> são necessários. Informe sua senha ou a senha para a conta de administrador que for requisitada.</p></li>
 </ol></div></div></div>
 <p class="p">In addition to the translations used to display menus and messages,
   with a new language may follow various language support components such
@@ -76,10 +76,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Remover um aplicativo">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+<a href="addremove.html.pt-BR" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
+      <span class="link"><a href="addremove-install.html.pt-BR" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.pt-BR" title="Remover um aplicativo">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.pt-BR" title="Add software repositories">add repositories</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -87,7 +87,7 @@
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Install additional applications">
+<a href="addremove-install.html.pt-BR" title="Install additional applications">
     Install additional applications
   </a><span class="desc"> — 
       Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
@@ -95,7 +95,7 @@
     </span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Região &amp; idioma">Região &amp; idioma</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Alterando que idioma você usa">Idioma</a></span>, <span class="link"><a href="session-formats.html" title="Alterando os formatos de data e medidas">região e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">disposições de teclado</a></span>…</span>
+<a href="prefs-language.html.pt-BR" title="Região &amp; idioma">Região &amp; idioma</a><span class="desc"> — <span class="link"><a href="session-language.html.pt-BR" title="Alterando que idioma você usa">Idioma</a></span>, <span class="link"><a href="session-formats.html.pt-BR" title="Alterando os formatos de data e medidas">região e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html.pt-BR" title="Use alternative keyboard layouts">disposições de teclado</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

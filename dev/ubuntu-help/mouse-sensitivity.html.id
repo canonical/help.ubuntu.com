@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html" title="Akses universal">Akses universal</a> › <a class="trail" href="a11y.html#mobility" title="Masalah mobilitas">Masalah mobilitas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html.id" title="Akses universal">Akses universal</a> › <a class="trail" href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="mouse.html" title="Tetikus">Tetikus</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="mouse.html.id" title="Tetikus">Tetikus</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="mouse.html" title="Tetikus">Tetikus</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="mouse.html.id" title="Tetikus">Tetikus</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <p class="p">If your pointer moves too fast or slow when you move your mouse or use
   your touchpad, you can adjust the pointer speed for these devices.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Tetikus &amp; Touchpad</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Adjust the <span class="gui">Pointer Speed</span> slider until the pointer motion
@@ -78,9 +78,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Masalah mobilitas">Masalah mobilitas</a></li>
+<li class="links "><a href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a></li>
 <li class="links ">
-<a href="mouse.html" title="Tetikus">Tetikus</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Gunakan tetikus Anda secara kidal">Kidal</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Menyetel kecepatan tetikus dan touchpad">kecepatan dan kepekaan</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">mengklik dan menggulir touchpad</a></span>…</span>
+<a href="mouse.html.id" title="Tetikus">Tetikus</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.id" title="Gunakan tetikus Anda secara kidal">Kidal</a></span>, <span class="link"><a href="mouse-sensitivity.html.id" title="Menyetel kecepatan tetikus dan touchpad">kecepatan dan kepekaan</a></span>, <span class="link"><a href="mouse-touchpad-click.html.id" title="Click, drag, or scroll with the touchpad">mengklik dan menggulir touchpad</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

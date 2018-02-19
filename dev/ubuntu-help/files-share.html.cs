@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="sharing.html" title="Sdílení">Sdílení</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="sharing.html.cs" title="Sdílení">Sdílení</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Když chcete sdílet soubor přes e-mail:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Z přehledu <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> otevřete aplikaci <span class="app">Soubory</span>.</p></li>
+<li class="steps"><p class="p">Z přehledu <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> otevřete aplikaci <span class="app">Soubory</span>.</p></li>
 <li class="steps"><p class="p">Vyhledejte soubor, který chcete přenést.</p></li>
 <li class="steps"><p class="p">Klikněte na soubor pravým tlačítkem a vyberte <span class="gui">Poslat e-mailem…</span> Objeví se okno editoru zprávy, ve které bude soubor nachystán jako příloha.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Komu</span>, abyste vybrali kontakt nebo ručně zadejte e-mailovou adresu, na kterou chcete soubor poslat. Podle potřeby vyplňte <span class="gui">Předmět</span> a tělo zprávy a klikněte na <span class="gui">Poslat</span>.</p></li>
@@ -73,19 +73,19 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Sdílení">Sdílení</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Sdílení vaší plochy">Sdílení pracovní plochy</a></span>, <span class="link"><a href="files-share.html" title="Sdílení souborů přes e-mail">sdílení souborů přes e-mail</a></span>, <span class="link"><a href="sharing-media.html" title="Sdílení vaší hudby, fotografií a videí">sdílení multimédií</a></span>…</span>
+<a href="sharing.html.cs" title="Sdílení">Sdílení</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.cs" title="Sdílení vaší plochy">Sdílení pracovní plochy</a></span>, <span class="link"><a href="files-share.html.cs" title="Sdílení souborů přes e-mail">sdílení souborů přes e-mail</a></span>, <span class="link"><a href="sharing-media.html.cs" title="Sdílení vaší hudby, fotografií a videí">sdílení multimédií</a></span>…</span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a></li>
+<li class="links "><a href="files.html.cs#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-send-file.html" title="Posílání souborů do zařízení Bluetooth">Posílání souborů do zařízení Bluetooth</a><span class="desc"> — Jak sdílet soubory se zařízením Bluetooth, třeba s telefonem.</span>
+<a href="bluetooth-send-file.html.cs" title="Posílání souborů do zařízení Bluetooth">Posílání souborů do zařízení Bluetooth</a><span class="desc"> — Jak sdílet soubory se zařízením Bluetooth, třeba s telefonem.</span>
 </li>
 <li class="links ">
-<a href="nautilus-connect.html" title="Procházení souborů na serveru nebo síťovém sdílení">Procházení souborů na serveru nebo síťovém sdílení</a><span class="desc"> — Jak zobrazit a upravit soubory na jiných počítačích přes FTP, SSH, sdílení Windows nebo WebDAV.</span>
+<a href="nautilus-connect.html.cs" title="Procházení souborů na serveru nebo síťovém sdílení">Procházení souborů na serveru nebo síťovém sdílení</a><span class="desc"> — Jak zobrazit a upravit soubory na jiných počítačích přes FTP, SSH, sdílení Windows nebo WebDAV.</span>
 </li>
 </ul></div>
 </div></div>

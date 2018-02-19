@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="power.html" title="Питание и аккумулятор">Питание и аккумулятор</a> › <a class="trail" href="power.html#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="power.html.ru" title="Питание и аккумулятор">Питание и аккумулятор</a> › <a class="trail" href="power.html.ru#saving" title="Power saving settings">Power saving settings</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html#problems" title="Типичные проблемы">Неполадки</a> » <a class="trail" href="hardware-problems-graphics.html" title="Проблемы с экраном">Проблемы с экраном</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки</a> » <a class="trail" href="hardware-problems-graphics.html.ru" title="Проблемы с экраном">Проблемы с экраном</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="power.html" title="Питание и аккумулятор">Питание и аккумулятор</a> › <a class="trail" href="power.html#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="power.html.ru" title="Питание и аккумулятор">Питание и аккумулятор</a> › <a class="trail" href="power.html.ru#saving" title="Power saving settings">Power saving settings</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <p class="p">Во время простоя компьютера, в целях экономии энергии, яркость экрана будет уменьшаться, если это позволяет аппаратная конфигурация. Когда вы снова начнёте пользоваться компьютером, яркость увеличится.</p>
 <p class="p">To stop the screen from dimming itself:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span>
       overview and start typing <span class="gui">Power</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Dim screen when inactive</span> to <span class="gui">OFF</span> in the <span class="gui">Power
@@ -71,9 +71,9 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="power.html#saving" title="Power saving settings">Power saving settings</a></li>
+<li class="links "><a href="power.html.ru#saving" title="Power saving settings">Power saving settings</a></li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Проблемы с экраном">Проблемы с экраном</a><span class="desc"> — Устранение проблем с экраном и графикой.</span>
+<a href="hardware-problems-graphics.html.ru" title="Проблемы с экраном">Проблемы с экраном</a><span class="desc"> — Устранение проблем с экраном и графикой.</span>
 </li>
 </ul></div>
 </div></div>
@@ -81,14 +81,14 @@
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="display-blank.html" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Change the screen blanking time to save power.</span>
+<a href="display-blank.html.ru" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Change the screen blanking time to save power.</span>
 </li>
 <li class="links ">
-<a href="display-brightness.html" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
+<a href="display-brightness.html.ru" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
     light.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора">Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора</a><span class="desc"> — Советы по уменьшению энергопотребления компьютера</span>
+<a href="power-batterylife.html.ru" title="Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора">Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора</a><span class="desc"> — Советы по уменьшению энергопотребления компьютера</span>
 </li>
 </ul></div>
 </div></div>

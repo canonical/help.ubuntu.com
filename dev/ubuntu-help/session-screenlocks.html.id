@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="hardware-problems-graphics.html" title="Masalah layar">Masalah layar</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html.id#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="hardware-problems-graphics.html.id" title="Masalah layar">Masalah layar</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="prefs-display.html" title="Tampilan &amp; layar">Tampilan &amp; layar</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
   screen locks itself too quickly.</p>
 <p class="p">To wait a longer period before the screen is automatically locked:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Privasi</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Privasi</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Privasi</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Tekan pada <span class="gui">Kunci Layar</span>.</p></li>
 <li class="steps"><p class="p">If <span class="gui">Automatic Screen Lock</span> is on, you can change the value
@@ -76,23 +76,23 @@
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Masalah layar">Masalah layar</a><span class="desc"> — Melacak masalah layar dan grafis.</span>
+<a href="hardware-problems-graphics.html.id" title="Masalah layar">Masalah layar</a><span class="desc"> — Melacak masalah layar dan grafis.</span>
 </li>
 <li class="links ">
-<a href="prefs-display.html" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Latar belakang</a></span>, <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">ukuran dan rotasi</a></span>, kecerahan…</span>
+<a href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — <span class="link"><a href="look-background.html.id" title="Change the desktop and lock screen backgrounds">Latar belakang</a></span>, <span class="link"><a href="look-resolution.html.id" title="Change the resolution or rotation of the screen">ukuran dan rotasi</a></span>, kecerahan…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Kunci layar">Kunci layar</a></li>
+<li class="links "><a href="shell-exit.html.id#lock-screen" title="Kunci layar">Kunci layar</a></li>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Secara otomatis mengunci layar Anda">Secara otomatis mengunci layar Anda</a><span class="desc"> — Prevent other people from using your desktop when you
+<a href="privacy-screen-lock.html.id" title="Secara otomatis mengunci layar Anda">Secara otomatis mengunci layar Anda</a><span class="desc"> — Prevent other people from using your desktop when you
     go away from your computer.</span>
 </li>
 <li class="links ">
-<a href="display-blank.html" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Change the screen blanking time to save power.</span>
+<a href="display-blank.html.id" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Change the screen blanking time to save power.</span>
 </li>
 </ul></div>
 </div></div>

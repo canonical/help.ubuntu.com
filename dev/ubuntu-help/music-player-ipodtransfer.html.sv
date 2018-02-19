@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="media.html" title="Ljud, video och bilder">Ljud, video och bilder</a> › <a class="trail" href="media.html#music" title="Musik och bärbara ljudspelare">Musik och spelare</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="media.html.sv" title="Ljud, video och bilder">Ljud, video och bilder</a> › <a class="trail" href="media.html.sv#music" title="Musik och bärbara ljudspelare">Musik och spelare</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Låtar visas inte på min iPod när jag kopierar över dem</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">När du kopplar en iPod till din dator kommer den att visas i ditt musikspelarprogram och också i filhanteraren (programmet <span class="app">Filer</span> i översiktsvyn <span class="gui">Aktiviteter</span>). Du måste kopiera låtar till din iPod via musikspelaren — om du kopierar dem via filhanteraren så kommer det inte att fungera eftersom låtarna inte kommer att hamna på rätt ställe. IPod:ar har en speciell plats för att spara låtar som musikspelarprogrammet känner till hur man når, men som filhanteraren inte känner till.</p>
-<p class="p">Du måste också vänta på att låtarna ska sluta kopieras till iPod:en innan du kopplar från den. Innan du kopplar från iPod:en, försäkra dig om att du valt att göra en <span class="link"><a href="files-removedrive.html" title="Säker borttagning av extern enhet">säker borttagning av den</a></span>. Detta kommer att säkerställa att alla låtarna har kopierats korrekt.</p>
+<p class="p">Du måste också vänta på att låtarna ska sluta kopieras till iPod:en innan du kopplar från den. Innan du kopplar från iPod:en, försäkra dig om att du valt att göra en <span class="link"><a href="files-removedrive.html.sv" title="Säker borttagning av extern enhet">säker borttagning av den</a></span>. Detta kommer att säkerställa att alla låtarna har kopierats korrekt.</p>
 <p class="p">Ytterligare ett skäl till varför låtar kanske inte syns på din iPod kan vara att musikspelarprogrammet du använder inte har stöd för att konvertera låtarna från ett ljudformat till ett annat. Om du kopierar en låt som är sparade i ett ljudformat som inte har stöd för din iPod (till exempel en Ogg Vorbis-fil (.oga)) kommer musikspelaren att försöka konvertera den till ett format som iPod:en förstår, exempelvis MP3. Om det lämpliga konverteringsprogrammet (också känt som kodek eller kodare) inte är installerat kommer musikspelaren inte att kunna konvertera och kommer därför inte att kopiera låten. Leta i programinstalleraren efter en lämplig kodek.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#music" title="Musik och bärbara ljudspelare">Musik och spelare</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.sv#music" title="Musik och bärbara ljudspelare">Musik och spelare</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

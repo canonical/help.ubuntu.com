@@ -43,74 +43,74 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Uživatelská a systémová nastavení</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="startup-applications.html" title="Aplikace po spuštění">Aplikace po spuštění</a></div>
+<div class="links-grid-link"><a href="startup-applications.html.cs" title="Aplikace po spuštění">Aplikace po spuštění</a></div>
 <div class="desc"><span class="desc">Vyberte, které aplikace se mají spustit po přihlášení.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="clock.html" title="Datum a čas">Datum a čas</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="clock-set.html" title="Změna data a času">Nastavení data a času</a></span>, <span class="link"><a href="clock-world.html" title="Přidání světového času">světové časy</a></span>, <span class="link"><a href="clock-timezone.html" title="Změna vašeho časového pásma">časové pásmo</a></span>, <span class="link"><a href="clock-calendar.html" title="Kalendářové události">kalendář a události</a></span>…</span></div>
+<div class="links-grid-link"><a href="clock.html.cs" title="Datum a čas">Datum a čas</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-set.html.cs" title="Změna data a času">Nastavení data a času</a></span>, <span class="link"><a href="clock-world.html.cs" title="Přidání světového času">světové časy</a></span>, <span class="link"><a href="clock-timezone.html.cs" title="Změna vašeho časového pásma">časové pásmo</a></span>, <span class="link"><a href="clock-calendar.html.cs" title="Kalendářové události">kalendář a události</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-display.html" title="Displej a obrazovka">Displej a obrazovka</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="look-background.html" title="Změna pozadí pracovní plochy a uzamknuté obrazovky">Pozadí</a></span>, <span class="link"><a href="look-resolution.html" title="Změna rozlišení nebo otočení obrazovky">velikost a otočení</a></span>, jas…</span></div>
+<div class="links-grid-link"><a href="prefs-display.html.cs" title="Displej a obrazovka">Displej a obrazovka</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="look-background.html.cs" title="Změna pozadí pracovní plochy a uzamknuté obrazovky">Pozadí</a></span>, <span class="link"><a href="look-resolution.html.cs" title="Změna rozlišení nebo otočení obrazovky">velikost a otočení</a></span>, jas…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="wacom.html" title="Grafický tablet Wacom">Grafický tablet Wacom</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="wacom-multi-monitor.html" title="Výběr obrazovky">Namapování obrazovky</a></span>, <span class="link"><a href="wacom-stylus.html" title="Nastavení stylusu">nastavení stylusu</a></span>, <span class="link"><a href="wacom-left-handed.html" title="Používání tabletu leváky">používání tabletu leváky</a></span>…</span></div>
+<div class="links-grid-link"><a href="wacom.html.cs" title="Grafický tablet Wacom">Grafický tablet Wacom</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="wacom-multi-monitor.html.cs" title="Výběr obrazovky">Namapování obrazovky</a></span>, <span class="link"><a href="wacom-stylus.html.cs" title="Nastavení stylusu">nastavení stylusu</a></span>, <span class="link"><a href="wacom-left-handed.html.cs" title="Používání tabletu leváky">používání tabletu leváky</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="keyboard.html" title="Klávesnice">Klávesnice</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span></div>
+<div class="links-grid-link"><a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.cs" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html.cs#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html" title="Myš">Myš</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html" title="Používání myši leváky">Pro leváky</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Uzpůsobení rychlosti myši a touchpadu">rychlost a citlivost</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Klikání, přetahování a posuv na touchpadu">klikání a posuv na touchpadu</a></span>…</span></div>
+<div class="links-grid-link"><a href="mouse.html.cs" title="Myš">Myš</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.cs" title="Používání myši leváky">Pro leváky</a></span>, <span class="link"><a href="mouse-sensitivity.html.cs" title="Uzpůsobení rychlosti myši a touchpadu">rychlost a citlivost</a></span>, <span class="link"><a href="mouse-touchpad-click.html.cs" title="Klikání, přetahování a posuv na touchpadu">klikání a posuv na touchpadu</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="power.html" title="Napájení a baterie">Napájení a baterie</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="power-status.html" title="Kontrola stavu baterie">Stav baterie</a></span>, <span class="link"><a href="power-suspend.html" title="Co se stane, když svůj počítač uspím?">uspání</a></span>, <span class="link"><a href="power-whydim.html" title="Proč moje obrazovka po krátké době potemní?">stmívání obrazovky</a></span>…</span></div>
+<div class="links-grid-link"><a href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="power-status.html.cs" title="Kontrola stavu baterie">Stav baterie</a></span>, <span class="link"><a href="power-suspend.html.cs" title="Co se stane, když svůj počítač uspím?">uspání</a></span>, <span class="link"><a href="power-whydim.html.cs" title="Proč moje obrazovka po krátké době potemní?">stmívání obrazovky</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-sharing.html" title="Nastavení sdílení">Nastavení sdílení</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sharing-bluetooth.html" title="Ovládání sdílení po Bluetooth">Sdílení po Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html" title="Sdílení vašich osobních souborů">sdílení osobních souborů</a></span>, <span class="link"><a href="sharing-desktop.html" title="Sdílení vaší plochy">sdílení obrazovky</a></span>, <span class="link"><a href="sharing-media.html" title="Sdílení vaší hudby, fotografií a videí">sdílení médií</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs-sharing.html.cs" title="Nastavení sdílení">Nastavení sdílení</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-bluetooth.html.cs" title="Ovládání sdílení po Bluetooth">Sdílení po Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.cs" title="Sdílení vašich osobních souborů">sdílení osobních souborů</a></span>, <span class="link"><a href="sharing-desktop.html.cs" title="Sdílení vaší plochy">sdílení obrazovky</a></span>, <span class="link"><a href="sharing-media.html.cs" title="Sdílení vaší hudby, fotografií a videí">sdílení médií</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="privacy.html" title="Nastavení soukromí">Nastavení soukromí</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="privacy-screen-lock.html" title="Automatické zamykání obrazovky">Zamknutí obrazovky</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Vypněte nebo omezte sledování historie souborů">použití a historie</a></span>, <span class="link"><a href="privacy-purge.html" title="Vysypání koše a smazání dočasných souborů">vysypání koše a dočasných souborů</a></span>…</span></div>
+<div class="links-grid-link"><a href="privacy.html.cs" title="Nastavení soukromí">Nastavení soukromí</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="privacy-screen-lock.html.cs" title="Automatické zamykání obrazovky">Zamknutí obrazovky</a></span>, <span class="link"><a href="privacy-history-recent-off.html.cs" title="Vypněte nebo omezte sledování historie souborů">použití a historie</a></span>, <span class="link"><a href="privacy-purge.html.cs" title="Vysypání koše a smazání dočasných souborů">vysypání koše a dočasných souborů</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-language.html" title="Region a jazyk">Region a jazyk</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-language.html" title="Změna jazyka, který používáte">Jazyk</a></span>, <span class="link"><a href="session-formats.html" title="Změna formátů data a měrných jednotek">region a formáty</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">rozložení klávesnice</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs-language.html.cs" title="Region a jazyk">Region a jazyk</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.cs" title="Změna jazyka, který používáte">Jazyk</a></span>, <span class="link"><a href="session-formats.html.cs" title="Změna formátů data a měrných jednotek">region a formáty</a></span>, <span class="link"><a href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice">rozložení klávesnice</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html" title="Správa barev">Správa barev</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Proč je správa barev důležitá?">Proč je to důležité</a></span>, <span class="link"><a href="color.html#profiles" title="Profily barev">profily barev</a></span>, <span class="link"><a href="color.html#calibration" title="Kalibrace">jak zkalibrovat zařízení</a></span>…</span></div>
+<div class="links-grid-link"><a href="color.html.cs" title="Správa barev">Správa barev</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.cs" title="Proč je správa barev důležitá?">Proč je to důležité</a></span>, <span class="link"><a href="color.html.cs#profiles" title="Profily barev">profily barev</a></span>, <span class="link"><a href="color.html.cs#calibration" title="Kalibrace">jak zkalibrovat zařízení</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="user-accounts.html" title="Uživatelské účty">Uživatelské účty</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="user-add.html" title="Přidání nového uživatelského účtu">Přidání uživatele</a></span>, <span class="link"><a href="user-changepassword.html" title="Změna vašeho hesla">změna hesla</a></span>, <span class="link"><a href="user-admin-change.html" title="Změna osob s oprávněním správce">správci</a></span>…</span></div>
+<div class="links-grid-link"><a href="user-accounts.html.cs" title="Uživatelské účty">Uživatelské účty</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="user-add.html.cs" title="Přidání nového uživatelského účtu">Přidání uživatele</a></span>, <span class="link"><a href="user-changepassword.html.cs" title="Změna vašeho hesla">změna hesla</a></span>, <span class="link"><a href="user-admin-change.html.cs" title="Změna osob s oprávněním správce">správci</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html#sound" title="Základy ke zvuku">Zvuk</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html" title="Změna hlasitosti">Hlasitost</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Používání rozličných reproduktorů a sluchátek">reproduktory a sluchátka</a></span>, <span class="link"><a href="sound-usemic.html" title="Používání rozličných mikrofónů">mikrofony</a></span>…</span></div>
+<div class="links-grid-link"><a href="media.html.cs#sound" title="Základy ke zvuku">Zvuk</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html.cs" title="Změna hlasitosti">Hlasitost</a></span>, <span class="link"><a href="sound-usespeakers.html.cs" title="Používání rozličných reproduktorů a sluchátek">reproduktory a sluchátka</a></span>, <span class="link"><a href="sound-usemic.html.cs" title="Používání rozličných mikrofónů">mikrofony</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="accounts.html" title="Účty on-line">Účty on-line</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html" title="Přidání účtu">Přidání účtu on-line</a></span>, <span class="link"><a href="accounts-remove.html" title="Odebrání účtu">odebrání účtu on-line</a></span>, <span class="link"><a href="accounts-which-application.html" title="Služby a aplikace on-line">něco o službách</a></span>…</span></div>
+<div class="links-grid-link"><a href="accounts.html.cs" title="Účty on-line">Účty on-line</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html.cs" title="Přidání účtu">Přidání účtu on-line</a></span>, <span class="link"><a href="accounts-remove.html.cs" title="Odebrání účtu">odebrání účtu on-line</a></span>, <span class="link"><a href="accounts-which-application.html.cs" title="Služby a aplikace on-line">něco o službách</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Průvodce pracovním prostředím Ubuntu">Průvodce pracovním prostředím Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu">Průvodce pracovním prostředím Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

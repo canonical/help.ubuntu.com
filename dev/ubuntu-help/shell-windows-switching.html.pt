@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Seu escritório">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicações e janelas">Aplicações e janelas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pt" title="Seu escritório">Escritorio</a> › <a class="trail" href="shell-overview.html.pt#apps" title="Aplicações e janelas">Aplicações e janelas</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Seu escritório">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicações e janelas">Aplicações e janelas</a> » <a class="trail" href="shell-windows.html" title="Janelas e áreas de trabalho">Janelas e áreas de trabalho</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Trabalhar com janelas">Janelas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pt" title="Seu escritório">Escritorio</a> › <a class="trail" href="shell-overview.html.pt#apps" title="Aplicações e janelas">Aplicações e janelas</a> » <a class="trail" href="shell-windows.html.pt" title="Janelas e áreas de trabalho">Janelas e áreas de trabalho</a> › <a class="trail" href="shell-windows.html.pt#working-with-windows" title="Trabalhar com janelas">Janelas</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,14 +56,14 @@
 <p class="p">No <span class="em">seletor de janelas</span> pode ver todos as aplicações em execução que têm uma interface gráfica. Isto faz que a mudança entre tarefas seja um processo dum só passo e proporciona uma visão completa das aplicações que estão em execução.</p>
 <p class="p">Desde uma área de trabalho:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Carregue <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> para mostrar o <span class="gui">intercambiador de janelas</span>.</p></li>
-<li class="steps"><p class="p">Solte a tecla <span class="key"><a href="keyboard-key-super.html" title="Que é a tecla Super?"><kbd>Super</kbd></a></span> para selecionar a seguinte janela (realçada) no seletor.</p></li>
-<li class="steps"><p class="p">Outra forma, ainda mantendo premida a tecla <span class="key"><a href="keyboard-key-super.html" title="Que é a tecla Super?"><kbd> Super</kbd></a></span>, carregue <span class="key"><kbd>Tab</kbd></span> para mudar entre a lista de janelas abertas, ou carregue <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> para mudar para atrás.</p></li>
+<li class="steps"><p class="p">Carregue <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pt" title="Que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> para mostrar o <span class="gui">intercambiador de janelas</span>.</p></li>
+<li class="steps"><p class="p">Solte a tecla <span class="key"><a href="keyboard-key-super.html.pt" title="Que é a tecla Super?"><kbd>Super</kbd></a></span> para selecionar a seguinte janela (realçada) no seletor.</p></li>
+<li class="steps"><p class="p">Outra forma, ainda mantendo premida a tecla <span class="key"><a href="keyboard-key-super.html.pt" title="Que é a tecla Super?"><kbd> Super</kbd></a></span>, carregue <span class="key"><kbd>Tab</kbd></span> para mudar entre a lista de janelas abertas, ou carregue <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> para mudar para atrás.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">As janelas no seletor de janelas agrupam-se por aplicações. As vistas prévias dos aplicações com múltiplas janelas se despliegan quando as clica. Carregue a tecla <span class="key"><a href="keyboard-key-super.html" title="Que é a tecla Super?"><kbd>Super</kbd></a></span> e carregue <span class="key"><kbd>`</kbd></span> (ou a tecla <span class="key"><kbd>Tab</kbd></span>) para percorrer a lista.</p></div></div></div></div>
+<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">As janelas no seletor de janelas agrupam-se por aplicações. As vistas prévias dos aplicações com múltiplas janelas se despliegan quando as clica. Carregue a tecla <span class="key"><a href="keyboard-key-super.html.pt" title="Que é a tecla Super?"><kbd>Super</kbd></a></span> e carregue <span class="key"><kbd>`</kbd></span> (ou a tecla <span class="key"><kbd>Tab</kbd></span>) para percorrer a lista.</p></div></div></div></div>
 <p class="p">Também pode mover entre os ícones de aplicações no seletor de janelas com as teclas <span class="key"><kbd>→</kbd></span> ou <span class="key"><kbd>←</kbd></span>, ou selecionar uma clicando com o rato.</p>
 <p class="p">As vistas prévias dos aplicações com uma sozinha janela podem-se mostrar com a tecla <span class="key"><kbd>↓</kbd></span>.</p>
-<p class="p">Carregue numa <span class="link"><a href="shell-windows.html" title="Janelas e áreas de trabalho">janela</a></span> na vista de <span class="gui">Atividades</span> para alterar para ela e sair da vista prévia. Se tem várias <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Trabalhar com áreas de trabalho:">áreas de trabalho</a></span> abertas, pode carregar na cada uma delas para ver as janelas abertas na cada área de trabalho.</p>
+<p class="p">Carregue numa <span class="link"><a href="shell-windows.html.pt" title="Janelas e áreas de trabalho">janela</a></span> na vista de <span class="gui">Atividades</span> para alterar para ela e sair da vista prévia. Se tem várias <span class="link"><a href="shell-windows.html.pt#working-with-workspaces" title="Trabalhar com áreas de trabalho:">áreas de trabalho</a></span> abertas, pode carregar na cada uma delas para ver as janelas abertas na cada área de trabalho.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -71,15 +71,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-overview.html#apps" title="Aplicações e janelas">Aplicações e janelas</a></li>
-<li class="links "><a href="shell-windows.html#working-with-windows" title="Trabalhar com janelas">Trabalhar com janelas</a></li>
+<li class="links "><a href="shell-overview.html.pt#apps" title="Aplicações e janelas">Aplicações e janelas</a></li>
+<li class="links "><a href="shell-windows.html.pt#working-with-windows" title="Trabalhar com janelas">Trabalhar com janelas</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-switch-tasks.html" title="Alternando tarefas">Um tutorial sobre alternar tarefas</a></li>
-<li class="links "><a href="gs-use-windows-workspaces.html" title="Usando janelas e espaços de trabalho">Um tutorial sobre o uso de janelas e espaços de trabalho</a></li>
+<li class="links "><a href="gs-switch-tasks.html.pt" title="Alternando tarefas">Um tutorial sobre alternar tarefas</a></li>
+<li class="links "><a href="gs-use-windows-workspaces.html.pt" title="Usando janelas e espaços de trabalho">Um tutorial sobre o uso de janelas e espaços de trabalho</a></li>
 </ul></div>
 </div></div>
 </div>

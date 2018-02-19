@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="prefs-display.html" title="Displejs un ekrāns">Displejs un ekrāns</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="prefs-display.html.lv" title="Displejs un ekrāns">Displejs un ekrāns</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nomainīt ekrāna izšķirtspēju vai rotāciju</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Jūs varat izmainīt, cik lieli (vai cik detalizēti) izskatās objekti uz ekrāna, iestatot <span class="em">ekrāna izšķirtspēju</span>. Jūs varat noteikt, kā jāpagriež attēls (piemēram, ja jums ir rotējošs displejs), iestatot <span class="em">rotāciju</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Displeji</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Displeji</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Displeji</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Ja jums ir vairāki displeji, kas netiek dublēti, katram displejam var būt savi iestatījumi. Izvēlieties displeju priekšskatījuma laukā.</p></li>
 <li class="steps"><p class="p">Izvēlieties izšķirtspēju un rotāciju.</p></li>
@@ -62,7 +62,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Izšķirtspēja</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Izšķirtspēja ir pikseļu (ekrāna punktu) skaits, ko var attēlot katrā dimensijā. Katrai izšķirtspējai ir <span class="em">samērs</span> — platuma attiecība pret augstumu. Platekrāna displeji lieto samēru 16∶9, bet tradicionālie displeji — 4∶3. Ja izvēlēsities izšķirtspēju, kas neatbilst displeja samēram, tiks izmantota tikai daļa no ekrāna, lai novērstu attēla izkropļošanu, pievienojot melnas joslas abās ekrāna pusēs.</p>
-<p class="p">Jūs varat izvēlēties sev patīkamāko izšķirtspēju no izkrītošā saraksta <span class="gui">Izšķirtspēja</span>. Ja tā nebūs atbilstošā jūsu ekrānam, tas varētu <span class="link"><a href="look-display-fuzzy.html" title="Kāpēc viss uz mana ekrāna izskatās miglains vai pikseļots?">izskatīties miglains vai pikseļots</a></span>.</p>
+<p class="p">Jūs varat izvēlēties sev patīkamāko izšķirtspēju no izkrītošā saraksta <span class="gui">Izšķirtspēja</span>. Ja tā nebūs atbilstošā jūsu ekrānam, tas varētu <span class="link"><a href="look-display-fuzzy.html.lv" title="Kāpēc viss uz mana ekrāna izskatās miglains vai pikseļots?">izskatīties miglains vai pikseļots</a></span>.</p>
 </div></div>
 </div></div>
 <div id="rotation" class="sect"><div class="inner">
@@ -75,13 +75,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Displejs un ekrāns">Displejs un ekrāns</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Nomainīt darbvirsmas un bloķēšanas ekrāna fonus">Fons</a></span>, <span class="link"><a href="look-resolution.html" title="Nomainīt ekrāna izšķirtspēju vai rotāciju">izmērs un rotācija</a></span>, spilgtums…</span>
+<a href="prefs-display.html.lv" title="Displejs un ekrāns">Displejs un ekrāns</a><span class="desc"> — <span class="link"><a href="look-background.html.lv" title="Nomainīt darbvirsmas un bloķēšanas ekrāna fonus">Fons</a></span>, <span class="link"><a href="look-resolution.html.lv" title="Nomainīt ekrāna izšķirtspēju vai rotāciju">izmērs un rotācija</a></span>, spilgtums…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-display-fuzzy.html" title="Kāpēc viss uz mana ekrāna izskatās miglains vai pikseļots?">Kāpēc viss uz mana ekrāna izskatās miglains vai pikseļots?</a><span class="desc"> — Varētu būt iestatīta nepareizā ekrāna izšķirtspēja.</span>
+<a href="look-display-fuzzy.html.lv" title="Kāpēc viss uz mana ekrāna izskatās miglains vai pikseļots?">Kāpēc viss uz mana ekrāna izskatās miglains vai pikseļots?</a><span class="desc"> — Varētu būt iestatīta nepareizā ekrāna izšķirtspēja.</span>
 </li></ul></div>
 </div></div>
 </div>

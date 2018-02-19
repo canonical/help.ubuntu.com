@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Felhasználói fiókok</span></h1></div>
@@ -53,30 +53,30 @@
 <div class="hgroup"><h2 class="title"><span class="title">Felhasználói fiókok kezelése</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Új felhasználói fiók hozzáadása"><span class="title">Új felhasználói fiók hozzáadása</span><span class="linkdiv-dash"> — </span><span class="desc">Új felhasználó hozzáadása, hogy mások is használhassák a számítógépet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Automatikus bejelentkezés"><span class="title">Automatikus bejelentkezés</span><span class="linkdiv-dash"> — </span><span class="desc">A számítógép bekapcsolásakor történő automatikus bejelentkezés beállítása.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-add.html.hu" title="Új felhasználói fiók hozzáadása"><span class="title">Új felhasználói fiók hozzáadása</span><span class="linkdiv-dash"> — </span><span class="desc">Új felhasználó hozzáadása, hogy mások is használhassák a számítógépet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html.hu" title="Automatikus bejelentkezés"><span class="title">Automatikus bejelentkezés</span><span class="linkdiv-dash"> — </span><span class="desc">A számítógép bekapcsolásakor történő automatikus bejelentkezés beállítása.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Felhasználói fiók törlése"><span class="title">Felhasználói fiók törlése</span><span class="linkdiv-dash"> — </span><span class="desc">Törölje azokat a felhasználókat, akik már nem használják a számítógépét.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Módosítsa fényképét a bejelentkezési képernyőn"><span class="title">Módosítsa fényképét a bejelentkezési képernyőn</span><span class="linkdiv-dash"> — </span><span class="desc">Adja hozzá fényképét a bejelentkezési és felhasználói képernyőhöz.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html.hu" title="Felhasználói fiók törlése"><span class="title">Felhasználói fiók törlése</span><span class="linkdiv-dash"> — </span><span class="desc">Törölje azokat a felhasználókat, akik már nem használják a számítógépét.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html.hu" title="Módosítsa fényképét a bejelentkezési képernyőn"><span class="title">Módosítsa fényképét a bejelentkezési képernyőn</span><span class="linkdiv-dash"> — </span><span class="desc">Adja hozzá fényképét a bejelentkezési és felhasználói képernyőhöz.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="passwords" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Jelszavak</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html" title="Módosítsa jelszavát"><span class="title">Módosítsa jelszavát</span><span class="linkdiv-dash"> — </span><span class="desc">Tartsa biztonságban fiókját a jelszava gyakori megváltoztatásával a fiókbeállításokban.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html" title="Válasszon biztonságos jelszót"><span class="title">Válasszon biztonságos jelszót</span><span class="linkdiv-dash"> — </span><span class="desc">Használjon hosszabb és bonyolultabb jelszavakat.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html.hu" title="Módosítsa jelszavát"><span class="title">Módosítsa jelszavát</span><span class="linkdiv-dash"> — </span><span class="desc">Tartsa biztonságban fiókját a jelszava gyakori megváltoztatásával a fiókbeállításokban.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html.hu" title="Válasszon biztonságos jelszót"><span class="title">Válasszon biztonságos jelszót</span><span class="linkdiv-dash"> — </span><span class="desc">Használjon hosszabb és bonyolultabb jelszavakat.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="privileges" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Felhasználói jogosultságok</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html" title="Hogyan működik a rendszergazdai jogosultság?"><span class="title">Hogyan működik a rendszergazdai jogosultság?</span><span class="linkdiv-dash"> — </span><span class="desc">A rendszer fontos részeinek módosításához rendszergazdai jogosultság szükséges.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html" title="Rendszergazdai jogosultság adása"><span class="title">Rendszergazdai jogosultság adása</span><span class="linkdiv-dash"> — </span><span class="desc">Rendszergazdai jogosultság adásával engedélyezheti felhasználóknak rendszerszintű változtatások végrehajtását.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.hu" title="Hogyan működik a rendszergazdai jogosultság?"><span class="title">Hogyan működik a rendszergazdai jogosultság?</span><span class="linkdiv-dash"> — </span><span class="desc">A rendszer fontos részeinek módosításához rendszergazdai jogosultság szükséges.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.hu" title="Rendszergazdai jogosultság adása"><span class="title">Rendszergazdai jogosultság adása</span><span class="linkdiv-dash"> — </span><span class="desc">Rendszergazdai jogosultság adásával engedélyezheti felhasználóknak rendszerszintű változtatások végrehajtását.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html" title="Rendszergazdai korlátozások által okozott problémák"><span class="title">Rendszergazdai korlátozások által okozott problémák</span><span class="linkdiv-dash"> — </span><span class="desc">Egyes feladatokat, például alkalmazások telepítését csak rendszergazdai jogosultságok birtokában hajthat végre.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.hu" title="Rendszergazdai korlátozások által okozott problémák"><span class="title">Rendszergazdai korlátozások által okozott problémák</span><span class="linkdiv-dash"> — </span><span class="desc">Egyes feladatokat, például alkalmazások telepítését csak rendszergazdai jogosultságok birtokában hajthat végre.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -84,7 +84,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Billentyűzet">Billentyűzet</a></span>, <span class="link"><a href="mouse.html" title="Egér">egér</a></span>, <span class="link"><a href="prefs-display.html" title="Megjelenítés és képernyő">kijelző</a></span>, <span class="link"><a href="prefs-language.html" title="Terület és nyelv">nyelvek</a></span>, <span class="link"><a href="user-accounts.html" title="Felhasználói fiókok">felhasználók</a></span>…</span>
+<a href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a><span class="desc"> — <span class="link"><a href="keyboard.html.hu" title="Billentyűzet">Billentyűzet</a></span>, <span class="link"><a href="mouse.html.hu" title="Egér">egér</a></span>, <span class="link"><a href="prefs-display.html.hu" title="Megjelenítés és képernyő">kijelző</a></span>, <span class="link"><a href="prefs-language.html.hu" title="Terület és nyelv">nyelvek</a></span>, <span class="link"><a href="user-accounts.html.hu" title="Felhasználói fiókok">felhasználók</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html#backup" title="バックアップ">バックアップ</a> » <a class="trail" href="backup-why.html" title="重要なファイルをバックアップする">バックアップ</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ja" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html.ja#backup" title="バックアップ">バックアップ</a> » <a class="trail" href="backup-why.html.ja" title="重要なファイルをバックアップする">バックアップ</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">バックアップ方法</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">ファイルや設定の最も簡単なバックアップ方法は、バックアップ処理をバックアップアプリケーションに管理させることです。様々なバックアップアプリケーションが利用可能であり、たとえば <span class="app">Déjà Dup</span> などがあります。</p>
 <p class="p">使用するバックアップアプリケーションのヘルプの説明に従えば、バックアップ設定を行えるでしょう。データの復旧方法も同様です。</p>
-<p class="p">他の方法は、外付けハードドライブや、ネットワーク上の別のコンピューター、USB ドライブなどの安全な場所へ<span class="link"><a href="files-copy.html" title="ファイル、フォルダーをコピーまたは移動する">ファイルをコピーする</a></span>というものです。通常、<span class="link"><a href="backup-thinkabout.html" title="どのファイルをバックアップすればいい?">個人的なファイル</a></span>や設定は、ユーザーのホームフォルダーにあります。したがってそこからファイルのコピーができます。</p>
+<p class="p">他の方法は、外付けハードドライブや、ネットワーク上の別のコンピューター、USB ドライブなどの安全な場所へ<span class="link"><a href="files-copy.html.ja" title="ファイル、フォルダーをコピーまたは移動する">ファイルをコピーする</a></span>というものです。通常、<span class="link"><a href="backup-thinkabout.html.ja" title="どのファイルをバックアップすればいい?">個人的なファイル</a></span>や設定は、ユーザーのホームフォルダーにあります。したがってそこからファイルのコピーができます。</p>
 <p class="p">バックアップできるデータ量は、ストレージのサイズに制限されます。バックアップデバイスに空き領域があるなら、次の例外を除いて、ホームフォルダー全体をバックアップするに越したことはありません。</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">他の場所にすでにバックアップ済みのファイル。たとえば CD、DVD、その他のリムーバブルメディアなど。</p></li>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="重要なファイルをバックアップする">重要なファイルをバックアップする</a><span class="desc"> — バックアップについてのなぜ、何を、どこに、どうやって。</span>
+<a href="backup-why.html.ja" title="重要なファイルをバックアップする">重要なファイルをバックアップする</a><span class="desc"> — バックアップについてのなぜ、何を、どこに、どうやって。</span>
 </li></ul></div>
 </div></div></div>
 </div>

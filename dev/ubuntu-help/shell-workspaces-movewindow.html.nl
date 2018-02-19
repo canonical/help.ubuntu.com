@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Werken met werkbladen">Werkbladen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-workspaces" title="Werken met werkbladen">Werkbladen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een venster verplaatsen naar een ander werkblad</span></h1></div>
@@ -52,9 +52,9 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Met de muis:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht.</p></li>
 <li class="steps"><p class="p">Click and drag the window toward the right of the screen.</p></li>
-<li class="steps"><p class="p">The <span class="em"><a href="shell-workspaces.html" title="Wat is een werkblad en hoe kan ik het gebruiken?">workspace selector</a></span> will
+<li class="steps"><p class="p">The <span class="em"><a href="shell-workspaces.html.nl" title="Wat is een werkblad en hoe kan ik het gebruiken?">workspace selector</a></span> will
       appear.</p></li>
 <li class="steps"><p class="p">Drop the window onto an empty
       workspace. This workspace now contains the window you have dropped, and a
@@ -65,10 +65,10 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Via het toetsenbord:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Selecteer het venster dat u wilt verplaatsen (bijvoorbeeld met de <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> <span class="em"><a href="shell-windows-switching.html" title="Schakelen tussen vensters">vensterwisselaar</a></span>).</p></li>
+<li class="steps"><p class="p">Selecteer het venster dat u wilt verplaatsen (bijvoorbeeld met de <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> <span class="em"><a href="shell-windows-switching.html.nl" title="Schakelen tussen vensters">vensterwisselaar</a></span>).</p></li>
 <li class="steps">
-<p class="p">Druk op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> om het venster naar het werkblad boven het huidige werkblad in de <span class="gui">werkbladwisselaar</span> te verplaatsen .</p>
-<p class="p">Druk op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> om het venster naar het werkblad onder het huidige werkblad in de <span class="gui">werkbladwisselaar</span> te verplaatsen .</p>
+<p class="p">Druk op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> om het venster naar het werkblad boven het huidige werkblad in de <span class="em">werkbladwisselaar</span> te verplaatsen .</p>
+<p class="p">Druk op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> om het venster naar het werkblad onder het huidige werkblad in de <span class="em">werkbladwisselaar</span> te verplaatsen .</p>
 </li>
 </ol></div>
 </div></div>
@@ -78,12 +78,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Werken met werkbladen">Werken met werkbladen</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.nl#working-with-workspaces" title="Werken met werkbladen">Werken met werkbladen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-workspaces.html" title="Wat is een werkblad en hoe kan ik het gebruiken?">Wat is een werkblad en hoe kan ik het gebruiken?</a><span class="desc"> — Werkbladen zijn een manier om vensters te groeperen op uw bureaublad.</span>
+<a href="shell-workspaces.html.nl" title="Wat is een werkblad en hoe kan ik het gebruiken?">Wat is een werkblad en hoe kan ik het gebruiken?</a><span class="desc"> — Werkbladen zijn een manier om vensters te groeperen op uw bureaublad.</span>
 </li></ul></div>
 </div></div>
 </div>

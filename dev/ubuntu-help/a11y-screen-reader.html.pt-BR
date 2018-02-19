@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Acessibilidade">Acessibilidade</a> › <a class="trail" href="a11y.html#vision" title="Deficiências visuais">Deficiências visuais</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.pt-BR" title="Acessibilidade">Acessibilidade</a> › <a class="trail" href="a11y.html.pt-BR#vision" title="Deficiências visuais">Deficiências visuais</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Lendo a tela em voz alta</span></h1></div>
@@ -54,13 +54,13 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Pressione <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
 <p class="p">Ou para iniciar o <span class="app">Orca</span> usando um mouse e teclado:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Acessibilidade</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Acessibilidade</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Acessibilidade</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Leitor de tela</span> na seção <span class="gui">Visão</span> e, então, ative <span class="gui">Leitor de tela</span> no diálogo.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Dica"><div class="inner">
 <div class="title title-note"><h2><span class="title">Ative e desative rapidamente o leitor de tela</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Você pode ativar e desativar rapidamente o leitor de tela clicando no <span class="link"><a href="a11y-icon.html" title="Localizando o menu de acessibilidade">ícone de acessibilidade</a></span> na barra superior e selecionando <span class="gui">Leitor de tela</span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Você pode ativar e desativar rapidamente o leitor de tela clicando no <span class="link"><a href="a11y-icon.html.pt-BR" title="Localizando o menu de acessibilidade">ícone de acessibilidade</a></span> na barra superior e selecionando <span class="gui">Leitor de tela</span>.</p></div></div>
 </div></div>
 <p class="p">Consulte a <span class="link"><a href="help:orca" title="help:orca">Ajuda do Orca</a></span> para mais informações.</p>
 </div>
@@ -69,12 +69,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Deficiências visuais">Deficiências visuais</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.pt-BR#vision" title="Deficiências visuais">Deficiências visuais</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y-braille.html" title="Lendo a tela em Braille">Lendo a tela em Braille</a><span class="desc"> — Use o leitor de tela <span class="app">Orca</span> com terminais atualizáveis de Braille.</span>
+<a href="a11y-braille.html.pt-BR" title="Lendo a tela em Braille">Lendo a tela em Braille</a><span class="desc"> — Use o leitor de tela <span class="app">Orca</span> com terminais atualizáveis de Braille.</span>
 </li></ul></div>
 </div></div>
 </div>

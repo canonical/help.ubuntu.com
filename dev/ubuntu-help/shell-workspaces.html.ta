@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">பணிமேசை</a> › <a class="trail" href="shell-overview.html#apps" title="பயன்பாடுகள் மற்றும் சாளரங்கள்">பயன்பாடுகள் மற்றும் சாளரங்கள்</a> » <a class="trail" href="shell-windows.html" title="சாளரங்கள் மற்றும் பணியிடங்கள்">சாளரங்கள் மற்றும் பணியிடங்கள்</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="பணியிடங்களைப் பயன்படுத்துதல்">பணியிடங்கள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ta" title="Your desktop">பணிமேசை</a> › <a class="trail" href="shell-overview.html.ta#apps" title="பயன்பாடுகள் மற்றும் சாளரங்கள்">பயன்பாடுகள் மற்றும் சாளரங்கள்</a> » <a class="trail" href="shell-windows.html.ta" title="சாளரங்கள் மற்றும் பணியிடங்கள்">சாளரங்கள் மற்றும் பணியிடங்கள்</a> › <a class="trail" href="shell-windows.html.ta#working-with-workspaces" title="பணியிடங்களைப் பயன்படுத்துதல்">பணியிடங்கள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">பணியிடம் என்றால் என்ன, அது எப்படி எனக்கு உதவும்?</span></h1></div>
@@ -55,7 +55,7 @@
 <p class="p">பணியிடங்களைப் பயன்படுத்துதல்:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the
-    <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview, move your cursor
+    <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview, move your cursor
     to the right-most side of the screen.</p></li>
 <li class="list"><p class="p">A vertical panel will appear showing
     workspaces in use, plus an empty workspace. This is the
@@ -73,16 +73,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="பணியிடங்களைப் பயன்படுத்துதல்">பணியிடங்களைப் பயன்படுத்துதல்</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.ta#working-with-workspaces" title="பணியிடங்களைப் பயன்படுத்துதல்">பணியிடங்களைப் பயன்படுத்துதல்</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-workspaces-movewindow.html" title="ஒரு சாளரத்தை வேறு பணியிடத்திற்கு நகர்த்துதல்">ஒரு சாளரத்தை வேறு பணியிடத்திற்கு நகர்த்துதல்</a><span class="desc"> — <span class="gui">செயல்பாடுகள்</span> மேலோட்டத்திற்குச் சென்று சாளரத்தை வேறு பணியிடத்திற்கு இழுத்துச் செல்லுதல்.</span>
+<a href="shell-workspaces-movewindow.html.ta" title="ஒரு சாளரத்தை வேறு பணியிடத்திற்கு நகர்த்துதல்">ஒரு சாளரத்தை வேறு பணியிடத்திற்கு நகர்த்துதல்</a><span class="desc"> — <span class="gui">செயல்பாடுகள்</span> மேலோட்டத்திற்குச் சென்று சாளரத்தை வேறு பணியிடத்திற்கு இழுத்துச் செல்லுதல்.</span>
 </li>
 <li class="links ">
-<a href="shell-workspaces-switch.html" title="பணியிடங்களிடையே மாறுதல்">பணியிடங்களிடையே மாறுதல்</a><span class="desc"> — பணியிடத் தேர்வியைப் பயன்படுத்துதல்.</span>
+<a href="shell-workspaces-switch.html.ta" title="பணியிடங்களிடையே மாறுதல்">பணியிடங்களிடையே மாறுதல்</a><span class="desc"> — பணியிடத் தேர்வியைப் பயன்படுத்துதல்.</span>
 </li>
 </ul></div>
 </div></div>

@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="tips.html" title="Namigi in triki">Namigi in triki</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="tips.html.sl" title="Namigi in triki">Namigi in triki</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="mouse.html" title="Miška">Miška</a> › <a class="trail" href="mouse.html#tips" title="Namigi">Namigi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="mouse.html.sl" title="Miška">Miška</a> › <a class="trail" href="mouse.html.sl#tips" title="Namigi">Namigi</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="mouse.html" title="Miška">Miška</a> › <a class="trail" href="mouse.html#tips" title="Namigi">Namigi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="mouse.html.sl" title="Miška">Miška</a> › <a class="trail" href="mouse.html.sl#tips" title="Namigi">Namigi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@ with a scroll wheel, you can usually press directly down on the scroll
 wheel to middle-click. If you don’t have a middle mouse button, you
 can press the left and right mouse buttons at the same time to
 middle-click.</p>
-<p class="p">Na drsnih ploščicah, ki podpirajo udarce z več prsti, lahko za srednji klik enkrat udarite s tremi prsti. Da bo to delovalo, morate v nastavitvah <span class="link"><a href="mouse-touchpad-click.html" title="Kliknice, povlecite ali drsajte z drsno ploščico">omogočiti klikanje z udarjanjem</a></span>.</p>
+<p class="p">Na drsnih ploščicah, ki podpirajo udarce z več prsti, lahko za srednji klik enkrat udarite s tremi prsti. Da bo to delovalo, morate v nastavitvah <span class="link"><a href="mouse-touchpad-click.html.sl" title="Kliknice, povlecite ali drsajte z drsno ploščico">omogočiti klikanje z udarjanjem</a></span>.</p>
 <p class="p">Veliko programov uporablja srednji klik za napredne bližnjice klikanja.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
@@ -83,9 +83,9 @@ button for other functions. Search your application’s help for
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="tips.html" title="Namigi in triki">Namigi in triki</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Vnos posebnih znakov">Posebni znaki</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Srednji klik">bližnjice s srednjim klikom</a></span> ...</span>
+<a href="tips.html.sl" title="Namigi in triki">Namigi in triki</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.sl" title="Vnos posebnih znakov">Posebni znaki</a></span>, <span class="link"><a href="mouse-middleclick.html.sl" title="Srednji klik">bližnjice s srednjim klikom</a></span> ...</span>
 </li>
-<li class="links "><a href="mouse.html#tips" title="Namigi">Namigi miške</a></li>
+<li class="links "><a href="mouse.html.sl#tips" title="Namigi">Namigi miške</a></li>
 </ul></div>
 </div></div></div>
 </div>

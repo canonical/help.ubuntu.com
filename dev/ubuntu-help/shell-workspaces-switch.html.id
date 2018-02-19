@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Desktop Anda">Desktop</a> › <a class="trail" href="shell-overview.html#apps" title="Aplikasi dan jendela">Aplikasi dan jendela</a> » <a class="trail" href="shell-windows.html" title="Jendela dan area kerja">Jendela dan area kerja</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Bekerja dengan ruang kerja">Area kerja</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="shell-overview.html.id" title="Desktop Anda">Desktop</a> › <a class="trail" href="shell-overview.html.id#apps" title="Aplikasi dan jendela">Aplikasi dan jendela</a> » <a class="trail" href="shell-windows.html.id" title="Jendela dan area kerja">Jendela dan area kerja</a> › <a class="trail" href="shell-windows.html.id#working-with-workspaces" title="Bekerja dengan ruang kerja">Area kerja</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bertukar antar area kerja</span></h1></div>
@@ -52,8 +52,8 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Memakai tetikus:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span>.</p></li>
-<li class="steps"><p class="p">Click on a workspace in the <span class="link"><a href="shell-workspaces.html" title="Apa itu ruang kerja, dan bagaimana itu akan membantu saya?">workspace
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span>.</p></li>
+<li class="steps"><p class="p">Click on a workspace in the <span class="link"><a href="shell-workspaces.html.id" title="Apa itu ruang kerja, dan bagaimana itu akan membantu saya?">workspace
   selector</a></span> on the right side of the screen to view the open windows on
   that workspace.</p></li>
 <li class="steps"><p class="p">Click on any window thumbnail to activate the workspace.</p></li>
@@ -63,7 +63,7 @@
 <div class="title title-list"><h2><span class="title">Memakai papan tik:</span></h2></div>
 <div class="region"><ul class="list">
 <li class="list"><p class="p">Press
-    <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span>
+    <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.id" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span>
     or <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span> to move to
     the workspace shown above the current workspace in the workspace selector.
     </p></li>
@@ -78,12 +78,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Bekerja dengan ruang kerja">Bekerja dengan ruang kerja</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.id#working-with-workspaces" title="Bekerja dengan ruang kerja">Bekerja dengan ruang kerja</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-workspaces.html" title="Apa itu ruang kerja, dan bagaimana itu akan membantu saya?">Apa itu ruang kerja, dan bagaimana itu akan membantu saya?</a><span class="desc"> — Ruang kerja adalah cara mengelompokkan jendela pada desktop Anda.</span>
+<a href="shell-workspaces.html.id" title="Apa itu ruang kerja, dan bagaimana itu akan membantu saya?">Apa itu ruang kerja, dan bagaimana itu akan membantu saya?</a><span class="desc"> — Ruang kerja adalah cara mengelompokkan jendela pada desktop Anda.</span>
 </li></ul></div>
 </div></div>
 </div>

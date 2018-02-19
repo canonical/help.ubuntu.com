@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Λογαριασμοί χρηστών</span></h1></div>
@@ -53,30 +53,30 @@
 <div class="hgroup"><h2 class="title"><span class="title">Διαχείριση λογαριασμών των χρηστών</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Προσθήκη νέου λογαριασμού χρήστη"><span class="title">Προσθήκη νέου λογαριασμού χρήστη</span><span class="linkdiv-dash"> — </span><span class="desc">Προσθήκη νέων χρηστών έτσι ώστε τα άλλα άτομα να μπορούν να συνδεθούν στον υπολογιστή.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Αλλαγή της φωτογραφίας οθόνης εισόδου"><span class="title">Αλλαγή της φωτογραφίας οθόνης εισόδου</span><span class="linkdiv-dash"> — </span><span class="desc">Προσθέστε την φωτογραφία σας στη σύνδεση και τις οθόνες των χρηστών.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-add.html.el" title="Προσθήκη νέου λογαριασμού χρήστη"><span class="title">Προσθήκη νέου λογαριασμού χρήστη</span><span class="linkdiv-dash"> — </span><span class="desc">Προσθήκη νέων χρηστών έτσι ώστε τα άλλα άτομα να μπορούν να συνδεθούν στον υπολογιστή.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html.el" title="Αλλαγή της φωτογραφίας οθόνης εισόδου"><span class="title">Αλλαγή της φωτογραφίας οθόνης εισόδου</span><span class="linkdiv-dash"> — </span><span class="desc">Προσθέστε την φωτογραφία σας στη σύνδεση και τις οθόνες των χρηστών.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Αυτόματη σύνδεση"><span class="title">Αυτόματη σύνδεση</span><span class="linkdiv-dash"> — </span><span class="desc">Ρύθμιση αυτόματης σύνδεσης όταν ενεργοποιείτε τον υπολογιστή σας.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Διαγραφή λογαριασμού χρήστη"><span class="title">Διαγραφή λογαριασμού χρήστη</span><span class="linkdiv-dash"> — </span><span class="desc">Αφαιρέστε χρήστες που δεν χρησιμοποιούν πια τον υπολογιστή σας.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html.el" title="Αυτόματη σύνδεση"><span class="title">Αυτόματη σύνδεση</span><span class="linkdiv-dash"> — </span><span class="desc">Ρύθμιση αυτόματης σύνδεσης όταν ενεργοποιείτε τον υπολογιστή σας.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html.el" title="Διαγραφή λογαριασμού χρήστη"><span class="title">Διαγραφή λογαριασμού χρήστη</span><span class="linkdiv-dash"> — </span><span class="desc">Αφαιρέστε χρήστες που δεν χρησιμοποιούν πια τον υπολογιστή σας.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="passwords" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Κωδικοί πρόσβασης</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html" title="Αλλάξτε τον κωδικό πρόσβασής σας"><span class="title">Αλλάξτε τον κωδικό πρόσβασής σας</span><span class="linkdiv-dash"> — </span><span class="desc">Κρατήστε τον λογαριασμό σας ασφαλή αλλάζοντας τον κωδικό πρόσβασής σας συχνά στις ρυθμίσεις λογαριασμών.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html" title="Επιλέξτε έναν ασφαλή κωδικό πρόσβασης"><span class="title">Επιλέξτε έναν ασφαλή κωδικό πρόσβασης</span><span class="linkdiv-dash"> — </span><span class="desc">Χρήση μεγαλυτέρων, περισσότερο πολύπλοκων κωδικών πρόσβασης.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html.el" title="Αλλάξτε τον κωδικό πρόσβασής σας"><span class="title">Αλλάξτε τον κωδικό πρόσβασής σας</span><span class="linkdiv-dash"> — </span><span class="desc">Κρατήστε τον λογαριασμό σας ασφαλή αλλάζοντας τον κωδικό πρόσβασής σας συχνά στις ρυθμίσεις λογαριασμών.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html.el" title="Επιλέξτε έναν ασφαλή κωδικό πρόσβασης"><span class="title">Επιλέξτε έναν ασφαλή κωδικό πρόσβασης</span><span class="linkdiv-dash"> — </span><span class="desc">Χρήση μεγαλυτέρων, περισσότερο πολύπλοκων κωδικών πρόσβασης.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="privileges" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Προνόμια χρήστη</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html" title="Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή"><span class="title">Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή</span><span class="linkdiv-dash"> — </span><span class="desc">Μπορείτε να επιτρέψετε τους χρήστες να κάνουν αλλαγές στο σύστημα δίνοντας τους δικαιώματα διαχειριστή.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html" title="Προβλήματα που προκαλούνται από διαχειριστικούς περιορισμούς"><span class="title">Προβλήματα που προκαλούνται από διαχειριστικούς περιορισμούς</span><span class="linkdiv-dash"> — </span><span class="desc">Μπορείτε να κάνετε μόνο κάποια πράγματα, όπως εγκατάσταση εφαρμογών, μόνο εάν έχετε δικαιώματα διαχειριστή.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.el" title="Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή"><span class="title">Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή</span><span class="linkdiv-dash"> — </span><span class="desc">Μπορείτε να επιτρέψετε τους χρήστες να κάνουν αλλαγές στο σύστημα δίνοντας τους δικαιώματα διαχειριστή.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.el" title="Προβλήματα που προκαλούνται από διαχειριστικούς περιορισμούς"><span class="title">Προβλήματα που προκαλούνται από διαχειριστικούς περιορισμούς</span><span class="linkdiv-dash"> — </span><span class="desc">Μπορείτε να κάνετε μόνο κάποια πράγματα, όπως εγκατάσταση εφαρμογών, μόνο εάν έχετε δικαιώματα διαχειριστή.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;"><span class="title">Πώς δουλεύουν τα δικαιώματα διαχειριστή;</span><span class="linkdiv-dash"> — </span><span class="desc">Χρειάζεστε δικαιώματα διαχειριστή για να αλλάξετε σημαντικά μέρη του συστήματός σας.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.el" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;"><span class="title">Πώς δουλεύουν τα δικαιώματα διαχειριστή;</span><span class="linkdiv-dash"> — </span><span class="desc">Χρειάζεστε δικαιώματα διαχειριστή για να αλλάξετε σημαντικά μέρη του συστήματός σας.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -84,7 +84,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Χρήστης &amp; ρυθμίσεις συστήματος</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Πληκτρολόγιο">Πληκτρολόγιο</a></span>, <span class="link"><a href="mouse.html" title="Ποντίκι">Ποντίκι</a></span>, <span class="link"><a href="prefs-display.html" title="Εμφάνιση &amp; οθόνη">Οθόνη</a></span>, <span class="link"><a href="prefs-language.html" title="Περιοχή &amp; γλώσσα">Γλώσσες</a></span>, <span class="link"><a href="user-accounts.html" title="Λογαριασμοί χρηστών">Λογαριασμοί χρήστη</a></span>…</span>
+<a href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Χρήστης &amp; ρυθμίσεις συστήματος</a><span class="desc"> — <span class="link"><a href="keyboard.html.el" title="Πληκτρολόγιο">Πληκτρολόγιο</a></span>, <span class="link"><a href="mouse.html.el" title="Ποντίκι">Ποντίκι</a></span>, <span class="link"><a href="prefs-display.html.el" title="Εμφάνιση &amp; οθόνη">Οθόνη</a></span>, <span class="link"><a href="prefs-language.html.el" title="Περιοχή &amp; γλώσσα">Γλώσσες</a></span>, <span class="link"><a href="user-accounts.html.el" title="Λογαριασμοί χρηστών">Λογαριασμοί χρήστη</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

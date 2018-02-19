@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="初めて使う方へ">GNOME を初めて使う方へ</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.ja" title="初めて使う方へ">GNOME を初めて使う方へ</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="システムの検索機能を使用する">前へ</a><a class="nextlinks-next" href="gs-browse-web.html" title="Web を閲覧する">次へ</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.ja" title="システムの検索機能を使用する">前へ</a><a class="nextlinks-next" href="gs-browse-web.html.ja" title="Web を閲覧する">次へ</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">ネットワークに接続する</span></h1></div>
 <div class="region">
@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Wi-Fi (無線) ネットワークに接続する</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">トップバー右側の<span class="gui"><a href="shell-introduction.html#yourname" title="あなた、およびお使いのコンピューターについて">システムメニュー</a></span>を開きます。</p></li>
+<li class="steps"><p class="p">トップバー右側の<span class="gui"><a href="shell-introduction.html.ja#yourname" title="あなた、およびお使いのコンピューターについて">システムメニュー</a></span>を開きます。</p></li>
 <li class="steps"><p class="p"><span class="gui">Wi-Fi 未接続</span>を選択します。すると Wi-Fi 関連のメニューが展開します。</p></li>
 <li class="steps"><p class="p"><span class="gui">ネットワークを選択</span>をクリックします。</p></li>
 </ol></div>
@@ -88,7 +88,7 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="システムの検索機能を使用する">前へ</a><a class="nextlinks-next" href="gs-browse-web.html" title="Web を閲覧する">次へ</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.ja" title="システムの検索機能を使用する">前へ</a><a class="nextlinks-next" href="gs-browse-web.html.ja" title="Web を閲覧する">次へ</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -96,13 +96,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="初めて使う方へ">GNOME を初めて使う方へ</a><span class="desc"> — GNOME は初めてですか? 使い方を一通り身に付けられます。</span>
+<a href="getting-started.html.ja" title="初めて使う方へ">GNOME を初めて使う方へ</a><span class="desc"> — GNOME は初めてですか? 使い方を一通り身に付けられます。</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="無線ネットワーク">無線</a></span>、<span class="link"><a href="net-wired.html" title="有線によるネットワーク">有線</a></span>、<span class="link"><a href="net-problem.html" title="ネットワーク関連の問題">接続関連の問題</a></span>、<span class="link"><a href="net-browser.html" title="ウェブブラウザー">web ブラウジング</a></span>、<span class="link"><a href="net-email.html" title="メールとメールソフトウェア">メールアカウント</a></span>…</span>
+<a href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ja" title="無線ネットワーク">無線</a></span>、<span class="link"><a href="net-wired.html.ja" title="有線によるネットワーク">有線</a></span>、<span class="link"><a href="net-problem.html.ja" title="ネットワーク関連の問題">接続関連の問題</a></span>、<span class="link"><a href="net-browser.html.ja" title="ウェブブラウザー">web ブラウジング</a></span>、<span class="link"><a href="net-email.html.ja" title="メールとメールソフトウェア">メールアカウント</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

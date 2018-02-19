@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="wacom.html" title="Tablet Wacom Graphics">Tablet Wacom Graphics</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="wacom.html.pt-BR" title="Tablet Wacom Graphics">Tablet Wacom Graphics</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Usando o tablet como canhoto</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Alguns tablet possuem botões de hardware em um lado. O tablet pode ser girado em 180 graus para posicionar esses botões para pessoas canhotas. Para alternar a orientação para canhotos:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Tablet Wacom</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Tablet Wacom</span>.</p></li>
 <li class="steps">
 <p class="p">Clique em <span class="gui">Tablet Wacom</span> para abrir o painel.</p>
 <div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Se nenhum tablet for detectado, você será solicitado a <span class="gui">Por favor conectar ou ligar seu tablet Wacom</span>. Clique no link <span class="gui">Configurações de Bluetooth</span> para conectar um tablet sem fio.</p></div></div></div></div>
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html" title="Tablet Wacom Graphics">Tablet Wacom Graphics</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html" title="Escolhendo um monitor">Mapear um monitor</a></span>, <span class="link"><a href="wacom-stylus.html" title="Configurando a caneta stylus">configurar a caneta</a></span>, <span class="link"><a href="wacom-left-handed.html" title="Usando o tablet como canhoto">usar o tablet como canhoto</a></span>…</span>
+<a href="wacom.html.pt-BR" title="Tablet Wacom Graphics">Tablet Wacom Graphics</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html.pt-BR" title="Escolhendo um monitor">Mapear um monitor</a></span>, <span class="link"><a href="wacom-stylus.html.pt-BR" title="Configurando a caneta stylus">configurar a caneta</a></span>, <span class="link"><a href="wacom-left-handed.html.pt-BR" title="Usando o tablet como canhoto">usar o tablet como canhoto</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

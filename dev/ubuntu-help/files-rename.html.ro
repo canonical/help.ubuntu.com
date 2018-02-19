@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#common-file-tasks" title="Common tasks">Common tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ro" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.ro#common-file-tasks" title="Common tasks">Common tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Rename a file or folder</span></h1></div>
@@ -61,7 +61,7 @@
 </ol></div>
 </div></div>
 <p class="p">You can also rename a file from the
-  <span class="link"><a href="nautilus-file-properties-basic.html" title="File properties">properties</a></span> window.</p>
+  <span class="link"><a href="nautilus-file-properties-basic.html.ro" title="File properties">properties</a></span> window.</p>
 <p class="p">When you rename a file, only the first part of the name of the file is
   selected, not the file extension (the part after the last <span class="file">.</span>).
   The extension normally denotes what type of file it is (for example,
@@ -84,7 +84,7 @@
     <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>,
     <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
 <div class="note note-warning" title="Avertisment"><div class="inner"><div class="region"><div class="contents"><p class="p">If you name a file with a <span class="file">.</span> as the first character, the
-    file will be <span class="link"><a href="files-hidden.html" title="Hide a file">hidden</a></span> when you attempt to
+    file will be <span class="link"><a href="files-hidden.html.ro" title="Hide a file">hidden</a></span> when you attempt to
     view it in the file manager.</p></div></div></div></div>
 </div></div>
 </div></div>
@@ -111,7 +111,7 @@
 <dd class="terms"><p class="p">If <span class="gui">Rename</span> is grayed out, you do not have permission to
         rename the file. You should use caution with renaming such files, as
         renaming some protected files may cause your system to become unstable.
-        See <span class="link"><a href="nautilus-file-properties-permissions.html" title="Set file permissions">Set file permissions</a></span> for more
+        See <span class="link"><a href="nautilus-file-properties-permissions.html.ro" title="Set file permissions">Set file permissions</a></span> for more
         information.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
@@ -119,7 +119,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Common tasks">Common tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ro#common-file-tasks" title="Common tasks">Common tasks</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

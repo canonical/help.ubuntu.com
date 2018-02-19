@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Brezžične povezave">Brezžične povezave</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.sl" title="Brezžične povezave">Brezžične povezave</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html" title="Žične povezave">Žične povezave</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.sl" title="Žične povezave">Žične povezave</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,7 +61,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Za ročno nastavitev svojih omrežnih povezav:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps">
@@ -77,7 +77,7 @@
 </li>
 <li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
       and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>
-<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html" title="Kaj je naslov IP?">IP Address</a></span> and
+<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html.sl" title="Kaj je naslov IP?">IP Address</a></span> and
       <span class="gui">Gateway</span>, as well as the appropriate <span class="gui">Netmask</span>.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">DNS</span> section, switch <span class="gui">Automatic</span> to
       <span class="gui">OFF</span>. Enter the IP address of a DNS server you want to use.
@@ -99,14 +99,14 @@
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="Brezžične povezave">Brezžične povezave</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Povezava z brezžičnim omrežjem">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Povezava s skritim brezžičnim omrežjem">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?">Disconnecting</a></span>…
+<a href="net-wireless.html.sl" title="Brezžične povezave">Brezžične povezave</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.sl" title="Povezava z brezžičnim omrežjem">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.sl" title="Povezava s skritim brezžičnim omrežjem">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.sl" title="Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?">Disconnecting</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="net-wired.html" title="Žične povezave">Žične povezave</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Povezava z žičnim (Eternet) omrežjem">Žične internetne povezave</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Ustvarite povezavo s stalnim naslovom IP">Stalni naslovi IP</a></span> …</span>
+<a href="net-wired.html.sl" title="Žične povezave">Žične povezave</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.sl" title="Povezava z žičnim (Eternet) omrežjem">Žične internetne povezave</a></span>, <span class="link"><a href="net-fixed-ip-address.html.sl" title="Ustvarite povezavo s stalnim naslovom IP">Stalni naslovi IP</a></span> …</span>
 </li>
 </ul></div>
 </div></div></div>

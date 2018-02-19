@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Benutzerkonten</span></h1></div>
@@ -53,30 +53,30 @@
 <div class="hgroup"><h2 class="title"><span class="title">Benutzerkonten verwalten</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Ein neues Benutzerkonto hinzufügen"><span class="title">Ein neues Benutzerkonto hinzufügen</span><span class="linkdiv-dash"> — </span><span class="desc">Neue Benutzer anlegen, damit andere Personen sich am Rechner anmelden können.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Automatisch anmelden"><span class="title">Automatisch anmelden</span><span class="linkdiv-dash"> — </span><span class="desc">Automatisches Anmelden bei Einschalten des Rechners einrichten.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-add.html.de" title="Ein neues Benutzerkonto hinzufügen"><span class="title">Ein neues Benutzerkonto hinzufügen</span><span class="linkdiv-dash"> — </span><span class="desc">Neue Benutzer anlegen, damit andere Personen sich am Rechner anmelden können.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html.de" title="Automatisch anmelden"><span class="title">Automatisch anmelden</span><span class="linkdiv-dash"> — </span><span class="desc">Automatisches Anmelden bei Einschalten des Rechners einrichten.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Löschen eines Benutzerkontos"><span class="title">Löschen eines Benutzerkontos</span><span class="linkdiv-dash"> — </span><span class="desc">Löschen Sie Benutzerkonten, die nicht mehr verwendet werden.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Ändern des Fotos für den Anmeldebildschirm"><span class="title">Ändern des Fotos für den Anmeldebildschirm</span><span class="linkdiv-dash"> — </span><span class="desc">Fügen Sie Ihr Foto zum Anmeldefenster und zur Benutzeranzeige hinzu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html.de" title="Löschen eines Benutzerkontos"><span class="title">Löschen eines Benutzerkontos</span><span class="linkdiv-dash"> — </span><span class="desc">Löschen Sie Benutzerkonten, die nicht mehr verwendet werden.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html.de" title="Ändern des Fotos für den Anmeldebildschirm"><span class="title">Ändern des Fotos für den Anmeldebildschirm</span><span class="linkdiv-dash"> — </span><span class="desc">Fügen Sie Ihr Foto zum Anmeldefenster und zur Benutzeranzeige hinzu.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="passwords" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Passwörter</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html" title="Wählen eines sicheren Passworts"><span class="title">Wählen eines sicheren Passworts</span><span class="linkdiv-dash"> — </span><span class="desc">Verwenden Sie längere, kompliziertere Passwörter.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html" title="Ändern Ihres Passworts"><span class="title">Ändern Ihres Passworts</span><span class="linkdiv-dash"> — </span><span class="desc">Halten Sie Ihr Konto sicher, indem Sie Ihr Passwort häufig in den Benutzereinstellungen ändern.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html.de" title="Wählen eines sicheren Passworts"><span class="title">Wählen eines sicheren Passworts</span><span class="linkdiv-dash"> — </span><span class="desc">Verwenden Sie längere, kompliziertere Passwörter.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html.de" title="Ändern Ihres Passworts"><span class="title">Ändern Ihres Passworts</span><span class="linkdiv-dash"> — </span><span class="desc">Halten Sie Ihr Konto sicher, indem Sie Ihr Passwort häufig in den Benutzereinstellungen ändern.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="privileges" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Benutzerrechte</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html" title="Durch administrative Einschränkungen verursachte Probleme"><span class="title">Durch administrative Einschränkungen verursachte Probleme</span><span class="linkdiv-dash"> — </span><span class="desc">Einige Dinge, wie die Installation von Anwendungen, sind nur mit den Rechten des Systemverwalters möglich.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html" title="Wie funktionieren Systemverwalter-Privilegien?"><span class="title">Wie funktionieren Systemverwalter-Privilegien?</span><span class="linkdiv-dash"> — </span><span class="desc">Sie benötigen Systemverwalterrechte, um Änderungen an wichtigen Teilen Ihres Systems vorzunehmen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.de" title="Durch administrative Einschränkungen verursachte Probleme"><span class="title">Durch administrative Einschränkungen verursachte Probleme</span><span class="linkdiv-dash"> — </span><span class="desc">Einige Dinge, wie die Installation von Anwendungen, sind nur mit den Rechten des Systemverwalters möglich.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.de" title="Wie funktionieren Systemverwalter-Privilegien?"><span class="title">Wie funktionieren Systemverwalter-Privilegien?</span><span class="linkdiv-dash"> — </span><span class="desc">Sie benötigen Systemverwalterrechte, um Änderungen an wichtigen Teilen Ihres Systems vorzunehmen.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-change.html" title="Ändern der Inhaber von Systemverwalterrechten"><span class="title">Ändern der Inhaber von Systemverwalterrechten</span><span class="linkdiv-dash"> — </span><span class="desc">Sie können ändern, welche Benutzer Änderungen am System vornehmen dürfen, indem Sie Ihnen Systemverwalterrechte geben.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.de" title="Ändern der Inhaber von Systemverwalterrechten"><span class="title">Ändern der Inhaber von Systemverwalterrechten</span><span class="linkdiv-dash"> — </span><span class="desc">Sie können ändern, welche Benutzer Änderungen am System vornehmen dürfen, indem Sie Ihnen Systemverwalterrechte geben.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -84,7 +84,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Benutzer- und Systemeinstellungen">Benutzer- und Systemeinstellungen</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tastatur">Tastatur</a></span>, <span class="link"><a href="mouse.html" title="Maus">Maus</a></span>, <span class="link"><a href="prefs-display.html" title="Anzeige und Bildschirm">Anzeige</a></span>, <span class="link"><a href="prefs-language.html" title="Region und Sprache">Sprachen</a></span>, <span class="link"><a href="user-accounts.html" title="Benutzerkonten">Benutzerkonten</a></span> …</span>
+<a href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Benutzer- und Systemeinstellungen</a><span class="desc"> — <span class="link"><a href="keyboard.html.de" title="Tastatur">Tastatur</a></span>, <span class="link"><a href="mouse.html.de" title="Maus">Maus</a></span>, <span class="link"><a href="prefs-display.html.de" title="Anzeige und Bildschirm">Anzeige</a></span>, <span class="link"><a href="prefs-language.html.de" title="Region und Sprache">Sprachen</a></span>, <span class="link"><a href="user-accounts.html.de" title="Benutzerkonten">Benutzerkonten</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

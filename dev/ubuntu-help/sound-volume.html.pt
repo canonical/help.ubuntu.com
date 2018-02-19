@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="media.html#sound" title="Som básico">Som</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="media.html.pt#sound" title="Som básico">Som</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mudar o volume do som</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Para mudar o volume do som, abra o <span class="gui"><a href="shell-introduction.html#yourname" title="Você e o seu computador">menu do sistema</a></span> no lado direito da barra superior e mova o controle deslizante de volume à direita ou à esquerda. Pode desativar completamente o som levando o deslizador ao extremo esquerdo.</p>
+<p class="p">Para mudar o volume do som, abra o <span class="gui"><a href="shell-introduction.html.pt#yourname" title="Você e o seu computador">menu do sistema</a></span> no lado direito da barra superior e mova o controle deslizante de volume à direita ou à esquerda. Pode desativar completamente o som levando o deslizador ao extremo esquerdo.</p>
 <p class="p">Some keyboards have keys that let you control the volume. They normally
   look like stylized speakers with waves coming out of them. They are often
   near the “F” keys at the top. On laptop keyboards, they are usually on the
@@ -64,7 +64,7 @@
 <p class="p">Pode mudar o volume dum aplicação, mas deixar o volume das demais sem mudanças. Isto é útil se está a escutar música e navegando pelo site, por exemplo; é possível que queira desativar o volume no navegador da Internet para que os sons das páginas site não interrompam a música.</p>
 <p class="p">Alguns aplicações têm controles de volume na sua janela principal. Se seu aplicação tem-o, use-o para mudar o volume. Se não o tem:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Som</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Som</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Som</span> para abrir o painel.</p></li>
 <li class="steps">
 <p class="p">Vá à flange <span class="gui">Aplicações</span> e mude o volume do aplicação que aparece.</p>
@@ -78,7 +78,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="Som básico">Som básico</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Mudar o volume do som">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Utilizar altifalantes ou auriculares diferentes">altifalantes e auriculares</a></span>, <span class="link"><a href="sound-usemic.html" title="Utilizar um microfone diferente">microfones</a></span>…</span>
+<a href="media.html.pt#sound" title="Som básico">Som básico</a><span class="desc"> — <span class="link"><a href="sound-volume.html.pt" title="Mudar o volume do som">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html.pt" title="Utilizar altifalantes ou auriculares diferentes">altifalantes e auriculares</a></span>, <span class="link"><a href="sound-usemic.html.pt" title="Utilizar um microfone diferente">microfones</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

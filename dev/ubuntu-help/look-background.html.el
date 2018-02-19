@@ -43,15 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="prefs-display.html" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="prefs-display.html.el" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Μπορείτε να αλλάξετε την χρησιμοποιούμενη εικόνα για τα παρασκήνια σας, ή να την ορίσετε ως συμπαγές χρώμα.</p>
+<p class="p">You can change the image used for your backgrounds or set it to be a
+  solid color.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Παρασκήνιο</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Παρασκήνιο</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Παρασκήνιο</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Επιλέξτε <span class="gui">Παρασκήνιο</span> ή <span class="gui">Κλείδωμα οθόνης</span>.</p></li>
 <li class="steps">
@@ -63,7 +64,7 @@
 </ul></div></div></div>
 </li>
 <li class="steps"><p class="p">Οι ρυθμίσεις εφαρμόζονται αμέσως.</p></li>
-<li class="steps"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Εναλλαγή μεταξύ των χώρων εργασίας">Εναλλαγή σε έναν κενό χώρο εργασίας</a></span> για να δείτε όλη την επιφάνεια εργασίας.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.el" title="Εναλλαγή μεταξύ των χώρων εργασίας">Εναλλαγή σε έναν κενό χώρο εργασίας</a></span> για να δείτε όλη την επιφάνεια εργασίας.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -72,12 +73,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος">Παρασκήνιο</a></span>, <span class="link"><a href="look-resolution.html" title="Αλλαγή της ανάλυσης ή της περιστροφής της οθόνης">Μέγεθος και περιστροφή</a></span>, φωτεινότητα…</span>
+<a href="prefs-display.html.el" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a><span class="desc"> — <span class="link"><a href="look-background.html.el" title="Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος">Παρασκήνιο</a></span>, <span class="link"><a href="look-resolution.html.el" title="Αλλαγή της ανάλυσης ή της περιστροφής της οθόνης">Μέγεθος και περιστροφή</a></span>, φωτεινότητα…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-change-wallpaper.html" title="Αλλαγή ταπετσαρίας">Ένα μάθημα για την αλλαγή της ταπετσαρίας</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-change-wallpaper.html.el" title="Αλλαγή ταπετσαρίας">Ένα μάθημα για την αλλαγή της ταπετσαρίας</a></li></ul></div>
 </div></div>
 </div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Начало работы</span></h1></div>
@@ -117,20 +117,20 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links title-heading"><h2><span class="title">Общие задачи</span></h2></div>
 <div class="region">
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html" title="Выбор фона рабочего стола">Выбор фона рабочего стола</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html" title="Использование окон и рабочих столов">Использование окон и рабочих столов</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html" title="Использование системного поиска">Использование системного поиска</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html" title="Подключение к сетевым учётным записям">Подключение к сетевым учётным записям</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html" title="Путешествие по Интернету">Путешествие по Интернету</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html" title="Смена даты, времени и часового пояса">Смена даты, времени и часового пояса</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html" title="Запуск приложений">Запуск приложений</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html" title="Переключение между задачами">Переключение между задачами</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html" title="Подключение к сети">Подключение к сети</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html.ru" title="Выбор фона рабочего стола">Выбор фона рабочего стола</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html.ru" title="Использование окон и рабочих столов">Использование окон и рабочих столов</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html.ru" title="Использование системного поиска">Использование системного поиска</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html.ru" title="Подключение к сетевым учётным записям">Подключение к сетевым учётным записям</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html.ru" title="Путешествие по Интернету">Путешествие по Интернету</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html.ru" title="Смена даты, времени и часового пояса">Смена даты, времени и часового пояса</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html.ru" title="Запуск приложений">Запуск приложений</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html.ru" title="Переключение между задачами">Переключение между задачами</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html.ru" title="Подключение к сети">Подключение к сети</a></div></div>
 </div>
 </div></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title title-links"><h2><span class="title"></span></h2></div>
-<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html" title="Руководство пользователя Ubuntu">Руководство пользователя Ubuntu</a></div></li></ul></div>
+<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html.ru" title="Руководство пользователя Ubuntu">Руководство пользователя Ubuntu</a></div></li></ul></div>
 </div></div>
 </div></div>
 <div class="clear"></div>

@@ -44,27 +44,23 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="bluetooth.html.fr" title="Bluetooth">Bluetooth</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="Partage">Partage</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.fr" title="Partage">Partage</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Envoi de fichiers vers un périphérique Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can send files to connected Bluetooth devices, such as some mobile
-    phones or other computers. Some types of devices don’t allow the transfer
-    of files, or specific types of files. You can send files in one of three
-    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
-    window, or directly from the file manager.</p>
+<p class="p">Il est possible d'envoyer des fichiers vers des périphériques Bluetooth connectés, comme des téléphones portables ou d'autres ordinateurs. Certains types de périphériques ne permettent pas de transférer des fichiers, ou des types particuliers de fichiers. Vous pouvez envoyer des fichiers à partir de la fenêtre paramètres Bluetooth.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Bluetooth</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Assurez-vous que l'interrupteur Bluetooth dans la barre des titres soit sur <span class="gui">Activé</span>.</p></li>
 <li class="steps">
-<p class="p">Dans la liste des <span class="gui">Périphériques</span>, sélectionnez celui qui recevra les fichiers. S'il n'est pas affiché comme <span class="gui">Connecté</span> dans la liste, vous devez d'abord le <span class="link"><a href="bluetooth-connect-device.html" title="Association d'un ordinateur à un périphérique Bluetooth">connecter</a></span>.</p>
+<p class="p">Dans la liste des <span class="gui">Périphériques</span>, sélectionnez celui qui recevra les fichiers. S'il n'est pas affiché comme <span class="gui">Connecté</span> dans la liste, vous devez d'abord le <span class="link"><a href="bluetooth-connect-device.html.fr" title="Association d'un ordinateur à un périphérique Bluetooth">connecter</a></span>.</p>
 <p class="p">Un panneau spécifique au périphérique externe apparaît.</p>
 </li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Envoyer des fichiers…</span> pour ouvrir le navigateur de fichiers.</p></li>
@@ -82,17 +78,17 @@
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Association d'un ordinateur à un périphérique Bluetooth">Connexion</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Envoi de fichiers vers un périphérique Bluetooth">envoi de fichiers</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Activation ou désactivation du Bluetooth">activation et désactivation</a></span>…</span>
+<a href="bluetooth.html.fr" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.fr" title="Association d'un ordinateur à un périphérique Bluetooth">Connexion</a></span>, <span class="link"><a href="bluetooth-send-file.html.fr" title="Envoi de fichiers vers un périphérique Bluetooth">envoi de fichiers</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.fr" title="Activation ou désactivation du Bluetooth">activation et désactivation</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Partage">Partage</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Partage de votre bureau">Partage de bureau</a></span>, <span class="link"><a href="files-share.html" title="Partage de fichiers par courriel">Partager des fichiers par courriel</a></span>, <span class="link"><a href="sharing-media.html" title="Partage de votre musique, de vos photos et vidéos">Partager les médias</a></span>…</span>
+<a href="sharing.html.fr" title="Partage">Partage</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.fr" title="Partage de votre bureau">Partage de bureau</a></span>, <span class="link"><a href="files-share.html.fr" title="Partage de fichiers par courriel">Partager des fichiers par courriel</a></span>, <span class="link"><a href="sharing-media.html.fr" title="Partage de votre musique, de vos photos et vidéos">Partager les médias</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="Partage de fichiers par courriel">Partage de fichiers par courriel</a><span class="desc"> — Transférer facilement des fichiers à vos contacts de courriel à partir du gestionnaire de fichiers.</span>
+<a href="files-share.html.fr" title="Partage de fichiers par courriel">Partage de fichiers par courriel</a><span class="desc"> — Transférer facilement des fichiers à vos contacts de courriel à partir du gestionnaire de fichiers.</span>
 </li></ul></div>
 </div></div>
 </div>

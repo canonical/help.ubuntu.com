@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Privātuma iestatījumi</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">GNOME <span class="em">privātuma iestatījumi</span> palīdz jums noteikt, vai noteiktas jūsu darbvirsmas daļas ir redzamas citiem. Jūs arī varat izmantot šos iestatījumus, lai iztīrītu sava datora lietošanas vēsturi un izmest nevajadzīgās datnes.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html" title="Automātiski bloķēt ekrānu"><span class="title">Automātiski bloķēt ekrānu</span><span class="linkdiv-dash"> — </span><span class="desc">Neļaut citām personām izmantot jūsu datoru, kad dodaties prom.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html" title="Izslēgt vai ierobežot datņu vēstures izsekošanu"><span class="title">Izslēgt vai ierobežot datņu vēstures izsekošanu</span><span class="linkdiv-dash"> — </span><span class="desc">Pārtraukt vai ierobežot nesen izmantoto datņu sekošanai.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html" title="Iztīrīt miskasti un pagaidu datnes"><span class="title">Iztīrīt miskasti un pagaidu datnes</span><span class="linkdiv-dash"> — </span><span class="desc">Iestatiet, cik bieži datorā tiks tīrīta miskaste un izmestas pagaidu datnes.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-location.html" title="Kontrolēt atrašanās vietas pakalpojumus"><span class="title">Kontrolēt atrašanās vietas pakalpojumus</span><span class="linkdiv-dash"> — </span><span class="desc">Aktivēt vai deaktivēt ģeolokāciju.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.lv" title="Automātiski bloķēt ekrānu"><span class="title">Automātiski bloķēt ekrānu</span><span class="linkdiv-dash"> — </span><span class="desc">Neļaut citām personām izmantot jūsu datoru, kad dodaties prom.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.lv" title="Izslēgt vai ierobežot datņu vēstures izsekošanu"><span class="title">Izslēgt vai ierobežot datņu vēstures izsekošanu</span><span class="linkdiv-dash"> — </span><span class="desc">Pārtraukt vai ierobežot nesen izmantoto datņu sekošanai.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.lv" title="Iztīrīt miskasti un pagaidu datnes"><span class="title">Iztīrīt miskasti un pagaidu datnes</span><span class="linkdiv-dash"> — </span><span class="desc">Iestatiet, cik bieži datorā tiks tīrīta miskaste un izmestas pagaidu datnes.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-location.html.lv" title="Kontrolēt atrašanās vietas pakalpojumus"><span class="title">Kontrolēt atrašanās vietas pakalpojumus</span><span class="linkdiv-dash"> — </span><span class="desc">Aktivēt vai deaktivēt ģeolokāciju.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,7 +62,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Lietotājs un sistēmas iestatījumi</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tastatūra">Tastatūra</a></span>, <span class="link"><a href="mouse.html" title="Pele">pele</a></span>, <span class="link"><a href="prefs-display.html" title="Displejs un ekrāns">displejs</a></span>, <span class="link"><a href="prefs-language.html" title="Vieta un valoda">valodas</a></span>, <span class="link"><a href="user-accounts.html" title="Lietotāju konti">lietotāju konti</a></span>…</span>
+<a href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Lietotājs un sistēmas iestatījumi</a><span class="desc"> — <span class="link"><a href="keyboard.html.lv" title="Tastatūra">Tastatūra</a></span>, <span class="link"><a href="mouse.html.lv" title="Pele">pele</a></span>, <span class="link"><a href="prefs-display.html.lv" title="Displejs un ekrāns">displejs</a></span>, <span class="link"><a href="prefs-language.html.lv" title="Vieta un valoda">valodas</a></span>, <span class="link"><a href="user-accounts.html.lv" title="Lietotāju konti">lietotāju konti</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

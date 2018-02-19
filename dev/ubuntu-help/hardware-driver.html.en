@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.en" title="Hardware &amp; drivers">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">What is a driver?</span></h1></div>
@@ -73,13 +73,13 @@ double-sided printing, but is otherwise completely functional.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">More Information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardware &amp; drivers">Hardware &amp; drivers</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html" title="Printing">printers</a></span>,
-      <span class="link"><a href="power.html" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html" title="Color management">color management</a></span>,
-      <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html" title="Disks &amp; storage">disks</a></span>…
+<a href="hardware.html.en" title="Hardware &amp; drivers">Hardware &amp; drivers</a><span class="desc"> — 
+      <span class="link"><a href="hardware.html.en#problems" title="Common problems">Hardware problems</a></span>,
+      <span class="link"><a href="printing.html.en" title="Printing">printers</a></span>,
+      <span class="link"><a href="power.html.en" title="Power &amp; battery">power settings</a></span>,
+      <span class="link"><a href="color.html.en" title="Color management">color management</a></span>,
+      <span class="link"><a href="bluetooth.html.en" title="Bluetooth">Bluetooth</a></span>,
+      <span class="link"><a href="disk.html.en" title="Disks &amp; storage">disks</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -87,15 +87,15 @@ double-sided printing, but is otherwise completely functional.</p>
 <div class="title"><h2><span class="title">See Also</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-problem-connecting.html" title="I cannot connect my Bluetooth device">I cannot connect my Bluetooth device</a><span class="desc"> — The adapter could be turned off or may not have drivers, or Bluetooth
+<a href="bluetooth-problem-connecting.html.en" title="I cannot connect my Bluetooth device">I cannot connect my Bluetooth device</a><span class="desc"> — The adapter could be turned off or may not have drivers, or Bluetooth
     might be disabled or blocked.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="I have no wireless network when I wake up my computer">I have no wireless network when I wake up my computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
+<a href="power-nowireless.html.en" title="I have no wireless network when I wake up my computer">I have no wireless network when I wake up my computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
     suspended and does not resume properly.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.en" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 </ul></div>
 </div></div>

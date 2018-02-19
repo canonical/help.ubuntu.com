@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,35 +56,35 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Wilayah &amp; Bahasa</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.id" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Akses universal</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-key-super.html" title="Apa itu tombol Super?">Apa itu tombol <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
+<a href="keyboard-key-super.html.id" title="Apa itu tombol Super?">Apa itu tombol <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
     You can usually find it next to the <span class="key"><kbd>Alt</kbd></span> key on your
     keyboard.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html" title="Navigasi papan tik">Navigasi papan tik</a><span class="desc"> — Gunakan aplikasi dan desktop tanpa memakai tetikus.</span>
+<a href="keyboard-nav.html.id" title="Navigasi papan tik">Navigasi papan tik</a><span class="desc"> — Gunakan aplikasi dan desktop tanpa memakai tetikus.</span>
 </li>
 <li class="links ">
-<a href="a11y-slowkeys.html" title="Nyalakan tombol lambat">Nyalakan tombol lambat</a><span class="desc"> — Dapatkan tundaan antara tombol ditekan dan huruf muncul di layar.</span>
+<a href="a11y-slowkeys.html.id" title="Nyalakan tombol lambat">Nyalakan tombol lambat</a><span class="desc"> — Dapatkan tundaan antara tombol ditekan dan huruf muncul di layar.</span>
 </li>
 <li class="links ">
-<a href="a11y-stickykeys.html" title="Nyalakan tombol lengket">Nyalakan tombol lengket</a><span class="desc"> — Ketikkan pintasan papan tik satu tombol setiap saat, bukan dengan menekan semua tombol sekaligus.</span>
+<a href="a11y-stickykeys.html.id" title="Nyalakan tombol lengket">Nyalakan tombol lengket</a><span class="desc"> — Ketikkan pintasan papan tik satu tombol setiap saat, bukan dengan menekan semua tombol sekaligus.</span>
 </li>
 <li class="links ">
-<a href="a11y-bouncekeys.html" title="Nyalakan tombol pantul">Nyalakan tombol pantul</a><span class="desc"> — Abaikan penekanan tombol yang sama yang diulang dengan cepat.</span>
+<a href="a11y-bouncekeys.html.id" title="Nyalakan tombol pantul">Nyalakan tombol pantul</a><span class="desc"> — Abaikan penekanan tombol yang sama yang diulang dengan cepat.</span>
 </li>
 <li class="links ">
-<a href="keyboard-osk.html" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
+<a href="keyboard-osk.html.id" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
     mouse or a touchscreen.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-menu.html" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
+<a href="keyboard-key-menu.html.id" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
     rather than with a right-click.</span>
 </li>
 </ul></div>
@@ -93,21 +93,21 @@
 <div class="title title-links"><h2><span class="title">Topik lainnya</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Buat papan tik tak mengulang huruf ketika Anda menekan lama suatu tombol, atau ubah tundaan dan kecepatan pengulangan tombol.</span>
+<a href="keyboard-repeat-keys.html.id" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Buat papan tik tak mengulang huruf ketika Anda menekan lama suatu tombol, atau ubah tundaan dan kecepatan pengulangan tombol.</span>
 </li>
 <li class="links ">
-<a href="keyboard-cursor-blink.html" title="Membuat kursor papan tik berkedip">Membuat kursor papan tik berkedip</a><span class="desc"> — Make the insertion point blink and control how quickly it
+<a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">Membuat kursor papan tik berkedip</a><span class="desc"> — Make the insertion point blink and control how quickly it
     blinks.</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Menata pintasan papan tik">Menata pintasan papan tik</a><span class="desc"> — Define or change keyboard shortcuts in <span class="gui">Keyboard</span>
+<a href="keyboard-shortcuts-set.html.id" title="Menata pintasan papan tik">Menata pintasan papan tik</a><span class="desc"> — Define or change keyboard shortcuts in <span class="gui">Keyboard</span>
     settings.</span>
 </li>
 <li class="links ">
-<a href="numeric-keypad.html" title="Numeric keypad">Numeric keypad</a><span class="desc"> — Enable the numeric keypad by default.</span>
+<a href="numeric-keypad.html.id" title="Numeric keypad">Numeric keypad</a><span class="desc"> — Enable the numeric keypad by default.</span>
 </li>
 <li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Pintasan papan tik yang berguna">Pintasan papan tik yang berguna</a><span class="desc"> — Get around the desktop using the keyboard.</span>
+<a href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna">Pintasan papan tik yang berguna</a><span class="desc"> — Get around the desktop using the keyboard.</span>
 </li>
 </ul></div>
 </div></div>
@@ -118,10 +118,10 @@
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Papan tik">Papan tik</a></span>, <span class="link"><a href="mouse.html" title="Tetikus">tetikus</a></span>, <span class="link"><a href="prefs-display.html" title="Tampilan &amp; layar">tampilan</a></span>, <span class="link"><a href="prefs-language.html" title="Wilayah &amp; Bahasa">bahasa</a></span>, <span class="link"><a href="user-accounts.html" title="Akun pengguna">akun pengguna</a></span>…</span>
+<a href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — <span class="link"><a href="keyboard.html.id" title="Papan tik">Papan tik</a></span>, <span class="link"><a href="mouse.html.id" title="Tetikus">tetikus</a></span>, <span class="link"><a href="prefs-display.html.id" title="Tampilan &amp; layar">tampilan</a></span>, <span class="link"><a href="prefs-language.html.id" title="Wilayah &amp; Bahasa">bahasa</a></span>, <span class="link"><a href="user-accounts.html.id" title="Akun pengguna">akun pengguna</a></span>…</span>
 </li>
 <li class="links ">
-<a href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras &amp; penggerak</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Masalah umum">Masalah perangkat keras</a></span>, <span class="link"><a href="printing.html" title="Pencetakan">pencetak</a></span>, <span class="link"><a href="power.html" title="Daya &amp; baterai">pengaturan daya</a></span>, <span class="link"><a href="color.html" title="Manajemen warna">manajemen warna</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Disk &amp; penyimpanan">disk</a></span>…</span>
+<a href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras &amp; penggerak</a><span class="desc"> — <span class="link"><a href="hardware.html.id#problems" title="Masalah umum">Masalah perangkat keras</a></span>, <span class="link"><a href="printing.html.id" title="Pencetakan">pencetak</a></span>, <span class="link"><a href="power.html.id" title="Daya &amp; baterai">pengaturan daya</a></span>, <span class="link"><a href="color.html.id" title="Manajemen warna">manajemen warna</a></span>, <span class="link"><a href="bluetooth.html.id" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.id" title="Disk &amp; penyimpanan">disk</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

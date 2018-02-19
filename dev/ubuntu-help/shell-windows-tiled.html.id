@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Desktop Anda">Desktop</a> › <a class="trail" href="shell-overview.html#apps" title="Aplikasi dan jendela">Aplikasi dan jendela</a> » <a class="trail" href="shell-windows.html" title="Jendela dan area kerja">Jendela dan area kerja</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Bekerja dengan jendela">Jendela</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="shell-overview.html.id" title="Desktop Anda">Desktop</a> › <a class="trail" href="shell-overview.html.id#apps" title="Aplikasi dan jendela">Aplikasi dan jendela</a> » <a class="trail" href="shell-windows.html.id" title="Jendela dan area kerja">Jendela dan area kerja</a> › <a class="trail" href="shell-windows.html.id#working-with-windows" title="Bekerja dengan jendela">Jendela</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ubinkan jendela</span></h1></div>
@@ -54,7 +54,7 @@
   them.</p>
 <p class="p">To maximize a window along a side of the screen, grab the titlebar and
   drag it to the left or right side until half of the screen is highlighted.
-  Using the keyboard, hold down <span class="key"><a href="keyboard-key-super.html" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span> and
+  Using the keyboard, hold down <span class="key"><a href="keyboard-key-super.html.id" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span> and
   press the <span class="key"><kbd>Left</kbd></span> or <span class="key"><kbd>Right</kbd></span> key.</p>
 <p class="p">To restore a window to its original size, drag it away from the side of
   the screen, or use the same keyboard shortcut you used to maximize.</p>
@@ -66,12 +66,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Bekerja dengan jendela">Bekerja dengan jendela</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.id#working-with-windows" title="Bekerja dengan jendela">Bekerja dengan jendela</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-maximize.html" title="Maximize and unmaximize a window">Maximize and unmaximize a window</a><span class="desc"> — Klik ganda atau seret bilah judul untuk memaksimumkan atau mengembalikan suatu jendela.</span>
+<a href="shell-windows-maximize.html.id" title="Maximize and unmaximize a window">Maximize and unmaximize a window</a><span class="desc"> — Klik ganda atau seret bilah judul untuk memaksimumkan atau mengembalikan suatu jendela.</span>
 </li></ul></div>
 </div></div>
 </div>

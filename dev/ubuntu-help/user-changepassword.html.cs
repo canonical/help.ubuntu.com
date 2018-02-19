@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="user-accounts.html" title="Uživatelské účty">Uživatelé</a> › <a class="trail" href="user-accounts.html#passwords" title="Hesla">Hesla</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="user-accounts.html.cs" title="Uživatelské účty">Uživatelé</a> › <a class="trail" href="user-accounts.html.cs#passwords" title="Hesla">Hesla</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Změna vašeho hesla</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Je dobrou zvyklostí čas od času změnit své heslo, hlavně když máte podezření, že jej někdo jiný může znát.</p>
-<p class="p">Abyste mohli měnit jiný, než svůj, uživatelský účet, potřebujete <span class="link"><a href="user-admin-explain.html" title="Jak fungují oprávnění správce?">oprávnění správce</a></span>.</p>
+<p class="p">Abyste mohli měnit jiný, než svůj, uživatelský účet, potřebujete <span class="link"><a href="user-admin-explain.html.cs" title="Jak fungují oprávnění správce?">oprávnění správce</a></span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Uživatelé</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Uživatelé</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Uživatelé</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Klikněte na popisek <span class="gui">·····</span> vedle <span class="gui">Hesla</span>. Pokud měníte heslo pro jiného uživatele, musíte nejprve panel <span class="gui">Odemknout</span>.</p></li>
 <li class="steps">
@@ -61,7 +61,7 @@
 </li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Změnit</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Snažte se <span class="link"><a href="user-goodpassword.html" title="Volba bezpečného hesla">zvolit dobré heslo</a></span>. To vám pomůže uchovat váš uživatelský účet v bezpečí.</p>
+<p class="p">Snažte se <span class="link"><a href="user-goodpassword.html.cs" title="Volba bezpečného hesla">zvolit dobré heslo</a></span>. To vám pomůže uchovat váš uživatelský účet v bezpečí.</p>
 <div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Když změníte své přihlašovací heslo, automaticky se zaktualizuje i heslo klíčenky, aby bylo stejné, jako to přihlašovací.</p></div></div></div></div>
 <p class="p">V případě, kdy zapomenete své heslo, může vám jej kdokoliv s oprávněním správce změnit.</p>
 </div>
@@ -70,16 +70,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#passwords" title="Hesla">Hesla</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.cs#passwords" title="Hesla">Hesla</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Jak fungují oprávnění správce?">Jak fungují oprávnění správce?</a><span class="desc"> — Oprávnění správce jsou zapotřebí ke změnám důležitých částí systému.</span>
+<a href="user-admin-explain.html.cs" title="Jak fungují oprávnění správce?">Jak fungují oprávnění správce?</a><span class="desc"> — Oprávnění správce jsou zapotřebí ke změnám důležitých částí systému.</span>
 </li>
 <li class="links ">
-<a href="user-goodpassword.html" title="Volba bezpečného hesla">Volba bezpečného hesla</a><span class="desc"> — Používejte dlouhá a složitá hesla.</span>
+<a href="user-goodpassword.html.cs" title="Volba bezpečného hesla">Volba bezpečného hesla</a><span class="desc"> — Používejte dlouhá a složitá hesla.</span>
 </li>
 </ul></div>
 </div></div>

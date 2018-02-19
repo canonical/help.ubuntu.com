@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Савети и трикови">Савети и трикови</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.sr" title="Савети и трикови">Савети и трикови</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Екран у слици и видеу</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Прави снимак екрана</span></h2></div>
 <div class="region">
 <div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите <span class="app">Снимак екрана</span> из прегледа <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">активности</a></span>.</p></li>
+<li class="steps"><p class="p">Отворите <span class="app">Снимак екрана</span> из прегледа <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">активности</a></span>.</p></li>
 <li class="steps"><p class="p">У прозору <span class="app">Снимак екрана</span>, изаберите да ли желите да обухватите читав екран, текући прозор, или област екрана. Подесите застој ако морате да изаберете прозор или да другачије подесите вашу радну површ за снимање. Затим изаберите неки ефекат ако желите.</p></li>
 <li class="steps">
 <p class="p">Кликните <span class="gui">Сликај екран</span>.</p>
@@ -100,7 +100,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Савети и трикови">Савети и трикови</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Унесите посебне знаке">Посебни знаци</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Средњи клик">пречице средњег клика</a></span>…</span>
+<a href="tips.html.sr" title="Савети и трикови">Савети и трикови</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.sr" title="Унесите посебне знаке">Посебни знаци</a></span>, <span class="link"><a href="mouse-middleclick.html.sr" title="Средњи клик">пречице средњег клика</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

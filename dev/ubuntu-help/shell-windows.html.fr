@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Bureau</a> › <a class="trail" href="shell-overview.html#apps" title="Les applications et les fenêtres">Les applications et les fenêtres</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="shell-overview.html.fr" title="Your desktop">Bureau</a> › <a class="trail" href="shell-overview.html.fr#apps" title="Les applications et les fenêtres">Les applications et les fenêtres</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fenêtres et espaces de travail</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Like other desktops, GNOME uses windows to display your running
-  applications. Using both the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span>
+  applications. Using both the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span>
   overview and the <span class="em">dash</span>, you can launch new applications and control
   active windows.</p>
 <p class="p">En plus des fenêtres, vous pouvez aussi regrouper vos applications ensemble dans des espaces de travail. Consultez les rubriques d'aide sur les fenêtres et les espaces de travail ci-dessous pour apprendre à les utiliser plus facilement.</p>
@@ -59,13 +59,13 @@
 <div class="hgroup"><h2 class="title"><span class="title">Gestion des fenêtres</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Basculement entre fenêtres"><span class="title">Basculement entre fenêtres</span><span class="linkdiv-dash"> — </span><span class="desc">Appuyer sur <span class="keyseq"><span class="key"><kbd>Logo</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html" title="Déplacement et redimensionnement de vos fenêtres."><span class="title">Déplacement et redimensionnement de vos fenêtres.</span><span class="linkdiv-dash"> — </span><span class="desc">Arranger les fenêtres dans un espace de travail pour travailler plus efficacement.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html" title="Juxtaposition de fenêtres"><span class="title">Juxtaposition de fenêtres</span><span class="linkdiv-dash"> — </span><span class="desc">Maximiser deux fenêtres côte à côte.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.fr" title="Basculement entre fenêtres"><span class="title">Basculement entre fenêtres</span><span class="linkdiv-dash"> — </span><span class="desc">Appuyer sur <span class="keyseq"><span class="key"><kbd>Logo</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.fr" title="Déplacement et redimensionnement de vos fenêtres."><span class="title">Déplacement et redimensionnement de vos fenêtres.</span><span class="linkdiv-dash"> — </span><span class="desc">Arranger les fenêtres dans un espace de travail pour travailler plus efficacement.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.fr" title="Juxtaposition de fenêtres"><span class="title">Juxtaposition de fenêtres</span><span class="linkdiv-dash"> — </span><span class="desc">Maximiser deux fenêtres côte à côte.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html" title="Maximisation et réduction d'une fenêtre"><span class="title">Maximisation et réduction d'une fenêtre</span><span class="linkdiv-dash"> — </span><span class="desc">Double-cliquer ou déplacer la barre de titre pour maximiser ou restaurer une fenêtre.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html" title="Recherche d'une fenêtre perdue"><span class="title">Recherche d'une fenêtre perdue</span><span class="linkdiv-dash"> — </span><span class="desc">Examiner la vue d'ensemble des <span class="gui">Activités</span> ou d'autres espaces de travail.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.fr" title="Maximisation et réduction d'une fenêtre"><span class="title">Maximisation et réduction d'une fenêtre</span><span class="linkdiv-dash"> — </span><span class="desc">Double-cliquer ou déplacer la barre de titre pour maximiser ou restaurer une fenêtre.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.fr" title="Recherche d'une fenêtre perdue"><span class="title">Recherche d'une fenêtre perdue</span><span class="linkdiv-dash"> — </span><span class="desc">Examiner la vue d'ensemble des <span class="gui">Activités</span> ou d'autres espaces de travail.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -73,17 +73,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Gestion des espaces de travail</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html" title="Qu'est ce qu'un espace de travail et à quoi sert-il ?"><span class="title">Qu'est ce qu'un espace de travail et à quoi sert-il ?</span><span class="linkdiv-dash"> — </span><span class="desc">Les espaces de travail sont une façon de regrouper les fenêtres sur votre bureau.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html" title="Changement d'espace de travail"><span class="title">Changement d'espace de travail</span><span class="linkdiv-dash"> — </span><span class="desc">Utiliser le sélecteur d'espace de travail.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.fr" title="Qu'est ce qu'un espace de travail et à quoi sert-il ?"><span class="title">Qu'est ce qu'un espace de travail et à quoi sert-il ?</span><span class="linkdiv-dash"> — </span><span class="desc">Les espaces de travail sont une façon de regrouper les fenêtres sur votre bureau.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.fr" title="Changement d'espace de travail"><span class="title">Changement d'espace de travail</span><span class="linkdiv-dash"> — </span><span class="desc">Utiliser le sélecteur d'espace de travail.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html" title="Déplacement d'une fenêtre vers un autre espace de travail"><span class="title">Déplacement d'une fenêtre vers un autre espace de travail</span><span class="linkdiv-dash"> — </span><span class="desc">Aller dans la vue d'ensemble des <span class="gui">Activités</span> et déplacer la fenêtre vers un autre espace de travail.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.fr" title="Déplacement d'une fenêtre vers un autre espace de travail"><span class="title">Déplacement d'une fenêtre vers un autre espace de travail</span><span class="linkdiv-dash"> — </span><span class="desc">Aller dans la vue d'ensemble des <span class="gui">Activités</span> et déplacer la fenêtre vers un autre espace de travail.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Les applications et les fenêtres">Les applications et les fenêtres</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.fr#apps" title="Les applications et les fenêtres">Les applications et les fenêtres</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

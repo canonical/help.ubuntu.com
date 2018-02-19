@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wireless.html" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wireless.html.de" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wired.html" title="Kabelverbindungen">Kabelverbindungen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wired.html.de" title="Kabelverbindungen">Kabelverbindungen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,14 +57,14 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">So richten Sie Ihre Netzwerkeinstellungen manuell ein:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Netzwerk</span>.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Netzwerk</span>.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Netzwerk</span>, um das Panel zu öffnen.</p></li>
 <li class="steps">
 <p class="p">Wählen Sie im linken Teilfenster die Netzwerkverbindung, die Sie manuell einrichten wollen. Wenn Sie beispielsweise ein kabelgebundenes Netzwerk anschließen, klicken Sie auf <span class="gui">Kabelgebunden</span> und dann auf den <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="Einstellungen"></span></span>-Knopf in der unteren linken Ecke des Panels. Im Falle einer <span class="gui">WLAN</span>-Verbindung befindet sich der Knopf <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="Einstellungen"></span></span> neben dem aktiven Netzwerk.</p>
 <p class="p">Stellen Sie sicher, dass Ihr Funknetzwerkadapter eingeschaltet oder das Netzwerkkabel eingesteckt ist.</p>
 </li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">IPv4</span> oder <span class="gui">IPv6</span> in der linken Seitenleiste und ändern Sie <span class="gui">Adressen</span> auf <span class="em">Manuell</span>.</p></li>
-<li class="steps"><p class="p">Geben Sie <span class="gui"><a href="net-what-is-ip-address.html" title="Was ist eine IP-Adresse?">IP-Adresse</a></span> und <span class="gui">Gateway</span> sowie die entsprechende <span class="gui">Netzmaske</span> ein.</p></li>
+<li class="steps"><p class="p">Geben Sie <span class="gui"><a href="net-what-is-ip-address.html.de" title="Was ist eine IP-Adresse?">IP-Adresse</a></span> und <span class="gui">Gateway</span> sowie die entsprechende <span class="gui">Netzmaske</span> ein.</p></li>
 <li class="steps"><p class="p">Stellen Sie <span class="gui">Automatisch</span> im Abschnitt <span class="gui">DNS</span> auf <span class="gui">AUS</span>. Geben Sie die IP-Adresse des DNS-Servers ein, den Sie verwenden möchten. Geben Sie zusätzliche DNS-Server-Adressen mit Hilfe des Knopfes <span class="key"><kbd>+</kbd></span> ein.</p></li>
 <li class="steps"><p class="p">Stellen Sie <span class="gui">Automatisch</span> im Abschnitt <span class="gui">Routen</span> auf <span class="gui">AUS</span>. Geben Sie <span class="gui">Adresse</span>, <span class="gui">Netzmaske</span>, <span class="gui">Gateway</span> und <span class="gui">Metrik</span> für eine Route ein, die Sie verwenden möchten. Geben Sie zusätzliche Routen mit Hilfe des Knopfes <span class="key"><kbd>+</kbd></span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Anwenden</span>. Falls Sie nicht mit dem Netzwerk verbunden sind, verwenden Sie das Netzwerksymbol im oberen Panel und stellen Sie eine Verbindung her. Überprüfen Sie die Netzwerkeinstellungen, indem Sie beispielsweise eine Internet-Seite aufrufen oder nach im Netzwerk freigegebenen Dateien suchen.</p></li>
@@ -77,10 +77,10 @@
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Verbinden mit Funknetzwerken">Mit einem WLAN verbinden</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Verbinden mit verborgenen Funknetzwerken">Verborgene Netzwerke</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Warum wird meine WLAN-Verbindung dauernd getrennt?">Verbindung trennen</a></span> …</span>
+<a href="net-wireless.html.de" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.de" title="Verbinden mit Funknetzwerken">Mit einem WLAN verbinden</a></span>, <span class="link"><a href="net-wireless-hidden.html.de" title="Verbinden mit verborgenen Funknetzwerken">Verborgene Netzwerke</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.de" title="Warum wird meine WLAN-Verbindung dauernd getrennt?">Verbindung trennen</a></span> …</span>
 </li>
 <li class="links ">
-<a href="net-wired.html" title="Kabelverbindungen">Kabelverbindungen</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Mit einem Kabelnetzwerk (Ethernet) verbinden">Kabelgebundene Internetverbindungen</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Eine Verbindung über eine feste IP-Adresse herstellen">feste IP-Adressen</a></span> …</span>
+<a href="net-wired.html.de" title="Kabelverbindungen">Kabelverbindungen</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.de" title="Mit einem Kabelnetzwerk (Ethernet) verbinden">Kabelgebundene Internetverbindungen</a></span>, <span class="link"><a href="net-fixed-ip-address.html.de" title="Eine Verbindung über eine feste IP-Adresse herstellen">feste IP-Adressen</a></span> …</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html#common-file-tasks" title="Уобичајени послови">Уобичајени послови</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.sr" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html.sr#common-file-tasks" title="Уобичајени послови">Уобичајени послови</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Поређајте датотеке и фасцикле</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Можете да поређате датотеке на различите начине у фасцикли, на пример поређавши их према датуму или величини датотеке. Погледајте <span class="link"><a href="#ways" title="Начини ређања датотека">Начини ређања датотека</a></span> за списак општих начина ређања датотека. Погледајте <span class="link"><a href="nautilus-views.html" title="Прикажите поставке у Датотекама">Прикажите поставке у <span class="app">Датотекама</span></a></span> да сазнате како да измените основни поредак ређања.</p>
+<p class="p">Можете да поређате датотеке на различите начине у фасцикли, на пример поређавши их према датуму или величини датотеке. Погледајте <span class="link"><a href="#ways" title="Начини ређања датотека">Начини ређања датотека</a></span> за списак општих начина ређања датотека. Погледајте <span class="link"><a href="nautilus-views.html.sr" title="Прикажите поставке у Датотекама">Прикажите поставке у <span class="app">Датотекама</span></a></span> да сазнате како да измените основни поредак ређања.</p>
 <p class="p">Начин на који можете да поређате датотеке зависи од <span class="em">прегледа фасцикле</span> који користите. Можете да измените тренутни преглед користећи дугмад списка или иконица на траци алата.</p>
 </div>
 <div id="icon-view" class="sect"><div class="inner">
@@ -64,7 +64,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Преглед списком</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Да поређате датотеке на другачији начин, кликните на једно од заглавља колоне у управнику датотека. На пример, кликните <span class="gui">Врста</span> да поређате према врсти датотеке. Кликните поново на заглавље колоне да поређате обрнутим редом.</p>
-<p class="p">У прегледу списком, можете да прикажете колоне са више особина и да ређате по тим колонама. Кликните на дугме прегледа опција на траци алата, изаберите <span class="gui">Приказане колоне</span> и изаберите које колоне желите да буду приказане. Након тога ћете бити у могућности да ређате према тим колонама. Погледајте <span class="link"><a href="nautilus-list.html" title="Поставке колона списка датотека">Поставке колона списка датотека</a></span> за описе о доступним колонама.</p>
+<p class="p">У прегледу списком, можете да прикажете колоне са више особина и да ређате по тим колонама. Кликните на дугме прегледа опција на траци алата, изаберите <span class="gui">Приказане колоне</span> и изаберите које колоне желите да буду приказане. Након тога ћете бити у могућности да ређате према тим колонама. Погледајте <span class="link"><a href="nautilus-list.html.sr" title="Поставке колона списка датотека">Поставке колона списка датотека</a></span> за описе о доступним колонама.</p>
 </div></div>
 </div></div>
 <div id="ways" class="sect"><div class="inner">
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Уобичајени послови">Уобичајени послови</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sr#common-file-tasks" title="Уобичајени послови">Уобичајени послови</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

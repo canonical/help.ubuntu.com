@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Erste Schritte">Erste Schritte mit GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.de" title="Erste Schritte">Erste Schritte mit GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html" title="Zwischen Anwendungen wechseln">Weiter</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html.de" title="Zwischen Anwendungen wechseln">Weiter</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">Anwendungen starten</span></h1></div>
 <div class="region">
 <div class="contents"><div class="ui-tile ">
@@ -80,20 +80,20 @@
 <li class="steps"><p class="p">Sobald das Symbol der Anwendung angezeigt wird und ausgewählt ist, drücken Sie die <span class="key"><kbd>Eingabetaste</kbd></span>, um die Anwendung zu starten.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
-<div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html" title="Zwischen Anwendungen wechseln">Weiter</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html.de" title="Zwischen Anwendungen wechseln">Weiter</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Erste Schritte">Erste Schritte mit GNOME</a><span class="desc"> — Neu bei GNOME? Hier ist Ihr Einstieg.</span>
+<a href="getting-started.html.de" title="Erste Schritte">Erste Schritte mit GNOME</a><span class="desc"> — Neu bei GNOME? Hier ist Ihr Einstieg.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html" title="Anwendungen starten">Anwendungen starten</a><span class="desc"> — Anwendungen in der <span class="gui">Aktivitäten</span>-Übersicht starten.</span>
+<a href="shell-apps-open.html.de" title="Anwendungen starten">Anwendungen starten</a><span class="desc"> — Anwendungen in der <span class="gui">Aktivitäten</span>-Übersicht starten.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html#common-file-tasks" title="Pogoste naloge">Pogoste naloge</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html.sl#common-file-tasks" title="Pogoste naloge">Pogoste naloge</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preimenovanje datoteke ali mape</span></h1></div>
@@ -59,7 +59,7 @@
     <span class="gui">Rename</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Datoteko lahko preimenujete tudi iz okna <span class="link"><a href="nautilus-file-properties-basic.html" title="Lastnosti datoteke">lastnosti</a></span>.</p>
+<p class="p">Datoteko lahko preimenujete tudi iz okna <span class="link"><a href="nautilus-file-properties-basic.html.sl" title="Lastnosti datoteke">lastnosti</a></span>.</p>
 <p class="p">When you rename a file, only the first part of the name of the file is
   selected, not the file extension (the part after the last <span class="file">.</span>).
   The extension normally denotes what type of file it is (for example,
@@ -82,7 +82,7 @@
     <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>,
     <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
 <div class="note note-warning" title="Opozorilo"><div class="inner"><div class="region"><div class="contents"><p class="p">If you name a file with a <span class="file">.</span> as the first character, the
-    file will be <span class="link"><a href="files-hidden.html" title="Skritje datoteke">hidden</a></span> when you attempt to
+    file will be <span class="link"><a href="files-hidden.html.sl" title="Skritje datoteke">hidden</a></span> when you attempt to
     view it in the file manager.</p></div></div></div></div>
 </div></div>
 </div></div>
@@ -103,14 +103,14 @@
         <span class="file">/home/wanda/Documents/work/business-proposals/…</span>), so you
         should avoid long file and folder names where possible.</p></dd>
 <dt class="terms">Možnost za preimenovanje je osivela</dt>
-<dd class="terms"><p class="p">V primeru da je <span class="gui">Preimenuj</span> osivel, nimate dovoljenj za preimenovanje datoteke. V splošnem datotek do katerih nimate ustreznih dovoljenj za preimenovanje ni pametno preimenovati. Za več podrobnosti si oglejte <span class="link"><a href="nautilus-file-properties-permissions.html" title="Nastavitev dovoljenja datotek">Nastavitev dovoljenja datotek</a></span>.</p></dd>
+<dd class="terms"><p class="p">V primeru da je <span class="gui">Preimenuj</span> osivel, nimate dovoljenj za preimenovanje datoteke. V splošnem datotek do katerih nimate ustreznih dovoljenj za preimenovanje ni pametno preimenovati. Za več podrobnosti si oglejte <span class="link"><a href="nautilus-file-properties-permissions.html.sl" title="Nastavitev dovoljenja datotek">Nastavitev dovoljenja datotek</a></span>.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Pogoste naloge">Pogoste naloge</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sl#common-file-tasks" title="Pogoste naloge">Pogoste naloge</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

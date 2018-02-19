@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-display.html" title="Displej a obrazovka">Displej a obrazovka</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-display.html.cs" title="Displej a obrazovka">Displej a obrazovka</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Změna pozadí pracovní plochy a uzamknuté obrazovky</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Můžete změnit obrázek, který se používá jako pozadí nebo nastavit pozadí jen na jednolitou barvu.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Pozadí</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Pozadí</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Pozadí</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Vyberte <span class="gui">Pozadí</span> nebo <span class="gui">Uzamknutá obrazovka</span>.</p></li>
 <li class="steps">
@@ -63,7 +63,7 @@
 </ul></div></div></div>
 </li>
 <li class="steps"><p class="p">Toto nastavení se použije bezprostředně.</p></li>
-<li class="steps"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Přepínání mezi pracovními plochami">Přepněte se na prázdnou pracovní plochu</a></span>, abyste si mohli celou pracovní plochu prohlédnout.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.cs" title="Přepínání mezi pracovními plochami">Přepněte se na prázdnou pracovní plochu</a></span>, abyste si mohli celou pracovní plochu prohlédnout.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -72,12 +72,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Displej a obrazovka">Displej a obrazovka</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Změna pozadí pracovní plochy a uzamknuté obrazovky">Pozadí</a></span>, <span class="link"><a href="look-resolution.html" title="Změna rozlišení nebo otočení obrazovky">velikost a otočení</a></span>, jas…</span>
+<a href="prefs-display.html.cs" title="Displej a obrazovka">Displej a obrazovka</a><span class="desc"> — <span class="link"><a href="look-background.html.cs" title="Změna pozadí pracovní plochy a uzamknuté obrazovky">Pozadí</a></span>, <span class="link"><a href="look-resolution.html.cs" title="Změna rozlišení nebo otočení obrazovky">velikost a otočení</a></span>, jas…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-change-wallpaper.html" title="Změna tapety">Vysvětlení, jak změnit tapetu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-change-wallpaper.html.cs" title="Změna tapety">Vysvětlení, jak změnit tapetu</a></li></ul></div>
 </div></div>
 </div>
 </div>

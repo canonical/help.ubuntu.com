@@ -44,20 +44,20 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="小贴士 &amp; 小技巧">小贴士 &amp; 小技巧</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.zh-CN" title="小贴士 &amp; 小技巧">小贴士 &amp; 小技巧</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">桌面</a> › <a class="trail" href="shell-overview.html#apps" title="应用程序和窗口">应用程序和窗口</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.zh-CN" title="Your desktop">桌面</a> › <a class="trail" href="shell-overview.html.zh-CN#apps" title="应用程序和窗口">应用程序和窗口</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="keyboard.html" title="键盘">键盘</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="keyboard.html.zh-CN" title="键盘">键盘</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="keyboard.html" title="键盘">键盘</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="keyboard.html.zh-CN" title="键盘">键盘</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">可用的键盘快捷键</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">此页面提供了可以让你更有效地使用桌面和应用程序的键盘快捷键的总览。如果不能使用鼠标或其他指点设备，查看 <span class="link"><a href="keyboard-nav.html" title="键盘导航">键盘导航</a></span> 来获取更多关于只使用键盘浏览用户界面的信息。</p>
+<p class="p">此页面提供了可以让你更有效地使用桌面和应用程序的键盘快捷键的总览。如果不能使用鼠标或其他指点设备，查看 <span class="link"><a href="keyboard-nav.html.zh-CN" title="键盘导航">键盘导航</a></span> 来获取更多关于只使用键盘浏览用户界面的信息。</p>
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="true"></div>
 <div class="inner">
@@ -66,7 +66,7 @@
 <tr>
 <td><p class="p">
       <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> or the
-      <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> key
+      <span class="key"><a href="keyboard-key-super.html.zh-CN" title="What is the Super key?"><kbd>Super</kbd></a></span> key
     </p></td>
 <td><p class="p">在<span class="gui">活动</span>视图和桌面之间切换，在视图中输入关键字搜索您的应用程序、联系人和文档。</p></td>
 </tr>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="切换窗口">Quickly switch between
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.zh-CN" title="切换窗口">Quickly switch between
     windows</a></span>. Hold down <span class="key"><kbd>Shift</kbd></span> for reverse order.</p></td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@
       <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> or
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span>
     </p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="在工作区间切换">Switch between
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.zh-CN" title="在工作区间切换">Switch between
      workspaces</a></span>.</p></td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@
       <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> and
       <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span>
     </p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="将窗口移动到另一个工作区">Move the current window to a
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.zh-CN" title="将窗口移动到另一个工作区">Move the current window to a
      different workspace</a></span>.</p></td>
 </tr>
 <tr>
@@ -128,15 +128,15 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html" title="Log out, power off or switch users">Power Off</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.zh-CN" title="Log out, power off or switch users">Power Off</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html#lock-screen" title="锁定屏幕">锁定屏幕。</a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.zh-CN#lock-screen" title="锁定屏幕">锁定屏幕。</a></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Open <span class="link"><a href="shell-notifications.html#messagetray" title="消息托盘">the message
+<td style="border-top-style: solid;"><p class="p">Open <span class="link"><a href="shell-notifications.html.zh-CN#messagetray" title="消息托盘">the message
     tray</a></span>. Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> again or
     <span class="key"><kbd>Esc</kbd></span> to close.</p></td>
 </tr>
@@ -178,19 +178,19 @@
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p"><span class="key"><kbd>Prnt Scrn</kbd></span></p></td>
-<td><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="屏幕抓图">获取屏幕截图</a></span>。</p></td>
+<td><p class="p"><span class="link"><a href="screen-shot-record.html.zh-CN#screenshot" title="屏幕抓图">获取屏幕截图</a></span>。</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Prnt Scrn</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="屏幕抓图">获取窗口的截图</a></span>。</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.zh-CN#screenshot" title="屏幕抓图">获取窗口的截图</a></span>。</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Prnt Scrn</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="屏幕抓图">获取屏幕上某个区域的截图</a></span>。光标变为十字。点击并拖动选择区域。</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.zh-CN#screenshot" title="屏幕抓图">获取屏幕上某个区域的截图</a></span>。光标变为十字。点击并拖动选择区域。</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screencast" title="捕获视频">开始和结束录制屏幕。</a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.zh-CN#screencast" title="捕获视频">开始和结束录制屏幕。</a></span></p></td>
 </tr>
 </table></div>
 </div>
@@ -203,11 +203,11 @@
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="tips.html" title="小贴士 &amp; 小技巧">小贴士 &amp; 小技巧</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="输入特殊字符">特殊符号</a></span>、<span class="link"><a href="mouse-middleclick.html" title="单击中键">中键快捷键</a></span>…</span>
+<a href="tips.html.zh-CN" title="小贴士 &amp; 小技巧">小贴士 &amp; 小技巧</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.zh-CN" title="输入特殊字符">特殊符号</a></span>、<span class="link"><a href="mouse-middleclick.html.zh-CN" title="单击中键">中键快捷键</a></span>…</span>
 </li>
-<li class="links "><a href="shell-overview.html#apps" title="应用程序和窗口">应用程序和窗口</a></li>
+<li class="links "><a href="shell-overview.html.zh-CN#apps" title="应用程序和窗口">应用程序和窗口</a></li>
 <li class="links ">
-<a href="keyboard.html" title="键盘">键盘</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">键盘布局</a></span>、<span class="link"><a href="keyboard-cursor-blink.html" title="让键盘光标闪烁">光标闪烁</a></span>、<span class="link"><a href="a11y.html#mobility" title="运动障碍">键盘辅助功能</a></span>…</span>
+<a href="keyboard.html.zh-CN" title="键盘">键盘</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.zh-CN" title="Use alternative keyboard layouts">键盘布局</a></span>、<span class="link"><a href="keyboard-cursor-blink.html.zh-CN" title="让键盘光标闪烁">光标闪烁</a></span>、<span class="link"><a href="a11y.html.zh-CN#mobility" title="运动障碍">键盘辅助功能</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -215,19 +215,19 @@
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-key-menu.html" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
+<a href="keyboard-key-menu.html.zh-CN" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
     rather than with a right-click.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html" title="What is the Super key?">What is the <span class="key"><kbd>Super</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
+<a href="keyboard-key-super.html.zh-CN" title="What is the Super key?">What is the <span class="key"><kbd>Super</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
     You can usually find it next to the <span class="key"><kbd>Alt</kbd></span> key on your
     keyboard.</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="设置键盘快捷键">设置键盘快捷键</a><span class="desc"> — 在<span class="gui">键盘</span>设置项中定义或修改键盘快捷键。</span>
+<a href="keyboard-shortcuts-set.html.zh-CN" title="设置键盘快捷键">设置键盘快捷键</a><span class="desc"> — 在<span class="gui">键盘</span>设置项中定义或修改键盘快捷键。</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html" title="键盘导航">键盘导航</a><span class="desc"> — 在没有鼠标的情况下单击和移动鼠标指针</span>
+<a href="keyboard-nav.html.zh-CN" title="键盘导航">键盘导航</a><span class="desc"> — 在没有鼠标的情况下单击和移动鼠标指针</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html#common-file-tasks" title="Pogoste naloge">Pogoste naloge</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html.sl#common-file-tasks" title="Pogoste naloge">Pogoste naloge</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Iskanje datotek</span></h1></div>
@@ -55,7 +55,7 @@
 <div class="title title-steps"><h2><span class="title">Iskanje</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="app">Files</span> application from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview.</p></li>
 <li class="steps"><p class="p">V primeru da veste, da so datoteke, ki jih želite, v določeni mapi, pojdite v to mapo.</p></li>
 <li class="steps">
 <p class="p">Type a word or words that you know appear in the file name, and they
@@ -87,7 +87,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Pogoste naloge">Pogoste naloge</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sl#common-file-tasks" title="Pogoste naloge">Pogoste naloge</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wired.html" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Δημιουργία σύνδεσης με σταθερή διεύθυνση IP</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Τα περισσότερα δίκτυα θα εκχωρήσουν αυτόματα μια <span class="link"><a href="net-what-is-ip-address.html" title="Τι είναι μια διεύθυνση IP;">διεύθυνση IP</a></span> και άλλες λεπτομέρειες στον υπολογιστή σας όταν συνδέστε στο δίκτυο. Αυτές οι λεπτομέρειες μπορούν να αλλάζουν περιοδικά, αλλά μπορεί να θέλετε να έχετε μια σταθερή διεύθυνση IP για τον υπολογιστή έτσι ώστε να ξέρετε πάντα ποια είναι η διεύθυνσή του (για παράδειγμα, εάν είναι ένας διακομιστής αρχείων).</p>
+<p class="p">Τα περισσότερα δίκτυα θα εκχωρήσουν αυτόματα μια <span class="link"><a href="net-what-is-ip-address.html.el" title="Τι είναι μια διεύθυνση IP;">διεύθυνση IP</a></span> και άλλες λεπτομέρειες στον υπολογιστή σας όταν συνδέστε στο δίκτυο. Αυτές οι λεπτομέρειες μπορούν να αλλάζουν περιοδικά, αλλά μπορεί να θέλετε να έχετε μια σταθερή διεύθυνση IP για τον υπολογιστή έτσι ώστε να ξέρετε πάντα ποια είναι η διεύθυνσή του (για παράδειγμα, εάν είναι ένας διακομιστής αρχείων).</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Για να δώσετε στον υπολογιστή σας μια σταθερή (στατική) διεύθυνση IP:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Δίκτυο</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Δίκτυο</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Δίκτυο</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">In the left pane, select the network connection that you want to have
       a fixed address. If you plug in to the network with a cable, click
@@ -64,7 +64,7 @@
       button will be located next to the active network.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
       and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>
-<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html" title="Τι είναι μια διεύθυνση IP;">IP Address</a></span> and
+<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html.el" title="Τι είναι μια διεύθυνση IP;">IP Address</a></span> and
       <span class="gui">Gateway</span>, as well as the appropriate <span class="gui">Netmask</span>.</p></li>
 <li class="steps"><p class="p">Στην ενότητα <span class="gui">DNS</span>, αλλάξτε το <span class="gui">Αυτόματο</span> σε <span class="gui">ΟΧΙ</span>. Εισάγετε τη διεύθυνση IP ενός διακομιστή DNS που θέλετε να χρησιμοποιήσετε. Εισάγετε πρόσθετες διευθύνσεις διακομιστή DNS χρησιμοποιώντας το πλήκτρο <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">Στην ενότητα <span class="gui">Διαδρομές</span>, αλλάξτε το <span class="gui">Αυτόματο</span> σε <span class="gui">ΟΧΙ</span>. Εισάγετε τη <span class="gui">Διεύθυνση</span>, τη <span class="gui">Μάσκα δικτύου</span>, τη <span class="gui">Πύλη δικτύου</span> και <span class="gui">Μετρικό</span> για τη διαδρομή που θέλετε να χρησιμοποιήσετε. Εισάγετε επιπρόσθετες διαδρομές χρησιμοποιώντας το πλήκτρο <span class="gui">+</span>.</p></li>
@@ -78,13 +78,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Σύνδεση σε ενσύρματο δίκτυο (Ethernet)">Ενσύρματες συνδέσεις διαδικτύου</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Δημιουργία σύνδεσης με σταθερή διεύθυνση IP">Σταθερές διευθύνσεις IP</a></span>…</span>
+<a href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.el" title="Σύνδεση σε ενσύρματο δίκτυο (Ethernet)">Ενσύρματες συνδέσεις διαδικτύου</a></span>, <span class="link"><a href="net-fixed-ip-address.html.el" title="Δημιουργία σύνδεσης με σταθερή διεύθυνση IP">Σταθερές διευθύνσεις IP</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-findip.html" title="Βρείτε τη διεύθυνση IP σας">Βρείτε τη διεύθυνση IP σας</a><span class="desc"> — Γνωρίζοντας την διεύθυνση IP σας μπορεί να σας βοηθήσει να ανιχνεύσετε τα προβλήματα του δικτύου.</span>
+<a href="net-findip.html.el" title="Βρείτε τη διεύθυνση IP σας">Βρείτε τη διεύθυνση IP σας</a><span class="desc"> — Γνωρίζοντας την διεύθυνση IP σας μπορεί να σας βοηθήσει να ανιχνεύσετε τα προβλήματα του δικτύου.</span>
 </li></ul></div>
 </div></div>
 </div>

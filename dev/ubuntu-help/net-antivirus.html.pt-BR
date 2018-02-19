@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-security.html" title="Mantendo-se seguro na Internet">Mantendo-se seguro na Internet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-security.html.pt-BR" title="Mantendo-se seguro na Internet">Mantendo-se seguro na Internet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Eu preciso de um software de antivírus?</span></h1></div>
@@ -60,13 +60,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Mantendo-se seguro na Internet">Mantendo-se seguro na Internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Eu preciso de um software de antivírus?">Software de antivírus</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Habilitando ou bloqueando acesso no firewall">firewalls básicos</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Portas de rede comumente usadas">portas nos firewalls</a></span>…</span>
+<a href="net-security.html.pt-BR" title="Mantendo-se seguro na Internet">Mantendo-se seguro na Internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.pt-BR" title="Eu preciso de um software de antivírus?">Software de antivírus</a></span>, <span class="link"><a href="net-firewall-on-off.html.pt-BR" title="Habilitando ou bloqueando acesso no firewall">firewalls básicos</a></span>, <span class="link"><a href="net-firewall-ports.html.pt-BR" title="Portas de rede comumente usadas">portas nos firewalls</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email-virus.html" title="Eu preciso verificar meus e-mails por vírus?">Eu preciso verificar meus e-mails por vírus?</a><span class="desc"> — Vírus provavelmente não infectarão seu computador, mas poderiam infectar os computadores de outras pessoas que você troca e-mail.</span>
+<a href="net-email-virus.html.pt-BR" title="Eu preciso verificar meus e-mails por vírus?">Eu preciso verificar meus e-mails por vírus?</a><span class="desc"> — Vírus provavelmente não infectarão seu computador, mas poderiam infectar os computadores de outras pessoas que você troca e-mail.</span>
 </li></ul></div>
 </div></div>
 </div>

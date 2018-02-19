@@ -43,18 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Data i czas</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="clock-set.html" title="Zmiana daty i czasu"><span class="title">Zmiana daty i czasu</span><span class="linkdiv-dash"> — </span><span class="desc">Use the <span class="gui">Date &amp; Time Settings</span> to alter the date or
-    time.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="Calendar appointments"><span class="title">Calendar appointments</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
-    screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html" title="Zmiana strefy czasowej"><span class="title">Zmiana strefy czasowej</span><span class="linkdiv-dash"> — </span><span class="desc">Update your time zone to your current location so that your time is correct.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-world.html" title="Dodawanie zegara światowego"><span class="title">Dodawanie zegara światowego</span><span class="linkdiv-dash"> — </span><span class="desc">Display times in other cities under the calendar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-set.html.pl-PL" title="Zmiana daty i czasu"><span class="title">Zmiana daty i czasu</span><span class="linkdiv-dash"> — </span><span class="desc">Używanie <span class="gui">Ustawień daty i czasu</span> do zmiany daty lub czasu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.pl-PL" title="Spotkania w kalendarzu"><span class="title">Spotkania w kalendarzu</span><span class="linkdiv-dash"> — </span><span class="desc">Wyświetlanie spotkań w kalendarzu na górze ekranu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html.pl-PL" title="Zmiana strefy czasowej"><span class="title">Zmiana strefy czasowej</span><span class="linkdiv-dash"> — </span><span class="desc">Update your time zone to your current location so that your time is correct.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-world.html.pl-PL" title="Dodawanie zegara światowego"><span class="title">Dodawanie zegara światowego</span><span class="linkdiv-dash"> — </span><span class="desc">Display times in other cities under the calendar.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -62,12 +60,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia użytkownika i systemu</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Klawiatura">Klawiatura</a></span>, <span class="link"><a href="mouse.html" title="Mysz">mysz</a></span>, <span class="link"><a href="prefs-display.html" title="Ekran">ekran</a></span>, <span class="link"><a href="prefs-language.html" title="Region i język">język</a></span>, <span class="link"><a href="user-accounts.html" title="Konta użytkowników">konta użytkowników</a></span>…</span>
+<a href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia użytkownika i systemu</a><span class="desc"> — <span class="link"><a href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a></span>, <span class="link"><a href="mouse.html.pl-PL" title="Mysz">mysz</a></span>, <span class="link"><a href="prefs-display.html.pl-PL" title="Ekran">ekran</a></span>, <span class="link"><a href="prefs-language.html.pl-PL" title="Region i język">język</a></span>, <span class="link"><a href="user-accounts.html.pl-PL" title="Konta użytkowników">konta użytkowników</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-change-date-time-timezone.html" title="Zmiana daty, czasu i strefy czasowej">Samouczek zmiany daty, czasu i strefy czasowej</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-change-date-time-timezone.html.pl-PL" title="Zmiana daty, czasu i strefy czasowej">Samouczek zmiany daty, czasu i strefy czasowej</a></li></ul></div>
 </div></div>
 </div>
 </div>

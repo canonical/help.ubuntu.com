@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html#removable" title="Odstranljivi pogoni in zunanji diski">Odstranljivi pogoni in zunanji diski</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html.sl#removable" title="Odstranljivi pogoni in zunanji diski">Odstranljivi pogoni in zunanji diski</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Varna odstranitev zunanjega pogona</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Za izvrzitev odstranljive naprave:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">From the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview,
+<li class="steps"><p class="p">From the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview,
       open <span class="app">Files</span>.</p></li>
 <li class="steps">
 <p class="p">Najdite napravo v stranski vrstici. Poleg imena naj bi imela majhno ikono imenovano izvrzi. Za varno odstranjevanje naprave kliknite nanjo.</p>
@@ -81,7 +81,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#removable" title="Odstranljivi pogoni in zunanji diski">Odstranljivi pogoni in zunanji diski</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sl#removable" title="Odstranljivi pogoni in zunanji diski">Odstranljivi pogoni in zunanji diski</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

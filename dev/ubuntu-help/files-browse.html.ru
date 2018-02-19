@@ -43,34 +43,34 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html#common-file-tasks" title="Типичные задачи">Типичные задачи</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ru" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html.ru#common-file-tasks" title="Типичные задачи">Типичные задачи</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Навигация по файлам и папкам</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Используйте менеджера файлов <span class="app">Nautilus</span> для просмотра и сортировки файлов на компьютере. Также с его помощью можно управлять файлами на устройствах хранения информации (например, внешних жёстких дисках), <span class="link"><a href="nautilus-connect.html" title="Обзор файлов на сервере или сетевом ресурсе">файловых серверах</a></span> и общих ресурсах сети.</p>
+<p class="p">Используйте менеджера файлов <span class="app">Nautilus</span> для просмотра и сортировки файлов на компьютере. Также с его помощью можно управлять файлами на устройствах хранения информации (например, внешних жёстких дисках), <span class="link"><a href="nautilus-connect.html.ru" title="Обзор файлов на сервере или сетевом ресурсе">файловых серверах</a></span> и общих ресурсах сети.</p>
 <p class="p">To start the file manager, open <span class="app">Files</span> in the
-<span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview. You can also search
+<span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview. You can also search
 for files and folders through the overview in the same way you would
-<span class="link"><a href="shell-apps-open.html" title="Запуск приложений">search for applications</a></span>.
+<span class="link"><a href="shell-apps-open.html.ru" title="Запуск приложений">search for applications</a></span>.
 </p>
 </div>
 <div id="files-view-folder-contents" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Просмотр содержимого папок</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">In the file manager, double-click any folder to view its contents, and
-double-click or <span class="link"><a href="mouse-middleclick.html" title="Нажатие средней кнопки мыши">middle-click</a></span> any file to
+double-click or <span class="link"><a href="mouse-middleclick.html.ru" title="Нажатие средней кнопки мыши">middle-click</a></span> any file to
 open it with the default application for that file. Middle-click a folder to
 open it in a new tab. You can also right-click a folder to open it in a new tab
 or new window.</p>
-<p class="p">При навигации по файлам в папке можно быстро выполнить <span class="link"><a href="files-preview.html" title="Предварительный просмотр файлов и папок">предварительный просмотр</a></span> каждого файла, нажимая пробел, чтобы убедиться в правильности выбора файла перед его открытием, копированием или удалением.</p>
+<p class="p">При навигации по файлам в папке можно быстро выполнить <span class="link"><a href="files-preview.html.ru" title="Предварительный просмотр файлов и папок">предварительный просмотр</a></span> каждого файла, нажимая пробел, чтобы убедиться в правильности выбора файла перед его открытием, копированием или удалением.</p>
 <p class="p">The <span class="em">path bar</span> above the list of files and folders shows you which
 folder you’re viewing, including the parent folders of the current folder.
 Click a parent folder in the path bar to go to that folder. Right-click any
 folder in the path bar to open it in a new tab or window, or access its
 properties.</p>
-<p class="p">If you want to quickly <span class="link"><a href="files-search.html" title="Поиск файлов">search for a file</a></span>,
+<p class="p">If you want to quickly <span class="link"><a href="files-search.html.ru" title="Поиск файлов">search for a file</a></span>,
 in or below the folder you are viewing, start typing its name. A <span class="em">search
 bar</span> will appear at the top of the window and only files which match your
 search will be shown. Press <span class="key"><kbd>Esc</kbd></span> to cancel the search.</p>
@@ -87,12 +87,12 @@ and then select <span class="gui">Bookmark this Location</span>.</p>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Типичные задачи">Типичные задачи</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ru#common-file-tasks" title="Типичные задачи">Типичные задачи</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-copy.html" title="Копирование и перемещение файлов и папок">Копирование и перемещение файлов и папок</a><span class="desc"> — Копирование или перемещение объектов в другую папку.</span>
+<a href="files-copy.html.ru" title="Копирование и перемещение файлов и папок">Копирование и перемещение файлов и папок</a><span class="desc"> — Копирование или перемещение объектов в другую папку.</span>
 </li></ul></div>
 </div></div>
 </div>

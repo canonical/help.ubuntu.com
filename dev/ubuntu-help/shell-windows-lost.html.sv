@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html#apps" title="Program och fönster">Program och fönster</a> » <a class="trail" href="shell-windows.html" title="Fönster och arbetsytor">Fönster och arbetsytor</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Arbeta med fönster">Fönster</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html.sv" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html.sv#apps" title="Program och fönster">Program och fönster</a> » <a class="trail" href="shell-windows.html.sv" title="Fönster och arbetsytor">Fönster och arbetsytor</a> › <a class="trail" href="shell-windows.html.sv#working-with-windows" title="Arbeta med fönster">Fönster</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hitta ett förlorat fönster</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Ett fönster på en annan arbetsyta, eller gömt bakom ett annat fönster, hittas enkelt via översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>:</p>
+<p class="p">Ett fönster på en annan arbetsyta, eller gömt bakom ett annat fönster, hittas enkelt via översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Öppna översiktsvyn <span class="gui">Aktiviteter</span>. Om det saknade fönstret finns på den aktuella <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Arbeta med arbetsytor">arbetsytan</a></span> kommer det att visas här som en miniatyrbild. Klicka helt enkelt på miniatyrbilden för att åter visa fönstret, eller</p></li>
-<li class="list"><p class="p">Klicka på olika arbetsytor i <span class="link"><a href="shell-workspaces.html" title="Vad är en arbetsyta, och hur hjälper den mig?">arbetsyteväxlaren</a></span> till höger på skärmen för att försöka hitta ditt fönster, eller</p></li>
+<li class="list"><p class="p">Öppna översiktsvyn <span class="gui">Aktiviteter</span>. Om det saknade fönstret finns på den aktuella <span class="link"><a href="shell-windows.html.sv#working-with-workspaces" title="Arbeta med arbetsytor">arbetsytan</a></span> kommer det att visas här som en miniatyrbild. Klicka helt enkelt på miniatyrbilden för att åter visa fönstret, eller</p></li>
+<li class="list"><p class="p">Klicka på olika arbetsytor i <span class="link"><a href="shell-workspaces.html.sv" title="Vad är en arbetsyta, och hur hjälper den mig?">arbetsyteväxlaren</a></span> till höger på skärmen för att försöka hitta ditt fönster, eller</p></li>
 <li class="list"><p class="p">Högerklicka på programmet i snabbstartspanelen så kommer dess öppna fönster att listas. Klicka på fönstret i listan för att växla till det.</p></li>
 </ul></div></div></div>
 <p class="p">Använda fönsterväxlaren:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Tryck <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tabb</kbd></span></span> för att visa <span class="link"><a href="shell-windows-switching.html" title="Växla mellan fönster">fönsterväxlaren</a></span>. Fortsätt att hålla ner <span class="key"><kbd>Super</kbd></span> och tryck på <span class="key"><kbd>Tabb</kbd></span> för att gå igenom de öppna fönstren, eller <span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Tabb</kbd></span></span> för att gå baklänges.</p></li>
+<li class="list"><p class="p">Tryck <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.sv" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tabb</kbd></span></span> för att visa <span class="link"><a href="shell-windows-switching.html.sv" title="Växla mellan fönster">fönsterväxlaren</a></span>. Fortsätt att hålla ner <span class="key"><kbd>Super</kbd></span> och tryck på <span class="key"><kbd>Tabb</kbd></span> för att gå igenom de öppna fönstren, eller <span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Tabb</kbd></span></span> för att gå baklänges.</p></li>
 <li class="list"><p class="p">Om ett program att flera öppna fönster, håll ner <span class="key"><kbd>Super</kbd></span> och tryck <span class="key"><kbd>`</kbd></span> (eller tangenten ovanför <span class="key"><kbd>Tabb</kbd></span>) för att bläddra genom dem.</p></li>
 </ul></div></div></div>
 </div>
@@ -65,7 +65,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Arbeta med fönster">Arbeta med fönster</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.sv#working-with-windows" title="Arbeta med fönster">Arbeta med fönster</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

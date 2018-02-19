@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Jūsu darbvirsma">Darbvirsma</a> › <a class="trail" href="shell-overview.html#apps" title="Lietotnes un logi">Lietotnes un logi</a> » <a class="trail" href="shell-windows.html" title="Logi un darbvietas">Logi un darbvietas</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Darbs ar logiem">Logi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.lv" title="Jūsu darbvirsma">Darbvirsma</a> › <a class="trail" href="shell-overview.html.lv#apps" title="Lietotnes un logi">Lietotnes un logi</a> » <a class="trail" href="shell-windows.html.lv" title="Logi un darbvietas">Logi un darbvietas</a> › <a class="trail" href="shell-windows.html.lv#working-with-windows" title="Darbs ar logiem">Logi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Maksimizēt logu un atjaunot tā izmēru</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Jūs varat maksimizēt logu, lai tas aizņem visu laukumu uz darbvirsmas un atmaksimizēt logu, lai to atgrieztu parastajā izmērā. Jūs varat arī maksimizēt logu vertikāli gar kreiso un labo ekrāna malu, lai varētu viegli redzēt abus logus vienlaicīgi. Skatiet <span class="link"><a href="shell-windows-tiled.html" title="Izklāt logus">Izklāt logus</a></span>, lai uzzinātu vairāk.</p>
-<p class="p">Lai maksimizētu logu, satveriet virsraksta joslu un velciet to uz ekrāna augšpusi, vai vienkārši veiciet dubultklikšķi uz virsraksta joslas. Lai maksimizētu logu ar tastatūru, turiet piespiestu <span class="key"><a href="keyboard-key-super.html" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span> taustiņu un spiediet <span class="key"><kbd>↑</kbd></span> vai spiediet <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
+<p class="p">Jūs varat maksimizēt logu, lai tas aizņem visu laukumu uz darbvirsmas un atmaksimizēt logu, lai to atgrieztu parastajā izmērā. Jūs varat arī maksimizēt logu vertikāli gar kreiso un labo ekrāna malu, lai varētu viegli redzēt abus logus vienlaicīgi. Skatiet <span class="link"><a href="shell-windows-tiled.html.lv" title="Izklāt logus">Izklāt logus</a></span>, lai uzzinātu vairāk.</p>
+<p class="p">Lai maksimizētu logu, satveriet virsraksta joslu un velciet to uz ekrāna augšpusi, vai vienkārši veiciet dubultklikšķi uz virsraksta joslas. Lai maksimizētu logu ar tastatūru, turiet piespiestu <span class="key"><a href="keyboard-key-super.html.lv" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span> taustiņu un spiediet <span class="key"><kbd>↑</kbd></span> vai spiediet <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
 <p class="p">Lai atjaunotu logu uz tā nemaksimizēto izmēru, velciet to prom no ekrāna malām. Ja logs ir pilnībā maksimizēts, jūs varat veikt dubultklikšķi un virsraksta joslas, lai to atjaunotu. Jūs varat arī izmantot tās pašas tastatūras saīsnes, ko izmantojāt logu maksimizēšanai.</p>
 <div class="note note-tip" title="Padoms"><div class="inner"><div class="region"><div class="contents"><p class="p">Turiet piespiestu <span class="key"><kbd>Super</kbd></span> taustiņu un velciet jebkur logā, lai to pārvietotu.</p></div></div></div></div>
 </div>
@@ -59,12 +59,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Darbs ar logiem">Darbs ar logiem</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.lv#working-with-windows" title="Darbs ar logiem">Darbs ar logiem</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-tiled.html" title="Izklāt logus">Izklāt logus</a><span class="desc"> — Maksimizēt divus logus līdzās.</span>
+<a href="shell-windows-tiled.html.lv" title="Izklāt logus">Izklāt logus</a><span class="desc"> — Maksimizēt divus logus līdzās.</span>
 </li></ul></div>
 </div></div>
 </div>

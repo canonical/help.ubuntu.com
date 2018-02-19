@@ -49,17 +49,17 @@
 <div class="contents">
 <p class="p"><span class="em">Классический GNOME</span> — это функция, которая предоставляет пользователям возможность работать с классическим рабочим столом. Основанный на технологиях <span class="em">GNOME 3</span>, <span class="em">классический GNOME</span> предоставляет в то же время некоторые модификации в пользовательском интерфейсе, например, меню <span class="gui">Приложения</span> и <span class="gui">Места</span> в верхней панели, а также список окон в нижней части экрана.</p>
 <p class="p">You can use the <span class="gui">Applications</span> menu on the top bar to launch
- applications. The <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span>
+ applications. The <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span>
  overview is available by selecting the <span class="gui">Activities
  Overview</span> item from the menu.</p>
-<p class="p"><span class="em"><span class="gui">Обзор</span></span> также можно открыть, нажав клавишу <span class="key"><a href="keyboard-key-super.html" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>.</p>
+<p class="p"><span class="em"><span class="gui">Обзор</span></span> также можно открыть, нажав клавишу <span class="key"><a href="keyboard-key-super.html.ru" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>.</p>
 </div>
 <div id="gnome-classic-window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Список окон</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Список окон в нижней части экрана предоставляет доступ ко всем открытым окнам и приложениям и даёт возможность быстро сворачивать и восстанавливать их.</p>
 <p class="p">Справа от списка окон расположен идентификатор текущего рабочего места, например, <span class="gui">1</span> — для первого (самого верхнего) рабочего места. Идентификатор также показывает общее количество доступных рабочих мест. Чтобы переключиться на другое рабочее место, нажмите на идентификатор и выберите в меню нужное рабочее место.</p>
-<p class="p">Если приложение или системный компонент хочет привлечь внимание пользователя, на правой стороне списка окон появляется голубой значок. Нажатие на значок приводит к появлению <span class="link"><a href="shell-notifications.html" title="Панель для уведомлений и сообщений">панели сообщений</a></span>, предоставляющей доступ ко всем уведомлениям.</p>
+<p class="p">Если приложение или системный компонент хочет привлечь внимание пользователя, на правой стороне списка окон появляется голубой значок. Нажатие на значок приводит к появлению <span class="link"><a href="shell-notifications.html.ru" title="Панель для уведомлений и сообщений">панели сообщений</a></span>, предоставляющей доступ ко всем уведомлениям.</p>
 </div></div>
 </div></div>
 <div id="gnome-classic-switch" class="sect"><div class="inner">

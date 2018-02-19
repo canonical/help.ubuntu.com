@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="power.html" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="power.html.el" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="power.html" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="power.html.el" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,14 +56,14 @@
 <div id="general" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Γενικές συμβουλές</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#suspend" title="Αναστολή">Αναστείλτε τον υπολογιστή σας</a></span> όταν δεν τον χρησιμοποιείτε. Αυτό μειώνει σημαντικά την ποσότητα της ισχύος που χρησιμοποιεί και μπορεί να εγερθεί πολύ γρήγορα.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#shutdown" title="Τερματισμός και επανεκκίνηση">Απενεργοποιήστε</a></span> τον υπολογιστή όταν δεν θα τον χρησιμοποιήσετε για μεγάλες περιόδους. Μερικοί άνθρωποι ανησυχούν ότι κλείνοντας έναν υπολογιστή τακτικά μπορεί να του προκαλέσει φθορά γρηγορότερα, αλλά αυτό δεν συμβαίνει.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.el#suspend" title="Αναστολή">Αναστείλτε τον υπολογιστή σας</a></span> όταν δεν τον χρησιμοποιείτε. Αυτό μειώνει σημαντικά την ποσότητα της ισχύος που χρησιμοποιεί και μπορεί να εγερθεί πολύ γρήγορα.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.el#shutdown" title="Τερματισμός και επανεκκίνηση">Απενεργοποιήστε</a></span> τον υπολογιστή όταν δεν θα τον χρησιμοποιήσετε για μεγάλες περιόδους. Μερικοί άνθρωποι ανησυχούν ότι κλείνοντας έναν υπολογιστή τακτικά μπορεί να του προκαλέσει φθορά γρηγορότερα, αλλά αυτό δεν συμβαίνει.</p></li>
 <li class="list"><p class="p">Use the <span class="gui">Power</span> panel in <span class="app">Settings</span> to change your
     power settings. There are a number of options that will help to save power:
-    you can <span class="link"><a href="display-blank.html" title="Ορισμός χρόνου σβησίματος οθόνης">automatically blank the screen</a></span>
-    after a certain time, reduce the <span class="link"><a href="display-brightness.html" title="Ορισμός φωτεινότητας της οθόνης">screen
+    you can <span class="link"><a href="display-blank.html.el" title="Ορισμός χρόνου σβησίματος οθόνης">automatically blank the screen</a></span>
+    after a certain time, reduce the <span class="link"><a href="display-brightness.html.el" title="Ορισμός φωτεινότητας της οθόνης">screen
     brightness</a></span>, and have the computer
-    <span class="link"><a href="power-autosuspend.html" title="Set up automatic suspend">automatically suspend</a></span> if you have not
+    <span class="link"><a href="power-autosuspend.html.el" title="Set up automatic suspend">automatically suspend</a></span> if you have not
     used it for a certain period of time.</p></li>
 <li class="list"><p class="p">Απενεργοποιήστε όλες τις εξωτερικές συσκευές (όπως εκτυπωτές και σαρωτές) όταν δεν τις χρησιμοποιείτε.</p></li>
 </ul></div></div></div></div></div>
@@ -72,7 +72,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Φορητοί υπολογιστές, μικροϋπολογιστές και άλλες συσκευές με μπαταρίες</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Μειώστε τη <span class="link"><a href="display-brightness.html" title="Ορισμός φωτεινότητας της οθόνης">φωτεινότητα οθόνης</a></span>. Η λειτουργία της οθόνης αντιπροσωπεύει ένα σημαντικό τμήμα της κατανάλωσης ενέργειας του φορητού σας υπολογιστή.</p>
+<p class="p">Μειώστε τη <span class="link"><a href="display-brightness.html.el" title="Ορισμός φωτεινότητας της οθόνης">φωτεινότητα οθόνης</a></span>. Η λειτουργία της οθόνης αντιπροσωπεύει ένα σημαντικό τμήμα της κατανάλωσης ενέργειας του φορητού σας υπολογιστή.</p>
 <p class="p">Οι περισσότεροι φορητοί υπολογιστές έχουν κουμπιά στο πληκτρολόγιο (ή μια συντόμευση πληκτρολογίου) που μπορείτε να χρησιμοποιήσετε για να μειώσετε τη φωτεινότητα.</p>
 </li>
 <li class="list">
@@ -94,10 +94,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;">screen dimming</a></span>…
+<a href="power.html.el" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.el" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.el" title="Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.el" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -105,24 +105,24 @@
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-status.html" title="Check the battery status">Check the battery status</a><span class="desc"> — Display the status of the battery and connected devices.</span>
+<a href="power-status.html.el" title="Check the battery status">Check the battery status</a><span class="desc"> — Display the status of the battery and connected devices.</span>
 </li>
 <li class="links ">
-<a href="power-wireless.html" title="Switch off unused wireless technologies">Switch off unused wireless technologies</a><span class="desc"> — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span>
+<a href="power-wireless.html.el" title="Switch off unused wireless technologies">Switch off unused wireless technologies</a><span class="desc"> — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Αναστολή">Αναστολή</a></li>
+<li class="links "><a href="shell-exit.html.el#suspend" title="Αναστολή">Αναστολή</a></li>
 <li class="links ">
-<a href="power-batterywindows.html" title="Γιατί έχω λιγότερη ζωή μπαταρίας από ότι στα Windows/Mac OS;">Γιατί έχω λιγότερη ζωή μπαταρίας από ότι στα Windows/Mac OS;</a><span class="desc"> — Μικρορυθμίσεις από τον κατασκευαστή και διαφοροποίηση της ζωής της μπαταρίας εκτιμάται ότι μπορεί να είναι η αιτία αυτού του προβλήματος.</span>
-</li>
-<li class="links ">
-<a href="power-whydim.html" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;">Γιατί η οθόνη μου εξασθενεί μετά από λίγο;</a><span class="desc"> — Η οθόνη θα εξασθενίσει όταν ο υπολογιστής είναι αδρανής για να εξοικονομήσει ισχύ.</span>
+<a href="power-batterywindows.html.el" title="Γιατί έχω λιγότερη ζωή μπαταρίας από ότι στα Windows/Mac OS;">Γιατί έχω λιγότερη ζωή μπαταρίας από ότι στα Windows/Mac OS;</a><span class="desc"> — Μικρορυθμίσεις από τον κατασκευαστή και διαφοροποίηση της ζωής της μπαταρίας εκτιμάται ότι μπορεί να είναι η αιτία αυτού του προβλήματος.</span>
 </li>
 <li class="links ">
-<a href="display-brightness.html" title="Ορισμός φωτεινότητας της οθόνης">Ορισμός φωτεινότητας της οθόνης</a><span class="desc"> — Αλλάξτε τη φωτεινότητα οθόνης για να γίνει πιο ευανάγνωστη στο λαμπερό φως.</span>
+<a href="power-whydim.html.el" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;">Γιατί η οθόνη μου εξασθενεί μετά από λίγο;</a><span class="desc"> — Η οθόνη θα εξασθενίσει όταν ο υπολογιστής είναι αδρανής για να εξοικονομήσει ισχύ.</span>
 </li>
-<li class="links "><a href="shell-exit.html#shutdown" title="Τερματισμός και επανεκκίνηση">Τερματισμός και επανεκκίνηση</a></li>
 <li class="links ">
-<a href="power-suspend.html" title="Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;">Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;</a><span class="desc"> — Η αναστολή στέλνει τον υπολογιστή σας σε ύπνο, έτσι ώστε χρησιμοποιεί λιγότερη ισχύ.</span>
+<a href="display-brightness.html.el" title="Ορισμός φωτεινότητας της οθόνης">Ορισμός φωτεινότητας της οθόνης</a><span class="desc"> — Αλλάξτε τη φωτεινότητα οθόνης για να γίνει πιο ευανάγνωστη στο λαμπερό φως.</span>
+</li>
+<li class="links "><a href="shell-exit.html.el#shutdown" title="Τερματισμός και επανεκκίνηση">Τερματισμός και επανεκκίνηση</a></li>
+<li class="links ">
+<a href="power-suspend.html.el" title="Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;">Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;</a><span class="desc"> — Η αναστολή στέλνει τον υπολογιστή σας σε ύπνο, έτσι ώστε χρησιμοποιεί λιγότερη ισχύ.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.te" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ఆన్‌లైన్ ఖాతాలు</span></h1></div>
@@ -54,14 +54,14 @@
   applications to access online services like email, calendars, chat, and
   documents.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="accounts-add.html" title="ఒక ఖాతాను జతచేయి"><span class="title">ఒక ఖాతాను జతచేయి</span><span class="linkdiv-dash"> — </span><span class="desc">Allow applications to access your accounts online for photos,
+<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.te" title="ఒక ఖాతాను జతచేయి"><span class="title">ఒక ఖాతాను జతచేయి</span><span class="linkdiv-dash"> — </span><span class="desc">Allow applications to access your accounts online for photos,
     contacts, calendars, and more.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html" title="ఒక ఖాతాను తీసివేయి"><span class="title">ఒక ఖాతాను తీసివేయి</span><span class="linkdiv-dash"> — </span><span class="desc">Remove access to an online service provider from your
+<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.te" title="ఒక ఖాతాను తీసివేయి"><span class="title">ఒక ఖాతాను తీసివేయి</span><span class="linkdiv-dash"> — </span><span class="desc">Remove access to an online service provider from your
     applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html" title="Why add an account?"><span class="title">Why add an account?</span><span class="linkdiv-dash"> — </span><span class="desc">మీ డెస్కుటాప్‌నకు మీ ఈమెయిల్ లేదా సాఘీక మాధ్యమ ఖాతాలను ఎందుకు జతచేయాలి?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html" title="Online services and applications"><span class="title">Online services and applications</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">ఆన్‌లైన్ ఖాతాలు</span> నందు సృష్టించిన ఖాతాలను మరియు అవి ఇచ్చే సేవలను అనువర్తనాలు వుపయోగించగలవు.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html" title="Why is my account type not on the list?"><span class="title">Why is my account type not on the list?</span><span class="linkdiv-dash"> — </span><span class="desc">ఆన్‌లైన్ సేవ వుత్పాదకుడు జాబితాచేసిలేకపోతే ఏంటి?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html" title="ఒక ఖాతా ఏ ఆన్‌లైన్ సేవలను ఏక్సెస్ చేయాలో నియంత్రించుము"><span class="title">ఒక ఖాతా ఏ ఆన్‌లైన్ సేవలను ఏక్సెస్ చేయాలో నియంత్రించుము</span><span class="linkdiv-dash"> — </span><span class="desc">బహుళ సేవలను ఏక్సెస్ చేయుటకు కొన్ని ఆన్‌లైన్ ఖాతాలు వుపయోగించవచ్చు(క్యాలెండర్ మరియు ఈమెయిల్ వలె). అనువర్తనములచేత వుపయోగించబడు ఈ సేవలను మీరు నియంత్రించవచ్చు.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.te" title="Why add an account?"><span class="title">Why add an account?</span><span class="linkdiv-dash"> — </span><span class="desc">మీ డెస్కుటాప్‌నకు మీ ఈమెయిల్ లేదా సాఘీక మాధ్యమ ఖాతాలను ఎందుకు జతచేయాలి?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.te" title="Online services and applications"><span class="title">Online services and applications</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">ఆన్‌లైన్ ఖాతాలు</span> నందు సృష్టించిన ఖాతాలను మరియు అవి ఇచ్చే సేవలను అనువర్తనాలు వుపయోగించగలవు.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html.te" title="Why is my account type not on the list?"><span class="title">Why is my account type not on the list?</span><span class="linkdiv-dash"> — </span><span class="desc">ఆన్‌లైన్ సేవ వుత్పాదకుడు జాబితాచేసిలేకపోతే ఏంటి?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.te" title="ఒక ఖాతా ఏ ఆన్‌లైన్ సేవలను ఏక్సెస్ చేయాలో నియంత్రించుము"><span class="title">ఒక ఖాతా ఏ ఆన్‌లైన్ సేవలను ఏక్సెస్ చేయాలో నియంత్రించుము</span><span class="linkdiv-dash"> — </span><span class="desc">బహుళ సేవలను ఏక్సెస్ చేయుటకు కొన్ని ఆన్‌లైన్ ఖాతాలు వుపయోగించవచ్చు(క్యాలెండర్ మరియు ఈమెయిల్ వలె). అనువర్తనములచేత వుపయోగించబడు ఈ సేవలను మీరు నియంత్రించవచ్చు.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -70,20 +70,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">వాడుకరి &amp; వ్యవస్థ అమరికలు</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="కీబోర్డు">కీబోర్డు</a></span>, <span class="link"><a href="mouse.html" title="మౌసు">మౌసు</a></span>, <span class="link"><a href="prefs-display.html" title="ప్రదర్శన &amp; తెర">ప్రదర్శన</a></span>, <span class="link"><a href="prefs-language.html" title="ప్రాంతం &amp; భాష">భాషలు</a></span>, <span class="link"><a href="user-accounts.html" title="వాడుకరి ఖాతాలు">వాడుకరి ఖాతాలు</a></span>…</span>
+<a href="prefs.html.te" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">వాడుకరి &amp; వ్యవస్థ అమరికలు</a><span class="desc"> — <span class="link"><a href="keyboard.html.te" title="కీబోర్డు">కీబోర్డు</a></span>, <span class="link"><a href="mouse.html.te" title="మౌసు">మౌసు</a></span>, <span class="link"><a href="prefs-display.html.te" title="ప్రదర్శన &amp; తెర">ప్రదర్శన</a></span>, <span class="link"><a href="prefs-language.html.te" title="ప్రాంతం &amp; భాష">భాషలు</a></span>, <span class="link"><a href="user-accounts.html.te" title="వాడుకరి ఖాతాలు">వాడుకరి ఖాతాలు</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ఇవి కూడా చూడండి</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat.html" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Video calls">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="How can I use Skype on Ubuntu?">install skype</a></span>
+<a href="net-chat.html.te" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.te" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.te" title="Video calls">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.te" title="How can I use Skype on Ubuntu?">install skype</a></span>
     </span>
 </li>
-<li class="links "><a href="gs-connect-online-accounts.html" title="ఆన్‌లైన్ ఖాతాలకు అనుసంధానించు">ఆన్‌లైన్ ఖాతాలకు అనుసంధానమగుటపై ట్యుటోరియల్</a></li>
+<li class="links "><a href="gs-connect-online-accounts.html.te" title="ఆన్‌లైన్ ఖాతాలకు అనుసంధానించు">ఆన్‌లైన్ ఖాతాలకు అనుసంధానమగుటపై ట్యుటోరియల్</a></li>
 </ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Encontrar un archivo perdido</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">Si ha creado o descargado un archivo, pero no sabe dónde está, siga estos consejos.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Si no recuerda dónde guardó el archivo, pero tiene cierta idea de cómo se llama, puede buscarlo por su nombre. Consulte la <span class="link"><a href="files-search.html" title="Buscar archivos">búsqueda por nombre del archivo</a></span>.</p></li>
+<li class="list"><p class="p">Si no recuerda dónde guardó el archivo, pero tiene cierta idea de cómo se llama, puede buscarlo por su nombre. Consulte la <span class="link"><a href="files-search.html.es" title="Buscar archivos">búsqueda por nombre del archivo</a></span>.</p></li>
 <li class="list"><p class="p">Si acaba de descargar el archivo, su navegador web podría haberlo guardado automáticamente en una carpeta común. Compruebe las carpetas <span class="file">Escritorio</span> y <span class="file">Descargas</span> en su carpeta personal.</p></li>
-<li class="list"><p class="p">Es posible que haya eliminado el archivo accidentalmente. Cuando elimina un archivo, se mueve a la papelera, donde permanecerá hasta que vacíe la papelera manualmente. Consulte la <span class="link"><a href="files-recover.html" title="Recuperar un archivo de la papelera">Recuperar un archivo de la papelera</a></span> para saber cómo recuperar un archivo eliminado.</p></li>
-<li class="list"><p class="p">Puede que haya cambiado el nombre del archivo de forma que ahora quede oculto. Los archivos que empiezan por <span class="file">.</span> o que acaban en <span class="file">~</span> están ocultos en el gestor de archivos. Pulse pulse el botón de opciones de la vista en la barra de herramientas de <span class="gui">Archivos</span> y elija <span class="gui">Mostrar los archivos ocultos</span> para mostrarlos. Consulte la <span class="link"><a href="files-hidden.html" title="Ocultar un archivo">Ocultar un archivo</a></span> para obtener más información.</p></li>
+<li class="list"><p class="p">Es posible que haya eliminado el archivo accidentalmente. Cuando elimina un archivo, se mueve a la papelera, donde permanecerá hasta que vacíe la papelera manualmente. Consulte la <span class="link"><a href="files-recover.html.es" title="Recuperar un archivo de la papelera">Recuperar un archivo de la papelera</a></span> para saber cómo recuperar un archivo eliminado.</p></li>
+<li class="list"><p class="p">Puede que haya cambiado el nombre del archivo de forma que ahora quede oculto. Los archivos que empiezan por <span class="file">.</span> o que acaban en <span class="file">~</span> están ocultos en el gestor de archivos. Pulse pulse el botón de opciones de la vista en la barra de herramientas de <span class="gui">Archivos</span> y elija <span class="gui">Mostrar los archivos ocultos</span> para mostrarlos. Consulte la <span class="link"><a href="files-hidden.html.es" title="Ocultar un archivo">Ocultar un archivo</a></span> para obtener más información.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,12 +62,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.es#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-recover.html" title="Recuperar un archivo de la papelera">Recuperar un archivo de la papelera</a><span class="desc"> — Cuando elimina un archivo, normalmente se envía a la papelera, pero es posible recuperarlo.</span>
+<a href="files-recover.html.es" title="Recuperar un archivo de la papelera">Recuperar un archivo de la papelera</a><span class="desc"> — Cuando elimina un archivo, normalmente se envía a la papelera, pero es posible recuperarlo.</span>
 </li></ul></div>
 </div></div>
 </div>

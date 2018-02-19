@@ -45,72 +45,61 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
-<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 17.10</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html" title="Wprowadzenie do środowiska"><span class="title">Wprowadzenie do środowiska GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Nowy użytkownik środowiska GNOME? Dowiedz się, jak go używać.</span></a></div></div></div></div>
+<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 18.04</span></div><div class="region"><div class="contents">
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.pl-PL" title="Wprowadzenie do środowiska"><span class="title">Wprowadzenie do środowiska GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Nowy użytkownik środowiska GNOME? Dowiedz się, jak go używać.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Uruchamianie programów"><span class="title">Uruchamianie programów</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Wprowadzenie do GNOME"><span class="title">Wprowadzenie do GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.pl-PL" title="Uruchamianie programów"><span class="title">Uruchamianie programów</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.pl-PL" title="Wprowadzenie do GNOME"><span class="title">Wprowadzenie do GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
     <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Wylogowywanie, wyłączanie komputera i przełączanie użytkowników"><span class="title">Wylogowywanie, wyłączanie komputera i przełączanie użytkowników</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.pl-PL" title="Wylogowywanie, wyłączanie komputera i przełączanie użytkowników"><span class="title">Wylogowywanie, wyłączanie komputera i przełączanie użytkowników</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
     users, and so on.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="shell-overview.html" title="Your desktop">Your desktop</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html" title="Calendar appointments">Kalendarz</a></span>, <span class="link"><a href="shell-notifications.html" title="Powiadomienia i obszar powiadamiania">powiadomienia</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Przydatne skróty klawiszowe">skróty klawiszowe</a></span>, <span class="link"><a href="shell-windows.html" title="Okna i obszary robocze">okna i obszary robocze</a></span>…</span></div>
+<div class="links-grid-link"><a href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit użytkownika</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html.pl-PL" title="Spotkania w kalendarzu">Kalendarz</a></span>, <span class="link"><a href="shell-notifications.html.pl-PL" title="Powiadomienia i obszar powiadamiania">powiadomienia</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.pl-PL" title="Przydatne skróty klawiszowe">skróty klawiszowe</a></span>, <span class="link"><a href="shell-windows.html.pl-PL" title="Okna i obszary robocze">okna i obszary robocze</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net.html" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a></div>
+<div class="links-grid-link"><a href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieci bezprzewodowe</a></span>, <span class="link"><a href="net-wired.html.pl-PL" title="Sieć przewodowa">przewodowe</a></span>, <span class="link"><a href="net-problem.html.pl-PL" title="Problemy z siecią">problemy z połączeniem</a></span>, <span class="link"><a href="net-browser.html.pl-PL" title="Przeglądarki WWW">przeglądanie Internetu</a></span>, <span class="link"><a href="net-email.html.pl-PL" title="Poczta e-mail i klienty poczty">konta e-mail</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="media.html.pl-PL" title="Dźwięk, filmy i zdjęcia">Dźwięk, filmy i zdjęcia</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="media.html.pl-PL#photos" title="Zdjęcia i aparaty">Aparaty cyfrowe</a></span>, <span class="link"><a href="media.html.pl-PL#music" title="Muzyka i przenośne odtwarzacze">iPod</a></span>, <span class="link"><a href="media.html.pl-PL#photos" title="Zdjęcia i aparaty">retusz zdjęć</a></span>, <span class="link"><a href="media.html.pl-PL#videos" title="Filmy i kamery">odtwarzanie filmów</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki, katalogi i wyszukiwanie</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="files-search.html.pl-PL" title="Wyszukiwanie plików">Wyszukiwanie</a></span>, <span class="link"><a href="files-delete.html.pl-PL" title="Usuwanie plików i katalogów">usuwanie plików</a></span>, <span class="link"><a href="files.html.pl-PL#backup" title="Kopie zapasowe">kopie zapasowe</a></span>, <span class="link"><a href="files.html.pl-PL#removable" title="Nośniki wymienne i dyski zewnętrzne">napędy wymienne</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="addremove.html.pl-PL" title="Install &amp; remove software">Install &amp; remove software</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless.html" title="Sieć bezprzewodowa">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Sieć przewodowa">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Problemy z siecią">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Przeglądarki WWW">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email &amp; email software">email accounts</a></span>…
+      <span class="link"><a href="addremove-install.html.pl-PL" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.pl-PL" title="Usuń program">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.pl-PL" title="Add software repositories">add repositories</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html" title="Dźwięk, obraz i zdjęcia">Dźwięk, obraz i zdjęcia</a></div>
+<div class="links-grid-link"><a href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia użytkownika i systemu</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a></span>, <span class="link"><a href="mouse.html.pl-PL" title="Mysz">mysz</a></span>, <span class="link"><a href="prefs-display.html.pl-PL" title="Ekran">ekran</a></span>, <span class="link"><a href="prefs-language.html.pl-PL" title="Region i język">język</a></span>, <span class="link"><a href="user-accounts.html.pl-PL" title="Konta użytkowników">konta użytkowników</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt i sterowniki</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy ze sprzętem</a></span>, <span class="link"><a href="printing.html.pl-PL" title="Drukowanie">drukarki</a></span>, <span class="link"><a href="power.html.pl-PL" title="Zasilanie i akumulator">ustawienia zasilania</a></span>, <span class="link"><a href="color.html.pl-PL" title="Zarządzanie kolorami">zarządzanie kolorami</a></span>, <span class="link"><a href="bluetooth.html.pl-PL" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.pl-PL" title="Dyski i przechowywanie danych">dyski</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="a11y.html.pl-PL" title="Ułatwienia dostępu">Ułatwienia dostępu</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="a11y.html.pl-PL#vision" title="Wady wzroku">Wzrok</a></span>, <span class="link"><a href="a11y.html.pl-PL#sound" title="Wady słuchu">słuch</a></span>, <span class="link"><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">sprawność ruchowa</a></span>, <span class="link"><a href="a11y-braille.html.pl-PL" title="Odczytywanie ekranu w brajlu">brajl</a></span>, <span class="link"><a href="a11y-mag.html.pl-PL" title="Powiększenie obszaru na ekranie">lupa ekranowa</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="tips.html.pl-PL" title="Porady i wskazówki">Porady i wskazówki</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.pl-PL" title="Wpisywanie znaków specjalnych">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html.pl-PL" title="Kliknięcie środkowym przyciskiem myszy">middle click shortcuts</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="more-help.html.pl-PL" title="Uzyskaj więcej pomocy">Uzyskaj więcej pomocy</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="media.html#photos" title="Zdjęcia i aparaty">Digital cameras</a></span>,
-      <span class="link"><a href="media.html#music" title="Muzyka i przenośne odtwarzacze">iPods</a></span>,
-      <span class="link"><a href="media.html#photos" title="Zdjęcia i aparaty">editing photos</a></span>,
-      <span class="link"><a href="media.html#videos" title="Filmy i kamery">playing videos</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki, katalogi i wyszukiwanie</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="files-search.html" title="Search for files">Wyszukiwanie</a></span>, <span class="link"><a href="files-delete.html" title="Delete files and folders">usuwanie plików</a></span>, <span class="link"><a href="files.html#backup" title="Backing up">kopie zapasowe</a></span>, <span class="link"><a href="files.html#removable" title="Removable drives and external disks">napędy wymienne</a></span>…</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Usuń program">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia użytkownika i systemu</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html" title="Klawiatura">Klawiatura</a></span>, <span class="link"><a href="mouse.html" title="Mysz">mysz</a></span>, <span class="link"><a href="prefs-display.html" title="Ekran">ekran</a></span>, <span class="link"><a href="prefs-language.html" title="Region i język">język</a></span>, <span class="link"><a href="user-accounts.html" title="Konta użytkowników">konta użytkowników</a></span>…</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="hardware.html" title="Sprzęt i sterowniki">Sprzęt i sterowniki</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="hardware.html#problems" title="Często występujące problemy">Problemy ze sprzętem</a></span>, <span class="link"><a href="printing.html" title="Drukowanie">drukarki</a></span>, <span class="link"><a href="power.html" title="Zasilanie i akumulator">ustawienia zasilania</a></span>, <span class="link"><a href="color.html" title="Zarządzanie kolorami">zarządzanie kolorami</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Dyski i przechowywanie danych">dyski</a></span>…</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="a11y.html" title="Ułatwienia dostępu">Ułatwienia dostępu</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="a11y.html#vision" title="Wady wzroku">Wzrok</a></span>, <span class="link"><a href="a11y.html#sound" title="Wady słuchu">Słuch</a></span>, <span class="link"><a href="a11y.html#mobility" title="Niepełnosprawność ruchowa">sprawność ruchowa</a></span>, <span class="link"><a href="a11y-braille.html" title="Odczytywanie ekranu w brajlu">brajl</a></span>, <span class="link"><a href="a11y-mag.html" title="Powiększenie obszaru na ekranie">lupa ekranowa</a></span>…</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="tips.html" title="Tips &amp; tricks">Tips &amp; tricks</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html" title="Enter special characters">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Middle-click">middle click shortcuts</a></span>…</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="more-help.html" title="Uzyskaj więcej pomocy">Uzyskaj więcej pomocy</a></div>
-<div class="desc"><span class="desc">
-        <span class="link"><a href="about-this-guide.html" title="O tym przewodniku">Tips on using this guide</a></span>,
-        <span class="link"><a href="get-involved.html" title="Participate to improve this guide">help improve this guide</a></span>…
+        <span class="link"><a href="about-this-guide.html.pl-PL" title="O tym przewodniku">Tips on using this guide</a></span>,
+        <span class="link"><a href="get-involved.html.pl-PL" title="Participate to improve this guide">help improve this guide</a></span>…
     </span></div>
 </div>
 </div></div></div>

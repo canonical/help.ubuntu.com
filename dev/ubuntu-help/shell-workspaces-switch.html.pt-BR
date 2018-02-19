@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Seu ambiente">Área de trabalho</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicativos e janelas">Aplicativos e janelas</a> » <a class="trail" href="shell-windows.html" title="Janelas e espaços de trabalho">Janelas e espaços de trabalho</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Trabalhando com espaços de trabalho">Espaços de trabalho</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pt-BR" title="Seu ambiente">Área de trabalho</a> › <a class="trail" href="shell-overview.html.pt-BR#apps" title="Aplicativos e janelas">Aplicativos e janelas</a> » <a class="trail" href="shell-windows.html.pt-BR" title="Janelas e espaços de trabalho">Janelas e espaços de trabalho</a> › <a class="trail" href="shell-windows.html.pt-BR#working-with-workspaces" title="Trabalhando com espaços de trabalho">Espaços de trabalho</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Alternando entre espaços de trabalho</span></h1></div>
@@ -52,15 +52,15 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Usando o mouse:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span>.</p></li>
-<li class="steps"><p class="p">Clique em um espaço de trabalho no <span class="link"><a href="shell-workspaces.html" title="O que é um espaço de trabalho e como ele vai me ajudar?">seletor de espaço de trabalho</a></span> no canto direito da tela para ver as janelas abertas naquele espaço selecionado.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span>.</p></li>
+<li class="steps"><p class="p">Clique em um espaço de trabalho no <span class="link"><a href="shell-workspaces.html.pt-BR" title="O que é um espaço de trabalho e como ele vai me ajudar?">seletor de espaço de trabalho</a></span> no canto direito da tela para ver as janelas abertas naquele espaço selecionado.</p></li>
 <li class="steps"><p class="p">Clique em qualquer miniatura de janela para ativar o espaço de trabalho.</p></li>
 </ol></div>
 </div></div>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Usando o teclado:</span></h2></div>
 <div class="region"><ul class="list">
-<li class="list"><p class="p">Pressione <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="O que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span> ou <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span> para mover para o espaço de trabalho mostrado acima do espaço de trabalho atual no seletor de espaço de trabalho.</p></li>
+<li class="list"><p class="p">Pressione <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pt-BR" title="O que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span> ou <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span> para mover para o espaço de trabalho mostrado acima do espaço de trabalho atual no seletor de espaço de trabalho.</p></li>
 <li class="list"><p class="p">Pressione <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> ou <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span> para mover para o espaço de trabalho mostrado embaixo do espaço de trabalho atual no seletor de espaço de trabalho.</p></li>
 </ul></div>
 </div></div>
@@ -70,12 +70,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Trabalhando com espaços de trabalho">Trabalhando com espaços de trabalho</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.pt-BR#working-with-workspaces" title="Trabalhando com espaços de trabalho">Trabalhando com espaços de trabalho</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-workspaces.html" title="O que é um espaço de trabalho e como ele vai me ajudar?">O que é um espaço de trabalho e como ele vai me ajudar?</a><span class="desc"> — Espaços de trabalho são uma maneira de agrupar janelas na sua área de trabalho.</span>
+<a href="shell-workspaces.html.pt-BR" title="O que é um espaço de trabalho e como ele vai me ajudar?">O que é um espaço de trabalho e como ele vai me ajudar?</a><span class="desc"> — Espaços de trabalho são uma maneira de agrupar janelas na sua área de trabalho.</span>
 </li></ul></div>
 </div></div>
 </div>

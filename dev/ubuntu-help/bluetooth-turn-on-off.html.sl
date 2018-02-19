@@ -43,28 +43,42 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="bluetooth.html.sl" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vklop ali izklop Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can turn Bluetooth on to connect to other Bluetooth devices, or turn
-    it off to conserve power. To turn Bluetooth on, click the Bluetooth icon in
-    the menu bar and switch <span class="gui">Bluetooth</span> to <span class="gui">ON</span>.</p>
-<p class="p">Več prenosnih računalnikov ima tipko oz. kombinacijo tipk za vklop/izklop naprave Bluetooth. Če je strojna oprema Bluetooth izklopljena, ikone Bluetooth v menijski vrstici me boste videli. Poiščite stikalo na svojem računalniku oz. tipko na svoji tipkovnici. Tipka je pogosto dostopna s pomočjo tipke<span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
-<p class="p">To turn Bluetooth off, click the Bluetooth icon and switch
-    <span class="gui">Bluetooth</span> to <span class="gui">OFF</span>.</p>
-<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">Your computer is <span class="link"><a href="bluetooth-visibility.html" title="Kaj je vidnost Bluetooth?">visible</a></span>
-    if <span class="gui">Visible</span> is switched to <span class="gui">ON</span> in the Bluetooth
-    menu.</p></div></div></div></div>
+  it off to conserve power. To turn Bluetooth on:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
+      start typing <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Set the switch at the top to <span class="gui">ON</span>.</p></li>
+</ol></div></div></div>
+<p class="p">Many laptop computers have a hardware switch or key combination to turn
+  Bluetooth on and off. Look for a switch on your computer or a key on your
+  keyboard. The keyboard key is often accessed with the help of the
+  <span class="key"><kbd class="key-Fn">Fn</kbd></span> key.</p>
+<p class="p">To turn Bluetooth off:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#yourname" title="Vi in vaš računalnik">system menu</a></span> from the
+      right side of the top bar.</p></li>
+<li class="steps"><p class="p">Select
+      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span>
+      Not In Use</span>. The Bluetooth section of the menu will expand.</p></li>
+<li class="steps"><p class="p">Select <span class="gui">Turn Off</span>.</p></li>
+</ol></div></div></div>
+<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">Your computer is <span class="link"><a href="bluetooth-visibility.html.sl" title="Kaj je vidnost Bluetooth?">visible</a></span> as
+  long as the <span class="gui">Bluetooth</span> panel is open.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Povezava računalnika z napravo Bluetooth.">Povezava</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">pošiljanje datotek</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Vklop ali izklop Bluetooth">vklop in izklop</a></span> …</span>
+<a href="bluetooth.html.sl" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.sl" title="Povezava računalnika z napravo Bluetooth.">Povezava</a></span>, <span class="link"><a href="bluetooth-send-file.html.sl" title="Send files to a Bluetooth device">pošiljanje datotek</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.sl" title="Vklop ali izklop Bluetooth">vklop in izklop</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

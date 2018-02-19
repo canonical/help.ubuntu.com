@@ -43,24 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Полезные советы</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html" title="Ввод специальных символов"><span class="title">Ввод специальных символов</span><span class="linkdiv-dash"> — </span><span class="desc">Набирайте символы, отсутствующие на клавиатуре, включая символы иностранных алфавитов, математические и другие символы.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Нажатие средней кнопки мыши"><span class="title">Нажатие средней кнопки мыши</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
+<div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html.ru" title="Ввод специальных символов"><span class="title">Ввод специальных символов</span><span class="linkdiv-dash"> — </span><span class="desc">Набирайте символы, отсутствующие на клавиатуре, включая символы иностранных алфавитов, математические и другие символы.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.ru" title="Нажатие средней кнопки мыши"><span class="title">Нажатие средней кнопки мыши</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
     more.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="gnome-version.html" title="Определение используемой версии GNOME"><span class="title">Определение используемой версии GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Как определить, какая версия GNOME используется</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Полезные комбинации клавиш"><span class="title">Полезные комбинации клавиш</span><span class="linkdiv-dash"> — </span><span class="desc">Управление рабочим столом с помощью клавиатуры.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html" title="Снимки экрана и скринкасты"><span class="title">Снимки экрана и скринкасты</span><span class="linkdiv-dash"> — </span><span class="desc">Создание снимка экрана или съёмка видео с экрана.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="gnome-version.html.ru" title="Определение используемой версии GNOME"><span class="title">Определение используемой версии GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Как определить, какая версия GNOME используется</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.ru" title="Полезные комбинации клавиш"><span class="title">Полезные комбинации клавиш</span><span class="linkdiv-dash"> — </span><span class="desc">Управление рабочим столом с помощью клавиатуры.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html.ru" title="Снимки экрана и скринкасты"><span class="title">Снимки экрана и скринкасты</span><span class="linkdiv-dash"> — </span><span class="desc">Создание снимка экрана или съёмка видео с экрана.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Руководство пользователя Ubuntu">Руководство пользователя Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.ru" title="Руководство пользователя Ubuntu">Руководство пользователя Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

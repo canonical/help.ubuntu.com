@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html#apps" title="Приложения и окна">Приложения и окна</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ru" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html.ru#apps" title="Приложения и окна">Приложения и окна</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Что означают значки в верхней панели?</span></h1></div>
@@ -52,11 +52,11 @@
 <p class="p">В этом разделе объясняется значение значков, расположенных в правом верхнем углу экрана, в частности, описываются различные варианты значков, представленных в интерфейсе GNOME.</p>
 <div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="Верхняя панель GNOME Shell"></div></div>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="status-icons.html#universalicons" title="Значки меню специальных возможностей">Значки меню специальных возможностей</a></li>
-<li class="links "><a href="status-icons.html#audioicons" title="Значки индикатора громкости">Значки индикатора громкости</a></li>
-<li class="links "><a href="status-icons.html#bluetoothicons" title="Значки диспетчера Bluetooth">Значки диспетчера Bluetooth</a></li>
-<li class="links "><a href="status-icons.html#networkicons" title="Значки диспетчера сети">Значки диспетчера сети</a></li>
-<li class="links "><a href="status-icons.html#batteryicons" title="Значки диспетчера питания">Значки диспетчера питания</a></li>
+<li class="links "><a href="status-icons.html.ru#universalicons" title="Значки меню специальных возможностей">Значки меню специальных возможностей</a></li>
+<li class="links "><a href="status-icons.html.ru#audioicons" title="Значки индикатора громкости">Значки индикатора громкости</a></li>
+<li class="links "><a href="status-icons.html.ru#bluetoothicons" title="Значки диспетчера Bluetooth">Значки диспетчера Bluetooth</a></li>
+<li class="links "><a href="status-icons.html.ru#networkicons" title="Значки диспетчера сети">Значки диспетчера сети</a></li>
+<li class="links "><a href="status-icons.html.ru#batteryicons" title="Значки диспетчера питания">Значки диспетчера питания</a></li>
 </ul></div></div></div>
 </div>
 <div id="universalicons" class="sect"><div class="inner">
@@ -306,7 +306,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Приложения и окна">Приложения и окна</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.ru#apps" title="Приложения и окна">Приложения и окна</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

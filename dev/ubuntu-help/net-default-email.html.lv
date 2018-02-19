@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-email.html" title="E-pasts un e-pasta programmatūra">E-pasts un e-pasta programmatūra</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-email.html.lv" title="E-pasts un e-pasta programmatūra">E-pasts un e-pasta programmatūra</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nomainiet, kura pasta lietotne tiks izmantota, lai rakstītu e-pastus.</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Nospiežot pogu vai adresi, lai sūtītu jaunu e-pastu (piemēram, teksta redaktorā), noklusējuma pasta lietotne atvērsies ar tukšu ziņu un būs sagatavota, lai varētu uzrakstīt vēstuli. Ja ir instalēta vairāk nekā viena pasta lietotne, iespējams, var atvērties nepareizā pasta lietotne. To varat izlabot, nomainot noklusējuma e-pasta lietotni:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="link"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Sīkāka informācija</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="link"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Sīkāka informācija</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Sīkāka informācija</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Izvēlieties <span class="gui">Noklusējuma lietotnes</span> loga kreisās puses sarakstā.</p></li>
 <li class="steps"><p class="p">Izvēlieties, kuru e-pasta klientu vēlaties izmantot kā noklusējuma, mainot <span class="gui">Pasts</span> opciju.</p></li>
@@ -62,7 +62,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email.html" title="E-pasts un e-pasta programmatūra">E-pasts un e-pasta programmatūra</a><span class="desc"> — <span class="link"><a href="net-default-email.html" title="Nomainiet, kura pasta lietotne tiks izmantota, lai rakstītu e-pastus.">Noklusējuma e-pasta lietotnes</a></span>, <span class="link"><a href="net-email-virus.html" title="Vai man vajag skenēt savus e-pastus pret vīrusiem?">Vai man vajadzētu meklēt vīrusus?</a></span>…</span>
+<a href="net-email.html.lv" title="E-pasts un e-pasta programmatūra">E-pasts un e-pasta programmatūra</a><span class="desc"> — <span class="link"><a href="net-default-email.html.lv" title="Nomainiet, kura pasta lietotne tiks izmantota, lai rakstītu e-pastus.">Noklusējuma e-pasta lietotnes</a></span>, <span class="link"><a href="net-email-virus.html.lv" title="Vai man vajag skenēt savus e-pastus pret vīrusiem?">Vai man vajadzētu meklēt vīrusus?</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

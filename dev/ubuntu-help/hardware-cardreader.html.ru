@@ -44,20 +44,20 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html#problems" title="Типичные проблемы">Неполадки</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Звук, видео и изображения">Звук, видео и изображения</a> › <a class="trail" href="media.html#photos" title="Фотографии и цифровые фотокамеры">Фотографии</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ru" title="Звук, видео и изображения">Звук, видео и изображения</a> › <a class="trail" href="media.html.ru#photos" title="Фотографии и цифровые фотокамеры">Фотографии</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Проблемы с устройствами для чтения карт памяти</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Многие компьютеры оснащены устройствами чтения SD, MMC, SM, MS, CF и других мультимедийных карт памяти. Они должны обнаруживаться и <span class="link"><a href="disk-partitions.html" title="Управление томами и разделами">подключаться</a></span> автоматически. Вот несколько советов по устранению неполадок, на случай, если этого не происходит:</p>
+<p class="p">Многие компьютеры оснащены устройствами чтения SD, MMC, SM, MS, CF и других мультимедийных карт памяти. Они должны обнаруживаться и <span class="link"><a href="disk-partitions.html.ru" title="Управление томами и разделами">подключаться</a></span> автоматически. Вот несколько советов по устранению неполадок, на случай, если этого не происходит:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Убедитесь в том, что карта памяти вставлена правильно. Многие карты памяти, когда они вставлены правильно, выглядят перевёрнутыми. Проверьте также, надёжно ли карта вставлена в отверстие. Некоторые карты памяти, особенно CF, для вставки требуют приложения небольшого усилия. (Будьте осторожны и не нажимайте слишком сильно! Если карта наткнулась на что-то твёрдое, не проталкивайте её.)</p></li>
 <li class="steps"><p class="p">Open <span class="app">Files</span> from the
-  <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview. Does the inserted
+  <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview. Does the inserted
   card appear in the <span class="gui">Devices</span> list in the left sidebar? Sometimes the
   card appears in this list but is not mounted; click it once to mount. (If the
   sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
@@ -82,8 +82,8 @@ Linux.</p>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="hardware.html#problems" title="Типичные проблемы">Неполадки оборудования</a></li>
-<li class="links "><a href="media.html#photos" title="Фотографии и цифровые фотокамеры">Фотографии</a></li>
+<li class="links "><a href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки оборудования</a></li>
+<li class="links "><a href="media.html.ru#photos" title="Фотографии и цифровые фотокамеры">Фотографии</a></li>
 </ul></div>
 </div></div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="power.html" title="Напајање и батерија">Напајање и батерија</a> › <a class="trail" href="power.html#saving" title="Подешавања уштеде напајања">Подешавања уштеде напајања</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="power.html.sr" title="Напајање и батерија">Напајање и батерија</a> › <a class="trail" href="power.html.sr#saving" title="Подешавања уштеде напајања">Подешавања уштеде напајања</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="power.html" title="Напајање и батерија">Напајање и батерија</a> › <a class="trail" href="power.html#saving" title="Подешавања уштеде напајања">Подешавања уштеде напајања</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="power.html.sr" title="Напајање и батерија">Напајање и батерија</a> › <a class="trail" href="power.html.sr#saving" title="Подешавања уштеде напајања">Подешавања уштеде напајања</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Можете подесити рачунар да сам обустави рад када мирује. Различити интервали могу бити наведени када ради на батерији или када се напаја из мреже.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Напајање</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Напајање</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Напајање</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">У одељку <span class="gui">Обустављање и дугме напајања</span>, кликните на <span class="gui">Аутоматско обустављање</span>.</p></li>
 <li class="steps">
@@ -69,14 +69,14 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#saving" title="Подешавања уштеде напајања">Подешавања уштеде напајања</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.sr#saving" title="Подешавања уштеде напајања">Подешавања уштеде напајања</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html#suspend" title="Обустављање">Обустављање</a></li>
+<li class="links "><a href="shell-exit.html.sr#suspend" title="Обустављање">Обустављање</a></li>
 <li class="links ">
-<a href="power-suspend.html" title="Шта се дешава када обуставим рачунар?">Шта се дешава када обуставим рачунар?</a><span class="desc"> — Обустављање шаље ваш рачунар на спавање тако да користи мање напајања.</span>
+<a href="power-suspend.html.sr" title="Шта се дешава када обуставим рачунар?">Шта се дешава када обуставим рачунар?</a><span class="desc"> — Обустављање шаље ваш рачунар на спавање тако да користи мање напајања.</span>
 </li>
 </ul></div>
 </div></div>

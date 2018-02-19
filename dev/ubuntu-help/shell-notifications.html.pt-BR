@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Seu ambiente">Área de trabalho</a> › <a class="trail" href="shell-overview.html#desktop" title="Personalizando seu ambiente">Personalizando seu ambiente</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pt-BR" title="Seu ambiente">Área de trabalho</a> › <a class="trail" href="shell-overview.html.pt-BR#desktop" title="Personalizando seu ambiente">Personalizando seu ambiente</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Notificações e a área de notificação</span></h1></div>
@@ -61,7 +61,7 @@
 <div id="messagetray" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">A área de notificação</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">A área de notificação lhe fornece uma maneira de recuperar suas notificações quando lhe for conveniente. Ela aparece quando você clica no relógio, o pressiona <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="O que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span>. A área de notificação contém todas as notificações sobre as quais você não tomou uma atitude ou que residem permanentemente lá.</p>
+<p class="p">A área de notificação lhe fornece uma maneira de recuperar suas notificações quando lhe for conveniente. Ela aparece quando você clica no relógio, o pressiona <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pt-BR" title="O que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span>. A área de notificação contém todas as notificações sobre as quais você não tomou uma atitude ou que residem permanentemente lá.</p>
 <p class="p">Você pode ver as notificações clicando nos itens da área de notificação. Eles costumam ser mensagens enviadas por aplicativos. Entretanto, notificações de bate-papo recebem um tratamento especial e são representadas pelos contatos que lhe enviaram as mensagens.</p>
 <p class="p">Você pode fechar a área de notificação pressionando <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> novamente ou <span class="key"><kbd>Esc</kbd></span>.</p>
 </div></div>
@@ -71,7 +71,7 @@
 <div class="region"><div class="contents">
 <p class="p">Se você estiver trabalhando em alguma coisa e não quer ser incomodado, você pode desativar as notificações.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Notificações</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Notificações</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Notificações</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Alterne <span class="gui">Banners de notificação</span> para <span class="key"><kbd>○</kbd></span>.</p></li>
 </ol></div></div></div>
@@ -83,7 +83,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="Personalizando seu ambiente">Personalizando seu ambiente</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.pt-BR#desktop" title="Personalizando seu ambiente">Personalizando seu ambiente</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

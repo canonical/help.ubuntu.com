@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="power.html" title="Ström och batteri">Ström och batteri</a> › <a class="trail" href="power.html#faq" title="Frågor">Frågor</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="power.html.sv" title="Ström och batteri">Ström och batteri</a> › <a class="trail" href="power.html.sv#faq" title="Frågor">Frågor</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="power.html" title="Ström och batteri">Ström och batteri</a> › <a class="trail" href="power.html#faq" title="Frågor">Frågor</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="power.html.sv" title="Ström och batteri">Ström och batteri</a> › <a class="trail" href="power.html.sv#faq" title="Frågor">Frågor</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Vissa datorer verkar ha en kortare batteridriftstid när de kör Linux än de har när de kör Windows eller Mac OS. En anledning till detta är att datortillverkare installerar specialprogram för Windows/Mac OS som optimerar diverse hårdvaru-/programvaruinställningar för en given datormodell. Dessa justeringar är ofta väldigt specifika och är kanske inte dokumenterade, så att inkludera dem i Linux är svårt.</p>
-<p class="p">Tyvärr finns det inget enkelt sätt att själv applicera dessa justeringar utan att veta exakt vad de gör. Några av <span class="link"><a href="power-batterylife.html" title="Använd mindre ström och förbättra batteridriftstiden">strömsparmetoderna</a></span> kan hjälpa dock. Om din dator har en <span class="link"><a href="power-batteryslow.html" title="Varför är min bärbara dator så långsam när den kör på batteri?">processor som kan variera hastighet</a></span> så kan det vara bra att ändra dess inställningar.</p>
+<p class="p">Tyvärr finns det inget enkelt sätt att själv applicera dessa justeringar utan att veta exakt vad de gör. Några av <span class="link"><a href="power-batterylife.html.sv" title="Använd mindre ström och förbättra batteridriftstiden">strömsparmetoderna</a></span> kan hjälpa dock. Om din dator har en <span class="link"><a href="power-batteryslow.html.sv" title="Varför är min bärbara dator så långsam när den kör på batteri?">processor som kan variera hastighet</a></span> så kan det vara bra att ändra dess inställningar.</p>
 <p class="p">Andra möjliga skäl till skillnaden är att metoden för att uppskatta batteridriftstid är olika i Windows/Mac OS än i Linux. Den riktiga batteridriftstiden skulle kunna vara exakt den samma men de olika metoderna ger olika uppskattning.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,19 +62,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Frågor">Frågor</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.sv#faq" title="Frågor">Frågor</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batterylife.html" title="Använd mindre ström och förbättra batteridriftstiden">Använd mindre ström och förbättra batteridriftstiden</a><span class="desc"> — Tips på hur du reducerar din dators strömförbrukning.</span>
+<a href="power-batterylife.html.sv" title="Använd mindre ström och förbättra batteridriftstiden">Använd mindre ström och förbättra batteridriftstiden</a><span class="desc"> — Tips på hur du reducerar din dators strömförbrukning.</span>
 </li>
 <li class="links ">
-<a href="power-batteryestimate.html" title="Den uppskattade batteridriftstiden är fel">Den uppskattade batteridriftstiden är fel</a><span class="desc"> — Batteridriftstiden som visas när du klickar på <span class="gui">batteriikonen</span> är en uppskattning.</span>
+<a href="power-batteryestimate.html.sv" title="Den uppskattade batteridriftstiden är fel">Den uppskattade batteridriftstiden är fel</a><span class="desc"> — Batteridriftstiden som visas när du klickar på <span class="gui">batteriikonen</span> är en uppskattning.</span>
 </li>
 <li class="links ">
-<a href="power-batteryslow.html" title="Varför är min bärbara dator så långsam när den kör på batteri?">Varför är min bärbara dator så långsam när den kör på batteri?</a><span class="desc"> — Vissa bärbara datorer kör avsiktligt saktare när de kör på batteri.</span>
+<a href="power-batteryslow.html.sv" title="Varför är min bärbara dator så långsam när den kör på batteri?">Varför är min bärbara dator så långsam när den kör på batteri?</a><span class="desc"> — Vissa bärbara datorer kör avsiktligt saktare när de kör på batteri.</span>
 </li>
 </ul></div>
 </div></div>

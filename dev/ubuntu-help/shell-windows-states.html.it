@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Ambiente grafico</a> › <a class="trail" href="shell-overview.html#apps" title="Applicazioni e finestre">Applicazioni e finestre</a> » <a class="trail" href="shell-windows.html" title="Finestre e spazi di lavoro">Finestre e spazi di lavoro</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Lavorare con le finestre">Finestre</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.it" title="Your desktop">Ambiente grafico</a> › <a class="trail" href="shell-overview.html.it#apps" title="Applicazioni e finestre">Applicazioni e finestre</a> » <a class="trail" href="shell-windows.html.it" title="Finestre e spazi di lavoro">Finestre e spazi di lavoro</a> › <a class="trail" href="shell-windows.html.it#working-with-windows" title="Lavorare con le finestre">Finestre</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Spostare e ridimensionare le finestre</span></h1></div>
@@ -54,19 +54,19 @@
   and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Move a window by dragging the titlebar, or hold down
-      <span class="key"><a href="keyboard-key-super.html" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span> and drag anywhere in the
+      <span class="key"><a href="keyboard-key-super.html.it" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span> and drag anywhere in the
       window. Hold down <span class="key"><kbd>Shift</kbd></span> while moving to snap the window to the
       edges of the screen and other windows.</p></li>
 <li class="list"><p class="p">Ridimensionare una finestra trascinando i suoi bordi o l'angolo. Tenere premuto <span class="key"><kbd>Maiusc</kbd></span> durante il ridimensionamento per agganciare la finestra ai bordi dello schermo o di altre finestre.</p></li>
 <li class="list"><p class="p">Muovere o ridimensionare una finestra usando solo la tastiera. Premere <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span> per spostare una finestra oppure <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span> per ridimensionarla. Usare i tasti freccia per muoverla o ridimensionarla, quindi premere <span class="key"><kbd>Invio</kbd></span> per completare l'azione, oppure premere <span class="key"><kbd>Esc</kbd></span> per tornare alla posizione e dimensione originale.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Massimizzare e de-massimizzare una finestra">Massimizzare una finestra</a></span> trascinandola sul bordo superiore dello schermo. Trascinare una finestra su un lato dello schermo per massimizzarla lungo quel lato, consentendo così <span class="link"><a href="shell-windows-tiled.html" title="Affiancare finestre">di affiancare due finestre</a></span>.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html.it" title="Massimizzare e de-massimizzare una finestra">Massimizzare una finestra</a></span> trascinandola sul bordo superiore dello schermo. Trascinare una finestra su un lato dello schermo per massimizzarla lungo quel lato, consentendo così <span class="link"><a href="shell-windows-tiled.html.it" title="Affiancare finestre">di affiancare due finestre</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Lavorare con le finestre">Lavorare con le finestre</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.it#working-with-windows" title="Lavorare con le finestre">Lavorare con le finestre</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

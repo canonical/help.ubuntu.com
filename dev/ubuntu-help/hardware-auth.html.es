@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Huellas dactilares y tarjetas inteligentes</span></h1></div>
 <div class="region">
-<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="session-fingerprint.html" title="Iniciar sesión con una huella dactilar"><span class="title">Iniciar sesión con una huella dactilar</span><span class="linkdiv-dash"> — </span><span class="desc">Puede iniciar sesión en su sistema usando un lector de huellas digitales soportado en lugar de escribiendo su contraseña.</span></a></div></div></div></div></div>
+<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="session-fingerprint.html.es" title="Iniciar sesión con una huella dactilar"><span class="title">Iniciar sesión con una huella dactilar</span><span class="linkdiv-dash"> — </span><span class="desc">Puede iniciar sesión en su sistema usando un lector de huellas digitales soportado en lugar de escribiendo su contraseña.</span></a></div></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardware y controladores">Hardware y controladores</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Problemas comunes">Problemas de hardware</a></span>, <span class="link"><a href="printing.html" title="Imprimir">impresoras</a></span>, <span class="link"><a href="power.html" title="Energía y batería">configuración de energía</a></span>, <span class="link"><a href="color.html" title="Gestión del color">gestión del color</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Discos y almacenamiento">discos</a></span>…</span>
+<a href="hardware.html.es" title="Hardware y controladores">Hardware y controladores</a><span class="desc"> — <span class="link"><a href="hardware.html.es#problems" title="Problemas comunes">Problemas de hardware</a></span>, <span class="link"><a href="printing.html.es" title="Imprimir">impresoras</a></span>, <span class="link"><a href="power.html.es" title="Energía y batería">configuración de energía</a></span>, <span class="link"><a href="color.html.es" title="Gestión del color">gestión del color</a></span>, <span class="link"><a href="bluetooth.html.es" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.es" title="Discos y almacenamiento">discos</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

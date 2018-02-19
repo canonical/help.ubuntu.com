@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Log ud, sluk eller skift bruger</span></h1></div>
@@ -58,7 +58,7 @@
   your applications will continue running, and everything will be where you
   left it when you log back in.</p>
 <p class="p">To <span class="gui">Log Out</span> or <span class="gui">Switch User</span>, click the
-  <span class="link"><a href="shell-introduction.html#yourname" title="Dig og din computer">system menu</a></span> on the right side of the
+  <span class="link"><a href="shell-introduction.html.da#yourname" title="Dig og din computer">system menu</a></span> on the right side of the
   top bar, click your name and then choose the right option.</p>
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Log Out</span> and <span class="gui">Switch User</span> entries only appear in
     the menu if you have more than one user account on your system.</p></div></div></div></div>
@@ -71,7 +71,7 @@
 <p class="p">If you’re leaving your computer for a short time, you should lock your
   screen to prevent other people from accessing your files or running
   applications. When you return, raise the
-  <span class="link"><a href="shell-lockscreen.html" title="The Lock Screen">lock screen</a></span> curtain and enter your
+  <span class="link"><a href="shell-lockscreen.html.da" title="The Lock Screen">lock screen</a></span> curtain and enter your
   password to log back in. If you don’t lock your screen, it will lock
   automatically after a certain amount of time.</p>
 <p class="p">To lock your screen, click the system menu on the right side of the top
@@ -86,11 +86,11 @@
 <div class="title"><h3><span class="title">Se også</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Automatically lock your screen">Automatically lock your screen</a><span class="desc"> — Prevent other people from using your desktop when you
+<a href="privacy-screen-lock.html.da" title="Automatically lock your screen">Automatically lock your screen</a><span class="desc"> — Prevent other people from using your desktop when you
     go away from your computer.</span>
 </li>
 <li class="links ">
-<a href="session-screenlocks.html" title="The screen locks itself too quickly">The screen locks itself too quickly</a><span class="desc"> — Change how long to wait before locking the screen in the
+<a href="session-screenlocks.html.da" title="The screen locks itself too quickly">The screen locks itself too quickly</a><span class="desc"> — Change how long to wait before locking the screen in the
     <span class="gui">Privacy</span> settings.</span>
 </li>
 </ul></div>
@@ -118,13 +118,13 @@
 <div class="title"><h3><span class="title">Se også</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-autosuspend.html.da" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
+<a href="power-batterylife.html.da" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="What happens when I suspend my computer?">What happens when I suspend my computer?</a><span class="desc"> — Suspend sends your computer to sleep so it uses less power.</span>
+<a href="power-suspend.html.da" title="What happens when I suspend my computer?">What happens when I suspend my computer?</a><span class="desc"> — Suspend sends your computer to sleep so it uses less power.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -144,7 +144,7 @@
   administrative user, you may be asked for your password to power off.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">You may want to power off your computer if you wish to move it and do
     not have a battery, if your battery is low or does not hold charge well. A
-    powered off computer also uses <span class="link"><a href="power-batterylife.html" title="Use less power and improve battery life">less
+    powered off computer also uses <span class="link"><a href="power-batterylife.html.da" title="Use less power and improve battery life">less
     energy</a></span> than one which is suspended.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -152,7 +152,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Se også</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
+<a href="power-batterylife.html.da" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -165,27 +165,27 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html" title="Dit skrivebord">Dit skrivebord</a><span class="desc"> — 
-      <span class="link"><a href="clock-calendar.html" title="Calendar appointments">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="Notifications and the message tray">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="Useful keyboard shortcuts">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="Vinduer og arbejdsområder">windows and workspaces</a></span>…
+<a href="shell-overview.html.da" title="Dit skrivebord">Dit skrivebord</a><span class="desc"> — 
+      <span class="link"><a href="clock-calendar.html.da" title="Calendar appointments">Calendar</a></span>,
+      <span class="link"><a href="shell-notifications.html.da" title="Notifications and the message tray">notifications</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.da" title="Useful keyboard shortcuts">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-windows.html.da" title="Vinduer og arbejdsområder">windows and workspaces</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="power.html" title="Power &amp; battery">Power &amp; battery</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="What happens when I suspend my computer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Why does my screen go dim after a while?">screen dimming</a></span>…
+<a href="power.html.da" title="Power &amp; battery">Power &amp; battery</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.da" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.da" title="What happens when I suspend my computer?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.da" title="Why does my screen go dim after a while?">screen dimming</a></span>…
     </span>
 </li>
-<li class="links "><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li>
+<li class="links "><a href="index.html.da" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-autologin.html" title="Log in automatically">Log in automatically</a><span class="desc"> — Set up automatic login for when you switch on your computer.</span>
+<a href="user-autologin.html.da" title="Log in automatically">Log in automatically</a><span class="desc"> — Set up automatic login for when you switch on your computer.</span>
 </li></ul></div>
 </div></div>
 </div>

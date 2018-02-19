@@ -43,26 +43,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html.es" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html.es#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ventanas y áreas de trabajo</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Al igual que otros escritorios, GNOME usa ventanas para mostrar las aplicaciones en ejecución. Usando la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y el <span class="em">tablero</span>, puede lanzar aplicaciones nuevas y controlar las ventanas activas.</p>
+<p class="p">Al igual que otros escritorios, GNOME usa ventanas para mostrar las aplicaciones en ejecución. Usando la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y el <span class="em">tablero</span>, puede lanzar aplicaciones nuevas y controlar las ventanas activas.</p>
 <p class="p">También puede agrupar sus aplicaciones en áreas de trabajo. Visite los temas de ayuda de ventana y área de trabajo que se muestran a continuación para aprender mejor cómo usar estas características.</p>
 </div>
 <div id="working-with-windows" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Trabajar con ventanas</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Cambiar entre ventanas"><span class="title">Cambiar entre ventanas</span><span class="linkdiv-dash"> — </span><span class="desc">Pulse <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html" title="Encontrar una ventana perdida"><span class="title">Encontrar una ventana perdida</span><span class="linkdiv-dash"> — </span><span class="desc">Comprobar la vista de <span class="gui">Actividades</span> o mirar en otras áreas de trabajo.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html" title="Maximizar y desmaximizar (restaurar) una ventana"><span class="title">Maximizar y desmaximizar (restaurar) una ventana</span><span class="linkdiv-dash"> — </span><span class="desc">Doble pulsación en la barra de títulos de la ventana para maximizarla o restaurarla.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.es" title="Cambiar entre ventanas"><span class="title">Cambiar entre ventanas</span><span class="linkdiv-dash"> — </span><span class="desc">Pulse <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.es" title="Encontrar una ventana perdida"><span class="title">Encontrar una ventana perdida</span><span class="linkdiv-dash"> — </span><span class="desc">Comprobar la vista de <span class="gui">Actividades</span> o mirar en otras áreas de trabajo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.es" title="Maximizar y desmaximizar (restaurar) una ventana"><span class="title">Maximizar y desmaximizar (restaurar) una ventana</span><span class="linkdiv-dash"> — </span><span class="desc">Doble pulsación en la barra de títulos de la ventana para maximizarla o restaurarla.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html" title="Mover y redimensionar ventanas"><span class="title">Mover y redimensionar ventanas</span><span class="linkdiv-dash"> — </span><span class="desc">Colocar ventanas en un área de trabajo para ayudarle a trabajar más eficientemente.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html" title="Ventanas en mosaico"><span class="title">Ventanas en mosaico</span><span class="linkdiv-dash"> — </span><span class="desc">Maximizar dos ventanas lado a lado.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.es" title="Mover y redimensionar ventanas"><span class="title">Mover y redimensionar ventanas</span><span class="linkdiv-dash"> — </span><span class="desc">Colocar ventanas en un área de trabajo para ayudarle a trabajar más eficientemente.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.es" title="Ventanas en mosaico"><span class="title">Ventanas en mosaico</span><span class="linkdiv-dash"> — </span><span class="desc">Maximizar dos ventanas lado a lado.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -70,17 +70,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Trabajar con áreas de trabajo:</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html" title="¿Qué es un área de trabajo y cómo me ayudará?"><span class="title">¿Qué es un área de trabajo y cómo me ayudará?</span><span class="linkdiv-dash"> — </span><span class="desc">Las áreas de trabajo son una manera de agrupar ventanas en su escritorio.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html" title="Cambie entre las áreas de trabajo"><span class="title">Cambie entre las áreas de trabajo</span><span class="linkdiv-dash"> — </span><span class="desc">Usar el selector de áreas de trabajo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.es" title="¿Qué es un área de trabajo y cómo me ayudará?"><span class="title">¿Qué es un área de trabajo y cómo me ayudará?</span><span class="linkdiv-dash"> — </span><span class="desc">Las áreas de trabajo son una manera de agrupar ventanas en su escritorio.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.es" title="Cambie entre las áreas de trabajo"><span class="title">Cambie entre las áreas de trabajo</span><span class="linkdiv-dash"> — </span><span class="desc">Usar el selector de áreas de trabajo.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html" title="Mover una ventana a un área de trabajo diferente"><span class="title">Mover una ventana a un área de trabajo diferente</span><span class="linkdiv-dash"> — </span><span class="desc">Vaya a la vista de <span class="gui">Actividades</span> y arrastre la ventana a un área de trabajo diferente.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.es" title="Mover una ventana a un área de trabajo diferente"><span class="title">Mover una ventana a un área de trabajo diferente</span><span class="linkdiv-dash"> — </span><span class="desc">Vaya a la vista de <span class="gui">Actividades</span> y arrastre la ventana a un área de trabajo diferente.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.es#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

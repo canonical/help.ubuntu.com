@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="color.html" title="Xestión de cor">Xestión de cor</a> › <a class="trail" href="color.html#profiles" title="Perfiles de cor">Perfiles de cor</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="color.html.gl-GL" title="Xestión de cor">Xestión de cor</a> › <a class="trail" href="color.html.gl-GL#profiles" title="Perfiles de cor">Perfiles de cor</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="color.html" title="Xestión de cor">Xestión de cor</a> › <a class="trail" href="color.html#profiles" title="Perfiles de cor">Perfiles de cor</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="color.html.gl-GL" title="Xestión de cor">Xestión de cor</a> › <a class="trail" href="color.html.gl-GL#profiles" title="Perfiles de cor">Perfiles de cor</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -62,30 +62,30 @@
     more than a year before the date you bought the device then it’s
     likely dummy data generated that is useless.
   </p>
-<p class="p">Para obter máis información sobre por que os perfiles fornecidos polos fabricantes son pero que inútiles, consulte a <span class="link"><a href="color-why-calibrate.html" title="Porque teño que facer unha calibración por min mesmo?">Porque teño que facer unha calibración por min mesmo?</a></span>.</p>
+<p class="p">Para obter máis información sobre por que os perfiles fornecidos polos fabricantes son pero que inútiles, consulte a <span class="link"><a href="color-why-calibrate.html.gl-GL" title="Porque teño que facer unha calibración por min mesmo?">Porque teño que facer unha calibración por min mesmo?</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Perfiles de cor">Perfiles de cor</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.gl-GL#profiles" title="Perfiles de cor">Perfiles de cor</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-testing.html" title="Como comprobo se a xestión de cor funciona correctamente?">Como comprobo se a xestión de cor funciona correctamente?</a><span class="desc"> — Use the supplied test profiles to check that your profiles are being
+<a href="color-testing.html.gl-GL" title="Como comprobo se a xestión de cor funciona correctamente?">Como comprobo se a xestión de cor funciona correctamente?</a><span class="desc"> — Use the supplied test profiles to check that your profiles are being
     applied correctly to your screen.</span>
 </li>
 <li class="links ">
-<a href="color-missingvcgt.html" title="Fáltalle información para a corrección de cor da pantalla completa?">Fáltalle información para a corrección de cor da pantalla completa?</a><span class="desc"> — A corrección de cor da pantalla completa modifica todas as cores da pantalla en todas as xanelas.</span>
+<a href="color-missingvcgt.html.gl-GL" title="Fáltalle información para a corrección de cor da pantalla completa?">Fáltalle información para a corrección de cor da pantalla completa?</a><span class="desc"> — A corrección de cor da pantalla completa modifica todas as cores da pantalla en todas as xanelas.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Porque teño que facer unha calibración por min mesmo?">Porque teño que facer unha calibración por min mesmo?</a><span class="desc"> — A calibración é importante se se preocupa polas cores que mostra ou imprime.</span>
+<a href="color-why-calibrate.html.gl-GL" title="Porque teño que facer unha calibración por min mesmo?">Porque teño que facer unha calibración por min mesmo?</a><span class="desc"> — A calibración é importante se se preocupa polas cores que mostra ou imprime.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Que é un perfil de cor?">Que é un perfil de cor?</a><span class="desc"> — Un perfil de cor é un simple ficheiro que expresa un espazo de cor ou unha resposta dun dispositivo.</span>
+<a href="color-whatisprofile.html.gl-GL" title="Que é un perfil de cor?">Que é un perfil de cor?</a><span class="desc"> — Un perfil de cor é un simple ficheiro que expresa un espazo de cor ou unha resposta dun dispositivo.</span>
 </li>
 </ul></div>
 </div></div>

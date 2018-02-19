@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html#apps" title="Applications and windows">Applications and windows</a> » <a class="trail" href="shell-windows.html" title="Windows and workspaces">Windows and workspaces</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Working with windows">Windows</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ca" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html.ca#apps" title="Applications and windows">Applications and windows</a> » <a class="trail" href="shell-windows.html.ca" title="Windows and workspaces">Windows and workspaces</a> › <a class="trail" href="shell-windows.html.ca#working-with-windows" title="Working with windows">Windows</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Find a lost window</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">A window on a different workspace, or hidden behind another window, is
-  easily found using the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span>
+  easily found using the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span>
   overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Open the <span class="gui">Activities</span> overview. If the missing window is on
       the current
-      <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Working with workspaces">workspace</a></span>, it
+      <span class="link"><a href="shell-windows.html.ca#working-with-workspaces" title="Working with workspaces">workspace</a></span>, it
       will be shown here in thumbnail. Simply click the thumbnail to redisplay
       the window, or</p></li>
 <li class="list"><p class="p">Click different workspaces in the
-      <span class="link"><a href="shell-workspaces.html" title="What is a workspace, and how will it help me?">workspace selector</a></span> at the
+      <span class="link"><a href="shell-workspaces.html.ca" title="What is a workspace, and how will it help me?">workspace selector</a></span> at the
       right-hand side of the screen to try to find your window, or</p></li>
 <li class="list"><p class="p">Right-click the application in the dash and its open windows will be
       listed. Click the window in the list to switch to it.</p></li>
@@ -67,8 +67,8 @@
 <p class="p">Using the window switcher:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Press
-      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
-      to display the <span class="link"><a href="shell-windows-switching.html" title="Switch between windows">window switcher</a></span>.
+      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.ca" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
+      to display the <span class="link"><a href="shell-windows-switching.html.ca" title="Switch between windows">window switcher</a></span>.
       Continue to hold down the <span class="key"><kbd>Super</kbd></span> key and press <span class="key"><kbd>Tab</kbd></span>
       to cycle through the open windows, or
       <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to cycle backwards.</p></li>
@@ -81,7 +81,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Working with windows">Working with windows</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.ca#working-with-windows" title="Working with windows">Working with windows</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="color.html" title="Gestión del color">Gestión del color</a> › <a class="trail" href="color.html#calibration" title="Calibrado">Calibrado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="color.html.es" title="Gestión del color">Gestión del color</a> › <a class="trail" href="color.html.es#calibration" title="Calibrado">Calibrado</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="color.html" title="Gestión del color">Gestión del color</a> › <a class="trail" href="color.html#calibration" title="Calibrado">Calibrado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="color.html.es" title="Gestión del color">Gestión del color</a> › <a class="trail" href="color.html.es#calibration" title="Calibrado">Calibrado</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">Puede calibrar su pantalla para que muestre los colores de manera más precisa. Esto es especialmente útil si está involucrado en fotografía digital, diseño o trabajo artístico.</p>
 <p class="p">Necesitará un colorímetro o un espectrómetro para hacer esto. Ambos dispositivos se usar para perfilar pantallas, pero funcionan de diferente manera.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Color</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Color</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Color</span> para abrir el panel y seleccionar su pantalla.</p></li>
 <li class="steps"><p class="p">Asegúrese de que su dispositivo de calibración está conectado al equipo.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Calibrar…</span> para iniciar la calibración.</p></li>
@@ -69,19 +69,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Calibrado">Calibrado</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.es#calibration" title="Calibrado">Calibrado</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-scanner.html" title="¿Cómo calibrar el escáner?">¿Cómo calibrar el escáner?</a><span class="desc"> — Calibrar su escáner es importante para capturar colores precisos.</span>
+<a href="color-calibrate-scanner.html.es" title="¿Cómo calibrar el escáner?">¿Cómo calibrar el escáner?</a><span class="desc"> — Calibrar su escáner es importante para capturar colores precisos.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html" title="¿Cómo calibrar la impresora?">¿Cómo calibrar la impresora?</a><span class="desc"> — Calibrar su impresora es importante para imprimir colores precisos.</span>
+<a href="color-calibrate-printer.html.es" title="¿Cómo calibrar la impresora?">¿Cómo calibrar la impresora?</a><span class="desc"> — Calibrar su impresora es importante para imprimir colores precisos.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-camera.html" title="¿Cómo calibrar la cámara?">¿Cómo calibrar la cámara?</a><span class="desc"> — Calibrar su cámara es importante para capturar colores precisos.</span>
+<a href="color-calibrate-camera.html.es" title="¿Cómo calibrar la cámara?">¿Cómo calibrar la cámara?</a><span class="desc"> — Calibrar su cámara es importante para capturar colores precisos.</span>
 </li>
 </ul></div>
 </div></div>

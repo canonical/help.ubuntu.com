@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="media.html#sound" title="Notions de base sur le son">Son</a> » <a class="trail" href="sound-broken.html" title="Problèmes de son">Problèmes de son</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="media.html.fr#sound" title="Notions de base sur le son">Son</a> » <a class="trail" href="sound-broken.html.fr" title="Problèmes de son">Problèmes de son</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> › <a class="trail" href="hardware.html#problems" title="Problèmes connus">Problèmes</a> » <a class="trail" href="sound-broken.html" title="Problèmes de son">Problèmes de son</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> › <a class="trail" href="hardware.html.fr#problems" title="Problèmes connus">Problèmes</a> » <a class="trail" href="sound-broken.html.fr" title="Problèmes de son">Problèmes de son</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div id="mute" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Assurez-vous que le son n'est pas sur « Muet »</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="Vous et votre ordinateur">system menu</a></span> and make sure that
+<p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#yourname" title="Vous et votre ordinateur">system menu</a></span> and make sure that
   the sound is not muted or turned down.</p>
 <p class="p">Some laptops have mute switches or keys on their keyboards — try pressing
   that key to see if it unmutes the sound.</p>
@@ -99,7 +99,7 @@
   have the correct sound device selected. This might involve some
   trial-and-error to choose the right one.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Sound</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Son</span> pour ouvrir le panneau.</p></li>
 <li class="steps">
@@ -121,7 +121,7 @@
   card you have:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Go to the <span class="gui">Activities</span> overview and open a Terminal.</p></li>
-<li class="steps"><p class="p">Run <span class="cmd">lspci</span> as <span class="link"><a href="user-admin-explain.html" title="Comment les privilèges administrateur fonctionnent-ils ?">superuser</a></span>;
+<li class="steps"><p class="p">Run <span class="cmd">lspci</span> as <span class="link"><a href="user-admin-explain.html.fr" title="Comment les privilèges administrateur fonctionnent-ils ?">superuser</a></span>;
       either type <span class="cmd">sudo lspci</span> and type your password, or type
       <span class="cmd">su</span>, enter the <span class="em">root</span> (administrative) password,
       then type <span class="cmd">lspci</span>.</p></li>
@@ -138,7 +138,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html" title="Problèmes de son">Problèmes de son</a><span class="desc"> — Régler les problèmes d'absence de son ou de son de mauvaise qualité.</span>
+<a href="sound-broken.html.fr" title="Problèmes de son">Problèmes de son</a><span class="desc"> — Régler les problèmes d'absence de son ou de son de mauvaise qualité.</span>
 </li></ul></div>
 </div></div></div>
 </div>

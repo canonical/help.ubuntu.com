@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="media.html#sound" title="Vienkārša skaņa">Skaņa</a> » <a class="trail" href="sound-broken.html" title="Skaņu problēmas">Skaņu problēmas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="media.html.lv#sound" title="Vienkārša skaņa">Skaņa</a> » <a class="trail" href="sound-broken.html.lv" title="Skaņu problēmas">Skaņu problēmas</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="sound-broken.html" title="Skaņu problēmas">Skaņu problēmas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html.lv#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="sound-broken.html.lv" title="Skaņu problēmas">Skaņu problēmas</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <div id="mute" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Pārliecinieties, ka skaņa nav apklusināta</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#yourname" title="Jūs un jūsu dators">sistēmas izvēlni</a></span> un pārliecinieties, ka skaņa nav atslēgta vai izslēgta pavisam.</p>
+<p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#yourname" title="Jūs un jūsu dators">sistēmas izvēlni</a></span> un pārliecinieties, ka skaņa nav atslēgta vai izslēgta pavisam.</p>
 <p class="p">Dažiem klēpjdatoriem ir skaņas atslēgšanas slēdži vai pogas uz tastatūrām — pamēģiniet nospiest šo taustiņu, lai pārbaudītu, vai tas ieslēdz skaņu.</p>
 <p class="p">Vajadzētu arī pārliecināties, ka lietotne, kuru izmantojat, lai atskaņotu, piemēram, mūziku, nav apklusināta. Lietotnei vajadzētu būt skaņas regulācijas pogai galvenajā logā — pārbaudiet to.</p>
 <p class="p">Arī pārbaudiet <span class="gui">Lietotņu</span> cilni <span class="gui">Skaņas</span> GUI:</p>
@@ -80,7 +80,7 @@
 <div class="region"><div class="contents">
 <p class="p">Dažiem datoriem ir instalētas vairākas “skaņu ierīces”.  Dažas no tām var atskaņot skaņu, bet dažas nē, tāpēc vajadzētu pārbaudīt, vai ir izvēlēta pareizā skaņas ierīce. Šeit varētu būt nepieciešami vairāki izmēģinājumi, lai atrastu pareizo.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Skaņa</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Skaņa</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Skaņa</span>, lai atvērtu paneli.</p></li>
 <li class="steps">
 <p class="p">Cilnē <span class="gui">Izvade</span> mainiet <span class="gui">Profila</span> iestatījumus izvēlētajai ierīcei un nospēlējiet skaņu, lai redzētu, vai tas strādās. Varbūt vajadzēs iet cauri visam sarakstam un izmēģināt visus profilus.</p>
@@ -96,7 +96,7 @@
 <p class="p">Palaidiet <span class="cmd">lspci</span> komandu no termināļa, lai uzzinātu, kāda jums ir skaņas karte:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Dodieties uz <span class="gui">Aktivitāte</span> pārskatu un atveriet Termināli.</p></li>
-<li class="steps"><p class="p">Palaidiet <span class="cmd">lspci</span> kā <span class="link"><a href="user-admin-explain.html" title="Kā strādā administratīvās tiesības?">superlietotājam</a></span>; cita iespēja ir ierakstīt <span class="cmd">sudo lspci</span> un ierakstīt paroli, vai ierakstīt <span class="cmd">su</span>, un ievadīt <span class="em">galveno</span> (administratora) paroli, un ierakstīt <span class="cmd">lspci</span>.</p></li>
+<li class="steps"><p class="p">Palaidiet <span class="cmd">lspci</span> kā <span class="link"><a href="user-admin-explain.html.lv" title="Kā strādā administratīvās tiesības?">superlietotājam</a></span>; cita iespēja ir ierakstīt <span class="cmd">sudo lspci</span> un ierakstīt paroli, vai ierakstīt <span class="cmd">su</span>, un ievadīt <span class="em">galveno</span> (administratora) paroli, un ierakstīt <span class="cmd">lspci</span>.</p></li>
 <li class="steps"><p class="p">Pārliecinieties, ka <span class="em">audio kontrolieris</span> vai <span class="em">audio ierīce</span> ir sarakstā: ja ir, jābūt redzamam tās markai un modeļa numuram. Kā arī, <span class="cmd">lspci -v</span> parāda sarakstu ar detalizētāku informāciju.</p></li>
 </ol></div></div></div>
 <p class="p">Jūs varētu varēt atrast un instalēt savas skaņu kartes draiverus. Vislabāk attiecīgās Linux distribūcijas instalēšanas norādījumus taujāt ir palīdzības forumos (vai citādi).</p>
@@ -108,7 +108,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html" title="Skaņu problēmas">Skaņu problēmas</a><span class="desc"> — Problēmu atrisinājumi tādām problēmām, kā nav skaņas, vai ir slikta skaņas kvalitāte.</span>
+<a href="sound-broken.html.lv" title="Skaņu problēmas">Skaņu problēmas</a><span class="desc"> — Problēmu atrisinājumi tādām problēmām, kā nav skaņas, vai ir slikta skaņas kvalitāte.</span>
 </li></ul></div>
 </div></div></div>
 </div>

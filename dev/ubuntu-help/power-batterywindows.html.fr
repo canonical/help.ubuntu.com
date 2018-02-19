@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html" title="Énergie et batterie">Énergie et batterie</a> › <a class="trail" href="power.html#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a> › <a class="trail" href="power.html.fr#faq" title="Questions">Questions</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html" title="Énergie et batterie">Énergie et batterie</a> › <a class="trail" href="power.html#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a> › <a class="trail" href="power.html.fr#faq" title="Questions">Questions</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Certains ordinateurs semblent avoir une durée de vie de leur batterie plus courte quand ils sont sous Linux que sous Windows ou Mac OS. Comme les fabricants installent des logiciels spéciaux sur certains de leurs ordinateurs pour en optimiser les paramètres matériels/logiciels avec les systèmes d'exploitation Windows/Mac OS et qu'ils ne le font pas pour Linux, cela semble être la raison principale. Ces améliorations sont souvent très spécifiques et ne sont pas documentées, donc les intégrer à Linux est quelque chose de compliqué.</p>
-<p class="p">Il n'est malheureusement pas possible de mettre en œuvre ces améliorations vous-même sans savoir exactement de quoi il s'agit. Malgré tout, utiliser des <span class="link"><a href="power-batterylife.html" title="Économie d'énergie et accroissement de la longévité de la batterie">méthodes d'économie d'énergie</a></span> peut vous aider. De même que changer les paramètres du <span class="link"><a href="power-batteryslow.html" title="Ralentissement de l'ordinateur portable fonctionnant sur batterie">processeur à cadencement variable</a></span>, si disponible sur votre ordinateur, peut être utile.</p>
+<p class="p">Il n'est malheureusement pas possible de mettre en œuvre ces améliorations vous-même sans savoir exactement de quoi il s'agit. Malgré tout, utiliser des <span class="link"><a href="power-batterylife.html.fr" title="Économie d'énergie et accroissement de la longévité de la batterie">méthodes d'économie d'énergie</a></span> peut vous aider. De même que changer les paramètres du <span class="link"><a href="power-batteryslow.html.fr" title="Ralentissement de l'ordinateur portable fonctionnant sur batterie">processeur à cadencement variable</a></span>, si disponible sur votre ordinateur, peut être utile.</p>
 <p class="p">La différence entre les méthodes d'estimation de la durée de vie d'une batterie entre Windows/Mac OS et Linux est aussi un facteur de divergence. Autrement dit, pour une durée de vie potentiellement équivalente, ces estimations peuvent être différentes.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,19 +62,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Questions">Questions</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.fr#faq" title="Questions">Questions</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batteryestimate.html" title="L'estimation de la durée de vie de la batterie est fausse">L'estimation de la durée de vie de la batterie est fausse</a><span class="desc"> — La durée de vie affichée lorsque vous cliquez sur l'<span class="gui">icône de la batterie</span> est une estimation.</span>
+<a href="power-batteryestimate.html.fr" title="L'estimation de la durée de vie de la batterie est fausse">L'estimation de la durée de vie de la batterie est fausse</a><span class="desc"> — La durée de vie affichée lorsque vous cliquez sur l'<span class="gui">icône de la batterie</span> est une estimation.</span>
 </li>
 <li class="links ">
-<a href="power-batteryslow.html" title="Ralentissement de l'ordinateur portable fonctionnant sur batterie">Ralentissement de l'ordinateur portable fonctionnant sur batterie</a><span class="desc"> — Certains ordinateurs portables ralentissent automatiquement quand ils passent sur batterie.</span>
+<a href="power-batteryslow.html.fr" title="Ralentissement de l'ordinateur portable fonctionnant sur batterie">Ralentissement de l'ordinateur portable fonctionnant sur batterie</a><span class="desc"> — Certains ordinateurs portables ralentissent automatiquement quand ils passent sur batterie.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Économie d'énergie et accroissement de la longévité de la batterie">Économie d'énergie et accroissement de la longévité de la batterie</a><span class="desc"> — Conseils pour réduire la consommation d'énergie de votre ordinateur.</span>
+<a href="power-batterylife.html.fr" title="Économie d'énergie et accroissement de la longévité de la batterie">Économie d'énergie et accroissement de la longévité de la batterie</a><span class="desc"> — Conseils pour réduire la consommation d'énergie de votre ordinateur.</span>
 </li>
 </ul></div>
 </div></div>

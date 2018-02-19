@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="power.html" title="Napájení a baterie">Napájení a baterie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="power.html" title="Napájení a baterie">Napájení a baterie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,9 +56,9 @@
 <div id="general" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Obecné rady</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Když počítač zrovna nepoužíváte, <span class="link"><a href="shell-exit.html#suspend" title="Uspání">uspěte jej do paměti</a></span>. Tím významně snížíte odběr energie a přitom počítač můžete okamžitě probudit.</p></li>
-<li class="list"><p class="p">Když počítač nebudete používat po delší dobu, tak jej <span class="link"><a href="shell-exit.html#shutdown" title="Vypnutí nebo restart">vypněte</a></span>. Někdy to lidé nedělají z obavy, že pravidelným vypínáním počítač rychleji „opotřebují“, ale to není pravda.</p></li>
-<li class="list"><p class="p">Použijte panel <span class="gui">Napájení</span> v <span class="app">Nastaveních</span> ke změně nastavení napájení. K dispozici je řada voleb, které pomáhají šetřit energii: po určité době můžete <span class="link"><a href="display-blank.html" title="Nastavení času vypnutí obrazovky">automaticky zhasnout obrazovku</a></span>, <span class="link"><a href="display-brightness.html" title="Nastavení jasu obrazovky">snížit jas obrazovky</a></span> a přimět počítač <span class="link"><a href="power-suspend.html" title="Co se stane, když svůj počítač uspím?">automaticky se uspat</a></span>, když jej po nějakou dobu nepoužíváte.</p></li>
+<li class="list"><p class="p">Když počítač zrovna nepoužíváte, <span class="link"><a href="shell-exit.html.cs#suspend" title="Uspání">uspěte jej do paměti</a></span>. Tím významně snížíte odběr energie a přitom počítač můžete okamžitě probudit.</p></li>
+<li class="list"><p class="p">Když počítač nebudete používat po delší dobu, tak jej <span class="link"><a href="shell-exit.html.cs#shutdown" title="Vypnutí nebo restart">vypněte</a></span>. Někdy to lidé nedělají z obavy, že pravidelným vypínáním počítač rychleji „opotřebují“, ale to není pravda.</p></li>
+<li class="list"><p class="p">Použijte panel <span class="gui">Napájení</span> v <span class="app">Nastaveních</span> ke změně nastavení napájení. K dispozici je řada voleb, které pomáhají šetřit energii: po určité době můžete <span class="link"><a href="display-blank.html.cs" title="Nastavení času vypnutí obrazovky">automaticky zhasnout obrazovku</a></span>, <span class="link"><a href="display-brightness.html.cs" title="Nastavení jasu obrazovky">snížit jas obrazovky</a></span> a přimět počítač <span class="link"><a href="power-suspend.html.cs" title="Co se stane, když svůj počítač uspím?">automaticky se uspat</a></span>, když jej po nějakou dobu nepoužíváte.</p></li>
 <li class="list"><p class="p">Vypněte externí zařízení (jako je tiskárna a skener), když je nepoužíváte.</p></li>
 </ul></div></div></div></div></div>
 </div></div>
@@ -66,7 +66,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Notebooky, tablety a další zařízení s bateriemi</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Snižte <span class="link"><a href="display-brightness.html" title="Nastavení jasu obrazovky">jas displeje</a></span>. Napájení obrazovky se z významné části podílí na spotřebě energie notebooku.</p>
+<p class="p">Snižte <span class="link"><a href="display-brightness.html.cs" title="Nastavení jasu obrazovky">jas displeje</a></span>. Napájení obrazovky se z významné části podílí na spotřebě energie notebooku.</p>
 <p class="p">Většina notebooků má na klávesnici tlačítka (nebo kombinace kláves) sloužící k regulaci jasu.</p>
 </li>
 <li class="list">
@@ -88,31 +88,31 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Napájení a baterie">Napájení a baterie</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Kontrola stavu baterie">Stav baterie</a></span>, <span class="link"><a href="power-suspend.html" title="Co se stane, když svůj počítač uspím?">uspání</a></span>, <span class="link"><a href="power-whydim.html" title="Proč moje obrazovka po krátké době potemní?">stmívání obrazovky</a></span>…</span>
+<a href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a><span class="desc"> — <span class="link"><a href="power-status.html.cs" title="Kontrola stavu baterie">Stav baterie</a></span>, <span class="link"><a href="power-suspend.html.cs" title="Co se stane, když svůj počítač uspím?">uspání</a></span>, <span class="link"><a href="power-whydim.html.cs" title="Proč moje obrazovka po krátké době potemní?">stmívání obrazovky</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspend.html" title="Co se stane, když svůj počítač uspím?">Co se stane, když svůj počítač uspím?</a><span class="desc"> — Uspáním se pozastaví běh vašeho počítač, aby se snížila spotřeba.</span>
+<a href="power-suspend.html.cs" title="Co se stane, když svůj počítač uspím?">Co se stane, když svůj počítač uspím?</a><span class="desc"> — Uspáním se pozastaví běh vašeho počítač, aby se snížila spotřeba.</span>
 </li>
 <li class="links ">
-<a href="power-status.html" title="Kontrola stavu baterie">Kontrola stavu baterie</a><span class="desc"> — Jak zobrazit stav baterie a připojených zařízení.</span>
+<a href="power-status.html.cs" title="Kontrola stavu baterie">Kontrola stavu baterie</a><span class="desc"> — Jak zobrazit stav baterie a připojených zařízení.</span>
 </li>
 <li class="links ">
-<a href="display-brightness.html" title="Nastavení jasu obrazovky">Nastavení jasu obrazovky</a><span class="desc"> — Jak změnit jas obrazovky, aby byla čitelnější na ostrém světle.</span>
+<a href="display-brightness.html.cs" title="Nastavení jasu obrazovky">Nastavení jasu obrazovky</a><span class="desc"> — Jak změnit jas obrazovky, aby byla čitelnější na ostrém světle.</span>
 </li>
 <li class="links ">
-<a href="power-batterywindows.html" title="Proč je výdrž na baterie nižší než pod OS Windows/MAC?">Proč je výdrž na baterie nižší než pod OS Windows/MAC?</a><span class="desc"> — Tyto problémy mohou způsobovat nastavení od výrobce a odlišný odhad času výdrže baterie.</span>
+<a href="power-batterywindows.html.cs" title="Proč je výdrž na baterie nižší než pod OS Windows/MAC?">Proč je výdrž na baterie nižší než pod OS Windows/MAC?</a><span class="desc"> — Tyto problémy mohou způsobovat nastavení od výrobce a odlišný odhad času výdrže baterie.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="Proč moje obrazovka po krátké době potemní?">Proč moje obrazovka po krátké době potemní?</a><span class="desc"> — Obrazovka ztlumí jas, když je počítač nějakou dobu nepoužíván, aby ušetřil energii.</span>
+<a href="power-whydim.html.cs" title="Proč moje obrazovka po krátké době potemní?">Proč moje obrazovka po krátké době potemní?</a><span class="desc"> — Obrazovka ztlumí jas, když je počítač nějakou dobu nepoužíván, aby ušetřil energii.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Uspání">Uspání</a></li>
-<li class="links "><a href="shell-exit.html#shutdown" title="Vypnutí nebo restart">Vypnutí nebo restart</a></li>
+<li class="links "><a href="shell-exit.html.cs#suspend" title="Uspání">Uspání</a></li>
+<li class="links "><a href="shell-exit.html.cs#shutdown" title="Vypnutí nebo restart">Vypnutí nebo restart</a></li>
 <li class="links ">
-<a href="power-wireless.html" title="Vypnutí nepoužívaných bezdrátových technologií">Vypnutí nepoužívaných bezdrátových technologií</a><span class="desc"> — Jak šetřit baterii vypnutím Bluetooth, Wi-Fi a mobilního připojení.</span>
+<a href="power-wireless.html.cs" title="Vypnutí nepoužívaných bezdrátových technologií">Vypnutí nepoužívaných bezdrátových technologií</a><span class="desc"> — Jak šetřit baterii vypnutím Bluetooth, Wi-Fi a mobilního připojení.</span>
 </li>
 </ul></div>
 </div></div>

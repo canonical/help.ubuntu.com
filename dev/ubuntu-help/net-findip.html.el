@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-general.html" title="Όροι δικτύωσης &amp; συμβουλές">Όροι δικτύωσης &amp; συμβουλές</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-general.html.el" title="Όροι δικτύωσης &amp; συμβουλές">Όροι δικτύωσης &amp; συμβουλές</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Βρείτε τη διεύθυνση IP σας</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Βρείτε την εσωτερική σας (δικτυακή) διεύθυνση IP</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Δίκτυο</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Δίκτυο</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Δίκτυο</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps">
 <p class="p">Επιλέξτε μια σύνδεση, <span class="gui">Wi-Fi</span> ή <span class="gui">Ενσύρματη</span>, από τον αριστερό πίνακα.</p>
@@ -77,17 +77,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Όροι δικτύωσης &amp; συμβουλές">Όροι δικτύωσης &amp; συμβουλές</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Βρείτε τη διεύθυνση IP σας">Βρείτε τη διεύθυνσή σας IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Τι σημαίνουν τα WEP και WPA;">WEP &amp; ασφάλεια WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Τι είναι μια διεύθυνση MAC;">Διευθύνσεις MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Ορισμός ρυθμίσεων διαμεσολαβητή">Διαμεσολαβητές</a></span>…</span>
+<a href="net-general.html.el" title="Όροι δικτύωσης &amp; συμβουλές">Όροι δικτύωσης &amp; συμβουλές</a><span class="desc"> — <span class="link"><a href="net-findip.html.el" title="Βρείτε τη διεύθυνση IP σας">Βρείτε τη διεύθυνσή σας IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.el" title="Τι σημαίνουν τα WEP και WPA;">WEP &amp; ασφάλεια WPA</a></span>, <span class="link"><a href="net-macaddress.html.el" title="Τι είναι μια διεύθυνση MAC;">Διευθύνσεις MAC</a></span>, <span class="link"><a href="net-proxy.html.el" title="Ορισμός ρυθμίσεων διαμεσολαβητή">Διαμεσολαβητές</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-fixed-ip-address.html" title="Δημιουργία σύνδεσης με σταθερή διεύθυνση IP">Δημιουργία σύνδεσης με σταθερή διεύθυνση IP</a><span class="desc"> — Η χρήση στατικής διεύθυνσης IP μπορεί να διευκολύνει την παροχή κάποιων υπηρεσιών δικτύου από τον υπολογιστή σας.</span>
+<a href="net-fixed-ip-address.html.el" title="Δημιουργία σύνδεσης με σταθερή διεύθυνση IP">Δημιουργία σύνδεσης με σταθερή διεύθυνση IP</a><span class="desc"> — Η χρήση στατικής διεύθυνσης IP μπορεί να διευκολύνει την παροχή κάποιων υπηρεσιών δικτύου από τον υπολογιστή σας.</span>
 </li>
 <li class="links ">
-<a href="net-what-is-ip-address.html" title="Τι είναι μια διεύθυνση IP;">Τι είναι μια διεύθυνση IP;</a><span class="desc"> — Μια διεύθυνση IP είναι όπως ένας αριθμός τηλεφώνου για τον υπολογιστή σας.</span>
+<a href="net-what-is-ip-address.html.el" title="Τι είναι μια διεύθυνση IP;">Τι είναι μια διεύθυνση IP;</a><span class="desc"> — Μια διεύθυνση IP είναι όπως ένας αριθμός τηλεφώνου για τον υπολογιστή σας.</span>
 </li>
 </ul></div>
 </div></div>

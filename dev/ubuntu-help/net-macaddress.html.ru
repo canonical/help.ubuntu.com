@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="Сетевые термины и советы">Сетевые термины и советы</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.ru" title="Сетевые термины и советы">Сетевые термины и советы</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Что такое MAC-адрес?</span></h1></div>
@@ -53,7 +53,7 @@
 <p class="p">MAC-адрес состоит из шести групп по два символа, разделённых двоеточиями, например, <span class="code">00:1B:44:11:3A:B7</span>.</p>
 <p class="p">Чтобы определить MAC-адрес сетевого устройства:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Сеть</span> чтобы открыть этот раздел настроек.</p></li>
 <li class="steps">
@@ -78,7 +78,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Сетевые термины и советы">Сетевые термины и советы</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Определение своего IP-адреса">Определение своего IP-адреса</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Что такое WEP и WPA?">защита WEP и WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Что такое MAC-адрес?">MAC-адреса</a></span>, <span class="link"><a href="net-proxy.html" title="Настройка прокси-сервера">прокси</a></span>…</span>
+<a href="net-general.html.ru" title="Сетевые термины и советы">Сетевые термины и советы</a><span class="desc"> — <span class="link"><a href="net-findip.html.ru" title="Определение своего IP-адреса">Определение своего IP-адреса</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.ru" title="Что такое WEP и WPA?">защита WEP и WPA</a></span>, <span class="link"><a href="net-macaddress.html.ru" title="Что такое MAC-адрес?">MAC-адреса</a></span>, <span class="link"><a href="net-proxy.html.ru" title="Настройка прокси-сервера">прокси</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

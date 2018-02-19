@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="user-accounts.html" title="Användarkonton">Användare</a> › <a class="trail" href="user-accounts.html#privileges" title="Användarbehörigheter">Behörigheter</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="user-accounts.html.sv" title="Användarkonton">Användare</a> › <a class="trail" href="user-accounts.html.sv#privileges" title="Användarbehörigheter">Behörigheter</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ändra vem som har administratörsbehörighet</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Administratörsbehörighet är ett sätt att bestämma vem som kan göra ändringar i viktiga delar av systemet. Du kan ändra vilka användare som har administratörsbehörighet och vilka som inte har det. De är ett bra sätt att hålla ditt system säkert och förhindra eventuellt skadliga, obehöriga ändringar.</p>
-<p class="p">Du behöver <span class="link"><a href="user-admin-explain.html" title="Hur fungerar administratörsbehörighet?">administratörsbehörighet</a></span> för att ändra kontotyp.</p>
+<p class="p">Du behöver <span class="link"><a href="user-admin-explain.html.sv" title="Hur fungerar administratörsbehörighet?">administratörsbehörighet</a></span> för att ändra kontotyp.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Användare</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Användare</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Användare</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="gui">Lås upp</span> i övre högra hörnet och skriv in ditt lösenord när du blir tillfrågad.</p></li>
 <li class="steps"><p class="p">Markera användaren vars behörigheter du vill ändra.</p></li>
@@ -69,16 +69,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Användarbehörigheter">Användarbehörigheter</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.sv#privileges" title="Användarbehörigheter">Användarbehörigheter</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Hur fungerar administratörsbehörighet?">Hur fungerar administratörsbehörighet?</a><span class="desc"> — Du behöver administratörsbehörighet för att ändra viktiga delar i ditt system.</span>
+<a href="user-admin-explain.html.sv" title="Hur fungerar administratörsbehörighet?">Hur fungerar administratörsbehörighet?</a><span class="desc"> — Du behöver administratörsbehörighet för att ändra viktiga delar i ditt system.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="Problem som orsakas av administratörsbegränsningar">Problem som orsakas av administratörsbegränsningar</a><span class="desc"> — Vissa saker, som att installera program, kan du endast göra om du har administratörsbehörighet.</span>
+<a href="user-admin-problems.html.sv" title="Problem som orsakas av administratörsbegränsningar">Problem som orsakas av administratörsbegränsningar</a><span class="desc"> — Vissa saker, som att installera program, kan du endast göra om du har administratörsbehörighet.</span>
 </li>
 </ul></div>
 </div></div>

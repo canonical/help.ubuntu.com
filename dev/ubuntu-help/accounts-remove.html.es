@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="accounts.html" title="Cuentas en línea">Cuentas en línea</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="accounts.html.es" title="Cuentas en línea">Cuentas en línea</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Quitar una cuenta</span></h1></div>
@@ -55,13 +55,13 @@
 <p class="p">Cómo revocar la autorización depende del proveedor de servicios. Compruebe su configuración en la página web del proveedor para las aplicaciones o sitios autorizados. Busque una aplicación llamada «GNOME» y elimínela.</p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Cuentas en línea</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Cuentas en línea</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Cuentas en línea</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Seleccione la cuenta que quiere quitar.</p></li>
 <li class="steps"><p class="p">Pulse el botón <span class="gui">-</span> en la esquina inferior izquierda de la ventana.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Quitar</span> en el diálogo de confirmación.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">En lugar de eliminar la cuenta por completo, es posible <span class="link"><a href="accounts-disable-service.html" title="Controlar qué servicios en línea puede usar una cuenta para acceder">restringir los servicios</a></span> a los que acceder desde su escritorio.</p></div></div></div></div>
+<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">En lugar de eliminar la cuenta por completo, es posible <span class="link"><a href="accounts-disable-service.html.es" title="Controlar qué servicios en línea puede usar una cuenta para acceder">restringir los servicios</a></span> a los que acceder desde su escritorio.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -69,13 +69,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Cuentas en línea">Cuentas en línea</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Añadir una cuenta">Añadir una cuenta en línea</a></span>, <span class="link"><a href="accounts-remove.html" title="Quitar una cuenta">Quitar una cuenta</a></span>, <span class="link"><a href="accounts-which-application.html" title="Servicios y aplicaciones en línea">Aprender más sobre los servicios</a></span>…</span>
+<a href="accounts.html.es" title="Cuentas en línea">Cuentas en línea</a><span class="desc"> — <span class="link"><a href="accounts-add.html.es" title="Añadir una cuenta">Añadir una cuenta en línea</a></span>, <span class="link"><a href="accounts-remove.html.es" title="Quitar una cuenta">Quitar una cuenta</a></span>, <span class="link"><a href="accounts-which-application.html.es" title="Servicios y aplicaciones en línea">Aprender más sobre los servicios</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="Controlar qué servicios en línea puede usar una cuenta para acceder">Controlar qué servicios en línea puede usar una cuenta para acceder</a><span class="desc"> — Algunas cuentas en línea se pueden usar para acceder a varios servicios (como el calendario y el correo). Puede controlar cuáles de esos servicios pueden usar las aplicaciones.</span>
+<a href="accounts-disable-service.html.es" title="Controlar qué servicios en línea puede usar una cuenta para acceder">Controlar qué servicios en línea puede usar una cuenta para acceder</a><span class="desc"> — Algunas cuentas en línea se pueden usar para acceder a varios servicios (como el calendario y el correo). Puede controlar cuáles de esos servicios pueden usar las aplicaciones.</span>
 </li></ul></div>
 </div></div>
 </div>

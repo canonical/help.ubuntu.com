@@ -43,27 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Propiedades do ficheiro</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Prema co botón dereito sobre un ficheiro e seleccione <span class="gui">Propiedades</span>.</p>
-<p class="p">A xanela de propiedades do ficheiro móstralle información como o tipo de ficheiro, o tamaño do ficheiro e cando foi modificado por última vez. Se usa esta información a miúdo, pode facer que se mostre na <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">visualización en lista con columnas</a></span> ou nas <span class="link"><a href="nautilus-display.html#icon-captions" title="Lendas das iconas">lendas das iconas</a></span>.</p>
-<p class="p">A información que se fornece na lapela <span class="gui">Básico</span> explícase embaixo. Tamén están as lapelas <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Estabelecer os permisos dun ficheiro">Permisos</a></span></span> e <span class="gui"><span class="link"><a href="files-open.html#default" title="Seleccione a localización onde gardar o ficheiro.">Abrir con</a></span></span>. Para certos tipos de ficheros, como as imaxes e vídeos, haberá unha lapela adicional que lle fornece información como as dimensións, duración e códecs.</p>
+<p class="p">A xanela de propiedades do ficheiro móstralle información como o tipo de ficheiro, o tamaño do ficheiro e cando foi modificado por última vez. Se usa esta información a miúdo, pode facer que se mostre na <span class="link"><a href="nautilus-list.html.gl-GL" title="Files list columns preferences">visualización en lista con columnas</a></span> ou nas <span class="link"><a href="nautilus-display.html.gl-GL#icon-captions" title="Lendas das iconas">lendas das iconas</a></span>.</p>
+<p class="p">A información que se fornece na lapela <span class="gui">Básico</span> explícase embaixo. Tamén están as lapelas <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.gl-GL" title="Estabelecer os permisos dun ficheiro">Permisos</a></span></span> e <span class="gui"><span class="link"><a href="files-open.html.gl-GL#default" title="Seleccione a localización onde gardar o ficheiro.">Abrir con</a></span></span>. Para certos tipos de ficheros, como as imaxes e vídeos, haberá unha lapela adicional que lle fornece información como as dimensións, duración e códecs.</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Propiedades básicas</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Name</span></dt>
-<dd class="terms"><p class="p">Pode renomear o ficheiro cambiando este campo. Tamén pode renomear un ficheiro desde fora da xanela de propiedades. Vexa <span class="link"><a href="files-rename.html" title="Renomear un ficheiro ou cartafol">Renomear un ficheiro ou cartafol</a></span>.</p></dd>
+<dd class="terms"><p class="p">Pode renomear o ficheiro cambiando este campo. Tamén pode renomear un ficheiro desde fora da xanela de propiedades. Vexa <span class="link"><a href="files-rename.html.gl-GL" title="Renomear un ficheiro ou cartafol">Renomear un ficheiro ou cartafol</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Type</span></dt>
 <dd class="terms">
 <p class="p">This helps you identify the type of the file, such as PDF document,
     OpenDocument Text, or JPEG image. The file type determines which
     applications can open the file, among other things. For example, you
-    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="Abrir ficheiros con outros aplicativos">Abrir ficheiros con outros aplicativos</a></span>
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html.gl-GL" title="Abrir ficheiros con outros aplicativos">Abrir ficheiros con outros aplicativos</a></span>
     for more information on this.</p>
 <p class="p">Entre parénteses móstrase o <span class="em">tipo MIME</span> do ficheiro; o tipo MIME é unha forma estándar que os ficheiros usan para referirse ao tipo de ficheiro.</p>
 </dd>
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.gl-GL#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="Estabelecer os permisos dun ficheiro">Estabelecer os permisos dun ficheiro</a><span class="desc"> — Controle quen pode ver e editar os seus ficheiros e cartafoles.</span>
+<a href="nautilus-file-properties-permissions.html.gl-GL" title="Estabelecer os permisos dun ficheiro">Estabelecer os permisos dun ficheiro</a><span class="desc"> — Controle quen pode ver e editar os seus ficheiros e cartafoles.</span>
 </li></ul></div>
 </div></div>
 </div>

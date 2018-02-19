@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#removable" title="Dispositivos extraíbles y discos externos">Dispositivos extraíbles y discos externos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#removable" title="Dispositivos extraíbles y discos externos">Dispositivos extraíbles y discos externos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="media.html" title="Sonido, vídeo e imágenes">Sonido, vídeo e imágenes</a> › <a class="trail" href="media.html#photos" title="Fotos y cámaras digitales">Fotos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="media.html.es" title="Sonido, vídeo e imágenes">Sonido, vídeo e imágenes</a> › <a class="trail" href="media.html.es#photos" title="Fotos y cámaras digitales">Fotos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="media.html" title="Sonido, vídeo e imágenes">Sonido, vídeo e imágenes</a> › <a class="trail" href="media.html#music" title="Música y reproductores de sonido portátiles">Música y reproductores</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="media.html.es" title="Sonido, vídeo e imágenes">Sonido, vídeo e imágenes</a> › <a class="trail" href="media.html.es#music" title="Música y reproductores de sonido portátiles">Música y reproductores</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="media.html" title="Sonido, vídeo e imágenes">Sonido, vídeo e imágenes</a> › <a class="trail" href="media.html#videos" title="Vídeos y videocámaras">Vídeos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="media.html.es" title="Sonido, vídeo e imágenes">Sonido, vídeo e imágenes</a> › <a class="trail" href="media.html.es#videos" title="Vídeos y videocámaras">Vídeos</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <p class="p">Puede hacer que se inicie una aplicación automáticamente cuando conecte un dispositivo, cuando se introduzca un disco o una tarjeta de memoria. Por ejemplo, puede que quiera que se inicie su gestor de fotografías cuando conecte una cámara digital. También puede desactivar esta opción, para que no ocurra nada cuando conecte algo.</p>
 <p class="p">Para decidir qué aplicaciones deberían iniciarse cuando se conecte a varios dispositivos:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Detalles</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Detalles</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Detalles</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Soportes extraíbles</span>.</p></li>
 <li class="steps">
@@ -77,7 +77,7 @@
 <dt class="terms">Discos de sonido</dt>
 <dd class="terms"><p class="p">Elija su aplicación de música favorita o extractor de sonido de CD para gestionar CD de sonido. Si usa DVD de sonido (DVD-A), seleccione cómo abrirlos bajo <span class="gui">Otros medios…</span>. Si abre un disco de sonido con el gestor de archivos, las pistas aparecerán como archivos WAV que puede reproducir en cualquier aplicación de reproducción de sonido.</p></dd>
 <dt class="terms">Discos de vídeo</dt>
-<dd class="terms"><p class="p">Elija su aplicación de vídeo preferida para gestionar DVD de vídeo. Use el botón <span class="gui">Otros medios…</span> para configurar una aplicación para Blu-ray, HD DVD, Vídeo CD (VCD) y Super Vídeo CD (SVCD). Consulte la <span class="link"><a href="video-dvd.html" title="¿Por qué no puedo reproducir DVD?">¿Por qué no puedo reproducir DVD?</a></span> si los DVD u otros discos de vídeo no funcionan correctamente al insertarlos.</p></dd>
+<dd class="terms"><p class="p">Elija su aplicación de vídeo preferida para gestionar DVD de vídeo. Use el botón <span class="gui">Otros medios…</span> para configurar una aplicación para Blu-ray, HD DVD, Vídeo CD (VCD) y Super Vídeo CD (SVCD). Consulte la <span class="link"><a href="video-dvd.html.es" title="¿Por qué no puedo reproducir DVD?">¿Por qué no puedo reproducir DVD?</a></span> si los DVD u otros discos de vídeo no funcionan correctamente al insertarlos.</p></dd>
 <dt class="terms">Discos vírgenes</dt>
 <dd class="terms"><p class="p">Use el botón <span class="gui">Otros medios…</span> para seleccionar una aplicación de grabación de discos para borrar discos de CD, DVD, Blu-ray y HD DVD.</p></dd>
 <dt class="terms">Cámaras y fotos</dt>
@@ -101,10 +101,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#removable" title="Dispositivos extraíbles y discos externos">Dispositivos extraíbles y discos externos</a></li>
-<li class="links "><a href="media.html#photos" title="Fotos y cámaras digitales">Fotos</a></li>
-<li class="links "><a href="media.html#music" title="Música y reproductores de sonido portátiles">Música y reproductores</a></li>
-<li class="links "><a href="media.html#videos" title="Vídeos y videocámaras">Vídeos</a></li>
+<li class="links "><a href="files.html.es#removable" title="Dispositivos extraíbles y discos externos">Dispositivos extraíbles y discos externos</a></li>
+<li class="links "><a href="media.html.es#photos" title="Fotos y cámaras digitales">Fotos</a></li>
+<li class="links "><a href="media.html.es#music" title="Música y reproductores de sonido portátiles">Música y reproductores</a></li>
+<li class="links "><a href="media.html.es#videos" title="Vídeos y videocámaras">Vídeos</a></li>
 </ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#faq" title="Tips en vragen">Tips en vragen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#faq" title="Tips en vragen">Tips en vragen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bestandsrechten instellen</span></h1></div>
@@ -68,7 +68,7 @@
     belong to.</p>
 <p class="p">You can also set the permissions for users other than the owner and
     those in the file’s group.</p>
-<p class="p">Als het bestand een programma is, zoals een script, dan moet u <span class="gui">Uitvoeren van bestand toestaan</span> aanvinken om het te draaien. Zelfs als deze optie aangevinkt is kan het nog steeds zo zijn dat bestandsbeheer het bestand in een toepassing opent of u vraagt wat er gedaan moet worden. Zie <span class="link"><a href="nautilus-behavior.html#executable" title="Uitvoerbare tekstbestanden">Uitvoerbare tekstbestanden</a></span> voor meer informatie.</p>
+<p class="p">Als het bestand een programma is, zoals een script, dan moet u <span class="gui">Uitvoeren van bestand toestaan</span> aanvinken om het te draaien. Zelfs als deze optie aangevinkt is kan het nog steeds zo zijn dat bestandsbeheer het bestand in een toepassing opent of u vraagt wat er gedaan moet worden. Zie <span class="link"><a href="nautilus-behavior.html.nl#executable" title="Uitvoerbare tekstbestanden">Uitvoerbare tekstbestanden</a></span> voor meer informatie.</p>
 </div></div>
 </div></div>
 <div id="folders" class="sect"><div class="inner">
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tips en vragen">Tips en vragen</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.nl#faq" title="Tips en vragen">Tips en vragen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-basic.html" title="Bestandseigenschappen">Bestandseigenschappen</a><span class="desc"> — Basis-bestandsinformatie bekijken, rechten instellen en standaardtoepassingen kiezen.</span>
+<a href="nautilus-file-properties-basic.html.nl" title="Bestandseigenschappen">Bestandseigenschappen</a><span class="desc"> — Basis-bestandsinformatie bekijken, rechten instellen en standaardtoepassingen kiezen.</span>
 </li></ul></div>
 </div></div>
 </div>

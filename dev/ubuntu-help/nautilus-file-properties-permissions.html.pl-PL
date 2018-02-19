@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set file permissions</title>
+<title>Ustawianie uprawnień plików</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#faq" title="Tips and questions">Tips and questions</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#faq" title="Wskazówki i pytania">Wskazówki i pytania</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set file permissions</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Ustawianie uprawnień plików</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can use file permissions to control who can view and edit files that
@@ -74,7 +74,7 @@
 <p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
     executing file as program</span> to run it. Even with this option selected,
     the file manager may still open the file in an application or ask you
-    what to do. See <span class="link"><a href="nautilus-behavior.html#executable" title="Wykonywalne pliki tekstowe">Wykonywalne pliki tekstowe</a></span> for more
+    what to do. See <span class="link"><a href="nautilus-behavior.html.pl-PL#executable" title="Wykonywalne pliki tekstowe">Wykonywalne pliki tekstowe</a></span> for more
     information.</p>
 </div></div>
 </div></div>
@@ -97,7 +97,7 @@
 <dd class="terms"><p class="p">The user will be able to open files in the folder (provided
         they have permission to do so on the particular file), but will
         not be able to create new files or delete files.</p></dd>
-<dt class="terms"><span class="gui">Create and delete files</span></dt>
+<dt class="terms"><span class="gui">Tworzenie i usuwanie plików</span></dt>
 <dd class="terms"><p class="p">The user will have full access to the folder, including
         opening, creating, and deleting files.</p></dd>
 </dl></div></div></div>
@@ -113,12 +113,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tips and questions">Tips and questions</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pl-PL#faq" title="Wskazówki i pytania">Wskazówki i pytania</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-basic.html" title="Właściwości pliku">Właściwości pliku</a><span class="desc"> — View basic file information, set permissions, and choose
+<a href="nautilus-file-properties-basic.html.pl-PL" title="Właściwości pliku">Właściwości pliku</a><span class="desc"> — View basic file information, set permissions, and choose
     default applications.</span>
 </li></ul></div>
 </div></div>

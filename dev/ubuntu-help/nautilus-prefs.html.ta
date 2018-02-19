@@ -43,24 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ta" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html.ta#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">கோப்பு மேலாளர் முன்னுரிமைகள்</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html" title="Files list columns preferences"><span class="title">Files list columns preferences</span><span class="linkdiv-dash"> — </span><span class="desc">பட்டியல் காட்சி வகையில் என்ன தகவல் நெடுவரிசைகள் காட்டப்படுகிறது என்பதைக் கட்டுப்படுத்துதல்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html" title="கோப்பு மேலாளர் காட்சி முன்னுரிமைகள்"><span class="title">கோப்பு மேலாளர் காட்சி முன்னுரிமைகள்</span><span class="linkdiv-dash"> — </span><span class="desc">கோப்பு மேலாளரில் பயன்படுத்தப்படும் கட்டுப்பாடு சின்னங்களின் தலைப்புகளைக் கட்டுப்படுத்துதல்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html" title="கோப்பு மேலாளர் நடத்தை முன்னுரிமைகள்"><span class="title">கோப்பு மேலாளர் நடத்தை முன்னுரிமைகள்</span><span class="linkdiv-dash"> — </span><span class="desc">கோப்புகளைத் திறக்க அல்லது செயல்படுத்தக்கூடிய உரை கோப்புகளை இயக்க அல்லது காண ஒற்றை சொடுக்கம் செய்தல் மற்றும் குப்பை நடத்தையைக் குறிப்பிடுதல்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html" title="கோப்பு மேலாளர் மாதிரிக்காட்சி முன்னுரிமைகள்"><span class="title">கோப்பு மேலாளர் மாதிரிக்காட்சி முன்னுரிமைகள்</span><span class="linkdiv-dash"> — </span><span class="desc">கோப்புகளுக்கு எப்போது சிறுபடங்கள் பயன்படுத்தப்படும் என்பதைக் கட்டுப்படுத்துதல்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html" title="கோப்புகள் இல் உள்ள முன்னுரிமைகளைக் காட்டும்"><span class="title"><span class="app">கோப்புகள்</span> இல் உள்ள முன்னுரிமைகளைக் காட்டும்</span><span class="linkdiv-dash"> — </span><span class="desc">Specify the default sort order and grouping for the file
+<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html.ta" title="Files list columns preferences"><span class="title">Files list columns preferences</span><span class="linkdiv-dash"> — </span><span class="desc">பட்டியல் காட்சி வகையில் என்ன தகவல் நெடுவரிசைகள் காட்டப்படுகிறது என்பதைக் கட்டுப்படுத்துதல்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html.ta" title="கோப்பு மேலாளர் காட்சி முன்னுரிமைகள்"><span class="title">கோப்பு மேலாளர் காட்சி முன்னுரிமைகள்</span><span class="linkdiv-dash"> — </span><span class="desc">கோப்பு மேலாளரில் பயன்படுத்தப்படும் கட்டுப்பாடு சின்னங்களின் தலைப்புகளைக் கட்டுப்படுத்துதல்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html.ta" title="கோப்பு மேலாளர் நடத்தை முன்னுரிமைகள்"><span class="title">கோப்பு மேலாளர் நடத்தை முன்னுரிமைகள்</span><span class="linkdiv-dash"> — </span><span class="desc">கோப்புகளைத் திறக்க அல்லது செயல்படுத்தக்கூடிய உரை கோப்புகளை இயக்க அல்லது காண ஒற்றை சொடுக்கம் செய்தல் மற்றும் குப்பை நடத்தையைக் குறிப்பிடுதல்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html.ta" title="கோப்பு மேலாளர் மாதிரிக்காட்சி முன்னுரிமைகள்"><span class="title">கோப்பு மேலாளர் மாதிரிக்காட்சி முன்னுரிமைகள்</span><span class="linkdiv-dash"> — </span><span class="desc">கோப்புகளுக்கு எப்போது சிறுபடங்கள் பயன்படுத்தப்படும் என்பதைக் கட்டுப்படுத்துதல்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html.ta" title="கோப்புகள் இல் உள்ள முன்னுரிமைகளைக் காட்டும்"><span class="title"><span class="app">கோப்புகள்</span> இல் உள்ள முன்னுரிமைகளைக் காட்டும்</span><span class="linkdiv-dash"> — </span><span class="desc">Specify the default sort order and grouping for the file
     manager.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ta#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

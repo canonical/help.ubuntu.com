@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="power.html" title="Energía y batería">Energía y batería</a> › <a class="trail" href="power.html#saving" title="Configuración de ahorro de energía">Configuración de ahorro de energía</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="power.html.es" title="Energía y batería">Energía y batería</a> › <a class="trail" href="power.html.es#saving" title="Configuración de ahorro de energía">Configuración de ahorro de energía</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="prefs-display.html" title="Pantalla">Pantalla</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="prefs-display.html.es" title="Pantalla">Pantalla</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="power.html" title="Energía y batería">Energía y batería</a> › <a class="trail" href="power.html#saving" title="Configuración de ahorro de energía">Configuración de ahorro de energía</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="power.html.es" title="Energía y batería">Energía y batería</a> › <a class="trail" href="power.html.es#saving" title="Configuración de ahorro de energía">Configuración de ahorro de energía</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comunes">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html" title="Problemas de la pantalla">Problemas de la pantalla</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html.es#problems" title="Problemas comunes">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html.es" title="Problemas de la pantalla">Problemas de la pantalla</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,12 +61,12 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Para establecer el tiempo de apagado de la pantalla:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> empiece a escribir <span class="gui">Energía</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> empiece a escribir <span class="gui">Energía</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Energía</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Use la lista desplegable <span class="gui">Apagar la pantalla</span> en <span class="gui">Ahorro de energía</span> para establecer el tiempo de apagado de la pantalla, o para desactivarlo completamente.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Cuando el equipo está inactivo, la pantalla se bloqueará automáticamente por razones de seguridad. Para cambiar este comportamiento, consulte la <span class="link"><a href="session-screenlocks.html" title="La pantalla se bloquea demasiado deprisa">La pantalla se bloquea demasiado deprisa</a></span>.</p></div></div></div></div>
+<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Cuando el equipo está inactivo, la pantalla se bloqueará automáticamente por razones de seguridad. Para cambiar este comportamiento, consulte la <span class="link"><a href="session-screenlocks.html.es" title="La pantalla se bloquea demasiado deprisa">La pantalla se bloquea demasiado deprisa</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -74,12 +74,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="power.html#saving" title="Configuración de ahorro de energía">Configuración de ahorro de energía</a></li>
+<li class="links "><a href="power.html.es#saving" title="Configuración de ahorro de energía">Configuración de ahorro de energía</a></li>
 <li class="links ">
-<a href="prefs-display.html" title="Pantalla">Pantalla</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Cambiar el fondo del escritorio y de la pantalla de bloqueo">Fondo</a></span>, <span class="link"><a href="look-resolution.html" title="Cambiar la resolución o la rotación de la pantalla">tamaño y rotación</a></span>, brillo…</span>
+<a href="prefs-display.html.es" title="Pantalla">Pantalla</a><span class="desc"> — <span class="link"><a href="look-background.html.es" title="Cambiar el fondo del escritorio y de la pantalla de bloqueo">Fondo</a></span>, <span class="link"><a href="look-resolution.html.es" title="Cambiar la resolución o la rotación de la pantalla">tamaño y rotación</a></span>, brillo…</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Problemas de la pantalla">Problemas de la pantalla</a><span class="desc"> — Resolución de problemas de pantalla y gráficos.</span>
+<a href="hardware-problems-graphics.html.es" title="Problemas de la pantalla">Problemas de la pantalla</a><span class="desc"> — Resolución de problemas de pantalla y gráficos.</span>
 </li>
 </ul></div>
 </div></div>
@@ -87,10 +87,10 @@
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="session-screenlocks.html" title="La pantalla se bloquea demasiado deprisa">La pantalla se bloquea demasiado deprisa</a><span class="desc"> — Cambie el tiempo de espera antes de que se bloquee la pantalla en la configuración de <span class="gui">Privacidad</span>.</span>
+<a href="session-screenlocks.html.es" title="La pantalla se bloquea demasiado deprisa">La pantalla se bloquea demasiado deprisa</a><span class="desc"> — Cambie el tiempo de espera antes de que se bloquee la pantalla en la configuración de <span class="gui">Privacidad</span>.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="¿Por qué mi pantalla se oscurece después de un tiempo?">¿Por qué mi pantalla se oscurece después de un tiempo?</a><span class="desc"> — La pantalla se oscurecerá cuando el equipo esté inactivo para ahorrar energía.</span>
+<a href="power-whydim.html.es" title="¿Por qué mi pantalla se oscurece después de un tiempo?">¿Por qué mi pantalla se oscurece después de un tiempo?</a><span class="desc"> — La pantalla se oscurecerá cuando el equipo esté inactivo para ahorrar energía.</span>
 </li>
 </ul></div>
 </div></div>

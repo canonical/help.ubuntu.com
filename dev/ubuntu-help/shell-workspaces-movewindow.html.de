@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ihre Arbeitsumgebung">Schreibtisch</a> › <a class="trail" href="shell-overview.html#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a> » <a class="trail" href="shell-windows.html" title="Fenster und Arbeitsflächen">Fenster und Arbeitsflächen</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Arbeiten mit Arbeitsflächen">Arbeitsflächen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.de" title="Ihre Arbeitsumgebung">Schreibtisch</a> › <a class="trail" href="shell-overview.html.de#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a> » <a class="trail" href="shell-windows.html.de" title="Fenster und Arbeitsflächen">Fenster und Arbeitsflächen</a> › <a class="trail" href="shell-windows.html.de#working-with-workspaces" title="Arbeiten mit Arbeitsflächen">Arbeitsflächen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fenster auf eine andere Arbeitsfläche verschieben</span></h1></div>
@@ -52,16 +52,16 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Mit der Maus:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht.</p></li>
 <li class="steps"><p class="p">Ziehen Sie das Fenster an die rechte Seite des Bildschirms und legen Sie es dort ab.</p></li>
-<li class="steps"><p class="p">Der <span class="em"><a href="shell-workspaces.html" title="Was ist eine Arbeitsfläche, und was habe ich davon?">Arbeitsflächenumschalter</a></span> erscheint daraufhin.</p></li>
+<li class="steps"><p class="p">Der <span class="em"><a href="shell-workspaces.html.de" title="Was ist eine Arbeitsfläche, und was habe ich davon?">Arbeitsflächenumschalter</a></span> erscheint daraufhin.</p></li>
 <li class="steps"><p class="p">Legen Sie das Fenster in der leeren Arbeitsfläche ab. Diese Arbeitsfläche enthält nun das abgelegte Fenster und eine neue leere Arbeitsfläche erscheint am unteren Rand des <span class="em">Arbeitsflächenumschalters</span>.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Mit der Tastatur:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Wählen Sie das zu verschiebende Fenster aus (beispielsweise mit dem <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>-<span class="link"><a href="shell-terminology.html" title="shell-terminology">Fensterwechsler</a></span>).</p></li>
+<li class="steps"><p class="p">Wählen Sie das zu verschiebende Fenster aus (beispielsweise mit dem <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.de" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>-<span class="link"><a href="shell-terminology.html.de" title="shell-terminology">Fensterwechsler</a></span>).</p></li>
 <li class="steps">
 <p class="p">Drücken Sie <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Umschalttaste</kbd></span>+<span class="key"><kbd>↑</kbd></span></span>, um das Fenster auf eine Arbeitsfläche zu verschieben, die sich über der aktuellen Arbeitsfläche im <span class="em">Arbeitsflächenumschalter</span> befindet.</p>
 <p class="p">Drücken Sie <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Umschalttaste</kbd></span>+<span class="key"><kbd>Umschalttaste</kbd></span>+<span class="key"><kbd>↓</kbd></span></span>, um das Fenster auf eine Arbeitsfläche zu verschieben, die sich unter der aktuellen Arbeitsfläche im <span class="em">Arbeitsflächenumschalter</span> befindet.</p>
@@ -74,12 +74,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Arbeiten mit Arbeitsflächen">Arbeiten mit Arbeitsflächen</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.de#working-with-workspaces" title="Arbeiten mit Arbeitsflächen">Arbeiten mit Arbeitsflächen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-workspaces.html" title="Was ist eine Arbeitsfläche, und was habe ich davon?">Was ist eine Arbeitsfläche, und was habe ich davon?</a><span class="desc"> — Arbeitsflächen sind eine Möglichkeit zum Gruppieren von Fenstern in Ihrer Arbeitsumgebung.</span>
+<a href="shell-workspaces.html.de" title="Was ist eine Arbeitsfläche, und was habe ich davon?">Was ist eine Arbeitsfläche, und was habe ich davon?</a><span class="desc"> — Arbeitsflächen sind eine Möglichkeit zum Gruppieren von Fenstern in Ihrer Arbeitsumgebung.</span>
 </li></ul></div>
 </div></div>
 </div>

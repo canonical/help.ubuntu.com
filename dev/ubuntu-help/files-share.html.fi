@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html#more-file-tasks" title="Lisää tiedostoihin liittyviä tehtäviä">Lisää tiedostoihin liittyviä tehtäviä</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.fi" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html.fi#more-file-tasks" title="Lisää tiedostoihin liittyviä tehtäviä">Lisää tiedostoihin liittyviä tehtäviä</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="sharing.html" title="Jakaminen">Jakaminen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="sharing.html.fi" title="Jakaminen">Jakaminen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,7 +61,7 @@ file manager.</p>
 <div class="title title-steps"><h2><span class="title">To share a file by email:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="app">Files</span> application from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview.</p></li>
 <li class="steps"><p class="p">Paikallista tiedosto, jonka haluat lähettää.</p></li>
 <li class="steps"><p class="p">Right-click the file and select <span class="gui">Send to…</span>. An email compose
       window will appear with the file attached.</p></li>
@@ -81,19 +81,19 @@ file manager.</p>
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Jakaminen">Jakaminen</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Jaa työpöytäsi">Työpöydän jakaminen</a></span>, <span class="link"><a href="files-share.html" title="Jaa tiedostoja sähköpostitse">jaa tiedostoja sähköpostitse</a></span>, <span class="link"><a href="sharing-media.html" title="Jaa musiikkia, kuvia ja videoita">median jakaminen</a></span>…</span>
+<a href="sharing.html.fi" title="Jakaminen">Jakaminen</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.fi" title="Jaa työpöytäsi">Työpöydän jakaminen</a></span>, <span class="link"><a href="files-share.html.fi" title="Jaa tiedostoja sähköpostitse">jaa tiedostoja sähköpostitse</a></span>, <span class="link"><a href="sharing-media.html.fi" title="Jaa musiikkia, kuvia ja videoita">median jakaminen</a></span>…</span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="Lisää tiedostoihin liittyviä tehtäviä">Lisää tiedostoihin liittyviä tehtäviä</a></li>
+<li class="links "><a href="files.html.fi#more-file-tasks" title="Lisää tiedostoihin liittyviä tehtäviä">Lisää tiedostoihin liittyviä tehtäviä</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-send-file.html" title="Lähetä tiedostoja Bluetooth-laitteeseen">Lähetä tiedostoja Bluetooth-laitteeseen</a><span class="desc"> — Jaa tiedostoja Bluetooth-laitteille, kuten puhelimiin</span>
+<a href="bluetooth-send-file.html.fi" title="Lähetä tiedostoja Bluetooth-laitteeseen">Lähetä tiedostoja Bluetooth-laitteeseen</a><span class="desc"> — Jaa tiedostoja Bluetooth-laitteille, kuten puhelimiin</span>
 </li>
 <li class="links ">
-<a href="nautilus-connect.html" title="Selaa palvelimen verkkojaon tiedostoja">Selaa palvelimen verkkojaon tiedostoja</a><span class="desc"> — Katsele ja muokkaa toisella tietokoneella olevia tiedostoja FTP:n, SSH:n, Windows-levyjaon tai WebDAVin kautta.</span>
+<a href="nautilus-connect.html.fi" title="Selaa palvelimen verkkojaon tiedostoja">Selaa palvelimen verkkojaon tiedostoja</a><span class="desc"> — Katsele ja muokkaa toisella tietokoneella olevia tiedostoja FTP:n, SSH:n, Windows-levyjaon tai WebDAVin kautta.</span>
 </li>
 </ul></div>
 </div></div>

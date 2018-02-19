@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="disk.html" title="Диски и другие устройства хранения информации">Диски и другие устройства хранения информации</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="disk.html.ru" title="Диски и другие устройства хранения информации">Диски и другие устройства хранения информации</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Repair a damaged filesystem</span></h1></div>
@@ -119,7 +119,7 @@
        be done by mounting the image read-only or using forensic analysis tools
        like <span class="app">sleuthkit</span>.</p>
 <p class="p">To make use of the volume again it has to be
-       <span class="link"><a href="disk-format.html" title="Удаление всего содержимого съёмного носителя">formatted</a></span> with a new filesystem. All
+       <span class="link"><a href="disk-format.html.ru" title="Удаление всего содержимого съёмного носителя">formatted</a></span> with a new filesystem. All
        data will be discarded.</p>
 </li>
 </ol></div>
@@ -130,7 +130,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Диски и другие устройства хранения информации">Диски и другие устройства хранения информации</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Проверка оставшегося свободного места на диске">Дисковое пространство</a></span>, <span class="link"><a href="disk-benchmark.html" title="Тестирование производительности жёсткого диска">производительность</a></span>, <span class="link"><a href="disk-check.html" title="Проверка жёсткого диска на наличие неисправностей">неполадки</a></span>, <span class="link"><a href="disk-partitions.html" title="Управление томами и разделами">тома и разделы</a></span>…</span>
+<a href="disk.html.ru" title="Диски и другие устройства хранения информации">Диски и другие устройства хранения информации</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ru" title="Проверка оставшегося свободного места на диске">Дисковое пространство</a></span>, <span class="link"><a href="disk-benchmark.html.ru" title="Тестирование производительности жёсткого диска">производительность</a></span>, <span class="link"><a href="disk-check.html.ru" title="Проверка жёсткого диска на наличие неисправностей">неполадки</a></span>, <span class="link"><a href="disk-partitions.html.ru" title="Управление томами и разделами">тома и разделы</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

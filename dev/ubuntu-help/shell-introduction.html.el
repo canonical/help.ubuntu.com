@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Εισαγωγή στο GNOME</span></h1></div>
@@ -51,21 +51,21 @@
 <div class="contents">
 <p class="p">Το GNOME 3 χαρακτηρίζεται από μια πλήρως επανασχεδιασμένη διεπαφή χρήστη, ελαχιστοποιόντας τους περισπασμούς βοηθώντας σας να κάνετε τη δουλειά σας. Όταν συνδέεστε για πρώτη φορά, θα δείτε μια κενή επιφάνεια εργασίας και την πάνω γραμμή.</p>
 <div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="Η πάνω γραμμή του κελύφους GNOME"></div></div>
-<p class="p">Η πάνω γραμμή παρέχει πρόσβαση στα παράθυρά και τις εφαρμογές σας, στα ημερολόγια και τις συναντήσεις και στις <span class="link"><a href="status-icons.html" title="Τι σημαίνουν τα εικονίδια στην πάνω γραμμή;">ιδιότητες του συστήματος</a></span> όπως ήχο, δικτύωση και ενέργεια. Στο μενού κατάστασης στην πάνω γραμμή, μπορείτε να αλλάξετε την ένταση ή την φωτεινότητα της οθόνης, να επεξεργαστείτε τις λεπτομέρειες σύνδεσης του <span class="gui">Wi-Fi</span>, να ελέγξετε την κατάσταση της μπαταρία σας, να αποσυνδεθείτε ή να αλλάξετε χρήστες, ή να τερματίσετε τον υπολογιστή σας.</p>
+<p class="p">Η πάνω γραμμή παρέχει πρόσβαση στα παράθυρά και τις εφαρμογές σας, στα ημερολόγια και τις συναντήσεις και στις <span class="link"><a href="status-icons.html.el" title="Τι σημαίνουν τα εικονίδια στην πάνω γραμμή;">ιδιότητες του συστήματος</a></span> όπως ήχο, δικτύωση και ενέργεια. Στο μενού κατάστασης στην πάνω γραμμή, μπορείτε να αλλάξετε την ένταση ή την φωτεινότητα της οθόνης, να επεξεργαστείτε τις λεπτομέρειες σύνδεσης του <span class="gui">Wi-Fi</span>, να ελέγξετε την κατάσταση της μπαταρία σας, να αποσυνδεθείτε ή να αλλάξετε χρήστες, ή να τερματίσετε τον υπολογιστή σας.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Η επισκόπηση <span class="gui">Δραστηριότητες</span></a></li>
-<li class="links "><a href="shell-introduction.html#appmenu" title="Μενού εφαρμογών">Μενού εφαρμογών</a></li>
-<li class="links "><a href="shell-introduction.html#clock" title="Ρολόι, ημερολόγιο &amp; συναντήσεις">Ρολόι, ημερολόγιο &amp; συναντήσεις</a></li>
-<li class="links "><a href="shell-introduction.html#yourname" title="Εσείς και ο υπολογιστή σας">Εσείς και ο υπολογιστή σας</a></li>
-<li class="links "><a href="shell-introduction.html#lockscreen" title="Κλείδωμα οθόνης">Κλείδωμα οθόνης</a></li>
-<li class="links "><a href="shell-introduction.html#window-list" title="Λίστα παραθύρων">Λίστα παραθύρων</a></li>
+<li class="links "><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Η επισκόπηση <span class="gui">Δραστηριότητες</span></a></li>
+<li class="links "><a href="shell-introduction.html.el#appmenu" title="Μενού εφαρμογών">Μενού εφαρμογών</a></li>
+<li class="links "><a href="shell-introduction.html.el#clock" title="Ρολόι, ημερολόγιο &amp; συναντήσεις">Ρολόι, ημερολόγιο &amp; συναντήσεις</a></li>
+<li class="links "><a href="shell-introduction.html.el#yourname" title="Εσείς και ο υπολογιστή σας">Εσείς και ο υπολογιστή σας</a></li>
+<li class="links "><a href="shell-introduction.html.el#lockscreen" title="Κλείδωμα οθόνης">Κλείδωμα οθόνης</a></li>
+<li class="links "><a href="shell-introduction.html.el#window-list" title="Λίστα παραθύρων">Λίστα παραθύρων</a></li>
 </ul></div></div></div>
 </div>
 <div id="activities" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Η επισκόπηση <span class="gui">Δραστηριότητες</span></span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-activities.png" class="media media-block" alt="Κουμπί Δραστηριότητες"></div></div>
-<p class="p">Για να προσπελάσετε τα παράθυρά και τις εφαρμογές σας, κάντε κλικ στο κουμπί <span class="gui">Δραστηριότητες</span>, ή απλά μετακινήστε τον δείκτη του ποντικιού σας στην πάνω αριστερή γωνία της οθόνης. Μπορείτε επίσης να πατήσετε το πλήκτρο <span class="key"><a href="keyboard-key-super.html" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογοτύπο</kbd></a></span> στο πληκτρολόγιο σας. Μπορείτε να δείτε τα παράθυρά σας και τις εφαρμογές στην επισκόπηση και επίσης μπορείτε απλά να πληκτρολογήσετε για να αναζητήσετε τις εφαρμογές σας, τα αρχεία και τους φακέλους ή ακόμα και στο διαδίκτυο.</p>
+<p class="p">Για να προσπελάσετε τα παράθυρά και τις εφαρμογές σας, κάντε κλικ στο κουμπί <span class="gui">Δραστηριότητες</span>, ή απλά μετακινήστε τον δείκτη του ποντικιού σας στην πάνω αριστερή γωνία της οθόνης. Μπορείτε επίσης να πατήσετε το πλήκτρο <span class="key"><a href="keyboard-key-super.html.el" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογοτύπο</kbd></a></span> στο πληκτρολόγιο σας. Μπορείτε να δείτε τα παράθυρά σας και τις εφαρμογές στην επισκόπηση και επίσης μπορείτε απλά να πληκτρολογήσετε για να αναζητήσετε τις εφαρμογές σας, τα αρχεία και τους φακέλους ή ακόμα και στο διαδίκτυο.</p>
 <div class="media media-image floatstart if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-dash.png" height="300" class="media media-block" alt="Το ταμπλό"></div></div>
 <p class="p">Στα αριστερά της επισκόπησης, θα βρείτε το <span class="em">ταμπλό</span>. Το ταμπλό σας εμφανίζει τις αγαπημένες και εκτελούμενες εφαρμογές. Κάντε κλικ σε οποιοδήποτε εικονίδιο στο ταμπλό για να ανοίξετε την αντίστοιχη εφαρμογή· εάν η εφαρμογή εκτελείται ήδη, θα επισημανθεί. Πατώντας το εικονίδιο της θα εμφανίσει το πιο πρόσφατα χρησιμοποιούμενο παράθυρο. Μπορείτε επίσης να σύρετε το εικονίδιο στην επισκόπηση, ή σε οποιονδήποτε χώρο εργασίας στα δεξιά.</p>
 <p class="p">Κάνοντας δεξί κλικ στο εικονίδιο εμφανίζεται ένα μενού που επιτρέπει να επιλέξετε οποιοδήποτε παράθυρο σε μια εκτελούμενη εφαρμογή, ή να ανοίξετε ένα νέο παράθυρο. Μπορείτε επίσης να κάντε κλικ στο εικονίδιο ενώ κρατάτε πατημένο το <span class="key"><kbd>Ctrl</kbd></span> για να ανοίξετε ένα νέο παράθυρο.</p>
@@ -77,8 +77,8 @@
   the dash to make it a favorite. Your favorite applications stay in the dash
   even when they’re not running, so you can access them quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="Εκκίνηση εφαρμογών">Μάθετε περισσότερα για την εκκίνηση εφαρμογών.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="Παράθυρα και χώροι εργασίας">Μάθετε περισσότερα για τα παράθυρα και τους χώρους εργασίας.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html.el" title="Εκκίνηση εφαρμογών">Μάθετε περισσότερα για την εκκίνηση εφαρμογών.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows.html.el" title="Παράθυρα και χώροι εργασίας">Μάθετε περισσότερα για τα παράθυρα και τους χώρους εργασίας.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -95,8 +95,8 @@
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appts.png" width="250" class="media media-block" alt="Ρολόι, ημερολόγιο, συναντήσεις και ειδοποιήσεις"></div></div>
 <p class="p">Κάντε κλικ στο ρολόι στην πάνω γραμμή για να δείτε την τρέχουσα ημερομηνία, ένα ημερολόγιο ανά μήνα και μια λίστα των επερχόμενων συναντήσεων σας. Μπορείτε να ανοίξετε το ημερολόγιο πατώντας <span class="keyseq"><span class="key"><kbd>Λογότυπο</kbd></span>+<span class="key"><kbd>M</kbd></span></span>. Μπορείτε επίσης να προσπελάσετε τις ρυθμίσεις ημερομηνίας και ώρας και να ανοίξετε το πλήρες ημερολόγιο του <span class="app">Evolution</span> κατευθείαν από το μενού.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html" title="Συναντήσεις ημερολογίου">Μάθετε περισσότερα για το ημερολόγιο και τις συναντήσεις.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-notifications.html" title="Ειδοποιήσεις και η περιοχή ειδοποιήσεων">Μάθετε περισσότερα για τις ειδοποιήσεις και την περιοχή ειδοποιήσεων.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html.el" title="Συναντήσεις ημερολογίου">Μάθετε περισσότερα για το ημερολόγιο και τις συναντήσεις.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-notifications.html.el" title="Ειδοποιήσεις και η περιοχή ειδοποιήσεων">Μάθετε περισσότερα για τις ειδοποιήσεις και την περιοχή ειδοποιήσεων.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -112,7 +112,7 @@
   that supports vertical or horizontal rotation, you can quickly rotate the 
   screen from the system menu. If your screen does not support rotation, 
   you will not see the button.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html" title="Αποσύνδεση, τερματισμός ή αλλαγή χρηστών">Μάθετε περισσότερα για αλλαγή χρηστών, αποσύνδεση και τερματισμό του υπολογιστή σας.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html.el" title="Αποσύνδεση, τερματισμός ή αλλαγή χρηστών">Μάθετε περισσότερα για αλλαγή χρηστών, αποσύνδεση και τερματισμό του υπολογιστή σας.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div id="lockscreen" class="sect"><div class="inner">
@@ -124,14 +124,14 @@
   computer, the lock screen displays the date and time. It also shows
   information about your battery and network status, and allows you to control
   media playback.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html" title="Κλείδωμα της οθόνης">Μάθετε περισσότερα για το κλείδωμα της οθόνης.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html.el" title="Κλείδωμα της οθόνης">Μάθετε περισσότερα για το κλείδωμα της οθόνης.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div id="window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Λίστα παραθύρων</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Το GNOME χρησιμοποιεί μια διαφορετική προσέγγιση για την εναλλαγή παραθύρων από μια μόνιμα ορατή λίστα παραθύρων που βρίσκεται σε άλλα περιβάλλοντα επιφάνειας εργασίας. Αυτό σας επιτρέπει να συγκεντρωθείτε στην εργασία σας χωρίς αποσπάσεις.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Εναλλαγή μεταξύ παραθύρων">Μάθετε περισσότερα για την εναλλαγή παραθύρων.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html.el" title="Εναλλαγή μεταξύ παραθύρων">Μάθετε περισσότερα για την εναλλαγή παραθύρων.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -140,9 +140,9 @@
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html" title="Η επιφάνεια εργασία σας">Η επιφάνεια εργασία σας</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Συναντήσεις ημερολογίου">Ημερολόγιο</a></span>, <span class="link"><a href="shell-notifications.html" title="Ειδοποιήσεις και η περιοχή ειδοποιήσεων">ειδοποιήσεις</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Χρήσιμες συντομεύσεις πληκτρολογίου">συντομεύσεις πληκτρολογίου</a></span>, <span class="link"><a href="shell-windows.html" title="Παράθυρα και χώροι εργασίας">παράθυρα και χώροι εργασίας</a></span>…</span>
+<a href="shell-overview.html.el" title="Η επιφάνεια εργασία σας">Η επιφάνεια εργασία σας</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.el" title="Συναντήσεις ημερολογίου">Ημερολόγιο</a></span>, <span class="link"><a href="shell-notifications.html.el" title="Ειδοποιήσεις και η περιοχή ειδοποιήσεων">ειδοποιήσεις</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.el" title="Χρήσιμες συντομεύσεις πληκτρολογίου">συντομεύσεις πληκτρολογίου</a></span>, <span class="link"><a href="shell-windows.html.el" title="Παράθυρα και χώροι εργασίας">παράθυρα και χώροι εργασίας</a></span>…</span>
 </li>
-<li class="links "><a href="index.html" title="Οδηγός χρήσης Ubuntu">Οδηγός χρήσης Ubuntu</a></li>
+<li class="links "><a href="index.html.el" title="Οδηγός χρήσης Ubuntu">Οδηγός χρήσης Ubuntu</a></li>
 </ul></div>
 </div></div></div>
 </div>

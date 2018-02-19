@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="mouse.html" title="Myš">Myš</a> › <a class="trail" href="mouse.html#tips" title="Tipy">Tipy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="mouse.html.cs" title="Myš">Myš</a> › <a class="trail" href="mouse.html.cs#tips" title="Tipy">Tipy</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="mouse.html" title="Myš">Myš</a> › <a class="trail" href="mouse.html#tips" title="Tipy">Tipy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="mouse.html.cs" title="Myš">Myš</a> › <a class="trail" href="mouse.html.cs#tips" title="Tipy">Tipy</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Tipy a triky">Tipy a triky</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.cs" title="Tipy a triky">Tipy a triky</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Řada myší a touchpadů má prostřední tlačítko. Na myši s kolečkem můžete obvykle zmáčknout přímo rolovací kolečko jako prostřední tlačítko. V případě, že prostřední není přítomno, můžete zmáčknout naráz levé a pravé tlačítko, a bude to považováno za prostřední tlačítko.</p>
-<p class="p">Na vícedotykových touchpadech můžete dosáhnout kliknutí prostředním tlačítkem pomocí klepnutí třemi prsty naráz. Aby to fungovalo, musíte mít v nastaveních touchpadu <span class="link"><a href="mouse-touchpad-click.html" title="Klikání, přetahování a posuv na touchpadu">povolené kliknutí klepnutím</a></span>.</p>
+<p class="p">Na vícedotykových touchpadech můžete dosáhnout kliknutí prostředním tlačítkem pomocí klepnutí třemi prsty naráz. Aby to fungovalo, musíte mít v nastaveních touchpadu <span class="link"><a href="mouse-touchpad-click.html.cs" title="Klikání, přetahování a posuv na touchpadu">povolené kliknutí klepnutím</a></span>.</p>
 <p class="p">Řada aplikací používá kliknutí prostředním tlačítkem pro pokročilé klikací zkratky.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">V přehledu <span class="gui">Činností</span> můžete rychle otevřít nové okno pro aplikaci pomocí kliknutí prostředním tlačítkem na ikonu aplikaci buď nalevo v oblíbených nebo v přehledu aplikací. Přehled aplikací se zobrazí pomocí tlačítky s mřížkou, které najdete dole v oblíbených.</p></li>
@@ -71,9 +71,9 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="tips.html" title="Tipy a triky">Tipy a triky</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Zadávání speciálních znaků">Speciální znaky</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Kliknutí prostředním tlačítkem">klávesové zkratky s prostředním tlačítkem</a></span>…</span>
+<a href="tips.html.cs" title="Tipy a triky">Tipy a triky</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.cs" title="Zadávání speciálních znaků">Speciální znaky</a></span>, <span class="link"><a href="mouse-middleclick.html.cs" title="Kliknutí prostředním tlačítkem">klávesové zkratky s prostředním tlačítkem</a></span>…</span>
 </li>
-<li class="links "><a href="mouse.html#tips" title="Tipy">Tipy k myši</a></li>
+<li class="links "><a href="mouse.html.cs#tips" title="Tipy">Tipy k myši</a></li>
 </ul></div>
 </div></div></div>
 </div>

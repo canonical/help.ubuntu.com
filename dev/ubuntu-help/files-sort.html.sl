@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html#common-file-tasks" title="Pogoste naloge">Pogoste naloge</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html.sl#common-file-tasks" title="Pogoste naloge">Pogoste naloge</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Razvrščanje datotek in map</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">You can sort files in different ways in a folder, for example by sorting them
 in order of date or file size. See <span class="link"><a href="#ways" title="Načini razvrščanja datotek">Načini razvrščanja datotek</a></span> below for a list of
-common ways to sort files. See <span class="link"><a href="nautilus-views.html" title="Views preferences in Files">Views preferences in <span class="app">Files</span></a></span> for information on
+common ways to sort files. See <span class="link"><a href="nautilus-views.html.sl" title="Views preferences in Files">Views preferences in <span class="app">Files</span></a></span> for information on
 how to change the default sort order.</p>
 <p class="p">The way that you can sort files depends on the <span class="em">folder view</span> that you
 are using. You can change the current view using the list or icon buttons in the
@@ -80,7 +80,7 @@ toolbar.</p>
   columns. Click the view options button in the toolbar, pick <span class="gui">Visible
   
   Columns…</span> and select the columns that you want to be visible. You will
-  then be able to sort by those columns. See <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">Files list columns preferences</a></span> for
+  then be able to sort by those columns. See <span class="link"><a href="nautilus-list.html.sl" title="Files list columns preferences">Files list columns preferences</a></span> for
   descriptions of available columns.</p>
 </div></div>
 </div></div>
@@ -101,7 +101,7 @@ toolbar.</p>
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Pogoste naloge">Pogoste naloge</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sl#common-file-tasks" title="Pogoste naloge">Pogoste naloge</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

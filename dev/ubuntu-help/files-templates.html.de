@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html#faq" title="Tipps und Fragen">Tipps und Fragen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.de" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html.de#faq" title="Tipps und Fragen">Tipps und Fragen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vorlagen für häufig genutzte Dokumenttypen</span></h1></div>
@@ -63,7 +63,7 @@
 <li class="steps"><p class="p">Öffnen Sie den Ordner, in welchem Sie das neue Dokument erstellen wollen.</p></li>
 <li class="steps"><p class="p">Klicken Sie mit der rechten Maustaste auf eine freie Stelle im Ordner. Wählen Sie anschließend <span class="gui">Neues Dokument</span>. Die Namen der verfügbaren Vorlagen werden im Untermenü aufgelistet.</p></li>
 <li class="steps"><p class="p">Wählen Sie die gewünschte Vorlage in der Liste aus.</p></li>
-<li class="steps"><p class="p">Klicken Sie doppelt auf die Datei, um Sie zu öffnen, und beginnen Sie mit der Bearbeitung. Sie können die Datei <span class="link"><a href="files-rename.html" title="Eine Datei oder einen Ordner umbenennen">umbenennen</a></span>, wenn Sie fertig sind.</p></li>
+<li class="steps"><p class="p">Klicken Sie doppelt auf die Datei, um Sie zu öffnen, und beginnen Sie mit der Bearbeitung. Sie können die Datei <span class="link"><a href="files-rename.html.de" title="Eine Datei oder einen Ordner umbenennen">umbenennen</a></span>, wenn Sie fertig sind.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -71,7 +71,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tipps und Fragen">Tipps und Fragen</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.de#faq" title="Tipps und Fragen">Tipps und Fragen</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

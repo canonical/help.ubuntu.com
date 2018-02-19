@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="sound-broken.html" title="Sound problems">Sound problems</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.kn" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.kn" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.kn#problems" title="Common problems">Problems</a> » <a class="trail" href="sound-broken.html.kn" title="Sound problems">Sound problems</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">ಸಿದ್ಧತೆಗಳು</a> » <a class="trail" href="media.html#sound" title="Basic sound">ಧ್ವನಿ</a> » <a class="trail" href="sound-broken.html" title="Sound problems">Sound problems</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.kn" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.kn" title="User &amp; system settings">ಸಿದ್ಧತೆಗಳು</a> » <a class="trail" href="media.html.kn#sound" title="Basic sound">ಧ್ವನಿ</a> » <a class="trail" href="sound-broken.html.kn" title="Sound problems">Sound problems</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -85,7 +85,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">ಇನ್ನಷ್ಟು ಮಾಹಿತಿ</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html" title="Sound problems">Sound problems</a><span class="desc"> — Troubleshoot problems like having no sound or having poor sound
+<a href="sound-broken.html.kn" title="Sound problems">Sound problems</a><span class="desc"> — Troubleshoot problems like having no sound or having poor sound
     quality.</span>
 </li></ul></div>
 </div></div></div>

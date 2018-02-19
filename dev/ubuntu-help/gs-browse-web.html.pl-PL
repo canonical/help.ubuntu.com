@@ -43,15 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Wprowadzenie do środowiska">Wprowadzenie do środowiska GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.pl-PL" title="Wprowadzenie do środowiska">Wprowadzenie do środowiska GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="Łączenie z siecią">Poprzednia</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Łączenie z kontami online">Następna</a>
+<a class="nextlinks-prev" href="gs-get-online.html.pl-PL" title="Łączenie z siecią">Poprzednia</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.pl-PL" title="Łączenie z kontami online">Następna</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Przeglądanie WWW</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Przesuń kursor myszy na <span class="gui">Podgląd</span> w lewym górnym rogu ekranu, aby wyświetlić <span class="gui">ekran podglądu</span>.</p></li>
+<li class="steps"><p class="p">Wybierz ikonę przeglądarki <span class="app">Firefox</span> z paska po lewej stronie ekranu.</p></li>
+</ol></div></div></div>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Można także uruchomić przeglądarkę <span class="link"><a href="gs-use-system-search.html.pl-PL" title="Używanie wyszukiwania systemowego">po prostu wpisując</a></span> <span class="em">Firefox</span> na <span class="gui">ekranie podglądu</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Kliknij pasek adresu na górze okna przeglądarki i zacznij wpisywać stronę, którą chcesz odwiedzić.</p></li>
 <li class="steps">
 <p class="p">Wpisanie strony WWW rozpocznie jej wyszukiwanie w historii przeglądarki i zakładkach, więc nie trzeba pamiętać jej dokładnego adresu.</p>
@@ -59,9 +67,10 @@
 </li>
 <li class="steps"><p class="p">Z tej listy można szybko wybrać stronę WWW za pomocą klawiszy strzałek.</p></li>
 <li class="steps"><p class="p">Po wybraniu strony naciśnij klawisz <span class="key"><kbd>Enter</kbd></span>, aby ją odwiedzić.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="Łączenie z siecią">Poprzednia</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Łączenie z kontami online">Następna</a>
+<a class="nextlinks-prev" href="gs-get-online.html.pl-PL" title="Łączenie z siecią">Poprzednia</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.pl-PL" title="Łączenie z kontami online">Następna</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -69,16 +78,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Wprowadzenie do środowiska">Wprowadzenie do środowiska GNOME</a><span class="desc"> — Nowy użytkownik środowiska GNOME? Dowiedz się, jak go używać.</span>
+<a href="getting-started.html.pl-PL" title="Wprowadzenie do środowiska">Wprowadzenie do środowiska GNOME</a><span class="desc"> — Nowy użytkownik środowiska GNOME? Dowiedz się, jak go używać.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Przeglądarki WWW">Przeglądarki WWW</a><span class="desc"> — 
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="Zainstaluj wtyczkę Flash">install Flash</a></span>…
-    </span>
+<a href="net-browser.html.pl-PL" title="Przeglądarki WWW">Przeglądarki WWW</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.pl-PL" title="Change which web browser opens websites by default">Zmiana domyślnej przeglądarki</a></span>, <span class="link"><a href="net-install-flash.html.pl-PL" title="Zainstaluj wtyczkę Flash">instalacja wtyczki Flash</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

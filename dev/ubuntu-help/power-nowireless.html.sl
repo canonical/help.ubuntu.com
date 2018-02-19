@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html#problems" title="Pogoste težave">Težave</a> » <a class="trail" href="power.html#problems" title="Težave">Težave z napajanjem</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html.sl#problems" title="Pogoste težave">Težave</a> » <a class="trail" href="power.html.sl#problems" title="Težave">Težave z napajanjem</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ko računalnik povrnem iz stanja pripravljenosti, nimam brezžičnega omrežja</span></h1></div>
@@ -51,13 +51,13 @@
 <div class="contents">
 <p class="p">If you have suspended your computer, you may find that your wireless
   internet connection does not work when you resume it again. This happens when
-  the <span class="link"><a href="hardware-driver.html" title="Kaj je gonilnik?">driver</a></span> for the wireless device does
+  the <span class="link"><a href="hardware-driver.html.sl" title="Kaj je gonilnik?">driver</a></span> for the wireless device does
   not fully support certain power saving features.
   Typically, the wireless connection fails to turn on properly when the
   computer is resumed.</p>
 <p class="p">Izklopite in znova vklopite brezžično kartico:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Wi-Fi</span>.</p></li>
@@ -75,17 +75,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html#problems" title="Težave">Težave z napajanjem</a><span class="desc"> — Odpravite težave z napajanjem in baterijo</span>
+<a href="power.html.sl#problems" title="Težave">Težave z napajanjem</a><span class="desc"> — Odpravite težave z napajanjem in baterijo</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-driver.html" title="Kaj je gonilnik?">Kaj je gonilnik?</a><span class="desc"> — Gonilnik za strojno opremo/napravo omogoča računalniku, da uporabi naprave, ki so nanj priklopljene</span>
+<a href="hardware-driver.html.sl" title="Kaj je gonilnik?">Kaj je gonilnik?</a><span class="desc"> — Gonilnik za strojno opremo/napravo omogoča računalniku, da uporabi naprave, ki so nanj priklopljene</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?">Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.sl" title="Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?">Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 </ul></div>
 </div></div>

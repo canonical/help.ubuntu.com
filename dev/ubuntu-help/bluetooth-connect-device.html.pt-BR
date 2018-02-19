@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="bluetooth.html.pt-BR" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Conectando seu computador a um dispositivo Bluetooth</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">Antes que possa usar um dispositivo Bluetooth como um mouse ou um fone de ouvido, você precisa primeiro conectar seu computador ao dispositivo. Isso é conhecido como <span class="em">parear</span> dispositivos Bluetooth.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Bluetooth</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Certifique-se de que o Bluetooth está habilitado: o alternador na barra de título deveria estar definido com <span class="key"><kbd>❙</kbd></span>. Com o painel aberto e o alternador em <span class="gui">ON</span>, seu computador vai iniciar uma pesquisa por dispositivos.</p></li>
-<li class="steps"><p class="p">Deixe o outro dispositivo Bluetooth <span class="link"><a href="bluetooth-visibility.html" title="O que é visibilidade Bluetooth?">encontrável ou visível</a></span> e coloque-o a menos de 5-10 metros (cerca de 16-33 pés) de distância do seu computador.</p></li>
+<li class="steps"><p class="p">Deixe o outro dispositivo Bluetooth <span class="link"><a href="bluetooth-visibility.html.pt-BR" title="O que é visibilidade Bluetooth?">encontrável ou visível</a></span> e coloque-o a menos de 5-10 metros (cerca de 16-33 pés) de distância do seu computador.</p></li>
 <li class="steps"><p class="p">Clique no dispositivo na lista <span class="gui">Dispositivos</span>. O painel para o dispositivo abrirá.</p></li>
 <li class="steps">
 <p class="p">Se necessário, confirme o PIN no seu outro dispositivo. Ele deveria lhe mostrar o PIN que você vê na tela do seu computador. Confirme o PIN no dispositivo (você pode precisar clicar em <span class="gui">Parear</span> ou <span class="gui">Confirmar</span>) e, então, clique em <span class="gui">Confirmar</span> no computador.</p>
@@ -73,17 +73,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Conectando seu computador a um dispositivo Bluetooth">Conectar</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Enviando arquivos a um dispositivo Bluetooth">enviar arquivos</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Ligando ou desligando o Bluetooth">ligar/desligar</a></span>…</span>
+<a href="bluetooth.html.pt-BR" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.pt-BR" title="Conectando seu computador a um dispositivo Bluetooth">Conectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.pt-BR" title="Enviando arquivos a um dispositivo Bluetooth">enviar arquivos</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.pt-BR" title="Ligando ou desligando o Bluetooth">ligar/desligar</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing-bluetooth.html" title="Controlando compartilhamento de arquivos por Bluetooth">Controlando compartilhamento de arquivos por Bluetooth</a><span class="desc"> — Permita que arquivos sejam enviados para seu computador por Bluetooth.</span>
+<a href="sharing-bluetooth.html.pt-BR" title="Controlando compartilhamento de arquivos por Bluetooth">Controlando compartilhamento de arquivos por Bluetooth</a><span class="desc"> — Permita que arquivos sejam enviados para seu computador por Bluetooth.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-remove-connection.html" title="Desconectando um dispositivo Bluetooth">Desconectando um dispositivo Bluetooth</a><span class="desc"> — Remova um dispositivo da lista de dispositivos Bluetooth.</span>
+<a href="bluetooth-remove-connection.html.pt-BR" title="Desconectando um dispositivo Bluetooth">Desconectando um dispositivo Bluetooth</a><span class="desc"> — Remova um dispositivo da lista de dispositivos Bluetooth.</span>
 </li>
 </ul></div>
 </div></div>

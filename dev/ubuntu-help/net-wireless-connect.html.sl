@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Brezžične povezave">Brezžične povezave</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.sl" title="Brezžične povezave">Brezžične povezave</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Povezava z brezžičnim omrežjem</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">V primeru da imate računalnik z omogočenim brezžičnim internetom, se lahko povežete z brezžičnim omrežjem v dometu za dostop do interneta, ogled souporabljenih datotek na internetu in tako naprej.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="Vi in vaš računalnik">system menu</a></span> from the right
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#yourname" title="Vi in vaš računalnik">system menu</a></span> from the right
     side of the top bar.</p></li>
 <li class="steps"><p class="p">Select
     <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>
@@ -63,10 +63,10 @@
 <p class="p">If the name of the network is not in the list, try clicking
     <span class="gui">More</span> to see if the network is further down the list. If you 
     still do not see the network, you may be out of range, or the network
-    <span class="link"><a href="net-wireless-hidden.html" title="Povezava s skritim brezžičnim omrežjem">might be hidden</a></span>.</p>
+    <span class="link"><a href="net-wireless-hidden.html.sl" title="Povezava s skritim brezžičnim omrežjem">might be hidden</a></span>.</p>
 </li>
 <li class="steps">
-<p class="p">V primeru da je omrežje zaščiteno z geslom (<span class="link"><a href="net-wireless-wepwpa.html" title="Kaj WEP in WPA pomenita?">šifrirni ključ</a></span>), ob pozivu vnesite geslo in kliknite <span class="gui">Poveži se</span>.</p>
+<p class="p">V primeru da je omrežje zaščiteno z geslom (<span class="link"><a href="net-wireless-wepwpa.html.sl" title="Kaj WEP in WPA pomenita?">šifrirni ključ</a></span>), ob pozivu vnesite geslo in kliknite <span class="gui">Poveži se</span>.</p>
 <p class="p">If you do not know the key, it may be written on the underside of the
     wireless router or base station, or in its instruction manual, or you may
     have to ask the person who administers the wireless network.</p>
@@ -83,7 +83,7 @@
   There are a number of things that could have caused this to happen. You could
   have entered the wrong password, the wireless signal could be too weak, or
   your computer’s wireless card might have a problem, for example. See
-  <span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi omrežji</a></span> for more help.</p>
+  <span class="link"><a href="net-wireless-troubleshooting.html.sl" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi omrežji</a></span> for more help.</p>
 <p class="p">Močnejša povezava z brezžičnim omrežjem ne pomeni nujno hitrejše internetne povezave ali višjih hitrosti prejemanja. Brezžična povezava vaš računalnik poveže z <span class="em">napravo, ki zagotavlja brezžično povezavo</span> (kot je usmernik ali modem), vendar sta dve povezavi dejansko različni in bosta delovali pri različnih hitrostih.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -92,10 +92,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Brezžične povezave">Brezžične povezave</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Povezava z brezžičnim omrežjem">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Povezava s skritim brezžičnim omrežjem">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?">Disconnecting</a></span>…
+<a href="net-wireless.html.sl" title="Brezžične povezave">Brezžične povezave</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.sl" title="Povezava z brezžičnim omrežjem">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.sl" title="Povezava s skritim brezžičnim omrežjem">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.sl" title="Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?">Disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -103,10 +103,10 @@
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi omrežji</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.sl" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi omrežji</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li>
 <li class="links ">
-<a href="net-wireless-disconnecting.html" title="Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?">Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?</a><span class="desc"> — Morda imate šibek signal ali pa vam omrežje ne dopušča primerne povezave.</span>
+<a href="net-wireless-disconnecting.html.sl" title="Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?">Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?</a><span class="desc"> — Morda imate šibek signal ali pa vam omrežje ne dopušča primerne povezave.</span>
 </li>
 </ul></div>
 </div></div>

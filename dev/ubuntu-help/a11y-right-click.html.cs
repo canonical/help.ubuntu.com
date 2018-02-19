@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="mouse.html" title="Myš">Myš</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="mouse.html.cs" title="Myš">Myš</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="mouse.html" title="Myš">Myš</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="mouse.html.cs" title="Myš">Myš</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Univerzální přístup">Univerzální přístup</a> › <a class="trail" href="a11y.html#mobility" title="Pohybová postižení">Pohybová postižení</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.cs" title="Univerzální přístup">Univerzální přístup</a> › <a class="trail" href="a11y.html.cs#mobility" title="Pohybová postižení">Pohybová postižení</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">Kliknutí pravým tlačítkem myši může provést delším podržením levého tlačítka. To je užitečné, když je pro vás obtížné pohybovat prsty na ruce nezávisle nebo když má vaše ukazovací zařízení jen jedno tlačítko.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Univerzální přístup</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Univerzální přístup</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Univerzální přístup</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">V části <span class="gui">Ukazování a klikání</span> zmáčkněte <span class="gui">Pomáhat s klikáním</span>.</p></li>
 <li class="steps"><p class="p">Přepněte vypínač <span class="gui">Simulovat druhé kliknutí</span> na <span class="gui">❙</span> (zapnuto).</p></li>
@@ -65,7 +65,7 @@
 <p class="p">Úpravou <span class="gui">Zpoždění přijetí</span> můžete měnit, jak dlouho je potřeba držet levé tlačítko zmáčknuté, než je to považováno za kliknutí pravým tlačítkem.</p>
 <p class="p">Abyste klikli pravým tlačítkem se simulovaným druhým kliknutím, držte levé tlačítko myši zmáčknuté tam, kde byste pravým tlačítkem klikli normálně. Ukazatel myši se během držení levého tlačítka začne vyplňovat jinou barvou. Jakmile změní barvu celý, uvolněte tlačítko a provede se dvojité kliknutí pravým tlačítkem.</p>
 <p class="p">Některé speciální ukazatele, jako je ukazatel při změně velikosti, barvu nemění. I tak můžete normálně používat simulaci druhého kliknutí, akorát nebudete mít vizuální zpětnou odezvu od ukazatele.</p>
-<p class="p">Pokud používáte <span class="link"><a href="mouse-mousekeys.html" title="Klikání a pohyb ukazatelem myši pomocí numerické klávesnice">myš z klávesnice</a></span>, můžete také kliknout pravým tlačítkem držením zmáčknuté klávesy <span class="key"><kbd>5</kbd></span> na numerické klávesnici.</p>
+<p class="p">Pokud používáte <span class="link"><a href="mouse-mousekeys.html.cs" title="Klikání a pohyb ukazatelem myši pomocí numerické klávesnice">myš z klávesnice</a></span>, můžete také kliknout pravým tlačítkem držením zmáčknuté klávesy <span class="key"><kbd>5</kbd></span> na numerické klávesnici.</p>
 <div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">V přehledu <span class="gui">Činností</span> funguje dlouhé zmáčknutí stejně jako kliknutí pravým tlačítkem vždy, i když je tato funkce v systému vypnutá. V přehledu funguje dlouhé kliknutí mírně odlišně: nemusíte tlačítko ani uvolnit, aby se provedlo kliknutí pravým tlačítkem.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -74,9 +74,9 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse.html" title="Myš">Myš</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Používání myši leváky">Pro leváky</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Uzpůsobení rychlosti myši a touchpadu">rychlost a citlivost</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Klikání, přetahování a posuv na touchpadu">klikání a posuv na touchpadu</a></span>…</span>
+<a href="mouse.html.cs" title="Myš">Myš</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.cs" title="Používání myši leváky">Pro leváky</a></span>, <span class="link"><a href="mouse-sensitivity.html.cs" title="Uzpůsobení rychlosti myši a touchpadu">rychlost a citlivost</a></span>, <span class="link"><a href="mouse-touchpad-click.html.cs" title="Klikání, přetahování a posuv na touchpadu">klikání a posuv na touchpadu</a></span>…</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Pohybová postižení">Pohybová postižení</a></li>
+<li class="links "><a href="a11y.html.cs#mobility" title="Pohybová postižení">Pohybová postižení</a></li>
 </ul></div>
 </div></div></div>
 </div>

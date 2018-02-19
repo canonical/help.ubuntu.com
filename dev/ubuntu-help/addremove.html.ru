@@ -43,29 +43,29 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Установка и удаление программ</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html" title="Удаление приложения"><span class="title">Удаление приложения</span><span class="linkdiv-dash"> — </span><span class="desc">Удалите приложения, которые больше не нужны.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-install.html" title="Установка дополнительных приложений"><span class="title">Установка дополнительных приложений</span><span class="linkdiv-dash"> — </span><span class="desc">Используйте <span class="app">Менеджер приложений Ubuntu</span> для установки дополнительных полезных приложений.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html" title="Добавление персонального архива пакетов (PPA)"><span class="title">Добавление персонального архива пакетов (PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">Добавьте PPA, чтобы расширить список источников, которые Ubuntu использует для установки и обновления приложений.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html" title="Добавление репозиториев программного обеспечения"><span class="title">Добавление репозиториев программного обеспечения</span><span class="linkdiv-dash"> — </span><span class="desc">Добавьте репозитории, чтобы расширить список источников, используемых Ubuntu для установки и удаления приложений.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html.ru" title="Удаление приложения"><span class="title">Удаление приложения</span><span class="linkdiv-dash"> — </span><span class="desc">Удалите приложения, которые больше не нужны.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.ru" title="Установка дополнительных приложений"><span class="title">Установка дополнительных приложений</span><span class="linkdiv-dash"> — </span><span class="desc">Используйте <span class="app">Менеджер приложений Ubuntu</span> для установки дополнительных полезных приложений.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html.ru" title="Добавление персонального архива пакетов (PPA)"><span class="title">Добавление персонального архива пакетов (PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">Добавьте PPA, чтобы расширить список источников, которые Ubuntu использует для установки и обновления приложений.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html.ru" title="Добавление репозиториев программного обеспечения"><span class="title">Добавление репозиториев программного обеспечения</span><span class="linkdiv-dash"> — </span><span class="desc">Добавьте репозитории, чтобы расширить список источников, используемых Ubuntu для установки и удаления приложений.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html" title="Используйте Synaptic для более продвинутого управления программным обеспечением"><span class="title">Используйте Synaptic для более продвинутого управления программным обеспечением</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic — это  мощное, но более сложное средство управления пакетами, которое можно использовать в качестве альтернативы <span class="app">Менеджеру приложений Ubuntu</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Создание загрузочного диска"><span class="title">Создание загрузочного диска</span><span class="linkdiv-dash"> — </span><span class="desc">Преобразуйте USB-накопитель в том, с которого можно запустить и установить Ubuntu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html" title="Установка языков"><span class="title">Установка языков</span><span class="linkdiv-dash"> — </span><span class="desc">Установите дополнительные переводы и соответствующие языковые пакеты.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.ru" title="Используйте Synaptic для более продвинутого управления программным обеспечением"><span class="title">Используйте Synaptic для более продвинутого управления программным обеспечением</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic — это  мощное, но более сложное средство управления пакетами, которое можно использовать в качестве альтернативы <span class="app">Менеджеру приложений Ubuntu</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.ru" title="Создание загрузочного диска"><span class="title">Создание загрузочного диска</span><span class="linkdiv-dash"> — </span><span class="desc">Преобразуйте USB-накопитель в том, с которого можно запустить и установить Ubuntu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html.ru" title="Установка языков"><span class="title">Установка языков</span><span class="linkdiv-dash"> — </span><span class="desc">Установите дополнительные переводы и соответствующие языковые пакеты.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Руководство пользователя Ubuntu">Руководство пользователя Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.ru" title="Руководство пользователя Ubuntu">Руководство пользователя Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

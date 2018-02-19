@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Acces universal</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Desktopul GNOME include tehnologii asistative pentru a acomoda utilizatori cu diferite afecțiuni și nevoi speciale, și pentru a interacționa cu dispozitive asistative comune. Un meniu de accesibilitate poate fi adăugat la bara de sus, oferind acces la multe dintre funcționalitățile de accesibilitate.</p>
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html" title="Găsirea meniului access universal"><span class="title">Găsirea meniului access universal</span><span class="linkdiv-dash"> — </span><span class="desc">Meniul acces universal este iconița de pe bara de sus care arată ca o persoană.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.ro" title="Găsirea meniului access universal"><span class="title">Găsirea meniului access universal</span><span class="linkdiv-dash"> — </span><span class="desc">Meniul acces universal este iconița de pe bara de sus care arată ca o persoană.</span></a></div></div></div></div>
 </div>
 <div id="vision" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Afecțiuni de vedere</span></h2></div>
@@ -59,10 +59,10 @@
 <div class="title title-links"><h3><span class="title">Orbire</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-braille.html" title="Citirea ecranului în Braille">Citirea ecranului în Braille</a><span class="desc"> — Utilizați cititorul de ecran <span class="app">Orca</span> cu un afișaj Braille actualizabil.</span>
+<a href="a11y-braille.html.ro" title="Citirea ecranului în Braille">Citirea ecranului în Braille</a><span class="desc"> — Utilizați cititorul de ecran <span class="app">Orca</span> cu un afișaj Braille actualizabil.</span>
 </li>
 <li class="links ">
-<a href="a11y-screen-reader.html" title="Read screen aloud">Read screen aloud</a><span class="desc"> — Use the <span class="app">Orca</span> screen reader to speak the user
+<a href="a11y-screen-reader.html.ro" title="Read screen aloud">Read screen aloud</a><span class="desc"> — Use the <span class="app">Orca</span> screen reader to speak the user
     interface.</span>
 </li>
 </ul></div>
@@ -71,17 +71,17 @@
 <div class="title title-links"><h3><span class="title">Văz scăzut</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-contrast.html" title="Ajustarea contrastului">Ajustarea contrastului</a><span class="desc"> — Face ferestrele și butoanele de pe ecran mai mult (sau mai puțin) vioaie, pentru a fi mai ușor de văzut.</span>
+<a href="a11y-contrast.html.ro" title="Ajustarea contrastului">Ajustarea contrastului</a><span class="desc"> — Face ferestrele și butoanele de pe ecran mai mult (sau mai puțin) vioaie, pentru a fi mai ușor de văzut.</span>
 </li>
 <li class="links ">
-<a href="keyboard-cursor-blink.html" title="Make the keyboard cursor blink">Make the keyboard cursor blink</a><span class="desc"> — Make the insertion point blink and control how quickly it
+<a href="keyboard-cursor-blink.html.ro" title="Make the keyboard cursor blink">Make the keyboard cursor blink</a><span class="desc"> — Make the insertion point blink and control how quickly it
     blinks.</span>
 </li>
 <li class="links ">
-<a href="a11y-mag.html" title="Mărirea unei zone de ecran">Mărirea unei zone de ecran</a><span class="desc"> — Apropie zone ale ecranului pentru a-l vizualiza mai ușor.</span>
+<a href="a11y-mag.html.ro" title="Mărirea unei zone de ecran">Mărirea unei zone de ecran</a><span class="desc"> — Apropie zone ale ecranului pentru a-l vizualiza mai ușor.</span>
 </li>
 <li class="links ">
-<a href="a11y-font-size.html" title="Schimbarea dimensiunii textului de pe ecran">Schimbarea dimensiunii textului de pe ecran</a><span class="desc"> — Utilizează fonturi mai mari pentru a face textul mai lizibil.</span>
+<a href="a11y-font-size.html.ro" title="Schimbarea dimensiunii textului de pe ecran">Schimbarea dimensiunii textului de pe ecran</a><span class="desc"> — Utilizează fonturi mai mari pentru a face textul mai lizibil.</span>
 </li>
 </ul></div>
 </div></div>
@@ -90,7 +90,7 @@
 <div id="sound" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Afecțiuni de auz</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul><li class="links ">
-<a href="a11y-visualalert.html" title="Flash the screen for alert sounds">Flash the screen for alert sounds</a><span class="desc"> — Enable visual alerts to flash the screen or window when an
+<a href="a11y-visualalert.html.ro" title="Flash the screen for alert sounds">Flash the screen for alert sounds</a><span class="desc"> — Enable visual alerts to flash the screen or window when an
     alert sound is played.</span>
 </li></ul></div></div></div></div></div>
 </div></div>
@@ -102,11 +102,11 @@
 <div class="title title-links"><h3><span class="title">Mișcarea mausului</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-sensitivity.html" title="Adjust speed of the mouse and touchpad">Adjust speed of the mouse and touchpad</a><span class="desc"> — Change how quickly the pointer moves when you use your mouse or
+<a href="mouse-sensitivity.html.ro" title="Adjust speed of the mouse and touchpad">Adjust speed of the mouse and touchpad</a><span class="desc"> — Change how quickly the pointer moves when you use your mouse or
     touchpad.</span>
 </li>
 <li class="links ">
-<a href="mouse-mousekeys.html" title="Click and move mouse pointer using the keypad">Click and move mouse pointer using the keypad</a><span class="desc"> — Enable mouse keys to control the mouse with the numeric
+<a href="mouse-mousekeys.html.ro" title="Click and move mouse pointer using the keypad">Click and move mouse pointer using the keypad</a><span class="desc"> — Enable mouse keys to control the mouse with the numeric
     keypad.</span>
 </li>
 </ul></div>
@@ -115,14 +115,14 @@
 <div class="title title-links"><h3><span class="title">Apăsarea și tragerea</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-doubleclick.html" title="Adjust the double-click speed">Adjust the double-click speed</a><span class="desc"> — Control how quickly you need to press the mouse button
+<a href="mouse-doubleclick.html.ro" title="Adjust the double-click speed">Adjust the double-click speed</a><span class="desc"> — Control how quickly you need to press the mouse button
     a second time to double-click.</span>
 </li>
 <li class="links ">
-<a href="a11y-right-click.html" title="Simularea clicului dreapta">Simularea clicului dreapta</a><span class="desc"> — Apăsați și țineți butonul stâng al mausului pentru a efectua clic dreapta.</span>
+<a href="a11y-right-click.html.ro" title="Simularea clicului dreapta">Simularea clicului dreapta</a><span class="desc"> — Apăsați și țineți butonul stâng al mausului pentru a efectua clic dreapta.</span>
 </li>
 <li class="links ">
-<a href="a11y-dwellclick.html" title="Simularea clicului prin plutire">Simularea clicului prin plutire</a><span class="desc"> — Funcționalitatea <span class="gui">Clic plutitor</span> (clic Dwell) vă permite să efectuați clicuri ținând mausul nemișcat.</span>
+<a href="a11y-dwellclick.html.ro" title="Simularea clicului prin plutire">Simularea clicului prin plutire</a><span class="desc"> — Funcționalitatea <span class="gui">Clic plutitor</span> (clic Dwell) vă permite să efectuați clicuri ținând mausul nemișcat.</span>
 </li>
 </ul></div>
 </div></div>
@@ -130,25 +130,25 @@
 <div class="title title-links"><h3><span class="title">Utilizarea tastaturii</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-bouncekeys.html" title="Activarea tastelor fără repetiție">Activarea tastelor fără repetiție</a><span class="desc"> — Ignoră apăsări repetate rapid ale aceleiași taste.</span>
+<a href="a11y-bouncekeys.html.ro" title="Activarea tastelor fără repetiție">Activarea tastelor fără repetiție</a><span class="desc"> — Ignoră apăsări repetate rapid ale aceleiași taste.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html" title="Keyboard navigation">Keyboard navigation</a><span class="desc"> — Use applications and the desktop without a mouse.</span>
+<a href="keyboard-nav.html.ro" title="Keyboard navigation">Keyboard navigation</a><span class="desc"> — Use applications and the desktop without a mouse.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Make the keyboard not repeat letters when you hold down a key,
+<a href="keyboard-repeat-keys.html.ro" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Make the keyboard not repeat letters when you hold down a key,
     or change the delay and speed of repeat keys.</span>
 </li>
 <li class="links ">
-<a href="a11y-slowkeys.html" title="Turn on slow keys">Turn on slow keys</a><span class="desc"> — Have a delay between a key being pressed and that letter appearing on
+<a href="a11y-slowkeys.html.ro" title="Turn on slow keys">Turn on slow keys</a><span class="desc"> — Have a delay between a key being pressed and that letter appearing on
     the screen.</span>
 </li>
 <li class="links ">
-<a href="a11y-stickykeys.html" title="Turn on sticky keys">Turn on sticky keys</a><span class="desc"> — Type keyboard shortcuts one key at a time rather than having to hold
+<a href="a11y-stickykeys.html.ro" title="Turn on sticky keys">Turn on sticky keys</a><span class="desc"> — Type keyboard shortcuts one key at a time rather than having to hold
      down all of the keys at once.</span>
 </li>
 <li class="links ">
-<a href="keyboard-osk.html" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
+<a href="keyboard-osk.html.ro" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
     mouse or a touchscreen.</span>
 </li>
 </ul></div>
@@ -159,7 +159,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Vezi și</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-key-menu.html" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
+<a href="keyboard-key-menu.html.ro" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
     rather than with a right-click.</span>
 </li></ul></div>
 </div></div></div>
@@ -170,7 +170,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.ro" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

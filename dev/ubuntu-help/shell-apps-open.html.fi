@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sovelluksien käynnistäminen</span></h1></div>
@@ -51,9 +51,9 @@
 <div class="contents">
 <p class="p">Move your mouse pointer to the
   <span class="gui">Activities</span> corner at the top left of the screen to show the
-  <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview. This is where you
+  <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview. This is where you
   can find all of your applications. You can also open the overview by pressing
-  the <span class="key"><a href="keyboard-key-super.html" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span> key.</p>
+  the <span class="key"><a href="keyboard-key-super.html.fi" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span> key.</p>
 <p class="p">There are several ways of opening an application once you’re in the
   <span class="gui">Activities</span> overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
@@ -65,12 +65,12 @@
 <p class="p">Some applications have icons in the <span class="em">dash</span>, the vertical strip
       of icons on the left-hand side of the <span class="gui">Activities</span> overview.
       Click one of these to start the corresponding application.</p>
-<p class="p">Jos käytät joitain sovelluksia usein, voit <span class="link"><a href="shell-apps-favorites.html" title="Kiinnitä suosikkisovelluksesi telakkaan">lisätä niiden kuvakkeet telakkaan</a></span>.</p>
+<p class="p">Jos käytät joitain sovelluksia usein, voit <span class="link"><a href="shell-apps-favorites.html.fi" title="Kiinnitä suosikkisovelluksesi telakkaan">lisätä niiden kuvakkeet telakkaan</a></span>.</p>
 </li>
 <li class="list"><p class="p">Napsauta ruudukkopainiketta telakan alaosasta. Näet usein käytetyt sovellukset, jos <span class="gui">Käytetyimmät</span>-näkymä on käytössä. Jos haluamasi sovellus ei näy käytetyimpie näkymässä, napsauta <span class="gui">Kaikki</span>-painiketta sovellusnäkymän alaosasta. Napsauta nyt haluamasi sovelluksen kuvaketta.</p></li>
 <li class="list">
 <p class="p">You can launch an application in a separate
-      <span class="link"><a href="shell-workspaces.html" title="Mikä ihmeen työtila, ja miten voin hyödyntää sitä?">workspace</a></span> by dragging its icon from
+      <span class="link"><a href="shell-workspaces.html.fi" title="Mikä ihmeen työtila, ja miten voin hyödyntää sitä?">workspace</a></span> by dragging its icon from
       the dash, and dropping it onto one of the workspaces on the right-hand
       side of the screen. The application will open in the chosen
       workspace.</p>
@@ -97,19 +97,19 @@
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html" title="Työpöytäsi">Työpöytäsi</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Kalenteritapaamiset">Kalenteri</a></span>, <span class="link"><a href="shell-notifications.html" title="Ilmoitukset ja viestialue">ilmoitukset</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Hyödyllisiä pikanäppäimiä">pikanäppäimet</a></span>, <span class="link"><a href="shell-windows.html" title="Ikkunat ja työtilat">ikkunat ja työtilat</a></span>…</span>
+<a href="shell-overview.html.fi" title="Työpöytäsi">Työpöytäsi</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.fi" title="Kalenteritapaamiset">Kalenteri</a></span>, <span class="link"><a href="shell-notifications.html.fi" title="Ilmoitukset ja viestialue">ilmoitukset</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.fi" title="Hyödyllisiä pikanäppäimiä">pikanäppäimet</a></span>, <span class="link"><a href="shell-windows.html.fi" title="Ikkunat ja työtilat">ikkunat ja työtilat</a></span>…</span>
 </li>
-<li class="links "><a href="index.html" title="Ubuntun työpöytäopas">Ubuntun työpöytäopas</a></li>
+<li class="links "><a href="index.html.fi" title="Ubuntun työpöytäopas">Ubuntun työpöytäopas</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-apps-favorites.html" title="Kiinnitä suosikkisovelluksesi telakkaan">Kiinnitä suosikkisovelluksesi telakkaan</a><span class="desc"> — Lisää tai poista usein käyttämiesi sovellusten kuvakkeita telakasta.</span>
+<a href="shell-apps-favorites.html.fi" title="Kiinnitä suosikkisovelluksesi telakkaan">Kiinnitä suosikkisovelluksesi telakkaan</a><span class="desc"> — Lisää tai poista usein käyttämiesi sovellusten kuvakkeita telakasta.</span>
 </li>
-<li class="links "><a href="gs-use-system-search.html" title="Käytä hakua">Opas järjestelmähaun käyttämiseen</a></li>
-<li class="links "><a href="gs-launch-applications.html" title="Käynnistä sovelluksia">Opas sovellusten käynnistämiseen</a></li>
+<li class="links "><a href="gs-use-system-search.html.fi" title="Käytä hakua">Opas järjestelmähaun käyttämiseen</a></li>
+<li class="links "><a href="gs-launch-applications.html.fi" title="Käynnistä sovelluksia">Opas sovellusten käynnistämiseen</a></li>
 </ul></div>
 </div></div>
 </div>

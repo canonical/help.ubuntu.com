@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="accounts.html" title="Contas em linha">Contas em linha</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="accounts.html.pt" title="Contas em linha">Contas em linha</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Controlar que serviços em linha pode usar uma conta para aceder</span></h1></div>
@@ -52,10 +52,10 @@
 <p class="p">Alguns tipos de provedores de contas em linha permitem-lhe aceder a vários serviços com a mesma conta de utilizador. Por exemplo, as contas de Google proporcionam acesso ao calendário, e-mail, contactos e chat. Pode querer usar a sua conta para alguns serviços e para outros não. Por exemplo, pode querer usar a sua conta de Google para e-mail mas não para chat se já tem uma conta em linha diferente para a usar para chatear.</p>
 <p class="p">Pode desativar alguns dos serviços proporcionados com a cada conta em linha:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Contas em linha</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Contas em linha</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Contas em linha</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione a conta que quer mudar da lista da esquerda.</p></li>
-<li class="steps"><p class="p">Mostrar-se-á uma lista dos serviços disponíveis para esta conta em <span class="gui">Utilizar para</span>. Consulte a <span class="link"><a href="accounts-which-application.html" title="Serviços e aplicações em linha">Serviços e aplicações em linha</a></span> para ver que aplicações acedem a que serviços.</p></li>
+<li class="steps"><p class="p">Mostrar-se-á uma lista dos serviços disponíveis para esta conta em <span class="gui">Utilizar para</span>. Consulte a <span class="link"><a href="accounts-which-application.html.pt" title="Serviços e aplicações em linha">Serviços e aplicações em linha</a></span> para ver que aplicações acedem a que serviços.</p></li>
 <li class="steps"><p class="p">Desative os serviços que não quer que usar.</p></li>
 </ol></div></div></div>
 <p class="p">Uma vez que tenha desativar um serviço para uma conta, as aplicações da sua computador não poderão usar a conta para voltar a ligar a esse serviço.</p>
@@ -67,17 +67,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Contas em linha">Contas em linha</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Acrescentar uma conta">Acrescentar uma conta em linha</a></span>, <span class="link"><a href="accounts-remove.html" title="Tirar uma conta">Tirar uma conta</a></span>, <span class="link"><a href="accounts-which-application.html" title="Serviços e aplicações em linha">Aprender mais sobre os serviços</a></span>…</span>
+<a href="accounts.html.pt" title="Contas em linha">Contas em linha</a><span class="desc"> — <span class="link"><a href="accounts-add.html.pt" title="Acrescentar uma conta">Acrescentar uma conta em linha</a></span>, <span class="link"><a href="accounts-remove.html.pt" title="Tirar uma conta">Tirar uma conta</a></span>, <span class="link"><a href="accounts-which-application.html.pt" title="Serviços e aplicações em linha">Aprender mais sobre os serviços</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="accounts-which-application.html" title="Serviços e aplicações em linha">Serviços e aplicações em linha</a><span class="desc"> — Aplicações que podem usar as contas criadas em <span class="app">Contas em linha</span> e os serviços que podem usar.</span>
+<a href="accounts-which-application.html.pt" title="Serviços e aplicações em linha">Serviços e aplicações em linha</a><span class="desc"> — Aplicações que podem usar as contas criadas em <span class="app">Contas em linha</span> e os serviços que podem usar.</span>
 </li>
 <li class="links ">
-<a href="accounts-remove.html" title="Tirar uma conta">Tirar uma conta</a><span class="desc"> — Eliminar o acesso a um provedor de serviços em linha desde seus aplicações.</span>
+<a href="accounts-remove.html.pt" title="Tirar uma conta">Tirar uma conta</a><span class="desc"> — Eliminar o acesso a um provedor de serviços em linha desde seus aplicações.</span>
 </li>
 </ul></div>
 </div></div>

@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comunes">Problemas</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Solucionador de problemas de red inalámbrica">Solucionador de problemas de red inalámbrica</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html.es#problems" title="Problemas comunes">Problemas</a> » <a class="trail" href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Solucionador de problemas de red inalámbrica</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-wireless.html" title="Conexiones inalámbricas">Conexiones inalámbricas</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Solucionador de problemas de red inalámbrica">Solucionador de problemas de red inalámbrica</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-wireless.html.es" title="Conexiones inalámbricas">Conexiones inalámbricas</a> » <a class="trail" href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Solucionador de problemas de red inalámbrica</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Solucionador de problemas de red inalámbrica">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Solucionador de problemas de red inalámbrica">Siguiente</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.es" title="Solucionador de problemas de red inalámbrica">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.es" title="Solucionador de problemas de red inalámbrica">Siguiente</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Resolución de problemas en conexiones inalámbricas</span></h1>
@@ -70,7 +70,7 @@
        vendor: Intel Corporation</pre></div>
 </li>
 <li class="steps">
-<p class="p">Si aparece un dispositivo inalámbrico, continúe en la <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Solucionador de problemas de red inalámbrica">página de controladores de dispositivos</a></span>.</p>
+<p class="p">Si aparece un dispositivo inalámbrico, continúe en la <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.es" title="Solucionador de problemas de red inalámbrica">página de controladores de dispositivos</a></span>.</p>
 <p class="p">Si un dispositivo inalámbrico <span class="em">no</span> está listado, los siguientes pasos que tomará dependrán del tipo de dispositivo que use. Consulte la siguiente sección, relativa al tipo de adaptador inalámbrico que tienen su equipo (<span class="link"><a href="#pci" title="Adaptador inalámbrico PCI (interno)">PCI interno</a></span>, <span class="link"><a href="#usb" title="Adaptador inalámbrico USB">USB</a></span>, o <span class="link"><a href="#pcmcia" title="Comprobar un dispositivo PCMCIA">PCMCIA</a></span>).</p>
 </li>
 </ol></div></div></div>
@@ -85,7 +85,7 @@
 <p class="p">Observe la lista de dispositivos que se muestran y busque el que está marcado como <span class="code">Network controller</span> o <span class="code">Ethernet controller</span>. Algunos dispositivos pueden estar marcados así; el correspondiente a su adaptador inalambrico debe incluir palabras tales como <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> o <span class="code">802.11</span>. Aquí tiene un ejemplo de que tipo de entrada puede ver:</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
-<li class="steps"><p class="p">Si encontró su dispositivo en la lista, proceda con el <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Solucionador de problemas de red inalámbrica">paso de controladores de dispositivos</a></span>. Si no encontró nada relativo a su adaptador inalámbrico, consulte <span class="link"><a href="#not-recognized" title="El adaptador inalámbrico no se ha reconocido">las instrucciones de más abajo</a></span>.</p></li>
+<li class="steps"><p class="p">Si encontró su dispositivo en la lista, proceda con el <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.es" title="Solucionador de problemas de red inalámbrica">paso de controladores de dispositivos</a></span>. Si no encontró nada relativo a su adaptador inalámbrico, consulte <span class="link"><a href="#not-recognized" title="El adaptador inalámbrico no se ha reconocido">las instrucciones de más abajo</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -99,7 +99,7 @@
 <p class="p">Observe la lista de dispositivos que se muestran y busque cualquiera que se refiera a una red inalámbrica. El correspondiente a su adaptador inalámbrico debe incluir palabras tales como <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> o <span class="code">802.11</span>. Aquí tiene un ejemplo de como puede ser la entrada:</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
-<li class="steps"><p class="p">Si encontró su dispositivo en la lista, proceda con el <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Solucionador de problemas de red inalámbrica">paso de controladores de dispositivos</a></span>. Si no encontró nada relativo a su adaptador inalámbrico, consulte <span class="link"><a href="#not-recognized" title="El adaptador inalámbrico no se ha reconocido">las instrucciones de más abajo</a></span>.</p></li>
+<li class="steps"><p class="p">Si encontró su dispositivo en la lista, proceda con el <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.es" title="Solucionador de problemas de red inalámbrica">paso de controladores de dispositivos</a></span>. Si no encontró nada relativo a su adaptador inalámbrico, consulte <span class="link"><a href="#not-recognized" title="El adaptador inalámbrico no se ha reconocido">las instrucciones de más abajo</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -116,7 +116,7 @@
 </li>
 <li class="steps"><p class="p">Introduzca su adaptador inalámbrico en la ranura PCMCIA y compruebe qué cambia en la ventana del terminal. Los cambios deberían incluir alguna información acerca de su adaptador inalámbrico. Mírelos y vea si puede identificarlos.</p></li>
 <li class="steps"><p class="p">Para detener el comando que se está ejecutando en la terminal, pulse <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Una vez hecho, puede cerrar la terminal si quiere.</p></li>
-<li class="steps"><p class="p">Si el comando anterior encontró información acerca de su adaptador inalámbrico, proceda con los <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Solucionador de problemas de red inalámbrica">controladores de dispositivos</a></span>. Si el comando anterior no encontró nada relacionado con su adaptador inalámbrico, consulte las <span class="link"><a href="#not-recognized" title="El adaptador inalámbrico no se ha reconocido">instrucciones más abajo</a></span>.</p></li>
+<li class="steps"><p class="p">Si el comando anterior encontró información acerca de su adaptador inalámbrico, proceda con los <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.es" title="Solucionador de problemas de red inalámbrica">controladores de dispositivos</a></span>. Si el comando anterior no encontró nada relacionado con su adaptador inalámbrico, consulte las <span class="link"><a href="#not-recognized" title="El adaptador inalámbrico no se ha reconocido">instrucciones más abajo</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -128,14 +128,14 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Solucionador de problemas de red inalámbrica">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Solucionador de problemas de red inalámbrica">Siguiente</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.es" title="Solucionador de problemas de red inalámbrica">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.es" title="Solucionador de problemas de red inalámbrica">Siguiente</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Solucionador de problemas de red inalámbrica">Solucionador de problemas de red inalámbrica</a><span class="desc"> — Identificar y arreglar problemas con conexiones inalámbricas.</span>
+<a href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Solucionador de problemas de red inalámbrica</a><span class="desc"> — Identificar y arreglar problemas con conexiones inalámbricas.</span>
 </li></ul></div>
 </div></div></div>
 </div>

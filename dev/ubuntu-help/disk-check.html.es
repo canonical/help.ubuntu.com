@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="disk.html" title="Discos y almacenamiento">Discos y almacenamiento</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="disk.html.es" title="Discos y almacenamiento">Discos y almacenamiento</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Comprobar los problemas del disco duro</span></h1></div>
@@ -68,8 +68,8 @@
 <div id="disk-not-healthy" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">¿Qué pasa si el disco no está sano?</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Incluso aunque el <span class="gui">Estado general</span> indique que el disco <span class="em">no está</span> sano, no tiene por qué ser motivo de alarma. No obstante, es mejor estar preparado con una <span class="link"><a href="backup-why.html" title="Hacer copias de respaldo de sus archivos importantes">copia de seguridad</a></span> para prevenir la pérdida de datos.</p>
-<p class="p">Si el estado dice «Pre-fail», el disco está razonablemente sano pero se han detectado signos de desgaste, lo que significa que podría fallar en un futuro cercano. Si su disco duro (o equipo) tiene unos cuantos años de antigüedad, es probable que vea este mensaje en algunas de las comprobaciones de salud. Debería <span class="link"><a href="backup-how.html" title="Cómo hacer copias de respaldo">hacer una copia de seguridad de sus archivos importantes con regularidad</a></span> y comprobar periódicamente el estado del disco para ver si empeora.</p>
+<p class="p">Incluso aunque el <span class="gui">Estado general</span> indique que el disco <span class="em">no está</span> sano, no tiene por qué ser motivo de alarma. No obstante, es mejor estar preparado con una <span class="link"><a href="backup-why.html.es" title="Hacer copias de respaldo de sus archivos importantes">copia de seguridad</a></span> para prevenir la pérdida de datos.</p>
+<p class="p">Si el estado dice «Pre-fail», el disco está razonablemente sano pero se han detectado signos de desgaste, lo que significa que podría fallar en un futuro cercano. Si su disco duro (o equipo) tiene unos cuantos años de antigüedad, es probable que vea este mensaje en algunas de las comprobaciones de salud. Debería <span class="link"><a href="backup-how.html.es" title="Cómo hacer copias de respaldo">hacer una copia de seguridad de sus archivos importantes con regularidad</a></span> y comprobar periódicamente el estado del disco para ver si empeora.</p>
 <p class="p">Si va a peor, puede querer llevar el equipo o el disco duro a un profesional para un mejor análisis o reparación.</p>
 </div></div>
 </div></div>
@@ -78,7 +78,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Discos y almacenamiento">Discos y almacenamiento</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Comprobar cuánto espacio de disco hay disponible">Espacio en disco</a></span>, <span class="link"><a href="disk-benchmark.html" title="Comprobar el rendimiento de su disco duro">rendimiento</a></span>, <span class="link"><a href="disk-check.html" title="Comprobar los problemas del disco duro">problemas</a></span>, <span class="link"><a href="disk-partitions.html" title="Gestionar volúmenes y particiones">volúmenes y particiones</a></span>…</span>
+<a href="disk.html.es" title="Discos y almacenamiento">Discos y almacenamiento</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.es" title="Comprobar cuánto espacio de disco hay disponible">Espacio en disco</a></span>, <span class="link"><a href="disk-benchmark.html.es" title="Comprobar el rendimiento de su disco duro">rendimiento</a></span>, <span class="link"><a href="disk-check.html.es" title="Comprobar los problemas del disco duro">problemas</a></span>, <span class="link"><a href="disk-partitions.html.es" title="Gestionar volúmenes y particiones">volúmenes y particiones</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

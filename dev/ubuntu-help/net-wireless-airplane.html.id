@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.id" title="Jaringan Nirkabel">Jaringan Nirkabel</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Matikan nirkabel (mode pesawat terbang)</span></h1></div>
@@ -57,13 +57,13 @@
     connections, including WiFi, 3G and Bluetooth connections.</p></div></div></div></div>
 <p class="p">To turn on airplane mode:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Jaringan</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Jaringan</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Jaringan</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Airplane Mode</span> to <span class="gui">ON</span>. This will turn off
       your wireless connection until you disable airplane mode again.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">You can turn off your WiFi connection from the 
-    <span class="gui"><a href="shell-introduction.html#yourname" title="Anda dan komputer Anda">system menu</a></span> by clicking on 
+    <span class="gui"><a href="shell-introduction.html.id#yourname" title="Anda dan komputer Anda">system menu</a></span> by clicking on 
     the connection name and choosing <span class="gui">Turn Off</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -71,7 +71,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Menyambung ke wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?">Memutus</a></span>…</span>
+<a href="net-wireless.html.id" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Menyambung ke wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.id" title="Mengapa jaringan nirkabel saya terputus terus?">Memutus</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

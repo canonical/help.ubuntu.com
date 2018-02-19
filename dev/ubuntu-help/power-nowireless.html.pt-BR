@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="power.html#problems" title="Problemas">Problemas de energia</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.pt-BR#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="power.html.pt-BR#problems" title="Problemas">Problemas de energia</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Eu não tenho rede sem fio quando acordo meu computador</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Se você suspendeu seu computador, você pode descobrir que sua conexão Internet sem fio não funciona ao resumi-lo depois. Isso acontece quando o <span class="link"><a href="hardware-driver.html" title="O que é um driver?">driver</a></span> do dispositivo sem fio não tem suporte completo a determinados recursos de economia de energia. Normalmente, a conexão sem fio falha em ativar corretamente quando o computador é resumido.</p>
+<p class="p">Se você suspendeu seu computador, você pode descobrir que sua conexão Internet sem fio não funciona ao resumi-lo depois. Isso acontece quando o <span class="link"><a href="hardware-driver.html.pt-BR" title="O que é um driver?">driver</a></span> do dispositivo sem fio não tem suporte completo a determinados recursos de economia de energia. Normalmente, a conexão sem fio falha em ativar corretamente quando o computador é resumido.</p>
 <p class="p">Se isso acontece, tente desligar sua conexão sem fio e ligar novamente:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Rede</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Rede</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Rede</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione <span class="gui">Wi-Fi</span>.</p></li>
 <li class="steps"><p class="p">Alterne a conexão sem fio para <span class="key"><kbd>○</kbd></span> e, então, para <span class="key"><kbd>❙</kbd></span> novamente.</p></li>
@@ -66,17 +66,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html#problems" title="Problemas">Problemas de energia</a><span class="desc"> — Solucione problemas com energia e baterias.</span>
+<a href="power.html.pt-BR#problems" title="Problemas">Problemas de energia</a><span class="desc"> — Solucione problemas com energia e baterias.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-driver.html" title="O que é um driver?">O que é um driver?</a><span class="desc"> — Um driver de hardware/dispositivo permite que seu computador use dispositivos que são anexados a ele.</span>
+<a href="hardware-driver.html.pt-BR" title="O que é um driver?">O que é um driver?</a><span class="desc"> — Um driver de hardware/dispositivo permite que seu computador use dispositivos que são anexados a ele.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Por que o meu computador não liga novamente após eu o ter suspendido?">Por que o meu computador não liga novamente após eu o ter suspendido?</a><span class="desc"> — Alguns hardwares de computador causam problemas com suspensão.</span>
+<a href="power-suspendfail.html.pt-BR" title="Por que o meu computador não liga novamente após eu o ter suspendido?">Por que o meu computador não liga novamente após eu o ter suspendido?</a><span class="desc"> — Alguns hardwares de computador causam problemas com suspensão.</span>
 </li>
 </ul></div>
 </div></div>

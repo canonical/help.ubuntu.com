@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Налози на мрежи</span></h1></div>
@@ -51,12 +51,12 @@
 <div class="contents">
 <p class="p">Можете да унесете ваше појединости пријављивања за неке услуге на мрежи, као што су Гугл и Фејсбук, унутар прозора <span class="app">Налози на мрежи</span>. Ово ће вам омогућити да користите програме да приступите услугама на мрежи као што је пошта, календари, ћаскање и документи.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="accounts-add.html" title="Додајте налог"><span class="title">Додајте налог</span><span class="linkdiv-dash"> — </span><span class="desc">Дозволите програмима да приступе вашим налозима на мрежи због фотографија, контаката, календара и осталог.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html" title="Уклоните налог"><span class="title">Уклоните налог</span><span class="linkdiv-dash"> — </span><span class="desc">Уклоните приступ достављачу услуге на мрежи из ваших програма.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html" title="Зашто треба додати налог?"><span class="title">Зашто треба додати налог?</span><span class="linkdiv-dash"> — </span><span class="desc">Зашто да додате налоге ваше е-поште или друштвених медија на вашу радну површ?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html" title="Зашто врста мог налога није на списку?"><span class="title">Зашто врста мог налога није на списку?</span><span class="linkdiv-dash"> — </span><span class="desc">Шта ако достављач мрежних услуга није на списку?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html" title="Одредите којим услугама на мрежи може да приступи налог"><span class="title">Одредите којим услугама на мрежи може да приступи налог</span><span class="linkdiv-dash"> — </span><span class="desc">Неки налози на мрежи могу бити коришћени за приступ неколико услуга (као календар и е-пошта). Можете да одредите које од ових услуга могу да користе програми.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html" title="Услуге и програми на мрежи"><span class="title">Услуге и програми на мрежи</span><span class="linkdiv-dash"> — </span><span class="desc">Програми могу да користе налоге направљене у <span class="app">Налозима на мрежи</span> и услуге које искоришћавају.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.sr" title="Додајте налог"><span class="title">Додајте налог</span><span class="linkdiv-dash"> — </span><span class="desc">Дозволите програмима да приступе вашим налозима на мрежи због фотографија, контаката, календара и осталог.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.sr" title="Уклоните налог"><span class="title">Уклоните налог</span><span class="linkdiv-dash"> — </span><span class="desc">Уклоните приступ достављачу услуге на мрежи из ваших програма.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.sr" title="Зашто треба додати налог?"><span class="title">Зашто треба додати налог?</span><span class="linkdiv-dash"> — </span><span class="desc">Зашто да додате налоге ваше е-поште или друштвених медија на вашу радну површ?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html.sr" title="Зашто врста мог налога није на списку?"><span class="title">Зашто врста мог налога није на списку?</span><span class="linkdiv-dash"> — </span><span class="desc">Шта ако достављач мрежних услуга није на списку?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.sr" title="Одредите којим услугама на мрежи може да приступи налог"><span class="title">Одредите којим услугама на мрежи може да приступи налог</span><span class="linkdiv-dash"> — </span><span class="desc">Неки налози на мрежи могу бити коришћени за приступ неколико услуга (као календар и е-пошта). Можете да одредите које од ових услуга могу да користе програми.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.sr" title="Услуге и програми на мрежи"><span class="title">Услуге и програми на мрежи</span><span class="linkdiv-dash"> — </span><span class="desc">Програми могу да користе налоге направљене у <span class="app">Налозима на мрежи</span> и услуге које искоришћавају.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -65,20 +65,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html" title="Кориснички налози">кориснички налози</a></span>…</span>
+<a href="prefs.html.sr" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html.sr" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html.sr" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html.sr" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html.sr" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html.sr" title="Кориснички налози">кориснички налози</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat.html" title="Ћаскање и друштвене мреже">Ћаскање и друштвене мреже</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Брзе поруке на Убунтуу">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Видео позиви">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Како могу да користим Скајп на Убунтуу?">install skype</a></span>
+<a href="net-chat.html.sr" title="Ћаскање и друштвене мреже">Ћаскање и друштвене мреже</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.sr" title="Брзе поруке на Убунтуу">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.sr" title="Видео позиви">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.sr" title="Како могу да користим Скајп на Убунтуу?">install skype</a></span>
     </span>
 </li>
-<li class="links "><a href="gs-connect-online-accounts.html" title="Повезивање са налозима на мрежи">Упутство за повезивање са налозима на мрежи</a></li>
+<li class="links "><a href="gs-connect-online-accounts.html.sr" title="Повезивање са налозима на мрежи">Упутство за повезивање са налозима на мрежи</a></li>
 </ul></div>
 </div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="color.html" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html#profiles" title="Färgprofiler">Färgprofiler</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="color.html.sv" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html.sv#profiles" title="Färgprofiler">Färgprofiler</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="color.html" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html#profiles" title="Färgprofiler">Färgprofiler</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="color.html.sv" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html.sv#profiles" title="Färgprofiler">Färgprofiler</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,29 +56,29 @@
 <p class="p">Det bästa sättet att få tag på färgprofiler är att skapa dem själv, fast det kräver lite jobb.</p>
 <p class="p">Många tillverkare försöker tillhandahålla färgprofiler för enheter, även om de ibland ingår i <span class="em">drivrutinspaket</span> som du kan vara tvungen att hämta, extrahera och sedan leta efter färgprofiler i.</p>
 <p class="p">Vissa tillverkare tillhandahåller inga tillförlitliga profiler för hårdvaran och de profilerna är det bäst att undvika. En bra ledtråd är att hämta profilen och om datumet då den skapades är äldre än ett år före datumet då du köpte enheten så är det troligtvis genererad exempeldata som är värdelös.</p>
-<p class="p">Se <span class="link"><a href="color-why-calibrate.html" title="Varför måste jag själv kalibrera?">Varför måste jag själv kalibrera?</a></span> för mer information om varför tillverkares profiler ofta är värre än att vara utan.</p>
+<p class="p">Se <span class="link"><a href="color-why-calibrate.html.sv" title="Varför måste jag själv kalibrera?">Varför måste jag själv kalibrera?</a></span> för mer information om varför tillverkares profiler ofta är värre än att vara utan.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Färgprofiler">Färgprofiler</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.sv#profiles" title="Färgprofiler">Färgprofiler</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-testing.html" title="Hur testar jag om färghanteringen fungerar korrekt?">Hur testar jag om färghanteringen fungerar korrekt?</a><span class="desc"> — Använd de tillhandahållna profilerna för att kontrollera att dina profiler appliceras korrekt för din skärm.</span>
+<a href="color-testing.html.sv" title="Hur testar jag om färghanteringen fungerar korrekt?">Hur testar jag om färghanteringen fungerar korrekt?</a><span class="desc"> — Använd de tillhandahållna profilerna för att kontrollera att dina profiler appliceras korrekt för din skärm.</span>
 </li>
 <li class="links ">
-<a href="color-missingvcgt.html" title="Saknas information för helskärmsfärgkalibrering?">Saknas information för helskärmsfärgkalibrering?</a><span class="desc"> — Helskärmsfärgkorrigering modifierar alla skärmfärger för alla fönster.</span>
+<a href="color-missingvcgt.html.sv" title="Saknas information för helskärmsfärgkalibrering?">Saknas information för helskärmsfärgkalibrering?</a><span class="desc"> — Helskärmsfärgkorrigering modifierar alla skärmfärger för alla fönster.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Vad är en färgprofil?">Vad är en färgprofil?</a><span class="desc"> — En färgprofil är en enkel fil som visar en färgrymd eller hur en enhet svarar på färger.</span>
+<a href="color-whatisprofile.html.sv" title="Vad är en färgprofil?">Vad är en färgprofil?</a><span class="desc"> — En färgprofil är en enkel fil som visar en färgrymd eller hur en enhet svarar på färger.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Varför måste jag själv kalibrera?">Varför måste jag själv kalibrera?</a><span class="desc"> — Kalibrering är viktigt om du bryr dig om färgerna du visar eller skriver ut.</span>
+<a href="color-why-calibrate.html.sv" title="Varför måste jag själv kalibrera?">Varför måste jag själv kalibrera?</a><span class="desc"> — Kalibrering är viktigt om du bryr dig om färgerna du visar eller skriver ut.</span>
 </li>
 </ul></div>
 </div></div>

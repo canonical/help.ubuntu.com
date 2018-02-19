@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="keyboard.html" title="キーボード">キーボード</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="keyboard.html.ja" title="キーボード">キーボード</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="keyboard.html" title="キーボード">キーボード</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ja" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="keyboard.html.ja" title="キーボード">キーボード</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -59,7 +59,7 @@
     instead.</p></div></div></div></div>
 <p class="p"><span class="gui">アクティビティ</span>画面を表示するキーを変更する手順は次のとおりです。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview, then
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview, then
       open the <span class="app">Settings</span>.</p></li>
 <li class="steps"><p class="p"><span class="gui">キーボード</span>を選択します。</p></li>
 <li class="steps"><p class="p"><span class="gui">ショートカット</span>タブをクリックします。</p></li>
@@ -73,13 +73,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="キーボード">キーボード</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">キーボードレイアウト</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="キーボードのカーソルを点滅させる">カーソル点滅</a></span>, <span class="link"><a href="a11y.html#mobility" title="運動障害">キーボードのアクセシビリティ</a></span>…</span>
+<a href="keyboard.html.ja" title="キーボード">キーボード</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ja" title="Use alternative keyboard layouts">キーボードレイアウト</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ja" title="キーボードのカーソルを点滅させる">カーソル点滅</a></span>, <span class="link"><a href="a11y.html.ja#mobility" title="運動障害">キーボードのアクセシビリティ</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="便利なキーボードショートカット">便利なキーボードショートカット</a><span class="desc"> — キーボードでデスクトップを使いこなします。</span>
+<a href="shell-keyboard-shortcuts.html.ja" title="便利なキーボードショートカット">便利なキーボードショートカット</a><span class="desc"> — キーボードでデスクトップを使いこなします。</span>
 </li></ul></div>
 </div></div>
 </div>

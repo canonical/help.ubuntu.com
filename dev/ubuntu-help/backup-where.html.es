@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#backup" title="Hacer copias de respaldo">Hacer copias de respaldo</a> » <a class="trail" href="backup-why.html" title="Hacer copias de respaldo de sus archivos importantes">Copias de respaldo</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#backup" title="Hacer copias de respaldo">Hacer copias de respaldo</a> » <a class="trail" href="backup-why.html.es" title="Hacer copias de respaldo de sus archivos importantes">Copias de respaldo</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Dónde almacenar su copia de respaldo</span></h1></div>
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Hacer copias de respaldo de sus archivos importantes">Hacer copias de respaldo de sus archivos importantes</a><span class="desc"> — Por qué, qué, dónde y cómo hacer copias de seguridad.</span>
+<a href="backup-why.html.es" title="Hacer copias de respaldo de sus archivos importantes">Hacer copias de respaldo de sus archivos importantes</a><span class="desc"> — Por qué, qué, dónde y cómo hacer copias de seguridad.</span>
 </li></ul></div>
 </div></div></div>
 </div>

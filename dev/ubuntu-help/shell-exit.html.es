@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Cerrar la sesión, apagar o cambiar de usuario</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Cerrar la sesión o cambiar de usuario</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Para permitir que otros usuarios usen su equipo, puede salir de la sesión, o seguir conectado y simplemente cambiar de usuario. Si cambia de usuario, todas las aplicaciones seguirán funcionando y todo estará donde lo dejó cuando vuelva a iniciar sesión.</p>
-<p class="p">Para <span class="gui">Salir de la sesión</span> o <span class="gui">Cambiar de usuario</span>, pulse sobre en el <span class="link"><a href="shell-introduction.html#yourname" title="Usted y su equipo">menú del sistema</a></span> en la parte derecha de la barra superior, pulse sobre su nombre y seleccione la opción apropiada.</p>
+<p class="p">Para <span class="gui">Salir de la sesión</span> o <span class="gui">Cambiar de usuario</span>, pulse sobre en el <span class="link"><a href="shell-introduction.html.es#yourname" title="Usted y su equipo">menú del sistema</a></span> en la parte derecha de la barra superior, pulse sobre su nombre y seleccione la opción apropiada.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Las opciones <span class="gui">Salir de la sesión</span> y <span class="gui">Cambiar de usuario</span>, sólo aparecen en el menú si tiene más de una cuenta de usuario en su sistema.</p></div></div></div></div>
 </div></div>
 </div></div>
@@ -61,7 +61,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Bloquear la pantalla</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p">Si deja su equipo durante un breve periodo de tiempo, debe bloquear la pantalla para evitar que otras personas tengan acceso a sus archivos o ejecuten aplicaciones. Cuando vuelva, suba el panel <span class="link"><a href="shell-lockscreen.html" title="La pantalla de bloqueo">bloquear pantalla</a></span> e introduzca su contraseña para volver a iniciar la sesión. Si no bloquea su pantalla, se bloqueará automáticamente después de cierto tiempo.</p>
+<p class="p">Si deja su equipo durante un breve periodo de tiempo, debe bloquear la pantalla para evitar que otras personas tengan acceso a sus archivos o ejecuten aplicaciones. Cuando vuelva, suba el panel <span class="link"><a href="shell-lockscreen.html.es" title="La pantalla de bloqueo">bloquear pantalla</a></span> e introduzca su contraseña para volver a iniciar la sesión. Si no bloquea su pantalla, se bloqueará automáticamente después de cierto tiempo.</p>
 <p class="p">Para bloquear la pantalla, pulse en el menú del sistema en la parte derecha de la barra superior y pulse el botón de bloqueo en la parte inferior del menú.</p>
 <p class="p">Cuando su pantalla está bloqueada otros usuarios pueden iniciar sesión en sus propias cuentas pulsando <span class="gui">Iniciar sesión como otro usuario</span> en la pantalla de contraseña. Puede volver a su escritorio cuando hayan terminado.</p>
 </div>
@@ -71,10 +71,10 @@
 <div class="title"><h3><span class="title">Consulte también</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Bloquear automáticamente su pantalla">Bloquear automáticamente su pantalla</a><span class="desc"> — Impedir que otras personas puedan usar su escritorio cuando se aleje de su equipo.</span>
+<a href="privacy-screen-lock.html.es" title="Bloquear automáticamente su pantalla">Bloquear automáticamente su pantalla</a><span class="desc"> — Impedir que otras personas puedan usar su escritorio cuando se aleje de su equipo.</span>
 </li>
 <li class="links ">
-<a href="session-screenlocks.html" title="La pantalla se bloquea demasiado deprisa">La pantalla se bloquea demasiado deprisa</a><span class="desc"> — Cambie el tiempo de espera antes de que se bloquee la pantalla en la configuración de <span class="gui">Privacidad</span>.</span>
+<a href="session-screenlocks.html.es" title="La pantalla se bloquea demasiado deprisa">La pantalla se bloquea demasiado deprisa</a><span class="desc"> — Cambie el tiempo de espera antes de que se bloquee la pantalla en la configuración de <span class="gui">Privacidad</span>.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -94,13 +94,13 @@
 <div class="title"><h3><span class="title">Consulte también</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html" title="Configurar la suspensión automática">Configurar la suspensión automática</a><span class="desc"> — Configurar su equipo para que se suspenda automáticamente</span>
+<a href="power-autosuspend.html.es" title="Configurar la suspensión automática">Configurar la suspensión automática</a><span class="desc"> — Configurar su equipo para que se suspenda automáticamente</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Usar menos energía y mejorar la vida de la batería">Usar menos energía y mejorar la vida de la batería</a><span class="desc"> — Consejos para reducir el consumo de energía de su equipo.</span>
+<a href="power-batterylife.html.es" title="Usar menos energía y mejorar la vida de la batería">Usar menos energía y mejorar la vida de la batería</a><span class="desc"> — Consejos para reducir el consumo de energía de su equipo.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="¿Qué ocurre cuando suspendo el equipo?">¿Qué ocurre cuando suspendo el equipo?</a><span class="desc"> — Suspender pone su equipo a dormir para que use menos energía.</span>
+<a href="power-suspend.html.es" title="¿Qué ocurre cuando suspendo el equipo?">¿Qué ocurre cuando suspendo el equipo?</a><span class="desc"> — Suspender pone su equipo a dormir para que use menos energía.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -113,14 +113,14 @@
 <div class="contents">
 <p class="p">Si quiere apagar su equipo por completo o hacer un reinicio total, pulse sobre en el menú del sistema en la parte derecha de la barra superior y pulse el botón de apagar en la parte inferior del menú. Aparecerá un diálogo ofreciéndole <span class="gui">Reiniciar</span> o <span class="gui">Apagar</span>.</p>
 <p class="p">Si hay otros usuarios conectados, no podrá apagar o reiniciar el equipo, porque esto cerraría sus sesiones. Si es un usuario administrador, se le pedirá su contraseña para apagar.</p>
-<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Puede querer apagar el equipo si quiere moverlo y no tiene una batería, o si su batería está baja o no se carga bien. Un equipo apagado también usa <span class="link"><a href="power-batterylife.html" title="Usar menos energía y mejorar la vida de la batería">menos energía</a></span> que uno que está suspendido.</p></div></div></div></div>
+<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Puede querer apagar el equipo si quiere moverlo y no tiene una batería, o si su batería está baja o no se carga bien. Un equipo apagado también usa <span class="link"><a href="power-batterylife.html.es" title="Usar menos energía y mejorar la vida de la batería">menos energía</a></span> que uno que está suspendido.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Consulte también</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html" title="Usar menos energía y mejorar la vida de la batería">Usar menos energía y mejorar la vida de la batería</a><span class="desc"> — Consejos para reducir el consumo de energía de su equipo.</span>
+<a href="power-batterylife.html.es" title="Usar menos energía y mejorar la vida de la batería">Usar menos energía y mejorar la vida de la batería</a><span class="desc"> — Consejos para reducir el consumo de energía de su equipo.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -133,18 +133,18 @@
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power.html" title="Energía y batería">Energía y batería</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Compruebe el estado de la batería">Estado de la batería</a></span>, <span class="link"><a href="power-suspend.html" title="¿Qué ocurre cuando suspendo el equipo?">suspender</a></span>, <span class="link"><a href="power-whydim.html" title="¿Por qué mi pantalla se oscurece después de un tiempo?">atenuación de la pantalla</a></span>…</span>
+<a href="power.html.es" title="Energía y batería">Energía y batería</a><span class="desc"> — <span class="link"><a href="power-status.html.es" title="Compruebe el estado de la batería">Estado de la batería</a></span>, <span class="link"><a href="power-suspend.html.es" title="¿Qué ocurre cuando suspendo el equipo?">suspender</a></span>, <span class="link"><a href="power-whydim.html.es" title="¿Por qué mi pantalla se oscurece después de un tiempo?">atenuación de la pantalla</a></span>…</span>
 </li>
-<li class="links "><a href="index.html" title="Guía del escritorio de Ubuntu">Guía del escritorio de Ubuntu</a></li>
+<li class="links "><a href="index.html.es" title="Guía del escritorio de Ubuntu">Guía del escritorio de Ubuntu</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Su escritorio">Su escritorio</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Citas de calendario">Calendario</a></span>, <span class="link"><a href="shell-notifications.html" title="Notificaciones y la bandeja de mensajes">notificaciones</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Atajos de teclado útiles">atajos del teclado</a></span>, <span class="link"><a href="shell-windows.html" title="Ventanas y áreas de trabajo">ventanas y áreas de trabajo</a></span>…</span>
+<a href="shell-overview.html.es" title="Su escritorio">Su escritorio</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.es" title="Citas de calendario">Calendario</a></span>, <span class="link"><a href="shell-notifications.html.es" title="Notificaciones y la bandeja de mensajes">notificaciones</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.es" title="Atajos de teclado útiles">atajos del teclado</a></span>, <span class="link"><a href="shell-windows.html.es" title="Ventanas y áreas de trabajo">ventanas y áreas de trabajo</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-autologin.html" title="Iniciar sesión automáticamente">Iniciar sesión automáticamente</a><span class="desc"> — Configurar el inicio de sesión automático para cuando enciende el equipo.</span>
+<a href="user-autologin.html.es" title="Iniciar sesión automáticamente">Iniciar sesión automáticamente</a><span class="desc"> — Configurar el inicio de sesión automático para cuando enciende el equipo.</span>
 </li></ul></div>
 </div></div>
 </div>

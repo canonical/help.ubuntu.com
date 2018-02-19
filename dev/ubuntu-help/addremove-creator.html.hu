@@ -46,9 +46,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="disk.html" title="Lemezek és tárolók">Lemezek és tárolók</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="disk.html.hu" title="Lemezek és tárolók">Lemezek és tárolók</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Szoftver telepítése/eltávolítása</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.hu" title="Install &amp; remove software">Szoftver telepítése/eltávolítása</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -90,14 +90,14 @@
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Alkalmazás eltávolítása">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+<a href="addremove.html.hu" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
+      <span class="link"><a href="addremove-install.html.hu" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.hu" title="Alkalmazás eltávolítása">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.hu" title="Add software repositories">add repositories</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="disk.html" title="Lemezek és tárolók">Lemezek és tárolók</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Szabad lemezhely ellenőrzése">Lemezterület</a></span>, <span class="link"><a href="disk-benchmark.html" title="A merevlemez teljesítményének tesztelése">teljesítmény</a></span>, <span class="link"><a href="disk-check.html" title="Hibák keresése a merevlemezen">problémák</a></span>, <span class="link"><a href="disk-partitions.html" title="Kötetek és partíciók kezelése">kötetek és partíciók</a></span>…</span>
+<a href="disk.html.hu" title="Lemezek és tárolók">Lemezek és tárolók</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.hu" title="Szabad lemezhely ellenőrzése">Lemezterület</a></span>, <span class="link"><a href="disk-benchmark.html.hu" title="A merevlemez teljesítményének tesztelése">teljesítmény</a></span>, <span class="link"><a href="disk-check.html.hu" title="Hibák keresése a merevlemezen">problémák</a></span>, <span class="link"><a href="disk-partitions.html.hu" title="Kötetek és partíciók kezelése">kötetek és partíciók</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

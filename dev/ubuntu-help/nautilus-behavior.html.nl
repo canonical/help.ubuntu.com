@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » <a class="trail" href="nautilus-prefs.html" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » <a class="trail" href="nautilus-prefs.html.nl" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Gedragsvoorkeuren bestandsbeheer</span></h1></div>
@@ -62,7 +62,7 @@ executable text files are handled, and the trash behavior. Click
 <div id="executable" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Uitvoerbare tekstbestanden</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Een uitvoerbaar tekstbestand is een bestand dat een programma bevat dat u kan uitvoeren. De <span class="link"><a href="nautilus-file-properties-permissions.html" title="Bestandsrechten instellen">bestandspermissies</a></span> moeten ook zo zijn ingesteld dat het bestand als programma uitgevoerd kan worden. De meest gangbare zijn <span class="sys">Shell</span>, <span class="sys">Python</span> en <span class="sys">Perl</span> scripts. Deze hebben respectievelijk de extensies <span class="file">.sh</span>, <span class="file">.py</span> en <span class="file">.pl</span>.</p>
+<p class="p">Een uitvoerbaar tekstbestand is een bestand dat een programma bevat dat u kan uitvoeren. De <span class="link"><a href="nautilus-file-properties-permissions.html.nl" title="Bestandsrechten instellen">bestandspermissies</a></span> moeten ook zo zijn ingesteld dat het bestand als programma uitgevoerd kan worden. De meest gangbare zijn <span class="sys">Shell</span>, <span class="sys">Python</span> en <span class="sys">Perl</span> scripts. Deze hebben respectievelijk de extensies <span class="file">.sh</span>, <span class="file">.py</span> en <span class="file">.pl</span>.</p>
 <p class="p">Als u een uitvoerbaar tekstbestand opent, kunt u kiezen uit:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Uitvoerbare tekstbestanden uitvoeren zodra ze worden geopend</span></p></li>
@@ -95,7 +95,7 @@ executable text files are handled, and the trash behavior. Click
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Zie ook</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="files-delete.html" title="Bestanden en mappen verwijderen">Bestanden en mappen verwijderen</a><span class="desc"> — Verwijder bestanden of mappen die niet langer nodig zijn.</span>
+<a href="files-delete.html.nl" title="Bestanden en mappen verwijderen">Bestanden en mappen verwijderen</a><span class="desc"> — Verwijder bestanden of mappen die niet langer nodig zijn.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -106,7 +106,7 @@ executable text files are handled, and the trash behavior. Click
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a><span class="desc"> — Voorkeuren voor de bestandsbeheerder bekijken en instellen.</span>
+<a href="nautilus-prefs.html.nl" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a><span class="desc"> — Voorkeuren voor de bestandsbeheerder bekijken en instellen.</span>
 </li></ul></div>
 </div></div></div>
 </div>

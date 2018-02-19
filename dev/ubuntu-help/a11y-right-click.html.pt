@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="mouse.html" title="Rato">Rato</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="mouse.html.pt" title="Rato">Rato</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Acesso universal">Acesso universal</a> › <a class="trail" href="a11y.html#mobility" title="Deficiências motoras">Deficiências motoras</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.pt" title="Acesso universal">Acesso universal</a> › <a class="trail" href="a11y.html.pt#mobility" title="Deficiências motoras">Deficiências motoras</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="mouse.html" title="Rato">Rato</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> » <a class="trail" href="mouse.html.pt" title="Rato">Rato</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">Pode fazer que, em vez de carregar o botão direito do rato, baste com manter carregado o botão esquerdo do rato durante um tempo para realizar a mesma ação. É útil se tem dificuldades para mover os dedos duma mão de forma individual ou se seu dispositivo apuntador tem um sozinho botão.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Acesso universal</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Acesso universal</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Acesso universal</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Assistente de clique</span> na seção <span class="gui">Apontar e carregar</span>.</p></li>
 <li class="steps"><p class="p">Ative a <span class="gui">Clique secundária simulada</span> (<span class="gui">Acendido</span>).</p></li>
@@ -65,7 +65,7 @@
 <p class="p">Pode mudar a duração da clique do botão esquerdo do rato antes de que se considere uma clique com o botão direito mudando o <span class="gui">Atraso de aceitação</span>.</p>
 <p class="p">Para carregar com o botão direito do rato utilizando uma clique secundária simulada, mantenha carregado o botão esquerdo do rato onde normalmente carregaria com o botão direito, e depois o solte. O ponteiro rechear-se-á com uma cor azul enquanto mantém carregado o botão esquerdo. Quando esteja azul do tudo, solte o botão para fazer a clique direita.</p>
 <p class="p">Alguns ponteiros especiais, como os ponteiros de redimensionar, com mudam de cor. Segue podendo usar a clique secundária simulada de maneira normal, ainda que não veja o efeito visual do ponteiro.</p>
-<p class="p">Se usa as <span class="link"><a href="mouse-mousekeys.html" title="Clicar e mover o ponteiro do rato utilizando o teclado numérico">Teclas do rato</a></span>, isto também lhe permite simular um clique direito mantendo premida a tecla <span class="key"><kbd>5</kbd></span> de seu teclado numérico.</p>
+<p class="p">Se usa as <span class="link"><a href="mouse-mousekeys.html.pt" title="Clicar e mover o ponteiro do rato utilizando o teclado numérico">Teclas do rato</a></span>, isto também lhe permite simular um clique direito mantendo premida a tecla <span class="key"><kbd>5</kbd></span> de seu teclado numérico.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Na vista de <span class="gui">Atividades</span> sempre pode realizar uma clique longa para executar uma clique com o botão direito, inclusive se esta caraterística está desativada. A clique longa funciona de forma ligeiramente diferente na vista geral: não tem que libertar o botão para realizar a clique com o botão direito.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -73,9 +73,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Deficiências motoras">Deficiências motoras</a></li>
+<li class="links "><a href="a11y.html.pt#mobility" title="Deficiências motoras">Deficiências motoras</a></li>
 <li class="links ">
-<a href="mouse.html" title="Rato">Rato</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Use seu rato para surdos">Zurdo</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Ajustar a velocidade do rato e do touchpad">velocidade e sensibilidade</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Clicar, arrastar ou deslocar-se com o «touchpad»">clique e deslocação com o touchpad</a></span>…</span>
+<a href="mouse.html.pt" title="Rato">Rato</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.pt" title="Use seu rato para surdos">Zurdo</a></span>, <span class="link"><a href="mouse-sensitivity.html.pt" title="Ajustar a velocidade do rato e do touchpad">velocidade e sensibilidade</a></span>, <span class="link"><a href="mouse-touchpad-click.html.pt" title="Clicar, arrastar ou deslocar-se com o «touchpad»">clique e deslocação com o touchpad</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

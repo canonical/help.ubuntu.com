@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="mouse.html" title="Hiiri">Hiiri</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="mouse.html.fi" title="Hiiri">Hiiri</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="mouse.html" title="Hiiri">Hiiri</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="mouse.html.fi" title="Hiiri">Hiiri</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Esteettömyys">Esteettömyys</a> › <a class="trail" href="a11y.html#mobility" title="Liikuntarajoitteisuudet">Liikuntarajoitteisuudet</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.fi" title="Esteettömyys">Esteettömyys</a> › <a class="trail" href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">Liikuntarajoitteisuudet</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,13 +58,13 @@
 <p class="p">Jos hiiren tai jonkin muun osoitinlaitteen käyttäminen tuntuu hankalalta, voit hallita hiiren osoitinta käyttämällä näppäimistösi numeronäppäimistöä. Tätä ominaisuutta kutsutaan <span class="em">hiirinäppäimiksi</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
+<p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p>
 <p class="p">You can access the <span class="gui">Activities</span> overview by pressing on it,
       by moving your mouse pointer against the top-left corner of the screen,
       using <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>
       followed by <span class="key"><kbd>Enter</kbd></span> or using
-      <span class="key"><a href="keyboard-key-super.html" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span>.</p>
+      <span class="key"><a href="keyboard-key-super.html.fi" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span>.</p>
 </li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Esteettömyys</span> avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">Use the up and down arrow keys to select <span class="gui">Mouse Keys</span> in the
@@ -80,9 +80,9 @@
   keypads.</p>
 <p class="p">Jokainen numeronäppäimistön näppäin vastaa tiettyä liikesuuntaa. Esimerkiksi <span class="key"><kbd>8</kbd></span> siirtää hiirtä ylöspäin ja <span class="key"><kbd>2</kbd></span> alaspäin. Numeron <span class="key"><kbd>5</kbd></span> painallus vastaa hiiren napsautusta ja nopeasti kahteen kertaan painettuna kaksoisnapsautusta.</p>
 <p class="p">Most keyboards have a special key which allows you to right-click,
-  sometimes called the <span class="key"><a href="keyboard-key-menu.html" title="Mikä on Menu-näppäin?"><kbd>Menu</kbd></a></span> key. Note,
+  sometimes called the <span class="key"><a href="keyboard-key-menu.html.fi" title="Mikä on Menu-näppäin?"><kbd>Menu</kbd></a></span> key. Note,
   however, that this key responds to where your keyboard focus is, not where
-  your mouse pointer is. See <span class="link"><a href="a11y-right-click.html" title="Simuloi hiiren oikean napin painallusta">Simuloi hiiren oikean napin painallusta</a></span> for information on
+  your mouse pointer is. See <span class="link"><a href="a11y-right-click.html.fi" title="Simuloi hiiren oikean napin painallusta">Simuloi hiiren oikean napin painallusta</a></span> for information on
   how to right-click by holding down <span class="key"><kbd>5</kbd></span> or the left mouse button.</p>
 <p class="p">Jos haluat käyttää numeronäppäimistöä numeroiden kirjoittamiseen hiirinäppäinten ollessa käytössä, aseta <span class="key"><kbd>NumLock</kbd></span> päälle. Hiiren ohjaaminen näppäimistöllä ei kuitenkaan onnistu samanaikaisesti <span class="key"><kbd>NumLockin</kbd></span> ollessa päällä.</p>
 <div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">Numeronäppäimet kirjaimien yläpuolella eivät hallitse osoitinta. Ainoastaan numeronäppäimiä voidaan tähän käyttää.</p></div></div></div></div>
@@ -93,9 +93,9 @@
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse.html" title="Hiiri">Hiiri</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Käytä hiirtä vasenkätisen asetuksin">Vasenkätisyys</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Muuta hiiren ja kosketuslevyn nopeutta">nopeus ja herkkyys</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">kosketuslevyn vierittäminen ja napsauttaminen</a></span>…</span>
+<a href="mouse.html.fi" title="Hiiri">Hiiri</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.fi" title="Käytä hiirtä vasenkätisen asetuksin">Vasenkätisyys</a></span>, <span class="link"><a href="mouse-sensitivity.html.fi" title="Muuta hiiren ja kosketuslevyn nopeutta">nopeus ja herkkyys</a></span>, <span class="link"><a href="mouse-touchpad-click.html.fi" title="Click, drag, or scroll with the touchpad">kosketuslevyn vierittäminen ja napsauttaminen</a></span>…</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Liikuntarajoitteisuudet">Liikuntarajoitteisuudet</a></li>
+<li class="links "><a href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">Liikuntarajoitteisuudet</a></li>
 </ul></div>
 </div></div></div>
 </div>

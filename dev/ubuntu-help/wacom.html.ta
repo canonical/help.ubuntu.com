@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wacom கிராஃபிக்ஸ் டேப்ளட்</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">டேப்ளட்டை டேப்ளட் பயன்முறைக்கும் சொடுக்கி பயன்முறைக்குமாக மாற்றுதல்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html" title="ஒரு மானிட்டரைத் தேர்வு செய்தல்"><span class="title">ஒரு மானிட்டரைத் தேர்வு செய்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">Wacom டேப்ளட்டை ஒரு குறிப்பிட்ட மானிட்டருக்கு மேப் செய்தல்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html" title="டேப்ளட்டை இடதுகைப் பழக்கத்திற்கேற்ப பயன்படுத்துதல்"><span class="title">டேப்ளட்டை இடதுகைப் பழக்கத்திற்கேற்ப பயன்படுத்துதல்</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html" title="ஸ்டைலஸை அமைவாக்கம் செய்தல்"><span class="title">ஸ்டைலஸை அமைவாக்கம் செய்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">பொத்தான் செயல்பாடுகளையும் Wacom ஸ்டைலஸின் அழுத்த உணர்வையும் வரையறுக்கவும்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.ta" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">டேப்ளட்டை டேப்ளட் பயன்முறைக்கும் சொடுக்கி பயன்முறைக்குமாக மாற்றுதல்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.ta" title="ஒரு மானிட்டரைத் தேர்வு செய்தல்"><span class="title">ஒரு மானிட்டரைத் தேர்வு செய்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">Wacom டேப்ளட்டை ஒரு குறிப்பிட்ட மானிட்டருக்கு மேப் செய்தல்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.ta" title="டேப்ளட்டை இடதுகைப் பழக்கத்திற்கேற்ப பயன்படுத்துதல்"><span class="title">டேப்ளட்டை இடதுகைப் பழக்கத்திற்கேற்ப பயன்படுத்துதல்</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.ta" title="ஸ்டைலஸை அமைவாக்கம் செய்தல்"><span class="title">ஸ்டைலஸை அமைவாக்கம் செய்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">பொத்தான் செயல்பாடுகளையும் Wacom ஸ்டைலஸின் அழுத்த உணர்வையும் வரையறுக்கவும்.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">பயனர் &amp; கணினி அமைவுகள்</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="விசைப்பலகை">விசைப்பலகை</a></span>, <span class="link"><a href="mouse.html" title="சொடுக்கி">சொடுக்கி</a></span>, <span class="link"><a href="prefs-display.html" title="காட்சி &amp; திரை">காட்சி</a></span>, <span class="link"><a href="prefs-language.html" title="பகுதி &amp; மொழி">மொழிகள்</a></span>, <span class="link"><a href="user-accounts.html" title="பயனர் கணக்குகள்">பயனர் கணக்குகள்</a></span>…</span>
+<a href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">பயனர் &amp; கணினி அமைவுகள்</a><span class="desc"> — <span class="link"><a href="keyboard.html.ta" title="விசைப்பலகை">விசைப்பலகை</a></span>, <span class="link"><a href="mouse.html.ta" title="சொடுக்கி">சொடுக்கி</a></span>, <span class="link"><a href="prefs-display.html.ta" title="காட்சி &amp; திரை">காட்சி</a></span>, <span class="link"><a href="prefs-language.html.ta" title="பகுதி &amp; மொழி">மொழிகள்</a></span>, <span class="link"><a href="user-accounts.html.ta" title="பயனர் கணக்குகள்">பயனர் கணக்குகள்</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

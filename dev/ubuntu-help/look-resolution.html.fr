@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="prefs-display.html" title="Affichage et écran">Affichage et écran</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="prefs-display.html.fr" title="Affichage et écran">Affichage et écran</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Modification de la résolution ou de la rotation de l'écran</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Vous pouvez modifier la taille (ou la précision) des éléments qui apparaissent à l'écran en modifiant sa <span class="em">résolution</span>. Vous pouvez changer la façon dont les éléments apparaissent (par exemple, si votre écran est pivoté) en modifiant la <span class="em">rotation</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Displays</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Displays</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Si vous avez plusieurs écrans et qu'il n'y a pas la même image sur tous les écrans, vous pouvez avoir des réglages différents sur les écrans. Sélectionnez un écran dans la zone d'aperçu.</p></li>
@@ -69,7 +69,7 @@
   resolution that does not match the aspect ratio of your display, the screen
   will be letterboxed to avoid distortion, by adding black bars to the top and
   bottom or both sides of the screen.</p>
-<p class="p">Vous pouvez choisir votre <span class="gui">Résolution</span> dans la liste déroulante. Si votre choix ne convient pas à votre écran, l'image peut paraître <span class="link"><a href="look-display-fuzzy.html" title="Pourquoi l'affichage de mon écran est-il brouillé/pixelisé ?">brouillée ou pixelisée</a></span>.</p>
+<p class="p">Vous pouvez choisir votre <span class="gui">Résolution</span> dans la liste déroulante. Si votre choix ne convient pas à votre écran, l'image peut paraître <span class="link"><a href="look-display-fuzzy.html.fr" title="Pourquoi l'affichage de mon écran est-il brouillé/pixelisé ?">brouillée ou pixelisée</a></span>.</p>
 </div></div>
 </div></div>
 <div id="rotation" class="sect"><div class="inner">
@@ -82,13 +82,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Affichage et écran">Affichage et écran</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Modification de l'arrière-plan du bureau et de l'écran de veille">Arrière-plan</a></span>, <span class="link"><a href="look-resolution.html" title="Modification de la résolution ou de la rotation de l'écran">taille et rotation</a></span>, luminosité...</span>
+<a href="prefs-display.html.fr" title="Affichage et écran">Affichage et écran</a><span class="desc"> — <span class="link"><a href="look-background.html.fr" title="Modification de l'arrière-plan du bureau et de l'écran de veille">Arrière-plan</a></span>, <span class="link"><a href="look-resolution.html.fr" title="Modification de la résolution ou de la rotation de l'écran">taille et rotation</a></span>, luminosité...</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-display-fuzzy.html" title="Pourquoi l'affichage de mon écran est-il brouillé/pixelisé ?">Pourquoi l'affichage de mon écran est-il brouillé/pixelisé ?</a><span class="desc"> — La résolution de l'écran est peut-être mal définie.</span>
+<a href="look-display-fuzzy.html.fr" title="Pourquoi l'affichage de mon écran est-il brouillé/pixelisé ?">Pourquoi l'affichage de mon écran est-il brouillé/pixelisé ?</a><span class="desc"> — La résolution de l'écran est peut-être mal définie.</span>
 </li></ul></div>
 </div></div>
 </div>

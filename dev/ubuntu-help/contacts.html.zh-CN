@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">联系人</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">使用<span class="app">联系人</span>来保存、查看或编辑联系人信息，可以访问本地或 <span class="link"><a href="accounts.html" title="在线帐号">在线帐号</a></span>。</p>
+<p class="p">使用<span class="app">联系人</span>来保存、查看或编辑联系人信息，可以访问本地或 <span class="link"><a href="accounts.html.zh-CN" title="在线帐号">在线帐号</a></span>。</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html" title="首次运行联系人"><span class="title">首次运行联系人</span><span class="linkdiv-dash"> — </span><span class="desc">将联系人保存到本地地址薄或在线帐号。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html" title="Link and unlink contacts"><span class="title">Link and unlink contacts</span><span class="linkdiv-dash"> — </span><span class="desc">从多个源来整合联系人信息。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-search.html" title="查找联系人"><span class="title">查找联系人</span><span class="linkdiv-dash"> — </span><span class="desc">查找联系人。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html" title="添加或删除一个联系人"><span class="title">添加或删除一个联系人</span><span class="linkdiv-dash"> — </span><span class="desc">从本地地址薄中添加或删除一个联系人</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html" title="编辑联系人详细资料"><span class="title">编辑联系人详细资料</span><span class="linkdiv-dash"> — </span><span class="desc">编辑联系人的资料。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html" title="跟联系人联系"><span class="title">跟联系人联系</span><span class="linkdiv-dash"> — </span><span class="desc">给联系人发邮件、聊天或打电话。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.zh-CN" title="首次运行联系人"><span class="title">首次运行联系人</span><span class="linkdiv-dash"> — </span><span class="desc">将联系人保存到本地地址薄或在线帐号。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html.zh-CN" title="Link and unlink contacts"><span class="title">Link and unlink contacts</span><span class="linkdiv-dash"> — </span><span class="desc">从多个源来整合联系人信息。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-search.html.zh-CN" title="查找联系人"><span class="title">查找联系人</span><span class="linkdiv-dash"> — </span><span class="desc">查找联系人。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html.zh-CN" title="添加或删除一个联系人"><span class="title">添加或删除一个联系人</span><span class="linkdiv-dash"> — </span><span class="desc">从本地地址薄中添加或删除一个联系人</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.zh-CN" title="编辑联系人详细资料"><span class="title">编辑联系人详细资料</span><span class="linkdiv-dash"> — </span><span class="desc">编辑联系人的资料。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.zh-CN" title="跟联系人联系"><span class="title">跟联系人联系</span><span class="linkdiv-dash"> — </span><span class="desc">给联系人发邮件、聊天或打电话。</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="无线网络">无线连接</a></span>、<span class="link"><a href="net-wired.html" title="有线网络">wired</a></span>、<span class="link"><a href="net-problem.html" title="网络问题">连接故障</a></span>、<span class="link"><a href="net-browser.html" title="Web 浏览器">网页浏览器</a></span>、<span class="link"><a href="net-email.html" title="邮件和邮件客户端">邮箱帐号</a></span>…</span>
+<a href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.zh-CN" title="无线网络">无线连接</a></span>、<span class="link"><a href="net-wired.html.zh-CN" title="有线网络">wired</a></span>、<span class="link"><a href="net-problem.html.zh-CN" title="网络问题">连接故障</a></span>、<span class="link"><a href="net-browser.html.zh-CN" title="Web 浏览器">网页浏览器</a></span>、<span class="link"><a href="net-email.html.zh-CN" title="邮件和邮件客户端">邮箱帐号</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

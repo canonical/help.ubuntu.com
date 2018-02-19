@@ -44,21 +44,21 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Универзални приступ">Универзални приступ</a> › <a class="trail" href="a11y.html#mobility" title="Оштећења покрета">Оштећења покрета</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.sr" title="Универзални приступ">Универзални приступ</a> › <a class="trail" href="a11y.html.sr#mobility" title="Оштећења покрета">Оштећења покрета</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="keyboard.html" title="Тастатура">Тастатура</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="keyboard.html.sr" title="Тастатура">Тастатура</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="keyboard.html" title="Тастатура">Тастатура</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="keyboard.html.sr" title="Тастатура">Тастатура</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Укључите лепљиве тастере</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p"><span class="em">Лепљиви тастери</span> вам омогућавају да куцате пречице тастатуре један тастер за другим уместо да их држите притиснутим све заједно. На пример, пречица <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span>+<span class="key"><kbd>Таб</kbd></span></span> служи за пребацивање између прозора. Без укључених лепљивих тастера, морали бисте да држите притиснутим оба тастера у исто време; са укљученим лепљивим тастерима, притиснућете прво <span class="key"><kbd>Супер</kbd></span> а затим <span class="key"><kbd>Таб</kbd></span> да урадите исто.</p>
+<p class="p"><span class="em">Лепљиви тастери</span> вам омогућавају да куцате пречице тастатуре један тастер за другим уместо да их држите притиснутим све заједно. На пример, пречица <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.sr" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span>+<span class="key"><kbd>Таб</kbd></span></span> служи за пребацивање између прозора. Без укључених лепљивих тастера, морали бисте да држите притиснутим оба тастера у исто време; са укљученим лепљивим тастерима, притиснућете прво <span class="key"><kbd>Супер</kbd></span> а затим <span class="key"><kbd>Таб</kbd></span> да урадите исто.</p>
 <p class="p">Можда ћете желети да укључите лепљиве тастере ако налазите да је тешко да притиснете неколико тастера у исто време.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Универзални приступ</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Универзални приступ</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Универзални приступ</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Притисните <span class="gui">Помоћ куцања (Икс приступ)</span> у одељку <span class="gui">Куцање</span>.</p></li>
 <li class="steps"><p class="p">Пребаците <span class="gui">Лепљиве тастере</span> на <span class="gui">УКЉ.</span>.</p></li>
@@ -67,7 +67,7 @@
 <div class="title title-note"><h2><span class="title">Брзо укључите или искључите лепљиве тастере</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Под <span class="gui">Укључи тастатуром</span>, изаберите <span class="gui">Укључите функције приступачности са тастатуре</span> да укључите или искључите лепљиве тастере са тастатуре. Када је ова опција изабрана, можете да притиснете <span class="key"><kbd>Шифт</kbd></span> пет пута за редом да укључите или искључите лепљиве тастере.</p>
-<p class="p">Можете такође да укључите или да искључите лепљиве тастере тако што ћете кликнути на <span class="link"><a href="a11y-icon.html" title="Пронађите изборник универзалног приступа">иконицу приступачности</a></span> на горњој траци и изабрати <span class="gui">Лепљиви тастери</span>. Иконица приступачности је видљива када је укључено једно или више подешавања са панела <span class="gui">Универзалног приступа</span>.</p>
+<p class="p">Можете такође да укључите или да искључите лепљиве тастере тако што ћете кликнути на <span class="link"><a href="a11y-icon.html.sr" title="Пронађите изборник универзалног приступа">иконицу приступачности</a></span> на горњој траци и изабрати <span class="gui">Лепљиви тастери</span>. Иконица приступачности је видљива када је укључено једно или више подешавања са панела <span class="gui">Универзалног приступа</span>.</p>
 </div></div>
 </div></div>
 <p class="p">Ако притиснете два тастера одједном, лепљиви тастери ће се сами привремено искључити да би вам омогућили да унесете пречицу тастатуре на уобичајени начин.</p>
@@ -80,9 +80,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Оштећења покрета">Оштећења покрета</a></li>
+<li class="links "><a href="a11y.html.sr#mobility" title="Оштећења покрета">Оштећења покрета</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Тастатура">Тастатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Распореди тастатуре</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Учините да курсор тастатуре трепери">треперење курсора</a></span>, <span class="link"><a href="a11y.html#mobility" title="Оштећења покрета">приступачност тастатуре</a></span>…</span>
+<a href="keyboard.html.sr" title="Тастатура">Тастатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.sr" title="Use alternative keyboard layouts">Распореди тастатуре</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sr" title="Учините да курсор тастатуре трепери">треперење курсора</a></span>, <span class="link"><a href="a11y.html.sr#mobility" title="Оштећења покрета">приступачност тастатуре</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

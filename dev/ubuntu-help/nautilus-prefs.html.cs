@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Předvolby správce souborů</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html" title="Předvolby chování ve správci souborů"><span class="title">Předvolby chování ve správci souborů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak otevírat soubory jednoduchým kliknutím, jak spustit nebo zobrazit textové soubory a jak nastavit chování koše.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html" title="Předvolby náhledů ve správci souborů"><span class="title">Předvolby náhledů ve správci souborů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak nastavit, kdy se mají pro soubory použít miniatury.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html" title="Předvolby sloupců v seznamu souborů"><span class="title">Předvolby sloupců v seznamu souborů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak nastavit, které údaje se mají zobrazovat ve sloupcích v seznamovém zobrazení.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html" title="Předvolby zobrazení v Souborech"><span class="title">Předvolby zobrazení v <span class="app">Souborech</span></span><span class="linkdiv-dash"> — </span><span class="desc">Jak určit výchozí řazení a seskupování ve správci souborů.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html" title="Předvolby zobrazení ve správci souborů"><span class="title">Předvolby zobrazení ve správci souborů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak nastavit obsah popisů u ikon ve správci souborů.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html.cs" title="Předvolby chování ve správci souborů"><span class="title">Předvolby chování ve správci souborů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak otevírat soubory jednoduchým kliknutím, jak spustit nebo zobrazit textové soubory a jak nastavit chování koše.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html.cs" title="Předvolby náhledů ve správci souborů"><span class="title">Předvolby náhledů ve správci souborů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak nastavit, kdy se mají pro soubory použít miniatury.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html.cs" title="Předvolby sloupců v seznamu souborů"><span class="title">Předvolby sloupců v seznamu souborů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak nastavit, které údaje se mají zobrazovat ve sloupcích v seznamovém zobrazení.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html.cs" title="Předvolby zobrazení v Souborech"><span class="title">Předvolby zobrazení v <span class="app">Souborech</span></span><span class="linkdiv-dash"> — </span><span class="desc">Jak určit výchozí řazení a seskupování ve správci souborů.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html.cs" title="Předvolby zobrazení ve správci souborů"><span class="title">Předvolby zobrazení ve správci souborů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak nastavit obsah popisů u ikon ve správci souborů.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.cs#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

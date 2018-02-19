@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-wireless.html" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-problem.html" title="Yhteysongelmat">Yhteysongelmat</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-problem.html.fi" title="Yhteysongelmat">Yhteysongelmat</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,10 +56,10 @@
 <p class="p">There are a number of reasons why you might not be able to see your
   wireless network on the list of available networks from the system menu.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Jos listalla ei ole yhtään verkkoa, langaton verkkokortti voi olla pois päältä tai <span class="link"><a href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys">tai ei välttämättä toimi oikein</a></span>. Varmista että WLAN-vastaanotin on päällä. Tämä tehdään yleensä laitteessa olevasta painikkeesta.</p></li>
+<li class="list"><p class="p">Jos listalla ei ole yhtään verkkoa, langaton verkkokortti voi olla pois päältä tai <span class="link"><a href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">tai ei välttämättä toimi oikein</a></span>. Varmista että WLAN-vastaanotin on päällä. Tämä tehdään yleensä laitteessa olevasta painikkeesta.</p></li>
 <li class="list"><p class="p">Saatat olla verkon kantomatkan ulottumattomissa. Siirry lähemmäksi tukiasemaa ja tarkista hetken kuluttua, ilmestyykö verkon nimi luetteloon.</p></li>
 <li class="list"><p class="p">Langattomien verkkojen saatavuuden päivittäminen vie jonkin aikaa. Jos tietokone on juuri käynnistetty tai siirretty toiseen paikkaan, odota hetki ja tarkista tilanne uudelleen.</p></li>
-<li class="list"><p class="p">Verkko saattaa olla piilotettu. Piilotettuun verkkoon <span class="link"><a href="net-wireless-hidden.html" title="Yhdistä piilotettuun verkkoon">yhdistetään eri tavalla</a></span>.</p></li>
+<li class="list"><p class="p">Verkko saattaa olla piilotettu. Piilotettuun verkkoon <span class="link"><a href="net-wireless-hidden.html.fi" title="Yhdistä piilotettuun verkkoon">yhdistetään eri tavalla</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -69,17 +69,17 @@
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Langattomaan verkkoon yhdistäminen">Langattomaan lähiverkkoon yhdistäminen</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Yhdistä piilotettuun verkkoon">piilotetut verkot</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Miksi langaton yhteys katkeaa?">yhteyden katkeaminen</a></span>…</span>
+<a href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.fi" title="Langattomaan verkkoon yhdistäminen">Langattomaan lähiverkkoon yhdistäminen</a></span>, <span class="link"><a href="net-wireless-hidden.html.fi" title="Yhdistä piilotettuun verkkoon">piilotetut verkot</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.fi" title="Miksi langaton yhteys katkeaa?">yhteyden katkeaminen</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-problem.html" title="Yhteysongelmat">Yhteysongelmat</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys">Langattoman yhteyden ongelmanratkaisu</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">langattoman verkon löytäminen</a></span>…</span>
+<a href="net-problem.html.fi" title="Yhteysongelmat">Yhteysongelmat</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">Langattoman yhteyden ongelmanratkaisu</a></span>, <span class="link"><a href="net-wireless-find.html.fi" title="I can’t see my wireless network in the list">langattoman verkon löytäminen</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-hidden.html" title="Yhdistä piilotettuun verkkoon">Yhdistä piilotettuun verkkoon</a><span class="desc"> — Connect to a wireless network that is not displayed in the network
+<a href="net-wireless-hidden.html.fi" title="Yhdistä piilotettuun verkkoon">Yhdistä piilotettuun verkkoon</a><span class="desc"> — Connect to a wireless network that is not displayed in the network
     list.</span>
 </li></ul></div>
 </div></div>

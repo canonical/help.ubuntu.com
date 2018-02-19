@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="media.html#sound" title="அடிப்படை ஒலி">ஒலி</a> » <a class="trail" href="sound-broken.html" title="ஒலி சிக்கல்கள்">ஒலி சிக்கல்கள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="media.html.ta#sound" title="அடிப்படை ஒலி">ஒலி</a> » <a class="trail" href="sound-broken.html.ta" title="ஒலி சிக்கல்கள்">ஒலி சிக்கல்கள்</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> › <a class="trail" href="hardware.html#problems" title="பொதுவான பிரச்சினைகள்">சிக்கல்கள்</a> » <a class="trail" href="sound-broken.html" title="ஒலி சிக்கல்கள்">ஒலி சிக்கல்கள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> › <a class="trail" href="hardware.html.ta#problems" title="பொதுவான பிரச்சினைகள்">சிக்கல்கள்</a> » <a class="trail" href="sound-broken.html.ta" title="ஒலி சிக்கல்கள்">ஒலி சிக்கல்கள்</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div id="mute" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">ஒலி ஒலியடக்கப்படவில்லை என உறுதிப்படுத்திக் கொள்ளவும</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="நீங்களும் உங்கள் கணினியும்">system menu</a></span> and make sure that
+<p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#yourname" title="நீங்களும் உங்கள் கணினியும்">system menu</a></span> and make sure that
   the sound is not muted or turned down.</p>
 <p class="p">Some laptops have mute switches or keys on their keyboards — try pressing
   that key to see if it unmutes the sound.</p>
@@ -99,7 +99,7 @@
   have the correct sound device selected. This might involve some
   trial-and-error to choose the right one.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Sound</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
 <li class="steps">
@@ -122,7 +122,7 @@
   card you have:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p"><span class="gui">செயல்பாடுகள்</span> மேலோட்டத்திற்குச் சென்று ஒரு முனையத்தைத் திறக்கவும்.</p></li>
-<li class="steps"><p class="p">Run <span class="cmd">lspci</span> as <span class="link"><a href="user-admin-explain.html" title="நிர்வாக அனுமதிகள் எப்படி வேலை செய்கின்றன?">superuser</a></span>;
+<li class="steps"><p class="p">Run <span class="cmd">lspci</span> as <span class="link"><a href="user-admin-explain.html.ta" title="நிர்வாக அனுமதிகள் எப்படி வேலை செய்கின்றன?">superuser</a></span>;
       either type <span class="cmd">sudo lspci</span> and type your password, or type
       <span class="cmd">su</span>, enter the <span class="em">root</span> (administrative) password,
       then type <span class="cmd">lspci</span>.</p></li>
@@ -143,7 +143,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html" title="ஒலி சிக்கல்கள்">ஒலி சிக்கல்கள்</a><span class="desc"> — ஒலி கேட்காமல் போவது அல்லது ஒலியின் தரம் சரியில்லாமை போன்ற சிக்கல்களை சரிசெய்தல்.</span>
+<a href="sound-broken.html.ta" title="ஒலி சிக்கல்கள்">ஒலி சிக்கல்கள்</a><span class="desc"> — ஒலி கேட்காமல் போவது அல்லது ஒலியின் தரம் சரியில்லாமை போன்ற சிக்கல்களை சரிசெய்தல்.</span>
 </li></ul></div>
 </div></div></div>
 </div>

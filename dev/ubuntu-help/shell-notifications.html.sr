@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html#desktop" title="Прилагодите радну површ">Прилагодите радну површ</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.sr" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html.sr#desktop" title="Прилагодите радну површ">Прилагодите радну површ</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Обавештења и фиока порука</span></h1></div>
@@ -61,7 +61,7 @@
 <div id="messagetray" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Фиока порука</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Фиока порука вам пружа начин да погледате ваша обавештења када вам то буде одговарало. Појављује се када притиснете на сат, или када притиснете <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span>+<span class="key"><kbd>М</kbd></span></span>. Фиока порука садржи сва обавештења која нисте прегледали или која се ту налазе за стално.</p>
+<p class="p">Фиока порука вам пружа начин да погледате ваша обавештења када вам то буде одговарало. Појављује се када притиснете на сат, или када притиснете <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.sr" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span>+<span class="key"><kbd>М</kbd></span></span>. Фиока порука садржи сва обавештења која нисте прегледали или која се ту налазе за стално.</p>
 <p class="p">Можете да видите обавештења кликом на ставке фиоке порука. То су обично поруке које су послали програми. Међутим, обавештењима ћаскања се даје посебан третман, и представљају се појединачним контактима који су вам послали поруке ћаскања.</p>
 <p class="p">Можете да затворите фиоку порука тако што ћете опет притиснути <span class="keyseq"><span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>М</kbd></span></span> или <span class="key"><kbd>Есц</kbd></span>.</p>
 </div></div>
@@ -71,7 +71,7 @@
 <div class="region"><div class="contents">
 <p class="p">Ако радите на нечему и не желите да будете узнемиравани, можете да искључите обавештења.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Обавештења</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Обавештења</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Обавештења</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Пребаците <span class="gui">Врпце обавештења</span> на <span class="gui">ИСКЉ.</span>.</p></li>
 </ol></div></div></div>
@@ -83,7 +83,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="Прилагодите радну површ">Прилагодите радну површ</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.sr#desktop" title="Прилагодите радну површ">Прилагодите радну површ</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

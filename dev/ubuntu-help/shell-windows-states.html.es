@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a> » <a class="trail" href="shell-windows.html" title="Ventanas y áreas de trabajo">Ventanas y áreas de trabajo</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Trabajar con ventanas">Ventanas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html.es" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html.es#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a> » <a class="trail" href="shell-windows.html.es" title="Ventanas y áreas de trabajo">Ventanas y áreas de trabajo</a> › <a class="trail" href="shell-windows.html.es#working-with-windows" title="Trabajar con ventanas">Ventanas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mover y redimensionar ventanas</span></h1></div>
@@ -51,17 +51,17 @@
 <div class="contents">
 <p class="p">Puede mover y redimensionar ventanas para ayudarle a trabajar más eficientemente. Además del comportamiento de arrastre, GNOME tiene atajos de teclado y modificadores para ayudarle a colocar ventanas rápidamente.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Mueva una ventana arrastrándola desde la barra de título o manteniendo pulsada la tecla <span class="key"><a href="keyboard-key-super.html" title="¿Qué es la tecla Super?"><kbd>Súper</kbd></a></span> y arrastrando en cualquier parte de la ventana. Mantenga pulsada la tecla <span class="key"><kbd>Mayús</kbd></span> al mover para ajustar la ventana a los bordes de la pantalla y a otras ventanas.</p></li>
+<li class="list"><p class="p">Mueva una ventana arrastrándola desde la barra de título o manteniendo pulsada la tecla <span class="key"><a href="keyboard-key-super.html.es" title="¿Qué es la tecla Super?"><kbd>Súper</kbd></a></span> y arrastrando en cualquier parte de la ventana. Mantenga pulsada la tecla <span class="key"><kbd>Mayús</kbd></span> al mover para ajustar la ventana a los bordes de la pantalla y a otras ventanas.</p></li>
 <li class="list"><p class="p">Redimensione una ventana arrastrándo los bordes o una esquina de la ventana. Mantenga pulsada la tecla <span class="key"><kbd>Mayús</kbd></span> al redimensionar para ajustar la ventana a los bordes de la pantalla y a otras ventanas.</p></li>
 <li class="list"><p class="p">Mueva o redimensione una ventana usando sólo el teclado. Pulse <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span> para mover una ventana o <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span> para redimensionarla. Use las teclas de flechas para mover o redimensionar, después pulse <span class="key"><kbd>Intro</kbd></span> para finalizar o pulse <span class="key"><kbd>Esc</kbd></span> para volver a la posición y tamaño original.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Maximizar y desmaximizar (restaurar) una ventana">Maximice una ventana</a></span> arrastrándola a la parte superior de la pantalla. Arrastre una ventana a un lateral de la pantalla para maximizarla a lo largo de ese lado, lo que le permite <span class="link"><a href="shell-windows-tiled.html" title="Ventanas en mosaico">colocar las ventanas lado a lado</a></span>.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html.es" title="Maximizar y desmaximizar (restaurar) una ventana">Maximice una ventana</a></span> arrastrándola a la parte superior de la pantalla. Arrastre una ventana a un lateral de la pantalla para maximizarla a lo largo de ese lado, lo que le permite <span class="link"><a href="shell-windows-tiled.html.es" title="Ventanas en mosaico">colocar las ventanas lado a lado</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Trabajar con ventanas">Trabajar con ventanas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.es#working-with-windows" title="Trabajar con ventanas">Trabajar con ventanas</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

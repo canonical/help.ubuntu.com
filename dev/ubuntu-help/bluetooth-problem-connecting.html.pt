@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="bluetooth.html#problems" title="Problemas">Problemas do Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.pt#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="bluetooth.html.pt#problems" title="Problemas">Problemas do Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Não posso ligar meu dispositivo Bluetooth</span></h1></div>
@@ -54,13 +54,11 @@
 <dt class="terms">Conexão bloqueado ou sem confiança</dt>
 <dd class="terms"><p class="p">Alguns dispositivos Bluetooth bloqueiam as conexões de maneira predeterminada ou requerem que se lhes mude a configuração para permitir as conexões. Certifique-se de que seu dispositivo permite as conexões.</p></dd>
 <dt class="terms">Hardware Bluetooth não reconhecido</dt>
-<dd class="terms"><p class="p">É possível que o seu computador não tenha reconhecido seu adaptador Bluetooth. Isto pode se dever a que não tenha instalados os <span class="link"><a href="hardware-driver.html" title="Que é um controlador?">controladores</a></span> para seu adaptador. Alguns adaptadores Bluetooth não estão suportados em Linux, e por tanto não lhe será possível conseguir os controladores apropriados para eles. Em tal caso, provavelmente tendrá que conseguir outro adaptador Bluetooth diferente.</p></dd>
+<dd class="terms"><p class="p">É possível que o seu computador não tenha reconhecido seu adaptador Bluetooth. Isto pode se dever a que não tenha instalados os <span class="link"><a href="hardware-driver.html.pt" title="Que é um controlador?">controladores</a></span> para seu adaptador. Alguns adaptadores Bluetooth não estão suportados em Linux, e por tanto não lhe será possível conseguir os controladores apropriados para eles. Em tal caso, provavelmente tendrá que conseguir outro adaptador Bluetooth diferente.</p></dd>
 <dt class="terms">O adaptador não está conetado</dt>
-<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Click the
-          Bluetooth icon in the <span class="gui">menu bar</span> and check that it’s not
-          <span class="link"><a href="bluetooth-turn-on-off.html" title="Acender ou apagar o Bluetooth">disabled</a></span>.</p></dd>
+<dd class="terms"><p class="p">Certifique-se de que seu adaptador Bluetooth está acendido. Abar o painel de Bluetooth e comprove que não está <span class="link"><a href="bluetooth-turn-on-off.html.pt" title="Acender ou apagar o Bluetooth">desativado</a></span>.</p></dd>
 <dt class="terms">Conexão do dispositivo Bluetooth apagada</dt>
-<dd class="terms"><p class="p">Verifique que o dispositivo ao que está tentando se ligar tem ativado o Bluetooth e que <span class="link"><a href="bluetooth-visibility.html" title="Que é a visibilidade de Bluetooth?">se pode descobrir ou esteja visível</a></span>. Por exemplo, se está tentando ligar a um tv́fono, comprove que não está em modo avión.</p></dd>
+<dd class="terms"><p class="p">Verifique que o dispositivo ao que está tentando se ligar tem ativado o Bluetooth e que <span class="link"><a href="bluetooth-visibility.html.pt" title="Que é a visibilidade de Bluetooth?">se pode descobrir ou esteja visível</a></span>. Por exemplo, se está tentando ligar a um tv́fono, comprove que não está em modo avión.</p></dd>
 <dt class="terms">Não existe um dispositivo Bluetooth na sua computador</dt>
 <dd class="terms"><p class="p">Muitas computadores não têm adaptadores de Bluetooth. Pode comprar um adaptador se quer usar Bluetooth.</p></dd>
 </dl></div></div></div>
@@ -70,12 +68,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="bluetooth.html#problems" title="Problemas">Problemas do Bluetooth</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="bluetooth.html.pt#problems" title="Problemas">Problemas do Bluetooth</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="Que é um controlador?">Que é um controlador?</a><span class="desc"> — Um controlador de hardware/dispositivo é aquilo que permite o seu computador usar dispositivos que estão ligados a ele.</span>
+<a href="hardware-driver.html.pt" title="Que é um controlador?">Que é um controlador?</a><span class="desc"> — Um controlador de hardware/dispositivo é aquilo que permite o seu computador usar dispositivos que estão ligados a ele.</span>
 </li></ul></div>
 </div></div>
 </div>

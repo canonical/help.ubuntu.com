@@ -43,34 +43,34 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Acessibilidade">Acessibilidade</a> › <a class="trail" href="a11y.html#sound" title="Deficiências auditivas">Deficiências auditivas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.pt-BR" title="Acessibilidade">Acessibilidade</a> › <a class="trail" href="a11y.html.pt-BR#sound" title="Deficiências auditivas">Deficiências auditivas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Piscando a tela para sons de alerta</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Seu computador irá reproduzir um alerta sonoro simples para certos tipos de mensagens e eventos. Se você tem dificuldades em ouvir esses sons, você pode fazer ou a tela toda ou a janela atual piscar visualmente sempre que o alerta sonoro for utilizado.</p>
-<p class="p">Isso pode ser útil também se você estiver em um ambiente em que precise que seu computador seja silencioso, como em uma biblioteca. Veja <span class="link"><a href="sound-alert.html" title="Escolhendo ou desabilitando o alerta sonoro">Escolhendo ou desabilitando o alerta sonoro</a></span> para aprender como emudecer o alerta sonoro e habilite os alertas visuais.</p>
+<p class="p">Isso pode ser útil também se você estiver em um ambiente em que precise que seu computador seja silencioso, como em uma biblioteca. Veja <span class="link"><a href="sound-alert.html.pt-BR" title="Escolhendo ou desabilitando o alerta sonoro">Escolhendo ou desabilitando o alerta sonoro</a></span> para aprender como emudecer o alerta sonoro e habilite os alertas visuais.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Acessibilidade</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Acessibilidade</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Acessibilidade</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Pressione <span class="gui">Alertas visuais</span> na seção <span class="gui">Audição</span>.</p></li>
 <li class="steps"><p class="p">Alterne <span class="gui">Alertas visuais</span> para <span class="key"><kbd>❙</kbd></span>.</p></li>
 <li class="steps"><p class="p">Selecione se você deseja que a tela inteira ou apenas o título da janela atual pisque.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Você pode (des)ativar rapidamente os alertas visuais clicando no <span class="link"><a href="a11y-icon.html" title="Localizando o menu de acessibilidade">ícone de acessibilidade</a></span> na barra superior e selecionando <span class="gui">Alertas visuais</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Você pode (des)ativar rapidamente os alertas visuais clicando no <span class="link"><a href="a11y-icon.html.pt-BR" title="Localizando o menu de acessibilidade">ícone de acessibilidade</a></span> na barra superior e selecionando <span class="gui">Alertas visuais</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#sound" title="Deficiências auditivas">Deficiências auditivas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.pt-BR#sound" title="Deficiências auditivas">Deficiências auditivas</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-alert.html" title="Escolhendo ou desabilitando o alerta sonoro">Escolhendo ou desabilitando o alerta sonoro</a><span class="desc"> — Escolha o som a tocar para mensagens, configurar o volume de alerta ou desabilitar alertas sonoros.</span>
+<a href="sound-alert.html.pt-BR" title="Escolhendo ou desabilitando o alerta sonoro">Escolhendo ou desabilitando o alerta sonoro</a><span class="desc"> — Escolha o som a tocar para mensagens, configurar o volume de alerta ou desabilitar alertas sonoros.</span>
 </li></ul></div>
 </div></div>
 </div>

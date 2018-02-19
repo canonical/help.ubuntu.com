@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Tipy a triky">Tipy a triky</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.cs" title="Tipy a triky">Tipy a triky</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Snímky a videonahrávky obrazovky</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Pořídit snímek obrazovky</span></h2></div>
 <div class="region">
 <div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Z přehledu <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> otevřete aplikaci <span class="app">Snímek obrazovky</span>.</p></li>
+<li class="steps"><p class="p">Z přehledu <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> otevřete aplikaci <span class="app">Snímek obrazovky</span>.</p></li>
 <li class="steps"><p class="p">V okně <span class="app">Snímek obrazovky</span> vyberte, jestli chcete zachytit celou obrazovku, aktuální okno nebo nějakou oblast obrazovky. Nastavte si prodlevu v případě, že potřebujete čas na vybrání okna nebo nějaké nastavení uživatelského prostředí před pořízením snímku. Dále může zvolit některé z efektů.</p></li>
 <li class="steps">
 <p class="p">Klikněte na <span class="gui">Zachytit snímek obrazovky</span>.</p>
@@ -100,7 +100,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Tipy a triky">Tipy a triky</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Zadávání speciálních znaků">Speciální znaky</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Kliknutí prostředním tlačítkem">klávesové zkratky s prostředním tlačítkem</a></span>…</span>
+<a href="tips.html.cs" title="Tipy a triky">Tipy a triky</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.cs" title="Zadávání speciálních znaků">Speciální znaky</a></span>, <span class="link"><a href="mouse-middleclick.html.cs" title="Kliknutí prostředním tlačítkem">klávesové zkratky s prostředním tlačítkem</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

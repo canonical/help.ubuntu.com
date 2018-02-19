@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="power.html" title="Napajanje in baterija">Napajanje in baterija</a> › <a class="trail" href="power.html#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="power.html.sl" title="Napajanje in baterija">Napajanje in baterija</a> › <a class="trail" href="power.html.sl#saving" title="Power saving settings">Power saving settings</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="power.html" title="Napajanje in baterija">Napajanje in baterija</a> › <a class="trail" href="power.html#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="power.html.sl" title="Napajanje in baterija">Napajanje in baterija</a> › <a class="trail" href="power.html.sl#saving" title="Power saving settings">Power saving settings</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html#problems" title="Pogoste težave">Težave</a> » <a class="trail" href="hardware-problems-graphics.html" title="Težave z zaslonom">Težave z zaslonom</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html.sl#problems" title="Pogoste težave">Težave</a> » <a class="trail" href="hardware-problems-graphics.html.sl" title="Težave z zaslonom">Težave z zaslonom</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
   computer again, the screen will brighten.</p>
 <p class="p">To stop the screen from dimming itself:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span>
       overview and start typing <span class="gui">Power</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Dim screen when inactive</span> to <span class="gui">OFF</span> in the <span class="gui">Power
@@ -73,9 +73,9 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="power.html#saving" title="Power saving settings">Power saving settings</a></li>
+<li class="links "><a href="power.html.sl#saving" title="Power saving settings">Power saving settings</a></li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Težave z zaslonom">Težave z zaslonom</a><span class="desc"> — Odpravljanje težav z zaslonom in grafiko.</span>
+<a href="hardware-problems-graphics.html.sl" title="Težave z zaslonom">Težave z zaslonom</a><span class="desc"> — Odpravljanje težav z zaslonom in grafiko.</span>
 </li>
 </ul></div>
 </div></div>
@@ -83,13 +83,13 @@
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batterylife.html" title="Poraba manjše količine energije in podaljšanje trajanja baterije">Poraba manjše količine energije in podaljšanje trajanja baterije</a><span class="desc"> — Namigi za zmanjšanje porabe vašega računalnika.</span>
+<a href="power-batterylife.html.sl" title="Poraba manjše količine energije in podaljšanje trajanja baterije">Poraba manjše količine energije in podaljšanje trajanja baterije</a><span class="desc"> — Namigi za zmanjšanje porabe vašega računalnika.</span>
 </li>
 <li class="links ">
-<a href="display-blank.html" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Change the screen blanking time to save power.</span>
+<a href="display-blank.html.sl" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Change the screen blanking time to save power.</span>
 </li>
 <li class="links ">
-<a href="display-brightness.html" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
+<a href="display-brightness.html.sl" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
     light.</span>
 </li>
 </ul></div>

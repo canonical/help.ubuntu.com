@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="mouse.html" title="Ratón">Ratón</a> › <a class="trail" href="mouse.html#tips" title="Consejos">Consejos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="mouse.html.es" title="Ratón">Ratón</a> › <a class="trail" href="mouse.html.es#tips" title="Consejos">Consejos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="mouse.html" title="Ratón">Ratón</a> › <a class="trail" href="mouse.html#tips" title="Consejos">Consejos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="mouse.html.es" title="Ratón">Ratón</a> › <a class="trail" href="mouse.html.es#tips" title="Consejos">Consejos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="tips.html" title="Trucos y consejos">Trucos y consejos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="tips.html.es" title="Trucos y consejos">Trucos y consejos</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Muchos ratones y algunos «touchpads» tienen un botón central. En ratones que disponen de rueda de desplazamiento, a veces puede presionar la rueda directamente para hacer una pulsación de botón central. Si no dispone de botón central, puede emularlo pulsando los botones izquierdo y derecho al mismo tiempo.</p>
-<p class="p">En «touchpads» que sean multitáctiles puede pulsar con tres dedos a la vez para realizar una pulsación con el botón del medio. Para que esto funcione, debe activar <span class="link"><a href="mouse-touchpad-click.html" title="Pulsar, arrastrar o desplazarse con el «touchpad»">Activar pulsaciones del ratón con el touchpad</a></span> en la configuración del «touchpad».</p>
+<p class="p">En «touchpads» que sean multitáctiles puede pulsar con tres dedos a la vez para realizar una pulsación con el botón del medio. Para que esto funcione, debe activar <span class="link"><a href="mouse-touchpad-click.html.es" title="Pulsar, arrastrar o desplazarse con el «touchpad»">Activar pulsaciones del ratón con el touchpad</a></span> en la configuración del «touchpad».</p>
 <p class="p">Muchas aplicaciones usan la pulsación central para atajos de pulsación avanzados.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
@@ -76,9 +76,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="mouse.html#tips" title="Consejos">Sugerencias acerca del ratón</a></li>
+<li class="links "><a href="mouse.html.es#tips" title="Consejos">Sugerencias acerca del ratón</a></li>
 <li class="links ">
-<a href="tips.html" title="Trucos y consejos">Trucos y consejos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Insertar caracteres especiales">Caracteres especiales</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Pulsación central">atajos del botón del medio</a></span>…</span>
+<a href="tips.html.es" title="Trucos y consejos">Trucos y consejos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.es" title="Insertar caracteres especiales">Caracteres especiales</a></span>, <span class="link"><a href="mouse-middleclick.html.es" title="Pulsación central">atajos del botón del medio</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -43,27 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.zh-CN" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html.zh-CN#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">文件属性</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">要查看有关文件或文件夹的信息，请右键单击文件或文件夹，然后选择<span class="gui">属性</span>。也可先选择文件再按 <span class="guiseq"><span class="gui">Alt</span> ▸ <span class="gui">回车键</span></span>。</p>
-<p class="p">文件属性窗口用于显示文件类型、文件大小和上次文件修改时间之类的信息。如果常需要了解这些信息，则可将其显示在<span class="link"><a href="nautilus-list.html" title="Files list columns preferences">列表视图列</a></span>或<span class="link"><a href="nautilus-display.html#icon-captions" title="图标标题">图标标题</a></span>中。</p>
-<p class="p">显示在<span class="gui">基本</span>选项卡中的信息的说明如下。其中也有<span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="设定文件权限">权限</a></span></span>和<span class="gui"><span class="link"><a href="files-open.html#default" title="更改默认打开方式">打开方式</a></span></span>选项卡。对于某些类型的文件(如图像和视频)，会多显示一个标签，其中有尺寸、持续时间和编码之类的信息。</p>
+<p class="p">文件属性窗口用于显示文件类型、文件大小和上次文件修改时间之类的信息。如果常需要了解这些信息，则可将其显示在<span class="link"><a href="nautilus-list.html.zh-CN" title="Files list columns preferences">列表视图列</a></span>或<span class="link"><a href="nautilus-display.html.zh-CN#icon-captions" title="图标标题">图标标题</a></span>中。</p>
+<p class="p">显示在<span class="gui">基本</span>选项卡中的信息的说明如下。其中也有<span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.zh-CN" title="设定文件权限">权限</a></span></span>和<span class="gui"><span class="link"><a href="files-open.html.zh-CN#default" title="更改默认打开方式">打开方式</a></span></span>选项卡。对于某些类型的文件(如图像和视频)，会多显示一个标签，其中有尺寸、持续时间和编码之类的信息。</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">基本属性</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Name</span></dt>
-<dd class="terms"><p class="p">可通过更改此字段重命名文件。也可在属性窗口外重命名文件。请参阅<span class="link"><a href="files-rename.html" title="重命名文件或文件夹">重命名文件或文件夹</a></span>。</p></dd>
+<dd class="terms"><p class="p">可通过更改此字段重命名文件。也可在属性窗口外重命名文件。请参阅<span class="link"><a href="files-rename.html.zh-CN" title="重命名文件或文件夹">重命名文件或文件夹</a></span>。</p></dd>
 <dt class="terms"><span class="gui">Type</span></dt>
 <dd class="terms">
 <p class="p">This helps you identify the type of the file, such as PDF document,
     OpenDocument Text, or JPEG image. The file type determines which
     applications can open the file, among other things. For example, you
-    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="用其他程序打开文件">用其他程序打开文件</a></span>
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html.zh-CN" title="用其他程序打开文件">用其他程序打开文件</a></span>
     for more information on this.</p>
 <p class="p">文件的<span class="em">MIME 类型</span>显示在括号里，MIME 类型是计算机用于指示文件类型的标准方法。</p>
 </dd>
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.zh-CN#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="设定文件权限">设定文件权限</a><span class="desc"> — 控制哪些人能查看和编辑您的文件和文件夹。</span>
+<a href="nautilus-file-properties-permissions.html.zh-CN" title="设定文件权限">设定文件权限</a><span class="desc"> — 控制哪些人能查看和编辑您的文件和文件夹。</span>
 </li></ul></div>
 </div></div>
 </div>

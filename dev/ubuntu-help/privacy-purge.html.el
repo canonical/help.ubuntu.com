@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="privacy.html" title="Ρυθμίσεις ιδιωτικότητας">Ρυθμίσεις ιδιωτικότητας</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="privacy.html.el" title="Ρυθμίσεις ιδιωτικότητας">Ρυθμίσεις ιδιωτικότητας</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Αυτόματη εκκαθάριση των απορριμμάτων και προσωρινών αρχείων</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ιδιωτικότητα</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ιδιωτικότητα</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ιδιωτικότητα</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Επιλέξτε <span class="gui">Καθαρισμός απορριμμάτων &amp; προσωρινών αρχείων</span>.</p></li>
 <li class="steps"><p class="p">Ορίστε έναν ή και τους δύο διακόπτες <span class="gui">Αυτόματη εκκαθάριση απορριμμάτων</span> ή <span class="gui">Αυτόματη εκκαθάριση προσωρινών αρχείων</span> σε <span class="gui">ΝΑΙ</span>.</p></li>
@@ -66,16 +66,16 @@
 <li class="steps"><p class="p">Χρησιμοποιήστε τα κουμπιά <span class="gui">Άδειασμα απορριμμάτων</span> ή <span class="gui">Εκκαθάριση προσωρινών αρχείων</span> για να εκτελέσετε αυτές τις ενέργειες άμεσα.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Μπορείτε να διαγράψετε αρχεία μόνιμα και κατευθείαν χωρίς να χρησιμοποιήσετε τα απορρίμματα. Για περισσότερες πληροφορίες, δείτε <span class="link"><a href="files-delete.html#permanent" title="Μόνιμη διαγραφή ενός αρχείου">Μόνιμη διαγραφή ενός αρχείου</a></span>.</p></div></div></div></div>
+<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Μπορείτε να διαγράψετε αρχεία μόνιμα και κατευθείαν χωρίς να χρησιμοποιήσετε τα απορρίμματα. Για περισσότερες πληροφορίες, δείτε <span class="link"><a href="files-delete.html.el#permanent" title="Μόνιμη διαγραφή ενός αρχείου">Μόνιμη διαγραφή ενός αρχείου</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a></li>
+<li class="links "><a href="files.html.el#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a></li>
 <li class="links ">
-<a href="privacy.html" title="Ρυθμίσεις ιδιωτικότητας">Ρυθμίσεις ιδιωτικότητας</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Αυτόματο κλείδωμα της οθόνης">Κλείδωμα οθόνης</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Απενεργοποιήστε ή περιορίστε την ανίχνευση του ιστορικού αρχείων">Χρήση ιστορικού</a></span>, <span class="link"><a href="privacy-purge.html" title="Εκκαθάριση απορριμμάτων &amp; προσωρινών αρχείων">Εκκαθάριση απορριμμάτων &amp; προσωρινών αρχείων</a></span>…</span>
+<a href="privacy.html.el" title="Ρυθμίσεις ιδιωτικότητας">Ρυθμίσεις ιδιωτικότητας</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.el" title="Αυτόματο κλείδωμα της οθόνης">Κλείδωμα οθόνης</a></span>, <span class="link"><a href="privacy-history-recent-off.html.el" title="Απενεργοποιήστε ή περιορίστε την ανίχνευση του ιστορικού αρχείων">Χρήση ιστορικού</a></span>, <span class="link"><a href="privacy-purge.html.el" title="Εκκαθάριση απορριμμάτων &amp; προσωρινών αρχείων">Εκκαθάριση απορριμμάτων &amp; προσωρινών αρχείων</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

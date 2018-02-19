@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="color.html" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html#calibration" title="Kalibrering">Kalibrering</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="color.html.sv" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html.sv#calibration" title="Kalibrering">Kalibrering</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="color.html" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html#calibration" title="Kalibrering">Kalibrering</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="color.html.sv" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html.sv#calibration" title="Kalibrering">Kalibrering</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -63,19 +63,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Kalibrering">Kalibrering</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.sv#calibration" title="Kalibrering">Kalibrering</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Hur associerar jag färgprofiler till enheter?">Hur associerar jag färgprofiler till enheter?</a><span class="desc"> — I <span class="guiseq"><span class="gui">Inställningar</span> ▸ <span class="gui">Färg</span></span> kan du lägga till en färgprofil för din skärm.</span>
+<a href="color-assignprofiles.html.sv" title="Hur associerar jag färgprofiler till enheter?">Hur associerar jag färgprofiler till enheter?</a><span class="desc"> — I <span class="guiseq"><span class="gui">Inställningar</span> ▸ <span class="gui">Färg</span></span> kan du lägga till en färgprofil för din skärm.</span>
 </li>
 <li class="links ">
-<a href="color-notifications.html" title="Kan jag bli aviserad när min färgprofil är felaktig?">Kan jag bli aviserad när min färgprofil är felaktig?</a><span class="desc"> — Du kan bli aviserad om din färgprofil är gammal och otillförlitlig.</span>
+<a href="color-notifications.html.sv" title="Kan jag bli aviserad när min färgprofil är felaktig?">Kan jag bli aviserad när min färgprofil är felaktig?</a><span class="desc"> — Du kan bli aviserad om din färgprofil är gammal och otillförlitlig.</span>
 </li>
 <li class="links ">
-<a href="color-gettingprofiles.html" title="Var får jag tag på färgprofiler?">Var får jag tag på färgprofiler?</a><span class="desc"> — Färgprofiler tillhandahålls av tillverkare men du kan också generera dem själv.</span>
+<a href="color-gettingprofiles.html.sv" title="Var får jag tag på färgprofiler?">Var får jag tag på färgprofiler?</a><span class="desc"> — Färgprofiler tillhandahålls av tillverkare men du kan också generera dem själv.</span>
 </li>
 </ul></div>
 </div></div>

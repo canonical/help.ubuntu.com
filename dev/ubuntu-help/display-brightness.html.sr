@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="prefs-display.html" title="Дисплеј и екран">Дисплеј и екран</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="prefs-display.html.sr" title="Дисплеј и екран">Дисплеј и екран</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="hardware-problems-graphics.html" title="Проблеми екрана">Проблеми екрана</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html.sr#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="hardware-problems-graphics.html.sr" title="Проблеми екрана">Проблеми екрана</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,19 +54,19 @@
 <div class="region">
 <div class="contents">
 <p class="p">У зависности од вашег хардвера, можете да измените осветљеност екрана због уштеде енергије или да учините екран читљивијим при јаком светлу.</p>
-<p class="p">Да измените осветљеност екрана, отворите <span class="gui"><a href="shell-terminology.html" title="shell-terminology">системски изборник</a></span> на десној страни горње траке и подесите клизач осветљености екрана на вредност која вам одговара. Промена ће одмах ступити у дејство.</p>
+<p class="p">Да измените осветљеност екрана, отворите <span class="gui"><a href="shell-terminology.html.sr" title="shell-terminology">системски изборник</a></span> на десној страни горње траке и подесите клизач осветљености екрана на вредност која вам одговара. Промена ће одмах ступити у дејство.</p>
 <div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Многе тастатуре преносних рачунара имају посебне тастере за подешавање осветљења. На њима се често налази сличица налик сунцу. Држите притиснутим тастер <span class="key"><kbd>Фн</kbd></span> да користите тај тастер.</p></div></div></div></div>
 <p class="p">Можете такође да подесите осветљење екрана користећи панел <span class="gui">напајања</span>.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Да подесите осветљеност екрана користећи панел напајања:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Напајање</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Напајање</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Напајање</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Подесите клизач <span class="gui">осветљења екрана</span> на вредност која вам одговара. Промена ће одмах ступити у дејство.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Ако ваш рачунар има уграђени сензор светла, осветљеност екрана ће сама по себи бити подешена. Ово можете да искључите у панелу <span class="gui">напајања</span>.</p></div></div></div></div>
-<p class="p">Ако је могуће подешавање осветљености вашег екрана, можете такође да подесите да се екран сам затамни када рачунар мирује како бисте уштедели напајање. За више о томе, видите <span class="link"><a href="power-whydim.html" title="Зашто се екран затамни након неког времена?">Зашто се екран затамни након неког времена?</a></span>.</p>
+<p class="p">Ако је могуће подешавање осветљености вашег екрана, можете такође да подесите да се екран сам затамни када рачунар мирује како бисте уштедели напајање. За више о томе, видите <span class="link"><a href="power-whydim.html.sr" title="Зашто се екран затамни након неког времена?">Зашто се екран затамни након неког времена?</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -75,10 +75,10 @@
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Дисплеј и екран">Дисплеј и екран</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Измените радну површ и закључајте позадине екрана">Позадина</a></span>, <span class="link"><a href="look-resolution.html" title="Измените резолуцију или окренутост екрана">величина и ротација</a></span>, осветљеност…</span>
+<a href="prefs-display.html.sr" title="Дисплеј и екран">Дисплеј и екран</a><span class="desc"> — <span class="link"><a href="look-background.html.sr" title="Измените радну површ и закључајте позадине екрана">Позадина</a></span>, <span class="link"><a href="look-resolution.html.sr" title="Измените резолуцију или окренутост екрана">величина и ротација</a></span>, осветљеност…</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Проблеми екрана">Проблеми екрана</a><span class="desc"> — Решите проблеме екрана и графике.</span>
+<a href="hardware-problems-graphics.html.sr" title="Проблеми екрана">Проблеми екрана</a><span class="desc"> — Решите проблеме екрана и графике.</span>
 </li>
 </ul></div>
 </div></div>
@@ -86,16 +86,16 @@
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-whydim.html" title="Зашто се екран затамни након неког времена?">Зашто се екран затамни након неког времена?</a><span class="desc"> — Екран ће се затамнити када рачунар мирује да би сачувао енергију.</span>
+<a href="power-whydim.html.sr" title="Зашто се екран затамни након неког времена?">Зашто се екран затамни након неког времена?</a><span class="desc"> — Екран ће се затамнити када рачунар мирује да би сачувао енергију.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Користите мање напајања и побољшајте радни век батерије">Користите мање напајања и побољшајте радни век батерије</a><span class="desc"> — Савети за смањење потрошње напајања вашег рачунара.</span>
+<a href="power-batterylife.html.sr" title="Користите мање напајања и побољшајте радни век батерије">Користите мање напајања и побољшајте радни век батерије</a><span class="desc"> — Савети за смањење потрошње напајања вашег рачунара.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="Подесите контраст">Подесите контраст</a><span class="desc"> — Учините прозоре и дугмад на екрану јаснијим (или мање), тако да буду лакше виђени.</span>
+<a href="a11y-contrast.html.sr" title="Подесите контраст">Подесите контраст</a><span class="desc"> — Учините прозоре и дугмад на екрану јаснијим (или мање), тако да буду лакше виђени.</span>
 </li>
 <li class="links ">
-<a href="power-autobrightness.html" title="Укључите аутоматско осветљење">Укључите аутоматско осветљење</a><span class="desc"> — Аутоматски управљајте осветљењем екрана да смањите потрошњу батерије.</span>
+<a href="power-autobrightness.html.sr" title="Укључите аутоматско осветљење">Укључите аутоматско осветљење</a><span class="desc"> — Аутоматски управљајте осветљењем екрана да смањите потрошњу батерије.</span>
 </li>
 </ul></div>
 </div></div>

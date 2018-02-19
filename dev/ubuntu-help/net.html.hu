@@ -43,55 +43,55 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hálózatok, web és e-mail</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html" title="Csatlakozás vezeték nélküli hálózatra">Kapcsolódás Wi-Fi-hez</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Kapcsolódás rejtett vezeték nélküli hálózathoz">Rejtett hálózatok</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Miért bontja folyamatosan a kapcsolatot a vezeték nélküli hálózatom?">Kapcsolatbontás</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wireless.html.hu" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.hu" title="Csatlakozás vezeték nélküli hálózatra">Kapcsolódás Wi-Fi-hez</a></span>, <span class="link"><a href="net-wireless-hidden.html.hu" title="Kapcsolódás rejtett vezeték nélküli hálózathoz">Rejtett hálózatok</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.hu" title="Miért bontja folyamatosan a kapcsolatot a vezeték nélküli hálózatom?">Kapcsolatbontás</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-security.html" title="Biztonság az interneten">Biztonság az interneten</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html" title="Szükségem van vírusirtóra?">Vírusirtó szoftverek</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Tűzfal-hozzáférés engedélyezése és blokkolása">alapszintű tűzfalak</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Gyakran használt hálózati portok">tűzfalportok</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-security.html.hu" title="Biztonság az interneten">Biztonság az interneten</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html.hu" title="Szükségem van vírusirtóra?">Vírusirtó szoftverek</a></span>, <span class="link"><a href="net-firewall-on-off.html.hu" title="Tűzfal-hozzáférés engedélyezése és blokkolása">alapszintű tűzfalak</a></span>, <span class="link"><a href="net-firewall-ports.html.hu" title="Gyakran használt hálózati portok">tűzfalportok</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-chat.html" title="Csevegés és közösségi hálózatok">Csevegés és közösségi hálózatok</a></div>
+<div class="links-grid-link"><a href="net-chat.html.hu" title="Csevegés és közösségi hálózatok">Csevegés és közösségi hálózatok</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-chat-empathy.html" title="Azonnali üzenetek az Ubuntun">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Videohívások">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Hogyan használhatom a Skype-ot Ubuntun?">install skype</a></span>
+      <span class="link"><a href="net-chat-empathy.html.hu" title="Azonnali üzenetek az Ubuntun">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.hu" title="Videohívások">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.hu" title="Hogyan használhatom a Skype-ot Ubuntun?">install skype</a></span>
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-email.html" title="E-mail és levelezőprogramok">E-mail és levelezőprogramok</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-default-email.html" title="Az e-mailek írására használt levelezőkliens megváltoztatása">Alapértelmezett levelezőalkalmazás</a></span>, <span class="link"><a href="net-email-virus.html" title="Kell vírusokat keresnem az e-mailjeimben?">Kell-e vírust keresnem?</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-email.html.hu" title="E-mail és levelezőprogramok">E-mail és levelezőprogramok</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-email.html.hu" title="Az e-mailek írására használt levelezőkliens megváltoztatása">Alapértelmezett levelezőalkalmazás</a></span>, <span class="link"><a href="net-email-virus.html.hu" title="Kell vírusokat keresnem az e-mailjeimben?">Kell-e vírust keresnem?</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-problem.html" title="Hálózati problémák">Hálózati problémák</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli kapcsolatok hibaelhárítása</a></span>, <span class="link"><a href="net-wireless-find.html" title="Nem látom a vezeték nélküli hálózatomat a listán">Wi-Fi hálózat megtalálása</a></span>.</span></div>
+<div class="links-grid-link"><a href="net-problem.html.hu" title="Hálózati problémák">Hálózati problémák</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli kapcsolatok hibaelhárítása</a></span>, <span class="link"><a href="net-wireless-find.html.hu" title="Nem látom a vezeték nélküli hálózatomat a listán">Wi-Fi hálózat megtalálása</a></span>.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-general.html" title="Hálózatkezelés és tippek">Hálózatkezelés és tippek</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html" title="IP-címének meghatározása">IP-cím meghatározása</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Mit jelent a WEP és WPA?">WEP és WPA biztonság</a></span>, <span class="link"><a href="net-macaddress.html" title="Mi az a MAC-cím?">MAC-címek</a></span>, <span class="link"><a href="net-proxy.html" title="Proxy beállításainak megadása">proxyk</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-general.html.hu" title="Hálózatkezelés és tippek">Hálózatkezelés és tippek</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.hu" title="IP-címének meghatározása">IP-cím meghatározása</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.hu" title="Mit jelent a WEP és WPA?">WEP és WPA biztonság</a></span>, <span class="link"><a href="net-macaddress.html.hu" title="Mi az a MAC-cím?">MAC-címek</a></span>, <span class="link"><a href="net-proxy.html.hu" title="Proxy beállításainak megadása">proxyk</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="sharing.html" title="Megosztás">Megosztás</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html" title="Az asztal megosztása">Asztalmegosztás</a></span>, <span class="link"><a href="files-share.html" title="Fájlok megosztása e-mailben">Fájlok megosztása e-mailben</a></span>, <span class="link"><a href="sharing-media.html" title="Zene, fényképek és videók megosztása">Médiamegosztás</a></span>…</span></div>
+<div class="links-grid-link"><a href="sharing.html.hu" title="Megosztás">Megosztás</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html.hu" title="Az asztal megosztása">Asztalmegosztás</a></span>, <span class="link"><a href="files-share.html.hu" title="Fájlok megosztása e-mailben">Fájlok megosztása e-mailben</a></span>, <span class="link"><a href="sharing-media.html.hu" title="Zene, fényképek és videók megosztása">Médiamegosztás</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="contacts.html" title="Névjegyek">Névjegyek</a></div>
+<div class="links-grid-link"><a href="contacts.html.hu" title="Névjegyek">Névjegyek</a></div>
 <div class="desc"><span class="desc">Névjegyek elérése.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html" title="Vezetékes kapcsolatok">Vezetékes kapcsolatok</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html" title="Csatlakozás vezetékes (Ethernet) hálózathoz">Vezetékes internetkapcsolatok</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Statikus IP-címet használó kapcsolat létrehozása">rögzített IP-címek</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wired.html.hu" title="Vezetékes kapcsolatok">Vezetékes kapcsolatok</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.hu" title="Csatlakozás vezetékes (Ethernet) hálózathoz">Vezetékes internetkapcsolatok</a></span>, <span class="link"><a href="net-fixed-ip-address.html.hu" title="Statikus IP-címet használó kapcsolat létrehozása">rögzített IP-címek</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html" title="Webböngészők">Webböngészők</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html" title="A webhelyeket alapesetben megnyitó webböngésző megváltoztatása">Az alapértelmezett böngésző megváltoztatása</a></span>, <span class="link"><a href="net-install-flash.html" title="Flash bővítmény telepítése">Flash telepítése</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-browser.html.hu" title="Webböngészők">Webböngészők</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.hu" title="A webhelyeket alapesetben megnyitó webböngésző megváltoztatása">Az alapértelmezett böngésző megváltoztatása</a></span>, <span class="link"><a href="net-install-flash.html.hu" title="Flash bővítmény telepítése">Flash telepítése</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -99,11 +99,11 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu felhasználói kézikönyv">Ubuntu felhasználói kézikönyv</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.hu" title="Ubuntu felhasználói kézikönyv">Ubuntu felhasználói kézikönyv</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-get-online.html" title="Kapcsolódás a hálózatra">Útmutató az internetre kapcsolódáshoz</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-get-online.html.hu" title="Kapcsolódás a hálózatra">Útmutató az internetre kapcsolódáshoz</a></li></ul></div>
 </div></div>
 </div>
 </div>

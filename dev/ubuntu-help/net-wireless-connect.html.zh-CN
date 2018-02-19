@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="无线网络">无线网络</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.zh-CN" title="无线网络">无线网络</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">连接到一个无线网络</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">如果您的计算机启用了无线，则可在处于无线网线覆盖范围时连接到该网络，以访问 Internet、查看网络上的共享文件以及执行其他操作。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="您和您的计算机">system menu</a></span> from the right
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#yourname" title="您和您的计算机">system menu</a></span> from the right
     side of the top bar.</p></li>
 <li class="steps"><p class="p">Select
     <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>
@@ -63,10 +63,10 @@
 <p class="p">If the name of the network is not in the list, try clicking
     <span class="gui">More</span> to see if the network is further down the list. If you 
     still do not see the network, you may be out of range, or the network
-    <span class="link"><a href="net-wireless-hidden.html" title="连接到一个隐藏的无线网络">might be hidden</a></span>.</p>
+    <span class="link"><a href="net-wireless-hidden.html.zh-CN" title="连接到一个隐藏的无线网络">might be hidden</a></span>.</p>
 </li>
 <li class="steps">
-<p class="p">如果网络受到(<span class="link"><a href="net-wireless-wepwpa.html" title="WEP 和 WPA 是什么意思？">密码</a></span>)保护，请在出现提示时输入密码并单击<span class="gui">连接</span>。</p>
+<p class="p">如果网络受到(<span class="link"><a href="net-wireless-wepwpa.html.zh-CN" title="WEP 和 WPA 是什么意思？">密码</a></span>)保护，请在出现提示时输入密码并单击<span class="gui">连接</span>。</p>
 <p class="p">If you do not know the key, it may be written on the underside of the
     wireless router or base station, or in its instruction manual, or you may
     have to ask the person who administers the wireless network.</p>
@@ -83,7 +83,7 @@
   There are a number of things that could have caused this to happen. You could
   have entered the wrong password, the wireless signal could be too weak, or
   your computer’s wireless card might have a problem, for example. See
-  <span class="link"><a href="net-wireless-troubleshooting.html" title="无线网络故障排除">无线网络故障排除</a></span> for more help.</p>
+  <span class="link"><a href="net-wireless-troubleshooting.html.zh-CN" title="无线网络故障排除">无线网络故障排除</a></span> for more help.</p>
 <p class="p">较强的无线网络连接并不一定意味着Internet 连接速度更快，或者您的下载速度更快。无线连接将您的计算机连接到<span class="em">提供 Internet 连接</span>的设备(如路由器或调制解调器)，但设备本身所提供无线信号的强度与网速无关。</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -92,10 +92,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="无线网络">无线网络</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="连接到一个无线网络">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="连接到一个隐藏的无线网络">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="为什么我的无线网络总是断开？">Disconnecting</a></span>…
+<a href="net-wireless.html.zh-CN" title="无线网络">无线网络</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.zh-CN" title="连接到一个无线网络">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.zh-CN" title="连接到一个隐藏的无线网络">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.zh-CN" title="为什么我的无线网络总是断开？">Disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -103,10 +103,10 @@
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless-disconnecting.html" title="为什么我的无线网络总是断开？">为什么我的无线网络总是断开？</a><span class="desc"> — 可能是信号太弱，或者网络没有正确的连接。</span>
+<a href="net-wireless-disconnecting.html.zh-CN" title="为什么我的无线网络总是断开？">为什么我的无线网络总是断开？</a><span class="desc"> — 可能是信号太弱，或者网络没有正确的连接。</span>
 </li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html" title="无线网络故障排除">无线网络故障排除</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.zh-CN" title="无线网络故障排除">无线网络故障排除</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#common-file-tasks" title="Tareas comunes">Tareas comunes</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#common-file-tasks" title="Tareas comunes">Tareas comunes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ordenar archivos y carpetas</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Puede ordenar los archivos de una carpeta de diferentes formas; por ejemplo, por fecha o tamaño. Consulte la <span class="link"><a href="#ways" title="Maneras de ordenar archivos">Maneras de ordenar archivos</a></span>para ver una lista de formas habituales de ordenar archivos. Consulte la <span class="link"><a href="nautilus-views.html" title="Preferencias de vistas en Archivos">Preferencias de vistas en <span class="app">Archivos</span></a></span> para obtener información sobre cómo cambiar la ordenación predeterminada.</p>
+<p class="p">Puede ordenar los archivos de una carpeta de diferentes formas; por ejemplo, por fecha o tamaño. Consulte la <span class="link"><a href="#ways" title="Maneras de ordenar archivos">Maneras de ordenar archivos</a></span>para ver una lista de formas habituales de ordenar archivos. Consulte la <span class="link"><a href="nautilus-views.html.es" title="Preferencias de vistas en Archivos">Preferencias de vistas en <span class="app">Archivos</span></a></span> para obtener información sobre cómo cambiar la ordenación predeterminada.</p>
 <p class="p">La forma en la que ordene los archivos dependerá de la <span class="em">vista de carpeta</span> que esté usando. Puede cambiar la vista actual usando los botones de lista o de icono en la barra de herramientas.</p>
 </div>
 <div id="icon-view" class="sect"><div class="inner">
@@ -64,7 +64,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Vista de lista</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Para ordenar los archivos de forma diferente, pulse en una de las cabeceras de las columnas en el gestor de archivos. Por ejemplo, pulse en <span class="gui">Tipo</span> para ordenar por tipo de archivo. Pulse de nuevo en la cabecera de la columna para ordenar en orden inverso.</p>
-<p class="p">En la vista de lista, puede mostrar las columnas con más atributos y ordenar por estas columnas. Pulse en el botón de opciones de la vista en la barra de herramientas, elija <span class="gui">Columnas visibles…</span> y seleccione las columnas que quiere que sean visibles. A continuación, podrá ordenar por esas columnas. Consulte la <span class="link"><a href="nautilus-list.html" title="Preferencias de las columnas en la lista de archivos">Preferencias de las columnas en la lista de archivos</a></span> para obtener las descripciones de las columnas disponibles.</p>
+<p class="p">En la vista de lista, puede mostrar las columnas con más atributos y ordenar por estas columnas. Pulse en el botón de opciones de la vista en la barra de herramientas, elija <span class="gui">Columnas visibles…</span> y seleccione las columnas que quiere que sean visibles. A continuación, podrá ordenar por esas columnas. Consulte la <span class="link"><a href="nautilus-list.html.es" title="Preferencias de las columnas en la lista de archivos">Preferencias de las columnas en la lista de archivos</a></span> para obtener las descripciones de las columnas disponibles.</p>
 </div></div>
 </div></div>
 <div id="ways" class="sect"><div class="inner">
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Tareas comunes">Tareas comunes</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.es#common-file-tasks" title="Tareas comunes">Tareas comunes</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

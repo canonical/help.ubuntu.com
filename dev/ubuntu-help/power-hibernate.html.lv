@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="power.html" title="Barošana un baterija">Barošana un baterija</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="power.html.lv" title="Barošana un baterija">Barošana un baterija</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="power.html" title="Barošana un baterija">Barošana un baterija</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="power.html.lv" title="Barošana un baterija">Barošana un baterija</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Kad dators <span class="em">iemieg</span>, jūsu atvērtās lietotnes un dokumenti tiek saglabāti un dators pilnībā izslēdzas, neizmantojot strāvu, bet nākamajā ieslēgšanas reizē sistēma ar visām lietotnēm un dokumentiem būs pieejama darbam tieši tā, kā jūs to atstājāt.</p>
-<p class="p">Diemžēl iemidzināšana daudzos gadījumos <span class="link"><a href="power-suspendfail.html" title="Kāpēc mans dators neatmostas pēc iesnaudināšanas?">nestrādā</a></span>. Tas var izraisīt datu zaudēšanu, ja sagaidāt, ka pēc datora ieslēgšanas dokumenti un lietotnes atkal atvērsies. Tāpēc pēc noklusējuma iemidzināšanas ir deaktivēta.</p>
+<p class="p">Diemžēl iemidzināšana daudzos gadījumos <span class="link"><a href="power-suspendfail.html.lv" title="Kāpēc mans dators neatmostas pēc iesnaudināšanas?">nestrādā</a></span>. Tas var izraisīt datu zaudēšanu, ja sagaidāt, ka pēc datora ieslēgšanas dokumenti un lietotnes atkal atvērsies. Tāpēc pēc noklusējuma iemidzināšanas ir deaktivēta.</p>
 </div>
 <div id="test-hibernate" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Pārbaudīt, vai iemidzināšana darbojas</span></h2></div>
@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">Jūs varat izmantot komandrindu, lai pārbaudītu, vai uz jūsu datora strādā iemidzināšana.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="app">Termināli</span>, spiežot <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> vai meklējot <span class="input">termināli</span> <span class="gui">panelī</span>.</p></li>
+<li class="steps"><p class="p">Atver <span class="app">Termināļa</span> lietotni <span class="gui">Aktivitāšu</span> pārskatā meklējot <span class="input">terminālis</span>.</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Ievadīt paroli, kad tā tiek prasīta.</p>
@@ -108,13 +108,13 @@ ResultActive=yes</pre></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Barošana un baterija">Barošana un baterija</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Pārbaudīt bateriju statusu">Baterijas status</a></span>, <span class="link"><a href="power-suspend.html" title="Kas notiek, iesnaudinot datoru?">iesnaudināšana</a></span>, <span class="link"><a href="power-whydim.html" title="Kāpēc pēc kāda laika ekrāns kļūst tumšāks?">ekrāna aptumšošana</a></span>…</span>
+<a href="power.html.lv" title="Barošana un baterija">Barošana un baterija</a><span class="desc"> — <span class="link"><a href="power-status.html.lv" title="Pārbaudīt bateriju statusu">Baterijas status</a></span>, <span class="link"><a href="power-suspend.html.lv" title="Kas notiek, iesnaudinot datoru?">iesnaudināšana</a></span>, <span class="link"><a href="power-whydim.html.lv" title="Kāpēc pēc kāda laika ekrāns kļūst tumšāks?">ekrāna aptumšošana</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-suspendfail.html" title="Kāpēc mans dators neatmostas pēc iesnaudināšanas?">Kāpēc mans dators neatmostas pēc iesnaudināšanas?</a><span class="desc"> — Dažu datoru sastāvā ir aparatūra, kas izraisa problēmas ar iesnaudināšanu.</span>
+<a href="power-suspendfail.html.lv" title="Kāpēc mans dators neatmostas pēc iesnaudināšanas?">Kāpēc mans dators neatmostas pēc iesnaudināšanas?</a><span class="desc"> — Dažu datoru sastāvā ir aparatūra, kas izraisa problēmas ar iesnaudināšanu.</span>
 </li></ul></div>
 </div></div>
 </div>

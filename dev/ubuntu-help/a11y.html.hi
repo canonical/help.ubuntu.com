@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Universal access</span></h1></div>
@@ -53,7 +53,7 @@
   various impairments and special needs, and to interact with common assistive
   devices. An accessibility menu can be added to the top bar, giving easier
   access to many of the accessibility features.</p>
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html" title="Find the universal access menu"><span class="title">Find the universal access menu</span><span class="linkdiv-dash"> — </span><span class="desc">The universal access menu is the icon on the top bar that looks like
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.hi" title="Find the universal access menu"><span class="title">Find the universal access menu</span><span class="linkdiv-dash"> — </span><span class="desc">The universal access menu is the icon on the top bar that looks like
     a person.</span></a></div></div></div></div>
 </div>
 <div id="vision" class="sect"><div class="inner">
@@ -63,11 +63,11 @@
 <div class="title title-links"><h3><span class="title">Blindness</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-screen-reader.html" title="Read screen aloud">Read screen aloud</a><span class="desc"> — Use the <span class="app">Orca</span> screen reader to speak the user
+<a href="a11y-screen-reader.html.hi" title="Read screen aloud">Read screen aloud</a><span class="desc"> — Use the <span class="app">Orca</span> screen reader to speak the user
     interface.</span>
 </li>
 <li class="links ">
-<a href="a11y-braille.html" title="Read screen in Braille">Read screen in Braille</a><span class="desc"> — Use the <span class="app">Orca</span> screen reader with a refreshable Braille
+<a href="a11y-braille.html.hi" title="Read screen in Braille">Read screen in Braille</a><span class="desc"> — Use the <span class="app">Orca</span> screen reader with a refreshable Braille
     display.</span>
 </li>
 </ul></div>
@@ -76,17 +76,17 @@
 <div class="title title-links"><h3><span class="title">Low vision</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-contrast.html" title="Adjust the contrast">Adjust the contrast</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
+<a href="a11y-contrast.html.hi" title="Adjust the contrast">Adjust the contrast</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
     they’re easier to see.</span>
 </li>
 <li class="links ">
-<a href="a11y-font-size.html" title="Change text size on the screen">Change text size on the screen</a><span class="desc"> — Use larger fonts to make text easier to read.</span>
+<a href="a11y-font-size.html.hi" title="Change text size on the screen">Change text size on the screen</a><span class="desc"> — Use larger fonts to make text easier to read.</span>
 </li>
 <li class="links ">
-<a href="a11y-mag.html" title="Magnify a screen area">Magnify a screen area</a><span class="desc"> — Zoom in on your screen so that it is easier to see things.</span>
+<a href="a11y-mag.html.hi" title="Magnify a screen area">Magnify a screen area</a><span class="desc"> — Zoom in on your screen so that it is easier to see things.</span>
 </li>
 <li class="links ">
-<a href="keyboard-cursor-blink.html" title="Make the keyboard cursor blink">Make the keyboard cursor blink</a><span class="desc"> — Make the insertion point blink and control how quickly it
+<a href="keyboard-cursor-blink.html.hi" title="Make the keyboard cursor blink">Make the keyboard cursor blink</a><span class="desc"> — Make the insertion point blink and control how quickly it
     blinks.</span>
 </li>
 </ul></div>
@@ -96,7 +96,7 @@
 <div id="sound" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Hearing impairments</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul><li class="links ">
-<a href="a11y-visualalert.html" title="Flash the screen for alert sounds">Flash the screen for alert sounds</a><span class="desc"> — Enable visual alerts to flash the screen or window when an
+<a href="a11y-visualalert.html.hi" title="Flash the screen for alert sounds">Flash the screen for alert sounds</a><span class="desc"> — Enable visual alerts to flash the screen or window when an
     alert sound is played.</span>
 </li></ul></div></div></div></div></div>
 </div></div>
@@ -108,11 +108,11 @@
 <div class="title title-links"><h3><span class="title">Mouse movement</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-sensitivity.html" title="Adjust speed of the mouse and touchpad">Adjust speed of the mouse and touchpad</a><span class="desc"> — Change how quickly the pointer moves when you use your mouse or
+<a href="mouse-sensitivity.html.hi" title="Adjust speed of the mouse and touchpad">Adjust speed of the mouse and touchpad</a><span class="desc"> — Change how quickly the pointer moves when you use your mouse or
     touchpad.</span>
 </li>
 <li class="links ">
-<a href="mouse-mousekeys.html" title="Click and move mouse pointer using the keypad">Click and move mouse pointer using the keypad</a><span class="desc"> — Enable mouse keys to control the mouse with the numeric
+<a href="mouse-mousekeys.html.hi" title="Click and move mouse pointer using the keypad">Click and move mouse pointer using the keypad</a><span class="desc"> — Enable mouse keys to control the mouse with the numeric
     keypad.</span>
 </li>
 </ul></div>
@@ -121,14 +121,14 @@
 <div class="title title-links"><h3><span class="title">Clicking and dragging</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-doubleclick.html" title="Adjust the double-click speed">Adjust the double-click speed</a><span class="desc"> — Control how quickly you need to press the mouse button
+<a href="mouse-doubleclick.html.hi" title="Adjust the double-click speed">Adjust the double-click speed</a><span class="desc"> — Control how quickly you need to press the mouse button
     a second time to double-click.</span>
 </li>
 <li class="links ">
-<a href="a11y-right-click.html" title="Simulate a right mouse click">Simulate a right mouse click</a><span class="desc"> — Press and hold the left mouse button to right-click.</span>
+<a href="a11y-right-click.html.hi" title="Simulate a right mouse click">Simulate a right mouse click</a><span class="desc"> — Press and hold the left mouse button to right-click.</span>
 </li>
 <li class="links ">
-<a href="a11y-dwellclick.html" title="Simulate clicking by hovering">Simulate clicking by hovering</a><span class="desc"> — The <span class="gui">Hover Click</span> (Dwell Click) feature allows you to click
+<a href="a11y-dwellclick.html.hi" title="Simulate clicking by hovering">Simulate clicking by hovering</a><span class="desc"> — The <span class="gui">Hover Click</span> (Dwell Click) feature allows you to click
     by holding the mouse still.</span>
 </li>
 </ul></div>
@@ -137,25 +137,25 @@
 <div class="title title-links"><h3><span class="title">Keyboard use</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-nav.html" title="Keyboard navigation">Keyboard navigation</a><span class="desc"> — Use applications and the desktop without a mouse.</span>
+<a href="keyboard-nav.html.hi" title="Keyboard navigation">Keyboard navigation</a><span class="desc"> — Use applications and the desktop without a mouse.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Make the keyboard not repeat letters when you hold down a key,
+<a href="keyboard-repeat-keys.html.hi" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Make the keyboard not repeat letters when you hold down a key,
     or change the delay and speed of repeat keys.</span>
 </li>
 <li class="links ">
-<a href="a11y-bouncekeys.html" title="Turn on bounce keys">Turn on bounce keys</a><span class="desc"> — Ignore quickly-repeated key presses of the same key.</span>
+<a href="a11y-bouncekeys.html.hi" title="Turn on bounce keys">Turn on bounce keys</a><span class="desc"> — Ignore quickly-repeated key presses of the same key.</span>
 </li>
 <li class="links ">
-<a href="a11y-slowkeys.html" title="Turn on slow keys">Turn on slow keys</a><span class="desc"> — Have a delay between a key being pressed and that letter appearing on
+<a href="a11y-slowkeys.html.hi" title="Turn on slow keys">Turn on slow keys</a><span class="desc"> — Have a delay between a key being pressed and that letter appearing on
     the screen.</span>
 </li>
 <li class="links ">
-<a href="a11y-stickykeys.html" title="Turn on sticky keys">Turn on sticky keys</a><span class="desc"> — Type keyboard shortcuts one key at a time rather than having to hold
+<a href="a11y-stickykeys.html.hi" title="Turn on sticky keys">Turn on sticky keys</a><span class="desc"> — Type keyboard shortcuts one key at a time rather than having to hold
      down all of the keys at once.</span>
 </li>
 <li class="links ">
-<a href="keyboard-osk.html" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
+<a href="keyboard-osk.html.hi" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
     mouse or a touchscreen.</span>
 </li>
 </ul></div>
@@ -166,7 +166,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">यह भी देखें</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-key-menu.html" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
+<a href="keyboard-key-menu.html.hi" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
     rather than with a right-click.</span>
 </li></ul></div>
 </div></div></div>
@@ -177,7 +177,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">अधिक जानकारी</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.hi" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

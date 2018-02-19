@@ -43,28 +43,28 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Your desktop</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Introdución a GNOME"><span class="title">Introdución a GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.gl-GL" title="Introdución a GNOME"><span class="title">Introdución a GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
     <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Iniciar aplicativos"><span class="title">Iniciar aplicativos</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.gl-GL" title="Iniciar aplicativos"><span class="title">Iniciar aplicativos</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda como saír da súa conta de usuario, saíndo a sesión, cambiando de usuario, etc.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-exit.html.gl-GL" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda como saír da súa conta de usuario, saíndo a sesión, cambiando de usuario, etc.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Customize your desktop</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html" title="Ancorar os seus aplicativos favoritos ao dash"><span class="title">Ancorar os seus aplicativos favoritos ao dash</span><span class="linkdiv-dash"> — </span><span class="desc">Engadir (ou eliminar) iconas de programas de uso frecuente no taboleiro.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="Apuntamentos no reloxo"><span class="title">Apuntamentos no reloxo</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.gl-GL" title="Ancorar os seus aplicativos favoritos ao dash"><span class="title">Ancorar os seus aplicativos favoritos ao dash</span><span class="linkdiv-dash"> — </span><span class="desc">Engadir (ou eliminar) iconas de programas de uso frecuente no taboleiro.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo"><span class="title">Apuntamentos no reloxo</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
     screen.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html" title="Notificacións e a bandexa de mensaxes"><span class="title">Notificacións e a bandexa de mensaxes</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.gl-GL" title="Notificacións e a bandexa de mensaxes"><span class="title">Notificacións e a bandexa de mensaxes</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
     certain events happen.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
@@ -72,14 +72,14 @@
 <div class="hgroup"><h2 class="title"><span class="title">Aplicativos e xanelas</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="status-icons.html" title="A icona de Bluetooth na barra superior"><span class="title">A icona de Bluetooth na barra superior</span><span class="linkdiv-dash"> — </span><span class="desc">Explica o significado das iconas da parte dereita da barra superior.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html" title="A pantalla de bloqueo"><span class="title">A pantalla de bloqueo</span><span class="linkdiv-dash"> — </span><span class="desc">A decorativa e funcional pantalla de bloqueo fornece información útil.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="startup-applications.html" title="Aplicativos de inicio"><span class="title">Aplicativos de inicio</span><span class="linkdiv-dash"> — </span><span class="desc">Seleccione os aplicativos que desexa abrir cando inicie unha sesión.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="status-icons.html.gl-GL" title="A icona de Bluetooth na barra superior"><span class="title">A icona de Bluetooth na barra superior</span><span class="linkdiv-dash"> — </span><span class="desc">Explica o significado das iconas da parte dereita da barra superior.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.gl-GL" title="A pantalla de bloqueo"><span class="title">A pantalla de bloqueo</span><span class="linkdiv-dash"> — </span><span class="desc">A decorativa e funcional pantalla de bloqueo fornece información útil.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.gl-GL" title="Aplicativos de inicio"><span class="title">Aplicativos de inicio</span><span class="linkdiv-dash"> — </span><span class="desc">Seleccione os aplicativos que desexa abrir cando inicie unha sesión.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Atallos de teclado útiles"><span class="title">Atallos de teclado útiles</span><span class="linkdiv-dash"> — </span><span class="desc">Moverse polo escritorio usando o teclado.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Trocar entre as xanelas"><span class="title">Trocar entre as xanelas</span><span class="linkdiv-dash"> — </span><span class="desc">Prema <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows.html" title="Xanelas e espazos de traballo"><span class="title">Xanelas e espazos de traballo</span><span class="linkdiv-dash"> — </span><span class="desc">Mover e organizar as súas xanelas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.gl-GL" title="Atallos de teclado útiles"><span class="title">Atallos de teclado útiles</span><span class="linkdiv-dash"> — </span><span class="desc">Moverse polo escritorio usando o teclado.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.gl-GL" title="Trocar entre as xanelas"><span class="title">Trocar entre as xanelas</span><span class="linkdiv-dash"> — </span><span class="desc">Prema <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows.html.gl-GL" title="Xanelas e espazos de traballo"><span class="title">Xanelas e espazos de traballo</span><span class="linkdiv-dash"> — </span><span class="desc">Mover e organizar as súas xanelas.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -87,7 +87,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Guia do escritorio Ubuntu">Guia do escritorio Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.gl-GL" title="Guia do escritorio Ubuntu">Guia do escritorio Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

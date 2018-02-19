@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="mouse.html" title="Ποντίκι">Ποντίκι</a> › <a class="trail" href="mouse.html#problems" title="Κοινά προβλήματα">Κοινά προβλήματα</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="mouse.html.el" title="Ποντίκι">Ποντίκι</a> › <a class="trail" href="mouse.html.el#problems" title="Κοινά προβλήματα">Κοινά προβλήματα</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="mouse.html" title="Ποντίκι">Ποντίκι</a> › <a class="trail" href="mouse.html#problems" title="Κοινά προβλήματα">Κοινά προβλήματα</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="mouse.html.el" title="Ποντίκι">Ποντίκι</a> › <a class="trail" href="mouse.html.el#problems" title="Κοινά προβλήματα">Κοινά προβλήματα</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ο δείκτης ποντικιού δεν μετακινείται</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Ελέγξετε ότι το ποντίκι είναι συνδεμένο">Ελέγξετε ότι το ποντίκι είναι συνδεμένο</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Ελέγξετε ότι το ποντίκι πράγματι δουλεύει">Ελέγξετε ότι το ποντίκι πράγματι δουλεύει</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Έλεγχος ασυρμάτων ποντικιών">Έλεγχος ασυρμάτων ποντικιών</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.el#plugged-in" title="Ελέγξετε ότι το ποντίκι είναι συνδεμένο">Ελέγξετε ότι το ποντίκι είναι συνδεμένο</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.el#broken" title="Ελέγξετε ότι το ποντίκι πράγματι δουλεύει">Ελέγξετε ότι το ποντίκι πράγματι δουλεύει</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.el#wireless-mice" title="Έλεγχος ασυρμάτων ποντικιών">Έλεγχος ασυρμάτων ποντικιών</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ελέγξετε ότι το ποντίκι είναι συνδεμένο</span></h2></div>
@@ -76,8 +76,8 @@
 <div class="region"><div class="contents">
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Βεβαιωθείτε ότι το ποντίκι είναι ενεργό. Υπάρχει συχνά ένας διακόπτης στο κάτω μέρος του ποντικιού που το απενεργοποιεί, έτσι μπορείτε να το έχετε μαζί σας χωρίς να είναι μονίμως ανοιχτό.</p></li>
-<li class="list"><p class="p">Εάν χρησιμοποιείτε ένα ποντίκι Bluetooth, βεβαιωθείτε ότι έχετε συζεύξει πράγματι το ποντίκι με τον υπολογιστή σας. Δείτε <span class="link"><a href="bluetooth-connect-device.html" title="Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth">Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth</a></span>.</p></li>
-<li class="list"><p class="p">Κάντε κλικ σε ένα κουμπί και δείτε εάν ο δείκτης ποντικιού μετακινείται τώρα. Μερικά ασύρματα ποντίκια αδρανοποιούνται για εξοικονόμηση ισχύος, έτσι μπορεί να μην αποκρίνεται μέχρι να κάνετε κλικ σε ένα πλήκτρο. Δείτε <span class="link"><a href="mouse-wakeup.html" title="Το ποντίκι αντιδρά με καθυστέρηση πριν ξεκινήσει να δουλεύει">Το ποντίκι αντιδρά με καθυστέρηση πριν ξεκινήσει να δουλεύει</a></span>.</p></li>
+<li class="list"><p class="p">Εάν χρησιμοποιείτε ένα ποντίκι Bluetooth, βεβαιωθείτε ότι έχετε συζεύξει πράγματι το ποντίκι με τον υπολογιστή σας. Δείτε <span class="link"><a href="bluetooth-connect-device.html.el" title="Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth">Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth</a></span>.</p></li>
+<li class="list"><p class="p">Κάντε κλικ σε ένα κουμπί και δείτε εάν ο δείκτης ποντικιού μετακινείται τώρα. Μερικά ασύρματα ποντίκια αδρανοποιούνται για εξοικονόμηση ισχύος, έτσι μπορεί να μην αποκρίνεται μέχρι να κάνετε κλικ σε ένα πλήκτρο. Δείτε <span class="link"><a href="mouse-wakeup.html.el" title="Το ποντίκι αντιδρά με καθυστέρηση πριν ξεκινήσει να δουλεύει">Το ποντίκι αντιδρά με καθυστέρηση πριν ξεκινήσει να δουλεύει</a></span>.</p></li>
 <li class="list"><p class="p">Ελέγξετε ότι η μπαταρία του ποντικιού είναι φορτισμένη.</p></li>
 <li class="list"><p class="p">Βεβαιωθείτε ότι ο δέκτης (προσαρμογέας) είναι στέρεα συνδεμένος στον υπολογιστή.</p></li>
 <li class="list"><p class="p">Εάν το ποντίκι σας και ο δέκτης μπορούν να λειτουργούν σε διαφορετικά ραδιοκανάλια, βεβαιωθείτε ότι και οι δυο ρυθμίστηκαν στο ίδιο κανάλι.</p></li>
@@ -90,7 +90,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Κοινά προβλήματα">Κοινά προβλήματα ποντικιού</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.el#problems" title="Κοινά προβλήματα">Κοινά προβλήματα ποντικιού</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

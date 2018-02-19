@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#faq" title="Consejos y preguntas">Consejos y preguntas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#faq" title="Consejos y preguntas">Consejos y preguntas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">¿Qué es un archivo con una <span class="file">~</span> al final del nombre?</span></h1></div>
@@ -51,19 +51,19 @@
 <div class="contents">
 <p class="p">Los archivos con <span class="file">~</span> al final de sus nombres (por ejemplo, <span class="file">ejemplo.txt~</span>) son copias de respaldo creadas de forma automática al editar documentos en el editor de textos <span class="app">gedit</span> o en otras aplicaciones. Es seguro eliminarlos, pero no es peligroso dejarlos en su equipo.</p>
 <p class="p">Estos archivos están ocultos de manera predeterminada. Si los está viendo, es porque seleccionó <span class="gui">Mostrar archivos ocultos</span> (en el menú de opciones de la vista de la barra de herramientas de <span class="app">Archivos</span>) o porque pulsó <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Puede volver a ocultarlos repitiendo uno de estos pasos.</p>
-<p class="p">Estos archivos se tratan de la misma forma que los archivos ocultos normales. Consulte la <span class="link"><a href="files-hidden.html" title="Ocultar un archivo">Ocultar un archivo</a></span> para asesorarse sobre cómo trabajar con archivos ocultos.</p>
+<p class="p">Estos archivos se tratan de la misma forma que los archivos ocultos normales. Consulte la <span class="link"><a href="files-hidden.html.es" title="Ocultar un archivo">Ocultar un archivo</a></span> para asesorarse sobre cómo trabajar con archivos ocultos.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Consejos y preguntas">Consejos y preguntas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.es#faq" title="Consejos y preguntas">Consejos y preguntas</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-hidden.html" title="Ocultar un archivo">Ocultar un archivo</a><span class="desc"> — Hacer que un archivo sea invisible, para que no pueda verlo en el gestor de archivos.</span>
+<a href="files-hidden.html.es" title="Ocultar un archivo">Ocultar un archivo</a><span class="desc"> — Hacer que un archivo sea invisible, para que no pueda verlo en el gestor de archivos.</span>
 </li></ul></div>
 </div></div>
 </div>

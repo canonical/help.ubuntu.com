@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="prefs-language.html" title="Področje in jezik">Področje in jezik</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="prefs-language.html.sl" title="Področje in jezik">Področje in jezik</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Izbira jezika, ki ga uporabljate</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Svoje namizje in programe lahko uporabite v številnih jezikih, če imate na svojem računalniku nameščene ustrezne jezikovne pakete.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Language</span>.</p></li>
@@ -78,13 +78,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Področje in jezik">Področje in jezik</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Izbira jezika, ki ga uporabljate">Jezik</a></span>, <span class="link"><a href="session-formats.html" title="Sprememba datuma in oblik merjenja">regija in oblike</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk">razporeditve tipkovnice</a></span> …</span>
+<a href="prefs-language.html.sl" title="Področje in jezik">Področje in jezik</a><span class="desc"> — <span class="link"><a href="session-language.html.sl" title="Izbira jezika, ki ga uporabljate">Jezik</a></span>, <span class="link"><a href="session-formats.html.sl" title="Sprememba datuma in oblik merjenja">regija in oblike</a></span>, <span class="link"><a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">razporeditve tipkovnice</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-formats.html" title="Sprememba datuma in oblik merjenja">Sprememba datuma in oblik merjenja</a><span class="desc"> — Izberite regijo, ki naj se uporablja za datum in čas, števila, valuto in merske enote.</span>
+<a href="session-formats.html.sl" title="Sprememba datuma in oblik merjenja">Sprememba datuma in oblik merjenja</a><span class="desc"> — Izberite regijo, ki naj se uporablja za datum in čas, števila, valuto in merske enote.</span>
 </li></ul></div>
 </div></div>
 </div>

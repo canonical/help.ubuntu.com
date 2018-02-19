@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tērzēšana un sociālie tīkli</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html" title="Tūlītēja ziņojumapmaiņa uz Ubuntu"><span class="title">Tūlītēja ziņojumapmaiņa uz Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Ar <span class="app">Empathy</span> jūs varat tērzēt, zvanīt un veidot video konferences ar draugiem un kolēģiem dažādos tīklos</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html" title="Video zvani"><span class="title">Video zvani</span><span class="linkdiv-dash"> — </span><span class="desc">Kādas lietotnes var izmantot, lai veiktu video zvanus?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html.lv" title="Tūlītēja ziņojumapmaiņa uz Ubuntu"><span class="title">Tūlītēja ziņojumapmaiņa uz Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Ar <span class="app">Empathy</span> jūs varat tērzēt, zvanīt un veidot video konferences ar draugiem un kolēģiem dažādos tīklos</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html.lv" title="Video zvani"><span class="title">Video zvani</span><span class="linkdiv-dash"> — </span><span class="desc">Kādas lietotnes var izmantot, lai veiktu video zvanus?</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html" title="Kā es varu lietot Skype uz Ubuntu?"><span class="title">Kā es varu lietot Skype uz Ubuntu?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> ir slēgta pirmkoda programmatūra un uz Ubuntu tā ir jāinstalē pašrocīgi</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html.lv" title="Kā es varu lietot Skype uz Ubuntu?"><span class="title">Kā es varu lietot Skype uz Ubuntu?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> ir slēgta pirmkoda programmatūra un uz Ubuntu tā ir jāinstalē pašrocīgi</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -61,13 +61,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Bezvadu tīkls">Bezvadu tīkls</a></span>, <span class="link"><a href="net-wired.html" title="Vadu savienojums">vadu</a></span>, <span class="link"><a href="net-problem.html" title="Tīkla problēmas">savienojumu problēmas</a></span>, <span class="link"><a href="net-browser.html" title="Tīmekļa pārlūkprogrammas">tīmekļa pārlūkošana</a></span>, <span class="link"><a href="net-email.html" title="E-pasts un e-pasta programmatūra">e-pasta konti</a></span>…</span>
+<a href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a><span class="desc"> — <span class="link"><a href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a></span>, <span class="link"><a href="net-wired.html.lv" title="Vadu savienojums">vadu</a></span>, <span class="link"><a href="net-problem.html.lv" title="Tīkla problēmas">savienojumu problēmas</a></span>, <span class="link"><a href="net-browser.html.lv" title="Tīmekļa pārlūkprogrammas">tīmekļa pārlūkošana</a></span>, <span class="link"><a href="net-email.html.lv" title="E-pasts un e-pasta programmatūra">e-pasta konti</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Tiešsaistes konti">Tiešsaistes konti</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Pievienot kontu">Izveidot tiešsaistes kontu</a></span>, <span class="link"><a href="accounts-remove.html" title="Izņemt kontu">Izņemt kontu</a></span>, <span class="link"><a href="accounts-which-application.html" title="Tiešsaistes servisi un lietotnes">Uzzināt par pakalpojumiem</a></span>…</span>
+<a href="accounts.html.lv" title="Tiešsaistes konti">Tiešsaistes konti</a><span class="desc"> — <span class="link"><a href="accounts-add.html.lv" title="Pievienot kontu">Izveidot tiešsaistes kontu</a></span>, <span class="link"><a href="accounts-remove.html.lv" title="Izņemt kontu">Izņemt kontu</a></span>, <span class="link"><a href="accounts-which-application.html.lv" title="Tiešsaistes servisi un lietotnes">Uzzināt par pakalpojumiem</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

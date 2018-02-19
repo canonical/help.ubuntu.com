@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#faq" title="Consejos y preguntas">Consejos y preguntas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#faq" title="Consejos y preguntas">Consejos y preguntas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Plantillas para tipos de documentos usados comúnmente</span></h1></div>
@@ -63,7 +63,7 @@
 <li class="steps"><p class="p">Abra la carpeta donde quiere ubicar el documento nuevo.</p></li>
 <li class="steps"><p class="p">Pulse con el botón derecho en cualquier lugar del espacio vacío en la carpeta, luego elija <span class="gui">Nuevo documento</span>. Los nombres de las plantillas disponibles se listarán en el submenú.</p></li>
 <li class="steps"><p class="p">Elija la plantilla que quiere de la lista.</p></li>
-<li class="steps"><p class="p">Pulse dos veces sobre el archivo para abrirlo y empezar la edición. Puede querer <span class="link"><a href="files-rename.html" title="Renombrar un archivo o una carpeta">renombrar el archivo</a></span> cuando termine.</p></li>
+<li class="steps"><p class="p">Pulse dos veces sobre el archivo para abrirlo y empezar la edición. Puede querer <span class="link"><a href="files-rename.html.es" title="Renombrar un archivo o una carpeta">renombrar el archivo</a></span> cuando termine.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -71,7 +71,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Consejos y preguntas">Consejos y preguntas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.es#faq" title="Consejos y preguntas">Consejos y preguntas</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

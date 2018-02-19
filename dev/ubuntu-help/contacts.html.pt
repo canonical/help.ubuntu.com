@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, weby e-mail">Rede, weby e-mail</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Contatos</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Use <span class="app">Contatos</span> para guardar, aceder ou editar a informação de seus contactos, de maneira local ou em seus <span class="link"><a href="accounts.html" title="Contas em linha">Contas em linha</a></span>.</p>
+<p class="p">Use <span class="app">Contatos</span> para guardar, aceder ou editar a informação de seus contactos, de maneira local ou em seus <span class="link"><a href="accounts.html.pt" title="Contas em linha">Contas em linha</a></span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html" title="Iniciar Contatos pro primeira vez"><span class="title">Iniciar Contatos pro primeira vez</span><span class="linkdiv-dash"> — </span><span class="desc">Guardar seus contactos numa livro de endereços local ou numa conta em linha.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html" title="Acrescentar ou tirar um contacto"><span class="title">Acrescentar ou tirar um contacto</span><span class="linkdiv-dash"> — </span><span class="desc">Acrescentar ou tirar um contacto da livro local de endereços.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html" title="Contatar com seu contacto"><span class="title">Contatar com seu contacto</span><span class="linkdiv-dash"> — </span><span class="desc">Envia correios, chatear ou chamar por telefone a um contacto.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html" title="Editar os detalhes do contacto"><span class="title">Editar os detalhes do contacto</span><span class="linkdiv-dash"> — </span><span class="desc">Editar a informação da cada contacto.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-search.html" title="Procurar um contacto"><span class="title">Procurar um contacto</span><span class="linkdiv-dash"> — </span><span class="desc">Procurar um contacto.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html" title="Vincular e desvincular contactos"><span class="title">Vincular e desvincular contactos</span><span class="linkdiv-dash"> — </span><span class="desc">Combinar informação de várias fontes para um contacto.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.pt" title="Iniciar Contatos pro primeira vez"><span class="title">Iniciar Contatos pro primeira vez</span><span class="linkdiv-dash"> — </span><span class="desc">Guardar seus contactos numa livro de endereços local ou numa conta em linha.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html.pt" title="Acrescentar ou tirar um contacto"><span class="title">Acrescentar ou tirar um contacto</span><span class="linkdiv-dash"> — </span><span class="desc">Acrescentar ou tirar um contacto da livro local de endereços.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.pt" title="Contatar com seu contacto"><span class="title">Contatar com seu contacto</span><span class="linkdiv-dash"> — </span><span class="desc">Envia correios, chatear ou chamar por telefone a um contacto.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.pt" title="Editar os detalhes do contacto"><span class="title">Editar os detalhes do contacto</span><span class="linkdiv-dash"> — </span><span class="desc">Editar a informação da cada contacto.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-search.html.pt" title="Procurar um contacto"><span class="title">Procurar um contacto</span><span class="linkdiv-dash"> — </span><span class="desc">Procurar um contacto.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html.pt" title="Vincular e desvincular contactos"><span class="title">Vincular e desvincular contactos</span><span class="linkdiv-dash"> — </span><span class="desc">Combinar informação de várias fontes para um contacto.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Rede, weby e-mail">Rede, weby e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Conexões sem fios">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html" title="Conexões instaladas">instalada</a></span>, <span class="link"><a href="net-problem.html" title="Problemas de rede">problemas de conexão</a></span>, <span class="link"><a href="net-browser.html" title="Navegadores">navegação site</a></span>, <span class="link"><a href="net-email.html" title="Software de correio eletrónico">contas de e-mail</a></span>…</span>
+<a href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.pt" title="Conexões sem fios">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html.pt" title="Conexões instaladas">instalada</a></span>, <span class="link"><a href="net-problem.html.pt" title="Problemas de rede">problemas de conexão</a></span>, <span class="link"><a href="net-browser.html.pt" title="Navegadores">navegação site</a></span>, <span class="link"><a href="net-email.html.pt" title="Software de correio eletrónico">contas de e-mail</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a> » <a class="trail" href="nautilus-prefs.html" title="Preferências do gestor de ficheiros">Preferências do gestor de ficheiros</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html.pt#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a> » <a class="trail" href="nautilus-prefs.html.pt" title="Preferências do gestor de ficheiros">Preferências do gestor de ficheiros</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferências de comportamento do gestor de ficheiros</span></h1></div>
@@ -60,7 +60,7 @@
 <div id="executable" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ficheiros de texto executáveis</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Um ficheiro de texto executável é um ficheiro que contém um programa que pode executar. Os <span class="link"><a href="nautilus-file-properties-permissions.html" title="Estabelecer as permissões do ficheiro">permissões do ficheiro</a></span> também devem permitir que o ficheiro possa se executar como um programa. Os mais frequentes costumam ser scripts de <span class="sys">Shelh</span>, <span class="sys">Python</span> e <span class="sys">Perl</span>. Têm extensões <span class="file">.sh</span>, <span class="file">.py</span> e <span class="file">.pl</span> respetivamente.</p>
+<p class="p">Um ficheiro de texto executável é um ficheiro que contém um programa que pode executar. Os <span class="link"><a href="nautilus-file-properties-permissions.html.pt" title="Estabelecer as permissões do ficheiro">permissões do ficheiro</a></span> também devem permitir que o ficheiro possa se executar como um programa. Os mais frequentes costumam ser scripts de <span class="sys">Shelh</span>, <span class="sys">Python</span> e <span class="sys">Perl</span>. Têm extensões <span class="file">.sh</span>, <span class="file">.py</span> e <span class="file">.pl</span> respetivamente.</p>
 <p class="p">Quando abre um ficheiro de texto executável, pode escolher entre:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Executar ficheiros de texto executáveis quando se abrem</span></p></li>
@@ -89,7 +89,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Consulte também</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="files-delete.html" title="Eliminar ficheiros e diretórios">Eliminar ficheiros e diretórios</a><span class="desc"> — Tirar ficheiros ou diretórios que já não precisa.</span>
+<a href="files-delete.html.pt" title="Eliminar ficheiros e diretórios">Eliminar ficheiros e diretórios</a><span class="desc"> — Tirar ficheiros ou diretórios que já não precisa.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -100,7 +100,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Preferências do gestor de ficheiros">Preferências do gestor de ficheiros</a><span class="desc"> — Ver e estabelecer as preferências para o navegador de ficheiros.</span>
+<a href="nautilus-prefs.html.pt" title="Preferências do gestor de ficheiros">Preferências do gestor de ficheiros</a><span class="desc"> — Ver e estabelecer as preferências para o navegador de ficheiros.</span>
 </li></ul></div>
 </div></div></div>
 </div>

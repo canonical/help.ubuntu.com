@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Reti WiFi">Reti WiFi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.it" title="Reti WiFi">Reti WiFi</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemi comuni">Problemi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> › <a class="trail" href="hardware.html.it#problems" title="Problemi comuni">Problemi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html" title="Risoluzione dei problemi relativi alle reti senza fili">Avanti</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Avanti</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">Risoluzione dei problemi relativi alle reti senza fili</span></h1></div>
 <div class="region">
 <div class="contents">
@@ -80,19 +80,19 @@
 </div></div>
 </div></div>
 </div>
-<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html" title="Risoluzione dei problemi relativi alle reti senza fili">Avanti</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Avanti</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="hardware.html#problems" title="Problemi comuni">Problemi hardware</a></li>
+<li class="links "><a href="hardware.html.it#problems" title="Problemi comuni">Problemi hardware</a></li>
 <li class="links ">
-<a href="net-wireless.html" title="Reti WiFi">Reti WiFi</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Connettersi a una rete WiFi">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connettersi a una rete WiFi nascosta">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Perché la connessione senza fili continua a disconnettersi?">Disconnecting</a></span>…
+<a href="net-wireless.html.it" title="Reti WiFi">Reti WiFi</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.it" title="Connettersi a una rete WiFi">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.it" title="Connettersi a una rete WiFi nascosta">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.it" title="Perché la connessione senza fili continua a disconnettersi?">Disconnecting</a></span>…
     </span>
 </li>
 </ul></div>
@@ -100,7 +100,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Connettersi a una rete WiFi">Connettersi a una rete WiFi</a><span class="desc"> — Get on the internet — wirelessly.</span>
+<a href="net-wireless-connect.html.it" title="Connettersi a una rete WiFi">Connettersi a una rete WiFi</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

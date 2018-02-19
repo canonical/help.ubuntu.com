@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="power.html" title="Barošana un baterija">Barošana un baterija</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="power.html.lv" title="Barošana un baterija">Barošana un baterija</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="power.html" title="Barošana un baterija">Barošana un baterija</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="power.html.lv" title="Barošana un baterija">Barošana un baterija</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Attēlot bateriju un citu pievienoto ierīču statusu</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Barošana</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Barošana</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Barošana</span>, lai atvērtu paneli. Tiks parādīts zināmo ierīču status.</p></li>
 </ol></div>
 </div></div>
@@ -69,13 +69,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Barošana un baterija">Barošana un baterija</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Pārbaudīt bateriju statusu">Baterijas status</a></span>, <span class="link"><a href="power-suspend.html" title="Kas notiek, iesnaudinot datoru?">iesnaudināšana</a></span>, <span class="link"><a href="power-whydim.html" title="Kāpēc pēc kāda laika ekrāns kļūst tumšāks?">ekrāna aptumšošana</a></span>…</span>
+<a href="power.html.lv" title="Barošana un baterija">Barošana un baterija</a><span class="desc"> — <span class="link"><a href="power-status.html.lv" title="Pārbaudīt bateriju statusu">Baterijas status</a></span>, <span class="link"><a href="power-suspend.html.lv" title="Kas notiek, iesnaudinot datoru?">iesnaudināšana</a></span>, <span class="link"><a href="power-whydim.html.lv" title="Kāpēc pēc kāda laika ekrāns kļūst tumšāks?">ekrāna aptumšošana</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html" title="Lietot mazāk enerģijas un paildzināt bateriju mūžu">Lietot mazāk enerģijas un paildzināt bateriju mūžu</a><span class="desc"> — Ieteikumi, lai samazinātu jūsu datora enerģijas patēriņu.</span>
+<a href="power-batterylife.html.lv" title="Lietot mazāk enerģijas un paildzināt bateriju mūžu">Lietot mazāk enerģijas un paildzināt bateriju mūžu</a><span class="desc"> — Ieteikumi, lai samazinātu jūsu datora enerģijas patēriņu.</span>
 </li></ul></div>
 </div></div>
 </div>

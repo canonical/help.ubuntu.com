@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="clock.html" title="Fecha y hora">Fecha y hora</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="clock.html.es" title="Fecha y hora">Fecha y hora</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Cambiar la fecha y la hora</span></h1></div>
@@ -51,20 +51,20 @@
 <div class="contents">
 <p class="p">Si la fecha y hora mostradas en la barra superior son incorrectas, o tienen el formato incorrecto, puede cambiarlas:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Fecha y hora</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Fecha y hora</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Fecha y hora</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Si tiene <span class="gui">Activada</span> la <span class="gui">Zona horaria automática</span>, su zona horaria se debería actualizar automáticamente si tiene una conexión a Internet. Para actualizar su zona horaria manualmente, <span class="gui">Desactívela</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Fecha y hora</span> y ajuste la fecha y la hora.</p></li>
 <li class="steps"><p class="p">También puede cambiar el formato de hora, seleccionando el formato <span class="gui">24 horas</span> o <span class="gui">AM/PM</span> en <span class="gui">Formato de hora</span>.</p></li>
 </ol></div></div></div>
-<p class="p">También puede querer <span class="link"><a href="clock-timezone.html" title="Cambiar su zona horaria">configurar la zona horaria manualmente</a></span>.</p>
+<p class="p">También puede querer <span class="link"><a href="clock-timezone.html.es" title="Cambiar su zona horaria">configurar la zona horaria manualmente</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Fecha y hora">Fecha y hora</a><span class="desc"> — <span class="link"><a href="clock-set.html" title="Cambiar la fecha y la hora">Establecer la fecha y la hora</a></span>, <span class="link"><a href="clock-world.html" title="Añadir un reloj del mundo">relojes del mundo</a></span>, <span class="link"><a href="clock-timezone.html" title="Cambiar su zona horaria">zona horaria</a></span>, <span class="link"><a href="clock-calendar.html" title="Citas de calendario">calendario y citas</a></span>…</span>
+<a href="clock.html.es" title="Fecha y hora">Fecha y hora</a><span class="desc"> — <span class="link"><a href="clock-set.html.es" title="Cambiar la fecha y la hora">Establecer la fecha y la hora</a></span>, <span class="link"><a href="clock-world.html.es" title="Añadir un reloj del mundo">relojes del mundo</a></span>, <span class="link"><a href="clock-timezone.html.es" title="Cambiar su zona horaria">zona horaria</a></span>, <span class="link"><a href="clock-calendar.html.es" title="Citas de calendario">calendario y citas</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

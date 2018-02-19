@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nätverkstermer &amp; -tips</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-proxy.html" title="Definiera proxyinställningar"><span class="title">Definiera proxyinställningar</span><span class="linkdiv-dash"> — </span><span class="desc">En proxy är en mellanliggande server för nättrafik, du kan användas för att komma åt webbtjänster anonymt, för att styrning eller av säkerhetsskäl.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-findip.html" title="Hitta din IP-adress"><span class="title">Hitta din IP-adress</span><span class="linkdiv-dash"> — </span><span class="desc">Att känna till din IP-adress kan hjälpa dig upptäcka nätverksproblem.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html" title="Trygghet på internet"><span class="title">Trygghet på internet</span><span class="linkdiv-dash"> — </span><span class="desc">Generella tips att hålla i minnet när du använder internet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-proxy.html.sv" title="Definiera proxyinställningar"><span class="title">Definiera proxyinställningar</span><span class="linkdiv-dash"> — </span><span class="desc">En proxy är en mellanliggande server för nättrafik, du kan användas för att komma åt webbtjänster anonymt, för att styrning eller av säkerhetsskäl.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-findip.html.sv" title="Hitta din IP-adress"><span class="title">Hitta din IP-adress</span><span class="linkdiv-dash"> — </span><span class="desc">Att känna till din IP-adress kan hjälpa dig upptäcka nätverksproblem.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html.sv" title="Trygghet på internet"><span class="title">Trygghet på internet</span><span class="linkdiv-dash"> — </span><span class="desc">Generella tips att hålla i minnet när du använder internet.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html" title="Vad är en IP-adress?"><span class="title">Vad är en IP-adress?</span><span class="linkdiv-dash"> — </span><span class="desc">En IP-adress är som ett telefonnummer för din dator.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html" title="Vad är en MAC-adress?"><span class="title">Vad är en MAC-adress?</span><span class="linkdiv-dash"> — </span><span class="desc">Den unika identifieraren som tilldelats din nätverkshårdvara.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html.sv" title="Vad är en IP-adress?"><span class="title">Vad är en IP-adress?</span><span class="linkdiv-dash"> — </span><span class="desc">En IP-adress är som ett telefonnummer för din dator.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html.sv" title="Vad är en MAC-adress?"><span class="title">Vad är en MAC-adress?</span><span class="linkdiv-dash"> — </span><span class="desc">Den unika identifieraren som tilldelats din nätverkshårdvara.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -65,13 +65,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Trådlösa nätverk">Trådlöst</a></span>, <span class="link"><a href="net-wired.html" title="Trådbundna nätverk">trådbundet</a></span>, <span class="link"><a href="net-problem.html" title="Nätverksproblem">anslutningsproblem</a></span>, <span class="link"><a href="net-browser.html" title="Webbläsare">webbsurfning</a></span>, <span class="link"><a href="net-email.html" title="E-post &amp; e-postprogramvara">e-postkonton</a></span>…</span>
+<a href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlöst</a></span>, <span class="link"><a href="net-wired.html.sv" title="Trådbundna nätverk">trådbundet</a></span>, <span class="link"><a href="net-problem.html.sv" title="Nätverksproblem">anslutningsproblem</a></span>, <span class="link"><a href="net-browser.html.sv" title="Webbläsare">webbsurfning</a></span>, <span class="link"><a href="net-email.html.sv" title="E-post &amp; e-postprogramvara">e-postkonton</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Trådlösa nätverk">Trådlösa nätverk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Anslut till ett trådlöst nätverk">Anslut till wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Anslut till ett dolt, trådlöst nätverk">Dolda nätverk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Varför kopplar mitt trådlösa nätverk ner hela tiden?">Koppla ifrån</a></span>…</span>
+<a href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlösa nätverk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.sv" title="Anslut till ett trådlöst nätverk">Anslut till wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.sv" title="Anslut till ett dolt, trådlöst nätverk">Dolda nätverk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.sv" title="Varför kopplar mitt trådlösa nätverk ner hela tiden?">Koppla ifrån</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

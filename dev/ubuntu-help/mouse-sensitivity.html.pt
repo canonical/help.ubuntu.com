@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="mouse.html" title="Rato">Rato</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="mouse.html.pt" title="Rato">Rato</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Acesso universal">Acesso universal</a> › <a class="trail" href="a11y.html#mobility" title="Deficiências motoras">Deficiências motoras</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.pt" title="Acesso universal">Acesso universal</a> › <a class="trail" href="a11y.html.pt#mobility" title="Deficiências motoras">Deficiências motoras</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="mouse.html" title="Rato">Rato</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> » <a class="trail" href="mouse.html.pt" title="Rato">Rato</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">Se o ponteiro move-se demasiado depressa ou devagar quando move o rato ou usa o «touchpad», pode ajustar a velocidade do ponteiro para estes dispositivos.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Momentón e touchpad</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Momentón e touchpad</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Momentón e touchpad</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Ajuste o deslizador da <span class="gui">Velocidade do ponteiro</span> até que o movimento do ponteiro lhe seja comodo. Verá um deslizador para a cada dispositivo apuntador, como pode ser um rato ou um «touchpad».</p></li>
 </ol></div></div></div>
@@ -69,9 +69,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Deficiências motoras">Deficiências motoras</a></li>
+<li class="links "><a href="a11y.html.pt#mobility" title="Deficiências motoras">Deficiências motoras</a></li>
 <li class="links ">
-<a href="mouse.html" title="Rato">Rato</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Use seu rato para surdos">Zurdo</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Ajustar a velocidade do rato e do touchpad">velocidade e sensibilidade</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Clicar, arrastar ou deslocar-se com o «touchpad»">clique e deslocação com o touchpad</a></span>…</span>
+<a href="mouse.html.pt" title="Rato">Rato</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.pt" title="Use seu rato para surdos">Zurdo</a></span>, <span class="link"><a href="mouse-sensitivity.html.pt" title="Ajustar a velocidade do rato e do touchpad">velocidade e sensibilidade</a></span>, <span class="link"><a href="mouse-touchpad-click.html.pt" title="Clicar, arrastar ou deslocar-se com o «touchpad»">clique e deslocação com o touchpad</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

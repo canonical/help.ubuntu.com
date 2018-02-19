@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Excluindo arquivos e pastas</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Se você não mais quiser um arquivo ou pasta, você pode excluí-lo(a). Quando você exclui um item, ele é movido para a <span class="gui">Lixeira</span>, onde ele fica armazenado até que você a esvazie. Você pode <span class="link"><a href="files-recover.html" title="Restaurando um arquivo da lixeira">restaurar os itens</a></span> da <span class="gui">Lixeira</span> para sua localização original se você resolver que precisa deles, ou eles se foram excluídos acidentalmente.</p>
+<p class="p">Se você não mais quiser um arquivo ou pasta, você pode excluí-lo(a). Quando você exclui um item, ele é movido para a <span class="gui">Lixeira</span>, onde ele fica armazenado até que você a esvazie. Você pode <span class="link"><a href="files-recover.html.pt-BR" title="Restaurando um arquivo da lixeira">restaurar os itens</a></span> da <span class="gui">Lixeira</span> para sua localização original se você resolver que precisa deles, ou eles se foram excluídos acidentalmente.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Para enviar um arquivo para a lixeira:</span></h2></div>
 <div class="region"><ol class="steps">
@@ -72,7 +72,7 @@
 <li class="steps"><p class="p">Como você não poderá desfazer essa ação, será pedida uma confirmação sobre seu desejo de excluir o arquivo ou a pasta.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Os arquivos excluídos em um <span class="link"><a href="files.html#removable" title="Unidades removíveis e discos externos">dispositivo removível</a></span> podem não ser visíveis em outros sistemas operacionais, como Windows ou Mac OS. Os arquivos ainda estão lá e estarão disponíveis quando você plugar o dispositivo de volta a seu computador.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Os arquivos excluídos em um <span class="link"><a href="files.html.pt-BR#removable" title="Unidades removíveis e discos externos">dispositivo removível</a></span> podem não ser visíveis em outros sistemas operacionais, como Windows ou Mac OS. Os arquivos ainda estão lá e estarão disponíveis quando você plugar o dispositivo de volta a seu computador.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -80,14 +80,14 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt-BR#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html#trash" title="Lixeira">Preferências da lixeira do gerenciador de arquivos</a></li>
+<li class="links "><a href="nautilus-behavior.html.pt-BR#trash" title="Lixeira">Preferências da lixeira do gerenciador de arquivos</a></li>
 <li class="links ">
-<a href="files-recover.html" title="Restaurando um arquivo da lixeira">Restaurando um arquivo da lixeira</a><span class="desc"> — Arquivos excluídos são normalmente enviados para a lixeira, mas podem ser restaurados.</span>
+<a href="files-recover.html.pt-BR" title="Restaurando um arquivo da lixeira">Restaurando um arquivo da lixeira</a><span class="desc"> — Arquivos excluídos são normalmente enviados para a lixeira, mas podem ser restaurados.</span>
 </li>
 </ul></div>
 </div></div>

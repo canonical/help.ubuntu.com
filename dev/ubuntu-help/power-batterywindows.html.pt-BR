@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="power.html" title="Energia &amp; bateria">Energia &amp; bateria</a> › <a class="trail" href="power.html#faq" title="Perguntas">Perguntas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="power.html.pt-BR" title="Energia &amp; bateria">Energia &amp; bateria</a> › <a class="trail" href="power.html.pt-BR#faq" title="Perguntas">Perguntas</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="power.html" title="Energia &amp; bateria">Energia &amp; bateria</a> › <a class="trail" href="power.html#faq" title="Perguntas">Perguntas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="power.html.pt-BR" title="Energia &amp; bateria">Energia &amp; bateria</a> › <a class="trail" href="power.html.pt-BR#faq" title="Perguntas">Perguntas</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Alguns computadores parecem ter um menor tempo de bateria ao usar o Linux do que tinham usando Windows ou Mac OS. Um motivo para isso é que os fabricantes de computador instalam softwares específicos para Windows/Mac OS para otimizar várias configurações de hardware/software para um dado modelo de computador. Esses ajustes são geralmente muito específicos, e podem não estar documentados, de forma que inclui-los no Linux é difícil.</p>
-<p class="p">Infelizmente, não há forma fácil para aplicar esses ajustes você mesmo sem saber exatamente o que eles são. Todavia, você pode descobrir que usar alguns <span class="link"><a href="power-batterylife.html" title="Usando menos energia e melhorando duração da bateria">métodos de economia de energia</a></span> ajudam. Se seu computador possui um <span class="link"><a href="power-batteryslow.html" title="Por que meu notebook fica lento quando está na bateria?">processador de velocidade variável</a></span>, você pode descobrir que alterar suas configurações também é útil.</p>
+<p class="p">Infelizmente, não há forma fácil para aplicar esses ajustes você mesmo sem saber exatamente o que eles são. Todavia, você pode descobrir que usar alguns <span class="link"><a href="power-batterylife.html.pt-BR" title="Usando menos energia e melhorando duração da bateria">métodos de economia de energia</a></span> ajudam. Se seu computador possui um <span class="link"><a href="power-batteryslow.html.pt-BR" title="Por que meu notebook fica lento quando está na bateria?">processador de velocidade variável</a></span>, você pode descobrir que alterar suas configurações também é útil.</p>
 <p class="p">Um outro possível motivo para a discrepância é que o método de estimativa de tempo da bateria no Windows/Mac OS é diferente do Linux. O tempo de bateria real poderia ser exatamente o mesmo, mas os diferentes métodos fornecem estimativas de bateria.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,19 +62,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Perguntas">Perguntas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.pt-BR#faq" title="Perguntas">Perguntas</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batteryestimate.html" title="O nível da bateria exibido está errada">O nível da bateria exibido está errada</a><span class="desc"> — O nível da bateria exibido quando você clica no <span class="gui">ícone de bateria</span> é uma estimativa.</span>
+<a href="power-batteryestimate.html.pt-BR" title="O nível da bateria exibido está errada">O nível da bateria exibido está errada</a><span class="desc"> — O nível da bateria exibido quando você clica no <span class="gui">ícone de bateria</span> é uma estimativa.</span>
 </li>
 <li class="links ">
-<a href="power-batteryslow.html" title="Por que meu notebook fica lento quando está na bateria?">Por que meu notebook fica lento quando está na bateria?</a><span class="desc"> — Alguns notebooks intencionalmente ficam mais lentos quando estão na bateria.</span>
+<a href="power-batteryslow.html.pt-BR" title="Por que meu notebook fica lento quando está na bateria?">Por que meu notebook fica lento quando está na bateria?</a><span class="desc"> — Alguns notebooks intencionalmente ficam mais lentos quando estão na bateria.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Usando menos energia e melhorando duração da bateria">Usando menos energia e melhorando duração da bateria</a><span class="desc"> — Dicas para reduzir o consumo de energia do seus computador.</span>
+<a href="power-batterylife.html.pt-BR" title="Usando menos energia e melhorando duração da bateria">Usando menos energia e melhorando duração da bateria</a><span class="desc"> — Dicas para reduzir o consumo de energia do seus computador.</span>
 </li>
 </ul></div>
 </div></div>

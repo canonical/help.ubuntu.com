@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="小贴士 &amp; 小技巧">小贴士 &amp; 小技巧</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.zh-CN" title="小贴士 &amp; 小技巧">小贴士 &amp; 小技巧</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="mouse.html" title="鼠标">鼠标</a> › <a class="trail" href="mouse.html#tips" title="提示">提示</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="mouse.html.zh-CN" title="鼠标">鼠标</a> › <a class="trail" href="mouse.html.zh-CN#tips" title="提示">提示</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="mouse.html" title="鼠标">鼠标</a> › <a class="trail" href="mouse.html#tips" title="提示">提示</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="mouse.html.zh-CN" title="鼠标">鼠标</a> › <a class="trail" href="mouse.html.zh-CN#tips" title="提示">提示</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@ with a scroll wheel, you can usually press directly down on the scroll
 wheel to middle-click. If you don’t have a middle mouse button, you
 can press the left and right mouse buttons at the same time to
 middle-click.</p>
-<p class="p">如果触摸板支持多指点按，您可以同时按三个手指来完成中键点击。您要在触摸板的设置中<span class="link"><a href="mouse-touchpad-click.html" title="用触摸板点击、拖动、滚屏操作">启用鼠标点击</a></span>。</p>
+<p class="p">如果触摸板支持多指点按，您可以同时按三个手指来完成中键点击。您要在触摸板的设置中<span class="link"><a href="mouse-touchpad-click.html.zh-CN" title="用触摸板点击、拖动、滚屏操作">启用鼠标点击</a></span>。</p>
 <p class="p">许多程序用中键作为高级的快捷键。</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
@@ -83,9 +83,9 @@ button for other functions. Search your application’s help for
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="tips.html" title="小贴士 &amp; 小技巧">小贴士 &amp; 小技巧</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="输入特殊字符">特殊符号</a></span>、<span class="link"><a href="mouse-middleclick.html" title="单击中键">中键快捷键</a></span>…</span>
+<a href="tips.html.zh-CN" title="小贴士 &amp; 小技巧">小贴士 &amp; 小技巧</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.zh-CN" title="输入特殊字符">特殊符号</a></span>、<span class="link"><a href="mouse-middleclick.html.zh-CN" title="单击中键">中键快捷键</a></span>…</span>
 </li>
-<li class="links "><a href="mouse.html#tips" title="提示">鼠标小提示</a></li>
+<li class="links "><a href="mouse.html.zh-CN#tips" title="提示">鼠标小提示</a></li>
 </ul></div>
 </div></div></div>
 </div>

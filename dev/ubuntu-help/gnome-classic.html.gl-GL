@@ -54,11 +54,11 @@
   <span class="gui">Places</span> menus on the top bar, and a window
   list at the bottom of the screen.</p>
 <p class="p">You can use the <span class="gui">Applications</span> menu on the top bar to launch
- applications. The <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span>
+ applications. The <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span>
  overview is available by selecting the <span class="gui">Activities
  Overview</span> item from the menu.</p>
 <p class="p">To access the <span class="em"><span class="gui">Activities</span> overview</span>,
- you can also press the <span class="key"><a href="keyboard-key-super.html" title="Que é a tecla Super?"><kbd>Super</kbd></a></span> key.</p>
+ you can also press the <span class="key"><a href="keyboard-key-super.html.gl-GL" title="Que é a tecla Super?"><kbd>Super</kbd></a></span> key.</p>
 </div>
 <div id="gnome-classic-window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Lista de xanelas</span></h2></div>
@@ -69,7 +69,7 @@
  (top) workspace. In addition, the identifier also displays the total number
  of available workspaces. To switch to a different workspace, you can click
  the identifier and select the workspace you want to use from the menu.</p>
-<p class="p">Se un aplicativo ou un compoñente do sistema quere obter a súa atención, mostrarase unha icona azul na parte dereita da lista de xanelas. Se preme a icona azul móstrase a <span class="link"><a href="shell-notifications.html" title="Notificacións e a bandexa de mensaxes">bandexa de mensaxes</a></span>, o que lle permite acceder a todas as notificacións.</p>
+<p class="p">Se un aplicativo ou un compoñente do sistema quere obter a súa atención, mostrarase unha icona azul na parte dereita da lista de xanelas. Se preme a icona azul móstrase a <span class="link"><a href="shell-notifications.html.gl-GL" title="Notificacións e a bandexa de mensaxes">bandexa de mensaxes</a></span>, o que lle permite acceder a todas as notificacións.</p>
 </div></div>
 </div></div>
 <div id="gnome-classic-switch" class="sect"><div class="inner">

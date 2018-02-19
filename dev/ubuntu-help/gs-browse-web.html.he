@@ -43,15 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="צעדים ראשונים">צעדים ראשונים ב־GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.he" title="צעדים ראשונים">צעדים ראשונים ב־GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="גישה לאינטרנט">הקודם</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="התחברות לחשבונות מקוונים">הבא</a>
+<a class="nextlinks-prev" href="gs-get-online.html.he" title="גישה לאינטרנט">הקודם</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.he" title="התחברות לחשבונות מקוונים">הבא</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">גלישה ברשת</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">הזיזו את הסמן אל <span class="gui">פעילויות</span> בפינה הימנית העליונה של המסך להצגת <span class="gui">סקירת הפעילויות</span>.</p></li>
+<li class="steps"><p class="p">בחרו בסמליל הדפדפן <span class="app">Firefox</span> מהסרגל בצדו הימני של המסך.</p></li>
+</ol></div></div></div>
+<div class="note" title="הערה"><div class="inner"><div class="region"><div class="contents"><p class="p">לחלופין, ניתן להפעיל את הדפדפן באמצעות <span class="link"><a href="gs-use-system-search.html.he" title="שימוש בחיפוש המערכת">הקלדת</a></span> <span class="em">Firefox</span> ב<span class="gui">סקירת הפעילויות</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">לחצו על שורת הכתובת בחלקו העליון של חלון הדפדפן והתחילו בהקלדת אתר האינטרנט בו ברצונכם לבקר.</p></li>
 <li class="steps">
 <p class="p">הקלדת אתר אינטרנט מתחילה בחיפוש אחריו בהיסטורית הדפדפן והסימניות, כך שלא תצטרכו לזכור את הכתובת המדויקת.</p>
@@ -59,9 +67,10 @@
 </li>
 <li class="steps"><p class="p">מהרשימה ניתן לבחור במהירות את אתר האינטרנט באמצעות מקשי החצים.</p></li>
 <li class="steps"><p class="p">לאחר בחירת אתר אינטרנט, הקישו <span class="key"><kbd>Enter</kbd></span> כדי לבקר בו.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="גישה לאינטרנט">הקודם</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="התחברות לחשבונות מקוונים">הבא</a>
+<a class="nextlinks-prev" href="gs-get-online.html.he" title="גישה לאינטרנט">הקודם</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.he" title="התחברות לחשבונות מקוונים">הבא</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -69,15 +78,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="צעדים ראשונים">צעדים ראשונים ב־GNOME</a><span class="desc"> — חדשים ב־GNOME? למדו כיצד להסתדר.</span>
+<a href="getting-started.html.he" title="צעדים ראשונים">צעדים ראשונים ב־GNOME</a><span class="desc"> — חדשים ב־GNOME? למדו כיצד להסתדר.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">עיון נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Web Browsers">Web Browsers</a><span class="desc"> — 
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="Install the Flash plug-in">install Flash</a></span>…
+<a href="net-browser.html.he" title="Web Browsers">Web Browsers</a><span class="desc"> — 
+      <span class="link"><a href="net-default-browser.html.he" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-install-flash.html.he" title="Install the Flash plug-in">install Flash</a></span>…
     </span>
 </li></ul></div>
 </div></div>

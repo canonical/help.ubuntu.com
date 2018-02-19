@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="power.html" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="power.html.da" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html.da#faq" title="Questions">Questions</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">Settings</a> » <a class="trail" href="power.html" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="power.html.da" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html.da#faq" title="Questions">Questions</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -64,12 +64,12 @@ last longer.</p>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Questions">Questions</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.da#faq" title="Questions">Questions</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterywindows.html" title="Why do I have less battery life than I did on Windows/Mac OS?">Why do I have less battery life than I did on Windows/Mac OS?</a><span class="desc"> — Tweaks from the manufacturer and differing battery life estimates may
+<a href="power-batterywindows.html.da" title="Why do I have less battery life than I did on Windows/Mac OS?">Why do I have less battery life than I did on Windows/Mac OS?</a><span class="desc"> — Tweaks from the manufacturer and differing battery life estimates may
     be the cause of this problem.</span>
 </li></ul></div>
 </div></div>

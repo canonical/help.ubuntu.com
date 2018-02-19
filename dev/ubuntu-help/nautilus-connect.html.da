@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="Deling">Deling</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.da" title="Deling">Deling</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -187,19 +187,19 @@ internet/network address.</p>
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Deling">Deling</a><span class="desc"> — 
-      <span class="link"><a href="sharing-desktop.html" title="Share your desktop">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html" title="Share files by email">Share files by email</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Share your music, photos and videos">Media sharing</a></span>…
+<a href="sharing.html.da" title="Deling">Deling</a><span class="desc"> — 
+      <span class="link"><a href="sharing-desktop.html.da" title="Share your desktop">Desktop sharing</a></span>,
+      <span class="link"><a href="files-share.html.da" title="Share files by email">Share files by email</a></span>,
+      <span class="link"><a href="sharing-media.html.da" title="Share your music, photos and videos">Media sharing</a></span>…
     </span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a></li>
+<li class="links "><a href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="Share files by email">Share files by email</a><span class="desc"> — Easily transfer files to your email contacts from the file
+<a href="files-share.html.da" title="Share files by email">Share files by email</a><span class="desc"> — Easily transfer files to your email contacts from the file
     manager.</span>
 </li></ul></div>
 </div></div>

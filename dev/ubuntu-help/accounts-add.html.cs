@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="accounts.html" title="Účty on-line">Účty on-line</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="accounts.html.cs" title="Účty on-line">Účty on-line</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Přidání účtu</span></h1></div>
@@ -51,23 +51,23 @@
 <div class="contents">
 <p class="p">Přidání účtu pomůže propojení účtů on-line s vaším uživatelským prostředím GNOME. Váš poštovní program, diskuzní program a další související aplikace tak budou moci používat toto nastavení.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Účty on-line</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Účty on-line</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Účty on-line</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Klikněte na tlačítko <span class="gui">+</span> v levém dolním rohu okna.</p></li>
 <li class="steps"><p class="p">Vyberte typ účtu, který chcete přidat.</p></li>
 <li class="steps"><p class="p">Otevře se malé okno s webovou stránkou nebo dialogové okno, do kterých můžete zadat své přístupové údaje k účtu on-line. Například, když nastavujete účet Google, zadejte své uživatelské jméno a heslo pro Google. Někteří poskytovatelé umožňují vytvořit nový účet v přihlašovacím dialogovém okně.</p></li>
 <li class="steps"><p class="p">Pokud zadáte své přístupové údaje správně, budete dotázání, jestli povolíte GNOME přístup k účtu on-line. Abyste mohli pokračovat, přístup potvrďte.</p></li>
-<li class="steps"><p class="p">Ve výchozím stavu budou povoleny všechny služby, které poskytovatel účtu nabízí. <span class="link"><a href="accounts-disable-service.html" title="Řízení, který účet služby on-line může být použit k přístupu">Přepnutím vypínače</a></span> jednotlivých služeb na <span class="gui">○</span> (vypnuto) je můžete zakázat.</p></li>
+<li class="steps"><p class="p">Ve výchozím stavu budou povoleny všechny služby, které poskytovatel účtu nabízí. <span class="link"><a href="accounts-disable-service.html.cs" title="Řízení, který účet služby on-line může být použit k přístupu">Přepnutím vypínače</a></span> jednotlivých služeb na <span class="gui">○</span> (vypnuto) je můžete zakázat.</p></li>
 </ol></div></div></div>
-<p class="p">Po té, co účet přidáte, mohou aplikace používat tento účet pro přístup ke službám, které jste jim dovolili. Jak řídit, které služby jsou dovolené, viz <span class="link"><a href="accounts-disable-service.html" title="Řízení, který účet služby on-line může být použit k přístupu">Řízení, který účet služby on-line může být použit k přístupu</a></span>.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Řada služeb on-line poskytuje ověřovací tiket, který si GNOME uchovává namísto hesla. Když odeberete některý z účtů, měli byste rovněž odvolat tento certifikát. Více informací viz <span class="link"><a href="accounts-remove.html" title="Odebrání účtu">Odebrání účtu</a></span>.</p></div></div></div></div>
+<p class="p">Po té, co účet přidáte, mohou aplikace používat tento účet pro přístup ke službám, které jste jim dovolili. Jak řídit, které služby jsou dovolené, viz <span class="link"><a href="accounts-disable-service.html.cs" title="Řízení, který účet služby on-line může být použit k přístupu">Řízení, který účet služby on-line může být použit k přístupu</a></span>.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Řada služeb on-line poskytuje ověřovací tiket, který si GNOME uchovává namísto hesla. Když odeberete některý z účtů, měli byste rovněž odvolat tento certifikát. Více informací viz <span class="link"><a href="accounts-remove.html.cs" title="Odebrání účtu">Odebrání účtu</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Účty on-line">Účty on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Přidání účtu">Přidání účtu on-line</a></span>, <span class="link"><a href="accounts-remove.html" title="Odebrání účtu">odebrání účtu on-line</a></span>, <span class="link"><a href="accounts-which-application.html" title="Služby a aplikace on-line">něco o službách</a></span>…</span>
+<a href="accounts.html.cs" title="Účty on-line">Účty on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html.cs" title="Přidání účtu">Přidání účtu on-line</a></span>, <span class="link"><a href="accounts-remove.html.cs" title="Odebrání účtu">odebrání účtu on-line</a></span>, <span class="link"><a href="accounts-which-application.html.cs" title="Služby a aplikace on-line">něco o službách</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

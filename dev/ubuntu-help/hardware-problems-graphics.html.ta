@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> › <a class="trail" href="hardware.html#problems" title="பொதுவான பிரச்சினைகள்">சிக்கல்கள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> › <a class="trail" href="hardware.html.ta#problems" title="பொதுவான பிரச்சினைகள்">சிக்கல்கள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">திரை பிரச்சினைகள்</span></h1></div>
@@ -51,21 +51,21 @@
 <div class="contents">
 <p class="p">காட்சி தொடர்பான பெரும்பாலான பிரச்சினைகளுக்கு கிராபிக்ஸ் இயக்கிகள் அல்லது அமைவாக்கமே காரணமாக இருக்கும். கீழே உள்ள தலைப்புகளில் எது உங்கள் சிக்கலைப் பற்றி சிறப்பாக விவரிக்கிறது?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html" title="Set screen brightness"><span class="title">Set screen brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.ta" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.ta" title="Set screen brightness"><span class="title">Set screen brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
     light.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="என் கணினியை இடைநிறுத்திய பிறகு ஏன் மீண்டும் இயங்க மாட்டேனென்கிறது?"><span class="title">என் கணினியை இடைநிறுத்திய பிறகு ஏன் மீண்டும் இயங்க மாட்டேனென்கிறது?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html" title="என் திரையில் உள்ளவை ஏன் மங்கலாக/புள்ளி புள்ளியாகக் காட்சியளிக்கின்றன?"><span class="title">என் திரையில் உள்ளவை ஏன் மங்கலாக/புள்ளி புள்ளியாகக் காட்சியளிக்கின்றன?</span><span class="linkdiv-dash"> — </span><span class="desc">திரை தெளிவுத்திறன் தவறாக அமைக்கப்பட்டிருக்கலாம்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="சிறிது நேரம் கழித்து என் திரை ஏன் மங்கலாகிறது?"><span class="title">சிறிது நேரம் கழித்து என் திரை ஏன் மங்கலாகிறது?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="திரை தானாக விரைவிலேயே பூட்டிக்கொள்கிறது"><span class="title">திரை தானாக விரைவிலேயே பூட்டிக்கொள்கிறது</span><span class="linkdiv-dash"> — </span><span class="desc">திரையைப் பூட்ட காத்திருக்க வேண்டிய நேரத்தை <span class="gui">தனியுரிமை</span> அமைவுகளில் மாற்றலாம்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="என் கணினி இயங்கவில்லை"><span class="title">என் கணினி இயங்கவில்லை</span><span class="linkdiv-dash"> — </span><span class="desc">கேபிள்கள் தளர்வாக இருப்பது அல்லது வன்பொருள் சிக்கல்கள் காரணமாக இருக்கலாம்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.ta" title="என் கணினியை இடைநிறுத்திய பிறகு ஏன் மீண்டும் இயங்க மாட்டேனென்கிறது?"><span class="title">என் கணினியை இடைநிறுத்திய பிறகு ஏன் மீண்டும் இயங்க மாட்டேனென்கிறது?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.ta" title="என் திரையில் உள்ளவை ஏன் மங்கலாக/புள்ளி புள்ளியாகக் காட்சியளிக்கின்றன?"><span class="title">என் திரையில் உள்ளவை ஏன் மங்கலாக/புள்ளி புள்ளியாகக் காட்சியளிக்கின்றன?</span><span class="linkdiv-dash"> — </span><span class="desc">திரை தெளிவுத்திறன் தவறாக அமைக்கப்பட்டிருக்கலாம்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.ta" title="சிறிது நேரம் கழித்து என் திரை ஏன் மங்கலாகிறது?"><span class="title">சிறிது நேரம் கழித்து என் திரை ஏன் மங்கலாகிறது?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.ta" title="திரை தானாக விரைவிலேயே பூட்டிக்கொள்கிறது"><span class="title">திரை தானாக விரைவிலேயே பூட்டிக்கொள்கிறது</span><span class="linkdiv-dash"> — </span><span class="desc">திரையைப் பூட்ட காத்திருக்க வேண்டிய நேரத்தை <span class="gui">தனியுரிமை</span> அமைவுகளில் மாற்றலாம்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.ta" title="என் கணினி இயங்கவில்லை"><span class="title">என் கணினி இயங்கவில்லை</span><span class="linkdiv-dash"> — </span><span class="desc">கேபிள்கள் தளர்வாக இருப்பது அல்லது வன்பொருள் சிக்கல்கள் காரணமாக இருக்கலாம்.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="பொதுவான பிரச்சினைகள்">வன்பொருள் பிரச்சினைகள்</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.ta#problems" title="பொதுவான பிரச்சினைகள்">வன்பொருள் பிரச்சினைகள்</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

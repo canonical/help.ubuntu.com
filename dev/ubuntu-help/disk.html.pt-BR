@@ -43,31 +43,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Discos &amp; armazenamento</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Ajustando o tamanho de um sistema de arquivos"><span class="title">Ajustando o tamanho de um sistema de arquivos</span><span class="linkdiv-dash"> — </span><span class="desc">Diminua ou aumente um sistema de arquivos e sua partição.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Corrigindo um sistema de arquivos danificado"><span class="title">Corrigindo um sistema de arquivos danificado</span><span class="linkdiv-dash"> — </span><span class="desc">Verifique se um sistema de arquivos está danificado e faça-o voltar a funcionar.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html.pt-BR" title="Ajustando o tamanho de um sistema de arquivos"><span class="title">Ajustando o tamanho de um sistema de arquivos</span><span class="linkdiv-dash"> — </span><span class="desc">Diminua ou aumente um sistema de arquivos e sua partição.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html.pt-BR" title="Corrigindo um sistema de arquivos danificado"><span class="title">Corrigindo um sistema de arquivos danificado</span><span class="linkdiv-dash"> — </span><span class="desc">Verifique se um sistema de arquivos está danificado e faça-o voltar a funcionar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.pt-BR" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
     Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
     </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="Gerenciando volumes e partições"><span class="title">Gerenciando volumes e partições</span><span class="linkdiv-dash"> — </span><span class="desc">Entenda o que são volumes e partições e use o utilitário de unidades para gerenciá-los.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-format.html" title="Limpando tudo de uma unidade removível"><span class="title">Limpando tudo de uma unidade removível</span><span class="linkdiv-dash"> — </span><span class="desc">Remova todos os arquivos e pastas de um disco rígido externo ou um pendrive USB formatando-o.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="Testando o desempenho do seu disco rígido"><span class="title">Testando o desempenho do seu disco rígido</span><span class="linkdiv-dash"> — </span><span class="desc">Realize testes de desempenho para ver quão rápido é seu disco rígido.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Verificando problemas no seu disco rígido"><span class="title">Verificando problemas no seu disco rígido</span><span class="linkdiv-dash"> — </span><span class="desc">Teste se seu disco rígido tem problemas para se assegurar que está saudável.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="Verificando quanto resta de espaço em disco"><span class="title">Verificando quanto resta de espaço em disco</span><span class="linkdiv-dash"> — </span><span class="desc">Use o <span class="gui">Analisador de uso de disco</span> ou o <span class="gui">Monitor do sistema</span> para verificar o espaço e a capacidade.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-partitions.html.pt-BR" title="Gerenciando volumes e partições"><span class="title">Gerenciando volumes e partições</span><span class="linkdiv-dash"> — </span><span class="desc">Entenda o que são volumes e partições e use o utilitário de unidades para gerenciá-los.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-format.html.pt-BR" title="Limpando tudo de uma unidade removível"><span class="title">Limpando tudo de uma unidade removível</span><span class="linkdiv-dash"> — </span><span class="desc">Remova todos os arquivos e pastas de um disco rígido externo ou um pendrive USB formatando-o.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html.pt-BR" title="Testando o desempenho do seu disco rígido"><span class="title">Testando o desempenho do seu disco rígido</span><span class="linkdiv-dash"> — </span><span class="desc">Realize testes de desempenho para ver quão rápido é seu disco rígido.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html.pt-BR" title="Verificando problemas no seu disco rígido"><span class="title">Verificando problemas no seu disco rígido</span><span class="linkdiv-dash"> — </span><span class="desc">Teste se seu disco rígido tem problemas para se assegurar que está saudável.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-capacity.html.pt-BR" title="Verificando quanto resta de espaço em disco"><span class="title">Verificando quanto resta de espaço em disco</span><span class="linkdiv-dash"> — </span><span class="desc">Use o <span class="gui">Analisador de uso de disco</span> ou o <span class="gui">Monitor do sistema</span> para verificar o espaço e a capacidade.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardwares &amp; drivers">Hardwares &amp; drivers</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Problemas comuns">Problemas de hardware</a></span>, <span class="link"><a href="printing.html" title="Imprimindo">impressoras</a></span>, <span class="link"><a href="power.html" title="Energia &amp; bateria">configurações de energia</a></span>, <span class="link"><a href="color.html" title="Gerenciamento de cores">gerenciamento de cores</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Discos &amp; armazenamento">discos</a></span>…</span>
+<a href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardwares &amp; drivers</a><span class="desc"> — <span class="link"><a href="hardware.html.pt-BR#problems" title="Problemas comuns">Problemas de hardware</a></span>, <span class="link"><a href="printing.html.pt-BR" title="Imprimindo">impressoras</a></span>, <span class="link"><a href="power.html.pt-BR" title="Energia &amp; bateria">configurações de energia</a></span>, <span class="link"><a href="color.html.pt-BR" title="Gerenciamento de cores">gerenciamento de cores</a></span>, <span class="link"><a href="bluetooth.html.pt-BR" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.pt-BR" title="Discos &amp; armazenamento">discos</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

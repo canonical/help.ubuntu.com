@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Tips &amp; tricks">Tips &amp; tricks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.he" title="Tips &amp; tricks">Tips &amp; tricks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Enter special characters</span></h1></div>
@@ -55,26 +55,14 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Methods to enter characters</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Character map">Character map</a></li>
-<li class="links "><a href="tips-specialchars.html#characters" title="Characters">Characters</a></li>
-<li class="links "><a href="tips-specialchars.html#compose" title="Compose key">Compose key</a></li>
-<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Code points">Code points</a></li>
-<li class="links "><a href="tips-specialchars.html#layout" title="Keyboard layouts">Keyboard layouts</a></li>
-<li class="links "><a href="tips-specialchars.html#im" title="Input methods">Input methods</a></li>
+<li class="links "><a href="tips-specialchars.html.he#characters" title="Characters">Characters</a></li>
+<li class="links "><a href="tips-specialchars.html.he#compose" title="Compose key">Compose key</a></li>
+<li class="links "><a href="tips-specialchars.html.he#ctrlshiftu" title="Code points">Code points</a></li>
+<li class="links "><a href="tips-specialchars.html.he#layout" title="Keyboard layouts">Keyboard layouts</a></li>
+<li class="links "><a href="tips-specialchars.html.he#im" title="Input methods">Input methods</a></li>
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Character map</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">GNOME comes with a character map application that allows you to browse
-    all the characters in Unicode. Use the character map to find the character
-    you want, and then copy and paste it to wherever you need it.</p>
-<p class="p">You can find <span class="app">Character Map</span> in the <span class="gui">Activities</span>
-    overview. For more information on the character map, see the
-    <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">Character Map Manual</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Characters</span></h2></div>
 <div class="region"><div class="contents">
@@ -100,13 +88,17 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Define a compose key</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.he#activities" title="Activities overview">Activities</a></span>
+        overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Keyboard &amp; Mouse</span> tab.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span> setting.</p></li>
-<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you want to use.</p></li>
-<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose key.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span>
+        setting.</p></li>
+<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you
+        want to use.</p></li>
+<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose
+        key.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div>
 </div></div>
@@ -149,7 +141,7 @@
 <div class="region"><div class="contents"><p class="p">You can make your keyboard behave like the keyboard for another language,
     regardless of the letters printed on the keys. You can even easily switch
     between different keyboard layouts using an icon in the top bar. To learn
-    how, see <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>.</p></div></div>
+    how, see <span class="link"><a href="keyboard-layouts.html.he" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Input methods</span></h2></div>
@@ -170,13 +162,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Tips &amp; tricks">Tips &amp; tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Enter special characters">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Middle-click">middle click shortcuts</a></span>…</span>
+<a href="tips.html.he" title="Tips &amp; tricks">Tips &amp; tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.he" title="Enter special characters">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html.he" title="Middle-click">middle click shortcuts</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">עיון נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.he" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
 </li></ul></div>
 </div></div>
 </div>

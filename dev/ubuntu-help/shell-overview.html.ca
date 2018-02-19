@@ -43,45 +43,45 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Your desktop</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Introduction to GNOME"><span class="title">Introduction to GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.ca" title="Introduction to GNOME"><span class="title">Introduction to GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
     <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.ca" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
     users, and so on.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Start applications"><span class="title">Start applications</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.ca" title="Start applications"><span class="title">Start applications</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Customize your desktop</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="Calendar appointments"><span class="title">Calendar appointments</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.ca" title="Calendar appointments"><span class="title">Calendar appointments</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
     screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html" title="Notifications and the message tray"><span class="title">Notifications and the message tray</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
+<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.ca" title="Notifications and the message tray"><span class="title">Notifications and the message tray</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
     certain events happen.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html" title="Pin your favorite apps to the dash"><span class="title">Pin your favorite apps to the dash</span><span class="linkdiv-dash"> — </span><span class="desc">Add (or remove) frequently-used program icons on the dash.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.ca" title="Pin your favorite apps to the dash"><span class="title">Pin your favorite apps to the dash</span><span class="linkdiv-dash"> — </span><span class="desc">Add (or remove) frequently-used program icons on the dash.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="apps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Applications and windows</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="startup-applications.html" title="Startup Applications"><span class="title">Startup Applications</span><span class="linkdiv-dash"> — </span><span class="desc">Choose what applications to start when you log in.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Switch between windows"><span class="title">Switch between windows</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html" title="The Lock Screen"><span class="title">The Lock Screen</span><span class="linkdiv-dash"> — </span><span class="desc">The decorative and functional lock screen conveys useful
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.ca" title="Startup Applications"><span class="title">Startup Applications</span><span class="linkdiv-dash"> — </span><span class="desc">Choose what applications to start when you log in.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.ca" title="Switch between windows"><span class="title">Switch between windows</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.ca" title="The Lock Screen"><span class="title">The Lock Screen</span><span class="linkdiv-dash"> — </span><span class="desc">The decorative and functional lock screen conveys useful
     information.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Useful keyboard shortcuts"><span class="title">Useful keyboard shortcuts</span><span class="linkdiv-dash"> — </span><span class="desc">Get around the desktop using the keyboard.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="status-icons.html" title="What do the icons in the top bar mean?"><span class="title">What do the icons in the top bar mean?</span><span class="linkdiv-dash"> — </span><span class="desc">Explains the meanings of the icons located on the right of the top bar.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows.html" title="Windows and workspaces"><span class="title">Windows and workspaces</span><span class="linkdiv-dash"> — </span><span class="desc">Move and organize your windows.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.ca" title="Useful keyboard shortcuts"><span class="title">Useful keyboard shortcuts</span><span class="linkdiv-dash"> — </span><span class="desc">Get around the desktop using the keyboard.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="status-icons.html.ca" title="What do the icons in the top bar mean?"><span class="title">What do the icons in the top bar mean?</span><span class="linkdiv-dash"> — </span><span class="desc">Explains the meanings of the icons located on the right of the top bar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows.html.ca" title="Windows and workspaces"><span class="title">Windows and workspaces</span><span class="linkdiv-dash"> — </span><span class="desc">Move and organize your windows.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -89,7 +89,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Guia de l'escriptori de l'Ubuntu">Guia de l'escriptori de l'Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu">Guia de l'escriptori de l'Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

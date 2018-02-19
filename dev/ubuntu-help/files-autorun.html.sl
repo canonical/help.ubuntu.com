@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="media.html" title="Zvok, video in slike">Zvok, video in slike</a> › <a class="trail" href="media.html#photos" title="Fotografije in digitalni fotoaparati">Fotografije</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="media.html.sl" title="Zvok, video in slike">Zvok, video in slike</a> › <a class="trail" href="media.html.sl#photos" title="Fotografije in digitalni fotoaparati">Fotografije</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="media.html" title="Zvok, video in slike">Zvok, video in slike</a> › <a class="trail" href="media.html#music" title="Glasba in prenosni predvajalniki zvoka">Glasba in predvajalniki</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="media.html.sl" title="Zvok, video in slike">Zvok, video in slike</a> › <a class="trail" href="media.html.sl#music" title="Glasba in prenosni predvajalniki zvoka">Glasba in predvajalniki</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html#removable" title="Odstranljivi pogoni in zunanji diski">Odstranljivi pogoni in zunanji diski</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html.sl#removable" title="Odstranljivi pogoni in zunanji diski">Odstranljivi pogoni in zunanji diski</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="media.html" title="Zvok, video in slike">Zvok, video in slike</a> › <a class="trail" href="media.html#videos" title="Videoposnetki in video kamere">Video posnetki</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="media.html.sl" title="Zvok, video in slike">Zvok, video in slike</a> › <a class="trail" href="media.html.sl#videos" title="Videoposnetki in video kamere">Video posnetki</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <p class="p">Programe lahko nastavite na samodejni zagon, ko priklopite napravo. Morda boste želeli da se ob priklopu digitalnega fotoaparata zažene vaš organizator fotografij. To zmožnost lahko tudi izklopite, kar pomeni, da se ob priklopu naprave ne zgodi nič.</p>
 <p class="p">Za odločitev kateri programi naj se zaženejo, ko priklopite različne naprave:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
     start typing <span class="gui">Details</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Removable Media</span>.</p></li>
@@ -94,7 +94,7 @@
 <dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
     <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
     video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
+    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html.sl" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
     </p></dd>
 <dt class="terms">Prazni diski</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing
@@ -126,10 +126,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#photos" title="Fotografije in digitalni fotoaparati">Fotografije</a></li>
-<li class="links "><a href="media.html#music" title="Glasba in prenosni predvajalniki zvoka">Glasba in predvajalniki</a></li>
-<li class="links "><a href="files.html#removable" title="Odstranljivi pogoni in zunanji diski">Odstranljivi pogoni in zunanji diski</a></li>
-<li class="links "><a href="media.html#videos" title="Videoposnetki in video kamere">Video posnetki</a></li>
+<li class="links "><a href="media.html.sl#photos" title="Fotografije in digitalni fotoaparati">Fotografije</a></li>
+<li class="links "><a href="media.html.sl#music" title="Glasba in prenosni predvajalniki zvoka">Glasba in predvajalniki</a></li>
+<li class="links "><a href="files.html.sl#removable" title="Odstranljivi pogoni in zunanji diski">Odstranljivi pogoni in zunanji diski</a></li>
+<li class="links "><a href="media.html.sl#videos" title="Videoposnetki in video kamere">Video posnetki</a></li>
 </ul></div>
 </div></div></div>
 </div>

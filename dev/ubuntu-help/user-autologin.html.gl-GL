@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="user-accounts.html" title="Contas de usuario">Usuarios</a> › <a class="trail" href="user-accounts.html#manage" title="Xestionar contas de usuario">Contas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="user-accounts.html.gl-GL" title="Contas de usuario">Usuarios</a> › <a class="trail" href="user-accounts.html.gl-GL#manage" title="Xestionar contas de usuario">Contas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Iniciar a sesión automaticamente</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Pode cambiar as súas preferencias para que poida iniciar a sesión automaticamente na súa conta cando arrinca o computador:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Users</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Users</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Seleccione a conta de usuario na que quere iniciar sesión automaticamente no arrinque.</p></li>
@@ -66,12 +66,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Xestionar contas de usuario">Xestionar contas de usuario</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.gl-GL#manage" title="Xestionar contas de usuario">Xestionar contas de usuario</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-exit.html" title="Log out, power off or switch users">Log out, power off or switch users</a><span class="desc"> — Aprenda como saír da súa conta de usuario, saíndo a sesión, cambiando de usuario, etc.</span>
+<a href="shell-exit.html.gl-GL" title="Log out, power off or switch users">Log out, power off or switch users</a><span class="desc"> — Aprenda como saír da súa conta de usuario, saíndo a sesión, cambiando de usuario, etc.</span>
 </li></ul></div>
 </div></div>
 </div>

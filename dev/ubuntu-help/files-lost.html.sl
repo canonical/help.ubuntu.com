@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html.sl#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Iskanje izgubljene datoteke</span></h1></div>
@@ -53,19 +53,19 @@
 these tips.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">If you do not remember where you saved the file, but you have some
-  idea of how you named it, you can <span class="link"><a href="files-search.html" title="Iskanje datotek">search for the
+  idea of how you named it, you can <span class="link"><a href="files-search.html.sl" title="Iskanje datotek">search for the
   file by name</a></span>.</p></li>
 <li class="list"><p class="p">If you just downloaded the file, your web browser might
   have automatically saved it to a common folder. Check the
   <span class="file">Desktop</span> and <span class="file">Downloads</span> folders in your home
   folder.</p></li>
-<li class="list"><p class="p">Morda ste datoteko izbrisali po nesreči. Ko datoteko izbrišete, se premakne v smeti, kjer ostane dokler smeti ročno ne izpraznite. Za navodila kako obnoviti izbrisano datoteko si oglejte <span class="link"><a href="files-recover.html" title="Obnovitev datoteke iz Smeti">Obnovitev datoteke iz Smeti</a></span>.</p></li>
+<li class="list"><p class="p">Morda ste datoteko izbrisali po nesreči. Ko datoteko izbrišete, se premakne v smeti, kjer ostane dokler smeti ročno ne izpraznite. Za navodila kako obnoviti izbrisano datoteko si oglejte <span class="link"><a href="files-recover.html.sl" title="Obnovitev datoteke iz Smeti">Obnovitev datoteke iz Smeti</a></span>.</p></li>
 <li class="list"><p class="p">You might have renamed the file in a way that made the file hidden.
   Files that start with a <span class="file">.</span> or end with a <span class="file">~</span> are
   hidden in the file manager. Click the
   
   view options button in the <span class="app">Files</span> toolbar and enable <span class="gui">Show
-  Hidden Files</span> to display them. See <span class="link"><a href="files-hidden.html" title="Skritje datoteke">Skritje datoteke</a></span> to learn
+  Hidden Files</span> to display them. See <span class="link"><a href="files-hidden.html.sl" title="Skritje datoteke">Skritje datoteke</a></span> to learn
   more.</p></li>
 </ul></div></div></div>
 </div>
@@ -74,12 +74,12 @@ these tips.</p>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sl#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-recover.html" title="Obnovitev datoteke iz Smeti">Obnovitev datoteke iz Smeti</a><span class="desc"> — Izbrisane datoteke so običajno poslane v Smeti. Datoteke lahko iz Smeti dobite nazaj.</span>
+<a href="files-recover.html.sl" title="Obnovitev datoteke iz Smeti">Obnovitev datoteke iz Smeti</a><span class="desc"> — Izbrisane datoteke so običajno poslane v Smeti. Datoteke lahko iz Smeti dobite nazaj.</span>
 </li></ul></div>
 </div></div>
 </div>

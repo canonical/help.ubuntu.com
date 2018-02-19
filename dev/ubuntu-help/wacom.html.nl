@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wacom-tekentablet</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html" title="De pen configureren"><span class="title">De pen configureren</span><span class="linkdiv-dash"> — </span><span class="desc">De knopfuncties en drukgevoeligheid van de Wacom-pen bepalen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html" title="Een monitor kiezen"><span class="title">Een monitor kiezen</span><span class="linkdiv-dash"> — </span><span class="desc">Het Wacom-tablet aan een bepaald beeldscherm koppelen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html" title="Het tablet gebruiken met uw linkerhand"><span class="title">Het tablet gebruiken met uw linkerhand</span><span class="linkdiv-dash"> — </span><span class="desc">Stel het Wacom-tablet in op <span class="gui">Linkshandige oriëntatie</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">Het tablet omschakelen tussen tabletmodus en muismodus.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.nl" title="De pen configureren"><span class="title">De pen configureren</span><span class="linkdiv-dash"> — </span><span class="desc">De knopfuncties en drukgevoeligheid van de Wacom-pen bepalen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.nl" title="Een monitor kiezen"><span class="title">Een monitor kiezen</span><span class="linkdiv-dash"> — </span><span class="desc">Het Wacom-tablet aan een bepaald beeldscherm koppelen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.nl" title="Het tablet gebruiken met uw linkerhand"><span class="title">Het tablet gebruiken met uw linkerhand</span><span class="linkdiv-dash"> — </span><span class="desc">Stel het Wacom-tablet in op <span class="gui">Linkshandige oriëntatie</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.nl" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">Het tablet omschakelen tussen tabletmodus en muismodus.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Gebruikers- &amp; systeeminstellingen</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Toetsenbord">Toetsenbord</a></span>, <span class="link"><a href="mouse.html" title="Muis">muis</a></span>, <span class="link"><a href="prefs-display.html" title="Weergave &amp; scherm">beeldscherm</a></span>, <span class="link"><a href="prefs-language.html" title="Regio &amp; taal">talen</a></span>, <span class="link"><a href="user-accounts.html" title="Gebruikersaccounts">gebruikersaccounts</a></span>...</span>
+<a href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Gebruikers- &amp; systeeminstellingen</a><span class="desc"> — <span class="link"><a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a></span>, <span class="link"><a href="mouse.html.nl" title="Muis">muis</a></span>, <span class="link"><a href="prefs-display.html.nl" title="Weergave &amp; scherm">beeldscherm</a></span>, <span class="link"><a href="prefs-language.html.nl" title="Regio &amp; taal">talen</a></span>, <span class="link"><a href="user-accounts.html.nl" title="Gebruikersaccounts">gebruikersaccounts</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

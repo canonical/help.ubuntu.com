@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html#backup" title="Ustvarjanje varnostnih kopij">Ustvarjanje varnostnih kopij</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html.sl#backup" title="Ustvarjanje varnostnih kopij">Ustvarjanje varnostnih kopij</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Obnovitev varnostne kopije</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Če ste izgubili ali izbrisali nekatere od svojih datotek, vendar imate njihovo varnostno kopijo, jih lahko obnovite iz varnostne kopije:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">V primeru da ste svoje datoteke enostavno kopirali na varno mesto kot je zunanji trdi disk, drug računalnik na omrežju ali pogonu USB, jih lahko <span class="link"><a href="files-copy.html" title="Kopiranje ali premik datotek ali map">kopirate</a></span> nazaj na svoj računalnik.</p></li>
+<li class="list"><p class="p">V primeru da ste svoje datoteke enostavno kopirali na varno mesto kot je zunanji trdi disk, drug računalnik na omrežju ali pogonu USB, jih lahko <span class="link"><a href="files-copy.html.sl" title="Kopiranje ali premik datotek ali map">kopirate</a></span> nazaj na svoj računalnik.</p></li>
 <li class="list"><p class="p">Če ste varnostno kopijo ustvarili s programom kot je <span class="app">Déjà Dup</span>, vam priporočamo, da za obnovitev varnostne kopije uporabite isti program. Oglejte si pomoč za program s katerim ste ustvarili varnostno kopijo. Vsebovala bo natančna navodila za obnovitev datotek.</p></li>
 </ul></div></div></div>
 </div>
@@ -59,7 +59,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Ustvarjanje varnostnih kopij">Ustvarjanje varnostnih kopij</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sl#backup" title="Ustvarjanje varnostnih kopij">Ustvarjanje varnostnih kopij</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

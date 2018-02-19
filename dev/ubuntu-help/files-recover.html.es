@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Recuperar un archivo de la papelera</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Para restaurar un archivo de la papelera:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Archivos</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Archivos</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="app">Archivos</span> para abrir el gestor de archivos.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Papelera</span> en la barra lateral. Si no ve la barra lateral, pulse el botón <span class="gui">Archivos</span> en la barra de herramientas y elija <span class="gui">Barra lateral</span></p></li>
 <li class="steps"><p class="p">Si su archivo eliminado está ahí, selecciónelo y elija <span class="gui">Restaurar</span>. Se devolverá a la carpeta de la que se eliminó.</p></li>
@@ -67,16 +67,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.es#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-delete.html" title="Eliminar archivos y carpetas">Eliminar archivos y carpetas</a><span class="desc"> — Quitar archivos o carpetas que ya no necesita.</span>
+<a href="files-delete.html.es" title="Eliminar archivos y carpetas">Eliminar archivos y carpetas</a><span class="desc"> — Quitar archivos o carpetas que ya no necesita.</span>
 </li>
 <li class="links ">
-<a href="files-lost.html" title="Encontrar un archivo perdido">Encontrar un archivo perdido</a><span class="desc"> — Siga estas indicaciones si no encuentra el archivo que ha creado o descargado.</span>
+<a href="files-lost.html.es" title="Encontrar un archivo perdido">Encontrar un archivo perdido</a><span class="desc"> — Siga estas indicaciones si no encuentra el archivo que ha creado o descargado.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,74 +43,74 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Inställningar för användare och system</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="user-accounts.html" title="Användarkonton">Användarkonton</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="user-add.html" title="Lägg till ett nytt användarkonto">Lägg till användare</a></span>, <span class="link"><a href="user-changepassword.html" title="Välj ditt lösenord">ändra lösenord</a></span>, <span class="link"><a href="user-admin-change.html" title="Ändra vem som har administratörsbehörighet">administratörer</a></span>…</span></div>
+<div class="links-grid-link"><a href="user-accounts.html.sv" title="Användarkonton">Användarkonton</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="user-add.html.sv" title="Lägg till ett nytt användarkonto">Lägg till användare</a></span>, <span class="link"><a href="user-changepassword.html.sv" title="Välj ditt lösenord">ändra lösenord</a></span>, <span class="link"><a href="user-admin-change.html.sv" title="Ändra vem som har administratörsbehörighet">administratörer</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="clock.html" title="Datum och tid">Datum och tid</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="clock-set.html" title="Ändra datum och tid">Sätt datum och tid</a></span>, <span class="link"><a href="clock-world.html" title="Lägg till en världsklocka">världsklockor</a></span>, <span class="link"><a href="clock-timezone.html" title="Ändra din tidszon">tidszon</a></span>, <span class="link"><a href="clock-calendar.html" title="Kalendermöten">kalender och möten</a></span>…</span></div>
+<div class="links-grid-link"><a href="clock.html.sv" title="Datum och tid">Datum och tid</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-set.html.sv" title="Ändra datum och tid">Sätt datum och tid</a></span>, <span class="link"><a href="clock-world.html.sv" title="Lägg till en världsklocka">världsklockor</a></span>, <span class="link"><a href="clock-timezone.html.sv" title="Ändra din tidszon">tidszon</a></span>, <span class="link"><a href="clock-calendar.html.sv" title="Kalendermöten">kalender och möten</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-sharing.html" title="Dela-inställningar">Dela-inställningar</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sharing-bluetooth.html" title="Styr delning över Bluetooth">Bluetooth-delning</a></span>, <span class="link"><a href="sharing-personal.html" title="Dela ut dina personliga filer">Delning av personliga filer</a></span>, <span class="link"><a href="sharing-desktop.html" title="Dela ditt skrivbord">Skärmdelning</a></span>, <span class="link"><a href="sharing-media.html" title="Dela din musik, foton och videor">Mediadelning</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs-sharing.html.sv" title="Dela-inställningar">Dela-inställningar</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-bluetooth.html.sv" title="Styr delning över Bluetooth">Bluetooth-delning</a></span>, <span class="link"><a href="sharing-personal.html.sv" title="Dela ut dina personliga filer">Delning av personliga filer</a></span>, <span class="link"><a href="sharing-desktop.html.sv" title="Dela ditt skrivbord">Skärmdelning</a></span>, <span class="link"><a href="sharing-media.html.sv" title="Dela din musik, foton och videor">Mediadelning</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html" title="Färghantering">Färghantering</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Varför är färghantering viktigt?">Varför är detta viktigt</a></span>, <span class="link"><a href="color.html#profiles" title="Färgprofiler">Färgprofiler</a></span>, <span class="link"><a href="color.html#calibration" title="Kalibrering">Hur du kalibrerar en enhet</a></span>…</span></div>
+<div class="links-grid-link"><a href="color.html.sv" title="Färghantering">Färghantering</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.sv" title="Varför är färghantering viktigt?">Varför är detta viktigt</a></span>, <span class="link"><a href="color.html.sv#profiles" title="Färgprofiler">Färgprofiler</a></span>, <span class="link"><a href="color.html.sv#calibration" title="Kalibrering">Hur du kalibrerar en enhet</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html#sound" title="Grundläggande ljud">Ljud</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html" title="Ändra ljudvolymen">Volym</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Använd andra högtalar eller hörlurar">högtalare och hörlurar</a></span>, <span class="link"><a href="sound-usemic.html" title="Använd en annan mikrofon">mikrofoner</a></span>…</span></div>
+<div class="links-grid-link"><a href="media.html.sv#sound" title="Grundläggande ljud">Ljud</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html.sv" title="Ändra ljudvolymen">Volym</a></span>, <span class="link"><a href="sound-usespeakers.html.sv" title="Använd andra högtalar eller hörlurar">högtalare och hörlurar</a></span>, <span class="link"><a href="sound-usemic.html.sv" title="Använd en annan mikrofon">mikrofoner</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html" title="Mus">Mus</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html" title="Använd din mus med vänster hand">Vänsterhänt</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Justera hastigheten för musen och styrplattan">hastighet och känslighet</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Klicka, dra eller rulla med styrplattan">klickning och rullning med styrplatta</a></span>…</span></div>
+<div class="links-grid-link"><a href="mouse.html.sv" title="Mus">Mus</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.sv" title="Använd din mus med vänster hand">Vänsterhänt</a></span>, <span class="link"><a href="mouse-sensitivity.html.sv" title="Justera hastigheten för musen och styrplattan">hastighet och känslighet</a></span>, <span class="link"><a href="mouse-touchpad-click.html.sv" title="Klicka, dra eller rulla med styrplattan">klickning och rullning med styrplatta</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="accounts.html" title="Nätkonton">Nätkonton</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html" title="Lägg till ett konto">Lägg till ett nätkonto</a></span>, <span class="link"><a href="accounts-remove.html" title="Ta bort ett konto">Ta bort ett konto</a></span>, <span class="link"><a href="accounts-which-application.html" title="Nättjänster och program">Lär dig om tjänster</a></span>…</span></div>
+<div class="links-grid-link"><a href="accounts.html.sv" title="Nätkonton">Nätkonton</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html.sv" title="Lägg till ett konto">Lägg till ett nätkonto</a></span>, <span class="link"><a href="accounts-remove.html.sv" title="Ta bort ett konto">Ta bort ett konto</a></span>, <span class="link"><a href="accounts-which-application.html.sv" title="Nättjänster och program">Lär dig om tjänster</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-language.html" title="Region &amp; språk">Region &amp; språk</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-language.html" title="Ändra vilket språk du använder">Ändra språk</a></span>, <span class="link"><a href="session-formats.html" title="Ändra datum och mätvärden">region och format</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Använd alternativa tangentbordslayouter">tangentbordslayouter</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs-language.html.sv" title="Region &amp; språk">Region &amp; språk</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.sv" title="Ändra vilket språk du använder">Ändra språk</a></span>, <span class="link"><a href="session-formats.html.sv" title="Ändra datum och mätvärden">region och format</a></span>, <span class="link"><a href="keyboard-layouts.html.sv" title="Använd alternativa tangentbordslayouter">tangentbordslayouter</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="privacy.html" title="Sekretessinställningar">Sekretessinställningar</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="privacy-screen-lock.html" title="Lås automatiskt din skärm">Skärmlås</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Stäng av eller begränsa filhistorik">Användningshistorik</a></span>, <span class="link"><a href="privacy-purge.html" title="Töm papperskorgen &amp; ta bort tillfälliga filer">Ta bort skräp &amp; temporära filer</a></span>…</span></div>
+<div class="links-grid-link"><a href="privacy.html.sv" title="Sekretessinställningar">Sekretessinställningar</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="privacy-screen-lock.html.sv" title="Lås automatiskt din skärm">Skärmlås</a></span>, <span class="link"><a href="privacy-history-recent-off.html.sv" title="Stäng av eller begränsa filhistorik">Användningshistorik</a></span>, <span class="link"><a href="privacy-purge.html.sv" title="Töm papperskorgen &amp; ta bort tillfälliga filer">Ta bort skräp &amp; temporära filer</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="power.html" title="Ström och batteri">Ström och batteri</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="power-status.html" title="Kontrollera batteristatus">Batteristatus</a></span>, <span class="link"><a href="power-suspend.html" title="Vad händer när jag försätter min dator i vänteläge?">försätta i vänteläge</a></span>, <span class="link"><a href="power-whydim.html" title="Varför tonas min skärm ner efter ett tag?">skärmtoning</a></span>…</span></div>
+<div class="links-grid-link"><a href="power.html.sv" title="Ström och batteri">Ström och batteri</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="power-status.html.sv" title="Kontrollera batteristatus">Batteristatus</a></span>, <span class="link"><a href="power-suspend.html.sv" title="Vad händer när jag försätter min dator i vänteläge?">försätta i vänteläge</a></span>, <span class="link"><a href="power-whydim.html.sv" title="Varför tonas min skärm ner efter ett tag?">skärmtoning</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="keyboard.html" title="Tangentbord">Tangentbord</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html" title="Använd alternativa tangentbordslayouter">Tangentbordslayouter</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Få tangentbordsmarkören att blinka">markörblinkning</a></span>, <span class="link"><a href="a11y.html#mobility" title="Rörelsehinder">tangentbordshjälpmedel</a></span>…</span></div>
+<div class="links-grid-link"><a href="keyboard.html.sv" title="Tangentbord">Tangentbord</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.sv" title="Använd alternativa tangentbordslayouter">Tangentbordslayouter</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sv" title="Få tangentbordsmarkören att blinka">markörblinkning</a></span>, <span class="link"><a href="a11y.html.sv#mobility" title="Rörelsehinder">tangentbordshjälpmedel</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="startup-applications.html" title="Uppstartsprogram">Uppstartsprogram</a></div>
+<div class="links-grid-link"><a href="startup-applications.html.sv" title="Uppstartsprogram">Uppstartsprogram</a></div>
 <div class="desc"><span class="desc">Välj vilka program som skall startas när du loggar in.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-display.html" title="Visning och skärm">Visning och skärm</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="look-background.html" title="Ändra skrivbords- och låsskärmsbakgrunderna">Bakgrund</a></span>, <span class="link"><a href="look-resolution.html" title="Ändra upplösning eller rotation på skärmen">storlek och rotering</a></span>, ljusstyrka…</span></div>
+<div class="links-grid-link"><a href="prefs-display.html.sv" title="Visning och skärm">Visning och skärm</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="look-background.html.sv" title="Ändra skrivbords- och låsskärmsbakgrunderna">Bakgrund</a></span>, <span class="link"><a href="look-resolution.html.sv" title="Ändra upplösning eller rotation på skärmen">storlek och rotering</a></span>, ljusstyrka…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="wacom.html" title="Wacom ritplatta">Wacom ritplatta</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="wacom-multi-monitor.html" title="Välj en skärm">Mappa en skärm</a></span>, <span class="link"><a href="wacom-stylus.html" title="Konfigurera pennan">konfigurera pennan</a></span>, <span class="link"><a href="wacom-left-handed.html" title="Använd plattan med vänster hand">använd plattan med vänster hand</a></span>…</span></div>
+<div class="links-grid-link"><a href="wacom.html.sv" title="Wacom ritplatta">Wacom ritplatta</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="wacom-multi-monitor.html.sv" title="Välj en skärm">Mappa en skärm</a></span>, <span class="link"><a href="wacom-stylus.html.sv" title="Konfigurera pennan">konfigurera pennan</a></span>, <span class="link"><a href="wacom-left-handed.html.sv" title="Använd plattan med vänster hand">använd plattan med vänster hand</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Handbok för Ubuntu-skrivbordet">Handbok för Ubuntu-skrivbordet</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.sv" title="Handbok för Ubuntu-skrivbordet">Handbok för Ubuntu-skrivbordet</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

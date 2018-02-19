@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="power.html" title="Napájení a baterie">Napájení a baterie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="power.html" title="Napájení a baterie">Napájení a baterie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Spotřebu z baterie můžete snížit vypnutím Bluetooth, Wi-Fi nebo mobilního širokopásmového připojení v době, kdy je nevyužíváte.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Napájení</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Napájení</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Napájení</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">V části <span class="gui">Šetření energií</span> najdete vypínače pro <span class="gui">Wi-Fi</span>, <span class="gui">Mobilní připojení</span> a <span class="gui">Bluetooth</span>. Nepoužívané věci přepněte na <span class="gui">○</span> (vypnuto). Až je budete potřebovat, znovu je přepněte na <span class="gui">❙</span> (zapnuto).</p></li>
 </ol></div></div></div>
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Napájení a baterie">Napájení a baterie</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Kontrola stavu baterie">Stav baterie</a></span>, <span class="link"><a href="power-suspend.html" title="Co se stane, když svůj počítač uspím?">uspání</a></span>, <span class="link"><a href="power-whydim.html" title="Proč moje obrazovka po krátké době potemní?">stmívání obrazovky</a></span>…</span>
+<a href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a><span class="desc"> — <span class="link"><a href="power-status.html.cs" title="Kontrola stavu baterie">Stav baterie</a></span>, <span class="link"><a href="power-suspend.html.cs" title="Co se stane, když svůj počítač uspím?">uspání</a></span>, <span class="link"><a href="power-whydim.html.cs" title="Proč moje obrazovka po krátké době potemní?">stmívání obrazovky</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html" title="Snižte spotřebu a prodlužte výdrž baterie">Snižte spotřebu a prodlužte výdrž baterie</a><span class="desc"> — Tipy na snížení spotřeby vašeho počítače.</span>
+<a href="power-batterylife.html.cs" title="Snižte spotřebu a prodlužte výdrž baterie">Snižte spotřebu a prodlužte výdrž baterie</a><span class="desc"> — Tipy na snížení spotřeby vašeho počítače.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="prefs-display.html" title="காட்சி &amp; திரை">காட்சி &amp; திரை</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="prefs-display.html.ta" title="காட்சி &amp; திரை">காட்சி &amp; திரை</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">திரையில் உள்ள உரையின் அளவை மாற்றுங்கள்</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">நீங்கள் <span class="em">திரை தெளிவுத்திறன்</span> ஐ மாற்றுவதன் மூலம் திரையில் தோன்றும் உருப்படிகள் ஒவ்வொன்றும் எவ்வளவு பெரியதாகக் (அல்லது எவ்வளவு தெளிவாக) காண்பிக்கப்படுகிறது என்பதை மாற்ற முடியும். <span class="em">சுழற்சி</span> ஐ மாற்றுவதன் மூலம் உருப்படிகள் எப்படிக் காட்சியளிக்கின்றன என்பதையும் மாற்ற முடியும் (உதாரணமாக, நீங்கள் ஒரு சுழலும் காட்சி சாதனத்தைக் கொண்டிருந்தால் இது பயன்படும்).</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Displays</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Displays</span> to open the panel.</p></li>
 <li class="steps"><p class="p">உங்களிடம் பல காட்சி சாதனங்கள் இருந்து, அவை பிரதிபலிப்பவையாக இல்லாவிட்டால், நீங்கள் ஒவ்வொரு காட்சி சாதனத்திலும் வெவ்வேறூ அமைவுகளை வைத்துக்கொள்ள முடியும். மாதிரிக்காட்சைப் பகுதியில் ஒரு காட்சி சாதனத்தைத் தேர்ந்தெடுக்கவும்.</p></li>
@@ -72,7 +72,7 @@
   resolution that does not match the aspect ratio of your display, the screen
   will be letterboxed to avoid distortion, by adding black bars to the top and
   bottom or both sides of the screen.</p>
-<p class="p"><span class="gui">தெளிவுத்திறன்</span> கீழ் தோன்று பட்டியலில் இருந்து நீங்கள் விரும்புகின்ற தெளிவுத்திறனைத் தேர்வு செய்யலாம். உங்கள் திரைக்குப் சரியாக இல்லாத ஒரு தெளிவுத்திறனை நீங்கள் தேர்வு செய்தால் திரை <span class="link"><a href="look-display-fuzzy.html" title="என் திரையில் உள்ளவை ஏன் மங்கலாக/புள்ளி புள்ளியாகக் காட்சியளிக்கின்றன?">மங்கலாக அல்லது புள்ளி புள்ளியாகக் காட்சியளிக்கலாம்</a></span>.</p>
+<p class="p"><span class="gui">தெளிவுத்திறன்</span> கீழ் தோன்று பட்டியலில் இருந்து நீங்கள் விரும்புகின்ற தெளிவுத்திறனைத் தேர்வு செய்யலாம். உங்கள் திரைக்குப் சரியாக இல்லாத ஒரு தெளிவுத்திறனை நீங்கள் தேர்வு செய்தால் திரை <span class="link"><a href="look-display-fuzzy.html.ta" title="என் திரையில் உள்ளவை ஏன் மங்கலாக/புள்ளி புள்ளியாகக் காட்சியளிக்கின்றன?">மங்கலாக அல்லது புள்ளி புள்ளியாகக் காட்சியளிக்கலாம்</a></span>.</p>
 </div></div>
 </div></div>
 <div id="rotation" class="sect"><div class="inner">
@@ -87,13 +87,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="காட்சி &amp; திரை">காட்சி &amp; திரை</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">பின்புலம்</a></span>, <span class="link"><a href="look-resolution.html" title="திரையில் உள்ள உரையின் அளவை மாற்றுங்கள்">அளவு மற்றும் சுழற்சி</a></span>, பிரகாசம்…</span>
+<a href="prefs-display.html.ta" title="காட்சி &amp; திரை">காட்சி &amp; திரை</a><span class="desc"> — <span class="link"><a href="look-background.html.ta" title="Change the desktop and lock screen backgrounds">பின்புலம்</a></span>, <span class="link"><a href="look-resolution.html.ta" title="திரையில் உள்ள உரையின் அளவை மாற்றுங்கள்">அளவு மற்றும் சுழற்சி</a></span>, பிரகாசம்…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-display-fuzzy.html" title="என் திரையில் உள்ளவை ஏன் மங்கலாக/புள்ளி புள்ளியாகக் காட்சியளிக்கின்றன?">என் திரையில் உள்ளவை ஏன் மங்கலாக/புள்ளி புள்ளியாகக் காட்சியளிக்கின்றன?</a><span class="desc"> — திரை தெளிவுத்திறன் தவறாக அமைக்கப்பட்டிருக்கலாம்.</span>
+<a href="look-display-fuzzy.html.ta" title="என் திரையில் உள்ளவை ஏன் மங்கலாக/புள்ளி புள்ளியாகக் காட்சியளிக்கின்றன?">என் திரையில் உள்ளவை ஏன் மங்கலாக/புள்ளி புள்ளியாகக் காட்சியளிக்கின்றன?</a><span class="desc"> — திரை தெளிவுத்திறன் தவறாக அமைக்கப்பட்டிருக்கலாம்.</span>
 </li></ul></div>
 </div></div>
 </div>

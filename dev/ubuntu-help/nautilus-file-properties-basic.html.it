@@ -43,27 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="File, cartelle e ricerche">File</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.it" title="File, cartelle e ricerche">File</a> › <a class="trail" href="files.html.it#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Proprietà del file</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Per visualizzare informazioni circa un file o una cartella, fare clic col pulsante destro del mouse e selezionare <span class="gui">Proprietà</span>. È anche possibile selezionare il file e premere <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Invio</kbd></span></span>.</p>
-<p class="p">La finestra delle proprietà del file mostra informazioni quali il tipo di file, le dimensioni del file e quando è stato modificato l'ultima volta. Se si necessita spesso di tali informazioni, è possibile visualizzarle in <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">Colonne dell'elenco</a></span> o <span class="link"><a href="nautilus-display.html#icon-captions" title="Didascalie delle icone">Didascalie delle icone</a></span>.</p>
-<p class="p">Le informazioni contenute nella scheda <span class="gui">Generali</span> sono spiegate di seguito. Oltre a questa, sono disponibili anche le schede <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Impostare i permessi sui file">Permessi</a></span></span> e <span class="gui"><span class="link"><a href="files-open.html#default" title="Modificare l'applicazione predefinita">Apri con</a></span></span>. Per alcuni tipi di file, come immagini o video, è presente un'ulteriore scheda che fornisce informazioni come la dimensione, la durata e il codec.</p>
+<p class="p">La finestra delle proprietà del file mostra informazioni quali il tipo di file, le dimensioni del file e quando è stato modificato l'ultima volta. Se si necessita spesso di tali informazioni, è possibile visualizzarle in <span class="link"><a href="nautilus-list.html.it" title="Files list columns preferences">Colonne dell'elenco</a></span> o <span class="link"><a href="nautilus-display.html.it#icon-captions" title="Didascalie delle icone">Didascalie delle icone</a></span>.</p>
+<p class="p">Le informazioni contenute nella scheda <span class="gui">Generali</span> sono spiegate di seguito. Oltre a questa, sono disponibili anche le schede <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.it" title="Impostare i permessi sui file">Permessi</a></span></span> e <span class="gui"><span class="link"><a href="files-open.html.it#default" title="Modificare l'applicazione predefinita">Apri con</a></span></span>. Per alcuni tipi di file, come immagini o video, è presente un'ulteriore scheda che fornisce informazioni come la dimensione, la durata e il codec.</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Proprietà generali</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Name</span></dt>
-<dd class="terms"><p class="p">È possibile rinominare il file modificando questo campo o rinominandolo al di fuori della finestra delle proprietà. Consultare <span class="link"><a href="files-rename.html" title="Rinominare un file o una cartella">Rinominare un file o una cartella</a></span>.</p></dd>
+<dd class="terms"><p class="p">È possibile rinominare il file modificando questo campo o rinominandolo al di fuori della finestra delle proprietà. Consultare <span class="link"><a href="files-rename.html.it" title="Rinominare un file o una cartella">Rinominare un file o una cartella</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Type</span></dt>
 <dd class="terms">
 <p class="p">This helps you identify the type of the file, such as PDF document,
     OpenDocument Text, or JPEG image. The file type determines which
     applications can open the file, among other things. For example, you
-    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="Aprire file con altre applicazioni">Aprire file con altre applicazioni</a></span>
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html.it" title="Aprire file con altre applicazioni">Aprire file con altre applicazioni</a></span>
     for more information on this.</p>
 <p class="p">Il <span class="em">tipo MIME</span> del file è mostrato tra parentesi. Il tipo MIME è un standard che i computer utilizzando per classificare e fare riferimento a un file.</p>
 </dd>
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.it#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="Impostare i permessi sui file">Impostare i permessi sui file</a><span class="desc"> — Controllare chi può vedere e modificare i propri file e cartelle.</span>
+<a href="nautilus-file-properties-permissions.html.it" title="Impostare i permessi sui file">Impostare i permessi sui file</a><span class="desc"> — Controllare chi può vedere e modificare i propri file e cartelle.</span>
 </li></ul></div>
 </div></div>
 </div>

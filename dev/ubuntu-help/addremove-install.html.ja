@@ -45,7 +45,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">ソフトウェアの追加/削除</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.ja" title="Install &amp; remove software">ソフトウェアの追加/削除</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">
@@ -69,7 +69,7 @@
    </p>
 <p class="p">
     You may also wish to install software that does not have a GUI. To install
-    such software, you can use <span class="link"><a href="addremove-install-synaptic.html" title="より高度なソフトウェア管理にSynapticを利用する">Synaptic</a></span>.
+    such software, you can use <span class="link"><a href="addremove-install-synaptic.html.ja" title="より高度なソフトウェア管理にSynapticを利用する">Synaptic</a></span>.
     Note that <span class="app">Synaptic</span> does not list snaps.
   </p>
 <p class="p">
@@ -106,10 +106,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="アプリケーションの削除">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+<a href="addremove.html.ja" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
+      <span class="link"><a href="addremove-install.html.ja" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.ja" title="アプリケーションの削除">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.ja" title="Add software repositories">add repositories</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -117,18 +117,18 @@
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install-synaptic.html" title="より高度なソフトウェア管理にSynapticを利用する">より高度なソフトウェア管理にSynapticを利用する</a><span class="desc"> — 
+<a href="addremove-install-synaptic.html.ja" title="より高度なソフトウェア管理にSynapticを利用する">より高度なソフトウェア管理にSynapticを利用する</a><span class="desc"> — 
       Synaptic is a powerful but complicated software management alternative to 
       <span class="app">Ubuntu Software</span>.
     </span>
 </li>
 <li class="links ">
-<a href="addremove-remove.html" title="アプリケーションの削除">アプリケーションの削除</a><span class="desc"> — 
+<a href="addremove-remove.html.ja" title="アプリケーションの削除">アプリケーションの削除</a><span class="desc"> — 
       Remove applications that you no longer use.
     </span>
 </li>
 <li class="links ">
-<a href="prefs-language-install.html" title="言語のインストール">言語のインストール</a><span class="desc"> — さらに多くの翻訳や言語サポートパッケージをインストールする。</span>
+<a href="prefs-language-install.html.ja" title="言語のインストール">言語のインストール</a><span class="desc"> — さらに多くの翻訳や言語サポートパッケージをインストールする。</span>
 </li>
 </ul></div>
 </div></div>

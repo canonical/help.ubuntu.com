@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="prefs-language.html" title="Področje in jezik">Področje in jezik</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="prefs-language.html.sl" title="Področje in jezik">Področje in jezik</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="keyboard.html" title="Tipkovnica">Tipkovnica</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="keyboard.html" title="Tipkovnica">Tipkovnica</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Nastavitev tipkovnih bližnjic">Nastavitev tipkovnih bližnjic</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a> » <a class="trail" href="keyboard-shortcuts-set.html.sl" title="Nastavitev tipkovnih bližnjic">Nastavitev tipkovnih bližnjic</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="keyboard.html" title="Tipkovnica">Tipkovnica</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="keyboard.html" title="Tipkovnica">Tipkovnica</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Nastavitev tipkovnih bližnjic">Nastavitev tipkovnih bližnjic</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a> » <a class="trail" href="keyboard-shortcuts-set.html.sl" title="Nastavitev tipkovnih bližnjic">Nastavitev tipkovnih bližnjic</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,7 +61,7 @@
 <div class="contents">
 <p class="p">Tipkovnice obstajajo v na stotine različnih razporeditvah za različne jezike. Tudi za isti jezik pogosto obstaja več razporeditev tipk kot je na primer razporeditev Dvorak za angleščino. Vaša tipkovnica se lahko obnaša kot tipkovnica z drugačno razporeditvijo ne glede na črke in simbole, ki so natisnjeni na tipkah. To je uporabno, če pogosto preklapljate med več jeziki.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Odprite <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Dejavnosti</a></span> in začnite vnašati <span class="gui">Regija &amp; Jezik</span>.</p></li>
+<li class="steps"><p class="p">Odprite <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Dejavnosti</a></span> in začnite vnašati <span class="gui">Regija &amp; Jezik</span>.</p></li>
 <li class="steps"><p class="p">Kliknite na <span class="gui">Regija &amp; Jezik</span>, da odprete pult.</p></li>
 <li class="steps"><p class="p">V razdelku <span class="gui">Vhodni viri</span> kliknite gumb <span class="gui">+</span>, izberite jezik, ki je povezan s postavitvijo in nato postavitev in pritisnite <span class="gui">Dodaj</span>.</p></li>
 </ol></div></div></div>
@@ -97,7 +97,7 @@
   <span class="gui">Input Source</span> <span class="gui">Keyboard Shortcuts</span>. These shortcuts open 
   the <span class="gui">Input Source</span> chooser where you can move forward and backward. 
   By default, you can switch to the next input source with 
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
+  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.sl" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
   and to the previous one with
   <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span>. You can
   change these shortcuts in the <span class="gui">Keyboard</span> settings.</p>
@@ -110,20 +110,20 @@
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Nastavitev tipkovnih bližnjic">Nastavitev tipkovnih bližnjic</a><span class="desc"> — Tipkovne bližnjice lahko določite ali spremenite v nastavitvah <span class="gui">Tipkovnica</span>.</span>
+<a href="keyboard-shortcuts-set.html.sl" title="Nastavitev tipkovnih bližnjic">Nastavitev tipkovnih bližnjic</a><span class="desc"> — Tipkovne bližnjice lahko določite ali spremenite v nastavitvah <span class="gui">Tipkovnica</span>.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Področje in jezik">Področje in jezik</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Izbira jezika, ki ga uporabljate">Jezik</a></span>, <span class="link"><a href="session-formats.html" title="Sprememba datuma in oblik merjenja">regija in oblike</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk">razporeditve tipkovnice</a></span> …</span>
+<a href="prefs-language.html.sl" title="Področje in jezik">Področje in jezik</a><span class="desc"> — <span class="link"><a href="session-language.html.sl" title="Izbira jezika, ki ga uporabljate">Jezik</a></span>, <span class="link"><a href="session-formats.html.sl" title="Sprememba datuma in oblik merjenja">regija in oblike</a></span>, <span class="link"><a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">razporeditve tipkovnice</a></span> …</span>
 </li>
 <li class="links ">
-<a href="keyboard.html" title="Tipkovnica">Tipkovnica</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span>
+<a href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sl" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html.sl#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips-specialchars.html" title="Vnos posebnih znakov">Vnos posebnih znakov</a><span class="desc"> — Vnos znakov, ki jih na svoji tipkovnici ne najdete, vključno s tujimi abecedami, matematičnimi simboli in okrasnimi znaki.</span>
+<a href="tips-specialchars.html.sl" title="Vnos posebnih znakov">Vnos posebnih znakov</a><span class="desc"> — Vnos znakov, ki jih na svoji tipkovnici ne najdete, vključno s tujimi abecedami, matematičnimi simboli in okrasnimi znaki.</span>
 </li></ul></div>
 </div></div>
 </div>

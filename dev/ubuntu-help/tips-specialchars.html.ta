@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="குறிப்புகள் &amp; தந்திரங்கள்">குறிப்புகள் &amp; தந்திரங்கள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.ta" title="குறிப்புகள் &amp; தந்திரங்கள்">குறிப்புகள் &amp; தந்திரங்கள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">சிறப்பு எழுத்துக்களை உள்ளிடுதல்</span></h1></div>
@@ -55,22 +55,14 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">எழுத்துக்களை உள்ளிடும் முறைகள்</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="எழுத்து மேப்">எழுத்து மேப்</a></li>
-<li class="links "><a href="tips-specialchars.html#characters" title="Characters">Characters</a></li>
-<li class="links "><a href="tips-specialchars.html#compose" title="கம்போஸ் விசை">கம்போஸ் விசை</a></li>
-<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="குறியீட்டுப் புள்ளிகள்">குறியீட்டுப் புள்ளிகள்</a></li>
-<li class="links "><a href="tips-specialchars.html#layout" title="விசைப்பலகை லேயவுட்டுகள்">விசைப்பலகை லேயவுட்டுகள்</a></li>
-<li class="links "><a href="tips-specialchars.html#im" title="உள்ளீட்டு முறைகள்">உள்ளீட்டு முறைகள்</a></li>
+<li class="links "><a href="tips-specialchars.html.ta#characters" title="Characters">Characters</a></li>
+<li class="links "><a href="tips-specialchars.html.ta#compose" title="கம்போஸ் விசை">கம்போஸ் விசை</a></li>
+<li class="links "><a href="tips-specialchars.html.ta#ctrlshiftu" title="குறியீட்டுப் புள்ளிகள்">குறியீட்டுப் புள்ளிகள்</a></li>
+<li class="links "><a href="tips-specialchars.html.ta#layout" title="விசைப்பலகை லேயவுட்டுகள்">விசைப்பலகை லேயவுட்டுகள்</a></li>
+<li class="links "><a href="tips-specialchars.html.ta#im" title="உள்ளீட்டு முறைகள்">உள்ளீட்டு முறைகள்</a></li>
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">எழுத்து மேப்</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">GNOME இல் ஒரு எழுத்து மேப் பயன்பாடு உள்ளது, அதைக் கொண்டு நீங்கள் ஒருங்குறியிலான அனைத்து எழுத்துகளையும் உலவலாம். எழுத்து மேப்பைப் பயன்படுத்தி நீங்கள் விரும்பும் எழுத்தைக் கண்டறிந்து பிறகு வேண்டிய இடத்தில் அதை ஒட்டிக்கொள்ளலாம்.</p>
-<p class="p"><span class="gui">செயல்பாடுகள்</span> மேலோட்டத்தில் <span class="app">எழுத்து மேப்</span> ஐக் கண்டறியலாம். எழுத்து மேப் குறித்த கூடுதல் தகவலுக்கு <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">எழுத்து மேப் கையேட்டைப்</a></span> பார்க்கவும்.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Characters</span></h2></div>
 <div class="region"><div class="contents">
@@ -91,15 +83,19 @@
 <div class="note note-important" title="முக்கியமானது"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
       change this setting.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Define a compose key</span></h3></div>
+<div class="title title-steps"><h3><span class="title">ஒரு கம்போஸ் விசையை வரையறுத்தல்</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span>
+        overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Keyboard &amp; Mouse</span> tab.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span> setting.</p></li>
-<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you want to use.</p></li>
-<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose key.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span>
+        setting.</p></li>
+<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you
+        want to use.</p></li>
+<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose
+        key.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div>
 </div></div>
@@ -127,7 +123,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">விசைப்பலகை லேயவுட்டுகள்</span></h2></div>
-<div class="region"><div class="contents"><p class="p">நீங்கள் உங்கள் விசைப்பலகையை வேறு மொழி விசைப்பலகை போல செயல்படவைக்கவும் முடியும், உஙக்ள் விசைப்பலகையில் அச்சிடப்பட்டுள்ள எழுத்துகள் முக்கியமல்ல. மேல் பட்டியில் உள்ள சின்னத்தைப் பயன்படுத்தி வெவ்வேறு விசைப்பலகை லேயவுட்டுகளிடையே விரைவாகவும் மாறலாம். எப்படி என அறிய <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span> ஐப் பார்க்கவும்.</p></div></div>
+<div class="region"><div class="contents"><p class="p">நீங்கள் உங்கள் விசைப்பலகையை வேறு மொழி விசைப்பலகை போல செயல்படவைக்கவும் முடியும், உஙக்ள் விசைப்பலகையில் அச்சிடப்பட்டுள்ள எழுத்துகள் முக்கியமல்ல. மேல் பட்டியில் உள்ள சின்னத்தைப் பயன்படுத்தி வெவ்வேறு விசைப்பலகை லேயவுட்டுகளிடையே விரைவாகவும் மாறலாம். எப்படி என அறிய <span class="link"><a href="keyboard-layouts.html.ta" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span> ஐப் பார்க்கவும்.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">உள்ளீட்டு முறைகள்</span></h2></div>
@@ -142,13 +138,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="குறிப்புகள் &amp; தந்திரங்கள்">குறிப்புகள் &amp; தந்திரங்கள்</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="சிறப்பு எழுத்துக்களை உள்ளிடுதல்">சிறப்பு எழுத்துகள்</a></span>, <span class="link"><a href="mouse-middleclick.html" title="நடு சொடுக்கம்">நடு சொடுக்க குறுக்குவழிகள்</a></span>…</span>
+<a href="tips.html.ta" title="குறிப்புகள் &amp; தந்திரங்கள்">குறிப்புகள் &amp; தந்திரங்கள்</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.ta" title="சிறப்பு எழுத்துக்களை உள்ளிடுதல்">சிறப்பு எழுத்துகள்</a></span>, <span class="link"><a href="mouse-middleclick.html.ta" title="நடு சொடுக்கம்">நடு சொடுக்க குறுக்குவழிகள்</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.ta" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
 </li></ul></div>
 </div></div>
 </div>

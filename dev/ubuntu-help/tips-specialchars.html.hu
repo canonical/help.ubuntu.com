@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Tippek és trükkök">Tippek és trükkök</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.hu" title="Tippek és trükkök">Tippek és trükkök</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Speciális karakterek bevitele</span></h1></div>
@@ -53,22 +53,14 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Karakterbeviteli módszerek</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Karaktertábla">Karaktertábla</a></li>
-<li class="links "><a href="tips-specialchars.html#characters" title="Karakterek">Karakterek</a></li>
-<li class="links "><a href="tips-specialchars.html#compose" title="Kombináló billentyű">Kombináló billentyű</a></li>
-<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Kódpontok">Kódpontok</a></li>
-<li class="links "><a href="tips-specialchars.html#layout" title="Billentyűzetkiosztások">Billentyűzetkiosztások</a></li>
-<li class="links "><a href="tips-specialchars.html#im" title="Beviteli módok">Beviteli módok</a></li>
+<li class="links "><a href="tips-specialchars.html.hu#characters" title="Karakterek">Karakterek</a></li>
+<li class="links "><a href="tips-specialchars.html.hu#compose" title="Kombináló billentyű">Kombináló billentyű</a></li>
+<li class="links "><a href="tips-specialchars.html.hu#ctrlshiftu" title="Kódpontok">Kódpontok</a></li>
+<li class="links "><a href="tips-specialchars.html.hu#layout" title="Billentyűzetkiosztások">Billentyűzetkiosztások</a></li>
+<li class="links "><a href="tips-specialchars.html.hu#im" title="Beviteli módok">Beviteli módok</a></li>
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Karaktertábla</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">A GNOME karaktertábla alkalmazása segítségével böngészheti az Unicode összes karakterét. A kívánt karakter megkereséséhez használja a karaktertáblát, majd másolja és illessze be azt oda, ahol szüksége van rá.</p>
-<p class="p">A <span class="app">Karaktertábla</span> alkalmazást megtalálja a <span class="gui">Tevékenységek</span> áttekintésben. A karaktertáblával kapcsolatos további információkért lásd a <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">karaktertábla kézikönyvét</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Karakterek</span></h2></div>
 <div class="region"><div class="contents">
@@ -85,12 +77,13 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Kombináló billentyű definiálása</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Finomhangoló</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Finomhangoló</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Finomhangoló</span> ikonra az alkalmazás megnyitásához.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Billentyűzet és egér</span> lapra.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Letiltva</span> gombra a <span class="gui">Kombináló billentyű</span> beállítás mellett.</p></li>
 <li class="steps"><p class="p">Kapcsolja be a kapcsolót az ablakban, és válassza ki a használni kívánt gyorsbillentyűt.</p></li>
 <li class="steps"><p class="p">Jelölje be a kombináló billentyűként használni kívánt billentyű jelölőnégyzetét.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Zárja be a <span class="gui">Finomhangoló</span> ablakot.</p></li>
 </ol></div>
 </div></div>
@@ -113,7 +106,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Billentyűzetkiosztások</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Beállíthatja, hogy a billentyűzete – függetlenül a billentyűkre nyomtatott írásjelektől – egy másik nyelv karakterkiosztásának megfelelően működjön. A felső panelen található ikon segítségével könnyedén válthat a különböző billentyűzetkiosztások között. További információkért lásd: <span class="link"><a href="keyboard-layouts.html" title="Alternatív billentyűzetkiosztások használata">Alternatív billentyűzetkiosztások használata</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Beállíthatja, hogy a billentyűzete – függetlenül a billentyűkre nyomtatott írásjelektől – egy másik nyelv karakterkiosztásának megfelelően működjön. A felső panelen található ikon segítségével könnyedén válthat a különböző billentyűzetkiosztások között. További információkért lásd: <span class="link"><a href="keyboard-layouts.html.hu" title="Alternatív billentyűzetkiosztások használata">Alternatív billentyűzetkiosztások használata</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Beviteli módok</span></h2></div>
@@ -128,13 +121,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Tippek és trükkök">Tippek és trükkök</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Speciális karakterek bevitele">Speciális karakterek</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Kattintás a középső egérgombbal">középső kattintással használható parancsok</a></span>…</span>
+<a href="tips.html.hu" title="Tippek és trükkök">Tippek és trükkök</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.hu" title="Speciális karakterek bevitele">Speciális karakterek</a></span>, <span class="link"><a href="mouse-middleclick.html.hu" title="Kattintás a középső egérgombbal">középső kattintással használható parancsok</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Alternatív billentyűzetkiosztások használata">Alternatív billentyűzetkiosztások használata</a><span class="desc"> — Billentyűzetkiosztások hozzáadása és váltás köztük.</span>
+<a href="keyboard-layouts.html.hu" title="Alternatív billentyűzetkiosztások használata">Alternatív billentyűzetkiosztások használata</a><span class="desc"> — Billentyűzetkiosztások hozzáadása és váltás köztük.</span>
 </li></ul></div>
 </div></div>
 </div>

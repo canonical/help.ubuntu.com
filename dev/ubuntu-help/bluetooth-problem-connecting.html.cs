@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Běžné problémy">Problémy</a> » <a class="trail" href="bluetooth.html#problems" title="Problémy">Problémy s Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html.cs#problems" title="Běžné problémy">Problémy</a> » <a class="trail" href="bluetooth.html.cs#problems" title="Problémy">Problémy s Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nemohu připojit své zařízení Bluetooth</span></h1></div>
@@ -54,11 +54,11 @@
 <dt class="terms">Spojení je blokováno nebo nedůvěryhodné</dt>
 <dd class="terms"><p class="p">Některá zařízení Bluetooth ve výchozím stavu spojení blokují nebo vyžadují změnu nastavení, aby umožnilo vytvoření spojení. Ujistěte se, že zařízení je nastavené tak, aby spojení umožňovalo.</p></dd>
 <dt class="terms">Hardware Bluetooth nebyl rozpoznán</dt>
-<dd class="terms"><p class="p">Váš adaptér nebo klíč Bluetooth nemusí být počítačem rozpoznán. Může to být tím, že není nainstalován <span class="link"><a href="hardware-driver.html" title="Co je to ovladač?">ovladač</a></span> pro daný adaptér. Některé adaptéry Bluetooth nejsou v Linuxu podporovány, takže pro ně správný ovladač neseženete. V takovém případě si nejspíše budete muset pořídit jiný adaptér Bluetooth.</p></dd>
+<dd class="terms"><p class="p">Váš adaptér nebo klíč Bluetooth nemusí být počítačem rozpoznán. Může to být tím, že není nainstalován <span class="link"><a href="hardware-driver.html.cs" title="Co je to ovladač?">ovladač</a></span> pro daný adaptér. Některé adaptéry Bluetooth nejsou v Linuxu podporovány, takže pro ně správný ovladač neseženete. V takovém případě si nejspíše budete muset pořídit jiný adaptér Bluetooth.</p></dd>
 <dt class="terms">Adaptér není zapnutý</dt>
-<dd class="terms"><p class="p">Ujistěte se, že je adaptér Bluetooth zapnutý. Klikněte na ikonu Bluetooth na <span class="gui">horní liště</span> a zkontrolujte, že není <span class="link"><a href="bluetooth-turn-on-off.html" title="Zapnutí nebo vypnutí Bluetooth">vypnutý</a></span>.</p></dd>
+<dd class="terms"><p class="p">Ujistěte se, že je adaptér Bluetooth zapnutý. Otevřete panel Bluetooth a zkontrolujte, že není <span class="link"><a href="bluetooth-turn-on-off.html.cs" title="Zapnutí nebo vypnutí Bluetooth">vypnutý</a></span>.</p></dd>
 <dt class="terms">Zařízení Bluetooth je nepřipojeno</dt>
-<dd class="terms"><p class="p">Zkontrolujte, jestli je Bluetooth na zařízení, se kterým se zkoušíte spojit, zapnuté a že je zařízení <span class="link"><a href="bluetooth-visibility.html" title="Co je to viditelnost Bluetooth?">vyhledatelné a viditelné</a></span>. Například, když se zkoušíte spojit s telefonem, ujistěte se, že není v režimu „letadlo“.</p></dd>
+<dd class="terms"><p class="p">Zkontrolujte, jestli je Bluetooth na zařízení, se kterým se zkoušíte spojit, zapnuté a že je zařízení <span class="link"><a href="bluetooth-visibility.html.cs" title="Co je to viditelnost Bluetooth?">vyhledatelné a viditelné</a></span>. Například, když se zkoušíte spojit s telefonem, ujistěte se, že není v režimu „letadlo“.</p></dd>
 <dt class="terms">Ve vašem počítači není adaptér Bluetooth</dt>
 <dd class="terms"><p class="p">Spousta počítačů, hlavně stolních, adaptér Bluetooth nemá. Jestli chcete Bluetooth používat, můžete si nějaký dokoupit.</p></dd>
 </dl></div></div></div>
@@ -68,12 +68,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="bluetooth.html#problems" title="Problémy">Problémy s Bluetooth</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="bluetooth.html.cs#problems" title="Problémy">Problémy s Bluetooth</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="Co je to ovladač?">Co je to ovladač?</a><span class="desc"> — Ovladače hardwaru/zařízení umožňují vašemu počítači používat zařízení, která jsou k němu připojená.</span>
+<a href="hardware-driver.html.cs" title="Co je to ovladač?">Co je to ovladač?</a><span class="desc"> — Ovladače hardwaru/zařízení umožňují vašemu počítači používat zařízení, která jsou k němu připojená.</span>
 </li></ul></div>
 </div></div>
 </div>

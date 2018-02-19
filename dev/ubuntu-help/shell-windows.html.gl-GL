@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicativos e xanelas">Aplicativos e xanelas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="shell-overview.html.gl-GL" title="Your desktop">Escritorio</a> › <a class="trail" href="shell-overview.html.gl-GL#apps" title="Aplicativos e xanelas">Aplicativos e xanelas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Xanelas e espazos de traballo</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Like other desktops, GNOME uses windows to display your running
-  applications. Using both the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span>
+  applications. Using both the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span>
   overview and the <span class="em">dash</span>, you can launch new applications and control
   active windows.</p>
 <p class="p">Tamén pode agrupar os seus aplicativos en áreas de traballo. Visite os temas de axuda de xanela e área de traballo que se mostran a continuación para aprender mellor como usar estas características.</p>
@@ -59,13 +59,13 @@
 <div class="hgroup"><h2 class="title"><span class="title">Traballando coas xanelas</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html" title="Buscar unha xanela perdida"><span class="title">Buscar unha xanela perdida</span><span class="linkdiv-dash"> — </span><span class="desc">Check the <span class="gui">Activities</span> overview or other workspaces.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html" title="Maximizar e restaurar unha xanela"><span class="title">Maximizar e restaurar unha xanela</span><span class="linkdiv-dash"> — </span><span class="desc">Prema dúas veces sobre a barra de título da xanela.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html" title="Mover e organizar as súas xanelas."><span class="title">Mover e organizar as súas xanelas.</span><span class="linkdiv-dash"> — </span><span class="desc">Colocar xanelas nun área de traballo para axudarlle a traballar máis eficientemente.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.gl-GL" title="Buscar unha xanela perdida"><span class="title">Buscar unha xanela perdida</span><span class="linkdiv-dash"> — </span><span class="desc">Check the <span class="gui">Activities</span> overview or other workspaces.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.gl-GL" title="Maximizar e restaurar unha xanela"><span class="title">Maximizar e restaurar unha xanela</span><span class="linkdiv-dash"> — </span><span class="desc">Prema dúas veces sobre a barra de título da xanela.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.gl-GL" title="Mover e organizar as súas xanelas."><span class="title">Mover e organizar as súas xanelas.</span><span class="linkdiv-dash"> — </span><span class="desc">Colocar xanelas nun área de traballo para axudarlle a traballar máis eficientemente.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Trocar entre as xanelas"><span class="title">Trocar entre as xanelas</span><span class="linkdiv-dash"> — </span><span class="desc">Prema <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html" title="Xanelas en mosaico"><span class="title">Xanelas en mosaico</span><span class="linkdiv-dash"> — </span><span class="desc">Maximizar dúas xanelas lado a lado.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.gl-GL" title="Trocar entre as xanelas"><span class="title">Trocar entre as xanelas</span><span class="linkdiv-dash"> — </span><span class="desc">Prema <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.gl-GL" title="Xanelas en mosaico"><span class="title">Xanelas en mosaico</span><span class="linkdiv-dash"> — </span><span class="desc">Maximizar dúas xanelas lado a lado.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -73,18 +73,18 @@
 <div class="hgroup"><h2 class="title"><span class="title">Traballar cos espazos de traballo</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html" title="Que é un espazo de traballo e como poden axudarme?"><span class="title">Que é un espazo de traballo e como poden axudarme?</span><span class="linkdiv-dash"> — </span><span class="desc">Os espazos de traballo son a forma de agrupar xanelas no seu escritorio.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html" title="Mova unha xanela a un espazo de traballo diferente:"><span class="title">Mova unha xanela a un espazo de traballo diferente:</span><span class="linkdiv-dash"> — </span><span class="desc">Go to the <span class="gui">Activities</span> overview and drag the window to a
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.gl-GL" title="Que é un espazo de traballo e como poden axudarme?"><span class="title">Que é un espazo de traballo e como poden axudarme?</span><span class="linkdiv-dash"> — </span><span class="desc">Os espazos de traballo son a forma de agrupar xanelas no seu escritorio.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.gl-GL" title="Mova unha xanela a un espazo de traballo diferente:"><span class="title">Mova unha xanela a un espazo de traballo diferente:</span><span class="linkdiv-dash"> — </span><span class="desc">Go to the <span class="gui">Activities</span> overview and drag the window to a
     different workspace.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html" title="Trocar entre os espazos de traballo"><span class="title">Trocar entre os espazos de traballo</span><span class="linkdiv-dash"> — </span><span class="desc">Usar o selector de espazos de traballo.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.gl-GL" title="Trocar entre os espazos de traballo"><span class="title">Trocar entre os espazos de traballo</span><span class="linkdiv-dash"> — </span><span class="desc">Usar o selector de espazos de traballo.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Aplicativos e xanelas">Aplicativos e xanelas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.gl-GL#apps" title="Aplicativos e xanelas">Aplicativos e xanelas</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

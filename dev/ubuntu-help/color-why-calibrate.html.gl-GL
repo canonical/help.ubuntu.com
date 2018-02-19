@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="color.html" title="Xestión de cor">Xestión de cor</a> › <a class="trail" href="color.html#calibration" title="Calibración">Calibración</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="color.html.gl-GL" title="Xestión de cor">Xestión de cor</a> › <a class="trail" href="color.html.gl-GL#calibration" title="Calibración">Calibración</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="color.html" title="Xestión de cor">Xestión de cor</a> › <a class="trail" href="color.html#calibration" title="Calibración">Calibración</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="color.html.gl-GL" title="Xestión de cor">Xestión de cor</a> › <a class="trail" href="color.html.gl-GL#calibration" title="Calibración">Calibración</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -63,19 +63,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Calibración">Calibración</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.gl-GL#calibration" title="Calibración">Calibración</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Como asignar perfiles ao dispositivos?">Como asignar perfiles ao dispositivos?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-assignprofiles.html.gl-GL" title="Como asignar perfiles ao dispositivos?">Como asignar perfiles ao dispositivos?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
 </li>
 <li class="links ">
-<a href="color-gettingprofiles.html" title="Onde podo conseguir perfiles de cor?">Onde podo conseguir perfiles de cor?</a><span class="desc"> — Os fabricantes fornecen os perfiles de cor e tamén pode xeralos vostede.</span>
+<a href="color-gettingprofiles.html.gl-GL" title="Onde podo conseguir perfiles de cor?">Onde podo conseguir perfiles de cor?</a><span class="desc"> — Os fabricantes fornecen os perfiles de cor e tamén pode xeralos vostede.</span>
 </li>
 <li class="links ">
-<a href="color-notifications.html" title="Podo obter unha notificación cando o meu perfil de cor non é preciso?">Podo obter unha notificación cando o meu perfil de cor non é preciso?</a><span class="desc"> — Pode recibir unha notificación se o seu perfil de cor é antigo ou non é preciso.</span>
+<a href="color-notifications.html.gl-GL" title="Podo obter unha notificación cando o meu perfil de cor non é preciso?">Podo obter unha notificación cando o meu perfil de cor non é preciso?</a><span class="desc"> — Pode recibir unha notificación se o seu perfil de cor é antigo ou non é preciso.</span>
 </li>
 </ul></div>
 </div></div>

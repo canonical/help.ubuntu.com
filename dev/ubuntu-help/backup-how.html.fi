@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html#backup" title="Varmuuskopiointi">Varmuuskopiointi</a> » <a class="trail" href="backup-why.html" title="Varmuuskopioi tärkeät tiedostosi">Varmuuskopiot</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.fi" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html.fi#backup" title="Varmuuskopiointi">Varmuuskopiointi</a> » <a class="trail" href="backup-why.html.fi" title="Varmuuskopioi tärkeät tiedostosi">Varmuuskopiot</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Miten varmuuskopioidaan?</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Helpoin tapa varmuuskopioida tiedostoja ja asetuksia on käyttää varmuuskopiointiin tarkoitettua sovellusta. Kyseisiä sovelluksia on lukuisia, esimerkiksi <span class="app">Déjà Dup</span>.</p>
 <p class="p">Valitsemasi varmuuskopiosovelluksen käyttöohje auttaa sinua asetusten luomisessa ja tietojen palauttamisessa.</p>
-<p class="p">Vaihtoehtoinen tapa on  <span class="link"><a href="files-copy.html" title="Kopioi tai poista tiedostoja ja kansioita">kopioida tiedostot</a></span> turvalliseen sijaintiin, kuten ulkoiselle kiintolevylle, toiselle tietokoneelle tai USB-muistitikulle. <span class="link"><a href="backup-thinkabout.html" title="Mistä löydän tiedostot, jotka haluan varmuuskopioida?">Henkilökohtaiset tiedostosi</a></span> ja asetukset sijaitsevat pääsääntöisesti kotikansiossasi, joten voit kopioida sieltä tärkeät tiedostot haluamallesi laitteelle.</p>
+<p class="p">Vaihtoehtoinen tapa on  <span class="link"><a href="files-copy.html.fi" title="Kopioi tai poista tiedostoja ja kansioita">kopioida tiedostot</a></span> turvalliseen sijaintiin, kuten ulkoiselle kiintolevylle, toiselle tietokoneelle tai USB-muistitikulle. <span class="link"><a href="backup-thinkabout.html.fi" title="Mistä löydän tiedostot, jotka haluan varmuuskopioida?">Henkilökohtaiset tiedostosi</a></span> ja asetukset sijaitsevat pääsääntöisesti kotikansiossasi, joten voit kopioida sieltä tärkeät tiedostot haluamallesi laitteelle.</p>
 <p class="p">Varmuuskopioitavien tietojen määrää rajoittaa tallennuslaitteen levykapasiteetti. Jos tallennuslaitteellasi on reilusti tilaa, on viisainta kopioida koko kotikansion sisältö seuraavia poikkeuksia lukuun ottamatta:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Tiedostot, jotka on jo kopioitu jonnekin muualle, kuten CD:lle, DVD:lle tai ulkoiselle kiintolevylle.</p></li>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Varmuuskopioi tärkeät tiedostosi">Varmuuskopioi tärkeät tiedostosi</a><span class="desc"> — Varmuuskopiot - Miksi, mitä, missä ja miten?</span>
+<a href="backup-why.html.fi" title="Varmuuskopioi tärkeät tiedostosi">Varmuuskopioi tärkeät tiedostosi</a><span class="desc"> — Varmuuskopiot - Miksi, mitä, missä ja miten?</span>
 </li></ul></div>
 </div></div></div>
 </div>

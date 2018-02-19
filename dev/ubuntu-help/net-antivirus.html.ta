@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html" title="இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்">இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html.ta" title="இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்">இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">வைரஸ் எதிர்ப்பு மென்பொருள் தேவையா?</span></h1></div>
@@ -66,17 +66,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்">இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="வைரஸ் எதிர்ப்பு மென்பொருள் தேவையா?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="ஃபயர்வால் அணுகலை இயக்குதல் அல்லது தடுத்தல்">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="பொதுவாக பயன்படுத்தப்படும் பிணைய போர்ட்கள்">firewall ports</a></span>…
+<a href="net-security.html.ta" title="இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்">இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்</a><span class="desc"> — 
+      <span class="link"><a href="net-antivirus.html.ta" title="வைரஸ் எதிர்ப்பு மென்பொருள் தேவையா?">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.ta" title="ஃபயர்வால் அணுகலை இயக்குதல் அல்லது தடுத்தல்">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.ta" title="பொதுவாக பயன்படுத்தப்படும் பிணைய போர்ட்கள்">firewall ports</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email-virus.html" title="என் மின்னஞ்சல்களில் வைரஸ்கள் உள்ளதா என ஸ்கேன் செய்ய வேண்டுமா?">என் மின்னஞ்சல்களில் வைரஸ்கள் உள்ளதா என ஸ்கேன் செய்ய வேண்டுமா?</a><span class="desc"> — வைரஸ்கள் உங்கள் கணினியில் பாதிப்பை ஏற்படுத்த வாய்ப்பில்லை, ஆனால் நீங்கள் மின்னஞ்சல் அனுப்பும் நபர்களின் கணினிகளை பாதிக்கலாம்.</span>
+<a href="net-email-virus.html.ta" title="என் மின்னஞ்சல்களில் வைரஸ்கள் உள்ளதா என ஸ்கேன் செய்ய வேண்டுமா?">என் மின்னஞ்சல்களில் வைரஸ்கள் உள்ளதா என ஸ்கேன் செய்ய வேண்டுமா?</a><span class="desc"> — வைரஸ்கள் உங்கள் கணினியில் பாதிப்பை ஏற்படுத்த வாய்ப்பில்லை, ஆனால் நீங்கள் மின்னஞ்சல் அனுப்பும் நபர்களின் கணினிகளை பாதிக்கலாம்.</span>
 </li></ul></div>
 </div></div>
 </div>

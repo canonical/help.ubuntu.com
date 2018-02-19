@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="privacy.html" title="Configuración de privacidad">Configuración de privacidad</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="privacy.html.es" title="Configuración de privacidad">Configuración de privacidad</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Vaciar automáticamente la papelera y limpiar los archivos temporales</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> empiece a escribir <span class="gui">Privacidad</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> empiece a escribir <span class="gui">Privacidad</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Privacidad</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Seleccione <span class="gui">Limpiar la papelera y los archivos temporales</span>.</p></li>
 <li class="steps"><p class="p">Mueva uno o ambos deslizadores <span class="gui">Vaciar la papelera automáticamente</span> o <span class="gui">Limpiar los archivos temporales automáticamente</span> a <span class="gui">Encendido</span>.</p></li>
@@ -66,7 +66,7 @@
 <li class="steps"><p class="p">Use los <span class="gui">Vaciar papelera</span> o <span class="gui">Limpiar archivos temporales</span> para realizar estas acciones inmediatamente.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Puede eliminar archivos inemdiata y permanentemente si usar la papelera. Consulte la <span class="link"><a href="files-delete.html#permanent" title="Eliminar permanentemente un archivo">Eliminar permanentemente un archivo</a></span> para obtener más información.</p></div></div></div></div>
+<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Puede eliminar archivos inemdiata y permanentemente si usar la papelera. Consulte la <span class="link"><a href="files-delete.html.es#permanent" title="Eliminar permanentemente un archivo">Eliminar permanentemente un archivo</a></span> para obtener más información.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -74,9 +74,9 @@
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy.html" title="Configuración de privacidad">Configuración de privacidad</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Bloquear automáticamente su pantalla">Pantalla de bloqueo</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Desactivar o limitar el registro del histórico">Histórico de uso</a></span>, <span class="link"><a href="privacy-purge.html" title="Limpiar la papelera y los archivos temporales">Vaciar papelera y archivos temporales</a></span>…</span>
+<a href="privacy.html.es" title="Configuración de privacidad">Configuración de privacidad</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.es" title="Bloquear automáticamente su pantalla">Pantalla de bloqueo</a></span>, <span class="link"><a href="privacy-history-recent-off.html.es" title="Desactivar o limitar el registro del histórico">Histórico de uso</a></span>, <span class="link"><a href="privacy-purge.html.es" title="Limpiar la papelera y los archivos temporales">Vaciar papelera y archivos temporales</a></span>…</span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a></li>
+<li class="links "><a href="files.html.es#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a></li>
 </ul></div>
 </div></div></div>
 </div>

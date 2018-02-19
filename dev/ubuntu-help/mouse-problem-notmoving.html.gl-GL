@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="mouse.html" title="Rato">Rato</a> › <a class="trail" href="mouse.html#problems" title="Problemas comúns">Problemas comúns</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="mouse.html.gl-GL" title="Rato">Rato</a> › <a class="trail" href="mouse.html.gl-GL#problems" title="Problemas comúns">Problemas comúns</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="mouse.html" title="Rato">Rato</a> › <a class="trail" href="mouse.html#problems" title="Problemas comúns">Problemas comúns</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="mouse.html.gl-GL" title="Rato">Rato</a> › <a class="trail" href="mouse.html.gl-GL#problems" title="Problemas comúns">Problemas comúns</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">O punteiro do rato non se move</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Comprobe que o rato está conectado">Comprobe que o rato está conectado</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Comprobe que o rato funciona realmente">Comprobe que o rato funciona realmente</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Comprobando un rato sen fíos">Comprobando un rato sen fíos</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.gl-GL#plugged-in" title="Comprobe que o rato está conectado">Comprobe que o rato está conectado</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.gl-GL#broken" title="Comprobe que o rato funciona realmente">Comprobe que o rato funciona realmente</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.gl-GL#wireless-mice" title="Comprobando un rato sen fíos">Comprobando un rato sen fíos</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Comprobe que o rato está conectado</span></h2></div>
@@ -78,7 +78,7 @@
 <li class="list"><p class="p">Make sure the mouse is turned on. There is often a switch on the
       bottom of the mouse to turn the mouse off completely, so you can take it
       with you without it constantly waking up.</p></li>
-<li class="list"><p class="p">Antes de comezar, asegúrese de que o Bluetooth está activado no seu equipo. Consulte a <span class="link"><a href="bluetooth-turn-on-off.html" title="Apagar ou acender o Bluetooth">Apagar ou acender o Bluetooth</a></span>.</p></li>
+<li class="list"><p class="p">Antes de comezar, asegúrese de que o Bluetooth está activado no seu equipo. Consulte a <span class="link"><a href="bluetooth-turn-on-off.html.gl-GL" title="Apagar ou acender o Bluetooth">Apagar ou acender o Bluetooth</a></span>.</p></li>
 <li class="list"><p class="p">Prema un botón e vexa se o punteiro do rato se move agora. Algúns ratos sen fíos póñense en modo de baixo consumo para aforrar enerxía, polo que pode que non respondan até que prema un botón.</p></li>
 <li class="list"><p class="p">Comprobe que a batería do rato está cargada.</p></li>
 <li class="list"><p class="p">Asegúrese que o receptor está conectado correctamente ao seu computador.</p></li>
@@ -92,7 +92,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Problemas comúns">Problemas comúns no rato</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.gl-GL#problems" title="Problemas comúns">Problemas comúns no rato</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="无线网络">无线网络</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="无线网络故障排除">无线网络故障排除</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.zh-CN" title="无线网络">无线网络</a> » <a class="trail" href="net-wireless-troubleshooting.html.zh-CN" title="无线网络故障排除">无线网络故障排除</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> › <a class="trail" href="hardware.html#problems" title="常见问题">问题</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="无线网络故障排除">无线网络故障排除</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> › <a class="trail" href="hardware.html.zh-CN#problems" title="常见问题">问题</a> » <a class="trail" href="net-wireless-troubleshooting.html.zh-CN" title="无线网络故障排除">无线网络故障排除</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="无线网络故障排除">上一页</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="无线网络故障排除">下一页</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.zh-CN" title="无线网络故障排除">上一页</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.zh-CN" title="无线网络故障排除">下一页</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">无线网路连接故障排除</span></h1>
@@ -70,7 +70,7 @@
        vendor: Intel Corporation</pre></div>
 </li>
 <li class="steps">
-<p class="p">如果列出了无线设备，则继续转入<span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="无线网络故障排除">设备驱动程序</a></span>页面。</p>
+<p class="p">如果列出了无线设备，则继续转入<span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.zh-CN" title="无线网络故障排除">设备驱动程序</a></span>页面。</p>
 <p class="p">如果无线设备<span class="em">没有</span>列出，下一步的操作要根据您使用的设备，接下来的内容跟您使用的无线网卡密切相关：(<span class="link"><a href="#pci" title="PCI(内置)无线网卡">PCI 内置</a></span>、<span class="link"><a href="#usb" title="USB 无线适配器">USB</a></span> 或者 <span class="link"><a href="#pcmcia" title="检测 PCMCIA 设备">PCMCIA</a></span>)。</p>
 </li>
 </ol></div></div></div>
@@ -86,7 +86,7 @@
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="无线网络故障排除">Device Drivers
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.zh-CN" title="无线网络故障排除">Device Drivers
       step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
       <span class="link"><a href="#not-recognized" title="未能识别无线适配器">the instructions below</a></span>.</p></li>
@@ -104,7 +104,7 @@
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="无线网络故障排除">Device Drivers
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.zh-CN" title="无线网络故障排除">Device Drivers
       step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
       <span class="link"><a href="#not-recognized" title="未能识别无线适配器">the instructions below</a></span>.</p></li>
@@ -127,7 +127,7 @@
 <li class="steps"><p class="p">插入无线适配器到 PCMCIA 插槽，查看终端窗口有何变化，应当出现一些无线适配器相关的信息。找到它们看看能否标记它。</p></li>
 <li class="steps"><p class="p">要停止终端中正在运行的命令，按 <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span> 键，然后就可以关闭终端窗口了。</p></li>
 <li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
-      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="无线网络故障排除">Device
+      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.zh-CN" title="无线网络故障排除">Device
       Drivers step</a></span>. If you didn’t find anything related to your wireless
       adapter, see <span class="link"><a href="#not-recognized" title="未能识别无线适配器">the instructions
       below</a></span>.</p></li>
@@ -147,14 +147,14 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="无线网络故障排除">上一页</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="无线网络故障排除">下一页</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.zh-CN" title="无线网络故障排除">上一页</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.zh-CN" title="无线网络故障排除">下一页</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="无线网络故障排除">无线网络故障排除</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.zh-CN" title="无线网络故障排除">无线网络故障排除</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li></ul></div>
 </div></div></div>
 </div>

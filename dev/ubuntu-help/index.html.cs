@@ -45,53 +45,53 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
-<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 17.10</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html" title="Začínáme"><span class="title">Začínáme s GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Začínáte s GNOME? Naučte se základní triky.</span></a></div></div></div></div>
+<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 18.04</span></div><div class="region"><div class="contents">
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.cs" title="Začínáme"><span class="title">Začínáme s GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Začínáte s GNOME? Naučte se základní triky.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Odhlášení nebo přepnutí uživatele, vypnutí"><span class="title">Odhlášení nebo přepnutí uživatele, vypnutí</span><span class="linkdiv-dash"> — </span><span class="desc">Naučte se, jak správně odejít od svého účtu, ať už odhlášením nebo přepnutím uživatele apod.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Spouštění aplikací"><span class="title">Spouštění aplikací</span><span class="linkdiv-dash"> — </span><span class="desc">Jak spustit aplikaci z přehledu <span class="gui">Činnosti</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Úvod do GNOME"><span class="title">Úvod do GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Obrázkový úvod do plochy, horní lišty a přehledu <span class="gui">Činnosti</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.cs" title="Odhlášení nebo přepnutí uživatele, vypnutí"><span class="title">Odhlášení nebo přepnutí uživatele, vypnutí</span><span class="linkdiv-dash"> — </span><span class="desc">Naučte se, jak správně odejít od svého účtu, ať už odhlášením nebo přepnutím uživatele apod.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.cs" title="Spouštění aplikací"><span class="title">Spouštění aplikací</span><span class="linkdiv-dash"> — </span><span class="desc">Jak spustit aplikaci z přehledu <span class="gui">Činnosti</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.cs" title="Úvod do GNOME"><span class="title">Úvod do GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Obrázkový úvod do plochy, horní lišty a přehledu <span class="gui">Činnosti</span>.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="shell-overview.html" title="Vaše uživatelské prostředí">Vaše uživatelské prostředí</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html" title="Kalendářové události">Kalendář</a></span>, <span class="link"><a href="shell-notifications.html" title="Upozornění a pořadač zpráv">upozornění</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Užitečné klávesové zkratky">klávesové zkratky</a></span>, <span class="link"><a href="shell-windows.html" title="Okna a pracovní plochy">okna a plochy</a></span>…</span></div>
+<div class="links-grid-link"><a href="shell-overview.html.cs" title="Vaše uživatelské prostředí">Vaše uživatelské prostředí</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html.cs" title="Kalendářové události">Kalendář</a></span>, <span class="link"><a href="shell-notifications.html.cs" title="Upozornění a pořadač zpráv">upozornění</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.cs" title="Užitečné klávesové zkratky">klávesové zkratky</a></span>, <span class="link"><a href="shell-windows.html.cs" title="Okna a pracovní plochy">okna a plochy</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html" title="Bezdrátové sítě">Bezdrátové</a></span>, <span class="link"><a href="net-wired.html" title="Drátová síť">drátové</a></span>, <span class="link"><a href="net-problem.html" title="Problémy se sítí">problémy s připojením</a></span>, <span class="link"><a href="net-browser.html" title="Prohlížeče WWW">prohlížení www</a></span>, <span class="link"><a href="net-email.html" title="E-mail a poštovní software">poštovní účty</a></span>…</span></div>
+<div class="links-grid-link"><a href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové</a></span>, <span class="link"><a href="net-wired.html.cs" title="Drátová síť">drátové</a></span>, <span class="link"><a href="net-problem.html.cs" title="Problémy se sítí">problémy s připojením</a></span>, <span class="link"><a href="net-browser.html.cs" title="Webové prohlížeče">prohlížení www</a></span>, <span class="link"><a href="net-email.html.cs" title="E-mail a poštovní software">poštovní účty</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html" title="Zvuk, video a obrázky">Zvuk, video a obrázky</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="media.html#photos" title="Fotografie a digitální fotoaparáty">Digitální fotoaparáty</a></span>, <span class="link"><a href="media.html#music" title="Hudba a přenosné hudební přehrávače">iPod</a></span>, <span class="link"><a href="media.html#photos" title="Fotografie a digitální fotoaparáty">úprava fotografií</a></span>, <span class="link"><a href="media.html#videos" title="Videa a videokamery">přehrávání videí</a></span>…</span></div>
+<div class="links-grid-link"><a href="media.html.cs" title="Zvuk, video a obrázky">Zvuk, video a obrázky</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="media.html.cs#photos" title="Fotografie a digitální fotoaparáty">Digitální fotoaparáty</a></span>, <span class="link"><a href="media.html.cs#music" title="Hudba a přenosné hudební přehrávače">iPod</a></span>, <span class="link"><a href="media.html.cs#photos" title="Fotografie a digitální fotoaparáty">úprava fotografií</a></span>, <span class="link"><a href="media.html.cs#videos" title="Videa a videokamery">přehrávání videí</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="files.html" title="Soubory, složky a hledání">Soubory, složky a hledání</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="files-search.html" title="Hledání souborů">Hledání</a></span>, <span class="link"><a href="files-delete.html" title="Mazání souborů a složek">mazání souborů</a></span>, <span class="link"><a href="files.html#backup" title="Zálohování">zálohování</a></span>, <span class="link"><a href="files.html#removable" title="Výměnná média a externí disky">výměnná média</a></span>…</span></div>
+<div class="links-grid-link"><a href="files.html.cs" title="Soubory, složky a hledání">Soubory, složky a hledání</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="files-search.html.cs" title="Hledání souborů">Hledání</a></span>, <span class="link"><a href="files-delete.html.cs" title="Mazání souborů a složek">mazání souborů</a></span>, <span class="link"><a href="files.html.cs#backup" title="Zálohování">zálohování</a></span>, <span class="link"><a href="files.html.cs#removable" title="Výměnná média a externí disky">výměnná média</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="addremove.html" title="Instalace a odstranění softwaru">Instalace a odstranění softwaru</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="addremove-install.html" title="Instalace dodatečných aplikací">Instalace aplikací</a></span>, <span class="link"><a href="addremove-remove.html" title="Odstranění aplikace">odstranění aplikací</a></span>, <span class="link"><a href="addremove-sources.html" title="Přidávání zdrojů softwaru">přidání zdrojů softwaru</a></span>…</span></div>
+<div class="links-grid-link"><a href="addremove.html.cs" title="Instalace a odstranění softwaru">Instalace a odstranění softwaru</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="addremove-install.html.cs" title="Instalace dodatečných aplikací">Instalace aplikací</a></span>, <span class="link"><a href="addremove-remove.html.cs" title="Odstranění aplikace">odstranění aplikací</a></span>, <span class="link"><a href="addremove-sources.html.cs" title="Přidávání zdrojů softwaru">přidání zdrojů softwaru</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs.html" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html" title="Uživatelské účty">uživatelské účty</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs.html.cs" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html.cs" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html.cs" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html.cs" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html.cs" title="Uživatelské účty">uživatelské účty</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware.html" title="Hardware a ovladače">Hardware a ovladače</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="hardware.html#problems" title="Běžné problémy">Problémy s hardwarem</a></span>, <span class="link"><a href="printing.html" title="Tisk">tiskárny</a></span>, <span class="link"><a href="power.html" title="Napájení a baterie">nastavení napájení</a></span>, <span class="link"><a href="color.html" title="Správa barev">správa barev</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Disky a úložiště">disky</a></span>…</span></div>
+<div class="links-grid-link"><a href="hardware.html.cs" title="Hardware a ovladače">Hardware a ovladače</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="hardware.html.cs#problems" title="Běžné problémy">Problémy s hardwarem</a></span>, <span class="link"><a href="printing.html.cs" title="Tisk">tiskárny</a></span>, <span class="link"><a href="power.html.cs" title="Napájení a baterie">nastavení napájení</a></span>, <span class="link"><a href="color.html.cs" title="Správa barev">správa barev</a></span>, <span class="link"><a href="bluetooth.html.cs" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.cs" title="Disky a úložiště">disky</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="a11y.html" title="Univerzální přístup">Univerzální přístup</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="a11y.html#vision" title="Zraková postižení">Zrak</a></span>, <span class="link"><a href="a11y.html#sound" title="Sluchová postižení">sluch</a></span>, <span class="link"><a href="a11y.html#mobility" title="Pohybová postižení">pohyblivost</a></span>, <span class="link"><a href="a11y-braille.html" title="Čtení obrazovky pomocí braillského řádku">Braille</a></span>, <span class="link"><a href="a11y-mag.html" title="Zvětšení části obrazovky">lupa obrazovky</a></span>…</span></div>
+<div class="links-grid-link"><a href="a11y.html.cs" title="Univerzální přístup">Univerzální přístup</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="a11y.html.cs#vision" title="Zraková postižení">Zrak</a></span>, <span class="link"><a href="a11y.html.cs#sound" title="Sluchová postižení">sluch</a></span>, <span class="link"><a href="a11y.html.cs#mobility" title="Pohybová postižení">pohyblivost</a></span>, <span class="link"><a href="a11y-braille.html.cs" title="Čtení obrazovky pomocí braillského řádku">Braille</a></span>, <span class="link"><a href="a11y-mag.html.cs" title="Zvětšení části obrazovky">lupa obrazovky</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="tips.html" title="Tipy a triky">Tipy a triky</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html" title="Zadávání speciálních znaků">Speciální znaky</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Kliknutí prostředním tlačítkem">klávesové zkratky s prostředním tlačítkem</a></span>…</span></div>
+<div class="links-grid-link"><a href="tips.html.cs" title="Tipy a triky">Tipy a triky</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.cs" title="Zadávání speciálních znaků">Speciální znaky</a></span>, <span class="link"><a href="mouse-middleclick.html.cs" title="Kliknutí prostředním tlačítkem">klávesové zkratky s prostředním tlačítkem</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="more-help.html" title="Získat další nápovědu">Získat další nápovědu</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html" title="O tomto průvodci">Tipy k používání průvodce</a></span>, <span class="link"><a href="get-involved.html" title="Pomozte vylepšit překlady">pomoc s vylepšením průvodce</a></span>…</span></div>
+<div class="links-grid-link"><a href="more-help.html.cs" title="Získat další nápovědu">Získat další nápovědu</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html.cs" title="O tomto průvodci">Tipy k používání průvodce</a></span>, <span class="link"><a href="get-involved.html.cs" title="Pomozte vylepšit překlady">pomoc s vylepšením průvodce</a></span>…</span></div>
 </div>
 </div></div></div>
 </div></div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="color.html" title="Správa barev">Správa barev</a> › <a class="trail" href="color.html#profiles" title="Profily barev">Profily barev</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="color.html.cs" title="Správa barev">Správa barev</a> › <a class="trail" href="color.html.cs#profiles" title="Profily barev">Profily barev</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="color.html" title="Správa barev">Správa barev</a> › <a class="trail" href="color.html#profiles" title="Profily barev">Profily barev</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="color.html.cs" title="Správa barev">Správa barev</a> › <a class="trail" href="color.html.cs#profiles" title="Profily barev">Profily barev</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,29 +56,29 @@
 <p class="p">Nejlepším způsobem, jak získat profil barev je sám si jej vygenerovat, i když to vyžaduje trochu námahy.</p>
 <p class="p">Řada výrobců se snaží poskytnout profil barev pro svá zařízení, i když občas to řeší přibalením k <span class="em">instalátoru ovladače</span>, který si budete muset stáhnout, rozbalit jej a profily barev v něm vyhledat.</p>
 <p class="p">Někteří výrobci neposkytují pro hardware správné profily a takovýmto profilům je pak lépe se vyhnout. Dobrým vodítkem je stáhnout si profil a pokud je datum jeho vytvoření starší jak rok od data, kdy jste si zařízení koupili, obsahuje nejspíše obecně vygenerovaná data, která jsou nepoužitelná.</p>
-<p class="p">Viz <span class="link"><a href="color-why-calibrate.html" title="Proč si musím kalibraci dělat sám?">Proč si musím kalibraci dělat sám?</a></span> ohledně více informací, proč jsou výrobci poskytované profily často více než nepoužitelné.</p>
+<p class="p">Viz <span class="link"><a href="color-why-calibrate.html.cs" title="Proč si musím kalibraci dělat sám?">Proč si musím kalibraci dělat sám?</a></span> ohledně více informací, proč jsou výrobci poskytované profily často více než nepoužitelné.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Profily barev">Profily barev</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.cs#profiles" title="Profily barev">Profily barev</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Co je to profil barev?">Co je to profil barev?</a><span class="desc"> — Profil barev je jednoduchý soubor, který vyjadřuje prostor barev nebo odezvu zařízení.</span>
+<a href="color-whatisprofile.html.cs" title="Co je to profil barev?">Co je to profil barev?</a><span class="desc"> — Profil barev je jednoduchý soubor, který vyjadřuje prostor barev nebo odezvu zařízení.</span>
 </li>
 <li class="links ">
-<a href="color-testing.html" title="Jak mohu vyzkoušet, že správa barev funguje správně?">Jak mohu vyzkoušet, že správa barev funguje správně?</a><span class="desc"> — Použijte dodávané testovací profily ke kontrole, že se vaše profily správně používají pro obrazovku.</span>
+<a href="color-testing.html.cs" title="Jak mohu vyzkoušet, že správa barev funguje správně?">Jak mohu vyzkoušet, že správa barev funguje správně?</a><span class="desc"> — Použijte dodávané testovací profily ke kontrole, že se vaše profily správně používají pro obrazovku.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Proč si musím kalibraci dělat sám?">Proč si musím kalibraci dělat sám?</a><span class="desc"> — Kalibrace je důležitá, když se staráte o věrnost barev, které zobrazujete nebo tisknete.</span>
+<a href="color-why-calibrate.html.cs" title="Proč si musím kalibraci dělat sám?">Proč si musím kalibraci dělat sám?</a><span class="desc"> — Kalibrace je důležitá, když se staráte o věrnost barev, které zobrazujete nebo tisknete.</span>
 </li>
 <li class="links ">
-<a href="color-missingvcgt.html" title="Schází informace pro celoobrazovkovou korekci barev?">Schází informace pro celoobrazovkovou korekci barev?</a><span class="desc"> — Celoobrazovková korekce barev mění barvy na celé obrazovce ve všech oknech.</span>
+<a href="color-missingvcgt.html.cs" title="Schází informace pro celoobrazovkovou korekci barev?">Schází informace pro celoobrazovkovou korekci barev?</a><span class="desc"> — Celoobrazovková korekce barev mění barvy na celé obrazovce ve všech oknech.</span>
 </li>
 </ul></div>
 </div></div>

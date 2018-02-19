@@ -43,22 +43,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Network problems</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html.da" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
     connect to a hidden network.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="Other users can’t connect to the internet"><span class="title">Other users can’t connect to the internet</span><span class="linkdiv-dash"> — </span><span class="desc">You can save settings (like the password) for a network connection so that everyone who uses the computer will be able to connect to it.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="Other users can’t edit the network connections"><span class="title">Other users can’t edit the network connections</span><span class="linkdiv-dash"> — </span><span class="desc">You need to uncheck the <span class="gui">Available to all users</span> option in the network connection settings.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html.da" title="Other users can’t connect to the internet"><span class="title">Other users can’t connect to the internet</span><span class="linkdiv-dash"> — </span><span class="desc">You can save settings (like the password) for a network connection so that everyone who uses the computer will be able to connect to it.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html.da" title="Other users can’t edit the network connections"><span class="title">Other users can’t edit the network connections</span><span class="linkdiv-dash"> — </span><span class="desc">You need to uncheck the <span class="gui">Available to all users</span> option in the network connection settings.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-slow.html" title="The internet seems slow"><span class="title">The internet seems slow</span><span class="linkdiv-dash"> — </span><span class="desc">Other things might be downloading, you could have a poor connection,
+<div class="linkdiv "><a class="linkdiv" href="net-slow.html.da" title="The internet seems slow"><span class="title">The internet seems slow</span><span class="linkdiv-dash"> — </span><span class="desc">Other things might be downloading, you could have a poor connection,
     or it could be a busy time of day.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?"><span class="title">Why does my wireless network keep disconnecting?</span><span class="linkdiv-dash"> — </span><span class="desc">You might have low signal, or the network might not be letting you
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html.da" title="Why does my wireless network keep disconnecting?"><span class="title">Why does my wireless network keep disconnecting?</span><span class="linkdiv-dash"> — </span><span class="desc">You might have low signal, or the network might not be letting you
     connect properly.</span></a></div>
 </div>
 </div></div></div></div>
@@ -68,22 +68,22 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Wireless Networking">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Wired Networking">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Network problems">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Web Browsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email &amp; email software">email accounts</a></span>…
+<a href="net.html.da" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html.da" title="Wireless Networking">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html.da" title="Wired Networking">wired</a></span>,
+      <span class="link"><a href="net-problem.html.da" title="Network problems">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html.da" title="Web Browsers">web browsing</a></span>,
+      <span class="link"><a href="net-email.html.da" title="Email &amp; email software">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Wireless Networking">Wireless Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
+<a href="net-wireless.html.da" title="Wireless Networking">Wireless Networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.da" title="Connect to a wireless network">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.da" title="Connect to a hidden wireless network">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.da" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div>

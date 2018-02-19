@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Probleemoplosser draadloos netwerk">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Probleemoplosser draadloos netwerk">Volgende</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.nl" title="Probleemoplosser draadloos netwerk">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.nl" title="Probleemoplosser draadloos netwerk">Volgende</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Problemen met een draadloos verbinding oplossen</span></h1>
@@ -70,7 +70,7 @@
        vendor: Intel Corporation</pre></div>
 </li>
 <li class="steps">
-<p class="p">Als er een draadloos netwerk-apparaat in de lijst staat, ga dan door naar de pagina <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Probleemoplosser draadloos netwerk">Stuurprogramma's</a></span>.</p>
+<p class="p">Als er een draadloos netwerk-apparaat in de lijst staat, ga dan door naar de pagina <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.nl" title="Probleemoplosser draadloos netwerk">Stuurprogramma's</a></span>.</p>
 <p class="p">Als een draadloos apparaat <span class="em">niet</span> in de lijst staat, dan zal de volgende stap afhangen van het apparaat dat u gebruikt. Ga naar de sectie hieronder die relevant is voor het type draadloos apparaat dat uw computer heeft (<span class="link"><a href="#pci" title="PCI (interne) draadloze adapter">interne PCI</a></span>, <span class="link"><a href="#usb" title="Draadloze USB-adapter">USB</a></span>, of <span class="link"><a href="#pcmcia" title="Controleren op een PCMCIA-kaart">PCMCIA</a></span>).</p>
 </li>
 </ol></div></div></div>
@@ -86,7 +86,7 @@
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Probleemoplosser draadloos netwerk">Device Drivers
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.nl" title="Probleemoplosser draadloos netwerk">Device Drivers
       step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
       <span class="link"><a href="#not-recognized" title="Draadloze adapter niet herkend">the instructions below</a></span>.</p></li>
@@ -104,7 +104,7 @@
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Probleemoplosser draadloos netwerk">Device Drivers
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.nl" title="Probleemoplosser draadloos netwerk">Device Drivers
       step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
       <span class="link"><a href="#not-recognized" title="Draadloze adapter niet herkend">the instructions below</a></span>.</p></li>
@@ -127,7 +127,7 @@
 <li class="steps"><p class="p">Steek uw draadloos netwerk-adapter in de PCMCIA-sleuf en kijk wat er verandert in het terminalvenster. Er zou enige informatie over uw draadloos netwerk-adapter te zien moeten zijn. Lees deze door en kijk of u hem kunt herkennen.</p></li>
 <li class="steps"><p class="p">Om het uitvoeren van een opdracht in de terminal te stoppen, druk op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Nadat u dat gedaan heeft kunt u de terminal sluiten als u wilt.</p></li>
 <li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
-      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Probleemoplosser draadloos netwerk">Device
+      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.nl" title="Probleemoplosser draadloos netwerk">Device
       Drivers step</a></span>. If you didn’t find anything related to your wireless
       adapter, see <span class="link"><a href="#not-recognized" title="Draadloze adapter niet herkend">the instructions
       below</a></span>.</p></li>
@@ -144,14 +144,14 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Probleemoplosser draadloos netwerk">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Probleemoplosser draadloos netwerk">Volgende</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.nl" title="Probleemoplosser draadloos netwerk">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.nl" title="Probleemoplosser draadloos netwerk">Volgende</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li></ul></div>
 </div></div></div>
 </div>

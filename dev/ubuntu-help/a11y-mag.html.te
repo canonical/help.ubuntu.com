@@ -43,15 +43,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="సార్వత్రిక ప్రాప్యత">సార్వత్రిక ప్రాప్యత</a> › <a class="trail" href="a11y.html#vision" title="దృష్టి వైకల్యం">దృష్టి వైకల్యం</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.te" title="సార్వత్రిక ప్రాప్యత">సార్వత్రిక ప్రాప్యత</a> › <a class="trail" href="a11y.html.te#vision" title="దృష్టి వైకల్యం">దృష్టి వైకల్యం</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Magnify a screen area</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">తెరను పెద్దది చేయడం అనేది <span class="link"><a href="a11y-font-size.html" title="తెరపై పాఠ్య పరిమాణాన్ని మార్చండి">పాఠం పరిమాణం</a></span> పెద్దది చేయడం కన్నా వేరు. ఈ విశేషణం అనునది బూతద్దం కలిగివున్నట్లు వుంటుంది, తెరపైని భాగాలను జూమ్‌చేస్తూ కదులుటకు మిమ్ములను అనుమతించును.</p>
+<p class="p">తెరను పెద్దది చేయడం అనేది <span class="link"><a href="a11y-font-size.html.te" title="తెరపై పాఠ్య పరిమాణాన్ని మార్చండి">పాఠం పరిమాణం</a></span> పెద్దది చేయడం కన్నా వేరు. ఈ విశేషణం అనునది బూతద్దం కలిగివున్నట్లు వుంటుంది, తెరపైని భాగాలను జూమ్‌చేస్తూ కదులుటకు మిమ్ములను అనుమతించును.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.te#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press on <span class="gui">Zoom</span> in the <span class="gui">Seeing</span> section.</p></li>
@@ -59,7 +59,7 @@
       <span class="gui">Zoom Options</span> window.</p></li>
 </ol></div></div></div>
 <p class="p">మీరు ఇప్పుడు తెర ప్రాంతమునందు కదులవచ్చు. మీ మౌస్‌ను తెర అంచులకు కదుల్చుట ద్వారా, మీరు పెద్దది చేసిన ప్రాంతమును విభిన్న దిశలలో కదల్చవచ్చు, అది మీకు కావలసిన ప్రాంతమును చూచుటకు అనుమతించును.</p>
-<div class="note note-tip" title="చిట్కా"><div class="inner"><div class="region"><div class="contents"><p class="p">పై పట్టీ నందలి <span class="gui">జూమ్</span> ఎంపికచేసి <span class="link"><a href="a11y-icon.html" title="సార్వత్రిక సౌలభ్యత మెనును కనుగొనండి">ఏక్సెసబిలిటీ ప్రతిమ</a></span> పైన నొక్కి మీరు త్వరగా జూమ్ ఆన్ మరియు ఆఫ్ చేయవచ్చు.</p></div></div></div></div>
+<div class="note note-tip" title="చిట్కా"><div class="inner"><div class="region"><div class="contents"><p class="p">పై పట్టీ నందలి <span class="gui">జూమ్</span> ఎంపికచేసి <span class="link"><a href="a11y-icon.html.te" title="సార్వత్రిక సౌలభ్యత మెనును కనుగొనండి">ఏక్సెసబిలిటీ ప్రతిమ</a></span> పైన నొక్కి మీరు త్వరగా జూమ్ ఆన్ మరియు ఆఫ్ చేయవచ్చు.</p></div></div></div></div>
 <p class="p">You can change the magnification factor, the mouse tracking, and the
   position of the magnified view on the screen. Adjust these in the
   <span class="gui">Magnifier</span> tab of the <span class="gui">Zoom Options</span> window.</p>
@@ -77,7 +77,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="దృష్టి వైకల్యం">దృష్టి వైకల్యం</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.te#vision" title="దృష్టి వైకల్యం">దృష్టి వైకల్యం</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

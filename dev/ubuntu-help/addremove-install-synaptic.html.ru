@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Установка и удаление программ">Установка и удаление программ</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.ru" title="Установка и удаление программ">Установка и удаление программ</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Используйте Synaptic для более продвинутого управления программным обеспечением</span></h1></div>
@@ -72,17 +72,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Установка и удаление программ">Установка и удаление программ</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Установка дополнительных приложений">Установка приложений</a></span>, <span class="link"><a href="addremove-remove.html" title="Удаление приложения">удаление приложений</a></span>, <span class="link"><a href="addremove-sources.html" title="Добавление репозиториев программного обеспечения">добавление репозиториев</a></span>…</span>
+<a href="addremove.html.ru" title="Установка и удаление программ">Установка и удаление программ</a><span class="desc"> — <span class="link"><a href="addremove-install.html.ru" title="Установка дополнительных приложений">Установка приложений</a></span>, <span class="link"><a href="addremove-remove.html.ru" title="Удаление приложения">удаление приложений</a></span>, <span class="link"><a href="addremove-sources.html.ru" title="Добавление репозиториев программного обеспечения">добавление репозиториев</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-remove.html" title="Удаление приложения">Удаление приложения</a><span class="desc"> — Удалите приложения, которые больше не нужны.</span>
+<a href="addremove-remove.html.ru" title="Удаление приложения">Удаление приложения</a><span class="desc"> — Удалите приложения, которые больше не нужны.</span>
 </li>
 <li class="links ">
-<a href="addremove-install.html" title="Установка дополнительных приложений">Установка дополнительных приложений</a><span class="desc"> — Используйте <span class="app">Менеджер приложений Ubuntu</span> для установки дополнительных полезных приложений.</span>
+<a href="addremove-install.html.ru" title="Установка дополнительных приложений">Установка дополнительных приложений</a><span class="desc"> — Используйте <span class="app">Менеджер приложений Ubuntu</span> для установки дополнительных полезных приложений.</span>
 </li>
 </ul></div>
 </div></div>

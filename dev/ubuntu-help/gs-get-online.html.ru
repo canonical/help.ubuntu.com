@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Начало работы">Начало работы с GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.ru" title="Начало работы">Начало работы с GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="Использование системного поиска">Назад</a><a class="nextlinks-next" href="gs-browse-web.html" title="Путешествие по Интернету">Вперёд</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.ru" title="Использование системного поиска">Назад</a><a class="nextlinks-next" href="gs-browse-web.html.ru" title="Путешествие по Интернету">Вперёд</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Подключение к сети</span></h1></div>
 <div class="region">
@@ -78,7 +78,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">To connect to a Wi-Fi (wireless) network:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html#yourname" title="Вы и ваш компьютер">system menu</a></span>
+<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html.ru#yourname" title="Вы и ваш компьютер">system menu</a></span>
         on the right side of the top bar.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Wi-Fi Not Connected</span>. The Wi-Fi section of the menu
         will expand.</p></li>
@@ -94,7 +94,7 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="Использование системного поиска">Назад</a><a class="nextlinks-next" href="gs-browse-web.html" title="Путешествие по Интернету">Вперёд</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.ru" title="Использование системного поиска">Назад</a><a class="nextlinks-next" href="gs-browse-web.html.ru" title="Путешествие по Интернету">Вперёд</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -102,13 +102,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Начало работы">Начало работы с GNOME</a><span class="desc"> — Новичок в GNOME? Узнай, с чего начать.</span>
+<a href="getting-started.html.ru" title="Начало работы">Начало работы с GNOME</a><span class="desc"> — Новичок в GNOME? Узнай, с чего начать.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Беспроводные сети">Беспроводные</a></span>, <span class="link"><a href="net-wired.html" title="Проводные сети">проводные</a></span>, <span class="link"><a href="net-problem.html" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html" title="Веб-браузеры">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
+<a href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные</a></span>, <span class="link"><a href="net-wired.html.ru" title="Проводные сети">проводные</a></span>, <span class="link"><a href="net-problem.html.ru" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html.ru" title="Веб-браузеры">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html.ru" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

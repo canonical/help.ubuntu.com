@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html.nl" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">De prestaties van u harde schijf testen</span></h1></div>
@@ -51,12 +51,12 @@
 <div class="contents">
 <p class="p">Om de snelheid van uw harde schijf te testen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Schijven</span> vanuit het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht.</p></li>
+<li class="steps"><p class="p">Open <span class="app">Schijven</span> vanuit het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht.</p></li>
 <li class="steps"><p class="p">Kies de harde schijf uit de lijst in het linker paneel.</p></li>
 <li class="steps"><p class="p">Klik op de menuknop en selecteer <span class="gui">Schijf benchmarken…</span> uit het menu.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Benchmark uitvoeren…</span> en pas de parameters <span class="gui">Overdrachtsnelheid</span> en <span class="gui">Toegangstijd</span> naar wens aan.</p></li>
 <li class="steps">
-<p class="p">Klik op <span class="gui">Benchmark uitvoeren</span> om te testen hoe snel gegevens van de schijf gelezen kunnen worden. Er zijn <span class="link"><a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">Beheerdersrechten</a></span> voor nodig. Voer uw wachtwoord in, of het wachtwoord voor de beheerdersaccount.</p>
+<p class="p">Klik op <span class="gui">Benchmark uitvoeren</span> om te testen hoe snel gegevens van de schijf gelezen kunnen worden. Er zijn <span class="link"><a href="user-admin-explain.html.nl" title="Hoe werken beheerdersrechten?">Beheerdersrechten</a></span> voor nodig. Voer uw wachtwoord in, of het wachtwoord voor de beheerdersaccount.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Als <span class="gui">Schrijfbenchmark uitvoeren</span> is aangevinkt, dan zal er getest worden hoe snel gegevens gelezen van en geschreven naar de schijf kunnen worden. Dit zal langer duren.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Schijven &amp; opslag">Schijven &amp; opslag</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Controleer hoeveel schijfruimte er nog besschikbaar is">Schijfruimte</a></span>, <span class="link"><a href="disk-benchmark.html" title="De prestaties van u harde schijf testen">presentatie</a></span>, <span class="link"><a href="disk-check.html" title="Controleer of er problemen zijn met u harde schijf">problemen</a></span>, <span class="link"><a href="disk-partitions.html" title="Volumes en partities beheren">volumes en partities</a></span>...</span>
+<a href="disk.html.nl" title="Schijven &amp; opslag">Schijven &amp; opslag</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.nl" title="Controleer hoeveel schijfruimte er nog besschikbaar is">Schijfruimte</a></span>, <span class="link"><a href="disk-benchmark.html.nl" title="De prestaties van u harde schijf testen">presentatie</a></span>, <span class="link"><a href="disk-check.html.nl" title="Controleer of er problemen zijn met u harde schijf">problemen</a></span>, <span class="link"><a href="disk-partitions.html.nl" title="Volumes en partities beheren">volumes en partities</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

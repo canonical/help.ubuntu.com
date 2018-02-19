@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="power.html#problems" title="Problēmas">Barošanas problēmas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html.lv#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="power.html.lv#problems" title="Problēmas">Barošanas problēmas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kad atmodinu datoru, nav bezvadu tīkla</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Ja dators tika iesnaudināts, var gadīties, ka pēc atmošanās nestrādā interneta pieslēgums. Tas notiek, kad bezvadu tīkla ierīces <span class="link"><a href="hardware-driver.html" title="Kas ir draiveris?">draiveris</a></span> pilnībā neatbalsta zināmas enerģijas taupīšanas iespējas. Parasti tad bezvadu savienojums netiek atkal ieslēgts, kad dators ir atmodināts.</p>
+<p class="p">Ja dators tika iesnaudināts, var gadīties, ka pēc atmošanās nestrādā interneta pieslēgums. Tas notiek, kad bezvadu tīkla ierīces <span class="link"><a href="hardware-driver.html.lv" title="Kas ir draiveris?">draiveris</a></span> pilnībā neatbalsta zināmas enerģijas taupīšanas iespējas. Parasti tad bezvadu savienojums netiek atkal ieslēgts, kad dators ir atmodināts.</p>
 <p class="p">Ja tā notiek, pamēģiniet izslēgt un atkal ieslēgt bezvadu savienojumu:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Tīkls</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Tīkls</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Tīkls</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Izvēlies <span class="gui">Wi-Fi</span>.</p></li>
 <li class="steps"><p class="p">Pārslēdziet bezvadu savienojumu uz <span class="gui">◯</span> un tad atkal uz <span class="gui">|</span>.</p></li>
@@ -66,17 +66,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html#problems" title="Problēmas">Barošanas problēmas</a><span class="desc"> — Atrisināt problēmas ar datora barošanu un baterijām.</span>
+<a href="power.html.lv#problems" title="Problēmas">Barošanas problēmas</a><span class="desc"> — Atrisināt problēmas ar datora barošanu un baterijām.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-driver.html" title="Kas ir draiveris?">Kas ir draiveris?</a><span class="desc"> — Aparatūras/ierīces draiveris ļauj datoram izmantot tam pievienotās ierīces.</span>
+<a href="hardware-driver.html.lv" title="Kas ir draiveris?">Kas ir draiveris?</a><span class="desc"> — Aparatūras/ierīces draiveris ļauj datoram izmantot tam pievienotās ierīces.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Kāpēc mans dators neatmostas pēc iesnaudināšanas?">Kāpēc mans dators neatmostas pēc iesnaudināšanas?</a><span class="desc"> — Dažu datoru sastāvā ir aparatūra, kas izraisa problēmas ar iesnaudināšanu.</span>
+<a href="power-suspendfail.html.lv" title="Kāpēc mans dators neatmostas pēc iesnaudināšanas?">Kāpēc mans dators neatmostas pēc iesnaudināšanas?</a><span class="desc"> — Dažu datoru sastāvā ir aparatūra, kas izraisa problēmas ar iesnaudināšanu.</span>
 </li>
 </ul></div>
 </div></div>

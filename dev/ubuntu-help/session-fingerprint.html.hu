@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="hardware-auth.html" title="Ujjlenyomatok és intelligens kártyák">Ujjlenyomatok és intelligens kártyák</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="hardware-auth.html.hu" title="Ujjlenyomatok és intelligens kártyák">Ujjlenyomatok és intelligens kártyák</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bejelentkezés ujjlenyomattal</span></h1></div>
@@ -54,9 +54,9 @@
 <div class="region"><div class="contents">
 <p class="p">Mielőtt bejelentkezhetne az ujjlenyomatával, először rögzítenie kell azt, hogy a rendszer azzal azonosíthassa.</p>
 <div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Ha ujja túl száraz, akkor az ujjlenyomat rögzítése gondot okozhat. Ebben az esetben nedvesítse meg kicsit az ujját, törölje meg egy tiszta, szálmentes ruhával, és próbálja újra.</p></div></div></div></div>
-<p class="p">A saját fiókjától eltérő fiókok szerkesztéséhez <span class="link"><a href="user-admin-explain.html" title="Hogyan működik a rendszergazdai jogosultság?">rendszergazdai jogosultság</a></span> szükséges.</p>
+<p class="p">A saját fiókjától eltérő fiókok szerkesztéséhez <span class="link"><a href="user-admin-explain.html.hu" title="Hogyan működik a rendszergazdai jogosultság?">rendszergazdai jogosultság</a></span> szükséges.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Felhasználók</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Felhasználók</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Felhasználók</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Nyomja meg a <span class="gui">Letiltva</span> gombot az <span class="gui">Ujjlenyomatos bejelentkezés</span> mellett egy ujjlenyomat hozzáadásához a kijelölt fiókhoz. Ha az ujjlenyomatot másik felhasználóhoz szeretné adni, akkor előtte nyomja meg a <span class="gui">Feloldás</span> gombot a panel feloldásához.</p></li>
 <li class="steps"><p class="p">Válassza ki az ujjlenyomathoz használandó ujjat, majd nyomja meg a <span class="gui">Tovább</span> gombot.</p></li>
@@ -70,7 +70,7 @@
 <div class="region"><div class="contents">
 <p class="p">Most ellenőrizze, hogy az ujjlenyomatos bejelentkezés működik-e. Az ujjlenyomat regisztrálása után továbbra is lehetősége lesz jelszóval bejelentkezni.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Mentse munkáját, és <span class="link"><a href="shell-exit.html#logout" title="Kijelentkezés vagy felhasználóváltás">jelentkezzen ki</a></span>.</p></li>
+<li class="steps"><p class="p">Mentse munkáját, és <span class="link"><a href="shell-exit.html.hu#logout" title="Kijelentkezés vagy felhasználóváltás">jelentkezzen ki</a></span>.</p></li>
 <li class="steps"><p class="p">A bejelentkezési képernyőn válassza ki a nevét a listából. Megjelenik a jelszóbeviteli mező.</p></li>
 <li class="steps"><p class="p">A jelszava beírása helyett az ujjlenyomat-olvasón lehúzva ujját is képesnek kell lennie a bejelentkezésre.</p></li>
 </ol></div></div></div>
@@ -81,7 +81,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-auth.html" title="Ujjlenyomatok és intelligens kártyák">Ujjlenyomatok és intelligens kártyák</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html" title="Bejelentkezés ujjlenyomattal">Ujjlenyomat-olvasók</a></span>, intelligens kártyák…</span>
+<a href="hardware-auth.html.hu" title="Ujjlenyomatok és intelligens kártyák">Ujjlenyomatok és intelligens kártyák</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html.hu" title="Bejelentkezés ujjlenyomattal">Ujjlenyomat-olvasók</a></span>, intelligens kártyák…</span>
 </li></ul></div>
 </div></div></div>
 </div>

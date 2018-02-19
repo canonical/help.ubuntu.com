@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html#apps" title="Програми и прозори">Програми и прозори</a> » <a class="trail" href="shell-windows.html" title="Прозори и радни простори">Прозори и радни простори</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Рад са прозорима">Прозори</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.sr" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html.sr#apps" title="Програми и прозори">Програми и прозори</a> » <a class="trail" href="shell-windows.html.sr" title="Прозори и радни простори">Прозори и радни простори</a> › <a class="trail" href="shell-windows.html.sr#working-with-windows" title="Рад са прозорима">Прозори</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Повећајте и поништите повећање прозора</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Можете да повећате прозор да заузме читав простор на радној површи и да поништите повећање прозора да бисте га вратили на његову уобичајену величину. Можете такође да повећате прозоре усправно дуж леве или десне стране екрана, тако да можете с лакоћом да посматрате два прозора одједном. Погледајте <span class="link"><a href="shell-windows-tiled.html" title="Поплочајте прозоре">Поплочајте прозоре</a></span> за појединости.</p>
-<p class="p">Да повећате прозор, ухватите траку наслова и превуците је до врха екрана, или само два пута кликните на исту. Да повећате прозор користећи тастатуру, држите притиснутим тастер <span class="key"><a href="keyboard-key-super.html" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span> и притисните <span class="key"><kbd>↑</kbd></span>, или притисните <span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Ф10</kbd></span></span>.</p>
+<p class="p">Можете да повећате прозор да заузме читав простор на радној површи и да поништите повећање прозора да бисте га вратили на његову уобичајену величину. Можете такође да повећате прозоре усправно дуж леве или десне стране екрана, тако да можете с лакоћом да посматрате два прозора одједном. Погледајте <span class="link"><a href="shell-windows-tiled.html.sr" title="Поплочајте прозоре">Поплочајте прозоре</a></span> за појединости.</p>
+<p class="p">Да повећате прозор, ухватите траку наслова и превуците је до врха екрана, или само два пута кликните на исту. Да повећате прозор користећи тастатуру, држите притиснутим тастер <span class="key"><a href="keyboard-key-super.html.sr" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span> и притисните <span class="key"><kbd>↑</kbd></span>, или притисните <span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Ф10</kbd></span></span>.</p>
 <p class="p">Да повратите прозор на његову неповећану величину, одлепите га од ивице екрана. Ако је прозор у потпуности повећан, можете два пута да кликнете на траку наслова да бисте га повратили. Можете такође да користите исте пречице тастатуре које сте користили за повећање прозора.</p>
 <div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Држите притиснутим тастер <span class="key"><kbd>Супер</kbd></span> и зграбите било где унутар прозора да га померите.</p></div></div></div></div>
 </div>
@@ -59,12 +59,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Рад са прозорима">Рад са прозорима</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.sr#working-with-windows" title="Рад са прозорима">Рад са прозорима</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-tiled.html" title="Поплочајте прозоре">Поплочајте прозоре</a><span class="desc"> — Повећајте два прозора један поред другог.</span>
+<a href="shell-windows-tiled.html.sr" title="Поплочајте прозоре">Поплочајте прозоре</a><span class="desc"> — Повећајте два прозора један поред другог.</span>
 </li></ul></div>
 </div></div>
 </div>

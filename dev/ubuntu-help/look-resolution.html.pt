@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="prefs-display.html" title="Ecrã">Ecrã</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="prefs-display.html.pt" title="Ecrã">Ecrã</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mudar a resolução ou a rotação do ecrã</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Pode mudar como de grandes (ou detalhadas), aparecem as coisas no ecrã mudando a <span class="em">resolução de ecrã</span>. Pode mudar a maneira na que se mostram as coisas (por exemplo, se tem um ecrã giratorio) mudando a <span class="em">rotação</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Ecrãs</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Ecrãs</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Ecrãs</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Se tem vários ecrãs e não estão replicadas pode ter diferentes configurações na cada uma. Selecione um ecrã no área de pré-visualização.</p></li>
 <li class="steps"><p class="p">Selecione a resolução e a rotação.</p></li>
@@ -62,7 +62,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Resolução</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">A resolução é o número de pixels (pontos no ecrã) que se mostram na cada direção. A cada resolução tem uma <span class="em">proporção de aspeto</span>, que é a proporção entre a altura e a largura. Os ecrãs largos usam uma proporção de aspeto de 16:9, enquanto as tradicionais usam 4:3. Se elege uma resolução que não coincide com a proporção de aspeto de seu ecrã, acrescentar-se-ão bandas negras superiores e inferiores em seu ecrã para evitar distorcer a imagem.</p>
-<p class="p">Pode escolher a opção que prefira no menu desdobrável <span class="gui">Resolução</span>. Se escolhe uma resolução que não seja adequada para seu ecrã é possível que a veja <span class="link"><a href="look-display-fuzzy.html" title="Por que parece que o que há em meu ecrã está difuso ou pixelado?">borrosa ou pixelada</a></span>.</p>
+<p class="p">Pode escolher a opção que prefira no menu desdobrável <span class="gui">Resolução</span>. Se escolhe uma resolução que não seja adequada para seu ecrã é possível que a veja <span class="link"><a href="look-display-fuzzy.html.pt" title="Por que parece que o que há em meu ecrã está difuso ou pixelado?">borrosa ou pixelada</a></span>.</p>
 </div></div>
 </div></div>
 <div id="rotation" class="sect"><div class="inner">
@@ -75,13 +75,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Ecrã">Ecrã</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Mudar o fundo do escritório e do ecrã de bloqueio">Fundo</a></span>, <span class="link"><a href="look-resolution.html" title="Mudar a resolução ou a rotação do ecrã">tamanho e rotação</a></span>, brilho…</span>
+<a href="prefs-display.html.pt" title="Ecrã">Ecrã</a><span class="desc"> — <span class="link"><a href="look-background.html.pt" title="Mudar o fundo do escritório e do ecrã de bloqueio">Fundo</a></span>, <span class="link"><a href="look-resolution.html.pt" title="Mudar a resolução ou a rotação do ecrã">tamanho e rotação</a></span>, brilho…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-display-fuzzy.html" title="Por que parece que o que há em meu ecrã está difuso ou pixelado?">Por que parece que o que há em meu ecrã está difuso ou pixelado?</a><span class="desc"> — A resolução do ecrã pode estar incorretamente ajustada.</span>
+<a href="look-display-fuzzy.html.pt" title="Por que parece que o que há em meu ecrã está difuso ou pixelado?">Por que parece que o que há em meu ecrã está difuso ou pixelado?</a><span class="desc"> — A resolução do ecrã pode estar incorretamente ajustada.</span>
 </li></ul></div>
 </div></div>
 </div>

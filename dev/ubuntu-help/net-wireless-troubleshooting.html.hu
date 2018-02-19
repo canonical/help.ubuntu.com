@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-wireless.html" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-wireless.html.hu" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html#problems" title="Gyakori problémák">Problémák</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html.hu#problems" title="Gyakori problémák">Problémák</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Következő</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Következő</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">Vezeték nélküli hálózatok hibáinak elhárítása</span></h1></div>
 <div class="region">
 <div class="contents">
@@ -72,23 +72,23 @@
 </div></div>
 </div></div>
 </div>
-<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Következő</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Következő</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="hardware.html#problems" title="Gyakori problémák">Hardverproblémák</a></li>
+<li class="links "><a href="hardware.html.hu#problems" title="Gyakori problémák">Hardverproblémák</a></li>
 <li class="links ">
-<a href="net-wireless.html" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Csatlakozás vezeték nélküli hálózatra">Kapcsolódás Wi-Fi-hez</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Kapcsolódás rejtett vezeték nélküli hálózathoz">Rejtett hálózatok</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Miért bontja folyamatosan a kapcsolatot a vezeték nélküli hálózatom?">Kapcsolatbontás</a></span>…</span>
+<a href="net-wireless.html.hu" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.hu" title="Csatlakozás vezeték nélküli hálózatra">Kapcsolódás Wi-Fi-hez</a></span>, <span class="link"><a href="net-wireless-hidden.html.hu" title="Kapcsolódás rejtett vezeték nélküli hálózathoz">Rejtett hálózatok</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.hu" title="Miért bontja folyamatosan a kapcsolatot a vezeték nélküli hálózatom?">Kapcsolatbontás</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Csatlakozás vezeték nélküli hálózatra">Csatlakozás vezeték nélküli hálózatra</a><span class="desc"> — Csatlakozás az internetre vezeték nélkül.</span>
+<a href="net-wireless-connect.html.hu" title="Csatlakozás vezeték nélküli hálózatra">Csatlakozás vezeték nélküli hálózatra</a><span class="desc"> — Csatlakozás az internetre vezeték nélkül.</span>
 </li></ul></div>
 </div></div>
 </div>

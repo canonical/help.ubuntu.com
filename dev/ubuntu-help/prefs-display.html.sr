@@ -43,25 +43,25 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Дисплеј и екран</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="Екран се превише брзо закључава"><span class="title">Екран се превише брзо закључава</span><span class="linkdiv-dash"> — </span><span class="desc">Измените након ког времена ће се закључати екран у подешавањима <span class="gui">Приватности</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-background.html" title="Измените радну површ и закључајте позадине екрана"><span class="title">Измените радну површ и закључајте позадине екрана</span><span class="linkdiv-dash"> — </span><span class="desc">Поставите слику, боју, или прелив као позадину ваше радне површи или закључајте позадину екрана.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-resolution.html" title="Измените резолуцију или окренутост екрана"><span class="title">Измените резолуцију или окренутост екрана</span><span class="linkdiv-dash"> — </span><span class="desc">Измените резолуцију екрана и његово усмерење (ротацију).</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html" title="Повежите још један монитор на ваш рачунар"><span class="title">Повежите још један монитор на ваш рачунар</span><span class="linkdiv-dash"> — </span><span class="desc">Подесите додатни монитор.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Подесите време затамњивања екрана"><span class="title">Подесите време затамњивања екрана</span><span class="linkdiv-dash"> — </span><span class="desc">Измените време затамњивања екрана да уштедите енергију.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html" title="Подесите осветљеност екрана"><span class="title">Подесите осветљеност екрана</span><span class="linkdiv-dash"> — </span><span class="desc">Измените осветљеност екрана да побољшате читљивост при јаком светлу.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.sr" title="Екран се превише брзо закључава"><span class="title">Екран се превише брзо закључава</span><span class="linkdiv-dash"> — </span><span class="desc">Измените након ког времена ће се закључати екран у подешавањима <span class="gui">Приватности</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-background.html.sr" title="Измените радну површ и закључајте позадине екрана"><span class="title">Измените радну површ и закључајте позадине екрана</span><span class="linkdiv-dash"> — </span><span class="desc">Поставите слику, боју, или прелив као позадину ваше радне површи или закључајте позадину екрана.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-resolution.html.sr" title="Измените резолуцију или окренутост екрана"><span class="title">Измените резолуцију или окренутост екрана</span><span class="linkdiv-dash"> — </span><span class="desc">Измените резолуцију екрана и његово усмерење (ротацију).</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.sr" title="Повежите још један монитор на ваш рачунар"><span class="title">Повежите још један монитор на ваш рачунар</span><span class="linkdiv-dash"> — </span><span class="desc">Подесите додатни монитор.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.sr" title="Подесите време затамњивања екрана"><span class="title">Подесите време затамњивања екрана</span><span class="linkdiv-dash"> — </span><span class="desc">Измените време затамњивања екрана да уштедите енергију.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.sr" title="Подесите осветљеност екрана"><span class="title">Подесите осветљеност екрана</span><span class="linkdiv-dash"> — </span><span class="desc">Измените осветљеност екрана да побољшате читљивост при јаком светлу.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html" title="Кориснички налози">кориснички налози</a></span>…</span>
+<a href="prefs.html.sr" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html.sr" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html.sr" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html.sr" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html.sr" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html.sr" title="Кориснички налози">кориснички налози</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="disk.html" title="Discos e armazenamento">Discos e armazenamento</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> » <a class="trail" href="disk.html.pt" title="Discos e armazenamento">Discos e armazenamento</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Verificar o rendimento de seu disco duro</span></h1></div>
@@ -51,12 +51,12 @@
 <div class="contents">
 <p class="p">Para verificar a velocidade de seu disco duro:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra <span class="app">Discos</span> na vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span>.</p></li>
+<li class="steps"><p class="p">Abra <span class="app">Discos</span> na vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span>.</p></li>
 <li class="steps"><p class="p">Escolha um disco da lista do painel esquerdo.</p></li>
 <li class="steps"><p class="p">Carregue a roda dentada na barra de ferramentas e escolha <span class="gui">Prova de rendimento…</span>.</p></li>
 <li class="steps"><p class="p">Carregue <span class="gui">Iniciar prova de rendimento…</span> e ajuste os parâmetros de <span class="gui">Taxa de transferência</span> e de <span class="gui">Tempo de acesso</span> como queira.</p></li>
 <li class="steps">
-<p class="p">Carregue <span class="gui">Iniciar prova de rendimento</span> para verificar o rápeço que podem se ler os dados do disco. Precisam-se <span class="link"><a href="user-admin-explain.html" title="Como funcionam os privilégios de administrador?">privilégios de administrador</a></span>. Introduza a sua palavra-passe, ou a palavra-passe de administrador que se lhe peça.</p>
+<p class="p">Carregue <span class="gui">Iniciar prova de rendimento</span> para verificar o rápeço que podem se ler os dados do disco. Precisam-se <span class="link"><a href="user-admin-explain.html.pt" title="Como funcionam os privilégios de administrador?">privilégios de administrador</a></span>. Introduza a sua palavra-passe, ou a palavra-passe de administrador que se lhe peça.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Se está marcada a opção <span class="gui">Realizar também uma prova de rendimento de editável</span> verificar-se-á o rápeço que podem se escrever os dados em o disco. Esta última opção demorassé mais em completar-se.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Discos e armazenamento">Discos e armazenamento</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Verificar quanto espaço de disco há disponível">Espaço em disco</a></span>, <span class="link"><a href="disk-benchmark.html" title="Verificar o rendimento de seu disco duro">rendimento</a></span>, <span class="link"><a href="disk-check.html" title="Verificar os problemas do disco duro">problemas</a></span>, <span class="link"><a href="disk-partitions.html" title="Gerir volumes e partições">volumes e partições</a></span>…</span>
+<a href="disk.html.pt" title="Discos e armazenamento">Discos e armazenamento</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.pt" title="Verificar quanto espaço de disco há disponível">Espaço em disco</a></span>, <span class="link"><a href="disk-benchmark.html.pt" title="Verificar o rendimento de seu disco duro">rendimento</a></span>, <span class="link"><a href="disk-check.html.pt" title="Verificar os problemas do disco duro">problemas</a></span>, <span class="link"><a href="disk-partitions.html.pt" title="Gerir volumes e partições">volumes e partições</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

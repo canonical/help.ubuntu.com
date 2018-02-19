@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Condivisione</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html" title="Condividere il proprio desktop"><span class="title">Condividere il proprio desktop</span><span class="linkdiv-dash"> — </span><span class="desc">Permette ad altre persone di visualizzare e interagire col proprio desktop usando VNC.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html" title="Esplorare file su un server o una condivisione di rete"><span class="title">Esplorare file su un server o una condivisione di rete</span><span class="linkdiv-dash"> — </span><span class="desc">Visualizzare e modificare file su un altro computer tramite FTP, SSH, condivisione file di Windows o WebDAV.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html" title="Send files to a Bluetooth device"><span class="title">Send files to a Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">Condividere file con dispositivi Bluetooth come il proprio telefono.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-share.html" title="Share files by email"><span class="title">Share files by email</span><span class="linkdiv-dash"> — </span><span class="desc">Easily transfer files to your email contacts from the file
+<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.it" title="Condividere il proprio desktop"><span class="title">Condividere il proprio desktop</span><span class="linkdiv-dash"> — </span><span class="desc">Permette ad altre persone di visualizzare e interagire col proprio desktop usando VNC.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.it" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.it" title="Esplorare file su un server o una condivisione di rete"><span class="title">Esplorare file su un server o una condivisione di rete</span><span class="linkdiv-dash"> — </span><span class="desc">Visualizzare e modificare file su un altro computer tramite FTP, SSH, condivisione file di Windows o WebDAV.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.it" title="Send files to a Bluetooth device"><span class="title">Send files to a Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">Condividere file con dispositivi Bluetooth come il proprio telefono.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-share.html.it" title="Share files by email"><span class="title">Share files by email</span><span class="linkdiv-dash"> — </span><span class="desc">Easily transfer files to your email contacts from the file
     manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-media.html" title="Share your music, photos and videos"><span class="title">Share your music, photos and videos</span><span class="linkdiv-dash"> — </span><span class="desc">Share media on your local network using UPnP.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html" title="Share your personal files"><span class="title">Share your personal files</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people access files in your <span class="file">Public</span>
+<div class="linkdiv "><a class="linkdiv" href="sharing-media.html.it" title="Share your music, photos and videos"><span class="title">Share your music, photos and videos</span><span class="linkdiv-dash"> — </span><span class="desc">Share media on your local network using UPnP.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.it" title="Share your personal files"><span class="title">Share your personal files</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people access files in your <span class="file">Public</span>
     folder.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -64,12 +64,12 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Reti WiFi">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Reti via cavo">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Problemi di rete">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Browser web">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email e applicazioni per la posta elettronica">email accounts</a></span>…
+<a href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html.it" title="Reti WiFi">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html.it" title="Reti via cavo">wired</a></span>,
+      <span class="link"><a href="net-problem.html.it" title="Problemi di rete">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html.it" title="Browser web">web browsing</a></span>,
+      <span class="link"><a href="net-email.html.it" title="Email e applicazioni per la posta elettronica">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

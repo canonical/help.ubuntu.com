@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="printing.html" title="Imprimir">Imprimir</a> › <a class="trail" href="printing.html#setup" title="Configurar uma impressora">Configurar</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> » <a class="trail" href="printing.html.pt" title="Imprimir">Imprimir</a> › <a class="trail" href="printing.html.pt#setup" title="Configurar uma impressora">Configurar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Configurar uma impressora local</span></h1></div>
@@ -58,26 +58,26 @@
 </ol></div></div></div>
 <p class="p">Se a sua impressora não se configurou de maneira automática, pode acrescentar na configuração de impressora.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Impressoras</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Impressoras</span>.</p></li>
 <li class="steps"><p class="p">Carregue <span class="gui">Impressoras</span>.</p></li>
 <li class="steps"><p class="p">Carregue o botão <span class="gui">Desbloquear</span> no canto superior direita e introduza a sua palavra-passe.</p></li>
 <li class="steps"><p class="p">Carregue o botão <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">Na janela emergente, selecione a sua impressora e carregue <span class="gui">Acrescentar</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Se a sua impressora não aparece na janela Acrescentar impressora, pode precisar instalar os controladores da impressora.</p>
-<p class="p">Apos instalar a impressora pode querer <span class="link"><a href="printing-setup-default-printer.html" title="Estabelecer a impressora predeterminada">mudar a sua impressora predeterminada</a></span>.</p>
+<p class="p">Apos instalar a impressora pode querer <span class="link"><a href="printing-setup-default-printer.html.pt" title="Estabelecer a impressora predeterminada">mudar a sua impressora predeterminada</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Configurar uma impressora">Configurar uma impressora</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.pt#setup" title="Configurar uma impressora">Configurar uma impressora</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-setup-default-printer.html" title="Estabelecer a impressora predeterminada">Estabelecer a impressora predeterminada</a><span class="desc"> — Selecionar a impressora que usa mais frequentemente.</span>
+<a href="printing-setup-default-printer.html.pt" title="Estabelecer a impressora predeterminada">Estabelecer a impressora predeterminada</a><span class="desc"> — Selecionar a impressora que usa mais frequentemente.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,20 +44,20 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> › <a class="trail" href="hardware.html#problems" title="பொதுவான பிரச்சினைகள்">சிக்கல்கள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> › <a class="trail" href="hardware.html.ta#problems" title="பொதுவான பிரச்சினைகள்">சிக்கல்கள்</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="ஒலி, வீடியோ &amp; படங்கள்">ஒலி, வீடியோ &amp;  படங்கள்</a> › <a class="trail" href="media.html#photos" title="புகைப்படங்கள் மற்றும் டிஜிட்டல் கேமராக்கள்">புகைப்படங்கள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ta" title="ஒலி, வீடியோ &amp; படங்கள்">ஒலி, வீடியோ &amp;  படங்கள்</a> › <a class="trail" href="media.html.ta#photos" title="புகைப்படங்கள் மற்றும் டிஜிட்டல் கேமராக்கள்">புகைப்படங்கள்</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">மீடியா கார்டு ரீடர் சிக்கல்கள்</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">பல கணினிகளில் SD, MMC, SM, MS, CF மற்றும் பிற சேமிப்பு மீடியா கார்டுகளுக்கான ரீடர்கள் இருக்கும். அவை தானாக கண்டுபிடிக்கப்பட்டு <span class="link"><a href="disk-partitions.html" title="தொகுதிகள் மற்றும் பிரிவாக்கங்களை நிர்வகித்தல்">மவுன்ட் செய்யப்பட</a></span> வேண்டும். அவை அப்படி செய்யப்படாவிட்டால் சிக்கல் தீர்க்க சில செயல்முறைகள் இங்குள்ளன:</p>
+<p class="p">பல கணினிகளில் SD, MMC, SM, MS, CF மற்றும் பிற சேமிப்பு மீடியா கார்டுகளுக்கான ரீடர்கள் இருக்கும். அவை தானாக கண்டுபிடிக்கப்பட்டு <span class="link"><a href="disk-partitions.html.ta" title="தொகுதிகள் மற்றும் பிரிவாக்கங்களை நிர்வகித்தல்">மவுன்ட் செய்யப்பட</a></span> வேண்டும். அவை அப்படி செய்யப்படாவிட்டால் சிக்கல் தீர்க்க சில செயல்முறைகள் இங்குள்ளன:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">கார்டு சரியாக வைக்கப்பட்டதா என உறுதிப்படுத்திக் கொள்ளுங்கள். பல கார்டுகளை சரியாக செருகினாலும் அவை தலைகீழாக இருப்பது போல் தோன்றும். கார்டு அதற்கான துளையில் உறுதியாக பொருந்தியுள்ளதா எனவும் உறுதி செய்துகொள்ளவும்; சில கார்டுகள், குறிப்பாக CF கார்டுகளை சரியாக செருக சற்று பலத்தை செலுத்த வேண்டி இருக்கும். (மிக பலமாக அழுத்திவிடாதீர்கள்! அழுத்த முடியாதபடி திடமாக ஏதேனும் தடுத்தால், விட்டுவிடவும்.)</p></li>
 <li class="steps"><p class="p">Open <span class="app">Files</span> from the
-  <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview. Does the inserted
+  <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview. Does the inserted
   card appear in the <span class="gui">Devices</span> list in the left sidebar? Sometimes the
   card appears in this list but is not mounted; click it once to mount. (If the
   sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
@@ -82,8 +82,8 @@ Linux.</p>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#photos" title="புகைப்படங்கள் மற்றும் டிஜிட்டல் கேமராக்கள்">புகைப்படங்கள்</a></li>
-<li class="links "><a href="hardware.html#problems" title="பொதுவான பிரச்சினைகள்">வன்பொருள் பிரச்சினைகள்</a></li>
+<li class="links "><a href="media.html.ta#photos" title="புகைப்படங்கள் மற்றும் டிஜிட்டல் கேமராக்கள்">புகைப்படங்கள்</a></li>
+<li class="links "><a href="hardware.html.ta#problems" title="பொதுவான பிரச்சினைகள்">வன்பொருள் பிரச்சினைகள்</a></li>
 </ul></div>
 </div></div></div>
 </div>

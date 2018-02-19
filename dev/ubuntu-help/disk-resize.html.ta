@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="disk.html" title="வட்டுகள் &amp; சேமிப்பிடம்">வட்டுகள் &amp; சேமிப்பிடம்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="disk.html.ta" title="வட்டுகள் &amp; சேமிப்பிடம்">வட்டுகள் &amp; சேமிப்பிடம்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Adjust the size of a filesystem</span></h1></div>
@@ -77,7 +77,7 @@
 <p class="p">Depending on how much data has to be moved from the shrunk part, the
        filesystem resize may take longer time.</p>
 <div class="note note-warning" title="எச்சரிக்கை"><div class="inner"><div class="region"><div class="contents"><p class="p">The filesystem resize automatically involves
-         <span class="link"><a href="disk-repair.html" title="Repair a damaged filesystem">repairing</a></span> of the filesystem. Therefore
+         <span class="link"><a href="disk-repair.html.ta" title="Repair a damaged filesystem">repairing</a></span> of the filesystem. Therefore
          it is advised to back up important data before starting. The action
          must not be stopped or it will result in a damaged filesystem.</p></div></div></div></div>
 </li>
@@ -97,7 +97,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="வட்டுகள் &amp; சேமிப்பிடம்">வட்டுகள் &amp; சேமிப்பிடம்</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="இன்னும் எவ்வளவு வட்டு இடம் உள்ளது எனப் பாருங்கள்">வட்டு இடம்</a></span>, <span class="link"><a href="disk-benchmark.html" title="உங்கள் வன்வட்டின் செயல்திறனை சோதித்தல்">செயல்திறன்</a></span>, <span class="link"><a href="disk-check.html" title="உங்கள் வன்வட்டில் ஏதேனும் பிரச்சினைகள் உள்ளதா என சோதித்தல்">சிக்கல்கள்</a></span>, <span class="link"><a href="disk-partitions.html" title="தொகுதிகள் மற்றும் பிரிவாக்கங்களை நிர்வகித்தல்">தொகுதிகள் மற்றும் பிரிவாக்கங்கள்</a></span>…</span>
+<a href="disk.html.ta" title="வட்டுகள் &amp; சேமிப்பிடம்">வட்டுகள் &amp; சேமிப்பிடம்</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ta" title="இன்னும் எவ்வளவு வட்டு இடம் உள்ளது எனப் பாருங்கள்">வட்டு இடம்</a></span>, <span class="link"><a href="disk-benchmark.html.ta" title="உங்கள் வன்வட்டின் செயல்திறனை சோதித்தல்">செயல்திறன்</a></span>, <span class="link"><a href="disk-check.html.ta" title="உங்கள் வன்வட்டில் ஏதேனும் பிரச்சினைகள் உள்ளதா என சோதித்தல்">சிக்கல்கள்</a></span>, <span class="link"><a href="disk-partitions.html.ta" title="தொகுதிகள் மற்றும் பிரிவாக்கங்களை நிர்வகித்தல்">தொகுதிகள் மற்றும் பிரிவாக்கங்கள்</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

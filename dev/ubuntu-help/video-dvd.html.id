@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="media.html" title="Suara, video, &amp; gambar">Suara, video, &amp; gambar</a> › <a class="trail" href="media.html#videos" title="Video dan kamera video">Video</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="media.html.id" title="Suara, video, &amp; gambar">Suara, video, &amp; gambar</a> › <a class="trail" href="media.html.id#videos" title="Video dan kamera video">Video</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Why won’t DVDs play?</span></h1></div>
@@ -91,12 +91,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Video dan kamera video">Video</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.id#videos" title="Video dan kamera video">Video</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="video-dvd-restricted.html" title="How do I enable restricted codecs to play DVDs?">How do I enable restricted codecs to play DVDs?</a><span class="desc"> — Most commercial DVDs are encrypted and will not play without decryption software.</span>
+<a href="video-dvd-restricted.html.id" title="How do I enable restricted codecs to play DVDs?">How do I enable restricted codecs to play DVDs?</a><span class="desc"> — Most commercial DVDs are encrypted and will not play without decryption software.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-wireless.html" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-wireless.html.hu" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-wired.html" title="Vezetékes kapcsolatok">Vezetékes kapcsolatok</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-wired.html.hu" title="Vezetékes kapcsolatok">Vezetékes kapcsolatok</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,14 +57,14 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Hálózati beállítások megadása saját kezűleg:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Hálózat</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Hálózat</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Hálózat</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps">
 <p class="p">A bal oldali ablaktáblán válassza ki azt a hálózati kapcsolatot, amelyet kézzel szeretne beállítani. Ha kábellel csatlakozik a hálózatra, akkor kattintson a <span class="gui">Vezetékes</span> lehetőségre, majd a <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="beállítások"></span></span> gombra a panel jobb alsó sarkában. <span class="gui">Wi-Fi</span> kapcsolat esetén a <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="beállítások"></span></span> gomb az aktív hálózat mellett lesz.</p>
 <p class="p">Győződjön meg róla, hogy a vezeték nélküli kártya be van kapcsolva, vagy a hálózati kábel be van dugva.</p>
 </li>
 <li class="steps"><p class="p">Kattintson a bal oldali ablaktáblán az <span class="gui">IPv4</span> vagy az <span class="gui">IPv6</span> elemre, és módosítsa a <span class="gui">Címeket</span> a <span class="em">Kézi</span> értékűre.</p></li>
-<li class="steps"><p class="p">Írja be az <span class="gui"><a href="net-what-is-ip-address.html" title="Mi az az IP-cím?">IP-címet</a></span> és az <span class="gui">Átjárót</span>, valamint a megfelelő <span class="gui">Hálózati maszkot</span>.</p></li>
+<li class="steps"><p class="p">Írja be az <span class="gui"><a href="net-what-is-ip-address.html.hu" title="Mi az az IP-cím?">IP-címet</a></span> és az <span class="gui">Átjárót</span>, valamint a megfelelő <span class="gui">Hálózati maszkot</span>.</p></li>
 <li class="steps"><p class="p">A <span class="gui">DNS</span> szakaszban kapcsolja <span class="gui">KI</span> az <span class="gui">Automatikus</span> beállítást. Írja be a használni kívánt DNS-kiszolgáló IP-címét. A <span class="gui">+</span> gomb használatával további DNS-kiszolgálók címeit adhatja meg.</p></li>
 <li class="steps"><p class="p">Az <span class="gui">Útvonalak</span> szakaszban kapcsolja <span class="gui">KI</span> az <span class="gui">Automatikus</span> beállítást. Írja be a használni kívánt útvonal <span class="gui">Címét</span>, <span class="gui">Hálózati maszkját</span>, <span class="gui">Átjáróját</span> és <span class="gui">Metrikáját</span>. A <span class="gui">+</span> gomb használatával további útvonalakat adhat meg.</p></li>
 <li class="steps"><p class="p">Nyomja meg az <span class="gui">Alkalmaz</span> gombot. Ha nem csatlakozik a hálózatra, a felső sávban kattintson a rendszerállapot területre, és csatlakozzon. Tesztelje a hálózati beállításokat például egy weboldal felkeresésével, vagy a hálózaton megosztott fájlok megjelenítésével.</p></li>
@@ -77,10 +77,10 @@
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Csatlakozás vezeték nélküli hálózatra">Kapcsolódás Wi-Fi-hez</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Kapcsolódás rejtett vezeték nélküli hálózathoz">Rejtett hálózatok</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Miért bontja folyamatosan a kapcsolatot a vezeték nélküli hálózatom?">Kapcsolatbontás</a></span>…</span>
+<a href="net-wireless.html.hu" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.hu" title="Csatlakozás vezeték nélküli hálózatra">Kapcsolódás Wi-Fi-hez</a></span>, <span class="link"><a href="net-wireless-hidden.html.hu" title="Kapcsolódás rejtett vezeték nélküli hálózathoz">Rejtett hálózatok</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.hu" title="Miért bontja folyamatosan a kapcsolatot a vezeték nélküli hálózatom?">Kapcsolatbontás</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wired.html" title="Vezetékes kapcsolatok">Vezetékes kapcsolatok</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Csatlakozás vezetékes (Ethernet) hálózathoz">Vezetékes internetkapcsolatok</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Statikus IP-címet használó kapcsolat létrehozása">rögzített IP-címek</a></span>…</span>
+<a href="net-wired.html.hu" title="Vezetékes kapcsolatok">Vezetékes kapcsolatok</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.hu" title="Csatlakozás vezetékes (Ethernet) hálózathoz">Vezetékes internetkapcsolatok</a></span>, <span class="link"><a href="net-fixed-ip-address.html.hu" title="Statikus IP-címet használó kapcsolat létrehozása">rögzített IP-címek</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

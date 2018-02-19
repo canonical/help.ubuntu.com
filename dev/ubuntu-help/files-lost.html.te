@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="దస్త్రాలు, సంచయాలు &amp; వెతుకులాట">Files</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.te" title="దస్త్రాలు, సంచయాలు &amp; వెతుకులాట">Files</a> › <a class="trail" href="files.html.te#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">దొరకని దస్త్రమును కనుగొను</span></h1></div>
@@ -53,19 +53,19 @@
 these tips.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">If you do not remember where you saved the file, but you have some
-  idea of how you named it, you can <span class="link"><a href="files-search.html" title="దస్త్రాల కోసం వెతకండి">search for the
+  idea of how you named it, you can <span class="link"><a href="files-search.html.te" title="దస్త్రాల కోసం వెతకండి">search for the
   file by name</a></span>.</p></li>
 <li class="list"><p class="p">If you just downloaded the file, your web browser might
   have automatically saved it to a common folder. Check the
   <span class="file">Desktop</span> and <span class="file">Downloads</span> folders in your home
   folder.</p></li>
-<li class="list"><p class="p">మీరు ప్రమాదవశాత్తు ఫైలును తొలగించివుండవచ్చు. మీరు ఫైలును తొలగించినప్పుడు, అది చెత్తబుట్టకు కదల్చబడును, మీరు మానవీయంగా చెత్తబుట్ట ఖాళీ చేయునంతవరకు అది అక్కడే వుండును. తొలగించిన ఫైలును తిరిగి ఎలా పొందాలో నేర్చుకొనుటకు <span class="link"><a href="files-recover.html" title="చెత్తబుట్ట నుండి ఫైలును తిరిగిపొందుము">చెత్తబుట్ట నుండి ఫైలును తిరిగిపొందుము</a></span> చూడండి.</p></li>
+<li class="list"><p class="p">మీరు ప్రమాదవశాత్తు ఫైలును తొలగించివుండవచ్చు. మీరు ఫైలును తొలగించినప్పుడు, అది చెత్తబుట్టకు కదల్చబడును, మీరు మానవీయంగా చెత్తబుట్ట ఖాళీ చేయునంతవరకు అది అక్కడే వుండును. తొలగించిన ఫైలును తిరిగి ఎలా పొందాలో నేర్చుకొనుటకు <span class="link"><a href="files-recover.html.te" title="చెత్తబుట్ట నుండి ఫైలును తిరిగిపొందుము">చెత్తబుట్ట నుండి ఫైలును తిరిగిపొందుము</a></span> చూడండి.</p></li>
 <li class="list"><p class="p">You might have renamed the file in a way that made the file hidden.
   Files that start with a <span class="file">.</span> or end with a <span class="file">~</span> are
   hidden in the file manager. Click the
   
   view options button in the <span class="app">Files</span> toolbar and enable <span class="gui">Show
-  Hidden Files</span> to display them. See <span class="link"><a href="files-hidden.html" title="ఒక ఫైలును మరుగునపెట్టు">ఒక ఫైలును మరుగునపెట్టు</a></span> to learn
+  Hidden Files</span> to display them. See <span class="link"><a href="files-hidden.html.te" title="ఒక ఫైలును మరుగునపెట్టు">ఒక ఫైలును మరుగునపెట్టు</a></span> to learn
   more.</p></li>
 </ul></div></div></div>
 </div>
@@ -74,12 +74,12 @@ these tips.</p>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.te#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ఇవి కూడా చూడండి</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-recover.html" title="చెత్తబుట్ట నుండి ఫైలును తిరిగిపొందుము">చెత్తబుట్ట నుండి ఫైలును తిరిగిపొందుము</a><span class="desc"> — తొలగించిన ఫైళ్ళు సాధారణంగా చెత్తబుట్టకు పంపబడును, అయితే మరలా తిరిగి పొందవచ్చు.</span>
+<a href="files-recover.html.te" title="చెత్తబుట్ట నుండి ఫైలును తిరిగిపొందుము">చెత్తబుట్ట నుండి ఫైలును తిరిగిపొందుము</a><span class="desc"> — తొలగించిన ఫైళ్ళు సాధారణంగా చెత్తబుట్టకు పంపబడును, అయితే మరలా తిరిగి పొందవచ్చు.</span>
 </li></ul></div>
 </div></div>
 </div>

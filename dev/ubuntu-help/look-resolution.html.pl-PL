@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-display.html" title="Ekran">Ekran</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-display.html.pl-PL" title="Ekran">Ekran</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Change the resolution or rotation of the screen</span></h1></div>
@@ -54,13 +54,12 @@
   appear (for example, if you have a rotating display) by changing the
   <span class="em">rotation</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Displays</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Displays</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Ekrany</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Ekrany</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">If you have multiple displays and they are not mirrored, you can have
       different settings on each display. Select a display in the preview
       area.</p></li>
-<li class="steps"><p class="p">Select the resolution and rotation.</p></li>
+<li class="steps"><p class="p">Wybierz rozdzielczość i obrót.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Apply</span>. The new settings will be applied for 20
       seconds before reverting back. That way, if you cannot see anything with
       the new settings, your old settings will be automatically restored. If
@@ -79,7 +78,7 @@
   bottom or both sides of the screen.</p>
 <p class="p">You can choose the resolution you prefer from the <span class="gui">Resolution</span>
   drop-down list. If you choose one that is not right for your screen it may
-  <span class="link"><a href="look-display-fuzzy.html" title="Why do things look fuzzy/pixelated on my screen?">look fuzzy or pixelated</a></span>.</p>
+  <span class="link"><a href="look-display-fuzzy.html.pl-PL" title="Why do things look fuzzy/pixelated on my screen?">look fuzzy or pixelated</a></span>.</p>
 </div></div>
 </div></div>
 <div id="rotation" class="sect"><div class="inner">
@@ -94,17 +93,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Ekran">Ekran</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
-      brightness…
-    </span>
+<a href="prefs-display.html.pl-PL" title="Ekran">Ekran</a><span class="desc"> — <span class="link"><a href="look-background.html.pl-PL" title="Zmiana tła pulpitu i ekranu blokady">Tło</a></span>, <span class="link"><a href="look-resolution.html.pl-PL" title="Change the resolution or rotation of the screen">rozmiar i obrót</a></span>, Jasność…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-display-fuzzy.html" title="Why do things look fuzzy/pixelated on my screen?">Why do things look fuzzy/pixelated on my screen?</a><span class="desc"> — The screen resolution may be set incorrectly.</span>
+<a href="look-display-fuzzy.html.pl-PL" title="Why do things look fuzzy/pixelated on my screen?">Why do things look fuzzy/pixelated on my screen?</a><span class="desc"> — The screen resolution may be set incorrectly.</span>
 </li></ul></div>
 </div></div>
 </div>

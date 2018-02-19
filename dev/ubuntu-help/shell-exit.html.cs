@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Odhlášení nebo přepnutí uživatele, vypnutí</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Odhlášení nebo přepnutí uživatelů</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Abyste umožnili ostatním uživatelům použít počítač, můžete se buď odhlásit nebo nebo zůstat přihlášeni a jen přepnout uživatele. Po přepnutí uživatelů zůstanou vaše aplikace běžet a když se přihlásíte zpátky, bude vše tam, kde jste to opustili.</p>
-<p class="p">Když se chcete <span class="gui">Odhlásit</span> nebo <span class="gui">Přepnout uživatele</span>, klikněte na <span class="link"><a href="shell-introduction.html#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> na pravé straně horní lišty, klikněte na své jméno a pak zvolte příslušnou položku.</p>
+<p class="p">Když se chcete <span class="gui">Odhlásit</span> nebo <span class="gui">Přepnout uživatele</span>, klikněte na <span class="link"><a href="shell-introduction.html.cs#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> na pravé straně horní lišty, klikněte na své jméno a pak zvolte příslušnou položku.</p>
 <div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Položky <span class="gui">Odhlásit se</span> a <span class="gui">Přepnout uživatele</span> se v nabídce objeví jen v případě, že máte v systému více než jeden uživatelský účet.</p></div></div></div></div>
 </div></div>
 </div></div>
@@ -61,7 +61,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Zamknutí obrazovky</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p">Když odcházíte od svého počítače jen na krátkou chvíli, měli byste zamknout obrazovku, abyste zabránili ostatním lidem v přístupu ke svým souborům a běžícím aplikacím. Až se vrátíte, vytáhněte oponu na <span class="link"><a href="shell-lockscreen.html" title="Zamykací obrazovka">zamykací obrazovce</a></span> a zadejte své heslo, abyste se přihlásili zpět. Pokud obrazovku nezamknete, stane se tak automaticky po uplynutí určené doby.</p>
+<p class="p">Když odcházíte od svého počítače jen na krátkou chvíli, měli byste zamknout obrazovku, abyste zabránili ostatním lidem v přístupu ke svým souborům a běžícím aplikacím. Až se vrátíte, vytáhněte oponu na <span class="link"><a href="shell-lockscreen.html.cs" title="Zamykací obrazovka">zamykací obrazovce</a></span> a zadejte své heslo, abyste se přihlásili zpět. Pokud obrazovku nezamknete, stane se tak automaticky po uplynutí určené doby.</p>
 <p class="p">Abyste zamkli obrazovku, klikněte na systémovou nabídku na pravé straně horní lišty a pak zmáčkněte zamykací tlačítko v dolní části nabídky.</p>
 <p class="p">Když je obrazovka zamknutá, mohou se ostatní uživatelé přihlásit ke svým vlastním účtům kliknutím na <span class="gui">Přihlásit se jako jiný uživatel</span> na obrazovce s heslem. Až skončí, můžete se přepnout zpět na svoji pracovní plochu.</p>
 </div>
@@ -71,10 +71,10 @@
 <div class="title"><h3><span class="title">Viz také</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Automatické zamykání obrazovky">Automatické zamykání obrazovky</a><span class="desc"> — Jak zabránit ostatním lidem v používání vašeho systému, když nejste u počítače.</span>
+<a href="privacy-screen-lock.html.cs" title="Automatické zamykání obrazovky">Automatické zamykání obrazovky</a><span class="desc"> — Jak zabránit ostatním lidem v používání vašeho systému, když nejste u počítače.</span>
 </li>
 <li class="links ">
-<a href="session-screenlocks.html" title="Obrazovka se sama zamkne po příliš krátké době">Obrazovka se sama zamkne po příliš krátké době</a><span class="desc"> — Jak v nastaveních <span class="gui">Soukromí</span> změnit, jak dlouho se má čekat, než se zamkne obrazovka.</span>
+<a href="session-screenlocks.html.cs" title="Obrazovka se sama zamkne po příliš krátké době">Obrazovka se sama zamkne po příliš krátké době</a><span class="desc"> — Jak v nastaveních <span class="gui">Soukromí</span> změnit, jak dlouho se má čekat, než se zamkne obrazovka.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -94,13 +94,13 @@
 <div class="title"><h3><span class="title">Viz také</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspend.html" title="Co se stane, když svůj počítač uspím?">Co se stane, když svůj počítač uspím?</a><span class="desc"> — Uspáním se pozastaví běh vašeho počítač, aby se snížila spotřeba.</span>
+<a href="power-suspend.html.cs" title="Co se stane, když svůj počítač uspím?">Co se stane, když svůj počítač uspím?</a><span class="desc"> — Uspáním se pozastaví běh vašeho počítač, aby se snížila spotřeba.</span>
 </li>
 <li class="links ">
-<a href="power-autosuspend.html" title="Nastavení automatického uspávání">Nastavení automatického uspávání</a><span class="desc"> — Jak počítač nastavit, aby se automaticky uspával do paměti.</span>
+<a href="power-autosuspend.html.cs" title="Nastavení automatického uspávání">Nastavení automatického uspávání</a><span class="desc"> — Jak počítač nastavit, aby se automaticky uspával do paměti.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Snižte spotřebu a prodlužte výdrž baterie">Snižte spotřebu a prodlužte výdrž baterie</a><span class="desc"> — Tipy na snížení spotřeby vašeho počítače.</span>
+<a href="power-batterylife.html.cs" title="Snižte spotřebu a prodlužte výdrž baterie">Snižte spotřebu a prodlužte výdrž baterie</a><span class="desc"> — Tipy na snížení spotřeby vašeho počítače.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -113,14 +113,14 @@
 <div class="contents">
 <p class="p">Když chcete svůj počítač úplně vypnout nebo provést úplný restart, klikněte na systémovou nabídku na pravé straně horní lišty a zmáčkněte vypínací tlačítko v dolní části nabídky. Otevře se dialogové okno, které vám nabídne, jestli chcete <span class="gui">Restartovat</span> nebo <span class="gui">Vypnout</span>.</p>
 <p class="p">V případě, že jsou zrovna přihlášeni nějací další uživatelé, nebude vám umožněno počítač vypnout nebo restartovat, protože byste tím ukončili jejich sezení. Pokud jste ale správci, budete dotázáni, jestli se má i přesto počítač vypnout/restartovat.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Vypnout počítač můžete chtít, když jej potřebujete přenést a není na baterie, nebo když jsou bateri málo nabité a nemáte nabíječku. Vypnutý počítač má také <span class="link"><a href="power-batterylife.html" title="Snižte spotřebu a prodlužte výdrž baterie">nižší spotřebu</a></span>, než když je uspaný.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Vypnout počítač můžete chtít, když jej potřebujete přenést a není na baterie, nebo když jsou bateri málo nabité a nemáte nabíječku. Vypnutý počítač má také <span class="link"><a href="power-batterylife.html.cs" title="Snižte spotřebu a prodlužte výdrž baterie">nižší spotřebu</a></span>, než když je uspaný.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Viz také</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html" title="Snižte spotřebu a prodlužte výdrž baterie">Snižte spotřebu a prodlužte výdrž baterie</a><span class="desc"> — Tipy na snížení spotřeby vašeho počítače.</span>
+<a href="power-batterylife.html.cs" title="Snižte spotřebu a prodlužte výdrž baterie">Snižte spotřebu a prodlužte výdrž baterie</a><span class="desc"> — Tipy na snížení spotřeby vašeho počítače.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -133,18 +133,18 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power.html" title="Napájení a baterie">Napájení a baterie</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Kontrola stavu baterie">Stav baterie</a></span>, <span class="link"><a href="power-suspend.html" title="Co se stane, když svůj počítač uspím?">uspání</a></span>, <span class="link"><a href="power-whydim.html" title="Proč moje obrazovka po krátké době potemní?">stmívání obrazovky</a></span>…</span>
+<a href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a><span class="desc"> — <span class="link"><a href="power-status.html.cs" title="Kontrola stavu baterie">Stav baterie</a></span>, <span class="link"><a href="power-suspend.html.cs" title="Co se stane, když svůj počítač uspím?">uspání</a></span>, <span class="link"><a href="power-whydim.html.cs" title="Proč moje obrazovka po krátké době potemní?">stmívání obrazovky</a></span>…</span>
 </li>
-<li class="links "><a href="index.html" title="Průvodce pracovním prostředím Ubuntu">Průvodce pracovním prostředím Ubuntu</a></li>
+<li class="links "><a href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu">Průvodce pracovním prostředím Ubuntu</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Vaše uživatelské prostředí">Vaše uživatelské prostředí</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Kalendářové události">Kalendář</a></span>, <span class="link"><a href="shell-notifications.html" title="Upozornění a pořadač zpráv">upozornění</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Užitečné klávesové zkratky">klávesové zkratky</a></span>, <span class="link"><a href="shell-windows.html" title="Okna a pracovní plochy">okna a plochy</a></span>…</span>
+<a href="shell-overview.html.cs" title="Vaše uživatelské prostředí">Vaše uživatelské prostředí</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.cs" title="Kalendářové události">Kalendář</a></span>, <span class="link"><a href="shell-notifications.html.cs" title="Upozornění a pořadač zpráv">upozornění</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.cs" title="Užitečné klávesové zkratky">klávesové zkratky</a></span>, <span class="link"><a href="shell-windows.html.cs" title="Okna a pracovní plochy">okna a plochy</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-autologin.html" title="Automatické přihlašování">Automatické přihlašování</a><span class="desc"> — Jak nastavit automatické přihlášení po zapnutí vašeho počítače.</span>
+<a href="user-autologin.html.cs" title="Automatické přihlašování">Automatické přihlašování</a><span class="desc"> — Jak nastavit automatické přihlášení po zapnutí vašeho počítače.</span>
 </li></ul></div>
 </div></div>
 </div>

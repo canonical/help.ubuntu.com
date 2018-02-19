@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Starta program</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Flytta din musmarkör till <span class="gui">Aktiviteter</span> i övre vänstra hörnet på skärmen för att visa översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>. Här kan du hitta alla dina program. Du kan också öppna översiktsvyn genom att trycka på tangenten <span class="key"><a href="keyboard-key-super.html" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>.</p>
+<p class="p">Flytta din musmarkör till <span class="gui">Aktiviteter</span> i övre vänstra hörnet på skärmen för att visa översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>. Här kan du hitta alla dina program. Du kan också öppna översiktsvyn genom att trycka på tangenten <span class="key"><a href="keyboard-key-super.html.sv" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>.</p>
 <p class="p">Det finns flera sätt att öppna ett program när du väl är i översiktsvyn <span class="gui">Aktiviteter</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Börja skriva namnet på ett program — sökningen börjar omedelbart. (Om detta inte händer klicka på sökraden i toppen på skärmen och börja skriv.) Om du inte känner till det exakta namnet på ett program, prova att skriva in en relaterad term. Klicka på programmets ikon för att starta det.</p></li>
 <li class="list">
 <p class="p">Vissa program har ikoner i <span class="em">snabbstartspanelen</span>, den vertikala raden av ikoner på vänster sida av översiktsvyn <span class="gui">Aktiviteter</span>. Klicka på en av dessa för att starta motsvarande program.</p>
-<p class="p">Om du har program som du använder ofta kan du själv <span class="link"><a href="shell-apps-favorites.html" title="Nåla fast dina favoritprogram i snabbstartspanelen">lägga till dem i snabbstartspanelen</a></span>.</p>
+<p class="p">Om du har program som du använder ofta kan du själv <span class="link"><a href="shell-apps-favorites.html.sv" title="Nåla fast dina favoritprogram i snabbstartspanelen">lägga till dem i snabbstartspanelen</a></span>.</p>
 </li>
 <li class="list"><p class="p">Klicka på rutnätsknappen längst ner i snabbstartspanelen. Du kommer att få se ofta använda program om vyn <span class="gui">Ofta använda</span> är aktiverad. Om du vill köra ett nytt program, tryck på knappen <span class="gui">Alla</span> längst ner för att visa alla programmen. Tryck på programmet för att starta det.</p></li>
 <li class="list">
-<p class="p">Du kan starta ett program i en separat <span class="link"><a href="shell-workspaces.html" title="Vad är en arbetsyta, och hur hjälper den mig?">arbetsyta</a></span> genom att dra dess ikon från snabbstartspanelen och släppa den på en utav arbetsytorna på höger sida av skärmen. Programmet kommer att öppnas i den valda arbetsytan.</p>
+<p class="p">Du kan starta ett program i en separat <span class="link"><a href="shell-workspaces.html.sv" title="Vad är en arbetsyta, och hur hjälper den mig?">arbetsyta</a></span> genom att dra dess ikon från snabbstartspanelen och släppa den på en utav arbetsytorna på höger sida av skärmen. Programmet kommer att öppnas i den valda arbetsytan.</p>
 <p class="p">Du kan starta ett program i en <span class="em">ny</span> arbetsyta genom dra dess ikon till den tomma arbetsytan längst ner i arbetsyteväxlaren, eller till det lilla mellanrummet mellan två arbetsytor.</p>
 </li>
 </ul></div></div></div>
@@ -78,18 +78,18 @@
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html" title="Ditt skrivbord">Ditt skrivbord</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Kalendermöten">Kalender</a></span>, <span class="link"><a href="shell-notifications.html" title="Aviseringar och meddelandefältet">aviseringar</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Användbara tangentbordsgenvägar">tangentbordsgenvägar</a></span>, <span class="link"><a href="shell-windows.html" title="Fönster och arbetsytor">fönster och arbetsytor</a></span>…</span>
+<a href="shell-overview.html.sv" title="Ditt skrivbord">Ditt skrivbord</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.sv" title="Kalendermöten">Kalender</a></span>, <span class="link"><a href="shell-notifications.html.sv" title="Aviseringar och meddelandefältet">aviseringar</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.sv" title="Användbara tangentbordsgenvägar">tangentbordsgenvägar</a></span>, <span class="link"><a href="shell-windows.html.sv" title="Fönster och arbetsytor">fönster och arbetsytor</a></span>…</span>
 </li>
-<li class="links "><a href="index.html" title="Handbok för Ubuntu-skrivbordet">Handbok för Ubuntu-skrivbordet</a></li>
+<li class="links "><a href="index.html.sv" title="Handbok för Ubuntu-skrivbordet">Handbok för Ubuntu-skrivbordet</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-use-system-search.html" title="Använd systemsökning">En handledning i att använda systemsökning</a></li>
-<li class="links "><a href="gs-launch-applications.html" title="Starta program">En handledning i att starta program</a></li>
+<li class="links "><a href="gs-use-system-search.html.sv" title="Använd systemsökning">En handledning i att använda systemsökning</a></li>
+<li class="links "><a href="gs-launch-applications.html.sv" title="Starta program">En handledning i att starta program</a></li>
 <li class="links ">
-<a href="shell-apps-favorites.html" title="Nåla fast dina favoritprogram i snabbstartspanelen">Nåla fast dina favoritprogram i snabbstartspanelen</a><span class="desc"> — Lägg till (eller ta bort) ofta använda programikoner från snabbstartspanelen.</span>
+<a href="shell-apps-favorites.html.sv" title="Nåla fast dina favoritprogram i snabbstartspanelen">Nåla fast dina favoritprogram i snabbstartspanelen</a><span class="desc"> — Lägg till (eller ta bort) ofta använda programikoner från snabbstartspanelen.</span>
 </li>
 </ul></div>
 </div></div>

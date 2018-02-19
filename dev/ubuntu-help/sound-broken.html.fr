@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="media.html#sound" title="Notions de base sur le son">Son</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="media.html.fr#sound" title="Notions de base sur le son">Son</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> › <a class="trail" href="hardware.html#problems" title="Problèmes connus">Problèmes</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> › <a class="trail" href="hardware.html.fr#problems" title="Problèmes connus">Problèmes</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,9 +55,9 @@
 <div class="contents">
 <p class="p">Les causes de défaillance du son sur votre ordinateur sont nombreuses. Les plus fréquentes figurent dans la liste ci-dessous :</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="sound-nosound.html" title="I cannot hear any sounds on the computer"><span class="title">I cannot hear any sounds on the computer</span><span class="linkdiv-dash"> — </span><span class="desc">Check that the sound is not muted, that cables are plugged in properly,
+<div class="linkdiv "><a class="linkdiv" href="sound-nosound.html.fr" title="I cannot hear any sounds on the computer"><span class="title">I cannot hear any sounds on the computer</span><span class="linkdiv-dash"> — </span><span class="desc">Check that the sound is not muted, that cables are plugged in properly,
     and that the sound card is detected.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-crackle.html" title="J'entends des craquements ou des ronflements dans le son"><span class="title">J'entends des craquements ou des ronflements dans le son</span><span class="linkdiv-dash"> — </span><span class="desc">Vérifiez les câbles audio et les pilotes de la carte son.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-crackle.html.fr" title="J'entends des craquements ou des ronflements dans le son"><span class="title">J'entends des craquements ou des ronflements dans le son</span><span class="linkdiv-dash"> — </span><span class="desc">Vérifiez les câbles audio et les pilotes de la carte son.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -65,9 +65,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="hardware.html#problems" title="Problèmes connus">Problèmes matériels</a></li>
+<li class="links "><a href="hardware.html.fr#problems" title="Problèmes connus">Problèmes matériels</a></li>
 <li class="links ">
-<a href="media.html#sound" title="Notions de base sur le son">Notions de base sur le son</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Modification du volume sonore">Volume sonore</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Utilisation d'autres haut-parleurs ou écouteurs.">haut-parleurs et casques</a></span>, <span class="link"><a href="sound-usemic.html" title="Utilisation d'un autre microphone">microphones</a></span>…</span>
+<a href="media.html.fr#sound" title="Notions de base sur le son">Notions de base sur le son</a><span class="desc"> — <span class="link"><a href="sound-volume.html.fr" title="Modification du volume sonore">Volume sonore</a></span>, <span class="link"><a href="sound-usespeakers.html.fr" title="Utilisation d'autres haut-parleurs ou écouteurs.">haut-parleurs et casques</a></span>, <span class="link"><a href="sound-usemic.html.fr" title="Utilisation d'un autre microphone">microphones</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

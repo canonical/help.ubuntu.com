@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Acesso universal">Acesso universal</a> › <a class="trail" href="a11y.html#vision" title="Deficiências visuais">Deficiências visuais</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.pt" title="Acesso universal">Acesso universal</a> › <a class="trail" href="a11y.html.pt#vision" title="Deficiências visuais">Deficiências visuais</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mudar o tamanho do texto no ecrã</span></h1></div>
@@ -51,11 +51,11 @@
 <div class="contents">
 <p class="p">Se tem dificuldades para ler o texto em seu ecrã, pode mudar o tamanho da tipografía.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Acesso universal</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Acesso universal</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Acesso universal</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Ative a opção <span class="gui">Texto grande</span> (<span class="gui">Acendido</span>) na seção <span class="gui">Visão</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Alternativamente, pode ajustar rapidamente o tamanho do texto clicando em o <span class="link"><a href="a11y-icon.html" title="Encontrar o menu de acesso universal">ícone de acessibilidade</a></span> na barra superior e selecionando <span class="gui">Texto grande</span>.</p>
+<p class="p">Alternativamente, pode ajustar rapidamente o tamanho do texto clicando em o <span class="link"><a href="a11y-icon.html.pt" title="Encontrar o menu de acesso universal">ícone de acessibilidade</a></span> na barra superior e selecionando <span class="gui">Texto grande</span>.</p>
 <div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Em muitos aplicações, pode aumentar o tamanho do texto em qualquer momento clicando <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>+</kbd></span></span>. Para reduzir o tamanho, carregue <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>-</kbd></span></span>.</p></div></div></div></div>
 <p class="p"><span class="gui">Large Text</span> will scale the text by 1.2 times. You can use
   <span class="app">Tweaks</span> to make text size bigger or smaller.</p>
@@ -64,7 +64,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Deficiências visuais">Deficiências visuais</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.pt#vision" title="Deficiências visuais">Deficiências visuais</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

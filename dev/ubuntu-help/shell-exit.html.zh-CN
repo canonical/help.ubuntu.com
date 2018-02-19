@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Log out, power off or switch users</span></h1></div>
@@ -55,7 +55,7 @@
 <div class="region"><div class="contents">
 <p class="p">要使其他用户使用您的计算机，您可以注销或保持自身的登录，仅切换用户即可。如果您仅切换用户，则所有应用程序将继续运行，您再次登录时，一切将保留原样。</p>
 <p class="p">To <span class="gui">Log Out</span> or <span class="gui">Switch User</span>, click the
-  <span class="link"><a href="shell-introduction.html#yourname" title="您和您的计算机">system menu</a></span> on the right side of the
+  <span class="link"><a href="shell-introduction.html.zh-CN#yourname" title="您和您的计算机">system menu</a></span> on the right side of the
   top bar, click your name and then choose the right option.</p>
 <div class="note" title="备注"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="gui">注销</span>和<span class="gui">切换用户</span>菜单项，仅会在您系统中有两个以上的用户时才会出现。</p></div></div></div></div>
 </div></div>
@@ -67,7 +67,7 @@
 <p class="p">If you’re leaving your computer for a short time, you should lock your
   screen to prevent other people from accessing your files or running
   applications. When you return, raise the
-  <span class="link"><a href="shell-lockscreen.html" title="锁定屏幕">lock screen</a></span> curtain and enter your
+  <span class="link"><a href="shell-lockscreen.html.zh-CN" title="锁定屏幕">lock screen</a></span> curtain and enter your
   password to log back in. If you don’t lock your screen, it will lock
   automatically after a certain amount of time.</p>
 <p class="p">To lock your screen, click the system menu on the right side of the top
@@ -82,11 +82,11 @@
 <div class="title"><h3><span class="title">亦见</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="session-screenlocks.html" title="屏幕锁定得太快">屏幕锁定得太快</a><span class="desc"> — Change how long to wait before locking the screen in the
+<a href="session-screenlocks.html.zh-CN" title="屏幕锁定得太快">屏幕锁定得太快</a><span class="desc"> — Change how long to wait before locking the screen in the
     <span class="gui">Privacy</span> settings.</span>
 </li>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="自动锁定屏幕">自动锁定屏幕</a><span class="desc"> — 当您离开计算机时，防止其他人使用电脑。</span>
+<a href="privacy-screen-lock.html.zh-CN" title="自动锁定屏幕">自动锁定屏幕</a><span class="desc"> — 当您离开计算机时，防止其他人使用电脑。</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -113,13 +113,13 @@
 <div class="title"><h3><span class="title">亦见</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-autosuspend.html.zh-CN" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="使用很少电源，延长电池寿命">使用很少电源，延长电池寿命</a><span class="desc"> — 减少计算机能耗的技巧。</span>
+<a href="power-batterylife.html.zh-CN" title="使用很少电源，延长电池寿命">使用很少电源，延长电池寿命</a><span class="desc"> — 减少计算机能耗的技巧。</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="挂起或休眠计算机时会发生什么？">挂起或休眠计算机时会发生什么？</a><span class="desc"> — 挂起将使您的电脑进入睡眠状态，使用较少的电能。</span>
+<a href="power-suspend.html.zh-CN" title="挂起或休眠计算机时会发生什么？">挂起或休眠计算机时会发生什么？</a><span class="desc"> — 挂起将使您的电脑进入睡眠状态，使用较少的电能。</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -137,14 +137,14 @@
 <p class="p">If there are other users logged in, you may not be allowed to power off or
   restart the computer because this will end their sessions.  If you are an
   administrative user, you may be asked for your password to power off.</p>
-<div class="note note-tip" title="提示"><div class="inner"><div class="region"><div class="contents"><p class="p">在您挪动计算机时，如果没有电池您可能想关闭它，如果您的电池电量低或者不能持续供电。可以使用<span class="link"><a href="power-batterylife.html" title="使用很少电源，延长电池寿命">电量不足</a></span>时关机代替挂起。</p></div></div></div></div>
+<div class="note note-tip" title="提示"><div class="inner"><div class="region"><div class="contents"><p class="p">在您挪动计算机时，如果没有电池您可能想关闭它，如果您的电池电量低或者不能持续供电。可以使用<span class="link"><a href="power-batterylife.html.zh-CN" title="使用很少电源，延长电池寿命">电量不足</a></span>时关机代替挂起。</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">亦见</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html" title="使用很少电源，延长电池寿命">使用很少电源，延长电池寿命</a><span class="desc"> — 减少计算机能耗的技巧。</span>
+<a href="power-batterylife.html.zh-CN" title="使用很少电源，延长电池寿命">使用很少电源，延长电池寿命</a><span class="desc"> — 减少计算机能耗的技巧。</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -156,20 +156,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="index.html" title="Ubuntu 桌面指南">Ubuntu 桌面指南</a></li>
+<li class="links "><a href="index.html.zh-CN" title="Ubuntu 桌面指南">Ubuntu 桌面指南</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Your desktop">Your desktop</a><span class="desc"> — 
-      <span class="link"><a href="clock-calendar.html" title="日程安排">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="通知和消息托盘">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="可用的键盘快捷键">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="窗口和工作区">windows and workspaces</a></span>…
+<a href="shell-overview.html.zh-CN" title="Your desktop">Your desktop</a><span class="desc"> — 
+      <span class="link"><a href="clock-calendar.html.zh-CN" title="日程安排">Calendar</a></span>,
+      <span class="link"><a href="shell-notifications.html.zh-CN" title="通知和消息托盘">notifications</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.zh-CN" title="可用的键盘快捷键">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-windows.html.zh-CN" title="窗口和工作区">windows and workspaces</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="power.html" title="电源 &amp; 电池">电源 &amp; 电池</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="挂起或休眠计算机时会发生什么？">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="为什么我的屏幕过一会就变暗？">screen dimming</a></span>…
+<a href="power.html.zh-CN" title="电源 &amp; 电池">电源 &amp; 电池</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.zh-CN" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.zh-CN" title="挂起或休眠计算机时会发生什么？">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.zh-CN" title="为什么我的屏幕过一会就变暗？">screen dimming</a></span>…
     </span>
 </li>
 </ul></div>
@@ -177,7 +177,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-autologin.html" title="Log in automatically">Log in automatically</a><span class="desc"> — Set up automatic login for when you switch on your computer.</span>
+<a href="user-autologin.html.zh-CN" title="Log in automatically">Log in automatically</a><span class="desc"> — Set up automatic login for when you switch on your computer.</span>
 </li></ul></div>
 </div></div>
 </div>

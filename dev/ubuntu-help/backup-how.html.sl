@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html#backup" title="Ustvarjanje varnostnih kopij">Ustvarjanje varnostnih kopij</a> » <a class="trail" href="backup-why.html" title="Ustvarjanje varnostne kopije pomembnih datotek">Varnostne kopije</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html.sl#backup" title="Ustvarjanje varnostnih kopij">Ustvarjanje varnostnih kopij</a> » <a class="trail" href="backup-why.html.sl" title="Ustvarjanje varnostne kopije pomembnih datotek">Varnostne kopije</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kako ustvariti varnostno kopijo</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Najlažji način ustvarjanja varnostne kopije datotek in nastavitev je, da programu varnostnih kopij pustite upravljanje opravil varnostnih kopij. Na voljo so številni programi varnostnih kopij, na primer <span class="app">Déjà Dup</span>.</p>
 <p class="p">Pomoč za vaš izbrani program vas bo vodila skozi nastavljanje možnosti varnostne kopije in tudi skozi obnovitev podatkov, če pride do težav.</p>
-<p class="p">Druga možnost je enostavno <span class="link"><a href="files-copy.html" title="Kopiranje ali premik datotek ali map">kopiranje vaših datotek</a></span> na varno mesto kot je zunanji trdi disk, drug računalnik na omrežju ali pogon USB. Vaše <span class="link"><a href="backup-thinkabout.html" title="Kje lahko najdem datoteke katerih varnostno kopijo želim ustvariti?">osebne datoteke</a></span> in nastavitve so ponavadi v vaši domači mapi, zato jih lahko kopirate od tam.</p>
+<p class="p">Druga možnost je enostavno <span class="link"><a href="files-copy.html.sl" title="Kopiranje ali premik datotek ali map">kopiranje vaših datotek</a></span> na varno mesto kot je zunanji trdi disk, drug računalnik na omrežju ali pogon USB. Vaše <span class="link"><a href="backup-thinkabout.html.sl" title="Kje lahko najdem datoteke katerih varnostno kopijo želim ustvariti?">osebne datoteke</a></span> in nastavitve so ponavadi v vaši domači mapi, zato jih lahko kopirate od tam.</p>
 <p class="p">Količina podatkov katerih varnostno kopijo lahko ustvarite je omejena z velikostjo naprave shrambe. V primeru da imate na svoji napravi varnostne kopije prostor, je najboljše narediti varnostno kopijo cele domače mape z naslednjimi izjemami:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Datoteke, ki že imajo varnostne kopije drugje, kot na primer na CD-ju, DVD-ju ali drugih odstranljivih medijih.</p></li>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Ustvarjanje varnostne kopije pomembnih datotek">Ustvarjanje varnostne kopije pomembnih datotek</a><span class="desc"> — Kaj, zakaj, kje in kako varnostnih kopij.</span>
+<a href="backup-why.html.sl" title="Ustvarjanje varnostne kopije pomembnih datotek">Ustvarjanje varnostne kopije pomembnih datotek</a><span class="desc"> — Kaj, zakaj, kje in kako varnostnih kopij.</span>
 </li></ul></div>
 </div></div></div>
 </div>

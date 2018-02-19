@@ -43,22 +43,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wat is Bluetooth-zichtbaarheid?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Bluetooth-zichtbaarheid slaat op de mogelijkheid voor andere apparaten om uw computer te ontdekken wanneer er naar Bluetooth-apparaten gezocht wordt. Wanneer Bluetooth is ingeschakeld en het <span class="gui">Bluetooth</span>-paneel is geopend , dan zal uw computer zich melden bij andere apparaten die binnen bereik zijn, waardoor ze de gelegenheid krijgen met u te verbinden.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt de naam die uw computer aan andere apparaten laat zien <span class="link"><a href="sharing-displayname.html" title="De weergavenaam van uw computer instellen">wijzigen</a></span>.</p></div></div></div></div>
-<p class="p">Nadat u bent <span class="link"><a href="bluetooth-connect-device.html" title="Uw computer met een Bluetooth-apparaat verbinden">verbonden met een apparaat</a></span>, hoeven noch uw computer, noch het apparaat zichtbaar te zijn om met elkaar te communiceren.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt de naam die uw computer aan andere apparaten laat zien <span class="link"><a href="sharing-displayname.html.nl" title="De weergavenaam van uw computer instellen">wijzigen</a></span>.</p></div></div></div></div>
+<p class="p">Nadat u bent <span class="link"><a href="bluetooth-connect-device.html.nl" title="Uw computer met een Bluetooth-apparaat verbinden">verbonden met een apparaat</a></span>, hoeven noch uw computer, noch het apparaat zichtbaar te zijn om met elkaar te communiceren.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Uw computer met een Bluetooth-apparaat verbinden">Verbinden</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Bestanden sturen naar een Bluetooth-apparaat">bestanden overbrengen</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth in- of uitschakelen">aan- en uitzetten</a></span>...</span>
+<a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.nl" title="Uw computer met een Bluetooth-apparaat verbinden">Verbinden</a></span>, <span class="link"><a href="bluetooth-send-file.html.nl" title="Bestanden sturen naar een Bluetooth-apparaat">bestanden overbrengen</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.nl" title="Bluetooth in- of uitschakelen">aan- en uitzetten</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

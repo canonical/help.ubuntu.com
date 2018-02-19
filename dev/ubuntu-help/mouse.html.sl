@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,30 +54,30 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html" title="Klik in premikanje miškinega kazalca s številsko tipkovnico"><span class="title">Klik in premikanje miškinega kazalca s številsko tipkovnico</span><span class="linkdiv-dash"> — </span><span class="desc">Enable mouse keys to control the mouse with the numeric
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.sl" title="Klik in premikanje miškinega kazalca s številsko tipkovnico"><span class="title">Klik in premikanje miškinega kazalca s številsko tipkovnico</span><span class="linkdiv-dash"> — </span><span class="desc">Enable mouse keys to control the mouse with the numeric
     keypad.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html" title="Kliknice, povlecite ali drsajte z drsno ploščico"><span class="title">Kliknice, povlecite ali drsajte z drsno ploščico</span><span class="linkdiv-dash"> — </span><span class="desc">Kliknite, povlecite ali drsajte z uporabo udarjanja ali kretenj na drsni ploščici.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html" title="Prilagoditev hitrosti dvojnega klika"><span class="title">Prilagoditev hitrosti dvojnega klika</span><span class="linkdiv-dash"> — </span><span class="desc">Nadzirajte kako hitro morate drugič pritisniti miškin gumb za dvoklik.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html" title="Prilagoditev hitrosti miške in drsne ploščice"><span class="title">Prilagoditev hitrosti miške in drsne ploščice</span><span class="linkdiv-dash"> — </span><span class="desc">Spremenite kako hitro se premika miškin kazalnik, ko uporabite miško ali drsno ploščico.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.sl" title="Kliknice, povlecite ali drsajte z drsno ploščico"><span class="title">Kliknice, povlecite ali drsajte z drsno ploščico</span><span class="linkdiv-dash"> — </span><span class="desc">Kliknite, povlecite ali drsajte z uporabo udarjanja ali kretenj na drsni ploščici.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.sl" title="Prilagoditev hitrosti dvojnega klika"><span class="title">Prilagoditev hitrosti dvojnega klika</span><span class="linkdiv-dash"> — </span><span class="desc">Nadzirajte kako hitro morate drugič pritisniti miškin gumb za dvoklik.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.sl" title="Prilagoditev hitrosti miške in drsne ploščice"><span class="title">Prilagoditev hitrosti miške in drsne ploščice</span><span class="linkdiv-dash"> — </span><span class="desc">Spremenite kako hitro se premika miškin kazalnik, ko uporabite miško ali drsno ploščico.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html" title="Simulacija desnega klika miške"><span class="title">Simulacija desnega klika miške</span><span class="linkdiv-dash"> — </span><span class="desc">Pritisnite in držite levi miškin gumba za desni klik.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html" title="Simulacija klika s prehodom"><span class="title">Simulacija klika s prehodom</span><span class="linkdiv-dash"> — </span><span class="desc">The <span class="gui">Hover Click</span> (Dwell Click) feature allows you to click
+<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.sl" title="Simulacija desnega klika miške"><span class="title">Simulacija desnega klika miške</span><span class="linkdiv-dash"> — </span><span class="desc">Pritisnite in držite levi miškin gumba za desni klik.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.sl" title="Simulacija klika s prehodom"><span class="title">Simulacija klika s prehodom</span><span class="linkdiv-dash"> — </span><span class="desc">The <span class="gui">Hover Click</span> (Dwell Click) feature allows you to click
     by holding the mouse still.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html" title="Uporaba miške z levico"><span class="title">Uporaba miške z levico</span><span class="linkdiv-dash"> — </span><span class="desc">Obrnite levi in desni miškin gumb v nastavitvah miške.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html.sl" title="Uporaba miške z levico"><span class="title">Uporaba miške z levico</span><span class="linkdiv-dash"> — </span><span class="desc">Obrnite levi in desni miškin gumb v nastavitvah miške.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Pogoste težave</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html" title="Miškin kazalec se ne premika"><span class="title">Miškin kazalec se ne premika</span><span class="linkdiv-dash"> — </span><span class="desc">How to check why your mouse is not working.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html" title="Mouse reacts with delay before it starts working"><span class="title">Mouse reacts with delay before it starts working</span><span class="linkdiv-dash"> — </span><span class="desc">V primeru da morate miško stresti ali klikniti preden se odzove.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.sl" title="Miškin kazalec se ne premika"><span class="title">Miškin kazalec se ne premika</span><span class="linkdiv-dash"> — </span><span class="desc">How to check why your mouse is not working.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.sl" title="Mouse reacts with delay before it starts working"><span class="title">Mouse reacts with delay before it starts working</span><span class="linkdiv-dash"> — </span><span class="desc">V primeru da morate miško stresti ali klikniti preden se odzove.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="tips" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Namigi</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Srednji klik"><span class="title">Srednji klik</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.sl" title="Srednji klik"><span class="title">Srednji klik</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
     more.</span></a></div></div>
 <div class="links-twocolumn"></div>
 </div></div></div></div></div>
@@ -88,10 +88,10 @@
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema in gonilniki</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Pogoste težave">Težave s strojno opremo</a></span>, <span class="link"><a href="printing.html" title="Tiskanje">tiskalniki</a></span>, <span class="link"><a href="power.html" title="Napajanje in baterija">nastavitve porabe</a></span>, <span class="link"><a href="color.html" title="Upravljanje barv">upravljanje barv</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Diski in shramba">diski</a></span> …</span>
+<a href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema in gonilniki</a><span class="desc"> — <span class="link"><a href="hardware.html.sl#problems" title="Pogoste težave">Težave s strojno opremo</a></span>, <span class="link"><a href="printing.html.sl" title="Tiskanje">tiskalniki</a></span>, <span class="link"><a href="power.html.sl" title="Napajanje in baterija">nastavitve porabe</a></span>, <span class="link"><a href="color.html.sl" title="Upravljanje barv">upravljanje barv</a></span>, <span class="link"><a href="bluetooth.html.sl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.sl" title="Diski in shramba">diski</a></span> …</span>
 </li>
 <li class="links ">
-<a href="prefs.html" title="Uporabniške in sistemske nastavitve">Uporabniške in sistemske nastavitve</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tipkovnica">Tipkovnica</a></span>, <span class="link"><a href="mouse.html" title="Miška">miška</a></span>, <span class="link"><a href="prefs-display.html" title="Zaslon">zaslon</a></span>, <span class="link"><a href="prefs-language.html" title="Področje in jezik">jeziki</a></span>, <span class="link"><a href="user-accounts.html" title="Uporabniški računi">uporabniški računi</a></span> …</span>
+<a href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Uporabniške in sistemske nastavitve</a><span class="desc"> — <span class="link"><a href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a></span>, <span class="link"><a href="mouse.html.sl" title="Miška">miška</a></span>, <span class="link"><a href="prefs-display.html.sl" title="Zaslon">zaslon</a></span>, <span class="link"><a href="prefs-language.html.sl" title="Področje in jezik">jeziki</a></span>, <span class="link"><a href="user-accounts.html.sl" title="Uporabniški računi">uporabniški računi</a></span> …</span>
 </li>
 </ul></div>
 </div></div></div>

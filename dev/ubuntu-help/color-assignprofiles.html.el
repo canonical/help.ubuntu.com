@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="color.html" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="color.html" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Μπορεί να θέλετε να αναθέσετε ένα προφίλ χρώματος για την οθόνη ή τον εκτυπωτή σας, έτσι ώστε τα χρώματα που εμφανίζονται να είναι πιο ακριβή.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Χρώμα</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Χρώμα</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Χρώμα</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Επιλέξτε την συσκευή στην οποία θέλετε να προσθέστε ένα προφίλ.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στην <span class="gui">Προσθήκη προφίλ</span> για να επιλέξετε ένα υπάρχον προφίλ ή να εισάγετε ένα νέο προφίλ.</p></li>
@@ -70,20 +70,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html" title="Γιατί είναι σημαντική η διαχείριση του χρώματος;">Γιατί είναι σημαντικό</a></span>, <span class="link"><a href="color.html#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a></span>, <span class="link"><a href="color.html#calibration" title="Βαθμονόμηση">Πώς να βαθμονομήσετε μια συσκευή</a></span>…</span>
+<a href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.el" title="Γιατί είναι σημαντική η διαχείριση του χρώματος;">Γιατί είναι σημαντικό</a></span>, <span class="link"><a href="color.html.el#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a></span>, <span class="link"><a href="color.html.el#calibration" title="Βαθμονόμηση">Πώς να βαθμονομήσετε μια συσκευή</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Γιατί πρέπει να κάνω τη βαθμονόμηση μόνος μου;">Γιατί πρέπει να κάνω τη βαθμονόμηση μόνος μου;</a><span class="desc"> — Η βαθμονόμηση είναι σημαντική εάν ενδιαφέρεστε για τα χρώματα που εμφανίζονται ή τυπώνονται.</span>
+<a href="color-why-calibrate.html.el" title="Γιατί πρέπει να κάνω τη βαθμονόμηση μόνος μου;">Γιατί πρέπει να κάνω τη βαθμονόμηση μόνος μου;</a><span class="desc"> — Η βαθμονόμηση είναι σημαντική εάν ενδιαφέρεστε για τα χρώματα που εμφανίζονται ή τυπώνονται.</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html" title="Πώς εισάγω προφίλ χρώματος;">Πώς εισάγω προφίλ χρώματος;</a><span class="desc"> — Τα προφίλ χρώματος μπορούν να εισαχθούν ανοίγοντάς τα.</span>
+<a href="color-howtoimport.html.el" title="Πώς εισάγω προφίλ χρώματος;">Πώς εισάγω προφίλ χρώματος;</a><span class="desc"> — Τα προφίλ χρώματος μπορούν να εισαχθούν ανοίγοντάς τα.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Τι είναι ένα προφίλ χρώματος;">Τι είναι ένα προφίλ χρώματος;</a><span class="desc"> — Ένα προφίλ χρώματος είναι ένα απλό αρχείο που εκφράζει ένα χρωματικό χώρο ή απόκριση μιας συσκευής.</span>
+<a href="color-whatisprofile.html.el" title="Τι είναι ένα προφίλ χρώματος;">Τι είναι ένα προφίλ χρώματος;</a><span class="desc"> — Ένα προφίλ χρώματος είναι ένα απλό αρχείο που εκφράζει ένα χρωματικό χώρο ή απόκριση μιας συσκευής.</span>
 </li>
 </ul></div>
 </div></div>

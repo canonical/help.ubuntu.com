@@ -44,22 +44,22 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="bluetooth.html.lv" title="Bluetooth">Bluetooth</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="sharing.html" title="Kopīga lietošana">Kopīga lietošana</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="sharing.html.lv" title="Kopīga lietošana">Kopīga lietošana</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sūtīt datnes uz Bluetooth ierīci</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Jūs varat nosūtīt datnes uz savienotajām Bluetooth ierīcēm, tādām kā daži mobilie telefoni vai citi datori. Daži ierīču tipi neatļauj datņu vai specifisku datņu tipu pārraidi. Jūs varat sūtīt datnes vienā no trijiem veidiem — izmantojot Bluetooth izvēļņu joslā, no Bluetooth iestatījumu loga, vai tieši no datņu pārvaldnieka.</p>
+<p class="p">Jūs varat nosūtīt datnes uz savienotajām Bluetooth ierīcēm, tādām kā daži mobilie telefoni vai citi datori. Daži ierīču tipi neatļauj datņu vai specifisku datņu tipu pārraidi. Jūs varat sūtīt datnes, izmantojot  Bluetooth iestatījumu logu.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Bluetooth</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Pārliecinieties, ka Bluetooth ir aktivēts — pārslēdziet virsraksta joslas slēdzi uz <span class="gui">|</span>.</p></li>
 <li class="steps">
-<p class="p"><span class="gui">Ierīču</span> sarakstā izvēlieties ierīci, uz kuru sūtīt datnes.Ja vēlamā ierīce nav redzama sarakstā kā <span class="gui">Savienota</span>, ar to vajag <span class="link"><a href="bluetooth-connect-device.html" title="Savienot jūsu datoru ar Bluetooth ierīci">savienoties</a></span>.</p>
+<p class="p"><span class="gui">Ierīču</span> sarakstā izvēlieties ierīci, uz kuru sūtīt datnes.Ja vēlamā ierīce nav redzama sarakstā kā <span class="gui">Savienota</span>, ar to vajag <span class="link"><a href="bluetooth-connect-device.html.lv" title="Savienot jūsu datoru ar Bluetooth ierīci">savienoties</a></span>.</p>
 <p class="p">Parādīsies ārējai ierīcei specifisks panelis.</p>
 </li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Sūtīt datnes...</span> un parādīsies datņu izvēlētājs.</p></li>
@@ -77,17 +77,17 @@
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Savienot jūsu datoru ar Bluetooth ierīci">Savienoties</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Sūtīt datnes uz Bluetooth ierīci">sūtīt datnes</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Ieslēgt vai izslēgt Bluetooth">ieslēgt un izslēgt</a></span>…</span>
+<a href="bluetooth.html.lv" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.lv" title="Savienot jūsu datoru ar Bluetooth ierīci">Savienoties</a></span>, <span class="link"><a href="bluetooth-send-file.html.lv" title="Sūtīt datnes uz Bluetooth ierīci">sūtīt datnes</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.lv" title="Ieslēgt vai izslēgt Bluetooth">ieslēgt un izslēgt</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Kopīga lietošana">Kopīga lietošana</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Koplietot savu darbvirsmu">Darbvirsmas koplietošana</a></span>, <span class="link"><a href="files-share.html" title="Dalīties ar datnēm caur e-pastu">Koplietot datnes ar e-pastu</a></span>, <span class="link"><a href="sharing-media.html" title="Dalieties ar mūziku, fotogrāfijām un video">Multimediju koplietošana</a></span>…</span>
+<a href="sharing.html.lv" title="Kopīga lietošana">Kopīga lietošana</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.lv" title="Koplietot savu darbvirsmu">Darbvirsmas koplietošana</a></span>, <span class="link"><a href="files-share.html.lv" title="Dalīties ar datnēm caur e-pastu">Koplietot datnes ar e-pastu</a></span>, <span class="link"><a href="sharing-media.html.lv" title="Dalieties ar mūziku, fotogrāfijām un video">Multimediju koplietošana</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="Dalīties ar datnēm caur e-pastu">Dalīties ar datnēm caur e-pastu</a><span class="desc"> — Viegli pārsūtiet datnes e-pasta kontaktiem no datņu pārvaldnieka.</span>
+<a href="files-share.html.lv" title="Dalīties ar datnēm caur e-pastu">Dalīties ar datnēm caur e-pastu</a><span class="desc"> — Viegli pārsūtiet datnes e-pasta kontaktiem no datņu pārvaldnieka.</span>
 </li></ul></div>
 </div></div>
 </div>

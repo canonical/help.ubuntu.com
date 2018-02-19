@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="ஒலி, வீடியோ &amp; படங்கள்">ஒலி, வீடியோ &amp;  படங்கள்</a> › <a class="trail" href="media.html#videos" title="வீடியோக்கள் மற்றும் வீடியோ கேமராக்கள்">வீடியோக்கள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ta" title="ஒலி, வீடியோ &amp; படங்கள்">ஒலி, வீடியோ &amp;  படங்கள்</a> › <a class="trail" href="media.html.ta#videos" title="வீடியோக்கள் மற்றும் வீடியோ கேமராக்கள்">வீடியோக்கள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Other people can’t play the videos I made</span></h1></div>
@@ -53,7 +53,7 @@
 <p class="p">உங்கள் வீடியோவை இயக்க அவர்கள் கணினியில் சரியான <span class="em">கோடெக்குகள்</span> நிறுவப்பட்டிருக்க வேண்டும். கோடெக் என்பது வீடியோவை எடுத்து திரையில் காட்டுவது எப்படி எனத் தெரிந்த ஒரு சிறு மென்பொருளாகும். பல வீடியோ வடிவங்கள் உள்ளன, அவற்றை இயக்க ஒவ்வொன்றுக்கும் ஒரு கோடெக் தேவை. உங்கள் வீடியோவின் வடிவமைப்பு எது என அறிய இதைச் செய்யலாம்:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Open <span class="app">Files</span> from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview.</p></li>
 <li class="list"><p class="p">Right-click on the video file and select <span class="gui">Properties</span>.</p></li>
 <li class="list"><p class="p">Go to the <span class="gui">Audio/Video</span> or <span class="gui">Video</span> tab and look at
       which <span class="gui">Codec</span> are listed under <span class="gui">Video</span> and
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="வீடியோக்கள் மற்றும் வீடியோ கேமராக்கள்">வீடியோக்கள்</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.ta#videos" title="வீடியோக்கள் மற்றும் வீடியோ கேமராக்கள்">வீடியோக்கள்</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

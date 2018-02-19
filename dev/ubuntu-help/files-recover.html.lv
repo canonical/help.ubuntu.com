@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html#more-file-tasks" title="Vēl ar datnēm saistīti uzdevumi">Vēl ar datnēm saistīti uzdevumi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.lv" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html.lv#more-file-tasks" title="Vēl ar datnēm saistīti uzdevumi">Vēl ar datnēm saistīti uzdevumi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Atjaunot datni no miskastes</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Lai atjaunotu datnes no miskastes:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="app">Datnes</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="app">Datnes</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="app">Datnes</span>, lai atvērtu datņu pārvaldnieku.</p></li>
 <li class="steps"><p class="p">Sānu joslā spiediet <span class="gui">Miskaste</span>. Ja neredzat sānu joslu, augšējā joslā spiediet <span class="gui">Datnes</span> un izvēlieties <span class="gui">Sānu josla</span>.</p></li>
 <li class="steps"><p class="p">Ja izdzēstā datne atrodas tur, spiediet uz tās un izvēlieties <span class="gui">Atjaunot</span>. Datne tiks atjaunots mapē, no kuras tika izdzēsta.</p></li>
@@ -67,16 +67,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Vēl ar datnēm saistīti uzdevumi">Vēl ar datnēm saistīti uzdevumi</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.lv#more-file-tasks" title="Vēl ar datnēm saistīti uzdevumi">Vēl ar datnēm saistīti uzdevumi</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-lost.html" title="Atrast pazudušu datni">Atrast pazudušu datni</a><span class="desc"> — Izmantojiet šos padomus, ja nevarat atrast agrāk izveidotu vai lejupielādētu datni.</span>
+<a href="files-lost.html.lv" title="Atrast pazudušu datni">Atrast pazudušu datni</a><span class="desc"> — Izmantojiet šos padomus, ja nevarat atrast agrāk izveidotu vai lejupielādētu datni.</span>
 </li>
 <li class="links ">
-<a href="files-delete.html" title="Dzēst datnes un mapes">Dzēst datnes un mapes</a><span class="desc"> — Izņemt datnes vai mapes, kas vairs nav vajadzīgas.</span>
+<a href="files-delete.html.lv" title="Dzēst datnes un mapes">Dzēst datnes un mapes</a><span class="desc"> — Izņemt datnes vai mapes, kas vairs nav vajadzīgas.</span>
 </li>
 </ul></div>
 </div></div>

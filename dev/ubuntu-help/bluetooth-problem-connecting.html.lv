@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="bluetooth.html#problems" title="Problēmas">Bluetooth problēmas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html.lv#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="bluetooth.html.lv#problems" title="Problēmas">Bluetooth problēmas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Es nevaru pievienot savu Bluetooth ierīci</span></h1></div>
@@ -54,11 +54,11 @@
 <dt class="terms">Bloķēts vai neuzticams savienojums</dt>
 <dd class="terms"><p class="p">Dažas Bluetooth ierīces bloķē savienojumus pēc noklusējuma, vai arī pieprasa nomainīt iestatījumus, lai atļautu savienojumus. Pārliecinieties, ka jūsu ierīce ir iestatīta, lai atļautu savienojumus.</p></dd>
 <dt class="terms">Bluetooth aparatūra nav atpazīta</dt>
-<dd class="terms"><p class="p">Dators neatpazina jūsu Bluetooth adapteri vai spraudni. Tas varētu būt tāpēc, ka jūsu adaptera <span class="link"><a href="hardware-driver.html" title="Kas ir draiveris?">draiveri</a></span> nav uzinstalēti. Daži Bluetooth adapteri nav atbalstīti Linux vidē, tāpēc jūs varētu arī neiegūt draiverus to darbināšanai. Tādā gadījumā jums vajadzētu iegūt citu Bluetooth adapteri.</p></dd>
+<dd class="terms"><p class="p">Dators neatpazina jūsu Bluetooth adapteri vai spraudni. Tas varētu būt tāpēc, ka jūsu adaptera <span class="link"><a href="hardware-driver.html.lv" title="Kas ir draiveris?">draiveri</a></span> nav uzinstalēti. Daži Bluetooth adapteri nav atbalstīti Linux vidē, tāpēc jūs varētu arī neiegūt draiverus to darbināšanai. Tādā gadījumā jums vajadzētu iegūt citu Bluetooth adapteri.</p></dd>
 <dt class="terms">Adapters nav ieslēgts</dt>
-<dd class="terms"><p class="p">Pārliecinieties, ka jūsu Bluetooth adapters ir ieslēgts. Spiediet Bluetooth ikonu <span class="gui">izvēļņu joslā</span> un pārliecinieties, ka tas nav<span class="link"><a href="bluetooth-turn-on-off.html" title="Ieslēgt vai izslēgt Bluetooth">deaktivēts</a></span>.</p></dd>
+<dd class="terms"><p class="p">Pārliecinieties, ka jūsu Bluetooth adapters ir ieslēgts. Atveriet Bluetooth paneli un pārbaudiet, vai tas nav  <span class="link"><a href="bluetooth-turn-on-off.html.lv" title="Ieslēgt vai izslēgt Bluetooth">deaktivēts</a></span>.</p></dd>
 <dt class="terms">Ierīces Bluetooth savienojums izslēgts</dt>
-<dd class="terms"><p class="p">Pārbaudiet, vai ierīcei, ar kuru vēlaties savienoties, nav izslēgts Bluetooth, un ka tā ir <span class="link"><a href="bluetooth-visibility.html" title="Kas ir Bluetooth redzamība?">atklājama vai redzama</a></span>. Piemēram, ja jūs mēģināt savienoties ar telefonu, pārliecinieties, ka tas nav lidmašīnas režīmā (airplane mode).</p></dd>
+<dd class="terms"><p class="p">Pārbaudiet, vai ierīcei, ar kuru vēlaties savienoties, nav izslēgts Bluetooth, un ka tā ir <span class="link"><a href="bluetooth-visibility.html.lv" title="Kas ir Bluetooth redzamība?">atklājama vai redzama</a></span>. Piemēram, ja jūs mēģināt savienoties ar telefonu, pārliecinieties, ka tas nav lidmašīnas režīmā (airplane mode).</p></dd>
 <dt class="terms">Jūsu datorā nav Bluetooth adaptera</dt>
 <dd class="terms"><p class="p">Daudziem datoriem nav Bluetooth adapteru. Jūs varat nopirkt adapteri, ja vēlaties izmantot Bluetooth.</p></dd>
 </dl></div></div></div>
@@ -68,12 +68,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="bluetooth.html#problems" title="Problēmas">Bluetooth problēmas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="bluetooth.html.lv#problems" title="Problēmas">Bluetooth problēmas</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="Kas ir draiveris?">Kas ir draiveris?</a><span class="desc"> — Aparatūras/ierīces draiveris ļauj datoram izmantot tam pievienotās ierīces.</span>
+<a href="hardware-driver.html.lv" title="Kas ir draiveris?">Kas ir draiveris?</a><span class="desc"> — Aparatūras/ierīces draiveris ļauj datoram izmantot tam pievienotās ierīces.</span>
 </li></ul></div>
 </div></div>
 </div>

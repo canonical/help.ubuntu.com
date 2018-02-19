@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="disk.html" title="Diski un uzglabāšana">Diski un uzglabāšana</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="disk.html.lv" title="Diski un uzglabāšana">Diski un uzglabāšana</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Pārbaudiet jūsu cietā diska veiktspēju</span></h1></div>
@@ -51,12 +51,12 @@
 <div class="contents">
 <p class="p">Lai pārbaudītu cietā diska ātrumu:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet lietotni <span class="app">Diski</span> no <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskata.</p></li>
+<li class="steps"><p class="p">Atveriet lietotni <span class="app">Diski</span> no <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskata.</p></li>
 <li class="steps"><p class="p">Izvēlieties disku no saraksta kreisajā rūtī.</p></li>
 <li class="steps"><p class="p">Spiediet uz izvēlnes pogas un izvēlieties <span class="gui">Mērīt diska veiktspēju…</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Sākt mērīt veiktspēju…</span> un pielāgojiet <span class="gui">Pārsūtīšanas ātruma</span> un <span class="gui">Piekļuves laika</span> parametrus, kā vajadzīgs.</p></li>
 <li class="steps">
-<p class="p">Spiediet <span class="gui">Sākt veiktspējas mērīšanu</span>, lai noteiktu, cik ātri datus var lasīt no diska. Iespējams, ka vajadzēs <span class="link"><a href="user-admin-explain.html" title="Kā strādā administratīvās tiesības?">administratīvās privilēģijas</a></span>. Ievadiet savu vai administratora paroli.</p>
+<p class="p">Spiediet <span class="gui">Sākt veiktspējas mērīšanu</span>, lai noteiktu, cik ātri datus var lasīt no diska. Iespējams, ka vajadzēs <span class="link"><a href="user-admin-explain.html.lv" title="Kā strādā administratīvās tiesības?">administratīvās privilēģijas</a></span>. Ievadiet savu vai administratora paroli.</p>
 <div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Ja ir arī atzīmēts<span class="gui">Veikt rakstīšanas veiktspējas mērījumus</span>, tiks pārbaudīts, cik ātri datus var nolasīt un rakstīt diskā. Tas prasīs vairāk laika.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Diski un uzglabāšana">Diski un uzglabāšana</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Pārbaudiet, cik daudz vietas diskā ir atlicis">Diska vieta</a></span>, <span class="link"><a href="disk-benchmark.html" title="Pārbaudiet jūsu cietā diska veiktspēju">veiktspēja</a></span>, <span class="link"><a href="disk-check.html" title="Pārbaudiet, vai jūsu cietajam diskam nav problēmu">problēmas</a></span>, <span class="link"><a href="disk-partitions.html" title="Pārvaldiet apjomus un nodalījumus">sējumi un nodalījumi</a></span>…</span>
+<a href="disk.html.lv" title="Diski un uzglabāšana">Diski un uzglabāšana</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.lv" title="Pārbaudiet, cik daudz vietas diskā ir atlicis">Diska vieta</a></span>, <span class="link"><a href="disk-benchmark.html.lv" title="Pārbaudiet jūsu cietā diska veiktspēju">veiktspēja</a></span>, <span class="link"><a href="disk-check.html.lv" title="Pārbaudiet, vai jūsu cietajam diskam nav problēmu">problēmas</a></span>, <span class="link"><a href="disk-partitions.html.lv" title="Pārvaldiet apjomus un nodalījumus">sējumi un nodalījumi</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

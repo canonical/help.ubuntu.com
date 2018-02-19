@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Lyd, video &amp; billeder">Lyd, video &amp; billeder</a> › <a class="trail" href="media.html#videos" title="Videoer og videokamera">Videoer</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.da" title="Lyd, video &amp; billeder">Lyd, video &amp; billeder</a> › <a class="trail" href="media.html.da#videos" title="Videoer og videokamera">Videoer</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">How do I enable restricted codecs to play DVDs?</span></h1></div>
@@ -74,12 +74,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Videoer og videokamera">Videoer</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.da#videos" title="Videoer og videokamera">Videoer</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a><span class="desc"> — You might not have the right codecs installed, or the DVD might be
+<a href="video-dvd.html.da" title="Why won’t DVDs play?">Why won’t DVDs play?</a><span class="desc"> — You might not have the right codecs installed, or the DVD might be
     the wrong region.</span>
 </li></ul></div>
 </div></div>

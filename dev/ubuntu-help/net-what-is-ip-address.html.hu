@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-general.html" title="Hálózatkezelés és tippek">Hálózatkezelés és tippek</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-general.html.hu" title="Hálózatkezelés és tippek">Hálózatkezelés és tippek</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mi az az IP-cím?</span></h1></div>
@@ -60,13 +60,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Hálózatkezelés és tippek">Hálózatkezelés és tippek</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="IP-címének meghatározása">IP-cím meghatározása</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Mit jelent a WEP és WPA?">WEP és WPA biztonság</a></span>, <span class="link"><a href="net-macaddress.html" title="Mi az a MAC-cím?">MAC-címek</a></span>, <span class="link"><a href="net-proxy.html" title="Proxy beállításainak megadása">proxyk</a></span>…</span>
+<a href="net-general.html.hu" title="Hálózatkezelés és tippek">Hálózatkezelés és tippek</a><span class="desc"> — <span class="link"><a href="net-findip.html.hu" title="IP-címének meghatározása">IP-cím meghatározása</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.hu" title="Mit jelent a WEP és WPA?">WEP és WPA biztonság</a></span>, <span class="link"><a href="net-macaddress.html.hu" title="Mi az a MAC-cím?">MAC-címek</a></span>, <span class="link"><a href="net-proxy.html.hu" title="Proxy beállításainak megadása">proxyk</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-findip.html" title="IP-címének meghatározása">IP-címének meghatározása</a><span class="desc"> — Az IP-címének ismerete segíthet elhárítani a hálózati problémákat.</span>
+<a href="net-findip.html.hu" title="IP-címének meghatározása">IP-címének meghatározása</a><span class="desc"> — Az IP-címének ismerete segíthet elhárítani a hálózati problémákat.</span>
 </li></ul></div>
 </div></div>
 </div>

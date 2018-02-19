@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="privacy.html" title="Nastavení soukromí">Nastavení soukromí</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="privacy.html.cs" title="Nastavení soukromí">Nastavení soukromí</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Automatické zamykání obrazovky</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Když odcházíte od svého počítače, měli byste <span class="link"><a href="shell-exit.html#lock-screen" title="Zamknutí obrazovky">zamknout obrazovku</a></span>, abyste zabránili ostatním lidem v používání vašeho uživatelského prostředí a v přístupu k vašim souborům. Pokud na to zapomínáte, můžete si přát, aby se zamykání obrazovky dělo automaticky po nějaké době. Pomůže vám to udržet svůj počítač zabezpečený, když jej nepoužíváte.</p>
+<p class="p">Když odcházíte od svého počítače, měli byste <span class="link"><a href="shell-exit.html.cs#lock-screen" title="Zamknutí obrazovky">zamknout obrazovku</a></span>, abyste zabránili ostatním lidem v používání vašeho uživatelského prostředí a v přístupu k vašim souborům. Pokud na to zapomínáte, můžete si přát, aby se zamykání obrazovky dělo automaticky po nějaké době. Pomůže vám to udržet svůj počítač zabezpečený, když jej nepoužíváte.</p>
 <div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Po dobu, co je obrazovka zamknutá, vaše aplikace a systémové procesy pokračují v běhu, ale abyste je mohli znovu používat, musíte zadat heslo.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Jak nastavit dobu, po jejímž uplynutí se obrazovka automaticky uzamkne:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Soukromí</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Soukromí</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Soukromí</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Vyberte <span class="gui">Zamykání obrazovky</span>.</p></li>
 <li class="steps"><p class="p">Ujistěte se, že <span class="gui">Automatické zamknutí obrazovky</span> je přepnuté na <span class="gui">Zapnuto</span> a pak vyberte v rozbalovacím seznamu množství času.</p></li>
@@ -69,16 +69,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html" title="Nastavení soukromí">Nastavení soukromí</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Automatické zamykání obrazovky">Zamknutí obrazovky</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Vypněte nebo omezte sledování historie souborů">použití a historie</a></span>, <span class="link"><a href="privacy-purge.html" title="Vysypání koše a smazání dočasných souborů">vysypání koše a dočasných souborů</a></span>…</span>
+<a href="privacy.html.cs" title="Nastavení soukromí">Nastavení soukromí</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.cs" title="Automatické zamykání obrazovky">Zamknutí obrazovky</a></span>, <span class="link"><a href="privacy-history-recent-off.html.cs" title="Vypněte nebo omezte sledování historie souborů">použití a historie</a></span>, <span class="link"><a href="privacy-purge.html.cs" title="Vysypání koše a smazání dočasných souborů">vysypání koše a dočasných souborů</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="session-screenlocks.html" title="Obrazovka se sama zamkne po příliš krátké době">Obrazovka se sama zamkne po příliš krátké době</a><span class="desc"> — Jak v nastaveních <span class="gui">Soukromí</span> změnit, jak dlouho se má čekat, než se zamkne obrazovka.</span>
+<a href="session-screenlocks.html.cs" title="Obrazovka se sama zamkne po příliš krátké době">Obrazovka se sama zamkne po příliš krátké době</a><span class="desc"> — Jak v nastaveních <span class="gui">Soukromí</span> změnit, jak dlouho se má čekat, než se zamkne obrazovka.</span>
 </li>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Zamknutí obrazovky">Zamknutí obrazovky</a></li>
+<li class="links "><a href="shell-exit.html.cs#lock-screen" title="Zamknutí obrazovky">Zamknutí obrazovky</a></li>
 </ul></div>
 </div></div>
 </div>

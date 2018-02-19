@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-security.html" title="Μένοντας ασφαλής στο διαδίκτυο">Μένοντας ασφαλής στο διαδίκτυο</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-security.html.el" title="Μένοντας ασφαλής στο διαδίκτυο">Μένοντας ασφαλής στο διαδίκτυο</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Κοινές χρησιμοποιούμενες θύρες δικτύου</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">This is a list of network ports commonly used by applications that provide
   network services, like file sharing or remote desktop viewing. You can change
-  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html" title="Ενεργοποιήστε ή φράξτε την πρόσβαση τείχους προστασίας">block or allow
+  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html.el" title="Ενεργοποιήστε ή φράξτε την πρόσβαση τείχους προστασίας">block or allow
   access</a></span> to these applications. There are thousands of ports in use, so
   this table isn’t complete.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
@@ -101,17 +101,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Μένοντας ασφαλής στο διαδίκτυο">Μένοντας ασφαλής στο διαδίκτυο</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="Χρειάζομαι λογισμικό προστασίας από ιούς;">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Ενεργοποιήστε ή φράξτε την πρόσβαση τείχους προστασίας">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Κοινές χρησιμοποιούμενες θύρες δικτύου">firewall ports</a></span>…
+<a href="net-security.html.el" title="Μένοντας ασφαλής στο διαδίκτυο">Μένοντας ασφαλής στο διαδίκτυο</a><span class="desc"> — 
+      <span class="link"><a href="net-antivirus.html.el" title="Χρειάζομαι λογισμικό προστασίας από ιούς;">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.el" title="Ενεργοποιήστε ή φράξτε την πρόσβαση τείχους προστασίας">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.el" title="Κοινές χρησιμοποιούμενες θύρες δικτύου">firewall ports</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-on-off.html" title="Ενεργοποιήστε ή φράξτε την πρόσβαση τείχους προστασίας">Ενεργοποιήστε ή φράξτε την πρόσβαση τείχους προστασίας</a><span class="desc"> — Μπορείτε να ελέγξτε ποια προγράμματα μπορούν να έχουν πρόσβαση το δίκτυο. Αυτό βοηθά να κρατήσετε τον υπολογιστή σας ασφαλή.</span>
+<a href="net-firewall-on-off.html.el" title="Ενεργοποιήστε ή φράξτε την πρόσβαση τείχους προστασίας">Ενεργοποιήστε ή φράξτε την πρόσβαση τείχους προστασίας</a><span class="desc"> — Μπορείτε να ελέγξτε ποια προγράμματα μπορούν να έχουν πρόσβαση το δίκτυο. Αυτό βοηθά να κρατήσετε τον υπολογιστή σας ασφαλή.</span>
 </li></ul></div>
 </div></div>
 </div>

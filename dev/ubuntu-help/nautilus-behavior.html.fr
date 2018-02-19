@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a> » <a class="trail" href="nautilus-prefs.html" title="Préférences du gestionnaire de fichiers">Préférences du gestionnaire de fichiers</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html.fr" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html.fr#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a> » <a class="trail" href="nautilus-prefs.html.fr" title="Préférences du gestionnaire de fichiers">Préférences du gestionnaire de fichiers</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Préférences du gestionnaire de fichiers</span></h1></div>
@@ -60,7 +60,7 @@
 <div id="executable" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Fichiers texte exécutables</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Un fichier texte exécutable est un fichier qui contient un programme que vous pouvez lancer (exécuter). Les <span class="link"><a href="nautilus-file-properties-permissions.html" title="Définition des permissions d'accès">permissions du fichier</a></span> doivent aussi autoriser l'exécution de ce fichier. Les fichiers les plus courants sont les scripts <span class="sys">Shell</span>, <span class="sys">Python</span> et <span class="sys">Perl</span>. Ils se terminent respectivement par les extensions <span class="file">.sh</span>, <span class="file">.py</span> et <span class="file">pl</span>.</p>
+<p class="p">Un fichier texte exécutable est un fichier qui contient un programme que vous pouvez lancer (exécuter). Les <span class="link"><a href="nautilus-file-properties-permissions.html.fr" title="Définition des permissions d'accès">permissions du fichier</a></span> doivent aussi autoriser l'exécution de ce fichier. Les fichiers les plus courants sont les scripts <span class="sys">Shell</span>, <span class="sys">Python</span> et <span class="sys">Perl</span>. Ils se terminent respectivement par les extensions <span class="file">.sh</span>, <span class="file">.py</span> et <span class="file">pl</span>.</p>
 <p class="p">Lorsque vous ouvrez un fichier texte exécutable, vous avez le choix entre :</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Lancer les fichiers textes exécutables lorsqu'ils sont ouverts</span></p></li>
@@ -93,7 +93,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Voir aussi</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="files-delete.html" title="Suppression de fichiers et de dossiers">Suppression de fichiers et de dossiers</a><span class="desc"> — Supprimer des fichiers ou dossiers dont vous n'avez plus besoin.</span>
+<a href="files-delete.html.fr" title="Suppression de fichiers et de dossiers">Suppression de fichiers et de dossiers</a><span class="desc"> — Supprimer des fichiers ou dossiers dont vous n'avez plus besoin.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -104,7 +104,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Préférences du gestionnaire de fichiers">Préférences du gestionnaire de fichiers</a><span class="desc"> — Afficher et définir les préférences du navigateur de fichiers.</span>
+<a href="nautilus-prefs.html.fr" title="Préférences du gestionnaire de fichiers">Préférences du gestionnaire de fichiers</a><span class="desc"> — Afficher et définir les préférences du navigateur de fichiers.</span>
 </li></ul></div>
 </div></div></div>
 </div>

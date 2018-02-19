@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="media.html#sound" title="Notions de base sur le son">Son</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="media.html.fr#sound" title="Notions de base sur le son">Son</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Choix ou désactivation du son d'alerte</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">L'ordinateur fait entendre un son d'alerte bref pour certains types de messages et d'événements. Vous pouvez choisir entre divers extraits sonores pour les alertes, régler le volume sonore des alertes indépendamment du volume sonore du système, ou désactiver complètement les sons d'alerte.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Sound</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Son</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Dans l'onglet <span class="gui">Effets sonores</span>, sélectionnez un son d'alerte. Vous entendez chaque son quand vous cliquez dessus et ainsi vous vous rendez compte du résultat.</p></li>
@@ -67,13 +67,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="Notions de base sur le son">Notions de base sur le son</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Modification du volume sonore">Volume sonore</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Utilisation d'autres haut-parleurs ou écouteurs.">haut-parleurs et casques</a></span>, <span class="link"><a href="sound-usemic.html" title="Utilisation d'un autre microphone">microphones</a></span>…</span>
+<a href="media.html.fr#sound" title="Notions de base sur le son">Notions de base sur le son</a><span class="desc"> — <span class="link"><a href="sound-volume.html.fr" title="Modification du volume sonore">Volume sonore</a></span>, <span class="link"><a href="sound-usespeakers.html.fr" title="Utilisation d'autres haut-parleurs ou écouteurs.">haut-parleurs et casques</a></span>, <span class="link"><a href="sound-usemic.html.fr" title="Utilisation d'un autre microphone">microphones</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y-visualalert.html" title="Clignotement de l'écran lors des alertes sonores">Clignotement de l'écran lors des alertes sonores</a><span class="desc"> — Activer les alertes visuelles pour faire clignoter l'écran ou la fenêtre quand une alerte sonore est émise.</span>
+<a href="a11y-visualalert.html.fr" title="Clignotement de l'écran lors des alertes sonores">Clignotement de l'écran lors des alertes sonores</a><span class="desc"> — Activer les alertes visuelles pour faire clignoter l'écran ou la fenêtre quand une alerte sonore est émise.</span>
 </li></ul></div>
 </div></div>
 </div>

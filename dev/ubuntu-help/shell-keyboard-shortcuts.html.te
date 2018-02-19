@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html#apps" title="Applications and windows">Applications and windows</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.te" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html.te#apps" title="Applications and windows">Applications and windows</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="keyboard.html" title="కీబోర్డు">కీబోర్డు</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.te" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="keyboard.html.te" title="కీబోర్డు">కీబోర్డు</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="చిట్కాలు &amp; జిమ్మిక్కులు">చిట్కాలు &amp; జిమ్మిక్కులు</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.te" title="చిట్కాలు &amp; జిమ్మిక్కులు">చిట్కాలు &amp; జిమ్మిక్కులు</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="keyboard.html" title="కీబోర్డు">కీబోర్డు</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.te" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="keyboard.html.te" title="కీబోర్డు">కీబోర్డు</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -59,7 +59,7 @@
 <div class="contents">
 <p class="p">This page provides an overview of keyboard shortcuts that can help you
 use your desktop and applications more efficiently. If you cannot use a
-mouse or pointing device at all, see <span class="link"><a href="keyboard-nav.html" title="కీబోర్డు దిశానిర్దేశనం">కీబోర్డు దిశానిర్దేశనం</a></span> for more
+mouse or pointing device at all, see <span class="link"><a href="keyboard-nav.html.te" title="కీబోర్డు దిశానిర్దేశనం">కీబోర్డు దిశానిర్దేశనం</a></span> for more
 information on navigating user interfaces with only the keyboard.</p>
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="true"></div>
@@ -69,7 +69,7 @@ information on navigating user interfaces with only the keyboard.</p>
 <tr>
 <td><p class="p">
       <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> or the
-      <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> key
+      <span class="key"><a href="keyboard-key-super.html.te" title="What is the Super key?"><kbd>Super</kbd></a></span> key
     </p></td>
 <td><p class="p">Switch between the <span class="gui">Activities</span> overview and desktop. In
     the overview, start typing to instantly search your applications, contacts,
@@ -81,7 +81,7 @@ information on navigating user interfaces with only the keyboard.</p>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Switch between windows">Quickly switch between
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.te" title="Switch between windows">Quickly switch between
     windows</a></span>. Hold down <span class="key"><kbd>Shift</kbd></span> for reverse order.</p></td>
 </tr>
 <tr>
@@ -112,7 +112,7 @@ information on navigating user interfaces with only the keyboard.</p>
       <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> or
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span>
     </p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Switch between workspaces">Switch between
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.te" title="Switch between workspaces">Switch between
      workspaces</a></span>.</p></td>
 </tr>
 <tr>
@@ -120,7 +120,7 @@ information on navigating user interfaces with only the keyboard.</p>
       <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> and
       <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span>
     </p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Move a window to a different workspace">Move the current window to a
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.te" title="Move a window to a different workspace">Move the current window to a
      different workspace</a></span>.</p></td>
 </tr>
 <tr>
@@ -133,15 +133,15 @@ information on navigating user interfaces with only the keyboard.</p>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html" title="నిష్క్రమించడం, విద్యుత్ ఆపడం లేదా వాడుకరులను మార్చడం">Power Off</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.te" title="నిష్క్రమించడం, విద్యుత్ ఆపడం లేదా వాడుకరులను మార్చడం">Power Off</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html#lock-screen" title="తెరకు తాళంవేయండి">Lock the screen.</a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.te#lock-screen" title="తెరకు తాళంవేయండి">Lock the screen.</a></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Open <span class="link"><a href="shell-notifications.html#messagetray" title="సందేశాల పళ్ళెం">the message
+<td style="border-top-style: solid;"><p class="p">Open <span class="link"><a href="shell-notifications.html.te#messagetray" title="సందేశాల పళ్ళెం">the message
     tray</a></span>. Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> again or
     <span class="key"><kbd>Esc</kbd></span> to close.</p></td>
 </tr>
@@ -183,22 +183,22 @@ information on navigating user interfaces with only the keyboard.</p>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p"><span class="key"><kbd>Prnt Scrn</kbd></span></p></td>
-<td><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="తెరపట్టును తీయండి">Take a screenshot.</a></span></p></td>
+<td><p class="p"><span class="link"><a href="screen-shot-record.html.te#screenshot" title="తెరపట్టును తీయండి">Take a screenshot.</a></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Prnt Scrn</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="తెరపట్టును తీయండి">Take a screenshot of a
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.te#screenshot" title="తెరపట్టును తీయండి">Take a screenshot of a
      window.</a></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Prnt Scrn</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="తెరపట్టును తీయండి">Take a screenshot of an
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.te#screenshot" title="తెరపట్టును తీయండి">Take a screenshot of an
     area of the screen.</a></span> The pointer changes to a crosshair. Click and
     drag to select an area.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screencast" title="Make a screencast">Start and end screencast
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.te#screencast" title="Make a screencast">Start and end screencast
      recording.</a></span></p></td>
 </tr>
 </table></div>
@@ -211,12 +211,12 @@ information on navigating user interfaces with only the keyboard.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-overview.html#apps" title="Applications and windows">Applications and windows</a></li>
+<li class="links "><a href="shell-overview.html.te#apps" title="Applications and windows">Applications and windows</a></li>
 <li class="links ">
-<a href="keyboard.html" title="కీబోర్డు">కీబోర్డు</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">కీబోర్డు నమూనాలు</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Make the keyboard cursor blink">కర్సరు మిటకరణం</a></span>, <span class="link"><a href="a11y.html#mobility" title="చలన వైకల్యం">కీబోర్డు ప్రాపనీయత</a></span>…</span>
+<a href="keyboard.html.te" title="కీబోర్డు">కీబోర్డు</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.te" title="Use alternative keyboard layouts">కీబోర్డు నమూనాలు</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.te" title="Make the keyboard cursor blink">కర్సరు మిటకరణం</a></span>, <span class="link"><a href="a11y.html.te#mobility" title="చలన వైకల్యం">కీబోర్డు ప్రాపనీయత</a></span>…</span>
 </li>
 <li class="links ">
-<a href="tips.html" title="చిట్కాలు &amp; జిమ్మిక్కులు">చిట్కాలు &amp; జిమ్మిక్కులు</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Enter special characters">ప్రత్యేక అక్షరాలు</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Middle-click">మధ్య నొక్కు అడ్డదారులు</a></span>…</span>
+<a href="tips.html.te" title="చిట్కాలు &amp; జిమ్మిక్కులు">చిట్కాలు &amp; జిమ్మిక్కులు</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.te" title="Enter special characters">ప్రత్యేక అక్షరాలు</a></span>, <span class="link"><a href="mouse-middleclick.html.te" title="Middle-click">మధ్య నొక్కు అడ్డదారులు</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -224,20 +224,20 @@ information on navigating user interfaces with only the keyboard.</p>
 <div class="title"><h2><span class="title">ఇవి కూడా చూడండి</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-key-menu.html" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
+<a href="keyboard-key-menu.html.te" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
     rather than with a right-click.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html" title="What is the Super key?">What is the <span class="key"><kbd>Super</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
+<a href="keyboard-key-super.html.te" title="What is the Super key?">What is the <span class="key"><kbd>Super</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
     You can usually find it next to the <span class="key"><kbd>Alt</kbd></span> key on your
     keyboard.</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="కీబోర్డు అడ్డదారులను అమర్చండి">కీబోర్డు అడ్డదారులను అమర్చండి</a><span class="desc"> — Define or change keyboard shortcuts in <span class="gui">Keyboard</span>
+<a href="keyboard-shortcuts-set.html.te" title="కీబోర్డు అడ్డదారులను అమర్చండి">కీబోర్డు అడ్డదారులను అమర్చండి</a><span class="desc"> — Define or change keyboard shortcuts in <span class="gui">Keyboard</span>
     settings.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html" title="కీబోర్డు దిశానిర్దేశనం">కీబోర్డు దిశానిర్దేశనం</a><span class="desc"> — Use applications and the desktop without a mouse.</span>
+<a href="keyboard-nav.html.te" title="కీబోర్డు దిశానిర్దేశనం">కీబోర్డు దిశానిర్దేశనం</a><span class="desc"> — Use applications and the desktop without a mouse.</span>
 </li>
 </ul></div>
 </div></div>

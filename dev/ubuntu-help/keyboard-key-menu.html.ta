@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="keyboard.html" title="விசைப்பலகை">விசைப்பலகை</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="keyboard.html.ta" title="விசைப்பலகை">விசைப்பலகை</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="keyboard.html" title="விசைப்பலகை">விசைப்பலகை</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="keyboard.html.ta" title="விசைப்பலகை">விசைப்பலகை</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -64,15 +64,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="விசைப்பலகை">விசைப்பலகை</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">விசைப்பலகை லேயவுட்டுகள்</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="விசைப்பலகை சுட்டியை சிமிட்டச் செய்தல்">சுட்டி சிமிட்டல்</a></span>, <span class="link"><a href="a11y.html#mobility" title="நகர்வதிலான குறைபாடுகள்">விசைப்பலகை அணுகல் தன்மை</a></span>…</span>
+<a href="keyboard.html.ta" title="விசைப்பலகை">விசைப்பலகை</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ta" title="Use alternative keyboard layouts">விசைப்பலகை லேயவுட்டுகள்</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ta" title="விசைப்பலகை சுட்டியை சிமிட்டச் செய்தல்">சுட்டி சிமிட்டல்</a></span>, <span class="link"><a href="a11y.html.ta#mobility" title="நகர்வதிலான குறைபாடுகள்">விசைப்பலகை அணுகல் தன்மை</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="நகர்வதிலான குறைபாடுகள்">நகர்வதிலான குறைபாடுகள்</a></li>
+<li class="links "><a href="a11y.html.ta#mobility" title="நகர்வதிலான குறைபாடுகள்">நகர்வதிலான குறைபாடுகள்</a></li>
 <li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="பயனுள்ள விசைப்பலகை குறுக்குவழிகள்">பயனுள்ள விசைப்பலகை குறுக்குவழிகள்</a><span class="desc"> — விசைப்பலகையைப் பயன்படுத்தி பணிமேசையில் வலம் வருதல்.</span>
+<a href="shell-keyboard-shortcuts.html.ta" title="பயனுள்ள விசைப்பலகை குறுக்குவழிகள்">பயனுள்ள விசைப்பலகை குறுக்குவழிகள்</a><span class="desc"> — விசைப்பலகையைப் பயன்படுத்தி பணிமேசையில் வலம் வருதல்.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wireless.html" title="Bezdrátové sítě">Bezdrátové sítě</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové sítě</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Připojení k bezdrátové síti</span></h1></div>
@@ -51,21 +51,21 @@
 <div class="contents">
 <p class="p">Jestliže máte počítač s podporou bezdrátových sítí, můžete se k nějaké bezdrátové síti v dosahu připojit a získat tak přístup do Internetu, sdílet soubory v síti a pod.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete <span class="gui"><a href="shell-introduction.html#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> vpravo na horní liště.</p></li>
+<li class="steps"><p class="p">Otevřete <span class="gui"><a href="shell-introduction.html.cs#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> vpravo na horní liště.</p></li>
 <li class="steps"><p class="p">Vyberte <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>Wi-Fi   Nepřipojeno</span>. Oddíl Wi-Fi v nabídce se rozbalí.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Vybrat síť</span>.</p></li>
 <li class="steps">
 <p class="p">Klikněte na název sítě, ke které se chcete připojit, a pak klikněte na <span class="gui">Připojit</span>.</p>
-<p class="p">Pokud název sítě není v seznamu, zkuste kliknout na <span class="gui">Další</span>, abyste viděli i zbytek sítí v seznamu. Pokud ji i přesto nevidíte, jste možná mimo její dosah nebo <span class="link"><a href="net-wireless-hidden.html" title="Připojení ke skryté bezdrátové síti">může být skrytá</a></span>.</p>
+<p class="p">Pokud název sítě není v seznamu, zkuste kliknout na <span class="gui">Další</span>, abyste viděli i zbytek sítí v seznamu. Pokud ji i přesto nevidíte, jste možná mimo její dosah nebo <span class="link"><a href="net-wireless-hidden.html.cs" title="Připojení ke skryté bezdrátové síti">může být skrytá</a></span>.</p>
 </li>
 <li class="steps">
-<p class="p">Pokud je síť chráněná heslem (<span class="link"><a href="net-wireless-wepwpa.html" title="Co znamená WEP a WPA?">šifrovací klíč</a></span>), zadejte po vyzvání heslo a klikněte na <span class="gui">Připojit</span>.</p>
+<p class="p">Pokud je síť chráněná heslem (<span class="link"><a href="net-wireless-wepwpa.html.cs" title="Co znamená WEP a WPA?">šifrovací klíč</a></span>), zadejte po vyzvání heslo a klikněte na <span class="gui">Připojit</span>.</p>
 <p class="p">Pokud klíč neznáte, zkuste se podívat na spodní stranu bezdrátového směrovače/přístupového bodu, do příručky k němu nebo se zeptejte osoby, která má na starosti správu bezdrátové sítě.</p>
 </li>
 <li class="steps"><p class="p">Změní se ikona sítě, aby se dalo najevo, že počítač se pokouší připojit do sítě.</p></li>
 <li class="steps"><p class="p">Když je připojení úspěšné, změní se ikona na tečku s několika čárkami nad sebou (<span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>). Čárky ukazují sílu signálu bezdrátové sítě. Málo čárek znamená slabý signál a spojení pak může být velmi nespolehlivé.</p></li>
 </ol></div></div></div>
-<p class="p">Když připojení není úspěšné, můžete být znovu dotázáni na heslo nebo vám může být prostě oznámeno, že připojení bylo odpojeno. Existuje řada důvodů, proč se to může stát. Například jste mohli zadat nesprávné heslo, bezdrátový signál může být slabý nebo bezdrátová karta má nějaké problémy. Další nápovědu najdete v <span class="link"><a href="net-wireless-troubleshooting.html" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovými sítěmi</a></span>.</p>
+<p class="p">Když připojení není úspěšné, můžete být znovu dotázáni na heslo nebo vám může být prostě oznámeno, že připojení bylo odpojeno. Existuje řada důvodů, proč se to může stát. Například jste mohli zadat nesprávné heslo, bezdrátový signál může být slabý nebo bezdrátová karta má nějaké problémy. Další nápovědu najdete v <span class="link"><a href="net-wireless-troubleshooting.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovými sítěmi</a></span>.</p>
 <p class="p">Silnější signál bezdrátové sítě nutně neznamená, že máte rychlejší internetové připojení nebo rychlost stahování. Bezdrátové připojení spojuje váš počítač se <span class="em">zařízením, které poskytuje připojení do Internetu</span> (jako je směrovač nebo modem), ale jedná se o dvě fyzicky různá propojení, takže běží rozdílnými rychlostmi.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -74,17 +74,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Bezdrátové sítě">Bezdrátové sítě</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Připojení k bezdrátové síti">Připojení k Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Připojení ke skryté bezdrátové síti">Skryté sítě</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Proč se moje síť pořád odpojuje?">Odpojování</a></span>…</span>
+<a href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové sítě</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.cs" title="Připojení k bezdrátové síti">Připojení k Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.cs" title="Připojení ke skryté bezdrátové síti">Skryté sítě</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.cs" title="Proč se moje síť pořád odpojuje?">Odpojování</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless-disconnecting.html" title="Proč se moje síť pořád odpojuje?">Proč se moje síť pořád odpojuje?</a><span class="desc"> — Možná máte slabý signál nebo vám síť neumožňuje správné připojení.</span>
+<a href="net-wireless-disconnecting.html.cs" title="Proč se moje síť pořád odpojuje?">Proč se moje síť pořád odpojuje?</a><span class="desc"> — Možná máte slabý signál nebo vám síť neumožňuje správné připojení.</span>
 </li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovými sítěmi</a><span class="desc"> — Určení a oprava problémů s bezdrátovými připojeními.</span>
+<a href="net-wireless-troubleshooting.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovými sítěmi</a><span class="desc"> — Určení a oprava problémů s bezdrátovými připojeními.</span>
 </li>
 </ul></div>
 </div></div>

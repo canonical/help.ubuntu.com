@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="user-accounts.html" title="用户帐号">用户</a> › <a class="trail" href="user-accounts.html#manage" title="管理用户帐号">帐号</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="user-accounts.html.zh-CN" title="用户帐号">用户</a> › <a class="trail" href="user-accounts.html.zh-CN#manage" title="管理用户帐号">帐号</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Log in automatically</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">You can change your settings so that you are automatically logged in to
   your account when you start up your computer:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Users</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Users</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select the user account that you want to log in to automatically at
@@ -74,12 +74,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="管理用户帐号">管理用户帐号</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.zh-CN#manage" title="管理用户帐号">管理用户帐号</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-exit.html" title="Log out, power off or switch users">Log out, power off or switch users</a><span class="desc"> — 了解如何退出您的帐号，像注销、切换用户等等。</span>
+<a href="shell-exit.html.zh-CN" title="Log out, power off or switch users">Log out, power off or switch users</a><span class="desc"> — 了解如何退出您的帐号，像注销、切换用户等等。</span>
 </li></ul></div>
 </div></div>
 </div>

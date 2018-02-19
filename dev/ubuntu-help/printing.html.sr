@@ -43,37 +43,37 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Штампање</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html" title="Како могу да проверим нивое мастила или тонера у штампачу?"><span class="title">Како могу да проверим нивое мастила или тонера у штампачу?</span><span class="linkdiv-dash"> — </span><span class="desc">Проверите количину мастила или тонера у кертриџима штампача.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html" title="Штампајте у датотеку"><span class="title">Штампајте у датотеку</span><span class="linkdiv-dash"> — </span><span class="desc">Сачувајте документ као ПДФ, Посткрипт или СВГ датотеку уместо да га шаљете штампачу.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.sr" title="Како могу да проверим нивое мастила или тонера у штампачу?"><span class="title">Како могу да проверим нивое мастила или тонера у штампачу?</span><span class="linkdiv-dash"> — </span><span class="desc">Проверите количину мастила или тонера у кертриџима штампача.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html.sr" title="Штампајте у датотеку"><span class="title">Штампајте у датотеку</span><span class="linkdiv-dash"> — </span><span class="desc">Сачувајте документ као ПДФ, Посткрипт или СВГ датотеку уместо да га шаљете штампачу.</span></a></div>
 </div></div></div></div>
 <div id="setup" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Подесите штампач</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-setup.html" title="Подесите локални штампач"><span class="title">Подесите локални штампач</span><span class="linkdiv-dash"> — </span><span class="desc">Подесите штампач који је повезан на ваш рачунар.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-name-location.html" title="Измените назив или место штампача"><span class="title">Измените назив или место штампача</span><span class="linkdiv-dash"> — </span><span class="desc">Измените назив или место штампача у подешавањима истог.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-setup.html.sr" title="Подесите локални штампач"><span class="title">Подесите локални штампач</span><span class="linkdiv-dash"> — </span><span class="desc">Подесите штампач који је повезан на ваш рачунар.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-name-location.html.sr" title="Измените назив или место штампача"><span class="title">Измените назив или место штампача</span><span class="linkdiv-dash"> — </span><span class="desc">Измените назив или место штампача у подешавањима истог.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html" title="Подесите основни штампач"><span class="title">Подесите основни штампач</span><span class="linkdiv-dash"> — </span><span class="desc">Изаберите штампач који најчешће користите.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html.sr" title="Подесите основни штампач"><span class="title">Подесите основни штампач</span><span class="linkdiv-dash"> — </span><span class="desc">Изаберите штампач који најчешће користите.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="paper" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Различите величине папира и распореди</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-order.html" title="Одштампајте странице другачијим поретком"><span class="title">Одштампајте странице другачијим поретком</span><span class="linkdiv-dash"> — </span><span class="desc">Сложите и преокрените поредак штампања.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html" title="Промените величину папира док штампате"><span class="title">Промените величину папира док штампате</span><span class="linkdiv-dash"> — </span><span class="desc">Одштампајте документ на другачијој величини папира или усмерењу.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html" title="Штампајте двостране и вишестраничне распореде"><span class="title">Штампајте двостране и вишестраничне распореде</span><span class="linkdiv-dash"> — </span><span class="desc">Штампајте на обема странама папира, или више страница по листу.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-order.html.sr" title="Одштампајте странице другачијим поретком"><span class="title">Одштампајте странице другачијим поретком</span><span class="linkdiv-dash"> — </span><span class="desc">Сложите и преокрените поредак штампања.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html.sr" title="Промените величину папира док штампате"><span class="title">Промените величину папира док штампате</span><span class="linkdiv-dash"> — </span><span class="desc">Одштампајте документ на другачијој величини папира или усмерењу.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html.sr" title="Штампајте двостране и вишестраничне распореде"><span class="title">Штампајте двостране и вишестраничне распореде</span><span class="linkdiv-dash"> — </span><span class="desc">Штампајте на обема странама папира, или више страница по листу.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html" title="Штампајте коверте"><span class="title">Штампајте коверте</span><span class="linkdiv-dash"> — </span><span class="desc">Уверите се да сте коверту поставили како треба, и да сте изабрали одговарајућу величину папира.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html" title="Штампајте књижицу"><span class="title">Штампајте књижицу</span><span class="linkdiv-dash"> — </span><span class="desc">Како да штампате пресавијене, вишестраничне књижице користећи величину папира А4 или Писмо.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-select.html" title="Штампајте само одређене странице"><span class="title">Штампајте само одређене странице</span><span class="linkdiv-dash"> — </span><span class="desc">Штампајте само одређене странице, или само опсег страница.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.sr" title="Штампајте коверте"><span class="title">Штампајте коверте</span><span class="linkdiv-dash"> — </span><span class="desc">Уверите се да сте коверту поставили како треба, и да сте изабрали одговарајућу величину папира.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.sr" title="Штампајте књижицу"><span class="title">Штампајте књижицу</span><span class="linkdiv-dash"> — </span><span class="desc">Како да штампате пресавијене, вишестраничне књижице користећи величину папира А4 или Писмо.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-select.html.sr" title="Штампајте само одређене странице"><span class="title">Штампајте само одређене странице</span><span class="linkdiv-dash"> — </span><span class="desc">Штампајте само одређене странице, или само опсег страница.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -82,16 +82,16 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-streaks.html" title="Зашто се на одштампаним листовима виде пруге, линије или погрешне боје?"><span class="title">Зашто се на одштампаним листовима виде пруге, линије или погрешне боје?</span><span class="linkdiv-dash"> — </span><span class="desc">Ако су резултати штампања пругасти, бледи, или им недостају боје, проверите нивое мастила или очистите главе штампача.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html" title="Извуците заглављени папир"><span class="title">Извуците заглављени папир</span><span class="linkdiv-dash"> — </span><span class="desc">Како ћете извући заглављен папир зависиће од марке и модела вашег штампача.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-streaks.html.sr" title="Зашто се на одштампаним листовима виде пруге, линије или погрешне боје?"><span class="title">Зашто се на одштампаним листовима виде пруге, линије или погрешне боје?</span><span class="linkdiv-dash"> — </span><span class="desc">Ако су резултати штампања пругасти, бледи, или им недостају боје, проверите нивое мастила или очистите главе штампача.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html.sr" title="Извуците заглављени папир"><span class="title">Извуците заглављени папир</span><span class="linkdiv-dash"> — </span><span class="desc">Како ћете извући заглављен папир зависиће од марке и модела вашег штампача.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html" title="Откажите, паузирајте или отпустите посао штампања"><span class="title">Откажите, паузирајте или отпустите посао штампања</span><span class="linkdiv-dash"> — </span><span class="desc">Откажите заказани посао штампања и уклоните га из реда.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html.sr" title="Откажите, паузирајте или отпустите посао штампања"><span class="title">Откажите, паузирајте или отпустите посао штампања</span><span class="linkdiv-dash"> — </span><span class="desc">Откажите заказани посао штампања и уклоните га из реда.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Још података</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Општи проблеми">Хардверски проблеми</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.sr#problems" title="Општи проблеми">Хардверски проблеми</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -101,7 +101,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Хардвер и управљачки програми">Хардвер и управљачки програми</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Општи проблеми">Хардверски проблеми</a></span>, <span class="link"><a href="printing.html" title="Штампање">штампачи</a></span>, <span class="link"><a href="power.html" title="Напајање и батерија">подешавања напајања</a></span>, <span class="link"><a href="color.html" title="Управљање бојом">управљање бојом</a></span>, <span class="link"><a href="bluetooth.html" title="Блутут">Блутут</a></span>, <span class="link"><a href="disk.html" title="Дискови и складишта">дискови</a></span>…</span>
+<a href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер и управљачки програми</a><span class="desc"> — <span class="link"><a href="hardware.html.sr#problems" title="Општи проблеми">Хардверски проблеми</a></span>, <span class="link"><a href="printing.html.sr" title="Штампање">штампачи</a></span>, <span class="link"><a href="power.html.sr" title="Напајање и батерија">подешавања напајања</a></span>, <span class="link"><a href="color.html.sr" title="Управљање бојом">управљање бојом</a></span>, <span class="link"><a href="bluetooth.html.sr" title="Блутут">Блутут</a></span>, <span class="link"><a href="disk.html.sr" title="Дискови и складишта">дискови</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

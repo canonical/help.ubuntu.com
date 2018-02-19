@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="user-accounts.html" title="Gebruikersaccounts">Gebruikers</a> › <a class="trail" href="user-accounts.html#privileges" title="Gebruikersrechten">Rechten</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="user-accounts.html.nl" title="Gebruikersaccounts">Gebruikers</a> › <a class="trail" href="user-accounts.html.nl#privileges" title="Gebruikersrechten">Rechten</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">De persoon met beheersrechten wijzigen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Door het toekennen van beheersrechten wordt bepaald wie er belangrijke delen van het systeem mogen wijzigen. U kunt wijzigen welke gebruikers wel en welke geen beheersrechten hebben. Het is een goede manier om uw systeem veilig te houden en te voorkomen dat eventuele ongeautoriseerde wijzigingen worden aangebracht.</p>
-<p class="p">Om een accounttype te wijzigen dient u <span class="link"><a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">beheerder</a></span> te zijn. </p>
+<p class="p">Om een accounttype te wijzigen dient u <span class="link"><a href="user-admin-explain.html.nl" title="Hoe werken beheerdersrechten?">beheerder</a></span> te zijn. </p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Gebruikers</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Gebruikers</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Gebruikersaccounts</span> om het venster te openen.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Ontgrendelen</span> rechtsboven in de hoek en voer uw wachtwoord in wanneer daar om gevraagd wordt.</p></li>
 <li class="steps"><p class="p">Selecteer de gebruiker wiens rechten u wilt wijzigen.</p></li>
@@ -69,16 +69,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Gebruikersrechten">Gebruikersrechten</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.nl#privileges" title="Gebruikersrechten">Gebruikersrechten</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">Hoe werken beheerdersrechten?</a><span class="desc"> — U heeft beheerdersrechten nodig om belangrijke delen van uw systeem te wijzigen.</span>
+<a href="user-admin-explain.html.nl" title="Hoe werken beheerdersrechten?">Hoe werken beheerdersrechten?</a><span class="desc"> — U heeft beheerdersrechten nodig om belangrijke delen van uw systeem te wijzigen.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="Problemen veroorzaakt door beheerbeperkingen">Problemen veroorzaakt door beheerbeperkingen</a><span class="desc"> — U kunt een aantal dingen, zoals het installeren van toepassingen, alleen doen als u beheersrechten heeft.</span>
+<a href="user-admin-problems.html.nl" title="Problemen veroorzaakt door beheerbeperkingen">Problemen veroorzaakt door beheerbeperkingen</a><span class="desc"> — U kunt een aantal dingen, zoals het installeren van toepassingen, alleen doen als u beheersrechten heeft.</span>
 </li>
 </ul></div>
 </div></div>

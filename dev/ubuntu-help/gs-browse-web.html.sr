@@ -43,15 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Почетак коришћења">Почетак коришћења Гнома</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.sr" title="Почетак коришћења">Почетак коришћења Гнома</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="Приступање интернету">Претходно</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Повезивање са налозима на мрежи">Следеће</a>
+<a class="nextlinks-prev" href="gs-get-online.html.sr" title="Приступање интернету">Претходно</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.sr" title="Повезивање са налозима на мрежи">Следеће</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Прегледање интернета</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Померите ваш показивач миша у горњи леви угао екрана где пише <span class="gui">Активности</span> да би вам се приказао <span class="gui">преглед активности</span>.</p></li>
+<li class="steps"><p class="p">Изаберите <span class="app">Firefox</span> иконицу прегледача са траке на левој страни екрана.</p></li>
+</ol></div></div></div>
+<div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">Постоји и други начин за покретање прегледача, <span class="link"><a href="gs-use-system-search.html.sr" title="Коришћење претраге система">куцањем речи</a></span> <span class="em">Firefox</span> у <span class="gui">прегледу активности</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Кликните на траку са адресом у врху прозора прегледача и почните са куцањем веб странице коју желите да погледате.</p></li>
 <li class="steps">
 <p class="p">Куцањем веб странице се започиње претраживање историје прегледања и обележивача, тако да није потребно запамтити тачну адресу.</p>
@@ -59,9 +67,10 @@
 </li>
 <li class="steps"><p class="p">Можете брзо изабрати веб страницу из падајућег списка користећи стрелице на тастатури.</p></li>
 <li class="steps"><p class="p">Након што изаберете веб страницу, притисните тастер <span class="key"><kbd>Enter</kbd></span> да бисте је отворили.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="Приступање интернету">Претходно</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Повезивање са налозима на мрежи">Следеће</a>
+<a class="nextlinks-prev" href="gs-get-online.html.sr" title="Приступање интернету">Претходно</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.sr" title="Повезивање са налозима на мрежи">Следеће</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -69,13 +78,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Почетак коришћења">Почетак коришћења Гнома</a><span class="desc"> — Први пут користите Гном? Научите да га користите.</span>
+<a href="getting-started.html.sr" title="Почетак коришћења">Почетак коришћења Гнома</a><span class="desc"> — Први пут користите Гном? Научите да га користите.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Веб прегледници">Веб прегледници</a><span class="desc"> — <span class="link"><a href="net-default-browser.html" title="Измените у ком веб прегледнику се отварају веб сајтови">Промените основни прегледник</a></span>, <span class="link"><a href="net-install-flash.html" title="Инсталирајте прикључак Флеш">инсталирајте Флеш</a></span>…</span>
+<a href="net-browser.html.sr" title="Веб прегледници">Веб прегледници</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.sr" title="Измените у ком веб прегледнику се отварају веб сајтови">Промените основни прегледник</a></span>, <span class="link"><a href="net-install-flash.html.sr" title="Инсталирајте прикључак Флеш">инсталирајте Флеш</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

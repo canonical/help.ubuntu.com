@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="keyboard.html" title="Clavier">Clavier</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="keyboard.html.fr" title="Clavier">Clavier</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="keyboard.html" title="Clavier">Clavier</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Définition de raccourcis clavier">Définition de raccourcis clavier</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="keyboard.html.fr" title="Clavier">Clavier</a> » <a class="trail" href="keyboard-shortcuts-set.html.fr" title="Définition de raccourcis clavier">Définition de raccourcis clavier</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="keyboard.html" title="Clavier">Clavier</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="keyboard.html.fr" title="Clavier">Clavier</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="keyboard.html" title="Clavier">Clavier</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Définition de raccourcis clavier">Définition de raccourcis clavier</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="keyboard.html.fr" title="Clavier">Clavier</a> » <a class="trail" href="keyboard-shortcuts-set.html.fr" title="Définition de raccourcis clavier">Définition de raccourcis clavier</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="prefs-language.html" title="Pays &amp; langue.">Pays &amp; langue.</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="prefs-language.html.fr" title="Pays &amp; langue.">Pays &amp; langue.</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,7 +61,7 @@
 <div class="contents">
 <p class="p">Il existe des centaines d'agencements de claviers différents pour les différentes langues. Même pour une seule langue, il existe souvent de nombreux agencements de clavier, comme l'agencement Dvorak pour l'anglais. Vous pouvez modifier votre clavier afin qu'il se comporte comme un autre clavier, sans tenir compte des lettres et des symboles imprimés sur les touches. C'est utile si vous jonglez souvent entre plusieurs langues.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Pays et langue</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">+</span> button in the <span class="gui">Input Sources</span> section,
@@ -102,7 +102,7 @@
   <span class="gui">Input Source</span> <span class="gui">Keyboard Shortcuts</span>. These shortcuts open 
   the <span class="gui">Input Source</span> chooser where you can move forward and backward. 
   By default, you can switch to the next input source with 
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Qu'est-ce que la touche Logo ?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
+  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.fr" title="Qu'est-ce que la touche Logo ?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
   and to the previous one with
   <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span>. You can
   change these shortcuts in the <span class="gui">Keyboard</span> settings.</p>
@@ -115,20 +115,20 @@
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Clavier">Clavier</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Utiliser des configurations de clavier alternatives">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span>
+<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.fr" title="Utiliser des configurations de clavier alternatives">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fr" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html.fr#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Définition de raccourcis clavier">Définition de raccourcis clavier</a><span class="desc"> — Définir ou modifier les raccourcis clavier dans les paramètres <span class="gui">Clavier</span>.</span>
+<a href="keyboard-shortcuts-set.html.fr" title="Définition de raccourcis clavier">Définition de raccourcis clavier</a><span class="desc"> — Définir ou modifier les raccourcis clavier dans les paramètres <span class="gui">Clavier</span>.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Pays &amp; langue.">Pays &amp; langue.</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Modification de la langue">Langue</a></span>, <span class="link"><a href="session-formats.html" title="Modification des formats de la date et du système de mesure">région et formats</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Utiliser des configurations de clavier alternatives">agencement du clavier</a></span>…</span>
+<a href="prefs-language.html.fr" title="Pays &amp; langue.">Pays &amp; langue.</a><span class="desc"> — <span class="link"><a href="session-language.html.fr" title="Modification de la langue">Langue</a></span>, <span class="link"><a href="session-formats.html.fr" title="Modification des formats de la date et du système de mesure">région et formats</a></span>, <span class="link"><a href="keyboard-layouts.html.fr" title="Utiliser des configurations de clavier alternatives">agencement du clavier</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips-specialchars.html" title="Saisie de caractères spéciaux">Saisie de caractères spéciaux</a><span class="desc"> — Saisir des caractères absents de votre clavier, y compris des alphabets étrangers, des symboles mathématiques et des caractères Unicode.</span>
+<a href="tips-specialchars.html.fr" title="Saisie de caractères spéciaux">Saisie de caractères spéciaux</a><span class="desc"> — Saisir des caractères absents de votre clavier, y compris des alphabets étrangers, des symboles mathématiques et des caractères Unicode.</span>
 </li></ul></div>
 </div></div>
 </div>

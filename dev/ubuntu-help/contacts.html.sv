@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kontakter</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Använd <span class="app">Kontakter</span> för att spara, hantera eller redigera information om dina kontakter, lokalt eller i dina <span class="link"><a href="accounts.html" title="Nätkonton">Nätkonton</a></span>.</p>
+<p class="p">Använd <span class="app">Kontakter</span> för att spara, hantera eller redigera information om dina kontakter, lokalt eller i dina <span class="link"><a href="accounts.html.sv" title="Nätkonton">Nätkonton</a></span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html" title="Starta Kontakter för första gången"><span class="title">Starta Kontakter för första gången</span><span class="linkdiv-dash"> — </span><span class="desc">Lagra dina kontakter i en lokal adressbok eller via ett nätkonto.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html" title="Koppla ihop dig med din kontakt"><span class="title">Koppla ihop dig med din kontakt</span><span class="linkdiv-dash"> — </span><span class="desc">E-posta, chatta med eller ring en kontakt.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html" title="Lägg till eller ta bort en kontakt"><span class="title">Lägg till eller ta bort en kontakt</span><span class="linkdiv-dash"> — </span><span class="desc">Lägg till eller ta bort en kontakt i den lokala adressboken.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html" title="Länka och avlänka kontakter"><span class="title">Länka och avlänka kontakter</span><span class="linkdiv-dash"> — </span><span class="desc">Kombinera information för en kontakt från flera källor.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html" title="Redigera kontaktdetaljer"><span class="title">Redigera kontaktdetaljer</span><span class="linkdiv-dash"> — </span><span class="desc">Redigera informationen för varje kontakt.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-search.html" title="Sök efter en kontakt"><span class="title">Sök efter en kontakt</span><span class="linkdiv-dash"> — </span><span class="desc">Sök efter en kontakt.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.sv" title="Starta Kontakter för första gången"><span class="title">Starta Kontakter för första gången</span><span class="linkdiv-dash"> — </span><span class="desc">Lagra dina kontakter i en lokal adressbok eller via ett nätkonto.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.sv" title="Koppla ihop dig med din kontakt"><span class="title">Koppla ihop dig med din kontakt</span><span class="linkdiv-dash"> — </span><span class="desc">E-posta, chatta med eller ring en kontakt.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html.sv" title="Lägg till eller ta bort en kontakt"><span class="title">Lägg till eller ta bort en kontakt</span><span class="linkdiv-dash"> — </span><span class="desc">Lägg till eller ta bort en kontakt i den lokala adressboken.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html.sv" title="Länka och avlänka kontakter"><span class="title">Länka och avlänka kontakter</span><span class="linkdiv-dash"> — </span><span class="desc">Kombinera information för en kontakt från flera källor.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.sv" title="Redigera kontaktdetaljer"><span class="title">Redigera kontaktdetaljer</span><span class="linkdiv-dash"> — </span><span class="desc">Redigera informationen för varje kontakt.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-search.html.sv" title="Sök efter en kontakt"><span class="title">Sök efter en kontakt</span><span class="linkdiv-dash"> — </span><span class="desc">Sök efter en kontakt.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Trådlösa nätverk">Trådlöst</a></span>, <span class="link"><a href="net-wired.html" title="Trådbundna nätverk">trådbundet</a></span>, <span class="link"><a href="net-problem.html" title="Nätverksproblem">anslutningsproblem</a></span>, <span class="link"><a href="net-browser.html" title="Webbläsare">webbsurfning</a></span>, <span class="link"><a href="net-email.html" title="E-post &amp; e-postprogramvara">e-postkonton</a></span>…</span>
+<a href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlöst</a></span>, <span class="link"><a href="net-wired.html.sv" title="Trådbundna nätverk">trådbundet</a></span>, <span class="link"><a href="net-problem.html.sv" title="Nätverksproblem">anslutningsproblem</a></span>, <span class="link"><a href="net-browser.html.sv" title="Webbläsare">webbsurfning</a></span>, <span class="link"><a href="net-email.html.sv" title="E-post &amp; e-postprogramvara">e-postkonton</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

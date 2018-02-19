@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Yksityisyysasetukset</span></h1></div>
@@ -54,12 +54,12 @@
   use these settings to clear your computer usage history and clean out
   unnecessary files.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html" title="Näytön automaattinen lukitseminen"><span class="title">Näytön automaattinen lukitseminen</span><span class="linkdiv-dash"> — </span><span class="desc">Estä muita henkilöitä käyttämästä tietokonetta, kun lähdet pois sen luota.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
+<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.fi" title="Näytön automaattinen lukitseminen"><span class="title">Näytön automaattinen lukitseminen</span><span class="linkdiv-dash"> — </span><span class="desc">Estä muita henkilöitä käyttämästä tietokonetta, kun lähdet pois sen luota.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.fi" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
     from your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.fi" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
     files.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-location.html" title="Hallitse paikannuspalveluita"><span class="title">Hallitse paikannuspalveluita</span><span class="linkdiv-dash"> — </span><span class="desc">Ota käyttöön tai poista käytöstä sijainnin paikantaminen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-location.html.fi" title="Hallitse paikannuspalveluita"><span class="title">Hallitse paikannuspalveluita</span><span class="linkdiv-dash"> — </span><span class="desc">Ota käyttöön tai poista käytöstä sijainnin paikantaminen.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html" title="Hiiri">hiiri</a></span>, <span class="link"><a href="prefs-display.html" title="Näyttö">näytöt</a></span>, <span class="link"><a href="prefs-language.html" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html" title="Käyttäjätilit">käyttäjätilit</a></span>…</span>
+<a href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a><span class="desc"> — <span class="link"><a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html.fi" title="Hiiri">hiiri</a></span>, <span class="link"><a href="prefs-display.html.fi" title="Näyttö">näytöt</a></span>, <span class="link"><a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html.fi" title="Käyttäjätilit">käyttäjätilit</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

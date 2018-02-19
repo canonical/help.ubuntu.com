@@ -44,17 +44,17 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="power.html" title="Napájení a baterie">Napájení a baterie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="power.html" title="Napájení a baterie">Napájení a baterie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Proč se můj počítač vypne, když zavřu víko?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Když zavřete víko svého notebooku, počítač se <span class="link"><a href="power-suspend.html" title="Co se stane, když svůj počítač uspím?"><span class="em">uspí do paměti</span></a></span>, aby šetřil energií. To znamená, že počítač není přímo vypnutý – prostě jen spí. Probudit jej můžete otevřením víka. Pokud se neprobudí, zkuste kliknout myší nebo zmáčknout klávesu. Pokud se stále neprobouzí, zmáčkněte tlačítko napájení.</p>
-<p class="p">Některé počítač se nedokáží správně uspat, protože jejich hardware není zcela podporován operačním systémem (například jsou linuxové ovladače neúplné). V takovémto případě můžete zjistit, že po uspání počítače zavřením víka jej již nedokážete probudit. Můžete zkusit <span class="link"><a href="power-suspendfail.html" title="Proč se můj počítač nechce znovu zapnout po jeho uspání?">problém s uspáváním opravit</a></span> nebo počítači zakázat pokoušet se uspat při zavření víka.</p>
+<p class="p">Když zavřete víko svého notebooku, počítač se <span class="link"><a href="power-suspend.html.cs" title="Co se stane, když svůj počítač uspím?"><span class="em">uspí do paměti</span></a></span>, aby šetřil energií. To znamená, že počítač není přímo vypnutý – prostě jen spí. Probudit jej můžete otevřením víka. Pokud se neprobudí, zkuste kliknout myší nebo zmáčknout klávesu. Pokud se stále neprobouzí, zmáčkněte tlačítko napájení.</p>
+<p class="p">Některé počítač se nedokáží správně uspat, protože jejich hardware není zcela podporován operačním systémem (například jsou linuxové ovladače neúplné). V takovémto případě můžete zjistit, že po uspání počítače zavřením víka jej již nedokážete probudit. Můžete zkusit <span class="link"><a href="power-suspendfail.html.cs" title="Proč se můj počítač nechce znovu zapnout po jeho uspání?">problém s uspáváním opravit</a></span> nebo počítači zakázat pokoušet se uspat při zavření víka.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Zabránění počítači v uspání při zavření víka</span></h2></div>
@@ -64,10 +64,10 @@
 <p class="p">Jestliže nechcete, aby se váš počítač uspával při zavření víka, můžete změnit nastavení pro toto chování.</p>
 <div class="note note-warning" title="Varování"><div class="inner"><div class="region"><div class="contents"><p class="p">Při změně tohoto nastavení buďte obezřetní. Některé notebooky se mohou přehřívat, když zůstanou běžet se zavřeným víkem, hlavně když jsou v uzavřeném prostoru, třeba v batohu.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Vyladění</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Vyladění</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Vyladění</span> otevřete aplikaci.</p></li>
 <li class="steps"><p class="p">Klikněte na kartu <span class="gui">Napájení</span>.</p></li>
-<li class="steps"><p class="p">Přepněte vypínač <span class="gui">Neuspávat při zavření víka</span> na <span class="gui">❙</span> (zapnuto).</p></li>
+<li class="steps"><p class="p">Přepněte vypínač <span class="gui">Při zavření víka uspat do paměti</span> na <span class="gui">❙</span> (zapnuto).</p></li>
 <li class="steps"><p class="p">Zavřete okno <span class="gui">Vyladění</span>.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -78,17 +78,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Napájení a baterie">Napájení a baterie</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Kontrola stavu baterie">Stav baterie</a></span>, <span class="link"><a href="power-suspend.html" title="Co se stane, když svůj počítač uspím?">uspání</a></span>, <span class="link"><a href="power-whydim.html" title="Proč moje obrazovka po krátké době potemní?">stmívání obrazovky</a></span>…</span>
+<a href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a><span class="desc"> — <span class="link"><a href="power-status.html.cs" title="Kontrola stavu baterie">Stav baterie</a></span>, <span class="link"><a href="power-suspend.html.cs" title="Co se stane, když svůj počítač uspím?">uspání</a></span>, <span class="link"><a href="power-whydim.html.cs" title="Proč moje obrazovka po krátké době potemní?">stmívání obrazovky</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspend.html" title="Co se stane, když svůj počítač uspím?">Co se stane, když svůj počítač uspím?</a><span class="desc"> — Uspáním se pozastaví běh vašeho počítač, aby se snížila spotřeba.</span>
+<a href="power-suspend.html.cs" title="Co se stane, když svůj počítač uspím?">Co se stane, když svůj počítač uspím?</a><span class="desc"> — Uspáním se pozastaví běh vašeho počítač, aby se snížila spotřeba.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Proč se můj počítač nechce znovu zapnout po jeho uspání?">Proč se můj počítač nechce znovu zapnout po jeho uspání?</a><span class="desc"> — Některý hardware způsobuje problémy s uspáním do paměti.</span>
+<a href="power-suspendfail.html.cs" title="Proč se můj počítač nechce znovu zapnout po jeho uspání?">Proč se můj počítač nechce znovu zapnout po jeho uspání?</a><span class="desc"> — Některý hardware způsobuje problémy s uspáním do paměti.</span>
 </li>
 </ul></div>
 </div></div>

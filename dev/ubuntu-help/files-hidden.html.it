@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="File, cartelle e ricerche">File</a> › <a class="trail" href="files.html#faq" title="Suggerimenti e domande">Suggerimenti e domande</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.it" title="File, cartelle e ricerche">File</a> › <a class="trail" href="files.html.it#faq" title="Suggerimenti e domande">Suggerimenti e domande</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nascondere un file</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">The <span class="app">Files</span> file manager gives you the ability to hide and unhide
   files at your discretion. When a file is hidden, it is not displayed by the
   file manager, but it is still there in its folder.</p>
-<p class="p">To hide a file, <span class="link"><a href="files-rename.html" title="Rinominare un file o una cartella">rename it</a></span> with a
+<p class="p">To hide a file, <span class="link"><a href="files-rename.html.it" title="Rinominare un file o una cartella">rename it</a></span> with a
   <span class="file">.</span> at the beginning of its name. For example, to hide a file
   named <span class="file">example.txt</span>, you should rename it to
   <span class="file">.example.txt</span>.</p>
@@ -90,11 +90,11 @@
   view options button in the toolbar and pick <span class="gui">Show Hidden Files</span>, or
   press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> to hide any other hidden
   files again.</p>
-<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">Per impostazione predefinita, nel gestore di file verranno mostrati i file nascosti fino alla sua chiusura. Affinché il gestore di file mostri sempre i file nascosti, consultare <span class="link"><a href="nautilus-views.html" title="Views preferences in Files">Views preferences in <span class="app">Files</span></a></span>.</p></div></div></div></div>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">Per impostazione predefinita, nel gestore di file verranno mostrati i file nascosti fino alla sua chiusura. Affinché il gestore di file mostri sempre i file nascosti, consultare <span class="link"><a href="nautilus-views.html.it" title="Views preferences in Files">Views preferences in <span class="app">Files</span></a></span>.</p></div></div></div></div>
 <div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">Most hidden files will have a <span class="file">.</span> at the
   beginning of their name, but others might have a <span class="file">~</span> at the end of
   their name instead. These files are backup files. See
-  <span class="link"><a href="files-tilde.html" title="What is a file with a ~ at the end of its name?">What is a file with a <span class="file">~</span> at the end of its name?</a></span> for more information.</p></div></div></div></div>
+  <span class="link"><a href="files-tilde.html.it" title="What is a file with a ~ at the end of its name?">What is a file with a <span class="file">~</span> at the end of its name?</a></span> for more information.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -102,12 +102,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Suggerimenti e domande">Suggerimenti e domande</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.it#faq" title="Suggerimenti e domande">Suggerimenti e domande</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-tilde.html" title="What is a file with a ~ at the end of its name?">What is a file with a <span class="file">~</span> at the end of its name?</a><span class="desc"> — Questi sono file di backup, nascosti per impostazione predefinita.</span>
+<a href="files-tilde.html.it" title="What is a file with a ~ at the end of its name?">What is a file with a <span class="file">~</span> at the end of its name?</a><span class="desc"> — Questi sono file di backup, nascosti per impostazione predefinita.</span>
 </li></ul></div>
 </div></div>
 </div>

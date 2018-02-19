@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="accounts.html" title="Účty on-line">Účty on-line</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="accounts.html.cs" title="Účty on-line">Účty on-line</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Služby a aplikace on-line</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Jakmile přidáte účet on-line, může použít kterákoliv aplikace kteroukoliv dostupnou službu, kterou jste <span class="link"><a href="accounts-disable-service.html" title="Řízení, který účet služby on-line může být použit k přístupu">nezakázali</a></span>. Různí poskytovatelé poskytují různé služby. Na této stránce je uveden seznam různých služeb a u nich některé aplikace, o kterých je známo, že je používají.</p>
+<p class="p">Jakmile přidáte účet on-line, může použít kterákoliv aplikace kteroukoliv dostupnou službu, kterou jste <span class="link"><a href="accounts-disable-service.html.cs" title="Řízení, který účet služby on-line může být použit k přístupu">nezakázali</a></span>. Různí poskytovatelé poskytují různé služby. Na této stránce je uveden seznam různých služeb a u nich některé aplikace, o kterých je známo, že je používají.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Kalendář</dt>
 <dd class="terms"><p class="p">Kalendářová služba umožňuje zobrazovat, přidávat a upravovat události v kalendáři on-line. Je používána aplikacemi jako <span class="app">Kalendář</span>, <span class="app">Evolution</span> a <span class="app">California</span>.</p></dd>
@@ -60,7 +60,7 @@
 <dt class="terms">Dokumenty</dt>
 <dd class="terms"><p class="p">Dokumentová služba umožňuje zobrazit vaše dokumenty uložené on-line, jako třeba Google Docs. Své dokumenty si můžete prohlížet pomocí aplikace <span class="app">Dokumenty</span>.</p></dd>
 <dt class="terms">Soubory</dt>
-<dd class="terms"><p class="p">Souborová služba přidává vzdálené úložiště souborů, stejně jako když nějaké přidáte pomocí funkce <span class="link"><a href="nautilus-connect.html" title="Procházení souborů na serveru nebo síťovém sdílení">Připojit k serveru</a></span> ve správci souborů. Ke vzdáleným souborům se můžete dostat ve správci souborů i v dialogových oknech pro otevření a uložení souboru v kterékoliv aplikaci.</p></dd>
+<dd class="terms"><p class="p">Souborová služba přidává vzdálené úložiště souborů, stejně jako když nějaké přidáte pomocí funkce <span class="link"><a href="nautilus-connect.html.cs" title="Procházení souborů na serveru nebo síťovém sdílení">Připojit k serveru</a></span> ve správci souborů. Ke vzdáleným souborům se můžete dostat ve správci souborů i v dialogových oknech pro otevření a uložení souboru v kterékoliv aplikaci.</p></dd>
 <dt class="terms">✉ (Mail/symbol obálky)</dt>
 <dd class="terms"><p class="p">Poštovní služba umožňuje odesílat a přijímat elektronickou poštu přes poskytovatele jako je Google. Je používána aplikací <span class="app">Evolution</span>.</p></dd>
 <dt class="terms">Fotografie</dt>
@@ -77,13 +77,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Účty on-line">Účty on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Přidání účtu">Přidání účtu on-line</a></span>, <span class="link"><a href="accounts-remove.html" title="Odebrání účtu">odebrání účtu on-line</a></span>, <span class="link"><a href="accounts-which-application.html" title="Služby a aplikace on-line">něco o službách</a></span>…</span>
+<a href="accounts.html.cs" title="Účty on-line">Účty on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html.cs" title="Přidání účtu">Přidání účtu on-line</a></span>, <span class="link"><a href="accounts-remove.html.cs" title="Odebrání účtu">odebrání účtu on-line</a></span>, <span class="link"><a href="accounts-which-application.html.cs" title="Služby a aplikace on-line">něco o službách</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="Řízení, který účet služby on-line může být použit k přístupu">Řízení, který účet služby on-line může být použit k přístupu</a><span class="desc"> — Některé účty on-line nabízí přístup k více službám (třeba kalendáři a e-mailu). Můžete řídit, které z těchto služeb mohou být použity aplikacemi.</span>
+<a href="accounts-disable-service.html.cs" title="Řízení, který účet služby on-line může být použit k přístupu">Řízení, který účet služby on-line může být použit k přístupu</a><span class="desc"> — Některé účty on-line nabízí přístup k více službám (třeba kalendáři a e-mailu). Můžete řídit, které z těchto služeb mohou být použity aplikacemi.</span>
 </li></ul></div>
 </div></div>
 </div>

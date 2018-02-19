@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="printing.html" title="Tiskanje">Tiskanje</a> › <a class="trail" href="printing.html#setup" title="Nastavitev tiskalnika">Namestavitev</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="printing.html.sl" title="Tiskanje">Tiskanje</a> › <a class="trail" href="printing.html.sl#setup" title="Nastavitev tiskalnika">Namestavitev</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nastavitev privzetega tiskalnika</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">V primeru da imate na voljo več kot en tiskalnik, lahko izberete svoj privzeti tiskalnik. Morda želite izbrati tiskalnik, ki ga najbolj pogosto uporabljate.</p>
-<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">You need <span class="link"><a href="user-admin-explain.html" title="Kako delujejo skrbniška dovoljenja?">administrative privileges</a></span>
+<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">You need <span class="link"><a href="user-admin-explain.html.sl" title="Kako delujejo skrbniška dovoljenja?">administrative privileges</a></span>
     on the system to set the default printer.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Kliknite <span class="gui">Tiskalniki</span>.</p></li>
 <li class="steps"><p class="p">S seznama razpoložljivih tiskalnikov izberite svoj želeni privzeti tiskalnik.</p></li>
@@ -68,17 +68,17 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Nastavitev tiskalnika">Nastavitev tiskalnika</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.sl#setup" title="Nastavitev tiskalnika">Nastavitev tiskalnika</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Kako delujejo skrbniška dovoljenja?">Kako delujejo skrbniška dovoljenja?</a><span class="desc"> — You need administrative privileges to change important parts of your
+<a href="user-admin-explain.html.sl" title="Kako delujejo skrbniška dovoljenja?">Kako delujejo skrbniška dovoljenja?</a><span class="desc"> — You need administrative privileges to change important parts of your
     system.</span>
 </li>
 <li class="links ">
-<a href="printing-setup.html" title="Nastavitev krajevnega tiskalnika">Nastavitev krajevnega tiskalnika</a><span class="desc"> — Nastavite tiskalnik, ki je povezan z vašim računalnikom.</span>
+<a href="printing-setup.html.sl" title="Nastavitev krajevnega tiskalnika">Nastavitev krajevnega tiskalnika</a><span class="desc"> — Nastavite tiskalnik, ki je povezan z vašim računalnikom.</span>
 </li>
 </ul></div>
 </div></div>

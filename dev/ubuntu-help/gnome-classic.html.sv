@@ -48,15 +48,15 @@
 <div class="region">
 <div class="contents">
 <p class="p"><span class="em">GNOME Klassisk</span> är en funktion för användare som föredrar en mer traditionell skrivbordsupplevelse. Medan <span class="em">GNOME Klassisk</span> är baserad på <span class="em">GNOME 3</span>-teknologier så erbjuder den ett par ändringar av användargränssnittet så som menyerna <span class="gui">Program</span> och <span class="gui">Platser</span> i systemraden och en fönsterlista längst ner på skärmen.</p>
-<p class="p">Du kan använda <span class="gui">Program</span>-menyn i systemraden för att starta program. Översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> är tillgänglig genom att välja objektet <span class="gui">Aktivitetsöversikt</span> från menyn.</p>
-<p class="p">För att nå <span class="em">översiktsvyn <span class="gui">Aktiviteter</span></span> kan du också trycka på tangenten <span class="key"><a href="keyboard-key-super.html" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>.</p>
+<p class="p">Du kan använda <span class="gui">Program</span>-menyn i systemraden för att starta program. Översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> är tillgänglig genom att välja objektet <span class="gui">Aktivitetsöversikt</span> från menyn.</p>
+<p class="p">För att nå <span class="em">översiktsvyn <span class="gui">Aktiviteter</span></span> kan du också trycka på tangenten <span class="key"><a href="keyboard-key-super.html.sv" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>.</p>
 </div>
 <div id="gnome-classic-window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Fönsterlist</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Fönsterlisten längst ner på skärmen ger tillgång till alla dina öppna fönster och program och låter dig snabbt minimera och återställa dem.</p>
 <p class="p">Till höger på fönsterlisten visar GNOME en kort namn på den aktuella arbetsytan, exempelvis <span class="gui">1</span> för den första (översta) arbetsytan. Dessutom visas det totala antalet arbetsytor. För att växla mellan olika arbetsytor kan du klicka på namnet och välja arbetsytan du önskar från menyn.</p>
-<p class="p">Om ett program eller en systemkomponent vill få din uppmärksamhet kommer det att visa en blå ikon i till höger i fönsterlisten. Om du klickar på den blå ikonen visas <span class="link"><a href="shell-notifications.html" title="Aviseringar och meddelandefältet">meddelandefältet</a></span> som låter dig nå alla dina aviseringar.</p>
+<p class="p">Om ett program eller en systemkomponent vill få din uppmärksamhet kommer det att visa en blå ikon i till höger i fönsterlisten. Om du klickar på den blå ikonen visas <span class="link"><a href="shell-notifications.html.sv" title="Aviseringar och meddelandefältet">meddelandefältet</a></span> som låter dig nå alla dina aviseringar.</p>
 </div></div>
 </div></div>
 <div id="gnome-classic-switch" class="sect"><div class="inner">

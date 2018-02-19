@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Namizje</a> › <a class="trail" href="shell-overview.html#apps" title="Programi in okna">Programi in okna</a> » <a class="trail" href="shell-windows.html" title="Okna in delovne površine">Okna in delovne površine</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Delo z delovnimi površinami">Delovne površine</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="shell-overview.html.sl" title="Your desktop">Namizje</a> › <a class="trail" href="shell-overview.html.sl#apps" title="Programi in okna">Programi in okna</a> » <a class="trail" href="shell-windows.html.sl" title="Okna in delovne površine">Okna in delovne površine</a> › <a class="trail" href="shell-windows.html.sl#working-with-workspaces" title="Delo z delovnimi površinami">Delovne površine</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Premakne trenutno okno na drugo delovno površino</span></h1></div>
@@ -53,9 +53,9 @@
 <div class="title title-steps"><h2><span class="title">Uporaba miške:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview.</p></li>
 <li class="steps"><p class="p">Kliknite in povlecite okno na desni del zaslona.</p></li>
-<li class="steps"><p class="p">The <span class="em"><a href="shell-workspaces.html" title="Kaj je delovna površina in kako mi bo pomagala?">workspace selector</a></span> will
+<li class="steps"><p class="p">The <span class="em"><a href="shell-workspaces.html.sl" title="Kaj je delovna površina in kako mi bo pomagala?">workspace selector</a></span> will
       appear.</p></li>
 <li class="steps"><p class="p">Drop the window onto an empty
       workspace. This workspace now contains the window you have dropped, and a
@@ -67,8 +67,8 @@
 <div class="title title-steps"><h2><span class="title">Uporaba tipkovnice:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Select the window that you want to move (for example, using the
-      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
-      <span class="em"><a href="shell-windows-switching.html" title="Preklop med okni">window switcher</a></span>).</p></li>
+      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.sl" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
+      <span class="em"><a href="shell-windows-switching.html.sl" title="Preklop med okni">window switcher</a></span>).</p></li>
 <li class="steps">
 <p class="p">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page
       Up</kbd></span></span> to move the window to a workspace which is above the
@@ -85,12 +85,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Delo z delovnimi površinami">Delo z delovnimi površinami</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.sl#working-with-workspaces" title="Delo z delovnimi površinami">Delo z delovnimi površinami</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-workspaces.html" title="Kaj je delovna površina in kako mi bo pomagala?">Kaj je delovna površina in kako mi bo pomagala?</a><span class="desc"> — Delovne površine so način za združevanje oken na vašem namizju.</span>
+<a href="shell-workspaces.html.sl" title="Kaj je delovna površina in kako mi bo pomagala?">Kaj je delovna površina in kako mi bo pomagala?</a><span class="desc"> — Delovne površine so način za združevanje oken na vašem namizju.</span>
 </li></ul></div>
 </div></div>
 </div>

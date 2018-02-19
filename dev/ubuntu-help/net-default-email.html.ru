@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html" title="Электронная почта и почтовые программы">Электронная почта и почтовые программы</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html.ru" title="Электронная почта и почтовые программы">Электронная почта и почтовые программы</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Выбор другого почтового приложения для создания писем</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">При нажатии на кнопке или ссылке для создания электронного сообщения (например, в текстовом редакторе), открывается используемое по умолчанию почтовое приложение с бланком письма, готовым к заполнению. Если у вас установлено несколько почтовых приложений, может открываться не то, которое вам нужно. Это можно исправить, изменив используемое по умолчанию почтовое приложение:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Details</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Подробности</span>, чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Выберите <span class="gui">Приложения по умолчанию</span> в списке с левой стороны окна.</p></li>
@@ -63,9 +63,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email.html" title="Электронная почта и почтовые программы">Электронная почта и почтовые программы</a><span class="desc"> — 
-      <span class="link"><a href="net-default-email.html" title="Выбор другого почтового приложения для создания писем">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html" title="Нужно ли сканировать свою электронную почту на наличие вирусов?">Should I scan for viruses?</a></span>…
+<a href="net-email.html.ru" title="Электронная почта и почтовые программы">Электронная почта и почтовые программы</a><span class="desc"> — 
+      <span class="link"><a href="net-default-email.html.ru" title="Выбор другого почтового приложения для создания писем">Default email apps</a></span>,
+      <span class="link"><a href="net-email-virus.html.ru" title="Нужно ли сканировать свою электронную почту на наличие вирусов?">Should I scan for viruses?</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

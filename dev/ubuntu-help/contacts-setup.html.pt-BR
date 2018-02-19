@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="contacts.html" title="Contatos">Contatos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="contacts.html.pt-BR" title="Contatos">Contatos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Iniciando Contatos pela primeira vez</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Quando você executar <span class="app">Contatos</span> pela primeira vez, a janela <span class="gui">Selecionar catálogo de endereços</span> abrirá.</p>
-<p class="p">Se você tiver <span class="link"><a href="accounts.html" title="Contas on-line">contas on-line</a></span> configuradas, elas podem ser listada com o <span class="gui">Catálogo de endereços local</span>. Selecione um item da lista e clique em <span class="gui">Concluído</span>. Todos os novos contatos que você criar serão salvos no catálogo de endereços escolhido. Você também pode ver e editar contatos em outros catálogos de endereços.</p>
+<p class="p">Se você tiver <span class="link"><a href="accounts.html.pt-BR" title="Contas on-line">contas on-line</a></span> configuradas, elas podem ser listada com o <span class="gui">Catálogo de endereços local</span>. Selecione um item da lista e clique em <span class="gui">Concluído</span>. Todos os novos contatos que você criar serão salvos no catálogo de endereços escolhido. Você também pode ver e editar contatos em outros catálogos de endereços.</p>
 <p class="p">Se você não tem contas on-line configuradas, clique em <span class="gui">Contas online</span> para começar a configurar. Se você não deseja configurar contas online neste instante, clique em <span class="gui">Catálogo de endereços local</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -58,7 +58,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="contacts.html" title="Contatos">Contatos</a><span class="desc"> — Acesse seus contatos.</span>
+<a href="contacts.html.pt-BR" title="Contatos">Contatos</a><span class="desc"> — Acesse seus contatos.</span>
 </li></ul></div>
 </div></div></div>
 </div>

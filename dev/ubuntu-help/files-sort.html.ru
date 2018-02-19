@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html#common-file-tasks" title="Типичные задачи">Типичные задачи</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ru" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html.ru#common-file-tasks" title="Типичные задачи">Типичные задачи</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Сортировка файлов и папок</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Файлы в папке можно упорядочить различными способами, например, отсортировать по дате или размеру файла. Смотрите <span class="link"><a href="#ways" title="Способы сортировки файлов">Способы сортировки файлов</a></span> ниже, чтобы узнать о наиболее часто используемых способах сортировки файлов. О том, как изменить способ сортировки по умолчанию, смотрите <span class="link"><a href="nautilus-views.html" title="Параметры просмотра файлов и папок в Nautilus">Параметры просмотра файлов и папок в <span class="app">Nautilus</span></a></span>.</p>
+<p class="p">Файлы в папке можно упорядочить различными способами, например, отсортировать по дате или размеру файла. Смотрите <span class="link"><a href="#ways" title="Способы сортировки файлов">Способы сортировки файлов</a></span> ниже, чтобы узнать о наиболее часто используемых способах сортировки файлов. О том, как изменить способ сортировки по умолчанию, смотрите <span class="link"><a href="nautilus-views.html.ru" title="Параметры просмотра файлов и папок в Nautilus">Параметры просмотра файлов и папок в <span class="app">Nautilus</span></a></span>.</p>
 <p class="p">Доступные способы сортировки файлов зависят от используемого вами <span class="em">режима просмотра папки</span>. Изменить текущий режим можно с помощью списка или значков на панели инструментов.</p>
 </div>
 <div id="icon-view" class="sect"><div class="inner">
@@ -73,7 +73,7 @@
   columns. Click the view options button in the toolbar, pick <span class="gui">Visible
   
   Columns…</span> and select the columns that you want to be visible. You will
-  then be able to sort by those columns. See <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">Files list columns preferences</a></span> for
+  then be able to sort by those columns. See <span class="link"><a href="nautilus-list.html.ru" title="Files list columns preferences">Files list columns preferences</a></span> for
   descriptions of available columns.</p>
 </div></div>
 </div></div>
@@ -94,7 +94,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Типичные задачи">Типичные задачи</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ru#common-file-tasks" title="Типичные задачи">Типичные задачи</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

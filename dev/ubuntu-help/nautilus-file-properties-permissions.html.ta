@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html#faq" title="உதவிக்குறிப்புகள் மற்றும் கேள்விகள்">உதவிக்குறிப்புகள் மற்றும் கேள்விகள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ta" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html.ta#faq" title="உதவிக்குறிப்புகள் மற்றும் கேள்விகள்">உதவிக்குறிப்புகள் மற்றும் கேள்விகள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">கோப்பு அனுமதிகளை அமைத்தல்</span></h1></div>
@@ -68,7 +68,7 @@
     belong to.</p>
 <p class="p">You can also set the permissions for users other than the owner and
     those in the file’s group.</p>
-<p class="p">கோப்பு ஸ்கிரிப்ட் போன்ற என ஒரு நிரலாக இருந்தால், அதை இயக்க நீங்கள் <span class="gui">கோப்பை நிரலாக இயக்க அனுமதி</span> என்பதைத் தேர்வு செய்ய வேண்டும். இந்த விருப்பத்தை தேர்வு செய்திருந்தாலும், கோப்பு மேலாளர் கோப்பை ஒரு பயன்பாட்டில் திறக்கலாம் அல்லது என்ன செய்ய வேண்டும் என உங்களிடம் கேட்கலாம். மேலும் தகவலுக்கு <span class="link"><a href="nautilus-behavior.html#executable" title="செயல்படுத்தக்கூடிய உரை கோப்புகள்">செயல்படுத்தக்கூடிய உரை கோப்புகள்</a></span> ஐப் பார்க்கவும்.</p>
+<p class="p">கோப்பு ஸ்கிரிப்ட் போன்ற என ஒரு நிரலாக இருந்தால், அதை இயக்க நீங்கள் <span class="gui">கோப்பை நிரலாக இயக்க அனுமதி</span> என்பதைத் தேர்வு செய்ய வேண்டும். இந்த விருப்பத்தை தேர்வு செய்திருந்தாலும், கோப்பு மேலாளர் கோப்பை ஒரு பயன்பாட்டில் திறக்கலாம் அல்லது என்ன செய்ய வேண்டும் என உங்களிடம் கேட்கலாம். மேலும் தகவலுக்கு <span class="link"><a href="nautilus-behavior.html.ta#executable" title="செயல்படுத்தக்கூடிய உரை கோப்புகள்">செயல்படுத்தக்கூடிய உரை கோப்புகள்</a></span> ஐப் பார்க்கவும்.</p>
 </div></div>
 </div></div>
 <div id="folders" class="sect"><div class="inner">
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="உதவிக்குறிப்புகள் மற்றும் கேள்விகள்">உதவிக்குறிப்புகள் மற்றும் கேள்விகள்</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ta#faq" title="உதவிக்குறிப்புகள் மற்றும் கேள்விகள்">உதவிக்குறிப்புகள் மற்றும் கேள்விகள்</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-basic.html" title="கோப்பு பண்புகள்">கோப்பு பண்புகள்</a><span class="desc"> — அடிப்படை கோப்பு தகவலை காணவும், அனுமதிகளை அமைக்கவும் மற்றும் முன்னிருப்பு பயன்பாடுகளைத் தேர்வு செய்யவும்.</span>
+<a href="nautilus-file-properties-basic.html.ta" title="கோப்பு பண்புகள்">கோப்பு பண்புகள்</a><span class="desc"> — அடிப்படை கோப்பு தகவலை காணவும், அனுமதிகளை அமைக்கவும் மற்றும் முன்னிருப்பு பயன்பாடுகளைத் தேர்வு செய்யவும்.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="hardware-problems-graphics.html" title="Schermproblemen">Schermproblemen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="hardware-problems-graphics.html.nl" title="Schermproblemen">Schermproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Waarom ziet alles op mijn scherm er wazig/korrelig uit?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Dit kan gebeuren omdat de schermresolutie die u heeft ingesteld niet geschikt is voor uw scherm.</p>
-<p class="p">To solve this, open the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span>
+<p class="p">To solve this, open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span>
 overview and start typing <span class="gui">Displays</span>. Click on <span class="gui">Displays</span>
 to open the panel. Try some of the <span class="gui">Resolution</span> options and set the
 one that makes the screen look better.</p>
@@ -69,7 +69,7 @@ one that makes the screen look better.</p>
   cannot show the same window on both screens at once.</p>
 <p class="p">Om de schermen zo in te stellen dat ze zij elk een eigen resolutie hebben:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Schermen</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Schermen</span>.</p></li>
 <li class="steps"><p class="p">Klik op het <span class="gui">Schermen</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">The displays should be listed as <span class="gui">Mirrored</span>. Select your main
       display.</p></li>
@@ -85,13 +85,13 @@ one that makes the screen look better.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-problems-graphics.html" title="Schermproblemen">Schermproblemen</a><span class="desc"> — Grafische problemen en problemen met het scherm oplossen.</span>
+<a href="hardware-problems-graphics.html.nl" title="Schermproblemen">Schermproblemen</a><span class="desc"> — Grafische problemen en problemen met het scherm oplossen.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-resolution.html" title="Change the resolution or rotation of the screen">Change the resolution or rotation of the screen</a><span class="desc"> — De resolutie en de oriëntatie (rotatie) van het scherm wijzigen.</span>
+<a href="look-resolution.html.nl" title="Change the resolution or rotation of the screen">Change the resolution or rotation of the screen</a><span class="desc"> — De resolutie en de oriëntatie (rotatie) van het scherm wijzigen.</span>
 </li></ul></div>
 </div></div>
 </div>

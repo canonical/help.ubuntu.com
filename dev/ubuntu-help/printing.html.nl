@@ -43,41 +43,41 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Afdrukken</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html" title="How can I check my printer’s ink or toner levels?"><span class="title">How can I check my printer’s ink or toner levels?</span><span class="linkdiv-dash"> — </span><span class="desc">Controleer de hoeveelheid inkt of toner er nog in de printer cartridges zit.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html" title="Naar bestand afdrukken"><span class="title">Naar bestand afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">Save a document as a PDF, PostScript or SVG file instead of sending
+<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.nl" title="How can I check my printer’s ink or toner levels?"><span class="title">How can I check my printer’s ink or toner levels?</span><span class="linkdiv-dash"> — </span><span class="desc">Controleer de hoeveelheid inkt of toner er nog in de printer cartridges zit.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html.nl" title="Naar bestand afdrukken"><span class="title">Naar bestand afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">Save a document as a PDF, PostScript or SVG file instead of sending
     it to a printer.</span></a></div>
 </div></div></div></div>
 <div id="setup" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Een printer instellen</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-setup.html" title="Een lokale printer instellen"><span class="title">Een lokale printer instellen</span><span class="linkdiv-dash"> — </span><span class="desc">Een printer die aangesloten is op uw computer instellen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-name-location.html" title="De naam of locatie van een printer wijzigen"><span class="title">De naam of locatie van een printer wijzigen</span><span class="linkdiv-dash"> — </span><span class="desc">Change the name or location of a printer in the printer
+<div class="linkdiv "><a class="linkdiv" href="printing-setup.html.nl" title="Een lokale printer instellen"><span class="title">Een lokale printer instellen</span><span class="linkdiv-dash"> — </span><span class="desc">Een printer die aangesloten is op uw computer instellen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-name-location.html.nl" title="De naam of locatie van een printer wijzigen"><span class="title">De naam of locatie van een printer wijzigen</span><span class="linkdiv-dash"> — </span><span class="desc">Change the name or location of a printer in the printer
     settings.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html" title="De standaardprinter instellen"><span class="title">De standaardprinter instellen</span><span class="linkdiv-dash"> — </span><span class="desc">Kies de printer die u het meest gebruikt.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html.nl" title="De standaardprinter instellen"><span class="title">De standaardprinter instellen</span><span class="linkdiv-dash"> — </span><span class="desc">Kies de printer die u het meest gebruikt.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="paper" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Verschillende papierformaten en indelingen</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-select.html" title="Alleen bepaalde pagina's afdrukken"><span class="title">Alleen bepaalde pagina's afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">Alleen bepaalde pagina's afdrukken, of alleen een bereik van pagina's.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html" title="Het papierformaat wijzigen bij afdrukken"><span class="title">Het papierformaat wijzigen bij afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">Een document afdrukken op een ander papierformaat of -oriëntatie.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-order.html" title="Pagina's in een andere volgorde laten afdrukken"><span class="title">Pagina's in een andere volgorde laten afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">De afdrukvolgorde sorteren en omkeren.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-select.html.nl" title="Alleen bepaalde pagina's afdrukken"><span class="title">Alleen bepaalde pagina's afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">Alleen bepaalde pagina's afdrukken, of alleen een bereik van pagina's.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html.nl" title="Het papierformaat wijzigen bij afdrukken"><span class="title">Het papierformaat wijzigen bij afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">Een document afdrukken op een ander papierformaat of -oriëntatie.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-order.html.nl" title="Pagina's in een andere volgorde laten afdrukken"><span class="title">Pagina's in een andere volgorde laten afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">De afdrukvolgorde sorteren en omkeren.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html" title="Print a booklet"><span class="title">Print a booklet</span><span class="linkdiv-dash"> — </span><span class="desc">How to print a folded, multi-page booklet using A4 or Letter-sized
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.nl" title="Print a booklet"><span class="title">Print a booklet</span><span class="linkdiv-dash"> — </span><span class="desc">How to print a folded, multi-page booklet using A4 or Letter-sized
     paper.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html" title="Print envelopes"><span class="title">Print envelopes</span><span class="linkdiv-dash"> — </span><span class="desc">Make sure that you have the envelope the right way up, and have
+<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.nl" title="Print envelopes"><span class="title">Print envelopes</span><span class="linkdiv-dash"> — </span><span class="desc">Make sure that you have the envelope the right way up, and have
     chosen the correct paper size.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html" title="Tweezijdig afdrukken en multipagina-opmaak"><span class="title">Tweezijdig afdrukken en multipagina-opmaak</span><span class="linkdiv-dash"> — </span><span class="desc">Aan beide kanten van het papier afdrukken, of meerdere pagina's per vel.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html.nl" title="Tweezijdig afdrukken en multipagina-opmaak"><span class="title">Tweezijdig afdrukken en multipagina-opmaak</span><span class="linkdiv-dash"> — </span><span class="desc">Aan beide kanten van het papier afdrukken, of meerdere pagina's per vel.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -86,16 +86,16 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html" title="Een printopdracht annuleren, pauzeren, of vrijgeven"><span class="title">Een printopdracht annuleren, pauzeren, of  vrijgeven</span><span class="linkdiv-dash"> — </span><span class="desc">Een afdruktaak in de wacht annuleren en hem uit de wachtrij verwijderen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html" title="Papier dat vastzit vrijmaken"><span class="title">Papier dat vastzit vrijmaken</span><span class="linkdiv-dash"> — </span><span class="desc">Hoe u papier dat vastzit kunt vrijmaken hangt af van het merk en model van uw printer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html.nl" title="Een printopdracht annuleren, pauzeren, of vrijgeven"><span class="title">Een printopdracht annuleren, pauzeren, of  vrijgeven</span><span class="linkdiv-dash"> — </span><span class="desc">Een afdruktaak in de wacht annuleren en hem uit de wachtrij verwijderen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html.nl" title="Papier dat vastzit vrijmaken"><span class="title">Papier dat vastzit vrijmaken</span><span class="linkdiv-dash"> — </span><span class="desc">Hoe u papier dat vastzit kunt vrijmaken hangt af van het merk en model van uw printer.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-streaks.html" title="Waarom zie ik strepen, lijnen of de verkeerde kleuren op mijn afdrukken?"><span class="title">Waarom zie ik strepen, lijnen of de verkeerde kleuren op mijn afdrukken?</span><span class="linkdiv-dash"> — </span><span class="desc">Als afdrukken streperig of vaag zijn, of als er kleuren ontbreken, controleer dan de inktniveaus of maak de printkop schoon.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-streaks.html.nl" title="Waarom zie ik strepen, lijnen of de verkeerde kleuren op mijn afdrukken?"><span class="title">Waarom zie ik strepen, lijnen of de verkeerde kleuren op mijn afdrukken?</span><span class="linkdiv-dash"> — </span><span class="desc">Als afdrukken streperig of vaag zijn, of als er kleuren ontbreken, controleer dan de inktniveaus of maak de printkop schoon.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Meer informatie</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardwareproblemen</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardwareproblemen</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -105,7 +105,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disks.html" title="disks">schijven</a></span>...</span>
+<a href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html.nl" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html.nl" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html.nl" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.nl" title="Schijven &amp; opslag">schijven</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

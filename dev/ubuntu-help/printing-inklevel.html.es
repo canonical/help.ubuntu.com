@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="printing.html" title="Imprimir">Imprimir</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="printing.html.es" title="Imprimir">Imprimir</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">¿Cómo puedo comprobar los niveles de tinta o tóner de mi impresora?</span></h1></div>
@@ -62,13 +62,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html" title="Imprimir">Imprimir</a><span class="desc"> — <span class="link"><a href="printing-setup.html" title="Configurar una impresora local">Configuración local</a></span>, <span class="link"><a href="printing-order.html" title="Hacer que las páginas se impriman en diferente orden">ordenar y clasificar</a></span>, <span class="link"><a href="printing-2sided.html" title="Imprimir diseños de páginas múltiples y a doble cara">doble cara y multipágina</a></span></span>
+<a href="printing.html.es" title="Imprimir">Imprimir</a><span class="desc"> — <span class="link"><a href="printing-setup.html.es" title="Configurar una impresora local">Configuración local</a></span>, <span class="link"><a href="printing-order.html.es" title="Hacer que las páginas se impriman en diferente orden">ordenar y clasificar</a></span>, <span class="link"><a href="printing-2sided.html.es" title="Imprimir diseños de páginas múltiples y a doble cara">doble cara y multipágina</a></span></span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-streaks.html" title="¿Por qué la impresión es poco uniforme, hay líneas o colores erróneos en mis impresiones?">¿Por qué la impresión es poco uniforme, hay líneas o colores erróneos en mis impresiones?</a><span class="desc"> — Si las impresiones son poco uniformes, difusas o faltan colores, compruebe los niveles de la tinta o limpie los cabezales de impresión.</span>
+<a href="printing-streaks.html.es" title="¿Por qué la impresión es poco uniforme, hay líneas o colores erróneos en mis impresiones?">¿Por qué la impresión es poco uniforme, hay líneas o colores erróneos en mis impresiones?</a><span class="desc"> — Si las impresiones son poco uniformes, difusas o faltan colores, compruebe los niveles de la tinta o limpie los cabezales de impresión.</span>
 </li></ul></div>
 </div></div>
 </div>

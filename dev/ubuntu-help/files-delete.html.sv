@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ta bort filer och mappar</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Om du inte vill ha en fil eller mapp längre kan du ta bort den. När du tar bort ett objekt flyttas det till mappen <span class="gui">Papperskorg</span> där det sparas tills du tömmer papperskorgen. Du kan <span class="link"><a href="files-recover.html" title="Återskapa en fil från Papperskorgen">återställa objekt</a></span> i mappen <span class="gui">Papperskorg</span> till deras originalplats om du bestämmer dig för att du behöver dem, eller om de togs bort av misstag.</p>
+<p class="p">Om du inte vill ha en fil eller mapp längre kan du ta bort den. När du tar bort ett objekt flyttas det till mappen <span class="gui">Papperskorg</span> där det sparas tills du tömmer papperskorgen. Du kan <span class="link"><a href="files-recover.html.sv" title="Återskapa en fil från Papperskorgen">återställa objekt</a></span> i mappen <span class="gui">Papperskorg</span> till deras originalplats om du bestämmer dig för att du behöver dem, eller om de togs bort av misstag.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">För att skicka en fil till papperskorgen:</span></h2></div>
 <div class="region"><ol class="steps">
@@ -72,7 +72,7 @@
 <li class="steps"><p class="p">Eftersom du inte kan ångra detta kommer du att bli tillfrågad att bekräfta att du vill ta bort filen eller mappen.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Borttagna filer på en <span class="link"><a href="files.html#removable" title="Flyttbara enheter och externa diskar">flyttbar enhet</a></span> är kanske inte synliga för andra operativsystem så som Windows eller Mac OS. Filerna är fortfarande där och kommer att vara tillgängliga när enheten återansluts till din dator.</p></div></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Borttagna filer på en <span class="link"><a href="files.html.sv#removable" title="Flyttbara enheter och externa diskar">flyttbar enhet</a></span> är kanske inte synliga för andra operativsystem så som Windows eller Mac OS. Filerna är fortfarande där och kommer att vara tillgängliga när enheten återansluts till din dator.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -80,14 +80,14 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sv#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html#trash" title="Papperskorg">Papperskorgsinställningar för filhanterare</a></li>
+<li class="links "><a href="nautilus-behavior.html.sv#trash" title="Papperskorg">Papperskorgsinställningar för filhanterare</a></li>
 <li class="links ">
-<a href="files-recover.html" title="Återskapa en fil från Papperskorgen">Återskapa en fil från Papperskorgen</a><span class="desc"> — Borttagna filer skickas normalt till Papperskorgen, men kan återställas.</span>
+<a href="files-recover.html.sv" title="Återskapa en fil från Papperskorgen">Återskapa en fil från Papperskorgen</a><span class="desc"> — Borttagna filer skickas normalt till Papperskorgen, men kan återställas.</span>
 </li>
 </ul></div>
 </div></div>

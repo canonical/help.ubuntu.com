@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ljud, video och bilder</span></h1></div>
@@ -54,13 +54,13 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-broken.html" title="Ljudproblem"><span class="title">Ljudproblem</span><span class="linkdiv-dash"> — </span><span class="desc">Felsök problem som att inte få ljud eller få dåligt ljudkvalitet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html" title="Använd andra högtalar eller hörlurar"><span class="title">Använd andra högtalar eller hörlurar</span><span class="linkdiv-dash"> — </span><span class="desc">Anslut högtalare eller hörlurar och välj en annan standard ljudutmatningsenhet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html" title="Använd en annan mikrofon"><span class="title">Använd en annan mikrofon</span><span class="linkdiv-dash"> — </span><span class="desc">Använd en analog eller USB-mikrofon och välj standardingångsenhet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-broken.html.sv" title="Ljudproblem"><span class="title">Ljudproblem</span><span class="linkdiv-dash"> — </span><span class="desc">Felsök problem som att inte få ljud eller få dåligt ljudkvalitet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html.sv" title="Använd andra högtalar eller hörlurar"><span class="title">Använd andra högtalar eller hörlurar</span><span class="linkdiv-dash"> — </span><span class="desc">Anslut högtalare eller hörlurar och välj en annan standard ljudutmatningsenhet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html.sv" title="Använd en annan mikrofon"><span class="title">Använd en annan mikrofon</span><span class="linkdiv-dash"> — </span><span class="desc">Använd en analog eller USB-mikrofon och välj standardingångsenhet.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-alert.html" title="Välj eller inaktivera larmljudet"><span class="title">Välj eller inaktivera larmljudet</span><span class="linkdiv-dash"> — </span><span class="desc">Välj ett ljud som spelar för meddelanden, ställa in larmljudet eller inaktivera larmljud.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-volume.html" title="Ändra ljudvolymen"><span class="title">Ändra ljudvolymen</span><span class="linkdiv-dash"> — </span><span class="desc">Ställ in ljudvolymen för datorn och kontrollera volymen för varje program.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-alert.html.sv" title="Välj eller inaktivera larmljudet"><span class="title">Välj eller inaktivera larmljudet</span><span class="linkdiv-dash"> — </span><span class="desc">Välj ett ljud som spelar för meddelanden, ställa in larmljudet eller inaktivera larmljud.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-volume.html.sv" title="Ändra ljudvolymen"><span class="title">Ändra ljudvolymen</span><span class="linkdiv-dash"> — </span><span class="desc">Ställ in ljudvolymen för datorn och kontrollera volymen för varje program.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Mer information</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html" title="Användarkonton">användarkonton</a></span>…</span>
+<a href="prefs.html.sv" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html.sv" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html.sv" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html.sv" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html.sv" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html.sv" title="Användarkonton">användarkonton</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -78,33 +78,33 @@
 <div class="hgroup"><h2 class="title"><span class="title">Musik och bärbara ljudspelare</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="Jag kan inte spela låtarna jag köpt från en nätmusikaffär"><span class="title">Jag kan inte spela låtarna jag köpt från en nätmusikaffär</span><span class="linkdiv-dash"> — </span><span class="desc">Stöd för det filformatet kanske inte är installerat eller så kan låtarna vara ”kopieringsskyddade”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html" title="Låtar visas inte på min iPod när jag kopierar över dem"><span class="title">Låtar visas inte på min iPod när jag kopierar över dem</span><span class="linkdiv-dash"> — </span><span class="desc">Använd en mediaspelare för att kopiera låtarna och koppla säkert från iPod:en efteråt.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html.sv" title="Jag kan inte spela låtarna jag köpt från en nätmusikaffär"><span class="title">Jag kan inte spela låtarna jag köpt från en nätmusikaffär</span><span class="linkdiv-dash"> — </span><span class="desc">Stöd för det filformatet kanske inte är installerat eller så kan låtarna vara ”kopieringsskyddade”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html.sv" title="Låtar visas inte på min iPod när jag kopierar över dem"><span class="title">Låtar visas inte på min iPod när jag kopierar över dem</span><span class="linkdiv-dash"> — </span><span class="desc">Använd en mediaspelare för att kopiera låtarna och koppla säkert från iPod:en efteråt.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html" title="Min nya iPod fungerar inte"><span class="title">Min nya iPod fungerar inte</span><span class="linkdiv-dash"> — </span><span class="desc">Helt nya iPods måste ställas in via iTunes-programvaran innan du kan använda dem.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Öppna program för enheter eller diskar"><span class="title">Öppna program för enheter eller diskar</span><span class="linkdiv-dash"> — </span><span class="desc">Kör automatiskt program för cd och dvd, kameror, musikspelare, och andra enheter och media.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html.sv" title="Min nya iPod fungerar inte"><span class="title">Min nya iPod fungerar inte</span><span class="linkdiv-dash"> — </span><span class="desc">Helt nya iPods måste ställas in via iTunes-programvaran innan du kan använda dem.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.sv" title="Öppna program för enheter eller diskar"><span class="title">Öppna program för enheter eller diskar</span><span class="linkdiv-dash"> — </span><span class="desc">Kör automatiskt program för cd och dvd, kameror, musikspelare, och andra enheter och media.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="photos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Foton och digitalkameror</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html" title="Problem med mediakortsläsare"><span class="title">Problem med mediakortsläsare</span><span class="linkdiv-dash"> — </span><span class="desc">Felsök mediakortsläsare</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Öppna program för enheter eller diskar"><span class="title">Öppna program för enheter eller diskar</span><span class="linkdiv-dash"> — </span><span class="desc">Kör automatiskt program för cd och dvd, kameror, musikspelare, och andra enheter och media.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html.sv" title="Problem med mediakortsläsare"><span class="title">Problem med mediakortsläsare</span><span class="linkdiv-dash"> — </span><span class="desc">Felsök mediakortsläsare</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.sv" title="Öppna program för enheter eller diskar"><span class="title">Öppna program för enheter eller diskar</span><span class="linkdiv-dash"> — </span><span class="desc">Kör automatiskt program för cd och dvd, kameror, musikspelare, och andra enheter och media.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="videos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Videor och videokameror</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="video-sending.html" title="Andra personer kan inte spela upp videorna jag gjort"><span class="title">Andra personer kan inte spela upp videorna jag gjort</span><span class="linkdiv-dash"> — </span><span class="desc">Kontrollera att de har de korrekta videokodekarna installerade.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="app-cheese.html" title="Skapa roliga bilder och videor med din webbkamera"><span class="title">Skapa roliga bilder och videor med din webbkamera</span><span class="linkdiv-dash"> — </span><span class="desc">Det är lite som ditt privata fotobås.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd.html" title="Varför spelas inte dvd-filmer upp?"><span class="title">Varför spelas inte dvd-filmer upp?</span><span class="linkdiv-dash"> — </span><span class="desc">Du kanske inte har rätt kodekar installerade eller så kan dvd:n vara från fel region.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-sending.html.sv" title="Andra personer kan inte spela upp videorna jag gjort"><span class="title">Andra personer kan inte spela upp videorna jag gjort</span><span class="linkdiv-dash"> — </span><span class="desc">Kontrollera att de har de korrekta videokodekarna installerade.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="app-cheese.html.sv" title="Skapa roliga bilder och videor med din webbkamera"><span class="title">Skapa roliga bilder och videor med din webbkamera</span><span class="linkdiv-dash"> — </span><span class="desc">Det är lite som ditt privata fotobås.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd.html.sv" title="Varför spelas inte dvd-filmer upp?"><span class="title">Varför spelas inte dvd-filmer upp?</span><span class="linkdiv-dash"> — </span><span class="desc">Du kanske inte har rätt kodekar installerade eller så kan dvd:n vara från fel region.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Öppna program för enheter eller diskar"><span class="title">Öppna program för enheter eller diskar</span><span class="linkdiv-dash"> — </span><span class="desc">Kör automatiskt program för cd och dvd, kameror, musikspelare, och andra enheter och media.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html" title="Hur aktiverar jag begränsade kodekar för DVD-uppspelning?"><span class="title">Hur aktiverar jag begränsade kodekar för DVD-uppspelning?</span><span class="linkdiv-dash"> — </span><span class="desc">De flesta kommersiella DVD-skivor är krypterade och kommer inte spelas upp utan avkrypteringsprogram.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.sv" title="Öppna program för enheter eller diskar"><span class="title">Öppna program för enheter eller diskar</span><span class="linkdiv-dash"> — </span><span class="desc">Kör automatiskt program för cd och dvd, kameror, musikspelare, och andra enheter och media.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html.sv" title="Hur aktiverar jag begränsade kodekar för DVD-uppspelning?"><span class="title">Hur aktiverar jag begränsade kodekar för DVD-uppspelning?</span><span class="linkdiv-dash"> — </span><span class="desc">De flesta kommersiella DVD-skivor är krypterade och kommer inte spelas upp utan avkrypteringsprogram.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -112,7 +112,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Handbok för Ubuntu-skrivbordet">Handbok för Ubuntu-skrivbordet</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.sv" title="Handbok för Ubuntu-skrivbordet">Handbok för Ubuntu-skrivbordet</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

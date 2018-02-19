@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="user-accounts.html" title="Contas de usuários">Usuários</a> › <a class="trail" href="user-accounts.html#manage" title="Gerenciando contas de usuários">Contas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="user-accounts.html.pt-BR" title="Contas de usuários">Usuários</a> › <a class="trail" href="user-accounts.html.pt-BR#manage" title="Gerenciando contas de usuários">Contas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Adicionando uma nova conta de usuário</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Você pode adicionar múltiplas contas de usuários a seu computador. Forneça uma conta para cada pessoa em sua residência ou empresa. Cada usuário tem sua própria pasta pessoal, documentos e configurações.</p>
-<p class="p">Você precisa de <span class="link"><a href="user-admin-explain.html" title="Como funcionam os privilégios administrativos?">privilégios administrativos</a></span> para adicionar contas de usuários.</p>
+<p class="p">Você precisa de <span class="link"><a href="user-admin-explain.html.pt-BR" title="Como funcionam os privilégios administrativos?">privilégios administrativos</a></span> para adicionar contas de usuários.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Usuários</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Usuários</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Usuários</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Pressione <span class="gui">Desbloquear</span> no canto superior direito e insira sua senha quando solicitada.</p></li>
 <li class="steps"><p class="p">Na lista de contas à esquerda, clique no botão <span class="gui">+</span> para adicionar uma nova conta de usuário.</p></li>
 <li class="steps">
-<p class="p">Se você quiser que o novo usuário tenha <span class="link"><a href="user-admin-explain.html" title="Como funcionam os privilégios administrativos?">acesso administrativo</a></span> ao computador, selecione <span class="gui">Administrador</span> para o tipo de conta.</p>
+<p class="p">Se você quiser que o novo usuário tenha <span class="link"><a href="user-admin-explain.html.pt-BR" title="Como funcionam os privilégios administrativos?">acesso administrativo</a></span> ao computador, selecione <span class="gui">Administrador</span> para o tipo de conta.</p>
 <p class="p">Administradores podem fazer coisas como adicionar e excluir usuários, instalar softwares e drivers, e alterar data e hora.</p>
 </li>
 <li class="steps"><p class="p">Informe o nome completo do novo usuário. O nome de usuário será preenchido automaticamente com base no nome completo. Se você não gostar do proposto como nome de usuário, você pode alterá-lo.</p></li>
@@ -75,12 +75,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Gerenciando contas de usuários">Gerenciando contas de usuários</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.pt-BR#manage" title="Gerenciando contas de usuários">Gerenciando contas de usuários</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-delete.html" title="Excluindo uma conta de usuário">Excluindo uma conta de usuário</a><span class="desc"> — Remova os usuários que não usam mais seu computador.</span>
+<a href="user-delete.html.pt-BR" title="Excluindo uma conta de usuário">Excluindo uma conta de usuário</a><span class="desc"> — Remova os usuários que não usam mais seu computador.</span>
 </li></ul></div>
 </div></div>
 </div>

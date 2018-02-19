@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html#desktop" title="Anpassa ditt skrivbord">Anpassa ditt skrivbord</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html.sv" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html.sv#desktop" title="Anpassa ditt skrivbord">Anpassa ditt skrivbord</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Aviseringar och meddelandefältet</span></h1></div>
@@ -61,7 +61,7 @@
 <div id="messagetray" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Meddelandefältet</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Meddelandefältet ger dig ett sätt att få tillbaka dina aviseringar när det är bekvämt för dig. Den visas när du klickar på klockan eller trycker <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span>. Meddelandefältet innehåller alla aviseringar som du inte har agerat på eller som finns där permanent.</p>
+<p class="p">Meddelandefältet ger dig ett sätt att få tillbaka dina aviseringar när det är bekvämt för dig. Den visas när du klickar på klockan eller trycker <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.sv" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span>. Meddelandefältet innehåller alla aviseringar som du inte har agerat på eller som finns där permanent.</p>
 <p class="p">Du kan titta på aviseringarna genom att klicka på meddelandefältets objekt. Dessa är vanligtvis meddelanden som sänts av program. Chattaviseringar ges dock specialbehandling och representeras som de individuella kontakterna som skickade chattmeddelande till dig.</p>
 <p class="p">Du kan stänga meddelandefältet genom att trycka <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> igen eller <span class="key"><kbd>Esc</kbd></span>.</p>
 </div></div>
@@ -71,7 +71,7 @@
 <div class="region"><div class="contents">
 <p class="p">Om du arbetar med något och inte vill bli störd kan du stänga av aviseringar.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Aviseringar</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Aviseringar</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Aviseringar</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Växla <span class="gui">Aviseringsbanderoller</span> till <span class="gui">AV</span>.</p></li>
 </ol></div></div></div>
@@ -83,7 +83,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="Anpassa ditt skrivbord">Anpassa ditt skrivbord</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.sv#desktop" title="Anpassa ditt skrivbord">Anpassa ditt skrivbord</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

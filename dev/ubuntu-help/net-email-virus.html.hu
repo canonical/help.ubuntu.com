@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-security.html" title="Biztonság az interneten">Biztonság az interneten</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-security.html.hu" title="Biztonság az interneten">Biztonság az interneten</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-email.html" title="E-mail és levelezőprogramok">E-mail és levelezőprogramok</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-email.html.hu" title="E-mail és levelezőprogramok">E-mail és levelezőprogramok</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">A vírusok olyan programok, amelyek különféle problémákat okoznak, amennyiben felkerülnek számítógépére. A vírusok gyakran e-mail üzenetek segítségével kerülnek a számítógépére.</p>
-<p class="p">Nagyon ritkák azok a vírusok, amelyek Linux rendszert futtató számítógépet támadnak meg, <span class="link"><a href="net-antivirus.html" title="Szükségem van vírusirtóra?">így valószínűtlen, hogy e-mailben vagy más módon vírust kapjon</a></span>. Valószínűleg nem lesz hatással a számítógépére, ha olyan e-mailt kap, amelyben vírus van. Emiatt az e-mailjein nem kell vírusellenőrzést végezni.</p>
+<p class="p">Nagyon ritkák azok a vírusok, amelyek Linux rendszert futtató számítógépet támadnak meg, <span class="link"><a href="net-antivirus.html.hu" title="Szükségem van vírusirtóra?">így valószínűtlen, hogy e-mailben vagy más módon vírust kapjon</a></span>. Valószínűleg nem lesz hatással a számítógépére, ha olyan e-mailt kap, amelyben vírus van. Emiatt az e-mailjein nem kell vírusellenőrzést végezni.</p>
 <p class="p">Amennyiben fennáll a lehetőség, hogy vírusokat továbbítson egyik személytől egy másik felé, inkább mégis végezzen vírusellenőrzést az e-mailek között. Például ha egy ismerőse vírussal fertőzött windowsos számítógépről küld Önnek egy vírust tartalmazó levelet, majd Ön továbbítja ezt a levelet egy másik ismerősének, aki windowsos számítógépen nyitja azt meg, akkor a vírus az ő számítógépét is megfertőzheti. Ezt megelőzendő telepíthet vírusirtó alkalmazást, hogy ellenőrizze az e-mailjeit. Ugyanakkor nem valószínű, hogy ez megtörténhet, mert a legtöbb Windows és Mac OS felhasználó egyébként is használ vírusirtó szoftvert a számítógépén.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,17 +64,17 @@
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-security.html" title="Biztonság az interneten">Biztonság az interneten</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Szükségem van vírusirtóra?">Vírusirtó szoftverek</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Tűzfal-hozzáférés engedélyezése és blokkolása">alapszintű tűzfalak</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Gyakran használt hálózati portok">tűzfalportok</a></span>…</span>
+<a href="net-security.html.hu" title="Biztonság az interneten">Biztonság az interneten</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.hu" title="Szükségem van vírusirtóra?">Vírusirtó szoftverek</a></span>, <span class="link"><a href="net-firewall-on-off.html.hu" title="Tűzfal-hozzáférés engedélyezése és blokkolása">alapszintű tűzfalak</a></span>, <span class="link"><a href="net-firewall-ports.html.hu" title="Gyakran használt hálózati portok">tűzfalportok</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-email.html" title="E-mail és levelezőprogramok">E-mail és levelezőprogramok</a><span class="desc"> — <span class="link"><a href="net-default-email.html" title="Az e-mailek írására használt levelezőkliens megváltoztatása">Alapértelmezett levelezőalkalmazás</a></span>, <span class="link"><a href="net-email-virus.html" title="Kell vírusokat keresnem az e-mailjeimben?">Kell-e vírust keresnem?</a></span>…</span>
+<a href="net-email.html.hu" title="E-mail és levelezőprogramok">E-mail és levelezőprogramok</a><span class="desc"> — <span class="link"><a href="net-default-email.html.hu" title="Az e-mailek írására használt levelezőkliens megváltoztatása">Alapértelmezett levelezőalkalmazás</a></span>, <span class="link"><a href="net-email-virus.html.hu" title="Kell vírusokat keresnem az e-mailjeimben?">Kell-e vírust keresnem?</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="Szükségem van vírusirtóra?">Szükségem van vírusirtóra?</a><span class="desc"> — Kevés linuxos vírus van, így valószínűleg nincs szükség vírusirtóra.</span>
+<a href="net-antivirus.html.hu" title="Szükségem van vírusirtóra?">Szükségem van vírusirtóra?</a><span class="desc"> — Kevés linuxos vírus van, így valószínűleg nincs szükség vírusirtóra.</span>
 </li></ul></div>
 </div></div>
 </div>

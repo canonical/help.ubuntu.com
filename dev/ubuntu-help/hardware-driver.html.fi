@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mikä ajuri on?</span></h1></div>
@@ -69,20 +69,20 @@ double-sided printing, but is otherwise completely functional.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Laitteisto ja ajurit">Laitteisto ja ajurit</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Yleisiä ongelmia">Laitteisto-ongelmat</a></span>, <span class="link"><a href="printing.html" title="Tulostaminen">tulostimet</a></span>, <span class="link"><a href="power.html" title="Virransäästö ja akku">virranhallinta</a></span>, <span class="link"><a href="color.html" title="Värinhallinta">värinhallinta</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Levyt ja tiedon tallennus">levyt</a></span>…</span>
+<a href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto ja ajurit</a><span class="desc"> — <span class="link"><a href="hardware.html.fi#problems" title="Yleisiä ongelmia">Laitteisto-ongelmat</a></span>, <span class="link"><a href="printing.html.fi" title="Tulostaminen">tulostimet</a></span>, <span class="link"><a href="power.html.fi" title="Virransäästö ja akku">virranhallinta</a></span>, <span class="link"><a href="color.html.fi" title="Värinhallinta">värinhallinta</a></span>, <span class="link"><a href="bluetooth.html.fi" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.fi" title="Levyt ja tiedon tallennus">levyt</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-problem-connecting.html" title="Bluetooth-laitteen yhdistäminen ei onnistu">Bluetooth-laitteen yhdistäminen ei onnistu</a><span class="desc"> — Sovitin voi olla pois käytöstä, sillä ei ole ajureita tai Bluetooth voi olla poistettu käytöstä tai estetty.</span>
+<a href="bluetooth-problem-connecting.html.fi" title="Bluetooth-laitteen yhdistäminen ei onnistu">Bluetooth-laitteen yhdistäminen ei onnistu</a><span class="desc"> — Sovitin voi olla pois käytöstä, sillä ei ole ajureita tai Bluetooth voi olla poistettu käytöstä tai estetty.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Miksi tietokoneeni ei suostu palaamaan valmiustilasta?">Miksi tietokoneeni ei suostu palaamaan valmiustilasta?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.fi" title="Miksi tietokoneeni ei suostu palaamaan valmiustilasta?">Miksi tietokoneeni ei suostu palaamaan valmiustilasta?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="Tietokoneen langaton verkkoyhteys ei toimi lepo- tai valmiustilasta palauttamisen jälkeen">Tietokoneen langaton verkkoyhteys ei toimi lepo- tai valmiustilasta palauttamisen jälkeen</a><span class="desc"> — Some wireless devices have problems handling when your computer is
+<a href="power-nowireless.html.fi" title="Tietokoneen langaton verkkoyhteys ei toimi lepo- tai valmiustilasta palauttamisen jälkeen">Tietokoneen langaton verkkoyhteys ei toimi lepo- tai valmiustilasta palauttamisen jälkeen</a><span class="desc"> — Some wireless devices have problems handling when your computer is
     suspended and does not resume properly.</span>
 </li>
 </ul></div>

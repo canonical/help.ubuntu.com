@@ -46,9 +46,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Adicionar/remover programa</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.pt-BR" title="Install &amp; remove software">Adicionar/remover programa</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="disk.html" title="Discos &amp; armazenamento">Discos &amp; armazenamento</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="disk.html.pt-BR" title="Discos &amp; armazenamento">Discos &amp; armazenamento</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -90,13 +90,13 @@
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="disk.html" title="Discos &amp; armazenamento">Discos &amp; armazenamento</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Verificando quanto resta de espaço em disco">Espaço em disco</a></span>, <span class="link"><a href="disk-benchmark.html" title="Testando o desempenho do seu disco rígido">desempenho</a></span>, <span class="link"><a href="disk-check.html" title="Verificando problemas no seu disco rígido">problemas</a></span>, <span class="link"><a href="disk-partitions.html" title="Gerenciando volumes e partições">volumes e partições</a></span>…</span>
+<a href="disk.html.pt-BR" title="Discos &amp; armazenamento">Discos &amp; armazenamento</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.pt-BR" title="Verificando quanto resta de espaço em disco">Espaço em disco</a></span>, <span class="link"><a href="disk-benchmark.html.pt-BR" title="Testando o desempenho do seu disco rígido">desempenho</a></span>, <span class="link"><a href="disk-check.html.pt-BR" title="Verificando problemas no seu disco rígido">problemas</a></span>, <span class="link"><a href="disk-partitions.html.pt-BR" title="Gerenciando volumes e partições">volumes e partições</a></span>…</span>
 </li>
 <li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Remover um aplicativo">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+<a href="addremove.html.pt-BR" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
+      <span class="link"><a href="addremove-install.html.pt-BR" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.pt-BR" title="Remover um aplicativo">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.pt-BR" title="Add software repositories">add repositories</a></span>…
     </span>
 </li>
 </ul></div>

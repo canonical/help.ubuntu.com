@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Συμβουλές &amp; κόλπα">Συμβουλές &amp; κόλπα</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.el" title="Συμβουλές &amp; κόλπα">Συμβουλές &amp; κόλπα</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Εισαγωγή ειδικών χαρακτήρων</span></h1></div>
@@ -55,22 +55,14 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Μέθοδοι για την εισαγωγή χαρακτήρων</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Πίνακας χαρακτήρων">Πίνακας χαρακτήρων</a></li>
-<li class="links "><a href="tips-specialchars.html#characters" title="Χαρακτήρες">Χαρακτήρες</a></li>
-<li class="links "><a href="tips-specialchars.html#compose" title="Πλήκτρο σύνθεσης">Πλήκτρο σύνθεσης</a></li>
-<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Σημεία κώδικα">Σημεία κώδικα</a></li>
-<li class="links "><a href="tips-specialchars.html#layout" title="Διατάξεις πληκτρολογίου">Διατάξεις πληκτρολογίου</a></li>
-<li class="links "><a href="tips-specialchars.html#im" title="Μέθοδοι εισαγωγής">Μέθοδοι εισαγωγής</a></li>
+<li class="links "><a href="tips-specialchars.html.el#characters" title="Χαρακτήρες">Χαρακτήρες</a></li>
+<li class="links "><a href="tips-specialchars.html.el#compose" title="Πλήκτρο σύνθεσης">Πλήκτρο σύνθεσης</a></li>
+<li class="links "><a href="tips-specialchars.html.el#ctrlshiftu" title="Σημεία κώδικα">Σημεία κώδικα</a></li>
+<li class="links "><a href="tips-specialchars.html.el#layout" title="Διατάξεις πληκτρολογίου">Διατάξεις πληκτρολογίου</a></li>
+<li class="links "><a href="tips-specialchars.html.el#im" title="Μέθοδοι εισαγωγής">Μέθοδοι εισαγωγής</a></li>
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Πίνακας χαρακτήρων</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">Το GNOME έρχεται με μια εφαρμογή πίνακα χαρακτήρων που επιτρέπει την περιήγηση όλων των χαρακτήρων σε Unicode. Χρησιμοποιήστε τον πίνακα χαρακτήρων για να βρείτε τον χαρακτήρα που θέλετε και έπειτα αντιγράψτε και επικολλήστε τον όπου χρειάζεται.</p>
-<p class="p">Μπορείτε να βρείτε τον <span class="app">Πίνακας χαρακτήρων</span> στην επισκόπηση <span class="gui">Δραστηριότητες</span>. Για περισσότερες πληροφορίες στον πίνακα χαρακτήρων, δείτε <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">Εγχειρίδιο πίνακα χαρακτήρων</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Χαρακτήρες</span></h2></div>
 <div class="region"><div class="contents">
@@ -87,15 +79,19 @@
 <div class="note note-important" title="Σημαντικό"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
       change this setting.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Define a compose key</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Ορισμός πλήκτρου σύνθεσης</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Activities</a></span>
+        overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Keyboard &amp; Mouse</span> tab.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span> setting.</p></li>
-<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you want to use.</p></li>
-<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose key.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span>
+        setting.</p></li>
+<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you
+        want to use.</p></li>
+<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose
+        key.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div>
 </div></div>
@@ -123,7 +119,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Διατάξεις πληκτρολογίου</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Μπορείτε να κάνετε το πληκτρολόγιό σας να συμπεριφέρεται ως το πληκτρολόγιο για μια άλλη γλώσσα, ανεξάρτητα από τα εμφανιζόμενα γράμματα των πλήκτρων. Μπορείτε ακόμα εύκολα να αλλάξετε μεταξύ διαφορετικών διατάξεων πληκτρολογίου χρησιμοποιώντας ένα εικονίδιο στην πάνω γραμμή. Για να μάθετε πώς, δείτε <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Μπορείτε να κάνετε το πληκτρολόγιό σας να συμπεριφέρεται ως το πληκτρολόγιο για μια άλλη γλώσσα, ανεξάρτητα από τα εμφανιζόμενα γράμματα των πλήκτρων. Μπορείτε ακόμα εύκολα να αλλάξετε μεταξύ διαφορετικών διατάξεων πληκτρολογίου χρησιμοποιώντας ένα εικονίδιο στην πάνω γραμμή. Για να μάθετε πώς, δείτε <span class="link"><a href="keyboard-layouts.html.el" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Μέθοδοι εισαγωγής</span></h2></div>
@@ -138,13 +134,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Συμβουλές &amp; κόλπα">Συμβουλές &amp; κόλπα</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Εισαγωγή ειδικών χαρακτήρων">Ειδικοί χαρακτήρες</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Μεσαίο κλικ">Συντομεύσεις μεσαίου κλικ</a></span>…</span>
+<a href="tips.html.el" title="Συμβουλές &amp; κόλπα">Συμβουλές &amp; κόλπα</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.el" title="Εισαγωγή ειδικών χαρακτήρων">Ειδικοί χαρακτήρες</a></span>, <span class="link"><a href="mouse-middleclick.html.el" title="Μεσαίο κλικ">Συντομεύσεις μεσαίου κλικ</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.el" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
 </li></ul></div>
 </div></div>
 </div>

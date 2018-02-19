@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="bluetooth.html.fi" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mitä Bluetooth-näkyvyys tarkoittaa?</span></h1></div>
@@ -54,16 +54,16 @@
   on and the <span class="gui">Bluetooth</span> panel is open, your computer will advertize
   itself to all other devices within range, allowing them to attempt to connect
   to your computer.</p>
-<div class="note note-tip" title="Vinkki"><div class="inner"><div class="region"><div class="contents"><p class="p">You can <span class="link"><a href="sharing-displayname.html" title="Set the display name for your computer">change</a></span> the name your
+<div class="note note-tip" title="Vinkki"><div class="inner"><div class="region"><div class="contents"><p class="p">You can <span class="link"><a href="sharing-displayname.html.fi" title="Set the display name for your computer">change</a></span> the name your
     computer displays to other devices.</p></div></div></div></div>
-<p class="p">Kun olet <span class="link"><a href="bluetooth-connect-device.html" title="Yhdistä tietokoneesi Bluetooth-laitteeseen">muodostanut yhteyden laitteeseen</a></span>, kyseisen laitteen tai tietokoneesi ei tarvitse enää olla näkyvissä ollakseen yhteydessä toisiinsa.</p>
+<p class="p">Kun olet <span class="link"><a href="bluetooth-connect-device.html.fi" title="Yhdistä tietokoneesi Bluetooth-laitteeseen">muodostanut yhteyden laitteeseen</a></span>, kyseisen laitteen tai tietokoneesi ei tarvitse enää olla näkyvissä ollakseen yhteydessä toisiinsa.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Yhdistä tietokoneesi Bluetooth-laitteeseen">Yhdistä</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Lähetä tiedostoja Bluetooth-laitteeseen">lähetä tiedostoja</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetoothin kytkeminen päälle tai pois">kytke päälle ja pois päältä</a></span>…</span>
+<a href="bluetooth.html.fi" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.fi" title="Yhdistä tietokoneesi Bluetooth-laitteeseen">Yhdistä</a></span>, <span class="link"><a href="bluetooth-send-file.html.fi" title="Lähetä tiedostoja Bluetooth-laitteeseen">lähetä tiedostoja</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.fi" title="Bluetoothin kytkeminen päälle tai pois">kytke päälle ja pois päältä</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="power.html" title="Enerxía e batería">Enerxía e batería</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="power.html" title="Enerxía e batería">Enerxía e batería</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Cando o computador <span class="em">hiberna</span>, todos os seus aplicativos e documentos gárdanse e o computador apágase por completo polo que non gasta enerxía, pero os aplicativos e documentos volverán abrirse en canto arrinque o computador de novo.</p>
-<p class="p">Desafortunadamente, a hibernación <span class="link"><a href="power-suspendfail.html" title="Porque o meu computador non se acende logo de ir suspendelo?">non funciona</a></span> en moitos casos, o que pode causar a perda de datos se confía en que os seus documentos e aplicativos se reabrirán cando acenda o computador de novo. Polo tanto, a hibernación está desactivada de forma predeterminada.</p>
+<p class="p">Desafortunadamente, a hibernación <span class="link"><a href="power-suspendfail.html.gl-GL" title="Porque o meu computador non se acende logo de ir suspendelo?">non funciona</a></span> en moitos casos, o que pode causar a perda de datos se confía en que os seus documentos e aplicativos se reabrirán cando acenda o computador de novo. Polo tanto, a hibernación está desactivada de forma predeterminada.</p>
 </div>
 <div id="test-hibernate" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Probar se a hibernación funciona</span></h2></div>
@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">Pode usar a liña de ordes para probar se a hibernación funciona no seu computador.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o <span class="app">Terminal</span> premendo <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> ou buscando <span class="input">terminal</span> no <span class="gui">Panel</span>.</p></li>
+<li class="steps"><p class="p">Abra unha <span class="app">Terminal</span> buscando por <span class="input">terminal</span> na <span class="gui">Vista xeral de actividades</span>.</p></li>
 <li class="steps">
 <p class="p">Escriba <span class="cmd">sudo systemctl hibernate</span> no terminal e prema <span class="key"><kbd>Intro</kbd></span>.</p>
 <p class="p">Escriba o contrasinal cando se lle pregunte.</p>
@@ -104,17 +104,17 @@ ResultActive=yes</pre></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Enerxía e batería">Enerxía e batería</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Que acontece cando suspendo o meu computador?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Porqué a pantalla escurece logo duns segundos?">screen dimming</a></span>…
+<a href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.gl-GL" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.gl-GL" title="Porqué a pantalla escurece logo duns segundos?">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-suspendfail.html" title="Porque o meu computador non se acende logo de ir suspendelo?">Porque o meu computador non se acende logo de ir suspendelo?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.gl-GL" title="Porque o meu computador non se acende logo de ir suspendelo?">Porque o meu computador non se acende logo de ir suspendelo?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li></ul></div>
 </div></div>
 </div>

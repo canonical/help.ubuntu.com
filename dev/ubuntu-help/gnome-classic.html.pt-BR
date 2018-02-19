@@ -48,15 +48,15 @@
 <div class="region">
 <div class="contents">
 <p class="p">O <span class="em">GNOME Clássico</span> é um recurso para usuários que preferem uma experiência de ambiente mais tradicional. Enquanto o <span class="em">GNOME Clássico</span> é baseado nas tecnologias do <span class="em">GNOME 3</span>, ele fornece várias alterações na interface do usuário, tais como os menus <span class="gui">Aplicativos</span> e <span class="gui">Locais</span> na barra superior e uma lista de janelas na parte inferior da janela.</p>
-<p class="p">Você pode usar o menu <span class="gui">Aplicativos</span> na barra superior para iniciar aplicativos. O panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> está disponível ao selecionar o item <span class="gui">Panorama de atividades</span> no menu.</p>
-<p class="p">Para acessar o <span class="em">panorama de <span class="gui">Atividades</span></span>, você também pode pressionar a tecla <span class="key"><a href="keyboard-key-super.html" title="O que é a tecla Super?"><kbd>Super</kbd></a></span>.</p>
+<p class="p">Você pode usar o menu <span class="gui">Aplicativos</span> na barra superior para iniciar aplicativos. O panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> está disponível ao selecionar o item <span class="gui">Panorama de atividades</span> no menu.</p>
+<p class="p">Para acessar o <span class="em">panorama de <span class="gui">Atividades</span></span>, você também pode pressionar a tecla <span class="key"><a href="keyboard-key-super.html.pt-BR" title="O que é a tecla Super?"><kbd>Super</kbd></a></span>.</p>
 </div>
 <div id="gnome-classic-window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Lista de janelas</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">A lista de janelas na parte inferior da janela fornece acesso a todas as suas janelas e aplicativos abertos e permite que você minimize e restaure-os rapidamente.</p>
 <p class="p">No lado direito da lista de janelas, o GNOME exibe um pequeno identificador para o espaço de trabalho atual, como <span class="gui">1</span> para o primeiro (de cima) espaço de trabalho. Adicionalmente, o identificador também exibe o número total de espaços de trabalhos disponíveis. Para alternar para um espaço de trabalho diferente, você pode clicar no identificador e selecionar o espaço de trabalho que você deseja usar do menu.</p>
-<p class="p">Se um aplicativo ou um componente de sistema deseja obter sua atenção, ele vai exibir um ícone azul no lado direito da lista de janelas. Ao clicar no ícone azul mostra a <span class="link"><a href="shell-notifications.html" title="Notificações e a área de notificação">área de notificação</a></span>, o que permite a você acesso as suas notificações.</p>
+<p class="p">Se um aplicativo ou um componente de sistema deseja obter sua atenção, ele vai exibir um ícone azul no lado direito da lista de janelas. Ao clicar no ícone azul mostra a <span class="link"><a href="shell-notifications.html.pt-BR" title="Notificações e a área de notificação">área de notificação</a></span>, o que permite a você acesso as suas notificações.</p>
 </div></div>
 </div></div>
 <div id="gnome-classic-switch" class="sect"><div class="inner">

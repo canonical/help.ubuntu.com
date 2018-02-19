@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="getting-started.html" title="Komma igång">Börja med GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="getting-started.html.sv" title="Komma igång">Börja med GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Ändra datum, tid och tidszon">Föregående</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.sv" title="Ändra datum, tid och tidszon">Föregående</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">Ändra bakgrund</span></h1></div>
 <div class="region">
 <div class="contents"><div class="ui-tile ">
@@ -67,7 +67,7 @@
 <div id="change-wallpaper-overview" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ändra bakgrund</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klicka på <span class="gui"><a href="shell-introduction.html#yourname" title="Du och din dator">systemmenyn</a></span> på höger sida av systemraden.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui"><a href="shell-introduction.html.sv#yourname" title="Du och din dator">systemmenyn</a></span> på höger sida av systemraden.</p></li>
 <li class="steps"><p class="p">Tryck på inställningsknappen längst ner till vänster i menyn.</p></li>
 <li class="steps"><p class="p">Klicka på panelen <span class="gui">Bakgrund</span>.</p></li>
 <li class="steps"><p class="p">Klicka på den aktuella bakgrundsbilden på vänster sida av <span class="gui">Bakgrunds</span>-fönstret.</p></li>
@@ -76,20 +76,20 @@
 <li class="steps"><p class="p">Stäng <span class="gui">Bakgrunds</span>-fönstret genom att klicka på korset i fönstrets övre högra hörn.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Ändra datum, tid och tidszon">Föregående</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.sv" title="Ändra datum, tid och tidszon">Föregående</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Komma igång">Börja med GNOME</a><span class="desc"> — Är GNOME nytt för dig? Lär dig hur du använder det.</span>
+<a href="getting-started.html.sv" title="Komma igång">Börja med GNOME</a><span class="desc"> — Är GNOME nytt för dig? Lär dig hur du använder det.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-background.html" title="Ändra skrivbords- och låsskärmsbakgrunderna">Ändra skrivbords- och låsskärmsbakgrunderna</a><span class="desc"> — Ställ in en bild, färg eller toning som din skrivbordsbakgrund eller låsskärmsbakgrund.</span>
+<a href="look-background.html.sv" title="Ändra skrivbords- och låsskärmsbakgrunderna">Ändra skrivbords- och låsskärmsbakgrunderna</a><span class="desc"> — Ställ in en bild, färg eller toning som din skrivbordsbakgrund eller låsskärmsbakgrund.</span>
 </li></ul></div>
 </div></div>
 </div>

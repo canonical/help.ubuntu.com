@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="media.html#sound" title="基本声音">声音</a> » <a class="trail" href="sound-broken.html" title="声音问题">声音问题</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="media.html.zh-CN#sound" title="基本声音">声音</a> » <a class="trail" href="sound-broken.html.zh-CN" title="声音问题">声音问题</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> › <a class="trail" href="hardware.html#problems" title="常见问题">问题</a> » <a class="trail" href="sound-broken.html" title="声音问题">声音问题</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> › <a class="trail" href="hardware.html.zh-CN#problems" title="常见问题">问题</a> » <a class="trail" href="sound-broken.html.zh-CN" title="声音问题">声音问题</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div id="mute" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">确保声音没有被“静音”</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="您和您的计算机">system menu</a></span> and make sure that
+<p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#yourname" title="您和您的计算机">system menu</a></span> and make sure that
   the sound is not muted or turned down.</p>
 <p class="p">Some laptops have mute switches or keys on their keyboards — try pressing
   that key to see if it unmutes the sound.</p>
@@ -99,7 +99,7 @@
   have the correct sound device selected. This might involve some
   trial-and-error to choose the right one.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Sound</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
 <li class="steps">
@@ -122,7 +122,7 @@
   card you have:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">回到<span class="gui">活动</span>视图，打开一个终端。</p></li>
-<li class="steps"><p class="p">Run <span class="cmd">lspci</span> as <span class="link"><a href="user-admin-explain.html" title="管理员权限是如何工作的呢？">superuser</a></span>;
+<li class="steps"><p class="p">Run <span class="cmd">lspci</span> as <span class="link"><a href="user-admin-explain.html.zh-CN" title="管理员权限是如何工作的呢？">superuser</a></span>;
       either type <span class="cmd">sudo lspci</span> and type your password, or type
       <span class="cmd">su</span>, enter the <span class="em">root</span> (administrative) password,
       then type <span class="cmd">lspci</span>.</p></li>
@@ -143,7 +143,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html" title="声音问题">声音问题</a><span class="desc"> — 排除无声音或音质差的问题。</span>
+<a href="sound-broken.html.zh-CN" title="声音问题">声音问题</a><span class="desc"> — 排除无声音或音质差的问题。</span>
 </li></ul></div>
 </div></div></div>
 </div>

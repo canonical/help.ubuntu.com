@@ -48,15 +48,15 @@
 <div class="region">
 <div class="contents">
 <p class="p"><span class="em">Klasiskais GNOME</span> ir tradicionālāka darbvirsmas vide. Lai arī <span class="em">klasiskais GNOME</span> ir balstīts uz <span class="em">GNOME 3</span> tehnoloģijām, tajā ir vairākas izmaiņas lietotāja saskarnē, piemēram, izvēlnes <span class="gui">Lietotnes</span> un <span class="gui">Vietas</span> augšējā joslā, un logu saraksts ekrāna apakšā.</p>
-<p class="p">Jūs varat izmantot izvēlni <span class="gui">Lietotnes</span> augšējā joslā, lai palaistu lietotnes. <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskats ir pieejams, izvēloties <span class="gui">Aktivitāšu pārskatu</span> vienumu izvēlnē.</p>
-<p class="p">Lai piekļūtu <span class="em"><span class="gui">Aktivitāšu</span> pārskatam</span>, varat arī spiest taustiņu <span class="key"><a href="keyboard-key-super.html" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span>.</p>
+<p class="p">Jūs varat izmantot izvēlni <span class="gui">Lietotnes</span> augšējā joslā, lai palaistu lietotnes. <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskats ir pieejams, izvēloties <span class="gui">Aktivitāšu pārskatu</span> vienumu izvēlnē.</p>
+<p class="p">Lai piekļūtu <span class="em"><span class="gui">Aktivitāšu</span> pārskatam</span>, varat arī spiest taustiņu <span class="key"><a href="keyboard-key-super.html.lv" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span>.</p>
 </div>
 <div id="gnome-classic-window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Logu saraksts</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Ekrāna apakšā esošais logu saraksts dod pieeju visiem atvērtajiem logiem un lietotnēm, kā arī ļauj tos minimizēt un atjaunot.</p>
 <p class="p">Logu saraksta labajā pusē GNOME parāda pašreizējās darbvietas identifikatoru, piemēram, <span class="gui">1</span> pirmajai (augšējai) darbvietai. Identifikators arī attēlo kopējo pieejamo darbvietu skaitu. Lai pārslēgtos uz citu darbvietu, varat spiest uz identifikatora un izvēlēties vēlamo darbvietu no izvēlnes.</p>
-<p class="p">Ja kāda lietotne vai sistēmas komponente vēlas pievērst sev uzmanību, tā parādīs zilu ikonu logu saraksta labajā pusē. Nospiežot zilo ikonu, parādīsies    <span class="link"><a href="shell-notifications.html" title="Paziņojumi un ziņojumu paplāte">ziņojumu paplāte</a></span>, kas jums ļauj piekļūt visiem paziņojumiem.</p>
+<p class="p">Ja kāda lietotne vai sistēmas komponente vēlas pievērst sev uzmanību, tā parādīs zilu ikonu logu saraksta labajā pusē. Nospiežot zilo ikonu, parādīsies    <span class="link"><a href="shell-notifications.html.lv" title="Paziņojumi un ziņojumu paplāte">ziņojumu paplāte</a></span>, kas jums ļauj piekļūt visiem paziņojumiem.</p>
 </div></div>
 </div></div>
 <div id="gnome-classic-switch" class="sect"><div class="inner">

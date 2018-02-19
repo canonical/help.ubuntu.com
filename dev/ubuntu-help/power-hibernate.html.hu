@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="power.html" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="power.html" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">A számítógép <span class="em">hibernálásakor</span> minden alkalmazása és dokumentuma tárolásra kerül, és a számítógép teljesen kikapcsol, így nem használ áramot. Alkalmazásai és dokumentumai a számítógép következő bekapcsolásakor ismét nyitva lesznek.</p>
-<p class="p">Sajnos a hibernálás sok esetben <span class="link"><a href="power-suspendfail.html" title="Miért nem kapcsol vissza felfüggesztés után a számítógépem?">nem működik</a></span>, ami adatvesztést okozhat, ha dokumentumai és alkalmazásai megnyílására számít a számítógép következő bekapcsolásakor. Emiatt a hibernálás alapesetben le van tiltva.</p>
+<p class="p">Sajnos a hibernálás sok esetben <span class="link"><a href="power-suspendfail.html.hu" title="Miért nem kapcsol vissza felfüggesztés után a számítógépem?">nem működik</a></span>, ami adatvesztést okozhat, ha dokumentumai és alkalmazásai megnyílására számít a számítógép következő bekapcsolásakor. Emiatt a hibernálás alapesetben le van tiltva.</p>
 </div>
 <div id="test-hibernate" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">A hibernálás működésének tesztelése</span></h2></div>
@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">A parancssorból ellenőrizheti, hogy a hibernálás működik-e a számítógépén.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyisson egy <span class="app">Terminált</span> a <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> billentyűkombináció lenyomásával, vagy a <span class="input">terminál</span> szóra rákeresve a <span class="gui">Dashban</span>.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="app">Terminál</span> alkalmazást a <span class="gui">Tevékenységek</span> áttekintésben a <span class="input">terminál</span> szóra keresve.</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Adja meg a jelszavát, amikor a program erre kéri.</p>
@@ -105,13 +105,13 @@ ResultActive=yes</pre></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Akkumulátorállapot ellenőrzése">Akkumulátor állapot</a></span>, <span class="link"><a href="power-suspend.html" title="Mi történik a számítógép felfüggesztésekor?">felfüggesztés</a></span>, <span class="link"><a href="power-whydim.html" title="Miért halványul el a képernyőm egy idő után?">képernyő elhalványítása</a></span>…</span>
+<a href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a><span class="desc"> — <span class="link"><a href="power-status.html.hu" title="Akkumulátorállapot ellenőrzése">Akkumulátor állapot</a></span>, <span class="link"><a href="power-suspend.html.hu" title="Mi történik a számítógép felfüggesztésekor?">felfüggesztés</a></span>, <span class="link"><a href="power-whydim.html.hu" title="Miért halványul el a képernyőm egy idő után?">képernyő elhalványítása</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-suspendfail.html" title="Miért nem kapcsol vissza felfüggesztés után a számítógépem?">Miért nem kapcsol vissza felfüggesztés után a számítógépem?</a><span class="desc"> — Egyes számítógép-alkatrészek felfüggesztési hibákat okoznak.</span>
+<a href="power-suspendfail.html.hu" title="Miért nem kapcsol vissza felfüggesztés után a számítógépem?">Miért nem kapcsol vissza felfüggesztés után a számítógépem?</a><span class="desc"> — Egyes számítógép-alkatrészek felfüggesztési hibákat okoznak.</span>
 </li></ul></div>
 </div></div>
 </div>

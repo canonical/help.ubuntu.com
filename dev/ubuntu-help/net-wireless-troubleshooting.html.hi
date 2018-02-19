@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Wireless Networking">Wireless Networking</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hi" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.hi" title="Wireless Networking">Wireless Networking</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hi" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.hi#problems" title="Common problems">Problems</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html" title="Wireless network troubleshooter">अगला</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html.hi" title="Wireless network troubleshooter">अगला</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">Wireless network troubleshooter</span></h1></div>
 <div class="region">
 <div class="contents">
@@ -83,19 +83,19 @@
 </div></div>
 </div></div>
 </div>
-<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html" title="Wireless network troubleshooter">अगला</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html.hi" title="Wireless network troubleshooter">अगला</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">अधिक जानकारी</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="hardware.html#problems" title="Common problems">Hardware problems</a></li>
+<li class="links "><a href="hardware.html.hi#problems" title="Common problems">Hardware problems</a></li>
 <li class="links ">
-<a href="net-wireless.html" title="Wireless Networking">Wireless Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
+<a href="net-wireless.html.hi" title="Wireless Networking">Wireless Networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.hi" title="Connect to a wireless network">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.hi" title="Connect to a hidden wireless network">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.hi" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
     </span>
 </li>
 </ul></div>
@@ -103,7 +103,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">यह भी देखें</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to a wireless network</a><span class="desc"> — Get on the internet — wirelessly.</span>
+<a href="net-wireless-connect.html.hi" title="Connect to a wireless network">Connect to a wireless network</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

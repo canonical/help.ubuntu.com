@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="power.html" title="Напајање и батерија">Напајање и батерија</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="power.html.sr" title="Напајање и батерија">Напајање и батерија</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="power.html" title="Напајање и батерија">Напајање и батерија</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="power.html.sr" title="Напајање и батерија">Напајање и батерија</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,9 +56,9 @@
 <div id="general" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Општи савети</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#suspend" title="Обустављање">Обуставите ваш рачунар</a></span> када га не користите. Ово значајно умањује износ напајања које користи, а може бити пробуђен врло брзо.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#shutdown" title="Гашење или поновно покретање">Угасите</a></span> рачунар када га нећете користити дуже времена. Неки људи се плаше да често гашење рачунара може да га истроши брже, али то није тако.</p></li>
-<li class="list"><p class="p">Користите панел <span class="gui">напајања</span> у <span class="app">Подешавањима</span> да измените ваша подешавања напајања. Постоји велики број опција које ће вам помоћи да сачувате енергију: можете да подесите да се <span class="link"><a href="display-blank.html" title="Подесите време затамњивања екрана">екран сам затамни</a></span> након одређеног времена, да умањите <span class="link"><a href="display-brightness.html" title="Подесите осветљеност екрана">осветљеност екрана</a></span>, и да рачунар <span class="link"><a href="power-suspend.html" title="Шта се дешава када обуставим рачунар?">сам обустави рад</a></span> ако га не користите извесни временски период.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.sr#suspend" title="Обустављање">Обуставите ваш рачунар</a></span> када га не користите. Ово значајно умањује износ напајања које користи, а може бити пробуђен врло брзо.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.sr#shutdown" title="Гашење или поновно покретање">Угасите</a></span> рачунар када га нећете користити дуже времена. Неки људи се плаше да често гашење рачунара може да га истроши брже, али то није тако.</p></li>
+<li class="list"><p class="p">Користите панел <span class="gui">напајања</span> у <span class="app">Подешавањима</span> да измените ваша подешавања напајања. Постоји велики број опција које ће вам помоћи да сачувате енергију: можете да подесите да се <span class="link"><a href="display-blank.html.sr" title="Подесите време затамњивања екрана">екран сам затамни</a></span> након одређеног времена, да умањите <span class="link"><a href="display-brightness.html.sr" title="Подесите осветљеност екрана">осветљеност екрана</a></span>, и да рачунар <span class="link"><a href="power-suspend.html.sr" title="Шта се дешава када обуставим рачунар?">сам обустави рад</a></span> ако га не користите извесни временски период.</p></li>
 <li class="list"><p class="p">Угасите све спољне уређаје (као што су штампачи и скенери) када их не користите.</p></li>
 </ul></div></div></div></div></div>
 </div></div>
@@ -66,7 +66,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Преносни рачунари, нетбукови, и остали уређаји са батеријама</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Смањите <span class="link"><a href="display-brightness.html" title="Подесите осветљеност екрана">осветљеност екрана</a></span>. Напајање екрана чини значајан део потрошње енергије преносног рачунара.</p>
+<p class="p">Смањите <span class="link"><a href="display-brightness.html.sr" title="Подесите осветљеност екрана">осветљеност екрана</a></span>. Напајање екрана чини значајан део потрошње енергије преносног рачунара.</p>
 <p class="p">Већина преносних рачунара има дугмиће на тастатури (или пречице тастатуре) које можете да користите да смањите осветљеност.</p>
 </li>
 <li class="list">
@@ -88,31 +88,31 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Напајање и батерија">Напајање и батерија</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Проверите стање батерије">Стање батерије</a></span>, <span class="link"><a href="power-suspend.html" title="Шта се дешава када обуставим рачунар?">обустављање</a></span>, <span class="link"><a href="power-whydim.html" title="Зашто се екран затамни након неког времена?">затамњивање екрана</a></span>…</span>
+<a href="power.html.sr" title="Напајање и батерија">Напајање и батерија</a><span class="desc"> — <span class="link"><a href="power-status.html.sr" title="Проверите стање батерије">Стање батерије</a></span>, <span class="link"><a href="power-suspend.html.sr" title="Шта се дешава када обуставим рачунар?">обустављање</a></span>, <span class="link"><a href="power-whydim.html.sr" title="Зашто се екран затамни након неког времена?">затамњивање екрана</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html#shutdown" title="Гашење или поновно покретање">Гашење или поновно покретање</a></li>
+<li class="links "><a href="shell-exit.html.sr#shutdown" title="Гашење или поновно покретање">Гашење или поновно покретање</a></li>
 <li class="links ">
-<a href="power-batterywindows.html" title="Зашто батерија траје краће него на Виндоузу/Мек ОС-у?">Зашто батерија траје краће него на Виндоузу/Мек ОС-у?</a><span class="desc"> — Подешавања од стране произвођача и различите процене трајања батерије могу бити узрок овог проблема.</span>
+<a href="power-batterywindows.html.sr" title="Зашто батерија траје краће него на Виндоузу/Мек ОС-у?">Зашто батерија траје краће него на Виндоузу/Мек ОС-у?</a><span class="desc"> — Подешавања од стране произвођача и различите процене трајања батерије могу бити узрок овог проблема.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="Зашто се екран затамни након неког времена?">Зашто се екран затамни након неког времена?</a><span class="desc"> — Екран ће се затамнити када рачунар мирује да би сачувао енергију.</span>
+<a href="power-whydim.html.sr" title="Зашто се екран затамни након неког времена?">Зашто се екран затамни након неког времена?</a><span class="desc"> — Екран ће се затамнити када рачунар мирује да би сачувао енергију.</span>
 </li>
 <li class="links ">
-<a href="power-wireless.html" title="Искључите некоришћене бежичне технологије">Искључите некоришћене бежичне технологије</a><span class="desc"> — Блутут, бежична и мобилна широкопојасна се могу искључити зарад смањења искоришћености батерије.</span>
+<a href="power-wireless.html.sr" title="Искључите некоришћене бежичне технологије">Искључите некоришћене бежичне технологије</a><span class="desc"> — Блутут, бежична и мобилна широкопојасна се могу искључити зарад смањења искоришћености батерије.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Обустављање">Обустављање</a></li>
+<li class="links "><a href="shell-exit.html.sr#suspend" title="Обустављање">Обустављање</a></li>
 <li class="links ">
-<a href="display-brightness.html" title="Подесите осветљеност екрана">Подесите осветљеност екрана</a><span class="desc"> — Измените осветљеност екрана да побољшате читљивост при јаком светлу.</span>
-</li>
-<li class="links ">
-<a href="power-status.html" title="Проверите стање батерије">Проверите стање батерије</a><span class="desc"> — Прикажите стање батерије и повезаних уређаја.</span>
+<a href="display-brightness.html.sr" title="Подесите осветљеност екрана">Подесите осветљеност екрана</a><span class="desc"> — Измените осветљеност екрана да побољшате читљивост при јаком светлу.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Шта се дешава када обуставим рачунар?">Шта се дешава када обуставим рачунар?</a><span class="desc"> — Обустављање шаље ваш рачунар на спавање тако да користи мање напајања.</span>
+<a href="power-status.html.sr" title="Проверите стање батерије">Проверите стање батерије</a><span class="desc"> — Прикажите стање батерије и повезаних уређаја.</span>
+</li>
+<li class="links ">
+<a href="power-suspend.html.sr" title="Шта се дешава када обуставим рачунар?">Шта се дешава када обуставим рачунар?</a><span class="desc"> — Обустављање шаље ваш рачунар на спавање тако да користи мање напајања.</span>
 </li>
 </ul></div>
 </div></div>

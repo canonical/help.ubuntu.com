@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-email.html" title="Software de correo electrónico">Software de correo electrónico</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-email.html.es" title="Software de correo electrónico">Software de correo electrónico</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Cambiar qué aplicación de correo electrónico se usa para escribir correos</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Al pulsar en un botón o enlace para enviar un nuevo correo electrónico (por ejemplo, en su procesador de textos), la aplicación de correo predeterminada se abrirá con un mensaje en blanco, listo para escribir. Sin embargo, si tiene más de una aplicación de correo instalada, podría abrirse la aplicación de correo incorrecta. Puede resolver el problema cambiando la aplicación de correo electrónico predeterminada:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Detalles</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Detalles</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Detalles</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Elija <span class="gui">Aplicaciones predeterminadas</span> de la lista en el lado izquierdo de la ventana.</p></li>
 <li class="steps"><p class="p">Elija qué cliente de correo quiere usar de manera predeterminada, cambiando la opción <span class="gui">Correo</span>.</p></li>
@@ -62,7 +62,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email.html" title="Software de correo electrónico">Software de correo electrónico</a><span class="desc"> — <span class="link"><a href="net-default-email.html" title="Cambiar qué aplicación de correo electrónico se usa para escribir correos">Aplicaciones de correo-e predeterminadas</a></span>, <span class="link"><a href="net-email-virus.html" title="¿Necesito comprobar si hay virus en mis correos electrónicos?">¿Debo hacer un análisis en busca de virus?</a></span>…</span>
+<a href="net-email.html.es" title="Software de correo electrónico">Software de correo electrónico</a><span class="desc"> — <span class="link"><a href="net-default-email.html.es" title="Cambiar qué aplicación de correo electrónico se usa para escribir correos">Aplicaciones de correo-e predeterminadas</a></span>, <span class="link"><a href="net-email-virus.html.es" title="¿Necesito comprobar si hay virus en mis correos electrónicos?">¿Debo hacer un análisis en busca de virus?</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

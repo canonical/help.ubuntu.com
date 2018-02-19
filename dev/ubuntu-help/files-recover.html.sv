@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Återskapa en fil från Papperskorgen</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">För att återställa en fil från Papperskorgen:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="app">Filer</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="app">Filer</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="app">Filer</span> för att öppna filhanteraren.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Papperskorg</span> i sidopanelen. Om du inte ser sidopanelen, klicka på <span class="gui">Filer</span> i systemraden och välj <span class="gui">Sidopanel</span>.</p></li>
 <li class="steps"><p class="p">Om din borttagna fil finns där, klicka på den och välj <span class="gui">Återskapa</span>. Den kommer att återställas i mappen ifrån vilken den togs bort.</p></li>
@@ -67,16 +67,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sv#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-lost.html" title="Hitta en borttappad fil">Hitta en borttappad fil</a><span class="desc"> — Följ dessa tips om du inte kan hitta en fil du har skapat eller hämtat.</span>
+<a href="files-lost.html.sv" title="Hitta en borttappad fil">Hitta en borttappad fil</a><span class="desc"> — Följ dessa tips om du inte kan hitta en fil du har skapat eller hämtat.</span>
 </li>
 <li class="links ">
-<a href="files-delete.html" title="Ta bort filer och mappar">Ta bort filer och mappar</a><span class="desc"> — Ta bort filer eller mappar som du inte längre behöver.</span>
+<a href="files-delete.html.sv" title="Ta bort filer och mappar">Ta bort filer och mappar</a><span class="desc"> — Ta bort filer eller mappar som du inte längre behöver.</span>
 </li>
 </ul></div>
 </div></div>

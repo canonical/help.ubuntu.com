@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="prefs-display.html" title="Pantalla e monitor">Pantalla e monitor</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="prefs-display.html.gl-GL" title="Pantalla e monitor">Pantalla e monitor</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Connect another monitor to your computer</span></h1></div>
@@ -56,7 +56,7 @@
   your system does not recognize it immediately, or you would like to adjust
   the settings:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Displays</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Displays</span> to open the panel.</p></li>
 <li class="steps">
@@ -65,7 +65,7 @@
       deactivate the monitor, or one of <span class="gui">Primary</span>,
       <span class="gui">Secondary</span>, or <span class="gui">Mirror</span> to activate it.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">The primary monitor is the one with the
-        <span class="link"><a href="shell-introduction.html" title="Introdución a GNOME">top bar</a></span>, and where the
+        <span class="link"><a href="shell-introduction.html.gl-GL" title="Introdución a GNOME">top bar</a></span>, and where the
         <span class="gui">Activities</span> overview is shown.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">To rotate the orientation of the monitor, use the buttons with the
@@ -80,7 +80,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Pantalla e monitor">Pantalla e monitor</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Fondo</a></span>, <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">tamaño e rotación</a></span>, brillo…</span>
+<a href="prefs-display.html.gl-GL" title="Pantalla e monitor">Pantalla e monitor</a><span class="desc"> — <span class="link"><a href="look-background.html.gl-GL" title="Change the desktop and lock screen backgrounds">Fondo</a></span>, <span class="link"><a href="look-resolution.html.gl-GL" title="Change the resolution or rotation of the screen">tamaño e rotación</a></span>, brillo…</span>
 </li></ul></div>
 </div></div></div>
 </div>

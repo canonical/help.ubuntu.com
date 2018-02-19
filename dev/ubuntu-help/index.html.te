@@ -45,64 +45,64 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
-<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 17.10</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html" title="ప్రారంభించండి"><span class="title">గ్నోమ్ తో ప్రారంభించండి</span><span class="linkdiv-dash"> — </span><span class="desc">గ్నోమ్ కు కొత్తా? ఎలా వుపయోగించాలో నేర్చుకోండి.</span></a></div></div></div></div>
+<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 18.04</span></div><div class="region"><div class="contents">
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.te" title="ప్రారంభించండి"><span class="title">గ్నోమ్ తో ప్రారంభించండి</span><span class="linkdiv-dash"> — </span><span class="desc">గ్నోమ్ కు కొత్తా? ఎలా వుపయోగించాలో నేర్చుకోండి.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="అనువర్తనాలను ప్రారంభించండి"><span class="title">అనువర్తనాలను ప్రారంభించండి</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">కార్యకలాపాల</span> అవలోకనం నుండి అనువర్తనాలను తెరవండి.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="గ్నోమ్ పరిచయం"><span class="title">గ్నోమ్ పరిచయం</span><span class="linkdiv-dash"> — </span><span class="desc">మీ డెస్క్‌టాప్, పై పట్టీ, మరియు <span class="gui">కార్యకలాపాల</span> అవలోకనకు ఒక దృశ్య పరిచయం.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="నిష్క్రమించడం, విద్యుత్ ఆపడం లేదా వాడుకరులను మార్చడం"><span class="title">నిష్క్రమించడం, విద్యుత్ ఆపడం లేదా వాడుకరులను మార్చడం</span><span class="linkdiv-dash"> — </span><span class="desc">నిష్క్రమించడం, వాడుకరులను మార్చడం ద్వారా, మీ వాడుకరి ఖాతాను వదిలివెళ్ళడం ఎలాగో తెలుసుకోండి.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.te" title="అనువర్తనాలను ప్రారంభించండి"><span class="title">అనువర్తనాలను ప్రారంభించండి</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">కార్యకలాపాల</span> అవలోకనం నుండి అనువర్తనాలను తెరవండి.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.te" title="గ్నోమ్ పరిచయం"><span class="title">గ్నోమ్ పరిచయం</span><span class="linkdiv-dash"> — </span><span class="desc">మీ డెస్క్‌టాప్, పై పట్టీ, మరియు <span class="gui">కార్యకలాపాల</span> అవలోకనకు ఒక దృశ్య పరిచయం.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.te" title="నిష్క్రమించడం, విద్యుత్ ఆపడం లేదా వాడుకరులను మార్చడం"><span class="title">నిష్క్రమించడం, విద్యుత్ ఆపడం లేదా వాడుకరులను మార్చడం</span><span class="linkdiv-dash"> — </span><span class="desc">నిష్క్రమించడం, వాడుకరులను మార్చడం ద్వారా, మీ వాడుకరి ఖాతాను వదిలివెళ్ళడం ఎలాగో తెలుసుకోండి.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="shell-overview.html" title="Your desktop">Your desktop</a></div>
+<div class="links-grid-link"><a href="shell-overview.html.te" title="Your desktop">Your desktop</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="clock-calendar.html" title="క్యాలెండరు నియామకాలు">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="గమనికలు మరియు సందేశాల పళ్ళెం">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="ఉపయోగకరమైన కీబోర్డు అడ్డదారులు">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="కిటికీలు మరియు కార్యక్షేత్రాలు">windows and workspaces</a></span>…
+      <span class="link"><a href="clock-calendar.html.te" title="క్యాలెండరు నియామకాలు">Calendar</a></span>,
+      <span class="link"><a href="shell-notifications.html.te" title="గమనికలు మరియు సందేశాల పళ్ళెం">notifications</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.te" title="ఉపయోగకరమైన కీబోర్డు అడ్డదారులు">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-windows.html.te" title="కిటికీలు మరియు కార్యక్షేత్రాలు">windows and workspaces</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html" title="నిస్తంత్రి నెట్‌వర్కింగు">నిస్తంత్రి</a></span>, <span class="link"><a href="net-wired.html" title="Wired Networking">తంత్రి</a></span>, <span class="link"><a href="net-problem.html" title="Network problems">అనుసంధాన సమస్యలు</a></span>, <span class="link"><a href="net-browser.html" title="Web Browsers">జాల విహారణం</a></span>, <span class="link"><a href="net-email.html" title="Email &amp; email software">ఈమెయిలు ఖాతాలు</a></span>…</span></div>
+<div class="links-grid-link"><a href="net.html.te" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.te" title="నిస్తంత్రి నెట్‌వర్కింగు">నిస్తంత్రి</a></span>, <span class="link"><a href="net-wired.html.te" title="Wired Networking">తంత్రి</a></span>, <span class="link"><a href="net-problem.html.te" title="Network problems">అనుసంధాన సమస్యలు</a></span>, <span class="link"><a href="net-browser.html.te" title="Web Browsers">జాల విహారణం</a></span>, <span class="link"><a href="net-email.html.te" title="Email &amp; email software">ఈమెయిలు ఖాతాలు</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html" title="శబ్దం, దృశ్యం &amp; చిత్రాలు">శబ్దం, దృశ్యం &amp; చిత్రాలు</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="media.html#photos" title="ఛాయాచిత్రాలు మరియు డిజిటల్ కెమేరాలు">డిజిటల్ కెమేరాలు</a></span>, <span class="link"><a href="media.html#music" title="సంగీతం మరియు వహనీయ ఆడియో ప్రదర్శకాలు">ఐపాడ్లు</a></span>, <span class="link"><a href="media.html#photos" title="ఛాయాచిత్రాలు మరియు డిజిటల్ కెమేరాలు">ఛాయాచిత్రాల సవరణ</a></span>, <span class="link"><a href="media.html#videos" title="దృశ్యకాలు మరియు దృశ్యక కెమేరాలు">దృశ్యకాలను ప్రదర్శించడం</a></span>…</span></div>
+<div class="links-grid-link"><a href="media.html.te" title="శబ్దం, దృశ్యం &amp; చిత్రాలు">శబ్దం, దృశ్యం &amp; చిత్రాలు</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="media.html.te#photos" title="ఛాయాచిత్రాలు మరియు డిజిటల్ కెమేరాలు">డిజిటల్ కెమేరాలు</a></span>, <span class="link"><a href="media.html.te#music" title="సంగీతం మరియు వహనీయ ఆడియో ప్రదర్శకాలు">ఐపాడ్లు</a></span>, <span class="link"><a href="media.html.te#photos" title="ఛాయాచిత్రాలు మరియు డిజిటల్ కెమేరాలు">ఛాయాచిత్రాల సవరణ</a></span>, <span class="link"><a href="media.html.te#videos" title="దృశ్యకాలు మరియు దృశ్యక కెమేరాలు">దృశ్యకాలను ప్రదర్శించడం</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="files.html" title="దస్త్రాలు, సంచయాలు &amp; వెతుకులాట">దస్త్రాలు, సంచయాలు &amp; వెతుకులాట</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="files-search.html" title="దస్త్రాల కోసం వెతకండి">వెతకడం</a></span>, <span class="link"><a href="files-delete.html" title="ఫైళ్ళను మరియు సంచయాలను తొలగించండి">దస్త్రాలను తొలగించడం</a></span>, <span class="link"><a href="files.html#backup" title="Backing up">నకలునిల్వ</a></span>, <span class="link"><a href="files.html#removable" title="తీసివేయదగిన డ్రైవులు మరియు బాహ్య డిస్కులు">తీసివేయదగిన డ్రైవులు</a></span>…</span></div>
+<div class="links-grid-link"><a href="files.html.te" title="దస్త్రాలు, సంచయాలు &amp; వెతుకులాట">దస్త్రాలు, సంచయాలు &amp; వెతుకులాట</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="files-search.html.te" title="దస్త్రాల కోసం వెతకండి">వెతకడం</a></span>, <span class="link"><a href="files-delete.html.te" title="ఫైళ్ళను మరియు సంచయాలను తొలగించండి">దస్త్రాలను తొలగించడం</a></span>, <span class="link"><a href="files.html.te#backup" title="Backing up">నకలునిల్వ</a></span>, <span class="link"><a href="files.html.te#removable" title="తీసివేయదగిన డ్రైవులు మరియు బాహ్య డిస్కులు">తీసివేయదగిన డ్రైవులు</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a></div>
+<div class="links-grid-link"><a href="addremove.html.te" title="Install &amp; remove software">Install &amp; remove software</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Remove an application">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+      <span class="link"><a href="addremove-install.html.te" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.te" title="Remove an application">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.te" title="Add software repositories">add repositories</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs.html" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">వాడుకరి &amp; వ్యవస్థ అమరికలు</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html" title="కీబోర్డు">కీబోర్డు</a></span>, <span class="link"><a href="mouse.html" title="మౌసు">మౌసు</a></span>, <span class="link"><a href="prefs-display.html" title="ప్రదర్శన &amp; తెర">ప్రదర్శన</a></span>, <span class="link"><a href="prefs-language.html" title="ప్రాంతం &amp; భాష">భాషలు</a></span>, <span class="link"><a href="user-accounts.html" title="వాడుకరి ఖాతాలు">వాడుకరి ఖాతాలు</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs.html.te" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">వాడుకరి &amp; వ్యవస్థ అమరికలు</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html.te" title="కీబోర్డు">కీబోర్డు</a></span>, <span class="link"><a href="mouse.html.te" title="మౌసు">మౌసు</a></span>, <span class="link"><a href="prefs-display.html.te" title="ప్రదర్శన &amp; తెర">ప్రదర్శన</a></span>, <span class="link"><a href="prefs-language.html.te" title="ప్రాంతం &amp; భాష">భాషలు</a></span>, <span class="link"><a href="user-accounts.html.te" title="వాడుకరి ఖాతాలు">వాడుకరి ఖాతాలు</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware.html" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్ &amp; చోదకాలు</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="hardware.html#problems" title="ఉమ్మడి సమస్యలు">హార్డ్‌వేర్ సమస్యలు</a></span>, <span class="link"><a href="printing.html" title="Printing">ముద్రకాలు</a></span>, <span class="link"><a href="power.html" title="విద్యుత్ &amp; విద్యుద్ఘటం">విద్యుత్ అమరికలు</a></span>, <span class="link"><a href="color.html" title="రంగుల నిర్వహణ">రంగుల నిర్వహణ</a></span>, <span class="link"><a href="bluetooth.html" title="బ్లూటూత్">బ్లూటూత్</a></span>, <span class="link"><a href="disk.html" title="డిస్కులు మరియు నిల్వ">డిస్కులు</a></span>…</span></div>
+<div class="links-grid-link"><a href="hardware.html.te" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్ &amp; చోదకాలు</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="hardware.html.te#problems" title="ఉమ్మడి సమస్యలు">హార్డ్‌వేర్ సమస్యలు</a></span>, <span class="link"><a href="printing.html.te" title="Printing">ముద్రకాలు</a></span>, <span class="link"><a href="power.html.te" title="విద్యుత్ &amp; విద్యుద్ఘటం">విద్యుత్ అమరికలు</a></span>, <span class="link"><a href="color.html.te" title="రంగుల నిర్వహణ">రంగుల నిర్వహణ</a></span>, <span class="link"><a href="bluetooth.html.te" title="బ్లూటూత్">బ్లూటూత్</a></span>, <span class="link"><a href="disk.html.te" title="డిస్కులు మరియు నిల్వ">డిస్కులు</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="a11y.html" title="సార్వత్రిక ప్రాప్యత">సార్వత్రిక ప్రాప్యత</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="a11y.html#vision" title="దృష్టి వైకల్యం">చూడటం</a></span>, <span class="link"><a href="a11y.html#sound" title="వినికిడి లోపం">వినడం</a></span>, <span class="link"><a href="a11y.html#mobility" title="చలన వైకల్యం">చలనం</a></span>, <span class="link"><a href="a11y-braille.html" title="తెరను బ్రెయిలీలో చదువుము">బ్రెయిలీ</a></span>, <span class="link"><a href="a11y-mag.html" title="Magnify a screen area">తెర బూతద్దం</a></span>…</span></div>
+<div class="links-grid-link"><a href="a11y.html.te" title="సార్వత్రిక ప్రాప్యత">సార్వత్రిక ప్రాప్యత</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="a11y.html.te#vision" title="దృష్టి వైకల్యం">చూడటం</a></span>, <span class="link"><a href="a11y.html.te#sound" title="వినికిడి లోపం">వినడం</a></span>, <span class="link"><a href="a11y.html.te#mobility" title="చలన వైకల్యం">చలనం</a></span>, <span class="link"><a href="a11y-braille.html.te" title="తెరను బ్రెయిలీలో చదువుము">బ్రెయిలీ</a></span>, <span class="link"><a href="a11y-mag.html.te" title="Magnify a screen area">తెర బూతద్దం</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="tips.html" title="చిట్కాలు &amp; జిమ్మిక్కులు">చిట్కాలు &amp; జిమ్మిక్కులు</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html" title="Enter special characters">ప్రత్యేక అక్షరాలు</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Middle-click">మధ్య నొక్కు అడ్డదారులు</a></span>…</span></div>
+<div class="links-grid-link"><a href="tips.html.te" title="చిట్కాలు &amp; జిమ్మిక్కులు">చిట్కాలు &amp; జిమ్మిక్కులు</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.te" title="Enter special characters">ప్రత్యేక అక్షరాలు</a></span>, <span class="link"><a href="mouse-middleclick.html.te" title="Middle-click">మధ్య నొక్కు అడ్డదారులు</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="more-help.html" title="Get more help">Get more help</a></div>
+<div class="links-grid-link"><a href="more-help.html.te" title="Get more help">Get more help</a></div>
 <div class="desc"><span class="desc">
-        <span class="link"><a href="about-this-guide.html" title="About this guide">Tips on using this guide</a></span>,
-        <span class="link"><a href="get-involved.html" title="Participate to improve this guide">help improve this guide</a></span>…
+        <span class="link"><a href="about-this-guide.html.te" title="About this guide">Tips on using this guide</a></span>,
+        <span class="link"><a href="get-involved.html.te" title="Participate to improve this guide">help improve this guide</a></span>…
     </span></div>
 </div>
 </div></div></div>

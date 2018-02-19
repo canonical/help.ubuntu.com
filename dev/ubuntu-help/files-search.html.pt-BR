@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Pesquisando por arquivos</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Pesquisar</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o aplicativo <span class="app">Arquivos</span> no panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span>.</p></li>
+<li class="steps"><p class="p">Abra o aplicativo <span class="app">Arquivos</span> no panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span>.</p></li>
 <li class="steps"><p class="p">Se você sabe que os arquivos que deseja estão em uma pasta em particular, vá até ela.</p></li>
 <li class="steps">
 <p class="p">Digite uma ou mais palavras que você sabe que aparece no nome do arquivo. Por exemplo, se todos os suas faturas contêm a palavra “Fatura”, digite <span class="input">fatura</span>. Palavras são comparadas sem diferenciar maiúsculo de minúsculo.</p>
@@ -75,7 +75,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt-BR#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

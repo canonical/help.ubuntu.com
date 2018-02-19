@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a> » <a class="trail" href="nautilus-prefs.html" title="Fájlkezelő beállításai">Fájlkezelő beállításai</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.hu" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html.hu#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a> » <a class="trail" href="nautilus-prefs.html.hu" title="Fájlkezelő beállításai">Fájlkezelő beállításai</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fájlkezelő megjelenítési beállításai</span></h1></div>
@@ -55,7 +55,7 @@
 <div class="media media-image floatend"><div class="inner"><img src="figures/nautilus-icons.png" height="110" width="250" class="media media-block" alt="Ikonok a fájlkezelőben feliratokkal"></div></div>
 <p class="p">Az ikonnézet használatakor extra információkat jeleníttethet meg a fájlokról és mappákról az ikonok alatti feliratokban. Ez akkor hasznos, ha például gyakran kell megjelenítenie a fájl tulajdonosát, vagy utolsó módosítási dátumát.</p>
 <p class="p">Kinagyíthat egy mappát az eszköztár nézetbeállítások gombjára kattintva, és a csúszkával egy nagyítási szintet kiválasztva. A nagyítás során a fájlkezelő egyre több és több információt jelenít meg a feliratokban. Legfeljebb három fajta információt választhat a feliratokban történő megjelenítéshez. Az első a legtöbb nagyítási szinten megjelenik, az utolsó csak a nagyon nagy méreteknél.</p>
-<p class="p">Az ikonfeliratokban megjeleníthető információk megegyeznek a listanézet oszlopaiban megjeleníthetőkkel. További részletekért lásd: <span class="link"><a href="nautilus-list.html" title="A Fájlok listaoszlopainak beállításai">A Fájlok listaoszlopainak beállításai</a></span>.</p>
+<p class="p">Az ikonfeliratokban megjeleníthető információk megegyeznek a listanézet oszlopaiban megjeleníthetőkkel. További részletekért lásd: <span class="link"><a href="nautilus-list.html.hu" title="A Fájlok listaoszlopainak beállításai">A Fájlok listaoszlopainak beállításai</a></span>.</p>
 </div></div>
 </div></div>
 <div id="list-view" class="sect"><div class="inner">
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Fájlkezelő beállításai">Fájlkezelő beállításai</a><span class="desc"> — A fájlböngésző beállításainak megjelenítése és megadása.</span>
+<a href="nautilus-prefs.html.hu" title="Fájlkezelő beállításai">Fájlkezelő beállításai</a><span class="desc"> — A fájlböngésző beállításainak megjelenítése és megadása.</span>
 </li></ul></div>
 </div></div></div>
 </div>

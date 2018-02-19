@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Brezžične povezave">Brezžične povezave</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.sl" title="Brezžične povezave">Brezžične povezave</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="Težave z omrežjem">Težave z omrežjem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.sl" title="Težave z omrežjem">Težave z omrežjem</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,10 +56,10 @@
 <p class="p">There are a number of reasons why you might not be able to see your
   wireless network on the list of available networks from the system menu.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">V primeru da na seznamu ni prikazano nobeno brezžično omrežje, je vaša brezžična morda izklopljena ali pa <span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">ne deluje pravilno</a></span>. Prepričajte se, da je vklopljena.</p></li>
+<li class="list"><p class="p">V primeru da na seznamu ni prikazano nobeno brezžično omrežje, je vaša brezžična morda izklopljena ali pa <span class="link"><a href="net-wireless-troubleshooting.html.sl" title="Odpravljanje težav z brezžičnimi omrežji">ne deluje pravilno</a></span>. Prepričajte se, da je vklopljena.</p></li>
 <li class="list"><p class="p">Lahko ste izven obsega omrežja. Poskusite se premakniti bližje brezžični postaji/usmerjevalniku in si oglejte, če se omrežje čez nekaj časa pojavi na seznamu.</p></li>
 <li class="list"><p class="p">Posodabljanje seznama brezžičnih omrežij traja nekaj časa. V primeru da ste svoj računalnik pravkar vklopili ali ga premaknili na drugo mesto, počakajte trenutek in preverite, če se omrežje pojavi na seznamu.</p></li>
-<li class="list"><p class="p">Omrežje je lahko skrito.  V tem primeru se morate <span class="link"><a href="net-wireless-hidden.html" title="Povezava s skritim brezžičnim omrežjem">povezati na drugačen način</a></span>.</p></li>
+<li class="list"><p class="p">Omrežje je lahko skrito.  V tem primeru se morate <span class="link"><a href="net-wireless-hidden.html.sl" title="Povezava s skritim brezžičnim omrežjem">povezati na drugačen način</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -69,21 +69,21 @@
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="Brezžične povezave">Brezžične povezave</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Povezava z brezžičnim omrežjem">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Povezava s skritim brezžičnim omrežjem">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?">Disconnecting</a></span>…
+<a href="net-wireless.html.sl" title="Brezžične povezave">Brezžične povezave</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.sl" title="Povezava z brezžičnim omrežjem">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.sl" title="Povezava s skritim brezžičnim omrežjem">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.sl" title="Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?">Disconnecting</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="net-problem.html" title="Težave z omrežjem">Težave z omrežjem</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">iskanje brezžične povezave</a></span> …</span>
+<a href="net-problem.html.sl" title="Težave z omrežjem">Težave z omrežjem</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.sl" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html.sl" title="I can’t see my wireless network in the list">iskanje brezžične povezave</a></span> …</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-hidden.html" title="Povezava s skritim brezžičnim omrežjem">Povezava s skritim brezžičnim omrežjem</a><span class="desc"> — Connect to a wireless network that is not displayed in the network
+<a href="net-wireless-hidden.html.sl" title="Povezava s skritim brezžičnim omrežjem">Povezava s skritim brezžičnim omrežjem</a><span class="desc"> — Connect to a wireless network that is not displayed in the network
     list.</span>
 </li></ul></div>
 </div></div>

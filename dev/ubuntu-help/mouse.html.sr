@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,28 +54,28 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html" title="Кликните и померите показивач миша користећи тастатуру"><span class="title">Кликните и померите показивач миша користећи тастатуру</span><span class="linkdiv-dash"> — </span><span class="desc">Укључите тастере миша да управљате њим користећи бројевну тастатуру.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html" title="Кликните, превуците, или клизајте на додирној табли"><span class="title">Кликните, превуците, или клизајте на додирној табли</span><span class="linkdiv-dash"> — </span><span class="desc">Кликните, превуците, или клизајте користећи лупкање и покрете на додирној табли.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html" title="Користите миша левом руком"><span class="title">Користите миша левом руком</span><span class="linkdiv-dash"> — </span><span class="desc">Преокрените лево и десно дугме миша у подешавањима миша.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html" title="Подесите брзину двоструког клика"><span class="title">Подесите брзину двоструког клика</span><span class="linkdiv-dash"> — </span><span class="desc">Одредите колико брзо ћете морати да притиснете дугме миша по други пут да бисте извршили двоструки клик.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.sr" title="Кликните и померите показивач миша користећи тастатуру"><span class="title">Кликните и померите показивач миша користећи тастатуру</span><span class="linkdiv-dash"> — </span><span class="desc">Укључите тастере миша да управљате њим користећи бројевну тастатуру.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.sr" title="Кликните, превуците, или клизајте на додирној табли"><span class="title">Кликните, превуците, или клизајте на додирној табли</span><span class="linkdiv-dash"> — </span><span class="desc">Кликните, превуците, или клизајте користећи лупкање и покрете на додирној табли.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html.sr" title="Користите миша левом руком"><span class="title">Користите миша левом руком</span><span class="linkdiv-dash"> — </span><span class="desc">Преокрените лево и десно дугме миша у подешавањима миша.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.sr" title="Подесите брзину двоструког клика"><span class="title">Подесите брзину двоструког клика</span><span class="linkdiv-dash"> — </span><span class="desc">Одредите колико брзо ћете морати да притиснете дугме миша по други пут да бисте извршили двоструки клик.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html" title="Подесите брзину миша и додирне табле"><span class="title">Подесите брзину миша и додирне табле</span><span class="linkdiv-dash"> — </span><span class="desc">Измените колико брзо ће се померати показивач када користите миша или додирну таблу.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html" title="Симулирајте десни клик миша"><span class="title">Симулирајте десни клик миша</span><span class="linkdiv-dash"> — </span><span class="desc">Притисните и држите леви тастер миша да извршите десни клик.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html" title="Симулирајте кликање лебдењем"><span class="title">Симулирајте кликање лебдењем</span><span class="linkdiv-dash"> — </span><span class="desc">Функција <span class="gui">Лебдећег клика</span> (временског клика) вам омогућава да кликнете држећи миш у мировању.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.sr" title="Подесите брзину миша и додирне табле"><span class="title">Подесите брзину миша и додирне табле</span><span class="linkdiv-dash"> — </span><span class="desc">Измените колико брзо ће се померати показивач када користите миша или додирну таблу.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.sr" title="Симулирајте десни клик миша"><span class="title">Симулирајте десни клик миша</span><span class="linkdiv-dash"> — </span><span class="desc">Притисните и држите леви тастер миша да извршите десни клик.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.sr" title="Симулирајте кликање лебдењем"><span class="title">Симулирајте кликање лебдењем</span><span class="linkdiv-dash"> — </span><span class="desc">Функција <span class="gui">Лебдећег клика</span> (временског клика) вам омогућава да кликнете држећи миш у мировању.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Општи проблеми</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html" title="Миш реагује са кашњењем пре него што почне са радом"><span class="title">Миш реагује са кашњењем пре него што почне са радом</span><span class="linkdiv-dash"> — </span><span class="desc">Ако морате да продрмате или да кликнете мишем да би одговорио.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html" title="Показивач миша се не помера"><span class="title">Показивач миша се не помера</span><span class="linkdiv-dash"> — </span><span class="desc">Како да проверите зашто ваш миш не ради.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.sr" title="Миш реагује са кашњењем пре него што почне са радом"><span class="title">Миш реагује са кашњењем пре него што почне са радом</span><span class="linkdiv-dash"> — </span><span class="desc">Ако морате да продрмате или да кликнете мишем да би одговорио.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.sr" title="Показивач миша се не помера"><span class="title">Показивач миша се не помера</span><span class="linkdiv-dash"> — </span><span class="desc">Како да проверите зашто ваш миш не ради.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="tips" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Савети</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Средњи клик"><span class="title">Средњи клик</span><span class="linkdiv-dash"> — </span><span class="desc">Користите средњи тастер миша за отварање програма, отварање језичака, и друго.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.sr" title="Средњи клик"><span class="title">Средњи клик</span><span class="linkdiv-dash"> — </span><span class="desc">Користите средњи тастер миша за отварање програма, отварање језичака, и друго.</span></a></div></div>
 <div class="links-twocolumn"></div>
 </div></div></div></div></div>
 </div></div>
@@ -85,10 +85,10 @@
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html" title="Кориснички налози">кориснички налози</a></span>…</span>
+<a href="prefs.html.sr" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html.sr" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html.sr" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html.sr" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html.sr" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html.sr" title="Кориснички налози">кориснички налози</a></span>…</span>
 </li>
 <li class="links ">
-<a href="hardware.html" title="Хардвер и управљачки програми">Хардвер и управљачки програми</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Општи проблеми">Хардверски проблеми</a></span>, <span class="link"><a href="printing.html" title="Штампање">штампачи</a></span>, <span class="link"><a href="power.html" title="Напајање и батерија">подешавања напајања</a></span>, <span class="link"><a href="color.html" title="Управљање бојом">управљање бојом</a></span>, <span class="link"><a href="bluetooth.html" title="Блутут">Блутут</a></span>, <span class="link"><a href="disk.html" title="Дискови и складишта">дискови</a></span>…</span>
+<a href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер и управљачки програми</a><span class="desc"> — <span class="link"><a href="hardware.html.sr#problems" title="Општи проблеми">Хардверски проблеми</a></span>, <span class="link"><a href="printing.html.sr" title="Штампање">штампачи</a></span>, <span class="link"><a href="power.html.sr" title="Напајање и батерија">подешавања напајања</a></span>, <span class="link"><a href="color.html.sr" title="Управљање бојом">управљање бојом</a></span>, <span class="link"><a href="bluetooth.html.sr" title="Блутут">Блутут</a></span>, <span class="link"><a href="disk.html.sr" title="Дискови и складишта">дискови</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="keyboard.html" title="Klávesnice">Klávesnice</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="keyboard.html" title="Klávesnice">Klávesnice</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Abyste změnili klávesu či klávesy, které se mají u klávesové zkratky mačkat:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Klávesnice</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Klávesnice</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Klávesnice</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Vyberte kartu <span class="gui">Zkratky</span>.</p></li>
 <li class="steps"><p class="p">V levém panelu vyberte kategorii a vpravo pak řádek s požadovanou činností. Definice aktuální klávesové zkratky se změní na <span class="gui">Nová klávesová zkratka…</span></p></li>
@@ -84,7 +84,7 @@
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="Mail key symbol"></span></span> nebo <span class="key"><kbd>Mail</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Spustit prohlížeč WWW</p></td>
+<td style="border-top-style: solid;"><p class="p">Spustit webový prohlížeč</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-world.svg" class="media media-inline" alt="WWW key symbol"></span></span> nebo <span class="media"><span class="media media-image"><img src="figures/keyboard-key-home.svg" class="media media-inline" alt="WWW key symbol"></span></span> nebo <span class="key"><kbd>WWW</kbd></span></p></td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Přesunout okno o jednu pracovní plochu nahoru</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html" title="Co je klávesa Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html.cs" title="Co je klávesa Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Přesunout okno o jednu pracovní plochu dolů</p></td>
@@ -495,13 +495,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
+<a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.cs" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html.cs#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Užitečné klávesové zkratky">Užitečné klávesové zkratky</a><span class="desc"> — Jak se v uživatelském prostředí pohybovat pomocí klávesnice.</span>
+<a href="shell-keyboard-shortcuts.html.cs" title="Užitečné klávesové zkratky">Užitečné klávesové zkratky</a><span class="desc"> — Jak se v uživatelském prostředí pohybovat pomocí klávesnice.</span>
 </li></ul></div>
 </div></div>
 </div>

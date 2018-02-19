@@ -43,108 +43,108 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Uporabniške in sistemske nastavitve</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="clock.html" title="Datum in čas">Datum in čas</a></div>
+<div class="links-grid-link"><a href="clock.html.sl" title="Datum in čas">Datum in čas</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="clock-set.html" title="Sprememba datuma in časa">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="Sprememba časovnega pasu">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="Sestanki v koledarju">calendar and appointments</a></span>…
+      <span class="link"><a href="clock-set.html.sl" title="Sprememba datuma in časa">Set date and time</a></span>,
+      <span class="link"><a href="clock-world.html.sl" title="Add a world clock">world clocks</a></span>,
+      <span class="link"><a href="clock-timezone.html.sl" title="Sprememba časovnega pasu">timezone</a></span>,
+      <span class="link"><a href="clock-calendar.html.sl" title="Sestanki v koledarju">calendar and appointments</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="wacom.html" title="Grafična tablica Wacom">Grafična tablica Wacom</a></div>
+<div class="links-grid-link"><a href="wacom.html.sl" title="Grafična tablica Wacom">Grafična tablica Wacom</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="wacom-multi-monitor.html" title="Izberite zaslon">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html" title="Nadzor pisala">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html" title="Uporaba tablice z levico">use the tablet left handed</a></span>…
+      <span class="link"><a href="wacom-multi-monitor.html.sl" title="Izberite zaslon">Map a monitor</a></span>,
+      <span class="link"><a href="wacom-stylus.html.sl" title="Nadzor pisala">configure the stylus</a></span>,
+      <span class="link"><a href="wacom-left-handed.html.sl" title="Uporaba tablice z levico">use the tablet left handed</a></span>…
   </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html" title="Miška">Miška</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html" title="Uporaba miške z levico">Uporaba miške z levico</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Prilagoditev hitrosti miške in drsne ploščice">hitrost in občutljivost</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Kliknice, povlecite ali drsajte z drsno ploščico">klikanje in drsanje po drsni ploščici</a></span> …</span></div>
+<div class="links-grid-link"><a href="mouse.html.sl" title="Miška">Miška</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.sl" title="Uporaba miške z levico">Uporaba miške z levico</a></span>, <span class="link"><a href="mouse-sensitivity.html.sl" title="Prilagoditev hitrosti miške in drsne ploščice">hitrost in občutljivost</a></span>, <span class="link"><a href="mouse-touchpad-click.html.sl" title="Kliknice, povlecite ali drsajte z drsno ploščico">klikanje in drsanje po drsni ploščici</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="power.html" title="Napajanje in baterija">Napajanje in baterija</a></div>
+<div class="links-grid-link"><a href="power.html.sl" title="Napajanje in baterija">Napajanje in baterija</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Zakaj se moj zaslon po določenem času zatemni?">screen dimming</a></span>…
+      <span class="link"><a href="power-status.html.sl" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.sl" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.sl" title="Zakaj se moj zaslon po določenem času zatemni?">screen dimming</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="privacy.html" title="Nastavitve zasebnosti">Nastavitve zasebnosti</a></div>
+<div class="links-grid-link"><a href="privacy.html.sl" title="Nastavitve zasebnosti">Nastavitve zasebnosti</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="privacy-screen-lock.html" title="Automatically lock your screen">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
+      <span class="link"><a href="privacy-screen-lock.html.sl" title="Automatically lock your screen">Screen lock</a></span>,
+      <span class="link"><a href="privacy-history-recent-off.html.sl" title="Turn off or limit file history tracking">Usage history</a></span>,
+      <span class="link"><a href="privacy-purge.html.sl" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-language.html" title="Področje in jezik">Področje in jezik</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-language.html" title="Izbira jezika, ki ga uporabljate">Jezik</a></span>, <span class="link"><a href="session-formats.html" title="Sprememba datuma in oblik merjenja">regija in oblike</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk">razporeditve tipkovnice</a></span> …</span></div>
+<div class="links-grid-link"><a href="prefs-language.html.sl" title="Področje in jezik">Področje in jezik</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.sl" title="Izbira jezika, ki ga uporabljate">Jezik</a></span>, <span class="link"><a href="session-formats.html.sl" title="Sprememba datuma in oblik merjenja">regija in oblike</a></span>, <span class="link"><a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">razporeditve tipkovnice</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-sharing.html" title="Sharing Settings">Sharing Settings</a></div>
+<div class="links-grid-link"><a href="prefs-sharing.html.sl" title="Sharing Settings">Sharing Settings</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="sharing-bluetooth.html" title="Control sharing over Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html" title="Share your personal files">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html" title="Dajte svoje namizje v souporabo">Screen sharing</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Share your music, photos and videos">Media sharing</a></span>…
+      <span class="link"><a href="sharing-bluetooth.html.sl" title="Control sharing over Bluetooth">Bluetooth sharing</a></span>,
+      <span class="link"><a href="sharing-personal.html.sl" title="Share your personal files">Personal file sharing</a></span>,
+      <span class="link"><a href="sharing-desktop.html.sl" title="Dajte svoje namizje v souporabo">Screen sharing</a></span>,
+      <span class="link"><a href="sharing-media.html.sl" title="Share your music, photos and videos">Media sharing</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="accounts.html" title="Spletni računi">Spletni računi</a></div>
+<div class="links-grid-link"><a href="accounts.html.sl" title="Spletni računi">Spletni računi</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="accounts-add.html" title="Dodaj račun">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Odstranitev računa">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+      <span class="link"><a href="accounts-add.html.sl" title="Dodaj račun">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.sl" title="Odstranitev računa">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.sl" title="Online services and applications">Learn about services</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="keyboard.html" title="Tipkovnica">Tipkovnica</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span></div>
+<div class="links-grid-link"><a href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sl" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html.sl#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="user-accounts.html" title="Uporabniški računi">Uporabniški računi</a></div>
+<div class="links-grid-link"><a href="user-accounts.html.sl" title="Uporabniški računi">Uporabniški računi</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="user-add.html" title="Dodajanje novega uporabniškga računa">Add user</a></span>,
-      <span class="link"><a href="user-changepassword.html" title="Spreminjanje gesla">change password</a></span>,
-      <span class="link"><a href="user-admin-change.html" title="Sprememba kdo ima skrbniška dovoljenja">administrators</a></span>…
+      <span class="link"><a href="user-add.html.sl" title="Dodajanje novega uporabniškga računa">Add user</a></span>,
+      <span class="link"><a href="user-changepassword.html.sl" title="Spreminjanje gesla">change password</a></span>,
+      <span class="link"><a href="user-admin-change.html.sl" title="Sprememba kdo ima skrbniška dovoljenja">administrators</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html" title="Upravljanje barv">Upravljanje barv</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Zakaj je upravljanje z barvami pomembno?">Zakaj je to pomembno</a></span>, <span class="link"><a href="color.html#profiles" title="Barvni profili">Barvni profili</a></span>, <span class="link"><a href="color.html#calibration" title="Umerjanje">Kako umeriti napravo </a></span>…</span></div>
+<div class="links-grid-link"><a href="color.html.sl" title="Upravljanje barv">Upravljanje barv</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.sl" title="Zakaj je upravljanje z barvami pomembno?">Zakaj je to pomembno</a></span>, <span class="link"><a href="color.html.sl#profiles" title="Barvni profili">Barvni profili</a></span>, <span class="link"><a href="color.html.sl#calibration" title="Umerjanje">Kako umeriti napravo </a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-display.html" title="Zaslon">Zaslon</a></div>
+<div class="links-grid-link"><a href="prefs-display.html.sl" title="Zaslon">Zaslon</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
+      <span class="link"><a href="look-background.html.sl" title="Change the desktop and lock screen backgrounds">Background</a></span>,
+      <span class="link"><a href="look-resolution.html.sl" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
       brightness…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="startup-applications.html" title="Začetni programi">Začetni programi</a></div>
+<div class="links-grid-link"><a href="startup-applications.html.sl" title="Začetni programi">Začetni programi</a></div>
 <div class="desc"><span class="desc">Izberite kateri programi naj se zaženejo ob prijavi.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html#sound" title="Osnovni zvok">Zvok</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html" title="Spreminjanje glasnosti zvoka">Glasnost</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Uporaba drugih zvočnikov ali slušalk">zvočniki in slušalke</a></span>, <span class="link"><a href="sound-usemic.html" title="Uporaba drugega mikrofona">mikrofoni</a></span> …</span></div>
+<div class="links-grid-link"><a href="media.html.sl#sound" title="Osnovni zvok">Zvok</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html.sl" title="Spreminjanje glasnosti zvoka">Glasnost</a></span>, <span class="link"><a href="sound-usespeakers.html.sl" title="Uporaba drugih zvočnikov ali slušalk">zvočniki in slušalke</a></span>, <span class="link"><a href="sound-usemic.html.sl" title="Uporaba drugega mikrofona">mikrofoni</a></span> …</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.sl" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

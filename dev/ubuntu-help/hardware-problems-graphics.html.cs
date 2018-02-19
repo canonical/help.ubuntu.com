@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Běžné problémy">Problémy</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html.cs#problems" title="Běžné problémy">Problémy</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problémy s obrazovkou</span></h1></div>
@@ -51,20 +51,20 @@
 <div class="contents">
 <p class="p">Většina problémů se zobrazením je způsobena něčím okolo ovladače grafiky nebo nastavením. Které z následujících témat nejlépe popisuje problém, na který jste narazili?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html" title="Nastavení jasu obrazovky"><span class="title">Nastavení jasu obrazovky</span><span class="linkdiv-dash"> — </span><span class="desc">Jak změnit jas obrazovky, aby byla čitelnější na ostrém světle.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Nastavení času vypnutí obrazovky"><span class="title">Nastavení času vypnutí obrazovky</span><span class="linkdiv-dash"> — </span><span class="desc">Jak změnit čas, po kterém se vypne obrazovka kvůli úspoře energie.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="Obrazovka se sama zamkne po příliš krátké době"><span class="title">Obrazovka se sama zamkne po příliš krátké době</span><span class="linkdiv-dash"> — </span><span class="desc">Jak v nastaveních <span class="gui">Soukromí</span> změnit, jak dlouho se má čekat, než se zamkne obrazovka.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Proč moje obrazovka po krátké době potemní?"><span class="title">Proč moje obrazovka po krátké době potemní?</span><span class="linkdiv-dash"> — </span><span class="desc">Obrazovka ztlumí jas, když je počítač nějakou dobu nepoužíván, aby ušetřil energii.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="Proč se můj počítač nechce znovu zapnout po jeho uspání?"><span class="title">Proč se můj počítač nechce znovu zapnout po jeho uspání?</span><span class="linkdiv-dash"> — </span><span class="desc">Některý hardware způsobuje problémy s uspáním do paměti.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html" title="Proč vše na mojí obrazovce vypadá rozmazané/kostičkované?"><span class="title">Proč vše na mojí obrazovce vypadá rozmazané/kostičkované?</span><span class="linkdiv-dash"> — </span><span class="desc">Možná je nastavené nesprávné rozlišení obrazovky.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="Můj počítač se nezapne"><span class="title">Můj počítač se nezapne</span><span class="linkdiv-dash"> — </span><span class="desc">Možnou příčinou je povysunutý napájecí kabel nebo problémy s hardwarem.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.cs" title="Nastavení jasu obrazovky"><span class="title">Nastavení jasu obrazovky</span><span class="linkdiv-dash"> — </span><span class="desc">Jak změnit jas obrazovky, aby byla čitelnější na ostrém světle.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.cs" title="Nastavení času vypnutí obrazovky"><span class="title">Nastavení času vypnutí obrazovky</span><span class="linkdiv-dash"> — </span><span class="desc">Jak změnit čas, po kterém se vypne obrazovka kvůli úspoře energie.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.cs" title="Obrazovka se sama zamkne po příliš krátké době"><span class="title">Obrazovka se sama zamkne po příliš krátké době</span><span class="linkdiv-dash"> — </span><span class="desc">Jak v nastaveních <span class="gui">Soukromí</span> změnit, jak dlouho se má čekat, než se zamkne obrazovka.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.cs" title="Proč moje obrazovka po krátké době potemní?"><span class="title">Proč moje obrazovka po krátké době potemní?</span><span class="linkdiv-dash"> — </span><span class="desc">Obrazovka ztlumí jas, když je počítač nějakou dobu nepoužíván, aby ušetřil energii.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.cs" title="Proč se můj počítač nechce znovu zapnout po jeho uspání?"><span class="title">Proč se můj počítač nechce znovu zapnout po jeho uspání?</span><span class="linkdiv-dash"> — </span><span class="desc">Některý hardware způsobuje problémy s uspáním do paměti.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.cs" title="Proč vše na mojí obrazovce vypadá rozmazané/kostičkované?"><span class="title">Proč vše na mojí obrazovce vypadá rozmazané/kostičkované?</span><span class="linkdiv-dash"> — </span><span class="desc">Možná je nastavené nesprávné rozlišení obrazovky.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.cs" title="Můj počítač se nezapne"><span class="title">Můj počítač se nezapne</span><span class="linkdiv-dash"> — </span><span class="desc">Možnou příčinou je povysunutý napájecí kabel nebo problémy s hardwarem.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Běžné problémy">Problémy s hardwarem</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.cs#problems" title="Běžné problémy">Problémy s hardwarem</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Звук, видео и изображения">Звук, видео и изображения</a> › <a class="trail" href="media.html#videos" title="Видеозаписи и видеокамеры">Видеозаписи</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ru" title="Звук, видео и изображения">Звук, видео и изображения</a> › <a class="trail" href="media.html.ru#videos" title="Видеозаписи и видеокамеры">Видеозаписи</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Звук, видео и изображения">Звук, видео и изображения</a> › <a class="trail" href="media.html#music" title="Музыка и портативные аудиоплееры">Музыка и проигрыватели</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ru" title="Звук, видео и изображения">Звук, видео и изображения</a> › <a class="trail" href="media.html.ru#music" title="Музыка и портативные аудиоплееры">Музыка и проигрыватели</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html#removable" title="Съёмные носители и внешние диски">Съёмные носители и внешние диски</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ru" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html.ru#removable" title="Съёмные носители и внешние диски">Съёмные носители и внешние диски</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Звук, видео и изображения">Звук, видео и изображения</a> › <a class="trail" href="media.html#photos" title="Фотографии и цифровые фотокамеры">Фотографии</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ru" title="Звук, видео и изображения">Звук, видео и изображения</a> › <a class="trail" href="media.html.ru#photos" title="Фотографии и цифровые фотокамеры">Фотографии</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <p class="p">Вы можете настроить автоматический запуск приложения при подключении устройства, загрузки диска или медиа-носителя. Например, можно сделать так, чтобы при подключении цифровой камеры автоматически запускалось приложение для управления фотоснимками. Можно также отключить автоматическое действие.</p>
 <p class="p">Чтобы решить, какое приложение должно запускаться при подключении того или иного устройства:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
     start typing <span class="gui">Details</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Подробности</span>, чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Съёмный носитель</span>.</p></li>
@@ -94,7 +94,7 @@
 <dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
     <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
     video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
+    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html.ru" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
     </p></dd>
 <dt class="terms">Чистые диски</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing
@@ -126,10 +126,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#videos" title="Видеозаписи и видеокамеры">Видеозаписи</a></li>
-<li class="links "><a href="media.html#music" title="Музыка и портативные аудиоплееры">Музыка и проигрыватели</a></li>
-<li class="links "><a href="files.html#removable" title="Съёмные носители и внешние диски">Съёмные носители и внешние диски</a></li>
-<li class="links "><a href="media.html#photos" title="Фотографии и цифровые фотокамеры">Фотографии</a></li>
+<li class="links "><a href="media.html.ru#videos" title="Видеозаписи и видеокамеры">Видеозаписи</a></li>
+<li class="links "><a href="media.html.ru#music" title="Музыка и портативные аудиоплееры">Музыка и проигрыватели</a></li>
+<li class="links "><a href="files.html.ru#removable" title="Съёмные носители и внешние диски">Съёмные носители и внешние диски</a></li>
+<li class="links "><a href="media.html.ru#photos" title="Фотографии и цифровые фотокамеры">Фотографии</a></li>
 </ul></div>
 </div></div></div>
 </div>

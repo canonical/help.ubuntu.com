@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="power.html" title="Daya &amp; baterai">Daya &amp; baterai</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="power.html" title="Daya &amp; baterai">Daya &amp; baterai</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -77,10 +77,10 @@ their useful lifetime, although you should not expect a big difference.</p>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Periksa status baterai">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
+<a href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.id" title="Periksa status baterai">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

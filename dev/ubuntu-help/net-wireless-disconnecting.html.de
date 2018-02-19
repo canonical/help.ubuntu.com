@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wireless.html" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wireless.html.de" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-problem.html" title="Netzwerkprobleme">Netzwerkprobleme</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-problem.html.de" title="Netzwerkprobleme">Netzwerkprobleme</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -82,17 +82,17 @@
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Verbinden mit Funknetzwerken">Mit einem WLAN verbinden</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Verbinden mit verborgenen Funknetzwerken">Verborgene Netzwerke</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Warum wird meine WLAN-Verbindung dauernd getrennt?">Verbindung trennen</a></span> …</span>
+<a href="net-wireless.html.de" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.de" title="Verbinden mit Funknetzwerken">Mit einem WLAN verbinden</a></span>, <span class="link"><a href="net-wireless-hidden.html.de" title="Verbinden mit verborgenen Funknetzwerken">Verborgene Netzwerke</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.de" title="Warum wird meine WLAN-Verbindung dauernd getrennt?">Verbindung trennen</a></span> …</span>
 </li>
 <li class="links ">
-<a href="net-problem.html" title="Netzwerkprobleme">Netzwerkprobleme</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Problemlösungen für Funknetzwerke">Fehlerbehandlung für Funknetzwerke</a></span>, <span class="link"><a href="net-wireless-find.html" title="Ich kann mein Funknetzwerk in der Liste nicht finden">Ihr Funknetzwerk suchen</a></span> …</span>
+<a href="net-problem.html.de" title="Netzwerkprobleme">Netzwerkprobleme</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.de" title="Problemlösungen für Funknetzwerke">Fehlerbehandlung für Funknetzwerke</a></span>, <span class="link"><a href="net-wireless-find.html.de" title="Ich kann mein Funknetzwerk in der Liste nicht finden">Ihr Funknetzwerk suchen</a></span> …</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Verbinden mit Funknetzwerken">Verbinden mit Funknetzwerken</a><span class="desc"> — Gehen Sie ins Internet – drahtlos.</span>
+<a href="net-wireless-connect.html.de" title="Verbinden mit Funknetzwerken">Verbinden mit Funknetzwerken</a><span class="desc"> — Gehen Sie ins Internet – drahtlos.</span>
 </li></ul></div>
 </div></div>
 </div>

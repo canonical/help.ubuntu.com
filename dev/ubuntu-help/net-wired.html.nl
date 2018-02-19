@@ -43,29 +43,29 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bekabeld netwerk</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html" title="Verbinden met een bekabeld (Ethernet) netwerk"><span class="title">Verbinden met een bekabeld (Ethernet) netwerk</span><span class="linkdiv-dash"> — </span><span class="desc">Voor het opzetten van de meeste bekabelde netwerkverbindingen hoeft er alleen een netwerkkabel aangesloten te worden.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html" title="Een verbinding met een vast IP-adres aanmaken"><span class="title">Een verbinding met een vast IP-adres aanmaken</span><span class="linkdiv-dash"> — </span><span class="desc">Het gebruiken van een statisch IP-adres kan het beheren van bepaalde netwerkdiensten vergemakkelijken.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Netwerkinstellingen handmatig instellen"><span class="title">Netwerkinstellingen handmatig instellen</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
+<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html.nl" title="Verbinden met een bekabeld (Ethernet) netwerk"><span class="title">Verbinden met een bekabeld (Ethernet) netwerk</span><span class="linkdiv-dash"> — </span><span class="desc">Voor het opzetten van de meeste bekabelde netwerkverbindingen hoeft er alleen een netwerkkabel aangesloten te worden.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html.nl" title="Een verbinding met een vast IP-adres aanmaken"><span class="title">Een verbinding met een vast IP-adres aanmaken</span><span class="linkdiv-dash"> — </span><span class="desc">Het gebruiken van een statisch IP-adres kan het beheren van bepaalde netwerkdiensten vergemakkelijken.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html.nl" title="Netwerkinstellingen handmatig instellen"><span class="title">Netwerkinstellingen handmatig instellen</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
     automatically.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Verbinden met een VPN"><span class="title">Verbinden met een VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Met VPN kunt u verbinden met een lokaal netwerk via internet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html.nl" title="Verbinden met een VPN"><span class="title">Verbinden met een VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Met VPN kunt u verbinden met een lokaal netwerk via internet.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Draadloos netwerk">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Bekabeld netwerk">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Netwerkproblemen">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Webbrowsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="E mail &amp; e-mailsoftware">email accounts</a></span>…
+<a href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html.nl" title="Draadloos netwerk">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html.nl" title="Bekabeld netwerk">wired</a></span>,
+      <span class="link"><a href="net-problem.html.nl" title="Netwerkproblemen">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html.nl" title="Webbrowsers">web browsing</a></span>,
+      <span class="link"><a href="net-email.html.nl" title="E mail &amp; e-mailsoftware">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

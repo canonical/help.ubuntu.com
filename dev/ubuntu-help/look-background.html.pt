@@ -43,15 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="prefs-display.html" title="Ecrã">Ecrã</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="prefs-display.html.pt" title="Ecrã">Ecrã</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mudar o fundo do escritório e do ecrã de bloqueio</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Pode mudar a imagem usada como fundo ou estabelecer uma cor solida.</p>
+<p class="p">You can change the image used for your backgrounds or set it to be a
+  solid color.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Fundo</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Fundo</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Fundo</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione <span class="gui">Fundo</span> ou <span class="gui">Ecrã de bloqueio</span>.</p></li>
 <li class="steps">
@@ -63,7 +64,7 @@
 </ul></div></div></div>
 </li>
 <li class="steps"><p class="p">A configuração aplicar-se-á imediatamente.</p></li>
-<li class="steps"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Mude entre as áreas de trabalho">Altere para um área de trabalho esvazia</a></span> para ver o escritório inteiro.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.pt" title="Mude entre as áreas de trabalho">Altere para um área de trabalho esvazia</a></span> para ver o escritório inteiro.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -72,12 +73,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Ecrã">Ecrã</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Mudar o fundo do escritório e do ecrã de bloqueio">Fundo</a></span>, <span class="link"><a href="look-resolution.html" title="Mudar a resolução ou a rotação do ecrã">tamanho e rotação</a></span>, brilho…</span>
+<a href="prefs-display.html.pt" title="Ecrã">Ecrã</a><span class="desc"> — <span class="link"><a href="look-background.html.pt" title="Mudar o fundo do escritório e do ecrã de bloqueio">Fundo</a></span>, <span class="link"><a href="look-resolution.html.pt" title="Mudar a resolução ou a rotação do ecrã">tamanho e rotação</a></span>, brilho…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-change-wallpaper.html" title="Alterar o papel de parede">Um tutorial sobre a alteração do papel de parede</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-change-wallpaper.html.pt" title="Alterar o papel de parede">Um tutorial sobre a alteração do papel de parede</a></li></ul></div>
 </div></div>
 </div>
 </div>

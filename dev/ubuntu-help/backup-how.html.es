@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#backup" title="Hacer copias de respaldo">Hacer copias de respaldo</a> » <a class="trail" href="backup-why.html" title="Hacer copias de respaldo de sus archivos importantes">Copias de respaldo</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#backup" title="Hacer copias de respaldo">Hacer copias de respaldo</a> » <a class="trail" href="backup-why.html.es" title="Hacer copias de respaldo de sus archivos importantes">Copias de respaldo</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Cómo hacer copias de respaldo</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">La manera más sencilla de hacer copias de seguridad de sus archivos y configuración es dejar a una aplicación de copia de seguridad que gestiones los procesos de respaldo. Hay un cierto número de aplicaciones de copia de seguridad, por ejemplo <span class="app">Déjà Dup</span>.</p>
 <p class="p">La ayuda para la aplicación de copia de respaldo elegida le guiará mientras establece sus preferencias de copia de respaldo, así como para restaurar sus datos.</p>
-<p class="p">Una opción alternativa consiste, simplemente, en <span class="link"><a href="files-copy.html" title="Copiar o mover archivos y carpetas">copiar sus archivos</a></span> en un lugar seguro, como un disco duro externo, otro equipo de la red, o una unidad USB. Sus <span class="link"><a href="backup-thinkabout.html" title="¿Dónde puedo encontrar los archivos de los que quiero hacer copia de respaldo?">archivos personales</a></span> y preferencias suelen estar en su carpeta personal, por lo que puede copiarlos de ahí.</p>
+<p class="p">Una opción alternativa consiste, simplemente, en <span class="link"><a href="files-copy.html.es" title="Copiar o mover archivos y carpetas">copiar sus archivos</a></span> en un lugar seguro, como un disco duro externo, otro equipo de la red, o una unidad USB. Sus <span class="link"><a href="backup-thinkabout.html.es" title="¿Dónde puedo encontrar los archivos de los que quiero hacer copia de respaldo?">archivos personales</a></span> y preferencias suelen estar en su carpeta personal, por lo que puede copiarlos de ahí.</p>
 <p class="p">La cantidad de datos que puede respaldar está limitada por el tamaño del dispositivo de almacenamiento. Si tiene espacio suficiente en su dispositivo de respaldo, es mejor copiar la carpeta personal completa con las siguientes excepciones:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Archivos que están respaldados en algún sitio, tales como un CD o un DVD, u otro medio extraíble.</p></li>
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Hacer copias de respaldo de sus archivos importantes">Hacer copias de respaldo de sus archivos importantes</a><span class="desc"> — Por qué, qué, dónde y cómo hacer copias de seguridad.</span>
+<a href="backup-why.html.es" title="Hacer copias de respaldo de sus archivos importantes">Hacer copias de respaldo de sus archivos importantes</a><span class="desc"> — Por qué, qué, dónde y cómo hacer copias de seguridad.</span>
 </li></ul></div>
 </div></div></div>
 </div>

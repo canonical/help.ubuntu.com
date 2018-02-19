@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">E-pošta, programi e-pošte</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="Ali moram svojo e-pošto preiskati za viruse?"><span class="title">Ali moram svojo e-pošto preiskati za viruse?</span><span class="linkdiv-dash"> — </span><span class="desc">Virusi zelo verjetno ne bodo okužili vašega računalnika, vendar lahko okužijo druge ljudi, ki jim pošiljate e-pošto.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-email.html" title="Spremenite poštni program s katerim boste pisali e-pošto."><span class="title">Spremenite poštni program s katerim boste pisali e-pošto.</span><span class="linkdiv-dash"> — </span><span class="desc">Privzeti odjemalec e-pošte določite oz. spremenite v <span class="gui">Podrobnostih</span> v <span class="gui">Nastavitvah</span>.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-email-virus.html.sl" title="Ali moram svojo e-pošto preiskati za viruse?"><span class="title">Ali moram svojo e-pošto preiskati za viruse?</span><span class="linkdiv-dash"> — </span><span class="desc">Virusi zelo verjetno ne bodo okužili vašega računalnika, vendar lahko okužijo druge ljudi, ki jim pošiljate e-pošto.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-email.html.sl" title="Spremenite poštni program s katerim boste pisali e-pošto."><span class="title">Spremenite poštni program s katerim boste pisali e-pošto.</span><span class="linkdiv-dash"> — </span><span class="desc">Privzeti odjemalec e-pošte določite oz. spremenite v <span class="gui">Podrobnostih</span> v <span class="gui">Nastavitvah</span>.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Brezžične povezave">Brezžično</a></span>, <span class="link"><a href="net-wired.html" title="Žične povezave">žično</a></span>, <span class="link"><a href="net-problem.html" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html" title="Spletni brskalniki">spletno brskanje</a></span>, <span class="link"><a href="net-email.html" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span>
+<a href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sl" title="Brezžične povezave">Brezžično</a></span>, <span class="link"><a href="net-wired.html.sl" title="Žične povezave">žično</a></span>, <span class="link"><a href="net-problem.html.sl" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html.sl" title="Spletni brskalniki">spletno brskanje</a></span>, <span class="link"><a href="net-email.html.sl" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-wireless.html" title="Trådlösa nätverk">Trådlösa nätverk</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlösa nätverk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Anslut till mobilt bredband</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">Du kan ställa in en anslutning till ett mobilt (3G) nätverk via din dators inbyggda 3G-modem, din mobiltelefon eller en Internet-sticka.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Om du inte har ett inbyggt 3G-modem, anslut din telefon eller Internet-sticka till en USB-port på din dator.</p></li>
-<li class="steps"><p class="p">Öppna <span class="gui"><a href="shell-introduction.html#yourname" title="Du och din dator">systemmenyn</a></span> på högersidan av systemraden.</p></li>
+<li class="steps"><p class="p">Öppna <span class="gui"><a href="shell-introduction.html.sv#yourname" title="Du och din dator">systemmenyn</a></span> på högersidan av systemraden.</p></li>
 <li class="steps">
 <p class="p">Välj <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-cellular-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Mobilt bredband av</span>. Då kommer <span class="gui">Mobilt bredband</span>-delen av menyn att expandera.</p>
 <div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Om <span class="gui">Mobilt bredband</span> inte visas i systemstatusmenyn, försäkra dig om att din enhet inte är inställd på att ansluta som masslagring.</p></div></div></div></div>
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Trådlösa nätverk">Trådlösa nätverk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Anslut till ett trådlöst nätverk">Anslut till wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Anslut till ett dolt, trådlöst nätverk">Dolda nätverk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Varför kopplar mitt trådlösa nätverk ner hela tiden?">Koppla ifrån</a></span>…</span>
+<a href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlösa nätverk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.sv" title="Anslut till ett trådlöst nätverk">Anslut till wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.sv" title="Anslut till ett dolt, trådlöst nätverk">Dolda nätverk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.sv" title="Varför kopplar mitt trådlösa nätverk ner hela tiden?">Koppla ifrån</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

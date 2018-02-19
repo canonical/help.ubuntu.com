@@ -43,27 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ja" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html.ja#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ファイルプロパティ</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">ファイルやフォルダーに関する情報を表示するには、アイテムを右クリックして<span class="gui">プロパティ</span>を選択します。アイテムを選択して <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Enter</kbd></span></span> を押すことでも、情報を表示できます。</p>
-<p class="p">ファイルプロパティのウィンドウでは、ファイルの種類や、サイズ、更新日時などの情報を確認できます。こうした情報がよく必要になる場合は、<span class="link"><a href="nautilus-list.html" title="Files list columns preferences">一覧表示の列</a></span>や<span class="link"><a href="nautilus-display.html#icon-captions" title="アイコンの見出し">アイコンの見出し</a></span>に表示することができます。</p>
-<p class="p"><span class="gui">基本</span>タブの情報については以下で説明します。<span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="ファイルのアクセス権を設定する">アクセス権</a></span></span>や<span class="gui"><span class="link"><a href="files-open.html#default" title="デフォルトのアプリケーションを変更する">開き方</a></span></span>のタブもあります。画像や動画など、特定の種類のファイルについては追加のタブがあり、幅や高さ、再生時間、コーデックなどの情報を確認できます。</p>
+<p class="p">ファイルプロパティのウィンドウでは、ファイルの種類や、サイズ、更新日時などの情報を確認できます。こうした情報がよく必要になる場合は、<span class="link"><a href="nautilus-list.html.ja" title="Files list columns preferences">一覧表示の列</a></span>や<span class="link"><a href="nautilus-display.html.ja#icon-captions" title="アイコンの見出し">アイコンの見出し</a></span>に表示することができます。</p>
+<p class="p"><span class="gui">基本</span>タブの情報については以下で説明します。<span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.ja" title="ファイルのアクセス権を設定する">アクセス権</a></span></span>や<span class="gui"><span class="link"><a href="files-open.html.ja#default" title="デフォルトのアプリケーションを変更する">開き方</a></span></span>のタブもあります。画像や動画など、特定の種類のファイルについては追加のタブがあり、幅や高さ、再生時間、コーデックなどの情報を確認できます。</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">基本プロパティ</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Name</span></dt>
-<dd class="terms"><p class="p">この欄を変更することで、ファイル名の変更ができます。プロパティウィンドウ以外でも名前の変更は可能です。<span class="link"><a href="files-rename.html" title="ファイル、フォルダーの名前を変更する">ファイル、フォルダーの名前を変更する</a></span> を参照してください。</p></dd>
+<dd class="terms"><p class="p">この欄を変更することで、ファイル名の変更ができます。プロパティウィンドウ以外でも名前の変更は可能です。<span class="link"><a href="files-rename.html.ja" title="ファイル、フォルダーの名前を変更する">ファイル、フォルダーの名前を変更する</a></span> を参照してください。</p></dd>
 <dt class="terms"><span class="gui">Type</span></dt>
 <dd class="terms">
 <p class="p">This helps you identify the type of the file, such as PDF document,
     OpenDocument Text, or JPEG image. The file type determines which
     applications can open the file, among other things. For example, you
-    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="別のアプリケーションでファイルを開く">別のアプリケーションでファイルを開く</a></span>
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html.ja" title="別のアプリケーションでファイルを開く">別のアプリケーションでファイルを開く</a></span>
     for more information on this.</p>
 <p class="p">ファイルの <span class="em">MIME 型</span>が括弧内に表示されます。MIME 型はファイルの種類を示すのにコンピューターで使用される標準的な方法です。</p>
 </dd>
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ja#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="ファイルのアクセス権を設定する">ファイルのアクセス権を設定する</a><span class="desc"> — あなたのファイルやフォルダーを誰が参照できて、誰が編集できるかを制御します。</span>
+<a href="nautilus-file-properties-permissions.html.ja" title="ファイルのアクセス権を設定する">ファイルのアクセス権を設定する</a><span class="desc"> — あなたのファイルやフォルダーを誰が参照できて、誰が編集できるかを制御します。</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,20 +44,20 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="media.html" title="Zvok, video in slike">Zvok, video in slike</a> › <a class="trail" href="media.html#photos" title="Fotografije in digitalni fotoaparati">Fotografije</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="media.html.sl" title="Zvok, video in slike">Zvok, video in slike</a> › <a class="trail" href="media.html.sl#photos" title="Fotografije in digitalni fotoaparati">Fotografije</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html#problems" title="Pogoste težave">Težave</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html.sl#problems" title="Pogoste težave">Težave</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Težave z bralnikom večpredstavnosnih kartic</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Številni računalniki imajo bralnike za SD (Secure Digital), MMC (MultiMediaCard), SmartMedia, Memory Stick, CompactFlash in druge pomnilniške kartice. Morale bi biti samodejno <span class="link"><a href="disk-partitions.html" title="Upravljanje nosilcev in razdelkov">priklopljene</a></span>. Tukaj je nekaj nasvetov za odpravljanje težav, če se to ne zgodi:</p>
+<p class="p">Številni računalniki imajo bralnike za SD (Secure Digital), MMC (MultiMediaCard), SmartMedia, Memory Stick, CompactFlash in druge pomnilniške kartice. Morale bi biti samodejno <span class="link"><a href="disk-partitions.html.sl" title="Upravljanje nosilcev in razdelkov">priklopljene</a></span>. Tukaj je nekaj nasvetov za odpravljanje težav, če se to ne zgodi:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Poskrbite, da je kartica pravilno vstavljena. Veliko kartic je, ko so pravilno vstavljene, videti kot da so narobe obrnjene. Prepričajte se, da je kartica trdno vstavljena v režo. Nekatere kartice, še posebno CompactFlash za pravilno vstavitev zahtevajo nekaj sile. (Bodite previdni, da ne pritisnete premočno).</p></li>
 <li class="steps"><p class="p">Open <span class="app">Files</span> from the
-  <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview. Does the inserted
+  <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview. Does the inserted
   card appear in the <span class="gui">Devices</span> list in the left sidebar? Sometimes the
   card appears in this list but is not mounted; click it once to mount. (If the
   sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
@@ -82,8 +82,8 @@ Linux.</p>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#photos" title="Fotografije in digitalni fotoaparati">Fotografije</a></li>
-<li class="links "><a href="hardware.html#problems" title="Pogoste težave">Težave s strojno opremo</a></li>
+<li class="links "><a href="media.html.sl#photos" title="Fotografije in digitalni fotoaparati">Fotografije</a></li>
+<li class="links "><a href="hardware.html.sl#problems" title="Pogoste težave">Težave s strojno opremo</a></li>
 </ul></div>
 </div></div></div>
 </div>

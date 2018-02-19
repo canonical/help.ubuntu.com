@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">聊天和社交网络</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html" title="在 Ubuntu 上使用即时通讯工具"><span class="title">在 Ubuntu 上使用即时通讯工具</span><span class="linkdiv-dash"> — </span><span class="desc">使用 <span class="app">Empathy</span>，您可以在多种网络上与朋友和同事聊天、通话和进行视频通讯。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html" title="视频呼叫"><span class="title">视频呼叫</span><span class="linkdiv-dash"> — </span><span class="desc">怎样进行视频通话？</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html.zh-CN" title="在 Ubuntu 上使用即时通讯工具"><span class="title">在 Ubuntu 上使用即时通讯工具</span><span class="linkdiv-dash"> — </span><span class="desc">使用 <span class="app">Empathy</span>，您可以在多种网络上与朋友和同事聊天、通话和进行视频通讯。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html.zh-CN" title="视频呼叫"><span class="title">视频呼叫</span><span class="linkdiv-dash"> — </span><span class="desc">怎样进行视频通话？</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html" title="如何在 Ubuntu 上使用 Skype？"><span class="title">如何在 Ubuntu 上使用 Skype？</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> 是专有软件，您必须自行手动将其安装在 Ubuntu 上。</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html.zh-CN" title="如何在 Ubuntu 上使用 Skype？"><span class="title">如何在 Ubuntu 上使用 Skype？</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> 是专有软件，您必须自行手动将其安装在 Ubuntu 上。</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -61,16 +61,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="无线网络">无线连接</a></span>、<span class="link"><a href="net-wired.html" title="有线网络">wired</a></span>、<span class="link"><a href="net-problem.html" title="网络问题">连接故障</a></span>、<span class="link"><a href="net-browser.html" title="Web 浏览器">网页浏览器</a></span>、<span class="link"><a href="net-email.html" title="邮件和邮件客户端">邮箱帐号</a></span>…</span>
+<a href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.zh-CN" title="无线网络">无线连接</a></span>、<span class="link"><a href="net-wired.html.zh-CN" title="有线网络">wired</a></span>、<span class="link"><a href="net-problem.html.zh-CN" title="网络问题">连接故障</a></span>、<span class="link"><a href="net-browser.html.zh-CN" title="Web 浏览器">网页浏览器</a></span>、<span class="link"><a href="net-email.html.zh-CN" title="邮件和邮件客户端">邮箱帐号</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="在线帐号">在线帐号</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="添加帐号">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="删除帐号">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.zh-CN" title="在线帐号">在线帐号</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.zh-CN" title="添加帐号">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.zh-CN" title="删除帐号">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.zh-CN" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="prefs-display.html" title="Zaslon">Zaslon</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="prefs-display.html.sl" title="Zaslon">Zaslon</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html#problems" title="Pogoste težave">Težave</a> » <a class="trail" href="hardware-problems-graphics.html" title="Težave z zaslonom">Težave z zaslonom</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html.sl#problems" title="Pogoste težave">Težave</a> » <a class="trail" href="hardware-problems-graphics.html.sl" title="Težave z zaslonom">Težave z zaslonom</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">V primeru da računalnik za nekaj minut zapustite, se bo zaslon samodejno zaklenil, zato morate za začetek ponovne uporabe računalnika vnesti geslo. To je narejeno zaradi varnostnih vzrokov (zato da nihče ne more upravljati z računalnikom, če ga pustite nenadzorovanega), vendar je lahko moteče, če se zaslon prehitro zaklene.</p>
 <p class="p">Za daljše čakanje pred samodejnim zaklepom zaslona:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Privacy</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Privacy</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press on <span class="gui">Screen Lock</span>.</p></li>
@@ -73,12 +73,12 @@
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Težave z zaslonom">Težave z zaslonom</a><span class="desc"> — Odpravljanje težav z zaslonom in grafiko.</span>
+<a href="hardware-problems-graphics.html.sl" title="Težave z zaslonom">Težave z zaslonom</a><span class="desc"> — Odpravljanje težav z zaslonom in grafiko.</span>
 </li>
 <li class="links ">
-<a href="prefs-display.html" title="Zaslon">Zaslon</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
+<a href="prefs-display.html.sl" title="Zaslon">Zaslon</a><span class="desc"> — 
+      <span class="link"><a href="look-background.html.sl" title="Change the desktop and lock screen backgrounds">Background</a></span>,
+      <span class="link"><a href="look-resolution.html.sl" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
       brightness…
     </span>
 </li>
@@ -88,13 +88,13 @@
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Automatically lock your screen">Automatically lock your screen</a><span class="desc"> — Prevent other people from using your desktop when you
+<a href="privacy-screen-lock.html.sl" title="Automatically lock your screen">Automatically lock your screen</a><span class="desc"> — Prevent other people from using your desktop when you
     go away from your computer.</span>
 </li>
 <li class="links ">
-<a href="display-blank.html" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Change the screen blanking time to save power.</span>
+<a href="display-blank.html.sl" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Change the screen blanking time to save power.</span>
 </li>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Zaklepanje zaslona">Zaklepanje zaslona</a></li>
+<li class="links "><a href="shell-exit.html.sl#lock-screen" title="Zaklepanje zaslona">Zaklepanje zaslona</a></li>
 </ul></div>
 </div></div>
 </div>

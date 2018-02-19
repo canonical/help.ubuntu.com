@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Dicas &amp; truques">Dicas &amp; truques</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.pt-BR" title="Dicas &amp; truques">Dicas &amp; truques</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Capturas e gravações de tela</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Capturar uma imagem da tela</span></h2></div>
 <div class="region">
 <div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra <span class="app">Captura de tela</span> no panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span>.</p></li>
+<li class="steps"><p class="p">Abra <span class="app">Captura de tela</span> no panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span>.</p></li>
 <li class="steps"><p class="p">Na janela <span class="app">Captura de tela</span>, selecione ser obtida toda a tela, a janela atual ou uma área da tela. Defina um atraso caso você precise selecionar uma janela ou, do contrário, configurar seu ambiente para a captura de tela. Então, escolha quais efeitos você deseja.</p></li>
 <li class="steps">
 <p class="p">Clique em <span class="gui">Capturar</span>.</p>
@@ -100,7 +100,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Dicas &amp; truques">Dicas &amp; truques</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Inserindo caracteres especiais">Caracteres especiais</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Clique com o botão do meio">atalhos com clique do meio</a></span>…</span>
+<a href="tips.html.pt-BR" title="Dicas &amp; truques">Dicas &amp; truques</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.pt-BR" title="Inserindo caracteres especiais">Caracteres especiais</a></span>, <span class="link"><a href="mouse-middleclick.html.pt-BR" title="Clique com o botão do meio">atalhos com clique do meio</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

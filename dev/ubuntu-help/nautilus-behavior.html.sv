@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » <a class="trail" href="nautilus-prefs.html" title="Inställningar för filhanterare">Inställningar för filhanterare</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » <a class="trail" href="nautilus-prefs.html.sv" title="Inställningar för filhanterare">Inställningar för filhanterare</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Filhanterarens beteendeinställningar</span></h1></div>
@@ -60,7 +60,7 @@
 <div id="executable" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Körbara textfiler</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">En körbar textfil är en fil som innehåller ett program som du kan köra (exekvera). <span class="link"><a href="nautilus-file-properties-permissions.html" title="Ange filrättigheter">Filrättigheterna</a></span> måste också tillåta att filen körs som ett program. De vanligaste är <span class="sys">Shell-</span>, <span class="sys">Python-</span> och <span class="sys">Perl-</span>-skript. Dessa har filändelserna <span class="file">.sh</span>, <span class="file">.py</span> respektive <span class="file">.pl</span>.</p>
+<p class="p">En körbar textfil är en fil som innehåller ett program som du kan köra (exekvera). <span class="link"><a href="nautilus-file-properties-permissions.html.sv" title="Ange filrättigheter">Filrättigheterna</a></span> måste också tillåta att filen körs som ett program. De vanligaste är <span class="sys">Shell-</span>, <span class="sys">Python-</span> och <span class="sys">Perl-</span>-skript. Dessa har filändelserna <span class="file">.sh</span>, <span class="file">.py</span> respektive <span class="file">.pl</span>.</p>
 <p class="p">När du öppnar en körbar textfil kan du välja mellan:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Kör körbara textfiler när de öppnas</span></p></li>
@@ -89,7 +89,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Se även</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="files-delete.html" title="Ta bort filer och mappar">Ta bort filer och mappar</a><span class="desc"> — Ta bort filer eller mappar som du inte längre behöver.</span>
+<a href="files-delete.html.sv" title="Ta bort filer och mappar">Ta bort filer och mappar</a><span class="desc"> — Ta bort filer eller mappar som du inte längre behöver.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -100,7 +100,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Inställningar för filhanterare">Inställningar för filhanterare</a><span class="desc"> — Visa och ställ in inställningar för filhanteraren.</span>
+<a href="nautilus-prefs.html.sv" title="Inställningar för filhanterare">Inställningar för filhanterare</a><span class="desc"> — Visa och ställ in inställningar för filhanteraren.</span>
 </li></ul></div>
 </div></div></div>
 </div>

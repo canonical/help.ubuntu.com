@@ -43,26 +43,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Dela</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html" title="Bläddra genom filer på en server eller nätverksutdelning"><span class="title">Bläddra genom filer på en server eller nätverksutdelning</span><span class="linkdiv-dash"> — </span><span class="desc">Titta på och redigera filer på en annan dator över FTP, SSH, Windows-utdelningar eller WebDAV.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-media.html" title="Dela din musik, foton och videor"><span class="title">Dela din musik, foton och videor</span><span class="linkdiv-dash"> — </span><span class="desc">Dela media på ditt lokala nätverk via UPnP.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html" title="Dela ditt skrivbord"><span class="title">Dela ditt skrivbord</span><span class="linkdiv-dash"> — </span><span class="desc">Låt andra personer se och interagera med ditt skrivbord via VNC.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-share.html" title="Dela filer visa e-post"><span class="title">Dela filer visa e-post</span><span class="linkdiv-dash"> — </span><span class="desc">Överför enkelt filer till dina e-postkontakter från filhanteraren.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html" title="Dela ut dina personliga filer"><span class="title">Dela ut dina personliga filer</span><span class="linkdiv-dash"> — </span><span class="desc">Låt andra personer nå filerna i din <span class="file">Publikt</span>-mapp.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html" title="Skicka filer till en Bluetooth-enhet"><span class="title">Skicka filer till en Bluetooth-enhet</span><span class="linkdiv-dash"> — </span><span class="desc">Dela filer till en Bluetooth-enhet, exempelvis en telefon.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Styr delning över Bluetooth"><span class="title">Styr delning över Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Låt filer skickas till din dator över Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.sv" title="Bläddra genom filer på en server eller nätverksutdelning"><span class="title">Bläddra genom filer på en server eller nätverksutdelning</span><span class="linkdiv-dash"> — </span><span class="desc">Titta på och redigera filer på en annan dator över FTP, SSH, Windows-utdelningar eller WebDAV.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-media.html.sv" title="Dela din musik, foton och videor"><span class="title">Dela din musik, foton och videor</span><span class="linkdiv-dash"> — </span><span class="desc">Dela media på ditt lokala nätverk via UPnP.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.sv" title="Dela ditt skrivbord"><span class="title">Dela ditt skrivbord</span><span class="linkdiv-dash"> — </span><span class="desc">Låt andra personer se och interagera med ditt skrivbord via VNC.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-share.html.sv" title="Dela filer visa e-post"><span class="title">Dela filer visa e-post</span><span class="linkdiv-dash"> — </span><span class="desc">Överför enkelt filer till dina e-postkontakter från filhanteraren.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.sv" title="Dela ut dina personliga filer"><span class="title">Dela ut dina personliga filer</span><span class="linkdiv-dash"> — </span><span class="desc">Låt andra personer nå filerna i din <span class="file">Publikt</span>-mapp.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.sv" title="Skicka filer till en Bluetooth-enhet"><span class="title">Skicka filer till en Bluetooth-enhet</span><span class="linkdiv-dash"> — </span><span class="desc">Dela filer till en Bluetooth-enhet, exempelvis en telefon.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.sv" title="Styr delning över Bluetooth"><span class="title">Styr delning över Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Låt filer skickas till din dator över Bluetooth.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Trådlösa nätverk">Trådlöst</a></span>, <span class="link"><a href="net-wired.html" title="Trådbundna nätverk">trådbundet</a></span>, <span class="link"><a href="net-problem.html" title="Nätverksproblem">anslutningsproblem</a></span>, <span class="link"><a href="net-browser.html" title="Webbläsare">webbsurfning</a></span>, <span class="link"><a href="net-email.html" title="E-post &amp; e-postprogramvara">e-postkonton</a></span>…</span>
+<a href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlöst</a></span>, <span class="link"><a href="net-wired.html.sv" title="Trådbundna nätverk">trådbundet</a></span>, <span class="link"><a href="net-problem.html.sv" title="Nätverksproblem">anslutningsproblem</a></span>, <span class="link"><a href="net-browser.html.sv" title="Webbläsare">webbsurfning</a></span>, <span class="link"><a href="net-email.html.sv" title="E-post &amp; e-postprogramvara">e-postkonton</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="color.html" title="Krāsu pārvaldība">Krāsu pārvaldība</a> › <a class="trail" href="color.html#calibration" title="Kalibrācija">Kalibrācija</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="color.html.lv" title="Krāsu pārvaldība">Krāsu pārvaldība</a> › <a class="trail" href="color.html.lv#calibration" title="Kalibrācija">Kalibrācija</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="color.html" title="Krāsu pārvaldība">Krāsu pārvaldība</a> › <a class="trail" href="color.html#calibration" title="Kalibrācija">Kalibrācija</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="color.html.lv" title="Krāsu pārvaldība">Krāsu pārvaldība</a> › <a class="trail" href="color.html.lv#calibration" title="Kalibrācija">Kalibrācija</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -63,19 +63,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Kalibrācija">Kalibrācija</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.lv#calibration" title="Kalibrācija">Kalibrācija</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-gettingprofiles.html" title="Kur lai es iegūstu krāsu profilus?">Kur lai es iegūstu krāsu profilus?</a><span class="desc"> — Krāsu profilus var piegādāt ražotāji, un tos varat ģenerēt arī jūs pats.</span>
+<a href="color-gettingprofiles.html.lv" title="Kur lai es iegūstu krāsu profilus?">Kur lai es iegūstu krāsu profilus?</a><span class="desc"> — Krāsu profilus var piegādāt ražotāji, un tos varat ģenerēt arī jūs pats.</span>
 </li>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Kā es varu piešķirt ierīcēm profilus?">Kā es varu piešķirt ierīcēm profilus?</a><span class="desc"> — Ieskatieties <span class="guiseq"><span class="gui">Iestatījumi</span> ▸ <span class="gui">Krāsa</span></span>, lai ekrānam pievienotu krāsu profilu.</span>
+<a href="color-assignprofiles.html.lv" title="Kā es varu piešķirt ierīcēm profilus?">Kā es varu piešķirt ierīcēm profilus?</a><span class="desc"> — Ieskatieties <span class="guiseq"><span class="gui">Iestatījumi</span> ▸ <span class="gui">Krāsa</span></span>, lai ekrānam pievienotu krāsu profilu.</span>
 </li>
 <li class="links ">
-<a href="color-notifications.html" title="Vai es varu tikt brīdināts kad mans krāsu profils ir neprecīzs?">Vai es varu tikt brīdināts kad mans krāsu profils ir neprecīzs?</a><span class="desc"> — Jūs var brīdināt, kad jūsu krāsu profils ir vecs un neprecīzs.</span>
+<a href="color-notifications.html.lv" title="Vai es varu tikt brīdināts kad mans krāsu profils ir neprecīzs?">Vai es varu tikt brīdināts kad mans krāsu profils ir neprecīzs?</a><span class="desc"> — Jūs var brīdināt, kad jūsu krāsu profils ir vecs un neprecīzs.</span>
 </li>
 </ul></div>
 </div></div>

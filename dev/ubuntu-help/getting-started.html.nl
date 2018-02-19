@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Aan de slag</span></h1></div>
@@ -110,20 +110,20 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links title-heading"><h2><span class="title">Veelvoorkomend taken</span></h2></div>
 <div class="region">
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html" title="Datum, tijd en tijdszone wijzigen">Datum, tijd en tijdszone wijzigen</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html" title="De achtergrond wijzigen">De achtergrond wijzigen</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html" title="Gebruik de systeemzoekfunctie">Gebruik de systeemzoekfunctie</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html" title="Surfen op het web">Surfen op het web</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html" title="Vensters en werkbladen gebruiken">Vensters en werkbladen gebruiken</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html" title="Verbinding maken met online-accounts">Verbinding maken met online-accounts</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html" title="Online gaan">Online gaan</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html" title="Toepassingen starten">Toepassingen starten</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html" title="Van taak wisselen">Van taak wisselen</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html.nl" title="Datum, tijd en tijdszone wijzigen">Datum, tijd en tijdszone wijzigen</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html.nl" title="De achtergrond wijzigen">De achtergrond wijzigen</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html.nl" title="Gebruik de systeemzoekfunctie">Gebruik de systeemzoekfunctie</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html.nl" title="Surfen op het web">Surfen op het web</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html.nl" title="Vensters en werkbladen gebruiken">Vensters en werkbladen gebruiken</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html.nl" title="Verbinding maken met online-accounts">Verbinding maken met online-accounts</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html.nl" title="Online gaan">Online gaan</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html.nl" title="Toepassingen starten">Toepassingen starten</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html.nl" title="Van taak wisselen">Van taak wisselen</a></div></div>
 </div>
 </div></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title title-links"><h2><span class="title"></span></h2></div>
-<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html" title="Handleiding Ubuntu-desktop">Handleiding Ubuntu-desktop</a></div></li></ul></div>
+<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html.nl" title="Handleiding Ubuntu-desktop">Handleiding Ubuntu-desktop</a></div></li></ul></div>
 </div></div>
 </div></div>
 <div class="clear"></div>

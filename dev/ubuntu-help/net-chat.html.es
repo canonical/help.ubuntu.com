@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Charlas y redes sociales</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html" title="Llamadas de vídeo"><span class="title">Llamadas de vídeo</span><span class="linkdiv-dash"> — </span><span class="desc">¿Qué aplicaciones puedo usar para hacer videollamadas?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html" title="Mensajería instantánea con Ubuntu"><span class="title">Mensajería instantánea con Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Con <span class="app">Empathy</span> puede conversar, hacer audio y videollamadas con amigos y compañeros de varias redes</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html.es" title="Llamadas de vídeo"><span class="title">Llamadas de vídeo</span><span class="linkdiv-dash"> — </span><span class="desc">¿Qué aplicaciones puedo usar para hacer videollamadas?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html.es" title="Mensajería instantánea con Ubuntu"><span class="title">Mensajería instantánea con Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Con <span class="app">Empathy</span> puede conversar, hacer audio y videollamadas con amigos y compañeros de varias redes</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html" title="¿Cómo usar Skype en Ubuntu?"><span class="title">¿Cómo usar Skype en Ubuntu?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> es un software privativo y debe instalarse manualmente en Ubuntu</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html.es" title="¿Cómo usar Skype en Ubuntu?"><span class="title">¿Cómo usar Skype en Ubuntu?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> es un software privativo y debe instalarse manualmente en Ubuntu</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -61,13 +61,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Red, weby correo-e">Red, weby correo-e</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Conexiones inalámbricas">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html" title="Conexiones cableadas">cableada</a></span>, <span class="link"><a href="net-problem.html" title="Problemas de red">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html" title="Navegadores">navegación web</a></span>, <span class="link"><a href="net-email.html" title="Software de correo electrónico">cuentas de correo-e</a></span>…</span>
+<a href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a><span class="desc"> — <span class="link"><a href="net-wireless.html.es" title="Conexiones inalámbricas">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html.es" title="Conexiones cableadas">cableada</a></span>, <span class="link"><a href="net-problem.html.es" title="Problemas de red">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.es" title="Navegadores">navegación web</a></span>, <span class="link"><a href="net-email.html.es" title="Software de correo electrónico">cuentas de correo-e</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Cuentas en línea">Cuentas en línea</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Añadir una cuenta">Añadir una cuenta en línea</a></span>, <span class="link"><a href="accounts-remove.html" title="Quitar una cuenta">Quitar una cuenta</a></span>, <span class="link"><a href="accounts-which-application.html" title="Servicios y aplicaciones en línea">Aprender más sobre los servicios</a></span>…</span>
+<a href="accounts.html.es" title="Cuentas en línea">Cuentas en línea</a><span class="desc"> — <span class="link"><a href="accounts-add.html.es" title="Añadir una cuenta">Añadir una cuenta en línea</a></span>, <span class="link"><a href="accounts-remove.html.es" title="Quitar una cuenta">Quitar una cuenta</a></span>, <span class="link"><a href="accounts-which-application.html.es" title="Servicios y aplicaciones en línea">Aprender más sobre los servicios</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

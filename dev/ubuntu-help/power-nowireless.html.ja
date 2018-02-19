@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="ハードウェアとドライバー">ハードウェア</a> › <a class="trail" href="hardware.html#problems" title="よくある問題">問題</a> » <a class="trail" href="power.html#problems" title="問題">電源に関する問題</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> › <a class="trail" href="hardware.html.ja#problems" title="よくある問題">問題</a> » <a class="trail" href="power.html.ja#problems" title="問題">電源に関する問題</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">コンピューターを再開すると無線ネットワークの接続が切れます</span></h1></div>
@@ -51,13 +51,13 @@
 <div class="contents">
 <p class="p">If you have suspended your computer, you may find that your wireless
   internet connection does not work when you resume it again. This happens when
-  the <span class="link"><a href="hardware-driver.html" title="ドライバーとはなんですか?">driver</a></span> for the wireless device does
+  the <span class="link"><a href="hardware-driver.html.ja" title="ドライバーとはなんですか?">driver</a></span> for the wireless device does
   not fully support certain power saving features.
   Typically, the wireless connection fails to turn on properly when the
   computer is resumed.</p>
 <p class="p">この問題が発生した場合は、無線接続を一度オフにしてからオンにしてみてください。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p"><span class="gui">ネットワーク</span>を選択して設定パネルを開きます。</p></li>
 <li class="steps"><p class="p"><span class="gui">Wi-Fi</span> を選択します。</p></li>
@@ -73,17 +73,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html#problems" title="問題">電源に関する問題</a><span class="desc"> — 電源とバッテリーに関する問題のトラブルシューティング</span>
+<a href="power.html.ja#problems" title="問題">電源に関する問題</a><span class="desc"> — 電源とバッテリーに関する問題のトラブルシューティング</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspendfail.html" title="コンピューターをサスペンドしたあと復帰しないのはなぜですか?">コンピューターをサスペンドしたあと復帰しないのはなぜですか?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.ja" title="コンピューターをサスペンドしたあと復帰しないのはなぜですか?">コンピューターをサスペンドしたあと復帰しないのはなぜですか?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="ドライバーとはなんですか?">ドライバーとはなんですか?</a><span class="desc"> — A hardware/device driver allows your computer to use devices that are
+<a href="hardware-driver.html.ja" title="ドライバーとはなんですか?">ドライバーとはなんですか?</a><span class="desc"> — A hardware/device driver allows your computer to use devices that are
     attached to it.</span>
 </li>
 </ul></div>

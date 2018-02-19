@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Truques e conselhos">Truques e conselhos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.pt" title="Truques e conselhos">Truques e conselhos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Capturas de ecrã e gravações de vídeo</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Capturar o ecrã</span></h2></div>
 <div class="region">
 <div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra <span class="app">Captura de ecrã</span> desde a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span>.</p></li>
+<li class="steps"><p class="p">Abra <span class="app">Captura de ecrã</span> desde a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span>.</p></li>
 <li class="steps"><p class="p">Na janela <span class="app">Capturar ecrã</span>, selecione se deve-se capturar o escritório completo, a janela atual ou um área do ecrã. Estabeleça um atraso se precisa selecionar uma janela ou se precisa configurar seu escritório para a captura. Depois, escolha os efeitos que queira</p></li>
 <li class="steps">
 <p class="p">Carregue <span class="gui">Capturar ecrã</span>.</p>
@@ -100,7 +100,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Truques e conselhos">Truques e conselhos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Inserir carateres especiais">Carateres especiais</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Clique central">atalhos do botão do médio</a></span>…</span>
+<a href="tips.html.pt" title="Truques e conselhos">Truques e conselhos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.pt" title="Inserir carateres especiais">Carateres especiais</a></span>, <span class="link"><a href="mouse-middleclick.html.pt" title="Clique central">atalhos do botão do médio</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

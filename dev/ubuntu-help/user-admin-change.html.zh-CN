@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="user-accounts.html" title="用户帐号">用户</a> › <a class="trail" href="user-accounts.html#privileges" title="用户权限">权限</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="user-accounts.html.zh-CN" title="用户帐号">用户</a> › <a class="trail" href="user-accounts.html.zh-CN#privileges" title="用户权限">权限</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">设置哪些用户可以具备管理员权限</span></h1></div>
@@ -53,10 +53,10 @@
   important parts of the system. You can change which users have administrative
   privileges and which ones do not. They are a good way of keeping your system
   secure and preventing potentially damaging unauthorized changes.</p>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html" title="管理员权限是如何工作的呢？">administrator privileges</a></span>
+<p class="p">You need <span class="link"><a href="user-admin-explain.html.zh-CN" title="管理员权限是如何工作的呢？">administrator privileges</a></span>
   to change account types.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Users</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Users</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
@@ -78,17 +78,17 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="用户权限">用户权限</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.zh-CN#privileges" title="用户权限">用户权限</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="管理员权限是如何工作的呢？">管理员权限是如何工作的呢？</a><span class="desc"> — You need administrative privileges to change important parts of your
+<a href="user-admin-explain.html.zh-CN" title="管理员权限是如何工作的呢？">管理员权限是如何工作的呢？</a><span class="desc"> — You need administrative privileges to change important parts of your
     system.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="限制管理员权限产生的问题">限制管理员权限产生的问题</a><span class="desc"> — You can do some things, like installing applications, only if you
+<a href="user-admin-problems.html.zh-CN" title="限制管理员权限产生的问题">限制管理员权限产生的问题</a><span class="desc"> — You can do some things, like installing applications, only if you
     have administrative privileges.</span>
 </li>
 </ul></div>

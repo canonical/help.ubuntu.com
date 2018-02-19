@@ -43,37 +43,37 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tisk</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html" title="Jak mohu zkontrolovat stav inkoustu nebo toneru v své tiskárně?"><span class="title">Jak mohu zkontrolovat stav inkoustu nebo toneru v své tiskárně?</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zkontrolovat zbývající množství inkoustu nebo toneru v tiskové kazetě.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html" title="Tisk do souboru"><span class="title">Tisk do souboru</span><span class="linkdiv-dash"> — </span><span class="desc">Jak uložit dokument v podobě souboru PDF, PostScript nebo SVG místo aby odešel na tiskárnu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.cs" title="Jak mohu zkontrolovat stav inkoustu nebo toneru v své tiskárně?"><span class="title">Jak mohu zkontrolovat stav inkoustu nebo toneru v své tiskárně?</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zkontrolovat zbývající množství inkoustu nebo toneru v tiskové kazetě.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html.cs" title="Tisk do souboru"><span class="title">Tisk do souboru</span><span class="linkdiv-dash"> — </span><span class="desc">Jak uložit dokument v podobě souboru PDF, PostScript nebo SVG místo aby odešel na tiskárnu.</span></a></div>
 </div></div></div></div>
 <div id="setup" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Nastavení tiskárny</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-setup.html" title="Instalace místní tiskárny"><span class="title">Instalace místní tiskárny</span><span class="linkdiv-dash"> — </span><span class="desc">Jak nainstalovat tiskárnu, která je připojená k vašemu počítači.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html" title="Nastavení výchozí tiskárny"><span class="title">Nastavení výchozí tiskárny</span><span class="linkdiv-dash"> — </span><span class="desc">Vyberte si tiskárnu, kterou používáte nejčastěji.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-setup.html.cs" title="Instalace místní tiskárny"><span class="title">Instalace místní tiskárny</span><span class="linkdiv-dash"> — </span><span class="desc">Jak nainstalovat tiskárnu, která je připojená k vašemu počítači.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html.cs" title="Nastavení výchozí tiskárny"><span class="title">Nastavení výchozí tiskárny</span><span class="linkdiv-dash"> — </span><span class="desc">Vyberte si tiskárnu, kterou používáte nejčastěji.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-name-location.html" title="Změna názvu nebo umístění tiskárny"><span class="title">Změna názvu nebo umístění tiskárny</span><span class="linkdiv-dash"> — </span><span class="desc">Jak změnit název nebo umístění tiskárny v nastaveních tiskárny.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-name-location.html.cs" title="Změna názvu nebo umístění tiskárny"><span class="title">Změna názvu nebo umístění tiskárny</span><span class="linkdiv-dash"> — </span><span class="desc">Jak změnit název nebo umístění tiskárny v nastaveních tiskárny.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="paper" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Různé rozměry a rozvržení papíru</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html" title="Tisk brožury"><span class="title">Tisk brožury</span><span class="linkdiv-dash"> — </span><span class="desc">Jak vytisknout vázanou vícestránkovou brožuru na papíry A4.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-select.html" title="Tisk konkrétních stránek"><span class="title">Tisk konkrétních stránek</span><span class="linkdiv-dash"> — </span><span class="desc">Jak vytisknout jen konkrétní stránky nebo rozsah stránek.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html" title="Tisk oboustranných a vícestránkových rozvržení"><span class="title">Tisk oboustranných a vícestránkových rozvržení</span><span class="linkdiv-dash"> — </span><span class="desc">Jak tisknout na obě strany papíru nebo více stránek na jeden list.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.cs" title="Tisk brožury"><span class="title">Tisk brožury</span><span class="linkdiv-dash"> — </span><span class="desc">Jak vytisknout vázanou vícestránkovou brožuru na papíry A4.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-select.html.cs" title="Tisk konkrétních stránek"><span class="title">Tisk konkrétních stránek</span><span class="linkdiv-dash"> — </span><span class="desc">Jak vytisknout jen konkrétní stránky nebo rozsah stránek.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html.cs" title="Tisk oboustranných a vícestránkových rozvržení"><span class="title">Tisk oboustranných a vícestránkových rozvržení</span><span class="linkdiv-dash"> — </span><span class="desc">Jak tisknout na obě strany papíru nebo více stránek na jeden list.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html" title="Tisk obálek"><span class="title">Tisk obálek</span><span class="linkdiv-dash"> — </span><span class="desc">Zkontrolujte, že máte obálku správnou stranou nahoru a zvolte správný formát papíru.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-order.html" title="Tisk stránek v jiném pořadí"><span class="title">Tisk stránek v jiném pořadí</span><span class="linkdiv-dash"> — </span><span class="desc">Jak třídit stránky a tisknout v opačném pořadí.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html" title="Změna velikosti papíru při tisku"><span class="title">Změna velikosti papíru při tisku</span><span class="linkdiv-dash"> — </span><span class="desc">Jak tisknout dokument na papíry různé velikosti a otočení.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.cs" title="Tisk obálek"><span class="title">Tisk obálek</span><span class="linkdiv-dash"> — </span><span class="desc">Zkontrolujte, že máte obálku správnou stranou nahoru a zvolte správný formát papíru.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-order.html.cs" title="Tisk stránek v jiném pořadí"><span class="title">Tisk stránek v jiném pořadí</span><span class="linkdiv-dash"> — </span><span class="desc">Jak třídit stránky a tisknout v opačném pořadí.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html.cs" title="Změna velikosti papíru při tisku"><span class="title">Změna velikosti papíru při tisku</span><span class="linkdiv-dash"> — </span><span class="desc">Jak tisknout dokument na papíry různé velikosti a otočení.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -82,16 +82,16 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-streaks.html" title="Proč jsou v mých výtiscích šmouhy, prázdné linky nebo nesprávné barvy?"><span class="title">Proč jsou v mých výtiscích šmouhy, prázdné linky nebo nesprávné barvy?</span><span class="linkdiv-dash"> — </span><span class="desc">Pokud jsou výtisky šmouhovaté, vybledlé nebo v nich chybí některá barva, zkontrolujte stav inkoustů nebo vyčistěte tiskovou hlavu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html" title="Uvolnění zaseknutého papíru"><span class="title">Uvolnění zaseknutého papíru</span><span class="linkdiv-dash"> — </span><span class="desc">Jak uvolnit zaseknutý papír, závisí na výrobci a modelu tiskárny, ve které se to stalo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-streaks.html.cs" title="Proč jsou v mých výtiscích šmouhy, prázdné linky nebo nesprávné barvy?"><span class="title">Proč jsou v mých výtiscích šmouhy, prázdné linky nebo nesprávné barvy?</span><span class="linkdiv-dash"> — </span><span class="desc">Pokud jsou výtisky šmouhovaté, vybledlé nebo v nich chybí některá barva, zkontrolujte stav inkoustů nebo vyčistěte tiskovou hlavu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html.cs" title="Uvolnění zaseknutého papíru"><span class="title">Uvolnění zaseknutého papíru</span><span class="linkdiv-dash"> — </span><span class="desc">Jak uvolnit zaseknutý papír, závisí na výrobci a modelu tiskárny, ve které se to stalo.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html" title="Zrušení, pozastavení nebo uvolnění tiskové úlohy"><span class="title">Zrušení, pozastavení nebo uvolnění tiskové úlohy</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zrušit čekající tiskovou úlohu a jak ji odstranit z fronty.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html.cs" title="Zrušení, pozastavení nebo uvolnění tiskové úlohy"><span class="title">Zrušení, pozastavení nebo uvolnění tiskové úlohy</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zrušit čekající tiskovou úlohu a jak ji odstranit z fronty.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Další informace</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Běžné problémy">Problémy s hardwarem</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.cs#problems" title="Běžné problémy">Problémy s hardwarem</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -101,7 +101,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardware a ovladače">Hardware a ovladače</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Běžné problémy">Problémy s hardwarem</a></span>, <span class="link"><a href="printing.html" title="Tisk">tiskárny</a></span>, <span class="link"><a href="power.html" title="Napájení a baterie">nastavení napájení</a></span>, <span class="link"><a href="color.html" title="Správa barev">správa barev</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Disky a úložiště">disky</a></span>…</span>
+<a href="hardware.html.cs" title="Hardware a ovladače">Hardware a ovladače</a><span class="desc"> — <span class="link"><a href="hardware.html.cs#problems" title="Běžné problémy">Problémy s hardwarem</a></span>, <span class="link"><a href="printing.html.cs" title="Tisk">tiskárny</a></span>, <span class="link"><a href="power.html.cs" title="Napájení a baterie">nastavení napájení</a></span>, <span class="link"><a href="color.html.cs" title="Správa barev">správa barev</a></span>, <span class="link"><a href="bluetooth.html.cs" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.cs" title="Disky a úložiště">disky</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

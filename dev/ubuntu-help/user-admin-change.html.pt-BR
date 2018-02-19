@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="user-accounts.html" title="Contas de usuários">Usuários</a> › <a class="trail" href="user-accounts.html#privileges" title="Privilégios de usuário">Privilégios</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="user-accounts.html.pt-BR" title="Contas de usuários">Usuários</a> › <a class="trail" href="user-accounts.html.pt-BR#privileges" title="Privilégios de usuário">Privilégios</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Alterando quem tem privilégios administrativos</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Os privilégios administrativos são uma maneira de decidir quem pode fazer alterações em partes importantes do sistema. Você pode alterar quais usuários têm privilégios administrativos e quais não têm. Eles são uma boa forma de manter seu sistema seguro e evitar alterações não autorizadas potencialmente danosas.</p>
-<p class="p">Você pode <span class="link"><a href="user-admin-explain.html" title="Como funcionam os privilégios administrativos?">privilégios administrativos</a></span> para alterar os tipos de conta.</p>
+<p class="p">Você pode <span class="link"><a href="user-admin-explain.html.pt-BR" title="Como funcionam os privilégios administrativos?">privilégios administrativos</a></span> para alterar os tipos de conta.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Usuários</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Usuários</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Usuários</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Pressione <span class="gui">Desbloquear</span> no canto superior direito e insira sua senha quando solicitada.</p></li>
 <li class="steps"><p class="p">Selecione o usuário cujos privilégios queira alterar.</p></li>
@@ -69,16 +69,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Privilégios de usuário">Privilégios de usuário</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.pt-BR#privileges" title="Privilégios de usuário">Privilégios de usuário</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Como funcionam os privilégios administrativos?">Como funcionam os privilégios administrativos?</a><span class="desc"> — Você precisa de privilégios administrativos para alterar partes importantes do seu sistema.</span>
+<a href="user-admin-explain.html.pt-BR" title="Como funcionam os privilégios administrativos?">Como funcionam os privilégios administrativos?</a><span class="desc"> — Você precisa de privilégios administrativos para alterar partes importantes do seu sistema.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="Problemas causados por restrições administrativas">Problemas causados por restrições administrativas</a><span class="desc"> — Você só pode fazer algumas coisas, como instalar aplicativos, apenas se tiver privilégios administrativos.</span>
+<a href="user-admin-problems.html.pt-BR" title="Problemas causados por restrições administrativas">Problemas causados por restrições administrativas</a><span class="desc"> — Você só pode fazer algumas coisas, como instalar aplicativos, apenas se tiver privilégios administrativos.</span>
 </li>
 </ul></div>
 </div></div>

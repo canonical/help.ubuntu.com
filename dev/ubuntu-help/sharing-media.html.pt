@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="prefs-sharing.html" title="Configuração de compartição">Configuração de compartição</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="prefs-sharing.html.pt" title="Configuração de compartição">Configuração de compartição</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="sharing.html" title="Partilhar">Partilhar</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="sharing.html.pt" title="Partilhar">Partilhar</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,11 +56,11 @@
 <p class="p">Pode explorar, procurar e reproduzir os meios na sua computador utilizando um dispositivo que suporte <span class="sys">UPnP</span> ou <span class="sys">DLNA</span> como pode ser um telefone, uma televisão ou uma videoconsola. Configure a <span class="gui">Partilha de meios</span> para permitir a estes dispositivos aceder às diretórios que contêm a sua música, fotos e vídeos.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Deve ter instalado o pacote <span class="app">Rygel</span> para que a <span class="gui">Partilha de meios</span> esteja visível.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Compartição</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Compartição</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Compartição</span> para abrir o painel.</p></li>
 <li class="steps">
 <p class="p">Se a<span class="gui">Compartição</span> está <span class="gui">Apagada</span>, <span class="gui">Ative-a</span>.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Se pode editar o texto de abaixo de <span class="gui">Nome da computador</span> pode <span class="link"><a href="sharing-displayname.html" title="Estabelecer o nome visível da computador">mudar</a></span> o nome da sua computador na rede.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Se pode editar o texto de abaixo de <span class="gui">Nome da computador</span> pode <span class="link"><a href="sharing-displayname.html.pt" title="Estabelecer o nome visível da computador">mudar</a></span> o nome da sua computador na rede.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Selecione <span class="gui">Partilha de meios</span>.</p></li>
 <li class="steps"><p class="p">Ative a <span class="gui">Partilha multimédia</span> (<span class="gui">Acendido</span>).</p></li>
@@ -82,10 +82,10 @@
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-sharing.html" title="Configuração de compartição">Configuração de compartição</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Controlar a partilha por Bluetooth">Partilha por Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html" title="Partilhar seus ficheiros pessoais">Partilha de ficheiros pessoais</a></span>, <span class="link"><a href="sharing-desktop.html" title="Partilhar seu escritório">Partilha do ecrã</a></span>, <span class="link"><a href="sharing-media.html" title="Partilhar a sua música, fotos e vídeos">Partilha multimédia</a></span>…</span>
+<a href="prefs-sharing.html.pt" title="Configuração de compartição">Configuração de compartição</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.pt" title="Controlar a partilha por Bluetooth">Partilha por Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.pt" title="Partilhar seus ficheiros pessoais">Partilha de ficheiros pessoais</a></span>, <span class="link"><a href="sharing-desktop.html.pt" title="Partilhar seu escritório">Partilha do ecrã</a></span>, <span class="link"><a href="sharing-media.html.pt" title="Partilhar a sua música, fotos e vídeos">Partilha multimédia</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Partilhar">Partilhar</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Partilhar seu escritório">Partilha do escritório</a></span>, <span class="link"><a href="files-share.html" title="Partilhar ficheiros por e-mail">Partilhar ficheiros por e-mail</a></span>, <span class="link"><a href="sharing-media.html" title="Partilhar a sua música, fotos e vídeos">Partilha de médios</a></span>…</span>
+<a href="sharing.html.pt" title="Partilhar">Partilhar</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.pt" title="Partilhar seu escritório">Partilha do escritório</a></span>, <span class="link"><a href="files-share.html.pt" title="Partilhar ficheiros por e-mail">Partilhar ficheiros por e-mail</a></span>, <span class="link"><a href="sharing-media.html.pt" title="Partilhar a sua música, fotos e vídeos">Partilha de médios</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

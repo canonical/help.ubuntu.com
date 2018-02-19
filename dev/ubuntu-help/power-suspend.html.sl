@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="power.html" title="Napajanje in baterija">Napajanje in baterija</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="power.html.sl" title="Napajanje in baterija">Napajanje in baterija</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="power.html" title="Napajanje in baterija">Napajanje in baterija</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="power.html.sl" title="Napajanje in baterija">Napajanje in baterija</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Ko svoj računalnik pošljete <span class="em">v pripravljenost</span>, vsi vaši programi in dokumenti ostanejo odprti, vendar se zaslon in drugi deli računalnika izklopijo za varčevanje z energijo. Računalnik je še vedno vklopljen in porablja majhno količino energije. Iz stanja pripravljenosti ga lahko povrnete s pritiskom na tipko ali klikom na miško. V primeru da to ne deluje, poskusite s pritiskom na gumb za vklop.</p>
 <p class="p">Some computers have problems with hardware support which mean that they
-<span class="link"><a href="power-suspendfail.html" title="Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?">may not be able to suspend properly</a></span>. It is
+<span class="link"><a href="power-suspendfail.html.sl" title="Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?">may not be able to suspend properly</a></span>. It is
 a good idea to test suspend on your computer to see if it does work before
 relying on it.</p>
 <div class="note note-important" title="Pomembno"><div class="inner">
@@ -69,10 +69,10 @@ relying on it.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Napajanje in baterija">Napajanje in baterija</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Zakaj se moj zaslon po določenem času zatemni?">screen dimming</a></span>…
+<a href="power.html.sl" title="Napajanje in baterija">Napajanje in baterija</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.sl" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.sl" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.sl" title="Zakaj se moj zaslon po določenem času zatemni?">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -80,17 +80,17 @@ relying on it.</p>
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batterylife.html" title="Poraba manjše količine energije in podaljšanje trajanja baterije">Poraba manjše količine energije in podaljšanje trajanja baterije</a><span class="desc"> — Namigi za zmanjšanje porabe vašega računalnika.</span>
+<a href="power-batterylife.html.sl" title="Poraba manjše količine energije in podaljšanje trajanja baterije">Poraba manjše količine energije in podaljšanje trajanja baterije</a><span class="desc"> — Namigi za zmanjšanje porabe vašega računalnika.</span>
 </li>
 <li class="links ">
-<a href="power-autosuspend.html" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-autosuspend.html.sl" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="V pripravljenost">V pripravljenost</a></li>
+<li class="links "><a href="shell-exit.html.sl#suspend" title="V pripravljenost">V pripravljenost</a></li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?">Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.sl" title="Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?">Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="Zakaj se moj računalnik ob zaprtju pokrova izklopi?">Zakaj se moj računalnik ob zaprtju pokrova izklopi?</a><span class="desc"> — Prenosniki gredo ob zaprtju pokrova v stanje pripravljenosti za varčevanje z energijo.</span>
+<a href="power-closelid.html.sl" title="Zakaj se moj računalnik ob zaprtju pokrova izklopi?">Zakaj se moj računalnik ob zaprtju pokrova izklopi?</a><span class="desc"> — Prenosniki gredo ob zaprtju pokrova v stanje pripravljenosti za varčevanje z energijo.</span>
 </li>
 </ul></div>
 </div></div>

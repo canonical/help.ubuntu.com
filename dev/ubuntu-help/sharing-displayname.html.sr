@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="prefs-sharing.html" title="Подешавања дељења">Подешавања дељења</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="prefs-sharing.html.sr" title="Подешавања дељења">Подешавања дељења</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Подесите назив приказа за ваш рачунар</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Измените приказани назив вашег рачунара:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Дељење</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Дељење</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Дељење</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Уреите текст испод <span class="gui">назива рачунара</span> да измените назив под којим се ваш рачунар приказује на мрежи.</p></li>
 </ol></div>
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-sharing.html" title="Подешавања дељења">Подешавања дељења</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Управљајте дељењем преко блутута">Дељење блутута</a></span>, <span class="link"><a href="sharing-personal.html" title="Делите ваше личне датотеке">Дељење личних датотека</a></span>, <span class="link"><a href="sharing-desktop.html" title="Делите радну површ">Дељење екрана</a></span>, <span class="link"><a href="sharing-media.html" title="Делите вашу музику, фотографије и видео записе">Дељење медија</a></span>…</span>
+<a href="prefs-sharing.html.sr" title="Подешавања дељења">Подешавања дељења</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.sr" title="Управљајте дељењем преко блутута">Дељење блутута</a></span>, <span class="link"><a href="sharing-personal.html.sr" title="Делите ваше личне датотеке">Дељење личних датотека</a></span>, <span class="link"><a href="sharing-desktop.html.sr" title="Делите радну површ">Дељење екрана</a></span>, <span class="link"><a href="sharing-media.html.sr" title="Делите вашу музику, фотографије и видео записе">Дељење медија</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

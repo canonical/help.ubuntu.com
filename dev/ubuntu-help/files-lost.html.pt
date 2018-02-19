@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html.pt#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Encontrar um ficheiro perdido</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">Se tem criado ou descarregado um ficheiro, mas não sabe onde está, siga estes conselhos.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Se não recorda onde guardou o ficheiro, mas tem certa ideia de como se chama, pode procurar por seu nome. Consulte a <span class="link"><a href="files-search.html" title="Procurar ficheiros">busca por nome do ficheiro</a></span>.</p></li>
+<li class="list"><p class="p">Se não recorda onde guardou o ficheiro, mas tem certa ideia de como se chama, pode procurar por seu nome. Consulte a <span class="link"><a href="files-search.html.pt" title="Procurar ficheiros">busca por nome do ficheiro</a></span>.</p></li>
 <li class="list"><p class="p">Se acaba de descarregar o ficheiro, seu navegador da Internet podria tê-lo guardado automaticamente numa diretório común. Verifique as diretórios <span class="file">Escritorio</span> e <span class="file">Descargas</span> na sua diretório pessoal.</p></li>
-<li class="list"><p class="p">É possível que tenha eliminado o ficheiro acidentalmente. Quando elimina um ficheiro, se move à caixote do lixo, onde permanecerá até que vacie a caixote do lixo manualmente. Consulte a <span class="link"><a href="files-recover.html" title="Recuperar um ficheiro da caixote do lixo">Recuperar um ficheiro da caixote do lixo</a></span> para saber como recuperar um ficheiro eliminado.</p></li>
-<li class="list"><p class="p">Pode que tenha mudado o nome do ficheiro de forma que agora fique oculto. Os ficheiros que começam por <span class="file">.</span> ou que acabam em <span class="file">~</span> estão ocultos no gestor de ficheiros. Carregue carregue o botão de opções da vista na barra de ferramentas de <span class="app">Ficheiros</span> e escolha <span class="gui">Mostrar os ficheiros ocultos</span> para mostrá-los. Consulte a <span class="link"><a href="files-hidden.html" title="Ocultar um ficheiro">Ocultar um ficheiro</a></span> para obter mais informação.</p></li>
+<li class="list"><p class="p">É possível que tenha eliminado o ficheiro acidentalmente. Quando elimina um ficheiro, se move à caixote do lixo, onde permanecerá até que vacie a caixote do lixo manualmente. Consulte a <span class="link"><a href="files-recover.html.pt" title="Recuperar um ficheiro da caixote do lixo">Recuperar um ficheiro da caixote do lixo</a></span> para saber como recuperar um ficheiro eliminado.</p></li>
+<li class="list"><p class="p">Pode que tenha mudado o nome do ficheiro de forma que agora fique oculto. Os ficheiros que começam por <span class="file">.</span> ou que acabam em <span class="file">~</span> estão ocultos no gestor de ficheiros. Carregue carregue o botão de opções da vista na barra de ferramentas de <span class="app">Ficheiros</span> e escolha <span class="gui">Mostrar os ficheiros ocultos</span> para mostrá-los. Consulte a <span class="link"><a href="files-hidden.html.pt" title="Ocultar um ficheiro">Ocultar um ficheiro</a></span> para obter mais informação.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,12 +62,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-recover.html" title="Recuperar um ficheiro da caixote do lixo">Recuperar um ficheiro da caixote do lixo</a><span class="desc"> — Quando elimina um ficheiro, normalmente se envià a caixote do lixo, mas é possível o recuperar.</span>
+<a href="files-recover.html.pt" title="Recuperar um ficheiro da caixote do lixo">Recuperar um ficheiro da caixote do lixo</a><span class="desc"> — Quando elimina um ficheiro, normalmente se envià a caixote do lixo, mas é possível o recuperar.</span>
 </li></ul></div>
 </div></div>
 </div>

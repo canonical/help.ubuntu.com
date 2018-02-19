@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html#backup" title="Резервное копирование">Резервное копирование</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ru" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html.ru#backup" title="Резервное копирование">Резервное копирование</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Резервное копирование важных данных</span></h1></div>
@@ -53,10 +53,10 @@
 <p class="p">Лучший способ резервного копирования файлов — делать это регулярно, хранить копии отдельно от компьютера и (возможно) в зашифрованном виде.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-where.html" title="Где хранить резервную копию"><span class="title">Где хранить резервную копию</span><span class="linkdiv-dash"> — </span><span class="desc">Где хранить резервные копии и какой тип устройств хранения лучше использовать.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-how.html" title="Как создать резервную копию"><span class="title">Как создать резервную копию</span><span class="linkdiv-dash"> — </span><span class="desc">Используйте Déjà Dup (или другое приложение для резервного копирования), чтобы создать копии важных данных и предотвратить их возможную потерю.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-where.html.ru" title="Где хранить резервную копию"><span class="title">Где хранить резервную копию</span><span class="linkdiv-dash"> — </span><span class="desc">Где хранить резервные копии и какой тип устройств хранения лучше использовать.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-how.html.ru" title="Как создать резервную копию"><span class="title">Как создать резервную копию</span><span class="linkdiv-dash"> — </span><span class="desc">Используйте Déjà Dup (или другое приложение для резервного копирования), чтобы создать копии важных данных и предотвратить их возможную потерю.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-what.html" title="Что копировать"><span class="title">Что копировать</span><span class="linkdiv-dash"> — </span><span class="desc">Back up anything that you cannot bear to lose if something goes
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-what.html.ru" title="Что копировать"><span class="title">Что копировать</span><span class="linkdiv-dash"> — </span><span class="desc">Back up anything that you cannot bear to lose if something goes
     wrong.</span></a></div></div>
 </div></div></div>
 </div>
@@ -64,7 +64,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Резервное копирование">Резервное копирование</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ru#backup" title="Резервное копирование">Резервное копирование</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

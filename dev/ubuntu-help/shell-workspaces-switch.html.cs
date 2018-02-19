@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html#apps" title="Aplikace a okna">Aplikace a okna</a> » <a class="trail" href="shell-windows.html" title="Okna a pracovní plochy">Okna a pracovní plochy</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Práce s pracovními plochami">Pracovní plochy</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.cs" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html.cs#apps" title="Aplikace a okna">Aplikace a okna</a> » <a class="trail" href="shell-windows.html.cs" title="Okna a pracovní plochy">Okna a pracovní plochy</a> › <a class="trail" href="shell-windows.html.cs#working-with-workspaces" title="Práce s pracovními plochami">Pracovní plochy</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Přepínání mezi pracovními plochami</span></h1></div>
@@ -52,15 +52,15 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Pomocí myši:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span>.</p></li>
-<li class="steps"><p class="p">Klikněte na pracovní plochu ve <span class="link"><a href="shell-workspaces.html" title="Co je to pracovní plocha a co mi přinese?">voliči pracovních ploch</a></span> na pravé straně obrazovky, abyste viděli otevřená okna na této pracovní ploše.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span>.</p></li>
+<li class="steps"><p class="p">Klikněte na pracovní plochu ve <span class="link"><a href="shell-workspaces.html.cs" title="Co je to pracovní plocha a co mi přinese?">voliči pracovních ploch</a></span> na pravé straně obrazovky, abyste viděli otevřená okna na této pracovní ploše.</p></li>
 <li class="steps"><p class="p">Kliknutím na některý z náhledů oken aktivujete pracovní plochu.</p></li>
 </ol></div>
 </div></div>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Pomocí klávesnice:</span></h2></div>
 <div class="region"><ul class="list">
-<li class="list"><p class="p">Zmáčkněte <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Co je klávesa Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span> nebo <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span> pro přesun na pracovní plochu zobrazenou nad aktuální pracovní plochou ve výběru pracovních ploch.</p></li>
+<li class="list"><p class="p">Zmáčkněte <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.cs" title="Co je klávesa Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span> nebo <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span> pro přesun na pracovní plochu zobrazenou nad aktuální pracovní plochou ve výběru pracovních ploch.</p></li>
 <li class="list"><p class="p">Zmáčkněte <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> nebo <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span> pro přesun na pracovní plochu zobrazenou pod aktuální pracovní plochou ve výběru pracovních ploch.</p></li>
 </ul></div>
 </div></div>
@@ -70,12 +70,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Práce s pracovními plochami">Práce s pracovními plochami</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.cs#working-with-workspaces" title="Práce s pracovními plochami">Práce s pracovními plochami</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-workspaces.html" title="Co je to pracovní plocha a co mi přinese?">Co je to pracovní plocha a co mi přinese?</a><span class="desc"> — Pracovní plochy jsou způsob seskupování oken.</span>
+<a href="shell-workspaces.html.cs" title="Co je to pracovní plocha a co mi přinese?">Co je to pracovní plocha a co mi přinese?</a><span class="desc"> — Pracovní plochy jsou způsob seskupování oken.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a> » <a class="trail" href="shell-windows.html" title="Ventanas y áreas de trabajo">Ventanas y áreas de trabajo</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Trabajar con ventanas">Ventanas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html.es" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html.es#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a> » <a class="trail" href="shell-windows.html.es" title="Ventanas y áreas de trabajo">Ventanas y áreas de trabajo</a> › <a class="trail" href="shell-windows.html.es#working-with-windows" title="Trabajar con ventanas">Ventanas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Maximizar y desmaximizar (restaurar) una ventana</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Puede maximizar una ventana para que use todo el espacio libre en su escritorio y desmaximizar una ventana para restaurarla a su tamaño normal. También puede maximizar ventanas verticalmente a lo largo de los lados derecho e izquierdo de la pantalla, de tal forma que puede ver dos ventanas a la vez de fácilmente. Para obtener más detalles consulte la <span class="link"><a href="shell-windows-tiled.html" title="Ventanas en mosaico">Ventanas en mosaico</a></span>.</p>
-<p class="p">Para maximizar una ventana, arrastre la barra de título hasta la parte superior de la pantalla o simplemente pulse dos veces sobre la barra de título. Para maximizar una ventana usando el teclado, mantenga pulsada la tecla <span class="link"><a href="keyboard-key-super.html" title="¿Qué es la tecla Super?">Super</a></span> y pulse <span class="key"><kbd>↑</kbd></span> o <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
+<p class="p">Puede maximizar una ventana para que use todo el espacio libre en su escritorio y desmaximizar una ventana para restaurarla a su tamaño normal. También puede maximizar ventanas verticalmente a lo largo de los lados derecho e izquierdo de la pantalla, de tal forma que puede ver dos ventanas a la vez de fácilmente. Para obtener más detalles consulte la <span class="link"><a href="shell-windows-tiled.html.es" title="Ventanas en mosaico">Ventanas en mosaico</a></span>.</p>
+<p class="p">Para maximizar una ventana, arrastre la barra de título hasta la parte superior de la pantalla o simplemente pulse dos veces sobre la barra de título. Para maximizar una ventana usando el teclado, mantenga pulsada la tecla <span class="link"><a href="keyboard-key-super.html.es" title="¿Qué es la tecla Super?">Super</a></span> y pulse <span class="key"><kbd>↑</kbd></span> o <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
 <p class="p">Para restaurar una ventana a su tamaño desmaximizado, arrástrela fuera de los bordes de la pantalla. Si la ventana está completamente maximizada, puede pulsar dos veces sobre la barra de título para restaurarla. También puede usar los mismos atajos de teclado que usó para maximizar la ventana.</p>
 <div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Mantenga pulsada la tecla <span class="key"><kbd>Súper</kbd></span> y arrastre la ventana a cualquier parte para moverla.</p></div></div></div></div>
 </div>
@@ -59,12 +59,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Trabajar con ventanas">Trabajar con ventanas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.es#working-with-windows" title="Trabajar con ventanas">Trabajar con ventanas</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-tiled.html" title="Ventanas en mosaico">Ventanas en mosaico</a><span class="desc"> — Maximizar dos ventanas lado a lado.</span>
+<a href="shell-windows-tiled.html.es" title="Ventanas en mosaico">Ventanas en mosaico</a><span class="desc"> — Maximizar dos ventanas lado a lado.</span>
 </li></ul></div>
 </div></div>
 </div>

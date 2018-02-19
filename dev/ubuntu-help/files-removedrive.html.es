@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#removable" title="Dispositivos extraíbles y discos externos">Dispositivos extraíbles y discos externos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#removable" title="Dispositivos extraíbles y discos externos">Dispositivos extraíbles y discos externos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Extraer una unidad externa de forma segura</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Para expulsar un dispositivo extraíble:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Desde la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> abra <span class="app">Archivos</span>.</p></li>
+<li class="steps"><p class="p">Desde la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> abra <span class="app">Archivos</span>.</p></li>
 <li class="steps">
 <p class="p">Localice el dispositivo en la barra lateral. Debería tener un pequeño icono de expulsión junto al nombre. Pulse en ese icono para expulsar el dispositivo o extraerlo con seguridad.</p>
 <p class="p">Alternativamente, pulse con el botón derecho del ratón sobre el nombre del dispositivo y elija <span class="gui">Expulsar</span>.</p>
@@ -78,7 +78,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#removable" title="Dispositivos extraíbles y discos externos">Dispositivos extraíbles y discos externos</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.es#removable" title="Dispositivos extraíbles y discos externos">Dispositivos extraíbles y discos externos</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

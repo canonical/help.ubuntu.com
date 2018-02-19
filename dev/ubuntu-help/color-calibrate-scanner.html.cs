@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="color.html" title="Správa barev">Správa barev</a> › <a class="trail" href="color.html#calibration" title="Kalibrace">Kalibrace</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="color.html.cs" title="Správa barev">Správa barev</a> › <a class="trail" href="color.html.cs#calibration" title="Kalibrace">Kalibrace</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="color.html" title="Správa barev">Správa barev</a> › <a class="trail" href="color.html#calibration" title="Kalibrace">Kalibrace</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="color.html.cs" title="Správa barev">Správa barev</a> › <a class="trail" href="color.html.cs#calibration" title="Kalibrace">Kalibrace</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ujistěte se, že je skener připojen k počítači, ať už kabelem nebo přes síť.</p></li>
 <li class="steps"><p class="p">Naskenujte kalibrační obrazec a uložte jej jako nekomprimovaný soubor TIFF.</p></li>
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Barvy</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Barvy</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Barvy</span> otevřete příslušný panel a vyberte svůj skener.</p></li>
 <li class="steps"><p class="p">Kalibraci zahájíte zmáčknutím <span class="gui">Kalibrovat…</span></p></li>
 </ol></div></div></div>
@@ -68,22 +68,22 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Kalibrace">Kalibrace</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.cs#calibration" title="Kalibrace">Kalibrace</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-screen.html" title="Jak můžu zkalibrovat svoji obrazovku?">Jak můžu zkalibrovat svoji obrazovku?</a><span class="desc"> — Kalibrace obrazovky je důležitá, aby zobrazovala věrné barvy.</span>
+<a href="color-calibrate-screen.html.cs" title="Jak můžu zkalibrovat svoji obrazovku?">Jak můžu zkalibrovat svoji obrazovku?</a><span class="desc"> — Kalibrace obrazovky je důležitá, aby zobrazovala věrné barvy.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html" title="Jak můžu zkalibrovat svoji tiskárnu?">Jak můžu zkalibrovat svoji tiskárnu?</a><span class="desc"> — Kalibrace tiskárny je důležitá, aby tiskla věrné barvy.</span>
+<a href="color-calibrate-printer.html.cs" title="Jak můžu zkalibrovat svoji tiskárnu?">Jak můžu zkalibrovat svoji tiskárnu?</a><span class="desc"> — Kalibrace tiskárny je důležitá, aby tiskla věrné barvy.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-camera.html" title="Jak můžu zkalibrovat svůj fotoaparát?">Jak můžu zkalibrovat svůj fotoaparát?</a><span class="desc"> — Kalibrace fotoaparátu je důležitá, aby snímal věrné barvy.</span>
+<a href="color-calibrate-camera.html.cs" title="Jak můžu zkalibrovat svůj fotoaparát?">Jak můžu zkalibrovat svůj fotoaparát?</a><span class="desc"> — Kalibrace fotoaparátu je důležitá, aby snímal věrné barvy.</span>
 </li>
 <li class="links ">
-<a href="color-calibrationtargets.html" title="Které typy kalibračních obrazců jsou podporovány?">Které typy kalibračních obrazců jsou podporovány?</a><span class="desc"> — Pro vytvoření profilu skeneru a fotoaparátu jsou zapotřebí kalibrační obrazce.</span>
+<a href="color-calibrationtargets.html.cs" title="Které typy kalibračních obrazců jsou podporovány?">Které typy kalibračních obrazců jsou podporovány?</a><span class="desc"> — Pro vytvoření profilu skeneru a fotoaparátu jsou zapotřebí kalibrační obrazce.</span>
 </li>
 </ul></div>
 </div></div>

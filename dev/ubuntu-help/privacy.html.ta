@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">தனியுரிமை அமைவுகள்</span></h1></div>
@@ -54,11 +54,11 @@
   use these settings to clear your computer usage history and clean out
   unnecessary files.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.ta" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
     files.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html" title="குப்பைத் தொட்டி &amp; தற்காலிகக் கோப்புகளை அழி"><span class="title">குப்பைத் தொட்டி &amp; தற்காலிகக் கோப்புகளை அழி</span><span class="linkdiv-dash"> — </span><span class="desc">உங்கள் குப்பைத் தொட்டியும் தற்காலிகக் கோப்புகளும் உங்கள் கணினியில் இருந்து எப்படி அழிக்கப்படுகின்றன என அமைத்தல்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html" title="திரையை தானாக பூட்டுதல்"><span class="title">திரையை தானாக பூட்டுதல்</span><span class="linkdiv-dash"> — </span><span class="desc">நீங்கள் கணினியை விட்டு விலகி இருக்கையில் உங்கள் பணிமேசையை மற்றவர் பயன்படுத்தாமல் தடுத்தல்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-location.html" title="Control location services"><span class="title">Control location services</span><span class="linkdiv-dash"> — </span><span class="desc">Enable or disable geolocation.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.ta" title="குப்பைத் தொட்டி &amp; தற்காலிகக் கோப்புகளை அழி"><span class="title">குப்பைத் தொட்டி &amp; தற்காலிகக் கோப்புகளை அழி</span><span class="linkdiv-dash"> — </span><span class="desc">உங்கள் குப்பைத் தொட்டியும் தற்காலிகக் கோப்புகளும் உங்கள் கணினியில் இருந்து எப்படி அழிக்கப்படுகின்றன என அமைத்தல்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.ta" title="திரையை தானாக பூட்டுதல்"><span class="title">திரையை தானாக பூட்டுதல்</span><span class="linkdiv-dash"> — </span><span class="desc">நீங்கள் கணினியை விட்டு விலகி இருக்கையில் உங்கள் பணிமேசையை மற்றவர் பயன்படுத்தாமல் தடுத்தல்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-location.html.ta" title="Control location services"><span class="title">Control location services</span><span class="linkdiv-dash"> — </span><span class="desc">Enable or disable geolocation.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -66,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">பயனர் &amp; கணினி அமைவுகள்</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="விசைப்பலகை">விசைப்பலகை</a></span>, <span class="link"><a href="mouse.html" title="சொடுக்கி">சொடுக்கி</a></span>, <span class="link"><a href="prefs-display.html" title="காட்சி &amp; திரை">காட்சி</a></span>, <span class="link"><a href="prefs-language.html" title="பகுதி &amp; மொழி">மொழிகள்</a></span>, <span class="link"><a href="user-accounts.html" title="பயனர் கணக்குகள்">பயனர் கணக்குகள்</a></span>…</span>
+<a href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">பயனர் &amp; கணினி அமைவுகள்</a><span class="desc"> — <span class="link"><a href="keyboard.html.ta" title="விசைப்பலகை">விசைப்பலகை</a></span>, <span class="link"><a href="mouse.html.ta" title="சொடுக்கி">சொடுக்கி</a></span>, <span class="link"><a href="prefs-display.html.ta" title="காட்சி &amp; திரை">காட்சி</a></span>, <span class="link"><a href="prefs-language.html.ta" title="பகுதி &amp; மொழி">மொழிகள்</a></span>, <span class="link"><a href="user-accounts.html.ta" title="பயனர் கணக்குகள்">பயனர் கணக்குகள்</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

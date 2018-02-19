@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-chat.html" title="Ћаскање и друштвене мреже">Ћаскање и друштвене мреже</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-chat.html.sr" title="Ћаскање и друштвене мреже">Ћаскање и друштвене мреже</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Видео позиви</span></h1></div>
@@ -64,10 +64,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html" title="Ћаскање и друштвене мреже">Ћаскање и друштвене мреже</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Брзе поруке на Убунтуу">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Видео позиви">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Како могу да користим Скајп на Убунтуу?">install skype</a></span>
+<a href="net-chat.html.sr" title="Ћаскање и друштвене мреже">Ћаскање и друштвене мреже</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.sr" title="Брзе поруке на Убунтуу">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.sr" title="Видео позиви">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.sr" title="Како могу да користим Скајп на Убунтуу?">install skype</a></span>
     </span>
 </li></ul></div>
 </div></div>
@@ -75,10 +75,10 @@
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat-empathy.html" title="Брзе поруке на Убунтуу">Брзе поруке на Убунтуу</a><span class="desc"> — Са <span class="app">Интернет писмоношом</span> можете да ћаскате, позивате и да позивате уз видео пријатеље и колеге на разним мрежама</span>
+<a href="net-chat-empathy.html.sr" title="Брзе поруке на Убунтуу">Брзе поруке на Убунтуу</a><span class="desc"> — Са <span class="app">Интернет писмоношом</span> можете да ћаскате, позивате и да позивате уз видео пријатеље и колеге на разним мрежама</span>
 </li>
 <li class="links ">
-<a href="net-chat-skype.html" title="Како могу да користим Скајп на Убунтуу?">Како могу да користим Скајп на Убунтуу?</a><span class="desc"> — <span class="app">Скајп</span> је власнички софтвер и мора бити ручно инсталиран на Убунтуу</span>
+<a href="net-chat-skype.html.sr" title="Како могу да користим Скајп на Убунтуу?">Како могу да користим Скајп на Убунтуу?</a><span class="desc"> — <span class="app">Скајп</span> је власнички софтвер и мора бити ручно инсталиран на Убунтуу</span>
 </li>
 </ul></div>
 </div></div>

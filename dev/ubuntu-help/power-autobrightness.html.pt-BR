@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="power.html" title="Energia &amp; bateria">Energia &amp; bateria</a> › <a class="trail" href="power.html#saving" title="Configurações de economia de energia">Configurações de economia de energia</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="power.html.pt-BR" title="Energia &amp; bateria">Energia &amp; bateria</a> › <a class="trail" href="power.html.pt-BR#saving" title="Configurações de economia de energia">Configurações de economia de energia</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="power.html" title="Energia &amp; bateria">Energia &amp; bateria</a> › <a class="trail" href="power.html#saving" title="Configurações de economia de energia">Configurações de economia de energia</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="power.html.pt-BR" title="Energia &amp; bateria">Energia &amp; bateria</a> › <a class="trail" href="power.html.pt-BR#saving" title="Configurações de economia de energia">Configurações de economia de energia</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Se seu computador possui um sensor de luminosidade integrado, ele pode ser usado para controlar automaticamente o brilho da tela. Isso garante que a tela está sempre fácil de ser lida em diferentes condições de luz ambiente, e ajuda a reduzir o consumo da bateria.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Energia</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Energia</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Energia</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Na seção <span class="gui">Economia de energia</span>, certifique-se de que <span class="gui">Brilho automático</span> está definido como <span class="key"><kbd>❙</kbd></span>.</p></li>
 </ol></div></div></div>
@@ -66,12 +66,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#saving" title="Configurações de economia de energia">Configurações de economia de energia</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.pt-BR#saving" title="Configurações de economia de energia">Configurações de economia de energia</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="display-brightness.html" title="Definindo brilho da tela">Definindo brilho da tela</a><span class="desc"> — Altere o brilho da tela para tornar mais legível em ambientes muito claros.</span>
+<a href="display-brightness.html.pt-BR" title="Definindo brilho da tela">Definindo brilho da tela</a><span class="desc"> — Altere o brilho da tela para tornar mais legível em ambientes muito claros.</span>
 </li></ul></div>
 </div></div>
 </div>

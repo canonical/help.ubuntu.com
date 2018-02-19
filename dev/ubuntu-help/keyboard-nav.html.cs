@@ -44,19 +44,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="keyboard.html" title="Klávesnice">Klávesnice</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="keyboard.html" title="Klávesnice">Klávesnice</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Univerzální přístup">Univerzální přístup</a> › <a class="trail" href="a11y.html#mobility" title="Pohybová postižení">Pohybová postižení</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.cs" title="Univerzální přístup">Univerzální přístup</a> › <a class="trail" href="a11y.html.cs#mobility" title="Pohybová postižení">Pohybová postižení</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ovládání klávesnicí</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Tato stránka se podrobněji zabývá ovládáním z klávesnice pro lidi, kteří nemohou používat myš nebo jiné ukazovací zařízení, nebo kteří chtějí využít svoji klávesnici na maximum. Na klávesové zkratky, které jsou použitelné pro všechny uživatele, se podívejte do kapitoly <span class="link"><a href="shell-keyboard-shortcuts.html" title="Užitečné klávesové zkratky">Užitečné klávesové zkratky</a></span>.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Když nemůžete použít ukazovací zařízení, jako je myš, můžete ovládat ukazatel myši pomocí numerické klávesnice. Jak na to viz <span class="link"><a href="mouse-mousekeys.html" title="Klikání a pohyb ukazatelem myši pomocí numerické klávesnice">Klikání a pohyb ukazatelem myši pomocí numerické klávesnice</a></span>.</p></div></div></div></div>
+<p class="p">Tato stránka se podrobněji zabývá ovládáním z klávesnice pro lidi, kteří nemohou používat myš nebo jiné ukazovací zařízení, nebo kteří chtějí využít svoji klávesnici na maximum. Na klávesové zkratky, které jsou použitelné pro všechny uživatele, se podívejte do kapitoly <span class="link"><a href="shell-keyboard-shortcuts.html.cs" title="Užitečné klávesové zkratky">Užitečné klávesové zkratky</a></span>.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Když nemůžete použít ukazovací zařízení, jako je myš, můžete ovládat ukazatel myši pomocí numerické klávesnice. Jak na to viz <span class="link"><a href="mouse-mousekeys.html.cs" title="Klikání a pohyb ukazatelem myši pomocí numerické klávesnice">Klikání a pohyb ukazatelem myši pomocí numerické klávesnice</a></span>.</p></div></div></div></div>
 <div class="table"><div class="inner">
 <div class="title title-table"><h2><span class="title">Pohyb v uživatelském rozhraní</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -101,11 +101,11 @@
 <td style="border-top-style: solid;"><p class="p">Otevřít první nabídku v nabídkové liště okna. Pro pohyb v nabídkách použijte kurzorové šipky na klávesnici.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Co je klávesa Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html.cs" title="Co je klávesa Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Otevřít nabídku aplikace na horní liště.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> nebo <span class="key"><a href="keyboard-key-menu.html" title="Co je klávesa Menu?"><kbd>Menu</kbd></a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> nebo <span class="key"><a href="keyboard-key-menu.html.cs" title="Co je klávesa Menu?"><kbd>Menu</kbd></a></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Zobrazit kontextovou nabídku pro aktuální výběr, stejně jako byste na něj klikli pravým tlačítkem.</p></td>
 </tr>
 <tr>
@@ -122,12 +122,12 @@
 <div class="title title-table"><h2><span class="title">Ovládání uživatelského prostředí</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> nebo klávesa <span class="key"><a href="keyboard-key-super.html" title="Co je klávesa Super?"><kbd>Super</kbd></a></span></p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> nebo klávesa <span class="key"><a href="keyboard-key-super.html.cs" title="Co je klávesa Super?"><kbd>Super</kbd></a></span></p></td>
 <td><p class="p">Přepnout mezi přehledem <span class="gui">Činnosti</span> a plochou. V přehledu stačí jen začít psát a spustí se okamžité vyhledávání aplikací, kontaktů a dokumentů.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Přepínání mezi okny">Rychlé přepínání mezi okny</a></span>. Podržením klávesy <span class="key"><kbd>Shift</kbd></span> se obrátí pořadí.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.cs" title="Přepínání mezi okny">Rychlé přepínání mezi okny</a></span>. Podržením klávesy <span class="key"><kbd>Shift</kbd></span> se obrátí pořadí.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
@@ -142,7 +142,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> nebo <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span> a <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> nebo <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Přepínání mezi pracovními plochami">Přepnout mezi pracovními plochami</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.cs" title="Přepínání mezi pracovními plochami">Přepnout mezi pracovními plochami</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F6</kbd></span></span></p></td>
@@ -154,7 +154,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html#messagetray" title="Pořadač zpráv">Otevřít pořadač zpráv.</a></span> Zavřít jej můžete zmáčknutím <span class="key"><kbd>Esc</kbd></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html.cs#messagetray" title="Pořadač zpráv">Otevřít pořadač zpráv.</a></span> Zavřít jej můžete zmáčknutím <span class="key"><kbd>Esc</kbd></span>.</p></td>
 </tr>
 </table></div>
 </div></div>
@@ -179,7 +179,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> a <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Přesun okna na jinou pracovní plochu">Přesunout aktuální okno na jinou pracovní plochu</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.cs" title="Přesun okna na jinou pracovní plochu">Přesunout aktuální okno na jinou pracovní plochu</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
@@ -191,7 +191,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> nebo <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Maximalizace a zrušení maximalizace okna">Maximalizovat</a></span> okno. Zmáčknutím <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> nebo <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> jej obnovíte do jeho původní velikosti.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html.cs" title="Maximalizace a zrušení maximalizace okna">Maximalizovat</a></span> okno. Zmáčknutím <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> nebo <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> jej obnovíte do jeho původní velikosti.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
@@ -219,15 +219,15 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
+<a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.cs" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html.cs#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Pohybová postižení">Pohybová postižení</a></li>
+<li class="links "><a href="a11y.html.cs#mobility" title="Pohybová postižení">Pohybová postižení</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Užitečné klávesové zkratky">Užitečné klávesové zkratky</a><span class="desc"> — Jak se v uživatelském prostředí pohybovat pomocí klávesnice.</span>
+<a href="shell-keyboard-shortcuts.html.cs" title="Užitečné klávesové zkratky">Užitečné klávesové zkratky</a><span class="desc"> — Jak se v uživatelském prostředí pohybovat pomocí klávesnice.</span>
 </li></ul></div>
 </div></div>
 </div>

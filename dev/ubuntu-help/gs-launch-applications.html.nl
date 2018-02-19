@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Aan de slag">Aan de slag met Gnome</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html" title="Van taak wisselen">Volgende</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html.nl" title="Van taak wisselen">Volgende</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">Toepassingen starten</span></h1></div>
 <div class="region">
 <div class="contents"><div class="ui-tile ">
@@ -80,20 +80,20 @@
 <li class="steps"><p class="p">Zodra het pictogram van de toepassing getoond en geselecteerd is, drukt u op <span class="key"><kbd> Enter</kbd></span> om de toepassing te starten.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
-<div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html" title="Van taak wisselen">Volgende</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html.nl" title="Van taak wisselen">Volgende</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Aan de slag">Aan de slag met Gnome</a><span class="desc"> — Nieuw bij Gnome? Leer hoe u het onder de knie krijgt.</span>
+<a href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a><span class="desc"> — Nieuw bij Gnome? Leer hoe u het onder de knie krijgt.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html" title="Toepassingen starten">Toepassingen starten</a><span class="desc"> — Launch apps from the <span class="gui">Activities</span> overview.</span>
+<a href="shell-apps-open.html.nl" title="Toepassingen starten">Toepassingen starten</a><span class="desc"> — Launch apps from the <span class="gui">Activities</span> overview.</span>
 </li></ul></div>
 </div></div>
 </div>

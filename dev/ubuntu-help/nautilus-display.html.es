@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a> » <a class="trail" href="nautilus-prefs.html" title="Preferencias del gestor de archivos">Preferencias del gestor de archivos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a> » <a class="trail" href="nautilus-prefs.html.es" title="Preferencias del gestor de archivos">Preferencias del gestor de archivos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferencias de la vista del gestor de archivos</span></h1></div>
@@ -55,7 +55,7 @@
 <div class="media media-image floatend"><div class="inner"><img src="figures/nautilus-icons.png" height="110" width="250" class="media media-block" alt="Iconos del gestor de archivos con títulos"></div></div>
 <p class="p">Cuando se utiliza la vista de iconos, puede optar por tener información adicional acerca de los archivos y carpetas mostrando una leyenda debajo de cada icono. Esto es útil, por ejemplo, si a menudo necesita ver que es propietario de un archivo o cuándo se modificó por última vez.</p>
 <p class="p">Puede ampliar una carpeta pulsando el botón de opciones de la vista en la barra de herramientas y escogiendo un nivel de ampliación con el deslizador. A medida que amplíe, el gestor de archivos mostrará cada vez más información en las leyendas. Puede elegir hasta tres cosas que mostrar en las leyendas. La primera solo se mostrará en la mayoría de los niveles de ampliación. La última solo se mostrará en tamaños muy grandes.</p>
-<p class="p">La información que se puede mostrar en las leyendas de los iconos es la misma que las columnas que pueden aparecer en la vista de lista. Consulte la <span class="link"><a href="nautilus-list.html" title="Preferencias de las columnas en la lista de archivos">Preferencias de las columnas en la lista de archivos</a></span> para obtener más información.</p>
+<p class="p">La información que se puede mostrar en las leyendas de los iconos es la misma que las columnas que pueden aparecer en la vista de lista. Consulte la <span class="link"><a href="nautilus-list.html.es" title="Preferencias de las columnas en la lista de archivos">Preferencias de las columnas en la lista de archivos</a></span> para obtener más información.</p>
 </div></div>
 </div></div>
 <div id="list-view" class="sect"><div class="inner">
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Preferencias del gestor de archivos">Preferencias del gestor de archivos</a><span class="desc"> — Ver y establecer las preferencias para el explorador de archivos.</span>
+<a href="nautilus-prefs.html.es" title="Preferencias del gestor de archivos">Preferencias del gestor de archivos</a><span class="desc"> — Ver y establecer las preferencias para el explorador de archivos.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Primeiros passos">Primeiros passos com o GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.pt" title="Primeiros passos">Primeiros passos com o GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="Ligar a contas online">Anterior</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="Alterar o papel de parede">Seguinte</a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.pt" title="Ligar a contas online">Anterior</a><a class="nextlinks-next" href="gs-change-wallpaper.html.pt" title="Alterar o papel de parede">Seguinte</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Alterar a data, hora e fuso horário</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Carregue no <span class="gui"><a href="shell-introduction.html#yourname" title="Você e o seu computador">menu de sistema</a></span> no lado direito da barra superior.</p></li>
+<li class="steps"><p class="p">Carregue no <span class="gui"><a href="shell-introduction.html.pt#yourname" title="Você e o seu computador">menu de sistema</a></span> no lado direito da barra superior.</p></li>
 <li class="steps"><p class="p">Carregue no botão de definições na parte inferior do menu.</p></li>
 <li class="steps"><p class="p">Selecione o item <span class="gui">Data &amp; Hora</span>.</p></li>
 </ol></div></div></div>
@@ -68,7 +68,7 @@
 </ol></div></div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="Ligar a contas online">Anterior</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="Alterar o papel de parede">Seguinte</a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.pt" title="Ligar a contas online">Anterior</a><a class="nextlinks-next" href="gs-change-wallpaper.html.pt" title="Alterar o papel de parede">Seguinte</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -76,13 +76,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Primeiros passos">Primeiros passos com o GNOME</a><span class="desc"> — É novo no GNOME? Aprenda como começar.</span>
+<a href="getting-started.html.pt" title="Primeiros passos">Primeiros passos com o GNOME</a><span class="desc"> — É novo no GNOME? Aprenda como começar.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Data e hora">Data e hora</a><span class="desc"> — <span class="link"><a href="clock-set.html" title="Mudar a data e a hora">Estabelecer a data e a hora</a></span>, <span class="link"><a href="clock-world.html" title="Acrescentar um relógio do mundo">relogios do mundo</a></span>, <span class="link"><a href="clock-timezone.html" title="Mudar a sua zona horária">zona horária</a></span>, <span class="link"><a href="clock-calendar.html" title="Citas de calendário">calendário e citas</a></span>…</span>
+<a href="clock.html.pt" title="Data e hora">Data e hora</a><span class="desc"> — <span class="link"><a href="clock-set.html.pt" title="Mudar a data e a hora">Estabelecer a data e a hora</a></span>, <span class="link"><a href="clock-world.html.pt" title="Acrescentar um relógio do mundo">relogios do mundo</a></span>, <span class="link"><a href="clock-timezone.html.pt" title="Mudar a sua zona horária">zona horária</a></span>, <span class="link"><a href="clock-calendar.html.pt" title="Citas de calendário">calendário e citas</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

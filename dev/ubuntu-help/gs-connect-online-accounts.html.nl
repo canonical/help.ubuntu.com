@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Aan de slag">Aan de slag met Gnome</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-browse-web.html" title="Surfen op het web">Vorige</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html" title="Datum, tijd en tijdszone wijzigen">Volgende</a>
+<a class="nextlinks-prev" href="gs-browse-web.html.nl" title="Surfen op het web">Vorige</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.nl" title="Datum, tijd en tijdszone wijzigen">Volgende</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Verbinding maken met online-accounts</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klik op het <span class="gui"><a href="shell-introduction.html#yourname" title="U en uw computer">systeemmenu</a></span> aan de rechterkant van de bovenste balk.</p></li>
+<li class="steps"><p class="p">Klik op het <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">systeemmenu</a></span> aan de rechterkant van de bovenste balk.</p></li>
 <li class="steps"><p class="p">Klik op de knop Instellingen linksonder in het menu.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa2.svg" width="100%" class="media media-block" alt=""></div></div>
@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Bij veel online-accounts kunt u de diensten kiezen die u met uw online-account wilt gebruiken. Als u een dienst niet wilt gebruiken, schakel die dan uit door te klikken op de <span class="gui">ON/OFF</span>-schakelaar aan de rechterkant van het venster.</p></li></ol></div></div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-browse-web.html" title="Surfen op het web">Vorige</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html" title="Datum, tijd en tijdszone wijzigen">Volgende</a>
+<a class="nextlinks-prev" href="gs-browse-web.html.nl" title="Surfen op het web">Vorige</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.nl" title="Datum, tijd en tijdszone wijzigen">Volgende</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -82,13 +82,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Aan de slag">Aan de slag met Gnome</a><span class="desc"> — Nieuw bij Gnome? Leer hoe u het onder de knie krijgt.</span>
+<a href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a><span class="desc"> — Nieuw bij Gnome? Leer hoe u het onder de knie krijgt.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Online-accounts">Online-accounts</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Een account toevoegen">Een online-account toevoegen</a></span>, <span class="link"><a href="accounts-remove.html" title="Een account verwijderen">Een account verwijderen</a></span>, <span class="link"><a href="accounts-which-application.html" title="Online-services en -toepassingen">Meer te weten komen over diensten</a></span>…</span>
+<a href="accounts.html.nl" title="Online-accounts">Online-accounts</a><span class="desc"> — <span class="link"><a href="accounts-add.html.nl" title="Een account toevoegen">Een online-account toevoegen</a></span>, <span class="link"><a href="accounts-remove.html.nl" title="Een account verwijderen">Een account verwijderen</a></span>, <span class="link"><a href="accounts-which-application.html.nl" title="Online-services en -toepassingen">Meer te weten komen over diensten</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

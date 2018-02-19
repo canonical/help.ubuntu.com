@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Συμβουλές &amp; κόλπα</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html" title="Εισαγωγή ειδικών χαρακτήρων"><span class="title">Εισαγωγή ειδικών χαρακτήρων</span><span class="linkdiv-dash"> — </span><span class="desc">Πληκτρολογήστε χαρακτήρες που δεν βρέθηκαν στο πληκτρολόγιό σας, συμπεριλαμβανομένων ξένων αλφάβητων, μαθηματικών συμβόλων και διακοσμητικά.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Μεσαίο κλικ"><span class="title">Μεσαίο κλικ</span><span class="linkdiv-dash"> — </span><span class="desc">Χρησιμοποιήστε το μεσαίο πλήκτρο για το άνοιγμα εφαρμογών, άνοιγμα καρτελών και άλλα.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="gnome-version.html" title="Προσδιορισμός της έκδοσης του GNOME που εκτελείται"><span class="title">Προσδιορισμός της έκδοσης του GNOME που εκτελείται</span><span class="linkdiv-dash"> — </span><span class="desc">Πώς να προσδιορίσετε ποια έκδοση του GNOME εκτελείται.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html" title="Στιγμιότυπα και στιγμιότυπα οθόνης"><span class="title">Στιγμιότυπα και στιγμιότυπα οθόνης</span><span class="linkdiv-dash"> — </span><span class="desc">Βγάλτε μια εικόνα ή καταγράψτε ένα βίντεο της οθόνη σας.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Χρήσιμες συντομεύσεις πληκτρολογίου"><span class="title">Χρήσιμες συντομεύσεις πληκτρολογίου</span><span class="linkdiv-dash"> — </span><span class="desc">Περιηγηθείτε στην επιφάνεια εργασίας χρησιμοποιώντας το πληκτρολόγιο.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html.el" title="Εισαγωγή ειδικών χαρακτήρων"><span class="title">Εισαγωγή ειδικών χαρακτήρων</span><span class="linkdiv-dash"> — </span><span class="desc">Πληκτρολογήστε χαρακτήρες που δεν βρέθηκαν στο πληκτρολόγιό σας, συμπεριλαμβανομένων ξένων αλφάβητων, μαθηματικών συμβόλων και διακοσμητικά.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.el" title="Μεσαίο κλικ"><span class="title">Μεσαίο κλικ</span><span class="linkdiv-dash"> — </span><span class="desc">Χρησιμοποιήστε το μεσαίο πλήκτρο για το άνοιγμα εφαρμογών, άνοιγμα καρτελών και άλλα.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="gnome-version.html.el" title="Προσδιορισμός της έκδοσης του GNOME που εκτελείται"><span class="title">Προσδιορισμός της έκδοσης του GNOME που εκτελείται</span><span class="linkdiv-dash"> — </span><span class="desc">Πώς να προσδιορίσετε ποια έκδοση του GNOME εκτελείται.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html.el" title="Στιγμιότυπα και στιγμιότυπα οθόνης"><span class="title">Στιγμιότυπα και στιγμιότυπα οθόνης</span><span class="linkdiv-dash"> — </span><span class="desc">Βγάλτε μια εικόνα ή καταγράψτε ένα βίντεο της οθόνη σας.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.el" title="Χρήσιμες συντομεύσεις πληκτρολογίου"><span class="title">Χρήσιμες συντομεύσεις πληκτρολογίου</span><span class="linkdiv-dash"> — </span><span class="desc">Περιηγηθείτε στην επιφάνεια εργασίας χρησιμοποιώντας το πληκτρολόγιο.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Οδηγός χρήσης Ubuntu">Οδηγός χρήσης Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.el" title="Οδηγός χρήσης Ubuntu">Οδηγός χρήσης Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

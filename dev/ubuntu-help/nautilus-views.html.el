@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a> » <a class="trail" href="nautilus-prefs.html" title="Προτιμήσεις του διαχειριστή αρχείων">Προτιμήσεις του διαχειριστή αρχείων</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a> » <a class="trail" href="nautilus-prefs.html.el" title="Προτιμήσεις του διαχειριστή αρχείων">Προτιμήσεις του διαχειριστή αρχείων</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Προτιμήσεις προβολών στα <span class="app">Αρχεία</span></span></h1></div>
@@ -55,7 +55,7 @@
 <dt class="terms"><span class="gui">Ταξινόμηση στοιχείων</span></dt>
 <dd class="terms">
 <p class="p">Μπορείτε να αλλάξετε την προεπιλεγμένη σειρά ταξινόμησης που χρησιμοποιείται σε φακέλους χρησιμοποιώντας την αναπτυσσόμενη λίστα <span class="gui">Ταξινόμηση αντικειμένων</span> στις προτιμήσεις για ταξινόμηση κατα όνομα, μέγεθος αρχείου, τύπο αρχείου, ημερομηνία τελευταίας τροποποίησης, ημερομηνία τελευταίας πρόσβασης, ή ημερομηνία απόρριψης.</p>
-<p class="p">Μπορείτε να αλλάξετε το πως θα <span class="link"><a href="files-sort.html" title="Ταξινόμηση αρχείων και φακέλων">ταξινομούνται τα αρχεία</a></span> σε ένα φάκελο κάνοντας κλικ στο κουμπί της προβολής επιλογών στην εργαλειοθήκη επιλέγοντας <span class="gui">Όνομα</span>, <span class="gui">Μέγεθος</span>, <span class="gui">Τύπος</span> ή <span class="gui">Τελευταία τροποποίηση</span>, ή κάνοντας κλικ στο όνομα των κεφαλίδων στην προβολή λίστας.</p>
+<p class="p">Μπορείτε να αλλάξετε το πως θα <span class="link"><a href="files-sort.html.el" title="Ταξινόμηση αρχείων και φακέλων">ταξινομούνται τα αρχεία</a></span> σε ένα φάκελο κάνοντας κλικ στο κουμπί της προβολής επιλογών στην εργαλειοθήκη επιλέγοντας <span class="gui">Όνομα</span>, <span class="gui">Μέγεθος</span>, <span class="gui">Τύπος</span> ή <span class="gui">Τελευταία τροποποίηση</span>, ή κάνοντας κλικ στο όνομα των κεφαλίδων στην προβολή λίστας.</p>
 </dd>
 <dt class="terms"><span class="gui">Ταξινόμηση φακέλων πριν από αρχεία</span></dt>
 <dd class="terms"><p class="p">Από προεπιλογή, ο διαχειριστής αρχείων δεν εμφανίζει πια όλους τους φακέλους πριν από τα αρχεία. Για να δείτε όλους τους φακέλους καταχωρισμένους πριν τα αρχεία, ενεργοποιήστε αυτήν την επιλογή.</p></dd>
@@ -66,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Προτιμήσεις του διαχειριστή αρχείων">Προτιμήσεις του διαχειριστή αρχείων</a><span class="desc"> — Δείτε και ορίστε προτιμήσεις για τον περιηγητή αρχείων.</span>
+<a href="nautilus-prefs.html.el" title="Προτιμήσεις του διαχειριστή αρχείων">Προτιμήσεις του διαχειριστή αρχείων</a><span class="desc"> — Δείτε και ορίστε προτιμήσεις για τον περιηγητή αρχείων.</span>
 </li></ul></div>
 </div></div></div>
 </div>

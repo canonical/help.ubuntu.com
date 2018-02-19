@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Dodaj/odstrani programsko opremo</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="addremove.html.sl" title="Install &amp; remove software">Dodaj/odstrani programsko opremo</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Odstranjevanje programov</span></h1></div>
@@ -58,7 +58,7 @@
    Some applications are available in both formats. In such a case in <span class="app">Ubuntu Software</span> the snap will be listed first.</p>
 <p class="p">You may also wish to remove software that does not have a GUI.
     To remove such software, you can use
-    <span class="link"><a href="addremove-install-synaptic.html" title="Uporaba programa Synaptic za naprednejše upravljanje programov">Synaptic</a></span>. Note that <span class="app">Synaptic</span> does not list snaps.
+    <span class="link"><a href="addremove-install-synaptic.html.sl" title="Uporaba programa Synaptic za naprednejše upravljanje programov">Synaptic</a></span>. Note that <span class="app">Synaptic</span> does not list snaps.
   </p>
 <p class="p">To remove an application:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -88,10 +88,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Odstranjevanje programov">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+<a href="addremove.html.sl" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
+      <span class="link"><a href="addremove-install.html.sl" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.sl" title="Odstranjevanje programov">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.sl" title="Add software repositories">add repositories</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -99,7 +99,7 @@
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Install additional applications">
+<a href="addremove-install.html.sl" title="Install additional applications">
     Install additional applications
   </a><span class="desc"> — 
       Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
@@ -107,7 +107,7 @@
     </span>
 </li>
 <li class="links ">
-<a href="addremove-install-synaptic.html" title="Uporaba programa Synaptic za naprednejše upravljanje programov">Uporaba programa Synaptic za naprednejše upravljanje programov</a><span class="desc"> — Synaptic je zmogljiv a zapleten nadomestek <span class="app">Programov Ubuntu</span> za upravljanje programov.</span>
+<a href="addremove-install-synaptic.html.sl" title="Uporaba programa Synaptic za naprednejše upravljanje programov">Uporaba programa Synaptic za naprednejše upravljanje programov</a><span class="desc"> — Synaptic je zmogljiv a zapleten nadomestek <span class="app">Programov Ubuntu</span> za upravljanje programov.</span>
 </li>
 </ul></div>
 </div></div>

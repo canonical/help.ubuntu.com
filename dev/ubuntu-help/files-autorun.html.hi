@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html#music" title="Music and portable audio players">Music and players</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.hi" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html.hi#music" title="Music and portable audio players">Music and players</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html#photos" title="Photos and digital cameras">Photos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.hi" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html.hi#photos" title="Photos and digital cameras">Photos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#removable" title="Removable drives and external disks">Removable drives and external disks</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.hi" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.hi#removable" title="Removable drives and external disks">Removable drives and external disks</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html#videos" title="Videos and video cameras">Videos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.hi" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html.hi#videos" title="Videos and video cameras">Videos</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -64,7 +64,7 @@
 <p class="p">To decide which applications should start when you plug in various
   devices: </p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.hi#activities" title="Activities overview">Activities</a></span> overview and
     start typing <span class="gui">Details</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Removable Media</span>.</p></li>
@@ -100,7 +100,7 @@
 <dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
     <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
     video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
+    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html.hi" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
     </p></dd>
 <dt class="terms">Blank discs</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing
@@ -140,10 +140,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">अधिक जानकारी</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#music" title="Music and portable audio players">Music and players</a></li>
-<li class="links "><a href="media.html#photos" title="Photos and digital cameras">Photos</a></li>
-<li class="links "><a href="files.html#removable" title="Removable drives and external disks">Removable drives and external disks</a></li>
-<li class="links "><a href="media.html#videos" title="Videos and video cameras">Videos</a></li>
+<li class="links "><a href="media.html.hi#music" title="Music and portable audio players">Music and players</a></li>
+<li class="links "><a href="media.html.hi#photos" title="Photos and digital cameras">Photos</a></li>
+<li class="links "><a href="files.html.hi#removable" title="Removable drives and external disks">Removable drives and external disks</a></li>
+<li class="links "><a href="media.html.hi#videos" title="Videos and video cameras">Videos</a></li>
 </ul></div>
 </div></div></div>
 </div>

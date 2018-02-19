@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="power.html" title="Napajanje in baterija">Napajanje in baterija</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="power.html.sl" title="Napajanje in baterija">Napajanje in baterija</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="power.html" title="Napajanje in baterija">Napajanje in baterija</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="power.html.sl" title="Napajanje in baterija">Napajanje in baterija</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,12 +54,12 @@
 <div class="region">
 <div class="contents">
 <p class="p">When you close the lid of your laptop, your computer will
-  <span class="link"><a href="power-suspend.html" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?"><span class="em">suspend</span></a></span> in order to save power.
+  <span class="link"><a href="power-suspend.html.sl" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?"><span class="em">suspend</span></a></span> in order to save power.
   This means that the computer is not actually turned off — it has just gone to
   sleep. You can resume it by opening the lid. If it does not resume, try
   clicking the mouse or pressing a key. If that still does not work, press the
   power button.</p>
-<p class="p">Nekateri računalniki ne morejo preiti v stanje pripravljenosti. Običajno se to zgodi, ker njihove strojne opreme operacijski sistem ne podpira popolnoma (na primer gonilniki Linux so nepopolni). V tem primeru boste morda ugotovili, da svojega računalnika po zaprtju pokrova ne morete povrniti iz stanja pripravljenosti. Poskusite lahko <span class="link"><a href="power-suspendfail.html" title="Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?">popraviti težavo s stanjem pripravljenosti</a></span> ali pa računalniku preprečite poizkus prehoda v stanje pripravljenosti ob zaprtju pokrova.</p>
+<p class="p">Nekateri računalniki ne morejo preiti v stanje pripravljenosti. Običajno se to zgodi, ker njihove strojne opreme operacijski sistem ne podpira popolnoma (na primer gonilniki Linux so nepopolni). V tem primeru boste morda ugotovili, da svojega računalnika po zaprtju pokrova ne morete povrniti iz stanja pripravljenosti. Poskusite lahko <span class="link"><a href="power-suspendfail.html.sl" title="Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?">popraviti težavo s stanjem pripravljenosti</a></span> ali pa računalniku preprečite poizkus prehoda v stanje pripravljenosti ob zaprtju pokrova.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Preprečitev prehoda v stanje pripravljenosti ob zaprtju pokrova</span></h2></div>
@@ -72,11 +72,12 @@
   change the setting for that behavior.</p>
 <div class="note note-warning" title="Opozorilo"><div class="inner"><div class="region"><div class="contents"><p class="p">Pri spreminjanju te nastavitve bodite previdni. Nekateri prenosniki se lahko pregrejejo, če delujejo z zaprtim pokrovom, še posebno, če so v omejenem prostoru kot je nahrbtnik.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span>
+      overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Power</span> tab.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Don’t suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
+      <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -87,10 +88,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Napajanje in baterija">Napajanje in baterija</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Zakaj se moj zaslon po določenem času zatemni?">screen dimming</a></span>…
+<a href="power.html.sl" title="Napajanje in baterija">Napajanje in baterija</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.sl" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.sl" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.sl" title="Zakaj se moj zaslon po določenem času zatemni?">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -98,10 +99,10 @@
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspend.html" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">Kaj se zgodi, ko pošljem računalnik v pripravljenost?</a><span class="desc"> — Prehod v stanje pripravljenosti pošlje vaš računalnik v stanje pripravljenosti, da porabi manj energije.</span>
+<a href="power-suspend.html.sl" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">Kaj se zgodi, ko pošljem računalnik v pripravljenost?</a><span class="desc"> — Prehod v stanje pripravljenosti pošlje vaš računalnik v stanje pripravljenosti, da porabi manj energije.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?">Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.sl" title="Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?">Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 </ul></div>
 </div></div>

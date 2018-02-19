@@ -43,34 +43,34 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Barrierefreiheit">Barrierefreiheit</a> › <a class="trail" href="a11y.html#sound" title="Gehörprobleme">Gehörprobleme</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.de" title="Barrierefreiheit">Barrierefreiheit</a> › <a class="trail" href="a11y.html.de#sound" title="Gehörprobleme">Gehörprobleme</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Den Bildschirm bei Warnklängen blinken lassen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Ihr Rechner spielt für bestimmte Nachrichten- und Ereigniskategorien einfache Warnklänge ab. Wenn es Ihnen schwer fällt, diese Klänge zu hören, können Sie entweder den gesamten Bildschirm oder ihr aktuelles Fenster aufblinken lassen, wenn ein Warnklang ausgegeben wird.</p>
-<p class="p">Das kann darüber hinaus nützlich sein, wenn Sie in einer Umgebung sind, wo Ihr Rechner still sein sollte, wie etwa in einer Bibliothek. Sehen Sie in <span class="link"><a href="sound-alert.html" title="Wählen oder deaktivieren des Warnklangs">Wählen oder deaktivieren des Warnklangs</a></span>, wie Sie den Warnklang deaktivieren können, und schalten Sie dann visuelle Alarme ein.</p>
+<p class="p">Das kann darüber hinaus nützlich sein, wenn Sie in einer Umgebung sind, wo Ihr Rechner still sein sollte, wie etwa in einer Bibliothek. Sehen Sie in <span class="link"><a href="sound-alert.html.de" title="Wählen oder deaktivieren des Warnklangs">Wählen oder deaktivieren des Warnklangs</a></span>, wie Sie den Warnklang deaktivieren können, und schalten Sie dann visuelle Alarme ein.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Barrierefreiheit</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Barrierefreiheit</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Barrierefreiheit</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Öffnen Sie <span class="gui">Visuelle Alarme</span> im Abschnitt <span class="gui">Gehör</span>.</p></li>
 <li class="steps"><p class="p">Schalten Sie <span class="gui">Visuelle Alarme</span> auf <span class="gui">AN</span>.</p></li>
 <li class="steps"><p class="p">Wählen Sie, ob der ganze Bildschirm oder nur die aktuelle Fensterleiste blinken soll.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Sie können visuelle Warnungen schnell ein- und ausschalten, indem Sie auf das <span class="link"><a href="a11y-icon.html" title="Das Barrierefreiheitsmenü finden">Symbol für Barrierefreiheit</a></span> im oberen Panel klicken und <span class="gui">Visuelle Warnungen</span> wählen.</p></div></div></div></div>
+<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Sie können visuelle Warnungen schnell ein- und ausschalten, indem Sie auf das <span class="link"><a href="a11y-icon.html.de" title="Das Barrierefreiheitsmenü finden">Symbol für Barrierefreiheit</a></span> im oberen Panel klicken und <span class="gui">Visuelle Warnungen</span> wählen.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#sound" title="Gehörprobleme">Gehörprobleme</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.de#sound" title="Gehörprobleme">Gehörprobleme</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-alert.html" title="Wählen oder deaktivieren des Warnklangs">Wählen oder deaktivieren des Warnklangs</a><span class="desc"> — Wählen Sie Klänge für Warnmeldungen, stellen Sie die Lautstärke ein oder schalten Sie Benachrichtigungsklänge ab.</span>
+<a href="sound-alert.html.de" title="Wählen oder deaktivieren des Warnklangs">Wählen oder deaktivieren des Warnklangs</a><span class="desc"> — Wählen Sie Klänge für Warnmeldungen, stellen Sie die Lautstärke ein oder schalten Sie Benachrichtigungsklänge ab.</span>
 </li></ul></div>
 </div></div>
 </div>

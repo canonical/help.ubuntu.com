@@ -44,19 +44,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="keyboard.html" title="Näppäimistö">Näppäimistö</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="keyboard.html" title="Näppäimistö">Näppäimistö</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Esteettömyys">Esteettömyys</a> › <a class="trail" href="a11y.html#mobility" title="Liikuntarajoitteisuudet">Liikuntarajoitteisuudet</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.fi" title="Esteettömyys">Esteettömyys</a> › <a class="trail" href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">Liikuntarajoitteisuudet</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Näppäimistöllä liikkuminen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Tämä sivu linjaa, kuinka käyttöliittymän eri osissa liikutaan näppäimistöä käyttäen. Ohje on tarkoitettu niille, jotka eivät pysty käyttämään hiirtä tai muuta osoitinlaitetta, tai jotka haluavat käyttää näppäimistöä mahdollisimman paljon. Kaikille hyödyllisiä pikanäppäimiä on lueteltu sivulla <span class="link"><a href="shell-keyboard-shortcuts.html" title="Hyödyllisiä pikanäppäimiä">Hyödyllisiä pikanäppäimiä</a></span>.</p>
-<div class="note note-tip" title="Vinkki"><div class="inner"><div class="region"><div class="contents"><p class="p">Jos et syystä tai toisesta kykene käyttämään osoitinlaitetta (kuten hiirtä), voit ohjata hiiren osoitinta näppäimistön oikeassa laidassa olevaa numeronäppäimistöä käyttäen. Lisätietoja aiheesta on sivulla <span class="link"><a href="mouse-mousekeys.html" title="Napsauta ja siirrä hiiren osoitinta sormiota käyttäen.">Napsauta ja siirrä hiiren osoitinta sormiota käyttäen.</a></span>.</p></div></div></div></div>
+<p class="p">Tämä sivu linjaa, kuinka käyttöliittymän eri osissa liikutaan näppäimistöä käyttäen. Ohje on tarkoitettu niille, jotka eivät pysty käyttämään hiirtä tai muuta osoitinlaitetta, tai jotka haluavat käyttää näppäimistöä mahdollisimman paljon. Kaikille hyödyllisiä pikanäppäimiä on lueteltu sivulla <span class="link"><a href="shell-keyboard-shortcuts.html.fi" title="Hyödyllisiä pikanäppäimiä">Hyödyllisiä pikanäppäimiä</a></span>.</p>
+<div class="note note-tip" title="Vinkki"><div class="inner"><div class="region"><div class="contents"><p class="p">Jos et syystä tai toisesta kykene käyttämään osoitinlaitetta (kuten hiirtä), voit ohjata hiiren osoitinta näppäimistön oikeassa laidassa olevaa numeronäppäimistöä käyttäen. Lisätietoja aiheesta on sivulla <span class="link"><a href="mouse-mousekeys.html.fi" title="Napsauta ja siirrä hiiren osoitinta sormiota käyttäen.">Napsauta ja siirrä hiiren osoitinta sormiota käyttäen.</a></span>.</p></div></div></div></div>
 <div class="table"><div class="inner">
 <div class="title title-table"><h2><span class="title">Liiku käyttöliittymän eri osissa</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -104,12 +104,12 @@
 <td style="border-top-style: solid;"><p class="p">Avaa ikkunan valikkopalkin ensimmäinen valikko. Käytä nuolinäppäimiä valikkojen välillä liikkumiseen.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html.fi" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Avaa sovellusvalikko yläpalkista.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or
-    <span class="key"><a href="keyboard-key-menu.html" title="Mikä on Menu-näppäin?"><kbd>Menu</kbd></a></span></p></td>
+    <span class="key"><a href="keyboard-key-menu.html.fi" title="Mikä on Menu-näppäin?"><kbd>Menu</kbd></a></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Avaa nykyisen valinnan pikavalikko, sama kuin kohteen napsauttaminen hiiren oikealla painikkeella.</p></td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@
 <tr>
 <td><p class="p">
       <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> or the
-      <span class="key"><a href="keyboard-key-super.html" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span> key
+      <span class="key"><a href="keyboard-key-super.html.fi" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span> key
     </p></td>
 <td><p class="p">Switch between the <span class="gui">Activities</span> overview and desktop. In
     the overview, start typing to instantly search your applications, contacts,
@@ -136,7 +136,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Vaihtele ikkunoiden välillä">Quickly switch between
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.fi" title="Vaihtele ikkunoiden välillä">Quickly switch between
     windows</a></span>. Hold down <span class="key"><kbd>Shift</kbd></span> for reverse order.</p></td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@
       <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> or
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span>
     </p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Vaihtele työtilojen välillä">Vaihda työtilojen välillä</a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.fi" title="Vaihtele työtilojen välillä">Vaihda työtilojen välillä</a></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F6</kbd></span></span></p></td>
@@ -178,7 +178,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html#messagetray" title="Viestialue">Avaa viestialue.</a></span> Paina <span class="key"><kbd>Esc</kbd></span> sulkeaksesi.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html.fi#messagetray" title="Viestialue">Avaa viestialue.</a></span> Paina <span class="key"><kbd>Esc</kbd></span> sulkeaksesi.</p></td>
 </tr>
 </table></div>
 </div></div>
@@ -209,7 +209,7 @@
       <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> and
       <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span>
     </p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Ikkunoiden siirtäminen toiseen työtilaan">Siirrä nykyinen ikkuna eri työtilaan</a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.fi" title="Ikkunoiden siirtäminen toiseen työtilaan">Siirrä nykyinen ikkuna eri työtilaan</a></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
@@ -221,7 +221,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> tai <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Ikkunan suurentaminen ja koon palauttaminen">Maximize</a></span> a window. Press
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html.fi" title="Ikkunan suurentaminen ja koon palauttaminen">Maximize</a></span> a window. Press
     <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or
     <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> to
     restore a maximized window to its original size.</p></td>
@@ -257,16 +257,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Liikuntarajoitteisuudet">Liikuntarajoitteisuudet</a></li>
+<li class="links "><a href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">Liikuntarajoitteisuudet</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Näppäimistö">Näppäimistö</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Näppäimistöasettelut</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Aseta näppäimistön kohdistin vilkkumaan">osoitin vilkkumaan</a></span>, <span class="link"><a href="a11y.html#mobility" title="Liikuntarajoitteisuudet">esteettömyys</a></span>...</span>
+<a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.fi" title="Use alternative keyboard layouts">Näppäimistöasettelut</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fi" title="Aseta näppäimistön kohdistin vilkkumaan">osoitin vilkkumaan</a></span>, <span class="link"><a href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">esteettömyys</a></span>...</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Hyödyllisiä pikanäppäimiä">Hyödyllisiä pikanäppäimiä</a><span class="desc"> — Käytä työpöytää näppäimistöllä.</span>
+<a href="shell-keyboard-shortcuts.html.fi" title="Hyödyllisiä pikanäppäimiä">Hyödyllisiä pikanäppäimiä</a><span class="desc"> — Käytä työpöytää näppäimistöllä.</span>
 </li></ul></div>
 </div></div>
 </div>

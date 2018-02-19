@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="mouse.html" title="Миш">Миш</a> › <a class="trail" href="mouse.html#problems" title="Општи проблеми">Општи проблеми</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="mouse.html.sr" title="Миш">Миш</a> › <a class="trail" href="mouse.html.sr#problems" title="Општи проблеми">Општи проблеми</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="mouse.html" title="Миш">Миш</a> › <a class="trail" href="mouse.html#problems" title="Општи проблеми">Општи проблеми</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="mouse.html.sr" title="Миш">Миш</a> › <a class="trail" href="mouse.html.sr#problems" title="Општи проблеми">Општи проблеми</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Показивач миша се не помера</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Проверите да ли је миш прикључен">Проверите да ли је миш прикључен</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Проверите да ли миш заправо ради">Проверите да ли миш заправо ради</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Проверите бежични миш">Проверите бежични миш</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.sr#plugged-in" title="Проверите да ли је миш прикључен">Проверите да ли је миш прикључен</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.sr#broken" title="Проверите да ли миш заправо ради">Проверите да ли миш заправо ради</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.sr#wireless-mice" title="Проверите бежични миш">Проверите бежични миш</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Проверите да ли је миш прикључен</span></h2></div>
@@ -76,8 +76,8 @@
 <div class="region"><div class="contents">
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Уверите се да је миш упаљен. На доњој страни миша често се налази прекидач за потпуно гашење миша, тако да можете да га понесете с вама а да га не будите стално.</p></li>
-<li class="list"><p class="p">Ако користите блутут миша, уверите се да сте упарили миша са вашим рачунаром. Погледајте <span class="link"><a href="bluetooth-connect-device.html" title="Повежите ваш рачунар на Блутут уређај">Повежите ваш рачунар на Блутут уређај</a></span>.</p></li>
-<li class="list"><p class="p">Кликните на дугме и видите да ли се показивач миша помера. Неки бежични мишеви се успављују да би сачували енергију, тако да неће одговарати све док не кликнете на дугме. Погледајте <span class="link"><a href="mouse-wakeup.html" title="Миш реагује са кашњењем пре него што почне са радом">Миш реагује са кашњењем пре него што почне са радом</a></span>.</p></li>
+<li class="list"><p class="p">Ако користите блутут миша, уверите се да сте упарили миша са вашим рачунаром. Погледајте <span class="link"><a href="bluetooth-connect-device.html.sr" title="Повежите ваш рачунар на Блутут уређај">Повежите ваш рачунар на Блутут уређај</a></span>.</p></li>
+<li class="list"><p class="p">Кликните на дугме и видите да ли се показивач миша помера. Неки бежични мишеви се успављују да би сачували енергију, тако да неће одговарати све док не кликнете на дугме. Погледајте <span class="link"><a href="mouse-wakeup.html.sr" title="Миш реагује са кашњењем пре него што почне са радом">Миш реагује са кашњењем пре него што почне са радом</a></span>.</p></li>
 <li class="list"><p class="p">Проверите да ли је батерија миша напуњена.</p></li>
 <li class="list"><p class="p">Уверите се да је пријемник чврсто прикључен на рачунар.</p></li>
 <li class="list"><p class="p">Ако ваш миш и пријемник могу да раде на различитим радио каналима, уверите се да су подешени на исти канал.</p></li>
@@ -90,7 +90,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Општи проблеми">Општи проблеми миша</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.sr#problems" title="Општи проблеми">Општи проблеми миша</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

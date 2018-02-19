@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html#common-file-tasks" title="Pogoste naloge">Pogoste naloge</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html.sl#common-file-tasks" title="Pogoste naloge">Pogoste naloge</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Izbris datotek in map</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">If you do not want a file or folder any more, you can delete it. When you
   delete an item it is moved to the <span class="gui">Trash</span> folder, where it is stored
-  until you empty the trash. You can <span class="link"><a href="files-recover.html" title="Obnovitev datoteke iz Smeti">restore
+  until you empty the trash. You can <span class="link"><a href="files-recover.html.sl" title="Obnovitev datoteke iz Smeti">restore
   items</a></span> in the <span class="gui">Trash</span> folder to their original location if you
   decide you need them, or if they were accidentally deleted.</p>
 <div class="steps"><div class="inner">
@@ -80,7 +80,7 @@
 <li class="steps"><p class="p">Ker tega ne morete razveljaviti boste morali potrditi, da želite datoteko ali mapo izbrisati.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">Izbrisane datoteke na <span class="link"><a href="files.html#removable" title="Odstranljivi pogoni in zunanji diski">odstranljivih napravah</a></span> morda na drugih operacijskih sistemih kot sta Windows ali Mac OS ne bodo vidne. Datoteke so še vedno tam in bodo na voljo, ko napravo priklopite nazaj v svoj računalnik.</p></div></div></div></div>
+<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">Izbrisane datoteke na <span class="link"><a href="files.html.sl#removable" title="Odstranljivi pogoni in zunanji diski">odstranljivih napravah</a></span> morda na drugih operacijskih sistemih kot sta Windows ali Mac OS ne bodo vidne. Datoteke so še vedno tam in bodo na voljo, ko napravo priklopite nazaj v svoj računalnik.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -88,14 +88,14 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Pogoste naloge">Pogoste naloge</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sl#common-file-tasks" title="Pogoste naloge">Pogoste naloge</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html#trash" title="Smeti">Možnosti smeti upravljalnika datotek</a></li>
+<li class="links "><a href="nautilus-behavior.html.sl#trash" title="Smeti">Možnosti smeti upravljalnika datotek</a></li>
 <li class="links ">
-<a href="files-recover.html" title="Obnovitev datoteke iz Smeti">Obnovitev datoteke iz Smeti</a><span class="desc"> — Izbrisane datoteke so običajno poslane v Smeti. Datoteke lahko iz Smeti dobite nazaj.</span>
+<a href="files-recover.html.sl" title="Obnovitev datoteke iz Smeti">Obnovitev datoteke iz Smeti</a><span class="desc"> — Izbrisane datoteke so običajno poslane v Smeti. Datoteke lahko iz Smeti dobite nazaj.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html#faq" title="小提示和问答">小提示和问答</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.zh-CN" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html.zh-CN#faq" title="小提示和问答">小提示和问答</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">常用文档类型的模板</span></h1></div>
@@ -66,7 +66,7 @@
 <li class="steps"><p class="p">在文件夹的空白处右击，选择<span class="gui">新建空白文档</span>，可用的模板将会出现在子菜单中。</p></li>
 <li class="steps"><p class="p">从列表中选择合适的模板。</p></li>
 <li class="steps"><p class="p">Double-click the file to open it and start editing. You may wish to
-      <span class="link"><a href="files-rename.html" title="重命名文件或文件夹">rename the file</a></span> when you are
+      <span class="link"><a href="files-rename.html.zh-CN" title="重命名文件或文件夹">rename the file</a></span> when you are
       finished.</p></li>
 </ol></div>
 </div></div>
@@ -75,7 +75,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="小提示和问答">小提示和问答</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.zh-CN#faq" title="小提示和问答">小提示和问答</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

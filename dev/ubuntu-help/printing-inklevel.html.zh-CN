@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="printing.html" title="打印">打印</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="printing.html.zh-CN" title="打印">打印</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">How can I check my printer’s ink or toner levels?</span></h1></div>
@@ -67,13 +67,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html" title="打印">打印</a><span class="desc"> — <span class="link"><a href="printing-setup.html" title="安装本地打印机">本地安装</a></span>、<span class="link"><a href="printing-order.html" title="用相反的顺序打印。">按顺序和逐份打印</a></span>、<span class="link"><a href="printing-2sided.html" title="双面打印和多页布局">双面和多页打印</a></span>…</span>
+<a href="printing.html.zh-CN" title="打印">打印</a><span class="desc"> — <span class="link"><a href="printing-setup.html.zh-CN" title="安装本地打印机">本地安装</a></span>、<span class="link"><a href="printing-order.html.zh-CN" title="用相反的顺序打印。">按顺序和逐份打印</a></span>、<span class="link"><a href="printing-2sided.html.zh-CN" title="双面打印和多页布局">双面和多页打印</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-streaks.html" title="为什么我打印出来的有条纹、线条或错误颜色？">为什么我打印出来的有条纹、线条或错误颜色？</a><span class="desc"> — 如果打印出来是花的、杂乱或者错误的颜色，请检查墨水级别(ink levels)或者清洗打印头。</span>
+<a href="printing-streaks.html.zh-CN" title="为什么我打印出来的有条纹、线条或错误颜色？">为什么我打印出来的有条纹、线条或错误颜色？</a><span class="desc"> — 如果打印出来是花的、杂乱或者错误的颜色，请检查墨水级别(ink levels)或者清洗打印头。</span>
 </li></ul></div>
 </div></div>
 </div>

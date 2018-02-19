@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Jūsu darbvirsma">Darbvirsma</a> › <a class="trail" href="shell-overview.html#apps" title="Lietotnes un logi">Lietotnes un logi</a> » <a class="trail" href="shell-windows.html" title="Logi un darbvietas">Logi un darbvietas</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Darbs ar darbvietām">Darbvietas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.lv" title="Jūsu darbvirsma">Darbvirsma</a> › <a class="trail" href="shell-overview.html.lv#apps" title="Lietotnes un logi">Lietotnes un logi</a> » <a class="trail" href="shell-windows.html.lv" title="Logi un darbvietas">Logi un darbvietas</a> › <a class="trail" href="shell-windows.html.lv#working-with-workspaces" title="Darbs ar darbvietām">Darbvietas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Pārslēgties starp darbvietām</span></h1></div>
@@ -52,15 +52,15 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Lietojot peli:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu.</p></li>
-<li class="steps"><p class="p">Spiediet dažādās darbvietas <span class="link"><a href="shell-workspaces.html" title="Kas ir darbvieta un kā tā man palīdzēs?">darbvietu atlasītājā</a></span> labajā ekrāna pusē, lai atvērtu logus tajā darbvietā.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu.</p></li>
+<li class="steps"><p class="p">Spiediet dažādās darbvietas <span class="link"><a href="shell-workspaces.html.lv" title="Kas ir darbvieta un kā tā man palīdzēs?">darbvietu atlasītājā</a></span> labajā ekrāna pusē, lai atvērtu logus tajā darbvietā.</p></li>
 <li class="steps"><p class="p">Spiediet uz jebkura loga sīktēla, lai aktivētu darbvietu.</p></li>
 </ol></div>
 </div></div>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Lietojot tastatūru:</span></h2></div>
 <div class="region"><ul class="list">
-<li class="list"><p class="p">Spiediet <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span> vai <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span>, lai pārslēgtos uz darbvietu, kas atrodas virs pašreizējās darbvietas darbvietu atlasītājā.</p></li>
+<li class="list"><p class="p">Spiediet <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.lv" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span> vai <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span>, lai pārslēgtos uz darbvietu, kas atrodas virs pašreizējās darbvietas darbvietu atlasītājā.</p></li>
 <li class="list"><p class="p">Spiediet <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> vai <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span>, lai pārslēgtos uz darbvietu, kas atrodas zem pašreizējās darbvietas darbvietu atlasītājā.</p></li>
 </ul></div>
 </div></div>
@@ -70,12 +70,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Darbs ar darbvietām">Darbs ar darbvietām</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.lv#working-with-workspaces" title="Darbs ar darbvietām">Darbs ar darbvietām</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-workspaces.html" title="Kas ir darbvieta un kā tā man palīdzēs?">Kas ir darbvieta un kā tā man palīdzēs?</a><span class="desc"> — Darbvietas ir veids, kā grupēt logus uz jūsu darbvirsmas.</span>
+<a href="shell-workspaces.html.lv" title="Kas ir darbvieta un kā tā man palīdzēs?">Kas ir darbvieta un kā tā man palīdzēs?</a><span class="desc"> — Darbvietas ir veids, kā grupēt logus uz jūsu darbvirsmas.</span>
 </li></ul></div>
 </div></div>
 </div>

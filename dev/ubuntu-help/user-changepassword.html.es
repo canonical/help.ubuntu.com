@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="user-accounts.html" title="Cuentas de usuario">Usuarios</a> › <a class="trail" href="user-accounts.html#passwords" title="Contraseñas">Contraseñas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="user-accounts.html.es" title="Cuentas de usuario">Usuarios</a> › <a class="trail" href="user-accounts.html.es#passwords" title="Contraseñas">Contraseñas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Cambiar su contraseña</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Es una buena idea cambiar su contraseña de vez en cuando, especialmente si piensa que alguien más conoce su contraseña.</p>
-<p class="p">Necesita <span class="link"><a href="user-admin-explain.html" title="¿Cómo funcionan los privilegios de administrador?">privilegios de administrador</a></span> para editar cuentas de usuarios que no sean la suya propia.</p>
+<p class="p">Necesita <span class="link"><a href="user-admin-explain.html.es" title="¿Cómo funcionan los privilegios de administrador?">privilegios de administrador</a></span> para editar cuentas de usuarios que no sean la suya propia.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Usuarios</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Usuarios</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Usuarios</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Pulse la etiqueta <span class="gui">·····</span> junto a <span class="gui">Contraseña</span>. si está cambiando la contraseña de otro usuario, primero deberá <span class="gui">Desbloquear</span> el panel.</p></li>
 <li class="steps">
@@ -61,7 +61,7 @@
 </li>
 <li class="steps"><p class="p">Pulse <span class="gui">Cambiar</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Asegúrese de que <span class="link"><a href="user-goodpassword.html" title="Elegir una contraseña segura">elije una buena contraseña</a></span>. Estro ayudará a mantener su cuenta de usuario segura.</p>
+<p class="p">Asegúrese de que <span class="link"><a href="user-goodpassword.html.es" title="Elegir una contraseña segura">elije una buena contraseña</a></span>. Estro ayudará a mantener su cuenta de usuario segura.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Cuando actualiza su contraseña de inicio de sesión, la contraseña del depósito de claves se actualiza automáticamente para que coincida con su nueva contraseña.</p></div></div></div></div>
 <p class="p">Si olvida su contraseña, cualquier usuario con privilegios de administrador la puede cambiar.</p>
 </div>
@@ -70,16 +70,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#passwords" title="Contraseñas">Contraseñas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.es#passwords" title="Contraseñas">Contraseñas</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-goodpassword.html" title="Elegir una contraseña segura">Elegir una contraseña segura</a><span class="desc"> — Use contraseñas más largas y complicadas.</span>
+<a href="user-goodpassword.html.es" title="Elegir una contraseña segura">Elegir una contraseña segura</a><span class="desc"> — Use contraseñas más largas y complicadas.</span>
 </li>
 <li class="links ">
-<a href="user-admin-explain.html" title="¿Cómo funcionan los privilegios de administrador?">¿Cómo funcionan los privilegios de administrador?</a><span class="desc"> — Necesita privilegios de administrador para cambiar partes importantes de su sistema.</span>
+<a href="user-admin-explain.html.es" title="¿Cómo funcionan los privilegios de administrador?">¿Cómo funcionan los privilegios de administrador?</a><span class="desc"> — Necesita privilegios de administrador para cambiar partes importantes de su sistema.</span>
 </li>
 </ul></div>
 </div></div>

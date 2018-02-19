@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html#apps" title="Програми и прозори">Програми и прозори</a> » <a class="trail" href="shell-windows.html" title="Прозори и радни простори">Прозори и радни простори</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Рад са радним просторима">Радни простори</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.sr" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html.sr#apps" title="Програми и прозори">Програми и прозори</a> » <a class="trail" href="shell-windows.html.sr" title="Прозори и радни простори">Прозори и радни простори</a> › <a class="trail" href="shell-windows.html.sr#working-with-workspaces" title="Рад са радним просторима">Радни простори</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Шта је то радни простро, и како ће ми помоћи?</span></h1></div>
@@ -54,7 +54,7 @@
 <p class="p">Радни простори могу бити коришћени за организовање вашег рада. На пример, можете имати све ваше прозоре комуникација, као што је програм е-поште и ћаскања, на једном радном простору, а оно на чему тренутно радите на другом. Ваш управник музике може бити отворен на трећем радном простору.</p>
 <p class="p">Коришћење радних простора:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">У прегледу <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span>, померите показивач миша на крајњу десну страну екрана.</p></li>
+<li class="list"><p class="p">У прегледу <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span>, померите показивач миша на крајњу десну страну екрана.</p></li>
 <li class="list"><p class="p">Појавиће се усправни панел на коме ће бити приказани радни простори у употреби, као и један празан радни простор. То је бирач радних простора.</p></li>
 <li class="list"><p class="p">Да додате радни простор, превуците и отпустите прозор из једног постојећег радног простора у празан радни простор у бирачу радних простора. Овај радни простор ће сада садржати прозор који сте у њега отпустили, а нови празан радни простор ће се појавити испод њега.</p></li>
 <li class="list"><p class="p">Да уклоните радни простор, једноставно затворите све његове прозоре или их преместите на друге радне просторе.</p></li>
@@ -66,16 +66,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Рад са радним просторима">Рад са радним просторима</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.sr#working-with-workspaces" title="Рад са радним просторима">Рад са радним просторима</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-workspaces-switch.html" title="Пребацујте се између радних простора">Пребацујте се између радних простора</a><span class="desc"> — Користите бирача радног простора.</span>
+<a href="shell-workspaces-switch.html.sr" title="Пребацујте се између радних простора">Пребацујте се између радних простора</a><span class="desc"> — Користите бирача радног простора.</span>
 </li>
 <li class="links ">
-<a href="shell-workspaces-movewindow.html" title="Преместите прозор на други радни простор">Преместите прозор на други радни простор</a><span class="desc"> — Идите на преглед <span class="gui">активности</span> и превуците прозор на други радни простор.</span>
+<a href="shell-workspaces-movewindow.html.sr" title="Преместите прозор на други радни простор">Преместите прозор на други радни простор</a><span class="desc"> — Идите на преглед <span class="gui">активности</span> и превуците прозор на други радни простор.</span>
 </li>
 </ul></div>
 </div></div>

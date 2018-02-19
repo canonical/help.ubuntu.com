@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,28 +54,28 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-status.html" title="Kontrola stavu baterie"><span class="title">Kontrola stavu baterie</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zobrazit stav baterie a připojených zařízení.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspend.html" title="Co se stane, když svůj počítač uspím?"><span class="title">Co se stane, když svůj počítač uspím?</span><span class="linkdiv-dash"> — </span><span class="desc">Uspáním se pozastaví běh vašeho počítač, aby se snížila spotřeba.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html" title="Jak mohu uspat svůj počítač na disk?"><span class="title">Jak mohu uspat svůj počítač na disk?</span><span class="linkdiv-dash"> — </span><span class="desc">Režim spánku (hibernace) není ve výchozím nastavení zapnuta, jelikož nemá dobrou podporu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Odhlášení nebo přepnutí uživatele, vypnutí"><span class="title">Odhlášení nebo přepnutí uživatele, vypnutí</span><span class="linkdiv-dash"> — </span><span class="desc">Naučte se, jak správně odejít od svého účtu, ať už odhlášením nebo přepnutím uživatele apod.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-status.html.cs" title="Kontrola stavu baterie"><span class="title">Kontrola stavu baterie</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zobrazit stav baterie a připojených zařízení.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspend.html.cs" title="Co se stane, když svůj počítač uspím?"><span class="title">Co se stane, když svůj počítač uspím?</span><span class="linkdiv-dash"> — </span><span class="desc">Uspáním se pozastaví běh vašeho počítač, aby se snížila spotřeba.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.cs" title="Jak mohu uspat svůj počítač na disk?"><span class="title">Jak mohu uspat svůj počítač na disk?</span><span class="linkdiv-dash"> — </span><span class="desc">Režim spánku (hibernace) není ve výchozím nastavení zapnuta, jelikož nemá dobrou podporu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.cs" title="Odhlášení nebo přepnutí uživatele, vypnutí"><span class="title">Odhlášení nebo přepnutí uživatele, vypnutí</span><span class="linkdiv-dash"> — </span><span class="desc">Naučte se, jak správně odejít od svého účtu, ať už odhlášením nebo přepnutím uživatele apod.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-closelid.html" title="Proč se můj počítač vypne, když zavřu víko?"><span class="title">Proč se můj počítač vypne, když zavřu víko?</span><span class="linkdiv-dash"> — </span><span class="desc">Noteboky se po zavření víka uspávají, aby ušetřily energii.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batterylife.html" title="Snižte spotřebu a prodlužte výdrž baterie"><span class="title">Snižte spotřebu a prodlužte výdrž baterie</span><span class="linkdiv-dash"> — </span><span class="desc">Tipy na snížení spotřeby vašeho počítače.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html" title="Vymáčkněte z baterie svého notebooku co nejvíce"><span class="title">Vymáčkněte z baterie svého notebooku co nejvíce</span><span class="linkdiv-dash"> — </span><span class="desc">Rady jako „Nenechte baterii vybít úplně do dna“</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-wireless.html" title="Vypnutí nepoužívaných bezdrátových technologií"><span class="title">Vypnutí nepoužívaných bezdrátových technologií</span><span class="linkdiv-dash"> — </span><span class="desc">Jak šetřit baterii vypnutím Bluetooth, Wi-Fi a mobilního připojení.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.cs" title="Proč se můj počítač vypne, když zavřu víko?"><span class="title">Proč se můj počítač vypne, když zavřu víko?</span><span class="linkdiv-dash"> — </span><span class="desc">Noteboky se po zavření víka uspávají, aby ušetřily energii.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.cs" title="Snižte spotřebu a prodlužte výdrž baterie"><span class="title">Snižte spotřebu a prodlužte výdrž baterie</span><span class="linkdiv-dash"> — </span><span class="desc">Tipy na snížení spotřeby vašeho počítače.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.cs" title="Vymáčkněte z baterie svého notebooku co nejvíce"><span class="title">Vymáčkněte z baterie svého notebooku co nejvíce</span><span class="linkdiv-dash"> — </span><span class="desc">Rady jako „Nenechte baterii vybít úplně do dna“</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.cs" title="Vypnutí nepoužívaných bezdrátových technologií"><span class="title">Vypnutí nepoužívaných bezdrátových technologií</span><span class="linkdiv-dash"> — </span><span class="desc">Jak šetřit baterii vypnutím Bluetooth, Wi-Fi a mobilního připojení.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="saving" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Nastavení šetření energií</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html" title="Nastavení automatického uspávání"><span class="title">Nastavení automatického uspávání</span><span class="linkdiv-dash"> — </span><span class="desc">Jak počítač nastavit, aby se automaticky uspával do paměti.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Nastavení času vypnutí obrazovky"><span class="title">Nastavení času vypnutí obrazovky</span><span class="linkdiv-dash"> — </span><span class="desc">Jak změnit čas, po kterém se vypne obrazovka kvůli úspoře energie.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.cs" title="Nastavení automatického uspávání"><span class="title">Nastavení automatického uspávání</span><span class="linkdiv-dash"> — </span><span class="desc">Jak počítač nastavit, aby se automaticky uspával do paměti.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.cs" title="Nastavení času vypnutí obrazovky"><span class="title">Nastavení času vypnutí obrazovky</span><span class="linkdiv-dash"> — </span><span class="desc">Jak změnit čas, po kterém se vypne obrazovka kvůli úspoře energie.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html" title="Povolení automatického jasu"><span class="title">Povolení automatického jasu</span><span class="linkdiv-dash"> — </span><span class="desc">Automatické řízení jasu obrazovky může snížit spotřebu z baterie.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Proč moje obrazovka po krátké době potemní?"><span class="title">Proč moje obrazovka po krátké době potemní?</span><span class="linkdiv-dash"> — </span><span class="desc">Obrazovka ztlumí jas, když je počítač nějakou dobu nepoužíván, aby ušetřil energii.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.cs" title="Povolení automatického jasu"><span class="title">Povolení automatického jasu</span><span class="linkdiv-dash"> — </span><span class="desc">Automatické řízení jasu obrazovky může snížit spotřebu z baterie.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.cs" title="Proč moje obrazovka po krátké době potemní?"><span class="title">Proč moje obrazovka po krátké době potemní?</span><span class="linkdiv-dash"> — </span><span class="desc">Obrazovka ztlumí jas, když je počítač nějakou dobu nepoužíván, aby ušetřil energii.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -83,12 +83,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Dotazy</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html" title="Odhad výdrže baterie je nesprávný"><span class="title">Odhad výdrže baterie je nesprávný</span><span class="linkdiv-dash"> — </span><span class="desc">Výdrž baterie zobrazená po kliknutí na <span class="gui">ikonu baterie</span> je jen odhad.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html" title="Proč je můj notebook pomalý, když běží na baterie?"><span class="title">Proč je můj notebook pomalý, když běží na baterie?</span><span class="linkdiv-dash"> — </span><span class="desc">Některé notebooky se záměrně zpomalí, když běží na baterie.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html.cs" title="Odhad výdrže baterie je nesprávný"><span class="title">Odhad výdrže baterie je nesprávný</span><span class="linkdiv-dash"> — </span><span class="desc">Výdrž baterie zobrazená po kliknutí na <span class="gui">ikonu baterie</span> je jen odhad.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html.cs" title="Proč je můj notebook pomalý, když běží na baterie?"><span class="title">Proč je můj notebook pomalý, když běží na baterie?</span><span class="linkdiv-dash"> — </span><span class="desc">Některé notebooky se záměrně zpomalí, když běží na baterie.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html" title="Proč je výdrž na baterie nižší než pod OS Windows/MAC?"><span class="title">Proč je výdrž na baterie nižší než pod OS Windows/MAC?</span><span class="linkdiv-dash"> — </span><span class="desc">Tyto problémy mohou způsobovat nastavení od výrobce a odlišný odhad času výdrže baterie.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html" title="Proč se můj počítač vypne, když baterie klesne pod 10 %?"><span class="title">Proč se můj počítač vypne, když baterie klesne pod 10 %?</span><span class="linkdiv-dash"> — </span><span class="desc">Dovolit baterii se úplně vybít pro ni není dobré.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html.cs" title="Proč je výdrž na baterie nižší než pod OS Windows/MAC?"><span class="title">Proč je výdrž na baterie nižší než pod OS Windows/MAC?</span><span class="linkdiv-dash"> — </span><span class="desc">Tyto problémy mohou způsobovat nastavení od výrobce a odlišný odhad času výdrže baterie.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html.cs" title="Proč se můj počítač vypne, když baterie klesne pod 10 %?"><span class="title">Proč se můj počítač vypne, když baterie klesne pod 10 %?</span><span class="linkdiv-dash"> — </span><span class="desc">Dovolit baterii se úplně vybít pro ni není dobré.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -97,21 +97,21 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-othercountry.html" title="Bude můj počítač fungovat s napájením v jiné zemi?"><span class="title">Bude můj počítač fungovat s napájením v jiné zemi?</span><span class="linkdiv-dash"> — </span><span class="desc">Váš počítač fungovat bude, ale možná budete potřebovat jiný napájecí kabel nebo cestovní adaptér.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html" title="Můj počítač je hodně horký"><span class="title">Můj počítač je hodně horký</span><span class="linkdiv-dash"> — </span><span class="desc">Počítače se obvykle zahřívají, ale když se zahřejí příliš, může přehřátí způsobit poškození.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="Můj počítač se nezapne"><span class="title">Můj počítač se nezapne</span><span class="linkdiv-dash"> — </span><span class="desc">Možnou příčinou je povysunutý napájecí kabel nebo problémy s hardwarem.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-othercountry.html.cs" title="Bude můj počítač fungovat s napájením v jiné zemi?"><span class="title">Bude můj počítač fungovat s napájením v jiné zemi?</span><span class="linkdiv-dash"> — </span><span class="desc">Váš počítač fungovat bude, ale možná budete potřebovat jiný napájecí kabel nebo cestovní adaptér.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html.cs" title="Můj počítač je hodně horký"><span class="title">Můj počítač je hodně horký</span><span class="linkdiv-dash"> — </span><span class="desc">Počítače se obvykle zahřívají, ale když se zahřejí příliš, může přehřátí způsobit poškození.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.cs" title="Můj počítač se nezapne"><span class="title">Můj počítač se nezapne</span><span class="linkdiv-dash"> — </span><span class="desc">Možnou příčinou je povysunutý napájecí kabel nebo problémy s hardwarem.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html" title="Po probuzení počítače nemám žádnou bezdrátovou síť"><span class="title">Po probuzení počítače nemám žádnou bezdrátovou síť</span><span class="linkdiv-dash"> — </span><span class="desc">Některá bezdrátová zařízení mají problém s přechodem počítače do stavu spánku a nesprávně pak obnoví svou činnost.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="Proč se můj počítač nechce znovu zapnout po jeho uspání?"><span class="title">Proč se můj počítač nechce znovu zapnout po jeho uspání?</span><span class="linkdiv-dash"> — </span><span class="desc">Některý hardware způsobuje problémy s uspáním do paměti.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html" title="Ventilátor notebooku pořád běží"><span class="title">Ventilátor notebooku pořád běží</span><span class="linkdiv-dash"> — </span><span class="desc">Možná schází software pro řízení ventilátorů nebo je váš notebook příliš horký.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html.cs" title="Po probuzení počítače nemám žádnou bezdrátovou síť"><span class="title">Po probuzení počítače nemám žádnou bezdrátovou síť</span><span class="linkdiv-dash"> — </span><span class="desc">Některá bezdrátová zařízení mají problém s přechodem počítače do stavu spánku a nesprávně pak obnoví svou činnost.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.cs" title="Proč se můj počítač nechce znovu zapnout po jeho uspání?"><span class="title">Proč se můj počítač nechce znovu zapnout po jeho uspání?</span><span class="linkdiv-dash"> — </span><span class="desc">Některý hardware způsobuje problémy s uspáním do paměti.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html.cs" title="Ventilátor notebooku pořád běží"><span class="title">Ventilátor notebooku pořád běží</span><span class="linkdiv-dash"> — </span><span class="desc">Možná schází software pro řízení ventilátorů nebo je váš notebook příliš horký.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Další informace</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Běžné problémy">Problémy s hardwarem</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.cs#problems" title="Běžné problémy">Problémy s hardwarem</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -122,10 +122,10 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html" title="Hardware a ovladače">Hardware a ovladače</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Běžné problémy">Problémy s hardwarem</a></span>, <span class="link"><a href="printing.html" title="Tisk">tiskárny</a></span>, <span class="link"><a href="power.html" title="Napájení a baterie">nastavení napájení</a></span>, <span class="link"><a href="color.html" title="Správa barev">správa barev</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Disky a úložiště">disky</a></span>…</span>
+<a href="hardware.html.cs" title="Hardware a ovladače">Hardware a ovladače</a><span class="desc"> — <span class="link"><a href="hardware.html.cs#problems" title="Běžné problémy">Problémy s hardwarem</a></span>, <span class="link"><a href="printing.html.cs" title="Tisk">tiskárny</a></span>, <span class="link"><a href="power.html.cs" title="Napájení a baterie">nastavení napájení</a></span>, <span class="link"><a href="color.html.cs" title="Správa barev">správa barev</a></span>, <span class="link"><a href="bluetooth.html.cs" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.cs" title="Disky a úložiště">disky</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs.html" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html" title="Uživatelské účty">uživatelské účty</a></span>…</span>
+<a href="prefs.html.cs" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html.cs" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html.cs" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html.cs" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html.cs" title="Uživatelské účty">uživatelské účty</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

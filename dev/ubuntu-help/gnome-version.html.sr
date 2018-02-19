@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Савети и трикови">Савети и трикови</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.sr" title="Савети и трикови">Савети и трикови</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Одредите које издање Гнома је покренуто</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Можете да одредите издање Гнома које је покренуто на вашем систему тако што ћете отићи на <span class="gui">Информације о систему</span> у <span class="gui">Подешавањима</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Детаљи</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Детаљи</span>.</p></li>
 <li class="steps">
 <p class="p">Кликните на <span class="gui">Детаљи</span> да отворите панел.</p>
 <p class="p">Појавиће се прозор који ће приказати податке о вашем систему, укључујући и назив ваше дистрибуције и издање Гнома.</p>
@@ -63,7 +63,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Савети и трикови">Савети и трикови</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Унесите посебне знаке">Посебни знаци</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Средњи клик">пречице средњег клика</a></span>…</span>
+<a href="tips.html.sr" title="Савети и трикови">Савети и трикови</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.sr" title="Унесите посебне знаке">Посебни знаци</a></span>, <span class="link"><a href="mouse-middleclick.html.sr" title="Средњи клик">пречице средњег клика</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

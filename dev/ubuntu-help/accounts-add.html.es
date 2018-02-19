@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="accounts.html" title="Cuentas en línea">Cuentas en línea</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="accounts.html.es" title="Cuentas en línea">Cuentas en línea</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Añadir una cuenta</span></h1></div>
@@ -51,23 +51,23 @@
 <div class="contents">
 <p class="p">Añadir una cuenta le ayudará a enlazar sus cuentas en línea con su escritorio GNOME. Por lo tanto, su programas de correo-e, chat y otras aplicaciones relacionadas estarán configurados.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Cuentas en línea</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Cuentas en línea</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Cuentas en línea</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Pulse el botón <span class="gui">+</span> en la esquina inferior izquierda de la ventana.</p></li>
 <li class="steps"><p class="p">Seleccione la cuenta que quiere añadir.</p></li>
 <li class="steps"><p class="p">Se abrirá una pequeña ventana o diálogo con un sitio web donde podrá introducir las credenciales de la cuenta en línea. Si está configurando una cuenta de Google, introduzca su nombre de usuario y contraseña de Google. Algunos proveedores le permite crear una cuenta desde el diálogo de inicio de sesión.</p></li>
 <li class="steps"><p class="p">Si ha introducido sus credenciales correctamente, se le pedirá que permita a GNOME acceder a su cuenta en línea. Autorice el acceso para continuar.</p></li>
-<li class="steps"><p class="p">Todos los servicios ofrecidos por el proveedor de la cuenta estarán activados de manera predeterminada. Puede <span class="link"><a href="accounts-disable-service.html" title="Controlar qué servicios en línea puede usar una cuenta para acceder">desactivar</a></span> (<span class="gui">Apagar</span>) los servicios individualmente.</p></li>
+<li class="steps"><p class="p">Todos los servicios ofrecidos por el proveedor de la cuenta estarán activados de manera predeterminada. Puede <span class="link"><a href="accounts-disable-service.html.es" title="Controlar qué servicios en línea puede usar una cuenta para acceder">desactivar</a></span> (<span class="gui">Apagar</span>) los servicios individualmente.</p></li>
 </ol></div></div></div>
-<p class="p">Después de haber añadido las cuentas, las aplicaciones puede usar esas cuentas para los servicios que haya permitido. Consulte la <span class="link"><a href="accounts-disable-service.html" title="Controlar qué servicios en línea puede usar una cuenta para acceder">Controlar qué servicios en línea puede usar una cuenta para acceder</a></span> para obtener más información sobre cómo controlar qué servicios permitir.</p>
-<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Muchos proveedores de servicios en línea proporcionan un testigo de autorización que GNOME guarda en lugar su contraseña. Si elimina una cuenta, debe revocar también ese certificado en la cuenta en línea. Consulte la <span class="link"><a href="accounts-remove.html" title="Quitar una cuenta">Quitar una cuenta</a></span> para obtener más información.</p></div></div></div></div>
+<p class="p">Después de haber añadido las cuentas, las aplicaciones puede usar esas cuentas para los servicios que haya permitido. Consulte la <span class="link"><a href="accounts-disable-service.html.es" title="Controlar qué servicios en línea puede usar una cuenta para acceder">Controlar qué servicios en línea puede usar una cuenta para acceder</a></span> para obtener más información sobre cómo controlar qué servicios permitir.</p>
+<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Muchos proveedores de servicios en línea proporcionan un testigo de autorización que GNOME guarda en lugar su contraseña. Si elimina una cuenta, debe revocar también ese certificado en la cuenta en línea. Consulte la <span class="link"><a href="accounts-remove.html.es" title="Quitar una cuenta">Quitar una cuenta</a></span> para obtener más información.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Cuentas en línea">Cuentas en línea</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Añadir una cuenta">Añadir una cuenta en línea</a></span>, <span class="link"><a href="accounts-remove.html" title="Quitar una cuenta">Quitar una cuenta</a></span>, <span class="link"><a href="accounts-which-application.html" title="Servicios y aplicaciones en línea">Aprender más sobre los servicios</a></span>…</span>
+<a href="accounts.html.es" title="Cuentas en línea">Cuentas en línea</a><span class="desc"> — <span class="link"><a href="accounts-add.html.es" title="Añadir una cuenta">Añadir una cuenta en línea</a></span>, <span class="link"><a href="accounts-remove.html.es" title="Quitar una cuenta">Quitar una cuenta</a></span>, <span class="link"><a href="accounts-which-application.html.es" title="Servicios y aplicaciones en línea">Aprender más sobre los servicios</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

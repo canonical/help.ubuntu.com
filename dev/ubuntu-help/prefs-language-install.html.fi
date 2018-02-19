@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Lisää/poista ohjelmistoja</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.fi" title="Install &amp; remove software">Lisää/poista ohjelmistoja</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Asenna kieliä</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Kun asennat Ubuntun, valitsemasi kieli sekä englanninkieli asentuvat. Voit halutessasi lisätä käytössä olevaa kielivalikoimaa.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
@@ -59,7 +59,7 @@
 <li class="steps"><p class="p">Napsauta <span class="gui">Asenna tai poista kieliä...</span>. <span class="gui">Asennetut kielet</span> -ikkuna listaa kaikki saatavilla olevat kielet. Asennettujen kielien kohdalla on "Asennettu"-valinta.</p></li>
 <li class="steps"><p class="p">Valitse kielet, jotka haluat asentaa. Jos haluat poistaa jo asennetun kielen, poista valinta kyseisen kielen kohdalta.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Toteuta muutokset</span>.</p></li>
-<li class="steps"><p class="p">Tarvitset <span class="link"><a href="user-admin-explain.html" title="Kuinka pääkäyttäjäoikeudet toimivat?">ylläpitäjän oikeudet</a></span>. Anna salasanasi tai pyydetyn ylläpitotilin salasana.</p></li>
+<li class="steps"><p class="p">Tarvitset <span class="link"><a href="user-admin-explain.html.fi" title="Kuinka pääkäyttäjäoikeudet toimivat?">ylläpitäjän oikeudet</a></span>. Anna salasanasi tai pyydetyn ylläpitotilin salasana.</p></li>
 </ol></div></div></div>
 <p class="p">Käyttöliittymän viestien käännösten lisäksi uuden kielen asennus saattaa asentaa lisäosia, kuten sanastoja, kirjasimia ja syötemenetelmiä.</p>
 <div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">Käännökset voivat kielestä riippuen olla puuttellisia ja sisältää virheitä, eivätkä kaikki sovellukset välttämättä tue lainkaan käyttämääsi kieltä. Suomen kielelle on Ubuntussa verrattain hyvä tuki, mutta sovelluksissa sen yleisyys vaihtelee.</p></div></div></div></div>
@@ -70,10 +70,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Poista sovellus">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+<a href="addremove.html.fi" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
+      <span class="link"><a href="addremove-install.html.fi" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.fi" title="Poista sovellus">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.fi" title="Add software repositories">add repositories</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -81,10 +81,10 @@
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-language.html" title="Alue- ja kieliasetukset">Alue- ja kieliasetukset</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Vaihda käytettävä kieli">Kieliasetukset</a></span>, <span class="link"><a href="session-formats.html" title="Vaihda päiväyksen ja mittojen muotoja">alue ja muotoilut</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">näppäimistöasettelu</a></span>…</span>
+<a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">Alue- ja kieliasetukset</a><span class="desc"> — <span class="link"><a href="session-language.html.fi" title="Vaihda käytettävä kieli">Kieliasetukset</a></span>, <span class="link"><a href="session-formats.html.fi" title="Vaihda päiväyksen ja mittojen muotoja">alue ja muotoilut</a></span>, <span class="link"><a href="keyboard-layouts.html.fi" title="Use alternative keyboard layouts">näppäimistöasettelu</a></span>…</span>
 </li>
 <li class="links ">
-<a href="addremove-install.html" title="Install additional applications">
+<a href="addremove-install.html.fi" title="Install additional applications">
     Install additional applications
   </a><span class="desc"> — 
       Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 

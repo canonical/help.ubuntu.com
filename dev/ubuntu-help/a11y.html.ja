@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ユニバーサルアクセス</span></h1></div>
@@ -53,7 +53,7 @@
   various impairments and special needs, and to interact with common assistive
   devices. An accessibility menu can be added to the top bar, giving easier
   access to many of the accessibility features.</p>
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html" title="ユニバーサルアクセスのメニューはどこにありますか?"><span class="title">ユニバーサルアクセスのメニューはどこにありますか?</span><span class="linkdiv-dash"> — </span><span class="desc">ユニバーサルアクセスのメニューはトップバーの人型アイコンからアクセスできます。</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.ja" title="ユニバーサルアクセスのメニューはどこにありますか?"><span class="title">ユニバーサルアクセスのメニューはどこにありますか?</span><span class="linkdiv-dash"> — </span><span class="desc">ユニバーサルアクセスのメニューはトップバーの人型アイコンからアクセスできます。</span></a></div></div></div></div>
 </div>
 <div id="vision" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">視覚障害</span></h2></div>
@@ -62,10 +62,10 @@
 <div class="title title-links"><h3><span class="title">盲</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-braille.html" title="点字で画面を読む">点字で画面を読む</a><span class="desc"> — 点字ディスプレイで <span class="app">Orca</span> スクリーンリーダーを使います。</span>
+<a href="a11y-braille.html.ja" title="点字で画面を読む">点字で画面を読む</a><span class="desc"> — 点字ディスプレイで <span class="app">Orca</span> スクリーンリーダーを使います。</span>
 </li>
 <li class="links ">
-<a href="a11y-screen-reader.html" title="画面を読み上げる">画面を読み上げる</a><span class="desc"> — <span class="app">Orca</span> スクリーンリーダーを使い、画面のユーザーインターフェースを読み上げます。</span>
+<a href="a11y-screen-reader.html.ja" title="画面を読み上げる">画面を読み上げる</a><span class="desc"> — <span class="app">Orca</span> スクリーンリーダーを使い、画面のユーザーインターフェースを読み上げます。</span>
 </li>
 </ul></div>
 </div></div>
@@ -73,17 +73,17 @@
 <div class="title title-links"><h3><span class="title">ロービジョン</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-cursor-blink.html" title="キーボードのカーソルを点滅させる">キーボードのカーソルを点滅させる</a><span class="desc"> — 挿入位置の点滅や、点滅速度の設定を行います。</span>
+<a href="keyboard-cursor-blink.html.ja" title="キーボードのカーソルを点滅させる">キーボードのカーソルを点滅させる</a><span class="desc"> — 挿入位置の点滅や、点滅速度の設定を行います。</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="コントラストを調節する">コントラストを調節する</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
+<a href="a11y-contrast.html.ja" title="コントラストを調節する">コントラストを調節する</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
     they’re easier to see.</span>
 </li>
 <li class="links ">
-<a href="a11y-font-size.html" title="画面の文字の大きさを変更する">画面の文字の大きさを変更する</a><span class="desc"> — より大きなフォントを使い、文字を読みやすくします。</span>
+<a href="a11y-font-size.html.ja" title="画面の文字の大きさを変更する">画面の文字の大きさを変更する</a><span class="desc"> — より大きなフォントを使い、文字を読みやすくします。</span>
 </li>
 <li class="links ">
-<a href="a11y-mag.html" title="画面を拡大表示する">画面を拡大表示する</a><span class="desc"> — 画面を拡大表示して見やすくします。</span>
+<a href="a11y-mag.html.ja" title="画面を拡大表示する">画面を拡大表示する</a><span class="desc"> — 画面を拡大表示して見やすくします。</span>
 </li>
 </ul></div>
 </div></div>
@@ -92,7 +92,7 @@
 <div id="sound" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">聴覚障害</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul><li class="links ">
-<a href="a11y-visualalert.html" title="警告音の代わりに画面をひらめかせる">警告音の代わりに画面をひらめかせる</a><span class="desc"> — 視覚警告を有効にして、警告音が鳴ったときに画面もしくはウィンドウをひらめかせます。</span>
+<a href="a11y-visualalert.html.ja" title="警告音の代わりに画面をひらめかせる">警告音の代わりに画面をひらめかせる</a><span class="desc"> — 視覚警告を有効にして、警告音が鳴ったときに画面もしくはウィンドウをひらめかせます。</span>
 </li></ul></div></div></div></div></div>
 </div></div>
 <div id="mobility" class="sect"><div class="inner">
@@ -103,11 +103,11 @@
 <div class="title title-links"><h3><span class="title">マウス操作</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-mousekeys.html" title="キーパッドを使ってクリックやマウスポインターの操作を行う">キーパッドを使ってクリックやマウスポインターの操作を行う</a><span class="desc"> — Enable mouse keys to control the mouse with the numeric
+<a href="mouse-mousekeys.html.ja" title="キーパッドを使ってクリックやマウスポインターの操作を行う">キーパッドを使ってクリックやマウスポインターの操作を行う</a><span class="desc"> — Enable mouse keys to control the mouse with the numeric
     keypad.</span>
 </li>
 <li class="links ">
-<a href="mouse-sensitivity.html" title="マウスやタッチパッドの速度を調節する">マウスやタッチパッドの速度を調節する</a><span class="desc"> — マウスやタッチパッドを使うときのポインター速度を変更します。</span>
+<a href="mouse-sensitivity.html.ja" title="マウスやタッチパッドの速度を調節する">マウスやタッチパッドの速度を調節する</a><span class="desc"> — マウスやタッチパッドを使うときのポインター速度を変更します。</span>
 </li>
 </ul></div>
 </div></div>
@@ -115,13 +115,13 @@
 <div class="title title-links"><h3><span class="title">クリックとドラッグ</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-doubleclick.html" title="ダブルクリックの間隔を調節する">ダブルクリックの間隔を調節する</a><span class="desc"> — ダブルクリックするために必要なマウスボタンのクリック速度を設定します。</span>
+<a href="mouse-doubleclick.html.ja" title="ダブルクリックの間隔を調節する">ダブルクリックの間隔を調節する</a><span class="desc"> — ダブルクリックするために必要なマウスボタンのクリック速度を設定します。</span>
 </li>
 <li class="links ">
-<a href="a11y-dwellclick.html" title="ホバーリングでクリックを代替する">ホバーリングでクリックを代替する</a><span class="desc"> — <span class="gui">ホバークリック</span> (自動クリック) の機能を使い、マウスを静止させることによりクリック動作を行う。</span>
+<a href="a11y-dwellclick.html.ja" title="ホバーリングでクリックを代替する">ホバーリングでクリックを代替する</a><span class="desc"> — <span class="gui">ホバークリック</span> (自動クリック) の機能を使い、マウスを静止させることによりクリック動作を行う。</span>
 </li>
 <li class="links ">
-<a href="a11y-right-click.html" title="右クリックを代替する">右クリックを代替する</a><span class="desc"> — マウスの左ボタンを長押しすることによって右クリック動作を行います。</span>
+<a href="a11y-right-click.html.ja" title="右クリックを代替する">右クリックを代替する</a><span class="desc"> — マウスの左ボタンを長押しすることによって右クリック動作を行います。</span>
 </li>
 </ul></div>
 </div></div>
@@ -129,23 +129,23 @@
 <div class="title title-links"><h3><span class="title">キーボードの使用</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — キーを押したままにしたときに文字を繰り返し入力するのを防いだり、リピートキーの間隔および入力速度を変更したりします。</span>
+<a href="keyboard-repeat-keys.html.ja" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — キーを押したままにしたときに文字を繰り返し入力するのを防いだり、リピートキーの間隔および入力速度を変更したりします。</span>
 </li>
 <li class="links ">
-<a href="keyboard-osk.html" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
+<a href="keyboard-osk.html.ja" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
     mouse or a touchscreen.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html" title="キーボード操作">キーボード操作</a><span class="desc"> — マウスなしでアプリケーションやデスクトップを使います。</span>
+<a href="keyboard-nav.html.ja" title="キーボード操作">キーボード操作</a><span class="desc"> — マウスなしでアプリケーションやデスクトップを使います。</span>
 </li>
 <li class="links ">
-<a href="a11y-slowkeys.html" title="スローキーを有効にする">スローキーを有効にする</a><span class="desc"> — キーを押してから画面に文字が表示されるまでの間に時間差をもうけます。</span>
+<a href="a11y-slowkeys.html.ja" title="スローキーを有効にする">スローキーを有効にする</a><span class="desc"> — キーを押してから画面に文字が表示されるまでの間に時間差をもうけます。</span>
 </li>
 <li class="links ">
-<a href="a11y-bouncekeys.html" title="バウンスキーを有効にする">バウンスキーを有効にする</a><span class="desc"> — 同じキーをすばやく押した場合は無視します。</span>
+<a href="a11y-bouncekeys.html.ja" title="バウンスキーを有効にする">バウンスキーを有効にする</a><span class="desc"> — 同じキーをすばやく押した場合は無視します。</span>
 </li>
 <li class="links ">
-<a href="a11y-stickykeys.html" title="固定キーを有効にする">固定キーを有効にする</a><span class="desc"> — キーボードショートカットを入力するのに、同時に必要なキーをすべて押すことなく、1 度に 1 つのキーで行う。</span>
+<a href="a11y-stickykeys.html.ja" title="固定キーを有効にする">固定キーを有効にする</a><span class="desc"> — キーボードショートカットを入力するのに、同時に必要なキーをすべて押すことなく、1 度に 1 つのキーで行う。</span>
 </li>
 </ul></div>
 </div></div>
@@ -155,7 +155,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">関連項目</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-key-menu.html" title="Menu キーとは何ですか?"><span class="key"><kbd>Menu</kbd></span> キーとは何ですか?</a><span class="desc"> — <span class="key"><kbd>Menu</kbd></span> キーを使うと、マウスの右クリックを行わずにキーボードからコンテキストメニューを開くことができます。</span>
+<a href="keyboard-key-menu.html.ja" title="Menu キーとは何ですか?"><span class="key"><kbd>Menu</kbd></span> キーとは何ですか?</a><span class="desc"> — <span class="key"><kbd>Menu</kbd></span> キーを使うと、マウスの右クリックを行わずにキーボードからコンテキストメニューを開くことができます。</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -165,7 +165,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu デスクトップガイド">Ubuntu デスクトップガイド</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.ja" title="Ubuntu デスクトップガイド">Ubuntu デスクトップガイド</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

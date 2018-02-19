@@ -43,27 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ru" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html.ru#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Свойства файла</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Чтобы просмотреть информацию о файле или папке, нажмите на них правой кнопкой и выберите <span class="gui">Свойства</span>. Можно также выбрать файл и нажать <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Enter</kbd></span></span>.</p>
-<p class="p">Окно свойств файла показывает такую информацию, как тип файла, его размер и время последнего изменения. Если вам часто бывает необходима эта информация, можно сделать так, чтобы она отображалась в <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">столбцах при просмотре в режиме списка</a></span> или в <span class="link"><a href="nautilus-display.html#icon-captions" title="Подписи к значкам">подписях к значкам</a></span>.</p>
-<p class="p">Ниже описана информация, отображаемая на вкладке <span class="gui">Основные</span>. Кроме неё, имеются вкладки <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Настройка прав доступа к файлам">Права</a></span></span> и <span class="gui"><span class="link"><a href="files-open.html#default" title="Изменение приложения по умолчанию">Открыть в</a></span></span>. Для некоторых типов файлов, таких как изображения и видео, будет присутствовать дополнительная вкладка, содержащая информацию, например, о размерах, длительности и кодеке.</p>
+<p class="p">Окно свойств файла показывает такую информацию, как тип файла, его размер и время последнего изменения. Если вам часто бывает необходима эта информация, можно сделать так, чтобы она отображалась в <span class="link"><a href="nautilus-list.html.ru" title="Files list columns preferences">столбцах при просмотре в режиме списка</a></span> или в <span class="link"><a href="nautilus-display.html.ru#icon-captions" title="Подписи к значкам">подписях к значкам</a></span>.</p>
+<p class="p">Ниже описана информация, отображаемая на вкладке <span class="gui">Основные</span>. Кроме неё, имеются вкладки <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.ru" title="Настройка прав доступа к файлам">Права</a></span></span> и <span class="gui"><span class="link"><a href="files-open.html.ru#default" title="Изменение приложения по умолчанию">Открыть в</a></span></span>. Для некоторых типов файлов, таких как изображения и видео, будет присутствовать дополнительная вкладка, содержащая информацию, например, о размерах, длительности и кодеке.</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Основные свойства</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Name</span></dt>
-<dd class="terms"><p class="p">Изменив это поле, можно переименовать файл. Существует и другой способ переименования файла: смотрите <span class="link"><a href="files-rename.html" title="Переименование файла или папки">Переименование файла или папки</a></span>.</p></dd>
+<dd class="terms"><p class="p">Изменив это поле, можно переименовать файл. Существует и другой способ переименования файла: смотрите <span class="link"><a href="files-rename.html.ru" title="Переименование файла или папки">Переименование файла или папки</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Type</span></dt>
 <dd class="terms">
 <p class="p">This helps you identify the type of the file, such as PDF document,
     OpenDocument Text, or JPEG image. The file type determines which
     applications can open the file, among other things. For example, you
-    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="Открытие файлов в другом приложении">Открытие файлов в другом приложении</a></span>
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html.ru" title="Открытие файлов в другом приложении">Открытие файлов в другом приложении</a></span>
     for more information on this.</p>
 <p class="p"><span class="em">Тип MIME</span> файла показывается в скобках; тип MIME — это стандартный способ, который используют компьютеры для определения типа файла.</p>
 </dd>
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ru#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="Настройка прав доступа к файлам">Настройка прав доступа к файлам</a><span class="desc"> — Настройка возможности просмотра и редактирования ваших файлов и папок другими пользователями.</span>
+<a href="nautilus-file-properties-permissions.html.ru" title="Настройка прав доступа к файлам">Настройка прав доступа к файлам</a><span class="desc"> — Настройка возможности просмотра и редактирования ваших файлов и папок другими пользователями.</span>
 </li></ul></div>
 </div></div>
 </div>

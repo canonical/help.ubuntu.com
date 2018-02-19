@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="File, cartelle e ricerche">File</a> › <a class="trail" href="files.html#common-file-tasks" title="Attività comuni">Attività comuni</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.it" title="File, cartelle e ricerche">File</a> › <a class="trail" href="files.html.it#common-file-tasks" title="Attività comuni">Attività comuni</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Esplorare file e cartelle</span></h1></div>
@@ -51,29 +51,29 @@
 <div class="contents">
 <p class="p">Use the <span class="app">Files</span> file manager to browse and organize the files on
 your computer. You can also use it to manage files on storage devices (like
-external hard disks), on <span class="link"><a href="nautilus-connect.html" title="Esplorare file su un server o una condivisione di rete">file servers</a></span>, and
+external hard disks), on <span class="link"><a href="nautilus-connect.html.it" title="Esplorare file su un server o una condivisione di rete">file servers</a></span>, and
 on network shares.</p>
 <p class="p">To start the file manager, open <span class="app">Files</span> in the
-<span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview. You can also search
+<span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> overview. You can also search
 for files and folders through the overview in the same way you would
-<span class="link"><a href="shell-apps-open.html" title="Avviare applicazioni">search for applications</a></span>.
+<span class="link"><a href="shell-apps-open.html.it" title="Avviare applicazioni">search for applications</a></span>.
 </p>
 </div>
 <div id="files-view-folder-contents" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Esplorare il contenuto delle cartelle</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">In the file manager, double-click any folder to view its contents, and
-double-click or <span class="link"><a href="mouse-middleclick.html" title="Clic col pulsante centrale">middle-click</a></span> any file to
+double-click or <span class="link"><a href="mouse-middleclick.html.it" title="Clic col pulsante centrale">middle-click</a></span> any file to
 open it with the default application for that file. Middle-click a folder to
 open it in a new tab. You can also right-click a folder to open it in a new tab
 or new window.</p>
-<p class="p">Quando si osservano i file in una cartella, è possibile avere una rapida <span class="link"><a href="files-preview.html" title="Anteprime di file e cartelle">anteprima di ciascun file</a></span> premendo la barra spaziatrice, in modo da essere sicuri che sia il file desiderato prima aprirlo, copiarlo o eliminarlo.</p>
+<p class="p">Quando si osservano i file in una cartella, è possibile avere una rapida <span class="link"><a href="files-preview.html.it" title="Anteprime di file e cartelle">anteprima di ciascun file</a></span> premendo la barra spaziatrice, in modo da essere sicuri che sia il file desiderato prima aprirlo, copiarlo o eliminarlo.</p>
 <p class="p">The <span class="em">path bar</span> above the list of files and folders shows you which
 folder you’re viewing, including the parent folders of the current folder.
 Click a parent folder in the path bar to go to that folder. Right-click any
 folder in the path bar to open it in a new tab or window, or access its
 properties.</p>
-<p class="p">If you want to quickly <span class="link"><a href="files-search.html" title="Cercare file">search for a file</a></span>,
+<p class="p">If you want to quickly <span class="link"><a href="files-search.html.it" title="Cercare file">search for a file</a></span>,
 in or below the folder you are viewing, start typing its name. A <span class="em">search
 bar</span> will appear at the top of the window and only files which match your
 search will be shown. Press <span class="key"><kbd>Esc</kbd></span> to cancel the search.</p>
@@ -90,12 +90,12 @@ and then select <span class="gui">Bookmark this Location</span>.</p>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Attività comuni">Attività comuni</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.it#common-file-tasks" title="Attività comuni">Attività comuni</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-copy.html" title="Copiare o spostare file e cartelle">Copiare o spostare file e cartelle</a><span class="desc"> — Copiare o spostare elementi in una nuova cartella.</span>
+<a href="files-copy.html.it" title="Copiare o spostare file e cartelle">Copiare o spostare file e cartelle</a><span class="desc"> — Copiare o spostare elementi in una nuova cartella.</span>
 </li></ul></div>
 </div></div>
 </div>

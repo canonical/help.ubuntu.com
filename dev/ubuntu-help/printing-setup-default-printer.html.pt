@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="printing.html" title="Imprimir">Imprimir</a> › <a class="trail" href="printing.html#setup" title="Configurar uma impressora">Configurar</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> » <a class="trail" href="printing.html.pt" title="Imprimir">Imprimir</a> › <a class="trail" href="printing.html.pt#setup" title="Configurar uma impressora">Configurar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Estabelecer a impressora predeterminada</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Se tem mais duma impressora disponível, pode selecionar a que será a sua impressora predeterminada. É possível que queira escolher a impressora que usa com mais frequência.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Precisa <span class="link"><a href="user-admin-explain.html" title="Como funcionam os privilégios de administrador?">privilégios de administrador</a></span> para estabelecer a impressora predeterminada do sistema.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Precisa <span class="link"><a href="user-admin-explain.html.pt" title="Como funcionam os privilégios de administrador?">privilégios de administrador</a></span> para estabelecer a impressora predeterminada do sistema.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Impressoras</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Impressoras</span>.</p></li>
 <li class="steps"><p class="p">Carregue <span class="gui">Impressoras</span>.</p></li>
 <li class="steps"><p class="p">Selecione a impressora predeterminada da lista de impressoras disponíveis.</p></li>
 <li class="steps"><p class="p">Carregue o botão <span class="gui">Desbloquear</span> no canto superior direita e introduza a sua palavra-passe.</p></li>
@@ -65,16 +65,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Configurar uma impressora">Configurar uma impressora</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.pt#setup" title="Configurar uma impressora">Configurar uma impressora</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Como funcionam os privilégios de administrador?">Como funcionam os privilégios de administrador?</a><span class="desc"> — Precisa privilégios de administrador para mudar partes importantes de seu sistema.</span>
+<a href="user-admin-explain.html.pt" title="Como funcionam os privilégios de administrador?">Como funcionam os privilégios de administrador?</a><span class="desc"> — Precisa privilégios de administrador para mudar partes importantes de seu sistema.</span>
 </li>
 <li class="links ">
-<a href="printing-setup.html" title="Configurar uma impressora local">Configurar uma impressora local</a><span class="desc"> — Configurar uma impressora que está ligada o seu computador.</span>
+<a href="printing-setup.html.pt" title="Configurar uma impressora local">Configurar uma impressora local</a><span class="desc"> — Configurar uma impressora que está ligada o seu computador.</span>
 </li>
 </ul></div>
 </div></div>

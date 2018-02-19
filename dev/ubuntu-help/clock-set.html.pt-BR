@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="clock.html" title="Data &amp; hora">Data &amp; hora</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="clock.html.pt-BR" title="Data &amp; hora">Data &amp; hora</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Alterando a data e a hora</span></h1></div>
@@ -51,20 +51,20 @@
 <div class="contents">
 <p class="p">Se a data e a hora exibidas na barra superior estiver incorreta, ou em um formato errado, você pode alterá-las:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Data &amp; hora</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Data &amp; hora</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Data &amp; hora</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Se <span class="gui">Data &amp; hora automática</span> estiver definido para <span class="key"><kbd>❙</kbd></span>, sua data e hora deveria atualizar automaticamente, se você tiver uma conexão internet. Para atualizar sua data e hora manualmente, defina isso para <span class="key"><kbd>○</kbd></span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Data &amp; hora</span> para ajustar a hora e data.</p></li>
 <li class="steps"><p class="p">Você pode alterar como sua hora é mostrada selecionando <span class="gui">24 horas</span> ou <span class="gui">AM/PM</span> para <span class="gui">Formato da hora</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Você também pode querer <span class="link"><a href="clock-timezone.html" title="Alterando seu fuso horário">definir o fuso horário manualmente</a></span>.</p>
+<p class="p">Você também pode querer <span class="link"><a href="clock-timezone.html.pt-BR" title="Alterando seu fuso horário">definir o fuso horário manualmente</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Data &amp; hora">Data &amp; hora</a><span class="desc"> — <span class="link"><a href="clock-set.html" title="Alterando a data e a hora">Ajustando a data e hora</a></span>, <span class="link"><a href="clock-world.html" title="Adicionando um relógio mundial">relógios mundiais</a></span>, <span class="link"><a href="clock-timezone.html" title="Alterando seu fuso horário">fuso horário</a></span>, <span class="link"><a href="clock-calendar.html" title="Compromissos da agenda">agenda e compromissos</a></span>…</span>
+<a href="clock.html.pt-BR" title="Data &amp; hora">Data &amp; hora</a><span class="desc"> — <span class="link"><a href="clock-set.html.pt-BR" title="Alterando a data e a hora">Ajustando a data e hora</a></span>, <span class="link"><a href="clock-world.html.pt-BR" title="Adicionando um relógio mundial">relógios mundiais</a></span>, <span class="link"><a href="clock-timezone.html.pt-BR" title="Alterando seu fuso horário">fuso horário</a></span>, <span class="link"><a href="clock-calendar.html.pt-BR" title="Compromissos da agenda">agenda e compromissos</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

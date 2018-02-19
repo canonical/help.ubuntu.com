@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="keyboard.html" title="Tipkovnica">Tipkovnica</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="keyboard.html" title="Tipkovnica">Tipkovnica</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,8 +55,8 @@
 <div class="contents">
 <p class="p">S tipko <span class="key"><kbd>Num Lock</kbd></span> ročno vključiti oz. izključite številsko tipkovnico na vaši tipkovnici. BIOS nastavitve prav tako omogočajo, da zaženete računalnik z omogočeno številsko tipkovnico. To je eden iz načinov za nastavitev:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html" title="Install additional applications">Namesti</a></span> paket <span class="em">numlockx</span>.</p></li>
-<li class="steps"><p class="p">Odprite <span class="app"><span class="link"><a href="startup-applications.html" title="Začetni programi">Začetni programi</a></span></span> in dodajte začetni program z ukazom: <span class="cmd">numlockx on</span></p></li>
+<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html.sl" title="Install additional applications">Namesti</a></span> paket <span class="em">numlockx</span>.</p></li>
+<li class="steps"><p class="p">Odprite <span class="app"><span class="link"><a href="startup-applications.html.sl" title="Začetni programi">Začetni programi</a></span></span> in dodajte začetni program z ukazom: <span class="cmd">numlockx on</span></p></li>
 </ol></div></div></div>
 <p class="p">Če želite, da je številska tipkovnica vključena tudi ob prijavnem zaslonu lahko ustvarite posebno nastavitveno datoteko. Za odpiranje terminala pritisnite <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> in nato zaženite naslednji ukaz (to je eden dolg ukaz in lahko se zgodi da se vrstica prelomi, zato si olajšajte vnašanje ukaza s kopiranjem in nato prilepite v ukazno vrstico):</p>
 <p class="p"><span class="cmd">sudo sh -c 'printf "[Seat:*]\ngreeter-setup-script=numlockx on\n" &gt;/etc/lightdm/lightdm.conf.d/50-numlock.conf'</span></p>
@@ -66,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="Tipkovnica">Tipkovnica</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span>
+<a href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sl" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html.sl#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span>
 </li></ul></div>
 </div></div></div>
 </div>

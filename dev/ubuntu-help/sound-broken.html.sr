@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="media.html#sound" title="Основни звук">Звук</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="media.html.sr#sound" title="Основни звук">Звук</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html#problems" title="Општи проблеми">Проблеми</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html.sr#problems" title="Општи проблеми">Проблеми</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,8 +55,8 @@
 <div class="contents">
 <p class="p">Постоје бројни начини да се пуштање звука на вашем рачунару поремети. Која од тема испод боље описује проблем на који сте наишли?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="sound-nosound.html" title="Не чујем никакав звук на рачунару"><span class="title">Не чујем никакав звук на рачунару</span><span class="linkdiv-dash"> — </span><span class="desc">Проверите да звук није утишан, да су каблови исправно прикључени, и да је звучна картица откривена.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-crackle.html" title="Чујем пуцкетање или зујање приликом пуштања звука"><span class="title">Чујем пуцкетање или зујање приликом пуштања звука</span><span class="linkdiv-dash"> — </span><span class="desc">Проверите ваше аудио каблове и управљачке програме звучне картице.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-nosound.html.sr" title="Не чујем никакав звук на рачунару"><span class="title">Не чујем никакав звук на рачунару</span><span class="linkdiv-dash"> — </span><span class="desc">Проверите да звук није утишан, да су каблови исправно прикључени, и да је звучна картица откривена.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-crackle.html.sr" title="Чујем пуцкетање или зујање приликом пуштања звука"><span class="title">Чујем пуцкетање или зујање приликом пуштања звука</span><span class="linkdiv-dash"> — </span><span class="desc">Проверите ваше аудио каблове и управљачке програме звучне картице.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -65,9 +65,9 @@
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="media.html#sound" title="Основни звук">Основни звук</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Измените јачину звука">Јачина звука</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Користите друге звучнике или слушалице">звучници и слушалице са микрофоном</a></span>, <span class="link"><a href="sound-usemic.html" title="Користите други микрофон">микрофони</a></span>…</span>
+<a href="media.html.sr#sound" title="Основни звук">Основни звук</a><span class="desc"> — <span class="link"><a href="sound-volume.html.sr" title="Измените јачину звука">Јачина звука</a></span>, <span class="link"><a href="sound-usespeakers.html.sr" title="Користите друге звучнике или слушалице">звучници и слушалице са микрофоном</a></span>, <span class="link"><a href="sound-usemic.html.sr" title="Користите други микрофон">микрофони</a></span>…</span>
 </li>
-<li class="links "><a href="hardware.html#problems" title="Општи проблеми">Хардверски проблеми</a></li>
+<li class="links "><a href="hardware.html.sr#problems" title="Општи проблеми">Хардверски проблеми</a></li>
 </ul></div>
 </div></div></div>
 </div>

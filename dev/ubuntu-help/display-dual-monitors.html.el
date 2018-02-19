@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="prefs-display.html" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="prefs-display.html.el" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Σύνδεση εξωτερική οθόνης στον υπολογιστή</span></h1></div>
@@ -54,11 +54,11 @@
 <div class="region"><div class="contents">
 <p class="p">Για να ρυθμίσετε μια εξωτερική οθόνη, συνδέστε την οθόνη στον υπολογιστή σας. Εάν το σύστημα σας δεν την αναγνωρίσει αμέσως, ή αν θα θέλατε να προσαρμόσετε τις ρυθμίσεις:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Οθόνες</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Οθόνες</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Οθόνες</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps">
 <p class="p">Κάντε κλικ στην οθόνη που θα θέλατε να ενεργοποιήσετε ή να απενεργοποιήσετε, έπειτα στην λίστα ρυθμίσεων της οθόνης επιλέξτε <span class="gui">Απενεργοποίηση</span> για να απενεργοποιήσετε την οθόνη, ή ένα από τα <span class="gui">Πρωτεύον</span>, <span class="gui">Δευτερεύον</span>, ή <span class="gui">Καθρέφτης</span> για να την ενεργοποιήσετε.</p>
-<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Η κύρια οθόνη είναι αυτή με την <span class="link"><a href="shell-introduction.html" title="Εισαγωγή στο GNOME">πάνω γραμμή</a></span> και όπου εμφανίζεται η επισκόπηση <span class="gui">Δραστηριότητες</span>.</p></div></div></div></div>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Η κύρια οθόνη είναι αυτή με την <span class="link"><a href="shell-introduction.html.el" title="Εισαγωγή στο GNOME">πάνω γραμμή</a></span> και όπου εμφανίζεται η επισκόπηση <span class="gui">Δραστηριότητες</span>.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Για να περιστρέψετε τον προσανατολισμό της οθόνης, χρησιμοποιήστε τα κουμπιά με τα βέλη μέχρι την σωστή προεπισκόπηση.</p></li>
 <li class="steps"><p class="p">Όταν είσαστε ικανοποιημένοι με τις ρυθμίσεις σας, κάντε κλικ στο <span class="gui">Εφαρμογή</span> και έπειτα κλικ στο <span class="gui">Διατήρηση αλλαγών</span>.</p></li>
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος">Παρασκήνιο</a></span>, <span class="link"><a href="look-resolution.html" title="Αλλαγή της ανάλυσης ή της περιστροφής της οθόνης">Μέγεθος και περιστροφή</a></span>, φωτεινότητα…</span>
+<a href="prefs-display.html.el" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a><span class="desc"> — <span class="link"><a href="look-background.html.el" title="Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος">Παρασκήνιο</a></span>, <span class="link"><a href="look-resolution.html.el" title="Αλλαγή της ανάλυσης ή της περιστροφής της οθόνης">Μέγεθος και περιστροφή</a></span>, φωτεινότητα…</span>
 </li></ul></div>
 </div></div></div>
 </div>

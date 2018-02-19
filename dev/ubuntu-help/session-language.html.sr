@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="prefs-language.html" title="Регион и језик">Регион и језик</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="prefs-language.html.sr" title="Регион и језик">Регион и језик</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Промените језик који користите</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Можете да користите вашу радну површ и програме на неком од десетак језика, који су обезбеђени својим пакетима језика инсталираним на вашем рачунару.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Регион и језик</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Регион и језик</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Регион и језик</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Кликните <span class="gui">Језик</span>.</p></li>
 <li class="steps"><p class="p">Изаберите жељени регион и језик. Ако ваш регион и језик нису на списку, притисните <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> на дну списка да изаберете из свих доступних региона и језика.</p></li>
@@ -67,13 +67,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Регион и језик">Регион и језик</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Промените језик који користите">Језик</a></span>, <span class="link"><a href="session-formats.html" title="Измените записе датума и мерења">регион и формати</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">распореди тастатуре</a></span>…</span>
+<a href="prefs-language.html.sr" title="Регион и језик">Регион и језик</a><span class="desc"> — <span class="link"><a href="session-language.html.sr" title="Промените језик који користите">Језик</a></span>, <span class="link"><a href="session-formats.html.sr" title="Измените записе датума и мерења">регион и формати</a></span>, <span class="link"><a href="keyboard-layouts.html.sr" title="Use alternative keyboard layouts">распореди тастатуре</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-formats.html" title="Измените записе датума и мерења">Измените записе датума и мерења</a><span class="desc"> — Изаберите регион коришћен за датум и време, бројеве, валуту, и мерења.</span>
+<a href="session-formats.html.sr" title="Измените записе датума и мерења">Измените записе датума и мерења</a><span class="desc"> — Изаберите регион коришћен за датум и време, бројеве, валуту, и мерења.</span>
 </li></ul></div>
 </div></div>
 </div>

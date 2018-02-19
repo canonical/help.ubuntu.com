@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="user-accounts.html" title="Comptes utilisateurs">Utilisateurs</a> › <a class="trail" href="user-accounts.html#manage" title="Gérer les comptes des utilisateurs">Comptes</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="user-accounts.html.fr" title="Comptes utilisateurs">Utilisateurs</a> › <a class="trail" href="user-accounts.html.fr#manage" title="Gérer les comptes des utilisateurs">Comptes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ajout d'un nouveau compte utilisateur</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Vous pouvez ajouter plusieurs comptes d'utilisateurs à votre ordinateur.Créez un compte pour chaque membre de votre famille ou de votre entreprise. Chaque utilisateur possède son dossier personnel, ses documents et ses paramètres.</p>
-<p class="p">Vous devez avoir les <span class="link"><a href="user-admin-explain.html" title="Comment les privilèges administrateur fonctionnent-ils ?">privilèges administrateur</a></span> pour ajouter des comptes utilisateur.</p>
+<p class="p">Vous devez avoir les <span class="link"><a href="user-admin-explain.html.fr" title="Comment les privilèges administrateur fonctionnent-ils ?">privilèges administrateur</a></span> pour ajouter des comptes utilisateur.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Users</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Utilisateurs</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">Déverrouiller</span> en haut à droite et saisissez votre mot de passe.</p></li>
 <li class="steps"><p class="p">Dans la liste de comptes à gauche, cliquez sur le bouton <span class="gui">+</span> pour ajouter un nouveau compte utilisateur.</p></li>
 <li class="steps">
 <p class="p">If you want the new user to have
-      <span class="link"><a href="user-admin-explain.html" title="Comment les privilèges administrateur fonctionnent-ils ?">administrative access</a></span> to the
+      <span class="link"><a href="user-admin-explain.html.fr" title="Comment les privilèges administrateur fonctionnent-ils ?">administrative access</a></span> to the
       computer, select <span class="gui">Administrator</span> for the account type.</p>
 <p class="p">Administrators can do things like add and delete users, install software
       and drivers, and change the date and time.</p>
@@ -89,12 +89,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Gérer les comptes des utilisateurs">Gérer les comptes des utilisateurs</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.fr#manage" title="Gérer les comptes des utilisateurs">Gérer les comptes des utilisateurs</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-delete.html" title="Suppression d'un compte utilisateur">Suppression d'un compte utilisateur</a><span class="desc"> — Supprimer les comptes d'utilisateurs obsolètes.</span>
+<a href="user-delete.html.fr" title="Suppression d'un compte utilisateur">Suppression d'un compte utilisateur</a><span class="desc"> — Supprimer les comptes d'utilisateurs obsolètes.</span>
 </li></ul></div>
 </div></div>
 </div>

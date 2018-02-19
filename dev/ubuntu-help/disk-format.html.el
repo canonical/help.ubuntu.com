@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="disk.html" title="Δίσκοι &amp; αποθήκευση">Δίσκοι &amp; αποθήκευση</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="disk.html.el" title="Δίσκοι &amp; αποθήκευση">Δίσκοι &amp; αποθήκευση</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Εξαλείψτε τα πάντα σε έναν αφαιρούμενο δίσκο</span></h1></div>
@@ -81,7 +81,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Δίσκοι &amp; αποθήκευση">Δίσκοι &amp; αποθήκευση</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Ελέγξτε πόσος χώρος έχει απομείνει στον δίσκο">Χώρος δίσκου</a></span>, <span class="link"><a href="disk-benchmark.html" title="Δοκιμάστε την απόδοση του σκληρού σας δίσκου">Απόδοση</a></span>, <span class="link"><a href="disk-check.html" title="Έλεγχος του σκληρού σας δίσκου για προβλήματα">Προβλήματα</a></span>, <span class="link"><a href="disk-partitions.html" title="Διαχείριση τόμων και κατατμήσεων">Τόμοι και κατατμήσεις</a></span>…</span>
+<a href="disk.html.el" title="Δίσκοι &amp; αποθήκευση">Δίσκοι &amp; αποθήκευση</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.el" title="Ελέγξτε πόσος χώρος έχει απομείνει στον δίσκο">Χώρος δίσκου</a></span>, <span class="link"><a href="disk-benchmark.html.el" title="Δοκιμάστε την απόδοση του σκληρού σας δίσκου">Απόδοση</a></span>, <span class="link"><a href="disk-check.html.el" title="Έλεγχος του σκληρού σας δίσκου για προβλήματα">Προβλήματα</a></span>, <span class="link"><a href="disk-partitions.html.el" title="Διαχείριση τόμων και κατατμήσεων">Τόμοι και κατατμήσεις</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

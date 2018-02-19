@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="tips.html" title="Namigi in triki">Namigi in triki</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="tips.html.sl" title="Namigi in triki">Namigi in triki</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vnos posebnih znakov</span></h1></div>
@@ -55,22 +55,14 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Načini za vnos znakov</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Preglednica znakov">Preglednica znakov</a></li>
-<li class="links "><a href="tips-specialchars.html#characters" title="Characters">Characters</a></li>
-<li class="links "><a href="tips-specialchars.html#compose" title="Sestavna tipka">Sestavna tipka</a></li>
-<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Točke kode">Točke kode</a></li>
-<li class="links "><a href="tips-specialchars.html#layout" title="Razporeditve tipkovnice">Razporeditve tipkovnice</a></li>
-<li class="links "><a href="tips-specialchars.html#im" title="Načini vnosa">Načini vnosa</a></li>
+<li class="links "><a href="tips-specialchars.html.sl#characters" title="Characters">Characters</a></li>
+<li class="links "><a href="tips-specialchars.html.sl#compose" title="Sestavna tipka">Sestavna tipka</a></li>
+<li class="links "><a href="tips-specialchars.html.sl#ctrlshiftu" title="Točke kode">Točke kode</a></li>
+<li class="links "><a href="tips-specialchars.html.sl#layout" title="Razporeditve tipkovnice">Razporeditve tipkovnice</a></li>
+<li class="links "><a href="tips-specialchars.html.sl#im" title="Načini vnosa">Načini vnosa</a></li>
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Preglednica znakov</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">GNOME vsebuje program preglednice znakov, ki vam omogoča brskanje po vseh znakih v tabeli Unicode. Uporabite ga za iskanje znaka, ki ga potrebujete, in ga nato kopirajte in prilepite kamor ga potrebujete.</p>
-<p class="p"><span class="app">Preglednico znakov</span> lahko najdete v pregledu <span class="gui">Dejavnosti</span>. Za več podrobnosti o preglednici znakov si oglejte <span class="link"><a href="ghttps://help.gnome.org/users/gucharmap/stable/" title="ghttps://help.gnome.org/users/gucharmap/stable/">priročnik Preglednice znakov</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Characters</span></h2></div>
 <div class="region"><div class="contents">
@@ -91,15 +83,19 @@
 <div class="note note-important" title="Pomembno"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
       change this setting.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Define a compose key</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Določi sestavno tipko</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span>
+        overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Keyboard &amp; Mouse</span> tab.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span> setting.</p></li>
-<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you want to use.</p></li>
-<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose key.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span>
+        setting.</p></li>
+<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you
+        want to use.</p></li>
+<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose
+        key.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div>
 </div></div>
@@ -127,7 +123,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Razporeditve tipkovnice</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Vaša tipkovnica se lahko obnaša kot tipkovnica za drug jezik neodvisno od črk, ki so natisnjene na tipkah. Med različnimi razporeditvami tipkovnice lahko enostavno preklapljate z uporabo ikone v vrhnji vrstici. Za več podrobnosti o tem si oglejte <span class="link"><a href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk">Uporaba nadomestnih razporeditev tipk</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Vaša tipkovnica se lahko obnaša kot tipkovnica za drug jezik neodvisno od črk, ki so natisnjene na tipkah. Med različnimi razporeditvami tipkovnice lahko enostavno preklapljate z uporabo ikone v vrhnji vrstici. Za več podrobnosti o tem si oglejte <span class="link"><a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">Uporaba nadomestnih razporeditev tipk</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Načini vnosa</span></h2></div>
@@ -145,13 +141,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Namigi in triki">Namigi in triki</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Vnos posebnih znakov">Posebni znaki</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Srednji klik">bližnjice s srednjim klikom</a></span> ...</span>
+<a href="tips.html.sl" title="Namigi in triki">Namigi in triki</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.sl" title="Vnos posebnih znakov">Posebni znaki</a></span>, <span class="link"><a href="mouse-middleclick.html.sl" title="Srednji klik">bližnjice s srednjim klikom</a></span> ...</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk">Uporaba nadomestnih razporeditev tipk</a><span class="desc"> — Dodajte razporeditev tipk in preklapljajte med njimi.</span>
+<a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">Uporaba nadomestnih razporeditev tipk</a><span class="desc"> — Dodajte razporeditev tipk in preklapljajte med njimi.</span>
 </li></ul></div>
 </div></div>
 </div>

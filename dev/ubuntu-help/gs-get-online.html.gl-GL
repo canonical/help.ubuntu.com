@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="getting-started.html" title="Comezando">Comezar con GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="getting-started.html.gl-GL" title="Comezando">Comezar con GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="Usar a busca do sistema">Anterior</a><a class="nextlinks-next" href="gs-browse-web.html" title="Navegar pola web">Seguinte</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.gl-GL" title="Usar a busca do sistema">Anterior</a><a class="nextlinks-next" href="gs-browse-web.html.gl-GL" title="Navegar pola web">Seguinte</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Conectarse a Internet</span></h1></div>
 <div class="region">
@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Conectarse a unha rede Wifi (sen fíos):</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Prema o <span class="gui"><a href="shell-introduction.html#yourname" title="Vostede e o seu computador">menú do sistema</a></span> na parte dereita da barra superior.</p></li>
+<li class="steps"><p class="p">Prema o <span class="gui"><a href="shell-introduction.html.gl-GL#yourname" title="Vostede e o seu computador">menú do sistema</a></span> na parte dereita da barra superior.</p></li>
 <li class="steps"><p class="p">Seleccione <span class="gui">Wifi non conectada</span>. A sección de Wifi do menú expandirase.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Seleccionar rede</span>.</p></li>
 </ol></div>
@@ -88,7 +88,7 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="Usar a busca do sistema">Anterior</a><a class="nextlinks-next" href="gs-browse-web.html" title="Navegar pola web">Seguinte</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.gl-GL" title="Usar a busca do sistema">Anterior</a><a class="nextlinks-next" href="gs-browse-web.html.gl-GL" title="Navegar pola web">Seguinte</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -96,13 +96,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Comezando">Comezar con GNOME</a><span class="desc"> — É novo en GNOME? Aprenda a como moverse.</span>
+<a href="getting-started.html.gl-GL" title="Comezando">Comezar con GNOME</a><span class="desc"> — É novo en GNOME? Aprenda a como moverse.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Redes sen fíos">Sen fíos</a></span>, <span class="link"><a href="net-wired.html" title="Rede con cable">con fíos</a></span>, <span class="link"><a href="net-problem.html" title="Problemas de rede">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html" title="Navegadores web">navegación web</a></span>, <span class="link"><a href="net-email.html" title="Software de correo electrónico">contas de correo-e</a></span>…</span>
+<a href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.gl-GL" title="Redes sen fíos">Sen fíos</a></span>, <span class="link"><a href="net-wired.html.gl-GL" title="Rede con cable">con fíos</a></span>, <span class="link"><a href="net-problem.html.gl-GL" title="Problemas de rede">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.gl-GL" title="Navegadores web">navegación web</a></span>, <span class="link"><a href="net-email.html.gl-GL" title="Software de correo electrónico">contas de correo-e</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

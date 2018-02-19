@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="user-accounts.html" title="Учётные записи пользователей">Пользователи</a> › <a class="trail" href="user-accounts.html#manage" title="Управление учётными записями пользователей">Учётные записи</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="user-accounts.html.ru" title="Учётные записи пользователей">Пользователи</a> › <a class="trail" href="user-accounts.html.ru#manage" title="Управление учётными записями пользователей">Учётные записи</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Добавление новой учётной записи пользователя</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">На компьютере может быть несколько учётных записей пользователей. Создайте учётную запись для каждого человека в вашей семье или компании. У каждого пользователя будет собственная домашняя папка, документы и настройки.</p>
-<p class="p">Для добавления учётных записей пользователя необходимы <span class="link"><a href="user-admin-explain.html" title="Как работают административные полномочия?">права администратора</a></span>.</p>
+<p class="p">Для добавления учётных записей пользователя необходимы <span class="link"><a href="user-admin-explain.html.ru" title="Как работают административные полномочия?">права администратора</a></span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Users</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Пользователи</span> чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Разблокировать</span> в верхнем правом углу и затем по запросу системы введите свой пароль.</p></li>
 <li class="steps"><p class="p">Нажмите кнопку <span class="gui">+</span> под списком учётных записей слева, чтобы добавить новую учётную запись пользователя.</p></li>
 <li class="steps">
 <p class="p">If you want the new user to have
-      <span class="link"><a href="user-admin-explain.html" title="Как работают административные полномочия?">administrative access</a></span> to the
+      <span class="link"><a href="user-admin-explain.html.ru" title="Как работают административные полномочия?">administrative access</a></span> to the
       computer, select <span class="gui">Administrator</span> for the account type.</p>
 <p class="p">Administrators can do things like add and delete users, install software
       and drivers, and change the date and time.</p>
@@ -89,12 +89,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Управление учётными записями пользователей">Управление учётными записями пользователей</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.ru#manage" title="Управление учётными записями пользователей">Управление учётными записями пользователей</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-delete.html" title="Удаление учётной записи пользователя">Удаление учётной записи пользователя</a><span class="desc"> — Удаление пользователей, которые больше не работают на вашем компьютере.</span>
+<a href="user-delete.html.ru" title="Удаление учётной записи пользователя">Удаление учётной записи пользователя</a><span class="desc"> — Удаление пользователей, которые больше не работают на вашем компьютере.</span>
 </li></ul></div>
 </div></div>
 </div>

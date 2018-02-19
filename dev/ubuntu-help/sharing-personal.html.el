@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="sharing.html" title="Κοινή χρήση">Κοινή χρήση</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="sharing.html.el" title="Κοινή χρήση">Κοινή χρήση</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="prefs-sharing.html" title="Ρυθμίσεις κοινής χρήσης">Ρυθμίσεις κοινής χρήσης</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="prefs-sharing.html.el" title="Ρυθμίσεις κοινής χρήσης">Ρυθμίσεις κοινής χρήσης</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,11 +56,11 @@
 <p class="p">Μπορείτε να επιτρέψετε την πρόσβαση στον <span class="file">Δημόσιο</span> φάκελο στον <span class="file">Προσωπικό φάκελο</span> σας από άλλον υπολογιστή στο δίκτυο. Ρυθμίστε το <span class="gui">Κοινή χρήση προσωπικών αρχείων</span> για να επιτρέψετε σε άλλους να προσπελάσουν τα περιεχόμενα του φακέλου.</p>
 <div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Πρέπει να έχετε εγκατεστημένο το πακέτο <span class="app">gnome-user-share</span> για να είναι ορατή η <span class="gui">Κοινή χρήση προσωπικών αρχείων</span>.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Κοινή χρήση</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Κοινή χρήση</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Κοινή χρήση</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps">
 <p class="p">Αν η <span class="gui">Κοινή χρήση</span> είναι <span class="gui">ΑΝΕΝΕΡΓΗ</span>, αλλάξτε την σε <span class="gui">ΕΝΕΡΓΗ</span>.</p>
-<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Αν το κείμενο κάτω από το <span class="gui">όνομα υπολογιστή</span> σας επιτρέπει να το επεξεργαστείτε, μπορείτε να <span class="link"><a href="sharing-displayname.html" title="Ορισμός του ονόματος εμφάνισης για τον υπολογιστή σας">αλλάξετε</a></span> το όνομα που ο υπολογιστής σας εμφανίζετε στο δίκτυο.</p></div></div></div></div>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Αν το κείμενο κάτω από το <span class="gui">όνομα υπολογιστή</span> σας επιτρέπει να το επεξεργαστείτε, μπορείτε να <span class="link"><a href="sharing-displayname.html.el" title="Ορισμός του ονόματος εμφάνισης για τον υπολογιστή σας">αλλάξετε</a></span> το όνομα που ο υπολογιστής σας εμφανίζετε στο δίκτυο.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Επιλέξτε <span class="gui">Κοινή χρήση προσωπικών αρχείων</span>.</p></li>
 <li class="steps">
@@ -89,10 +89,10 @@
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Κοινή χρήση">Κοινή χρήση</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Κοινή χρήση της επιφάνειας εργασίας σας">Κοινή χρήση επιφάνειας εργασίας</a></span>, <span class="link"><a href="files-share.html" title="Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία">Κοινή χρήση αρχείων μέσω ηλεκτρονικής αλληλογραφίας</a></span>, <span class="link"><a href="sharing-media.html" title="Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας">Κοινή χρήση πολυμέσων</a></span>…</span>
+<a href="sharing.html.el" title="Κοινή χρήση">Κοινή χρήση</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.el" title="Κοινή χρήση της επιφάνειας εργασίας σας">Κοινή χρήση επιφάνειας εργασίας</a></span>, <span class="link"><a href="files-share.html.el" title="Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία">Κοινή χρήση αρχείων μέσω ηλεκτρονικής αλληλογραφίας</a></span>, <span class="link"><a href="sharing-media.html.el" title="Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας">Κοινή χρήση πολυμέσων</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html" title="Ρυθμίσεις κοινής χρήσης">Ρυθμίσεις κοινής χρήσης</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Έλεγχος κοινής χρήσης μέσω Bluetooth">Κοινή χρήση Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html" title="Μοιραστείτε τα προσωπικά σας αρχεία">Κοινή χρήση προσωπικού αρχείου</a></span>, <span class="link"><a href="sharing-desktop.html" title="Κοινή χρήση της επιφάνειας εργασίας σας">Κοινή χρήση οθόνης</a></span>, <span class="link"><a href="sharing-media.html" title="Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας">Κοινή χρήση πολυμέσων</a></span>…</span>
+<a href="prefs-sharing.html.el" title="Ρυθμίσεις κοινής χρήσης">Ρυθμίσεις κοινής χρήσης</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.el" title="Έλεγχος κοινής χρήσης μέσω Bluetooth">Κοινή χρήση Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.el" title="Μοιραστείτε τα προσωπικά σας αρχεία">Κοινή χρήση προσωπικού αρχείου</a></span>, <span class="link"><a href="sharing-desktop.html.el" title="Κοινή χρήση της επιφάνειας εργασίας σας">Κοινή χρήση οθόνης</a></span>, <span class="link"><a href="sharing-media.html.el" title="Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας">Κοινή χρήση πολυμέσων</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

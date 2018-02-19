@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a> » <a class="trail" href="nautilus-prefs.html" title="Preferências do gestor de ficheiros">Preferências do gestor de ficheiros</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html.pt#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a> » <a class="trail" href="nautilus-prefs.html.pt" title="Preferências do gestor de ficheiros">Preferências do gestor de ficheiros</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferências de vistas em <span class="app">Ficheiros</span></span></h1></div>
@@ -55,7 +55,7 @@
 <dt class="terms"><span class="gui">Organizar os elementos</span></dt>
 <dd class="terms">
 <p class="p">Pode mudar a ordem predeterminada usado nas diretórios novas, utilizando a lista desdobrável <span class="gui">Organizar os elementos</span> nas preferências para ordenar por nome, tamanho do ficheiro, tipo do ficheiro, quando se modificaram por última vez, quando se acederam por última vez ou quando se moveram à caixote do lixo.</p>
-<p class="p">Pode mudar como <span class="link"><a href="files-sort.html" title="Ordenar ficheiros e diretórios">se ordenam os ficheiros</a></span> numa diretório individual clicando o botão de opções da vista na barra de ferramentas e escolhendo <span class="gui">Nome</span>, <span class="gui">Tamanho</span>, <span class="gui">Tipo</span>, <span class="gui">Última modificação</span>, ou clicando nas cabeceiras das colunas na vista de lista.</p>
+<p class="p">Pode mudar como <span class="link"><a href="files-sort.html.pt" title="Ordenar ficheiros e diretórios">se ordenam os ficheiros</a></span> numa diretório individual clicando o botão de opções da vista na barra de ferramentas e escolhendo <span class="gui">Nome</span>, <span class="gui">Tamanho</span>, <span class="gui">Tipo</span>, <span class="gui">Última modificação</span>, ou clicando nas cabeceiras das colunas na vista de lista.</p>
 </dd>
 <dt class="terms"><span class="gui">Colocar as diretórios antes que os ficheiros</span></dt>
 <dd class="terms"><p class="p">De maneira predeterminada, o gestor de ficheiros já não mostra as diretórios antes dos ficheiros. Para ver todas as diretórios antes dos ficheiros, ative esta opção</p></dd>
@@ -66,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Preferências do gestor de ficheiros">Preferências do gestor de ficheiros</a><span class="desc"> — Ver e estabelecer as preferências para o navegador de ficheiros.</span>
+<a href="nautilus-prefs.html.pt" title="Preferências do gestor de ficheiros">Preferências do gestor de ficheiros</a><span class="desc"> — Ver e estabelecer as preferências para o navegador de ficheiros.</span>
 </li></ul></div>
 </div></div></div>
 </div>

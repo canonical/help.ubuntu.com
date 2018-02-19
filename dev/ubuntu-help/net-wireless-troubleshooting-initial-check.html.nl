@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Probleemoplosser draadloos netwerk">Volgende</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html.nl" title="Probleemoplosser draadloos netwerk">Volgende</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Probleemoplosser draadloos netwerk</span></h1>
@@ -70,7 +70,7 @@
 <li class="steps"><p class="p">Click the system status area on the top bar and select
       <span class="gui">Wi-Fi</span>, then select <span class="gui">Wi-Fi Settings</span>. Make sure that
       <span class="gui">Wi-Fi</span> is set to <span class="gui">ON</span>. You should also check that
-      <span class="link"><a href="net-wireless-airplane.html" title="Het draadloze netwerk uitschakelen (vliegtuig-modus)">Airplane Mode</a></span> is <span class="em">not</span>
+      <span class="link"><a href="net-wireless-airplane.html.nl" title="Het draadloze netwerk uitschakelen (vliegtuig-modus)">Airplane Mode</a></span> is <span class="em">not</span>
       switched on.</p></li>
 <li class="steps">
 <p class="p">Open the Terminal, type <span class="cmd">nmcli device</span> and press
@@ -88,14 +88,14 @@
   portion of the troubleshooting guide.</p>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Probleemoplosser draadloos netwerk">Volgende</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html.nl" title="Probleemoplosser draadloos netwerk">Volgende</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li></ul></div>
 </div></div></div>
 </div>

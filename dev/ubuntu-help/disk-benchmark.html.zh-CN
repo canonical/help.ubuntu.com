@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="disk.html" title="磁盘和存储器">磁盘和存储器</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="disk.html.zh-CN" title="磁盘和存储器">磁盘和存储器</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">测试硬盘性能</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">测试您的硬盘的速度</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open <span class="app">Disks</span> from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview.</p></li>
 <li class="steps"><p class="p">Choose the disk from the list in the left pane.</p></li>
 <li class="steps"><p class="p">Click the menu button and select <span class="gui">Benchmark disk…</span> from the
       menu.</p></li>
@@ -60,7 +60,7 @@
       Rate</span> and <span class="gui">Access Time</span> parameters as desired.</p></li>
 <li class="steps">
 <p class="p">Click <span class="gui">Start Benchmarking</span> to test how fast data can be read
-      from the disk. <span class="link"><a href="user-admin-explain.html" title="管理员权限是如何工作的呢？">Administrative
+      from the disk. <span class="link"><a href="user-admin-explain.html.zh-CN" title="管理员权限是如何工作的呢？">Administrative
       privileges</a></span> may be required. Enter your password, or the password
       for the requested administrator account.</p>
 <div class="note" title="备注"><div class="inner"><div class="region"><div class="contents"><p class="p">If <span class="gui">Perform write-benchmark</span> is checked, the benchmark
@@ -76,7 +76,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="磁盘和存储器">磁盘和存储器</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="检查磁盘剩余空间">磁盘空间</a></span>、<span class="link"><a href="disk-benchmark.html" title="测试硬盘性能">性能</a></span>、<span class="link"><a href="disk-check.html" title="检查磁盘错误">错误</a></span>、<span class="link"><a href="disk-partitions.html" title="管理卷和分区">卷和分区</a></span>…</span>
+<a href="disk.html.zh-CN" title="磁盘和存储器">磁盘和存储器</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.zh-CN" title="检查磁盘剩余空间">磁盘空间</a></span>、<span class="link"><a href="disk-benchmark.html.zh-CN" title="测试硬盘性能">性能</a></span>、<span class="link"><a href="disk-check.html.zh-CN" title="检查磁盘错误">错误</a></span>、<span class="link"><a href="disk-partitions.html.zh-CN" title="管理卷和分区">卷和分区</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

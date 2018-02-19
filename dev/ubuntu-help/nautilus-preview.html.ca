@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="File manager preferences">File manager preferences</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ca" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.ca#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.ca" title="File manager preferences">File manager preferences</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">File manager preview preferences</span></h1></div>
@@ -59,7 +59,7 @@ pick <span class="gui">Preferences</span> and select the <span class="gui">Previ
 <p class="p">By default, all previews are done for <span class="gui">Local Files Only</span>, those
     on your computer or connected external drives. You can set this feature to
     <span class="gui">Always</span> or <span class="gui">Never</span>. The file manager can
-    <span class="link"><a href="nautilus-connect.html" title="Browse files on a server or network share">browse files on other computers</a></span> over
+    <span class="link"><a href="nautilus-connect.html.ca" title="Browse files on a server or network share">browse files on other computers</a></span> over
     a local area network or the internet. If you often browse files over a local
     area network, and the network has high bandwidth, you may want to set the
     preview option to <span class="gui">Always</span>.</p>
@@ -67,8 +67,8 @@ pick <span class="gui">Preferences</span> and select the <span class="gui">Previ
     setting to limit the size of files previewed.</p>
 </dd>
 <dt class="terms"><span class="gui">Folders</span></dt>
-<dd class="terms"><p class="p">If you show file sizes in <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">list view columns</a></span>
-    or <span class="link"><a href="nautilus-display.html#icon-captions" title="Icon captions">icon captions</a></span>, folders will
+<dd class="terms"><p class="p">If you show file sizes in <span class="link"><a href="nautilus-list.html.ca" title="Files list columns preferences">list view columns</a></span>
+    or <span class="link"><a href="nautilus-display.html.ca#icon-captions" title="Icon captions">icon captions</a></span>, folders will
     be shown with a count of how many files and folders they contain. Counting items
     in a folder can be slow, especially for very large folders, or over a network.
     You can turn this feature on or off, or turn it on only for files on your
@@ -81,13 +81,13 @@ pick <span class="gui">Preferences</span> and select the <span class="gui">Previ
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="File manager preferences">File manager preferences</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.ca" title="File manager preferences">File manager preferences</a><span class="desc"> — View and set preferences for the file browser.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-preview.html" title="Preview files and folders">Preview files and folders</a><span class="desc"> — Quickly show and hide previews for documents, images, videos, and
+<a href="files-preview.html.ca" title="Preview files and folders">Preview files and folders</a><span class="desc"> — Quickly show and hide previews for documents, images, videos, and
     more.</span>
 </li></ul></div>
 </div></div>

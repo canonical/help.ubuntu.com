@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="mouse.html" title="Miška">Miška</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="mouse.html.sl" title="Miška">Miška</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="mouse.html" title="Miška">Miška</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="mouse.html.sl" title="Miška">Miška</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="region"><div class="contents">
 <p class="p">You can tap your touchpad to click instead of using a button.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps">
@@ -73,8 +73,8 @@
 <li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
       second tap. Drag the item where you want it, then lift your finger to
       drop.</p></li>
-<li class="list"><p class="p">V primeru da vaša drsna ploščica podpira udarce z več prsti, desno kliknite z udarjanjem z dvema prstoma hkrati. Sicer boste morali za desni klik uporabiti strojne gumbe. Oglejte si <span class="link"><a href="a11y-right-click.html" title="Simulacija desnega klika miške">Simulacija desnega klika miške</a></span> za način desnega klika brez desnega miškinega gumba.</p></li>
-<li class="list"><p class="p">V primeru da vaša drsna ploščica podpira udarce z več prsti, <span class="link"><a href="mouse-middleclick.html" title="Srednji klik">srednje kliknite</a></span> z udarjanjem s tremi prsti hkrati.</p></li>
+<li class="list"><p class="p">V primeru da vaša drsna ploščica podpira udarce z več prsti, desno kliknite z udarjanjem z dvema prstoma hkrati. Sicer boste morali za desni klik uporabiti strojne gumbe. Oglejte si <span class="link"><a href="a11y-right-click.html.sl" title="Simulacija desnega klika miške">Simulacija desnega klika miške</a></span> za način desnega klika brez desnega miškinega gumba.</p></li>
+<li class="list"><p class="p">V primeru da vaša drsna ploščica podpira udarce z več prsti, <span class="link"><a href="mouse-middleclick.html.sl" title="Srednji klik">srednje kliknite</a></span> z udarjanjem s tremi prsti hkrati.</p></li>
 </ul></div></div></div>
 <div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
     are spread far enough apart. If your fingers are too close, your computer
@@ -86,7 +86,7 @@
 <div class="region"><div class="contents">
 <p class="p">Drsate lahko z drsno ploščico z uporabo dveh prstov.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Two finger
@@ -107,7 +107,7 @@
 <p class="p">You can drag content as if sliding a physical piece of paper using the
   touchpad.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Natural
@@ -121,7 +121,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html" title="Miška">Miška</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Uporaba miške z levico">Uporaba miške z levico</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Prilagoditev hitrosti miške in drsne ploščice">hitrost in občutljivost</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Kliknice, povlecite ali drsajte z drsno ploščico">klikanje in drsanje po drsni ploščici</a></span> …</span>
+<a href="mouse.html.sl" title="Miška">Miška</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.sl" title="Uporaba miške z levico">Uporaba miške z levico</a></span>, <span class="link"><a href="mouse-sensitivity.html.sl" title="Prilagoditev hitrosti miške in drsne ploščice">hitrost in občutljivost</a></span>, <span class="link"><a href="mouse-touchpad-click.html.sl" title="Kliknice, povlecite ali drsajte z drsno ploščico">klikanje in drsanje po drsni ploščici</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

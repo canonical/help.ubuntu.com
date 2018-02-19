@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="privacy.html" title="Preferencias de privacidade">Preferencias de privacidade</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="privacy.html.gl-GL" title="Preferencias de privacidade">Preferencias de privacidade</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Automatically empty your trash and clear temporary files</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Privacy</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Privacy</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Seleccione <span class="gui">Eliminar lixo e ficheiros temporais</span>.</p></li>
@@ -73,19 +73,19 @@
 </ol></div>
 </div></div>
 <div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">You can delete files immediately and permanently without using the Trash.
-    See <span class="link"><a href="files-delete.html#permanent" title="Eliminar de forma permanente un ficheiro">Eliminar de forma permanente un ficheiro</a></span> for information.</p></div></div></div></div>
+    See <span class="link"><a href="files-delete.html.gl-GL#permanent" title="Eliminar de forma permanente un ficheiro">Eliminar de forma permanente un ficheiro</a></span> for information.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
+<li class="links "><a href="files.html.gl-GL#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
 <li class="links ">
-<a href="privacy.html" title="Preferencias de privacidade">Preferencias de privacidade</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html" title="Bloquear a pantalla automaticamente">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html" title="Limpar o lixo e ficheiros temporais">Purge trash &amp; temporary files</a></span>…
+<a href="privacy.html.gl-GL" title="Preferencias de privacidade">Preferencias de privacidade</a><span class="desc"> — 
+      <span class="link"><a href="privacy-screen-lock.html.gl-GL" title="Bloquear a pantalla automaticamente">Screen lock</a></span>,
+      <span class="link"><a href="privacy-history-recent-off.html.gl-GL" title="Turn off or limit file history tracking">Usage history</a></span>,
+      <span class="link"><a href="privacy-purge.html.gl-GL" title="Limpar o lixo e ficheiros temporais">Purge trash &amp; temporary files</a></span>…
     </span>
 </li>
 </ul></div>

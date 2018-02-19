@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Seu ambiente">Área de trabalho</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicativos e janelas">Aplicativos e janelas</a> » <a class="trail" href="shell-windows.html" title="Janelas e espaços de trabalho">Janelas e espaços de trabalho</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Trabalhando com janelas">Janelas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pt-BR" title="Seu ambiente">Área de trabalho</a> › <a class="trail" href="shell-overview.html.pt-BR#apps" title="Aplicativos e janelas">Aplicativos e janelas</a> » <a class="trail" href="shell-windows.html.pt-BR" title="Janelas e espaços de trabalho">Janelas e espaços de trabalho</a> › <a class="trail" href="shell-windows.html.pt-BR#working-with-windows" title="Trabalhando com janelas">Janelas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Janelas lado a lado</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Você pode maximizar uma janela no lado esquerdo ou direito da tela apenas, permitindo que você posicione duas janelas lado a lado para rapidamente alternar entre eles.</p>
-<p class="p">Para maximizar uma janela ao longo de um lado da tela, segure a barra de título e arraste-a para o lado esquerdo ou direito até metade da tela ser realçada. Usando o teclado, mantenha pressionada a tecla <span class="key"><a href="keyboard-key-super.html" title="O que é a tecla Super?"><kbd>Super</kbd></a></span> e pressione a tecla <span class="key"><kbd>Esquerda</kbd></span> ou <span class="key"><kbd>Direita</kbd></span>.</p>
+<p class="p">Para maximizar uma janela ao longo de um lado da tela, segure a barra de título e arraste-a para o lado esquerdo ou direito até metade da tela ser realçada. Usando o teclado, mantenha pressionada a tecla <span class="key"><a href="keyboard-key-super.html.pt-BR" title="O que é a tecla Super?"><kbd>Super</kbd></a></span> e pressione a tecla <span class="key"><kbd>Esquerda</kbd></span> ou <span class="key"><kbd>Direita</kbd></span>.</p>
 <p class="p">Para restaurar uma janela para seu tamanho original, arraste-a para longe do lado da tela, ou use o mesmo atalho que você usou para maximizá-la.</p>
 <div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Mantenha pressionada a tecla <span class="key"><kbd>Alt</kbd></span> e arraste-a em qualquer lugar em uma janela para movê-la.</p></div></div></div></div>
 </div>
@@ -59,12 +59,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Trabalhando com janelas">Trabalhando com janelas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.pt-BR#working-with-windows" title="Trabalhando com janelas">Trabalhando com janelas</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-maximize.html" title="Maximizando e desmaximizando uma janela">Maximizando e desmaximizando uma janela</a><span class="desc"> — Clique duplo ou arraste uma barra de título para maximizar ou restaurar uma janela.</span>
+<a href="shell-windows-maximize.html.pt-BR" title="Maximizando e desmaximizando uma janela">Maximizando e desmaximizando uma janela</a><span class="desc"> — Clique duplo ou arraste uma barra de título para maximizar ou restaurar uma janela.</span>
 </li></ul></div>
 </div></div>
 </div>

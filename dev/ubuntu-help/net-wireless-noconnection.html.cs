@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wireless.html" title="Bezdrátové sítě">Bezdrátové sítě</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové sítě</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zadal jsem správné heslo, ale stále se nemohu připojit</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">V situaci, kdy jste si jisti, že jste zadali správné <span class="link"><a href="net-wireless-wepwpa.html" title="Co znamená WEP a WPA?">heslo k bezdrátové síti</a></span>, ale stále se nemůžete úspěšně připojit, zkuste následující věci:</p>
+<p class="p">V situaci, kdy jste si jisti, že jste zadali správné <span class="link"><a href="net-wireless-wepwpa.html.cs" title="Co znamená WEP a WPA?">heslo k bezdrátové síti</a></span>, ale stále se nemůžete úspěšně připojit, zkuste následující věci:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Raději dvakrát zkontrolujte, že máte heslo správně</p>
@@ -61,7 +61,7 @@
 </li>
 <li class="list">
 <p class="p">Zkuste svoji bezdrátovou kartu vypnout a znovu ji zapnout</p>
-<p class="p">Někdy se může stát, že se bezdrátová karta zakousne nebo narazí na nějaký drobný problém, který způsobí, že se nechce připojit. Zkuste ji vypnout a znovu zapnout, aby se uvedla do základního stavu – další informace viz <span class="link"><a href="net-wireless-troubleshooting.html" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovými sítěmi</a></span>.</p>
+<p class="p">Někdy se může stát, že se bezdrátová karta zakousne nebo narazí na nějaký drobný problém, který způsobí, že se nechce připojit. Zkuste ji vypnout a znovu zapnout, aby se uvedla do základního stavu – další informace viz <span class="link"><a href="net-wireless-troubleshooting.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovými sítěmi</a></span>.</p>
 </li>
 <li class="list">
 <p class="p">Zkontrolujte, jestli používáte správný typ bezdrátového zabezpečení</p>
@@ -69,7 +69,7 @@
 </li>
 <li class="list">
 <p class="p">Zkontrolujte, jestli je vaše bezdrátová karta správně podporována</p>
-<p class="p">Některé bezdrátové karty nejsou podporovány úplně dokonale. Zobrazí se v bezdrátových připojeních, ale nedokáží se připojit k síti, protože jejich ovladač postrádá příslušnou funkcionalitu. Podívejte se, jestli není možné získat alternativní ovladač nebo není potřeba provést nějaká dodatečná nastavení (jako je instalace jiného <span class="em">firmwaru</span>). Další informace viz <span class="link"><a href="net-wireless-troubleshooting.html" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovými sítěmi</a></span>.</p>
+<p class="p">Některé bezdrátové karty nejsou podporovány úplně dokonale. Zobrazí se v bezdrátových připojeních, ale nedokáží se připojit k síti, protože jejich ovladač postrádá příslušnou funkcionalitu. Podívejte se, jestli není možné získat alternativní ovladač nebo není potřeba provést nějaká dodatečná nastavení (jako je instalace jiného <span class="em">firmwaru</span>). Další informace viz <span class="link"><a href="net-wireless-troubleshooting.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovými sítěmi</a></span>.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -78,7 +78,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Bezdrátové sítě">Bezdrátové sítě</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Připojení k bezdrátové síti">Připojení k Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Připojení ke skryté bezdrátové síti">Skryté sítě</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Proč se moje síť pořád odpojuje?">Odpojování</a></span>…</span>
+<a href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové sítě</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.cs" title="Připojení k bezdrátové síti">Připojení k Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.cs" title="Připojení ke skryté bezdrátové síti">Skryté sítě</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.cs" title="Proč se moje síť pořád odpojuje?">Odpojování</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

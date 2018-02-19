@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="bluetooth.html#problems" title="Проблеми">Проблеми блутута</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html.sr#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="bluetooth.html.sr#problems" title="Проблеми">Проблеми блутута</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Не могу да повежем Блутут уређај</span></h1></div>
@@ -54,11 +54,11 @@
 <dt class="terms">Веза је блокирана или није од поверења</dt>
 <dd class="terms"><p class="p">Неки Блутут уређаји по основи блокирају везе, или захтевају да измените подешавања да би допустили остваривање везе. Уверите се да је ваш уређај подешен да дозвољава везе.</p></dd>
 <dt class="terms">Хардвер блутута није препознат</dt>
-<dd class="terms"><p class="p">Можда рачунар није препознао ваш Блутут прилагођивач или донгл. Ово може бити зато што <span class="link"><a href="hardware-driver.html" title="Шта је то управљачки програм?">управљачки програми</a></span> за прилагођивач нису инсталирани. Неки Блутут прилагођивачи нису подржани на Линуксу, тако да можда нећете бити у могућности да за њих набавите одговарајуће управљачке програме. У том случају, вероватно ћете морати да набавите другачији Блутут прилагођивач.</p></dd>
+<dd class="terms"><p class="p">Можда рачунар није препознао ваш Блутут прилагођивач или донгл. Ово може бити зато што <span class="link"><a href="hardware-driver.html.sr" title="Шта је то управљачки програм?">управљачки програми</a></span> за прилагођивач нису инсталирани. Неки Блутут прилагођивачи нису подржани на Линуксу, тако да можда нећете бити у могућности да за њих набавите одговарајуће управљачке програме. У том случају, вероватно ћете морати да набавите другачији Блутут прилагођивач.</p></dd>
 <dt class="terms">Прилагођивач није упаљен</dt>
-<dd class="terms"><p class="p">Уверите се да је ваш Блутут прилагођивач упаљен. Кликните на иконицу Блутута на <span class="gui">траци изборника</span> и проверите да није <span class="link"><a href="bluetooth-turn-on-off.html" title="Укључите или искључите блутут">искључен</a></span>.</p></dd>
+<dd class="terms"><p class="p">Уверите се да је ваш Блутут прилагођивач упаљен. Отворите панел Блутута и проверите да није <span class="link"><a href="bluetooth-turn-on-off.html.sr" title="Укључите или искључите блутут">искључен</a></span>.</p></dd>
 <dt class="terms">Блутут веза уређаја је искључена</dt>
-<dd class="terms"><p class="p">Проверите да ли је Блутут укључен на уређају на који покушавате да се повежете, а то је <span class="link"><a href="bluetooth-visibility.html" title="Шта је видљивост блутута?">проналажљив или видљив</a></span>. На пример, ако покушавате да се повежете на телефон, уверите се да није у режиму авиона.</p></dd>
+<dd class="terms"><p class="p">Проверите да ли је Блутут укључен на уређају на који покушавате да се повежете, а то је <span class="link"><a href="bluetooth-visibility.html.sr" title="Шта је видљивост блутута?">проналажљив или видљив</a></span>. На пример, ако покушавате да се повежете на телефон, уверите се да није у режиму авиона.</p></dd>
 <dt class="terms">Нема Блутут прилагођивача на вашем рачунару</dt>
 <dd class="terms"><p class="p">Многи рачунари немају Блутут прилагођиваче. Можете да купите један прилагођивач ако желите да користите Блутут.</p></dd>
 </dl></div></div></div>
@@ -68,12 +68,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="bluetooth.html#problems" title="Проблеми">Проблеми блутута</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="bluetooth.html.sr#problems" title="Проблеми">Проблеми блутута</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="Шта је то управљачки програм?">Шта је то управљачки програм?</a><span class="desc"> — Управљачки програми хардвера/уређаја омогућавају вашем рачунару да користи уређаје који су на њега прикачени.</span>
+<a href="hardware-driver.html.sr" title="Шта је то управљачки програм?">Шта је то управљачки програм?</a><span class="desc"> — Управљачки програми хардвера/уређаја омогућавају вашем рачунару да користи уређаје који су на њега прикачени.</span>
 </li></ul></div>
 </div></div>
 </div>

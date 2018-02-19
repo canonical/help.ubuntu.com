@@ -43,32 +43,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#backup" title="Backing up">Backing up</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#backup" title="Kopie zapasowe">Kopie zapasowe</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sprawdzanie kopii zapasowej</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Po utworzeniu kopii zapasowej plików należy się upewnić, że kopia jest poprawna. Jeśli coś się nie powiodło i części plików nie ma w kopii, to można bezpowrotnie utracić ważne dane.</p>
-<p class="p">When you use <span class="app">Files</span> to copy or move files, the computer checks
-   to make sure that all of the data transferred correctly. However, if you are
-   transferring data that is very important to you, you may want to perform
-   additional checks to confirm that your data has been transferred
-   properly.</p>
-<p class="p">You can do an extra check by looking through the copied files
- and folders on the destination media. By checking to make sure that the files
- and folders you transferred are actually there in the backup, you can have
- extra confidence that the process was successful.</p>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">If you find that you do regular backups of large amounts
- of data, you may find it easier to use a dedicated backup program, such as
- <span class="app">Déjà Dup</span>. Such a program is more powerful and more reliable than
- just copying and pasting files.</p></div></div></div></div>
+<p class="p">Podczas używania <span class="app">Menedżera plików</span> do kopiowania lub przenoszenia plików komputer upewnia się, że wszystkie dane zostały poprawnie przesłane. Jednakże, jeśli przesyłane dane są bardzo ważne, to można dodatkowo sprawdzić, czy dane zostały właściwie przesłane.</p>
+<p class="p">Można przejrzeć skopiowane pliki i katalogi na nośniku docelowym. Sprawdzenie, czy przesłane pliki i katalogi są w kopii zapasowej zwiększa pewność, że proces się powiódł.</p>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli regularnie wykonywane są kopie zapasowej dużej ilości danych, to łatwiej jest używać wyspecjalizowanego programu, takiego jak <span class="app">Déjà Dup</span>. Programy tego typu mają więcej możliwości i są bardziej niezawodne niż po prostu kopiowanie i wklejanie plików.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Backing up">Backing up</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pl-PL#backup" title="Kopie zapasowe">Kopie zapasowe</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

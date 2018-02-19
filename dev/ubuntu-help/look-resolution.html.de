@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="prefs-display.html" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="prefs-display.html.de" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ändern der Auflösung und der Drehung des Bildschirms</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Sie können ändern, wie groß (oder wie detailliert) Dinge auf dem Bildschirm erscheinen, indem Sie die <span class="em">Bildschirmauflösung</span> ändern. Sie können ändern, wie herum die Dinge erscheinen (zum Beispiel wenn Sie einen drehbaren Monitor haben), indem Sie die <span class="em">Drehung</span> ändern.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Bildschirme</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Bildschirme</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Bildschirme</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Wenn Sie mehrere Bildschirme verwenden und diese nicht gespiegelt sind, können Sie für jeden Bildschirm eigene Einstellungen festlegen. Wählen Sie einen Bildschirm im Vorschaubereich aus.</p></li>
 <li class="steps"><p class="p">Wählen Sie die Auflösung und Drehung.</p></li>
@@ -62,7 +62,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Auflösung</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Die Auflösung wird als Anzahl der Pixel (Punkte auf dem Bildschirm) angegeben, in jeder darstellbaren Richtung. Jede Auflösung hat ein <span class="em">Seitenverhältnis</span>, das Verhältnis der Breite zur Höhe. Breitbildschirme verwenden ein Seitenverhältnis von 16:9, während traditionelle Bildschirme 4:3 verwenden. Wenn Sie eine Auflösung wählen, die nicht dem Seitenverhältnis Ihres Bildschirms entspricht, werden schwarze Balken oben und unten oder an den Seiten hinzugefügt, um Verzerrungen zu vermeiden.</p>
-<p class="p">Sie können aus der Auswahlliste die <span class="gui">Auflösung</span> auswählen, die Sie bevorzugen. Beachten Sie, dass wenn Sie eine Auflösung wählen, die für Ihren Bildschirm ungeeignet ist, das Bild <span class="link"><a href="look-display-fuzzy.html" title="Warum ist das Bild auf meinem Bildschirm unscharf/verpixelt?">unscharf oder verpixelt</a></span> aussehen kann.</p>
+<p class="p">Sie können aus der Auswahlliste die <span class="gui">Auflösung</span> auswählen, die Sie bevorzugen. Beachten Sie, dass wenn Sie eine Auflösung wählen, die für Ihren Bildschirm ungeeignet ist, das Bild <span class="link"><a href="look-display-fuzzy.html.de" title="Warum ist das Bild auf meinem Bildschirm unscharf/verpixelt?">unscharf oder verpixelt</a></span> aussehen kann.</p>
 </div></div>
 </div></div>
 <div id="rotation" class="sect"><div class="inner">
@@ -75,13 +75,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Anpassen des Hintergrundes für den Schreibtisch und den Sperrbildschirm">Hintergrund</a></span>, <span class="link"><a href="look-resolution.html" title="Ändern der Auflösung und der Drehung des Bildschirms">Größe und Drehung</a></span>, Helligkeit …</span>
+<a href="prefs-display.html.de" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a><span class="desc"> — <span class="link"><a href="look-background.html.de" title="Anpassen des Hintergrundes für den Schreibtisch und den Sperrbildschirm">Hintergrund</a></span>, <span class="link"><a href="look-resolution.html.de" title="Ändern der Auflösung und der Drehung des Bildschirms">Größe und Drehung</a></span>, Helligkeit …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-display-fuzzy.html" title="Warum ist das Bild auf meinem Bildschirm unscharf/verpixelt?">Warum ist das Bild auf meinem Bildschirm unscharf/verpixelt?</a><span class="desc"> — Die Bildschirmauflösung könnte falsch eingestellt sein.</span>
+<a href="look-display-fuzzy.html.de" title="Warum ist das Bild auf meinem Bildschirm unscharf/verpixelt?">Warum ist das Bild auf meinem Bildschirm unscharf/verpixelt?</a><span class="desc"> — Die Bildschirmauflösung könnte falsch eingestellt sein.</span>
 </li></ul></div>
 </div></div>
 </div>

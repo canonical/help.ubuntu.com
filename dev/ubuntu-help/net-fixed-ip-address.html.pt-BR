@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-wired.html" title="Rede com fio">Rede com fio</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-wired.html.pt-BR" title="Rede com fio">Rede com fio</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Criando uma conexão com um endereço IP fixo</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A maioria das redes vão atribuir automaticamente um <span class="link"><a href="net-what-is-ip-address.html" title="O que é um endereço IP?">endereço IP</a></span> e outros detalhes a seu computador quando você conectar à rede. Estes detalhes podem alterar periodicamente, mas você pode querer ter um endereço IP para o seu computador, de forma que você sempre saiba qual é o seu endereço (por exemplo, se ele for um servidor de arquivo).</p>
+<p class="p">A maioria das redes vão atribuir automaticamente um <span class="link"><a href="net-what-is-ip-address.html.pt-BR" title="O que é um endereço IP?">endereço IP</a></span> e outros detalhes a seu computador quando você conectar à rede. Estes detalhes podem alterar periodicamente, mas você pode querer ter um endereço IP para o seu computador, de forma que você sempre saiba qual é o seu endereço (por exemplo, se ele for um servidor de arquivo).</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Para dar a seu computador um endereço IP fixo (ou estático):</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Rede</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Rede</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Rede</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">No painel esquerdo, selecione a conexão de rede que você deseja ter um endereço fixo. Se você se conectar a uma rede cabeada, clique em <span class="gui">Com fio</span> e, então, clique no botão <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configurações"></span></span> no canto inferior direito do painel. Para um conexão <span class="gui">Wi-Fi</span>, o botão <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configurações"></span></span> estará localizado ao lado da rede ativa.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">IPv4</span> ou <span class="gui">IPv6</span> no painel esquerdo e altere o <span class="gui">Endereço</span> para <span class="em">Manual</span>.</p></li>
-<li class="steps"><p class="p">Digite o <span class="gui"><a href="net-what-is-ip-address.html" title="O que é um endereço IP?">Endereço IP</a></span> e o <span class="gui">Gateway</span>, assim como a <span class="gui">Máscara de rede</span> apropriada.</p></li>
+<li class="steps"><p class="p">Digite o <span class="gui"><a href="net-what-is-ip-address.html.pt-BR" title="O que é um endereço IP?">Endereço IP</a></span> e o <span class="gui">Gateway</span>, assim como a <span class="gui">Máscara de rede</span> apropriada.</p></li>
 <li class="steps"><p class="p">Na seção <span class="gui">DNS</span>, alterne <span class="gui">Automático</span> para <span class="key"><kbd>○</kbd></span>. Digite o endereço IP de um servidor DNS que você deseja usar. Digite endereços de servidores adicionais usando o botão <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">Na seção <span class="gui">Rotas</span>, alterne <span class="gui">Automático</span> para <span class="key"><kbd>○</kbd></span>. Digite o <span class="gui">Endereço</span>, a <span class="gui">Máscara de rede</span>, o <span class="gui">Gateway</span> e a <span class="gui">Métrica</span> de uma rota que você deseja usar. Insira rotas adicionais usando o botão <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Aplicar</span>. A conexão de rede deveria agora ter um endereço IP fixo.</p></li>
@@ -70,13 +70,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html" title="Rede com fio">Rede com fio</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Conectando a rede com fio (Ethernet)">Conexões de Internet com fio</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Criando uma conexão com um endereço IP fixo">Endereços IP fixos</a></span>…</span>
+<a href="net-wired.html.pt-BR" title="Rede com fio">Rede com fio</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.pt-BR" title="Conectando a rede com fio (Ethernet)">Conexões de Internet com fio</a></span>, <span class="link"><a href="net-fixed-ip-address.html.pt-BR" title="Criando uma conexão com um endereço IP fixo">Endereços IP fixos</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-findip.html" title="Descobrindo o seu endereço de IP">Descobrindo o seu endereço de IP</a><span class="desc"> — Conhecer seu endereço IP pode ajudar você a resolver alguns problemas de rede.</span>
+<a href="net-findip.html.pt-BR" title="Descobrindo o seu endereço de IP">Descobrindo o seu endereço de IP</a><span class="desc"> — Conhecer seu endereço IP pode ajudar você a resolver alguns problemas de rede.</span>
 </li></ul></div>
 </div></div>
 </div>

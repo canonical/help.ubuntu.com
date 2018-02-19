@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zápis souborů na CD nebo DVD</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Pomocí <span class="gui">Tvůrce CD/DVD</span> můžete uložit soubory na prázdný optický disk. Možnost vytvořit CD nebo DVD se vám objeví ve správci souborů, jakmile do své zapisovací mechaniky CD/DVD vložíte prázdný disk. Správce souborů vám umožňuje přesunout soubory na jiný počítač nebo provést <span class="link"><a href="backup-why.html" title="Záloha vašich důležitých souborů">zálohu</a></span> uložením souborů na prázdný optický disk. Když chcete soubory zapsat na CD nebo DVD:</p>
+<p class="p">Pomocí <span class="gui">Tvůrce CD/DVD</span> můžete uložit soubory na prázdný optický disk. Možnost vytvořit CD nebo DVD se vám objeví ve správci souborů, jakmile do své zapisovací mechaniky CD/DVD vložíte prázdný disk. Správce souborů vám umožňuje přesunout soubory na jiný počítač nebo provést <span class="link"><a href="backup-why.html.cs" title="Záloha vašich důležitých souborů">zálohu</a></span> uložením souborů na prázdný optický disk. Když chcete soubory zapsat na CD nebo DVD:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Vložte prázdný disk do své zapisovací mechaniky CD/DVD.</p></li>
 <li class="steps">
@@ -82,7 +82,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.cs#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

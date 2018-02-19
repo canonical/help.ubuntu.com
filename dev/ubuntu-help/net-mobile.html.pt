@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-wireless.html" title="Conexões sem fios">Conexões sem fios</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-wireless.html.pt" title="Conexões sem fios">Conexões sem fios</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ligar a uma rede de banda larga movel</span></h1></div>
@@ -53,7 +53,7 @@
   computer’s built-in 3G modem, your mobile phone, or an Internet stick.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Se não tem um modem 3G integrado, ligue seu telefone ou dispositivo de Internet a um porto USB da sua computador.</p></li>
-<li class="steps"><p class="p">Abra o <span class="gui"><a href="shell-introduction.html#yourname" title="Você e o seu computador">menu do sistema</a></span> em parte-a direita da barra superior.</p></li>
+<li class="steps"><p class="p">Abra o <span class="gui"><a href="shell-introduction.html.pt#yourname" title="Você e o seu computador">menu do sistema</a></span> em parte-a direita da barra superior.</p></li>
 <li class="steps">
 <p class="p">Selecione <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-cellular-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Banda larga movel apagada</span>. A seção <span class="gui">Banda larga movel</span>  do menu expandir-se-á.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Se <span class="gui">Rede de banda larga movel</span> não aparece no menu de estado do sistema, se assegure de que seu dispositivo não está conetado como dispositivo de armazenamento em massa.</p></div></div></div></div>
@@ -75,7 +75,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Conexões sem fios">Conexões sem fios</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Ligar com uma rede sem fios">Ligar com uma rede sem fios</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Ligar a uma rede sem fios oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Por que minha rede sem fios permanece desligada?">desligar-se</a></span>…</span>
+<a href="net-wireless.html.pt" title="Conexões sem fios">Conexões sem fios</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pt" title="Ligar com uma rede sem fios">Ligar com uma rede sem fios</a></span>, <span class="link"><a href="net-wireless-hidden.html.pt" title="Ligar a uma rede sem fios oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pt" title="Por que minha rede sem fios permanece desligada?">desligar-se</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

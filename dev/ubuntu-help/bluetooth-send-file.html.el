@@ -44,26 +44,22 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="sharing.html" title="Κοινή χρήση">Κοινή χρήση</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="sharing.html.el" title="Κοινή χρήση">Κοινή χρήση</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="bluetooth.html.el" title="Bluetooth">Bluetooth</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Αποστολή αρχείων σε μια συσκευή Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can send files to connected Bluetooth devices, such as some mobile
-    phones or other computers. Some types of devices don’t allow the transfer
-    of files, or specific types of files. You can send files in one of three
-    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
-    window, or directly from the file manager.</p>
+<p class="p">Μπορείτε να στείλετε αρχεία σε συνδεμένες συσκευές Bluetooth, όπως κινητά τηλέφωνα ή υπολογιστές. Μερικοί τύποι συσκευών δεν επιτρέπουν τη μεταφορά αρχείων, ή συγκεκριμένων τύπων αρχείων. Μπορείτε να στείλετε αρχεία χρησιμοποιώντας το παράθυρο ρυθμίσεων του Bluetooth.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Bluetooth</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Βεβαιωθείτε ότι το Bluetooth είναι ενεργό: ο διακόπτης στη γραμμή τίτλου πρέπει να οριστεί σε <span class="gui">Ενεργό</span>.</p></li>
 <li class="steps">
-<p class="p">Στον κατάλογο <span class="gui">Συσκευές</span>, επιλέξτε τη συσκευή στην οποία θα στείλετε τα αρχεία. Αν η επιθυμητή συσκευή δεν εμφανίζεται ως <span class="gui">Συνδεδεμένη</span> στον κατάλογο, χρειάζεται να <span class="link"><a href="bluetooth-connect-device.html" title="Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth">συνδεθείτε</a></span> σε αυτή.</p>
+<p class="p">Στον κατάλογο <span class="gui">Συσκευές</span>, επιλέξτε τη συσκευή στην οποία θα στείλετε τα αρχεία. Αν η επιθυμητή συσκευή δεν εμφανίζεται ως <span class="gui">Συνδεδεμένη</span> στον κατάλογο, χρειάζεται να <span class="link"><a href="bluetooth-connect-device.html.el" title="Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth">συνδεθείτε</a></span> σε αυτή.</p>
 <p class="p">Εμφανίζεται ένας πίνακας για την εξωτερική συσκευή.</p>
 </li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Αποστολή αρχείων…</span> και θα εμφανιστεί ο επιλογέας αρχείου.</p></li>
@@ -81,17 +77,17 @@
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth">Σύνδεση</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Αποστολή αρχείων σε μια συσκευή Bluetooth">Αποστολή αρχείων</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Ενεργοποίηση ή απενεργοποίηση του bluetooth">Ενεργοποίηση και απενεργοποίηση</a></span>…</span>
+<a href="bluetooth.html.el" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.el" title="Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth">Σύνδεση</a></span>, <span class="link"><a href="bluetooth-send-file.html.el" title="Αποστολή αρχείων σε μια συσκευή Bluetooth">Αποστολή αρχείων</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.el" title="Ενεργοποίηση ή απενεργοποίηση του bluetooth">Ενεργοποίηση και απενεργοποίηση</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Κοινή χρήση">Κοινή χρήση</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Κοινή χρήση της επιφάνειας εργασίας σας">Κοινή χρήση επιφάνειας εργασίας</a></span>, <span class="link"><a href="files-share.html" title="Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία">Κοινή χρήση αρχείων μέσω ηλεκτρονικής αλληλογραφίας</a></span>, <span class="link"><a href="sharing-media.html" title="Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας">Κοινή χρήση πολυμέσων</a></span>…</span>
+<a href="sharing.html.el" title="Κοινή χρήση">Κοινή χρήση</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.el" title="Κοινή χρήση της επιφάνειας εργασίας σας">Κοινή χρήση επιφάνειας εργασίας</a></span>, <span class="link"><a href="files-share.html.el" title="Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία">Κοινή χρήση αρχείων μέσω ηλεκτρονικής αλληλογραφίας</a></span>, <span class="link"><a href="sharing-media.html.el" title="Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας">Κοινή χρήση πολυμέσων</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία">Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία</a><span class="desc"> — Μεταφέρετε εύκολα αρχεία στις επαφές ηλεκτρονικής αλληλογραφίας σας από τον διαχειριστή αρχείων.</span>
+<a href="files-share.html.el" title="Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία">Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία</a><span class="desc"> — Μεταφέρετε εύκολα αρχεία στις επαφές ηλεκτρονικής αλληλογραφίας σας από τον διαχειριστή αρχείων.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="prefs-sharing.html" title="Koplietošanas iestatījumi">Koplietošanas iestatījumi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="prefs-sharing.html.lv" title="Koplietošanas iestatījumi">Koplietošanas iestatījumi</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="sharing.html" title="Kopīga lietošana">Kopīga lietošana</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="sharing.html.lv" title="Kopīga lietošana">Kopīga lietošana</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,11 +56,11 @@
 <p class="p">Jūs varat dod citiem cilvēkiem pieeju jūsu darbvirsmai un kontroli pār to ar darbvirsmas skatīšanas lietotnes starpniecību. Konfigurējiet <span class="gui">ekrāna koplietošanu</span>, lai ļautu citiem piekļūt jūsu darbvirsmai un noteiktu drošības iestatījumus.</p>
 <div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Lai <span class="gui">Ekrāna koplietošana</span> būtu redzama, jābūt uzinstalētai pakotnei <span class="app">Vino</span>.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Koplietošana</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Koplietošana</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Koplietošana</span>, lai atvērtu paneli.</p></li>
 <li class="steps">
 <p class="p">Ja <span class="gui">Koplietošana</span> ir <span class="gui">◯</span>, pārslēdziet to uz <span class="gui">|</span>.</p>
-<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Ja teksts zem <span class="gui">Datora nosaukuma</span> jums to ļauj rediģēt, jūs varat <span class="link"><a href="sharing-displayname.html" title="Iestatīt jūsu datora redzamo nosaukumu">mainīt</a></span> nosaukumu, ar kādu dators būs redzams tīklā.</p></div></div></div></div>
+<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Ja teksts zem <span class="gui">Datora nosaukuma</span> jums to ļauj rediģēt, jūs varat <span class="link"><a href="sharing-displayname.html.lv" title="Iestatīt jūsu datora redzamo nosaukumu">mainīt</a></span> nosaukumu, ar kādu dators būs redzams tīklā.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Izvēlies <span class="gui">Ekrāna koplietošana</span>.</p></li>
 <li class="steps"><p class="p">Lai rādītu citiem savu darbvirsmu, pārslēdziet <span class="gui">Ekrāna koplietošana</span> uz <span class="gui">|</span>. Tad citi cilvēki varēs mēģināt izveidot savienojumu ar jūsu datoru, lai redzētu jūsu ekrānā notiekošo.</p></li>
@@ -110,10 +110,10 @@
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-sharing.html" title="Koplietošanas iestatījumi">Koplietošanas iestatījumi</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Kontrolēt koplietošanu caur Bluetooth">Bluetooth koplietošana</a></span>, <span class="link"><a href="sharing-desktop.html" title="Koplietot savu darbvirsmu">Ekrāna koplietošana</a></span>, <span class="link"><a href="sharing-media.html" title="Dalieties ar mūziku, fotogrāfijām un video">Multimediju koplietošana</a></span>…</span>
+<a href="prefs-sharing.html.lv" title="Koplietošanas iestatījumi">Koplietošanas iestatījumi</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.lv" title="Kontrolēt koplietošanu caur Bluetooth">Bluetooth koplietošana</a></span>, <span class="link"><a href="sharing-desktop.html.lv" title="Koplietot savu darbvirsmu">Ekrāna koplietošana</a></span>, <span class="link"><a href="sharing-media.html.lv" title="Dalieties ar mūziku, fotogrāfijām un video">Multimediju koplietošana</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Kopīga lietošana">Kopīga lietošana</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Koplietot savu darbvirsmu">Darbvirsmas koplietošana</a></span>, <span class="link"><a href="files-share.html" title="Dalīties ar datnēm caur e-pastu">Koplietot datnes ar e-pastu</a></span>, <span class="link"><a href="sharing-media.html" title="Dalieties ar mūziku, fotogrāfijām un video">Multimediju koplietošana</a></span>…</span>
+<a href="sharing.html.lv" title="Kopīga lietošana">Kopīga lietošana</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.lv" title="Koplietot savu darbvirsmu">Darbvirsmas koplietošana</a></span>, <span class="link"><a href="files-share.html.lv" title="Dalīties ar datnēm caur e-pastu">Koplietot datnes ar e-pastu</a></span>, <span class="link"><a href="sharing-media.html.lv" title="Dalieties ar mūziku, fotogrāfijām un video">Multimediju koplietošana</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

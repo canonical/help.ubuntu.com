@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html#problems" title="Pogoste težave">Težave</a> » <a class="trail" href="power.html#problems" title="Težave">Težave z napajanjem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html.sl#problems" title="Pogoste težave">Težave</a> » <a class="trail" href="power.html.sl#problems" title="Težave">Težave z napajanjem</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html#problems" title="Pogoste težave">Težave</a> » <a class="trail" href="hardware-problems-graphics.html" title="Težave z zaslonom">Težave z zaslonom</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html.sl#problems" title="Pogoste težave">Težave</a> » <a class="trail" href="hardware-problems-graphics.html.sl" title="Težave z zaslonom">Težave z zaslonom</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zakaj se moj računalnik ne vklopi nazaj potem ko ga pošljem v stanje pripravljenosti?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">If you <span class="link"><a href="power-suspend.html" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">suspend</a></span> your computer, then try to
+<div class="contents"><p class="p">If you <span class="link"><a href="power-suspend.html.sl" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">suspend</a></span> your computer, then try to
 resume it, you may find that it does not work as you expected. This could be
 because suspend is not supported properly by your hardware.</p></div>
 <div id="resume" class="sect"><div class="inner">
@@ -72,7 +72,7 @@ because suspend is not supported properly by your hardware.</p></div>
 <p class="p">If you suspend your computer and then resume it again, you
   may find that your internet connection, mouse, or some other device does not
   work properly. This could be because the driver for the device does not
-  properly support suspend. This is a <span class="link"><a href="hardware-driver.html" title="Kaj je gonilnik?">problem with the driver</a></span> and not the device
+  properly support suspend. This is a <span class="link"><a href="hardware-driver.html.sl" title="Kaj je gonilnik?">problem with the driver</a></span> and not the device
   itself.</p>
 <p class="p">V primeru da ima naprava stikalo za vklop, ga poskusite izklopiti in nato ponovno vklopiti. V večini primerov bo naprava začela ponovno delovati. V primeru da se naprava poveže preko kabla USB ali podobno, napravo odklopite in jo ponovno priklopite.</p>
 <p class="p">If you cannot turn off or unplug the device, or if this does not work, you
@@ -86,10 +86,10 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power.html#problems" title="Težave">Težave z napajanjem</a><span class="desc"> — Odpravite težave z napajanjem in baterijo</span>
+<a href="power.html.sl#problems" title="Težave">Težave z napajanjem</a><span class="desc"> — Odpravite težave z napajanjem in baterijo</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Težave z zaslonom">Težave z zaslonom</a><span class="desc"> — Odpravljanje težav z zaslonom in grafiko.</span>
+<a href="hardware-problems-graphics.html.sl" title="Težave z zaslonom">Težave z zaslonom</a><span class="desc"> — Odpravljanje težav z zaslonom in grafiko.</span>
 </li>
 </ul></div>
 </div></div>
@@ -97,19 +97,19 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-driver.html" title="Kaj je gonilnik?">Kaj je gonilnik?</a><span class="desc"> — Gonilnik za strojno opremo/napravo omogoča računalniku, da uporabi naprave, ki so nanj priklopljene</span>
+<a href="hardware-driver.html.sl" title="Kaj je gonilnik?">Kaj je gonilnik?</a><span class="desc"> — Gonilnik za strojno opremo/napravo omogoča računalniku, da uporabi naprave, ki so nanj priklopljene</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">Kaj se zgodi, ko pošljem računalnik v pripravljenost?</a><span class="desc"> — Prehod v stanje pripravljenosti pošlje vaš računalnik v stanje pripravljenosti, da porabi manj energije.</span>
+<a href="power-suspend.html.sl" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">Kaj se zgodi, ko pošljem računalnik v pripravljenost?</a><span class="desc"> — Prehod v stanje pripravljenosti pošlje vaš računalnik v stanje pripravljenosti, da porabi manj energije.</span>
 </li>
 <li class="links ">
-<a href="power-hibernate.html" title="Kako dam računalnik v mirovanje?">Kako dam računalnik v mirovanje?</a><span class="desc"> — Mirovanje je privzeto onemogočeno, ker ni dobro podprto.</span>
+<a href="power-hibernate.html.sl" title="Kako dam računalnik v mirovanje?">Kako dam računalnik v mirovanje?</a><span class="desc"> — Mirovanje je privzeto onemogočeno, ker ni dobro podprto.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="Ko računalnik povrnem iz stanja pripravljenosti, nimam brezžičnega omrežja">Ko računalnik povrnem iz stanja pripravljenosti, nimam brezžičnega omrežja</a><span class="desc"> — Nekatere brezžične naprave imajo težave z upravljanjem, ko je vaš računalnik poslan v stanje pripravljenosti in se ne povrne pravilno.</span>
+<a href="power-nowireless.html.sl" title="Ko računalnik povrnem iz stanja pripravljenosti, nimam brezžičnega omrežja">Ko računalnik povrnem iz stanja pripravljenosti, nimam brezžičnega omrežja</a><span class="desc"> — Nekatere brezžične naprave imajo težave z upravljanjem, ko je vaš računalnik poslan v stanje pripravljenosti in se ne povrne pravilno.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="Zakaj se moj računalnik ob zaprtju pokrova izklopi?">Zakaj se moj računalnik ob zaprtju pokrova izklopi?</a><span class="desc"> — Prenosniki gredo ob zaprtju pokrova v stanje pripravljenosti za varčevanje z energijo.</span>
+<a href="power-closelid.html.sl" title="Zakaj se moj računalnik ob zaprtju pokrova izklopi?">Zakaj se moj računalnik ob zaprtju pokrova izklopi?</a><span class="desc"> — Prenosniki gredo ob zaprtju pokrova v stanje pripravljenosti za varčevanje z energijo.</span>
 </li>
 </ul></div>
 </div></div>

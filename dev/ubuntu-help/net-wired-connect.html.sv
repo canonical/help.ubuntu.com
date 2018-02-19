@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-wired.html" title="Trådbundna nätverk">Trådbundna nätverk</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-wired.html.sv" title="Trådbundna nätverk">Trådbundna nätverk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Anslut till ett trådbundet (Ethernet) nätverk</span></h1></div>
@@ -52,14 +52,14 @@
 <p class="p">För att ställa in de flesta trådbundna nätverksanslutningar är allt du behöver göra att ansluta nätverkskabeln. Ikonen för trådbundna nätverk (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="inställningar"></span></span>) visas i systemraden med tre punkter medan anslutningen etableras. Punkterna försvinner när du är ansluten.</p>
 <p class="p">Om detta inte händer bör du först säkerställa att nätverkskabeln är ansluten. En ände av kabeln bör vara ansluten till den rektangulära Ethernetporten (nätverksporten) på din dator och de andra bör vara ansluten till en switch, router, nätverkskontakt i väggen eller liknande (beroende på vilken nätverksuppställning du har). Ibland betyder en tänd lampa bredvid Ethernetporten att den är ansluten och aktiv.</p>
 <div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Du kan inte ansluta en dator direkt till en annan med en nätverkskabel (åtminstone inte utan några extra inställningar). För att ansluta två datorer bör du ansluta båda till en nätverkshubb, router eller switch.</p></div></div></div></div>
-<p class="p">Om du fortfarande inte är ansluten kanske ditt nätverk inte har stöd för automatisk inställning (DHCP). Om detta är fallet måste du <span class="link"><a href="net-manual.html" title="Ange nätverksinställningar manuellt">konfigurera det manuellt</a></span>.</p>
+<p class="p">Om du fortfarande inte är ansluten kanske ditt nätverk inte har stöd för automatisk inställning (DHCP). Om detta är fallet måste du <span class="link"><a href="net-manual.html.sv" title="Ange nätverksinställningar manuellt">konfigurera det manuellt</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html" title="Trådbundna nätverk">Trådbundna nätverk</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Anslut till ett trådbundet (Ethernet) nätverk">Trådbundna internetanslutningar</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Skapa en anslutning med en fast IP-adress">Fasta IP-adresser</a></span>…</span>
+<a href="net-wired.html.sv" title="Trådbundna nätverk">Trådbundna nätverk</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.sv" title="Anslut till ett trådbundet (Ethernet) nätverk">Trådbundna internetanslutningar</a></span>, <span class="link"><a href="net-fixed-ip-address.html.sv" title="Skapa en anslutning med en fast IP-adress">Fasta IP-adresser</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="sharing.html" title="Κοινή χρήση">Κοινή χρήση</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="sharing.html.el" title="Κοινή χρήση">Κοινή χρήση</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -146,15 +146,15 @@ internet/network address.</p>
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Κοινή χρήση">Κοινή χρήση</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Κοινή χρήση της επιφάνειας εργασίας σας">Κοινή χρήση επιφάνειας εργασίας</a></span>, <span class="link"><a href="files-share.html" title="Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία">Κοινή χρήση αρχείων μέσω ηλεκτρονικής αλληλογραφίας</a></span>, <span class="link"><a href="sharing-media.html" title="Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας">Κοινή χρήση πολυμέσων</a></span>…</span>
+<a href="sharing.html.el" title="Κοινή χρήση">Κοινή χρήση</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.el" title="Κοινή χρήση της επιφάνειας εργασίας σας">Κοινή χρήση επιφάνειας εργασίας</a></span>, <span class="link"><a href="files-share.html.el" title="Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία">Κοινή χρήση αρχείων μέσω ηλεκτρονικής αλληλογραφίας</a></span>, <span class="link"><a href="sharing-media.html.el" title="Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας">Κοινή χρήση πολυμέσων</a></span>…</span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a></li>
+<li class="links "><a href="files.html.el#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία">Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία</a><span class="desc"> — Μεταφέρετε εύκολα αρχεία στις επαφές ηλεκτρονικής αλληλογραφίας σας από τον διαχειριστή αρχείων.</span>
+<a href="files-share.html.el" title="Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία">Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία</a><span class="desc"> — Μεταφέρετε εύκολα αρχεία στις επαφές ηλεκτρονικής αλληλογραφίας σας από τον διαχειριστή αρχείων.</span>
 </li></ul></div>
 </div></div>
 </div>

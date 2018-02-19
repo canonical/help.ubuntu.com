@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.el" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html.el#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » <a class="trail" href="shell-windows.html" title="Παράθυρα και χώροι εργασίας">Παράθυρα και χώροι εργασίας</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Δουλεύοντας με παράθυρα">Παράθυρα</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.el" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html.el#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » <a class="trail" href="shell-windows.html.el" title="Παράθυρα και χώροι εργασίας">Παράθυρα και χώροι εργασίας</a> › <a class="trail" href="shell-windows.html.el#working-with-windows" title="Δουλεύοντας με παράθυρα">Παράθυρα</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,14 +56,14 @@
 <p class="p">Μπορείτε να δείτε όλες τις εκτελούμενες εφαρμογές σας που διαθέτουν μια γραφική διεπαφή στον <span class="em">εναλλάκτη παραθύρου</span>. Αυτό κάνει εύκολη την εναλλαγή μεταξύ των εργασιών σας δίνοντας σας μια πλήρη εικόνα των εφαρμογών που έχετε ανοιχτά.</p>
 <p class="p">Από έναν χώρο εργασίας:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Πατήστε <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> για να εμφανίσετε τον <span class="gui">εναλλάκτη παραθύρου</span>.</p></li>
-<li class="steps"><p class="p">Απελευθερώστε το <span class="key"><a href="keyboard-key-super.html" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span> για να επιλέξτε το επόμενο (επισημασμένο) παράθυρο στον εναλλάκτη.</p></li>
-<li class="steps"><p class="p">Αλλιώς, κρατώντας πατημένο ακόμα το πλήκτρο <span class="key"><a href="keyboard-key-super.html" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd> Λογότυπο</kbd></a></span>, πατήστε <span class="key"><kbd>Tab</kbd></span> για να περιηγηθείτε τη λίστα των ανοικτών παραθύρων, ή <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> για αντίθετη περιήγηση.</p></li>
+<li class="steps"><p class="p">Πατήστε <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.el" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> για να εμφανίσετε τον <span class="gui">εναλλάκτη παραθύρου</span>.</p></li>
+<li class="steps"><p class="p">Απελευθερώστε το <span class="key"><a href="keyboard-key-super.html.el" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span> για να επιλέξτε το επόμενο (επισημασμένο) παράθυρο στον εναλλάκτη.</p></li>
+<li class="steps"><p class="p">Αλλιώς, κρατώντας πατημένο ακόμα το πλήκτρο <span class="key"><a href="keyboard-key-super.html.el" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd> Λογότυπο</kbd></a></span>, πατήστε <span class="key"><kbd>Tab</kbd></span> για να περιηγηθείτε τη λίστα των ανοικτών παραθύρων, ή <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> για αντίθετη περιήγηση.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Τα παράθυρα στον εναλλάκτη παραθύρων ομαδοποιούνται κατά εφαρμογή. Οι προεπισκοπήσεις των εφαρμογών με πολλαπλά παράθυρα καταδύονται καθώς τις περνάτε με κλικ. Κρατήστε πατημένο το <span class="key"><a href="keyboard-key-super.html" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span> και πατήστε <span class="key"><kbd>`</kbd></span> (ή το πλήκτρο πάνω από το <span class="key"><kbd>Tab</kbd></span>) για να περιηγηθείτε στη λίστα.</p></div></div></div></div>
+<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Τα παράθυρα στον εναλλάκτη παραθύρων ομαδοποιούνται κατά εφαρμογή. Οι προεπισκοπήσεις των εφαρμογών με πολλαπλά παράθυρα καταδύονται καθώς τις περνάτε με κλικ. Κρατήστε πατημένο το <span class="key"><a href="keyboard-key-super.html.el" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span> και πατήστε <span class="key"><kbd>`</kbd></span> (ή το πλήκτρο πάνω από το <span class="key"><kbd>Tab</kbd></span>) για να περιηγηθείτε στη λίστα.</p></div></div></div></div>
 <p class="p">Μπορείτε επίσης να μετακινηθείτε μεταξύ των εικονιδίων εφαρμογής στον εναλλάκτη παραθύρου με τα πλήκτρα <span class="key"><kbd>→</kbd></span> ή <span class="key"><kbd>←</kbd></span>, ή να επιλέξετε ένα κάνοντας κλικ σε αυτό με το ποντίκι.</p>
 <p class="p">Προεπισκοπήσεις των εφαρμογών με ένα μονό παράθυρο μπορούν να εμφανιστούν με το πλήκτρο <span class="key"><kbd>↓</kbd></span>.</p>
-<p class="p">Από την επισκόπηση <span class="gui">Δραστηριότητες</span>, πατήστε σε ένα <span class="link"><a href="shell-windows.html" title="Παράθυρα και χώροι εργασίας">παράθυρο</a></span> για να μεταβείτε σε αυτό αφήνοντας την επισκόπηση. Αν έχετε ανοιχτούς πολλούς <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Δουλεύοντας με χώρους εργασίας">χώρους εργασίας</a></span>, μπορείτε να πατήσετε σε κάθε χώρο εργασίας για να προβάλετε τα ανοικτά παράθυρα σε κάθε έναν από αυτούς.</p>
+<p class="p">Από την επισκόπηση <span class="gui">Δραστηριότητες</span>, πατήστε σε ένα <span class="link"><a href="shell-windows.html.el" title="Παράθυρα και χώροι εργασίας">παράθυρο</a></span> για να μεταβείτε σε αυτό αφήνοντας την επισκόπηση. Αν έχετε ανοιχτούς πολλούς <span class="link"><a href="shell-windows.html.el#working-with-workspaces" title="Δουλεύοντας με χώρους εργασίας">χώρους εργασίας</a></span>, μπορείτε να πατήσετε σε κάθε χώρο εργασίας για να προβάλετε τα ανοικτά παράθυρα σε κάθε έναν από αυτούς.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -71,15 +71,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-windows.html#working-with-windows" title="Δουλεύοντας με παράθυρα">Δουλεύοντας με παράθυρα</a></li>
-<li class="links "><a href="shell-overview.html#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a></li>
+<li class="links "><a href="shell-windows.html.el#working-with-windows" title="Δουλεύοντας με παράθυρα">Δουλεύοντας με παράθυρα</a></li>
+<li class="links "><a href="shell-overview.html.el#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-use-windows-workspaces.html" title="Χρήση παραθύρων και χώρων εργασίας">Ένα μάθημα στη χρήση παραθύρων και χώρων εργασίας</a></li>
-<li class="links "><a href="gs-switch-tasks.html" title="Εναλλαγή εργασιών">Ένα μάθημα στην αλλαγή εργασιών</a></li>
+<li class="links "><a href="gs-use-windows-workspaces.html.el" title="Χρήση παραθύρων και χώρων εργασίας">Ένα μάθημα στη χρήση παραθύρων και χώρων εργασίας</a></li>
+<li class="links "><a href="gs-switch-tasks.html.el" title="Εναλλαγή εργασιών">Ένα μάθημα στην αλλαγή εργασιών</a></li>
 </ul></div>
 </div></div>
 </div>

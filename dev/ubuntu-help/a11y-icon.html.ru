@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Специальные возможности">Специальные возможности</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ru" title="Специальные возможности">Специальные возможности</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Найдите меню универсального доступа</span></h1></div>
@@ -58,7 +58,7 @@
 </div></div>
 <p class="p">Если вы не видите меню универсального доступа, то его можно включить на панели настроек <span class="gui">Универсальный доступ</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Универсальный доступ</span>, чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Измените переключатель <span class="gui">Всегда показывать меню универсального доступа</span> в положение <span class="gui">Включено</span>.</p></li>
@@ -77,7 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y.html" title="Специальные возможности">Специальные возможности</a><span class="desc"> — <span class="link"><a href="a11y.html#vision" title="Ограничения зрения">Зрение</a></span>, <span class="link"><a href="a11y.html#sound" title="Ограничения слуха">слух</a></span>, <span class="link"><a href="a11y.html#mobility" title="Ограничения подвижности">подвижность</a></span>, <span class="link"><a href="a11y-braille.html" title="Чтение экрана азбукой Брайля">азбука Брайля</a></span>, <span class="link"><a href="a11y-mag.html" title="Увеличение области экрана">увеличение области экрана</a></span>…</span>
+<a href="a11y.html.ru" title="Специальные возможности">Специальные возможности</a><span class="desc"> — <span class="link"><a href="a11y.html.ru#vision" title="Ограничения зрения">Зрение</a></span>, <span class="link"><a href="a11y.html.ru#sound" title="Ограничения слуха">слух</a></span>, <span class="link"><a href="a11y.html.ru#mobility" title="Ограничения подвижности">подвижность</a></span>, <span class="link"><a href="a11y-braille.html.ru" title="Чтение экрана азбукой Брайля">азбука Брайля</a></span>, <span class="link"><a href="a11y-mag.html.ru" title="Увеличение области экрана">увеличение области экрана</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

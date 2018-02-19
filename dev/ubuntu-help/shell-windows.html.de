@@ -43,26 +43,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ihre Arbeitsumgebung">Schreibtisch</a> › <a class="trail" href="shell-overview.html#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.de" title="Ihre Arbeitsumgebung">Schreibtisch</a> › <a class="trail" href="shell-overview.html.de#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fenster und Arbeitsflächen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Wie andere Arbeitsumgebungen auch verwendet GNOME Fenster zur Anzeige von laufenden Anwendungen. Mit der <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten-Übersicht</a></span> und dem <span class="em">Dash</span> können Sie neue Anwendungen starten und steuern, welche Anwendung aktiv ist.</p>
+<p class="p">Wie andere Arbeitsumgebungen auch verwendet GNOME Fenster zur Anzeige von laufenden Anwendungen. Mit der <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten-Übersicht</a></span> und dem <span class="em">Dash</span> können Sie neue Anwendungen starten und steuern, welche Anwendung aktiv ist.</p>
 <p class="p">Zusätzlich zu den Fenstern können Sie Ihre Anwendungen innerhalb von Arbeitsflächen anordnen. Lesen Sie hierzu die nachfolgenden Abschnitte zu Fenstern und Arbeitsflächen, um mehr über diese Funktionsmerkmale zu erfahren.</p>
 </div>
 <div id="working-with-windows" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Arbeiten mit Fenstern</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html" title="Ein Fenster maximieren und wiederherstellen"><span class="title">Ein Fenster maximieren und wiederherstellen</span><span class="linkdiv-dash"> — </span><span class="desc">Doppelklicken Sie auf die Titelleiste des Fensters, um es zu maximieren oder wiederherzustellen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html" title="Ein verlorenes Fenster finden"><span class="title">Ein verlorenes Fenster finden</span><span class="linkdiv-dash"> — </span><span class="desc">Schauen Sie in die <span class="gui">Aktivitäten</span>-Übersicht oder andere Arbeitsflächen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html" title="Gekachelte Fenster"><span class="title">Gekachelte Fenster</span><span class="linkdiv-dash"> — </span><span class="desc">Zwei Fenster nebeneinander »maximieren«.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.de" title="Ein Fenster maximieren und wiederherstellen"><span class="title">Ein Fenster maximieren und wiederherstellen</span><span class="linkdiv-dash"> — </span><span class="desc">Doppelklicken Sie auf die Titelleiste des Fensters, um es zu maximieren oder wiederherzustellen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.de" title="Ein verlorenes Fenster finden"><span class="title">Ein verlorenes Fenster finden</span><span class="linkdiv-dash"> — </span><span class="desc">Schauen Sie in die <span class="gui">Aktivitäten</span>-Übersicht oder andere Arbeitsflächen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.de" title="Gekachelte Fenster"><span class="title">Gekachelte Fenster</span><span class="linkdiv-dash"> — </span><span class="desc">Zwei Fenster nebeneinander »maximieren«.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html" title="Verschieben und Größenänderung Ihrer Fenster"><span class="title">Verschieben und Größenänderung Ihrer Fenster</span><span class="linkdiv-dash"> — </span><span class="desc">Fenster in einer Arbeitsfläche anordnen, um effizienter zu arbeiten.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Wechseln zwischen Fenstern"><span class="title">Wechseln zwischen Fenstern</span><span class="linkdiv-dash"> — </span><span class="desc">Drücken Sie <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.de" title="Verschieben und Größenänderung Ihrer Fenster"><span class="title">Verschieben und Größenänderung Ihrer Fenster</span><span class="linkdiv-dash"> — </span><span class="desc">Fenster in einer Arbeitsfläche anordnen, um effizienter zu arbeiten.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.de" title="Wechseln zwischen Fenstern"><span class="title">Wechseln zwischen Fenstern</span><span class="linkdiv-dash"> — </span><span class="desc">Drücken Sie <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -70,17 +70,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Arbeiten mit Arbeitsflächen</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html" title="Was ist eine Arbeitsfläche, und was habe ich davon?"><span class="title">Was ist eine Arbeitsfläche, und was habe ich davon?</span><span class="linkdiv-dash"> — </span><span class="desc">Arbeitsflächen sind eine Möglichkeit zum Gruppieren von Fenstern in Ihrer Arbeitsumgebung.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html" title="Fenster auf eine andere Arbeitsfläche verschieben"><span class="title">Fenster auf eine andere Arbeitsfläche verschieben</span><span class="linkdiv-dash"> — </span><span class="desc">Wechseln Sie in die <span class="gui">Aktivitäten</span>-Übersicht und ziehen Sie das Fenster auf eine andere Arbeitsfläche.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.de" title="Was ist eine Arbeitsfläche, und was habe ich davon?"><span class="title">Was ist eine Arbeitsfläche, und was habe ich davon?</span><span class="linkdiv-dash"> — </span><span class="desc">Arbeitsflächen sind eine Möglichkeit zum Gruppieren von Fenstern in Ihrer Arbeitsumgebung.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.de" title="Fenster auf eine andere Arbeitsfläche verschieben"><span class="title">Fenster auf eine andere Arbeitsfläche verschieben</span><span class="linkdiv-dash"> — </span><span class="desc">Wechseln Sie in die <span class="gui">Aktivitäten</span>-Übersicht und ziehen Sie das Fenster auf eine andere Arbeitsfläche.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html" title="Wechseln zwischen Arbeitsflächen"><span class="title">Wechseln zwischen Arbeitsflächen</span><span class="linkdiv-dash"> — </span><span class="desc">Verwenden Sie den Arbeitsflächenumschalter.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.de" title="Wechseln zwischen Arbeitsflächen"><span class="title">Wechseln zwischen Arbeitsflächen</span><span class="linkdiv-dash"> — </span><span class="desc">Verwenden Sie den Arbeitsflächenumschalter.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.de#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

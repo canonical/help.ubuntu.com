@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html#common-file-tasks" title="Tugas umum">Tugas umum</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#common-file-tasks" title="Tugas umum">Tugas umum</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Menghapus berkas dan folder</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">If you do not want a file or folder any more, you can delete it. When you
   delete an item it is moved to the <span class="gui">Trash</span> folder, where it is stored
-  until you empty the trash. You can <span class="link"><a href="files-recover.html" title="Memulihkan berkas dari Tong Sampah">restore
+  until you empty the trash. You can <span class="link"><a href="files-recover.html.id" title="Memulihkan berkas dari Tong Sampah">restore
   items</a></span> in the <span class="gui">Trash</span> folder to their original location if you
   decide you need them, or if they were accidentally deleted.</p>
 <div class="steps"><div class="inner">
@@ -83,7 +83,7 @@
     you want to delete the file or folder.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Deleted files on a <span class="link"><a href="files.html#removable" title="Removable drives and external disks">removable device
+<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Deleted files on a <span class="link"><a href="files.html.id#removable" title="Removable drives and external disks">removable device
   </a></span> may not be visible on other operating systems, such Windows or Mac
   OS. The files are still there, and will be available when you plug the device
   back into your computer.</p></div></div></div></div>
@@ -94,15 +94,15 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Tugas umum">Tugas umum</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.id#common-file-tasks" title="Tugas umum">Tugas umum</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-recover.html" title="Memulihkan berkas dari Tong Sampah">Memulihkan berkas dari Tong Sampah</a><span class="desc"> — Berkas yang dihapus biasanya dikirim ke Tong Sampah, tapi dapat dipulihkan.</span>
+<a href="files-recover.html.id" title="Memulihkan berkas dari Tong Sampah">Memulihkan berkas dari Tong Sampah</a><span class="desc"> — Berkas yang dihapus biasanya dikirim ke Tong Sampah, tapi dapat dipulihkan.</span>
 </li>
-<li class="links "><a href="nautilus-behavior.html#trash" title="Tong Sampah">Preferensi tong sampah manajer berkas</a></li>
+<li class="links "><a href="nautilus-behavior.html.id#trash" title="Tong Sampah">Preferensi tong sampah manajer berkas</a></li>
 </ul></div>
 </div></div>
 </div>

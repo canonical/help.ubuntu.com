@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="disk.html" title="Diskar och lagring">Diskar och lagring</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="disk.html.sv" title="Diskar och lagring">Diskar och lagring</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Justera storleken på ett filsystem</span></h1></div>
@@ -62,7 +62,7 @@
 <li class="steps">
 <p class="p">En dialogruta kommer att öppnas där den nya storleken kan väljas. Filsystemet kommer att monteras för att beräkna den minsta storleken utifrån aktuellt innehåll. Om storleksminskning inte stöds är den minsta storleken den aktuella storleken. Lämna tillräckligt med utrymme i filsystemet då du krymper det så att det kan arbeta snabbt och pålitligt.</p>
 <p class="p">Beroende på hur mycket data som måste flyttas från den krympta delen så kan storleksändringen av filsystemet ta längre tid.</p>
-<div class="note note-warning" title="Varning"><div class="inner"><div class="region"><div class="contents"><p class="p">Storleksändringen av filsystemet involverar automatisk <span class="link"><a href="disk-repair.html" title="Reparera ett skadat filsystem">reparation</a></span> av filsystemet. Det är därför rekommenderat att säkerhetskopiera viktiga data innan du startar. Åtgärden får inte stoppas, i annat fall leder det till att filsystemet skadas.</p></div></div></div></div>
+<div class="note note-warning" title="Varning"><div class="inner"><div class="region"><div class="contents"><p class="p">Storleksändringen av filsystemet involverar automatisk <span class="link"><a href="disk-repair.html.sv" title="Reparera ett skadat filsystem">reparation</a></span> av filsystemet. Det är därför rekommenderat att säkerhetskopiera viktiga data innan du startar. Åtgärden får inte stoppas, i annat fall leder det till att filsystemet skadas.</p></div></div></div></div>
 </li>
 <li class="steps">
 <p class="p">Bekräfta att starta åtgärden genom att klicka på <span class="gui">Ändra storlek</span>.</p>
@@ -77,7 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Diskar och lagring">Diskar och lagring</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Kontrollera hur mycket diskutrymme som finns kvar">Diskutrymme</a></span>, <span class="link"><a href="disk-benchmark.html" title="Testa din hårddisks prestanda">prestanda</a></span>, <span class="link"><a href="disk-check.html" title="Kontrollera din hårddisk efter problem">problem</a></span>, <span class="link"><a href="disk-partitions.html" title="Hantera volymer och partitioner">volymer och partitioner</a></span>…</span>
+<a href="disk.html.sv" title="Diskar och lagring">Diskar och lagring</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.sv" title="Kontrollera hur mycket diskutrymme som finns kvar">Diskutrymme</a></span>, <span class="link"><a href="disk-benchmark.html.sv" title="Testa din hårddisks prestanda">prestanda</a></span>, <span class="link"><a href="disk-check.html.sv" title="Kontrollera din hårddisk efter problem">problem</a></span>, <span class="link"><a href="disk-partitions.html.sv" title="Hantera volymer och partitioner">volymer och partitioner</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

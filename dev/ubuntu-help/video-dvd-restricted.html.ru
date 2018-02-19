@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Звук, видео и изображения">Звук, видео и изображения</a> › <a class="trail" href="media.html#videos" title="Видеозаписи и видеокамеры">Видеозаписи</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ru" title="Звук, видео и изображения">Звук, видео и изображения</a> › <a class="trail" href="media.html.ru#videos" title="Видеозаписи и видеокамеры">Видеозаписи</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Как мне активировать кодек для проигрывания DVD?</span></h1></div>
@@ -73,12 +73,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Видеозаписи и видеокамеры">Видеозаписи</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.ru#videos" title="Видеозаписи и видеокамеры">Видеозаписи</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a><span class="desc"> — Вероятно, не установлены необходимые кодеки, или DVD не из того региона.</span>
+<a href="video-dvd.html.ru" title="Why won’t DVDs play?">Why won’t DVDs play?</a><span class="desc"> — Вероятно, не установлены необходимые кодеки, или DVD не из того региона.</span>
 </li></ul></div>
 </div></div>
 </div>

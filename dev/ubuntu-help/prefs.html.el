@@ -43,78 +43,78 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Χρήστης &amp; ρυθμίσεις συστήματος</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="startup-applications.html" title="Startup Applications">Startup Applications</a></div>
+<div class="links-grid-link"><a href="startup-applications.html.el" title="Startup Applications">Startup Applications</a></div>
 <div class="desc"><span class="desc">Choose what applications to start when you log in.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="wacom.html" title="Tablet γραφικών Wacom">Tablet γραφικών Wacom</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="wacom-multi-monitor.html" title="Επιλέξτε μια οθόνη">Χαρτογράφηση μιας οθόνης</a></span>, <span class="link"><a href="wacom-stylus.html" title="Ρύθμιση της γραφίδας">Διαμόρφωση της γραφίδας</a></span>, <span class="link"><a href="wacom-left-handed.html" title="Χρησιμοποιήστε το αριστερόχειρο tablet">Χρησιμοποιώντας το tablet για αριστερόχειρες</a></span>…</span></div>
+<div class="links-grid-link"><a href="wacom.html.el" title="Tablet γραφικών Wacom">Tablet γραφικών Wacom</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="wacom-multi-monitor.html.el" title="Επιλέξτε μια οθόνη">Χαρτογράφηση μιας οθόνης</a></span>, <span class="link"><a href="wacom-stylus.html.el" title="Ρύθμιση της γραφίδας">Διαμόρφωση της γραφίδας</a></span>, <span class="link"><a href="wacom-left-handed.html.el" title="Χρησιμοποιήστε το αριστερόχειρο tablet">Χρησιμοποιώντας το tablet για αριστερόχειρες</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html#sound" title="Βασικός ήχος">Ήχος</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html" title="Αλλαγή έντασης του ήχου">Ένταση</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Χρησιμοποιήστε διαφορετικά ηχεία ή ακουστικά">Ηχεία και ακουστικά</a></span>, <span class="link"><a href="sound-usemic.html" title="Χρήση διαφορετικού μικροφώνου">Μικρόφωνα</a></span>…</span></div>
+<div class="links-grid-link"><a href="media.html.el#sound" title="Βασικός ήχος">Ήχος</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html.el" title="Αλλαγή έντασης του ήχου">Ένταση</a></span>, <span class="link"><a href="sound-usespeakers.html.el" title="Χρησιμοποιήστε διαφορετικά ηχεία ή ακουστικά">Ηχεία και ακουστικά</a></span>, <span class="link"><a href="sound-usemic.html.el" title="Χρήση διαφορετικού μικροφώνου">Μικρόφωνα</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="accounts.html" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακοί λογαριασμοί</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html" title="Προσθήκη λογαριασμού">Προσθήκη διαδικτυακού λογαριασμού</a></span>, <span class="link"><a href="accounts-remove.html" title="Αφαίρεση λογαριασμού">Αφαίρεση λογαριασμού</a></span>, <span class="link"><a href="accounts-which-application.html" title="Διαδικτυακές υπηρεσίες και εφαρμογές">Μάθετε σχετικά με τις υπηρεσίες</a></span>…</span></div>
+<div class="links-grid-link"><a href="accounts.html.el" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακοί λογαριασμοί</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html.el" title="Προσθήκη λογαριασμού">Προσθήκη διαδικτυακού λογαριασμού</a></span>, <span class="link"><a href="accounts-remove.html.el" title="Αφαίρεση λογαριασμού">Αφαίρεση λογαριασμού</a></span>, <span class="link"><a href="accounts-which-application.html.el" title="Διαδικτυακές υπηρεσίες και εφαρμογές">Μάθετε σχετικά με τις υπηρεσίες</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Γιατί είναι σημαντική η διαχείριση του χρώματος;">Γιατί είναι σημαντικό</a></span>, <span class="link"><a href="color.html#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a></span>, <span class="link"><a href="color.html#calibration" title="Βαθμονόμηση">Πώς να βαθμονομήσετε μια συσκευή</a></span>…</span></div>
+<div class="links-grid-link"><a href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.el" title="Γιατί είναι σημαντική η διαχείριση του χρώματος;">Γιατί είναι σημαντικό</a></span>, <span class="link"><a href="color.html.el#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a></span>, <span class="link"><a href="color.html.el#calibration" title="Βαθμονόμηση">Πώς να βαθμονομήσετε μια συσκευή</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-display.html" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="look-background.html" title="Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος">Παρασκήνιο</a></span>, <span class="link"><a href="look-resolution.html" title="Αλλαγή της ανάλυσης ή της περιστροφής της οθόνης">Μέγεθος και περιστροφή</a></span>, φωτεινότητα…</span></div>
+<div class="links-grid-link"><a href="prefs-display.html.el" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="look-background.html.el" title="Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος">Παρασκήνιο</a></span>, <span class="link"><a href="look-resolution.html.el" title="Αλλαγή της ανάλυσης ή της περιστροφής της οθόνης">Μέγεθος και περιστροφή</a></span>, φωτεινότητα…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="power.html" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a></div>
+<div class="links-grid-link"><a href="power.html.el" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;">screen dimming</a></span>…
+      <span class="link"><a href="power-status.html.el" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.el" title="Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.el" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;">screen dimming</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="clock.html" title="Ημερομηνία &amp; ώρα">Ημερομηνία &amp; ώρα</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="clock-set.html" title="Αλλαγή ημερομηνίας και ώρας">Ορισμός ημερομηνίας και ώρας</a></span>, <span class="link"><a href="clock-world.html" title="Προσθήκη παγκόσμιου ρολογιού">παγκόσμια ρολόγια</a></span>, <span class="link"><a href="clock-timezone.html" title="Αλλαγή της ζώνης ώρας">ζώνη ώρας</a></span>, <span class="link"><a href="clock-calendar.html" title="Συναντήσεις ημερολογίου">ημερολόγιο και συναντήσεις</a></span>…</span></div>
+<div class="links-grid-link"><a href="clock.html.el" title="Ημερομηνία &amp; ώρα">Ημερομηνία &amp; ώρα</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-set.html.el" title="Αλλαγή ημερομηνίας και ώρας">Ορισμός ημερομηνίας και ώρας</a></span>, <span class="link"><a href="clock-world.html.el" title="Προσθήκη παγκόσμιου ρολογιού">παγκόσμια ρολόγια</a></span>, <span class="link"><a href="clock-timezone.html.el" title="Αλλαγή της ζώνης ώρας">ζώνη ώρας</a></span>, <span class="link"><a href="clock-calendar.html.el" title="Συναντήσεις ημερολογίου">ημερολόγιο και συναντήσεις</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="user-accounts.html" title="Λογαριασμοί χρηστών">Λογαριασμοί χρηστών</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="user-add.html" title="Προσθήκη νέου λογαριασμού χρήστη">Προσθήκη χρήστη</a></span>, <span class="link"><a href="user-changepassword.html" title="Αλλάξτε τον κωδικό πρόσβασής σας">Αλλαγή κωδικού πρόσβασης</a></span>, <span class="link"><a href="user-admin-change.html" title="Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή">Διαχειριστές</a></span>…</span></div>
+<div class="links-grid-link"><a href="user-accounts.html.el" title="Λογαριασμοί χρηστών">Λογαριασμοί χρηστών</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="user-add.html.el" title="Προσθήκη νέου λογαριασμού χρήστη">Προσθήκη χρήστη</a></span>, <span class="link"><a href="user-changepassword.html.el" title="Αλλάξτε τον κωδικό πρόσβασής σας">Αλλαγή κωδικού πρόσβασης</a></span>, <span class="link"><a href="user-admin-change.html.el" title="Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή">Διαχειριστές</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-language.html" title="Περιοχή &amp; γλώσσα">Περιοχή &amp; γλώσσα</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-language.html" title="Αλλάξτε τη γλώσσα που χρησιμοποιείτε">Γλώσσα</a></span>, <span class="link"><a href="session-formats.html" title="Αλλαγή μορφών ημερομηνίας και μέτρησης">Περιοχή και τύποι</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Διατάξεις πληκτρολογίου</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs-language.html.el" title="Περιοχή &amp; γλώσσα">Περιοχή &amp; γλώσσα</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.el" title="Αλλάξτε τη γλώσσα που χρησιμοποιείτε">Γλώσσα</a></span>, <span class="link"><a href="session-formats.html.el" title="Αλλαγή μορφών ημερομηνίας και μέτρησης">Περιοχή και τύποι</a></span>, <span class="link"><a href="keyboard-layouts.html.el" title="Use alternative keyboard layouts">Διατάξεις πληκτρολογίου</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="keyboard.html" title="Πληκτρολόγιο">Πληκτρολόγιο</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Διατάξεις πληκτρολογίου</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Κάντε τον δρομέα πληκτρολογίου να αναβοσβήνει">αναβόσβησμα δρομέα</a></span>, <span class="link"><a href="a11y.html#mobility" title="Κινητικά προβλήματα">προσιτότητα πληκτρολογίου</a></span>…</span></div>
+<div class="links-grid-link"><a href="keyboard.html.el" title="Πληκτρολόγιο">Πληκτρολόγιο</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.el" title="Use alternative keyboard layouts">Διατάξεις πληκτρολογίου</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.el" title="Κάντε τον δρομέα πληκτρολογίου να αναβοσβήνει">αναβόσβησμα δρομέα</a></span>, <span class="link"><a href="a11y.html.el#mobility" title="Κινητικά προβλήματα">προσιτότητα πληκτρολογίου</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html" title="Ποντίκι">Ποντίκι</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html" title="Χρησιμοποιήστε το αριστερό ποντίκι">Αριστερόχειρες</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Προσαρμογή ταχύτητας του ποντικιού και τις πινακίδας αφής">Ταχύτητα και ευαισθησία</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Κάντε κλικ, σύρετε ή κυλήστε με την πινακίδα αφής">Πάτημα πινακίδας αφής και κύλιση</a></span>…</span></div>
+<div class="links-grid-link"><a href="mouse.html.el" title="Ποντίκι">Ποντίκι</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.el" title="Χρησιμοποιήστε το αριστερό ποντίκι">Αριστερόχειρες</a></span>, <span class="link"><a href="mouse-sensitivity.html.el" title="Προσαρμογή ταχύτητας του ποντικιού και τις πινακίδας αφής">Ταχύτητα και ευαισθησία</a></span>, <span class="link"><a href="mouse-touchpad-click.html.el" title="Κάντε κλικ, σύρετε ή κυλήστε με την πινακίδα αφής">Πάτημα πινακίδας αφής και κύλιση</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="privacy.html" title="Ρυθμίσεις ιδιωτικότητας">Ρυθμίσεις ιδιωτικότητας</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="privacy-screen-lock.html" title="Αυτόματο κλείδωμα της οθόνης">Κλείδωμα οθόνης</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Απενεργοποιήστε ή περιορίστε την ανίχνευση του ιστορικού αρχείων">Χρήση ιστορικού</a></span>, <span class="link"><a href="privacy-purge.html" title="Εκκαθάριση απορριμμάτων &amp; προσωρινών αρχείων">Εκκαθάριση απορριμμάτων &amp; προσωρινών αρχείων</a></span>…</span></div>
+<div class="links-grid-link"><a href="privacy.html.el" title="Ρυθμίσεις ιδιωτικότητας">Ρυθμίσεις ιδιωτικότητας</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="privacy-screen-lock.html.el" title="Αυτόματο κλείδωμα της οθόνης">Κλείδωμα οθόνης</a></span>, <span class="link"><a href="privacy-history-recent-off.html.el" title="Απενεργοποιήστε ή περιορίστε την ανίχνευση του ιστορικού αρχείων">Χρήση ιστορικού</a></span>, <span class="link"><a href="privacy-purge.html.el" title="Εκκαθάριση απορριμμάτων &amp; προσωρινών αρχείων">Εκκαθάριση απορριμμάτων &amp; προσωρινών αρχείων</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-sharing.html" title="Ρυθμίσεις κοινής χρήσης">Ρυθμίσεις κοινής χρήσης</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sharing-bluetooth.html" title="Έλεγχος κοινής χρήσης μέσω Bluetooth">Κοινή χρήση Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html" title="Μοιραστείτε τα προσωπικά σας αρχεία">Κοινή χρήση προσωπικού αρχείου</a></span>, <span class="link"><a href="sharing-desktop.html" title="Κοινή χρήση της επιφάνειας εργασίας σας">Κοινή χρήση οθόνης</a></span>, <span class="link"><a href="sharing-media.html" title="Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας">Κοινή χρήση πολυμέσων</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs-sharing.html.el" title="Ρυθμίσεις κοινής χρήσης">Ρυθμίσεις κοινής χρήσης</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-bluetooth.html.el" title="Έλεγχος κοινής χρήσης μέσω Bluetooth">Κοινή χρήση Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.el" title="Μοιραστείτε τα προσωπικά σας αρχεία">Κοινή χρήση προσωπικού αρχείου</a></span>, <span class="link"><a href="sharing-desktop.html.el" title="Κοινή χρήση της επιφάνειας εργασίας σας">Κοινή χρήση οθόνης</a></span>, <span class="link"><a href="sharing-media.html.el" title="Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας">Κοινή χρήση πολυμέσων</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Οδηγός χρήσης Ubuntu">Οδηγός χρήσης Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.el" title="Οδηγός χρήσης Ubuntu">Οδηγός χρήσης Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

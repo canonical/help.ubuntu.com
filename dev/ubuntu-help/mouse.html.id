@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,32 +54,32 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad"><span class="title">Click, drag, or scroll with the touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Click, drag, or scroll using taps and gestures on your
+<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.id" title="Click, drag, or scroll with the touchpad"><span class="title">Click, drag, or scroll with the touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Click, drag, or scroll using taps and gestures on your
     touchpad.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html" title="Gunakan tetikus Anda secara kidal"><span class="title">Gunakan tetikus Anda secara kidal</span><span class="linkdiv-dash"> — </span><span class="desc">Tukar tombol tetikus kanan dan kiri dalam pengaturan tetikus.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html" title="Klik dan gerakkan penunjuk tetikus memakai keypad"><span class="title">Klik dan gerakkan penunjuk tetikus memakai keypad</span><span class="linkdiv-dash"> — </span><span class="desc">Enable mouse keys to control the mouse with the numeric
+<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html.id" title="Gunakan tetikus Anda secara kidal"><span class="title">Gunakan tetikus Anda secara kidal</span><span class="linkdiv-dash"> — </span><span class="desc">Tukar tombol tetikus kanan dan kiri dalam pengaturan tetikus.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.id" title="Klik dan gerakkan penunjuk tetikus memakai keypad"><span class="title">Klik dan gerakkan penunjuk tetikus memakai keypad</span><span class="linkdiv-dash"> — </span><span class="desc">Enable mouse keys to control the mouse with the numeric
     keypad.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html" title="Mensimulasi klik dengan mengambang"><span class="title">Mensimulasi klik dengan mengambang</span><span class="linkdiv-dash"> — </span><span class="desc">Fitur <span class="gui">Klik Mengambang</span> (Klik Menetap) memungkinkan Anda mengklik dengan cara menahan tetikus tetap diam.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.id" title="Mensimulasi klik dengan mengambang"><span class="title">Mensimulasi klik dengan mengambang</span><span class="linkdiv-dash"> — </span><span class="desc">Fitur <span class="gui">Klik Mengambang</span> (Klik Menetap) memungkinkan Anda mengklik dengan cara menahan tetikus tetap diam.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html" title="Mensimulasi klik tombol kanan tetikus"><span class="title">Mensimulasi klik tombol kanan tetikus</span><span class="linkdiv-dash"> — </span><span class="desc">Tekan dan tahan tombol kiri tetikus untuk melakukan klik kanan.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html" title="Menyetel kecepatan tetikus dan touchpad"><span class="title">Menyetel kecepatan tetikus dan touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Change how quickly the pointer moves when you use your mouse or
+<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.id" title="Mensimulasi klik tombol kanan tetikus"><span class="title">Mensimulasi klik tombol kanan tetikus</span><span class="linkdiv-dash"> — </span><span class="desc">Tekan dan tahan tombol kiri tetikus untuk melakukan klik kanan.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.id" title="Menyetel kecepatan tetikus dan touchpad"><span class="title">Menyetel kecepatan tetikus dan touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Change how quickly the pointer moves when you use your mouse or
     touchpad.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html" title="Setel kecepatan klik ganda"><span class="title">Setel kecepatan klik ganda</span><span class="linkdiv-dash"> — </span><span class="desc">Control how quickly you need to press the mouse button
+<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.id" title="Setel kecepatan klik ganda"><span class="title">Setel kecepatan klik ganda</span><span class="linkdiv-dash"> — </span><span class="desc">Control how quickly you need to press the mouse button
     a second time to double-click.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Masalah umum</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html" title="Mouse reacts with delay before it starts working"><span class="title">Mouse reacts with delay before it starts working</span><span class="linkdiv-dash"> — </span><span class="desc">If you have to wiggle or click the mouse before it responds.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html" title="Penunjuk tetikus tak bergerak"><span class="title">Penunjuk tetikus tak bergerak</span><span class="linkdiv-dash"> — </span><span class="desc">How to check why your mouse is not working.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.id" title="Mouse reacts with delay before it starts working"><span class="title">Mouse reacts with delay before it starts working</span><span class="linkdiv-dash"> — </span><span class="desc">If you have to wiggle or click the mouse before it responds.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.id" title="Penunjuk tetikus tak bergerak"><span class="title">Penunjuk tetikus tak bergerak</span><span class="linkdiv-dash"> — </span><span class="desc">How to check why your mouse is not working.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="tips" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tips</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Klik tengah"><span class="title">Klik tengah</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.id" title="Klik tengah"><span class="title">Klik tengah</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
     more.</span></a></div></div>
 <div class="links-twocolumn"></div>
 </div></div></div></div></div>
@@ -90,10 +90,10 @@
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Papan tik">Papan tik</a></span>, <span class="link"><a href="mouse.html" title="Tetikus">tetikus</a></span>, <span class="link"><a href="prefs-display.html" title="Tampilan &amp; layar">tampilan</a></span>, <span class="link"><a href="prefs-language.html" title="Wilayah &amp; Bahasa">bahasa</a></span>, <span class="link"><a href="user-accounts.html" title="Akun pengguna">akun pengguna</a></span>…</span>
+<a href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — <span class="link"><a href="keyboard.html.id" title="Papan tik">Papan tik</a></span>, <span class="link"><a href="mouse.html.id" title="Tetikus">tetikus</a></span>, <span class="link"><a href="prefs-display.html.id" title="Tampilan &amp; layar">tampilan</a></span>, <span class="link"><a href="prefs-language.html.id" title="Wilayah &amp; Bahasa">bahasa</a></span>, <span class="link"><a href="user-accounts.html.id" title="Akun pengguna">akun pengguna</a></span>…</span>
 </li>
 <li class="links ">
-<a href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras &amp; penggerak</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Masalah umum">Masalah perangkat keras</a></span>, <span class="link"><a href="printing.html" title="Pencetakan">pencetak</a></span>, <span class="link"><a href="power.html" title="Daya &amp; baterai">pengaturan daya</a></span>, <span class="link"><a href="color.html" title="Manajemen warna">manajemen warna</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Disk &amp; penyimpanan">disk</a></span>…</span>
+<a href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras &amp; penggerak</a><span class="desc"> — <span class="link"><a href="hardware.html.id#problems" title="Masalah umum">Masalah perangkat keras</a></span>, <span class="link"><a href="printing.html.id" title="Pencetakan">pencetak</a></span>, <span class="link"><a href="power.html.id" title="Daya &amp; baterai">pengaturan daya</a></span>, <span class="link"><a href="color.html.id" title="Manajemen warna">manajemen warna</a></span>, <span class="link"><a href="bluetooth.html.id" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.id" title="Disk &amp; penyimpanan">disk</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -43,34 +43,34 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universālā piekļuve">Universālā piekļuve</a> › <a class="trail" href="a11y.html#sound" title="Dzirdes traucējumi">Dzirdes traucējumi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.lv" title="Universālā piekļuve">Universālā piekļuve</a> › <a class="trail" href="a11y.html.lv#sound" title="Dzirdes traucējumi">Dzirdes traucējumi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ekrāna zibsnīšana pie brīdinājuma skaņas saņemšanas</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Jūsu dators atskaņos vienkāršu brīdinājuma skaņu noteikta veida ziņojumiem un notikumiem. Ja jums ir grūti sadzirdēt šīs skaņas, jūs varat likt vai nu visam ekrānam, vai arī aktīvajam logam vizuāli nozibsnīt vienmēr, kad šāda brīdinājuma skaņa tiek atskaņota.</p>
-<p class="p">Tas var būt arī lietderīgi, ja esat vidē, kur nepieciešams, lai jūsu dators uzvestos klusi, piemēram, bibliotēkā. Skatiet <span class="link"><a href="sound-alert.html" title="Izvēlieties vai deaktivēt brīdinājumu skaņas">Izvēlieties vai deaktivēt brīdinājumu skaņas</a></span>, lai uzzinātu, kā apklusināt brīdinājuma skaņas, un pēc tam ieslēgt vizuālo brīdināšanu.</p>
+<p class="p">Tas var būt arī lietderīgi, ja esat vidē, kur nepieciešams, lai jūsu dators uzvestos klusi, piemēram, bibliotēkā. Skatiet <span class="link"><a href="sound-alert.html.lv" title="Izvēlieties vai deaktivēt brīdinājumu skaņas">Izvēlieties vai deaktivēt brīdinājumu skaņas</a></span>, lai uzzinātu, kā apklusināt brīdinājuma skaņas, un pēc tam ieslēgt vizuālo brīdināšanu.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Universālā piekļuve</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Universālā piekļuve</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Universālā piekļuve</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Spiediet uz <span class="gui">Vizuālie brīdinājumi</span> sadaļā <span class="gui">Dzirdēšana</span>.</p></li>
 <li class="steps"><p class="p">Pārslēdziet <span class="gui">Vizuālie brīdinājumi</span> uz <span class="gui">|</span>.</p></li>
 <li class="steps"><p class="p">Izvēlieties, vai vēlaties visa ekrāna, vai tikai aktīvā loga virsraksta zibsnīšanu.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Padoms"><div class="inner"><div class="region"><div class="contents"><p class="p">Jūs varat ātri ieslēgt un izslēgt vizuālos brīdinājumus, spiežot uz <span class="link"><a href="a11y-icon.html" title="Atrodiet universālās piekļuves izvēlni">pieejamības ikonas</a></span> augšējā joslā un izvēloties <span class="gui">Vizuālie brīdinājumi</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Padoms"><div class="inner"><div class="region"><div class="contents"><p class="p">Jūs varat ātri ieslēgt un izslēgt vizuālos brīdinājumus, spiežot uz <span class="link"><a href="a11y-icon.html.lv" title="Atrodiet universālās piekļuves izvēlni">pieejamības ikonas</a></span> augšējā joslā un izvēloties <span class="gui">Vizuālie brīdinājumi</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#sound" title="Dzirdes traucējumi">Dzirdes traucējumi</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.lv#sound" title="Dzirdes traucējumi">Dzirdes traucējumi</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-alert.html" title="Izvēlieties vai deaktivēt brīdinājumu skaņas">Izvēlieties vai deaktivēt brīdinājumu skaņas</a><span class="desc"> — Izvēlieties skaņu, kuru atskaņot paziņojumiem, iestatiet brīdinājumu skaļumu vai deaktivējiet brīdinājuma skaņas.</span>
+<a href="sound-alert.html.lv" title="Izvēlieties vai deaktivēt brīdinājumu skaņas">Izvēlieties vai deaktivēt brīdinājumu skaņas</a><span class="desc"> — Izvēlieties skaņu, kuru atskaņot paziņojumiem, iestatiet brīdinājumu skaļumu vai deaktivējiet brīdinājuma skaņas.</span>
 </li></ul></div>
 </div></div>
 </div>

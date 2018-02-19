@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="sharing.html" title="Compartilhamento">Compartilhamento</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="sharing.html.pt-BR" title="Compartilhamento">Compartilhamento</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Para compartilhar um arquivo por e-mail:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o aplicativo <span class="app">Arquivos</span> no panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span>.</p></li>
+<li class="steps"><p class="p">Abra o aplicativo <span class="app">Arquivos</span> no panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span>.</p></li>
 <li class="steps"><p class="p">Localize o arquivo que queira transferir.</p></li>
 <li class="steps"><p class="p">Clique com o botão direito no arquivo e selecione <span class="gui">Enviar para…</span>. Uma janela de compositor de e-mail aparecerá com o arquivo anexado.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Para</span> para escolher um contato ou para digitar um endereço de e-mail para o qual você desejar enviar o arquivo. Preencha no <span class="gui">Assunto</span> e no corpo da mensagem como solicitado e clique <span class="gui">Enviar</span>.</p></li>
@@ -73,19 +73,19 @@
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Compartilhamento">Compartilhamento</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Compartilhando sua área de trabalho">Compartilhamento da área de trabalho</a></span>, <span class="link"><a href="files-share.html" title="Compartilhando arquivos por e-mail">Compartilhar arquivos por e-mail</a></span>, <span class="link"><a href="sharing-media.html" title="Compartilhando suas músicas, fotos e vídeos">Compartilhamento de multimídia</a></span>…</span>
+<a href="sharing.html.pt-BR" title="Compartilhamento">Compartilhamento</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.pt-BR" title="Compartilhando sua área de trabalho">Compartilhamento da área de trabalho</a></span>, <span class="link"><a href="files-share.html.pt-BR" title="Compartilhando arquivos por e-mail">Compartilhar arquivos por e-mail</a></span>, <span class="link"><a href="sharing-media.html.pt-BR" title="Compartilhando suas músicas, fotos e vídeos">Compartilhamento de multimídia</a></span>…</span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a></li>
+<li class="links "><a href="files.html.pt-BR#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-send-file.html" title="Enviando arquivos a um dispositivo Bluetooth">Enviando arquivos a um dispositivo Bluetooth</a><span class="desc"> — Compartilhe arquivos a dispositivos Bluetooth tais como seu celular.</span>
+<a href="bluetooth-send-file.html.pt-BR" title="Enviando arquivos a um dispositivo Bluetooth">Enviando arquivos a um dispositivo Bluetooth</a><span class="desc"> — Compartilhe arquivos a dispositivos Bluetooth tais como seu celular.</span>
 </li>
 <li class="links ">
-<a href="nautilus-connect.html" title="Navegando nos arquivos em um servidor ou compartilhamento de rede">Navegando nos arquivos em um servidor ou compartilhamento de rede</a><span class="desc"> — Veja e edite arquivos em outro computador via FTP, SSH, compartilhamentos Windows ou WebDAV.</span>
+<a href="nautilus-connect.html.pt-BR" title="Navegando nos arquivos em um servidor ou compartilhamento de rede">Navegando nos arquivos em um servidor ou compartilhamento de rede</a><span class="desc"> — Veja e edite arquivos em outro computador via FTP, SSH, compartilhamentos Windows ou WebDAV.</span>
 </li>
 </ul></div>
 </div></div>

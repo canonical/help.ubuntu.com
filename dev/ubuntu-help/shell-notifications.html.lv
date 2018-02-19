@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Jūsu darbvirsma">Darbvirsma</a> › <a class="trail" href="shell-overview.html#desktop" title="Pielāgot savu darbvirsmu">Pielāgot savu darbvirsmu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.lv" title="Jūsu darbvirsma">Darbvirsma</a> › <a class="trail" href="shell-overview.html.lv#desktop" title="Pielāgot savu darbvirsmu">Pielāgot savu darbvirsmu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Paziņojumi un ziņojumu paplāte</span></h1></div>
@@ -61,7 +61,7 @@
 <div id="messagetray" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ziņojumu paplāte</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Ziņojumu paplāte ļauj atgriezties pie paziņojumiem ērtākā brīdī. Tā parādās spiežot uz pulksteņa <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span>. Ziņojumu paplāte satur visus paziņojumus, uz kuriem vēl neesat atbildējis vai kas tajā atrodas pastāvīgi.</p>
+<p class="p">Ziņojumu paplāte ļauj atgriezties pie paziņojumiem ērtākā brīdī. Tā parādās spiežot uz pulksteņa <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.lv" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span>. Ziņojumu paplāte satur visus paziņojumus, uz kuriem vēl neesat atbildējis vai kas tajā atrodas pastāvīgi.</p>
 <p class="p">Paziņojumus var apskatīt, spiežot uz ziņojumu paplātes vienumiem. Parasti, šīs ir lietotņu sūtītās ziņas. Kaut gan tērzēšanas paziņojumiem tiek dotas īpašas privilēģijas un tos attēlo individuālie kontakti, no kuriem ir pienākusi tērzēšanas ziņa.</p>
 <p class="p">Jūs varat aizvērt ziņojumu paplāti, atkal spiežot <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> vai <span class="key"><kbd>Esc</kbd></span>.</p>
 </div></div>
@@ -71,7 +71,7 @@
 <div class="region"><div class="contents">
 <p class="p">Ja strādājat un nevēlaties tapt traucēts, paziņojumus varat izslēgt.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Paziņojumi</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Paziņojumi</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Paziņojumi</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Pārslēdziet <span class="gui">Paziņojumu lentas</span> uz <span class="gui">◯</span>.</p></li>
 </ol></div></div></div>
@@ -83,7 +83,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="Pielāgot savu darbvirsmu">Pielāgot savu darbvirsmu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.lv#desktop" title="Pielāgot savu darbvirsmu">Pielāgot savu darbvirsmu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

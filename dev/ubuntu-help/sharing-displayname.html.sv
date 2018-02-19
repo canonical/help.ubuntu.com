@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="prefs-sharing.html" title="Dela-inställningar">Dela-inställningar</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="prefs-sharing.html.sv" title="Dela-inställningar">Dela-inställningar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ställ in visningsnamnet för din dator</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Ändra visningsnamnet för din dator:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Dela</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Dela</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Dela</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Redigera texten nedan för <span class="gui">Datornamn</span> för att ändra namnet din dator visar på nätverket.</p></li>
 </ol></div>
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-sharing.html" title="Dela-inställningar">Dela-inställningar</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Styr delning över Bluetooth">Bluetooth-delning</a></span>, <span class="link"><a href="sharing-personal.html" title="Dela ut dina personliga filer">Delning av personliga filer</a></span>, <span class="link"><a href="sharing-desktop.html" title="Dela ditt skrivbord">Skärmdelning</a></span>, <span class="link"><a href="sharing-media.html" title="Dela din musik, foton och videor">Mediadelning</a></span>…</span>
+<a href="prefs-sharing.html.sv" title="Dela-inställningar">Dela-inställningar</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.sv" title="Styr delning över Bluetooth">Bluetooth-delning</a></span>, <span class="link"><a href="sharing-personal.html.sv" title="Dela ut dina personliga filer">Delning av personliga filer</a></span>, <span class="link"><a href="sharing-desktop.html.sv" title="Dela ditt skrivbord">Skärmdelning</a></span>, <span class="link"><a href="sharing-media.html.sv" title="Dela din musik, foton och videor">Mediadelning</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

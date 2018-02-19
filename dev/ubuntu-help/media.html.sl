@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zvok, video in slike</span></h1></div>
@@ -54,13 +54,13 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-broken.html" title="Težave z zvokom"><span class="title">Težave z zvokom</span><span class="linkdiv-dash"> — </span><span class="desc">Odpravljanje težav kot je računalnik brez zvoka ali s slabo kakovostjo zvoka.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-alert.html" title="Izbira ali onemogočitev opozorilnega zvoka"><span class="title">Izbira ali onemogočitev opozorilnega zvoka</span><span class="linkdiv-dash"> — </span><span class="desc">Izberite zvok za predvajanje ob novih sporočilih, nastavite glasnost opozoril ali onemogočite opozorilne zvoke.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-volume.html" title="Spreminjanje glasnosti zvoka"><span class="title">Spreminjanje glasnosti zvoka</span><span class="linkdiv-dash"> — </span><span class="desc">Nastavitev glasnosti za računalnik in nadziranje glasnosti vsakega programa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-broken.html.sl" title="Težave z zvokom"><span class="title">Težave z zvokom</span><span class="linkdiv-dash"> — </span><span class="desc">Odpravljanje težav kot je računalnik brez zvoka ali s slabo kakovostjo zvoka.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-alert.html.sl" title="Izbira ali onemogočitev opozorilnega zvoka"><span class="title">Izbira ali onemogočitev opozorilnega zvoka</span><span class="linkdiv-dash"> — </span><span class="desc">Izberite zvok za predvajanje ob novih sporočilih, nastavite glasnost opozoril ali onemogočite opozorilne zvoke.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-volume.html.sl" title="Spreminjanje glasnosti zvoka"><span class="title">Spreminjanje glasnosti zvoka</span><span class="linkdiv-dash"> — </span><span class="desc">Nastavitev glasnosti za računalnik in nadziranje glasnosti vsakega programa.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html" title="Uporaba drugega mikrofona"><span class="title">Uporaba drugega mikrofona</span><span class="linkdiv-dash"> — </span><span class="desc">Uporabite analogni ali USB mikrofon in izberite privzeto vhodno napravo.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html" title="Uporaba drugih zvočnikov ali slušalk"><span class="title">Uporaba drugih zvočnikov ali slušalk</span><span class="linkdiv-dash"> — </span><span class="desc">Povežite zvočnike ali slušalke in izberite privzeto izhodno zvočno napravo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html.sl" title="Uporaba drugega mikrofona"><span class="title">Uporaba drugega mikrofona</span><span class="linkdiv-dash"> — </span><span class="desc">Uporabite analogni ali USB mikrofon in izberite privzeto vhodno napravo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html.sl" title="Uporaba drugih zvočnikov ali slušalk"><span class="title">Uporaba drugih zvočnikov ali slušalk</span><span class="linkdiv-dash"> — </span><span class="desc">Povežite zvočnike ali slušalke in izberite privzeto izhodno zvočno napravo.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Več podrobnosti</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Uporabniške in sistemske nastavitve">Uporabniške in sistemske nastavitve</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tipkovnica">Tipkovnica</a></span>, <span class="link"><a href="mouse.html" title="Miška">miška</a></span>, <span class="link"><a href="prefs-display.html" title="Zaslon">zaslon</a></span>, <span class="link"><a href="prefs-language.html" title="Področje in jezik">jeziki</a></span>, <span class="link"><a href="user-accounts.html" title="Uporabniški računi">uporabniški računi</a></span> …</span>
+<a href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Uporabniške in sistemske nastavitve</a><span class="desc"> — <span class="link"><a href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a></span>, <span class="link"><a href="mouse.html.sl" title="Miška">miška</a></span>, <span class="link"><a href="prefs-display.html.sl" title="Zaslon">zaslon</a></span>, <span class="link"><a href="prefs-language.html.sl" title="Področje in jezik">jeziki</a></span>, <span class="link"><a href="user-accounts.html.sl" title="Uporabniški računi">uporabniški računi</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -78,33 +78,33 @@
 <div class="hgroup"><h2 class="title"><span class="title">Glasba in prenosni predvajalniki zvoka</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="I can’t play the songs I bought from an online music store"><span class="title">I can’t play the songs I bought from an online music store</span><span class="linkdiv-dash"> — </span><span class="desc">Support for that file format might not be installed or the songs could be “copy protected”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html" title="My new iPod won’t work"><span class="title">My new iPod won’t work</span><span class="linkdiv-dash"> — </span><span class="desc">Nove iPode morate pred uporabo nastaviti z uporabo programa iTunes.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html.sl" title="I can’t play the songs I bought from an online music store"><span class="title">I can’t play the songs I bought from an online music store</span><span class="linkdiv-dash"> — </span><span class="desc">Support for that file format might not be installed or the songs could be “copy protected”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html.sl" title="My new iPod won’t work"><span class="title">My new iPod won’t work</span><span class="linkdiv-dash"> — </span><span class="desc">Nove iPode morate pred uporabo nastaviti z uporabo programa iTunes.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Odpiranje programov za naprave ali diske"><span class="title">Odpiranje programov za naprave ali diske</span><span class="linkdiv-dash"> — </span><span class="desc">Samodejno poganjanje programov za CD-je in DVD-je, fotoaparate, predvajalnike zvoka in druge naprave in medije.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html" title="Songs don’t appear on my iPod when I copy them onto it"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span><span class="linkdiv-dash"> — </span><span class="desc">Za kopiranje glasbe in varno odstranjevanje iPoda uporabite večpredstavnostni predvajalnik.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.sl" title="Odpiranje programov za naprave ali diske"><span class="title">Odpiranje programov za naprave ali diske</span><span class="linkdiv-dash"> — </span><span class="desc">Samodejno poganjanje programov za CD-je in DVD-je, fotoaparate, predvajalnike zvoka in druge naprave in medije.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html.sl" title="Songs don’t appear on my iPod when I copy them onto it"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span><span class="linkdiv-dash"> — </span><span class="desc">Za kopiranje glasbe in varno odstranjevanje iPoda uporabite večpredstavnostni predvajalnik.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="photos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Fotografije in digitalni fotoaparati</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Odpiranje programov za naprave ali diske"><span class="title">Odpiranje programov za naprave ali diske</span><span class="linkdiv-dash"> — </span><span class="desc">Samodejno poganjanje programov za CD-je in DVD-je, fotoaparate, predvajalnike zvoka in druge naprave in medije.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html" title="Težave z bralnikom večpredstavnosnih kartic"><span class="title">Težave z bralnikom večpredstavnosnih kartic</span><span class="linkdiv-dash"> — </span><span class="desc">Odpravljanje težav čitalcev kartic</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.sl" title="Odpiranje programov za naprave ali diske"><span class="title">Odpiranje programov za naprave ali diske</span><span class="linkdiv-dash"> — </span><span class="desc">Samodejno poganjanje programov za CD-je in DVD-je, fotoaparate, predvajalnike zvoka in druge naprave in medije.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html.sl" title="Težave z bralnikom večpredstavnosnih kartic"><span class="title">Težave z bralnikom večpredstavnosnih kartic</span><span class="linkdiv-dash"> — </span><span class="desc">Odpravljanje težav čitalcev kartic</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="videos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Videoposnetki in video kamere</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Odpiranje programov za naprave ali diske"><span class="title">Odpiranje programov za naprave ali diske</span><span class="linkdiv-dash"> — </span><span class="desc">Samodejno poganjanje programov za CD-je in DVD-je, fotoaparate, predvajalnike zvoka in druge naprave in medije.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-sending.html" title="Other people can’t play the videos I made"><span class="title">Other people can’t play the videos I made</span><span class="linkdiv-dash"> — </span><span class="desc">Preverijo, da imajo nameščene prave kodeke.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="app-cheese.html" title="Ustvarjanje zabavnih fotografij in videov s spletno kamero"><span class="title">Ustvarjanje zabavnih fotografij in videov s spletno kamero</span><span class="linkdiv-dash"> — </span><span class="desc">To je kot da bi imeli svojo fotografsko kabino.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.sl" title="Odpiranje programov za naprave ali diske"><span class="title">Odpiranje programov za naprave ali diske</span><span class="linkdiv-dash"> — </span><span class="desc">Samodejno poganjanje programov za CD-je in DVD-je, fotoaparate, predvajalnike zvoka in druge naprave in medije.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-sending.html.sl" title="Other people can’t play the videos I made"><span class="title">Other people can’t play the videos I made</span><span class="linkdiv-dash"> — </span><span class="desc">Preverijo, da imajo nameščene prave kodeke.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="app-cheese.html.sl" title="Ustvarjanje zabavnih fotografij in videov s spletno kamero"><span class="title">Ustvarjanje zabavnih fotografij in videov s spletno kamero</span><span class="linkdiv-dash"> — </span><span class="desc">To je kot da bi imeli svojo fotografsko kabino.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="video-dvd.html" title="Why won’t DVDs play?"><span class="title">Why won’t DVDs play?</span><span class="linkdiv-dash"> — </span><span class="desc">Morda nimate nameščenih pravih kodekov ali pa je DVD iz napačne regije.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html" title="Kaj naj omogočim omejene kodeke za predvajanje DVD-jev?"><span class="title">Kaj naj omogočim omejene kodeke za predvajanje DVD-jev?</span><span class="linkdiv-dash"> — </span><span class="desc">Večina komercialnih DVD-jev je šifriranih, zato jih ne boste mogli predvajati brez programov za odšifriranje.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd.html.sl" title="Why won’t DVDs play?"><span class="title">Why won’t DVDs play?</span><span class="linkdiv-dash"> — </span><span class="desc">Morda nimate nameščenih pravih kodekov ali pa je DVD iz napačne regije.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html.sl" title="Kaj naj omogočim omejene kodeke za predvajanje DVD-jev?"><span class="title">Kaj naj omogočim omejene kodeke za predvajanje DVD-jev?</span><span class="linkdiv-dash"> — </span><span class="desc">Večina komercialnih DVD-jev je šifriranih, zato jih ne boste mogli predvajati brez programov za odšifriranje.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -112,7 +112,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.sl" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

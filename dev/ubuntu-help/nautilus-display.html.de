@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a> » <a class="trail" href="nautilus-prefs.html" title="Einstellungen für die Dateiverwaltung">Einstellungen für die Dateiverwaltung</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.de" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html.de#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a> » <a class="trail" href="nautilus-prefs.html.de" title="Einstellungen für die Dateiverwaltung">Einstellungen für die Dateiverwaltung</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Einstellungen für die Anzeige der Dateiverwaltung</span></h1></div>
@@ -55,7 +55,7 @@
 <div class="media media-image floatend"><div class="inner"><img src="figures/nautilus-icons.png" height="110" width="250" class="media media-block" alt="Einstellungen für die Spalten in der Dateiverwaltungssymbole mit Beschriftungen"></div></div>
 <p class="p">Wenn Sie die Symbolansicht verwenden, können Sie zusätzliche Informationen über Dateien und Ordner in einer Beschriftung unter jedem einzelnen Symbol anzeigen lassen. Dies ist zum Beispiel nützlich, wenn Sie oft überprüfen müssen, wer der Besitzer einer Datei ist oder wann sie das letzte Mal geändert wurde.</p>
 <p class="p">Sie können einen Ordner vergrößern, indem Sie auf den Ansichtsoptionen-Knopf in der Werkzeugleiste klicken und die Vergrößerungsstufe mit dem Schieberegler wählen. Je weiter Sie die Ansicht vergrößern, desto mehr Informationen werden in den Symbolbeschriftungen angezeigt. Sie können bis zu drei Informationen pro Beschriftungen anzeigen lassen. Die erste wird in den meisten Ansichtsgrößen angezeigt, die letzte nur bei sehr starker Vergrößerung.</p>
-<p class="p">Die Informationen, die Sie in den Symbolbeschriftungen anzeigen lassen können, sind dieselben, die in der Listenansicht zur Verfügung stehen. Siehe <span class="link"><a href="nautilus-list.html" title="Einstellungen für die Spalten in der Dateiverwaltung">Einstellungen für die Spalten in der Dateiverwaltung</a></span> für weitere Informationen.</p>
+<p class="p">Die Informationen, die Sie in den Symbolbeschriftungen anzeigen lassen können, sind dieselben, die in der Listenansicht zur Verfügung stehen. Siehe <span class="link"><a href="nautilus-list.html.de" title="Einstellungen für die Spalten in der Dateiverwaltung">Einstellungen für die Spalten in der Dateiverwaltung</a></span> für weitere Informationen.</p>
 </div></div>
 </div></div>
 <div id="list-view" class="sect"><div class="inner">
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Einstellungen für die Dateiverwaltung">Einstellungen für die Dateiverwaltung</a><span class="desc"> — Einstellungen der Dateiverwaltung anzeigen und ändern.</span>
+<a href="nautilus-prefs.html.de" title="Einstellungen für die Dateiverwaltung">Einstellungen für die Dateiverwaltung</a><span class="desc"> — Einstellungen der Dateiverwaltung anzeigen und ändern.</span>
 </li></ul></div>
 </div></div></div>
 </div>

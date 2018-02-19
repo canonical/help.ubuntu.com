@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="color.html" title="Správa barev">Správa barev</a> › <a class="trail" href="color.html#profiles" title="Profily barev">Profily barev</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="color.html.cs" title="Správa barev">Správa barev</a> › <a class="trail" href="color.html.cs#profiles" title="Profily barev">Profily barev</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="color.html" title="Správa barev">Správa barev</a> › <a class="trail" href="color.html#profiles" title="Profily barev">Profily barev</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="color.html.cs" title="Správa barev">Správa barev</a> › <a class="trail" href="color.html.cs#profiles" title="Profily barev">Profily barev</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,28 +56,28 @@
 <p class="p">Profil barev můžete naimportovat tím, že dvojitě kliknete na soubor <span class="file">.ICC</span> nebo <span class="file">.ICM</span> ve správci souborů.</p>
 <p class="p">Případně můžete své profily barev spravovat v panelu <span class="gui">Barvy</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Barvy</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Barvy</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Barvy</span> otevřete příslušný panel a vyberte své zařízení.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Přidat profil</span> pro výběr stávajícího profilu nebo import nového profilu.</p></li>
 <li class="steps"><p class="p">Zmáčknutím <span class="gui">Přidat</span> svoji volbu potvrdíte.</p></li>
 </ol></div></div></div>
-<p class="p">Výrobce může mít podporu v podobě profilu, který můžete použít. Tyto profily jsou ale obvykle vytvořeny pro průměrný displej, takže nejsou přesné pro ten váš konkrétní kus. Z důvodu lepší kalibrace byste si měli <span class="link"><a href="color-calibrate-screen.html" title="Jak můžu zkalibrovat svoji obrazovku?">vytvořit svůj vlastní profil</a></span> pomocí kolorimetru nebo spektrofotometru.</p>
+<p class="p">Výrobce může mít podporu v podobě profilu, který můžete použít. Tyto profily jsou ale obvykle vytvořeny pro průměrný displej, takže nejsou přesné pro ten váš konkrétní kus. Z důvodu lepší kalibrace byste si měli <span class="link"><a href="color-calibrate-screen.html.cs" title="Jak můžu zkalibrovat svoji obrazovku?">vytvořit svůj vlastní profil</a></span> pomocí kolorimetru nebo spektrofotometru.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Profily barev">Profily barev</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.cs#profiles" title="Profily barev">Profily barev</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Co je to profil barev?">Co je to profil barev?</a><span class="desc"> — Profil barev je jednoduchý soubor, který vyjadřuje prostor barev nebo odezvu zařízení.</span>
+<a href="color-whatisprofile.html.cs" title="Co je to profil barev?">Co je to profil barev?</a><span class="desc"> — Profil barev je jednoduchý soubor, který vyjadřuje prostor barev nebo odezvu zařízení.</span>
 </li>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Jak můžu svým zařízení přiřadit profily?">Jak můžu svým zařízení přiřadit profily?</a><span class="desc"> — Na přidání profilu barev se podívejte do <span class="guiseq"><span class="gui">Nastavení</span> ▸ <span class="gui">Barvy</span></span>.</span>
+<a href="color-assignprofiles.html.cs" title="Jak můžu svým zařízení přiřadit profily?">Jak můžu svým zařízení přiřadit profily?</a><span class="desc"> — Na přidání profilu barev se podívejte do <span class="guiseq"><span class="gui">Nastavení</span> ▸ <span class="gui">Barvy</span></span>.</span>
 </li>
 </ul></div>
 </div></div>

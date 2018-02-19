@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-browser.html" title="Web Browsers">Web Browsers</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hi" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-browser.html.hi" title="Web Browsers">Web Browsers</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Install the Flash plug-in</span></h1></div>
@@ -75,7 +75,7 @@ that needs it. Flash is available as a free (but not open-source) download for m
 <p class="p">The <span class="app">adobe-flashplugin</span> package provides both the NPAPI and PPAPI plug-ins, i.e. it provides
  Flash for both Firefox and Chromium like web browsers.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Make sure that the <span class="link"><a href="addremove-sources.html#canonical-partner" title="Activate the Canonical Partner repository">Canonical Partner repository is activated</a></span>.</p></li>
+<li class="steps"><p class="p">Make sure that the <span class="link"><a href="addremove-sources.html.hi#canonical-partner" title="Activate the Canonical Partner repository">Canonical Partner repository is activated</a></span>.</p></li>
 <li class="steps"><p class="p">Install the <span class="link"><a href="https://apps.ubuntu.com/cat/applications/adobe-flashplugin" title="https://apps.ubuntu.com/cat/applications/adobe-flashplugin">adobe-flashplugin</a></span> package.</p></li>
 <li class="steps"><p class="p">Restart your browser.</p></li>
 </ol></div></div></div>
@@ -104,9 +104,9 @@ that needs it. Flash is available as a free (but not open-source) download for m
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">अधिक जानकारी</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Web Browsers">Web Browsers</a><span class="desc"> — 
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="Install the Flash plug-in">install Flash</a></span>…
+<a href="net-browser.html.hi" title="Web Browsers">Web Browsers</a><span class="desc"> — 
+      <span class="link"><a href="net-default-browser.html.hi" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-install-flash.html.hi" title="Install the Flash plug-in">install Flash</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

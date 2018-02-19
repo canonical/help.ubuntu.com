@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="color.html" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html.el#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="color.html" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html.el#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,28 +56,28 @@
 <p class="p">Μπορείτε να εισάγετε ένα προφίλ χρώματος κάνοντας διπλό κλικ σε ένα αρχείο <span class="file">.ICC</span> ή <span class="file">.ICM</span> στον περιηγητή αρχείων.</p>
 <p class="p">Εναλλακτικά, μπορείτε να διαχειριστείτε τα προφίλ χρώματος μέσα από τον πίνακα <span class="gui">Χρώμα</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Χρώμα</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Χρώμα</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Χρώμα</span> για να ανοίξετε τον πίνακα και να επιλέξετε τη συσκευή σας.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στην <span class="gui">Προσθήκη προφίλ</span> για να επιλέξετε ένα υπάρχον προφίλ ή να εισάγετε ένα νέο προφίλ.</p></li>
 <li class="steps"><p class="p">Πατήστε <span class="gui">Προσθήκη</span> για να επιβεβαιώσετε την επιλογή σας.</p></li>
 </ol></div></div></div>
-<p class="p">Ο κατασκευαστής της οθόνης σας μπορεί να παράσχει ένα προφίλ που μπορείτε να χρησιμοποιήσετε. Αυτά τα προφίλ είναι συνήθως κατασκευασμένα για τη μέση οθόνη, έτσι μπορεί να μην είναι τέλεια για τη συγκεκριμένη οθόνη σας. Για την καλύτερη βαθμονόμηση, θα πρέπει να <span class="link"><a href="color-calibrate-screen.html" title="Πως βαθμονομώ την οθόνη μου;">δημιουργήσετε το δικό σας προφίλ</a></span> χρησιμοποιώντας ένα χρωματόμετρο ή φασματοφωτόμετρο.</p>
+<p class="p">Ο κατασκευαστής της οθόνης σας μπορεί να παράσχει ένα προφίλ που μπορείτε να χρησιμοποιήσετε. Αυτά τα προφίλ είναι συνήθως κατασκευασμένα για τη μέση οθόνη, έτσι μπορεί να μην είναι τέλεια για τη συγκεκριμένη οθόνη σας. Για την καλύτερη βαθμονόμηση, θα πρέπει να <span class="link"><a href="color-calibrate-screen.html.el" title="Πως βαθμονομώ την οθόνη μου;">δημιουργήσετε το δικό σας προφίλ</a></span> χρησιμοποιώντας ένα χρωματόμετρο ή φασματοφωτόμετρο.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.el#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Πώς αποδίδονται προφίλ στις συσκευές;">Πώς αποδίδονται προφίλ στις συσκευές;</a><span class="desc"> — Ψάξτε στις <span class="guiseq"><span class="gui">Ρυθμίσεις</span> ▸ <span class="gui">Χρώμα</span></span> για να προσθέσετε ένα προφίλ χρώματος για την οθόνη σας.</span>
+<a href="color-assignprofiles.html.el" title="Πώς αποδίδονται προφίλ στις συσκευές;">Πώς αποδίδονται προφίλ στις συσκευές;</a><span class="desc"> — Ψάξτε στις <span class="guiseq"><span class="gui">Ρυθμίσεις</span> ▸ <span class="gui">Χρώμα</span></span> για να προσθέσετε ένα προφίλ χρώματος για την οθόνη σας.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Τι είναι ένα προφίλ χρώματος;">Τι είναι ένα προφίλ χρώματος;</a><span class="desc"> — Ένα προφίλ χρώματος είναι ένα απλό αρχείο που εκφράζει ένα χρωματικό χώρο ή απόκριση μιας συσκευής.</span>
+<a href="color-whatisprofile.html.el" title="Τι είναι ένα προφίλ χρώματος;">Τι είναι ένα προφίλ χρώματος;</a><span class="desc"> — Ένα προφίλ χρώματος είναι ένα απλό αρχείο που εκφράζει ένα χρωματικό χώρο ή απόκριση μιας συσκευής.</span>
 </li>
 </ul></div>
 </div></div>

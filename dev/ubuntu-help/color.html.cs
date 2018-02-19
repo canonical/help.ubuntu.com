@@ -44,28 +44,28 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Správa barev</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="color-assignprofiles.html" title="Jak můžu svým zařízení přiřadit profily?"><span class="title">Jak můžu svým zařízení přiřadit profily?</span><span class="linkdiv-dash"> — </span><span class="desc">Na přidání profilu barev se podívejte do <span class="guiseq"><span class="gui">Nastavení</span> ▸ <span class="gui">Barvy</span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-whyimportant.html" title="Proč je správa barev důležitá?"><span class="title">Proč je správa barev důležitá?</span><span class="linkdiv-dash"> — </span><span class="desc">Správa barev je důležitá pro grafiky, fotografy a umělce.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-assignprofiles.html.cs" title="Jak můžu svým zařízení přiřadit profily?"><span class="title">Jak můžu svým zařízení přiřadit profily?</span><span class="linkdiv-dash"> — </span><span class="desc">Na přidání profilu barev se podívejte do <span class="guiseq"><span class="gui">Nastavení</span> ▸ <span class="gui">Barvy</span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whyimportant.html.cs" title="Proč je správa barev důležitá?"><span class="title">Proč je správa barev důležitá?</span><span class="linkdiv-dash"> — </span><span class="desc">Správa barev je důležitá pro grafiky, fotografy a umělce.</span></a></div>
 </div></div></div></div>
 <div id="profiles" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Profily barev</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-whatisprofile.html" title="Co je to profil barev?"><span class="title">Co je to profil barev?</span><span class="linkdiv-dash"> — </span><span class="desc">Profil barev je jednoduchý soubor, který vyjadřuje prostor barev nebo odezvu zařízení.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-whatisspace.html" title="Co je to prostor barev?"><span class="title">Co je to prostor barev?</span><span class="linkdiv-dash"> — </span><span class="desc">Prostor barev je definovaný rozsah barev.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whatisprofile.html.cs" title="Co je to profil barev?"><span class="title">Co je to profil barev?</span><span class="linkdiv-dash"> — </span><span class="desc">Profil barev je jednoduchý soubor, který vyjadřuje prostor barev nebo odezvu zařízení.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whatisspace.html.cs" title="Co je to prostor barev?"><span class="title">Co je to prostor barev?</span><span class="linkdiv-dash"> — </span><span class="desc">Prostor barev je definovaný rozsah barev.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html" title="Jak mohu naimportovat profily barev?"><span class="title">Jak mohu naimportovat profily barev?</span><span class="linkdiv-dash"> — </span><span class="desc">Profily barev lze naimportovat jejich otevřením.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-gettingprofiles.html" title="Kde získám profily barev?"><span class="title">Kde získám profily barev?</span><span class="linkdiv-dash"> — </span><span class="desc">Profily barev jsou poskytovány výrobci a můžete si je sami vygenerovat.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html.cs" title="Jak mohu naimportovat profily barev?"><span class="title">Jak mohu naimportovat profily barev?</span><span class="linkdiv-dash"> — </span><span class="desc">Profily barev lze naimportovat jejich otevřením.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-gettingprofiles.html.cs" title="Kde získám profily barev?"><span class="title">Kde získám profily barev?</span><span class="linkdiv-dash"> — </span><span class="desc">Profily barev jsou poskytovány výrobci a můžete si je sami vygenerovat.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -73,17 +73,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Kalibrace</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html" title="Jak můžu zkalibrovat svoji obrazovku?"><span class="title">Jak můžu zkalibrovat svoji obrazovku?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrace obrazovky je důležitá, aby zobrazovala věrné barvy.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html" title="Jak můžu zkalibrovat svoji tiskárnu?"><span class="title">Jak můžu zkalibrovat svoji tiskárnu?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrace tiskárny je důležitá, aby tiskla věrné barvy.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html" title="Jak můžu zkalibrovat svůj fotoaparát?"><span class="title">Jak můžu zkalibrovat svůj fotoaparát?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrace fotoaparátu je důležitá, aby snímal věrné barvy.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html" title="Jak můžu zkalibrovat svůj skener?"><span class="title">Jak můžu zkalibrovat svůj skener?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrace skeneru je důležitá, aby snímal věrné barvy.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="Jaký je rozdíl mez kalibrací a charakterizací?"><span class="title">Jaký je rozdíl mez kalibrací a charakterizací?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrace a charakterizace jsou dvě zcela odlišné věci.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html.cs" title="Jak můžu zkalibrovat svoji obrazovku?"><span class="title">Jak můžu zkalibrovat svoji obrazovku?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrace obrazovky je důležitá, aby zobrazovala věrné barvy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html.cs" title="Jak můžu zkalibrovat svoji tiskárnu?"><span class="title">Jak můžu zkalibrovat svoji tiskárnu?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrace tiskárny je důležitá, aby tiskla věrné barvy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html.cs" title="Jak můžu zkalibrovat svůj fotoaparát?"><span class="title">Jak můžu zkalibrovat svůj fotoaparát?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrace fotoaparátu je důležitá, aby snímal věrné barvy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html.cs" title="Jak můžu zkalibrovat svůj skener?"><span class="title">Jak můžu zkalibrovat svůj skener?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrace skeneru je důležitá, aby snímal věrné barvy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html.cs" title="Jaký je rozdíl mez kalibrací a charakterizací?"><span class="title">Jaký je rozdíl mez kalibrací a charakterizací?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrace a charakterizace jsou dvě zcela odlišné věci.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html" title="Které přístroje pro měření barev jsou podporovány?"><span class="title">Které přístroje pro měření barev jsou podporovány?</span><span class="linkdiv-dash"> — </span><span class="desc">Podporujeme velký počet kalibračních zařízení.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html" title="Které typy kalibračních obrazců jsou podporovány?"><span class="title">Které typy kalibračních obrazců jsou podporovány?</span><span class="linkdiv-dash"> — </span><span class="desc">Pro vytvoření profilu skeneru a fotoaparátu jsou zapotřebí kalibrační obrazce.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html" title="Mohu sdílet své profily barev?"><span class="title">Mohu sdílet své profily barev?</span><span class="linkdiv-dash"> — </span><span class="desc">Sdílení profilů barev není nikdy dobrý nápad, protože hardware s postupem času mění své parametry.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html" title="Proč si musím kalibraci dělat sám?"><span class="title">Proč si musím kalibraci dělat sám?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrace je důležitá, když se staráte o věrnost barev, které zobrazujete nebo tisknete.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html.cs" title="Které přístroje pro měření barev jsou podporovány?"><span class="title">Které přístroje pro měření barev jsou podporovány?</span><span class="linkdiv-dash"> — </span><span class="desc">Podporujeme velký počet kalibračních zařízení.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html.cs" title="Které typy kalibračních obrazců jsou podporovány?"><span class="title">Které typy kalibračních obrazců jsou podporovány?</span><span class="linkdiv-dash"> — </span><span class="desc">Pro vytvoření profilu skeneru a fotoaparátu jsou zapotřebí kalibrační obrazce.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html.cs" title="Mohu sdílet své profily barev?"><span class="title">Mohu sdílet své profily barev?</span><span class="linkdiv-dash"> — </span><span class="desc">Sdílení profilů barev není nikdy dobrý nápad, protože hardware s postupem času mění své parametry.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html.cs" title="Proč si musím kalibraci dělat sám?"><span class="title">Proč si musím kalibraci dělat sám?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrace je důležitá, když se staráte o věrnost barev, které zobrazujete nebo tisknete.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -91,12 +91,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Problémy</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-testing.html" title="Jak mohu vyzkoušet, že správa barev funguje správně?"><span class="title">Jak mohu vyzkoušet, že správa barev funguje správně?</span><span class="linkdiv-dash"> — </span><span class="desc">Použijte dodávané testovací profily ke kontrole, že se vaše profily správně používají pro obrazovku.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-notifications.html" title="Mohu získat upozornění, když je můj profil barev nesprávný?"><span class="title">Mohu získat upozornění, když je můj profil barev nesprávný?</span><span class="linkdiv-dash"> — </span><span class="desc">Jak můžete být upozorněni, když je váš profil barev zastaralý nebo nesprávný.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-testing.html.cs" title="Jak mohu vyzkoušet, že správa barev funguje správně?"><span class="title">Jak mohu vyzkoušet, že správa barev funguje správně?</span><span class="linkdiv-dash"> — </span><span class="desc">Použijte dodávané testovací profily ke kontrole, že se vaše profily správně používají pro obrazovku.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notifications.html.cs" title="Mohu získat upozornění, když je můj profil barev nesprávný?"><span class="title">Mohu získat upozornění, když je můj profil barev nesprávný?</span><span class="linkdiv-dash"> — </span><span class="desc">Jak můžete být upozorněni, když je váš profil barev zastaralý nebo nesprávný.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="Proč výchozí profily monitoru nemají vypršení platnosti kalibrace?"><span class="title">Proč výchozí profily monitoru nemají vypršení platnosti kalibrace?</span><span class="linkdiv-dash"> — </span><span class="desc">Výchozí profily monitoru neobsahují datum kalibrace.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-missingvcgt.html" title="Schází informace pro celoobrazovkovou korekci barev?"><span class="title">Schází informace pro celoobrazovkovou korekci barev?</span><span class="linkdiv-dash"> — </span><span class="desc">Celoobrazovková korekce barev mění barvy na celé obrazovce ve všech oknech.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html.cs" title="Proč výchozí profily monitoru nemají vypršení platnosti kalibrace?"><span class="title">Proč výchozí profily monitoru nemají vypršení platnosti kalibrace?</span><span class="linkdiv-dash"> — </span><span class="desc">Výchozí profily monitoru neobsahují datum kalibrace.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-missingvcgt.html.cs" title="Schází informace pro celoobrazovkovou korekci barev?"><span class="title">Schází informace pro celoobrazovkovou korekci barev?</span><span class="linkdiv-dash"> — </span><span class="desc">Celoobrazovková korekce barev mění barvy na celé obrazovce ve všech oknech.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -106,10 +106,10 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html" title="Hardware a ovladače">Hardware a ovladače</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Běžné problémy">Problémy s hardwarem</a></span>, <span class="link"><a href="printing.html" title="Tisk">tiskárny</a></span>, <span class="link"><a href="power.html" title="Napájení a baterie">nastavení napájení</a></span>, <span class="link"><a href="color.html" title="Správa barev">správa barev</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Disky a úložiště">disky</a></span>…</span>
+<a href="hardware.html.cs" title="Hardware a ovladače">Hardware a ovladače</a><span class="desc"> — <span class="link"><a href="hardware.html.cs#problems" title="Běžné problémy">Problémy s hardwarem</a></span>, <span class="link"><a href="printing.html.cs" title="Tisk">tiskárny</a></span>, <span class="link"><a href="power.html.cs" title="Napájení a baterie">nastavení napájení</a></span>, <span class="link"><a href="color.html.cs" title="Správa barev">správa barev</a></span>, <span class="link"><a href="bluetooth.html.cs" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.cs" title="Disky a úložiště">disky</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs.html" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html" title="Uživatelské účty">uživatelské účty</a></span>…</span>
+<a href="prefs.html.cs" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html.cs" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html.cs" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html.cs" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html.cs" title="Uživatelské účty">uživatelské účty</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

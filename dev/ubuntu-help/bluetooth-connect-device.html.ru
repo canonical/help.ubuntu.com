@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="bluetooth.html.ru" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Соединение компьютера с устройством Bluetooth</span></h1></div>
@@ -53,14 +53,14 @@
   need to connect your computer to the device. This is also called
   <span class="em">pairing</span> the Bluetooth devices.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Make sure Bluetooth is enabled: the switch at the top should be set to
       <span class="gui">ON</span>. With the panel open and the switch <span class="gui">ON</span>, your
       computer will begin searching for devices.</p></li>
 <li class="steps"><p class="p">Make the other Bluetooth device
-      <span class="link"><a href="bluetooth-visibility.html" title="Что такое видимость Bluetooth?">discoverable or visible</a></span> and
+      <span class="link"><a href="bluetooth-visibility.html.ru" title="Что такое видимость Bluetooth?">discoverable or visible</a></span> and
       place it within 5-10 meters (about 16-33 feet) of your computer.</p></li>
 <li class="steps"><p class="p">Click the device in the <span class="gui">Devices</span> list. The panel for the
       device will open.</p></li>
@@ -88,17 +88,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Соединение компьютера с устройством Bluetooth">Подключение</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Отправка файлов на устройство Bluetooth">передача файлов</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Включение и выключение Bluetooth">включение и отключение</a></span>…</span>
+<a href="bluetooth.html.ru" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.ru" title="Соединение компьютера с устройством Bluetooth">Подключение</a></span>, <span class="link"><a href="bluetooth-send-file.html.ru" title="Отправка файлов на устройство Bluetooth">передача файлов</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ru" title="Включение и выключение Bluetooth">включение и отключение</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-remove-connection.html" title="Disconnect a Bluetooth device">Disconnect a Bluetooth device</a><span class="desc"> — Удаление устройства из списка устройств Bluetooth.</span>
+<a href="bluetooth-remove-connection.html.ru" title="Disconnect a Bluetooth device">Disconnect a Bluetooth device</a><span class="desc"> — Удаление устройства из списка устройств Bluetooth.</span>
 </li>
 <li class="links ">
-<a href="sharing-bluetooth.html" title="Управление общим доступом по Bluetooth">Управление общим доступом по Bluetooth</a><span class="desc"> — Allow files to be uploaded to your computer over Bluetooth.</span>
+<a href="sharing-bluetooth.html.ru" title="Управление общим доступом по Bluetooth">Управление общим доступом по Bluetooth</a><span class="desc"> — Allow files to be uploaded to your computer over Bluetooth.</span>
 </li>
 </ul></div>
 </div></div>

@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="keyboard.html" title="Klávesnice">Klávesnice</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="keyboard.html" title="Klávesnice">Klávesnice</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Univerzální přístup">Univerzální přístup</a> › <a class="trail" href="a11y.html#mobility" title="Pohybová postižení">Pohybová postižení</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.cs" title="Univerzální přístup">Univerzální přístup</a> › <a class="trail" href="a11y.html.cs#mobility" title="Pohybová postižení">Pohybová postižení</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,14 +57,14 @@
 <div class="contents">
 <p class="p"><span class="em">Vícenásobná zmáčknutí kláves</span> můžete zapnout, aby se ignorovala zmáčknutí, která se zopakují velmi rychle za sebou. Například, když máte třes rukou, způsobuje to více rychlých zmáčknutí klávesy po sobě, místo jednoho plynulého, takže byste v takovém případě měli funkci použít.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Univerzální přístup</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Univerzální přístup</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Univerzální přístup</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">V části <span class="gui">Psaní</span> zmáčkněte <span class="gui">Pomáhat s psaním</span>.</p></li>
 <li class="steps"><p class="p">Přepněte vypínač <span class="gui">Vícenásobná zmáčknutí kláves</span> na <span class="gui">❙</span> (zapnuto).</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner">
 <div class="title title-note"><h2><span class="title">Rychlé zapnutí a vypnutí vícenásobných zmáčknutí kláves</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Vypnout nebo zapnout ignorování vícenásobných zmáčknutí kláves můžete kliknutím na <span class="link"><a href="a11y-icon.html" title="Vyhledání nabídky univerzálního přístupu">ikonu zpřístupnění</a></span> na horní liště a následným výběrem položky <span class="gui">Vícenásobná zmáčknutí kláves</span>. Ikona zpřístupnění je viditelná, když je zapnuté aspoň jedno nastavení v panelu <span class="gui">Univerzální přístup</span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Vypnout nebo zapnout ignorování vícenásobných zmáčknutí kláves můžete kliknutím na <span class="link"><a href="a11y-icon.html.cs" title="Vyhledání nabídky univerzálního přístupu">ikonu zpřístupnění</a></span> na horní liště a následným výběrem položky <span class="gui">Vícenásobná zmáčknutí kláves</span>. Ikona zpřístupnění je viditelná, když je zapnuté aspoň jedno nastavení v panelu <span class="gui">Univerzální přístup</span>.</p></div></div>
 </div></div>
 <p class="p">Použijte táhlo <span class="gui">Zpoždění přijetí</span> k změně, jak dlouho se má od prvního zmáčknutí čekat, než je považováno zmáčknutí za další samostatné. Vyberte <span class="gui">Zvukové znamení při odmítnutí klávesy</span>, pokud chcete, aby počítač vydal zvuk pokaždé, když klávesu ignoruje, protože byla zmáčknuta příliš krátce po předchozí.</p>
 </div>
@@ -74,9 +74,9 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
+<a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.cs" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html.cs#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Pohybová postižení">Pohybová postižení</a></li>
+<li class="links "><a href="a11y.html.cs#mobility" title="Pohybová postižení">Pohybová postižení</a></li>
 </ul></div>
 </div></div></div>
 </div>

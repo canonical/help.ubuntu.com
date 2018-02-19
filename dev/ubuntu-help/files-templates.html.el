@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#faq" title="Συμβουλές και ερωτήσεις">Συμβουλές και ερωτήσεις</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#faq" title="Συμβουλές και ερωτήσεις">Συμβουλές και ερωτήσεις</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Πρότυπα για συνήθως χρησιμοποιούμενα είδη εγγράφων</span></h1></div>
@@ -63,7 +63,7 @@
 <li class="steps"><p class="p">Ανοίξτε τον φάκελο εκεί που θέλετε να βάλετε το νέο έγγραφο.</p></li>
 <li class="steps"><p class="p">Κάντε δεξί κλικ οπουδήποτε στον κενό χώρο στον φάκελο, έπειτα επιλέξτε <span class="gui">νέο έγγραφο</span>. Τα ονόματα των διαθέσιμων προτύπων θα καταχωριστούν στο υπομενού.</p></li>
 <li class="steps"><p class="p">Επιλέξτε το επιθυμητό πρότυπο από τη λίστα.</p></li>
-<li class="steps"><p class="p">Κάντε διπλό κλικ στο αρχείο για να το ανοίξετε για επεξεργασία. Μπορεί να θέλετε να <span class="link"><a href="files-rename.html" title="Μετονομασία αρχείου ή φακέλου">μετονομάσετε το αρχείο</a></span> όταν τελειώσετε.</p></li>
+<li class="steps"><p class="p">Κάντε διπλό κλικ στο αρχείο για να το ανοίξετε για επεξεργασία. Μπορεί να θέλετε να <span class="link"><a href="files-rename.html.el" title="Μετονομασία αρχείου ή φακέλου">μετονομάσετε το αρχείο</a></span> όταν τελειώσετε.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -71,7 +71,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Συμβουλές και ερωτήσεις">Συμβουλές και ερωτήσεις</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.el#faq" title="Συμβουλές και ερωτήσεις">Συμβουλές και ερωτήσεις</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

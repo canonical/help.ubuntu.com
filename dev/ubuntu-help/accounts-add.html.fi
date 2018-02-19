@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="accounts.html" title="Verkkotilit">Verkkotilit</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="accounts.html.fi" title="Verkkotilit">Verkkotilit</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Lisää tili</span></h1></div>
@@ -51,22 +51,22 @@
 <div class="contents">
 <p class="p">Tilin lisääminen auttaa linkittämään verkkotilisi Gnome-työpöytään. Näin ollen sähköposti, pikaviestintä ja muut verkkotiliisi liittyvät sovellukset määritetään puolestasi käyttövalmiiksi.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja kirjoita <span class="gui">Verkkotilit</span>.</p></li>
+<li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja kirjoita <span class="gui">Verkkotilit</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Verkkotilit</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">+</span> ikkunan vasemmasta alareunasta.</p></li>
 <li class="steps"><p class="p">Valitse tilin tyyppi, jonka haluat lisätä.</p></li>
 <li class="steps"><p class="p">Pieni verkkonäkymä aukeaa, josta voit kirjautua verkkopalveluun. Esimerkiksi, jos olet lisäämässä Google-tiliä, anna Google-tilisi käyttäjätunnus ja salasana. Jotkin palvelut mahdollistavat tilin luomisen kirjautumisikkunan kautta.</p></li>
 <li class="steps"><p class="p">Jos kirjoitit kirjautumistietosi oikein, sinua pyydetään sallimaan Gnomen käyttää verkkotiliäsi. Valtuuta Gnomea käyttämään tiliäsi jatkaaksesi.</p></li>
 <li class="steps"><p class="p">All services that are offered by an account provider will be enabled
-      by default. <span class="link"><a href="accounts-disable-service.html" title="Control which online services an account can be used to access">Switch</a></span>
+      by default. <span class="link"><a href="accounts-disable-service.html.fi" title="Control which online services an account can be used to access">Switch</a></span>
       individual services to <span class="gui">OFF</span> to disable them.</p></li>
 </ol></div></div></div>
 <p class="p">After you have added accounts, applications can use those accounts for
-  the services you have chosen to allow. See <span class="link"><a href="accounts-disable-service.html" title="Control which online services an account can be used to access">Control which online services an account can be used to access</a></span>
+  the services you have chosen to allow. See <span class="link"><a href="accounts-disable-service.html.fi" title="Control which online services an account can be used to access">Control which online services an account can be used to access</a></span>
   for information on controlling which services to allow.</p>
 <div class="note note-tip" title="Vinkki"><div class="inner"><div class="region"><div class="contents"><p class="p">Many online services provide an authorization token which GNOME stores
     instead of your password. If you remove an account, you should also revoke
-    that certificate in the online service. See <span class="link"><a href="accounts-remove.html" title="Poista tili">Poista tili</a></span>
+    that certificate in the online service. See <span class="link"><a href="accounts-remove.html.fi" title="Poista tili">Poista tili</a></span>
     for more information.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -74,7 +74,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Verkkotilit">Verkkotilit</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Lisää tili">Lisää verkkotili</a></span>, <span class="link"><a href="accounts-remove.html" title="Poista tili">Poista tili</a></span>, <span class="link"><a href="accounts-which-application.html" title="Verkkopalvelut ja sovellukset">Lisätietoja palveluista</a></span>…</span>
+<a href="accounts.html.fi" title="Verkkotilit">Verkkotilit</a><span class="desc"> — <span class="link"><a href="accounts-add.html.fi" title="Lisää tili">Lisää verkkotili</a></span>, <span class="link"><a href="accounts-remove.html.fi" title="Poista tili">Poista tili</a></span>, <span class="link"><a href="accounts-which-application.html.fi" title="Verkkopalvelut ja sovellukset">Lisätietoja palveluista</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

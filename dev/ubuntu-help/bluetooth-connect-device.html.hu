@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="bluetooth.html.hu" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Csatlakoztassa számítógépét Bluetooth eszközökhöz</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">Mielőtt használatba vehetné Bluetooth-eszközeit, például egerét vagy fejhallgatóját, először össze kell kapcsolnia azokat számítógépével. Ezt a Bluetooth-eszközök <span class="em">párosításának</span> is hívják.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Bluetooth</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Bluetooth</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Bluetooth</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Győződjön meg róla, hogy a Bluetooth be van kapcsolva: az ablak tetején lévő kapcsolónak <span class="gui">BE</span> állapotban kell lennie. Ha a panel meg van nyitva, és a kapcsoló <span class="gui">BE</span> állapotban van, a számítógép elkezd eszközöket keresni.</p></li>
-<li class="steps"><p class="p">Tegye a másik Bluetooth eszközt <span class="link"><a href="bluetooth-visibility.html" title="Mi az a Bluetooth-láthatóság?">felfedezhetővé vagy láthatóvá</a></span>, és helyezze a számítógép 5-10 méteres körzetén belülre.</p></li>
+<li class="steps"><p class="p">Tegye a másik Bluetooth eszközt <span class="link"><a href="bluetooth-visibility.html.hu" title="Mi az a Bluetooth-láthatóság?">felfedezhetővé vagy láthatóvá</a></span>, és helyezze a számítógép 5-10 méteres körzetén belülre.</p></li>
 <li class="steps"><p class="p">Kattintson az eszközre az <span class="gui">Eszközök</span> listában. Megnyílik az eszköz panele.</p></li>
 <li class="steps">
 <p class="p">Szükség esetén erősítse meg a PIN-kódot a másik eszközön. Az eszköznek a számítógép képernyőjén látható PIN-kódot kell megjelenítenie. Erősítse meg a PIN-kódot az eszközön (szükséges lehet a <span class="gui">Párosítás</span> vagy a <span class="gui">Megerősítés</span> gomb megnyomása), majd nyomja meg a <span class="gui">Megegyezik</span> gombot a számítógépen.</p>
@@ -73,17 +73,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Csatlakoztassa számítógépét Bluetooth eszközökhöz">Kapcsolódás</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Fájlok küldése Bluetooth-eszközre">fájlok küldése</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth be- vagy kikapcsolása">be- és kikapcsolás</a></span>…</span>
+<a href="bluetooth.html.hu" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.hu" title="Csatlakoztassa számítógépét Bluetooth eszközökhöz">Kapcsolódás</a></span>, <span class="link"><a href="bluetooth-send-file.html.hu" title="Fájlok küldése Bluetooth-eszközre">fájlok küldése</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.hu" title="Bluetooth be- vagy kikapcsolása">be- és kikapcsolás</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing-bluetooth.html" title="Bluetooth megosztás szabályozása">Bluetooth megosztás szabályozása</a><span class="desc"> — Fájlok feltöltésének engedélyezése a számítógépre Bluetooth használatával.</span>
+<a href="sharing-bluetooth.html.hu" title="Bluetooth megosztás szabályozása">Bluetooth megosztás szabályozása</a><span class="desc"> — Fájlok feltöltésének engedélyezése a számítógépre Bluetooth használatával.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-remove-connection.html" title="Bluetooth-eszköz leválasztása">Bluetooth-eszköz leválasztása</a><span class="desc"> — Eszköz eltávolítása a Bluetooth-eszközök listájáról.</span>
+<a href="bluetooth-remove-connection.html.hu" title="Bluetooth-eszköz leválasztása">Bluetooth-eszköz leválasztása</a><span class="desc"> — Eszköz eltávolítása a Bluetooth-eszközök listájáról.</span>
 </li>
 </ul></div>
 </div></div>

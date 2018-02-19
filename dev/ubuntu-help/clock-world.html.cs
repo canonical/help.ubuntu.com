@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="clock.html" title="Datum a čas">Datum a čas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="clock.html.cs" title="Datum a čas">Datum a čas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Přidání světového času</span></h1></div>
@@ -74,7 +74,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Datum a čas">Datum a čas</a><span class="desc"> — <span class="link"><a href="clock-set.html" title="Změna data a času">Nastavení data a času</a></span>, <span class="link"><a href="clock-world.html" title="Přidání světového času">světové časy</a></span>, <span class="link"><a href="clock-timezone.html" title="Změna vašeho časového pásma">časové pásmo</a></span>, <span class="link"><a href="clock-calendar.html" title="Kalendářové události">kalendář a události</a></span>…</span>
+<a href="clock.html.cs" title="Datum a čas">Datum a čas</a><span class="desc"> — <span class="link"><a href="clock-set.html.cs" title="Změna data a času">Nastavení data a času</a></span>, <span class="link"><a href="clock-world.html.cs" title="Přidání světového času">světové časy</a></span>, <span class="link"><a href="clock-timezone.html.cs" title="Změna vašeho časového pásma">časové pásmo</a></span>, <span class="link"><a href="clock-calendar.html.cs" title="Kalendářové události">kalendář a události</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

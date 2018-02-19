@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Gebruikersaccounts</span></h1></div>
@@ -53,30 +53,30 @@
 <div class="hgroup"><h2 class="title"><span class="title">Gebruikersaccounts beheren</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Een nieuwe gebruiker toevoegen"><span class="title">Een nieuwe gebruiker toevoegen</span><span class="linkdiv-dash"> — </span><span class="desc">Nieuwe gebruikers toevoegen zodat anderen zich op de computer kunnen aanmelden.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Automatisch inloggen"><span class="title">Automatisch inloggen</span><span class="linkdiv-dash"> — </span><span class="desc">Automatisch aanmelden voor wanneer u uw computer aanzet instellen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-add.html.nl" title="Een nieuwe gebruiker toevoegen"><span class="title">Een nieuwe gebruiker toevoegen</span><span class="linkdiv-dash"> — </span><span class="desc">Nieuwe gebruikers toevoegen zodat anderen zich op de computer kunnen aanmelden.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html.nl" title="Automatisch inloggen"><span class="title">Automatisch inloggen</span><span class="linkdiv-dash"> — </span><span class="desc">Automatisch aanmelden voor wanneer u uw computer aanzet instellen.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="De foto op uw aanmeldscherm wijzigen"><span class="title">De foto op uw aanmeldscherm wijzigen</span><span class="linkdiv-dash"> — </span><span class="desc">Uw foto toevoegen aan het aanmeld- en gebruikersscherm.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Een gebruikersaccount verwijderen"><span class="title">Een gebruikersaccount verwijderen</span><span class="linkdiv-dash"> — </span><span class="desc">Verwijder gebruikers die niet langer gebruik maken van uw computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html.nl" title="De foto op uw aanmeldscherm wijzigen"><span class="title">De foto op uw aanmeldscherm wijzigen</span><span class="linkdiv-dash"> — </span><span class="desc">Uw foto toevoegen aan het aanmeld- en gebruikersscherm.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html.nl" title="Een gebruikersaccount verwijderen"><span class="title">Een gebruikersaccount verwijderen</span><span class="linkdiv-dash"> — </span><span class="desc">Verwijder gebruikers die niet langer gebruik maken van uw computer.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="passwords" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Wachtwoorden</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html" title="Kies een veilig wachtwoord"><span class="title">Kies een veilig wachtwoord</span><span class="linkdiv-dash"> — </span><span class="desc">Gebruik langere, ingewikkeldere wachtwoorden.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html" title="Uw wachtwoord wijzigen"><span class="title">Uw wachtwoord wijzigen</span><span class="linkdiv-dash"> — </span><span class="desc">Houd uw account veilig door uw wachtwoord regelmatig te wijzigen in uw accountinstellingen.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html.nl" title="Kies een veilig wachtwoord"><span class="title">Kies een veilig wachtwoord</span><span class="linkdiv-dash"> — </span><span class="desc">Gebruik langere, ingewikkeldere wachtwoorden.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html.nl" title="Uw wachtwoord wijzigen"><span class="title">Uw wachtwoord wijzigen</span><span class="linkdiv-dash"> — </span><span class="desc">Houd uw account veilig door uw wachtwoord regelmatig te wijzigen in uw accountinstellingen.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="privileges" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Gebruikersrechten</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html" title="De persoon met beheersrechten wijzigen"><span class="title">De persoon met beheersrechten wijzigen</span><span class="linkdiv-dash"> — </span><span class="desc">U kunt wijzigen welke gebruikers wijzigingen in het systeem mogen aanbrengen door hen beheerdersrechten te verlenen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html" title="Hoe werken beheerdersrechten?"><span class="title">Hoe werken beheerdersrechten?</span><span class="linkdiv-dash"> — </span><span class="desc">U heeft beheerdersrechten nodig om belangrijke delen van uw systeem te wijzigen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.nl" title="De persoon met beheersrechten wijzigen"><span class="title">De persoon met beheersrechten wijzigen</span><span class="linkdiv-dash"> — </span><span class="desc">U kunt wijzigen welke gebruikers wijzigingen in het systeem mogen aanbrengen door hen beheerdersrechten te verlenen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.nl" title="Hoe werken beheerdersrechten?"><span class="title">Hoe werken beheerdersrechten?</span><span class="linkdiv-dash"> — </span><span class="desc">U heeft beheerdersrechten nodig om belangrijke delen van uw systeem te wijzigen.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html" title="Problemen veroorzaakt door beheerbeperkingen"><span class="title">Problemen veroorzaakt door beheerbeperkingen</span><span class="linkdiv-dash"> — </span><span class="desc">U kunt een aantal dingen, zoals het installeren van toepassingen, alleen doen als u beheersrechten heeft.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.nl" title="Problemen veroorzaakt door beheerbeperkingen"><span class="title">Problemen veroorzaakt door beheerbeperkingen</span><span class="linkdiv-dash"> — </span><span class="desc">U kunt een aantal dingen, zoals het installeren van toepassingen, alleen doen als u beheersrechten heeft.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -84,7 +84,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Gebruikers- &amp; systeeminstellingen</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Toetsenbord">Toetsenbord</a></span>, <span class="link"><a href="mouse.html" title="Muis">muis</a></span>, <span class="link"><a href="prefs-display.html" title="Weergave &amp; scherm">beeldscherm</a></span>, <span class="link"><a href="prefs-language.html" title="Regio &amp; taal">talen</a></span>, <span class="link"><a href="user-accounts.html" title="Gebruikersaccounts">gebruikersaccounts</a></span>...</span>
+<a href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Gebruikers- &amp; systeeminstellingen</a><span class="desc"> — <span class="link"><a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a></span>, <span class="link"><a href="mouse.html.nl" title="Muis">muis</a></span>, <span class="link"><a href="prefs-display.html.nl" title="Weergave &amp; scherm">beeldscherm</a></span>, <span class="link"><a href="prefs-language.html.nl" title="Regio &amp; taal">talen</a></span>, <span class="link"><a href="user-accounts.html.nl" title="Gebruikersaccounts">gebruikersaccounts</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Privacy Settings</span></h1></div>
@@ -54,12 +54,12 @@
   use these settings to clear your computer usage history and clean out
   unnecessary files.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.zh-CN" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
     from your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.zh-CN" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
     files.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html" title="自动锁定屏幕"><span class="title">自动锁定屏幕</span><span class="linkdiv-dash"> — </span><span class="desc">当您离开计算机时，防止其他人使用电脑。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-location.html" title="Control location services"><span class="title">Control location services</span><span class="linkdiv-dash"> — </span><span class="desc">Enable or disable geolocation.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.zh-CN" title="自动锁定屏幕"><span class="title">自动锁定屏幕</span><span class="linkdiv-dash"> — </span><span class="desc">当您离开计算机时，防止其他人使用电脑。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-location.html.zh-CN" title="Control location services"><span class="title">Control location services</span><span class="linkdiv-dash"> — </span><span class="desc">Enable or disable geolocation.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="用户 &amp; 系统设置">用户 &amp; 系统设置</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="键盘">键盘</a></span>、<span class="link"><a href="mouse.html" title="鼠标">鼠标</a></span>、<span class="link"><a href="prefs-display.html" title="显示器 &amp; 屏幕">显示器</a></span>、<span class="link"><a href="prefs-language.html" title="Region &amp; Language">语言</a></span>、<span class="link"><a href="user-accounts.html" title="用户帐号">用户帐号</a></span>…</span>
+<a href="prefs.html.zh-CN" title="用户 &amp; 系统设置">用户 &amp; 系统设置</a><span class="desc"> — <span class="link"><a href="keyboard.html.zh-CN" title="键盘">键盘</a></span>、<span class="link"><a href="mouse.html.zh-CN" title="鼠标">鼠标</a></span>、<span class="link"><a href="prefs-display.html.zh-CN" title="显示器 &amp; 屏幕">显示器</a></span>、<span class="link"><a href="prefs-language.html.zh-CN" title="Region &amp; Language">语言</a></span>、<span class="link"><a href="user-accounts.html.zh-CN" title="用户帐号">用户帐号</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

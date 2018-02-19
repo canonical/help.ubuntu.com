@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html#problems" title="Problemas comuns">Problemas comuns</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="mouse.html.pt-BR" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html.pt-BR#problems" title="Problemas comuns">Problemas comuns</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html#problems" title="Problemas comuns">Problemas comuns</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="mouse.html.pt-BR" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html.pt-BR#problems" title="Problemas comuns">Problemas comuns</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">O ponteiro do mouse não está movendo</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Verificar se o mouse está conectado">Verificar se o mouse está conectado</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Verificar se o mouse realmente funciona">Verificar se o mouse realmente funciona</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Verificando mouses sem fio">Verificando mouses sem fio</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.pt-BR#plugged-in" title="Verificar se o mouse está conectado">Verificar se o mouse está conectado</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.pt-BR#broken" title="Verificar se o mouse realmente funciona">Verificar se o mouse realmente funciona</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.pt-BR#wireless-mice" title="Verificando mouses sem fio">Verificando mouses sem fio</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Verificar se o mouse está conectado</span></h2></div>
@@ -76,8 +76,8 @@
 <div class="region"><div class="contents">
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Certifique-se de que o seu mouse está ativado. Geralmente há um botão embaixo do mouse para desligar completamente o mouse. Então, você pode movê-lo de um lugar para o outro sem ele ficar consumindo pilha.</p></li>
-<li class="list"><p class="p">Se estiver usando um mouse Bluetooth, certifique-se de que você realmente pareou o mouse com o seu computador. Veja <span class="link"><a href="bluetooth-connect-device.html" title="Conectando seu computador a um dispositivo Bluetooth">Conectando seu computador a um dispositivo Bluetooth</a></span>.</p></li>
-<li class="list"><p class="p">Clique em um botão e veja se o ponteiro do mouse move agora. Alguns mouses sem fio entram em modo standby para economizar energia e, então, podem não responder até você clicar em um botão. Veja <span class="link"><a href="mouse-wakeup.html" title="O mouse reage com um atraso antes que ele comece a funcionar">O mouse reage com um atraso antes que ele comece a funcionar</a></span>.</p></li>
+<li class="list"><p class="p">Se estiver usando um mouse Bluetooth, certifique-se de que você realmente pareou o mouse com o seu computador. Veja <span class="link"><a href="bluetooth-connect-device.html.pt-BR" title="Conectando seu computador a um dispositivo Bluetooth">Conectando seu computador a um dispositivo Bluetooth</a></span>.</p></li>
+<li class="list"><p class="p">Clique em um botão e veja se o ponteiro do mouse move agora. Alguns mouses sem fio entram em modo standby para economizar energia e, então, podem não responder até você clicar em um botão. Veja <span class="link"><a href="mouse-wakeup.html.pt-BR" title="O mouse reage com um atraso antes que ele comece a funcionar">O mouse reage com um atraso antes que ele comece a funcionar</a></span>.</p></li>
 <li class="list"><p class="p">Verifique se a bateria do mouse está carregada.</p></li>
 <li class="list"><p class="p">Certifique-se de que o receptor está firmemente conectado ao computador.</p></li>
 <li class="list"><p class="p">Se o seu mouse e receptor puderem operar em canais de rádio diferente, certifique-se de que eles estão ambos configurados no mesmo canal.</p></li>
@@ -90,7 +90,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Problemas comuns">Problemas comuns de mouse</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.pt-BR#problems" title="Problemas comuns">Problemas comuns de mouse</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

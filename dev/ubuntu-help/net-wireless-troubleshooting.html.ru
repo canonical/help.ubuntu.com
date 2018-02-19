@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Беспроводные сети">Беспроводные сети</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные сети</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html#problems" title="Типичные проблемы">Неполадки</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html" title="Устранение неполадок с беспроводной сетью">Вперёд</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html.ru" title="Устранение неполадок с беспроводной сетью">Вперёд</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">Устранение неполадок с беспроводной сетью</span></h1></div>
 <div class="region">
 <div class="contents">
@@ -80,7 +80,7 @@
 </div></div>
 </div></div>
 </div>
-<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html" title="Устранение неполадок с беспроводной сетью">Вперёд</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="net-wireless-troubleshooting-initial-check.html.ru" title="Устранение неполадок с беспроводной сетью">Вперёд</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
@@ -88,19 +88,19 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="Беспроводные сети">Беспроводные сети</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Подключение к беспроводной сети">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Подключение к скрытой беспроводной сети">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Почему беспроводное соединение постоянно прерывается?">Disconnecting</a></span>…
+<a href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные сети</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.ru" title="Подключение к беспроводной сети">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ru" title="Подключение к скрытой беспроводной сети">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ru" title="Почему беспроводное соединение постоянно прерывается?">Disconnecting</a></span>…
     </span>
 </li>
-<li class="links "><a href="hardware.html#problems" title="Типичные проблемы">Неполадки оборудования</a></li>
+<li class="links "><a href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки оборудования</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Подключение к беспроводной сети">Подключение к беспроводной сети</a><span class="desc"> — Get on the internet — wirelessly.</span>
+<a href="net-wireless-connect.html.ru" title="Подключение к беспроводной сети">Подключение к беспроводной сети</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

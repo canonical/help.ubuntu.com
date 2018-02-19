@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html" title="Énergie et batterie">Énergie et batterie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html" title="Énergie et batterie">Énergie et batterie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">You can reduce battery use by switching off bluetooth, wi-fi or mobile
   broadband when they are not in use.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span>
       overview and start typing <span class="gui">Power</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
 <li class="steps"><p class="p">The <span class="gui">Power Saving</span> section contains switches for
@@ -71,17 +71,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Énergie et batterie">Énergie et batterie</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Que se passe-t-il lorsque je mets en veille mon ordinateur ?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Diminution de la luminosité de l'écran après un certain temps d'inactivité">screen dimming</a></span>…
+<a href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.fr" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.fr" title="Que se passe-t-il lorsque je mets en veille mon ordinateur ?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.fr" title="Diminution de la luminosité de l'écran après un certain temps d'inactivité">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html" title="Économie d'énergie et accroissement de la longévité de la batterie">Économie d'énergie et accroissement de la longévité de la batterie</a><span class="desc"> — Conseils pour réduire la consommation d'énergie de votre ordinateur.</span>
+<a href="power-batterylife.html.fr" title="Économie d'énergie et accroissement de la longévité de la batterie">Économie d'énergie et accroissement de la longévité de la batterie</a><span class="desc"> — Conseils pour réduire la consommation d'énergie de votre ordinateur.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-security.html" title="Manter-se seguro em Internet">Manter-se seguro em Internet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-security.html.pt" title="Manter-se seguro em Internet">Manter-se seguro em Internet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Portos de rede usados frequentemente</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">This is a list of network ports commonly used by applications that provide
   network services, like file sharing or remote desktop viewing. You can change
-  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html" title="Ativar e bloquear o acesso aa firewalh">block or allow
+  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html.pt" title="Ativar e bloquear o acesso aa firewalh">block or allow
   access</a></span> to these applications. There are thousands of ports in use, so
   this table isn’t complete.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
@@ -101,13 +101,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Manter-se seguro em Internet">Manter-se seguro em Internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Preciso software antivírus?">Software antivírus</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Ativar e bloquear o acesso aa firewalh">firewalh básico</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Portos de rede usados frequentemente">portos da firewalh</a></span>…</span>
+<a href="net-security.html.pt" title="Manter-se seguro em Internet">Manter-se seguro em Internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.pt" title="Preciso software antivírus?">Software antivírus</a></span>, <span class="link"><a href="net-firewall-on-off.html.pt" title="Ativar e bloquear o acesso aa firewalh">firewalh básico</a></span>, <span class="link"><a href="net-firewall-ports.html.pt" title="Portos de rede usados frequentemente">portos da firewalh</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-on-off.html" title="Ativar e bloquear o acesso aa firewalh">Ativar e bloquear o acesso aa firewalh</a><span class="desc"> — Pode controlar que programas são acessível na rede. Isto lhe ajuda a manter o seu computador segura.</span>
+<a href="net-firewall-on-off.html.pt" title="Ativar e bloquear o acesso aa firewalh">Ativar e bloquear o acesso aa firewalh</a><span class="desc"> — Pode controlar que programas são acessível na rede. Isto lhe ajuda a manter o seu computador segura.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="ಆರಂಭಿಸುವಿಕೆ">GNOME ಅನ್ನು ಬಳಸಲು ಆರಂಭಿಸುವಿಕೆ</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.kn" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.kn" title="ಆರಂಭಿಸುವಿಕೆ">GNOME ಅನ್ನು ಬಳಸಲು ಆರಂಭಿಸುವಿಕೆ</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="ಆನ್‌ಲೈನ್‌ ಖಾತೆಗಳೊಂದಿಗೆ ಸಂಪರ್ಕಿಸಿ">ಹಿಂದಿನ</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="ವಾಲ್‌ಪೇಪರ್ ಅನ್ನು ಬದಲಿಸಿ">ಮುಂದಿನ</a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.kn" title="ಆನ್‌ಲೈನ್‌ ಖಾತೆಗಳೊಂದಿಗೆ ಸಂಪರ್ಕಿಸಿ">ಹಿಂದಿನ</a><a class="nextlinks-next" href="gs-change-wallpaper.html.kn" title="ವಾಲ್‌ಪೇಪರ್ ಅನ್ನು ಬದಲಿಸಿ">ಮುಂದಿನ</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">ದಿನಾಂಕ, ಸಮಯ ಮತ್ತು ಕಾಲವಲಯವನ್ನು ಬದಲಾಯಿಸಿ</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html#yourname" title="You and your computer">system menu</a></span>
+<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html.kn#yourname" title="You and your computer">system menu</a></span>
     on the right side of the top bar.</p></li>
 <li class="steps"><p class="p">Click the settings button at the bottom left of the menu.</p></li>
 <li class="steps"><p class="p">Select the <span class="gui">Date &amp; Time</span> panel.</p></li>
@@ -72,7 +72,7 @@
 </ol></div></div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="ಆನ್‌ಲೈನ್‌ ಖಾತೆಗಳೊಂದಿಗೆ ಸಂಪರ್ಕಿಸಿ">ಹಿಂದಿನ</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="ವಾಲ್‌ಪೇಪರ್ ಅನ್ನು ಬದಲಿಸಿ">ಮುಂದಿನ</a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.kn" title="ಆನ್‌ಲೈನ್‌ ಖಾತೆಗಳೊಂದಿಗೆ ಸಂಪರ್ಕಿಸಿ">ಹಿಂದಿನ</a><a class="nextlinks-next" href="gs-change-wallpaper.html.kn" title="ವಾಲ್‌ಪೇಪರ್ ಅನ್ನು ಬದಲಿಸಿ">ಮುಂದಿನ</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -80,17 +80,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">ಇನ್ನಷ್ಟು ಮಾಹಿತಿ</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="ಆರಂಭಿಸುವಿಕೆ">GNOME ಅನ್ನು ಬಳಸಲು ಆರಂಭಿಸುವಿಕೆ</a><span class="desc"> — GNOME ಗೆ ಹೊಸಬರೆ? ಬಳಸುವುದನ್ನು ಸ್ಥೂಲವಾಗಿ ಅರಿತುಕೊಳ್ಳಿ.</span>
+<a href="getting-started.html.kn" title="ಆರಂಭಿಸುವಿಕೆ">GNOME ಅನ್ನು ಬಳಸಲು ಆರಂಭಿಸುವಿಕೆ</a><span class="desc"> — GNOME ಗೆ ಹೊಸಬರೆ? ಬಳಸುವುದನ್ನು ಸ್ಥೂಲವಾಗಿ ಅರಿತುಕೊಳ್ಳಿ.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ಇದನ್ನೂ ಸಹ ನೋಡಿ</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Date &amp; time">Date &amp; time</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html" title="Change the date and time">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="Change your timezone">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="Calendar appointments">calendar and appointments</a></span>…
+<a href="clock.html.kn" title="Date &amp; time">Date &amp; time</a><span class="desc"> — 
+      <span class="link"><a href="clock-set.html.kn" title="Change the date and time">Set date and time</a></span>,
+      <span class="link"><a href="clock-world.html.kn" title="Add a world clock">world clocks</a></span>,
+      <span class="link"><a href="clock-timezone.html.kn" title="Change your timezone">timezone</a></span>,
+      <span class="link"><a href="clock-calendar.html.kn" title="Calendar appointments">calendar and appointments</a></span>…
     </span>
 </li></ul></div>
 </div></div>

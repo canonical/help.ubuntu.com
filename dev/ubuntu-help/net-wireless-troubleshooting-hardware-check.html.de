@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wireless.html" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Problemlösungen für Funknetzwerke">Problemlösungen für Funknetzwerke</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wireless.html.de" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a> » <a class="trail" href="net-wireless-troubleshooting.html.de" title="Problemlösungen für Funknetzwerke">Problemlösungen für Funknetzwerke</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Häufige Probleme">Probleme</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Problemlösungen für Funknetzwerke">Problemlösungen für Funknetzwerke</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html.de#problems" title="Häufige Probleme">Probleme</a> » <a class="trail" href="net-wireless-troubleshooting.html.de" title="Problemlösungen für Funknetzwerke">Problemlösungen für Funknetzwerke</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Problemlösungen für Funknetzwerke">Zurück</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Problemlösungen für Funknetzwerke">Weiter</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.de" title="Problemlösungen für Funknetzwerke">Zurück</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.de" title="Problemlösungen für Funknetzwerke">Weiter</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Problemlösungen für Funknetzwerkverbindungen</span></h1>
@@ -70,7 +70,7 @@
        vendor: Intel Corporation</pre></div>
 </li>
 <li class="steps">
-<p class="p">Wenn ein Funknetzwerkgerät aufgelistet ist, gehen Sie weiter zum <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Problemlösungen für Funknetzwerke">Abschnitt mit den Gerätetreibern</a></span>.</p>
+<p class="p">Wenn ein Funknetzwerkgerät aufgelistet ist, gehen Sie weiter zum <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.de" title="Problemlösungen für Funknetzwerke">Abschnitt mit den Gerätetreibern</a></span>.</p>
 <p class="p">Wenn <span class="em">kein</span> Funknetzwerkgerät aufgelistet ist, hängen die nächsten Schritte vom verwendeten Gerätetyp ab. Gehen Sie nach dem Abschnitt weiter unten vor, der für den Funknetzwerkadaptertyp Ihres Rechners relevant ist (<span class="link"><a href="#pci" title="(Interner) PCI-Funknetzwerkadapter">interner PCI-</a></span>, <span class="link"><a href="#usb" title="USB-Funknetzwerkadapter">USB-</a></span> oder <span class="link"><a href="#pcmcia" title="Prüfen des PCMCIA-Geräts">PCMCIA-</a></span>Anschluss).</p>
 </li>
 </ol></div></div></div>
@@ -85,7 +85,7 @@
 <p class="p">Durchsuchen Sie die Geräteliste, die angezeigt wird, nach Geräten, die als <span class="code">Network controller</span> oder <span class="code">Ethernet controller</span> bezeichnet werden. Mehrere Geräte können so benannt sein; der Eintrag, der Ihrem Funknetzwerkadapter zuzuordnen ist, enthält wahrscheinlich Wörter wie <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> oder <span class="code">802.11</span>. Ein Beispiel, wie der Eintrag aussehen könnte, ist:</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
-<li class="steps"><p class="p">Wenn Sie Ihren Funknetzwerkadapter in der Liste gefunden haben, gehen Sie weiter zum Abschnitt über <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Problemlösungen für Funknetzwerke">Gerätetreiber</a></span>. Wenn Sie nichts gefunden haben, das auf Ihren Funknetzwerkadapter hinweist, folgen Sie den <span class="link"><a href="#not-recognized" title="Funknetzwerkadapter wurde nicht erkannt">Anleitungen weiter unten</a></span>.</p></li>
+<li class="steps"><p class="p">Wenn Sie Ihren Funknetzwerkadapter in der Liste gefunden haben, gehen Sie weiter zum Abschnitt über <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.de" title="Problemlösungen für Funknetzwerke">Gerätetreiber</a></span>. Wenn Sie nichts gefunden haben, das auf Ihren Funknetzwerkadapter hinweist, folgen Sie den <span class="link"><a href="#not-recognized" title="Funknetzwerkadapter wurde nicht erkannt">Anleitungen weiter unten</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -99,7 +99,7 @@
 <p class="p">Durchsuchen Sie die Geräteliste, die angezeigt wird, nach Geräten, die etwas mit Funknetzwerken oder Netzwerken zu tun haben könnten. Der Eintrag, der Ihrem Funknetzwerkadapter zuzuordnen ist, enthält wahrscheinlich Wörter wie <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> oder <span class="code">802.11</span>. Ein Beispiel, wie der Eintrag aussehen könnte, ist:</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
-<li class="steps"><p class="p">Wenn Sie Ihren Funknetzwerkadapter in der Liste gefunden haben, gehen Sie weiter zum Abschnitt über <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Problemlösungen für Funknetzwerke">Gerätetreiber</a></span>. Wenn Sie nichts gefunden haben, das auf Ihren Funknetzwerkadapter hinweist, folgen Sie den <span class="link"><a href="#not-recognized" title="Funknetzwerkadapter wurde nicht erkannt">Anleitungen weiter unten</a></span>.</p></li>
+<li class="steps"><p class="p">Wenn Sie Ihren Funknetzwerkadapter in der Liste gefunden haben, gehen Sie weiter zum Abschnitt über <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.de" title="Problemlösungen für Funknetzwerke">Gerätetreiber</a></span>. Wenn Sie nichts gefunden haben, das auf Ihren Funknetzwerkadapter hinweist, folgen Sie den <span class="link"><a href="#not-recognized" title="Funknetzwerkadapter wurde nicht erkannt">Anleitungen weiter unten</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -116,7 +116,7 @@
 </li>
 <li class="steps"><p class="p">Stecken Sie Ihren Funknetzwerkadapter in den PCMCIA-Steckplatz und sehen Sie nach, was sich im Terminalfenster ändert. Die Änderungen sollten auch Informationen über Ihren Funknetzwerkadapter beinhalten. Durchsuchen Sie sie und versuchen Sie, ihn zu identifizieren.</p></li>
 <li class="steps"><p class="p">Um die Ausführung des im Terminal laufenden Befehls abzubrechen, drücken Sie <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Nachdem Sie dies getan haben, können Sie das Terminal schließen.</p></li>
-<li class="steps"><p class="p">Wenn Sie Informationen über Ihren Funknetzwerkadapter gefunden haben, gehen Sie zum Abschnitt über <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Problemlösungen für Funknetzwerke">Gerätetreiber</a></span>. Wenn Sie nichts gefunden haben, das auf Ihren Funknetzwerkadapter hinweist, folgen Sie den <span class="link"><a href="#not-recognized" title="Funknetzwerkadapter wurde nicht erkannt">Anleitungen weiter unten</a></span>.</p></li>
+<li class="steps"><p class="p">Wenn Sie Informationen über Ihren Funknetzwerkadapter gefunden haben, gehen Sie zum Abschnitt über <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.de" title="Problemlösungen für Funknetzwerke">Gerätetreiber</a></span>. Wenn Sie nichts gefunden haben, das auf Ihren Funknetzwerkadapter hinweist, folgen Sie den <span class="link"><a href="#not-recognized" title="Funknetzwerkadapter wurde nicht erkannt">Anleitungen weiter unten</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -128,14 +128,14 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Problemlösungen für Funknetzwerke">Zurück</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Problemlösungen für Funknetzwerke">Weiter</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.de" title="Problemlösungen für Funknetzwerke">Zurück</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.de" title="Problemlösungen für Funknetzwerke">Weiter</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Problemlösungen für Funknetzwerke">Problemlösungen für Funknetzwerke</a><span class="desc"> — Probleme mit Ihrer Funknetzwerkverbindung eingrenzen und lösen.</span>
+<a href="net-wireless-troubleshooting.html.de" title="Problemlösungen für Funknetzwerke">Problemlösungen für Funknetzwerke</a><span class="desc"> — Probleme mit Ihrer Funknetzwerkverbindung eingrenzen und lösen.</span>
 </li></ul></div>
 </div></div></div>
 </div>

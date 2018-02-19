@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html#setup" title="Een printer instellen">Setup</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html.nl#setup" title="Een printer instellen">Setup</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een lokale printer instellen</span></h1></div>
@@ -61,7 +61,7 @@
 </ol></div></div></div>
 <p class="p">Als uw printer niet automatisch werd ingesteld, dan kunt u hem toevoegen bij de printerinstellingen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Printers</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Unlock</span> button in the top-right corner and enter
       your password.</p></li>
@@ -69,19 +69,19 @@
 <li class="steps"><p class="p">In het net verschenen venster, selecteer uw nieuwe printer. Klik op Click <span class="gui">Toevoegen</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Als uw printer niet verschijnt in het venster Een nieuwe printer toevoegen, moet u wellicht printer-stuurprogramma's installeren.</p>
-<p class="p">Nadat u de printer heeft geïnstalleerd wilt u misschien <span class="link"><a href="printing-setup-default-printer.html" title="De standaardprinter instellen"> de standaardprinter wijzigen</a></span>.</p>
+<p class="p">Nadat u de printer heeft geïnstalleerd wilt u misschien <span class="link"><a href="printing-setup-default-printer.html.nl" title="De standaardprinter instellen"> de standaardprinter wijzigen</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Een printer instellen">Een printer instellen</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.nl#setup" title="Een printer instellen">Een printer instellen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-setup-default-printer.html" title="De standaardprinter instellen">De standaardprinter instellen</a><span class="desc"> — Kies de printer die u het meest gebruikt.</span>
+<a href="printing-setup-default-printer.html.nl" title="De standaardprinter instellen">De standaardprinter instellen</a><span class="desc"> — Kies de printer die u het meest gebruikt.</span>
 </li></ul></div>
 </div></div>
 </div>

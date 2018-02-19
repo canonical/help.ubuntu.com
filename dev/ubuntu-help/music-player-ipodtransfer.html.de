@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Ton, Video und Bilder">Ton, Video und Bilder</a> › <a class="trail" href="media.html#music" title="Musik und tragbare Wiedergabegeräte">Musik und Wiedergabeprogramme</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.de" title="Ton, Video und Bilder">Ton, Video und Bilder</a> › <a class="trail" href="media.html.de#music" title="Musik und tragbare Wiedergabegeräte">Musik und Wiedergabeprogramme</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Titel tauchen auf meinem iPod nicht auf, wenn ich sie dorthin kopiere</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Wenn Sie einen iPod an Ihren Rechner anschließen, erscheint er in Ihrer Musikwiedergabe-Anwendung und auch in der Dateiverwaltung (die Anwendung <span class="app">Dateien</span> in der <span class="gui">Aktivitäten</span>-Übersicht. Sie müssen Titel auf Ihren iPod mit der Musikwiedergabe kopieren – wenn Sie sie mit der Dateiverwaltung dorthin kopieren, wird es nicht gehen, weil die Titel nicht an der richtigen Stelle abgelegt werden. iPods verwenden einen bestimmten Ort zum Speichern der Titel, den Musikwiedergabe-Anwendungen ausfindig machen können, nicht aber die Dateiverwaltung.</p>
-<p class="p">Sie müssen außerdem warten, bis die Titel vollständig kopiert sind, bevor Sie den iPod wieder ausstecken. Vor dem Ausstecken des iPods sollten Sie ihn <span class="link"><a href="files-removedrive.html" title="Ein externes Laufwerk sicher entfernen">sicher entfernen</a></span>. Dadurch wird sichergestellt, dass alle Titel richtig hinüber kopiert worden sind.</p>
+<p class="p">Sie müssen außerdem warten, bis die Titel vollständig kopiert sind, bevor Sie den iPod wieder ausstecken. Vor dem Ausstecken des iPods sollten Sie ihn <span class="link"><a href="files-removedrive.html.de" title="Ein externes Laufwerk sicher entfernen">sicher entfernen</a></span>. Dadurch wird sichergestellt, dass alle Titel richtig hinüber kopiert worden sind.</p>
 <p class="p">Ein weiterer Grund, warum Titel auf Ihrem iPod nicht auftauchen, könnte sein, dass die Musikwiedergabe-Anwendung, die Sie verwenden, das Umwandeln der Titel von einem Audioformat ins andere nicht unterstützt. Wenn Sie einen Titel in einem Audioformat kopieren, das von Ihrem iPod nicht unterstützt wird (zum Beispiel eine Ogg-Vorbis-Datei (.oga)), wird die Musikwiedergabe versuchen, die Datei in ein Format zu konvertieren, dass der iPod kennt, wie etwa MP3. Wenn die erforderliche Umwandlungssoftware (auch Codec oder Encoder genannt) nicht installiert ist, wird die Musikwiedergabe nicht in der Lage sein, die Umwandlung durchzuführen, und den Titel deswegen nicht kopieren. Sehen Sie in der Paketverwaltung nach einem geeigneten Codec nach.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#music" title="Musik und tragbare Wiedergabegeräte">Musik und Wiedergabeprogramme</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.de#music" title="Musik und tragbare Wiedergabegeräte">Musik und Wiedergabeprogramme</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

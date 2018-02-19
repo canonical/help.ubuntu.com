@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html.sl#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="Souporaba">Souporaba</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.sl" title="Souporaba">Souporaba</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,7 +61,7 @@ file manager.</p>
 <div class="title title-steps"><h2><span class="title">To share a file by email:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="app">Files</span> application from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview.</p></li>
 <li class="steps"><p class="p">Najdite datoteko, ki jo želite prenesti.</p></li>
 <li class="steps"><p class="p">Right-click the file and select <span class="gui">Send to…</span>. An email compose
       window will appear with the file attached.</p></li>
@@ -80,12 +80,12 @@ file manager.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
+<li class="links "><a href="files.html.sl#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
 <li class="links ">
-<a href="sharing.html" title="Souporaba">Souporaba</a><span class="desc"> — 
-      <span class="link"><a href="sharing-desktop.html" title="Dajte svoje namizje v souporabo">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html" title="Share files by email">Share files by email</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Share your music, photos and videos">Media sharing</a></span>…
+<a href="sharing.html.sl" title="Souporaba">Souporaba</a><span class="desc"> — 
+      <span class="link"><a href="sharing-desktop.html.sl" title="Dajte svoje namizje v souporabo">Desktop sharing</a></span>,
+      <span class="link"><a href="files-share.html.sl" title="Share files by email">Share files by email</a></span>,
+      <span class="link"><a href="sharing-media.html.sl" title="Share your music, photos and videos">Media sharing</a></span>…
     </span>
 </li>
 </ul></div>
@@ -94,10 +94,10 @@ file manager.</p>
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="nautilus-connect.html" title="Brskanje datotek na strežniku ali omrežni souporabi">Brskanje datotek na strežniku ali omrežni souporabi</a><span class="desc"> — Ogled in urejanje datotek na drugem računalniku preko FTP, SSH, souporab Windows ali WebDAV.</span>
+<a href="nautilus-connect.html.sl" title="Brskanje datotek na strežniku ali omrežni souporabi">Brskanje datotek na strežniku ali omrežni souporabi</a><span class="desc"> — Ogled in urejanje datotek na drugem računalniku preko FTP, SSH, souporab Windows ali WebDAV.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">Send files to a Bluetooth device</a><span class="desc"> — Souporaba datotek z napravami z omogočenim Bluetooth, kot je telefon.</span>
+<a href="bluetooth-send-file.html.sl" title="Send files to a Bluetooth device">Send files to a Bluetooth device</a><span class="desc"> — Souporaba datotek z napravami z omogočenim Bluetooth, kot je telefon.</span>
 </li>
 </ul></div>
 </div></div>

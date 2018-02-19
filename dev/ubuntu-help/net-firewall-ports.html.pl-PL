@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Commonly-used network ports</title>
+<title>Często używane porty sieciowe</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,15 +43,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-security.html" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Commonly-used network ports</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Często używane porty sieciowe</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">This is a list of network ports commonly used by applications that provide
   network services, like file sharing or remote desktop viewing. You can change
-  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html" title="Enable or block firewall access">block or allow
+  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html.pl-PL" title="Enable or block firewall access">block or allow
   access</a></span> to these applications. There are thousands of ports in use, so
   this table isn’t complete.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
@@ -105,17 +105,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="Do I need anti-virus software?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Enable or block firewall access">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Commonly-used network ports">firewall ports</a></span>…
+<a href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a><span class="desc"> — 
+      <span class="link"><a href="net-antivirus.html.pl-PL" title="Czy potrzebuję oprogramowania antywirusowego?">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.pl-PL" title="Enable or block firewall access">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.pl-PL" title="Często używane porty sieciowe">firewall ports</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-on-off.html" title="Enable or block firewall access">Enable or block firewall access</a><span class="desc"> — You can control which programs can access the network. This helps to keep your computer secure.</span>
+<a href="net-firewall-on-off.html.pl-PL" title="Enable or block firewall access">Enable or block firewall access</a><span class="desc"> — You can control which programs can access the network. This helps to keep your computer secure.</span>
 </li></ul></div>
 </div></div>
 </div>

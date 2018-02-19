@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="keyboard.html.gl-GL" title="Teclado">Teclado</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="a11y.html" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html#mobility" title="Deficiencias motoras">Deficiencias motoras</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="a11y.html.gl-GL" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">Deficiencias motoras</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="keyboard.html.gl-GL" title="Teclado">Teclado</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">Active as <span class="em">teclas lentas</span> se quere que haxa un retardo entre a pulsación dunha tecla e a visualización desa letra na pantalla. Isto significa que terá que manter premida un pouco cada tecla que desexa teclear antes de que apareza. Use as teclas lentas se preme accidentalmente varias teclas á vez cando teclea, ou se lle resulta difícil premer a tecla axeitada no teclado a primeira vez.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
 <li class="steps"><p class="p">Prema sobre <span class="gui">Acceso universal</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Abra <span class="gui">Asistencia de escritra (AccessX)</span> na sección <span class="gui">Escritura</span>.</p></li>
 <li class="steps"><p class="p">Troque <span class="gui">Teclas lentas</span> a <span class="gui">I</span>.</p></li>
@@ -66,7 +66,7 @@
 <div class="title title-note"><h2><span class="title">Activar e desactivar rapidamente as teclas lentas</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Seleccione <span class="gui">Activar as características de accesibilidade desde o teclado</span> para activar e desactivar as teclas lentas desde o teclado. Cando esta opción está seleccionada pode premer e manter premida a tecla <span class="key"><kbd>Maíus</kbd></span> durante oito segundos para activar ou desactivar as teclas lentas.</p>
-<p class="p">Pode activar e desactivar os teclas lentas de forma rápida premendo na <span class="link"><a href="a11y-icon.html" title="Atopar o menú de acceso universal">icona de accesibilidade</a></span> desde a barra superior e seleccionando <span class="gui">Teclas lentas</span>. A tecla de accesibilidade é visíbel cando unha ou máis configuracións se activen desde o panel de <span class="gui">Acceso universal</span>.</p>
+<p class="p">Pode activar e desactivar os teclas lentas de forma rápida premendo na <span class="link"><a href="a11y-icon.html.gl-GL" title="Atopar o menú de acceso universal">icona de accesibilidade</a></span> desde a barra superior e seleccionando <span class="gui">Teclas lentas</span>. A tecla de accesibilidade é visíbel cando unha ou máis configuracións se activen desde o panel de <span class="gui">Acceso universal</span>.</p>
 </div></div>
 </div></div>
 <p class="p">Use o deslizador <span class="gui">Retardo de aceptación</span> para controlar canto tempo debe manter premida a tecla para que se rexistre.</p>
@@ -77,9 +77,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Deficiencias motoras">Deficiencias motoras</a></li>
+<li class="links "><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">Deficiencias motoras</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Usar distribucións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span>
+<a href="keyboard.html.gl-GL" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

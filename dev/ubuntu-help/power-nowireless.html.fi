@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> › <a class="trail" href="hardware.html#problems" title="Yleisiä ongelmia">Ongelmat</a> » <a class="trail" href="power.html#problems" title="Ongelmat">Virranhallinnan ja akun ongelmat</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> › <a class="trail" href="hardware.html.fi#problems" title="Yleisiä ongelmia">Ongelmat</a> » <a class="trail" href="power.html.fi#problems" title="Ongelmat">Virranhallinnan ja akun ongelmat</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tietokoneen langaton verkkoyhteys ei toimi lepo- tai valmiustilasta palauttamisen jälkeen</span></h1></div>
@@ -51,13 +51,13 @@
 <div class="contents">
 <p class="p">If you have suspended your computer, you may find that your wireless
   internet connection does not work when you resume it again. This happens when
-  the <span class="link"><a href="hardware-driver.html" title="Mikä ajuri on?">driver</a></span> for the wireless device does
+  the <span class="link"><a href="hardware-driver.html.fi" title="Mikä ajuri on?">driver</a></span> for the wireless device does
   not fully support certain power saving features.
   Typically, the wireless connection fails to turn on properly when the
   computer is resumed.</p>
 <p class="p">Jos näin tapahtuu, kytke langaton verkkoyhteys pois päältä ja sitten takaisin päälle:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Verkko</span>.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Wi-Fi</span>.</p></li>
@@ -75,17 +75,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html#problems" title="Ongelmat">Virranhallinnan ja akun ongelmat</a><span class="desc"> — Ratkaise virranhallintaan ja akkukäyttöön liittyviä ongelmia.</span>
+<a href="power.html.fi#problems" title="Ongelmat">Virranhallinnan ja akun ongelmat</a><span class="desc"> — Ratkaise virranhallintaan ja akkukäyttöön liittyviä ongelmia.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspendfail.html" title="Miksi tietokoneeni ei suostu palaamaan valmiustilasta?">Miksi tietokoneeni ei suostu palaamaan valmiustilasta?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.fi" title="Miksi tietokoneeni ei suostu palaamaan valmiustilasta?">Miksi tietokoneeni ei suostu palaamaan valmiustilasta?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="Mikä ajuri on?">Mikä ajuri on?</a><span class="desc"> — Laitteistoajuri mahdollistaa tietokoneeseesi liitettyjen laitteiden käyttämisen.</span>
+<a href="hardware-driver.html.fi" title="Mikä ajuri on?">Mikä ajuri on?</a><span class="desc"> — Laitteistoajuri mahdollistaa tietokoneeseesi liitettyjen laitteiden käyttämisen.</span>
 </li>
 </ul></div>
 </div></div>

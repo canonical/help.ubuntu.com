@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="media.html" title="Son, vídeo e imaxes">Son, vídeo e imaxes</a> › <a class="trail" href="media.html#videos" title="Vídeos e videocámaras">Vídeos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="media.html.gl-GL" title="Son, vídeo e imaxes">Son, vídeo e imaxes</a> › <a class="trail" href="media.html.gl-GL#videos" title="Vídeos e videocámaras">Vídeos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Other people can’t play the videos I made</span></h1></div>
@@ -53,7 +53,7 @@
 <p class="p">Para poder reproducir o seu vídeo a persoa á que llo enviou debe instalar os <span class="em">codecs</span> axeitados. Un códec é un programa que sabe como tratar un vídeo e mostrarllo na pantalla. Hai moitos formatos de vídeo diferentes e cada un require un códec diferente para poder reproducilo.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Open <span class="app">Files</span> from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview.</p></li>
 <li class="list"><p class="p">Right-click on the video file and select <span class="gui">Properties</span>.</p></li>
 <li class="list"><p class="p">Go to the <span class="gui">Audio/Video</span> or <span class="gui">Video</span> tab and look at
       which <span class="gui">Codec</span> are listed under <span class="gui">Video</span> and
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Vídeos e videocámaras">Vídeos</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.gl-GL#videos" title="Vídeos e videocámaras">Vídeos</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

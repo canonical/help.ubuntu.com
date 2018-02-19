@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="prefs-display.html" title="Монитор и экран">Монитор и экран</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="prefs-display.html.ru" title="Монитор и экран">Монитор и экран</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Изменение разрешения или ориентации экрана</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Изменяя <span class="em">разрешение экрана</span>, можно настроить, насколько крупно (или насколько подробно) показываются элементы изображения на экране. А изменяя <span class="em">ориентацию</span> экрана (если, например, у вас есть вращающийся экран), можно настроить, какая сторона экрана будет верхней.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Displays</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Мониторы</span>, чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Если у вас есть несколько мониторов, и они не отражаются зеркально, то к каждому монитору можно применить отдельные настройки. Выберите монитор в области предварительного просмотра.</p></li>
@@ -69,7 +69,7 @@
   resolution that does not match the aspect ratio of your display, the screen
   will be letterboxed to avoid distortion, by adding black bars to the top and
   bottom or both sides of the screen.</p>
-<p class="p">Выбрать нужное разрешение можно из выпадающего списка <span class="gui">Разрешение</span>. Если выбрано разрешение, не подходящее для вашего экрана, изображение может стать <span class="link"><a href="look-display-fuzzy.html" title="Почему изображение на экране выглядит расплывчатым или мозаичным?">размытым или мозаичным</a></span>.</p>
+<p class="p">Выбрать нужное разрешение можно из выпадающего списка <span class="gui">Разрешение</span>. Если выбрано разрешение, не подходящее для вашего экрана, изображение может стать <span class="link"><a href="look-display-fuzzy.html.ru" title="Почему изображение на экране выглядит расплывчатым или мозаичным?">размытым или мозаичным</a></span>.</p>
 </div></div>
 </div></div>
 <div id="rotation" class="sect"><div class="inner">
@@ -82,13 +82,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Монитор и экран">Монитор и экран</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Изменение фонов рабочего стола и экрана блокировки">Фон</a></span>, <span class="link"><a href="look-resolution.html" title="Изменение разрешения или ориентации экрана">размер и ориентация</a></span>, яркость…</span>
+<a href="prefs-display.html.ru" title="Монитор и экран">Монитор и экран</a><span class="desc"> — <span class="link"><a href="look-background.html.ru" title="Изменение фонов рабочего стола и экрана блокировки">Фон</a></span>, <span class="link"><a href="look-resolution.html.ru" title="Изменение разрешения или ориентации экрана">размер и ориентация</a></span>, яркость…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-display-fuzzy.html" title="Почему изображение на экране выглядит расплывчатым или мозаичным?">Почему изображение на экране выглядит расплывчатым или мозаичным?</a><span class="desc"> — Возможно, выбрано неправильное разрешение экрана.</span>
+<a href="look-display-fuzzy.html.ru" title="Почему изображение на экране выглядит расплывчатым или мозаичным?">Почему изображение на экране выглядит расплывчатым или мозаичным?</a><span class="desc"> — Возможно, выбрано неправильное разрешение экрана.</span>
 </li></ul></div>
 </div></div>
 </div>

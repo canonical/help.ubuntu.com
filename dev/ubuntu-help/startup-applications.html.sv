@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html#apps" title="Program och fönster">Program och fönster</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html.sv" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html.sv#apps" title="Program och fönster">Program och fönster</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -66,9 +66,9 @@
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html" title="Användarkonton">användarkonton</a></span>…</span>
+<a href="prefs.html.sv" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html.sv" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html.sv" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html.sv" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html.sv" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html.sv" title="Användarkonton">användarkonton</a></span>…</span>
 </li>
-<li class="links "><a href="shell-overview.html#apps" title="Program och fönster">Program och fönster</a></li>
+<li class="links "><a href="shell-overview.html.sv#apps" title="Program och fönster">Program och fönster</a></li>
 </ul></div>
 </div></div></div>
 </div>

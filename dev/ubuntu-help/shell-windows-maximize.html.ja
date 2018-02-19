@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">デスクトップ</a> › <a class="trail" href="shell-overview.html#apps" title="アプリケーションとウィンドウ">アプリケーションとウィンドウ</a> » <a class="trail" href="shell-windows.html" title="ウィンドウとワークスペース">ウィンドウとワークスペース</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="ウィンドウを扱う">ウィンドウ</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ja" title="Your desktop">デスクトップ</a> › <a class="trail" href="shell-overview.html.ja#apps" title="アプリケーションとウィンドウ">アプリケーションとウィンドウ</a> » <a class="trail" href="shell-windows.html.ja" title="ウィンドウとワークスペース">ウィンドウとワークスペース</a> › <a class="trail" href="shell-windows.html.ja#working-with-windows" title="ウィンドウを扱う">ウィンドウ</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ウィンドウを最大化する、元に戻す</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">ウィンドウを最大化して画面全体に表示したり、逆に元のサイズに戻したりできます。また、画面の左右半分にウィンドウを縦に最大化して表示することもできます。2 つのウィンドウを左右に配置して同時に確認することができます。詳細については、<span class="link"><a href="shell-windows-tiled.html" title="ウィンドウを左右に並べる">ウィンドウを左右に並べる</a></span> を参照してください。</p>
-<p class="p">ウィンドウを最大化するには、タイトルバーをつかんで画面トップまでドラッグします。あるいはタイトルバーをダブルクリックするだけでも最大化できます。キーボードを使ってウィンドウを最大化するには、<span class="key"><a href="keyboard-key-super.html" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span> キーを押しながら <span class="key"><kbd>↑</kbd></span> を押すか、あるいは <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> を押します。</p>
+<p class="p">ウィンドウを最大化して画面全体に表示したり、逆に元のサイズに戻したりできます。また、画面の左右半分にウィンドウを縦に最大化して表示することもできます。2 つのウィンドウを左右に配置して同時に確認することができます。詳細については、<span class="link"><a href="shell-windows-tiled.html.ja" title="ウィンドウを左右に並べる">ウィンドウを左右に並べる</a></span> を参照してください。</p>
+<p class="p">ウィンドウを最大化するには、タイトルバーをつかんで画面トップまでドラッグします。あるいはタイトルバーをダブルクリックするだけでも最大化できます。キーボードを使ってウィンドウを最大化するには、<span class="key"><a href="keyboard-key-super.html.ja" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span> キーを押しながら <span class="key"><kbd>↑</kbd></span> を押すか、あるいは <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> を押します。</p>
 <p class="p">ウィンドウを元のサイズに戻すには、ウィンドウをドラッグして画面端から引き離します。ウィンドウが最大化されている場合は、タイトルバーをダブルクリックして元のサイズに戻すことができます。また、最大化に使用したものと同じショートカットが使用できます。</p>
 <div class="note note-tip" title="ヒント"><div class="inner"><div class="region"><div class="contents"><p class="p">Hold down the <span class="key"><kbd>Super</kbd></span> key and drag anywhere in a window to move
     it.</p></div></div></div></div>
@@ -60,12 +60,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="ウィンドウを扱う">ウィンドウを扱う</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.ja#working-with-windows" title="ウィンドウを扱う">ウィンドウを扱う</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-tiled.html" title="ウィンドウを左右に並べる">ウィンドウを左右に並べる</a><span class="desc"> — ウィンドウを画面の左右両側に最大化します。</span>
+<a href="shell-windows-tiled.html.ja" title="ウィンドウを左右に並べる">ウィンドウを左右に並べる</a><span class="desc"> — ウィンドウを画面の左右両側に最大化します。</span>
 </li></ul></div>
 </div></div>
 </div>

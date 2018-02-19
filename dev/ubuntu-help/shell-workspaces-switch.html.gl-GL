@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicativos e xanelas">Aplicativos e xanelas</a> » <a class="trail" href="shell-windows.html" title="Xanelas e espazos de traballo">Xanelas e espazos de traballo</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Traballar cos espazos de traballo">Espazo de traballo</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="shell-overview.html.gl-GL" title="Your desktop">Escritorio</a> › <a class="trail" href="shell-overview.html.gl-GL#apps" title="Aplicativos e xanelas">Aplicativos e xanelas</a> » <a class="trail" href="shell-windows.html.gl-GL" title="Xanelas e espazos de traballo">Xanelas e espazos de traballo</a> › <a class="trail" href="shell-windows.html.gl-GL#working-with-workspaces" title="Traballar cos espazos de traballo">Espazo de traballo</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Trocar entre os espazos de traballo</span></h1></div>
@@ -53,8 +53,8 @@
 <div class="title title-steps"><h2><span class="title">Usando o rato:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the
-    <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview.</p></li>
-<li class="steps"><p class="p">Click on a workspace in the <span class="link"><a href="shell-workspaces.html" title="Que é un espazo de traballo e como poden axudarme?">workspace
+    <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview.</p></li>
+<li class="steps"><p class="p">Click on a workspace in the <span class="link"><a href="shell-workspaces.html.gl-GL" title="Que é un espazo de traballo e como poden axudarme?">workspace
   selector</a></span> on the right side of the screen to view the open windows on
   that workspace.</p></li>
 <li class="steps"><p class="p">Prema sobre calquera miniatura de xanela para activar o espazo de traballo.</p></li>
@@ -64,7 +64,7 @@
 <div class="title title-list"><h2><span class="title">Usando o teclado:</span></h2></div>
 <div class="region"><ul class="list">
 <li class="list"><p class="p">Press
-    <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span>
+    <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.gl-GL" title="Que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span>
     or <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span> to move to
     the workspace shown above the current workspace in the workspace selector.
     </p></li>
@@ -79,12 +79,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Traballar cos espazos de traballo">Traballar cos espazos de traballo</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.gl-GL#working-with-workspaces" title="Traballar cos espazos de traballo">Traballar cos espazos de traballo</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-workspaces.html" title="Que é un espazo de traballo e como poden axudarme?">Que é un espazo de traballo e como poden axudarme?</a><span class="desc"> — Os espazos de traballo son a forma de agrupar xanelas no seu escritorio.</span>
+<a href="shell-workspaces.html.gl-GL" title="Que é un espazo de traballo e como poden axudarme?">Que é un espazo de traballo e como poden axudarme?</a><span class="desc"> — Os espazos de traballo son a forma de agrupar xanelas no seu escritorio.</span>
 </li></ul></div>
 </div></div>
 </div>

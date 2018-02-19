@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.kn" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.kn" title="Hardware &amp; drivers">Hardware</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">ಸಿದ್ಧತೆಗಳು</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.kn" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.kn" title="User &amp; system settings">ಸಿದ್ಧತೆಗಳು</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,17 +54,17 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-status.html" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html" title="Get the most out of your laptop battery"><span class="title">Get the most out of your laptop battery</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html" title="How do I hibernate my computer?"><span class="title">How do I hibernate my computer?</span><span class="linkdiv-dash"> — </span><span class="desc">Hibernate is disabled by default since it's not well supported.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
+<div class="linkdiv "><a class="linkdiv" href="power-status.html.kn" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.kn" title="Get the most out of your laptop battery"><span class="title">Get the most out of your laptop battery</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.kn" title="How do I hibernate my computer?"><span class="title">How do I hibernate my computer?</span><span class="linkdiv-dash"> — </span><span class="desc">Hibernate is disabled by default since it's not well supported.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.kn" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
     users, and so on.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-wireless.html" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batterylife.html" title="Use less power and improve battery life"><span class="title">Use less power and improve battery life</span><span class="linkdiv-dash"> — </span><span class="desc">Tips to reduce the power consumption of your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspend.html" title="What happens when I suspend my computer?"><span class="title">What happens when I suspend my computer?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspend sends your computer to sleep so it uses less power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-closelid.html" title="Why does my computer turn off when I close the lid?"><span class="title">Why does my computer turn off when I close the lid?</span><span class="linkdiv-dash"> — </span><span class="desc">Laptops go to sleep when you close the lid, in order to save
+<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.kn" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.kn" title="Use less power and improve battery life"><span class="title">Use less power and improve battery life</span><span class="linkdiv-dash"> — </span><span class="desc">Tips to reduce the power consumption of your computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspend.html.kn" title="What happens when I suspend my computer?"><span class="title">What happens when I suspend my computer?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspend sends your computer to sleep so it uses less power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.kn" title="Why does my computer turn off when I close the lid?"><span class="title">Why does my computer turn off when I close the lid?</span><span class="linkdiv-dash"> — </span><span class="desc">Laptops go to sleep when you close the lid, in order to save
     power.</span></a></div>
 </div>
 </div></div></div></div>
@@ -72,12 +72,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Power saving settings</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html" title="Enable automatic brightness"><span class="title">Enable automatic brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.kn" title="Enable automatic brightness"><span class="title">Enable automatic brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.kn" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html" title="Set up automatic suspend"><span class="title">Set up automatic suspend</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your computer to suspend automatically.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Why does my screen go dim after a while?"><span class="title">Why does my screen go dim after a while?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.kn" title="Set up automatic suspend"><span class="title">Set up automatic suspend</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your computer to suspend automatically.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.kn" title="Why does my screen go dim after a while?"><span class="title">Why does my screen go dim after a while?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -85,13 +85,13 @@
 <div class="hgroup"><h2 class="title"><span class="title">ಪ್ರಶ್ನೆಗಳು</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html" title="The estimated battery life is wrong"><span class="title">The estimated battery life is wrong</span><span class="linkdiv-dash"> — </span><span class="desc">The battery life displayed when you click on the <span class="gui">battery icon</span> is an estimate.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html" title="Why did my computer turn off when the battery got to 10%?"><span class="title">Why did my computer turn off when the battery got to 10%?</span><span class="linkdiv-dash"> — </span><span class="desc">Allowing the battery to completely discharge is bad for it.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html.kn" title="The estimated battery life is wrong"><span class="title">The estimated battery life is wrong</span><span class="linkdiv-dash"> — </span><span class="desc">The battery life displayed when you click on the <span class="gui">battery icon</span> is an estimate.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html.kn" title="Why did my computer turn off when the battery got to 10%?"><span class="title">Why did my computer turn off when the battery got to 10%?</span><span class="linkdiv-dash"> — </span><span class="desc">Allowing the battery to completely discharge is bad for it.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html" title="Why do I have less battery life than I did on Windows/Mac OS?"><span class="title">Why do I have less battery life than I did on Windows/Mac OS?</span><span class="linkdiv-dash"> — </span><span class="desc">Tweaks from the manufacturer and differing battery life estimates may
+<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html.kn" title="Why do I have less battery life than I did on Windows/Mac OS?"><span class="title">Why do I have less battery life than I did on Windows/Mac OS?</span><span class="linkdiv-dash"> — </span><span class="desc">Tweaks from the manufacturer and differing battery life estimates may
     be the cause of this problem.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html" title="Why is my laptop slow when it is on battery?"><span class="title">Why is my laptop slow when it is on battery?</span><span class="linkdiv-dash"> — </span><span class="desc">Some laptops intentionally slow down when they are running on battery.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html.kn" title="Why is my laptop slow when it is on battery?"><span class="title">Why is my laptop slow when it is on battery?</span><span class="linkdiv-dash"> — </span><span class="desc">Some laptops intentionally slow down when they are running on battery.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -100,16 +100,16 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html" title="I have no wireless network when I wake up my computer"><span class="title">I have no wireless network when I wake up my computer</span><span class="linkdiv-dash"> — </span><span class="desc">Some wireless devices have problems handling when your computer is
+<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html.kn" title="I have no wireless network when I wake up my computer"><span class="title">I have no wireless network when I wake up my computer</span><span class="linkdiv-dash"> — </span><span class="desc">Some wireless devices have problems handling when your computer is
     suspended and does not resume properly.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html" title="My computer gets really hot"><span class="title">My computer gets really hot</span><span class="linkdiv-dash"> — </span><span class="desc">Computers usually get warm, but if they get too hot they can overheat, which can be damaging.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="My computer will not turn on"><span class="title">My computer will not turn on</span><span class="linkdiv-dash"> — </span><span class="desc">Loose cables and hardware problems are possible reasons.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html.kn" title="My computer gets really hot"><span class="title">My computer gets really hot</span><span class="linkdiv-dash"> — </span><span class="desc">Computers usually get warm, but if they get too hot they can overheat, which can be damaging.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.kn" title="My computer will not turn on"><span class="title">My computer will not turn on</span><span class="linkdiv-dash"> — </span><span class="desc">Loose cables and hardware problems are possible reasons.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html" title="The laptop fan is always running"><span class="title">The laptop fan is always running</span><span class="linkdiv-dash"> — </span><span class="desc">Some fan-control software could be missing, or your laptop may be
+<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html.kn" title="The laptop fan is always running"><span class="title">The laptop fan is always running</span><span class="linkdiv-dash"> — </span><span class="desc">Some fan-control software could be missing, or your laptop may be
     running hot.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="Why does my computer not turn back on after I suspended it?"><span class="title">Why does my computer not turn back on after I suspended it?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-othercountry.html" title="Will my computer work with a power supply in another country?"><span class="title">Will my computer work with a power supply in another country?</span><span class="linkdiv-dash"> — </span><span class="desc">Your computer will work, but you might need a different power cable or
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.kn" title="Why does my computer not turn back on after I suspended it?"><span class="title">Why does my computer not turn back on after I suspended it?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-othercountry.html.kn" title="Will my computer work with a power supply in another country?"><span class="title">Will my computer work with a power supply in another country?</span><span class="linkdiv-dash"> — </span><span class="desc">Your computer will work, but you might need a different power cable or
     a travel adapter.</span></a></div>
 </div>
 </div></div></div></div>
@@ -117,7 +117,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">ಇನ್ನಷ್ಟು ಮಾಹಿತಿ</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Common problems">Hardware problems</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.kn#problems" title="Common problems">Hardware problems</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -128,22 +128,22 @@
 <div class="title"><h2><span class="title">ಇನ್ನಷ್ಟು ಮಾಹಿತಿ</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html" title="Hardware &amp; drivers">Hardware &amp; drivers</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html" title="ಮುದ್ರಣ">printers</a></span>,
-      <span class="link"><a href="power.html" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html" title="Color management">color management</a></span>,
-      <span class="link"><a href="bluetooth.html" title="ಬ್ಲೂಟೂತ್‌">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html" title="Disks &amp; storage">disks</a></span>…
+<a href="hardware.html.kn" title="Hardware &amp; drivers">Hardware &amp; drivers</a><span class="desc"> — 
+      <span class="link"><a href="hardware.html.kn#problems" title="Common problems">Hardware problems</a></span>,
+      <span class="link"><a href="printing.html.kn" title="ಮುದ್ರಣ">printers</a></span>,
+      <span class="link"><a href="power.html.kn" title="Power &amp; battery">power settings</a></span>,
+      <span class="link"><a href="color.html.kn" title="Color management">color management</a></span>,
+      <span class="link"><a href="bluetooth.html.kn" title="ಬ್ಲೂಟೂತ್‌">Bluetooth</a></span>,
+      <span class="link"><a href="disk.html.kn" title="Disks &amp; storage">disks</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="prefs.html" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html" title="ಕೀಲಿಮಣೆ">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html" title="ಮೌಸ್">mouse</a></span>,
-      <span class="link"><a href="prefs-display.html" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html" title="Region &amp; Language">languages</a></span>,
-      <span class="link"><a href="user-accounts.html" title="User accounts">user accounts</a></span>…
+<a href="prefs.html.kn" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
+      <span class="link"><a href="keyboard.html.kn" title="ಕೀಲಿಮಣೆ">Keyboard</a></span>,
+      <span class="link"><a href="mouse.html.kn" title="ಮೌಸ್">mouse</a></span>,
+      <span class="link"><a href="prefs-display.html.kn" title="Display &amp; screen">display</a></span>,
+      <span class="link"><a href="prefs-language.html.kn" title="Region &amp; Language">languages</a></span>,
+      <span class="link"><a href="user-accounts.html.kn" title="User accounts">user accounts</a></span>…
     </span>
 </li>
 </ul></div>

@@ -43,28 +43,28 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html#common-file-tasks" title="Yleiset tehtävät">Yleiset tehtävät</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.fi" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html.fi#common-file-tasks" title="Yleiset tehtävät">Yleiset tehtävät</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Selaa tiedostoja ja kansioita</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p"><span class="app">Tiedostot</span> on tiedostojenhallintaohjelma, jolla voit selata tietokoneesi sisältöä. Sitä voi käyttää myös tiedostojen hallitsemiseen ulkoisilla tallennuslaitteilla (kuten ulkoisilla kiintolevyillä), <span class="link"><a href="nautilus-connect.html" title="Selaa palvelimen verkkojaon tiedostoja">tiedostopalvelimilla</a></span> ja verkkokansioissa.</p>
+<p class="p"><span class="app">Tiedostot</span> on tiedostojenhallintaohjelma, jolla voit selata tietokoneesi sisältöä. Sitä voi käyttää myös tiedostojen hallitsemiseen ulkoisilla tallennuslaitteilla (kuten ulkoisilla kiintolevyillä), <span class="link"><a href="nautilus-connect.html.fi" title="Selaa palvelimen verkkojaon tiedostoja">tiedostopalvelimilla</a></span> ja verkkokansioissa.</p>
 <p class="p">To start the file manager, open <span class="app">Files</span> in the
-<span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview. You can also search
+<span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview. You can also search
 for files and folders through the overview in the same way you would
-<span class="link"><a href="shell-apps-open.html" title="Sovelluksien käynnistäminen">search for applications</a></span>.
+<span class="link"><a href="shell-apps-open.html.fi" title="Sovelluksien käynnistäminen">search for applications</a></span>.
 </p>
 </div>
 <div id="files-view-folder-contents" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Kansioiden sisällön tutkiminen.</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">In the file manager, double-click any folder to view its contents, and
-double-click or <span class="link"><a href="mouse-middleclick.html" title="Hiiren keskimmäisen painikkeen napsautus">middle-click</a></span> any file to
+double-click or <span class="link"><a href="mouse-middleclick.html.fi" title="Hiiren keskimmäisen painikkeen napsautus">middle-click</a></span> any file to
 open it with the default application for that file. Middle-click a folder to
 open it in a new tab. You can also right-click a folder to open it in a new tab
 or new window.</p>
-<p class="p">When looking through the files in a folder, you can quickly <span class="link"><a href="files-preview.html" title="Esikkatsele tiedostoja ja kansioita">preview each file</a></span> by pressing the space bar
+<p class="p">When looking through the files in a folder, you can quickly <span class="link"><a href="files-preview.html.fi" title="Esikkatsele tiedostoja ja kansioita">preview each file</a></span> by pressing the space bar
 to be sure you have the right file before opening it, copying it, or
 deleting it.</p>
 <p class="p">The <span class="em">path bar</span> above the list of files and folders shows you which
@@ -72,7 +72,7 @@ folder you’re viewing, including the parent folders of the current folder.
 Click a parent folder in the path bar to go to that folder. Right-click any
 folder in the path bar to open it in a new tab or window, or access its
 properties.</p>
-<p class="p">If you want to quickly <span class="link"><a href="files-search.html" title="Etsi tiedostoista">search for a file</a></span>,
+<p class="p">If you want to quickly <span class="link"><a href="files-search.html.fi" title="Etsi tiedostoista">search for a file</a></span>,
 in or below the folder you are viewing, start typing its name. A <span class="em">search
 bar</span> will appear at the top of the window and only files which match your
 search will be shown. Press <span class="key"><kbd>Esc</kbd></span> to cancel the search.</p>
@@ -89,12 +89,12 @@ and then select <span class="gui">Bookmark this Location</span>.</p>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Yleiset tehtävät">Yleiset tehtävät</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.fi#common-file-tasks" title="Yleiset tehtävät">Yleiset tehtävät</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-copy.html" title="Kopioi tai poista tiedostoja ja kansioita">Kopioi tai poista tiedostoja ja kansioita</a><span class="desc"> — Kopioi tai siirrä kohteita uuteen kansioon.</span>
+<a href="files-copy.html.fi" title="Kopioi tai poista tiedostoja ja kansioita">Kopioi tai poista tiedostoja ja kansioita</a><span class="desc"> — Kopioi tai siirrä kohteita uuteen kansioon.</span>
 </li></ul></div>
 </div></div>
 </div>

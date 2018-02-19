@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Iniciar aplicativos</span></h1></div>
@@ -51,9 +51,9 @@
 <div class="contents">
 <p class="p">Move your mouse pointer to the
   <span class="gui">Activities</span> corner at the top left of the screen to show the
-  <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview. This is where you
+  <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview. This is where you
   can find all of your applications. You can also open the overview by pressing
-  the <span class="key"><a href="keyboard-key-super.html" title="Que é a tecla Super?"><kbd>Super</kbd></a></span> key.</p>
+  the <span class="key"><a href="keyboard-key-super.html.gl-GL" title="Que é a tecla Super?"><kbd>Super</kbd></a></span> key.</p>
 <p class="p">There are several ways of opening an application once you’re in the
   <span class="gui">Activities</span> overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
@@ -65,12 +65,12 @@
 <p class="p">Some applications have icons in the <span class="em">dash</span>, the vertical strip
       of icons on the left-hand side of the <span class="gui">Activities</span> overview.
       Click one of these to start the corresponding application.</p>
-<p class="p">Se ten aplicativos que usa moi frecuentemente, pode <span class="link"><a href="shell-apps-favorites.html" title="Ancorar os seus aplicativos favoritos ao dash">engadilas ao taboleiro</a></span>.</p>
+<p class="p">Se ten aplicativos que usa moi frecuentemente, pode <span class="link"><a href="shell-apps-favorites.html.gl-GL" title="Ancorar os seus aplicativos favoritos ao dash">engadilas ao taboleiro</a></span>.</p>
 </li>
 <li class="list"><p class="p">Prema no botón da grella na parte inferior do panel lateral. Verá os aplicativos máis usados se a vista <span class="gui">Frecuentes</span> está activada. Se quere executar un novo aplicativo prema o botón <span class="gui">Todos</span> na parte inferior para ver todos os aplicativo. Prema sobre o aplicativo para inicialo.</p></li>
 <li class="list">
 <p class="p">You can launch an application in a separate
-      <span class="link"><a href="shell-workspaces.html" title="Que é un espazo de traballo e como poden axudarme?">workspace</a></span> by dragging its icon from
+      <span class="link"><a href="shell-workspaces.html.gl-GL" title="Que é un espazo de traballo e como poden axudarme?">workspace</a></span> by dragging its icon from
       the dash, and dropping it onto one of the workspaces on the right-hand
       side of the screen. The application will open in the chosen
       workspace.</p>
@@ -96,13 +96,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="index.html" title="Guia do escritorio Ubuntu">Guia do escritorio Ubuntu</a></li>
+<li class="links "><a href="index.html.gl-GL" title="Guia do escritorio Ubuntu">Guia do escritorio Ubuntu</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Your desktop">Your desktop</a><span class="desc"> — 
-      <span class="link"><a href="clock-calendar.html" title="Apuntamentos no reloxo">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="Notificacións e a bandexa de mensaxes">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="Atallos de teclado útiles">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="Xanelas e espazos de traballo">windows and workspaces</a></span>…
+<a href="shell-overview.html.gl-GL" title="Your desktop">Your desktop</a><span class="desc"> — 
+      <span class="link"><a href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo">Calendar</a></span>,
+      <span class="link"><a href="shell-notifications.html.gl-GL" title="Notificacións e a bandexa de mensaxes">notifications</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.gl-GL" title="Atallos de teclado útiles">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-windows.html.gl-GL" title="Xanelas e espazos de traballo">windows and workspaces</a></span>…
     </span>
 </li>
 </ul></div>
@@ -111,10 +111,10 @@
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-apps-favorites.html" title="Ancorar os seus aplicativos favoritos ao dash">Ancorar os seus aplicativos favoritos ao dash</a><span class="desc"> — Engadir (ou eliminar) iconas de programas de uso frecuente no taboleiro.</span>
+<a href="shell-apps-favorites.html.gl-GL" title="Ancorar os seus aplicativos favoritos ao dash">Ancorar os seus aplicativos favoritos ao dash</a><span class="desc"> — Engadir (ou eliminar) iconas de programas de uso frecuente no taboleiro.</span>
 </li>
-<li class="links "><a href="gs-launch-applications.html" title="Iniciar aplicativos">Un titorial sobre como iniciando aplicativos</a></li>
-<li class="links "><a href="gs-use-system-search.html" title="Usar a busca do sistema">Un titorial sobre como usar a busca do sistema</a></li>
+<li class="links "><a href="gs-launch-applications.html.gl-GL" title="Iniciar aplicativos">Un titorial sobre como iniciando aplicativos</a></li>
+<li class="links "><a href="gs-use-system-search.html.gl-GL" title="Usar a busca do sistema">Un titorial sobre como usar a busca do sistema</a></li>
 </ul></div>
 </div></div>
 </div>

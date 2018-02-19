@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="printing.html" title="Printing">Printing</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.he" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="printing.html.he" title="Printing">Printing</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">How can I check my printer’s ink or toner levels?</span></h1></div>
@@ -73,18 +73,18 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html" title="Printing">Printing</a><span class="desc"> — 
-      <span class="link"><a href="printing-setup.html" title="Set up a local printer">Local setup</a></span>,
+<a href="printing.html.he" title="Printing">Printing</a><span class="desc"> — 
+      <span class="link"><a href="printing-setup.html.he" title="Set up a local printer">Local setup</a></span>,
       
-      <span class="link"><a href="printing-order.html" title="Make pages print in a different order">order and collate</a></span>,
-      <span class="link"><a href="printing-2sided.html" title="Print two-sided and multi-page layouts">two-sided and multi-page</a></span>…
+      <span class="link"><a href="printing-order.html.he" title="Make pages print in a different order">order and collate</a></span>,
+      <span class="link"><a href="printing-2sided.html.he" title="Print two-sided and multi-page layouts">two-sided and multi-page</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">עיון נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-streaks.html" title="Why are there streaks, lines or the wrong colors on my print-outs?">Why are there streaks, lines or the wrong colors on my
+<a href="printing-streaks.html.he" title="Why are there streaks, lines or the wrong colors on my print-outs?">Why are there streaks, lines or the wrong colors on my
   print-outs?</a><span class="desc"> — If print-outs are streaky, fading, or missing colors, check your ink
     levels or clean the print head.</span>
 </li></ul></div>

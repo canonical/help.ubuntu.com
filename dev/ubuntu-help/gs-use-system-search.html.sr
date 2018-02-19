@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Почетак коришћења">Почетак коришћења Гнома</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.sr" title="Почетак коришћења">Почетак коришћења Гнома</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-windows-workspaces.html" title="Коришћење прозора и радних простора">Претходно</a><a class="nextlinks-next" href="gs-get-online.html" title="Приступање интернету">Следеће</a>
+<a class="nextlinks-prev" href="gs-use-windows-workspaces.html.sr" title="Коришћење прозора и радних простора">Претходно</a><a class="nextlinks-next" href="gs-get-online.html.sr" title="Приступање интернету">Следеће</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Коришћење претраге система</span></h1></div>
 <div class="region">
@@ -87,7 +87,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Да бисте прилагодили шта се приказује у резултатима претраге:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Кликните на <span class="gui"><a href="shell-introduction.html#yourname" title="Ви и ваш рачунар">системски изборник</a></span> у десном делу горње траке.</p></li>
+<li class="steps"><p class="p">Кликните на <span class="gui"><a href="shell-introduction.html.sr#yourname" title="Ви и ваш рачунар">системски изборник</a></span> у десном делу горње траке.</p></li>
 <li class="steps"><p class="p">Кликните на дугме за подешавања у доњем левом делу изборника.</p></li>
 <li class="steps"><p class="p">Кликните на површ <span class="gui">Претрага</span>.</p></li>
 <li class="steps"><p class="p">У списку локација за претраживање, кликните на <span class="gui">УКЉ/ИСК</span> дугме поред локације претраге да бисте је омогућили или онемогућили.</p></li>
@@ -96,7 +96,7 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-windows-workspaces.html" title="Коришћење прозора и радних простора">Претходно</a><a class="nextlinks-next" href="gs-get-online.html" title="Приступање интернету">Следеће</a>
+<a class="nextlinks-prev" href="gs-use-windows-workspaces.html.sr" title="Коришћење прозора и радних простора">Претходно</a><a class="nextlinks-next" href="gs-get-online.html.sr" title="Приступање интернету">Следеће</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -104,13 +104,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Почетак коришћења">Почетак коришћења Гнома</a><span class="desc"> — Први пут користите Гном? Научите да га користите.</span>
+<a href="getting-started.html.sr" title="Почетак коришћења">Почетак коришћења Гнома</a><span class="desc"> — Први пут користите Гном? Научите да га користите.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html" title="Почетни програми">Почетни програми</a><span class="desc"> — Покрените програме из прегледа <span class="gui">Активности</span>.</span>
+<a href="shell-apps-open.html.sr" title="Почетни програми">Почетни програми</a><span class="desc"> — Покрените програме из прегледа <span class="gui">Активности</span>.</span>
 </li></ul></div>
 </div></div>
 </div>

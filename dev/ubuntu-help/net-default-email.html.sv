@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-email.html" title="E-post &amp; e-postprogramvara">E-post &amp; e-postprogramvara</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-email.html.sv" title="E-post &amp; e-postprogramvara">E-post &amp; e-postprogramvara</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ändra vilket e-postprogram som används för att skriva e-post</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">När du klickar på en knapp eller en länk för att skick ett nytt e-postmeddelande (till exempel i ditt ordbehandlingsprogram), kommer standardepostprogrammet att öppnas med ett tomt meddelande så att du kan skriva. Om du däremot har mer än ett e-postprogram installerat så kan fel e-postprogram öppnas. Du kan fixa detta genom att ändra vilket program som är standardepostprogrammet:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Justeringsverktyg</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Justeringsverktyg</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Detaljer</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Välj <span class="gui">Standardprogram</span> från listan till vänster i fönstret.</p></li>
 <li class="steps"><p class="p">Välj vilken e-postklient du önskar använda som standard genom att ändra alternativet <span class="gui">E-post</span>.</p></li>
@@ -62,7 +62,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email.html" title="E-post &amp; e-postprogramvara">E-post &amp; e-postprogramvara</a><span class="desc"> — <span class="link"><a href="net-default-email.html" title="Ändra vilket e-postprogram som används för att skriva e-post">Standard e-postprogram</a></span>, <span class="link"><a href="net-email-virus.html" title="Behöver jag söka igenom min e-post efter virus?">Bör jag söka efter virus?</a></span>…</span>
+<a href="net-email.html.sv" title="E-post &amp; e-postprogramvara">E-post &amp; e-postprogramvara</a><span class="desc"> — <span class="link"><a href="net-default-email.html.sv" title="Ändra vilket e-postprogram som används för att skriva e-post">Standard e-postprogram</a></span>, <span class="link"><a href="net-email-virus.html.sv" title="Behöver jag söka igenom min e-post efter virus?">Bör jag söka efter virus?</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

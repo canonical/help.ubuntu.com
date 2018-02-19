@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Maquinari i controladors">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">Paràmetres de l'ordinador</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,33 +54,33 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html" title="Adjust speed of the mouse and touchpad"><span class="title">Adjust speed of the mouse and touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Change how quickly the pointer moves when you use your mouse or
+<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.ca" title="Adjust speed of the mouse and touchpad"><span class="title">Adjust speed of the mouse and touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Change how quickly the pointer moves when you use your mouse or
     touchpad.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html" title="Adjust the double-click speed"><span class="title">Adjust the double-click speed</span><span class="linkdiv-dash"> — </span><span class="desc">Control how quickly you need to press the mouse button
+<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.ca" title="Adjust the double-click speed"><span class="title">Adjust the double-click speed</span><span class="linkdiv-dash"> — </span><span class="desc">Control how quickly you need to press the mouse button
     a second time to double-click.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html" title="Click and move mouse pointer using the keypad"><span class="title">Click and move mouse pointer using the keypad</span><span class="linkdiv-dash"> — </span><span class="desc">Enable mouse keys to control the mouse with the numeric
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.ca" title="Click and move mouse pointer using the keypad"><span class="title">Click and move mouse pointer using the keypad</span><span class="linkdiv-dash"> — </span><span class="desc">Enable mouse keys to control the mouse with the numeric
     keypad.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad"><span class="title">Click, drag, or scroll with the touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Click, drag, or scroll using taps and gestures on your
+<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.ca" title="Click, drag, or scroll with the touchpad"><span class="title">Click, drag, or scroll with the touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Click, drag, or scroll using taps and gestures on your
     touchpad.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html" title="Simular un clic amb el botó secundari del ratolí"><span class="title">Simular un clic amb el botó secundari del ratolí</span><span class="linkdiv-dash"> — </span><span class="desc">Com fer que en prémer i mantenir el botó primari del ratolí es faci clic amb el botó secundari.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html" title="Simular un clic mantenint el ratolí immòbil"><span class="title">Simular un clic mantenint el ratolí immòbil</span><span class="linkdiv-dash"> — </span><span class="desc">The <span class="gui">Hover Click</span> (Dwell Click) feature allows you to click
+<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.ca" title="Simular un clic amb el botó secundari del ratolí"><span class="title">Simular un clic amb el botó secundari del ratolí</span><span class="linkdiv-dash"> — </span><span class="desc">Com fer que en prémer i mantenir el botó primari del ratolí es faci clic amb el botó secundari.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.ca" title="Simular un clic mantenint el ratolí immòbil"><span class="title">Simular un clic mantenint el ratolí immòbil</span><span class="linkdiv-dash"> — </span><span class="desc">The <span class="gui">Hover Click</span> (Dwell Click) feature allows you to click
     by holding the mouse still.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html" title="Use your mouse left-handed"><span class="title">Use your mouse left-handed</span><span class="linkdiv-dash"> — </span><span class="desc">Reverse the left and right mouse buttons in the mouse settings.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html.ca" title="Use your mouse left-handed"><span class="title">Use your mouse left-handed</span><span class="linkdiv-dash"> — </span><span class="desc">Reverse the left and right mouse buttons in the mouse settings.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Common problems</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html" title="Mouse pointer is not moving"><span class="title">Mouse pointer is not moving</span><span class="linkdiv-dash"> — </span><span class="desc">How to check why your mouse is not working.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html" title="Mouse reacts with delay before it starts working"><span class="title">Mouse reacts with delay before it starts working</span><span class="linkdiv-dash"> — </span><span class="desc">If you have to wiggle or click the mouse before it responds.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.ca" title="Mouse pointer is not moving"><span class="title">Mouse pointer is not moving</span><span class="linkdiv-dash"> — </span><span class="desc">How to check why your mouse is not working.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.ca" title="Mouse reacts with delay before it starts working"><span class="title">Mouse reacts with delay before it starts working</span><span class="linkdiv-dash"> — </span><span class="desc">If you have to wiggle or click the mouse before it responds.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="tips" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tips</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Middle-click"><span class="title">Middle-click</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.ca" title="Middle-click"><span class="title">Middle-click</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
     more.</span></a></div></div>
 <div class="links-twocolumn"></div>
 </div></div></div></div></div>
@@ -91,22 +91,22 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html" title="Maquinari i controladors">Maquinari i controladors</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html" title="Printing">printers</a></span>,
-      <span class="link"><a href="power.html" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html" title="Color management">color management</a></span>,
-      <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html" title="Discs i emmagatzematge">disks</a></span>…
+<a href="hardware.html.ca" title="Maquinari i controladors">Maquinari i controladors</a><span class="desc"> — 
+      <span class="link"><a href="hardware.html.ca#problems" title="Common problems">Hardware problems</a></span>,
+      <span class="link"><a href="printing.html.ca" title="Printing">printers</a></span>,
+      <span class="link"><a href="power.html.ca" title="Power &amp; battery">power settings</a></span>,
+      <span class="link"><a href="color.html.ca" title="Color management">color management</a></span>,
+      <span class="link"><a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a></span>,
+      <span class="link"><a href="disk.html.ca" title="Discs i emmagatzematge">disks</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="prefs.html" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html" title="Keyboard">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html" title="Mouse">mouse</a></span>,
-      <span class="link"><a href="prefs-display.html" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html" title="Region &amp; Language">languages</a></span>,
-      <span class="link"><a href="user-accounts.html" title="User accounts">user accounts</a></span>…
+<a href="prefs.html.ca" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
+      <span class="link"><a href="keyboard.html.ca" title="Keyboard">Keyboard</a></span>,
+      <span class="link"><a href="mouse.html.ca" title="Mouse">mouse</a></span>,
+      <span class="link"><a href="prefs-display.html.ca" title="Display &amp; screen">display</a></span>,
+      <span class="link"><a href="prefs-language.html.ca" title="Region &amp; Language">languages</a></span>,
+      <span class="link"><a href="user-accounts.html.ca" title="User accounts">user accounts</a></span>…
     </span>
 </li>
 </ul></div>

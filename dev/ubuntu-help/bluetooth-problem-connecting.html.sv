@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="bluetooth.html#problems" title="Problem">Bluetooth-problem</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html.sv#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="bluetooth.html.sv#problems" title="Problem">Bluetooth-problem</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Jag kan inte ansluta min Bluetooth-enhet</span></h1></div>
@@ -54,11 +54,11 @@
 <dt class="terms">Anslutning blockerad eller otillförlitlig</dt>
 <dd class="terms"><p class="p">Vissa Bluetooth-enheter blockerar anslutningar som standard eller kräver att du ändrar en inställning för att tillåta anslutningar. Försäkra att din enhet är inställd för att tillåta anslutningar.</p></dd>
 <dt class="terms">Bluetooth-hårdvara kändes inte igen</dt>
-<dd class="terms"><p class="p">Din Bluetooth-adapter kanske inte har känts igen av datorn. Detta skulle kunna vara för att <span class="link"><a href="hardware-driver.html" title="Vad är en drivrutin?">drivrutiner</a></span> för adaptern inte installerats. Vissa Bluetooth-adaptrar saknar stöd under Linux, så du kan kanske inte få tag i rätt drivrutiner för dessa. Om det är fallet kommer du troligtvis att behöva skaffa en annan Bluetooth-adapter.</p></dd>
+<dd class="terms"><p class="p">Din Bluetooth-adapter kanske inte har känts igen av datorn. Detta skulle kunna vara för att <span class="link"><a href="hardware-driver.html.sv" title="Vad är en drivrutin?">drivrutiner</a></span> för adaptern inte installerats. Vissa Bluetooth-adaptrar saknar stöd under Linux, så du kan kanske inte få tag i rätt drivrutiner för dessa. Om det är fallet kommer du troligtvis att behöva skaffa en annan Bluetooth-adapter.</p></dd>
 <dt class="terms">Adaptern är inte påslagen</dt>
-<dd class="terms"><p class="p">Försäkra att din Bluetooth-adapter är påslagen. Klicka på Bluetooth-ikonen i <span class="gui">menyraden</span> och kontrollera att den inte är <span class="link"><a href="bluetooth-turn-on-off.html" title="Aktivera eller inaktivera Bluetooth">inaktiverad</a></span>.</p></dd>
+<dd class="terms"><p class="p">Försäkra att din Bluetooth-adapter är påslagen. Öppna Bluetooth-panelen och kontrollera att den inte är <span class="link"><a href="bluetooth-turn-on-off.html.sv" title="Aktivera eller inaktivera Bluetooth">inaktiverad</a></span>.</p></dd>
 <dt class="terms">Enhetens Bluetooth-anslutning är avslagen</dt>
-<dd class="terms"><p class="p">Kontrollera att Bluetooth är påslaget i enheten du försöker ansluta till och att den är <span class="link"><a href="bluetooth-visibility.html" title="Vad är Bluetooth-synlighet?">detekterbar eller synlig</a></span>. Om du till exempel försöker ansluta till en telefon, säkerställ att den inte är i flygplansläge.</p></dd>
+<dd class="terms"><p class="p">Kontrollera att Bluetooth är påslaget i enheten du försöker ansluta till och att den är <span class="link"><a href="bluetooth-visibility.html.sv" title="Vad är Bluetooth-synlighet?">detekterbar eller synlig</a></span>. Om du till exempel försöker ansluta till en telefon, säkerställ att den inte är i flygplansläge.</p></dd>
 <dt class="terms">Ingen Bluetooth-adapter i din dator</dt>
 <dd class="terms"><p class="p">Många datorer har inte Bluetooth-adaptrar. Du kan köpa en adapter om du vill använda Bluetooth.</p></dd>
 </dl></div></div></div>
@@ -68,12 +68,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="bluetooth.html#problems" title="Problem">Bluetooth-problem</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="bluetooth.html.sv#problems" title="Problem">Bluetooth-problem</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="Vad är en drivrutin?">Vad är en drivrutin?</a><span class="desc"> — En hårdvaru-/enhetsdrivrutin låter din dator använda enheter som ansluts till den.</span>
+<a href="hardware-driver.html.sv" title="Vad är en drivrutin?">Vad är en drivrutin?</a><span class="desc"> — En hårdvaru-/enhetsdrivrutin låter din dator använda enheter som ansluts till den.</span>
 </li></ul></div>
 </div></div>
 </div>

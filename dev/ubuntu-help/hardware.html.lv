@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Aparatūra un draiveri</span></h1></div>
@@ -51,42 +51,42 @@
 <div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="power.html" title="Barošana un baterija">Barošana un baterija</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="power-status.html" title="Pārbaudīt bateriju statusu">Baterijas status</a></span>, <span class="link"><a href="power-suspend.html" title="Kas notiek, iesnaudinot datoru?">iesnaudināšana</a></span>, <span class="link"><a href="power-whydim.html" title="Kāpēc pēc kāda laika ekrāns kļūst tumšāks?">ekrāna aptumšošana</a></span>…</span></div>
+<div class="links-grid-link"><a href="power.html.lv" title="Barošana un baterija">Barošana un baterija</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="power-status.html.lv" title="Pārbaudīt bateriju statusu">Baterijas status</a></span>, <span class="link"><a href="power-suspend.html.lv" title="Kas notiek, iesnaudinot datoru?">iesnaudināšana</a></span>, <span class="link"><a href="power-whydim.html.lv" title="Kāpēc pēc kāda laika ekrāns kļūst tumšāks?">ekrāna aptumšošana</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html" title="Savienot jūsu datoru ar Bluetooth ierīci">Savienoties</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Sūtīt datnes uz Bluetooth ierīci">sūtīt datnes</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Ieslēgt vai izslēgt Bluetooth">ieslēgt un izslēgt</a></span>…</span></div>
+<div class="links-grid-link"><a href="bluetooth.html.lv" title="Bluetooth">Bluetooth</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html.lv" title="Savienot jūsu datoru ar Bluetooth ierīci">Savienoties</a></span>, <span class="link"><a href="bluetooth-send-file.html.lv" title="Sūtīt datnes uz Bluetooth ierīci">sūtīt datnes</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.lv" title="Ieslēgt vai izslēgt Bluetooth">ieslēgt un izslēgt</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="disk.html" title="Diski un uzglabāšana">Diski un uzglabāšana</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html" title="Pārbaudiet, cik daudz vietas diskā ir atlicis">Diska vieta</a></span>, <span class="link"><a href="disk-benchmark.html" title="Pārbaudiet jūsu cietā diska veiktspēju">veiktspēja</a></span>, <span class="link"><a href="disk-check.html" title="Pārbaudiet, vai jūsu cietajam diskam nav problēmu">problēmas</a></span>, <span class="link"><a href="disk-partitions.html" title="Pārvaldiet apjomus un nodalījumus">sējumi un nodalījumi</a></span>…</span></div>
+<div class="links-grid-link"><a href="disk.html.lv" title="Diski un uzglabāšana">Diski un uzglabāšana</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html.lv" title="Pārbaudiet, cik daudz vietas diskā ir atlicis">Diska vieta</a></span>, <span class="link"><a href="disk-benchmark.html.lv" title="Pārbaudiet jūsu cietā diska veiktspēju">veiktspēja</a></span>, <span class="link"><a href="disk-check.html.lv" title="Pārbaudiet, vai jūsu cietajam diskam nav problēmu">problēmas</a></span>, <span class="link"><a href="disk-partitions.html.lv" title="Pārvaldiet apjomus un nodalījumus">sējumi un nodalījumi</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="printing.html" title="Drukāšana">Drukāšana</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html" title="Iestatīt lokālo printeri">Lokālie iestatījumi</a></span>, <span class="link"><a href="printing-order.html" title="Likt lapas drukāt citā secībā">secība un salikšana</a></span>, <span class="link"><a href="printing-2sided.html" title="Drukāt divpusējā vai vairāku lapu izkārtojumā">divpusējā un vairāku lapu</a></span>…</span></div>
+<div class="links-grid-link"><a href="printing.html.lv" title="Drukāšana">Drukāšana</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html.lv" title="Iestatīt lokālo printeri">Lokālie iestatījumi</a></span>, <span class="link"><a href="printing-order.html.lv" title="Likt lapas drukāt citā secībā">secība un salikšana</a></span>, <span class="link"><a href="printing-2sided.html.lv" title="Drukāt divpusējā vai vairāku lapu izkārtojumā">divpusējā un vairāku lapu</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html" title="Krāsu pārvaldība">Krāsu pārvaldība</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Kāpēc krāsu pārvaldība ir svarīga?">Kāpēc tas ir svarīgi</a></span>, <span class="link"><a href="color.html#profiles" title="Krāsu profili">Krāsu profili</a></span>, <span class="link"><a href="color.html#calibration" title="Kalibrācija">Kā kalibrēt ierīci</a></span>…</span></div>
+<div class="links-grid-link"><a href="color.html.lv" title="Krāsu pārvaldība">Krāsu pārvaldība</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.lv" title="Kāpēc krāsu pārvaldība ir svarīga?">Kāpēc tas ir svarīgi</a></span>, <span class="link"><a href="color.html.lv#profiles" title="Krāsu profili">Krāsu profili</a></span>, <span class="link"><a href="color.html.lv#calibration" title="Kalibrācija">Kā kalibrēt ierīci</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html" title="Pele">Pele</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html" title="Izmantot peli kā kreilim">Kreiļiem</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Piemērot peles vai skārienpaliktņa ātrumu">ātrums un jutīgums</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Spiediet, velciet vai ritiniet ar skārienpaliktni">skārienpaliktņa klikšķināšana un ritināšana</a></span>…</span></div>
+<div class="links-grid-link"><a href="mouse.html.lv" title="Pele">Pele</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.lv" title="Izmantot peli kā kreilim">Kreiļiem</a></span>, <span class="link"><a href="mouse-sensitivity.html.lv" title="Piemērot peles vai skārienpaliktņa ātrumu">ātrums un jutīgums</a></span>, <span class="link"><a href="mouse-touchpad-click.html.lv" title="Spiediet, velciet vai ritiniet ar skārienpaliktni">skārienpaliktņa klikšķināšana un ritināšana</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware-auth.html" title="Pirkstu nospiedumi un viedkartes">Pirkstu nospiedumi un viedkartes</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-fingerprint.html" title="Ierakstīties ar pirkstu nospiedumu">Pirkstu nospiedumu lasītāji</a></span>, viedkartes…</span></div>
+<div class="links-grid-link"><a href="hardware-auth.html.lv" title="Pirkstu nospiedumi un viedkartes">Pirkstu nospiedumi un viedkartes</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-fingerprint.html.lv" title="Ierakstīties ar pirkstu nospiedumu">Pirkstu nospiedumu lasītāji</a></span>, viedkartes…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="keyboard.html" title="Tastatūra">Tastatūra</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Tastatūru izkārtojumi</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Izdariet tā, lai tastatūras kursors mirgotu">kursora mirgošana</a></span>, <span class="link"><a href="a11y.html#mobility" title="Kustību traucējumi">tastatūras pieejamība</a></span>…</span></div>
+<div class="links-grid-link"><a href="keyboard.html.lv" title="Tastatūra">Tastatūra</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.lv" title="Use alternative keyboard layouts">Tastatūru izkārtojumi</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.lv" title="Izdariet tā, lai tastatūras kursors mirgotu">kursora mirgošana</a></span>, <span class="link"><a href="a11y.html.lv#mobility" title="Kustību traucējumi">tastatūras pieejamība</a></span>…</span></div>
 </div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Vairāk tematu</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="Kas ir draiveris?">Kas ir draiveris?</a><span class="desc"> — Aparatūras/ierīces draiveris ļauj datoram izmantot tam pievienotās ierīces.</span>
+<a href="hardware-driver.html.lv" title="Kas ir draiveris?">Kas ir draiveris?</a><span class="desc"> — Aparatūras/ierīces draiveris ļauj datoram izmantot tam pievienotās ierīces.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -94,23 +94,23 @@
 <div class="hgroup"><h2 class="title"><span class="title">Biežākās problēmas</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul>
 <li class="links ">
-<a href="hardware-cardreader.html" title="Atmiņas karšu lasītāju problēmas">Atmiņas karšu lasītāju problēmas</a><span class="desc"> — Problēmu novēršana atmiņas karšu lasītājiem</span>
+<a href="hardware-cardreader.html.lv" title="Atmiņas karšu lasītāju problēmas">Atmiņas karšu lasītāju problēmas</a><span class="desc"> — Problēmu novēršana atmiņas karšu lasītājiem</span>
 </li>
 <li class="links ">
-<a href="power.html#problems" title="Problēmas">Barošanas problēmas</a><span class="desc"> — Atrisināt problēmas ar datora barošanu un baterijām.</span>
+<a href="power.html.lv#problems" title="Problēmas">Barošanas problēmas</a><span class="desc"> — Atrisināt problēmas ar datora barošanu un baterijām.</span>
 </li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a><span class="desc"> — Identificēt un novērst problēmas ar bezvadu tīkla savienojumiem.</span>
+<a href="net-wireless-troubleshooting.html.lv" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a><span class="desc"> — Identificēt un novērst problēmas ar bezvadu tīkla savienojumiem.</span>
 </li>
-<li class="links "><a href="bluetooth.html#problems" title="Problēmas">Bluetooth problēmas</a></li>
+<li class="links "><a href="bluetooth.html.lv#problems" title="Problēmas">Bluetooth problēmas</a></li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Ekrāna problēmas">Ekrāna problēmas</a><span class="desc"> — Ekrāna un video problēmu novēršana.</span>
-</li>
-<li class="links ">
-<a href="printing.html#problems" title="Printera problēmas">Printera problēmas</a><span class="desc"> — Neatpazīti printeri, papīra iestrēgšana, izdrukas izskatās nepareizi…</span>
+<a href="hardware-problems-graphics.html.lv" title="Ekrāna problēmas">Ekrāna problēmas</a><span class="desc"> — Ekrāna un video problēmu novēršana.</span>
 </li>
 <li class="links ">
-<a href="sound-broken.html" title="Skaņu problēmas">Skaņu problēmas</a><span class="desc"> — Problēmu atrisinājumi tādām problēmām, kā nav skaņas, vai ir slikta skaņas kvalitāte.</span>
+<a href="printing.html.lv#problems" title="Printera problēmas">Printera problēmas</a><span class="desc"> — Neatpazīti printeri, papīra iestrēgšana, izdrukas izskatās nepareizi…</span>
+</li>
+<li class="links ">
+<a href="sound-broken.html.lv" title="Skaņu problēmas">Skaņu problēmas</a><span class="desc"> — Problēmu atrisinājumi tādām problēmām, kā nav skaņas, vai ir slikta skaņas kvalitāte.</span>
 </li>
 </ul></div></div></div></div></div>
 </div></div>
@@ -118,7 +118,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu darbvirsmas rokasgrāmata">Ubuntu darbvirsmas rokasgrāmata</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata">Ubuntu darbvirsmas rokasgrāmata</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

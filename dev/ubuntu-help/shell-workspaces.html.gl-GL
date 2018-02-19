@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicativos e xanelas">Aplicativos e xanelas</a> » <a class="trail" href="shell-windows.html" title="Xanelas e espazos de traballo">Xanelas e espazos de traballo</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Traballar cos espazos de traballo">Espazo de traballo</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="shell-overview.html.gl-GL" title="Your desktop">Escritorio</a> › <a class="trail" href="shell-overview.html.gl-GL#apps" title="Aplicativos e xanelas">Aplicativos e xanelas</a> » <a class="trail" href="shell-windows.html.gl-GL" title="Xanelas e espazos de traballo">Xanelas e espazos de traballo</a> › <a class="trail" href="shell-windows.html.gl-GL#working-with-workspaces" title="Traballar cos espazos de traballo">Espazo de traballo</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Que é un espazo de traballo e como poden axudarme?</span></h1></div>
@@ -55,7 +55,7 @@
 <p class="p">Usando espazos de traballo:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the
-    <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview, move your cursor
+    <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview, move your cursor
     to the right-most side of the screen.</p></li>
 <li class="list"><p class="p">A vertical panel will appear showing
     workspaces in use, plus an empty workspace. This is the
@@ -73,17 +73,17 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Traballar cos espazos de traballo">Traballar cos espazos de traballo</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.gl-GL#working-with-workspaces" title="Traballar cos espazos de traballo">Traballar cos espazos de traballo</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-workspaces-movewindow.html" title="Mova unha xanela a un espazo de traballo diferente:">Mova unha xanela a un espazo de traballo diferente:</a><span class="desc"> — Go to the <span class="gui">Activities</span> overview and drag the window to a
+<a href="shell-workspaces-movewindow.html.gl-GL" title="Mova unha xanela a un espazo de traballo diferente:">Mova unha xanela a un espazo de traballo diferente:</a><span class="desc"> — Go to the <span class="gui">Activities</span> overview and drag the window to a
     different workspace.</span>
 </li>
 <li class="links ">
-<a href="shell-workspaces-switch.html" title="Trocar entre os espazos de traballo">Trocar entre os espazos de traballo</a><span class="desc"> — Usar o selector de espazos de traballo.</span>
+<a href="shell-workspaces-switch.html.gl-GL" title="Trocar entre os espazos de traballo">Trocar entre os espazos de traballo</a><span class="desc"> — Usar o selector de espazos de traballo.</span>
 </li>
 </ul></div>
 </div></div>

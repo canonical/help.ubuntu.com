@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="keyboard.html" title="Billentyűzet">Billentyűzet</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="keyboard.html.hu" title="Billentyűzet">Billentyűzet</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="keyboard.html" title="Billentyűzet">Billentyűzet</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="keyboard.html.hu" title="Billentyűzet">Billentyűzet</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Akadálymentesítés">Akadálymentesítés</a> › <a class="trail" href="a11y.html#vision" title="Látássérültség">Látássérültség</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.hu" title="Akadálymentesítés">Akadálymentesítés</a> › <a class="trail" href="a11y.html.hu#vision" title="Látássérültség">Látássérültség</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">Ha nehezen veszi észre a szövegkurzort a szövegmezőkben, akkor az egyszerűbb megtalálás érdekében villogóvá teheti.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni az <span class="gui">Akadálymentesítés</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni az <span class="gui">Akadálymentesítés</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Akadálymentesítés</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Nyomja meg a <span class="gui">Kurzor villogása</span> gombot a <span class="gui">Gépelés</span> szakaszban.</p></li>
 <li class="steps"><p class="p">A <span class="gui">Sebesség</span> csúszka segítségével módosítsa a kurzor villogási sebességét.</p></li>
@@ -69,9 +69,9 @@
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Billentyűzet">Billentyűzet</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Alternatív billentyűzetkiosztások használata">Billentyűzetkiosztások</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="A billentyűzetkurzor villogóvá tétele">kurzor villogása</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mozgássérültség">billentyűzet akadálymentesítése</a></span>…</span>
+<a href="keyboard.html.hu" title="Billentyűzet">Billentyűzet</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.hu" title="Alternatív billentyűzetkiosztások használata">Billentyűzetkiosztások</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.hu" title="A billentyűzetkurzor villogóvá tétele">kurzor villogása</a></span>, <span class="link"><a href="a11y.html.hu#mobility" title="Mozgássérültség">billentyűzet akadálymentesítése</a></span>…</span>
 </li>
-<li class="links "><a href="a11y.html#vision" title="Látássérültség">Látássérültség</a></li>
+<li class="links "><a href="a11y.html.hu#vision" title="Látássérültség">Látássérültség</a></li>
 </ul></div>
 </div></div></div>
 </div>

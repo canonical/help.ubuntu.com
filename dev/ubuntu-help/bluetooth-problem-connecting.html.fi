@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> › <a class="trail" href="hardware.html#problems" title="Yleisiä ongelmia">Ongelmat</a> » <a class="trail" href="bluetooth.html#problems" title="Ongelmat">Bluetooth-ongelmat</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> › <a class="trail" href="hardware.html.fi#problems" title="Yleisiä ongelmia">Ongelmat</a> » <a class="trail" href="bluetooth.html.fi#problems" title="Ongelmat">Bluetooth-ongelmat</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bluetooth-laitteen yhdistäminen ei onnistu</span></h1></div>
@@ -56,17 +56,17 @@
 <dt class="terms">Bluetooth-sovitinta ei tunnistettu</dt>
 <dd class="terms"><p class="p">Your Bluetooth adapter or dongle may not have been recognized by the
       computer. This could be because
-      <span class="link"><a href="hardware-driver.html" title="Mikä ajuri on?">drivers</a></span> for the adapter are not
+      <span class="link"><a href="hardware-driver.html.fi" title="Mikä ajuri on?">drivers</a></span> for the adapter are not
       installed. Some Bluetooth adapters are not supported on Linux, so you may
       not be able to get the right drivers for them. In this case, you will
       probably have to get a different Bluetooth adapter.</p></dd>
 <dt class="terms">Sovitinta ei ole kytketty päälle</dt>
-<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Click the
-          Bluetooth icon in the <span class="gui">menu bar</span> and check that it’s not
-          <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetoothin kytkeminen päälle tai pois">disabled</a></span>.</p></dd>
+<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Open the
+        Bluetooth panel and check that it is not
+        <span class="link"><a href="bluetooth-turn-on-off.html.fi" title="Bluetoothin kytkeminen päälle tai pois">disabled</a></span>.</p></dd>
 <dt class="terms">Laitteen Bluetooth-yhteys ei ole käytössä</dt>
 <dd class="terms"><p class="p">Check that Bluetooth is turned on on the device you are trying to
-      connect to, and that it is <span class="link"><a href="bluetooth-visibility.html" title="Mitä Bluetooth-näkyvyys tarkoittaa?">discoverable
+      connect to, and that it is <span class="link"><a href="bluetooth-visibility.html.fi" title="Mitä Bluetooth-näkyvyys tarkoittaa?">discoverable
       or visible</a></span>. For example, if you are trying to connect to a phone,
       make sure that it is not in airplane mode.</p></dd>
 <dt class="terms">Tietokoneessasi ei ole Bluetooth-sovitinta</dt>
@@ -78,12 +78,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="bluetooth.html#problems" title="Ongelmat">Bluetooth-ongelmat</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="bluetooth.html.fi#problems" title="Ongelmat">Bluetooth-ongelmat</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="Mikä ajuri on?">Mikä ajuri on?</a><span class="desc"> — Laitteistoajuri mahdollistaa tietokoneeseesi liitettyjen laitteiden käyttämisen.</span>
+<a href="hardware-driver.html.fi" title="Mikä ajuri on?">Mikä ajuri on?</a><span class="desc"> — Laitteistoajuri mahdollistaa tietokoneeseesi liitettyjen laitteiden käyttämisen.</span>
 </li></ul></div>
 </div></div>
 </div>

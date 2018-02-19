@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wireless.html" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wired.html" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -74,13 +74,13 @@
  instructions to get that working.</p></div></div></div></div>
 <p class="p">Για να ρυθμίσετε τη σύνδεση VPN:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Δίκτυο</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Δίκτυο</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Δίκτυο</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Στο κάτω μέρος της λίστας στα αριστερά, κάντε κλικ στο κουμπί <span class="gui">+</span> για να προσθέσετε μια νέα σύνδεση.</p></li>
 <li class="steps"><p class="p">Επιλέξτε <span class="gui">VPN</span> στη λίστα διεπαφής.</p></li>
 <li class="steps"><p class="p">Επιλέξτε ποιο είδος σύνδεσης VPN έχετε.</p></li>
 <li class="steps"><p class="p">Συμπληρώστε τις λεπτομέρειες της σύνδεσης VPN, και μόλις τελειώσετε πατήστε <span class="gui">Προσθήκη</span>.</p></li>
-<li class="steps"><p class="p">Αφού τελειώσετε με τη ρύθμιση του VPN, ανοίξτε το <span class="gui"><a href="shell-introduction.html#yourname" title="Εσείς και ο υπολογιστή σας">μενού συστήματος</a></span> από την δεξιά πλευρά της πάνω γραμμής, κάντε κλικ στο <span class="gui">Απενεργοποιημένο VPN</span> και επιλέξτε <span class="gui">Σύνδεση</span>. Μπορεί να χρειαστεί να εισάγετε τον κωδικό πρόσβασης της σύνδεσης πρωτού συνδεθείτε. Αφού γίνει η σύνδεση, θα δείτε ένα εικονίδιο με μια κλειδαριά στην πάνω γραμμή.</p></li>
+<li class="steps"><p class="p">Αφού τελειώσετε με τη ρύθμιση του VPN, ανοίξτε το <span class="gui"><a href="shell-introduction.html.el#yourname" title="Εσείς και ο υπολογιστή σας">μενού συστήματος</a></span> από την δεξιά πλευρά της πάνω γραμμής, κάντε κλικ στο <span class="gui">Απενεργοποιημένο VPN</span> και επιλέξτε <span class="gui">Σύνδεση</span>. Μπορεί να χρειαστεί να εισάγετε τον κωδικό πρόσβασης της σύνδεσης πρωτού συνδεθείτε. Αφού γίνει η σύνδεση, θα δείτε ένα εικονίδιο με μια κλειδαριά στην πάνω γραμμή.</p></li>
 <li class="steps"><p class="p">Ελπίζουμε ότι συνδεθήκατε με επιτυχία στο VPN. Αν όχι, ελέγξτε ξανά τις ρυθμίσεις VPN που εισάγατε. Μπορείτε να το κάνετε από τον πίνακα <span class="gui">Δίκτυο</span> που χρησιμοποιήσατε για να δημιουργήσετε τη σύνδεση, επιλέγοντας τη σύνδεση VPN από τη λίστα, έπειτα πατήστε το κουμπί <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ρυθμίσεις"></span></span> για να δείτε τις ρυθμίσεις.</p></li>
 <li class="steps"><p class="p">Για να αποσυνδεθείτε από το VPN, κάντε κλικ στο μενού του συστήματος στην πάνω γραμμή και έπειτα κλικ στο <span class="gui">Απενεργοποίηση</span> κάτω από το όνομα της σύνδεσης VPN.</p></li>
 </ol></div></div></div>
@@ -91,10 +91,10 @@
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Σύνδεση σε ασύρματο δίκτυο">Σύνδεση σε wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Σύνδεση σε κρυφό ασύρματο δίκτυο">Κρυφά δίκτυα</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;">Αποσύνδεση</a></span>…</span>
+<a href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.el" title="Σύνδεση σε ασύρματο δίκτυο">Σύνδεση σε wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.el" title="Σύνδεση σε κρυφό ασύρματο δίκτυο">Κρυφά δίκτυα</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.el" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;">Αποσύνδεση</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wired.html" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Σύνδεση σε ενσύρματο δίκτυο (Ethernet)">Ενσύρματες συνδέσεις διαδικτύου</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Δημιουργία σύνδεσης με σταθερή διεύθυνση IP">Σταθερές διευθύνσεις IP</a></span>…</span>
+<a href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.el" title="Σύνδεση σε ενσύρματο δίκτυο (Ethernet)">Ενσύρματες συνδέσεις διαδικτύου</a></span>, <span class="link"><a href="net-fixed-ip-address.html.el" title="Δημιουργία σύνδεσης με σταθερή διεύθυνση IP">Σταθερές διευθύνσεις IP</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

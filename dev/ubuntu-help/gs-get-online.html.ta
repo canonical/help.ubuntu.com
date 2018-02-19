@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="பயன்படுத்தத் தொடங்குதல்">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.ta" title="பயன்படுத்தத் தொடங்குதல்">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="கணினி தேடலைப் பயன்படுத்து">முந்தைய</a><a class="nextlinks-next" href="gs-browse-web.html" title="இணையத்தில் உலாவவும்">அடுத்து</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.ta" title="கணினி தேடலைப் பயன்படுத்து">முந்தைய</a><a class="nextlinks-next" href="gs-browse-web.html.ta" title="இணையத்தில் உலாவவும்">அடுத்து</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">ஆன்லைனில் பெறுக</span></h1></div>
 <div class="region">
@@ -78,7 +78,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">To connect to a Wi-Fi (wireless) network:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html#yourname" title="நீங்களும் உங்கள் கணினியும்">system menu</a></span>
+<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html.ta#yourname" title="நீங்களும் உங்கள் கணினியும்">system menu</a></span>
         on the right side of the top bar.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Wi-Fi Not Connected</span>. The Wi-Fi section of the menu
         will expand.</p></li>
@@ -94,7 +94,7 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="கணினி தேடலைப் பயன்படுத்து">முந்தைய</a><a class="nextlinks-next" href="gs-browse-web.html" title="இணையத்தில் உலாவவும்">அடுத்து</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.ta" title="கணினி தேடலைப் பயன்படுத்து">முந்தைய</a><a class="nextlinks-next" href="gs-browse-web.html.ta" title="இணையத்தில் உலாவவும்">அடுத்து</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -102,13 +102,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="பயன்படுத்தத் தொடங்குதல்">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</a><span class="desc"> — GNOME க்குப் புதிதா? எப்படி தொடங்குவது என அறிந்துகொள்ளுங்கள்.</span>
+<a href="getting-started.html.ta" title="பயன்படுத்தத் தொடங்குதல்">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</a><span class="desc"> — GNOME க்குப் புதிதா? எப்படி தொடங்குவது என அறிந்துகொள்ளுங்கள்.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ்</a></span>, <span class="link"><a href="net-wired.html" title="வயர்டு பிணைய அமைப்பு">வயர்டு</a></span>, <span class="link"><a href="net-problem.html" title="பிணைய சிக்கல்கள்">இணைப்பு சிக்கல்கள்</a></span>, <span class="link"><a href="net-browser.html" title="வலை உலாவிகள்">வலை உலாவல்</a></span>, <span class="link"><a href="net-email.html" title="மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்">மின்னஞ்சல் கணக்குகள்</a></span>…</span>
+<a href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ta" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ்</a></span>, <span class="link"><a href="net-wired.html.ta" title="வயர்டு பிணைய அமைப்பு">வயர்டு</a></span>, <span class="link"><a href="net-problem.html.ta" title="பிணைய சிக்கல்கள்">இணைப்பு சிக்கல்கள்</a></span>, <span class="link"><a href="net-browser.html.ta" title="வலை உலாவிகள்">வலை உலாவல்</a></span>, <span class="link"><a href="net-email.html.ta" title="மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்">மின்னஞ்சல் கணக்குகள்</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

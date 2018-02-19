@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Som, vídeo e imagens</span></h1></div>
@@ -54,13 +54,13 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-broken.html" title="Problemas de som"><span class="title">Problemas de som</span><span class="linkdiv-dash"> — </span><span class="desc">Solucionar problemas como não ter som ou ter má qualidade de som.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-alert.html" title="Escolha ou desative o som de alerta"><span class="title">Escolha ou desative o som de alerta</span><span class="linkdiv-dash"> — </span><span class="desc">Escolha o som para reproduzir as mensagens, estabeleça o volume de alerta, ou desative os sons de alerta.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-volume.html" title="Mudar o volume do som"><span class="title">Mudar o volume do som</span><span class="linkdiv-dash"> — </span><span class="desc">Ajustar o volume do som para a computador e controlar o volume da cada aplicação.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-broken.html.pt" title="Problemas de som"><span class="title">Problemas de som</span><span class="linkdiv-dash"> — </span><span class="desc">Solucionar problemas como não ter som ou ter má qualidade de som.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-alert.html.pt" title="Escolha ou desative o som de alerta"><span class="title">Escolha ou desative o som de alerta</span><span class="linkdiv-dash"> — </span><span class="desc">Escolha o som para reproduzir as mensagens, estabeleça o volume de alerta, ou desative os sons de alerta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-volume.html.pt" title="Mudar o volume do som"><span class="title">Mudar o volume do som</span><span class="linkdiv-dash"> — </span><span class="desc">Ajustar o volume do som para a computador e controlar o volume da cada aplicação.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html" title="Utilizar altifalantes ou auriculares diferentes"><span class="title">Utilizar altifalantes ou auriculares diferentes</span><span class="linkdiv-dash"> — </span><span class="desc">Ligue os altifalantes ou auriculares e selecione o dispositivo de saída de som predeterminado.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html" title="Utilizar um microfone diferente"><span class="title">Utilizar um microfone diferente</span><span class="linkdiv-dash"> — </span><span class="desc">Use um microfone analogico ou USB e selecione um dispositivo primeiramente predeterminado.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html.pt" title="Utilizar altifalantes ou auriculares diferentes"><span class="title">Utilizar altifalantes ou auriculares diferentes</span><span class="linkdiv-dash"> — </span><span class="desc">Ligue os altifalantes ou auriculares e selecione o dispositivo de saída de som predeterminado.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html.pt" title="Utilizar um microfone diferente"><span class="title">Utilizar um microfone diferente</span><span class="linkdiv-dash"> — </span><span class="desc">Use um microfone analogico ou USB e selecione um dispositivo primeiramente predeterminado.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Mais informação</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Utente e configuração do sistema">Utente e configuração do sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html" title="Rato">rato</a></span>, <span class="link"><a href="prefs-display.html" title="Ecrã">ecrã</a></span>, <span class="link"><a href="prefs-language.html" title="Região e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html" title="Contas de utilizador">contas de utilizador</a></span>…</span>
+<a href="prefs.html.pt" title="Utente e configuração do sistema">Utente e configuração do sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.pt" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html.pt" title="Rato">rato</a></span>, <span class="link"><a href="prefs-display.html.pt" title="Ecrã">ecrã</a></span>, <span class="link"><a href="prefs-language.html.pt" title="Região e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html.pt" title="Contas de utilizador">contas de utilizador</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -78,33 +78,33 @@
 <div class="hgroup"><h2 class="title"><span class="title">Música e reprodutores de som portáteis</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Abrir aplicações para dispositivos ou discos"><span class="title">Abrir aplicações para dispositivos ou discos</span><span class="linkdiv-dash"> — </span><span class="desc">Executar aplicações automaticamente para CD e DVD, cámaras, reprodutores de som e outros dispositivos e suportes.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="I can’t play the songs I bought from an online music store"><span class="title">I can’t play the songs I bought from an online music store</span><span class="linkdiv-dash"> — </span><span class="desc">Support for that file format might not be installed or the songs could be “copy protected”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.pt" title="Abrir aplicações para dispositivos ou discos"><span class="title">Abrir aplicações para dispositivos ou discos</span><span class="linkdiv-dash"> — </span><span class="desc">Executar aplicações automaticamente para CD e DVD, cámaras, reprodutores de som e outros dispositivos e suportes.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html.pt" title="I can’t play the songs I bought from an online music store"><span class="title">I can’t play the songs I bought from an online music store</span><span class="linkdiv-dash"> — </span><span class="desc">Support for that file format might not be installed or the songs could be “copy protected”.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html" title="My new iPod won’t work"><span class="title">My new iPod won’t work</span><span class="linkdiv-dash"> — </span><span class="desc">Os iPods recentemente adquiridos deverão configurar-se utilizando o programa iTunes antes de poder utilizá-los.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html" title="Songs don’t appear on my iPod when I copy them onto it"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span><span class="linkdiv-dash"> — </span><span class="desc">Use um reprodutor multimédia para copiar as canções e extraia o iPod com segurança quando termine.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html.pt" title="My new iPod won’t work"><span class="title">My new iPod won’t work</span><span class="linkdiv-dash"> — </span><span class="desc">Os iPods recentemente adquiridos deverão configurar-se utilizando o programa iTunes antes de poder utilizá-los.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html.pt" title="Songs don’t appear on my iPod when I copy them onto it"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span><span class="linkdiv-dash"> — </span><span class="desc">Use um reprodutor multimédia para copiar as canções e extraia o iPod com segurança quando termine.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="photos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Fotos e câmaras digitais</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Abrir aplicações para dispositivos ou discos"><span class="title">Abrir aplicações para dispositivos ou discos</span><span class="linkdiv-dash"> — </span><span class="desc">Executar aplicações automaticamente para CD e DVD, cámaras, reprodutores de som e outros dispositivos e suportes.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html" title="Problemas com leitores de cartões"><span class="title">Problemas com leitores de cartões</span><span class="linkdiv-dash"> — </span><span class="desc">Resolver problemas de leitores de cartões multimédia</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.pt" title="Abrir aplicações para dispositivos ou discos"><span class="title">Abrir aplicações para dispositivos ou discos</span><span class="linkdiv-dash"> — </span><span class="desc">Executar aplicações automaticamente para CD e DVD, cámaras, reprodutores de som e outros dispositivos e suportes.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html.pt" title="Problemas com leitores de cartões"><span class="title">Problemas com leitores de cartões</span><span class="linkdiv-dash"> — </span><span class="desc">Resolver problemas de leitores de cartões multimédia</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="videos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Vídeos e câmaras de vídeo</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Abrir aplicações para dispositivos ou discos"><span class="title">Abrir aplicações para dispositivos ou discos</span><span class="linkdiv-dash"> — </span><span class="desc">Executar aplicações automaticamente para CD e DVD, cámaras, reprodutores de som e outros dispositivos e suportes.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="app-cheese.html" title="Crie fotos e vídeos divertidos com a sua webcam"><span class="title">Crie fotos e vídeos divertidos com a sua webcam</span><span class="linkdiv-dash"> — </span><span class="desc">É como se fosse a sua própria cabine de fotos pessoais.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-sending.html" title="Other people can’t play the videos I made"><span class="title">Other people can’t play the videos I made</span><span class="linkdiv-dash"> — </span><span class="desc">Verificar que tem os codecs de vídeo adequados instalados.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.pt" title="Abrir aplicações para dispositivos ou discos"><span class="title">Abrir aplicações para dispositivos ou discos</span><span class="linkdiv-dash"> — </span><span class="desc">Executar aplicações automaticamente para CD e DVD, cámaras, reprodutores de som e outros dispositivos e suportes.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="app-cheese.html.pt" title="Crie fotos e vídeos divertidos com a sua webcam"><span class="title">Crie fotos e vídeos divertidos com a sua webcam</span><span class="linkdiv-dash"> — </span><span class="desc">É como se fosse a sua própria cabine de fotos pessoais.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-sending.html.pt" title="Other people can’t play the videos I made"><span class="title">Other people can’t play the videos I made</span><span class="linkdiv-dash"> — </span><span class="desc">Verificar que tem os codecs de vídeo adequados instalados.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="video-dvd.html" title="Why won’t DVDs play?"><span class="title">Why won’t DVDs play?</span><span class="linkdiv-dash"> — </span><span class="desc">Pode que não tenha os codecs adequados instalados, ou o DVD poderia ser de uma região incorreta.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html" title="Como faço para ativar codecs restritos para reproduzir um DVDs?"><span class="title">Como faço para ativar codecs restritos para reproduzir um DVDs?</span><span class="linkdiv-dash"> — </span><span class="desc">A maioria dos DVDs comerciais são encriptados, desse modo não irá ser reproduzido sem um software de descodificação.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd.html.pt" title="Why won’t DVDs play?"><span class="title">Why won’t DVDs play?</span><span class="linkdiv-dash"> — </span><span class="desc">Pode que não tenha os codecs adequados instalados, ou o DVD poderia ser de uma região incorreta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html.pt" title="Como faço para ativar codecs restritos para reproduzir um DVDs?"><span class="title">Como faço para ativar codecs restritos para reproduzir um DVDs?</span><span class="linkdiv-dash"> — </span><span class="desc">A maioria dos DVDs comerciais são encriptados, desse modo não irá ser reproduzido sem um software de descodificação.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -112,7 +112,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.pt" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

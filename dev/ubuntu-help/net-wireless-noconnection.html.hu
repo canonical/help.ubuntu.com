@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-wireless.html" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-wireless.html.hu" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">A megfelelő jelszót adtam meg, de így sem tudok csatlakozni</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Ha biztos benne, hogy a megfelelő <span class="link"><a href="net-wireless-wepwpa.html" title="Mit jelent a WEP és WPA?">vezeték nélküli jelszót</a></span> adta meg, de így sem tud csatlakozni a vezeték nélküli hálózathoz, akkor próbálkozzon a következőkkel:</p>
+<p class="p">Ha biztos benne, hogy a megfelelő <span class="link"><a href="net-wireless-wepwpa.html.hu" title="Mit jelent a WEP és WPA?">vezeték nélküli jelszót</a></span> adta meg, de így sem tud csatlakozni a vezeték nélküli hálózathoz, akkor próbálkozzon a következőkkel:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Ellenőrizze újra, hogy a megfelelő jelszóval rendelkezik</p>
@@ -61,7 +61,7 @@
 </li>
 <li class="list">
 <p class="p">Próbálja meg vezeték nélküli csatolóját ki, majd újra bekapcsolni</p>
-<p class="p">Néha a vezeték nélküli csatolók beragadnak, vagy olyan kisebb problémát észlelnek, ami miatt nem csatlakoznak. Próbálja meg a csatolót ki, majd újra bekapcsolni – további információkért lásd: <span class="link"><a href="net-wireless-troubleshooting.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a></span>.</p>
+<p class="p">Néha a vezeték nélküli csatolók beragadnak, vagy olyan kisebb problémát észlelnek, ami miatt nem csatlakoznak. Próbálja meg a csatolót ki, majd újra bekapcsolni – további információkért lásd: <span class="link"><a href="net-wireless-troubleshooting.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a></span>.</p>
 </li>
 <li class="list">
 <p class="p">Ellenőrizze, hogy a megfelelő vezeték nélküli biztonsági szolgáltatást használja</p>
@@ -69,7 +69,7 @@
 </li>
 <li class="list">
 <p class="p">Ellenőrizze, hogy vezeték nélküli csatolója megfelelően támogatott-e</p>
-<p class="p">Néhány vezeték nélküli csatoló nem megfelelően támogatott. Ezek megjelennek vezeték nélküli kapcsolatként, de nem tudnak a hálózathoz csatlakozni, mert illesztőprogramjuk képtelen erre. Próbáljon meg alternatív illesztőprogramot keresni, vagy további beállításokat végrehajtani (például egy másik <span class="em">firmware</span> telepítése). További információkért lásd: <span class="link"><a href="net-wireless-troubleshooting.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a></span>.</p>
+<p class="p">Néhány vezeték nélküli csatoló nem megfelelően támogatott. Ezek megjelennek vezeték nélküli kapcsolatként, de nem tudnak a hálózathoz csatlakozni, mert illesztőprogramjuk képtelen erre. Próbáljon meg alternatív illesztőprogramot keresni, vagy további beállításokat végrehajtani (például egy másik <span class="em">firmware</span> telepítése). További információkért lásd: <span class="link"><a href="net-wireless-troubleshooting.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a></span>.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -78,7 +78,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Csatlakozás vezeték nélküli hálózatra">Kapcsolódás Wi-Fi-hez</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Kapcsolódás rejtett vezeték nélküli hálózathoz">Rejtett hálózatok</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Miért bontja folyamatosan a kapcsolatot a vezeték nélküli hálózatom?">Kapcsolatbontás</a></span>…</span>
+<a href="net-wireless.html.hu" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.hu" title="Csatlakozás vezeték nélküli hálózatra">Kapcsolódás Wi-Fi-hez</a></span>, <span class="link"><a href="net-wireless-hidden.html.hu" title="Kapcsolódás rejtett vezeték nélküli hálózathoz">Rejtett hálózatok</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.hu" title="Miért bontja folyamatosan a kapcsolatot a vezeték nélküli hálózatom?">Kapcsolatbontás</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

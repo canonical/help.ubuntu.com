@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-problem.html" title="Hálózati problémák">Hálózati problémák</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-problem.html.hu" title="Hálózati problémák">Hálózati problémák</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Más felhasználók nem tudják szerkeszteni a hálózati kapcsolatokat</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Ha egy hálózati kapcsolatot csak Ön tud szerkeszteni, a számítógép más felhasználói nem, akkor szükség lehet a kapcsolat átállítására <span class="em">elérhető minden felhasználónak</span> állapotúra. Ekkor a számítógép minden felhasználója tud <span class="em">csatlakozni</span> az adott kapcsolat használatával.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Hálózat</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Hálózat</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Hálózat</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Válassza a bal oldali lista <span class="gui">Wi-Fi</span> pontját.</p></li>
 <li class="steps"><p class="p">A kapcsolat részleteinek megnyitásához nyomja meg a <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="beállítások"></span></span> gombot.</p></li>
@@ -66,17 +66,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Hálózati problémák">Hálózati problémák</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli kapcsolatok hibaelhárítása</a></span>, <span class="link"><a href="net-wireless-find.html" title="Nem látom a vezeték nélküli hálózatomat a listán">Wi-Fi hálózat megtalálása</a></span>.</span>
+<a href="net-problem.html.hu" title="Hálózati problémák">Hálózati problémák</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli kapcsolatok hibaelhárítása</a></span>, <span class="link"><a href="net-wireless-find.html.hu" title="Nem látom a vezeték nélküli hálózatomat a listán">Wi-Fi hálózat megtalálása</a></span>.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Hogyan működik a rendszergazdai jogosultság?">Hogyan működik a rendszergazdai jogosultság?</a><span class="desc"> — A rendszer fontos részeinek módosításához rendszergazdai jogosultság szükséges.</span>
+<a href="user-admin-explain.html.hu" title="Hogyan működik a rendszergazdai jogosultság?">Hogyan működik a rendszergazdai jogosultság?</a><span class="desc"> — A rendszer fontos részeinek módosításához rendszergazdai jogosultság szükséges.</span>
 </li>
 <li class="links ">
-<a href="net-othersconnect.html" title="Más felhasználók nem tudnak az internetre csatlakozni">Más felhasználók nem tudnak az internetre csatlakozni</a><span class="desc"> — Elmentheti a hálózati kapcsolat beállításait (például a jelszavát), hogy a számítógép minden felhasználója kapcsolódhasson ahhoz.</span>
+<a href="net-othersconnect.html.hu" title="Más felhasználók nem tudnak az internetre csatlakozni">Más felhasználók nem tudnak az internetre csatlakozni</a><span class="desc"> — Elmentheti a hálózati kapcsolat beállításait (például a jelszavát), hogy a számítógép minden felhasználója kapcsolódhasson ahhoz.</span>
 </li>
 </ul></div>
 </div></div>

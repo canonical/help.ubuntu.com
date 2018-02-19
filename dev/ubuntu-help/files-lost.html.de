@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.de" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html.de#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Eine verlorene Datei finden</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">Wenn Sie eine Datei erstellt oder heruntergeladen haben, sie jetzt aber nicht mehr finden können, befolgen Sie diese Hinweise.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Wenn Sie sich nicht mehr erinnern, wo Sie die Datei gespeichert haben, aber noch ungefähr wissen, wie Sie sie genannt haben, können Sie die <span class="link"><a href="files-search.html" title="Nach Dateien suchen">Datei anhand des Namens suchen</a></span>.</p></li>
+<li class="list"><p class="p">Wenn Sie sich nicht mehr erinnern, wo Sie die Datei gespeichert haben, aber noch ungefähr wissen, wie Sie sie genannt haben, können Sie die <span class="link"><a href="files-search.html.de" title="Nach Dateien suchen">Datei anhand des Namens suchen</a></span>.</p></li>
 <li class="list"><p class="p">Wenn Sie die Datei gerade erst heruntergeladen haben, hat Ihr Webbrowser sie vielleicht automatisch in einem dafür üblichen Ordner gespeichert. Sehen Sie dazu in Ihrem persönlichen Ordner in den Ordnern <span class="file">Schreibtisch</span> und <span class="file">Downloads</span> nach.</p></li>
-<li class="list"><p class="p">Sie könnten die Datei versehentlich gelöscht haben. Wenn Sie eine Datei löschen, wird sie in den Papierkorb verschoben und bleibt auch dort, bis Sie den Papierkorb manuell leeren. Unter <span class="link"><a href="files-recover.html" title="Eine Datei aus dem Papierkorb wiederherstellen">Eine Datei aus dem Papierkorb wiederherstellen</a></span> erfahren Sie, wie Sie eine gelöschte Datei wiederherstellen können.</p></li>
-<li class="list"><p class="p">Sie könnten die Datei so umbenannt haben, dass sie verborgen wird. Dateien, die mit <span class="file">.</span> beginnen oder mit <span class="file">~</span> enden, werden in der Dateiverwaltung verborgen. Klicken Sie in der Dateiverwaltung auf den Ansichtsoptionen-Knopf in der Werkzeugleiste in <span class="gui">Dateien</span> und wählen Sie dann <span class="gui">Verborgene Dateien anzeigen</span>, um diese anzuzeigen. Weitere Informationen finden Sie unter <span class="link"><a href="files-hidden.html" title="Eine Datei verbergen">Eine Datei verbergen</a></span>.</p></li>
+<li class="list"><p class="p">Sie könnten die Datei versehentlich gelöscht haben. Wenn Sie eine Datei löschen, wird sie in den Papierkorb verschoben und bleibt auch dort, bis Sie den Papierkorb manuell leeren. Unter <span class="link"><a href="files-recover.html.de" title="Eine Datei aus dem Papierkorb wiederherstellen">Eine Datei aus dem Papierkorb wiederherstellen</a></span> erfahren Sie, wie Sie eine gelöschte Datei wiederherstellen können.</p></li>
+<li class="list"><p class="p">Sie könnten die Datei so umbenannt haben, dass sie verborgen wird. Dateien, die mit <span class="file">.</span> beginnen oder mit <span class="file">~</span> enden, werden in der Dateiverwaltung verborgen. Klicken Sie in der Dateiverwaltung auf den Ansichtsoptionen-Knopf in der Werkzeugleiste in <span class="gui">Dateien</span> und wählen Sie dann <span class="gui">Verborgene Dateien anzeigen</span>, um diese anzuzeigen. Weitere Informationen finden Sie unter <span class="link"><a href="files-hidden.html.de" title="Eine Datei verbergen">Eine Datei verbergen</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,12 +62,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.de#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-recover.html" title="Eine Datei aus dem Papierkorb wiederherstellen">Eine Datei aus dem Papierkorb wiederherstellen</a><span class="desc"> — Wenn Sie Dateien löschen, werden sie normalerweise in den Papierkorb verschoben, können aber aus dem Papierkorb wiederhergestellt werden.</span>
+<a href="files-recover.html.de" title="Eine Datei aus dem Papierkorb wiederherstellen">Eine Datei aus dem Papierkorb wiederherstellen</a><span class="desc"> — Wenn Sie Dateien löschen, werden sie normalerweise in den Papierkorb verschoben, können aber aus dem Papierkorb wiederhergestellt werden.</span>
 </li></ul></div>
 </div></div>
 </div>

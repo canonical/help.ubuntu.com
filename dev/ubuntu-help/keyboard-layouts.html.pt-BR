@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="prefs-language.html" title="Região &amp; idioma">Região &amp; idioma</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="prefs-language.html.pt-BR" title="Região &amp; idioma">Região &amp; idioma</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="keyboard.html.pt-BR" title="Teclado">Teclado</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Configurando atalhos de teclado">Configurando atalhos de teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="keyboard.html.pt-BR" title="Teclado">Teclado</a> » <a class="trail" href="keyboard-shortcuts-set.html.pt-BR" title="Configurando atalhos de teclado">Configurando atalhos de teclado</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html.pt-BR" title="Teclado">Teclado</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Configurando atalhos de teclado">Configurando atalhos de teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html.pt-BR" title="Teclado">Teclado</a> » <a class="trail" href="keyboard-shortcuts-set.html.pt-BR" title="Configurando atalhos de teclado">Configurando atalhos de teclado</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,7 +61,7 @@
 <div class="contents">
 <p class="p">Teclados possuem centenas de disposições para diferentes idiomas. Mesmo para um único idioma, frequentemente há várias disposições para teclados, como o Dvorak para o Inglês. Você pode fazer seu teclado se comportar como um teclado de diferente disposição, independentemente das letras e símbolos impressos nas teclas. Isto é útil se você precisa alternar entre múltiplos idiomas.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">+</span> button in the <span class="gui">Input Sources</span> section,
@@ -102,7 +102,7 @@
   <span class="gui">Input Source</span> <span class="gui">Keyboard Shortcuts</span>. These shortcuts open 
   the <span class="gui">Input Source</span> chooser where you can move forward and backward. 
   By default, you can switch to the next input source with 
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="O que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
+  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pt-BR" title="O que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
   and to the previous one with
   <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span>. You can
   change these shortcuts in the <span class="gui">Keyboard</span> settings.</p>
@@ -115,20 +115,20 @@
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Configurando atalhos de teclado">Configurando atalhos de teclado</a><span class="desc"> — Defina e altere atalhos de teclado nas configurações de <span class="gui">Teclado</span>.</span>
+<a href="keyboard-shortcuts-set.html.pt-BR" title="Configurando atalhos de teclado">Configurando atalhos de teclado</a><span class="desc"> — Defina e altere atalhos de teclado nas configurações de <span class="gui">Teclado</span>.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Região &amp; idioma">Região &amp; idioma</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Alterando que idioma você usa">Idioma</a></span>, <span class="link"><a href="session-formats.html" title="Alterando os formatos de data e medidas">região e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">disposições de teclado</a></span>…</span>
+<a href="prefs-language.html.pt-BR" title="Região &amp; idioma">Região &amp; idioma</a><span class="desc"> — <span class="link"><a href="session-language.html.pt-BR" title="Alterando que idioma você usa">Idioma</a></span>, <span class="link"><a href="session-formats.html.pt-BR" title="Alterando os formatos de data e medidas">região e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html.pt-BR" title="Use alternative keyboard layouts">disposições de teclado</a></span>…</span>
 </li>
 <li class="links ">
-<a href="keyboard.html" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Disposições de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Fazendo o cursor de teclado piscar">cursor intermitente</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiências motoras">acessibilidade no teclado</a></span>…</span>
+<a href="keyboard.html.pt-BR" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.pt-BR" title="Use alternative keyboard layouts">Disposições de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.pt-BR" title="Fazendo o cursor de teclado piscar">cursor intermitente</a></span>, <span class="link"><a href="a11y.html.pt-BR#mobility" title="Deficiências motoras">acessibilidade no teclado</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips-specialchars.html" title="Inserindo caracteres especiais">Inserindo caracteres especiais</a><span class="desc"> — Digite caracteres não disponíveis no seu teclado, incluindo alfabetos estrangeiros, símbolos matemáticos e caracteres decorativos.</span>
+<a href="tips-specialchars.html.pt-BR" title="Inserindo caracteres especiais">Inserindo caracteres especiais</a><span class="desc"> — Digite caracteres não disponíveis no seu teclado, incluindo alfabetos estrangeiros, símbolos matemáticos e caracteres decorativos.</span>
 </li></ul></div>
 </div></div>
 </div>

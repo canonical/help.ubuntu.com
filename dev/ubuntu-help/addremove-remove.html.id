@@ -45,7 +45,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="addremove.html" title="Pasang &amp; hapus perangkat lunak">Add/remove software</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="addremove.html.id" title="Pasang &amp; hapus perangkat lunak">Add/remove software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">
@@ -62,7 +62,7 @@
    Some applications are available in both formats. In such a case in <span class="app">Ubuntu Software</span> the snap will be listed first.</p>
 <p class="p">You may also wish to remove software that does not have a GUI.
     To remove such software, you can use
-    <span class="link"><a href="addremove-install-synaptic.html" title="Use Synaptic for more advanced software management">Synaptic</a></span>. Note that <span class="app">Synaptic</span> does not list snaps.
+    <span class="link"><a href="addremove-install-synaptic.html.id" title="Use Synaptic for more advanced software management">Synaptic</a></span>. Note that <span class="app">Synaptic</span> does not list snaps.
   </p>
 <p class="p">To remove an application:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -105,14 +105,14 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Pasang &amp; hapus perangkat lunak">Pasang &amp; hapus perangkat lunak</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Install additional applications">Pasang aplikasi</a></span>, <span class="link"><a href="addremove-remove.html" title="Remove an application">hapus aplikasi</a></span>, <span class="link"><a href="addremove-sources.html" title="Add software repositories">tambah repositori</a></span>…</span>
+<a href="addremove.html.id" title="Pasang &amp; hapus perangkat lunak">Pasang &amp; hapus perangkat lunak</a><span class="desc"> — <span class="link"><a href="addremove-install.html.id" title="Install additional applications">Pasang aplikasi</a></span>, <span class="link"><a href="addremove-remove.html.id" title="Remove an application">hapus aplikasi</a></span>, <span class="link"><a href="addremove-sources.html.id" title="Add software repositories">tambah repositori</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Install additional applications">
+<a href="addremove-install.html.id" title="Install additional applications">
     Install additional applications
   </a><span class="desc"> — 
       Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
@@ -120,7 +120,7 @@
     </span>
 </li>
 <li class="links ">
-<a href="addremove-install-synaptic.html" title="Use Synaptic for more advanced software management">
+<a href="addremove-install-synaptic.html.id" title="Use Synaptic for more advanced software management">
     Use Synaptic for more advanced software management
   </a><span class="desc"> — 
       Synaptic is a powerful but complicated software management alternative to 

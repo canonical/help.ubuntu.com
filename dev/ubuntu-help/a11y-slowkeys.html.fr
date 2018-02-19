@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="keyboard.html" title="Clavier">Clavier</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="keyboard.html.fr" title="Clavier">Clavier</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="a11y.html" title="Accès universel">Accès universel</a> › <a class="trail" href="a11y.html#mobility" title="Mobilité défaillante">Mobilité défaillante</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="a11y.html.fr" title="Accès universel">Accès universel</a> › <a class="trail" href="a11y.html.fr#mobility" title="Mobilité défaillante">Mobilité défaillante</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="keyboard.html" title="Clavier">Clavier</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="keyboard.html.fr" title="Clavier">Clavier</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">Activez les <span class="em">touches lentes</span> pour introduire un délai entre le moment où une touche est pressée et celui où la lettre correspondante apparaît à l'écran. En conséquence, vous devez maintenir enfoncée un peu plus longtemps chaque touche que vous voulez saisir, avant qu'elle n'apparaisse. Utilisez cette fonctionnalité s'il vous arrive malencontreusement d'appuyer sur plusieurs touches à la fois pendant votre saisie, ou s'il vous est difficile de trouver la bonne touche sur votre clavier du premier coup.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ouvrez la vue d'ensemble des <span class="link"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d'ensemble des <span class="link"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur l'icône <span class="gui">Accès universel</span> pour afficher le panneau.</p></li>
 <li class="steps"><p class="p">À la rubrique <span class="gui">Saisie</span>, cliquez sur <span class="gui">Assistant de saisie (AccessX)</span>.</p></li>
 <li class="steps"><p class="p">Basculez l'interrupteur <span class="gui">Touches lentes</span> sur <span class="gui">Activé</span>.</p></li>
@@ -66,7 +66,7 @@
 <div class="title title-note"><h2><span class="title">Activation ou désactivation rapide des touches lentes</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">À la rubrique <span class="gui">Activer au clavier</span>, sélectionnez <span class="gui">Activer les fonctionnalités d'accessibilité à partir du clavier</span> pour activer/désactiver les touches lentes à partir du clavier. Si cette option est cochée, chaque fois que vous maintenez la touche <span class="key"><kbd>Maj</kbd></span> enfoncée pendant huit secondes, vous activez/désactivez les touches lentes.</p>
-<p class="p">Vous pouvez aussi activer/désactiver les touches lentes en cliquant sur l'<span class="link"><a href="a11y-icon.html" title="Recherche du menu « Accès universel »">icône d'accessibilité</a></span> de la barre supérieure et en sélectionnant <span class="gui">Touches lentes</span>. L'icône d'accessibilté est visible quand un ou plusieurs paramètres ont déjà été activés dans le panneau <span class="gui">Accès universel</span>.</p>
+<p class="p">Vous pouvez aussi activer/désactiver les touches lentes en cliquant sur l'<span class="link"><a href="a11y-icon.html.fr" title="Recherche du menu « Accès universel »">icône d'accessibilité</a></span> de la barre supérieure et en sélectionnant <span class="gui">Touches lentes</span>. L'icône d'accessibilté est visible quand un ou plusieurs paramètres ont déjà été activés dans le panneau <span class="gui">Accès universel</span>.</p>
 </div></div>
 </div></div>
 <p class="p">Faites glisser le curseur <span class="gui">Délai d'acceptation</span> pour ajuster la durée d'appui sur une touche avant qu'il ne soit accepté.</p>
@@ -80,9 +80,9 @@
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Clavier">Clavier</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Utiliser des configurations de clavier alternatives">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span>
+<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.fr" title="Utiliser des configurations de clavier alternatives">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fr" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html.fr#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Mobilité défaillante">Mobilité défaillante</a></li>
+<li class="links "><a href="a11y.html.fr#mobility" title="Mobilité défaillante">Mobilité défaillante</a></li>
 </ul></div>
 </div></div></div>
 </div>

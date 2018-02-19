@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="color.html" title="Krāsu pārvaldība">Krāsu pārvaldība</a> › <a class="trail" href="color.html#profiles" title="Krāsu profili">Krāsu profili</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="color.html.lv" title="Krāsu pārvaldība">Krāsu pārvaldība</a> › <a class="trail" href="color.html.lv#profiles" title="Krāsu profili">Krāsu profili</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="color.html" title="Krāsu pārvaldība">Krāsu pārvaldība</a> › <a class="trail" href="color.html#profiles" title="Krāsu profili">Krāsu profili</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="color.html.lv" title="Krāsu pārvaldība">Krāsu pārvaldība</a> › <a class="trail" href="color.html.lv#profiles" title="Krāsu profili">Krāsu profili</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,28 +56,28 @@
 <p class="p">Profilu var importēt ar dubultklikšķi <span class="input">.ICC</span> vai <span class="input">.ICM</span> uz datnēm datņu pārlūkā.</p>
 <p class="p">Vai arī varat pārvaldīt krāsas caur <span class="gui">Krāsas</span> paneli.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Krāsa</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Krāsa</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Krāsa</span>, lai atvērtu paneli un izvēlētos savu ierīci.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Pievienot profilu</span>, lai izvēlētos esošu profilu vai importēt profilu.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Pievienot</span>, lai apstiprinātu izvēli.</p></li>
 </ol></div></div></div>
-<p class="p">Displeja ražotājs var piegādāt profilu, ko varat izmantot. Parasti šie profili tiek veidoti vidējam displejam, tāpēc tie varētu pilnībā neatbilst tieši jūsējam. Lai iegūtu labāko kalibrāciju, jums vajadzētu <span class="link"><a href="color-calibrate-screen.html" title="Kā lai es kalibrēju savu ekrānu?">izveidot pašiem savu profilu</a></span>, izmantojot kolorimetru vai spektrofotometru.</p>
+<p class="p">Displeja ražotājs var piegādāt profilu, ko varat izmantot. Parasti šie profili tiek veidoti vidējam displejam, tāpēc tie varētu pilnībā neatbilst tieši jūsējam. Lai iegūtu labāko kalibrāciju, jums vajadzētu <span class="link"><a href="color-calibrate-screen.html.lv" title="Kā lai es kalibrēju savu ekrānu?">izveidot pašiem savu profilu</a></span>, izmantojot kolorimetru vai spektrofotometru.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Krāsu profili">Krāsu profili</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.lv#profiles" title="Krāsu profili">Krāsu profili</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Kas ir krāsu profils?">Kas ir krāsu profils?</a><span class="desc"> — Krāsu profils ir vienkārša datne, kas raksturo krāsu telpu vai ierīces krāsu atbildi.</span>
+<a href="color-whatisprofile.html.lv" title="Kas ir krāsu profils?">Kas ir krāsu profils?</a><span class="desc"> — Krāsu profils ir vienkārša datne, kas raksturo krāsu telpu vai ierīces krāsu atbildi.</span>
 </li>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Kā es varu piešķirt ierīcēm profilus?">Kā es varu piešķirt ierīcēm profilus?</a><span class="desc"> — Ieskatieties <span class="guiseq"><span class="gui">Iestatījumi</span> ▸ <span class="gui">Krāsa</span></span>, lai ekrānam pievienotu krāsu profilu.</span>
+<a href="color-assignprofiles.html.lv" title="Kā es varu piešķirt ierīcēm profilus?">Kā es varu piešķirt ierīcēm profilus?</a><span class="desc"> — Ieskatieties <span class="guiseq"><span class="gui">Iestatījumi</span> ▸ <span class="gui">Krāsa</span></span>, lai ekrānam pievienotu krāsu profilu.</span>
 </li>
 </ul></div>
 </div></div>

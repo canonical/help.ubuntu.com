@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html" title="Obteniu més ajuda">Obteniu més ajuda</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.ca" title="Obteniu més ajuda">Obteniu més ajuda</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Participeu en la millora d'aquesta guia</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Aquest sistema d'ajuda l'ha creat una comunitat de voluntaris, a la qual esteu convidat a participar. Si veieu cap problema en aquestes pàgines d'ajuda (com ara errors d'escriptura, instruccions incorrectes o temes que manquin), podeu enviar un <span class="em">informe d'error</span>.</p>
 <p class="p">Per enviar un informe d'error, premeu la combinació de tecles <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> i escriviu <span class="input">ubuntu-bug ubuntu-docs</span>. Seguidament premeu la tecla <span class="gui">Retorn</span> per iniciar el procés d'enviament d'errors.</p>
-<p class="p">See the <span class="link"><a href="report-ubuntu-bug.html" title="Informeu d'un problema a l'Ubuntu">Ubuntu bug reporting 
+<p class="p">See the <span class="link"><a href="report-ubuntu-bug.html.ca" title="Informeu d'un problema a l'Ubuntu">Ubuntu bug reporting 
 instructions</a></span> for more information about how to file your bug.</p>
 <p class="p">Us agraïm que ens ajudeu a millorar l'Ubuntu!</p>
 </div>
@@ -61,16 +61,16 @@ instructions</a></span> for more information about how to file your bug.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html" title="Obteniu més ajuda">Obteniu més ajuda</a><span class="desc"> — 
-        <span class="link"><a href="about-this-guide.html" title="Quant a aquesta guia">Tips on using this guide</a></span>,
-        <span class="link"><a href="get-involved.html" title="Participeu en la millora d'aquesta guia">help improve this guide</a></span>…
+<a href="more-help.html.ca" title="Obteniu més ajuda">Obteniu més ajuda</a><span class="desc"> — 
+        <span class="link"><a href="about-this-guide.html.ca" title="Quant a aquesta guia">Tips on using this guide</a></span>,
+        <span class="link"><a href="get-involved.html.ca" title="Participeu en la millora d'aquesta guia">help improve this guide</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="report-ubuntu-bug.html" title="Informeu d'un problema a l'Ubuntu">Informeu d'un problema a l'Ubuntu</a><span class="desc"> — On i com podeu informar sobre problemes amb l'Ubuntu.</span>
+<a href="report-ubuntu-bug.html.ca" title="Informeu d'un problema a l'Ubuntu">Informeu d'un problema a l'Ubuntu</a><span class="desc"> — On i com podeu informar sobre problemes amb l'Ubuntu.</span>
 </li></ul></div>
 </div></div>
 </div>

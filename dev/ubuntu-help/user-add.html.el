@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="user-accounts.html" title="Λογαριασμοί χρηστών">Χρήστες</a> › <a class="trail" href="user-accounts.html#manage" title="Διαχείριση λογαριασμών των χρηστών">Λογαριασμοί</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="user-accounts.html.el" title="Λογαριασμοί χρηστών">Χρήστες</a> › <a class="trail" href="user-accounts.html.el#manage" title="Διαχείριση λογαριασμών των χρηστών">Λογαριασμοί</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Προσθήκη νέου λογαριασμού χρήστη</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Μπορείτε να προσθέσετε πολλαπλούς λογαριασμούς χρήστη στον υπολογιστή σας. Δώστε έναν λογαριασμό σε κάθε άτομο του σπιτικού σας ή της εταιρείας. Κάθε χρήστης έχει τον δικό του προσωπικό φάκελο, έγγραφα και ρυθμίσεις.</p>
-<p class="p">Χρειαζόσαστε <span class="link"><a href="user-admin-explain.html" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">δικαιώματα διαχειριστή</a></span> για να προσθέσετε λογαριασμούς χρήστη.</p>
+<p class="p">Χρειαζόσαστε <span class="link"><a href="user-admin-explain.html.el" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">δικαιώματα διαχειριστή</a></span> για να προσθέσετε λογαριασμούς χρήστη.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Χρήστες</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Χρήστες</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Χρήστες</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Πατήστε στο <span class="gui">Ξεκλείδωμα</span> στην πάνω δεξιά γωνία και πληκτρολογήστε τον κωδικό πρόσβασής σας όταν σας ζητηθεί.</p></li>
 <li class="steps"><p class="p">Πατήστε το κουμπί <span class="gui">+</span>, κάτω από τον κατάλογο των λογαριασμών στα αριστερά, για να προσθέσετε έναν νέο λογαριασμό χρήστη.</p></li>
 <li class="steps">
-<p class="p">Αν θέλετε ο νέος χρήστης να έχει <span class="link"><a href="user-admin-explain.html" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">πρόσβαση διαχειριστή</a></span> στο σύστημα, επιλέξτε <span class="gui">Διαχειριστής</span> για τον τύπο του λογαριασμού.</p>
+<p class="p">Αν θέλετε ο νέος χρήστης να έχει <span class="link"><a href="user-admin-explain.html.el" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">πρόσβαση διαχειριστή</a></span> στο σύστημα, επιλέξτε <span class="gui">Διαχειριστής</span> για τον τύπο του λογαριασμού.</p>
 <p class="p">Οι διαχειριστές μπορούν να κάνουν εργασίες όπως να προσθέσουν και να διαγράψουν χρήστες, να εγκαταστήσουν λογισμικό και οδηγούς και να αλλάξουν την ημερομηνία και την ώρα του συστήματος.</p>
 </li>
 <li class="steps"><p class="p">Enter the new user’s full name. The username will be filled in
@@ -80,12 +80,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Διαχείριση λογαριασμών των χρηστών">Διαχείριση λογαριασμών των χρηστών</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.el#manage" title="Διαχείριση λογαριασμών των χρηστών">Διαχείριση λογαριασμών των χρηστών</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-delete.html" title="Διαγραφή λογαριασμού χρήστη">Διαγραφή λογαριασμού χρήστη</a><span class="desc"> — Αφαιρέστε χρήστες που δεν χρησιμοποιούν πια τον υπολογιστή σας.</span>
+<a href="user-delete.html.el" title="Διαγραφή λογαριασμού χρήστη">Διαγραφή λογαριασμού χρήστη</a><span class="desc"> — Αφαιρέστε χρήστες που δεν χρησιμοποιούν πια τον υπολογιστή σας.</span>
 </li></ul></div>
 </div></div>
 </div>

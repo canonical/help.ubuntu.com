@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="user-accounts.html" title="Учётные записи пользователей">Пользователи</a> › <a class="trail" href="user-accounts.html#privileges" title="Привилегии пользователей">Привилегии</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="user-accounts.html.ru" title="Учётные записи пользователей">Пользователи</a> › <a class="trail" href="user-accounts.html.ru#privileges" title="Привилегии пользователей">Привилегии</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Как работают административные полномочия?</span></h1></div>
@@ -92,36 +92,36 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Привилегии пользователей">Привилегии пользователей</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.ru#privileges" title="Привилегии пользователей">Привилегии пользователей</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — Надо отключить опцию <span class="gui">Доступно всем пользователям</span> в параметрах сетевого соединения.</span>
+<a href="net-othersedit.html.ru" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — Надо отключить опцию <span class="gui">Доступно всем пользователям</span> в параметрах сетевого соединения.</span>
 </li>
 <li class="links ">
-<a href="printing-setup-default-printer.html" title="Выбор принтера, используемого по умолчанию">Выбор принтера, используемого по умолчанию</a><span class="desc"> — Выберите принтер, которым пользуетесь чаще всего.</span>
+<a href="printing-setup-default-printer.html.ru" title="Выбор принтера, используемого по умолчанию">Выбор принтера, используемого по умолчанию</a><span class="desc"> — Выберите принтер, которым пользуетесь чаще всего.</span>
 </li>
 <li class="links ">
-<a href="user-changepassword.html" title="Изменение пароля">Изменение пароля</a><span class="desc"> — Обеспечьте безопасность своей учётной записи с помощью частого изменения пароля.</span>
+<a href="user-changepassword.html.ru" title="Изменение пароля">Изменение пароля</a><span class="desc"> — Обеспечьте безопасность своей учётной записи с помощью частого изменения пароля.</span>
 </li>
 <li class="links ">
-<a href="printing-name-location.html" title="Как изменить имя или местоположение принтера">Как изменить имя или местоположение принтера</a><span class="desc"> — Изменение имени и местоположения принтера в параметрах принтера.</span>
+<a href="printing-name-location.html.ru" title="Как изменить имя или местоположение принтера">Как изменить имя или местоположение принтера</a><span class="desc"> — Изменение имени и местоположения принтера в параметрах принтера.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="Назначение административных полномочий">Назначение административных полномочий</a><span class="desc"> — You can allow users to make changes to the system by giving them
+<a href="user-admin-change.html.ru" title="Назначение административных полномочий">Назначение административных полномочий</a><span class="desc"> — You can allow users to make changes to the system by giving them
     administrative privileges.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="Проблемы, вызванные ограничением прав доступа">Проблемы, вызванные ограничением прав доступа</a><span class="desc"> — You can do some things, like installing applications, only if you
+<a href="user-admin-problems.html.ru" title="Проблемы, вызванные ограничением прав доступа">Проблемы, вызванные ограничением прав доступа</a><span class="desc"> — You can do some things, like installing applications, only if you
     have administrative privileges.</span>
 </li>
 <li class="links ">
-<a href="user-changepicture.html" title="Смена изображения пользователя на экране входа в систему">Смена изображения пользователя на экране входа в систему</a><span class="desc"> — Добавление своей фотографии на экраны входа в систему и выбора пользователя.</span>
+<a href="user-changepicture.html.ru" title="Смена изображения пользователя на экране входа в систему">Смена изображения пользователя на экране входа в систему</a><span class="desc"> — Добавление своей фотографии на экраны входа в систему и выбора пользователя.</span>
 </li>
 <li class="links ">
-<a href="user-delete.html" title="Удаление учётной записи пользователя">Удаление учётной записи пользователя</a><span class="desc"> — Удаление пользователей, которые больше не работают на вашем компьютере.</span>
+<a href="user-delete.html.ru" title="Удаление учётной записи пользователя">Удаление учётной записи пользователя</a><span class="desc"> — Удаление пользователей, которые больше не работают на вашем компьютере.</span>
 </li>
 </ul></div>
 </div></div>

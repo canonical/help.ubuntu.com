@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="hardware-auth.html" title="Impressões digitais e cartões inteligentes">Impressões digitais e cartões inteligentes</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> » <a class="trail" href="hardware-auth.html.pt" title="Impressões digitais e cartões inteligentes">Impressões digitais e cartões inteligentes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Iniciar sessão com uma impressão digital</span></h1></div>
@@ -54,9 +54,9 @@
 <div class="region"><div class="contents">
 <p class="p">Antes de poder iniciar sessão com a sua impressão digital, deve gravá-la para que o sistema lhe possa identificar.</p>
 <div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Se seu dedo está demasiado seco, pode que tenha dificultem para registar a sua impressão digital. Se isto sucede, humedeça ligeiramente o dedo, o seque com um pano limpo e sem pelo, e tente novamente.</p></div></div></div></div>
-<p class="p">Precisa <span class="link"><a href="user-admin-explain.html" title="Como funcionam os privilégios de administrador?">privilégios de administrador</a></span> para editar contas de utilizadores que não sejam a sua propria.</p>
+<p class="p">Precisa <span class="link"><a href="user-admin-explain.html.pt" title="Como funcionam os privilégios de administrador?">privilégios de administrador</a></span> para editar contas de utilizadores que não sejam a sua propria.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Utentes</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Utentes</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Utentes</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Desativado</span> junto a <span class="gui">Iniciar sessão com a impressão digital</span> para acrescentar uma impressão digital à conta selecionada. Se está a acrescentar a impressão para outro utilizador, primeiro deverá <span class="gui">Desbloquear</span> o painel.</p></li>
 <li class="steps"><p class="p">Selecione o dedo que quer usar para a impressão digital e carregue <span class="gui">Seguinte</span>.</p></li>
@@ -70,7 +70,7 @@
 <div class="region"><div class="contents">
 <p class="p">Agora comprove que funciona seu novo início de sessão com impressão digital. Se regista uma impressão digital, ainda tem a opção de iniciar sessão com a sua palavra-passe.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Guarde qualquer trabalho que tenha aberto e <span class="link"><a href="shell-exit.html#logout" title="Fechar a sessão ou mudar de utilizador">feche a sessão</a></span>.</p></li>
+<li class="steps"><p class="p">Guarde qualquer trabalho que tenha aberto e <span class="link"><a href="shell-exit.html.pt#logout" title="Fechar a sessão ou mudar de utilizador">feche a sessão</a></span>.</p></li>
 <li class="steps"><p class="p">No ecrã de início de sessão, selecione seu nome de utilizador da lista. Aparecerá o formulário primeiramente de palavra-passe.</p></li>
 <li class="steps"><p class="p">Em vez de escrever a sua palavra-passe, deveria poder deslizar o dedo pelo leitor de impressão digital.</p></li>
 </ol></div></div></div>
@@ -81,7 +81,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-auth.html" title="Impressões digitais e cartões inteligentes">Impressões digitais e cartões inteligentes</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html" title="Iniciar sessão com uma impressão digital">Leitores de impressões digitais</a></span>, cartões inteligentes…</span>
+<a href="hardware-auth.html.pt" title="Impressões digitais e cartões inteligentes">Impressões digitais e cartões inteligentes</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html.pt" title="Iniciar sessão com uma impressão digital">Leitores de impressões digitais</a></span>, cartões inteligentes…</span>
 </li></ul></div>
 </div></div></div>
 </div>

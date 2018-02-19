@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html#faq" title="小提示和问答">小提示和问答</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.zh-CN" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html.zh-CN#faq" title="小提示和问答">小提示和问答</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">设定文件权限</span></h1></div>
@@ -68,7 +68,7 @@
     belong to.</p>
 <p class="p">You can also set the permissions for users other than the owner and
     those in the file’s group.</p>
-<p class="p">如果是程序文件，比如脚本，您必须选中<span class="gui">允许以程序执行文件</span>才能运行它。甚至即使您选中了此项，文件管理器仍然会在一个程序中打开它，或者询问您如何操作。更多信息请参阅 <span class="link"><a href="nautilus-behavior.html#executable" title="可执行文本文件">可执行文本文件</a></span>。</p>
+<p class="p">如果是程序文件，比如脚本，您必须选中<span class="gui">允许以程序执行文件</span>才能运行它。甚至即使您选中了此项，文件管理器仍然会在一个程序中打开它，或者询问您如何操作。更多信息请参阅 <span class="link"><a href="nautilus-behavior.html.zh-CN#executable" title="可执行文本文件">可执行文本文件</a></span>。</p>
 </div></div>
 </div></div>
 <div id="folders" class="sect"><div class="inner">
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="小提示和问答">小提示和问答</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.zh-CN#faq" title="小提示和问答">小提示和问答</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-basic.html" title="文件属性">文件属性</a><span class="desc"> — 查看基本的文件信息，设定权限和选择默认的应用程序。</span>
+<a href="nautilus-file-properties-basic.html.zh-CN" title="文件属性">文件属性</a><span class="desc"> — 查看基本的文件信息，设定权限和选择默认的应用程序。</span>
 </li></ul></div>
 </div></div>
 </div>

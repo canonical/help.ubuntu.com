@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="power.html#problems" title="Problemen">Stroomproblemen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="power.html.nl#problems" title="Problemen">Stroomproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ik heb geen draadloos netwerk na het weer actief worden van mijn computer</span></h1></div>
@@ -51,13 +51,13 @@
 <div class="contents">
 <p class="p">If you have suspended your computer, you may find that your wireless
   internet connection does not work when you resume it again. This happens when
-  the <span class="link"><a href="hardware-driver.html" title="Wat is een stuurprogramma?">driver</a></span> for the wireless device does
+  the <span class="link"><a href="hardware-driver.html.nl" title="Wat is een stuurprogramma?">driver</a></span> for the wireless device does
   not fully support certain power saving features.
   Typically, the wireless connection fails to turn on properly when the
   computer is resumed.</p>
 <p class="p">Als dit gebeurt probeer dan om draadloos uit en daarna weer in te schakelen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Netwerk</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Netwerk</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Netwerk</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Selecteer <span class="gui">Wifi</span>.</p></li>
 <li class="steps"><p class="p">Switch the wireless <span class="gui">OFF</span> and then <span class="gui">ON</span> again.</p></li>
@@ -74,17 +74,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html#problems" title="Problemen">Stroomproblemen</a><span class="desc"> — Problemen met stroom en accu's oplossen.</span>
+<a href="power.html.nl#problems" title="Problemen">Stroomproblemen</a><span class="desc"> — Problemen met stroom en accu's oplossen.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-driver.html" title="Wat is een stuurprogramma?">Wat is een stuurprogramma?</a><span class="desc"> — Een hardware/apparaatstuurprogramma stelt uw computer in staat aangesloten apparaten te gebruiken.</span>
+<a href="hardware-driver.html.nl" title="Wat is een stuurprogramma?">Wat is een stuurprogramma?</a><span class="desc"> — Een hardware/apparaatstuurprogramma stelt uw computer in staat aangesloten apparaten te gebruiken.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.nl" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 </ul></div>
 </div></div>

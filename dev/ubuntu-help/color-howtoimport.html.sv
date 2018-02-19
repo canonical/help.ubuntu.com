@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="color.html" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html#profiles" title="Färgprofiler">Färgprofiler</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="color.html.sv" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html.sv#profiles" title="Färgprofiler">Färgprofiler</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="color.html" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html#profiles" title="Färgprofiler">Färgprofiler</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="color.html.sv" title="Färghantering">Färghantering</a> › <a class="trail" href="color.html.sv#profiles" title="Färgprofiler">Färgprofiler</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,28 +56,28 @@
 <p class="p">Du kan importera en färgprofil genom att dubbelklicka på en <span class="file">.ICC</span>- eller <span class="file">.ICM</span>-fil i filhanteraren.</p>
 <p class="p">Alternativt kan du hantera dina färgprofiler via panelen <span class="gui">Färg</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Färg</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Färg</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Färg</span> för att öppna panelen och välja din enhet.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Lägg till profil</span> för att välja en existerande profil eller importera en ny profil.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="gui">Lägg till</span> för att bekräfta ditt val.</p></li>
 </ol></div></div></div>
-<p class="p">Din skärms tillverkare kan tillhandahålla en profil som du kan använda. Dessa profiler är vanligtvis gjorda för den genomsnittliga skärmen, så den är kanske inte perfekt för din specifika skärm. För den bästa kalibreringen bör du <span class="link"><a href="color-calibrate-screen.html" title="Hur kalibrerar jag min skärm?">skapa din egen profil</a></span> genom att använda en färgkalibrator eller spektrofotometer.</p>
+<p class="p">Din skärms tillverkare kan tillhandahålla en profil som du kan använda. Dessa profiler är vanligtvis gjorda för den genomsnittliga skärmen, så den är kanske inte perfekt för din specifika skärm. För den bästa kalibreringen bör du <span class="link"><a href="color-calibrate-screen.html.sv" title="Hur kalibrerar jag min skärm?">skapa din egen profil</a></span> genom att använda en färgkalibrator eller spektrofotometer.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Färgprofiler">Färgprofiler</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.sv#profiles" title="Färgprofiler">Färgprofiler</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Hur associerar jag färgprofiler till enheter?">Hur associerar jag färgprofiler till enheter?</a><span class="desc"> — I <span class="guiseq"><span class="gui">Inställningar</span> ▸ <span class="gui">Färg</span></span> kan du lägga till en färgprofil för din skärm.</span>
+<a href="color-assignprofiles.html.sv" title="Hur associerar jag färgprofiler till enheter?">Hur associerar jag färgprofiler till enheter?</a><span class="desc"> — I <span class="guiseq"><span class="gui">Inställningar</span> ▸ <span class="gui">Färg</span></span> kan du lägga till en färgprofil för din skärm.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Vad är en färgprofil?">Vad är en färgprofil?</a><span class="desc"> — En färgprofil är en enkel fil som visar en färgrymd eller hur en enhet svarar på färger.</span>
+<a href="color-whatisprofile.html.sv" title="Vad är en färgprofil?">Vad är en färgprofil?</a><span class="desc"> — En färgprofil är en enkel fil som visar en färgrymd eller hur en enhet svarar på färger.</span>
 </li>
 </ul></div>
 </div></div>

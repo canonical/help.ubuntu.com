@@ -44,22 +44,22 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="bluetooth.html.hu" title="Bluetooth">Bluetooth</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="sharing.html" title="Megosztás">Megosztás</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="sharing.html.hu" title="Megosztás">Megosztás</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fájlok küldése Bluetooth-eszközre</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Az összekapcsolt Bluetooth-eszközökre, például telefonokra és más számítógépekre fájlokat küldhet. Egyes eszköztípusok nem engedélyezik fájlok, vagy bizonyos típusú fájlok küldését. Fájlokat három módon küldhet: a menüsáv Bluetooth ikonjának használatával, a Bluetooth beállításai ablakból vagy közvetlenül a fájlkezelőből.</p>
+<p class="p">Az összekapcsolt Bluetooth-eszközökre, például telefonokra és más számítógépekre fájlokat küldhet. Egyes eszköztípusok nem engedélyezik fájlok, vagy bizonyos típusú fájlok küldését. Fájlokat a Bluetooth beállításai ablakból küldhet.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Bluetooth</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Bluetooth</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Bluetooth</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Győződjön meg róla, hogy a Bluetooth be van kapcsolva: a címsorban lévő kapcsolónak <span class="gui">BE</span> állapotban kell lennie.</p></li>
 <li class="steps">
-<p class="p">Az <span class="gui">Eszközök</span> listában válassza ki az eszközt, amelyre a fájlokat küldeni szeretné. Ha a kívánt eszköz nem jelenik meg <span class="gui">Kapcsolódva</span> állapotúként a listában, akkor <span class="link"><a href="bluetooth-connect-device.html" title="Csatlakoztassa számítógépét Bluetooth eszközökhöz">csatlakoznia</a></span> kell ahhoz.</p>
+<p class="p">Az <span class="gui">Eszközök</span> listában válassza ki az eszközt, amelyre a fájlokat küldeni szeretné. Ha a kívánt eszköz nem jelenik meg <span class="gui">Kapcsolódva</span> állapotúként a listában, akkor <span class="link"><a href="bluetooth-connect-device.html.hu" title="Csatlakoztassa számítógépét Bluetooth eszközökhöz">csatlakoznia</a></span> kell ahhoz.</p>
 <p class="p">Megjelenik egy, a külső eszközre jellemző panel.</p>
 </li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Fájlok küldése…</span> gombra, ekkor megjelenik a fájlválasztó.</p></li>
@@ -77,17 +77,17 @@
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Csatlakoztassa számítógépét Bluetooth eszközökhöz">Kapcsolódás</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Fájlok küldése Bluetooth-eszközre">fájlok küldése</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth be- vagy kikapcsolása">be- és kikapcsolás</a></span>…</span>
+<a href="bluetooth.html.hu" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.hu" title="Csatlakoztassa számítógépét Bluetooth eszközökhöz">Kapcsolódás</a></span>, <span class="link"><a href="bluetooth-send-file.html.hu" title="Fájlok küldése Bluetooth-eszközre">fájlok küldése</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.hu" title="Bluetooth be- vagy kikapcsolása">be- és kikapcsolás</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Megosztás">Megosztás</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Az asztal megosztása">Asztalmegosztás</a></span>, <span class="link"><a href="files-share.html" title="Fájlok megosztása e-mailben">Fájlok megosztása e-mailben</a></span>, <span class="link"><a href="sharing-media.html" title="Zene, fényképek és videók megosztása">Médiamegosztás</a></span>…</span>
+<a href="sharing.html.hu" title="Megosztás">Megosztás</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.hu" title="Az asztal megosztása">Asztalmegosztás</a></span>, <span class="link"><a href="files-share.html.hu" title="Fájlok megosztása e-mailben">Fájlok megosztása e-mailben</a></span>, <span class="link"><a href="sharing-media.html.hu" title="Zene, fényképek és videók megosztása">Médiamegosztás</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="Fájlok megosztása e-mailben">Fájlok megosztása e-mailben</a><span class="desc"> — Fájlok egyszerű átvitele e-mail partnereinek a fájlkezelőből.</span>
+<a href="files-share.html.hu" title="Fájlok megosztása e-mailben">Fájlok megosztása e-mailben</a><span class="desc"> — Fájlok egyszerű átvitele e-mail partnereinek a fájlkezelőből.</span>
 </li></ul></div>
 </div></div>
 </div>

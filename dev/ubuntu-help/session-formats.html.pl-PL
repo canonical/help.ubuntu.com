@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-language.html" title="Region i język">Region i język</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-language.html.pl-PL" title="Region i język">Region i język</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Change date and measurement formats</span></h1></div>
@@ -52,16 +52,15 @@
 <p class="p">You can control the formats that are used for dates, times, numbers,
   currency, and measurement to match the local customs of your region.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Region &amp; Language</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Region i język</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Region i język</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Wybierz <span class="gui">Formaty</span>.</p></li>
 <li class="steps"><p class="p">Select the region and language that most closely matches the formats
       you would like to use. If your region and language are not listed, click
       <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span>
       at the bottom of the list to select from all available regions and
       languages.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Done</span> to save.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Gotowe</span>, aby zapisać.</p></li>
 <li class="steps"><p class="p">Respond to the prompt, <span class="gui">Your session needs to be restarted for
       changes to take effect</span> by clicking
       <span class="gui">Restart Now</span>, or click
@@ -78,14 +77,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Region i język">Region i język</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Change which language you use">Język</a></span>, <span class="link"><a href="session-formats.html" title="Change date and measurement formats">region i formaty</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">układy klawiatury</a></span>…</span>
+<a href="prefs-language.html.pl-PL" title="Region i język">Region i język</a><span class="desc"> — <span class="link"><a href="session-language.html.pl-PL" title="Zmiana używanego języka">Język</a></span>, <span class="link"><a href="session-formats.html.pl-PL" title="Change date and measurement formats">region i formaty</a></span>, <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Use alternative keyboard layouts">układy klawiatury</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-language.html" title="Change which language you use">Change which language you use</a><span class="desc"> — Switch to a different language for user interface and help
-    text.</span>
+<a href="session-language.html.pl-PL" title="Zmiana używanego języka">Zmiana używanego języka</a><span class="desc"> — Przełączenie na innych język interfejsu użytkownika i pomocy.</span>
 </li></ul></div>
 </div></div>
 </div>

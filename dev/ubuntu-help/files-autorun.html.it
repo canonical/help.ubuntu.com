@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Audio, video e immagini">Audio, video e immagini</a> › <a class="trail" href="media.html#photos" title="Fotografie e fotocamere digitali">Foto</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.it" title="Audio, video e immagini">Audio, video e immagini</a> › <a class="trail" href="media.html.it#photos" title="Fotografie e fotocamere digitali">Foto</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Audio, video e immagini">Audio, video e immagini</a> › <a class="trail" href="media.html#music" title="Musica e riproduttori audio portatili">Musica e riproduttori audio</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.it" title="Audio, video e immagini">Audio, video e immagini</a> › <a class="trail" href="media.html.it#music" title="Musica e riproduttori audio portatili">Musica e riproduttori audio</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="File, cartelle e ricerche">File</a> › <a class="trail" href="files.html#removable" title="Unità rimovibili e dischi esterni">Unità rimovibili e dischi esterni</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.it" title="File, cartelle e ricerche">File</a> › <a class="trail" href="files.html.it#removable" title="Unità rimovibili e dischi esterni">Unità rimovibili e dischi esterni</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Audio, video e immagini">Audio, video e immagini</a> › <a class="trail" href="media.html#videos" title="Video e videocamere">Video</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.it" title="Audio, video e immagini">Audio, video e immagini</a> › <a class="trail" href="media.html.it#videos" title="Video e videocamere">Video</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <p class="p">È possibile fare in modo che venga avviata automaticamente un'applicazione, quando si collega un dispositivo o viene inserito un disco o una scheda di memoria. Per esempio, quando viene collegata una macchina fotografica digitale, è possibile aprire automaticamente il gestore di fotografie. Questa caratteristica può anche essere disabilitata, così che non accada nulla quando viene collegato qualcosa al computer.</p>
 <p class="p">Decidere quale applicazione avviare quando si collegano diversi dispositivi:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> overview and
     start typing <span class="gui">Details</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Removable Media</span>.</p></li>
@@ -96,7 +96,7 @@
 <dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
     <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
     video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
+    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html.it" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
     </p></dd>
 <dt class="terms">Blank discs</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing
@@ -136,10 +136,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#photos" title="Fotografie e fotocamere digitali">Foto</a></li>
-<li class="links "><a href="media.html#music" title="Musica e riproduttori audio portatili">Musica e riproduttori audio</a></li>
-<li class="links "><a href="files.html#removable" title="Unità rimovibili e dischi esterni">Unità rimovibili e dischi esterni</a></li>
-<li class="links "><a href="media.html#videos" title="Video e videocamere">Video</a></li>
+<li class="links "><a href="media.html.it#photos" title="Fotografie e fotocamere digitali">Foto</a></li>
+<li class="links "><a href="media.html.it#music" title="Musica e riproduttori audio portatili">Musica e riproduttori audio</a></li>
+<li class="links "><a href="files.html.it#removable" title="Unità rimovibili e dischi esterni">Unità rimovibili e dischi esterni</a></li>
+<li class="links "><a href="media.html.it#videos" title="Video e videocamere">Video</a></li>
 </ul></div>
 </div></div></div>
 </div>

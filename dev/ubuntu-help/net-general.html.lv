@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tīkla noteikumi un padomi</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-findip.html" title="Atrodiet savu IP adresi."><span class="title">Atrodiet savu IP adresi.</span><span class="linkdiv-dash"> — </span><span class="desc">Jūsu IP adreses zināšana var palīdzēt jums novērst tīkla problēmas.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html" title="Droša uzturēšanās internetā"><span class="title">Droša uzturēšanās internetā</span><span class="linkdiv-dash"> — </span><span class="desc">Vispārīgi padomi, kas jāpatur prātā, izmantojot internetu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html" title="Kas ir IP adrese?"><span class="title">Kas ir IP adrese?</span><span class="linkdiv-dash"> — </span><span class="desc">IP adrese ir kā tālruņa numurs jūsu datoram.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-findip.html.lv" title="Atrodiet savu IP adresi."><span class="title">Atrodiet savu IP adresi.</span><span class="linkdiv-dash"> — </span><span class="desc">Jūsu IP adreses zināšana var palīdzēt jums novērst tīkla problēmas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html.lv" title="Droša uzturēšanās internetā"><span class="title">Droša uzturēšanās internetā</span><span class="linkdiv-dash"> — </span><span class="desc">Vispārīgi padomi, kas jāpatur prātā, izmantojot internetu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html.lv" title="Kas ir IP adrese?"><span class="title">Kas ir IP adrese?</span><span class="linkdiv-dash"> — </span><span class="desc">IP adrese ir kā tālruņa numurs jūsu datoram.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html" title="Kas ir MAC adrese?"><span class="title">Kas ir MAC adrese?</span><span class="linkdiv-dash"> — </span><span class="desc">Tīkla aparatūras unikāls identifikators.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-proxy.html" title="Norādīt starpnieka iestatījumus"><span class="title">Norādīt starpnieka iestatījumus</span><span class="linkdiv-dash"> — </span><span class="desc">Starpnieki ir tīmekļa satura vidutāji, ko var izmantot, lai anonīmi piekļūtu tīmekļa pakalpojumiem. Tas ir kontroles vai drošības nolūkos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html.lv" title="Kas ir MAC adrese?"><span class="title">Kas ir MAC adrese?</span><span class="linkdiv-dash"> — </span><span class="desc">Tīkla aparatūras unikāls identifikators.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-proxy.html.lv" title="Norādīt starpnieka iestatījumus"><span class="title">Norādīt starpnieka iestatījumus</span><span class="linkdiv-dash"> — </span><span class="desc">Starpnieki ir tīmekļa satura vidutāji, ko var izmantot, lai anonīmi piekļūtu tīmekļa pakalpojumiem. Tas ir kontroles vai drošības nolūkos.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -65,13 +65,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Bezvadu tīkls">Bezvadu tīkls</a></span>, <span class="link"><a href="net-wired.html" title="Vadu savienojums">vadu</a></span>, <span class="link"><a href="net-problem.html" title="Tīkla problēmas">savienojumu problēmas</a></span>, <span class="link"><a href="net-browser.html" title="Tīmekļa pārlūkprogrammas">tīmekļa pārlūkošana</a></span>, <span class="link"><a href="net-email.html" title="E-pasts un e-pasta programmatūra">e-pasta konti</a></span>…</span>
+<a href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a><span class="desc"> — <span class="link"><a href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a></span>, <span class="link"><a href="net-wired.html.lv" title="Vadu savienojums">vadu</a></span>, <span class="link"><a href="net-problem.html.lv" title="Tīkla problēmas">savienojumu problēmas</a></span>, <span class="link"><a href="net-browser.html.lv" title="Tīmekļa pārlūkprogrammas">tīmekļa pārlūkošana</a></span>, <span class="link"><a href="net-email.html.lv" title="E-pasts un e-pasta programmatūra">e-pasta konti</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Bezvadu tīkls">Bezvadu tīkls</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Savienoties ar bezvadu tīklu">Savienoties ar WiFi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Savienojaties ar slēptu bezvadu tīklu.">Slēptie tīkli</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Kādēļ mans bezvadu tīkls mani atvieno?">Atvienoties</a></span>…</span>
+<a href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.lv" title="Savienoties ar bezvadu tīklu">Savienoties ar WiFi</a></span>, <span class="link"><a href="net-wireless-hidden.html.lv" title="Savienojaties ar slēptu bezvadu tīklu.">Slēptie tīkli</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.lv" title="Kādēļ mans bezvadu tīkls mani atvieno?">Atvienoties</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do I assign profiles to devices?</title>
+<title>Jak przydzielać profile urządzeniom?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,21 +44,20 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html" title="Zarządzanie kolorami">Zarządzanie kolorami</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html" title="Zarządzanie kolorami">Zarządzanie kolorami</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How do I assign profiles to devices?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Jak przydzielać profile urządzeniom?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You may want to assign a color profile for your screen or printer so that
   the colors which it shows are more accurate.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Kolor</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Kolor</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Select the device for which you want to add a profile.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Add profile</span> to select an existing profile or import
       a new profile.</p></li>
@@ -78,24 +77,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html" title="Zarządzanie kolorami">Zarządzanie kolorami</a><span class="desc"> — 
-      <span class="link"><a href="color-whyimportant.html" title="Why is color management important?">Why is this important</a></span>,
-      <span class="link"><a href="color.html#profiles" title="Profile kolorów">Color profiles</a></span>,
-      <span class="link"><a href="color.html#calibration" title="Kalibracja">How to calibrate a device</a></span>…
-    </span>
+<a href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.pl-PL" title="Why is color management important?">Dlaczego to jest ważne</a></span>, <span class="link"><a href="color.html.pl-PL#profiles" title="Profile kolorów">Profile kolorów</a></span>, <span class="link"><a href="color.html.pl-PL#calibration" title="Kalibracja">Jak skalibrować urządzenie</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-howtoimport.html" title="How do I import color profiles?">How do I import color profiles?</a><span class="desc"> — Color profiles can be imported by opening them.</span>
+<a href="color-whatisprofile.html.pl-PL" title="Czym jest profil kolorów?">Czym jest profil kolorów?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="What is a color profile?">What is a color profile?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
+<a href="color-howtoimport.html.pl-PL" title="How do I import color profiles?">How do I import color profiles?</a><span class="desc"> — Color profiles can be imported by opening them.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a><span class="desc"> — Calibrating is important if you care about the colors you display or print.</span>
+<a href="color-why-calibrate.html.pl-PL" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a><span class="desc"> — Calibrating is important if you care about the colors you display or print.</span>
 </li>
 </ul></div>
 </div></div>

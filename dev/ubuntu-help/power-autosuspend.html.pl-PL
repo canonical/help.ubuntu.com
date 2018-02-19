@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set up automatic suspend</title>
+<title>Ustawianie automatycznego usypiania</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,21 +44,20 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html#saving" title="Ustawienia oszczędzania energii">Ustawienia oszczędzania energii</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#saving" title="Ustawienia oszczędzania energii">Ustawienia oszczędzania energii</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html#saving" title="Ustawienia oszczędzania energii">Ustawienia oszczędzania energii</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#saving" title="Ustawienia oszczędzania energii">Ustawienia oszczędzania energii</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set up automatic suspend</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Ustawianie automatycznego usypiania</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can configure your computer to automatically suspend when idle.
   Different intervals can be specified for running on battery or plugged in.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span>
-      overview and start typing <span class="gui">Power</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Zasilanie</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Zasilanie</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Suspend &amp; Power Button</span> section, click
       <span class="gui">Automatic suspend</span>.</p></li>
 <li class="steps">
@@ -75,14 +74,14 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#saving" title="Ustawienia oszczędzania energii">Ustawienia oszczędzania energii</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.pl-PL#saving" title="Ustawienia oszczędzania energii">Ustawienia oszczędzania energii</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html#suspend" title="Usypianie">Usypianie</a></li>
+<li class="links "><a href="shell-exit.html.pl-PL#suspend" title="Usypianie">Usypianie</a></li>
 <li class="links ">
-<a href="power-suspend.html" title="What happens when I suspend my computer?">What happens when I suspend my computer?</a><span class="desc"> — Suspend sends your computer to sleep so it uses less power.</span>
+<a href="power-suspend.html.pl-PL" title="What happens when I suspend my computer?">What happens when I suspend my computer?</a><span class="desc"> — Suspend sends your computer to sleep so it uses less power.</span>
 </li>
 </ul></div>
 </div></div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="color.html" title="நிற மேலாண்மை">நிற மேலாண்மை</a> › <a class="trail" href="color.html#profiles" title="நிற தனியமைப்புகள்">நிற தனியமைப்புகள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="color.html.ta" title="நிற மேலாண்மை">நிற மேலாண்மை</a> › <a class="trail" href="color.html.ta#profiles" title="நிற தனியமைப்புகள்">நிற தனியமைப்புகள்</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="color.html" title="நிற மேலாண்மை">நிற மேலாண்மை</a> › <a class="trail" href="color.html#profiles" title="நிற தனியமைப்புகள்">நிற தனியமைப்புகள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="color.html.ta" title="நிற மேலாண்மை">நிற மேலாண்மை</a> › <a class="trail" href="color.html.ta#profiles" title="நிற தனியமைப்புகள்">நிற தனியமைப்புகள்</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -69,25 +69,25 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="நிற தனியமைப்புகள்">நிற தனியமைப்புகள்</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.ta#profiles" title="நிற தனியமைப்புகள்">நிற தனியமைப்புகள்</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html" title="சாதனங்களுக்கு எப்படி தனியமைப்புகளை நிர்ணயிப்பது?">சாதனங்களுக்கு எப்படி தனியமைப்புகளை நிர்ணயிப்பது?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-assignprofiles.html.ta" title="சாதனங்களுக்கு எப்படி தனியமைப்புகளை நிர்ணயிப்பது?">சாதனங்களுக்கு எப்படி தனியமைப்புகளை நிர்ணயிப்பது?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
 </li>
 <li class="links ">
-<a href="color-canshareprofiles.html" title="நான் என் நிற தனியமைப்பைப் பகிரலாமா?">நான் என் நிற தனியமைப்பைப் பகிரலாமா?</a><span class="desc"> — நிற தனியமைப்பைப் பகிர்தல் என்பது நல்ல பரிந்துரையல்ல, ஏனெனில் வன்பொருள் காலம் செல்லச் செல்ல மாறக்கூடும்.</span>
+<a href="color-canshareprofiles.html.ta" title="நான் என் நிற தனியமைப்பைப் பகிரலாமா?">நான் என் நிற தனியமைப்பைப் பகிரலாமா?</a><span class="desc"> — நிற தனியமைப்பைப் பகிர்தல் என்பது நல்ல பரிந்துரையல்ல, ஏனெனில் வன்பொருள் காலம் செல்லச் செல்ல மாறக்கூடும்.</span>
 </li>
 <li class="links ">
-<a href="color-gettingprofiles.html" title="நிற தனியமைப்புகளை எங்கிருந்து பெறுவது?">நிற தனியமைப்புகளை எங்கிருந்து பெறுவது?</a><span class="desc"> — நிறுவனங்கள் நிற தனியமைப்புகளை வழங்குகின்றன, அவற்றை நீங்களே உருவாக்கவும் முடியும்.</span>
+<a href="color-gettingprofiles.html.ta" title="நிற தனியமைப்புகளை எங்கிருந்து பெறுவது?">நிற தனியமைப்புகளை எங்கிருந்து பெறுவது?</a><span class="desc"> — நிறுவனங்கள் நிற தனியமைப்புகளை வழங்குகின்றன, அவற்றை நீங்களே உருவாக்கவும் முடியும்.</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html" title="நிற தனியமைப்புகளை எப்படி இறக்குமதி செய்வது?">நிற தனியமைப்புகளை எப்படி இறக்குமதி செய்வது?</a><span class="desc"> — நிற தனியமைப்புகளைத் திறப்பதன் மூலம் அவற்றை இறக்குமதி செய்துகொள்ள முடியும்.</span>
+<a href="color-howtoimport.html.ta" title="நிற தனியமைப்புகளை எப்படி இறக்குமதி செய்வது?">நிற தனியமைப்புகளை எப்படி இறக்குமதி செய்வது?</a><span class="desc"> — நிற தனியமைப்புகளைத் திறப்பதன் மூலம் அவற்றை இறக்குமதி செய்துகொள்ள முடியும்.</span>
 </li>
 <li class="links ">
-<a href="color-whatisspace.html" title="நிற வெளி என்பது என்ன?">நிற வெளி என்பது என்ன?</a><span class="desc"> — நிற வெளி என்பது நிறங்களின் வரையறுக்கப்பட்ட வரம்பாகும்.</span>
+<a href="color-whatisspace.html.ta" title="நிற வெளி என்பது என்ன?">நிற வெளி என்பது என்ன?</a><span class="desc"> — நிற வெளி என்பது நிறங்களின் வரையறுக்கப்பட்ட வரம்பாகும்.</span>
 </li>
 </ul></div>
 </div></div>

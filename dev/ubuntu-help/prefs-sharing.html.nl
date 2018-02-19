@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Instellingen voor delen</span></h1></div>
@@ -54,14 +54,14 @@
   <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html" title="De weergavenaam van uw computer instellen"><span class="title">De weergavenaam van uw computer instellen</span><span class="linkdiv-dash"> — </span><span class="desc">Control how your computer will appear to other computers or
+<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.nl" title="De weergavenaam van uw computer instellen"><span class="title">De weergavenaam van uw computer instellen</span><span class="linkdiv-dash"> — </span><span class="desc">Control how your computer will appear to other computers or
     devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html" title="Deel uw desktop"><span class="title">Deel uw desktop</span><span class="linkdiv-dash"> — </span><span class="desc">Laat andere mensen meekijken en uw computer bedienen met behulp van VNC.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Delen van besturing via Bluetooth"><span class="title">Delen van besturing via Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.nl" title="Deel uw desktop"><span class="title">Deel uw desktop</span><span class="linkdiv-dash"> — </span><span class="desc">Laat andere mensen meekijken en uw computer bedienen met behulp van VNC.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.nl" title="Delen van besturing via Bluetooth"><span class="title">Delen van besturing via Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-media.html" title="Uw muziek, foto's en video's delen"><span class="title">Uw muziek, foto's en video's delen</span><span class="linkdiv-dash"> — </span><span class="desc">Share media on your local network using UPnP.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html" title="Uw persoonlijke bestanden delen"><span class="title">Uw persoonlijke bestanden delen</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people access files in your <span class="file">Public</span>
+<div class="linkdiv "><a class="linkdiv" href="sharing-media.html.nl" title="Uw muziek, foto's en video's delen"><span class="title">Uw muziek, foto's en video's delen</span><span class="linkdiv-dash"> — </span><span class="desc">Share media on your local network using UPnP.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.nl" title="Uw persoonlijke bestanden delen"><span class="title">Uw persoonlijke bestanden delen</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people access files in your <span class="file">Public</span>
     folder.</span></a></div>
 </div>
 </div></div></div>
@@ -71,7 +71,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Gebruikers- &amp; systeeminstellingen</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Toetsenbord">Toetsenbord</a></span>, <span class="link"><a href="mouse.html" title="Muis">muis</a></span>, <span class="link"><a href="prefs-display.html" title="Weergave &amp; scherm">beeldscherm</a></span>, <span class="link"><a href="prefs-language.html" title="Regio &amp; taal">talen</a></span>, <span class="link"><a href="user-accounts.html" title="Gebruikersaccounts">gebruikersaccounts</a></span>...</span>
+<a href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Gebruikers- &amp; systeeminstellingen</a><span class="desc"> — <span class="link"><a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a></span>, <span class="link"><a href="mouse.html.nl" title="Muis">muis</a></span>, <span class="link"><a href="prefs-display.html.nl" title="Weergave &amp; scherm">beeldscherm</a></span>, <span class="link"><a href="prefs-language.html.nl" title="Regio &amp; taal">talen</a></span>, <span class="link"><a href="user-accounts.html.nl" title="Gebruikersaccounts">gebruikersaccounts</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

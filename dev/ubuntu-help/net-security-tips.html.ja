@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="ネットワーク用語とヒント">ネットワーク用語とヒント</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.ja" title="ネットワーク用語とヒント">ネットワーク用語とヒント</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">インターネット上で安全性を維持する</span></h1></div>
@@ -59,9 +59,9 @@
 <p class="p">Linux をセキュアにするための対策を取っていても、脆弱性を完全に取り除くことはできません。インターネットの平均的なユーザーの場合、次の被害に遭うおそれがあります。</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">フィッシング詐欺 (偽装して機密情報を盗もうとする web サイトやメール)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html" title="メールのウイルススキャンをする必要がありますか?">悪意のあるメール転送</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html" title="ウイルス除去ソフトウェアは必要ですか?">悪意のある (ウイルスを持つ) アプリケーション</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html" title="WEP と WPA とは?">Unauthorized remote/local network
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.ja" title="メールのウイルススキャンをする必要がありますか?">悪意のあるメール転送</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.ja" title="ウイルス除去ソフトウェアは必要ですか?">悪意のある (ウイルスを持つ) アプリケーション</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.ja" title="WEP と WPA とは?">Unauthorized remote/local network
       access</a></span></p></li>
 </ul></div></div></div>
 <p class="p">オンラインでの安全を確保するため、次の点に留意してください。</p>
@@ -72,11 +72,11 @@
       information you are submitting and the potential consequences if that
       information is compromised by identity thieves or other criminals.</p></li>
 <li class="list"><p class="p">Be careful in providing
-      <span class="link"><a href="user-admin-explain.html" title="How do administrative privileges work?">root level permissions</a></span> to any
+      <span class="link"><a href="user-admin-explain.html.ja" title="How do administrative privileges work?">root level permissions</a></span> to any
       application, especially ones that you have not used before or which are
       not well-known. Providing anyone or anything with root level permissions
       puts your computer at high risk to exploitation.</p></li>
-<li class="list"><p class="p">リモートアクセスのサービスは必要最低限のものだけを実行してください。SSH や VNC の実行が役に立つ場合もありますが、適切に安全性を確保していないとコンピューターへの侵入ルートを開くことになります。不正侵入を防ぐため、<span class="link"><a href="net-firewall-on-off.html" title="ファイアウォールへのアクセスの許可とブロック">ファイアウォール</a></span>の使用を検討してください。</p></li>
+<li class="list"><p class="p">リモートアクセスのサービスは必要最低限のものだけを実行してください。SSH や VNC の実行が役に立つ場合もありますが、適切に安全性を確保していないとコンピューターへの侵入ルートを開くことになります。不正侵入を防ぐため、<span class="link"><a href="net-firewall-on-off.html.ja" title="ファイアウォールへのアクセスの許可とブロック">ファイアウォール</a></span>の使用を検討してください。</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -84,7 +84,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="ネットワーク用語とヒント">ネットワーク用語とヒント</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="IP アドレスを確認する">IP アドレスの確認</a></span>、<span class="link"><a href="net-wireless-wepwpa.html" title="WEP と WPA とは?">WEP &amp; WPA セキュリティ</a></span>、<span class="link"><a href="net-macaddress.html" title="MAC アドレスとは">MAC アドレス</a></span>、<span class="link"><a href="net-proxy.html" title="プロキシ設定の定義">プロキシ</a></span>…</span>
+<a href="net-general.html.ja" title="ネットワーク用語とヒント">ネットワーク用語とヒント</a><span class="desc"> — <span class="link"><a href="net-findip.html.ja" title="IP アドレスを確認する">IP アドレスの確認</a></span>、<span class="link"><a href="net-wireless-wepwpa.html.ja" title="WEP と WPA とは?">WEP &amp; WPA セキュリティ</a></span>、<span class="link"><a href="net-macaddress.html.ja" title="MAC アドレスとは">MAC アドレス</a></span>、<span class="link"><a href="net-proxy.html.ja" title="プロキシ設定の定義">プロキシ</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Ξεκινώντας">Ξεκινώντας με το GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.el" title="Ξεκινώντας">Ξεκινώντας με το GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="Χρησιμοποιήστε το σύστημα αναζήτησης">Προηγούμενο</a><a class="nextlinks-next" href="gs-browse-web.html" title="Περιήγηση στον Ιστό">Επόμενο</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.el" title="Χρησιμοποιήστε το σύστημα αναζήτησης">Προηγούμενο</a><a class="nextlinks-next" href="gs-browse-web.html.el" title="Περιήγηση στον Ιστό">Επόμενο</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Σύνδεση στο δίκτυο</span></h1></div>
 <div class="region">
@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Για να συνδεθείτε σε ένα ασύρματο δίκτυο Wi-Fi:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui"><a href="shell-introduction.html#yourname" title="Εσείς και ο υπολογιστή σας">μενού του συστήματος</a></span> στο δεξί μέρος της πάνω μπάρας.</p></li>
+<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui"><a href="shell-introduction.html.el#yourname" title="Εσείς και ο υπολογιστή σας">μενού του συστήματος</a></span> στο δεξί μέρος της πάνω μπάρας.</p></li>
 <li class="steps"><p class="p">Επιλέξτε <span class="gui">Χωρίς σύνδεση το Wi-Fi</span>. Θα επεκταθεί η περιοχή Wi-Fi του μενού.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Επιλογή δικτύου</span>.</p></li>
 </ol></div>
@@ -88,7 +88,7 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="Χρησιμοποιήστε το σύστημα αναζήτησης">Προηγούμενο</a><a class="nextlinks-next" href="gs-browse-web.html" title="Περιήγηση στον Ιστό">Επόμενο</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.el" title="Χρησιμοποιήστε το σύστημα αναζήτησης">Προηγούμενο</a><a class="nextlinks-next" href="gs-browse-web.html.el" title="Περιήγηση στον Ιστό">Επόμενο</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -96,13 +96,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Ξεκινώντας">Ξεκινώντας με το GNOME</a><span class="desc"> — Είστε νέος στο GNOME; Μάθετε πώς να τα καταφέρετε.</span>
+<a href="getting-started.html.el" title="Ξεκινώντας">Ξεκινώντας με το GNOME</a><span class="desc"> — Είστε νέος στο GNOME; Μάθετε πώς να τα καταφέρετε.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Ασύρματη δικτύωση">Ασύρματο</a></span>, <span class="link"><a href="net-wired.html" title="Ενσύρματη δικτύωση">Ενσύρματο</a></span>, <span class="link"><a href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα σύνδεσης</a></span>, <span class="link"><a href="net-browser.html" title="Περιηγητές Ιστού">Περιήγηση ιστού</a></span>, <span class="link"><a href="net-email.html" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Λογαριασμοί αλληλογραφίας</a></span>…</span>
+<a href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a><span class="desc"> — <span class="link"><a href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματο</a></span>, <span class="link"><a href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματο</a></span>, <span class="link"><a href="net-problem.html.el" title="Προβλήματα δικτύου">Προβλήματα σύνδεσης</a></span>, <span class="link"><a href="net-browser.html.el" title="Περιηγητές Ιστού">Περιήγηση ιστού</a></span>, <span class="link"><a href="net-email.html.el" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Λογαριασμοί αλληλογραφίας</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

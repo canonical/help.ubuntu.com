@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html#backup" title="备份">备份</a> » <a class="trail" href="backup-why.html" title="备份您的重要文件">备份</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.zh-CN" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html.zh-CN#backup" title="备份">备份</a> » <a class="trail" href="backup-why.html.zh-CN" title="备份您的重要文件">备份</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">备份对象</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">您首先应备份您<span class="link"><a href="backup-thinkabout.html" title="我可以在哪里找到想要备份的文件？">最重要的文件</a></span>以及难以重新创建的文件。最重要到最不重要文件示例：</p>
+<p class="p">您首先应备份您<span class="link"><a href="backup-thinkabout.html.zh-CN" title="我可以在哪里找到想要备份的文件？">最重要的文件</a></span>以及难以重新创建的文件。最重要到最不重要文件示例：</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">您的个人文件</dt>
 <dd class="terms"><p class="p">这包括文档、电子表格、电子邮件、日程安排、财务数据、家庭照片，和其他您认为不可替代的个人文件。</p></dd>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="备份您的重要文件">备份您的重要文件</a><span class="desc"> — 关于文件备份的信息和指导</span>
+<a href="backup-why.html.zh-CN" title="备份您的重要文件">备份您的重要文件</a><span class="desc"> — 关于文件备份的信息和指导</span>
 </li></ul></div>
 </div></div></div>
 </div>

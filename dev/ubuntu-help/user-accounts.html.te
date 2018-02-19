@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.te" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">వాడుకరి ఖాతాలు</span></h1></div>
@@ -56,20 +56,20 @@
 <div class="hgroup"><h2 class="title"><span class="title">వాడుకరి ఖాతాలను నిర్వహించండి</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-add.html" title="ఒక కొత్త వాడుకరి ఖాతాను జతచేయండి"><span class="title">ఒక కొత్త వాడుకరి ఖాతాను జతచేయండి</span><span class="linkdiv-dash"> — </span><span class="desc">కొత్త వాడుకరులను జోడించండి, తద్వారా ఇతర వ్యక్తులు కంప్యూటరులోకి ప్రవేశించగలుగుతారు.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Change your login screen photo"><span class="title">Change your login screen photo</span><span class="linkdiv-dash"> — </span><span class="desc">Add your photo to the login and user screens.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-add.html.te" title="ఒక కొత్త వాడుకరి ఖాతాను జతచేయండి"><span class="title">ఒక కొత్త వాడుకరి ఖాతాను జతచేయండి</span><span class="linkdiv-dash"> — </span><span class="desc">కొత్త వాడుకరులను జోడించండి, తద్వారా ఇతర వ్యక్తులు కంప్యూటరులోకి ప్రవేశించగలుగుతారు.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html.te" title="Change your login screen photo"><span class="title">Change your login screen photo</span><span class="linkdiv-dash"> — </span><span class="desc">Add your photo to the login and user screens.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Log in automatically"><span class="title">Log in automatically</span><span class="linkdiv-dash"> — </span><span class="desc">Set up automatic login for when you switch on your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="ఒక వాడుకరి ఖాతాను తొలగించుట"><span class="title">ఒక వాడుకరి ఖాతాను తొలగించుట</span><span class="linkdiv-dash"> — </span><span class="desc">Remove users that no longer use your computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html.te" title="Log in automatically"><span class="title">Log in automatically</span><span class="linkdiv-dash"> — </span><span class="desc">Set up automatic login for when you switch on your computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html.te" title="ఒక వాడుకరి ఖాతాను తొలగించుట"><span class="title">ఒక వాడుకరి ఖాతాను తొలగించుట</span><span class="linkdiv-dash"> — </span><span class="desc">Remove users that no longer use your computer.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="passwords" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">సంకేతపదాలు</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html" title="ఒక సురక్షితమైన సంకేతపదాన్ని ఎన్నుకోండి"><span class="title">ఒక సురక్షితమైన సంకేతపదాన్ని ఎన్నుకోండి</span><span class="linkdiv-dash"> — </span><span class="desc">Use longer, more complicated passwords.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html" title="మీ సంకేతపదం మార్చండి"><span class="title">మీ సంకేతపదం మార్చండి</span><span class="linkdiv-dash"> — </span><span class="desc">Keep your account secure by changing your password often in your
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html.te" title="ఒక సురక్షితమైన సంకేతపదాన్ని ఎన్నుకోండి"><span class="title">ఒక సురక్షితమైన సంకేతపదాన్ని ఎన్నుకోండి</span><span class="linkdiv-dash"> — </span><span class="desc">Use longer, more complicated passwords.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html.te" title="మీ సంకేతపదం మార్చండి"><span class="title">మీ సంకేతపదం మార్చండి</span><span class="linkdiv-dash"> — </span><span class="desc">Keep your account secure by changing your password often in your
     account settings.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
@@ -77,12 +77,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">వాడుకరి అధికారాలు</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html" title="Change who has administrative privileges"><span class="title">Change who has administrative privileges</span><span class="linkdiv-dash"> — </span><span class="desc">You can allow users to make changes to the system by giving them
+<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.te" title="Change who has administrative privileges"><span class="title">Change who has administrative privileges</span><span class="linkdiv-dash"> — </span><span class="desc">You can allow users to make changes to the system by giving them
     administrative privileges.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html" title="How do administrative privileges work?"><span class="title">How do administrative privileges work?</span><span class="linkdiv-dash"> — </span><span class="desc">You need administrative privileges to change important parts of your
+<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.te" title="How do administrative privileges work?"><span class="title">How do administrative privileges work?</span><span class="linkdiv-dash"> — </span><span class="desc">You need administrative privileges to change important parts of your
     system.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html" title="Problems caused by administrative restrictions"><span class="title">Problems caused by administrative restrictions</span><span class="linkdiv-dash"> — </span><span class="desc">You can do some things, like installing applications, only if you
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.te" title="Problems caused by administrative restrictions"><span class="title">Problems caused by administrative restrictions</span><span class="linkdiv-dash"> — </span><span class="desc">You can do some things, like installing applications, only if you
     have administrative privileges.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
@@ -91,7 +91,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">వాడుకరి &amp; వ్యవస్థ అమరికలు</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="కీబోర్డు">కీబోర్డు</a></span>, <span class="link"><a href="mouse.html" title="మౌసు">మౌసు</a></span>, <span class="link"><a href="prefs-display.html" title="ప్రదర్శన &amp; తెర">ప్రదర్శన</a></span>, <span class="link"><a href="prefs-language.html" title="ప్రాంతం &amp; భాష">భాషలు</a></span>, <span class="link"><a href="user-accounts.html" title="వాడుకరి ఖాతాలు">వాడుకరి ఖాతాలు</a></span>…</span>
+<a href="prefs.html.te" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">వాడుకరి &amp; వ్యవస్థ అమరికలు</a><span class="desc"> — <span class="link"><a href="keyboard.html.te" title="కీబోర్డు">కీబోర్డు</a></span>, <span class="link"><a href="mouse.html.te" title="మౌసు">మౌసు</a></span>, <span class="link"><a href="prefs-display.html.te" title="ప్రదర్శన &amp; తెర">ప్రదర్శన</a></span>, <span class="link"><a href="prefs-language.html.te" title="ప్రాంతం &amp; భాష">భాషలు</a></span>, <span class="link"><a href="user-accounts.html.te" title="వాడుకరి ఖాతాలు">వాడుకరి ఖాతాలు</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

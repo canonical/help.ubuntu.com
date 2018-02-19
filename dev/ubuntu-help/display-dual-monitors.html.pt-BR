@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="prefs-display.html" title="Monitor &amp; tela">Monitor &amp; tela</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="prefs-display.html.pt-BR" title="Monitor &amp; tela">Monitor &amp; tela</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Conectando outro monitor a seu computador</span></h1></div>
@@ -54,11 +54,11 @@
 <div class="region"><div class="contents">
 <p class="p">Para configurar um monitor adicional, conecte seu monitor a seu computador. Se o seu sistema não reconhecê-lo imediatamente, ou se você quiser ajustar as configurações:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Telas</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Telas</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Telas</span> para abrir o painel.</p></li>
 <li class="steps">
 <p class="p">Clique no monitor que você gostaria de ativar ou desativar e, então, na lista de configuração de monitores selecione <span class="gui">Desligar</span> para desativar o monitor ou um entre <span class="gui">Primário</span>, <span class="gui">Secundário</span> ou <span class="gui">Espelhadas</span> para ativá-lo.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">O monitor primário é aquele com a <span class="link"><a href="shell-introduction.html" title="Introdução ao GNOME">barra superior</a></span> e onde o panorama de <span class="gui">Atividades</span> é mostrada.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">O monitor primário é aquele com a <span class="link"><a href="shell-introduction.html.pt-BR" title="Introdução ao GNOME">barra superior</a></span> e onde o panorama de <span class="gui">Atividades</span> é mostrada.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Para girar a orientação do monitor, use os botões com as setas até que a visualização esteja correta.</p></li>
 <li class="steps"><p class="p">Quando você estiver satisfeito com suas configurações, clique em <span class="gui">Aplicar</span> e, então, clique em <span class="gui">Manter alterações</span>.</p></li>
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Monitor &amp; tela">Monitor &amp; tela</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Alterando o plano de fundo da área de trabalho e tela de bloqueio">Plano de fundo</a></span>, <span class="link"><a href="look-resolution.html" title="Alterando a resolução ou rotação da tela">tamanho e rotação</a></span>, brilho…</span>
+<a href="prefs-display.html.pt-BR" title="Monitor &amp; tela">Monitor &amp; tela</a><span class="desc"> — <span class="link"><a href="look-background.html.pt-BR" title="Alterando o plano de fundo da área de trabalho e tela de bloqueio">Plano de fundo</a></span>, <span class="link"><a href="look-resolution.html.pt-BR" title="Alterando a resolução ou rotação da tela">tamanho e rotação</a></span>, brilho…</span>
 </li></ul></div>
 </div></div></div>
 </div>

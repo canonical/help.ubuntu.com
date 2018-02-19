@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#faq" title="Tips en vragen">Tips en vragen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#faq" title="Tips en vragen">Tips en vragen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sjablonen voor veelgebruikte documenttypes.</span></h1></div>
@@ -63,7 +63,7 @@
 <li class="steps"><p class="p">Open de map waar u het nieuwe document wilt plaatsen.</p></li>
 <li class="steps"><p class="p">Rechtsklik in de folder op een lege plek en kies <span class="gui">Nieuw document</span>. De namen van de beschikbare sjablonen zullen in een submenu worden weergegeven.</p></li>
 <li class="steps"><p class="p">Kies uit de lijst het gewenste sjabloon.</p></li>
-<li class="steps"><p class="p">Dubbelklik op het bestand om het te openen en begin met het te bewerken. Als u klaar bent, wilt u mogelijk <span class="link"><a href="files-rename.html" title="Een bestand of map hernoemen">het bestand hernoemen</a></span>.</p></li>
+<li class="steps"><p class="p">Dubbelklik op het bestand om het te openen en begin met het te bewerken. Als u klaar bent, wilt u mogelijk <span class="link"><a href="files-rename.html.nl" title="Een bestand of map hernoemen">het bestand hernoemen</a></span>.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -71,7 +71,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tips en vragen">Tips en vragen</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.nl#faq" title="Tips en vragen">Tips en vragen</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

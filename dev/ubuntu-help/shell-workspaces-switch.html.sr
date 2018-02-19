@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html#apps" title="Програми и прозори">Програми и прозори</a> » <a class="trail" href="shell-windows.html" title="Прозори и радни простори">Прозори и радни простори</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Рад са радним просторима">Радни простори</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.sr" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html.sr#apps" title="Програми и прозори">Програми и прозори</a> » <a class="trail" href="shell-windows.html.sr" title="Прозори и радни простори">Прозори и радни простори</a> › <a class="trail" href="shell-windows.html.sr#working-with-workspaces" title="Рад са радним просторима">Радни простори</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Пребацујте се између радних простора</span></h1></div>
@@ -52,15 +52,15 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Користећи миша:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span>.</p></li>
-<li class="steps"><p class="p">Кликните на радни простор у <span class="link"><a href="shell-workspaces.html" title="Шта је то радни простро, и како ће ми помоћи?">бирачу радног простора</a></span> на десној страни екрана да погледате отворене прозоре на том радном простору.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span>.</p></li>
+<li class="steps"><p class="p">Кликните на радни простор у <span class="link"><a href="shell-workspaces.html.sr" title="Шта је то радни простро, и како ће ми помоћи?">бирачу радног простора</a></span> на десној страни екрана да погледате отворене прозоре на том радном простору.</p></li>
 <li class="steps"><p class="p">Притисните неку сличицу прозора да активирате радни простор.</p></li>
 </ol></div>
 </div></div>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Користећи тастатуру:</span></h2></div>
 <div class="region"><ul class="list">
-<li class="list"><p class="p">Притисните <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span>+<span class="key"><kbd>Страница горе</kbd></span></span> или <span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Стрелица на горе</kbd></span></span> да се преместите на радни простор који се налази изнад текућег радног простора у бирачу радних простора.</p></li>
+<li class="list"><p class="p">Притисните <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.sr" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span>+<span class="key"><kbd>Страница горе</kbd></span></span> или <span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Стрелица на горе</kbd></span></span> да се преместите на радни простор који се налази изнад текућег радног простора у бирачу радних простора.</p></li>
 <li class="list"><p class="p">Притисните<span class="keyseq"><span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>Страница доле</kbd></span></span> или <span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Стрелица на доле</kbd></span></span> да се преместите на радни простор који се налази испод текућег радног простора у бирачу радних простора.</p></li>
 </ul></div>
 </div></div>
@@ -70,12 +70,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Рад са радним просторима">Рад са радним просторима</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.sr#working-with-workspaces" title="Рад са радним просторима">Рад са радним просторима</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-workspaces.html" title="Шта је то радни простро, и како ће ми помоћи?">Шта је то радни простро, и како ће ми помоћи?</a><span class="desc"> — Радни простори представљају начин груписања прозора на радној површи.</span>
+<a href="shell-workspaces.html.sr" title="Шта је то радни простро, и како ће ми помоћи?">Шта је то радни простро, и како ће ми помоћи?</a><span class="desc"> — Радни простори представљају начин груписања прозора на радној површи.</span>
 </li></ul></div>
 </div></div>
 </div>

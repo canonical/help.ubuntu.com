@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Подешавања дељења</span></h1></div>
@@ -52,13 +52,13 @@
 <p class="p"><span class="em">Подешавања дељења</span> у Гному вам помажу да надзирете дељење преко месне мреже, или преко других технологија као што је <span class="em">Блутут</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html" title="Подесите назив приказа за ваш рачунар"><span class="title">Подесите назив приказа за ваш рачунар</span><span class="linkdiv-dash"> — </span><span class="desc">Одредите како ће ваш рачунар изгледати другим рачунарима или уређајима.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html" title="Делите ваше личне датотеке"><span class="title">Делите ваше личне датотеке</span><span class="linkdiv-dash"> — </span><span class="desc">Допустите другима да приступе датотекама у вашој фасцикли <span class="file">Јавно</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-media.html" title="Делите вашу музику, фотографије и видео записе"><span class="title">Делите вашу музику, фотографије и видео записе</span><span class="linkdiv-dash"> — </span><span class="desc">Делите медије на вашој месној мрежи користећи УПнП.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.sr" title="Подесите назив приказа за ваш рачунар"><span class="title">Подесите назив приказа за ваш рачунар</span><span class="linkdiv-dash"> — </span><span class="desc">Одредите како ће ваш рачунар изгледати другим рачунарима или уређајима.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.sr" title="Делите ваше личне датотеке"><span class="title">Делите ваше личне датотеке</span><span class="linkdiv-dash"> — </span><span class="desc">Допустите другима да приступе датотекама у вашој фасцикли <span class="file">Јавно</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-media.html.sr" title="Делите вашу музику, фотографије и видео записе"><span class="title">Делите вашу музику, фотографије и видео записе</span><span class="linkdiv-dash"> — </span><span class="desc">Делите медије на вашој месној мрежи користећи УПнП.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html" title="Делите радну површ"><span class="title">Делите радну површ</span><span class="linkdiv-dash"> — </span><span class="desc">Допустите другима да прегледају и посредују са вашом радном површи користећи ВНЦ.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Управљајте дељењем преко блутута"><span class="title">Управљајте дељењем преко блутута</span><span class="linkdiv-dash"> — </span><span class="desc">Омогућите утовар датотека на ваш рачунар путем блутута.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.sr" title="Делите радну површ"><span class="title">Делите радну површ</span><span class="linkdiv-dash"> — </span><span class="desc">Допустите другима да прегледају и посредују са вашом радном површи користећи ВНЦ.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.sr" title="Управљајте дељењем преко блутута"><span class="title">Управљајте дељењем преко блутута</span><span class="linkdiv-dash"> — </span><span class="desc">Омогућите утовар датотека на ваш рачунар путем блутута.</span></a></div>
 </div>
 </div></div></div>
 </div>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html" title="Кориснички налози">кориснички налози</a></span>…</span>
+<a href="prefs.html.sr" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html.sr" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html.sr" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html.sr" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html.sr" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html.sr" title="Кориснички налози">кориснички налози</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

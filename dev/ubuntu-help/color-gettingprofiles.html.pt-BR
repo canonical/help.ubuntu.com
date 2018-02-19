@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="color.html" title="Gerenciamento de cores">Gerenciamento de cores</a> › <a class="trail" href="color.html#profiles" title="Perfis de cores">Perfis de cores</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="color.html.pt-BR" title="Gerenciamento de cores">Gerenciamento de cores</a> › <a class="trail" href="color.html.pt-BR#profiles" title="Perfis de cores">Perfis de cores</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Gerenciamento de cores">Gerenciamento de cores</a> › <a class="trail" href="color.html#profiles" title="Perfis de cores">Perfis de cores</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="color.html.pt-BR" title="Gerenciamento de cores">Gerenciamento de cores</a> › <a class="trail" href="color.html.pt-BR#profiles" title="Perfis de cores">Perfis de cores</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,29 +56,29 @@
 <p class="p">A melhor maneira de obter os perfis é gerá-los você mesmo, embora isso exija uma despesa inicial.</p>
 <p class="p">Muitos fabricantes tentam, de fato, fornecer perfis de cores para dispositivos, embora às vezes eles estejam dentro de <span class="em">pacotes de drivers</span>, o que faz com que você tenha que baixar esses drivers, extraí-los e então buscar pelos perfis de cores.</p>
 <p class="p">Alguns fabricantes não fornecem perfis precisos para o hardware; esses perfis devem ser evitados. Uma boa dica é baixar o perfil e conferir se a data de criação é de mais de um ano antes de você ter comprado o dispositivo. Em caso afirmativo, então esses dados provavelmente são inúteis.</p>
-<p class="p">Veja <span class="link"><a href="color-why-calibrate.html" title="Por que eu mesmo preciso calibrar?">Por que eu mesmo preciso calibrar?</a></span> para informações sobre o porquê dos perfis fornecidos pelo fabricante serem normalmente mais que inúteis.</p>
+<p class="p">Veja <span class="link"><a href="color-why-calibrate.html.pt-BR" title="Por que eu mesmo preciso calibrar?">Por que eu mesmo preciso calibrar?</a></span> para informações sobre o porquê dos perfis fornecidos pelo fabricante serem normalmente mais que inúteis.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Perfis de cores">Perfis de cores</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.pt-BR#profiles" title="Perfis de cores">Perfis de cores</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-testing.html" title="Como testo se o gerenciamento de cores está funcionando corretamente?">Como testo se o gerenciamento de cores está funcionando corretamente?</a><span class="desc"> — Use os perfis de teste fornecidos para verificar se seus perfis estão sendo aplicados corretamente a sua tela.</span>
+<a href="color-testing.html.pt-BR" title="Como testo se o gerenciamento de cores está funcionando corretamente?">Como testo se o gerenciamento de cores está funcionando corretamente?</a><span class="desc"> — Use os perfis de teste fornecidos para verificar se seus perfis estão sendo aplicados corretamente a sua tela.</span>
 </li>
 <li class="links ">
-<a href="color-missingvcgt.html" title="Faltam informações para correção de cores de toda a tela?">Faltam informações para correção de cores de toda a tela?</a><span class="desc"> — A correção de cores de toda a tela modifica todas as cores da tela em todas as janelas.</span>
+<a href="color-missingvcgt.html.pt-BR" title="Faltam informações para correção de cores de toda a tela?">Faltam informações para correção de cores de toda a tela?</a><span class="desc"> — A correção de cores de toda a tela modifica todas as cores da tela em todas as janelas.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="O que é um perfil de cores?">O que é um perfil de cores?</a><span class="desc"> — Um perfil de cores é um arquivo simples, que expressa um espaço de cores ou a resposta de um dispositivo.</span>
+<a href="color-whatisprofile.html.pt-BR" title="O que é um perfil de cores?">O que é um perfil de cores?</a><span class="desc"> — Um perfil de cores é um arquivo simples, que expressa um espaço de cores ou a resposta de um dispositivo.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Por que eu mesmo preciso calibrar?">Por que eu mesmo preciso calibrar?</a><span class="desc"> — Calibrar é importante se você se preocupa com as cores que você exibe ou imprime.</span>
+<a href="color-why-calibrate.html.pt-BR" title="Por que eu mesmo preciso calibrar?">Por que eu mesmo preciso calibrar?</a><span class="desc"> — Calibrar é importante se você se preocupa com as cores que você exibe ou imprime.</span>
 </li>
 </ul></div>
 </div></div>

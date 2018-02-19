@@ -43,31 +43,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Bluetooth je brezžični protokol, ki vam omogoča povezavo z veliko različnimi vrstami naprav. Bluetooth se pogosto uporablja za naglavne slušalke in vhodne naprave kot so miške in tipkovnice. Bluetooth  lahko uporabite tudi za <span class="link"><a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">pošiljanje datotek med napravami</a></span> kot je z računalnika na vaš mobilni telefon.</p>
+<p class="p">Bluetooth je brezžični protokol, ki vam omogoča povezavo z veliko različnimi vrstami naprav. Bluetooth se pogosto uporablja za naglavne slušalke in vhodne naprave kot so miške in tipkovnice. Bluetooth  lahko uporabite tudi za <span class="link"><a href="bluetooth-send-file.html.sl" title="Send files to a Bluetooth device">pošiljanje datotek med napravami</a></span> kot je z računalnika na vaš mobilni telefon.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html" title="Vklop ali izklop Bluetooth"><span class="title">Vklop ali izklop Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Omogočitev ali onemogočitev naprave Bluetooth na vašem računalniku.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html" title="Disconnect a Bluetooth device"><span class="title">Disconnect a Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">Odstranitev naprave s seznama naprav Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html" title="Povezava računalnika z napravo Bluetooth."><span class="title">Povezava računalnika z napravo Bluetooth.</span><span class="linkdiv-dash"> — </span><span class="desc">Parjenje naprav Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html" title="Send files to a Bluetooth device"><span class="title">Send files to a Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">Souporaba datotek z napravami z omogočenim Bluetooth, kot je telefon.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html" title="Kaj je vidnost Bluetooth?"><span class="title">Kaj je vidnost Bluetooth?</span><span class="linkdiv-dash"> — </span><span class="desc">Whether other devices can discover your computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html.sl" title="Vklop ali izklop Bluetooth"><span class="title">Vklop ali izklop Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Omogočitev ali onemogočitev naprave Bluetooth na vašem računalniku.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.sl" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html.sl" title="Disconnect a Bluetooth device"><span class="title">Disconnect a Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">Odstranitev naprave s seznama naprav Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html.sl" title="Povezava računalnika z napravo Bluetooth."><span class="title">Povezava računalnika z napravo Bluetooth.</span><span class="linkdiv-dash"> — </span><span class="desc">Parjenje naprav Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.sl" title="Send files to a Bluetooth device"><span class="title">Send files to a Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">Souporaba datotek z napravami z omogočenim Bluetooth, kot je telefon.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html.sl" title="Kaj je vidnost Bluetooth?"><span class="title">Kaj je vidnost Bluetooth?</span><span class="linkdiv-dash"> — </span><span class="desc">Whether other devices can discover your computer.</span></a></div>
 </div></div></div>
 </div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Težave</span></h2></div>
 <div class="region">
-<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html" title="I cannot connect my Bluetooth device"><span class="title">I cannot connect my Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">Vmesnik je lahko izklopljen ali pa morda nimate gonilnikov ali pa je Bluetooth onemogočen ali blokiran.</span></a></div></div></div></div></div>
+<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html.sl" title="I cannot connect my Bluetooth device"><span class="title">I cannot connect my Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">Vmesnik je lahko izklopljen ali pa morda nimate gonilnikov ali pa je Bluetooth onemogočen ali blokiran.</span></a></div></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Več podrobnosti</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Pogoste težave">Težave s strojno opremo</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.sl#problems" title="Pogoste težave">Težave s strojno opremo</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -77,7 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema in gonilniki</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Pogoste težave">Težave s strojno opremo</a></span>, <span class="link"><a href="printing.html" title="Tiskanje">tiskalniki</a></span>, <span class="link"><a href="power.html" title="Napajanje in baterija">nastavitve porabe</a></span>, <span class="link"><a href="color.html" title="Upravljanje barv">upravljanje barv</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Diski in shramba">diski</a></span> …</span>
+<a href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema in gonilniki</a><span class="desc"> — <span class="link"><a href="hardware.html.sl#problems" title="Pogoste težave">Težave s strojno opremo</a></span>, <span class="link"><a href="printing.html.sl" title="Tiskanje">tiskalniki</a></span>, <span class="link"><a href="power.html.sl" title="Napajanje in baterija">nastavitve porabe</a></span>, <span class="link"><a href="color.html.sl" title="Upravljanje barv">upravljanje barv</a></span>, <span class="link"><a href="bluetooth.html.sl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.sl" title="Diski in shramba">diski</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

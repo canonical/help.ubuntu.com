@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="accounts.html" title="Online-Konten">Online-Konten</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="accounts.html.de" title="Online-Konten">Online-Konten</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Festlegungen zum Zugriff eines Kontos auf bestimmte Dienste</span></h1></div>
@@ -52,10 +52,10 @@
 <p class="p">Einige Anbieter von Online-Konten erlauben den Zugriff auf verschiedene Dienste mit demselben Benutzerkonto. Beispielsweise ermöglichen Google-Konten den Zugriff auf Kalender, E-Mail, Kontakte und Sofortnachrichten. Vielleicht wollen Sie Ihr Konto für einige der Dienste nutzen, für andere dagegen eher nicht. Zum Beispiel könnten Sie Ihr Google-Konto zwar für E-Mail nutzen wollen, aber nicht für Sofortnachrichten, weil Sie ein anderes Online-Konto dafür verwenden.</p>
 <p class="p">Sie können einige der von einem Online-Konto bereitgestellten Dienste deaktivieren:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Online-Konten</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Online-Konten</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Online-Konten</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Wählen Sie das zu ändernde Konto in der Liste auf der linken Seite aus.</p></li>
-<li class="steps"><p class="p">Eine Liste der für dieses Konto verfügbaren Dienste wird unter <span class="gui">Verwenden für</span> angezeigt. Lesen Sie <span class="link"><a href="accounts-which-application.html" title="Internet-Dienste und Anwendungen">Internet-Dienste und Anwendungen</a></span> um zu erfahren, welche Anwendungen auf welche Dienste zugreifen.</p></li>
+<li class="steps"><p class="p">Eine Liste der für dieses Konto verfügbaren Dienste wird unter <span class="gui">Verwenden für</span> angezeigt. Lesen Sie <span class="link"><a href="accounts-which-application.html.de" title="Internet-Dienste und Anwendungen">Internet-Dienste und Anwendungen</a></span> um zu erfahren, welche Anwendungen auf welche Dienste zugreifen.</p></li>
 <li class="steps"><p class="p">Schalten Sie die Dienste ab, die Sie nicht verwenden wollen.</p></li>
 </ol></div></div></div>
 <p class="p">Sobald ein Dienst eines Kontos deaktiviert ist, können die Anwendungen Ihres Rechners keine Verbindung mehr zu diesem Dienst herstellen.</p>
@@ -67,17 +67,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Online-Konten">Online-Konten</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Ein Konto hinzufügen">Ein Internet-Konto anlegen</a></span>, <span class="link"><a href="accounts-remove.html" title="Ein Konto entfernen">Ein Konto entfernen</a></span>, <span class="link"><a href="accounts-which-application.html" title="Internet-Dienste und Anwendungen">mehr über Dienste erfahren</a></span> …</span>
+<a href="accounts.html.de" title="Online-Konten">Online-Konten</a><span class="desc"> — <span class="link"><a href="accounts-add.html.de" title="Ein Konto hinzufügen">Ein Internet-Konto anlegen</a></span>, <span class="link"><a href="accounts-remove.html.de" title="Ein Konto entfernen">Ein Konto entfernen</a></span>, <span class="link"><a href="accounts-which-application.html.de" title="Internet-Dienste und Anwendungen">mehr über Dienste erfahren</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="accounts-remove.html" title="Ein Konto entfernen">Ein Konto entfernen</a><span class="desc"> — So entfernen Sie den Zugriff auf Online-Dienste.</span>
+<a href="accounts-remove.html.de" title="Ein Konto entfernen">Ein Konto entfernen</a><span class="desc"> — So entfernen Sie den Zugriff auf Online-Dienste.</span>
 </li>
 <li class="links ">
-<a href="accounts-which-application.html" title="Internet-Dienste und Anwendungen">Internet-Dienste und Anwendungen</a><span class="desc"> — Anwendungen können die in <span class="app">Online-Konten</span> erstellten Konten und deren angebotene Dienste nutzen.</span>
+<a href="accounts-which-application.html.de" title="Internet-Dienste und Anwendungen">Internet-Dienste und Anwendungen</a><span class="desc"> — Anwendungen können die in <span class="app">Online-Konten</span> erstellten Konten und deren angebotene Dienste nutzen.</span>
 </li>
 </ul></div>
 </div></div>

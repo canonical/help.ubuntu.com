@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#backup" title="Αντίγραφα ασφαλείας">Αντίγραφα ασφαλείας</a> » <a class="trail" href="backup-why.html" title="Αντίγραφα ασφαλείας των σημαντικών σας αρχείων">Αντίγραφα ασφαλείας</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#backup" title="Αντίγραφα ασφαλείας">Αντίγραφα ασφαλείας</a> » <a class="trail" href="backup-why.html.el" title="Αντίγραφα ασφαλείας των σημαντικών σας αρχείων">Αντίγραφα ασφαλείας</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Τι να αντιγράψετε στο αντίγραφο ασφαλείας</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Η προτεραιότητά σας πρέπει να είναι να δημιουργήσετε αντίγραφα ασφαλείας στα <span class="link"><a href="backup-thinkabout.html" title="Πού μπορώ να βρω τα αρχεία των οποίων θέλω να δημιουργήσω αντίγραφα ασφαλείας;">πιο σημαντικά αρχεία σας</a></span> καθώς και αυτά που είναι δύσκολο να αναδημιουργηθούν. Για παράδειγμα, ταξινομημένα από το πιο σημαντικό προς το λιγότερο:</p>
+<p class="p">Η προτεραιότητά σας πρέπει να είναι να δημιουργήσετε αντίγραφα ασφαλείας στα <span class="link"><a href="backup-thinkabout.html.el" title="Πού μπορώ να βρω τα αρχεία των οποίων θέλω να δημιουργήσω αντίγραφα ασφαλείας;">πιο σημαντικά αρχεία σας</a></span> καθώς και αυτά που είναι δύσκολο να αναδημιουργηθούν. Για παράδειγμα, ταξινομημένα από το πιο σημαντικό προς το λιγότερο:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Τα προσωπικά σας αρχεία</dt>
 <dd class="terms"><p class="p">Αυτό μπορεί να περιλαμβάνει έγγραφα, υπολογιστικά φύλλα, ηλεκτρονική αλληλογραφία, συναντήσεις ημερολογίου, οικονομικά δεδομένα, οικογενειακές φωτογραφίες ή κάθε άλλο προσωπικό αρχείο που μπορεί να θεωρήσετε αναντικατάστατο.</p></dd>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Αντίγραφα ασφαλείας των σημαντικών σας αρχείων">Αντίγραφα ασφαλείας των σημαντικών σας αρχείων</a><span class="desc"> — Γιατί, τι, πού και πώς των αντιγράφων ασφαλείας.</span>
+<a href="backup-why.html.el" title="Αντίγραφα ασφαλείας των σημαντικών σας αρχείων">Αντίγραφα ασφαλείας των σημαντικών σας αρχείων</a><span class="desc"> — Γιατί, τι, πού και πώς των αντιγράφων ασφαλείας.</span>
 </li></ul></div>
 </div></div></div>
 </div>

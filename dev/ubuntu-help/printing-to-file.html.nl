@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html" title="Afdrukken">Afdrukken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Naar bestand afdrukken</span></h1></div>
@@ -77,7 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html" title="Afdrukken">Afdrukken</a><span class="desc"> — <span class="link"><a href="printing-setup.html" title="Een lokale printer instellen">Lokale installatie</a></span>, <span class="link"><a href="printing-order.html" title="Pagina's in een andere volgorde laten afdrukken">ordenen en sorteren</a></span>, <span class="link"><a href="printing-2sided.html" title="Tweezijdig afdrukken en multipagina-opmaak">dubbelzijdig en meerdere pagina's</a></span>…</span>
+<a href="printing.html.nl" title="Afdrukken">Afdrukken</a><span class="desc"> — <span class="link"><a href="printing-setup.html.nl" title="Een lokale printer instellen">Lokale installatie</a></span>, <span class="link"><a href="printing-order.html.nl" title="Pagina's in een andere volgorde laten afdrukken">ordenen en sorteren</a></span>, <span class="link"><a href="printing-2sided.html.nl" title="Tweezijdig afdrukken en multipagina-opmaak">dubbelzijdig en meerdere pagina's</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

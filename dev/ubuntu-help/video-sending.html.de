@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Ton, Video und Bilder">Ton, Video und Bilder</a> › <a class="trail" href="media.html#videos" title="Videos und Videokameras">Videos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.de" title="Ton, Video und Bilder">Ton, Video und Bilder</a> › <a class="trail" href="media.html.de#videos" title="Videos und Videokameras">Videos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Andere können von mir erstellte Videos nicht anschauen</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">Falls Sie auf Ihrem Linux-Rechner ein Video erzeugt haben und es an jemanden senden, der Windows oder Mac OS verwendet, könnte es Probleme bei der Wiedergabe des Videos geben.</p>
 <p class="p">Damit die Person, an die Sie das Video gesendet haben, es auch abspielen kann, müssen die richtigen <span class="em">Codecs</span> installiert sein. Ein Codec ist eine Software, mit deren Hilfe das Video richtig interpretiert und auf dem Bildschirm angezeigt werden kann. Es gibt eine Vielzahl verschiedener Videoformate, und jedes davon benötigt den passenden Codec für die Wiedergabe. Sie können folgendermaßen ermitteln, in welchem Format Ihr Video vorliegt:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Öffnen Sie <span class="app">Dateien</span> in der <span class="link"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht.</p></li>
+<li class="list"><p class="p">Öffnen Sie <span class="app">Dateien</span> in der <span class="link"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht.</p></li>
 <li class="list"><p class="p">Klicken Sie mit der rechten Maustaste auf die Videodatei und wählen Sie <span class="gui">Eigenschaften</span>.</p></li>
 <li class="list"><p class="p">Klicken Sie auf den Reiter <span class="gui">Audio/Video</span> oder <span class="gui">Video</span> und schauen Sie nach, welcher <span class="gui">Codec</span> unter <span class="gui">Video</span> und ggfs. <span class="gui">Audio</span> in der Liste steht.</p></li>
 </ul></div></div></div>
@@ -64,7 +64,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Videos und Videokameras">Videos</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.de#videos" title="Videos und Videokameras">Videos</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

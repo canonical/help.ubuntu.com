@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="disk.html" title="Disk &amp; penyimpanan">Disk &amp; penyimpanan</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="disk.html.id" title="Disk &amp; penyimpanan">Disk &amp; penyimpanan</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Uji kinerja hard disk Anda</span></h1></div>
@@ -52,14 +52,14 @@
 <p class="p">Untuk menguji kecepatan hard disk Anda:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open <span class="app">Disks</span> from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> overview.</p></li>
 <li class="steps"><p class="p">Choose the disk from the list in the left pane.</p></li>
 <li class="steps"><p class="p">Click the menu button and select <span class="gui">Benchmark disk…</span> from the
       menu.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Start Benchmark…</span> and adjust the <span class="gui">Transfer
       Rate</span> and <span class="gui">Access Time</span> parameters as desired.</p></li>
 <li class="steps">
-<p class="p">Klik <span class="gui">Mulai Uji Banding</span> untuk menguji sebarapa cepat data dapat dibaca dari disk. <span class="link"><a href="user-admin-explain.html" title="Bagaimana privilese administratif bekerja?">Privilese administrasif</a></span> mungkin diperlukan. Masukkan sandi Anda, atau sandi bagi akun administrator yang diminta.</p>
+<p class="p">Klik <span class="gui">Mulai Uji Banding</span> untuk menguji sebarapa cepat data dapat dibaca dari disk. <span class="link"><a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">Privilese administrasif</a></span> mungkin diperlukan. Masukkan sandi Anda, atau sandi bagi akun administrator yang diminta.</p>
 <div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">If <span class="gui">Perform write-benchmark</span> is checked, the benchmark
         will test how fast data can be read from and written to the disk. This
         will take longer to complete.</p></div></div></div></div>
@@ -73,7 +73,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Disk &amp; penyimpanan">Disk &amp; penyimpanan</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Periksa seberapa banyak ruang disk yang tersisa">Ruang disk</a></span>, <span class="link"><a href="disk-benchmark.html" title="Uji kinerja hard disk Anda">kinerja</a></span>, <span class="link"><a href="disk-check.html" title="Periksa hard disk Anda apakah bermasalah">masalah</a></span>, <span class="link"><a href="disk-partitions.html" title="Mengelola volume dan partisi">volume dan partisi</a></span>…</span>
+<a href="disk.html.id" title="Disk &amp; penyimpanan">Disk &amp; penyimpanan</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.id" title="Periksa seberapa banyak ruang disk yang tersisa">Ruang disk</a></span>, <span class="link"><a href="disk-benchmark.html.id" title="Uji kinerja hard disk Anda">kinerja</a></span>, <span class="link"><a href="disk-check.html.id" title="Periksa hard disk Anda apakah bermasalah">masalah</a></span>, <span class="link"><a href="disk-partitions.html.id" title="Mengelola volume dan partisi">volume dan partisi</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

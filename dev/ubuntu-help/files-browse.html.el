@@ -43,26 +43,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#common-file-tasks" title="Κοινές εργασίες">Κοινές εργασίες</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#common-file-tasks" title="Κοινές εργασίες">Κοινές εργασίες</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Περιήγηση αρχείων και φακέλων</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Χρησιμοποιήστε τον διαχειριστή αρχείων <span class="app">Αρχεία</span> για να περιηγηθείτε και να οργανώσετε τα αρχεία στον υπολογιστή σας. Μπορείτε επίσης να τον χρησιμοποιήσετε για διαχείριση αρχείων σε συσκευές αποθήκευσης (όπως εξωτερικούς σκληρούς δίσκους), σε <span class="link"><a href="nautilus-connect.html" title="Περιήγηση αρχείων σε έναν διακομιστή ή σε ένα κοινόχρηστο δίκτυο">διακομιστές αρχείων</a></span> και κοινόχρηστα στοιχεία δικτύου.</p>
-<p class="p">Για να ξεκινήσετε τον διαχειριστή αρχείων, ανοίξτε τα <span class="app">Αρχεία</span> από την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>. Μπορείτε επίσης να αναζητήσετε αρχεία και φακέλους μέσα από την επισκόπηση με τον ίδιο τρόπο που <span class="link"><a href="shell-apps-open.html" title="Εκκίνηση εφαρμογών">αναζητάτε εφαρμογές</a></span>.</p>
+<p class="p">Χρησιμοποιήστε τον διαχειριστή αρχείων <span class="app">Αρχεία</span> για να περιηγηθείτε και να οργανώσετε τα αρχεία στον υπολογιστή σας. Μπορείτε επίσης να τον χρησιμοποιήσετε για διαχείριση αρχείων σε συσκευές αποθήκευσης (όπως εξωτερικούς σκληρούς δίσκους), σε <span class="link"><a href="nautilus-connect.html.el" title="Περιήγηση αρχείων σε έναν διακομιστή ή σε ένα κοινόχρηστο δίκτυο">διακομιστές αρχείων</a></span> και κοινόχρηστα στοιχεία δικτύου.</p>
+<p class="p">Για να ξεκινήσετε τον διαχειριστή αρχείων, ανοίξτε τα <span class="app">Αρχεία</span> από την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>. Μπορείτε επίσης να αναζητήσετε αρχεία και φακέλους μέσα από την επισκόπηση με τον ίδιο τρόπο που <span class="link"><a href="shell-apps-open.html.el" title="Εκκίνηση εφαρμογών">αναζητάτε εφαρμογές</a></span>.</p>
 </div>
 <div id="files-view-folder-contents" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Εξερευνώντας τα περιεχόμενα των φακέλων</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Στον διαχειριστή αρχείων, κάντε διπλό κλικ σε οποιονδήποτε φάκελο για να δείτε τα περιεχόμενα του, και διπλό ή  <span class="link"><a href="mouse-middleclick.html" title="Μεσαίο κλικ">μεσαίο</a></span> κλικ σε οποιοδήποτε αρχείο για να το ανοίξετε χρησιμοποιώντας την προεπιλεγμένη εφαρμογή. Χρησιμοποιώντας το μεσαίο κλικ μπορείτε να ανοίξετε σε μια νέα καρτέλα. Μπορείτε επίσης με δεξί κλικ σε ένα φάκελο να τον ανοίξετε σε μια νέα καρτέλα ή παράθυρο.</p>
-<p class="p">Όταν κοιτάτε τα αρχεία σε έναν φάκελο, μπορείτε να <span class="link"><a href="files-preview.html" title="Προεπισκόπηση αρχείων και φακέλων">προεπισκοπήσετε κάθε αρχείο</a></span> γρήγορα πατώντας τη γραμμή κενού για να βεβαιωθείτε ότι έχετε το σωστό αρχείο πριν το άνοιγμα του, αντιγραφή του ή διαγραφή του.</p>
+<p class="p">Στον διαχειριστή αρχείων, κάντε διπλό κλικ σε οποιονδήποτε φάκελο για να δείτε τα περιεχόμενα του, και διπλό ή  <span class="link"><a href="mouse-middleclick.html.el" title="Μεσαίο κλικ">μεσαίο</a></span> κλικ σε οποιοδήποτε αρχείο για να το ανοίξετε χρησιμοποιώντας την προεπιλεγμένη εφαρμογή. Χρησιμοποιώντας το μεσαίο κλικ μπορείτε να ανοίξετε σε μια νέα καρτέλα. Μπορείτε επίσης με δεξί κλικ σε ένα φάκελο να τον ανοίξετε σε μια νέα καρτέλα ή παράθυρο.</p>
+<p class="p">Όταν κοιτάτε τα αρχεία σε έναν φάκελο, μπορείτε να <span class="link"><a href="files-preview.html.el" title="Προεπισκόπηση αρχείων και φακέλων">προεπισκοπήσετε κάθε αρχείο</a></span> γρήγορα πατώντας τη γραμμή κενού για να βεβαιωθείτε ότι έχετε το σωστό αρχείο πριν το άνοιγμα του, αντιγραφή του ή διαγραφή του.</p>
 <p class="p">The <span class="em">path bar</span> above the list of files and folders shows you which
 folder you’re viewing, including the parent folders of the current folder.
 Click a parent folder in the path bar to go to that folder. Right-click any
 folder in the path bar to open it in a new tab or window, or access its
 properties.</p>
-<p class="p">Αν θέλετε να <span class="link"><a href="files-search.html" title="Αναζήτηση για αρχεία">αναζητήσετε ένα αρχείο</a></span> γρήγορα, σε έναν φάκελο ή κάτω από αυτόν που βλέπετε, αρχίστε να πληκτρολογείτε το όνομα του. Θα εμφανιστεί μια <span class="em">γραμμή αναζήτησης</span> στην κορυφή του παραθύρου και θα εμφανιστούν μόνο τα αρχεία που ταιριάζουν με την αναζήτησή σας. Πατήστε το πλήκτρο <span class="key"><kbd>Esc</kbd></span> για να ακυρώσετε την αναζήτηση.</p>
+<p class="p">Αν θέλετε να <span class="link"><a href="files-search.html.el" title="Αναζήτηση για αρχεία">αναζητήσετε ένα αρχείο</a></span> γρήγορα, σε έναν φάκελο ή κάτω από αυτόν που βλέπετε, αρχίστε να πληκτρολογείτε το όνομα του. Θα εμφανιστεί μια <span class="em">γραμμή αναζήτησης</span> στην κορυφή του παραθύρου και θα εμφανιστούν μόνο τα αρχεία που ταιριάζουν με την αναζήτησή σας. Πατήστε το πλήκτρο <span class="key"><kbd>Esc</kbd></span> για να ακυρώσετε την αναζήτηση.</p>
 <p class="p">Μπορείτε να περιηγηθείτε άμεσα σε κοινές θέσεις από την <span class="em">πλευρική στήλη</span>. Αν δεν μπορείτε να δείτε την πλευρική στήλη, τότε κάντε κλικ στο <span class="gui">Αρχεία</span> στην πάνω γραμμή και έπειτα επιλέξτε <span class="gui">Πλευρική στήλη</span>. Μπορείτε να προσθέσετε σελιδοδείκτες σε φακέλους που χρησιμοποιείτε συχνά ώστε να εμφανιστούν στην πλευρική στήλη. Σύρετε έναν φάκελο στην πλευρική στήλη, και αποθέστε τον στο <span class="gui">Νέος σελιδοδείκτης</span>, το οποίο εμφανίζεται δυναμικά, ή κάντε κλικ στο μενού του παραθύρου και επιλέξτε <span class="gui">Προσθήκη σελιδοδείκτη σε αυτή την τοποθεσία</span>.</p>
 </div></div>
 </div></div>
@@ -71,12 +71,12 @@ properties.</p>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Κοινές εργασίες">Κοινές εργασίες</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.el#common-file-tasks" title="Κοινές εργασίες">Κοινές εργασίες</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-copy.html" title="Αντιγραφή ή μετακίνηση αρχείων και φακέλων">Αντιγραφή ή μετακίνηση αρχείων και φακέλων</a><span class="desc"> — Αντιγραφή ή μετακίνηση στοιχείων σε νέο φάκελο.</span>
+<a href="files-copy.html.el" title="Αντιγραφή ή μετακίνηση αρχείων και φακέλων">Αντιγραφή ή μετακίνηση αρχείων και φακέλων</a><span class="desc"> — Αντιγραφή ή μετακίνηση στοιχείων σε νέο φάκελο.</span>
 </li></ul></div>
 </div></div>
 </div>

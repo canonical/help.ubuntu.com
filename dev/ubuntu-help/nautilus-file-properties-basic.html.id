@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Properti berkas</span></h1></div>
@@ -55,12 +55,12 @@
 <p class="p">The file properties window shows you information like the type of file,
   the size of the file, and when you last modified it. If you need this
   information often, you
-  can have it displayed in <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">list view columns</a></span>
-  or <span class="link"><a href="nautilus-display.html#icon-captions" title="Kapsi ikon">icon captions</a></span>.</p>
+  can have it displayed in <span class="link"><a href="nautilus-list.html.id" title="Files list columns preferences">list view columns</a></span>
+  or <span class="link"><a href="nautilus-display.html.id#icon-captions" title="Kapsi ikon">icon captions</a></span>.</p>
 <p class="p">The information given on the <span class="gui">Basic</span> tab is explained below.
   There are also
-  <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Menata izin berkas">Permissions</a></span></span>
-  and <span class="gui"><span class="link"><a href="files-open.html#default" title="Ubah aplikasi baku">Open With</a></span></span> tabs. For
+  <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.id" title="Menata izin berkas">Permissions</a></span></span>
+  and <span class="gui"><span class="link"><a href="files-open.html.id#default" title="Ubah aplikasi baku">Open With</a></span></span> tabs. For
   certain types of files, such as images and videos, there will be an extra tab
   that provides information like the dimensions, duration, and codec.</p>
 </div>
@@ -68,13 +68,13 @@
 <div class="hgroup"><h2 class="title"><span class="title">Properti dasar</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Nama</span></dt>
-<dd class="terms"><p class="p">Anda dapat mengubah nama berkas dengan mengubah ruas ini. Anda juga dapat mengubah nama berkas di luar jendela properti. Lihat <span class="link"><a href="files-rename.html" title="Mengubah nama berkas atau folder">Mengubah nama berkas atau folder</a></span>.</p></dd>
+<dd class="terms"><p class="p">Anda dapat mengubah nama berkas dengan mengubah ruas ini. Anda juga dapat mengubah nama berkas di luar jendela properti. Lihat <span class="link"><a href="files-rename.html.id" title="Mengubah nama berkas atau folder">Mengubah nama berkas atau folder</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Tipe</span></dt>
 <dd class="terms">
 <p class="p">This helps you identify the type of the file, such as PDF document,
     OpenDocument Text, or JPEG image. The file type determines which
     applications can open the file, among other things. For example, you
-    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="Buka berkas dengan aplikasi lain">Buka berkas dengan aplikasi lain</a></span>
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html.id" title="Buka berkas dengan aplikasi lain">Buka berkas dengan aplikasi lain</a></span>
     for more information on this.</p>
 <p class="p"><span class="em">Tipe MIME</span> dari berkas ditunjukkan dalam kurung; tipe MIME adalah cara standar yang dipakai komputer untuk mengacu ke tipe berkas.</p>
 </dd>
@@ -107,12 +107,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="Menata izin berkas">Menata izin berkas</a><span class="desc"> — Control who can view and edit your files and folders.</span>
+<a href="nautilus-file-properties-permissions.html.id" title="Menata izin berkas">Menata izin berkas</a><span class="desc"> — Control who can view and edit your files and folders.</span>
 </li></ul></div>
 </div></div>
 </div>

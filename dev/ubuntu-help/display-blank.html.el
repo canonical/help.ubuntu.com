@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="hardware-problems-graphics.html" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="hardware-problems-graphics.html.el" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="power.html" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> › <a class="trail" href="power.html#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="power.html.el" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> › <a class="trail" href="power.html.el#saving" title="Power saving settings">Power saving settings</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="prefs-display.html" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="prefs-display.html.el" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="power.html" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> › <a class="trail" href="power.html#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="power.html.el" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> › <a class="trail" href="power.html.el#saving" title="Power saving settings">Power saving settings</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,14 +61,14 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Για να ορίσετε τον χρόνο σβησίματος της οθόνης:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ενέργεια</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ενέργεια</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ενέργεια</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Use the <span class="gui">Blank screen</span> drop-down list under <span class="gui">Power
       Saving</span> to set the time until the screen blanks, or disable the blanking
       completely.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Όταν ο υπολογιστής σας μένει στην αναμονή, η οθόνη θα κλειδώσει αυτόματα για λόγους ασφαλείας. Για να αλλάξετε αυτή την συμπεριφορά, δείτε <span class="link"><a href="session-screenlocks.html" title="Η οθόνη κλειδώνει υπερβολικά γρήγορα">Η οθόνη κλειδώνει υπερβολικά γρήγορα</a></span>.</p></div></div></div></div>
+<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Όταν ο υπολογιστής σας μένει στην αναμονή, η οθόνη θα κλειδώσει αυτόματα για λόγους ασφαλείας. Για να αλλάξετε αυτή την συμπεριφορά, δείτε <span class="link"><a href="session-screenlocks.html.el" title="Η οθόνη κλειδώνει υπερβολικά γρήγορα">Η οθόνη κλειδώνει υπερβολικά γρήγορα</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -76,12 +76,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="power.html#saving" title="Power saving settings">Power saving settings</a></li>
+<li class="links "><a href="power.html.el#saving" title="Power saving settings">Power saving settings</a></li>
 <li class="links ">
-<a href="prefs-display.html" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος">Παρασκήνιο</a></span>, <span class="link"><a href="look-resolution.html" title="Αλλαγή της ανάλυσης ή της περιστροφής της οθόνης">Μέγεθος και περιστροφή</a></span>, φωτεινότητα…</span>
+<a href="prefs-display.html.el" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a><span class="desc"> — <span class="link"><a href="look-background.html.el" title="Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος">Παρασκήνιο</a></span>, <span class="link"><a href="look-resolution.html.el" title="Αλλαγή της ανάλυσης ή της περιστροφής της οθόνης">Μέγεθος και περιστροφή</a></span>, φωτεινότητα…</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a><span class="desc"> — Λύστε προβλήματα οθόνης και γραφικών.</span>
+<a href="hardware-problems-graphics.html.el" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a><span class="desc"> — Λύστε προβλήματα οθόνης και γραφικών.</span>
 </li>
 </ul></div>
 </div></div>
@@ -89,10 +89,10 @@
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-whydim.html" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;">Γιατί η οθόνη μου εξασθενεί μετά από λίγο;</a><span class="desc"> — Η οθόνη θα εξασθενίσει όταν ο υπολογιστής είναι αδρανής για να εξοικονομήσει ισχύ.</span>
+<a href="power-whydim.html.el" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;">Γιατί η οθόνη μου εξασθενεί μετά από λίγο;</a><span class="desc"> — Η οθόνη θα εξασθενίσει όταν ο υπολογιστής είναι αδρανής για να εξοικονομήσει ισχύ.</span>
 </li>
 <li class="links ">
-<a href="session-screenlocks.html" title="Η οθόνη κλειδώνει υπερβολικά γρήγορα">Η οθόνη κλειδώνει υπερβολικά γρήγορα</a><span class="desc"> — Αλλάξτε τον χρόνο αναμονής πριν να κλειδώσετε την οθόνη στις ρυθμίσεις <span class="gui">Ιδιωτικότητα</span>.</span>
+<a href="session-screenlocks.html.el" title="Η οθόνη κλειδώνει υπερβολικά γρήγορα">Η οθόνη κλειδώνει υπερβολικά γρήγορα</a><span class="desc"> — Αλλάξτε τον χρόνο αναμονής πριν να κλειδώσετε την οθόνη στις ρυθμίσεις <span class="gui">Ιδιωτικότητα</span>.</span>
 </li>
 </ul></div>
 </div></div>

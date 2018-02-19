@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="Problèmes réseau">Problèmes réseau</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.fr" title="Problèmes réseau">Problèmes réseau</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Other users can’t edit the network connections</span></h1></div>
@@ -54,7 +54,7 @@
   This makes it so that everyone on the computer can <span class="em">connect</span> using
   that connection.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Réseau</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Sélectionnez <span class="gui">Wi-Fi</span> dans la liste de gauche.</p></li>
@@ -72,17 +72,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Problèmes réseau">Problèmes réseau</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Dépannage du réseau sans fil">Dépannage des connexions sans fil</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">trouver votre réseau Wifi</a></span>…</span>
+<a href="net-problem.html.fr" title="Problèmes réseau">Problèmes réseau</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.fr" title="Dépannage du réseau sans fil">Dépannage des connexions sans fil</a></span>, <span class="link"><a href="net-wireless-find.html.fr" title="I can’t see my wireless network in the list">trouver votre réseau Wifi</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Comment les privilèges administrateur fonctionnent-ils ?">Comment les privilèges administrateur fonctionnent-ils ?</a><span class="desc"> — Les privilèges administrateur sont requis pour modifier des parties importantes du système.</span>
+<a href="user-admin-explain.html.fr" title="Comment les privilèges administrateur fonctionnent-ils ?">Comment les privilèges administrateur fonctionnent-ils ?</a><span class="desc"> — Les privilèges administrateur sont requis pour modifier des parties importantes du système.</span>
 </li>
 <li class="links ">
-<a href="net-othersconnect.html" title="Other users can’t connect to the internet">Other users can’t connect to the internet</a><span class="desc"> — Vous pouvez enregistrer des paramètres (comme le mot de passe) d'une connexion réseau pour permettre à chaque utilisateur de l'ordinateur de s'y connecter.</span>
+<a href="net-othersconnect.html.fr" title="Other users can’t connect to the internet">Other users can’t connect to the internet</a><span class="desc"> — Vous pouvez enregistrer des paramètres (comme le mot de passe) d'une connexion réseau pour permettre à chaque utilisateur de l'ordinateur de s'y connecter.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="Проблемы с сетью">Проблемы с сетью</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.ru" title="Проблемы с сетью">Проблемы с сетью</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Other users can’t edit the network connections</span></h1></div>
@@ -54,7 +54,7 @@
   This makes it so that everyone on the computer can <span class="em">connect</span> using
   that connection.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Сеть</span> чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Выберите <span class="gui">Беспроводное</span> в списке слева.</p></li>
@@ -72,17 +72,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Проблемы с сетью">Проблемы с сетью</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Проблемы с беспроводными соединениями</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">поиск сети wifi</a></span>…</span>
+<a href="net-problem.html.ru" title="Проблемы с сетью">Проблемы с сетью</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.ru" title="Устранение неполадок с беспроводной сетью">Проблемы с беспроводными соединениями</a></span>, <span class="link"><a href="net-wireless-find.html.ru" title="I can’t see my wireless network in the list">поиск сети wifi</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-othersconnect.html" title="Other users can’t connect to the internet">Other users can’t connect to the internet</a><span class="desc"> — Можно сохранить параметры соединения так, чтобы подключиться мог любой пользователь компьютера.</span>
+<a href="net-othersconnect.html.ru" title="Other users can’t connect to the internet">Other users can’t connect to the internet</a><span class="desc"> — Можно сохранить параметры соединения так, чтобы подключиться мог любой пользователь компьютера.</span>
 </li>
 <li class="links ">
-<a href="user-admin-explain.html" title="Как работают административные полномочия?">Как работают административные полномочия?</a><span class="desc"> — Для изменения важных компонентов системы нужны права администратора.</span>
+<a href="user-admin-explain.html.ru" title="Как работают административные полномочия?">Как работают административные полномочия?</a><span class="desc"> — Для изменения важных компонентов системы нужны права администратора.</span>
 </li>
 </ul></div>
 </div></div>

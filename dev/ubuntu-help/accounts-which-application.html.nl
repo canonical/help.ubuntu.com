@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="accounts.html" title="Online-accounts">Online-accounts</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="accounts.html.nl" title="Online-accounts">Online-accounts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Online-services en -toepassingen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Als u een online-account heeft toegevoegd, kan elke toepassing dat account gebruiken voor de beschikbare diensten die u niet heeft <span class="link"><a href="accounts-disable-service.html" title="Bepaal tot welke online diensten een account toegang geeft">uitgeschakeld</a></span>. Verschillende providers leveren verschillende diensten. Deze pagina geeft de verschillende diensten weer en enkele toepassingen die deze diensten gebruiken.</p>
+<p class="p">Als u een online-account heeft toegevoegd, kan elke toepassing dat account gebruiken voor de beschikbare diensten die u niet heeft <span class="link"><a href="accounts-disable-service.html.nl" title="Bepaal tot welke online diensten een account toegang geeft">uitgeschakeld</a></span>. Verschillende providers leveren verschillende diensten. Deze pagina geeft de verschillende diensten weer en enkele toepassingen die deze diensten gebruiken.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Agenda</dt>
 <dd class="terms"><p class="p">Met de Agenda-dienst kunt u afspraken weergeven, toevoegen en bewerken in een online agenda. Het wordt gebruikt door toepassingen als <span class="app">Calendar</span>, <span class="app">Evolution</span>, en <span class="app">California</span>.</p></dd>
@@ -60,7 +60,7 @@
 <dt class="terms">Documenten</dt>
 <dd class="terms"><p class="p">Met de Documenten-dienst kunt u uw online documenten bekijken zoals die in Google documenten. U kunt uw documenten bekijken met de <span class="app">Documenten</span>-toepassing.</p></dd>
 <dt class="terms">Bestanden</dt>
-<dd class="terms"><p class="p">De Bestanden-dienst voegt een bestandslocatie op afstand toe, op dezelfde manier als u zou doen met de <span class="link"><a href="nautilus-connect.html" title="Door bestanden op een server of netwerk bladeren">Met server verbinden</a></span>-functionaliteit in de bestandsbeheerder. U kunt bestanden op afstand benaderen met zowel de bestandsbeheerder als met de Openen- en Opslaan-vensters in elke toepassing.</p></dd>
+<dd class="terms"><p class="p">De Bestanden-dienst voegt een bestandslocatie op afstand toe, op dezelfde manier als u zou doen met de <span class="link"><a href="nautilus-connect.html.nl" title="Door bestanden op een server of netwerk bladeren">Met server verbinden</a></span>-functionaliteit in de bestandsbeheerder. U kunt bestanden op afstand benaderen met zowel de bestandsbeheerder als met de Openen- en Opslaan-vensters in elke toepassing.</p></dd>
 <dt class="terms">E-mail</dt>
 <dd class="terms"><p class="p">Met de E-mail-service kunt u e-mail versturen en ontvangen met een e-mail-provider zoals Google. Het wordt gebruikt door <span class="app">Evolution</span>.</p></dd>
 <dt class="terms">Foto's</dt>
@@ -77,13 +77,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Online-accounts">Online-accounts</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Een account toevoegen">Een online-account toevoegen</a></span>, <span class="link"><a href="accounts-remove.html" title="Een account verwijderen">Een account verwijderen</a></span>, <span class="link"><a href="accounts-which-application.html" title="Online-services en -toepassingen">Meer te weten komen over diensten</a></span>…</span>
+<a href="accounts.html.nl" title="Online-accounts">Online-accounts</a><span class="desc"> — <span class="link"><a href="accounts-add.html.nl" title="Een account toevoegen">Een online-account toevoegen</a></span>, <span class="link"><a href="accounts-remove.html.nl" title="Een account verwijderen">Een account verwijderen</a></span>, <span class="link"><a href="accounts-which-application.html.nl" title="Online-services en -toepassingen">Meer te weten komen over diensten</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="Bepaal tot welke online diensten een account toegang geeft">Bepaal tot welke online diensten een account toegang geeft</a><span class="desc"> — Bij sommige online-accounts kunt u meerdere diensten gebruiken (zoals agenda en e-mail). U kunt zelf bepalen welke van deze diensten gebruikt kunnen worden door uw lokale toepassingen.</span>
+<a href="accounts-disable-service.html.nl" title="Bepaal tot welke online diensten een account toegang geeft">Bepaal tot welke online diensten een account toegang geeft</a><span class="desc"> — Bij sommige online-accounts kunt u meerdere diensten gebruiken (zoals agenda en e-mail). U kunt zelf bepalen welke van deze diensten gebruikt kunnen worden door uw lokale toepassingen.</span>
 </li></ul></div>
 </div></div>
 </div>

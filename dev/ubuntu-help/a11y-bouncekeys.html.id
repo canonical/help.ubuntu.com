@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html" title="Akses universal">Akses universal</a> › <a class="trail" href="a11y.html#mobility" title="Masalah mobilitas">Masalah mobilitas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html.id" title="Akses universal">Akses universal</a> › <a class="trail" href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="keyboard.html" title="Papan tik">Papan tik</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="keyboard.html.id" title="Papan tik">Papan tik</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="keyboard.html" title="Papan tik">Papan tik</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="keyboard.html.id" title="Papan tik">Papan tik</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,14 +57,14 @@
 <div class="contents">
 <p class="p">Nyalakan <span class="em">tombol pantul</span> untuk mengabaikan penekanan tombol yang diulang secara cepat. Sebagai contoh, bila Anda mengalami tremor yang menyebabkan Anda menekan suatu tombol secara berulang ketika Anda hanya ingin menekannya sekali, Anda sebaiknya menyalakan tombol pantul.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Tekan <span class="gui">Bantuan Mengetik (AccessX)</span> dalam bagian <span class="gui">Pengetikan</span>.</p></li>
 <li class="steps"><p class="p">Nyalakan <span class="gui">Klik Mengambang</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner">
 <div class="title title-note"><h2><span class="title">Nyalakan dan matikan tombol pantul secara cepat</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Anda dapat menyalakan dan mematikan tombol pantul dengan mengklik <span class="link"><a href="a11y-icon.html" title="Temukan menu akses universal">ikon aksesibilitas</a></span> pada bilah puncak dan memilih <span class="gui">Tombol Pantul</span>. Ikon aksesibilitas nampak ketika satu atau lebih pengaturan difungsikan dari panel <span class="gui">Akses Universal</span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Anda dapat menyalakan dan mematikan tombol pantul dengan mengklik <span class="link"><a href="a11y-icon.html.id" title="Temukan menu akses universal">ikon aksesibilitas</a></span> pada bilah puncak dan memilih <span class="gui">Tombol Pantul</span>. Ikon aksesibilitas nampak ketika satu atau lebih pengaturan difungsikan dari panel <span class="gui">Akses Universal</span>.</p></div></div>
 </div></div>
 <p class="p">Pakai penggeser <span class="gui">Tundaan penerimaan</span> untuk mengubah berapa lama tombol pantul menunggu sebelum dia meloloskan penekanan tombol berikutnya setelah Anda menekan suatu tombol pertama kali. Pilih <span class="gui">Bip ketika suatu tombol ditolak</span> bila Anda ingin agar komputer bersuara setiap kali dia mengabaikan suatu penekanan tombol karena terjadi terlalu cepat setelah penekanan tombol sebelumnya.</p>
 </div>
@@ -73,9 +73,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Masalah mobilitas">Masalah mobilitas</a></li>
+<li class="links "><a href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
+<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Use alternative keyboard layouts">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -43,24 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Проводные сети</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html" title="Подключение к проводной (Ethernet) сети"><span class="title">Подключение к проводной (Ethernet) сети</span><span class="linkdiv-dash"> — </span><span class="desc">Всё, что нужно для настройки большинства проводных сетевых соединений — это подключить сетевой кабель.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Настройка параметров соединения вручную"><span class="title">Настройка параметров соединения вручную</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
+<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html.ru" title="Подключение к проводной (Ethernet) сети"><span class="title">Подключение к проводной (Ethernet) сети</span><span class="linkdiv-dash"> — </span><span class="desc">Всё, что нужно для настройки большинства проводных сетевых соединений — это подключить сетевой кабель.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html.ru" title="Настройка параметров соединения вручную"><span class="title">Настройка параметров соединения вручную</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
     automatically.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Подключение к VPN"><span class="title">Подключение к VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Настройка VPN-соединения до локальной сети через интернет.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html" title="Создание соединения с фиксированным IP-адресом"><span class="title">Создание соединения с фиксированным IP-адресом</span><span class="linkdiv-dash"> — </span><span class="desc">Использование статического IP-адреса может упростить предоставление компьютером некоторых сетевых услуг.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html.ru" title="Подключение к VPN"><span class="title">Подключение к VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Настройка VPN-соединения до локальной сети через интернет.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html.ru" title="Создание соединения с фиксированным IP-адресом"><span class="title">Создание соединения с фиксированным IP-адресом</span><span class="linkdiv-dash"> — </span><span class="desc">Использование статического IP-адреса может упростить предоставление компьютером некоторых сетевых услуг.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Беспроводные сети">Беспроводные</a></span>, <span class="link"><a href="net-wired.html" title="Проводные сети">проводные</a></span>, <span class="link"><a href="net-problem.html" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html" title="Веб-браузеры">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
+<a href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные</a></span>, <span class="link"><a href="net-wired.html.ru" title="Проводные сети">проводные</a></span>, <span class="link"><a href="net-problem.html.ru" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html.ru" title="Веб-браузеры">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html.ru" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

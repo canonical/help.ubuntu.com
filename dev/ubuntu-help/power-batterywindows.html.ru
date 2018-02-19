@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="power.html" title="Питание и аккумулятор">Питание и аккумулятор</a> › <a class="trail" href="power.html#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="power.html.ru" title="Питание и аккумулятор">Питание и аккумулятор</a> › <a class="trail" href="power.html.ru#faq" title="Questions">Questions</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="power.html" title="Питание и аккумулятор">Питание и аккумулятор</a> › <a class="trail" href="power.html#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="power.html.ru" title="Питание и аккумулятор">Питание и аккумулятор</a> › <a class="trail" href="power.html.ru#faq" title="Questions">Questions</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Под управлением Linux время работы некоторых компьютеров от аккумулятора оказывается меньшим, чем при работе в Windows или Mac OS. Одна из причин состоит в том, что производители этих компьютеров устанавливают специальные программы для Windows или Mac OS, которые оптимизируют различные аппаратные и программные настройки для данной модели компьютера. Эти настройки весьма специфичны и могут быть не документированными, поэтому добавить их в Linux трудно.</p>
-<p class="p">К сожалению, не существует простого способа применить эти тонкие настройки без точного знания, какой именно эффект они дают. Тем не менее, возможно, некоторые <span class="link"><a href="power-batterylife.html" title="Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора">способы экономии энергии</a></span> смогут помочь. Также полезным может оказаться изменение <span class="link"><a href="power-batteryslow.html" title="Почему работа моего ноутбука замедляется при питании от аккумулятора?">частоты процессора</a></span>.</p>
+<p class="p">К сожалению, не существует простого способа применить эти тонкие настройки без точного знания, какой именно эффект они дают. Тем не менее, возможно, некоторые <span class="link"><a href="power-batterylife.html.ru" title="Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора">способы экономии энергии</a></span> смогут помочь. Также полезным может оказаться изменение <span class="link"><a href="power-batteryslow.html.ru" title="Почему работа моего ноутбука замедляется при питании от аккумулятора?">частоты процессора</a></span>.</p>
 <p class="p">Ещё одной возможной причиной несоответствия может быть различие в методах оценки оставшегося времени работы от аккумулятора в Windows/Mac OS и в Linux. Реальное время работы может быть одним и тем же, но разные методы дают разные оценочные значения.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,19 +62,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Questions">Questions</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.ru#faq" title="Questions">Questions</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batteryestimate.html" title="Неправильная оценка времени работы от аккумулятора">Неправильная оценка времени работы от аккумулятора</a><span class="desc"> — Оставшееся время работы, отображаемое при нажатии на <span class="gui">значок аккумулятора</span>, является приблизительным.</span>
+<a href="power-batteryestimate.html.ru" title="Неправильная оценка времени работы от аккумулятора">Неправильная оценка времени работы от аккумулятора</a><span class="desc"> — Оставшееся время работы, отображаемое при нажатии на <span class="gui">значок аккумулятора</span>, является приблизительным.</span>
 </li>
 <li class="links ">
-<a href="power-batteryslow.html" title="Почему работа моего ноутбука замедляется при питании от аккумулятора?">Почему работа моего ноутбука замедляется при питании от аккумулятора?</a><span class="desc"> — Некоторые ноутбуки намеренно замедляют работу при питании от аккумулятора.</span>
+<a href="power-batteryslow.html.ru" title="Почему работа моего ноутбука замедляется при питании от аккумулятора?">Почему работа моего ноутбука замедляется при питании от аккумулятора?</a><span class="desc"> — Некоторые ноутбуки намеренно замедляют работу при питании от аккумулятора.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора">Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора</a><span class="desc"> — Советы по уменьшению энергопотребления компьютера</span>
+<a href="power-batterylife.html.ru" title="Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора">Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора</a><span class="desc"> — Советы по уменьшению энергопотребления компьютера</span>
 </li>
 </ul></div>
 </div></div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.en" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.en#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="Sharing">Sharing</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.en" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.en" title="Sharing">Sharing</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -186,12 +186,12 @@ internet/network address.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">More Information</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
+<li class="links "><a href="files.html.en#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
 <li class="links ">
-<a href="sharing.html" title="Sharing">Sharing</a><span class="desc"> — 
-      <span class="link"><a href="sharing-desktop.html" title="Share your desktop">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html" title="Share files by email">Share files by email</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Share your music, photos and videos">Media sharing</a></span>…
+<a href="sharing.html.en" title="Sharing">Sharing</a><span class="desc"> — 
+      <span class="link"><a href="sharing-desktop.html.en" title="Share your desktop">Desktop sharing</a></span>,
+      <span class="link"><a href="files-share.html.en" title="Share files by email">Share files by email</a></span>,
+      <span class="link"><a href="sharing-media.html.en" title="Share your music, photos and videos">Media sharing</a></span>…
     </span>
 </li>
 </ul></div>
@@ -199,7 +199,7 @@ internet/network address.</p>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">See Also</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="Share files by email">Share files by email</a><span class="desc"> — Easily transfer files to your email contacts from the file
+<a href="files-share.html.en" title="Share files by email">Share files by email</a><span class="desc"> — Easily transfer files to your email contacts from the file
     manager.</span>
 </li></ul></div>
 </div></div>

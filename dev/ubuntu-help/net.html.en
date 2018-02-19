@@ -43,83 +43,83 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Networking, web &amp; email</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html" title="Wireless Networking">Wireless Networking</a></div>
+<div class="links-grid-link"><a href="net-wireless.html.en" title="Wireless Networking">Wireless Networking</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
+      <span class="link"><a href="net-wireless-connect.html.en" title="Connect to a wireless network">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.en" title="Connect to a hidden wireless network">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.en" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-chat.html" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a></div>
+<div class="links-grid-link"><a href="net-chat.html.en" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-chat-empathy.html" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Video calls">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="How can I use Skype on Ubuntu?">install skype</a></span>
+      <span class="link"><a href="net-chat-empathy.html.en" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.en" title="Video calls">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.en" title="How can I use Skype on Ubuntu?">install skype</a></span>
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="contacts.html" title="Contacts">Contacts</a></div>
+<div class="links-grid-link"><a href="contacts.html.en" title="Contacts">Contacts</a></div>
 <div class="desc"><span class="desc">Access your contacts.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-email.html" title="Email &amp; email software">Email &amp; email software</a></div>
+<div class="links-grid-link"><a href="net-email.html.en" title="Email &amp; email software">Email &amp; email software</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-email.html" title="Change which mail application is used to write emails">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html" title="Do I need to scan my emails for viruses?">Should I scan for viruses?</a></span>…
+      <span class="link"><a href="net-default-email.html.en" title="Change which mail application is used to write emails">Default email apps</a></span>,
+      <span class="link"><a href="net-email-virus.html.en" title="Do I need to scan my emails for viruses?">Should I scan for viruses?</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-security.html" title="Keeping safe on the internet">Keeping safe on the internet</a></div>
+<div class="links-grid-link"><a href="net-security.html.en" title="Keeping safe on the internet">Keeping safe on the internet</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-antivirus.html" title="Do I need anti-virus software?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Enable or block firewall access">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Commonly-used network ports">firewall ports</a></span>…
+      <span class="link"><a href="net-antivirus.html.en" title="Do I need anti-virus software?">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.en" title="Enable or block firewall access">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.en" title="Commonly-used network ports">firewall ports</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-problem.html" title="Network problems">Network problems</a></div>
+<div class="links-grid-link"><a href="net-problem.html.en" title="Network problems">Network problems</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
+      <span class="link"><a href="net-wireless-troubleshooting.html.en" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.en" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-general.html" title="Networking terms &amp; tips">Networking terms &amp; tips</a></div>
+<div class="links-grid-link"><a href="net-general.html.en" title="Networking terms &amp; tips">Networking terms &amp; tips</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-findip.html" title="Find your IP address">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html" title="What is a MAC address?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html" title="Define proxy settings">proxies</a></span>…
+      <span class="link"><a href="net-findip.html.en" title="Find your IP address">Find your IP address</a></span>,
+      <span class="link"><a href="net-wireless-wepwpa.html.en" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
+      <span class="link"><a href="net-macaddress.html.en" title="What is a MAC address?">MAC addresses</a></span>,
+      <span class="link"><a href="net-proxy.html.en" title="Define proxy settings">proxies</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="sharing.html" title="Sharing">Sharing</a></div>
+<div class="links-grid-link"><a href="sharing.html.en" title="Sharing">Sharing</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="sharing-desktop.html" title="Share your desktop">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html" title="Share files by email">Share files by email</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Share your music, photos and videos">Media sharing</a></span>…
+      <span class="link"><a href="sharing-desktop.html.en" title="Share your desktop">Desktop sharing</a></span>,
+      <span class="link"><a href="files-share.html.en" title="Share files by email">Share files by email</a></span>,
+      <span class="link"><a href="sharing-media.html.en" title="Share your music, photos and videos">Media sharing</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html" title="Web Browsers">Web Browsers</a></div>
+<div class="links-grid-link"><a href="net-browser.html.en" title="Web Browsers">Web Browsers</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="Install the Flash plug-in">install Flash</a></span>…
+      <span class="link"><a href="net-default-browser.html.en" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-install-flash.html.en" title="Install the Flash plug-in">install Flash</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html" title="Wired Networking">Wired Networking</a></div>
+<div class="links-grid-link"><a href="net-wired.html.en" title="Wired Networking">Wired Networking</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wired-connect.html" title="Connect to a wired (Ethernet) network">Wired internet connections</a></span>,
-      <span class="link"><a href="net-fixed-ip-address.html" title="Create a connection with a fixed IP address">Fixed IP addresses</a></span>…
+      <span class="link"><a href="net-wired-connect.html.en" title="Connect to a wired (Ethernet) network">Wired internet connections</a></span>,
+      <span class="link"><a href="net-fixed-ip-address.html.en" title="Create a connection with a fixed IP address">Fixed IP addresses</a></span>…
     </span></div>
 </div>
 </div></div></div></div>
@@ -128,11 +128,11 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">More Information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.en" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">See Also</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-get-online.html" title="Get online">A tutorial on getting online</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-get-online.html.en" title="Get online">A tutorial on getting online</a></li></ul></div>
 </div></div>
 </div>
 </div>

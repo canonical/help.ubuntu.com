@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Специальные возможности">Специальные возможности</a> › <a class="trail" href="a11y.html#sound" title="Ограничения слуха">Ограничения слуха</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ru" title="Специальные возможности">Специальные возможности</a> › <a class="trail" href="a11y.html.ru#sound" title="Ограничения слуха">Ограничения слуха</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Мигание экрана при звуковых сигналах</span></h1></div>
@@ -51,29 +51,29 @@
 <div class="contents">
 <p class="p">Для некоторых типов сообщений и событий компьютер воспроизводит звуковые уведомления. Если вам трудно их услышать, можно сделать так, чтобы при воспроизведении уведомлений мигал либо весь экран, либо текущее окно.</p>
 <p class="p">This can also be useful if you’re in an environment where you need your
-  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="Выбор или отключение звуковых уведомлений">Выбор или отключение звуковых уведомлений</a></span>
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html.ru" title="Выбор или отключение звуковых уведомлений">Выбор или отключение звуковых уведомлений</a></span>
   to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Универсальный доступ</span>, чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Визуальные уведомления</span> во вкладке <span class="gui">Слух</span>.</p></li>
 <li class="steps"><p class="p">Измените переключатель <span class="gui">Визуальные уведомления</span> в положение <span class="gui">Включено</span>.</p></li>
 <li class="steps"><p class="p">Выберите по желанию, будет ли мигать только заголовок окна или весь экран.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">Чтобы быстро включить или отключить визуальные уведомления, нажмите на <span class="link"><a href="a11y-icon.html" title="Найдите меню универсального доступа">значок специальных возможностей</a></span> в верхней панели и измените положение переключателя <span class="gui">Визуальные предупреждения</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">Чтобы быстро включить или отключить визуальные уведомления, нажмите на <span class="link"><a href="a11y-icon.html.ru" title="Найдите меню универсального доступа">значок специальных возможностей</a></span> в верхней панели и измените положение переключателя <span class="gui">Визуальные предупреждения</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#sound" title="Ограничения слуха">Ограничения слуха</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.ru#sound" title="Ограничения слуха">Ограничения слуха</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-alert.html" title="Выбор или отключение звуковых уведомлений">Выбор или отключение звуковых уведомлений</a><span class="desc"> — Выберите звук для уведомлений, настройте их громкость или отключите звуковые уведомления.</span>
+<a href="sound-alert.html.ru" title="Выбор или отключение звуковых уведомлений">Выбор или отключение звуковых уведомлений</a><span class="desc"> — Выберите звук для уведомлений, настройте их громкость или отключите звуковые уведомления.</span>
 </li></ul></div>
 </div></div>
 </div>

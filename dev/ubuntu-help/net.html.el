@@ -43,58 +43,58 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html" title="Σύνδεση σε ασύρματο δίκτυο">Σύνδεση σε wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Σύνδεση σε κρυφό ασύρματο δίκτυο">Κρυφά δίκτυα</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;">Αποσύνδεση</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.el" title="Σύνδεση σε ασύρματο δίκτυο">Σύνδεση σε wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.el" title="Σύνδεση σε κρυφό ασύρματο δίκτυο">Κρυφά δίκτυα</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.el" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;">Αποσύνδεση</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-general.html" title="Όροι δικτύωσης &amp; συμβουλές">Όροι δικτύωσης &amp; συμβουλές</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html" title="Βρείτε τη διεύθυνση IP σας">Βρείτε τη διεύθυνσή σας IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Τι σημαίνουν τα WEP και WPA;">WEP &amp; ασφάλεια WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Τι είναι μια διεύθυνση MAC;">Διευθύνσεις MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Ορισμός ρυθμίσεων διαμεσολαβητή">Διαμεσολαβητές</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-general.html.el" title="Όροι δικτύωσης &amp; συμβουλές">Όροι δικτύωσης &amp; συμβουλές</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.el" title="Βρείτε τη διεύθυνση IP σας">Βρείτε τη διεύθυνσή σας IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.el" title="Τι σημαίνουν τα WEP και WPA;">WEP &amp; ασφάλεια WPA</a></span>, <span class="link"><a href="net-macaddress.html.el" title="Τι είναι μια διεύθυνση MAC;">Διευθύνσεις MAC</a></span>, <span class="link"><a href="net-proxy.html.el" title="Ορισμός ρυθμίσεων διαμεσολαβητή">Διαμεσολαβητές</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html" title="Σύνδεση σε ενσύρματο δίκτυο (Ethernet)">Ενσύρματες συνδέσεις διαδικτύου</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Δημιουργία σύνδεσης με σταθερή διεύθυνση IP">Σταθερές διευθύνσεις IP</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.el" title="Σύνδεση σε ενσύρματο δίκτυο (Ethernet)">Ενσύρματες συνδέσεις διαδικτύου</a></span>, <span class="link"><a href="net-fixed-ip-address.html.el" title="Δημιουργία σύνδεσης με σταθερή διεύθυνση IP">Σταθερές διευθύνσεις IP</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="contacts.html" title="Επαφές">Επαφές</a></div>
+<div class="links-grid-link"><a href="contacts.html.el" title="Επαφές">Επαφές</a></div>
 <div class="desc"><span class="desc">Προσπελάστε τις επαφές σας.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-email.html" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-default-email.html" title="Αλλάξτε ποια εφαρμογή αλληλογραφίας χρησιμοποιείται για συγγραφή ηλεκτρονικής αλληλογραφίας">Προεπιλεγμένες εφαρμογές αλληλογραφίας</a></span>, <span class="link"><a href="net-email-virus.html" title="Χρειάζεται να σαρώνω την ηλεκτρονική αλληλογγραφία μου για ιούς;">Πρέπει να σαρώσω τον υπολογιστή μου για ιούς;</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-email.html.el" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-email.html.el" title="Αλλάξτε ποια εφαρμογή αλληλογραφίας χρησιμοποιείται για συγγραφή ηλεκτρονικής αλληλογραφίας">Προεπιλεγμένες εφαρμογές αλληλογραφίας</a></span>, <span class="link"><a href="net-email-virus.html.el" title="Χρειάζεται να σαρώνω την ηλεκτρονική αλληλογγραφία μου για ιούς;">Πρέπει να σαρώσω τον υπολογιστή μου για ιούς;</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="sharing.html" title="Κοινή χρήση">Κοινή χρήση</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html" title="Κοινή χρήση της επιφάνειας εργασίας σας">Κοινή χρήση επιφάνειας εργασίας</a></span>, <span class="link"><a href="files-share.html" title="Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία">Κοινή χρήση αρχείων μέσω ηλεκτρονικής αλληλογραφίας</a></span>, <span class="link"><a href="sharing-media.html" title="Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας">Κοινή χρήση πολυμέσων</a></span>…</span></div>
+<div class="links-grid-link"><a href="sharing.html.el" title="Κοινή χρήση">Κοινή χρήση</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html.el" title="Κοινή χρήση της επιφάνειας εργασίας σας">Κοινή χρήση επιφάνειας εργασίας</a></span>, <span class="link"><a href="files-share.html.el" title="Κοινή χρήση αρχείων με ηλεκτρονική αλληλογραφία">Κοινή χρήση αρχείων μέσω ηλεκτρονικής αλληλογραφίας</a></span>, <span class="link"><a href="sharing-media.html.el" title="Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας">Κοινή χρήση πολυμέσων</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-security.html" title="Μένοντας ασφαλής στο διαδίκτυο">Μένοντας ασφαλής στο διαδίκτυο</a></div>
+<div class="links-grid-link"><a href="net-security.html.el" title="Μένοντας ασφαλής στο διαδίκτυο">Μένοντας ασφαλής στο διαδίκτυο</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-antivirus.html" title="Χρειάζομαι λογισμικό προστασίας από ιούς;">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Ενεργοποιήστε ή φράξτε την πρόσβαση τείχους προστασίας">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Κοινές χρησιμοποιούμενες θύρες δικτύου">firewall ports</a></span>…
+      <span class="link"><a href="net-antivirus.html.el" title="Χρειάζομαι λογισμικό προστασίας από ιούς;">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.el" title="Ενεργοποιήστε ή φράξτε την πρόσβαση τείχους προστασίας">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.el" title="Κοινές χρησιμοποιούμενες θύρες δικτύου">firewall ports</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html" title="Περιηγητές Ιστού">Περιηγητές Ιστού</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html" title="Αλλαγή του προεπιλεγμένου περιηγητή διαδικτύου">Αλλαγή προεπιλεγμένου περιηγητή</a></span>, <span class="link"><a href="net-install-flash.html" title="Εγκατάσταση πρόσθετου για το flash">Εγκατάσταση του Flash</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-browser.html.el" title="Περιηγητές Ιστού">Περιηγητές Ιστού</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.el" title="Αλλαγή του προεπιλεγμένου περιηγητή διαδικτύου">Αλλαγή προεπιλεγμένου περιηγητή</a></span>, <span class="link"><a href="net-install-flash.html.el" title="Εγκατάσταση πρόσθετου για το flash">Εγκατάσταση του Flash</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Αντιμετώπιση προβλημάτων ασύρματων συνδέσεων</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">Εύρεση του δικτύου wifi</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-problem.html.el" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.el" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Αντιμετώπιση προβλημάτων ασύρματων συνδέσεων</a></span>, <span class="link"><a href="net-wireless-find.html.el" title="I can’t see my wireless network in the list">Εύρεση του δικτύου wifi</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-chat.html" title="Συνομιλία &amp; Κοινωνική δικτύωση">Συνομιλία &amp; Κοινωνική δικτύωση</a></div>
+<div class="links-grid-link"><a href="net-chat.html.el" title="Συνομιλία &amp; Κοινωνική δικτύωση">Συνομιλία &amp; Κοινωνική δικτύωση</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-chat-empathy.html" title="Άμεσα μηνύματα στο Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Βιντεοκλήσεις">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Πώς μπορώ να χρησιμοποιήσω το Skype στο Ubuntu ;">install skype</a></span>
+      <span class="link"><a href="net-chat-empathy.html.el" title="Άμεσα μηνύματα στο Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.el" title="Βιντεοκλήσεις">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.el" title="Πώς μπορώ να χρησιμοποιήσω το Skype στο Ubuntu ;">install skype</a></span>
     </span></div>
 </div>
 </div></div></div></div>
@@ -103,11 +103,11 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Οδηγός χρήσης Ubuntu">Οδηγός χρήσης Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.el" title="Οδηγός χρήσης Ubuntu">Οδηγός χρήσης Ubuntu</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-get-online.html" title="Σύνδεση στο δίκτυο">Ένα μάθημα στη λήψη δικτύου</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-get-online.html.el" title="Σύνδεση στο δίκτυο">Ένα μάθημα στη λήψη δικτύου</a></li></ul></div>
 </div></div>
 </div>
 </div>

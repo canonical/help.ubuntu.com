@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ihre Arbeitsumgebung">Schreibtisch</a> › <a class="trail" href="shell-overview.html#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a> » <a class="trail" href="shell-windows.html" title="Fenster und Arbeitsflächen">Fenster und Arbeitsflächen</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Arbeiten mit Fenstern">Fenster</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.de" title="Ihre Arbeitsumgebung">Schreibtisch</a> › <a class="trail" href="shell-overview.html.de#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a> » <a class="trail" href="shell-windows.html.de" title="Fenster und Arbeitsflächen">Fenster und Arbeitsflächen</a> › <a class="trail" href="shell-windows.html.de#working-with-windows" title="Arbeiten mit Fenstern">Fenster</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Gekachelte Fenster</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Sie können ein Fenster auch nur an der linken oder rechten Seite des Bildschirms maximieren. So können Sie zwei Fenster nebeneinander platzieren, um schnell zwischen ihnen wechseln zu können.</p>
-<p class="p">Um ein Fenster entlang einer Seite des Bildschirms zu maximieren, klicken Sie auf die Titelleiste und halten Sie die Maustaste gedrückt. Ziehen Sie es dann an die linke oder rechte Seite, bis die Hälfte des Bildschirms hervorgehoben wird. Mit der Tastatur halten Sie die <span class="link"><a href="keyboard-key-super.html" title="Was ist die Super-Taste?">Super-Taste</a></span> gedrückt und drücken die Pfeiltasten <span class="key"><kbd>Links</kbd></span> oder <span class="key"><kbd>Rechts</kbd></span> key.</p>
+<p class="p">Um ein Fenster entlang einer Seite des Bildschirms zu maximieren, klicken Sie auf die Titelleiste und halten Sie die Maustaste gedrückt. Ziehen Sie es dann an die linke oder rechte Seite, bis die Hälfte des Bildschirms hervorgehoben wird. Mit der Tastatur halten Sie die <span class="link"><a href="keyboard-key-super.html.de" title="Was ist die Super-Taste?">Super-Taste</a></span> gedrückt und drücken die Pfeiltasten <span class="key"><kbd>Links</kbd></span> oder <span class="key"><kbd>Rechts</kbd></span> key.</p>
 <p class="p">Um ein Fenster in seiner ursprünglichen Größe wiederherzustellen, ziehen Sie es weg vom Rand des Bildschirms oder verwenden Sie die gleiche Tastenkombination wie für das Maximieren.</p>
 <div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Halten Sie die <span class="key"><kbd>Alt</kbd></span>-Taste gedrückt und klicken Sie es an einer beliebigen Stelle an, um es zu ziehen.</p></div></div></div></div>
 </div>
@@ -59,12 +59,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Arbeiten mit Fenstern">Arbeiten mit Fenstern</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.de#working-with-windows" title="Arbeiten mit Fenstern">Arbeiten mit Fenstern</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-maximize.html" title="Ein Fenster maximieren und wiederherstellen">Ein Fenster maximieren und wiederherstellen</a><span class="desc"> — Doppelklicken Sie auf die Titelleiste des Fensters, um es zu maximieren oder wiederherzustellen.</span>
+<a href="shell-windows-maximize.html.de" title="Ein Fenster maximieren und wiederherstellen">Ein Fenster maximieren und wiederherstellen</a><span class="desc"> — Doppelklicken Sie auf die Titelleiste des Fensters, um es zu maximieren oder wiederherzustellen.</span>
 </li></ul></div>
 </div></div>
 </div>

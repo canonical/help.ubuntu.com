@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="user-accounts.html" title="Lietotāju konti">Lietotāji</a> › <a class="trail" href="user-accounts.html#privileges" title="Lietotāju tiesības">Tiesības</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="user-accounts.html.lv" title="Lietotāju konti">Lietotāji</a> › <a class="trail" href="user-accounts.html.lv#privileges" title="Lietotāju tiesības">Tiesības</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kā strādā administratīvās tiesības?</span></h1></div>
@@ -72,34 +72,34 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Lietotāju tiesības">Lietotāju tiesības</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.lv#privileges" title="Lietotāju tiesības">Lietotāju tiesības</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-othersedit.html" title="Citi lietotāji nevar rediģēt tīkla savienojumus">Citi lietotāji nevar rediģēt tīkla savienojumus</a><span class="desc"> — Jums vajag atslēgt <span class="gui">Pieejams visiem lietotājiem</span> opciju tīkla savienojumu iestatījumos.</span>
+<a href="net-othersedit.html.lv" title="Citi lietotāji nevar rediģēt tīkla savienojumus">Citi lietotāji nevar rediģēt tīkla savienojumus</a><span class="desc"> — Jums vajag atslēgt <span class="gui">Pieejams visiem lietotājiem</span> opciju tīkla savienojumu iestatījumos.</span>
 </li>
 <li class="links ">
-<a href="user-delete.html" title="Dzēst lietotāja kontu">Dzēst lietotāja kontu</a><span class="desc"> — Izņemt no sistēmas lietotājus, kas datoru vairs neizmanto.</span>
+<a href="user-delete.html.lv" title="Dzēst lietotāja kontu">Dzēst lietotāja kontu</a><span class="desc"> — Izņemt no sistēmas lietotājus, kas datoru vairs neizmanto.</span>
 </li>
 <li class="links ">
-<a href="printing-setup-default-printer.html" title="Iestatīt noklusējuma printeri">Iestatīt noklusējuma printeri</a><span class="desc"> — Izvēlieties printeri, kuru izmantojat visbiežāk.</span>
+<a href="printing-setup-default-printer.html.lv" title="Iestatīt noklusējuma printeri">Iestatīt noklusējuma printeri</a><span class="desc"> — Izvēlieties printeri, kuru izmantojat visbiežāk.</span>
 </li>
 <li class="links ">
-<a href="user-changepicture.html" title="Nomainīt ierakstīšanās ekrāna attēlu">Nomainīt ierakstīšanās ekrāna attēlu</a><span class="desc"> — Pievienot savu fotogrāfiju ierakstīšanās un lietotāju ekrāniem.</span>
+<a href="user-changepicture.html.lv" title="Nomainīt ierakstīšanās ekrāna attēlu">Nomainīt ierakstīšanās ekrāna attēlu</a><span class="desc"> — Pievienot savu fotogrāfiju ierakstīšanās un lietotāju ekrāniem.</span>
 </li>
 <li class="links ">
-<a href="user-changepassword.html" title="Nomainīt paroli">Nomainīt paroli</a><span class="desc"> — Uzturiet sava konta drošību, bieži nomainot paroli konta iestatījumos.</span>
+<a href="user-changepassword.html.lv" title="Nomainīt paroli">Nomainīt paroli</a><span class="desc"> — Uzturiet sava konta drošību, bieži nomainot paroli konta iestatījumos.</span>
 </li>
 <li class="links ">
-<a href="printing-name-location.html" title="Nomainīt printera nosaukumu vai atrašanās vietu">Nomainīt printera nosaukumu vai atrašanās vietu</a><span class="desc"> — Mainiet printera nosaukumu vai atrašanās vietu printera iestatījumos.</span>
+<a href="printing-name-location.html.lv" title="Nomainīt printera nosaukumu vai atrašanās vietu">Nomainīt printera nosaukumu vai atrašanās vietu</a><span class="desc"> — Mainiet printera nosaukumu vai atrašanās vietu printera iestatījumos.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="Piešķirt vai noņemt administratīvās tiesības">Piešķirt vai noņemt administratīvās tiesības</a><span class="desc"> — Jūs varat ļaut lietotājiem veikt izmaiņas sistēmā, piešķirot viņiem administratīvās tiesības.</span>
+<a href="user-admin-change.html.lv" title="Piešķirt vai noņemt administratīvās tiesības">Piešķirt vai noņemt administratīvās tiesības</a><span class="desc"> — Jūs varat ļaut lietotājiem veikt izmaiņas sistēmā, piešķirot viņiem administratīvās tiesības.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="Problēmas, ko izraisa administratīvie ierobežojumi">Problēmas, ko izraisa administratīvie ierobežojumi</a><span class="desc"> — Dažas darbības, piemēram, lietotņu instalēšanu, iespējams veikt tikai ar administratora tiesībām.</span>
+<a href="user-admin-problems.html.lv" title="Problēmas, ko izraisa administratīvie ierobežojumi">Problēmas, ko izraisa administratīvie ierobežojumi</a><span class="desc"> — Dažas darbības, piemēram, lietotņu instalēšanu, iespējams veikt tikai ar administratora tiesībām.</span>
 </li>
 </ul></div>
 </div></div>

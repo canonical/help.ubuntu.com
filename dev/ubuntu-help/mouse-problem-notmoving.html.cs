@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="mouse.html" title="Myš">Myš</a> › <a class="trail" href="mouse.html#problems" title="Běžné problémy">Obvyklé problémy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="mouse.html.cs" title="Myš">Myš</a> › <a class="trail" href="mouse.html.cs#problems" title="Běžné problémy">Obvyklé problémy</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="mouse.html" title="Myš">Myš</a> › <a class="trail" href="mouse.html#problems" title="Běžné problémy">Obvyklé problémy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="mouse.html.cs" title="Myš">Myš</a> › <a class="trail" href="mouse.html.cs#problems" title="Běžné problémy">Obvyklé problémy</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ukazatel myši se nepohybuje</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Zkontrolujte, že je myš připojená">Zkontrolujte, že je myš připojená</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Zkontrolujte, jestli je myš funkční">Zkontrolujte, jestli je myš funkční</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Kontrola bezdrátové myši">Kontrola bezdrátové myši</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.cs#plugged-in" title="Zkontrolujte, že je myš připojená">Zkontrolujte, že je myš připojená</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.cs#broken" title="Zkontrolujte, jestli je myš funkční">Zkontrolujte, jestli je myš funkční</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.cs#wireless-mice" title="Kontrola bezdrátové myši">Kontrola bezdrátové myši</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Zkontrolujte, že je myš připojená</span></h2></div>
@@ -76,8 +76,8 @@
 <div class="region"><div class="contents">
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Ujistěte se, že je myš zapnutá. Často bývá na spodní straně vypínač, kterým se dá úplně vypnout, abyste ji mohli přenášet, aniž by se neustále probouzela.</p></li>
-<li class="list"><p class="p">Pokud používáte myš Bluetooth, ujistěte se, že ji máte správně spárovanou se svým počítačem. Viz <span class="link"><a href="bluetooth-connect-device.html" title="Připojení počítače k zařízení Bluetooth">Připojení počítače k zařízení Bluetooth</a></span>.</p></li>
-<li class="list"><p class="p">Klikněte tlačítkem a podívejte se, jestli se ukazatel myši dokáže pohybovat. Některé bezdrátové myši se při uspání kvůli úspoře energie neprobudí, dokud nekliknete tlačítkem. Viz <span class="link"><a href="mouse-wakeup.html" title="Myš začne fungovat až po nějaké prodlevě">Myš začne fungovat až po nějaké prodlevě</a></span>.</p></li>
+<li class="list"><p class="p">Pokud používáte myš Bluetooth, ujistěte se, že ji máte správně spárovanou se svým počítačem. Viz <span class="link"><a href="bluetooth-connect-device.html.cs" title="Připojení počítače k zařízení Bluetooth">Připojení počítače k zařízení Bluetooth</a></span>.</p></li>
+<li class="list"><p class="p">Klikněte tlačítkem a podívejte se, jestli se ukazatel myši dokáže pohybovat. Některé bezdrátové myši se při uspání kvůli úspoře energie neprobudí, dokud nekliknete tlačítkem. Viz <span class="link"><a href="mouse-wakeup.html.cs" title="Myš začne fungovat až po nějaké prodlevě">Myš začne fungovat až po nějaké prodlevě</a></span>.</p></li>
 <li class="list"><p class="p">Zkontrolujte, jestli jsou baterie v myši nabité.</p></li>
 <li class="list"><p class="p">Ujistěte se, že přijímač je pořádně zastrčený do počítače.</p></li>
 <li class="list"><p class="p">Pokud vaše myš a přijímač umí pracovat na různých rádiových kanálech, ujistěte se, že oba používají ten samý kanál.</p></li>
@@ -90,7 +90,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Běžné problémy">Obvyklé problémy s myší</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.cs#problems" title="Běžné problémy">Obvyklé problémy s myší</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

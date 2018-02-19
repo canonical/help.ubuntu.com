@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="bluetooth.html.sl" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kaj je vidnost Bluetooth?</span></h1></div>
@@ -54,16 +54,16 @@
   on and the <span class="gui">Bluetooth</span> panel is open, your computer will advertize
   itself to all other devices within range, allowing them to attempt to connect
   to your computer.</p>
-<div class="note note-tip" title="Namig"><div class="inner"><div class="region"><div class="contents"><p class="p">You can <span class="link"><a href="sharing-displayname.html" title="Set the display name for your computer">change</a></span> the name your
+<div class="note note-tip" title="Namig"><div class="inner"><div class="region"><div class="contents"><p class="p">You can <span class="link"><a href="sharing-displayname.html.sl" title="Set the display name for your computer">change</a></span> the name your
     computer displays to other devices.</p></div></div></div></div>
-<p class="p">Ko ste se <span class="link"><a href="bluetooth-connect-device.html" title="Povezava računalnika z napravo Bluetooth.">povezali z napravo</a></span> za sporazumevanje ni zahtevana ne vidnost računalnika in ne naprave. </p>
+<p class="p">Ko ste se <span class="link"><a href="bluetooth-connect-device.html.sl" title="Povezava računalnika z napravo Bluetooth.">povezali z napravo</a></span> za sporazumevanje ni zahtevana ne vidnost računalnika in ne naprave. </p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Povezava računalnika z napravo Bluetooth.">Povezava</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">pošiljanje datotek</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Vklop ali izklop Bluetooth">vklop in izklop</a></span> …</span>
+<a href="bluetooth.html.sl" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.sl" title="Povezava računalnika z napravo Bluetooth.">Povezava</a></span>, <span class="link"><a href="bluetooth-send-file.html.sl" title="Send files to a Bluetooth device">pošiljanje datotek</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.sl" title="Vklop ali izklop Bluetooth">vklop in izklop</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="ಜಾಗತಿಕ ನಿಲುಕಣೆ">ಜಾಗತಿಕ ನಿಲುಕಣೆ</a> › <a class="trail" href="a11y.html#vision" title="Visual impairments">Visual impairments</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.kn" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.kn" title="ಜಾಗತಿಕ ನಿಲುಕಣೆ">ಜಾಗತಿಕ ನಿಲುಕಣೆ</a> › <a class="trail" href="a11y.html.kn#vision" title="Visual impairments">Visual impairments</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Magnify a screen area</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Magnifying the screen is different than just enlarging the
-  <span class="link"><a href="a11y-font-size.html" title="Change text size on the screen">text size</a></span>. This feature is like having a
+  <span class="link"><a href="a11y-font-size.html.kn" title="Change text size on the screen">text size</a></span>. This feature is like having a
   magnifying glass, allowing you to move around by zooming in on parts of the
   screen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.kn#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press on <span class="gui">Zoom</span> in the <span class="gui">Seeing</span> section.</p></li>
@@ -65,7 +65,7 @@
   of the screen, you will move the magnified area in different directions,
   allowing you to view your area of choice.</p>
 <div class="note note-tip" title="ಸಲಹೆ"><div class="inner"><div class="region"><div class="contents"><p class="p">You can quickly turn zoom on and off by clicking the
-    <span class="link"><a href="a11y-icon.html" title="Find the universal access menu">accessibility icon</a></span> on the top bar and
+    <span class="link"><a href="a11y-icon.html.kn" title="Find the universal access menu">accessibility icon</a></span> on the top bar and
     selecting <span class="gui">Zoom</span>.</p></div></div></div></div>
 <p class="p">You can change the magnification factor, the mouse tracking, and the
   position of the magnified view on the screen. Adjust these in the
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">ಇನ್ನಷ್ಟು ಮಾಹಿತಿ</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Visual impairments">Visual impairments</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.kn#vision" title="Visual impairments">Visual impairments</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

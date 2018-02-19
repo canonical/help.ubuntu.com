@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Palaist lietotnes</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Novietojiet peles kursoru uz <span class="gui">Aktivitātes</span> stūri augšējā kreisajā ekrāna stūrī, lai redzētu <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu. Šeit varēsiet atrast visas savas lietotnes. (Jūs varat arī atvērt pārskatu, nospiežot <span class="key"><a href="keyboard-key-super.html" title="Kas ir Super taustiņš?"><kbd>Super taustiņu</kbd></a></span>.)</p>
+<p class="p">Novietojiet peles kursoru uz <span class="gui">Aktivitātes</span> stūri augšējā kreisajā ekrāna stūrī, lai redzētu <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu. Šeit varēsiet atrast visas savas lietotnes. (Jūs varat arī atvērt pārskatu, nospiežot <span class="key"><a href="keyboard-key-super.html.lv" title="Kas ir Super taustiņš?"><kbd>Super taustiņu</kbd></a></span>.)</p>
 <p class="p">Ir vairāki veidi, kā atvērt lietotni, esot <span class="gui">Aktivitāšu</span> pārskatā:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Iesākat rakstīt lietotnes nosaukumu — meklēšana sāksies nekavējoties (ja tā nenotiek, spiediet meklēšanas joslu augšējā ekrāna daļā un sāciet rakstīt). Ja nezināt precīzu lietotnes nosaukumu, mēģiniet ievadīt saistītu vārdu. Spiediet uz lietojumikonas, lai palaistu lietotni.</p></li>
 <li class="list">
 <p class="p">Dažām lietotnēm <span class="em">panelī</span> ir ikonas, vertikālajā ikonu joslā kreisajā <span class="gui">Aktivitāšu</span> pārskata pusē. Spiediet uz vienu no tām, lai palaistu atbilstošo lietotni.</p>
-<p class="p">Ja jums ir lietotnes, kuras lietojiet ļoti bieži, jūs varat <span class="link"><a href="shell-apps-favorites.html" title="Pievienot savas iecienītās lietotnes panelim">pievienot tās pie paneļa</a></span> pats.</p>
+<p class="p">Ja jums ir lietotnes, kuras lietojiet ļoti bieži, jūs varat <span class="link"><a href="shell-apps-favorites.html.lv" title="Pievienot savas iecienītās lietotnes panelim">pievienot tās pie paneļa</a></span> pats.</p>
 </li>
 <li class="list"><p class="p">Spiediet uz režģa pogas paneļa apakšā. Jūs redzēsiet biežāk izmantotās lietotnes, ja būs aktivēts skats <span class="gui">Biežāk izmantotās</span>. Ja vēlaties palaist jaunu lietotni, spiediet pogu <span class="gui">Visas</span> apakšā, lai redzētu visas lietotnes. Spiediet uz lietotnes, lai to palaistu.</p></li>
 <li class="list">
-<p class="p">Lietotni var palaist atsevišķā <span class="link"><a href="shell-workspaces.html" title="Kas ir darbvieta un kā tā man palīdzēs?">darbvietā</a></span>, ievelkot tās ikonu no paneļa kādā no darbavietām ekrāna labajā pusē. Lietotne tiks atvērta izvēlētajā darbavietā.</p>
+<p class="p">Lietotni var palaist atsevišķā <span class="link"><a href="shell-workspaces.html.lv" title="Kas ir darbvieta un kā tā man palīdzēs?">darbvietā</a></span>, ievelkot tās ikonu no paneļa kādā no darbavietām ekrāna labajā pusē. Lietotne tiks atvērta izvēlētajā darbavietā.</p>
 <p class="p">Jūs varat palaist lietotni <span class="em">jaunā</span> darbvietā, velkot tā ikonu uz tukšu darbvietu, kas atrodas darbvietu pārslēdzēja apakšā, vai uz nelielo atstarpi starp divām darbvietām.</p>
 </li>
 </ul></div></div></div>
@@ -78,18 +78,18 @@
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html" title="Jūsu darbvirsma">Jūsu darbvirsma</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Kalendāra tikšanās">Kalendārs</a></span>, <span class="link"><a href="shell-notifications.html" title="Paziņojumi un ziņojumu paplāte">paziņojumi</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Noderīgas tastatūras saīsnes">tastatūras saīsnes</a></span>, <span class="link"><a href="shell-windows.html" title="Logi un darbvietas">logi un darbvirsmas</a></span>…</span>
+<a href="shell-overview.html.lv" title="Jūsu darbvirsma">Jūsu darbvirsma</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.lv" title="Kalendāra tikšanās">Kalendārs</a></span>, <span class="link"><a href="shell-notifications.html.lv" title="Paziņojumi un ziņojumu paplāte">paziņojumi</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.lv" title="Noderīgas tastatūras saīsnes">tastatūras saīsnes</a></span>, <span class="link"><a href="shell-windows.html.lv" title="Logi un darbvietas">logi un darbvirsmas</a></span>…</span>
 </li>
-<li class="links "><a href="index.html" title="Ubuntu darbvirsmas rokasgrāmata">Ubuntu darbvirsmas rokasgrāmata</a></li>
+<li class="links "><a href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata">Ubuntu darbvirsmas rokasgrāmata</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-use-system-search.html" title="Izmantot sistēmas meklēšanu">Ceļvedis sistēmas meklēšanas izmantošanā</a></li>
-<li class="links "><a href="gs-launch-applications.html" title="Palaist lietotnes">Lietotņu palaišanas ceļvedis</a></li>
+<li class="links "><a href="gs-use-system-search.html.lv" title="Izmantot sistēmas meklēšanu">Ceļvedis sistēmas meklēšanas izmantošanā</a></li>
+<li class="links "><a href="gs-launch-applications.html.lv" title="Palaist lietotnes">Lietotņu palaišanas ceļvedis</a></li>
 <li class="links ">
-<a href="shell-apps-favorites.html" title="Pievienot savas iecienītās lietotnes panelim">Pievienot savas iecienītās lietotnes panelim</a><span class="desc"> — Pievienot (vai izņemt) bieži lietoto programmu ikonas uz paneļa.</span>
+<a href="shell-apps-favorites.html.lv" title="Pievienot savas iecienītās lietotnes panelim">Pievienot savas iecienītās lietotnes panelim</a><span class="desc"> — Pievienot (vai izņemt) bieži lietoto programmu ikonas uz paneļa.</span>
 </li>
 </ul></div>
 </div></div>

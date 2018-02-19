@@ -43,15 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Начало работы">Начало работы с GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.ru" title="Начало работы">Начало работы с GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="Подключение к сети">Назад</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Подключение к сетевым учётным записям">Вперёд</a>
+<a class="nextlinks-prev" href="gs-get-online.html.ru" title="Подключение к сети">Назад</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.ru" title="Подключение к сетевым учётным записям">Вперёд</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Путешествие по Интернету</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Откройте <span class="gui">Обзор</span>, переместив указатель мыши в левый верхний угол, где находится надпись <span class="gui">Обзор</span>.</p></li>
+<li class="steps"><p class="p">Выберите значок веб-браузера <span class="app">Firefox</span> в панели с левой стороны экрана.</p></li>
+</ol></div></div></div>
+<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">Веб-браузер можно запустить <span class="link"><a href="gs-use-system-search.html.ru" title="Использование системного поиска">просто напечатав</a></span> <span class="em">Firefox</span> в <span class="gui">режиме обзора</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Нажмите на адресную строку в верхней части окна браузера и введите адрес сайта, который вы хотите открыть.</p></li>
 <li class="steps">
 <p class="p">При вводе адреса веб-сайта используется поиск по истории и закладкам веб-браузера, поэтому вам не нужно запоминать полный адрес сайта.</p>
@@ -59,9 +67,10 @@
 </li>
 <li class="steps"><p class="p">Вы можете выбрать веб-сайт в списке с помощью клавиш со стрелками.</p></li>
 <li class="steps"><p class="p">После того, как вы выберете веб-сайт, нажмите <span class="key"><kbd>Enter</kbd></span>, чтобы его открыть.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="Подключение к сети">Назад</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Подключение к сетевым учётным записям">Вперёд</a>
+<a class="nextlinks-prev" href="gs-get-online.html.ru" title="Подключение к сети">Назад</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.ru" title="Подключение к сетевым учётным записям">Вперёд</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -69,15 +78,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Начало работы">Начало работы с GNOME</a><span class="desc"> — Новичок в GNOME? Узнай, с чего начать.</span>
+<a href="getting-started.html.ru" title="Начало работы">Начало работы с GNOME</a><span class="desc"> — Новичок в GNOME? Узнай, с чего начать.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Веб-браузеры">Веб-браузеры</a><span class="desc"> — 
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="Установка Flash-плагина">install Flash</a></span>…
+<a href="net-browser.html.ru" title="Веб-браузеры">Веб-браузеры</a><span class="desc"> — 
+      <span class="link"><a href="net-default-browser.html.ru" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-install-flash.html.ru" title="Установка Flash-плагина">install Flash</a></span>…
     </span>
 </li></ul></div>
 </div></div>

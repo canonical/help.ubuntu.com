@@ -43,26 +43,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Jaringan Kabel</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html" title="Menyambung ke suatu jaringan (Ethernet) kabel"><span class="title">Menyambung ke suatu jaringan (Ethernet) kabel</span><span class="linkdiv-dash"> — </span><span class="desc">To set up most wired network connections, all you need to do is plug
+<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html.id" title="Menyambung ke suatu jaringan (Ethernet) kabel"><span class="title">Menyambung ke suatu jaringan (Ethernet) kabel</span><span class="linkdiv-dash"> — </span><span class="desc">To set up most wired network connections, all you need to do is plug
     in a network cable.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html" title="Buat suatu koneksi dengan suatu alamat IP yang tetap"><span class="title">Buat suatu koneksi dengan suatu alamat IP yang tetap</span><span class="linkdiv-dash"> — </span><span class="desc">Using a static IP address can make it easier to provide some network
+<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html.id" title="Buat suatu koneksi dengan suatu alamat IP yang tetap"><span class="title">Buat suatu koneksi dengan suatu alamat IP yang tetap</span><span class="linkdiv-dash"> — </span><span class="desc">Using a static IP address can make it easier to provide some network
     services from your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Menata pengaturan jaringan secara manual"><span class="title">Menata pengaturan jaringan secara manual</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html.id" title="Menata pengaturan jaringan secara manual"><span class="title">Menata pengaturan jaringan secara manual</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
     automatically.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Menyambung ke VPN"><span class="title">Menyambung ke VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html.id" title="Menyambung ke VPN"><span class="title">Menyambung ke VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Jaringan Nirkabel">Nirkabel</a></span>, <span class="link"><a href="net-wired.html" title="Jaringan Kabel">ethernet</a></span>, <span class="link"><a href="net-problem.html" title="Masalah jaringan">masalah koneksi</a></span>, <span class="link"><a href="net-browser.html" title="Peramban Web">meramban web</a></span>, <span class="link"><a href="net-email.html" title="Surel &amp; perangkat lunak surel">akun surel</a></span>…</span>
+<a href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.id" title="Jaringan Nirkabel">Nirkabel</a></span>, <span class="link"><a href="net-wired.html.id" title="Jaringan Kabel">ethernet</a></span>, <span class="link"><a href="net-problem.html.id" title="Masalah jaringan">masalah koneksi</a></span>, <span class="link"><a href="net-browser.html.id" title="Peramban Web">meramban web</a></span>, <span class="link"><a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">akun surel</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

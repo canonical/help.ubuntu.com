@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html" title="Akses universal">Akses universal</a> › <a class="trail" href="a11y.html#mobility" title="Masalah mobilitas">Masalah mobilitas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html.id" title="Akses universal">Akses universal</a> › <a class="trail" href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="keyboard.html" title="Papan tik">Papan tik</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="keyboard.html.id" title="Papan tik">Papan tik</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="keyboard.html" title="Papan tik">Papan tik</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="keyboard.html.id" title="Papan tik">Papan tik</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,10 +58,10 @@
 <p class="p">This page details keyboard navigation for people who cannot use a mouse or
   other pointing device, or who want to use a keyboard as much as possible. For
   keyboard shortcuts that are useful to all users, see
-  <span class="link"><a href="shell-keyboard-shortcuts.html" title="Pintasan papan tik yang berguna">Pintasan papan tik yang berguna</a></span> instead.</p>
+  <span class="link"><a href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna">Pintasan papan tik yang berguna</a></span> instead.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If you cannot use a pointing device like a mouse, you can control the
     mouse pointer using the numeric keypad on your keyboard. See
-    <span class="link"><a href="mouse-mousekeys.html" title="Klik dan gerakkan penunjuk tetikus memakai keypad">Klik dan gerakkan penunjuk tetikus memakai keypad</a></span> for details.</p></div></div></div></div>
+    <span class="link"><a href="mouse-mousekeys.html.id" title="Klik dan gerakkan penunjuk tetikus memakai keypad">Klik dan gerakkan penunjuk tetikus memakai keypad</a></span> for details.</p></div></div></div></div>
 <div class="table"><div class="inner">
 <div class="title title-table"><h2><span class="title">Menavigasi antarmuka pengguna</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -120,11 +120,11 @@
 <td style="border-top-style: solid;"><p class="p">Buka menu pertama pada bilah menu dari suatu jendela. Gunakan tombol panah untuk menavigasi menu.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html.id" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Buka menu aplikasi di bilah puncak.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or <span class="key"><a href="keyboard-key-menu.html" title="What is the Menu key?"><kbd>Menu</kbd></a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or <span class="key"><a href="keyboard-key-menu.html.id" title="What is the Menu key?"><kbd>Menu</kbd></a></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Pop up the context menu for the current selection, as if you had
       right-clicked.</p></td>
 </tr>
@@ -142,14 +142,14 @@
 <div class="title title-table"><h2><span class="title">Menavigasi desktop</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> atau tombol <span class="key"><a href="keyboard-key-super.html" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span></p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> atau tombol <span class="key"><a href="keyboard-key-super.html.id" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span></p></td>
 <td><p class="p">Switch between the <span class="gui">Activities</span> overview and desktop. In
     the overview, start typing to instantly search your applications, contacts,
     and documents.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Berpindah antar jendela">Bertukar antar jendela dengan cepat</a></span>. Tahan <span class="key"><kbd>Shift</kbd></span> untuk urutan terbalik.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.id" title="Berpindah antar jendela">Bertukar antar jendela dengan cepat</a></span>. Tahan <span class="key"><kbd>Shift</kbd></span> untuk urutan terbalik.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
@@ -170,7 +170,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> atau <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Naik</kbd></span></span>, dan <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> atau <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Turun</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Bertukar antar area kerja">Bertukar antar ruang kerja</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.id" title="Bertukar antar area kerja">Bertukar antar ruang kerja</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F6</kbd></span></span></p></td>
@@ -185,7 +185,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html#messagetray" title="Baki pesan">Open the message
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html.id#messagetray" title="Baki pesan">Open the message
     tray.</a></span> Press <span class="key"><kbd>Esc</kbd></span> to close.</p></td>
 </tr>
 </table></div>
@@ -220,7 +220,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> dan <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Memindahkan jendela ke area kerja lain">Memindah jendela kini ke ruang kerja lain</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.id" title="Memindahkan jendela ke area kerja lain">Memindah jendela kini ke ruang kerja lain</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
@@ -232,7 +232,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> atau <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Maximize and unmaximize a window">Memaksimalkan</a></span> jendela. Tekan <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> atau <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> untuk mengembalikan jendela yang dimaksimalkan ke ukuran aslinya.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html.id" title="Maximize and unmaximize a window">Memaksimalkan</a></span> jendela. Tekan <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> atau <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> untuk mengembalikan jendela yang dimaksimalkan ke ukuran aslinya.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
@@ -266,16 +266,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Masalah mobilitas">Masalah mobilitas</a></li>
+<li class="links "><a href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
+<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Use alternative keyboard layouts">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Pintasan papan tik yang berguna">Pintasan papan tik yang berguna</a><span class="desc"> — Get around the desktop using the keyboard.</span>
+<a href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna">Pintasan papan tik yang berguna</a><span class="desc"> — Get around the desktop using the keyboard.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Хардвер и управљачки програми</span></h1></div>
@@ -51,66 +51,66 @@
 <div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="bluetooth.html" title="Блутут">Блутут</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html" title="Повежите ваш рачунар на Блутут уређај">Повежите се</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Пошаљите датотеке Блутут уређају">пошаљите датотеке</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Укључите или искључите блутут">укључите и искључите</a></span>…</span></div>
+<div class="links-grid-link"><a href="bluetooth.html.sr" title="Блутут">Блутут</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html.sr" title="Повежите ваш рачунар на Блутут уређај">Повежите се</a></span>, <span class="link"><a href="bluetooth-send-file.html.sr" title="Пошаљите датотеке Блутут уређају">пошаљите датотеке</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.sr" title="Укључите или искључите блутут">укључите и искључите</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="disk.html" title="Дискови и складишта">Дискови и складишта</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html" title="Проверите колико је преостало простора на диску">Простор на диску</a></span>, <span class="link"><a href="disk-check.html" title="Проверите ваш чврсти диск за проблемима">проблеми</a></span>, <span class="link"><a href="disk-partitions.html" title="Управљајте волуменима и партицијама">волумени и партиције</a></span>…</span></div>
+<div class="links-grid-link"><a href="disk.html.sr" title="Дискови и складишта">Дискови и складишта</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html.sr" title="Проверите колико је преостало простора на диску">Простор на диску</a></span>, <span class="link"><a href="disk-check.html.sr" title="Проверите ваш чврсти диск за проблемима">проблеми</a></span>, <span class="link"><a href="disk-partitions.html.sr" title="Управљајте волуменима и партицијама">волумени и партиције</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html" title="Миш">Миш</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html" title="Користите миша левом руком">За леворуке</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Подесите брзину миша и додирне табле">брзина и осетљивост</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Кликните, превуците, или клизајте на додирној табли">кликање и клизање додирном таблом</a></span>…</span></div>
+<div class="links-grid-link"><a href="mouse.html.sr" title="Миш">Миш</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.sr" title="Користите миша левом руком">За леворуке</a></span>, <span class="link"><a href="mouse-sensitivity.html.sr" title="Подесите брзину миша и додирне табле">брзина и осетљивост</a></span>, <span class="link"><a href="mouse-touchpad-click.html.sr" title="Кликните, превуците, или клизајте на додирној табли">кликање и клизање додирном таблом</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="power.html" title="Напајање и батерија">Напајање и батерија</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="power-status.html" title="Проверите стање батерије">Стање батерије</a></span>, <span class="link"><a href="power-suspend.html" title="Шта се дешава када обуставим рачунар?">обустављање</a></span>, <span class="link"><a href="power-whydim.html" title="Зашто се екран затамни након неког времена?">затамњивање екрана</a></span>…</span></div>
+<div class="links-grid-link"><a href="power.html.sr" title="Напајање и батерија">Напајање и батерија</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="power-status.html.sr" title="Проверите стање батерије">Стање батерије</a></span>, <span class="link"><a href="power-suspend.html.sr" title="Шта се дешава када обуставим рачунар?">обустављање</a></span>, <span class="link"><a href="power-whydim.html.sr" title="Зашто се екран затамни након неког времена?">затамњивање екрана</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware-auth.html" title="Отисци прстију и паметне картице">Отисци прстију и паметне картице</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-fingerprint.html" title="Пријавите се читачем отисака">Читачи отисака прстију</a></span>, паметне картице…</span></div>
+<div class="links-grid-link"><a href="hardware-auth.html.sr" title="Отисци прстију и паметне картице">Отисци прстију и паметне картице</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-fingerprint.html.sr" title="Пријавите се читачем отисака">Читачи отисака прстију</a></span>, паметне картице…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="keyboard.html" title="Тастатура">Тастатура</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Распореди тастатуре</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Учините да курсор тастатуре трепери">треперење курсора</a></span>, <span class="link"><a href="a11y.html#mobility" title="Оштећења покрета">приступачност тастатуре</a></span>…</span></div>
+<div class="links-grid-link"><a href="keyboard.html.sr" title="Тастатура">Тастатура</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.sr" title="Use alternative keyboard layouts">Распореди тастатуре</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sr" title="Учините да курсор тастатуре трепери">треперење курсора</a></span>, <span class="link"><a href="a11y.html.sr#mobility" title="Оштећења покрета">приступачност тастатуре</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html" title="Управљање бојом">Управљање бојом</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Зашто је важно управљање бојом?">Зашто је то важно</a></span>, <span class="link"><a href="color.html#profiles" title="Профили боје">Профили боје</a></span>, <span class="link"><a href="color.html#calibration" title="Калибрација">Како калибрисати уређај</a></span>…</span></div>
+<div class="links-grid-link"><a href="color.html.sr" title="Управљање бојом">Управљање бојом</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.sr" title="Зашто је важно управљање бојом?">Зашто је то важно</a></span>, <span class="link"><a href="color.html.sr#profiles" title="Профили боје">Профили боје</a></span>, <span class="link"><a href="color.html.sr#calibration" title="Калибрација">Како калибрисати уређај</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="printing.html" title="Штампање">Штампање</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html" title="Подесите локални штампач">Локално подешавање</a></span>, <span class="link"><a href="printing-order.html" title="Одштампајте странице другачијим поретком">поредак и слагање</a></span>, <span class="link"><a href="printing-2sided.html" title="Штампајте двостране и вишестраничне распореде">двостране и више страница</a></span>…</span></div>
+<div class="links-grid-link"><a href="printing.html.sr" title="Штампање">Штампање</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html.sr" title="Подесите локални штампач">Локално подешавање</a></span>, <span class="link"><a href="printing-order.html.sr" title="Одштампајте странице другачијим поретком">поредак и слагање</a></span>, <span class="link"><a href="printing-2sided.html.sr" title="Штампајте двостране и вишестраничне распореде">двостране и више страница</a></span>…</span></div>
 </div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Још тема</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="Шта је то управљачки програм?">Шта је то управљачки програм?</a><span class="desc"> — Управљачки програми хардвера/уређаја омогућавају вашем рачунару да користи уређаје који су на њега прикачени.</span>
+<a href="hardware-driver.html.sr" title="Шта је то управљачки програм?">Шта је то управљачки програм?</a><span class="desc"> — Управљачки програми хардвера/уређаја омогућавају вашем рачунару да користи уређаје који су на њега прикачени.</span>
 </li></ul></div>
 </div></div>
 </div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Општи проблеми</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="bluetooth.html#problems" title="Проблеми">Проблеми блутута</a></li>
+<li class="links "><a href="bluetooth.html.sr#problems" title="Проблеми">Проблеми блутута</a></li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Проблеми екрана">Проблеми екрана</a><span class="desc"> — Решите проблеме екрана и графике.</span>
+<a href="hardware-problems-graphics.html.sr" title="Проблеми екрана">Проблеми екрана</a><span class="desc"> — Решите проблеме екрана и графике.</span>
 </li>
 <li class="links ">
-<a href="sound-broken.html" title="Проблеми са звуком">Проблеми са звуком</a><span class="desc"> — Решите проблеме као што је непостојање звука или звук лошег квалитета.</span>
+<a href="sound-broken.html.sr" title="Проблеми са звуком">Проблеми са звуком</a><span class="desc"> — Решите проблеме као што је непостојање звука или звук лошег квалитета.</span>
 </li>
 <li class="links ">
-<a href="power.html#problems" title="Проблеми">Проблеми са напајањем</a><span class="desc"> — Решите проблеме са напајањем и батеријама.</span>
+<a href="power.html.sr#problems" title="Проблеми">Проблеми са напајањем</a><span class="desc"> — Решите проблеме са напајањем и батеријама.</span>
 </li>
 <li class="links ">
-<a href="printing.html#problems" title="Проблеми са штампањем">Проблеми са штампањем</a><span class="desc"> — Неоткривени штампачи, гужвање папира, резултати штампања који изгледају лоше…</span>
+<a href="printing.html.sr#problems" title="Проблеми са штампањем">Проблеми са штампањем</a><span class="desc"> — Неоткривени штампачи, гужвање папира, резултати штампања који изгледају лоше…</span>
 </li>
 <li class="links ">
-<a href="hardware-cardreader.html" title="Проблеми читача медијских картица">Проблеми читача медијских картица</a><span class="desc"> — Решите проблеме читача медијских картица</span>
+<a href="hardware-cardreader.html.sr" title="Проблеми читача медијских картица">Проблеми читача медијских картица</a><span class="desc"> — Решите проблеме читача медијских картица</span>
 </li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a><span class="desc"> — Одредите и исправите проблеме са бежичним везама.</span>
+<a href="net-wireless-troubleshooting.html.sr" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a><span class="desc"> — Одредите и исправите проблеме са бежичним везама.</span>
 </li>
 </ul></div></div></div></div></div>
 </div></div>
@@ -118,7 +118,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Убунтуов водич за радну површ">Убунтуов водич за радну површ</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.sr" title="Убунтуов водич за радну површ">Убунтуов водич за радну површ</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

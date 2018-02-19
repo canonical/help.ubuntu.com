@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="clock.html" title="Датум и време">Датум и време</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="clock.html.sr" title="Датум и време">Датум и време</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html#desktop" title="Прилагодите радну површ">Прилагодите радну површ</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.sr" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html.sr#desktop" title="Прилагодите радну површ">Прилагодите радну површ</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -74,9 +74,9 @@
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="clock.html" title="Датум и време">Датум и време</a><span class="desc"> — <span class="link"><a href="clock-set.html" title="Измените датум и време">Подесите датум и време</a></span>, <span class="link"><a href="clock-world.html" title="Додај светски сат">светске сатове</a></span>, <span class="link"><a href="clock-timezone.html" title="Измените временску зону">временску зону</a></span>, <span class="link"><a href="clock-calendar.html" title="Састанци календара">календар и састанке</a></span>…</span>
+<a href="clock.html.sr" title="Датум и време">Датум и време</a><span class="desc"> — <span class="link"><a href="clock-set.html.sr" title="Измените датум и време">Подесите датум и време</a></span>, <span class="link"><a href="clock-world.html.sr" title="Додај светски сат">светске сатове</a></span>, <span class="link"><a href="clock-timezone.html.sr" title="Измените временску зону">временску зону</a></span>, <span class="link"><a href="clock-calendar.html.sr" title="Састанци календара">календар и састанке</a></span>…</span>
 </li>
-<li class="links "><a href="shell-overview.html#desktop" title="Прилагодите радну површ">Прилагодите радну површ</a></li>
+<li class="links "><a href="shell-overview.html.sr#desktop" title="Прилагодите радну површ">Прилагодите радну површ</a></li>
 </ul></div>
 </div></div></div>
 </div>

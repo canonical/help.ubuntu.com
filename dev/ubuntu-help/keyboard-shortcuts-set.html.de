@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="keyboard.html" title="Tastatur">Tastatur</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="keyboard.html.de" title="Tastatur">Tastatur</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="keyboard.html" title="Tastatur">Tastatur</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="keyboard.html.de" title="Tastatur">Tastatur</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">So ändern Sie für eine Tastenkombination die zu drückenden Tasten:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Tastatur</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Tastatur</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Tastatur</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Wählen Sie den Reiter <span class="gui">Tastenkombinationen</span>.</p></li>
 <li class="steps"><p class="p">Wählen Sie eine Kategorie in der linken Leiste und die Zeile für die gewünschte Aktion auf der rechten Seite. Die aktuelle Definition der Tastenkombination ändert sich zu <span class="gui">Neue Tastenkombination …</span></p></li>
@@ -129,11 +129,11 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Fenster eine Arbeitsfläche nach oben verschieben</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Umschalttaste</kbd></span>+<span class="key"><a href="keyboard-key-super.html" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Bild↑</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Umschalttaste</kbd></span>+<span class="key"><a href="keyboard-key-super.html.de" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Bild↑</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Fenster eine Arbeitsfläche nach unten verschieben</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Umschalttaste</kbd></span>+<span class="key"><a href="keyboard-key-super.html" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Bild↓</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Umschalttaste</kbd></span>+<span class="key"><a href="keyboard-key-super.html.de" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Bild↓</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Anwendungen wechseln</p></td>
@@ -495,13 +495,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="Tastatur">Tastatur</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Tastaturbelegungen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Den Tastaturcursor blinken lassen">blinkender Cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mobilitätseinschränkungen">Barrierefreiheit der Tastatur</a></span> …</span>
+<a href="keyboard.html.de" title="Tastatur">Tastatur</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.de" title="Use alternative keyboard layouts">Tastaturbelegungen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.de" title="Den Tastaturcursor blinken lassen">blinkender Cursor</a></span>, <span class="link"><a href="a11y.html.de#mobility" title="Mobilitätseinschränkungen">Barrierefreiheit der Tastatur</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Nützliche Tastenkombinationen">Nützliche Tastenkombinationen</a><span class="desc"> — Bewegen in der Arbeitsumgebung mit der Tastatur.</span>
+<a href="shell-keyboard-shortcuts.html.de" title="Nützliche Tastenkombinationen">Nützliche Tastenkombinationen</a><span class="desc"> — Bewegen in der Arbeitsumgebung mit der Tastatur.</span>
 </li></ul></div>
 </div></div>
 </div>

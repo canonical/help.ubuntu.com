@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="prefs-sharing.html" title="Configurações de compartilhamento">Configurações de compartilhamento</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="prefs-sharing.html.pt-BR" title="Configurações de compartilhamento">Configurações de compartilhamento</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Definindo o nome exibido pelo seu computador</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Alterando o nome de exibição do seu computador:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Compartilhamento</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Compartilhamento</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Compartilhamento</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Edite o texto em baixo de <span class="gui">Nome do computador</span> para alterar o nome que seu computador exibe na rede.</p></li>
 </ol></div>
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-sharing.html" title="Configurações de compartilhamento">Configurações de compartilhamento</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Controlando compartilhamento de arquivos por Bluetooth">Compartilhamento Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html" title="Compartilhando seus arquivos pessoais">Compartilhamento de arquivos pessoais</a></span>, <span class="link"><a href="sharing-desktop.html" title="Compartilhando sua área de trabalho">Compartilhamento de área de trabalho</a></span>, <span class="link"><a href="sharing-media.html" title="Compartilhando suas músicas, fotos e vídeos">Compartilhamento de mídia</a></span>…</span>
+<a href="prefs-sharing.html.pt-BR" title="Configurações de compartilhamento">Configurações de compartilhamento</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.pt-BR" title="Controlando compartilhamento de arquivos por Bluetooth">Compartilhamento Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.pt-BR" title="Compartilhando seus arquivos pessoais">Compartilhamento de arquivos pessoais</a></span>, <span class="link"><a href="sharing-desktop.html.pt-BR" title="Compartilhando sua área de trabalho">Compartilhamento de área de trabalho</a></span>, <span class="link"><a href="sharing-media.html.pt-BR" title="Compartilhando suas músicas, fotos e vídeos">Compartilhamento de mídia</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

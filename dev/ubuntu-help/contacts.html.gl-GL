@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Contactos</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Use <span class="app">Contactos</span> para almacenar, acceder ou editar a información dos seus contactos, de forma local ou nas súas <span class="link"><a href="accounts.html" title="Contas en liña">Contas en liña</a></span>.</p>
+<p class="p">Use <span class="app">Contactos</span> para almacenar, acceder ou editar a información dos seus contactos, de forma local ou nas súas <span class="link"><a href="accounts.html.gl-GL" title="Contas en liña">Contas en liña</a></span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html" title="Iniciando Contactos por primeira vez"><span class="title">Iniciando Contactos por primeira vez</span><span class="linkdiv-dash"> — </span><span class="desc">Almacenar os seus contactos nunha axenda de enderezos local ou nunha conta en liña.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-search.html" title="Buscar por un ficheiro"><span class="title">Buscar por un ficheiro</span><span class="linkdiv-dash"> — </span><span class="desc">Buscar un contacto.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html" title="Contactar co seu contacto"><span class="title">Contactar co seu contacto</span><span class="linkdiv-dash"> — </span><span class="desc">Enviar un correo electrónico, chatear ou chamar a un contacto.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html" title="Editar os detalles do contacto"><span class="title">Editar os detalles do contacto</span><span class="linkdiv-dash"> — </span><span class="desc">Editar a información de cada contacto.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html" title="Engadir ou quitar un contacto"><span class="title">Engadir ou quitar un contacto</span><span class="linkdiv-dash"> — </span><span class="desc">Engadir ou retirar un contacto da súa axenda de enderezos local.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html" title="Ligar e desligar contactos"><span class="title">Ligar e desligar contactos</span><span class="linkdiv-dash"> — </span><span class="desc">Combine información de un contacto desde múltiples orixes.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.gl-GL" title="Iniciando Contactos por primeira vez"><span class="title">Iniciando Contactos por primeira vez</span><span class="linkdiv-dash"> — </span><span class="desc">Almacenar os seus contactos nunha axenda de enderezos local ou nunha conta en liña.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-search.html.gl-GL" title="Buscar por un ficheiro"><span class="title">Buscar por un ficheiro</span><span class="linkdiv-dash"> — </span><span class="desc">Buscar un contacto.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.gl-GL" title="Contactar co seu contacto"><span class="title">Contactar co seu contacto</span><span class="linkdiv-dash"> — </span><span class="desc">Enviar un correo electrónico, chatear ou chamar a un contacto.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.gl-GL" title="Editar os detalles do contacto"><span class="title">Editar os detalles do contacto</span><span class="linkdiv-dash"> — </span><span class="desc">Editar a información de cada contacto.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html.gl-GL" title="Engadir ou quitar un contacto"><span class="title">Engadir ou quitar un contacto</span><span class="linkdiv-dash"> — </span><span class="desc">Engadir ou retirar un contacto da súa axenda de enderezos local.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html.gl-GL" title="Ligar e desligar contactos"><span class="title">Ligar e desligar contactos</span><span class="linkdiv-dash"> — </span><span class="desc">Combine información de un contacto desde múltiples orixes.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Redes sen fíos">Sen fíos</a></span>, <span class="link"><a href="net-wired.html" title="Rede con cable">con fíos</a></span>, <span class="link"><a href="net-problem.html" title="Problemas de rede">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html" title="Navegadores web">navegación web</a></span>, <span class="link"><a href="net-email.html" title="Software de correo electrónico">contas de correo-e</a></span>…</span>
+<a href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.gl-GL" title="Redes sen fíos">Sen fíos</a></span>, <span class="link"><a href="net-wired.html.gl-GL" title="Rede con cable">con fíos</a></span>, <span class="link"><a href="net-problem.html.gl-GL" title="Problemas de rede">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.gl-GL" title="Navegadores web">navegación web</a></span>, <span class="link"><a href="net-email.html.gl-GL" title="Software de correo electrónico">contas de correo-e</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

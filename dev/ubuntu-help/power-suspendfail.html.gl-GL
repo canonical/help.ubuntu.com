@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comúns">Problemas</a> » <a class="trail" href="power.html#problems" title="Problemas">Problemas de enerxía</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas</a> » <a class="trail" href="power.html.gl-GL#problems" title="Problemas">Problemas de enerxía</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comúns">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html" title="Problemas de pantalla">Problemas de pantalla</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html.gl-GL" title="Problemas de pantalla">Problemas de pantalla</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Porque o meu computador non se acende logo de ir suspendelo?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">If you <span class="link"><a href="power-suspend.html" title="Que acontece cando suspendo o meu computador?">suspend</a></span> your computer, then try to
+<div class="contents"><p class="p">If you <span class="link"><a href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?">suspend</a></span> your computer, then try to
 resume it, you may find that it does not work as you expected. This could be
 because suspend is not supported properly by your hardware.</p></div>
 <div id="resume" class="sect"><div class="inner">
@@ -72,7 +72,7 @@ because suspend is not supported properly by your hardware.</p></div>
 <p class="p">If you suspend your computer and then resume it again, you
   may find that your internet connection, mouse, or some other device does not
   work properly. This could be because the driver for the device does not
-  properly support suspend. This is a <span class="link"><a href="hardware-driver.html" title="Que é un controlador?">problem with the driver</a></span> and not the device
+  properly support suspend. This is a <span class="link"><a href="hardware-driver.html.gl-GL" title="Que é un controlador?">problem with the driver</a></span> and not the device
   itself.</p>
 <p class="p">Se o dispositivo ten algún interruptor de acendido, probe a apagalo e volver a acendelo. En moitas ocasións, o dispositivo volverá a funcionar de novo. Se se conecta mediante un cabo USB ou similar, desconécteo e vólvao a conectar, a ver se funciona.</p>
 <p class="p">If you cannot turn off or unplug the device, or if this does not work, you
@@ -86,10 +86,10 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power.html#problems" title="Problemas">Problemas de enerxía</a><span class="desc"> — Resolución de problemas coa enerxía e baterías.</span>
+<a href="power.html.gl-GL#problems" title="Problemas">Problemas de enerxía</a><span class="desc"> — Resolución de problemas coa enerxía e baterías.</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Problemas de pantalla">Problemas de pantalla</a><span class="desc"> — Resolución de problemas de pantalla e gráficos.</span>
+<a href="hardware-problems-graphics.html.gl-GL" title="Problemas de pantalla">Problemas de pantalla</a><span class="desc"> — Resolución de problemas de pantalla e gráficos.</span>
 </li>
 </ul></div>
 </div></div>
@@ -97,19 +97,19 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-hibernate.html" title="Como hibernar o meu computador?">Como hibernar o meu computador?</a><span class="desc"> — Hibernar está desactivado de xeito predeterminado porque non é compatíbel por completo.</span>
+<a href="power-hibernate.html.gl-GL" title="Como hibernar o meu computador?">Como hibernar o meu computador?</a><span class="desc"> — Hibernar está desactivado de xeito predeterminado porque non é compatíbel por completo.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="Non teño conexión sen fíos á rede cando desperto o meu computador">Non teño conexión sen fíos á rede cando desperto o meu computador</a><span class="desc"> — Algúns dispositivos sen fíos teñen problemas de manexo cando envía o seu computador a durmir e non espertar correctamente.</span>
+<a href="power-nowireless.html.gl-GL" title="Non teño conexión sen fíos á rede cando desperto o meu computador">Non teño conexión sen fíos á rede cando desperto o meu computador</a><span class="desc"> — Algúns dispositivos sen fíos teñen problemas de manexo cando envía o seu computador a durmir e non espertar correctamente.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="Porque se apaga o meu computador cando pecha a tapa?">Porque se apaga o meu computador cando pecha a tapa?</a><span class="desc"> — Os portátiles suspéndense cando se pecha a tapa para aforrar enerxía.</span>
+<a href="power-closelid.html.gl-GL" title="Porque se apaga o meu computador cando pecha a tapa?">Porque se apaga o meu computador cando pecha a tapa?</a><span class="desc"> — Os portátiles suspéndense cando se pecha a tapa para aforrar enerxía.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Que acontece cando suspendo o meu computador?">Que acontece cando suspendo o meu computador?</a><span class="desc"> — Suspender pon o seu computador a durmir para que use menos enerxía.</span>
+<a href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?">Que acontece cando suspendo o meu computador?</a><span class="desc"> — Suspender pon o seu computador a durmir para que use menos enerxía.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="Que é un controlador?">Que é un controlador?</a><span class="desc"> — Un controlador de hardware/dispositivo é aquilo que permite ao seu equipo usar dispositivos que están conectados a el.</span>
+<a href="hardware-driver.html.gl-GL" title="Que é un controlador?">Que é un controlador?</a><span class="desc"> — Un controlador de hardware/dispositivo é aquilo que permite ao seu equipo usar dispositivos que están conectados a el.</span>
 </li>
 </ul></div>
 </div></div>

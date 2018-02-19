@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="wacom.html" title="Tableta gráfica Wacom">Tableta gráfica Wacom</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="wacom.html.es" title="Tableta gráfica Wacom">Tableta gráfica Wacom</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Use su tableta para zurdos</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Algunas tabletas tienen botones hardware en un lateral. Se puede rotar 180º para que estos botones los pueda usar una persona zurda. Para cambiar la orientación para zurdos:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Tableta Wacom</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Tableta Wacom</span>.</p></li>
 <li class="steps">
 <p class="p">Pulse en <span class="gui">Tableta Wacom</span> para abrir el panel.</p>
 <div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Si no se detecta ninguna tableta, se le pedirá que <span class="gui">Conecte o encienda su tableta Wacom</span>. Pulse el enlace <span class="gui">Configuración de Bluetooth</span> para conectar una tableta inalámbrica</p></div></div></div></div>
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html" title="Tableta gráfica Wacom">Tableta gráfica Wacom</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html" title="Elegir una pantalla">Mapear un monitor</a></span>, <span class="link"><a href="wacom-stylus.html" title="Configurar la tableta">Configurar el lápiz</a></span>, <span class="link"><a href="wacom-left-handed.html" title="Use su tableta para zurdos">Uso de la tableta para zurdos</a></span>…</span>
+<a href="wacom.html.es" title="Tableta gráfica Wacom">Tableta gráfica Wacom</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html.es" title="Elegir una pantalla">Mapear un monitor</a></span>, <span class="link"><a href="wacom-stylus.html.es" title="Configurar la tableta">Configurar el lápiz</a></span>, <span class="link"><a href="wacom-left-handed.html.es" title="Use su tableta para zurdos">Uso de la tableta para zurdos</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

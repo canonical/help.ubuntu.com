@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="பகிர்தல்">பகிர்தல்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.ta" title="பகிர்தல்">பகிர்தல்</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="prefs-sharing.html" title="பகிர்தல் அமைவுகள்">பகிர்தல் அமைவுகள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="prefs-sharing.html.ta" title="பகிர்தல் அமைவுகள்">பகிர்தல் அமைவுகள்</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="bluetooth.html.ta" title="Bluetooth">Bluetooth</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,17 +60,17 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">உங்கள் <span class="file">பதிவிறக்கங்கள்</span> கோப்புறையிலுள்ள கோப்புகளைப் பகிர அனுமதித்தல்</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Make sure that <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth ஐ இயக்குதல் அல்லது அணைத்தல்"><span class="gui">Bluetooth</span>
+<li class="steps"><p class="p">Make sure that <span class="link"><a href="bluetooth-turn-on-off.html.ta" title="Bluetooth ஐ இயக்குதல் அல்லது அணைத்தல்"><span class="gui">Bluetooth</span>
       is switched on</a></span>.</p></li>
 <li class="steps"><p class="p">Bluetooth-enabled devices can send files to your
       <span class="file">Downloads</span> folder only when the <span class="gui">Bluetooth</span> panel is
       open.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="துணுக்கு"><div class="inner"><div class="region"><div class="contents"><p class="p">You can <span class="link"><a href="sharing-displayname.html" title="Set the display name for your computer">change</a></span> the name your
+<div class="note note-tip" title="துணுக்கு"><div class="inner"><div class="region"><div class="contents"><p class="p">You can <span class="link"><a href="sharing-displayname.html.ta" title="Set the display name for your computer">change</a></span> the name your
     computer displays to other devices.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -80,17 +80,17 @@
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்">இணை</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="ஒரு Bluetooth சாதனத்திற்கு கோப்புகளை அனுப்புதல்">கோப்புகளை அனுப்பு</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth ஐ இயக்குதல் அல்லது அணைத்தல்">இயக்கவும் மற்றும் அணைக்கவும்</a></span>…</span>
+<a href="bluetooth.html.ta" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.ta" title="உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்">இணை</a></span>, <span class="link"><a href="bluetooth-send-file.html.ta" title="ஒரு Bluetooth சாதனத்திற்கு கோப்புகளை அனுப்புதல்">கோப்புகளை அனுப்பு</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ta" title="Bluetooth ஐ இயக்குதல் அல்லது அணைத்தல்">இயக்கவும் மற்றும் அணைக்கவும்</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="பகிர்தல்">பகிர்தல்</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="உங்கள் பணிமேசையைப் பகிர்தல்">பணிமேசை பகிர்தல்</a></span>, <span class="link"><a href="files-share.html" title="மின்னஞ்சல் மூலம் கோப்புகளை பகிர்தல்">மின்னஞ்சல் மூலம் கோப்புகளைப் பகிர்தல்</a></span>, <span class="link"><a href="sharing-media.html" title="உங்கள் இசை, புகைப்படங்கள் மற்றும் வீடியோக்களைப் பகிர்தல்">மீடியா பகிர்தல்</a></span>…</span>
+<a href="sharing.html.ta" title="பகிர்தல்">பகிர்தல்</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ta" title="உங்கள் பணிமேசையைப் பகிர்தல்">பணிமேசை பகிர்தல்</a></span>, <span class="link"><a href="files-share.html.ta" title="மின்னஞ்சல் மூலம் கோப்புகளை பகிர்தல்">மின்னஞ்சல் மூலம் கோப்புகளைப் பகிர்தல்</a></span>, <span class="link"><a href="sharing-media.html.ta" title="உங்கள் இசை, புகைப்படங்கள் மற்றும் வீடியோக்களைப் பகிர்தல்">மீடியா பகிர்தல்</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html" title="பகிர்தல் அமைவுகள்">பகிர்தல் அமைவுகள்</a><span class="desc"> — 
-      <span class="link"><a href="sharing-bluetooth.html" title="Bluetooth மூலம் பகிர்தலைக் கட்டுப்படுத்துதல்">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html" title="Share your personal files">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html" title="உங்கள் பணிமேசையைப் பகிர்தல்">Screen sharing</a></span>,
-      <span class="link"><a href="sharing-media.html" title="உங்கள் இசை, புகைப்படங்கள் மற்றும் வீடியோக்களைப் பகிர்தல்">Media sharing</a></span>…
+<a href="prefs-sharing.html.ta" title="பகிர்தல் அமைவுகள்">பகிர்தல் அமைவுகள்</a><span class="desc"> — 
+      <span class="link"><a href="sharing-bluetooth.html.ta" title="Bluetooth மூலம் பகிர்தலைக் கட்டுப்படுத்துதல்">Bluetooth sharing</a></span>,
+      <span class="link"><a href="sharing-personal.html.ta" title="Share your personal files">Personal file sharing</a></span>,
+      <span class="link"><a href="sharing-desktop.html.ta" title="உங்கள் பணிமேசையைப் பகிர்தல்">Screen sharing</a></span>,
+      <span class="link"><a href="sharing-media.html.ta" title="உங்கள் இசை, புகைப்படங்கள் மற்றும் வீடியோக்களைப் பகிர்தல்">Media sharing</a></span>…
     </span>
 </li>
 </ul></div>
@@ -98,7 +98,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth-connect-device.html" title="உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்">உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்</a><span class="desc"> — Bluetooth சாதனங்களை இணையாக்குதல்.</span>
+<a href="bluetooth-connect-device.html.ta" title="உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்">உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்</a><span class="desc"> — Bluetooth சாதனங்களை இணையாக்குதல்.</span>
 </li></ul></div>
 </div></div>
 </div>

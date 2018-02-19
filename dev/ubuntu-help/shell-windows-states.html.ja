@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">デスクトップ</a> › <a class="trail" href="shell-overview.html#apps" title="アプリケーションとウィンドウ">アプリケーションとウィンドウ</a> » <a class="trail" href="shell-windows.html" title="ウィンドウとワークスペース">ウィンドウとワークスペース</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="ウィンドウを扱う">ウィンドウ</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ja" title="Your desktop">デスクトップ</a> › <a class="trail" href="shell-overview.html.ja#apps" title="アプリケーションとウィンドウ">アプリケーションとウィンドウ</a> » <a class="trail" href="shell-windows.html.ja" title="ウィンドウとワークスペース">ウィンドウとワークスペース</a> › <a class="trail" href="shell-windows.html.ja#working-with-windows" title="ウィンドウを扱う">ウィンドウ</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ウィンドウを移動する、サイズを変更する</span></h1></div>
@@ -52,19 +52,19 @@
 <p class="p">ウィンドウの移動やサイズ変更をすることで、より効率的に作業できるようになります。ドラッグによる移動やサイズ変更についてはご存知でしょうが、方法はそれだけではありません。GNOME では、ショートカットや修飾キーを使ってすばやくウィンドウを配置することができます。</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Move a window by dragging the titlebar, or hold down
-      <span class="key"><a href="keyboard-key-super.html" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span> and drag anywhere in the
+      <span class="key"><a href="keyboard-key-super.html.ja" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span> and drag anywhere in the
       window. Hold down <span class="key"><kbd>Shift</kbd></span> while moving to snap the window to the
       edges of the screen and other windows.</p></li>
 <li class="list"><p class="p">ウィンドウのサイズを変更するには、ウィンドウの端か角をドラッグします。<span class="key"><kbd>Shift</kbd></span> を押しながらサイズ変更すると、画面や他のウィンドウの端まで瞬時にサイズ変更します。</p></li>
 <li class="list"><p class="p">キーボードだけを使ってウィンドウの移動やサイズ変更を行う方法もあります。ウィンドウを移動するには、<span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span> を押し、サイズを変更するには、<span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span> を押します。矢印キーで移動やサイズ変更を行い、次に <span class="key"><kbd>Enter</kbd></span> キーで確定するか、あるいは <span class="key"><kbd>Esc</kbd></span> キーで元の位置やサイズに戻します。</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="ウィンドウを最大化する、元に戻す">ウィンドウを最大化する</a></span>には、ウィンドウを画面トップまでドラッグします。ウィンドウを画面の左右どちらかの側へドラッグすると、片側半分に最大化し、<span class="link"><a href="shell-windows-tiled.html" title="ウィンドウを左右に並べる">ウィンドウを両側に並べる</a></span>ことができます。</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html.ja" title="ウィンドウを最大化する、元に戻す">ウィンドウを最大化する</a></span>には、ウィンドウを画面トップまでドラッグします。ウィンドウを画面の左右どちらかの側へドラッグすると、片側半分に最大化し、<span class="link"><a href="shell-windows-tiled.html.ja" title="ウィンドウを左右に並べる">ウィンドウを両側に並べる</a></span>ことができます。</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="ウィンドウを扱う">ウィンドウを扱う</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.ja#working-with-windows" title="ウィンドウを扱う">ウィンドウを扱う</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

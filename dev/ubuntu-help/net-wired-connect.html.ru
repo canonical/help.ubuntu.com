@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html" title="Проводные сети">Проводные сети</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.ru" title="Проводные сети">Проводные сети</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Подключение к проводной (Ethernet) сети</span></h1></div>
@@ -59,14 +59,14 @@
     cable (at least, not without some extra setting-up). To connect two
     computers, you should plug them both into a network hub, router or
     switch.</p></div></div></div></div>
-<p class="p">Если соединение всё ещё не установлено, возможно, ваша сеть не поддерживает автоматическую настройку (DHCP). В таком случае, придётся <span class="link"><a href="net-manual.html" title="Настройка параметров соединения вручную">настроить её вручную</a></span>.</p>
+<p class="p">Если соединение всё ещё не установлено, возможно, ваша сеть не поддерживает автоматическую настройку (DHCP). В таком случае, придётся <span class="link"><a href="net-manual.html.ru" title="Настройка параметров соединения вручную">настроить её вручную</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html" title="Проводные сети">Проводные сети</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Подключение к проводной (Ethernet) сети">Проводные соединения с Интернетом</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Создание соединения с фиксированным IP-адресом">статические IP-адреса</a></span>…</span>
+<a href="net-wired.html.ru" title="Проводные сети">Проводные сети</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.ru" title="Подключение к проводной (Ethernet) сети">Проводные соединения с Интернетом</a></span>, <span class="link"><a href="net-fixed-ip-address.html.ru" title="Создание соединения с фиксированным IP-адресом">статические IP-адреса</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="wacom.html" title="Wacom grafikas planšete">Wacom grafikas planšete</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="wacom.html.lv" title="Wacom grafikas planšete">Wacom grafikas planšete</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Izmantot tastatūru kā kreilim</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Dažām planšetēm sānos ir aparatūras pogas. Planšeti var pagriezt par 180°, lai šīs pogas būtu pieejamas kreiļiem. Lai pārslēgtu virzienu kreiļiem:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Wacom planšete</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Wacom planšete</span>.</p></li>
 <li class="steps">
 <p class="p">Spiediet <span class="gui">Wacom planšete</span>, lai atvērtu paneli.</p>
 <div class="note note-tip" title="Padoms"><div class="inner"><div class="region"><div class="contents"><p class="p">Ja nav atklātu planšetu, jums prasīs <span class="gui">Lūdzu, pievienojiet un ieslēdziet savu Wacom planšeti</span>, spiediet uz saites <span class="gui">Bluetooth iestatījumi</span>, lai savienotos ar bezvadu planšeti.</p></div></div></div></div>
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html" title="Wacom grafikas planšete">Wacom grafikas planšete</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html" title="Izvēlieties monitoru">Attēlot monitoru</a></span>, <span class="link"><a href="wacom-stylus.html" title="Konfigurēt irbuli">konfigurēt irbuli</a></span>, <span class="link"><a href="wacom-left-handed.html" title="Izmantot tastatūru kā kreilim">izmantot planšeti ar kreiso roku</a></span>…</span>
+<a href="wacom.html.lv" title="Wacom grafikas planšete">Wacom grafikas planšete</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html.lv" title="Izvēlieties monitoru">Attēlot monitoru</a></span>, <span class="link"><a href="wacom-stylus.html.lv" title="Konfigurēt irbuli">konfigurēt irbuli</a></span>, <span class="link"><a href="wacom-left-handed.html.lv" title="Izmantot tastatūru kā kreilim">izmantot planšeti ar kreiso roku</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

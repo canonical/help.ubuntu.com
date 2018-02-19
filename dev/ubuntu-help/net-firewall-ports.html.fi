@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-security.html" title="Tietoturva">Tietoturva</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-security.html.fi" title="Tietoturva">Tietoturva</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Yleisesti käytetyt verkkoportit</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">This is a list of network ports commonly used by applications that provide
   network services, like file sharing or remote desktop viewing. You can change
-  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">block or allow
+  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html.fi" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">block or allow
   access</a></span> to these applications. There are thousands of ports in use, so
   this table isn’t complete.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
@@ -101,13 +101,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Tietoturva">Tietoturva</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Tarvitsenko virustentorjuntaohjelman?">Virustorjuntaohjelmisto</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">palomuurit</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Yleisesti käytetyt verkkoportit">palomuurien portit</a></span>…</span>
+<a href="net-security.html.fi" title="Tietoturva">Tietoturva</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.fi" title="Tarvitsenko virustentorjuntaohjelman?">Virustorjuntaohjelmisto</a></span>, <span class="link"><a href="net-firewall-on-off.html.fi" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">palomuurit</a></span>, <span class="link"><a href="net-firewall-ports.html.fi" title="Yleisesti käytetyt verkkoportit">palomuurien portit</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-on-off.html" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">Salli ja estä ohjelmien yhteydet palomuurin läpi</a><span class="desc"> — Hallitse mitkä ohjelmat saavat käyttää Internet-yhteyttä.</span>
+<a href="net-firewall-on-off.html.fi" title="Salli ja estä ohjelmien yhteydet palomuurin läpi">Salli ja estä ohjelmien yhteydet palomuurin läpi</a><span class="desc"> — Hallitse mitkä ohjelmat saavat käyttää Internet-yhteyttä.</span>
 </li></ul></div>
 </div></div>
 </div>

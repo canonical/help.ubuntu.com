@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Primeiros passos">Primeiros passos com o GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.pt-BR" title="Primeiros passos">Primeiros passos com o GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-browse-web.html" title="Navegando na internet">Anterior</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html" title="Alterando a data, hora e fuso horário">Próximo</a>
+<a class="nextlinks-prev" href="gs-browse-web.html.pt-BR" title="Navegando na internet">Anterior</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.pt-BR" title="Alterando a data, hora e fuso horário">Próximo</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Conectando-se a contas on-line</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Clique no <span class="gui"><a href="shell-introduction.html#yourname" title="Você e seu computador">menu do sistema</a></span> no lado direito da barra superior.</p></li>
+<li class="steps"><p class="p">Clique no <span class="gui"><a href="shell-introduction.html.pt-BR#yourname" title="Você e seu computador">menu do sistema</a></span> no lado direito da barra superior.</p></li>
 <li class="steps"><p class="p">Clique no botão de configurações no canto inferior esquerdo do menu.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa2.svg" width="100%" class="media media-block" alt=""></div></div>
@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Muitas contas on-line permitem que você escolha os serviços que você deseja usar com sua conta on-line. Se você não deseja usar um serviço, desabilite-o clicando no interruptor de <span class="gui">ON/OFF</span> no lado direito da janela.</p></li></ol></div></div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-browse-web.html" title="Navegando na internet">Anterior</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html" title="Alterando a data, hora e fuso horário">Próximo</a>
+<a class="nextlinks-prev" href="gs-browse-web.html.pt-BR" title="Navegando na internet">Anterior</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.pt-BR" title="Alterando a data, hora e fuso horário">Próximo</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -82,13 +82,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Primeiros passos">Primeiros passos com o GNOME</a><span class="desc"> — Você é novo no GNOME? Aprenda como começar.</span>
+<a href="getting-started.html.pt-BR" title="Primeiros passos">Primeiros passos com o GNOME</a><span class="desc"> — Você é novo no GNOME? Aprenda como começar.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Contas on-line">Contas on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Adicionando uma conta">Adicione uma conta on-line</a></span>, <span class="link"><a href="accounts-remove.html" title="Removendo uma conta">Exclua uma conta</a></span>, <span class="link"><a href="accounts-which-application.html" title="Aplicativos e serviços on-line">Aprenda sobre os serviços</a></span>…</span>
+<a href="accounts.html.pt-BR" title="Contas on-line">Contas on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html.pt-BR" title="Adicionando uma conta">Adicione uma conta on-line</a></span>, <span class="link"><a href="accounts-remove.html.pt-BR" title="Removendo uma conta">Exclua uma conta</a></span>, <span class="link"><a href="accounts-which-application.html.pt-BR" title="Aplicativos e serviços on-line">Aprenda sobre os serviços</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

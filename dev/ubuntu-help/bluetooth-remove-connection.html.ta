@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="bluetooth.html.ta" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Disconnect a Bluetooth device</span></h1></div>
@@ -54,14 +54,15 @@
   like a mouse or headset, or if you no longer wish to transfer files to or
   from a device.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="gui">மெனு பட்டியில்</span> Bluetooth சின்னத்தை சொடுக்கி <span class="gui">Bluetooth அமைவுகள்</span> என்பதைத் தேர்ந்தெடுக்கவும்.</p></li>
-<li class="steps"><p class="p">பலகத்தைத் திறக்க <span class="gui">Bluetooth அமைவுகள்</span> என்பதைத் தேர்ந்தெடுக்கவும்.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+      start typing <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select the device which you want to disconnect from the list.</p></li>
 <li class="steps"><p class="p">In the device dialog box, switch <span class="gui">Connection</span> to
       <span class="gui">OFF</span>, or to remove the device from the <span class="gui">Devices</span> list,
       click <span class="gui">Remove Device</span>.</p></li>
 </ol></div></div></div>
-<p class="p">நீங்கள் விரும்பினால் மீண்டும் பிறகு <span class="link"><a href="bluetooth-connect-device.html" title="உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்">ஒரு Bluetooth சாதனத்தை மீண்டும் இணைக்கலாம்</a></span>.</p>
+<p class="p">நீங்கள் விரும்பினால் மீண்டும் பிறகு <span class="link"><a href="bluetooth-connect-device.html.ta" title="உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்">ஒரு Bluetooth சாதனத்தை மீண்டும் இணைக்கலாம்</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -69,13 +70,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்">இணை</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="ஒரு Bluetooth சாதனத்திற்கு கோப்புகளை அனுப்புதல்">கோப்புகளை அனுப்பு</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth ஐ இயக்குதல் அல்லது அணைத்தல்">இயக்கவும் மற்றும் அணைக்கவும்</a></span>…</span>
+<a href="bluetooth.html.ta" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.ta" title="உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்">இணை</a></span>, <span class="link"><a href="bluetooth-send-file.html.ta" title="ஒரு Bluetooth சாதனத்திற்கு கோப்புகளை அனுப்புதல்">கோப்புகளை அனுப்பு</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ta" title="Bluetooth ஐ இயக்குதல் அல்லது அணைத்தல்">இயக்கவும் மற்றும் அணைக்கவும்</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth-connect-device.html" title="உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்">உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்</a><span class="desc"> — Bluetooth சாதனங்களை இணையாக்குதல்.</span>
+<a href="bluetooth-connect-device.html.ta" title="உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்">உங்கள் கணினியை ஒரு Bluetooth சாதனத்துடன் இணைத்தல்</a><span class="desc"> — Bluetooth சாதனங்களை இணையாக்குதல்.</span>
 </li></ul></div>
 </div></div>
 </div>

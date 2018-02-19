@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="Težave z omrežjem">Težave z omrežjem</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.sl" title="Težave z omrežjem">Težave z omrežjem</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Other users can’t edit the network connections</span></h1></div>
@@ -54,7 +54,7 @@
   This makes it so that everyone on the computer can <span class="em">connect</span> using
   that connection.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Wi-Fi</span> from the list on the left.</p></li>
@@ -74,18 +74,18 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Težave z omrežjem">Težave z omrežjem</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">iskanje brezžične povezave</a></span> …</span>
+<a href="net-problem.html.sl" title="Težave z omrežjem">Težave z omrežjem</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.sl" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html.sl" title="I can’t see my wireless network in the list">iskanje brezžične povezave</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Kako delujejo skrbniška dovoljenja?">Kako delujejo skrbniška dovoljenja?</a><span class="desc"> — You need administrative privileges to change important parts of your
+<a href="user-admin-explain.html.sl" title="Kako delujejo skrbniška dovoljenja?">Kako delujejo skrbniška dovoljenja?</a><span class="desc"> — You need administrative privileges to change important parts of your
     system.</span>
 </li>
 <li class="links ">
-<a href="net-othersconnect.html" title="Other users can’t connect to the internet">Other users can’t connect to the internet</a><span class="desc"> — Nastavitve (kot je geslo) za omrežno povezavo lahko shranite, da se lahko z njo povežejo vsi uporabniki računalnika.</span>
+<a href="net-othersconnect.html.sl" title="Other users can’t connect to the internet">Other users can’t connect to the internet</a><span class="desc"> — Nastavitve (kot je geslo) za omrežno povezavo lahko shranite, da se lahko z njo povežejo vsi uporabniki računalnika.</span>
 </li>
 </ul></div>
 </div></div>

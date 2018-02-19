@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> » <a class="trail" href="printing.html" title="Stampa">Stampa</a> › <a class="trail" href="printing.html#setup" title="Configurare una stampante">Configurazione</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> » <a class="trail" href="printing.html.it" title="Stampa">Stampa</a> › <a class="trail" href="printing.html.it#setup" title="Configurare una stampante">Configurazione</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Impostare la stampante predefinita</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Se sono disponibili più stampanti, è possibile selezionare quella da considerare predefinita: normalmente si sceglie quella che viene usata più frequentemente.</p>
-<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">You need <span class="link"><a href="user-admin-explain.html" title="Come funzionano i privilegi di amministrazione?">administrative privileges</a></span>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">You need <span class="link"><a href="user-admin-explain.html.it" title="Come funzionano i privilegi di amministrazione?">administrative privileges</a></span>
     on the system to set the default printer.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Select your desired default printer from the list of available
@@ -70,17 +70,17 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Configurare una stampante">Configurare una stampante</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.it#setup" title="Configurare una stampante">Configurare una stampante</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Come funzionano i privilegi di amministrazione?">Come funzionano i privilegi di amministrazione?</a><span class="desc"> — You need administrative privileges to change important parts of your
+<a href="user-admin-explain.html.it" title="Come funzionano i privilegi di amministrazione?">Come funzionano i privilegi di amministrazione?</a><span class="desc"> — You need administrative privileges to change important parts of your
     system.</span>
 </li>
 <li class="links ">
-<a href="printing-setup.html" title="Impostare una stampante locale">Impostare una stampante locale</a><span class="desc"> — Impostare una stampante collegata al computer.</span>
+<a href="printing-setup.html.it" title="Impostare una stampante locale">Impostare una stampante locale</a><span class="desc"> — Impostare una stampante collegata al computer.</span>
 </li>
 </ul></div>
 </div></div>

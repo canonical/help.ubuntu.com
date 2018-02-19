@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="keyboard.html" title="键盘">键盘</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="keyboard.html.zh-CN" title="键盘">键盘</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="keyboard.html" title="键盘">键盘</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="设置键盘快捷键">设置键盘快捷键</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="keyboard.html.zh-CN" title="键盘">键盘</a> » <a class="trail" href="keyboard-shortcuts-set.html.zh-CN" title="设置键盘快捷键">设置键盘快捷键</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="prefs-language.html" title="Region &amp; Language">Region &amp; Language</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="prefs-language.html.zh-CN" title="Region &amp; Language">Region &amp; Language</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="keyboard.html" title="键盘">键盘</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="keyboard.html.zh-CN" title="键盘">键盘</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="keyboard.html" title="键盘">键盘</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="设置键盘快捷键">设置键盘快捷键</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="keyboard.html.zh-CN" title="键盘">键盘</a> » <a class="trail" href="keyboard-shortcuts-set.html.zh-CN" title="设置键盘快捷键">设置键盘快捷键</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,7 +61,7 @@
 <div class="contents">
 <p class="p">对于各种语言，键盘有数百种不同的布局。即使是对于一种语言，也往往会有多种键盘布局，如适用于英语的 Dvorak 布局。无论印在键上的字母和符号如何，均可让键盘与布局不同的另一键盘的行为相同。如果常轮番使用多种语言，可以通过这种方式来高效地使用键盘。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">+</span> button in the <span class="gui">Input Sources</span> section,
@@ -102,7 +102,7 @@
   <span class="gui">Input Source</span> <span class="gui">Keyboard Shortcuts</span>. These shortcuts open 
   the <span class="gui">Input Source</span> chooser where you can move forward and backward. 
   By default, you can switch to the next input source with 
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
+  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.zh-CN" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
   and to the previous one with
   <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span>. You can
   change these shortcuts in the <span class="gui">Keyboard</span> settings.</p>
@@ -115,20 +115,20 @@
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-language.html" title="Region &amp; Language">Region &amp; Language</a><span class="desc"> — <span class="link"><a href="session-language.html" title="更改系统语言">语言</a></span>、<span class="link"><a href="session-formats.html" title="更改日期格式和计量单位">区域格式</a></span>、<span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">键盘布局</a></span>…</span>
+<a href="prefs-language.html.zh-CN" title="Region &amp; Language">Region &amp; Language</a><span class="desc"> — <span class="link"><a href="session-language.html.zh-CN" title="更改系统语言">语言</a></span>、<span class="link"><a href="session-formats.html.zh-CN" title="更改日期格式和计量单位">区域格式</a></span>、<span class="link"><a href="keyboard-layouts.html.zh-CN" title="Use alternative keyboard layouts">键盘布局</a></span>…</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="设置键盘快捷键">设置键盘快捷键</a><span class="desc"> — 在<span class="gui">键盘</span>设置项中定义或修改键盘快捷键。</span>
+<a href="keyboard-shortcuts-set.html.zh-CN" title="设置键盘快捷键">设置键盘快捷键</a><span class="desc"> — 在<span class="gui">键盘</span>设置项中定义或修改键盘快捷键。</span>
 </li>
 <li class="links ">
-<a href="keyboard.html" title="键盘">键盘</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">键盘布局</a></span>、<span class="link"><a href="keyboard-cursor-blink.html" title="让键盘光标闪烁">光标闪烁</a></span>、<span class="link"><a href="a11y.html#mobility" title="运动障碍">键盘辅助功能</a></span>…</span>
+<a href="keyboard.html.zh-CN" title="键盘">键盘</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.zh-CN" title="Use alternative keyboard layouts">键盘布局</a></span>、<span class="link"><a href="keyboard-cursor-blink.html.zh-CN" title="让键盘光标闪烁">光标闪烁</a></span>、<span class="link"><a href="a11y.html.zh-CN#mobility" title="运动障碍">键盘辅助功能</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips-specialchars.html" title="输入特殊字符">输入特殊字符</a><span class="desc"> — 输入您键盘上找不到的字符，像外语字母、数学符号和特殊符号等。</span>
+<a href="tips-specialchars.html.zh-CN" title="输入特殊字符">输入特殊字符</a><span class="desc"> — 输入您键盘上找不到的字符，像外语字母、数学符号和特殊符号等。</span>
 </li></ul></div>
 </div></div>
 </div>

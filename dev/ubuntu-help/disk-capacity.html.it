@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> » <a class="trail" href="disk.html" title="Dischi e archiviazione">Dischi e archiviazione</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> » <a class="trail" href="disk.html.it" title="Dischi e archiviazione">Dischi e archiviazione</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Verificare lo spazio libero sul disco</span></h1></div>
@@ -87,7 +87,7 @@
 <p class="p">Se il disco è pieno è possibile:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Delete files that aren’t important or that you won’t use anymore.</p></li>
-<li class="list"><p class="p">Make <span class="link"><a href="backup-why.html" title="Eseguire il backup dei file importanti">backups</a></span> of the important files that
+<li class="list"><p class="p">Make <span class="link"><a href="backup-why.html.it" title="Eseguire il backup dei file importanti">backups</a></span> of the important files that
    you won’t need for a while and delete them from the hard drive.</p></li>
 </ul></div></div></div>
 </div></div>
@@ -97,11 +97,11 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Dischi e archiviazione">Dischi e archiviazione</a><span class="desc"> — 
-    <span class="link"><a href="disk-capacity.html" title="Verificare lo spazio libero sul disco">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html" title="Test the performance of your hard disk">performance</a></span>,
-    <span class="link"><a href="disk-check.html" title="Controllare la presenza di problemi sul disco fisso">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html" title="Gestire volumi e partizioni">volumes and partitions</a></span>…
+<a href="disk.html.it" title="Dischi e archiviazione">Dischi e archiviazione</a><span class="desc"> — 
+    <span class="link"><a href="disk-capacity.html.it" title="Verificare lo spazio libero sul disco">Disk space</a></span>,
+    <span class="link"><a href="disk-benchmark.html.it" title="Test the performance of your hard disk">performance</a></span>,
+    <span class="link"><a href="disk-check.html.it" title="Controllare la presenza di problemi sul disco fisso">problems</a></span>,
+    <span class="link"><a href="disk-partitions.html.it" title="Gestire volumi e partizioni">volumes and partitions</a></span>…
   </span>
 </li></ul></div>
 </div></div></div>

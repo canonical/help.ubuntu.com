@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html#problems" title="Типичные проблемы">Неполадки</a> » <a class="trail" href="hardware-problems-graphics.html" title="Проблемы с экраном">Проблемы с экраном</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки</a> » <a class="trail" href="hardware-problems-graphics.html.ru" title="Проблемы с экраном">Проблемы с экраном</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="prefs-display.html" title="Монитор и экран">Монитор и экран</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="prefs-display.html.ru" title="Монитор и экран">Монитор и экран</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">Depending on your hardware, you can change the brightness of your screen to
   save power or to make the screen more readable in bright light.</p>
 <p class="p">To change the brightness of your screen, click the
-  <span class="gui"><a href="shell-introduction.html#yourname" title="Вы и ваш компьютер">system menu</a></span> on the right side
+  <span class="gui"><a href="shell-introduction.html.ru#yourname" title="Вы и ваш компьютер">system menu</a></span> on the right side
   of the top bar and adjust the screen brightness slider to the value you want
   to use. The change should take effect immediately.</p>
 <div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">Many laptop keyboards have special keys to adjust the brightness. These
@@ -66,7 +66,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">To set the screen brightness using the Power panel:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span>
       overview and start typing <span class="gui">Power</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Adjust the <span class="gui">Screen brightness</span> slider to the value you want to
@@ -78,7 +78,7 @@
     screen brightness in the <span class="gui">Power</span> panel.</p></div></div></div></div>
 <p class="p">If it is possible to set the brightness of your screen, you can also have
   the screen dim automatically to save power. For more information, see
-  <span class="link"><a href="power-whydim.html" title="Почему мой экран через некоторое время гаснет?">Почему мой экран через некоторое время гаснет?</a></span>.</p>
+  <span class="link"><a href="power-whydim.html.ru" title="Почему мой экран через некоторое время гаснет?">Почему мой экран через некоторое время гаснет?</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -87,10 +87,10 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Монитор и экран">Монитор и экран</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Изменение фонов рабочего стола и экрана блокировки">Фон</a></span>, <span class="link"><a href="look-resolution.html" title="Изменение разрешения или ориентации экрана">размер и ориентация</a></span>, яркость…</span>
+<a href="prefs-display.html.ru" title="Монитор и экран">Монитор и экран</a><span class="desc"> — <span class="link"><a href="look-background.html.ru" title="Изменение фонов рабочего стола и экрана блокировки">Фон</a></span>, <span class="link"><a href="look-resolution.html.ru" title="Изменение разрешения или ориентации экрана">размер и ориентация</a></span>, яркость…</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Проблемы с экраном">Проблемы с экраном</a><span class="desc"> — Устранение проблем с экраном и графикой.</span>
+<a href="hardware-problems-graphics.html.ru" title="Проблемы с экраном">Проблемы с экраном</a><span class="desc"> — Устранение проблем с экраном и графикой.</span>
 </li>
 </ul></div>
 </div></div>
@@ -98,17 +98,17 @@
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autobrightness.html" title="Enable automatic brightness">Enable automatic brightness</a><span class="desc"> — Automatically control screen brightness to reduce battery use.</span>
+<a href="power-autobrightness.html.ru" title="Enable automatic brightness">Enable automatic brightness</a><span class="desc"> — Automatically control screen brightness to reduce battery use.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="Настройка контрастности">Настройка контрастности</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
+<a href="a11y-contrast.html.ru" title="Настройка контрастности">Настройка контрастности</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
     they’re easier to see.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="Почему мой экран через некоторое время гаснет?">Почему мой экран через некоторое время гаснет?</a><span class="desc"> — В целях экономии энергии, во время простоя компьютера экран гаснет.</span>
+<a href="power-whydim.html.ru" title="Почему мой экран через некоторое время гаснет?">Почему мой экран через некоторое время гаснет?</a><span class="desc"> — В целях экономии энергии, во время простоя компьютера экран гаснет.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора">Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора</a><span class="desc"> — Советы по уменьшению энергопотребления компьютера</span>
+<a href="power-batterylife.html.ru" title="Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора">Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора</a><span class="desc"> — Советы по уменьшению энергопотребления компьютера</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,31 +43,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">蓝牙</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">蓝牙是一个无线传输协议。您可以通过蓝牙协议将外置设备连接到您的电脑。蓝牙在耳机、键盘、鼠标等设备上有着广泛的使用。您也可以使用蓝牙 <span class="link"><a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">发送文件</a></span>，例如从电脑向手机传送信息。</p>
+<p class="p">蓝牙是一个无线传输协议。您可以通过蓝牙协议将外置设备连接到您的电脑。蓝牙在耳机、键盘、鼠标等设备上有着广泛的使用。您也可以使用蓝牙 <span class="link"><a href="bluetooth-send-file.html.zh-CN" title="Send files to a Bluetooth device">发送文件</a></span>，例如从电脑向手机传送信息。</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html" title="开启或关闭蓝牙"><span class="title">开启或关闭蓝牙</span><span class="linkdiv-dash"> — </span><span class="desc">启用或禁用计算机中的蓝牙设备。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html" title="Disconnect a Bluetooth device"><span class="title">Disconnect a Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">从蓝牙设备列表中，删除一个设备。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html" title="Send files to a Bluetooth device"><span class="title">Send files to a Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">和蓝牙设备(如手机)共享文件。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html" title="将您的计算机连接至一蓝牙设备"><span class="title">将您的计算机连接至一蓝牙设备</span><span class="linkdiv-dash"> — </span><span class="desc">配对蓝牙设备。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html" title="什么是蓝牙可见性？"><span class="title">什么是蓝牙可见性？</span><span class="linkdiv-dash"> — </span><span class="desc">Whether other devices can discover your computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html.zh-CN" title="开启或关闭蓝牙"><span class="title">开启或关闭蓝牙</span><span class="linkdiv-dash"> — </span><span class="desc">启用或禁用计算机中的蓝牙设备。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.zh-CN" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html.zh-CN" title="Disconnect a Bluetooth device"><span class="title">Disconnect a Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">从蓝牙设备列表中，删除一个设备。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.zh-CN" title="Send files to a Bluetooth device"><span class="title">Send files to a Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">和蓝牙设备(如手机)共享文件。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html.zh-CN" title="将您的计算机连接至一蓝牙设备"><span class="title">将您的计算机连接至一蓝牙设备</span><span class="linkdiv-dash"> — </span><span class="desc">配对蓝牙设备。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html.zh-CN" title="什么是蓝牙可见性？"><span class="title">什么是蓝牙可见性？</span><span class="linkdiv-dash"> — </span><span class="desc">Whether other devices can discover your computer.</span></a></div>
 </div></div></div>
 </div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">问题</span></h2></div>
 <div class="region">
-<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html" title="I cannot connect my Bluetooth device"><span class="title">I cannot connect my Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">适配器没有开启或者驱动不正确，或者蓝牙被禁用或阻止了。</span></a></div></div></div></div></div>
+<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html.zh-CN" title="I cannot connect my Bluetooth device"><span class="title">I cannot connect my Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">适配器没有开启或者驱动不正确，或者蓝牙被禁用或阻止了。</span></a></div></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">更多信息</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="常见问题">硬件问题</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.zh-CN#problems" title="常见问题">硬件问题</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -77,7 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="硬件 &amp; 驱动">硬件 &amp; 驱动</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="常见问题">硬件问题</a></span>、<span class="link"><a href="printing.html" title="打印">打印机</a></span>、<span class="link"><a href="power.html" title="电源 &amp; 电池">电源设置</a></span>、<span class="link"><a href="color.html" title="色彩管理">颜色管理</a></span>、<span class="link"><a href="bluetooth.html" title="蓝牙">蓝牙</a></span>、<span class="link"><a href="disk.html" title="磁盘和存储器">磁盘</a></span>…</span>
+<a href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件 &amp; 驱动</a><span class="desc"> — <span class="link"><a href="hardware.html.zh-CN#problems" title="常见问题">硬件问题</a></span>、<span class="link"><a href="printing.html.zh-CN" title="打印">打印机</a></span>、<span class="link"><a href="power.html.zh-CN" title="电源 &amp; 电池">电源设置</a></span>、<span class="link"><a href="color.html.zh-CN" title="色彩管理">颜色管理</a></span>、<span class="link"><a href="bluetooth.html.zh-CN" title="蓝牙">蓝牙</a></span>、<span class="link"><a href="disk.html.zh-CN" title="磁盘和存储器">磁盘</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

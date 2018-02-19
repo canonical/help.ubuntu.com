@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="accounts.html" title="Сетевые учётные записи">Сетевые учётные записи</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="accounts.html.ru" title="Сетевые учётные записи">Сетевые учётные записи</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Почему тип моей учётной записи отсутствует в списке?</span></h1></div>
@@ -57,10 +57,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Сетевые учётные записи">Сетевые учётные записи</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Добавление учётной записи">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Удаление учётной записи">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.ru" title="Сетевые учётные записи">Сетевые учётные записи</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.ru" title="Добавление учётной записи">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.ru" title="Удаление учётной записи">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.ru" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

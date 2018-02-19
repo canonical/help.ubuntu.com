@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="clock.html" title="Datum in čas">Datum in čas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="clock.html.sl" title="Datum in čas">Datum in čas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sprememba časovnega pasu</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span>      
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span>      
       overview and start typing <span class="gui">Date &amp; Time</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Date &amp; Time</span> to open the panel.</p></li>
 <li class="steps"><p class="p">If you have <span class="gui">Automatic Time Zone</span> set to <span class="gui">ON</span>, your
@@ -61,7 +61,7 @@
       search for your current city.</p></li>
 </ol></div></div></div>
 <p class="p">The time will be updated automatically when you select a different
-  location. You may also wish to <span class="link"><a href="clock-set.html" title="Sprememba datuma in časa">set the clock
+  location. You may also wish to <span class="link"><a href="clock-set.html.sl" title="Sprememba datuma in časa">set the clock
   manually</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -69,11 +69,11 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Datum in čas">Datum in čas</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html" title="Sprememba datuma in časa">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="Sprememba časovnega pasu">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="Sestanki v koledarju">calendar and appointments</a></span>…
+<a href="clock.html.sl" title="Datum in čas">Datum in čas</a><span class="desc"> — 
+      <span class="link"><a href="clock-set.html.sl" title="Sprememba datuma in časa">Set date and time</a></span>,
+      <span class="link"><a href="clock-world.html.sl" title="Add a world clock">world clocks</a></span>,
+      <span class="link"><a href="clock-timezone.html.sl" title="Sprememba časovnega pasu">timezone</a></span>,
+      <span class="link"><a href="clock-calendar.html.sl" title="Sestanki v koledarju">calendar and appointments</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

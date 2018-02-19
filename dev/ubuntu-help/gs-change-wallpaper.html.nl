@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Aan de slag">Aan de slag met Gnome</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Datum, tijd en tijdszone wijzigen">Vorige</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.nl" title="Datum, tijd en tijdszone wijzigen">Vorige</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">De achtergrond wijzigen</span></h1></div>
 <div class="region">
 <div class="contents"><div class="ui-tile ">
@@ -67,7 +67,7 @@
 <div id="change-wallpaper-overview" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">De achtergrond wijzigen</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klik op het <span class="gui"><a href="shell-introduction.html#yourname" title="U en uw computer">systeemmenu</a></span> aan de rechterkant van de bovenste balk.</p></li>
+<li class="steps"><p class="p">Klik op het <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">systeemmenu</a></span> aan de rechterkant van de bovenste balk.</p></li>
 <li class="steps"><p class="p">Klik op de knop Instellingen linksonder in het menu.</p></li>
 <li class="steps"><p class="p">Klik op het <span class="gui">Achtergrond</span>paneel.</p></li>
 <li class="steps"><p class="p">Klik op de huidige achtergrondafbeelding aan de linkerkant van het <span class="gui">Achtergrond</span>venster.</p></li>
@@ -76,20 +76,20 @@
 <li class="steps"><p class="p">Sluit het <span class="gui">Achtergrond</span>venster door op het kruisje rechtsboven in het venster te klikken.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Datum, tijd en tijdszone wijzigen">Vorige</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.nl" title="Datum, tijd en tijdszone wijzigen">Vorige</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Aan de slag">Aan de slag met Gnome</a><span class="desc"> — Nieuw bij Gnome? Leer hoe u het onder de knie krijgt.</span>
+<a href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a><span class="desc"> — Nieuw bij Gnome? Leer hoe u het onder de knie krijgt.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-background.html" title="Change the desktop and lock screen backgrounds">Change the desktop and lock screen backgrounds</a><span class="desc"> — Set an image, color, or gradient as your desktop background or lock
+<a href="look-background.html.nl" title="Change the desktop and lock screen backgrounds">Change the desktop and lock screen backgrounds</a><span class="desc"> — Set an image, color, or gradient as your desktop background or lock
     screen background.</span>
 </li></ul></div>
 </div></div>

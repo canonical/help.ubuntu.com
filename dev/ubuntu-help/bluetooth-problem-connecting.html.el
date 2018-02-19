@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="bluetooth.html#problems" title="Προβλήματα">Προβλήματα Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="bluetooth.html.el#problems" title="Προβλήματα">Προβλήματα Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Δεν μπορώ να συνδέσω τη συσκευή Bluetooth</span></h1></div>
@@ -54,13 +54,11 @@
 <dt class="terms">Φραγμένη ή αναξιόπιστη σύνδεση</dt>
 <dd class="terms"><p class="p">Μερικές συσκευές Bluetooth φράσσουν τις συνδέσεις από προεπιλογή, ή απαιτούν την αλλαγή μιας ρύθμισης για να μπορέσουν να γίνουν συνδέσεις. Βεβαιωθείτε ότι η συσκευή σας ρυθμίστηκε να επιτρέπει συνδέσεις.</p></dd>
 <dt class="terms">Δεν αναγνωρίστηκε το Bluetooth</dt>
-<dd class="terms"><p class="p">Ο προσαρμογέας Bluetooth μπορεί να μην έχει αναγνωριστεί από τον υπολογιστή. Αυτό μπορεί να συνέβη επειδή οι <span class="link"><a href="hardware-driver.html" title="Τι είναι ένας οδηγός;">οδηγοί</a></span> για τον προσαρμογέα δεν είναι εγκατεστημένοι. Μερικοί προσαρμογείς Bluetooth δεν υποστηρίζονται στο Linux, έτσι ίσως να μην μπορείτε να βρείτε τους σωστούς οδηγούς για αυτούς. Σε αυτήν την περίπτωση, θα πρέπει να πάρετε προφανώς έναν διαφορετικό προσαρμογέα Bluetooth.</p></dd>
+<dd class="terms"><p class="p">Ο προσαρμογέας Bluetooth μπορεί να μην έχει αναγνωριστεί από τον υπολογιστή. Αυτό μπορεί να συνέβη επειδή οι <span class="link"><a href="hardware-driver.html.el" title="Τι είναι ένας οδηγός;">οδηγοί</a></span> για τον προσαρμογέα δεν είναι εγκατεστημένοι. Μερικοί προσαρμογείς Bluetooth δεν υποστηρίζονται στο Linux, έτσι ίσως να μην μπορείτε να βρείτε τους σωστούς οδηγούς για αυτούς. Σε αυτήν την περίπτωση, θα πρέπει να πάρετε προφανώς έναν διαφορετικό προσαρμογέα Bluetooth.</p></dd>
 <dt class="terms">Ο προσαρμογέας δεν ενεργοποιήθηκε</dt>
-<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Click the
-          Bluetooth icon in the <span class="gui">menu bar</span> and check that it’s not
-          <span class="link"><a href="bluetooth-turn-on-off.html" title="Ενεργοποίηση ή απενεργοποίηση του bluetooth">disabled</a></span>.</p></dd>
+<dd class="terms"><p class="p">Βεβαιωθείτε ότι ο προσαρμογέας σας Bluetooth είναι ενεργός. Ανοίξτε τον πίνακα Bluetooth και ελέγξτε ότι δεν είναι <span class="link"><a href="bluetooth-turn-on-off.html.el" title="Ενεργοποίηση ή απενεργοποίηση του bluetooth">ανενεργός</a></span>.</p></dd>
 <dt class="terms">Ανενεργή σύνδεση συσκευής Bluetooth</dt>
-<dd class="terms"><p class="p">Ελέγξετε ότι το Bluetooth είναι ενεργό στη συσκευή στην οποία προσπαθείτε να συνδεθείτε και ότι αυτή είναι <span class="link"><a href="bluetooth-visibility.html" title="Τι είναι η ορατότητα Bluetooth;">αντιληπτή ή ορατή</a></span>. Για παράδειγμα, εάν προσπαθείτε να συνδεθείτε με ένα τηλέφωνο, βεβαιωθείτε ότι δεν είναι σε λειτουργία αεροπλάνου.</p></dd>
+<dd class="terms"><p class="p">Ελέγξετε ότι το Bluetooth είναι ενεργό στη συσκευή στην οποία προσπαθείτε να συνδεθείτε και ότι αυτή είναι <span class="link"><a href="bluetooth-visibility.html.el" title="Τι είναι η ορατότητα Bluetooth;">αντιληπτή ή ορατή</a></span>. Για παράδειγμα, εάν προσπαθείτε να συνδεθείτε με ένα τηλέφωνο, βεβαιωθείτε ότι δεν είναι σε λειτουργία αεροπλάνου.</p></dd>
 <dt class="terms">Δεν υπάρχει προσαρμογέας Bluetooth στον υπολογιστή σας</dt>
 <dd class="terms"><p class="p">Πολλοί υπολογιστές δεν έχουν προσαρμογείς Bluetooth. Μπορείτε να αγοράσετε έναν προσαρμογέα εάν θέλετε να χρησιμοποιήσετε Bluetooth.</p></dd>
 </dl></div></div></div>
@@ -70,12 +68,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="bluetooth.html#problems" title="Προβλήματα">Προβλήματα Bluetooth</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="bluetooth.html.el#problems" title="Προβλήματα">Προβλήματα Bluetooth</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="Τι είναι ένας οδηγός;">Τι είναι ένας οδηγός;</a><span class="desc"> — Ένας οδηγός υλικού/συσκευής επιτρέπει στον υπολογιστή σας να χρησιμοποιήσει συσκευές που προσαρτώνται σε αυτόν.</span>
+<a href="hardware-driver.html.el" title="Τι είναι ένας οδηγός;">Τι είναι ένας οδηγός;</a><span class="desc"> — Ένας οδηγός υλικού/συσκευής επιτρέπει στον υπολογιστή σας να χρησιμοποιήσει συσκευές που προσαρτώνται σε αυτόν.</span>
 </li></ul></div>
 </div></div>
 </div>

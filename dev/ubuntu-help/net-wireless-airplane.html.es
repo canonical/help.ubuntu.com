@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-wireless.html" title="Conexiones inalámbricas">Conexiones inalámbricas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-wireless.html.es" title="Conexiones inalámbricas">Conexiones inalámbricas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Apagar el modo inalámbrico (modo avión)</span></h1></div>
@@ -53,18 +53,18 @@
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Usar el <span class="em">Modo avión</span> desactivará completamente todas las conexiones inalámbricas, incluyendo las conexiones inalámbricas, 3G y de Bluetooth.</p></div></div></div></div>
 <p class="p">Para activar el modo avión</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Red</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Red</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Red</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p"><span class="gui">Active</span> el <span class="gui">Modo avión</span>. Esto apagará su conexión inalámbrica hasta que apague el modo avión.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Puede desactivar su conexión inalámbrica desde el <span class="gui"><a href="shell-introduction.html#yourname" title="Usted y su equipo">menú del sistema</a></span> pulsando en el nombre de la conexión y eligiendo <span class="gui">Apagar</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Puede desactivar su conexión inalámbrica desde el <span class="gui"><a href="shell-introduction.html.es#yourname" title="Usted y su equipo">menú del sistema</a></span> pulsando en el nombre de la conexión y eligiendo <span class="gui">Apagar</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Conexiones inalámbricas">Conexiones inalámbricas</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Conectar con una red inalámbrica">Conectar con una red inalámbrica</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Conectar a una red inalámbrica oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="¿Por qué mi red inalámbrica permanece desconectada?">desconectarse</a></span>…</span>
+<a href="net-wireless.html.es" title="Conexiones inalámbricas">Conexiones inalámbricas</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.es" title="Conectar con una red inalámbrica">Conectar con una red inalámbrica</a></span>, <span class="link"><a href="net-wireless-hidden.html.es" title="Conectar a una red inalámbrica oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.es" title="¿Por qué mi red inalámbrica permanece desconectada?">desconectarse</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

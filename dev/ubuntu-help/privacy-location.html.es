@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="privacy.html" title="Configuración de privacidad">Configuración de privacidad</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="privacy.html.es" title="Configuración de privacidad">Configuración de privacidad</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Controlar los servicios de ubicación</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Desactivar las características de geolocalización de su escritorio</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> empiece a escribir <span class="gui">Privacidad</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> empiece a escribir <span class="gui">Privacidad</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Privacidad</span> para abrir el panel.</p></li>
 <li class="steps">
 <p class="p"><span class="gui">Apague</span> los <span class="gui">Servicios de ubicación</span>.</p>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html" title="Configuración de privacidad">Configuración de privacidad</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Bloquear automáticamente su pantalla">Pantalla de bloqueo</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Desactivar o limitar el registro del histórico">Histórico de uso</a></span>, <span class="link"><a href="privacy-purge.html" title="Limpiar la papelera y los archivos temporales">Vaciar papelera y archivos temporales</a></span>…</span>
+<a href="privacy.html.es" title="Configuración de privacidad">Configuración de privacidad</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.es" title="Bloquear automáticamente su pantalla">Pantalla de bloqueo</a></span>, <span class="link"><a href="privacy-history-recent-off.html.es" title="Desactivar o limitar el registro del histórico">Histórico de uso</a></span>, <span class="link"><a href="privacy-purge.html.es" title="Limpiar la papelera y los archivos temporales">Vaciar papelera y archivos temporales</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

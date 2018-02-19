@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#backup" title="Hacer copias de respaldo">Hacer copias de respaldo</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#backup" title="Hacer copias de respaldo">Hacer copias de respaldo</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hacer copias de respaldo de sus archivos importantes</span></h1></div>
@@ -53,17 +53,17 @@
 <p class="p">La mejor manera de respaldar sus archivos es hacerlo regularmente y mantener las copias fuera del sitio y cifradas (si es posible).</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-how.html" title="Cómo hacer copias de respaldo"><span class="title">Cómo hacer copias de respaldo</span><span class="linkdiv-dash"> — </span><span class="desc">Use Déjà Dup (u otra aplicación de copias de respaldo) para hacer copias de sus archivos valiosos y de su configuración para evitar pérdidas.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-what.html" title="De qué hacer una copia de respaldo"><span class="title">De qué hacer una copia de respaldo</span><span class="linkdiv-dash"> — </span><span class="desc">Respalde cualquier cosa de la que no pueda prescindir si algo va mal.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-how.html.es" title="Cómo hacer copias de respaldo"><span class="title">Cómo hacer copias de respaldo</span><span class="linkdiv-dash"> — </span><span class="desc">Use Déjà Dup (u otra aplicación de copias de respaldo) para hacer copias de sus archivos valiosos y de su configuración para evitar pérdidas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-what.html.es" title="De qué hacer una copia de respaldo"><span class="title">De qué hacer una copia de respaldo</span><span class="linkdiv-dash"> — </span><span class="desc">Respalde cualquier cosa de la que no pueda prescindir si algo va mal.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-where.html" title="Dónde almacenar su copia de respaldo"><span class="title">Dónde almacenar su copia de respaldo</span><span class="linkdiv-dash"> — </span><span class="desc">Consejo sobre dónde almacenar las copias de respaldo y qué dispositivo de almacenamiento usar.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-where.html.es" title="Dónde almacenar su copia de respaldo"><span class="title">Dónde almacenar su copia de respaldo</span><span class="linkdiv-dash"> — </span><span class="desc">Consejo sobre dónde almacenar las copias de respaldo y qué dispositivo de almacenamiento usar.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Hacer copias de respaldo">Hacer copias de respaldo</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.es#backup" title="Hacer copias de respaldo">Hacer copias de respaldo</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

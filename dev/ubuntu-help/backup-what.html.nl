@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#backup" title="Reservekopieën maken">Reservekopieën maken</a> » <a class="trail" href="backup-why.html" title="Reservekopieën maken van uw belangrijke bestanden">Reservekopieën</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#backup" title="Reservekopieën maken">Reservekopieën maken</a> » <a class="trail" href="backup-why.html.nl" title="Reservekopieën maken van uw belangrijke bestanden">Reservekopieën</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Waarvan een reservekopie maken</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">U zou prioriteit moeten geven aan het maken van reservekopieën van uw  <span class="link"><a href="backup-thinkabout.html" title="Waar kan ik de bestanden vinden waarvan ik een reservekopie wil maken?">belangrijkste bestanden</a></span>, evenals bestanden die moeilijk opnieuw aan te maken zijn. Een voorbeeld van belangrijkst tot minst belangrijk:</p>
+<p class="p">U zou prioriteit moeten geven aan het maken van reservekopieën van uw  <span class="link"><a href="backup-thinkabout.html.nl" title="Waar kan ik de bestanden vinden waarvan ik een reservekopie wil maken?">belangrijkste bestanden</a></span>, evenals bestanden die moeilijk opnieuw aan te maken zijn. Een voorbeeld van belangrijkst tot minst belangrijk:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Uw persoonlijke bestanden</dt>
 <dd class="terms"><p class="p">Documenten, spreadsheets, e-mail, agenda-afspraken, financiële gegevens, familiefoto's, en andere persoonlijk bestanden die u niet kunt vervangen.</p></dd>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Reservekopieën maken van uw belangrijke bestanden">Reservekopieën maken van uw belangrijke bestanden</a><span class="desc"> — Het waarom, wat, waar en hoe van reservekopieën maken.</span>
+<a href="backup-why.html.nl" title="Reservekopieën maken van uw belangrijke bestanden">Reservekopieën maken van uw belangrijke bestanden</a><span class="desc"> — Het waarom, wat, waar en hoe van reservekopieën maken.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Encerrando sessão, desligando seu computador ou alternando usuários</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Encerrar sessão ou alternar usuários</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Para permitir que outros usuários usem o seu computador, você pode encerrar a sessão ou deixar sua sessão aberta e apenas alterar usuários. Se você alternar usuários, todos os seus aplicativos continuarão em execução e tudo estará onde você deixou quando voltar.</p>
-<p class="p">Para <span class="gui">Encerrar sessão</span> ou <span class="gui">Alternar usuário</span>, clique no <span class="link"><a href="shell-introduction.html#yourname" title="Você e seu computador">menu de sistema</a></span> no lado direito da barra superior, clique no seu nome e, então, escolha a opção correta.</p>
+<p class="p">Para <span class="gui">Encerrar sessão</span> ou <span class="gui">Alternar usuário</span>, clique no <span class="link"><a href="shell-introduction.html.pt-BR#yourname" title="Você e seu computador">menu de sistema</a></span> no lado direito da barra superior, clique no seu nome e, então, escolha a opção correta.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">As entradas <span class="gui">Encerrar sessão</span> e <span class="gui">Alternar usuários</span> aparecem apenas no menu se você tiver mais de uma conta de usuário no seu sistema.</p></div></div></div></div>
 </div></div>
 </div></div>
@@ -61,7 +61,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Bloquear a tela</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p">Se você está deixando o seu computador por um pequeno período de tempo, você deveria bloquear sua tela para evitar que outras pessoas acessem os seus arquivos ou executem aplicativos. Ao retornar, levante a cortina do <span class="link"><a href="shell-lockscreen.html" title="A tela de bloqueio">bloqueio de tela</a></span> e digite sua senha para voltar para a sessão. Se você não bloquear a tela, ela será bloqueada automaticamente após um determinado período de tempo.</p>
+<p class="p">Se você está deixando o seu computador por um pequeno período de tempo, você deveria bloquear sua tela para evitar que outras pessoas acessem os seus arquivos ou executem aplicativos. Ao retornar, levante a cortina do <span class="link"><a href="shell-lockscreen.html.pt-BR" title="A tela de bloqueio">bloqueio de tela</a></span> e digite sua senha para voltar para a sessão. Se você não bloquear a tela, ela será bloqueada automaticamente após um determinado período de tempo.</p>
 <p class="p">Para bloquear sua tela, clique no menu de sistema no lado direito da barra superior e pressione o botão da tela de bloqueio na parte inferior do menu.</p>
 <p class="p">Quando sua tela está bloqueada, outros usuários podem iniciar a sessão com suas próprias contas clicando em <span class="gui">Iniciar sessão como outro usuário</span> na tela de senha. Você pode alternar de volta para sua área de trabalho quando eles tiverem finalizado.</p>
 </div>
@@ -71,10 +71,10 @@
 <div class="title"><h3><span class="title">Veja também</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="session-screenlocks.html" title="A tela bloqueia sozinha rápido demais">A tela bloqueia sozinha rápido demais</a><span class="desc"> — Altere quanto tempo esperar antes de travar a tela nas configurações de <span class="gui">Privacidade</span>.</span>
+<a href="session-screenlocks.html.pt-BR" title="A tela bloqueia sozinha rápido demais">A tela bloqueia sozinha rápido demais</a><span class="desc"> — Altere quanto tempo esperar antes de travar a tela nas configurações de <span class="gui">Privacidade</span>.</span>
 </li>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Bloqueando automaticamente sua tela">Bloqueando automaticamente sua tela</a><span class="desc"> — Evite que outras pessoas usem seu computador quanto você estiver distante dele.</span>
+<a href="privacy-screen-lock.html.pt-BR" title="Bloqueando automaticamente sua tela">Bloqueando automaticamente sua tela</a><span class="desc"> — Evite que outras pessoas usem seu computador quanto você estiver distante dele.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -94,13 +94,13 @@
 <div class="title"><h3><span class="title">Veja também</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html" title="Configurando suspensão automática">Configurando suspensão automática</a><span class="desc"> — Configure seu computador para suspender automaticamente.</span>
+<a href="power-autosuspend.html.pt-BR" title="Configurando suspensão automática">Configurando suspensão automática</a><span class="desc"> — Configure seu computador para suspender automaticamente.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="O que acontece quando eu suspendo o meu computador?">O que acontece quando eu suspendo o meu computador?</a><span class="desc"> — Suspensão leva seu computador para dormir, para que use menos energia.</span>
+<a href="power-suspend.html.pt-BR" title="O que acontece quando eu suspendo o meu computador?">O que acontece quando eu suspendo o meu computador?</a><span class="desc"> — Suspensão leva seu computador para dormir, para que use menos energia.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Usando menos energia e melhorando duração da bateria">Usando menos energia e melhorando duração da bateria</a><span class="desc"> — Dicas para reduzir o consumo de energia do seus computador.</span>
+<a href="power-batterylife.html.pt-BR" title="Usando menos energia e melhorando duração da bateria">Usando menos energia e melhorando duração da bateria</a><span class="desc"> — Dicas para reduzir o consumo de energia do seus computador.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -113,14 +113,14 @@
 <div class="contents">
 <p class="p">Se você deseja desligar por inteiro o seu computador, ou fazer uma reinicialização completa, clique no menu de sistema no lado direito da barra superior e pressione o botão de desligar na parte inferior do menu. Um diálogo vai abrir oferecendo a você opções para <span class="gui">Reiniciar</span> ou <span class="gui">Desligar</span>.</p>
 <p class="p">Se ainda há usuários com sessão iniciada, você pode não conseguir desligar ou reiniciar o computador porque isso vai finalizar a sessão deles. Se você é um usuário administrador, pode ser solicitado a você informar sua senha pra desligar.</p>
-<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Você pode querer desligar o seu computador se você deseja movê-lo e não tiver bateria, se sua bateria estiver baixa ou não mantiver carga corretamente. Um computador desligado também usa <span class="link"><a href="power-batterylife.html" title="Usando menos energia e melhorando duração da bateria">menos bateria</a></span> do que um que está suspenso.</p></div></div></div></div>
+<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Você pode querer desligar o seu computador se você deseja movê-lo e não tiver bateria, se sua bateria estiver baixa ou não mantiver carga corretamente. Um computador desligado também usa <span class="link"><a href="power-batterylife.html.pt-BR" title="Usando menos energia e melhorando duração da bateria">menos bateria</a></span> do que um que está suspenso.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Veja também</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html" title="Usando menos energia e melhorando duração da bateria">Usando menos energia e melhorando duração da bateria</a><span class="desc"> — Dicas para reduzir o consumo de energia do seus computador.</span>
+<a href="power-batterylife.html.pt-BR" title="Usando menos energia e melhorando duração da bateria">Usando menos energia e melhorando duração da bateria</a><span class="desc"> — Dicas para reduzir o consumo de energia do seus computador.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -133,18 +133,18 @@
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power.html" title="Energia &amp; bateria">Energia &amp; bateria</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Verificando o status da bateria">Status da bateria</a></span>, <span class="link"><a href="power-suspend.html" title="O que acontece quando eu suspendo o meu computador?">suspensão</a></span>, <span class="link"><a href="power-whydim.html" title="Por que a minha tela começa a escurecer após um tempo?">escurecer a tela</a></span>…</span>
+<a href="power.html.pt-BR" title="Energia &amp; bateria">Energia &amp; bateria</a><span class="desc"> — <span class="link"><a href="power-status.html.pt-BR" title="Verificando o status da bateria">Status da bateria</a></span>, <span class="link"><a href="power-suspend.html.pt-BR" title="O que acontece quando eu suspendo o meu computador?">suspensão</a></span>, <span class="link"><a href="power-whydim.html.pt-BR" title="Por que a minha tela começa a escurecer após um tempo?">escurecer a tela</a></span>…</span>
 </li>
-<li class="links "><a href="index.html" title="Guia do Ubuntu Desktop">Guia do Ubuntu Desktop</a></li>
+<li class="links "><a href="index.html.pt-BR" title="Guia do Ubuntu Desktop">Guia do Ubuntu Desktop</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Seu ambiente">Seu ambiente</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Compromissos da agenda">Agenda</a></span>, <span class="link"><a href="shell-notifications.html" title="Notificações e a área de notificação">notificações</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Atalhos de teclado úteis">atalhos de teclado</a></span>, <span class="link"><a href="shell-windows.html" title="Janelas e espaços de trabalho">janelas e espaços de trabalho</a></span>…</span>
+<a href="shell-overview.html.pt-BR" title="Seu ambiente">Seu ambiente</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.pt-BR" title="Compromissos da agenda">Agenda</a></span>, <span class="link"><a href="shell-notifications.html.pt-BR" title="Notificações e a área de notificação">notificações</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.pt-BR" title="Atalhos de teclado úteis">atalhos de teclado</a></span>, <span class="link"><a href="shell-windows.html.pt-BR" title="Janelas e espaços de trabalho">janelas e espaços de trabalho</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-autologin.html" title="Iniciando automaticamente a sessão">Iniciando automaticamente a sessão</a><span class="desc"> — Configure o início automático de sessão para quando você ligar seu computador.</span>
+<a href="user-autologin.html.pt-BR" title="Iniciando automaticamente a sessão">Iniciando automaticamente a sessão</a><span class="desc"> — Configure o início automático de sessão para quando você ligar seu computador.</span>
 </li></ul></div>
 </div></div>
 </div>

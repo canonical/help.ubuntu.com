@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Verkkojen nimikkeet ja vinkit</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-findip.html" title="IP-osoitteen selvittäminen"><span class="title">IP-osoitteen selvittäminen</span><span class="linkdiv-dash"> — </span><span class="desc">Oman IP-osoitteen tietäminen on hyödyllistä verkko-ongelmia selvittäessä.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html" title="Internet ja turvassa pysyminen"><span class="title">Internet ja turvassa pysyminen</span><span class="linkdiv-dash"> — </span><span class="desc">Yleisiä neuvoja internetin käyttöön.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html" title="Mikä IP-osoite on?"><span class="title">Mikä IP-osoite on?</span><span class="linkdiv-dash"> — </span><span class="desc">IP-osoite on tavallaan tietokoneesi "puhelinnumero".</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-findip.html.fi" title="IP-osoitteen selvittäminen"><span class="title">IP-osoitteen selvittäminen</span><span class="linkdiv-dash"> — </span><span class="desc">Oman IP-osoitteen tietäminen on hyödyllistä verkko-ongelmia selvittäessä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html.fi" title="Internet ja turvassa pysyminen"><span class="title">Internet ja turvassa pysyminen</span><span class="linkdiv-dash"> — </span><span class="desc">Yleisiä neuvoja internetin käyttöön.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html.fi" title="Mikä IP-osoite on?"><span class="title">Mikä IP-osoite on?</span><span class="linkdiv-dash"> — </span><span class="desc">IP-osoite on tavallaan tietokoneesi "puhelinnumero".</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html" title="Mikä MAC-osoite on?"><span class="title">Mikä MAC-osoite on?</span><span class="linkdiv-dash"> — </span><span class="desc">Verkkolaittelle määritetty yksilöllinen tunniste.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-proxy.html" title="Määritä välityspalvelimen asetukset"><span class="title">Määritä välityspalvelimen asetukset</span><span class="linkdiv-dash"> — </span><span class="desc">A proxy is an intermediary for web traffic, it can be used for accessing web services anonymously, for control or security purposes.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html.fi" title="Mikä MAC-osoite on?"><span class="title">Mikä MAC-osoite on?</span><span class="linkdiv-dash"> — </span><span class="desc">Verkkolaittelle määritetty yksilöllinen tunniste.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-proxy.html.fi" title="Määritä välityspalvelimen asetukset"><span class="title">Määritä välityspalvelimen asetukset</span><span class="linkdiv-dash"> — </span><span class="desc">A proxy is an intermediary for web traffic, it can be used for accessing web services anonymously, for control or security purposes.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -65,13 +65,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Langattomat verkkoyhteydet">Langattomat lähiverkot</a></span>, <span class="link"><a href="net-wired.html" title="Kiinteät verkkoyhteydet">kiinteät yhteydet</a></span>, <span class="link"><a href="net-problem.html" title="Yhteysongelmat">yhteysongelmat</a></span>, <span class="link"><a href="net-browser.html" title="Selaimet">WWW-selaaminen</a></span>, <span class="link"><a href="net-email.html" title="Sähköposti ja sähköpostiohjelmat">sähköpostitilit</a></span>...</span>
+<a href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a><span class="desc"> — <span class="link"><a href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat lähiverkot</a></span>, <span class="link"><a href="net-wired.html.fi" title="Kiinteät verkkoyhteydet">kiinteät yhteydet</a></span>, <span class="link"><a href="net-problem.html.fi" title="Yhteysongelmat">yhteysongelmat</a></span>, <span class="link"><a href="net-browser.html.fi" title="Selaimet">WWW-selaaminen</a></span>, <span class="link"><a href="net-email.html.fi" title="Sähköposti ja sähköpostiohjelmat">sähköpostitilit</a></span>...</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Langattomaan verkkoon yhdistäminen">Langattomaan lähiverkkoon yhdistäminen</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Yhdistä piilotettuun verkkoon">piilotetut verkot</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Miksi langaton yhteys katkeaa?">yhteyden katkeaminen</a></span>…</span>
+<a href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.fi" title="Langattomaan verkkoon yhdistäminen">Langattomaan lähiverkkoon yhdistäminen</a></span>, <span class="link"><a href="net-wireless-hidden.html.fi" title="Yhdistä piilotettuun verkkoon">piilotetut verkot</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.fi" title="Miksi langaton yhteys katkeaa?">yhteyden katkeaminen</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

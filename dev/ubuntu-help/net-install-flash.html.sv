@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-browser.html" title="Webbläsare">Webbläsare</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-browser.html.sv" title="Webbläsare">Webbläsare</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Installera insticksmodulen Flash</span></h1></div>
@@ -67,7 +67,7 @@
 <div class="region"><div class="contents">
 <p class="p">Paketet <span class="app">adobe-flashplugin</span> tillhandahåller insticksmodulerna NPAPI och PPAPI, dvs. det tillhandahåller Flash för både Firefox och Chromium-liknande webbläsare.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Förvissa dig om att <span class="link"><a href="addremove-sources.html#canonical-partner" title="Aktivera förrådet Canonical-partners">förrådet Canonical-partners är aktiverat</a></span>.</p></li>
+<li class="steps"><p class="p">Förvissa dig om att <span class="link"><a href="addremove-sources.html.sv#canonical-partner" title="Aktivera förrådet Canonical-partners">förrådet Canonical-partners är aktiverat</a></span>.</p></li>
 <li class="steps"><p class="p">Installera paketet <span class="link"><a href="https://apps.ubuntu.com/cat/applications/adobe-flashplugin" title="https://apps.ubuntu.com/cat/applications/adobe-flashplugin">adobe-flashplugin</a></span>.</p></li>
 <li class="steps"><p class="p">Starta om din webbläsare.</p></li>
 </ol></div></div></div>
@@ -92,7 +92,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Webbläsare">Webbläsare</a><span class="desc"> — <span class="link"><a href="net-default-browser.html" title="Ändra vilken webbläsare som öppnar webbplatser som standard">Ändra standardwebbläsare</a></span>, <span class="link"><a href="net-install-flash.html" title="Installera insticksmodulen Flash">installera Flash</a></span>…</span>
+<a href="net-browser.html.sv" title="Webbläsare">Webbläsare</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.sv" title="Ändra vilken webbläsare som öppnar webbplatser som standard">Ändra standardwebbläsare</a></span>, <span class="link"><a href="net-install-flash.html.sv" title="Installera insticksmodulen Flash">installera Flash</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

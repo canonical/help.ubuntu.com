@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html#backup" title="备份">备份</a> » <a class="trail" href="backup-why.html" title="备份您的重要文件">备份</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.zh-CN" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html.zh-CN#backup" title="备份">备份</a> » <a class="trail" href="backup-why.html.zh-CN" title="备份您的重要文件">备份</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">如何备份</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">最简单的备份文件和设置的方法，是使用备份程序来管理您的备份。有许多可用的备份程序，例如 <span class="app">Déjà Dup</span>。</p>
 <p class="p">您所选备份应用程序的帮助将引导您逐步设置备份首选项，并将介绍在出现问题时如何恢复您的数据。</p>
-<p class="p">另一个选择是<span class="link"><a href="files-copy.html" title="复制或移动文件和文件夹">复制您的文件</a></span>到安全位置，如外部硬盘驱动器、网络上的其他计算机或 USB 驱动器。您的<span class="link"><a href="backup-thinkabout.html" title="我可以在哪里找到想要备份的文件？">个人文件</a></span>和设置一般存放在您的主文件夹中，因此您可以从这里复制它们。</p>
+<p class="p">另一个选择是<span class="link"><a href="files-copy.html.zh-CN" title="复制或移动文件和文件夹">复制您的文件</a></span>到安全位置，如外部硬盘驱动器、网络上的其他计算机或 USB 驱动器。您的<span class="link"><a href="backup-thinkabout.html.zh-CN" title="我可以在哪里找到想要备份的文件？">个人文件</a></span>和设置一般存放在您的主文件夹中，因此您可以从这里复制它们。</p>
 <p class="p">您可以备份的数据量受存储设备大小限制。如果您的备份设备上有足够空间，最好备份整个主文件夹，以下文件除外：</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">已经通过其他方式进行备份的文件。例如已经保存在 CD，DVD 或者 其他可移动媒体里的数据。</p></li>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="备份您的重要文件">备份您的重要文件</a><span class="desc"> — 关于文件备份的信息和指导</span>
+<a href="backup-why.html.zh-CN" title="备份您的重要文件">备份您的重要文件</a><span class="desc"> — 关于文件备份的信息和指导</span>
 </li></ul></div>
 </div></div></div>
 </div>

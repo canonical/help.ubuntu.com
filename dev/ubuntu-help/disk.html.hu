@@ -43,32 +43,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Lemezek és tárolók</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="A merevlemez teljesítményének tesztelése"><span class="title">A merevlemez teljesítményének tesztelése</span><span class="linkdiv-dash"> — </span><span class="desc">Teljesítménytesztek futtatásával meghatározhatja merevlemeze sebességét.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
+<div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html.hu" title="A merevlemez teljesítményének tesztelése"><span class="title">A merevlemez teljesítményének tesztelése</span><span class="linkdiv-dash"> — </span><span class="desc">Teljesítménytesztek futtatásával meghatározhatja merevlemeze sebességét.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.hu" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
     Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
     </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Hibák keresése a merevlemezen"><span class="title">Hibák keresése a merevlemezen</span><span class="linkdiv-dash"> — </span><span class="desc">A merevlemez hibáinak keresésével meggyőződhet a lemez megfelelő állapotáról.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="Kötetek és partíciók kezelése"><span class="title">Kötetek és partíciók kezelése</span><span class="linkdiv-dash"> — </span><span class="desc">Kötetek és partíciók bemutatása, és a lemezkezelő használata.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-format.html" title="Minden adat törlése cserélhető adathordozóról"><span class="title">Minden adat törlése cserélhető adathordozóról</span><span class="linkdiv-dash"> — </span><span class="desc">Minden fájl és mappa eltávolítása külső merevlemezről vagy USB-meghajtóról formázással.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
-          state.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="Szabad lemezhely ellenőrzése"><span class="title">Szabad lemezhely ellenőrzése</span><span class="linkdiv-dash"> — </span><span class="desc">Szabad hely és kapacitás ellenőrzése a <span class="gui">Lemezhasználat-elemző</span> vagy a <span class="gui">Rendszerfigyelő</span> használatával.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html.hu" title="Fájlrendszer méretének beállítása"><span class="title">Fájlrendszer méretének beállítása</span><span class="linkdiv-dash"> — </span><span class="desc">Fájlrendszer és partíciójának növelése vagy zsugorítása.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html.hu" title="Hibák keresése a merevlemezen"><span class="title">Hibák keresése a merevlemezen</span><span class="linkdiv-dash"> — </span><span class="desc">A merevlemez hibáinak keresésével meggyőződhet a lemez megfelelő állapotáról.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-partitions.html.hu" title="Kötetek és partíciók kezelése"><span class="title">Kötetek és partíciók kezelése</span><span class="linkdiv-dash"> — </span><span class="desc">Kötetek és partíciók bemutatása, és a lemezkezelő használata.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-format.html.hu" title="Minden adat törlése cserélhető adathordozóról"><span class="title">Minden adat törlése cserélhető adathordozóról</span><span class="linkdiv-dash"> — </span><span class="desc">Minden fájl és mappa eltávolítása külső merevlemezről vagy USB-meghajtóról formázással.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-capacity.html.hu" title="Szabad lemezhely ellenőrzése"><span class="title">Szabad lemezhely ellenőrzése</span><span class="linkdiv-dash"> — </span><span class="desc">Szabad hely és kapacitás ellenőrzése a <span class="gui">Lemezhasználat-elemző</span> vagy a <span class="gui">Rendszerfigyelő</span> használatával.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html.hu" title="Sérült fájlrendszer javítása"><span class="title">Sérült fájlrendszer javítása</span><span class="linkdiv-dash"> — </span><span class="desc">Fájlrendszer sérüléseinek keresése és helyreállítása használható állapotba.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardver és illesztőprogramok">Hardver és illesztőprogramok</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Gyakori problémák">Hardverproblémák</a></span>, <span class="link"><a href="printing.html" title="Nyomtatás">nyomtatók</a></span>, <span class="link"><a href="power.html" title="Energiagazdálkodás és akkumulátorok">energiagazdálkodás</a></span>, <span class="link"><a href="color.html" title="Színkezelés">színkezelés</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Lemezek és tárolók">lemezek</a></span>…</span>
+<a href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver és illesztőprogramok</a><span class="desc"> — <span class="link"><a href="hardware.html.hu#problems" title="Gyakori problémák">Hardverproblémák</a></span>, <span class="link"><a href="printing.html.hu" title="Nyomtatás">nyomtatók</a></span>, <span class="link"><a href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">energiagazdálkodás</a></span>, <span class="link"><a href="color.html.hu" title="Színkezelés">színkezelés</a></span>, <span class="link"><a href="bluetooth.html.hu" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.hu" title="Lemezek és tárolók">lemezek</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

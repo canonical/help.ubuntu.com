@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zoeken naar een verloren bestand</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">Als u een bestand heeft aangemaakt of gedownload, maar het bestand niet meer kunt terug vinden, kunt u deze tips volgen.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Als u niet meer weet waar u het bestand opgeslagen heeft, maar u herinnert zich nog wel de naam, dan kunt u <span class="link"><a href="files-search.html" title="Zoeken naar bestanden">naar het bestand zoeken op naam</a></span>.</p></li>
+<li class="list"><p class="p">Als u niet meer weet waar u het bestand opgeslagen heeft, maar u herinnert zich nog wel de naam, dan kunt u <span class="link"><a href="files-search.html.nl" title="Zoeken naar bestanden">naar het bestand zoeken op naam</a></span>.</p></li>
 <li class="list"><p class="p">Als u net een bestand heeft gedownload, kan uw webbrowser het bestand automatisch in een standaardmap hebben opgeslagen. Controleer de mappen Check the <span class="file">Bureaublad</span> en <span class="file">Downloads</span> in uw persoonlijke map.</p></li>
-<li class="list"><p class="p">U zou per ongeluk een bestand kunnen verwijderen. Wanneer u een bestand verwijdert, wordt het verplaatst naar de prullenbak, waar het blijft tot u handmatig de prullenbak leegt. Zie <span class="link"><a href="files-recover.html" title="Een bestand dat u verwijderd heeft terughalen.">Een bestand dat u verwijderd heeft terughalen.</a></span> om te leren hoe u een verwijderd bestand kunt terugzetten.</p></li>
-<li class="list"><p class="p">Het is mogelijk dat u het bestand heeft hernoemd op zo'n manier dat het verborgen wordt. Bestanden die met <span class="file">.</span> beginnen of die met <span class="file">~</span> eindigen worden in bestandsbeheer verborgen. Klik in de taakbalk van <span class="app">Bestandsbeheer</span> op de knop Weergaveopties en kies <span class="gui">Verborgen bestanden weergeven</span> om ze weer te geven. Zie <span class="link"><a href="files-hidden.html" title="Een bestand verbergen">Een bestand verbergen</a></span> voor meer informatie.</p></li>
+<li class="list"><p class="p">U zou per ongeluk een bestand kunnen verwijderen. Wanneer u een bestand verwijdert, wordt het verplaatst naar de prullenbak, waar het blijft tot u handmatig de prullenbak leegt. Zie <span class="link"><a href="files-recover.html.nl" title="Een bestand dat u verwijderd heeft terughalen.">Een bestand dat u verwijderd heeft terughalen.</a></span> om te leren hoe u een verwijderd bestand kunt terugzetten.</p></li>
+<li class="list"><p class="p">Het is mogelijk dat u het bestand heeft hernoemd op zo'n manier dat het verborgen wordt. Bestanden die met <span class="file">.</span> beginnen of die met <span class="file">~</span> eindigen worden in bestandsbeheer verborgen. Klik in de taakbalk van <span class="app">Bestandsbeheer</span> op de knop Weergaveopties en kies <span class="gui">Verborgen bestanden weergeven</span> om ze weer te geven. Zie <span class="link"><a href="files-hidden.html.nl" title="Een bestand verbergen">Een bestand verbergen</a></span> voor meer informatie.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,12 +62,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-recover.html" title="Een bestand dat u verwijderd heeft terughalen.">Een bestand dat u verwijderd heeft terughalen.</a><span class="desc"> — Wanneer u bestanden verwijdert worden ze normaal gesproken naar de Prullenbak verplaatst, maar u kunt ze nog wel terughalen.</span>
+<a href="files-recover.html.nl" title="Een bestand dat u verwijderd heeft terughalen.">Een bestand dat u verwijderd heeft terughalen.</a><span class="desc"> — Wanneer u bestanden verwijdert worden ze normaal gesproken naar de Prullenbak verplaatst, maar u kunt ze nog wel terughalen.</span>
 </li></ul></div>
 </div></div>
 </div>

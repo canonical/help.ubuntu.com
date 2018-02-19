@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html.pt#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ordenar ficheiros e diretórios</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Pode ordenar os ficheiros duma diretório de diferentes formas; por exemplo, por data ou tamanho. Consulte a <span class="link"><a href="#ways" title="Maneiras de ordenar ficheiros">Maneiras de ordenar ficheiros</a></span>para ver uma lista de formas habituais de ordenar ficheiros. Consulte a <span class="link"><a href="nautilus-views.html" title="Preferências de vistas em Ficheiros">Preferências de vistas em <span class="app">Ficheiros</span></a></span> para obter informação sobre como mudar a classificação predeterminada.</p>
+<p class="p">Pode ordenar os ficheiros duma diretório de diferentes formas; por exemplo, por data ou tamanho. Consulte a <span class="link"><a href="#ways" title="Maneiras de ordenar ficheiros">Maneiras de ordenar ficheiros</a></span>para ver uma lista de formas habituais de ordenar ficheiros. Consulte a <span class="link"><a href="nautilus-views.html.pt" title="Preferências de vistas em Ficheiros">Preferências de vistas em <span class="app">Ficheiros</span></a></span> para obter informação sobre como mudar a classificação predeterminada.</p>
 <p class="p">A forma na que ordene os ficheiros dependerá da <span class="em">vista de diretório</span> que esteja utilizando. Pode mudar a vista atual utilizando os botões de lista ou de ícone na barra de ferramentas.</p>
 </div>
 <div id="icon-view" class="sect"><div class="inner">
@@ -64,7 +64,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Vista de lista</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Para ordenar os ficheiros de forma diferente, carregue numa das cabeceiras das colunas no gestor de ficheiros. Por exemplo, carregue em <span class="gui">Tipo</span> para ordenar por tipo de ficheiro. Carregue de novo na cabeceira da coluna para ordenar em ordem inversa.</p>
-<p class="p">Na vista de lista, pode mostrar as colunas com mais atributos e ordenar por estas colunas. Carregue no botão de opções da vista na barra de ferramentas, escolha <span class="gui">Colunas visíveis…</span> e selecione as colunas que quer que sejam visíveis. A continuação, poderá ordenar por essas colunas. Consulte a <span class="link"><a href="nautilus-list.html" title="Preferências das colunas na lista de ficheiros">Preferências das colunas na lista de ficheiros</a></span> para obter as descrições das colunas disponíveis.</p>
+<p class="p">Na vista de lista, pode mostrar as colunas com mais atributos e ordenar por estas colunas. Carregue no botão de opções da vista na barra de ferramentas, escolha <span class="gui">Colunas visíveis…</span> e selecione as colunas que quer que sejam visíveis. A continuação, poderá ordenar por essas colunas. Consulte a <span class="link"><a href="nautilus-list.html.pt" title="Preferências das colunas na lista de ficheiros">Preferências das colunas na lista de ficheiros</a></span> para obter as descrições das colunas disponíveis.</p>
 </div></div>
 </div></div>
 <div id="ways" class="sect"><div class="inner">
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

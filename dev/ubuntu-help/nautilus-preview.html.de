@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a> » <a class="trail" href="nautilus-prefs.html" title="Einstellungen für die Dateiverwaltung">Einstellungen für die Dateiverwaltung</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.de" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html.de#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a> » <a class="trail" href="nautilus-prefs.html.de" title="Einstellungen für die Dateiverwaltung">Einstellungen für die Dateiverwaltung</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Einstellungen für die Vorschauen in der Dateiverwaltung</span></h1></div>
@@ -53,11 +53,11 @@
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Dateien</span></dt>
 <dd class="terms">
-<p class="p">Standardmäßig werden alle Vorschauen <span class="gui">nur für lokale Dateien</span> auf Ihrem Rechner oder damit verbundenen externen Laufwerken erstellt. Sie können dies auf <span class="gui">Immer</span> oder <span class="gui">Niemals</span> setzen. Die Dateiverwaltung kann auch <span class="link"><a href="nautilus-connect.html" title="Durchsuchen von Dateien auf einem Server oder in einer Netzwerkfreigabe">Dateien auf anderen Rechnern durchsuchen</a></span>, etwa in einem lokalen Netzwerk oder im Internet. Wenn Sie öfter Dateien in einem lokalen Netzwerk durchsuchen und das Netzwerk eine hohe Bandbreite aufweist, möchten Sie vielleicht einige oder alle Vorschaueinstellungen auf <span class="gui">Immer</span> setzen.</p>
+<p class="p">Standardmäßig werden alle Vorschauen <span class="gui">nur für lokale Dateien</span> auf Ihrem Rechner oder damit verbundenen externen Laufwerken erstellt. Sie können dies auf <span class="gui">Immer</span> oder <span class="gui">Niemals</span> setzen. Die Dateiverwaltung kann auch <span class="link"><a href="nautilus-connect.html.de" title="Durchsuchen von Dateien auf einem Server oder in einer Netzwerkfreigabe">Dateien auf anderen Rechnern durchsuchen</a></span>, etwa in einem lokalen Netzwerk oder im Internet. Wenn Sie öfter Dateien in einem lokalen Netzwerk durchsuchen und das Netzwerk eine hohe Bandbreite aufweist, möchten Sie vielleicht einige oder alle Vorschaueinstellungen auf <span class="gui">Immer</span> setzen.</p>
 <p class="p">Zusätzlich können Sie <span class="gui">Nur für Dateien kleiner als:</span> aktivieren, um die Größe der Dateien zu begrenzen, für die Vorschauen angezeigt werden.</p>
 </dd>
 <dt class="terms"><span class="gui">Ordner</span></dt>
-<dd class="terms"><p class="p">Wenn Sie die Dateigröße in einer Spalte der <span class="link"><a href="nautilus-list.html" title="Einstellungen für die Spalten in der Dateiverwaltung">Listenansicht</a></span> oder in <span class="link"><a href="nautilus-display.html#icon-captions" title="Symbolbeschriftungen">Symbolbeschriftungen</a></span> anzeigen, werden Ordner mit der Anzahl der Dateien und Ordner, die sie enthalten, dargestellt. Das Zählen dieser Objekte kann langsam sein, besonders bei sehr großen Ordnern oder über ein Netzwerk. Sie können diese Funktion ein- oder ausschalten oder nur für Dateien auf Ihrem Rechner und auf lokalen, externen Laufwerken einschalten.</p></dd>
+<dd class="terms"><p class="p">Wenn Sie die Dateigröße in einer Spalte der <span class="link"><a href="nautilus-list.html.de" title="Einstellungen für die Spalten in der Dateiverwaltung">Listenansicht</a></span> oder in <span class="link"><a href="nautilus-display.html.de#icon-captions" title="Symbolbeschriftungen">Symbolbeschriftungen</a></span> anzeigen, werden Ordner mit der Anzahl der Dateien und Ordner, die sie enthalten, dargestellt. Das Zählen dieser Objekte kann langsam sein, besonders bei sehr großen Ordnern oder über ein Netzwerk. Sie können diese Funktion ein- oder ausschalten oder nur für Dateien auf Ihrem Rechner und auf lokalen, externen Laufwerken einschalten.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Einstellungen für die Dateiverwaltung">Einstellungen für die Dateiverwaltung</a><span class="desc"> — Einstellungen der Dateiverwaltung anzeigen und ändern.</span>
+<a href="nautilus-prefs.html.de" title="Einstellungen für die Dateiverwaltung">Einstellungen für die Dateiverwaltung</a><span class="desc"> — Einstellungen der Dateiverwaltung anzeigen und ändern.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-preview.html" title="Vorschau auf Dateien und Ordner">Vorschau auf Dateien und Ordner</a><span class="desc"> — Vorschauen für Dokumente, Bilder, Videos und mehr schnell anzeigen und verbergen.</span>
+<a href="files-preview.html.de" title="Vorschau auf Dateien und Ordner">Vorschau auf Dateien und Ordner</a><span class="desc"> — Vorschauen für Dokumente, Bilder, Videos und mehr schnell anzeigen und verbergen.</span>
 </li></ul></div>
 </div></div>
 </div>

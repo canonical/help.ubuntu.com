@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html#apps" title="Aplikace a okna">Aplikace a okna</a> » <a class="trail" href="shell-windows.html" title="Okna a pracovní plochy">Okna a pracovní plochy</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Práce s okny">Okna</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.cs" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html.cs#apps" title="Aplikace a okna">Aplikace a okna</a> » <a class="trail" href="shell-windows.html.cs" title="Okna a pracovní plochy">Okna a pracovní plochy</a> › <a class="trail" href="shell-windows.html.cs#working-with-windows" title="Práce s okny">Okna</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Maximalizace a zrušení maximalizace okna</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Okno si můžete maximalizovat, aby zabíralo veškeré místo na pracovní ploše a maximalizaci zrušit, aby se okno vrátilo na svoji původní velikost. Můžete jej také maximalizovat svisle podél levého nebo pravého okraje obrazovky, abyste se mohli jednoduše dívat na dvě okna naráz. Podrobnosti viz <span class="link"><a href="shell-windows-tiled.html" title="Dláždění oken">Dláždění oken</a></span>.</p>
-<p class="p">Když chcete okno maximalizovat, chyťte jej za záhlaví a táhněte k horní části obrazovky, nebo na záhlaví dvojitě klikněte. K maximalizaci okna pomocí klávesnice držte zmáčknutou klávesu <span class="key"><a href="keyboard-key-super.html" title="Co je klávesa Super?"><kbd>Super</kbd></a></span> a zmáčkněte <span class="key"><kbd>↑</kbd></span>, nebo zmáčkněte <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
+<p class="p">Okno si můžete maximalizovat, aby zabíralo veškeré místo na pracovní ploše a maximalizaci zrušit, aby se okno vrátilo na svoji původní velikost. Můžete jej také maximalizovat svisle podél levého nebo pravého okraje obrazovky, abyste se mohli jednoduše dívat na dvě okna naráz. Podrobnosti viz <span class="link"><a href="shell-windows-tiled.html.cs" title="Dláždění oken">Dláždění oken</a></span>.</p>
+<p class="p">Když chcete okno maximalizovat, chyťte jej za záhlaví a táhněte k horní části obrazovky, nebo na záhlaví dvojitě klikněte. K maximalizaci okna pomocí klávesnice držte zmáčknutou klávesu <span class="key"><a href="keyboard-key-super.html.cs" title="Co je klávesa Super?"><kbd>Super</kbd></a></span> a zmáčkněte <span class="key"><kbd>↑</kbd></span>, nebo zmáčkněte <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
 <p class="p">Když chcete obnovit původní velikost okna, táhněte jej pryč od okraje obrazovky. Pokud je plně maximalizováno, můžete pro jeho obnovení dvojitě kliknout na jeho záhlaví. Můžete také použít některé klávesové zkratky, které jste použili k jeho maximalizaci.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Držte zmáčknutou klávesu <span class="key"><kbd>Super</kbd></span> a táhněte okno, kamkoliv jej chcete přesunout.</p></div></div></div></div>
 </div>
@@ -59,12 +59,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Práce s okny">Práce s okny</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.cs#working-with-windows" title="Práce s okny">Práce s okny</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-tiled.html" title="Dláždění oken">Dláždění oken</a><span class="desc"> — Jak maximalizovat dvě okna vedle sebe.</span>
+<a href="shell-windows-tiled.html.cs" title="Dláždění oken">Dláždění oken</a><span class="desc"> — Jak maximalizovat dvě okna vedle sebe.</span>
 </li></ul></div>
 </div></div>
 </div>

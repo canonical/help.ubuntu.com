@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="printing.html" title="Drucken">Drucken</a> › <a class="trail" href="printing.html#setup" title="Einen Drucker einrichten">Einrichten</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="printing.html.de" title="Drucken">Drucken</a> › <a class="trail" href="printing.html.de#setup" title="Einen Drucker einrichten">Einrichten</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Den Namen oder den Ort eines Druckers ändern</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Sie können den Namen oder den Ort eines Druckers in den Druckereinstellungen ändern.</p>
-<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Sie benötigen <span class="link"><a href="user-admin-explain.html" title="Wie funktionieren Systemverwalter-Privilegien?">Systemverwalterrechte</a></span>, um den Namen oder den Ort eines Druckers zu ändern.</p></div></div></div></div>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Sie benötigen <span class="link"><a href="user-admin-explain.html.de" title="Wie funktionieren Systemverwalter-Privilegien?">Systemverwalterrechte</a></span>, um den Namen oder den Ort eines Druckers zu ändern.</p></div></div></div></div>
 </div>
 <div id="printer-name-change" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Den Druckernamen ändern</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">So ändern Sie den Namen eines Druckers:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Drucker</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Drucker</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Drucker</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf den Knopf <span class="gui">Entsperren</span> in der oberen rechten Ecke und geben Sie Ihr Passwort ein.</p></li>
 <li class="steps"><p class="p">Sie können den Namen des Druckers ändern, indem Sie darauf klicken und den neuen Namen des Druckers eingeben.</p></li>
@@ -70,7 +70,7 @@
 <div class="region"><div class="contents">
 <p class="p">So ändern Sie den Ort Ihres Druckers:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Drucker</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Drucker</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Drucker</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf den Knopf <span class="gui">Entsperren</span> in der oberen rechten Ecke und geben Sie Ihr Passwort ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf den Ort des Druckers und bearbeiten Sie diesen.</p></li>
@@ -83,12 +83,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Einen Drucker einrichten">Einen Drucker einrichten</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.de#setup" title="Einen Drucker einrichten">Einen Drucker einrichten</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-admin-explain.html" title="Wie funktionieren Systemverwalter-Privilegien?">Wie funktionieren Systemverwalter-Privilegien?</a><span class="desc"> — Sie benötigen Systemverwalterrechte, um Änderungen an wichtigen Teilen Ihres Systems vorzunehmen.</span>
+<a href="user-admin-explain.html.de" title="Wie funktionieren Systemverwalter-Privilegien?">Wie funktionieren Systemverwalter-Privilegien?</a><span class="desc"> — Sie benötigen Systemverwalterrechte, um Änderungen an wichtigen Teilen Ihres Systems vorzunehmen.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Sort files and folders</title>
+<title>Porządkowanie plików i katalogów</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,15 +43,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#common-file-tasks" title="Często wykonywane zadania">Często wykonywane zadania</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#common-file-tasks" title="Często wykonywane zadania">Często wykonywane zadania</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Sort files and folders</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Porządkowanie plików i katalogów</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can sort files in different ways in a folder, for example by sorting them
-in order of date or file size. See <span class="link"><a href="#ways" title="Ways of sorting files">Ways of sorting files</a></span> below for a list of
-common ways to sort files. See <span class="link"><a href="nautilus-views.html" title="Views preferences in Files">Views preferences in <span class="app">Files</span></a></span> for information on
+in order of date or file size. See <span class="link"><a href="#ways" title="Sposoby porządkowania plików">Sposoby porządkowania plików</a></span> below for a list of
+common ways to sort files. See <span class="link"><a href="nautilus-views.html.pl-PL" title="Preferencje widoków Menedżera plików">Preferencje widoków <span class="app">Menedżera plików</span></a></span> for information on
 how to change the default sort order.</p>
 <p class="p">The way that you can sort files depends on the <span class="em">folder view</span> that you
 are using. You can change the current view using the list or icon buttons in the
@@ -66,7 +66,7 @@ toolbar.</p>
   Type</span>, <span class="gui">By Modification Date</span>, or <span class="gui">By Access
   Date</span>.</p>
 <p class="p">As an example, if you select <span class="gui">By Name</span>, the files will be sorted
-  by their names, in alphabetical order. See <span class="link"><a href="#ways" title="Ways of sorting files">Ways of sorting files</a></span> for other
+  by their names, in alphabetical order. See <span class="link"><a href="#ways" title="Sposoby porządkowania plików">Sposoby porządkowania plików</a></span> for other
   options.</p>
 <p class="p">You can sort in the reverse order by selecting <span class="gui">Reversed Order</span>
   from the menu.</p>
@@ -82,12 +82,12 @@ toolbar.</p>
   columns. Click the view options button in the toolbar, pick <span class="gui">Visible
   
   Columns…</span> and select the columns that you want to be visible. You will
-  then be able to sort by those columns. See <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">Files list columns preferences</a></span> for
+  then be able to sort by those columns. See <span class="link"><a href="nautilus-list.html.pl-PL" title="Files list columns preferences">Files list columns preferences</a></span> for
   descriptions of available columns.</p>
 </div></div>
 </div></div>
 <div id="ways" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Ways of sorting files</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Sposoby porządkowania plików</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Nazwa</dt>
 <dd class="terms"><p class="p">Sorts alphabetically by the name of the file.</p></dd>
@@ -106,7 +106,7 @@ toolbar.</p>
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Często wykonywane zadania">Często wykonywane zadania</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pl-PL#common-file-tasks" title="Często wykonywane zadania">Często wykonywane zadania</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

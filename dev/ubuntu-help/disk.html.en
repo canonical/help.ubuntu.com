@@ -43,27 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.en" title="Hardware &amp; drivers">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Disks &amp; storage</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="Check how much disk space is left"><span class="title">Check how much disk space is left</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="gui">Disk Usage Analyzer</span> or <span class="gui">System Monitor</span> to
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html.en" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-capacity.html.en" title="Check how much disk space is left"><span class="title">Check how much disk space is left</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="gui">Disk Usage Analyzer</span> or <span class="gui">System Monitor</span> to
     check space and capacity.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Check your hard disk for problems"><span class="title">Check your hard disk for problems</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html.en" title="Check your hard disk for problems"><span class="title">Check your hard disk for problems</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.en" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
     Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
     </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="Manage volumes and partitions"><span class="title">Manage volumes and partitions</span><span class="linkdiv-dash"> — </span><span class="desc">Understand what volumes and partitions are and use the disk utility
+<div class="linkdiv "><a class="linkdiv" href="disk-partitions.html.en" title="Manage volumes and partitions"><span class="title">Manage volumes and partitions</span><span class="linkdiv-dash"> — </span><span class="desc">Understand what volumes and partitions are and use the disk utility
     to manage them.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html.en" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
           state.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="Test the performance of your hard disk"><span class="title">Test the performance of your hard disk</span><span class="linkdiv-dash"> — </span><span class="desc">Run benchmarks on your hard disk to check how fast it is.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-format.html" title="Wipe everything off a removable disk"><span class="title">Wipe everything off a removable disk</span><span class="linkdiv-dash"> — </span><span class="desc">Remove all of the files and folders from an external hard disk or USB
+<div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html.en" title="Test the performance of your hard disk"><span class="title">Test the performance of your hard disk</span><span class="linkdiv-dash"> — </span><span class="desc">Run benchmarks on your hard disk to check how fast it is.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-format.html.en" title="Wipe everything off a removable disk"><span class="title">Wipe everything off a removable disk</span><span class="linkdiv-dash"> — </span><span class="desc">Remove all of the files and folders from an external hard disk or USB
     flash drive by formatting it.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -71,13 +71,13 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">More Information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardware &amp; drivers">Hardware &amp; drivers</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html" title="Printing">printers</a></span>,
-      <span class="link"><a href="power.html" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html" title="Color management">color management</a></span>,
-      <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html" title="Disks &amp; storage">disks</a></span>…
+<a href="hardware.html.en" title="Hardware &amp; drivers">Hardware &amp; drivers</a><span class="desc"> — 
+      <span class="link"><a href="hardware.html.en#problems" title="Common problems">Hardware problems</a></span>,
+      <span class="link"><a href="printing.html.en" title="Printing">printers</a></span>,
+      <span class="link"><a href="power.html.en" title="Power &amp; battery">power settings</a></span>,
+      <span class="link"><a href="color.html.en" title="Color management">color management</a></span>,
+      <span class="link"><a href="bluetooth.html.en" title="Bluetooth">Bluetooth</a></span>,
+      <span class="link"><a href="disk.html.en" title="Disks &amp; storage">disks</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

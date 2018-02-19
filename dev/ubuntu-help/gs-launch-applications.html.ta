@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="பயன்படுத்தத் தொடங்குதல்">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.ta" title="பயன்படுத்தத் தொடங்குதல்">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html" title="பணிகளுக்கிடையே மாறவும்">அடுத்து</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html.ta" title="பணிகளுக்கிடையே மாறவும்">அடுத்து</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">பயன்பாடுகளைத் துவக்கவும்</span></h1></div>
 <div class="region">
 <div class="contents"><div class="ui-tile ">
@@ -81,20 +81,20 @@
 <li class="steps"><p class="p">பயன்பாட்டின் சின்னம் காண்பிக்கப்பட்டு தேர்ந்தெடுக்கப்பட்டதும், பயன்பாட்டைத் துவக்க <span class="key"><kbd> Enter</kbd></span> ஐ அழுத்தவும்.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
-<div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html" title="பணிகளுக்கிடையே மாறவும்">அடுத்து</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html.ta" title="பணிகளுக்கிடையே மாறவும்">அடுத்து</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="பயன்படுத்தத் தொடங்குதல்">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</a><span class="desc"> — GNOME க்குப் புதிதா? எப்படி தொடங்குவது என அறிந்துகொள்ளுங்கள்.</span>
+<a href="getting-started.html.ta" title="பயன்படுத்தத் தொடங்குதல்">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</a><span class="desc"> — GNOME க்குப் புதிதா? எப்படி தொடங்குவது என அறிந்துகொள்ளுங்கள்.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html" title="பயன்பாடுகளைத் தொடங்குதல்">பயன்பாடுகளைத் தொடங்குதல்</a><span class="desc"> — <span class="gui">செயல்பாடுகள் மேலோட்டத்தில்</span> இருந்து பயன்பாடுகளை துவக்குதல்.</span>
+<a href="shell-apps-open.html.ta" title="பயன்பாடுகளைத் தொடங்குதல்">பயன்பாடுகளைத் தொடங்குதல்</a><span class="desc"> — <span class="gui">செயல்பாடுகள் மேலோட்டத்தில்</span> இருந்து பயன்பாடுகளை துவக்குதல்.</span>
 </li></ul></div>
 </div></div>
 </div>

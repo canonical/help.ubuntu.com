@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="printing.html" title="Drukāšana">Drukāšana</a> › <a class="trail" href="printing.html#setup" title="Iestatīt printeri">Iestatīšana</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="printing.html.lv" title="Drukāšana">Drukāšana</a> › <a class="trail" href="printing.html.lv#setup" title="Iestatīt printeri">Iestatīšana</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Iestatīt lokālo printeri</span></h1></div>
@@ -58,26 +58,26 @@
 </ol></div></div></div>
 <p class="p">Ja printeris netika automātiski iestatīts, jūs to varat pievienot printera iestatījumos:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Printeri</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Printeri</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Printeri</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Atslēgt</span> pogu augšējajā labajā stūrī un ievadiet paroli.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">+</span> pogu.</p></li>
 <li class="steps"><p class="p">Uznirstošajā logā izvēlieties jauno printeri. Spiediet <span class="gui">Pievienot</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Ja printeris neparādās printeru pievienošanas logā, iespējams, jums vajadzēs ieinstalēt printera draiverus.</p>
-<p class="p">Pēc printera uzinstalēšanas, jūs varētu vēlēties <span class="link"><a href="printing-setup-default-printer.html" title="Iestatīt noklusējuma printeri">mainīt noklusējuma printeri</a></span>.</p>
+<p class="p">Pēc printera uzinstalēšanas, jūs varētu vēlēties <span class="link"><a href="printing-setup-default-printer.html.lv" title="Iestatīt noklusējuma printeri">mainīt noklusējuma printeri</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Iestatīt printeri">Iestatīt printeri</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.lv#setup" title="Iestatīt printeri">Iestatīt printeri</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-setup-default-printer.html" title="Iestatīt noklusējuma printeri">Iestatīt noklusējuma printeri</a><span class="desc"> — Izvēlieties printeri, kuru izmantojat visbiežāk.</span>
+<a href="printing-setup-default-printer.html.lv" title="Iestatīt noklusējuma printeri">Iestatīt noklusējuma printeri</a><span class="desc"> — Izvēlieties printeri, kuru izmantojat visbiežāk.</span>
 </li></ul></div>
 </div></div>
 </div>

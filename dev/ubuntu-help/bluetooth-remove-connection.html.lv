@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="bluetooth.html.lv" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Atvienot Bluetooth ierīci</span></h1></div>
@@ -51,12 +51,12 @@
 <div class="contents">
 <p class="p">Ja vairāk nevēlaties uzturēt savienojumu ar Bluetooth ierīci, jūs variet to izņemt. Tas noder, ja vairāk nevēlaties izmantot tādu ierīci kā pele vai austiņas, vai arī vairs neplānojat sūtīt vai saņemt datnes no dotās ierīces.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Spiediet Bluetooth ikonu <span class="gui">izvēlnes joslā</span> un izvēlieties <span class="gui">Bluetooth iestatījumi</span>.</p></li>
-<li class="steps"><p class="p">Spiediet <span class="gui">Bluetooth iestatījumi</span>, lai atvērtu paneli.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Bluetooth</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">No saraksta izvēlieties ierīci, kuru jūs vēlaties atvienot.</p></li>
 <li class="steps"><p class="p">Ierīces dialoglodziņā pārslēdziet <span class="gui">Savienojumu</span> uz <span class="gui">◯</span> vai, lai izņemtu ierīci no <span class="gui">Ierīču</span> saraksta, spiediet <span class="gui">Izņemt ierīci</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Jūs varat <span class="link"><a href="bluetooth-connect-device.html" title="Savienot jūsu datoru ar Bluetooth ierīci">atkal pievienot Bluetooth ierīci</a></span> vēlāk, ja vēlaties.</p>
+<p class="p">Jūs varat <span class="link"><a href="bluetooth-connect-device.html.lv" title="Savienot jūsu datoru ar Bluetooth ierīci">atkal pievienot Bluetooth ierīci</a></span> vēlāk, ja vēlaties.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -64,13 +64,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Savienot jūsu datoru ar Bluetooth ierīci">Savienoties</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Sūtīt datnes uz Bluetooth ierīci">sūtīt datnes</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Ieslēgt vai izslēgt Bluetooth">ieslēgt un izslēgt</a></span>…</span>
+<a href="bluetooth.html.lv" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.lv" title="Savienot jūsu datoru ar Bluetooth ierīci">Savienoties</a></span>, <span class="link"><a href="bluetooth-send-file.html.lv" title="Sūtīt datnes uz Bluetooth ierīci">sūtīt datnes</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.lv" title="Ieslēgt vai izslēgt Bluetooth">ieslēgt un izslēgt</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth-connect-device.html" title="Savienot jūsu datoru ar Bluetooth ierīci">Savienot jūsu datoru ar Bluetooth ierīci</a><span class="desc"> — Savienot pārī Bluetooth ierīces.</span>
+<a href="bluetooth-connect-device.html.lv" title="Savienot jūsu datoru ar Bluetooth ierīci">Savienot jūsu datoru ar Bluetooth ierīci</a><span class="desc"> — Savienot pārī Bluetooth ierīces.</span>
 </li></ul></div>
 </div></div>
 </div>

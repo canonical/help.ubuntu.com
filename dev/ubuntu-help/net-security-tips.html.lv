@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-general.html" title="Tīkla noteikumi un padomi">Tīkla noteikumi un padomi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-general.html.lv" title="Tīkla noteikumi un padomi">Tīkla noteikumi un padomi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Droša uzturēšanās internetā</span></h1></div>
@@ -53,16 +53,16 @@
 <p class="p">Neskatoties uz pieņemtajiem mēriem, lai nodrošinātu, ka Linux instalācija ir droša, vienmēr pastāv ievainojamības. Kā vidējais interneta lietotājs, jūs varētu apdraudēt:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Pikšķerēšanas shēmas (vietnes un e-pasti, kas, maldinot par savu identitāti, mēģina iegūt sensitīvus datus)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html" title="Vai man vajag skenēt savus e-pastus pret vīrusiem?">Ļaunprātīgu e-pastu pārsūtīšanas</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html" title="Vai man vajag anti-vīrus programmu?">Lietotnes ar ļaunprātīgiem nolūkiem (vīrusi)</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html" title="Ko nozīmē WEP un WPA?">Nepilnvarota attālināta/lokāla tīkla piekļuve</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.lv" title="Vai man vajag skenēt savus e-pastus pret vīrusiem?">Ļaunprātīgu e-pastu pārsūtīšanas</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.lv" title="Vai man vajag anti-vīrus programmu?">Lietotnes ar ļaunprātīgiem nolūkiem (vīrusi)</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.lv" title="Ko nozīmē WEP un WPA?">Nepilnvarota attālināta/lokāla tīkla piekļuve</a></span></p></li>
 </ul></div></div></div>
 <p class="p">Lai būtu drošs internetā, paturiet prātā šādus padomus:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Uzmanieties no e-pastiem, pielikumiem vai saitēm, kas ir sūtīti no cilvēkiem, kurus nepazīstat.</p></li>
 <li class="list"><p class="p">Ja vietnes piedāvājums ir pārāk labs, lai būtu īsts, vai jautā pēc sensitīvas informācijas, kas šķiet nav nemaz vajadzīga, tad padomājiet divreiz par to, kādus datus jūs sniedzat un kādas ir potenciālās sekas, ja šie dati nonāk pie identitātes zagļiem vai citiem likuma pārkāpējiem.</p></li>
-<li class="list"><p class="p">Esiet uzmanīgi, atļaujot <span class="link"><a href="user-admin-explain.html" title="Kā strādā administratīvās tiesības?">root līmeņa tiesības</a></span> jebkurai lietotnei , it īpaši tām, kuras iepriekš neesat lietojuši vai lietotnes, kuras nav plaši zināmas. Iedodot jebkuram vai jebkam root līmeņa tiesības, jūs pakļaujat savu datoru augstam drošības ievainojamības riskam.</p></li>
-<li class="list"><p class="p">Pārliecinieties, ka ir palaisti tikai nepieciešamie attālinātas piekļuves pakalpojumi. SSH vai VNC var būt noderīgi, bet no otras puses tie pakļauj datoru uzbrukumiem, ja dators nav kārtīgi nodrošināts. Apsveriet izmantot <span class="link"><a href="net-firewall-on-off.html" title="Ieslēgt vai bloķēt ugunsmūra pieeju">ugunsmūri</a></span>, lai pasargātu datoru no uzbrukumiem.</p></li>
+<li class="list"><p class="p">Esiet uzmanīgi, atļaujot <span class="link"><a href="user-admin-explain.html.lv" title="Kā strādā administratīvās tiesības?">root līmeņa tiesības</a></span> jebkurai lietotnei , it īpaši tām, kuras iepriekš neesat lietojuši vai lietotnes, kuras nav plaši zināmas. Iedodot jebkuram vai jebkam root līmeņa tiesības, jūs pakļaujat savu datoru augstam drošības ievainojamības riskam.</p></li>
+<li class="list"><p class="p">Pārliecinieties, ka ir palaisti tikai nepieciešamie attālinātas piekļuves pakalpojumi. SSH vai VNC var būt noderīgi, bet no otras puses tie pakļauj datoru uzbrukumiem, ja dators nav kārtīgi nodrošināts. Apsveriet izmantot <span class="link"><a href="net-firewall-on-off.html.lv" title="Ieslēgt vai bloķēt ugunsmūra pieeju">ugunsmūri</a></span>, lai pasargātu datoru no uzbrukumiem.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Tīkla noteikumi un padomi">Tīkla noteikumi un padomi</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Atrodiet savu IP adresi.">Atrodi savu IP adresi</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Ko nozīmē WEP un WPA?">WEP un WPA drošība</a></span>, <span class="link"><a href="net-macaddress.html" title="Kas ir MAC adrese?">MAC adreses</a></span>, <span class="link"><a href="net-proxy.html" title="Norādīt starpnieka iestatījumus">starpnieki</a></span>…</span>
+<a href="net-general.html.lv" title="Tīkla noteikumi un padomi">Tīkla noteikumi un padomi</a><span class="desc"> — <span class="link"><a href="net-findip.html.lv" title="Atrodiet savu IP adresi.">Atrodi savu IP adresi</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.lv" title="Ko nozīmē WEP un WPA?">WEP un WPA drošība</a></span>, <span class="link"><a href="net-macaddress.html.lv" title="Kas ir MAC adrese?">MAC adreses</a></span>, <span class="link"><a href="net-proxy.html.lv" title="Norādīt starpnieka iestatījumus">starpnieki</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

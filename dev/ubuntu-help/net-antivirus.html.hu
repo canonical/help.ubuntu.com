@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-security.html" title="Biztonság az interneten">Biztonság az interneten</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-security.html.hu" title="Biztonság az interneten">Biztonság az interneten</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Szükségem van vírusirtóra?</span></h1></div>
@@ -60,13 +60,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Biztonság az interneten">Biztonság az interneten</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Szükségem van vírusirtóra?">Vírusirtó szoftverek</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Tűzfal-hozzáférés engedélyezése és blokkolása">alapszintű tűzfalak</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Gyakran használt hálózati portok">tűzfalportok</a></span>…</span>
+<a href="net-security.html.hu" title="Biztonság az interneten">Biztonság az interneten</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.hu" title="Szükségem van vírusirtóra?">Vírusirtó szoftverek</a></span>, <span class="link"><a href="net-firewall-on-off.html.hu" title="Tűzfal-hozzáférés engedélyezése és blokkolása">alapszintű tűzfalak</a></span>, <span class="link"><a href="net-firewall-ports.html.hu" title="Gyakran használt hálózati portok">tűzfalportok</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email-virus.html" title="Kell vírusokat keresnem az e-mailjeimben?">Kell vírusokat keresnem az e-mailjeimben?</a><span class="desc"> — A vírusok várhatóan nem fertőzik meg számítógépét, de megfertőzhetik levelezőpartnerei gépeit.</span>
+<a href="net-email-virus.html.hu" title="Kell vírusokat keresnem az e-mailjeimben?">Kell vírusokat keresnem az e-mailjeimben?</a><span class="desc"> — A vírusok várhatóan nem fertőzik meg számítógépét, de megfertőzhetik levelezőpartnerei gépeit.</span>
 </li></ul></div>
 </div></div>
 </div>

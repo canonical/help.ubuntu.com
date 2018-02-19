@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html#problems" title="Типичные проблемы">Неполадки</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="media.html#sound" title="Основы работы со звуком">Звук</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="media.html.ru#sound" title="Основы работы со звуком">Звук</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,9 +55,9 @@
 <div class="contents">
 <p class="p">Возможны различные проблемы с воспроизведением звука на компьютере. Какой из перечисленных ниже пунктов описывает вашу проблему наиболее точно?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="sound-nosound.html" title="I cannot hear any sounds on the computer"><span class="title">I cannot hear any sounds on the computer</span><span class="linkdiv-dash"> — </span><span class="desc">Check that the sound is not muted, that cables are plugged in properly,
+<div class="linkdiv "><a class="linkdiv" href="sound-nosound.html.ru" title="I cannot hear any sounds on the computer"><span class="title">I cannot hear any sounds on the computer</span><span class="linkdiv-dash"> — </span><span class="desc">Check that the sound is not muted, that cables are plugged in properly,
     and that the sound card is detected.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-crackle.html" title="При воспроизведении звука слышится треск или гудение"><span class="title">При воспроизведении звука слышится треск или гудение</span><span class="linkdiv-dash"> — </span><span class="desc">Проверьте аудиокабели и драйверы звуковой карты.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-crackle.html.ru" title="При воспроизведении звука слышится треск или гудение"><span class="title">При воспроизведении звука слышится треск или гудение</span><span class="linkdiv-dash"> — </span><span class="desc">Проверьте аудиокабели и драйверы звуковой карты.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -66,9 +66,9 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="media.html#sound" title="Основы работы со звуком">Основы работы со звуком</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Изменение громкости звука">Громкость</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Использование различных аудиоколонок или наушников">колонки и наушники</a></span>, <span class="link"><a href="sound-usemic.html" title="Использование различных микрофонов">микрофоны</a></span>…</span>
+<a href="media.html.ru#sound" title="Основы работы со звуком">Основы работы со звуком</a><span class="desc"> — <span class="link"><a href="sound-volume.html.ru" title="Изменение громкости звука">Громкость</a></span>, <span class="link"><a href="sound-usespeakers.html.ru" title="Использование различных аудиоколонок или наушников">колонки и наушники</a></span>, <span class="link"><a href="sound-usemic.html.ru" title="Использование различных микрофонов">микрофоны</a></span>…</span>
 </li>
-<li class="links "><a href="hardware.html#problems" title="Типичные проблемы">Неполадки оборудования</a></li>
+<li class="links "><a href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки оборудования</a></li>
 </ul></div>
 </div></div></div>
 </div>

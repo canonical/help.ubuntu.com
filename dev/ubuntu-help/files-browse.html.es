@@ -43,22 +43,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#common-file-tasks" title="Tareas comunes">Tareas comunes</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#common-file-tasks" title="Tareas comunes">Tareas comunes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Examinar archivos y carpetas</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Use la aplicación <span class="app">Archivos</span> para navegar y gestionar los archivos en su equipo. También puede usarlo para gestionar archivos en dispositivos de almacenamiento (como discos externos), en <span class="link"><a href="nautilus-connect.html" title="Examinar archivos en un servidor o compartición de red">servidores de archivos</a></span> y en recursos compartidos de la red.</p>
-<p class="p">Para abrir el gestor de archivos, abra <span class="app">Archivos</span> en la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span>. También puede buscar archivos y carpetas en la vista de la misma manera que <span class="link"><a href="shell-apps-open.html" title="Iniciar aplicaciones">busca aplicaciones</a></span>.</p>
+<p class="p">Use la aplicación <span class="app">Archivos</span> para navegar y gestionar los archivos en su equipo. También puede usarlo para gestionar archivos en dispositivos de almacenamiento (como discos externos), en <span class="link"><a href="nautilus-connect.html.es" title="Examinar archivos en un servidor o compartición de red">servidores de archivos</a></span> y en recursos compartidos de la red.</p>
+<p class="p">Para abrir el gestor de archivos, abra <span class="app">Archivos</span> en la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span>. También puede buscar archivos y carpetas en la vista de la misma manera que <span class="link"><a href="shell-apps-open.html.es" title="Iniciar aplicaciones">busca aplicaciones</a></span>.</p>
 </div>
 <div id="files-view-folder-contents" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Explorar el contenido de carpetas</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">En el gestor de archivos, pulse dos veces sobre una carpeta para ver su contenido y dos veces o con el <span class="link"><a href="mouse-middleclick.html" title="Pulsación central">botón central</a></span> sobre un archivo para abrirlo con la aplicación predeterminada para ese archivo. Pulse con el botón central sobre una carpeta para abrirla en una pestaña nueva. También puede pulsar con el botón derecho sobre una carpeta para abrirla en una pestaña o una ventana nueva.</p>
-<p class="p">Al examinar los archivos en una carpeta puede <span class="link"><a href="files-preview.html" title="Previsualizar archivos y carpetas">previsualizar rápidamente cada archivo</a></span> rápidamente pulsando la barra espaciadora para asegurarse de que tiene el archivo correcto antes de abrirlo, copiarlo o eliminarlo.</p>
+<p class="p">En el gestor de archivos, pulse dos veces sobre una carpeta para ver su contenido y dos veces o con el <span class="link"><a href="mouse-middleclick.html.es" title="Pulsación central">botón central</a></span> sobre un archivo para abrirlo con la aplicación predeterminada para ese archivo. Pulse con el botón central sobre una carpeta para abrirla en una pestaña nueva. También puede pulsar con el botón derecho sobre una carpeta para abrirla en una pestaña o una ventana nueva.</p>
+<p class="p">Al examinar los archivos en una carpeta puede <span class="link"><a href="files-preview.html.es" title="Previsualizar archivos y carpetas">previsualizar rápidamente cada archivo</a></span> rápidamente pulsando la barra espaciadora para asegurarse de que tiene el archivo correcto antes de abrirlo, copiarlo o eliminarlo.</p>
 <p class="p">La <span class="em">barra de rutas</span> situada encima de la lista de archivos y carpetas muestra qué carpeta está visualizando, incluyendo sus carpetas padre. Pulse en una carpeta padre de la barra de rutas para moverse a esa carpeta. Pulse con el botón derecho sobre cualquier carpeta de la barra de rutas para abrirla en una pestaña o ventana nueva, o para acceder a sus propiedades.</p>
-<p class="p">Si quiere <span class="link"><a href="files-search.html" title="Buscar archivos">buscar un archivo</a></span> rápidamente en la carpeta que está viendo, empiece a escribir su nombre. Aparecerá una <span class="em">caja de búsqueda</span> en la parte superior de la ventana y se mostrarán sólo los archivos que coincidan con su búsqueda. Pulse <span class="key"><kbd>Esc</kbd></span> para cancelar la búsqueda.</p>
+<p class="p">Si quiere <span class="link"><a href="files-search.html.es" title="Buscar archivos">buscar un archivo</a></span> rápidamente en la carpeta que está viendo, empiece a escribir su nombre. Aparecerá una <span class="em">caja de búsqueda</span> en la parte superior de la ventana y se mostrarán sólo los archivos que coincidan con su búsqueda. Pulse <span class="key"><kbd>Esc</kbd></span> para cancelar la búsqueda.</p>
 <p class="p">Puede acceder rápidamente a lugares comunes desde la <span class="em">barra lateral</span>. Si no ve la barra lateral, pulse <span class="gui">Archivos</span> en la barra de herramientas y elija <span class="gui">Barra lateral</span>. Puede añadir marcadores a carpetas que use con frecuencia y aparecerán en la barra lateral. Arrastre una carpeta a la barra lateral y suéltela sobre <span class="gui">Nuevo marcador</span>, que aparecerá dinámicamente, o pulse en el menú de la ventana y elija <span class="gui">Añadir esta ubicación a marcadores</span>.</p>
 </div></div>
 </div></div>
@@ -67,12 +67,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Tareas comunes">Tareas comunes</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.es#common-file-tasks" title="Tareas comunes">Tareas comunes</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-copy.html" title="Copiar o mover archivos y carpetas">Copiar o mover archivos y carpetas</a><span class="desc"> — Copiar o mover elementos a una carpeta nueva.</span>
+<a href="files-copy.html.es" title="Copiar o mover archivos y carpetas">Copiar o mover archivos y carpetas</a><span class="desc"> — Copiar o mover elementos a una carpeta nueva.</span>
 </li></ul></div>
 </div></div>
 </div>

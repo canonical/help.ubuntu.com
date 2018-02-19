@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Skaņa, video un bildes</span></h1></div>
@@ -54,13 +54,13 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-broken.html" title="Skaņu problēmas"><span class="title">Skaņu problēmas</span><span class="linkdiv-dash"> — </span><span class="desc">Problēmu atrisinājumi tādām problēmām, kā nav skaņas, vai ir slikta skaņas kvalitāte.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html" title="Izmantot citu mikrofonu"><span class="title">Izmantot citu mikrofonu</span><span class="linkdiv-dash"> — </span><span class="desc">Izmantojiet analogo vai USB mikrofonu un izvēlieties noklusējuma ievades ierīci.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html" title="Izvēlieties atšķirīgus skaļruņus vai austiņas"><span class="title">Izvēlieties atšķirīgus skaļruņus vai austiņas</span><span class="linkdiv-dash"> — </span><span class="desc">Pievienojiet skaļruņus vai austiņas un izvēlieties noklusējuma audio izvades ierīci.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-broken.html.lv" title="Skaņu problēmas"><span class="title">Skaņu problēmas</span><span class="linkdiv-dash"> — </span><span class="desc">Problēmu atrisinājumi tādām problēmām, kā nav skaņas, vai ir slikta skaņas kvalitāte.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html.lv" title="Izmantot citu mikrofonu"><span class="title">Izmantot citu mikrofonu</span><span class="linkdiv-dash"> — </span><span class="desc">Izmantojiet analogo vai USB mikrofonu un izvēlieties noklusējuma ievades ierīci.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html.lv" title="Izvēlieties atšķirīgus skaļruņus vai austiņas"><span class="title">Izvēlieties atšķirīgus skaļruņus vai austiņas</span><span class="linkdiv-dash"> — </span><span class="desc">Pievienojiet skaļruņus vai austiņas un izvēlieties noklusējuma audio izvades ierīci.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-alert.html" title="Izvēlieties vai deaktivēt brīdinājumu skaņas"><span class="title">Izvēlieties vai deaktivēt brīdinājumu skaņas</span><span class="linkdiv-dash"> — </span><span class="desc">Izvēlieties skaņu, kuru atskaņot paziņojumiem, iestatiet brīdinājumu skaļumu vai deaktivējiet brīdinājuma skaņas.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-volume.html" title="Mainiet skaņas līmeni"><span class="title">Mainiet skaņas līmeni</span><span class="linkdiv-dash"> — </span><span class="desc">Izvēlieties skaņas līmeni datoram un kontrolējiet katras lietotnes skaļumu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-alert.html.lv" title="Izvēlieties vai deaktivēt brīdinājumu skaņas"><span class="title">Izvēlieties vai deaktivēt brīdinājumu skaņas</span><span class="linkdiv-dash"> — </span><span class="desc">Izvēlieties skaņu, kuru atskaņot paziņojumiem, iestatiet brīdinājumu skaļumu vai deaktivējiet brīdinājuma skaņas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-volume.html.lv" title="Mainiet skaņas līmeni"><span class="title">Mainiet skaņas līmeni</span><span class="linkdiv-dash"> — </span><span class="desc">Izvēlieties skaņas līmeni datoram un kontrolējiet katras lietotnes skaļumu.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Vairāk informācijas</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Lietotājs un sistēmas iestatījumi</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tastatūra">Tastatūra</a></span>, <span class="link"><a href="mouse.html" title="Pele">pele</a></span>, <span class="link"><a href="prefs-display.html" title="Displejs un ekrāns">displejs</a></span>, <span class="link"><a href="prefs-language.html" title="Vieta un valoda">valodas</a></span>, <span class="link"><a href="user-accounts.html" title="Lietotāju konti">lietotāju konti</a></span>…</span>
+<a href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Lietotājs un sistēmas iestatījumi</a><span class="desc"> — <span class="link"><a href="keyboard.html.lv" title="Tastatūra">Tastatūra</a></span>, <span class="link"><a href="mouse.html.lv" title="Pele">pele</a></span>, <span class="link"><a href="prefs-display.html.lv" title="Displejs un ekrāns">displejs</a></span>, <span class="link"><a href="prefs-language.html.lv" title="Vieta un valoda">valodas</a></span>, <span class="link"><a href="user-accounts.html.lv" title="Lietotāju konti">lietotāju konti</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -78,33 +78,33 @@
 <div class="hgroup"><h2 class="title"><span class="title">Mūzika un pārnēsājamie audio atskaņotāji</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Atvērt lietotnes ierīcēm vai diskiem"><span class="title">Atvērt lietotnes ierīcēm vai diskiem</span><span class="linkdiv-dash"> — </span><span class="desc">Automātiski palaist lietotnes, kad atrasti CD, DVD, fotoaparāti, audio atskaņotāji vai citas ierīces vai datu nesēji.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html" title="Dziesmas neparādās manā iPod, kad es tās tur iekopēju"><span class="title">Dziesmas neparādās manā iPod, kad es tās tur iekopēju</span><span class="linkdiv-dash"> — </span><span class="desc">Lietojiet multivides atskaņotājus, lai kopētu dziesmas un pēc tam droši izņemtu no iPod.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.lv" title="Atvērt lietotnes ierīcēm vai diskiem"><span class="title">Atvērt lietotnes ierīcēm vai diskiem</span><span class="linkdiv-dash"> — </span><span class="desc">Automātiski palaist lietotnes, kad atrasti CD, DVD, fotoaparāti, audio atskaņotāji vai citas ierīces vai datu nesēji.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html.lv" title="Dziesmas neparādās manā iPod, kad es tās tur iekopēju"><span class="title">Dziesmas neparādās manā iPod, kad es tās tur iekopēju</span><span class="linkdiv-dash"> — </span><span class="desc">Lietojiet multivides atskaņotājus, lai kopētu dziesmas un pēc tam droši izņemtu no iPod.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="Es nevaru atskaņot dziesmas, kuras nopirku tiešsaistes mūzikas veikalā"><span class="title">Es nevaru atskaņot dziesmas, kuras nopirku tiešsaistes mūzikas veikalā</span><span class="linkdiv-dash"> — </span><span class="desc">Atbalsts šādam datņu formātam varētu nebūt uzinstalēts vai dziesma varētu būtu “aizsargāta pret kopēšanu”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html" title="Mans jaunais iPods nestrādā"><span class="title">Mans jaunais iPods nestrādā</span><span class="linkdiv-dash"> — </span><span class="desc">Pilnīgi jaunus iPodus vajag iestatīt, izmantojot iTunes programmu, pirms jūs varat tos izmantot.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html.lv" title="Es nevaru atskaņot dziesmas, kuras nopirku tiešsaistes mūzikas veikalā"><span class="title">Es nevaru atskaņot dziesmas, kuras nopirku tiešsaistes mūzikas veikalā</span><span class="linkdiv-dash"> — </span><span class="desc">Atbalsts šādam datņu formātam varētu nebūt uzinstalēts vai dziesma varētu būtu “aizsargāta pret kopēšanu”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html.lv" title="Mans jaunais iPods nestrādā"><span class="title">Mans jaunais iPods nestrādā</span><span class="linkdiv-dash"> — </span><span class="desc">Pilnīgi jaunus iPodus vajag iestatīt, izmantojot iTunes programmu, pirms jūs varat tos izmantot.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="photos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Fotogrāfijas un digitālās kameras</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html" title="Atmiņas karšu lasītāju problēmas"><span class="title">Atmiņas karšu lasītāju problēmas</span><span class="linkdiv-dash"> — </span><span class="desc">Problēmu novēršana atmiņas karšu lasītājiem</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Atvērt lietotnes ierīcēm vai diskiem"><span class="title">Atvērt lietotnes ierīcēm vai diskiem</span><span class="linkdiv-dash"> — </span><span class="desc">Automātiski palaist lietotnes, kad atrasti CD, DVD, fotoaparāti, audio atskaņotāji vai citas ierīces vai datu nesēji.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html.lv" title="Atmiņas karšu lasītāju problēmas"><span class="title">Atmiņas karšu lasītāju problēmas</span><span class="linkdiv-dash"> — </span><span class="desc">Problēmu novēršana atmiņas karšu lasītājiem</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.lv" title="Atvērt lietotnes ierīcēm vai diskiem"><span class="title">Atvērt lietotnes ierīcēm vai diskiem</span><span class="linkdiv-dash"> — </span><span class="desc">Automātiski palaist lietotnes, kad atrasti CD, DVD, fotoaparāti, audio atskaņotāji vai citas ierīces vai datu nesēji.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="videos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Video un video kameras</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Atvērt lietotnes ierīcēm vai diskiem"><span class="title">Atvērt lietotnes ierīcēm vai diskiem</span><span class="linkdiv-dash"> — </span><span class="desc">Automātiski palaist lietotnes, kad atrasti CD, DVD, fotoaparāti, audio atskaņotāji vai citas ierīces vai datu nesēji.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-sending.html" title="Citi cilvēki nevar atskaņot video, kurus es izveidoju"><span class="title">Citi cilvēki nevar atskaņot video, kurus es izveidoju</span><span class="linkdiv-dash"> — </span><span class="desc">Pārbaudiet, vai tiem ir instalēti pareizie video kodeki.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd.html" title="Kāpēc neatskaņo DVD?"><span class="title">Kāpēc neatskaņo DVD?</span><span class="linkdiv-dash"> — </span><span class="desc">Iespējams, nav ieinstalēti pareizie kodeki, vai arī DVD varētu būt no nepareizā reģiona.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.lv" title="Atvērt lietotnes ierīcēm vai diskiem"><span class="title">Atvērt lietotnes ierīcēm vai diskiem</span><span class="linkdiv-dash"> — </span><span class="desc">Automātiski palaist lietotnes, kad atrasti CD, DVD, fotoaparāti, audio atskaņotāji vai citas ierīces vai datu nesēji.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-sending.html.lv" title="Citi cilvēki nevar atskaņot video, kurus es izveidoju"><span class="title">Citi cilvēki nevar atskaņot video, kurus es izveidoju</span><span class="linkdiv-dash"> — </span><span class="desc">Pārbaudiet, vai tiem ir instalēti pareizie video kodeki.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd.html.lv" title="Kāpēc neatskaņo DVD?"><span class="title">Kāpēc neatskaņo DVD?</span><span class="linkdiv-dash"> — </span><span class="desc">Iespējams, nav ieinstalēti pareizie kodeki, vai arī DVD varētu būt no nepareizā reģiona.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="app-cheese.html" title="Veidojiet jautrus foto un video ar savu tīmekļa kameru"><span class="title">Veidojiet jautrus foto un video ar savu tīmekļa kameru</span><span class="linkdiv-dash"> — </span><span class="desc">Tā ir kā jūsu personīgā foto kabīne.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html" title="Kā es varu aktivēt ierobežotos kodekus, lai atskaņotu DVDs?"><span class="title">Kā es varu aktivēt ierobežotos kodekus, lai atskaņotu DVDs?</span><span class="linkdiv-dash"> — </span><span class="desc">Vairums komerciālo DVD ir šifrēti un tos nevar atskaņot bez atšifrēšanas programmatūras.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="app-cheese.html.lv" title="Veidojiet jautrus foto un video ar savu tīmekļa kameru"><span class="title">Veidojiet jautrus foto un video ar savu tīmekļa kameru</span><span class="linkdiv-dash"> — </span><span class="desc">Tā ir kā jūsu personīgā foto kabīne.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html.lv" title="Kā es varu aktivēt ierobežotos kodekus, lai atskaņotu DVDs?"><span class="title">Kā es varu aktivēt ierobežotos kodekus, lai atskaņotu DVDs?</span><span class="linkdiv-dash"> — </span><span class="desc">Vairums komerciālo DVD ir šifrēti un tos nevar atskaņot bez atšifrēšanas programmatūras.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -112,7 +112,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu darbvirsmas rokasgrāmata">Ubuntu darbvirsmas rokasgrāmata</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata">Ubuntu darbvirsmas rokasgrāmata</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

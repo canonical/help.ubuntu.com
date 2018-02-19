@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a> » <a class="trail" href="nautilus-prefs.html" title="Předvolby správce souborů">Předvolby správce souborů</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a> » <a class="trail" href="nautilus-prefs.html.cs" title="Předvolby správce souborů">Předvolby správce souborů</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Předvolby chování ve správci souborů</span></h1></div>
@@ -60,7 +60,7 @@
 <div id="executable" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Spustitelné textové soubory</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Spustitelný textový soubor je soubor, který obsahuje programový skript, který můžete spustit (nechat provést). <span class="link"><a href="nautilus-file-properties-permissions.html" title="Nastavení oprávnění souboru">Oprávnění k souboru</a></span> musí být nastavena tak, aby spuštění souboru povolovala. Mezi nejznámější skriptovací jazyky patří <span class="sys">Shell</span>, <span class="sys">Python</span> a <span class="sys">Perl</span>. Mají přípony <span class="file">.sh</span> respektive <span class="file">.py</span> respektive <span class="file">.pl</span>.</p>
+<p class="p">Spustitelný textový soubor je soubor, který obsahuje programový skript, který můžete spustit (nechat provést). <span class="link"><a href="nautilus-file-properties-permissions.html.cs" title="Nastavení oprávnění souboru">Oprávnění k souboru</a></span> musí být nastavena tak, aby spuštění souboru povolovala. Mezi nejznámější skriptovací jazyky patří <span class="sys">Shell</span>, <span class="sys">Python</span> a <span class="sys">Perl</span>. Mají přípony <span class="file">.sh</span> respektive <span class="file">.py</span> respektive <span class="file">.pl</span>.</p>
 <p class="p">Jestli používáte otevírání spustitelných textových souborů, můžete si vybrat z:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Spouštět spustitelné textové soubory při otevření</span></p></li>
@@ -89,7 +89,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Viz také</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="files-delete.html" title="Mazání souborů a složek">Mazání souborů a složek</a><span class="desc"> — Jak odstranit soubory a složky, které nadále nepotřebujete.</span>
+<a href="files-delete.html.cs" title="Mazání souborů a složek">Mazání souborů a složek</a><span class="desc"> — Jak odstranit soubory a složky, které nadále nepotřebujete.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -100,7 +100,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Předvolby správce souborů">Předvolby správce souborů</a><span class="desc"> — Jak si zobrazit a nastavit předvolby pro správce souborů.</span>
+<a href="nautilus-prefs.html.cs" title="Předvolby správce souborů">Předvolby správce souborů</a><span class="desc"> — Jak si zobrazit a nastavit předvolby pro správce souborů.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html" title="Logiciels de messagerie et courriels">Logiciels de messagerie et courriels</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html.fr" title="Logiciels de messagerie et courriels">Logiciels de messagerie et courriels</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html" title="Être en sécurité sur Internet">Être en sécurité sur Internet</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html.fr" title="Être en sécurité sur Internet">Être en sécurité sur Internet</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Les virus sont des programmes malveillants destinés à causer des dégâts s'ils arrivent à pénétrer dans votre ordinateur. Une façon répandue d'infection est la transmission par courriels.</p>
 <p class="p">Viruses that can affect computers running Linux are quite rare, so you are
-  <span class="link"><a href="net-antivirus.html" title="Utilité d'un logiciel antivirus">unlikely to get a virus through email or
+  <span class="link"><a href="net-antivirus.html.fr" title="Utilité d'un logiciel antivirus">unlikely to get a virus through email or
   otherwise</a></span>. If you receive an email with a virus hidden in it, it will
   probably have no effect on your computer. As such, you probably don’t need to
   scan your email for viruses.</p>
@@ -75,16 +75,16 @@
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-email.html" title="Logiciels de messagerie et courriels">Logiciels de messagerie et courriels</a><span class="desc"> — 
-      <span class="link"><a href="net-default-email.html" title="Changement du client de messagerie pour écrire vos courriels">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html" title="Contrôle antivirus de mes courriels">Should I scan for viruses?</a></span>…
+<a href="net-email.html.fr" title="Logiciels de messagerie et courriels">Logiciels de messagerie et courriels</a><span class="desc"> — 
+      <span class="link"><a href="net-default-email.html.fr" title="Changement du client de messagerie pour écrire vos courriels">Default email apps</a></span>,
+      <span class="link"><a href="net-email-virus.html.fr" title="Contrôle antivirus de mes courriels">Should I scan for viruses?</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="net-security.html" title="Être en sécurité sur Internet">Être en sécurité sur Internet</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="Utilité d'un logiciel antivirus">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Autorisation ou blocage de l'accès au pare-feu">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Les ports réseau les plus courants">firewall ports</a></span>…
+<a href="net-security.html.fr" title="Être en sécurité sur Internet">Être en sécurité sur Internet</a><span class="desc"> — 
+      <span class="link"><a href="net-antivirus.html.fr" title="Utilité d'un logiciel antivirus">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.fr" title="Autorisation ou blocage de l'accès au pare-feu">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.fr" title="Les ports réseau les plus courants">firewall ports</a></span>…
     </span>
 </li>
 </ul></div>
@@ -92,7 +92,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="Utilité d'un logiciel antivirus">Utilité d'un logiciel antivirus</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
+<a href="net-antivirus.html.fr" title="Utilité d'un logiciel antivirus">Utilité d'un logiciel antivirus</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
     software.</span>
 </li></ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ver as preferencias en <span class="app">Ficheiros</span></span></h1></div>
@@ -57,7 +57,7 @@ Select <span class="guiseq"><span class="gui">Files</span> ▸ <span class="gui
 <dt class="terms"><span class="gui">Ordenar elementos</span></dt>
 <dd class="terms">
 <p class="p">Pode cambiar a forma de ordenación predeterminada usada nos cartafoles usando a lista despregábel <span class="gui">Ordenar elementos</span> nas preferencias para ordenar por nome, tamaño de ficheiro, tipo de ficheiro, cando foi modificado por última vez, cando foi accedido por última vez, ou cando foron enviados ao lixo.</p>
-<p class="p">You can change how <span class="link"><a href="files-sort.html" title="Ordenar ficheiros e cartafoles">files are
+<p class="p">You can change how <span class="link"><a href="files-sort.html.gl-GL" title="Ordenar ficheiros e cartafoles">files are
     sorted</a></span> in an individual folder by clicking the view options
     
     button in the toolbar and choosing <span class="gui">Name</span>,
@@ -73,7 +73,7 @@ Select <span class="guiseq"><span class="gui">Files</span> ▸ <span class="gui
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a><span class="desc"> — View and set preferences for the file browser.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,31 +43,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Bluetooth é um protocolo sem fios que lhe permite ligar vários tipos de dispositivos o seu computador. Bluetooth usa-se habitualmente para auriculares e dispositivos primeiramente como ratos e teclados. Também pode usar Bluetooth para <span class="link"><a href="bluetooth-send-file.html" title="Enviar ficheiros a um dispositivo Bluetooth">enviar ficheiros entre dispositivos</a></span>, por exemplo entre o seu computador e seu telefone movel.</p>
+<p class="p">Bluetooth é um protocolo sem fios que lhe permite ligar vários tipos de dispositivos o seu computador. Bluetooth usa-se habitualmente para auriculares e dispositivos primeiramente como ratos e teclados. Também pode usar Bluetooth para <span class="link"><a href="bluetooth-send-file.html.pt" title="Enviar ficheiros a um dispositivo Bluetooth">enviar ficheiros entre dispositivos</a></span>, por exemplo entre o seu computador e seu telefone movel.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html" title="Acender ou apagar o Bluetooth"><span class="title">Acender ou apagar o Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Ativar ou desativar o dispositivo Bluetooth da sua computador.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Controlar a partilha por Bluetooth"><span class="title">Controlar a partilha por Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Permitir subir ficheiros à computador mediante Bluetooth</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html" title="Desligar um dispositivo Bluetooth"><span class="title">Desligar um dispositivo Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Eliminar um dispositivo da lista de dispositivos Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html" title="Enviar ficheiros a um dispositivo Bluetooth"><span class="title">Enviar ficheiros a um dispositivo Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Partilhar ficheiros entre dispositivos Bleutooth, como seu telefone.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html" title="Ligar o seu computador a um dispositivo Bluetooth"><span class="title">Ligar o seu computador a um dispositivo Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Emparelhar dispositivos Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html" title="Que é a visibilidade de Bluetooth?"><span class="title">Que é a visibilidade de Bluetooth?</span><span class="linkdiv-dash"> — </span><span class="desc">Indica se outros dispositivos pode descobrir o seu computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html.pt" title="Acender ou apagar o Bluetooth"><span class="title">Acender ou apagar o Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Ativar ou desativar o dispositivo Bluetooth da sua computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.pt" title="Controlar a partilha por Bluetooth"><span class="title">Controlar a partilha por Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Permitir subir ficheiros à computador mediante Bluetooth</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html.pt" title="Desligar um dispositivo Bluetooth"><span class="title">Desligar um dispositivo Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Eliminar um dispositivo da lista de dispositivos Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.pt" title="Enviar ficheiros a um dispositivo Bluetooth"><span class="title">Enviar ficheiros a um dispositivo Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Partilhar ficheiros entre dispositivos Bleutooth, como seu telefone.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html.pt" title="Ligar o seu computador a um dispositivo Bluetooth"><span class="title">Ligar o seu computador a um dispositivo Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Emparelhar dispositivos Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html.pt" title="Que é a visibilidade de Bluetooth?"><span class="title">Que é a visibilidade de Bluetooth?</span><span class="linkdiv-dash"> — </span><span class="desc">Indica se outros dispositivos pode descobrir o seu computador.</span></a></div>
 </div></div></div>
 </div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Problemas</span></h2></div>
 <div class="region">
-<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html" title="Não posso ligar meu dispositivo Bluetooth"><span class="title">Não posso ligar meu dispositivo Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Pode que o adaptador esteja apagado ou que não tenha controladores, ou pode que tenha desativar ou bloqueado o Bluetooth.</span></a></div></div></div></div></div>
+<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html.pt" title="Não posso ligar meu dispositivo Bluetooth"><span class="title">Não posso ligar meu dispositivo Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Pode que o adaptador esteja apagado ou que não tenha controladores, ou pode que tenha desativar ou bloqueado o Bluetooth.</span></a></div></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Mais informação</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Problemas comuns">Problemas de hardware</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.pt#problems" title="Problemas comuns">Problemas de hardware</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -77,7 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardware e controladores">Hardware e controladores</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Problemas comuns">Problemas de hardware</a></span>, <span class="link"><a href="printing.html" title="Imprimir">impressoras</a></span>, <span class="link"><a href="power.html" title="Energia e bateria">configuração de energia</a></span>, <span class="link"><a href="color.html" title="Gestão da cor">gestão da cor</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Discos e armazenamento">discos</a></span>…</span>
+<a href="hardware.html.pt" title="Hardware e controladores">Hardware e controladores</a><span class="desc"> — <span class="link"><a href="hardware.html.pt#problems" title="Problemas comuns">Problemas de hardware</a></span>, <span class="link"><a href="printing.html.pt" title="Imprimir">impressoras</a></span>, <span class="link"><a href="power.html.pt" title="Energia e bateria">configuração de energia</a></span>, <span class="link"><a href="color.html.pt" title="Gestão da cor">gestão da cor</a></span>, <span class="link"><a href="bluetooth.html.pt" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.pt" title="Discos e armazenamento">discos</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

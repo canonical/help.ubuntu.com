@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tablet γραφικών Wacom</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">Αλλάξτε το tablet μεταξύ λειτουργίας tablet και λειτουργίας ποντικιού.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html" title="Επιλέξτε μια οθόνη"><span class="title">Επιλέξτε μια οθόνη</span><span class="linkdiv-dash"> — </span><span class="desc">Απεικονίστε το tablet Wacom σε μια συγκεκριμένη οθόνη.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html" title="Ρύθμιση της γραφίδας"><span class="title">Ρύθμιση της γραφίδας</span><span class="linkdiv-dash"> — </span><span class="desc">Ορίστε τις λειτουργίες κουμπιών και αίσθησης πίεσης της γραφίδας Wacom.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html" title="Χρησιμοποιήστε το αριστερόχειρο tablet"><span class="title">Χρησιμοποιήστε το αριστερόχειρο tablet</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.el" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">Αλλάξτε το tablet μεταξύ λειτουργίας tablet και λειτουργίας ποντικιού.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.el" title="Επιλέξτε μια οθόνη"><span class="title">Επιλέξτε μια οθόνη</span><span class="linkdiv-dash"> — </span><span class="desc">Απεικονίστε το tablet Wacom σε μια συγκεκριμένη οθόνη.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.el" title="Ρύθμιση της γραφίδας"><span class="title">Ρύθμιση της γραφίδας</span><span class="linkdiv-dash"> — </span><span class="desc">Ορίστε τις λειτουργίες κουμπιών και αίσθησης πίεσης της γραφίδας Wacom.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.el" title="Χρησιμοποιήστε το αριστερόχειρο tablet"><span class="title">Χρησιμοποιήστε το αριστερόχειρο tablet</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Χρήστης &amp; ρυθμίσεις συστήματος</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Πληκτρολόγιο">Πληκτρολόγιο</a></span>, <span class="link"><a href="mouse.html" title="Ποντίκι">Ποντίκι</a></span>, <span class="link"><a href="prefs-display.html" title="Εμφάνιση &amp; οθόνη">Οθόνη</a></span>, <span class="link"><a href="prefs-language.html" title="Περιοχή &amp; γλώσσα">Γλώσσες</a></span>, <span class="link"><a href="user-accounts.html" title="Λογαριασμοί χρηστών">Λογαριασμοί χρήστη</a></span>…</span>
+<a href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Χρήστης &amp; ρυθμίσεις συστήματος</a><span class="desc"> — <span class="link"><a href="keyboard.html.el" title="Πληκτρολόγιο">Πληκτρολόγιο</a></span>, <span class="link"><a href="mouse.html.el" title="Ποντίκι">Ποντίκι</a></span>, <span class="link"><a href="prefs-display.html.el" title="Εμφάνιση &amp; οθόνη">Οθόνη</a></span>, <span class="link"><a href="prefs-language.html.el" title="Περιοχή &amp; γλώσσα">Γλώσσες</a></span>, <span class="link"><a href="user-accounts.html.el" title="Λογαριασμοί χρηστών">Λογαριασμοί χρήστη</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

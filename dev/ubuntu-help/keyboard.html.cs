@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,32 +56,32 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Region a jazyk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">Použití alternativního rozložení klávesnice</a><span class="desc"> — Přidání rozložení klávesnice a přepnutí mezi nimi.</span>
+<a href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice">Použití alternativního rozložení klávesnice</a><span class="desc"> — Přidání rozložení klávesnice a přepnutí mezi nimi.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Univerzální přístup</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-key-menu.html" title="Co je klávesa Menu?">Co je klávesa <span class="key"><kbd>Menu</kbd></span>?</a><span class="desc"> — Klávesa <span class="key"><kbd>Menu</kbd></span> spouští kontextovou nabídku z klávesnice, obdobně jako kliknutí pravým tlačítkem.</span>
+<a href="keyboard-key-menu.html.cs" title="Co je klávesa Menu?">Co je klávesa <span class="key"><kbd>Menu</kbd></span>?</a><span class="desc"> — Klávesa <span class="key"><kbd>Menu</kbd></span> spouští kontextovou nabídku z klávesnice, obdobně jako kliknutí pravým tlačítkem.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html" title="Co je klávesa Super?">Co je klávesa <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — Klávesa <span class="key"><kbd>Super</kbd></span> otevírá přehled <span class="gui">Činnosti</span>. Obvykle ji můžete na klávesnici najít vedle klávesy <span class="key"><kbd>Alt</kbd></span>.</span>
+<a href="keyboard-key-super.html.cs" title="Co je klávesa Super?">Co je klávesa <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — Klávesa <span class="key"><kbd>Super</kbd></span> otevírá přehled <span class="gui">Činnosti</span>. Obvykle ji můžete na klávesnici najít vedle klávesy <span class="key"><kbd>Alt</kbd></span>.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html" title="Ovládání klávesnicí">Ovládání klávesnicí</a><span class="desc"> — Jak používat aplikace a celé uživatelské prostředí bez myši.</span>
+<a href="keyboard-nav.html.cs" title="Ovládání klávesnicí">Ovládání klávesnicí</a><span class="desc"> — Jak používat aplikace a celé uživatelské prostředí bez myši.</span>
 </li>
 <li class="links ">
-<a href="keyboard-osk.html" title="Používání klávesnice na obrazovce">Používání klávesnice na obrazovce</a><span class="desc"> — Jak používat klávesnici na obrazovce k zadávání klikáním na tlačítka pomocí myši nebo dotykové obrazovky.</span>
+<a href="keyboard-osk.html.cs" title="Používání klávesnice na obrazovce">Používání klávesnice na obrazovce</a><span class="desc"> — Jak používat klávesnici na obrazovce k zadávání klikáním na tlačítka pomocí myši nebo dotykové obrazovky.</span>
 </li>
 <li class="links ">
-<a href="a11y-stickykeys.html" title="Zapnutí kombinací kláves jedním prstem">Zapnutí kombinací kláves jedním prstem</a><span class="desc"> — Jak u klávesových zkratek mačkat jednu kláves po druhé, místo abyste je drželi zmáčknuté naráz.</span>
+<a href="a11y-stickykeys.html.cs" title="Zapnutí kombinací kláves jedním prstem">Zapnutí kombinací kláves jedním prstem</a><span class="desc"> — Jak u klávesových zkratek mačkat jednu kláves po druhé, místo abyste je drželi zmáčknuté naráz.</span>
 </li>
 <li class="links ">
-<a href="a11y-slowkeys.html" title="Zapnutí pomalých kláves">Zapnutí pomalých kláves</a><span class="desc"> — Jak ponechat prodlevu mezi zmáčknutím klávesy a napsáním písmena na obrazovku.</span>
+<a href="a11y-slowkeys.html.cs" title="Zapnutí pomalých kláves">Zapnutí pomalých kláves</a><span class="desc"> — Jak ponechat prodlevu mezi zmáčknutím klávesy a napsáním písmena na obrazovku.</span>
 </li>
 <li class="links ">
-<a href="a11y-bouncekeys.html" title="Zapnutí vícenásobných zmáčknutí kláves">Zapnutí vícenásobných zmáčknutí kláves</a><span class="desc"> — Jak ignorovat rychle se opakující zmáčknutí téže klávesy.</span>
+<a href="a11y-bouncekeys.html.cs" title="Zapnutí vícenásobných zmáčknutí kláves">Zapnutí vícenásobných zmáčknutí kláves</a><span class="desc"> — Jak ignorovat rychle se opakující zmáčknutí téže klávesy.</span>
 </li>
 </ul></div>
 </div></div>
@@ -89,19 +89,19 @@
 <div class="title title-links"><h2><span class="title">Další témata</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-cursor-blink.html" title="Nastavení blikání textového kurzoru">Nastavení blikání textového kurzoru</a><span class="desc"> — Jak přimět pozici pro vkládání textu blikat a jak ovládat rychlost blikání.</span>
+<a href="keyboard-cursor-blink.html.cs" title="Nastavení blikání textového kurzoru">Nastavení blikání textového kurzoru</a><span class="desc"> — Jak přimět pozici pro vkládání textu blikat a jak ovládat rychlost blikání.</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Nastavení klávesových zkratek">Nastavení klávesových zkratek</a><span class="desc"> — Jak definovat nebo změnit klávesové zkratky v nastavení <span class="gui">Klávesnice</span>.</span>
+<a href="keyboard-shortcuts-set.html.cs" title="Nastavení klávesových zkratek">Nastavení klávesových zkratek</a><span class="desc"> — Jak definovat nebo změnit klávesové zkratky v nastavení <span class="gui">Klávesnice</span>.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Nastavení opakování zmáčknutých kláves">Nastavení opakování zmáčknutých kláves</a><span class="desc"> — Jak přimět klávesnici, aby neopakovala písmena, když držíte klávesu zmáčknutou, nebo jak změnit prodlevu a rychlost opakování.</span>
+<a href="keyboard-repeat-keys.html.cs" title="Nastavení opakování zmáčknutých kláves">Nastavení opakování zmáčknutých kláves</a><span class="desc"> — Jak přimět klávesnici, aby neopakovala písmena, když držíte klávesu zmáčknutou, nebo jak změnit prodlevu a rychlost opakování.</span>
 </li>
 <li class="links ">
-<a href="numeric-keypad.html" title="Numeric keypad">Numeric keypad</a><span class="desc"> — Enable the numeric keypad by default.</span>
+<a href="numeric-keypad.html.cs" title="Numeric keypad">Numeric keypad</a><span class="desc"> — Enable the numeric keypad by default.</span>
 </li>
 <li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Užitečné klávesové zkratky">Užitečné klávesové zkratky</a><span class="desc"> — Jak se v uživatelském prostředí pohybovat pomocí klávesnice.</span>
+<a href="shell-keyboard-shortcuts.html.cs" title="Užitečné klávesové zkratky">Užitečné klávesové zkratky</a><span class="desc"> — Jak se v uživatelském prostředí pohybovat pomocí klávesnice.</span>
 </li>
 </ul></div>
 </div></div>
@@ -112,10 +112,10 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html" title="Hardware a ovladače">Hardware a ovladače</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Běžné problémy">Problémy s hardwarem</a></span>, <span class="link"><a href="printing.html" title="Tisk">tiskárny</a></span>, <span class="link"><a href="power.html" title="Napájení a baterie">nastavení napájení</a></span>, <span class="link"><a href="color.html" title="Správa barev">správa barev</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Disky a úložiště">disky</a></span>…</span>
+<a href="hardware.html.cs" title="Hardware a ovladače">Hardware a ovladače</a><span class="desc"> — <span class="link"><a href="hardware.html.cs#problems" title="Běžné problémy">Problémy s hardwarem</a></span>, <span class="link"><a href="printing.html.cs" title="Tisk">tiskárny</a></span>, <span class="link"><a href="power.html.cs" title="Napájení a baterie">nastavení napájení</a></span>, <span class="link"><a href="color.html.cs" title="Správa barev">správa barev</a></span>, <span class="link"><a href="bluetooth.html.cs" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.cs" title="Disky a úložiště">disky</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs.html" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html" title="Uživatelské účty">uživatelské účty</a></span>…</span>
+<a href="prefs.html.cs" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html.cs" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html.cs" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html.cs" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html.cs" title="Uživatelské účty">uživatelské účty</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

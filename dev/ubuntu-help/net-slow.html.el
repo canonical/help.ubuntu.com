@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-problem.html.el" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Το διαδίκτυο φαίνεται αργό</span></h1></div>
@@ -102,7 +102,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Αντιμετώπιση προβλημάτων ασύρματων συνδέσεων</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">Εύρεση του δικτύου wifi</a></span>…</span>
+<a href="net-problem.html.el" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.el" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Αντιμετώπιση προβλημάτων ασύρματων συνδέσεων</a></span>, <span class="link"><a href="net-wireless-find.html.el" title="I can’t see my wireless network in the list">Εύρεση του δικτύου wifi</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

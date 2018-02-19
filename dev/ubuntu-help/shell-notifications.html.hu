@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Az asztal">Asztal</a> › <a class="trail" href="shell-overview.html#desktop" title="Az asztali környezet személyre szabása">Az asztali környezet személyre szabása</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.hu" title="Az asztal">Asztal</a> › <a class="trail" href="shell-overview.html.hu#desktop" title="Az asztali környezet személyre szabása">Az asztali környezet személyre szabása</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Értesítések és az üzenettálca</span></h1></div>
@@ -61,7 +61,7 @@
 <div id="messagetray" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Az üzenettálca</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Az üzenettálca lehetővé teszi az értesítésekhez való visszatérést, amikor az Önnek megfelelő. Akkor jelenik meg, amikor az órára kattint, vagy megnyomja a <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span> kombinációt. Az üzenettálca azokat az értesítéseket tartalmazza, amelyekre nem reagált, vagy amelyek folyamatosan ott találhatók.</p>
+<p class="p">Az üzenettálca lehetővé teszi az értesítésekhez való visszatérést, amikor az Önnek megfelelő. Akkor jelenik meg, amikor az órára kattint, vagy megnyomja a <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span> kombinációt. Az üzenettálca azokat az értesítéseket tartalmazza, amelyekre nem reagált, vagy amelyek folyamatosan ott találhatók.</p>
 <p class="p">Az értesítéseket megjelenítheti az üzenettálca elemeire való kattintással. Ezek általában alkalmazások által küldött üzenetek. Azonban az azonnaliüzenő programok értesítései speciális elbánás alá esnek, és ezeket a küldő partnerek képviselik.</p>
 <p class="p">Az üzenettálcát a <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> ismételt, vagy az <span class="key"><kbd>Esc</kbd></span> egyszeri megnyomásával zárhatja be.</p>
 </div></div>
@@ -71,7 +71,7 @@
 <div class="region"><div class="contents">
 <p class="p">Ha éppen dolgozik valamin, és nem szeretné, hogy megzavarják, akkor kikapcsolhatja az értesítéseket.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni az <span class="gui">Értesítések</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni az <span class="gui">Értesítések</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Értesítések</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Kapcsolja <span class="gui">KI</span> az <span class="gui">Értesítési csíkok</span> kapcsolót.</p></li>
 </ol></div></div></div>
@@ -83,7 +83,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="Az asztali környezet személyre szabása">Az asztali környezet személyre szabása</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.hu#desktop" title="Az asztali környezet személyre szabása">Az asztali környezet személyre szabása</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

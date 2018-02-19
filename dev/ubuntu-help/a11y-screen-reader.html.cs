@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Univerzální přístup">Univerzální přístup</a> › <a class="trail" href="a11y.html#vision" title="Zraková postižení">Zraková postižení</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.cs" title="Univerzální přístup">Univerzální přístup</a> › <a class="trail" href="a11y.html.cs#vision" title="Zraková postižení">Zraková postižení</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Čtení obrazovky nahlas</span></h1></div>
@@ -54,13 +54,13 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Zmáčkněte <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span></span>.</p></li></ol></div></div></div>
 <p class="p">Nebo pro spuštění čtečky <span class="app">Orca</span> pomocí myši a klávesnice:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Univerzální přístup</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Univerzální přístup</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Univerzální přístup</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Čtečka obrazovky</span> v části <span class="gui">Zrak</span>, abyste se přepnuli do dialogového okna <span class="gui">Čtečka obrazovky</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner">
 <div class="title title-note"><h2><span class="title">Rychlé zapnutí a vypnutí Čtečky obrazovky</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Čtečku obrazovky můžete zapnout nebo vypnout kliknutím na <span class="link"><a href="a11y-icon.html" title="Vyhledání nabídky univerzálního přístupu">ikonu zpřístupnění</a></span> na horní liště a následným výběrem položky <span class="gui">Čtečka obrazovky</span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Čtečku obrazovky můžete zapnout nebo vypnout kliknutím na <span class="link"><a href="a11y-icon.html.cs" title="Vyhledání nabídky univerzálního přístupu">ikonu zpřístupnění</a></span> na horní liště a následným výběrem položky <span class="gui">Čtečka obrazovky</span>.</p></div></div>
 </div></div>
 <p class="p">Další informace můžete najít v <span class="link"><a href="help:orca" title="help:orca">nápovědě ke čtečce Orca</a></span>.</p>
 </div>
@@ -69,12 +69,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Zraková postižení">Zraková postižení</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.cs#vision" title="Zraková postižení">Zraková postižení</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y-braille.html" title="Čtení obrazovky pomocí braillského řádku">Čtení obrazovky pomocí braillského řádku</a><span class="desc"> — Jak používat čtečku obrazovky <span class="app">Orca</span> s braillským řádkem.</span>
+<a href="a11y-braille.html.cs" title="Čtení obrazovky pomocí braillského řádku">Čtení obrazovky pomocí braillského řádku</a><span class="desc"> — Jak používat čtečku obrazovky <span class="app">Orca</span> s braillským řádkem.</span>
 </li></ul></div>
 </div></div>
 </div>

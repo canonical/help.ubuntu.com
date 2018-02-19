@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » <a class="trail" href="nautilus-prefs.html" title="Inställningar för filhanterare">Inställningar för filhanterare</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » <a class="trail" href="nautilus-prefs.html.sv" title="Inställningar för filhanterare">Inställningar för filhanterare</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Förhandsgranskningsinställningar för filhanterare</span></h1></div>
@@ -53,11 +53,11 @@
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Filer</span></dt>
 <dd class="terms">
-<p class="p">Som standard görs förhandsgranskningar <span class="gui">Endast lokala filer</span>, de på din dator eller anslutna externa hårddiskar. Du kan ställa in denna funktion på <span class="gui">Alltid</span> eller <span class="gui">Aldrig</span>. Filhanteraren kan <span class="link"><a href="nautilus-connect.html" title="Bläddra genom filer på en server eller nätverksutdelning">bläddra bland filer på andra datorer</a></span> över ett lokalt nätverk eller internet. Om du ofta bläddrar bland filer över ett lokalt nätverk och nätverket har en hög bandbredd kan det vara lämpligt att sätta förhandsgranskningsalternativet till <span class="gui">Alltid</span>.</p>
+<p class="p">Som standard görs förhandsgranskningar <span class="gui">Endast lokala filer</span>, de på din dator eller anslutna externa hårddiskar. Du kan ställa in denna funktion på <span class="gui">Alltid</span> eller <span class="gui">Aldrig</span>. Filhanteraren kan <span class="link"><a href="nautilus-connect.html.sv" title="Bläddra genom filer på en server eller nätverksutdelning">bläddra bland filer på andra datorer</a></span> över ett lokalt nätverk eller internet. Om du ofta bläddrar bland filer över ett lokalt nätverk och nätverket har en hög bandbredd kan det vara lämpligt att sätta förhandsgranskningsalternativet till <span class="gui">Alltid</span>.</p>
 <p class="p">Dessutom kan du använda inställningen <span class="gui">Endast för filer mindre än</span> för att begränsa storleken för filer som förhandsgranskas.</p>
 </dd>
 <dt class="terms"><span class="gui">Mappar</span></dt>
-<dd class="terms"><p class="p">Om du visar filstorlekar i <span class="link"><a href="nautilus-list.html" title="Kolumninställningar för listvy i Filer">listvykolumner</a></span> eller <span class="link"><a href="nautilus-display.html#icon-captions" title="Ikonrubriker">ikonrubriker</a></span>, kommer mappar att visas tillsammans med antalet filer och mappar de innehåller. Att räkna antal objekt i en mapp kan gå långsamt, speciellt för väldigt stora mappar, eller över ett nätverk. Du kan aktivera eller inaktivera denna funktion eller aktivera den enbart för filer på din dator och lokala externa hårddiskar.</p></dd>
+<dd class="terms"><p class="p">Om du visar filstorlekar i <span class="link"><a href="nautilus-list.html.sv" title="Kolumninställningar för listvy i Filer">listvykolumner</a></span> eller <span class="link"><a href="nautilus-display.html.sv#icon-captions" title="Ikonrubriker">ikonrubriker</a></span>, kommer mappar att visas tillsammans med antalet filer och mappar de innehåller. Att räkna antal objekt i en mapp kan gå långsamt, speciellt för väldigt stora mappar, eller över ett nätverk. Du kan aktivera eller inaktivera denna funktion eller aktivera den enbart för filer på din dator och lokala externa hårddiskar.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Inställningar för filhanterare">Inställningar för filhanterare</a><span class="desc"> — Visa och ställ in inställningar för filhanteraren.</span>
+<a href="nautilus-prefs.html.sv" title="Inställningar för filhanterare">Inställningar för filhanterare</a><span class="desc"> — Visa och ställ in inställningar för filhanteraren.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-preview.html" title="Förhandsgranska filer och mappar">Förhandsgranska filer och mappar</a><span class="desc"> — Visa och dölj snabbt förhandsgranskningar av dokument, bilder, videor och mera.</span>
+<a href="files-preview.html.sv" title="Förhandsgranska filer och mappar">Förhandsgranska filer och mappar</a><span class="desc"> — Visa och dölj snabbt förhandsgranskningar av dokument, bilder, videor och mera.</span>
 </li></ul></div>
 </div></div>
 </div>

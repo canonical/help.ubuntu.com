@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="getting-started.html" title="Primeros pasos">Primeros pasos con GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="getting-started.html.es" title="Primeros pasos">Primeros pasos con GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-windows-workspaces.html" title="Usar ventanas y áreas de trabajo">Anterior</a><a class="nextlinks-next" href="gs-get-online.html" title="Conectarse a Internet">Siguiente</a>
+<a class="nextlinks-prev" href="gs-use-windows-workspaces.html.es" title="Usar ventanas y áreas de trabajo">Anterior</a><a class="nextlinks-next" href="gs-get-online.html.es" title="Conectarse a Internet">Siguiente</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Utilizar la búsqueda de sistema</span></h1></div>
 <div class="region">
@@ -87,7 +87,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Para personalizar lo que aparece en los resultados de búsqueda:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Pulse en el <span class="gui"><a href="shell-introduction.html#yourname" title="Usted y su equipo">menú del sistema</a></span> en la parte derecha de la barra superior.</p></li>
+<li class="steps"><p class="p">Pulse en el <span class="gui"><a href="shell-introduction.html.es#yourname" title="Usted y su equipo">menú del sistema</a></span> en la parte derecha de la barra superior.</p></li>
 <li class="steps"><p class="p">Pulse el botón de configuración en la parte inferior izquierda del menú.</p></li>
 <li class="steps"><p class="p">Pulse el panel <span class="gui">Buscar</span>.</p></li>
 <li class="steps"><p class="p">En la lista de direcciones de búsqueda, pulse el interruptor de <span class="gui">ENCENDIDO/APAGADO</span> que está al lado de la dirección de búsqueda que quiera activar o desactivar.</p></li>
@@ -96,7 +96,7 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-windows-workspaces.html" title="Usar ventanas y áreas de trabajo">Anterior</a><a class="nextlinks-next" href="gs-get-online.html" title="Conectarse a Internet">Siguiente</a>
+<a class="nextlinks-prev" href="gs-use-windows-workspaces.html.es" title="Usar ventanas y áreas de trabajo">Anterior</a><a class="nextlinks-next" href="gs-get-online.html.es" title="Conectarse a Internet">Siguiente</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -104,13 +104,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Primeros pasos">Primeros pasos con GNOME</a><span class="desc"> — ¿Es nuevo en GNOME? Aprenda cómo desenvolverse.</span>
+<a href="getting-started.html.es" title="Primeros pasos">Primeros pasos con GNOME</a><span class="desc"> — ¿Es nuevo en GNOME? Aprenda cómo desenvolverse.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html" title="Iniciar aplicaciones">Iniciar aplicaciones</a><span class="desc"> — Lanzar aplicaciones desde la vista de <span class="gui">Actividades</span>.</span>
+<a href="shell-apps-open.html.es" title="Iniciar aplicaciones">Iniciar aplicaciones</a><span class="desc"> — Lanzar aplicaciones desde la vista de <span class="gui">Actividades</span>.</span>
 </li></ul></div>
 </div></div>
 </div>

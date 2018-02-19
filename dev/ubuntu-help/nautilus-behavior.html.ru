@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="Параметры менеджера файлов">Параметры менеджера файлов</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ru" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html.ru#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.ru" title="Параметры менеджера файлов">Параметры менеджера файлов</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Параметры вкладки <span class="gui">Поведение</span> менеджера файлов</span></h1></div>
@@ -60,7 +60,7 @@
 <div id="executable" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Исполняемые текстовые файлы</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Исполняемый текстовый файл — это файл, содержащий программу, которую можно запустить (исполнить). Чтобы запустить файл, как программу, должны быть также установлены соответствующие <span class="link"><a href="nautilus-file-properties-permissions.html" title="Настройка прав доступа к файлам">права доступа</a></span>. Типичные примеры подобных файлов — это сценарии сценарии <span class="sys">Shell</span>, <span class="sys">Python</span> и <span class="sys">Perl</span>. Они имеют расширения <span class="file">.sh</span>, <span class="file">.py</span> и <span class="file">.pl</span>, соответственно.</p>
+<p class="p">Исполняемый текстовый файл — это файл, содержащий программу, которую можно запустить (исполнить). Чтобы запустить файл, как программу, должны быть также установлены соответствующие <span class="link"><a href="nautilus-file-properties-permissions.html.ru" title="Настройка прав доступа к файлам">права доступа</a></span>. Типичные примеры подобных файлов — это сценарии сценарии <span class="sys">Shell</span>, <span class="sys">Python</span> и <span class="sys">Perl</span>. Они имеют расширения <span class="file">.sh</span>, <span class="file">.py</span> и <span class="file">.pl</span>, соответственно.</p>
 <p class="p">При открытии исполняемого текстового файла есть несколько возможностей:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Запускать исполняемые текстовые файлы при открытии</span></p></li>
@@ -93,7 +93,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Смотрите также</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="files-delete.html" title="Удаление файлов и папок">Удаление файлов и папок</a><span class="desc"> — Удалите файлы или папки, которые больше не нужны.</span>
+<a href="files-delete.html.ru" title="Удаление файлов и папок">Удаление файлов и папок</a><span class="desc"> — Удалите файлы или папки, которые больше не нужны.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -104,7 +104,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Параметры менеджера файлов">Параметры менеджера файлов</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.ru" title="Параметры менеджера файлов">Параметры менеджера файлов</a><span class="desc"> — View and set preferences for the file browser.</span>
 </li></ul></div>
 </div></div></div>
 </div>

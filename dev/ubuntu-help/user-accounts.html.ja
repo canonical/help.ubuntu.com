@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="ユーザー設定およびシステム設定">設定</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ja" title="ユーザー設定およびシステム設定">設定</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ユーザーアカウント</span></h1></div>
@@ -53,32 +53,32 @@
 <div class="hgroup"><h2 class="title"><span class="title">ユーザーアカウントの管理</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-add.html" title="新しいユーザーアカウントを追加する"><span class="title">新しいユーザーアカウントを追加する</span><span class="linkdiv-dash"> — </span><span class="desc">新しいユーザーアカウントを追加して、他の人がコンピューターにログインできるようにする。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Log in automatically"><span class="title">Log in automatically</span><span class="linkdiv-dash"> — </span><span class="desc">Set up automatic login for when you switch on your computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-add.html.ja" title="新しいユーザーアカウントを追加する"><span class="title">新しいユーザーアカウントを追加する</span><span class="linkdiv-dash"> — </span><span class="desc">新しいユーザーアカウントを追加して、他の人がコンピューターにログインできるようにする。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html.ja" title="Log in automatically"><span class="title">Log in automatically</span><span class="linkdiv-dash"> — </span><span class="desc">Set up automatic login for when you switch on your computer.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="ユーザーアカウントを削除する"><span class="title">ユーザーアカウントを削除する</span><span class="linkdiv-dash"> — </span><span class="desc">もうコンピューターを使わないユーザーを削除します。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="ログイン画面の写真を変更する"><span class="title">ログイン画面の写真を変更する</span><span class="linkdiv-dash"> — </span><span class="desc">ログイン画面およびユーザー画面に写真を追加します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html.ja" title="ユーザーアカウントを削除する"><span class="title">ユーザーアカウントを削除する</span><span class="linkdiv-dash"> — </span><span class="desc">もうコンピューターを使わないユーザーを削除します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html.ja" title="ログイン画面の写真を変更する"><span class="title">ログイン画面の写真を変更する</span><span class="linkdiv-dash"> — </span><span class="desc">ログイン画面およびユーザー画面に写真を追加します。</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="passwords" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">パスワード</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html" title="パスワードの変更"><span class="title">パスワードの変更</span><span class="linkdiv-dash"> — </span><span class="desc">アカウント設定でパスワードを定期的に変更して、アカウントを安全に保ちます。</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html" title="安全なパスワードの選択"><span class="title">安全なパスワードの選択</span><span class="linkdiv-dash"> — </span><span class="desc">長く複雑なパスワードを使用します。</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html.ja" title="パスワードの変更"><span class="title">パスワードの変更</span><span class="linkdiv-dash"> — </span><span class="desc">アカウント設定でパスワードを定期的に変更して、アカウントを安全に保ちます。</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html.ja" title="安全なパスワードの選択"><span class="title">安全なパスワードの選択</span><span class="linkdiv-dash"> — </span><span class="desc">長く複雑なパスワードを使用します。</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="privileges" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">User privileges</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html" title="Change who has administrative privileges"><span class="title">Change who has administrative privileges</span><span class="linkdiv-dash"> — </span><span class="desc">You can allow users to make changes to the system by giving them
+<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.ja" title="Change who has administrative privileges"><span class="title">Change who has administrative privileges</span><span class="linkdiv-dash"> — </span><span class="desc">You can allow users to make changes to the system by giving them
     administrative privileges.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html" title="How do administrative privileges work?"><span class="title">How do administrative privileges work?</span><span class="linkdiv-dash"> — </span><span class="desc">You need administrative privileges to change important parts of your
+<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.ja" title="How do administrative privileges work?"><span class="title">How do administrative privileges work?</span><span class="linkdiv-dash"> — </span><span class="desc">You need administrative privileges to change important parts of your
     system.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html" title="Problems caused by administrative restrictions"><span class="title">Problems caused by administrative restrictions</span><span class="linkdiv-dash"> — </span><span class="desc">You can do some things, like installing applications, only if you
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.ja" title="Problems caused by administrative restrictions"><span class="title">Problems caused by administrative restrictions</span><span class="linkdiv-dash"> — </span><span class="desc">You can do some things, like installing applications, only if you
     have administrative privileges.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
@@ -87,7 +87,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="ユーザー設定およびシステム設定">ユーザー設定およびシステム設定</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="キーボード">キーボード</a></span>, <span class="link"><a href="mouse.html" title="マウス">マウス</a></span>, <span class="link"><a href="prefs-display.html" title="Display &amp; screen">ディスプレイ</a></span>, <span class="link"><a href="prefs-language.html" title="地域と言語">言語</a></span>, <span class="link"><a href="user-accounts.html" title="ユーザーアカウント">ユーザーアカウント</a></span>…</span>
+<a href="prefs.html.ja" title="ユーザー設定およびシステム設定">ユーザー設定およびシステム設定</a><span class="desc"> — <span class="link"><a href="keyboard.html.ja" title="キーボード">キーボード</a></span>, <span class="link"><a href="mouse.html.ja" title="マウス">マウス</a></span>, <span class="link"><a href="prefs-display.html.ja" title="Display &amp; screen">ディスプレイ</a></span>, <span class="link"><a href="prefs-language.html.ja" title="地域と言語">言語</a></span>, <span class="link"><a href="user-accounts.html.ja" title="ユーザーアカウント">ユーザーアカウント</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

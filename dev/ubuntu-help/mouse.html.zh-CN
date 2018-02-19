@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,30 +54,30 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html" title="使用键盘来点击和移动鼠标指针"><span class="title">使用键盘来点击和移动鼠标指针</span><span class="linkdiv-dash"> — </span><span class="desc">Enable mouse keys to control the mouse with the numeric
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.zh-CN" title="使用键盘来点击和移动鼠标指针"><span class="title">使用键盘来点击和移动鼠标指针</span><span class="linkdiv-dash"> — </span><span class="desc">Enable mouse keys to control the mouse with the numeric
     keypad.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html" title="左手使用习惯"><span class="title">左手使用习惯</span><span class="linkdiv-dash"> — </span><span class="desc">在鼠标设置中交换鼠标左右键。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html" title="模拟右键点击"><span class="title">模拟右键点击</span><span class="linkdiv-dash"> — </span><span class="desc">按住鼠标左键，产生右键点击。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html" title="用触摸板点击、拖动、滚屏操作"><span class="title">用触摸板点击、拖动、滚屏操作</span><span class="linkdiv-dash"> — </span><span class="desc">在触摸板上点击、拖动、滚动等手势操作。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html.zh-CN" title="左手使用习惯"><span class="title">左手使用习惯</span><span class="linkdiv-dash"> — </span><span class="desc">在鼠标设置中交换鼠标左右键。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.zh-CN" title="模拟右键点击"><span class="title">模拟右键点击</span><span class="linkdiv-dash"> — </span><span class="desc">按住鼠标左键，产生右键点击。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.zh-CN" title="用触摸板点击、拖动、滚屏操作"><span class="title">用触摸板点击、拖动、滚屏操作</span><span class="linkdiv-dash"> — </span><span class="desc">在触摸板上点击、拖动、滚动等手势操作。</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html" title="调整双击速度"><span class="title">调整双击速度</span><span class="linkdiv-dash"> — </span><span class="desc">控制双击时，两次点击的最小时间间隔。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html" title="调整鼠标或触摸板的速度"><span class="title">调整鼠标或触摸板的速度</span><span class="linkdiv-dash"> — </span><span class="desc">设置鼠标或触摸板指针的移动速度。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html" title="通过悬停产生点击"><span class="title">通过悬停产生点击</span><span class="linkdiv-dash"> — </span><span class="desc">The <span class="gui">Hover Click</span> (Dwell Click) feature allows you to click
+<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.zh-CN" title="调整双击速度"><span class="title">调整双击速度</span><span class="linkdiv-dash"> — </span><span class="desc">控制双击时，两次点击的最小时间间隔。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.zh-CN" title="调整鼠标或触摸板的速度"><span class="title">调整鼠标或触摸板的速度</span><span class="linkdiv-dash"> — </span><span class="desc">设置鼠标或触摸板指针的移动速度。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.zh-CN" title="通过悬停产生点击"><span class="title">通过悬停产生点击</span><span class="linkdiv-dash"> — </span><span class="desc">The <span class="gui">Hover Click</span> (Dwell Click) feature allows you to click
     by holding the mouse still.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">常见问题</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html" title="Mouse reacts with delay before it starts working"><span class="title">Mouse reacts with delay before it starts working</span><span class="linkdiv-dash"> — </span><span class="desc">鼠标要先晃几下或点击才能响应。</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html" title="鼠标指针不移动"><span class="title">鼠标指针不移动</span><span class="linkdiv-dash"> — </span><span class="desc">How to check why your mouse is not working.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.zh-CN" title="Mouse reacts with delay before it starts working"><span class="title">Mouse reacts with delay before it starts working</span><span class="linkdiv-dash"> — </span><span class="desc">鼠标要先晃几下或点击才能响应。</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.zh-CN" title="鼠标指针不移动"><span class="title">鼠标指针不移动</span><span class="linkdiv-dash"> — </span><span class="desc">How to check why your mouse is not working.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="tips" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">提示</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="单击中键"><span class="title">单击中键</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.zh-CN" title="单击中键"><span class="title">单击中键</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
     more.</span></a></div></div>
 <div class="links-twocolumn"></div>
 </div></div></div></div></div>
@@ -88,10 +88,10 @@
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html" title="用户 &amp; 系统设置">用户 &amp; 系统设置</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="键盘">键盘</a></span>、<span class="link"><a href="mouse.html" title="鼠标">鼠标</a></span>、<span class="link"><a href="prefs-display.html" title="显示器 &amp; 屏幕">显示器</a></span>、<span class="link"><a href="prefs-language.html" title="Region &amp; Language">语言</a></span>、<span class="link"><a href="user-accounts.html" title="用户帐号">用户帐号</a></span>…</span>
+<a href="prefs.html.zh-CN" title="用户 &amp; 系统设置">用户 &amp; 系统设置</a><span class="desc"> — <span class="link"><a href="keyboard.html.zh-CN" title="键盘">键盘</a></span>、<span class="link"><a href="mouse.html.zh-CN" title="鼠标">鼠标</a></span>、<span class="link"><a href="prefs-display.html.zh-CN" title="显示器 &amp; 屏幕">显示器</a></span>、<span class="link"><a href="prefs-language.html.zh-CN" title="Region &amp; Language">语言</a></span>、<span class="link"><a href="user-accounts.html.zh-CN" title="用户帐号">用户帐号</a></span>…</span>
 </li>
 <li class="links ">
-<a href="hardware.html" title="硬件 &amp; 驱动">硬件 &amp; 驱动</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="常见问题">硬件问题</a></span>、<span class="link"><a href="printing.html" title="打印">打印机</a></span>、<span class="link"><a href="power.html" title="电源 &amp; 电池">电源设置</a></span>、<span class="link"><a href="color.html" title="色彩管理">颜色管理</a></span>、<span class="link"><a href="bluetooth.html" title="蓝牙">蓝牙</a></span>、<span class="link"><a href="disk.html" title="磁盘和存储器">磁盘</a></span>…</span>
+<a href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件 &amp; 驱动</a><span class="desc"> — <span class="link"><a href="hardware.html.zh-CN#problems" title="常见问题">硬件问题</a></span>、<span class="link"><a href="printing.html.zh-CN" title="打印">打印机</a></span>、<span class="link"><a href="power.html.zh-CN" title="电源 &amp; 电池">电源设置</a></span>、<span class="link"><a href="color.html.zh-CN" title="色彩管理">颜色管理</a></span>、<span class="link"><a href="bluetooth.html.zh-CN" title="蓝牙">蓝牙</a></span>、<span class="link"><a href="disk.html.zh-CN" title="磁盘和存储器">磁盘</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

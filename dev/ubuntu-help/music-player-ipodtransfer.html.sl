@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="media.html" title="Zvok, video in slike">Zvok, video in slike</a> › <a class="trail" href="media.html#music" title="Glasba in prenosni predvajalniki zvoka">Glasba in predvajalniki</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="media.html.sl" title="Zvok, video in slike">Zvok, video in slike</a> › <a class="trail" href="media.html.sl#music" title="Glasba in prenosni predvajalniki zvoka">Glasba in predvajalniki</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">When you plug an iPod into your computer, it will appear in your music player application and also in the file manager (the <span class="app">Files</span> application in the <span class="gui">Activities</span> overview). You must copy songs onto the iPod using the music player — if you copy them across using the file manager, it won’t work because the songs won’t be put into the right location. iPods have a special location for storing songs which music player applications know how to get to but the file manager does not.</p>
-<p class="p">Pred odklopom iPoda počakajte, da se kopiranje skladb konča. Pred odklopom iPoda se prepričajte, da izberete <span class="link"><a href="files-removedrive.html" title="Varna odstranitev zunanjega pogona">njegovo varno odstranitev</a></span>. To bo zagotovilo, da so bile vse datoteke pravilno kopirane.</p>
+<p class="p">Pred odklopom iPoda počakajte, da se kopiranje skladb konča. Pred odklopom iPoda se prepričajte, da izberete <span class="link"><a href="files-removedrive.html.sl" title="Varna odstranitev zunanjega pogona">njegovo varno odstranitev</a></span>. To bo zagotovilo, da so bile vse datoteke pravilno kopirane.</p>
 <p class="p">A further reason why songs might not be appearing on your iPod is that the music player application you’re using does not support converting the songs from one audio format to another. If you copy a song which is saved in an audio format that is not supported by your iPod (for example, an Ogg Vorbis (.oga) file), the music player will try to convert it to a format that the iPod does understand, such as MP3. If the appropriate conversion software (also called a codec or encoder) is not installed, the music player will not be able to do the conversion and so will not copy the song. Look in the software installer for an appropriate codec.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#music" title="Glasba in prenosni predvajalniki zvoka">Glasba in predvajalniki</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.sl#music" title="Glasba in prenosni predvajalniki zvoka">Glasba in predvajalniki</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

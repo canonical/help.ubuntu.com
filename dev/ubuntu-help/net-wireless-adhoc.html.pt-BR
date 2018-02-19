@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-wireless.html" title="Rede sem fio">Rede sem fio</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-wireless.html.pt-BR" title="Rede sem fio">Rede sem fio</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Criando um ponto de acesso sem fio</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Você pode usar seu computador como um ponto de acesso sem-fio. Isso permite que outros dispositivos se conectem a você sem uma rede separada e permite que você compartilhe uma conexão internet que você fez com outra interface, tal como uma rede cabeada ou pela rede móvel.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o <span class="gui"><a href="shell-introduction.html#yourname" title="Você e seu computador">menu de sistema</a></span> no lado direito da barra superior.</p></li>
+<li class="steps"><p class="p">Abra o <span class="gui"><a href="shell-introduction.html.pt-BR#yourname" title="Você e seu computador">menu de sistema</a></span> no lado direito da barra superior.</p></li>
 <li class="steps"><p class="p">Selecione <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Wi-Fi não está conectado</span> ou o nome da rede sem fio a qual você já está conectado. A seção Wi-Fi do menu vai expandir.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Configurações de Wi-Fi</span>.</p></li>
 <li class="steps"><p class="p">Clique no botão <span class="gui">Usar como ponto de acesso…</span>.</p></li>
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Rede sem fio">Rede sem fio</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Conectando a uma rede sem fio">Conectar-se a redes sem fio</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Conectando a um rede sem fio oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Por que minha conexão sem fio fica desconectando?">desconectando</a></span>…</span>
+<a href="net-wireless.html.pt-BR" title="Rede sem fio">Rede sem fio</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pt-BR" title="Conectando a uma rede sem fio">Conectar-se a redes sem fio</a></span>, <span class="link"><a href="net-wireless-hidden.html.pt-BR" title="Conectando a um rede sem fio oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pt-BR" title="Por que minha conexão sem fio fica desconectando?">desconectando</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

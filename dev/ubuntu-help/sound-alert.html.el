@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="media.html#sound" title="Βασικός ήχος">Ήχος</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="media.html.el#sound" title="Βασικός ήχος">Ήχος</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Επιλογή ή απενεργοποίηση του ήχου ειδοποίησης</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Ο υπολογιστής σας θα παίξει έναν απλό ήχο ειδοποίησης για συγκεκριμένους τύπους μηνυμάτων και συμβάντων. Μπορείτε να επιλέξετε διαφορετικά κομμάτια ήχου για ειδοποιήσεις, να ορίσετε την ένταση ειδοποίησης ανεξάρτητα από την ένταση του συστήματός σας, ή να απενεργοποιήσετε τους ήχους ειδοποίησης πλήρως.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ήχος</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ήχος</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ήχος</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Στην καρτέλα <span class="gui">Εφέ ήχου</span>, επιλέξτε έναν ήχο ειδοποίησης. Κάθε ήχος θα παίζει όταν κάντε κλικ σε αυτόν, έτσι ώστε να μπορείτε να ακούσετε πώς ηχεί.</p></li>
 </ol></div></div></div>
@@ -64,13 +64,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="Βασικός ήχος">Βασικός ήχος</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Αλλαγή έντασης του ήχου">Ένταση</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Χρησιμοποιήστε διαφορετικά ηχεία ή ακουστικά">Ηχεία και ακουστικά</a></span>, <span class="link"><a href="sound-usemic.html" title="Χρήση διαφορετικού μικροφώνου">Μικρόφωνα</a></span>…</span>
+<a href="media.html.el#sound" title="Βασικός ήχος">Βασικός ήχος</a><span class="desc"> — <span class="link"><a href="sound-volume.html.el" title="Αλλαγή έντασης του ήχου">Ένταση</a></span>, <span class="link"><a href="sound-usespeakers.html.el" title="Χρησιμοποιήστε διαφορετικά ηχεία ή ακουστικά">Ηχεία και ακουστικά</a></span>, <span class="link"><a href="sound-usemic.html.el" title="Χρήση διαφορετικού μικροφώνου">Μικρόφωνα</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y-visualalert.html" title="Αναλαμπή της οθόνης για ήχους ειδοποίησης">Αναλαμπή της οθόνης για ήχους ειδοποίησης</a><span class="desc"> — Ενεργοποιήστε οπτικές ειδοποιήσεις να αναβοσβήνουν στην οθόνη ή το παράθυρο όταν ένας ήχος ειδοποίησης παίζεται.</span>
+<a href="a11y-visualalert.html.el" title="Αναλαμπή της οθόνης για ήχους ειδοποίησης">Αναλαμπή της οθόνης για ήχους ειδοποίησης</a><span class="desc"> — Ενεργοποιήστε οπτικές ειδοποιήσεις να αναβοσβήνουν στην οθόνη ή το παράθυρο όταν ένας ήχος ειδοποίησης παίζεται.</span>
 </li></ul></div>
 </div></div>
 </div>

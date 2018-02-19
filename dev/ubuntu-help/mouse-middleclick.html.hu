@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="mouse.html" title="Egér">Egér</a> › <a class="trail" href="mouse.html#tips" title="Tippek">Tippek</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="mouse.html.hu" title="Egér">Egér</a> › <a class="trail" href="mouse.html.hu#tips" title="Tippek">Tippek</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="mouse.html" title="Egér">Egér</a> › <a class="trail" href="mouse.html#tips" title="Tippek">Tippek</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="mouse.html.hu" title="Egér">Egér</a> › <a class="trail" href="mouse.html.hu#tips" title="Tippek">Tippek</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Tippek és trükkök">Tippek és trükkök</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.hu" title="Tippek és trükkök">Tippek és trükkök</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,17 +56,11 @@
 <div class="region">
 <div class="contents">
 <p class="p">Sok egér és néhány érintőtábla is rendelkezik középső egérgombbal. A görgővel rendelkező egereken általában közvetlenül a görgő lenyomásával végezhet középső kattintást. Ha nincs középső egérgombja, nyomja meg egyszerre a bal és jobb egérgombot a középső kattintáshoz.</p>
-<p class="p">A többujjas koppintást támogató érintőtáblákon három ujjal egyszerre koppintva végezhet középső kattintást. Ennek működéséhez engedélyeznie kell a <span class="link"><a href="mouse-touchpad-click.html" title="Kattintás, húzás vagy görgetés az érintőtáblával">koppintással kattintást</a></span> az érintőtábla beállításaiban.</p>
+<p class="p">A többujjas koppintást támogató érintőtáblákon három ujjal egyszerre koppintva végezhet középső kattintást. Ennek működéséhez engedélyeznie kell a <span class="link"><a href="mouse-touchpad-click.html.hu" title="Kattintás, húzás vagy görgetés az érintőtáblával">koppintással kattintást</a></span> az érintőtábla beállításaiban.</p>
 <p class="p">Számos alkalmazás a középső kattintást használja bizonyos műveletek gyors végrehajtására.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
-  window for an application with middle-click. Simply middle-click on the
-  application’s icon, either in the dash on the left, or in the applications
-  overview. The applications overview is displayed using the grid button in the
-  dash.</p></li>
-<li class="list"><p class="p">Most web browsers allow you to open links in tabs quickly with the
-  middle mouse button. Just click any link with your middle mouse button, and
-  it will open in a new tab.</p></li>
+<li class="list"><p class="p">A <span class="gui">Tevékenységek</span> áttekintésben középső kattintással gyorsan új alkalmazásablakot nyithat. Ehhez kattintson a középső egérgombbal az alkalmazás ikonjára a bal oldali indítóban vagy az Alkalmazások áttekintésben. Az Alkalmazások áttekintés az indítópanel rács gombjának használatával jeleníthető meg.</p></li>
+<li class="list"><p class="p">A legtöbb webböngésző lehetővé teszi a hivatkozások gyors megnyitását új lapokon a középső egérgombbal. Kattintson bármely hivatkozásra a középső egérgombbal, és az megnyílik egy új lapon.</p></li>
 <li class="list"><p class="p">A fájlkezelőben a középső kattintás két szerepet tölt be. Ha egy mappán végez középső kattintást, akkor a mappa új lapon nyílik meg. Ez a népszerű webböngészők viselkedését utánozza. Ha egy fájlon végez középső kattintást, akkor a fájl a dupla kattintáshoz hasonlóan megnyílik.</p></li>
 </ul></div></div></div>
 <p class="p">Néhány speciális alkalmazás lehetővé teszi a középső egérgomb más feladatokra való használatát. Az alkalmazás súgójában keressen rá a <span class="em">középső kattintás</span> vagy <span class="em">középső egérgomb</span> kifejezésekre.</p>
@@ -76,9 +70,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="mouse.html#tips" title="Tippek">Egértippek</a></li>
+<li class="links "><a href="mouse.html.hu#tips" title="Tippek">Egértippek</a></li>
 <li class="links ">
-<a href="tips.html" title="Tippek és trükkök">Tippek és trükkök</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Speciális karakterek bevitele">Speciális karakterek</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Kattintás a középső egérgombbal">középső kattintással használható parancsok</a></span>…</span>
+<a href="tips.html.hu" title="Tippek és trükkök">Tippek és trükkök</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.hu" title="Speciális karakterek bevitele">Speciális karakterek</a></span>, <span class="link"><a href="mouse-middleclick.html.hu" title="Kattintás a középső egérgombbal">középső kattintással használható parancsok</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

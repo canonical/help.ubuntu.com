@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html#backup" title="Backing up">Backing up</a> » <a class="trail" href="backup-why.html" title="Backup berkas-berkas penting Anda">Cadangan</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#backup" title="Backing up">Backing up</a> » <a class="trail" href="backup-why.html.id" title="Backup berkas-berkas penting Anda">Cadangan</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Apa yang akan dibackup</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Prioritas Anda mestilah untuk membackup <span class="link"><a href="backup-thinkabout.html" title="Dimana saya dapat menemukan berkas yang ingin saya back up?">berkas-berkas paling penting</a></span> milik Anda dan juga yang sulit dibuat ulang. Sebagai contoh, diurutkan dari paling penting ke kurang penting:</p>
+<p class="p">Prioritas Anda mestilah untuk membackup <span class="link"><a href="backup-thinkabout.html.id" title="Dimana saya dapat menemukan berkas yang ingin saya back up?">berkas-berkas paling penting</a></span> milik Anda dan juga yang sulit dibuat ulang. Sebagai contoh, diurutkan dari paling penting ke kurang penting:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Berkas pribadi Anda</dt>
 <dd class="terms"><p class="p">Ini mungkin termasuk dokumen, lembar kerja, surel, janji temu, data finansial, foto keluarga, atau sebarang berkas pribadi lain yang Anda anggap tak tergantikan.</p></dd>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Backup berkas-berkas penting Anda">Backup berkas-berkas penting Anda</a><span class="desc"> — Mengapa, apa, dimana, dan bagaimana backup.</span>
+<a href="backup-why.html.id" title="Backup berkas-berkas penting Anda">Backup berkas-berkas penting Anda</a><span class="desc"> — Mengapa, apa, dimana, dan bagaimana backup.</span>
 </li></ul></div>
 </div></div></div>
 </div>

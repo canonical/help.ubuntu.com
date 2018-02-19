@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Audio, video e immagini">Audio, video e immagini</a> › <a class="trail" href="media.html#photos" title="Fotografie e fotocamere digitali">Foto</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.it" title="Audio, video e immagini">Audio, video e immagini</a> › <a class="trail" href="media.html.it#photos" title="Fotografie e fotocamere digitali">Foto</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemi comuni">Problemi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> › <a class="trail" href="hardware.html.it#problems" title="Problemi comuni">Problemi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Many computers contain readers for SD, MMC, SM, MS, CF, and other storage media
-cards. These should be automatically detected and <span class="link"><a href="disk-partitions.html" title="Gestire volumi e partizioni">mounted</a></span>. Here are some
+cards. These should be automatically detected and <span class="link"><a href="disk-partitions.html.it" title="Gestire volumi e partizioni">mounted</a></span>. Here are some
 troubleshooting steps if they are not:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p"> Make sure that the card is put in correctly. Many cards look as though they are
@@ -63,7 +63,7 @@ in the slot; some cards, especially CF, require a small amount of force to inser
 correctly. (Be careful not to push too hard! If you come up against something solid,
 do not force it.)</p></li>
 <li class="steps"><p class="p">Open <span class="app">Files</span> from the
-  <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview. Does the inserted
+  <span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> overview. Does the inserted
   card appear in the <span class="gui">Devices</span> list in the left sidebar? Sometimes the
   card appears in this list but is not mounted; click it once to mount. (If the
   sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
@@ -88,8 +88,8 @@ Linux.</p>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#photos" title="Fotografie e fotocamere digitali">Foto</a></li>
-<li class="links "><a href="hardware.html#problems" title="Problemi comuni">Problemi hardware</a></li>
+<li class="links "><a href="media.html.it#photos" title="Fotografie e fotocamere digitali">Foto</a></li>
+<li class="links "><a href="hardware.html.it#problems" title="Problemi comuni">Problemi hardware</a></li>
 </ul></div>
 </div></div></div>
 </div>

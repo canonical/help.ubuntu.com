@@ -49,17 +49,17 @@
 <div class="contents">
 <p class="p"><span class="em">GNOME கிளாசிக்</span> என்பது ஒரு பாரம்பரிய டெஸ்க்டாப் அனுபவத்தை விரும்பும் பயனர்களுக்காக வழங்கப்படும் ஒரு அம்சம். <span class="em">GNOME கிளாசிக்</span> <span class="em">GNOME 3</span> தொழில்நுட்பங்களை அடிப்படையாகக் கொண்டது, அது மேல் பட்டியில் <span class="gui">பயன்பாடுகள்</span> மற்றும் <span class="gui">இடங்கள்</span> மற்றும் திரையின் கீழே ஒரு சாளரப் பட்டியல் போன்ற பல பயனர் இடைமுக மாற்றங்களை வழங்குகிறது.</p>
 <p class="p">You can use the <span class="gui">Applications</span> menu on the top bar to launch
- applications. The <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span>
+ applications. The <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span>
  overview is available by selecting the <span class="gui">Activities
  Overview</span> item from the menu.</p>
-<p class="p">நீங்கள் <span class="key"><a href="keyboard-key-super.html" title="Super என்பது என்ன?"><kbd>Super</kbd></a></span> விசையை அழுத்தியும் <span class="em"><span class="gui">செயல்பாடுகள் மேலோட்டம்</span></span> ஐ அணுக முடியும்.</p>
+<p class="p">நீங்கள் <span class="key"><a href="keyboard-key-super.html.ta" title="Super என்பது என்ன?"><kbd>Super</kbd></a></span> விசையை அழுத்தியும் <span class="em"><span class="gui">செயல்பாடுகள் மேலோட்டம்</span></span> ஐ அணுக முடியும்.</p>
 </div>
 <div id="gnome-classic-window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">சாளர பட்டியல்</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">திரையின் கீழே உள்ள சாளர பட்டியலில் திறந்துள்ள உங்கள் சாளரங்கள் மற்றும் பயன்பாடுகள் அனைத்துக்கும் அணுகலை வழங்கும், இதைக் கொண்டு நீங்கள் அவற்றை விரைவில் சிறிதாக்கவும் மீட்டமைக்கவும் முடியும்.</p>
 <p class="p">சாளரப் பட்டியலின் வலது புறம், GNOME தற்போதைய பணியிடத்தைக் குறிக்கும் வகையில் ஒரு சிறு காட்டியைக் காண்பிக்கும். எடுத்துக்காட்டாக முதல் (மேல்) பணியிடத்திற்கு <span class="gui">1</span> காண்பிக்கப்படும். கூடுதலாக, அந்தக் காட்டியானது கிடைக்கக்கூடிய பணியிடங்களின் மொத்த எண்ணிக்கையையும் காட்டும். வேறு பணியிடத்திற்கு மாற, காட்டியை சொடுக்கி அந்த மெனுவில் இருந்து நீங்கள் செல்ல விரும்பும் பணியிடத்தைத் தேர்ந்தெடுக்க முடியும்.</p>
-<p class="p">ஒரு பயன்பாடு அல்லது ஒரு கணினி கூறு உங்கள் கவனத்தைப் பெற விரும்பினால், அது சாளரப் பட்டியலின் வலது பக்கத்தில் ஒரு நீல நிற சின்னத்தைக் காண்பிக்கும். நீல சின்னத்தை சொடுக்கினால் <span class="link"><a href="shell-notifications.html" title="அறிவிப்புகள் மற்றும் செய்தித் தட்டு">செய்தித் தட்டு</a></span> காண்பிக்கப்படும், அதில் நீங்கள் உங்கள் அனைத்து அறிவிப்புகளையும் அணுக முடியும்.</p>
+<p class="p">ஒரு பயன்பாடு அல்லது ஒரு கணினி கூறு உங்கள் கவனத்தைப் பெற விரும்பினால், அது சாளரப் பட்டியலின் வலது பக்கத்தில் ஒரு நீல நிற சின்னத்தைக் காண்பிக்கும். நீல சின்னத்தை சொடுக்கினால் <span class="link"><a href="shell-notifications.html.ta" title="அறிவிப்புகள் மற்றும் செய்தித் தட்டு">செய்தித் தட்டு</a></span> காண்பிக்கப்படும், அதில் நீங்கள் உங்கள் அனைத்து அறிவிப்புகளையும் அணுக முடியும்.</p>
 </div></div>
 </div></div>
 <div id="gnome-classic-switch" class="sect"><div class="inner">

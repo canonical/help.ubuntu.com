@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Ułatwienia dostępu">Ułatwienia dostępu</a> › <a class="trail" href="a11y.html#vision" title="Wady wzroku">Wady wzroku</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.pl-PL" title="Ułatwienia dostępu">Ułatwienia dostępu</a> › <a class="trail" href="a11y.html.pl-PL#vision" title="Wady wzroku">Wady wzroku</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Czytanie ekranu na głos</span></h1></div>
@@ -54,13 +54,13 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Naciśnij klawisze <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
 <p class="p">Aby uruchomić <span class="app">Orcę</span> za pomocą myszy i klawiatury:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Ułatwienia dostępu</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Ułatwienia dostępu</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Ułatwienia dostępu</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Czytnik ekranowy</span> w sekcji <span class="gui">Wzrok</span>, a następnie włącz <span class="gui">Czytnik ekranowy</span> w otwartym oknie.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Wskazówka"><div class="inner">
 <div class="title title-note"><h2><span class="title">Szybkie przełączanie czytnika ekranowego</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Można szybko włączać i wyłączać czytnik ekranowy klikając <span class="link"><a href="a11y-icon.html" title="Odnajdowanie menu ułatwień dostępu">ikonę ułatwień dostępu</a></span> na górnym pasku i wybierając <span class="gui">Czytnik ekranowy</span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Można szybko włączać i wyłączać czytnik ekranowy klikając <span class="link"><a href="a11y-icon.html.pl-PL" title="Odnajdowanie menu ułatwień dostępu">ikonę ułatwień dostępu</a></span> na górnym pasku i wybierając <span class="gui">Czytnik ekranowy</span>.</p></div></div>
 </div></div>
 <p class="p"><span class="link"><a href="help:orca" title="help:orca">Pomoc czytnika Orca</a></span> zawiera więcej informacji.</p>
 </div>
@@ -69,12 +69,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Wady wzroku">Wady wzroku</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.pl-PL#vision" title="Wady wzroku">Wady wzroku</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y-braille.html" title="Odczytywanie ekranu w brajlu">Odczytywanie ekranu w brajlu</a><span class="desc"> — Używanie czytnika ekranowego z monitorem brajlowskim <span class="app">Orca</span>.</span>
+<a href="a11y-braille.html.pl-PL" title="Odczytywanie ekranu w brajlu">Odczytywanie ekranu w brajlu</a><span class="desc"> — Używanie czytnika ekranowego z monitorem brajlowskim <span class="app">Orca</span>.</span>
 </li></ul></div>
 </div></div>
 </div>

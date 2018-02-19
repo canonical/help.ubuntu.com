@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Běžné problémy">Problémy</a> » <a class="trail" href="hardware-problems-graphics.html" title="Problémy s obrazovkou">Problémy s obrazovkou</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html.cs#problems" title="Běžné problémy">Problémy</a> » <a class="trail" href="hardware-problems-graphics.html.cs" title="Problémy s obrazovkou">Problémy s obrazovkou</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Proč vše na mojí obrazovce vypadá rozmazané/kostičkované?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">To se může stát, protože rozlišení displeje, které máte nastavené, neodpovídá skutečnému rozlišení vaší obrazovky.</p>
-<p class="p">Když to chcete vyřešit, otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Displeje</span>. Kliknutím na <span class="gui">Displeje</span> otevřete příslušný panel. Vyzkoušejte volby <span class="gui">Rozlišení</span> a nechte nastavenou tu, se kterou vypadá obrazovka nejlépe.</p>
+<p class="p">Když to chcete vyřešit, otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Displeje</span>. Kliknutím na <span class="gui">Displeje</span> otevřete příslušný panel. Vyzkoušejte volby <span class="gui">Rozlišení</span> a nechte nastavenou tu, se kterou vypadá obrazovka nejlépe.</p>
 </div>
 <div id="multihead" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Když je připojeno více displejů</span></h2></div>
@@ -59,7 +59,7 @@
 <p class="p">Můžete nastavit, aby oba displeje měly různá rozlišení, ale nebudete pak moci na obou zobrazovat naráz tu stejnou obrazovku. Ve výsledku budete mít naráz dvě nezávislé obrazovky. Můžete mezi nimi přesouvat okna, ale nemůžete to stejné okno zobrazit na obou naráz.</p>
 <p class="p">Jak nastavit displeje, aby každý z nich měl své vlastní rozlišení:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Displeje</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Displeje</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Displeje</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Displeje by měly být uvedené jako <span class="gui">Zrcadlené</span>. Vyberte svůj hlavní displej.</p></li>
 <li class="steps"><p class="p">V seznamu nastavení displejů vyberte <span class="gui">Hlavní</span> a pak klikněte na <span class="gui">Použít</span>, aby se nastavení uložilo.</p></li>
@@ -73,13 +73,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-problems-graphics.html" title="Problémy s obrazovkou">Problémy s obrazovkou</a><span class="desc"> — Jak řešit problémy s obrazovkou a grafikou.</span>
+<a href="hardware-problems-graphics.html.cs" title="Problémy s obrazovkou">Problémy s obrazovkou</a><span class="desc"> — Jak řešit problémy s obrazovkou a grafikou.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-resolution.html" title="Změna rozlišení nebo otočení obrazovky">Změna rozlišení nebo otočení obrazovky</a><span class="desc"> — Jak změnit rozlišení obrazovky a její otočení (orientaci).</span>
+<a href="look-resolution.html.cs" title="Změna rozlišení nebo otočení obrazovky">Změna rozlišení nebo otočení obrazovky</a><span class="desc"> — Jak změnit rozlišení obrazovky a její otočení (orientaci).</span>
 </li></ul></div>
 </div></div>
 </div>

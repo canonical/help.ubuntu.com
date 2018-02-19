@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html#apps" title="Aplikace a okna">Aplikace a okna</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.cs" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html.cs#apps" title="Aplikace a okna">Aplikace a okna</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html#apps" title="Aplikace a okna">Aplikace a okna</a> » <a class="trail" href="shell-windows.html" title="Okna a pracovní plochy">Okna a pracovní plochy</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Práce s okny">Okna</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.cs" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html.cs#apps" title="Aplikace a okna">Aplikace a okna</a> » <a class="trail" href="shell-windows.html.cs" title="Okna a pracovní plochy">Okna a pracovní plochy</a> › <a class="trail" href="shell-windows.html.cs#working-with-windows" title="Práce s okny">Okna</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,14 +56,14 @@
 <p class="p">Všechny běžící aplikace, které mají grafické uživatelské rozhraní, můžete vidět v <span class="em">přepínači oken</span>. Ten provádí přepínání mezi úlohami jednoduše jediným krokem a poskytuje obrázek s náhledem, která aplikace běží.</p>
 <p class="p">Na pracovní ploše:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Zmáčkněte <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Co je klávesa Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>, aby se zobrazil <span class="gui">přepínač oken</span>.</p></li>
-<li class="steps"><p class="p">Uvolněním klávesy <span class="key"><a href="keyboard-key-super.html" title="Co je klávesa Super?"><kbd>Super</kbd></a></span> vyberete v přepínači následující (zvýrazněné) okno.</p></li>
-<li class="steps"><p class="p">Nebo klávesu <span class="key"><a href="keyboard-key-super.html" title="Co je klávesa Super?"><kbd>Super</kbd></a></span> držte stále zmáčknutou a mačkáním <span class="key"><kbd>Tab</kbd></span> procházejte seznam otevřených oken. Pomocí <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> jej případně můžete procházet v opačném pořadí.</p></li>
+<li class="steps"><p class="p">Zmáčkněte <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.cs" title="Co je klávesa Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>, aby se zobrazil <span class="gui">přepínač oken</span>.</p></li>
+<li class="steps"><p class="p">Uvolněním klávesy <span class="key"><a href="keyboard-key-super.html.cs" title="Co je klávesa Super?"><kbd>Super</kbd></a></span> vyberete v přepínači následující (zvýrazněné) okno.</p></li>
+<li class="steps"><p class="p">Nebo klávesu <span class="key"><a href="keyboard-key-super.html.cs" title="Co je klávesa Super?"><kbd>Super</kbd></a></span> držte stále zmáčknutou a mačkáním <span class="key"><kbd>Tab</kbd></span> procházejte seznam otevřených oken. Pomocí <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> jej případně můžete procházet v opačném pořadí.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Okna jsou v přepínači oken seskupena podle aplikací. Při procházení se u aplikací s více okny rozbalují náhledy. Pro procházení náhledů držte zmáčknutou klávesu <span class="key"><a href="keyboard-key-super.html" title="Co je klávesa Super?"><kbd>Super</kbd></a></span> a mačkejte <span class="key"><kbd>`</kbd></span> (nebo klávesu nad klávesou <span class="key"><kbd>Tab</kbd></span>).</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Okna jsou v přepínači oken seskupena podle aplikací. Při procházení se u aplikací s více okny rozbalují náhledy. Pro procházení náhledů držte zmáčknutou klávesu <span class="key"><a href="keyboard-key-super.html.cs" title="Co je klávesa Super?"><kbd>Super</kbd></a></span> a mačkejte <span class="key"><kbd>`</kbd></span> (nebo klávesu nad klávesou <span class="key"><kbd>Tab</kbd></span>).</p></div></div></div></div>
 <p class="p">V přepínači oken se můžete mezi ikonami jednotlivých aplikací přesouvat také pomocí kláves <span class="key"><kbd>→</kbd></span> a <span class="key"><kbd>←</kbd></span>, nebo na ikonu vybrat kliknutím myší.</p>
 <p class="p">Náhled aplikací s jedním oknem si můžete zobrazit pomocí klávesy <span class="key"><kbd>↓</kbd></span>.</p>
-<p class="p">Kliknutím na <span class="link"><a href="shell-windows.html" title="Okna a pracovní plochy">okno</a></span> v přehledu <span class="gui">Činnosti</span> se do tohoto okna přepnete a přehled opustíte. Pokud máte otevřeno více <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Práce s pracovními plochami">pracovních ploch</a></span>, můžete klikat na jednotlivé plochy, abyste viděli okna, která jsou na nich otevřená.</p>
+<p class="p">Kliknutím na <span class="link"><a href="shell-windows.html.cs" title="Okna a pracovní plochy">okno</a></span> v přehledu <span class="gui">Činnosti</span> se do tohoto okna přepnete a přehled opustíte. Pokud máte otevřeno více <span class="link"><a href="shell-windows.html.cs#working-with-workspaces" title="Práce s pracovními plochami">pracovních ploch</a></span>, můžete klikat na jednotlivé plochy, abyste viděli okna, která jsou na nich otevřená.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -71,15 +71,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-overview.html#apps" title="Aplikace a okna">Aplikace a okna</a></li>
-<li class="links "><a href="shell-windows.html#working-with-windows" title="Práce s okny">Práce s okny</a></li>
+<li class="links "><a href="shell-overview.html.cs#apps" title="Aplikace a okna">Aplikace a okna</a></li>
+<li class="links "><a href="shell-windows.html.cs#working-with-windows" title="Práce s okny">Práce s okny</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-use-windows-workspaces.html" title="Používání oken a pracovních ploch">Vysvětlení, jak používat okna a pracovní plochy</a></li>
-<li class="links "><a href="gs-switch-tasks.html" title="Přepínání úloh">Vysvětlení, jak přepínat úlohy</a></li>
+<li class="links "><a href="gs-use-windows-workspaces.html.cs" title="Používání oken a pracovních ploch">Vysvětlení, jak používat okna a pracovní plochy</a></li>
+<li class="links "><a href="gs-switch-tasks.html.cs" title="Přepínání úloh">Vysvětlení, jak přepínat úlohy</a></li>
 </ul></div>
 </div></div>
 </div>

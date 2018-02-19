@@ -44,19 +44,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="keyboard.html.gl-GL" title="Teclado">Teclado</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="a11y.html" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html#mobility" title="Deficiencias motoras">Deficiencias motoras</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="a11y.html.gl-GL" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">Deficiencias motoras</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="keyboard.html.gl-GL" title="Teclado">Teclado</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Disposicións de teclado</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Nesta páxina detállase a navegación co teclado para persoas que non poden usar un rato ou outro dispositivo apuntador, ou que quere usar o teclado o máis posíbel. Para ver os atallos de teclado, útiles para todos os usuarios, consulte a <span class="link"><a href="shell-keyboard-shortcuts.html" title="Atallos de teclado útiles">Atallos de teclado útiles</a></span> no seu lugar.</p>
-<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">SE non pode usar un dispositivo apuntado como un rato, pode controlar o punteiro do rato usando o teclado numérico do seu teclado. Consulte a <span class="link"><a href="mouse-mousekeys.html" title="Facer clic e mover o punteiro do rato usando as frechas do teclado">Facer clic e mover o punteiro do rato usando as frechas do teclado</a></span> para obter máis detalles.</p></div></div></div></div>
+<p class="p">Nesta páxina detállase a navegación co teclado para persoas que non poden usar un rato ou outro dispositivo apuntador, ou que quere usar o teclado o máis posíbel. Para ver os atallos de teclado, útiles para todos os usuarios, consulte a <span class="link"><a href="shell-keyboard-shortcuts.html.gl-GL" title="Atallos de teclado útiles">Atallos de teclado útiles</a></span> no seu lugar.</p>
+<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">SE non pode usar un dispositivo apuntado como un rato, pode controlar o punteiro do rato usando o teclado numérico do seu teclado. Consulte a <span class="link"><a href="mouse-mousekeys.html.gl-GL" title="Facer clic e mover o punteiro do rato usando as frechas do teclado">Facer clic e mover o punteiro do rato usando as frechas do teclado</a></span> para obter máis detalles.</p></div></div></div></div>
 <div class="table"><div class="inner">
 <div class="title title-table"><h2><span class="title">Navegar polas interfaces de usuario</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -104,11 +104,11 @@
 <td style="border-top-style: solid;"><p class="p">Abra o primeiro menú na barra de menú da xanela. Use as teclas de cursor para navegar polos menús.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html.gl-GL" title="Que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p">A icona de Bluetooth na barra superior</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> ou <span class="key"><a href="keyboard-key-menu.html" title="Que é a tecla Menú?"><kbd>Menú</kbd></a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> ou <span class="key"><a href="keyboard-key-menu.html.gl-GL" title="Que é a tecla Menú?"><kbd>Menú</kbd></a></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Mostra o menú contextual para a selección actual, como se premera co botón dereito.</p></td>
 </tr>
 <tr>
@@ -125,12 +125,12 @@
 <div class="title title-table"><h2><span class="title">O escritorio</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> ou a tecla <span class="key"><a href="keyboard-key-super.html" title="Que é a tecla Super?"><kbd>Super</kbd></a></span></p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> ou a tecla <span class="key"><a href="keyboard-key-super.html.gl-GL" title="Que é a tecla Super?"><kbd>Super</kbd></a></span></p></td>
 <td><p class="p">Cambiar entre a vista xeral de <span class="gui">Actividades</span> e o escritorio. Na vista xeral, comece a escribir para buscar instantaneamente os seus aplicativos, contactos e documentos.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Trocar entre as xanelas">Trocar entre as xanelas de forma rápida</a></span>. Manteña a tecla <span class="key"><kbd>Maiús</kbd></span> para facelo en orde inverso.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.gl-GL" title="Trocar entre as xanelas">Trocar entre as xanelas de forma rápida</a></span>. Manteña a tecla <span class="key"><kbd>Maiús</kbd></span> para facelo en orde inverso.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
@@ -153,7 +153,7 @@
       <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> or
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span>
     </p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Trocar entre os espazos de traballo">Cambiar entre os espazos de traballo</a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.gl-GL" title="Trocar entre os espazos de traballo">Cambiar entre os espazos de traballo</a></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F6</kbd></span></span></p></td>
@@ -165,7 +165,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html#messagetray" title="A bandexa de mensaxes">Open the message
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html.gl-GL#messagetray" title="A bandexa de mensaxes">Open the message
     tray.</a></span> Press <span class="key"><kbd>Esc</kbd></span> to close.</p></td>
 </tr>
 </table></div>
@@ -194,7 +194,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Maiús</kbd></span>+<span class="key"><kbd>RePáx</kbd></span></span> e <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Maiús</kbd></span>+<span class="key"><kbd>AvPáx</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Mova unha xanela a un espazo de traballo diferente:">Mover as xanelas a un espazo de traballo diferente</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.gl-GL" title="Mova unha xanela a un espazo de traballo diferente:">Mover as xanelas a un espazo de traballo diferente</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
@@ -206,7 +206,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> ou <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Maximizar e restaurar unha xanela">Maximizar</a></span> unha xanela. Prema <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> para restaurar unha xanela maximizada ao seu tamaño orixinal.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html.gl-GL" title="Maximizar e restaurar unha xanela">Maximizar</a></span> unha xanela. Prema <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> para restaurar unha xanela maximizada ao seu tamaño orixinal.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
@@ -233,16 +233,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Deficiencias motoras">Deficiencias motoras</a></li>
+<li class="links "><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">Deficiencias motoras</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Usar distribucións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span>
+<a href="keyboard.html.gl-GL" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Atallos de teclado útiles">Atallos de teclado útiles</a><span class="desc"> — Moverse polo escritorio usando o teclado.</span>
+<a href="shell-keyboard-shortcuts.html.gl-GL" title="Atallos de teclado útiles">Atallos de teclado útiles</a><span class="desc"> — Moverse polo escritorio usando o teclado.</span>
 </li></ul></div>
 </div></div>
 </div>

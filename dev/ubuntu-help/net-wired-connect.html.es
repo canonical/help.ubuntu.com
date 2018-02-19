@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-wired.html" title="Conexiones cableadas">Conexiones cableadas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-wired.html.es" title="Conexiones cableadas">Conexiones cableadas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Conectar a una red cableada (Ethernet)</span></h1></div>
@@ -52,14 +52,14 @@
 <p class="p">Para configurar la mayoría de las conexiones a redes cableadas, todo lo que necesita es conectar un cable de red. El icono de red (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="configuración"></span></span>) se muestra en la barra superior con tres puntos mientras se establece la conexión. Los puntos desaparecerán cunado esté conectado.</p>
 <p class="p">Si esto no ocurriera, deberá asegurarse primero de que su cable de red está conectado. Un extremo del cable debería ir enchufado al puerto de red Ethernet rectangular de su equipo, y el otro debería conectarse a un conmutador, enrutador, roseta o similar (dependiendo de la instalación de red que tenga). Algunas veces, una luz junto al puerto Ethernet indica que está conectado y activo.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">No puede conectar directamente dos equipos con un cable de red (al menos, no sin cierta configuración adicional). Para conectar dos equipos, deberá enchufar ambos a un concentrador, enrutador o conmutador.</p></div></div></div></div>
-<p class="p">Si todavía no está conectado, puede que su red no soporte la configuración automática (DHCP). En este caso tendrá que <span class="link"><a href="net-manual.html" title="Establecer la configuración de la red manualmente">configurarla manualmente</a></span>.</p>
+<p class="p">Si todavía no está conectado, puede que su red no soporte la configuración automática (DHCP). En este caso tendrá que <span class="link"><a href="net-manual.html.es" title="Establecer la configuración de la red manualmente">configurarla manualmente</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html" title="Conexiones cableadas">Conexiones cableadas</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Conectar a una red cableada (Ethernet)">Conexiones de Internet cableadas</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Crear una conexión con una dirección IP fija">direcciones IP fijas</a></span>…</span>
+<a href="net-wired.html.es" title="Conexiones cableadas">Conexiones cableadas</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.es" title="Conectar a una red cableada (Ethernet)">Conexiones de Internet cableadas</a></span>, <span class="link"><a href="net-fixed-ip-address.html.es" title="Crear una conexión con una dirección IP fija">direcciones IP fijas</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

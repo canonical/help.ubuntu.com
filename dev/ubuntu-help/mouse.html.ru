@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,28 +54,28 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html" title="Имитация нажатия правой кнопкой мыши"><span class="title">Имитация нажатия правой кнопкой мыши</span><span class="linkdiv-dash"> — </span><span class="desc">Нажмите и удерживайте левую кнопку мыши для нажатия правой кнопкой.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html" title="Имитация нажатия при наведении указателя"><span class="title">Имитация нажатия при наведении указателя</span><span class="linkdiv-dash"> — </span><span class="desc">Функция <span class="gui">Нажатие при наведении</span> позволяет выполнить нажатие, некоторое время удерживая мышь на одном месте.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html" title="Нажатия, перетаскивание и прокрутка с помощью сенсорной панели"><span class="title">Нажатия, перетаскивание и прокрутка с помощью сенсорной панели</span><span class="linkdiv-dash"> — </span><span class="desc">Нажатия, перетаскивание и прокрутка с помощью сенсорной панели.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html" title="Настройка скорости двойного нажатия"><span class="title">Настройка скорости двойного нажатия</span><span class="linkdiv-dash"> — </span><span class="desc">Насколько быстро нужно нажимать на клавишу мышки второй раз для выполнения двойного нажатия.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.ru" title="Имитация нажатия правой кнопкой мыши"><span class="title">Имитация нажатия правой кнопкой мыши</span><span class="linkdiv-dash"> — </span><span class="desc">Нажмите и удерживайте левую кнопку мыши для нажатия правой кнопкой.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.ru" title="Имитация нажатия при наведении указателя"><span class="title">Имитация нажатия при наведении указателя</span><span class="linkdiv-dash"> — </span><span class="desc">Функция <span class="gui">Нажатие при наведении</span> позволяет выполнить нажатие, некоторое время удерживая мышь на одном месте.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.ru" title="Нажатия, перетаскивание и прокрутка с помощью сенсорной панели"><span class="title">Нажатия, перетаскивание и прокрутка с помощью сенсорной панели</span><span class="linkdiv-dash"> — </span><span class="desc">Нажатия, перетаскивание и прокрутка с помощью сенсорной панели.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.ru" title="Настройка скорости двойного нажатия"><span class="title">Настройка скорости двойного нажатия</span><span class="linkdiv-dash"> — </span><span class="desc">Насколько быстро нужно нажимать на клавишу мышки второй раз для выполнения двойного нажатия.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html" title="Настройка скорости мыши и сенсорной панели"><span class="title">Настройка скорости мыши и сенсорной панели</span><span class="linkdiv-dash"> — </span><span class="desc">Изменение скорости перемещения указателя для мыши или сенсорной панели.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html" title="Управление мышью левой рукой"><span class="title">Управление мышью левой рукой</span><span class="linkdiv-dash"> — </span><span class="desc">Поменяйте правую и левую клавишу мыши местами в параметрах мыши.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html" title="Управление нажатиями и перемещением указателя мыши с помощью клавиатуры"><span class="title">Управление нажатиями и перемещением указателя мыши с помощью клавиатуры</span><span class="linkdiv-dash"> — </span><span class="desc">Включите «Кнопки мыши», чтобы управлять курсором с клавиатуры.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.ru" title="Настройка скорости мыши и сенсорной панели"><span class="title">Настройка скорости мыши и сенсорной панели</span><span class="linkdiv-dash"> — </span><span class="desc">Изменение скорости перемещения указателя для мыши или сенсорной панели.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html.ru" title="Управление мышью левой рукой"><span class="title">Управление мышью левой рукой</span><span class="linkdiv-dash"> — </span><span class="desc">Поменяйте правую и левую клавишу мыши местами в параметрах мыши.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.ru" title="Управление нажатиями и перемещением указателя мыши с помощью клавиатуры"><span class="title">Управление нажатиями и перемещением указателя мыши с помощью клавиатуры</span><span class="linkdiv-dash"> — </span><span class="desc">Включите «Кнопки мыши», чтобы управлять курсором с клавиатуры.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Типичные проблемы</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html" title="Мышь реагирует с опозданием"><span class="title">Мышь реагирует с опозданием</span><span class="linkdiv-dash"> — </span><span class="desc">Если вам приходится шевелить и нажимать мышкой для того, чтобы она заработала.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html" title="Указатель мыши не перемещается"><span class="title">Указатель мыши не перемещается</span><span class="linkdiv-dash"> — </span><span class="desc">How to check why your mouse is not working.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.ru" title="Мышь реагирует с опозданием"><span class="title">Мышь реагирует с опозданием</span><span class="linkdiv-dash"> — </span><span class="desc">Если вам приходится шевелить и нажимать мышкой для того, чтобы она заработала.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.ru" title="Указатель мыши не перемещается"><span class="title">Указатель мыши не перемещается</span><span class="linkdiv-dash"> — </span><span class="desc">How to check why your mouse is not working.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="tips" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Советы</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Нажатие средней кнопки мыши"><span class="title">Нажатие средней кнопки мыши</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.ru" title="Нажатие средней кнопки мыши"><span class="title">Нажатие средней кнопки мыши</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
     more.</span></a></div></div>
 <div class="links-twocolumn"></div>
 </div></div></div></div></div>
@@ -86,10 +86,10 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html" title="Оборудование и драйверы">Оборудование и драйверы</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Типичные проблемы">Неполадки оборудования</a></span>, <span class="link"><a href="printing.html" title="Печать">принтеры</a></span>, <span class="link"><a href="power.html" title="Питание и аккумулятор">параметры питания</a></span>, <span class="link"><a href="color.html" title="Управление цветом">управление цветом</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Диски и другие устройства хранения информации">диски</a></span>…</span>
+<a href="hardware.html.ru" title="Оборудование и драйверы">Оборудование и драйверы</a><span class="desc"> — <span class="link"><a href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки оборудования</a></span>, <span class="link"><a href="printing.html.ru" title="Печать">принтеры</a></span>, <span class="link"><a href="power.html.ru" title="Питание и аккумулятор">параметры питания</a></span>, <span class="link"><a href="color.html.ru" title="Управление цветом">управление цветом</a></span>, <span class="link"><a href="bluetooth.html.ru" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.ru" title="Диски и другие устройства хранения информации">диски</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs.html" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
+<a href="prefs.html.ru" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html.ru" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html.ru" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html.ru" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html.ru" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

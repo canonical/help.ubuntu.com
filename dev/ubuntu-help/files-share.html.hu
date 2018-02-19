@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.hu" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html.hu#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="sharing.html" title="Megosztás">Megosztás</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="sharing.html.hu" title="Megosztás">Megosztás</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Fájlok megosztása e-mailben:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="app">Fájlok</span> alkalmazást a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintésben.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="app">Fájlok</span> alkalmazást a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintésben.</p></li>
 <li class="steps"><p class="p">Keresse meg az átvinni kívánt fájlt.</p></li>
 <li class="steps"><p class="p">Kattintson a jobb egérgombbal a fájlra, és válassza a <span class="gui">Küldés</span> menüpontot. Megjelenik egy e-mail szerkesztő ablak, amelyben a fájl lesz a melléklet.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Címzett</span> gombra egy névjegy kiválasztásához, vagy írjon be egy e-mail címet, amelyre el szeretné küldeni a fájlt. Töltse ki a <span class="gui">Tárgy</span> mezőt, és írja meg az üzenet szövegét, majd nyomja meg a <span class="gui">Küldés</span> gombot.</p></li>
@@ -72,9 +72,9 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a></li>
+<li class="links "><a href="files.html.hu#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a></li>
 <li class="links ">
-<a href="sharing.html" title="Megosztás">Megosztás</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Az asztal megosztása">Asztalmegosztás</a></span>, <span class="link"><a href="files-share.html" title="Fájlok megosztása e-mailben">Fájlok megosztása e-mailben</a></span>, <span class="link"><a href="sharing-media.html" title="Zene, fényképek és videók megosztása">Médiamegosztás</a></span>…</span>
+<a href="sharing.html.hu" title="Megosztás">Megosztás</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.hu" title="Az asztal megosztása">Asztalmegosztás</a></span>, <span class="link"><a href="files-share.html.hu" title="Fájlok megosztása e-mailben">Fájlok megosztása e-mailben</a></span>, <span class="link"><a href="sharing-media.html.hu" title="Zene, fényképek és videók megosztása">Médiamegosztás</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -82,10 +82,10 @@
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-send-file.html" title="Fájlok küldése Bluetooth-eszközre">Fájlok küldése Bluetooth-eszközre</a><span class="desc"> — Fájlok megosztása Bluetooth-eszközökre, például a telefonjára.</span>
+<a href="bluetooth-send-file.html.hu" title="Fájlok küldése Bluetooth-eszközre">Fájlok küldése Bluetooth-eszközre</a><span class="desc"> — Fájlok megosztása Bluetooth-eszközökre, például a telefonjára.</span>
 </li>
 <li class="links ">
-<a href="nautilus-connect.html" title="Fájlok tallózása egy kiszolgálón vagy hálózati megosztáson">Fájlok tallózása egy kiszolgálón vagy hálózati megosztáson</a><span class="desc"> — Másik gépen lévő fájlok megjelenítése és szerkesztése FTP, SSH, Windows-megosztás vagy WebDAV használatával.</span>
+<a href="nautilus-connect.html.hu" title="Fájlok tallózása egy kiszolgálón vagy hálózati megosztáson">Fájlok tallózása egy kiszolgálón vagy hálózati megosztáson</a><span class="desc"> — Másik gépen lévő fájlok megjelenítése és szerkesztése FTP, SSH, Windows-megosztás vagy WebDAV használatával.</span>
 </li>
 </ul></div>
 </div></div>

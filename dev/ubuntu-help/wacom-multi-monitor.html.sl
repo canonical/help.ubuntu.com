@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="wacom.html" title="Grafična tablica Wacom">Grafična tablica Wacom</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="wacom.html.sl" title="Grafična tablica Wacom">Grafična tablica Wacom</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Izberite zaslon</span></h1></div>
 <div class="region">
 <div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
     start typing <span class="gui">Wacom Tablet</span>.</p></li>
 <li class="steps">
 <p class="p">Click on <span class="gui">Wacom Tablet</span> to open the panel.</p>
@@ -76,10 +76,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html" title="Grafična tablica Wacom">Grafična tablica Wacom</a><span class="desc"> — 
-      <span class="link"><a href="wacom-multi-monitor.html" title="Izberite zaslon">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html" title="Nadzor pisala">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html" title="Uporaba tablice z levico">use the tablet left handed</a></span>…
+<a href="wacom.html.sl" title="Grafična tablica Wacom">Grafična tablica Wacom</a><span class="desc"> — 
+      <span class="link"><a href="wacom-multi-monitor.html.sl" title="Izberite zaslon">Map a monitor</a></span>,
+      <span class="link"><a href="wacom-stylus.html.sl" title="Nadzor pisala">configure the stylus</a></span>,
+      <span class="link"><a href="wacom-left-handed.html.sl" title="Uporaba tablice z levico">use the tablet left handed</a></span>…
   </span>
 </li></ul></div>
 </div></div></div>

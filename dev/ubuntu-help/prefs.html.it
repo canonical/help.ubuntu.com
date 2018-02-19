@@ -43,116 +43,116 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Impostazioni utente e di sistema</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="accounts.html" title="Account online">Account online</a></div>
+<div class="links-grid-link"><a href="accounts.html.it" title="Account online">Account online</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="accounts-add.html" title="Aggiungere un account">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Rimuovere un account">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+      <span class="link"><a href="accounts-add.html.it" title="Aggiungere un account">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.it" title="Rimuovere un account">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.it" title="Online services and applications">Learn about services</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="user-accounts.html" title="Account utente">Account utente</a></div>
+<div class="links-grid-link"><a href="user-accounts.html.it" title="Account utente">Account utente</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="user-add.html" title="Aggiungere un nuovo account utente">Add user</a></span>,
-      <span class="link"><a href="user-changepassword.html" title="Cambiare la propria password">change password</a></span>,
-      <span class="link"><a href="user-admin-change.html" title="Concedere i privilegi di amministrazione">administrators</a></span>…
+      <span class="link"><a href="user-add.html.it" title="Aggiungere un nuovo account utente">Add user</a></span>,
+      <span class="link"><a href="user-changepassword.html.it" title="Cambiare la propria password">change password</a></span>,
+      <span class="link"><a href="user-admin-change.html.it" title="Concedere i privilegi di amministrazione">administrators</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="power.html" title="Alimentazione e batteria">Alimentazione e batteria</a></div>
+<div class="links-grid-link"><a href="power.html.it" title="Alimentazione e batteria">Alimentazione e batteria</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Cosa succede quando si sospende il computer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Perché lo schermo si oscura dopo un po' di tempo?">screen dimming</a></span>…
+      <span class="link"><a href="power-status.html.it" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.it" title="Cosa succede quando si sospende il computer?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.it" title="Perché lo schermo si oscura dopo un po' di tempo?">screen dimming</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="startup-applications.html" title="Applicazioni d'avvio">Applicazioni d'avvio</a></div>
+<div class="links-grid-link"><a href="startup-applications.html.it" title="Applicazioni d'avvio">Applicazioni d'avvio</a></div>
 <div class="desc"><span class="desc">Scegliere l'applicazione da avviare all'accesso.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html#sound" title="Audio di base">Audio</a></div>
+<div class="links-grid-link"><a href="media.html.it#sound" title="Audio di base">Audio</a></div>
 <div class="desc"><span class="desc">
-     <span class="link"><a href="sound-volume.html" title="Modificare il volume">Volume</a></span>,
-     <span class="link"><a href="sound-usespeakers.html" title="Usare altri altoparlanti o cuffie">speakers and headphones</a></span>,
-     <span class="link"><a href="sound-usemic.html" title="Usare un altro microfono">microphones</a></span>…
+     <span class="link"><a href="sound-volume.html.it" title="Modificare il volume">Volume</a></span>,
+     <span class="link"><a href="sound-usespeakers.html.it" title="Usare altri altoparlanti o cuffie">speakers and headphones</a></span>,
+     <span class="link"><a href="sound-usemic.html.it" title="Usare un altro microfono">microphones</a></span>…
    </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="clock.html" title="Data &amp; ora">Data &amp; ora</a></div>
+<div class="links-grid-link"><a href="clock.html.it" title="Data &amp; ora">Data &amp; ora</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="clock-set.html" title="Cambiare la data e l'ora">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="Cambiare il fuso orario">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="Appuntamenti in calendario">calendar and appointments</a></span>…
+      <span class="link"><a href="clock-set.html.it" title="Cambiare la data e l'ora">Set date and time</a></span>,
+      <span class="link"><a href="clock-world.html.it" title="Add a world clock">world clocks</a></span>,
+      <span class="link"><a href="clock-timezone.html.it" title="Cambiare il fuso orario">timezone</a></span>,
+      <span class="link"><a href="clock-calendar.html.it" title="Appuntamenti in calendario">calendar and appointments</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html" title="Gestione del colore">Gestione del colore</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Perché la gestione del colore è importante?">Perché è importante</a></span>, <span class="link"><a href="color.html#profiles" title="Profili del colore">profili colore</a></span>, <span class="link"><a href="color.html#calibration" title="Calibrazione">come calibrare un dispositivo</a></span>...</span></div>
+<div class="links-grid-link"><a href="color.html.it" title="Gestione del colore">Gestione del colore</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.it" title="Perché la gestione del colore è importante?">Perché è importante</a></span>, <span class="link"><a href="color.html.it#profiles" title="Profili del colore">profili colore</a></span>, <span class="link"><a href="color.html.it#calibration" title="Calibrazione">come calibrare un dispositivo</a></span>...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html" title="Mouse">Mouse</a></div>
+<div class="links-grid-link"><a href="mouse.html.it" title="Mouse">Mouse</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="mouse-lefthanded.html" title="Usare il mouse con la mano sinistra">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html" title="Regolare la velocità del mouse e del touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
+      <span class="link"><a href="mouse-lefthanded.html.it" title="Usare il mouse con la mano sinistra">Left-handed</a></span>,
+      <span class="link"><a href="mouse-sensitivity.html.it" title="Regolare la velocità del mouse e del touchpad">speed and sensitivity</a></span>,
+      <span class="link"><a href="mouse-touchpad-click.html.it" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="privacy.html" title="Privacy Settings">Privacy Settings</a></div>
+<div class="links-grid-link"><a href="privacy.html.it" title="Privacy Settings">Privacy Settings</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="privacy-screen-lock.html" title="Bloccare automaticamente lo schermo">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
+      <span class="link"><a href="privacy-screen-lock.html.it" title="Bloccare automaticamente lo schermo">Screen lock</a></span>,
+      <span class="link"><a href="privacy-history-recent-off.html.it" title="Turn off or limit file history tracking">Usage history</a></span>,
+      <span class="link"><a href="privacy-purge.html.it" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-language.html" title="Region &amp; Language">Region &amp; Language</a></div>
+<div class="links-grid-link"><a href="prefs-language.html.it" title="Region &amp; Language">Region &amp; Language</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="session-language.html" title="Cambiare la lingua utilizzata">Language</a></span>,
-      <span class="link"><a href="session-formats.html" title="Modificare data e unità di misura">region and formats</a></span>,
-      <span class="link"><a href="keyboard-layouts.html" title="Usare disposizioni di tastiera alternative">keyboard layouts</a></span>…
+      <span class="link"><a href="session-language.html.it" title="Cambiare la lingua utilizzata">Language</a></span>,
+      <span class="link"><a href="session-formats.html.it" title="Modificare data e unità di misura">region and formats</a></span>,
+      <span class="link"><a href="keyboard-layouts.html.it" title="Usare disposizioni di tastiera alternative">keyboard layouts</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-sharing.html" title="Sharing Settings">Sharing Settings</a></div>
+<div class="links-grid-link"><a href="prefs-sharing.html.it" title="Sharing Settings">Sharing Settings</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="sharing-bluetooth.html" title="Control sharing over Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html" title="Share your personal files">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html" title="Condividere il proprio desktop">Screen sharing</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Share your music, photos and videos">Media sharing</a></span>…
+      <span class="link"><a href="sharing-bluetooth.html.it" title="Control sharing over Bluetooth">Bluetooth sharing</a></span>,
+      <span class="link"><a href="sharing-personal.html.it" title="Share your personal files">Personal file sharing</a></span>,
+      <span class="link"><a href="sharing-desktop.html.it" title="Condividere il proprio desktop">Screen sharing</a></span>,
+      <span class="link"><a href="sharing-media.html.it" title="Share your music, photos and videos">Media sharing</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="keyboard.html" title="Tastiera">Tastiera</a></div>
+<div class="links-grid-link"><a href="keyboard.html.it" title="Tastiera">Tastiera</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="keyboard-layouts.html" title="Usare disposizioni di tastiera alternative">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html" title="Rendere il cursore intermittente">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html#mobility" title="Difficoltà motorie">keyboard accessibility</a></span>…
+      <span class="link"><a href="keyboard-layouts.html.it" title="Usare disposizioni di tastiera alternative">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.it" title="Rendere il cursore intermittente">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html.it#mobility" title="Difficoltà motorie">keyboard accessibility</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-display.html" title="Visualizzazione e schermo">Visualizzazione e schermo</a></div>
+<div class="links-grid-link"><a href="prefs-display.html.it" title="Visualizzazione e schermo">Visualizzazione e schermo</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
+      <span class="link"><a href="look-background.html.it" title="Change the desktop and lock screen backgrounds">Background</a></span>,
+      <span class="link"><a href="look-resolution.html.it" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
       brightness…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="wacom.html" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a></div>
+<div class="links-grid-link"><a href="wacom.html.it" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="wacom-multi-monitor.html" title="Choose a monitor">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html" title="Configure the stylus">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html" title="Use the tablet left-handed">use the tablet left handed</a></span>…
+      <span class="link"><a href="wacom-multi-monitor.html.it" title="Choose a monitor">Map a monitor</a></span>,
+      <span class="link"><a href="wacom-stylus.html.it" title="Configure the stylus">configure the stylus</a></span>,
+      <span class="link"><a href="wacom-left-handed.html.it" title="Use the tablet left-handed">use the tablet left handed</a></span>…
   </span></div>
 </div>
 </div></div></div></div>
@@ -160,7 +160,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Guida Ubuntu Desktop">Guida Ubuntu Desktop</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.it" title="Guida Ubuntu Desktop">Guida Ubuntu Desktop</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

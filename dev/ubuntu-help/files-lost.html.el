@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Εύρεση ενός χαμένου αρχείου</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">Εάν δημιουργήσατε ή κατεβάσατε ένα αρχείο, αλλά τώρα δεν μπορείτε να το βρείτε, ακολουθήστε αυτές τις συμβουλές.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Εάν δεν θυμάστε πού αποθηκεύσατε το αρχείο, αλλά έχετε κάποια ιδέα πώς το ονομάσατε, μπορείτε να <span class="link"><a href="files-search.html" title="Αναζήτηση για αρχεία">ψάξετε για το αρχείο κατά όνομα</a></span>.</p></li>
+<li class="list"><p class="p">Εάν δεν θυμάστε πού αποθηκεύσατε το αρχείο, αλλά έχετε κάποια ιδέα πώς το ονομάσατε, μπορείτε να <span class="link"><a href="files-search.html.el" title="Αναζήτηση για αρχεία">ψάξετε για το αρχείο κατά όνομα</a></span>.</p></li>
 <li class="list"><p class="p">Αν κατεβάσατε μόλις το αρχείο, τότε μπορεί αυτό να έχει αποθηκευτεί αυτόματα από τον περιηγητή διαδικτύου σας σε κάποιον κοινό φάκελο. Ελέγξτε τους φακέλους <span class="file">Επιφάνεια εργασίας</span> και <span class="file">Λήψεις</span> στον προσωπικό σας φάκελο.</p></li>
-<li class="list"><p class="p">Μπορεί να έχετε διαγράψει κατά λάθος το αρχείο. Όταν διαγράφετε ένα αρχείο, μετακινείται στα απορρίμματα, όπου παραμένει μέχρι να το αδειάσετε χειροκίνητα. Δείτε <span class="link"><a href="files-recover.html" title="Επαναφορά αρχείων από τα απορρίμματα">Επαναφορά αρχείων από τα απορρίμματα</a></span> για να μάθετε πώς να ανακτήσετε ένα διαγραμμένο αρχείο.</p></li>
-<li class="list"><p class="p">Μπορεί να μετονομάσατε ένα αρχείο με τρόπο όπου να το έκανε κρυφό. Αρχεία όπου το όνομα τους ξεκινά με <span class="file">.</span> ή τελειώνουν με <span class="file">~</span> είναι κρυφά στον διαχειριστή αρχείων. Κάντε κλικ στις επιλογές προβολής στην εργαλειοθήκη του <span class="app">Files</span> και ενεργοποιήστε το <span class="gui">Εμφάνιση κρυφών αρχείων</span> για αν τα εμφανίσετε. Για να μάθετε περισσότερα δείτε <span class="link"><a href="files-hidden.html" title="Απόκρυψη ενός αρχείου">Απόκρυψη ενός αρχείου</a></span>.</p></li>
+<li class="list"><p class="p">Μπορεί να έχετε διαγράψει κατά λάθος το αρχείο. Όταν διαγράφετε ένα αρχείο, μετακινείται στα απορρίμματα, όπου παραμένει μέχρι να το αδειάσετε χειροκίνητα. Δείτε <span class="link"><a href="files-recover.html.el" title="Επαναφορά αρχείων από τα απορρίμματα">Επαναφορά αρχείων από τα απορρίμματα</a></span> για να μάθετε πώς να ανακτήσετε ένα διαγραμμένο αρχείο.</p></li>
+<li class="list"><p class="p">Μπορεί να μετονομάσατε ένα αρχείο με τρόπο όπου να το έκανε κρυφό. Αρχεία όπου το όνομα τους ξεκινά με <span class="file">.</span> ή τελειώνουν με <span class="file">~</span> είναι κρυφά στον διαχειριστή αρχείων. Κάντε κλικ στις επιλογές προβολής στην εργαλειοθήκη του <span class="app">Files</span> και ενεργοποιήστε το <span class="gui">Εμφάνιση κρυφών αρχείων</span> για αν τα εμφανίσετε. Για να μάθετε περισσότερα δείτε <span class="link"><a href="files-hidden.html.el" title="Απόκρυψη ενός αρχείου">Απόκρυψη ενός αρχείου</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,12 +62,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.el#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-recover.html" title="Επαναφορά αρχείων από τα απορρίμματα">Επαναφορά αρχείων από τα απορρίμματα</a><span class="desc"> — Τα διαγραμμένα αρχεία κανονικά στέλνονται στα απορρίμματα, αλλά μπορούν να ανακτηθούν.</span>
+<a href="files-recover.html.el" title="Επαναφορά αρχείων από τα απορρίμματα">Επαναφορά αρχείων από τα απορρίμματα</a><span class="desc"> — Τα διαγραμμένα αρχεία κανονικά στέλνονται στα απορρίμματα, αλλά μπορούν να ανακτηθούν.</span>
 </li></ul></div>
 </div></div>
 </div>

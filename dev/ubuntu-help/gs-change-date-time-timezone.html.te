@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="ప్రారంభించండి">గ్నోమ్ తో ప్రారంభించండి</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.te" title="ప్రారంభించండి">గ్నోమ్ తో ప్రారంభించండి</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="ఆన్‌లైన్ ఖాతాలకు అనుసంధానించు">క్రితం</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="నేపథ్యచిత్రం మార్చు">తరువాత </a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.te" title="ఆన్‌లైన్ ఖాతాలకు అనుసంధానించు">క్రితం</a><a class="nextlinks-next" href="gs-change-wallpaper.html.te" title="నేపథ్యచిత్రం మార్చు">తరువాత </a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">తేదీ, సమయం మరియు సమయక్షేత్రం మార్చు</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html#yourname" title="మీరు మరియు మీ కంప్యూటరు">system menu</a></span>
+<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html.te#yourname" title="మీరు మరియు మీ కంప్యూటరు">system menu</a></span>
     on the right side of the top bar.</p></li>
 <li class="steps"><p class="p">Click the settings button at the bottom left of the menu.</p></li>
 <li class="steps"><p class="p">Select the <span class="gui">Date &amp; Time</span> panel.</p></li>
@@ -72,7 +72,7 @@
 </ol></div></div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="ఆన్‌లైన్ ఖాతాలకు అనుసంధానించు">క్రితం</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="నేపథ్యచిత్రం మార్చు">తరువాత </a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.te" title="ఆన్‌లైన్ ఖాతాలకు అనుసంధానించు">క్రితం</a><a class="nextlinks-next" href="gs-change-wallpaper.html.te" title="నేపథ్యచిత్రం మార్చు">తరువాత </a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -80,17 +80,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="ప్రారంభించండి">గ్నోమ్ తో ప్రారంభించండి</a><span class="desc"> — గ్నోమ్ కు కొత్తా? ఎలా వుపయోగించాలో నేర్చుకోండి.</span>
+<a href="getting-started.html.te" title="ప్రారంభించండి">గ్నోమ్ తో ప్రారంభించండి</a><span class="desc"> — గ్నోమ్ కు కొత్తా? ఎలా వుపయోగించాలో నేర్చుకోండి.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ఇవి కూడా చూడండి</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="తేదీ &amp; సమయం">తేదీ  &amp; సమయం</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html" title="తేదీ మరియు సమయం మార్చండి">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="మీ సమయక్షేత్రాన్ని మార్చండి">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="క్యాలెండరు నియామకాలు">calendar and appointments</a></span>…
+<a href="clock.html.te" title="తేదీ &amp; సమయం">తేదీ  &amp; సమయం</a><span class="desc"> — 
+      <span class="link"><a href="clock-set.html.te" title="తేదీ మరియు సమయం మార్చండి">Set date and time</a></span>,
+      <span class="link"><a href="clock-world.html.te" title="Add a world clock">world clocks</a></span>,
+      <span class="link"><a href="clock-timezone.html.te" title="మీ సమయక్షేత్రాన్ని మార్చండి">timezone</a></span>,
+      <span class="link"><a href="clock-calendar.html.te" title="క్యాలెండరు నియామకాలు">calendar and appointments</a></span>…
     </span>
 </li></ul></div>
 </div></div>

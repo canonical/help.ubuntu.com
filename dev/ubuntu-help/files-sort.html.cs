@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#common-file-tasks" title="Běžné činnosti">Běžné činnosti</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#common-file-tasks" title="Běžné činnosti">Běžné činnosti</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Řazení souborů a složek</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Soubory ve složce můžete řadit různými způsoby, například podle data nebo velikosti. Seznamem běžných způsobů řazení souborů viz <span class="link"><a href="#ways" title="Způsoby řazení souborů">Způsoby řazení souborů</a></span> níže. Jak změnit výchozí způsob řazení, viz <span class="link"><a href="nautilus-views.html" title="Předvolby zobrazení v Souborech">Předvolby zobrazení v <span class="app">Souborech</span></a></span>.</p>
+<p class="p">Soubory ve složce můžete řadit různými způsoby, například podle data nebo velikosti. Seznamem běžných způsobů řazení souborů viz <span class="link"><a href="#ways" title="Způsoby řazení souborů">Způsoby řazení souborů</a></span> níže. Jak změnit výchozí způsob řazení, viz <span class="link"><a href="nautilus-views.html.cs" title="Předvolby zobrazení v Souborech">Předvolby zobrazení v <span class="app">Souborech</span></a></span>.</p>
 <p class="p">Způsob, jakým můžete řadit soubory závisí na <span class="em">zobrazení složky</span>, které používáte. Aktuální zobrazení můžete změnit pomocí tlačítek pro seznamové nebo ikonové zobrazení na nástrojové liště.</p>
 </div>
 <div id="icon-view" class="sect"><div class="inner">
@@ -64,7 +64,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Seznamové zobrazení</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Abyste změnili řazení souborů, klikněte na jedno ze záhlaví sloupců ve správci souborů. Například klikněte na <span class="gui">Typ</span>, aby se řadilo podle typu souboru. Když kliknete na záhlaví stejného sloupce ještě jednou, změní se směr řazení.</p>
-<p class="p">V seznamovém zobrazení můžete zobrazit sloupce s dalšími vlastnostmi a řadit podle nich. Klikněte na tlačítko zobrazení na nástrojové liště, zvolte <span class="gui">Viditelné sloupce…</span> a vyberte sloupce, které chcete, aby byly viditelné. Pak budete moci řadit podle těchto sloupců. Popis jednotlivých sloupců viz <span class="link"><a href="nautilus-list.html" title="Předvolby sloupců v seznamu souborů">Předvolby sloupců v seznamu souborů</a></span>.</p>
+<p class="p">V seznamovém zobrazení můžete zobrazit sloupce s dalšími vlastnostmi a řadit podle nich. Klikněte na tlačítko zobrazení na nástrojové liště, zvolte <span class="gui">Viditelné sloupce…</span> a vyberte sloupce, které chcete, aby byly viditelné. Pak budete moci řadit podle těchto sloupců. Popis jednotlivých sloupců viz <span class="link"><a href="nautilus-list.html.cs" title="Předvolby sloupců v seznamu souborů">Předvolby sloupců v seznamu souborů</a></span>.</p>
 </div></div>
 </div></div>
 <div id="ways" class="sect"><div class="inner">
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Běžné činnosti">Běžné činnosti</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.cs#common-file-tasks" title="Běžné činnosti">Běžné činnosti</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

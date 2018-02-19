@@ -45,57 +45,57 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
-<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 17.10</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html" title="Kezdeti lépések"><span class="title">Kezdeti lépések GNOME alatt</span><span class="linkdiv-dash"> — </span><span class="desc">Új GNOME felhasználó? Ismerkedjen meg az alapokkal.</span></a></div></div></div></div>
+<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 18.04</span></div><div class="region"><div class="contents">
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.hu" title="Kezdeti lépések"><span class="title">Kezdeti lépések GNOME alatt</span><span class="linkdiv-dash"> — </span><span class="desc">Új GNOME felhasználó? Ismerkedjen meg az alapokkal.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="A GNOME bemutatása"><span class="title">A GNOME bemutatása</span><span class="linkdiv-dash"> — </span><span class="desc">Az asztali környezet, a felső sáv és a <span class="gui">Tevékenységek</span> áttekintés vizuális bemutatása.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Alkalmazások indítása"><span class="title">Alkalmazások indítása</span><span class="linkdiv-dash"> — </span><span class="desc">Alkalmazások indítása a <span class="gui">Tevékenységek</span> áttekintésből.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Kijelentkezés, kikapcsolás vagy felhasználóváltás"><span class="title">Kijelentkezés, kikapcsolás vagy felhasználóváltás</span><span class="linkdiv-dash"> — </span><span class="desc">A felhasználói fiók elhagyása kijelentkezéssel, felhasználóváltással stb.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.hu" title="A GNOME bemutatása"><span class="title">A GNOME bemutatása</span><span class="linkdiv-dash"> — </span><span class="desc">Az asztali környezet, a felső sáv és a <span class="gui">Tevékenységek</span> áttekintés vizuális bemutatása.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.hu" title="Alkalmazások indítása"><span class="title">Alkalmazások indítása</span><span class="linkdiv-dash"> — </span><span class="desc">Alkalmazások indítása a <span class="gui">Tevékenységek</span> áttekintésből.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.hu" title="Kijelentkezés, kikapcsolás vagy felhasználóváltás"><span class="title">Kijelentkezés, kikapcsolás vagy felhasználóváltás</span><span class="linkdiv-dash"> — </span><span class="desc">A felhasználói fiók elhagyása kijelentkezéssel, felhasználóváltással stb.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="shell-overview.html" title="Az asztal">Az asztal</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html" title="Naptári találkozók">naptár</a></span>, <span class="link"><a href="shell-notifications.html" title="Értesítések és az üzenettálca">értesítések</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Hasznos gyorsbillentyűk">gyorsbillentyűk</a></span>, <span class="link"><a href="shell-windows.html" title="Ablakok és munkaterületek">ablakok és munkaterületek</a></span>…</span></div>
+<div class="links-grid-link"><a href="shell-overview.html.hu" title="Az asztal">Az asztal</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html.hu" title="Naptári találkozók">naptár</a></span>, <span class="link"><a href="shell-notifications.html.hu" title="Értesítések és az üzenettálca">értesítések</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.hu" title="Hasznos gyorsbillentyűk">gyorsbillentyűk</a></span>, <span class="link"><a href="shell-windows.html.hu" title="Ablakok és munkaterületek">ablakok és munkaterületek</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html" title="Vezeték nélküli hálózatok">Vezeték nélküli</a></span>, <span class="link"><a href="net-wired.html" title="Vezetékes kapcsolatok">vezetékes</a></span>, <span class="link"><a href="net-problem.html" title="Hálózati problémák">kapcsolatproblémák</a></span>, <span class="link"><a href="net-browser.html" title="Webböngészők">webböngészés</a></span>, <span class="link"><a href="net-email.html" title="E-mail és levelezőprogramok">e-mail fiókok</a></span>…</span></div>
+<div class="links-grid-link"><a href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.hu" title="Vezeték nélküli hálózatok">Vezeték nélküli</a></span>, <span class="link"><a href="net-wired.html.hu" title="Vezetékes kapcsolatok">vezetékes</a></span>, <span class="link"><a href="net-problem.html.hu" title="Hálózati problémák">kapcsolatproblémák</a></span>, <span class="link"><a href="net-browser.html.hu" title="Webböngészők">webböngészés</a></span>, <span class="link"><a href="net-email.html.hu" title="E-mail és levelezőprogramok">e-mail fiókok</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html" title="Hang, videó és képek">Hang, videó és képek</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="media.html#photos" title="Fényképek és digitális fényképezőgépek">Digitális fényképezőgépek</a></span>, <span class="link"><a href="media.html#music" title="Zene és hordozható hanglejátszók">iPodok</a></span>, <span class="link"><a href="media.html#photos" title="Fényképek és digitális fényképezőgépek">fényképek szerkesztése</a></span>, <span class="link"><a href="media.html#videos" title="Videók és videokamerák">videók lejátszása</a></span>…</span></div>
+<div class="links-grid-link"><a href="media.html.hu" title="Hang, videó és képek">Hang, videó és képek</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="media.html.hu#photos" title="Fényképek és digitális fényképezőgépek">Digitális fényképezőgépek</a></span>, <span class="link"><a href="media.html.hu#music" title="Zene és hordozható hanglejátszók">iPodok</a></span>, <span class="link"><a href="media.html.hu#photos" title="Fényképek és digitális fényképezőgépek">fényképek szerkesztése</a></span>, <span class="link"><a href="media.html.hu#videos" title="Videók és videokamerák">videók lejátszása</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="files.html" title="Fájlok, mappák és keresés">Fájlok, mappák és keresés</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="files-search.html" title="Fájlok keresése">Keresés</a></span>, <span class="link"><a href="files-delete.html" title="Fájlok és mappák törlése">fájlok törlése</a></span>, <span class="link"><a href="files.html#backup" title="Mentés">mentések</a></span>, <span class="link"><a href="files.html#removable" title="Cserélhető meghajtók és külső lemezek">cserélhető meghajtók</a></span>…</span></div>
+<div class="links-grid-link"><a href="files.html.hu" title="Fájlok, mappák és keresés">Fájlok, mappák és keresés</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="files-search.html.hu" title="Fájlok keresése">Keresés</a></span>, <span class="link"><a href="files-delete.html.hu" title="Fájlok és mappák törlése">fájlok törlése</a></span>, <span class="link"><a href="files.html.hu#backup" title="Mentés">mentések</a></span>, <span class="link"><a href="files.html.hu#removable" title="Cserélhető meghajtók és külső lemezek">cserélhető meghajtók</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a></div>
+<div class="links-grid-link"><a href="addremove.html.hu" title="Install &amp; remove software">Install &amp; remove software</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Alkalmazás eltávolítása">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+      <span class="link"><a href="addremove-install.html.hu" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.hu" title="Alkalmazás eltávolítása">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.hu" title="Add software repositories">add repositories</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs.html" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html" title="Billentyűzet">Billentyűzet</a></span>, <span class="link"><a href="mouse.html" title="Egér">egér</a></span>, <span class="link"><a href="prefs-display.html" title="Megjelenítés és képernyő">kijelző</a></span>, <span class="link"><a href="prefs-language.html" title="Terület és nyelv">nyelvek</a></span>, <span class="link"><a href="user-accounts.html" title="Felhasználói fiókok">felhasználók</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html.hu" title="Billentyűzet">Billentyűzet</a></span>, <span class="link"><a href="mouse.html.hu" title="Egér">egér</a></span>, <span class="link"><a href="prefs-display.html.hu" title="Megjelenítés és képernyő">kijelző</a></span>, <span class="link"><a href="prefs-language.html.hu" title="Terület és nyelv">nyelvek</a></span>, <span class="link"><a href="user-accounts.html.hu" title="Felhasználói fiókok">felhasználók</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware.html" title="Hardver és illesztőprogramok">Hardver és illesztőprogramok</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="hardware.html#problems" title="Gyakori problémák">Hardverproblémák</a></span>, <span class="link"><a href="printing.html" title="Nyomtatás">nyomtatók</a></span>, <span class="link"><a href="power.html" title="Energiagazdálkodás és akkumulátorok">energiagazdálkodás</a></span>, <span class="link"><a href="color.html" title="Színkezelés">színkezelés</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Lemezek és tárolók">lemezek</a></span>…</span></div>
+<div class="links-grid-link"><a href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver és illesztőprogramok</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="hardware.html.hu#problems" title="Gyakori problémák">Hardverproblémák</a></span>, <span class="link"><a href="printing.html.hu" title="Nyomtatás">nyomtatók</a></span>, <span class="link"><a href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">energiagazdálkodás</a></span>, <span class="link"><a href="color.html.hu" title="Színkezelés">színkezelés</a></span>, <span class="link"><a href="bluetooth.html.hu" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.hu" title="Lemezek és tárolók">lemezek</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="a11y.html" title="Akadálymentesítés">Akadálymentesítés</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="a11y.html#vision" title="Látássérültség">Látás</a></span>, <span class="link"><a href="a11y.html#sound" title="Hallássérültség">hallás</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mozgássérültség">mozgás</a></span>, <span class="link"><a href="a11y-braille.html" title="Képernyőolvasás Braille-ban">Braille</a></span>, <span class="link"><a href="a11y-mag.html" title="Képernyőterület nagyítása">képernyőnagyító</a></span>…</span></div>
+<div class="links-grid-link"><a href="a11y.html.hu" title="Akadálymentesítés">Akadálymentesítés</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="a11y.html.hu#vision" title="Látássérültség">Látás</a></span>, <span class="link"><a href="a11y.html.hu#sound" title="Hallássérültség">hallás</a></span>, <span class="link"><a href="a11y.html.hu#mobility" title="Mozgássérültség">mozgás</a></span>, <span class="link"><a href="a11y-braille.html.hu" title="Képernyőolvasás Braille-ban">Braille</a></span>, <span class="link"><a href="a11y-mag.html.hu" title="Képernyőterület nagyítása">képernyőnagyító</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="tips.html" title="Tippek és trükkök">Tippek és trükkök</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html" title="Speciális karakterek bevitele">Speciális karakterek</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Kattintás a középső egérgombbal">középső kattintással használható parancsok</a></span>…</span></div>
+<div class="links-grid-link"><a href="tips.html.hu" title="Tippek és trükkök">Tippek és trükkök</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.hu" title="Speciális karakterek bevitele">Speciális karakterek</a></span>, <span class="link"><a href="mouse-middleclick.html.hu" title="Kattintás a középső egérgombbal">középső kattintással használható parancsok</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="more-help.html" title="További segítség">További segítség</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html" title="A kézikönyv névjegye">Tippek az útmutató használatához</a></span>, <span class="link"><a href="get-involved.html" title="Vegyen részt ezen útmutató tökéletesítésében">segítsen jobbá tenni az útmutatót</a></span>…</span></div>
+<div class="links-grid-link"><a href="more-help.html.hu" title="További segítség">További segítség</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html.hu" title="A kézikönyv névjegye">Tippek az útmutató használatához</a></span>, <span class="link"><a href="get-involved.html.hu" title="Vegyen részt ezen útmutató tökéletesítésében">segítsen jobbá tenni az útmutatót</a></span>…</span></div>
 </div>
 </div></div></div>
 </div></div>

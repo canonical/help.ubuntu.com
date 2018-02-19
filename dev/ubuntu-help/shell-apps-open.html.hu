@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Alkalmazások indítása</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Mozgassa az egérmutatót a képernyő bal felső sarkában lévő <span class="gui">Tevékenységek</span> feliratra a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintés megjelenítéséhez. Az alkalmazások itt találhatók. Az áttekintés megjeleníthető a <span class="key"><a href="keyboard-key-super.html" title="Mi az a Super billentyű?"><kbd>Super billentyű</kbd></a></span> lenyomásával is.</p>
+<p class="p">Mozgassa az egérmutatót a képernyő bal felső sarkában lévő <span class="gui">Tevékenységek</span> feliratra a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintés megjelenítéséhez. Az alkalmazások itt találhatók. Az áttekintés megjeleníthető a <span class="key"><a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?"><kbd>Super billentyű</kbd></a></span> lenyomásával is.</p>
 <p class="p">A <span class="gui">Tevékenységek</span> áttekintésből több módon is megnyithat egy alkalmazást:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Kezdje el beírni az alkalmazás nevét – a keresés azonnal megkezdődik. Ha ez nem történik meg, kattintson a keresősávra a képernyő tetején, és kezdjen el gépelni. Ha nem tudja az alkalmazás pontos nevét, akkor írjon be egy kapcsolódó kifejezést. Kattintson az alkalmazás ikonjára az elindításához.</p></li>
 <li class="list">
 <p class="p">Egyes alkalmazások ikonja az <span class="em">indítópanelen</span>, a <span class="gui">Tevékenységek</span> áttekintés bal oldalán lévő függőleges ikonsávon is megtalálható. Kattintson ezek egyikére az adott alkalmazás elindításához.</p>
-<p class="p">Ha egyes alkalmazásokat gyakrabban használ, akkor <span class="link"><a href="shell-apps-favorites.html" title="Kedvenc alkalmazások hozzáadása az indítópanelhez">felveheti azokat az indítópanelra</a></span>.</p>
+<p class="p">Ha egyes alkalmazásokat gyakrabban használ, akkor <span class="link"><a href="shell-apps-favorites.html.hu" title="Kedvenc alkalmazások hozzáadása az indítópanelhez">felveheti azokat az indítópanelra</a></span>.</p>
 </li>
 <li class="list"><p class="p">Kattintson a rács gombra az indítópanel alján. Ha a <span class="gui">Gyakoriak</span> nézet be van kapcsolva, akkor megjelennek a gyakran használt alkalmazások. Ha új alkalmazást szeretne futtatni, akkor nyomja meg a lenti <span class="gui">Minden</span> gombot az összes alkalmazás megjelenítéséhez. Kattintson egy alkalmazásra az elindításához.</p></li>
 <li class="list">
-<p class="p">Egy alkalmazást másik <span class="link"><a href="shell-workspaces.html" title="Mi az a munkaterület, és mire használható?">munkaterületen</a></span> is elindíthat, ha az ikonját az indítópanelről áthúzza a képernyő jobb oldalán lévő egyik munkaterületre. Az alkalmazás ekkor a kiválasztott munkaterületen nyílik meg.</p>
+<p class="p">Egy alkalmazást másik <span class="link"><a href="shell-workspaces.html.hu" title="Mi az a munkaterület, és mire használható?">munkaterületen</a></span> is elindíthat, ha az ikonját az indítópanelről áthúzza a képernyő jobb oldalán lévő egyik munkaterületre. Az alkalmazás ekkor a kiválasztott munkaterületen nyílik meg.</p>
 <p class="p">Egy alkalmazást <span class="em">új</span> munkaterületen indíthat el, ha az ikonját a munkaterület-váltó alján lévő üres munkaterületre, vagy a két munkaterület közti kis résre húzza.</p>
 </li>
 </ul></div></div></div>
@@ -78,18 +78,18 @@
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html" title="Az asztal">Az asztal</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Naptári találkozók">naptár</a></span>, <span class="link"><a href="shell-notifications.html" title="Értesítések és az üzenettálca">értesítések</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Hasznos gyorsbillentyűk">gyorsbillentyűk</a></span>, <span class="link"><a href="shell-windows.html" title="Ablakok és munkaterületek">ablakok és munkaterületek</a></span>…</span>
+<a href="shell-overview.html.hu" title="Az asztal">Az asztal</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.hu" title="Naptári találkozók">naptár</a></span>, <span class="link"><a href="shell-notifications.html.hu" title="Értesítések és az üzenettálca">értesítések</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.hu" title="Hasznos gyorsbillentyűk">gyorsbillentyűk</a></span>, <span class="link"><a href="shell-windows.html.hu" title="Ablakok és munkaterületek">ablakok és munkaterületek</a></span>…</span>
 </li>
-<li class="links "><a href="index.html" title="Ubuntu felhasználói kézikönyv">Ubuntu felhasználói kézikönyv</a></li>
+<li class="links "><a href="index.html.hu" title="Ubuntu felhasználói kézikönyv">Ubuntu felhasználói kézikönyv</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-use-system-search.html" title="Rendszerkeresés használata">Ismertető a rendszerkeresés használatához</a></li>
-<li class="links "><a href="gs-launch-applications.html" title="Alkalmazások indítása">Ismertető alkalmazások indításához</a></li>
+<li class="links "><a href="gs-use-system-search.html.hu" title="Rendszerkeresés használata">Ismertető a rendszerkeresés használatához</a></li>
+<li class="links "><a href="gs-launch-applications.html.hu" title="Alkalmazások indítása">Ismertető alkalmazások indításához</a></li>
 <li class="links ">
-<a href="shell-apps-favorites.html" title="Kedvenc alkalmazások hozzáadása az indítópanelhez">Kedvenc alkalmazások hozzáadása az indítópanelhez</a><span class="desc"> — Gyakran használt programikonok hozzáadása az indítópanelhez.</span>
+<a href="shell-apps-favorites.html.hu" title="Kedvenc alkalmazások hozzáadása az indítópanelhez">Kedvenc alkalmazások hozzáadása az indítópanelhez</a><span class="desc"> — Gyakran használt programikonok hozzáadása az indítópanelhez.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problemas de rede</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-slow.html" title="A Internet parece estar lenta"><span class="title">A Internet parece estar lenta</span><span class="linkdiv-dash"> — </span><span class="desc">Outras coisas podem estar baixando, você pode ter uma conexão ruim ou pode ser um horário concorrido do dia.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="Eu não consigo ver minha rede sem fio na lista"><span class="title">Eu não consigo ver minha rede sem fio na lista</span><span class="linkdiv-dash"> — </span><span class="desc">A placa de rede pode estar desligada ou quebrada, ou você pode estar tentando conectar a uma rede oculta.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="Outros usuários não conseguem editar as conexões de rede"><span class="title">Outros usuários não conseguem editar as conexões de rede</span><span class="linkdiv-dash"> — </span><span class="desc">Você precisa desmarcar a opção <span class="gui">Disponível para todos os usuários</span> nas configurações de rede.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-slow.html.pt-BR" title="A Internet parece estar lenta"><span class="title">A Internet parece estar lenta</span><span class="linkdiv-dash"> — </span><span class="desc">Outras coisas podem estar baixando, você pode ter uma conexão ruim ou pode ser um horário concorrido do dia.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html.pt-BR" title="Eu não consigo ver minha rede sem fio na lista"><span class="title">Eu não consigo ver minha rede sem fio na lista</span><span class="linkdiv-dash"> — </span><span class="desc">A placa de rede pode estar desligada ou quebrada, ou você pode estar tentando conectar a uma rede oculta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html.pt-BR" title="Outros usuários não conseguem editar as conexões de rede"><span class="title">Outros usuários não conseguem editar as conexões de rede</span><span class="linkdiv-dash"> — </span><span class="desc">Você precisa desmarcar a opção <span class="gui">Disponível para todos os usuários</span> nas configurações de rede.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="Outros usuários não conseguem se conectar à Internet"><span class="title">Outros usuários não conseguem se conectar à Internet</span><span class="linkdiv-dash"> — </span><span class="desc">Você pode salvar configurações (como a senha) de uma conexão de rede de forma que todos que usam o computador poderão se conectar a ela.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="Por que minha conexão sem fio fica desconectando?"><span class="title">Por que minha conexão sem fio fica desconectando?</span><span class="linkdiv-dash"> — </span><span class="desc">Você pode ter um sinal fraco ou a rede pode não estar permitindo que você se conecte apropriadamente.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html.pt-BR" title="Outros usuários não conseguem se conectar à Internet"><span class="title">Outros usuários não conseguem se conectar à Internet</span><span class="linkdiv-dash"> — </span><span class="desc">Você pode salvar configurações (como a senha) de uma conexão de rede de forma que todos que usam o computador poderão se conectar a ela.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html.pt-BR" title="Por que minha conexão sem fio fica desconectando?"><span class="title">Por que minha conexão sem fio fica desconectando?</span><span class="linkdiv-dash"> — </span><span class="desc">Você pode ter um sinal fraco ou a rede pode não estar permitindo que você se conecte apropriadamente.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -65,13 +65,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Rede sem fio">Rede sem fio</a></span>, <span class="link"><a href="net-wired.html" title="Rede com fio">rede cabeada</a></span>, <span class="link"><a href="net-problem.html" title="Problemas de rede">problemas de conexão</a></span>, <span class="link"><a href="net-browser.html" title="Navegadores web">navegação web</a></span>, <span class="link"><a href="net-email.html" title="E-mail &amp; software de e-mail">contas de e-mail</a></span>…</span>
+<a href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.pt-BR" title="Rede sem fio">Rede sem fio</a></span>, <span class="link"><a href="net-wired.html.pt-BR" title="Rede com fio">rede cabeada</a></span>, <span class="link"><a href="net-problem.html.pt-BR" title="Problemas de rede">problemas de conexão</a></span>, <span class="link"><a href="net-browser.html.pt-BR" title="Navegadores web">navegação web</a></span>, <span class="link"><a href="net-email.html.pt-BR" title="E-mail &amp; software de e-mail">contas de e-mail</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Rede sem fio">Rede sem fio</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Conectando a uma rede sem fio">Conectar-se a redes sem fio</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Conectando a um rede sem fio oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Por que minha conexão sem fio fica desconectando?">desconectando</a></span>…</span>
+<a href="net-wireless.html.pt-BR" title="Rede sem fio">Rede sem fio</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pt-BR" title="Conectando a uma rede sem fio">Conectar-se a redes sem fio</a></span>, <span class="link"><a href="net-wireless-hidden.html.pt-BR" title="Conectando a um rede sem fio oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pt-BR" title="Por que minha conexão sem fio fica desconectando?">desconectando</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

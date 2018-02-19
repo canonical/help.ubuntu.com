@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="power.html" title="Enerxía e batería">Enerxía e batería</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="power.html" title="Enerxía e batería">Enerxía e batería</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,14 +56,14 @@
 <div id="general" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Consellos xerais</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#suspend" title="Suspender">Suspenda o seu computador</a></span> cando non o estea usando. Isto reduce significativamente a enerxía que consule e pode reanudar o seu computador moi rapidamente.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#shutdown" title="Apagar ou reiniciar">Apague</a></span> o computador cando non o use durante un período longo de tempo. Algunha xente cree que ao apagar o computdor de forma regular pode causar que arrinque máis rápido, pero iste non é o caso.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.gl-GL#suspend" title="Suspender">Suspenda o seu computador</a></span> cando non o estea usando. Isto reduce significativamente a enerxía que consule e pode reanudar o seu computador moi rapidamente.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.gl-GL#shutdown" title="Apagar ou reiniciar">Apague</a></span> o computador cando non o use durante un período longo de tempo. Algunha xente cree que ao apagar o computdor de forma regular pode causar que arrinque máis rápido, pero iste non é o caso.</p></li>
 <li class="list"><p class="p">Use the <span class="gui">Power</span> panel in <span class="app">Settings</span> to change your
     power settings. There are a number of options that will help to save power:
-    you can <span class="link"><a href="display-blank.html" title="Set screen blanking time">automatically blank the screen</a></span>
-    after a certain time, reduce the <span class="link"><a href="display-brightness.html" title="Estabelecer o brillo da pantalla">screen
+    you can <span class="link"><a href="display-blank.html.gl-GL" title="Set screen blanking time">automatically blank the screen</a></span>
+    after a certain time, reduce the <span class="link"><a href="display-brightness.html.gl-GL" title="Estabelecer o brillo da pantalla">screen
     brightness</a></span>, and have the computer
-    <span class="link"><a href="power-autosuspend.html" title="Set up automatic suspend">automatically suspend</a></span> if you have not
+    <span class="link"><a href="power-autosuspend.html.gl-GL" title="Set up automatic suspend">automatically suspend</a></span> if you have not
     used it for a certain period of time.</p></li>
 <li class="list"><p class="p">Apague os seus dispositivos externos (como as impresoras e escáneres) cando non os use.</p></li>
 </ul></div></div></div></div></div>
@@ -72,7 +72,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Portátiles, miniportátiles e outros dispositivos con baterías</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Reduce the <span class="link"><a href="display-brightness.html" title="Estabelecer o brillo da pantalla">screen
+<p class="p">Reduce the <span class="link"><a href="display-brightness.html.gl-GL" title="Estabelecer o brillo da pantalla">screen
      brightness</a></span>. Powering the screen accounts for a significant fraction
      of a laptop power consumption.</p>
 <p class="p">A maioría dos portátiles teñen botóns no teclado (ou nos atallos do teclado) que pode usar para reducir o brillo.</p>
@@ -100,36 +100,36 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Enerxía e batería">Enerxía e batería</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Que acontece cando suspendo o meu computador?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Porqué a pantalla escurece logo duns segundos?">screen dimming</a></span>…
+<a href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.gl-GL" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.gl-GL" title="Porqué a pantalla escurece logo duns segundos?">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html#shutdown" title="Apagar ou reiniciar">Apagar ou reiniciar</a></li>
+<li class="links "><a href="shell-exit.html.gl-GL#shutdown" title="Apagar ou reiniciar">Apagar ou reiniciar</a></li>
 <li class="links ">
-<a href="power-status.html" title="Check the battery status">Check the battery status</a><span class="desc"> — Display the status of the battery and connected devices.</span>
+<a href="power-status.html.gl-GL" title="Check the battery status">Check the battery status</a><span class="desc"> — Display the status of the battery and connected devices.</span>
 </li>
 <li class="links ">
-<a href="display-brightness.html" title="Estabelecer o brillo da pantalla">Estabelecer o brillo da pantalla</a><span class="desc"> — Change the screen brightness to make it more readable in bright
+<a href="display-brightness.html.gl-GL" title="Estabelecer o brillo da pantalla">Estabelecer o brillo da pantalla</a><span class="desc"> — Change the screen brightness to make it more readable in bright
     light.</span>
 </li>
 <li class="links ">
-<a href="power-batterywindows.html" title="Por que teño menor tempo de batería que o que tiña en Windows/Mac OS?">Por que teño menor tempo de batería que o que tiña en Windows/Mac OS?</a><span class="desc"> — Os axustes dos fabricantes e diferentes estimacións de duración da batería poden ser a causa deste problema.</span>
+<a href="power-batterywindows.html.gl-GL" title="Por que teño menor tempo de batería que o que tiña en Windows/Mac OS?">Por que teño menor tempo de batería que o que tiña en Windows/Mac OS?</a><span class="desc"> — Os axustes dos fabricantes e diferentes estimacións de duración da batería poden ser a causa deste problema.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="Porqué a pantalla escurece logo duns segundos?">Porqué a pantalla escurece logo duns segundos?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
+<a href="power-whydim.html.gl-GL" title="Porqué a pantalla escurece logo duns segundos?">Porqué a pantalla escurece logo duns segundos?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Que acontece cando suspendo o meu computador?">Que acontece cando suspendo o meu computador?</a><span class="desc"> — Suspender pon o seu computador a durmir para que use menos enerxía.</span>
+<a href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?">Que acontece cando suspendo o meu computador?</a><span class="desc"> — Suspender pon o seu computador a durmir para que use menos enerxía.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Suspender">Suspender</a></li>
+<li class="links "><a href="shell-exit.html.gl-GL#suspend" title="Suspender">Suspender</a></li>
 <li class="links ">
-<a href="power-wireless.html" title="Switch off unused wireless technologies">Switch off unused wireless technologies</a><span class="desc"> — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span>
+<a href="power-wireless.html.gl-GL" title="Switch off unused wireless technologies">Switch off unused wireless technologies</a><span class="desc"> — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span>
 </li>
 </ul></div>
 </div></div>

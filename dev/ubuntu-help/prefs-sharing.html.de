@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Einstellungen zur Freigabe</span></h1></div>
@@ -52,13 +52,13 @@
 <p class="p">Die <span class="em">Freigabe-Einstellungen</span> in GNOME helfen Ihnen festzulegen, was über das lokale Netzwerk oder über andere Technologien wie <span class="em">Bluetooth</span> freigegeben wird.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html" title="Legen Sie den Anzeigenamen Ihres Rechners fest"><span class="title">Legen Sie den Anzeigenamen Ihres Rechners fest</span><span class="linkdiv-dash"> — </span><span class="desc">Legen Sie fest, wie Ihr Rechner für andere Rechner oder Geräte erscheint.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Freigabe über Bluetooth steuern"><span class="title">Freigabe über Bluetooth steuern</span><span class="linkdiv-dash"> — </span><span class="desc">Erlauben Sie es, Dateien auf Ihren Rechner via Bluetooth zu laden.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html" title="Ihre Arbeitsumgebung freigeben"><span class="title">Ihre Arbeitsumgebung freigeben</span><span class="linkdiv-dash"> — </span><span class="desc">Anderen Personen erlauben, Ihre Arbeitsumgebung via VNC zu betrachten und zu verwenden.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.de" title="Legen Sie den Anzeigenamen Ihres Rechners fest"><span class="title">Legen Sie den Anzeigenamen Ihres Rechners fest</span><span class="linkdiv-dash"> — </span><span class="desc">Legen Sie fest, wie Ihr Rechner für andere Rechner oder Geräte erscheint.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.de" title="Freigabe über Bluetooth steuern"><span class="title">Freigabe über Bluetooth steuern</span><span class="linkdiv-dash"> — </span><span class="desc">Erlauben Sie es, Dateien auf Ihren Rechner via Bluetooth zu laden.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.de" title="Ihre Arbeitsumgebung freigeben"><span class="title">Ihre Arbeitsumgebung freigeben</span><span class="linkdiv-dash"> — </span><span class="desc">Anderen Personen erlauben, Ihre Arbeitsumgebung via VNC zu betrachten und zu verwenden.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-media.html" title="Ihre Musik, Fotos und Videos freigeben"><span class="title">Ihre Musik, Fotos und Videos freigeben</span><span class="linkdiv-dash"> — </span><span class="desc">Freigeben von Medien im lokalen Netzwerk mittels UPnP.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html" title="Ihre persönlichen Dateien freigeben"><span class="title">Ihre persönlichen Dateien freigeben</span><span class="linkdiv-dash"> — </span><span class="desc">Andere Personen auf Dateien in Ihrem Ordner <span class="file">Öffentlich</span> zugreifen lassen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-media.html.de" title="Ihre Musik, Fotos und Videos freigeben"><span class="title">Ihre Musik, Fotos und Videos freigeben</span><span class="linkdiv-dash"> — </span><span class="desc">Freigeben von Medien im lokalen Netzwerk mittels UPnP.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.de" title="Ihre persönlichen Dateien freigeben"><span class="title">Ihre persönlichen Dateien freigeben</span><span class="linkdiv-dash"> — </span><span class="desc">Andere Personen auf Dateien in Ihrem Ordner <span class="file">Öffentlich</span> zugreifen lassen.</span></a></div>
 </div>
 </div></div></div>
 </div>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Benutzer- und Systemeinstellungen">Benutzer- und Systemeinstellungen</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tastatur">Tastatur</a></span>, <span class="link"><a href="mouse.html" title="Maus">Maus</a></span>, <span class="link"><a href="prefs-display.html" title="Anzeige und Bildschirm">Anzeige</a></span>, <span class="link"><a href="prefs-language.html" title="Region und Sprache">Sprachen</a></span>, <span class="link"><a href="user-accounts.html" title="Benutzerkonten">Benutzerkonten</a></span> …</span>
+<a href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Benutzer- und Systemeinstellungen</a><span class="desc"> — <span class="link"><a href="keyboard.html.de" title="Tastatur">Tastatur</a></span>, <span class="link"><a href="mouse.html.de" title="Maus">Maus</a></span>, <span class="link"><a href="prefs-display.html.de" title="Anzeige und Bildschirm">Anzeige</a></span>, <span class="link"><a href="prefs-language.html.de" title="Region und Sprache">Sprachen</a></span>, <span class="link"><a href="user-accounts.html.de" title="Benutzerkonten">Benutzerkonten</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

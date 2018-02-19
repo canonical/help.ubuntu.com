@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="media.html#sound" title="Základy ke zvuku">Zvuk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="media.html.cs#sound" title="Základy ke zvuku">Zvuk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Běžné problémy">Problémy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html.cs#problems" title="Běžné problémy">Problémy</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,8 +55,8 @@
 <div class="contents">
 <p class="p">Existuje řada věcí, které se mohou při přehrávání zvuku na počítači pokazit. Které z následujících témat popisuje nejlépe problém, na který jste narazili?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="sound-nosound.html" title="Neslyším z počítače žádný zvuk"><span class="title">Neslyším z počítače žádný zvuk</span><span class="linkdiv-dash"> — </span><span class="desc">Zkontrolujte, jestli zvuk není ztišený, kabel je správně zastrčený a zvuková karta detekovaná.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-crackle.html" title="Při přehrávání zvuku slyším praskání a bzučení"><span class="title">Při přehrávání zvuku slyším praskání a bzučení</span><span class="linkdiv-dash"> — </span><span class="desc">Zkontrolujte audiokabely a ovladače zvukové karty.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-nosound.html.cs" title="Neslyším z počítače žádný zvuk"><span class="title">Neslyším z počítače žádný zvuk</span><span class="linkdiv-dash"> — </span><span class="desc">Zkontrolujte, jestli zvuk není ztišený, kabel je správně zastrčený a zvuková karta detekovaná.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-crackle.html.cs" title="Při přehrávání zvuku slyším praskání a bzučení"><span class="title">Při přehrávání zvuku slyším praskání a bzučení</span><span class="linkdiv-dash"> — </span><span class="desc">Zkontrolujte audiokabely a ovladače zvukové karty.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,9 +64,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="hardware.html#problems" title="Běžné problémy">Problémy s hardwarem</a></li>
+<li class="links "><a href="hardware.html.cs#problems" title="Běžné problémy">Problémy s hardwarem</a></li>
 <li class="links ">
-<a href="media.html#sound" title="Základy ke zvuku">Základy ke zvuku</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Změna hlasitosti">Hlasitost</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Používání rozličných reproduktorů a sluchátek">reproduktory a sluchátka</a></span>, <span class="link"><a href="sound-usemic.html" title="Používání rozličných mikrofónů">mikrofony</a></span>…</span>
+<a href="media.html.cs#sound" title="Základy ke zvuku">Základy ke zvuku</a><span class="desc"> — <span class="link"><a href="sound-volume.html.cs" title="Změna hlasitosti">Hlasitost</a></span>, <span class="link"><a href="sound-usespeakers.html.cs" title="Používání rozličných reproduktorů a sluchátek">reproduktory a sluchátka</a></span>, <span class="link"><a href="sound-usemic.html.cs" title="Používání rozličných mikrofónů">mikrofony</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

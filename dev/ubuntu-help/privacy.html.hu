@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Adatvédelmi beállítások</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">A GNOME <span class="em">adatvédelmi beállításai</span> segítenek felügyelni, hogy az asztali környezet egyes részei láthatók-e mások számára. Ezen beállításokkal törölheti a számítógép használati előzményeket és a szükségtelen fájlokat. </p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html" title="Fájlelőzmények követésének kikapcsolása vagy korlátozása"><span class="title">Fájlelőzmények követésének kikapcsolása vagy korlátozása</span><span class="linkdiv-dash"> — </span><span class="desc">A legutóbb használt fájlok követésének kikapcsolása vagy korlátozása.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html" title="Kuka és ideiglenes fájlok törlése"><span class="title">Kuka és ideiglenes fájlok törlése</span><span class="linkdiv-dash"> — </span><span class="desc">A Kuka ürítésének és az ideiglenes fájlok törlési gyakoriságának beállítása.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html" title="Képernyő automatikus zárolása"><span class="title">Képernyő automatikus zárolása</span><span class="linkdiv-dash"> — </span><span class="desc">Mások megakadályozása a számítógép használatában, mialatt nincs a számítógépénél.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-location.html" title="Helymeghatározási szolgáltatások irányítása"><span class="title">Helymeghatározási szolgáltatások irányítása</span><span class="linkdiv-dash"> — </span><span class="desc">A helymeghatározás engedélyezése vagy letiltása.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.hu" title="Fájlelőzmények követésének kikapcsolása vagy korlátozása"><span class="title">Fájlelőzmények követésének kikapcsolása vagy korlátozása</span><span class="linkdiv-dash"> — </span><span class="desc">A legutóbb használt fájlok követésének kikapcsolása vagy korlátozása.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.hu" title="Kuka és ideiglenes fájlok törlése"><span class="title">Kuka és ideiglenes fájlok törlése</span><span class="linkdiv-dash"> — </span><span class="desc">A Kuka ürítésének és az ideiglenes fájlok törlési gyakoriságának beállítása.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.hu" title="Képernyő automatikus zárolása"><span class="title">Képernyő automatikus zárolása</span><span class="linkdiv-dash"> — </span><span class="desc">Mások megakadályozása a számítógép használatában, mialatt nincs a számítógépénél.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-location.html.hu" title="Helymeghatározási szolgáltatások irányítása"><span class="title">Helymeghatározási szolgáltatások irányítása</span><span class="linkdiv-dash"> — </span><span class="desc">A helymeghatározás engedélyezése vagy letiltása.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,7 +62,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Billentyűzet">Billentyűzet</a></span>, <span class="link"><a href="mouse.html" title="Egér">egér</a></span>, <span class="link"><a href="prefs-display.html" title="Megjelenítés és képernyő">kijelző</a></span>, <span class="link"><a href="prefs-language.html" title="Terület és nyelv">nyelvek</a></span>, <span class="link"><a href="user-accounts.html" title="Felhasználói fiókok">felhasználók</a></span>…</span>
+<a href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a><span class="desc"> — <span class="link"><a href="keyboard.html.hu" title="Billentyűzet">Billentyűzet</a></span>, <span class="link"><a href="mouse.html.hu" title="Egér">egér</a></span>, <span class="link"><a href="prefs-display.html.hu" title="Megjelenítés és képernyő">kijelző</a></span>, <span class="link"><a href="prefs-language.html.hu" title="Terület és nyelv">nyelvek</a></span>, <span class="link"><a href="user-accounts.html.hu" title="Felhasználói fiókok">felhasználók</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

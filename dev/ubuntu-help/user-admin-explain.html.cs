@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="user-accounts.html" title="Uživatelské účty">Uživatelé</a> › <a class="trail" href="user-accounts.html#privileges" title="Uživatelská oprávnění">Oprávnění</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="user-accounts.html.cs" title="Uživatelské účty">Uživatelé</a> › <a class="trail" href="user-accounts.html.cs#privileges" title="Uživatelská oprávnění">Oprávnění</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Jak fungují oprávnění správce?</span></h1></div>
@@ -72,34 +72,34 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Uživatelská oprávnění">Uživatelská oprávnění</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.cs#privileges" title="Uživatelská oprávnění">Uživatelská oprávnění</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="printing-setup-default-printer.html" title="Nastavení výchozí tiskárny">Nastavení výchozí tiskárny</a><span class="desc"> — Vyberte si tiskárnu, kterou používáte nejčastěji.</span>
+<a href="printing-setup-default-printer.html.cs" title="Nastavení výchozí tiskárny">Nastavení výchozí tiskárny</a><span class="desc"> — Vyberte si tiskárnu, kterou používáte nejčastěji.</span>
 </li>
 <li class="links ">
-<a href="net-othersedit.html" title="Ostatní uživatelé nemohou upravovat síťové připojení">Ostatní uživatelé nemohou upravovat síťové připojení</a><span class="desc"> — Musíte zrušit zaškrtnutí volby <span class="gui">Zpřístupnit ostatním uživatelům</span> v nastavení síťového připojení.</span>
+<a href="net-othersedit.html.cs" title="Ostatní uživatelé nemohou upravovat síťové připojení">Ostatní uživatelé nemohou upravovat síťové připojení</a><span class="desc"> — Musíte zrušit zaškrtnutí volby <span class="gui">Zpřístupnit ostatním uživatelům</span> v nastavení síťového připojení.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="Problémy způsobené omezeními od správců">Problémy způsobené omezeními od správců</a><span class="desc"> — Některé věci, jako třeba instalovat aplikace, můžete dělat jen s oprávněním správce.</span>
+<a href="user-admin-problems.html.cs" title="Problémy způsobené omezeními od správců">Problémy způsobené omezeními od správců</a><span class="desc"> — Některé věci, jako třeba instalovat aplikace, můžete dělat jen s oprávněním správce.</span>
 </li>
 <li class="links ">
-<a href="user-delete.html" title="Smazání uživatelského účtu">Smazání uživatelského účtu</a><span class="desc"> — Jak odebrat uživatele, který počítač nadále nebude používat.</span>
+<a href="user-delete.html.cs" title="Smazání uživatelského účtu">Smazání uživatelského účtu</a><span class="desc"> — Jak odebrat uživatele, který počítač nadále nebude používat.</span>
 </li>
 <li class="links ">
-<a href="printing-name-location.html" title="Změna názvu nebo umístění tiskárny">Změna názvu nebo umístění tiskárny</a><span class="desc"> — Jak změnit název nebo umístění tiskárny v nastaveních tiskárny.</span>
+<a href="printing-name-location.html.cs" title="Změna názvu nebo umístění tiskárny">Změna názvu nebo umístění tiskárny</a><span class="desc"> — Jak změnit název nebo umístění tiskárny v nastaveních tiskárny.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="Změna osob s oprávněním správce">Změna osob s oprávněním správce</a><span class="desc"> — Jak přidělením oprávnění správce umožnit uživatelům provádět změny systému.</span>
+<a href="user-admin-change.html.cs" title="Změna osob s oprávněním správce">Změna osob s oprávněním správce</a><span class="desc"> — Jak přidělením oprávnění správce umožnit uživatelům provádět změny systému.</span>
 </li>
 <li class="links ">
-<a href="user-changepassword.html" title="Změna vašeho hesla">Změna vašeho hesla</a><span class="desc"> — Zachovejte bezpečnost svého účtu tím, že v nastavení účtu budete často měnit heslo.</span>
+<a href="user-changepassword.html.cs" title="Změna vašeho hesla">Změna vašeho hesla</a><span class="desc"> — Zachovejte bezpečnost svého účtu tím, že v nastavení účtu budete často měnit heslo.</span>
 </li>
 <li class="links ">
-<a href="user-changepicture.html" title="Změna vaší fotografie na přihlašovací obrazovce">Změna vaší fotografie na přihlašovací obrazovce</a><span class="desc"> — Jak přidat svoji fotografii do přihlašovací a uživatelské obrazovky.</span>
+<a href="user-changepicture.html.cs" title="Změna vaší fotografie na přihlašovací obrazovce">Změna vaší fotografie na přihlašovací obrazovce</a><span class="desc"> — Jak přidat svoji fotografii do přihlašovací a uživatelské obrazovky.</span>
 </li>
 </ul></div>
 </div></div>

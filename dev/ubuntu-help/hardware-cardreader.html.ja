@@ -44,20 +44,20 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="サウンド、ビデオ、画像">サウンド、ビデオ、画像</a> › <a class="trail" href="media.html#photos" title="写真とデジタルカメラ">写真</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ja" title="サウンド、ビデオ、画像">サウンド、ビデオ、画像</a> › <a class="trail" href="media.html.ja#photos" title="写真とデジタルカメラ">写真</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="ハードウェアとドライバー">ハードウェア</a> › <a class="trail" href="hardware.html#problems" title="よくある問題">問題</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> › <a class="trail" href="hardware.html.ja#problems" title="よくある問題">問題</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">メディアカードリーダーの問題</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">多くのコンピューターはSD、MMC、SM、MS、CF、その他のストレージメディアカードのリーダーを備えています。これらメディアカードは自動的に検出され、<span class="link"><a href="disk-partitions.html" title="Manage volumes and partitions">マウント</a></span>されます。ここでは、メディアカードがマウントされない問題を解決する方法を紹介します。</p>
+<p class="p">多くのコンピューターはSD、MMC、SM、MS、CF、その他のストレージメディアカードのリーダーを備えています。これらメディアカードは自動的に検出され、<span class="link"><a href="disk-partitions.html.ja" title="Manage volumes and partitions">マウント</a></span>されます。ここでは、メディアカードがマウントされない問題を解決する方法を紹介します。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">カードが正しく挿入されていることを確認してください。カードを上下逆にしてみると適切に挿入できることもよくあります。また、カードがしっかりとスロットに収まっていることも確認してください。カードによっては、特にCFの場合、正しく挿入するために少し力が必要になります (強く押し込み過ぎないように注意してください。もし抵抗を感じたら、それ以上押し込まないでください)。</p></li>
 <li class="steps"><p class="p">Open <span class="app">Files</span> from the
-  <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview. Does the inserted
+  <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview. Does the inserted
   card appear in the <span class="gui">Devices</span> list in the left sidebar? Sometimes the
   card appears in this list but is not mounted; click it once to mount. (If the
   sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
@@ -82,8 +82,8 @@ Linux.</p>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="hardware.html#problems" title="よくある問題">ハードウェアの問題</a></li>
-<li class="links "><a href="media.html#photos" title="写真とデジタルカメラ">写真</a></li>
+<li class="links "><a href="hardware.html.ja#problems" title="よくある問題">ハードウェアの問題</a></li>
+<li class="links "><a href="media.html.ja#photos" title="写真とデジタルカメラ">写真</a></li>
 </ul></div>
 </div></div></div>
 </div>

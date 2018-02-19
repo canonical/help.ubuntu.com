@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html#common-file-tasks" title="Tugas umum">Tugas umum</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#common-file-tasks" title="Tugas umum">Tugas umum</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mengubah nama berkas atau folder</span></h1></div>
@@ -59,7 +59,7 @@
     <span class="gui">Rename</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Anda juga dapat mengubah nama dari jendela <span class="link"><a href="nautilus-file-properties-basic.html" title="Properti berkas">properti</a></span>.</p>
+<p class="p">Anda juga dapat mengubah nama dari jendela <span class="link"><a href="nautilus-file-properties-basic.html.id" title="Properti berkas">properti</a></span>.</p>
 <p class="p">When you rename a file, only the first part of the name of the file is
   selected, not the file extension (the part after the last <span class="file">.</span>).
   The extension normally denotes what type of file it is (for example,
@@ -82,7 +82,7 @@
     <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>,
     <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
 <div class="note note-warning" title="Peringatan"><div class="inner"><div class="region"><div class="contents"><p class="p">If you name a file with a <span class="file">.</span> as the first character, the
-    file will be <span class="link"><a href="files-hidden.html" title="Menyembunyikan berkas">hidden</a></span> when you attempt to
+    file will be <span class="link"><a href="files-hidden.html.id" title="Menyembunyikan berkas">hidden</a></span> when you attempt to
     view it in the file manager.</p></div></div></div></div>
 </div></div>
 </div></div>
@@ -109,7 +109,7 @@
 <dd class="terms"><p class="p">If <span class="gui">Rename</span> is grayed out, you do not have permission to
         rename the file. You should use caution with renaming such files, as
         renaming some protected files may cause your system to become unstable.
-        See <span class="link"><a href="nautilus-file-properties-permissions.html" title="Menata izin berkas">Menata izin berkas</a></span> for more
+        See <span class="link"><a href="nautilus-file-properties-permissions.html.id" title="Menata izin berkas">Menata izin berkas</a></span> for more
         information.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
@@ -117,7 +117,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Tugas umum">Tugas umum</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.id#common-file-tasks" title="Tugas umum">Tugas umum</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

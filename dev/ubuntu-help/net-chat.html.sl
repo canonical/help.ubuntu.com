@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Klepet in družabna omrežja</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html" title="Hipno sporočanje na Ubuntuju"><span class="title">Hipno sporočanje na Ubuntuju</span><span class="linkdiv-dash"> — </span><span class="desc">Z <span class="app">Empathy</span> lahko klepetate, vzpostavljate zvočne in video klice s prijatelji in znanci na številnih omrežjih.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html" title="Video klici"><span class="title">Video klici</span><span class="linkdiv-dash"> — </span><span class="desc">Katere programe lahko uporabim za izvajanje video klicev?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html.sl" title="Hipno sporočanje na Ubuntuju"><span class="title">Hipno sporočanje na Ubuntuju</span><span class="linkdiv-dash"> — </span><span class="desc">Z <span class="app">Empathy</span> lahko klepetate, vzpostavljate zvočne in video klice s prijatelji in znanci na številnih omrežjih.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html.sl" title="Video klici"><span class="title">Video klici</span><span class="linkdiv-dash"> — </span><span class="desc">Katere programe lahko uporabim za izvajanje video klicev?</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html" title="Kako lahko na Ubuntuju uporabljam Skype?"><span class="title">Kako lahko na Ubuntuju uporabljam Skype?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> je lastniški program, zato ga je treba na Ubuntuju ročno namestiti.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html.sl" title="Kako lahko na Ubuntuju uporabljam Skype?"><span class="title">Kako lahko na Ubuntuju uporabljam Skype?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> je lastniški program, zato ga je treba na Ubuntuju ročno namestiti.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -61,16 +61,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Brezžične povezave">Brezžično</a></span>, <span class="link"><a href="net-wired.html" title="Žične povezave">žično</a></span>, <span class="link"><a href="net-problem.html" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html" title="Spletni brskalniki">spletno brskanje</a></span>, <span class="link"><a href="net-email.html" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span>
+<a href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sl" title="Brezžične povezave">Brezžično</a></span>, <span class="link"><a href="net-wired.html.sl" title="Žične povezave">žično</a></span>, <span class="link"><a href="net-problem.html.sl" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html.sl" title="Spletni brskalniki">spletno brskanje</a></span>, <span class="link"><a href="net-email.html.sl" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Spletni računi">Spletni računi</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Dodaj račun">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Odstranitev računa">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.sl" title="Spletni računi">Spletni računi</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.sl" title="Dodaj račun">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.sl" title="Odstranitev računa">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.sl" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div>

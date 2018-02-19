@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="bluetooth.html.sv" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Anslut din dator till en Bluetooth-enhet</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">Innan du kan använda en Bluetooth-enhet som en mus eller ett par hörlurar, måste du först ansluta din dator till enheten. Detta kallas också att <span class="em">para</span> Bluetooth-enheterna.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Bluetooth</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Försäkra dig om att Bluetooth är aktiverat: knappen högst upp ska vara ställd till <span class="gui">PÅ</span>. Med panelen öppen och knappen <span class="gui">PÅ</span>, så kommer din dator att börja söka efter enheter.</p></li>
-<li class="steps"><p class="p">Gör din andra Bluetooth-enhet <span class="link"><a href="bluetooth-visibility.html" title="Vad är Bluetooth-synlighet?">detekterbar eller synlig</a></span> och placera den inom 5-10 meter från din dator.</p></li>
+<li class="steps"><p class="p">Gör din andra Bluetooth-enhet <span class="link"><a href="bluetooth-visibility.html.sv" title="Vad är Bluetooth-synlighet?">detekterbar eller synlig</a></span> och placera den inom 5-10 meter från din dator.</p></li>
 <li class="steps"><p class="p">Klicka på enheten i listan <span class="gui">Enheter</span>. Panelen för den enheten kommer att öppnas.</p></li>
 <li class="steps">
 <p class="p">Om det behövs, bekräfta PIN-koden på din andra enhet. Enheten bör visa PIN-koden du ser på din datorskärm. Bekräfta PIN-koden på enheten (du kan behöva klicka på <span class="gui">Para</span> eller <span class="gui">Bekräfta</span>), klicka sedan på <span class="gui">Bekräfta</span> på datorn.</p>
@@ -73,17 +73,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Anslut din dator till en Bluetooth-enhet">Anslut</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Skicka filer till en Bluetooth-enhet">skicka filer</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Aktivera eller inaktivera Bluetooth">aktivera och inaktivera</a></span>…</span>
+<a href="bluetooth.html.sv" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.sv" title="Anslut din dator till en Bluetooth-enhet">Anslut</a></span>, <span class="link"><a href="bluetooth-send-file.html.sv" title="Skicka filer till en Bluetooth-enhet">skicka filer</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.sv" title="Aktivera eller inaktivera Bluetooth">aktivera och inaktivera</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-remove-connection.html" title="Koppla ifrån en Bluetooth-enhet">Koppla ifrån en Bluetooth-enhet</a><span class="desc"> — Ta bort en enhet från listan över Bluetooth-enheter.</span>
+<a href="bluetooth-remove-connection.html.sv" title="Koppla ifrån en Bluetooth-enhet">Koppla ifrån en Bluetooth-enhet</a><span class="desc"> — Ta bort en enhet från listan över Bluetooth-enheter.</span>
 </li>
 <li class="links ">
-<a href="sharing-bluetooth.html" title="Styr delning över Bluetooth">Styr delning över Bluetooth</a><span class="desc"> — Låt filer skickas till din dator över Bluetooth.</span>
+<a href="sharing-bluetooth.html.sv" title="Styr delning över Bluetooth">Styr delning över Bluetooth</a><span class="desc"> — Låt filer skickas till din dator över Bluetooth.</span>
 </li>
 </ul></div>
 </div></div>

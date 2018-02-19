@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Acces universal">Acces universal</a> › <a class="trail" href="a11y.html#mobility" title="Afecțiuni de mobilitate">Afecțiuni de mobilitate</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ro" title="Acces universal">Acces universal</a> › <a class="trail" href="a11y.html.ro#mobility" title="Afecțiuni de mobilitate">Afecțiuni de mobilitate</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="mouse.html.ro" title="Mouse">Mouse</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">Settings</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="User &amp; system settings">Settings</a> » <a class="trail" href="mouse.html.ro" title="Mouse">Mouse</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">Puteți efectua un clic dreapta apăsând butonul stâng al mausului. Aceasta este folositor persoanelor care prezintă dificultăți în mișcarea individuală a degetelor unei mâini, sau dacă mausul are doar un singur buton.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Acces universal</span>.</p></li>
+<li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Acces universal</span>.</p></li>
 <li class="steps"><p class="p">Apăsați pe <span class="gui">Acces universal</span> pentru a deschide panoul.</p></li>
 <li class="steps"><p class="p">Apăsați <span class="gui">Asistență la clic</span> în secțiunea <span class="gui">Cursor și maus</span>.</p></li>
 <li class="steps"><p class="p">Comutați <span class="gui">Clic secundar simulat</span> la <span class="gui">ON</span>.</p></li>
@@ -72,7 +72,7 @@
 <p class="p">Some special pointers, such as the resize pointers, do not change colors.
   You can still use simulated secondary click as normal, even if you do not get
   visual feedback from the pointer.</p>
-<p class="p">If you use <span class="link"><a href="mouse-mousekeys.html" title="Click and move mouse pointer using the keypad">Mouse Keys</a></span>, this also
+<p class="p">If you use <span class="link"><a href="mouse-mousekeys.html.ro" title="Click and move mouse pointer using the keypad">Mouse Keys</a></span>, this also
   allows you to right-click by holding down the <span class="key"><kbd>5</kbd></span> key on your
   keypad.</p>
 <div class="note" title="Notă"><div class="inner"><div class="region"><div class="contents"><p class="p">In the <span class="gui">Activities</span> overview, you are always able to long-press
@@ -85,12 +85,12 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Afecțiuni de mobilitate">Afecțiuni de mobilitate</a></li>
+<li class="links "><a href="a11y.html.ro#mobility" title="Afecțiuni de mobilitate">Afecțiuni de mobilitate</a></li>
 <li class="links ">
-<a href="mouse.html" title="Mouse">Mouse</a><span class="desc"> — 
-      <span class="link"><a href="mouse-lefthanded.html" title="Use your mouse left-handed">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
+<a href="mouse.html.ro" title="Mouse">Mouse</a><span class="desc"> — 
+      <span class="link"><a href="mouse-lefthanded.html.ro" title="Use your mouse left-handed">Left-handed</a></span>,
+      <span class="link"><a href="mouse-sensitivity.html.ro" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
+      <span class="link"><a href="mouse-touchpad-click.html.ro" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
     </span>
 </li>
 </ul></div>

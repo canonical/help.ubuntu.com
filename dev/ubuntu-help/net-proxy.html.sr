@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-general.html" title="Услови умрежавања и савети">Услови умрежавања и савети</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-general.html.sr" title="Услови умрежавања и савети">Услови умрежавања и савети</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Одредите подешавања посредника</span></h1></div>
@@ -57,7 +57,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Измените начин посредовања</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Мрежа</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Мрежа</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Мрежа</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Изаберите <span class="gui">Мрежни посредник</span> са списка на левој страни.</p></li>
 <li class="steps">
@@ -80,7 +80,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Услови умрежавања и савети">Услови умрежавања и савети</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Сазнајте вашу ИП адресу">Сазнајте вашу ИП адресу</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Шта значи ВЕП и ВПА?">ВЕП и ВПА безбедност</a></span>, <span class="link"><a href="net-macaddress.html" title="Шта је то МАК адреса?">МАК адресе</a></span>, <span class="link"><a href="net-proxy.html" title="Одредите подешавања посредника">посредници</a></span>…</span>
+<a href="net-general.html.sr" title="Услови умрежавања и савети">Услови умрежавања и савети</a><span class="desc"> — <span class="link"><a href="net-findip.html.sr" title="Сазнајте вашу ИП адресу">Сазнајте вашу ИП адресу</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.sr" title="Шта значи ВЕП и ВПА?">ВЕП и ВПА безбедност</a></span>, <span class="link"><a href="net-macaddress.html.sr" title="Шта је то МАК адреса?">МАК адресе</a></span>, <span class="link"><a href="net-proxy.html.sr" title="Одредите подешавања посредника">посредници</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

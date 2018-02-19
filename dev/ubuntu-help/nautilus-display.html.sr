@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a> » <a class="trail" href="nautilus-prefs.html" title="Поставке управника датотека">Поставке управника датотека</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.sr" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html.sr#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a> » <a class="trail" href="nautilus-prefs.html.sr" title="Поставке управника датотека">Поставке управника датотека</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Поставке приказа управника датотека</span></h1></div>
@@ -55,7 +55,7 @@
 <div class="media media-image floatend"><div class="inner"><img src="figures/nautilus-icons.png" height="110" width="250" class="media media-block" alt="Иконице управника датотека са натписима"></div></div>
 <p class="p">Када користите преглед иконицама, можете да изаберете приказ додатних података о датотекама и фасциклама у натпису испод сваке иконице. Ово је корисно, на пример, ако често имате потребу да видите ко је власник датотеке или када је последњи пут измењена.</p>
 <p class="p">Можете да увећате приказ фасцикле тако што ћете кликнути на дугме опција прегледа на траци алата и клизачем изабрати ниво увеличања. Како будете увећавали, управник датотека ће приказивати више и више података у натпису. Можете да изаберете до три ствари за приказивање у натпису. Прва ће бити приказана на већини нивоа увећавања. Последња ће бити приказана при врло великим величинама.</p>
-<p class="p">Подаци које можете да прикажете у натпису иконице су исти као и колоне које можете да користите у прегледу списком. Погледајте <span class="link"><a href="nautilus-list.html" title="Поставке колона списка датотека">Поставке колона списка датотека</a></span> за више података.</p>
+<p class="p">Подаци које можете да прикажете у натпису иконице су исти као и колоне које можете да користите у прегледу списком. Погледајте <span class="link"><a href="nautilus-list.html.sr" title="Поставке колона списка датотека">Поставке колона списка датотека</a></span> за више података.</p>
 </div></div>
 </div></div>
 <div id="list-view" class="sect"><div class="inner">
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Поставке управника датотека">Поставке управника датотека</a><span class="desc"> — Прегледајте и подесите поставке разгледача датотека.</span>
+<a href="nautilus-prefs.html.sr" title="Поставке управника датотека">Поставке управника датотека</a><span class="desc"> — Прегледајте и подесите поставке разгледача датотека.</span>
 </li></ul></div>
 </div></div></div>
 </div>

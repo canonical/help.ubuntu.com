@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html" title="Akses universal">Akses universal</a> › <a class="trail" href="a11y.html#vision" title="Masalah visual">Masalah visual</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html.id" title="Akses universal">Akses universal</a> › <a class="trail" href="a11y.html.id#vision" title="Masalah visual">Masalah visual</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Atur kontras</span></h1></div>
@@ -54,13 +54,13 @@
   changing the brightness of the whole screen; only parts of the
   <span class="em">user interface</span> will change.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Nyalakan <span class="gui">Kontras Tinggi</span> dalam seksi <span class="gui">Penglihatan</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner">
 <div class="title title-note"><h2><span class="title">Nyalakan dan matikan kontras tinggi secara cepat</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Anda dapat secara cepat menyalakan dan mematikan kontras tinggi dengan mengklik <span class="link"><a href="a11y-icon.html" title="Temukan menu akses universal">ikon aksesibilitas</a></span> pada bilah puncak dan memilih <span class="gui">Kontras Tinggi</span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Anda dapat secara cepat menyalakan dan mematikan kontras tinggi dengan mengklik <span class="link"><a href="a11y-icon.html.id" title="Temukan menu akses universal">ikon aksesibilitas</a></span> pada bilah puncak dan memilih <span class="gui">Kontras Tinggi</span>.</p></div></div>
 </div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -68,12 +68,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Masalah visual">Masalah visual</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.id#vision" title="Masalah visual">Masalah visual</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="display-brightness.html" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
+<a href="display-brightness.html.id" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
     light.</span>
 </li></ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-security.html" title="Dodržování bezpečnosti na Internetu">Dodržování bezpečnosti na Internetu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-security.html.cs" title="Dodržování bezpečnosti na Internetu">Dodržování bezpečnosti na Internetu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Potřebuji antivirový software?</span></h1></div>
@@ -60,13 +60,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Dodržování bezpečnosti na Internetu">Dodržování bezpečnosti na Internetu</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Potřebuji antivirový software?">Antivirový software</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Povolení nebo blokování přístupu na firewallu">základy k firewallu</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Běžně používané síťové porty">porty na firewallu</a></span>…</span>
+<a href="net-security.html.cs" title="Dodržování bezpečnosti na Internetu">Dodržování bezpečnosti na Internetu</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.cs" title="Potřebuji antivirový software?">Antivirový software</a></span>, <span class="link"><a href="net-firewall-on-off.html.cs" title="Povolení nebo blokování přístupu na firewallu">základy k firewallu</a></span>, <span class="link"><a href="net-firewall-ports.html.cs" title="Běžně používané síťové porty">porty na firewallu</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email-virus.html" title="Potřebuji kontrolovat své e-maily ohledně virů?">Potřebuji kontrolovat své e-maily ohledně virů?</a><span class="desc"> — Je málo pravděpodobné, že by viry nakazily váš počítač, ale mohou nakazit počítače lidí, kterým píšete.</span>
+<a href="net-email-virus.html.cs" title="Potřebuji kontrolovat své e-maily ohledně virů?">Potřebuji kontrolovat své e-maily ohledně virů?</a><span class="desc"> — Je málo pravděpodobné, že by viry nakazily váš počítač, ale mohou nakazit počítače lidí, kterým píšete.</span>
 </li></ul></div>
 </div></div>
 </div>

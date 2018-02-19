@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Förhandsgranska filer och mappar</span></h1></div>
@@ -58,12 +58,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sv#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-preview.html" title="Förhandsgranskningsinställningar för filhanterare">Förhandsgranskningsinställningar för filhanterare</a><span class="desc"> — Styr när miniatyrbilder används för filer.</span>
+<a href="nautilus-preview.html.sv" title="Förhandsgranskningsinställningar för filhanterare">Förhandsgranskningsinställningar för filhanterare</a><span class="desc"> — Styr när miniatyrbilder används för filer.</span>
 </li></ul></div>
 </div></div>
 </div>

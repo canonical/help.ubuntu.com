@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="accounts.html" title="Contas on-line">Contas on-line</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="accounts.html.pt-BR" title="Contas on-line">Contas on-line</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Por que adicionar uma conta?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Ao adicionar suas contas on-line, traz a sua escolha de serviços (por exemplo: agenda, bate-papo e e-mail) diretamente para seu ambiente de trabalho e faz da informação dos serviços uma parte transparente da sua experiência de usuário. Ao adicionar contas, você pode facilmente manter-se em contato com serviços de diferentes contas, como bate-papos, ao mesmo tempo. Basta configurar sua conta uma vez e, toda vez que seu computador for iniciado, todas suas contas e serviços adicionados estarão prontos para você.</p>
-<p class="p">Veja <span class="link"><a href="accounts-which-application.html" title="Aplicativos e serviços on-line">Aplicativos e serviços on-line</a></span> para informação sobre quais aplicativos podem acessar quais serviços on-line.</p>
+<p class="p">Veja <span class="link"><a href="accounts-which-application.html.pt-BR" title="Aplicativos e serviços on-line">Aplicativos e serviços on-line</a></span> para informação sobre quais aplicativos podem acessar quais serviços on-line.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Contas on-line">Contas on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Adicionando uma conta">Adicione uma conta on-line</a></span>, <span class="link"><a href="accounts-remove.html" title="Removendo uma conta">Exclua uma conta</a></span>, <span class="link"><a href="accounts-which-application.html" title="Aplicativos e serviços on-line">Aprenda sobre os serviços</a></span>…</span>
+<a href="accounts.html.pt-BR" title="Contas on-line">Contas on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html.pt-BR" title="Adicionando uma conta">Adicione uma conta on-line</a></span>, <span class="link"><a href="accounts-remove.html.pt-BR" title="Removendo uma conta">Exclua uma conta</a></span>, <span class="link"><a href="accounts-which-application.html.pt-BR" title="Aplicativos e serviços on-line">Aprenda sobre os serviços</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

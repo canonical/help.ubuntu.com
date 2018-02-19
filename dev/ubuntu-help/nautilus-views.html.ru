@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="Параметры менеджера файлов">Параметры менеджера файлов</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ru" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html.ru#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.ru" title="Параметры менеджера файлов">Параметры менеджера файлов</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Параметры просмотра файлов и папок в <span class="app">Nautilus</span></span></h1></div>
@@ -57,7 +57,7 @@ Select <span class="guiseq"><span class="gui">Files</span> ▸ <span class="gui
 <dt class="terms"><span class="gui">Выстраивать элементы</span></dt>
 <dd class="terms">
 <p class="p">Порядок сортировки по умолчанию можно изменить с помощью выпадающего списка <span class="gui">Выстраивать элементы</span> в «параметрах». Возможна сортировка по имени, размеру файла, типу файла, времени последнего изменения, времени последнего доступа или времени помещения в корзину.</p>
-<p class="p">You can change how <span class="link"><a href="files-sort.html" title="Сортировка файлов и папок">files are
+<p class="p">You can change how <span class="link"><a href="files-sort.html.ru" title="Сортировка файлов и папок">files are
     sorted</a></span> in an individual folder by clicking the view options
     
     button in the toolbar and choosing <span class="gui">Name</span>,
@@ -73,7 +73,7 @@ Select <span class="guiseq"><span class="gui">Files</span> ▸ <span class="gui
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Параметры менеджера файлов">Параметры менеджера файлов</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.ru" title="Параметры менеджера файлов">Параметры менеджера файлов</a><span class="desc"> — View and set preferences for the file browser.</span>
 </li></ul></div>
 </div></div></div>
 </div>

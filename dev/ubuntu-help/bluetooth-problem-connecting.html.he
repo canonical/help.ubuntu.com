@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Common problems">Problems</a> » <a class="trail" href="bluetooth.html#problems" title="Problems">Bluetooth problems</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.he" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.he#problems" title="Common problems">Problems</a> » <a class="trail" href="bluetooth.html.he#problems" title="Problems">Bluetooth problems</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">I cannot connect my Bluetooth device</span></h1></div>
@@ -59,17 +59,17 @@
 <dt class="terms">Bluetooth hardware not recognized</dt>
 <dd class="terms"><p class="p">Your Bluetooth adapter or dongle may not have been recognized by the
       computer. This could be because
-      <span class="link"><a href="hardware-driver.html" title="What is a driver?">drivers</a></span> for the adapter are not
+      <span class="link"><a href="hardware-driver.html.he" title="What is a driver?">drivers</a></span> for the adapter are not
       installed. Some Bluetooth adapters are not supported on Linux, so you may
       not be able to get the right drivers for them. In this case, you will
       probably have to get a different Bluetooth adapter.</p></dd>
 <dt class="terms">Adapter is not switched on</dt>
-<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Click the
-          Bluetooth icon in the <span class="gui">menu bar</span> and check that it’s not
-          <span class="link"><a href="bluetooth-turn-on-off.html" title="Turn Bluetooth on or off">disabled</a></span>.</p></dd>
+<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Open the
+        Bluetooth panel and check that it is not
+        <span class="link"><a href="bluetooth-turn-on-off.html.he" title="Turn Bluetooth on or off">disabled</a></span>.</p></dd>
 <dt class="terms">Device Bluetooth connection switched off</dt>
 <dd class="terms"><p class="p">Check that Bluetooth is turned on on the device you are trying to
-      connect to, and that it is <span class="link"><a href="bluetooth-visibility.html" title="What is Bluetooth visibility?">discoverable
+      connect to, and that it is <span class="link"><a href="bluetooth-visibility.html.he" title="What is Bluetooth visibility?">discoverable
       or visible</a></span>. For example, if you are trying to connect to a phone,
       make sure that it is not in airplane mode.</p></dd>
 <dt class="terms">No Bluetooth adapter in your computer</dt>
@@ -82,12 +82,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
-<div class="region"><ul><li class="links "><a href="bluetooth.html#problems" title="Problems">Bluetooth problems</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="bluetooth.html.he#problems" title="Problems">Bluetooth problems</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">עיון נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="What is a driver?">What is a driver?</a><span class="desc"> — A hardware/device driver allows your computer to use devices that are
+<a href="hardware-driver.html.he" title="What is a driver?">What is a driver?</a><span class="desc"> — A hardware/device driver allows your computer to use devices that are
     attached to it.</span>
 </li></ul></div>
 </div></div>

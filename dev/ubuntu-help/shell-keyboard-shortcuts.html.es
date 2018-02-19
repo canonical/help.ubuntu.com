@@ -44,27 +44,27 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html.es" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html.es#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="keyboard.html.es" title="Teclado">Teclado</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="keyboard.html.es" title="Teclado">Teclado</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="tips.html" title="Trucos y consejos">Trucos y consejos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="tips.html.es" title="Trucos y consejos">Trucos y consejos</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Atajos de teclado útiles</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Esta página le proporciona una vista general de los atajos de telcado que puede usar en su escritorio y aplicaciones de una forma eficiente. Si no puede usar un ratón o un dispositivo apuntador, consulte la <span class="link"><a href="keyboard-nav.html" title="Navegación con el teclado">Navegación con el teclado</a></span> para obtener más información acerca de navegar por los interfaces sólo con el teclado.</p>
+<p class="p">Esta página le proporciona una vista general de los atajos de telcado que puede usar en su escritorio y aplicaciones de una forma eficiente. Si no puede usar un ratón o un dispositivo apuntador, consulte la <span class="link"><a href="keyboard-nav.html.es" title="Navegación con el teclado">Navegación con el teclado</a></span> para obtener más información acerca de navegar por los interfaces sólo con el teclado.</p>
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="true"></div>
 <div class="inner">
 <div class="title title-table"><h2><span class="title">Primeros pasos en el escritorio</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> o la tecla <span class="key"><a href="keyboard-key-super.html" title="¿Qué es la tecla Super?"><kbd>Super</kbd></a></span></p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> o la tecla <span class="key"><a href="keyboard-key-super.html.es" title="¿Qué es la tecla Super?"><kbd>Super</kbd></a></span></p></td>
 <td><p class="p">Cambia entre la vista general de <span class="gui">Actividades</span> y el escritorio. En la vista general, comience a escribir para buscar instantáneamente sus aplicaciones, contactos y documentos.</p></td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Cambiar entre ventanas">Cambio rápido entre ventanas.</a></span> Mantenga pulsada <span class="key"><kbd>Mayús</kbd></span> invertir el orden.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.es" title="Cambiar entre ventanas">Cambio rápido entre ventanas.</a></span> Mantenga pulsada <span class="key"><kbd>Mayús</kbd></span> invertir el orden.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
@@ -92,11 +92,11 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Re Pág</kbd></span></span> o <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Arriba</kbd></span></span>, y <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Av Pág</kbd></span></span> or <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Abajo</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Cambie entre las áreas de trabajo">Cambiar entre áreas de trabajo</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.es" title="Cambie entre las áreas de trabajo">Cambiar entre áreas de trabajo</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Mayús</kbd></span>+<span class="key"><kbd>Re. Pág</kbd></span></span> y <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Mayús</kbd></span>+<span class="key"><kbd>Av. Pág</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Mover una ventana a un área de trabajo diferente">Mover la ventana actual a un área de trabajo diferente</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.es" title="Mover una ventana a un área de trabajo diferente">Mover la ventana actual a un área de trabajo diferente</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Mayús</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
@@ -108,15 +108,15 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Supr</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html" title="Cerrar la sesión, apagar o cambiar de usuario">Apagar</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.es" title="Cerrar la sesión, apagar o cambiar de usuario">Apagar</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html#lock-screen" title="Bloquear la pantalla">Bloquear la pantalla</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.es#lock-screen" title="Bloquear la pantalla">Bloquear la pantalla</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Abra la <span class="link"><a href="shell-notifications.html#messagetray" title="La bandeja de mensajes">bandeja de mensajes</a></span>. Pulse <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> otra vez o <span class="key"><kbd>Esc</kbd></span> para cerrarla.</p></td>
+<td style="border-top-style: solid;"><p class="p">Abra la <span class="link"><a href="shell-notifications.html.es#messagetray" title="La bandeja de mensajes">bandeja de mensajes</a></span>. Pulse <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> otra vez o <span class="key"><kbd>Esc</kbd></span> para cerrarla.</p></td>
 </tr>
 </table></div>
 </div>
@@ -156,19 +156,19 @@
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p"><span class="key"><kbd>Impr Pant</kbd></span></p></td>
-<td><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Capturar la pantalla">Tomar una captura de pantalla</a></span>.</p></td>
+<td><p class="p"><span class="link"><a href="screen-shot-record.html.es#screenshot" title="Capturar la pantalla">Tomar una captura de pantalla</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Impr Pant</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Capturar la pantalla">Tomar una captura de pantalla de una ventana</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.es#screenshot" title="Capturar la pantalla">Tomar una captura de pantalla de una ventana</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Mayús</kbd></span>+<span class="key"><kbd>Impr Pant</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Capturar la pantalla">Tomar una captura de pantalla de un área de la pantalla</a></span>. El puntero se convierte en una cruz. Pulse y arrastre para seleccionar un área.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.es#screenshot" title="Capturar la pantalla">Tomar una captura de pantalla de un área de la pantalla</a></span>. El puntero se convierte en una cruz. Pulse y arrastre para seleccionar un área.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Mayús</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screencast" title="Grabación de vídeo">Iniciar y finalizar una grabación de vídeo</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.es#screencast" title="Grabación de vídeo">Iniciar y finalizar una grabación de vídeo</a></span>.</p></td>
 </tr>
 </table></div>
 </div>
@@ -180,12 +180,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-overview.html#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a></li>
+<li class="links "><a href="shell-overview.html.es#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Usar distribuciones de teclado alternativas">distribuciones de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Hacer que parpadee el cursor del teclado">parpadeo del cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiencias motoras">accesibilidad del teclado</a></span>…</span>
+<a href="keyboard.html.es" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.es" title="Usar distribuciones de teclado alternativas">distribuciones de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.es" title="Hacer que parpadee el cursor del teclado">parpadeo del cursor</a></span>, <span class="link"><a href="a11y.html.es#mobility" title="Deficiencias motoras">accesibilidad del teclado</a></span>…</span>
 </li>
 <li class="links ">
-<a href="tips.html" title="Trucos y consejos">Trucos y consejos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Insertar caracteres especiales">Caracteres especiales</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Pulsación central">atajos del botón del medio</a></span>…</span>
+<a href="tips.html.es" title="Trucos y consejos">Trucos y consejos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.es" title="Insertar caracteres especiales">Caracteres especiales</a></span>, <span class="link"><a href="mouse-middleclick.html.es" title="Pulsación central">atajos del botón del medio</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -193,16 +193,16 @@
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Establecer atajos de teclado">Establecer atajos de teclado</a><span class="desc"> — Definir o cambiar atajos de teclado en la configuración del <span class="gui">Teclado</span>.</span>
+<a href="keyboard-shortcuts-set.html.es" title="Establecer atajos de teclado">Establecer atajos de teclado</a><span class="desc"> — Definir o cambiar atajos de teclado en la configuración del <span class="gui">Teclado</span>.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html" title="Navegación con el teclado">Navegación con el teclado</a><span class="desc"> — Usar aplicaciones y el escritorio sin ratón.</span>
+<a href="keyboard-nav.html.es" title="Navegación con el teclado">Navegación con el teclado</a><span class="desc"> — Usar aplicaciones y el escritorio sin ratón.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-menu.html" title="¿Qué es la tecla Menú?">¿Qué es la tecla <span class="key"><kbd>Menú</kbd></span>?</a><span class="desc"> — La tecla de <span class="key"><kbd>Menú</kbd></span> muestra un menú contextual con el teclado en lugar de con el botón derecho.</span>
+<a href="keyboard-key-menu.html.es" title="¿Qué es la tecla Menú?">¿Qué es la tecla <span class="key"><kbd>Menú</kbd></span>?</a><span class="desc"> — La tecla de <span class="key"><kbd>Menú</kbd></span> muestra un menú contextual con el teclado en lugar de con el botón derecho.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html" title="¿Qué es la tecla Super?">¿Qué es la tecla <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — La tecla <span class="key"><kbd>Super</kbd></span> abre la vista de <span class="gui">Actividades</span>. Generalmente puede encontrarla junto a la tecla <span class="key"><kbd>Alt</kbd></span> de su teclado.</span>
+<a href="keyboard-key-super.html.es" title="¿Qué es la tecla Super?">¿Qué es la tecla <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — La tecla <span class="key"><kbd>Super</kbd></span> abre la vista de <span class="gui">Actividades</span>. Generalmente puede encontrarla junto a la tecla <span class="key"><kbd>Alt</kbd></span> de su teclado.</span>
 </li>
 </ul></div>
 </div></div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html#apps" title="Приложения и окна">Приложения и окна</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ru" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html.ru#apps" title="Приложения и окна">Приложения и окна</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -69,9 +69,9 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
+<a href="prefs.html.ru" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html.ru" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html.ru" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html.ru" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html.ru" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
 </li>
-<li class="links "><a href="shell-overview.html#apps" title="Приложения и окна">Приложения и окна</a></li>
+<li class="links "><a href="shell-overview.html.ru#apps" title="Приложения и окна">Приложения и окна</a></li>
 </ul></div>
 </div></div></div>
 </div>

@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Начало работы">Начало работы с GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.ru" title="Начало работы">Начало работы с GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html" title="Переключение между задачами">Вперёд</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html.ru" title="Переключение между задачами">Вперёд</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">Запуск приложений</span></h1></div>
 <div class="region">
 <div class="contents"><div class="ui-tile ">
@@ -80,20 +80,20 @@
 <li class="steps"><p class="p">Как только появится значок этого приложения, нажмите клавишу <span class="key"><kbd> Enter</kbd></span>, чтобы запустить приложение.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
-<div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html" title="Переключение между задачами">Вперёд</a></div>
+<div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html.ru" title="Переключение между задачами">Вперёд</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Начало работы">Начало работы с GNOME</a><span class="desc"> — Новичок в GNOME? Узнай, с чего начать.</span>
+<a href="getting-started.html.ru" title="Начало работы">Начало работы с GNOME</a><span class="desc"> — Новичок в GNOME? Узнай, с чего начать.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html" title="Запуск приложений">Запуск приложений</a><span class="desc"> — Запуск приложений из режима <span class="gui">Обзора</span>.</span>
+<a href="shell-apps-open.html.ru" title="Запуск приложений">Запуск приложений</a><span class="desc"> — Запуск приложений из режима <span class="gui">Обзора</span>.</span>
 </li></ul></div>
 </div></div>
 </div>

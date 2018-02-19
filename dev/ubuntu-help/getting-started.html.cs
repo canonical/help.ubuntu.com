@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Začínáme</span></h1></div>
@@ -109,20 +109,20 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links title-heading"><h2><span class="title">Obvyklé činnosti</span></h2></div>
 <div class="region">
-<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html" title="Brouzdání po webu">Brouzdání po webu</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html" title="Používání oken a pracovních ploch">Používání oken a pracovních ploch</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html" title="Připojení k účtům on-line">Připojení k účtům on-line</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html" title="Vyhledávání v systému">Vyhledávání v systému</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html" title="Změna data, času a časového pásma">Změna data, času a časového pásma</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html" title="Změna tapety">Změna tapety</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html" title="Přepínání úloh">Přepínání úloh</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html" title="Připojení k internetu">Připojení k internetu</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html" title="Spouštění aplikací">Spouštění aplikací</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html.cs" title="Brouzdání po webu">Brouzdání po webu</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html.cs" title="Používání oken a pracovních ploch">Používání oken a pracovních ploch</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html.cs" title="Připojení k účtům on-line">Připojení k účtům on-line</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html.cs" title="Vyhledávání v systému">Vyhledávání v systému</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html.cs" title="Změna data, času a časového pásma">Změna data, času a časového pásma</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html.cs" title="Změna tapety">Změna tapety</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html.cs" title="Přepínání úloh">Přepínání úloh</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html.cs" title="Připojení k internetu">Připojení k internetu</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html.cs" title="Spouštění aplikací">Spouštění aplikací</a></div></div>
 </div>
 </div></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title title-links"><h2><span class="title"></span></h2></div>
-<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html" title="Průvodce pracovním prostředím Ubuntu">Průvodce pracovním prostředím Ubuntu</a></div></li></ul></div>
+<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu">Průvodce pracovním prostředím Ubuntu</a></div></li></ul></div>
 </div></div>
 </div></div>
 <div class="clear"></div>

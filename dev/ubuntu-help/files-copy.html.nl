@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bestanden en mappen kopiëren of verplaatsen</span></h1></div>
@@ -95,19 +95,19 @@
 </ol></div>
 </div>
 </div>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt niet een bestand kopiëren of verplaatsen naar een map die <span class="em">alleen-lezen</span> is. Sommige mappen zijn alleen-lezen om te voorkomen dat u wijzigingen aanbrengt aan de inhoud ervan. U kunt de instelling alleen-lezen wijzigen door de <span class="link"><a href="nautilus-file-properties-permissions.html" title="Bestandsrechten instellen">bestandsrechten te wijzigen</a></span>.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt niet een bestand kopiëren of verplaatsen naar een map die <span class="em">alleen-lezen</span> is. Sommige mappen zijn alleen-lezen om te voorkomen dat u wijzigingen aanbrengt aan de inhoud ervan. U kunt de instelling alleen-lezen wijzigen door de <span class="link"><a href="nautilus-file-properties-permissions.html.nl" title="Bestandsrechten instellen">bestandsrechten te wijzigen</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-browse.html" title="Door bestanden en mappen bladeren">Door bestanden en mappen bladeren</a><span class="desc"> — Beheer en organiseer bestanden met de bestandsbeheerder.</span>
+<a href="files-browse.html.nl" title="Door bestanden en mappen bladeren">Door bestanden en mappen bladeren</a><span class="desc"> — Beheer en organiseer bestanden met de bestandsbeheerder.</span>
 </li></ul></div>
 </div></div>
 </div>

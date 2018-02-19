@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#backup" title="Zálohování">Zálohování</a> » <a class="trail" href="backup-why.html" title="Záloha vašich důležitých souborů">Zálohy</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#backup" title="Zálohování">Zálohování</a> » <a class="trail" href="backup-why.html.cs" title="Záloha vašich důležitých souborů">Zálohy</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Jak zálohovat</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Nejjednodušší způsob, jak zálohovat své soubory a nastavení, je ponechat správu zálohovacího procesu na zálohovací aplikaci. K dispozici je řada různých zálohovacích aplikací, například <span class="app">Déjà Dup</span>.</p>
 <p class="p">Nápověda k vaší zvolené zálohovací aplikaci by vás měla provést nastavením předvoleb zálohování a postupem obnovy dat.</p>
-<p class="p">Jinou variantou je <span class="link"><a href="files-copy.html" title="Kopírování a přesun souborů a složek">zkopírovat soubory</a></span> na bezpečné místo, jako je externí pevný disk, jiný počítač v síti nebo flashdisk. Vaše <span class="link"><a href="backup-thinkabout.html" title="Kde mohu najít soubory, které chci zálohovat?">osobní soubory</a></span> a nastavení se obvykle nachází v domovské složce, takže je můžete zkopírovat od tam.</p>
+<p class="p">Jinou variantou je <span class="link"><a href="files-copy.html.cs" title="Kopírování a přesun souborů a složek">zkopírovat soubory</a></span> na bezpečné místo, jako je externí pevný disk, jiný počítač v síti nebo flashdisk. Vaše <span class="link"><a href="backup-thinkabout.html.cs" title="Kde mohu najít soubory, které chci zálohovat?">osobní soubory</a></span> a nastavení se obvykle nachází v domovské složce, takže je můžete zkopírovat od tam.</p>
 <p class="p">Množství dat, která zálohujete, je omezeno velikostí úložného zařízení. Pokud máte na zálohovacím zařízení dostatek místa, je nejlepší zálohovat celou domovskou složku vyjma následujícího:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Souborů, které již máte zazálohovány někde jinde, třeba na CD, DVD nebo jiném výměnném médiu.</p></li>
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Záloha vašich důležitých souborů">Záloha vašich důležitých souborů</a><span class="desc"> — Proč, co, kam a jak zálohovat.</span>
+<a href="backup-why.html.cs" title="Záloha vašich důležitých souborů">Záloha vašich důležitých souborů</a><span class="desc"> — Proč, co, kam a jak zálohovat.</span>
 </li></ul></div>
 </div></div></div>
 </div>

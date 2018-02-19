@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Log keluar, mematikan, atau berganti pengguna</span></h1></div>
@@ -57,7 +57,7 @@
   your applications will continue running, and everything will be where you
   left it when you log back in.</p>
 <p class="p">To <span class="gui">Log Out</span> or <span class="gui">Switch User</span>, click the
-  <span class="link"><a href="shell-introduction.html#yourname" title="Anda dan komputer Anda">system menu</a></span> on the right side of the
+  <span class="link"><a href="shell-introduction.html.id#yourname" title="Anda dan komputer Anda">system menu</a></span> on the right side of the
   top bar, click your name and then choose the right option.</p>
 <div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Log Out</span> and <span class="gui">Switch User</span> entries only appear in
     the menu if you have more than one user account on your system.</p></div></div></div></div>
@@ -70,7 +70,7 @@
 <p class="p">If you’re leaving your computer for a short time, you should lock your
   screen to prevent other people from accessing your files or running
   applications. When you return, raise the
-  <span class="link"><a href="shell-lockscreen.html" title="Layar Kunci">lock screen</a></span> curtain and enter your
+  <span class="link"><a href="shell-lockscreen.html.id" title="Layar Kunci">lock screen</a></span> curtain and enter your
   password to log back in. If you don’t lock your screen, it will lock
   automatically after a certain amount of time.</p>
 <p class="p">To lock your screen, click the system menu on the right side of the top
@@ -85,11 +85,11 @@
 <div class="title"><h3><span class="title">Lihat Juga</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Secara otomatis mengunci layar Anda">Secara otomatis mengunci layar Anda</a><span class="desc"> — Prevent other people from using your desktop when you
+<a href="privacy-screen-lock.html.id" title="Secara otomatis mengunci layar Anda">Secara otomatis mengunci layar Anda</a><span class="desc"> — Prevent other people from using your desktop when you
     go away from your computer.</span>
 </li>
 <li class="links ">
-<a href="session-screenlocks.html" title="The screen locks itself too quickly">The screen locks itself too quickly</a><span class="desc"> — Change how long to wait before locking the screen in the
+<a href="session-screenlocks.html.id" title="The screen locks itself too quickly">The screen locks itself too quickly</a><span class="desc"> — Change how long to wait before locking the screen in the
     <span class="gui">Privacy</span> settings.</span>
 </li>
 </ul></div>
@@ -117,13 +117,13 @@
 <div class="title"><h3><span class="title">Lihat Juga</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspend.html" title="Apa yang terjadi ketika saya mensuspensi komputer?">Apa yang terjadi ketika saya mensuspensi komputer?</a><span class="desc"> — Suspensi mengatur komputer Anda agar tidur sehingga memakai lebih sedikit daya.</span>
+<a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">Apa yang terjadi ketika saya mensuspensi komputer?</a><span class="desc"> — Suspensi mengatur komputer Anda agar tidur sehingga memakai lebih sedikit daya.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Memakai daya lebih sedikit dan meningkatkan umur baterai">Memakai daya lebih sedikit dan meningkatkan umur baterai</a><span class="desc"> — Tip untuk mengurangi konsumsi daya komputer Anda.</span>
+<a href="power-batterylife.html.id" title="Memakai daya lebih sedikit dan meningkatkan umur baterai">Memakai daya lebih sedikit dan meningkatkan umur baterai</a><span class="desc"> — Tip untuk mengurangi konsumsi daya komputer Anda.</span>
 </li>
 <li class="links ">
-<a href="power-autosuspend.html" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-autosuspend.html.id" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -143,7 +143,7 @@
   administrative user, you may be asked for your password to power off.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">You may want to power off your computer if you wish to move it and do
     not have a battery, if your battery is low or does not hold charge well. A
-    powered off computer also uses <span class="link"><a href="power-batterylife.html" title="Memakai daya lebih sedikit dan meningkatkan umur baterai">less
+    powered off computer also uses <span class="link"><a href="power-batterylife.html.id" title="Memakai daya lebih sedikit dan meningkatkan umur baterai">less
     energy</a></span> than one which is suspended.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -151,7 +151,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Lihat Juga</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html" title="Memakai daya lebih sedikit dan meningkatkan umur baterai">Memakai daya lebih sedikit dan meningkatkan umur baterai</a><span class="desc"> — Tip untuk mengurangi konsumsi daya komputer Anda.</span>
+<a href="power-batterylife.html.id" title="Memakai daya lebih sedikit dan meningkatkan umur baterai">Memakai daya lebih sedikit dan meningkatkan umur baterai</a><span class="desc"> — Tip untuk mengurangi konsumsi daya komputer Anda.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -164,22 +164,22 @@
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power.html" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Periksa status baterai">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
+<a href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.id" title="Periksa status baterai">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="shell-overview.html" title="Desktop Anda">Desktop Anda</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Janji kalender">Kalendar</a></span>, <span class="link"><a href="shell-notifications.html" title="Notifikasi dan baki pesan">pemberitahuan</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Pintasan papan tik yang berguna">pintasan papan ketik</a></span>, <span class="link"><a href="shell-windows.html" title="Jendela dan area kerja">jendela dan ruang kerja</a></span>…</span>
+<a href="shell-overview.html.id" title="Desktop Anda">Desktop Anda</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.id" title="Janji kalender">Kalendar</a></span>, <span class="link"><a href="shell-notifications.html.id" title="Notifikasi dan baki pesan">pemberitahuan</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna">pintasan papan ketik</a></span>, <span class="link"><a href="shell-windows.html.id" title="Jendela dan area kerja">jendela dan ruang kerja</a></span>…</span>
 </li>
-<li class="links "><a href="index.html" title="Panduan Desktop Ubuntu">Panduan Desktop Ubuntu</a></li>
+<li class="links "><a href="index.html.id" title="Panduan Desktop Ubuntu">Panduan Desktop Ubuntu</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-autologin.html" title="Log masuk otomatis">Log masuk otomatis</a><span class="desc"> — Set up automatic login for when you switch on your computer.</span>
+<a href="user-autologin.html.id" title="Log masuk otomatis">Log masuk otomatis</a><span class="desc"> — Set up automatic login for when you switch on your computer.</span>
 </li></ul></div>
 </div></div>
 </div>

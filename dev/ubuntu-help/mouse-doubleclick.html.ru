@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="mouse.html" title="Мышь">Мышь</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="mouse.html.ru" title="Мышь">Мышь</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Специальные возможности">Специальные возможности</a> › <a class="trail" href="a11y.html#mobility" title="Ограничения подвижности">Ограничения подвижности</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ru" title="Специальные возможности">Специальные возможности</a> › <a class="trail" href="a11y.html.ru#mobility" title="Ограничения подвижности">Ограничения подвижности</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="mouse.html" title="Мышь">Мышь</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="mouse.html.ru" title="Мышь">Мышь</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@ quickly enough. If the second press is too long after the first, you’ll
 just get two separate clicks, not a double click. If you have difficulty
 pressing the mouse button quickly, you should increase the timeout.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
   start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Универсальный доступ</span>, чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Under <span class="gui">Pointing &amp; Clicking</span>, adjust the <span class="gui">Double-click</span>
@@ -75,9 +75,9 @@ pressing the mouse button quickly, you should increase the timeout.</p>
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse.html" title="Мышь">Мышь</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Управление мышью левой рукой">Управление левой рукой</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Настройка скорости мыши и сенсорной панели">скорость и чувствительность</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Нажатия, перетаскивание и прокрутка с помощью сенсорной панели">нажатия и прокрутка на сенсорной панели</a></span>…</span>
+<a href="mouse.html.ru" title="Мышь">Мышь</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.ru" title="Управление мышью левой рукой">Управление левой рукой</a></span>, <span class="link"><a href="mouse-sensitivity.html.ru" title="Настройка скорости мыши и сенсорной панели">скорость и чувствительность</a></span>, <span class="link"><a href="mouse-touchpad-click.html.ru" title="Нажатия, перетаскивание и прокрутка с помощью сенсорной панели">нажатия и прокрутка на сенсорной панели</a></span>…</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Ограничения подвижности">Ограничения подвижности</a></li>
+<li class="links "><a href="a11y.html.ru#mobility" title="Ограничения подвижности">Ограничения подвижности</a></li>
 </ul></div>
 </div></div></div>
 </div>

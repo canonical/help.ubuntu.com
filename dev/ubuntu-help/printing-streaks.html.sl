@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html#problems" title="Pogoste težave">Težave</a> » <a class="trail" href="printing.html#problems" title="Težave s tiskalnikom">Težave s tiskalnikom</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html.sl#problems" title="Pogoste težave">Težave</a> » <a class="trail" href="printing.html.sl#problems" title="Težave s tiskalnikom">Težave s tiskalnikom</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zakaj so na mojih izpisih proge, črte ali napačne barve?</span></h1></div>
@@ -75,13 +75,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html#problems" title="Težave s tiskalnikom">Težave s tiskalnikom</a><span class="desc"> — Nezaznani tiskalniki, zastal papir, izpiski, ki so videti napačno ...</span>
+<a href="printing.html.sl#problems" title="Težave s tiskalnikom">Težave s tiskalnikom</a><span class="desc"> — Nezaznani tiskalniki, zastal papir, izpiski, ki so videti napačno ...</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-inklevel.html" title="How can I check my printer’s ink or toner levels?">How can I check my printer’s ink or toner levels?</a><span class="desc"> — Preverite količino preostalega črnila ali tonerja v kartušah tiskalnika.</span>
+<a href="printing-inklevel.html.sl" title="How can I check my printer’s ink or toner levels?">How can I check my printer’s ink or toner levels?</a><span class="desc"> — Preverite količino preostalega črnila ali tonerja v kartušah tiskalnika.</span>
 </li></ul></div>
 </div></div>
 </div>

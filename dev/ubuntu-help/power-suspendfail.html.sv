@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="hardware-problems-graphics.html" title="Skärmproblem">Skärmproblem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html.sv#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="hardware-problems-graphics.html.sv" title="Skärmproblem">Skärmproblem</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="power.html#problems" title="Problem">Strömproblem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html.sv#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="power.html.sv#problems" title="Problem">Strömproblem</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Varför återstartar inte min dator efter att jag har försatt den i vänteläge?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Om du försätter din dator i <span class="link"><a href="power-suspend.html" title="Vad händer när jag försätter min dator i vänteläge?">vänteläge</a></span> och sedan försöker återstarta den, kan du upptäcka att den inte fungerar som du förväntar dig. Det kan bero på att vänteläge inte har fullständigt stöd i din hårdvara.</p></div>
+<div class="contents"><p class="p">Om du försätter din dator i <span class="link"><a href="power-suspend.html.sv" title="Vad händer när jag försätter min dator i vänteläge?">vänteläge</a></span> och sedan försöker återstarta den, kan du upptäcka att den inte fungerar som du förväntar dig. Det kan bero på att vänteläge inte har fullständigt stöd i din hårdvara.</p></div>
 <div id="resume" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Min dator är i vänteläge men återstartar inte</span></h2></div>
 <div class="region"><div class="contents">
@@ -66,7 +66,7 @@
 <div id="hardware" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Min trådlösa anslutning (eller annan hårdvara) fungerar inte när jag väcker min dator</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Om du försätter din dator i vänteläge och sedan återstartar den igen, kan du komma att upptäcka att din internetanslutning, mus eller någon annan enhet inte fungerar som den ska. Detta kan vara för att drivrutinen för enheten inte har fullständigt stöd för vänteläge. Detta är ett <span class="link"><a href="hardware-driver.html" title="Vad är en drivrutin?">problem med drivrutinen</a></span> och inte enheten i sig.</p>
+<p class="p">Om du försätter din dator i vänteläge och sedan återstartar den igen, kan du komma att upptäcka att din internetanslutning, mus eller någon annan enhet inte fungerar som den ska. Detta kan vara för att drivrutinen för enheten inte har fullständigt stöd för vänteläge. Detta är ett <span class="link"><a href="hardware-driver.html.sv" title="Vad är en drivrutin?">problem med drivrutinen</a></span> och inte enheten i sig.</p>
 <p class="p">Om enheten har en strömknapp, prova att stänga av den och slå på den igen. I de flesta fall kommer enheten att börja fungera igen. Om den ansluts via en USB-kabel eller liknande, koppla från enheten och koppla in den igen och se om det fungerar.</p>
 <p class="p">Om du inte kan stäng av eller koppla från enheten, eller det inte fungerar, kan du komma att behöva starta om datorn för att enheten ska börja fungera igen.</p>
 </div></div>
@@ -78,10 +78,10 @@
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Skärmproblem">Skärmproblem</a><span class="desc"> — Felsök skärm- och grafikproblem.</span>
+<a href="hardware-problems-graphics.html.sv" title="Skärmproblem">Skärmproblem</a><span class="desc"> — Felsök skärm- och grafikproblem.</span>
 </li>
 <li class="links ">
-<a href="power.html#problems" title="Problem">Strömproblem</a><span class="desc"> — Felsök problem med ström och batterier.</span>
+<a href="power.html.sv#problems" title="Problem">Strömproblem</a><span class="desc"> — Felsök problem med ström och batterier.</span>
 </li>
 </ul></div>
 </div></div>
@@ -89,19 +89,19 @@
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-hibernate.html" title="Hur försätter jag min dator i viloläge?">Hur försätter jag min dator i viloläge?</a><span class="desc"> — Viloläge är inaktiverat som standard eftersom det saknar bra stöd.</span>
+<a href="power-hibernate.html.sv" title="Hur försätter jag min dator i viloläge?">Hur försätter jag min dator i viloläge?</a><span class="desc"> — Viloläge är inaktiverat som standard eftersom det saknar bra stöd.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="Jag har inget trådlöst nätverk när jag väcker datorn">Jag har inget trådlöst nätverk när jag väcker datorn</a><span class="desc"> — Vissa trådlösa enheter har problem med att hantera när datorn är i vänteläge och återstartar inte korrekt.</span>
+<a href="power-nowireless.html.sv" title="Jag har inget trådlöst nätverk när jag väcker datorn">Jag har inget trådlöst nätverk när jag väcker datorn</a><span class="desc"> — Vissa trådlösa enheter har problem med att hantera när datorn är i vänteläge och återstartar inte korrekt.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Vad händer när jag försätter min dator i vänteläge?">Vad händer när jag försätter min dator i vänteläge?</a><span class="desc"> — Vänteläge försätter din dator i ett strömsparläge där den drar mindre ström.</span>
+<a href="power-suspend.html.sv" title="Vad händer när jag försätter min dator i vänteläge?">Vad händer när jag försätter min dator i vänteläge?</a><span class="desc"> — Vänteläge försätter din dator i ett strömsparläge där den drar mindre ström.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="Vad är en drivrutin?">Vad är en drivrutin?</a><span class="desc"> — En hårdvaru-/enhetsdrivrutin låter din dator använda enheter som ansluts till den.</span>
+<a href="hardware-driver.html.sv" title="Vad är en drivrutin?">Vad är en drivrutin?</a><span class="desc"> — En hårdvaru-/enhetsdrivrutin låter din dator använda enheter som ansluts till den.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="Varför stängs min dator av när jag stänger locket?">Varför stängs min dator av när jag stänger locket?</a><span class="desc"> — Bärbara datorer försätts i strömsparläge när du stänger locket för att spara ström.</span>
+<a href="power-closelid.html.sv" title="Varför stängs min dator av när jag stänger locket?">Varför stängs min dator av när jag stänger locket?</a><span class="desc"> — Bärbara datorer försätts i strömsparläge när du stänger locket för att spara ström.</span>
 </li>
 </ul></div>
 </div></div>

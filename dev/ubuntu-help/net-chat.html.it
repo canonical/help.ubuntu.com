@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Chat e social netwok</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html" title="Messaggistica istantanea con Ubuntu"><span class="title">Messaggistica istantanea con Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Con <span class="app">Empathy</span> è possibile conversare ed effettuare chiamate e video chiamate con amici e colleghi su diverse reti.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html" title="Video chiamate"><span class="title">Video chiamate</span><span class="linkdiv-dash"> — </span><span class="desc">Quali applicazioni possono essere utilizzate per fare video chiamate?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html.it" title="Messaggistica istantanea con Ubuntu"><span class="title">Messaggistica istantanea con Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Con <span class="app">Empathy</span> è possibile conversare ed effettuare chiamate e video chiamate con amici e colleghi su diverse reti.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html.it" title="Video chiamate"><span class="title">Video chiamate</span><span class="linkdiv-dash"> — </span><span class="desc">Quali applicazioni possono essere utilizzate per fare video chiamate?</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html" title="Come è possibile usare Skype in Ubuntu?"><span class="title">Come è possibile usare Skype in Ubuntu?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> è un software proprietario e deve essere installato manualmente in Ubuntu</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html.it" title="Come è possibile usare Skype in Ubuntu?"><span class="title">Come è possibile usare Skype in Ubuntu?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> è un software proprietario e deve essere installato manualmente in Ubuntu</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -61,22 +61,22 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Reti WiFi">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Reti via cavo">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Problemi di rete">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Browser web">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email e applicazioni per la posta elettronica">email accounts</a></span>…
+<a href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html.it" title="Reti WiFi">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html.it" title="Reti via cavo">wired</a></span>,
+      <span class="link"><a href="net-problem.html.it" title="Problemi di rete">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html.it" title="Browser web">web browsing</a></span>,
+      <span class="link"><a href="net-email.html.it" title="Email e applicazioni per la posta elettronica">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Account online">Account online</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Aggiungere un account">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Rimuovere un account">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.it" title="Account online">Account online</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.it" title="Aggiungere un account">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.it" title="Rimuovere un account">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.it" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div>

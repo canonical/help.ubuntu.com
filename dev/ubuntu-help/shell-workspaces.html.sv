@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html#apps" title="Program och fönster">Program och fönster</a> » <a class="trail" href="shell-windows.html" title="Fönster och arbetsytor">Fönster och arbetsytor</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Arbeta med arbetsytor">Arbetsytor</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html.sv" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html.sv#apps" title="Program och fönster">Program och fönster</a> » <a class="trail" href="shell-windows.html.sv" title="Fönster och arbetsytor">Fönster och arbetsytor</a> › <a class="trail" href="shell-windows.html.sv#working-with-workspaces" title="Arbeta med arbetsytor">Arbetsytor</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vad är en arbetsyta, och hur hjälper den mig?</span></h1></div>
@@ -54,7 +54,7 @@
 <p class="p">Arbetsytor kan användas för att organisera ditt arbete. Du kan till exempel ha alla dina kommunikationsfönster, som exempelvis e-post- och chatt-program, på en arbetsyta och arbetet du håller på med på en annan arbetsyta. Din musikhanterare skulle kunna vara på en tredje arbetsyta.</p>
 <p class="p">Använda arbetsytor:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">I översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>, flytta din markör till den högra sidan av skärmen.</p></li>
+<li class="list"><p class="p">I översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>, flytta din markör till den högra sidan av skärmen.</p></li>
 <li class="list"><p class="p">En vertikal panel kommer att visas som visar de arbetsytor som används, samt en tom arbetsyta. Detta är arbetsyteväxlaren.</p></li>
 <li class="list"><p class="p">För att lägga till en arbetsyta, dra och släpp ett fönster från en existerande arbetsyta till den tomma arbetsytan i arbetsyteväxlaren. Denna arbetsyta innehåller nu fönstret du släppte, och en ny tom arbetsyta kommer att visas nedanför den.</p></li>
 <li class="list"><p class="p">För att ta bort en arbetsyta, stäng helt enkelt alla dess program eller flytta dem till andra arbetsytor.</p></li>
@@ -66,16 +66,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Arbeta med arbetsytor">Arbeta med arbetsytor</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.sv#working-with-workspaces" title="Arbeta med arbetsytor">Arbeta med arbetsytor</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-workspaces-movewindow.html" title="Flytta ett fönster till en annan arbetsyta">Flytta ett fönster till en annan arbetsyta</a><span class="desc"> — Gå till översiktsvyn <span class="gui">Aktiviteter</span> och dra fönstret till en annan arbetsyta.</span>
+<a href="shell-workspaces-movewindow.html.sv" title="Flytta ett fönster till en annan arbetsyta">Flytta ett fönster till en annan arbetsyta</a><span class="desc"> — Gå till översiktsvyn <span class="gui">Aktiviteter</span> och dra fönstret till en annan arbetsyta.</span>
 </li>
 <li class="links ">
-<a href="shell-workspaces-switch.html" title="Växla mellan arbetsytor">Växla mellan arbetsytor</a><span class="desc"> — Använd arbetsyteväxlaren.</span>
+<a href="shell-workspaces-switch.html.sv" title="Växla mellan arbetsytor">Växla mellan arbetsytor</a><span class="desc"> — Använd arbetsyteväxlaren.</span>
 </li>
 </ul></div>
 </div></div>

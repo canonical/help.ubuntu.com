@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html" title="有線によるネットワーク">有線によるネットワーク</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.ja" title="有線によるネットワーク">有線によるネットワーク</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">固定 IP アドレスの接続を作成</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">ほとんどのネットワークでは、ネットワーク接続を行うとユーザーのコンピューターに対して<span class="link"><a href="net-what-is-ip-address.html" title="IPアドレスとは">IP アドレス</a></span>とその他の詳細が自動的に割り当てられます。こうした情報は定期的に変更することができますが、アドレスを常に認識しておけるようコンピューターに固定の IP アドレスを持たせたい場合があります (たとえば、コンピューターがファイルサーバーなどの場合)。</p>
+<p class="p">ほとんどのネットワークでは、ネットワーク接続を行うとユーザーのコンピューターに対して<span class="link"><a href="net-what-is-ip-address.html.ja" title="IPアドレスとは">IP アドレス</a></span>とその他の詳細が自動的に割り当てられます。こうした情報は定期的に変更することができますが、アドレスを常に認識しておけるようコンピューターに固定の IP アドレスを持たせたい場合があります (たとえば、コンピューターがファイルサーバーなどの場合)。</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">コンピューターに固定 (静的) IP アドレスを与える:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p"><span class="gui">ネットワーク</span>を選択して設定パネルを開きます。</p></li>
 <li class="steps"><p class="p">In the left pane, select the network connection that you want to have
@@ -65,7 +65,7 @@
       button will be located next to the active network.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
       and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>
-<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html" title="IPアドレスとは">IP Address</a></span> and
+<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html.ja" title="IPアドレスとは">IP Address</a></span> and
       <span class="gui">Gateway</span>, as well as the appropriate <span class="gui">Netmask</span>.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">DNS</span> section, switch <span class="gui">Automatic</span> to
       <span class="gui">OFF</span>. Enter the IP address of a DNS server you want to use.
@@ -85,13 +85,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html" title="有線によるネットワーク">有線によるネットワーク</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="有線 (Ethernet) ネットワークへの接続">有線インターネット接続</a></span>、<span class="link"><a href="net-fixed-ip-address.html" title="固定 IP アドレスの接続を作成">固定 IP アドレス</a></span>…</span>
+<a href="net-wired.html.ja" title="有線によるネットワーク">有線によるネットワーク</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.ja" title="有線 (Ethernet) ネットワークへの接続">有線インターネット接続</a></span>、<span class="link"><a href="net-fixed-ip-address.html.ja" title="固定 IP アドレスの接続を作成">固定 IP アドレス</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-findip.html" title="IP アドレスを確認する">IP アドレスを確認する</a><span class="desc"> — ネットワーク関連の問題の原因を解決する際、IPアドレスがわかると役立つ場合があります。</span>
+<a href="net-findip.html.ja" title="IP アドレスを確認する">IP アドレスを確認する</a><span class="desc"> — ネットワーク関連の問題の原因を解決する際、IPアドレスがわかると役立つ場合があります。</span>
 </li></ul></div>
 </div></div>
 </div>

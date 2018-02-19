@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="సార్వత్రిక ప్రాప్యత">సార్వత్రిక ప్రాప్యత</a> › <a class="trail" href="a11y.html#vision" title="దృష్టి వైకల్యం">దృష్టి వైకల్యం</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.te" title="సార్వత్రిక ప్రాప్యత">సార్వత్రిక ప్రాప్యత</a> › <a class="trail" href="a11y.html.te#vision" title="దృష్టి వైకల్యం">దృష్టి వైకల్యం</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">తెరపై పాఠ్య పరిమాణాన్ని మార్చండి</span></h1></div>
@@ -51,13 +51,13 @@
 <div class="contents">
 <p class="p">మీ తెరపైని పాఠం చదువుటకు మీకు కష్టంగా వుంటే, మీరు ఖతి పరిమాణం పెంచవచ్చు.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.te#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Large Text</span> to <span class="gui">ON</span> in the <span class="gui">Seeing</span>
       section.</p></li>
 </ol></div></div></div>
-<p class="p">ప్రత్యామ్నాయంగా, పై పట్టీ పైని <span class="link"><a href="a11y-icon.html" title="సార్వత్రిక సౌలభ్యత మెనును కనుగొనండి">ఏక్సెసబిలిటీ ప్రతిమ</a></span> నొక్కి <span class="gui">పెద్ద పాఠం</span> ఎంపిక చేయుట ద్వారా మీరు ఖతి పరిమాణంను త్వరితంగా మార్చవచ్చు.</p>
+<p class="p">ప్రత్యామ్నాయంగా, పై పట్టీ పైని <span class="link"><a href="a11y-icon.html.te" title="సార్వత్రిక సౌలభ్యత మెనును కనుగొనండి">ఏక్సెసబిలిటీ ప్రతిమ</a></span> నొక్కి <span class="gui">పెద్ద పాఠం</span> ఎంపిక చేయుట ద్వారా మీరు ఖతి పరిమాణంను త్వరితంగా మార్చవచ్చు.</p>
 <div class="note note-tip" title="చిట్కా"><div class="inner"><div class="region"><div class="contents"><p class="p">In many applications, you can increase the text size at any time by
     pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>+</kbd></span></span>. To reduce the text
     size, press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>-</kbd></span></span>.</p></div></div></div></div>
@@ -68,7 +68,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="దృష్టి వైకల్యం">దృష్టి వైకల్యం</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.te#vision" title="దృష్టి వైకల్యం">దృష్టి వైకల్యం</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

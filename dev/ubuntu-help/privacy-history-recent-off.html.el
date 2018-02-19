@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="privacy.html" title="Ρυθμίσεις ιδιωτικότητας">Ρυθμίσεις ιδιωτικότητας</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="privacy.html.el" title="Ρυθμίσεις ιδιωτικότητας">Ρυθμίσεις ιδιωτικότητας</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Απενεργοποίηση καταγραφής του ιστορικού αρχείων</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ιδιωτικότητα</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ιδιωτικότητα</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ιδιωτικότητα</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Επιλέξτε <span class="gui">Χρήση &amp; ιστορικό</span>.</p></li>
 <li class="steps">
@@ -71,7 +71,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Περιορίσετε το χρονικό διάστημα που καταγράφεται το ιστορικό των αρχείων σας</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ιδιωτικότητα</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ιδιωτικότητα</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ιδιωτικότητα</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Επιλέξτε <span class="gui">Χρήση &amp; ιστορικό</span>.</p></li>
 <li class="steps"><p class="p">Βεβαιωθείτε ότι ο διακόπτης <span class="gui">Πρόσφατα χρησιμοποιημένα</span> είναι στην επιλογή <span class="gui">ΝΑΙ</span>.</p></li>
@@ -85,9 +85,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a></li>
+<li class="links "><a href="files.html.el#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a></li>
 <li class="links ">
-<a href="privacy.html" title="Ρυθμίσεις ιδιωτικότητας">Ρυθμίσεις ιδιωτικότητας</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Αυτόματο κλείδωμα της οθόνης">Κλείδωμα οθόνης</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Απενεργοποιήστε ή περιορίστε την ανίχνευση του ιστορικού αρχείων">Χρήση ιστορικού</a></span>, <span class="link"><a href="privacy-purge.html" title="Εκκαθάριση απορριμμάτων &amp; προσωρινών αρχείων">Εκκαθάριση απορριμμάτων &amp; προσωρινών αρχείων</a></span>…</span>
+<a href="privacy.html.el" title="Ρυθμίσεις ιδιωτικότητας">Ρυθμίσεις ιδιωτικότητας</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.el" title="Αυτόματο κλείδωμα της οθόνης">Κλείδωμα οθόνης</a></span>, <span class="link"><a href="privacy-history-recent-off.html.el" title="Απενεργοποιήστε ή περιορίστε την ανίχνευση του ιστορικού αρχείων">Χρήση ιστορικού</a></span>, <span class="link"><a href="privacy-purge.html.el" title="Εκκαθάριση απορριμμάτων &amp; προσωρινών αρχείων">Εκκαθάριση απορριμμάτων &amp; προσωρινών αρχείων</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="keyboard.html" title="Tangentbord">Tangentbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="keyboard.html.sv" title="Tangentbord">Tangentbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="keyboard.html" title="Tangentbord">Tangentbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="keyboard.html.sv" title="Tangentbord">Tangentbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="a11y.html" title="Hjälpmedel">Hjälpmedel</a> › <a class="trail" href="a11y.html#mobility" title="Rörelsehinder">Rörelsehinder</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="a11y.html.sv" title="Hjälpmedel">Hjälpmedel</a> › <a class="trail" href="a11y.html.sv#mobility" title="Rörelsehinder">Rörelsehinder</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,14 +57,14 @@
 <div class="contents">
 <p class="p">Aktivera <span class="em">tangentstuds</span> för att bortse från snabbt repeterade tangenttryckningar. Om du till exempel lider av darrningar, som gör att du ibland oavsiktligt trycker ned en tangent flera gånger, bör du aktivera tangentstuds.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Hjälpmedel</span>.</p></li>
+<li class="steps"><p class="p">Öppna <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Hjälpmedel</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Hjälpmedel</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="gui">Skrivassistent (AccessX)</span> i avsnittet <span class="gui">Skriva</span>.</p></li>
 <li class="steps"><p class="p">Slå om <span class="gui">Tangentstuds</span> till <span class="gui">PÅ</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tips"><div class="inner">
 <div class="title title-note"><h2><span class="title">Aktivera och inaktivera tangentstuds snabbt</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Du kan snabbt aktivera eller inaktivera tangentstuds genom att klicka på <span class="link"><a href="a11y-icon.html" title="Hitta hjälpmedelsmenyn">hjälpmedelsikonen</a></span> i systemraden och välj <span class="gui">Studsande tangenter</span>. Hjälpmedelsikonen är synlig när en eller flera inställningar har aktiverats från panelen <span class="gui">Hjälpmedel</span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Du kan snabbt aktivera eller inaktivera tangentstuds genom att klicka på <span class="link"><a href="a11y-icon.html.sv" title="Hitta hjälpmedelsmenyn">hjälpmedelsikonen</a></span> i systemraden och välj <span class="gui">Studsande tangenter</span>. Hjälpmedelsikonen är synlig när en eller flera inställningar har aktiverats från panelen <span class="gui">Hjälpmedel</span>.</p></div></div>
 </div></div>
 <p class="p">Använd <span class="gui">Acceptansfördröjning</span>-skjutreglaget för att ändra hur länge tangentstuds väntar innan den registrerar nya tangenttryckningar. Välj <span class="gui">Pip när en tangent förkastas</span> om du vill att datorn skall ge ifrån sig ett ljud varje gång den ignorerar en tangenttryckning som sker för tätt inpå en tidigare tangenttryckning.</p>
 </div>
@@ -73,9 +73,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Rörelsehinder">Rörelsehinder</a></li>
+<li class="links "><a href="a11y.html.sv#mobility" title="Rörelsehinder">Rörelsehinder</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Tangentbord">Tangentbord</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Använd alternativa tangentbordslayouter">Tangentbordslayouter</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Få tangentbordsmarkören att blinka">markörblinkning</a></span>, <span class="link"><a href="a11y.html#mobility" title="Rörelsehinder">tangentbordshjälpmedel</a></span>…</span>
+<a href="keyboard.html.sv" title="Tangentbord">Tangentbord</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.sv" title="Använd alternativa tangentbordslayouter">Tangentbordslayouter</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sv" title="Få tangentbordsmarkören att blinka">markörblinkning</a></span>, <span class="link"><a href="a11y.html.sv#mobility" title="Rörelsehinder">tangentbordshjälpmedel</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

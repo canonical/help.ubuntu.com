@@ -43,40 +43,40 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ihre Arbeitsumgebung</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Einführung in GNOME"><span class="title">Einführung in GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Eine visuelle Einführung in Ihre Arbeitsumgebung, das obere Panel und die <span class="gui">Aktivitäten</span>-Übersicht.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Abmelden, ausschalten oder Benutzer wechseln"><span class="title">Abmelden, ausschalten oder Benutzer wechseln</span><span class="linkdiv-dash"> — </span><span class="desc">Erfahren Sie, wie Sie Ihr Benutzerkonto verlassen können, indem Sie sich abmelden, den Benutzer wechseln und so weiter.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.de" title="Einführung in GNOME"><span class="title">Einführung in GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Eine visuelle Einführung in Ihre Arbeitsumgebung, das obere Panel und die <span class="gui">Aktivitäten</span>-Übersicht.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.de" title="Abmelden, ausschalten oder Benutzer wechseln"><span class="title">Abmelden, ausschalten oder Benutzer wechseln</span><span class="linkdiv-dash"> — </span><span class="desc">Erfahren Sie, wie Sie Ihr Benutzerkonto verlassen können, indem Sie sich abmelden, den Benutzer wechseln und so weiter.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Anwendungen starten"><span class="title">Anwendungen starten</span><span class="linkdiv-dash"> — </span><span class="desc">Anwendungen in der <span class="gui">Aktivitäten</span>-Übersicht starten.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.de" title="Anwendungen starten"><span class="title">Anwendungen starten</span><span class="linkdiv-dash"> — </span><span class="desc">Anwendungen in der <span class="gui">Aktivitäten</span>-Übersicht starten.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ihre Arbeitsumgebung anpassen</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html" title="Benachrichtigungen und das Benachrichtigungsfeld"><span class="title">Benachrichtigungen und das Benachrichtigungsfeld</span><span class="linkdiv-dash"> — </span><span class="desc">Meldungen klappen vom oberen Rand des Bildschirms aus und informieren Sie über diverse Ereignisse.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html" title="Ihre Lieblingsanwendungen am Dash anheften"><span class="title">Ihre Lieblingsanwendungen am Dash anheften</span><span class="linkdiv-dash"> — </span><span class="desc">Fügen Sie Symbole häufig genutzter Programme zum Dash hinzu oder entfernen Sie sie daraus.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.de" title="Benachrichtigungen und das Benachrichtigungsfeld"><span class="title">Benachrichtigungen und das Benachrichtigungsfeld</span><span class="linkdiv-dash"> — </span><span class="desc">Meldungen klappen vom oberen Rand des Bildschirms aus und informieren Sie über diverse Ereignisse.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.de" title="Ihre Lieblingsanwendungen am Dash anheften"><span class="title">Ihre Lieblingsanwendungen am Dash anheften</span><span class="linkdiv-dash"> — </span><span class="desc">Fügen Sie Symbole häufig genutzter Programme zum Dash hinzu oder entfernen Sie sie daraus.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="Kalendereinträge"><span class="title">Kalendereinträge</span><span class="linkdiv-dash"> — </span><span class="desc">Ihre Termine im Kalender oben am Bildschirm anzeigen.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.de" title="Kalendereinträge"><span class="title">Kalendereinträge</span><span class="linkdiv-dash"> — </span><span class="desc">Ihre Termine im Kalender oben am Bildschirm anzeigen.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="apps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Anwendungen und Fenster</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="startup-applications.html" title="Autostartanwendungen"><span class="title">Autostartanwendungen</span><span class="linkdiv-dash"> — </span><span class="desc">Wählen Sie welche Programme gestartet werden sollen, wenn Sie sich einloggen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html" title="Der Sperrbildschirm"><span class="title">Der Sperrbildschirm</span><span class="linkdiv-dash"> — </span><span class="desc">Der dekorative und funktionale Sperrbildschirm vermittelt nützliche Informationen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows.html" title="Fenster und Arbeitsflächen"><span class="title">Fenster und Arbeitsflächen</span><span class="linkdiv-dash"> — </span><span class="desc">Verschieben und Organisieren Ihrer Fenster.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.de" title="Autostartanwendungen"><span class="title">Autostartanwendungen</span><span class="linkdiv-dash"> — </span><span class="desc">Wählen Sie welche Programme gestartet werden sollen, wenn Sie sich einloggen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.de" title="Der Sperrbildschirm"><span class="title">Der Sperrbildschirm</span><span class="linkdiv-dash"> — </span><span class="desc">Der dekorative und funktionale Sperrbildschirm vermittelt nützliche Informationen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows.html.de" title="Fenster und Arbeitsflächen"><span class="title">Fenster und Arbeitsflächen</span><span class="linkdiv-dash"> — </span><span class="desc">Verschieben und Organisieren Ihrer Fenster.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Nützliche Tastenkombinationen"><span class="title">Nützliche Tastenkombinationen</span><span class="linkdiv-dash"> — </span><span class="desc">Bewegen in der Arbeitsumgebung mit der Tastatur.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="status-icons.html" title="Was bedeuten die Symbole im oberen Panel?"><span class="title">Was bedeuten die Symbole im oberen Panel?</span><span class="linkdiv-dash"> — </span><span class="desc">Erläutert die Bedeutung der Symbole an der rechten Seite des oberen Panels.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Wechseln zwischen Fenstern"><span class="title">Wechseln zwischen Fenstern</span><span class="linkdiv-dash"> — </span><span class="desc">Drücken Sie <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.de" title="Nützliche Tastenkombinationen"><span class="title">Nützliche Tastenkombinationen</span><span class="linkdiv-dash"> — </span><span class="desc">Bewegen in der Arbeitsumgebung mit der Tastatur.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="status-icons.html.de" title="Was bedeuten die Symbole im oberen Panel?"><span class="title">Was bedeuten die Symbole im oberen Panel?</span><span class="linkdiv-dash"> — </span><span class="desc">Erläutert die Bedeutung der Symbole an der rechten Seite des oberen Panels.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.de" title="Wechseln zwischen Fenstern"><span class="title">Wechseln zwischen Fenstern</span><span class="linkdiv-dash"> — </span><span class="desc">Drücken Sie <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu-Leitfaden">Ubuntu-Leitfaden</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.de" title="Ubuntu-Leitfaden">Ubuntu-Leitfaden</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

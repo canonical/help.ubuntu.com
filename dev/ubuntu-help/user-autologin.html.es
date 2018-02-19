@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="user-accounts.html" title="Cuentas de usuario">Usuarios</a> › <a class="trail" href="user-accounts.html#manage" title="Gestionar las cuentas de usuario">Cuentas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="user-accounts.html.es" title="Cuentas de usuario">Usuarios</a> › <a class="trail" href="user-accounts.html.es#manage" title="Gestionar las cuentas de usuario">Cuentas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Iniciar sesión automáticamente</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Puede cambiar su configuración para que se inicie la sesión automáticamente con su cuenta cuando arranque el equipo:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Usuarios</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Usuarios</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Usuarios</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Seleccione la cuenta de usuario con la que quiere iniciar la sesión automáticamente al inicio.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Desbloquear</span> e introduzca su contraseña.</p></li>
@@ -65,12 +65,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Gestionar las cuentas de usuario">Gestionar las cuentas de usuario</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.es#manage" title="Gestionar las cuentas de usuario">Gestionar las cuentas de usuario</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-exit.html" title="Cerrar la sesión, apagar o cambiar de usuario">Cerrar la sesión, apagar o cambiar de usuario</a><span class="desc"> — Aprender cómo salir de su cuenta de usuario, cerrando la sesión, cambiando de usuario, etc.</span>
+<a href="shell-exit.html.es" title="Cerrar la sesión, apagar o cambiar de usuario">Cerrar la sesión, apagar o cambiar de usuario</a><span class="desc"> — Aprender cómo salir de su cuenta de usuario, cerrando la sesión, cambiando de usuario, etc.</span>
 </li></ul></div>
 </div></div>
 </div>

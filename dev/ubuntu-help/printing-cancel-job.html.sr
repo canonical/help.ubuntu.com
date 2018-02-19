@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="printing.html#problems" title="Проблеми са штампањем">Проблеми са штампањем</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html.sr#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="printing.html.sr#problems" title="Проблеми са штампањем">Проблеми са штампањем</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Откажите, паузирајте или отпустите посао штампања</span></h1></div>
@@ -56,7 +56,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Како да откажете посао штампања:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Штампачи</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Штампачи</span>.</p></li>
 <li class="steps"><p class="p">Притисните на <span class="gui">Штампачи</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Кликните на дугме <span class="gui">Прикажи послове</span> на десном крају прозорчета <span class="gui">Штампачи</span>.</p></li>
 <li class="steps"><p class="p">Откажите посао штампања притиском на дугме за заустављање.</p></li>
@@ -72,7 +72,7 @@
 <div class="region"><div class="contents">
 <p class="p">Ако желите да паузирате или да отпустите посао штампања, можете да урадите ово тако што ћете отићи на прозорче послова у подешавањима штампача и притиснути одговарајуће дугме.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Штампачи</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Штампачи</span>.</p></li>
 <li class="steps"><p class="p">Притисните на <span class="gui">Штампачи</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Притисните дугме <span class="gui">Прикажи послове</span> на десној страни прозорчета <span class="gui">Штампачи</span> и паузирајте или отпустите посао штампања у зависности од ваших потреба.</p></li>
 </ol></div></div></div>
@@ -83,7 +83,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html#problems" title="Проблеми са штампањем">Проблеми са штампањем</a><span class="desc"> — Неоткривени штампачи, гужвање папира, резултати штампања који изгледају лоше…</span>
+<a href="printing.html.sr#problems" title="Проблеми са штампањем">Проблеми са штампањем</a><span class="desc"> — Неоткривени штампачи, гужвање папира, резултати штампања који изгледају лоше…</span>
 </li></ul></div>
 </div></div></div>
 </div>

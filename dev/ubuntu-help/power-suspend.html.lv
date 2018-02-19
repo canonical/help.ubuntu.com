@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="power.html" title="Barošana un baterija">Barošana un baterija</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="power.html.lv" title="Barošana un baterija">Barošana un baterija</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="power.html" title="Barošana un baterija">Barošana un baterija</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="power.html.lv" title="Barošana un baterija">Barošana un baterija</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Kad jūs <span class="em">iesnaudināt</span> datoru, visas lietotnes un dokumenti paliek atvērti, bet ekrāns un citas datora sastāvdaļas izslēdzas, lai ietaupītu elektrību. Tomēr dators vēl joprojām ir ieslēgts un patērē mazliet strāvas. Jūs varat to pamodināt, nospiežot kādu taustiņu vai peles pogu. Ja tas neiedarbojas, spiediet ieslēgšanas pogu.</p>
-<p class="p">Dažiem datoriem ir aparatūras atbalsta problēmas, kuru dēļ tie <span class="link"><a href="power-suspendfail.html" title="Kāpēc mans dators neatmostas pēc iesnaudināšanas?">varētu nespēt sekmīgi iesnausties</a></span>. Ir ieteicams izmēģināt jūsu datora iesnaudināšanu, lai pārbaudītu, vai tā strādā, pirms uz to paļauties.</p>
+<p class="p">Dažiem datoriem ir aparatūras atbalsta problēmas, kuru dēļ tie <span class="link"><a href="power-suspendfail.html.lv" title="Kāpēc mans dators neatmostas pēc iesnaudināšanas?">varētu nespēt sekmīgi iesnausties</a></span>. Ir ieteicams izmēģināt jūsu datora iesnaudināšanu, lai pārbaudītu, vai tā strādā, pirms uz to paļauties.</p>
 <div class="note note-important" title="Svarīgi"><div class="inner">
 <div class="title title-note"><h2><span class="title">Vienmēr saglabājiet, pirms iesnaudināt</span></h2></div>
 <div class="region"><div class="contents"><p class="p">Jums vajadzētu saglabāt visu, ar ko strādājat, pirms iesnaudināt datoru, lai nezaudētu paveikto gadījumā, ja kaut kas nenostrādā pareizi un datoram neizdodas atmosties.</p></div></div>
@@ -66,24 +66,24 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Barošana un baterija">Barošana un baterija</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Pārbaudīt bateriju statusu">Baterijas status</a></span>, <span class="link"><a href="power-suspend.html" title="Kas notiek, iesnaudinot datoru?">iesnaudināšana</a></span>, <span class="link"><a href="power-whydim.html" title="Kāpēc pēc kāda laika ekrāns kļūst tumšāks?">ekrāna aptumšošana</a></span>…</span>
+<a href="power.html.lv" title="Barošana un baterija">Barošana un baterija</a><span class="desc"> — <span class="link"><a href="power-status.html.lv" title="Pārbaudīt bateriju statusu">Baterijas status</a></span>, <span class="link"><a href="power-suspend.html.lv" title="Kas notiek, iesnaudinot datoru?">iesnaudināšana</a></span>, <span class="link"><a href="power-whydim.html.lv" title="Kāpēc pēc kāda laika ekrāns kļūst tumšāks?">ekrāna aptumšošana</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html#suspend" title="Iesnaudināt">Iesnaudināt</a></li>
+<li class="links "><a href="shell-exit.html.lv#suspend" title="Iesnaudināt">Iesnaudināt</a></li>
 <li class="links ">
-<a href="power-autosuspend.html" title="Iestatīt automātisku iesnaudināšanu">Iestatīt automātisku iesnaudināšanu</a><span class="desc"> — Konfigurēt datoru tā, lai tas automātiski iesnaustos.</span>
+<a href="power-autosuspend.html.lv" title="Iestatīt automātisku iesnaudināšanu">Iestatīt automātisku iesnaudināšanu</a><span class="desc"> — Konfigurēt datoru tā, lai tas automātiski iesnaustos.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="Kāpēc dators izslēdzas, aizverot tā vāku?">Kāpēc dators izslēdzas, aizverot tā vāku?</a><span class="desc"> — Klēpjdatori "iesnaužas", kad kāds aizver to vāku, lai ietaupītu elektroenerģiju.</span>
+<a href="power-closelid.html.lv" title="Kāpēc dators izslēdzas, aizverot tā vāku?">Kāpēc dators izslēdzas, aizverot tā vāku?</a><span class="desc"> — Klēpjdatori "iesnaužas", kad kāds aizver to vāku, lai ietaupītu elektroenerģiju.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Kāpēc mans dators neatmostas pēc iesnaudināšanas?">Kāpēc mans dators neatmostas pēc iesnaudināšanas?</a><span class="desc"> — Dažu datoru sastāvā ir aparatūra, kas izraisa problēmas ar iesnaudināšanu.</span>
+<a href="power-suspendfail.html.lv" title="Kāpēc mans dators neatmostas pēc iesnaudināšanas?">Kāpēc mans dators neatmostas pēc iesnaudināšanas?</a><span class="desc"> — Dažu datoru sastāvā ir aparatūra, kas izraisa problēmas ar iesnaudināšanu.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Lietot mazāk enerģijas un paildzināt bateriju mūžu">Lietot mazāk enerģijas un paildzināt bateriju mūžu</a><span class="desc"> — Ieteikumi, lai samazinātu jūsu datora enerģijas patēriņu.</span>
+<a href="power-batterylife.html.lv" title="Lietot mazāk enerģijas un paildzināt bateriju mūžu">Lietot mazāk enerģijas un paildzināt bateriju mūžu</a><span class="desc"> — Ieteikumi, lai samazinātu jūsu datora enerģijas patēriņu.</span>
 </li>
 </ul></div>
 </div></div>

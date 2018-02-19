@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="color.html" title="Správa barev">Správa barev</a> › <a class="trail" href="color.html#profiles" title="Profily barev">Profily barev</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="color.html.cs" title="Správa barev">Správa barev</a> › <a class="trail" href="color.html.cs#profiles" title="Profily barev">Profily barev</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="color.html" title="Správa barev">Správa barev</a> › <a class="trail" href="color.html#profiles" title="Profily barev">Profily barev</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="color.html.cs" title="Správa barev">Správa barev</a> › <a class="trail" href="color.html.cs#profiles" title="Profily barev">Profily barev</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -63,25 +63,25 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Profily barev">Profily barev</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.cs#profiles" title="Profily barev">Profily barev</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-whatisspace.html" title="Co je to prostor barev?">Co je to prostor barev?</a><span class="desc"> — Prostor barev je definovaný rozsah barev.</span>
+<a href="color-whatisspace.html.cs" title="Co je to prostor barev?">Co je to prostor barev?</a><span class="desc"> — Prostor barev je definovaný rozsah barev.</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html" title="Jak mohu naimportovat profily barev?">Jak mohu naimportovat profily barev?</a><span class="desc"> — Profily barev lze naimportovat jejich otevřením.</span>
+<a href="color-howtoimport.html.cs" title="Jak mohu naimportovat profily barev?">Jak mohu naimportovat profily barev?</a><span class="desc"> — Profily barev lze naimportovat jejich otevřením.</span>
 </li>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Jak můžu svým zařízení přiřadit profily?">Jak můžu svým zařízení přiřadit profily?</a><span class="desc"> — Na přidání profilu barev se podívejte do <span class="guiseq"><span class="gui">Nastavení</span> ▸ <span class="gui">Barvy</span></span>.</span>
+<a href="color-assignprofiles.html.cs" title="Jak můžu svým zařízení přiřadit profily?">Jak můžu svým zařízení přiřadit profily?</a><span class="desc"> — Na přidání profilu barev se podívejte do <span class="guiseq"><span class="gui">Nastavení</span> ▸ <span class="gui">Barvy</span></span>.</span>
 </li>
 <li class="links ">
-<a href="color-gettingprofiles.html" title="Kde získám profily barev?">Kde získám profily barev?</a><span class="desc"> — Profily barev jsou poskytovány výrobci a můžete si je sami vygenerovat.</span>
+<a href="color-gettingprofiles.html.cs" title="Kde získám profily barev?">Kde získám profily barev?</a><span class="desc"> — Profily barev jsou poskytovány výrobci a můžete si je sami vygenerovat.</span>
 </li>
 <li class="links ">
-<a href="color-canshareprofiles.html" title="Mohu sdílet své profily barev?">Mohu sdílet své profily barev?</a><span class="desc"> — Sdílení profilů barev není nikdy dobrý nápad, protože hardware s postupem času mění své parametry.</span>
+<a href="color-canshareprofiles.html.cs" title="Mohu sdílet své profily barev?">Mohu sdílet své profily barev?</a><span class="desc"> — Sdílení profilů barev není nikdy dobrý nápad, protože hardware s postupem času mění své parametry.</span>
 </li>
 </ul></div>
 </div></div>

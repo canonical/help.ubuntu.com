@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="mouse.html" title="Миш">Миш</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="mouse.html.sr" title="Миш">Миш</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="mouse.html" title="Миш">Миш</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="mouse.html.sr" title="Миш">Миш</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="region"><div class="contents">
 <p class="p">Можете да лупнете вашу додирну таблу за клик уместо да користите дугме.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Миш и додирна табла</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Миш и додирна табла</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Миш и додирна табла</span> да отворите панел.</p></li>
 <li class="steps">
 <p class="p">У одељку <span class="gui">Додирна табла</span>, изаберите <span class="gui">Лупни за клик</span>.</p>
@@ -69,8 +69,8 @@
 <li class="list"><p class="p">Да кликнете, лупните по додирној табли.</p></li>
 <li class="list"><p class="p">Да извршите двоклик, лупните двапут.</p></li>
 <li class="list"><p class="p">Да превучете ставку, лупните двапут али не одижите ваш прст након другог лупкања. Превуците ставку где желите, затим одигните ваш прст да је убаците.</p></li>
-<li class="list"><p class="p">Ако ваша додирна табла подржава вишепрстно лупкање, извршите десни клик тако што ћете лупнути са два прста одједном. Иначе, мораћете још увек да користите физичке тастере за извршавање десног клика. Погледајте <span class="link"><a href="a11y-right-click.html" title="Симулирајте десни клик миша">Симулирајте десни клик миша</a></span> за начин извршавања десног клика без другог тастера миша.</p></li>
-<li class="list"><p class="p">Ако ваша додирна табла подржава вишепрстно лупкање, извршите <span class="link"><a href="mouse-middleclick.html" title="Средњи клик">средњи клик</a></span> тако што ћете лупнути са три прста одједном.</p></li>
+<li class="list"><p class="p">Ако ваша додирна табла подржава вишепрстно лупкање, извршите десни клик тако што ћете лупнути са два прста одједном. Иначе, мораћете још увек да користите физичке тастере за извршавање десног клика. Погледајте <span class="link"><a href="a11y-right-click.html.sr" title="Симулирајте десни клик миша">Симулирајте десни клик миша</a></span> за начин извршавања десног клика без другог тастера миша.</p></li>
+<li class="list"><p class="p">Ако ваша додирна табла подржава вишепрстно лупкање, извршите <span class="link"><a href="mouse-middleclick.html.sr" title="Средњи клик">средњи клик</a></span> тако што ћете лупнути са три прста одједном.</p></li>
 </ul></div></div></div>
 <div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">Када лупкате или превлачите са више прстију, уверите се да су ваши прсти довољно размакнути. Ако су ваши прсти превише близу, ваш рачунар може помислити да су у ствари један прст.</p></div></div></div></div>
 </div></div>
@@ -80,7 +80,7 @@
 <div class="region"><div class="contents">
 <p class="p">Можете да клизате користећи додирну таблу са два прста.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Миш и додирна табла</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Миш и додирна табла</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Миш и додирна табла</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">У одељку <span class="gui">Додирна табла</span>, изаберите <span class="gui">Клизање са два прста</span>.</p></li>
 </ol></div></div></div>
@@ -93,7 +93,7 @@
 <div class="region"><div class="contents">
 <p class="p">Можете да превлачите садржај као да померате стварни комад папира користећи додирну таблу.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Миш и додирна табла</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Миш и додирна табла</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Миш и додирна табла</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">У одељку <span class="gui">Додирна табла</span>, изаберите <span class="gui">Природно клизање</span>.</p></li>
 </ol></div></div></div>
@@ -105,7 +105,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html" title="Миш">Миш</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Користите миша левом руком">За леворуке</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Подесите брзину миша и додирне табле">брзина и осетљивост</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Кликните, превуците, или клизајте на додирној табли">кликање и клизање додирном таблом</a></span>…</span>
+<a href="mouse.html.sr" title="Миш">Миш</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.sr" title="Користите миша левом руком">За леворуке</a></span>, <span class="link"><a href="mouse-sensitivity.html.sr" title="Подесите брзину миша и додирне табле">брзина и осетљивост</a></span>, <span class="link"><a href="mouse-touchpad-click.html.sr" title="Кликните, превуците, или клизајте на додирној табли">кликање и клизање додирном таблом</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

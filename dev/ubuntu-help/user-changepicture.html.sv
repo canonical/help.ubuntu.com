@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="user-accounts.html" title="Användarkonton">Användare</a> › <a class="trail" href="user-accounts.html#manage" title="Hantera användarkonton">Konton</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="user-accounts.html.sv" title="Användarkonton">Användare</a> › <a class="trail" href="user-accounts.html.sv#manage" title="Hantera användarkonton">Konton</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ändra ditt foto på inloggningsskärmen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">När du loggar in eller växlar användare kommer du att se en lista över användare med deras inloggningsbild. Du kan ändra ditt foto till en bild från en bildbank eller en egen bild. Du kan till och med ta en ny inloggningsbild med din webbkamera.</p>
-<p class="p">Du behöver <span class="link"><a href="user-admin-explain.html" title="Hur fungerar administratörsbehörighet?">administratörsbehörighet</a></span> för att redigera användarkonton andra än ditt eget.</p>
+<p class="p">Du behöver <span class="link"><a href="user-admin-explain.html.sv" title="Hur fungerar administratörsbehörighet?">administratörsbehörighet</a></span> för att redigera användarkonton andra än ditt eget.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Användare</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Användare</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Användare</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Om du vill redigera en annan användare än dig själv, tryck på <span class="gui">Lås upp</span> i övre högra hörnet och skriv in ditt lösenord när du blir tillfrågad.</p></li>
 <li class="steps">
@@ -69,12 +69,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Hantera användarkonton">Hantera användarkonton</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.sv#manage" title="Hantera användarkonton">Hantera användarkonton</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-admin-explain.html" title="Hur fungerar administratörsbehörighet?">Hur fungerar administratörsbehörighet?</a><span class="desc"> — Du behöver administratörsbehörighet för att ändra viktiga delar i ditt system.</span>
+<a href="user-admin-explain.html.sv" title="Hur fungerar administratörsbehörighet?">Hur fungerar administratörsbehörighet?</a><span class="desc"> — Du behöver administratörsbehörighet för att ändra viktiga delar i ditt system.</span>
 </li></ul></div>
 </div></div>
 </div>

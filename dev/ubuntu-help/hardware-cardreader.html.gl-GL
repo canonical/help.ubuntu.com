@@ -44,20 +44,20 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="media.html" title="Son, vídeo e imaxes">Son, vídeo e imaxes</a> › <a class="trail" href="media.html#photos" title="Fotos e cámaras dixitais">Fotos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="media.html.gl-GL" title="Son, vídeo e imaxes">Son, vídeo e imaxes</a> › <a class="trail" href="media.html.gl-GL#photos" title="Fotos e cámaras dixitais">Fotos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comúns">Problemas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problemas no lector de tarxetas multimedia</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Moitos computadores conteñen lectores para tarxetas de almacenamento SD, MMC, MS, CF e outras. Deberíanse detectar automaticamente e <span class="link"><a href="disk-partitions.html" title="Xestionar os volumes e particións">montar</a></span>. Aquí pode ler algunha resolución de erro se non se detectan e montan automaticamente.</p>
+<p class="p">Moitos computadores conteñen lectores para tarxetas de almacenamento SD, MMC, MS, CF e outras. Deberíanse detectar automaticamente e <span class="link"><a href="disk-partitions.html.gl-GL" title="Xestionar os volumes e particións">montar</a></span>. Aquí pode ler algunha resolución de erro se non se detectan e montan automaticamente.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Asegúrese de que a tarxeta está inserida correctamente. Moitas tarxetas parecen que están ao revés cando se insiren correctamente. Asegúrese tamén de que a tarxeta está ben colocada na ranura; algunhas tarxetas, especialmente as CF requiren que se faga un pouco de forza para inserilas correctamente. (Teña coidado de non empurrar moi forte. Se choca contra algo sólido, non o force)</p></li>
 <li class="steps"><p class="p">Open <span class="app">Files</span> from the
-  <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview. Does the inserted
+  <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview. Does the inserted
   card appear in the <span class="gui">Devices</span> list in the left sidebar? Sometimes the
   card appears in this list but is not mounted; click it once to mount. (If the
   sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
@@ -82,8 +82,8 @@ Linux.</p>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#photos" title="Fotos e cámaras dixitais">Fotos</a></li>
-<li class="links "><a href="hardware.html#problems" title="Problemas comúns">Problemas de hardware</a></li>
+<li class="links "><a href="media.html.gl-GL#photos" title="Fotos e cámaras dixitais">Fotos</a></li>
+<li class="links "><a href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas de hardware</a></li>
 </ul></div>
 </div></div></div>
 </div>

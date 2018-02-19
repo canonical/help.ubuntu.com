@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="media.html#sound" title="Grundläggande ljud">Ljud</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="media.html.sv#sound" title="Grundläggande ljud">Ljud</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Använd andra högtalar eller hörlurar</span></h1></div>
@@ -56,7 +56,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Välj en standard ljudinmatningsenhet</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Ljud</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Ljud</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Ljud</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">I fliken <span class="gui">Utgång</span>, välj enheten som du vill använda.</p></li>
 </ol></div>
@@ -69,13 +69,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="Grundläggande ljud">Grundläggande ljud</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Ändra ljudvolymen">Volym</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Använd andra högtalar eller hörlurar">högtalare och hörlurar</a></span>, <span class="link"><a href="sound-usemic.html" title="Använd en annan mikrofon">mikrofoner</a></span>…</span>
+<a href="media.html.sv#sound" title="Grundläggande ljud">Grundläggande ljud</a><span class="desc"> — <span class="link"><a href="sound-volume.html.sv" title="Ändra ljudvolymen">Volym</a></span>, <span class="link"><a href="sound-usespeakers.html.sv" title="Använd andra högtalar eller hörlurar">högtalare och hörlurar</a></span>, <span class="link"><a href="sound-usemic.html.sv" title="Använd en annan mikrofon">mikrofoner</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-usemic.html" title="Använd en annan mikrofon">Använd en annan mikrofon</a><span class="desc"> — Använd en analog eller USB-mikrofon och välj standardingångsenhet.</span>
+<a href="sound-usemic.html.sv" title="Använd en annan mikrofon">Använd en annan mikrofon</a><span class="desc"> — Använd en analog eller USB-mikrofon och välj standardingångsenhet.</span>
 </li></ul></div>
 </div></div>
 </div>

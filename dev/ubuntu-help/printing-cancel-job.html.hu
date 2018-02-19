@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="printing.html#problems" title="Nyomtatóproblémák">Nyomtatóproblémák</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html.hu#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="printing.html.hu#problems" title="Nyomtatóproblémák">Nyomtatóproblémák</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nyomtatási feladat megszakítása, felfüggesztése vagy folytatása</span></h1></div>
@@ -56,7 +56,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Nyomtatási feladat megszakítása:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Nyomtatók</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Nyomtatók</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Nyomtatók</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Nyomja meg a <span class="gui">Feladatok megjelenítése</span> gombot a <span class="gui">Nyomtatók</span> ablak jobb oldalán.</p></li>
 <li class="steps"><p class="p">A nyomtatási feladatot a leállítás gomb megnyomásával szakíthatja meg.</p></li>
@@ -72,7 +72,7 @@
 <div class="region"><div class="contents">
 <p class="p">Ha egy nyomtatási feladatot szeretne megszakítani vagy folytatni, akkor a nyomtató beállításai alatti feladatok ablak megfelelő gombjaival ezt megteheti.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Nyomtatók</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Nyomtatók</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Nyomtatók</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Nyomja meg a <span class="gui">Feladatok megjelenítése</span> gombot a <span class="gui">Nyomtatók</span> ablak jobb oldalán, és a helyzetnek megfelelően szüneteltesse vagy folytassa a feladatot.</p></li>
 </ol></div></div></div>
@@ -83,7 +83,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html#problems" title="Nyomtatóproblémák">Nyomtatóproblémák</a><span class="desc"> — Azonosítatlan nyomtatók, papírelakadás, rosszul kinéző nyomatok…</span>
+<a href="printing.html.hu#problems" title="Nyomtatóproblémák">Nyomtatóproblémák</a><span class="desc"> — Azonosítatlan nyomtatók, papírelakadás, rosszul kinéző nyomatok…</span>
 </li></ul></div>
 </div></div></div>
 </div>

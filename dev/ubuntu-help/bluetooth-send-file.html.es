@@ -44,22 +44,22 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="bluetooth.html.es" title="Bluetooth">Bluetooth</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="sharing.html" title="Compartir">Compartir</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="sharing.html.es" title="Compartir">Compartir</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Enviar archivos a un dispositivo Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Puede enviar archivos a los dispositivos Bluetooth conectados, tales como algunos teléfonos móviles u otros equipos. Algunos tipos de dispositivos no permiten la transferencia de archivos, o de tipos de archivos específicos. Puede enviar archivos de tres maneras: usando el icono de Bluetooth en la barra de menú, desde la ventana de configuración de Bluetooth o directamente desde el gestor de archivos.</p>
+<p class="p">Puede enviar archivos a los dispositivos Bluetooth conectados, tales como algunos teléfonos móviles u otros equipos. Algunos tipos de dispositivos no permiten la transferencia de archivos, o tipos de archivos específicos. Puede enviar archivos usando la ventana de configuración de Bluetooth.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Bluetooth</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Asegúrese de que el Bluetooth está activado: el deslizador en la barra de título debe estar <span class="gui">Encendido</span>.</p></li>
 <li class="steps">
-<p class="p">En la lista de <span class="gui">Dispositivos</span>, seleccione el dispositivo al que enviar los archivos. Si el dispositivo no aparece en la lista como <span class="gui">Conectado</span>, deberá <span class="link"><a href="bluetooth-connect-device.html" title="Conectar su equipo a un dispositivo Bluetooth">conectarse</a></span> a él.</p>
+<p class="p">En la lista de <span class="gui">Dispositivos</span>, seleccione el dispositivo al que enviar los archivos. Si el dispositivo no aparece en la lista como <span class="gui">Conectado</span>, deberá <span class="link"><a href="bluetooth-connect-device.html.es" title="Conectar su equipo a un dispositivo Bluetooth">conectarse</a></span> a él.</p>
 <p class="p">Aparece un panel específico para el dispositivo externo.</p>
 </li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Enviar archivos...</span> y aparecerá el selector de archivos.</p></li>
@@ -77,17 +77,17 @@
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Conectar su equipo a un dispositivo Bluetooth">Connectar</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Enviar archivos a un dispositivo Bluetooth">envar archivos</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Encender o apagar el Bluetooth">apagar y encender</a></span>…</span>
+<a href="bluetooth.html.es" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.es" title="Conectar su equipo a un dispositivo Bluetooth">Connectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.es" title="Enviar archivos a un dispositivo Bluetooth">envar archivos</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.es" title="Encender o apagar el Bluetooth">apagar y encender</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Compartir">Compartir</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Compartir su escritorio">Compartición del escritorio</a></span>, <span class="link"><a href="files-share.html" title="Compartir archivos por correo-e">Compartir archivos por correo-e</a></span>, <span class="link"><a href="sharing-media.html" title="Compartir su música, fotos y vídeos">Compartición de medios</a></span>…</span>
+<a href="sharing.html.es" title="Compartir">Compartir</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.es" title="Compartir su escritorio">Compartición del escritorio</a></span>, <span class="link"><a href="files-share.html.es" title="Compartir archivos por correo-e">Compartir archivos por correo-e</a></span>, <span class="link"><a href="sharing-media.html.es" title="Compartir su música, fotos y vídeos">Compartición de medios</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="Compartir archivos por correo-e">Compartir archivos por correo-e</a><span class="desc"> — Transferencia sencilla de archivos a sus contactos de correo-e desde el gestor de archivos.</span>
+<a href="files-share.html.es" title="Compartir archivos por correo-e">Compartir archivos por correo-e</a><span class="desc"> — Transferencia sencilla de archivos a sus contactos de correo-e desde el gestor de archivos.</span>
 </li></ul></div>
 </div></div>
 </div>

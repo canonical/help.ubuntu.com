@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="tips.html" title="Tip &amp; trik">Tip &amp; trik</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="tips.html.id" title="Tip &amp; trik">Tip &amp; trik</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Determine which version of GNOME is running</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">You can determine the version of GNOME that is running on your system by
   going to the <span class="gui">Details</span> panel in <span class="gui">Settings</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Rincian</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Rincian</span>.</p></li>
 <li class="steps">
 <p class="p">Klik pada <span class="gui">Rincian</span> untuk membuka panel.</p>
 <p class="p">A window appears showing information about your system, including your
@@ -65,7 +65,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Tip &amp; trik">Tip &amp; trik</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Masukkan karakter khusus">Karakter khusus</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Klik tengah">pintasan klik tengah</a></span>…</span>
+<a href="tips.html.id" title="Tip &amp; trik">Tip &amp; trik</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.id" title="Masukkan karakter khusus">Karakter khusus</a></span>, <span class="link"><a href="mouse-middleclick.html.id" title="Klik tengah">pintasan klik tengah</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

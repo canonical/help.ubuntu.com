@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#common-file-tasks" title="Common tasks">Common tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ca" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.ca#common-file-tasks" title="Common tasks">Common tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Copy or move files and folders</span></h1></div>
@@ -118,7 +118,7 @@
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">You cannot copy or move a file into a folder that is <span class="em">read-only</span>.
   Some folders are read-only to prevent you from making changes to their
   contents. You can change things from being read-only by
-  <span class="link"><a href="nautilus-file-properties-permissions.html" title="Set file permissions">changing file permissions
+  <span class="link"><a href="nautilus-file-properties-permissions.html.ca" title="Set file permissions">changing file permissions
   </a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -126,12 +126,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Common tasks">Common tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ca#common-file-tasks" title="Common tasks">Common tasks</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-browse.html" title="Browse files and folders">Browse files and folders</a><span class="desc"> — Manage and organize files with the file manager.</span>
+<a href="files-browse.html.ca" title="Browse files and folders">Browse files and folders</a><span class="desc"> — Manage and organize files with the file manager.</span>
 </li></ul></div>
 </div></div>
 </div>

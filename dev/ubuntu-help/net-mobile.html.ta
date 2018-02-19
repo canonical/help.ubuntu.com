@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ் பிணையமாக்கம்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.ta" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ் பிணையமாக்கம்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Connect to mobile broadband</span></h1></div>
@@ -54,7 +54,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">If you do not have a built-in 3G modem, connect your phone or
     Internet stick to a USB port on your computer.</p></li>
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="நீங்களும் உங்கள் கணினியும்">system menu</a></span> from the right
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#yourname" title="நீங்களும் உங்கள் கணினியும்">system menu</a></span> from the right
     side of the top bar.</p></li>
 <li class="steps">
 <p class="p">Select
@@ -91,10 +91,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ் பிணையமாக்கம்</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="ஒரு மறைக்கப்பட்ட வயர்லெஸ் பிணையத்துக்கு இணைத்தல்">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="என் வயர்லெஸ் பிணையம் ஏன் தொடர்ந்து துண்டிக்கப்படுகிறது?">Disconnecting</a></span>…
+<a href="net-wireless.html.ta" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ் பிணையமாக்கம்</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.ta" title="ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ta" title="ஒரு மறைக்கப்பட்ட வயர்லெஸ் பிணையத்துக்கு இணைத்தல்">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ta" title="என் வயர்லெஸ் பிணையம் ஏன் தொடர்ந்து துண்டிக்கப்படுகிறது?">Disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

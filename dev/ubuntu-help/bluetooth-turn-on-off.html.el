@@ -43,23 +43,33 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="bluetooth.html.el" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ενεργοποίηση ή απενεργοποίηση του bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Μπορείτε να ενεργοποιήσετε το Bluetooth για να συνδεθείτε με άλλες συσκευές Bluetooth, ή να το απενεργοποιήσετε για να εξοικονομήσετε ενέργεια. Για να ενεργοποιήσετε το Bluetooth, κάντε κλικ στο εικονίδιο του Bluetooth στη γραμμή μενού και αλλάξτε το <span class="gui">Bluetooth</span> σε <span class="gui">ΝΑΙ</span>.</p>
-<p class="p">Πολλοί φορητοί υπολογιστές έχουν έναν διακόπτη υλικού ή συνδυασμό πλήκτρων για ενεργοποίηση και απενεργοποίηση του Bluetooth. Εάν το Bluetooth είναι ανενεργό, δεν θα δείτε ένα εικονίδιο Bluetooth στη γραμμή μενού. Ψάξτε έναν διακόπτη στον υπολογιστή σας ή ένα πλήκτρο στο πληκτρολόγιο σας. Το πλήκτρο πληκτρολογίου προσπελάζεται συχνά με τη βοήθεια του πλήκτρου <span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
-<p class="p">Για να απενεργοποιήσετε το Bluetooth, κάντε κλικ στο εικονίδιο του και αλλάξτε το <span class="gui">Bluetooth</span> σε <span class="gui">ΟΧΙ</span>.</p>
-<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Ο υπολογιστής σας είναι <span class="link"><a href="bluetooth-visibility.html" title="Τι είναι η ορατότητα Bluetooth;">ορατός</a></span> αν το <span class="gui">Ορατό</span> είναι στην επιλογή <span class="gui">ΝΑΙ</span> στο μενού Bluetooth.</p></div></div></div></div>
+<p class="p">Μπορείτε να ενεργοποιήσετε το Bluetooth για να συνδεθείτε με άλλες συσκευές Bluetooth, ή να το απενεργοποιήσετε για να εξοικονομήσετε ενέργεια. Για να ενεργοποιήσετε το Bluetooth:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Bluetooth</span> για να ανοίξετε τον πίνακα.</p></li>
+<li class="steps"><p class="p">Ορίστε τον διακόπτη στην κορυφή σε <span class="gui">ΝΑΙ</span>.</p></li>
+</ol></div></div></div>
+<p class="p">Πολλοί φορητοί υπολογιστές έχουν έναν διακόπτη υλικού ή συνδυασμό πλήκτρων για ενεργοποίηση και απενεργοποίηση του Bluetooth. Ψάξτε για έναν διακόπτη στον υπολογιστή σας ή ένα πλήκτρο στο πληκτρολόγιο σας. Το πλήκτρο πληκτρολογίου προσπελάζεται συχνά με τη βοήθεια του πλήκτρου <span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
+<p class="p">Για να απενεργοποιήσετε το Bluetooth:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Ανοίξτε το <span class="gui"><a href="shell-introduction.html.el#yourname" title="Εσείς και ο υπολογιστή σας">μενού του συστήματος</a></span> από τη δεξιά πλευρά της πάνω γραμμής.</p></li>
+<li class="steps"><p class="p">Επιλέξτε <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span> Εκτός χρήσης</span>. Θα επεκταθεί η ενότητα Bluetooth του μενού.</p></li>
+<li class="steps"><p class="p">Επιλέξτε <span class="gui">Απενεργοποίηση</span>.</p></li>
+</ol></div></div></div>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Ο υπολογιστής σας είναι <span class="link"><a href="bluetooth-visibility.html.el" title="Τι είναι η ορατότητα Bluetooth;">ορατός</a></span> όσο ο πίνακας <span class="gui">Bluetooth</span> είναι ανοιχτός.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth">Σύνδεση</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Αποστολή αρχείων σε μια συσκευή Bluetooth">Αποστολή αρχείων</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Ενεργοποίηση ή απενεργοποίηση του bluetooth">Ενεργοποίηση και απενεργοποίηση</a></span>…</span>
+<a href="bluetooth.html.el" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.el" title="Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth">Σύνδεση</a></span>, <span class="link"><a href="bluetooth-send-file.html.el" title="Αποστολή αρχείων σε μια συσκευή Bluetooth">Αποστολή αρχείων</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.el" title="Ενεργοποίηση ή απενεργοποίηση του bluetooth">Ενεργοποίηση και απενεργοποίηση</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

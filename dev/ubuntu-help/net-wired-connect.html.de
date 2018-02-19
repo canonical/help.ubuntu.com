@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wired.html" title="Kabelverbindungen">Kabelverbindungen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wired.html.de" title="Kabelverbindungen">Kabelverbindungen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mit einem Kabelnetzwerk (Ethernet) verbinden</span></h1></div>
@@ -52,14 +52,14 @@
 <p class="p">Bei den meisten kabelgebundenen Netzwerkverbindungen genügt es, ein Netzwerkkabel einzustecken. Das Netzwerksymbol (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="Einstellungen"></span></span>) im oberen Panel wird mit drei Punkten angezeigt, solange die Verbindung aufgebaut wird. Die Punkte verschwinden, sobald die Verbindung hergestellt ist.</p>
 <p class="p">Falls dies nicht geschieht, sollten Sie zunächst sicherstellen, dass Ihr Netzwerkkabel eingesteckt ist. Ein Ende des Kabels gehört in die rechteckige Ethernet-(Netzwerk-)Buchse Ihres Rechners und das andere Ende in einen Switch, Router, eine Netzwerk-Wanddose oder Ähnliches (abhängig von der Ausstattung Ihres Netzwerks). Bei manchen Geräten zeigt ein Lämpchen neben der Ethernet-Buchse an, dass das Kabel eingesteckt und die Schnittstelle aktiv ist.</p>
 <div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Sie können nicht einen Rechner direkt über ein Netzwerkkabel mit einem anderen verbinden, zumindest nicht ohne zusätzliche Einrichtungsschritte. Um zwei Rechner zu verbinden, sollten Sie sie an einen Netzwerk-Hub, Router oder Switch anschließen.</p></div></div></div></div>
-<p class="p">Falls noch immer kein Verbindungsaufbau möglich ist, könnte Ihr Netzwerk die automatische Einrichtung (DHCP) nicht unterstützen. In diesem Fall müssen Sie es <span class="link"><a href="net-manual.html" title="Netzwerkeinstellungen manuell festlegen">manuell einrichten</a></span>.</p>
+<p class="p">Falls noch immer kein Verbindungsaufbau möglich ist, könnte Ihr Netzwerk die automatische Einrichtung (DHCP) nicht unterstützen. In diesem Fall müssen Sie es <span class="link"><a href="net-manual.html.de" title="Netzwerkeinstellungen manuell festlegen">manuell einrichten</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html" title="Kabelverbindungen">Kabelverbindungen</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Mit einem Kabelnetzwerk (Ethernet) verbinden">Kabelgebundene Internetverbindungen</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Eine Verbindung über eine feste IP-Adresse herstellen">feste IP-Adressen</a></span> …</span>
+<a href="net-wired.html.de" title="Kabelverbindungen">Kabelverbindungen</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.de" title="Mit einem Kabelnetzwerk (Ethernet) verbinden">Kabelgebundene Internetverbindungen</a></span>, <span class="link"><a href="net-fixed-ip-address.html.de" title="Eine Verbindung über eine feste IP-Adresse herstellen">feste IP-Adressen</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

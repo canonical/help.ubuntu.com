@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ログアウト、電源オフ、ユーザー切り替え</span></h1></div>
@@ -54,7 +54,7 @@
 <div class="region"><div class="contents">
 <p class="p">お使いのコンピューターを誰か他の人が使用できるようにするには、ログアウトしてもいいですし、あるいはログインしたままでユーザーの切り替えを行うこともできます。ユーザー切り替えを行った場合は、使用中のアプリケーションはすべて起動したままになり、ログインしなおせば元のままの状態になっています。</p>
 <p class="p">To <span class="gui">Log Out</span> or <span class="gui">Switch User</span>, click the
-  <span class="link"><a href="shell-introduction.html#yourname" title="あなた、およびお使いのコンピューターについて">system menu</a></span> on the right side of the
+  <span class="link"><a href="shell-introduction.html.ja#yourname" title="あなた、およびお使いのコンピューターについて">system menu</a></span> on the right side of the
   top bar, click your name and then choose the right option.</p>
 <div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Log Out</span> and <span class="gui">Switch User</span> entries only appear in
     the menu if you have more than one user account on your system.</p></div></div></div></div>
@@ -67,7 +67,7 @@
 <p class="p">If you’re leaving your computer for a short time, you should lock your
   screen to prevent other people from accessing your files or running
   applications. When you return, raise the
-  <span class="link"><a href="shell-lockscreen.html" title="The Lock Screen">lock screen</a></span> curtain and enter your
+  <span class="link"><a href="shell-lockscreen.html.ja" title="The Lock Screen">lock screen</a></span> curtain and enter your
   password to log back in. If you don’t lock your screen, it will lock
   automatically after a certain amount of time.</p>
 <p class="p">To lock your screen, click the system menu on the right side of the top
@@ -82,11 +82,11 @@
 <div class="title"><h3><span class="title">関連項目</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="session-screenlocks.html" title="The screen locks itself too quickly">The screen locks itself too quickly</a><span class="desc"> — Change how long to wait before locking the screen in the
+<a href="session-screenlocks.html.ja" title="The screen locks itself too quickly">The screen locks itself too quickly</a><span class="desc"> — Change how long to wait before locking the screen in the
     <span class="gui">Privacy</span> settings.</span>
 </li>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="画面を自動的にロックする">画面を自動的にロックする</a><span class="desc"> — 席を外している間に、他の人がデスクトップを使用できないようにします。</span>
+<a href="privacy-screen-lock.html.ja" title="画面を自動的にロックする">画面を自動的にロックする</a><span class="desc"> — 席を外している間に、他の人がデスクトップを使用できないようにします。</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -113,13 +113,13 @@
 <div class="title"><h3><span class="title">関連項目</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-autosuspend.html.ja" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="コンピューターをサスペンドしたらどうなりますか?">コンピューターをサスペンドしたらどうなりますか?</a><span class="desc"> — サスペンドするとコンピューターはスリープ状態となるため、消費電力が少なくなります。</span>
+<a href="power-suspend.html.ja" title="コンピューターをサスペンドしたらどうなりますか?">コンピューターをサスペンドしたらどうなりますか?</a><span class="desc"> — サスペンドするとコンピューターはスリープ状態となるため、消費電力が少なくなります。</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="電力の消費を抑えてバッテリー長持ちさせる">電力の消費を抑えてバッテリー長持ちさせる</a><span class="desc"> — コンピューターの電力消費を抑えるためのヒントです。</span>
+<a href="power-batterylife.html.ja" title="電力の消費を抑えてバッテリー長持ちさせる">電力の消費を抑えてバッテリー長持ちさせる</a><span class="desc"> — コンピューターの電力消費を抑えるためのヒントです。</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -137,7 +137,7 @@
 <p class="p">他のユーザーがログインしていれば、コンピューターの電源を切ったり再起動したりすることはできないでしょう。他のユーザーのセッションを終了させることになってしまうからです。あなたがシステム管理者であれば、電源を落とすのにパスワードを求められることもあります。</p>
 <div class="note note-tip" title="ヒント"><div class="inner"><div class="region"><div class="contents"><p class="p">You may want to power off your computer if you wish to move it and do
     not have a battery, if your battery is low or does not hold charge well. A
-    powered off computer also uses <span class="link"><a href="power-batterylife.html" title="電力の消費を抑えてバッテリー長持ちさせる">less
+    powered off computer also uses <span class="link"><a href="power-batterylife.html.ja" title="電力の消費を抑えてバッテリー長持ちさせる">less
     energy</a></span> than one which is suspended.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -145,7 +145,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">関連項目</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html" title="電力の消費を抑えてバッテリー長持ちさせる">電力の消費を抑えてバッテリー長持ちさせる</a><span class="desc"> — コンピューターの電力消費を抑えるためのヒントです。</span>
+<a href="power-batterylife.html.ja" title="電力の消費を抑えてバッテリー長持ちさせる">電力の消費を抑えてバッテリー長持ちさせる</a><span class="desc"> — コンピューターの電力消費を抑えるためのヒントです。</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -157,20 +157,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="index.html" title="Ubuntu デスクトップガイド">Ubuntu デスクトップガイド</a></li>
+<li class="links "><a href="index.html.ja" title="Ubuntu デスクトップガイド">Ubuntu デスクトップガイド</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Your desktop">Your desktop</a><span class="desc"> — 
-      <span class="link"><a href="clock-calendar.html" title="スケジュール表">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="通知メッセージとメッセージトレイ">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="便利なキーボードショートカット">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="ウィンドウとワークスペース">windows and workspaces</a></span>…
+<a href="shell-overview.html.ja" title="Your desktop">Your desktop</a><span class="desc"> — 
+      <span class="link"><a href="clock-calendar.html.ja" title="スケジュール表">Calendar</a></span>,
+      <span class="link"><a href="shell-notifications.html.ja" title="通知メッセージとメッセージトレイ">notifications</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.ja" title="便利なキーボードショートカット">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-windows.html.ja" title="ウィンドウとワークスペース">windows and workspaces</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="power.html" title="電源とバッテリー">電源とバッテリー</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="コンピューターをサスペンドしたらどうなりますか?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="しばらくすると画面が暗くなるのはなぜですか?">screen dimming</a></span>…
+<a href="power.html.ja" title="電源とバッテリー">電源とバッテリー</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.ja" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.ja" title="コンピューターをサスペンドしたらどうなりますか?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.ja" title="しばらくすると画面が暗くなるのはなぜですか?">screen dimming</a></span>…
     </span>
 </li>
 </ul></div>
@@ -178,7 +178,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-autologin.html" title="Log in automatically">Log in automatically</a><span class="desc"> — Set up automatic login for when you switch on your computer.</span>
+<a href="user-autologin.html.ja" title="Log in automatically">Log in automatically</a><span class="desc"> — Set up automatic login for when you switch on your computer.</span>
 </li></ul></div>
 </div></div>
 </div>

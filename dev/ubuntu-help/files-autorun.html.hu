@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html#removable" title="Cserélhető meghajtók és külső lemezek">Cserélhető meghajtók és külső lemezek</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.hu" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html.hu#removable" title="Cserélhető meghajtók és külső lemezek">Cserélhető meghajtók és külső lemezek</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Hang, videó és képek">Hang, videó és képek</a> › <a class="trail" href="media.html#photos" title="Fényképek és digitális fényképezőgépek">Fényképek</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.hu" title="Hang, videó és képek">Hang, videó és képek</a> › <a class="trail" href="media.html.hu#photos" title="Fényképek és digitális fényképezőgépek">Fényképek</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Hang, videó és képek">Hang, videó és képek</a> › <a class="trail" href="media.html#videos" title="Videók és videokamerák">Videók</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.hu" title="Hang, videó és képek">Hang, videó és képek</a> › <a class="trail" href="media.html.hu#videos" title="Videók és videokamerák">Videók</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Hang, videó és képek">Hang, videó és képek</a> › <a class="trail" href="media.html#music" title="Zene és hordozható hanglejátszók">Zene és lejátszók</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.hu" title="Hang, videó és képek">Hang, videó és képek</a> › <a class="trail" href="media.html.hu#music" title="Zene és hordozható hanglejátszók">Zene és lejátszók</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <p class="p">Beállítható, hogy egy alkalmazás automatikusan elinduljon egy eszköz csatlakoztatásakor, illetve lemez vagy médiakártya behelyezésekor. Digitális fényképezőgép csatlakoztatásakor például elindíttatható egy fényképkezelő alkalmazás. Ezt ki is kapcsolhatja, ekkor nem történik semmi eszköz csatlakoztatásakor.</p>
 <p class="p">A különböző eszközök csatlakoztatásakor elindítandó alkalmazások kiválasztásához:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Részletek</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Részletek</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Részletek</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Külső adathordozók</span> elemre.</p></li>
 <li class="steps">
@@ -77,7 +77,7 @@
 <dt class="terms">Hanglemezek</dt>
 <dd class="terms"><p class="p">Válassza ki kedvenc zenei alkalmazását vagy CD-hangbeolvasóját a hanglemezek kezeléséhez. Ha hang DVD-ket (DVD-A) használ, akkor válassza ki a megnyitásuk módját az <span class="gui">Egyéb adathordozók</span> alatt. Ha a hanglemezt a fájlkezelőben nyitja meg, akkor a számok WAV fájlokként jelennek meg, amelyeket bármely hanglejátszó alkalmazásban lejátszhat.</p></dd>
 <dt class="terms">Videolemezek</dt>
-<dd class="terms"><p class="p">Válassza ki a DVD-k kezelésére használandó kedvenc videoalkalmazását. Az <span class="gui">Egyéb adathordozók</span> gomb segítségével beállíthatja a Blu-ray, HD DVD, video CD (VCD) és super video CD (SVCD) megnyitásához használandó alkalmazást. Ha a DVD-k vagy más videolemezek nem működnek megfelelően, akkor nézze meg a <span class="link"><a href="video-dvd.html" title="Miért nem tudom a DVD-t lejátszani?">Miért nem tudom a DVD-t lejátszani?</a></span> szakaszt.</p></dd>
+<dd class="terms"><p class="p">Válassza ki a DVD-k kezelésére használandó kedvenc videoalkalmazását. Az <span class="gui">Egyéb adathordozók</span> gomb segítségével beállíthatja a Blu-ray, HD DVD, video CD (VCD) és super video CD (SVCD) megnyitásához használandó alkalmazást. Ha a DVD-k vagy más videolemezek nem működnek megfelelően, akkor nézze meg a <span class="link"><a href="video-dvd.html.hu" title="Miért nem tudom a DVD-t lejátszani?">Miért nem tudom a DVD-t lejátszani?</a></span> szakaszt.</p></dd>
 <dt class="terms">Üres lemezek</dt>
 <dd class="terms"><p class="p">Az <span class="gui">Egyéb adathordozók</span> gomb segítségével válasszon ki egy lemezíró alkalmazást az üres CD-k, DVD-k, Blu-ray lemezek és HD DVD-k megnyitásához.</p></dd>
 <dt class="terms">Fényképezőgépek és fényképek</dt>
@@ -101,10 +101,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#removable" title="Cserélhető meghajtók és külső lemezek">Cserélhető meghajtók és külső lemezek</a></li>
-<li class="links "><a href="media.html#photos" title="Fényképek és digitális fényképezőgépek">Fényképek</a></li>
-<li class="links "><a href="media.html#videos" title="Videók és videokamerák">Videók</a></li>
-<li class="links "><a href="media.html#music" title="Zene és hordozható hanglejátszók">Zene és lejátszók</a></li>
+<li class="links "><a href="files.html.hu#removable" title="Cserélhető meghajtók és külső lemezek">Cserélhető meghajtók és külső lemezek</a></li>
+<li class="links "><a href="media.html.hu#photos" title="Fényképek és digitális fényképezőgépek">Fényképek</a></li>
+<li class="links "><a href="media.html.hu#videos" title="Videók és videokamerák">Videók</a></li>
+<li class="links "><a href="media.html.hu#music" title="Zene és hordozható hanglejátszók">Zene és lejátszók</a></li>
 </ul></div>
 </div></div></div>
 </div>

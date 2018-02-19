@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="color.html" title="Gestión del color">Gestión del color</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="color.html.es" title="Gestión del color">Gestión del color</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="color.html" title="Gestión del color">Gestión del color</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="color.html.es" title="Gestión del color">Gestión del color</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Puede querer asignar un perfil de color a su pantalla o a su impresora para que los colores que muestren sean más precisos.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Color</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Color</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Color</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Seleccione el dispositivo para el que quiere añadir un perfil.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Añadir perfil</span> puede seleccionar un perfil existente o para importar un archivo nuevo.</p></li>
@@ -70,20 +70,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html" title="Gestión del color">Gestión del color</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html" title="¿Por qué es importante la gestión del color?">Porqué es importante</a></span>, <span class="link"><a href="color.html#profiles" title="Perfiles de color">Perfiles de color</a></span>, <span class="link"><a href="color.html#calibration" title="Calibrado">Cómo calibrar un dispositivo</a></span>…</span>
+<a href="color.html.es" title="Gestión del color">Gestión del color</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.es" title="¿Por qué es importante la gestión del color?">Porqué es importante</a></span>, <span class="link"><a href="color.html.es#profiles" title="Perfiles de color">Perfiles de color</a></span>, <span class="link"><a href="color.html.es#calibration" title="Calibrado">Cómo calibrar un dispositivo</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-howtoimport.html" title="¿Cómo se importan perfiles de color?">¿Cómo se importan perfiles de color?</a><span class="desc"> — Los perfiles de color se pueden importar abriéndolos.</span>
+<a href="color-howtoimport.html.es" title="¿Cómo se importan perfiles de color?">¿Cómo se importan perfiles de color?</a><span class="desc"> — Los perfiles de color se pueden importar abriéndolos.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="¿Por qué necesito realizar la calibración yo mismo?">¿Por qué necesito realizar la calibración yo mismo?</a><span class="desc"> — La calibración es importante si se preocupa por los colores que muestra o imprime.</span>
+<a href="color-why-calibrate.html.es" title="¿Por qué necesito realizar la calibración yo mismo?">¿Por qué necesito realizar la calibración yo mismo?</a><span class="desc"> — La calibración es importante si se preocupa por los colores que muestra o imprime.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="¿Qué es un perfil de color?">¿Qué es un perfil de color?</a><span class="desc"> — Un perfil de color es un simple archivo que expresa un espacio de color o una respuesta de un dispositivo.</span>
+<a href="color-whatisprofile.html.es" title="¿Qué es un perfil de color?">¿Qué es un perfil de color?</a><span class="desc"> — Un perfil de color es un simple archivo que expresa un espacio de color o una respuesta de un dispositivo.</span>
 </li>
 </ul></div>
 </div></div>

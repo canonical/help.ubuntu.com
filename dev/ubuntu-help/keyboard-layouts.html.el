@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="prefs-language.html" title="Περιοχή &amp; γλώσσα">Περιοχή &amp; γλώσσα</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="prefs-language.html.el" title="Περιοχή &amp; γλώσσα">Περιοχή &amp; γλώσσα</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="keyboard.html" title="Πληκτρολόγιο">Πληκτρολόγιο</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="keyboard.html.el" title="Πληκτρολόγιο">Πληκτρολόγιο</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="keyboard.html" title="Πληκτρολόγιο">Πληκτρολόγιο</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Ρύθμιση συντομεύσεων πληκτρολογίου">Ρύθμιση συντομεύσεων πληκτρολογίου</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="keyboard.html.el" title="Πληκτρολόγιο">Πληκτρολόγιο</a> » <a class="trail" href="keyboard-shortcuts-set.html.el" title="Ρύθμιση συντομεύσεων πληκτρολογίου">Ρύθμιση συντομεύσεων πληκτρολογίου</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="keyboard.html" title="Πληκτρολόγιο">Πληκτρολόγιο</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="keyboard.html.el" title="Πληκτρολόγιο">Πληκτρολόγιο</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="keyboard.html" title="Πληκτρολόγιο">Πληκτρολόγιο</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Ρύθμιση συντομεύσεων πληκτρολογίου">Ρύθμιση συντομεύσεων πληκτρολογίου</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="keyboard.html.el" title="Πληκτρολόγιο">Πληκτρολόγιο</a> » <a class="trail" href="keyboard-shortcuts-set.html.el" title="Ρύθμιση συντομεύσεων πληκτρολογίου">Ρύθμιση συντομεύσεων πληκτρολογίου</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,7 +61,7 @@
 <div class="contents">
 <p class="p">Τα πληκτρολόγια έρχονται σε εκατοντάδες διαφορετικές διατάξεις για διαφορετικές γλώσσες. Ακόμα και για μία μόνο γλώσσα, υπάρχουν συχνά διάφορες διατάξεις πληκτρολογίου, όπως η διάταξη Dvorak για Αγγλικά. Μπορείτε να κάνετε το πληκτρολόγιό σας να συμπεριφέρεται ως πληκτρολόγιο με διαφορετική διάταξη, ανεξάρτητα από τα γράμματα και σύμβολα που είναι τυπωμένα πάνω στα πλήκτρα. Αυτό είναι χρήσιμο αν εναλλάσσεστε συχνά μεταξύ διαφορετικών γλωσσών.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">+</span> button in the <span class="gui">Input Sources</span> section,
@@ -102,7 +102,7 @@
   <span class="gui">Input Source</span> <span class="gui">Keyboard Shortcuts</span>. These shortcuts open 
   the <span class="gui">Input Source</span> chooser where you can move forward and backward. 
   By default, you can switch to the next input source with 
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
+  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.el" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
   and to the previous one with
   <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span>. You can
   change these shortcuts in the <span class="gui">Keyboard</span> settings.</p>
@@ -115,20 +115,20 @@
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-language.html" title="Περιοχή &amp; γλώσσα">Περιοχή &amp; γλώσσα</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Αλλάξτε τη γλώσσα που χρησιμοποιείτε">Γλώσσα</a></span>, <span class="link"><a href="session-formats.html" title="Αλλαγή μορφών ημερομηνίας και μέτρησης">Περιοχή και τύποι</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Διατάξεις πληκτρολογίου</a></span>…</span>
+<a href="prefs-language.html.el" title="Περιοχή &amp; γλώσσα">Περιοχή &amp; γλώσσα</a><span class="desc"> — <span class="link"><a href="session-language.html.el" title="Αλλάξτε τη γλώσσα που χρησιμοποιείτε">Γλώσσα</a></span>, <span class="link"><a href="session-formats.html.el" title="Αλλαγή μορφών ημερομηνίας και μέτρησης">Περιοχή και τύποι</a></span>, <span class="link"><a href="keyboard-layouts.html.el" title="Use alternative keyboard layouts">Διατάξεις πληκτρολογίου</a></span>…</span>
 </li>
 <li class="links ">
-<a href="keyboard.html" title="Πληκτρολόγιο">Πληκτρολόγιο</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Διατάξεις πληκτρολογίου</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Κάντε τον δρομέα πληκτρολογίου να αναβοσβήνει">αναβόσβησμα δρομέα</a></span>, <span class="link"><a href="a11y.html#mobility" title="Κινητικά προβλήματα">προσιτότητα πληκτρολογίου</a></span>…</span>
+<a href="keyboard.html.el" title="Πληκτρολόγιο">Πληκτρολόγιο</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.el" title="Use alternative keyboard layouts">Διατάξεις πληκτρολογίου</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.el" title="Κάντε τον δρομέα πληκτρολογίου να αναβοσβήνει">αναβόσβησμα δρομέα</a></span>, <span class="link"><a href="a11y.html.el#mobility" title="Κινητικά προβλήματα">προσιτότητα πληκτρολογίου</a></span>…</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Ρύθμιση συντομεύσεων πληκτρολογίου">Ρύθμιση συντομεύσεων πληκτρολογίου</a><span class="desc"> — Ορίστε ή αλλάξτε τις συντομεύσεις πληκτρολογίου στις ρυθμίσεις <span class="gui">Πληκτρολογίου</span>.</span>
+<a href="keyboard-shortcuts-set.html.el" title="Ρύθμιση συντομεύσεων πληκτρολογίου">Ρύθμιση συντομεύσεων πληκτρολογίου</a><span class="desc"> — Ορίστε ή αλλάξτε τις συντομεύσεις πληκτρολογίου στις ρυθμίσεις <span class="gui">Πληκτρολογίου</span>.</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips-specialchars.html" title="Εισαγωγή ειδικών χαρακτήρων">Εισαγωγή ειδικών χαρακτήρων</a><span class="desc"> — Πληκτρολογήστε χαρακτήρες που δεν βρέθηκαν στο πληκτρολόγιό σας, συμπεριλαμβανομένων ξένων αλφάβητων, μαθηματικών συμβόλων και διακοσμητικά.</span>
+<a href="tips-specialchars.html.el" title="Εισαγωγή ειδικών χαρακτήρων">Εισαγωγή ειδικών χαρακτήρων</a><span class="desc"> — Πληκτρολογήστε χαρακτήρες που δεν βρέθηκαν στο πληκτρολόγιό σας, συμπεριλαμβανομένων ξένων αλφάβητων, μαθηματικών συμβόλων και διακοσμητικά.</span>
 </li></ul></div>
 </div></div>
 </div>

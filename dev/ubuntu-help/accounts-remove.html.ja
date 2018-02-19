@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="accounts.html" title="オンラインアカウント">オンラインアカウント</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ja" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="accounts.html.ja" title="オンラインアカウント">オンラインアカウント</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">アカウントの削除</span></h1></div>
@@ -61,7 +61,7 @@
     or sites. Look for an app called “GNOME” and remove it.</p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Online Accounts</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Online Accounts</span> to open the panel.</p></li>
 <li class="steps"><p class="p">削除するアカウントを選択します。</p></li>
@@ -70,7 +70,7 @@
 <li class="steps"><p class="p">Click <span class="gui">Remove</span> in the confirmation dialog.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="ヒント"><div class="inner"><div class="region"><div class="contents"><p class="p">Instead of deleting the account completely, it is possible to
-    <span class="link"><a href="accounts-disable-service.html" title="アカウントがアクセスできるオンラインサービスの設定">restrict the services</a></span> accessed
+    <span class="link"><a href="accounts-disable-service.html.ja" title="アカウントがアクセスできるオンラインサービスの設定">restrict the services</a></span> accessed
     by your desktop.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -79,17 +79,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="オンラインアカウント">オンラインアカウント</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="アカウントの追加">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="アカウントの削除">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.ja" title="オンラインアカウント">オンラインアカウント</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.ja" title="アカウントの追加">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.ja" title="アカウントの削除">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.ja" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="アカウントがアクセスできるオンラインサービスの設定">アカウントがアクセスできるオンラインサービスの設定</a><span class="desc"> — オンラインアカウントによっては、複数のサービス (カレンダーやメールなど) にアクセスできるものがあります。どのサービスをアプリケーションが使用できるかについて設定できます。</span>
+<a href="accounts-disable-service.html.ja" title="アカウントがアクセスできるオンラインサービスの設定">アカウントがアクセスできるオンラインサービスの設定</a><span class="desc"> — オンラインアカウントによっては、複数のサービス (カレンダーやメールなど) にアクセスできるものがあります。どのサービスをアプリケーションが使用できるかについて設定できます。</span>
 </li></ul></div>
 </div></div>
 </div>

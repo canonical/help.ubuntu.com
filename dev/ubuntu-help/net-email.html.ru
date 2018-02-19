@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Электронная почта и почтовые программы</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-email.html" title="Выбор другого почтового приложения для создания писем"><span class="title">Выбор другого почтового приложения для создания писем</span><span class="linkdiv-dash"> — </span><span class="desc">Измените используемый по умолчанию почтовый клиент в разделе <span class="gui">Подробности</span> <span class="gui">Параметров</span>.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="Нужно ли сканировать свою электронную почту на наличие вирусов?"><span class="title">Нужно ли сканировать свою электронную почту на наличие вирусов?</span><span class="linkdiv-dash"> — </span><span class="desc">Маловероятно, что вирусы заразят ваш компьютер, но они могут заразить компьютеры других людей через электронную почту.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-email.html.ru" title="Выбор другого почтового приложения для создания писем"><span class="title">Выбор другого почтового приложения для создания писем</span><span class="linkdiv-dash"> — </span><span class="desc">Измените используемый по умолчанию почтовый клиент в разделе <span class="gui">Подробности</span> <span class="gui">Параметров</span>.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-email-virus.html.ru" title="Нужно ли сканировать свою электронную почту на наличие вирусов?"><span class="title">Нужно ли сканировать свою электронную почту на наличие вирусов?</span><span class="linkdiv-dash"> — </span><span class="desc">Маловероятно, что вирусы заразят ваш компьютер, но они могут заразить компьютеры других людей через электронную почту.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Беспроводные сети">Беспроводные</a></span>, <span class="link"><a href="net-wired.html" title="Проводные сети">проводные</a></span>, <span class="link"><a href="net-problem.html" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html" title="Веб-браузеры">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
+<a href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные</a></span>, <span class="link"><a href="net-wired.html.ru" title="Проводные сети">проводные</a></span>, <span class="link"><a href="net-problem.html.ru" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html.ru" title="Веб-браузеры">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html.ru" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

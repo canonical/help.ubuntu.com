@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html.sr#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="net-wireless-troubleshooting.html.sr" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-wireless.html" title="Бежично умрежавање">Бежично умрежавање</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-wireless.html.sr" title="Бежично умрежавање">Бежично умрежавање</a> » <a class="trail" href="net-wireless-troubleshooting.html.sr" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Решавање проблема бежичне мреже">Претходно</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Решавање проблема бежичне мреже">Следеће</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.sr" title="Решавање проблема бежичне мреже">Претходно</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.sr" title="Решавање проблема бежичне мреже">Следеће</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Решавање проблема бежичне везе</span></h1>
@@ -70,7 +70,7 @@
        продавац: Intel Corporation</pre></div>
 </li>
 <li class="steps">
-<p class="p">Ако је бежични уређај на списку, наставите на <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Решавање проблема бежичне мреже">кораку управљачких програма уређаја</a></span>.</p>
+<p class="p">Ако је бежични уређај на списку, наставите на <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.sr" title="Решавање проблема бежичне мреже">кораку управљачких програма уређаја</a></span>.</p>
 <p class="p">Ако бежични уређај <span class="em">није</span> на списку, следећи корак који ћете предузети зависиће од врсте уређаја који користите. Погледајте одељак испод који се односи на врсту бежичног прилагођивача који има ваш рачунар (<span class="link"><a href="#pci" title="ПЦИ (унутрашњи) бежични прилагођивач">унутрашњи ПЦИ</a></span>, <span class="link"><a href="#usb" title="УСБ бежични прилагођивач">УСБ</a></span>, или <span class="link"><a href="#pcmcia" title="Проверите ПЦМЦИА уређај">ПЦМЦИА</a></span>).</p>
 </li>
 </ol></div></div></div>
@@ -85,7 +85,7 @@
 <p class="p">Прегледајте списак уређаја који ће бити приказан и пронађите оне који су означени као <span class="code">Network controller</span> или <span class="code">Ethernet controller</span>. Неколико уређаја може бити означено на тај начин; онај који одговара вашем бежичном прилагођивачу може да садржи речи као што су <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> или <span class="code">802.11</span>. Ево и једног примера како би ставка могла да изгледа:</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
-<li class="steps"><p class="p">Ако пронађете ваш бежични прилагођивач на списку, пређите на <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Решавање проблема бежичне мреже">корак управљачких програма уређаја</a></span>. Ако не пронађете ништа што се односи на ваш бежични прилагођивач, погледајте <span class="link"><a href="#not-recognized" title="Бежични прилагођивач није препознат">упутства испод</a></span>.</p></li>
+<li class="steps"><p class="p">Ако пронађете ваш бежични прилагођивач на списку, пређите на <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.sr" title="Решавање проблема бежичне мреже">корак управљачких програма уређаја</a></span>. Ако не пронађете ништа што се односи на ваш бежични прилагођивач, погледајте <span class="link"><a href="#not-recognized" title="Бежични прилагођивач није препознат">упутства испод</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -99,7 +99,7 @@
 <p class="p">Прегледајте списак уређаја који ће бити приказан и пронађите нешто што изгледа да се односи на бежични или мрежни уређај. Оно што одговара вашем бежичном прилагођивачу може да садржи речи као што су <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> или <span class="code">802.11</span>. Ево и једног примера како би ставка могла да изгледа:</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
-<li class="steps"><p class="p">Ако пронађете ваш бежични прилагођивач на списку, пређите на <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Решавање проблема бежичне мреже">корак управљачких програма уређаја</a></span>. Ако не пронађете ништа што се односи на ваш бежични прилагођивач, погледајте <span class="link"><a href="#not-recognized" title="Бежични прилагођивач није препознат">упутства испод</a></span>.</p></li>
+<li class="steps"><p class="p">Ако пронађете ваш бежични прилагођивач на списку, пређите на <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.sr" title="Решавање проблема бежичне мреже">корак управљачких програма уређаја</a></span>. Ако не пронађете ништа што се односи на ваш бежични прилагођивач, погледајте <span class="link"><a href="#not-recognized" title="Бежични прилагођивач није препознат">упутства испод</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -116,7 +116,7 @@
 </li>
 <li class="steps"><p class="p">Уметните бежични прилагођивач у ПЦМЦИА жлеб и погледајте шта се изменило у прозору терминала. Измене ће садржати неке податке о вашем бежичном прилагођивачу. Прегледајте их и видите да ли можете да их одредите.</p></li>
 <li class="steps"><p class="p">Да зауставите извршавање наредбе у терминалу, притисните <span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Ц</kbd></span></span>. Након овога, можете да затворите терминал ако желите.</p></li>
-<li class="steps"><p class="p">Ако сте пронашли неке податке о вашем бежичном прилагођивачу, пређите на <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Решавање проблема бежичне мреже">корак управљачких програма уређаја</a></span>. Ако не пронађете ништа што се односи на ваш бежични прилагођивач, погледајте <span class="link"><a href="#not-recognized" title="Бежични прилагођивач није препознат">упутства испод</a></span>.</p></li>
+<li class="steps"><p class="p">Ако сте пронашли неке податке о вашем бежичном прилагођивачу, пређите на <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.sr" title="Решавање проблема бежичне мреже">корак управљачких програма уређаја</a></span>. Ако не пронађете ништа што се односи на ваш бежични прилагођивач, погледајте <span class="link"><a href="#not-recognized" title="Бежични прилагођивач није препознат">упутства испод</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -128,14 +128,14 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Решавање проблема бежичне мреже">Претходно</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Решавање проблема бежичне мреже">Следеће</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.sr" title="Решавање проблема бежичне мреже">Претходно</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.sr" title="Решавање проблема бежичне мреже">Следеће</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a><span class="desc"> — Одредите и исправите проблеме са бежичним везама.</span>
+<a href="net-wireless-troubleshooting.html.sr" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a><span class="desc"> — Одредите и исправите проблеме са бежичним везама.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="media.html" title="Son, images et vidéos">Son, images et vidéos</a> › <a class="trail" href="media.html#music" title="Musique et lecteurs audio portables">Musique et lecteurs</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="media.html.fr" title="Son, images et vidéos">Son, images et vidéos</a> › <a class="trail" href="media.html.fr#music" title="Musique et lecteurs audio portables">Musique et lecteurs</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html#removable" title="Médias amovibles et disques externes">Médias amovibles et disques externes</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html.fr" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html.fr#removable" title="Médias amovibles et disques externes">Médias amovibles et disques externes</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="media.html" title="Son, images et vidéos">Son, images et vidéos</a> › <a class="trail" href="media.html#photos" title="Photos et appareils numériques">Photos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="media.html.fr" title="Son, images et vidéos">Son, images et vidéos</a> › <a class="trail" href="media.html.fr#photos" title="Photos et appareils numériques">Photos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="media.html" title="Son, images et vidéos">Son, images et vidéos</a> › <a class="trail" href="media.html#videos" title="Vidéos et caméras">Vidéos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="media.html.fr" title="Son, images et vidéos">Son, images et vidéos</a> › <a class="trail" href="media.html.fr#videos" title="Vidéos et caméras">Vidéos</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <p class="p">Il est possible de faire en sorte qu'une application démarre automatiquement quand un périphérique est connecté ou quand un disque ou une carte média est inséré. Par exemple, vous pouvez désirer que votre gestionnaire de photos démarre quand vous connectez votre appareil photo numérique. Vous pouvez aussi désactiver cette possibilité, de sorte que rien ne se passe quand vous connectez quelque chose.</p>
 <p class="p">Pour choisir l'application qui doit s'exécuter quand vous connectez un quelconque périphérique :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
     start typing <span class="gui">Details</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Détails</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">médias amovibles</span>.</p></li>
@@ -78,7 +78,7 @@
 <dt class="terms">Disques audio</dt>
 <dd class="terms"><p class="p">Choisissez votre lecteur de musique ou extracteur préféré pour gérer les CD audio. Si vous utilisez des DVD audio (DVD-A), définissez dans <span class="gui">Autres médias…</span> comment les ouvrir. Si vous ouvrez un disque audio avec le gestionnaire de fichiers, les pistes s'affichent au format WAV ; vous pouvez les lire avec n'importe quelle application audio.</p></dd>
 <dt class="terms">Disques vidéo</dt>
-<dd class="terms"><p class="p">Choisissez votre lecteur vidéo préféré pour gérer les DVD vidéo. Cliquez sur <span class="gui">Autres médias…</span> pour choisir une application qui gère les Blu-ray, HD DVD, CD vidéo (VCD) et CD super vidéo (SVCD). Si des DVD ou d'autres disques vidéo ne fonctionnent pas correctement quand vous les insérer, veuillez consulter <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.</p></dd>
+<dd class="terms"><p class="p">Choisissez votre lecteur vidéo préféré pour gérer les DVD vidéo. Cliquez sur <span class="gui">Autres médias…</span> pour choisir une application qui gère les Blu-ray, HD DVD, CD vidéo (VCD) et CD super vidéo (SVCD). Si des DVD ou d'autres disques vidéo ne fonctionnent pas correctement quand vous les insérer, veuillez consulter <span class="link"><a href="video-dvd.html.fr" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.</p></dd>
 <dt class="terms">Disques vierges</dt>
 <dd class="terms"><p class="p">Cliquez sur le bouton <span class="gui">Autres médias…</span> pour choisir une application de gravure sur CD, DVD, disques Blu-ray et HD DVD vierges.</p></dd>
 <dt class="terms">Appareils photos et photos</dt>
@@ -105,10 +105,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#music" title="Musique et lecteurs audio portables">Musique et lecteurs</a></li>
-<li class="links "><a href="files.html#removable" title="Médias amovibles et disques externes">Médias amovibles et disques externes</a></li>
-<li class="links "><a href="media.html#photos" title="Photos et appareils numériques">Photos</a></li>
-<li class="links "><a href="media.html#videos" title="Vidéos et caméras">Vidéos</a></li>
+<li class="links "><a href="media.html.fr#music" title="Musique et lecteurs audio portables">Musique et lecteurs</a></li>
+<li class="links "><a href="files.html.fr#removable" title="Médias amovibles et disques externes">Médias amovibles et disques externes</a></li>
+<li class="links "><a href="media.html.fr#photos" title="Photos et appareils numériques">Photos</a></li>
+<li class="links "><a href="media.html.fr#videos" title="Vidéos et caméras">Vidéos</a></li>
 </ul></div>
 </div></div></div>
 </div>

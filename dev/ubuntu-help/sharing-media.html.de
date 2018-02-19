@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="prefs-sharing.html" title="Einstellungen zur Freigabe">Einstellungen zur Freigabe</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="prefs-sharing.html.de" title="Einstellungen zur Freigabe">Einstellungen zur Freigabe</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="sharing.html" title="Freigabe">Freigabe</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="sharing.html.de" title="Freigabe">Freigabe</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,11 +56,11 @@
 <p class="p">Sie können mittels <span class="sys">UPnP</span> oder <span class="sys">DLNA</span> über Geräte mit entsprechenden Fähigkeiten wie Smartphones, Fernsehgeräte oder Spielkonsolen Medien auf Ihrem Rechner durchsuchen und wiedergeben. Richten Sie die <span class="gui">Medienfreigabe</span> ein, um diesen Geräten den Zugriff auf Ihre Musik, Fotos und Videos zu gestatten.</p>
 <div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Das Paket <span class="app">Rygel</span> muss installiert sein, damit die <span class="gui">Medienfreigabe</span> angezeigt wird.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Freigabe</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Freigabe</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Freigabe</span>, um das Panel zu öffnen.</p></li>
 <li class="steps">
 <p class="p">Wenn <span class="gui">Freigabe</span> auf <span class="gui">AUS</span> gestellt ist, so schalten Sie diese <span class="gui">An</span>.</p>
-<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Wenn sich der Text unterhalb von <span class="gui">Rechnername</span> bearbeiten lässt, können Sie den Namen <span class="link"><a href="sharing-displayname.html" title="Legen Sie den Anzeigenamen Ihres Rechners fest">ändern</a></span>, unter dem Ihr Rechner im Netzwerk angezeigt wird.</p></div></div></div></div>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Wenn sich der Text unterhalb von <span class="gui">Rechnername</span> bearbeiten lässt, können Sie den Namen <span class="link"><a href="sharing-displayname.html.de" title="Legen Sie den Anzeigenamen Ihres Rechners fest">ändern</a></span>, unter dem Ihr Rechner im Netzwerk angezeigt wird.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Wählen Sie <span class="gui">Medienfreigabe</span>.</p></li>
 <li class="steps"><p class="p">Stellen Sie <span class="gui">Medienfreigabe</span> auf <span class="gui">AN</span>.</p></li>
@@ -79,10 +79,10 @@
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-sharing.html" title="Einstellungen zur Freigabe">Einstellungen zur Freigabe</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Freigabe über Bluetooth steuern">Bluetooth-Freigabe</a></span>, <span class="link"><a href="sharing-personal.html" title="Ihre persönlichen Dateien freigeben">Persönliche Dateifreigabe</a></span>, <span class="link"><a href="sharing-desktop.html" title="Ihre Arbeitsumgebung freigeben">Bildschirmfreigabe</a></span>, <span class="link"><a href="sharing-media.html" title="Ihre Musik, Fotos und Videos freigeben">Medien-Freigabe</a></span> …</span>
+<a href="prefs-sharing.html.de" title="Einstellungen zur Freigabe">Einstellungen zur Freigabe</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.de" title="Freigabe über Bluetooth steuern">Bluetooth-Freigabe</a></span>, <span class="link"><a href="sharing-personal.html.de" title="Ihre persönlichen Dateien freigeben">Persönliche Dateifreigabe</a></span>, <span class="link"><a href="sharing-desktop.html.de" title="Ihre Arbeitsumgebung freigeben">Bildschirmfreigabe</a></span>, <span class="link"><a href="sharing-media.html.de" title="Ihre Musik, Fotos und Videos freigeben">Medien-Freigabe</a></span> …</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Freigabe">Freigabe</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Ihre Arbeitsumgebung freigeben">Bildschirmfreigabe</a></span>, <span class="link"><a href="files-share.html" title="Dateien via E-Mail teilen">Share files by email</a></span>, <span class="link"><a href="sharing-media.html" title="Ihre Musik, Fotos und Videos freigeben">Media sharing</a></span> …</span>
+<a href="sharing.html.de" title="Freigabe">Freigabe</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.de" title="Ihre Arbeitsumgebung freigeben">Bildschirmfreigabe</a></span>, <span class="link"><a href="files-share.html.de" title="Dateien via E-Mail teilen">Share files by email</a></span>, <span class="link"><a href="sharing-media.html.de" title="Ihre Musik, Fotos und Videos freigeben">Media sharing</a></span> …</span>
 </li>
 </ul></div>
 </div></div></div>

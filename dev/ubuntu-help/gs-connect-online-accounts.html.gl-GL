@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="getting-started.html" title="Comezando">Comezar con GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="getting-started.html.gl-GL" title="Comezando">Comezar con GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-browse-web.html" title="Navegar pola web">Anterior</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html" title="Cambiar a data, hora e fuso horario">Seguinte</a>
+<a class="nextlinks-prev" href="gs-browse-web.html.gl-GL" title="Navegar pola web">Anterior</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.gl-GL" title="Cambiar a data, hora e fuso horario">Seguinte</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Conectarse a contas en liña</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Prema o <span class="gui"><a href="shell-introduction.html#yourname" title="Vostede e o seu computador">menú do sistema</a></span> na parte dereita da barra superior.</p></li>
+<li class="steps"><p class="p">Prema o <span class="gui"><a href="shell-introduction.html.gl-GL#yourname" title="Vostede e o seu computador">menú do sistema</a></span> na parte dereita da barra superior.</p></li>
 <li class="steps"><p class="p">Prema o botón de preferencias na parte inferior esquerda do menú.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa2.svg" width="100%" class="media media-block" alt=""></div></div>
@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Moitas contas en liña permítenlle escoller os servizos que desexa empregar coa súa conta en liña. Se non desexa usar un servizo, desactíveo premendo sobre o <span class="gui">interruptor de acendido/apagado</span> que está no lado dereito da xanela.</p></li></ol></div></div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-browse-web.html" title="Navegar pola web">Anterior</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html" title="Cambiar a data, hora e fuso horario">Seguinte</a>
+<a class="nextlinks-prev" href="gs-browse-web.html.gl-GL" title="Navegar pola web">Anterior</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.gl-GL" title="Cambiar a data, hora e fuso horario">Seguinte</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -82,13 +82,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Comezando">Comezar con GNOME</a><span class="desc"> — É novo en GNOME? Aprenda a como moverse.</span>
+<a href="getting-started.html.gl-GL" title="Comezando">Comezar con GNOME</a><span class="desc"> — É novo en GNOME? Aprenda a como moverse.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Contas en liña">Contas en liña</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Engadir unha conta">Engadir unha conta en liña</a></span>, <span class="link"><a href="accounts-remove.html" title="Retirar unha conta">Quitar unha conta</a></span>, <span class="link"><a href="accounts-which-application.html" title="Servizos en liña e aplicativos">Saber sobre un servizo</a></span>…</span>
+<a href="accounts.html.gl-GL" title="Contas en liña">Contas en liña</a><span class="desc"> — <span class="link"><a href="accounts-add.html.gl-GL" title="Engadir unha conta">Engadir unha conta en liña</a></span>, <span class="link"><a href="accounts-remove.html.gl-GL" title="Retirar unha conta">Quitar unha conta</a></span>, <span class="link"><a href="accounts-which-application.html.gl-GL" title="Servizos en liña e aplicativos">Saber sobre un servizo</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

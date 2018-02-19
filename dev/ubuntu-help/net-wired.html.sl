@@ -43,24 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Žične povezave</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html" title="Povezava z žičnim (Eternet) omrežjem"><span class="title">Povezava z žičnim (Eternet) omrežjem</span><span class="linkdiv-dash"> — </span><span class="desc">Za nastavitev večine žičnih omrežnih povezav morate le vklopiti omrežni kabel.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Povezava z VPN"><span class="title">Povezava z VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Ročno nastavi omrežne nastavitve"><span class="title">Ročno nastavi omrežne nastavitve</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
+<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html.sl" title="Povezava z žičnim (Eternet) omrežjem"><span class="title">Povezava z žičnim (Eternet) omrežjem</span><span class="linkdiv-dash"> — </span><span class="desc">Za nastavitev večine žičnih omrežnih povezav morate le vklopiti omrežni kabel.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html.sl" title="Povezava z VPN"><span class="title">Povezava z VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html.sl" title="Ročno nastavi omrežne nastavitve"><span class="title">Ročno nastavi omrežne nastavitve</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
     automatically.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html" title="Ustvarite povezavo s stalnim naslovom IP"><span class="title">Ustvarite povezavo s stalnim naslovom IP</span><span class="linkdiv-dash"> — </span><span class="desc">Uporaba statičnih naslovov IP vam lahko olajša zagotavljanje nekaterih omrežnih storitev z vašega računalnika.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html.sl" title="Ustvarite povezavo s stalnim naslovom IP"><span class="title">Ustvarite povezavo s stalnim naslovom IP</span><span class="linkdiv-dash"> — </span><span class="desc">Uporaba statičnih naslovov IP vam lahko olajša zagotavljanje nekaterih omrežnih storitev z vašega računalnika.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Brezžične povezave">Brezžično</a></span>, <span class="link"><a href="net-wired.html" title="Žične povezave">žično</a></span>, <span class="link"><a href="net-problem.html" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html" title="Spletni brskalniki">spletno brskanje</a></span>, <span class="link"><a href="net-email.html" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span>
+<a href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sl" title="Brezžične povezave">Brezžično</a></span>, <span class="link"><a href="net-wired.html.sl" title="Žične povezave">žično</a></span>, <span class="link"><a href="net-problem.html.sl" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html.sl" title="Spletni brskalniki">spletno brskanje</a></span>, <span class="link"><a href="net-email.html.sl" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span>
 </li></ul></div>
 </div></div></div>
 </div>

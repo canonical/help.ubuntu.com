@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Jūsu darbvirsma">Darbvirsma</a> › <a class="trail" href="shell-overview.html#apps" title="Lietotnes un logi">Lietotnes un logi</a> » <a class="trail" href="shell-windows.html" title="Logi un darbvietas">Logi un darbvietas</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Darbs ar logiem">Logi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.lv" title="Jūsu darbvirsma">Darbvirsma</a> › <a class="trail" href="shell-overview.html.lv#apps" title="Lietotnes un logi">Lietotnes un logi</a> » <a class="trail" href="shell-windows.html.lv" title="Logi un darbvietas">Logi un darbvietas</a> › <a class="trail" href="shell-windows.html.lv#working-with-windows" title="Darbs ar logiem">Logi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Atrodiet pazudušu logu</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Logu citā darbvietā vai slēptu aiz cita loga var viegli atrast, izmantojot <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu:</p>
+<p class="p">Logu citā darbvietā vai slēptu aiz cita loga var viegli atrast, izmantojot <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Atveriet <span class="gui">aktivitāšu</span> pārskatu un pārliecinieties. Ja pazudušais logs ir pašreizējā <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Darbs ar darbvietām">darbvietā</a></span>, tad tas tiks parādīts šeit sīktēlā. Vienkārši spiediet sīktēlu, lai atkal parādītu logu, vai</p></li>
-<li class="list"><p class="p">Spiediet dažādās darbvietas <span class="link"><a href="shell-workspaces.html" title="Kas ir darbvieta un kā tā man palīdzēs?">darbvietu atlasītājā</a></span> labajā ekrāna pusē, lai mēģinātu atrast savu logu, vai</p></li>
+<li class="list"><p class="p">Atveriet <span class="gui">aktivitāšu</span> pārskatu un pārliecinieties. Ja pazudušais logs ir pašreizējā <span class="link"><a href="shell-windows.html.lv#working-with-workspaces" title="Darbs ar darbvietām">darbvietā</a></span>, tad tas tiks parādīts šeit sīktēlā. Vienkārši spiediet sīktēlu, lai atkal parādītu logu, vai</p></li>
+<li class="list"><p class="p">Spiediet dažādās darbvietas <span class="link"><a href="shell-workspaces.html.lv" title="Kas ir darbvieta un kā tā man palīdzēs?">darbvietu atlasītājā</a></span> labajā ekrāna pusē, lai mēģinātu atrast savu logu, vai</p></li>
 <li class="list"><p class="p">Ar peles labo klikšķi noklikšķiniet uz lietotnes panelī un tās atvērtie logi tiks uzskaitīti. Spiediet uz loga sarakstā, lai uz to pārslēgtos.</p></li>
 </ul></div></div></div>
 <p class="p">Lietojot logu pārslēdzēju:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Spiediet  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>, lai parādītu <span class="link"><a href="shell-windows-switching.html" title="Pārslēgties starp logiem">logu pārslēdzēju</a></span>. Turpiniet turēt <span class="key"><kbd>Super</kbd></span> un spiediet <span class="key"><kbd>Tab</kbd></span>, lai ietu cauri atvērtajiem logiem vai <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>, lai ietu pretējā virzienā.</p></li>
+<li class="list"><p class="p">Spiediet  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.lv" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>, lai parādītu <span class="link"><a href="shell-windows-switching.html.lv" title="Pārslēgties starp logiem">logu pārslēdzēju</a></span>. Turpiniet turēt <span class="key"><kbd>Super</kbd></span> un spiediet <span class="key"><kbd>Tab</kbd></span>, lai ietu cauri atvērtajiem logiem vai <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>, lai ietu pretējā virzienā.</p></li>
 <li class="list"><p class="p">Ja lietotnei ir vairāki logi, pieturiet <span class="key"><kbd>Super</kbd></span> nospiestu un spiediet<span class="key"><kbd>`</kbd></span> (vai taustiņu, kas atrodas virs <span class="key"><kbd>Tab</kbd></span>), lai ietu caur tiem.</p></li>
 </ul></div></div></div>
 </div>
@@ -65,7 +65,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Darbs ar logiem">Darbs ar logiem</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.lv#working-with-windows" title="Darbs ar logiem">Darbs ar logiem</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

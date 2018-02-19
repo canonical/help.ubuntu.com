@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="keyboard.html" title="Näppäimistö">Näppäimistö</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="keyboard.html" title="Näppäimistö">Näppäimistö</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Esteettömyys">Esteettömyys</a> › <a class="trail" href="a11y.html#mobility" title="Liikuntarajoitteisuudet">Liikuntarajoitteisuudet</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.fi" title="Esteettömyys">Esteettömyys</a> › <a class="trail" href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">Liikuntarajoitteisuudet</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,13 +57,13 @@
 <div class="contents">
 <p class="p"><span class="em">Sticky keys</span> allows you to type keyboard shortcuts one key at a
   time rather than having to hold down all of the keys at once. For example,
-  the <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
+  the <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.fi" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
   shortcut switches between windows. Without sticky keys turned on, you would
   have to hold down both keys at the same time; with sticky keys turned on, you
   would press <span class="key"><kbd>Super</kbd></span> and then <span class="key"><kbd>Tab</kbd></span> to do the same.</p>
 <p class="p">Saatat haluta käyttää pohjaan jääviä näppäimiä, jos sinun on hankala painaa useita näppäimiä samanaikaisesti.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Esteettömyys</span> avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Typing Assist (AccessX)</span> in the <span class="gui">Typing</span>
@@ -79,7 +79,7 @@
     selected, you can press <span class="key"><kbd>Shift</kbd></span> five times in a row to enable or
     disable sticky keys.</p>
 <p class="p">You can also turn sticky keys on and off by clicking the
-    <span class="link"><a href="a11y-icon.html" title="Löydä esteettömyystoimintojen valikko">accessibility icon</a></span> on the top bar and
+    <span class="link"><a href="a11y-icon.html.fi" title="Löydä esteettömyystoimintojen valikko">accessibility icon</a></span> on the top bar and
     selecting <span class="gui">Sticky Keys</span>. The accessibility icon is visible when
     one or more settings have been enabled from the <span class="gui">Universal Access</span>
     panel.</p>
@@ -104,9 +104,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Liikuntarajoitteisuudet">Liikuntarajoitteisuudet</a></li>
+<li class="links "><a href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">Liikuntarajoitteisuudet</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Näppäimistö">Näppäimistö</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Näppäimistöasettelut</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Aseta näppäimistön kohdistin vilkkumaan">osoitin vilkkumaan</a></span>, <span class="link"><a href="a11y.html#mobility" title="Liikuntarajoitteisuudet">esteettömyys</a></span>...</span>
+<a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.fi" title="Use alternative keyboard layouts">Näppäimistöasettelut</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fi" title="Aseta näppäimistön kohdistin vilkkumaan">osoitin vilkkumaan</a></span>, <span class="link"><a href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">esteettömyys</a></span>...</span>
 </li>
 </ul></div>
 </div></div></div>

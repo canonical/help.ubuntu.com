@@ -45,57 +45,57 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
-<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 17.10</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html" title="Käytön aloittaminen"><span class="title">Gnomen käytön aloittaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Käytätkö Gnomea ensimmäistä kertaa? Opettele perusasiat.</span></a></div></div></div></div>
+<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 18.04</span></div><div class="region"><div class="contents">
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.fi" title="Käytön aloittaminen"><span class="title">Gnomen käytön aloittaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Käytätkö Gnomea ensimmäistä kertaa? Opettele perusasiat.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Johdanto Gnomeen"><span class="title">Johdanto Gnomeen</span><span class="linkdiv-dash"> — </span><span class="desc">Johdanto työpöytään, yläpalkkiin ja <span class="gui">Toiminnot</span>-yleisnäkymään.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Sovelluksien käynnistäminen"><span class="title">Sovelluksien käynnistäminen</span><span class="linkdiv-dash"> — </span><span class="desc">Käynnistä sovelluksia <span class="gui">Toiminnot</span>-yleisnäkymästä.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Uloskirjautuminen, sammuttaminen ja käyttäjän vaihtaminen"><span class="title">Uloskirjautuminen, sammuttaminen ja käyttäjän vaihtaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Opi kuinka poistua käyttäjätililtä kirjautumalla ulos, vaihtamalla käyttäjää ja niin edelleen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.fi" title="Johdanto Gnomeen"><span class="title">Johdanto Gnomeen</span><span class="linkdiv-dash"> — </span><span class="desc">Johdanto työpöytään, yläpalkkiin ja <span class="gui">Toiminnot</span>-yleisnäkymään.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.fi" title="Sovelluksien käynnistäminen"><span class="title">Sovelluksien käynnistäminen</span><span class="linkdiv-dash"> — </span><span class="desc">Käynnistä sovelluksia <span class="gui">Toiminnot</span>-yleisnäkymästä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.fi" title="Uloskirjautuminen, sammuttaminen ja käyttäjän vaihtaminen"><span class="title">Uloskirjautuminen, sammuttaminen ja käyttäjän vaihtaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Opi kuinka poistua käyttäjätililtä kirjautumalla ulos, vaihtamalla käyttäjää ja niin edelleen.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="shell-overview.html" title="Työpöytäsi">Työpöytäsi</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html" title="Kalenteritapaamiset">Kalenteri</a></span>, <span class="link"><a href="shell-notifications.html" title="Ilmoitukset ja viestialue">ilmoitukset</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Hyödyllisiä pikanäppäimiä">pikanäppäimet</a></span>, <span class="link"><a href="shell-windows.html" title="Ikkunat ja työtilat">ikkunat ja työtilat</a></span>…</span></div>
+<div class="links-grid-link"><a href="shell-overview.html.fi" title="Työpöytäsi">Työpöytäsi</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html.fi" title="Kalenteritapaamiset">Kalenteri</a></span>, <span class="link"><a href="shell-notifications.html.fi" title="Ilmoitukset ja viestialue">ilmoitukset</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.fi" title="Hyödyllisiä pikanäppäimiä">pikanäppäimet</a></span>, <span class="link"><a href="shell-windows.html.fi" title="Ikkunat ja työtilat">ikkunat ja työtilat</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html" title="Langattomat verkkoyhteydet">Langattomat lähiverkot</a></span>, <span class="link"><a href="net-wired.html" title="Kiinteät verkkoyhteydet">kiinteät yhteydet</a></span>, <span class="link"><a href="net-problem.html" title="Yhteysongelmat">yhteysongelmat</a></span>, <span class="link"><a href="net-browser.html" title="Selaimet">WWW-selaaminen</a></span>, <span class="link"><a href="net-email.html" title="Sähköposti ja sähköpostiohjelmat">sähköpostitilit</a></span>...</span></div>
+<div class="links-grid-link"><a href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat lähiverkot</a></span>, <span class="link"><a href="net-wired.html.fi" title="Kiinteät verkkoyhteydet">kiinteät yhteydet</a></span>, <span class="link"><a href="net-problem.html.fi" title="Yhteysongelmat">yhteysongelmat</a></span>, <span class="link"><a href="net-browser.html.fi" title="Selaimet">WWW-selaaminen</a></span>, <span class="link"><a href="net-email.html.fi" title="Sähköposti ja sähköpostiohjelmat">sähköpostitilit</a></span>...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html" title="Ääni, video ja kuvat">Ääni, video ja kuvat</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="media.html#photos" title="Valokuvat ja digikamerat">Digikamerat</a></span>, <span class="link"><a href="media.html#music" title="Musiikki ja kannettavat soittimet">iPod</a></span>, <span class="link"><a href="media.html#photos" title="Valokuvat ja digikamerat">valokuvien muokkaaminen</a></span>, <span class="link"><a href="media.html#videos" title="Videot ja videokamerat">videoiden toistaminen</a></span>…</span></div>
+<div class="links-grid-link"><a href="media.html.fi" title="Ääni, video ja kuvat">Ääni, video ja kuvat</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="media.html.fi#photos" title="Valokuvat ja digikamerat">Digikamerat</a></span>, <span class="link"><a href="media.html.fi#music" title="Musiikki ja kannettavat soittimet">iPod</a></span>, <span class="link"><a href="media.html.fi#photos" title="Valokuvat ja digikamerat">valokuvien muokkaaminen</a></span>, <span class="link"><a href="media.html.fi#videos" title="Videot ja videokamerat">videoiden toistaminen</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="files.html" title="Tiedostot, kansiot ja etsiminen">Tiedostot, kansiot ja etsiminen</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="files-search.html" title="Etsi tiedostoista">Etsiminen</a></span>, <span class="link"><a href="files-delete.html" title="Poista tiedostoja ja kansioita">tiedostojen poistaminen</a></span>, <span class="link"><a href="files.html#backup" title="Varmuuskopiointi">varmuuskopiot</a></span>, <span class="link"><a href="files.html#removable" title="Irrotettavat asemat ja ulkoiset levyt">irrotettavat asemat</a></span>…</span></div>
+<div class="links-grid-link"><a href="files.html.fi" title="Tiedostot, kansiot ja etsiminen">Tiedostot, kansiot ja etsiminen</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="files-search.html.fi" title="Etsi tiedostoista">Etsiminen</a></span>, <span class="link"><a href="files-delete.html.fi" title="Poista tiedostoja ja kansioita">tiedostojen poistaminen</a></span>, <span class="link"><a href="files.html.fi#backup" title="Varmuuskopiointi">varmuuskopiot</a></span>, <span class="link"><a href="files.html.fi#removable" title="Irrotettavat asemat ja ulkoiset levyt">irrotettavat asemat</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a></div>
+<div class="links-grid-link"><a href="addremove.html.fi" title="Install &amp; remove software">Install &amp; remove software</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Poista sovellus">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+      <span class="link"><a href="addremove-install.html.fi" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.fi" title="Poista sovellus">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.fi" title="Add software repositories">add repositories</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html" title="Hiiri">hiiri</a></span>, <span class="link"><a href="prefs-display.html" title="Näyttö">näytöt</a></span>, <span class="link"><a href="prefs-language.html" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html" title="Käyttäjätilit">käyttäjätilit</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html.fi" title="Hiiri">hiiri</a></span>, <span class="link"><a href="prefs-display.html.fi" title="Näyttö">näytöt</a></span>, <span class="link"><a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html.fi" title="Käyttäjätilit">käyttäjätilit</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware.html" title="Laitteisto ja ajurit">Laitteisto ja ajurit</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="hardware.html#problems" title="Yleisiä ongelmia">Laitteisto-ongelmat</a></span>, <span class="link"><a href="printing.html" title="Tulostaminen">tulostimet</a></span>, <span class="link"><a href="power.html" title="Virransäästö ja akku">virranhallinta</a></span>, <span class="link"><a href="color.html" title="Värinhallinta">värinhallinta</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Levyt ja tiedon tallennus">levyt</a></span>…</span></div>
+<div class="links-grid-link"><a href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto ja ajurit</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="hardware.html.fi#problems" title="Yleisiä ongelmia">Laitteisto-ongelmat</a></span>, <span class="link"><a href="printing.html.fi" title="Tulostaminen">tulostimet</a></span>, <span class="link"><a href="power.html.fi" title="Virransäästö ja akku">virranhallinta</a></span>, <span class="link"><a href="color.html.fi" title="Värinhallinta">värinhallinta</a></span>, <span class="link"><a href="bluetooth.html.fi" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.fi" title="Levyt ja tiedon tallennus">levyt</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="a11y.html" title="Esteettömyys">Esteettömyys</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="a11y.html#vision" title="Näkörajoitteisuudet">Näkeminen</a></span>, <span class="link"><a href="a11y.html#sound" title="Kuuloon liittyvät rajoitteisuudet">kuuleminen</a></span>, <span class="link"><a href="a11y.html#mobility" title="Liikuntarajoitteisuudet">liikkuvuus</a></span>, <span class="link"><a href="a11y-braille.html" title="Lue näytön sisältöä pistekirjoituksella">sokeainkirjoitus</a></span>, <span class="link"><a href="a11y-mag.html" title="Näytön alueen suurentaminen">näytön suurennos</a></span>...</span></div>
+<div class="links-grid-link"><a href="a11y.html.fi" title="Esteettömyys">Esteettömyys</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="a11y.html.fi#vision" title="Näkörajoitteisuudet">Näkeminen</a></span>, <span class="link"><a href="a11y.html.fi#sound" title="Kuuloon liittyvät rajoitteisuudet">kuuleminen</a></span>, <span class="link"><a href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">liikkuvuus</a></span>, <span class="link"><a href="a11y-braille.html.fi" title="Lue näytön sisältöä pistekirjoituksella">sokeainkirjoitus</a></span>, <span class="link"><a href="a11y-mag.html.fi" title="Näytön alueen suurentaminen">näytön suurennos</a></span>...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="tips.html" title="Niksit ja vinkit">Niksit ja vinkit</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html" title="Erikoismerkkien käyttäminen">Erikoismerkit</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Hiiren keskimmäisen painikkeen napsautus">hiiren keskimmäisen painikkeen oikotiet</a></span>…</span></div>
+<div class="links-grid-link"><a href="tips.html.fi" title="Niksit ja vinkit">Niksit ja vinkit</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.fi" title="Erikoismerkkien käyttäminen">Erikoismerkit</a></span>, <span class="link"><a href="mouse-middleclick.html.fi" title="Hiiren keskimmäisen painikkeen napsautus">hiiren keskimmäisen painikkeen oikotiet</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="more-help.html" title="Lue lisää ohjeita">Lue lisää ohjeita</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html" title="Tietoja tästä oppaasta">Vinkkejä ohjeen käyttöön</a></span>, <span class="link"><a href="get-involved.html" title="Osallistu tämän ohjeen kehittämiseen">auta parantamaan ohjeita</a></span>…</span></div>
+<div class="links-grid-link"><a href="more-help.html.fi" title="Lue lisää ohjeita">Lue lisää ohjeita</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html.fi" title="Tietoja tästä oppaasta">Vinkkejä ohjeen käyttöön</a></span>, <span class="link"><a href="get-involved.html.fi" title="Osallistu tämän ohjeen kehittämiseen">auta parantamaan ohjeita</a></span>…</span></div>
 </div>
 </div></div></div>
 </div></div>

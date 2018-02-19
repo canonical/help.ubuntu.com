@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">I’ve entered the correct password, but I still can’t connect</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you’re sure that you entered the correct <span class="link"><a href="net-wireless-wepwpa.html" title="Wat betekenen WEP en WPA?">wireless password</a></span> but you still can’t successfully connect to a wireless network, try some of the following:</p>
+<p class="p">If you’re sure that you entered the correct <span class="link"><a href="net-wireless-wepwpa.html.nl" title="Wat betekenen WEP en WPA?">wireless password</a></span> but you still can’t successfully connect to a wireless network, try some of the following:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Controleer of u het juiste wachtwoord heeft</p>
@@ -61,7 +61,7 @@
 </li>
 <li class="list">
 <p class="p">Probeer uw draadloze netwerkkaart uit en dan weer in te schakelen</p>
-<p class="p">Sometimes wireless cards get stuck or experience a minor problem that means they won’t connect. Try turning the card off and then on again to reset it — see <span class="link"><a href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a></span> for more information.</p>
+<p class="p">Sometimes wireless cards get stuck or experience a minor problem that means they won’t connect. Try turning the card off and then on again to reset it — see <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a></span> for more information.</p>
 </li>
 <li class="list">
 <p class="p">Check that you’re using the correct type of wireless security</p>
@@ -69,7 +69,7 @@
 </li>
 <li class="list">
 <p class="p">Controleer of uw netwerkkaart op de juiste manier ondersteund wordt</p>
-<p class="p">Some wireless cards aren’t supported very well. They show up as a wireless connection, but they can’t connect to a network because their drivers lack the ability to do this. See if you can get an alternative wireless driver, or if you need to perform some extra set-up (like installing a different <span class="em">firmware</span>). See <span class="link"><a href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a></span> for more information.</p>
+<p class="p">Some wireless cards aren’t supported very well. They show up as a wireless connection, but they can’t connect to a network because their drivers lack the ability to do this. See if you can get an alternative wireless driver, or if you need to perform some extra set-up (like installing a different <span class="em">firmware</span>). See <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a></span> for more information.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -78,10 +78,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
+<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

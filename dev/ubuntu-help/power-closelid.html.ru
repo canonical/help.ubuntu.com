@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="power.html" title="Питание и аккумулятор">Питание и аккумулятор</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="power.html.ru" title="Питание и аккумулятор">Питание и аккумулятор</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="power.html" title="Питание и аккумулятор">Питание и аккумулятор</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="power.html.ru" title="Питание и аккумулятор">Питание и аккумулятор</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,12 +54,12 @@
 <div class="region">
 <div class="contents">
 <p class="p">When you close the lid of your laptop, your computer will
-  <span class="link"><a href="power-suspend.html" title="Что происходит при переходе компьютера в ждущий режим?"><span class="em">suspend</span></a></span> in order to save power.
+  <span class="link"><a href="power-suspend.html.ru" title="Что происходит при переходе компьютера в ждущий режим?"><span class="em">suspend</span></a></span> in order to save power.
   This means that the computer is not actually turned off — it has just gone to
   sleep. You can resume it by opening the lid. If it does not resume, try
   clicking the mouse or pressing a key. If that still does not work, press the
   power button.</p>
-<p class="p">Некоторые компьютеры не способны правильно переходить в ждущий режим, обычно из-за того, что их компоненты не полностью поддерживаются операционной системой (например, вследствие несовершенства драйверов для Linux). В таком случае вы можете обнаружить, что компьютер не возвращается в рабочий режим после закрытия крышки. Можно попробовать <span class="link"><a href="power-suspendfail.html" title="Почему мой компьютер не выходит из ждущего режима?">устранить эту проблему</a></span> или предотвратить переход компьютера в ждущий режим при закрытии крышки.</p>
+<p class="p">Некоторые компьютеры не способны правильно переходить в ждущий режим, обычно из-за того, что их компоненты не полностью поддерживаются операционной системой (например, вследствие несовершенства драйверов для Linux). В таком случае вы можете обнаружить, что компьютер не возвращается в рабочий режим после закрытия крышки. Можно попробовать <span class="link"><a href="power-suspendfail.html.ru" title="Почему мой компьютер не выходит из ждущего режима?">устранить эту проблему</a></span> или предотвратить переход компьютера в ждущий режим при закрытии крышки.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Запрет перевода компьютера в ждущий режим при закрытии крышки</span></h2></div>
@@ -71,11 +71,12 @@
   change the setting for that behavior.</p>
 <div class="note note-warning" title="Предупреждение"><div class="inner"><div class="region"><div class="contents"><p class="p">Будьте осторожны при изменении этого параметра. Некоторые ноутбуки могут перегреваться, если оставить их включёнными с закрытой крышкой, особенно если они находятся в замкнутом пространстве, например, в рюкзаке.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span>
+      overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Power</span> tab.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Don’t suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
+      <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -86,10 +87,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Питание и аккумулятор">Питание и аккумулятор</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Что происходит при переходе компьютера в ждущий режим?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Почему мой экран через некоторое время гаснет?">screen dimming</a></span>…
+<a href="power.html.ru" title="Питание и аккумулятор">Питание и аккумулятор</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.ru" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.ru" title="Что происходит при переходе компьютера в ждущий режим?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.ru" title="Почему мой экран через некоторое время гаснет?">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -97,10 +98,10 @@
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspendfail.html" title="Почему мой компьютер не выходит из ждущего режима?">Почему мой компьютер не выходит из ждущего режима?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.ru" title="Почему мой компьютер не выходит из ждущего режима?">Почему мой компьютер не выходит из ждущего режима?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Что происходит при переходе компьютера в ждущий режим?">Что происходит при переходе компьютера в ждущий режим?</a><span class="desc"> — В ждущем режиме компьютер «засыпает» и потребляет меньшую мощность.</span>
+<a href="power-suspend.html.ru" title="Что происходит при переходе компьютера в ждущий режим?">Что происходит при переходе компьютера в ждущий режим?</a><span class="desc"> — В ждущем режиме компьютер «засыпает» и потребляет меньшую мощность.</span>
 </li>
 </ul></div>
 </div></div>

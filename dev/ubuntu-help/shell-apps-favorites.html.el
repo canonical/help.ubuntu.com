@@ -43,15 +43,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html#desktop" title="Προσαρμογή της επιφάνειας εργασίας σας">Προσαρμογή της επιφάνειας εργασίας σας</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.el" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html.el#desktop" title="Προσαρμογή της επιφάνειας εργασίας σας">Προσαρμογή της επιφάνειας εργασίας σας</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Βάλτε τις αγαπημένες σας εφαρμογές στο ταμπλό</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Για να προσθέσετε μια εφαρμογή στο <span class="link"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">ταμπλό</a></span> για εύκολη πρόσβαση:</p>
+<p class="p">Για να προσθέσετε μια εφαρμογή στο <span class="link"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">ταμπλό</a></span> για εύκολη πρόσβαση:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> κάνοντας κλικ στις <span class="gui">Δραστηριότητες</span> πάνω αριστερά της οθόνης</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> κάνοντας κλικ στις <span class="gui">Δραστηριότητες</span> πάνω αριστερά της οθόνης</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο κουμπί πλέγματος στο αρχικό πλαίσιο και βρείτε την εφαρμογή που θέλετε να προσθέσετε.</p></li>
 <li class="steps">
 <p class="p">Δεξί κλικ στο εικονίδιο εφαρμογής και επιλέξτε <span class="gui">Προσθήκη στα αγαπημένα</span>.</p>
@@ -65,12 +65,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="Προσαρμογή της επιφάνειας εργασίας σας">Προσαρμογή της επιφάνειας εργασίας σας</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.el#desktop" title="Προσαρμογή της επιφάνειας εργασίας σας">Προσαρμογή της επιφάνειας εργασίας σας</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html" title="Εκκίνηση εφαρμογών">Εκκίνηση εφαρμογών</a><span class="desc"> — Ξεκινήστε εφαρμογές από την επισκόπηση <span class="gui">Δραστηριότητες</span>.</span>
+<a href="shell-apps-open.html.el" title="Εκκίνηση εφαρμογών">Εκκίνηση εφαρμογών</a><span class="desc"> — Ξεκινήστε εφαρμογές από την επισκόπηση <span class="gui">Δραστηριότητες</span>.</span>
 </li></ul></div>
 </div></div>
 </div>

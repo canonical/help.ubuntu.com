@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-language.html" title="Regio &amp; taal">Regio &amp; taal</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-language.html.nl" title="Regio &amp; taal">Regio &amp; taal</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een andere taal kiezen voor uzelf</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">You can use your desktop and applications in any of dozens of languages,
   provided you have the proper language packs installed on your computer.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Regio &amp; taal</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Taal</span>.</p></li>
@@ -75,17 +75,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Regio &amp; taal">Regio &amp; taal</a><span class="desc"> — 
-      <span class="link"><a href="session-language.html" title="Een andere taal kiezen voor uzelf">Language</a></span>,
-      <span class="link"><a href="session-formats.html" title="Formaat voor datum en maten wijzigen">region and formats</a></span>,
-      <span class="link"><a href="keyboard-layouts.html" title="Alternatieve toetsenbordindelingen gebruiken">keyboard layouts</a></span>…
+<a href="prefs-language.html.nl" title="Regio &amp; taal">Regio &amp; taal</a><span class="desc"> — 
+      <span class="link"><a href="session-language.html.nl" title="Een andere taal kiezen voor uzelf">Language</a></span>,
+      <span class="link"><a href="session-formats.html.nl" title="Formaat voor datum en maten wijzigen">region and formats</a></span>,
+      <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">keyboard layouts</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-formats.html" title="Formaat voor datum en maten wijzigen">Formaat voor datum en maten wijzigen</a><span class="desc"> — Selecteer een regio voor datum en tijd, getallen, valuta en maten.</span>
+<a href="session-formats.html.nl" title="Formaat voor datum en maten wijzigen">Formaat voor datum en maten wijzigen</a><span class="desc"> — Selecteer een regio voor datum en tijd, getallen, valuta en maten.</span>
 </li></ul></div>
 </div></div>
 </div>

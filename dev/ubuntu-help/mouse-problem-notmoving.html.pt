@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="mouse.html" title="Rato">Rato</a> › <a class="trail" href="mouse.html#problems" title="Problemas comuns">Problemas comuns</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="mouse.html.pt" title="Rato">Rato</a> › <a class="trail" href="mouse.html.pt#problems" title="Problemas comuns">Problemas comuns</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="mouse.html" title="Rato">Rato</a> › <a class="trail" href="mouse.html#problems" title="Problemas comuns">Problemas comuns</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> » <a class="trail" href="mouse.html.pt" title="Rato">Rato</a> › <a class="trail" href="mouse.html.pt#problems" title="Problemas comuns">Problemas comuns</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">O ponteiro do rato não se move</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Verifique que o rato está conetado">Verifique que o rato está conetado</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Verifique que neste momento o rato funciona">Verifique que neste momento o rato funciona</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Verificar o rato sem fios">Verificar o rato sem fios</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.pt#plugged-in" title="Verifique que o rato está conetado">Verifique que o rato está conetado</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.pt#broken" title="Verifique que neste momento o rato funciona">Verifique que neste momento o rato funciona</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.pt#wireless-mice" title="Verificar o rato sem fios">Verificar o rato sem fios</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Verifique que o rato está conetado</span></h2></div>
@@ -76,8 +76,8 @@
 <div class="region"><div class="contents">
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Assegure-se de que o rato está ignição. Geralmente existe um interruptor na parte de inferior do rato para apagar completamente o rato, de tal forma que pode mover dum lugar a outro sem ter que o acordar constantemente.</p></li>
-<li class="list"><p class="p">Se está a usar um rato Bluetooth, assegure-se de que tem emparejado o rato com a computador. Consulte a <span class="link"><a href="bluetooth-connect-device.html" title="Ligar o seu computador a um dispositivo Bluetooth">Ligar o seu computador a um dispositivo Bluetooth</a></span>.</p></li>
-<li class="list"><p class="p">Carregue um botão e comprove se o ponteiro do rato move-se agora. Alguns ratos sem fios põem-se em repouso para poupar energia, pelo que é possível que não respondam até que carregue um botão. Consulte a <span class="link"><a href="mouse-wakeup.html" title="O rato sofre um atraso antes de começar a funcionar">O rato sofre um atraso antes de começar a funcionar</a></span>.</p></li>
+<li class="list"><p class="p">Se está a usar um rato Bluetooth, assegure-se de que tem emparejado o rato com a computador. Consulte a <span class="link"><a href="bluetooth-connect-device.html.pt" title="Ligar o seu computador a um dispositivo Bluetooth">Ligar o seu computador a um dispositivo Bluetooth</a></span>.</p></li>
+<li class="list"><p class="p">Carregue um botão e comprove se o ponteiro do rato move-se agora. Alguns ratos sem fios põem-se em repouso para poupar energia, pelo que é possível que não respondam até que carregue um botão. Consulte a <span class="link"><a href="mouse-wakeup.html.pt" title="O rato sofre um atraso antes de começar a funcionar">O rato sofre um atraso antes de começar a funcionar</a></span>.</p></li>
 <li class="list"><p class="p">Verifique que a bateria do rato está carregada</p></li>
 <li class="list"><p class="p">Verifique que o receptor está firmemente conetado à computador.</p></li>
 <li class="list"><p class="p">Se o rato e o receptor podem funcionar em canais de rádio diferentes, assegure-se de que estão no mesmo canal.</p></li>
@@ -90,7 +90,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Problemas comuns">Problemas comuns do rato</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.pt#problems" title="Problemas comuns">Problemas comuns do rato</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

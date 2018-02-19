@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="mouse.html" title="Hiiri">Hiiri</a> › <a class="trail" href="mouse.html#problems" title="Yleisiä ongelmia">Yleisiä ongelmia</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="mouse.html.fi" title="Hiiri">Hiiri</a> › <a class="trail" href="mouse.html.fi#problems" title="Yleisiä ongelmia">Yleisiä ongelmia</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="mouse.html" title="Hiiri">Hiiri</a> › <a class="trail" href="mouse.html#problems" title="Yleisiä ongelmia">Yleisiä ongelmia</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="mouse.html.fi" title="Hiiri">Hiiri</a> › <a class="trail" href="mouse.html.fi#problems" title="Yleisiä ongelmia">Yleisiä ongelmia</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hiiren osoitin ei liiku</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Varmista, että hiiri on liitetty tietokoneeseen">Varmista, että hiiri on liitetty tietokoneeseen</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Varmista, ettei hiiri ole rikki">Varmista, ettei hiiri ole rikki</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Langattoman hiiren tarkistaminen">Langattoman hiiren tarkistaminen</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.fi#plugged-in" title="Varmista, että hiiri on liitetty tietokoneeseen">Varmista, että hiiri on liitetty tietokoneeseen</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.fi#broken" title="Varmista, ettei hiiri ole rikki">Varmista, ettei hiiri ole rikki</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.fi#wireless-mice" title="Langattoman hiiren tarkistaminen">Langattoman hiiren tarkistaminen</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Varmista, että hiiri on liitetty tietokoneeseen</span></h2></div>
@@ -78,8 +78,8 @@
 <li class="list"><p class="p">Make sure the mouse is turned on. There is often a switch on the
       bottom of the mouse to turn the mouse off completely, so you can take it
       with you without it constantly waking up.</p></li>
-<li class="list"><p class="p">Jos käytössäsi on Bluetooth-hiiri, varmista, että olet luonut yhteyden tietokoneen ja hiiren välille. Lue <span class="link"><a href="bluetooth-connect-device.html" title="Yhdistä tietokoneesi Bluetooth-laitteeseen">Yhdistä tietokoneesi Bluetooth-laitteeseen</a></span> saadaksesi lisätietoa laitteen yhdistämisestä.</p></li>
-<li class="list"><p class="p">Napsauta hiiren painiketta ja seuraa, siirtyykö hiiren osoitin nyt. Jotkin langattomat hiiret säästävät sähköä siirtymällä lepotilaan, joten hiirtä on napsautettava hiiren herättämiseksi: <span class="link"><a href="mouse-wakeup.html" title="Hiiren toimintaa edeltää viive">Hiiren toimintaa edeltää viive</a></span></p></li>
+<li class="list"><p class="p">Jos käytössäsi on Bluetooth-hiiri, varmista, että olet luonut yhteyden tietokoneen ja hiiren välille. Lue <span class="link"><a href="bluetooth-connect-device.html.fi" title="Yhdistä tietokoneesi Bluetooth-laitteeseen">Yhdistä tietokoneesi Bluetooth-laitteeseen</a></span> saadaksesi lisätietoa laitteen yhdistämisestä.</p></li>
+<li class="list"><p class="p">Napsauta hiiren painiketta ja seuraa, siirtyykö hiiren osoitin nyt. Jotkin langattomat hiiret säästävät sähköä siirtymällä lepotilaan, joten hiirtä on napsautettava hiiren herättämiseksi: <span class="link"><a href="mouse-wakeup.html.fi" title="Hiiren toimintaa edeltää viive">Hiiren toimintaa edeltää viive</a></span></p></li>
 <li class="list"><p class="p">Varmista, että hiiren akku/paristot on ladattu.</p></li>
 <li class="list"><p class="p">Varmista, että vastaanotin on kunnolla kiinnitetty tietokoneeseen.</p></li>
 <li class="list"><p class="p">Jos hiiri ja vastaanotin on mahdollista asettaa eri taajuuksille, varmista että ne kummatkin käyttävät samaa taajuutta.</p></li>
@@ -92,7 +92,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Yleisiä ongelmia">Yleisiä ongelmia hiiren kanssa</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.fi#problems" title="Yleisiä ongelmia">Yleisiä ongelmia hiiren kanssa</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="disk.html" title="Levyt ja tiedon tallennus">Levyt ja tiedon tallennus</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="disk.html.fi" title="Levyt ja tiedon tallennus">Levyt ja tiedon tallennus</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tarkista kiintolevysi ongelmien varalta</span></h1></div>
@@ -74,13 +74,13 @@
 <div class="region"><div class="contents">
 <p class="p">Even if the <span class="gui">Overall Assessment</span> indicates that the disk
   <span class="em">isn’t</span> healthy, there may be no cause for alarm. However, it’s better
-  to be prepared with a <span class="link"><a href="backup-why.html" title="Varmuuskopioi tärkeät tiedostosi">backup</a></span> to prevent data
+  to be prepared with a <span class="link"><a href="backup-why.html.fi" title="Varmuuskopioi tärkeät tiedostosi">backup</a></span> to prevent data
   loss.</p>
 <p class="p">If the status says “Pre-fail”, the disk is still reasonably healthy but
  signs of wear have been detected which mean it might fail in the near future.
  If your hard disk (or computer) is a few years old, you are likely to see
  this message on at least some of the health checks. You should
- <span class="link"><a href="backup-how.html" title="Miten varmuuskopioidaan?">backup your important files regularly</a></span> and check
+ <span class="link"><a href="backup-how.html.fi" title="Miten varmuuskopioidaan?">backup your important files regularly</a></span> and check
  the disk status periodically to see if it gets worse.</p>
 <p class="p">Jos se huononee, sinun kannattaa viedä tietokone/kiintolevy ammattilaiselle tarkempiin testeihin tai korjaukseen.</p>
 </div></div>
@@ -90,7 +90,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Levyt ja tiedon tallennus">Levyt ja tiedon tallennus</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Tarkista kuinka paljon levytilaa on käytössä">Levytila</a></span>, <span class="link"><a href="disk-benchmark.html" title="Testaa kiintolevyn suorituskyky">suorituskyky</a></span>, <span class="link"><a href="disk-check.html" title="Tarkista kiintolevysi ongelmien varalta">ongelmat</a></span>, <span class="link"><a href="disk-partitions.html" title="Hallitse levyjä ja osioita">asemat ja osiot</a></span>…</span>
+<a href="disk.html.fi" title="Levyt ja tiedon tallennus">Levyt ja tiedon tallennus</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.fi" title="Tarkista kuinka paljon levytilaa on käytössä">Levytila</a></span>, <span class="link"><a href="disk-benchmark.html.fi" title="Testaa kiintolevyn suorituskyky">suorituskyky</a></span>, <span class="link"><a href="disk-check.html.fi" title="Tarkista kiintolevysi ongelmien varalta">ongelmat</a></span>, <span class="link"><a href="disk-partitions.html.fi" title="Hallitse levyjä ja osioita">asemat ja osiot</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

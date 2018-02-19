@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html#common-file-tasks" title="Yleiset tehtävät">Yleiset tehtävät</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.fi" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html.fi#common-file-tasks" title="Yleiset tehtävät">Yleiset tehtävät</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nimeä tiedosto tai kansio uudelleen</span></h1></div>
@@ -59,7 +59,7 @@
     <span class="gui">Rename</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Voit myös nimetä tiedoston uudelleen käyttäen <span class="link"><a href="nautilus-file-properties-basic.html" title="Tiedostojen ominaisuudet">Ominaisuudet</a></span>-ikkunaa.</p>
+<p class="p">Voit myös nimetä tiedoston uudelleen käyttäen <span class="link"><a href="nautilus-file-properties-basic.html.fi" title="Tiedostojen ominaisuudet">Ominaisuudet</a></span>-ikkunaa.</p>
 <p class="p">When you rename a file, only the first part of the name of the file is
   selected, not the file extension (the part after the last <span class="file">.</span>).
   The extension normally denotes what type of file it is (for example,
@@ -82,7 +82,7 @@
     <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>,
     <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
 <div class="note note-warning" title="Varoitus"><div class="inner"><div class="region"><div class="contents"><p class="p">If you name a file with a <span class="file">.</span> as the first character, the
-    file will be <span class="link"><a href="files-hidden.html" title="Tiedoston piilottaminen">hidden</a></span> when you attempt to
+    file will be <span class="link"><a href="files-hidden.html.fi" title="Tiedoston piilottaminen">hidden</a></span> when you attempt to
     view it in the file manager.</p></div></div></div></div>
 </div></div>
 </div></div>
@@ -103,14 +103,14 @@
         <span class="file">/home/wanda/Documents/work/business-proposals/…</span>), so you
         should avoid long file and folder names where possible.</p></dd>
 <dt class="terms">Nimeä uudelleen... -valinta on harmaana</dt>
-<dd class="terms"><p class="p">Jos <span class="gui">Nimeä uudelleen</span> on epäaktiivinen, sinulla ei ole oikeuksia muuttaa tiedoston nimeä. Tällaisten tiedostojen uudelleennimeämisessä kannattaa olla varuillaan, sillä väärän tiedoston nimen muuttaminen saattaa haitata järjestelmän toimintaa. Lue <span class="link"><a href="nautilus-file-properties-permissions.html" title="Määritä tiedoston käyttöoikeudet">Määritä tiedoston käyttöoikeudet</a></span> saadaksesi lisätietoja.</p></dd>
+<dd class="terms"><p class="p">Jos <span class="gui">Nimeä uudelleen</span> on epäaktiivinen, sinulla ei ole oikeuksia muuttaa tiedoston nimeä. Tällaisten tiedostojen uudelleennimeämisessä kannattaa olla varuillaan, sillä väärän tiedoston nimen muuttaminen saattaa haitata järjestelmän toimintaa. Lue <span class="link"><a href="nautilus-file-properties-permissions.html.fi" title="Määritä tiedoston käyttöoikeudet">Määritä tiedoston käyttöoikeudet</a></span> saadaksesi lisätietoja.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Yleiset tehtävät">Yleiset tehtävät</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.fi#common-file-tasks" title="Yleiset tehtävät">Yleiset tehtävät</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="power.html" title="Virransäästö ja akku">Virransäästö ja akku</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="power.html.fi" title="Virransäästö ja akku">Virransäästö ja akku</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="power.html" title="Virransäästö ja akku">Virransäästö ja akku</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="power.html.fi" title="Virransäästö ja akku">Virransäästö ja akku</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Kun asetat tietokoneen <span class="em">lepotilaan</span>, kaikki avoinna olevat sovellukset ja asiakirjat pysyvät avoinna. Tietokone sammuu kokonaan, eikä se käytä lainkaan virtaa. Lepotila vastaa tietokoneen sammuttamista sillä erolla, että kone käynnistyy nopeammin ja sovellukset sekä asiakirjat pysyvät avoinna.</p>
-<p class="p">Valitettavasti lepotila <span class="link"><a href="power-suspendfail.html" title="Miksi tietokoneeni ei suostu palaamaan valmiustilasta?">ei toimi</a></span> kaikkien tietokoneiden kanssa, ja siitä johtuen avoinna olevissa asiakirjoissa ja sovelluksissa olevat tiedot saattavat kadota lepotilassa. Tietojen katoamisen estämiseksi lepotila on oletuksena pois käytöstä.</p>
+<p class="p">Valitettavasti lepotila <span class="link"><a href="power-suspendfail.html.fi" title="Miksi tietokoneeni ei suostu palaamaan valmiustilasta?">ei toimi</a></span> kaikkien tietokoneiden kanssa, ja siitä johtuen avoinna olevissa asiakirjoissa ja sovelluksissa olevat tiedot saattavat kadota lepotilassa. Tietojen katoamisen estämiseksi lepotila on oletuksena pois käytöstä.</p>
 </div>
 <div id="test-hibernate" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Kokeile toimiiko lepotila</span></h2></div>
@@ -65,7 +65,8 @@
 </div></div>
 <p class="p">Lepotilan toimintaa voi testata komentorivin kautta.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Avaa <span class="app">Pääte</span> painamalla <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> tai etsimällä hakusanalla <span class="input">pääte</span> <span class="gui">Unity-valikossa</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="app">Terminal</span> by searching for <span class="input">terminal</span>
+     in the <span class="gui">Activities overview</span>.</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Anna salasanasi, kun sitä kysytään.</p>
@@ -108,13 +109,13 @@ ResultActive=yes</pre></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Virransäästö ja akku">Virransäästö ja akku</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Tarkista akun tila">Akun tila</a></span>, <span class="link"><a href="power-suspend.html" title="Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?">valmiustila</a></span>, <span class="link"><a href="power-whydim.html" title="Miksi näyttö himmenee itsestään?">näytön himmentäminen</a></span>…</span>
+<a href="power.html.fi" title="Virransäästö ja akku">Virransäästö ja akku</a><span class="desc"> — <span class="link"><a href="power-status.html.fi" title="Tarkista akun tila">Akun tila</a></span>, <span class="link"><a href="power-suspend.html.fi" title="Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?">valmiustila</a></span>, <span class="link"><a href="power-whydim.html.fi" title="Miksi näyttö himmenee itsestään?">näytön himmentäminen</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-suspendfail.html" title="Miksi tietokoneeni ei suostu palaamaan valmiustilasta?">Miksi tietokoneeni ei suostu palaamaan valmiustilasta?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.fi" title="Miksi tietokoneeni ei suostu palaamaan valmiustilasta?">Miksi tietokoneeni ei suostu palaamaan valmiustilasta?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li></ul></div>
 </div></div>
 </div>

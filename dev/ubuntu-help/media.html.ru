@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Звук, видео и изображения</span></h1></div>
@@ -54,13 +54,13 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-broken.html" title="Проблемы со звуком"><span class="title">Проблемы со звуком</span><span class="linkdiv-dash"> — </span><span class="desc">Решение проблем, связанных с отсутствием звука или плохим качеством звучания.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-alert.html" title="Выбор или отключение звуковых уведомлений"><span class="title">Выбор или отключение звуковых уведомлений</span><span class="linkdiv-dash"> — </span><span class="desc">Выберите звук для уведомлений, настройте их громкость или отключите звуковые уведомления.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-volume.html" title="Изменение громкости звука"><span class="title">Изменение громкости звука</span><span class="linkdiv-dash"> — </span><span class="desc">Настройка общей громкости звука для компьютера и управление громкостью для каждого приложения.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-broken.html.ru" title="Проблемы со звуком"><span class="title">Проблемы со звуком</span><span class="linkdiv-dash"> — </span><span class="desc">Решение проблем, связанных с отсутствием звука или плохим качеством звучания.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-alert.html.ru" title="Выбор или отключение звуковых уведомлений"><span class="title">Выбор или отключение звуковых уведомлений</span><span class="linkdiv-dash"> — </span><span class="desc">Выберите звук для уведомлений, настройте их громкость или отключите звуковые уведомления.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-volume.html.ru" title="Изменение громкости звука"><span class="title">Изменение громкости звука</span><span class="linkdiv-dash"> — </span><span class="desc">Настройка общей громкости звука для компьютера и управление громкостью для каждого приложения.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html" title="Использование различных аудиоколонок или наушников"><span class="title">Использование различных аудиоколонок или наушников</span><span class="linkdiv-dash"> — </span><span class="desc">Подключение колонок или наушников и выбор выходного звукового устройства по умолчанию.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html" title="Использование различных микрофонов"><span class="title">Использование различных микрофонов</span><span class="linkdiv-dash"> — </span><span class="desc">Использование аналогового или USB-микрофона и выбор входного звукового устройства по умолчанию.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html.ru" title="Использование различных аудиоколонок или наушников"><span class="title">Использование различных аудиоколонок или наушников</span><span class="linkdiv-dash"> — </span><span class="desc">Подключение колонок или наушников и выбор выходного звукового устройства по умолчанию.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html.ru" title="Использование различных микрофонов"><span class="title">Использование различных микрофонов</span><span class="linkdiv-dash"> — </span><span class="desc">Использование аналогового или USB-микрофона и выбор входного звукового устройства по умолчанию.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Дополнительная информация</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
+<a href="prefs.html.ru" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html.ru" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html.ru" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html.ru" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html.ru" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -78,33 +78,33 @@
 <div class="hgroup"><h2 class="title"><span class="title">Музыка и портативные аудиоплееры</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="I can’t play the songs I bought from an online music store"><span class="title">I can’t play the songs I bought from an online music store</span><span class="linkdiv-dash"> — </span><span class="desc">Support for that file format might not be installed or the songs could be “copy protected”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html" title="My new iPod won’t work"><span class="title">My new iPod won’t work</span><span class="linkdiv-dash"> — </span><span class="desc">Современные устройства iPod нужно настроить с помощью программы iTunes перед использованием.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html.ru" title="I can’t play the songs I bought from an online music store"><span class="title">I can’t play the songs I bought from an online music store</span><span class="linkdiv-dash"> — </span><span class="desc">Support for that file format might not be installed or the songs could be “copy protected”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html.ru" title="My new iPod won’t work"><span class="title">My new iPod won’t work</span><span class="linkdiv-dash"> — </span><span class="desc">Современные устройства iPod нужно настроить с помощью программы iTunes перед использованием.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html" title="Songs don’t appear on my iPod when I copy them onto it"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span><span class="linkdiv-dash"> — </span><span class="desc">Используйте медиапроигрыватель для копирования музыкальных композиций, а затем безопасно извлеките iPod.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Открытие приложений для устройств и дисков"><span class="title">Открытие приложений для устройств и дисков</span><span class="linkdiv-dash"> — </span><span class="desc">Автоматический запуск приложений для CD и DVD, камер, аудиопроигрывателей и других устройств и носителей информации.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html.ru" title="Songs don’t appear on my iPod when I copy them onto it"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span><span class="linkdiv-dash"> — </span><span class="desc">Используйте медиапроигрыватель для копирования музыкальных композиций, а затем безопасно извлеките iPod.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.ru" title="Открытие приложений для устройств и дисков"><span class="title">Открытие приложений для устройств и дисков</span><span class="linkdiv-dash"> — </span><span class="desc">Автоматический запуск приложений для CD и DVD, камер, аудиопроигрывателей и других устройств и носителей информации.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="photos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Фотографии и цифровые фотокамеры</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Открытие приложений для устройств и дисков"><span class="title">Открытие приложений для устройств и дисков</span><span class="linkdiv-dash"> — </span><span class="desc">Автоматический запуск приложений для CD и DVD, камер, аудиопроигрывателей и других устройств и носителей информации.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html" title="Проблемы с устройствами для чтения карт памяти"><span class="title">Проблемы с устройствами для чтения карт памяти</span><span class="linkdiv-dash"> — </span><span class="desc">Устранение проблем с устройствами чтения карт памяти</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.ru" title="Открытие приложений для устройств и дисков"><span class="title">Открытие приложений для устройств и дисков</span><span class="linkdiv-dash"> — </span><span class="desc">Автоматический запуск приложений для CD и DVD, камер, аудиопроигрывателей и других устройств и носителей информации.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html.ru" title="Проблемы с устройствами для чтения карт памяти"><span class="title">Проблемы с устройствами для чтения карт памяти</span><span class="linkdiv-dash"> — </span><span class="desc">Устранение проблем с устройствами чтения карт памяти</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="videos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Видеозаписи и видеокамеры</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="video-sending.html" title="Other people can’t play the videos I made"><span class="title">Other people can’t play the videos I made</span><span class="linkdiv-dash"> — </span><span class="desc">Проверьте, установлены ли нужные видеокодеки.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd.html" title="Why won’t DVDs play?"><span class="title">Why won’t DVDs play?</span><span class="linkdiv-dash"> — </span><span class="desc">Вероятно, не установлены необходимые кодеки, или DVD не из того региона.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Открытие приложений для устройств и дисков"><span class="title">Открытие приложений для устройств и дисков</span><span class="linkdiv-dash"> — </span><span class="desc">Автоматический запуск приложений для CD и DVD, камер, аудиопроигрывателей и других устройств и носителей информации.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-sending.html.ru" title="Other people can’t play the videos I made"><span class="title">Other people can’t play the videos I made</span><span class="linkdiv-dash"> — </span><span class="desc">Проверьте, установлены ли нужные видеокодеки.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd.html.ru" title="Why won’t DVDs play?"><span class="title">Why won’t DVDs play?</span><span class="linkdiv-dash"> — </span><span class="desc">Вероятно, не установлены необходимые кодеки, или DVD не из того региона.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.ru" title="Открытие приложений для устройств и дисков"><span class="title">Открытие приложений для устройств и дисков</span><span class="linkdiv-dash"> — </span><span class="desc">Автоматический запуск приложений для CD и DVD, камер, аудиопроигрывателей и других устройств и носителей информации.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="app-cheese.html" title="Создайте забавные фото и видео с помощью веб-камеры"><span class="title">Создайте забавные фото и видео с помощью веб-камеры</span><span class="linkdiv-dash"> — </span><span class="desc">Ваша собственная фотобудка.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html" title="Как мне активировать кодек для проигрывания DVD?"><span class="title">Как мне активировать кодек для проигрывания DVD?</span><span class="linkdiv-dash"> — </span><span class="desc">Большинство коммерческих DVD закодированы и не будут проигрываться без декодирующего программного обеспечения.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="app-cheese.html.ru" title="Создайте забавные фото и видео с помощью веб-камеры"><span class="title">Создайте забавные фото и видео с помощью веб-камеры</span><span class="linkdiv-dash"> — </span><span class="desc">Ваша собственная фотобудка.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html.ru" title="Как мне активировать кодек для проигрывания DVD?"><span class="title">Как мне активировать кодек для проигрывания DVD?</span><span class="linkdiv-dash"> — </span><span class="desc">Большинство коммерческих DVD закодированы и не будут проигрываться без декодирующего программного обеспечения.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -112,7 +112,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Руководство пользователя Ubuntu">Руководство пользователя Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.ru" title="Руководство пользователя Ubuntu">Руководство пользователя Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

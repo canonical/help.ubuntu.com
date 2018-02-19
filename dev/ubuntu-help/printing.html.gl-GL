@@ -43,38 +43,38 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Impresión</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html" title="How can I check my printer’s ink or toner levels?"><span class="title">How can I check my printer’s ink or toner levels?</span><span class="linkdiv-dash"> — </span><span class="desc">Comprobe a cantidade de tinta ou tóner nos cartuchos de impresión.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html" title="Imprimir a ficheiro"><span class="title">Imprimir a ficheiro</span><span class="linkdiv-dash"> — </span><span class="desc">Save a document as a PDF, PostScript or SVG file instead of sending
+<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.gl-GL" title="How can I check my printer’s ink or toner levels?"><span class="title">How can I check my printer’s ink or toner levels?</span><span class="linkdiv-dash"> — </span><span class="desc">Comprobe a cantidade de tinta ou tóner nos cartuchos de impresión.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html.gl-GL" title="Imprimir a ficheiro"><span class="title">Imprimir a ficheiro</span><span class="linkdiv-dash"> — </span><span class="desc">Save a document as a PDF, PostScript or SVG file instead of sending
     it to a printer.</span></a></div>
 </div></div></div></div>
 <div id="setup" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Configurar unha impresora</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-setup.html" title="Configurar unha impresora local"><span class="title">Configurar unha impresora local</span><span class="linkdiv-dash"> — </span><span class="desc">Configurar unha impresora que está conectada ao seu computador.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-name-location.html" title="Cambiar o tamaño e localización dunha impresora"><span class="title">Cambiar o tamaño e localización dunha impresora</span><span class="linkdiv-dash"> — </span><span class="desc">Cambie o nome e localización dunha impresora nas preferencias de impresión.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-setup.html.gl-GL" title="Configurar unha impresora local"><span class="title">Configurar unha impresora local</span><span class="linkdiv-dash"> — </span><span class="desc">Configurar unha impresora que está conectada ao seu computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-name-location.html.gl-GL" title="Cambiar o tamaño e localización dunha impresora"><span class="title">Cambiar o tamaño e localización dunha impresora</span><span class="linkdiv-dash"> — </span><span class="desc">Cambie o nome e localización dunha impresora nas preferencias de impresión.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html" title="Estabelecer a impresora predeterminada"><span class="title">Estabelecer a impresora predeterminada</span><span class="linkdiv-dash"> — </span><span class="desc">Seleccionar a impresora que usa máis frecuentemente.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html.gl-GL" title="Estabelecer a impresora predeterminada"><span class="title">Estabelecer a impresora predeterminada</span><span class="linkdiv-dash"> — </span><span class="desc">Seleccionar a impresora que usa máis frecuentemente.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="paper" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Diferentes tamaños e disposicións do papel</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html" title="Cambiar o tamaño do papel ao imprimir"><span class="title">Cambiar o tamaño do papel ao imprimir</span><span class="linkdiv-dash"> — </span><span class="desc">Imprimir un documento nun tamaño de papel ou orientación diferente.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-order.html" title="Facer que as páxinas se impriman en diferente orde"><span class="title">Facer que as páxinas se impriman en diferente orde</span><span class="linkdiv-dash"> — </span><span class="desc">Clasificar e reverter a orde de impresión.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html" title="Imprimir deseños de páxinas múltiples e a dobre cara"><span class="title">Imprimir deseños de páxinas múltiples e a dobre cara</span><span class="linkdiv-dash"> — </span><span class="desc">Imprimir en ámbalas caras do papel, ou múltiples páxinas por folla.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html.gl-GL" title="Cambiar o tamaño do papel ao imprimir"><span class="title">Cambiar o tamaño do papel ao imprimir</span><span class="linkdiv-dash"> — </span><span class="desc">Imprimir un documento nun tamaño de papel ou orientación diferente.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-order.html.gl-GL" title="Facer que as páxinas se impriman en diferente orde"><span class="title">Facer que as páxinas se impriman en diferente orde</span><span class="linkdiv-dash"> — </span><span class="desc">Clasificar e reverter a orde de impresión.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html.gl-GL" title="Imprimir deseños de páxinas múltiples e a dobre cara"><span class="title">Imprimir deseños de páxinas múltiples e a dobre cara</span><span class="linkdiv-dash"> — </span><span class="desc">Imprimir en ámbalas caras do papel, ou múltiples páxinas por folla.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-select.html" title="Imprimir só certas páxinas"><span class="title">Imprimir só certas páxinas</span><span class="linkdiv-dash"> — </span><span class="desc">Imprimir só páxinas específicas ou só un rango de páxinas.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html" title="Imprimir un pasquín"><span class="title">Imprimir un pasquín</span><span class="linkdiv-dash"> — </span><span class="desc">Como imprimir un pasquín plegado, multipáxina usando un papel de tamaño A4 ou Carta.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html" title="Print envelopes"><span class="title">Print envelopes</span><span class="linkdiv-dash"> — </span><span class="desc">Make sure that you have the envelope the right way up, and have
+<div class="linkdiv "><a class="linkdiv" href="printing-select.html.gl-GL" title="Imprimir só certas páxinas"><span class="title">Imprimir só certas páxinas</span><span class="linkdiv-dash"> — </span><span class="desc">Imprimir só páxinas específicas ou só un rango de páxinas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.gl-GL" title="Imprimir un pasquín"><span class="title">Imprimir un pasquín</span><span class="linkdiv-dash"> — </span><span class="desc">Como imprimir un pasquín plegado, multipáxina usando un papel de tamaño A4 ou Carta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.gl-GL" title="Print envelopes"><span class="title">Print envelopes</span><span class="linkdiv-dash"> — </span><span class="desc">Make sure that you have the envelope the right way up, and have
     chosen the correct paper size.</span></a></div>
 </div>
 </div></div></div></div></div>
@@ -84,16 +84,16 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html" title="Arranxar un atasco de papel"><span class="title">Arranxar un atasco de papel</span><span class="linkdiv-dash"> — </span><span class="desc">Como solucionar un atasco de papel depende da marca e modelo da impresora que teña.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html" title="Cancelar, pausar ou liberar un traballo de impresión"><span class="title">Cancelar, pausar ou liberar un traballo de impresión</span><span class="linkdiv-dash"> — </span><span class="desc">Cancelar un traballo de impresión pendente e eliminalo da cola.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html.gl-GL" title="Arranxar un atasco de papel"><span class="title">Arranxar un atasco de papel</span><span class="linkdiv-dash"> — </span><span class="desc">Como solucionar un atasco de papel depende da marca e modelo da impresora que teña.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html.gl-GL" title="Cancelar, pausar ou liberar un traballo de impresión"><span class="title">Cancelar, pausar ou liberar un traballo de impresión</span><span class="linkdiv-dash"> — </span><span class="desc">Cancelar un traballo de impresión pendente e eliminalo da cola.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-streaks.html" title="Por que a impresión é pouco uniforme, hai liñas ou cores erróneos nas miñas impresións?"><span class="title">Por que a impresión é pouco uniforme, hai liñas ou cores erróneos nas miñas impresións?</span><span class="linkdiv-dash"> — </span><span class="desc">Se as impresións son pouco uniformes, difusas ou faltan cores, comprobe os niveis de tinta ou limpe os cabezais de impresión.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-streaks.html.gl-GL" title="Por que a impresión é pouco uniforme, hai liñas ou cores erróneos nas miñas impresións?"><span class="title">Por que a impresión é pouco uniforme, hai liñas ou cores erróneos nas miñas impresións?</span><span class="linkdiv-dash"> — </span><span class="desc">Se as impresións son pouco uniformes, difusas ou faltan cores, comprobe os niveis de tinta ou limpe os cabezais de impresión.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Máis información</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Problemas comúns">Problemas de hardware</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas de hardware</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -103,7 +103,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardware e controladores">Hardware e controladores</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Problemas comúns">Problemas de hardware</a></span>, <span class="link"><a href="hardware.html#printing" title="hardware#printing">impresoras</a></span>, <span class="link"><a href="hardware.html#power" title="hardware#power">configuración de enerxía</a></span>, <span class="link"><a href="hardware.html#bluetooth" title="hardware#bluetooth">Bluetooth</a></span>, <span class="link"><a href="hardware.html#disk" title="hardware#disk">discos</a></span>…</span>
+<a href="hardware.html.gl-GL" title="Hardware e controladores">Hardware e controladores</a><span class="desc"> — <span class="link"><a href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas de hardware</a></span>, <span class="link"><a href="hardware.html.gl-GL#printing" title="hardware#printing">impresoras</a></span>, <span class="link"><a href="hardware.html.gl-GL#power" title="hardware#power">configuración de enerxía</a></span>, <span class="link"><a href="hardware.html.gl-GL#bluetooth" title="hardware#bluetooth">Bluetooth</a></span>, <span class="link"><a href="hardware.html.gl-GL#disk" title="hardware#disk">discos</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

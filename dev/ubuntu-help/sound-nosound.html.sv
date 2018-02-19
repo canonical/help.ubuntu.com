@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="media.html#sound" title="Grundläggande ljud">Ljud</a> » <a class="trail" href="sound-broken.html" title="Ljudproblem">Ljudproblem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="media.html.sv#sound" title="Grundläggande ljud">Ljud</a> » <a class="trail" href="sound-broken.html.sv" title="Ljudproblem">Ljudproblem</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="sound-broken.html" title="Ljudproblem">Ljudproblem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html.sv#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="sound-broken.html.sv" title="Ljudproblem">Ljudproblem</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <div id="mute" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Säkerställ att ljudvolymen inte är tyst</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Öppna <span class="gui"><a href="shell-introduction.html#yourname" title="Du och din dator">systemmenyn</a></span> från högersidan på systemraden och säkerställ att ljudet inte är tyst eller långt nedskruvat.</p>
+<p class="p">Öppna <span class="gui"><a href="shell-introduction.html.sv#yourname" title="Du och din dator">systemmenyn</a></span> från högersidan på systemraden och säkerställ att ljudet inte är tyst eller långt nedskruvat.</p>
 <p class="p">Vissa bärbara datorer har tangenter för att tysta ljudet på tangentbordet — tryck på den knappen för att se om det ljudet fungerar.</p>
 <p class="p">Du bör också kontrollera att du inte har tystat ljudet från programmet som du använder för att spela ljud (till exempel din musikspelare eller filmspelare). Programmet kan ha en volymknapp i sitt huvudfönster, så kontrollera den.</p>
 <p class="p">Dessutom kan du kontrollera <span class="gui">Program</span>-fliken i <span class="gui">Ljud</span>-gränssnittet:</p>
@@ -80,7 +80,7 @@
 <div class="region"><div class="contents">
 <p class="p">Vissa datorer har flera ”ljudenheter” installerade. Vissa av dessa är kapabla att sända ut ljud medan andra inte är det, så du bör kontrollera att du har rätt ljudenhet vald. Det kan behövas ett antal försök för att hitta den rätta.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Ljud</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Ljud</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Ljud</span> för att öppna panelen.</p></li>
 <li class="steps">
 <p class="p">I fliken <span class="gui">Utgång</span>, ändra inställningen <span class="gui">Profil</span> för den valda enheten och spela ett ljud för att se om det fungerar. Du kan behöva gå genom listan och prova varje profil.</p>
@@ -96,7 +96,7 @@
 <p class="p">Kör kommandot <span class="cmd">lspci</span> i terminalen för att få reda på vilket ljudkort du har:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Gå till översiktsvyn <span class="gui">Aktiviteter</span> och öppna en Terminal.</p></li>
-<li class="steps"><p class="p">Kör <span class="cmd">lspci</span> som <span class="link"><a href="user-admin-explain.html" title="Hur fungerar administratörsbehörighet?">administratör</a></span>; skriv antingen <span class="cmd">sudo lspci</span> och mata in ditt lösenord, eller skriv <span class="cmd">su</span>, mata in <span class="em">root</span>-lösenordet (administratörslösenordet) och skriv sedan <span class="cmd">lspci</span>.</p></li>
+<li class="steps"><p class="p">Kör <span class="cmd">lspci</span> som <span class="link"><a href="user-admin-explain.html.sv" title="Hur fungerar administratörsbehörighet?">administratör</a></span>; skriv antingen <span class="cmd">sudo lspci</span> och mata in ditt lösenord, eller skriv <span class="cmd">su</span>, mata in <span class="em">root</span>-lösenordet (administratörslösenordet) och skriv sedan <span class="cmd">lspci</span>.</p></li>
 <li class="steps"><p class="p">Kontrollera om en <span class="em">ljudstyrenhet</span> eller en <span class="em">ljudenhet</span> listas: i sådana fall bör du se tillverkarens namn och modellnummer på ljudkortet. <span class="cmd">lspci -v </span> kommer att visa en lista med mer detaljerad information.</p></li>
 </ol></div></div></div>
 <p class="p">Du kan nog hitta och installera drivrutinerna för ditt kort. Det är bäst att fråga efter instruktioner på supportforum (eller liknande) för din Linux-distribution.</p>
@@ -108,7 +108,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html" title="Ljudproblem">Ljudproblem</a><span class="desc"> — Felsök problem som att inte få ljud eller få dåligt ljudkvalitet.</span>
+<a href="sound-broken.html.sv" title="Ljudproblem">Ljudproblem</a><span class="desc"> — Felsök problem som att inte få ljud eller få dåligt ljudkvalitet.</span>
 </li></ul></div>
 </div></div></div>
 </div>

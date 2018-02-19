@@ -43,33 +43,33 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.te" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">నిస్తంత్రి నెట్‌వర్కింగు</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html" title="Connect to a wireless network"><span class="title">Connect to a wireless network</span><span class="linkdiv-dash"> — </span><span class="desc">Get on the internet — wirelessly.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Connect to a VPN"><span class="title">Connect to a VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-hidden.html" title="Connect to a hidden wireless network"><span class="title">Connect to a hidden wireless network</span><span class="linkdiv-dash"> — </span><span class="desc">Connect to a wireless network that is not displayed in the network
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html.te" title="Connect to a wireless network"><span class="title">Connect to a wireless network</span><span class="linkdiv-dash"> — </span><span class="desc">Get on the internet — wirelessly.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html.te" title="Connect to a VPN"><span class="title">Connect to a VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-hidden.html.te" title="Connect to a hidden wireless network"><span class="title">Connect to a hidden wireless network</span><span class="linkdiv-dash"> — </span><span class="desc">Connect to a wireless network that is not displayed in the network
     list.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-mobile.html" title="Connect to mobile broadband"><span class="title">Connect to mobile broadband</span><span class="linkdiv-dash"> — </span><span class="desc">Use your phone or Internet stick to connect to the mobile broadband
+<div class="linkdiv "><a class="linkdiv" href="net-mobile.html.te" title="Connect to mobile broadband"><span class="title">Connect to mobile broadband</span><span class="linkdiv-dash"> — </span><span class="desc">Use your phone or Internet stick to connect to the mobile broadband
     network.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-adhoc.html" title="Create a wireless hotspot"><span class="title">Create a wireless hotspot</span><span class="linkdiv-dash"> — </span><span class="desc">Use an ad-hoc network to allow other devices to connect to your
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-adhoc.html.te" title="Create a wireless hotspot"><span class="title">Create a wireless hotspot</span><span class="linkdiv-dash"> — </span><span class="desc">Use an ad-hoc network to allow other devices to connect to your
     computer and its network connections.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html.te" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
     connect to a hidden network.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html" title="I’ve entered the correct password, but I still can’t connect"><span class="title">I’ve entered the correct password, but I still can’t connect</span><span class="linkdiv-dash"> — </span><span class="desc">Double-check the password, and other things to try.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Manually set network settings"><span class="title">Manually set network settings</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html.te" title="I’ve entered the correct password, but I still can’t connect"><span class="title">I’ve entered the correct password, but I still can’t connect</span><span class="linkdiv-dash"> — </span><span class="desc">Double-check the password, and other things to try.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html.te" title="Manually set network settings"><span class="title">Manually set network settings</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
     automatically.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-airplane.html" title="Turn off wireless (airplane mode)"><span class="title">Turn off wireless (airplane mode)</span><span class="linkdiv-dash"> — </span><span class="desc">Open Network Settings and switch Airplane Mode to ON.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-wepwpa.html" title="What do WEP and WPA mean?"><span class="title">What do WEP and WPA mean?</span><span class="linkdiv-dash"> — </span><span class="desc">WEP and WPA are ways of encrypting data on wireless networks.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?"><span class="title">Why does my wireless network keep disconnecting?</span><span class="linkdiv-dash"> — </span><span class="desc">You might have low signal, or the network might not be letting you
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-airplane.html.te" title="Turn off wireless (airplane mode)"><span class="title">Turn off wireless (airplane mode)</span><span class="linkdiv-dash"> — </span><span class="desc">Open Network Settings and switch Airplane Mode to ON.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-wepwpa.html.te" title="What do WEP and WPA mean?"><span class="title">What do WEP and WPA mean?</span><span class="linkdiv-dash"> — </span><span class="desc">WEP and WPA are ways of encrypting data on wireless networks.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html.te" title="Why does my wireless network keep disconnecting?"><span class="title">Why does my wireless network keep disconnecting?</span><span class="linkdiv-dash"> — </span><span class="desc">You might have low signal, or the network might not be letting you
     connect properly.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter"><span class="title">Wireless network troubleshooter</span><span class="linkdiv-dash"> — </span><span class="desc">Identify and fix problems with wireless connections.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-troubleshooting.html.te" title="Wireless network troubleshooter"><span class="title">Wireless network troubleshooter</span><span class="linkdiv-dash"> — </span><span class="desc">Identify and fix problems with wireless connections.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -78,24 +78,24 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="నిస్తంత్రి నెట్‌వర్కింగు">నిస్తంత్రి</a></span>, <span class="link"><a href="net-wired.html" title="Wired Networking">తంత్రి</a></span>, <span class="link"><a href="net-problem.html" title="Network problems">అనుసంధాన సమస్యలు</a></span>, <span class="link"><a href="net-browser.html" title="Web Browsers">జాల విహారణం</a></span>, <span class="link"><a href="net-email.html" title="Email &amp; email software">ఈమెయిలు ఖాతాలు</a></span>…</span>
+<a href="net.html.te" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.te" title="నిస్తంత్రి నెట్‌వర్కింగు">నిస్తంత్రి</a></span>, <span class="link"><a href="net-wired.html.te" title="Wired Networking">తంత్రి</a></span>, <span class="link"><a href="net-problem.html.te" title="Network problems">అనుసంధాన సమస్యలు</a></span>, <span class="link"><a href="net-browser.html.te" title="Web Browsers">జాల విహారణం</a></span>, <span class="link"><a href="net-email.html.te" title="Email &amp; email software">ఈమెయిలు ఖాతాలు</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ఇవి కూడా చూడండి</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html" title="Network problems">Network problems</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
+<a href="net-problem.html.te" title="Network problems">Network problems</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.te" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.te" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="net-general.html" title="నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు">నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు</a><span class="desc"> — 
-      <span class="link"><a href="net-findip.html" title="మీ ఐపీ చిరునామాను కనుక్కోండి">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html" title="What is a MAC address?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html" title="ప్రాక్సీ అమరికలను నిర్వచించండి">proxies</a></span>…
+<a href="net-general.html.te" title="నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు">నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు</a><span class="desc"> — 
+      <span class="link"><a href="net-findip.html.te" title="మీ ఐపీ చిరునామాను కనుక్కోండి">Find your IP address</a></span>,
+      <span class="link"><a href="net-wireless-wepwpa.html.te" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
+      <span class="link"><a href="net-macaddress.html.te" title="What is a MAC address?">MAC addresses</a></span>,
+      <span class="link"><a href="net-proxy.html.te" title="ప్రాక్సీ అమరికలను నిర్వచించండి">proxies</a></span>…
     </span>
 </li>
 </ul></div>

@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Webbläsare</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html" title="Installera insticksmodulen Flash"><span class="title">Installera insticksmodulen Flash</span><span class="linkdiv-dash"> — </span><span class="desc">Du kan behöva installera Flash för att kunna titta på vissa webbplatser, som visar videor och interaktiva webbsidor.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html" title="Ändra vilken webbläsare som öppnar webbplatser som standard"><span class="title">Ändra vilken webbläsare som öppnar webbplatser som standard</span><span class="linkdiv-dash"> — </span><span class="desc">Ändra standardwebbläsaren genom att gå till <span class="gui">Detaljer</span> i <span class="gui">Inställningar</span>.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html.sv" title="Installera insticksmodulen Flash"><span class="title">Installera insticksmodulen Flash</span><span class="linkdiv-dash"> — </span><span class="desc">Du kan behöva installera Flash för att kunna titta på vissa webbplatser, som visar videor och interaktiva webbsidor.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html.sv" title="Ändra vilken webbläsare som öppnar webbplatser som standard"><span class="title">Ändra vilken webbläsare som öppnar webbplatser som standard</span><span class="linkdiv-dash"> — </span><span class="desc">Ändra standardwebbläsaren genom att gå till <span class="gui">Detaljer</span> i <span class="gui">Inställningar</span>.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -58,12 +58,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Trådlösa nätverk">Trådlöst</a></span>, <span class="link"><a href="net-wired.html" title="Trådbundna nätverk">trådbundet</a></span>, <span class="link"><a href="net-problem.html" title="Nätverksproblem">anslutningsproblem</a></span>, <span class="link"><a href="net-browser.html" title="Webbläsare">webbsurfning</a></span>, <span class="link"><a href="net-email.html" title="E-post &amp; e-postprogramvara">e-postkonton</a></span>…</span>
+<a href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlöst</a></span>, <span class="link"><a href="net-wired.html.sv" title="Trådbundna nätverk">trådbundet</a></span>, <span class="link"><a href="net-problem.html.sv" title="Nätverksproblem">anslutningsproblem</a></span>, <span class="link"><a href="net-browser.html.sv" title="Webbläsare">webbsurfning</a></span>, <span class="link"><a href="net-email.html.sv" title="E-post &amp; e-postprogramvara">e-postkonton</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-browse-web.html" title="Surfa på nätet">En handledning i att surfa på nätet</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-browse-web.html.sv" title="Surfa på nätet">En handledning i att surfa på nätet</a></li></ul></div>
 </div></div>
 </div>
 </div>

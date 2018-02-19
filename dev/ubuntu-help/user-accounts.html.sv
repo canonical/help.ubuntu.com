@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Användarkonton</span></h1></div>
@@ -53,30 +53,30 @@
 <div class="hgroup"><h2 class="title"><span class="title">Hantera användarkonton</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Lägg till ett nytt användarkonto"><span class="title">Lägg till ett nytt användarkonto</span><span class="linkdiv-dash"> — </span><span class="desc">Lägg till nya användare så att andra personer kan logga in på datorn.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Logga in automatiskt"><span class="title">Logga in automatiskt</span><span class="linkdiv-dash"> — </span><span class="desc">Ställ in automatisk inloggning när du startar din dator.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-add.html.sv" title="Lägg till ett nytt användarkonto"><span class="title">Lägg till ett nytt användarkonto</span><span class="linkdiv-dash"> — </span><span class="desc">Lägg till nya användare så att andra personer kan logga in på datorn.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html.sv" title="Logga in automatiskt"><span class="title">Logga in automatiskt</span><span class="linkdiv-dash"> — </span><span class="desc">Ställ in automatisk inloggning när du startar din dator.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Ta bort ett användarkonto"><span class="title">Ta bort ett användarkonto</span><span class="linkdiv-dash"> — </span><span class="desc">Ta bort användare som inte längre använder din dator.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Ändra ditt foto på inloggningsskärmen"><span class="title">Ändra ditt foto på inloggningsskärmen</span><span class="linkdiv-dash"> — </span><span class="desc">Lägg till ditt foto till inloggnings- och användarskärmarna.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html.sv" title="Ta bort ett användarkonto"><span class="title">Ta bort ett användarkonto</span><span class="linkdiv-dash"> — </span><span class="desc">Ta bort användare som inte längre använder din dator.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html.sv" title="Ändra ditt foto på inloggningsskärmen"><span class="title">Ändra ditt foto på inloggningsskärmen</span><span class="linkdiv-dash"> — </span><span class="desc">Lägg till ditt foto till inloggnings- och användarskärmarna.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="passwords" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Lösenord</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html" title="Välj ditt lösenord"><span class="title">Välj ditt lösenord</span><span class="linkdiv-dash"> — </span><span class="desc">Håll ditt konto säkert genom att ändra ditt lösenord ofta i dina kontoinställningar.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html" title="Välj ett säkert lösenord"><span class="title">Välj ett säkert lösenord</span><span class="linkdiv-dash"> — </span><span class="desc">Använd längre och mer komplicerade lösenord.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html.sv" title="Välj ditt lösenord"><span class="title">Välj ditt lösenord</span><span class="linkdiv-dash"> — </span><span class="desc">Håll ditt konto säkert genom att ändra ditt lösenord ofta i dina kontoinställningar.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html.sv" title="Välj ett säkert lösenord"><span class="title">Välj ett säkert lösenord</span><span class="linkdiv-dash"> — </span><span class="desc">Använd längre och mer komplicerade lösenord.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="privileges" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Användarbehörigheter</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html" title="Hur fungerar administratörsbehörighet?"><span class="title">Hur fungerar administratörsbehörighet?</span><span class="linkdiv-dash"> — </span><span class="desc">Du behöver administratörsbehörighet för att ändra viktiga delar i ditt system.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html" title="Problem som orsakas av administratörsbegränsningar"><span class="title">Problem som orsakas av administratörsbegränsningar</span><span class="linkdiv-dash"> — </span><span class="desc">Vissa saker, som att installera program, kan du endast göra om du har administratörsbehörighet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.sv" title="Hur fungerar administratörsbehörighet?"><span class="title">Hur fungerar administratörsbehörighet?</span><span class="linkdiv-dash"> — </span><span class="desc">Du behöver administratörsbehörighet för att ändra viktiga delar i ditt system.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.sv" title="Problem som orsakas av administratörsbegränsningar"><span class="title">Problem som orsakas av administratörsbegränsningar</span><span class="linkdiv-dash"> — </span><span class="desc">Vissa saker, som att installera program, kan du endast göra om du har administratörsbehörighet.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-change.html" title="Ändra vem som har administratörsbehörighet"><span class="title">Ändra vem som har administratörsbehörighet</span><span class="linkdiv-dash"> — </span><span class="desc">Du kan tillåta användare att göra ändringar för systemet genom att ge dem administratörsbehörighet.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.sv" title="Ändra vem som har administratörsbehörighet"><span class="title">Ändra vem som har administratörsbehörighet</span><span class="linkdiv-dash"> — </span><span class="desc">Du kan tillåta användare att göra ändringar för systemet genom att ge dem administratörsbehörighet.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -84,7 +84,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html" title="Användarkonton">användarkonton</a></span>…</span>
+<a href="prefs.html.sv" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html.sv" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html.sv" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html.sv" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html.sv" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html.sv" title="Användarkonton">användarkonton</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

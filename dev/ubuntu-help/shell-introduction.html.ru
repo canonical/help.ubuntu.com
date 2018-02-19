@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Введение в GNOME</span></h1></div>
@@ -51,14 +51,14 @@
 <div class="contents">
 <p class="p">GNOME 3 предоставляет полностью переработанный интерфейс пользователя, созданный для обеспечения удобной рабочей среды, позволяющей пользователям сосредоточиться на выполнении своей работы. При первом входе в систему вы увидите пустой рабочий стол и панель в верхней части экрана.</p>
 <div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="Верхняя панель GNOME Shell"></div></div>
-<p class="p">Верхняя панель предоставляет доступ к окнам, приложениям, календарю с событиями, а также <span class="link"><a href="status-icons.html" title="Что означают значки в верхней панели?">параметрам системы</a></span> (звук, сеть, электропитание и т. д.). В меню верхней панели с именем пользователя вы можете управлять громкостью звука, яркостью монитора, изменять параметры сетевого соединения, проверять уровень заряда батареи аккумулятора, а также завершить сеанс, переключить пользователя или выключить компьютер.</p>
+<p class="p">Верхняя панель предоставляет доступ к окнам, приложениям, календарю с событиями, а также <span class="link"><a href="status-icons.html.ru" title="Что означают значки в верхней панели?">параметрам системы</a></span> (звук, сеть, электропитание и т. д.). В меню верхней панели с именем пользователя вы можете управлять громкостью звука, яркостью монитора, изменять параметры сетевого соединения, проверять уровень заряда батареи аккумулятора, а также завершить сеанс, переключить пользователя или выключить компьютер.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="shell-introduction.html#activities" title="Режим обзора">Режим <span class="gui">обзора</span></a></li>
-<li class="links "><a href="shell-introduction.html#appmenu" title="Меню приложения">Меню приложения</a></li>
-<li class="links "><a href="shell-introduction.html#clock" title="Часы, календарь и события">Часы, календарь и события</a></li>
-<li class="links "><a href="shell-introduction.html#yourname" title="Вы и ваш компьютер">Вы и ваш компьютер</a></li>
-<li class="links "><a href="shell-introduction.html#lockscreen" title="Блокирование экрана">Блокирование экрана</a></li>
-<li class="links "><a href="shell-introduction.html#window-list" title="Список окон">Список окон</a></li>
+<li class="links "><a href="shell-introduction.html.ru#activities" title="Режим обзора">Режим <span class="gui">обзора</span></a></li>
+<li class="links "><a href="shell-introduction.html.ru#appmenu" title="Меню приложения">Меню приложения</a></li>
+<li class="links "><a href="shell-introduction.html.ru#clock" title="Часы, календарь и события">Часы, календарь и события</a></li>
+<li class="links "><a href="shell-introduction.html.ru#yourname" title="Вы и ваш компьютер">Вы и ваш компьютер</a></li>
+<li class="links "><a href="shell-introduction.html.ru#lockscreen" title="Блокирование экрана">Блокирование экрана</a></li>
+<li class="links "><a href="shell-introduction.html.ru#window-list" title="Список окон">Список окон</a></li>
 </ul></div></div></div>
 </div>
 <div id="activities" class="sect"><div class="inner">
@@ -68,7 +68,7 @@
 <p class="p">To access your windows and applications,
   click the <span class="gui">Activities</span> button, or just move your mouse pointer to
   the top-left hot corner. You can also press the
-  <span class="key"><a href="keyboard-key-super.html" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span> key on your keyboard. You can
+  <span class="key"><a href="keyboard-key-super.html.ru" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span> key on your keyboard. You can
   see your windows and applications in the overview. You can also just start
   typing to search your applications, files, folders, and the web.</p>
 <div class="media media-image floatstart if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-dash.png" height="300" class="media media-block" alt="Боковая панель"></div></div>
@@ -82,8 +82,8 @@
   the dash to make it a favorite. Your favorite applications stay in the dash
   even when they’re not running, so you can access them quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="Запуск приложений">Подробнее о запуске приложений.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="Окна и рабочие места">Подробнее об окнах и рабочих местах.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html.ru" title="Запуск приложений">Подробнее о запуске приложений.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows.html.ru" title="Окна и рабочие места">Подробнее об окнах и рабочих местах.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -100,8 +100,8 @@
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appts.png" width="250" class="media media-block" alt="Часы, календарь, события и уведомления"></div></div>
 <p class="p">Чтобы открыть месячный календарь со списком предстоящих событий и уведомлений, нажмите на часы в центре верхней панели. Календарь также можно открыть сочетанием клавиш <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span>. Через появившееся меню можно получить доступ к параметрам даты и времени, а также открыть полнофункциональный календарь <span class="app">Evolution</span>.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html" title="События календаря">Подробнее о календаре и событиях.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-notifications.html" title="Панель для уведомлений и сообщений">Подробнее о панели уведомлений и сообщений.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html.ru" title="События календаря">Подробнее о календаре и событиях.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-notifications.html.ru" title="Панель для уведомлений и сообщений">Подробнее о панели уведомлений и сообщений.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -117,7 +117,7 @@
   that supports vertical or horizontal rotation, you can quickly rotate the 
   screen from the system menu. If your screen does not support rotation, 
   you will not see the button.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html" title="Завершение сеанса, выключение компьютера или переключение пользователей">Подробнее о смене пользователей, завершении сеанса и выключении компьютера.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html.ru" title="Завершение сеанса, выключение компьютера или переключение пользователей">Подробнее о смене пользователей, завершении сеанса и выключении компьютера.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div id="lockscreen" class="sect"><div class="inner">
@@ -129,14 +129,14 @@
   computer, the lock screen displays the date and time. It also shows
   information about your battery and network status, and allows you to control
   media playback.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html" title="Экран блокировки">Узнать больше об экране блокировки.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html.ru" title="Экран блокировки">Узнать больше об экране блокировки.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div id="window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Список окон</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">GNOME представляет другой подход к переключению окон, отличный от постоянно видимого списка окон в других графических средах, и позволяет полностью сосредоточиться на текущих задачах.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Переключение между окнами">Подробнее о переключении окон.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html.ru" title="Переключение между окнами">Подробнее о переключении окон.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -145,14 +145,14 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html" title="Your desktop">Your desktop</a><span class="desc"> — 
-      <span class="link"><a href="clock-calendar.html" title="События календаря">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="Панель для уведомлений и сообщений">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="Полезные комбинации клавиш">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="Окна и рабочие места">windows and workspaces</a></span>…
+<a href="shell-overview.html.ru" title="Your desktop">Your desktop</a><span class="desc"> — 
+      <span class="link"><a href="clock-calendar.html.ru" title="События календаря">Calendar</a></span>,
+      <span class="link"><a href="shell-notifications.html.ru" title="Панель для уведомлений и сообщений">notifications</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.ru" title="Полезные комбинации клавиш">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-windows.html.ru" title="Окна и рабочие места">windows and workspaces</a></span>…
     </span>
 </li>
-<li class="links "><a href="index.html" title="Руководство пользователя Ubuntu">Руководство пользователя Ubuntu</a></li>
+<li class="links "><a href="index.html.ru" title="Руководство пользователя Ubuntu">Руководство пользователя Ubuntu</a></li>
 </ul></div>
 </div></div></div>
 </div>

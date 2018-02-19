@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="media.html#sound" title="Son básico">Son</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="media.html.gl-GL#sound" title="Son básico">Son</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Usan un micrófono diferente</span></h1></div>
@@ -60,7 +60,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Seleccione un dispositivo de entrada de son diferente</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Sound</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Input</span> tab, select the device that you want to use.
@@ -76,13 +76,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="Son básico">Son básico</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Cambiar o volume do sistema">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Usar uns altofalantes ou cascos distintos">altofalantes e auriculares</a></span>, <span class="link"><a href="sound-usemic.html" title="Usan un micrófono diferente">micrófonos</a></span>…</span>
+<a href="media.html.gl-GL#sound" title="Son básico">Son básico</a><span class="desc"> — <span class="link"><a href="sound-volume.html.gl-GL" title="Cambiar o volume do sistema">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html.gl-GL" title="Usar uns altofalantes ou cascos distintos">altofalantes e auriculares</a></span>, <span class="link"><a href="sound-usemic.html.gl-GL" title="Usan un micrófono diferente">micrófonos</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-usespeakers.html" title="Usar uns altofalantes ou cascos distintos">Usar uns altofalantes ou cascos distintos</a><span class="desc"> — Conecte os altofalantes ou auriculares e seleccione o dispositivo de saída de son predeterminado.</span>
+<a href="sound-usespeakers.html.gl-GL" title="Usar uns altofalantes ou cascos distintos">Usar uns altofalantes ou cascos distintos</a><span class="desc"> — Conecte os altofalantes ou auriculares e seleccione o dispositivo de saída de son predeterminado.</span>
 </li></ul></div>
 </div></div>
 </div>

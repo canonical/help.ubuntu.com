@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html#problems" title="Типичные проблемы">Неполадки</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Проблемы с экраном</span></h1></div>
@@ -51,21 +51,21 @@
 <div class="contents">
 <p class="p">Большинство проблем с экраном связано с драйверами графических карт или настройками экрана. Какая из перечисленных ниже тем наиболее точно соответствует вашей неисправности?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html" title="Set screen brightness"><span class="title">Set screen brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.ru" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.ru" title="Set screen brightness"><span class="title">Set screen brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
     light.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html" title="Почему изображение на экране выглядит расплывчатым или мозаичным?"><span class="title">Почему изображение на экране выглядит расплывчатым или мозаичным?</span><span class="linkdiv-dash"> — </span><span class="desc">Возможно, выбрано неправильное разрешение экрана.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="Почему мой компьютер не выходит из ждущего режима?"><span class="title">Почему мой компьютер не выходит из ждущего режима?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Почему мой экран через некоторое время гаснет?"><span class="title">Почему мой экран через некоторое время гаснет?</span><span class="linkdiv-dash"> — </span><span class="desc">В целях экономии энергии, во время простоя компьютера экран гаснет.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="Экран блокируется слишком быстро"><span class="title">Экран блокируется слишком быстро</span><span class="linkdiv-dash"> — </span><span class="desc">Измените время ожидания перед блокировкой экрана в настройках <span class="gui">Конфиденциальность</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="Компьютер не включается"><span class="title">Компьютер не включается</span><span class="linkdiv-dash"> — </span><span class="desc">Возможные причины — плохой контакт в разъёмах кабелей или аппаратные неполадки.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.ru" title="Почему изображение на экране выглядит расплывчатым или мозаичным?"><span class="title">Почему изображение на экране выглядит расплывчатым или мозаичным?</span><span class="linkdiv-dash"> — </span><span class="desc">Возможно, выбрано неправильное разрешение экрана.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.ru" title="Почему мой компьютер не выходит из ждущего режима?"><span class="title">Почему мой компьютер не выходит из ждущего режима?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.ru" title="Почему мой экран через некоторое время гаснет?"><span class="title">Почему мой экран через некоторое время гаснет?</span><span class="linkdiv-dash"> — </span><span class="desc">В целях экономии энергии, во время простоя компьютера экран гаснет.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.ru" title="Экран блокируется слишком быстро"><span class="title">Экран блокируется слишком быстро</span><span class="linkdiv-dash"> — </span><span class="desc">Измените время ожидания перед блокировкой экрана в настройках <span class="gui">Конфиденциальность</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.ru" title="Компьютер не включается"><span class="title">Компьютер не включается</span><span class="linkdiv-dash"> — </span><span class="desc">Возможные причины — плохой контакт в разъёмах кабелей или аппаратные неполадки.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Типичные проблемы">Неполадки оборудования</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки оборудования</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

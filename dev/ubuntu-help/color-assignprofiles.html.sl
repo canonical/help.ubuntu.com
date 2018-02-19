@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="color.html" title="Upravljanje barv">Upravljanje barv</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="color.html.sl" title="Upravljanje barv">Upravljanje barv</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="color.html" title="Upravljanje barv">Upravljanje barv</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="color.html.sl" title="Upravljanje barv">Upravljanje barv</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">You may want to assign a color profile for your screen or printer so that
   the colors which it shows are more accurate.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Color</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select the device for which you want to add a profile.</p></li>
@@ -74,20 +74,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html" title="Upravljanje barv">Upravljanje barv</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html" title="Zakaj je upravljanje z barvami pomembno?">Zakaj je to pomembno</a></span>, <span class="link"><a href="color.html#profiles" title="Barvni profili">Barvni profili</a></span>, <span class="link"><a href="color.html#calibration" title="Umerjanje">Kako umeriti napravo </a></span>…</span>
+<a href="color.html.sl" title="Upravljanje barv">Upravljanje barv</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.sl" title="Zakaj je upravljanje z barvami pomembno?">Zakaj je to pomembno</a></span>, <span class="link"><a href="color.html.sl#profiles" title="Barvni profili">Barvni profili</a></span>, <span class="link"><a href="color.html.sl#calibration" title="Umerjanje">Kako umeriti napravo </a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Kaj je barvni profil?">Kaj je barvni profil?</a><span class="desc"> — Barvni profil je enostavna datoteka, ki izrazi barvni prostor ali odziv naprave.</span>
+<a href="color-whatisprofile.html.sl" title="Kaj je barvni profil?">Kaj je barvni profil?</a><span class="desc"> — Barvni profil je enostavna datoteka, ki izrazi barvni prostor ali odziv naprave.</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html" title="Kako lahko uvozim barvne profile?">Kako lahko uvozim barvne profile?</a><span class="desc"> — Color profiles can be imported by opening them.</span>
+<a href="color-howtoimport.html.sl" title="Kako lahko uvozim barvne profile?">Kako lahko uvozim barvne profile?</a><span class="desc"> — Color profiles can be imported by opening them.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Zakaj moram sam izvesti umerjanje?">Zakaj moram sam izvesti umerjanje?</a><span class="desc"> — Umerjanje je pomembno, če vam ni vseeno kakšne barve prikazujete ali natisnete.</span>
+<a href="color-why-calibrate.html.sl" title="Zakaj moram sam izvesti umerjanje?">Zakaj moram sam izvesti umerjanje?</a><span class="desc"> — Umerjanje je pomembno, če vam ni vseeno kakšne barve prikazujete ali natisnete.</span>
 </li>
 </ul></div>
 </div></div>

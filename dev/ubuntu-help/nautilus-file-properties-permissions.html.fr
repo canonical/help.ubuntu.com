@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html#faq" title="Astuces et questions">Astuces et questions</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html.fr" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html.fr#faq" title="Astuces et questions">Astuces et questions</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Définition des permissions d'accès</span></h1></div>
@@ -68,7 +68,7 @@
     belong to.</p>
 <p class="p">You can also set the permissions for users other than the owner and
     those in the file’s group.</p>
-<p class="p">Si le fichier est un programme, comme par exemple un script, vous devez activer l'option <span class="gui">Autoriser l'exécution du fichier comme un programme</span> pour pouvoir le lancer. Mais même avec cette fonction activée, le gestionnaire de fichiers peut ouvrir le programme avec une application ou vous demander ce qu'il doit faire. Consultez <span class="link"><a href="nautilus-behavior.html#executable" title="Fichiers texte exécutables">Fichiers texte exécutables</a></span> pour plus de détails.</p>
+<p class="p">Si le fichier est un programme, comme par exemple un script, vous devez activer l'option <span class="gui">Autoriser l'exécution du fichier comme un programme</span> pour pouvoir le lancer. Mais même avec cette fonction activée, le gestionnaire de fichiers peut ouvrir le programme avec une application ou vous demander ce qu'il doit faire. Consultez <span class="link"><a href="nautilus-behavior.html.fr#executable" title="Fichiers texte exécutables">Fichiers texte exécutables</a></span> pour plus de détails.</p>
 </div></div>
 </div></div>
 <div id="folders" class="sect"><div class="inner">
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Astuces et questions">Astuces et questions</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.fr#faq" title="Astuces et questions">Astuces et questions</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-basic.html" title="Propriétés de fichier">Propriétés de fichier</a><span class="desc"> — Afficher des informations basiques sur le fichier, définir les permissions et sélectionner les applications par défaut.</span>
+<a href="nautilus-file-properties-basic.html.fr" title="Propriétés de fichier">Propriétés de fichier</a><span class="desc"> — Afficher des informations basiques sur le fichier, définir les permissions et sélectionner les applications par défaut.</span>
 </li></ul></div>
 </div></div>
 </div>

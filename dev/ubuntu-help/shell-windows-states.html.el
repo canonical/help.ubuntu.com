@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » <a class="trail" href="shell-windows.html" title="Παράθυρα και χώροι εργασίας">Παράθυρα και χώροι εργασίας</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Δουλεύοντας με παράθυρα">Παράθυρα</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.el" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html.el#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » <a class="trail" href="shell-windows.html.el" title="Παράθυρα και χώροι εργασίας">Παράθυρα και χώροι εργασίας</a> › <a class="trail" href="shell-windows.html.el#working-with-windows" title="Δουλεύοντας με παράθυρα">Παράθυρα</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Μετακίνηση και αυξομείωση παραθύρων</span></h1></div>
@@ -51,17 +51,17 @@
 <div class="contents">
 <p class="p">Μπορείτε να μετακινήσετε και να αυξομειώσετε τα παράθυρα για να δουλέψετε πιο αποτελεσματικά. Πέρα από την συμπεριφορά συρσίματος που μπορεί να περιμένετε, οι λειτουργίες συντομεύσεων και τροποποιητών του GNOME σας βοηθούν στην γρήγορη τακτοποίηση των παραθύρων.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Μετακινήστε ένα παράθυρο σύροντας τη γραμμή τίτλου, ή κρατώντας πατημένο το πλήκτρο <span class="key"><a href="keyboard-key-super.html" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span> και σύροντας το οπουδήποτε στο παράθυρο. Κρατήστε πατημένο το <span class="key"><kbd>Shift</kbd></span> ενώ μετακινείτε για να προσκολλήσετε το παράθυρο στις άκρες της οθόνης ή και σε άλλα παράθυρα.</p></li>
+<li class="list"><p class="p">Μετακινήστε ένα παράθυρο σύροντας τη γραμμή τίτλου, ή κρατώντας πατημένο το πλήκτρο <span class="key"><a href="keyboard-key-super.html.el" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span> και σύροντας το οπουδήποτε στο παράθυρο. Κρατήστε πατημένο το <span class="key"><kbd>Shift</kbd></span> ενώ μετακινείτε για να προσκολλήσετε το παράθυρο στις άκρες της οθόνης ή και σε άλλα παράθυρα.</p></li>
 <li class="list"><p class="p">Αυξομειώστε το μέγεθος ενός παραθύρου σύροντας τις άκρες ή τη γωνία του παραθύρου. Κρατήστε πατημένο το <span class="key"><kbd>Shift</kbd></span> ενώ αυξομειώνετε για να προσκολλήστε το παράθυρο στα άκρα της οθόνης και σε άλλα παράθυρα.</p></li>
 <li class="list"><p class="p">Μετακινήστε ή αυξομειώστε ένα παράθυρο χρησιμοποιώντας μόνο το πληκτρολόγιο. Πατήστε <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span> για να μετακινήσετε ένα παράθυρο ή το <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span> για να το αυξομειώσετε. Χρησιμοποιήστε τα πλήκτρα βελών για μετακίνηση ή αυξομείωση, έπειτα πατήστε <span class="key"><kbd>Enter</kbd></span> για ολοκλήρωση, ή πατήστε <span class="key"><kbd>Esc</kbd></span> για επιστροφή στην αρχική του θέση και μέγεθος.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Μεγιστοποίηση και απομεγιστοποίηση παραθύρου">Μεγιστοποιήστε ένα παράθυρο</a></span> σύροντας το στην κορυφή της οθόνης. Σύρετε ένα παράθυρο σε μια πλευρά της οθόνης για να το μεγιστοποιήσετε, επιτρέποντας σας να <span class="link"><a href="shell-windows-tiled.html" title="Παράθεση παραθύρων">παραθέσετε τα παράθυρα πλάι-πλάι</a></span>.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html.el" title="Μεγιστοποίηση και απομεγιστοποίηση παραθύρου">Μεγιστοποιήστε ένα παράθυρο</a></span> σύροντας το στην κορυφή της οθόνης. Σύρετε ένα παράθυρο σε μια πλευρά της οθόνης για να το μεγιστοποιήσετε, επιτρέποντας σας να <span class="link"><a href="shell-windows-tiled.html.el" title="Παράθεση παραθύρων">παραθέσετε τα παράθυρα πλάι-πλάι</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Δουλεύοντας με παράθυρα">Δουλεύοντας με παράθυρα</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.el#working-with-windows" title="Δουλεύοντας με παράθυρα">Δουλεύοντας με παράθυρα</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

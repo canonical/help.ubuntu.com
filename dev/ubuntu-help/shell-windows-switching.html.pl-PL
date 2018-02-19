@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Switch between windows</title>
+<title>Przełączanie między oknami</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -44,34 +44,34 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Pulpit</a> › <a class="trail" href="shell-overview.html#apps" title="Programy i okna">Programy i okna</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Pulpit</a> › <a class="trail" href="shell-overview.html#apps" title="Programy i okna">Programy i okna</a> » <a class="trail" href="shell-windows.html" title="Okna i obszary robocze">Okna i obszary robocze</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Working with windows">Okna</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » <a class="trail" href="shell-windows.html.pl-PL" title="Okna i obszary robocze">Okna i obszary robocze</a> › <a class="trail" href="shell-windows.html.pl-PL#working-with-windows" title="Praca z oknami">Okna</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Switch between windows</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Przełączanie między oknami</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can see all the running applications that have a graphical user
   interface in the <span class="em">window switcher</span>. This makes
   switching between tasks a single-step process and provides a full picture of
   which applications are running.</p>
-<p class="p">From a workspace:</p>
+<p class="p">Z obszaru roboczego:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Press
-      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
+      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
       to bring up the <span class="gui">window switcher</span>.</p></li>
-<li class="steps"><p class="p">Release <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> to select the next
+<li class="steps"><p class="p">Release <span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span> to select the next
       (highlighted) window in the switcher.</p></li>
-<li class="steps"><p class="p">Otherwise, still holding down the <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>
+<li class="steps"><p class="p">Otherwise, still holding down the <span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>
       Super</kbd></a></span> key, press <span class="key"><kbd>Tab</kbd></span> to cycle through the list of open
       windows, or <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to cycle
       backwards.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Windows in the window switcher are grouped by application. Previews of
     applications with multiple windows pop down as you click through. Hold down
-    <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> and press <span class="key"><kbd>`</kbd></span> (or the
+    <span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span> and press <span class="key"><kbd>`</kbd></span> (or the
     key above <span class="key"><kbd>Tab</kbd></span>) to step through the list.</p></div></div></div></div>
 <p class="p">You can also move between the application icons in the window
   switcher with the <span class="key"><kbd>→</kbd></span> or <span class="key"><kbd>←</kbd></span> keys, or
@@ -79,9 +79,9 @@
 <p class="p">Previews of applications with a single window can be displayed with
   the <span class="key"><kbd>↓</kbd></span> key.</p>
 <p class="p">From the <span class="gui">Activities</span> overview, click on a
-  <span class="link"><a href="shell-windows.html" title="Okna i obszary robocze">window</a></span> to switch to it and leave the
+  <span class="link"><a href="shell-windows.html.pl-PL" title="Okna i obszary robocze">window</a></span> to switch to it and leave the
   overview. If you have multiple
-  <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Working with workspaces">workspaces</a></span> open,
+  <span class="link"><a href="shell-windows.html.pl-PL#working-with-workspaces" title="Używanie obszarów roboczych">workspaces</a></span> open,
   you can click on each workspace to view the open windows on each
   workspace.</p>
 </div>
@@ -91,15 +91,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-overview.html#apps" title="Programy i okna">Programy i okna</a></li>
-<li class="links "><a href="shell-windows.html#working-with-windows" title="Working with windows">Working with windows</a></li>
+<li class="links "><a href="shell-windows.html.pl-PL#working-with-windows" title="Praca z oknami">Praca z oknami</a></li>
+<li class="links "><a href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-switch-tasks.html" title="Przełączanie między zadaniami">Samouczek przełączania między zadaniami</a></li>
-<li class="links "><a href="gs-use-windows-workspaces.html" title="Używanie okien i obszarów roboczych">Samouczek używania okien i obszarów roboczych</a></li>
+<li class="links "><a href="gs-switch-tasks.html.pl-PL" title="Przełączanie między zadaniami">Samouczek przełączania między zadaniami</a></li>
+<li class="links "><a href="gs-use-windows-workspaces.html.pl-PL" title="Używanie okien i obszarów roboczych">Samouczek używania okien i obszarów roboczych</a></li>
 </ul></div>
 </div></div>
 </div>

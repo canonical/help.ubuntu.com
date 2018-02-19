@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wireless.html" title="Bezdrátové sítě">Bezdrátové sítě</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové sítě</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Připojení ke skryté bezdrátové síti</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Bezdrátovou síť je možné nastavit tak, aby byla „skrytá“. Skrytá bezdrátová síť se nezobrazuje v seznamu bezdrátových sítí zobrazených v nastavení <span class="gui">Síť</span>. Takže, když se k takové síti chcete připojit:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete <span class="gui"><a href="shell-introduction.html#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> vpravo na horní liště.</p></li>
+<li class="steps"><p class="p">Otevřete <span class="gui"><a href="shell-introduction.html.cs#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> vpravo na horní liště.</p></li>
 <li class="steps"><p class="p">Vyberte <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>Wi-Fi   Nepřipojeno</span>. Oddíl Wi-Fi v nabídce se rozbalí.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Nastavení Wi-Fi</span>.</p></li>
 <li class="steps"><p class="p">Klikněte na tlačítko <span class="gui">Připojit se ke skryté síti…</span></p></li>
@@ -70,13 +70,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Bezdrátové sítě">Bezdrátové sítě</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Připojení k bezdrátové síti">Připojení k Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Připojení ke skryté bezdrátové síti">Skryté sítě</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Proč se moje síť pořád odpojuje?">Odpojování</a></span>…</span>
+<a href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové sítě</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.cs" title="Připojení k bezdrátové síti">Připojení k Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.cs" title="Připojení ke skryté bezdrátové síti">Skryté sítě</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.cs" title="Proč se moje síť pořád odpojuje?">Odpojování</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-find.html" title="Nevidím svoji bezdrátovou síť v seznamu">Nevidím svoji bezdrátovou síť v seznamu</a><span class="desc"> — Bezdrátová síť může být vypnutá nebo poškozená a nebo se pokoušíte připojit ke skryté síti.</span>
+<a href="net-wireless-find.html.cs" title="Nevidím svoji bezdrátovou síť v seznamu">Nevidím svoji bezdrátovou síť v seznamu</a><span class="desc"> — Bezdrátová síť může být vypnutá nebo poškozená a nebo se pokoušíte připojit ke skryté síti.</span>
 </li></ul></div>
 </div></div>
 </div>

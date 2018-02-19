@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Ήχος, βίντεο &amp; εικόνες">Ήχος, βίντεο &amp; εικόνες</a> › <a class="trail" href="media.html#videos" title="Βίντεο και βιντεοκάμερες">Βίντεο</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.el" title="Ήχος, βίντεο &amp; εικόνες">Ήχος, βίντεο &amp; εικόνες</a> › <a class="trail" href="media.html.el#videos" title="Βίντεο και βιντεοκάμερες">Βίντεο</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Why won’t DVDs play?</span></h1></div>
@@ -82,12 +82,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Βίντεο και βιντεοκάμερες">Βίντεο</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.el#videos" title="Βίντεο και βιντεοκάμερες">Βίντεο</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="video-dvd-restricted.html" title="Πώς ενεργοποιώ ιδιοταγείς κωδικοποιητές για την αναπαραγωγή DVD;">Πώς ενεργοποιώ ιδιοταγείς κωδικοποιητές για την αναπαραγωγή DVD;</a><span class="desc"> — Οι περισσότεροι εμπορικοί δίσκοι DVD είναι κρυπτογραφημένοι και δεν θα αναπαραχθούν χωρίς λογισμικό αποκρυπτογράφησης.</span>
+<a href="video-dvd-restricted.html.el" title="Πώς ενεργοποιώ ιδιοταγείς κωδικοποιητές για την αναπαραγωγή DVD;">Πώς ενεργοποιώ ιδιοταγείς κωδικοποιητές για την αναπαραγωγή DVD;</a><span class="desc"> — Οι περισσότεροι εμπορικοί δίσκοι DVD είναι κρυπτογραφημένοι και δεν θα αναπαραχθούν χωρίς λογισμικό αποκρυπτογράφησης.</span>
 </li></ul></div>
 </div></div>
 </div>

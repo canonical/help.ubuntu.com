@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Uw computer met een Bluetooth-apparaat verbinden</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">Voordat u een Bluetooth-apparaat zoals een muis of headset kunt gebruiken, dient u de computer eerst met het apparaat te verbinden. Dit staat ook bekend als het <span class="em">pairen</span> van Bluetooth-apparaten.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Klik op het <span class="gui">Bluetooth</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Zorg ervoor dat Bluetooth ingeschakeld is: de schakelaar aan de bovenkant moet <span class="gui">AAN</span> staan. Met het paneel geopend en de schakelaar op <span class="gui">AAN</span>, za; uw computer gaan zoeken naar apparaten.</p></li>
-<li class="steps"><p class="p">Zorg ervoor dat het andere Bluetooth-apparaat <span class="link"><a href="bluetooth-visibility.html" title="Wat is Bluetooth-zichtbaarheid?">gevonden kan worden of zichtbaar is</a></span> en plaats het binnen 5-10 meter van uw computer.</p></li>
+<li class="steps"><p class="p">Zorg ervoor dat het andere Bluetooth-apparaat <span class="link"><a href="bluetooth-visibility.html.nl" title="Wat is Bluetooth-zichtbaarheid?">gevonden kan worden of zichtbaar is</a></span> en plaats het binnen 5-10 meter van uw computer.</p></li>
 <li class="steps"><p class="p">Klik op het apparaat in de <span class="gui">Apparaten</span>-lijst. Het paneel voor het apparaat zal openen.</p></li>
 <li class="steps">
 <p class="p">Bevestig, als er om gevraagd wordt, de PIN op het andere apparaat. Het apparaat moet u de PIN tonen die u op uw computerscherm ziet. Bevestig de PIN op het apparaat (wellicht moet u op <span class="gui">Koppelen</span> of <span class="gui">Bevestigen</span> drukken) en klik daarna op <span class="gui">Bevestigen</span> op de computer.</p>
@@ -73,17 +73,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Uw computer met een Bluetooth-apparaat verbinden">Verbinden</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Bestanden sturen naar een Bluetooth-apparaat">bestanden overbrengen</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth in- of uitschakelen">aan- en uitzetten</a></span>...</span>
+<a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.nl" title="Uw computer met een Bluetooth-apparaat verbinden">Verbinden</a></span>, <span class="link"><a href="bluetooth-send-file.html.nl" title="Bestanden sturen naar een Bluetooth-apparaat">bestanden overbrengen</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.nl" title="Bluetooth in- of uitschakelen">aan- en uitzetten</a></span>...</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing-bluetooth.html" title="Delen van besturing via Bluetooth">Delen van besturing via Bluetooth</a><span class="desc"> — Allow files to be uploaded to your computer over Bluetooth.</span>
+<a href="sharing-bluetooth.html.nl" title="Delen van besturing via Bluetooth">Delen van besturing via Bluetooth</a><span class="desc"> — Allow files to be uploaded to your computer over Bluetooth.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-remove-connection.html" title="Verbinding met een Bluetooth-apparaat verbreken">Verbinding met een Bluetooth-apparaat verbreken</a><span class="desc"> — Een apparaat uit de lijst met Bluetooth-apparaten verwijderen.</span>
+<a href="bluetooth-remove-connection.html.nl" title="Verbinding met een Bluetooth-apparaat verbreken">Verbinding met een Bluetooth-apparaat verbreken</a><span class="desc"> — Een apparaat uit de lijst met Bluetooth-apparaten verwijderen.</span>
 </li>
 </ul></div>
 </div></div>

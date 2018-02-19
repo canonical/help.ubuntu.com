@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Werken met vensters">Vensters</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-windows" title="Werken met vensters">Vensters</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een venster maximaliseren en weer herstellen</span></h1></div>
@@ -53,10 +53,10 @@
   and unmaximize a window to restore it to its normal size. You can also
   maximize windows vertically along the left and right sides of the screen,
   so you can easily look at two windows at once. See
-  <span class="link"><a href="shell-windows-tiled.html" title="Vensters tegelen">Vensters tegelen</a></span> for details.</p>
+  <span class="link"><a href="shell-windows-tiled.html.nl" title="Vensters tegelen">Vensters tegelen</a></span> for details.</p>
 <p class="p">To maximize a window, grab the titlebar and drag it to the top of the
   screen, or just double-click the titlebar. To maximize a window using the
-  keyboard, hold down the <span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span> key and
+  keyboard, hold down the <span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span> key and
   press <span class="key"><kbd>↑</kbd></span>, or press
   <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
 <p class="p">To restore a window to its unmaximized size, drag it away from the edges
@@ -71,12 +71,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Werken met vensters">Werken met vensters</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.nl#working-with-windows" title="Werken met vensters">Werken met vensters</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-tiled.html" title="Vensters tegelen">Vensters tegelen</a><span class="desc"> — Twee vensters naast elkaar maximaliseren.</span>
+<a href="shell-windows-tiled.html.nl" title="Vensters tegelen">Vensters tegelen</a><span class="desc"> — Twee vensters naast elkaar maximaliseren.</span>
 </li></ul></div>
 </div></div>
 </div>

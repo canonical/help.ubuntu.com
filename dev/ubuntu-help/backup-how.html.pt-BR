@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html#backup" title="Cópia de segurança">Cópia de segurança</a> » <a class="trail" href="backup-why.html" title="Fazendo cópias de segurança dos seus arquivos importantes">Cópias de segurança</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#backup" title="Cópia de segurança">Cópia de segurança</a> » <a class="trail" href="backup-why.html.pt-BR" title="Fazendo cópias de segurança dos seus arquivos importantes">Cópias de segurança</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Como fazer cópia de segurança</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">A forma mais fácil de fazer uma cópia de segurança dos seus arquivos e das suas configurações é deixar um aplicativo especializado gerenciar esse processo para você. Há uma boa diversidade de aplicativos de cópias de segurança disponíveis; por exemplo, o <span class="app">Déjà Dup</span>.</p>
 <p class="p">A ajuda do seu aplicativo escolhido irá guiá-lo sobre como configurar suas preferências para as cópias, e também como restaurar seus dados.</p>
-<p class="p">Uma opção alternativa é <span class="link"><a href="files-copy.html" title="Copiando ou movendo arquivos e pastas">copiar seus arquivos</a></span> para um local seguro, como um disco rígido externo, outro computador da rede ou um dispositivo USB. Seus <span class="link"><a href="backup-thinkabout.html" title="Onde posso achar os arquivos que quero fazer cópia de segurança?">arquivos pessoais</a></span> e suas configurações normalmente ficam na pasta pessoal, então você pode copiá-los de lá.</p>
+<p class="p">Uma opção alternativa é <span class="link"><a href="files-copy.html.pt-BR" title="Copiando ou movendo arquivos e pastas">copiar seus arquivos</a></span> para um local seguro, como um disco rígido externo, outro computador da rede ou um dispositivo USB. Seus <span class="link"><a href="backup-thinkabout.html.pt-BR" title="Onde posso achar os arquivos que quero fazer cópia de segurança?">arquivos pessoais</a></span> e suas configurações normalmente ficam na pasta pessoal, então você pode copiá-los de lá.</p>
 <p class="p">A quantidade de dados que você pode fazer cópia de segurança é limitada ao tamanho do dispositivo de armazenamento. Se você tiver espaço no seu dispositivo de segurança, é melhor fazer a cópia de toda a pasta pessoal, com as seguintes exceções:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Arquivos que já possuem cópias de segurança em outro lugar, como em um CD, DVD ou outra mídia removível.</p></li>
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Fazendo cópias de segurança dos seus arquivos importantes">Fazendo cópias de segurança dos seus arquivos importantes</a><span class="desc"> — Por que, do que, onde e como fazer cópias de segurança.</span>
+<a href="backup-why.html.pt-BR" title="Fazendo cópias de segurança dos seus arquivos importantes">Fazendo cópias de segurança dos seus arquivos importantes</a><span class="desc"> — Por que, do que, onde e como fazer cópias de segurança.</span>
 </li></ul></div>
 </div></div></div>
 </div>

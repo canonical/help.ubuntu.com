@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Dźwięk, obraz i zdjęcia">Dźwięk, obraz i zdjęcia</a> › <a class="trail" href="media.html#videos" title="Filmy i kamery">Filmy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.pl-PL" title="Dźwięk, filmy i zdjęcia">Dźwięk, filmy i zdjęcia</a> › <a class="trail" href="media.html.pl-PL#videos" title="Filmy i kamery">Filmy</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Dźwięk, obraz i zdjęcia">Dźwięk, obraz i zdjęcia</a> › <a class="trail" href="media.html#music" title="Muzyka i przenośne odtwarzacze">Muzyka i odtwarzacze</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.pl-PL" title="Dźwięk, filmy i zdjęcia">Dźwięk, filmy i zdjęcia</a> › <a class="trail" href="media.html.pl-PL#music" title="Muzyka i przenośne odtwarzacze">Muzyka i odtwarzacze</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#removable" title="Removable drives and external disks">Removable drives and external disks</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#removable" title="Nośniki wymienne i dyski zewnętrzne">Nośniki wymienne i dyski zewnętrzne</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Dźwięk, obraz i zdjęcia">Dźwięk, obraz i zdjęcia</a> › <a class="trail" href="media.html#photos" title="Zdjęcia i aparaty">Zdjęcia</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.pl-PL" title="Dźwięk, filmy i zdjęcia">Dźwięk, filmy i zdjęcia</a> › <a class="trail" href="media.html.pl-PL#photos" title="Zdjęcia i aparaty">Zdjęcia</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -64,10 +64,9 @@
 <p class="p">To decide which applications should start when you plug in various
   devices: </p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-    start typing <span class="gui">Details</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Removable Media</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Informacje</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Informacje</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Nośniki wymienne</span>.</p></li>
 <li class="steps">
 <p class="p">Find your desired device or media type, and then choose an application
     or action for that media type. See below for a description of the different
@@ -100,13 +99,13 @@
 <dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
     <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
     video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
+    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html.pl-PL" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
     </p></dd>
 <dt class="terms">Blank discs</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing
     application for blank CDs, blank DVDs, blank Blu-ray discs, and blank HD
     DVDs.</p></dd>
-<dt class="terms">Cameras and photos</dt>
+<dt class="terms">Aparaty i zdjęcia</dt>
 <dd class="terms">
 <p class="p">Use the <span class="gui">Photos</span> drop-down to choose a photo-management
     application to run when you plug in your digital camera, or when you insert
@@ -117,10 +116,10 @@
     regular data CDs with JPEG images in a folder called
     <span class="file">Pictures</span>.</p>
 </dd>
-<dt class="terms">Music players</dt>
+<dt class="terms">Odtwarzacze muzyki</dt>
 <dd class="terms"><p class="p">Choose an application to manage the music library on your portable music
     player, or manage the files yourself using the file manager.</p></dd>
-<dt class="terms">E-book readers</dt>
+<dt class="terms">Czytniki e-booków</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to choose an application to
       manage the books on your e-book reader, or manage the files yourself
       using the file manager.</p></dd>
@@ -140,10 +139,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#videos" title="Filmy i kamery">Filmy</a></li>
-<li class="links "><a href="media.html#music" title="Muzyka i przenośne odtwarzacze">Muzyka i odtwarzacze</a></li>
-<li class="links "><a href="files.html#removable" title="Removable drives and external disks">Removable drives and external disks</a></li>
-<li class="links "><a href="media.html#photos" title="Zdjęcia i aparaty">Zdjęcia</a></li>
+<li class="links "><a href="media.html.pl-PL#videos" title="Filmy i kamery">Filmy</a></li>
+<li class="links "><a href="media.html.pl-PL#music" title="Muzyka i przenośne odtwarzacze">Muzyka i odtwarzacze</a></li>
+<li class="links "><a href="files.html.pl-PL#removable" title="Nośniki wymienne i dyski zewnętrzne">Nośniki wymienne i dyski zewnętrzne</a></li>
+<li class="links "><a href="media.html.pl-PL#photos" title="Zdjęcia i aparaty">Zdjęcia</a></li>
 </ul></div>
 </div></div></div>
 </div>

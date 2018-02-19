@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-wireless.html" title="Conexões sem fios">Conexões sem fios</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-wireless.html.pt" title="Conexões sem fios">Conexões sem fios</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ligar com uma rede sem fios</span></h1></div>
@@ -51,15 +51,15 @@
 <div class="contents">
 <p class="p">Se tem uma computador com um cartão sem fios que funcione pode ligar a uma rede sem fios proxima para obter acesso a Internet, ver ficheiros partilhados na rede e demais.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o <span class="gui"><a href="shell-introduction.html#yourname" title="Você e o seu computador">menu do sistema</a></span> em parte-a direita da barra superior.</p></li>
+<li class="steps"><p class="p">Abra o <span class="gui"><a href="shell-introduction.html.pt#yourname" title="Você e o seu computador">menu do sistema</a></span> em parte-a direita da barra superior.</p></li>
 <li class="steps"><p class="p">Selecione <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Inalámbrica não conetada</span>. A seção Inalámbrica do menu expandir-se-á.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Selecionar rede</span>.</p></li>
 <li class="steps">
 <p class="p">Carregue no nome da rede à que se quer ligar e carregue <span class="gui">Ligar</span>.</p>
-<p class="p">Se o nome da rede não está na lista, prove a carregar <span class="gui">Mais</span> para ver se a rede está mais abaixo na lista. Se segue sem vê-la, pode que esteja fosse do área de cobertura ou pode que a rede <span class="link"><a href="net-wireless-hidden.html" title="Ligar a uma rede sem fios oculta">esteja oculta</a></span>.</p>
+<p class="p">Se o nome da rede não está na lista, prove a carregar <span class="gui">Mais</span> para ver se a rede está mais abaixo na lista. Se segue sem vê-la, pode que esteja fosse do área de cobertura ou pode que a rede <span class="link"><a href="net-wireless-hidden.html.pt" title="Ligar a uma rede sem fios oculta">esteja oculta</a></span>.</p>
 </li>
 <li class="steps">
-<p class="p">Se a rede está protegida por uma palavra-passe (<span class="link"><a href="net-wireless-wepwpa.html" title="Que significam WEP e WPA?">chave de criptografado</a></span>), introduza a palavra-passe quando se lhe peça e carregue <span class="gui">Ligar</span>.</p>
+<p class="p">Se a rede está protegida por uma palavra-passe (<span class="link"><a href="net-wireless-wepwpa.html.pt" title="Que significam WEP e WPA?">chave de criptografado</a></span>), introduza a palavra-passe quando se lhe peça e carregue <span class="gui">Ligar</span>.</p>
 <p class="p">Se não conhece a chave, pode que esteja escrita na parte inferior do router sem fios ou da estação baseie, no manual de instruções, ou pode ter que perguntar à pessoa que administra a rede sem fios.</p>
 </li>
 <li class="steps"><p class="p">O ícone de rede mudará a sua aparência segundo a computador tente ligar à rede.</p></li>
@@ -70,7 +70,7 @@
   There are a number of things that could have caused this to happen. You could
   have entered the wrong password, the wireless signal could be too weak, or
   your computer’s wireless card might have a problem, for example. See
-  <span class="link"><a href="net-wireless-troubleshooting.html" title="Solucionador de problemas de rede sem fios">Solucionador de problemas de rede sem fios</a></span> for more help.</p>
+  <span class="link"><a href="net-wireless-troubleshooting.html.pt" title="Solucionador de problemas de rede sem fios">Solucionador de problemas de rede sem fios</a></span> for more help.</p>
 <p class="p">Uma conexão mais forte a uma rede sem fios não significa necessariamente que vá ter uma conexão a Internet mais rápida, ou que vá ter uma velocidade de descarga maior. A conexão sem fios liga o seu computador ao <span class="em">dispositivo que proporciona a conexão a Internet</span> (como um router ou um modem), mas as duas conexões são diferentes, e pelo tanto tem velocidades diferentes.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -79,17 +79,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Conexões sem fios">Conexões sem fios</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Ligar com uma rede sem fios">Ligar com uma rede sem fios</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Ligar a uma rede sem fios oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Por que minha rede sem fios permanece desligada?">desligar-se</a></span>…</span>
+<a href="net-wireless.html.pt" title="Conexões sem fios">Conexões sem fios</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pt" title="Ligar com uma rede sem fios">Ligar com uma rede sem fios</a></span>, <span class="link"><a href="net-wireless-hidden.html.pt" title="Ligar a uma rede sem fios oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pt" title="Por que minha rede sem fios permanece desligada?">desligar-se</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless-disconnecting.html" title="Por que minha rede sem fios permanece desligada?">Por que minha rede sem fios permanece desligada?</a><span class="desc"> — É possível que tenha pouco sinal, ou a rede poderia ser a que não lhe permite ligar corretamente.</span>
+<a href="net-wireless-disconnecting.html.pt" title="Por que minha rede sem fios permanece desligada?">Por que minha rede sem fios permanece desligada?</a><span class="desc"> — É possível que tenha pouco sinal, ou a rede poderia ser a que não lhe permite ligar corretamente.</span>
 </li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Solucionador de problemas de rede sem fios">Solucionador de problemas de rede sem fios</a><span class="desc"> — Identificar e arranjar problemas com conexões sem fios.</span>
+<a href="net-wireless-troubleshooting.html.pt" title="Solucionador de problemas de rede sem fios">Solucionador de problemas de rede sem fios</a><span class="desc"> — Identificar e arranjar problemas com conexões sem fios.</span>
 </li>
 </ul></div>
 </div></div>

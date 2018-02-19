@@ -44,21 +44,21 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Accesso universale">Accesso universale</a> › <a class="trail" href="a11y.html#mobility" title="Difficoltà motorie">Difficoltà motorie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.it" title="Accesso universale">Accesso universale</a> › <a class="trail" href="a11y.html.it#mobility" title="Difficoltà motorie">Difficoltà motorie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> » <a class="trail" href="keyboard.html" title="Tastiera">Tastiera</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> » <a class="trail" href="keyboard.html.it" title="Tastiera">Tastiera</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="keyboard.html" title="Tastiera">Tastiera</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="keyboard.html.it" title="Tastiera">Tastiera</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Attivare i tasti singoli</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">I <span class="em">Tasti singoli</span> consentono di digitare le scorciatoie da tastiera un tasto alla volta. Per esempio, senza questa funzionalità, la scorciatoia per passare da una finestra all'altra <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> deve essere eseguita premendo tutti i tasti assieme. Attraverso i tasti singoli è possibile premere e rilasciare prima <span class="key"><kbd>Super</kbd></span> e successivamente <span class="key"><kbd>Tab</kbd></span>.</p>
+<p class="p">I <span class="em">Tasti singoli</span> consentono di digitare le scorciatoie da tastiera un tasto alla volta. Per esempio, senza questa funzionalità, la scorciatoia per passare da una finestra all'altra <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.it" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> deve essere eseguita premendo tutti i tasti assieme. Attraverso i tasti singoli è possibile premere e rilasciare prima <span class="key"><kbd>Super</kbd></span> e successivamente <span class="key"><kbd>Tab</kbd></span>.</p>
 <p class="p">Questa funzionalità può risultare utile nel caso si riscontrino problemi nel premere più tasti in una sola volta.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Typing Assist (AccessX)</span> in the <span class="gui">Typing</span>
@@ -73,7 +73,7 @@
     to turn sticky keys on and off from the keyboard. When this option is
     selected, you can press <span class="key"><kbd>Shift</kbd></span> five times in a row to enable or
     disable sticky keys.</p>
-<p class="p">È possibile attivare e disattivare i tasti lenti facendo clic sulla <span class="link"><a href="a11y-icon.html" title="Trovare il menù accesso universale">icona accesso universale</a></span> nella barra superiore e selezionando <span class="gui">Tasti singoli</span>. L'icona di accesso universale è visibile quando una o più impostazione sono state attivate dal pannello <span class="gui">Accesso universale</span>.</p>
+<p class="p">È possibile attivare e disattivare i tasti lenti facendo clic sulla <span class="link"><a href="a11y-icon.html.it" title="Trovare il menù accesso universale">icona accesso universale</a></span> nella barra superiore e selezionando <span class="gui">Tasti singoli</span>. L'icona di accesso universale è visibile quando una o più impostazione sono state attivate dal pannello <span class="gui">Accesso universale</span>.</p>
 </div></div>
 </div></div>
 <p class="p">Se vengono premuti due tasti assieme, è possibile disattivare momentaneamente i tasti singoli per poter digitare le scorciatoie da tastiera nella maniera "standard".</p>
@@ -90,12 +90,12 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Difficoltà motorie">Difficoltà motorie</a></li>
+<li class="links "><a href="a11y.html.it#mobility" title="Difficoltà motorie">Difficoltà motorie</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Tastiera">Tastiera</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html" title="Usare disposizioni di tastiera alternative">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html" title="Rendere il cursore intermittente">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html#mobility" title="Difficoltà motorie">keyboard accessibility</a></span>…
+<a href="keyboard.html.it" title="Tastiera">Tastiera</a><span class="desc"> — 
+      <span class="link"><a href="keyboard-layouts.html.it" title="Usare disposizioni di tastiera alternative">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.it" title="Rendere il cursore intermittente">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html.it#mobility" title="Difficoltà motorie">keyboard accessibility</a></span>…
     </span>
 </li>
 </ul></div>

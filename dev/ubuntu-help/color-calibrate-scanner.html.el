@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="color.html" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html#calibration" title="Βαθμονόμηση">Βαθμονόμηση</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html.el#calibration" title="Βαθμονόμηση">Βαθμονόμηση</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="color.html" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html#calibration" title="Βαθμονόμηση">Βαθμονόμηση</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html.el#calibration" title="Βαθμονόμηση">Βαθμονόμηση</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Βεβαιωθείτε ότι ο σαρωτής σας είναι συνδεδεμένος με τον υπολογιστή σας με ένα καλώδιο ή μέσω δικτύου.</p></li>
 <li class="steps"><p class="p">Σαρώστε τον προορισμό βαθμονόμησης και αποθηκεύστε τον ως ασυμπίεστο αρχείο TIFF.</p></li>
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Χρώμα</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Χρώμα</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Χρώμα</span> για να ανοίξετε τον πίνακα και να επιλέξετε τον σαρωτή σας.</p></li>
 <li class="steps"><p class="p">Πατήστε <span class="gui">Βαθμονόμηση…</span> για να ξεκινήσετε τη βαθμονόμηση.</p></li>
 </ol></div></div></div>
@@ -68,22 +68,22 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Βαθμονόμηση">Βαθμονόμηση</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.el#calibration" title="Βαθμονόμηση">Βαθμονόμηση</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrationtargets.html" title="Ποιοι τύποι προορισμού υποστηρίζονται;">Ποιοι τύποι προορισμού υποστηρίζονται;</a><span class="desc"> — Προορισμοί βαθμονόμησης απαιτούνται για τη δημιουργία προφίλ σαρωτή και κάμερας.</span>
+<a href="color-calibrationtargets.html.el" title="Ποιοι τύποι προορισμού υποστηρίζονται;">Ποιοι τύποι προορισμού υποστηρίζονται;</a><span class="desc"> — Προορισμοί βαθμονόμησης απαιτούνται για τη δημιουργία προφίλ σαρωτή και κάμερας.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-camera.html" title="Πως βαθμονομώ την κάμερα μου;">Πως βαθμονομώ την κάμερα μου;</a><span class="desc"> — Η βαθμονόμηση της κάμερας σας είναι σημαντική για τη λήψη των ακριβών χρωμάτων.</span>
+<a href="color-calibrate-camera.html.el" title="Πως βαθμονομώ την κάμερα μου;">Πως βαθμονομώ την κάμερα μου;</a><span class="desc"> — Η βαθμονόμηση της κάμερας σας είναι σημαντική για τη λήψη των ακριβών χρωμάτων.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-screen.html" title="Πως βαθμονομώ την οθόνη μου;">Πως βαθμονομώ την οθόνη μου;</a><span class="desc"> — Η βαθμονόμηση της οθόνη σας είναι σημαντική για τη προβολή πιστών χρωμάτων.</span>
+<a href="color-calibrate-screen.html.el" title="Πως βαθμονομώ την οθόνη μου;">Πως βαθμονομώ την οθόνη μου;</a><span class="desc"> — Η βαθμονόμηση της οθόνη σας είναι σημαντική για τη προβολή πιστών χρωμάτων.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html" title="Πως βαθμονομώ τον εκτυπωτή μου;">Πως βαθμονομώ τον εκτυπωτή μου;</a><span class="desc"> — Η βαθμονόμηση του εκτυπωτή σας είναι σημαντική για τη εκτύπωση πιστών χρωμάτων.</span>
+<a href="color-calibrate-printer.html.el" title="Πως βαθμονομώ τον εκτυπωτή μου;">Πως βαθμονομώ τον εκτυπωτή μου;</a><span class="desc"> — Η βαθμονόμηση του εκτυπωτή σας είναι σημαντική για τη εκτύπωση πιστών χρωμάτων.</span>
 </li>
 </ul></div>
 </div></div>

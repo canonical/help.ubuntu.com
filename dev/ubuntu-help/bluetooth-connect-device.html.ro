@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="bluetooth.html.ro" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Connect your computer to a Bluetooth device</span></h1></div>
@@ -53,14 +53,14 @@
   need to connect your computer to the device. This is also called
   <span class="em">pairing</span> the Bluetooth devices.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Make sure Bluetooth is enabled: the switch at the top should be set to
       <span class="gui">ON</span>. With the panel open and the switch <span class="gui">ON</span>, your
       computer will begin searching for devices.</p></li>
 <li class="steps"><p class="p">Make the other Bluetooth device
-      <span class="link"><a href="bluetooth-visibility.html" title="What is Bluetooth visibility?">discoverable or visible</a></span> and
+      <span class="link"><a href="bluetooth-visibility.html.ro" title="What is Bluetooth visibility?">discoverable or visible</a></span> and
       place it within 5-10 meters (about 16-33 feet) of your computer.</p></li>
 <li class="steps"><p class="p">Click the device in the <span class="gui">Devices</span> list. The panel for the
       device will open.</p></li>
@@ -90,10 +90,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — 
-      <span class="link"><a href="bluetooth-connect-device.html" title="Connect your computer to a Bluetooth device">Connect</a></span>,
-      <span class="link"><a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">send files</a></span>,
-      <span class="link"><a href="bluetooth-turn-on-off.html" title="Turn Bluetooth on or off">turn on and off</a></span>…
+<a href="bluetooth.html.ro" title="Bluetooth">Bluetooth</a><span class="desc"> — 
+      <span class="link"><a href="bluetooth-connect-device.html.ro" title="Connect your computer to a Bluetooth device">Connect</a></span>,
+      <span class="link"><a href="bluetooth-send-file.html.ro" title="Send files to a Bluetooth device">send files</a></span>,
+      <span class="link"><a href="bluetooth-turn-on-off.html.ro" title="Turn Bluetooth on or off">turn on and off</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -101,10 +101,10 @@
 <div class="title"><h2><span class="title">Vezi și</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing-bluetooth.html" title="Control sharing over Bluetooth">Control sharing over Bluetooth</a><span class="desc"> — Allow files to be uploaded to your computer over Bluetooth.</span>
+<a href="sharing-bluetooth.html.ro" title="Control sharing over Bluetooth">Control sharing over Bluetooth</a><span class="desc"> — Allow files to be uploaded to your computer over Bluetooth.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-remove-connection.html" title="Disconnect a Bluetooth device">Disconnect a Bluetooth device</a><span class="desc"> — Remove a device from the list of Bluetooth devices.</span>
+<a href="bluetooth-remove-connection.html.ro" title="Disconnect a Bluetooth device">Disconnect a Bluetooth device</a><span class="desc"> — Remove a device from the list of Bluetooth devices.</span>
 </li>
 </ul></div>
 </div></div>

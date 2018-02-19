@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="power.html" title="电源 &amp; 电池">电源 &amp; 电池</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="power.html.zh-CN" title="电源 &amp; 电池">电源 &amp; 电池</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="power.html" title="电源 &amp; 电池">电源 &amp; 电池</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="power.html.zh-CN" title="电源 &amp; 电池">电源 &amp; 电池</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,12 +54,12 @@
 <div class="region">
 <div class="contents">
 <p class="p">When you close the lid of your laptop, your computer will
-  <span class="link"><a href="power-suspend.html" title="挂起或休眠计算机时会发生什么？"><span class="em">suspend</span></a></span> in order to save power.
+  <span class="link"><a href="power-suspend.html.zh-CN" title="挂起或休眠计算机时会发生什么？"><span class="em">suspend</span></a></span> in order to save power.
   This means that the computer is not actually turned off — it has just gone to
   sleep. You can resume it by opening the lid. If it does not resume, try
   clicking the mouse or pressing a key. If that still does not work, press the
   power button.</p>
-<p class="p">一些计算机不能很好地挂起，这通常是因为硬件不完全支持操作系统(例如，Linux 驱动不完善)。在这种情况下，您可能会发现合上盖再打开时，不能唤醒电脑。您可以试着<span class="link"><a href="power-suspendfail.html" title="为什么我的机子休眠后不能回到原来的状态？">修复挂起错误</a></span>，或者您可以阻止电脑在合上盖时挂起。</p>
+<p class="p">一些计算机不能很好地挂起，这通常是因为硬件不完全支持操作系统(例如，Linux 驱动不完善)。在这种情况下，您可能会发现合上盖再打开时，不能唤醒电脑。您可以试着<span class="link"><a href="power-suspendfail.html.zh-CN" title="为什么我的机子休眠后不能回到原来的状态？">修复挂起错误</a></span>，或者您可以阻止电脑在合上盖时挂起。</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Stop the computer from suspending when the lid is closed</span></h2></div>
@@ -74,11 +74,12 @@
     if they are left running with the lid closed, especially if they are in
     a confined place like a backpack.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span>
+      overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Power</span> tab.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Don’t suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
+      <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -89,10 +90,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="电源 &amp; 电池">电源 &amp; 电池</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="挂起或休眠计算机时会发生什么？">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="为什么我的屏幕过一会就变暗？">screen dimming</a></span>…
+<a href="power.html.zh-CN" title="电源 &amp; 电池">电源 &amp; 电池</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.zh-CN" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.zh-CN" title="挂起或休眠计算机时会发生什么？">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.zh-CN" title="为什么我的屏幕过一会就变暗？">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -100,10 +101,10 @@
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspendfail.html" title="为什么我的机子休眠后不能回到原来的状态？">为什么我的机子休眠后不能回到原来的状态？</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.zh-CN" title="为什么我的机子休眠后不能回到原来的状态？">为什么我的机子休眠后不能回到原来的状态？</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="挂起或休眠计算机时会发生什么？">挂起或休眠计算机时会发生什么？</a><span class="desc"> — 挂起将使您的电脑进入睡眠状态，使用较少的电能。</span>
+<a href="power-suspend.html.zh-CN" title="挂起或休眠计算机时会发生什么？">挂起或休眠计算机时会发生什么？</a><span class="desc"> — 挂起将使您的电脑进入睡眠状态，使用较少的电能。</span>
 </li>
 </ul></div>
 </div></div>

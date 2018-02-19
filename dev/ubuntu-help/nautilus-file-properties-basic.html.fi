@@ -43,27 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html#more-file-tasks" title="Lisää tiedostoihin liittyviä tehtäviä">Lisää tiedostoihin liittyviä tehtäviä</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.fi" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html.fi#more-file-tasks" title="Lisää tiedostoihin liittyviä tehtäviä">Lisää tiedostoihin liittyviä tehtäviä</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tiedostojen ominaisuudet</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Saat tiedoston tai kansion ominaisuudet näkyviin napsauttamalla tiedostoa hiiren oikealla painikkeella ja valitsemalla <span class="gui">Ominaisuudet</span>. Sama onnistuu valitsemalla tiedosto napsauttamalla sitä kerran ja sitten painamalla näppäinyhdistelmää <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Enter</kbd></span></span>.</p>
-<p class="p">Tiedoston ominaisuudet -ikkuna kertoo tiedostosta muun muassa sen tyypin, koon ja viimeisimmän muokkausajankohdan. Jos tarvitset näitä tietoja usein, ne saadaan näkyviin <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">luettelonäkymän sarakkeisiin</a></span> tai <span class="link"><a href="nautilus-display.html#icon-captions" title="Kuvakkeiden tekstit">kuvakkeiden teksteihin</a></span>.</p>
-<p class="p"><span class="gui">Perustiedot</span>-välilehden sisältämät osiot on eritelty alempana. Tämän lisäksi näkyvissä on myös <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Määritä tiedoston käyttöoikeudet">Oikeudet</a></span></span>- ja <span class="gui"><span class="link"><a href="files-open.html#default" title="Vaihda oletussovellusta">Avaa sovelluksella</a></span></span> -välilehdet. Joillain tiedostotyypeillä, kuten kuvilla ja videoilla, on vielä ylimääräinen välilehti, joka näyttää tiedostotyypille ominaisia tietoja, kuten mitat, keston ja pakkaamiseen käytetyn koodekin.</p>
+<p class="p">Tiedoston ominaisuudet -ikkuna kertoo tiedostosta muun muassa sen tyypin, koon ja viimeisimmän muokkausajankohdan. Jos tarvitset näitä tietoja usein, ne saadaan näkyviin <span class="link"><a href="nautilus-list.html.fi" title="Files list columns preferences">luettelonäkymän sarakkeisiin</a></span> tai <span class="link"><a href="nautilus-display.html.fi#icon-captions" title="Kuvakkeiden tekstit">kuvakkeiden teksteihin</a></span>.</p>
+<p class="p"><span class="gui">Perustiedot</span>-välilehden sisältämät osiot on eritelty alempana. Tämän lisäksi näkyvissä on myös <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.fi" title="Määritä tiedoston käyttöoikeudet">Oikeudet</a></span></span>- ja <span class="gui"><span class="link"><a href="files-open.html.fi#default" title="Vaihda oletussovellusta">Avaa sovelluksella</a></span></span> -välilehdet. Joillain tiedostotyypeillä, kuten kuvilla ja videoilla, on vielä ylimääräinen välilehti, joka näyttää tiedostotyypille ominaisia tietoja, kuten mitat, keston ja pakkaamiseen käytetyn koodekin.</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Perusominaisuudet</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Nimi</span></dt>
-<dd class="terms"><p class="p">Voit nimetä tiedoston uudelleen käyttäen tätä kenttää. Voit nimetä tiedoston uudelleen myös Ominaisuudet-ikkunan ulkopuolella. Lue lisää kappaleesta <span class="link"><a href="files-rename.html" title="Nimeä tiedosto tai kansio uudelleen">Nimeä tiedosto tai kansio uudelleen</a></span>.</p></dd>
+<dd class="terms"><p class="p">Voit nimetä tiedoston uudelleen käyttäen tätä kenttää. Voit nimetä tiedoston uudelleen myös Ominaisuudet-ikkunan ulkopuolella. Lue lisää kappaleesta <span class="link"><a href="files-rename.html.fi" title="Nimeä tiedosto tai kansio uudelleen">Nimeä tiedosto tai kansio uudelleen</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Tyyppi</span></dt>
 <dd class="terms">
 <p class="p">This helps you identify the type of the file, such as PDF document,
     OpenDocument Text, or JPEG image. The file type determines which
     applications can open the file, among other things. For example, you
-    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="Avaa tiedostoja muilla sovelluksilla">Avaa tiedostoja muilla sovelluksilla</a></span>
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html.fi" title="Avaa tiedostoja muilla sovelluksilla">Avaa tiedostoja muilla sovelluksilla</a></span>
     for more information on this.</p>
 <p class="p">Suluissa näkyvä <span class="em">MIME-tyyppi</span> on tietokoneiden käyttämä standardi tiedoston tyypin tunnistamiseen.</p>
 </dd>
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Lisää tiedostoihin liittyviä tehtäviä">Lisää tiedostoihin liittyviä tehtäviä</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.fi#more-file-tasks" title="Lisää tiedostoihin liittyviä tehtäviä">Lisää tiedostoihin liittyviä tehtäviä</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="Määritä tiedoston käyttöoikeudet">Määritä tiedoston käyttöoikeudet</a><span class="desc"> — Hallitse, ketkä voivat nähdä ja muokata tiedostojasi ja kansioitasi.</span>
+<a href="nautilus-file-properties-permissions.html.fi" title="Määritä tiedoston käyttöoikeudet">Määritä tiedoston käyttöoikeudet</a><span class="desc"> — Hallitse, ketkä voivat nähdä ja muokata tiedostojasi ja kansioitasi.</span>
 </li></ul></div>
 </div></div>
 </div>

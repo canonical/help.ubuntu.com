@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="power.html" title="Napájení a baterie">Napájení a baterie</a> › <a class="trail" href="power.html#saving" title="Nastavení šetření energií">Nastavení šetření energií</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a> › <a class="trail" href="power.html.cs#saving" title="Nastavení šetření energií">Nastavení šetření energií</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-display.html" title="Displej a obrazovka">Displej a obrazovka</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-display.html.cs" title="Displej a obrazovka">Displej a obrazovka</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="power.html" title="Napájení a baterie">Napájení a baterie</a> › <a class="trail" href="power.html#saving" title="Nastavení šetření energií">Nastavení šetření energií</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a> › <a class="trail" href="power.html.cs#saving" title="Nastavení šetření energií">Nastavení šetření energií</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Běžné problémy">Problémy</a> » <a class="trail" href="hardware-problems-graphics.html" title="Problémy s obrazovkou">Problémy s obrazovkou</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html.cs#problems" title="Běžné problémy">Problémy</a> » <a class="trail" href="hardware-problems-graphics.html.cs" title="Problémy s obrazovkou">Problémy s obrazovkou</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,12 +61,12 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Když chcete nastavit čas vypínání obrazovky:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Napájení</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Napájení</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Napájení</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Pomocí rozbalovacího seznamu <span class="gui">Vypnout obrazovku</span> v <span class="gui">Šetření energií</span> nastavte čas, po kterém se obrazovka vypne, nebo její vypínání zakažte.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Když se počítač dostane do stavu nečinnosti, obrazovka se z bezpečnostní důvodů také automaticky zamkne. Jestli chcete změnit toto chování, podívejte se na <span class="link"><a href="session-screenlocks.html" title="Obrazovka se sama zamkne po příliš krátké době">Obrazovka se sama zamkne po příliš krátké době</a></span>.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Když se počítač dostane do stavu nečinnosti, obrazovka se z bezpečnostní důvodů také automaticky zamkne. Jestli chcete změnit toto chování, podívejte se na <span class="link"><a href="session-screenlocks.html.cs" title="Obrazovka se sama zamkne po příliš krátké době">Obrazovka se sama zamkne po příliš krátké době</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -75,11 +75,11 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Displej a obrazovka">Displej a obrazovka</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Změna pozadí pracovní plochy a uzamknuté obrazovky">Pozadí</a></span>, <span class="link"><a href="look-resolution.html" title="Změna rozlišení nebo otočení obrazovky">velikost a otočení</a></span>, jas…</span>
+<a href="prefs-display.html.cs" title="Displej a obrazovka">Displej a obrazovka</a><span class="desc"> — <span class="link"><a href="look-background.html.cs" title="Změna pozadí pracovní plochy a uzamknuté obrazovky">Pozadí</a></span>, <span class="link"><a href="look-resolution.html.cs" title="Změna rozlišení nebo otočení obrazovky">velikost a otočení</a></span>, jas…</span>
 </li>
-<li class="links "><a href="power.html#saving" title="Nastavení šetření energií">Nastavení šetření energií</a></li>
+<li class="links "><a href="power.html.cs#saving" title="Nastavení šetření energií">Nastavení šetření energií</a></li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Problémy s obrazovkou">Problémy s obrazovkou</a><span class="desc"> — Jak řešit problémy s obrazovkou a grafikou.</span>
+<a href="hardware-problems-graphics.html.cs" title="Problémy s obrazovkou">Problémy s obrazovkou</a><span class="desc"> — Jak řešit problémy s obrazovkou a grafikou.</span>
 </li>
 </ul></div>
 </div></div>
@@ -87,10 +87,10 @@
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="session-screenlocks.html" title="Obrazovka se sama zamkne po příliš krátké době">Obrazovka se sama zamkne po příliš krátké době</a><span class="desc"> — Jak v nastaveních <span class="gui">Soukromí</span> změnit, jak dlouho se má čekat, než se zamkne obrazovka.</span>
+<a href="session-screenlocks.html.cs" title="Obrazovka se sama zamkne po příliš krátké době">Obrazovka se sama zamkne po příliš krátké době</a><span class="desc"> — Jak v nastaveních <span class="gui">Soukromí</span> změnit, jak dlouho se má čekat, než se zamkne obrazovka.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="Proč moje obrazovka po krátké době potemní?">Proč moje obrazovka po krátké době potemní?</a><span class="desc"> — Obrazovka ztlumí jas, když je počítač nějakou dobu nepoužíván, aby ušetřil energii.</span>
+<a href="power-whydim.html.cs" title="Proč moje obrazovka po krátké době potemní?">Proč moje obrazovka po krátké době potemní?</a><span class="desc"> — Obrazovka ztlumí jas, když je počítač nějakou dobu nepoužíván, aby ušetřil energii.</span>
 </li>
 </ul></div>
 </div></div>

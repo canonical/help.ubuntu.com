@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-email.html" title="E-Mail und E-Mail-Software">E-Mail und E-Mail-Software</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-email.html.de" title="E-Mail und E-Mail-Software">E-Mail und E-Mail-Software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ändern der E-Mail-Anwendung zum Verfassen von Nachrichten</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Wenn Sie auf einen Knopf oder Verweis klicken, um eine neue E-Mail zu verfassen (zum Beispiel in einer Textverarbeitung), so wird Ihre vorgegebene E-Mail-Anwendung mit einer noch leeren Nachricht geöffnet, und ist sofort bereit zum Schreiben. Falls mehrere E-Mail-Anwendungen installiert sind, dann könnte die falsche Anwendung geöffnet werden. Sie können dies folgendermaßen einstellen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Details</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Details</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Details</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Wählen Sie <span class="gui">Vorgabe-Anwendungen</span> aus der Liste an der linken Seite des Fensters.</p></li>
 <li class="steps"><p class="p">Wählen Sie in der Option <span class="gui">E-Mail</span>, welches E-Mail-Programm Sie zur Vorgabe machen wollen.</p></li>
@@ -62,7 +62,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email.html" title="E-Mail und E-Mail-Software">E-Mail und E-Mail-Software</a><span class="desc"> — <span class="link"><a href="net-default-email.html" title="Ändern der E-Mail-Anwendung zum Verfassen von Nachrichten">Vorgegebene E-Mail-Anwendungen</a></span>, <span class="link"><a href="net-email-virus.html" title="Muss ich meine E-Mails auf Viren überprüfen lassen?">Sollte ich einen Virenscanner verwenden?</a></span>…</span>
+<a href="net-email.html.de" title="E-Mail und E-Mail-Software">E-Mail und E-Mail-Software</a><span class="desc"> — <span class="link"><a href="net-default-email.html.de" title="Ändern der E-Mail-Anwendung zum Verfassen von Nachrichten">Vorgegebene E-Mail-Anwendungen</a></span>, <span class="link"><a href="net-email-virus.html.de" title="Muss ich meine E-Mails auf Viren überprüfen lassen?">Sollte ich einen Virenscanner verwenden?</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

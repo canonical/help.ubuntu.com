@@ -43,15 +43,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Region und Sprache</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="session-formats.html" title="Datumsformat und Maßeinheiten ändern"><span class="title">Datumsformat und Maßeinheiten ändern</span><span class="linkdiv-dash"> — </span><span class="desc">Eine Region für Datum und Zeit, Zahlen, Währung und Maßeinheiten wählen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html" title="Use alternative keyboard layouts"><span class="title">Use alternative keyboard layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Add keyboard layouts and switch between them.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-language.html" title="Zu verwendende Sprache ändern"><span class="title">Zu verwendende Sprache ändern</span><span class="linkdiv-dash"> — </span><span class="desc">Die Sprache für Benutzeroberfläche und Hilfetexte wechseln.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-formats.html.de" title="Datumsformat und Maßeinheiten ändern"><span class="title">Datumsformat und Maßeinheiten ändern</span><span class="linkdiv-dash"> — </span><span class="desc">Eine Region für Datum und Zeit, Zahlen, Währung und Maßeinheiten wählen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.de" title="Use alternative keyboard layouts"><span class="title">Use alternative keyboard layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Add keyboard layouts and switch between them.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-language.html.de" title="Zu verwendende Sprache ändern"><span class="title">Zu verwendende Sprache ändern</span><span class="linkdiv-dash"> — </span><span class="desc">Die Sprache für Benutzeroberfläche und Hilfetexte wechseln.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -59,13 +59,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Benutzer- und Systemeinstellungen">Benutzer- und Systemeinstellungen</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tastatur">Tastatur</a></span>, <span class="link"><a href="mouse.html" title="Maus">Maus</a></span>, <span class="link"><a href="prefs-display.html" title="Anzeige und Bildschirm">Anzeige</a></span>, <span class="link"><a href="prefs-language.html" title="Region und Sprache">Sprachen</a></span>, <span class="link"><a href="user-accounts.html" title="Benutzerkonten">Benutzerkonten</a></span> …</span>
+<a href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Benutzer- und Systemeinstellungen</a><span class="desc"> — <span class="link"><a href="keyboard.html.de" title="Tastatur">Tastatur</a></span>, <span class="link"><a href="mouse.html.de" title="Maus">Maus</a></span>, <span class="link"><a href="prefs-display.html.de" title="Anzeige und Bildschirm">Anzeige</a></span>, <span class="link"><a href="prefs-language.html.de" title="Region und Sprache">Sprachen</a></span>, <span class="link"><a href="user-accounts.html.de" title="Benutzerkonten">Benutzerkonten</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language-install.html" title="Sprachen installieren">Sprachen installieren</a><span class="desc"> — Installieren von weiteren Übersetzungen und damit zusammenhängenden Paketen.</span>
+<a href="prefs-language-install.html.de" title="Sprachen installieren">Sprachen installieren</a><span class="desc"> — Installieren von weiteren Übersetzungen und damit zusammenhängenden Paketen.</span>
 </li></ul></div>
 </div></div>
 </div>

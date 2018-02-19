@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html#backup" title="Прављење резерви">Прављење резерви</a> » <a class="trail" href="backup-why.html" title="Направите резерве ваших важних датотека">Резерве</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.sr" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html.sr#backup" title="Прављење резерви">Прављење резерви</a> » <a class="trail" href="backup-why.html.sr" title="Направите резерве ваших важних датотека">Резерве</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Како да направите резерву</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Најлакши начин да направите резерву ваших датотека и подешавања је да допустите програму за резерве да одради процес прављења резерве за вас. Доступан је велики број различитих програма за резерву, на пример <span class="app">Сигурни сеф</span>.</p>
 <p class="p">Помоћ изабраног програма за резерве ће вас водити кроз подешавање поставки за прављење резерве, као и за повраћај података.</p>
-<p class="p">Још један од начина је да <span class="link"><a href="files-copy.html" title="Умножите или преместите датотеке и фасцикле">умножите ваше датотеке</a></span> на безбедно место, као што је спољни чврсти диск, други рачунар на мрежи, или УСБ уређај. Ваши <span class="link"><a href="backup-thinkabout.html" title="Где могу да пронађем датотеке за које желим да направим резерву?">лични подаци</a></span> и подешавања се обично налазе у вашој личној фасцикли, тако да можете да их умножите одатле.</p>
+<p class="p">Још један од начина је да <span class="link"><a href="files-copy.html.sr" title="Умножите или преместите датотеке и фасцикле">умножите ваше датотеке</a></span> на безбедно место, као што је спољни чврсти диск, други рачунар на мрежи, или УСБ уређај. Ваши <span class="link"><a href="backup-thinkabout.html.sr" title="Где могу да пронађем датотеке за које желим да направим резерву?">лични подаци</a></span> и подешавања се обично налазе у вашој личној фасцикли, тако да можете да их умножите одатле.</p>
 <p class="p">Количина података коју можете да умножите је ограничена величином складишног уређаја. Ако имате простора на уређају за резерву, најбоље би било да направите резерву читаве личне фасцикле изузев следећих ставки:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Датотеке чије резерве сте већ направили негде другде, на ЦД, ДВД, или другим преносивим медијима.</p></li>
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Направите резерве ваших важних датотека">Направите резерве ваших важних датотека</a><span class="desc"> — Зашто, шта, где и како о резервама.</span>
+<a href="backup-why.html.sr" title="Направите резерве ваших важних датотека">Направите резерве ваших важних датотека</a><span class="desc"> — Зашто, шта, где и како о резервама.</span>
 </li></ul></div>
 </div></div></div>
 </div>

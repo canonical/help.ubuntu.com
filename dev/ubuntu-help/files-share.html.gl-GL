@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="Compartir">Compartir</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.gl-GL" title="Compartir">Compartir</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <div class="title title-steps"><h2><span class="title">Para compartir un ficheiro por correo electrónico:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="app">Files</span> application from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview.</p></li>
 <li class="steps"><p class="p">Seleccione o elemento que quere eliminar.</p></li>
 <li class="steps"><p class="p">Right-click the file and select <span class="gui">Send to…</span>. An email compose
       window will appear with the file attached.</p></li>
@@ -78,19 +78,19 @@
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Compartir">Compartir</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Compartir o meu escritorio remoto">Compartición de escritorio</a></span>, <span class="link"><a href="files-share.html" title="Compartir ficheiro por correo electrónico">Compartir ficheiros por correo</a></span>, <span class="link"><a href="sharing-media.html" title="Comparta a súa música, fotos e vídeos">Compartición multimedia</a></span>…</span>
+<a href="sharing.html.gl-GL" title="Compartir">Compartir</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.gl-GL" title="Compartir o meu escritorio remoto">Compartición de escritorio</a></span>, <span class="link"><a href="files-share.html.gl-GL" title="Compartir ficheiro por correo electrónico">Compartir ficheiros por correo</a></span>, <span class="link"><a href="sharing-media.html.gl-GL" title="Comparta a súa música, fotos e vídeos">Compartición multimedia</a></span>…</span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
+<li class="links "><a href="files.html.gl-GL#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="nautilus-connect.html" title="Examinar ficheiros nun servidor ou compartición de rede">Examinar ficheiros nun servidor ou compartición de rede</a><span class="desc"> — Ver e editar ficheiros noutro equipo sobre FTP, SSH, compartidos de Windows ou WebDAV.</span>
+<a href="nautilus-connect.html.gl-GL" title="Examinar ficheiros nun servidor ou compartición de rede">Examinar ficheiros nun servidor ou compartición de rede</a><span class="desc"> — Ver e editar ficheiros noutro equipo sobre FTP, SSH, compartidos de Windows ou WebDAV.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">Send files to a Bluetooth device</a><span class="desc"> — Compartir ficheiros entre dispositivos Bluetooth, como o seu teléfono.</span>
+<a href="bluetooth-send-file.html.gl-GL" title="Send files to a Bluetooth device">Send files to a Bluetooth device</a><span class="desc"> — Compartir ficheiros entre dispositivos Bluetooth, como o seu teléfono.</span>
 </li>
 </ul></div>
 </div></div>

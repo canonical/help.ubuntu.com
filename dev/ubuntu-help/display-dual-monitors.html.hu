@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="prefs-display.html" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">További monitorok csatlakoztatása a számítógépéhez</span></h1></div>
@@ -54,11 +54,11 @@
 <div class="region"><div class="contents">
 <p class="p">További monitorok beállításához először csatlakoztassa azokat a számítógépéhez. Ha a rendszer nem ismeri fel azonnal, vagy módosítani szeretné a beállításait:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Kijelzők</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Kijelzők</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Kijelzők</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps">
 <p class="p">Kattintson az aktiválni vagy deaktiválni kívánt monitorra, majd a monitorbeállítások listájában válassza a <span class="gui">Kikapcsolás</span> menüpontot a monitor deaktiválásához, vagy az <span class="gui">Elsődleges</span>, <span class="gui">Másodlagos</span> vagy <span class="gui">Tükrözés</span> egyikét az aktiválásához.</p>
-<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">Az elsődleges monitoron látható a <span class="link"><a href="shell-introduction.html" title="A GNOME bemutatása">felső sáv</a></span>, és ezen jelenik meg a <span class="gui">Tevékenységek</span> áttekintés.</p></div></div></div></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">Az elsődleges monitoron látható a <span class="link"><a href="shell-introduction.html.hu" title="A GNOME bemutatása">felső sáv</a></span>, és ezen jelenik meg a <span class="gui">Tevékenységek</span> áttekintés.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Egy monitor tájolásának elforgatásához használja a nyíl ikonokat, amíg az előnézet a kívánt irányba nem áll.</p></li>
 <li class="steps"><p class="p">Ha elkészült a beállításokkal, akkor kattintson az <span class="gui">Alkalmaz</span>, majd a <span class="gui">Módosítások megtartása</span> gombra.</p></li>
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Háttér</a></span>, <span class="link"><a href="look-resolution.html" title="A képernyő felbontásának vagy forgatásának módosítása">méret és elforgatás</a></span>, fényerő…</span>
+<a href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — <span class="link"><a href="look-background.html.hu" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Háttér</a></span>, <span class="link"><a href="look-resolution.html.hu" title="A képernyő felbontásának vagy forgatásának módosítása">méret és elforgatás</a></span>, fényerő…</span>
 </li></ul></div>
 </div></div></div>
 </div>

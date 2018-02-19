@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html" title="Akses universal">Akses universal</a> › <a class="trail" href="a11y.html#sound" title="Masalah pendengaran">Masalah pendengaran</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html.id" title="Akses universal">Akses universal</a> › <a class="trail" href="a11y.html.id#sound" title="Masalah pendengaran">Masalah pendengaran</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kedipkan jendela untuk suara peringatan</span></h1></div>
@@ -51,28 +51,28 @@
 <div class="contents">
 <p class="p">Komputer Anda akan memainkan suara peringatan sederhana untuk tipe pesan dan peristiwa tertentu. Bila Anda mengalami kesulitan mendengar suara tersebut, Anda dapat membuat agar seluruh layar atau jendela Anda kini mengedip secara visual ketika suara peringatan dimainkan.</p>
 <p class="p">This can also be useful if you’re in an environment where you need your
-  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="Pilih atau matikan suara waspada">Pilih atau matikan suara waspada</a></span>
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html.id" title="Pilih atau matikan suara waspada">Pilih atau matikan suara waspada</a></span>
   to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Tekan <span class="gui">Peringatan Visual</span> dalam <span class="gui">Pendengaran</span>.</p></li>
 <li class="steps"><p class="p">Nyalakan <span class="gui">Peringatan Visual</span>.</p></li>
 <li class="steps"><p class="p">Pilih apakah Anda ingin seluruh layar atau hanya jendela kini saja yang mengedip.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Anda juga dapat menyalakan dan mematikan peringatan visual dengan mengklik <span class="link"><a href="a11y-icon.html" title="Temukan menu akses universal">ikon aksesibilitas</a></span> pada bilah puncak dan memilih <span class="gui">Peringatan Visual</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Anda juga dapat menyalakan dan mematikan peringatan visual dengan mengklik <span class="link"><a href="a11y-icon.html.id" title="Temukan menu akses universal">ikon aksesibilitas</a></span> pada bilah puncak dan memilih <span class="gui">Peringatan Visual</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#sound" title="Masalah pendengaran">Masalah pendengaran</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.id#sound" title="Masalah pendengaran">Masalah pendengaran</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-alert.html" title="Pilih atau matikan suara waspada">Pilih atau matikan suara waspada</a><span class="desc"> — Choose the sound to play for messages, set the alert volume, or
+<a href="sound-alert.html.id" title="Pilih atau matikan suara waspada">Pilih atau matikan suara waspada</a><span class="desc"> — Choose the sound to play for messages, set the alert volume, or
     disable alert sounds.</span>
 </li></ul></div>
 </div></div>

@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Datum a čas</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="clock-set.html" title="Změna data a času"><span class="title">Změna data a času</span><span class="linkdiv-dash"> — </span><span class="desc">Ke změně data nebo času použijte <span class="gui">Nastavení data a času</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="Kalendářové události"><span class="title">Kalendářové události</span><span class="linkdiv-dash"> — </span><span class="desc">Jak si zobrazit své události v kalendářové oblasti v horní části obrazovky.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html" title="Změna vašeho časového pásma"><span class="title">Změna vašeho časového pásma</span><span class="linkdiv-dash"> — </span><span class="desc">Nastavte svoje časové pásmo podle své aktuální polohy, aby byl čas správný.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-world.html" title="Přidání světového času"><span class="title">Přidání světového času</span><span class="linkdiv-dash"> — </span><span class="desc">Jak si pod kalendářem zobrazit časy v jiných městech.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-set.html.cs" title="Změna data a času"><span class="title">Změna data a času</span><span class="linkdiv-dash"> — </span><span class="desc">Ke změně data nebo času použijte <span class="gui">Nastavení data a času</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.cs" title="Kalendářové události"><span class="title">Kalendářové události</span><span class="linkdiv-dash"> — </span><span class="desc">Jak si zobrazit své události v kalendářové oblasti v horní části obrazovky.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html.cs" title="Změna vašeho časového pásma"><span class="title">Změna vašeho časového pásma</span><span class="linkdiv-dash"> — </span><span class="desc">Nastavte svoje časové pásmo podle své aktuální polohy, aby byl čas správný.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-world.html.cs" title="Přidání světového času"><span class="title">Přidání světového času</span><span class="linkdiv-dash"> — </span><span class="desc">Jak si pod kalendářem zobrazit časy v jiných městech.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -60,12 +60,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html" title="Uživatelské účty">uživatelské účty</a></span>…</span>
+<a href="prefs.html.cs" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html.cs" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html.cs" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html.cs" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html.cs" title="Uživatelské účty">uživatelské účty</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-change-date-time-timezone.html" title="Změna data, času a časového pásma">Vysvětlení, jak změnit datum, čas a časové pásmo</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-change-date-time-timezone.html.cs" title="Změna data, času a časového pásma">Vysvětlení, jak změnit datum, čas a časové pásmo</a></li></ul></div>
 </div></div>
 </div>
 </div>

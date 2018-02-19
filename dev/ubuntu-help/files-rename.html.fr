@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html#common-file-tasks" title="Tâches courantes">Tâches courantes</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html.fr" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html.fr#common-file-tasks" title="Tâches courantes">Tâches courantes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Modification d'un nom de fichier ou de dossier</span></h1></div>
@@ -58,7 +58,7 @@
     <span class="gui">Rename</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Vous pouvez aussi modifier le nom d'un fichier dans la fenêtre <span class="link"><a href="nautilus-file-properties-basic.html" title="Propriétés de fichier">propriétés</a></span>.</p>
+<p class="p">Vous pouvez aussi modifier le nom d'un fichier dans la fenêtre <span class="link"><a href="nautilus-file-properties-basic.html.fr" title="Propriétés de fichier">propriétés</a></span>.</p>
 <p class="p">Quand vous renommez un fichier, seule la première partie de son nom est sélectionnée, pas l'extension (la partie derrière le dernier <span class="file">.</span>). L'extension décrit normalement le type de fichier (par exemple <span class="file">fichier.pdf</span> est un document PDF) et normalement, vous ne devez pas la modifier. Si malgré tout, vous souhaitez modifier aussi l'extension, sélectionnez le nom complet et modifiez-le.</p>
 <div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">If you renamed the wrong file, or named your file improperly, you can
     undo the rename. To revert the action, immediately click the menu button in
@@ -70,7 +70,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Caractères valides pour les noms de fichier</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Vous pouvez utiliser n'importe quel caractère sauf le <span class="file">/</span> (barre oblique ou slash) dans les noms de fichiers. Certains périphériques utilisent cependant <span class="em">un système de fichiers</span> plus restrictif sur la composition du nom. Par conséquent, il est préférable d'éviter les caractères suivants dans la composition des noms de fichiers : <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
-<div class="note note-warning" title="Avertissement"><div class="inner"><div class="region"><div class="contents"><p class="p">Si vous mettez un <span class="file">.</span> comme premier caractère d'un nom de fichier, le fichier est alors <span class="link"><a href="files-hidden.html" title="Masquage d'un fichier">caché</a></span> lorsque vous tentez de l'afficher dans le gestionnaire de fichiers.</p></div></div></div></div>
+<div class="note note-warning" title="Avertissement"><div class="inner"><div class="region"><div class="contents"><p class="p">Si vous mettez un <span class="file">.</span> comme premier caractère d'un nom de fichier, le fichier est alors <span class="link"><a href="files-hidden.html.fr" title="Masquage d'un fichier">caché</a></span> lorsque vous tentez de l'afficher dans le gestionnaire de fichiers.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="common-probs" class="sect"><div class="inner">
@@ -84,14 +84,14 @@
 <dt class="terms">Le nom de fichier est trop long</dt>
 <dd class="terms"><p class="p">Sur certains systèmes, les noms de fichiers ne peuvent pas avoir plus de 255 caractères. Cette limite inclut à la fois le nom du fichier et l'arborescence vers le fichier (par exemple, <span class="file">/home/sylvie/Documents/travail/propositions-de-travail/… </span>), donc évitez si possible d'utiliser des noms de fichiers et de dossiers trop longs.</p></dd>
 <dt class="terms">L'option pour renommer est grisée</dt>
-<dd class="terms"><p class="p">Si l'option <span class="gui">Renommer</span> est grisée, vous n'avez pas la permission de modifier le nom du fichier. En règle générale, il est préférable de s'abstenir de modifier le nom de fichiers protégés car cela pourrait rendre votre système instable. Consultez <span class="link"><a href="nautilus-file-properties-permissions.html" title="Définition des permissions d'accès">Définition des permissions d'accès</a></span> pour plus d'informations.</p></dd>
+<dd class="terms"><p class="p">Si l'option <span class="gui">Renommer</span> est grisée, vous n'avez pas la permission de modifier le nom du fichier. En règle générale, il est préférable de s'abstenir de modifier le nom de fichiers protégés car cela pourrait rendre votre système instable. Consultez <span class="link"><a href="nautilus-file-properties-permissions.html.fr" title="Définition des permissions d'accès">Définition des permissions d'accès</a></span> pour plus d'informations.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Tâches courantes">Tâches courantes</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.fr#common-file-tasks" title="Tâches courantes">Tâches courantes</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

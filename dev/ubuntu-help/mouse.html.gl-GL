@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,29 +54,29 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html" title="Axustar a velocidade do dobre clic"><span class="title">Axustar a velocidade do dobre clic</span><span class="linkdiv-dash"> — </span><span class="desc">Controlar a velocidade de pulsación do botón do rato para efectuar unha pulsación dobre.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html" title="Axustar a velocidade do rato e touchpad"><span class="title">Axustar a velocidade do rato e touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar como se move de rápido o punteiro cando usa o rato ou a área táctil.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html" title="Facer clic e mover o punteiro do rato usando as frechas do teclado"><span class="title">Facer clic e mover o punteiro do rato usando as frechas do teclado</span><span class="linkdiv-dash"> — </span><span class="desc">Enable mouse keys to control the mouse with the numeric
+<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.gl-GL" title="Axustar a velocidade do dobre clic"><span class="title">Axustar a velocidade do dobre clic</span><span class="linkdiv-dash"> — </span><span class="desc">Controlar a velocidade de pulsación do botón do rato para efectuar unha pulsación dobre.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.gl-GL" title="Axustar a velocidade do rato e touchpad"><span class="title">Axustar a velocidade do rato e touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar como se move de rápido o punteiro cando usa o rato ou a área táctil.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.gl-GL" title="Facer clic e mover o punteiro do rato usando as frechas do teclado"><span class="title">Facer clic e mover o punteiro do rato usando as frechas do teclado</span><span class="linkdiv-dash"> — </span><span class="desc">Enable mouse keys to control the mouse with the numeric
     keypad.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html" title="Premer, arrastrar e desprazarse coa súa área táctil"><span class="title">Premer, arrastrar e desprazarse coa súa área táctil</span><span class="linkdiv-dash"> — </span><span class="desc">Premer, arrastrar e desprazarse usando toques e xestos na súa área táctil.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.gl-GL" title="Premer, arrastrar e desprazarse coa súa área táctil"><span class="title">Premer, arrastrar e desprazarse coa súa área táctil</span><span class="linkdiv-dash"> — </span><span class="desc">Premer, arrastrar e desprazarse usando toques e xestos na súa área táctil.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html" title="Simular o clic ao pasar por enriba"><span class="title">Simular o clic ao pasar por enriba</span><span class="linkdiv-dash"> — </span><span class="desc">A <span class="gui">pulsación ao pousarse</span> (pulsación ao posicionar o punteiro) permítelle premer mantendo o rato quieto.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html" title="Simular o clic dereito do rato"><span class="title">Simular o clic dereito do rato</span><span class="linkdiv-dash"> — </span><span class="desc">Para realizar unha pulsación dereita, prema e manteña o botón esquerdo do rato.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html" title="Usar un rato para zurdos"><span class="title">Usar un rato para zurdos</span><span class="linkdiv-dash"> — </span><span class="desc">Intercambiar os botóns esquerdo e dereito do rato nas preferencias do rato.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.gl-GL" title="Simular o clic ao pasar por enriba"><span class="title">Simular o clic ao pasar por enriba</span><span class="linkdiv-dash"> — </span><span class="desc">A <span class="gui">pulsación ao pousarse</span> (pulsación ao posicionar o punteiro) permítelle premer mantendo o rato quieto.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.gl-GL" title="Simular o clic dereito do rato"><span class="title">Simular o clic dereito do rato</span><span class="linkdiv-dash"> — </span><span class="desc">Para realizar unha pulsación dereita, prema e manteña o botón esquerdo do rato.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html.gl-GL" title="Usar un rato para zurdos"><span class="title">Usar un rato para zurdos</span><span class="linkdiv-dash"> — </span><span class="desc">Intercambiar os botóns esquerdo e dereito do rato nas preferencias do rato.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Problemas comúns</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html" title="O punteiro do rato non se move"><span class="title">O punteiro do rato non se move</span><span class="linkdiv-dash"> — </span><span class="desc">How to check why your mouse is not working.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html" title="O rato reacciona con atraso despois de comezar a traballar"><span class="title">O rato reacciona con atraso despois de comezar a traballar</span><span class="linkdiv-dash"> — </span><span class="desc">Se ten que mover ou premer o rato antes de que comece a responder.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.gl-GL" title="O punteiro do rato non se move"><span class="title">O punteiro do rato non se move</span><span class="linkdiv-dash"> — </span><span class="desc">How to check why your mouse is not working.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.gl-GL" title="O rato reacciona con atraso despois de comezar a traballar"><span class="title">O rato reacciona con atraso despois de comezar a traballar</span><span class="linkdiv-dash"> — </span><span class="desc">Se ten que mover ou premer o rato antes de que comece a responder.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="tips" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Consellos</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Clic central"><span class="title">Clic central</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.gl-GL" title="Clic central"><span class="title">Clic central</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
     more.</span></a></div></div>
 <div class="links-twocolumn"></div>
 </div></div></div></div></div>
@@ -87,10 +87,10 @@
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html" title="Configuracións do usuario e sistema">Configuracións do usuario e sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html" title="Rato">rato</a></span>, <span class="link"><a href="prefs-display.html" title="Pantalla e monitor">pantalla</a></span>, <span class="link"><a href="prefs-language.html" title="Rexión e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html" title="Contas de usuario">contas de usuario</a></span>…</span>
+<a href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións do usuario e sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.gl-GL" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html.gl-GL" title="Rato">rato</a></span>, <span class="link"><a href="prefs-display.html.gl-GL" title="Pantalla e monitor">pantalla</a></span>, <span class="link"><a href="prefs-language.html.gl-GL" title="Rexión e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html.gl-GL" title="Contas de usuario">contas de usuario</a></span>…</span>
 </li>
 <li class="links ">
-<a href="hardware.html" title="Hardware e controladores">Hardware e controladores</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Problemas comúns">Problemas de hardware</a></span>, <span class="link"><a href="hardware.html#printing" title="hardware#printing">impresoras</a></span>, <span class="link"><a href="hardware.html#power" title="hardware#power">configuración de enerxía</a></span>, <span class="link"><a href="hardware.html#bluetooth" title="hardware#bluetooth">Bluetooth</a></span>, <span class="link"><a href="hardware.html#disk" title="hardware#disk">discos</a></span>…</span>
+<a href="hardware.html.gl-GL" title="Hardware e controladores">Hardware e controladores</a><span class="desc"> — <span class="link"><a href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas de hardware</a></span>, <span class="link"><a href="hardware.html.gl-GL#printing" title="hardware#printing">impresoras</a></span>, <span class="link"><a href="hardware.html.gl-GL#power" title="hardware#power">configuración de enerxía</a></span>, <span class="link"><a href="hardware.html.gl-GL#bluetooth" title="hardware#bluetooth">Bluetooth</a></span>, <span class="link"><a href="hardware.html.gl-GL#disk" title="hardware#disk">discos</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

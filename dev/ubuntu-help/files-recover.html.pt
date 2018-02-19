@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html.pt#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Recuperar um ficheiro da caixote do lixo</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Para restaurar um ficheiro da caixote do lixo:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="app">Ficheiros</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="app">Ficheiros</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="app">Ficheiros</span> para abrir o gestor de ficheiros.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Caixote do Lixo</span> em barra-a lateral. Se não vê a barra lateral, carregue o botão <span class="gui">Ficheiros</span> na barra de ferramentas e escolha <span class="gui">Varra lateral</span></p></li>
 <li class="steps"><p class="p">Se seu ficheiro eliminado está ahi, seleçãoelo e escolha <span class="gui">Restaurar</span>. Se devolverá à diretório da que se eliminou.</p></li>
@@ -74,16 +74,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-delete.html" title="Eliminar ficheiros e diretórios">Eliminar ficheiros e diretórios</a><span class="desc"> — Tirar ficheiros ou diretórios que já não precisa.</span>
+<a href="files-delete.html.pt" title="Eliminar ficheiros e diretórios">Eliminar ficheiros e diretórios</a><span class="desc"> — Tirar ficheiros ou diretórios que já não precisa.</span>
 </li>
 <li class="links ">
-<a href="files-lost.html" title="Encontrar um ficheiro perdido">Encontrar um ficheiro perdido</a><span class="desc"> — Follow these tips if you can’t find a file you created or
+<a href="files-lost.html.pt" title="Encontrar um ficheiro perdido">Encontrar um ficheiro perdido</a><span class="desc"> — Follow these tips if you can’t find a file you created or
     downloaded.</span>
 </li>
 </ul></div>

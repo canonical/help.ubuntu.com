@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html#faq" title="Consellos e preguntas">Consellos e preguntas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#faq" title="Consellos e preguntas">Consellos e preguntas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Estabelecer os permisos dun ficheiro</span></h1></div>
@@ -68,7 +68,7 @@
     belong to.</p>
 <p class="p">You can also set the permissions for users other than the owner and
     those in the file’s group.</p>
-<p class="p">Se o ficheiro é un programa, como un script, pode estabelecer <span class="gui">Permitir a execución do ficheiro como un programa</span> para executalo. Incluso se esta opción está seleccionada, o xestor de ficheiros pode continuar abrindo o ficheiro nun aplicativo ou preguntarlle que facer. Vexa <span class="link"><a href="nautilus-behavior.html#executable" title="Ficheiros de texto executábeis">Ficheiros de texto executábeis</a></span> para obter máis información.</p>
+<p class="p">Se o ficheiro é un programa, como un script, pode estabelecer <span class="gui">Permitir a execución do ficheiro como un programa</span> para executalo. Incluso se esta opción está seleccionada, o xestor de ficheiros pode continuar abrindo o ficheiro nun aplicativo ou preguntarlle que facer. Vexa <span class="link"><a href="nautilus-behavior.html.gl-GL#executable" title="Ficheiros de texto executábeis">Ficheiros de texto executábeis</a></span> para obter máis información.</p>
 </div></div>
 </div></div>
 <div id="folders" class="sect"><div class="inner">
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Consellos e preguntas">Consellos e preguntas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.gl-GL#faq" title="Consellos e preguntas">Consellos e preguntas</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-basic.html" title="Propiedades do ficheiro">Propiedades do ficheiro</a><span class="desc"> — Ver información básica do ficheiro, asignar permisos e seleccionar aplicativos predeterminados.</span>
+<a href="nautilus-file-properties-basic.html.gl-GL" title="Propiedades do ficheiro">Propiedades do ficheiro</a><span class="desc"> — Ver información básica do ficheiro, asignar permisos e seleccionar aplicativos predeterminados.</span>
 </li></ul></div>
 </div></div>
 </div>

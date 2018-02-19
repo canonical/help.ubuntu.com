@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a> » <a class="trail" href="nautilus-prefs.html" title="Preferências do gestor de ficheiros">Preferências do gestor de ficheiros</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html.pt#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a> » <a class="trail" href="nautilus-prefs.html.pt" title="Preferências do gestor de ficheiros">Preferências do gestor de ficheiros</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferências da vista do gestor de ficheiros</span></h1></div>
@@ -55,7 +55,7 @@
 <div class="media media-image floatend"><div class="inner"><img src="figures/nautilus-icons.png" height="110" width="250" class="media media-block" alt="Ícones do gestor de ficheiros com títulos"></div></div>
 <p class="p">Quando se utiliza a vista de ícones, pode optar por ter informação adicional sobre os ficheiros e diretórios mostrando uma lenda abaixo da cada ícone. Isto é útil, por exemplo, se com frequência precisa ver que é proprietário dum ficheiro ou cuándo se modificou por última vez.</p>
 <p class="p">Pode ampliar uma diretório clicando o botão de opções da vista na barra de ferramentas e escolhendo um nível de ampliação com o deslizador. À medida que amplie, o gestor de ficheiros mostrassé a cada vez mais informação nas lendas. Pode escolher até três coisas que mostrar nas lendas. A primeira só se mostrassé na maioria dos níveis de ampliação. A última só se mostrassé em tamanhavos muito grandes.</p>
-<p class="p">A informação que se pode mostrar nas lendas dos ícones é a mesma que as colunas que podem aparecer na vista de lista. Consulte a <span class="link"><a href="nautilus-list.html" title="Preferências das colunas na lista de ficheiros">Preferências das colunas na lista de ficheiros</a></span> para obter mais informação.</p>
+<p class="p">A informação que se pode mostrar nas lendas dos ícones é a mesma que as colunas que podem aparecer na vista de lista. Consulte a <span class="link"><a href="nautilus-list.html.pt" title="Preferências das colunas na lista de ficheiros">Preferências das colunas na lista de ficheiros</a></span> para obter mais informação.</p>
 </div></div>
 </div></div>
 <div id="list-view" class="sect"><div class="inner">
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Preferências do gestor de ficheiros">Preferências do gestor de ficheiros</a><span class="desc"> — Ver e estabelecer as preferências para o navegador de ficheiros.</span>
+<a href="nautilus-prefs.html.pt" title="Preferências do gestor de ficheiros">Preferências do gestor de ficheiros</a><span class="desc"> — Ver e estabelecer as preferências para o navegador de ficheiros.</span>
 </li></ul></div>
 </div></div></div>
 </div>

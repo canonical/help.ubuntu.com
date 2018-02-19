@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Ton, Video und Bilder">Ton, Video und Bilder</a> › <a class="trail" href="media.html#photos" title="Fotos und digitale Kameras">Fotos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.de" title="Ton, Video und Bilder">Ton, Video und Bilder</a> › <a class="trail" href="media.html.de#photos" title="Fotos und digitale Kameras">Fotos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Ton, Video und Bilder">Ton, Video und Bilder</a> › <a class="trail" href="media.html#music" title="Musik und tragbare Wiedergabegeräte">Musik und Wiedergabeprogramme</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.de" title="Ton, Video und Bilder">Ton, Video und Bilder</a> › <a class="trail" href="media.html.de#music" title="Musik und tragbare Wiedergabegeräte">Musik und Wiedergabeprogramme</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Ton, Video und Bilder">Ton, Video und Bilder</a> › <a class="trail" href="media.html#videos" title="Videos und Videokameras">Videos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.de" title="Ton, Video und Bilder">Ton, Video und Bilder</a> › <a class="trail" href="media.html.de#videos" title="Videos und Videokameras">Videos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html#removable" title="Wechsellaufwerke und externe Platten">Wechsellaufwerke und externe Platten</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.de" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html.de#removable" title="Wechsellaufwerke und externe Platten">Wechsellaufwerke und externe Platten</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <p class="p">Sie können eine Anwendung automatisch starten lassen, wenn Sie ein Gerät anschließen oder eine CD/DVD oder eine Speicherkarte einlegen. Sie könnten zum Beispiel wollen, dass Ihre Fotoverwaltung geöffnet wird, wenn Sie eine Digitalkamera anschließen. Sie können das aber auch abstellen, so dass nichts weiter passiert, wenn Sie ein Gerät anschließen.</p>
 <p class="p">So legen Sie fest, welche Anwendung geöffnet wird, wenn verschiedene Geräte angeschlossen werden:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Details</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Details</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Details</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Öffnen Sie <span class="gui">Wechselmedien</span>.</p></li>
 <li class="steps">
@@ -77,7 +77,7 @@
 <dt class="terms">Audio-CDs</dt>
 <dd class="terms"><p class="p">Wählen Sie Ihre bevorzugte Musik-Anwendung oder Ihr bevorzugtes Programm zum Auslesen von Audio-CDs. Falls Sie Audio-DVDs (DVD-A) verwenden, wählen Sie unter <span class="gui">Andere Medien …</span>, wie diese geöffnet werden sollen. Falls Sie ein Audio-Medium in der Dateiverwaltung öffnen, erscheinen die Titel als WAV-Dateien, die Sie in jeder Anwendung zur Audiowiedergabe abspielen können.</p></dd>
 <dt class="terms">Video-Medien</dt>
-<dd class="terms"><p class="p">Wählen Sie Ihre bevorzugte Video-Anwendung zum Öffnen von Video-DVDs. Mit dem Knopf <span class="gui">Andere Medien …</span> können Sie Anwendungen für Blu-ray, HD-DVD, Video-CD (VCD) und Super-Video-CD (SVCD) festlegen. Falls DVDs oder andere Video-Medien beim Einlegen nicht korrekt funktionieren, lesen Sie bitte <span class="link"><a href="video-dvd.html" title="Warum werden DVDs nicht abgespielt?">Warum werden DVDs nicht abgespielt?</a></span>.</p></dd>
+<dd class="terms"><p class="p">Wählen Sie Ihre bevorzugte Video-Anwendung zum Öffnen von Video-DVDs. Mit dem Knopf <span class="gui">Andere Medien …</span> können Sie Anwendungen für Blu-ray, HD-DVD, Video-CD (VCD) und Super-Video-CD (SVCD) festlegen. Falls DVDs oder andere Video-Medien beim Einlegen nicht korrekt funktionieren, lesen Sie bitte <span class="link"><a href="video-dvd.html.de" title="Warum werden DVDs nicht abgespielt?">Warum werden DVDs nicht abgespielt?</a></span>.</p></dd>
 <dt class="terms">Leere Medien</dt>
 <dd class="terms"><p class="p">Verwenden Sie den Knopf <span class="gui">Andere Medien …</span>, um das Medienbrennprogramm für leere CDs, leere DVDs, leere Blu-ray-Medien und leere HD-DVDs auszuwählen.</p></dd>
 <dt class="terms">Kameras und Fotos</dt>
@@ -101,10 +101,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#photos" title="Fotos und digitale Kameras">Fotos</a></li>
-<li class="links "><a href="media.html#music" title="Musik und tragbare Wiedergabegeräte">Musik und Wiedergabeprogramme</a></li>
-<li class="links "><a href="media.html#videos" title="Videos und Videokameras">Videos</a></li>
-<li class="links "><a href="files.html#removable" title="Wechsellaufwerke und externe Platten">Wechsellaufwerke und externe Platten</a></li>
+<li class="links "><a href="media.html.de#photos" title="Fotos und digitale Kameras">Fotos</a></li>
+<li class="links "><a href="media.html.de#music" title="Musik und tragbare Wiedergabegeräte">Musik und Wiedergabeprogramme</a></li>
+<li class="links "><a href="media.html.de#videos" title="Videos und Videokameras">Videos</a></li>
+<li class="links "><a href="files.html.de#removable" title="Wechsellaufwerke und externe Platten">Wechsellaufwerke und externe Platten</a></li>
 </ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Az asztal">Asztal</a> › <a class="trail" href="shell-overview.html#apps" title="Alkalmazások és ablakok">Alkalmazások és ablakok</a> » <a class="trail" href="shell-windows.html" title="Ablakok és munkaterületek">Ablakok és munkaterületek</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Ablakok kezelése">Ablakok</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.hu" title="Az asztal">Asztal</a> › <a class="trail" href="shell-overview.html.hu#apps" title="Alkalmazások és ablakok">Alkalmazások és ablakok</a> » <a class="trail" href="shell-windows.html.hu" title="Ablakok és munkaterületek">Ablakok és munkaterületek</a> › <a class="trail" href="shell-windows.html.hu#working-with-windows" title="Ablakok kezelése">Ablakok</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ablakok mozgatása és átméretezése</span></h1></div>
@@ -51,17 +51,17 @@
 <div class="contents">
 <p class="p">Az ablakok mozgatásával és átméretezésével hatékonyabban dolgozhat. A húzás várható viselkedésén kívül a GNOME gyorsbillentyűket és módosítókat biztosít az ablakok gyors elrendezéséhez.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Az ablak mozgatásához húzza a címsorát, vagy tartsa lenyomva a <span class="key"><a href="keyboard-key-super.html" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span> billentyűt, és rákattintás után húzza az ablakot. A mozgatás során tartsa lenyomva a <span class="key"><kbd>Shift</kbd></span> billentyűt az ablaknak a képernyő széleihez és más ablakokhoz igazításához.</p></li>
+<li class="list"><p class="p">Az ablak mozgatásához húzza a címsorát, vagy tartsa lenyomva a <span class="key"><a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span> billentyűt, és rákattintás után húzza az ablakot. A mozgatás során tartsa lenyomva a <span class="key"><kbd>Shift</kbd></span> billentyűt az ablaknak a képernyő széleihez és más ablakokhoz igazításához.</p></li>
 <li class="list"><p class="p">Az ablak átméretezéséhez húzza az ablak széleit vagy sarkait. Az átméretezés során tartsa lenyomva a <span class="key"><kbd>Shift</kbd></span> billentyűt az ablaknak a képernyő széleihez és más ablakokhoz igazításához.</p></li>
 <li class="list"><p class="p">Az ablakokat kizárólag a billentyűzet használatával is mozgathatja vagy átméretezheti. Az <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span> lenyomásával mozgathatja az ablakot, vagy az <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span> lenyomása után átméretezheti azt. Használja a nyílbillentyűket az ablak mozgatására vagy átméretezésére, majd nyomja le az <span class="key"><kbd>Enter</kbd></span> billentyűt a befejezéshez, vagy az <span class="key"><kbd>Esc</kbd></span> megnyomásával visszatérhet az eredeti pozícióra és méretre.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Ablak maximalizálása és visszaállítása">Ablak maximalizálásához</a></span> húzza azt a képernyő tetejére. Húzza az ablakot a képernyő egyik oldalára az adott oldal menti maximalizálásához, ami lehetővé teszi az <span class="link"><a href="shell-windows-tiled.html" title="Ablakmozaikok">ablakok egymás mellé helyezését</a></span>.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html.hu" title="Ablak maximalizálása és visszaállítása">Ablak maximalizálásához</a></span> húzza azt a képernyő tetejére. Húzza az ablakot a képernyő egyik oldalára az adott oldal menti maximalizálásához, ami lehetővé teszi az <span class="link"><a href="shell-windows-tiled.html.hu" title="Ablakmozaikok">ablakok egymás mellé helyezését</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Ablakok kezelése">Ablakok kezelése</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.hu#working-with-windows" title="Ablakok kezelése">Ablakok kezelése</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#backup" title="Säkerhetskopiering">Säkerhetskopiering</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#backup" title="Säkerhetskopiering">Säkerhetskopiering</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Säkerhetskopiera dina viktiga filer</span></h1></div>
@@ -53,17 +53,17 @@
 <p class="p">Det bästa sättet att säkerhetskopiera dina filer är att göra det regelbundet, och att förvara kopiorna på annan plats och (helst) krypterade.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-how.html" title="Hur man skapar en säkerhetskopia"><span class="title">Hur man skapar en säkerhetskopia</span><span class="linkdiv-dash"> — </span><span class="desc">Använd Déjà Dup (eller ett annat säkerhetskopieringsprogram) för att ta kopior av viktiga filer och inställningar för att skydda dig mot dataförluster.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-what.html" title="Vad bör säkerhetskopieras"><span class="title">Vad bör säkerhetskopieras</span><span class="linkdiv-dash"> — </span><span class="desc">Säkerhetskopiera allting som du inte kan stå ut med att förlora om något går fel.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-how.html.sv" title="Hur man skapar en säkerhetskopia"><span class="title">Hur man skapar en säkerhetskopia</span><span class="linkdiv-dash"> — </span><span class="desc">Använd Déjà Dup (eller ett annat säkerhetskopieringsprogram) för att ta kopior av viktiga filer och inställningar för att skydda dig mot dataförluster.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-what.html.sv" title="Vad bör säkerhetskopieras"><span class="title">Vad bör säkerhetskopieras</span><span class="linkdiv-dash"> — </span><span class="desc">Säkerhetskopiera allting som du inte kan stå ut med att förlora om något går fel.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-where.html" title="Var kan du lagra din säkerhetskopia"><span class="title">Var kan du lagra din säkerhetskopia</span><span class="linkdiv-dash"> — </span><span class="desc">Rekommendation om var dina säkerhetskopior bör sparas och vilken typ av lagringsenhet du bör använda.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-where.html.sv" title="Var kan du lagra din säkerhetskopia"><span class="title">Var kan du lagra din säkerhetskopia</span><span class="linkdiv-dash"> — </span><span class="desc">Rekommendation om var dina säkerhetskopior bör sparas och vilken typ av lagringsenhet du bör använda.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Säkerhetskopiering">Säkerhetskopiering</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sv#backup" title="Säkerhetskopiering">Säkerhetskopiering</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Configuración de privacidad</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">La <span class="em">Configuración de la privacidad</span> en GNOME le ayuda a controlar si determinadas partes de su escritorio son visibles o no al resto de usuarios. Puede usar esta configuración para limpiar el histórico de uso de su equipo y eliminar archivos innecesarios.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html" title="Bloquear automáticamente su pantalla"><span class="title">Bloquear automáticamente su pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Impedir que otras personas puedan usar su escritorio cuando se aleje de su equipo.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html" title="Desactivar o limitar el registro del histórico"><span class="title">Desactivar o limitar el registro del histórico</span><span class="linkdiv-dash"> — </span><span class="desc">Dejar de registrar o limitar el registro de archivos usados recientemente.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html" title="Limpiar la papelera y los archivos temporales"><span class="title">Limpiar la papelera y los archivos temporales</span><span class="linkdiv-dash"> — </span><span class="desc">Establecer con qué frecuencia se limpian la papelera y los archivos temporales de su equipo.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-location.html" title="Controlar los servicios de ubicación"><span class="title">Controlar los servicios de ubicación</span><span class="linkdiv-dash"> — </span><span class="desc">Activar o desactivar la geolocalización.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.es" title="Bloquear automáticamente su pantalla"><span class="title">Bloquear automáticamente su pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Impedir que otras personas puedan usar su escritorio cuando se aleje de su equipo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.es" title="Desactivar o limitar el registro del histórico"><span class="title">Desactivar o limitar el registro del histórico</span><span class="linkdiv-dash"> — </span><span class="desc">Dejar de registrar o limitar el registro de archivos usados recientemente.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.es" title="Limpiar la papelera y los archivos temporales"><span class="title">Limpiar la papelera y los archivos temporales</span><span class="linkdiv-dash"> — </span><span class="desc">Establecer con qué frecuencia se limpian la papelera y los archivos temporales de su equipo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-location.html.es" title="Controlar los servicios de ubicación"><span class="title">Controlar los servicios de ubicación</span><span class="linkdiv-dash"> — </span><span class="desc">Activar o desactivar la geolocalización.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,7 +62,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Usuario y configuración del sistema">Usuario y configuración del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html" title="Ratón">ratón</a></span>, <span class="link"><a href="prefs-display.html" title="Pantalla">pantalla</a></span>, <span class="link"><a href="prefs-language.html" title="Región e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html" title="Cuentas de usuario">cuentas de usuario</a></span>…</span>
+<a href="prefs.html.es" title="Usuario y configuración del sistema">Usuario y configuración del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.es" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html.es" title="Ratón">ratón</a></span>, <span class="link"><a href="prefs-display.html.es" title="Pantalla">pantalla</a></span>, <span class="link"><a href="prefs-language.html.es" title="Región e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html.es" title="Cuentas de usuario">cuentas de usuario</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

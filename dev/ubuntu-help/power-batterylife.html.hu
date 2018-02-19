@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="power.html" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="power.html" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,9 +56,9 @@
 <div id="general" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Általános tippek</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#suspend" title="Felfüggesztés">Függessze fel számítógépét</a></span>, amikor nem használja. Ez jelentősen csökkenti a felhasznált energiamennyiséget, és a számítógép ebből az állapotból nagyon gyorsan felébreszthető.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#shutdown" title="Kikapcsolás vagy újraindítás">Kapcsolja ki</a></span> a számítógépet, ha hosszabb ideig nem használja. Egyesek amiatt aggódnak, hogy a számítógép rendszeres kikapcsolása gyorsabb elhasználódást eredményez, de ez nem így van.</p></li>
-<li class="list"><p class="p">A <span class="app">Beállítások</span> <span class="gui">Energiagazdálkodás</span> panelén módosítsa energiagazdálkodási beállításait. Számos beállítás segíti az energiatakarékosságot: <span class="link"><a href="display-blank.html" title="Képernyő-elsötétítés idejének megadása">automatikusan elsötétítheti a kijelzőt</a></span>, csökkentheti a <span class="link"><a href="display-brightness.html" title="Képernyő fényerejének beállítása">kijelző fényerejét</a></span>, és a számítógépet <span class="link"><a href="power-autosuspend.html" title="Automatikus felfüggesztés beállítása">automatikusan felfüggesztheti</a></span>, ha adott ideig nem használta.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.hu#suspend" title="Felfüggesztés">Függessze fel számítógépét</a></span>, amikor nem használja. Ez jelentősen csökkenti a felhasznált energiamennyiséget, és a számítógép ebből az állapotból nagyon gyorsan felébreszthető.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.hu#shutdown" title="Kikapcsolás vagy újraindítás">Kapcsolja ki</a></span> a számítógépet, ha hosszabb ideig nem használja. Egyesek amiatt aggódnak, hogy a számítógép rendszeres kikapcsolása gyorsabb elhasználódást eredményez, de ez nem így van.</p></li>
+<li class="list"><p class="p">A <span class="app">Beállítások</span> <span class="gui">Energiagazdálkodás</span> panelén módosítsa energiagazdálkodási beállításait. Számos beállítás segíti az energiatakarékosságot: <span class="link"><a href="display-blank.html.hu" title="Képernyő-elsötétítés idejének megadása">automatikusan elsötétítheti a kijelzőt</a></span>, csökkentheti a <span class="link"><a href="display-brightness.html.hu" title="Képernyő fényerejének beállítása">kijelző fényerejét</a></span>, és a számítógépet <span class="link"><a href="power-autosuspend.html.hu" title="Automatikus felfüggesztés beállítása">automatikusan felfüggesztheti</a></span>, ha adott ideig nem használta.</p></li>
 <li class="list"><p class="p">Kapcsolja ki a külső eszközöket (például nyomtatókat és szkennereket), amikor nem használja azokat.</p></li>
 </ul></div></div></div></div></div>
 </div></div>
@@ -66,7 +66,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Laptopok, netbookok és más akkumulátoros eszközök</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Csökkentse a <span class="link"><a href="display-brightness.html" title="Képernyő fényerejének beállítása">kijelző fényerejét</a></span>. A kijelző a laptopok energiafelhasználásának jelentős részéért felelős.</p>
+<p class="p">Csökkentse a <span class="link"><a href="display-brightness.html.hu" title="Képernyő fényerejének beállítása">kijelző fényerejét</a></span>. A kijelző a laptopok energiafelhasználásának jelentős részéért felelős.</p>
 <p class="p">A laptopokon rendszerint találhatók a fényerő beállítására szolgáló gombok (vagy gyorsbillentyűk).</p>
 </li>
 <li class="list">
@@ -88,31 +88,31 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Akkumulátorállapot ellenőrzése">Akkumulátor állapot</a></span>, <span class="link"><a href="power-suspend.html" title="Mi történik a számítógép felfüggesztésekor?">felfüggesztés</a></span>, <span class="link"><a href="power-whydim.html" title="Miért halványul el a képernyőm egy idő után?">képernyő elhalványítása</a></span>…</span>
+<a href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a><span class="desc"> — <span class="link"><a href="power-status.html.hu" title="Akkumulátorállapot ellenőrzése">Akkumulátor állapot</a></span>, <span class="link"><a href="power-suspend.html.hu" title="Mi történik a számítógép felfüggesztésekor?">felfüggesztés</a></span>, <span class="link"><a href="power-whydim.html.hu" title="Miért halványul el a képernyőm egy idő után?">képernyő elhalványítása</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-status.html" title="Akkumulátorállapot ellenőrzése">Akkumulátorállapot ellenőrzése</a><span class="desc"> — Az akkumulátor és a csatlakoztatott eszközök állapotának megjelenítése.</span>
+<a href="power-status.html.hu" title="Akkumulátorállapot ellenőrzése">Akkumulátorállapot ellenőrzése</a><span class="desc"> — Az akkumulátor és a csatlakoztatott eszközök állapotának megjelenítése.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Felfüggesztés">Felfüggesztés</a></li>
-<li class="links "><a href="shell-exit.html#shutdown" title="Kikapcsolás vagy újraindítás">Kikapcsolás vagy újraindítás</a></li>
+<li class="links "><a href="shell-exit.html.hu#suspend" title="Felfüggesztés">Felfüggesztés</a></li>
+<li class="links "><a href="shell-exit.html.hu#shutdown" title="Kikapcsolás vagy újraindítás">Kikapcsolás vagy újraindítás</a></li>
 <li class="links ">
-<a href="display-brightness.html" title="Képernyő fényerejének beállítása">Képernyő fényerejének beállítása</a><span class="desc"> — Képernyő fényességének növelése az erős fényben való jobb olvashatóság érdekében.</span>
-</li>
-<li class="links ">
-<a href="power-suspend.html" title="Mi történik a számítógép felfüggesztésekor?">Mi történik a számítógép felfüggesztésekor?</a><span class="desc"> — A felfüggesztés alvó állapotba helyezi számítógépét, így az kevesebb energiát használ.</span>
+<a href="display-brightness.html.hu" title="Képernyő fényerejének beállítása">Képernyő fényerejének beállítása</a><span class="desc"> — Képernyő fényességének növelése az erős fényben való jobb olvashatóság érdekében.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="Miért halványul el a képernyőm egy idő után?">Miért halványul el a képernyőm egy idő után?</a><span class="desc"> — Üresjáratban a képernyő energiatakarékossági okból elhalványodik.</span>
+<a href="power-suspend.html.hu" title="Mi történik a számítógép felfüggesztésekor?">Mi történik a számítógép felfüggesztésekor?</a><span class="desc"> — A felfüggesztés alvó állapotba helyezi számítógépét, így az kevesebb energiát használ.</span>
 </li>
 <li class="links ">
-<a href="power-batterywindows.html" title="Miért rövidebb az akkumulátorom üzemideje, mint volt Windows/Mac OS használatakor?">Miért rövidebb az akkumulátorom üzemideje, mint volt Windows/Mac OS használatakor?</a><span class="desc"> — A gyártó finombeállításai és az akkumulátor-üzemidő eltérő becslése okozhatja ezt a problémát.</span>
+<a href="power-whydim.html.hu" title="Miért halványul el a képernyőm egy idő után?">Miért halványul el a képernyőm egy idő után?</a><span class="desc"> — Üresjáratban a képernyő energiatakarékossági okból elhalványodik.</span>
 </li>
 <li class="links ">
-<a href="power-wireless.html" title="Nem használt vezeték nélküli technológiák kikapcsolása">Nem használt vezeték nélküli technológiák kikapcsolása</a><span class="desc"> — Kikapcsolható a Bluetooth, Wi-Fi és a mobil széles sáv az akkumulátorhasználat csökkentéséhez.</span>
+<a href="power-batterywindows.html.hu" title="Miért rövidebb az akkumulátorom üzemideje, mint volt Windows/Mac OS használatakor?">Miért rövidebb az akkumulátorom üzemideje, mint volt Windows/Mac OS használatakor?</a><span class="desc"> — A gyártó finombeállításai és az akkumulátor-üzemidő eltérő becslése okozhatja ezt a problémát.</span>
+</li>
+<li class="links ">
+<a href="power-wireless.html.hu" title="Nem használt vezeték nélküli technológiák kikapcsolása">Nem használt vezeték nélküli technológiák kikapcsolása</a><span class="desc"> — Kikapcsolható a Bluetooth, Wi-Fi és a mobil széles sáv az akkumulátorhasználat csökkentéséhez.</span>
 </li>
 </ul></div>
 </div></div>

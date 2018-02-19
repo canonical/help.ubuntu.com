@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="accounts.html" title="Online fiókok">Online fiókok</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="accounts.html.hu" title="Online fiókok">Online fiókok</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fiók hozzáadása</span></h1></div>
@@ -51,23 +51,23 @@
 <div class="contents">
 <p class="p">A fiók hozzáadásával összekapcsolhatja online fiókjait a GNOME asztalával. Így az e-mail alkalmazása, csevegőalkalmazása és más kapcsolódó alkalmazásai automatikusan beállításra kerülnek.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni az <span class="gui">Online fiókok</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni az <span class="gui">Online fiókok</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Online fiókok</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Kattintson az ablak bal alsó sarkában lévő <span class="gui">+</span> gombra.</p></li>
 <li class="steps"><p class="p">Válassza ki a hozzáadni kívánt fiók típusát.</p></li>
 <li class="steps"><p class="p">Megnyílik egy kis weboldal ablak, amelyben megadhatja az online fiókjainak adatait. Ha például egy Google fiókot állít be, akkor adja meg a Google felhasználónevét és jelszavát. Néhány szolgáltató lehetővé teszi új fiók létrehozását a bejelentkezési ablakban.</p></li>
 <li class="steps"><p class="p">Ha helyesen adta meg hitelesítési adatait, akkor a program felkéri, hogy engedélyezze a GNOME számára az online fiókjának elérését. A folytatáshoz adja meg a hozzáférést.</p></li>
-<li class="steps"><p class="p">Minden, adott fiókszolgáltató által kínált szolgáltatás alapesetben engedélyezett, a fölösleges szolgáltatásokat egyenként <span class="link"><a href="accounts-disable-service.html" title="Egy fiók használatával elérhető online szolgáltatások beállítása">kapcsolja</a></span> <span class="gui">KI</span>.</p></li>
+<li class="steps"><p class="p">Minden, adott fiókszolgáltató által kínált szolgáltatás alapesetben engedélyezett, a fölösleges szolgáltatásokat egyenként <span class="link"><a href="accounts-disable-service.html.hu" title="Egy fiók használatával elérhető online szolgáltatások beállítása">kapcsolja</a></span> <span class="gui">KI</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Fiókok hozzáadása után az alkalmazások használhatják ezeket az Ön által engedélyezett szolgáltatásokhoz. Az engedélyezhető szolgáltatásokkal kapcsolatban nézze meg a <span class="link"><a href="accounts-disable-service.html" title="Egy fiók használatával elérhető online szolgáltatások beállítása">Egy fiók használatával elérhető online szolgáltatások beállítása</a></span> oldalt.</p>
-<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Számos online szolgáltató a jelszó helyett egy engedélyező jelsort biztosít, amit a GNOME tárol. Ha eltávolít egy fiókot, az online szolgáltatásban is vissza kell vonnia azt az engedélyt. További információkért lásd a <span class="link"><a href="accounts-remove.html" title="Fiók eltávolítása">Fiók eltávolítása</a></span> oldalt.</p></div></div></div></div>
+<p class="p">Fiókok hozzáadása után az alkalmazások használhatják ezeket az Ön által engedélyezett szolgáltatásokhoz. Az engedélyezhető szolgáltatásokkal kapcsolatban nézze meg a <span class="link"><a href="accounts-disable-service.html.hu" title="Egy fiók használatával elérhető online szolgáltatások beállítása">Egy fiók használatával elérhető online szolgáltatások beállítása</a></span> oldalt.</p>
+<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Számos online szolgáltató a jelszó helyett egy engedélyező jelsort biztosít, amit a GNOME tárol. Ha eltávolít egy fiókot, az online szolgáltatásban is vissza kell vonnia azt az engedélyt. További információkért lásd a <span class="link"><a href="accounts-remove.html.hu" title="Fiók eltávolítása">Fiók eltávolítása</a></span> oldalt.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Online fiókok">Online fiókok</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Fiók hozzáadása">Online fiók hozzáadása</a></span>, <span class="link"><a href="accounts-remove.html" title="Fiók eltávolítása">Fiók eltávolítása</a></span>, <span class="link"><a href="accounts-which-application.html" title="Online szolgáltatások és alkalmazások">Szolgáltatások megismerése</a></span>…</span>
+<a href="accounts.html.hu" title="Online fiókok">Online fiókok</a><span class="desc"> — <span class="link"><a href="accounts-add.html.hu" title="Fiók hozzáadása">Online fiók hozzáadása</a></span>, <span class="link"><a href="accounts-remove.html.hu" title="Fiók eltávolítása">Fiók eltávolítása</a></span>, <span class="link"><a href="accounts-which-application.html.hu" title="Online szolgáltatások és alkalmazások">Szolgáltatások megismerése</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

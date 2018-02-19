@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="mouse.html" title="Rato">Rato</a> › <a class="trail" href="mouse.html#tips" title="Consellos">Consellos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="mouse.html.gl-GL" title="Rato">Rato</a> › <a class="trail" href="mouse.html.gl-GL#tips" title="Consellos">Consellos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="tips.html" title="Consellos e trucos">Consellos e trucos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="tips.html.gl-GL" title="Consellos e trucos">Consellos e trucos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="mouse.html" title="Rato">Rato</a> › <a class="trail" href="mouse.html#tips" title="Consellos">Consellos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="mouse.html.gl-GL" title="Rato">Rato</a> › <a class="trail" href="mouse.html.gl-GL#tips" title="Consellos">Consellos</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@ with a scroll wheel, you can usually press directly down on the scroll
 wheel to middle-click. If you don’t have a middle mouse button, you
 can press the left and right mouse buttons at the same time to
 middle-click.</p>
-<p class="p">En «áreas táctiles» que sexan multitáctiles pode premer con tres dedos á vez para realizar unha pulsación co botón do medio. Para que isto funcione, debe activar <span class="link"><a href="mouse-touchpad-click.html" title="Premer, arrastrar e desprazarse coa súa área táctil">Activar pulsacións do rato coa área táctil</a></span> na configuración da área táctil.</p>
+<p class="p">En «áreas táctiles» que sexan multitáctiles pode premer con tres dedos á vez para realizar unha pulsación co botón do medio. Para que isto funcione, debe activar <span class="link"><a href="mouse-touchpad-click.html.gl-GL" title="Premer, arrastrar e desprazarse coa súa área táctil">Activar pulsacións do rato coa área táctil</a></span> na configuración da área táctil.</p>
 <p class="p">Moitos aplicativos usan a pulsación central para atallos de pulsación avanzados.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
@@ -82,9 +82,9 @@ button for other functions. Search your application’s help for
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="mouse.html#tips" title="Consellos">Configuración do rato</a></li>
+<li class="links "><a href="mouse.html.gl-GL#tips" title="Consellos">Configuración do rato</a></li>
 <li class="links ">
-<a href="tips.html" title="Consellos e trucos">Consellos e trucos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Inserir caracteres especiais">Caracteres especiais</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Clic central">atallos de botón do medio</a></span>…</span>
+<a href="tips.html.gl-GL" title="Consellos e trucos">Consellos e trucos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.gl-GL" title="Inserir caracteres especiais">Caracteres especiais</a></span>, <span class="link"><a href="mouse-middleclick.html.gl-GL" title="Clic central">atallos de botón do medio</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

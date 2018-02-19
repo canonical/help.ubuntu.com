@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="printing.html" title="Utskrifter">Utskrifter</a> › <a class="trail" href="printing.html#setup" title="Ställ in en skrivare">Inställning</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="printing.html.sv" title="Utskrifter">Utskrifter</a> › <a class="trail" href="printing.html.sv#setup" title="Ställ in en skrivare">Inställning</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ställ in en lokal skrivare</span></h1></div>
@@ -58,26 +58,26 @@
 </ol></div></div></div>
 <p class="p">Om din skrivare inte ställdes in automatiskt kan du lägga till den bland skrivarinställningarna:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skrivare</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skrivare</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Skrivare</span>.</p></li>
 <li class="steps"><p class="p">Klicka på knappen <span class="gui">Lås upp</span> i övre högra hörnet och mata in ditt lösenord.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">+</span>-knappen.</p></li>
 <li class="steps"><p class="p">I fönstret som poppar upp, välj din nya skrivare. Klicka på <span class="gui">Lägg till</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Om din skrivare inte visas i fönstret Lägg till en ny skrivare, kan du behöva installera skrivardrivrutiner.</p>
-<p class="p">Efter att du installerat skrivaren, kan det vara bra att <span class="link"><a href="printing-setup-default-printer.html" title="Ställ in standardskrivaren">ändra din standardskrivare</a></span>.</p>
+<p class="p">Efter att du installerat skrivaren, kan det vara bra att <span class="link"><a href="printing-setup-default-printer.html.sv" title="Ställ in standardskrivaren">ändra din standardskrivare</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Ställ in en skrivare">Ställ in en skrivare</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.sv#setup" title="Ställ in en skrivare">Ställ in en skrivare</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-setup-default-printer.html" title="Ställ in standardskrivaren">Ställ in standardskrivaren</a><span class="desc"> — Välj skrivaren som du använder oftast.</span>
+<a href="printing-setup-default-printer.html.sv" title="Ställ in standardskrivaren">Ställ in standardskrivaren</a><span class="desc"> — Välj skrivaren som du använder oftast.</span>
 </li></ul></div>
 </div></div>
 </div>

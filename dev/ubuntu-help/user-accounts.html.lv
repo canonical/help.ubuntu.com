@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Lietotāju konti</span></h1></div>
@@ -53,30 +53,30 @@
 <div class="hgroup"><h2 class="title"><span class="title">Pārvaldīt lietotāju kontus</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Pievienot jaunu lietotāja kontu"><span class="title">Pievienot jaunu lietotāja kontu</span><span class="linkdiv-dash"> — </span><span class="desc">Pievienot jaunus lietotājus, lai cilvēki varētu ierakstīties sistēmā un lietot datoru.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Dzēst lietotāja kontu"><span class="title">Dzēst lietotāja kontu</span><span class="linkdiv-dash"> — </span><span class="desc">Izņemt no sistēmas lietotājus, kas datoru vairs neizmanto.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-add.html.lv" title="Pievienot jaunu lietotāja kontu"><span class="title">Pievienot jaunu lietotāja kontu</span><span class="linkdiv-dash"> — </span><span class="desc">Pievienot jaunus lietotājus, lai cilvēki varētu ierakstīties sistēmā un lietot datoru.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html.lv" title="Dzēst lietotāja kontu"><span class="title">Dzēst lietotāja kontu</span><span class="linkdiv-dash"> — </span><span class="desc">Izņemt no sistēmas lietotājus, kas datoru vairs neizmanto.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Ierakstīties automātiski"><span class="title">Ierakstīties automātiski</span><span class="linkdiv-dash"> — </span><span class="desc">Iestatīt automātisku ierakstīšanos, ieslēdzot datoru.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Nomainīt ierakstīšanās ekrāna attēlu"><span class="title">Nomainīt ierakstīšanās ekrāna attēlu</span><span class="linkdiv-dash"> — </span><span class="desc">Pievienot savu fotogrāfiju ierakstīšanās un lietotāju ekrāniem.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html.lv" title="Ierakstīties automātiski"><span class="title">Ierakstīties automātiski</span><span class="linkdiv-dash"> — </span><span class="desc">Iestatīt automātisku ierakstīšanos, ieslēdzot datoru.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html.lv" title="Nomainīt ierakstīšanās ekrāna attēlu"><span class="title">Nomainīt ierakstīšanās ekrāna attēlu</span><span class="linkdiv-dash"> — </span><span class="desc">Pievienot savu fotogrāfiju ierakstīšanās un lietotāju ekrāniem.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="passwords" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Paroles</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html" title="Izvēlēties drošu paroli"><span class="title">Izvēlēties drošu paroli</span><span class="linkdiv-dash"> — </span><span class="desc">Izmantojiet garākas, sarežģītākas paroles.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html" title="Nomainīt paroli"><span class="title">Nomainīt paroli</span><span class="linkdiv-dash"> — </span><span class="desc">Uzturiet sava konta drošību, bieži nomainot paroli konta iestatījumos.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html.lv" title="Izvēlēties drošu paroli"><span class="title">Izvēlēties drošu paroli</span><span class="linkdiv-dash"> — </span><span class="desc">Izmantojiet garākas, sarežģītākas paroles.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html.lv" title="Nomainīt paroli"><span class="title">Nomainīt paroli</span><span class="linkdiv-dash"> — </span><span class="desc">Uzturiet sava konta drošību, bieži nomainot paroli konta iestatījumos.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="privileges" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Lietotāju tiesības</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html" title="Kā strādā administratīvās tiesības?"><span class="title">Kā strādā administratīvās tiesības?</span><span class="linkdiv-dash"> — </span><span class="desc">Administratora tiesības vajadzīgas, lai veiktu nopietnas izmaiņas sistēmā.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html" title="Piešķirt vai noņemt administratīvās tiesības"><span class="title">Piešķirt vai noņemt administratīvās tiesības</span><span class="linkdiv-dash"> — </span><span class="desc">Jūs varat ļaut lietotājiem veikt izmaiņas sistēmā, piešķirot viņiem administratīvās tiesības.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.lv" title="Kā strādā administratīvās tiesības?"><span class="title">Kā strādā administratīvās tiesības?</span><span class="linkdiv-dash"> — </span><span class="desc">Administratora tiesības vajadzīgas, lai veiktu nopietnas izmaiņas sistēmā.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.lv" title="Piešķirt vai noņemt administratīvās tiesības"><span class="title">Piešķirt vai noņemt administratīvās tiesības</span><span class="linkdiv-dash"> — </span><span class="desc">Jūs varat ļaut lietotājiem veikt izmaiņas sistēmā, piešķirot viņiem administratīvās tiesības.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html" title="Problēmas, ko izraisa administratīvie ierobežojumi"><span class="title">Problēmas, ko izraisa administratīvie ierobežojumi</span><span class="linkdiv-dash"> — </span><span class="desc">Dažas darbības, piemēram, lietotņu instalēšanu, iespējams veikt tikai ar administratora tiesībām.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.lv" title="Problēmas, ko izraisa administratīvie ierobežojumi"><span class="title">Problēmas, ko izraisa administratīvie ierobežojumi</span><span class="linkdiv-dash"> — </span><span class="desc">Dažas darbības, piemēram, lietotņu instalēšanu, iespējams veikt tikai ar administratora tiesībām.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -84,7 +84,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Lietotājs un sistēmas iestatījumi</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tastatūra">Tastatūra</a></span>, <span class="link"><a href="mouse.html" title="Pele">pele</a></span>, <span class="link"><a href="prefs-display.html" title="Displejs un ekrāns">displejs</a></span>, <span class="link"><a href="prefs-language.html" title="Vieta un valoda">valodas</a></span>, <span class="link"><a href="user-accounts.html" title="Lietotāju konti">lietotāju konti</a></span>…</span>
+<a href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Lietotājs un sistēmas iestatījumi</a><span class="desc"> — <span class="link"><a href="keyboard.html.lv" title="Tastatūra">Tastatūra</a></span>, <span class="link"><a href="mouse.html.lv" title="Pele">pele</a></span>, <span class="link"><a href="prefs-display.html.lv" title="Displejs un ekrāns">displejs</a></span>, <span class="link"><a href="prefs-language.html.lv" title="Vieta un valoda">valodas</a></span>, <span class="link"><a href="user-accounts.html.lv" title="Lietotāju konti">lietotāju konti</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Contas em linha</span></h1></div>
@@ -51,12 +51,12 @@
 <div class="contents">
 <p class="p">Pode introduzir seus dados de início de sessão para alguns serviços em linha como Google e Facebook na janela de <span class="app">Contas em linha</span>. Isto lhe permite usar aplicações para aceder a serviços em linha como calendário, e-mail, contas de chat e documentos.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="accounts-add.html" title="Acrescentar uma conta"><span class="title">Acrescentar uma conta</span><span class="linkdiv-dash"> — </span><span class="desc">Permitir aos aplicações aceder a suas contas em linha para fotos, contactos, calendários e mais.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html" title="Tirar uma conta"><span class="title">Tirar uma conta</span><span class="linkdiv-dash"> — </span><span class="desc">Eliminar o acesso a um provedor de serviços em linha desde seus aplicações.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html" title="Por que deveria acrescentar uma conta?"><span class="title">Por que deveria acrescentar uma conta?</span><span class="linkdiv-dash"> — </span><span class="desc">Pára que acrescentar a sua conta de e-mail ou suas contas de redes sociais a seu escritório?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html" title="Controlar que serviços em linha pode usar uma conta para aceder"><span class="title">Controlar que serviços em linha pode usar uma conta para aceder</span><span class="linkdiv-dash"> — </span><span class="desc">Algumas contas em linha podem-se usar para aceder a vários serviços (como o calendário e o correio). Pode controlar quais desses serviços podem usar as aplicações.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html" title="Por que não parece meu tipo de conta na lista?"><span class="title">Por que não parece meu tipo de conta na lista?</span><span class="linkdiv-dash"> — </span><span class="desc">Que passa se o provedor do serviço em linha não aparece na lista?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html" title="Serviços e aplicações em linha"><span class="title">Serviços e aplicações em linha</span><span class="linkdiv-dash"> — </span><span class="desc">Aplicações que podem usar as contas criadas em <span class="app">Contas em linha</span> e os serviços que podem usar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.pt" title="Acrescentar uma conta"><span class="title">Acrescentar uma conta</span><span class="linkdiv-dash"> — </span><span class="desc">Permitir aos aplicações aceder a suas contas em linha para fotos, contactos, calendários e mais.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.pt" title="Tirar uma conta"><span class="title">Tirar uma conta</span><span class="linkdiv-dash"> — </span><span class="desc">Eliminar o acesso a um provedor de serviços em linha desde seus aplicações.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.pt" title="Por que deveria acrescentar uma conta?"><span class="title">Por que deveria acrescentar uma conta?</span><span class="linkdiv-dash"> — </span><span class="desc">Pára que acrescentar a sua conta de e-mail ou suas contas de redes sociais a seu escritório?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.pt" title="Controlar que serviços em linha pode usar uma conta para aceder"><span class="title">Controlar que serviços em linha pode usar uma conta para aceder</span><span class="linkdiv-dash"> — </span><span class="desc">Algumas contas em linha podem-se usar para aceder a vários serviços (como o calendário e o correio). Pode controlar quais desses serviços podem usar as aplicações.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html.pt" title="Por que não parece meu tipo de conta na lista?"><span class="title">Por que não parece meu tipo de conta na lista?</span><span class="linkdiv-dash"> — </span><span class="desc">Que passa se o provedor do serviço em linha não aparece na lista?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.pt" title="Serviços e aplicações em linha"><span class="title">Serviços e aplicações em linha</span><span class="linkdiv-dash"> — </span><span class="desc">Aplicações que podem usar as contas criadas em <span class="app">Contas em linha</span> e os serviços que podem usar.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -65,20 +65,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Utente e configuração do sistema">Utente e configuração do sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html" title="Rato">rato</a></span>, <span class="link"><a href="prefs-display.html" title="Ecrã">ecrã</a></span>, <span class="link"><a href="prefs-language.html" title="Região e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html" title="Contas de utilizador">contas de utilizador</a></span>…</span>
+<a href="prefs.html.pt" title="Utente e configuração do sistema">Utente e configuração do sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.pt" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html.pt" title="Rato">rato</a></span>, <span class="link"><a href="prefs-display.html.pt" title="Ecrã">ecrã</a></span>, <span class="link"><a href="prefs-language.html.pt" title="Região e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html.pt" title="Contas de utilizador">contas de utilizador</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat.html" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Video calls">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="How can I use Skype on Ubuntu?">install skype</a></span>
+<a href="net-chat.html.pt" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.pt" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.pt" title="Video calls">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.pt" title="How can I use Skype on Ubuntu?">install skype</a></span>
     </span>
 </li>
-<li class="links "><a href="gs-connect-online-accounts.html" title="Ligar a contas online">Um tutorial sobre a ligação a contas online</a></li>
+<li class="links "><a href="gs-connect-online-accounts.html.pt" title="Ligar a contas online">Um tutorial sobre a ligação a contas online</a></li>
 </ul></div>
 </div></div>
 </div>

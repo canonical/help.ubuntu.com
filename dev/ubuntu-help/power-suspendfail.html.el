@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="power.html#problems" title="Προβλήματα">Προβλήματα ενέργειας</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="power.html.el#problems" title="Προβλήματα">Προβλήματα ενέργειας</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="hardware-problems-graphics.html" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="hardware-problems-graphics.html.el" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Αν <span class="link"><a href="power-suspend.html" title="Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;">αναστείλετε</a></span> τον υπολογιστή σας, και έπειτα προσπαθείτε να τον ανοίξετε, μπορεί να βρείτε πως δεν λειτουργεί όπως πρέπει. Αυτό μπορεί να συμβαίνει διότι η αναστολή του δεν υποστηρίζεται σωστά από το υλικό του υπολογιστή.</p></div>
+<div class="contents"><p class="p">Αν <span class="link"><a href="power-suspend.html.el" title="Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;">αναστείλετε</a></span> τον υπολογιστή σας, και έπειτα προσπαθείτε να τον ανοίξετε, μπορεί να βρείτε πως δεν λειτουργεί όπως πρέπει. Αυτό μπορεί να συμβαίνει διότι η αναστολή του δεν υποστηρίζεται σωστά από το υλικό του υπολογιστή.</p></div>
 <div id="resume" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ο υπολογιστής μου ανεστάλη και δεν συνεχίζει</span></h2></div>
 <div class="region"><div class="contents">
@@ -67,7 +67,7 @@
 <div id="hardware" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Η ασύρματη σύνδεση (ή άλλο υλικό) δεν δουλεύει όταν ξεκινά ο υπολογιστής μου</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Εάν αναστείλετε ή αδρανοποιήσετε τον υπολογιστή σας και έπειτα συνεχίσετε ξανά, ίσως βρείτε ότι η σύνδεση στο διαδίκτυο, το ποντίκι ή κάποια άλλη συσκευή δεν δουλεύει σωστά. Αυτό μπορεί να συμβαίνει επειδή ο οδηγός λογισμικού για τη συσκευή δεν υποστηρίζει σωστά την αναστολή ή την αδρανοποίηση. Αυτό είναι ένα <span class="link"><a href="hardware-driver.html" title="Τι είναι ένας οδηγός;">πρόβλημα με τον οδηγό</a></span> και όχι με την ίδια τη συσκευή.</p>
+<p class="p">Εάν αναστείλετε ή αδρανοποιήσετε τον υπολογιστή σας και έπειτα συνεχίσετε ξανά, ίσως βρείτε ότι η σύνδεση στο διαδίκτυο, το ποντίκι ή κάποια άλλη συσκευή δεν δουλεύει σωστά. Αυτό μπορεί να συμβαίνει επειδή ο οδηγός λογισμικού για τη συσκευή δεν υποστηρίζει σωστά την αναστολή ή την αδρανοποίηση. Αυτό είναι ένα <span class="link"><a href="hardware-driver.html.el" title="Τι είναι ένας οδηγός;">πρόβλημα με τον οδηγό</a></span> και όχι με την ίδια τη συσκευή.</p>
 <p class="p">Εάν η συσκευή έχει ένα διακόπτη ισχύος, δοκιμάστε απενεργοποίηση και μετά επανεργοποίηση. Στις περισσότερες περιπτώσεις, η συσκευή θα αρχίσει να δουλεύει πάλι. Εάν συνδέεται μέσα από ένα καλώδιο USB ή παρόμοιο, αποσυνδέστε τη συσκευή και έπειτα συνδέστε την πάλι και δείτε εάν δουλεύει.</p>
 <p class="p">Εάν δεν μπορείτε να κλείσετε ή να αποσυνδέσετε τη συσκευή, ή εάν αυτό δεν δουλεύει, ίσως χρειαστεί να επανεκκινήσετε τον υπολογιστή σας για να ξεκινήσει να δουλεύει η συσκευή ξανά.</p>
 </div></div>
@@ -79,10 +79,10 @@
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power.html#problems" title="Προβλήματα">Προβλήματα ενέργειας</a><span class="desc"> — Ανίχνευση προβλημάτων με την ισχύ και τις μπαταρίες.</span>
+<a href="power.html.el#problems" title="Προβλήματα">Προβλήματα ενέργειας</a><span class="desc"> — Ανίχνευση προβλημάτων με την ισχύ και τις μπαταρίες.</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a><span class="desc"> — Λύστε προβλήματα οθόνης και γραφικών.</span>
+<a href="hardware-problems-graphics.html.el" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a><span class="desc"> — Λύστε προβλήματα οθόνης και γραφικών.</span>
 </li>
 </ul></div>
 </div></div>
@@ -90,19 +90,19 @@
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-closelid.html" title="Γιατί ο υπολογιστής μου απενεργοποιείται όταν κλείνω το καπάκι;">Γιατί ο υπολογιστής μου απενεργοποιείται όταν κλείνω το καπάκι;</a><span class="desc"> — Οι φορητοί υπολογιστές αδρανοποιούνται όταν κλείνετε το καπάκι, για να αποθηκεύσουν ισχύ.</span>
+<a href="power-closelid.html.el" title="Γιατί ο υπολογιστής μου απενεργοποιείται όταν κλείνω το καπάκι;">Γιατί ο υπολογιστής μου απενεργοποιείται όταν κλείνω το καπάκι;</a><span class="desc"> — Οι φορητοί υπολογιστές αδρανοποιούνται όταν κλείνετε το καπάκι, για να αποθηκεύσουν ισχύ.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="Δεν έχω ασύρματο δίκτυο όταν εκκινώ τον υπολογιστή μου">Δεν έχω ασύρματο δίκτυο όταν εκκινώ τον υπολογιστή μου</a><span class="desc"> — Μερικές ασύρματες συσκευές έχουν προβλήματα χειρισμού όταν ο υπολογιστής σας αναστέλλεται και δεν συνεχίζει σωστά.</span>
+<a href="power-nowireless.html.el" title="Δεν έχω ασύρματο δίκτυο όταν εκκινώ τον υπολογιστή μου">Δεν έχω ασύρματο δίκτυο όταν εκκινώ τον υπολογιστή μου</a><span class="desc"> — Μερικές ασύρματες συσκευές έχουν προβλήματα χειρισμού όταν ο υπολογιστής σας αναστέλλεται και δεν συνεχίζει σωστά.</span>
 </li>
 <li class="links ">
-<a href="power-hibernate.html" title="Πώς μπορώ να κάνω αδρανοποίηση του υπολογιστή μου;">Πώς μπορώ να κάνω αδρανοποίηση του υπολογιστή μου;</a><span class="desc"> — Η αδρανοποίηση του υπολογιστή είναι απενεργοποιημένη από προεπιλογή αφού δεν υποστηρίζεται ικανοποιητικά.</span>
+<a href="power-hibernate.html.el" title="Πώς μπορώ να κάνω αδρανοποίηση του υπολογιστή μου;">Πώς μπορώ να κάνω αδρανοποίηση του υπολογιστή μου;</a><span class="desc"> — Η αδρανοποίηση του υπολογιστή είναι απενεργοποιημένη από προεπιλογή αφού δεν υποστηρίζεται ικανοποιητικά.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="Τι είναι ένας οδηγός;">Τι είναι ένας οδηγός;</a><span class="desc"> — Ένας οδηγός υλικού/συσκευής επιτρέπει στον υπολογιστή σας να χρησιμοποιήσει συσκευές που προσαρτώνται σε αυτόν.</span>
+<a href="hardware-driver.html.el" title="Τι είναι ένας οδηγός;">Τι είναι ένας οδηγός;</a><span class="desc"> — Ένας οδηγός υλικού/συσκευής επιτρέπει στον υπολογιστή σας να χρησιμοποιήσει συσκευές που προσαρτώνται σε αυτόν.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;">Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;</a><span class="desc"> — Η αναστολή στέλνει τον υπολογιστή σας σε ύπνο, έτσι ώστε χρησιμοποιεί λιγότερη ισχύ.</span>
+<a href="power-suspend.html.el" title="Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;">Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;</a><span class="desc"> — Η αναστολή στέλνει τον υπολογιστή σας σε ύπνο, έτσι ώστε χρησιμοποιεί λιγότερη ισχύ.</span>
 </li>
 </ul></div>
 </div></div>

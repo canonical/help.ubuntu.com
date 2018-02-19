@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-security.html" title="Сачувајте безбедност на интернету">Сачувајте безбедност на интернету</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-security.html.sr" title="Сачувајте безбедност на интернету">Сачувајте безбедност на интернету</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Да ли ми је потребан анти-вирус?</span></h1></div>
@@ -60,13 +60,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Сачувајте безбедност на интернету">Сачувајте безбедност на интернету</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Да ли ми је потребан анти-вирус?">Антивирусни програми</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Укључите или блокирајте приступ мрежне баријере">основне мрежне баријере</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Уопштено коришћени мрежни прикључци">прикључници мрежне баријере</a></span>…</span>
+<a href="net-security.html.sr" title="Сачувајте безбедност на интернету">Сачувајте безбедност на интернету</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.sr" title="Да ли ми је потребан анти-вирус?">Антивирусни програми</a></span>, <span class="link"><a href="net-firewall-on-off.html.sr" title="Укључите или блокирајте приступ мрежне баријере">основне мрежне баријере</a></span>, <span class="link"><a href="net-firewall-ports.html.sr" title="Уопштено коришћени мрежни прикључци">прикључници мрежне баријере</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email-virus.html" title="Да ли требам да прегледам моју пошту за вирусима?">Да ли требам да прегледам моју пошту за вирусима?</a><span class="desc"> — Мало је вероватно да ће вируси да заразе ваш рачунар, али би могли да заразе рачунаре оних људи којима шаљете е-пошту.</span>
+<a href="net-email-virus.html.sr" title="Да ли требам да прегледам моју пошту за вирусима?">Да ли требам да прегледам моју пошту за вирусима?</a><span class="desc"> — Мало је вероватно да ће вируси да заразе ваш рачунар, али би могли да заразе рачунаре оних људи којима шаљете е-пошту.</span>
 </li></ul></div>
 </div></div>
 </div>

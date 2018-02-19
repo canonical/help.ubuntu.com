@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html#apps" title="Програми и прозори">Програми и прозори</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.sr" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html.sr#apps" title="Програми и прозори">Програми и прозори</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -69,9 +69,9 @@
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html" title="Кориснички налози">кориснички налози</a></span>…</span>
+<a href="prefs.html.sr" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html.sr" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html.sr" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html.sr" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html.sr" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html.sr" title="Кориснички налози">кориснички налози</a></span>…</span>
 </li>
-<li class="links "><a href="shell-overview.html#apps" title="Програми и прозори">Програми и прозори</a></li>
+<li class="links "><a href="shell-overview.html.sr#apps" title="Програми и прозори">Програми и прозори</a></li>
 </ul></div>
 </div></div></div>
 </div>

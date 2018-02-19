@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="accounts.html" title="Сетевые учётные записи">Сетевые учётные записи</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="accounts.html.ru" title="Сетевые учётные записи">Сетевые учётные записи</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Добавление учётной записи</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Добавление учётной записи поможет связать ваши сетевые учётные записи с рабочей средой GNOME. Как результат, вы получите автоматически настроенный почтовый клиент, чат и другие соответствующие приложения.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Online Accounts</span>.</p></li>
 <li class="steps"><p class="p">Нажмите на <span class="gui">Сетевые учётные записи</span>, чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Нажмите кнопку <span class="key"><kbd>+</kbd></span> в левом нижнем углу окна.</p></li>
@@ -61,14 +61,14 @@
       account, enter your Google username and password. Some providers allow
       you to create a new account from the login dialog.</p></li>
 <li class="steps"><p class="p">Если идентификационная информация введена правильно, вам будет предложено разрешить GNOME доступ к сетевой учётной записи. Разрешите доступ, чтобы продолжить.</p></li>
-<li class="steps"><p class="p">Все сервисы, предоставляемые поставщиком учётной записи будут включены по умолчанию. <span class="link"><a href="accounts-disable-service.html" title="К каким сетевым сервисам разрешён доступ с помощью учётной записи.">Переключите</a></span> отдельные услуги в положение <span class="gui">Выключено</span>, чтобы сделать их недоступными.</p></li>
+<li class="steps"><p class="p">Все сервисы, предоставляемые поставщиком учётной записи будут включены по умолчанию. <span class="link"><a href="accounts-disable-service.html.ru" title="К каким сетевым сервисам разрешён доступ с помощью учётной записи.">Переключите</a></span> отдельные услуги в положение <span class="gui">Выключено</span>, чтобы сделать их недоступными.</p></li>
 </ol></div></div></div>
 <p class="p">After you have added accounts, applications can use those accounts for
-  the services you have chosen to allow. See <span class="link"><a href="accounts-disable-service.html" title="К каким сетевым сервисам разрешён доступ с помощью учётной записи.">К каким сетевым сервисам разрешён доступ с помощью учётной записи.</a></span>
+  the services you have chosen to allow. See <span class="link"><a href="accounts-disable-service.html.ru" title="К каким сетевым сервисам разрешён доступ с помощью учётной записи.">К каким сетевым сервисам разрешён доступ с помощью учётной записи.</a></span>
   for information on controlling which services to allow.</p>
 <div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">Many online services provide an authorization token which GNOME stores
     instead of your password. If you remove an account, you should also revoke
-    that certificate in the online service. See <span class="link"><a href="accounts-remove.html" title="Удаление учётной записи">Удаление учётной записи</a></span>
+    that certificate in the online service. See <span class="link"><a href="accounts-remove.html.ru" title="Удаление учётной записи">Удаление учётной записи</a></span>
     for more information.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -76,10 +76,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Сетевые учётные записи">Сетевые учётные записи</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Добавление учётной записи">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Удаление учётной записи">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.ru" title="Сетевые учётные записи">Сетевые учётные записи</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.ru" title="Добавление учётной записи">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.ru" title="Удаление учётной записи">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.ru" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

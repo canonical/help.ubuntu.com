@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html" title="Problemas do ecrã">Problemas do ecrã</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.pt#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html.pt" title="Problemas do ecrã">Problemas do ecrã</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Por que parece que o que há em meu ecrã está difuso ou pixelado?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Isto pode suceder porque a resolução de ecrã que tem definido não é o mais adequado para seu ecrã.</p>
-<p class="p">Para solucionar este problema, abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">atividades</a></span> e comece a escrever <span class="gui">Ecrãs</span>. Carregue em <span class="gui">Ecrãs</span> para abrir o painel. Experimente algumas das opções de <span class="gui">Resolução</span> e estabeleça a que faça que se veja melhor o ecrã.</p>
+<p class="p">Para solucionar este problema, abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">atividades</a></span> e comece a escrever <span class="gui">Ecrãs</span>. Carregue em <span class="gui">Ecrãs</span> para abrir o painel. Experimente algumas das opções de <span class="gui">Resolução</span> e estabeleça a que faça que se veja melhor o ecrã.</p>
 </div>
 <div id="multihead" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Quando há vários monitores ligadas</span></h2></div>
@@ -62,7 +62,7 @@
 <p class="p">É possível fazer que os dois ecrãs tenham diferente resolução, mas então não poderá visualizar o mesmo em ambas ecrãs simultáneamente. De fato, tendria dois ecrãs independentes conetadas ao mesmo tempo. Pode mover janelas dum ecrã à outra, mas não poderá mostrar a mesma janela em ambas ecrãs ao mesmo tempo.</p>
 <p class="p">Para configurar os ecrãs, para que a cada uma tenha a sua propria resolução:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Ecrãs</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Ecrãs</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Ecrãs</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Os ecrãs devem aparece <span class="gui">Em espelho</span>. Selecione seu ecrã principal.</p></li>
 <li class="steps"><p class="p">Selecione <span class="gui">Primária</span> na lista de configurações de ecrã e carregue <span class="gui">Aplicar</span> para guardar.</p></li>
@@ -76,13 +76,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-problems-graphics.html" title="Problemas do ecrã">Problemas do ecrã</a><span class="desc"> — Resolução de problemas de ecrã e gráficos.</span>
+<a href="hardware-problems-graphics.html.pt" title="Problemas do ecrã">Problemas do ecrã</a><span class="desc"> — Resolução de problemas de ecrã e gráficos.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-resolution.html" title="Mudar a resolução ou a rotação do ecrã">Mudar a resolução ou a rotação do ecrã</a><span class="desc"> — Mudar a resolução do ecrã e a sua orientação (rotação).</span>
+<a href="look-resolution.html.pt" title="Mudar a resolução ou a rotação do ecrã">Mudar a resolução ou a rotação do ecrã</a><span class="desc"> — Mudar a resolução do ecrã e a sua orientação (rotação).</span>
 </li></ul></div>
 </div></div>
 </div>

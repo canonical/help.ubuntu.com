@@ -43,15 +43,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="通用辅助功能">通用辅助功能</a> › <a class="trail" href="a11y.html#vision" title="视觉障碍">视觉障碍</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.zh-CN" title="通用辅助功能">通用辅助功能</a> › <a class="trail" href="a11y.html.zh-CN#vision" title="视觉障碍">视觉障碍</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Magnify a screen area</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">屏幕放大镜跟放大<span class="link"><a href="a11y-font-size.html" title="更改屏幕上的文字大小">字号</a></span>有所不同，这个特性就像一个玻璃放大镜，可以移动放大不同的屏幕区域。</p>
+<p class="p">屏幕放大镜跟放大<span class="link"><a href="a11y-font-size.html.zh-CN" title="更改屏幕上的文字大小">字号</a></span>有所不同，这个特性就像一个玻璃放大镜，可以移动放大不同的屏幕区域。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press on <span class="gui">Zoom</span> in the <span class="gui">Seeing</span> section.</p></li>
@@ -59,7 +59,7 @@
       <span class="gui">Zoom Options</span> window.</p></li>
 </ol></div></div></div>
 <p class="p">您可以移动放大的屏幕区域，把鼠标移到屏幕不同区域，就可以放大那里，您可以查看放大的区域。</p>
-<div class="note note-tip" title="提示"><div class="inner"><div class="region"><div class="contents"><p class="p">您可以在顶部面板上的<span class="link"><a href="a11y-icon.html" title="找到辅助功能菜单">辅助功能图标</a></span>中，快速启用或关闭<span class="gui">缩放</span>特性。</p></div></div></div></div>
+<div class="note note-tip" title="提示"><div class="inner"><div class="region"><div class="contents"><p class="p">您可以在顶部面板上的<span class="link"><a href="a11y-icon.html.zh-CN" title="找到辅助功能菜单">辅助功能图标</a></span>中，快速启用或关闭<span class="gui">缩放</span>特性。</p></div></div></div></div>
 <p class="p">You can change the magnification factor, the mouse tracking, and the
   position of the magnified view on the screen. Adjust these in the
   <span class="gui">Magnifier</span> tab of the <span class="gui">Zoom Options</span> window.</p>
@@ -77,7 +77,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="视觉障碍">视觉障碍</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.zh-CN#vision" title="视觉障碍">视觉障碍</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

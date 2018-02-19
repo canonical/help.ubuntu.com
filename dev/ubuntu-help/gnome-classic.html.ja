@@ -49,10 +49,10 @@
 <div class="contents">
 <p class="p"><span class="em">GNOME クラシック</span> とは、旧来型のデスクトップ体験を好むユーザー向けの機能です。<span class="em">GNOME クラシック</span> は <span class="em">GNOME 3</span> の技術をベースとしていますが、ユーザーインターフェースに多くの変更を加えています。たとえば、トップバーの<span class="gui">アプリケーション</span>メニューや<span class="gui">場所</span>メニュー、画面最下部のウィンドウ一覧などが使用できます。</p>
 <p class="p">You can use the <span class="gui">Applications</span> menu on the top bar to launch
- applications. The <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span>
+ applications. The <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span>
  overview is available by selecting the <span class="gui">Activities
  Overview</span> item from the menu.</p>
-<p class="p"><span class="em"><span class="gui">アクティビティ</span>画面</span>は、<span class="key"><a href="keyboard-key-super.html" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span> キーを押して表示することもできます。</p>
+<p class="p"><span class="em"><span class="gui">アクティビティ</span>画面</span>は、<span class="key"><a href="keyboard-key-super.html.ja" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span> キーを押して表示することもできます。</p>
 </div>
 <div id="gnome-classic-window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">ウィンドウ一覧</span></h2></div>

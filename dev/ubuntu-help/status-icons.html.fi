@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Työpöytäsi">Työpöytä</a> › <a class="trail" href="shell-overview.html#apps" title="Sovellukset ja ikkunat">Sovellukset ja ikkunat</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.fi" title="Työpöytäsi">Työpöytä</a> › <a class="trail" href="shell-overview.html.fi#apps" title="Sovellukset ja ikkunat">Sovellukset ja ikkunat</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mitä kuvakkeet yläpalkissa tarkoittavat?</span></h1></div>
@@ -52,11 +52,11 @@
 <p class="p">This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the GNOME interface are described.</p>
 <div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="Gnome-työpöydän yläpalkki"></div></div>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="status-icons.html#universalicons" title="Esteettömyysvalikon kuvakkeet">Esteettömyysvalikon kuvakkeet</a></li>
-<li class="links "><a href="status-icons.html#audioicons" title="Äänenvoimakkuuden kuvakkeet">Äänenvoimakkuuden kuvakkeet</a></li>
-<li class="links "><a href="status-icons.html#bluetoothicons" title="Bluetooth-hallinnan kuvakkeet">Bluetooth-hallinnan kuvakkeet</a></li>
-<li class="links "><a href="status-icons.html#networkicons" title="Verkonhallinnan kuvakkeet">Verkonhallinnan kuvakkeet</a></li>
-<li class="links "><a href="status-icons.html#batteryicons" title="Virranhallinnan kuvakkeet">Virranhallinnan kuvakkeet</a></li>
+<li class="links "><a href="status-icons.html.fi#universalicons" title="Esteettömyysvalikon kuvakkeet">Esteettömyysvalikon kuvakkeet</a></li>
+<li class="links "><a href="status-icons.html.fi#audioicons" title="Äänenvoimakkuuden kuvakkeet">Äänenvoimakkuuden kuvakkeet</a></li>
+<li class="links "><a href="status-icons.html.fi#bluetoothicons" title="Bluetooth-hallinnan kuvakkeet">Bluetooth-hallinnan kuvakkeet</a></li>
+<li class="links "><a href="status-icons.html.fi#networkicons" title="Verkonhallinnan kuvakkeet">Verkonhallinnan kuvakkeet</a></li>
+<li class="links "><a href="status-icons.html.fi#batteryicons" title="Virranhallinnan kuvakkeet">Virranhallinnan kuvakkeet</a></li>
 </ul></div></div></div>
 </div>
 <div id="universalicons" class="sect"><div class="inner">
@@ -306,7 +306,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Sovellukset ja ikkunat">Sovellukset ja ikkunat</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.fi#apps" title="Sovellukset ja ikkunat">Sovellukset ja ikkunat</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

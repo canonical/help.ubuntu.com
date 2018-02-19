@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Primi passi">Primi passi con GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.it" title="Primi passi">Primi passi con GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="Usare la ricerca di sistema">Indietro</a><a class="nextlinks-next" href="gs-browse-web.html" title="Esplorare il web">Avanti</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.it" title="Usare la ricerca di sistema">Indietro</a><a class="nextlinks-next" href="gs-browse-web.html.it" title="Esplorare il web">Avanti</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Andare online</span></h1></div>
 <div class="region">
@@ -79,7 +79,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">To connect to a Wi-Fi (wireless) network:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html#yourname" title="Tu e il tuo computer">system menu</a></span>
+<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html.it#yourname" title="Tu e il tuo computer">system menu</a></span>
         on the right side of the top bar.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Wi-Fi Not Connected</span>. The Wi-Fi section of the menu
         will expand.</p></li>
@@ -98,7 +98,7 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="Usare la ricerca di sistema">Indietro</a><a class="nextlinks-next" href="gs-browse-web.html" title="Esplorare il web">Avanti</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.it" title="Usare la ricerca di sistema">Indietro</a><a class="nextlinks-next" href="gs-browse-web.html.it" title="Esplorare il web">Avanti</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -106,18 +106,18 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Primi passi">Primi passi con GNOME</a><span class="desc"> — New to GNOME? Learn how to get around.</span>
+<a href="getting-started.html.it" title="Primi passi">Primi passi con GNOME</a><span class="desc"> — New to GNOME? Learn how to get around.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Reti WiFi">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Reti via cavo">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Problemi di rete">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Browser web">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email e applicazioni per la posta elettronica">email accounts</a></span>…
+<a href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html.it" title="Reti WiFi">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html.it" title="Reti via cavo">wired</a></span>,
+      <span class="link"><a href="net-problem.html.it" title="Problemi di rete">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html.it" title="Browser web">web browsing</a></span>,
+      <span class="link"><a href="net-email.html.it" title="Email e applicazioni per la posta elettronica">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div>

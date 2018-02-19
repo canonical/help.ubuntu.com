@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html#faq" title="Padomi un jautājumi">Padomi un jautājumi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.lv" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html.lv#faq" title="Padomi un jautājumi">Padomi un jautājumi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Iestatīt atļaujas datnēm</span></h1></div>
@@ -58,7 +58,7 @@
 <p class="p">Jūs varat iestatīt atļaujas datnes īpašniekam, īpašnieku grupai vai citiem sistēmas lietotājiem. Savām datnēm jūs varat iestatīt tikai lasāmas datnes vai lasāmas un rediģējamas datnes atļauju. Iestatot datnei tikai lasāmas datnes atļauju, jūs nevarēsiet nejauši tajā veikt izmaiņās.</p>
 <p class="p">Katrs jūsu datora lietotājs pieder kādai grupai. Mājas datoros bieži vien katram lietotājam ir sava grupa un grupu atļaujas netiek bieži lietotas.  Korporatīvajā vidē dažreiz grupas tiek izmantotas nodaļās vai projektos. Līdzīgi kā katra datne pieder īpašniekam, tā pieder arī grupai. Jūs varat iestatīt datnēm grupas un kontroles atļaujas visiem grupas lietotājiem. Jūs varat iestatīt datņu grupas tikai grupām, kurām piederat.</p>
 <p class="p">Jūs varat arī iestatīt atļaujas citiem lietotājiem datņu grupā.</p>
-<p class="p">Ja datne ir programma, piemēram, skripts, jums jāizvēlas <span class="gui">Ļaut izpildīt datni kā programmu</span>, lai to palaistu. Pat ja šī opcija ir izvēlēta, datņu pārvaldnieks var joprojām atvērt to lietotnē vai prasīt jums, kas jādara. Skatiet <span class="link"><a href="nautilus-behavior.html#executable" title="Izpildāmās teksta datnes">Izpildāmās teksta datnes</a></span>, lai uzzinātu vairāk.</p>
+<p class="p">Ja datne ir programma, piemēram, skripts, jums jāizvēlas <span class="gui">Ļaut izpildīt datni kā programmu</span>, lai to palaistu. Pat ja šī opcija ir izvēlēta, datņu pārvaldnieks var joprojām atvērt to lietotnē vai prasīt jums, kas jādara. Skatiet <span class="link"><a href="nautilus-behavior.html.lv#executable" title="Izpildāmās teksta datnes">Izpildāmās teksta datnes</a></span>, lai uzzinātu vairāk.</p>
 </div></div>
 </div></div>
 <div id="folders" class="sect"><div class="inner">
@@ -84,12 +84,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Padomi un jautājumi">Padomi un jautājumi</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.lv#faq" title="Padomi un jautājumi">Padomi un jautājumi</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-basic.html" title="Datņu īpašības">Datņu īpašības</a><span class="desc"> — Skatiet datņu pamatinformāciju, iestatiet atļaujas un izvēlēties noklusējuma lietotni.</span>
+<a href="nautilus-file-properties-basic.html.lv" title="Datņu īpašības">Datņu īpašības</a><span class="desc"> — Skatiet datņu pamatinformāciju, iestatiet atļaujas un izvēlēties noklusējuma lietotni.</span>
 </li></ul></div>
 </div></div>
 </div>

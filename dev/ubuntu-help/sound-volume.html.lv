@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="media.html#sound" title="Vienkārša skaņa">Skaņa</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="media.html.lv#sound" title="Vienkārša skaņa">Skaņa</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mainiet skaņas līmeni</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Lai mainītu skaņas līmeni, atveriet <span class="gui"><a href="shell-introduction.html#yourname" title="Jūs un jūsu dators">sistēmas izvēlni</a></span> augšējās joslas labajā pusē un bīdiet skaļuma slīdni pa kreisi vai pa labi. Jūs varat pilnībā atslēgt skaņu, aizvelkot slīdni pa kreisi.</p>
+<p class="p">Lai mainītu skaņas līmeni, atveriet <span class="gui"><a href="shell-introduction.html.lv#yourname" title="Jūs un jūsu dators">sistēmas izvēlni</a></span> augšējās joslas labajā pusē un bīdiet skaļuma slīdni pa kreisi vai pa labi. Jūs varat pilnībā atslēgt skaņu, aizvelkot slīdni pa kreisi.</p>
 <p class="p">Dažām tastatūrām ir taustiņi, kuri ļauj kontrolēt skaļumu. Tie parasti izskatās pēc stilizētiem skaļruņiem ar skaņas viļņiem. Tie parasti ir tuvu “F” taustiņiem augšpusē. Uz klēpjdatoru tastatūrām šīs pogas parasti atrodas tieši uz “F” taustiņiem. Turiet piespiestu <span class="key"><kbd class="key-Fn">Fn</kbd></span> taustiņu uz tastatūras, lai tās lietotu.</p>
 <p class="p">Ja ir ārējie skaļruņi, varat mainīt skaļumu, izmantojot skaļruņu skaļuma kontroles pogas. Dažām austiņām arī ir skaļuma kontrole.</p>
 </div>
@@ -59,7 +59,7 @@
 <p class="p">Varat mainīt vienas lietotnes skaļumu, nenomainot citu lietotņu skaļumus. Tas ir noderīgi, ja, piemēram, klausāties mūziku un sērfojat internetā. Jūs varētu vēlēties izslēgt skaņu no interneta pārlūka, lai skaņas no mājaslapām nepārtrauktu mūziku.</p>
 <p class="p">Dažām lietotnēm ir skaļuma kontroles to galvenajos logos. Ja lietotnei ir skaļuma vadīklas, izmantojiet tās, lai mainītu skaļumu. Ja nav:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Skaņa</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Skaņa</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Skaņa</span>, lai atvērtu paneli.</p></li>
 <li class="steps">
 <p class="p">Ejiet uz <span class="gui">Lietotnes</span> cilni un pamainiet lietotnes skaļumu no turienes.</p>
@@ -73,7 +73,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="Vienkārša skaņa">Vienkārša skaņa</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Mainiet skaņas līmeni">Skaļums</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Izvēlieties atšķirīgus skaļruņus vai austiņas">skaļruņi un austiņas</a></span>, <span class="link"><a href="sound-usemic.html" title="Izmantot citu mikrofonu">mikrofoni</a></span>…</span>
+<a href="media.html.lv#sound" title="Vienkārša skaņa">Vienkārša skaņa</a><span class="desc"> — <span class="link"><a href="sound-volume.html.lv" title="Mainiet skaņas līmeni">Skaļums</a></span>, <span class="link"><a href="sound-usespeakers.html.lv" title="Izvēlieties atšķirīgus skaļruņus vai austiņas">skaļruņi un austiņas</a></span>, <span class="link"><a href="sound-usemic.html.lv" title="Izmantot citu mikrofonu">mikrofoni</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

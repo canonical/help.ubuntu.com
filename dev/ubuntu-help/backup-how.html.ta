@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html#backup" title="மறுபிரதி எடுத்தல்">மறுபிரதி எடுத்தல்</a> » <a class="trail" href="backup-why.html" title="உங்கள் முக்கியமான கோப்புகளை மறுபிரதி எடுக்கவும்">மறுபிரதிகள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ta" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html.ta#backup" title="மறுபிரதி எடுத்தல்">மறுபிரதி எடுத்தல்</a> » <a class="trail" href="backup-why.html.ta" title="உங்கள் முக்கியமான கோப்புகளை மறுபிரதி எடுக்கவும்">மறுபிரதிகள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">எப்படி மறுபிரதியெடுப்பது</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">மறுபிரதியெடுக்கும் பயன்பாடுகளே உங்கள் கோப்புகளையும் அமைவுகளையும் மறுபிரதியெடுக்கும் பொறுப்பை கவனித்துக்கொள்ள விட்டுவிடுவதே மறுபிரதியெடுக்க எளிமையான வழி. <span class="app">Déjà Dup</span> போன்ற பல மறுபிரதியெடுக்கும் பயன்பாடுகள் கிடைக்கின்றன.</p>
 <p class="p">நீங்கள் தேர்ந்தெடுக்கும் மறுபிரதி பயன்பாட்டுக்கான உதவி தகவலில் மறுபிரதிக்கான அமைவுகள், முன்னுரிமைகள் மற்றும் தரவை மீட்டெடுத்தல் குறித்த உதவிகரமான தகவல்கள் கொடுக்கப்பட்டிருக்கும்.</p>
-<p class="p">தனியான வன்வட்டு, பிணையத்தில் உள்ள வேறொரு கணினி அல்லது ஒரு USB இயக்கி போன்ற பாதுகாப்பான இடத்திற்கு <span class="link"><a href="files-copy.html" title="கோப்புகள் மற்றும் கோப்புறைகளை நகலெடுத்தல் அல்லது நகர்த்தல்">உங்கள் கோப்புகளை நகலெடுத்துக்கொள்வது</a></span> மற்றொரு வழியாகும். வழக்கமாக உங்கள் <span class="link"><a href="backup-thinkabout.html" title="நான் மறுபிரதியெடுக்க விரும்பக்கூடிய கோப்புகள் எங்கிருக்கும்?">தனிப்பட்ட கோப்புகள்</a></span> மற்றும் அமைவுகள் உங்கள் இல்லக் கோப்புறையில் தான் இருக்கும், அங்கிருந்து அவற்றை நகலெடுத்துக்கொள்ளலாம்.</p>
+<p class="p">தனியான வன்வட்டு, பிணையத்தில் உள்ள வேறொரு கணினி அல்லது ஒரு USB இயக்கி போன்ற பாதுகாப்பான இடத்திற்கு <span class="link"><a href="files-copy.html.ta" title="கோப்புகள் மற்றும் கோப்புறைகளை நகலெடுத்தல் அல்லது நகர்த்தல்">உங்கள் கோப்புகளை நகலெடுத்துக்கொள்வது</a></span> மற்றொரு வழியாகும். வழக்கமாக உங்கள் <span class="link"><a href="backup-thinkabout.html.ta" title="நான் மறுபிரதியெடுக்க விரும்பக்கூடிய கோப்புகள் எங்கிருக்கும்?">தனிப்பட்ட கோப்புகள்</a></span> மற்றும் அமைவுகள் உங்கள் இல்லக் கோப்புறையில் தான் இருக்கும், அங்கிருந்து அவற்றை நகலெடுத்துக்கொள்ளலாம்.</p>
 <p class="p">நீங்கள் எவ்வளவு தரவை மறுபிரதியெடுக்க முடியும் என்பது சேமிப்பு சாதனத்தின் கொள்ளளவைப் பொறுத்தது. உங்கள் மறுபிரதி சாதனத்தில் இடம் இருந்தால் உங்கள் பின்வருபவை தவிர்த்து இல்லக் கோப்புறை முழுவதையும்  நகலெடுத்துக்கொள்வது நல்லது:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">CD, DVD அல்லது மற்ற பொருத்தியெடுக்கக்கூடிய ஊடகங்களில் ஏற்கனவே மறுபிரதியெடுத்துவிட்ட கோப்புகள்.</p></li>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="உங்கள் முக்கியமான கோப்புகளை மறுபிரதி எடுக்கவும்">உங்கள் முக்கியமான கோப்புகளை மறுபிரதி எடுக்கவும்</a><span class="desc"> — மறுபிரதி - எதை எடுப்பது, எங்கு எடுப்பது மற்றும் எப்படி எடுப்பது.</span>
+<a href="backup-why.html.ta" title="உங்கள் முக்கியமான கோப்புகளை மறுபிரதி எடுக்கவும்">உங்கள் முக்கியமான கோப்புகளை மறுபிரதி எடுக்கவும்</a><span class="desc"> — மறுபிரதி - எதை எடுப்பது, எங்கு எடுப்பது மற்றும் எப்படி எடுப்பது.</span>
 </li></ul></div>
 </div></div></div>
 </div>

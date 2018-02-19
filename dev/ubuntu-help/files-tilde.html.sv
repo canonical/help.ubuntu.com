@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#faq" title="Tips och frågor">Tips och frågor</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#faq" title="Tips och frågor">Tips och frågor</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vad är en fil med en <span class="file">~</span> i slutet på namnet?</span></h1></div>
@@ -51,19 +51,19 @@
 <div class="contents">
 <p class="p">Filer med ett <span class="file">~</span> i slutet på deras namn (till exempel <span class="file">example.txt~</span>) är automatiskt skapade säkerhetskopior av dokument som redigerats i textredigeraren <span class="app">gedit</span> eller andra program. Det är säkert att ta bort dem, men det är inte farligt att låta dem vara kvar på din dator.</p>
 <p class="p">Dessa filer döljs som standard. Om du ser dem är det för att du antingen valt <span class="gui">Visa dolda filer</span> (i menyn visningsalternativ i verktygsraden <span class="app">Filer</span>) eller tryckt på <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Du kan dölja dem igen genom att repetera endera av dessa steg.</p>
-<p class="p">Dessa filer behandlas på samma sätt som normala dolda filer. Se <span class="link"><a href="files-hidden.html" title="Dölj en fil">Dölj en fil</a></span> för råd om hur du hanterar dolda filer.</p>
+<p class="p">Dessa filer behandlas på samma sätt som normala dolda filer. Se <span class="link"><a href="files-hidden.html.sv" title="Dölj en fil">Dölj en fil</a></span> för råd om hur du hanterar dolda filer.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tips och frågor">Tips och frågor</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sv#faq" title="Tips och frågor">Tips och frågor</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-hidden.html" title="Dölj en fil">Dölj en fil</a><span class="desc"> — Gör en fil osynlig så att du inte kan se den i filhanteraren.</span>
+<a href="files-hidden.html.sv" title="Dölj en fil">Dölj en fil</a><span class="desc"> — Gör en fil osynlig så att du inte kan se den i filhanteraren.</span>
 </li></ul></div>
 </div></div>
 </div>

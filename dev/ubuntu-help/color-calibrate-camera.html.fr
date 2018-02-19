@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="color.html" title="Gestion de la couleur">Gestion de la couleur</a> › <a class="trail" href="color.html#calibration" title="Étalonnage">Étalonnage</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="color.html.fr" title="Gestion de la couleur">Gestion de la couleur</a> › <a class="trail" href="color.html.fr#calibration" title="Étalonnage">Étalonnage</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="color.html" title="Gestion de la couleur">Gestion de la couleur</a> › <a class="trail" href="color.html#calibration" title="Étalonnage">Étalonnage</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="color.html.fr" title="Gestion de la couleur">Gestion de la couleur</a> › <a class="trail" href="color.html.fr#calibration" title="Étalonnage">Étalonnage</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -62,22 +62,22 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Étalonnage">Étalonnage</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.fr#calibration" title="Étalonnage">Étalonnage</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrationtargets.html" title="Types de cibles prises en charge">Types de cibles prises en charge</a><span class="desc"> — Utiliser des cibles pour étalonner les scanners et appareils photos.</span>
+<a href="color-calibrationtargets.html.fr" title="Types de cibles prises en charge">Types de cibles prises en charge</a><span class="desc"> — Utiliser des cibles pour étalonner les scanners et appareils photos.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-scanner.html" title="Étalonnage d'un scanner">Étalonnage d'un scanner</a><span class="desc"> — Étalonner votre scanner est important pour enregistrer des couleurs exactes.</span>
+<a href="color-calibrate-scanner.html.fr" title="Étalonnage d'un scanner">Étalonnage d'un scanner</a><span class="desc"> — Étalonner votre scanner est important pour enregistrer des couleurs exactes.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-screen.html" title="Étalonnage d'un écran">Étalonnage d'un écran</a><span class="desc"> — Étalonner votre écran est important pour afficher des couleurs exactes.</span>
+<a href="color-calibrate-screen.html.fr" title="Étalonnage d'un écran">Étalonnage d'un écran</a><span class="desc"> — Étalonner votre écran est important pour afficher des couleurs exactes.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html" title="Étalonnage d'une imprimante">Étalonnage d'une imprimante</a><span class="desc"> — Étalonner votre imprimante est important pour imprimer des couleurs exactes.</span>
+<a href="color-calibrate-printer.html.fr" title="Étalonnage d'une imprimante">Étalonnage d'une imprimante</a><span class="desc"> — Étalonner votre imprimante est important pour imprimer des couleurs exactes.</span>
 </li>
 </ul></div>
 </div></div>

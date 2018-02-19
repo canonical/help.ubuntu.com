@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> » <a class="trail" href="power.html" title="Alimentazione e batteria">Alimentazione e batteria</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> » <a class="trail" href="power.html.it" title="Alimentazione e batteria">Alimentazione e batteria</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="power.html" title="Alimentazione e batteria">Alimentazione e batteria</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="power.html.it" title="Alimentazione e batteria">Alimentazione e batteria</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Quando si <span class="em">sospende</span> il computer, questo viene messo "a riposo". Tutte le applicazioni e i documenti rimangono aperti, ma lo schermo e altre parti del computer vengono spente per risparmiare energia. Il computer comunque è ancora acceso e farà uso di una piccola quantità di energia. È possibile "risvegliare" il computer premendo un tasto o facendo clic col mouse. Se ciò non dovesse funzionare, provare premendo il pulsante di accensione.</p>
 <p class="p">Some computers have problems with hardware support which mean that they
-<span class="link"><a href="power-suspendfail.html" title="Why does my computer not turn back on after I suspended it?">may not be able to suspend properly</a></span>. It is
+<span class="link"><a href="power-suspendfail.html.it" title="Why does my computer not turn back on after I suspended it?">may not be able to suspend properly</a></span>. It is
 a good idea to test suspend on your computer to see if it does work before
 relying on it.</p>
 <div class="note note-important" title="Importante"><div class="inner">
@@ -69,10 +69,10 @@ relying on it.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Alimentazione e batteria">Alimentazione e batteria</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Cosa succede quando si sospende il computer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Perché lo schermo si oscura dopo un po' di tempo?">screen dimming</a></span>…
+<a href="power.html.it" title="Alimentazione e batteria">Alimentazione e batteria</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.it" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.it" title="Cosa succede quando si sospende il computer?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.it" title="Perché lo schermo si oscura dopo un po' di tempo?">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -80,17 +80,17 @@ relying on it.</p>
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-closelid.html" title="Perché il computer si spegne se chiudo il coperchio?">Perché il computer si spegne se chiudo il coperchio?</a><span class="desc"> — Il computer portatile, per risparmiare energia, va in sospensione se viene chiuso il coperchio.</span>
+<a href="power-closelid.html.it" title="Perché il computer si spegne se chiudo il coperchio?">Perché il computer si spegne se chiudo il coperchio?</a><span class="desc"> — Il computer portatile, per risparmiare energia, va in sospensione se viene chiuso il coperchio.</span>
 </li>
 <li class="links ">
-<a href="power-autosuspend.html" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-autosuspend.html.it" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Sospendere">Sospendere</a></li>
+<li class="links "><a href="shell-exit.html.it#suspend" title="Sospendere">Sospendere</a></li>
 <li class="links ">
-<a href="power-batterylife.html" title="Usare meno energia e aumentare la durata della batteria">Usare meno energia e aumentare la durata della batteria</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
+<a href="power-batterylife.html.it" title="Usare meno energia e aumentare la durata della batteria">Usare meno energia e aumentare la durata della batteria</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.it" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 </ul></div>
 </div></div>

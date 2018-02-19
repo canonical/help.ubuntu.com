@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="media.html#sound" title="Som básico">Som</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="media.html.pt-BR#sound" title="Som básico">Som</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.pt-BR#problems" title="Problemas comuns">Problemas</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,8 +55,8 @@
 <div class="contents">
 <p class="p">Existe uma boa quantidade de maneiras de uma reprodução sonora falhar no seu computador. Qual dos tópicos abaixo melhor descreve o problema que você está enfrentando?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="sound-crackle.html" title="Escuto estalos e zumbidos quando sons são reproduzidos"><span class="title">Escuto estalos e zumbidos quando sons são reproduzidos</span><span class="linkdiv-dash"> — </span><span class="desc">Verifique seus cabos de áudio e os drivers de placa de som.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-nosound.html" title="Não consigo ouvir quaisquer som no computador"><span class="title">Não consigo ouvir quaisquer som no computador</span><span class="linkdiv-dash"> — </span><span class="desc">Verifique se o som não está no mudo, se os cabos estão conectados corretamente e se a placa de som foi detectada.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-crackle.html.pt-BR" title="Escuto estalos e zumbidos quando sons são reproduzidos"><span class="title">Escuto estalos e zumbidos quando sons são reproduzidos</span><span class="linkdiv-dash"> — </span><span class="desc">Verifique seus cabos de áudio e os drivers de placa de som.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-nosound.html.pt-BR" title="Não consigo ouvir quaisquer som no computador"><span class="title">Não consigo ouvir quaisquer som no computador</span><span class="linkdiv-dash"> — </span><span class="desc">Verifique se o som não está no mudo, se os cabos estão conectados corretamente e se a placa de som foi detectada.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,9 +64,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="hardware.html#problems" title="Problemas comuns">Problemas com hardware</a></li>
+<li class="links "><a href="hardware.html.pt-BR#problems" title="Problemas comuns">Problemas com hardware</a></li>
 <li class="links ">
-<a href="media.html#sound" title="Som básico">Som básico</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Alterando o volume do som">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Usando alto-falantes ou fones de ouvido diferentes">alto-falantes e fones</a></span>, <span class="link"><a href="sound-usemic.html" title="Usando um microfone diferente">microfones</a></span>…</span>
+<a href="media.html.pt-BR#sound" title="Som básico">Som básico</a><span class="desc"> — <span class="link"><a href="sound-volume.html.pt-BR" title="Alterando o volume do som">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html.pt-BR" title="Usando alto-falantes ou fones de ouvido diferentes">alto-falantes e fones</a></span>, <span class="link"><a href="sound-usemic.html.pt-BR" title="Usando um microfone diferente">microfones</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

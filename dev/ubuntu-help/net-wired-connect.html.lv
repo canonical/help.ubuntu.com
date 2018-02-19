@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wired.html" title="Vadu savienojums">Vadu savienojums</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wired.html.lv" title="Vadu savienojums">Vadu savienojums</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tīkla savienojums ar vadu (tīkls Ethernet)</span></h1></div>
@@ -52,14 +52,14 @@
 <p class="p">Pārsvarā, lai izveidotu tīkla savienojumu ar vadu, jums tikai vajag pieslēgt tīkla kabeli. Kamēr tiek veidots savienojumus, tīkla ikona (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="iestatījumi"></span></span>) augšējajā joslā tiek attēlota ar trīs punktiem. Kad savienojums ir izveidots, punkti pazūd.</p>
 <p class="p">Ja tas nenotiek, tad visupirms jāpārliecinās, ka tīkla kabelis ir pievienots. Vienam kabeļa galam vajadzētu būt iespraustam taisnstūrveidīgā tīkla Ethernet portā datorā, bet otram galam vajadzētu būt iespraustam komutatorā, maršrutētājā, tīkla sienas ligzdā vai tamlīdzīgi (atkarīgs no tā, kā ir izveidots tīkls). Dažreiz, gaismas lampiņa blakus tīkla Ethernet portam norādīs, ka kabelis ir iesprausts un tas ir aktīvs.</p>
 <div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Jūs nevarat pa tiešo savienot vienu datoru ar otru ar tīkla vadu (vismaz, ne bez papildu iestatīšanas). Lai savienotu divus datorus, jums vajadzētu tos savienot tīkla centrmezglā, komutatorā vai maršrutētājā.</p></div></div></div></div>
-<p class="p">Ja joprojām neesat savienojies, jūsu dators varētu neatbalstīt automātisku iestatīšanu (DHCP). Šajā gadījumā jums vajadzēs tīklu <span class="link"><a href="net-manual.html" title="Pašrocīgi iestatīt tīkla iestatījumus">konfigurēt pašrocīgi</a></span>.</p>
+<p class="p">Ja joprojām neesat savienojies, jūsu dators varētu neatbalstīt automātisku iestatīšanu (DHCP). Šajā gadījumā jums vajadzēs tīklu <span class="link"><a href="net-manual.html.lv" title="Pašrocīgi iestatīt tīkla iestatījumus">konfigurēt pašrocīgi</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html" title="Vadu savienojums">Vadu savienojums</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Tīkla savienojums ar vadu (tīkls Ethernet)">Vadu interneta savienojumi</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Veidot savienojumu ar fiksēto IP adresi.">Fiksētas IP adreses</a></span>…</span>
+<a href="net-wired.html.lv" title="Vadu savienojums">Vadu savienojums</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.lv" title="Tīkla savienojums ar vadu (tīkls Ethernet)">Vadu interneta savienojumi</a></span>, <span class="link"><a href="net-fixed-ip-address.html.lv" title="Veidot savienojumu ar fiksēto IP adresi.">Fiksētas IP adreses</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

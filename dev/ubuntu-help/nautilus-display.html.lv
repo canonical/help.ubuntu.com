@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html#more-file-tasks" title="Vēl ar datnēm saistīti uzdevumi">Vēl ar datnēm saistīti uzdevumi</a> » <a class="trail" href="nautilus-prefs.html" title="Datņu pārvaldnieka iestatījumi">Datņu pārvaldnieka iestatījumi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.lv" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html.lv#more-file-tasks" title="Vēl ar datnēm saistīti uzdevumi">Vēl ar datnēm saistīti uzdevumi</a> » <a class="trail" href="nautilus-prefs.html.lv" title="Datņu pārvaldnieka iestatījumi">Datņu pārvaldnieka iestatījumi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Datņu pārvaldnieka attēlošanas iestatījumi</span></h1></div>
@@ -55,7 +55,7 @@
 <div class="media media-image floatend"><div class="inner"><img src="figures/nautilus-icons.png" height="110" width="250" class="media media-block" alt="Datņu pārvaldnieka ikonas ar parakstiem"></div></div>
 <p class="p">Kad izmantojat ikonu skatu, jūs varat izvēlēties rādīt zem katras ikonas tās parakstā arī papildu informāciju par datnēm un mapēm. Tas noder, piemēram, ja bieži vajag redzēt, kam pieder datne vai, kad tā pēdējo reizi rediģēta.</p>
 <p class="p">Jūs varat pietuvināt mapi, spiežot skata opciju pogu rīkjoslā un izvēloties tālummaiņas līmeni ar slīdni. Tuvinot datņu pārvaldnieks parādīs ar vien vairāk informācijas parakstā. Jūs varat izvēlēties trīs lietas, ko rādīt parakstā. Pirmā tiks parādīta vairumā tuvinājuma līmeņu. Pēdējā būs redzama tikai ļoti lielā pietuvinājumā.</p>
-<p class="p">Informācija, kuru varat parādīt ikonu parakstos, ir tā pati, kas redzama saraksta skatā. Skatiet <span class="link"><a href="nautilus-list.html" title="Datņu saraksta kolonnu iestatījumi">Datņu saraksta kolonnu iestatījumi</a></span>, lai uzzinātu vairāk.</p>
+<p class="p">Informācija, kuru varat parādīt ikonu parakstos, ir tā pati, kas redzama saraksta skatā. Skatiet <span class="link"><a href="nautilus-list.html.lv" title="Datņu saraksta kolonnu iestatījumi">Datņu saraksta kolonnu iestatījumi</a></span>, lai uzzinātu vairāk.</p>
 </div></div>
 </div></div>
 <div id="list-view" class="sect"><div class="inner">
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Datņu pārvaldnieka iestatījumi">Datņu pārvaldnieka iestatījumi</a><span class="desc"> — Skatīt un iestatīt iestatījumus datņu pārlūkam.</span>
+<a href="nautilus-prefs.html.lv" title="Datņu pārvaldnieka iestatījumi">Datņu pārvaldnieka iestatījumi</a><span class="desc"> — Skatīt un iestatīt iestatījumus datņu pārlūkam.</span>
 </li></ul></div>
 </div></div></div>
 </div>

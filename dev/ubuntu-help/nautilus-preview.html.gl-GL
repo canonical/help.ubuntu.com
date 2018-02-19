@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferencias de previsualización do xestor de ficheiros</span></h1></div>
@@ -53,11 +53,11 @@
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Files</span></dt>
 <dd class="terms">
-<p class="p">Por omisión, as previsualización realízanse <span class="gui">Só para os ficheiros locais</span> no seu computador ou nas unidades externas conectadas. Pode estabelecer es funcionalidade a <span class="gui">Sempre</span> ou <span class="gui">Nunca</span>. O xestor de ficheiros pode <span class="link"><a href="nautilus-connect.html" title="Examinar ficheiros nun servidor ou compartición de rede">explorar ficheiros noutros computadores</a></span> nunha rede local ou en internet. Se explora ficheiros nunha rede local a cotío, e a rede ten un ancho de banda grande, pode activar algunhas ou todas as opcións de previsualización a <span class="gui">Sempre</span>.</p>
+<p class="p">Por omisión, as previsualización realízanse <span class="gui">Só para os ficheiros locais</span> no seu computador ou nas unidades externas conectadas. Pode estabelecer es funcionalidade a <span class="gui">Sempre</span> ou <span class="gui">Nunca</span>. O xestor de ficheiros pode <span class="link"><a href="nautilus-connect.html.gl-GL" title="Examinar ficheiros nun servidor ou compartición de rede">explorar ficheiros noutros computadores</a></span> nunha rede local ou en internet. Se explora ficheiros nunha rede local a cotío, e a rede ten un ancho de banda grande, pode activar algunhas ou todas as opcións de previsualización a <span class="gui">Sempre</span>.</p>
 <p class="p">Ademais, pode usar a preferencia <span class="gui">Só para os ficheiros máis pequenos que</span> para limitar o tamaño dos ficheiros a previsualizar.</p>
 </dd>
 <dt class="terms"><span class="gui">Folders</span></dt>
-<dd class="terms"><p class="p">Se mostra o tamaño dos ficheiros na <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">visualización en lista de columnas</a></span> ou as <span class="link"><a href="nautilus-display.html#icon-captions" title="Lendas das iconas">lendas das iconas</a></span>, os cartafoles mostrarán unha conta de cantos ficheiros ou cartafoles conteñen. Contar os elementos dun cartafol pode ser lento, especialmente para cartafoles grandes, ou sobre a rede. Pode activar ou desactivar esta característica, o activala só para os ficheiros no seu computador e unidades externas locais.</p></dd>
+<dd class="terms"><p class="p">Se mostra o tamaño dos ficheiros na <span class="link"><a href="nautilus-list.html.gl-GL" title="Files list columns preferences">visualización en lista de columnas</a></span> ou as <span class="link"><a href="nautilus-display.html.gl-GL#icon-captions" title="Lendas das iconas">lendas das iconas</a></span>, os cartafoles mostrarán unha conta de cantos ficheiros ou cartafoles conteñen. Contar os elementos dun cartafol pode ser lento, especialmente para cartafoles grandes, ou sobre a rede. Pode activar ou desactivar esta característica, o activala só para os ficheiros no seu computador e unidades externas locais.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a><span class="desc"> — View and set preferences for the file browser.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-preview.html" title="Previsualizar ficheiros e cartafoles">Previsualizar ficheiros e cartafoles</a><span class="desc"> — Mostrar e ocultar rápidamente vistas previas para documentos, imaxes, vídeos e máis.</span>
+<a href="files-preview.html.gl-GL" title="Previsualizar ficheiros e cartafoles">Previsualizar ficheiros e cartafoles</a><span class="desc"> — Mostrar e ocultar rápidamente vistas previas para documentos, imaxes, vídeos e máis.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » <a class="trail" href="shell-windows.html" title="Παράθυρα και χώροι εργασίας">Παράθυρα και χώροι εργασίας</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Δουλεύοντας με χώρους εργασίας">Χώροι εργασίας</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.el" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html.el#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » <a class="trail" href="shell-windows.html.el" title="Παράθυρα και χώροι εργασίας">Παράθυρα και χώροι εργασίας</a> › <a class="trail" href="shell-windows.html.el#working-with-workspaces" title="Δουλεύοντας με χώρους εργασίας">Χώροι εργασίας</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Εναλλαγή μεταξύ των χώρων εργασίας</span></h1></div>
@@ -52,8 +52,8 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Χρησιμοποιώντας το ποντίκι:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>.</p></li>
-<li class="steps"><p class="p">Κάντε κλικ σε έναν χώρο εργασίας στον <span class="link"><a href="shell-workspaces.html" title="Τι είναι ένας χώρος εργασίας και πώς θα με βοηθήσει;">επιλογέα χώρου εργασίας</a></span> στα δεξιά της οθόνης για να προβάλετε τα ανοικτά παράθυρα σε αυτόν τον χώρο εργασίας.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>.</p></li>
+<li class="steps"><p class="p">Κάντε κλικ σε έναν χώρο εργασίας στον <span class="link"><a href="shell-workspaces.html.el" title="Τι είναι ένας χώρος εργασίας και πώς θα με βοηθήσει;">επιλογέα χώρου εργασίας</a></span> στα δεξιά της οθόνης για να προβάλετε τα ανοικτά παράθυρα σε αυτόν τον χώρο εργασίας.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ σε οποιαδήποτε μικρογραφία παραθύρου για να ενεργοποιήσετε τον χώρο εργασίας.</p></li>
 </ol></div>
 </div></div>
@@ -61,7 +61,7 @@
 <div class="title title-list"><h2><span class="title">Χρησιμοποιώντας το πληκτρολόγιο:</span></h2></div>
 <div class="region"><ul class="list">
 <li class="list"><p class="p">Press
-    <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span>
+    <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.el" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span>
     or <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span> to move to
     the workspace shown above the current workspace in the workspace selector.
     </p></li>
@@ -76,12 +76,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Δουλεύοντας με χώρους εργασίας">Δουλεύοντας με χώρους εργασίας</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.el#working-with-workspaces" title="Δουλεύοντας με χώρους εργασίας">Δουλεύοντας με χώρους εργασίας</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-workspaces.html" title="Τι είναι ένας χώρος εργασίας και πώς θα με βοηθήσει;">Τι είναι ένας χώρος εργασίας και πώς θα με βοηθήσει;</a><span class="desc"> — Οι χώροι εργασίας είναι ένας τρόπος ομαδοποίησης παραθύρων στην επιφάνεια εργασίας σας.</span>
+<a href="shell-workspaces.html.el" title="Τι είναι ένας χώρος εργασίας και πώς θα με βοηθήσει;">Τι είναι ένας χώρος εργασίας και πώς θα με βοηθήσει;</a><span class="desc"> — Οι χώροι εργασίας είναι ένας τρόπος ομαδοποίησης παραθύρων στην επιφάνεια εργασίας σας.</span>
 </li></ul></div>
 </div></div>
 </div>

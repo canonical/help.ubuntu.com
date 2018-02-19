@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="צעדים ראשונים">צעדים ראשונים ב־GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.he" title="צעדים ראשונים">צעדים ראשונים ב־GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="שינוי תאריך, שעה ואזור זמן">הקודם</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.he" title="שינוי תאריך, שעה ואזור זמן">הקודם</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">החלפת הרקע</span></h1></div>
 <div class="region">
 <div class="contents"><div class="ui-tile ">
@@ -67,7 +67,7 @@
 <div id="change-wallpaper-overview" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">החלפת הרקע</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">לחצו על <span class="gui"><a href="shell-introduction.html#yourname" title="You and your computer">תפריט המערכת</a></span> בצדו השמאלי של הלוח העליון.</p></li>
+<li class="steps"><p class="p">לחצו על <span class="gui"><a href="shell-introduction.html.he#yourname" title="You and your computer">תפריט המערכת</a></span> בצדו השמאלי של הלוח העליון.</p></li>
 <li class="steps"><p class="p">לחצו על לחצן ההגדרות בחלקו הימני התחתון של התפריט.</p></li>
 <li class="steps"><p class="p">לחצו על הלוח <span class="gui">רקע</span>.</p></li>
 <li class="steps"><p class="p">לחצו על תמונת הרקע הנוכחית בצדו השמאלי של החלון <span class="gui">רקע</span>.</p></li>
@@ -76,20 +76,20 @@
 <li class="steps"><p class="p">סגרו את החלון <span class="gui">רקע</span> באמצעות לחיצה על לחצן הסגירה בפינה השמאלית העליונה של החלון.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="שינוי תאריך, שעה ואזור זמן">הקודם</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.he" title="שינוי תאריך, שעה ואזור זמן">הקודם</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="צעדים ראשונים">צעדים ראשונים ב־GNOME</a><span class="desc"> — חדשים ב־GNOME? למדו כיצד להסתדר.</span>
+<a href="getting-started.html.he" title="צעדים ראשונים">צעדים ראשונים ב־GNOME</a><span class="desc"> — חדשים ב־GNOME? למדו כיצד להסתדר.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">עיון נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-background.html" title="Change the desktop and lock screen backgrounds">Change the desktop and lock screen backgrounds</a><span class="desc"> — Set an image, color, or gradient as your desktop background or lock
+<a href="look-background.html.he" title="Change the desktop and lock screen backgrounds">Change the desktop and lock screen backgrounds</a><span class="desc"> — Set an image, color, or gradient as your desktop background or lock
     screen background.</span>
 </li></ul></div>
 </div></div>

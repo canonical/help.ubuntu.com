@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html#backup" title="Mentés">Mentés</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.hu" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html.hu#backup" title="Mentés">Mentés</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mentse fontos fájljait</span></h1></div>
@@ -53,17 +53,17 @@
 <p class="p">A fájlok mentésére a legjobb módszer a rendszeres, telephelyen kívül tárolt és (lehetőleg) titkosított mentés.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-how.html" title="Biztonsági mentés"><span class="title">Biztonsági mentés</span><span class="linkdiv-dash"> — </span><span class="desc">Mentse értékes fájljait és beállításait a Déjà Dup (vagy más biztonsági mentő alkalmazás) használatával.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-what.html" title="Mit mentsek?"><span class="title">Mit mentsek?</span><span class="linkdiv-dash"> — </span><span class="desc">Mentsen mindent, aminek az elvesztését nem tudná elviselni, ha valami elromlik.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-how.html.hu" title="Biztonsági mentés"><span class="title">Biztonsági mentés</span><span class="linkdiv-dash"> — </span><span class="desc">Mentse értékes fájljait és beállításait a Déjà Dup (vagy más biztonsági mentő alkalmazás) használatával.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-what.html.hu" title="Mit mentsek?"><span class="title">Mit mentsek?</span><span class="linkdiv-dash"> — </span><span class="desc">Mentsen mindent, aminek az elvesztését nem tudná elviselni, ha valami elromlik.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-where.html" title="Hol tárolja a mentést"><span class="title">Hol tárolja a mentést</span><span class="linkdiv-dash"> — </span><span class="desc">Hol tárolja mentéseit, és milyen típusú tárolóeszközt használjon.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-where.html.hu" title="Hol tárolja a mentést"><span class="title">Hol tárolja a mentést</span><span class="linkdiv-dash"> — </span><span class="desc">Hol tárolja mentéseit, és milyen típusú tárolóeszközt használjon.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Mentés">Mentés</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.hu#backup" title="Mentés">Mentés</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

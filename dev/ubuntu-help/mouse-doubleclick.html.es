@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="mouse.html" title="Ratón">Ratón</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="mouse.html.es" title="Ratón">Ratón</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="a11y.html" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html#mobility" title="Deficiencias motoras">Deficiencias motoras</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="a11y.html.es" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html.es#mobility" title="Deficiencias motoras">Deficiencias motoras</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="mouse.html" title="Ratón">Ratón</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="mouse.html.es" title="Ratón">Ratón</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">La doble pulsación solo sucede cuando pulsa el botón del ratón dos veces lo bastante rápido. Si se tarda mucho en pulsar la segunda vez, obtendrá dos pulsaciones separadas, no una doble pulsación. Si tiene dificultados en pulsar el ratón tan deprisa debería incrementar el tiempo de espera.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Acceso universal</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Acceso universal</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Acceso universal</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Debajo de <span class="gui">Apuntar y pulsar</span>, ajuste el deslizador de <span class="gui">Doble pulsación</span> a un valor que considere cómodo.</p></li>
 </ol></div></div></div>
@@ -69,9 +69,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Deficiencias motoras">Deficiencias motoras</a></li>
+<li class="links "><a href="a11y.html.es#mobility" title="Deficiencias motoras">Deficiencias motoras</a></li>
 <li class="links ">
-<a href="mouse.html" title="Ratón">Ratón</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Use su ratón para zurdos">Zurdo</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Ajustar la velocidad del ratón y del touchpad">velocidad y sensibilidad</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Pulsar, arrastrar o desplazarse con el «touchpad»">pulsación y desplazamiento con el touchpad</a></span>…</span>
+<a href="mouse.html.es" title="Ratón">Ratón</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.es" title="Use su ratón para zurdos">Zurdo</a></span>, <span class="link"><a href="mouse-sensitivity.html.es" title="Ajustar la velocidad del ratón y del touchpad">velocidad y sensibilidad</a></span>, <span class="link"><a href="mouse-touchpad-click.html.es" title="Pulsar, arrastrar o desplazarse con el «touchpad»">pulsación y desplazamiento con el touchpad</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

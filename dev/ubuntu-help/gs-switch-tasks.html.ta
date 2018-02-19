@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="பயன்படுத்தத் தொடங்குதல்">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.ta" title="பயன்படுத்தத் தொடங்குதல்">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-launch-applications.html" title="பயன்பாடுகளைத் துவக்கவும்">முந்தைய</a><a class="nextlinks-next" href="gs-use-windows-workspaces.html" title="சாளரங்கள் மற்றும் பணிவெளிகளைப் பயன்படுத்து">அடுத்து</a>
+<a class="nextlinks-prev" href="gs-launch-applications.html.ta" title="பயன்பாடுகளைத் துவக்கவும்">முந்தைய</a><a class="nextlinks-next" href="gs-use-windows-workspaces.html.ta" title="சாளரங்கள் மற்றும் பணிவெளிகளைப் பயன்படுத்து">அடுத்து</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">பணிகளுக்கிடையே மாறவும்</span></h1></div>
 <div class="region">
@@ -108,7 +108,7 @@
 </ol></div></div></div></div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-launch-applications.html" title="பயன்பாடுகளைத் துவக்கவும்">முந்தைய</a><a class="nextlinks-next" href="gs-use-windows-workspaces.html" title="சாளரங்கள் மற்றும் பணிவெளிகளைப் பயன்படுத்து">அடுத்து</a>
+<a class="nextlinks-prev" href="gs-launch-applications.html.ta" title="பயன்பாடுகளைத் துவக்கவும்">முந்தைய</a><a class="nextlinks-next" href="gs-use-windows-workspaces.html.ta" title="சாளரங்கள் மற்றும் பணிவெளிகளைப் பயன்படுத்து">அடுத்து</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -116,13 +116,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="பயன்படுத்தத் தொடங்குதல்">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</a><span class="desc"> — GNOME க்குப் புதிதா? எப்படி தொடங்குவது என அறிந்துகொள்ளுங்கள்.</span>
+<a href="getting-started.html.ta" title="பயன்படுத்தத் தொடங்குதல்">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</a><span class="desc"> — GNOME க்குப் புதிதா? எப்படி தொடங்குவது என அறிந்துகொள்ளுங்கள்.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-switching.html" title="சாளரங்களிடையே மாறுதல்">சாளரங்களிடையே மாறுதல்</a><span class="desc"> — <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> ஐ அழுத்தவும்.</span>
+<a href="shell-windows-switching.html.ta" title="சாளரங்களிடையே மாறுதல்">சாளரங்களிடையே மாறுதல்</a><span class="desc"> — <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> ஐ அழுத்தவும்.</span>
 </li></ul></div>
 </div></div>
 </div>

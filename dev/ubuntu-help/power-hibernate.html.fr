@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html" title="Énergie et batterie">Énergie et batterie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html" title="Énergie et batterie">Énergie et batterie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Quand l'ordinateur <span class="em">hiberne</span>, toutes vos applications et documents sont stockés et l'ordinateur s'éteint complètement afin de ne pas utiliser d'énergie, mais les applications et documents seront toujours ouverts quand vous ré-allumerez l'ordinateur.</p>
-<p class="p">Malheureusement, l'hibernation <span class="link"><a href="power-suspendfail.html" title="Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?">ne fonctionne pas</a></span> dans de nombreux cas, ce qui peut vous faire perdre des données si vous vous attendez à ce que vos documents et applications s'ouvrent à nouveau lorsque votre ordinateur se rallume. C'est pourquoi l'hibernation est désactivée par défaut.</p>
+<p class="p">Malheureusement, l'hibernation <span class="link"><a href="power-suspendfail.html.fr" title="Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?">ne fonctionne pas</a></span> dans de nombreux cas, ce qui peut vous faire perdre des données si vous vous attendez à ce que vos documents et applications s'ouvrent à nouveau lorsque votre ordinateur se rallume. C'est pourquoi l'hibernation est désactivée par défaut.</p>
 </div>
 <div id="test-hibernate" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tester si l'hibernation fonctionne</span></h2></div>
@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">Vous pouvez utiliser cette ligne de commande pour tester si l'hibernation fonctionne sur votre ordinateur.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ouvrez le <span class="app">Terminal</span> en appuyant en même temps sur <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> ou en cherchant le <span class="input">terminal</span> dans le <span class="gui">Tableau de bord</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez l'application <span class="app">Terminal</span> à partir de la <span class="gui">vue d'ensemble des activités</span>.</p></li>
 <li class="steps">
 <p class="p">Saisissez la commande <span class="cmd">sudo systemctl hibernate</span> dans le terminal et appuyez sur la touche <span class="key"><kbd>Entrée</kbd></span>.</p>
 <p class="p">Entrer votre mot de passe quand demandé.</p>
@@ -104,17 +104,17 @@ ResultActive=yes</pre></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Énergie et batterie">Énergie et batterie</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Que se passe-t-il lorsque je mets en veille mon ordinateur ?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Diminution de la luminosité de l'écran après un certain temps d'inactivité">screen dimming</a></span>…
+<a href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.fr" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.fr" title="Que se passe-t-il lorsque je mets en veille mon ordinateur ?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.fr" title="Diminution de la luminosité de l'écran après un certain temps d'inactivité">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-suspendfail.html" title="Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?">Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.fr" title="Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?">Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li></ul></div>
 </div></div>
 </div>

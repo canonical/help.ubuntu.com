@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Megosztás beállításai</span></h1></div>
@@ -52,13 +52,13 @@
 <p class="p">A <span class="em">Megosztás beállításai</span> ablak segít szabályozni, hogy mi kerül megosztásra a helyi hálózaton, vagy a <span class="em">Bluetooth</span>-hoz hasonló technológiák használatával.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html" title="A számítógép megjelenő nevének beállítása"><span class="title">A számítógép megjelenő nevének beállítása</span><span class="linkdiv-dash"> — </span><span class="desc">Szabályozza, hogyan jelenik meg számítógépe más számítógépek vagy eszközök számára.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html" title="Az asztal megosztása"><span class="title">Az asztal megosztása</span><span class="linkdiv-dash"> — </span><span class="desc">Engedélyezze másoknak, hogy VNC használatával megnézzék és használják asztalát.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Bluetooth megosztás szabályozása"><span class="title">Bluetooth megosztás szabályozása</span><span class="linkdiv-dash"> — </span><span class="desc">Fájlok feltöltésének engedélyezése a számítógépre Bluetooth használatával.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.hu" title="A számítógép megjelenő nevének beállítása"><span class="title">A számítógép megjelenő nevének beállítása</span><span class="linkdiv-dash"> — </span><span class="desc">Szabályozza, hogyan jelenik meg számítógépe más számítógépek vagy eszközök számára.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.hu" title="Az asztal megosztása"><span class="title">Az asztal megosztása</span><span class="linkdiv-dash"> — </span><span class="desc">Engedélyezze másoknak, hogy VNC használatával megnézzék és használják asztalát.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.hu" title="Bluetooth megosztás szabályozása"><span class="title">Bluetooth megosztás szabályozása</span><span class="linkdiv-dash"> — </span><span class="desc">Fájlok feltöltésének engedélyezése a számítógépre Bluetooth használatával.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html" title="Személyes fájljainak megosztása"><span class="title">Személyes fájljainak megosztása</span><span class="linkdiv-dash"> — </span><span class="desc">Engedélyezze a <span class="file">Nyilvános</span> mappában lévő fájlok eléréséhez.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-media.html" title="Zene, fényképek és videók megosztása"><span class="title">Zene, fényképek és videók megosztása</span><span class="linkdiv-dash"> — </span><span class="desc">Média megosztása a helyi hálózaton UPnP használatával.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.hu" title="Személyes fájljainak megosztása"><span class="title">Személyes fájljainak megosztása</span><span class="linkdiv-dash"> — </span><span class="desc">Engedélyezze a <span class="file">Nyilvános</span> mappában lévő fájlok eléréséhez.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-media.html.hu" title="Zene, fényképek és videók megosztása"><span class="title">Zene, fényképek és videók megosztása</span><span class="linkdiv-dash"> — </span><span class="desc">Média megosztása a helyi hálózaton UPnP használatával.</span></a></div>
 </div>
 </div></div></div>
 </div>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Billentyűzet">Billentyűzet</a></span>, <span class="link"><a href="mouse.html" title="Egér">egér</a></span>, <span class="link"><a href="prefs-display.html" title="Megjelenítés és képernyő">kijelző</a></span>, <span class="link"><a href="prefs-language.html" title="Terület és nyelv">nyelvek</a></span>, <span class="link"><a href="user-accounts.html" title="Felhasználói fiókok">felhasználók</a></span>…</span>
+<a href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a><span class="desc"> — <span class="link"><a href="keyboard.html.hu" title="Billentyűzet">Billentyűzet</a></span>, <span class="link"><a href="mouse.html.hu" title="Egér">egér</a></span>, <span class="link"><a href="prefs-display.html.hu" title="Megjelenítés és képernyő">kijelző</a></span>, <span class="link"><a href="prefs-language.html.hu" title="Terület és nyelv">nyelvek</a></span>, <span class="link"><a href="user-accounts.html.hu" title="Felhasználói fiókok">felhasználók</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

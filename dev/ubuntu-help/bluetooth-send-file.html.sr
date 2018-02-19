@@ -44,22 +44,22 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="sharing.html" title="Дељење">Дељење</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="sharing.html.sr" title="Дељење">Дељење</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="bluetooth.html" title="Блутут">Блутут</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="bluetooth.html.sr" title="Блутут">Блутут</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Пошаљите датотеке Блутут уређају</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Можете да шаљете датотеке на повезане блутут уређаје, као што су неки мобилни телефони или други рачунари. Неке врсте уређаја не дозвољавају пренос датотека, или нарочитих врста датотека. Датотеке можете да пошаљете на један од три начина: користећи иконицу блутута на траци изборника, из прозора подешавања блутута, или посредно из управника датотека.</p>
+<p class="p">Можете да шаљете датотеке на повезане блутут уређаје, као што су неки мобилни телефони или други рачунари. Неке врсте уређаја не дозвољавају пренос датотека, или нарочитих врста датотека. Можете да пошаљете датотеке користећи прозор подешавања блутута.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Блутут</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Блутут</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Блутут</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Уверите се да је блутут укључен: прекидач на насловној траци треба бити постављен на <span class="gui">УКЉ.</span>.</p></li>
 <li class="steps">
-<p class="p">На списку <span class="gui">уређаја</span>, изаберите уређај коме ће се слати датотеке. Ако жељени уређај није приказан као <span class="gui">Повезан</span> на списку, треба да се <span class="link"><a href="bluetooth-connect-device.html" title="Повежите ваш рачунар на Блутут уређај">повежете</a></span> с њим.</p>
+<p class="p">На списку <span class="gui">уређаја</span>, изаберите уређај коме ће се слати датотеке. Ако жељени уређај није приказан као <span class="gui">Повезан</span> на списку, треба да се <span class="link"><a href="bluetooth-connect-device.html.sr" title="Повежите ваш рачунар на Блутут уређај">повежете</a></span> с њим.</p>
 <p class="p">Појавиће се панел намењен спољном уређају.</p>
 </li>
 <li class="steps"><p class="p">Кликните <span class="gui">Пошаљи датотеке…</span> и појавиће се бирач датотека.</p></li>
@@ -77,17 +77,17 @@
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html" title="Блутут">Блутут</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Повежите ваш рачунар на Блутут уређај">Повежите се</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Пошаљите датотеке Блутут уређају">пошаљите датотеке</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Укључите или искључите блутут">укључите и искључите</a></span>…</span>
+<a href="bluetooth.html.sr" title="Блутут">Блутут</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.sr" title="Повежите ваш рачунар на Блутут уређај">Повежите се</a></span>, <span class="link"><a href="bluetooth-send-file.html.sr" title="Пошаљите датотеке Блутут уређају">пошаљите датотеке</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.sr" title="Укључите или искључите блутут">укључите и искључите</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Дељење">Дељење</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Делите радну површ">Дељење радне површи</a></span>, <span class="link"><a href="files-share.html" title="Делите датотеке е-поштом">Дељење датотека е-поштом</a></span>, <span class="link"><a href="sharing-media.html" title="Делите вашу музику, фотографије и видео записе">Дељење медија</a></span>…</span>
+<a href="sharing.html.sr" title="Дељење">Дељење</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.sr" title="Делите радну површ">Дељење радне површи</a></span>, <span class="link"><a href="files-share.html.sr" title="Делите датотеке е-поштом">Дељење датотека е-поштом</a></span>, <span class="link"><a href="sharing-media.html.sr" title="Делите вашу музику, фотографије и видео записе">Дељење медија</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="Делите датотеке е-поштом">Делите датотеке е-поштом</a><span class="desc"> — С лакоћом пренесите датотеке до ваших контакта е-поште из управника датотека.</span>
+<a href="files-share.html.sr" title="Делите датотеке е-поштом">Делите датотеке е-поштом</a><span class="desc"> — С лакоћом пренесите датотеке до ваших контакта е-поште из управника датотека.</span>
 </li></ul></div>
 </div></div>
 </div>

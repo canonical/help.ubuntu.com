@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Solução de problemas de rede sem fio">Solução de problemas de rede sem fio</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.pt-BR#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="net-wireless-troubleshooting.html.pt-BR" title="Solução de problemas de rede sem fio">Solução de problemas de rede sem fio</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-wireless.html" title="Rede sem fio">Rede sem fio</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Solução de problemas de rede sem fio">Solução de problemas de rede sem fio</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-wireless.html.pt-BR" title="Rede sem fio">Rede sem fio</a> » <a class="trail" href="net-wireless-troubleshooting.html.pt-BR" title="Solução de problemas de rede sem fio">Solução de problemas de rede sem fio</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Solução de problemas de rede sem fio">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Solução de problemas de rede sem fio">Próximo</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.pt-BR" title="Solução de problemas de rede sem fio">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.pt-BR" title="Solução de problemas de rede sem fio">Próximo</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Solução de problemas de conexão sem fio</span></h1>
@@ -70,7 +70,7 @@
        vendor: Intel Corporation</pre></div>
 </li>
 <li class="steps">
-<p class="p">Se um dispositivo de rede sem fio está listado, continue com a etapa de <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Solução de problemas de rede sem fio">Drivers de dispositivo</a></span>.</p>
+<p class="p">Se um dispositivo de rede sem fio está listado, continue com a etapa de <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.pt-BR" title="Solução de problemas de rede sem fio">Drivers de dispositivo</a></span>.</p>
 <p class="p">Se um dispositivo de rede sem fio <span class="em">não</span> está listado, as próximas etapas vão depender do tipo de dispositivo que você usa. Veja a seção abaixo que é relevante ao tipo de adaptador de rede sem fio que seu computador possui (<span class="link"><a href="#pci" title="Adaptador de rede sem fio PCI (interno)">PCI interno</a></span>, <span class="link"><a href="#usb" title="Adaptador sem fio USB">USB</a></span> ou <span class="link"><a href="#pcmcia" title="Verificando por um dispositivo PCMCIA">PCMCIA</a></span>).</p>
 </li>
 </ol></div></div></div>
@@ -85,7 +85,7 @@
 <p class="p">Veja a lista de dispositivos que é mostrada e procure por qualquer um que esteja marcado como <span class="code">Network controller</span> ou <span class="code">Ethernet controller</span>. Vários dispositivos podem estar marcados dessa forma; aquele correspondente a seu adaptador de rede sem fio pode incluir palavras como <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> ou <span class="code">802.11</span>. Aqui está um exemplo de como a mensagem pode ser parecer:</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
-<li class="steps"><p class="p">Se você localizou seu adaptador de rede sem fio na lista, continue com a etapa de <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Solução de problemas de rede sem fio">Drivers de dispositivos</a></span>. Se você não localizou qualquer dos termos relacionados a seu adaptador de rede sem fio, veja <span class="link"><a href="#not-recognized" title="Adaptador sem fio não foi reconhecido">as instruções abaixo</a></span>.</p></li>
+<li class="steps"><p class="p">Se você localizou seu adaptador de rede sem fio na lista, continue com a etapa de <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.pt-BR" title="Solução de problemas de rede sem fio">Drivers de dispositivos</a></span>. Se você não localizou qualquer dos termos relacionados a seu adaptador de rede sem fio, veja <span class="link"><a href="#not-recognized" title="Adaptador sem fio não foi reconhecido">as instruções abaixo</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -99,7 +99,7 @@
 <p class="p">Veja a lista de dispositivos que é mostrada e procure por qualquer um que pareça se referir a um dispositivo de rede sem fio. Aquele correspondente a seu adaptador de rede sem fio pode incluir palavras como <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> ou <span class="code">802.11</span>. Aqui está um exemplo de como a mensagem pode ser parecer:</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
-<li class="steps"><p class="p">Se você localizou seu adaptador de rede sem fio na lista, continue com a etapa de <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Solução de problemas de rede sem fio">Drivers de dispositivos</a></span>. Se você não localizou qualquer dos termos relacionados a seu adaptador de rede sem fio, veja <span class="link"><a href="#not-recognized" title="Adaptador sem fio não foi reconhecido">as instruções abaixo</a></span>.</p></li>
+<li class="steps"><p class="p">Se você localizou seu adaptador de rede sem fio na lista, continue com a etapa de <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.pt-BR" title="Solução de problemas de rede sem fio">Drivers de dispositivos</a></span>. Se você não localizou qualquer dos termos relacionados a seu adaptador de rede sem fio, veja <span class="link"><a href="#not-recognized" title="Adaptador sem fio não foi reconhecido">as instruções abaixo</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -116,7 +116,7 @@
 </li>
 <li class="steps"><p class="p">Insira seu adaptador de rede sem fio no slot PCMCIA e veja o que muda na janela do Terminal. As alterações devem incluir alguma informação sobre seu adaptador de rede sem fio. Analise e veja se consegue identificá-lo.</p></li>
 <li class="steps"><p class="p">Para interromper a execução do comando no Terminal, pressione <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Após isto, você pode fechar o Terminal se assim desejar.</p></li>
-<li class="steps"><p class="p">Se você localizou alguma informação sobre seu adaptador de rede sem fio, continue com a etapa de <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Solução de problemas de rede sem fio">Drivers de dispositivo</a></span>. Se você não localizou nada relacionado a seu adaptador, veja <span class="link"><a href="#not-recognized" title="Adaptador sem fio não foi reconhecido">as instruções abaixo</a></span>.</p></li>
+<li class="steps"><p class="p">Se você localizou alguma informação sobre seu adaptador de rede sem fio, continue com a etapa de <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.pt-BR" title="Solução de problemas de rede sem fio">Drivers de dispositivo</a></span>. Se você não localizou nada relacionado a seu adaptador, veja <span class="link"><a href="#not-recognized" title="Adaptador sem fio não foi reconhecido">as instruções abaixo</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -128,14 +128,14 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Solução de problemas de rede sem fio">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Solução de problemas de rede sem fio">Próximo</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.pt-BR" title="Solução de problemas de rede sem fio">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.pt-BR" title="Solução de problemas de rede sem fio">Próximo</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Solução de problemas de rede sem fio">Solução de problemas de rede sem fio</a><span class="desc"> — Identifique a corrija problemas com conexões de rede sem fio.</span>
+<a href="net-wireless-troubleshooting.html.pt-BR" title="Solução de problemas de rede sem fio">Solução de problemas de rede sem fio</a><span class="desc"> — Identifique a corrija problemas com conexões de rede sem fio.</span>
 </li></ul></div>
 </div></div></div>
 </div>

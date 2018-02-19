@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="దస్త్రాలు, సంచయాలు &amp; వెతుకులాట">Files</a> › <a class="trail" href="files.html#common-file-tasks" title="సామాన్య పనులు">సామాన్య పనులు</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.te" title="దస్త్రాలు, సంచయాలు &amp; వెతుకులాట">Files</a> › <a class="trail" href="files.html.te#common-file-tasks" title="సామాన్య పనులు">సామాన్య పనులు</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ఫైళ్ళను మరియు సంచయాలను తొలగించండి</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">If you do not want a file or folder any more, you can delete it. When you
   delete an item it is moved to the <span class="gui">Trash</span> folder, where it is stored
-  until you empty the trash. You can <span class="link"><a href="files-recover.html" title="చెత్తబుట్ట నుండి ఫైలును తిరిగిపొందుము">restore
+  until you empty the trash. You can <span class="link"><a href="files-recover.html.te" title="చెత్తబుట్ట నుండి ఫైలును తిరిగిపొందుము">restore
   items</a></span> in the <span class="gui">Trash</span> folder to their original location if you
   decide you need them, or if they were accidentally deleted.</p>
 <div class="steps"><div class="inner">
@@ -80,7 +80,7 @@
 <li class="steps"><p class="p">మీరు ఈ చర్యను రద్దుచేయలేరు కావున, ఫైలును లేదా సంచయంను తొలగించాలా లేదా అనేది మీరు ఖరారు చేయవలసివుంటుంది.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="చీటి"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="link"><a href="files.html#removable" title="తీసివేయదగిన డ్రైవులు మరియు బాహ్య డిస్కులు">తీసివేయగల పరికరం </a></span> పైని ఫైళ్ళను తొలగించు అనేది బహుశా ఇతర ఆపరేటింగ్ సిస్టమ్స్ పైన కనబడకపోవచ్చు, విండోస్ మాక్ ఓస్ వంటివి. ఫైళ్ళు అక్కడే వుంటాయి, మీరు తిరిగి మీ కంప్యూటర్‌కు అనుసంధానించగానే అందుబాటులో వుంటాయి.</p></div></div></div></div>
+<div class="note" title="చీటి"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="link"><a href="files.html.te#removable" title="తీసివేయదగిన డ్రైవులు మరియు బాహ్య డిస్కులు">తీసివేయగల పరికరం </a></span> పైని ఫైళ్ళను తొలగించు అనేది బహుశా ఇతర ఆపరేటింగ్ సిస్టమ్స్ పైన కనబడకపోవచ్చు, విండోస్ మాక్ ఓస్ వంటివి. ఫైళ్ళు అక్కడే వుంటాయి, మీరు తిరిగి మీ కంప్యూటర్‌కు అనుసంధానించగానే అందుబాటులో వుంటాయి.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -88,14 +88,14 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="సామాన్య పనులు">సామాన్య పనులు</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.te#common-file-tasks" title="సామాన్య పనులు">సామాన్య పనులు</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ఇవి కూడా చూడండి</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html#trash" title="Trash">File manager trash preferences</a></li>
+<li class="links "><a href="nautilus-behavior.html.te#trash" title="Trash">File manager trash preferences</a></li>
 <li class="links ">
-<a href="files-recover.html" title="చెత్తబుట్ట నుండి ఫైలును తిరిగిపొందుము">చెత్తబుట్ట నుండి ఫైలును తిరిగిపొందుము</a><span class="desc"> — తొలగించిన ఫైళ్ళు సాధారణంగా చెత్తబుట్టకు పంపబడును, అయితే మరలా తిరిగి పొందవచ్చు.</span>
+<a href="files-recover.html.te" title="చెత్తబుట్ట నుండి ఫైలును తిరిగిపొందుము">చెత్తబుట్ట నుండి ఫైలును తిరిగిపొందుము</a><span class="desc"> — తొలగించిన ఫైళ్ళు సాధారణంగా చెత్తబుట్టకు పంపబడును, అయితే మరలా తిరిగి పొందవచ్చు.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="media.html#sound" title="基本のサウンド">サウンド</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ja" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="media.html.ja#sound" title="基本のサウンド">サウンド</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">警告音を選択する、もしくは無効にする</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">コンピューターはメッセージやイベントが起こった時、単純な警告音を再生します。警告には異なるサウンドクリップを選択できます。また、警告音の音量をシステムの音量とは別に設定できます。警告音を完全に無効にすることもできます。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Sound</span>.</p></li>
 <li class="steps"><p class="p"><span class="gui">サウンド</span>をクリックし、パネルを開きます。</p></li>
 <li class="steps"><p class="p"><span class="gui">音響効果</span>タブで警告音を選択します。クリックして警告音を再生できます。</p></li>
@@ -68,13 +68,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="基本のサウンド">基本のサウンド</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="サウンドの音量の変更">音量</a></span>, <span class="link"><a href="sound-usespeakers.html" title="外部のスピーカーやヘッドフォンを使う">スピーカーとヘッドフォン</a></span>, <span class="link"><a href="sound-usemic.html" title="外付けマイクを使用する">マイク</a></span>…</span>
+<a href="media.html.ja#sound" title="基本のサウンド">基本のサウンド</a><span class="desc"> — <span class="link"><a href="sound-volume.html.ja" title="サウンドの音量の変更">音量</a></span>, <span class="link"><a href="sound-usespeakers.html.ja" title="外部のスピーカーやヘッドフォンを使う">スピーカーとヘッドフォン</a></span>, <span class="link"><a href="sound-usemic.html.ja" title="外付けマイクを使用する">マイク</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y-visualalert.html" title="警告音の代わりに画面をひらめかせる">警告音の代わりに画面をひらめかせる</a><span class="desc"> — 視覚警告を有効にして、警告音が鳴ったときに画面もしくはウィンドウをひらめかせます。</span>
+<a href="a11y-visualalert.html.ja" title="警告音の代わりに画面をひらめかせる">警告音の代わりに画面をひらめかせる</a><span class="desc"> — 視覚警告を有効にして、警告音が鳴ったときに画面もしくはウィンドウをひらめかせます。</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Conexiones cableadas</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html" title="Conectar a una red cableada (Ethernet)"><span class="title">Conectar a una red cableada (Ethernet)</span><span class="linkdiv-dash"> — </span><span class="desc">Para configurar la mayoría de las conexiones a redes cableadas, todo lo que necesita es conectar un cable de red.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Conectar a una VPN"><span class="title">Conectar a una VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda cómo configurar una conexión VPN a una red local mediante Internet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html" title="Crear una conexión con una dirección IP fija"><span class="title">Crear una conexión con una dirección IP fija</span><span class="linkdiv-dash"> — </span><span class="desc">Usar una dirección IP estática facilita el proporcionar algunos servicios de red desde su equipo.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Establecer la configuración de la red manualmente"><span class="title">Establecer la configuración de la red manualmente</span><span class="linkdiv-dash"> — </span><span class="desc">Si la configuración de red no se le asigna automáticamente, deberá introducirla manualmente.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html.es" title="Conectar a una red cableada (Ethernet)"><span class="title">Conectar a una red cableada (Ethernet)</span><span class="linkdiv-dash"> — </span><span class="desc">Para configurar la mayoría de las conexiones a redes cableadas, todo lo que necesita es conectar un cable de red.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html.es" title="Conectar a una VPN"><span class="title">Conectar a una VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda cómo configurar una conexión VPN a una red local mediante Internet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html.es" title="Crear una conexión con una dirección IP fija"><span class="title">Crear una conexión con una dirección IP fija</span><span class="linkdiv-dash"> — </span><span class="desc">Usar una dirección IP estática facilita el proporcionar algunos servicios de red desde su equipo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html.es" title="Establecer la configuración de la red manualmente"><span class="title">Establecer la configuración de la red manualmente</span><span class="linkdiv-dash"> — </span><span class="desc">Si la configuración de red no se le asigna automáticamente, deberá introducirla manualmente.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Red, weby correo-e">Red, weby correo-e</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Conexiones inalámbricas">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html" title="Conexiones cableadas">cableada</a></span>, <span class="link"><a href="net-problem.html" title="Problemas de red">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html" title="Navegadores">navegación web</a></span>, <span class="link"><a href="net-email.html" title="Software de correo electrónico">cuentas de correo-e</a></span>…</span>
+<a href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a><span class="desc"> — <span class="link"><a href="net-wireless.html.es" title="Conexiones inalámbricas">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html.es" title="Conexiones cableadas">cableada</a></span>, <span class="link"><a href="net-problem.html.es" title="Problemas de red">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.es" title="Navegadores">navegación web</a></span>, <span class="link"><a href="net-email.html.es" title="Software de correo electrónico">cuentas de correo-e</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

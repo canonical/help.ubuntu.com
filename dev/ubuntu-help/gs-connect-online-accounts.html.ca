@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Primers passos">Primers passos amb el GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.ca" title="Primers passos">Primers passos amb el GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-browse-web.html" title="Navegueu per la web">Anterior</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html" title="Canvieu la data, l'hora i la zona horària">Següent</a>
+<a class="nextlinks-prev" href="gs-browse-web.html.ca" title="Navegueu per la web">Anterior</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.ca" title="Canvieu la data, l'hora i la zona horària">Següent</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Connecteu-vos als comptes en línia</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html#yourname" title="You and your computer">system menu</a></span>
+<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html.ca#yourname" title="You and your computer">system menu</a></span>
       on the right side of the top bar.</p></li>
 <li class="steps"><p class="p">Feu clic al botó de paràmetres situat al final esquerra del menú.</p></li>
 </ol></div></div></div>
@@ -75,7 +75,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Molts comptes en línia us deixen escollir els serveis que es poden utilitzar amb el compte. Si no voleu utilitzar un servei feu clic al commutador <span class="gui">actiu/inactiu</span> situat a la part dreta de la finestra per inhabilitar-lo.</p></li></ol></div></div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-browse-web.html" title="Navegueu per la web">Anterior</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html" title="Canvieu la data, l'hora i la zona horària">Següent</a>
+<a class="nextlinks-prev" href="gs-browse-web.html.ca" title="Navegueu per la web">Anterior</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.ca" title="Canvieu la data, l'hora i la zona horària">Següent</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -83,16 +83,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Primers passos">Primers passos amb el GNOME</a><span class="desc"> — És el primer cop que utilitzeu el GNOME? Apreneu a fer-lo servir.</span>
+<a href="getting-started.html.ca" title="Primers passos">Primers passos amb el GNOME</a><span class="desc"> — És el primer cop que utilitzeu el GNOME? Apreneu a fer-lo servir.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Online accounts">Online accounts</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Add an account">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Remove an account">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.ca" title="Online accounts">Online accounts</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.ca" title="Add an account">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.ca" title="Remove an account">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.ca" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div>

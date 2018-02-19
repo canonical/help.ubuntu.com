@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="color.html" title="రంగుల నిర్వహణ">రంగుల నిర్వహణ</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.te" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="color.html.te" title="రంగుల నిర్వహణ">రంగుల నిర్వహణ</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="color.html" title="రంగుల నిర్వహణ">రంగుల నిర్వహణ</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.te" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="color.html.te" title="రంగుల నిర్వహణ">రంగుల నిర్వహణ</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">You may want to assign a color profile for your screen or printer so that
   the colors which it shows are more accurate.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.te#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
       start typing <span class="gui">Color</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select the device for which you want to add a profile.</p></li>
@@ -74,20 +74,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html" title="రంగుల నిర్వహణ">రంగుల నిర్వహణ</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html" title="రంగు నిర్వహణ ఎందుకు ముఖ్యం?">ఇది ఎందుకు ముఖ్యం</a></span>, <span class="link"><a href="color.html#profiles" title="రంగుల ప్రవరలు">రంగు ప్రొఫైల్స్</a></span>, <span class="link"><a href="color.html#calibration" title="క్యాలిబ్రేషన్">ఒక పరికరం సామర్ధ్యం ఎలా కొలవాలి</a></span>…</span>
+<a href="color.html.te" title="రంగుల నిర్వహణ">రంగుల నిర్వహణ</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.te" title="రంగు నిర్వహణ ఎందుకు ముఖ్యం?">ఇది ఎందుకు ముఖ్యం</a></span>, <span class="link"><a href="color.html.te#profiles" title="రంగుల ప్రవరలు">రంగు ప్రొఫైల్స్</a></span>, <span class="link"><a href="color.html.te#calibration" title="క్యాలిబ్రేషన్">ఒక పరికరం సామర్ధ్యం ఎలా కొలవాలి</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ఇవి కూడా చూడండి</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-why-calibrate.html" title="నేను నాఅంతటనేనే కాలిబ్రేషన్ ఎందుకు చేయాలి?">నేను నాఅంతటనేనే కాలిబ్రేషన్ ఎందుకు చేయాలి?</a><span class="desc"> — మీరు ప్రదర్శించు లేదా ముద్రించు రంగులు మీకు ముఖ్యమైతే కాలిబ్రేటింగ్ అనునది ముఖ్యం.</span>
+<a href="color-why-calibrate.html.te" title="నేను నాఅంతటనేనే కాలిబ్రేషన్ ఎందుకు చేయాలి?">నేను నాఅంతటనేనే కాలిబ్రేషన్ ఎందుకు చేయాలి?</a><span class="desc"> — మీరు ప్రదర్శించు లేదా ముద్రించు రంగులు మీకు ముఖ్యమైతే కాలిబ్రేటింగ్ అనునది ముఖ్యం.</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html" title="నేను రంగు ప్రొఫైళ్ళను ఎలా దిగుమతి చేయగలను?">నేను రంగు ప్రొఫైళ్ళను ఎలా దిగుమతి చేయగలను?</a><span class="desc"> — Color profiles can be imported by opening them.</span>
+<a href="color-howtoimport.html.te" title="నేను రంగు ప్రొఫైళ్ళను ఎలా దిగుమతి చేయగలను?">నేను రంగు ప్రొఫైళ్ళను ఎలా దిగుమతి చేయగలను?</a><span class="desc"> — Color profiles can be imported by opening them.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="రంగు ప్రొఫైల్ అనగా ఏమి?">రంగు ప్రొఫైల్ అనగా ఏమి?</a><span class="desc"> — రంగు ప్రొఫైల్ అనునది సాధారణ ఫైలు అది రంగు జాగాను లేదా పరికర స్పందనను తెలియజెప్పును.</span>
+<a href="color-whatisprofile.html.te" title="రంగు ప్రొఫైల్ అనగా ఏమి?">రంగు ప్రొఫైల్ అనగా ఏమి?</a><span class="desc"> — రంగు ప్రొఫైల్ అనునది సాధారణ ఫైలు అది రంగు జాగాను లేదా పరికర స్పందనను తెలియజెప్పును.</span>
 </li>
 </ul></div>
 </div></div>

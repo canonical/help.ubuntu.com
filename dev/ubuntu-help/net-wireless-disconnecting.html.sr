@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-wireless.html" title="Бежично умрежавање">Бежично умрежавање</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-wireless.html.sr" title="Бежично умрежавање">Бежично умрежавање</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-problem.html" title="Мрежни проблеми">Мрежни проблеми</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-problem.html.sr" title="Мрежни проблеми">Мрежни проблеми</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -82,17 +82,17 @@
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="Бежично умрежавање">Бежично умрежавање</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Повезивање на бежичну мрежу">Повезивање на бежичну</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Повежите се на скривену бежичну мрежу">Скривене мреже</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Зашто се моја бежична мрежа непрестано прекида?">Прекидање везе</a></span>…</span>
+<a href="net-wireless.html.sr" title="Бежично умрежавање">Бежично умрежавање</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.sr" title="Повезивање на бежичну мрежу">Повезивање на бежичну</a></span>, <span class="link"><a href="net-wireless-hidden.html.sr" title="Повежите се на скривену бежичну мрежу">Скривене мреже</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.sr" title="Зашто се моја бежична мрежа непрестано прекида?">Прекидање везе</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-problem.html" title="Мрежни проблеми">Мрежни проблеми</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Решавање проблема бежичне мреже">Решите проблеме бежичних веза</a></span>, <span class="link"><a href="net-wireless-find.html" title="Не могу да видим моју бежичну везу на списку">пронађите вашу бежичну мрежу</a></span>…</span>
+<a href="net-problem.html.sr" title="Мрежни проблеми">Мрежни проблеми</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.sr" title="Решавање проблема бежичне мреже">Решите проблеме бежичних веза</a></span>, <span class="link"><a href="net-wireless-find.html.sr" title="Не могу да видим моју бежичну везу на списку">пронађите вашу бежичну мрежу</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="Повезивање на бежичну мрежу">Повезивање на бежичну мрежу</a><span class="desc"> — Приступите интернету — бежично.</span>
+<a href="net-wireless-connect.html.sr" title="Повезивање на бежичну мрежу">Повезивање на бежичну мрежу</a><span class="desc"> — Приступите интернету — бежично.</span>
 </li></ul></div>
 </div></div>
 </div>

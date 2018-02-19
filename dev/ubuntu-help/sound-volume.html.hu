@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="media.html#sound" title="Alapszintű hangkezelés">Hang</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="media.html.hu#sound" title="Alapszintű hangkezelés">Hang</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hangerő módosítása</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A hangerő módosításához nyissa meg a <span class="gui"><a href="shell-introduction.html#yourname" title="Ön és a számítógépe"> rendszer menüt</a></span> a felső sáv jobb oldalán, és mozgassa a hangerőcsúszkát balra vagy jobbra. A csúszkát balra húzva ki is kapcsolhatja a hangot.</p>
+<p class="p">A hangerő módosításához nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#yourname" title="Ön és a számítógépe"> rendszer menüt</a></span> a felső sáv jobb oldalán, és mozgassa a hangerőcsúszkát balra vagy jobbra. A csúszkát balra húzva ki is kapcsolhatja a hangot.</p>
 <p class="p">Egyes billentyűzeteken vannak a hangerő szabályozására szolgáló billentyűk. Ezek általában stilizált hangszórókat ábrázolnak, amelyekből „hullámok” jönnek ki, és gyakran a funkcióbillentyűk közelében vannak. Laptopokon általában a funkcióbillentyűkön találhatók. Tartsa lenyomva az <span class="key"><kbd class="key-Fn">Fn</kbd></span> billentyűt a használatukhoz.</p>
 <p class="p">Ha külső hangszórókat használ, akkor azok hangerőszabályzói segítségével is módosíthatja a hangerőt. Egyes fülhallgatók szintén rendelkeznek hangerőszabályzóval.</p>
 </div>
@@ -59,7 +59,7 @@
 <p class="p">Egy alkalmazás hangerejét úgy is módosíthatja, hogy az a többi alkalmazásra ne legyen hatással. Ez például akkor lehet hasznos, ha egyszerre hallgat zenét és böngészi a webet. A webböngésző hangját érdemes lehet kikapcsolni, így a weboldalak hangjai nem zavarják a zenét.</p>
 <p class="p">Egyes alkalmazásokban a főablak is tartalmaz hangerőszabályzókat. Ha ilyen alkalmazást használ, akkor használja azt a hangerő módosítására. Ellenkező esetben:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Hang</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Hang</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Hang</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps">
 <p class="p">Nyissa meg az <span class="gui">Alkalmazások</span> lapot, és módosítsa az alkalmazás hangerejét.</p>
@@ -73,7 +73,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="Alapszintű hangkezelés">Alapszintű hangkezelés</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Hangerő módosítása">Hangerő</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Másik hangszóró vagy fülhallgató használata">hangszórók és fejhallgatók</a></span>, <span class="link"><a href="sound-usemic.html" title="Másik mikrofon használata">mikrofonok</a></span>…</span>
+<a href="media.html.hu#sound" title="Alapszintű hangkezelés">Alapszintű hangkezelés</a><span class="desc"> — <span class="link"><a href="sound-volume.html.hu" title="Hangerő módosítása">Hangerő</a></span>, <span class="link"><a href="sound-usespeakers.html.hu" title="Másik hangszóró vagy fülhallgató használata">hangszórók és fejhallgatók</a></span>, <span class="link"><a href="sound-usemic.html.hu" title="Másik mikrofon használata">mikrofonok</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

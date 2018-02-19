@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Werken met vensters">Vensters</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-windows" title="Werken met vensters">Vensters</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zoeken naar een verloren venster</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">A window on a different workspace, or hidden behind another window, is
-  easily found using the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span>
+  easily found using the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span>
   overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Open the <span class="gui">Activities</span> overview. If the missing window is on
       the current
-      <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Werken met werkbladen">workspace</a></span>, it
+      <span class="link"><a href="shell-windows.html.nl#working-with-workspaces" title="Werken met werkbladen">workspace</a></span>, it
       will be shown here in thumbnail. Simply click the thumbnail to redisplay
       the window, or</p></li>
 <li class="list"><p class="p">Click different workspaces in the
-      <span class="link"><a href="shell-workspaces.html" title="Wat is een werkblad en hoe kan ik het gebruiken?">workspace selector</a></span> at the
+      <span class="link"><a href="shell-workspaces.html.nl" title="Wat is een werkblad en hoe kan ik het gebruiken?">workspace selector</a></span> at the
       right-hand side of the screen to try to find your window, or</p></li>
 <li class="list"><p class="p">Right-click the application in the dash and its open windows will be
       listed. Click the window in the list to switch to it.</p></li>
@@ -67,8 +67,8 @@
 <p class="p">Using the window switcher:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Press
-      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
-      to display the <span class="link"><a href="shell-windows-switching.html" title="Schakelen tussen vensters">window switcher</a></span>.
+      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
+      to display the <span class="link"><a href="shell-windows-switching.html.nl" title="Schakelen tussen vensters">window switcher</a></span>.
       Continue to hold down the <span class="key"><kbd>Super</kbd></span> key and press <span class="key"><kbd>Tab</kbd></span>
       to cycle through the open windows, or
       <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to cycle backwards.</p></li>
@@ -81,7 +81,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Werken met vensters">Werken met vensters</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.nl#working-with-windows" title="Werken met vensters">Werken met vensters</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

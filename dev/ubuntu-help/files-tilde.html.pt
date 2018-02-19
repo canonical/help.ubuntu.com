@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html#faq" title="Conselhos e perguntas">Conselhos e perguntas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html.pt#faq" title="Conselhos e perguntas">Conselhos e perguntas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Que é um ficheiro com uma <span class="file">~</span> ao final do nome?</span></h1></div>
@@ -51,19 +51,19 @@
 <div class="contents">
 <p class="p">Os ficheiros com <span class="file">~</span> ao final de seus nomes (por exemplo, <span class="file">exemplo.txt~</span>) são cópias de segurança criadas de forma automática ao editar documentos no editor de textos <span class="app">gedit</span> ou em outros aplicações. É seguro eliminá-los, mas não é perigoso deixar na sua computador.</p>
 <p class="p">Estes ficheiros estão ocultos de maneira predeterminada. Se está a vê-los, é porque selecionou <span class="gui">Mostrar ficheiros ocultos</span> (no menu de opções da vista da barra de ferramentas de <span class="app">Ficheiros</span>) ou porque clicou <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Pode voltar a ocultá-los repetindo um destes passos.</p>
-<p class="p">Estes ficheiros tratam-se da mesma forma que os ficheiros ocultos normais. Consulte a <span class="link"><a href="files-hidden.html" title="Ocultar um ficheiro">Ocultar um ficheiro</a></span> para asesorarse sobre como trabalhar com ficheiros ocultos.</p>
+<p class="p">Estes ficheiros tratam-se da mesma forma que os ficheiros ocultos normais. Consulte a <span class="link"><a href="files-hidden.html.pt" title="Ocultar um ficheiro">Ocultar um ficheiro</a></span> para asesorarse sobre como trabalhar com ficheiros ocultos.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Conselhos e perguntas">Conselhos e perguntas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt#faq" title="Conselhos e perguntas">Conselhos e perguntas</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-hidden.html" title="Ocultar um ficheiro">Ocultar um ficheiro</a><span class="desc"> — Fazer que um ficheiro seja invisível, para que não possa ver no gestor de ficheiros.</span>
+<a href="files-hidden.html.pt" title="Ocultar um ficheiro">Ocultar um ficheiro</a><span class="desc"> — Fazer que um ficheiro seja invisível, para que não possa ver no gestor de ficheiros.</span>
 </li></ul></div>
 </div></div>
 </div>

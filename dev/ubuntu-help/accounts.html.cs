@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Účty on-line</span></h1></div>
@@ -51,12 +51,12 @@
 <div class="contents">
 <p class="p">Můžete zadat své přihlašovací údaje pro některé služby on-line (jako je Google nebo Facebook) do okna <span class="app">Účty on-line</span>. Umožní vám to používat aplikace s přístupem ke službám on-line, jako jsou elektronická pošta, kalendář, diskuze a dokumenty.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="accounts-add.html" title="Přidání účtu"><span class="title">Přidání účtu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak umožnit aplikacím přístup k vašim účtům on-line s fotografiemi, kontakty, kalendáři a dalšími věcmi.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html" title="Odebrání účtu"><span class="title">Odebrání účtu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak z aplikace odebrat přístup k poskytovateli služby on-line.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html" title="Proč přidat účet?"><span class="title">Proč přidat účet?</span><span class="linkdiv-dash"> — </span><span class="desc">Proč byste měli přidat účty e-mailu a sociálních médií do svého uživatelského prostředí.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html" title="Proč můj typ účtu není v seznamu?"><span class="title">Proč můj typ účtu není v seznamu?</span><span class="linkdiv-dash"> — </span><span class="desc">Co dělat, když můj poskytovatel služby on-line není v seznamu?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html" title="Služby a aplikace on-line"><span class="title">Služby a aplikace on-line</span><span class="linkdiv-dash"> — </span><span class="desc">Aplikace mohou používat účty vytvořené v <span class="app">Účtech on-line</span> a služby, které nabízí.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html" title="Řízení, který účet služby on-line může být použit k přístupu"><span class="title">Řízení, který účet služby on-line může být použit k přístupu</span><span class="linkdiv-dash"> — </span><span class="desc">Některé účty on-line nabízí přístup k více službám (třeba kalendáři a e-mailu). Můžete řídit, které z těchto služeb mohou být použity aplikacemi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.cs" title="Přidání účtu"><span class="title">Přidání účtu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak umožnit aplikacím přístup k vašim účtům on-line s fotografiemi, kontakty, kalendáři a dalšími věcmi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.cs" title="Odebrání účtu"><span class="title">Odebrání účtu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak z aplikace odebrat přístup k poskytovateli služby on-line.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.cs" title="Proč přidat účet?"><span class="title">Proč přidat účet?</span><span class="linkdiv-dash"> — </span><span class="desc">Proč byste měli přidat účty e-mailu a sociálních médií do svého uživatelského prostředí.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html.cs" title="Proč můj typ účtu není v seznamu?"><span class="title">Proč můj typ účtu není v seznamu?</span><span class="linkdiv-dash"> — </span><span class="desc">Co dělat, když můj poskytovatel služby on-line není v seznamu?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.cs" title="Služby a aplikace on-line"><span class="title">Služby a aplikace on-line</span><span class="linkdiv-dash"> — </span><span class="desc">Aplikace mohou používat účty vytvořené v <span class="app">Účtech on-line</span> a služby, které nabízí.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.cs" title="Řízení, který účet služby on-line může být použit k přístupu"><span class="title">Řízení, který účet služby on-line může být použit k přístupu</span><span class="linkdiv-dash"> — </span><span class="desc">Některé účty on-line nabízí přístup k více službám (třeba kalendáři a e-mailu). Můžete řídit, které z těchto služeb mohou být použity aplikacemi.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -65,20 +65,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html" title="Uživatelské účty">uživatelské účty</a></span>…</span>
+<a href="prefs.html.cs" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html.cs" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html.cs" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html.cs" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html.cs" title="Uživatelské účty">uživatelské účty</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat.html" title="Chatování a společenské sítě">Chatování a společenské sítě</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Rychlá komunikace na Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Videotelefonování">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Jak mohu použít Skype v Ubuntu?">install skype</a></span>
+<a href="net-chat.html.cs" title="Chatování a společenské sítě">Chatování a společenské sítě</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.cs" title="Rychlá komunikace na Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.cs" title="Videotelefonování">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.cs" title="Jak mohu použít Skype v Ubuntu?">install skype</a></span>
     </span>
 </li>
-<li class="links "><a href="gs-connect-online-accounts.html" title="Připojení k účtům on-line">Vysvětlení, jak se připojit k účtům on-line</a></li>
+<li class="links "><a href="gs-connect-online-accounts.html.cs" title="Připojení k účtům on-line">Vysvětlení, jak se připojit k účtům on-line</a></li>
 </ul></div>
 </div></div>
 </div>

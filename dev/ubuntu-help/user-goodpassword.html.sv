@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="user-accounts.html" title="Användarkonton">Användare</a> › <a class="trail" href="user-accounts.html#passwords" title="Lösenord">Lösenord</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="user-accounts.html.sv" title="Användarkonton">Användare</a> › <a class="trail" href="user-accounts.html.sv#passwords" title="Lösenord">Lösenord</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Välj ett säkert lösenord</span></h1></div>
@@ -79,12 +79,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#passwords" title="Lösenord">Lösenord</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.sv#passwords" title="Lösenord">Lösenord</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-changepassword.html" title="Välj ditt lösenord">Välj ditt lösenord</a><span class="desc"> — Håll ditt konto säkert genom att ändra ditt lösenord ofta i dina kontoinställningar.</span>
+<a href="user-changepassword.html.sv" title="Välj ditt lösenord">Välj ditt lösenord</a><span class="desc"> — Håll ditt konto säkert genom att ändra ditt lösenord ofta i dina kontoinställningar.</span>
 </li></ul></div>
 </div></div>
 </div>

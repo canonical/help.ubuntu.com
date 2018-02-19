@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ihre Arbeitsumgebung">Schreibtisch</a> › <a class="trail" href="shell-overview.html#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a> » <a class="trail" href="shell-windows.html" title="Fenster und Arbeitsflächen">Fenster und Arbeitsflächen</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Arbeiten mit Fenstern">Fenster</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.de" title="Ihre Arbeitsumgebung">Schreibtisch</a> › <a class="trail" href="shell-overview.html.de#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a> » <a class="trail" href="shell-windows.html.de" title="Fenster und Arbeitsflächen">Fenster und Arbeitsflächen</a> › <a class="trail" href="shell-windows.html.de#working-with-windows" title="Arbeiten mit Fenstern">Fenster</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ein Fenster maximieren und wiederherstellen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Sie können ein Fenster maximieren, so dass es den gesamten Platz auf Ihrer Arbeitsfläche einnimmt, oder die Maximierung aufheben, so dass es zu seiner normalen Größe zurückkehrt. Sie können Fenster auch entlang der rechten oder linken Seite des Bildschirms maximieren, so dass Sie eine einfache Übersicht über zwei Fenster gleichzeitig haben. Weitere Informationen hierzu finden Sie in <span class="link"><a href="shell-windows-tiled.html" title="Gekachelte Fenster">Gekachelte Fenster</a></span>.</p>
-<p class="p">Um ein Fenster zu maximieren, ziehen Sie es an der Titelleiste zum oberen Rand des Bildschirms oder klicken Sie doppelt auf die Titelleiste. Um ein Fenster mit der Tastatur zu maximieren, halten Sie die <span class="link"><a href="keyboard-key-super.html" title="Was ist die Super-Taste?">Super-Taste</a></span> gedrückt und drücken Sie <span class="key"><kbd>↑</kbd></span> oder drücken Sie <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
+<p class="p">Sie können ein Fenster maximieren, so dass es den gesamten Platz auf Ihrer Arbeitsfläche einnimmt, oder die Maximierung aufheben, so dass es zu seiner normalen Größe zurückkehrt. Sie können Fenster auch entlang der rechten oder linken Seite des Bildschirms maximieren, so dass Sie eine einfache Übersicht über zwei Fenster gleichzeitig haben. Weitere Informationen hierzu finden Sie in <span class="link"><a href="shell-windows-tiled.html.de" title="Gekachelte Fenster">Gekachelte Fenster</a></span>.</p>
+<p class="p">Um ein Fenster zu maximieren, ziehen Sie es an der Titelleiste zum oberen Rand des Bildschirms oder klicken Sie doppelt auf die Titelleiste. Um ein Fenster mit der Tastatur zu maximieren, halten Sie die <span class="link"><a href="keyboard-key-super.html.de" title="Was ist die Super-Taste?">Super-Taste</a></span> gedrückt und drücken Sie <span class="key"><kbd>↑</kbd></span> oder drücken Sie <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
 <p class="p">Um den Maximierungszustand eines Fensters zurückzusetzen, ziehen Sie es weg von den Bildschirmrändern. Falls das Fenster vollständig maximiert ist, klicken Sie doppelt auf die Titelleiste, um es wiederherzustellen.</p>
 <div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Halten Sie die <span class="key"><kbd>Super</kbd></span>-Taste gedrückt und klicken Sie es an einer beliebigen Stelle an, um es zu ziehen.</p></div></div></div></div>
 </div>
@@ -59,12 +59,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Arbeiten mit Fenstern">Arbeiten mit Fenstern</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.de#working-with-windows" title="Arbeiten mit Fenstern">Arbeiten mit Fenstern</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-tiled.html" title="Gekachelte Fenster">Gekachelte Fenster</a><span class="desc"> — Zwei Fenster nebeneinander »maximieren«.</span>
+<a href="shell-windows-tiled.html.de" title="Gekachelte Fenster">Gekachelte Fenster</a><span class="desc"> — Zwei Fenster nebeneinander »maximieren«.</span>
 </li></ul></div>
 </div></div>
 </div>

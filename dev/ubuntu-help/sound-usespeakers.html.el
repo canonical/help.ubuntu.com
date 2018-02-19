@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="media.html#sound" title="Βασικός ήχος">Ήχος</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="media.html.el#sound" title="Βασικός ήχος">Ήχος</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Χρησιμοποιήστε διαφορετικά ηχεία ή ακουστικά</span></h1></div>
@@ -56,7 +56,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Επιλογή μιας προεπιλεγμένης συσκευής εισόδου ήχου</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ήχος</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ήχος</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ήχος</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Στην καρτέλα <span class="gui">Έξοδος</span>, επιλέξτε τη συσκευή που θέλετε να χρησιμοποιήσετε.</p></li>
 </ol></div>
@@ -69,13 +69,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="Βασικός ήχος">Βασικός ήχος</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Αλλαγή έντασης του ήχου">Ένταση</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Χρησιμοποιήστε διαφορετικά ηχεία ή ακουστικά">Ηχεία και ακουστικά</a></span>, <span class="link"><a href="sound-usemic.html" title="Χρήση διαφορετικού μικροφώνου">Μικρόφωνα</a></span>…</span>
+<a href="media.html.el#sound" title="Βασικός ήχος">Βασικός ήχος</a><span class="desc"> — <span class="link"><a href="sound-volume.html.el" title="Αλλαγή έντασης του ήχου">Ένταση</a></span>, <span class="link"><a href="sound-usespeakers.html.el" title="Χρησιμοποιήστε διαφορετικά ηχεία ή ακουστικά">Ηχεία και ακουστικά</a></span>, <span class="link"><a href="sound-usemic.html.el" title="Χρήση διαφορετικού μικροφώνου">Μικρόφωνα</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-usemic.html" title="Χρήση διαφορετικού μικροφώνου">Χρήση διαφορετικού μικροφώνου</a><span class="desc"> — Χρησιμοποιήστε ένα αναλογικό ή USB μικρόφωνο και επιλέξτε μια προεπιλεγμένη συσκευή εισόδου.</span>
+<a href="sound-usemic.html.el" title="Χρήση διαφορετικού μικροφώνου">Χρήση διαφορετικού μικροφώνου</a><span class="desc"> — Χρησιμοποιήστε ένα αναλογικό ή USB μικρόφωνο και επιλέξτε μια προεπιλεγμένη συσκευή εισόδου.</span>
 </li></ul></div>
 </div></div>
 </div>

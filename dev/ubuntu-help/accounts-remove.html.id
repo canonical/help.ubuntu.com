@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="accounts.html" title="Akun daring">Akun daring</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="accounts.html.id" title="Akun daring">Akun daring</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Menghapus sebuah akun</span></h1></div>
@@ -57,13 +57,13 @@
     or sites. Look for an app called “GNOME” and remove it.</p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akun Daring</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akun Daring</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akun Daring</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Pilih akun yang ingin Anda hapus.</p></li>
 <li class="steps"><p class="p">Klik tombol <span class="gui">-</span> di pojok kiri bawah jendela.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Hapus</span> dalam dialog konfirmasi.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Alih-alih menghapus akun secara komplit, dimungkinkan untuk <span class="link"><a href="accounts-disable-service.html" title="Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana">membatasi layanan</a></span> yang diakses oleh desktop Anda.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Alih-alih menghapus akun secara komplit, dimungkinkan untuk <span class="link"><a href="accounts-disable-service.html.id" title="Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana">membatasi layanan</a></span> yang diakses oleh desktop Anda.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -71,13 +71,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Akun daring">Akun daring</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Tambahkan akun">Menambahkan suatu akun daring</a></span>, <span class="link"><a href="accounts-remove.html" title="Menghapus sebuah akun">Menghapus suatu akun</a></span>, <span class="link"><a href="accounts-which-application.html" title="Aplikasi dan layanan daring">Mempelajari tentang layanan</a></span>…</span>
+<a href="accounts.html.id" title="Akun daring">Akun daring</a><span class="desc"> — <span class="link"><a href="accounts-add.html.id" title="Tambahkan akun">Menambahkan suatu akun daring</a></span>, <span class="link"><a href="accounts-remove.html.id" title="Menghapus sebuah akun">Menghapus suatu akun</a></span>, <span class="link"><a href="accounts-which-application.html.id" title="Aplikasi dan layanan daring">Mempelajari tentang layanan</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana">Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana</a><span class="desc"> — Beberapa akun daring dapat dipakai untuk mengakses multi layanan (seperti kalender dan surel). Anda dapat mengendalikan mana saja layanan yang dapat dipakai oleh aplikasi.</span>
+<a href="accounts-disable-service.html.id" title="Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana">Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana</a><span class="desc"> — Beberapa akun daring dapat dipakai untuk mengakses multi layanan (seperti kalender dan surel). Anda dapat mengendalikan mana saja layanan yang dapat dipakai oleh aplikasi.</span>
 </li></ul></div>
 </div></div>
 </div>

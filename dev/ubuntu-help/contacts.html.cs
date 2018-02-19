@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kontakty</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Používejte aplikaci <span class="app">Kontakty</span> k uchování, přístupu a úpravám údajů svých kontaktů, ať již místních nebo v <span class="link"><a href="accounts.html" title="Účty on-line">účtech on-line</a></span>.</p>
+<p class="p">Používejte aplikaci <span class="app">Kontakty</span> k uchování, přístupu a úpravám údajů svých kontaktů, ať již místních nebo v <span class="link"><a href="accounts.html.cs" title="Účty on-line">účtech on-line</a></span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html" title="Prvotní spuštění Kontaktů"><span class="title">Prvotní spuštění Kontaktů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak ukládat své kontakty do místního adresáře nebo do účtu on-line.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-search.html" title="Hledání kontaktů"><span class="title">Hledání kontaktů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak vyhledat kontakty.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html" title="Propojení a rozpojení kontaktů"><span class="title">Propojení a rozpojení kontaktů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zkombinovat údaje pro kontakt z více zdrojů.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html" title="Přidání a odebrání kontaktu"><span class="title">Přidání a odebrání kontaktu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak přidat a odebrat kontakt v místním adresáři.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html" title="Spojení s vašimi kontakty"><span class="title">Spojení s vašimi kontakty</span><span class="linkdiv-dash"> — </span><span class="desc">Poštovní, diskuzní nebo telefonní kontakty.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html" title="Úprava údajů kontaktu"><span class="title">Úprava údajů kontaktu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak upravit údaje u jednotlivých kontaktů.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.cs" title="Prvotní spuštění Kontaktů"><span class="title">Prvotní spuštění Kontaktů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak ukládat své kontakty do místního adresáře nebo do účtu on-line.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-search.html.cs" title="Hledání kontaktů"><span class="title">Hledání kontaktů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak vyhledat kontakty.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html.cs" title="Propojení a rozpojení kontaktů"><span class="title">Propojení a rozpojení kontaktů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zkombinovat údaje pro kontakt z více zdrojů.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html.cs" title="Přidání a odebrání kontaktu"><span class="title">Přidání a odebrání kontaktu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak přidat a odebrat kontakt v místním adresáři.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.cs" title="Spojení s vašimi kontakty"><span class="title">Spojení s vašimi kontakty</span><span class="linkdiv-dash"> — </span><span class="desc">Poštovní, diskuzní nebo telefonní kontakty.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.cs" title="Úprava údajů kontaktu"><span class="title">Úprava údajů kontaktu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak upravit údaje u jednotlivých kontaktů.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Bezdrátové sítě">Bezdrátové</a></span>, <span class="link"><a href="net-wired.html" title="Drátová síť">drátové</a></span>, <span class="link"><a href="net-problem.html" title="Problémy se sítí">problémy s připojením</a></span>, <span class="link"><a href="net-browser.html" title="Prohlížeče WWW">prohlížení www</a></span>, <span class="link"><a href="net-email.html" title="E-mail a poštovní software">poštovní účty</a></span>…</span>
+<a href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové</a></span>, <span class="link"><a href="net-wired.html.cs" title="Drátová síť">drátové</a></span>, <span class="link"><a href="net-problem.html.cs" title="Problémy se sítí">problémy s připojením</a></span>, <span class="link"><a href="net-browser.html.cs" title="Webové prohlížeče">prohlížení www</a></span>, <span class="link"><a href="net-email.html.cs" title="E-mail a poštovní software">poštovní účty</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

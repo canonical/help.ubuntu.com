@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="user-accounts.html" title="Gebruikersaccounts">Gebruikers</a> › <a class="trail" href="user-accounts.html#manage" title="Gebruikersaccounts beheren">Accounts</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="user-accounts.html.nl" title="Gebruikersaccounts">Gebruikers</a> › <a class="trail" href="user-accounts.html.nl#manage" title="Gebruikersaccounts beheren">Accounts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een nieuwe gebruiker toevoegen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">U kunt meerdere gebruikersaccounts aan uw computer toevoegen. Geef iedereen thuis of op het bedrijf een eigen account. Elke gebruiker heeft zijn eigen persoonlijke map, documenten en instellingen.</p>
-<p class="p">Om gebruikersaccounts te kunnen toevoegen dient u <span class="link"><a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">beheerder</a></span> te zijn.</p>
+<p class="p">Om gebruikersaccounts te kunnen toevoegen dient u <span class="link"><a href="user-admin-explain.html.nl" title="Hoe werken beheerdersrechten?">beheerder</a></span> te zijn.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Gebruikers</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Gebruikers</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Gebruikers</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Ontgrendelen</span> rechtsboven in de hoek en voer uw wachtwoord in wanneer daar om gevraagd wordt.</p></li>
 <li class="steps"><p class="p">Druk op <span class="gui">+</span>, onder de lijst met accounts links, om een nieuwe gebruikersaccount toe te voegen.</p></li>
 <li class="steps">
-<p class="p">Als u wilt dat de nieuwe gebruiker toegang tot de computer heeft als <span class="link"><a href="user-admin-explain.html" title="Hoe werken beheerdersrechten?">beheerder</a></span>, kies dan als accounttype <span class="gui">Beheerder</span>.</p>
+<p class="p">Als u wilt dat de nieuwe gebruiker toegang tot de computer heeft als <span class="link"><a href="user-admin-explain.html.nl" title="Hoe werken beheerdersrechten?">beheerder</a></span>, kies dan als accounttype <span class="gui">Beheerder</span>.</p>
 <p class="p"> Beheerders kunnen handelingen verrichten zoals het toevoegen en verwijderen van gebruikers, software en stuurprogramma's installeren en de datum en tijd wijzigen.</p>
 </li>
 <li class="steps"><p class="p">Enter the new user’s full name. The username will be filled in
@@ -80,12 +80,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Gebruikersaccounts beheren">Gebruikersaccounts beheren</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.nl#manage" title="Gebruikersaccounts beheren">Gebruikersaccounts beheren</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-delete.html" title="Een gebruikersaccount verwijderen">Een gebruikersaccount verwijderen</a><span class="desc"> — Verwijder gebruikers die niet langer gebruik maken van uw computer.</span>
+<a href="user-delete.html.nl" title="Een gebruikersaccount verwijderen">Een gebruikersaccount verwijderen</a><span class="desc"> — Verwijder gebruikers die niet langer gebruik maken van uw computer.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Ξεκινώντας">Ξεκινώντας με το GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.el" title="Ξεκινώντας">Ξεκινώντας με το GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-browse-web.html" title="Περιήγηση στον Ιστό">Προηγούμενο</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html" title="Αλλαγή ημερομηνίας, ώρας και ζώνης ώρας">Επόμενο</a>
+<a class="nextlinks-prev" href="gs-browse-web.html.el" title="Περιήγηση στον Ιστό">Προηγούμενο</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.el" title="Αλλαγή ημερομηνίας, ώρας και ζώνης ώρας">Επόμενο</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Σύνδεση σε διαδικτυακούς λογαριασμούς</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui"><a href="shell-introduction.html#yourname" title="Εσείς και ο υπολογιστή σας">μενού του συστήματος</a></span> στο δεξί μέρος της πάνω μπάρας.</p></li>
+<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui"><a href="shell-introduction.html.el#yourname" title="Εσείς και ο υπολογιστή σας">μενού του συστήματος</a></span> στο δεξί μέρος της πάνω μπάρας.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο κουμπί ρυθμίσεις στο κάτω αριστερό μέρος του μενού.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa2.svg" width="100%" class="media media-block" alt=""></div></div>
@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Πολλοί διαδικτυακοί λογαριασμοί σας επιτρέπουν να επιλέξετε τις υπηρεσίες που θέλετε να χρησιμοποιήσετε με τον διαδικτυακό λογαριασμό σας. Εάν δεν θέλετε να χρησιμοποιήσετε μια υπηρεσία, απενεργοποιήστε την πατώντας τον διακόπτη <span class="gui">ΝΑΙ/ΟΧΙ</span> στα δεξιά του παραθύρου.</p></li></ol></div></div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-browse-web.html" title="Περιήγηση στον Ιστό">Προηγούμενο</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html" title="Αλλαγή ημερομηνίας, ώρας και ζώνης ώρας">Επόμενο</a>
+<a class="nextlinks-prev" href="gs-browse-web.html.el" title="Περιήγηση στον Ιστό">Προηγούμενο</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.el" title="Αλλαγή ημερομηνίας, ώρας και ζώνης ώρας">Επόμενο</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -82,13 +82,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Ξεκινώντας">Ξεκινώντας με το GNOME</a><span class="desc"> — Είστε νέος στο GNOME; Μάθετε πώς να τα καταφέρετε.</span>
+<a href="getting-started.html.el" title="Ξεκινώντας">Ξεκινώντας με το GNOME</a><span class="desc"> — Είστε νέος στο GNOME; Μάθετε πώς να τα καταφέρετε.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακοί λογαριασμοί</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Προσθήκη λογαριασμού">Προσθήκη διαδικτυακού λογαριασμού</a></span>, <span class="link"><a href="accounts-remove.html" title="Αφαίρεση λογαριασμού">Αφαίρεση λογαριασμού</a></span>, <span class="link"><a href="accounts-which-application.html" title="Διαδικτυακές υπηρεσίες και εφαρμογές">Μάθετε σχετικά με τις υπηρεσίες</a></span>…</span>
+<a href="accounts.html.el" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακοί λογαριασμοί</a><span class="desc"> — <span class="link"><a href="accounts-add.html.el" title="Προσθήκη λογαριασμού">Προσθήκη διαδικτυακού λογαριασμού</a></span>, <span class="link"><a href="accounts-remove.html.el" title="Αφαίρεση λογαριασμού">Αφαίρεση λογαριασμού</a></span>, <span class="link"><a href="accounts-which-application.html.el" title="Διαδικτυακές υπηρεσίες και εφαρμογές">Μάθετε σχετικά με τις υπηρεσίες</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

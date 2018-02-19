@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,32 +56,32 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Регион и језик</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.sr" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Универзални приступ</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-osk.html" title="Користите тастатуру на екрану">Користите тастатуру на екрану</a><span class="desc"> — Користите тастатуру на екрану да унесете текст притисцима на дугмад мишем или додирним екраном.</span>
+<a href="keyboard-osk.html.sr" title="Користите тастатуру на екрану">Користите тастатуру на екрану</a><span class="desc"> — Користите тастатуру на екрану да унесете текст притисцима на дугмад мишем или додирним екраном.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html" title="Навигација тастатуром">Навигација тастатуром</a><span class="desc"> — Користите програме и радну површ без миша.</span>
+<a href="keyboard-nav.html.sr" title="Навигација тастатуром">Навигација тастатуром</a><span class="desc"> — Користите програме и радну површ без миша.</span>
 </li>
 <li class="links ">
-<a href="a11y-bouncekeys.html" title="Укључи одскочне тастере">Укључи одскочне тастере</a><span class="desc"> — Занемарите брза понављања притисака тастера истог тастера.</span>
+<a href="a11y-bouncekeys.html.sr" title="Укључи одскочне тастере">Укључи одскочне тастере</a><span class="desc"> — Занемарите брза понављања притисака тастера истог тастера.</span>
 </li>
 <li class="links ">
-<a href="a11y-stickykeys.html" title="Укључите лепљиве тастере">Укључите лепљиве тастере</a><span class="desc"> — Куцајте пречице тастатуре тастер по тастер уместо да држите притиснутим све тастере одједном.</span>
+<a href="a11y-stickykeys.html.sr" title="Укључите лепљиве тастере">Укључите лепљиве тастере</a><span class="desc"> — Куцајте пречице тастатуре тастер по тастер уместо да држите притиснутим све тастере одједном.</span>
 </li>
 <li class="links ">
-<a href="a11y-slowkeys.html" title="Укључите споре тастере">Укључите споре тастере</a><span class="desc"> — Нека постоји застој између притиска тастера и приказивања слова на екрану.</span>
+<a href="a11y-slowkeys.html.sr" title="Укључите споре тастере">Укључите споре тастере</a><span class="desc"> — Нека постоји застој између притиска тастера и приказивања слова на екрану.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-menu.html" title="Шта је то тастер Изборник?">Шта је то тастер <span class="key"><kbd>Изборник</kbd></span>?</a><span class="desc"> — Тастер <span class="key"><kbd>Изборника</kbd></span> покреће приручни изборник тастатуром радије него ли десним кликом.</span>
+<a href="keyboard-key-menu.html.sr" title="Шта је то тастер Изборник?">Шта је то тастер <span class="key"><kbd>Изборник</kbd></span>?</a><span class="desc"> — Тастер <span class="key"><kbd>Изборника</kbd></span> покреће приручни изборник тастатуром радије него ли десним кликом.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html" title="Шта је то тастер Супер?">Шта је то тастер <span class="key"><kbd>Супер</kbd></span>?</a><span class="desc"> — Тастер <span class="key"><kbd>Супер</kbd></span> отвара преглед <span class="gui">Активности</span>. Обично се на тастатури налази поред тастера <span class="key"><kbd>Алт</kbd></span>.</span>
+<a href="keyboard-key-super.html.sr" title="Шта је то тастер Супер?">Шта је то тастер <span class="key"><kbd>Супер</kbd></span>?</a><span class="desc"> — Тастер <span class="key"><kbd>Супер</kbd></span> отвара преглед <span class="gui">Активности</span>. Обично се на тастатури налази поред тастера <span class="key"><kbd>Алт</kbd></span>.</span>
 </li>
 </ul></div>
 </div></div>
@@ -89,19 +89,19 @@
 <div class="title title-links"><h2><span class="title">Остале теме</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Корисне пречице тастатуре">Корисне пречице тастатуре</a><span class="desc"> — Крећите се по радној површи користећи тастатуру.</span>
+<a href="shell-keyboard-shortcuts.html.sr" title="Корисне пречице тастатуре">Корисне пречице тастатуре</a><span class="desc"> — Крећите се по радној површи користећи тастатуру.</span>
 </li>
 <li class="links ">
-<a href="numeric-keypad.html" title="Одељак тастатуре са бројевима">Одељак тастатуре са бројевима</a><span class="desc"> — Укључите одељак тастатуре са бројевима.</span>
+<a href="numeric-keypad.html.sr" title="Одељак тастатуре са бројевима">Одељак тастатуре са бројевима</a><span class="desc"> — Укључите одељак тастатуре са бројевима.</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Подесите пречице тастатуре">Подесите пречице тастатуре</a><span class="desc"> — Одредите или измените пречице тастатуре у подешавањима <span class="gui">Тастатуре</span>.</span>
+<a href="keyboard-shortcuts-set.html.sr" title="Подесите пречице тастатуре">Подесите пречице тастатуре</a><span class="desc"> — Одредите или измените пречице тастатуре у подешавањима <span class="gui">Тастатуре</span>.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Управљајте поновљеним притисцима тастера">Управљајте поновљеним притисцима тастера</a><span class="desc"> — Учините да тастатура не понавља слова када држите притиснутим тастер, или измените застој и брзину понављања тастера.</span>
+<a href="keyboard-repeat-keys.html.sr" title="Управљајте поновљеним притисцима тастера">Управљајте поновљеним притисцима тастера</a><span class="desc"> — Учините да тастатура не понавља слова када држите притиснутим тастер, или измените застој и брзину понављања тастера.</span>
 </li>
 <li class="links ">
-<a href="keyboard-cursor-blink.html" title="Учините да курсор тастатуре трепери">Учините да курсор тастатуре трепери</a><span class="desc"> — Учините да место за убацивање трепери и којом брзином.</span>
+<a href="keyboard-cursor-blink.html.sr" title="Учините да курсор тастатуре трепери">Учините да курсор тастатуре трепери</a><span class="desc"> — Учините да место за убацивање трепери и којом брзином.</span>
 </li>
 </ul></div>
 </div></div>
@@ -112,10 +112,10 @@
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html" title="Кориснички налози">кориснички налози</a></span>…</span>
+<a href="prefs.html.sr" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html.sr" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html.sr" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html.sr" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html.sr" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html.sr" title="Кориснички налози">кориснички налози</a></span>…</span>
 </li>
 <li class="links ">
-<a href="hardware.html" title="Хардвер и управљачки програми">Хардвер и управљачки програми</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Општи проблеми">Хардверски проблеми</a></span>, <span class="link"><a href="printing.html" title="Штампање">штампачи</a></span>, <span class="link"><a href="power.html" title="Напајање и батерија">подешавања напајања</a></span>, <span class="link"><a href="color.html" title="Управљање бојом">управљање бојом</a></span>, <span class="link"><a href="bluetooth.html" title="Блутут">Блутут</a></span>, <span class="link"><a href="disk.html" title="Дискови и складишта">дискови</a></span>…</span>
+<a href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер и управљачки програми</a><span class="desc"> — <span class="link"><a href="hardware.html.sr#problems" title="Општи проблеми">Хардверски проблеми</a></span>, <span class="link"><a href="printing.html.sr" title="Штампање">штампачи</a></span>, <span class="link"><a href="power.html.sr" title="Напајање и батерија">подешавања напајања</a></span>, <span class="link"><a href="color.html.sr" title="Управљање бојом">управљање бојом</a></span>, <span class="link"><a href="bluetooth.html.sr" title="Блутут">Блутут</a></span>, <span class="link"><a href="disk.html.sr" title="Дискови и складишта">дискови</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

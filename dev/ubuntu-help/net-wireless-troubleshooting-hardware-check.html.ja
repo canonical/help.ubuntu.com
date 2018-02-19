@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="無線ネットワーク">無線ネットワーク</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線ネットワークトラブルシューティング</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.ja" title="無線ネットワーク">無線ネットワーク</a> » <a class="trail" href="net-wireless-troubleshooting.html.ja" title="無線ネットワークトラブルシューティング">無線ネットワークトラブルシューティング</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="ハードウェアとドライバー">ハードウェア</a> › <a class="trail" href="hardware.html#problems" title="よくある問題">問題</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線ネットワークトラブルシューティング</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> › <a class="trail" href="hardware.html.ja#problems" title="よくある問題">問題</a> » <a class="trail" href="net-wireless-troubleshooting.html.ja" title="無線ネットワークトラブルシューティング">無線ネットワークトラブルシューティング</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="無線ネットワークトラブルシューティング">前へ</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="無線ネットワークトラブルシューティング">次へ</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.ja" title="無線ネットワークトラブルシューティング">前へ</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.ja" title="無線ネットワークトラブルシューティング">次へ</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">無線接続のトラブルシューター</span></h1>
@@ -70,7 +70,7 @@
        vendor: Intel Corporation</pre></div>
 </li>
 <li class="steps">
-<p class="p">無線デバイスが表示されている場合は、<span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="無線ネットワークトラブルシューティング">デバイスドライバーのステップ</a></span>に進みます。</p>
+<p class="p">無線デバイスが表示されている場合は、<span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.ja" title="無線ネットワークトラブルシューティング">デバイスドライバーのステップ</a></span>に進みます。</p>
 <p class="p">無線デバイスが表示されない場合、次に行うべき手順は使用しているデバイスの種類によって異なってきます。以下で、コンピューターの持つ無線アダプターに関連しているセクションを参照してください (<span class="link"><a href="#pci" title="PCI (内部) ワイヤレスアダプター">内部 PCI</a></span>、<span class="link"><a href="#usb" title="USB ワイヤレスアダプター">USB</a></span>、<span class="link"><a href="#pcmcia" title="Checking for a PCMCIA device">PCMCIA</a></span> など)。</p>
 </li>
 </ol></div></div></div>
@@ -86,7 +86,7 @@
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="無線ネットワークトラブルシューティング">Device Drivers
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.ja" title="無線ネットワークトラブルシューティング">Device Drivers
       step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
       <span class="link"><a href="#not-recognized" title="ワイヤレスアダプターが認識されませんでした">the instructions below</a></span>.</p></li>
@@ -104,7 +104,7 @@
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="無線ネットワークトラブルシューティング">Device Drivers
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.ja" title="無線ネットワークトラブルシューティング">Device Drivers
       step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
       <span class="link"><a href="#not-recognized" title="ワイヤレスアダプターが認識されませんでした">the instructions below</a></span>.</p></li>
@@ -127,7 +127,7 @@
 <li class="steps"><p class="p">PCMCIA スロットにワイヤレスアダプターを差し込み、端末ウィンドウに表示される変更を確認します。ワイヤレスアダプターに関する詳細などが表示されるはずです。ワイヤレスアダプターであると確認できる出力があるか表示内容を確認します。</p></li>
 <li class="steps"><p class="p">端末で実行中のコマンドを停止する場合は、<span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span> を押します。コマンドを停止させたら端末を閉じても構いません。</p></li>
 <li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
-      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="無線ネットワークトラブルシューティング">Device
+      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.ja" title="無線ネットワークトラブルシューティング">Device
       Drivers step</a></span>. If you didn’t find anything related to your wireless
       adapter, see <span class="link"><a href="#not-recognized" title="ワイヤレスアダプターが認識されませんでした">the instructions
       below</a></span>.</p></li>
@@ -147,14 +147,14 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="無線ネットワークトラブルシューティング">前へ</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="無線ネットワークトラブルシューティング">次へ</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.ja" title="無線ネットワークトラブルシューティング">前へ</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.ja" title="無線ネットワークトラブルシューティング">次へ</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線ネットワークトラブルシューティング</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.ja" title="無線ネットワークトラブルシューティング">無線ネットワークトラブルシューティング</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,24 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Filegenskaper</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">För att visa information om en fil eller mapp, högerklicka på den och välj <span class="gui">Egenskaper</span>. Du kan också markera filen och trycka <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Retur</kbd></span></span>.</p>
-<p class="p">Fönstret filegenskaper visa dig information som filtyp, filstorlek och när du senast modifierade den. Om du behöver denna information ofta kan du låta visa det i <span class="link"><a href="nautilus-list.html" title="Kolumninställningar för listvy i Filer">listvykolumer</a></span> eller <span class="link"><a href="nautilus-display.html#icon-captions" title="Ikonrubriker">ikonrubriker</a></span>.</p>
-<p class="p">Informationen som finns på fliken <span class="gui">Grundläggande</span> förklaras nedan. De finns också flikar för <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Ange filrättigheter">Rättigheter</a></span></span> och <span class="gui"><span class="link"><a href="files-open.html#default" title="Ändra standardprogrammet">Öppna med</a></span></span>. För vissa typer av filer, exempelvis för bilder och videor, så kommer det att finnas en extra flik med information så som dimensioner, längd och kodek.</p>
+<p class="p">Fönstret filegenskaper visa dig information som filtyp, filstorlek och när du senast modifierade den. Om du behöver denna information ofta kan du låta visa det i <span class="link"><a href="nautilus-list.html.sv" title="Kolumninställningar för listvy i Filer">listvykolumer</a></span> eller <span class="link"><a href="nautilus-display.html.sv#icon-captions" title="Ikonrubriker">ikonrubriker</a></span>.</p>
+<p class="p">Informationen som finns på fliken <span class="gui">Grundläggande</span> förklaras nedan. De finns också flikar för <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.sv" title="Ange filrättigheter">Rättigheter</a></span></span> och <span class="gui"><span class="link"><a href="files-open.html.sv#default" title="Ändra standardprogrammet">Öppna med</a></span></span>. För vissa typer av filer, exempelvis för bilder och videor, så kommer det att finnas en extra flik med information så som dimensioner, längd och kodek.</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Grundläggande egenskaper</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Namn</span></dt>
-<dd class="terms"><p class="p">Du kan byta namn på filen genom att ändra detta fält. Du kan också byta namn på en fil utanför egenskapsfönstret. Se <span class="link"><a href="files-rename.html" title="Byt namn på en fil eller mapp">Byt namn på en fil eller mapp</a></span>.</p></dd>
+<dd class="terms"><p class="p">Du kan byta namn på filen genom att ändra detta fält. Du kan också byta namn på en fil utanför egenskapsfönstret. Se <span class="link"><a href="files-rename.html.sv" title="Byt namn på en fil eller mapp">Byt namn på en fil eller mapp</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Typ</span></dt>
 <dd class="terms">
-<p class="p">Detta hjälper dig att identifiera filens typ, exempelvis PDF-dokument, OpenDocument-text eller JPEG-bild. Filtypen bestämmer bland annat vilket program som kan öppna filen. Du kan till exempel inte öppna en bild med en musikspelare. Se <span class="link"><a href="files-open.html" title="Öppna filer med andra program">Öppna filer med andra program</a></span> för mer information om detta.</p>
+<p class="p">Detta hjälper dig att identifiera filens typ, exempelvis PDF-dokument, OpenDocument-text eller JPEG-bild. Filtypen bestämmer bland annat vilket program som kan öppna filen. Du kan till exempel inte öppna en bild med en musikspelare. Se <span class="link"><a href="files-open.html.sv" title="Öppna filer med andra program">Öppna filer med andra program</a></span> för mer information om detta.</p>
 <p class="p">Filens <span class="em">MIME-typ</span> visas i parenteser; MIME-typ är en standardmetod som datorer använder för att hänvisa till filtypen.</p>
 </dd>
 <dt class="terms">Innehåll</dt>
@@ -85,12 +85,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sv#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="Ange filrättigheter">Ange filrättigheter</a><span class="desc"> — Kontrollera vem som kan titta på och redigera dina filer och mappar.</span>
+<a href="nautilus-file-properties-permissions.html.sv" title="Ange filrättigheter">Ange filrättigheter</a><span class="desc"> — Kontrollera vem som kan titta på och redigera dina filer och mappar.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html#apps" title="Applications and windows">Applications and windows</a> » <a class="trail" href="shell-windows.html" title="Windows and workspaces">Windows and workspaces</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Working with workspaces">Workspaces</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.en" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html.en#apps" title="Applications and windows">Applications and windows</a> » <a class="trail" href="shell-windows.html.en" title="Windows and workspaces">Windows and workspaces</a> › <a class="trail" href="shell-windows.html.en#working-with-workspaces" title="Working with workspaces">Workspaces</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">What is a workspace, and how will it help me?</span></h1></div>
@@ -61,7 +61,7 @@
 <p class="p">Using workspaces:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the
-    <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview, move your cursor
+    <span class="gui"><a href="shell-introduction.html.en#activities" title="Activities overview">Activities</a></span> overview, move your cursor
     to the right-most side of the screen.</p></li>
 <li class="list"><p class="p">A vertical panel will appear showing
     workspaces in use, plus an empty workspace. This is the
@@ -80,17 +80,17 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">More Information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Working with workspaces">Working with workspaces</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.en#working-with-workspaces" title="Working with workspaces">Working with workspaces</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">See Also</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-workspaces-movewindow.html" title="Move a window to a different workspace">Move a window to a different workspace</a><span class="desc"> — Go to the <span class="gui">Activities</span> overview and drag the window to a
+<a href="shell-workspaces-movewindow.html.en" title="Move a window to a different workspace">Move a window to a different workspace</a><span class="desc"> — Go to the <span class="gui">Activities</span> overview and drag the window to a
     different workspace.</span>
 </li>
 <li class="links ">
-<a href="shell-workspaces-switch.html" title="Switch between workspaces">Switch between workspaces</a><span class="desc"> — Use the workspace selector.</span>
+<a href="shell-workspaces-switch.html.en" title="Switch between workspaces">Switch between workspaces</a><span class="desc"> — Use the workspace selector.</span>
 </li>
 </ul></div>
 </div></div>

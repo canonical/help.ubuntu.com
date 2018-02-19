@@ -43,24 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.zh-CN" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html.zh-CN#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">文件管理器首选项</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html" title="Files list columns preferences"><span class="title">Files list columns preferences</span><span class="linkdiv-dash"> — </span><span class="desc">控制列表视图中，显示哪些信息。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html" title="Views preferences in Files"><span class="title">Views preferences in <span class="app">Files</span></span><span class="linkdiv-dash"> — </span><span class="desc">Specify the default sort order and grouping for the file
+<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html.zh-CN" title="Files list columns preferences"><span class="title">Files list columns preferences</span><span class="linkdiv-dash"> — </span><span class="desc">控制列表视图中，显示哪些信息。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html.zh-CN" title="Views preferences in Files"><span class="title">Views preferences in <span class="app">Files</span></span><span class="linkdiv-dash"> — </span><span class="desc">Specify the default sort order and grouping for the file
     manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html" title="文件管理器显示属性"><span class="title">文件管理器显示属性</span><span class="linkdiv-dash"> — </span><span class="desc">设置文件管理器中图标下面的标题。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html" title="文件管理器行为首选项"><span class="title">文件管理器行为首选项</span><span class="linkdiv-dash"> — </span><span class="desc">单击打开文件，运行或查看可执行文本文件，指定回收站行为。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html" title="文件管理器预览首选项"><span class="title">文件管理器预览首选项</span><span class="linkdiv-dash"> — </span><span class="desc">设置文件是否使用缩略图。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html.zh-CN" title="文件管理器显示属性"><span class="title">文件管理器显示属性</span><span class="linkdiv-dash"> — </span><span class="desc">设置文件管理器中图标下面的标题。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html.zh-CN" title="文件管理器行为首选项"><span class="title">文件管理器行为首选项</span><span class="linkdiv-dash"> — </span><span class="desc">单击打开文件，运行或查看可执行文本文件，指定回收站行为。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html.zh-CN" title="文件管理器预览首选项"><span class="title">文件管理器预览首选项</span><span class="linkdiv-dash"> — </span><span class="desc">设置文件是否使用缩略图。</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.zh-CN#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

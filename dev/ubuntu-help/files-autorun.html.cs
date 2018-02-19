@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Zvuk, video a obrázky">Zvuk, video a obrázky</a> › <a class="trail" href="media.html#photos" title="Fotografie a digitální fotoaparáty">Fotografie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.cs" title="Zvuk, video a obrázky">Zvuk, video a obrázky</a> › <a class="trail" href="media.html.cs#photos" title="Fotografie a digitální fotoaparáty">Fotografie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Zvuk, video a obrázky">Zvuk, video a obrázky</a> › <a class="trail" href="media.html#music" title="Hudba a přenosné hudební přehrávače">Hudba a přehrávače</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.cs" title="Zvuk, video a obrázky">Zvuk, video a obrázky</a> › <a class="trail" href="media.html.cs#music" title="Hudba a přenosné hudební přehrávače">Hudba a přehrávače</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Zvuk, video a obrázky">Zvuk, video a obrázky</a> › <a class="trail" href="media.html#videos" title="Videa a videokamery">Videa</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.cs" title="Zvuk, video a obrázky">Zvuk, video a obrázky</a> › <a class="trail" href="media.html.cs#videos" title="Videa a videokamery">Videa</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#removable" title="Výměnná média a externí disky">Výměnná média a externí disky</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#removable" title="Výměnná média a externí disky">Výměnná média a externí disky</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <p class="p">Můžete mít aplikaci, která se automaticky spustí, kdy je připojeno zařízení nebo vložen disk nebo paměťová karta. Například můžete chtít, aby se při připojení digitálního fotoaparátu spustil správce fotografií. Tuto funkci ale můžete i vypnout, takže po připojení se nestane nic.</p>
 <p class="p">Když chcete rozhodnout, které aplikace by se měly spouštět při připojení různých zařízení:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Podrobnosti</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Podrobnosti</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Podrobnosti</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Výměnná média</span>.</p></li>
 <li class="steps">
@@ -77,7 +77,7 @@
 <dt class="terms">Zvukové disky</dt>
 <dd class="terms"><p class="p">Vyberte svoji oblíbenou hudební aplikaci nebo aplikaci na extrahování zvukových stop z CD. Pokud používáte zvuková DVD (DVD-A), vyberte, jak se mají otevírat, v <span class="gui">Ostatní média…</span>. Když otevřete zvukový disk ve správci souborů, objeví se zvukové stopy jako soubory WAV, které můžete přehrát v libovolné aplikaci pro přehrávání zvuků.</p></dd>
 <dt class="terms">Videodisky</dt>
-<dd class="terms"><p class="p">Vyberte svoji oblíbenou aplikaci pro video z disku DVD. K nastavení aplikace pro Blu-ray, HD DVD, video CD (VCD) a super video CD (SVCD) použijte tlačítko <span class="gui">Ostatní média…</span>. Pokud DVD nebo jiné videodisky po vložení nefungují správně, podívejte se na <span class="link"><a href="video-dvd.html" title="Proč se nechtějí DVD přehrávat?">Proč se nechtějí DVD přehrávat?</a></span>.</p></dd>
+<dd class="terms"><p class="p">Vyberte svoji oblíbenou aplikaci pro video z disku DVD. K nastavení aplikace pro Blu-ray, HD DVD, video CD (VCD) a super video CD (SVCD) použijte tlačítko <span class="gui">Ostatní média…</span>. Pokud DVD nebo jiné videodisky po vložení nefungují správně, podívejte se na <span class="link"><a href="video-dvd.html.cs" title="Proč se nechtějí DVD přehrávat?">Proč se nechtějí DVD přehrávat?</a></span>.</p></dd>
 <dt class="terms">Prázdné disky</dt>
 <dd class="terms"><p class="p">Použijte tlačítko <span class="gui">Ostatní média…</span> k výběru aplikace pro zápis na prázdné disky CD, DVD, Blu-ray a HD DVD.</p></dd>
 <dt class="terms">Fotoaparáty a fotografie</dt>
@@ -101,10 +101,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#photos" title="Fotografie a digitální fotoaparáty">Fotografie</a></li>
-<li class="links "><a href="media.html#music" title="Hudba a přenosné hudební přehrávače">Hudba a přehrávače</a></li>
-<li class="links "><a href="media.html#videos" title="Videa a videokamery">Videa</a></li>
-<li class="links "><a href="files.html#removable" title="Výměnná média a externí disky">Výměnná média a externí disky</a></li>
+<li class="links "><a href="media.html.cs#photos" title="Fotografie a digitální fotoaparáty">Fotografie</a></li>
+<li class="links "><a href="media.html.cs#music" title="Hudba a přenosné hudební přehrávače">Hudba a přehrávače</a></li>
+<li class="links "><a href="media.html.cs#videos" title="Videa a videokamery">Videa</a></li>
+<li class="links "><a href="files.html.cs#removable" title="Výměnná média a externí disky">Výměnná média a externí disky</a></li>
 </ul></div>
 </div></div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="Общий доступ">Общий доступ</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.ru" title="Общий доступ">Общий доступ</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="bluetooth.html.ru" title="Bluetooth">Bluetooth</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,12 +54,11 @@
 <div class="region">
 <div class="contents">
 <p class="p">You can send files to connected Bluetooth devices, such as some mobile
-    phones or other computers. Some types of devices don’t allow the transfer
-    of files, or specific types of files. You can send files in one of three
-    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
-    window, or directly from the file manager.</p>
+  phones or other computers. Some types of devices do not allow the transfer
+  of files, or specific types of files. You can send files using the Bluetooth
+  settings window.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Make sure Bluetooth is enabled: the switch in the titlebar should be
@@ -67,7 +66,7 @@
 <li class="steps">
 <p class="p">In the <span class="gui">Devices</span> list, select the device to which to send the
       files. If the desired device is not shown as <span class="gui">Connected</span> in the
-      list, you need to <span class="link"><a href="bluetooth-connect-device.html" title="Соединение компьютера с устройством Bluetooth">connect</a></span>
+      list, you need to <span class="link"><a href="bluetooth-connect-device.html.ru" title="Соединение компьютера с устройством Bluetooth">connect</a></span>
       to it.</p>
 <p class="p">A panel specific to the external device appears.</p>
 </li>
@@ -89,17 +88,17 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Соединение компьютера с устройством Bluetooth">Подключение</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Отправка файлов на устройство Bluetooth">передача файлов</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Включение и выключение Bluetooth">включение и отключение</a></span>…</span>
+<a href="bluetooth.html.ru" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.ru" title="Соединение компьютера с устройством Bluetooth">Подключение</a></span>, <span class="link"><a href="bluetooth-send-file.html.ru" title="Отправка файлов на устройство Bluetooth">передача файлов</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ru" title="Включение и выключение Bluetooth">включение и отключение</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Общий доступ">Общий доступ</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Общий доступ к рабочему столу">Общий доступ к рабочему столу</a></span>, <span class="link"><a href="files-share.html" title="Обмен файлами по почте">Как делиться файлами по почте</a></span>, <span class="link"><a href="sharing-media.html" title="Сделать общими музыку, фото и видео.">Общий доступ к мультимедиа</a></span>…</span>
+<a href="sharing.html.ru" title="Общий доступ">Общий доступ</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ru" title="Общий доступ к рабочему столу">Общий доступ к рабочему столу</a></span>, <span class="link"><a href="files-share.html.ru" title="Обмен файлами по почте">Как делиться файлами по почте</a></span>, <span class="link"><a href="sharing-media.html.ru" title="Сделать общими музыку, фото и видео.">Общий доступ к мультимедиа</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="Обмен файлами по почте">Обмен файлами по почте</a><span class="desc"> — Простая отправка файлов контактам в почту из менеджера файлов.</span>
+<a href="files-share.html.ru" title="Обмен файлами по почте">Обмен файлами по почте</a><span class="desc"> — Простая отправка файлов контактам в почту из менеджера файлов.</span>
 </li></ul></div>
 </div></div>
 </div>

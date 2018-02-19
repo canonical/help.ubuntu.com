@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="accounts.html" title="ஆன்லைன் கணக்குகள்">ஆன்லைன்  கணக்குகள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="accounts.html.ta" title="ஆன்லைன் கணக்குகள்">ஆன்லைன்  கணக்குகள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ஒரு கணக்கை நீக்குதல்</span></h1></div>
@@ -61,7 +61,7 @@
     or sites. Look for an app called “GNOME” and remove it.</p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Online Accounts</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Online Accounts</span> to open the panel.</p></li>
 <li class="steps"><p class="p">நீங்கள் நீக்க விரும்பும் கணக்கைத் தேர்ந்தெடுக்கவும்.</p></li>
@@ -70,7 +70,7 @@
 <li class="steps"><p class="p">Click <span class="gui">Remove</span> in the confirmation dialog.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="துணுக்கு"><div class="inner"><div class="region"><div class="contents"><p class="p">Instead of deleting the account completely, it is possible to
-    <span class="link"><a href="accounts-disable-service.html" title="ஒரு கணக்கை எந்தெந்த ஆன்லைன் சேவைகளை அணுக பயன்படுத்தலாம் என்பதைக் கட்டுப்படுத்துதல்">restrict the services</a></span> accessed
+    <span class="link"><a href="accounts-disable-service.html.ta" title="ஒரு கணக்கை எந்தெந்த ஆன்லைன் சேவைகளை அணுக பயன்படுத்தலாம் என்பதைக் கட்டுப்படுத்துதல்">restrict the services</a></span> accessed
     by your desktop.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -79,17 +79,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="ஆன்லைன் கணக்குகள்">ஆன்லைன்  கணக்குகள்</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="கணக்கை சேர்த்தல்">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="ஒரு கணக்கை நீக்குதல்">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.ta" title="ஆன்லைன் கணக்குகள்">ஆன்லைன்  கணக்குகள்</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.ta" title="கணக்கை சேர்த்தல்">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.ta" title="ஒரு கணக்கை நீக்குதல்">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.ta" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="ஒரு கணக்கை எந்தெந்த ஆன்லைன் சேவைகளை அணுக பயன்படுத்தலாம் என்பதைக் கட்டுப்படுத்துதல்">ஒரு கணக்கை எந்தெந்த ஆன்லைன் சேவைகளை அணுக பயன்படுத்தலாம் என்பதைக் கட்டுப்படுத்துதல்</a><span class="desc"> — சில ஆன்லைன் கணக்குகளைப் பயன்படுத்தி ஒன்றுக்கு மேற்பட்ட சேவைகளை (நாள்காட்டி மின்னஞ்சல் போன்று) அணுகப் பயன்படுத்த முடியும். பயன்பாடுகள் எந்தெந்த சேவைகளைப் பயன்படுத்த முடிய வேண்டும் என்பதை நீங்கள் கட்டுப்படுத்தலாம்.</span>
+<a href="accounts-disable-service.html.ta" title="ஒரு கணக்கை எந்தெந்த ஆன்லைன் சேவைகளை அணுக பயன்படுத்தலாம் என்பதைக் கட்டுப்படுத்துதல்">ஒரு கணக்கை எந்தெந்த ஆன்லைன் சேவைகளை அணுக பயன்படுத்தலாம் என்பதைக் கட்டுப்படுத்துதல்</a><span class="desc"> — சில ஆன்லைன் கணக்குகளைப் பயன்படுத்தி ஒன்றுக்கு மேற்பட்ட சேவைகளை (நாள்காட்டி மின்னஞ்சல் போன்று) அணுகப் பயன்படுத்த முடியும். பயன்பாடுகள் எந்தெந்த சேவைகளைப் பயன்படுத்த முடிய வேண்டும் என்பதை நீங்கள் கட்டுப்படுத்தலாம்.</span>
 </li></ul></div>
 </div></div>
 </div>

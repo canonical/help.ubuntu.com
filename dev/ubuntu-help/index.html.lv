@@ -45,57 +45,57 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
-<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 17.10</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html" title="Ar ko sākt"><span class="title">Darba sākšana ar GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Vai GNOME 3 vide jums ir nepazīstama? Uzziniet, kā tajā darboties.</span></a></div></div></div></div>
+<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 18.04</span></div><div class="region"><div class="contents">
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.lv" title="Ar ko sākt"><span class="title">Darba sākšana ar GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Vai GNOME 3 vide jums ir nepazīstama? Uzziniet, kā tajā darboties.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Ievads GNOME vidē"><span class="title">Ievads GNOME vidē</span><span class="linkdiv-dash"> — </span><span class="desc">Vizuāls ievads — darbvirsma, augšējā josla un <span class="gui">Aktivitāšu</span> pārskats.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Izrakstīties, izslēgt datoru vai pārslēgt lietotājus"><span class="title">Izrakstīties, izslēgt datoru vai pārslēgt lietotājus</span><span class="linkdiv-dash"> — </span><span class="desc">Iemācieties, kā pamest savu lietotāja kontu, izrakstoties, mainot lietotājus u.t.t.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Palaist lietotnes"><span class="title">Palaist lietotnes</span><span class="linkdiv-dash"> — </span><span class="desc">Palaidiet lietotnes no <span class="gui">Aktivitāšu</span> pārskata.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.lv" title="Ievads GNOME vidē"><span class="title">Ievads GNOME vidē</span><span class="linkdiv-dash"> — </span><span class="desc">Vizuāls ievads — darbvirsma, augšējā josla un <span class="gui">Aktivitāšu</span> pārskats.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.lv" title="Izrakstīties, izslēgt datoru vai pārslēgt lietotājus"><span class="title">Izrakstīties, izslēgt datoru vai pārslēgt lietotājus</span><span class="linkdiv-dash"> — </span><span class="desc">Iemācieties, kā pamest savu lietotāja kontu, izrakstoties, mainot lietotājus u.t.t.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.lv" title="Palaist lietotnes"><span class="title">Palaist lietotnes</span><span class="linkdiv-dash"> — </span><span class="desc">Palaidiet lietotnes no <span class="gui">Aktivitāšu</span> pārskata.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="shell-overview.html" title="Jūsu darbvirsma">Jūsu darbvirsma</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html" title="Kalendāra tikšanās">Kalendārs</a></span>, <span class="link"><a href="shell-notifications.html" title="Paziņojumi un ziņojumu paplāte">paziņojumi</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Noderīgas tastatūras saīsnes">tastatūras saīsnes</a></span>, <span class="link"><a href="shell-windows.html" title="Logi un darbvietas">logi un darbvirsmas</a></span>…</span></div>
+<div class="links-grid-link"><a href="shell-overview.html.lv" title="Jūsu darbvirsma">Jūsu darbvirsma</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html.lv" title="Kalendāra tikšanās">Kalendārs</a></span>, <span class="link"><a href="shell-notifications.html.lv" title="Paziņojumi un ziņojumu paplāte">paziņojumi</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.lv" title="Noderīgas tastatūras saīsnes">tastatūras saīsnes</a></span>, <span class="link"><a href="shell-windows.html.lv" title="Logi un darbvietas">logi un darbvirsmas</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html" title="Bezvadu tīkls">Bezvadu tīkls</a></span>, <span class="link"><a href="net-wired.html" title="Vadu savienojums">vadu</a></span>, <span class="link"><a href="net-problem.html" title="Tīkla problēmas">savienojumu problēmas</a></span>, <span class="link"><a href="net-browser.html" title="Tīmekļa pārlūkprogrammas">tīmekļa pārlūkošana</a></span>, <span class="link"><a href="net-email.html" title="E-pasts un e-pasta programmatūra">e-pasta konti</a></span>…</span></div>
+<div class="links-grid-link"><a href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a></span>, <span class="link"><a href="net-wired.html.lv" title="Vadu savienojums">vadu</a></span>, <span class="link"><a href="net-problem.html.lv" title="Tīkla problēmas">savienojumu problēmas</a></span>, <span class="link"><a href="net-browser.html.lv" title="Tīmekļa pārlūkprogrammas">tīmekļa pārlūkošana</a></span>, <span class="link"><a href="net-email.html.lv" title="E-pasts un e-pasta programmatūra">e-pasta konti</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html" title="Skaņa, video un bildes">Skaņa, video un bildes</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="media.html#photos" title="Fotogrāfijas un digitālās kameras">Digitālās kameras</a></span>, <span class="link"><a href="media.html#music" title="Mūzika un pārnēsājamie audio atskaņotāji">iPodi</a></span>, <span class="link"><a href="media.html#photos" title="Fotogrāfijas un digitālās kameras">fotogrāfiju rediģēšana</a></span>, <span class="link"><a href="media.html#videos" title="Video un video kameras">video atskaņošana</a></span>…</span></div>
+<div class="links-grid-link"><a href="media.html.lv" title="Skaņa, video un bildes">Skaņa, video un bildes</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="media.html.lv#photos" title="Fotogrāfijas un digitālās kameras">Digitālās kameras</a></span>, <span class="link"><a href="media.html.lv#music" title="Mūzika un pārnēsājamie audio atskaņotāji">iPodi</a></span>, <span class="link"><a href="media.html.lv#photos" title="Fotogrāfijas un digitālās kameras">fotogrāfiju rediģēšana</a></span>, <span class="link"><a href="media.html.lv#videos" title="Video un video kameras">video atskaņošana</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="files.html" title="Datnes, mapes un meklēšana">Datnes, mapes un meklēšana</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="files-search.html" title="Meklēt datnes">Meklēšana</a></span>, <span class="link"><a href="files-delete.html" title="Dzēst datnes un mapes">datņu dzēšana</a></span>, <span class="link"><a href="files.html#backup" title="Rezerves kopijas">rezerves kopijas</a></span>, <span class="link"><a href="files.html#removable" title="Izņemamie dziņi un ārējie diski">noņemamie dziņi</a></span>…</span></div>
+<div class="links-grid-link"><a href="files.html.lv" title="Datnes, mapes un meklēšana">Datnes, mapes un meklēšana</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="files-search.html.lv" title="Meklēt datnes">Meklēšana</a></span>, <span class="link"><a href="files-delete.html.lv" title="Dzēst datnes un mapes">datņu dzēšana</a></span>, <span class="link"><a href="files.html.lv#backup" title="Rezerves kopijas">rezerves kopijas</a></span>, <span class="link"><a href="files.html.lv#removable" title="Izņemamie dziņi un ārējie diski">noņemamie dziņi</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a></div>
+<div class="links-grid-link"><a href="addremove.html.lv" title="Install &amp; remove software">Install &amp; remove software</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Izņemt lietotni">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+      <span class="link"><a href="addremove-install.html.lv" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.lv" title="Izņemt lietotni">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.lv" title="Add software repositories">add repositories</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Lietotājs un sistēmas iestatījumi</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html" title="Tastatūra">Tastatūra</a></span>, <span class="link"><a href="mouse.html" title="Pele">pele</a></span>, <span class="link"><a href="prefs-display.html" title="Displejs un ekrāns">displejs</a></span>, <span class="link"><a href="prefs-language.html" title="Vieta un valoda">valodas</a></span>, <span class="link"><a href="user-accounts.html" title="Lietotāju konti">lietotāju konti</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Lietotājs un sistēmas iestatījumi</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html.lv" title="Tastatūra">Tastatūra</a></span>, <span class="link"><a href="mouse.html.lv" title="Pele">pele</a></span>, <span class="link"><a href="prefs-display.html.lv" title="Displejs un ekrāns">displejs</a></span>, <span class="link"><a href="prefs-language.html.lv" title="Vieta un valoda">valodas</a></span>, <span class="link"><a href="user-accounts.html.lv" title="Lietotāju konti">lietotāju konti</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware.html" title="Aparatūra un draiveri">Aparatūra un draiveri</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="hardware.html#problems" title="Biežākās problēmas">Aparatūras problēmas</a></span>, <span class="link"><a href="printing.html" title="Drukāšana">printeri</a></span>, <span class="link"><a href="power.html" title="Barošana un baterija">barošanas iestatījumi</a></span>, <span class="link"><a href="color.html" title="Krāsu pārvaldība">krāsu pārvaldība</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Diski un uzglabāšana">diski</a></span>…</span></div>
+<div class="links-grid-link"><a href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra un draiveri</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="hardware.html.lv#problems" title="Biežākās problēmas">Aparatūras problēmas</a></span>, <span class="link"><a href="printing.html.lv" title="Drukāšana">printeri</a></span>, <span class="link"><a href="power.html.lv" title="Barošana un baterija">barošanas iestatījumi</a></span>, <span class="link"><a href="color.html.lv" title="Krāsu pārvaldība">krāsu pārvaldība</a></span>, <span class="link"><a href="bluetooth.html.lv" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.lv" title="Diski un uzglabāšana">diski</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="a11y.html" title="Universālā piekļuve">Universālā piekļuve</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="a11y.html#vision" title="Redzes traucējumi">Redzēšana</a></span>, <span class="link"><a href="a11y.html#sound" title="Dzirdes traucējumi">dzirdēšana</a></span>, <span class="link"><a href="a11y.html#mobility" title="Kustību traucējumi">kustība</a></span>, <span class="link"><a href="a11y-braille.html" title="Lasīt ekrānu ar Brailu">Brails</a></span>, <span class="link"><a href="a11y-mag.html" title="Palielināt ekrāna laukumu">ekrāna palielinātājs</a></span>…</span></div>
+<div class="links-grid-link"><a href="a11y.html.lv" title="Universālā piekļuve">Universālā piekļuve</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="a11y.html.lv#vision" title="Redzes traucējumi">Redzēšana</a></span>, <span class="link"><a href="a11y.html.lv#sound" title="Dzirdes traucējumi">dzirdēšana</a></span>, <span class="link"><a href="a11y.html.lv#mobility" title="Kustību traucējumi">kustība</a></span>, <span class="link"><a href="a11y-braille.html.lv" title="Lasīt ekrānu ar Brailu">Brails</a></span>, <span class="link"><a href="a11y-mag.html.lv" title="Palielināt ekrāna laukumu">ekrāna palielinātājs</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="tips.html" title="Padomi un knifi">Padomi un knifi</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html" title="Ievadiet īpašas rakstzīmes">Īpašās rakstzīmes</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Vidējais klikšķis">vidējās pogas saīsne</a></span>…</span></div>
+<div class="links-grid-link"><a href="tips.html.lv" title="Padomi un knifi">Padomi un knifi</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.lv" title="Ievadiet īpašas rakstzīmes">Īpašās rakstzīmes</a></span>, <span class="link"><a href="mouse-middleclick.html.lv" title="Vidējais klikšķis">vidējās pogas saīsne</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="more-help.html" title="Saņemt vairāk palīdzības">Saņemt vairāk palīdzības</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html" title="Par šo rokasgrāmatu">Padomi, kā lietot šo rokasgrāmatu</a></span>, <span class="link"><a href="get-involved.html" title="Piedalieties šīs rokasgrāmatas uzlabošanā">palīdzi uzlabot šo rokasgrāmatu</a></span>…</span></div>
+<div class="links-grid-link"><a href="more-help.html.lv" title="Saņemt vairāk palīdzības">Saņemt vairāk palīdzības</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html.lv" title="Par šo rokasgrāmatu">Padomi, kā lietot šo rokasgrāmatu</a></span>, <span class="link"><a href="get-involved.html.lv" title="Piedalieties šīs rokasgrāmatas uzlabošanā">palīdzi uzlabot šo rokasgrāmatu</a></span>…</span></div>
 </div>
 </div></div></div>
 </div></div>

@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="hardware-problems-graphics.html" title="Проблеми екрана">Проблеми екрана</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html.sr#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="hardware-problems-graphics.html.sr" title="Проблеми екрана">Проблеми екрана</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="power.html#problems" title="Проблеми">Проблеми са напајањем</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html.sr#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="power.html.sr#problems" title="Проблеми">Проблеми са напајањем</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Зашто мој рачунар неће да се поврати након што сам га успавао?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Ако <span class="link"><a href="power-suspend.html" title="Шта се дешава када обуставим рачунар?">обуставите</a></span> рад рачунара, и затим покушате да га повратите, можете увидети да не ради онако како сте очекивали. Ово може бити зато што ваше компоненте не подржавају исправно успављивање.</p></div>
+<div class="contents"><p class="p">Ако <span class="link"><a href="power-suspend.html.sr" title="Шта се дешава када обуставим рачунар?">обуставите</a></span> рад рачунара, и затим покушате да га повратите, можете увидети да не ради онако како сте очекивали. Ово може бити зато што ваше компоненте не подржавају исправно успављивање.</p></div>
 <div id="resume" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Мој рачунар је обустављен и неће да се поврати</span></h2></div>
 <div class="region"><div class="contents">
@@ -66,7 +66,7 @@
 <div id="hardware" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Моја бежична веза (или друга компонента) не ради када пробудим рачунар</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Ако обуставите рад рачунара и након тога га повратите, можда ћете увидети да ваша интернет веза, миш, или неки други уређај не ради исправно. Ово може бити зато што управљачки програм за уређај не подржава правилно обустављање. То је <span class="link"><a href="hardware-driver.html" title="Шта је то управљачки програм?">проблем са управљачким програмом</a></span> а не са самим уређајем.</p>
+<p class="p">Ако обуставите рад рачунара и након тога га повратите, можда ћете увидети да ваша интернет веза, миш, или неки други уређај не ради исправно. Ово може бити зато што управљачки програм за уређај не подржава правилно обустављање. То је <span class="link"><a href="hardware-driver.html.sr" title="Шта је то управљачки програм?">проблем са управљачким програмом</a></span> а не са самим уређајем.</p>
 <p class="p">Ако уређај има прекидач, покушајте да га угасите, и да га затим поново упалите. У већини случајева, уређај ће почети да ради поново. Ако се повезује преко УСБ кабла или слично, искључите уређај и поново га прикључите и видите да ли ради.</p>
 <p class="p">Ако не можете да угасите или да искључите уређај, или ако ово не ради, можда ћете морати поново да покренете рачунар да би уређај поново почео да ради.</p>
 </div></div>
@@ -78,10 +78,10 @@
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Проблеми екрана">Проблеми екрана</a><span class="desc"> — Решите проблеме екрана и графике.</span>
+<a href="hardware-problems-graphics.html.sr" title="Проблеми екрана">Проблеми екрана</a><span class="desc"> — Решите проблеме екрана и графике.</span>
 </li>
 <li class="links ">
-<a href="power.html#problems" title="Проблеми">Проблеми са напајањем</a><span class="desc"> — Решите проблеме са напајањем и батеријама.</span>
+<a href="power.html.sr#problems" title="Проблеми">Проблеми са напајањем</a><span class="desc"> — Решите проблеме са напајањем и батеријама.</span>
 </li>
 </ul></div>
 </div></div>
@@ -89,19 +89,19 @@
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-closelid.html" title="Зашто се мој рачунар гаси када спустим поклопац?">Зашто се мој рачунар гаси када спустим поклопац?</a><span class="desc"> — Преносни рачунар се успављује када спустите поклопац, да би сачувао енергију.</span>
+<a href="power-closelid.html.sr" title="Зашто се мој рачунар гаси када спустим поклопац?">Зашто се мој рачунар гаси када спустим поклопац?</a><span class="desc"> — Преносни рачунар се успављује када спустите поклопац, да би сачувао енергију.</span>
 </li>
 <li class="links ">
-<a href="power-hibernate.html" title="Како да замрзнем рачунар?">Како да замрзнем рачунар?</a><span class="desc"> — Замрзавање је унапред искључено зато што није довољно подржано.</span>
+<a href="power-hibernate.html.sr" title="Како да замрзнем рачунар?">Како да замрзнем рачунар?</a><span class="desc"> — Замрзавање је унапред искључено зато што није довољно подржано.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="Немам бежичну мрежу када пробудим рачунар">Немам бежичну мрежу када пробудим рачунар</a><span class="desc"> — Неки бежични уређаји имају проблеме са радом када је ваш рачунар обустављен а није се повратио како треба.</span>
+<a href="power-nowireless.html.sr" title="Немам бежичну мрежу када пробудим рачунар">Немам бежичну мрежу када пробудим рачунар</a><span class="desc"> — Неки бежични уређаји имају проблеме са радом када је ваш рачунар обустављен а није се повратио како треба.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Шта се дешава када обуставим рачунар?">Шта се дешава када обуставим рачунар?</a><span class="desc"> — Обустављање шаље ваш рачунар на спавање тако да користи мање напајања.</span>
+<a href="power-suspend.html.sr" title="Шта се дешава када обуставим рачунар?">Шта се дешава када обуставим рачунар?</a><span class="desc"> — Обустављање шаље ваш рачунар на спавање тако да користи мање напајања.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="Шта је то управљачки програм?">Шта је то управљачки програм?</a><span class="desc"> — Управљачки програми хардвера/уређаја омогућавају вашем рачунару да користи уређаје који су на њега прикачени.</span>
+<a href="hardware-driver.html.sr" title="Шта је то управљачки програм?">Шта је то управљачки програм?</a><span class="desc"> — Управљачки програми хардвера/уређаја омогућавају вашем рачунару да користи уређаје који су на њега прикачени.</span>
 </li>
 </ul></div>
 </div></div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="color.html" title="Manajemen warna">Manajemen warna</a> › <a class="trail" href="color.html#calibration" title="Kalibrasi">Kalibrasi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="color.html.id" title="Manajemen warna">Manajemen warna</a> › <a class="trail" href="color.html.id#calibration" title="Kalibrasi">Kalibrasi</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="color.html" title="Manajemen warna">Manajemen warna</a> › <a class="trail" href="color.html#calibration" title="Kalibrasi">Kalibrasi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="color.html.id" title="Manajemen warna">Manajemen warna</a> › <a class="trail" href="color.html.id#calibration" title="Kalibrasi">Kalibrasi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -62,22 +62,22 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Kalibrasi">Kalibrasi</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.id#calibration" title="Kalibrasi">Kalibrasi</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-screen.html" title="Bagaimana saya mengkalibrasi layar saya?">Bagaimana saya mengkalibrasi layar saya?</a><span class="desc"> — Mengkalibrasi layar Anda penting untuk menampilkan warna-warna akurat.</span>
+<a href="color-calibrate-screen.html.id" title="Bagaimana saya mengkalibrasi layar saya?">Bagaimana saya mengkalibrasi layar saya?</a><span class="desc"> — Mengkalibrasi layar Anda penting untuk menampilkan warna-warna akurat.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-scanner.html" title="Bagaimana saya mengkalibrasi pemindai saya?">Bagaimana saya mengkalibrasi pemindai saya?</a><span class="desc"> — Mengkalibrasi pemindai Anda penting untuk menangkap warna-warna akurat.</span>
+<a href="color-calibrate-scanner.html.id" title="Bagaimana saya mengkalibrasi pemindai saya?">Bagaimana saya mengkalibrasi pemindai saya?</a><span class="desc"> — Mengkalibrasi pemindai Anda penting untuk menangkap warna-warna akurat.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html" title="Bagaimana saya mengkalibrasi pencetak saya?">Bagaimana saya mengkalibrasi pencetak saya?</a><span class="desc"> — Mengkalibrasi pencetak Anda penting untuk mencetak warna-warna akurat.</span>
+<a href="color-calibrate-printer.html.id" title="Bagaimana saya mengkalibrasi pencetak saya?">Bagaimana saya mengkalibrasi pencetak saya?</a><span class="desc"> — Mengkalibrasi pencetak Anda penting untuk mencetak warna-warna akurat.</span>
 </li>
 <li class="links ">
-<a href="color-calibrationtargets.html" title="Tipe target mana yang didukung?">Tipe target mana yang didukung?</a><span class="desc"> — Target kalibrasi diperlukan untuk melakukan pemrofilan kamera dan pemindai.</span>
+<a href="color-calibrationtargets.html.id" title="Tipe target mana yang didukung?">Tipe target mana yang didukung?</a><span class="desc"> — Target kalibrasi diperlukan untuk melakukan pemrofilan kamera dan pemindai.</span>
 </li>
 </ul></div>
 </div></div>

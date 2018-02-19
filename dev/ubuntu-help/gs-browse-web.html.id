@@ -43,15 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="getting-started.html" title="Mulai Memakai">Mulai Memakai GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="getting-started.html.id" title="Mulai Memakai">Mulai Memakai GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="Menuju daring">Sebelumnya</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Menyambung ke akun daring">Selanjutnya</a>
+<a class="nextlinks-prev" href="gs-get-online.html.id" title="Menuju daring">Sebelumnya</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.id" title="Menyambung ke akun daring">Selanjutnya</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Jelajah web</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Pindahkan penunjuk tetikus Anda ke pojok <span class="gui">Aktivitas</span> di kiri atas layar untuk menampilkan <span class="gui">Ringkasan Aktivitas</span>.</p></li>
+<li class="steps"><p class="p">Pilih ikon peramban <span class="app">Firefox</span> dari bilah di kiri layar.</p></li>
+</ol></div></div></div>
+<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Sebagai alternatif, Anda dapat meluncurkan peramban dengan <span class="link"><a href="gs-use-system-search.html.id" title="Memakai pencarian sistem">sekedar mengetik</a></span> <span class="em">Firefox</span> dalam <span class="gui">Ringkasan Aktivitas</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Klik pada bilah alamat di bagian atas jendela peramban dan mulailah mengetikkan situs web yang ingin Anda kunjungi.</p></li>
 <li class="steps">
 <p class="p">Mengetikkan suatu situs web memulai pencariannya dalam riwayat peramban dan penanda taut, sehingga Anda tidak perlu mengingat alamat persisnya.</p>
@@ -59,9 +67,10 @@
 </li>
 <li class="steps"><p class="p">Dari daftar drop down, Anda dapat memilih suatu situs web secara cepat memakai tombol panah.</p></li>
 <li class="steps"><p class="p">Setelah Anda memilih suatu situs web, tekan <span class="key"><kbd>Enter</kbd></span> untuk mengunjunginya.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="Menuju daring">Sebelumnya</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Menyambung ke akun daring">Selanjutnya</a>
+<a class="nextlinks-prev" href="gs-get-online.html.id" title="Menuju daring">Sebelumnya</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.id" title="Menyambung ke akun daring">Selanjutnya</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -69,13 +78,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Mulai Memakai">Mulai Memakai GNOME</a><span class="desc"> — Baru kenal GNOME? Pelajari bagaimana memakainya.</span>
+<a href="getting-started.html.id" title="Mulai Memakai">Mulai Memakai GNOME</a><span class="desc"> — Baru kenal GNOME? Pelajari bagaimana memakainya.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Peramban Web">Peramban Web</a><span class="desc"> — <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Ubah peramban baku</a></span>, <span class="link"><a href="net-install-flash.html" title="Install the Flash plug-in">pasang Flash</a></span>…</span>
+<a href="net-browser.html.id" title="Peramban Web">Peramban Web</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.id" title="Change which web browser opens websites by default">Ubah peramban baku</a></span>, <span class="link"><a href="net-install-flash.html.id" title="Install the Flash plug-in">pasang Flash</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

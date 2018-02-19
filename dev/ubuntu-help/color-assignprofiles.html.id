@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="color.html" title="Manajemen warna">Manajemen warna</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="color.html.id" title="Manajemen warna">Manajemen warna</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="color.html" title="Manajemen warna">Manajemen warna</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="color.html.id" title="Manajemen warna">Manajemen warna</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">You may want to assign a color profile for your screen or printer so that
   the colors which it shows are more accurate.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Warna</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Warna</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Warna</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Pilih perangkat yang ingin Anda tambahkan profil baginya.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Tambah profil</span> untuk memilih profil yang ada atau mengimpor suatu profil baru.</p></li>
@@ -71,20 +71,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html" title="Manajemen warna">Manajemen warna</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html" title="Mengapa manajemen warna penting?">Mengapa ini penting</a></span>, <span class="link"><a href="color.html#profiles" title="Profil warna">Profil warna</a></span>, <span class="link"><a href="color.html#calibration" title="Kalibrasi">Bagaimana mengkalibrasi perangkat</a></span>…</span>
+<a href="color.html.id" title="Manajemen warna">Manajemen warna</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.id" title="Mengapa manajemen warna penting?">Mengapa ini penting</a></span>, <span class="link"><a href="color.html.id#profiles" title="Profil warna">Profil warna</a></span>, <span class="link"><a href="color.html.id#calibration" title="Kalibrasi">Bagaimana mengkalibrasi perangkat</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Apa itu profil warna?">Apa itu profil warna?</a><span class="desc"> — Profil warna adalah berkas sederhana yang mengekspresikan respon perangkat atau suatu ruang warna.</span>
+<a href="color-whatisprofile.html.id" title="Apa itu profil warna?">Apa itu profil warna?</a><span class="desc"> — Profil warna adalah berkas sederhana yang mengekspresikan respon perangkat atau suatu ruang warna.</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html" title="Bagaimana saya mengimpor profil warna?">Bagaimana saya mengimpor profil warna?</a><span class="desc"> — Profil warna dapat diimpor dengan membukanya.</span>
+<a href="color-howtoimport.html.id" title="Bagaimana saya mengimpor profil warna?">Bagaimana saya mengimpor profil warna?</a><span class="desc"> — Profil warna dapat diimpor dengan membukanya.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Mengapa saya perlu melakukan kalibrasi sendiri?">Mengapa saya perlu melakukan kalibrasi sendiri?</a><span class="desc"> — Mengkalibrasi penting bila Anda peduli dengan warna yang Anda tampilkan atau cetak.</span>
+<a href="color-why-calibrate.html.id" title="Mengapa saya perlu melakukan kalibrasi sendiri?">Mengapa saya perlu melakukan kalibrasi sendiri?</a><span class="desc"> — Mengkalibrasi penting bila Anda peduli dengan warna yang Anda tampilkan atau cetak.</span>
 </li>
 </ul></div>
 </div></div>

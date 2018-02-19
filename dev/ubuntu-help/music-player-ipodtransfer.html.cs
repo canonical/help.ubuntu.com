@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Zvuk, video a obrázky">Zvuk, video a obrázky</a> › <a class="trail" href="media.html#music" title="Hudba a přenosné hudební přehrávače">Hudba a přehrávače</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.cs" title="Zvuk, video a obrázky">Zvuk, video a obrázky</a> › <a class="trail" href="media.html.cs#music" title="Hudba a přenosné hudební přehrávače">Hudba a přehrávače</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Písničky se neobjeví v mém iPodu, když je do něj nakopíruji</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Když ke svému počítači připojíte iPod, objeví se v aplikaci pro přehrávání hudby a také ve správci souborů (aplikaci <span class="app">Soubory</span> v přehledu <span class="gui">Činností</span>). Skladby do něj musíte kopírovat v hudebním přehrávači – když je zkopírujete pomocí správce souborů, nebude to fungovat, protože skladby nebudou na správném místě. iPod má speciální umístění pro skladby, o kterém hudební přehrávač ví, ale správce souborů jej nezná.</p>
-<p class="p">Než iPod odpojíte, musíte počkat, než se kopírování skladeb dokončí. Než jej odpojíte, nezapomeňte použít <span class="link"><a href="files-removedrive.html" title="Bezpečné odebrání externího disku">bezpečné odebrání</a></span>. Tím se zajistí, že všechny skladby budou zkopírovány opravdu správně.</p>
+<p class="p">Než iPod odpojíte, musíte počkat, než se kopírování skladeb dokončí. Než jej odpojíte, nezapomeňte použít <span class="link"><a href="files-removedrive.html.cs" title="Bezpečné odebrání externího disku">bezpečné odebrání</a></span>. Tím se zajistí, že všechny skladby budou zkopírovány opravdu správně.</p>
 <p class="p">Dalším důvodem, proč se písničky nemusí objevit ve vašem iPodu je, že aplikace hudebního přehrávače, který používáte, nepodporuje převod písniček z jednoho zvukového formátu do jiného. Když kopírujete písničku uloženou ve zvukovém formátu, který iPod nepodporuje (například .oga – Ogg Vorbis), zkusí ji hudební přehrávač převést do formátu, kterému iPod rozumí, jako je třeba MP3. V případě, že příslušný převodní software (také nazývaný kodek nebo koder) není nainstalován, nebude moci hudební přehrávač převod provést a písničku tak nezkopíruje. Po příslušném kodeku se podívejte do instalátoru softwaru.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#music" title="Hudba a přenosné hudební přehrávače">Hudba a přehrávače</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.cs#music" title="Hudba a přenosné hudební přehrávače">Hudba a přehrávače</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

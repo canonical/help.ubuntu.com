@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="printing.html" title="Imprimir">Imprimir</a> › <a class="trail" href="printing.html#paper" title="Diferentes tamaños y disposiciones del papel">Tamaños y disposiciones</a> » <a class="trail" href="printing-booklet.html" title="Imprimir un folleto">Imprimir un folleto</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="printing.html.es" title="Imprimir">Imprimir</a> › <a class="trail" href="printing.html.es#paper" title="Diferentes tamaños y disposiciones del papel">Tamaños y disposiciones</a> » <a class="trail" href="printing-booklet.html.es" title="Imprimir un folleto">Imprimir un folleto</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Imprimir un folleto en una impresora de una sola cara</span></h1></div>
@@ -95,7 +95,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-booklet.html" title="Imprimir un folleto">Imprimir un folleto</a><span class="desc"> — Cómo imprimir un folleto plegado, multipágina usando un papel de tamaño A4 o Carta.</span>
+<a href="printing-booklet.html.es" title="Imprimir un folleto">Imprimir un folleto</a><span class="desc"> — Cómo imprimir un folleto plegado, multipágina usando un papel de tamaño A4 o Carta.</span>
 </li></ul></div>
 </div></div></div>
 </div>

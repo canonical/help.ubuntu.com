@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Савети и трикови">Савети и трикови</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.sr" title="Савети и трикови">Савети и трикови</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Унесите посебне знаке</span></h1></div>
@@ -53,22 +53,14 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Начини уношења знакова</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Таблица знакова">Таблица знакова</a></li>
-<li class="links "><a href="tips-specialchars.html#characters" title="Знакови">Знакови</a></li>
-<li class="links "><a href="tips-specialchars.html#compose" title="Саставни тастер">Саставни тастер</a></li>
-<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Кодни приказ">Кодни приказ</a></li>
-<li class="links "><a href="tips-specialchars.html#layout" title="Распореди тастатуре">Распореди тастатуре</a></li>
-<li class="links "><a href="tips-specialchars.html#im" title="Начини уноса">Начини уноса</a></li>
+<li class="links "><a href="tips-specialchars.html.sr#characters" title="Знакови">Знакови</a></li>
+<li class="links "><a href="tips-specialchars.html.sr#compose" title="Саставни тастер">Саставни тастер</a></li>
+<li class="links "><a href="tips-specialchars.html.sr#ctrlshiftu" title="Кодни приказ">Кодни приказ</a></li>
+<li class="links "><a href="tips-specialchars.html.sr#layout" title="Распореди тастатуре">Распореди тастатуре</a></li>
+<li class="links "><a href="tips-specialchars.html.sr#im" title="Начини уноса">Начини уноса</a></li>
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Таблица знакова</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">Гном садржи програм таблице знакова који вам омогућава да разгледате све знакове Уникода. Користите таблицу знакова да пронађете знак који желите, и затим га умножите и убаците где вам је потребно.</p>
-<p class="p">Можете наћи <span class="app">Таблицу знакова</span> у прегледу <span class="gui">Активности</span>. За више података о таблици знакова, погледајте <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">Упутство таблице знакова</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Знакови</span></h2></div>
 <div class="region"><div class="contents">
@@ -85,12 +77,13 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Одредите саставни тастер</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Алат за лицкање</span> да га отворите.</p></li>
 <li class="steps"><p class="p">Кликните на језичак <span class="gui">Тастатура и миш</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Искључено</span> поред подешавања <span class="gui">Саставног тастера</span>.</p></li>
 <li class="steps"><p class="p">Укључите прекидач у прозорчету и изаберите пречицу на тастатури коју желите да користите.</p></li>
 <li class="steps"><p class="p">Означите кућицу тастера који желите да подесите као саставни тастер.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Затворите прозор <span class="gui">Алата за лицкање</span>.</p></li>
 </ol></div>
 </div></div>
@@ -113,7 +106,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Распореди тастатуре</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Можете да учините да се ваша тастатура понаша као тастатура неког другог језика, без обзира која су слова одштампана на тастерима. Можете чак и брзо да се пребацујете између различитих распореда тастатуре користећи иконицу на горњој траци. Да сазнате како, погледајте <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Можете да учините да се ваша тастатура понаша као тастатура неког другог језика, без обзира која су слова одштампана на тастерима. Можете чак и брзо да се пребацујете између различитих распореда тастатуре користећи иконицу на горњој траци. Да сазнате како, погледајте <span class="link"><a href="keyboard-layouts.html.sr" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Начини уноса</span></h2></div>
@@ -128,13 +121,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Савети и трикови">Савети и трикови</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Унесите посебне знаке">Посебни знаци</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Средњи клик">пречице средњег клика</a></span>…</span>
+<a href="tips.html.sr" title="Савети и трикови">Савети и трикови</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.sr" title="Унесите посебне знаке">Посебни знаци</a></span>, <span class="link"><a href="mouse-middleclick.html.sr" title="Средњи клик">пречице средњег клика</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.sr" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
 </li></ul></div>
 </div></div>
 </div>

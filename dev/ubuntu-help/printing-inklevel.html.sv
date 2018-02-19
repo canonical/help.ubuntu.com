@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="printing.html" title="Utskrifter">Utskrifter</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="printing.html.sv" title="Utskrifter">Utskrifter</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hur kan jag kontrollera min skrivares bläck- eller tonernivå?</span></h1></div>
@@ -62,13 +62,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html" title="Utskrifter">Utskrifter</a><span class="desc"> — <span class="link"><a href="printing-setup.html" title="Ställ in en lokal skrivare">Lokal inställning</a></span>, <span class="link"><a href="printing-order.html" title="Skriv ut sidor i en annan ordning">ordna och sortera</a></span>, <span class="link"><a href="printing-2sided.html" title="Skriv ut dubbelsidigt och flersidslayouter">dubbelsidig och flersidig utskrift</a></span>…</span>
+<a href="printing.html.sv" title="Utskrifter">Utskrifter</a><span class="desc"> — <span class="link"><a href="printing-setup.html.sv" title="Ställ in en lokal skrivare">Lokal inställning</a></span>, <span class="link"><a href="printing-order.html.sv" title="Skriv ut sidor i en annan ordning">ordna och sortera</a></span>, <span class="link"><a href="printing-2sided.html.sv" title="Skriv ut dubbelsidigt och flersidslayouter">dubbelsidig och flersidig utskrift</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-streaks.html" title="Varför finns det streck, linjer eller fel färger på mina utskrifter?">Varför finns det streck, linjer eller fel färger på mina utskrifter?</a><span class="desc"> — Om utskrifter är streckade, tonande eller saknar färger, kontrollera dina bläcknivåer eller rensa skrivarhuvudet.</span>
+<a href="printing-streaks.html.sv" title="Varför finns det streck, linjer eller fel färger på mina utskrifter?">Varför finns det streck, linjer eller fel färger på mina utskrifter?</a><span class="desc"> — Om utskrifter är streckade, tonande eller saknar färger, kontrollera dina bläcknivåer eller rensa skrivarhuvudet.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="prefs-display.html" title="Visning och skärm">Visning och skärm</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="prefs-display.html.sv" title="Visning och skärm">Visning och skärm</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ändra upplösning eller rotation på skärmen</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Du kan ändra hur stora (eller hur detaljerade) saker visas på skärmen genom att ändra <span class="em">skärmupplösningen</span>. Du kan ändra vilket håll som är upp (om du till exempel har en roterande skärm) genom att ändra <span class="em">rotationen</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skärmar</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skärmar</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Skärmar</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Om du har flera skärmar och de inte är speglade kan du ha olika inställningar på varje skärm. Välj en skärm i förhandsvisningsområdet.</p></li>
 <li class="steps"><p class="p">Välj upplösning och rotation.</p></li>
@@ -62,7 +62,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Upplösning</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Upplösningen är antalet pixlar (punkter på skärmen) som kan visas i varje riktning. Varje upplösning har ett <span class="em">bildförhållande</span>, förhållandet mellan bredden och höjden. Bredbildsskärmar använder bildförhållandet 16∶9, medan traditionella skärmar använder 4∶3. Om du väljer en upplösning som inte matchar bildförhållandet för din skärm kommer skärmen att bli en avgränsad bild för att undvika förvrängning, genom att lägga till svarta kanter i toppen och botten på skärmen eller på båda sidor om skärmen.</p>
-<p class="p">Du kan välja upplösningen du föredrar från rullgardinsmenyn <span class="gui">Upplösning</span>. Om du väljer en som inte är rätt för din skärm kan den <span class="link"><a href="look-display-fuzzy.html" title="Varför ser saker otydliga/pixellerade ut på min skärm?">se otydlig eller pixellerad</a></span> ut.</p>
+<p class="p">Du kan välja upplösningen du föredrar från rullgardinsmenyn <span class="gui">Upplösning</span>. Om du väljer en som inte är rätt för din skärm kan den <span class="link"><a href="look-display-fuzzy.html.sv" title="Varför ser saker otydliga/pixellerade ut på min skärm?">se otydlig eller pixellerad</a></span> ut.</p>
 </div></div>
 </div></div>
 <div id="rotation" class="sect"><div class="inner">
@@ -75,13 +75,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Visning och skärm">Visning och skärm</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Ändra skrivbords- och låsskärmsbakgrunderna">Bakgrund</a></span>, <span class="link"><a href="look-resolution.html" title="Ändra upplösning eller rotation på skärmen">storlek och rotering</a></span>, ljusstyrka…</span>
+<a href="prefs-display.html.sv" title="Visning och skärm">Visning och skärm</a><span class="desc"> — <span class="link"><a href="look-background.html.sv" title="Ändra skrivbords- och låsskärmsbakgrunderna">Bakgrund</a></span>, <span class="link"><a href="look-resolution.html.sv" title="Ändra upplösning eller rotation på skärmen">storlek och rotering</a></span>, ljusstyrka…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-display-fuzzy.html" title="Varför ser saker otydliga/pixellerade ut på min skärm?">Varför ser saker otydliga/pixellerade ut på min skärm?</a><span class="desc"> — Skärmupplösningen kan vara felaktigt inställd.</span>
+<a href="look-display-fuzzy.html.sv" title="Varför ser saker otydliga/pixellerade ut på min skärm?">Varför ser saker otydliga/pixellerade ut på min skärm?</a><span class="desc"> — Skärmupplösningen kan vara felaktigt inställd.</span>
 </li></ul></div>
 </div></div>
 </div>

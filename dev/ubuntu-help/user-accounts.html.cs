@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Uživatelské účty</span></h1></div>
@@ -53,30 +53,30 @@
 <div class="hgroup"><h2 class="title"><span class="title">Správa uživatelských účtů</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Přidání nového uživatelského účtu"><span class="title">Přidání nového uživatelského účtu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak přidat nové uživatele, aby se další lidé mohli přihlásit k počítači.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Automatické přihlašování"><span class="title">Automatické přihlašování</span><span class="linkdiv-dash"> — </span><span class="desc">Jak nastavit automatické přihlášení po zapnutí vašeho počítače.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-add.html.cs" title="Přidání nového uživatelského účtu"><span class="title">Přidání nového uživatelského účtu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak přidat nové uživatele, aby se další lidé mohli přihlásit k počítači.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html.cs" title="Automatické přihlašování"><span class="title">Automatické přihlašování</span><span class="linkdiv-dash"> — </span><span class="desc">Jak nastavit automatické přihlášení po zapnutí vašeho počítače.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Smazání uživatelského účtu"><span class="title">Smazání uživatelského účtu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak odebrat uživatele, který počítač nadále nebude používat.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Změna vaší fotografie na přihlašovací obrazovce"><span class="title">Změna vaší fotografie na přihlašovací obrazovce</span><span class="linkdiv-dash"> — </span><span class="desc">Jak přidat svoji fotografii do přihlašovací a uživatelské obrazovky.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html.cs" title="Smazání uživatelského účtu"><span class="title">Smazání uživatelského účtu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak odebrat uživatele, který počítač nadále nebude používat.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html.cs" title="Změna vaší fotografie na přihlašovací obrazovce"><span class="title">Změna vaší fotografie na přihlašovací obrazovce</span><span class="linkdiv-dash"> — </span><span class="desc">Jak přidat svoji fotografii do přihlašovací a uživatelské obrazovky.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="passwords" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Hesla</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html" title="Volba bezpečného hesla"><span class="title">Volba bezpečného hesla</span><span class="linkdiv-dash"> — </span><span class="desc">Používejte dlouhá a složitá hesla.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html" title="Změna vašeho hesla"><span class="title">Změna vašeho hesla</span><span class="linkdiv-dash"> — </span><span class="desc">Zachovejte bezpečnost svého účtu tím, že v nastavení účtu budete často měnit heslo.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html.cs" title="Volba bezpečného hesla"><span class="title">Volba bezpečného hesla</span><span class="linkdiv-dash"> — </span><span class="desc">Používejte dlouhá a složitá hesla.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html.cs" title="Změna vašeho hesla"><span class="title">Změna vašeho hesla</span><span class="linkdiv-dash"> — </span><span class="desc">Zachovejte bezpečnost svého účtu tím, že v nastavení účtu budete často měnit heslo.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="privileges" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Uživatelská oprávnění</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html" title="Jak fungují oprávnění správce?"><span class="title">Jak fungují oprávnění správce?</span><span class="linkdiv-dash"> — </span><span class="desc">Oprávnění správce jsou zapotřebí ke změnám důležitých částí systému.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html" title="Problémy způsobené omezeními od správců"><span class="title">Problémy způsobené omezeními od správců</span><span class="linkdiv-dash"> — </span><span class="desc">Některé věci, jako třeba instalovat aplikace, můžete dělat jen s oprávněním správce.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.cs" title="Jak fungují oprávnění správce?"><span class="title">Jak fungují oprávnění správce?</span><span class="linkdiv-dash"> — </span><span class="desc">Oprávnění správce jsou zapotřebí ke změnám důležitých částí systému.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.cs" title="Problémy způsobené omezeními od správců"><span class="title">Problémy způsobené omezeními od správců</span><span class="linkdiv-dash"> — </span><span class="desc">Některé věci, jako třeba instalovat aplikace, můžete dělat jen s oprávněním správce.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-change.html" title="Změna osob s oprávněním správce"><span class="title">Změna osob s oprávněním správce</span><span class="linkdiv-dash"> — </span><span class="desc">Jak přidělením oprávnění správce umožnit uživatelům provádět změny systému.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.cs" title="Změna osob s oprávněním správce"><span class="title">Změna osob s oprávněním správce</span><span class="linkdiv-dash"> — </span><span class="desc">Jak přidělením oprávnění správce umožnit uživatelům provádět změny systému.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -84,7 +84,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html" title="Uživatelské účty">uživatelské účty</a></span>…</span>
+<a href="prefs.html.cs" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html.cs" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html.cs" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html.cs" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html.cs" title="Uživatelské účty">uživatelské účty</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

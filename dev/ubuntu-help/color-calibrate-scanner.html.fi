@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="color.html" title="Värinhallinta">Värinhallinta</a> › <a class="trail" href="color.html#calibration" title="Kalibrointi">Kalibrointi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="color.html.fi" title="Värinhallinta">Värinhallinta</a> › <a class="trail" href="color.html.fi#calibration" title="Kalibrointi">Kalibrointi</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="color.html" title="Värinhallinta">Värinhallinta</a> › <a class="trail" href="color.html#calibration" title="Kalibrointi">Kalibrointi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="color.html.fi" title="Värinhallinta">Värinhallinta</a> › <a class="trail" href="color.html.fi#calibration" title="Kalibrointi">Kalibrointi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
       over the network.</p></li>
 <li class="steps"><p class="p">Scan your calibration target and save it as an uncompressed TIFF
       file.</p></li>
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Color</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel and select your
       scanner.</p></li>
@@ -75,22 +75,22 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Kalibrointi">Kalibrointi</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.fi#calibration" title="Kalibrointi">Kalibrointi</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html" title="Kuinka kalibroin kamerani?">Kuinka kalibroin kamerani?</a><span class="desc"> — Digitaalikameran kalibrointi on tärkeää värien tarkan tallennuksen vuoksi.</span>
+<a href="color-calibrate-camera.html.fi" title="Kuinka kalibroin kamerani?">Kuinka kalibroin kamerani?</a><span class="desc"> — Digitaalikameran kalibrointi on tärkeää värien tarkan tallennuksen vuoksi.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-screen.html" title="Kuinka kalibroin näyttöni?">Kuinka kalibroin näyttöni?</a><span class="desc"> — Näytön kalibrointi on tärkeää tarkkojen värisävyjen näyttämiseksi.</span>
+<a href="color-calibrate-screen.html.fi" title="Kuinka kalibroin näyttöni?">Kuinka kalibroin näyttöni?</a><span class="desc"> — Näytön kalibrointi on tärkeää tarkkojen värisävyjen näyttämiseksi.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html" title="Kuinka kalibroin tulostimeni?">Kuinka kalibroin tulostimeni?</a><span class="desc"> — Tulostimen kalibrointi on tärkeää mahdollisimman tarkkojen värisävyjen tulostamiseksi.</span>
+<a href="color-calibrate-printer.html.fi" title="Kuinka kalibroin tulostimeni?">Kuinka kalibroin tulostimeni?</a><span class="desc"> — Tulostimen kalibrointi on tärkeää mahdollisimman tarkkojen värisävyjen tulostamiseksi.</span>
 </li>
 <li class="links ">
-<a href="color-calibrationtargets.html" title="Mitkä kohteet ovat tuettuja?">Mitkä kohteet ovat tuettuja?</a><span class="desc"> — Kuvanlukijan ja kameran profilointi vaatii kalibrointikohteen.</span>
+<a href="color-calibrationtargets.html.fi" title="Mitkä kohteet ovat tuettuja?">Mitkä kohteet ovat tuettuja?</a><span class="desc"> — Kuvanlukijan ja kameran profilointi vaatii kalibrointikohteen.</span>
 </li>
 </ul></div>
 </div></div>

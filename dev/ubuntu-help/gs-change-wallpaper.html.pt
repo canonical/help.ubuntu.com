@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Primeiros passos">Primeiros passos com o GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.pt" title="Primeiros passos">Primeiros passos com o GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Alterar a data, hora e fuso horário">Anterior</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.pt" title="Alterar a data, hora e fuso horário">Anterior</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">Alterar o papel de parede</span></h1></div>
 <div class="region">
 <div class="contents"><div class="ui-tile ">
@@ -67,7 +67,7 @@
 <div id="change-wallpaper-overview" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Alterar o papel de parede</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Carregue no <span class="gui"><a href="shell-introduction.html#yourname" title="Você e o seu computador">menu de sistema</a></span> no lado direito da barra superior.</p></li>
+<li class="steps"><p class="p">Carregue no <span class="gui"><a href="shell-introduction.html.pt#yourname" title="Você e o seu computador">menu de sistema</a></span> no lado direito da barra superior.</p></li>
 <li class="steps"><p class="p">Carregue no botão de definições na parte inferior do menu.</p></li>
 <li class="steps"><p class="p">Carregue no painel <span class="gui">Fundo</span>.</p></li>
 <li class="steps"><p class="p">Carregue na imagem de fundo atual no lado esquerdo da janela do <span class="gui">Fundo</span>.</p></li>
@@ -76,20 +76,20 @@
 <li class="steps"><p class="p">Feche a janela do <span class="gui">Fundo</span> clicando no X no canto superior direito da janela.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Alterar a data, hora e fuso horário">Anterior</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.pt" title="Alterar a data, hora e fuso horário">Anterior</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Primeiros passos">Primeiros passos com o GNOME</a><span class="desc"> — É novo no GNOME? Aprenda como começar.</span>
+<a href="getting-started.html.pt" title="Primeiros passos">Primeiros passos com o GNOME</a><span class="desc"> — É novo no GNOME? Aprenda como começar.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-background.html" title="Mudar o fundo do escritório e do ecrã de bloqueio">Mudar o fundo do escritório e do ecrã de bloqueio</a><span class="desc"> — Estabelecer uma imagem, cor ou degradado como seu fundo de escritório ou como fundo de seu ecrã de bloqueio.</span>
+<a href="look-background.html.pt" title="Mudar o fundo do escritório e do ecrã de bloqueio">Mudar o fundo do escritório e do ecrã de bloqueio</a><span class="desc"> — Estabelecer uma imagem, cor ou degradado como seu fundo de escritório ou como fundo de seu ecrã de bloqueio.</span>
 </li></ul></div>
 </div></div>
 </div>

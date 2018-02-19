@@ -44,19 +44,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Ton, Video und Bilder">Ton, Video und Bilder</a> › <a class="trail" href="media.html#photos" title="Fotos und digitale Kameras">Fotos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.de" title="Ton, Video und Bilder">Ton, Video und Bilder</a> › <a class="trail" href="media.html.de#photos" title="Fotos und digitale Kameras">Fotos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Häufige Probleme">Probleme</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html.de#problems" title="Häufige Probleme">Probleme</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Probleme mit Speicherkartenlesern</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Viele Rechner enthalten Lesegeräte für SD, MMC, SM, MS, CF und weitere Speicherkartentypen. Diese sollten automatisch erkannt und <span class="link"><a href="disk-partitions.html" title="Datenträger und Partitionen verwalten">eingehängt</a></span> werden. Hier einige Hinweise zur Fehleranalyse, falls das nicht passiert:</p>
+<p class="p">Viele Rechner enthalten Lesegeräte für SD, MMC, SM, MS, CF und weitere Speicherkartentypen. Diese sollten automatisch erkannt und <span class="link"><a href="disk-partitions.html.de" title="Datenträger und Partitionen verwalten">eingehängt</a></span> werden. Hier einige Hinweise zur Fehleranalyse, falls das nicht passiert:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Überprüfen Sie, ob die Karte richtig eingelegt ist. Viele Karten scheinen verkehrt herum zu liegen, wenn sie korrekt eingesetzt sind. Außerdem sollten Sie den festen Sitz der Karte prüfen. Einige Typen, insbesondere CF-Karten, benötigen etwas mehr Nachdruck beim Einlegen. Seien Sie jedoch vorsichtig und wenden Sie nicht zu viel Kraft auf! Sobald Sie einen festen Gegendruck verspüren, sollten Sie aufhören.</p></li>
-<li class="steps"><p class="p">Öffnen Sie <span class="app">Dateien</span> mit Hilfe der <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht. Erscheint die eingelegte Karte in der <span class="gui">Geräte</span>-Liste in der linken Seitenleiste? Manchmal ist die Karte in dieser Liste aufgeführt, aber nicht eingehängt; klicken Sie einmal darauf, um sie einzuhängen. (Falls die Seitenleiste nicht sichtbar ist, drücken Sie die <span class="key"><kbd>F9</kbd></span>-Taste oder klicken Sie auf den Ansichtsoptionen-Knopf in der oberen Leiste und wählen Sie <span class="gui">Seitenleiste</span>.)</p></li>
+<li class="steps"><p class="p">Öffnen Sie <span class="app">Dateien</span> mit Hilfe der <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht. Erscheint die eingelegte Karte in der <span class="gui">Geräte</span>-Liste in der linken Seitenleiste? Manchmal ist die Karte in dieser Liste aufgeführt, aber nicht eingehängt; klicken Sie einmal darauf, um sie einzuhängen. (Falls die Seitenleiste nicht sichtbar ist, drücken Sie die <span class="key"><kbd>F9</kbd></span>-Taste oder klicken Sie auf den Ansichtsoptionen-Knopf in der oberen Leiste und wählen Sie <span class="gui">Seitenleiste</span>.)</p></li>
 <li class="steps"><p class="p">Falls Ihre Karte nicht in der Seitenleiste angezeigt wird, drücken Sie <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>L</kbd></span></span> und geben Sie dann <span class="input">computer:///</span> ein und bestätigen Sie die Eingabe mit der <span class="key"><kbd>Eingabetaste</kbd></span>. Wenn der Kartenleser korrekt eingerichtet ist, wird er als Laufwerk angezeigt, falls keine Karte vorhanden ist, oder als Karte, wenn diese eingelegt wurde.</p></li>
 <li class="steps"><p class="p">Falls Sie den Kartenleser sehen können, die Karte jedoch nicht, könnte ein Problem mit der Karte selbst bestehen. Tauschen Sie die Karte aus oder versuchen Sie sie in einem anderen Kartenleser, falls vorhanden.</p></li>
 </ol></div></div></div>
@@ -67,8 +67,8 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#photos" title="Fotos und digitale Kameras">Fotos</a></li>
-<li class="links "><a href="hardware.html#problems" title="Häufige Probleme">Probleme mit der Hardware</a></li>
+<li class="links "><a href="media.html.de#photos" title="Fotos und digitale Kameras">Fotos</a></li>
+<li class="links "><a href="hardware.html.de#problems" title="Häufige Probleme">Probleme mit der Hardware</a></li>
 </ul></div>
 </div></div></div>
 </div>

@@ -43,55 +43,55 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Rede, web &amp; e-mail</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html" title="Rede sem fio">Rede sem fio</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html" title="Conectando a uma rede sem fio">Conectar-se a redes sem fio</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Conectando a um rede sem fio oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Por que minha conexão sem fio fica desconectando?">desconectando</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wireless.html.pt-BR" title="Rede sem fio">Rede sem fio</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.pt-BR" title="Conectando a uma rede sem fio">Conectar-se a redes sem fio</a></span>, <span class="link"><a href="net-wireless-hidden.html.pt-BR" title="Conectando a um rede sem fio oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pt-BR" title="Por que minha conexão sem fio fica desconectando?">desconectando</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-chat.html" title="Bate-papo e redes sociais">Bate-papo e redes sociais</a></div>
+<div class="links-grid-link"><a href="net-chat.html.pt-BR" title="Bate-papo e redes sociais">Bate-papo e redes sociais</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-chat-empathy.html" title="Mensagens instantâneas no Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Chamadas de vídeo">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Como posso usar o Skype no Ubuntu?">install skype</a></span>
+      <span class="link"><a href="net-chat-empathy.html.pt-BR" title="Mensagens instantâneas no Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.pt-BR" title="Chamadas de vídeo">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.pt-BR" title="Como posso usar o Skype no Ubuntu?">install skype</a></span>
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="sharing.html" title="Compartilhamento">Compartilhamento</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html" title="Compartilhando sua área de trabalho">Compartilhamento da área de trabalho</a></span>, <span class="link"><a href="files-share.html" title="Compartilhando arquivos por e-mail">Compartilhar arquivos por e-mail</a></span>, <span class="link"><a href="sharing-media.html" title="Compartilhando suas músicas, fotos e vídeos">Compartilhamento de multimídia</a></span>…</span></div>
+<div class="links-grid-link"><a href="sharing.html.pt-BR" title="Compartilhamento">Compartilhamento</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html.pt-BR" title="Compartilhando sua área de trabalho">Compartilhamento da área de trabalho</a></span>, <span class="link"><a href="files-share.html.pt-BR" title="Compartilhando arquivos por e-mail">Compartilhar arquivos por e-mail</a></span>, <span class="link"><a href="sharing-media.html.pt-BR" title="Compartilhando suas músicas, fotos e vídeos">Compartilhamento de multimídia</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="contacts.html" title="Contatos">Contatos</a></div>
+<div class="links-grid-link"><a href="contacts.html.pt-BR" title="Contatos">Contatos</a></div>
 <div class="desc"><span class="desc">Acesse seus contatos.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-email.html" title="E-mail &amp; software de e-mail">E-mail &amp; software de e-mail</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-default-email.html" title="Alterando qual aplicativo de correio é usado para escrever e-mails">Aplicativos padrões de e-mail</a></span>, <span class="link"><a href="net-email-virus.html" title="Eu preciso verificar meus e-mails por vírus?">Eu deveria verificar por vírus?</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-email.html.pt-BR" title="E-mail &amp; software de e-mail">E-mail &amp; software de e-mail</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-email.html.pt-BR" title="Alterando qual aplicativo de correio é usado para escrever e-mails">Aplicativos padrões de e-mail</a></span>, <span class="link"><a href="net-email-virus.html.pt-BR" title="Eu preciso verificar meus e-mails por vírus?">Eu deveria verificar por vírus?</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-security.html" title="Mantendo-se seguro na Internet">Mantendo-se seguro na Internet</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html" title="Eu preciso de um software de antivírus?">Software de antivírus</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Habilitando ou bloqueando acesso no firewall">firewalls básicos</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Portas de rede comumente usadas">portas nos firewalls</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-security.html.pt-BR" title="Mantendo-se seguro na Internet">Mantendo-se seguro na Internet</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html.pt-BR" title="Eu preciso de um software de antivírus?">Software de antivírus</a></span>, <span class="link"><a href="net-firewall-on-off.html.pt-BR" title="Habilitando ou bloqueando acesso no firewall">firewalls básicos</a></span>, <span class="link"><a href="net-firewall-ports.html.pt-BR" title="Portas de rede comumente usadas">portas nos firewalls</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html" title="Navegadores web">Navegadores web</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html" title="Alterando qual navegador web abre os sites por padrão">Altere o navegador padrão</a></span>, <span class="link"><a href="net-install-flash.html" title="Instalar o plug-in Flash">instale Flash</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-browser.html.pt-BR" title="Navegadores web">Navegadores web</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.pt-BR" title="Alterando qual navegador web abre os sites por padrão">Altere o navegador padrão</a></span>, <span class="link"><a href="net-install-flash.html.pt-BR" title="Instalar o plug-in Flash">instale Flash</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-problem.html" title="Problemas de rede">Problemas de rede</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Solução de problemas de rede sem fio">Solucionando problemas de conexões de rede sem fio</a></span>, <span class="link"><a href="net-wireless-find.html" title="Eu não consigo ver minha rede sem fio na lista">encontrando sua rede wifi</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-problem.html.pt-BR" title="Problemas de rede">Problemas de rede</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.pt-BR" title="Solução de problemas de rede sem fio">Solucionando problemas de conexões de rede sem fio</a></span>, <span class="link"><a href="net-wireless-find.html.pt-BR" title="Eu não consigo ver minha rede sem fio na lista">encontrando sua rede wifi</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html" title="Rede com fio">Rede com fio</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html" title="Conectando a rede com fio (Ethernet)">Conexões de Internet com fio</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Criando uma conexão com um endereço IP fixo">Endereços IP fixos</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wired.html.pt-BR" title="Rede com fio">Rede com fio</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.pt-BR" title="Conectando a rede com fio (Ethernet)">Conexões de Internet com fio</a></span>, <span class="link"><a href="net-fixed-ip-address.html.pt-BR" title="Criando uma conexão com um endereço IP fixo">Endereços IP fixos</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-general.html" title="Termos &amp; dicas de conectividade">Termos &amp; dicas de conectividade</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html" title="Descobrindo o seu endereço de IP">Descubra seu endereço IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="O que WEP e WPA significam?">segurança WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="O que é um endereço MAC?">endereços MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Definindo configurações de proxy">proxy</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-general.html.pt-BR" title="Termos &amp; dicas de conectividade">Termos &amp; dicas de conectividade</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.pt-BR" title="Descobrindo o seu endereço de IP">Descubra seu endereço IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.pt-BR" title="O que WEP e WPA significam?">segurança WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html.pt-BR" title="O que é um endereço MAC?">endereços MAC</a></span>, <span class="link"><a href="net-proxy.html.pt-BR" title="Definindo configurações de proxy">proxy</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -99,11 +99,11 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Guia do Ubuntu Desktop">Guia do Ubuntu Desktop</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.pt-BR" title="Guia do Ubuntu Desktop">Guia do Ubuntu Desktop</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-get-online.html" title="Estando on-line">Um tutorial sobre como estar on-line</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-get-online.html.pt-BR" title="Estando on-line">Um tutorial sobre como estar on-line</a></li></ul></div>
 </div></div>
 </div>
 </div>

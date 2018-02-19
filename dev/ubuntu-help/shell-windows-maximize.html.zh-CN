@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">桌面</a> › <a class="trail" href="shell-overview.html#apps" title="应用程序和窗口">应用程序和窗口</a> » <a class="trail" href="shell-windows.html" title="窗口和工作区">窗口和工作区</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="使用窗口">窗口</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.zh-CN" title="Your desktop">桌面</a> › <a class="trail" href="shell-overview.html.zh-CN#apps" title="应用程序和窗口">应用程序和窗口</a> » <a class="trail" href="shell-windows.html.zh-CN" title="窗口和工作区">窗口和工作区</a> › <a class="trail" href="shell-windows.html.zh-CN#working-with-windows" title="使用窗口">窗口</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">最大化和取消最大化(恢复)窗口。</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">您可以将窗口最大化，占满整个桌面的空间，或者取消最大化恢复窗口的正常大小。您也可以将窗口从左到右竖直最大化，这样就可以容易的同时看到多个窗口。查看 <span class="link"><a href="shell-windows-tiled.html" title="平铺窗口">平铺窗口</a></span> 获取更多细节。</p>
+<p class="p">您可以将窗口最大化，占满整个桌面的空间，或者取消最大化恢复窗口的正常大小。您也可以将窗口从左到右竖直最大化，这样就可以容易的同时看到多个窗口。查看 <span class="link"><a href="shell-windows-tiled.html.zh-CN" title="平铺窗口">平铺窗口</a></span> 获取更多细节。</p>
 <p class="p">To maximize a window, grab the titlebar and drag it to the top of the
   screen, or just double-click the titlebar. To maximize a window using the
-  keyboard, hold down the <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> key and
+  keyboard, hold down the <span class="key"><a href="keyboard-key-super.html.zh-CN" title="What is the Super key?"><kbd>Super</kbd></a></span> key and
   press <span class="key"><kbd>↑</kbd></span>, or press
   <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
 <p class="p">要恢复窗口的原始大小，点击程序的标题栏，把它拖离屏幕边缘，如果窗口是全屏最大化，您可以双击标题栏来恢复。您也可以再次按最大化窗口的快捷键来恢复。</p>
@@ -64,12 +64,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="使用窗口">使用窗口</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.zh-CN#working-with-windows" title="使用窗口">使用窗口</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-tiled.html" title="平铺窗口">平铺窗口</a><span class="desc"> — 并排最大化两个窗口</span>
+<a href="shell-windows-tiled.html.zh-CN" title="平铺窗口">平铺窗口</a><span class="desc"> — 并排最大化两个窗口</span>
 </li></ul></div>
 </div></div>
 </div>

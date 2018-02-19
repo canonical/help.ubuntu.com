@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html#backup" title="Sauvegardes">Sauvegardes</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html.fr" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html.fr#backup" title="Sauvegardes">Sauvegardes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sauvegarde de vos fichiers importants</span></h1></div>
@@ -53,17 +53,17 @@
 <p class="p">La meilleure méthode consiste à faire des sauvegardes régulières (éventuellement chiffrées) et de les stocker en dehors de l'endroit où sont les originaux.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-how.html" title="Procédure de sauvegarde"><span class="title">Procédure de sauvegarde</span><span class="linkdiv-dash"> — </span><span class="desc">Utiliser « Déjà Dup » (ou un autre logiciel de sauvegarde) pour faire des copies de vos documents et paramètres importants afin d'éviter des pertes.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-what.html" title="Que faut-il sauvegarder ?"><span class="title">Que faut-il sauvegarder ?</span><span class="linkdiv-dash"> — </span><span class="desc">Sauvegarder tout ce qu'il n'est pas envisageable de perdre si quelque chose va mal.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-how.html.fr" title="Procédure de sauvegarde"><span class="title">Procédure de sauvegarde</span><span class="linkdiv-dash"> — </span><span class="desc">Utiliser « Déjà Dup » (ou un autre logiciel de sauvegarde) pour faire des copies de vos documents et paramètres importants afin d'éviter des pertes.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-what.html.fr" title="Que faut-il sauvegarder ?"><span class="title">Que faut-il sauvegarder ?</span><span class="linkdiv-dash"> — </span><span class="desc">Sauvegarder tout ce qu'il n'est pas envisageable de perdre si quelque chose va mal.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-where.html" title="Où stocker vos sauvegardes ?"><span class="title">Où stocker vos sauvegardes ?</span><span class="linkdiv-dash"> — </span><span class="desc">Conseils sur l'endroit où stocker vos sauvegardes et sur le type de périphérique de stockage à utiliser.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-where.html.fr" title="Où stocker vos sauvegardes ?"><span class="title">Où stocker vos sauvegardes ?</span><span class="linkdiv-dash"> — </span><span class="desc">Conseils sur l'endroit où stocker vos sauvegardes et sur le type de périphérique de stockage à utiliser.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Sauvegardes">Sauvegardes</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.fr#backup" title="Sauvegardes">Sauvegardes</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

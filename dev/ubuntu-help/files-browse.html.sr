@@ -43,22 +43,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html#common-file-tasks" title="Уобичајени послови">Уобичајени послови</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.sr" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html.sr#common-file-tasks" title="Уобичајени послови">Уобичајени послови</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Прегледајте датотеке и фасцикле</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Користите управника датотека <span class="app">Наутилус</span> да разгледате и организујете датотеке на вашем рачунару. Можете такође да га користите за руковање датотекама на складишним уређајима (као што су спољни чврсти дискови), на <span class="link"><a href="nautilus-connect.html" title="Претражујте датотеке на серверу или мрежном дељењу">серверима датотека</a></span>, и на мрежним дељењима.</p>
-<p class="p">Да покренете управника датотека, отворите <span class="app">Датотеке</span> у прегледу <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span>. Можете такође да тражите датотеке и фасцикле у прегледу на исти начин као када бисте <span class="link"><a href="shell-apps-open.html" title="Почетни програми">тражили програме</a></span>.</p>
+<p class="p">Користите управника датотека <span class="app">Наутилус</span> да разгледате и организујете датотеке на вашем рачунару. Можете такође да га користите за руковање датотекама на складишним уређајима (као што су спољни чврсти дискови), на <span class="link"><a href="nautilus-connect.html.sr" title="Претражујте датотеке на серверу или мрежном дељењу">серверима датотека</a></span>, и на мрежним дељењима.</p>
+<p class="p">Да покренете управника датотека, отворите <span class="app">Датотеке</span> у прегледу <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span>. Можете такође да тражите датотеке и фасцикле у прегледу на исти начин као када бисте <span class="link"><a href="shell-apps-open.html.sr" title="Почетни програми">тражили програме</a></span>.</p>
 </div>
 <div id="files-view-folder-contents" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Истражите садржаје фасцикли</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">У управнику датотека, кликните два пута на неку фасциклу да видите њен садржај, и кликните два пута или <span class="link"><a href="mouse-middleclick.html" title="Средњи клик">средњим тастером</a></span> на неку датотеку да је отворите основним програмом за ту датотеку. Притисните средњим тастером миша на фасциклу да је отворите у новом језичку. Можете такође да кликнете десним тастером миша на фасциклу да је отворите у новом језичку или у новом прозору.</p>
-<p class="p">Када разгледате датотеке у фасцикли, можете брзо да <span class="link"><a href="files-preview.html" title="Погледајте датотеке и фасцикле">прикажете преглед сваке датотеке</a></span> тако што ћете притиснути размакницу на тастатури да се уверите да је то одговарајућа датотека пре него ли је отворите, умножите, или обришете.</p>
+<p class="p">У управнику датотека, кликните два пута на неку фасциклу да видите њен садржај, и кликните два пута или <span class="link"><a href="mouse-middleclick.html.sr" title="Средњи клик">средњим тастером</a></span> на неку датотеку да је отворите основним програмом за ту датотеку. Притисните средњим тастером миша на фасциклу да је отворите у новом језичку. Можете такође да кликнете десним тастером миша на фасциклу да је отворите у новом језичку или у новом прозору.</p>
+<p class="p">Када разгледате датотеке у фасцикли, можете брзо да <span class="link"><a href="files-preview.html.sr" title="Погледајте датотеке и фасцикле">прикажете преглед сваке датотеке</a></span> тако што ћете притиснути размакницу на тастатури да се уверите да је то одговарајућа датотека пре него ли је отворите, умножите, или обришете.</p>
 <p class="p"><span class="em">Трака путање</span> изнад списка датотека и фасцикли вам показује коју фасциклу разгледате, укључујући надређене фасцикле текуће фасцикле. Кликните на надређену фасциклу на траци путање да се пребаците у ту фасциклу. Кликните десним тастером миша на било коју фасциклу на траци путање да је отворите у новом језичку или прозору, или да приступите њеним особинама.</p>
-<p class="p">Ако желите да на брзину <span class="link"><a href="files-search.html" title="Тражите датотеке">потражите датотеку</a></span>, у или испод фасцикле коју разгледате, почните да куцате њен назив. Појавиће се <span class="em">поље за претрагу</span> при врху прозора и само датотеке које одговарају вашој претрази биће приказане. Притисните <span class="key"><kbd>Есц</kbd></span> да откажете претрагу.</p>
+<p class="p">Ако желите да на брзину <span class="link"><a href="files-search.html.sr" title="Тражите датотеке">потражите датотеку</a></span>, у или испод фасцикле коју разгледате, почните да куцате њен назив. Појавиће се <span class="em">поље за претрагу</span> при врху прозора и само датотеке које одговарају вашој претрази биће приказане. Притисните <span class="key"><kbd>Есц</kbd></span> да откажете претрагу.</p>
 <p class="p">Можете на брзину да приступите општим местима из <span class="em">бочне површи</span>. Ако не видите бочну површ, притисните на <span class="gui">Датотеке</span> на горњој траци и изаберите <span class="gui">Бочна површ</span>. Можете да додате обележиваче фасциклама које често користите и оне ће се појавити у бочној површи. Превуците фасциклу у бочну површ, и убаците је преко <span class="gui">новог обележивача</span>, који се појављује динамички, или притисните на изборник прозора и изаберите <span class="gui">Забележи ово место</span>.</p>
 </div></div>
 </div></div>
@@ -67,12 +67,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Уобичајени послови">Уобичајени послови</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sr#common-file-tasks" title="Уобичајени послови">Уобичајени послови</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-copy.html" title="Умножите или преместите датотеке и фасцикле">Умножите или преместите датотеке и фасцикле</a><span class="desc"> — Умножите или преместите ставке у нови директоријум.</span>
+<a href="files-copy.html.sr" title="Умножите или преместите датотеке и фасцикле">Умножите или преместите датотеке и фасцикле</a><span class="desc"> — Умножите или преместите ставке у нови директоријум.</span>
 </li></ul></div>
 </div></div>
 </div>

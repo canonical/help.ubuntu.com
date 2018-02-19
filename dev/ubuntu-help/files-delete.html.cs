@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#common-file-tasks" title="Běžné činnosti">Běžné činnosti</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#common-file-tasks" title="Běžné činnosti">Běžné činnosti</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mazání souborů a složek</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Pokud některý soubor nebo složku již nechcete, můžete je smazat. Když položku vymažete, přesune se do složky <span class="gui">Koš</span>, ve které bude uchována, dokud koš nevysypete. V případě, že zjistíte, že je přece jen potřebujete, nebo je smažete omylem, můžete ze složky <span class="gui">Koš</span> <span class="link"><a href="files-recover.html" title="Obnovení souboru z koše">položky obnovit</a></span> na jejich původní umístění.</p>
+<p class="p">Pokud některý soubor nebo složku již nechcete, můžete je smazat. Když položku vymažete, přesune se do složky <span class="gui">Koš</span>, ve které bude uchována, dokud koš nevysypete. V případě, že zjistíte, že je přece jen potřebujete, nebo je smažete omylem, můžete ze složky <span class="gui">Koš</span> <span class="link"><a href="files-recover.html.cs" title="Obnovení souboru z koše">položky obnovit</a></span> na jejich původní umístění.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Když chcete soubor vyhodit do koše:</span></h2></div>
 <div class="region"><ol class="steps">
@@ -72,7 +72,7 @@
 <li class="steps"><p class="p">Protože tuto operaci nelze vrátit zpět, budete dotázáni na potvrzení, že soubor nebo složku opravdu chcete smazat.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Smazané soubory na <span class="link"><a href="files.html#removable" title="Výměnná média a externí disky">výměnných médiích</a></span> nebudou vidět v jiných operačních systémech, jako jsou Windows nebo Mac OS. Soubory na disku ale stále budou a dostanete se k nim, jakmile zařízení přípojíte opět ke svému počítači.</p></div></div></div></div>
+<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Smazané soubory na <span class="link"><a href="files.html.cs#removable" title="Výměnná média a externí disky">výměnných médiích</a></span> nebudou vidět v jiných operačních systémech, jako jsou Windows nebo Mac OS. Soubory na disku ale stále budou a dostanete se k nim, jakmile zařízení přípojíte opět ke svému počítači.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -80,15 +80,15 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Běžné činnosti">Běžné činnosti</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.cs#common-file-tasks" title="Běžné činnosti">Běžné činnosti</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-recover.html" title="Obnovení souboru z koše">Obnovení souboru z koše</a><span class="desc"> — Mazané soubory se normálně posílají do koše, ale mohou být obnoveny.</span>
+<a href="files-recover.html.cs" title="Obnovení souboru z koše">Obnovení souboru z koše</a><span class="desc"> — Mazané soubory se normálně posílají do koše, ale mohou být obnoveny.</span>
 </li>
-<li class="links "><a href="nautilus-behavior.html#trash" title="Koš">Předvolby koše ve správci souborů</a></li>
+<li class="links "><a href="nautilus-behavior.html.cs#trash" title="Koš">Předvolby koše ve správci souborů</a></li>
 </ul></div>
 </div></div>
 </div>

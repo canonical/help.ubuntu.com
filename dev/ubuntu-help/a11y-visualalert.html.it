@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Accesso universale">Accesso universale</a> › <a class="trail" href="a11y.html#sound" title="Difficoltà uditive">Difficoltà uditive</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.it" title="Accesso universale">Accesso universale</a> › <a class="trail" href="a11y.html.it#sound" title="Difficoltà uditive">Difficoltà uditive</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Far illuminare lo schermo per gli avvisi</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">Il computer riprodurrà un semplice avviso sonoro per alcune tipologie di messaggi ed eventi. Nel caso non si potessero udire facilmente questi avvisi, è possibile fare in modo che lo schermo intero o solo la finestra attiva vengano illuminati quando viene riprodotto un avviso sonoro.</p>
 <p class="p">This can also be useful if you’re in an environment where you need your
-  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="Scegliere o disabilitare l'avviso sonoro">Scegliere o disabilitare l'avviso sonoro</a></span>
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html.it" title="Scegliere o disabilitare l'avviso sonoro">Scegliere o disabilitare l'avviso sonoro</a></span>
   to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Visual Alerts</span> in the <span class="gui">Hearing</span> section.</p></li>
@@ -62,19 +62,19 @@
 <li class="steps"><p class="p"> Select whether you want the entire screen or just your current window
       title to flash.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Suggerimento"><div class="inner"><div class="region"><div class="contents"><p class="p">È possibile attivare e disattivare rapidamente gli avvisi visibili facendo clic sulla <span class="link"><a href="a11y-icon.html" title="Trovare il menù accesso universale">icona accesso universale</a></span> nella barra superiore e selezionando <span class="gui">Avvisi visibili</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Suggerimento"><div class="inner"><div class="region"><div class="contents"><p class="p">È possibile attivare e disattivare rapidamente gli avvisi visibili facendo clic sulla <span class="link"><a href="a11y-icon.html.it" title="Trovare il menù accesso universale">icona accesso universale</a></span> nella barra superiore e selezionando <span class="gui">Avvisi visibili</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#sound" title="Difficoltà uditive">Difficoltà uditive</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.it#sound" title="Difficoltà uditive">Difficoltà uditive</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-alert.html" title="Scegliere o disabilitare l'avviso sonoro">Scegliere o disabilitare l'avviso sonoro</a><span class="desc"> — Scegliere il suono per i messaggi, impostare o disabilitare gli avvisi sonori.</span>
+<a href="sound-alert.html.it" title="Scegliere o disabilitare l'avviso sonoro">Scegliere o disabilitare l'avviso sonoro</a><span class="desc"> — Scegliere il suono per i messaggi, impostare o disabilitare gli avvisi sonori.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html#apps" title="Програми и прозори">Програми и прозори</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.sr" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html.sr#apps" title="Програми и прозори">Програми и прозори</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Које је значење иконица на горњој траци?</span></h1></div>
@@ -52,11 +52,11 @@
 <p class="p">Овај одељак објашњава значење иконица које се налазе у горњем десном углу екрана. Поготово, описане су различите варијације иконица које доставља Гномово сучеље.</p>
 <div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="Горња трака Гномове шкољке"></div></div>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="status-icons.html#universalicons" title="Иконице изборника универзалног приступа">Иконице изборника универзалног приступа</a></li>
-<li class="links "><a href="status-icons.html#audioicons" title="Иконице управљања јачином звука">Иконице управљања јачином звука</a></li>
-<li class="links "><a href="status-icons.html#bluetoothicons" title="Иконице управника блутута">Иконице управника блутута</a></li>
-<li class="links "><a href="status-icons.html#networkicons" title="Иконице управника мреже">Иконице управника мреже</a></li>
-<li class="links "><a href="status-icons.html#batteryicons" title="Иконице управника напајања">Иконице управника напајања</a></li>
+<li class="links "><a href="status-icons.html.sr#universalicons" title="Иконице изборника универзалног приступа">Иконице изборника универзалног приступа</a></li>
+<li class="links "><a href="status-icons.html.sr#audioicons" title="Иконице управљања јачином звука">Иконице управљања јачином звука</a></li>
+<li class="links "><a href="status-icons.html.sr#bluetoothicons" title="Иконице управника блутута">Иконице управника блутута</a></li>
+<li class="links "><a href="status-icons.html.sr#networkicons" title="Иконице управника мреже">Иконице управника мреже</a></li>
+<li class="links "><a href="status-icons.html.sr#batteryicons" title="Иконице управника напајања">Иконице управника напајања</a></li>
 </ul></div></div></div>
 </div>
 <div id="universalicons" class="sect"><div class="inner">
@@ -306,7 +306,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Програми и прозори">Програми и прозори</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.sr#apps" title="Програми и прозори">Програми и прозори</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

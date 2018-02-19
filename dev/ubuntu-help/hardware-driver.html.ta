@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">இயக்கி என்பது என்ன?</span></h1></div>
@@ -69,20 +69,20 @@ double-sided printing, but is otherwise completely functional.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள் &amp; இயக்கிகள்</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="பொதுவான பிரச்சினைகள்">வன்பொருள் பிரச்சினைகள்</a></span>, <span class="link"><a href="printing.html" title="அச்சிடுதல்">அச்சுப்பொறிகள்</a></span>, <span class="link"><a href="power.html" title="மின்சக்தி &amp; பேட்டரி">மின் அமைவுகள்</a></span>, <span class="link"><a href="color.html" title="நிற மேலாண்மை">நிற மேலாண்மை</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="வட்டுகள் &amp; சேமிப்பிடம்">வட்டுகள்</a></span>… </span>
+<a href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள் &amp; இயக்கிகள்</a><span class="desc"> — <span class="link"><a href="hardware.html.ta#problems" title="பொதுவான பிரச்சினைகள்">வன்பொருள் பிரச்சினைகள்</a></span>, <span class="link"><a href="printing.html.ta" title="அச்சிடுதல்">அச்சுப்பொறிகள்</a></span>, <span class="link"><a href="power.html.ta" title="மின்சக்தி &amp; பேட்டரி">மின் அமைவுகள்</a></span>, <span class="link"><a href="color.html.ta" title="நிற மேலாண்மை">நிற மேலாண்மை</a></span>, <span class="link"><a href="bluetooth.html.ta" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.ta" title="வட்டுகள் &amp; சேமிப்பிடம்">வட்டுகள்</a></span>… </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-problem-connecting.html" title="I cannot connect my Bluetooth device">I cannot connect my Bluetooth device</a><span class="desc"> — அடாப்ட்டர் அணைக்கப்பட்டிருக்கலாம் அல்லது அதற்கான இயக்கிகள் இல்லாதிருக்கலாம் அல்லது Bluetooth முடக்கப்பட்டிருக்கலாம் அல்லது தடுக்கப்பட்டிருக்கலாம்.</span>
+<a href="bluetooth-problem-connecting.html.ta" title="I cannot connect my Bluetooth device">I cannot connect my Bluetooth device</a><span class="desc"> — அடாப்ட்டர் அணைக்கப்பட்டிருக்கலாம் அல்லது அதற்கான இயக்கிகள் இல்லாதிருக்கலாம் அல்லது Bluetooth முடக்கப்பட்டிருக்கலாம் அல்லது தடுக்கப்பட்டிருக்கலாம்.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="என் கணினியை இடைநிறுத்திய பிறகு ஏன் மீண்டும் இயங்க மாட்டேனென்கிறது?">என் கணினியை இடைநிறுத்திய பிறகு ஏன் மீண்டும் இயங்க மாட்டேனென்கிறது?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.ta" title="என் கணினியை இடைநிறுத்திய பிறகு ஏன் மீண்டும் இயங்க மாட்டேனென்கிறது?">என் கணினியை இடைநிறுத்திய பிறகு ஏன் மீண்டும் இயங்க மாட்டேனென்கிறது?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="என் கணினியை விழிக்கச் செய்யும் போது என் வயர்லெஸ் பிணையம் இல்லாமல் போகிறது">என் கணினியை விழிக்கச் செய்யும் போது என் வயர்லெஸ் பிணையம் இல்லாமல் போகிறது</a><span class="desc"> — உங்கள் கணினி இடைநிறுத்தப்படும் போது சில வயர்லெஸ் சாதனங்கள் சிக்கல்களை அடையலாம், இதனால் அவை மீண்டும் சரியாக இயங்கத் தொடங்காமல் போகலாம்.</span>
+<a href="power-nowireless.html.ta" title="என் கணினியை விழிக்கச் செய்யும் போது என் வயர்லெஸ் பிணையம் இல்லாமல் போகிறது">என் கணினியை விழிக்கச் செய்யும் போது என் வயர்லெஸ் பிணையம் இல்லாமல் போகிறது</a><span class="desc"> — உங்கள் கணினி இடைநிறுத்தப்படும் போது சில வயர்லெஸ் சாதனங்கள் சிக்கல்களை அடையலாம், இதனால் அவை மீண்டும் சரியாக இயங்கத் தொடங்காமல் போகலாம்.</span>
 </li>
 </ul></div>
 </div></div>

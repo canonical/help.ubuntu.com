@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html#desktop" title="Personalizar su escritorio">Personalizar su escritorio</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html.es" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html.es#desktop" title="Personalizar su escritorio">Personalizar su escritorio</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Notificaciones y la bandeja de mensajes</span></h1></div>
@@ -61,7 +61,7 @@
 <div id="messagetray" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">La bandeja de mensajes</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">La bandeja de mensajes le ofrece una manera de volver a sus notificaciones cuando crea conveniente. Aparece cuando mueve el ratón sobre el reloj o pulsa <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="¿Qué es la tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span>. La bandeja de mensajes contiene todas las notificaciones sobre las que no ha actuado o aquellas que residen en ella permanentemente.</p>
+<p class="p">La bandeja de mensajes le ofrece una manera de volver a sus notificaciones cuando crea conveniente. Aparece cuando mueve el ratón sobre el reloj o pulsa <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.es" title="¿Qué es la tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span>. La bandeja de mensajes contiene todas las notificaciones sobre las que no ha actuado o aquellas que residen en ella permanentemente.</p>
 <p class="p">Puede ver las notificaciones pulsando en los elementos de la bandeja de mensajes. Los elementos en la bandeja de mensajes son, por lo general, aplicaciones que le envían notificaciones. Sin embargo, a las notificaciones de chat se les da un trato especial y están representadas por cada contacto individual que le envió los mensajes de chat.</p>
 <p class="p">Puede cerrar la bandeja de mensajes pulsando <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> otra vez o <span class="key"><kbd>Esc</kbd></span>.</p>
 </div></div>
@@ -71,7 +71,7 @@
 <div class="region"><div class="contents">
 <p class="p">Si está trabajando en algo y no quiere que le molesten, puede desactivar las notificaciones.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Notificaciones</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Notificaciones</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Notificaciones</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p"><span class="gui">Desactive</span> la opción <span class="gui">Mostrar notificaciones</span>.</p></li>
 </ol></div></div></div>
@@ -83,7 +83,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="Personalizar su escritorio">Personalizar su escritorio</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.es#desktop" title="Personalizar su escritorio">Personalizar su escritorio</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

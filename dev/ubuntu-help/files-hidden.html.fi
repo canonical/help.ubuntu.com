@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html#faq" title="Vinkit ja kysymykset">Vinkit ja kysymykset</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.fi" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html.fi#faq" title="Vinkit ja kysymykset">Vinkit ja kysymykset</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tiedoston piilottaminen</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">The <span class="app">Files</span> file manager gives you the ability to hide and unhide
   files at your discretion. When a file is hidden, it is not displayed by the
   file manager, but it is still there in its folder.</p>
-<p class="p">To hide a file, <span class="link"><a href="files-rename.html" title="Nimeä tiedosto tai kansio uudelleen">rename it</a></span> with a
+<p class="p">To hide a file, <span class="link"><a href="files-rename.html.fi" title="Nimeä tiedosto tai kansio uudelleen">rename it</a></span> with a
   <span class="file">.</span> at the beginning of its name. For example, to hide a file
   named <span class="file">example.txt</span>, you should rename it to
   <span class="file">.example.txt</span>.</p>
@@ -90,11 +90,11 @@
   view options button in the toolbar and pick <span class="gui">Show Hidden Files</span>, or
   press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> to hide any other hidden
   files again.</p>
-<div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">Piilotiedostot näytetään vain valitussa ikkunassa kunnes suljet sen. Näyttääksesi piilotiedostot kaikissa tiedostonhallinnan ikkunoissa, lue <span class="link"><a href="nautilus-views.html" title="Views preferences in Files">Views preferences in <span class="app">Files</span></a></span>.</p></div></div></div></div>
+<div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">Piilotiedostot näytetään vain valitussa ikkunassa kunnes suljet sen. Näyttääksesi piilotiedostot kaikissa tiedostonhallinnan ikkunoissa, lue <span class="link"><a href="nautilus-views.html.fi" title="Views preferences in Files">Views preferences in <span class="app">Files</span></a></span>.</p></div></div></div></div>
 <div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">Most hidden files will have a <span class="file">.</span> at the
   beginning of their name, but others might have a <span class="file">~</span> at the end of
   their name instead. These files are backup files. See
-  <span class="link"><a href="files-tilde.html" title="Miksi tiedoston nimen perässä on merkki ~?">Miksi tiedoston nimen perässä on merkki <span class="file">~</span>?</a></span> for more information.</p></div></div></div></div>
+  <span class="link"><a href="files-tilde.html.fi" title="Miksi tiedoston nimen perässä on merkki ~?">Miksi tiedoston nimen perässä on merkki <span class="file">~</span>?</a></span> for more information.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -102,12 +102,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Vinkit ja kysymykset">Vinkit ja kysymykset</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.fi#faq" title="Vinkit ja kysymykset">Vinkit ja kysymykset</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-tilde.html" title="Miksi tiedoston nimen perässä on merkki ~?">Miksi tiedoston nimen perässä on merkki <span class="file">~</span>?</a><span class="desc"> — Ne ovat varmuuskopiotiedostoja. Oletuksena ne on piilotettu.</span>
+<a href="files-tilde.html.fi" title="Miksi tiedoston nimen perässä on merkki ~?">Miksi tiedoston nimen perässä on merkki <span class="file">~</span>?</a><span class="desc"> — Ne ovat varmuuskopiotiedostoja. Oletuksena ne on piilotettu.</span>
 </li></ul></div>
 </div></div>
 </div>

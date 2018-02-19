@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html" title="Rede con cable">Rede con cable</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.gl-GL" title="Rede con cable">Rede con cable</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Crear unha conexión cunha enderezo IP fixo</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A maioría das redes asignan automaticamente un <span class="link"><a href="net-what-is-ip-address.html" title="Cal é o meu enderezo IP?">enderezo IP</a></span> e outra información que o seu computador precisa para conectarse á rede. Esta información pode cambiar de forma periódica, porén vostede querer ter un enderezo IP fixo para un computador para que sempre saiba en que enderezo está (por exemplo, un servidor de ficheiros).</p>
+<p class="p">A maioría das redes asignan automaticamente un <span class="link"><a href="net-what-is-ip-address.html.gl-GL" title="Cal é o meu enderezo IP?">enderezo IP</a></span> e outra información que o seu computador precisa para conectarse á rede. Esta información pode cambiar de forma periódica, porén vostede querer ter un enderezo IP fixo para un computador para que sempre saiba en que enderezo está (por exemplo, un servidor de ficheiros).</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Buscar o seu enderezo IP externo de Internet:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps"><p class="p">In the left pane, select the network connection that you want to have
@@ -65,7 +65,7 @@
       button will be located next to the active network.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
       and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>
-<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html" title="Cal é o meu enderezo IP?">IP Address</a></span> and
+<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html.gl-GL" title="Cal é o meu enderezo IP?">IP Address</a></span> and
       <span class="gui">Gateway</span>, as well as the appropriate <span class="gui">Netmask</span>.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">DNS</span> section, switch <span class="gui">Automatic</span> to
       <span class="gui">OFF</span>. Enter the IP address of a DNS server you want to use.
@@ -85,13 +85,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html" title="Rede con cable">Rede con cable</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Conectar a unha rede cableada (Ethernet)">Conexións de Internet con fíos</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Crear unha conexión cunha enderezo IP fixo">Enderezos IP fixos</a></span>…</span>
+<a href="net-wired.html.gl-GL" title="Rede con cable">Rede con cable</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.gl-GL" title="Conectar a unha rede cableada (Ethernet)">Conexións de Internet con fíos</a></span>, <span class="link"><a href="net-fixed-ip-address.html.gl-GL" title="Crear unha conexión cunha enderezo IP fixo">Enderezos IP fixos</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-findip.html" title="Buscar o seu enderezo IP">Buscar o seu enderezo IP</a><span class="desc"> — Saber o seu enderezo IP podería axudalo a solucionar problemas de rede.</span>
+<a href="net-findip.html.gl-GL" title="Buscar o seu enderezo IP">Buscar o seu enderezo IP</a><span class="desc"> — Saber o seu enderezo IP podería axudalo a solucionar problemas de rede.</span>
 </li></ul></div>
 </div></div>
 </div>

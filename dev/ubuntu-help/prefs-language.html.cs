@@ -43,15 +43,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Region a jazyk</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice"><span class="title">Použití alternativního rozložení klávesnice</span><span class="linkdiv-dash"> — </span><span class="desc">Přidání rozložení klávesnice a přepnutí mezi nimi.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-formats.html" title="Změna formátů data a měrných jednotek"><span class="title">Změna formátů data a měrných jednotek</span><span class="linkdiv-dash"> — </span><span class="desc">Jak vybrat region určující formát data, času a čísel, měnu a jednotky.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-language.html" title="Změna jazyka, který používáte"><span class="title">Změna jazyka, který používáte</span><span class="linkdiv-dash"> — </span><span class="desc">Jak se přepnou na jiný jazyk pro uživatelské rozhraní a text nápovědy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice"><span class="title">Použití alternativního rozložení klávesnice</span><span class="linkdiv-dash"> — </span><span class="desc">Přidání rozložení klávesnice a přepnutí mezi nimi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-formats.html.cs" title="Změna formátů data a měrných jednotek"><span class="title">Změna formátů data a měrných jednotek</span><span class="linkdiv-dash"> — </span><span class="desc">Jak vybrat region určující formát data, času a čísel, měnu a jednotky.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-language.html.cs" title="Změna jazyka, který používáte"><span class="title">Změna jazyka, který používáte</span><span class="linkdiv-dash"> — </span><span class="desc">Jak se přepnou na jiný jazyk pro uživatelské rozhraní a text nápovědy.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -59,13 +59,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html" title="Uživatelské účty">uživatelské účty</a></span>…</span>
+<a href="prefs.html.cs" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html.cs" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html.cs" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html.cs" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html.cs" title="Uživatelské účty">uživatelské účty</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language-install.html" title="Instalace jazyků">Instalace jazyků</a><span class="desc"> — Instalace překladů a souvisejících balíků jazykové podpory.</span>
+<a href="prefs-language-install.html.cs" title="Instalace jazyků">Instalace jazyků</a><span class="desc"> — Instalace překladů a souvisejících balíků jazykové podpory.</span>
 </li></ul></div>
 </div></div>
 </div>

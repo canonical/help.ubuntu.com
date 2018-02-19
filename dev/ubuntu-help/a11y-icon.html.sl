@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="a11y.html" title="Splošni dostop">Splošni dostop</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="a11y.html.sl" title="Splošni dostop">Splošni dostop</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Najdite meni splošnega dostopa</span></h1></div>
@@ -61,7 +61,7 @@
 <p class="p">If you do not see the universal access menu, you can enable it from the
   <span class="gui">Universal Access</span> settings panel:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Always Show Universal Access Menu</span> to
@@ -81,7 +81,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y.html" title="Splošni dostop">Splošni dostop</a><span class="desc"> — <span class="link"><a href="a11y.html#vision" title="Težave z vidom">Videnje</a></span>, <span class="link"><a href="a11y.html#sound" title="Težave s sluhom">poslušanje</a></span>, <span class="link"><a href="a11y.html#mobility" title="Težave z gibanjem">gibčnost</a></span>, <span class="link"><a href="a11y-braille.html" title="Preberite zaslon v Braillovi pisavi">braillova pisava</a></span>, <span class="link"><a href="a11y-mag.html" title="Magnify a screen area">povečevalo zaslona</a></span> ...</span>
+<a href="a11y.html.sl" title="Splošni dostop">Splošni dostop</a><span class="desc"> — <span class="link"><a href="a11y.html.sl#vision" title="Težave z vidom">Videnje</a></span>, <span class="link"><a href="a11y.html.sl#sound" title="Težave s sluhom">poslušanje</a></span>, <span class="link"><a href="a11y.html.sl#mobility" title="Težave z gibanjem">gibčnost</a></span>, <span class="link"><a href="a11y-braille.html.sl" title="Preberite zaslon v Braillovi pisavi">braillova pisava</a></span>, <span class="link"><a href="a11y-mag.html.sl" title="Magnify a screen area">povečevalo zaslona</a></span> ...</span>
 </li></ul></div>
 </div></div></div>
 </div>

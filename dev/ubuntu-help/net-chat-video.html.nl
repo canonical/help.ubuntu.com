@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-chat.html" title="Chatten &amp; sociaal netwerken">Chatten &amp; sociaal netwerken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-chat.html.nl" title="Chatten &amp; sociaal netwerken">Chatten &amp; sociaal netwerken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Videogesprekken</span></h1></div>
@@ -65,10 +65,10 @@ Raadpleeg <span class="link"><a href="https://help.gnome.org/users/empathy/stabl
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html" title="Chatten &amp; sociaal netwerken">Chatten &amp; sociaal netwerken</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Chatten in Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Videogesprekken">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Hoe kan ik Skype gebruiken in Ubuntu?">install skype</a></span>
+<a href="net-chat.html.nl" title="Chatten &amp; sociaal netwerken">Chatten &amp; sociaal netwerken</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.nl" title="Chatten in Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.nl" title="Videogesprekken">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.nl" title="Hoe kan ik Skype gebruiken in Ubuntu?">install skype</a></span>
     </span>
 </li></ul></div>
 </div></div>
@@ -76,10 +76,10 @@ Raadpleeg <span class="link"><a href="https://help.gnome.org/users/empathy/stabl
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat-empathy.html" title="Chatten in Ubuntu">Chatten in Ubuntu</a><span class="desc"> — Met <span class="app">Empathy</span> kunt u chatten, gesprekken en videogesprekken voeren met vrienden en collega's op een groot aantal netwerken</span>
+<a href="net-chat-empathy.html.nl" title="Chatten in Ubuntu">Chatten in Ubuntu</a><span class="desc"> — Met <span class="app">Empathy</span> kunt u chatten, gesprekken en videogesprekken voeren met vrienden en collega's op een groot aantal netwerken</span>
 </li>
 <li class="links ">
-<a href="net-chat-skype.html" title="Hoe kan ik Skype gebruiken in Ubuntu?">Hoe kan ik Skype gebruiken in Ubuntu?</a><span class="desc"> — <span class="app">Skype</span> is niet-vrije software en dient handmatig geïnstalleerd te worden in Ubuntu.</span>
+<a href="net-chat-skype.html.nl" title="Hoe kan ik Skype gebruiken in Ubuntu?">Hoe kan ik Skype gebruiken in Ubuntu?</a><span class="desc"> — <span class="app">Skype</span> is niet-vrije software en dient handmatig geïnstalleerd te worden in Ubuntu.</span>
 </li>
 </ul></div>
 </div></div>

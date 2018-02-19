@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="accounts.html" title="Contas on-line">Contas on-line</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="accounts.html.pt-BR" title="Contas on-line">Contas on-line</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Controlando quais serviços on-line uma conta pode ser usada para acessar</span></h1></div>
@@ -52,10 +52,10 @@
 <p class="p">Alguns tipos de conta on-line permitem que você acesse diversos serviços com a mesma conta de usuário. Por exemplo, contas Google fornecem acesso a agenda, e-mail, contatos e bate-papo. Talvez você queira usar sua conta para alguns serviços, mas não para outros. Por exemplo, talvez você queira usar sua conta Google para e-mail, mas não para bate-papo, por ter uma conta online diferente para usar para bate-papo.</p>
 <p class="p">Você pode desabilitar alguns dos serviços que são fornecidos por cada conta on-line:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Contas on-line</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Contas on-line</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Contas on-line</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione a conta que você deseja alterar na lista à esquerda.</p></li>
-<li class="steps"><p class="p">Uma lista de serviços que estão disponíveis para esta conta será mostrada sob <span class="gui">Usar para</span>. Veja <span class="link"><a href="accounts-which-application.html" title="Aplicativos e serviços on-line">Aplicativos e serviços on-line</a></span> para ver que aplicativos acessam quais serviços.</p></li>
+<li class="steps"><p class="p">Uma lista de serviços que estão disponíveis para esta conta será mostrada sob <span class="gui">Usar para</span>. Veja <span class="link"><a href="accounts-which-application.html.pt-BR" title="Aplicativos e serviços on-line">Aplicativos e serviços on-line</a></span> para ver que aplicativos acessam quais serviços.</p></li>
 <li class="steps"><p class="p">Alterne para off quaisquer serviços que você não deseja usar.</p></li>
 </ol></div></div></div>
 <p class="p">Uma vez que um serviço tenha sido desabilitado para uma conta, aplicativos no seu computador não mais poderão usar a conta para conectar àquele serviço.</p>
@@ -67,17 +67,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Contas on-line">Contas on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Adicionando uma conta">Adicione uma conta on-line</a></span>, <span class="link"><a href="accounts-remove.html" title="Removendo uma conta">Exclua uma conta</a></span>, <span class="link"><a href="accounts-which-application.html" title="Aplicativos e serviços on-line">Aprenda sobre os serviços</a></span>…</span>
+<a href="accounts.html.pt-BR" title="Contas on-line">Contas on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html.pt-BR" title="Adicionando uma conta">Adicione uma conta on-line</a></span>, <span class="link"><a href="accounts-remove.html.pt-BR" title="Removendo uma conta">Exclua uma conta</a></span>, <span class="link"><a href="accounts-which-application.html.pt-BR" title="Aplicativos e serviços on-line">Aprenda sobre os serviços</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="accounts-which-application.html" title="Aplicativos e serviços on-line">Aplicativos e serviços on-line</a><span class="desc"> — Aplicativos podem usar as contas criadas no <span class="app">Contas on-line</span> e os serviços que eles exploram.</span>
+<a href="accounts-which-application.html.pt-BR" title="Aplicativos e serviços on-line">Aplicativos e serviços on-line</a><span class="desc"> — Aplicativos podem usar as contas criadas no <span class="app">Contas on-line</span> e os serviços que eles exploram.</span>
 </li>
 <li class="links ">
-<a href="accounts-remove.html" title="Removendo uma conta">Removendo uma conta</a><span class="desc"> — Remova acesso a um provedor de serviço on-line de seu aplicativo.</span>
+<a href="accounts-remove.html.pt-BR" title="Removendo uma conta">Removendo uma conta</a><span class="desc"> — Remova acesso a um provedor de serviço on-line de seu aplicativo.</span>
 </li>
 </ul></div>
 </div></div>

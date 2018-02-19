@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="power.html" title="Energia &amp; bateria">Energia &amp; bateria</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="power.html.pt-BR" title="Energia &amp; bateria">Energia &amp; bateria</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="power.html" title="Energia &amp; bateria">Energia &amp; bateria</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="power.html.pt-BR" title="Energia &amp; bateria">Energia &amp; bateria</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Quando o computador <span class="em">hiberna</span>, todos os seus aplicativos e documentos são armazenados e o computador se desliga completamente para que não utilize energia. Entretanto, os aplicativos e documentos ainda estarão abertos quando você ligar o computador novamente.</p>
-<p class="p">Infelizmente, a hibernação <span class="link"><a href="power-suspendfail.html" title="Por que o meu computador não liga novamente após eu o ter suspendido?">não funciona</a></span> em muitos casos, o que pode lhe causar perda de dados se você espera que seus aplicativos reabram quando o computador for ligado novamente. Portanto, a hibernação está desativada por padrão.</p>
+<p class="p">Infelizmente, a hibernação <span class="link"><a href="power-suspendfail.html.pt-BR" title="Por que o meu computador não liga novamente após eu o ter suspendido?">não funciona</a></span> em muitos casos, o que pode lhe causar perda de dados se você espera que seus aplicativos reabram quando o computador for ligado novamente. Portanto, a hibernação está desativada por padrão.</p>
 </div>
 <div id="test-hibernate" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Teste se a hibernação funciona</span></h2></div>
@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">Você pode usar a linha de comando para testar se a hibernação funciona em seu computador.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o <span class="app">terminal</span> pressionando <span class="keyseq"><span class="key"><kbd>ctrl</kbd></span>+<span class="key"><kbd>alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> ou pesquise pelo <span class="input">terminal</span> no <span class="gui">painel</span>.</p></li>
+<li class="steps"><p class="p">Abra o <span class="app">Terminal</span> pesquisando por <span class="input">terminal</span> em <span class="gui">Resumo de atividades</span>.</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Informe sua senha quando solicitada.</p>
@@ -108,13 +108,13 @@ ResultActive=yes</pre></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Energia &amp; bateria">Energia &amp; bateria</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Verificando o status da bateria">Status da bateria</a></span>, <span class="link"><a href="power-suspend.html" title="O que acontece quando eu suspendo o meu computador?">suspensão</a></span>, <span class="link"><a href="power-whydim.html" title="Por que a minha tela começa a escurecer após um tempo?">escurecer a tela</a></span>…</span>
+<a href="power.html.pt-BR" title="Energia &amp; bateria">Energia &amp; bateria</a><span class="desc"> — <span class="link"><a href="power-status.html.pt-BR" title="Verificando o status da bateria">Status da bateria</a></span>, <span class="link"><a href="power-suspend.html.pt-BR" title="O que acontece quando eu suspendo o meu computador?">suspensão</a></span>, <span class="link"><a href="power-whydim.html.pt-BR" title="Por que a minha tela começa a escurecer após um tempo?">escurecer a tela</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-suspendfail.html" title="Por que o meu computador não liga novamente após eu o ter suspendido?">Por que o meu computador não liga novamente após eu o ter suspendido?</a><span class="desc"> — Alguns hardwares de computador causam problemas com suspensão.</span>
+<a href="power-suspendfail.html.pt-BR" title="Por que o meu computador não liga novamente após eu o ter suspendido?">Por que o meu computador não liga novamente após eu o ter suspendido?</a><span class="desc"> — Alguns hardwares de computador causam problemas com suspensão.</span>
 </li></ul></div>
 </div></div>
 </div>

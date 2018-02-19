@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sök efter filer</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Sök</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna programmet <span class="app">Filer</span> från översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>.</p></li>
+<li class="steps"><p class="p">Öppna programmet <span class="app">Filer</span> från översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>.</p></li>
 <li class="steps"><p class="p">Om du vet att filerna du letar efter finns i en viss mapp, gå till den mappen.</p></li>
 <li class="steps">
 <p class="p">Skriv ett eller flera ord som du vet förekommer i filnamnet så kommer de att visas i sökraden. Om du till exempel ger namn på alla dina fakturor med ordet ”Faktura”, skriv <span class="input">faktura</span>. Ord matchar oberoende av skiftläge.</p>
@@ -75,7 +75,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sv#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

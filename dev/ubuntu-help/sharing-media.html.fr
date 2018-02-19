@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="Partage">Partage</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.fr" title="Partage">Partage</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="prefs-sharing.html" title="Paramétrage du partage">Paramétrage du partage</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="prefs-sharing.html.fr" title="Paramétrage du partage">Paramétrage du partage</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,12 +56,12 @@
 <p class="p">Vous pouvez explorer et lire les médias sur votre ordinateur en utilisant un périphérique certifié <span class="sys">UpnP</span> ou <span class="sys">DLNA</span>, comme un téléphone, une TV ou une console de jeu. Configurez <span class="gui">Partager les médias</span> afin d'autoriser ces périphériques à accéder aux dossiers contenant votre musique, vos photos ou vos vidéos</p>
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Le paquet <span class="app">Rygel</span> doit être installé pour que <span class="gui">Partager les médias</span> soit visible.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Sharing</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Partage</span> pour ouvrir le panneau.</p></li>
 <li class="steps">
 <p class="p">Si l'interrupteur <span class="gui">Partage</span> est sur <span class="gui">Désactivé</span>, basculez-le sur <span class="gui">Activé</span>.</p>
-<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Si le texte sous <span class="gui">Nom de l'ordinateur</span> le permet, vous pouvez <span class="link"><a href="sharing-displayname.html" title="Choix d'un nom public pour votre ordinateur">changer</a></span> le nom que votre ordinateur affiche sur le réseau.</p></div></div></div></div>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Si le texte sous <span class="gui">Nom de l'ordinateur</span> le permet, vous pouvez <span class="link"><a href="sharing-displayname.html.fr" title="Choix d'un nom public pour votre ordinateur">changer</a></span> le nom que votre ordinateur affiche sur le réseau.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Choisissez <span class="gui">Partager les médias</span>.</p></li>
 <li class="steps"><p class="p">Basculer l'interrupteur <span class="gui">Partager les médias</span> sur <span class="gui">Activé</span>.</p></li>
@@ -83,10 +83,10 @@
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-sharing.html" title="Paramétrage du partage">Paramétrage du partage</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Contrôle du partage par Bluetooth">Partage par Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html" title="Partage de vos fichiers personnels">Partage de fichiers personnels</a></span>, <span class="link"><a href="sharing-desktop.html" title="Partage de votre bureau">Partage de l'écran</a></span>, <span class="link"><a href="sharing-media.html" title="Partage de votre musique, de vos photos et vidéos">Media sharing</a></span>…</span>
+<a href="prefs-sharing.html.fr" title="Paramétrage du partage">Paramétrage du partage</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.fr" title="Contrôle du partage par Bluetooth">Partage par Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.fr" title="Partage de vos fichiers personnels">Partage de fichiers personnels</a></span>, <span class="link"><a href="sharing-desktop.html.fr" title="Partage de votre bureau">Partage de l'écran</a></span>, <span class="link"><a href="sharing-media.html.fr" title="Partage de votre musique, de vos photos et vidéos">Media sharing</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Partage">Partage</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Partage de votre bureau">Partage de bureau</a></span>, <span class="link"><a href="files-share.html" title="Partage de fichiers par courriel">Partager des fichiers par courriel</a></span>, <span class="link"><a href="sharing-media.html" title="Partage de votre musique, de vos photos et vidéos">Partager les médias</a></span>…</span>
+<a href="sharing.html.fr" title="Partage">Partage</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.fr" title="Partage de votre bureau">Partage de bureau</a></span>, <span class="link"><a href="files-share.html.fr" title="Partage de fichiers par courriel">Partager des fichiers par courriel</a></span>, <span class="link"><a href="sharing-media.html.fr" title="Partage de votre musique, de vos photos et vidéos">Partager les médias</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

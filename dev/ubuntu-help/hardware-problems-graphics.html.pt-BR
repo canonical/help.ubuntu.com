@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.pt-BR#problems" title="Problemas comuns">Problemas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problemas com tela</span></h1></div>
@@ -51,20 +51,20 @@
 <div class="contents">
 <p class="p">A maioria dos problemas com o monitor podem ser causados por problemas com drivers ou configurações de vídeo. Qual dos tópicos abaixo descrevem melhor o problema que você está experimentando?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="A tela bloqueia sozinha rápido demais"><span class="title">A tela bloqueia sozinha rápido demais</span><span class="linkdiv-dash"> — </span><span class="desc">Altere quanto tempo esperar antes de travar a tela nas configurações de <span class="gui">Privacidade</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html" title="Definindo brilho da tela"><span class="title">Definindo brilho da tela</span><span class="linkdiv-dash"> — </span><span class="desc">Altere o brilho da tela para tornar mais legível em ambientes muito claros.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Definindo o tempo de apagamento da tela"><span class="title">Definindo o tempo de apagamento da tela</span><span class="linkdiv-dash"> — </span><span class="desc">Altere o tempo até apagar a tela para economizar energia.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Por que a minha tela começa a escurecer após um tempo?"><span class="title">Por que a minha tela começa a escurecer após um tempo?</span><span class="linkdiv-dash"> — </span><span class="desc">A tela vai escurecer quando o computador estiver ocioso, visando economizar energia.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html" title="Por que as coisas parecem borradas/quadriculadas na minha tela?"><span class="title">Por que as coisas parecem borradas/quadriculadas na minha tela?</span><span class="linkdiv-dash"> — </span><span class="desc">A resolução da tela pode estar configurada incorretamente.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="Por que o meu computador não liga novamente após eu o ter suspendido?"><span class="title">Por que o meu computador não liga novamente após eu o ter suspendido?</span><span class="linkdiv-dash"> — </span><span class="desc">Alguns hardwares de computador causam problemas com suspensão.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="Meu computador não está ligando"><span class="title">Meu computador não está ligando</span><span class="linkdiv-dash"> — </span><span class="desc">Cabos mal conectados e problemas de hardware são possíveis motivos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.pt-BR" title="A tela bloqueia sozinha rápido demais"><span class="title">A tela bloqueia sozinha rápido demais</span><span class="linkdiv-dash"> — </span><span class="desc">Altere quanto tempo esperar antes de travar a tela nas configurações de <span class="gui">Privacidade</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.pt-BR" title="Definindo brilho da tela"><span class="title">Definindo brilho da tela</span><span class="linkdiv-dash"> — </span><span class="desc">Altere o brilho da tela para tornar mais legível em ambientes muito claros.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.pt-BR" title="Definindo o tempo de apagamento da tela"><span class="title">Definindo o tempo de apagamento da tela</span><span class="linkdiv-dash"> — </span><span class="desc">Altere o tempo até apagar a tela para economizar energia.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.pt-BR" title="Por que a minha tela começa a escurecer após um tempo?"><span class="title">Por que a minha tela começa a escurecer após um tempo?</span><span class="linkdiv-dash"> — </span><span class="desc">A tela vai escurecer quando o computador estiver ocioso, visando economizar energia.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.pt-BR" title="Por que as coisas parecem borradas/quadriculadas na minha tela?"><span class="title">Por que as coisas parecem borradas/quadriculadas na minha tela?</span><span class="linkdiv-dash"> — </span><span class="desc">A resolução da tela pode estar configurada incorretamente.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.pt-BR" title="Por que o meu computador não liga novamente após eu o ter suspendido?"><span class="title">Por que o meu computador não liga novamente após eu o ter suspendido?</span><span class="linkdiv-dash"> — </span><span class="desc">Alguns hardwares de computador causam problemas com suspensão.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.pt-BR" title="Meu computador não está ligando"><span class="title">Meu computador não está ligando</span><span class="linkdiv-dash"> — </span><span class="desc">Cabos mal conectados e problemas de hardware são possíveis motivos.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Problemas comuns">Problemas com hardware</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.pt-BR#problems" title="Problemas comuns">Problemas com hardware</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

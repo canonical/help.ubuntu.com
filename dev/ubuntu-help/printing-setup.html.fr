@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="printing.html" title="Impression">Impression</a> › <a class="trail" href="printing.html#setup" title="Configuration d'une imprimante">Configuration</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="printing.html.fr" title="Impression">Impression</a> › <a class="trail" href="printing.html.fr#setup" title="Configuration d'une imprimante">Configuration</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Configuration d'une imprimante locale</span></h1></div>
@@ -59,7 +59,7 @@
 <p class="p">If your printer was not set up automatically, you can add it in the
   printer settings:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Imprimantes</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">Déverrouiller</span> en haut à droite et saisissez votre mot de passe.</p></li>
@@ -68,19 +68,19 @@
 </ol></div></div></div>
 <p class="p">If your printer does not appear in the Add a New Printer window, you may
   need to install print drivers.</p>
-<p class="p">Après avoir installé l'imprimante, vous pouvez <span class="link"><a href="printing-setup-default-printer.html" title="Définition de l'imprimante par défaut">changer d'imprimante par défaut</a></span>.</p>
+<p class="p">Après avoir installé l'imprimante, vous pouvez <span class="link"><a href="printing-setup-default-printer.html.fr" title="Définition de l'imprimante par défaut">changer d'imprimante par défaut</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Configuration d'une imprimante">Configuration d'une imprimante</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.fr#setup" title="Configuration d'une imprimante">Configuration d'une imprimante</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-setup-default-printer.html" title="Définition de l'imprimante par défaut">Définition de l'imprimante par défaut</a><span class="desc"> — Définir l'imprimante que vous utilisez le plus souvent.</span>
+<a href="printing-setup-default-printer.html.fr" title="Définition de l'imprimante par défaut">Définition de l'imprimante par défaut</a><span class="desc"> — Définir l'imprimante que vous utilisez le plus souvent.</span>
 </li></ul></div>
 </div></div>
 </div>

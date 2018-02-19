@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-email.html" title="E-post &amp; e-postprogramvara">E-post &amp; e-postprogramvara</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-email.html.sv" title="E-post &amp; e-postprogramvara">E-post &amp; e-postprogramvara</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-security.html" title="Håll dig säker på internet">Håll dig säker på internet</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-security.html.sv" title="Håll dig säker på internet">Håll dig säker på internet</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Virus är program som orsakar problem om de lyckas leta sig in på din dator. Ett vanligt sätt för dem att komma in på din dator är genom e-postmeddelanden.</p>
-<p class="p">Virus som kan påverka datorer som kör Linux är väldigt ovanliga, så det är <span class="link"><a href="net-antivirus.html" title="Behöver jag ett antivirusprogram?">osannolikt att du får ett virus via e-post eller på annat sätt</a></span>. Om du får e-post med ett virus gömt i det kommer det troligtvis inte har någon effekt på din dator. Av den anledningen behöver du inte söka av din e-post efter virus.</p>
+<p class="p">Virus som kan påverka datorer som kör Linux är väldigt ovanliga, så det är <span class="link"><a href="net-antivirus.html.sv" title="Behöver jag ett antivirusprogram?">osannolikt att du får ett virus via e-post eller på annat sätt</a></span>. Om du får e-post med ett virus gömt i det kommer det troligtvis inte har någon effekt på din dator. Av den anledningen behöver du inte söka av din e-post efter virus.</p>
 <p class="p">Du kan dock önska att leta genom din e-post efter virus om du skulle skicka vidare ett virus från en person till en annan. Om till exempel en av dina vänner har en Windows-dator med ett virus och skickar dig virusinfekterad e-post som du sedan skickar vidare till en annan vän med en Windows-dator, då kan den andra vännen få viruset också. Du kan installera antivirusprogramvara för att leta genom din e-post för att förhindra detta, men det är osannolikt att det händer och de flesta personer som kör Windows och Mac OS har själva antivirusprogramvara ändå.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,17 +64,17 @@
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-email.html" title="E-post &amp; e-postprogramvara">E-post &amp; e-postprogramvara</a><span class="desc"> — <span class="link"><a href="net-default-email.html" title="Ändra vilket e-postprogram som används för att skriva e-post">Standard e-postprogram</a></span>, <span class="link"><a href="net-email-virus.html" title="Behöver jag söka igenom min e-post efter virus?">Bör jag söka efter virus?</a></span>…</span>
+<a href="net-email.html.sv" title="E-post &amp; e-postprogramvara">E-post &amp; e-postprogramvara</a><span class="desc"> — <span class="link"><a href="net-default-email.html.sv" title="Ändra vilket e-postprogram som används för att skriva e-post">Standard e-postprogram</a></span>, <span class="link"><a href="net-email-virus.html.sv" title="Behöver jag söka igenom min e-post efter virus?">Bör jag söka efter virus?</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-security.html" title="Håll dig säker på internet">Håll dig säker på internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Behöver jag ett antivirusprogram?">Antivirusprogramvara</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Aktivera eller blockera brandväggsåtkomst">grundläggande brandväggar</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Vanligt förekommande nätverksportar">brandväggsportar</a></span>…</span>
+<a href="net-security.html.sv" title="Håll dig säker på internet">Håll dig säker på internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.sv" title="Behöver jag ett antivirusprogram?">Antivirusprogramvara</a></span>, <span class="link"><a href="net-firewall-on-off.html.sv" title="Aktivera eller blockera brandväggsåtkomst">grundläggande brandväggar</a></span>, <span class="link"><a href="net-firewall-ports.html.sv" title="Vanligt förekommande nätverksportar">brandväggsportar</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="Behöver jag ett antivirusprogram?">Behöver jag ett antivirusprogram?</a><span class="desc"> — Det finns ytterst få virus för Linux, så du behöver troligen inte något anti-virusprogram.</span>
+<a href="net-antivirus.html.sv" title="Behöver jag ett antivirusprogram?">Behöver jag ett antivirusprogram?</a><span class="desc"> — Det finns ytterst få virus för Linux, så du behöver troligen inte något anti-virusprogram.</span>
 </li></ul></div>
 </div></div>
 </div>

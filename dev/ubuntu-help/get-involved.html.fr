@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="more-help.html" title="Aide supplémentaire">Aide supplémentaire</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="more-help.html.fr" title="Aide supplémentaire">Aide supplémentaire</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Participer à l'amélioration de ce guide</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Ce système est créé par une communauté bénévole. Vous êtes invité(e) à participer. Si vous notez un problème avec ces pages d'aide (comme des typos, des instructions incorrectes, ou des thèmes qui ont été oubliés), vous pouvez créer un <span class="em">rapport de bogue</span>.</p>
 <p class="p">Pour rapporter une anomalie, appuyez sur <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> et tapez <span class="input">ubuntu-bug ubuntu-docs</span>. Appuyez sur <span class="gui">Entrée</span> pour démarrer la procédure de signalement du bogue.</p>
-<p class="p">Voir les <span class="link"><a href="report-ubuntu-bug.html" title="Signaler un problème dans Ubuntu">instructions de rapport de bogues Ubuntu</a></span> pour plus d'informations sur la façon de signaler vos bogues.</p>
+<p class="p">Voir les <span class="link"><a href="report-ubuntu-bug.html.fr" title="Signaler un problème dans Ubuntu">instructions de rapport de bogues Ubuntu</a></span> pour plus d'informations sur la façon de signaler vos bogues.</p>
 <p class="p">Merci d'aider à améliorer l'Aide d'Ubuntu !</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -60,13 +60,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html" title="Aide supplémentaire">Aide supplémentaire</a><span class="desc"> — <span class="link"><a href="about-this-guide.html" title="À propos de ce guide">Conseils pour utiliser ce guide</a></span> et <span class="link"><a href="get-involved.html" title="Participer à l'amélioration de ce guide">aider à l'améliorer</a></span>…</span>
+<a href="more-help.html.fr" title="Aide supplémentaire">Aide supplémentaire</a><span class="desc"> — <span class="link"><a href="about-this-guide.html.fr" title="À propos de ce guide">Conseils pour utiliser ce guide</a></span> et <span class="link"><a href="get-involved.html.fr" title="Participer à l'amélioration de ce guide">aider à l'améliorer</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="report-ubuntu-bug.html" title="Signaler un problème dans Ubuntu">Signaler un problème dans Ubuntu</a><span class="desc"> — Comment et où rapporter des problèmes avec Ubuntu.</span>
+<a href="report-ubuntu-bug.html.fr" title="Signaler un problème dans Ubuntu">Signaler un problème dans Ubuntu</a><span class="desc"> — Comment et où rapporter des problèmes avec Ubuntu.</span>
 </li></ul></div>
 </div></div>
 </div>

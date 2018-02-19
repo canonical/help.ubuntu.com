@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html#apps" title="Програми и прозори">Програми и прозори</a> » <a class="trail" href="shell-windows.html" title="Прозори и радни простори">Прозори и радни простори</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Рад са прозорима">Прозори</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.sr" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html.sr#apps" title="Програми и прозори">Програми и прозори</a> » <a class="trail" href="shell-windows.html.sr" title="Прозори и радни простори">Прозори и радни простори</a> › <a class="trail" href="shell-windows.html.sr#working-with-windows" title="Рад са прозорима">Прозори</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Премештајте и мењајте величину прозора</span></h1></div>
@@ -51,17 +51,17 @@
 <div class="contents">
 <p class="p">Можете да премештате и мењате величину прозора да бисте лакше радили са њима. Као додатак понашању превлачења можете да очекујете, да вам пречице Гномових функција и измењивачи помогну да олако поређате прозоре.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Преместите прозор превлачећи траку наслова, или држите притиснутим <span class="key"><a href="keyboard-key-super.html" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span> и превуците било где у прозору. Држите притиснутим <span class="key"><kbd>Шифт</kbd></span> док премештате да прислоните прозор на ивице екрана и друге прозоре.</p></li>
+<li class="list"><p class="p">Преместите прозор превлачећи траку наслова, или држите притиснутим <span class="key"><a href="keyboard-key-super.html.sr" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span> и превуците било где у прозору. Држите притиснутим <span class="key"><kbd>Шифт</kbd></span> док премештате да прислоните прозор на ивице екрана и друге прозоре.</p></li>
 <li class="list"><p class="p">Промените величину прозора превлачећи ивице или угао прозора. Држите притиснутим <span class="key"><kbd>Шифт</kbd></span> док мењате величину да прислоните прозор на ивице екрана и друге прозоре.</p></li>
 <li class="list"><p class="p">Премештајте или мењајте величину прозора користећи само тастатуру. Притисните <span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Ф7</kbd></span></span> да преместите прозор или <span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Ф8</kbd></span></span> да промените величину. Користите тастере стрелица да преместите или промените величину, затим притисните <span class="key"><kbd>Унеси</kbd></span> да завршите, или притисните <span class="key"><kbd>Изађи</kbd></span> да повратите првобитни положај и величину.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Повећајте и поништите повећање прозора">Повећајте прозор</a></span> превлачећи га до врха екрана. Превуците прозор на једну страну екрана да га повећате дуж стране, што ће вам омогућити да <span class="link"><a href="shell-windows-tiled.html" title="Поплочајте прозоре">поставите прозоре један поред другог</a></span>.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html.sr" title="Повећајте и поништите повећање прозора">Повећајте прозор</a></span> превлачећи га до врха екрана. Превуците прозор на једну страну екрана да га повећате дуж стране, што ће вам омогућити да <span class="link"><a href="shell-windows-tiled.html.sr" title="Поплочајте прозоре">поставите прозоре један поред другог</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Рад са прозорима">Рад са прозорима</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.sr#working-with-windows" title="Рад са прозорима">Рад са прозорима</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="printing.html" title="Utskrifter">Utskrifter</a> › <a class="trail" href="printing.html#paper" title="Olika pappersstorlekar och layouter">Storlekar och layouter</a> » <a class="trail" href="printing-booklet.html" title="Skriv ut ett häfte">Skriv ut ett häfte</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="printing.html.sv" title="Utskrifter">Utskrifter</a> › <a class="trail" href="printing.html.sv#paper" title="Olika pappersstorlekar och layouter">Storlekar och layouter</a> » <a class="trail" href="printing-booklet.html.sv" title="Skriv ut ett häfte">Skriv ut ett häfte</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Skriv ut ett häfte på en dubbelsidig skrivare</span></h1></div>
@@ -85,7 +85,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-booklet.html" title="Skriv ut ett häfte">Skriv ut ett häfte</a><span class="desc"> — Hur du skriver ut ett vikt, flersidigt häfte med A4 eller papper i Letter-storlek.</span>
+<a href="printing-booklet.html.sv" title="Skriv ut ett häfte">Skriv ut ett häfte</a><span class="desc"> — Hur du skriver ut ett vikt, flersidigt häfte med A4 eller papper i Letter-storlek.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Strojna oprema in gonilniki</span></h1></div>
@@ -51,46 +51,46 @@
 <div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html" title="Povezava računalnika z napravo Bluetooth.">Povezava</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">pošiljanje datotek</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Vklop ali izklop Bluetooth">vklop in izklop</a></span> …</span></div>
+<div class="links-grid-link"><a href="bluetooth.html.sl" title="Bluetooth">Bluetooth</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html.sl" title="Povezava računalnika z napravo Bluetooth.">Povezava</a></span>, <span class="link"><a href="bluetooth-send-file.html.sl" title="Send files to a Bluetooth device">pošiljanje datotek</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.sl" title="Vklop ali izklop Bluetooth">vklop in izklop</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="disk.html" title="Diski in shramba">Diski in shramba</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html" title="Preverjanje koliko prostora na disku je ostalo">Prostor na disku</a></span>, <span class="link"><a href="disk-benchmark.html" title="Izberite hitrost delovanja svojega trdega diska">primerjava zmogljivosti</a></span>, <span class="link"><a href="disk-check.html" title="Preverjanje trdega diska za težave.">težave</a></span>, <span class="link"><a href="disk-partitions.html" title="Upravljanje nosilcev in razdelkov">nosilci in razdelki </a></span>…</span></div>
+<div class="links-grid-link"><a href="disk.html.sl" title="Diski in shramba">Diski in shramba</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html.sl" title="Preverjanje koliko prostora na disku je ostalo">Prostor na disku</a></span>, <span class="link"><a href="disk-benchmark.html.sl" title="Izberite hitrost delovanja svojega trdega diska">primerjava zmogljivosti</a></span>, <span class="link"><a href="disk-check.html.sl" title="Preverjanje trdega diska za težave.">težave</a></span>, <span class="link"><a href="disk-partitions.html.sl" title="Upravljanje nosilcev in razdelkov">nosilci in razdelki </a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html" title="Miška">Miška</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html" title="Uporaba miške z levico">Uporaba miške z levico</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Prilagoditev hitrosti miške in drsne ploščice">hitrost in občutljivost</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Kliknice, povlecite ali drsajte z drsno ploščico">klikanje in drsanje po drsni ploščici</a></span> …</span></div>
+<div class="links-grid-link"><a href="mouse.html.sl" title="Miška">Miška</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.sl" title="Uporaba miške z levico">Uporaba miške z levico</a></span>, <span class="link"><a href="mouse-sensitivity.html.sl" title="Prilagoditev hitrosti miške in drsne ploščice">hitrost in občutljivost</a></span>, <span class="link"><a href="mouse-touchpad-click.html.sl" title="Kliknice, povlecite ali drsajte z drsno ploščico">klikanje in drsanje po drsni ploščici</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="power.html" title="Napajanje in baterija">Napajanje in baterija</a></div>
+<div class="links-grid-link"><a href="power.html.sl" title="Napajanje in baterija">Napajanje in baterija</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Zakaj se moj zaslon po določenem času zatemni?">screen dimming</a></span>…
+      <span class="link"><a href="power-status.html.sl" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.sl" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.sl" title="Zakaj se moj zaslon po določenem času zatemni?">screen dimming</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware-auth.html" title="Pametne kartice in bralniki prstnih odtisov">Pametne kartice in bralniki prstnih odtisov</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-fingerprint.html" title="Prijava s prstnim odtisom">Bralniki prstnih odtisov</a></span>, pametne kartice ...</span></div>
+<div class="links-grid-link"><a href="hardware-auth.html.sl" title="Pametne kartice in bralniki prstnih odtisov">Pametne kartice in bralniki prstnih odtisov</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-fingerprint.html.sl" title="Prijava s prstnim odtisom">Bralniki prstnih odtisov</a></span>, pametne kartice ...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="keyboard.html" title="Tipkovnica">Tipkovnica</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span></div>
+<div class="links-grid-link"><a href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sl" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html.sl#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="printing.html" title="Tiskanje">Tiskanje</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html" title="Nastavitev krajevnega tiskalnika">Krajevna nastavitev</a></span>, <span class="link"><a href="printing-order.html" title="Tiskanje strani v drugem vrstnem redu">vrstni red in izbiranje</a></span>, <span class="link"><a href="printing-2sided.html" title="Dvostransko tiskanje in tiskanje več strani na stran.">dvostransko in več strani</a></span> ...</span></div>
+<div class="links-grid-link"><a href="printing.html.sl" title="Tiskanje">Tiskanje</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html.sl" title="Nastavitev krajevnega tiskalnika">Krajevna nastavitev</a></span>, <span class="link"><a href="printing-order.html.sl" title="Tiskanje strani v drugem vrstnem redu">vrstni red in izbiranje</a></span>, <span class="link"><a href="printing-2sided.html.sl" title="Dvostransko tiskanje in tiskanje več strani na stran.">dvostransko in več strani</a></span> ...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html" title="Upravljanje barv">Upravljanje barv</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Zakaj je upravljanje z barvami pomembno?">Zakaj je to pomembno</a></span>, <span class="link"><a href="color.html#profiles" title="Barvni profili">Barvni profili</a></span>, <span class="link"><a href="color.html#calibration" title="Umerjanje">Kako umeriti napravo </a></span>…</span></div>
+<div class="links-grid-link"><a href="color.html.sl" title="Upravljanje barv">Upravljanje barv</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.sl" title="Zakaj je upravljanje z barvami pomembno?">Zakaj je to pomembno</a></span>, <span class="link"><a href="color.html.sl#profiles" title="Barvni profili">Barvni profili</a></span>, <span class="link"><a href="color.html.sl#calibration" title="Umerjanje">Kako umeriti napravo </a></span>…</span></div>
 </div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Več tem</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="Kaj je gonilnik?">Kaj je gonilnik?</a><span class="desc"> — Gonilnik za strojno opremo/napravo omogoča računalniku, da uporabi naprave, ki so nanj priklopljene</span>
+<a href="hardware-driver.html.sl" title="Kaj je gonilnik?">Kaj je gonilnik?</a><span class="desc"> — Gonilnik za strojno opremo/napravo omogoča računalniku, da uporabi naprave, ki so nanj priklopljene</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -98,23 +98,23 @@
 <div class="hgroup"><h2 class="title"><span class="title">Pogoste težave</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi omrežji</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.sl" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi omrežji</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li>
 <li class="links ">
-<a href="printing.html#problems" title="Težave s tiskalnikom">Težave s tiskalnikom</a><span class="desc"> — Nezaznani tiskalniki, zastal papir, izpiski, ki so videti napačno ...</span>
+<a href="printing.html.sl#problems" title="Težave s tiskalnikom">Težave s tiskalnikom</a><span class="desc"> — Nezaznani tiskalniki, zastal papir, izpiski, ki so videti napačno ...</span>
 </li>
-<li class="links "><a href="bluetooth.html#problems" title="Težave">Težave z Bluetooth</a></li>
+<li class="links "><a href="bluetooth.html.sl#problems" title="Težave">Težave z Bluetooth</a></li>
 <li class="links ">
-<a href="hardware-cardreader.html" title="Težave z bralnikom večpredstavnosnih kartic">Težave z bralnikom večpredstavnosnih kartic</a><span class="desc"> — Odpravljanje težav čitalcev kartic</span>
-</li>
-<li class="links ">
-<a href="power.html#problems" title="Težave">Težave z napajanjem</a><span class="desc"> — Odpravite težave z napajanjem in baterijo</span>
+<a href="hardware-cardreader.html.sl" title="Težave z bralnikom večpredstavnosnih kartic">Težave z bralnikom večpredstavnosnih kartic</a><span class="desc"> — Odpravljanje težav čitalcev kartic</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Težave z zaslonom">Težave z zaslonom</a><span class="desc"> — Odpravljanje težav z zaslonom in grafiko.</span>
+<a href="power.html.sl#problems" title="Težave">Težave z napajanjem</a><span class="desc"> — Odpravite težave z napajanjem in baterijo</span>
 </li>
 <li class="links ">
-<a href="sound-broken.html" title="Težave z zvokom">Težave z zvokom</a><span class="desc"> — Odpravljanje težav kot je računalnik brez zvoka ali s slabo kakovostjo zvoka.</span>
+<a href="hardware-problems-graphics.html.sl" title="Težave z zaslonom">Težave z zaslonom</a><span class="desc"> — Odpravljanje težav z zaslonom in grafiko.</span>
+</li>
+<li class="links ">
+<a href="sound-broken.html.sl" title="Težave z zvokom">Težave z zvokom</a><span class="desc"> — Odpravljanje težav kot je računalnik brez zvoka ali s slabo kakovostjo zvoka.</span>
 </li>
 </ul></div></div></div></div></div>
 </div></div>
@@ -122,7 +122,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.sl" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

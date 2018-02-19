@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nätkonton</span></h1></div>
@@ -51,12 +51,12 @@
 <div class="contents">
 <p class="p">Du kan mata in dina kontouppgifter för vissa nättjänster, så som Google och Facebook, i fönstret <span class="app">Nätkonton</span>. Detta kommer att låta dig använda program för att nå nättjänster som e-post, kalendrar, chatt och dokument.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="accounts-add.html" title="Lägg till ett konto"><span class="title">Lägg till ett konto</span><span class="linkdiv-dash"> — </span><span class="desc">Tillåt program att få åtkomst till dina nätkonton för foton, kontakter, kalendrar och så vidare.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html" title="Ta bort ett konto"><span class="title">Ta bort ett konto</span><span class="linkdiv-dash"> — </span><span class="desc">Ta bort tillgång till en nättjänstleverantör från dina program.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html" title="Varför lägga till ett konto?"><span class="title">Varför lägga till ett konto?</span><span class="linkdiv-dash"> — </span><span class="desc">Varför ska jag lägga till e-post eller sociala media-konton i min skrivbordsmiljö?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html" title="Nättjänster och program"><span class="title">Nättjänster och program</span><span class="linkdiv-dash"> — </span><span class="desc">Program kan använda de konton som skapats i <span class="app">Nätkonton</span> och tjänsterna de utnyttjar.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html" title="Styr vilka nättjänster ett konto kan användas med"><span class="title">Styr vilka nättjänster ett konto kan användas med</span><span class="linkdiv-dash"> — </span><span class="desc">Vissa nätkonton kan användas för att nå flera tjänster (exempelvis kalender och e-post). Du kan styra vilken av dessa tjänster som kan användas av program.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html" title="Varför är min kontotyp inte på listan?"><span class="title">Varför är min kontotyp inte på listan?</span><span class="linkdiv-dash"> — </span><span class="desc">Vad gör jag om en nättjänsteleverantör inte finns på listan?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.sv" title="Lägg till ett konto"><span class="title">Lägg till ett konto</span><span class="linkdiv-dash"> — </span><span class="desc">Tillåt program att få åtkomst till dina nätkonton för foton, kontakter, kalendrar och så vidare.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.sv" title="Ta bort ett konto"><span class="title">Ta bort ett konto</span><span class="linkdiv-dash"> — </span><span class="desc">Ta bort tillgång till en nättjänstleverantör från dina program.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.sv" title="Varför lägga till ett konto?"><span class="title">Varför lägga till ett konto?</span><span class="linkdiv-dash"> — </span><span class="desc">Varför ska jag lägga till e-post eller sociala media-konton i min skrivbordsmiljö?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.sv" title="Nättjänster och program"><span class="title">Nättjänster och program</span><span class="linkdiv-dash"> — </span><span class="desc">Program kan använda de konton som skapats i <span class="app">Nätkonton</span> och tjänsterna de utnyttjar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.sv" title="Styr vilka nättjänster ett konto kan användas med"><span class="title">Styr vilka nättjänster ett konto kan användas med</span><span class="linkdiv-dash"> — </span><span class="desc">Vissa nätkonton kan användas för att nå flera tjänster (exempelvis kalender och e-post). Du kan styra vilken av dessa tjänster som kan användas av program.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html.sv" title="Varför är min kontotyp inte på listan?"><span class="title">Varför är min kontotyp inte på listan?</span><span class="linkdiv-dash"> — </span><span class="desc">Vad gör jag om en nättjänsteleverantör inte finns på listan?</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -65,16 +65,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html" title="Användarkonton">användarkonton</a></span>…</span>
+<a href="prefs.html.sv" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html.sv" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html.sv" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html.sv" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html.sv" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html.sv" title="Användarkonton">användarkonton</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat.html" title="Chatt &amp; sociala medier">Chatt &amp; sociala medier</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html" title="Snabbmeddelanden på Ubuntu">Chatta över ett godtyckligt nätverk med <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html" title="Videosamtal">för videosamtal</a></span>, <span class="link"><a href="net-chat-skype.html" title="Hur använder jag Skype på Ubuntu?">installera skype</a></span></span>
+<a href="net-chat.html.sv" title="Chatt &amp; sociala medier">Chatt &amp; sociala medier</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html.sv" title="Snabbmeddelanden på Ubuntu">Chatta över ett godtyckligt nätverk med <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.sv" title="Videosamtal">för videosamtal</a></span>, <span class="link"><a href="net-chat-skype.html.sv" title="Hur använder jag Skype på Ubuntu?">installera skype</a></span></span>
 </li>
-<li class="links "><a href="gs-connect-online-accounts.html" title="Ansluta till nätkonton">En handledning i att ansluta till nätkonton</a></li>
+<li class="links "><a href="gs-connect-online-accounts.html.sv" title="Ansluta till nätkonton">En handledning i att ansluta till nätkonton</a></li>
 </ul></div>
 </div></div>
 </div>

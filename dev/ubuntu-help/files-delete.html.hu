@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html#common-file-tasks" title="Általános feladatok">Általános feladatok</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.hu" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html.hu#common-file-tasks" title="Általános feladatok">Általános feladatok</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fájlok és mappák törlése</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Ha már nincs szüksége egy fájlra vagy mappára, akkor törölheti azt. Egy elem törlésekor az a Kuka mappába kerül áthelyezésre, ahol a <span class="gui">Kuka</span> ürítéséig marad. A <span class="gui">Kuka</span> mappában található <span class="link"><a href="files-recover.html" title="Fájl visszaállítása a Kukából">elemek visszaállíthatók</a></span> az eredeti helyükre, ha úgy dönt hogy mégis szüksége van azokra, vagy ha véletlenül kerültek törlésre.</p>
+<p class="p">Ha már nincs szüksége egy fájlra vagy mappára, akkor törölheti azt. Egy elem törlésekor az a Kuka mappába kerül áthelyezésre, ahol a <span class="gui">Kuka</span> ürítéséig marad. A <span class="gui">Kuka</span> mappában található <span class="link"><a href="files-recover.html.hu" title="Fájl visszaállítása a Kukából">elemek visszaállíthatók</a></span> az eredeti helyükre, ha úgy dönt hogy mégis szüksége van azokra, vagy ha véletlenül kerültek törlésre.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Fájlok áthelyezése a Kukába:</span></h2></div>
 <div class="region"><ol class="steps">
@@ -72,7 +72,7 @@
 <li class="steps"><p class="p">Mivel ezt nem vonhatja vissza, a számítógép a fájl vagy mappa törlésének megerősítését kéri.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">A <span class="link"><a href="files.html#removable" title="Cserélhető meghajtók és külső lemezek">cserélhető eszközön</a></span> törölt fájlokat lehet, hogy nem fogja más operációs rendszereken, például Windowson vagy Mac OS-en látni. A fájlok nem tűnnek el, az eszköz következő csatlakoztatásakor elérheti azokat.</p></div></div></div></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">A <span class="link"><a href="files.html.hu#removable" title="Cserélhető meghajtók és külső lemezek">cserélhető eszközön</a></span> törölt fájlokat lehet, hogy nem fogja más operációs rendszereken, például Windowson vagy Mac OS-en látni. A fájlok nem tűnnek el, az eszköz következő csatlakoztatásakor elérheti azokat.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -80,15 +80,15 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Általános feladatok">Általános feladatok</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.hu#common-file-tasks" title="Általános feladatok">Általános feladatok</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-recover.html" title="Fájl visszaállítása a Kukából">Fájl visszaállítása a Kukából</a><span class="desc"> — A törölt fájlok normális esetben a Kukába kerülnek, de visszaállíthatók.</span>
+<a href="files-recover.html.hu" title="Fájl visszaállítása a Kukából">Fájl visszaállítása a Kukából</a><span class="desc"> — A törölt fájlok normális esetben a Kukába kerülnek, de visszaállíthatók.</span>
 </li>
-<li class="links "><a href="nautilus-behavior.html#trash" title="Kuka">Fájlkezelő Kuka beállításai</a></li>
+<li class="links "><a href="nautilus-behavior.html.hu#trash" title="Kuka">Fájlkezelő Kuka beállításai</a></li>
 </ul></div>
 </div></div>
 </div>

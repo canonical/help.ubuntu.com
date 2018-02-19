@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,28 +54,28 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-status.html" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html" title="Como hibernar o meu computador?"><span class="title">Como hibernar o meu computador?</span><span class="linkdiv-dash"> — </span><span class="desc">Hibernar está desactivado de xeito predeterminado porque non é compatíbel por completo.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda como saír da súa conta de usuario, saíndo a sesión, cambiando de usuario, etc.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-closelid.html" title="Porque se apaga o meu computador cando pecha a tapa?"><span class="title">Porque se apaga o meu computador cando pecha a tapa?</span><span class="linkdiv-dash"> — </span><span class="desc">Os portátiles suspéndense cando se pecha a tapa para aforrar enerxía.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-status.html.gl-GL" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.gl-GL" title="Como hibernar o meu computador?"><span class="title">Como hibernar o meu computador?</span><span class="linkdiv-dash"> — </span><span class="desc">Hibernar está desactivado de xeito predeterminado porque non é compatíbel por completo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.gl-GL" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda como saír da súa conta de usuario, saíndo a sesión, cambiando de usuario, etc.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.gl-GL" title="Porque se apaga o meu computador cando pecha a tapa?"><span class="title">Porque se apaga o meu computador cando pecha a tapa?</span><span class="linkdiv-dash"> — </span><span class="desc">Os portátiles suspéndense cando se pecha a tapa para aforrar enerxía.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-suspend.html" title="Que acontece cando suspendo o meu computador?"><span class="title">Que acontece cando suspendo o meu computador?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspender pon o seu computador a durmir para que use menos enerxía.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html" title="Sacar o máximo partido da batería do seu portátil"><span class="title">Sacar o máximo partido da batería do seu portátil</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-wireless.html" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batterylife.html" title="Use menos enerxía para mellorar a vida da súa batería"><span class="title">Use menos enerxía para mellorar a vida da súa batería</span><span class="linkdiv-dash"> — </span><span class="desc">Consellos para reducir o consumo de enerxía do seu computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?"><span class="title">Que acontece cando suspendo o meu computador?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspender pon o seu computador a durmir para que use menos enerxía.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.gl-GL" title="Sacar o máximo partido da batería do seu portátil"><span class="title">Sacar o máximo partido da batería do seu portátil</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.gl-GL" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.gl-GL" title="Use menos enerxía para mellorar a vida da súa batería"><span class="title">Use menos enerxía para mellorar a vida da súa batería</span><span class="linkdiv-dash"> — </span><span class="desc">Consellos para reducir o consumo de enerxía do seu computador.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="saving" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Power saving settings</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html" title="Enable automatic brightness"><span class="title">Enable automatic brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Porqué a pantalla escurece logo duns segundos?"><span class="title">Porqué a pantalla escurece logo duns segundos?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.gl-GL" title="Enable automatic brightness"><span class="title">Enable automatic brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.gl-GL" title="Porqué a pantalla escurece logo duns segundos?"><span class="title">Porqué a pantalla escurece logo duns segundos?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html" title="Set up automatic suspend"><span class="title">Set up automatic suspend</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your computer to suspend automatically.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.gl-GL" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.gl-GL" title="Set up automatic suspend"><span class="title">Set up automatic suspend</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your computer to suspend automatically.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -83,12 +83,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Destinos</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html" title="A vida estimada da batería é incorrecta"><span class="title">A vida estimada da batería é incorrecta</span><span class="linkdiv-dash"> — </span><span class="desc">A vida da batería que se mostra só é unha estimación.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html" title="Por que teño menor tempo de batería que o que tiña en Windows/Mac OS?"><span class="title">Por que teño menor tempo de batería que o que tiña en Windows/Mac OS?</span><span class="linkdiv-dash"> — </span><span class="desc">Os axustes dos fabricantes e diferentes estimacións de duración da batería poden ser a causa deste problema.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html.gl-GL" title="A vida estimada da batería é incorrecta"><span class="title">A vida estimada da batería é incorrecta</span><span class="linkdiv-dash"> — </span><span class="desc">A vida da batería que se mostra só é unha estimación.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html.gl-GL" title="Por que teño menor tempo de batería que o que tiña en Windows/Mac OS?"><span class="title">Por que teño menor tempo de batería que o que tiña en Windows/Mac OS?</span><span class="linkdiv-dash"> — </span><span class="desc">Os axustes dos fabricantes e diferentes estimacións de duración da batería poden ser a causa deste problema.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html" title="Porqué o meu portátil é máis lento cando se usa a enerxía da batería?"><span class="title">Porqué o meu portátil é máis lento cando se usa a enerxía da batería?</span><span class="linkdiv-dash"> — </span><span class="desc">Algúns portátiles baixan a súa velocidade a propósito cando funcionan a batería.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html" title="Why did my computer turn off when the battery got to 10%?"><span class="title">Why did my computer turn off when the battery got to 10%?</span><span class="linkdiv-dash"> — </span><span class="desc">Deixar que a batería se descargue completamente non é bo para ela.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html.gl-GL" title="Porqué o meu portátil é máis lento cando se usa a enerxía da batería?"><span class="title">Porqué o meu portátil é máis lento cando se usa a enerxía da batería?</span><span class="linkdiv-dash"> — </span><span class="desc">Algúns portátiles baixan a súa velocidade a propósito cando funcionan a batería.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html.gl-GL" title="Why did my computer turn off when the battery got to 10%?"><span class="title">Why did my computer turn off when the battery got to 10%?</span><span class="linkdiv-dash"> — </span><span class="desc">Deixar que a batería se descargue completamente non é bo para ela.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -97,21 +97,21 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html" title="Non teño conexión sen fíos á rede cando desperto o meu computador"><span class="title">Non teño conexión sen fíos á rede cando desperto o meu computador</span><span class="linkdiv-dash"> — </span><span class="desc">Algúns dispositivos sen fíos teñen problemas de manexo cando envía o seu computador a durmir e non espertar correctamente.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="O meu computador non arrinca"><span class="title">O meu computador non arrinca</span><span class="linkdiv-dash"> — </span><span class="desc">Os cables soltos e os problemas de hardware son as posíbeis razóns.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html" title="O meu computador quéntase moito"><span class="title">O meu computador quéntase moito</span><span class="linkdiv-dash"> — </span><span class="desc">Os computadores, en xeral, quéntanse pero poden sobrequentarse, o que pode causar danos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html.gl-GL" title="Non teño conexión sen fíos á rede cando desperto o meu computador"><span class="title">Non teño conexión sen fíos á rede cando desperto o meu computador</span><span class="linkdiv-dash"> — </span><span class="desc">Algúns dispositivos sen fíos teñen problemas de manexo cando envía o seu computador a durmir e non espertar correctamente.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.gl-GL" title="O meu computador non arrinca"><span class="title">O meu computador non arrinca</span><span class="linkdiv-dash"> — </span><span class="desc">Os cables soltos e os problemas de hardware son as posíbeis razóns.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html.gl-GL" title="O meu computador quéntase moito"><span class="title">O meu computador quéntase moito</span><span class="linkdiv-dash"> — </span><span class="desc">Os computadores, en xeral, quéntanse pero poden sobrequentarse, o que pode causar danos.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html" title="O ventilador do meu portátil está sempre xirando"><span class="title">O ventilador do meu portátil está sempre xirando</span><span class="linkdiv-dash"> — </span><span class="desc">Pode faltar algún software controlador dos ventiladores ou o seu portátil pode estar requecéndose.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-othercountry.html" title="Pode funcionar o meu equipo co suministro de enerxía de outro país?"><span class="title">Pode funcionar o meu equipo co suministro de enerxía de outro país?</span><span class="linkdiv-dash"> — </span><span class="desc">O seu computador funcionará, pero pode precisar un cable de corrente diferente ou un adaptador de viaxe.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="Porque o meu computador non se acende logo de ir suspendelo?"><span class="title">Porque o meu computador non se acende logo de ir suspendelo?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html.gl-GL" title="O ventilador do meu portátil está sempre xirando"><span class="title">O ventilador do meu portátil está sempre xirando</span><span class="linkdiv-dash"> — </span><span class="desc">Pode faltar algún software controlador dos ventiladores ou o seu portátil pode estar requecéndose.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-othercountry.html.gl-GL" title="Pode funcionar o meu equipo co suministro de enerxía de outro país?"><span class="title">Pode funcionar o meu equipo co suministro de enerxía de outro país?</span><span class="linkdiv-dash"> — </span><span class="desc">O seu computador funcionará, pero pode precisar un cable de corrente diferente ou un adaptador de viaxe.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.gl-GL" title="Porque o meu computador non se acende logo de ir suspendelo?"><span class="title">Porque o meu computador non se acende logo de ir suspendelo?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Máis información</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Problemas comúns">Problemas de hardware</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas de hardware</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -122,10 +122,10 @@
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html" title="Configuracións do usuario e sistema">Configuracións do usuario e sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html" title="Rato">rato</a></span>, <span class="link"><a href="prefs-display.html" title="Pantalla e monitor">pantalla</a></span>, <span class="link"><a href="prefs-language.html" title="Rexión e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html" title="Contas de usuario">contas de usuario</a></span>…</span>
+<a href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións do usuario e sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.gl-GL" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html.gl-GL" title="Rato">rato</a></span>, <span class="link"><a href="prefs-display.html.gl-GL" title="Pantalla e monitor">pantalla</a></span>, <span class="link"><a href="prefs-language.html.gl-GL" title="Rexión e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html.gl-GL" title="Contas de usuario">contas de usuario</a></span>…</span>
 </li>
 <li class="links ">
-<a href="hardware.html" title="Hardware e controladores">Hardware e controladores</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Problemas comúns">Problemas de hardware</a></span>, <span class="link"><a href="hardware.html#printing" title="hardware#printing">impresoras</a></span>, <span class="link"><a href="hardware.html#power" title="hardware#power">configuración de enerxía</a></span>, <span class="link"><a href="hardware.html#bluetooth" title="hardware#bluetooth">Bluetooth</a></span>, <span class="link"><a href="hardware.html#disk" title="hardware#disk">discos</a></span>…</span>
+<a href="hardware.html.gl-GL" title="Hardware e controladores">Hardware e controladores</a><span class="desc"> — <span class="link"><a href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas de hardware</a></span>, <span class="link"><a href="hardware.html.gl-GL#printing" title="hardware#printing">impresoras</a></span>, <span class="link"><a href="hardware.html.gl-GL#power" title="hardware#power">configuración de enerxía</a></span>, <span class="link"><a href="hardware.html.gl-GL#bluetooth" title="hardware#bluetooth">Bluetooth</a></span>, <span class="link"><a href="hardware.html.gl-GL#disk" title="hardware#disk">discos</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

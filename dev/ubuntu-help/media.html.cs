@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zvuk, video a obrázky</span></h1></div>
@@ -54,13 +54,13 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-broken.html" title="Problémy se zvukem"><span class="title">Problémy se zvukem</span><span class="linkdiv-dash"> — </span><span class="desc">Jak řešit problémy, jako je žádný zvuk nebo zvuk s ubohou kvalitou.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html" title="Používání rozličných mikrofónů"><span class="title">Používání rozličných mikrofónů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak používat analogový nebo USB mikrofon a jak vybrat výchozí vstupní zařízení.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html" title="Používání rozličných reproduktorů a sluchátek"><span class="title">Používání rozličných reproduktorů a sluchátek</span><span class="linkdiv-dash"> — </span><span class="desc">Jak připojit reproduktory nebo sluchátka a jak vybrat výchozí výstupní zvukové zařízení.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-broken.html.cs" title="Problémy se zvukem"><span class="title">Problémy se zvukem</span><span class="linkdiv-dash"> — </span><span class="desc">Jak řešit problémy, jako je žádný zvuk nebo zvuk s ubohou kvalitou.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html.cs" title="Používání rozličných mikrofónů"><span class="title">Používání rozličných mikrofónů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak používat analogový nebo USB mikrofon a jak vybrat výchozí vstupní zařízení.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html.cs" title="Používání rozličných reproduktorů a sluchátek"><span class="title">Používání rozličných reproduktorů a sluchátek</span><span class="linkdiv-dash"> — </span><span class="desc">Jak připojit reproduktory nebo sluchátka a jak vybrat výchozí výstupní zvukové zařízení.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-alert.html" title="Výběr a vypnutí zvuku upozornění"><span class="title">Výběr a vypnutí zvuku upozornění</span><span class="linkdiv-dash"> — </span><span class="desc">Jak si vybrat zvuk, který se přehraje při upozornění, a jak nastavit jeho hlasitost, případně jak jej vypnout.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-volume.html" title="Změna hlasitosti"><span class="title">Změna hlasitosti</span><span class="linkdiv-dash"> — </span><span class="desc">Jak nastavit hlasitost zvuku pro počítač a jak ovládat hlasitost u jednotlivých aplikací.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-alert.html.cs" title="Výběr a vypnutí zvuku upozornění"><span class="title">Výběr a vypnutí zvuku upozornění</span><span class="linkdiv-dash"> — </span><span class="desc">Jak si vybrat zvuk, který se přehraje při upozornění, a jak nastavit jeho hlasitost, případně jak jej vypnout.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-volume.html.cs" title="Změna hlasitosti"><span class="title">Změna hlasitosti</span><span class="linkdiv-dash"> — </span><span class="desc">Jak nastavit hlasitost zvuku pro počítač a jak ovládat hlasitost u jednotlivých aplikací.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Další informace</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html" title="Uživatelské účty">uživatelské účty</a></span>…</span>
+<a href="prefs.html.cs" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html.cs" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html.cs" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html.cs" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html.cs" title="Uživatelské účty">uživatelské účty</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -78,33 +78,33 @@
 <div class="hgroup"><h2 class="title"><span class="title">Hudba a přenosné hudební přehrávače</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html" title="Můj nový iPod nechce fungovat"><span class="title">Můj nový iPod nechce fungovat</span><span class="linkdiv-dash"> — </span><span class="desc">Nejnovější přehrávače iPod je potřeba před jejich prvním použitím nastavit pomocí softwaru iTunes.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="Nemohu přehrát písničky, které jsem koupil on-line v obchodě s hudbou"><span class="title">Nemohu přehrát písničky, které jsem koupil on-line v obchodě s hudbou</span><span class="linkdiv-dash"> — </span><span class="desc">Možná není nainstalovaná podpora pro daný formát souboru nebo jsou skladby „chráněny proti kopírování“.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html.cs" title="Můj nový iPod nechce fungovat"><span class="title">Můj nový iPod nechce fungovat</span><span class="linkdiv-dash"> — </span><span class="desc">Nejnovější přehrávače iPod je potřeba před jejich prvním použitím nastavit pomocí softwaru iTunes.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html.cs" title="Nemohu přehrát písničky, které jsem koupil on-line v obchodě s hudbou"><span class="title">Nemohu přehrát písničky, které jsem koupil on-line v obchodě s hudbou</span><span class="linkdiv-dash"> — </span><span class="desc">Možná není nainstalovaná podpora pro daný formát souboru nebo jsou skladby „chráněny proti kopírování“.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Otevření aplikace pro zařízení nebo disk"><span class="title">Otevření aplikace pro zařízení nebo disk</span><span class="linkdiv-dash"> — </span><span class="desc">Jak automaticky spouštět aplikace pro CD a DVD, fotoaparáty, hudební přehrávače a další média a zařízení.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html" title="Písničky se neobjeví v mém iPodu, když je do něj nakopíruji"><span class="title">Písničky se neobjeví v mém iPodu, když je do něj nakopíruji</span><span class="linkdiv-dash"> — </span><span class="desc">Ke zkopírování písniček a jejich pozdějšímu bezpečnému odstranění ze zařízení iPod použijte multimediální přehrávač.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.cs" title="Otevření aplikace pro zařízení nebo disk"><span class="title">Otevření aplikace pro zařízení nebo disk</span><span class="linkdiv-dash"> — </span><span class="desc">Jak automaticky spouštět aplikace pro CD a DVD, fotoaparáty, hudební přehrávače a další média a zařízení.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html.cs" title="Písničky se neobjeví v mém iPodu, když je do něj nakopíruji"><span class="title">Písničky se neobjeví v mém iPodu, když je do něj nakopíruji</span><span class="linkdiv-dash"> — </span><span class="desc">Ke zkopírování písniček a jejich pozdějšímu bezpečnému odstranění ze zařízení iPod použijte multimediální přehrávač.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="photos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Fotografie a digitální fotoaparáty</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Otevření aplikace pro zařízení nebo disk"><span class="title">Otevření aplikace pro zařízení nebo disk</span><span class="linkdiv-dash"> — </span><span class="desc">Jak automaticky spouštět aplikace pro CD a DVD, fotoaparáty, hudební přehrávače a další média a zařízení.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html" title="Problémy s čtečkami paměťových karet"><span class="title">Problémy s čtečkami paměťových karet</span><span class="linkdiv-dash"> — </span><span class="desc">Jak řešit problémy s čtečkami paměťových karet.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.cs" title="Otevření aplikace pro zařízení nebo disk"><span class="title">Otevření aplikace pro zařízení nebo disk</span><span class="linkdiv-dash"> — </span><span class="desc">Jak automaticky spouštět aplikace pro CD a DVD, fotoaparáty, hudební přehrávače a další média a zařízení.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html.cs" title="Problémy s čtečkami paměťových karet"><span class="title">Problémy s čtečkami paměťových karet</span><span class="linkdiv-dash"> — </span><span class="desc">Jak řešit problémy s čtečkami paměťových karet.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="videos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Videa a videokamery</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="video-sending.html" title="Jiní lidé nemohou přehrát mnou vytvořená videa"><span class="title">Jiní lidé nemohou přehrát mnou vytvořená videa</span><span class="linkdiv-dash"> — </span><span class="desc">Zkontrolujte, jestli mají nainstalované správné kodeky videa.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Otevření aplikace pro zařízení nebo disk"><span class="title">Otevření aplikace pro zařízení nebo disk</span><span class="linkdiv-dash"> — </span><span class="desc">Jak automaticky spouštět aplikace pro CD a DVD, fotoaparáty, hudební přehrávače a další média a zařízení.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd.html" title="Proč se nechtějí DVD přehrávat?"><span class="title">Proč se nechtějí DVD přehrávat?</span><span class="linkdiv-dash"> — </span><span class="desc">Možná nemáte nainstalované správné kodeky nebo může být DVD pro nesprávný region.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-sending.html.cs" title="Jiní lidé nemohou přehrát mnou vytvořená videa"><span class="title">Jiní lidé nemohou přehrát mnou vytvořená videa</span><span class="linkdiv-dash"> — </span><span class="desc">Zkontrolujte, jestli mají nainstalované správné kodeky videa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.cs" title="Otevření aplikace pro zařízení nebo disk"><span class="title">Otevření aplikace pro zařízení nebo disk</span><span class="linkdiv-dash"> — </span><span class="desc">Jak automaticky spouštět aplikace pro CD a DVD, fotoaparáty, hudební přehrávače a další média a zařízení.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd.html.cs" title="Proč se nechtějí DVD přehrávat?"><span class="title">Proč se nechtějí DVD přehrávat?</span><span class="linkdiv-dash"> — </span><span class="desc">Možná nemáte nainstalované správné kodeky nebo může být DVD pro nesprávný region.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="app-cheese.html" title="Vytvořte si zábavné fokty a videa s vaší webovou kamerou"><span class="title">Vytvořte si zábavné fokty a videa s vaší webovou kamerou</span><span class="linkdiv-dash"> — </span><span class="desc">Je to jako vaše osobní foto budka.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html" title="Jak povolit vyhrazené kodeky pro přehrávání DVD?"><span class="title">Jak povolit vyhrazené kodeky pro přehrávání DVD?</span><span class="linkdiv-dash"> — </span><span class="desc">Většina komerčních DVD je zakódována a nepřehrají se bez dešifrovacího softwaru.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="app-cheese.html.cs" title="Vytvořte si zábavné fokty a videa s vaší webovou kamerou"><span class="title">Vytvořte si zábavné fokty a videa s vaší webovou kamerou</span><span class="linkdiv-dash"> — </span><span class="desc">Je to jako vaše osobní foto budka.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html.cs" title="Jak povolit vyhrazené kodeky pro přehrávání DVD?"><span class="title">Jak povolit vyhrazené kodeky pro přehrávání DVD?</span><span class="linkdiv-dash"> — </span><span class="desc">Většina komerčních DVD je zakódována a nepřehrají se bez dešifrovacího softwaru.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -112,7 +112,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Průvodce pracovním prostředím Ubuntu">Průvodce pracovním prostředím Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu">Průvodce pracovním prostředím Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

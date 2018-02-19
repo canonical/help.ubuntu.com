@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-general.html" title="Netzwerk-Begriffe und Tipps">Netzwerk-Begriffe und Tipps</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-general.html.de" title="Netzwerk-Begriffe und Tipps">Netzwerk-Begriffe und Tipps</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sicher im Internet unterwegs sein</span></h1></div>
@@ -53,16 +53,16 @@
 <p class="p">Trotz aller Maßnahmen, die zum Schutz Ihrer Linux-Installation ergriffen werden, bleibt ein System immer angreifbar. Als Durchschnittsanwender im Internet sind Sie anfällig für:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Phishing (Webseiten und E-Mails, die durch Vortäuschen einer anderen Identität vertrauliche Informationen herauslocken wollen)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html" title="Muss ich meine E-Mails auf Viren überprüfen lassen?">Weiterleitung von Schadprogrammen per E-Mail</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html" title="Benötige ich Anti-Virus-Software?">Anwendungen mit bösartigen Absichten (Viren)</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html" title="Was bedeuten WEP und WPA?">Unbefugter Zugriff auf das Netzwerk von innen oder außen</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.de" title="Muss ich meine E-Mails auf Viren überprüfen lassen?">Weiterleitung von Schadprogrammen per E-Mail</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.de" title="Benötige ich Anti-Virus-Software?">Anwendungen mit bösartigen Absichten (Viren)</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.de" title="Was bedeuten WEP und WPA?">Unbefugter Zugriff auf das Netzwerk von innen oder außen</a></span></p></li>
 </ul></div></div></div>
 <p class="p">Um sich sicher online zu bewegen, beachten Sie folgende Hinweise:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Öffnen Sie keine E-Mails, Anhänge oder Links, die Ihnen von Leuten gesendet wurden, die Sie nicht kennen.</p></li>
 <li class="list"><p class="p">Falls das Angebot einer Webseite zu schön ist, um wahr zu sein, oder wenn private Informationen angefordert werden, die offensichtlich gar nicht nötig sind, dann sollten Sie wachsam sein. Denken Sie über die Konsequenzen nach, für den Fall, dass diese Informationen potenziellen Datendieben oder anderen Kriminellen in die Hände fallen.</p></li>
-<li class="list"><p class="p">Prüfen Sie sorgfältig, ob Sie einer Anwendung <span class="link"><a href="user-admin-explain.html" title="Wie funktionieren Systemverwalter-Privilegien?">Systemverwalterrechte</a></span> gewähren wollen, besonders bei solchen, die Sie vorher nie verwendet haben oder die nicht allgemein bekannt sind. Eine beliebige Person oder Anwendung mit Systemverwalterrechten auszustatten setzt Ihren Rechner einem erheblichen Risiko des Missbrauchs aus.</p></li>
-<li class="list"><p class="p">Stellen Sie sicher, dass nur die notwendigen Dienste für einen Zugriff von außen in Betrieb sind. Laufende SSH- oder VNC-Dienste können zwar nützlich sein, bilden aber Einfallstore für Eindringlinge, wenn sie nicht entsprechend abgesichert sind. Ziehen Sie eine <span class="link"><a href="net-firewall-on-off.html" title="Firewall-Zugriff erlauben oder blockieren">Firewall</a></span> in Betracht, um Ihren Rechner vor Eindringlingen zu schützen.</p></li>
+<li class="list"><p class="p">Prüfen Sie sorgfältig, ob Sie einer Anwendung <span class="link"><a href="user-admin-explain.html.de" title="Wie funktionieren Systemverwalter-Privilegien?">Systemverwalterrechte</a></span> gewähren wollen, besonders bei solchen, die Sie vorher nie verwendet haben oder die nicht allgemein bekannt sind. Eine beliebige Person oder Anwendung mit Systemverwalterrechten auszustatten setzt Ihren Rechner einem erheblichen Risiko des Missbrauchs aus.</p></li>
+<li class="list"><p class="p">Stellen Sie sicher, dass nur die notwendigen Dienste für einen Zugriff von außen in Betrieb sind. Laufende SSH- oder VNC-Dienste können zwar nützlich sein, bilden aber Einfallstore für Eindringlinge, wenn sie nicht entsprechend abgesichert sind. Ziehen Sie eine <span class="link"><a href="net-firewall-on-off.html.de" title="Firewall-Zugriff erlauben oder blockieren">Firewall</a></span> in Betracht, um Ihren Rechner vor Eindringlingen zu schützen.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Netzwerk-Begriffe und Tipps">Netzwerk-Begriffe und Tipps</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Ihre IP-Adresse ermitteln">IP-Adresse herausfinden</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Was bedeuten WEP und WPA?">Sicherheit mit WEP und WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Was ist eine MAC-Adresse?">MAC-Adressen</a></span>, <span class="link"><a href="net-proxy.html" title="Proxy-Einstellungen festlegen">Proxys</a></span> …</span>
+<a href="net-general.html.de" title="Netzwerk-Begriffe und Tipps">Netzwerk-Begriffe und Tipps</a><span class="desc"> — <span class="link"><a href="net-findip.html.de" title="Ihre IP-Adresse ermitteln">IP-Adresse herausfinden</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.de" title="Was bedeuten WEP und WPA?">Sicherheit mit WEP und WPA</a></span>, <span class="link"><a href="net-macaddress.html.de" title="Was ist eine MAC-Adresse?">MAC-Adressen</a></span>, <span class="link"><a href="net-proxy.html.de" title="Proxy-Einstellungen festlegen">Proxys</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

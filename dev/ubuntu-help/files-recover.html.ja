@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ja" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html.ja#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ゴミ箱からファイルを元に戻す</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">ゴミ箱からファイルを元に戻す方法は次のとおりです。</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="app">Files</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="app">Files</span> to open the file manager.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Trash</span> in the sidebar. If you do not see the sidebar,
@@ -76,16 +76,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ja#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-delete.html" title="ファイル、フォルダーを削除する">ファイル、フォルダーを削除する</a><span class="desc"> — 不要なファイルやフォルダーを削除します。</span>
+<a href="files-delete.html.ja" title="ファイル、フォルダーを削除する">ファイル、フォルダーを削除する</a><span class="desc"> — 不要なファイルやフォルダーを削除します。</span>
 </li>
 <li class="links ">
-<a href="files-lost.html" title="見失ったファイルを探し出す">見失ったファイルを探し出す</a><span class="desc"> — Follow these tips if you can’t find a file you created or
+<a href="files-lost.html.ja" title="見失ったファイルを探し出す">見失ったファイルを探し出す</a><span class="desc"> — Follow these tips if you can’t find a file you created or
     downloaded.</span>
 </li>
 </ul></div>

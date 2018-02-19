@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="color.html" title="Управление цветом">Управление цветом</a> › <a class="trail" href="color.html#profiles" title="Цветовые профили">Цветовые профили</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="color.html.ru" title="Управление цветом">Управление цветом</a> › <a class="trail" href="color.html.ru#profiles" title="Цветовые профили">Цветовые профили</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="color.html" title="Управление цветом">Управление цветом</a> › <a class="trail" href="color.html#profiles" title="Цветовые профили">Цветовые профили</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="color.html.ru" title="Управление цветом">Управление цветом</a> › <a class="trail" href="color.html.ru#profiles" title="Цветовые профили">Цветовые профили</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,29 +56,29 @@
 <p class="p">Цветовой профиль легко импортировать, выполнив двойное нажатие на файле <span class="file">.ICC</span> или <span class="file">.ICM</span> в менеджере файлов.</p>
 <p class="p">Управлять цветовыми профилями можно также в разделе настроек <span class="gui">Color</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Color</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Цвет</span>, чтобы открыть этот раздел настроек и выбрать устройство.</p></li>
 <li class="steps"><p class="p">Чтобы выбрать уже существующий профиль или импортировать новый, нажмите кнопку <span class="gui">Добавить профиль</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Добавить…</span> для подтверждения выбора.</p></li>
 </ol></div></div></div>
-<p class="p">Производитель вашего монитора может поставлять профиль, который можно использовать. Такие профили обычно создаются для среднестатистического монитора, и могут не подходить для конкретного устройства. Для лучшей калибровки нужно <span class="link"><a href="color-calibrate-screen.html" title="Как откалибровать монитор?">создать собственный профиль</a></span>с помощью колориметра или спектрометра.</p>
+<p class="p">Производитель вашего монитора может поставлять профиль, который можно использовать. Такие профили обычно создаются для среднестатистического монитора, и могут не подходить для конкретного устройства. Для лучшей калибровки нужно <span class="link"><a href="color-calibrate-screen.html.ru" title="Как откалибровать монитор?">создать собственный профиль</a></span>с помощью колориметра или спектрометра.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Цветовые профили">Цветовые профили</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.ru#profiles" title="Цветовые профили">Цветовые профили</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Как назначать профили устройствам?">Как назначать профили устройствам?</a><span class="desc"> — Добавить цветовой профиль монитора можно в разделе <span class="guiseq"><span class="gui">Параметры</span> ▸ <span class="gui">Цвет</span></span>.</span>
+<a href="color-assignprofiles.html.ru" title="Как назначать профили устройствам?">Как назначать профили устройствам?</a><span class="desc"> — Добавить цветовой профиль монитора можно в разделе <span class="guiseq"><span class="gui">Параметры</span> ▸ <span class="gui">Цвет</span></span>.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Что такое цветовой профиль?">Что такое цветовой профиль?</a><span class="desc"> — Цветовой профиль — это простой файл, описывающий цветовое пространство или отклик устройства.</span>
+<a href="color-whatisprofile.html.ru" title="Что такое цветовой профиль?">Что такое цветовой профиль?</a><span class="desc"> — Цветовой профиль — это простой файл, описывающий цветовое пространство или отклик устройства.</span>
 </li>
 </ul></div>
 </div></div>

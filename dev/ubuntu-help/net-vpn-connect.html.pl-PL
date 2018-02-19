@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-wireless.html" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-wired.html" title="Sieć przewodowa">Sieć przewodowa</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-wired.html.pl-PL" title="Sieć przewodowa">Sieć przewodowa</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -72,19 +72,18 @@
  probably have to download and install some client software from the company
  that provides the VPN software. You’ll probably have to follow some different
  instructions to get that working.</p></div></div></div></div>
-<p class="p">To set up the VPN connection:</p>
+<p class="p">Aby ustawić połączenie VPN:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Network</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Sieć</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Sieć</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Sieć</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">At the bottom of the list on the left, click the <span class="gui">+</span> button
       to add a new connection.</p></li>
-<li class="steps"><p class="p">Choose <span class="gui">VPN</span> in the interface list.</p></li>
+<li class="steps"><p class="p">Wybierz <span class="gui">VPN</span> z listy interfejsów.</p></li>
 <li class="steps"><p class="p">Choose which kind of VPN connection you have.</p></li>
 <li class="steps"><p class="p">Fill in the VPN connection details, then press <span class="gui">Add</span> once you
       are finished.</p></li>
 <li class="steps"><p class="p">When you have finished setting-up the VPN, open the
-      <span class="gui"><a href="shell-introduction.html#yourname" title="Użytkownik i komputer">system menu</a></span> from the right side of
+      <span class="gui"><a href="shell-introduction.html.pl-PL#yourname" title="Użytkownik i komputer">system menu</a></span> from the right side of
       the top bar, click <span class="gui">VPN off</span> and select <span class="gui">Connect</span>. You
       may need to enter a password for the connection before it is established.
       Once the connection is made, you will see a lock shaped icon in the top
@@ -104,16 +103,12 @@
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pl-PL" title="Łączenie z siecią bezprzewodową">Łączenie z siecią Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.pl-PL" title="Łączenie z ukrytą siecią bezprzewodową">Ukryte sieci</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pl-PL" title="Why does my wireless network keep disconnecting?">Rozłączanie</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wired.html" title="Sieć przewodowa">Sieć przewodowa</a><span class="desc"> — 
-      <span class="link"><a href="net-wired-connect.html" title="Connect to a wired (Ethernet) network">Wired internet connections</a></span>,
-      <span class="link"><a href="net-fixed-ip-address.html" title="Create a connection with a fixed IP address">Fixed IP addresses</a></span>…
+<a href="net-wired.html.pl-PL" title="Sieć przewodowa">Sieć przewodowa</a><span class="desc"> — 
+      <span class="link"><a href="net-wired-connect.html.pl-PL" title="Łączenie z siecią przewodową (Ethernet)">Wired internet connections</a></span>,
+      <span class="link"><a href="net-fixed-ip-address.html.pl-PL" title="Create a connection with a fixed IP address">Fixed IP addresses</a></span>…
     </span>
 </li>
 </ul></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Γενική πρόσβαση">Γενική πρόσβαση</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.el" title="Γενική πρόσβαση">Γενική πρόσβαση</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Βρείτε το μενού γενικής πρόσβασης</span></h1></div>
@@ -58,7 +58,7 @@
 </div></div>
 <p class="p">Αν δεν βλέπετε το μενού γενικής πρόσβασης, μπορείτε να το ενεργοποιήσετε από τον πίνακα ρυθμίσεων στη <span class="gui">Γενική πρόσβαση</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Γενική πρόσβαση</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Γενική πρόσβαση</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Γενική πρόσβαση</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Αλλάξτε το <span class="gui">Να εμφανίζεται πά_ντα το καθολικό μενού πρόσβασης</span> σε <span class="gui">ΝΑΙ</span>.</p></li>
 </ol></div></div></div>
@@ -76,7 +76,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y.html" title="Γενική πρόσβαση">Γενική πρόσβαση</a><span class="desc"> — <span class="link"><a href="a11y.html#vision" title="Οπτικές δυσλειτουργίες">Όραση</a></span>,<span class="link"><a href="a11y.html#sound" title="Προβλήματα ακοής">Ακοή</a></span>, <span class="link"><a href="a11y.html#mobility" title="Κινητικά προβλήματα">Κινητικότητα</a></span>, <span class="link"><a href="a11y-braille.html" title="Ανάγνωση οθόνης σε Μπράιγ">Μπράιγ</a></span>, <span class="link"><a href="a11y-mag.html" title="Μεγέθυνση της περιοχής οθόνης">Μεγεθυντής οθόνης</a></span>…</span>
+<a href="a11y.html.el" title="Γενική πρόσβαση">Γενική πρόσβαση</a><span class="desc"> — <span class="link"><a href="a11y.html.el#vision" title="Οπτικές δυσλειτουργίες">Όραση</a></span>,<span class="link"><a href="a11y.html.el#sound" title="Προβλήματα ακοής">Ακοή</a></span>, <span class="link"><a href="a11y.html.el#mobility" title="Κινητικά προβλήματα">Κινητικότητα</a></span>, <span class="link"><a href="a11y-braille.html.el" title="Ανάγνωση οθόνης σε Μπράιγ">Μπράιγ</a></span>, <span class="link"><a href="a11y-mag.html.el" title="Μεγέθυνση της περιοχής οθόνης">Μεγεθυντής οθόνης</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

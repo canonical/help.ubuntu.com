@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">初めて使う方へ</span></h1></div>
@@ -119,20 +119,20 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links title-heading"><h2><span class="title">よく行う作業</span></h2></div>
 <div class="region">
-<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html" title="Web を閲覧する">Web を閲覧する</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html" title="ウィンドウとワークスペースを使用する">ウィンドウとワークスペースを使用する</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html" title="オンラインアカウントに接続する">オンラインアカウントに接続する</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html" title="システムの検索機能を使用する">システムの検索機能を使用する</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html" title="壁紙を変更する">壁紙を変更する</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html" title="日付、時刻、タイムゾーンを変更する">日付、時刻、タイムゾーンを変更する</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html" title="アプリケーションを起動する">アプリケーションを起動する</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html" title="タスクを切り替える">タスクを切り替える</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html" title="ネットワークに接続する">ネットワークに接続する</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html.ja" title="Web を閲覧する">Web を閲覧する</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html.ja" title="ウィンドウとワークスペースを使用する">ウィンドウとワークスペースを使用する</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html.ja" title="オンラインアカウントに接続する">オンラインアカウントに接続する</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html.ja" title="システムの検索機能を使用する">システムの検索機能を使用する</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html.ja" title="壁紙を変更する">壁紙を変更する</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html.ja" title="日付、時刻、タイムゾーンを変更する">日付、時刻、タイムゾーンを変更する</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html.ja" title="アプリケーションを起動する">アプリケーションを起動する</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html.ja" title="タスクを切り替える">タスクを切り替える</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html.ja" title="ネットワークに接続する">ネットワークに接続する</a></div></div>
 </div>
 </div></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title title-links"><h2><span class="title"></span></h2></div>
-<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html" title="Ubuntu デスクトップガイド">Ubuntu デスクトップガイド</a></div></li></ul></div>
+<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html.ja" title="Ubuntu デスクトップガイド">Ubuntu デスクトップガイド</a></div></li></ul></div>
 </div></div>
 </div></div>
 <div class="clear"></div>

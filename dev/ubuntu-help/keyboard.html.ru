@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,33 +56,33 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Язык и регион</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">Использование альтернативных раскладок клавиатуры</a><span class="desc"> — Добавьте раскладки клавиатуры и переключайтесь между ними.</span>
+<a href="keyboard-layouts.html.ru" title="Использование альтернативных раскладок клавиатуры">Использование альтернативных раскладок клавиатуры</a><span class="desc"> — Добавьте раскладки клавиатуры и переключайтесь между ними.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Специальные возможности</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-osk.html" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
+<a href="keyboard-osk.html.ru" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
     mouse or a touchscreen.</span>
 </li>
 <li class="links ">
-<a href="a11y-stickykeys.html" title="Включение «залипающих клавиш»">Включение «залипающих клавиш»</a><span class="desc"> — Набор комбинаций клавиш нажатием их поодиночке, а не всех одновременно.</span>
+<a href="a11y-stickykeys.html.ru" title="Включение «залипающих клавиш»">Включение «залипающих клавиш»</a><span class="desc"> — Набор комбинаций клавиш нажатием их поодиночке, а не всех одновременно.</span>
 </li>
 <li class="links ">
-<a href="a11y-slowkeys.html" title="Включение «медленных клавиш»">Включение «медленных клавиш»</a><span class="desc"> — Задержка между нажатием клавиши и появлением символа на экране.</span>
+<a href="a11y-slowkeys.html.ru" title="Включение «медленных клавиш»">Включение «медленных клавиш»</a><span class="desc"> — Задержка между нажатием клавиши и появлением символа на экране.</span>
 </li>
 <li class="links ">
-<a href="a11y-bouncekeys.html" title="Включение «отскакивающих клавиш»">Включение «отскакивающих клавиш»</a><span class="desc"> — Игнорировать быстро повторяющиеся нажатия одной и той же клавиши.</span>
+<a href="a11y-bouncekeys.html.ru" title="Включение «отскакивающих клавиш»">Включение «отскакивающих клавиш»</a><span class="desc"> — Игнорировать быстро повторяющиеся нажатия одной и той же клавиши.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html" title="Управление с помощью клавиатуры">Управление с помощью клавиатуры</a><span class="desc"> — Работа с приложениями и рабочим столом без мыши.</span>
+<a href="keyboard-nav.html.ru" title="Управление с помощью клавиатуры">Управление с помощью клавиатуры</a><span class="desc"> — Работа с приложениями и рабочим столом без мыши.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html" title="Что такое клавиша Super?">Что такое клавиша <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — Клавиша <span class="key"><kbd>Super</kbd></span> открывает режим <span class="gui">Обзора</span>. На клавиатуре она обычно находится рядом с клавишей <span class="key"><kbd>Alt</kbd></span>.</span>
+<a href="keyboard-key-super.html.ru" title="Что такое клавиша Super?">Что такое клавиша <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — Клавиша <span class="key"><kbd>Super</kbd></span> открывает режим <span class="gui">Обзора</span>. На клавиатуре она обычно находится рядом с клавишей <span class="key"><kbd>Alt</kbd></span>.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-menu.html" title="Что такое клавиша Меню?">Что такое клавиша <span class="key"><kbd>Меню</kbd></span>?</a><span class="desc"> — Клавиша <span class="key"><kbd>Меню</kbd></span> открывает контекстное меню, используется вместо нажатия правой кнопки мыши.</span>
+<a href="keyboard-key-menu.html.ru" title="Что такое клавиша Меню?">Что такое клавиша <span class="key"><kbd>Меню</kbd></span>?</a><span class="desc"> — Клавиша <span class="key"><kbd>Меню</kbd></span> открывает контекстное меню, используется вместо нажатия правой кнопки мыши.</span>
 </li>
 </ul></div>
 </div></div>
@@ -90,19 +90,19 @@
 <div class="title title-links"><h2><span class="title">Другие разделы</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Сделайте так, чтобы клавиатура не повторяла буквы при удержании клавиши, или измените задержку и скорость повторного нажатия.</span>
+<a href="keyboard-repeat-keys.html.ru" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Сделайте так, чтобы клавиатура не повторяла буквы при удержании клавиши, или измените задержку и скорость повторного нажатия.</span>
 </li>
 <li class="links ">
-<a href="keyboard-cursor-blink.html" title="Как сделать клавиатурный курсор мигающим?">Как сделать клавиатурный курсор мигающим?</a><span class="desc"> — Сделайте курсор мигающим и измените скорость его мигания.</span>
+<a href="keyboard-cursor-blink.html.ru" title="Как сделать клавиатурный курсор мигающим?">Как сделать клавиатурный курсор мигающим?</a><span class="desc"> — Сделайте курсор мигающим и измените скорость его мигания.</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Настройка комбинаций клавиш">Настройка комбинаций клавиш</a><span class="desc"> — Создание или изменение комбинаций клавиш в параметрах клавиатуры.</span>
+<a href="keyboard-shortcuts-set.html.ru" title="Настройка комбинаций клавиш">Настройка комбинаций клавиш</a><span class="desc"> — Создание или изменение комбинаций клавиш в параметрах клавиатуры.</span>
 </li>
 <li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Полезные комбинации клавиш">Полезные комбинации клавиш</a><span class="desc"> — Управление рабочим столом с помощью клавиатуры.</span>
+<a href="shell-keyboard-shortcuts.html.ru" title="Полезные комбинации клавиш">Полезные комбинации клавиш</a><span class="desc"> — Управление рабочим столом с помощью клавиатуры.</span>
 </li>
 <li class="links ">
-<a href="numeric-keypad.html" title="Цифровой блок">Цифровой блок</a><span class="desc"> — Сделайте цифровой блок клавиатуры включенным по умолчанию.</span>
+<a href="numeric-keypad.html.ru" title="Цифровой блок">Цифровой блок</a><span class="desc"> — Сделайте цифровой блок клавиатуры включенным по умолчанию.</span>
 </li>
 </ul></div>
 </div></div>
@@ -113,10 +113,10 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html" title="Оборудование и драйверы">Оборудование и драйверы</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Типичные проблемы">Неполадки оборудования</a></span>, <span class="link"><a href="printing.html" title="Печать">принтеры</a></span>, <span class="link"><a href="power.html" title="Питание и аккумулятор">параметры питания</a></span>, <span class="link"><a href="color.html" title="Управление цветом">управление цветом</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Диски и другие устройства хранения информации">диски</a></span>…</span>
+<a href="hardware.html.ru" title="Оборудование и драйверы">Оборудование и драйверы</a><span class="desc"> — <span class="link"><a href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки оборудования</a></span>, <span class="link"><a href="printing.html.ru" title="Печать">принтеры</a></span>, <span class="link"><a href="power.html.ru" title="Питание и аккумулятор">параметры питания</a></span>, <span class="link"><a href="color.html.ru" title="Управление цветом">управление цветом</a></span>, <span class="link"><a href="bluetooth.html.ru" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.ru" title="Диски и другие устройства хранения информации">диски</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs.html" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
+<a href="prefs.html.ru" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html.ru" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html.ru" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html.ru" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html.ru" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

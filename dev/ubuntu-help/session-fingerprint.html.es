@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="hardware-auth.html" title="Huellas dactilares y tarjetas inteligentes">Huellas dactilares y tarjetas inteligentes</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="hardware-auth.html.es" title="Huellas dactilares y tarjetas inteligentes">Huellas dactilares y tarjetas inteligentes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Iniciar sesión con una huella dactilar</span></h1></div>
@@ -54,9 +54,9 @@
 <div class="region"><div class="contents">
 <p class="p">Antes de poder iniciar sesión con su huella dactilar, debe grabarla para que el sistema le pueda identificar.</p>
 <div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Si su dedo está demasiado seco, puede que tenga dificultad para registrar su huella dactilar. Si esto sucede, humedezca ligeramente el dedo, séquelo con un paño limpio y sin pelusa, y vuelva a intentarlo.</p></div></div></div></div>
-<p class="p">Necesita <span class="link"><a href="user-admin-explain.html" title="¿Cómo funcionan los privilegios de administrador?">privilegios de administrador</a></span> para editar cuentas de usuarios que no sean la suya propia.</p>
+<p class="p">Necesita <span class="link"><a href="user-admin-explain.html.es" title="¿Cómo funcionan los privilegios de administrador?">privilegios de administrador</a></span> para editar cuentas de usuarios que no sean la suya propia.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Usuarios</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Usuarios</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Usuarios</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Desactivado</span> junto a <span class="gui">Iniciar sesión con la huella dactilar</span> para añadir una huella dactilar a la cuenta seleccionada. Si está añadiendo la huella para otro usuario, primero deberá <span class="gui">Desbloquear</span> el panel.</p></li>
 <li class="steps"><p class="p">Seleccione el dedo que quiere usar para la huella dactilar y pulse <span class="gui">Siguiente</span>.</p></li>
@@ -70,7 +70,7 @@
 <div class="region"><div class="contents">
 <p class="p">Ahora compruebe que funciona su nuevo inicio de sesión con huella dactilar. Si registra una huella dactilar, todavía tiene la opción de iniciar sesión con su contraseña.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Guarde cualquier trabajo que tenga abierto y <span class="link"><a href="shell-exit.html" title="Cerrar la sesión, apagar o cambiar de usuario">cierre la sesión</a></span>.</p></li>
+<li class="steps"><p class="p">Guarde cualquier trabajo que tenga abierto y <span class="link"><a href="shell-exit.html.es" title="Cerrar la sesión, apagar o cambiar de usuario">cierre la sesión</a></span>.</p></li>
 <li class="steps"><p class="p">En la pantalla de inicio de sesión, seleccione su nombre de usuario de la lista. Aparecerá el formulario de entrada de contraseña.</p></li>
 <li class="steps"><p class="p">En lugar de escribir su contraseña, debería poder deslizar el dedo por el lector de huella digital.</p></li>
 </ol></div></div></div>
@@ -81,7 +81,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-auth.html" title="Huellas dactilares y tarjetas inteligentes">Huellas dactilares y tarjetas inteligentes</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html" title="Iniciar sesión con una huella dactilar">Lectores de huellas digitales</a></span>, tarjetas inteligentes…</span>
+<a href="hardware-auth.html.es" title="Huellas dactilares y tarjetas inteligentes">Huellas dactilares y tarjetas inteligentes</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html.es" title="Iniciar sesión con una huella dactilar">Lectores de huellas digitales</a></span>, tarjetas inteligentes…</span>
 </li></ul></div>
 </div></div></div>
 </div>

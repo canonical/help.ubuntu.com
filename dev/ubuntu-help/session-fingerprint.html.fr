@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="hardware-auth.html" title="Empreintes et cartes à puce">Empreintes et cartes à puce</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="hardware-auth.html.fr" title="Empreintes et cartes à puce">Empreintes et cartes à puce</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Connexion avec une empreinte digitale</span></h1></div>
@@ -54,9 +54,9 @@
 <div class="region"><div class="contents">
 <p class="p">Avant de pouvoir vous connecter avec une empreinte digitale, vous devez l'enregistrer pour que le système puisse ensuite l'utiliser pour vous identifier.</p>
 <div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">Si votre doigt est trop sec, vous pouvez avoir des difficultés pour enregistrer votre empreinte digitale. Si cela arrive, humidifiez légèrement votre doigt, séchez-le avec un chiffon propre et non pelucheux et réessayez.</p></div></div></div></div>
-<p class="p"><span class="link"><a href="user-admin-explain.html" title="Comment les privilèges administrateur fonctionnent-ils ?">Les privilèges administrateurs</a></span> sont requis pour modifier des comptes utilisateurs autres que le votre.</p>
+<p class="p"><span class="link"><a href="user-admin-explain.html.fr" title="Comment les privilèges administrateur fonctionnent-ils ?">Les privilèges administrateurs</a></span> sont requis pour modifier des comptes utilisateurs autres que le votre.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Users</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Utilisateurs</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Appuyez sur <span class="gui">Désactivé</span>, à côté de <span class="gui">Connexion par empreinte digitale</span> pour pouvoir ajouter une empreinte au compte sélectionné. Si vous agissez pour le compte d'autres utilisateurs, vous devez d'abord <span class="gui">Déverrouiller</span> le panneau.</p></li>
@@ -71,7 +71,7 @@
 <div class="region"><div class="contents">
 <p class="p">Maintenant vérifiez que votre nouvelle connexion par empreinte digitale fonctionne. Bien que vous ayez enregistré une empreinte digitale, vous avez toutefois la possibilité de vous connecter avec votre mot de passe.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Enregistrez tout vos travaux en cours et <span class="link"><a href="shell-exit.html#logout" title="Déconnexion ou changement d'utilisateur">déconnectez-vous</a></span>.</p></li>
+<li class="steps"><p class="p">Enregistrez tout vos travaux en cours et <span class="link"><a href="shell-exit.html.fr#logout" title="Déconnexion ou changement d'utilisateur">déconnectez-vous</a></span>.</p></li>
 <li class="steps"><p class="p">À l'écran de connexion, sélectionnez votre nom dans la liste. La fenêtre de saisie du mot de passe apparaît.</p></li>
 <li class="steps"><p class="p">Au lieu de saisir votre mot de passe, frottez votre doigt sur le lecteur d'empreintes.</p></li>
 </ol></div></div></div>
@@ -82,7 +82,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-auth.html" title="Empreintes et cartes à puce">Empreintes et cartes à puce</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html" title="Connexion avec une empreinte digitale">Lecteurs d'empreintes</a></span>, cartes à puce…</span>
+<a href="hardware-auth.html.fr" title="Empreintes et cartes à puce">Empreintes et cartes à puce</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html.fr" title="Connexion avec une empreinte digitale">Lecteurs d'empreintes</a></span>, cartes à puce…</span>
 </li></ul></div>
 </div></div></div>
 </div>

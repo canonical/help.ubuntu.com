@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="prefs-language.html" title="ప్రాంతం &amp; భాష">ప్రాంతం &amp; భాష</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.te" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="prefs-language.html.te" title="ప్రాంతం &amp; భాష">ప్రాంతం &amp; భాష</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Change which language you use</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">You can use your desktop and applications in any of dozens of languages,
   provided you have the proper language packs installed on your computer.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.te#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p"><span class="gui">భాష</span> నొక్కండి.</p></li>
@@ -84,13 +84,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="ప్రాంతం &amp; భాష">ప్రాంతం &amp; భాష</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Change which language you use">భాష</a></span>, <span class="link"><a href="session-formats.html" title="Change date and measurement formats">ప్రాంతం మరియు ఆకృతులు</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">కీబోర్డు నమూనాలు</a></span>…</span>
+<a href="prefs-language.html.te" title="ప్రాంతం &amp; భాష">ప్రాంతం &amp; భాష</a><span class="desc"> — <span class="link"><a href="session-language.html.te" title="Change which language you use">భాష</a></span>, <span class="link"><a href="session-formats.html.te" title="Change date and measurement formats">ప్రాంతం మరియు ఆకృతులు</a></span>, <span class="link"><a href="keyboard-layouts.html.te" title="Use alternative keyboard layouts">కీబోర్డు నమూనాలు</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ఇవి కూడా చూడండి</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-formats.html" title="Change date and measurement formats">Change date and measurement formats</a><span class="desc"> — Choose a region used for date and time, numbers, currency,
+<a href="session-formats.html.te" title="Change date and measurement formats">Change date and measurement formats</a><span class="desc"> — Choose a region used for date and time, numbers, currency,
     and measurement.</span>
 </li></ul></div>
 </div></div>

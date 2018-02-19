@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="mouse.html" title="Egér">Egér</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="mouse.html.hu" title="Egér">Egér</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="mouse.html" title="Egér">Egér</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="mouse.html.hu" title="Egér">Egér</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Akadálymentesítés">Akadálymentesítés</a> › <a class="trail" href="a11y.html#mobility" title="Mozgássérültség">Mozgássérültség</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.hu" title="Akadálymentesítés">Akadálymentesítés</a> › <a class="trail" href="a11y.html.hu#mobility" title="Mozgássérültség">Mozgássérültség</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">A jobb egérgombbal való kattintást a bal egérgomb lenyomva tartásával is helyettesítheti. Ez akkor hasznos, ha nehezen mozgatja ujjait az egyik kezén, vagy ha mutatóeszközének csak egy gombja van.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni az <span class="gui">Akadálymentesítés</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni az <span class="gui">Akadálymentesítés</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Akadálymentesítés</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Nyomja meg a <span class="gui">Kattintássegéd</span> gombot a <span class="gui">Mutatás és kattintás</span> szakaszban.</p></li>
 <li class="steps"><p class="p">Kapcsolja <span class="gui">BE</span> a <span class="gui">Szimulált másodlagos kattintást</span>.</p></li>
@@ -65,7 +65,7 @@
 <p class="p">Megváltoztathatja, hogy meddig kell lenyomva tartani a bal egérgombot a jobb kattintásként való érzékeléshez az <span class="gui">Elfogadás késleltetése</span> beállítás módosításával.</p>
 <p class="p">A szimulált másodlagos kattintással végzett jobb kattintáshoz tartsa lenyomva a bal egérgombot ott, ahova kattintani szeretne, majd engedje fel a gombot. A bal egérgomb nyomva tartása során a mutató feltöltődik egy másik színnel. Amikor teljesen megváltozott a színe, engedje fel az egérgombot a jobb gombos kattintáshoz.</p>
 <p class="p">Egyes speciális mutatók, mint az átméretezési mutatók nem változtatják meg színüket. A szimulált másodlagos kattintást ugyanúgy használhatja, még ha nem is kap vizuális visszajelzést a mutatótól.</p>
-<p class="p">Ha az <span class="link"><a href="mouse-mousekeys.html" title="Az egérmutató mozgatása és kattintás a numerikus billentyűzettel">egérbillentyűket</a></span> használja, akkor az lehetővé teszi a jobb gombos kattintást a numerikus billentyűzet <span class="key"><kbd>5</kbd></span>-ös billentyűjének lenyomva tartásával is.</p>
+<p class="p">Ha az <span class="link"><a href="mouse-mousekeys.html.hu" title="Az egérmutató mozgatása és kattintás a numerikus billentyűzettel">egérbillentyűket</a></span> használja, akkor az lehetővé teszi a jobb gombos kattintást a numerikus billentyűzet <span class="key"><kbd>5</kbd></span>-ös billentyűjének lenyomva tartásával is.</p>
 <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">A <span class="gui">Tevékenységek</span> áttekintésben mindig használhatja a hosszú kattintást a jobb kattintás végrehajtására, még ha ez a szolgáltatás le is van tiltva. A hosszú kattintás az áttekintésben kicsit másként működik: nem kell felengednie a gombot a jobb kattintáshoz.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -74,9 +74,9 @@
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse.html" title="Egér">Egér</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Bal kezes egér használata">Balkezes</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Az egér és érintőtábla sebességének módosítása">sebesség és érzékenység</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Kattintás, húzás vagy görgetés az érintőtáblával">kattintás és görgetés az érintőtáblával</a></span>…</span>
+<a href="mouse.html.hu" title="Egér">Egér</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.hu" title="Bal kezes egér használata">Balkezes</a></span>, <span class="link"><a href="mouse-sensitivity.html.hu" title="Az egér és érintőtábla sebességének módosítása">sebesség és érzékenység</a></span>, <span class="link"><a href="mouse-touchpad-click.html.hu" title="Kattintás, húzás vagy görgetés az érintőtáblával">kattintás és görgetés az érintőtáblával</a></span>…</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Mozgássérültség">Mozgássérültség</a></li>
+<li class="links "><a href="a11y.html.hu#mobility" title="Mozgássérültség">Mozgássérültség</a></li>
 </ul></div>
 </div></div></div>
 </div>

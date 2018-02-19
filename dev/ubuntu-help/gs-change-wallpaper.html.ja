@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="初めて使う方へ">GNOME を初めて使う方へ</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.ja" title="初めて使う方へ">GNOME を初めて使う方へ</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="日付、時刻、タイムゾーンを変更する">前へ</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.ja" title="日付、時刻、タイムゾーンを変更する">前へ</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">壁紙を変更する</span></h1></div>
 <div class="region">
 <div class="contents"><div class="ui-tile ">
@@ -70,7 +70,7 @@
 <div id="change-wallpaper-overview" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">壁紙を変更する</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">トップバー右側の<span class="gui"><a href="shell-introduction.html#yourname" title="あなた、およびお使いのコンピューターについて">システムメニュー</a></span>を開きます。</p></li>
+<li class="steps"><p class="p">トップバー右側の<span class="gui"><a href="shell-introduction.html.ja#yourname" title="あなた、およびお使いのコンピューターについて">システムメニュー</a></span>を開きます。</p></li>
 <li class="steps"><p class="p">メニュー左下の設定ボタンを押します。</p></li>
 <li class="steps"><p class="p"><span class="gui">背景</span>パネルを選択します。</p></li>
 <li class="steps"><p class="p"><span class="gui">背景</span>ウィンドウ左側に表示される、現在使用している壁紙の画像をクリックします。</p></li>
@@ -79,20 +79,20 @@
 <li class="steps"><p class="p">ウィンドウ右上隅の閉じるボタンを押して<span class="gui">背景</span>ウィンドウを閉じます。</p></li>
 </ol></div></div></div></div></div>
 </div></div>
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="日付、時刻、タイムゾーンを変更する">前へ</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.ja" title="日付、時刻、タイムゾーンを変更する">前へ</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="初めて使う方へ">GNOME を初めて使う方へ</a><span class="desc"> — GNOME は初めてですか? 使い方を一通り身に付けられます。</span>
+<a href="getting-started.html.ja" title="初めて使う方へ">GNOME を初めて使う方へ</a><span class="desc"> — GNOME は初めてですか? 使い方を一通り身に付けられます。</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-background.html" title="Change the desktop and lock screen backgrounds">Change the desktop and lock screen backgrounds</a><span class="desc"> — Set an image, color, or gradient as your desktop background or lock
+<a href="look-background.html.ja" title="Change the desktop and lock screen backgrounds">Change the desktop and lock screen backgrounds</a><span class="desc"> — Set an image, color, or gradient as your desktop background or lock
     screen background.</span>
 </li></ul></div>
 </div></div>

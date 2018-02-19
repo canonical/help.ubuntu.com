@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html#apps" title="Aplikace a okna">Aplikace a okna</a> » <a class="trail" href="shell-windows.html" title="Okna a pracovní plochy">Okna a pracovní plochy</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Práce s pracovními plochami">Pracovní plochy</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.cs" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html.cs#apps" title="Aplikace a okna">Aplikace a okna</a> » <a class="trail" href="shell-windows.html.cs" title="Okna a pracovní plochy">Okna a pracovní plochy</a> › <a class="trail" href="shell-windows.html.cs#working-with-workspaces" title="Práce s pracovními plochami">Pracovní plochy</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Co je to pracovní plocha a co mi přinese?</span></h1></div>
@@ -54,7 +54,7 @@
 <p class="p">Pracovní plochy můžete používat k zorganizování své práce. Například můžete mít všechna své aplikace pro komunikaci, jako je e-mail nebo rychlá komunikace, na jedné ploše a práci, na které zrovna děláte, na další ploše. Aplikace přehrávající hudbu může být na třetí ploše.</p>
 <p class="p">Používání pracovních ploch:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">V přehledu <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činností</a></span> najeďte ukazatelem myši k úplně pravému okraji obrazovky.</p></li>
+<li class="list"><p class="p">V přehledu <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činností</a></span> najeďte ukazatelem myši k úplně pravému okraji obrazovky.</p></li>
 <li class="list"><p class="p">Objeví se svislý panel zobrazující používané pracovní plochy plus jednu prázdnou pracovní plochu. Jedná se o volič pracovních ploch.</p></li>
 <li class="list"><p class="p">Když chcete přidat další pracovní plochu, přetáhněte okno ze stávající pracovní plochy na prázdnou ve voliči pracovních ploch. Tato pracovní plocha nyní bude obsahovat okno, které jste přetáhli, a pod ní se objeví nová pracovní plocha.</p></li>
 <li class="list"><p class="p">Když chcete odebrat pracovní plochu, jednoduše zavřete všechna okna na ní nebo je přesuňte na jinou pracovní plochu.</p></li>
@@ -66,16 +66,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Práce s pracovními plochami">Práce s pracovními plochami</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.cs#working-with-workspaces" title="Práce s pracovními plochami">Práce s pracovními plochami</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-workspaces-switch.html" title="Přepínání mezi pracovními plochami">Přepínání mezi pracovními plochami</a><span class="desc"> — Jak používat volič pracovních ploch.</span>
+<a href="shell-workspaces-switch.html.cs" title="Přepínání mezi pracovními plochami">Přepínání mezi pracovními plochami</a><span class="desc"> — Jak používat volič pracovních ploch.</span>
 </li>
 <li class="links ">
-<a href="shell-workspaces-movewindow.html" title="Přesun okna na jinou pracovní plochu">Přesun okna na jinou pracovní plochu</a><span class="desc"> — Jděte do přehledu <span class="gui">Činností</span> a přetáhněte okno na jinou pracovní plochu.</span>
+<a href="shell-workspaces-movewindow.html.cs" title="Přesun okna na jinou pracovní plochu">Přesun okna na jinou pracovní plochu</a><span class="desc"> — Jděte do přehledu <span class="gui">Činností</span> a přetáhněte okno na jinou pracovní plochu.</span>
 </li>
 </ul></div>
 </div></div>

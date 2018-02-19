@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Aan de slag">Aan de slag met Gnome</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="Gebruik de systeemzoekfunctie">Vorige</a><a class="nextlinks-next" href="gs-browse-web.html" title="Surfen op het web">Volgende</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.nl" title="Gebruik de systeemzoekfunctie">Vorige</a><a class="nextlinks-next" href="gs-browse-web.html.nl" title="Surfen op het web">Volgende</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Online gaan</span></h1></div>
 <div class="region">
@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Om verbinding te maken met een wifi (draadloos) netwerk:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klik op het <span class="gui"><a href="shell-introduction.html#yourname" title="U en uw computer">systeemmenu</a></span> aan de rechterkant van de bovenste balk.</p></li>
+<li class="steps"><p class="p">Klik op het <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">systeemmenu</a></span> aan de rechterkant van de bovenste balk.</p></li>
 <li class="steps"><p class="p">Selecteer <span class="gui">Wifi niet verbonden</span>. Het wifi-gedeelte van het menu zal uitgeklapt worden.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Netwerk selecteren</span></p></li>
 </ol></div>
@@ -88,7 +88,7 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="Gebruik de systeemzoekfunctie">Vorige</a><a class="nextlinks-next" href="gs-browse-web.html" title="Surfen op het web">Volgende</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.nl" title="Gebruik de systeemzoekfunctie">Vorige</a><a class="nextlinks-next" href="gs-browse-web.html.nl" title="Surfen op het web">Volgende</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -96,18 +96,18 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Aan de slag">Aan de slag met Gnome</a><span class="desc"> — Nieuw bij Gnome? Leer hoe u het onder de knie krijgt.</span>
+<a href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a><span class="desc"> — Nieuw bij Gnome? Leer hoe u het onder de knie krijgt.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Draadloos netwerk">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Bekabeld netwerk">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Netwerkproblemen">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Webbrowsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="E mail &amp; e-mailsoftware">email accounts</a></span>…
+<a href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html.nl" title="Draadloos netwerk">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html.nl" title="Bekabeld netwerk">wired</a></span>,
+      <span class="link"><a href="net-problem.html.nl" title="Netwerkproblemen">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html.nl" title="Webbrowsers">web browsing</a></span>,
+      <span class="link"><a href="net-email.html.nl" title="E mail &amp; e-mailsoftware">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div>

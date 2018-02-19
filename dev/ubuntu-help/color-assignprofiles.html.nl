@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html" title="Kleurbeheer">Kleurbeheer</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Misschien wilt u een kleurprofiel toewijzen voor uw scherm of printer, zodat de kleuren die ermee getoond worden nauwkeuriger zijn.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Kleur</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Kleur</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Kleur</span> om het venster te openen.</p></li>
 <li class="steps"><p class="p">Selecteer het apparaat waarvoor u een profiel wilt toevoegen.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Profiel toevoegen</span> om een bestaand profiel te selecteren of een nieuw profiel te importeren.</p></li>
@@ -70,20 +70,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html" title="Kleurbeheer">Kleurbeheer</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html" title="Waarom is kleurbeheer belangrijk?">Waarom is dit belangrijk</a></span>, <span class="link"><a href="color.html#profiles" title="Kleurprofielen">Kleurprofielen</a></span>, <span class="link"><a href="color.html#calibration" title="Kalibratie">Hoe kan ik een apparaat kalibreren</a></span>…</span>
+<a href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.nl" title="Waarom is kleurbeheer belangrijk?">Waarom is dit belangrijk</a></span>, <span class="link"><a href="color.html.nl#profiles" title="Kleurprofielen">Kleurprofielen</a></span>, <span class="link"><a href="color.html.nl#calibration" title="Kalibratie">Hoe kan ik een apparaat kalibreren</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-howtoimport.html" title="Hoe importeer ik kleurprofielen?">Hoe importeer ik  kleurprofielen?</a><span class="desc"> — Kleurprofielen kunnen geïmporteerd worden door ze te openen.</span>
+<a href="color-howtoimport.html.nl" title="Hoe importeer ik kleurprofielen?">Hoe importeer ik  kleurprofielen?</a><span class="desc"> — Kleurprofielen kunnen geïmporteerd worden door ze te openen.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Waarom moet ik zelf kalibreren?">Waarom moet ik zelf kalibreren?</a><span class="desc"> — Kalibreren is belangrijk als u geeft om de weergave of het afdrukken van kleuren.</span>
+<a href="color-why-calibrate.html.nl" title="Waarom moet ik zelf kalibreren?">Waarom moet ik zelf kalibreren?</a><span class="desc"> — Kalibreren is belangrijk als u geeft om de weergave of het afdrukken van kleuren.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Wat is een kleurprofiel?">Wat is een kleurprofiel?</a><span class="desc"> — Een kleurprofiel is een eenvoudig bestand dat een kleurruimte of de respons van een apparaat uitdrukt.</span>
+<a href="color-whatisprofile.html.nl" title="Wat is een kleurprofiel?">Wat is een kleurprofiel?</a><span class="desc"> — Een kleurprofiel is een eenvoudig bestand dat een kleurruimte of de respons van een apparaat uitdrukt.</span>
 </li>
 </ul></div>
 </div></div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-problem.html" title="Problemas de rede">Problemas de rede</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-problem.html.pt-BR" title="Problemas de rede">Problemas de rede</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-wireless.html" title="Rede sem fio">Rede sem fio</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-wireless.html.pt-BR" title="Rede sem fio">Rede sem fio</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,10 +55,10 @@
 <div class="contents">
 <p class="p">Há vários motivos para você não conseguir ver sua rede sem fio na lista de redes disponíveis no menu de sistema.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Se nenhuma rede é mostrada na lista, seu hardware de rede sem fio pode estar desligado ou ele <span class="link"><a href="net-wireless-troubleshooting.html" title="Solução de problemas de rede sem fio">pode não estar funcionando apropriadamente</a></span>. Certifique-se de que ele está ligado.</p></li>
+<li class="list"><p class="p">Se nenhuma rede é mostrada na lista, seu hardware de rede sem fio pode estar desligado ou ele <span class="link"><a href="net-wireless-troubleshooting.html.pt-BR" title="Solução de problemas de rede sem fio">pode não estar funcionando apropriadamente</a></span>. Certifique-se de que ele está ligado.</p></li>
 <li class="list"><p class="p">Você pode estar fora do alcance da rede. Tente mover para mais perto da estação base/roteador e veja se a rede aparece na lista após um pequeno tempo.</p></li>
 <li class="list"><p class="p">A lista de redes sem fio leva um tempo para atualizar. Se você acabou de ligar seu computador ou o moveu para uma localização diferente, espere um minuto ou mais e, então, verifique se a rede apareceu na lista.</p></li>
-<li class="list"><p class="p">A rede pode estar oculta. Você precisa <span class="link"><a href="net-wireless-hidden.html" title="Conectando a um rede sem fio oculta">conectar de uma forma diferente</a></span> se ela for uma rede oculta.</p></li>
+<li class="list"><p class="p">A rede pode estar oculta. Você precisa <span class="link"><a href="net-wireless-hidden.html.pt-BR" title="Conectando a um rede sem fio oculta">conectar de uma forma diferente</a></span> se ela for uma rede oculta.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -68,17 +68,17 @@
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html" title="Problemas de rede">Problemas de rede</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Solução de problemas de rede sem fio">Solucionando problemas de conexões de rede sem fio</a></span>, <span class="link"><a href="net-wireless-find.html" title="Eu não consigo ver minha rede sem fio na lista">encontrando sua rede wifi</a></span>…</span>
+<a href="net-problem.html.pt-BR" title="Problemas de rede">Problemas de rede</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.pt-BR" title="Solução de problemas de rede sem fio">Solucionando problemas de conexões de rede sem fio</a></span>, <span class="link"><a href="net-wireless-find.html.pt-BR" title="Eu não consigo ver minha rede sem fio na lista">encontrando sua rede wifi</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html" title="Rede sem fio">Rede sem fio</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Conectando a uma rede sem fio">Conectar-se a redes sem fio</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Conectando a um rede sem fio oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Por que minha conexão sem fio fica desconectando?">desconectando</a></span>…</span>
+<a href="net-wireless.html.pt-BR" title="Rede sem fio">Rede sem fio</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pt-BR" title="Conectando a uma rede sem fio">Conectar-se a redes sem fio</a></span>, <span class="link"><a href="net-wireless-hidden.html.pt-BR" title="Conectando a um rede sem fio oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pt-BR" title="Por que minha conexão sem fio fica desconectando?">desconectando</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-hidden.html" title="Conectando a um rede sem fio oculta">Conectando a um rede sem fio oculta</a><span class="desc"> — Conecte a uma rede sem fio que não é exibido na lista de rede.</span>
+<a href="net-wireless-hidden.html.pt-BR" title="Conectando a um rede sem fio oculta">Conectando a um rede sem fio oculta</a><span class="desc"> — Conecte a uma rede sem fio que não é exibido na lista de rede.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-general.html" title="Nätverkstermer &amp; -tips">Nätverkstermer &amp; -tips</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-general.html.sv" title="Nätverkstermer &amp; -tips">Nätverkstermer &amp; -tips</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vad är en IP-adress?</span></h1></div>
@@ -60,13 +60,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Nätverkstermer &amp; -tips">Nätverkstermer &amp; -tips</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Hitta din IP-adress">Hitta din IP-adress</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Vad betyder WEP och WPA?">WEP- &amp; WPA-säkerhet</a></span>, <span class="link"><a href="net-macaddress.html" title="Vad är en MAC-adress?">MAC-adresser</a></span>, <span class="link"><a href="net-proxy.html" title="Definiera proxyinställningar">proxyservrar</a></span>…</span>
+<a href="net-general.html.sv" title="Nätverkstermer &amp; -tips">Nätverkstermer &amp; -tips</a><span class="desc"> — <span class="link"><a href="net-findip.html.sv" title="Hitta din IP-adress">Hitta din IP-adress</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.sv" title="Vad betyder WEP och WPA?">WEP- &amp; WPA-säkerhet</a></span>, <span class="link"><a href="net-macaddress.html.sv" title="Vad är en MAC-adress?">MAC-adresser</a></span>, <span class="link"><a href="net-proxy.html.sv" title="Definiera proxyinställningar">proxyservrar</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-findip.html" title="Hitta din IP-adress">Hitta din IP-adress</a><span class="desc"> — Att känna till din IP-adress kan hjälpa dig upptäcka nätverksproblem.</span>
+<a href="net-findip.html.sv" title="Hitta din IP-adress">Hitta din IP-adress</a><span class="desc"> — Att känna till din IP-adress kan hjälpa dig upptäcka nätverksproblem.</span>
 </li></ul></div>
 </div></div>
 </div>

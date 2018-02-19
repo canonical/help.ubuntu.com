@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-display.html" title="Displej a obrazovka">Displej a obrazovka</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-display.html.cs" title="Displej a obrazovka">Displej a obrazovka</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Připojení dalšího monitoru k počítači</span></h1></div>
@@ -54,11 +54,11 @@
 <div class="region"><div class="contents">
 <p class="p">Když chcete nainstalovat další monitor, připojte jej k počítači. Pokud jej systém nerozpozná automaticky nebo si chcete nastavení přizpůsobit:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Displeje</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Displeje</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Displeje</span> otevřete příslušný panel.</p></li>
 <li class="steps">
 <p class="p">Klikněte na monitor, který chcete aktivovat nebo deaktivovat, pak v seznamu nastavení monitorů vyberte <span class="gui">Vypnout</span> pro jeho deaktivaci nebo <span class="gui">Hlavní</span>, <span class="gui">Vedlejší</span> nebo <span class="gui">Zrcadlený</span> pro jeho aktivaci.</p>
-<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Hlavní monitor je ten, který má <span class="link"><a href="shell-introduction.html" title="Úvod do GNOME">horní lištu</a></span> a na kterém se zobrazuje přehled <span class="gui">Činností</span>.</p></div></div></div></div>
+<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Hlavní monitor je ten, který má <span class="link"><a href="shell-introduction.html.cs" title="Úvod do GNOME">horní lištu</a></span> a na kterém se zobrazuje přehled <span class="gui">Činností</span>.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Ke změně otočení monitoru použijte tlačítka se šipkami tak, abyste viděli správně náhled.</p></li>
 <li class="steps"><p class="p">Až jste s nastavením spokojeni, klikněte na <span class="gui">Použít</span> a pak na <span class="gui">Zachovat změny</span>.</p></li>
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Displej a obrazovka">Displej a obrazovka</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Změna pozadí pracovní plochy a uzamknuté obrazovky">Pozadí</a></span>, <span class="link"><a href="look-resolution.html" title="Změna rozlišení nebo otočení obrazovky">velikost a otočení</a></span>, jas…</span>
+<a href="prefs-display.html.cs" title="Displej a obrazovka">Displej a obrazovka</a><span class="desc"> — <span class="link"><a href="look-background.html.cs" title="Změna pozadí pracovní plochy a uzamknuté obrazovky">Pozadí</a></span>, <span class="link"><a href="look-resolution.html.cs" title="Změna rozlišení nebo otočení obrazovky">velikost a otočení</a></span>, jas…</span>
 </li></ul></div>
 </div></div></div>
 </div>

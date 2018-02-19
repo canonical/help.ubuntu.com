@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="prefs-language.html" title="பகுதி &amp; மொழி">பகுதி &amp; மொழி</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="prefs-language.html.ta" title="பகுதி &amp; மொழி">பகுதி &amp; மொழி</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">தேதி மற்றும் அளவீட்டு வடிவமைப்புகளை மாற்றுதல்</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">நீங்கள் தேதிகள், நேரம், எண்கள், நாணயம் மற்றும் அளவீடுகளுக்குப் பயன்படுத்தப்படும் வடிவமைப்புகள் உங்கள் பகுதிக்கேற்ப மாற்றலாம்.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p"><span class="gui">பெரிதாக்கு</span> என்பதை இயக்கு என அமைக்கவும்.</p></li>
@@ -77,13 +77,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="பகுதி &amp; மொழி">பகுதி &amp; மொழி</a><span class="desc"> — <span class="link"><a href="session-language.html" title="பயன்படுத்த வேண்டிய மொழியை மாற்றுதல்">மொழி</a></span>, <span class="link"><a href="session-formats.html" title="தேதி மற்றும் அளவீட்டு வடிவமைப்புகளை மாற்றுதல்">பகுதி மற்றும் வடிவமைப்புகள்</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">விசைப்பலகை லேயவுட்டுகள்</a></span>…</span>
+<a href="prefs-language.html.ta" title="பகுதி &amp; மொழி">பகுதி &amp; மொழி</a><span class="desc"> — <span class="link"><a href="session-language.html.ta" title="பயன்படுத்த வேண்டிய மொழியை மாற்றுதல்">மொழி</a></span>, <span class="link"><a href="session-formats.html.ta" title="தேதி மற்றும் அளவீட்டு வடிவமைப்புகளை மாற்றுதல்">பகுதி மற்றும் வடிவமைப்புகள்</a></span>, <span class="link"><a href="keyboard-layouts.html.ta" title="Use alternative keyboard layouts">விசைப்பலகை லேயவுட்டுகள்</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-language.html" title="பயன்படுத்த வேண்டிய மொழியை மாற்றுதல்">பயன்படுத்த வேண்டிய மொழியை மாற்றுதல்</a><span class="desc"> — பயனர் இடைமுகம் மற்றும் உதவியின் மொழியை மாற்றுதல்.</span>
+<a href="session-language.html.ta" title="பயன்படுத்த வேண்டிய மொழியை மாற்றுதல்">பயன்படுத்த வேண்டிய மொழியை மாற்றுதல்</a><span class="desc"> — பயனர் இடைமுகம் மற்றும் உதவியின் மொழியை மாற்றுதல்.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html#backup" title="Резервное копирование">Резервное копирование</a> » <a class="trail" href="backup-why.html" title="Резервное копирование важных данных">Резервные копии</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ru" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html.ru#backup" title="Резервное копирование">Резервное копирование</a> » <a class="trail" href="backup-why.html.ru" title="Резервное копирование важных данных">Резервные копии</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Как создать резервную копию</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Простейший способ создания резервной копии файлов и настроек — использовать специальное приложение, которое сделает эту работу за вас. Существует много различных приложений для резервного копирования, например, <span class="app">Déjà Dup</span>.</p>
 <p class="p">Справка по выбранному вами приложению для резервного копирования проведёт вас через процесс настройки параметров создания резервной копии, а также расскажет, как восстановить ваши данные.</p>
-<p class="p">Альтернативный вариант — <span class="link"><a href="files-copy.html" title="Копирование и перемещение файлов и папок">скопировать свои данные</a></span> в безопасное место, например, внешний жёсткий диск, другой компьютер в сети или USB-носитель. Ваши <span class="link"><a href="backup-thinkabout.html" title="Где найти файлы, которые я хочу скопировать?">личные файлы</a></span> и настройки находятся в вашей домашней папке, так что вы можете скопировать их оттуда.</p>
+<p class="p">Альтернативный вариант — <span class="link"><a href="files-copy.html.ru" title="Копирование и перемещение файлов и папок">скопировать свои данные</a></span> в безопасное место, например, внешний жёсткий диск, другой компьютер в сети или USB-носитель. Ваши <span class="link"><a href="backup-thinkabout.html.ru" title="Где найти файлы, которые я хочу скопировать?">личные файлы</a></span> и настройки находятся в вашей домашней папке, так что вы можете скопировать их оттуда.</p>
 <p class="p">Количество данных, которые можно включить в резервную копию, ограничено вместимостью устройства хранения. Если на целевом устройстве достаточно свободного места, лучше скопировать домашнюю папку целиком со следующими исключениями:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Файлы, резервные копии которых уже имеются где-то ещё, например, на CD, DVD или других съёмных носителях.</p></li>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Резервное копирование важных данных">Резервное копирование важных данных</a><span class="desc"> — Зачем, что, куда и как копировать.</span>
+<a href="backup-why.html.ru" title="Резервное копирование важных данных">Резервное копирование важных данных</a><span class="desc"> — Зачем, что, куда и как копировать.</span>
 </li></ul></div>
 </div></div></div>
 </div>

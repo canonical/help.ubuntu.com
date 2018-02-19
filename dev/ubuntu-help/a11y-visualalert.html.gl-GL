@@ -43,34 +43,34 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="a11y.html" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html#sound" title="Deficiencias auditivas">Deficiencias auditivas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="a11y.html.gl-GL" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html.gl-GL#sound" title="Deficiencias auditivas">Deficiencias auditivas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mostrar unha alerta visual na pantalla nos sons de alerta</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">O seu computador reproducirá unha alerta sonora simple para certos tipos de mensaxes e eventos. Se cree que é molesto escoitar estes sons, pode facer que tanto a pantalla completa como a xanela actual pestanexen cando unha alerta de son se reproduza.</p>
-<p class="p">Isto pode ser útil se está nun ambiente onde precisa que o seu computador sexa silencioso, como nunha biblioteca. Vexa <span class="link"><a href="sound-alert.html" title="Seleccione ou desactive as alertas de son">Seleccione ou desactive as alertas de son</a></span> para aprender como silenciar as alertas de son e activar as alertas visuais.</p>
+<p class="p">Isto pode ser útil se está nun ambiente onde precisa que o seu computador sexa silencioso, como nunha biblioteca. Vexa <span class="link"><a href="sound-alert.html.gl-GL" title="Seleccione ou desactive as alertas de son">Seleccione ou desactive as alertas de son</a></span> para aprender como silenciar as alertas de son e activar as alertas visuais.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
 <li class="steps"><p class="p">Prema sobre <span class="gui">Acceso universal</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Abra <span class="gui">Alertas visuais</span> e seleccione a lapela <span class="gui">Audición</span>.</p></li>
 <li class="steps"><p class="p">Troque <span class="gui">Alertas visuais</span> a <span class="gui">I</span>.</p></li>
 <li class="steps"><p class="p">Seleccione se quere que a pantalla enteira ou só o título da xanela actual pestanexe.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Pode activar e desactivar rapidamente as alertas visuais premendo na <span class="link"><a href="a11y-icon.html" title="Atopar o menú de acceso universal">icona de accesibilidade</a></span> na barra superior e seleccionando <span class="gui">Alertas visuais</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Pode activar e desactivar rapidamente as alertas visuais premendo na <span class="link"><a href="a11y-icon.html.gl-GL" title="Atopar o menú de acceso universal">icona de accesibilidade</a></span> na barra superior e seleccionando <span class="gui">Alertas visuais</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#sound" title="Deficiencias auditivas">Deficiencias auditivas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.gl-GL#sound" title="Deficiencias auditivas">Deficiencias auditivas</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-alert.html" title="Seleccione ou desactive as alertas de son">Seleccione ou desactive as alertas de son</a><span class="desc"> — Elixa o son para reproducir as mensaxes, estabeleza o volume de alerta, ou desactive os sons de alerta.</span>
+<a href="sound-alert.html.gl-GL" title="Seleccione ou desactive as alertas de son">Seleccione ou desactive as alertas de son</a><span class="desc"> — Elixa o son para reproducir as mensaxes, estabeleza o volume de alerta, ou desactive os sons de alerta.</span>
 </li></ul></div>
 </div></div>
 </div>

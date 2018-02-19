@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comúns">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html" title="Problemas de pantalla">Problemas de pantalla</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html.gl-GL" title="Problemas de pantalla">Problemas de pantalla</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Por que parece que o que hai na miña pantalla está difuso ou pixelado?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Isto pode producirse porque a resolución da pantalla que definiu non é a máis axeitada para a súa pantalla.</p>
-<p class="p">To solve this, open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span>
+<p class="p">To solve this, open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span>
 overview and start typing <span class="gui">Displays</span>. Click on <span class="gui">Displays</span>
 to open the panel. Try some of the <span class="gui">Resolution</span> options and set the
 one that makes the screen look better.</p>
@@ -69,7 +69,7 @@ one that makes the screen look better.</p>
   cannot show the same window on both screens at once.</p>
 <p class="p">Para configurar cada pantalla e que cada unha teña a súa propia resolución:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Displays</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Displays</span> to open the panel.</p></li>
 <li class="steps"><p class="p">The displays should be listed as <span class="gui">Mirrored</span>. Select your main
@@ -86,13 +86,13 @@ one that makes the screen look better.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-problems-graphics.html" title="Problemas de pantalla">Problemas de pantalla</a><span class="desc"> — Resolución de problemas de pantalla e gráficos.</span>
+<a href="hardware-problems-graphics.html.gl-GL" title="Problemas de pantalla">Problemas de pantalla</a><span class="desc"> — Resolución de problemas de pantalla e gráficos.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-resolution.html" title="Change the resolution or rotation of the screen">Change the resolution or rotation of the screen</a><span class="desc"> — Cambiar a resolución da pantalla e a súa orientación (rotación).</span>
+<a href="look-resolution.html.gl-GL" title="Change the resolution or rotation of the screen">Change the resolution or rotation of the screen</a><span class="desc"> — Cambiar a resolución da pantalla e a súa orientación (rotación).</span>
 </li></ul></div>
 </div></div>
 </div>

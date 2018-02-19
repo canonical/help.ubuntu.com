@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#backup" title="Zálohování">Zálohování</a> » <a class="trail" href="backup-why.html" title="Záloha vašich důležitých souborů">Zálohy</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#backup" title="Zálohování">Zálohování</a> » <a class="trail" href="backup-why.html.cs" title="Záloha vašich důležitých souborů">Zálohy</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Co zálohovat</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Vaší prioritou by měla být záloha vašich <span class="link"><a href="backup-thinkabout.html" title="Kde mohu najít soubory, které chci zálohovat?">nejdůležitějších souborů</a></span> a souborů, které by bylo náročné vytvořit znovu. Zde jsou příklady seřazené od nejdůležitějších po méně důležité:</p>
+<p class="p">Vaší prioritou by měla být záloha vašich <span class="link"><a href="backup-thinkabout.html.cs" title="Kde mohu najít soubory, které chci zálohovat?">nejdůležitějších souborů</a></span> a souborů, které by bylo náročné vytvořit znovu. Zde jsou příklady seřazené od nejdůležitějších po méně důležité:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Vaše osobní soubory</dt>
 <dd class="terms"><p class="p">Mohou to být dokumenty, tabulky, e-maily, kalendářová data, finanční údaje, rodinné fotografie nebo jiné osobní soubory, které považujete za nenahraditelné.</p></dd>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Záloha vašich důležitých souborů">Záloha vašich důležitých souborů</a><span class="desc"> — Proč, co, kam a jak zálohovat.</span>
+<a href="backup-why.html.cs" title="Záloha vašich důležitých souborů">Záloha vašich důležitých souborů</a><span class="desc"> — Proč, co, kam a jak zálohovat.</span>
 </li></ul></div>
 </div></div></div>
 </div>

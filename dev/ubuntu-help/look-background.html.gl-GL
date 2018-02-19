@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="prefs-display.html" title="Pantalla e monitor">Pantalla e monitor</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="prefs-display.html.gl-GL" title="Pantalla e monitor">Pantalla e monitor</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Change the desktop and lock screen backgrounds</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can change the image used for your backgrounds or set it to a be a
+<p class="p">You can change the image used for your backgrounds or set it to be a
   solid color.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Background</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Background</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select the <span class="gui">Background</span> or <span class="gui">Lock Screen</span>.</p></li>
@@ -75,7 +75,7 @@
 </ul></div></div></div>
 </li>
 <li class="steps"><p class="p">As preferencias aplícanse inmediatamente</p></li>
-<li class="steps"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Trocar entre os espazos de traballo">Cambie a un espazo de traballo baleiro</a></span> para ver o escritorio completo.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.gl-GL" title="Trocar entre os espazos de traballo">Cambie a un espazo de traballo baleiro</a></span> para ver o escritorio completo.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -84,12 +84,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Pantalla e monitor">Pantalla e monitor</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Fondo</a></span>, <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">tamaño e rotación</a></span>, brillo…</span>
+<a href="prefs-display.html.gl-GL" title="Pantalla e monitor">Pantalla e monitor</a><span class="desc"> — <span class="link"><a href="look-background.html.gl-GL" title="Change the desktop and lock screen backgrounds">Fondo</a></span>, <span class="link"><a href="look-resolution.html.gl-GL" title="Change the resolution or rotation of the screen">tamaño e rotación</a></span>, brillo…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-change-wallpaper.html" title="Cambiar o fondo de pantalla">Un titorial sobre como cambiar o fondo de pantalla</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-change-wallpaper.html.gl-GL" title="Cambiar o fondo de pantalla">Un titorial sobre como cambiar o fondo de pantalla</a></li></ul></div>
 </div></div>
 </div>
 </div>

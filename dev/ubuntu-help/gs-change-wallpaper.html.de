@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Erste Schritte">Erste Schritte mit GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.de" title="Erste Schritte">Erste Schritte mit GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Datum, Uhrzeit und Zeitzone ändern">Zurück</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.de" title="Datum, Uhrzeit und Zeitzone ändern">Zurück</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">Bildschirmhintergrund ändern</span></h1></div>
 <div class="region">
 <div class="contents"><div class="ui-tile ">
@@ -67,7 +67,7 @@
 <div id="change-wallpaper-overview" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Bildschirmhintergrund ändern</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klicken Sie auf das <span class="gui"><a href="shell-introduction.html#yourname" title="Sie und Ihr Rechner">Systemmenü</a></span> auf der rechten Seite der oberen Leiste.</p></li>
+<li class="steps"><p class="p">Klicken Sie auf das <span class="gui"><a href="shell-introduction.html.de#yourname" title="Sie und Ihr Rechner">Systemmenü</a></span> auf der rechten Seite der oberen Leiste.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf den Einstellungen-Knopf im linken unteren Bereich des Menüs.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf die Leiste <span class="gui">Hintergrund</span>.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf Ihr aktuelles Hintergrundbild auf der linken Seite des <span class="gui">Hintergrund</span>-Fensters.</p></li>
@@ -76,20 +76,20 @@
 <li class="steps"><p class="p">Schließen Sie das <span class="gui">Hintergrund</span>-Fenster, indem Sie auf das Kreuz in der oberen rechten Ecke des Fensters klicken.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Datum, Uhrzeit und Zeitzone ändern">Zurück</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.de" title="Datum, Uhrzeit und Zeitzone ändern">Zurück</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Erste Schritte">Erste Schritte mit GNOME</a><span class="desc"> — Neu bei GNOME? Hier ist Ihr Einstieg.</span>
+<a href="getting-started.html.de" title="Erste Schritte">Erste Schritte mit GNOME</a><span class="desc"> — Neu bei GNOME? Hier ist Ihr Einstieg.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-background.html" title="Anpassen des Hintergrundes für den Schreibtisch und den Sperrbildschirm">Anpassen des Hintergrundes für den Schreibtisch und den Sperrbildschirm</a><span class="desc"> — So verwenden Sie ein Bild, eine Farbe oder einen Farbverlauf als Hintergrund des Schreibtischs oder Sperrbildschirms.</span>
+<a href="look-background.html.de" title="Anpassen des Hintergrundes für den Schreibtisch und den Sperrbildschirm">Anpassen des Hintergrundes für den Schreibtisch und den Sperrbildschirm</a><span class="desc"> — So verwenden Sie ein Bild, eine Farbe oder einen Farbverlauf als Hintergrund des Schreibtischs oder Sperrbildschirms.</span>
 </li></ul></div>
 </div></div>
 </div>

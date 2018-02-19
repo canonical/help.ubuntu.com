@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="clock.html" title="Датум и време">Датум и време</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="clock.html.sr" title="Датум и време">Датум и време</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Измените датум и време</span></h1></div>
@@ -51,20 +51,20 @@
 <div class="contents">
 <p class="p">Ако су приказани датум и време на горњој траци нетачни или у погрешном формату, можете да их измените:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Датум и време</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Датум и време</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Датум и време</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Ако сте <span class="gui">Самостални датум и време</span> подесили на <span class="gui">УКЉ.</span>, ваш датум и време би требало самостално да се освежи ако сте повезани на интернет. Да ручно освежите вашу временску зону, поставите ово на <span class="gui">ИСКЉ.</span>.</p></li>
 <li class="steps"><p class="p">Притисните на <span class="gui">Датум и време</span>, затим дотерајте време и датум.</p></li>
 <li class="steps"><p class="p">Можете да измените на који начин ће часовник бити приказан тако што ћете изабрати <span class="gui">24-часовни</span> или <span class="gui">12-часовни</span> (ПрП/ПоП) за <span class="gui">Запис времена</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Можете такође пожелети да <span class="link"><a href="clock-timezone.html" title="Измените временску зону">ручно подесите временску зону</a></span>.</p>
+<p class="p">Можете такође пожелети да <span class="link"><a href="clock-timezone.html.sr" title="Измените временску зону">ручно подесите временску зону</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Датум и време">Датум и време</a><span class="desc"> — <span class="link"><a href="clock-set.html" title="Измените датум и време">Подесите датум и време</a></span>, <span class="link"><a href="clock-world.html" title="Додај светски сат">светске сатове</a></span>, <span class="link"><a href="clock-timezone.html" title="Измените временску зону">временску зону</a></span>, <span class="link"><a href="clock-calendar.html" title="Састанци календара">календар и састанке</a></span>…</span>
+<a href="clock.html.sr" title="Датум и време">Датум и време</a><span class="desc"> — <span class="link"><a href="clock-set.html.sr" title="Измените датум и време">Подесите датум и време</a></span>, <span class="link"><a href="clock-world.html.sr" title="Додај светски сат">светске сатове</a></span>, <span class="link"><a href="clock-timezone.html.sr" title="Измените временску зону">временску зону</a></span>, <span class="link"><a href="clock-calendar.html.sr" title="Састанци календара">календар и састанке</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

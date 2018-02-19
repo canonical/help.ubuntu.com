@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="disk.html" title="Diskar och lagring">Diskar och lagring</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="disk.html.sv" title="Diskar och lagring">Diskar och lagring</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Testa din hårddisks prestanda</span></h1></div>
@@ -51,12 +51,12 @@
 <div class="contents">
 <p class="p">För att testa din hårddisks hastighet:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna <span class="app">Diskar</span> från översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>.</p></li>
+<li class="steps"><p class="p">Öppna <span class="app">Diskar</span> från översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>.</p></li>
 <li class="steps"><p class="p">Välj hårddisken från listan i den vänstra panelen.</p></li>
 <li class="steps"><p class="p">Klicka på menyknappen och välj <span class="gui">Prestandatesta disk…</span> från menyn.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Starta prestandatest…</span> och justera parametrarna <span class="gui">Överföringshastighet</span> och <span class="gui">Åtkomsttid</span> som önskas.</p></li>
 <li class="steps">
-<p class="p">Klicka på <span class="gui">Starta prestandatest</span> för att testa hur snabbt data kan läsas från disken. <span class="link"><a href="user-admin-explain.html" title="Hur fungerar administratörsbehörighet?">Administratörsbehörigheter</a></span> kan krävas. Mata in ditt lösenord eller lösenordet för den begärda administratörens konto.</p>
+<p class="p">Klicka på <span class="gui">Starta prestandatest</span> för att testa hur snabbt data kan läsas från disken. <span class="link"><a href="user-admin-explain.html.sv" title="Hur fungerar administratörsbehörighet?">Administratörsbehörigheter</a></span> kan krävas. Mata in ditt lösenord eller lösenordet för den begärda administratörens konto.</p>
 <div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Om <span class="gui">Utför skrivnings-prestandatest</span> är ikryssat så kommer prestandatestet att testa hur snabbt data kan läsas från och skrivas till disken. Detta kommer att ta längre tid att slutföra.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Diskar och lagring">Diskar och lagring</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Kontrollera hur mycket diskutrymme som finns kvar">Diskutrymme</a></span>, <span class="link"><a href="disk-benchmark.html" title="Testa din hårddisks prestanda">prestanda</a></span>, <span class="link"><a href="disk-check.html" title="Kontrollera din hårddisk efter problem">problem</a></span>, <span class="link"><a href="disk-partitions.html" title="Hantera volymer och partitioner">volymer och partitioner</a></span>…</span>
+<a href="disk.html.sv" title="Diskar och lagring">Diskar och lagring</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.sv" title="Kontrollera hur mycket diskutrymme som finns kvar">Diskutrymme</a></span>, <span class="link"><a href="disk-benchmark.html.sv" title="Testa din hårddisks prestanda">prestanda</a></span>, <span class="link"><a href="disk-check.html.sv" title="Kontrollera din hårddisk efter problem">problem</a></span>, <span class="link"><a href="disk-partitions.html.sv" title="Hantera volymer och partitioner">volymer och partitioner</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

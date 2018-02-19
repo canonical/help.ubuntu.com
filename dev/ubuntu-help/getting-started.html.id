@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Memulai</span></h1></div>
@@ -109,20 +109,20 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links title-heading"><h2><span class="title">Tugas Umum</span></h2></div>
 <div class="region">
-<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html" title="Jelajah web">Jelajah web</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html" title="Memakai jendela dan area kerja">Memakai jendela dan area kerja</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html" title="Memakai pencarian sistem">Memakai pencarian sistem</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html" title="Mengubah tanggal, waktu, dan zona waktu">Mengubah tanggal, waktu, dan zona waktu</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html" title="Menyambung ke akun daring">Menyambung ke akun daring</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html" title="Ubah gambar latar">Ubah gambar latar</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html" title="Berganti tugas">Berganti tugas</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html" title="Meluncurkan aplikasi">Meluncurkan aplikasi</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html" title="Menuju daring">Menuju daring</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html.id" title="Jelajah web">Jelajah web</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html.id" title="Memakai jendela dan area kerja">Memakai jendela dan area kerja</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html.id" title="Memakai pencarian sistem">Memakai pencarian sistem</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html.id" title="Mengubah tanggal, waktu, dan zona waktu">Mengubah tanggal, waktu, dan zona waktu</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html.id" title="Menyambung ke akun daring">Menyambung ke akun daring</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html.id" title="Ubah gambar latar">Ubah gambar latar</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html.id" title="Berganti tugas">Berganti tugas</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html.id" title="Meluncurkan aplikasi">Meluncurkan aplikasi</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html.id" title="Menuju daring">Menuju daring</a></div></div>
 </div>
 </div></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title title-links"><h2><span class="title"></span></h2></div>
-<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html" title="Panduan Desktop Ubuntu">Panduan Desktop Ubuntu</a></div></li></ul></div>
+<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html.id" title="Panduan Desktop Ubuntu">Panduan Desktop Ubuntu</a></div></li></ul></div>
 </div></div>
 </div></div>
 <div class="clear"></div>

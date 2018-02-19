@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="color.html" title="Gerenciamento de cores">Gerenciamento de cores</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="color.html.pt-BR" title="Gerenciamento de cores">Gerenciamento de cores</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Gerenciamento de cores">Gerenciamento de cores</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="color.html.pt-BR" title="Gerenciamento de cores">Gerenciamento de cores</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Você pode querer atribuir um perfil de cores para sua tela ou impressora de forma que as cores que ela mostra são mais precisas.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Cor</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Cor</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Cor</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione o dispositivo para o qual você deseja adicionar um perfil.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Adicionar perfil</span> para selecionar um perfil existente ou importar um novo perfil.</p></li>
@@ -70,20 +70,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html" title="Gerenciamento de cores">Gerenciamento de cores</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html" title="Por que o gerenciamento de cores é importante?">Por que é importante</a></span>, <span class="link"><a href="color.html#profiles" title="Perfis de cores">perfis de cores</a></span>, <span class="link"><a href="color.html#calibration" title="Calibração">como calibrar um dispositivo</a></span>…</span>
+<a href="color.html.pt-BR" title="Gerenciamento de cores">Gerenciamento de cores</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.pt-BR" title="Por que o gerenciamento de cores é importante?">Por que é importante</a></span>, <span class="link"><a href="color.html.pt-BR#profiles" title="Perfis de cores">perfis de cores</a></span>, <span class="link"><a href="color.html.pt-BR#calibration" title="Calibração">como calibrar um dispositivo</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-howtoimport.html" title="Como importo perfis de cores?">Como importo perfis de cores?</a><span class="desc"> — Perfis de cores podem ser importados abrindo-os.</span>
+<a href="color-howtoimport.html.pt-BR" title="Como importo perfis de cores?">Como importo perfis de cores?</a><span class="desc"> — Perfis de cores podem ser importados abrindo-os.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="O que é um perfil de cores?">O que é um perfil de cores?</a><span class="desc"> — Um perfil de cores é um arquivo simples, que expressa um espaço de cores ou a resposta de um dispositivo.</span>
+<a href="color-whatisprofile.html.pt-BR" title="O que é um perfil de cores?">O que é um perfil de cores?</a><span class="desc"> — Um perfil de cores é um arquivo simples, que expressa um espaço de cores ou a resposta de um dispositivo.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Por que eu mesmo preciso calibrar?">Por que eu mesmo preciso calibrar?</a><span class="desc"> — Calibrar é importante se você se preocupa com as cores que você exibe ou imprime.</span>
+<a href="color-why-calibrate.html.pt-BR" title="Por que eu mesmo preciso calibrar?">Por que eu mesmo preciso calibrar?</a><span class="desc"> — Calibrar é importante se você se preocupa com as cores que você exibe ou imprime.</span>
 </li>
 </ul></div>
 </div></div>

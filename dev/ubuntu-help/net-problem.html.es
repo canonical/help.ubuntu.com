@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problemas de red</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="No puedo ver mi red inalámbrica en la lista"><span class="title">No puedo ver mi red inalámbrica en la lista</span><span class="linkdiv-dash"> — </span><span class="desc">El hardware inalámbrico puede estar apagado o roto, o puede estar intentando conectarse a una red oculta.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="Otros usuarios no pueden conectar a Internet"><span class="title">Otros usuarios no pueden conectar a Internet</span><span class="linkdiv-dash"> — </span><span class="desc">Puede guardar la configuración (ej.: la contraseña) de una conexión inalámbrica para que cualquiera que use el equipo pueda conectarse a ella.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="Otros usuarios no pueden editar las conexiones de red"><span class="title">Otros usuarios no pueden editar las conexiones de red</span><span class="linkdiv-dash"> — </span><span class="desc">Debe desmarcar la opción <span class="gui">Disponible para todos los usuarios</span> en la configuración de la conexión.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html.es" title="No puedo ver mi red inalámbrica en la lista"><span class="title">No puedo ver mi red inalámbrica en la lista</span><span class="linkdiv-dash"> — </span><span class="desc">El hardware inalámbrico puede estar apagado o roto, o puede estar intentando conectarse a una red oculta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html.es" title="Otros usuarios no pueden conectar a Internet"><span class="title">Otros usuarios no pueden conectar a Internet</span><span class="linkdiv-dash"> — </span><span class="desc">Puede guardar la configuración (ej.: la contraseña) de una conexión inalámbrica para que cualquiera que use el equipo pueda conectarse a ella.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html.es" title="Otros usuarios no pueden editar las conexiones de red"><span class="title">Otros usuarios no pueden editar las conexiones de red</span><span class="linkdiv-dash"> — </span><span class="desc">Debe desmarcar la opción <span class="gui">Disponible para todos los usuarios</span> en la configuración de la conexión.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-slow.html" title="Parece que Internet va lento"><span class="title">Parece que Internet va lento</span><span class="linkdiv-dash"> — </span><span class="desc">Puede que se estén descargando otras cosas, que tenga una conexión pobre o incluso puede ser la hora del día.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="¿Por qué mi red inalámbrica permanece desconectada?"><span class="title">¿Por qué mi red inalámbrica permanece desconectada?</span><span class="linkdiv-dash"> — </span><span class="desc">Es posible que tenga baja señal, o la red podría ser la que no le permite conectar correctamente.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-slow.html.es" title="Parece que Internet va lento"><span class="title">Parece que Internet va lento</span><span class="linkdiv-dash"> — </span><span class="desc">Puede que se estén descargando otras cosas, que tenga una conexión pobre o incluso puede ser la hora del día.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html.es" title="¿Por qué mi red inalámbrica permanece desconectada?"><span class="title">¿Por qué mi red inalámbrica permanece desconectada?</span><span class="linkdiv-dash"> — </span><span class="desc">Es posible que tenga baja señal, o la red podría ser la que no le permite conectar correctamente.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -65,13 +65,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Red, weby correo-e">Red, weby correo-e</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Conexiones inalámbricas">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html" title="Conexiones cableadas">cableada</a></span>, <span class="link"><a href="net-problem.html" title="Problemas de red">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html" title="Navegadores">navegación web</a></span>, <span class="link"><a href="net-email.html" title="Software de correo electrónico">cuentas de correo-e</a></span>…</span>
+<a href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a><span class="desc"> — <span class="link"><a href="net-wireless.html.es" title="Conexiones inalámbricas">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html.es" title="Conexiones cableadas">cableada</a></span>, <span class="link"><a href="net-problem.html.es" title="Problemas de red">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.es" title="Navegadores">navegación web</a></span>, <span class="link"><a href="net-email.html.es" title="Software de correo electrónico">cuentas de correo-e</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Conexiones inalámbricas">Conexiones inalámbricas</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Conectar con una red inalámbrica">Conectar con una red inalámbrica</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Conectar a una red inalámbrica oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="¿Por qué mi red inalámbrica permanece desconectada?">desconectarse</a></span>…</span>
+<a href="net-wireless.html.es" title="Conexiones inalámbricas">Conexiones inalámbricas</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.es" title="Conectar con una red inalámbrica">Conectar con una red inalámbrica</a></span>, <span class="link"><a href="net-wireless-hidden.html.es" title="Conectar a una red inalámbrica oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.es" title="¿Por qué mi red inalámbrica permanece desconectada?">desconectarse</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

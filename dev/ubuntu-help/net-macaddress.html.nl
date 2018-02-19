@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-general.html" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-general.html.nl" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wat is een MAC-adres?</span></h1></div>
@@ -53,7 +53,7 @@
 <p class="p">Een MAC-adres bestaat uit zes sets van twee tekens, elk gescheiden door een dubbele punt. <span class="code">00:1B:44:11:3A:B7</span> is een voorbeeld van een MAC-adres.</p>
 <p class="p">Het identificeren van het MAC-adres van uw eigen netwerkhardware:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Netwerk</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Netwerk</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Netwerk</span> om het paneel te openen.</p></li>
 <li class="steps">
 <p class="p">Choose which device, <span class="gui">Wi-Fi</span> or <span class="gui">Wired</span>, from
@@ -77,7 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Uw IP-adres achterhalen">Uw IP-adres vinden</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Wat betekenen WEP en WPA?">WEP- &amp; WPA-beveiliging</a></span>, <span class="link"><a href="net-macaddress.html" title="Wat is een MAC-adres?">MAC-adressen</a></span>, <span class="link"><a href="net-proxy.html" title="Proxy-instellingen definiëren">proxy's</a></span>...</span>
+<a href="net-general.html.nl" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a><span class="desc"> — <span class="link"><a href="net-findip.html.nl" title="Uw IP-adres achterhalen">Uw IP-adres vinden</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.nl" title="Wat betekenen WEP en WPA?">WEP- &amp; WPA-beveiliging</a></span>, <span class="link"><a href="net-macaddress.html.nl" title="Wat is een MAC-adres?">MAC-adressen</a></span>, <span class="link"><a href="net-proxy.html.nl" title="Proxy-instellingen definiëren">proxy's</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

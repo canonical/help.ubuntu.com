@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> » <a class="trail" href="power.html" title="Alimentazione e batteria">Alimentazione e batteria</a> › <a class="trail" href="power.html#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> » <a class="trail" href="power.html.it" title="Alimentazione e batteria">Alimentazione e batteria</a> › <a class="trail" href="power.html.it#faq" title="Questions">Questions</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="power.html" title="Alimentazione e batteria">Alimentazione e batteria</a> › <a class="trail" href="power.html#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="power.html.it" title="Alimentazione e batteria">Alimentazione e batteria</a> › <a class="trail" href="power.html.it#faq" title="Questions">Questions</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Alcuni computer sembra abbiano una minore durata della batteria quando eseguono Linux anziché Windows o Mac OS. Una possibile spiegazione per questo è dovuta al fatto che i produttori installano software speciale per Windows/Mac OS che ottimizza varie impostazioni hardware e software per un preciso modello. Queste modifiche sono spesso altamente specifiche e possono non essere documentate, per cui includerle in Linux è difficile.</p>
-<p class="p">Sfortunatamente, non c'è un modo semplice per applicare da sé queste modifiche senza una precisa conoscenza di quali siano. Potrebbe essere utile, invece, applicare alcuni <span class="link"><a href="power-batterylife.html" title="Usare meno energia e aumentare la durata della batteria">metodi di risparmio energetico</a></span>. Se il computer ha un <span class="link"><a href="power-batteryslow.html" title="Why is my laptop slow when it is on battery?">processore a velocità variabile</a></span>, può essere utile modificarne le impostazioni.</p>
+<p class="p">Sfortunatamente, non c'è un modo semplice per applicare da sé queste modifiche senza una precisa conoscenza di quali siano. Potrebbe essere utile, invece, applicare alcuni <span class="link"><a href="power-batterylife.html.it" title="Usare meno energia e aumentare la durata della batteria">metodi di risparmio energetico</a></span>. Se il computer ha un <span class="link"><a href="power-batteryslow.html.it" title="Why is my laptop slow when it is on battery?">processore a velocità variabile</a></span>, può essere utile modificarne le impostazioni.</p>
 <p class="p">Un'altra possibile spiegazione per la discrepanza è il diverso metodo di stima della batteria usato da Windows/Mac OS e Linux. La durata reale potrebbe essere la stessa, ma i metodi possono fornire stime diverse.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,19 +62,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Questions">Questions</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.it#faq" title="Questions">Questions</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batteryestimate.html" title="La durata stimata della batteria è sbagliata">La durata stimata della batteria è sbagliata</a><span class="desc"> — La durata della batteria mostrata quando si fa clic sull'<span class="gui">icona della batteria</span> è una stima.</span>
+<a href="power-batteryestimate.html.it" title="La durata stimata della batteria è sbagliata">La durata stimata della batteria è sbagliata</a><span class="desc"> — La durata della batteria mostrata quando si fa clic sull'<span class="gui">icona della batteria</span> è una stima.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Usare meno energia e aumentare la durata della batteria">Usare meno energia e aumentare la durata della batteria</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
+<a href="power-batterylife.html.it" title="Usare meno energia e aumentare la durata della batteria">Usare meno energia e aumentare la durata della batteria</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
 </li>
 <li class="links ">
-<a href="power-batteryslow.html" title="Why is my laptop slow when it is on battery?">Why is my laptop slow when it is on battery?</a><span class="desc"> — Alcuni portatili si rallentano intenzionalmente quando sono alimentati a batteria.</span>
+<a href="power-batteryslow.html.it" title="Why is my laptop slow when it is on battery?">Why is my laptop slow when it is on battery?</a><span class="desc"> — Alcuni portatili si rallentano intenzionalmente quando sono alimentati a batteria.</span>
 </li>
 </ul></div>
 </div></div>

@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="mouse.html" title="Mus">Mus</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="mouse.html.sv" title="Mus">Mus</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="mouse.html" title="Mus">Mus</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="mouse.html.sv" title="Mus">Mus</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="a11y.html" title="Hjälpmedel">Hjälpmedel</a> › <a class="trail" href="a11y.html#mobility" title="Rörelsehinder">Rörelsehinder</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="a11y.html.sv" title="Hjälpmedel">Hjälpmedel</a> › <a class="trail" href="a11y.html.sv#mobility" title="Rörelsehinder">Rörelsehinder</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">Du kan högerklicka genom att trycka och hålla ned den vänstra musknappen. Detta är användbart om du har svårt att röra fingrarna var för sig eller om muspekaren bara har en knapp.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Hjälpmedel</span>.</p></li>
+<li class="steps"><p class="p">Öppna <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Hjälpmedel</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Hjälpmedel</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="gui">Klickhjälp</span> i avsnittet <span class="gui">Peka &amp; klicka</span>.</p></li>
 <li class="steps"><p class="p">Slå om <span class="gui">Simulerat sekundärklick</span> till <span class="gui">PÅ</span>.</p></li>
@@ -65,7 +65,7 @@
 <p class="p">Du kan ändra hur länge du måste hålla ner vänster musknapp innan den registrerar ett högerklick genom att ändra <span class="gui">Acceptansfördröjning</span>.</p>
 <p class="p">För att högerklicka med ett simulerat sekundärklick, håll ner den vänstra musknappen där du vill högerklicka, och släpp. Pekaren fylls med en annan färg medan du håller nere musknappen. När den bytt färg helt, släpp musknappen för att högerklicka.</p>
 <p class="p">Vissa speciella markörer, exempelvis markören för att ändra storlek, ändrar inte färg. Du kan fortfarande använda simulerade sekundärklick som vanligt, även om du inte får visuell återkoppling från markören.</p>
-<p class="p">Om du använder <span class="link"><a href="mouse-mousekeys.html" title="Klicka och flytta muspekaren med det numeriska tangentbordet">Mustangenter</a></span> låter detta dig också högerklicka genom att hålla ner tangenten <span class="key"><kbd>5</kbd></span> på det numeriska tangentbordet.</p>
+<p class="p">Om du använder <span class="link"><a href="mouse-mousekeys.html.sv" title="Klicka och flytta muspekaren med det numeriska tangentbordet">Mustangenter</a></span> låter detta dig också högerklicka genom att hålla ner tangenten <span class="key"><kbd>5</kbd></span> på det numeriska tangentbordet.</p>
 <div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">I översikten <span class="gui">Aktiviteter</span> kan du alltid klicka länge för att högerklicka, även om denna funktion är inaktiverad. Att klicka länge fungerar lite annorlunda i översikten: du behöver inte släppa knappen för att högerklicka.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -74,9 +74,9 @@
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse.html" title="Mus">Mus</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Använd din mus med vänster hand">Vänsterhänt</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Justera hastigheten för musen och styrplattan">hastighet och känslighet</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Klicka, dra eller rulla med styrplattan">klickning och rullning med styrplatta</a></span>…</span>
+<a href="mouse.html.sv" title="Mus">Mus</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.sv" title="Använd din mus med vänster hand">Vänsterhänt</a></span>, <span class="link"><a href="mouse-sensitivity.html.sv" title="Justera hastigheten för musen och styrplattan">hastighet och känslighet</a></span>, <span class="link"><a href="mouse-touchpad-click.html.sv" title="Klicka, dra eller rulla med styrplattan">klickning och rullning med styrplatta</a></span>…</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Rörelsehinder">Rörelsehinder</a></li>
+<li class="links "><a href="a11y.html.sv#mobility" title="Rörelsehinder">Rörelsehinder</a></li>
 </ul></div>
 </div></div></div>
 </div>

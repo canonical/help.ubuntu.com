@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,32 +56,32 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Region &amp; språk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Använd alternativa tangentbordslayouter">Använd alternativa tangentbordslayouter</a><span class="desc"> — Lägg till tangentbordslayouter och växla mellan dem.</span>
+<a href="keyboard-layouts.html.sv" title="Använd alternativa tangentbordslayouter">Använd alternativa tangentbordslayouter</a><span class="desc"> — Lägg till tangentbordslayouter och växla mellan dem.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Hjälpmedel</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-stickykeys.html" title="Aktivera klistriga tangenter">Aktivera klistriga tangenter</a><span class="desc"> — Mata in snabbtangenter en tangent i taget istället för att hålla ner alla tangenterna på en gång.</span>
+<a href="a11y-stickykeys.html.sv" title="Aktivera klistriga tangenter">Aktivera klistriga tangenter</a><span class="desc"> — Mata in snabbtangenter en tangent i taget istället för att hålla ner alla tangenterna på en gång.</span>
 </li>
 <li class="links ">
-<a href="a11y-bouncekeys.html" title="Aktivera tangentstuds">Aktivera tangentstuds</a><span class="desc"> — Ignorera snabbt repeterade tangenttryckningar på samma tangent.</span>
+<a href="a11y-bouncekeys.html.sv" title="Aktivera tangentstuds">Aktivera tangentstuds</a><span class="desc"> — Ignorera snabbt repeterade tangenttryckningar på samma tangent.</span>
 </li>
 <li class="links ">
-<a href="a11y-slowkeys.html" title="Aktivera tröga tangenter">Aktivera tröga tangenter</a><span class="desc"> — Aktivera en fördröjning mellan tangenttryckning till det att bokstaven syns på skärmen.</span>
+<a href="a11y-slowkeys.html.sv" title="Aktivera tröga tangenter">Aktivera tröga tangenter</a><span class="desc"> — Aktivera en fördröjning mellan tangenttryckning till det att bokstaven syns på skärmen.</span>
 </li>
 <li class="links ">
-<a href="keyboard-osk.html" title="Använd ett skärmtangentbord">Använd ett skärmtangentbord</a><span class="desc"> — Använd ett skärmtangentbord för att mata in text genom att klicka på knappar med musen eller en pekskärm.</span>
+<a href="keyboard-osk.html.sv" title="Använd ett skärmtangentbord">Använd ett skärmtangentbord</a><span class="desc"> — Använd ett skärmtangentbord för att mata in text genom att klicka på knappar med musen eller en pekskärm.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html" title="Tangentbordsnavigation">Tangentbordsnavigation</a><span class="desc"> — Använd program och skrivbordet utan en mus.</span>
+<a href="keyboard-nav.html.sv" title="Tangentbordsnavigation">Tangentbordsnavigation</a><span class="desc"> — Använd program och skrivbordet utan en mus.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html" title="Vad är Super-knappen?">Vad är <span class="key"><kbd>Super</kbd></span>-knappen?</a><span class="desc"> — <span class="key"><kbd>Super</kbd></span>-tangenten öppnar översiktsvyn <span class="gui">Aktiviteter</span>. Du kan vanligtvis hitta den intill <span class="key"><kbd>Alt</kbd></span>-tangenten på ditt tangentbord.</span>
+<a href="keyboard-key-super.html.sv" title="Vad är Super-knappen?">Vad är <span class="key"><kbd>Super</kbd></span>-knappen?</a><span class="desc"> — <span class="key"><kbd>Super</kbd></span>-tangenten öppnar översiktsvyn <span class="gui">Aktiviteter</span>. Du kan vanligtvis hitta den intill <span class="key"><kbd>Alt</kbd></span>-tangenten på ditt tangentbord.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-menu.html" title="Vad är Windows-tangenten?">Vad är <span class="key"><kbd>Windows</kbd></span>-tangenten?</a><span class="desc"> — Tangenten <span class="key"><kbd>Meny</kbd></span> startar en snabbvalsmeny med tangentbordet snarare än med ett högerklick.</span>
+<a href="keyboard-key-menu.html.sv" title="Vad är Windows-tangenten?">Vad är <span class="key"><kbd>Windows</kbd></span>-tangenten?</a><span class="desc"> — Tangenten <span class="key"><kbd>Meny</kbd></span> startar en snabbvalsmeny med tangentbordet snarare än med ett högerklick.</span>
 </li>
 </ul></div>
 </div></div>
@@ -89,19 +89,19 @@
 <div class="title title-links"><h2><span class="title">Övriga ämnen</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Användbara tangentbordsgenvägar">Användbara tangentbordsgenvägar</a><span class="desc"> — Ta sig runt på skrivbordet med hjälp av tangentbordet.</span>
+<a href="shell-keyboard-shortcuts.html.sv" title="Användbara tangentbordsgenvägar">Användbara tangentbordsgenvägar</a><span class="desc"> — Ta sig runt på skrivbordet med hjälp av tangentbordet.</span>
 </li>
 <li class="links ">
-<a href="keyboard-cursor-blink.html" title="Få tangentbordsmarkören att blinka">Få tangentbordsmarkören att blinka</a><span class="desc"> — Få insättningspunkten att blinka och kontrollera hur snabbt den blinkar.</span>
+<a href="keyboard-cursor-blink.html.sv" title="Få tangentbordsmarkören att blinka">Få tangentbordsmarkören att blinka</a><span class="desc"> — Få insättningspunkten att blinka och kontrollera hur snabbt den blinkar.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Hantera repeterade tangenttryckningar">Hantera repeterade tangenttryckningar</a><span class="desc"> — Få tangentbordet att inte repetera bokstäver när du håller ner en tangent, eller ändra fördröjningen och hastigheten på repeterande tangenter.</span>
+<a href="keyboard-repeat-keys.html.sv" title="Hantera repeterade tangenttryckningar">Hantera repeterade tangenttryckningar</a><span class="desc"> — Få tangentbordet att inte repetera bokstäver när du håller ner en tangent, eller ändra fördröjningen och hastigheten på repeterande tangenter.</span>
 </li>
 <li class="links ">
-<a href="numeric-keypad.html" title="Numeriskt tangentbord">Numeriskt tangentbord</a><span class="desc"> — Aktivera numeriska tangentbordet som standard.</span>
+<a href="numeric-keypad.html.sv" title="Numeriskt tangentbord">Numeriskt tangentbord</a><span class="desc"> — Aktivera numeriska tangentbordet som standard.</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Ställ in tangentbordsgenvägar">Ställ in tangentbordsgenvägar</a><span class="desc"> — Definiera eller ändra snabbtangenter i inställningarna för <span class="gui">Tangentbord</span>.</span>
+<a href="keyboard-shortcuts-set.html.sv" title="Ställ in tangentbordsgenvägar">Ställ in tangentbordsgenvägar</a><span class="desc"> — Definiera eller ändra snabbtangenter i inställningarna för <span class="gui">Tangentbord</span>.</span>
 </li>
 </ul></div>
 </div></div>
@@ -112,10 +112,10 @@
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html" title="Användarkonton">användarkonton</a></span>…</span>
+<a href="prefs.html.sv" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html.sv" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html.sv" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html.sv" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html.sv" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html.sv" title="Användarkonton">användarkonton</a></span>…</span>
 </li>
 <li class="links ">
-<a href="hardware.html" title="Maskinvara och drivrutiner">Maskinvara och drivrutiner</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Vanliga problem">Hårdvaruproblem</a></span>, <span class="link"><a href="printing.html" title="Utskrifter">skrivare</a></span>, <span class="link"><a href="power.html" title="Ström och batteri">ströminställningar</a></span>, <span class="link"><a href="color.html" title="Färghantering">färghantering</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Diskar och lagring">diskar</a></span>…</span>
+<a href="hardware.html.sv" title="Maskinvara och drivrutiner">Maskinvara och drivrutiner</a><span class="desc"> — <span class="link"><a href="hardware.html.sv#problems" title="Vanliga problem">Hårdvaruproblem</a></span>, <span class="link"><a href="printing.html.sv" title="Utskrifter">skrivare</a></span>, <span class="link"><a href="power.html.sv" title="Ström och batteri">ströminställningar</a></span>, <span class="link"><a href="color.html.sv" title="Färghantering">färghantering</a></span>, <span class="link"><a href="bluetooth.html.sv" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.sv" title="Diskar och lagring">diskar</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

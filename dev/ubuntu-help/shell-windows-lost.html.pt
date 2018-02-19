@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Seu escritório">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicações e janelas">Aplicações e janelas</a> » <a class="trail" href="shell-windows.html" title="Janelas e áreas de trabalho">Janelas e áreas de trabalho</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Trabalhar com janelas">Janelas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pt" title="Seu escritório">Escritorio</a> › <a class="trail" href="shell-overview.html.pt#apps" title="Aplicações e janelas">Aplicações e janelas</a> » <a class="trail" href="shell-windows.html.pt" title="Janelas e áreas de trabalho">Janelas e áreas de trabalho</a> › <a class="trail" href="shell-windows.html.pt#working-with-windows" title="Trabalhar com janelas">Janelas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Encontrar uma janela perdida</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Uma janela num área de trabalho diferente, ou oculta por trás de outra janela é fácil de encontrar utilizando a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span>:</p>
+<p class="p">Uma janela num área de trabalho diferente, ou oculta por trás de outra janela é fácil de encontrar utilizando a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Abra a vista de <span class="gui">Atividades</span>. Se a janela que está a procurar está no <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Trabalhar com áreas de trabalho:">área de trabalho</a></span>, mostrar-se-á aqui como uma miniatura. Para mostrá-la de novo, simplesmente carregue a miniatura, ou</p></li>
-<li class="list"><p class="p">Carregue em diferentes áreas de trabalho no <span class="link"><a href="shell-workspaces.html" title="Que é um área de trabalho e como ajudar-me-á?">seletor de áreas de trabalho</a></span> à direita do ecrã para tratar de encontrar a janela, ou</p></li>
+<li class="list"><p class="p">Abra a vista de <span class="gui">Atividades</span>. Se a janela que está a procurar está no <span class="link"><a href="shell-windows.html.pt#working-with-workspaces" title="Trabalhar com áreas de trabalho:">área de trabalho</a></span>, mostrar-se-á aqui como uma miniatura. Para mostrá-la de novo, simplesmente carregue a miniatura, ou</p></li>
+<li class="list"><p class="p">Carregue em diferentes áreas de trabalho no <span class="link"><a href="shell-workspaces.html.pt" title="Que é um área de trabalho e como ajudar-me-á?">seletor de áreas de trabalho</a></span> à direita do ecrã para tratar de encontrar a janela, ou</p></li>
 <li class="list"><p class="p">Carregue com o botão direito sobre o aplicação no tabuleiro e listar-se-ão as janelas abertas. Carregue na janela da lista à que quer mudar.</p></li>
 </ul></div></div></div>
 <p class="p">Usando o seletor de janelas:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Carregue <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> para mostrar o <span class="link"><a href="shell-windows-switching.html" title="Mudar entre janelas">seletor de janelas</a></span>. Mantenha premida a tecla <span class="key"><kbd>Super</kbd></span> e carregue <span class="key"><kbd>Tab</kbd></span> para mudar entre a lista de janelas abertas, ou carregue <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> para mudar para atrás.</p></li>
+<li class="list"><p class="p">Carregue <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pt" title="Que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> para mostrar o <span class="link"><a href="shell-windows-switching.html.pt" title="Mudar entre janelas">seletor de janelas</a></span>. Mantenha premida a tecla <span class="key"><kbd>Super</kbd></span> e carregue <span class="key"><kbd>Tab</kbd></span> para mudar entre a lista de janelas abertas, ou carregue <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> para mudar para atrás.</p></li>
 <li class="list"><p class="p">Se um aplicação tem múltiplas janelas abertas, carregue <span class="key"><kbd>Super</kbd></span> e <span class="key"><kbd>`</kbd></span> (ou a tecla em cima da tecla <span class="key"><kbd>Tab</kbd></span>) para passar por elas.</p></li>
 </ul></div></div></div>
 </div>
@@ -65,7 +65,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Trabalhar com janelas">Trabalhar com janelas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.pt#working-with-windows" title="Trabalhar com janelas">Trabalhar com janelas</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

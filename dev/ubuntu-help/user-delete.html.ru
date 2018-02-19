@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="user-accounts.html" title="Учётные записи пользователей">Пользователи</a> › <a class="trail" href="user-accounts.html#manage" title="Управление учётными записями пользователей">Учётные записи</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="user-accounts.html.ru" title="Учётные записи пользователей">Пользователи</a> › <a class="trail" href="user-accounts.html.ru#manage" title="Управление учётными записями пользователей">Учётные записи</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Удаление учётной записи пользователя</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can <span class="link"><a href="user-add.html" title="Добавление новой учётной записи пользователя">add multiple user accounts to your
+<p class="p">You can <span class="link"><a href="user-add.html.ru" title="Добавление новой учётной записи пользователя">add multiple user accounts to your
   computer</a></span>. If somebody is no longer using your computer, you can delete
   that user’s account.</p>
-<p class="p">Для удаления учётных записей пользователей нужны <span class="link"><a href="user-admin-explain.html" title="Как работают административные полномочия?">права администратора</a></span>.</p>
+<p class="p">Для удаления учётных записей пользователей нужны <span class="link"><a href="user-admin-explain.html.ru" title="Как работают административные полномочия?">права администратора</a></span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Users</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Users</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Разблокировать</span> в верхнем правом углу и затем по запросу системы введите свой пароль.</p></li>
@@ -72,16 +72,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Управление учётными записями пользователей">Управление учётными записями пользователей</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.ru#manage" title="Управление учётными записями пользователей">Управление учётными записями пользователей</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-add.html" title="Добавление новой учётной записи пользователя">Добавление новой учётной записи пользователя</a><span class="desc"> — Добавьте новых пользователей, чтобы другие люди могли воспользоваться компьютером.</span>
+<a href="user-add.html.ru" title="Добавление новой учётной записи пользователя">Добавление новой учётной записи пользователя</a><span class="desc"> — Добавьте новых пользователей, чтобы другие люди могли воспользоваться компьютером.</span>
 </li>
 <li class="links ">
-<a href="user-admin-explain.html" title="Как работают административные полномочия?">Как работают административные полномочия?</a><span class="desc"> — Для изменения важных компонентов системы нужны права администратора.</span>
+<a href="user-admin-explain.html.ru" title="Как работают административные полномочия?">Как работают административные полномочия?</a><span class="desc"> — Для изменения важных компонентов системы нужны права администратора.</span>
 </li>
 </ul></div>
 </div></div>

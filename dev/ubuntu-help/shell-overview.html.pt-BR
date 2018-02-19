@@ -43,40 +43,40 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Seu ambiente</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Introdução ao GNOME"><span class="title">Introdução ao GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Uma introdução visual a sua área de trabalho, a barra superior e o panorama de <span class="gui">Atividades</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Encerrando sessão, desligando seu computador ou alternando usuários"><span class="title">Encerrando sessão, desligando seu computador ou alternando usuários</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda como deixar sua conta de usuário, encerrando a sessão, alternando usuários e por aí vai.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.pt-BR" title="Introdução ao GNOME"><span class="title">Introdução ao GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Uma introdução visual a sua área de trabalho, a barra superior e o panorama de <span class="gui">Atividades</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.pt-BR" title="Encerrando sessão, desligando seu computador ou alternando usuários"><span class="title">Encerrando sessão, desligando seu computador ou alternando usuários</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda como deixar sua conta de usuário, encerrando a sessão, alternando usuários e por aí vai.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Iniciando aplicativos"><span class="title">Iniciando aplicativos</span><span class="linkdiv-dash"> — </span><span class="desc">Inicie aplicativos a partir do panorama de <span class="gui">Atividades</span>.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.pt-BR" title="Iniciando aplicativos"><span class="title">Iniciando aplicativos</span><span class="linkdiv-dash"> — </span><span class="desc">Inicie aplicativos a partir do panorama de <span class="gui">Atividades</span>.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Personalizando seu ambiente</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="Compromissos da agenda"><span class="title">Compromissos da agenda</span><span class="linkdiv-dash"> — </span><span class="desc">Exiba seus compromissos na área da agenda no topo da tela.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html" title="Fixe seus aplicativos favoritos ao dash"><span class="title">Fixe seus aplicativos favoritos ao dash</span><span class="linkdiv-dash"> — </span><span class="desc">Adicione (ou remova) ícones de programas frequentemente usados ao dash.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.pt-BR" title="Compromissos da agenda"><span class="title">Compromissos da agenda</span><span class="linkdiv-dash"> — </span><span class="desc">Exiba seus compromissos na área da agenda no topo da tela.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.pt-BR" title="Fixe seus aplicativos favoritos ao dash"><span class="title">Fixe seus aplicativos favoritos ao dash</span><span class="linkdiv-dash"> — </span><span class="desc">Adicione (ou remova) ícones de programas frequentemente usados ao dash.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html" title="Notificações e a área de notificação"><span class="title">Notificações e a área de notificação</span><span class="linkdiv-dash"> — </span><span class="desc">Mensagens surgem na parte superior da tela lhe informando quando certos eventos acontecem.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.pt-BR" title="Notificações e a área de notificação"><span class="title">Notificações e a área de notificação</span><span class="linkdiv-dash"> — </span><span class="desc">Mensagens surgem na parte superior da tela lhe informando quando certos eventos acontecem.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="apps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Aplicativos e janelas</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html" title="A tela de bloqueio"><span class="title">A tela de bloqueio</span><span class="linkdiv-dash"> — </span><span class="desc">A decorativa e funciona tela de bloqueio transmite informações úteis.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Alternando entre janelas"><span class="title">Alternando entre janelas</span><span class="linkdiv-dash"> — </span><span class="desc">Pressione <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Atalhos de teclado úteis"><span class="title">Atalhos de teclado úteis</span><span class="linkdiv-dash"> — </span><span class="desc">Conheça o ambiente de trabalho usando o teclado.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.pt-BR" title="A tela de bloqueio"><span class="title">A tela de bloqueio</span><span class="linkdiv-dash"> — </span><span class="desc">A decorativa e funciona tela de bloqueio transmite informações úteis.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.pt-BR" title="Alternando entre janelas"><span class="title">Alternando entre janelas</span><span class="linkdiv-dash"> — </span><span class="desc">Pressione <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.pt-BR" title="Atalhos de teclado úteis"><span class="title">Atalhos de teclado úteis</span><span class="linkdiv-dash"> — </span><span class="desc">Conheça o ambiente de trabalho usando o teclado.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows.html" title="Janelas e espaços de trabalho"><span class="title">Janelas e espaços de trabalho</span><span class="linkdiv-dash"> — </span><span class="desc">Mova e organize suas janelas.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="status-icons.html" title="O que os ícones na barra superior significam?"><span class="title">O que os ícones na barra superior significam?</span><span class="linkdiv-dash"> — </span><span class="desc">Explica o significado dos ícones localizados à direita na barra superior.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="startup-applications.html" title="Startup Applications"><span class="title">Startup Applications</span><span class="linkdiv-dash"> — </span><span class="desc">Choose what applications to start when you log in.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows.html.pt-BR" title="Janelas e espaços de trabalho"><span class="title">Janelas e espaços de trabalho</span><span class="linkdiv-dash"> — </span><span class="desc">Mova e organize suas janelas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="status-icons.html.pt-BR" title="O que os ícones na barra superior significam?"><span class="title">O que os ícones na barra superior significam?</span><span class="linkdiv-dash"> — </span><span class="desc">Explica o significado dos ícones localizados à direita na barra superior.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.pt-BR" title="Startup Applications"><span class="title">Startup Applications</span><span class="linkdiv-dash"> — </span><span class="desc">Choose what applications to start when you log in.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Guia do Ubuntu Desktop">Guia do Ubuntu Desktop</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.pt-BR" title="Guia do Ubuntu Desktop">Guia do Ubuntu Desktop</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

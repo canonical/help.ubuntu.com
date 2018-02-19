@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="bluetooth.html" title="బ్లూటూత్">బ్లూటూత్</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.te" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="bluetooth.html.te" title="బ్లూటూత్">బ్లూటూత్</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">బ్లూటూత్ దృశ్యనీయత అంటే ఏమిటి?</span></h1></div>
@@ -54,16 +54,16 @@
   on and the <span class="gui">Bluetooth</span> panel is open, your computer will advertize
   itself to all other devices within range, allowing them to attempt to connect
   to your computer.</p>
-<div class="note note-tip" title="చిట్కా"><div class="inner"><div class="region"><div class="contents"><p class="p">You can <span class="link"><a href="sharing-displayname.html" title="Set the display name for your computer">change</a></span> the name your
+<div class="note note-tip" title="చిట్కా"><div class="inner"><div class="region"><div class="contents"><p class="p">You can <span class="link"><a href="sharing-displayname.html.te" title="Set the display name for your computer">change</a></span> the name your
     computer displays to other devices.</p></div></div></div></div>
-<p class="p">మీరు <span class="link"><a href="bluetooth-connect-device.html" title="మీ కంప్యూటరును ఒక బ్లూటూత్ పరికరానికి అనుసంధానించండి">పరికరంకు అనుసందామైన</a></span> తరువాత, మీ కంప్యూటర్ గాని లేదా అవతలి పరికరం గాని వొకదానికొకటి సంప్రదించుకొనుటకు అవి కనిపించాల్సిన అవసరంలేదు.</p>
+<p class="p">మీరు <span class="link"><a href="bluetooth-connect-device.html.te" title="మీ కంప్యూటరును ఒక బ్లూటూత్ పరికరానికి అనుసంధానించండి">పరికరంకు అనుసందామైన</a></span> తరువాత, మీ కంప్యూటర్ గాని లేదా అవతలి పరికరం గాని వొకదానికొకటి సంప్రదించుకొనుటకు అవి కనిపించాల్సిన అవసరంలేదు.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="బ్లూటూత్">బ్లూటూత్</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="మీ కంప్యూటరును ఒక బ్లూటూత్ పరికరానికి అనుసంధానించండి">అనుసంధానించు</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">ఫైళ్ళను పంపు</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="బ్లూటూత్ ప్రారంభించండి లేదా ఆపండి">ఆన్ లేదా ఆఫ్ చేయి</a></span>…</span>
+<a href="bluetooth.html.te" title="బ్లూటూత్">బ్లూటూత్</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.te" title="మీ కంప్యూటరును ఒక బ్లూటూత్ పరికరానికి అనుసంధానించండి">అనుసంధానించు</a></span>, <span class="link"><a href="bluetooth-send-file.html.te" title="Send files to a Bluetooth device">ఫైళ్ళను పంపు</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.te" title="బ్లూటూత్ ప్రారంభించండి లేదా ఆపండి">ఆన్ లేదా ఆఫ్ చేయి</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

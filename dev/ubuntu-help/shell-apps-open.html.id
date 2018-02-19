@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Memulai aplikasi</span></h1></div>
@@ -51,9 +51,9 @@
 <div class="contents">
 <p class="p">Move your mouse pointer to the
   <span class="gui">Activities</span> corner at the top left of the screen to show the
-  <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Activities</a></span> overview. This is where you
+  <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> overview. This is where you
   can find all of your applications. You can also open the overview by pressing
-  the <span class="key"><a href="keyboard-key-super.html" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span> key.</p>
+  the <span class="key"><a href="keyboard-key-super.html.id" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span> key.</p>
 <p class="p">There are several ways of opening an application once you’re in the
   <span class="gui">Activities</span> overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
@@ -66,7 +66,7 @@
       of icons on the left-hand side of the <span class="gui">Activities</span> overview.
       Click one of these to start the corresponding application.</p>
 <p class="p">If you have applications that you use very frequently, you can
-      <span class="link"><a href="shell-apps-favorites.html" title="Pin your favorite apps to the dash">add them to the dash</a></span>
+      <span class="link"><a href="shell-apps-favorites.html.id" title="Pin your favorite apps to the dash">add them to the dash</a></span>
       yourself.</p>
 </li>
 <li class="list"><p class="p">Click the grid button at the bottom of the dash. You will see the
@@ -76,7 +76,7 @@
       applications. Press on the application to start it.</p></li>
 <li class="list">
 <p class="p">You can launch an application in a separate
-      <span class="link"><a href="shell-workspaces.html" title="Apa itu ruang kerja, dan bagaimana itu akan membantu saya?">workspace</a></span> by dragging its icon from
+      <span class="link"><a href="shell-workspaces.html.id" title="Apa itu ruang kerja, dan bagaimana itu akan membantu saya?">workspace</a></span> by dragging its icon from
       the dash, and dropping it onto one of the workspaces on the right-hand
       side of the screen. The application will open in the chosen
       workspace.</p>
@@ -103,19 +103,19 @@
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html" title="Desktop Anda">Desktop Anda</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Janji kalender">Kalendar</a></span>, <span class="link"><a href="shell-notifications.html" title="Notifikasi dan baki pesan">pemberitahuan</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Pintasan papan tik yang berguna">pintasan papan ketik</a></span>, <span class="link"><a href="shell-windows.html" title="Jendela dan area kerja">jendela dan ruang kerja</a></span>…</span>
+<a href="shell-overview.html.id" title="Desktop Anda">Desktop Anda</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.id" title="Janji kalender">Kalendar</a></span>, <span class="link"><a href="shell-notifications.html.id" title="Notifikasi dan baki pesan">pemberitahuan</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna">pintasan papan ketik</a></span>, <span class="link"><a href="shell-windows.html.id" title="Jendela dan area kerja">jendela dan ruang kerja</a></span>…</span>
 </li>
-<li class="links "><a href="index.html" title="Panduan Desktop Ubuntu">Panduan Desktop Ubuntu</a></li>
+<li class="links "><a href="index.html.id" title="Panduan Desktop Ubuntu">Panduan Desktop Ubuntu</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-apps-favorites.html" title="Pin your favorite apps to the dash">Pin your favorite apps to the dash</a><span class="desc"> — Tambah (atau hapus) ikon program yang sering dipakai pada dash.</span>
+<a href="shell-apps-favorites.html.id" title="Pin your favorite apps to the dash">Pin your favorite apps to the dash</a><span class="desc"> — Tambah (atau hapus) ikon program yang sering dipakai pada dash.</span>
 </li>
-<li class="links "><a href="gs-launch-applications.html" title="Meluncurkan aplikasi">Tutorial tentang meluncurkan aplikasi</a></li>
-<li class="links "><a href="gs-use-system-search.html" title="Memakai pencarian sistem">Tutorial tentang memakai pencarian sistem</a></li>
+<li class="links "><a href="gs-launch-applications.html.id" title="Meluncurkan aplikasi">Tutorial tentang meluncurkan aplikasi</a></li>
+<li class="links "><a href="gs-use-system-search.html.id" title="Memakai pencarian sistem">Tutorial tentang memakai pencarian sistem</a></li>
 </ul></div>
 </div></div>
 </div>

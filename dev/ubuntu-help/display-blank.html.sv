@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="power.html" title="Ström och batteri">Ström och batteri</a> › <a class="trail" href="power.html#saving" title="Strömsparinställningar">Strömsparinställningar</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="power.html.sv" title="Ström och batteri">Ström och batteri</a> › <a class="trail" href="power.html.sv#saving" title="Strömsparinställningar">Strömsparinställningar</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="power.html" title="Ström och batteri">Ström och batteri</a> › <a class="trail" href="power.html#saving" title="Strömsparinställningar">Strömsparinställningar</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="power.html.sv" title="Ström och batteri">Ström och batteri</a> › <a class="trail" href="power.html.sv#saving" title="Strömsparinställningar">Strömsparinställningar</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="prefs-display.html" title="Visning och skärm">Visning och skärm</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="prefs-display.html.sv" title="Visning och skärm">Visning och skärm</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="hardware-problems-graphics.html" title="Skärmproblem">Skärmproblem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html.sv#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="hardware-problems-graphics.html.sv" title="Skärmproblem">Skärmproblem</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,12 +61,12 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">För att ställa in tiden till skärmtömning:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Ström</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Ström</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Ström</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Använd rullgardinsmenyn <span class="gui">Töm skärm</span> under <span class="gui">Strömspar</span> för att ställa in tiden tills skärmen töms, eller inaktivera tömning helt och hållet.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">När din dator lämnas i vila kommer skärmen automatiskt att låsa sig själv av säkerhetsskäl. För att ändra detta beteende, se <span class="link"><a href="session-screenlocks.html" title="Skärmen låser sig själv allt för snabbt">Skärmen låser sig själv allt för snabbt</a></span>.</p></div></div></div></div>
+<div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">När din dator lämnas i vila kommer skärmen automatiskt att låsa sig själv av säkerhetsskäl. För att ändra detta beteende, se <span class="link"><a href="session-screenlocks.html.sv" title="Skärmen låser sig själv allt för snabbt">Skärmen låser sig själv allt för snabbt</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -75,11 +75,11 @@
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Skärmproblem">Skärmproblem</a><span class="desc"> — Felsök skärm- och grafikproblem.</span>
+<a href="hardware-problems-graphics.html.sv" title="Skärmproblem">Skärmproblem</a><span class="desc"> — Felsök skärm- och grafikproblem.</span>
 </li>
-<li class="links "><a href="power.html#saving" title="Strömsparinställningar">Strömsparinställningar</a></li>
+<li class="links "><a href="power.html.sv#saving" title="Strömsparinställningar">Strömsparinställningar</a></li>
 <li class="links ">
-<a href="prefs-display.html" title="Visning och skärm">Visning och skärm</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Ändra skrivbords- och låsskärmsbakgrunderna">Bakgrund</a></span>, <span class="link"><a href="look-resolution.html" title="Ändra upplösning eller rotation på skärmen">storlek och rotering</a></span>, ljusstyrka…</span>
+<a href="prefs-display.html.sv" title="Visning och skärm">Visning och skärm</a><span class="desc"> — <span class="link"><a href="look-background.html.sv" title="Ändra skrivbords- och låsskärmsbakgrunderna">Bakgrund</a></span>, <span class="link"><a href="look-resolution.html.sv" title="Ändra upplösning eller rotation på skärmen">storlek och rotering</a></span>, ljusstyrka…</span>
 </li>
 </ul></div>
 </div></div>
@@ -87,10 +87,10 @@
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="session-screenlocks.html" title="Skärmen låser sig själv allt för snabbt">Skärmen låser sig själv allt för snabbt</a><span class="desc"> — Ändra hur länge det tar innan skärmen låser sig själv i <span class="gui">Sekretessinställningar</span>.</span>
+<a href="session-screenlocks.html.sv" title="Skärmen låser sig själv allt för snabbt">Skärmen låser sig själv allt för snabbt</a><span class="desc"> — Ändra hur länge det tar innan skärmen låser sig själv i <span class="gui">Sekretessinställningar</span>.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="Varför tonas min skärm ner efter ett tag?">Varför tonas min skärm ner efter ett tag?</a><span class="desc"> — Skärmen tonas ner när datorn är oanvänd för att spara ström.</span>
+<a href="power-whydim.html.sv" title="Varför tonas min skärm ner efter ett tag?">Varför tonas min skärm ner efter ett tag?</a><span class="desc"> — Skärmen tonas ner när datorn är oanvänd för att spara ström.</span>
 </li>
 </ul></div>
 </div></div>

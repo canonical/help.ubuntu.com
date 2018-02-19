@@ -43,68 +43,68 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Networking, web &amp; email</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ் பிணையமாக்கம்</a></div>
+<div class="links-grid-link"><a href="net-wireless.html.ta" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ் பிணையமாக்கம்</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-connect.html" title="ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="ஒரு மறைக்கப்பட்ட வயர்லெஸ் பிணையத்துக்கு இணைத்தல்">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="என் வயர்லெஸ் பிணையம் ஏன் தொடர்ந்து துண்டிக்கப்படுகிறது?">Disconnecting</a></span>…
+      <span class="link"><a href="net-wireless-connect.html.ta" title="ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ta" title="ஒரு மறைக்கப்பட்ட வயர்லெஸ் பிணையத்துக்கு இணைத்தல்">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ta" title="என் வயர்லெஸ் பிணையம் ஏன் தொடர்ந்து துண்டிக்கப்படுகிறது?">Disconnecting</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-chat.html" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a></div>
+<div class="links-grid-link"><a href="net-chat.html.ta" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-chat-empathy.html" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Video calls">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="How can I use Skype on Ubuntu?">install skype</a></span>
+      <span class="link"><a href="net-chat-empathy.html.ta" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.ta" title="Video calls">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.ta" title="How can I use Skype on Ubuntu?">install skype</a></span>
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-security.html" title="இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்">இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்</a></div>
+<div class="links-grid-link"><a href="net-security.html.ta" title="இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்">இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-antivirus.html" title="வைரஸ் எதிர்ப்பு மென்பொருள் தேவையா?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="ஃபயர்வால் அணுகலை இயக்குதல் அல்லது தடுத்தல்">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="பொதுவாக பயன்படுத்தப்படும் பிணைய போர்ட்கள்">firewall ports</a></span>…
+      <span class="link"><a href="net-antivirus.html.ta" title="வைரஸ் எதிர்ப்பு மென்பொருள் தேவையா?">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.ta" title="ஃபயர்வால் அணுகலை இயக்குதல் அல்லது தடுத்தல்">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.ta" title="பொதுவாக பயன்படுத்தப்படும் பிணைய போர்ட்கள்">firewall ports</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="contacts.html" title="தொடர்புகள்">தொடர்புகள்</a></div>
+<div class="links-grid-link"><a href="contacts.html.ta" title="தொடர்புகள்">தொடர்புகள்</a></div>
 <div class="desc"><span class="desc">உங்கள் தொடர்புகளை அணுகுதல்.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="sharing.html" title="பகிர்தல்">பகிர்தல்</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html" title="உங்கள் பணிமேசையைப் பகிர்தல்">பணிமேசை பகிர்தல்</a></span>, <span class="link"><a href="files-share.html" title="மின்னஞ்சல் மூலம் கோப்புகளை பகிர்தல்">மின்னஞ்சல் மூலம் கோப்புகளைப் பகிர்தல்</a></span>, <span class="link"><a href="sharing-media.html" title="உங்கள் இசை, புகைப்படங்கள் மற்றும் வீடியோக்களைப் பகிர்தல்">மீடியா பகிர்தல்</a></span>…</span></div>
+<div class="links-grid-link"><a href="sharing.html.ta" title="பகிர்தல்">பகிர்தல்</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html.ta" title="உங்கள் பணிமேசையைப் பகிர்தல்">பணிமேசை பகிர்தல்</a></span>, <span class="link"><a href="files-share.html.ta" title="மின்னஞ்சல் மூலம் கோப்புகளை பகிர்தல்">மின்னஞ்சல் மூலம் கோப்புகளைப் பகிர்தல்</a></span>, <span class="link"><a href="sharing-media.html.ta" title="உங்கள் இசை, புகைப்படங்கள் மற்றும் வீடியோக்களைப் பகிர்தல்">மீடியா பகிர்தல்</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-problem.html" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் இணைப்புகளை சிக்கல் தீர்த்தல்</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">உங்கள் wifi பிணையத்தைக் கண்டறிதல்</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-problem.html.ta" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் இணைப்புகளை சிக்கல் தீர்த்தல்</a></span>, <span class="link"><a href="net-wireless-find.html.ta" title="I can’t see my wireless network in the list">உங்கள் wifi பிணையத்தைக் கண்டறிதல்</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-general.html" title="பிணையமாக்கல் சொற்கள் மற்றும் குறிப்புகள்">பிணையமாக்கல் சொற்கள் மற்றும் குறிப்புகள்</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html" title="உங்கள் IP முகவரியை கண்டுபிடித்தல்">உங்கள் IP முகவரியைக் கண்டுபிடித்தல்</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="WEP மற்றும் WPA என்றால் என்ன?">WEP &amp; WPA பாதுகாப்பு</a></span>, <span class="link"><a href="net-macaddress.html" title="MAC முகவரி என்றால் என்ன?">MAC முகவரிகள்</a></span>, <span class="link"><a href="net-proxy.html" title="பதிலி அமைவுகளை வரையறுத்தல்">பதிலிகள்</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-general.html.ta" title="பிணையமாக்கல் சொற்கள் மற்றும் குறிப்புகள்">பிணையமாக்கல் சொற்கள் மற்றும் குறிப்புகள்</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.ta" title="உங்கள் IP முகவரியை கண்டுபிடித்தல்">உங்கள் IP முகவரியைக் கண்டுபிடித்தல்</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.ta" title="WEP மற்றும் WPA என்றால் என்ன?">WEP &amp; WPA பாதுகாப்பு</a></span>, <span class="link"><a href="net-macaddress.html.ta" title="MAC முகவரி என்றால் என்ன?">MAC முகவரிகள்</a></span>, <span class="link"><a href="net-proxy.html.ta" title="பதிலி அமைவுகளை வரையறுத்தல்">பதிலிகள்</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-email.html" title="மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்">மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்</a></div>
+<div class="links-grid-link"><a href="net-email.html.ta" title="மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்">மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-email.html" title="மின்னஞ்சல்களை எழுத எந்த மின்னஞ்சல் பயன்பாடு பயன்படுத்தப்படுகிறது என்பதை மாற்றுதல்">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html" title="என் மின்னஞ்சல்களில் வைரஸ்கள் உள்ளதா என ஸ்கேன் செய்ய வேண்டுமா?">Should I scan for viruses?</a></span>…
+      <span class="link"><a href="net-default-email.html.ta" title="மின்னஞ்சல்களை எழுத எந்த மின்னஞ்சல் பயன்பாடு பயன்படுத்தப்படுகிறது என்பதை மாற்றுதல்">Default email apps</a></span>,
+      <span class="link"><a href="net-email-virus.html.ta" title="என் மின்னஞ்சல்களில் வைரஸ்கள் உள்ளதா என ஸ்கேன் செய்ய வேண்டுமா?">Should I scan for viruses?</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html" title="வயர்டு பிணைய அமைப்பு">வயர்டு பிணைய அமைப்பு</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html" title="வயர்டு (ஈத்தர்நெட்) பிணையத்திற்கு இணைத்தல்">வயர்டு இணைய இணைப்புகள்</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="ஒரு நிலையான IP முகவரியுடனான ஒரு இணைப்பை உருவாக்குதல்">நிலையான IP முகவரிகள்</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wired.html.ta" title="வயர்டு பிணைய அமைப்பு">வயர்டு பிணைய அமைப்பு</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.ta" title="வயர்டு (ஈத்தர்நெட்) பிணையத்திற்கு இணைத்தல்">வயர்டு இணைய இணைப்புகள்</a></span>, <span class="link"><a href="net-fixed-ip-address.html.ta" title="ஒரு நிலையான IP முகவரியுடனான ஒரு இணைப்பை உருவாக்குதல்">நிலையான IP முகவரிகள்</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html" title="வலை உலாவிகள்">வலை உலாவிகள்</a></div>
+<div class="links-grid-link"><a href="net-browser.html.ta" title="வலை உலாவிகள்">வலை உலாவிகள்</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="Install the Flash plug-in">install Flash</a></span>…
+      <span class="link"><a href="net-default-browser.html.ta" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-install-flash.html.ta" title="Install the Flash plug-in">install Flash</a></span>…
     </span></div>
 </div>
 </div></div></div></div>
@@ -113,11 +113,11 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.ta" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-get-online.html" title="ஆன்லைனில் பெறுக">இணைய இணைப்புகுக்குச் செல்வது பற்றிய பயிற்சி</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-get-online.html.ta" title="ஆன்லைனில் பெறுக">இணைய இணைப்புகுக்குச் செல்வது பற்றிய பயிற்சி</a></li></ul></div>
 </div></div>
 </div>
 </div>

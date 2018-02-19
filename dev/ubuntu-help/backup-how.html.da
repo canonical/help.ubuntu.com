@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html#backup" title="Sikkerhedskopiering">Sikkerhedskopiering</a> » <a class="trail" href="backup-why.html" title="Back up your important files">Backups</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#backup" title="Sikkerhedskopiering">Sikkerhedskopiering</a> » <a class="trail" href="backup-why.html.da" title="Back up your important files">Backups</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">How to back up</span></h1></div>
@@ -54,9 +54,9 @@
  applications are available, for example <span class="app">Déjà Dup</span>.</p>
 <p class="p">The help for your chosen backup application will walk you through setting
  your preferences for the backup, as well as how to restore your data.</p>
-<p class="p">An alternative option is to <span class="link"><a href="files-copy.html" title="Copy or move files and folders">copy your files</a></span>
+<p class="p">An alternative option is to <span class="link"><a href="files-copy.html.da" title="Copy or move files and folders">copy your files</a></span>
  to a safe location, such as an external hard drive, another computer on the
- network, or a USB drive. Your <span class="link"><a href="backup-thinkabout.html" title="Where can I find the files I want to back up?">personal files</a></span>
+ network, or a USB drive. Your <span class="link"><a href="backup-thinkabout.html.da" title="Where can I find the files I want to back up?">personal files</a></span>
  and settings are usually in your Home folder, so you can copy them from there.</p>
 <p class="p">The amount of data you can back up is limited by the size of the storage
  device. If you have the room on your backup device, it is best to back up the
@@ -77,7 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Back up your important files">Back up your important files</a><span class="desc"> — Why, what, where and how of backups.</span>
+<a href="backup-why.html.da" title="Back up your important files">Back up your important files</a><span class="desc"> — Why, what, where and how of backups.</span>
 </li></ul></div>
 </div></div></div>
 </div>

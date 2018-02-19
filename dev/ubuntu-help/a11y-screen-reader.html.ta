@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="அனைவருக்குமான அணுகல்">அனைவருக்குமான அணுகல்</a> › <a class="trail" href="a11y.html#vision" title="பார்வைக் குறைபாடுகள்">பார்வைக் குறைபாடுகள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ta" title="அனைவருக்குமான அணுகல்">அனைவருக்குமான அணுகல்</a> › <a class="trail" href="a11y.html.ta#vision" title="பார்வைக் குறைபாடுகள்">பார்வைக் குறைபாடுகள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">திரையை உரக்க வாசித்தல்</span></h1></div>
@@ -56,7 +56,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Press <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
 <p class="p">Or to start <span class="app">Orca</span> using a mouse and keyboard:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Screen Reader</span> in the <span class="gui">Seeing</span> section, then
@@ -65,7 +65,7 @@
 <div class="note note-tip" title="துணுக்கு"><div class="inner">
 <div class="title title-note"><h2><span class="title">Quickly turn Screen Reader on and off</span></h2></div>
 <div class="region"><div class="contents"><p class="p">You can turn Screen Reader on and off by clicking the
-    <span class="link"><a href="a11y-icon.html" title="அனைவருக்குமான அணுகல் மெனுவைக் கண்டறிதல்">accessibility icon</a></span> in the top bar and
+    <span class="link"><a href="a11y-icon.html.ta" title="அனைவருக்குமான அணுகல் மெனுவைக் கண்டறிதல்">accessibility icon</a></span> in the top bar and
     selecting <span class="gui">Screen Reader</span>.</p></div></div>
 </div></div>
 <p class="p">Refer to the <span class="link"><a href="help:orca" title="help:orca">Orca Help</a></span> for
@@ -76,12 +76,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="பார்வைக் குறைபாடுகள்">பார்வைக் குறைபாடுகள்</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.ta#vision" title="பார்வைக் குறைபாடுகள்">பார்வைக் குறைபாடுகள்</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y-braille.html" title="பிரெய்லி முறையில் திரையை வாசிக்கவும்">பிரெய்லி முறையில் திரையை வாசிக்கவும்</a><span class="desc"> — புதுப்பிக்கும் வசதியுள்ள பிரெய்லி காட்சியைக் கொண்ட <span class="app">Orca</span> திரை வாசிப்புக் கருவியைப் பயன்படுத்துங்கள்.</span>
+<a href="a11y-braille.html.ta" title="பிரெய்லி முறையில் திரையை வாசிக்கவும்">பிரெய்லி முறையில் திரையை வாசிக்கவும்</a><span class="desc"> — புதுப்பிக்கும் வசதியுள்ள பிரெய்லி காட்சியைக் கொண்ட <span class="app">Orca</span> திரை வாசிப்புக் கருவியைப் பயன்படுத்துங்கள்.</span>
 </li></ul></div>
 </div></div>
 </div>

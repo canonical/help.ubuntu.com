@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Häufige Probleme">Probleme</a> » <a class="trail" href="power.html#problems" title="Probleme">Energieprobleme</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html.de#problems" title="Häufige Probleme">Probleme</a> » <a class="trail" href="power.html.de#problems" title="Probleme">Energieprobleme</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ich habe keine Funknetzwerkverbindung, wenn ich meinen Rechner aus einem Energiesparmodus aufwecke</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Wenn Sie Ihren Rechner in Bereitschaft versetzt haben kann es vorkommen, dass keine Funknetzwerkverbindung mehr besteht, wenn Sie ihn wieder aufwecken. Dies tritt ein, wenn die <span class="link"><a href="hardware-driver.html" title="Was ist ein Treiber?">Treiber</a></span> des Funknetzwerkgerätes bestimmte Energiesparfunktionen nicht vollständig unterstützen. Dies hat oft zur Folge, dass die Funknetzwerkverbindung nach dem Aufwachen nicht hergestellt werden kann.</p>
+<p class="p">Wenn Sie Ihren Rechner in Bereitschaft versetzt haben kann es vorkommen, dass keine Funknetzwerkverbindung mehr besteht, wenn Sie ihn wieder aufwecken. Dies tritt ein, wenn die <span class="link"><a href="hardware-driver.html.de" title="Was ist ein Treiber?">Treiber</a></span> des Funknetzwerkgerätes bestimmte Energiesparfunktionen nicht vollständig unterstützen. Dies hat oft zur Folge, dass die Funknetzwerkverbindung nach dem Aufwachen nicht hergestellt werden kann.</p>
 <p class="p">Versuchen Sie in diesem Fall, das Funknetzwerk aus- und wieder einzuschalten:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Netzwerk</span>.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Netzwerk</span>.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Netzwerk</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Wählen Sie <span class="gui">Drahtlosnetzwerk</span>.</p></li>
 <li class="steps"><p class="p">Versuchen Sie, das Funknetzwerk <span class="gui">AUS</span>- und wieder <span class="gui">AN</span>zuschalten.</p></li>
@@ -66,17 +66,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html#problems" title="Probleme">Energieprobleme</a><span class="desc"> — Problemlösungen mit Stromversorgung und Akkus.</span>
+<a href="power.html.de#problems" title="Probleme">Energieprobleme</a><span class="desc"> — Problemlösungen mit Stromversorgung und Akkus.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspendfail.html" title="Warum wacht mein Rechner nicht mehr auf, nachdem ich ihn in Bereitschaft versetzt habe?">Warum wacht mein Rechner nicht mehr auf, nachdem ich ihn in Bereitschaft versetzt habe?</a><span class="desc"> — Manche Hardware-Komponenten verursachen Probleme mit dem Versetzen in Bereitschaft.</span>
+<a href="power-suspendfail.html.de" title="Warum wacht mein Rechner nicht mehr auf, nachdem ich ihn in Bereitschaft versetzt habe?">Warum wacht mein Rechner nicht mehr auf, nachdem ich ihn in Bereitschaft versetzt habe?</a><span class="desc"> — Manche Hardware-Komponenten verursachen Probleme mit dem Versetzen in Bereitschaft.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="Was ist ein Treiber?">Was ist ein Treiber?</a><span class="desc"> — Ein Hardware-/Geräte-Treiber ermöglicht Ihrem Rechner die Verwendung von Geräten, die mit ihm verbunden sind.</span>
+<a href="hardware-driver.html.de" title="Was ist ein Treiber?">Was ist ein Treiber?</a><span class="desc"> — Ein Hardware-/Geräte-Treiber ermöglicht Ihrem Rechner die Verwendung von Geräten, die mit ihm verbunden sind.</span>
 </li>
 </ul></div>
 </div></div>

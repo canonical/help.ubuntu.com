@@ -43,15 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Getting Started">Getting Started with GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.en" title="Getting Started">Getting Started with GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="Get online">Previous</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Connect to online accounts">Next</a>
+<a class="nextlinks-prev" href="gs-get-online.html.en" title="Get online">Previous</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.en" title="Connect to online accounts">Next</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Browse the web</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Move your mouse pointer to the <span class="gui">Activities</span> corner at
+      the top left of the screen to show the <span class="gui">Activities Overview</span>.
+      </p></li>
+<li class="steps"><p class="p">Select the <span class="app">Firefox</span> browser icon from the bar on the
+      left-hand side of the screen.</p></li>
+</ol></div></div></div>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Alternatively, you can launch the browser by <span class="link"><a href="gs-use-system-search.html.en" title="Use the system search">just typing</a></span> <span class="em">Firefox</span> in the
+    <span class="gui">Activities Overview</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Click the address bar at the top of the browser window and start
        typing in the website you want to visit.</p></li>
 <li class="steps">
@@ -65,9 +77,10 @@
        using the arrow keys.</p></li>
 <li class="steps"><p class="p">After you have selected a website, press <span class="key"><kbd>Enter</kbd></span> to
        visit it.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="Get online">Previous</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Connect to online accounts">Next</a>
+<a class="nextlinks-prev" href="gs-get-online.html.en" title="Get online">Previous</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.en" title="Connect to online accounts">Next</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -75,15 +88,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">More Information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Getting Started">Getting Started with GNOME</a><span class="desc"> — New to GNOME? Learn how to get around.</span>
+<a href="getting-started.html.en" title="Getting Started">Getting Started with GNOME</a><span class="desc"> — New to GNOME? Learn how to get around.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">See Also</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Web Browsers">Web Browsers</a><span class="desc"> — 
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="Install the Flash plug-in">install Flash</a></span>…
+<a href="net-browser.html.en" title="Web Browsers">Web Browsers</a><span class="desc"> — 
+      <span class="link"><a href="net-default-browser.html.en" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-install-flash.html.en" title="Install the Flash plug-in">install Flash</a></span>…
     </span>
 </li></ul></div>
 </div></div>

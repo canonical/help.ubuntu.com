@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tips och tricks</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Användbara tangentbordsgenvägar"><span class="title">Användbara tangentbordsgenvägar</span><span class="linkdiv-dash"> — </span><span class="desc">Ta sig runt på skrivbordet med hjälp av tangentbordet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html" title="Mata in speciella tecken"><span class="title">Mata in speciella tecken</span><span class="linkdiv-dash"> — </span><span class="desc">Skriv tecken som inte finns på ditt tangentbord, inklusive främmande alfabeten, matematiska symboler och dingbats.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Mittenklick"><span class="title">Mittenklick</span><span class="linkdiv-dash"> — </span><span class="desc">Använd mittenknappen för att öppna program, öppna flikar med mera.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html" title="Skärmbilder och skärminspelningar"><span class="title">Skärmbilder och skärminspelningar</span><span class="linkdiv-dash"> — </span><span class="desc">Ta en bild eller spela in en video som visar vad som händer på skärmen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="gnome-version.html" title="Ta reda på vilken version av GNOME som kör"><span class="title">Ta reda på vilken version av GNOME som kör</span><span class="linkdiv-dash"> — </span><span class="desc">Hur du tar reda på vilken version av GNOME som kör.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.sv" title="Användbara tangentbordsgenvägar"><span class="title">Användbara tangentbordsgenvägar</span><span class="linkdiv-dash"> — </span><span class="desc">Ta sig runt på skrivbordet med hjälp av tangentbordet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html.sv" title="Mata in speciella tecken"><span class="title">Mata in speciella tecken</span><span class="linkdiv-dash"> — </span><span class="desc">Skriv tecken som inte finns på ditt tangentbord, inklusive främmande alfabeten, matematiska symboler och dingbats.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.sv" title="Mittenklick"><span class="title">Mittenklick</span><span class="linkdiv-dash"> — </span><span class="desc">Använd mittenknappen för att öppna program, öppna flikar med mera.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html.sv" title="Skärmbilder och skärminspelningar"><span class="title">Skärmbilder och skärminspelningar</span><span class="linkdiv-dash"> — </span><span class="desc">Ta en bild eller spela in en video som visar vad som händer på skärmen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="gnome-version.html.sv" title="Ta reda på vilken version av GNOME som kör"><span class="title">Ta reda på vilken version av GNOME som kör</span><span class="linkdiv-dash"> — </span><span class="desc">Hur du tar reda på vilken version av GNOME som kör.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Handbok för Ubuntu-skrivbordet">Handbok för Ubuntu-skrivbordet</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.sv" title="Handbok för Ubuntu-skrivbordet">Handbok för Ubuntu-skrivbordet</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Configuração de compartição</span></h1></div>
@@ -52,13 +52,13 @@
 <p class="p">A <span class="em">configuração da compartição</span> em GNOME ajuda-lhe a controlar que se partilha na rede local, ou mediante outras tecnologias como por exemplo <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html" title="Estabelecer o nome visível da computador"><span class="title">Estabelecer o nome visível da computador</span><span class="linkdiv-dash"> — </span><span class="desc">Controlar como se mostra o seu computador a outras computadores ou dispositivos.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Controlar a partilha por Bluetooth"><span class="title">Controlar a partilha por Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Permitir subir ficheiros à computador mediante Bluetooth</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-media.html" title="Partilhar a sua música, fotos e vídeos"><span class="title">Partilhar a sua música, fotos e vídeos</span><span class="linkdiv-dash"> — </span><span class="desc">Partilhar meios na sua rede local utilizando UPnP.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.pt" title="Estabelecer o nome visível da computador"><span class="title">Estabelecer o nome visível da computador</span><span class="linkdiv-dash"> — </span><span class="desc">Controlar como se mostra o seu computador a outras computadores ou dispositivos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.pt" title="Controlar a partilha por Bluetooth"><span class="title">Controlar a partilha por Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Permitir subir ficheiros à computador mediante Bluetooth</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-media.html.pt" title="Partilhar a sua música, fotos e vídeos"><span class="title">Partilhar a sua música, fotos e vídeos</span><span class="linkdiv-dash"> — </span><span class="desc">Partilhar meios na sua rede local utilizando UPnP.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html" title="Partilhar seu escritório"><span class="title">Partilhar seu escritório</span><span class="linkdiv-dash"> — </span><span class="desc">Permitir que outras pessoas vejam e interatúen com seu escritório utilizando VNC.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html" title="Partilhar seus ficheiros pessoais"><span class="title">Partilhar seus ficheiros pessoais</span><span class="linkdiv-dash"> — </span><span class="desc">Permitir a outras pessoas aceder aos ficheiros da sua diretório <span class="file">Público</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.pt" title="Partilhar seu escritório"><span class="title">Partilhar seu escritório</span><span class="linkdiv-dash"> — </span><span class="desc">Permitir que outras pessoas vejam e interatúen com seu escritório utilizando VNC.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.pt" title="Partilhar seus ficheiros pessoais"><span class="title">Partilhar seus ficheiros pessoais</span><span class="linkdiv-dash"> — </span><span class="desc">Permitir a outras pessoas aceder aos ficheiros da sua diretório <span class="file">Público</span>.</span></a></div>
 </div>
 </div></div></div>
 </div>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Utente e configuração do sistema">Utente e configuração do sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html" title="Rato">rato</a></span>, <span class="link"><a href="prefs-display.html" title="Ecrã">ecrã</a></span>, <span class="link"><a href="prefs-language.html" title="Região e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html" title="Contas de utilizador">contas de utilizador</a></span>…</span>
+<a href="prefs.html.pt" title="Utente e configuração do sistema">Utente e configuração do sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.pt" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html.pt" title="Rato">rato</a></span>, <span class="link"><a href="prefs-display.html.pt" title="Ecrã">ecrã</a></span>, <span class="link"><a href="prefs-language.html.pt" title="Região e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html.pt" title="Contas de utilizador">contas de utilizador</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

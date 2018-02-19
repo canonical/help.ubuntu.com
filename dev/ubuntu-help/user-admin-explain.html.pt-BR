@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="user-accounts.html" title="Contas de usuários">Usuários</a> › <a class="trail" href="user-accounts.html#privileges" title="Privilégios de usuário">Privilégios</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="user-accounts.html.pt-BR" title="Contas de usuários">Usuários</a> › <a class="trail" href="user-accounts.html.pt-BR#privileges" title="Privilégios de usuário">Privilégios</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Como funcionam os privilégios administrativos?</span></h1></div>
@@ -72,34 +72,34 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Privilégios de usuário">Privilégios de usuário</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.pt-BR#privileges" title="Privilégios de usuário">Privilégios de usuário</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-changepicture.html" title="Alterando a sua foto da tela de autenticação">Alterando a sua foto da tela de autenticação</a><span class="desc"> — Adicione sua foto à tela de usuário e de autenticação.</span>
+<a href="user-changepicture.html.pt-BR" title="Alterando a sua foto da tela de autenticação">Alterando a sua foto da tela de autenticação</a><span class="desc"> — Adicione sua foto à tela de usuário e de autenticação.</span>
 </li>
 <li class="links ">
-<a href="user-changepassword.html" title="Alterando a sua senha">Alterando a sua senha</a><span class="desc"> — Mantenha sua conta segura alterando sua senha frequentemente nas configurações da sua conta.</span>
+<a href="user-changepassword.html.pt-BR" title="Alterando a sua senha">Alterando a sua senha</a><span class="desc"> — Mantenha sua conta segura alterando sua senha frequentemente nas configurações da sua conta.</span>
 </li>
 <li class="links ">
-<a href="printing-name-location.html" title="Alterando o nome ou localização de uma impressora">Alterando o nome ou localização de uma impressora</a><span class="desc"> — Altere o nome ou localização de uma impressora nas configurações de impressora.</span>
+<a href="printing-name-location.html.pt-BR" title="Alterando o nome ou localização de uma impressora">Alterando o nome ou localização de uma impressora</a><span class="desc"> — Altere o nome ou localização de uma impressora nas configurações de impressora.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="Alterando quem tem privilégios administrativos">Alterando quem tem privilégios administrativos</a><span class="desc"> — Você pode permitir que usuários façam alterações no sistema, dando-lhes privilégios administrativos.</span>
+<a href="user-admin-change.html.pt-BR" title="Alterando quem tem privilégios administrativos">Alterando quem tem privilégios administrativos</a><span class="desc"> — Você pode permitir que usuários façam alterações no sistema, dando-lhes privilégios administrativos.</span>
 </li>
 <li class="links ">
-<a href="printing-setup-default-printer.html" title="Definindo a impressora padrão">Definindo a impressora padrão</a><span class="desc"> — Escolha a impressora que você usa com mais frequência.</span>
+<a href="printing-setup-default-printer.html.pt-BR" title="Definindo a impressora padrão">Definindo a impressora padrão</a><span class="desc"> — Escolha a impressora que você usa com mais frequência.</span>
 </li>
 <li class="links ">
-<a href="user-delete.html" title="Excluindo uma conta de usuário">Excluindo uma conta de usuário</a><span class="desc"> — Remova os usuários que não usam mais seu computador.</span>
+<a href="user-delete.html.pt-BR" title="Excluindo uma conta de usuário">Excluindo uma conta de usuário</a><span class="desc"> — Remova os usuários que não usam mais seu computador.</span>
 </li>
 <li class="links ">
-<a href="net-othersedit.html" title="Outros usuários não conseguem editar as conexões de rede">Outros usuários não conseguem editar as conexões de rede</a><span class="desc"> — Você precisa desmarcar a opção <span class="gui">Disponível para todos os usuários</span> nas configurações de rede.</span>
+<a href="net-othersedit.html.pt-BR" title="Outros usuários não conseguem editar as conexões de rede">Outros usuários não conseguem editar as conexões de rede</a><span class="desc"> — Você precisa desmarcar a opção <span class="gui">Disponível para todos os usuários</span> nas configurações de rede.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="Problemas causados por restrições administrativas">Problemas causados por restrições administrativas</a><span class="desc"> — Você só pode fazer algumas coisas, como instalar aplicativos, apenas se tiver privilégios administrativos.</span>
+<a href="user-admin-problems.html.pt-BR" title="Problemas causados por restrições administrativas">Problemas causados por restrições administrativas</a><span class="desc"> — Você só pode fazer algumas coisas, como instalar aplicativos, apenas se tiver privilégios administrativos.</span>
 </li>
 </ul></div>
 </div></div>

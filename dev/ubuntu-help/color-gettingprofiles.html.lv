@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="color.html" title="Krāsu pārvaldība">Krāsu pārvaldība</a> › <a class="trail" href="color.html#profiles" title="Krāsu profili">Krāsu profili</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="color.html.lv" title="Krāsu pārvaldība">Krāsu pārvaldība</a> › <a class="trail" href="color.html.lv#profiles" title="Krāsu profili">Krāsu profili</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="color.html" title="Krāsu pārvaldība">Krāsu pārvaldība</a> › <a class="trail" href="color.html#profiles" title="Krāsu profili">Krāsu profili</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="color.html.lv" title="Krāsu pārvaldība">Krāsu pārvaldība</a> › <a class="trail" href="color.html.lv#profiles" title="Krāsu profili">Krāsu profili</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,29 +56,29 @@
 <p class="p">Labākais veids, kā iegūt profilus, ir ģenerēt to pašam, lai gan tas prasa zināmus priekšdarbus.</p>
 <p class="p">Daudzi ražotāji mēģina nodrošināt krāsu profilus ierīcēm; tie dažreiz ir iepakoti <span class="em">draiveru pakās</span>, kurus jums varētu vajadzētu lejupielādēt, atspiest un sameklēt krāsu profilus.</p>
 <p class="p">Daži ražotāji nenodrošina precīzus profilus ražotajai aparatūrai un tos vislabāk ir neizmantot. Laba pazīme par šādu profilu ir, ja tā izveides datums ir vairāk kā gadu pirms jūs nopirkāt ierīci. Tad, visticamāk, tie ir jums nederīgi dati.</p>
-<p class="p">Skatiet <span class="link"><a href="color-why-calibrate.html" title="Kāpēc man pašam ir jāveic kalibrēšana?">Kāpēc man pašam ir jāveic kalibrēšana?</a></span>, lai uzzinātu, kādēļ ražotāju piegādātie profili bieži vien ir sliktāki par vienkārši nederīgiem.</p>
+<p class="p">Skatiet <span class="link"><a href="color-why-calibrate.html.lv" title="Kāpēc man pašam ir jāveic kalibrēšana?">Kāpēc man pašam ir jāveic kalibrēšana?</a></span>, lai uzzinātu, kādēļ ražotāju piegādātie profili bieži vien ir sliktāki par vienkārši nederīgiem.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Krāsu profili">Krāsu profili</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.lv#profiles" title="Krāsu profili">Krāsu profili</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Kas ir krāsu profils?">Kas ir krāsu profils?</a><span class="desc"> — Krāsu profils ir vienkārša datne, kas raksturo krāsu telpu vai ierīces krāsu atbildi.</span>
+<a href="color-whatisprofile.html.lv" title="Kas ir krāsu profils?">Kas ir krāsu profils?</a><span class="desc"> — Krāsu profils ir vienkārša datne, kas raksturo krāsu telpu vai ierīces krāsu atbildi.</span>
 </li>
 <li class="links ">
-<a href="color-testing.html" title="Kā lai es pārbaudu, vai krāsu pārvaldība strādā korekti?">Kā lai es pārbaudu, vai krāsu pārvaldība strādā korekti?</a><span class="desc"> — Izmantojiet piegādātos testa profilus, lai pārliecinātos, ka profili ekrānam tiek pielietoti pareizi.</span>
+<a href="color-testing.html.lv" title="Kā lai es pārbaudu, vai krāsu pārvaldība strādā korekti?">Kā lai es pārbaudu, vai krāsu pārvaldība strādā korekti?</a><span class="desc"> — Izmantojiet piegādātos testa profilus, lai pārliecinātos, ka profili ekrānam tiek pielietoti pareizi.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Kāpēc man pašam ir jāveic kalibrēšana?">Kāpēc man pašam ir jāveic kalibrēšana?</a><span class="desc"> — Kalibrēšana ir svarīga, ja jums ir svarīgi, kā izskatās krāsas uz ekrāna vai izdrukājot.</span>
+<a href="color-why-calibrate.html.lv" title="Kāpēc man pašam ir jāveic kalibrēšana?">Kāpēc man pašam ir jāveic kalibrēšana?</a><span class="desc"> — Kalibrēšana ir svarīga, ja jums ir svarīgi, kā izskatās krāsas uz ekrāna vai izdrukājot.</span>
 </li>
 <li class="links ">
-<a href="color-missingvcgt.html" title="Trūkst informācijas par visa ekrāna krāsu korekciju?">Trūkst informācijas par visa ekrāna krāsu korekciju?</a><span class="desc"> — Pilna ekrāna krāsu korekcija maina visas ekrāna krāsas visos logos.</span>
+<a href="color-missingvcgt.html.lv" title="Trūkst informācijas par visa ekrāna krāsu korekciju?">Trūkst informācijas par visa ekrāna krāsu korekciju?</a><span class="desc"> — Pilna ekrāna krāsu korekcija maina visas ekrāna krāsas visos logos.</span>
 </li>
 </ul></div>
 </div></div>

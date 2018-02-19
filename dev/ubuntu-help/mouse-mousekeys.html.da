@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Tilgængelighed">Tilgængelighed</a> › <a class="trail" href="a11y.html#mobility" title="Bevægelseshæmninger">Bevægelseshæmninger</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.da" title="Tilgængelighed">Tilgængelighed</a> › <a class="trail" href="a11y.html.da#mobility" title="Bevægelseshæmninger">Bevægelseshæmninger</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="mouse.html" title="Mus">Mus</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="mouse.html.da" title="Mus">Mus</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">Settings</a> » <a class="trail" href="mouse.html" title="Mus">Mus</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="mouse.html.da" title="Mus">Mus</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,12 +60,12 @@
   feature is called <span class="em">mouse keys</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Åbn <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Tilgængelighed</span>.</p>
+<p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Tilgængelighed</span>.</p>
 <p class="p">You can access the <span class="gui">Activities</span> overview by pressing on it,
       by moving your mouse pointer against the top-left corner of the screen,
       using <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>
       followed by <span class="key"><kbd>Enter</kbd></span> or using
-      <span class="key"><a href="keyboard-key-super.html" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span>.</p>
+      <span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span>.</p>
 </li>
 <li class="steps"><p class="p">Klik på <span class="gui">Tilgængelighed</span> for at åbne panelet.</p></li>
 <li class="steps"><p class="p">Use the up and down arrow keys to select <span class="gui">Mouse Keys</span> in the
@@ -85,9 +85,9 @@
   <span class="key"><kbd>2</kbd></span> will move it downwards. Press the <span class="key"><kbd>5</kbd></span> key to click once
   with the mouse, or quickly press it twice to double-click.</p>
 <p class="p">Most keyboards have a special key which allows you to right-click,
-  sometimes called the <span class="key"><a href="keyboard-key-menu.html" title="Hvad er Menu-tasten?"><kbd>Menu</kbd></a></span> key. Note,
+  sometimes called the <span class="key"><a href="keyboard-key-menu.html.da" title="Hvad er Menu-tasten?"><kbd>Menu</kbd></a></span> key. Note,
   however, that this key responds to where your keyboard focus is, not where
-  your mouse pointer is. See <span class="link"><a href="a11y-right-click.html" title="Simulér et højreklik">Simulér et højreklik</a></span> for information on
+  your mouse pointer is. See <span class="link"><a href="a11y-right-click.html.da" title="Simulér et højreklik">Simulér et højreklik</a></span> for information on
   how to right-click by holding down <span class="key"><kbd>5</kbd></span> or the left mouse button.</p>
 <p class="p">If you want to use the keypad to type numbers while mouse keys is enabled,
   turn <span class="key"><kbd>Num Lock</kbd></span> on. The mouse cannot be controlled with the keypad
@@ -100,12 +100,12 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Bevægelseshæmninger">Bevægelseshæmninger</a></li>
+<li class="links "><a href="a11y.html.da#mobility" title="Bevægelseshæmninger">Bevægelseshæmninger</a></li>
 <li class="links ">
-<a href="mouse.html" title="Mus">Mus</a><span class="desc"> — 
-      <span class="link"><a href="mouse-lefthanded.html" title="Use your mouse left-handed">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
+<a href="mouse.html.da" title="Mus">Mus</a><span class="desc"> — 
+      <span class="link"><a href="mouse-lefthanded.html.da" title="Use your mouse left-handed">Left-handed</a></span>,
+      <span class="link"><a href="mouse-sensitivity.html.da" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
+      <span class="link"><a href="mouse-touchpad-click.html.da" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
     </span>
 </li>
 </ul></div>

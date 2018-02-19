@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Προσθήκη/Αφαίρεση Λογισμικού</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.el" title="Install &amp; remove software">Προσθήκη/Αφαίρεση Λογισμικού</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Install languages</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">When you install Ubuntu, the language you select at installation gets
   installed together with English, but you can add further languages.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
@@ -63,7 +63,7 @@
 <li class="steps"><p class="p">Check the languages you want to install, and uncheck those
       currently installed languages you want to remove.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Apply Changes</span>.</p></li>
-<li class="steps"><p class="p">Απαιτούνται <span class="link"><a href="user-admin-explain.html" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">δικαιώματα διαχειριστή</a></span>. Εισάγετε τον κωδικό σας, ή τον κωδικό για τον απαιτούμενο λογαριασμό διαχειριστή.</p></li>
+<li class="steps"><p class="p">Απαιτούνται <span class="link"><a href="user-admin-explain.html.el" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">δικαιώματα διαχειριστή</a></span>. Εισάγετε τον κωδικό σας, ή τον κωδικό για τον απαιτούμενο λογαριασμό διαχειριστή.</p></li>
 </ol></div></div></div>
 <p class="p">In addition to the translations used to display menus and messages,
   with a new language may follow various language support components such
@@ -76,10 +76,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Απομακρύνετε μια εφαρμογή">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+<a href="addremove.html.el" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
+      <span class="link"><a href="addremove-install.html.el" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.el" title="Απομακρύνετε μια εφαρμογή">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.el" title="Add software repositories">add repositories</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -87,7 +87,7 @@
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Install additional applications">
+<a href="addremove-install.html.el" title="Install additional applications">
     Install additional applications
   </a><span class="desc"> — 
       Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
@@ -95,7 +95,7 @@
     </span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Περιοχή &amp; γλώσσα">Περιοχή &amp; γλώσσα</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Αλλάξτε τη γλώσσα που χρησιμοποιείτε">Γλώσσα</a></span>, <span class="link"><a href="session-formats.html" title="Αλλαγή μορφών ημερομηνίας και μέτρησης">Περιοχή και τύποι</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Διατάξεις πληκτρολογίου</a></span>…</span>
+<a href="prefs-language.html.el" title="Περιοχή &amp; γλώσσα">Περιοχή &amp; γλώσσα</a><span class="desc"> — <span class="link"><a href="session-language.html.el" title="Αλλάξτε τη γλώσσα που χρησιμοποιείτε">Γλώσσα</a></span>, <span class="link"><a href="session-formats.html.el" title="Αλλαγή μορφών ημερομηνίας και μέτρησης">Περιοχή και τύποι</a></span>, <span class="link"><a href="keyboard-layouts.html.el" title="Use alternative keyboard layouts">Διατάξεις πληκτρολογίου</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html" title="Získat další nápovědu">Získat další nápovědu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.cs" title="Získat další nápovědu">Získat další nápovědu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Pomozte vylepšit překlady</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Tato dokumentace je vytvářena komunitou dobrovolníků. Budeme rádi, když nám pomůžete. Pokud v dokumentaci narazíte na problém (jako například překlepy, nesprávné instrukce nebo témata, která by měla být pokryta, ale nejsou), můžete <span class="em">nahlásit bug</span>.</p>
 <p class="p">Pro nahlášení bugu stiskněte <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> a napište <span class="input">ubuntu-bug ubuntu-docs</span>. Pro zahájení sbírání informací pro nahlášení bugu stiskněte <span class="gui">Enter</span>.</p>
-<p class="p">Více informací o tom, jak nahlásit bug naleznete v <span class="link"><a href="report-ubuntu-bug.html" title="Nahlášení problému v Ubuntu">Nahlášení problému v Ubuntu</a></span>.</p>
+<p class="p">Více informací o tom, jak nahlásit bug naleznete v <span class="link"><a href="report-ubuntu-bug.html.cs" title="Nahlášení problému v Ubuntu">Nahlášení problému v Ubuntu</a></span>.</p>
 <p class="p">Děkujeme, že nám pomáháte zlepšovat Dokumentaci Ubuntu!</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -60,13 +60,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html" title="Získat další nápovědu">Získat další nápovědu</a><span class="desc"> — <span class="link"><a href="about-this-guide.html" title="O tomto průvodci">Tipy k používání průvodce</a></span>, <span class="link"><a href="get-involved.html" title="Pomozte vylepšit překlady">pomoc s vylepšením průvodce</a></span>…</span>
+<a href="more-help.html.cs" title="Získat další nápovědu">Získat další nápovědu</a><span class="desc"> — <span class="link"><a href="about-this-guide.html.cs" title="O tomto průvodci">Tipy k používání průvodce</a></span>, <span class="link"><a href="get-involved.html.cs" title="Pomozte vylepšit překlady">pomoc s vylepšením průvodce</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="report-ubuntu-bug.html" title="Nahlášení problému v Ubuntu">Nahlášení problému v Ubuntu</a><span class="desc"> — Jak a kde nahlásit problémy s Ubuntu.</span>
+<a href="report-ubuntu-bug.html.cs" title="Nahlášení problému v Ubuntu">Nahlášení problému v Ubuntu</a><span class="desc"> — Jak a kde nahlásit problémy s Ubuntu.</span>
 </li></ul></div>
 </div></div>
 </div>

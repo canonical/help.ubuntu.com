@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="power.html" title="Enerxía e batería">Enerxía e batería</a> › <a class="trail" href="power.html#faq" title="Destinos">Destinos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a> › <a class="trail" href="power.html.gl-GL#faq" title="Destinos">Destinos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="power.html" title="Enerxía e batería">Enerxía e batería</a> › <a class="trail" href="power.html#faq" title="Destinos">Destinos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a> › <a class="trail" href="power.html.gl-GL#faq" title="Destinos">Destinos</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,12 +61,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Destinos">Destinos</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.gl-GL#faq" title="Destinos">Destinos</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterywindows.html" title="Por que teño menor tempo de batería que o que tiña en Windows/Mac OS?">Por que teño menor tempo de batería que o que tiña en Windows/Mac OS?</a><span class="desc"> — Os axustes dos fabricantes e diferentes estimacións de duración da batería poden ser a causa deste problema.</span>
+<a href="power-batterywindows.html.gl-GL" title="Por que teño menor tempo de batería que o que tiña en Windows/Mac OS?">Por que teño menor tempo de batería que o que tiña en Windows/Mac OS?</a><span class="desc"> — Os axustes dos fabricantes e diferentes estimacións de duración da batería poden ser a causa deste problema.</span>
 </li></ul></div>
 </div></div>
 </div>

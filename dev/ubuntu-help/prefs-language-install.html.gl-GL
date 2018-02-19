@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="addremove.html" title="Instalar e eliminar software">Engadir/Eliminar aplicativos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="addremove.html.gl-GL" title="Instalar e eliminar software">Engadir/Eliminar aplicativos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Instalar idiomas</span></h1></div>
@@ -51,13 +51,13 @@
 <div class="contents">
 <p class="p">Cando instala Ubuntu, o idioma que selecciona instálase xunto co inglés, pero ten a posibilidade de engadir máis idiomas.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista xeral das <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Actividades</a></span> e escriba <span class="gui">Rexión e idioma</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista xeral das <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Actividades</a></span> e escriba <span class="gui">Rexión e idioma</span>.</p></li>
 <li class="steps"><p class="p">Prema en <span class="gui">Rexión e idioma</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Prema o botón <span class="gui">Xestionar idiomas instalados</span> para abrir a <span class="gui">Asistencia de idiomas</span>.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Instalar / Eliminar idiomas...</span>. A xanela cos <span class="gui">idiomas instalados</span> mostra as opcións dispoñíbeis, cos idiomas actualmente instalados marcados.</p></li>
 <li class="steps"><p class="p">Comprobe os idiomas que desexa instalar e desmarque os idiomas instalados que desexa eliminar.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Aplicar cambios</span>.</p></li>
-<li class="steps"><p class="p">Requírense <span class="link"><a href="user-admin-explain.html" title="Como funcionan os privilexios administrativos?">privilexios de administrador</a></span>. Escriba o seu contrasinal ou o contrasinal de administrador que se lle pida.</p></li>
+<li class="steps"><p class="p">Requírense <span class="link"><a href="user-admin-explain.html.gl-GL" title="Como funcionan os privilexios administrativos?">privilexios de administrador</a></span>. Escriba o seu contrasinal ou o contrasinal de administrador que se lle pida.</p></li>
 </ol></div></div></div>
 <p class="p">Ademais das traducións usadas para mostrar os menús e as mensaxes, cun novo idioma podes obter varios compoñentes tales como dicionarios para comprobar a ortografía, tipos de letras e métodos de entrada.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Algunhas traducións poden estar incompletas, e certos aplicativos é posíbel que non sexan compatíbeis co seu idioma.</p></div></div></div></div>
@@ -68,17 +68,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Instalar e eliminar software">Instalar e eliminar software</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Instalar aplicativos adicionais">Instalar aplicativos</a></span>, <span class="link"><a href="addremove-remove.html" title="Retirar un aplicativo">eliminar aplicativos</a></span>, <span class="link"><a href="addremove-sources.html" title="Engadir repositorios de software">engadir repositorios</a></span>…</span>
+<a href="addremove.html.gl-GL" title="Instalar e eliminar software">Instalar e eliminar software</a><span class="desc"> — <span class="link"><a href="addremove-install.html.gl-GL" title="Instalar aplicativos adicionais">Instalar aplicativos</a></span>, <span class="link"><a href="addremove-remove.html.gl-GL" title="Retirar un aplicativo">eliminar aplicativos</a></span>, <span class="link"><a href="addremove-sources.html.gl-GL" title="Engadir repositorios de software">engadir repositorios</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Instalar aplicativos adicionais">Instalar aplicativos adicionais</a><span class="desc"> — Use <span class="app">Ubuntu Software</span> para instalar aplicativos adicionais e facer o Ubuntu máis útil.</span>
+<a href="addremove-install.html.gl-GL" title="Instalar aplicativos adicionais">Instalar aplicativos adicionais</a><span class="desc"> — Use <span class="app">Ubuntu Software</span> para instalar aplicativos adicionais e facer o Ubuntu máis útil.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Rexión e idioma">Rexión e idioma</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Cambiar o idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html" title="Cambiar a hora e data">rexión e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Usar distribucións de teclado alternativas">distribucións de teclado</a></span>…</span>
+<a href="prefs-language.html.gl-GL" title="Rexión e idioma">Rexión e idioma</a><span class="desc"> — <span class="link"><a href="session-language.html.gl-GL" title="Cambiar o idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html.gl-GL" title="Cambiar a hora e data">rexión e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">distribucións de teclado</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

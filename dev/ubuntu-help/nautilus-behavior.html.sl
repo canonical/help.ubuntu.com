@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="Možnosti upravljalnika datotek">Možnosti upravljalnika datotek</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html.sl#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.sl" title="Možnosti upravljalnika datotek">Možnosti upravljalnika datotek</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Možnosti obnašanja upravljalnika datotek</span></h1></div>
@@ -61,7 +61,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Izvedljive besedilne datoteke</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">An executable text file is a file that contains a program that you can run
- (execute). The <span class="link"><a href="nautilus-file-properties-permissions.html" title="Nastavitev dovoljenja datotek">file
+ (execute). The <span class="link"><a href="nautilus-file-properties-permissions.html.sl" title="Nastavitev dovoljenja datotek">file
  permissions</a></span> must also allow for the file to run as a program. The most
  common are <span class="sys">Shell</span>, <span class="sys">Python</span> and <span class="sys">Perl</span> scripts.
  These have extensions <span class="file">.sh</span>, <span class="file">.py</span> and <span class="file">.pl</span>,
@@ -101,7 +101,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Pogjejte tudi</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="files-delete.html" title="Izbris datotek in map">Izbris datotek in map</a><span class="desc"> — Odstranite datoteke ali mape, ki jih ne potrebujete več.</span>
+<a href="files-delete.html.sl" title="Izbris datotek in map">Izbris datotek in map</a><span class="desc"> — Odstranite datoteke ali mape, ki jih ne potrebujete več.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -112,7 +112,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Možnosti upravljalnika datotek">Možnosti upravljalnika datotek</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.sl" title="Možnosti upravljalnika datotek">Možnosti upravljalnika datotek</a><span class="desc"> — View and set preferences for the file browser.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="tips.html" title="Trucs et astuces">Trucs et astuces</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="tips.html.fr" title="Trucs et astuces">Trucs et astuces</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Saisie de caractères spéciaux</span></h1></div>
@@ -55,22 +55,14 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Méthodes de saisie des caractères</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Table de caractères">Table de caractères</a></li>
-<li class="links "><a href="tips-specialchars.html#characters" title="Characters">Characters</a></li>
-<li class="links "><a href="tips-specialchars.html#compose" title="La touche « compose »">La touche « compose »</a></li>
-<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Points de code">Points de code</a></li>
-<li class="links "><a href="tips-specialchars.html#layout" title="Agencements du clavier">Agencements du clavier</a></li>
-<li class="links "><a href="tips-specialchars.html#im" title="Méthodes de saisie">Méthodes de saisie</a></li>
+<li class="links "><a href="tips-specialchars.html.fr#characters" title="Characters">Characters</a></li>
+<li class="links "><a href="tips-specialchars.html.fr#compose" title="La touche « compose »">La touche « compose »</a></li>
+<li class="links "><a href="tips-specialchars.html.fr#ctrlshiftu" title="Points de code">Points de code</a></li>
+<li class="links "><a href="tips-specialchars.html.fr#layout" title="Agencements du clavier">Agencements du clavier</a></li>
+<li class="links "><a href="tips-specialchars.html.fr#im" title="Méthodes de saisie">Méthodes de saisie</a></li>
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Table de caractères</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">GNOME inclut une application « Table de caractères » qui vous permet de consulter tous les caractères au format Unicode. Utilisez cette table pour trouver le caractère que vous recherchez ensuite, copiez-le et collez-le où vous en avez besoin.</p>
-<p class="p">Vous trouverez la <span class="app">Table de caractères</span> dans la vue d'ensemble des <span class="gui">Activités</span>. Pour avoir plus d'informations sur la table de caractères, consultez le <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">Guide de la table de caractères</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Characters</span></h2></div>
 <div class="region"><div class="contents">
@@ -91,15 +83,19 @@
 <div class="note note-important" title="Important"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
       change this setting.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Define a compose key</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Configuration d'une touche « compose »</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span>
+        overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Keyboard &amp; Mouse</span> tab.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span> setting.</p></li>
-<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you want to use.</p></li>
-<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose key.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span>
+        setting.</p></li>
+<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you
+        want to use.</p></li>
+<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose
+        key.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div>
 </div></div>
@@ -127,7 +123,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Agencements du clavier</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Vous pouvez modifier le comportement de votre clavier pour qu'il ressemble à celui d'une autre langue, sans tenir compte des signes tracés sur les touches. Vous pouvez aussi facilement passer d'un clavier à un autre en le matérialisant par une icône dans la barre supérieure. Pour savoir comment procéder, consultez <span class="link"><a href="keyboard-layouts.html" title="Utiliser des configurations de clavier alternatives">Utiliser des configurations de clavier alternatives</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Vous pouvez modifier le comportement de votre clavier pour qu'il ressemble à celui d'une autre langue, sans tenir compte des signes tracés sur les touches. Vous pouvez aussi facilement passer d'un clavier à un autre en le matérialisant par une icône dans la barre supérieure. Pour savoir comment procéder, consultez <span class="link"><a href="keyboard-layouts.html.fr" title="Utiliser des configurations de clavier alternatives">Utiliser des configurations de clavier alternatives</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Méthodes de saisie</span></h2></div>
@@ -142,13 +138,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Trucs et astuces">Trucs et astuces</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Saisie de caractères spéciaux">Caractères spéciaux</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Clic milieu">raccourcis du clic milieu</a></span>…</span>
+<a href="tips.html.fr" title="Trucs et astuces">Trucs et astuces</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.fr" title="Saisie de caractères spéciaux">Caractères spéciaux</a></span>, <span class="link"><a href="mouse-middleclick.html.fr" title="Clic milieu">raccourcis du clic milieu</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Utiliser des configurations de clavier alternatives">Utiliser des configurations de clavier alternatives</a><span class="desc"> — Ajouter des configurations de clavier et basculer entre elles.</span>
+<a href="keyboard-layouts.html.fr" title="Utiliser des configurations de clavier alternatives">Utiliser des configurations de clavier alternatives</a><span class="desc"> — Ajouter des configurations de clavier et basculer entre elles.</span>
 </li></ul></div>
 </div></div>
 </div>

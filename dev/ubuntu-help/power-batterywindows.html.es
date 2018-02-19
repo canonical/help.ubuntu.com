@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="power.html" title="Energía y batería">Energía y batería</a> › <a class="trail" href="power.html#faq" title="Preguntas">Preguntas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="power.html.es" title="Energía y batería">Energía y batería</a> › <a class="trail" href="power.html.es#faq" title="Preguntas">Preguntas</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="power.html" title="Energía y batería">Energía y batería</a> › <a class="trail" href="power.html#faq" title="Preguntas">Preguntas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="power.html.es" title="Energía y batería">Energía y batería</a> › <a class="trail" href="power.html.es#faq" title="Preguntas">Preguntas</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Algunos equipos parecen tener una duración menor de la batería funcionando bajo GNU/Linux que la que tienen cuando funcionan con Windows o Mac OS. Una razón es que los fabricantes instalan algún software especial para Windows/Mac OS que optimiza varias configuraciones de hardware/software para un modelo de equipo en especial. Éstos ajustes son generalmente muy específicos y pueden no estar documentados, por eso incluirlos en GNU/Linux es muy difícil.</p>
-<p class="p">Por desgracia, no existe una forma fácil de aplicar estos ajustes uno mismo sin saber exactamente cuáles son. No obstante, es posible que usar algunos <span class="link"><a href="power-batterylife.html" title="Usar menos energía y mejorar la vida de la batería">métodos de ahorro de energía</a></span> ayude. Si su equipo dispone de un <span class="link"><a href="power-batteryslow.html" title="¿Por qué mi portátil se vuelve más lento cuando funciona con la batería?">procesador de velocidad variable</a></span>, también puede resultarle útil cambiar su configuración.</p>
+<p class="p">Por desgracia, no existe una forma fácil de aplicar estos ajustes uno mismo sin saber exactamente cuáles son. No obstante, es posible que usar algunos <span class="link"><a href="power-batterylife.html.es" title="Usar menos energía y mejorar la vida de la batería">métodos de ahorro de energía</a></span> ayude. Si su equipo dispone de un <span class="link"><a href="power-batteryslow.html.es" title="¿Por qué mi portátil se vuelve más lento cuando funciona con la batería?">procesador de velocidad variable</a></span>, también puede resultarle útil cambiar su configuración.</p>
 <p class="p">Otra razón posible es que el método de estimar el tiempo de batería es diferente en Windows/Mac OS que en Linux. La duración real de la batería puede ser la misma, pero los métodos distintos ofrecen estimaciones distintas.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,19 +62,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Preguntas">Preguntas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.es#faq" title="Preguntas">Preguntas</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batteryestimate.html" title="La duración estimada de la batería no es correcta">La duración estimada de la batería no es correcta</a><span class="desc"> — La duración de la batería mostrada cuando pulsa sobre el <span class="gui">icono de la batería</span> es solo estimada.</span>
+<a href="power-batteryestimate.html.es" title="La duración estimada de la batería no es correcta">La duración estimada de la batería no es correcta</a><span class="desc"> — La duración de la batería mostrada cuando pulsa sobre el <span class="gui">icono de la batería</span> es solo estimada.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Usar menos energía y mejorar la vida de la batería">Usar menos energía y mejorar la vida de la batería</a><span class="desc"> — Consejos para reducir el consumo de energía de su equipo.</span>
+<a href="power-batterylife.html.es" title="Usar menos energía y mejorar la vida de la batería">Usar menos energía y mejorar la vida de la batería</a><span class="desc"> — Consejos para reducir el consumo de energía de su equipo.</span>
 </li>
 <li class="links ">
-<a href="power-batteryslow.html" title="¿Por qué mi portátil se vuelve más lento cuando funciona con la batería?">¿Por qué mi portátil se vuelve más lento cuando funciona con la batería?</a><span class="desc"> — Algunos portátiles bajan su velocidad a propósito cuando funcionan a batería.</span>
+<a href="power-batteryslow.html.es" title="¿Por qué mi portátil se vuelve más lento cuando funciona con la batería?">¿Por qué mi portátil se vuelve más lento cuando funciona con la batería?</a><span class="desc"> — Algunos portátiles bajan su velocidad a propósito cuando funcionan a batería.</span>
 </li>
 </ul></div>
 </div></div>

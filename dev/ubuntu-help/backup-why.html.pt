@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html#backup" title="Fazer cópias de segurança">Fazer cópias de segurança</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html.pt#backup" title="Fazer cópias de segurança">Fazer cópias de segurança</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fazer cópias de segurança de seus ficheiros importantes</span></h1></div>
@@ -53,17 +53,17 @@
 <p class="p">A melhor maneira de guardar seus ficheiros é fazê-lo regularmente e manter as cópias fora do lugar e encriptadas (se é possível).</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-how.html" title="Como fazer cópias de segurança"><span class="title">Como fazer cópias de segurança</span><span class="linkdiv-dash"> — </span><span class="desc">Use Déjà Dup (ou outra aplicação de cópias de segurança) para fazer cópias de seus ficheiros valiosos e da sua configuração para evitar pérdidas.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-what.html" title="De que fazer uma copia de copia de segurança"><span class="title">De que fazer uma copia de copia de segurança</span><span class="linkdiv-dash"> — </span><span class="desc">Respalde qualquer coisa da que não possa prescindir se algo vai mau.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-how.html.pt" title="Como fazer cópias de segurança"><span class="title">Como fazer cópias de segurança</span><span class="linkdiv-dash"> — </span><span class="desc">Use Déjà Dup (ou outra aplicação de cópias de segurança) para fazer cópias de seus ficheiros valiosos e da sua configuração para evitar pérdidas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-what.html.pt" title="De que fazer uma copia de copia de segurança"><span class="title">De que fazer uma copia de copia de segurança</span><span class="linkdiv-dash"> — </span><span class="desc">Respalde qualquer coisa da que não possa prescindir se algo vai mau.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-where.html" title="Onde alojar a sua copia de copia de segurança"><span class="title">Onde alojar a sua copia de copia de segurança</span><span class="linkdiv-dash"> — </span><span class="desc">Conselho sobre onde alojar as cópias de segurança e que dispositivo de armazenamento usar.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-where.html.pt" title="Onde alojar a sua copia de copia de segurança"><span class="title">Onde alojar a sua copia de copia de segurança</span><span class="linkdiv-dash"> — </span><span class="desc">Conselho sobre onde alojar as cópias de segurança e que dispositivo de armazenamento usar.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Fazer cópias de segurança">Fazer cópias de segurança</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt#backup" title="Fazer cópias de segurança">Fazer cópias de segurança</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

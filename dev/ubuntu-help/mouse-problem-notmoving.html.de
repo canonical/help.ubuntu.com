@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="mouse.html" title="Maus">Maus</a> › <a class="trail" href="mouse.html#problems" title="Häufige Probleme">Häufige Probleme</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="mouse.html.de" title="Maus">Maus</a> › <a class="trail" href="mouse.html.de#problems" title="Häufige Probleme">Häufige Probleme</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="mouse.html" title="Maus">Maus</a> › <a class="trail" href="mouse.html#problems" title="Häufige Probleme">Häufige Probleme</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="mouse.html.de" title="Maus">Maus</a> › <a class="trail" href="mouse.html.de#problems" title="Häufige Probleme">Häufige Probleme</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Der Mauszeiger bewegt sich nicht</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Überprüfen Sie, ob die Maus angeschlossen ist">Überprüfen Sie, ob die Maus angeschlossen ist</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Überprüfen, ob die Maus defekt ist">Überprüfen, ob die Maus defekt ist</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Überprüfen kabelloser Mäuse">Überprüfen kabelloser Mäuse</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.de#plugged-in" title="Überprüfen Sie, ob die Maus angeschlossen ist">Überprüfen Sie, ob die Maus angeschlossen ist</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.de#broken" title="Überprüfen, ob die Maus defekt ist">Überprüfen, ob die Maus defekt ist</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.de#wireless-mice" title="Überprüfen kabelloser Mäuse">Überprüfen kabelloser Mäuse</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Überprüfen Sie, ob die Maus angeschlossen ist</span></h2></div>
@@ -76,8 +76,8 @@
 <div class="region"><div class="contents">
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Stellen Sie sicher, dass die Maus eingeschaltet ist. Oft findet sich ein Schalter an der Unterseite der Maus, mit dem Sie sie komplett abschalten können, so dass Sie sie bewegen können, ohne ständige Aufwachvorgänge auszulösen.</p></li>
-<li class="list"><p class="p">Wenn Sie eine Bluetooth-Maus verwenden, stellen Sie sicher, dass die Maus tatsächlich mit Ihrem Rechner gekoppelt ist. Siehe <span class="link"><a href="bluetooth-connect-device.html" title="Ihren Rechner mit einem anderen Bluetooth-Gerät verbinden">Ihren Rechner mit einem anderen Bluetooth-Gerät verbinden</a></span>.</p></li>
-<li class="list"><p class="p">Klicken Sie auf eine Maustaste und überprüfen Sie, ob sich der Mauszeiger nun bewegt. Manche kabellose Mäuse gehen in einen Schlafmodus, um Strom zu sparen, und reagieren eventuell erst, wenn Sie auf eine Maustaste klicken. Siehe <span class="link"><a href="mouse-wakeup.html" title="Die Maus arbeitet mit Verzögerung">Die Maus arbeitet mit Verzögerung</a></span>.</p></li>
+<li class="list"><p class="p">Wenn Sie eine Bluetooth-Maus verwenden, stellen Sie sicher, dass die Maus tatsächlich mit Ihrem Rechner gekoppelt ist. Siehe <span class="link"><a href="bluetooth-connect-device.html.de" title="Ihren Rechner mit einem anderen Bluetooth-Gerät verbinden">Ihren Rechner mit einem anderen Bluetooth-Gerät verbinden</a></span>.</p></li>
+<li class="list"><p class="p">Klicken Sie auf eine Maustaste und überprüfen Sie, ob sich der Mauszeiger nun bewegt. Manche kabellose Mäuse gehen in einen Schlafmodus, um Strom zu sparen, und reagieren eventuell erst, wenn Sie auf eine Maustaste klicken. Siehe <span class="link"><a href="mouse-wakeup.html.de" title="Die Maus arbeitet mit Verzögerung">Die Maus arbeitet mit Verzögerung</a></span>.</p></li>
 <li class="list"><p class="p">Überprüfen Sie, ob der Akku der Maus geladen ist.</p></li>
 <li class="list"><p class="p">Vergewissern Sie sich, dass der Empfänger fest an den Rechner angeschlossen ist.</p></li>
 <li class="list"><p class="p">Falls Ihre Maus und der Empfänger auf unterschiedlichen Frequenzen betrieben werden können, vergewissern Sie sich, dass beide dieselbe Frequenz benutzen.</p></li>
@@ -90,7 +90,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Häufige Probleme">Häufige Probleme mit der Maus</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.de#problems" title="Häufige Probleme">Häufige Probleme mit der Maus</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

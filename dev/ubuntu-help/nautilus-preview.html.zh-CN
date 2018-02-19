@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="文件管理器首选项">文件管理器首选项</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.zh-CN" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html.zh-CN#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.zh-CN" title="文件管理器首选项">文件管理器首选项</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">文件管理器预览首选项</span></h1></div>
@@ -57,7 +57,7 @@
 <p class="p">另外，您还可以使用<span class="gui">仅预览小于指定大小的文件</span>来限制预览文件的大小。</p>
 </dd>
 <dt class="terms"><span class="gui">Folders</span></dt>
-<dd class="terms"><p class="p">如果您在<span class="link"><a href="nautilus-list.html" title="Files list columns preferences">列表视图列</a></span>或<span class="link"><a href="nautilus-display.html#icon-captions" title="图标标题">图标标题</a></span>中显示文件大小，文件夹将会显示包含的文件和文件夹数量，统计这些项目会使操作变慢，尤其是对于非常大的文件夹，或者访问网络。您可以开启或关闭此特性，或者只开启本地或挂载的驱动器上的统计。</p></dd>
+<dd class="terms"><p class="p">如果您在<span class="link"><a href="nautilus-list.html.zh-CN" title="Files list columns preferences">列表视图列</a></span>或<span class="link"><a href="nautilus-display.html.zh-CN#icon-captions" title="图标标题">图标标题</a></span>中显示文件大小，文件夹将会显示包含的文件和文件夹数量，统计这些项目会使操作变慢，尤其是对于非常大的文件夹，或者访问网络。您可以开启或关闭此特性，或者只开启本地或挂载的驱动器上的统计。</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="文件管理器首选项">文件管理器首选项</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.zh-CN" title="文件管理器首选项">文件管理器首选项</a><span class="desc"> — View and set preferences for the file browser.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-preview.html" title="预览文件和文件夹">预览文件和文件夹</a><span class="desc"> — 快速显示或隐藏文档、图片、视频等文件的预览。</span>
+<a href="files-preview.html.zh-CN" title="预览文件和文件夹">预览文件和文件夹</a><span class="desc"> — 快速显示或隐藏文档、图片、视频等文件的预览。</span>
 </li></ul></div>
 </div></div>
 </div>

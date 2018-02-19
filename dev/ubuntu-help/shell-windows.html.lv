@@ -43,26 +43,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Jūsu darbvirsma">Darbvirsma</a> › <a class="trail" href="shell-overview.html#apps" title="Lietotnes un logi">Lietotnes un logi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.lv" title="Jūsu darbvirsma">Darbvirsma</a> › <a class="trail" href="shell-overview.html.lv#apps" title="Lietotnes un logi">Lietotnes un logi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Logi un darbvietas</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Kā citas darbvirsmas, GNOME izmanto logus, lai attēlotu palaistās lietotnes. Lietojot <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un <span class="gui">paneli</span>, jūs varat palaist jaunas lietotnes un kontrolēt aktīvo logu.</p>
+<p class="p">Kā citas darbvirsmas, GNOME izmanto logus, lai attēlotu palaistās lietotnes. Lietojot <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un <span class="gui">paneli</span>, jūs varat palaist jaunas lietotnes un kontrolēt aktīvo logu.</p>
 <p class="p">Lietotnes var grupēt arī ar darbvietām. Skatiet logu un darbvietu palīdzības tematus zemāk, lai labāk labāk iemācītos, kā izmantot šīs iespējas.</p>
 </div>
 <div id="working-with-windows" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Darbs ar logiem</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html" title="Atrodiet pazudušu logu"><span class="title">Atrodiet pazudušu logu</span><span class="linkdiv-dash"> — </span><span class="desc">Apskatiet <span class="gui">aktivitāšu</span> pārskatu vai citas darbvietas.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html" title="Izklāt logus"><span class="title">Izklāt logus</span><span class="linkdiv-dash"> — </span><span class="desc">Maksimizēt divus logus līdzās.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html" title="Maksimizēt logu un atjaunot tā izmēru"><span class="title">Maksimizēt logu un atjaunot tā izmēru</span><span class="linkdiv-dash"> — </span><span class="desc">Veiciet dubultklikšķi uz loga virsraksta joslas, lai maksimizētu vai atjaunotu logu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.lv" title="Atrodiet pazudušu logu"><span class="title">Atrodiet pazudušu logu</span><span class="linkdiv-dash"> — </span><span class="desc">Apskatiet <span class="gui">aktivitāšu</span> pārskatu vai citas darbvietas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.lv" title="Izklāt logus"><span class="title">Izklāt logus</span><span class="linkdiv-dash"> — </span><span class="desc">Maksimizēt divus logus līdzās.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.lv" title="Maksimizēt logu un atjaunot tā izmēru"><span class="title">Maksimizēt logu un atjaunot tā izmēru</span><span class="linkdiv-dash"> — </span><span class="desc">Veiciet dubultklikšķi uz loga virsraksta joslas, lai maksimizētu vai atjaunotu logu.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Pārslēgties starp logiem"><span class="title">Pārslēgties starp logiem</span><span class="linkdiv-dash"> — </span><span class="desc">Spiediet <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html" title="Pārvietot logus un mainīt to izmēru"><span class="title">Pārvietot logus un mainīt to izmēru</span><span class="linkdiv-dash"> — </span><span class="desc">Izkārtojiet logus darbvietā, lai palīdzētu jums strādāt efektīvāk.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.lv" title="Pārslēgties starp logiem"><span class="title">Pārslēgties starp logiem</span><span class="linkdiv-dash"> — </span><span class="desc">Spiediet <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.lv" title="Pārvietot logus un mainīt to izmēru"><span class="title">Pārvietot logus un mainīt to izmēru</span><span class="linkdiv-dash"> — </span><span class="desc">Izkārtojiet logus darbvietā, lai palīdzētu jums strādāt efektīvāk.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -70,17 +70,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Darbs ar darbvietām</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html" title="Kas ir darbvieta un kā tā man palīdzēs?"><span class="title">Kas ir darbvieta un kā tā man palīdzēs?</span><span class="linkdiv-dash"> — </span><span class="desc">Darbvietas ir veids, kā grupēt logus uz jūsu darbvirsmas.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html" title="Pārslēgties starp darbvietām"><span class="title">Pārslēgties starp darbvietām</span><span class="linkdiv-dash"> — </span><span class="desc">Lietojiet darbvietu atlasītāju.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.lv" title="Kas ir darbvieta un kā tā man palīdzēs?"><span class="title">Kas ir darbvieta un kā tā man palīdzēs?</span><span class="linkdiv-dash"> — </span><span class="desc">Darbvietas ir veids, kā grupēt logus uz jūsu darbvirsmas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.lv" title="Pārslēgties starp darbvietām"><span class="title">Pārslēgties starp darbvietām</span><span class="linkdiv-dash"> — </span><span class="desc">Lietojiet darbvietu atlasītāju.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html" title="Pārvietot logu uz citu darbvietu"><span class="title">Pārvietot logu uz citu darbvietu</span><span class="linkdiv-dash"> — </span><span class="desc">Ejiet uz <span class="gui">aktivitāšu</span> pārskatu un velciet logu uz citu darbvietu.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.lv" title="Pārvietot logu uz citu darbvietu"><span class="title">Pārvietot logu uz citu darbvietu</span><span class="linkdiv-dash"> — </span><span class="desc">Ejiet uz <span class="gui">aktivitāšu</span> pārskatu un velciet logu uz citu darbvietu.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Lietotnes un logi">Lietotnes un logi</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.lv#apps" title="Lietotnes un logi">Lietotnes un logi</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

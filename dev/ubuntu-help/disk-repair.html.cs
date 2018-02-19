@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="disk.html" title="Disky a úložiště">Disky a úložiště</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="disk.html.cs" title="Disky a úložiště">Disky a úložiště</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Oprava poškozeného souborového systému</span></h1></div>
@@ -85,7 +85,7 @@
 <li class="steps">
 <p class="p">Po dokončení budete informování, zda se souborový systém podařilo opravit. V případě úspěchu jej můžete opět normálně používat.</p>
 <p class="p">Pokud se souborový systém opravit nepodařilo, zazálohujte jej uložením obrazu svazku, abyste později mohli získat důležité soubory. To se dá po připojení obrazu jen pro čtení nebo použitím analytických nástrojů, jako je <span class="app">sleuthkit</span>.</p>
-<p class="p">Abyste neopravitelný svazek znovu zprovoznili, musíte jej <span class="link"><a href="disk-format.html" title="Úplně vymazání výměnného média">zformátovat</a></span> novým souborovým systémem. Při tom dojde ke ztrátě všech dat.</p>
+<p class="p">Abyste neopravitelný svazek znovu zprovoznili, musíte jej <span class="link"><a href="disk-format.html.cs" title="Úplně vymazání výměnného média">zformátovat</a></span> novým souborovým systémem. Při tom dojde ke ztrátě všech dat.</p>
 </li>
 </ol></div>
 </div></div>
@@ -95,7 +95,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Disky a úložiště">Disky a úložiště</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Kontrola volného místa na disku">Místo na disku</a></span>, <span class="link"><a href="disk-benchmark.html" title="Test výkonnosti vašeho pevného disku">výkon</a></span>, <span class="link"><a href="disk-check.html" title="Kontrola problémů s pevným diskem">problémy</a></span>, <span class="link"><a href="disk-partitions.html" title="Správa svazků a oddílů">svazky a oddíly</a></span>…</span>
+<a href="disk.html.cs" title="Disky a úložiště">Disky a úložiště</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.cs" title="Kontrola volného místa na disku">Místo na disku</a></span>, <span class="link"><a href="disk-benchmark.html.cs" title="Test výkonnosti vašeho pevného disku">výkon</a></span>, <span class="link"><a href="disk-check.html.cs" title="Kontrola problémů s pevným diskem">problémy</a></span>, <span class="link"><a href="disk-partitions.html.cs" title="Správa svazků a oddílů">svazky a oddíly</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

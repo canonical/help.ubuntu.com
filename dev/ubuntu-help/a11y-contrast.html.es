@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="a11y.html" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html#vision" title="Deficiencias visuales">Deficiencias visuales</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="a11y.html.es" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html.es#vision" title="Deficiencias visuales">Deficiencias visuales</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ajustar el contraste</span></h1></div>
@@ -51,13 +51,13 @@
 <div class="contents">
 <p class="p">Puede ajustar el contraste de las ventanas y los botones para que se vean más fácilmente. Esto no es lo mismo que cambiar el brillo de toda la pantalla; solo cambiarán algunas partes de la <span class="em">interfaz de usuario</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Acceso universal</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Acceso universal</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Acceso universal</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Active la opción <span class="gui">Alto contraste</span> (<span class="gui">Encendido</span>) en la sección <span class="gui">Visión</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Sugerencia"><div class="inner">
 <div class="title title-note"><h2><span class="title">Activar y desactivar rápidamente el contraste alto</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Puede activar y desactivar el contraste alto pulsando en el <span class="link"><a href="a11y-icon.html" title="Encontrar el menú de acceso universal">icono de accesibilidad</a></span> en la barra superior y seleccionando <span class="gui">Alto contraste</span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Puede activar y desactivar el contraste alto pulsando en el <span class="link"><a href="a11y-icon.html.es" title="Encontrar el menú de acceso universal">icono de accesibilidad</a></span> en la barra superior y seleccionando <span class="gui">Alto contraste</span>.</p></div></div>
 </div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -65,12 +65,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Deficiencias visuales">Deficiencias visuales</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.es#vision" title="Deficiencias visuales">Deficiencias visuales</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="display-brightness.html" title="Establecer el brillo de la pantalla">Establecer el brillo de la pantalla</a><span class="desc"> — Cambiar el brillo de la pantalla para hacerla más legible en condiciones de mucha luz ambiental.</span>
+<a href="display-brightness.html.es" title="Establecer el brillo de la pantalla">Establecer el brillo de la pantalla</a><span class="desc"> — Cambiar el brillo de la pantalla para hacerla más legible en condiciones de mucha luz ambiental.</span>
 </li></ul></div>
 </div></div>
 </div>

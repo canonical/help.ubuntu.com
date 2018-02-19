@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html#faq" title="ヒントと質問">ヒントと質問</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ja" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html.ja#faq" title="ヒントと質問">ヒントと質問</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ファイルを隠す</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">The <span class="app">Files</span> file manager gives you the ability to hide and unhide
   files at your discretion. When a file is hidden, it is not displayed by the
   file manager, but it is still there in its folder.</p>
-<p class="p">ファイルを隠すには、そのファイル名を <span class="file">.</span> で始まる名前に<span class="link"><a href="files-rename.html" title="ファイル、フォルダーの名前を変更する">変更します</a></span>。たとえば、<span class="file">example.txt</span> という名前のファイルを隠しファイルにするには、<span class="file">.example.txt</span> という名前に変更してください。</p>
+<p class="p">ファイルを隠すには、そのファイル名を <span class="file">.</span> で始まる名前に<span class="link"><a href="files-rename.html.ja" title="ファイル、フォルダーの名前を変更する">変更します</a></span>。たとえば、<span class="file">example.txt</span> という名前のファイルを隠しファイルにするには、<span class="file">.example.txt</span> という名前に変更してください。</p>
 <div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">You can hide folders in the same way that you can hide files. Hide a
   folder by placing a <span class="file">.</span> at the beginning of the folder’s name.</p></div></div></div></div>
 </div>
@@ -87,11 +87,11 @@
   view options button in the toolbar and pick <span class="gui">Show Hidden Files</span>, or
   press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> to hide any other hidden
   files again.</p>
-<div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">デフォルトでは、ファイルマネージャーを閉じるまでの間、隠しファイルを表示することができるだけです。この設定を変更してファイルマネージャーで常に隠しファイルを表示するには、<span class="link"><a href="nautilus-views.html" title="Views preferences in Files">Views preferences in <span class="app">Files</span></a></span> を参照してください。</p></div></div></div></div>
+<div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">デフォルトでは、ファイルマネージャーを閉じるまでの間、隠しファイルを表示することができるだけです。この設定を変更してファイルマネージャーで常に隠しファイルを表示するには、<span class="link"><a href="nautilus-views.html.ja" title="Views preferences in Files">Views preferences in <span class="app">Files</span></a></span> を参照してください。</p></div></div></div></div>
 <div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p">Most hidden files will have a <span class="file">.</span> at the
   beginning of their name, but others might have a <span class="file">~</span> at the end of
   their name instead. These files are backup files. See
-  <span class="link"><a href="files-tilde.html" title="~が名前の末尾に付いたファイルは何ですか?"><span class="file">~</span>が名前の末尾に付いたファイルは何ですか?</a></span> for more information.</p></div></div></div></div>
+  <span class="link"><a href="files-tilde.html.ja" title="~が名前の末尾に付いたファイルは何ですか?"><span class="file">~</span>が名前の末尾に付いたファイルは何ですか?</a></span> for more information.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -99,12 +99,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="ヒントと質問">ヒントと質問</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ja#faq" title="ヒントと質問">ヒントと質問</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-tilde.html" title="~が名前の末尾に付いたファイルは何ですか?"><span class="file">~</span>が名前の末尾に付いたファイルは何ですか?</a><span class="desc"> — それはバックアップファイルです。デフォルトでは非表示になっています。</span>
+<a href="files-tilde.html.ja" title="~が名前の末尾に付いたファイルは何ですか?"><span class="file">~</span>が名前の末尾に付いたファイルは何ですか?</a><span class="desc"> — それはバックアップファイルです。デフォルトでは非表示になっています。</span>
 </li></ul></div>
 </div></div>
 </div>

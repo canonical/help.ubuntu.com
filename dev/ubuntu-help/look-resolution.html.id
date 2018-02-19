@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="prefs-display.html" title="Tampilan &amp; layar">Tampilan &amp; layar</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Change the resolution or rotation of the screen</span></h1></div>
@@ -54,7 +54,7 @@
   appear (for example, if you have a rotating display) by changing the
   <span class="em">rotation</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Tampilan</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Tampilan</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Tampilan</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">If you have multiple displays and they are not mirrored, you can have
       different settings on each display. Select a display in the preview
@@ -78,7 +78,7 @@
   bottom or both sides of the screen.</p>
 <p class="p">You can choose the resolution you prefer from the <span class="gui">Resolution</span>
   drop-down list. If you choose one that is not right for your screen it may
-  <span class="link"><a href="look-display-fuzzy.html" title="Mengapa berbagai hal terlihat kabur/kotak-kotak pada layar saya?">look fuzzy or pixelated</a></span>.</p>
+  <span class="link"><a href="look-display-fuzzy.html.id" title="Mengapa berbagai hal terlihat kabur/kotak-kotak pada layar saya?">look fuzzy or pixelated</a></span>.</p>
 </div></div>
 </div></div>
 <div id="rotation" class="sect"><div class="inner">
@@ -93,13 +93,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Latar belakang</a></span>, <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">ukuran dan rotasi</a></span>, kecerahan…</span>
+<a href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — <span class="link"><a href="look-background.html.id" title="Change the desktop and lock screen backgrounds">Latar belakang</a></span>, <span class="link"><a href="look-resolution.html.id" title="Change the resolution or rotation of the screen">ukuran dan rotasi</a></span>, kecerahan…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-display-fuzzy.html" title="Mengapa berbagai hal terlihat kabur/kotak-kotak pada layar saya?">Mengapa berbagai hal terlihat kabur/kotak-kotak pada layar saya?</a><span class="desc"> — Resolusi layar mungkin tak ditata secara benar.</span>
+<a href="look-display-fuzzy.html.id" title="Mengapa berbagai hal terlihat kabur/kotak-kotak pada layar saya?">Mengapa berbagai hal terlihat kabur/kotak-kotak pada layar saya?</a><span class="desc"> — Resolusi layar mungkin tak ditata secara benar.</span>
 </li></ul></div>
 </div></div>
 </div>

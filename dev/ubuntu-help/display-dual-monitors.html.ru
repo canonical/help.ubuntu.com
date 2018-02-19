@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="prefs-display.html" title="Монитор и экран">Монитор и экран</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="prefs-display.html.ru" title="Монитор и экран">Монитор и экран</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Подключение дополнительного монитора к компьютеру</span></h1></div>
@@ -54,7 +54,7 @@
 <div class="region"><div class="contents">
 <p class="p">Чтобы настроить дополнительный монитор, подключите монитор к компьютеру. Если система не распознала его сразу, или если вы хотите изменить его параметры:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Displays</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Мониторы</span>, чтобы открыть этот раздел настроек.</p></li>
 <li class="steps">
@@ -63,7 +63,7 @@
       deactivate the monitor, or one of <span class="gui">Primary</span>,
       <span class="gui">Secondary</span>, or <span class="gui">Mirror</span> to activate it.</p>
 <div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">The primary monitor is the one with the
-        <span class="link"><a href="shell-introduction.html" title="Введение в GNOME">top bar</a></span>, and where the
+        <span class="link"><a href="shell-introduction.html.ru" title="Введение в GNOME">top bar</a></span>, and where the
         <span class="gui">Activities</span> overview is shown.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">To rotate the orientation of the monitor, use the buttons with the
@@ -77,7 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Монитор и экран">Монитор и экран</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Изменение фонов рабочего стола и экрана блокировки">Фон</a></span>, <span class="link"><a href="look-resolution.html" title="Изменение разрешения или ориентации экрана">размер и ориентация</a></span>, яркость…</span>
+<a href="prefs-display.html.ru" title="Монитор и экран">Монитор и экран</a><span class="desc"> — <span class="link"><a href="look-background.html.ru" title="Изменение фонов рабочего стола и экрана блокировки">Фон</a></span>, <span class="link"><a href="look-resolution.html.ru" title="Изменение разрешения или ориентации экрана">размер и ориентация</a></span>, яркость…</span>
 </li></ul></div>
 </div></div></div>
 </div>

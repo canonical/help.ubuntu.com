@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ihre Arbeitsumgebung">Schreibtisch</a> › <a class="trail" href="shell-overview.html#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.de" title="Ihre Arbeitsumgebung">Schreibtisch</a> › <a class="trail" href="shell-overview.html.de#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ihre Arbeitsumgebung">Schreibtisch</a> › <a class="trail" href="shell-overview.html#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a> » <a class="trail" href="shell-windows.html" title="Fenster und Arbeitsflächen">Fenster und Arbeitsflächen</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Arbeiten mit Fenstern">Fenster</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.de" title="Ihre Arbeitsumgebung">Schreibtisch</a> › <a class="trail" href="shell-overview.html.de#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a> » <a class="trail" href="shell-windows.html.de" title="Fenster und Arbeitsflächen">Fenster und Arbeitsflächen</a> › <a class="trail" href="shell-windows.html.de#working-with-windows" title="Arbeiten mit Fenstern">Fenster</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,14 +56,14 @@
 <p class="p">Durch die Anzeige aller laufenden Anwendungen mit grafischer Oberfläche im <span class="gui">Fensterwechsler</span> wird aus dem Wechsel zwischen Aufgaben ein einziger Vorgang, der als komplette Darstellung aller laufenden Anwendungen erscheint.</p>
 <p class="p">In einer Arbeitsfläche:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Drücken Sie <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span></span>, um den <span class="gui">Fensterwechsler</span> anzuzeigen.</p></li>
-<li class="steps"><p class="p">Lassen Sie die <span class="key"><a href="keyboard-key-super.html" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>-Taste los, um das nächste (hervorgehobene) Fenster im Fensterwechsler zu wählen.</p></li>
-<li class="steps"><p class="p">Anderenfalls, bei noch gehaltener <span class="key"><a href="keyboard-key-super.html" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>-Taste, drücken Sie die <span class="key"><kbd>Tabulatortaste</kbd></span>, um durch die Liste der geöffneten Fenster zu blättern, oder <span class="keyseq"><span class="key"><kbd>Tabulatortaste</kbd></span>+<span class="key"><kbd>Umschalttaste</kbd></span></span>, um rückwärts zu blättern.</p></li>
+<li class="steps"><p class="p">Drücken Sie <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.de" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span></span>, um den <span class="gui">Fensterwechsler</span> anzuzeigen.</p></li>
+<li class="steps"><p class="p">Lassen Sie die <span class="key"><a href="keyboard-key-super.html.de" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>-Taste los, um das nächste (hervorgehobene) Fenster im Fensterwechsler zu wählen.</p></li>
+<li class="steps"><p class="p">Anderenfalls, bei noch gehaltener <span class="key"><a href="keyboard-key-super.html.de" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>-Taste, drücken Sie die <span class="key"><kbd>Tabulatortaste</kbd></span>, um durch die Liste der geöffneten Fenster zu blättern, oder <span class="keyseq"><span class="key"><kbd>Tabulatortaste</kbd></span>+<span class="key"><kbd>Umschalttaste</kbd></span></span>, um rückwärts zu blättern.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Fenster im Fensterwechsler werden anwendungsweise gruppiert. Vorschauen auf Anwendungen mit mehreren Fenstern klappen nach unten aus, sobald diese angeklickt werden. Halten Sie <span class="key"><a href="keyboard-key-super.html" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span> gedrückt und drücken Sie <span class="key"><kbd>`</kbd></span> (oder die Taste oberhalb von <span class="key"><kbd>Tab</kbd></span>), um sich durch die Liste zu bewegen.</p></div></div></div></div>
+<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Fenster im Fensterwechsler werden anwendungsweise gruppiert. Vorschauen auf Anwendungen mit mehreren Fenstern klappen nach unten aus, sobald diese angeklickt werden. Halten Sie <span class="key"><a href="keyboard-key-super.html.de" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span> gedrückt und drücken Sie <span class="key"><kbd>`</kbd></span> (oder die Taste oberhalb von <span class="key"><kbd>Tab</kbd></span>), um sich durch die Liste zu bewegen.</p></div></div></div></div>
 <p class="p">Sie können sich innerhalb der Anwendungssymbole im Fensterwechsler mit den Tasten <span class="key"><kbd>→</kbd></span> oder <span class="key"><kbd>←</kbd></span> oder durch Klicken mit der Maus bewegen.</p>
 <p class="p">Vorschauen auf Anwendungen mit einem einzelnen Fenster werden nur dann angezeigt, wenn die Taste <span class="key"><kbd>↓</kbd></span> explizit gedrückt wird.</p>
-<p class="p">Klicken Sie in der <span class="gui">Aktivitäten</span>-Übersicht auf ein <span class="link"><a href="shell-windows.html" title="Fenster und Arbeitsflächen">Fenster</a></span>, um zu diesem zu wechseln und damit die Übersicht zu verlassen. Falls mehrere <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Arbeiten mit Arbeitsflächen">Arbeitsflächen</a></span> geöffnet sind, können Sie auf jede der Arbeitsflächen klicken, um die geöffneten Fenster der jeweiligen Arbeitsfläche zu sehen.</p>
+<p class="p">Klicken Sie in der <span class="gui">Aktivitäten</span>-Übersicht auf ein <span class="link"><a href="shell-windows.html.de" title="Fenster und Arbeitsflächen">Fenster</a></span>, um zu diesem zu wechseln und damit die Übersicht zu verlassen. Falls mehrere <span class="link"><a href="shell-windows.html.de#working-with-workspaces" title="Arbeiten mit Arbeitsflächen">Arbeitsflächen</a></span> geöffnet sind, können Sie auf jede der Arbeitsflächen klicken, um die geöffneten Fenster der jeweiligen Arbeitsfläche zu sehen.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -71,15 +71,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-overview.html#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a></li>
-<li class="links "><a href="shell-windows.html#working-with-windows" title="Arbeiten mit Fenstern">Arbeiten mit Fenstern</a></li>
+<li class="links "><a href="shell-overview.html.de#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a></li>
+<li class="links "><a href="shell-windows.html.de#working-with-windows" title="Arbeiten mit Fenstern">Arbeiten mit Fenstern</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-use-windows-workspaces.html" title="Fenster und Arbeitsflächen verwenden">Eine Kurzanleitung zum Verwenden von Fenstern und Arbeitsflächen</a></li>
-<li class="links "><a href="gs-switch-tasks.html" title="Zwischen Anwendungen wechseln">Eine Kurzanleitung, wie man Aufgaben wechselt</a></li>
+<li class="links "><a href="gs-use-windows-workspaces.html.de" title="Fenster und Arbeitsflächen verwenden">Eine Kurzanleitung zum Verwenden von Fenstern und Arbeitsflächen</a></li>
+<li class="links "><a href="gs-switch-tasks.html.de" title="Zwischen Anwendungen wechseln">Eine Kurzanleitung, wie man Aufgaben wechselt</a></li>
 </ul></div>
 </div></div>
 </div>

@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">Settings</a> » <a class="trail" href="prefs-display.html" title="Display &amp; screen">Display &amp; screen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hi" title="User &amp; system settings">Settings</a> » <a class="trail" href="prefs-display.html.hi" title="Display &amp; screen">Display &amp; screen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Change the desktop and lock screen backgrounds</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can change the image used for your backgrounds or set it to a be a
+<p class="p">You can change the image used for your backgrounds or set it to be a
   solid color.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.hi#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Background</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Background</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select the <span class="gui">Background</span> or <span class="gui">Lock Screen</span>.</p></li>
@@ -75,7 +75,7 @@
 </ul></div></div></div>
 </li>
 <li class="steps"><p class="p">The settings are applied immediately.</p></li>
-<li class="steps"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Switch between workspaces">Switch to an empty
+<li class="steps"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.hi" title="Switch between workspaces">Switch to an empty
       workspace</a></span> to view your entire desktop.</p></li>
 </ol></div></div></div>
 </div>
@@ -85,16 +85,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">अधिक जानकारी</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Display &amp; screen">Display &amp; screen</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
+<a href="prefs-display.html.hi" title="Display &amp; screen">Display &amp; screen</a><span class="desc"> — 
+      <span class="link"><a href="look-background.html.hi" title="Change the desktop and lock screen backgrounds">Background</a></span>,
+      <span class="link"><a href="look-resolution.html.hi" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
       brightness…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">यह भी देखें</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-change-wallpaper.html" title="वालपेपर बदलें">वॉलपेपर बदलने पर एक ट्यूटोरियल</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-change-wallpaper.html.hi" title="वालपेपर बदलें">वॉलपेपर बदलने पर एक ट्यूटोरियल</a></li></ul></div>
 </div></div>
 </div>
 </div>

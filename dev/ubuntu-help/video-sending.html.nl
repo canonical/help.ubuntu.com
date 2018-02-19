@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html#videos" title="Video's en videocamera's">Video's</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#videos" title="Video's en videocamera's">Video's</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Other people can’t play the videos I made</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">Als u een op uw Linux-computer gemaakte video stuurt naar iemand die Windows of Mac OS gebruikt, dan kan het zijn dat zij problemen ondervinden bij het afspelen van de video.</p>
 <p class="p">Degene aan wie u een video heeft gestuurd, moet de juiste <span class="em">codecs</span> geïnstalleerd hebben om deze af te kunnen spelen. Een codec is een stukje software dat weet hoe het de video op het scherm kan weergeven. Er zijn veel verschillende videoformaten en elk daarvan vereist een andere codec om deze af te kunnen spelen. Het formaat van uw video kunt u achterhalen door dit te doen:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Open <span class="app">Bestanden</span> vanuit het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht.</p></li>
+<li class="list"><p class="p">Open <span class="app">Bestanden</span> vanuit het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht.</p></li>
 <li class="list"><p class="p">Klik met uw rechtermuisknop op het videobestand en selecteer daarna <span class="gui">Eigenschappen</span>.</p></li>
 <li class="list"><p class="p">Ga naar het tabblad <span class="gui">Audio/video</span> of <span class="gui">Video</span> en kijk welke <span class="gui">codec</span> er bij <span class="gui">Video</span> en <span class="gui">Audio</span> staat (als de video ook audio heeft).</p></li>
 </ul></div></div></div>
@@ -81,7 +81,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Video's en videocamera's">Video's</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.nl#videos" title="Video's en videocamera's">Video's</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

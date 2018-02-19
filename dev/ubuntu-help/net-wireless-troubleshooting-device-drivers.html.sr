@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html.sr#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="net-wireless-troubleshooting.html.sr" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-wireless.html" title="Бежично умрежавање">Бежично умрежавање</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-wireless.html.sr" title="Бежично умрежавање">Бежично умрежавање</a> » <a class="trail" href="net-wireless-troubleshooting.html.sr" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html" title="Решавање проблема бежичне везе">Претходно</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html.sr" title="Решавање проблема бежичне везе">Претходно</a></div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Решавање проблема бежичне мреже</span></h1>
 <h2 class="subtitle"><span class="subtitle">Уверите се да су инсталирани управљачки програми радног уређаја</span></h2>
@@ -75,13 +75,13 @@
 </ul></div></div></div>
 <p class="p">Ако ниједна од ових опција не буде радила, можете испробати неки други бежични прилагођивач да видите да ли би радио. УСБ бежични прилагођивачи су често врло јефтини, и прикључују се на скоро сваки рачунар. Ипак, пре него што га купите проверите да ли је сагласан са вашом дистрибуцијом Линукса.</p>
 </div>
-<div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html" title="Решавање проблема бежичне везе">Претходно</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html.sr" title="Решавање проблема бежичне везе">Претходно</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a><span class="desc"> — Одредите и исправите проблеме са бежичним везама.</span>
+<a href="net-wireless-troubleshooting.html.sr" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a><span class="desc"> — Одредите и исправите проблеме са бежичним везама.</span>
 </li></ul></div>
 </div></div></div>
 </div>

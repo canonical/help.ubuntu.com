@@ -43,32 +43,32 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Diski in shramba</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html.sl" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.sl" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
     Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
     </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="Izberite hitrost delovanja svojega trdega diska"><span class="title">Izberite hitrost delovanja svojega trdega diska</span><span class="linkdiv-dash"> — </span><span class="desc">Poženete lahko preizkuse trdega diska in preverite kako hiter je.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-format.html" title="Odstranitev vsega z odstranljivega diska"><span class="title">Odstranitev vsega z odstranljivega diska</span><span class="linkdiv-dash"> — </span><span class="desc">Odstranite vse datoteke in mape iz zunanjega trdega diska ali USB ključka s formatiranjem.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="Preverjanje koliko prostora na disku je ostalo"><span class="title">Preverjanje koliko prostora na disku je ostalo</span><span class="linkdiv-dash"> — </span><span class="desc">S <span class="gui">Preučevalnikom porabe diska</span> ali <span class="gui">Nadzornikom sistema</span> lahko preverite razpoložljiv prostor in zmogljivost.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Preverjanje trdega diska za težave."><span class="title">Preverjanje trdega diska za težave.</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
+<div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html.sl" title="Izberite hitrost delovanja svojega trdega diska"><span class="title">Izberite hitrost delovanja svojega trdega diska</span><span class="linkdiv-dash"> — </span><span class="desc">Poženete lahko preizkuse trdega diska in preverite kako hiter je.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-format.html.sl" title="Odstranitev vsega z odstranljivega diska"><span class="title">Odstranitev vsega z odstranljivega diska</span><span class="linkdiv-dash"> — </span><span class="desc">Odstranite vse datoteke in mape iz zunanjega trdega diska ali USB ključka s formatiranjem.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-capacity.html.sl" title="Preverjanje koliko prostora na disku je ostalo"><span class="title">Preverjanje koliko prostora na disku je ostalo</span><span class="linkdiv-dash"> — </span><span class="desc">S <span class="gui">Preučevalnikom porabe diska</span> ali <span class="gui">Nadzornikom sistema</span> lahko preverite razpoložljiv prostor in zmogljivost.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html.sl" title="Preverjanje trdega diska za težave."><span class="title">Preverjanje trdega diska za težave.</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html.sl" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
           state.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="Upravljanje nosilcev in razdelkov"><span class="title">Upravljanje nosilcev in razdelkov</span><span class="linkdiv-dash"> — </span><span class="desc">Naučite se kaj so nosilci in diski in uporabiti diskovna orodja za njihovo upravljanje.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-partitions.html.sl" title="Upravljanje nosilcev in razdelkov"><span class="title">Upravljanje nosilcev in razdelkov</span><span class="linkdiv-dash"> — </span><span class="desc">Naučite se kaj so nosilci in diski in uporabiti diskovna orodja za njihovo upravljanje.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema in gonilniki</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Pogoste težave">Težave s strojno opremo</a></span>, <span class="link"><a href="printing.html" title="Tiskanje">tiskalniki</a></span>, <span class="link"><a href="power.html" title="Napajanje in baterija">nastavitve porabe</a></span>, <span class="link"><a href="color.html" title="Upravljanje barv">upravljanje barv</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Diski in shramba">diski</a></span> …</span>
+<a href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema in gonilniki</a><span class="desc"> — <span class="link"><a href="hardware.html.sl#problems" title="Pogoste težave">Težave s strojno opremo</a></span>, <span class="link"><a href="printing.html.sl" title="Tiskanje">tiskalniki</a></span>, <span class="link"><a href="power.html.sl" title="Napajanje in baterija">nastavitve porabe</a></span>, <span class="link"><a href="color.html.sl" title="Upravljanje barv">upravljanje barv</a></span>, <span class="link"><a href="bluetooth.html.sl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.sl" title="Diski in shramba">diski</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemi comuni">Problemi</a> » <a class="trail" href="hardware-problems-graphics.html" title="Problemi dello schermo">Problemi dello schermo</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> › <a class="trail" href="hardware.html.it#problems" title="Problemi comuni">Problemi</a> » <a class="trail" href="hardware-problems-graphics.html.it" title="Problemi dello schermo">Problemi dello schermo</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemi comuni">Problemi</a> » <a class="trail" href="power.html#problems" title="Problemi">Problemi di alimentazione</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> › <a class="trail" href="hardware.html.it#problems" title="Problemi comuni">Problemi</a> » <a class="trail" href="power.html.it#problems" title="Problemi">Problemi di alimentazione</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Why does my computer not turn back on after I suspended it?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">If you <span class="link"><a href="power-suspend.html" title="Cosa succede quando si sospende il computer?">suspend</a></span> your computer, then try to
+<div class="contents"><p class="p">If you <span class="link"><a href="power-suspend.html.it" title="Cosa succede quando si sospende il computer?">suspend</a></span> your computer, then try to
 resume it, you may find that it does not work as you expected. This could be
 because suspend is not supported properly by your hardware.</p></div>
 <div id="resume" class="sect"><div class="inner">
@@ -77,7 +77,7 @@ because suspend is not supported properly by your hardware.</p></div>
 <p class="p">If you suspend your computer and then resume it again, you
   may find that your internet connection, mouse, or some other device does not
   work properly. This could be because the driver for the device does not
-  properly support suspend. This is a <span class="link"><a href="hardware-driver.html" title="Cos'e un driver?">problem with the driver</a></span> and not the device
+  properly support suspend. This is a <span class="link"><a href="hardware-driver.html.it" title="Cos'e un driver?">problem with the driver</a></span> and not the device
   itself.</p>
 <p class="p">Se il dispositivo ha un interruttore di alimentazione, provare a spegnerlo e a riaccenderlo: in molti casi, il dispositivo funzionerà di nuovo. Se la connessione è via cavo USB o simili, scollegare il dispositivo e ricollegarlo nuovamente per vedere se funziona.</p>
 <p class="p">If you cannot turn off or unplug the device, or if this does not work, you
@@ -91,10 +91,10 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Problemi dello schermo">Problemi dello schermo</a><span class="desc"> — Risolvere problemi grafici e di schermo.</span>
+<a href="hardware-problems-graphics.html.it" title="Problemi dello schermo">Problemi dello schermo</a><span class="desc"> — Risolvere problemi grafici e di schermo.</span>
 </li>
 <li class="links ">
-<a href="power.html#problems" title="Problemi">Problemi di alimentazione</a><span class="desc"> — Risolvere problemi relativi all'alimentazione elettrica e alle batterie.</span>
+<a href="power.html.it#problems" title="Problemi">Problemi di alimentazione</a><span class="desc"> — Risolvere problemi relativi all'alimentazione elettrica e alle batterie.</span>
 </li>
 </ul></div>
 </div></div>
@@ -102,20 +102,20 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-hibernate.html" title="Come faccio a ibernare il mio computer?">Come faccio a ibernare il mio computer?</a><span class="desc"> — L'ibernazione è disabilitata per impostazione predefinita poiché non è pienamente supportata.</span>
+<a href="power-hibernate.html.it" title="Come faccio a ibernare il mio computer?">Come faccio a ibernare il mio computer?</a><span class="desc"> — L'ibernazione è disabilitata per impostazione predefinita poiché non è pienamente supportata.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="Cos'e un driver?">Cos'e un driver?</a><span class="desc"> — Un driver hardware permette al computer di usare i dispositivi ad esso collegati.</span>
+<a href="hardware-driver.html.it" title="Cos'e un driver?">Cos'e un driver?</a><span class="desc"> — Un driver hardware permette al computer di usare i dispositivi ad esso collegati.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Cosa succede quando si sospende il computer?">Cosa succede quando si sospende il computer?</a><span class="desc"> — Con la sospensione il computer si mette in pausa in modo da usare meno energia.</span>
+<a href="power-suspend.html.it" title="Cosa succede quando si sospende il computer?">Cosa succede quando si sospende il computer?</a><span class="desc"> — Con la sospensione il computer si mette in pausa in modo da usare meno energia.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="Non è presente alcuna rete senza fili quando si riattiva il computer">Non è presente alcuna rete senza fili quando si riattiva il computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
+<a href="power-nowireless.html.it" title="Non è presente alcuna rete senza fili quando si riattiva il computer">Non è presente alcuna rete senza fili quando si riattiva il computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
     suspended and does not resume properly.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="Perché il computer si spegne se chiudo il coperchio?">Perché il computer si spegne se chiudo il coperchio?</a><span class="desc"> — Il computer portatile, per risparmiare energia, va in sospensione se viene chiuso il coperchio.</span>
+<a href="power-closelid.html.it" title="Perché il computer si spegne se chiudo il coperchio?">Perché il computer si spegne se chiudo il coperchio?</a><span class="desc"> — Il computer portatile, per risparmiare energia, va in sospensione se viene chiuso il coperchio.</span>
 </li>
 </ul></div>
 </div></div>

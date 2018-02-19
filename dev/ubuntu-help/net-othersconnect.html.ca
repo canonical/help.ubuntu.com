@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="Problemes de xarxa">Problemes de xarxa</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.ca" title="Problemes de xarxa">Problemes de xarxa</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Other users can’t connect to the internet</span></h1></div>
@@ -53,7 +53,7 @@
   will normally be able to use it. If the connection information is not shared,
   you should check the connection settings.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Wi-Fi</span> from the list on the left.</p></li>
@@ -76,16 +76,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Problemes de xarxa">Problemes de xarxa</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
+<a href="net-problem.html.ca" title="Problemes de xarxa">Problemes de xarxa</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.ca" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.ca" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — You need to uncheck the <span class="gui">Available to all users</span> option in the network connection settings.</span>
+<a href="net-othersedit.html.ca" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — You need to uncheck the <span class="gui">Available to all users</span> option in the network connection settings.</span>
 </li></ul></div>
 </div></div>
 </div>

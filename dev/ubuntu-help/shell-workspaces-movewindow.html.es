@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a> » <a class="trail" href="shell-windows.html" title="Ventanas y áreas de trabajo">Ventanas y áreas de trabajo</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Trabajar con áreas de trabajo:">Áreas de trabajo</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html.es" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html.es#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a> » <a class="trail" href="shell-windows.html.es" title="Ventanas y áreas de trabajo">Ventanas y áreas de trabajo</a> › <a class="trail" href="shell-windows.html.es#working-with-workspaces" title="Trabajar con áreas de trabajo:">Áreas de trabajo</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mover una ventana a un área de trabajo diferente</span></h1></div>
@@ -52,18 +52,18 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Usando el ratón:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span>.</p></li>
 <li class="steps"><p class="p">Pulse y arrastre la ventana a la derecha de la pantalla.</p></li>
-<li class="steps"><p class="p">Aparecerá el <span class="link"><a href="shell-workspaces.html" title="¿Qué es un área de trabajo y cómo me ayudará?">selector de áreas de trabajo</a></span>.</p></li>
+<li class="steps"><p class="p">Aparecerá el <span class="link"><a href="shell-workspaces.html.es" title="¿Qué es un área de trabajo y cómo me ayudará?">selector de áreas de trabajo</a></span>.</p></li>
 <li class="steps"><p class="p">Arrastre la ventana a un área de trabajo vacía. Este área de trabajo ahora contiene la ventana que se arrastró en ella y se creará una nueva área de trabajo vacía al final del <span class="gui">selector de áreas de trabajo</span>.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Usando el teclado:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Seleccione la ventana que quiere mover (por ejemplo, usando el <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="¿Qué es la tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> <span class="em"><a href="shell-windows-switching.html" title="Cambiar entre ventanas">selector de ventanas</a></span>).</p></li>
+<li class="steps"><p class="p">Seleccione la ventana que quiere mover (por ejemplo, usando el <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.es" title="¿Qué es la tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> <span class="em"><a href="shell-windows-switching.html.es" title="Cambiar entre ventanas">selector de ventanas</a></span>).</p></li>
 <li class="steps">
-<p class="p">Pulse <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="¿Qué es la tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Mayús</kbd></span>+<span class="key"><kbd>Re Pág</kbd></span></span> para mover la ventana al área de trabajo encima del actual en el <span class="em">selector de áreas de trabajo</span>.</p>
+<p class="p">Pulse <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.es" title="¿Qué es la tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Mayús</kbd></span>+<span class="key"><kbd>Re Pág</kbd></span></span> para mover la ventana al área de trabajo encima del actual en el <span class="em">selector de áreas de trabajo</span>.</p>
 <p class="p">Pulse <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Mayús</kbd></span>+<span class="key"><kbd>Av Pág</kbd></span></span> para mover la ventana al área de trabajo debajo de la actual en el <span class="em">selector de áreas de trabajo</span>.</p>
 </li>
 </ol></div>
@@ -74,12 +74,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Trabajar con áreas de trabajo:">Trabajar con áreas de trabajo:</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.es#working-with-workspaces" title="Trabajar con áreas de trabajo:">Trabajar con áreas de trabajo:</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-workspaces.html" title="¿Qué es un área de trabajo y cómo me ayudará?">¿Qué es un área de trabajo y cómo me ayudará?</a><span class="desc"> — Las áreas de trabajo son una manera de agrupar ventanas en su escritorio.</span>
+<a href="shell-workspaces.html.es" title="¿Qué es un área de trabajo y cómo me ayudará?">¿Qué es un área de trabajo y cómo me ayudará?</a><span class="desc"> — Las áreas de trabajo son una manera de agrupar ventanas en su escritorio.</span>
 </li></ul></div>
 </div></div>
 </div>

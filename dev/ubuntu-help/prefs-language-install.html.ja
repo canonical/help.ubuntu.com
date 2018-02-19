@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">ソフトウェアの追加/削除</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.ja" title="Install &amp; remove software">ソフトウェアの追加/削除</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">言語のインストール</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Ubuntuをインストールした際、言語はインストール時に選択した言語と英語が一緒に選択されますが、さらに言語を追加することができます。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
@@ -59,7 +59,7 @@
 <li class="steps"><p class="p"><span class="gui">言語のインストールと削除...</span>をクリックします。<span class="gui">インストールされている言語</span>ウィンドウが現在インストール済みの言語はチェック状態で、利用可能な言語のすべてを列挙しています。</p></li>
 <li class="steps"><p class="p">インストールしたい言語を選択し、現在インストール済みで削除したい言語を外します。</p></li>
 <li class="steps"><p class="p"><span class="gui">変更を適用</span>をクリックします。</p></li>
-<li class="steps"><p class="p"><span class="link"><a href="user-admin-explain.html" title="How do administrative privileges work?">管理者権限</a></span>が必要になります。あなたのパスワードか、要求された管理者アカウントのパスワードを入力します。</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="user-admin-explain.html.ja" title="How do administrative privileges work?">管理者権限</a></span>が必要になります。あなたのパスワードか、要求された管理者アカウントのパスワードを入力します。</p></li>
 </ol></div></div></div>
 <p class="p">In addition to the translations used to display menus and messages,
   with a new language may follow various language support components such
@@ -72,10 +72,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="アプリケーションの削除">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+<a href="addremove.html.ja" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
+      <span class="link"><a href="addremove-install.html.ja" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.ja" title="アプリケーションの削除">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.ja" title="Add software repositories">add repositories</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -83,7 +83,7 @@
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Install additional applications">
+<a href="addremove-install.html.ja" title="Install additional applications">
     Install additional applications
   </a><span class="desc"> — 
       Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
@@ -91,7 +91,7 @@
     </span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="地域と言語">地域と言語</a><span class="desc"> — <span class="link"><a href="session-language.html" title="使用する言語を変更する">言語</a></span>, <span class="link"><a href="session-formats.html" title="日付や計量単位のフォーマットを変更する">地域とフォーマット</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">キーボードレイアウト</a></span>…</span>
+<a href="prefs-language.html.ja" title="地域と言語">地域と言語</a><span class="desc"> — <span class="link"><a href="session-language.html.ja" title="使用する言語を変更する">言語</a></span>, <span class="link"><a href="session-formats.html.ja" title="日付や計量単位のフォーマットを変更する">地域とフォーマット</a></span>, <span class="link"><a href="keyboard-layouts.html.ja" title="Use alternative keyboard layouts">キーボードレイアウト</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

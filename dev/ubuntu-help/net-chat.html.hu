@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Csevegés és közösségi hálózatok</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html" title="Azonnali üzenetek az Ubuntun"><span class="title">Azonnali üzenetek az Ubuntun</span><span class="linkdiv-dash"> — </span><span class="desc">Az <span class="app">Empathy</span> segítségével számos hálózaton keresztül cseveghet, telefonálhat és videotelefonálhat barátaival, kollégáival.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html" title="Videohívások"><span class="title">Videohívások</span><span class="linkdiv-dash"> — </span><span class="desc">Milyen alkalmazásokkal indíthatok videohívásokat?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html.hu" title="Azonnali üzenetek az Ubuntun"><span class="title">Azonnali üzenetek az Ubuntun</span><span class="linkdiv-dash"> — </span><span class="desc">Az <span class="app">Empathy</span> segítségével számos hálózaton keresztül cseveghet, telefonálhat és videotelefonálhat barátaival, kollégáival.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html.hu" title="Videohívások"><span class="title">Videohívások</span><span class="linkdiv-dash"> — </span><span class="desc">Milyen alkalmazásokkal indíthatok videohívásokat?</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html" title="Hogyan használhatom a Skype-ot Ubuntun?"><span class="title">Hogyan használhatom a Skype-ot Ubuntun?</span><span class="linkdiv-dash"> — </span><span class="desc">A <span class="app">Skype</span> egy zárt forrású szoftver, és saját kezűleg kell telepítenie az Ubuntura.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html.hu" title="Hogyan használhatom a Skype-ot Ubuntun?"><span class="title">Hogyan használhatom a Skype-ot Ubuntun?</span><span class="linkdiv-dash"> — </span><span class="desc">A <span class="app">Skype</span> egy zárt forrású szoftver, és saját kezűleg kell telepítenie az Ubuntura.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -61,13 +61,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Vezeték nélküli hálózatok">Vezeték nélküli</a></span>, <span class="link"><a href="net-wired.html" title="Vezetékes kapcsolatok">vezetékes</a></span>, <span class="link"><a href="net-problem.html" title="Hálózati problémák">kapcsolatproblémák</a></span>, <span class="link"><a href="net-browser.html" title="Webböngészők">webböngészés</a></span>, <span class="link"><a href="net-email.html" title="E-mail és levelezőprogramok">e-mail fiókok</a></span>…</span>
+<a href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.hu" title="Vezeték nélküli hálózatok">Vezeték nélküli</a></span>, <span class="link"><a href="net-wired.html.hu" title="Vezetékes kapcsolatok">vezetékes</a></span>, <span class="link"><a href="net-problem.html.hu" title="Hálózati problémák">kapcsolatproblémák</a></span>, <span class="link"><a href="net-browser.html.hu" title="Webböngészők">webböngészés</a></span>, <span class="link"><a href="net-email.html.hu" title="E-mail és levelezőprogramok">e-mail fiókok</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Online fiókok">Online fiókok</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Fiók hozzáadása">Online fiók hozzáadása</a></span>, <span class="link"><a href="accounts-remove.html" title="Fiók eltávolítása">Fiók eltávolítása</a></span>, <span class="link"><a href="accounts-which-application.html" title="Online szolgáltatások és alkalmazások">Szolgáltatások megismerése</a></span>…</span>
+<a href="accounts.html.hu" title="Online fiókok">Online fiókok</a><span class="desc"> — <span class="link"><a href="accounts-add.html.hu" title="Fiók hozzáadása">Online fiók hozzáadása</a></span>, <span class="link"><a href="accounts-remove.html.hu" title="Fiók eltávolítása">Fiók eltávolítása</a></span>, <span class="link"><a href="accounts-which-application.html.hu" title="Online szolgáltatások és alkalmazások">Szolgáltatások megismerése</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

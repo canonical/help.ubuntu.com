@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="color.html" title="色彩管理">色彩管理</a> › <a class="trail" href="color.html#profiles" title="色彩配置文件">色彩配置文件</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="color.html.zh-CN" title="色彩管理">色彩管理</a> › <a class="trail" href="color.html.zh-CN#profiles" title="色彩配置文件">色彩配置文件</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="color.html" title="色彩管理">色彩管理</a> › <a class="trail" href="color.html#profiles" title="色彩配置文件">色彩配置文件</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="color.html.zh-CN" title="色彩管理">色彩管理</a> › <a class="trail" href="color.html.zh-CN#profiles" title="色彩配置文件">色彩配置文件</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -69,25 +69,25 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="色彩配置文件">色彩配置文件</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.zh-CN#profiles" title="色彩配置文件">色彩配置文件</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-whatisspace.html" title="什么是色彩空间？">什么是色彩空间？</a><span class="desc"> — 色彩空间是定义的颜色范围。</span>
+<a href="color-whatisspace.html.zh-CN" title="什么是色彩空间？">什么是色彩空间？</a><span class="desc"> — 色彩空间是定义的颜色范围。</span>
 </li>
 <li class="links ">
-<a href="color-gettingprofiles.html" title="从哪里可以获取色彩配置文件？">从哪里可以获取色彩配置文件？</a><span class="desc"> — 色彩配置文件可以由厂商提供，也可以自行生成。</span>
+<a href="color-gettingprofiles.html.zh-CN" title="从哪里可以获取色彩配置文件？">从哪里可以获取色彩配置文件？</a><span class="desc"> — 色彩配置文件可以由厂商提供，也可以自行生成。</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html" title="如何导入色彩配置文件？">如何导入色彩配置文件？</a><span class="desc"> — Color profiles can be imported by opening them.</span>
+<a href="color-howtoimport.html.zh-CN" title="如何导入色彩配置文件？">如何导入色彩配置文件？</a><span class="desc"> — Color profiles can be imported by opening them.</span>
 </li>
 <li class="links ">
-<a href="color-canshareprofiles.html" title="我可以共享我的色彩配置文件吗？">我可以共享我的色彩配置文件吗？</a><span class="desc"> — 共享色彩配置文件绝不是个好主意，因为硬件在随时间不断变化。</span>
+<a href="color-canshareprofiles.html.zh-CN" title="我可以共享我的色彩配置文件吗？">我可以共享我的色彩配置文件吗？</a><span class="desc"> — 共享色彩配置文件绝不是个好主意，因为硬件在随时间不断变化。</span>
 </li>
 <li class="links ">
-<a href="color-assignprofiles.html" title="我如何为设备指定配置文件？">我如何为设备指定配置文件？</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-assignprofiles.html.zh-CN" title="我如何为设备指定配置文件？">我如何为设备指定配置文件？</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
 </li>
 </ul></div>
 </div></div>

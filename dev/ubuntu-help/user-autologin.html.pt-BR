@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="user-accounts.html" title="Contas de usuários">Usuários</a> › <a class="trail" href="user-accounts.html#manage" title="Gerenciando contas de usuários">Contas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="user-accounts.html.pt-BR" title="Contas de usuários">Usuários</a> › <a class="trail" href="user-accounts.html.pt-BR#manage" title="Gerenciando contas de usuários">Contas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Iniciando automaticamente a sessão</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Você pode alterar suas configurações de forma que sua sessão inicie automaticamente quando você ligar seu computador:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Usuários</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Usuários</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Usuários</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione a conta de usuário cuja sessão você deseja que inicie automaticamente na inicialização.</p></li>
 <li class="steps"><p class="p">Pressione <span class="gui">Desbloquear</span> e digite sua senha.</p></li>
@@ -65,12 +65,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Gerenciando contas de usuários">Gerenciando contas de usuários</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.pt-BR#manage" title="Gerenciando contas de usuários">Gerenciando contas de usuários</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-exit.html" title="Encerrando sessão, desligando seu computador ou alternando usuários">Encerrando sessão, desligando seu computador ou alternando usuários</a><span class="desc"> — Aprenda como deixar sua conta de usuário, encerrando a sessão, alternando usuários e por aí vai.</span>
+<a href="shell-exit.html.pt-BR" title="Encerrando sessão, desligando seu computador ou alternando usuários">Encerrando sessão, desligando seu computador ou alternando usuários</a><span class="desc"> — Aprenda como deixar sua conta de usuário, encerrando a sessão, alternando usuários e por aí vai.</span>
 </li></ul></div>
 </div></div>
 </div>

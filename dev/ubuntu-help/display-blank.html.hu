@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="power.html" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> › <a class="trail" href="power.html#saving" title="Energiatakarékossági beállítások">Energiatakarékossági beállítások</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> › <a class="trail" href="power.html.hu#saving" title="Energiatakarékossági beállítások">Energiatakarékossági beállítások</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="prefs-display.html" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="power.html" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> › <a class="trail" href="power.html#saving" title="Energiatakarékossági beállítások">Energiatakarékossági beállítások</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> › <a class="trail" href="power.html.hu#saving" title="Energiatakarékossági beállítások">Energiatakarékossági beállítások</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="hardware-problems-graphics.html" title="Képernyőproblémák">Képernyőproblémák</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html.hu#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="hardware-problems-graphics.html.hu" title="Képernyőproblémák">Képernyőproblémák</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,12 +61,12 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">A képernyő-elsötétítés idejének megadásához:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni az <span class="gui">Energiagazdálkodás</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni az <span class="gui">Energiagazdálkodás</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Energiagazdálkodás</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Az <span class="gui">Energiatakarékosság</span> alatti <span class="gui">Képernyő elsötétítése</span> legördülő lista használatával beállíthatja azt az időt, amikor a képernyő elsötétüljön, vagy ki is kapcsolhatja azt.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Ha a számítógépét nem használja, a képernyő biztonsági okból automatikusan zárolja magát. A viselkedés megváltoztatásához lásd a <span class="link"><a href="session-screenlocks.html" title="A képernyő túl hamar zárolódik">A képernyő túl hamar zárolódik</a></span> fejezetet.</p></div></div></div></div>
+<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Ha a számítógépét nem használja, a képernyő biztonsági okból automatikusan zárolja magát. A viselkedés megváltoztatásához lásd a <span class="link"><a href="session-screenlocks.html.hu" title="A képernyő túl hamar zárolódik">A képernyő túl hamar zárolódik</a></span> fejezetet.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -74,12 +74,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="power.html#saving" title="Energiatakarékossági beállítások">Energiatakarékossági beállítások</a></li>
+<li class="links "><a href="power.html.hu#saving" title="Energiatakarékossági beállítások">Energiatakarékossági beállítások</a></li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Képernyőproblémák">Képernyőproblémák</a><span class="desc"> — Képernyő- és grafikai hibák elhárítása.</span>
+<a href="hardware-problems-graphics.html.hu" title="Képernyőproblémák">Képernyőproblémák</a><span class="desc"> — Képernyő- és grafikai hibák elhárítása.</span>
 </li>
 <li class="links ">
-<a href="prefs-display.html" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Háttér</a></span>, <span class="link"><a href="look-resolution.html" title="A képernyő felbontásának vagy forgatásának módosítása">méret és elforgatás</a></span>, fényerő…</span>
+<a href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — <span class="link"><a href="look-background.html.hu" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Háttér</a></span>, <span class="link"><a href="look-resolution.html.hu" title="A képernyő felbontásának vagy forgatásának módosítása">méret és elforgatás</a></span>, fényerő…</span>
 </li>
 </ul></div>
 </div></div>
@@ -87,10 +87,10 @@
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="session-screenlocks.html" title="A képernyő túl hamar zárolódik">A képernyő túl hamar zárolódik</a><span class="desc"> — A képernyőzárolás előtti várakozás hosszának megváltoztatása az <span class="gui">Adatvédelem</span> beállításai közt.</span>
+<a href="session-screenlocks.html.hu" title="A képernyő túl hamar zárolódik">A képernyő túl hamar zárolódik</a><span class="desc"> — A képernyőzárolás előtti várakozás hosszának megváltoztatása az <span class="gui">Adatvédelem</span> beállításai közt.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="Miért halványul el a képernyőm egy idő után?">Miért halványul el a képernyőm egy idő után?</a><span class="desc"> — Üresjáratban a képernyő energiatakarékossági okból elhalványodik.</span>
+<a href="power-whydim.html.hu" title="Miért halványul el a képernyőm egy idő után?">Miért halványul el a képernyőm egy idő után?</a><span class="desc"> — Üresjáratban a képernyő energiatakarékossági okból elhalványodik.</span>
 </li>
 </ul></div>
 </div></div>

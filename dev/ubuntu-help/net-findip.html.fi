@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-general.html" title="Verkkojen nimikkeet ja vinkit">Verkkojen nimikkeet ja vinkit</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-general.html.fi" title="Verkkojen nimikkeet ja vinkit">Verkkojen nimikkeet ja vinkit</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">IP-osoitteen selvittäminen</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Sisäverkon IP-osoitteen selvittäminen</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Verkko</span>.</p></li>
 <li class="steps">
@@ -84,17 +84,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Verkkojen nimikkeet ja vinkit">Verkkojen nimikkeet ja vinkit</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="IP-osoitteen selvittäminen">IP-osoitteen selvittäminen</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Mitä WEP ja WPA tarkoittavat?">WEP- ja WPA-turvallisuus</a></span>, <span class="link"><a href="net-macaddress.html" title="Mikä MAC-osoite on?">MAC-osoitteet</a></span>, <span class="link"><a href="net-proxy.html" title="Määritä välityspalvelimen asetukset">välityspalvelimet</a></span>…</span>
+<a href="net-general.html.fi" title="Verkkojen nimikkeet ja vinkit">Verkkojen nimikkeet ja vinkit</a><span class="desc"> — <span class="link"><a href="net-findip.html.fi" title="IP-osoitteen selvittäminen">IP-osoitteen selvittäminen</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.fi" title="Mitä WEP ja WPA tarkoittavat?">WEP- ja WPA-turvallisuus</a></span>, <span class="link"><a href="net-macaddress.html.fi" title="Mikä MAC-osoite on?">MAC-osoitteet</a></span>, <span class="link"><a href="net-proxy.html.fi" title="Määritä välityspalvelimen asetukset">välityspalvelimet</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-fixed-ip-address.html" title="Luo yhteys käyttämällä kiinteää IP-osoitetta">Luo yhteys käyttämällä kiinteää IP-osoitetta</a><span class="desc"> — Kiinteän IP-osoitteen käyttö saattaa helpottaa joidenkin verkkopalvelujen hallintaa.</span>
+<a href="net-fixed-ip-address.html.fi" title="Luo yhteys käyttämällä kiinteää IP-osoitetta">Luo yhteys käyttämällä kiinteää IP-osoitetta</a><span class="desc"> — Kiinteän IP-osoitteen käyttö saattaa helpottaa joidenkin verkkopalvelujen hallintaa.</span>
 </li>
 <li class="links ">
-<a href="net-what-is-ip-address.html" title="Mikä IP-osoite on?">Mikä IP-osoite on?</a><span class="desc"> — IP-osoite on tavallaan tietokoneesi "puhelinnumero".</span>
+<a href="net-what-is-ip-address.html.fi" title="Mikä IP-osoite on?">Mikä IP-osoite on?</a><span class="desc"> — IP-osoite on tavallaan tietokoneesi "puhelinnumero".</span>
 </li>
 </ul></div>
 </div></div>

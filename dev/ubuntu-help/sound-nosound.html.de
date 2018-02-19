@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="media.html#sound" title="Grundlegendes zum Ton">Klang</a> » <a class="trail" href="sound-broken.html" title="Klangprobleme">Klangprobleme</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="media.html.de#sound" title="Grundlegendes zum Ton">Klang</a> » <a class="trail" href="sound-broken.html.de" title="Klangprobleme">Klangprobleme</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Häufige Probleme">Probleme</a> » <a class="trail" href="sound-broken.html" title="Klangprobleme">Klangprobleme</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html.de#problems" title="Häufige Probleme">Probleme</a> » <a class="trail" href="sound-broken.html.de" title="Klangprobleme">Klangprobleme</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <div id="mute" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Stellen Sie sicher, dass der Ton nicht stumm geschaltet ist</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Öffnen Sie das <span class="gui"><a href="shell-terminology.html#yourname" title="shell-terminology#yourname">Systemmenü</a></span> und stellen Sie sicher, dass der Klang nicht stumm geschaltet oder völlig herunter geregelt ist.</p>
+<p class="p">Öffnen Sie das <span class="gui"><a href="shell-terminology.html.de#yourname" title="shell-terminology#yourname">Systemmenü</a></span> und stellen Sie sicher, dass der Klang nicht stumm geschaltet oder völlig herunter geregelt ist.</p>
 <p class="p">Einige Laptops haben Stummschalter oder entsprechend wirkende Tasten. Versuchen Sie diese Schalter oder Tasten zu bedienen, um zu sehen, ob der Klang nicht stumm geschaltet ist.</p>
 <p class="p">Sie sollten auch sicherstellen, dass die für die Wiedergabe von Klängen verwendete Anwendung nicht stumm geschaltet ist, zum Beispiel ein Musikwiedergabeprogramm oder ein Video-Player. Die jeweilige Anwendung könnte einen Knopf zum Stummschalten oder für die Lautstärke im Hauptfenster haben, daher sollten Sie das ebenfalls überprüfen.</p>
 <p class="p">Klicken Sie auf den Reiter <span class="gui">Anwendungen</span> im <span class="gui">Audio</span>-Panel und überprüfen Sie folgendes:</p>
@@ -80,7 +80,7 @@
 <div class="region"><div class="contents">
 <p class="p">Auf einigen Rechnern sind mehrere »Audiogeräte« installiert. Einige davon können Klänge ausgeben, andere nicht. Überprüfen Sie also, ob das richtige Gerät ausgewählt ist. Einige Testläufe könnten nötig sein, um das richtige Gerät zu finden.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Audio</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Audio</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Audio</span>, um das Panel zu öffnen.</p></li>
 <li class="steps">
 <p class="p">Versuchen Sie im Reiter <span class="gui">Ausgabe</span> für das ausgewählte Gerät das <span class="gui">Profil</span> zu ändern. Spielen Sie anschließend einen Klang ab, um zu sehen, ob es funktioniert. Möglicherweise müssen Sie nun die Liste weiter durcharbeiten und jedes Profil testen.</p>
@@ -96,7 +96,7 @@
 <p class="p">Mit dem Befehl <span class="cmd">lspci</span> in einem Terminal erfahren Sie, welche Soundkarte Sie besitzen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Wechseln Sie in die <span class="gui">Aktivitäten</span>-Übersicht und starten Sie ein Terminal.</p></li>
-<li class="steps"><p class="p">Führen Sie <span class="cmd">lspci</span> als <span class="link"><a href="user-admin-explain.html" title="Wie funktionieren Systemverwalter-Privilegien?">Systemverwalter</a></span>aus. Geben Sie entweder <span class="cmd">sudo lspci</span> und Ihr Passwort ein, oder geben Sie <span class="cmd">su</span> ein und geben Sie das <span class="em">root</span>-Passwort (Systemverwalter-Passwort) an, gefolgt von <span class="cmd">lspci</span>.</p></li>
+<li class="steps"><p class="p">Führen Sie <span class="cmd">lspci</span> als <span class="link"><a href="user-admin-explain.html.de" title="Wie funktionieren Systemverwalter-Privilegien?">Systemverwalter</a></span>aus. Geben Sie entweder <span class="cmd">sudo lspci</span> und Ihr Passwort ein, oder geben Sie <span class="cmd">su</span> ein und geben Sie das <span class="em">root</span>-Passwort (Systemverwalter-Passwort) an, gefolgt von <span class="cmd">lspci</span>.</p></li>
 <li class="steps"><p class="p">Prüfen Sie, ob ein <span class="em">Audio-Steuergerät</span> oder ein <span class="em">Audio-Gerät</span> aufgelistet ist. Dann sehen Sie auch die Modellnummer der Sound-Karte. <span class="cmd">lspci -v</span> zeigt die Liste mit wesentlich detaillierteren Informationen.</p></li>
 </ol></div></div></div>
 <p class="p">Es sollte möglich sein, Treiber für Ihre Soundkarte zu finden und zu installieren. Am besten sollten Sie in Hilfeforen (oder ähnlichem) Ihrer Linux-Distribution um Unterstützung bitten.</p>
@@ -108,7 +108,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html" title="Klangprobleme">Klangprobleme</a><span class="desc"> — Problemlösungen bei fehlender Klangausgabe oder schlechter Klangqualität.</span>
+<a href="sound-broken.html.de" title="Klangprobleme">Klangprobleme</a><span class="desc"> — Problemlösungen bei fehlender Klangausgabe oder schlechter Klangqualität.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,19 +44,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Zvuk, video a obrázky">Zvuk, video a obrázky</a> › <a class="trail" href="media.html#photos" title="Fotografie a digitální fotoaparáty">Fotografie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.cs" title="Zvuk, video a obrázky">Zvuk, video a obrázky</a> › <a class="trail" href="media.html.cs#photos" title="Fotografie a digitální fotoaparáty">Fotografie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Běžné problémy">Problémy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html.cs#problems" title="Běžné problémy">Problémy</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problémy s čtečkami paměťových karet</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Řada počítačů obsahuje čtečku karet SD, MMC, SM, MS, CF a jiných. Měla by být nalezena automaticky a karta po vložení <span class="link"><a href="disk-partitions.html" title="Správa svazků a oddílů">připojena</a></span>. Zde jsou některé kroky, které lze zkusit, když se tak nestane:</p>
+<p class="p">Řada počítačů obsahuje čtečku karet SD, MMC, SM, MS, CF a jiných. Měla by být nalezena automaticky a karta po vložení <span class="link"><a href="disk-partitions.html.cs" title="Správa svazků a oddílů">připojena</a></span>. Zde jsou některé kroky, které lze zkusit, když se tak nestane:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ujistěte se, že je karta zasunutá správně. Některé karty vypadají, že jsou vzhůru nohama, když jsou vložené správně. Také se ujistěte, že je karta do otvoru zasunutá pořádně. Některé karty, zejména CF, vyžadují vyvinout jistou sílu, aby se zasunuly nadoraz. (Na druhou stranu to se sílou nepřehánějte! Když narazíte na překážku, nepoužívejte násilí.)</p></li>
-<li class="steps"><p class="p">Z přehledu <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> otevřete <span class="app">Soubory</span>. Objevila se vložená karta v seznamu <span class="gui">Zařízení</span> v levé postranní liště? Někdy se karta objeví v seznamu, ale nepřípojí se – připojte ji kliknutím. (V případě, že postranní lišta není vidět, zmáčkněte <span class="key"><kbd>F9</kbd></span> nebo klikněte na <span class="gui">Soubory</span> na horní liště a zvolte <span class="gui">Postranní panel</span>.)</p></li>
+<li class="steps"><p class="p">Z přehledu <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> otevřete <span class="app">Soubory</span>. Objevila se vložená karta v seznamu <span class="gui">Zařízení</span> v levé postranní liště? Někdy se karta objeví v seznamu, ale nepřípojí se – připojte ji kliknutím. (V případě, že postranní lišta není vidět, zmáčkněte <span class="key"><kbd>F9</kbd></span> nebo klikněte na <span class="gui">Soubory</span> na horní liště a zvolte <span class="gui">Postranní panel</span>.)</p></li>
 <li class="steps"><p class="p">Pokud se karta nezobrazí v postranním panelu, zmáčkněte <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>L</kbd></span></span> a pak napište <span class="input">computer:///</span> a zmáčkněte <span class="key"><kbd>Enter</kbd></span>. Jestli je vaše čtečka karet správně nastavená, měla by se objevit jako mechanika bez vložené karty a karta samotná, až bude připojená.</p></li>
 <li class="steps"><p class="p">Pokud vidíte čtečku karet, ale kartu ne, může být problém v kartě samotné. Jestli je to možné, zkuste použít jinou kartu nebo zkontrolujte kartu v jiné čtečce.</p></li>
 </ol></div></div></div>
@@ -67,8 +67,8 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#photos" title="Fotografie a digitální fotoaparáty">Fotografie</a></li>
-<li class="links "><a href="hardware.html#problems" title="Běžné problémy">Problémy s hardwarem</a></li>
+<li class="links "><a href="media.html.cs#photos" title="Fotografie a digitální fotoaparáty">Fotografie</a></li>
+<li class="links "><a href="hardware.html.cs#problems" title="Běžné problémy">Problémy s hardwarem</a></li>
 </ul></div>
 </div></div></div>
 </div>

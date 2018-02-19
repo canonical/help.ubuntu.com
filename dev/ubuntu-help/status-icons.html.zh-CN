@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">桌面</a> › <a class="trail" href="shell-overview.html#apps" title="应用程序和窗口">应用程序和窗口</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.zh-CN" title="Your desktop">桌面</a> › <a class="trail" href="shell-overview.html.zh-CN#apps" title="应用程序和窗口">应用程序和窗口</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">顶部面板的图标有什么作用？</span></h1></div>
@@ -52,11 +52,11 @@
 <p class="p">This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the GNOME interface are described.</p>
 <div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="GNOME Shell top bar"></div></div>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="status-icons.html#universalicons" title="通用辅助功能图标">通用辅助功能图标</a></li>
-<li class="links "><a href="status-icons.html#audioicons" title="音量控制图标">音量控制图标</a></li>
-<li class="links "><a href="status-icons.html#bluetoothicons" title="蓝牙管理图标">蓝牙管理图标</a></li>
-<li class="links "><a href="status-icons.html#networkicons" title="网络连接图标">网络连接图标</a></li>
-<li class="links "><a href="status-icons.html#batteryicons" title="电源管理图标">电源管理图标</a></li>
+<li class="links "><a href="status-icons.html.zh-CN#universalicons" title="通用辅助功能图标">通用辅助功能图标</a></li>
+<li class="links "><a href="status-icons.html.zh-CN#audioicons" title="音量控制图标">音量控制图标</a></li>
+<li class="links "><a href="status-icons.html.zh-CN#bluetoothicons" title="蓝牙管理图标">蓝牙管理图标</a></li>
+<li class="links "><a href="status-icons.html.zh-CN#networkicons" title="网络连接图标">网络连接图标</a></li>
+<li class="links "><a href="status-icons.html.zh-CN#batteryicons" title="电源管理图标">电源管理图标</a></li>
 </ul></div></div></div>
 </div>
 <div id="universalicons" class="sect"><div class="inner">
@@ -306,7 +306,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="应用程序和窗口">应用程序和窗口</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.zh-CN#apps" title="应用程序和窗口">应用程序和窗口</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

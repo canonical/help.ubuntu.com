@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tipy a triky</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Kliknutí prostředním tlačítkem"><span class="title">Kliknutí prostředním tlačítkem</span><span class="linkdiv-dash"> — </span><span class="desc">Jak používat prostřední tlačítko k otevření aplikací, otevření karet a dalším věcem.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html" title="Snímky a videonahrávky obrazovky"><span class="title">Snímky a videonahrávky obrazovky</span><span class="linkdiv-dash"> — </span><span class="desc">Jak pořídit snímek nebo videonahrávku toho, co se děje na obrazovce.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Užitečné klávesové zkratky"><span class="title">Užitečné klávesové zkratky</span><span class="linkdiv-dash"> — </span><span class="desc">Jak se v uživatelském prostředí pohybovat pomocí klávesnice.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html" title="Zadávání speciálních znaků"><span class="title">Zadávání speciálních znaků</span><span class="linkdiv-dash"> — </span><span class="desc">Jak napsat znaky, které nenajdete na klávesnici, včetně cizích abeced, matematických symbolů a ornamentů.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="gnome-version.html" title="Zjištění provozované verze GNOME"><span class="title">Zjištění provozované verze GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zjistit, která verze GNOME právě běží.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.cs" title="Kliknutí prostředním tlačítkem"><span class="title">Kliknutí prostředním tlačítkem</span><span class="linkdiv-dash"> — </span><span class="desc">Jak používat prostřední tlačítko k otevření aplikací, otevření karet a dalším věcem.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html.cs" title="Snímky a videonahrávky obrazovky"><span class="title">Snímky a videonahrávky obrazovky</span><span class="linkdiv-dash"> — </span><span class="desc">Jak pořídit snímek nebo videonahrávku toho, co se děje na obrazovce.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.cs" title="Užitečné klávesové zkratky"><span class="title">Užitečné klávesové zkratky</span><span class="linkdiv-dash"> — </span><span class="desc">Jak se v uživatelském prostředí pohybovat pomocí klávesnice.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html.cs" title="Zadávání speciálních znaků"><span class="title">Zadávání speciálních znaků</span><span class="linkdiv-dash"> — </span><span class="desc">Jak napsat znaky, které nenajdete na klávesnici, včetně cizích abeced, matematických symbolů a ornamentů.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="gnome-version.html.cs" title="Zjištění provozované verze GNOME"><span class="title">Zjištění provozované verze GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zjistit, která verze GNOME právě běží.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Průvodce pracovním prostředím Ubuntu">Průvodce pracovním prostředím Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu">Průvodce pracovním prostředím Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

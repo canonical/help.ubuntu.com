@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="clock.html" title="日付と時刻">日付と時刻</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ja" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="clock.html.ja" title="日付と時刻">日付と時刻</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">タイムゾーンを変更する</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span>      
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span>      
       overview and start typing <span class="gui">Date &amp; Time</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Date &amp; Time</span> to open the panel.</p></li>
 <li class="steps"><p class="p">If you have <span class="gui">Automatic Time Zone</span> set to <span class="gui">ON</span>, your
@@ -60,18 +60,18 @@
 <li class="steps"><p class="p">Click <span class="gui">Time Zone</span>, then select your location on the map or
       search for your current city.</p></li>
 </ol></div></div></div>
-<p class="p">現在設定されているものとは異なる場所を選択すると、時計は自動的に更新されます。また、<span class="link"><a href="clock-set.html" title="日付と時刻を変更する">時計を手動で調節する</a></span>こともできます。</p>
+<p class="p">現在設定されているものとは異なる場所を選択すると、時計は自動的に更新されます。また、<span class="link"><a href="clock-set.html.ja" title="日付と時刻を変更する">時計を手動で調節する</a></span>こともできます。</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="日付と時刻">日付と時刻</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html" title="日付と時刻を変更する">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="タイムゾーンを変更する">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="スケジュール表">calendar and appointments</a></span>…
+<a href="clock.html.ja" title="日付と時刻">日付と時刻</a><span class="desc"> — 
+      <span class="link"><a href="clock-set.html.ja" title="日付と時刻を変更する">Set date and time</a></span>,
+      <span class="link"><a href="clock-world.html.ja" title="Add a world clock">world clocks</a></span>,
+      <span class="link"><a href="clock-timezone.html.ja" title="タイムゾーンを変更する">timezone</a></span>,
+      <span class="link"><a href="clock-calendar.html.ja" title="スケジュール表">calendar and appointments</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

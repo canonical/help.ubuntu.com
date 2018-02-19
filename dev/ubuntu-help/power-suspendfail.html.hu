@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="power.html#problems" title="Problémák">Energiagazdálkodási problémák</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html.hu#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="power.html.hu#problems" title="Problémák">Energiagazdálkodási problémák</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="hardware-problems-graphics.html" title="Képernyőproblémák">Képernyőproblémák</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html.hu#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="hardware-problems-graphics.html.hu" title="Képernyőproblémák">Képernyőproblémák</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Miért nem kapcsol vissza felfüggesztés után a számítógépem?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Ha számítógépét <span class="link"><a href="power-suspend.html" title="Mi történik a számítógép felfüggesztésekor?">felfüggeszti</a></span>, majd megpróbálja folytatni a használatát, előfordulhat, hogy ez nem sikerül. Ezt a felfüggesztést nem megfelelően támogató hardver okozhatja.</p></div>
+<div class="contents"><p class="p">Ha számítógépét <span class="link"><a href="power-suspend.html.hu" title="Mi történik a számítógép felfüggesztésekor?">felfüggeszti</a></span>, majd megpróbálja folytatni a használatát, előfordulhat, hogy ez nem sikerül. Ezt a felfüggesztést nem megfelelően támogató hardver okozhatja.</p></div>
 <div id="resume" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">A számítógépem nem tér vissza a felfüggesztésből</span></h2></div>
 <div class="region"><div class="contents">
@@ -66,7 +66,7 @@
 <div id="hardware" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">A vezeték nélküli kapcsolat (vagy más hardver) nem működik a számítógép felébresztésekor</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Ha a számítógépet felfüggeszti, majd újra felébreszti, akkor előfordulhat, hogy az internetkapcsolat, az egér vagy más eszköz nem fog megfelelően működni. Ezt az eszköz illesztőprogramja okozhatja, amely nem támogatja megfelelően a felfüggesztést. Ez az <span class="link"><a href="hardware-driver.html" title="Mi az az illesztőprogram?">illesztőprogram hibája</a></span>, és nem az eszközé.</p>
+<p class="p">Ha a számítógépet felfüggeszti, majd újra felébreszti, akkor előfordulhat, hogy az internetkapcsolat, az egér vagy más eszköz nem fog megfelelően működni. Ezt az eszköz illesztőprogramja okozhatja, amely nem támogatja megfelelően a felfüggesztést. Ez az <span class="link"><a href="hardware-driver.html.hu" title="Mi az az illesztőprogram?">illesztőprogram hibája</a></span>, és nem az eszközé.</p>
 <p class="p">Ha az eszközön van ki/be kapcsoló gomb, akkor próbálja meg ki- és bekapcsolni. A legtöbb esetben az eszköz ilyenkor újra működni kezd. Ha USB-kábellel csatlakozik, akkor húzza ki az eszközt, majd dugja vissza újra.</p>
 <p class="p">Ha nem tudja kikapcsolni vagy kihúzni az eszközt, vagy ez nem használ, akkor indítsa újra számítógépét az eszköz működőképessé tételéhez.</p>
 </div></div>
@@ -78,10 +78,10 @@
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power.html#problems" title="Problémák">Energiagazdálkodási problémák</a><span class="desc"> — Energiagazdálkodással és akkumulátorokkal kapcsolatos problémák elhárítása.</span>
+<a href="power.html.hu#problems" title="Problémák">Energiagazdálkodási problémák</a><span class="desc"> — Energiagazdálkodással és akkumulátorokkal kapcsolatos problémák elhárítása.</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Képernyőproblémák">Képernyőproblémák</a><span class="desc"> — Képernyő- és grafikai hibák elhárítása.</span>
+<a href="hardware-problems-graphics.html.hu" title="Képernyőproblémák">Képernyőproblémák</a><span class="desc"> — Képernyő- és grafikai hibák elhárítása.</span>
 </li>
 </ul></div>
 </div></div>
@@ -89,19 +89,19 @@
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-nowireless.html" title="Felébresztés után nem működik a vezeték nélküli hálózat">Felébresztés után nem működik a vezeték nélküli hálózat</a><span class="desc"> — Néhány vezeték nélküli eszköz rosszul kezeli a számítógép felfüggesztését, és nem folytatja a működést megfelelően.</span>
+<a href="power-nowireless.html.hu" title="Felébresztés után nem működik a vezeték nélküli hálózat">Felébresztés után nem működik a vezeték nélküli hálózat</a><span class="desc"> — Néhány vezeték nélküli eszköz rosszul kezeli a számítógép felfüggesztését, és nem folytatja a működést megfelelően.</span>
 </li>
 <li class="links ">
-<a href="power-hibernate.html" title="Hogyan hibernálhatom a számítógépet?">Hogyan hibernálhatom a számítógépet?</a><span class="desc"> — A hibernálás alapesetben le van tiltva, mert nem elég jó a támogatása.</span>
+<a href="power-hibernate.html.hu" title="Hogyan hibernálhatom a számítógépet?">Hogyan hibernálhatom a számítógépet?</a><span class="desc"> — A hibernálás alapesetben le van tiltva, mert nem elég jó a támogatása.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="Mi az az illesztőprogram?">Mi az az illesztőprogram?</a><span class="desc"> — A hardver- vagy eszköz-illesztőprogram lehetővé teszi a számítógépnek a csatlakoztatott eszközök használatát.</span>
+<a href="hardware-driver.html.hu" title="Mi az az illesztőprogram?">Mi az az illesztőprogram?</a><span class="desc"> — A hardver- vagy eszköz-illesztőprogram lehetővé teszi a számítógépnek a csatlakoztatott eszközök használatát.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Mi történik a számítógép felfüggesztésekor?">Mi történik a számítógép felfüggesztésekor?</a><span class="desc"> — A felfüggesztés alvó állapotba helyezi számítógépét, így az kevesebb energiát használ.</span>
+<a href="power-suspend.html.hu" title="Mi történik a számítógép felfüggesztésekor?">Mi történik a számítógép felfüggesztésekor?</a><span class="desc"> — A felfüggesztés alvó állapotba helyezi számítógépét, így az kevesebb energiát használ.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="Miért kapcsol ki a számítógépem, amikor lezárom a fedelét?">Miért kapcsol ki a számítógépem, amikor lezárom a fedelét?</a><span class="desc"> — A laptopok az energiafelhasználás csökkentése érdekében alvó állapotba kerülnek, amikor lezárja a fedelüket.</span>
+<a href="power-closelid.html.hu" title="Miért kapcsol ki a számítógépem, amikor lezárom a fedelét?">Miért kapcsol ki a számítógépem, amikor lezárom a fedelét?</a><span class="desc"> — A laptopok az energiafelhasználás csökkentése érdekében alvó állapotba kerülnek, amikor lezárja a fedelüket.</span>
 </li>
 </ul></div>
 </div></div>

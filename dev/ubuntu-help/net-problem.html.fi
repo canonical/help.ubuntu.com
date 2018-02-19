@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Yhteysongelmat</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html.fi" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
     connect to a hidden network.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-slow.html" title="Internet vaikuttaa hitaalta"><span class="title">Internet vaikuttaa hitaalta</span><span class="linkdiv-dash"> — </span><span class="desc">Taustalla saattaa olla isoja tiedostoja latautumassa, Internet-yhteytesi on hidas tai on päivän "ruuhka-aika".</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="Miksi langaton yhteys katkeaa?"><span class="title">Miksi langaton yhteys katkeaa?</span><span class="linkdiv-dash"> — </span><span class="desc">Signaali saattaa olla heikko tai verkkoa ei ole ehkä yhdistetty oikein.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-slow.html.fi" title="Internet vaikuttaa hitaalta"><span class="title">Internet vaikuttaa hitaalta</span><span class="linkdiv-dash"> — </span><span class="desc">Taustalla saattaa olla isoja tiedostoja latautumassa, Internet-yhteytesi on hidas tai on päivän "ruuhka-aika".</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html.fi" title="Miksi langaton yhteys katkeaa?"><span class="title">Miksi langaton yhteys katkeaa?</span><span class="linkdiv-dash"> — </span><span class="desc">Signaali saattaa olla heikko tai verkkoa ei ole ehkä yhdistetty oikein.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="Muut käyttäjät eivät voi muokata verkkoyhteyksiä"><span class="title">Muut käyttäjät eivät voi muokata verkkoyhteyksiä</span><span class="linkdiv-dash"> — </span><span class="desc">Poista valinta kohdasta <span class="gui">Saatavilla kaikille käyttäjille</span> verkkoyhteyden asetusikkunassa.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="Other users can’t connect to the internet"><span class="title">Other users can’t connect to the internet</span><span class="linkdiv-dash"> — </span><span class="desc">Voit tallentaa verkkoyhteyden asetukset (kuten salasanan), jotta kaikki tietokoneen käyttäjät voivat käyttää määrittelemääsi verkkoyhteyttä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html.fi" title="Muut käyttäjät eivät voi muokata verkkoyhteyksiä"><span class="title">Muut käyttäjät eivät voi muokata verkkoyhteyksiä</span><span class="linkdiv-dash"> — </span><span class="desc">Poista valinta kohdasta <span class="gui">Saatavilla kaikille käyttäjille</span> verkkoyhteyden asetusikkunassa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html.fi" title="Other users can’t connect to the internet"><span class="title">Other users can’t connect to the internet</span><span class="linkdiv-dash"> — </span><span class="desc">Voit tallentaa verkkoyhteyden asetukset (kuten salasanan), jotta kaikki tietokoneen käyttäjät voivat käyttää määrittelemääsi verkkoyhteyttä.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Langattomat verkkoyhteydet">Langattomat lähiverkot</a></span>, <span class="link"><a href="net-wired.html" title="Kiinteät verkkoyhteydet">kiinteät yhteydet</a></span>, <span class="link"><a href="net-problem.html" title="Yhteysongelmat">yhteysongelmat</a></span>, <span class="link"><a href="net-browser.html" title="Selaimet">WWW-selaaminen</a></span>, <span class="link"><a href="net-email.html" title="Sähköposti ja sähköpostiohjelmat">sähköpostitilit</a></span>...</span>
+<a href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a><span class="desc"> — <span class="link"><a href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat lähiverkot</a></span>, <span class="link"><a href="net-wired.html.fi" title="Kiinteät verkkoyhteydet">kiinteät yhteydet</a></span>, <span class="link"><a href="net-problem.html.fi" title="Yhteysongelmat">yhteysongelmat</a></span>, <span class="link"><a href="net-browser.html.fi" title="Selaimet">WWW-selaaminen</a></span>, <span class="link"><a href="net-email.html.fi" title="Sähköposti ja sähköpostiohjelmat">sähköpostitilit</a></span>...</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Langattomaan verkkoon yhdistäminen">Langattomaan lähiverkkoon yhdistäminen</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Yhdistä piilotettuun verkkoon">piilotetut verkot</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Miksi langaton yhteys katkeaa?">yhteyden katkeaminen</a></span>…</span>
+<a href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.fi" title="Langattomaan verkkoon yhdistäminen">Langattomaan lähiverkkoon yhdistäminen</a></span>, <span class="link"><a href="net-wireless-hidden.html.fi" title="Yhdistä piilotettuun verkkoon">piilotetut verkot</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.fi" title="Miksi langaton yhteys katkeaa?">yhteyden katkeaminen</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

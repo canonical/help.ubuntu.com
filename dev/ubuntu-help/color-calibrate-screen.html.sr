@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="color.html" title="Управљање бојом">Управљање бојом</a> › <a class="trail" href="color.html#calibration" title="Калибрација">Калибрација</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="color.html.sr" title="Управљање бојом">Управљање бојом</a> › <a class="trail" href="color.html.sr#calibration" title="Калибрација">Калибрација</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="color.html" title="Управљање бојом">Управљање бојом</a> › <a class="trail" href="color.html#calibration" title="Калибрација">Калибрација</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="color.html.sr" title="Управљање бојом">Управљање бојом</a> › <a class="trail" href="color.html.sr#calibration" title="Калибрација">Калибрација</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">Можете да калибришете ваш екран тако да приказује јасније боје. Ово је нарочито корисно ако се бавите дигиталном фотографијом, дизајном или уметношћу.</p>
 <p class="p">Требаће вам или колориметар или спектрофотометар за то. Оба уређаја се користе за профилисање екрана, али раде на незнатно различите начине.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Боја</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Боја</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Боје</span> да отворите панел и да изаберете екран.</p></li>
 <li class="steps"><p class="p">Уверите се да је уређај за калибрацију повезан на ваш рачунар.</p></li>
 <li class="steps"><p class="p">Притисните <span class="gui">Калибриши…</span> да започнете калибрацију.</p></li>
@@ -69,19 +69,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Калибрација">Калибрација</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.sr#calibration" title="Калибрација">Калибрација</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-scanner.html" title="Како да калибришем мој скенер?">Како да калибришем мој скенер?</a><span class="desc"> — Калибрација скенера је важна зарад хватања исправних боја.</span>
+<a href="color-calibrate-scanner.html.sr" title="Како да калибришем мој скенер?">Како да калибришем мој скенер?</a><span class="desc"> — Калибрација скенера је важна зарад хватања исправних боја.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-camera.html" title="Како да калибришем мој фото-апарат?">Како да калибришем мој фото-апарат?</a><span class="desc"> — Калибрација фото-апарата је важна зарад снимања исправних боја.</span>
+<a href="color-calibrate-camera.html.sr" title="Како да калибришем мој фото-апарат?">Како да калибришем мој фото-апарат?</a><span class="desc"> — Калибрација фото-апарата је важна зарад снимања исправних боја.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html" title="Како да калибришем мој штампач?">Како да калибришем мој штампач?</a><span class="desc"> — Калибрација штампача је важна зарад штампања исправних боја.</span>
+<a href="color-calibrate-printer.html.sr" title="Како да калибришем мој штампач?">Како да калибришем мој штампач?</a><span class="desc"> — Калибрација штампача је важна зарад штампања исправних боја.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Namizje</a> › <a class="trail" href="shell-overview.html#apps" title="Programi in okna">Programi in okna</a> » <a class="trail" href="shell-windows.html" title="Okna in delovne površine">Okna in delovne površine</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Delo z okni">Okna</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="shell-overview.html.sl" title="Your desktop">Namizje</a> › <a class="trail" href="shell-overview.html.sl#apps" title="Programi in okna">Programi in okna</a> » <a class="trail" href="shell-windows.html.sl" title="Okna in delovne površine">Okna in delovne površine</a> › <a class="trail" href="shell-windows.html.sl#working-with-windows" title="Delo z okni">Okna</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Premikajte in organizirajte svoja okna.</span></h1></div>
@@ -54,19 +54,19 @@
   and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Move a window by dragging the titlebar, or hold down
-      <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> and drag anywhere in the
+      <span class="key"><a href="keyboard-key-super.html.sl" title="What is the Super key?"><kbd>Super</kbd></a></span> and drag anywhere in the
       window. Hold down <span class="key"><kbd>Shift</kbd></span> while moving to snap the window to the
       edges of the screen and other windows.</p></li>
 <li class="list"><p class="p">Spremenite velikost okna z vlečenjem robov ali kota okna. Za pripenjanje okna robovom zaslona in drugih oken medtem ko spreminjate velikost držite tipko <span class="key"><kbd>Shift</kbd></span>.</p></li>
 <li class="list"><p class="p">Premaknite ali spremenite velikost okna s tipkovnico. Pritisnite<span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span> za premik okna ali <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span> za spremembo velikosti okna. Uporabite smerne tipke za premik ali spremembo velikosti in nato pritisnite <span class="key"><kbd>Enter</kbd></span> za končanje spreminjanja velikosti okna ali <span class="key"><kbd>Esc</kbd></span> za njegovo vrnitev na izvirno velikost.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Razpenjanje in pomanjšanje okna">Razpnite okno</a></span> z vlečenjem na vrh zaslona. Okno povlecite na drugo stran zaslona za njegovo razpenjanje na stran, kar vam omogoča <span class="link"><a href="shell-windows-tiled.html" title="Razpostavitev oken">razporeditev okna enega ob drugem</a></span>.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html.sl" title="Razpenjanje in pomanjšanje okna">Razpnite okno</a></span> z vlečenjem na vrh zaslona. Okno povlecite na drugo stran zaslona za njegovo razpenjanje na stran, kar vam omogoča <span class="link"><a href="shell-windows-tiled.html.sl" title="Razpostavitev oken">razporeditev okna enega ob drugem</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Delo z okni">Delo z okni</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.sl#working-with-windows" title="Delo z okni">Delo z okni</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

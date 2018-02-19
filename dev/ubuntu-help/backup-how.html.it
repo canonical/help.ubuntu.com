@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="File, cartelle e ricerche">File</a> › <a class="trail" href="files.html#backup" title="Eseguire backup">Eseguire backup</a> » <a class="trail" href="backup-why.html" title="Eseguire il backup dei file importanti">Backup</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.it" title="File, cartelle e ricerche">File</a> › <a class="trail" href="files.html.it#backup" title="Eseguire backup">Eseguire backup</a> » <a class="trail" href="backup-why.html.it" title="Eseguire il backup dei file importanti">Backup</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Come eseguire un backup</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Il modo più semplice per eseguire il backup di file e impostazioni è lasciare a un'applicazione dedicata la gestione di tale processo. Esistono diverse applicazioni atte a tale compito, una tra queste è <span class="app">Déjà Dup</span>.</p>
 <p class="p">La guida dell'applicazione scelta sarà di aiuto nell'impostazione delle preferenze per il backup così come per ripristinare i dati.</p>
-<p class="p">Un'altra possibilità è <span class="link"><a href="files-copy.html" title="Copiare o spostare file e cartelle">copiare i file</a></span> in un posto sicuro, per esempio un disco esterno, un altro computer in rete o un'unità USB. I <span class="link"><a href="backup-thinkabout.html" title="Dove è possibile trovare i file di cui effettuare il backup?">file personali</a></span> e le impostazioni sono solitamente nella propria cartella Home e da lì possono essere copiati.</p>
+<p class="p">Un'altra possibilità è <span class="link"><a href="files-copy.html.it" title="Copiare o spostare file e cartelle">copiare i file</a></span> in un posto sicuro, per esempio un disco esterno, un altro computer in rete o un'unità USB. I <span class="link"><a href="backup-thinkabout.html.it" title="Dove è possibile trovare i file di cui effettuare il backup?">file personali</a></span> e le impostazioni sono solitamente nella propria cartella Home e da lì possono essere copiati.</p>
 <p class="p">La quantità di dati di cui è possibile effettuare il backup è limitata dalla capienza del dispositivo di destinazione. Avendo spazio a sufficienza, sarebbe ideale effettuare il backup dell'intera cartella Home con le seguenti eccezioni:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">File di cui si è già eseguito il backup in un altra destinazione, come un CD, un DVD o un altro supporto rimovibile.</p></li>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Eseguire il backup dei file importanti">Eseguire il backup dei file importanti</a><span class="desc"> — Perché, di cosa, dove e come eseguire backup.</span>
+<a href="backup-why.html.it" title="Eseguire il backup dei file importanti">Eseguire il backup dei file importanti</a><span class="desc"> — Perché, di cosa, dove e come eseguire backup.</span>
 </li></ul></div>
 </div></div></div>
 </div>

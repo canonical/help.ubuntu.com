@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#faq" title="Tipy a otázky">Tipy a otázky</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#faq" title="Tipy a otázky">Tipy a otázky</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Co je to za soubor s <span class="file">~</span> na konci názvu?</span></h1></div>
@@ -51,19 +51,19 @@
 <div class="contents">
 <p class="p">Soubory s <span class="file">~</span> na konci názvu (například <span class="file">příklad.txt~</span>) jsou automaticky vytvořené záložní kopie dokumentů upravovaných v textovém editoru <span class="file">gedit</span> a v dalších aplikacích. Můžete je bez následků smazat, ale když je v počítači necháte, také se nic nestane.</p>
 <p class="p">Tyto soubory jsou ve výchozím stavu skryté. Pokud je vidíte, je to proto, že jste buď vybrali <span class="gui">Zobrazovat skryté soubory</span> (v nabídce zobrazení na nástrojové liště aplikace <span class="app">Soubory</span>) nebo jste zmáčkli <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Znovu je skrýt můžete zopakováním jednoho ze dvou právě zmíněných postupů.</p>
-<p class="p">S těmito soubory je nakládáno stejně, jako s normálními skrytými soubory. Viz <span class="link"><a href="files-hidden.html" title="Skrytí souboru">Skrytí souboru</a></span> ohledně rady, jak smazat skryté soubory.</p>
+<p class="p">S těmito soubory je nakládáno stejně, jako s normálními skrytými soubory. Viz <span class="link"><a href="files-hidden.html.cs" title="Skrytí souboru">Skrytí souboru</a></span> ohledně rady, jak smazat skryté soubory.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tipy a otázky">Tipy a otázky</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.cs#faq" title="Tipy a otázky">Tipy a otázky</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-hidden.html" title="Skrytí souboru">Skrytí souboru</a><span class="desc"> — Jak učinit soubor neviditelným, abyste jej neviděli ve správci souborů.</span>
+<a href="files-hidden.html.cs" title="Skrytí souboru">Skrytí souboru</a><span class="desc"> — Jak učinit soubor neviditelným, abyste jej neviděli ve správci souborů.</span>
 </li></ul></div>
 </div></div>
 </div>

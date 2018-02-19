@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="color.html" title="Upravljanje barv">Upravljanje barv</a> › <a class="trail" href="color.html#calibration" title="Umerjanje">Umerjanje</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="color.html.sl" title="Upravljanje barv">Upravljanje barv</a> › <a class="trail" href="color.html.sl#calibration" title="Umerjanje">Umerjanje</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="color.html" title="Upravljanje barv">Upravljanje barv</a> › <a class="trail" href="color.html#calibration" title="Umerjanje">Umerjanje</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="color.html.sl" title="Upravljanje barv">Upravljanje barv</a> › <a class="trail" href="color.html.sl#calibration" title="Umerjanje">Umerjanje</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -62,22 +62,22 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Umerjanje">Umerjanje</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.sl#calibration" title="Umerjanje">Umerjanje</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-scanner.html" title="Kako umeriti optični bralnik?">Kako umeriti optični bralnik?</a><span class="desc"> — Umerjanje optičnega bralnika je pomembno pri natančnemu zajemu barv.</span>
+<a href="color-calibrate-scanner.html.sl" title="Kako umeriti optični bralnik?">Kako umeriti optični bralnik?</a><span class="desc"> — Umerjanje optičnega bralnika je pomembno pri natančnemu zajemu barv.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html" title="Kako umeriti tiskalnik?">Kako umeriti tiskalnik?</a><span class="desc"> — Umerjanje vašega tiskalnika je pomembno za tiskanje natančnih barv.</span>
+<a href="color-calibrate-printer.html.sl" title="Kako umeriti tiskalnik?">Kako umeriti tiskalnik?</a><span class="desc"> — Umerjanje vašega tiskalnika je pomembno za tiskanje natančnih barv.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-screen.html" title="Kako umeriti zaslon?">Kako umeriti zaslon?</a><span class="desc"> — Umerjanje zaslona je pomembno za natančen prikaz barv na zaslonu.</span>
+<a href="color-calibrate-screen.html.sl" title="Kako umeriti zaslon?">Kako umeriti zaslon?</a><span class="desc"> — Umerjanje zaslona je pomembno za natančen prikaz barv na zaslonu.</span>
 </li>
 <li class="links ">
-<a href="color-calibrationtargets.html" title="Katere vrste ciljev so podprte?">Katere vrste ciljev so podprte?</a><span class="desc"> — Umerjevalni cilji so potrebni za do profiliranje kamere in optičnega bralnika.</span>
+<a href="color-calibrationtargets.html.sl" title="Katere vrste ciljev so podprte?">Katere vrste ciljev so podprte?</a><span class="desc"> — Umerjevalni cilji so potrebni za do profiliranje kamere in optičnega bralnika.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Inställningar för filhanterare</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html" title="Filhanterarens beteendeinställningar"><span class="title">Filhanterarens beteendeinställningar</span><span class="linkdiv-dash"> — </span><span class="desc">Enkelklick för att öppna filer, köra eller visa körbara textfiler och ange papperskorgsbeteende.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html" title="Filhanterarens visningsinställningar"><span class="title">Filhanterarens visningsinställningar</span><span class="linkdiv-dash"> — </span><span class="desc">Styr ikonrubriker som används i filhanteraren.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html" title="Förhandsgranskningsinställningar för filhanterare"><span class="title">Förhandsgranskningsinställningar för filhanterare</span><span class="linkdiv-dash"> — </span><span class="desc">Styr när miniatyrbilder används för filer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html" title="Kolumninställningar för listvy i Filer"><span class="title">Kolumninställningar för listvy i Filer</span><span class="linkdiv-dash"> — </span><span class="desc">Styr vilken information som visas i kolumnerna i listvyn.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html" title="Visningsinställningar i Filer"><span class="title">Visningsinställningar i <span class="app">Filer</span></span><span class="linkdiv-dash"> — </span><span class="desc">Ange standardsorteringsordning och gruppering för filhanteraren.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html.sv" title="Filhanterarens beteendeinställningar"><span class="title">Filhanterarens beteendeinställningar</span><span class="linkdiv-dash"> — </span><span class="desc">Enkelklick för att öppna filer, köra eller visa körbara textfiler och ange papperskorgsbeteende.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html.sv" title="Filhanterarens visningsinställningar"><span class="title">Filhanterarens visningsinställningar</span><span class="linkdiv-dash"> — </span><span class="desc">Styr ikonrubriker som används i filhanteraren.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html.sv" title="Förhandsgranskningsinställningar för filhanterare"><span class="title">Förhandsgranskningsinställningar för filhanterare</span><span class="linkdiv-dash"> — </span><span class="desc">Styr när miniatyrbilder används för filer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html.sv" title="Kolumninställningar för listvy i Filer"><span class="title">Kolumninställningar för listvy i Filer</span><span class="linkdiv-dash"> — </span><span class="desc">Styr vilken information som visas i kolumnerna i listvyn.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html.sv" title="Visningsinställningar i Filer"><span class="title">Visningsinställningar i <span class="app">Filer</span></span><span class="linkdiv-dash"> — </span><span class="desc">Ange standardsorteringsordning och gruppering för filhanteraren.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sv#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

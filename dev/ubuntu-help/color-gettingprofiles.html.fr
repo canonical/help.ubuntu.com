@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="color.html" title="Gestion de la couleur">Gestion de la couleur</a> › <a class="trail" href="color.html#profiles" title="Profils de couleurs">Profils de couleurs</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="color.html.fr" title="Gestion de la couleur">Gestion de la couleur</a> › <a class="trail" href="color.html.fr#profiles" title="Profils de couleurs">Profils de couleurs</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="color.html" title="Gestion de la couleur">Gestion de la couleur</a> › <a class="trail" href="color.html#profiles" title="Profils de couleurs">Profils de couleurs</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="color.html.fr" title="Gestion de la couleur">Gestion de la couleur</a> › <a class="trail" href="color.html.fr#profiles" title="Profils de couleurs">Profils de couleurs</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -62,29 +62,29 @@
     more than a year before the date you bought the device then it’s
     likely dummy data generated that is useless.
   </p>
-<p class="p">Consultez <span class="link"><a href="color-why-calibrate.html" title="Étalonnage par vous-même">Étalonnage par vous-même</a></span> pour savoir pourquoi les profils fournis par les marchands sont parfois pires qu'inutiles.</p>
+<p class="p">Consultez <span class="link"><a href="color-why-calibrate.html.fr" title="Étalonnage par vous-même">Étalonnage par vous-même</a></span> pour savoir pourquoi les profils fournis par les marchands sont parfois pires qu'inutiles.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Profils de couleurs">Profils de couleurs</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.fr#profiles" title="Profils de couleurs">Profils de couleurs</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-missingvcgt.html" title="Informations manquantes pour la correction des couleurs de l'écran">Informations manquantes pour la correction des couleurs de l'écran</a><span class="desc"> — Utiliser une correction de couleurs pour tout l'écran modifie toutes les couleurs d'affichage pour toutes les fenêtres.</span>
+<a href="color-missingvcgt.html.fr" title="Informations manquantes pour la correction des couleurs de l'écran">Informations manquantes pour la correction des couleurs de l'écran</a><span class="desc"> — Utiliser une correction de couleurs pour tout l'écran modifie toutes les couleurs d'affichage pour toutes les fenêtres.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Qu'est-ce qu'un profil de couleurs ?">Qu'est-ce qu'un profil de couleurs ?</a><span class="desc"> — Un profil de couleurs est un simple fichier qui décrit un espace colorimétrique ou la réponse d'un périphérique.</span>
+<a href="color-whatisprofile.html.fr" title="Qu'est-ce qu'un profil de couleurs ?">Qu'est-ce qu'un profil de couleurs ?</a><span class="desc"> — Un profil de couleurs est un simple fichier qui décrit un espace colorimétrique ou la réponse d'un périphérique.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Étalonnage par vous-même">Étalonnage par vous-même</a><span class="desc"> — Étalonner est important si vous voulez faire attention aux couleurs que vous affichez ou que vous imprimez.</span>
+<a href="color-why-calibrate.html.fr" title="Étalonnage par vous-même">Étalonnage par vous-même</a><span class="desc"> — Étalonner est important si vous voulez faire attention aux couleurs que vous affichez ou que vous imprimez.</span>
 </li>
 <li class="links ">
-<a href="color-testing.html" title="Évaluation du fonctionnement correct de la gestion des couleurs">Évaluation du fonctionnement correct de la gestion des couleurs</a><span class="desc"> — Utiliser les profils tests fournis pour s'assurer que vos profils sont appliqués correctement à votre écran.</span>
+<a href="color-testing.html.fr" title="Évaluation du fonctionnement correct de la gestion des couleurs">Évaluation du fonctionnement correct de la gestion des couleurs</a><span class="desc"> — Utiliser les profils tests fournis pour s'assurer que vos profils sont appliqués correctement à votre écran.</span>
 </li>
 </ul></div>
 </div></div>

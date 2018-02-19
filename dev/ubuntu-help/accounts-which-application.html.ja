@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="accounts.html" title="オンラインアカウント">オンラインアカウント</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ja" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="accounts.html.ja" title="オンラインアカウント">オンラインアカウント</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Online services and applications</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Once you have added an online account, any application can use that
   account for any of the available services that you have not
-  <span class="link"><a href="accounts-disable-service.html" title="アカウントがアクセスできるオンラインサービスの設定">disabled</a></span>. Different
+  <span class="link"><a href="accounts-disable-service.html.ja" title="アカウントがアクセスできるオンラインサービスの設定">disabled</a></span>. Different
   providers provide different services. This page lists the different
   services and some of the applications that are known to use them.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
@@ -73,7 +73,7 @@
       <span class="app">Documents</span> application.</p></dd>
 <dt class="terms">ファイル</dt>
 <dd class="terms"><p class="p">The Files service adds a remote file location, as if you had added
-      one using the <span class="link"><a href="nautilus-connect.html" title="サーバーや共有ディスクのファイルを閲覧する">Connect to Server</a></span>
+      one using the <span class="link"><a href="nautilus-connect.html.ja" title="サーバーや共有ディスクのファイルを閲覧する">Connect to Server</a></span>
       functionality in the file manager. You can access remote files using
       the file manager, as well as through file open and save dialogs in any
       application.</p></dd>
@@ -101,17 +101,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="オンラインアカウント">オンラインアカウント</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="アカウントの追加">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="アカウントの削除">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.ja" title="オンラインアカウント">オンラインアカウント</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.ja" title="アカウントの追加">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.ja" title="アカウントの削除">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.ja" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="アカウントがアクセスできるオンラインサービスの設定">アカウントがアクセスできるオンラインサービスの設定</a><span class="desc"> — オンラインアカウントによっては、複数のサービス (カレンダーやメールなど) にアクセスできるものがあります。どのサービスをアプリケーションが使用できるかについて設定できます。</span>
+<a href="accounts-disable-service.html.ja" title="アカウントがアクセスできるオンラインサービスの設定">アカウントがアクセスできるオンラインサービスの設定</a><span class="desc"> — オンラインアカウントによっては、複数のサービス (カレンダーやメールなど) にアクセスできるものがあります。どのサービスをアプリケーションが使用できるかについて設定できます。</span>
 </li></ul></div>
 </div></div>
 </div>

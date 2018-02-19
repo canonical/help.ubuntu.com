@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wireless.html" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wireless.html.de" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mit mobilem Breitband verbinden</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">Sie können eine Verbindung zu einem Mobilfunknetzwerk (3G) über das in Ihrem Rechner eingebaute 3G-Modem, ein Mobiltelefon oder einen Internetstick einrichten.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Falls in Ihrem Rechner kein 3G-Modem eingebaut ist, verbinden Sie Ihr Mobiltelefon oder einen Internetstick mit dem USB-Port Ihres Rechners.</p></li>
-<li class="steps"><p class="p">Öffnen Sie das <span class="gui"><a href="shell-introduction.html#yourname" title="Sie und Ihr Rechner">Systemmenü</a></span> auf der rechten Seite der obersten Leiste.</p></li>
+<li class="steps"><p class="p">Öffnen Sie das <span class="gui"><a href="shell-introduction.html.de#yourname" title="Sie und Ihr Rechner">Systemmenü</a></span> auf der rechten Seite der obersten Leiste.</p></li>
 <li class="steps">
 <p class="p">Wählen Sie <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-cellular-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Mobiles Breitband AUS</span>. Anschließend wird sich der <span class="gui">Mobiles Breitband</span>-Bereich des Menüs erweitern.</p>
 <div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Falls <span class="gui">Mobiles Breitband</span> im Systemstatus-Menü nicht erscheint, stellen Sie sicher, dass Ihr Gerät nicht als Massenspeicher eingerichtet ist.</p></div></div></div></div>
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Verbinden mit Funknetzwerken">Mit einem WLAN verbinden</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Verbinden mit verborgenen Funknetzwerken">Verborgene Netzwerke</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Warum wird meine WLAN-Verbindung dauernd getrennt?">Verbindung trennen</a></span> …</span>
+<a href="net-wireless.html.de" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.de" title="Verbinden mit Funknetzwerken">Mit einem WLAN verbinden</a></span>, <span class="link"><a href="net-wireless-hidden.html.de" title="Verbinden mit verborgenen Funknetzwerken">Verborgene Netzwerke</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.de" title="Warum wird meine WLAN-Verbindung dauernd getrennt?">Verbindung trennen</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

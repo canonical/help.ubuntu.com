@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html.lv#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="net-wireless-troubleshooting.html.lv" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wireless.html" title="Bezvadu tīkls">Bezvadu tīkls</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a> » <a class="trail" href="net-wireless-troubleshooting.html.lv" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Bezvadu tīkla problēmu risināšana">Iepriekšējā</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Bezvadu tīkla problēmu risināšana">Nākamā</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.lv" title="Bezvadu tīkla problēmu risināšana">Iepriekšējā</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.lv" title="Bezvadu tīkla problēmu risināšana">Nākamā</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Bezvadu tīkla savienojumu problēmu risināšana</span></h1>
@@ -70,7 +70,7 @@
        vendor: Intel Corporation</pre></div>
 </li>
 <li class="steps">
-<p class="p">Ja bezvadu ierīce ir sarakstā, dodieties uz <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Bezvadu tīkla problēmu risināšana">Ierīču draiveru soli</a></span>.</p>
+<p class="p">Ja bezvadu ierīce ir sarakstā, dodieties uz <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.lv" title="Bezvadu tīkla problēmu risināšana">Ierīču draiveru soli</a></span>.</p>
 <p class="p">Ja bezvadu tīkla ierīce <span class="em">nav</span> sarakstā, jūsu nākamais solis būs atkarīgs no jūsu izmantotās ierīces tipa. Skatiet zemāk esošo sadaļu, kas attiecas uz bezvadu tīkla adapteri, kāds ir jūsu datorā (<span class="link"><a href="#pci" title="PCI (iekšējais) bezvadu tīkla adapters">iekšējais PCI</a></span>, <span class="link"><a href="#usb" title="USB bezvadu tīkla adapters">USB</a></span>, vai <span class="link"><a href="#pcmcia" title="Pārbaudiet PCMCIA ierīces">PCMCIA</a></span>).</p>
 </li>
 </ol></div></div></div>
@@ -85,7 +85,7 @@
 <p class="p">Izskatiet sarakstu ar ierīcēm, kas ir parādītas un atrodiet to, kas ir atzīmēta kā <span class="code">Network controller</span> vai <span class="code">Ethernet controller</span>. Vairākas ierīces var būt apzīmētas tādā veidā. Tā, kas atbilst jūsu bezvadu tīkla adapteram, varētu saturēt tādus vārdus kā: <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> vai <span class="code">802.11</span>. Lūk, piemērs kā tas varētu izskatīties:</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
-<li class="steps"><p class="p">Ja šajā sarakstā atrodat bezvadu tīkla adapteri, dodieties uz <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Bezvadu tīkla problēmu risināšana">ierīču draiveru soli</a></span>. Ja jūs neatradāt savu bezvadu tīkla adapteri, skatiet <span class="link"><a href="#not-recognized" title="Bezvadu tīkla adapters netika atpazīts">instrukcijas zemāk</a></span>.</p></li>
+<li class="steps"><p class="p">Ja šajā sarakstā atrodat bezvadu tīkla adapteri, dodieties uz <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.lv" title="Bezvadu tīkla problēmu risināšana">ierīču draiveru soli</a></span>. Ja jūs neatradāt savu bezvadu tīkla adapteri, skatiet <span class="link"><a href="#not-recognized" title="Bezvadu tīkla adapters netika atpazīts">instrukcijas zemāk</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -99,7 +99,7 @@
 <p class="p">Meklējiet izmantoto ierīču sarakstā, kas tiks parādīts, un atrodiet kaut ko, kas šķiet ka attiecas uz bezvadu adapteri vai tīkla iekārtu. Tas, kas atbilst jūsu bezvadu tīkla adapteram, var saturēt vārdus <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> vai <span class="code">802.11</span>. Lūk, piemērs, kā šis ieraksts varētu izskatīties:</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
-<li class="steps"><p class="p">Ja šajā sarakstā atrodat bezvadu tīkla adapteri, dodieties uz <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Bezvadu tīkla problēmu risināšana">ierīču draiveru soli</a></span>. Ja jūs neatradāt savu bezvadu tīkla adapteri, skatiet <span class="link"><a href="#not-recognized" title="Bezvadu tīkla adapters netika atpazīts">instrukcijas zemāk</a></span>.</p></li>
+<li class="steps"><p class="p">Ja šajā sarakstā atrodat bezvadu tīkla adapteri, dodieties uz <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.lv" title="Bezvadu tīkla problēmu risināšana">ierīču draiveru soli</a></span>. Ja jūs neatradāt savu bezvadu tīkla adapteri, skatiet <span class="link"><a href="#not-recognized" title="Bezvadu tīkla adapters netika atpazīts">instrukcijas zemāk</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -116,7 +116,7 @@
 </li>
 <li class="steps"><p class="p">Ievietojiet savu bezvadu tīkla adapteri PCMCIA slotā un aplūkojiet izmaiņas termināļa logā. Izmaiņām vajadzētu saturēt informāciju par jūsu bezvadu tīkla adapteri. Apskatiet tās un mēģiniet tās identificēt.</p></li>
 <li class="steps"><p class="p">Lai apturētu komandu, kas darbojas terminālī, spiediet <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Kad esat pabeidzis, varat aizvērt termināli, ja vēlaties.</p></li>
-<li class="steps"><p class="p">Ja jūs atradāt informāciju par savu bezvadu tīkla adapteri, dodieties uz  <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Bezvadu tīkla problēmu risināšana">ierīču draiveru soli</a></span>. Ja jūs neatradāt neko, kas saistīts ar jūsu bezvadu tīkla adapteri, apskatiet <span class="link"><a href="#not-recognized" title="Bezvadu tīkla adapters netika atpazīts">instrukcijas zemāk</a></span>.</p></li>
+<li class="steps"><p class="p">Ja jūs atradāt informāciju par savu bezvadu tīkla adapteri, dodieties uz  <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.lv" title="Bezvadu tīkla problēmu risināšana">ierīču draiveru soli</a></span>. Ja jūs neatradāt neko, kas saistīts ar jūsu bezvadu tīkla adapteri, apskatiet <span class="link"><a href="#not-recognized" title="Bezvadu tīkla adapters netika atpazīts">instrukcijas zemāk</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -128,14 +128,14 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Bezvadu tīkla problēmu risināšana">Iepriekšējā</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Bezvadu tīkla problēmu risināšana">Nākamā</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.lv" title="Bezvadu tīkla problēmu risināšana">Iepriekšējā</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.lv" title="Bezvadu tīkla problēmu risināšana">Nākamā</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a><span class="desc"> — Identificēt un novērst problēmas ar bezvadu tīkla savienojumiem.</span>
+<a href="net-wireless-troubleshooting.html.lv" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a><span class="desc"> — Identificēt un novērst problēmas ar bezvadu tīkla savienojumiem.</span>
 </li></ul></div>
 </div></div></div>
 </div>

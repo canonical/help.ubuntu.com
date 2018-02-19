@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-wireless.html" title="Бежично умрежавање">Бежично умрежавање</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-wireless.html.sr" title="Бежично умрежавање">Бежично умрежавање</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-wired.html" title="Жичано умрежавање">Жичано умрежавање</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-wired.html.sr" title="Жичано умрежавање">Жичано умрежавање</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,14 +57,14 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Да ручно подесите мрежна подешавања:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Мрежа</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Мрежа</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Мрежа</span> да отворите панел.</p></li>
 <li class="steps">
 <p class="p">У левом окну, изаберите мрежну везу коју желите ручно да подесите. Ако се каблом прикључите на мрежу, кликните <span class="gui">Жичана</span>, затим кликните на дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="подешавања"></span></span> у доњем десном углу панела. За <span class="gui">Бежичну</span> везу, дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="подешавања"></span></span> ће се налазити поред радне мреже.</p>
 <p class="p">Уверите се да је ваша бежична картица укључена или да је мрежни кабал прикључен.</p>
 </li>
 <li class="steps"><p class="p">Кликните на <span class="gui">ИПв4</span> или <span class="gui">ИПв6</span> у левом окну и измените <span class="gui">Адресе</span> на <span class="em">Ручно</span>.</p></li>
-<li class="steps"><p class="p">Укуцајте <span class="gui"><a href="net-what-is-ip-address.html" title="Шта је то ИП адреса?">ИП адресу</a></span> и <span class="gui">Мрежни пролаз</span>, као и одговарајућу <span class="gui">Мрежну маску</span>.</p></li>
+<li class="steps"><p class="p">Укуцајте <span class="gui"><a href="net-what-is-ip-address.html.sr" title="Шта је то ИП адреса?">ИП адресу</a></span> и <span class="gui">Мрежни пролаз</span>, као и одговарајућу <span class="gui">Мрежну маску</span>.</p></li>
 <li class="steps"><p class="p">У одељку <span class="gui">ДНС</span>, пребаците <span class="gui">Самостално</span> на <span class="gui">ИСКЉ.</span>. Унесите ИП адресу ДНС сервера који желите да користите. Унесите додатне адресе ДНС сервера користећи дугме <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">У одељку <span class="gui">Руте</span>, пребаците <span class="gui">Самостално</span> на <span class="gui">ИСКЉ.</span>. Унесите <span class="gui">Адресу</span>, <span class="gui">Мрежну маску</span>, <span class="gui">Мрежни пролаз</span> и <span class="gui">Метрички</span> за руту коју желите да користите. Унесите додатне руте користећи дугме <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">Кликните <span class="gui">Примени</span>. Ако нисте повезани на мрежу, кликните на област стања система на горњој траци и повежите се. Испробајте подешавања мреже тако што ћете покушати да посетите веб сајт или да погледате дељене датотеке на мрежи, на пример.</p></li>
@@ -77,10 +77,10 @@
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="Бежично умрежавање">Бежично умрежавање</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Повезивање на бежичну мрежу">Повезивање на бежичну</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Повежите се на скривену бежичну мрежу">Скривене мреже</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Зашто се моја бежична мрежа непрестано прекида?">Прекидање везе</a></span>…</span>
+<a href="net-wireless.html.sr" title="Бежично умрежавање">Бежично умрежавање</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.sr" title="Повезивање на бежичну мрежу">Повезивање на бежичну</a></span>, <span class="link"><a href="net-wireless-hidden.html.sr" title="Повежите се на скривену бежичну мрежу">Скривене мреже</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.sr" title="Зашто се моја бежична мрежа непрестано прекида?">Прекидање везе</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wired.html" title="Жичано умрежавање">Жичано умрежавање</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Повежите се на жичану мрежу">Жичане интернет везе</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Направите везу са сталном ИП адресом">Сталне ИП адресе</a></span>…</span>
+<a href="net-wired.html.sr" title="Жичано умрежавање">Жичано умрежавање</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.sr" title="Повежите се на жичану мрежу">Жичане интернет везе</a></span>, <span class="link"><a href="net-fixed-ip-address.html.sr" title="Направите везу са сталном ИП адресом">Сталне ИП адресе</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

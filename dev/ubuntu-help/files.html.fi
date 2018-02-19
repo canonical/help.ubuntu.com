@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tiedostot, kansiot ja etsiminen</span></h1></div>
@@ -53,15 +53,15 @@
 <div class="hgroup"><h2 class="title"><span class="title">Yleiset tehtävät</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-preview.html" title="Esikkatsele tiedostoja ja kansioita"><span class="title">Esikkatsele tiedostoja ja kansioita</span><span class="linkdiv-dash"> — </span><span class="desc">Esikatsele nopeasti asiakirjoja, kuvia, videoita ja paljon muuta.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-search.html" title="Etsi tiedostoista"><span class="title">Etsi tiedostoista</span><span class="linkdiv-dash"> — </span><span class="desc">Locate files based on file name and type.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-copy.html" title="Kopioi tai poista tiedostoja ja kansioita"><span class="title">Kopioi tai poista tiedostoja ja kansioita</span><span class="linkdiv-dash"> — </span><span class="desc">Kopioi tai siirrä kohteita uuteen kansioon.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-sort.html" title="Lajittele tiedostot ja kansiot"><span class="title">Lajittele tiedostot ja kansiot</span><span class="linkdiv-dash"> — </span><span class="desc">Järjestä tiedostoja nimen, koon, tyypin tai muutosajan mukaan.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-preview.html.fi" title="Esikkatsele tiedostoja ja kansioita"><span class="title">Esikkatsele tiedostoja ja kansioita</span><span class="linkdiv-dash"> — </span><span class="desc">Esikatsele nopeasti asiakirjoja, kuvia, videoita ja paljon muuta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-search.html.fi" title="Etsi tiedostoista"><span class="title">Etsi tiedostoista</span><span class="linkdiv-dash"> — </span><span class="desc">Locate files based on file name and type.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-copy.html.fi" title="Kopioi tai poista tiedostoja ja kansioita"><span class="title">Kopioi tai poista tiedostoja ja kansioita</span><span class="linkdiv-dash"> — </span><span class="desc">Kopioi tai siirrä kohteita uuteen kansioon.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-sort.html.fi" title="Lajittele tiedostot ja kansiot"><span class="title">Lajittele tiedostot ja kansiot</span><span class="linkdiv-dash"> — </span><span class="desc">Järjestä tiedostoja nimen, koon, tyypin tai muutosajan mukaan.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-rename.html" title="Nimeä tiedosto tai kansio uudelleen"><span class="title">Nimeä tiedosto tai kansio uudelleen</span><span class="linkdiv-dash"> — </span><span class="desc">Muuta tiedoston tai kansion nimeä.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-delete.html" title="Poista tiedostoja ja kansioita"><span class="title">Poista tiedostoja ja kansioita</span><span class="linkdiv-dash"> — </span><span class="desc">Poista turhaksi käyneet tiedostot ja kansiot.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-browse.html" title="Selaa tiedostoja ja kansioita"><span class="title">Selaa tiedostoja ja kansioita</span><span class="linkdiv-dash"> — </span><span class="desc">Hallitse tiedostoja käyttäen tiedostonhallintaa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-rename.html.fi" title="Nimeä tiedosto tai kansio uudelleen"><span class="title">Nimeä tiedosto tai kansio uudelleen</span><span class="linkdiv-dash"> — </span><span class="desc">Muuta tiedoston tai kansion nimeä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-delete.html.fi" title="Poista tiedostoja ja kansioita"><span class="title">Poista tiedostoja ja kansioita</span><span class="linkdiv-dash"> — </span><span class="desc">Poista turhaksi käyneet tiedostot ja kansiot.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-browse.html.fi" title="Selaa tiedostoja ja kansioita"><span class="title">Selaa tiedostoja ja kansioita</span><span class="linkdiv-dash"> — </span><span class="desc">Hallitse tiedostoja käyttäen tiedostonhallintaa.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -69,21 +69,21 @@
 <div class="hgroup"><h2 class="title"><span class="title">Lisää tiedostoihin liittyviä tehtäviä</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="Avaa tiedostoja muilla sovelluksilla"><span class="title">Avaa tiedostoja muilla sovelluksilla</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
+<div class="linkdiv "><a class="linkdiv" href="files-open.html.fi" title="Avaa tiedostoja muilla sovelluksilla"><span class="title">Avaa tiedostoja muilla sovelluksilla</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
     type of file. You can change the default too.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-share.html" title="Jaa tiedostoja sähköpostitse"><span class="title">Jaa tiedostoja sähköpostitse</span><span class="linkdiv-dash"> — </span><span class="desc">Lähetä tiedostoja sähköpostitse tiedostonhallinnasta.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html" title="Kirjoita tiedostoja CD- tai DVD-levylle"><span class="title">Kirjoita tiedostoja CD- tai DVD-levylle</span><span class="linkdiv-dash"> — </span><span class="desc">Kirjoita tiedostoja tyhjälle CD- tai DVD-levylle.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="Löydä kadonnut tiedosto"><span class="title">Löydä kadonnut tiedosto</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
+<div class="linkdiv "><a class="linkdiv" href="files-share.html.fi" title="Jaa tiedostoja sähköpostitse"><span class="title">Jaa tiedostoja sähköpostitse</span><span class="linkdiv-dash"> — </span><span class="desc">Lähetä tiedostoja sähköpostitse tiedostonhallinnasta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html.fi" title="Kirjoita tiedostoja CD- tai DVD-levylle"><span class="title">Kirjoita tiedostoja CD- tai DVD-levylle</span><span class="linkdiv-dash"> — </span><span class="desc">Kirjoita tiedostoja tyhjälle CD- tai DVD-levylle.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html.fi" title="Löydä kadonnut tiedosto"><span class="title">Löydä kadonnut tiedosto</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
     downloaded.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-recover.html" title="Palauta roskakoriin siirretty tiedosto"><span class="title">Palauta roskakoriin siirretty tiedosto</span><span class="linkdiv-dash"> — </span><span class="desc">Kun poistat tiedoston, se siirretään yleensä roskakoriin. Voit palauttaa tiedostoja roskakorista.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-recover.html.fi" title="Palauta roskakoriin siirretty tiedosto"><span class="title">Palauta roskakoriin siirretty tiedosto</span><span class="linkdiv-dash"> — </span><span class="desc">Kun poistat tiedoston, se siirretään yleensä roskakoriin. Voit palauttaa tiedostoja roskakorista.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.fi" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
     from your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html" title="Selaa palvelimen verkkojaon tiedostoja"><span class="title">Selaa palvelimen verkkojaon tiedostoja</span><span class="linkdiv-dash"> — </span><span class="desc">Katsele ja muokkaa toisella tietokoneella olevia tiedostoja FTP:n, SSH:n, Windows-levyjaon tai WebDAVin kautta.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html" title="Tiedostojen ominaisuudet"><span class="title">Tiedostojen ominaisuudet</span><span class="linkdiv-dash"> — </span><span class="desc">Tarkista tiedoston perusominaisuudet, aseta oikeudet ja valitse oletussovellukset.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html" title="Tiedostonhallinnan asetukset"><span class="title">Tiedostonhallinnan asetukset</span><span class="linkdiv-dash"> — </span><span class="desc">Tarkista ja muokkaa tiedostonhallinnan asetuksia.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
+<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.fi" title="Selaa palvelimen verkkojaon tiedostoja"><span class="title">Selaa palvelimen verkkojaon tiedostoja</span><span class="linkdiv-dash"> — </span><span class="desc">Katsele ja muokkaa toisella tietokoneella olevia tiedostoja FTP:n, SSH:n, Windows-levyjaon tai WebDAVin kautta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html.fi" title="Tiedostojen ominaisuudet"><span class="title">Tiedostojen ominaisuudet</span><span class="linkdiv-dash"> — </span><span class="desc">Tarkista tiedoston perusominaisuudet, aseta oikeudet ja valitse oletussovellukset.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.fi" title="Tiedostonhallinnan asetukset"><span class="title">Tiedostonhallinnan asetukset</span><span class="linkdiv-dash"> — </span><span class="desc">Tarkista ja muokkaa tiedostonhallinnan asetuksia.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.fi" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
     files.</span></a></div>
 </div>
 </div></div></div></div></div>
@@ -91,21 +91,21 @@
 <div id="removable" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Irrotettavat asemat ja ulkoiset levyt</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Avaa sovelluksia laitteita tai levyjä liitettäessä"><span class="title">Avaa sovelluksia laitteita tai levyjä liitettäessä</span><span class="linkdiv-dash"> — </span><span class="desc">Suorita jokin sovellus automaattisesti kun liität CD:n, ja DVD:n, kameran, musiikkisoittimen tai muun laitteen.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html" title="Poista ulkoinen asema turvallisesti"><span class="title">Poista ulkoinen asema turvallisesti</span><span class="linkdiv-dash"> — </span><span class="desc">Poista tai irrota USB-muistitikku, CD, DVD tai muu laite.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.fi" title="Avaa sovelluksia laitteita tai levyjä liitettäessä"><span class="title">Avaa sovelluksia laitteita tai levyjä liitettäessä</span><span class="linkdiv-dash"> — </span><span class="desc">Suorita jokin sovellus automaattisesti kun liität CD:n, ja DVD:n, kameran, musiikkisoittimen tai muun laitteen.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html.fi" title="Poista ulkoinen asema turvallisesti"><span class="title">Poista ulkoinen asema turvallisesti</span><span class="linkdiv-dash"> — </span><span class="desc">Poista tai irrota USB-muistitikku, CD, DVD tai muu laite.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="backup" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Varmuuskopiointi</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html" title="Mistä löydän tiedostot, jotka haluan varmuuskopioida?"><span class="title">Mistä löydän tiedostot, jotka haluan varmuuskopioida?</span><span class="linkdiv-dash"> — </span><span class="desc">Kansioluettelo, josta löydät asiakirjoja, tiedostoja ja asetuksia jotka haluat mahdollisesti varmuuskopioida.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-restore.html" title="Palauta varmuuskopio"><span class="title">Palauta varmuuskopio</span><span class="linkdiv-dash"> — </span><span class="desc">Palauta tiedostosi varmuuskopiosta.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-check.html" title="Tarkista varmuuskopio"><span class="title">Tarkista varmuuskopio</span><span class="linkdiv-dash"> — </span><span class="desc">Tarkista varmuuskopioinnin onnistuminen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html.fi" title="Mistä löydän tiedostot, jotka haluan varmuuskopioida?"><span class="title">Mistä löydän tiedostot, jotka haluan varmuuskopioida?</span><span class="linkdiv-dash"> — </span><span class="desc">Kansioluettelo, josta löydät asiakirjoja, tiedostoja ja asetuksia jotka haluat mahdollisesti varmuuskopioida.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-restore.html.fi" title="Palauta varmuuskopio"><span class="title">Palauta varmuuskopio</span><span class="linkdiv-dash"> — </span><span class="desc">Palauta tiedostosi varmuuskopiosta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-check.html.fi" title="Tarkista varmuuskopio"><span class="title">Tarkista varmuuskopio</span><span class="linkdiv-dash"> — </span><span class="desc">Tarkista varmuuskopioinnin onnistuminen.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-why.html" title="Varmuuskopioi tärkeät tiedostosi"><span class="title">Varmuuskopioi tärkeät tiedostosi</span><span class="linkdiv-dash"> — </span><span class="desc">Varmuuskopiot - Miksi, mitä, missä ja miten?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html" title="Varmuuskopioiden ajoitus"><span class="title">Varmuuskopioiden ajoitus</span><span class="linkdiv-dash"> — </span><span class="desc">Opi, kuinka tärkeät tiedostot tulee varmuuskopioida, jotta ne ovat turvassa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-why.html.fi" title="Varmuuskopioi tärkeät tiedostosi"><span class="title">Varmuuskopioi tärkeät tiedostosi</span><span class="linkdiv-dash"> — </span><span class="desc">Varmuuskopiot - Miksi, mitä, missä ja miten?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html.fi" title="Varmuuskopioiden ajoitus"><span class="title">Varmuuskopioiden ajoitus</span><span class="linkdiv-dash"> — </span><span class="desc">Opi, kuinka tärkeät tiedostot tulee varmuuskopioida, jotta ne ovat turvassa.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -113,14 +113,14 @@
 <div class="hgroup"><h2 class="title"><span class="title">Vinkit ja kysymykset</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-templates.html" title="Asiakirjamalleja yleisille tiedostotyypeille"><span class="title">Asiakirjamalleja yleisille tiedostotyypeille</span><span class="linkdiv-dash"> — </span><span class="desc">Luo nopeasti uusia tiedostoja omavalintaisista asiakirjamalleista</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html" title="Kansiokirjanmerkkien muokkaaminen"><span class="title">Kansiokirjanmerkkien muokkaaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Lisää, poista ja nimeä kirjanmerkit tiedostonhallinnassa.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-tilde.html" title="Miksi tiedoston nimen perässä on merkki ~?"><span class="title">Miksi tiedoston nimen perässä on merkki <span class="file">~</span>?</span><span class="linkdiv-dash"> — </span><span class="desc">Ne ovat varmuuskopiotiedostoja. Oletuksena ne on piilotettu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-templates.html.fi" title="Asiakirjamalleja yleisille tiedostotyypeille"><span class="title">Asiakirjamalleja yleisille tiedostotyypeille</span><span class="linkdiv-dash"> — </span><span class="desc">Luo nopeasti uusia tiedostoja omavalintaisista asiakirjamalleista</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html.fi" title="Kansiokirjanmerkkien muokkaaminen"><span class="title">Kansiokirjanmerkkien muokkaaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Lisää, poista ja nimeä kirjanmerkit tiedostonhallinnassa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-tilde.html.fi" title="Miksi tiedoston nimen perässä on merkki ~?"><span class="title">Miksi tiedoston nimen perässä on merkki <span class="file">~</span>?</span><span class="linkdiv-dash"> — </span><span class="desc">Ne ovat varmuuskopiotiedostoja. Oletuksena ne on piilotettu.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html" title="Määritä tiedoston käyttöoikeudet"><span class="title">Määritä tiedoston käyttöoikeudet</span><span class="linkdiv-dash"> — </span><span class="desc">Hallitse, ketkä voivat nähdä ja muokata tiedostojasi ja kansioitasi.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-hidden.html" title="Tiedoston piilottaminen"><span class="title">Tiedoston piilottaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Tee tiedostosta näkymätön, jolloin se ei näy tiedostonhallinnassa.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-select.html" title="Valitse tiedostot lausekkeen mukaan"><span class="title">Valitse tiedostot lausekkeen mukaan</span><span class="linkdiv-dash"> — </span><span class="desc">Painamalla <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> voit valita useita tiedostoja, joilla on samankaltaisia ​​nimiä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html.fi" title="Määritä tiedoston käyttöoikeudet"><span class="title">Määritä tiedoston käyttöoikeudet</span><span class="linkdiv-dash"> — </span><span class="desc">Hallitse, ketkä voivat nähdä ja muokata tiedostojasi ja kansioitasi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-hidden.html.fi" title="Tiedoston piilottaminen"><span class="title">Tiedoston piilottaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Tee tiedostosta näkymätön, jolloin se ei näy tiedostonhallinnassa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-select.html.fi" title="Valitse tiedostot lausekkeen mukaan"><span class="title">Valitse tiedostot lausekkeen mukaan</span><span class="linkdiv-dash"> — </span><span class="desc">Painamalla <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> voit valita useita tiedostoja, joilla on samankaltaisia ​​nimiä.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -128,7 +128,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntun työpöytäopas">Ubuntun työpöytäopas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.fi" title="Ubuntun työpöytäopas">Ubuntun työpöytäopas</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

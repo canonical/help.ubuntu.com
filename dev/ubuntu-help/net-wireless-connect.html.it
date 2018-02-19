@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Reti WiFi">Reti WiFi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.it" title="Reti WiFi">Reti WiFi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Connettersi a una rete WiFi</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Se il proprio computer è dotato di una scheda per reti WiFi, è possibile collegarsi a una rete WiFi per accedere a Internet, visualizzare i file condivisi all'interno della rete.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="Tu e il tuo computer">system menu</a></span> from the right
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.it#yourname" title="Tu e il tuo computer">system menu</a></span> from the right
     side of the top bar.</p></li>
 <li class="steps"><p class="p">Select
     <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>
@@ -63,10 +63,10 @@
 <p class="p">If the name of the network is not in the list, try clicking
     <span class="gui">More</span> to see if the network is further down the list. If you 
     still do not see the network, you may be out of range, or the network
-    <span class="link"><a href="net-wireless-hidden.html" title="Connettersi a una rete WiFi nascosta">might be hidden</a></span>.</p>
+    <span class="link"><a href="net-wireless-hidden.html.it" title="Connettersi a una rete WiFi nascosta">might be hidden</a></span>.</p>
 </li>
 <li class="steps">
-<p class="p">Se la rete è protetta da una password (<span class="link"><a href="net-wireless-wepwpa.html" title="Cosa significano WEP e WPA?">chiave di cifratura</a></span>), digitare la password quando richiesta e fare clic su <span class="gui">Connetti</span>.</p>
+<p class="p">Se la rete è protetta da una password (<span class="link"><a href="net-wireless-wepwpa.html.it" title="Cosa significano WEP e WPA?">chiave di cifratura</a></span>), digitare la password quando richiesta e fare clic su <span class="gui">Connetti</span>.</p>
 <p class="p">If you do not know the key, it may be written on the underside of the
     wireless router or base station, or in its instruction manual, or you may
     have to ask the person who administers the wireless network.</p>
@@ -83,7 +83,7 @@
   There are a number of things that could have caused this to happen. You could
   have entered the wrong password, the wireless signal could be too weak, or
   your computer’s wireless card might have a problem, for example. See
-  <span class="link"><a href="net-wireless-troubleshooting.html" title="Risoluzione dei problemi relativi alle reti senza fili">Risoluzione dei problemi relativi alle reti senza fili</a></span> for more help.</p>
+  <span class="link"><a href="net-wireless-troubleshooting.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Risoluzione dei problemi relativi alle reti senza fili</a></span> for more help.</p>
 <p class="p">Una connessione più forte alla rete WiFi non implica necessariamente una connessione a Internet più veloce o la possibilità di scaricare file più velocemente. La connessione senza fili collega il computer al <span class="em">dispositivo che fornisce la connessione a Internet</span> (come un router o un modem), ma le due connessioni sono diverse e hanno diverse velocità.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -92,10 +92,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Reti WiFi">Reti WiFi</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Connettersi a una rete WiFi">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connettersi a una rete WiFi nascosta">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Perché la connessione senza fili continua a disconnettersi?">Disconnecting</a></span>…
+<a href="net-wireless.html.it" title="Reti WiFi">Reti WiFi</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.it" title="Connettersi a una rete WiFi">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.it" title="Connettersi a una rete WiFi nascosta">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.it" title="Perché la connessione senza fili continua a disconnettersi?">Disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -103,10 +103,10 @@
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless-disconnecting.html" title="Perché la connessione senza fili continua a disconnettersi?">Perché la connessione senza fili continua a disconnettersi?</a><span class="desc"> — Il segnale può essere debole o la rete non consente una corretta connessione.</span>
+<a href="net-wireless-disconnecting.html.it" title="Perché la connessione senza fili continua a disconnettersi?">Perché la connessione senza fili continua a disconnettersi?</a><span class="desc"> — Il segnale può essere debole o la rete non consente una corretta connessione.</span>
 </li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Risoluzione dei problemi relativi alle reti senza fili">Risoluzione dei problemi relativi alle reti senza fili</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Risoluzione dei problemi relativi alle reti senza fili</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,27 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html.sl#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Lastnosti datoteke</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Za ogled podatkov o datoteki ali mapi desno kliknite in izberite <span class="gui">Lastnosti</span>. Namesto tega lahko tudi izberete datoteko in pritisnite <span class="guiseq"><span class="gui">Alt</span> ▸ <span class="gui">Enter</span></span>.</p>
-<p class="p">Okno lastnosti datoteke prikazuje podrobnosti kot so vrsta datoteke, velikost datoteke in kdaj ste jo nazadnje spremenili. Če te podatke potrebujete pogosto, jih lahko imate prikazane v <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">pogledu seznama stolpcev</a></span> ali <span class="link"><a href="nautilus-zaslon.html#icon-captions" title="nautilus-zaslon#icon-captions">ikon</a></span>.</p>
-<p class="p">Podatki v zavihku <span class="gui">Osnovno</span> so razloženi spodaj. Na voljo so tudi zavihka <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Nastavitev dovoljenja datotek">Dovoljenja</a></span></span> in <span class="gui"><span class="link"><a href="files-open.html#default" title="Sprememba privzetega programa">Odpri z</a></span></span>. Za določene vrste datoteke kot so slike in videi bo na voljo dodaten zavihek, ki vsebuje podatke o merah, trajanju in kodeku.</p>
+<p class="p">Okno lastnosti datoteke prikazuje podrobnosti kot so vrsta datoteke, velikost datoteke in kdaj ste jo nazadnje spremenili. Če te podatke potrebujete pogosto, jih lahko imate prikazane v <span class="link"><a href="nautilus-list.html.sl" title="Files list columns preferences">pogledu seznama stolpcev</a></span> ali <span class="link"><a href="nautilus-zaslon.html.sl#icon-captions" title="nautilus-zaslon#icon-captions">ikon</a></span>.</p>
+<p class="p">Podatki v zavihku <span class="gui">Osnovno</span> so razloženi spodaj. Na voljo so tudi zavihka <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.sl" title="Nastavitev dovoljenja datotek">Dovoljenja</a></span></span> in <span class="gui"><span class="link"><a href="files-open.html.sl#default" title="Sprememba privzetega programa">Odpri z</a></span></span>. Za določene vrste datoteke kot so slike in videi bo na voljo dodaten zavihek, ki vsebuje podatke o merah, trajanju in kodeku.</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Osnovne lastnosti</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Name</span></dt>
-<dd class="terms"><p class="p">Datoteko lahko preimenujete s spremembo tega polja. Datoteko lahko preimenujete tudi izven okna lastnosti. Oglejte <span class="link"><a href="files-rename.html" title="Preimenovanje datoteke ali mape">Preimenovanje datoteke ali mape</a></span>.</p></dd>
+<dd class="terms"><p class="p">Datoteko lahko preimenujete s spremembo tega polja. Datoteko lahko preimenujete tudi izven okna lastnosti. Oglejte <span class="link"><a href="files-rename.html.sl" title="Preimenovanje datoteke ali mape">Preimenovanje datoteke ali mape</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Type</span></dt>
 <dd class="terms">
 <p class="p">This helps you identify the type of the file, such as PDF document,
     OpenDocument Text, or JPEG image. The file type determines which
     applications can open the file, among other things. For example, you
-    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="Odpiranje datotek z drugimi programi">Odpiranje datotek z drugimi programi</a></span>
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html.sl" title="Odpiranje datotek z drugimi programi">Odpiranje datotek z drugimi programi</a></span>
     for more information on this.</p>
 <p class="p"><span class="em">Vrsta MIME</span> je datoteka prikazana v oklepaju; vrsta MIME je standardni način, ki ga računalniki uporabljajo za sklicevanje na vrsto datoteke.</p>
 </dd>
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sl#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="Nastavitev dovoljenja datotek">Nastavitev dovoljenja datotek</a><span class="desc"> — Nadzira kdo si lahko ogleda in uredi vaše datoteke in mape.</span>
+<a href="nautilus-file-properties-permissions.html.sl" title="Nastavitev dovoljenja datotek">Nastavitev dovoljenja datotek</a><span class="desc"> — Nadzira kdo si lahko ogleda in uredi vaše datoteke in mape.</span>
 </li></ul></div>
 </div></div>
 </div>

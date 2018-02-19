@@ -43,27 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ta" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html.ta#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">கோப்பு பண்புகள்</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">ஒரு கோப்பு அல்லது கோப்புறை பற்றி தகவலைக் காண, அதை வலது சொடுக்கம் செய்து <span class="gui">பண்புகள்</span> ஐ தேர்ந்தெடுக்கவும். நீங்கள் கோப்பைத் தேர்ந்தெடுத்துவிட்டு <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Enter</kbd></span></span> ஐ அழுத்தியும் பண்புகளைக் காணலாம்.</p>
-<p class="p">கோப்பு பண்புகள் சாளரத்தில் நீங்கள் கோப்பு வகை, கோப்பு அளவு மற்றும் நீங்கள் கடைசியாக அதை எப்போது மாற்றியமைத்தீர்கள் என்பது போன்ற தகவல்களைக் காணலாம். உங்களுக்கு இந்த தகவல் அடிக்கடி வேண்டும் என்றால், நீங்கள் அதை <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">பட்டியல் காட்சி நெடுவரிசைகள்</a></span> அல்லது <span class="link"><a href="nautilus-display.html#icon-captions" title="சின்னத் தலைப்புகள்">சின்ன தலைப்புகள்</a></span> இல் காண்பிக்கும்படி அமைக்கலாம்.</p>
-<p class="p"><span class="gui">அடிப்படை</span> தாவலில் கொடுக்கப்படும் தகவல் கீழே விளக்கப்பட்டுள்ளது. <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="கோப்பு அனுமதிகளை அமைத்தல்">அனுமதிகள்</a></span></span> மற்றும் <span class="gui"><span class="link"><a href="files-open.html#default" title="முன்னிருப்பு பயன்பாட்டை மாற்றுதல்">இதைக் கொண்டு திற</a></span></span> தாவல்களும் உள்ளன. படங்கள் மற்றும் வீடியோக்கள் போன்ற சில வகையான கோப்புகளுக்கு,  பரிமாணங்கள், காலம் மற்றும் கோடெக் போன்ற தகவல்களை வழங்கும் கூடுதல் தாவலும் இருக்கும்.</p>
+<p class="p">கோப்பு பண்புகள் சாளரத்தில் நீங்கள் கோப்பு வகை, கோப்பு அளவு மற்றும் நீங்கள் கடைசியாக அதை எப்போது மாற்றியமைத்தீர்கள் என்பது போன்ற தகவல்களைக் காணலாம். உங்களுக்கு இந்த தகவல் அடிக்கடி வேண்டும் என்றால், நீங்கள் அதை <span class="link"><a href="nautilus-list.html.ta" title="Files list columns preferences">பட்டியல் காட்சி நெடுவரிசைகள்</a></span> அல்லது <span class="link"><a href="nautilus-display.html.ta#icon-captions" title="சின்னத் தலைப்புகள்">சின்ன தலைப்புகள்</a></span> இல் காண்பிக்கும்படி அமைக்கலாம்.</p>
+<p class="p"><span class="gui">அடிப்படை</span> தாவலில் கொடுக்கப்படும் தகவல் கீழே விளக்கப்பட்டுள்ளது. <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.ta" title="கோப்பு அனுமதிகளை அமைத்தல்">அனுமதிகள்</a></span></span> மற்றும் <span class="gui"><span class="link"><a href="files-open.html.ta#default" title="முன்னிருப்பு பயன்பாட்டை மாற்றுதல்">இதைக் கொண்டு திற</a></span></span> தாவல்களும் உள்ளன. படங்கள் மற்றும் வீடியோக்கள் போன்ற சில வகையான கோப்புகளுக்கு,  பரிமாணங்கள், காலம் மற்றும் கோடெக் போன்ற தகவல்களை வழங்கும் கூடுதல் தாவலும் இருக்கும்.</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">அடிப்படை பண்புகள்</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Name</span></dt>
-<dd class="terms"><p class="p">நீங்கள் இந்த புலத்தை மாற்றுவதன் மூலம் கோப்பை மறுபெயரிட முடியும். நீங்கள் பண்புகள் சாளரத்திற்கு வெளியேயும் ஒரு கோப்பை மறுபெயரிட முடியும். <span class="link"><a href="files-rename.html" title="ஒரு கோப்பு அல்லது கோப்புறையை மறுபெயரிடுதல்">ஒரு கோப்பு அல்லது கோப்புறையை மறுபெயரிடுதல்</a></span> ஐப் பார்க்கவும்.</p></dd>
+<dd class="terms"><p class="p">நீங்கள் இந்த புலத்தை மாற்றுவதன் மூலம் கோப்பை மறுபெயரிட முடியும். நீங்கள் பண்புகள் சாளரத்திற்கு வெளியேயும் ஒரு கோப்பை மறுபெயரிட முடியும். <span class="link"><a href="files-rename.html.ta" title="ஒரு கோப்பு அல்லது கோப்புறையை மறுபெயரிடுதல்">ஒரு கோப்பு அல்லது கோப்புறையை மறுபெயரிடுதல்</a></span> ஐப் பார்க்கவும்.</p></dd>
 <dt class="terms"><span class="gui">Type</span></dt>
 <dd class="terms">
 <p class="p">This helps you identify the type of the file, such as PDF document,
     OpenDocument Text, or JPEG image. The file type determines which
     applications can open the file, among other things. For example, you
-    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="மற்ற பயன்பாடுகளைக் கொண்டு கோப்புகளைத் திறக்கவும்">மற்ற பயன்பாடுகளைக் கொண்டு கோப்புகளைத் திறக்கவும்</a></span>
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html.ta" title="மற்ற பயன்பாடுகளைக் கொண்டு கோப்புகளைத் திறக்கவும்">மற்ற பயன்பாடுகளைக் கொண்டு கோப்புகளைத் திறக்கவும்</a></span>
     for more information on this.</p>
 <p class="p">கோப்பின் <span class="em">MIME வகை</span> அடைப்புக்குறிக்குள் காட்டப்படும்; MIME வகை என்பது கணினிகள் கோப்பு வகையைக் குறிக்க பயன்படுத்தும் ஒரு தரநிலையான வழியாகும்.</p>
 </dd>
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ta#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="கோப்பு அனுமதிகளை அமைத்தல்">கோப்பு அனுமதிகளை அமைத்தல்</a><span class="desc"> — உங்கள் கோப்புகள் மற்றும் கோப்புறைகளை யாரெல்லாம் காண மற்றும் திருத்த முடியும் என்பதை கட்டுப்படுத்துதல்.</span>
+<a href="nautilus-file-properties-permissions.html.ta" title="கோப்பு அனுமதிகளை அமைத்தல்">கோப்பு அனுமதிகளை அமைத்தல்</a><span class="desc"> — உங்கள் கோப்புகள் மற்றும் கோப்புறைகளை யாரெல்லாம் காண மற்றும் திருத்த முடியும் என்பதை கட்டுப்படுத்துதல்.</span>
 </li></ul></div>
 </div></div>
 </div>

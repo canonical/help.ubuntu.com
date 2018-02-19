@@ -44,19 +44,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="keyboard.html" title="Tangentbord">Tangentbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="keyboard.html.sv" title="Tangentbord">Tangentbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="keyboard.html" title="Tangentbord">Tangentbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="keyboard.html.sv" title="Tangentbord">Tangentbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="a11y.html" title="Hjälpmedel">Hjälpmedel</a> › <a class="trail" href="a11y.html#mobility" title="Rörelsehinder">Rörelsehinder</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="a11y.html.sv" title="Hjälpmedel">Hjälpmedel</a> › <a class="trail" href="a11y.html.sv#mobility" title="Rörelsehinder">Rörelsehinder</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tangentbordsnavigation</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Denna sida beskriver tangentbordsnavigering för personer som inte kan använda en mus eller annat pekdon eller som vill använda tangentbordet så mycket som möjligt. För snabbtangenter som är användbara för alla användare, se <span class="link"><a href="shell-keyboard-shortcuts.html" title="Användbara tangentbordsgenvägar">Användbara tangentbordsgenvägar</a></span> istället.</p>
-<div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Om du inte kan använda ett pekdon som exempelvis en mus kan du kontrollera musmarkören med hjälp av den numeriska delen på ditt tangentbord. Se <span class="link"><a href="mouse-mousekeys.html" title="Klicka och flytta muspekaren med det numeriska tangentbordet">Klicka och flytta muspekaren med det numeriska tangentbordet</a></span> för detaljer.</p></div></div></div></div>
+<p class="p">Denna sida beskriver tangentbordsnavigering för personer som inte kan använda en mus eller annat pekdon eller som vill använda tangentbordet så mycket som möjligt. För snabbtangenter som är användbara för alla användare, se <span class="link"><a href="shell-keyboard-shortcuts.html.sv" title="Användbara tangentbordsgenvägar">Användbara tangentbordsgenvägar</a></span> istället.</p>
+<div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Om du inte kan använda ett pekdon som exempelvis en mus kan du kontrollera musmarkören med hjälp av den numeriska delen på ditt tangentbord. Se <span class="link"><a href="mouse-mousekeys.html.sv" title="Klicka och flytta muspekaren med det numeriska tangentbordet">Klicka och flytta muspekaren med det numeriska tangentbordet</a></span> för detaljer.</p></div></div></div></div>
 <div class="table"><div class="inner">
 <div class="title title-table"><h2><span class="title">Navigera i användargränssnitt</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -101,11 +101,11 @@
 <td style="border-top-style: solid;"><p class="p">Öppna den första menyn på menyraden i ett fönster. Använd piltangenterna för att navigera i menyerna.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html.sv" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Öppna programmenyn på systemraden.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> eller <span class="key"><a href="keyboard-key-menu.html" title="Vad är Windows-tangenten?"><kbd>Menu</kbd></a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> eller <span class="key"><a href="keyboard-key-menu.html.sv" title="Vad är Windows-tangenten?"><kbd>Menu</kbd></a></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Poppa upp snabbvalsmenyn för den aktuella markeringen som om du hade högerklickat.</p></td>
 </tr>
 <tr>
@@ -122,12 +122,12 @@
 <div class="title title-table"><h2><span class="title">Navigera skrivbordet</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> eller <span class="key"><a href="keyboard-key-super.html" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>-tangenten</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> eller <span class="key"><a href="keyboard-key-super.html.sv" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>-tangenten</p></td>
 <td><p class="p">Växla mellan översiktsvyn <span class="gui">Aktiviteter</span> och skrivbordet. I översiktsvyn kan du börja skriva för att omedelbart söka bland dina program, kontakter och dokument.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tabb</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Växla mellan fönster">Växla snabbt mellan fönster</a></span>. Håll ner <span class="key"><kbd>Skift</kbd></span> för omvänd ordning.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.sv" title="Växla mellan fönster">Växla snabbt mellan fönster</a></span>. Håll ner <span class="key"><kbd>Skift</kbd></span> för omvänd ordning.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
@@ -142,7 +142,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> eller <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Upp</kbd></span></span>, och <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> eller <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Ner</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Växla mellan arbetsytor">Växla mellan arbetsytor</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.sv" title="Växla mellan arbetsytor">Växla mellan arbetsytor</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F6</kbd></span></span></p></td>
@@ -154,7 +154,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html#messagetray" title="Meddelandefältet">Öppna meddelandefältet.</a></span> Tryck på <span class="key"><kbd>Esc</kbd></span> för att stänga.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html.sv#messagetray" title="Meddelandefältet">Öppna meddelandefältet.</a></span> Tryck på <span class="key"><kbd>Esc</kbd></span> för att stänga.</p></td>
 </tr>
 </table></div>
 </div></div>
@@ -179,7 +179,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> och <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Flytta ett fönster till en annan arbetsyta">Flytta det aktuella fönstret till en annan arbetsyta</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.sv" title="Flytta ett fönster till en annan arbetsyta">Flytta det aktuella fönstret till en annan arbetsyta</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
@@ -191,7 +191,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> eller <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Maximera och avmaximera ett fönster">Maximera</a></span> ett fönster. Tryck <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> eller <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> för att återställa ett maximerat fönster till dess originalstorlek.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html.sv" title="Maximera och avmaximera ett fönster">Maximera</a></span> ett fönster. Tryck <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> eller <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> för att återställa ett maximerat fönster till dess originalstorlek.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
@@ -218,16 +218,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Rörelsehinder">Rörelsehinder</a></li>
+<li class="links "><a href="a11y.html.sv#mobility" title="Rörelsehinder">Rörelsehinder</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Tangentbord">Tangentbord</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Använd alternativa tangentbordslayouter">Tangentbordslayouter</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Få tangentbordsmarkören att blinka">markörblinkning</a></span>, <span class="link"><a href="a11y.html#mobility" title="Rörelsehinder">tangentbordshjälpmedel</a></span>…</span>
+<a href="keyboard.html.sv" title="Tangentbord">Tangentbord</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.sv" title="Använd alternativa tangentbordslayouter">Tangentbordslayouter</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sv" title="Få tangentbordsmarkören att blinka">markörblinkning</a></span>, <span class="link"><a href="a11y.html.sv#mobility" title="Rörelsehinder">tangentbordshjälpmedel</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Användbara tangentbordsgenvägar">Användbara tangentbordsgenvägar</a><span class="desc"> — Ta sig runt på skrivbordet med hjälp av tangentbordet.</span>
+<a href="shell-keyboard-shortcuts.html.sv" title="Användbara tangentbordsgenvägar">Användbara tangentbordsgenvägar</a><span class="desc"> — Ta sig runt på skrivbordet med hjälp av tangentbordet.</span>
 </li></ul></div>
 </div></div>
 </div>

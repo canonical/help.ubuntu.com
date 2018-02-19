@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="hardware-problems-graphics.html" title="Képernyőproblémák">Képernyőproblémák</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html.hu#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="hardware-problems-graphics.html.hu" title="Képernyőproblémák">Képernyőproblémák</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Miért homályos/pixeles a kép?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Ennek általában az az oka, hogy a beállított felbontás nem megfelelő a képernyőhöz.</p>
-<p class="p">Ennek megoldásához nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés"> Tevékenységek</a></span> áttekintést, és kezdje el beírni a <span class="gui">Kijelzők</span> szót. A panel megnyitásához kattintson a <span class="gui">Kijelzők</span> ikonra. A <span class="gui">Felbontás</span> listából válasszon néhány lehetőséget, és állítsa be azt, amellyel a kijelző képe a legjobb.</p>
+<p class="p">Ennek megoldásához nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés"> Tevékenységek</a></span> áttekintést, és kezdje el beírni a <span class="gui">Kijelzők</span> szót. A panel megnyitásához kattintson a <span class="gui">Kijelzők</span> ikonra. A <span class="gui">Felbontás</span> listából válasszon néhány lehetőséget, és állítsa be azt, amellyel a kijelző képe a legjobb.</p>
 </div>
 <div id="multihead" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Több kijelző csatlakoztatásakor</span></h2></div>
@@ -59,7 +59,7 @@
 <p class="p">Beállíthatja, hogy a két kijelző eltérő felbontást használjon, de ekkor nem jelenítheti meg ugyanazt a képet egyszerre a két kijelzőn. Így gyakorlatilag két független képernyő fog egyszerre csatlakozni a számítógéphez. A kijelzők között mozgathatja az ablakokat, de egyszerre nem jelenítheti meg ugyanazt az ablakot mindkét kijelzőn.</p>
 <p class="p">A kijelzők beállítása egyedi felbontások használatára:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Kijelzők</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Kijelzők</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Kijelzők</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">A kijelzőknek <span class="gui">Tükrözött</span> állapotúként kell megjelenniük. Válassza ki az elsődleges kijelzőt.</p></li>
 <li class="steps"><p class="p">Válassza a kijelzőkonfigurációk listájából az <span class="gui">Elsődleges</span> lehetőséget, majd nyomja meg az <span class="gui">Alkalmaz</span> gombot a mentéshez.</p></li>
@@ -73,13 +73,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-problems-graphics.html" title="Képernyőproblémák">Képernyőproblémák</a><span class="desc"> — Képernyő- és grafikai hibák elhárítása.</span>
+<a href="hardware-problems-graphics.html.hu" title="Képernyőproblémák">Képernyőproblémák</a><span class="desc"> — Képernyő- és grafikai hibák elhárítása.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-resolution.html" title="A képernyő felbontásának vagy forgatásának módosítása">A képernyő felbontásának vagy forgatásának módosítása</a><span class="desc"> — A képernyő felbontásának és tájolásának (forgatásának) megváltoztatása.</span>
+<a href="look-resolution.html.hu" title="A képernyő felbontásának vagy forgatásának módosítása">A képernyő felbontásának vagy forgatásának módosítása</a><span class="desc"> — A képernyő felbontásának és tájolásának (forgatásának) megváltoztatása.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="wacom.html" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.te" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="wacom.html.te" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Choose a monitor</span></h1></div>
 <div class="region">
 <div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.te#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
     start typing <span class="gui">Wacom Tablet</span>.</p></li>
 <li class="steps">
 <p class="p">Click on <span class="gui">Wacom Tablet</span> to open the panel.</p>
@@ -78,10 +78,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a><span class="desc"> — 
-      <span class="link"><a href="wacom-multi-monitor.html" title="Choose a monitor">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html" title="Configure the stylus">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html" title="Use the tablet left-handed">use the tablet left handed</a></span>…
+<a href="wacom.html.te" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a><span class="desc"> — 
+      <span class="link"><a href="wacom-multi-monitor.html.te" title="Choose a monitor">Map a monitor</a></span>,
+      <span class="link"><a href="wacom-stylus.html.te" title="Configure the stylus">configure the stylus</a></span>,
+      <span class="link"><a href="wacom-left-handed.html.te" title="Use the tablet left-handed">use the tablet left handed</a></span>…
   </span>
 </li></ul></div>
 </div></div></div>

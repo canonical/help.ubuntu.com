@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-wireless.html" title="Бежично умрежавање">Бежично умрежавање</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-wireless.html.sr" title="Бежично умрежавање">Бежично умрежавање</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Унео сам исправну лозинку, али још увек не могу да се повежем</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Ако сте сигурни да сте унели исправну <span class="link"><a href="net-wireless-wepwpa.html" title="Шта значи ВЕП и ВПА?">лозинку за бежичну</a></span> али још увек не можете успешно да се повежете на бежичну мрежу, покушајте нешто од следећег:</p>
+<p class="p">Ако сте сигурни да сте унели исправну <span class="link"><a href="net-wireless-wepwpa.html.sr" title="Шта значи ВЕП и ВПА?">лозинку за бежичну</a></span> али још увек не можете успешно да се повежете на бежичну мрежу, покушајте нешто од следећег:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Проверите два пута да ли имате тачну лозинку</p>
@@ -61,7 +61,7 @@
 </li>
 <li class="list">
 <p class="p">Покушајте да искључите и да поново укључите бежичну картицу</p>
-<p class="p">Понекад бежичне картице запну или наиђу на мањи проблем што значи да се неће повезати. Покушајте да искључите картицу и након тога да је поново укључите да бисте је поново подесили — погледајте <span class="link"><a href="net-wireless-troubleshooting.html" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a></span> за више података.</p>
+<p class="p">Понекад бежичне картице запну или наиђу на мањи проблем што значи да се неће повезати. Покушајте да искључите картицу и након тога да је поново укључите да бисте је поново подесили — погледајте <span class="link"><a href="net-wireless-troubleshooting.html.sr" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a></span> за више података.</p>
 </li>
 <li class="list">
 <p class="p">Проверите да ли користите одговарајућу врсту бежичне безбедности</p>
@@ -69,7 +69,7 @@
 </li>
 <li class="list">
 <p class="p">Проверите да ли је бежична картица правилно подржана</p>
-<p class="p">Неке бежичне картице нису подржане како треба. Прикажу се као бежична веза, али не могу да се повежу на мрежу зато што њихови управљачки програми нису у стању да то остваре. Погледајте да ли можете да набавите неки други бежични управљачки програм, или ако морате да извршите неко додатно подешавање (као инсталирање другачијег <span class="em">уграђеног програма</span>). Погледајте <span class="link"><a href="net-wireless-troubleshooting.html" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a></span> за више података.</p>
+<p class="p">Неке бежичне картице нису подржане како треба. Прикажу се као бежична веза, али не могу да се повежу на мрежу зато што њихови управљачки програми нису у стању да то остваре. Погледајте да ли можете да набавите неки други бежични управљачки програм, или ако морате да извршите неко додатно подешавање (као инсталирање другачијег <span class="em">уграђеног програма</span>). Погледајте <span class="link"><a href="net-wireless-troubleshooting.html.sr" title="Решавање проблема бежичне мреже">Решавање проблема бежичне мреже</a></span> за више података.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -78,7 +78,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Бежично умрежавање">Бежично умрежавање</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Повезивање на бежичну мрежу">Повезивање на бежичну</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Повежите се на скривену бежичну мрежу">Скривене мреже</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Зашто се моја бежична мрежа непрестано прекида?">Прекидање везе</a></span>…</span>
+<a href="net-wireless.html.sr" title="Бежично умрежавање">Бежично умрежавање</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.sr" title="Повезивање на бежичну мрежу">Повезивање на бежичну</a></span>, <span class="link"><a href="net-wireless-hidden.html.sr" title="Повежите се на скривену бежичну мрежу">Скривене мреже</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.sr" title="Зашто се моја бежична мрежа непрестано прекида?">Прекидање везе</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

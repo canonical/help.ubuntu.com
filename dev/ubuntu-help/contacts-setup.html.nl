@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="contacts.html" title="Contacten">Contacten</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="contacts.html.nl" title="Contacten">Contacten</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Contacten voor de eerste keer starten</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Wanneer u <span class="app">Contacten</span> voor de eerste keer start, zal het venster <span class="gui">Adresboek selecteren</span> geopend worden.</p>
-<p class="p">Als u <span class="link"><a href="accounts.html" title="Online-accounts">online-accounts</a></span> geconfigureerd heeft, staan ze vermeld samen met <span class="gui">Lokaal adresboek</span>. Kies een item uit de lijst en klik op <span class="gui">Klaar</span>. Alle nieuwe contacten die u aanmaakt zullen opgeslagen worden in het adresboek dat u kiest. U kunt ook contacten bekijken en bewerken in andere adresboeken.</p>
+<p class="p">Als u <span class="link"><a href="accounts.html.nl" title="Online-accounts">online-accounts</a></span> geconfigureerd heeft, staan ze vermeld samen met <span class="gui">Lokaal adresboek</span>. Kies een item uit de lijst en klik op <span class="gui">Klaar</span>. Alle nieuwe contacten die u aanmaakt zullen opgeslagen worden in het adresboek dat u kiest. U kunt ook contacten bekijken en bewerken in andere adresboeken.</p>
 <p class="p">Als u geen online-accounts geconfigureerd heeft, klik dan op <span class="gui">Online-accounts</span> om het instellen te beginnen. Als u geen online-accounts wenst in te stellen op dit moment, klik dan op <span class="gui">Lokaal adresboek</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -58,7 +58,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="contacts.html" title="Contacten">Contacten</a><span class="desc"> — Toegang tot uw contacten.</span>
+<a href="contacts.html.nl" title="Contacten">Contacten</a><span class="desc"> — Toegang tot uw contacten.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="共有">共有</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.ja" title="共有">共有</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="bluetooth.html.ja" title="Bluetooth">Bluetooth</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,12 +54,11 @@
 <div class="region">
 <div class="contents">
 <p class="p">You can send files to connected Bluetooth devices, such as some mobile
-    phones or other computers. Some types of devices don’t allow the transfer
-    of files, or specific types of files. You can send files in one of three
-    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
-    window, or directly from the file manager.</p>
+  phones or other computers. Some types of devices do not allow the transfer
+  of files, or specific types of files. You can send files using the Bluetooth
+  settings window.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Make sure Bluetooth is enabled: the switch in the titlebar should be
@@ -67,7 +66,7 @@
 <li class="steps">
 <p class="p">In the <span class="gui">Devices</span> list, select the device to which to send the
       files. If the desired device is not shown as <span class="gui">Connected</span> in the
-      list, you need to <span class="link"><a href="bluetooth-connect-device.html" title="Connect your computer to a Bluetooth device">connect</a></span>
+      list, you need to <span class="link"><a href="bluetooth-connect-device.html.ja" title="Connect your computer to a Bluetooth device">connect</a></span>
       to it.</p>
 <p class="p">A panel specific to the external device appears.</p>
 </li>
@@ -89,21 +88,21 @@
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — 
-      <span class="link"><a href="bluetooth-connect-device.html" title="Connect your computer to a Bluetooth device">Connect</a></span>,
-      <span class="link"><a href="bluetooth-send-file.html" title="Bluetooth デバイスにファイルを送る">send files</a></span>,
-      <span class="link"><a href="bluetooth-turn-on-off.html" title="Turn Bluetooth on or off">turn on and off</a></span>…
+<a href="bluetooth.html.ja" title="Bluetooth">Bluetooth</a><span class="desc"> — 
+      <span class="link"><a href="bluetooth-connect-device.html.ja" title="Connect your computer to a Bluetooth device">Connect</a></span>,
+      <span class="link"><a href="bluetooth-send-file.html.ja" title="Bluetooth デバイスにファイルを送る">send files</a></span>,
+      <span class="link"><a href="bluetooth-turn-on-off.html.ja" title="Turn Bluetooth on or off">turn on and off</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="共有">共有</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="デスクトップを共有する">デスクトップ共有</a></span>, <span class="link"><a href="files-share.html" title="メールを使ってファイルを共有する">メールでファイルを共有する</a></span>, <span class="link"><a href="sharing-media.html" title="音楽、写真、ビデオを共有する">メディア共有</a></span>…</span>
+<a href="sharing.html.ja" title="共有">共有</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ja" title="デスクトップを共有する">デスクトップ共有</a></span>, <span class="link"><a href="files-share.html.ja" title="メールを使ってファイルを共有する">メールでファイルを共有する</a></span>, <span class="link"><a href="sharing-media.html.ja" title="音楽、写真、ビデオを共有する">メディア共有</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="メールを使ってファイルを共有する">メールを使ってファイルを共有する</a><span class="desc"> — ファイルマネージャーから、メールの相手先へファイルを簡単に転送できます。</span>
+<a href="files-share.html.ja" title="メールを使ってファイルを共有する">メールを使ってファイルを共有する</a><span class="desc"> — ファイルマネージャーから、メールの相手先へファイルを簡単に転送できます。</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.de" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html.de#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Dateien auf eine CD oder DVD schreiben</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Sie können den <span class="gui">CD/DVD-Ersteller</span> verwenden, um Ihre Dateien auf einer leere CD oder DVD abzulegen. Die Möglichkeit, eine CD oder DVD zu erstellen, erscheint in der Dateiverwaltung, sobald Sie die CD in Ihren CD/DVD-Brenner einlegen. Die Dateiverwaltung lässt Sie Dateien auf andere Rechner übertragen oder erstellt <span class="link"><a href="backup-why.html" title="Sichern Ihrer wichtigen Dateien">Datensicherungen</a></span>, indem er die Dateien auf einem leeren Medium ablegt. So schreiben Sie Dateien auf eine CD oder DVD:</p>
+<p class="p">Sie können den <span class="gui">CD/DVD-Ersteller</span> verwenden, um Ihre Dateien auf einer leere CD oder DVD abzulegen. Die Möglichkeit, eine CD oder DVD zu erstellen, erscheint in der Dateiverwaltung, sobald Sie die CD in Ihren CD/DVD-Brenner einlegen. Die Dateiverwaltung lässt Sie Dateien auf andere Rechner übertragen oder erstellt <span class="link"><a href="backup-why.html.de" title="Sichern Ihrer wichtigen Dateien">Datensicherungen</a></span>, indem er die Dateien auf einem leeren Medium ablegt. So schreiben Sie Dateien auf eine CD oder DVD:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Legen Sie ein leeres Medium in Ihren CD/DVD-Brenner.</p></li>
 <li class="steps">
@@ -82,7 +82,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.de#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

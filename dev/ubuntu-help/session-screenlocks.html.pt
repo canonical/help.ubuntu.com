@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="prefs-display.html" title="Ecrã">Ecrã</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="prefs-display.html.pt" title="Ecrã">Ecrã</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html" title="Problemas do ecrã">Problemas do ecrã</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.pt#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html.pt" title="Problemas do ecrã">Problemas do ecrã</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">Se deixa a computador por uns minutos, o ecrã bloquear-se-á automaticamente, pelo que terá que introduzir a sua palavra-passe para começar ao utilizar de novo. Isto se faz por razões de segurança (para que ninguém possa estragar seu trabalho se deixa a computador sem vigilância), mas pode ser incómodo se o ecrã se bloqueia com demasiada rapidez.</p>
 <p class="p">Para esperar um período mais longo antes de que o ecrã se bloqueie automaticamente:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> comece a escrever <span class="gui">Privacidade</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> comece a escrever <span class="gui">Privacidade</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Privacidade</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Bloquear ecrã</span>.</p></li>
 <li class="steps"><p class="p">Se o <span class="gui">Bloqueio automático do ecrã</span> está ativado, pode mudar o valor na lista desdobrável <span class="gui">Bloquear o ecrã depois de</span>.</p></li>
@@ -71,10 +71,10 @@
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Ecrã">Ecrã</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Mudar o fundo do escritório e do ecrã de bloqueio">Fundo</a></span>, <span class="link"><a href="look-resolution.html" title="Mudar a resolução ou a rotação do ecrã">tamanho e rotação</a></span>, brilho…</span>
+<a href="prefs-display.html.pt" title="Ecrã">Ecrã</a><span class="desc"> — <span class="link"><a href="look-background.html.pt" title="Mudar o fundo do escritório e do ecrã de bloqueio">Fundo</a></span>, <span class="link"><a href="look-resolution.html.pt" title="Mudar a resolução ou a rotação do ecrã">tamanho e rotação</a></span>, brilho…</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Problemas do ecrã">Problemas do ecrã</a><span class="desc"> — Resolução de problemas de ecrã e gráficos.</span>
+<a href="hardware-problems-graphics.html.pt" title="Problemas do ecrã">Problemas do ecrã</a><span class="desc"> — Resolução de problemas de ecrã e gráficos.</span>
 </li>
 </ul></div>
 </div></div>
@@ -82,11 +82,11 @@
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Bloquear automaticamente seu ecrã">Bloquear automaticamente seu ecrã</a><span class="desc"> — Impedir que outras pessoas possam usar seu escritório quando se afaste da sua computador.</span>
+<a href="privacy-screen-lock.html.pt" title="Bloquear automaticamente seu ecrã">Bloquear automaticamente seu ecrã</a><span class="desc"> — Impedir que outras pessoas possam usar seu escritório quando se afaste da sua computador.</span>
 </li>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Bloquear o ecrã">Bloquear o ecrã</a></li>
+<li class="links "><a href="shell-exit.html.pt#lock-screen" title="Bloquear o ecrã">Bloquear o ecrã</a></li>
 <li class="links ">
-<a href="display-blank.html" title="Estabelecer o tempo de escurecimento do ecrã">Estabelecer o tempo de escurecimento do ecrã</a><span class="desc"> — Mudar o tempo de apagado do ecrã para poupar energia.</span>
+<a href="display-blank.html.pt" title="Estabelecer o tempo de escurecimento do ecrã">Estabelecer o tempo de escurecimento do ecrã</a><span class="desc"> — Mudar o tempo de apagado do ecrã para poupar energia.</span>
 </li>
 </ul></div>
 </div></div>

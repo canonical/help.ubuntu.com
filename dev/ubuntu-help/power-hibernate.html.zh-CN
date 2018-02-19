@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="power.html" title="电源 &amp; 电池">电源 &amp; 电池</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="power.html.zh-CN" title="电源 &amp; 电池">电源 &amp; 电池</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="power.html" title="电源 &amp; 电池">电源 &amp; 电池</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="power.html.zh-CN" title="电源 &amp; 电池">电源 &amp; 电池</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">当计算机处于<span class="em">休眠</span>状态时，您的所有应用程序和文档都将保持打开状态，而计算机则将完全关闭几乎不再耗电。当您再次打开计算机时，应用程序和文档将仍处于开启状态。</p>
-<p class="p">不幸的是，很多时候休眠 <span class="link"><a href="power-suspendfail.html" title="为什么我的机子休眠后不能回到原来的状态？">无法工作</a></span>，如果你期望重新打开电脑时，程序和文档都能重新打开，这可能会造成丢失数据。</p>
+<p class="p">不幸的是，很多时候休眠 <span class="link"><a href="power-suspendfail.html.zh-CN" title="为什么我的机子休眠后不能回到原来的状态？">无法工作</a></span>，如果你期望重新打开电脑时，程序和文档都能重新打开，这可能会造成丢失数据。</p>
 </div>
 <div id="test-hibernate" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">测试休眠是否工作</span></h2></div>
@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">您可以使用以下命令测试休眠是否在您的电脑上正常工作。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">通过按 <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> 或在 <span class="gui">Dash</span> 中搜索 <span class="input">终端</span> 来打开 <span class="app">终端</span>。</p></li>
+<li class="steps"><p class="p">在 <span class="gui">活动总揽</span> 中搜索 <span class="input">终端</span> 打开 <span class="app">终端</span>。</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">按提示输入密码。</p>
@@ -108,17 +108,17 @@ ResultActive=yes</pre></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="电源 &amp; 电池">电源 &amp; 电池</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="挂起或休眠计算机时会发生什么？">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="为什么我的屏幕过一会就变暗？">screen dimming</a></span>…
+<a href="power.html.zh-CN" title="电源 &amp; 电池">电源 &amp; 电池</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.zh-CN" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.zh-CN" title="挂起或休眠计算机时会发生什么？">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.zh-CN" title="为什么我的屏幕过一会就变暗？">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-suspendfail.html" title="为什么我的机子休眠后不能回到原来的状态？">为什么我的机子休眠后不能回到原来的状态？</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.zh-CN" title="为什么我的机子休眠后不能回到原来的状态？">为什么我的机子休眠后不能回到原来的状态？</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html#faq" title="Tipps und Fragen">Tipps und Fragen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.de" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html.de#faq" title="Tipps und Fragen">Tipps und Fragen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Was bedeutet das »<span class="file">~</span>« am Ende eines Dateinamens?</span></h1></div>
@@ -51,19 +51,19 @@
 <div class="contents">
 <p class="p">Dateien mit einem »<span class="file">~</span>« am Ende des Namens (beispielsweise <span class="file">Beispiel.txt~</span>) sind automatisch erstellte Sicherungskopien von Dokumenten, die im Texteditor <span class="app">gedit</span> oder anderen Anwendungen erstellt wurden. Sie können gefahrlos entfernt werden, aber es macht auch nichts, wenn sie auf Ihrem Rechner bleiben.</p>
 <p class="p">Diese Dateien sind standardmäßig verborgen. Falls Sie diese sehen, haben Sie entweder <span class="gui">Verborgene Dateien anzeigen</span> (im Ansichtsoptionen-Menü in der Werkzeugleiste von <span class="app">Dateien</span>) aktiviert oder <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>H</kbd></span></span> gedrückt. Sie können Sie wieder verbergen, indem Sie die beschriebenen Schritte einfach wiederholen.</p>
-<p class="p">Diese Dateien werden auf die gleiche Weise behandelt wie gewöhnliche verborgene Dateien. Informationen über den Umgang mit verborgenen Dateien finden Sie in <span class="link"><a href="files-hidden.html" title="Eine Datei verbergen">Eine Datei verbergen</a></span>.</p>
+<p class="p">Diese Dateien werden auf die gleiche Weise behandelt wie gewöhnliche verborgene Dateien. Informationen über den Umgang mit verborgenen Dateien finden Sie in <span class="link"><a href="files-hidden.html.de" title="Eine Datei verbergen">Eine Datei verbergen</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tipps und Fragen">Tipps und Fragen</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.de#faq" title="Tipps und Fragen">Tipps und Fragen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-hidden.html" title="Eine Datei verbergen">Eine Datei verbergen</a><span class="desc"> — Eine Datei unsichtbar machen, so dass sie in der Dateiverwaltung nicht angezeigt wird.</span>
+<a href="files-hidden.html.de" title="Eine Datei verbergen">Eine Datei verbergen</a><span class="desc"> — Eine Datei unsichtbar machen, so dass sie in der Dateiverwaltung nicht angezeigt wird.</span>
 </li></ul></div>
 </div></div>
 </div>

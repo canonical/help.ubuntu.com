@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="mouse.html" title="మౌసు">మౌసు</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.te" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="mouse.html.te" title="మౌసు">మౌసు</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="సార్వత్రిక ప్రాప్యత">సార్వత్రిక ప్రాప్యత</a> › <a class="trail" href="a11y.html#mobility" title="చలన వైకల్యం">చలన వైకల్యం</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.te" title="సార్వత్రిక ప్రాప్యత">సార్వత్రిక ప్రాప్యత</a> › <a class="trail" href="a11y.html.te#mobility" title="చలన వైకల్యం">చలన వైకల్యం</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="mouse.html" title="మౌసు">మౌసు</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.te" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="mouse.html.te" title="మౌసు">మౌసు</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">ఎడమ మౌస్ బటన్‌ను నొక్కిపట్టి మీరు కుడి-నొక్కు నొక్కవచ్చు. మీరు మీ చేతి వేళ్ళను విడివిడిగా కదిలించుటలో సమస్య వున్నా లేగా మీ సూచకి పరికరం వొక బటన్ మాత్రమే కలిగివున్నా ఇది మీకు వుపయోగకరంగా వుంటుంది.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.te#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Click Assist</span> in the <span class="gui">Pointing &amp; Clicking</span>
@@ -74,7 +74,7 @@
 <p class="p">Some special pointers, such as the resize pointers, do not change colors.
   You can still use simulated secondary click as normal, even if you do not get
   visual feedback from the pointer.</p>
-<p class="p">ఒకవేళ మీరు <span class="link"><a href="mouse-mousekeys.html" title="Click and move mouse pointer using the keypad">మాస్ కీలు</a></span> వుపయోగించితే, మీ కీపాడ్ పైని <span class="key"><kbd>5</kbd></span> కీను నొక్కివుంచుట ద్వారా మీరు కుడి-నొక్కు నొక్కవచ్చు.</p>
+<p class="p">ఒకవేళ మీరు <span class="link"><a href="mouse-mousekeys.html.te" title="Click and move mouse pointer using the keypad">మాస్ కీలు</a></span> వుపయోగించితే, మీ కీపాడ్ పైని <span class="key"><kbd>5</kbd></span> కీను నొక్కివుంచుట ద్వారా మీరు కుడి-నొక్కు నొక్కవచ్చు.</p>
 <div class="note" title="చీటి"><div class="inner"><div class="region"><div class="contents"><p class="p">In the <span class="gui">Activities</span> overview, you are always able to long-press
     to right-click, even with this feature disabled. Long-press works slightly
     differently in the overview: you do not have to release the button to
@@ -85,12 +85,12 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="చలన వైకల్యం">చలన వైకల్యం</a></li>
+<li class="links "><a href="a11y.html.te#mobility" title="చలన వైకల్యం">చలన వైకల్యం</a></li>
 <li class="links ">
-<a href="mouse.html" title="మౌసు">మౌసు</a><span class="desc"> — 
-      <span class="link"><a href="mouse-lefthanded.html" title="Use your mouse left-handed">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
+<a href="mouse.html.te" title="మౌసు">మౌసు</a><span class="desc"> — 
+      <span class="link"><a href="mouse-lefthanded.html.te" title="Use your mouse left-handed">Left-handed</a></span>,
+      <span class="link"><a href="mouse-sensitivity.html.te" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
+      <span class="link"><a href="mouse-touchpad-click.html.te" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
     </span>
 </li>
 </ul></div>

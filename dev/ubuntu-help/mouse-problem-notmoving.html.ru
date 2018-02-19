@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="mouse.html" title="Мышь">Мышь</a> › <a class="trail" href="mouse.html#problems" title="Типичные проблемы">Типичные проблемы</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="mouse.html.ru" title="Мышь">Мышь</a> › <a class="trail" href="mouse.html.ru#problems" title="Типичные проблемы">Типичные проблемы</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="mouse.html" title="Мышь">Мышь</a> › <a class="trail" href="mouse.html#problems" title="Типичные проблемы">Типичные проблемы</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="mouse.html.ru" title="Мышь">Мышь</a> › <a class="trail" href="mouse.html.ru#problems" title="Типичные проблемы">Типичные проблемы</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Указатель мыши не перемещается</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Проверьте, подключена ли мышь">Проверьте, подключена ли мышь</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Проверьте, исправна ли мышь">Проверьте, исправна ли мышь</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Проверка беспроводных мышей">Проверка беспроводных мышей</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.ru#plugged-in" title="Проверьте, подключена ли мышь">Проверьте, подключена ли мышь</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.ru#broken" title="Проверьте, исправна ли мышь">Проверьте, исправна ли мышь</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.ru#wireless-mice" title="Проверка беспроводных мышей">Проверка беспроводных мышей</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Проверьте, подключена ли мышь</span></h2></div>
@@ -78,8 +78,8 @@
 <li class="list"><p class="p">Make sure the mouse is turned on. There is often a switch on the
       bottom of the mouse to turn the mouse off completely, so you can take it
       with you without it constantly waking up.</p></li>
-<li class="list"><p class="p">Если мышь подключается через Bluetooth, убедитесь, что она сопряжена с компьютером. Смотрите <span class="link"><a href="bluetooth-connect-device.html" title="Соединение компьютера с устройством Bluetooth">Соединение компьютера с устройством Bluetooth</a></span>.</p></li>
-<li class="list"><p class="p">Нажмите кнопку мыши и проверьте, не начнёт ли двигаться её указатель. Некоторые беспроводные мыши переходят в спящий режим для экономии электроэнергии, и могут не отвечать, пока вы не нажмёте кнопку. Смотрите <span class="link"><a href="mouse-wakeup.html" title="Мышь реагирует с опозданием">Мышь реагирует с опозданием</a></span>.</p></li>
+<li class="list"><p class="p">Если мышь подключается через Bluetooth, убедитесь, что она сопряжена с компьютером. Смотрите <span class="link"><a href="bluetooth-connect-device.html.ru" title="Соединение компьютера с устройством Bluetooth">Соединение компьютера с устройством Bluetooth</a></span>.</p></li>
+<li class="list"><p class="p">Нажмите кнопку мыши и проверьте, не начнёт ли двигаться её указатель. Некоторые беспроводные мыши переходят в спящий режим для экономии электроэнергии, и могут не отвечать, пока вы не нажмёте кнопку. Смотрите <span class="link"><a href="mouse-wakeup.html.ru" title="Мышь реагирует с опозданием">Мышь реагирует с опозданием</a></span>.</p></li>
 <li class="list"><p class="p">Проверьте, не разрядилась ли батарейка мыши.</p></li>
 <li class="list"><p class="p">Убедитесь, что приёмник надёжно подключён к компьютеру.</p></li>
 <li class="list"><p class="p">Если мышь и приёмник способны работать на разных радиочастотах, убедитесь, что они настроены на использование одной и той же частоты.</p></li>
@@ -92,7 +92,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Типичные проблемы">Типичные проблемы с мышью</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.ru#problems" title="Типичные проблемы">Типичные проблемы с мышью</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

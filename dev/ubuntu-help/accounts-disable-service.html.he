@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">Settings</a> » <a class="trail" href="accounts.html" title="Online accounts">Online accounts</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.he" title="User &amp; system settings">Settings</a> » <a class="trail" href="accounts.html.he" title="Online accounts">Online accounts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Control which online services an account can be used to access</span></h1></div>
@@ -58,13 +58,13 @@
 <p class="p">You can disable some of the services that are provided by each online
   account:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.he#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Online Accounts</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Online Accounts</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select the account which you want to change from the list on the
       left.</p></li>
 <li class="steps"><p class="p">A list of services that are available with this account will be
-      shown under <span class="gui">Use for</span>. See <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Online services and applications</a></span>
+      shown under <span class="gui">Use for</span>. See <span class="link"><a href="accounts-which-application.html.he" title="Online services and applications">Online services and applications</a></span>
       to see which applications access which services.</p></li>
 <li class="steps"><p class="p">Switch off any of the services that you do not want to use.</p></li>
 </ol></div></div></div>
@@ -80,10 +80,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Online accounts">Online accounts</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Add an account">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Remove an account">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.he" title="Online accounts">Online accounts</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.he" title="Add an account">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.he" title="Remove an account">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.he" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -91,11 +91,11 @@
 <div class="title"><h2><span class="title">עיון נוסף</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="accounts-which-application.html" title="Online services and applications">Online services and applications</a><span class="desc"> — Applications can use the accounts created in <span class="app">Online
+<a href="accounts-which-application.html.he" title="Online services and applications">Online services and applications</a><span class="desc"> — Applications can use the accounts created in <span class="app">Online
     Accounts</span> and the services they exploit.</span>
 </li>
 <li class="links ">
-<a href="accounts-remove.html" title="Remove an account">Remove an account</a><span class="desc"> — Remove access to an online service provider from your
+<a href="accounts-remove.html.he" title="Remove an account">Remove an account</a><span class="desc"> — Remove access to an online service provider from your
     applications.</span>
 </li>
 </ul></div>

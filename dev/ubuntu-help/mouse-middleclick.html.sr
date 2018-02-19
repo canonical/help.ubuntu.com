@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="mouse.html" title="Миш">Миш</a> › <a class="trail" href="mouse.html#tips" title="Савети">Савети</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="mouse.html.sr" title="Миш">Миш</a> › <a class="trail" href="mouse.html.sr#tips" title="Савети">Савети</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Савети и трикови">Савети и трикови</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.sr" title="Савети и трикови">Савети и трикови</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="mouse.html" title="Миш">Миш</a> › <a class="trail" href="mouse.html#tips" title="Савети">Савети</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="mouse.html.sr" title="Миш">Миш</a> › <a class="trail" href="mouse.html.sr#tips" title="Савети">Савети</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Многи мишеви и неке додирне табле имају и средњи тастер. На мишевима са клизним точкићем, обично можете да притиснете на доле клизни точкић да извршите средњи клик. Ако немате средњи тастер на мишу, можете да притиснете и леви и десни тастер истовремено зарад средњег клика.</p>
-<p class="p">На додирним таблама које подржавају лупкање са више прстију, можете да лупнете са три прста одједном да бисте извршили средњи клик. Да би ово радило, мораћете да <span class="link"><a href="mouse-touchpad-click.html" title="Кликните, превуците, или клизајте на додирној табли">укључите клик на додирној табли</a></span> у подешавањима додирне табле.</p>
+<p class="p">На додирним таблама које подржавају лупкање са више прстију, можете да лупнете са три прста одједном да бисте извршили средњи клик. Да би ово радило, мораћете да <span class="link"><a href="mouse-touchpad-click.html.sr" title="Кликните, превуците, или клизајте на додирној табли">укључите клик на додирној табли</a></span> у подешавањима додирне табле.</p>
 <p class="p">Многи програми користе средњи клик за напредније пречице на клик.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
@@ -76,9 +76,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="mouse.html#tips" title="Савети">Савети за миша</a></li>
+<li class="links "><a href="mouse.html.sr#tips" title="Савети">Савети за миша</a></li>
 <li class="links ">
-<a href="tips.html" title="Савети и трикови">Савети и трикови</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Унесите посебне знаке">Посебни знаци</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Средњи клик">пречице средњег клика</a></span>…</span>
+<a href="tips.html.sr" title="Савети и трикови">Савети и трикови</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.sr" title="Унесите посебне знаке">Посебни знаци</a></span>, <span class="link"><a href="mouse-middleclick.html.sr" title="Средњи клик">пречице средњег клика</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

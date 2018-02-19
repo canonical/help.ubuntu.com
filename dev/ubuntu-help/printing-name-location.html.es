@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="printing.html" title="Imprimir">Imprimir</a> › <a class="trail" href="printing.html#setup" title="Configurar una impresora">Configurar</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="printing.html.es" title="Imprimir">Imprimir</a> › <a class="trail" href="printing.html.es#setup" title="Configurar una impresora">Configurar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Cambiar el nombre o la ubicación de una impresora</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Puede cambiar el nombre o la ubicación de una impresora en la configuración de la impresora.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Necesita <span class="link"><a href="user-admin-explain.html" title="¿Cómo funcionan los privilegios de administrador?">privilegios de administrador</a></span> del sistema para cambiar el nombre o la ubicación de una impresora.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Necesita <span class="link"><a href="user-admin-explain.html.es" title="¿Cómo funcionan los privilegios de administrador?">privilegios de administrador</a></span> del sistema para cambiar el nombre o la ubicación de una impresora.</p></div></div></div></div>
 </div>
 <div id="printer-name-change" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Cambiar el nombre de la impresora</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Si quiere cambiar el nombre de una impresora, siga estos pasos:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Impresoras</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Impresoras</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Impresoras</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Pulse el botón <span class="gui">Desbloquear</span> en la esquina superior derecha e introduzca su contraseña.</p></li>
 <li class="steps"><p class="p">Pulse sobre el nombre de su impresora y empiece a escribir el nuevo nombre de la impresora.</p></li>
@@ -70,7 +70,7 @@
 <div class="region"><div class="contents">
 <p class="p">Para cambiar la ubicación de su impresora:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Impresoras</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Impresoras</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Impresoras</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Pulse el botón <span class="gui">Desbloquear</span> en la esquina superior derecha e introduzca su contraseña.</p></li>
 <li class="steps"><p class="p">Pulse sobre la ubicación, y empiece a editarla.</p></li>
@@ -83,12 +83,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Configurar una impresora">Configurar una impresora</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.es#setup" title="Configurar una impresora">Configurar una impresora</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-admin-explain.html" title="¿Cómo funcionan los privilegios de administrador?">¿Cómo funcionan los privilegios de administrador?</a><span class="desc"> — Necesita privilegios de administrador para cambiar partes importantes de su sistema.</span>
+<a href="user-admin-explain.html.es" title="¿Cómo funcionan los privilegios de administrador?">¿Cómo funcionan los privilegios de administrador?</a><span class="desc"> — Necesita privilegios de administrador para cambiar partes importantes de su sistema.</span>
 </li></ul></div>
 </div></div>
 </div>

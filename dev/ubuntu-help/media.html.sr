@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Звук, видео и слике</span></h1></div>
@@ -54,13 +54,13 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-broken.html" title="Проблеми са звуком"><span class="title">Проблеми са звуком</span><span class="linkdiv-dash"> — </span><span class="desc">Решите проблеме као што је непостојање звука или звук лошег квалитета.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-alert.html" title="Изаберите или искључите звук упозорења"><span class="title">Изаберите или искључите звук упозорења</span><span class="linkdiv-dash"> — </span><span class="desc">Изаберите звук за поруке, подесите јачину звука упозорења, или искључите звуке упозорења.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-volume.html" title="Измените јачину звука"><span class="title">Измените јачину звука</span><span class="linkdiv-dash"> — </span><span class="desc">Подесите јачину звука на рачунару и одредите гласност сваког програма.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-broken.html.sr" title="Проблеми са звуком"><span class="title">Проблеми са звуком</span><span class="linkdiv-dash"> — </span><span class="desc">Решите проблеме као што је непостојање звука или звук лошег квалитета.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-alert.html.sr" title="Изаберите или искључите звук упозорења"><span class="title">Изаберите или искључите звук упозорења</span><span class="linkdiv-dash"> — </span><span class="desc">Изаберите звук за поруке, подесите јачину звука упозорења, или искључите звуке упозорења.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-volume.html.sr" title="Измените јачину звука"><span class="title">Измените јачину звука</span><span class="linkdiv-dash"> — </span><span class="desc">Подесите јачину звука на рачунару и одредите гласност сваког програма.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html" title="Користите друге звучнике или слушалице"><span class="title">Користите друге звучнике или слушалице</span><span class="linkdiv-dash"> — </span><span class="desc">Повежите звучнике или слушалице и изаберите основни излазни звучни уређај.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html" title="Користите други микрофон"><span class="title">Користите други микрофон</span><span class="linkdiv-dash"> — </span><span class="desc">Користите аналоган или УСБ микрофон и изаберите основни улазни уређај.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html.sr" title="Користите друге звучнике или слушалице"><span class="title">Користите друге звучнике или слушалице</span><span class="linkdiv-dash"> — </span><span class="desc">Повежите звучнике или слушалице и изаберите основни излазни звучни уређај.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html.sr" title="Користите други микрофон"><span class="title">Користите други микрофон</span><span class="linkdiv-dash"> — </span><span class="desc">Користите аналоган или УСБ микрофон и изаберите основни улазни уређај.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Још података</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html" title="Кориснички налози">кориснички налози</a></span>…</span>
+<a href="prefs.html.sr" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html.sr" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html.sr" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html.sr" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html.sr" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html.sr" title="Кориснички налози">кориснички налози</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -78,33 +78,33 @@
 <div class="hgroup"><h2 class="title"><span class="title">Музика и преносни музички уређаји</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html" title="Мој нови иПод неће да ради"><span class="title">Мој нови иПод неће да ради</span><span class="linkdiv-dash"> — </span><span class="desc">Потпуно нови иПодови морају бити подешени употребом софтвера иТјунса пре њиховог коришћења.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html" title="Не могу да пуштам песме које сам купио у продавници на мрежи"><span class="title">Не могу да пуштам песме које сам купио у продавници на мрежи</span><span class="linkdiv-dash"> — </span><span class="desc">Можда није инсталирана подршка за тај формат датотеке или су песме „заштићене од умножавања“.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html.sr" title="Мој нови иПод неће да ради"><span class="title">Мој нови иПод неће да ради</span><span class="linkdiv-dash"> — </span><span class="desc">Потпуно нови иПодови морају бити подешени употребом софтвера иТјунса пре њиховог коришћења.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html.sr" title="Не могу да пуштам песме које сам купио у продавници на мрежи"><span class="title">Не могу да пуштам песме које сам купио у продавници на мрежи</span><span class="linkdiv-dash"> — </span><span class="desc">Можда није инсталирана подршка за тај формат датотеке или су песме „заштићене од умножавања“.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Отворите програме за уређаје или дискове"><span class="title">Отворите програме за уређаје или дискове</span><span class="linkdiv-dash"> — </span><span class="desc">Самостално покрените програме за ЦД и ДВД дискове, фото-апарате, музичке уређаје, и остале уређаје и медије.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html" title="Песме се не појављују на иПоду када их умножим на њ"><span class="title">Песме се не појављују на иПоду када их умножим на њ</span><span class="linkdiv-dash"> — </span><span class="desc">Користите медијски програм да умножите песме и да након тога безбедно уклоните иПод.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.sr" title="Отворите програме за уређаје или дискове"><span class="title">Отворите програме за уређаје или дискове</span><span class="linkdiv-dash"> — </span><span class="desc">Самостално покрените програме за ЦД и ДВД дискове, фото-апарате, музичке уређаје, и остале уређаје и медије.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html.sr" title="Песме се не појављују на иПоду када их умножим на њ"><span class="title">Песме се не појављују на иПоду када их умножим на њ</span><span class="linkdiv-dash"> — </span><span class="desc">Користите медијски програм да умножите песме и да након тога безбедно уклоните иПод.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="photos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Фотографије и дигитални фотоапарати</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Отворите програме за уређаје или дискове"><span class="title">Отворите програме за уређаје или дискове</span><span class="linkdiv-dash"> — </span><span class="desc">Самостално покрените програме за ЦД и ДВД дискове, фото-апарате, музичке уређаје, и остале уређаје и медије.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html" title="Проблеми читача медијских картица"><span class="title">Проблеми читача медијских картица</span><span class="linkdiv-dash"> — </span><span class="desc">Решите проблеме читача медијских картица</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.sr" title="Отворите програме за уређаје или дискове"><span class="title">Отворите програме за уређаје или дискове</span><span class="linkdiv-dash"> — </span><span class="desc">Самостално покрените програме за ЦД и ДВД дискове, фото-апарате, музичке уређаје, и остале уређаје и медије.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html.sr" title="Проблеми читача медијских картица"><span class="title">Проблеми читача медијских картица</span><span class="linkdiv-dash"> — </span><span class="desc">Решите проблеме читача медијских картица</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="videos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Видео снимци и видео камере</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="video-sending.html" title="Друге особе не могу да пуштају снимке које сам направио"><span class="title">Друге особе не могу да пуштају снимке које сам направио</span><span class="linkdiv-dash"> — </span><span class="desc">Проверите да ли имају инсталиране одговарајуће видео кодеке.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd.html" title="Зашто не могу да пустим ДВД?"><span class="title">Зашто не могу да пустим ДВД?</span><span class="linkdiv-dash"> — </span><span class="desc">Можда немате инсталиране одговарајуће кодеке, или је ДВД из погрешног региона.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Отворите програме за уређаје или дискове"><span class="title">Отворите програме за уређаје или дискове</span><span class="linkdiv-dash"> — </span><span class="desc">Самостално покрените програме за ЦД и ДВД дискове, фото-апарате, музичке уређаје, и остале уређаје и медије.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-sending.html.sr" title="Друге особе не могу да пуштају снимке које сам направио"><span class="title">Друге особе не могу да пуштају снимке које сам направио</span><span class="linkdiv-dash"> — </span><span class="desc">Проверите да ли имају инсталиране одговарајуће видео кодеке.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd.html.sr" title="Зашто не могу да пустим ДВД?"><span class="title">Зашто не могу да пустим ДВД?</span><span class="linkdiv-dash"> — </span><span class="desc">Можда немате инсталиране одговарајуће кодеке, или је ДВД из погрешног региона.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.sr" title="Отворите програме за уређаје или дискове"><span class="title">Отворите програме за уређаје или дискове</span><span class="linkdiv-dash"> — </span><span class="desc">Самостално покрените програме за ЦД и ДВД дискове, фото-апарате, музичке уређаје, и остале уређаје и медије.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="app-cheese.html" title="Снимите забавне фотографије и снимке вашом веб камерицом"><span class="title">Снимите забавне фотографије и снимке вашом веб камерицом</span><span class="linkdiv-dash"> — </span><span class="desc">Као ваша сопствена лична фотографска кабина.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html" title="Како да укључим ограничене кодеке да бих пуштао ДВД?"><span class="title">Како да укључим ограничене кодеке да бих пуштао ДВД?</span><span class="linkdiv-dash"> — </span><span class="desc">Већина комерцијалних ДВД-а је шифрована и неће пуштати садржај без софтвера за дешифровање.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="app-cheese.html.sr" title="Снимите забавне фотографије и снимке вашом веб камерицом"><span class="title">Снимите забавне фотографије и снимке вашом веб камерицом</span><span class="linkdiv-dash"> — </span><span class="desc">Као ваша сопствена лична фотографска кабина.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html.sr" title="Како да укључим ограничене кодеке да бих пуштао ДВД?"><span class="title">Како да укључим ограничене кодеке да бих пуштао ДВД?</span><span class="linkdiv-dash"> — </span><span class="desc">Већина комерцијалних ДВД-а је шифрована и неће пуштати садржај без софтвера за дешифровање.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -112,7 +112,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Убунтуов водич за радну површ">Убунтуов водич за радну површ</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.sr" title="Убунтуов водич за радну површ">Убунтуов водич за радну површ</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="power.html" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="power.html.el" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="power.html" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="power.html.el" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Όταν <span class="em">αναστέλλετε</span> τον υπολογιστή, τον στέλνετε για ύπνο. Όλα τα έγγραφα και οι εφαρμογές σας παραμένουν ανοικτές, αλλά η οθόνη και άλλα μέρη του υπολογιστή απενεργοποιούνται για εξοικονόμηση ισχύος. Ο υπολογιστής είναι ακόμα αναμμένος όμως και θα χρησιμοποιεί ακόμα μια μικρή ποσότητα ισχύος. Μπορείτε να τον ξυπνήσετε πατώντας ένα πλήκτρο ή κάνοντας κλικ το ποντίκι. Εάν αυτό δεν δουλέψει, δοκιμάστε πατώντας το κουμπί ισχύος.</p>
-<p class="p">Μερικοί υπολογιστές έχουν προβλήματα με την υποστήριξη υλικού που σημαίνει ότι <span class="link"><a href="power-suspendfail.html" title="Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;">ενδέχεται να μην μπορούν να ανασταλούν ή να αδρανοποιηθούν σωστά</a></span>. Είναι καλή ιδέα να δοκιμάσετε την αναστολή του υπολογιστή σας για να δείτε εάν δουλεύει πριν να βασιστείτε σε αυτό.</p>
+<p class="p">Μερικοί υπολογιστές έχουν προβλήματα με την υποστήριξη υλικού που σημαίνει ότι <span class="link"><a href="power-suspendfail.html.el" title="Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;">ενδέχεται να μην μπορούν να ανασταλούν ή να αδρανοποιηθούν σωστά</a></span>. Είναι καλή ιδέα να δοκιμάσετε την αναστολή του υπολογιστή σας για να δείτε εάν δουλεύει πριν να βασιστείτε σε αυτό.</p>
 <div class="note note-important" title="Σημαντικό"><div class="inner">
 <div class="title title-note"><h2><span class="title">Αποθηκεύστε πάντα την εργασία σας πριν την αναστολή</span></h2></div>
 <div class="region"><div class="contents"><p class="p">Θα πρέπει να αποθηκεύσετε όλη την εργασία σας πριν την αναστολή του υπολογιστή, για την περίπτωση που κάτι πάει στραβά και οι ανοικτές σας εφαρμογές και τα έγγραφα δεν μπορούν να ανακτηθούν όταν συνεχίσετε με τον υπολογιστή σας.</p></div></div>
@@ -66,10 +66,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;">screen dimming</a></span>…
+<a href="power.html.el" title="Ενέργεια &amp; μπαταρία">Ενέργεια &amp; μπαταρία</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.el" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.el" title="Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.el" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -77,17 +77,17 @@
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-autosuspend.html.el" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Αναστολή">Αναστολή</a></li>
+<li class="links "><a href="shell-exit.html.el#suspend" title="Αναστολή">Αναστολή</a></li>
 <li class="links ">
-<a href="power-closelid.html" title="Γιατί ο υπολογιστής μου απενεργοποιείται όταν κλείνω το καπάκι;">Γιατί ο υπολογιστής μου απενεργοποιείται όταν κλείνω το καπάκι;</a><span class="desc"> — Οι φορητοί υπολογιστές αδρανοποιούνται όταν κλείνετε το καπάκι, για να αποθηκεύσουν ισχύ.</span>
-</li>
-<li class="links ">
-<a href="power-suspendfail.html" title="Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;">Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;</a><span class="desc"> — Κάποια εξαρτήματα υπολογιστών προκαλούν προβλήματα με την αναστολή.</span>
+<a href="power-closelid.html.el" title="Γιατί ο υπολογιστής μου απενεργοποιείται όταν κλείνω το καπάκι;">Γιατί ο υπολογιστής μου απενεργοποιείται όταν κλείνω το καπάκι;</a><span class="desc"> — Οι φορητοί υπολογιστές αδρανοποιούνται όταν κλείνετε το καπάκι, για να αποθηκεύσουν ισχύ.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας">Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας</a><span class="desc"> — Συμβουλές για μείωση της κατανάλωσης ισχύος του υπολογιστή σας.</span>
+<a href="power-suspendfail.html.el" title="Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;">Γιατί ο υπολογιστής μου δεν επιστρέφει μετά την αναστολή;</a><span class="desc"> — Κάποια εξαρτήματα υπολογιστών προκαλούν προβλήματα με την αναστολή.</span>
+</li>
+<li class="links ">
+<a href="power-batterylife.html.el" title="Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας">Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας</a><span class="desc"> — Συμβουλές για μείωση της κατανάλωσης ισχύος του υπολογιστή σας.</span>
 </li>
 </ul></div>
 </div></div>

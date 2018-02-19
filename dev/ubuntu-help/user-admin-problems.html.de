@@ -43,35 +43,35 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="user-accounts.html" title="Benutzerkonten">Benutzer</a> › <a class="trail" href="user-accounts.html#privileges" title="Benutzerrechte">Rechte</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="user-accounts.html.de" title="Benutzerkonten">Benutzer</a> › <a class="trail" href="user-accounts.html.de#privileges" title="Benutzerrechte">Rechte</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Durch administrative Einschränkungen verursachte Probleme</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Wenn Sie keine <span class="link"><a href="user-admin-explain.html" title="Wie funktionieren Systemverwalter-Privilegien?">Systemverwalterrechte</a></span> haben, könnten in bestimmten Bereichen Probleme auftreten. Einige Dinge funktionieren nur dann, wenn Sie Systemverwalterrechte haben, zum Beispiel:</p>
+<p class="p">Wenn Sie keine <span class="link"><a href="user-admin-explain.html.de" title="Wie funktionieren Systemverwalter-Privilegien?">Systemverwalterrechte</a></span> haben, könnten in bestimmten Bereichen Probleme auftreten. Einige Dinge funktionieren nur dann, wenn Sie Systemverwalterrechte haben, zum Beispiel:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Verbindung mit kabelgebundenen/drahtlosen Netzwerken herstellen,</p></li>
 <li class="list"><p class="p">Anzeigen des Inhalts eines am Rechner angeschlossenen Wechseldatenträgers oder des Inhalts einer anderen Festplatten-Partition, zum Beispiel einer Windows-Partition, oder</p></li>
 <li class="list"><p class="p">Installation neuer Anwendungen.</p></li>
 </ul></div></div></div>
-<p class="p">Sie können <span class="link"><a href="user-admin-change.html" title="Ändern der Inhaber von Systemverwalterrechten">ändern, wer über Systemverwalterrechte verfügen soll</a></span>.</p>
+<p class="p">Sie können <span class="link"><a href="user-admin-change.html.de" title="Ändern der Inhaber von Systemverwalterrechten">ändern, wer über Systemverwalterrechte verfügen soll</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Benutzerrechte">Benutzerrechte</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.de#privileges" title="Benutzerrechte">Benutzerrechte</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Wie funktionieren Systemverwalter-Privilegien?">Wie funktionieren Systemverwalter-Privilegien?</a><span class="desc"> — Sie benötigen Systemverwalterrechte, um Änderungen an wichtigen Teilen Ihres Systems vorzunehmen.</span>
+<a href="user-admin-explain.html.de" title="Wie funktionieren Systemverwalter-Privilegien?">Wie funktionieren Systemverwalter-Privilegien?</a><span class="desc"> — Sie benötigen Systemverwalterrechte, um Änderungen an wichtigen Teilen Ihres Systems vorzunehmen.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="Ändern der Inhaber von Systemverwalterrechten">Ändern der Inhaber von Systemverwalterrechten</a><span class="desc"> — Sie können ändern, welche Benutzer Änderungen am System vornehmen dürfen, indem Sie Ihnen Systemverwalterrechte geben.</span>
+<a href="user-admin-change.html.de" title="Ändern der Inhaber von Systemverwalterrechten">Ändern der Inhaber von Systemverwalterrechten</a><span class="desc"> — Sie können ändern, welche Benutzer Änderungen am System vornehmen dürfen, indem Sie Ihnen Systemverwalterrechte geben.</span>
 </li>
 </ul></div>
 </div></div>

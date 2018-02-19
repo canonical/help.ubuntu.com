@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="hardware-problems-graphics.html" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="hardware-problems-graphics.html.el" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="prefs-display.html" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="prefs-display.html.el" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,19 +54,19 @@
 <div class="region">
 <div class="contents">
 <p class="p">Με βάση το υλικό σας, μπορείτε να αλλάξετε τη φωτεινόητα της οθόνης σας για να εξοικονομήσετε ενέργεια ή για να την κάνετε πιο ευανάγνωστη στο λαμπερό φως.</p>
-<p class="p">Για να αλλάξετε τη φωτεινότητα της οθόνης σας, κάντε κλικ στο <span class="gui"><a href="shell-introduction.html#yourname" title="Εσείς και ο υπολογιστή σας">μενού συστήματος</a></span> στα δεξιά της πάνω γραμμής και προσαρμόστε τη φωτεινότητα οθόνης χρησιμοποιώντας τον ολισθητή. Η αλλαγή πρέπει να εμφανιστεί αμέσως.</p>
+<p class="p">Για να αλλάξετε τη φωτεινότητα της οθόνης σας, κάντε κλικ στο <span class="gui"><a href="shell-introduction.html.el#yourname" title="Εσείς και ο υπολογιστή σας">μενού συστήματος</a></span> στα δεξιά της πάνω γραμμής και προσαρμόστε τη φωτεινότητα οθόνης χρησιμοποιώντας τον ολισθητή. Η αλλαγή πρέπει να εμφανιστεί αμέσως.</p>
 <div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Αρκετά πληκτρολόγια φορητών υπολογιστών έχουν ειδικά πλήκτρα για την προσαρμογή της φωτεινότητας. Συνήθως απεικονίζουν έναν ήλιο που μοιάζει με ήλιο. Κρατήστε πατημένο το πλήκτρο <span class="key"><kbd class="key-Fn">Fn</kbd></span> για να τα χρησιμοποιήσετε.</p></div></div></div></div>
 <p class="p">Μπορείτε επίσης να προσαρμόσετε τη φωτεινότητα της οθόνης χρησιμοποιώντας τον πίνακα <span class="gui">Ενέργεια</span>.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Για να ορίσετε τη φωτεινότητα της οθόνης χρησιμοποιώντας τον πίνακα «Ενέργεια»:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ενέργεια</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ενέργεια</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ενέργεια</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Προσαρμόστε τη <span class="gui">Φωτεινότητα οθόνης</span> χρησιμοποιώντας τον ολισθητήτη. Η αλλαγή πρέπει να εμφανιστεί αμέσως.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Αν ο υπολογιστής σας διαθέτει έναν ενσωματωμένο αισθητήρα φωτός, η φωτεινότητα θα προσαρμοστεί αυτόματα για εσάς. Μπορείτε να απενεργοποιήσετε την αυτόματη φωτεινότητα στον πίνακα <span class="gui">Ενέργεια</span>.</p></div></div></div></div>
-<p class="p">Αν είναι δυνατό να ορίσετε την φωτεινότητα της οθόνης σας, τότε μπορεί να θέλετε η οθόνη σας να σβήνει αυτόματα για εξοικονόμηση ενέργειας. Για περισσότερες πληροφορίες, δείτε <span class="link"><a href="power-whydim.html" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;">Γιατί η οθόνη μου εξασθενεί μετά από λίγο;</a></span>.</p>
+<p class="p">Αν είναι δυνατό να ορίσετε την φωτεινότητα της οθόνης σας, τότε μπορεί να θέλετε η οθόνη σας να σβήνει αυτόματα για εξοικονόμηση ενέργειας. Για περισσότερες πληροφορίες, δείτε <span class="link"><a href="power-whydim.html.el" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;">Γιατί η οθόνη μου εξασθενεί μετά από λίγο;</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -75,10 +75,10 @@
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος">Παρασκήνιο</a></span>, <span class="link"><a href="look-resolution.html" title="Αλλαγή της ανάλυσης ή της περιστροφής της οθόνης">Μέγεθος και περιστροφή</a></span>, φωτεινότητα…</span>
+<a href="prefs-display.html.el" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a><span class="desc"> — <span class="link"><a href="look-background.html.el" title="Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος">Παρασκήνιο</a></span>, <span class="link"><a href="look-resolution.html.el" title="Αλλαγή της ανάλυσης ή της περιστροφής της οθόνης">Μέγεθος και περιστροφή</a></span>, φωτεινότητα…</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a><span class="desc"> — Λύστε προβλήματα οθόνης και γραφικών.</span>
+<a href="hardware-problems-graphics.html.el" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a><span class="desc"> — Λύστε προβλήματα οθόνης και γραφικών.</span>
 </li>
 </ul></div>
 </div></div>
@@ -86,17 +86,17 @@
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autobrightness.html" title="Enable automatic brightness">Enable automatic brightness</a><span class="desc"> — Automatically control screen brightness to reduce battery use.</span>
+<a href="power-autobrightness.html.el" title="Enable automatic brightness">Enable automatic brightness</a><span class="desc"> — Automatically control screen brightness to reduce battery use.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;">Γιατί η οθόνη μου εξασθενεί μετά από λίγο;</a><span class="desc"> — Η οθόνη θα εξασθενίσει όταν ο υπολογιστής είναι αδρανής για να εξοικονομήσει ισχύ.</span>
+<a href="power-whydim.html.el" title="Γιατί η οθόνη μου εξασθενεί μετά από λίγο;">Γιατί η οθόνη μου εξασθενεί μετά από λίγο;</a><span class="desc"> — Η οθόνη θα εξασθενίσει όταν ο υπολογιστής είναι αδρανής για να εξοικονομήσει ισχύ.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="Προσαρμογή της αντίθεσης">Προσαρμογή της αντίθεσης</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
+<a href="a11y-contrast.html.el" title="Προσαρμογή της αντίθεσης">Προσαρμογή της αντίθεσης</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
     they’re easier to see.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας">Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας</a><span class="desc"> — Συμβουλές για μείωση της κατανάλωσης ισχύος του υπολογιστή σας.</span>
+<a href="power-batterylife.html.el" title="Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας">Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας</a><span class="desc"> — Συμβουλές για μείωση της κατανάλωσης ισχύος του υπολογιστή σας.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-email.html" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-email.html.el" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Αλλάξτε ποια εφαρμογή αλληλογραφίας χρησιμοποιείται για συγγραφή ηλεκτρονικής αλληλογραφίας</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Όταν κάνετε κλικ σε ένα κουμπί ή σύνδεσμο για να στείλετε μια νέα ηλεκτρονική αλληλογγραφία (για παράδειγμα, στην εφαρμογή επεξεργασίας κειμένου), η προεπιλεγμένη εφαρμογή αλληλογραφίας θα ανοίξει με ένα κενό μήνυμα, έτοιμο για να το γράψετε. Όμως, αν έχετε περισσότερες από μια εφαρμογές αλληλογραφίας εγκατεστημένες, η εσφαλμένη εφαρμογή αλληλογραφίας μπορεί να ανοίξει. Μπορείτε να το διορθώσετε αλλάζοντας την προεπιλεγμένη εφαρμογή ηλεκτρονικής αλληλογραφίας:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Λεπτομέρειες</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Λεπτομέρειες</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Λεπτομέρειες</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Επιλέξτε <span class="gui">Προεπιλεγμένες εφαρμογές</span> από τον κατάλογο στα αριστερά του παραθύρου.</p></li>
 <li class="steps"><p class="p">Επιλέξτε ποιος πελάτης ηλεκτρονικής αλληλογραφίας θα θέλατε να χρησιμοποιηθεί από προεπιλογή αλλάζοντας την επιλογή <span class="gui">Αλληλογραφία</span>.</p></li>
@@ -62,7 +62,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email.html" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας</a><span class="desc"> — <span class="link"><a href="net-default-email.html" title="Αλλάξτε ποια εφαρμογή αλληλογραφίας χρησιμοποιείται για συγγραφή ηλεκτρονικής αλληλογραφίας">Προεπιλεγμένες εφαρμογές αλληλογραφίας</a></span>, <span class="link"><a href="net-email-virus.html" title="Χρειάζεται να σαρώνω την ηλεκτρονική αλληλογγραφία μου για ιούς;">Πρέπει να σαρώσω τον υπολογιστή μου για ιούς;</a></span>…</span>
+<a href="net-email.html.el" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας</a><span class="desc"> — <span class="link"><a href="net-default-email.html.el" title="Αλλάξτε ποια εφαρμογή αλληλογραφίας χρησιμοποιείται για συγγραφή ηλεκτρονικής αλληλογραφίας">Προεπιλεγμένες εφαρμογές αλληλογραφίας</a></span>, <span class="link"><a href="net-email-virus.html.el" title="Χρειάζεται να σαρώνω την ηλεκτρονική αλληλογγραφία μου για ιούς;">Πρέπει να σαρώσω τον υπολογιστή μου για ιούς;</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

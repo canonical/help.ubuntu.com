@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html#common-file-tasks" title="Biežākie uzdevumi">Biežākie uzdevumi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.lv" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html.lv#common-file-tasks" title="Biežākie uzdevumi">Biežākie uzdevumi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Dzēst datnes un mapes</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Ja datne vai mape jums vairs nav vajadzīga, to var dzēst. Kad dzēšat vienumu, tas tiek pārvietots uz mapi <span class="gui">Miskaste</span>, kur tas glabāsies, līdz jūs iztīrīsiet miskasti. Vienumus no miskastes var <span class="link"><a href="files-recover.html" title="Atjaunot datni no miskastes">atjaunot tajā vietā, no kuras tie ir izdzēsti</a></span>, ja tie izrādās vajadzīgi vai ir izdzēsti nejauši.</p>
+<p class="p">Ja datne vai mape jums vairs nav vajadzīga, to var dzēst. Kad dzēšat vienumu, tas tiek pārvietots uz mapi <span class="gui">Miskaste</span>, kur tas glabāsies, līdz jūs iztīrīsiet miskasti. Vienumus no miskastes var <span class="link"><a href="files-recover.html.lv" title="Atjaunot datni no miskastes">atjaunot tajā vietā, no kuras tie ir izdzēsti</a></span>, ja tie izrādās vajadzīgi vai ir izdzēsti nejauši.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Lai aizsūtītu datni uz miskasti:</span></h2></div>
 <div class="region"><ol class="steps">
@@ -72,7 +72,7 @@
 <li class="steps"><p class="p">Tā kā šo darbību nevar atsaukt, jums tiks prasīts apstiprinājums, ka tiešām vēlaties izdzēst datni vai mapi.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Izdzēstās datnes <span class="link"><a href="files.html#removable" title="Izņemamie dziņi un ārējie diski">noņemamās ierīcēs</a></span> var būt neredzamas citās operētājsistēmās, piemēram, Windows vai Mac OS. Šīs datnes joprojām tur ir, un būs pieejami, kad ierīce tiks pievienota datoram.</p></div></div></div></div>
+<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Izdzēstās datnes <span class="link"><a href="files.html.lv#removable" title="Izņemamie dziņi un ārējie diski">noņemamās ierīcēs</a></span> var būt neredzamas citās operētājsistēmās, piemēram, Windows vai Mac OS. Šīs datnes joprojām tur ir, un būs pieejami, kad ierīce tiks pievienota datoram.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -80,15 +80,15 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Biežākie uzdevumi">Biežākie uzdevumi</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.lv#common-file-tasks" title="Biežākie uzdevumi">Biežākie uzdevumi</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-recover.html" title="Atjaunot datni no miskastes">Atjaunot datni no miskastes</a><span class="desc"> — Parasti dzēstās datnes tiek aizsūtītas uz miskasti, bet tās var atgūt.</span>
+<a href="files-recover.html.lv" title="Atjaunot datni no miskastes">Atjaunot datni no miskastes</a><span class="desc"> — Parasti dzēstās datnes tiek aizsūtītas uz miskasti, bet tās var atgūt.</span>
 </li>
-<li class="links "><a href="nautilus-behavior.html#trash" title="Miskaste">Datņu pārvaldnieka miskastes iestatījumi</a></li>
+<li class="links "><a href="nautilus-behavior.html.lv#trash" title="Miskaste">Datņu pārvaldnieka miskastes iestatījumi</a></li>
 </ul></div>
 </div></div>
 </div>

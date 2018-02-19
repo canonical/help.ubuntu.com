@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.de" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html.de#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Eine Datei aus dem Papierkorb wiederherstellen</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">So stellen Sie eine Datei aus dem Papierkorb wieder her:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Dateien</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Dateien</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="app">Dateien</span>, um die Dateiverwaltung zu öffnen.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Papierkorb</span> in der Seitenleiste. Wenn die Seitenleiste nicht sichtbar ist, klicken Sie auf <span class="gui">Dateien</span> im oberen Panel und dann auf <span class="gui">Seitenleiste</span>.</p></li>
 <li class="steps"><p class="p">Wenn Ihre gelöschte Datei dort ist, klicken Sie mit der rechten Maustaste darauf und wählen Sie <span class="gui">Wiederherstellen</span>. Sie wird in dem Ordner wiederhergestellt, in dem sie gelöscht wurde.</p></li>
@@ -67,16 +67,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.de#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-delete.html" title="Dateien und Ordner löschen">Dateien und Ordner löschen</a><span class="desc"> — Entfernen Sie Dateien oder Ordner, die Sie nicht mehr benötigen.</span>
+<a href="files-delete.html.de" title="Dateien und Ordner löschen">Dateien und Ordner löschen</a><span class="desc"> — Entfernen Sie Dateien oder Ordner, die Sie nicht mehr benötigen.</span>
 </li>
 <li class="links ">
-<a href="files-lost.html" title="Eine verlorene Datei finden">Eine verlorene Datei finden</a><span class="desc"> — Beachten Sie diese Hinweise, wenn Sie eine Datei nicht wiederfinden können, die Sie erstellt oder heruntergeladen haben.</span>
+<a href="files-lost.html.de" title="Eine verlorene Datei finden">Eine verlorene Datei finden</a><span class="desc"> — Beachten Sie diese Hinweise, wenn Sie eine Datei nicht wiederfinden können, die Sie erstellt oder heruntergeladen haben.</span>
 </li>
 </ul></div>
 </div></div>

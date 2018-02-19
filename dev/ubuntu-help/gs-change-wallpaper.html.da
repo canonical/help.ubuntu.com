@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Kom godt i gang">Kom godt i gang med GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.da" title="Kom godt i gang">Kom godt i gang med GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Ændr dato, klokkeslæt og tidszone">Forrige</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.da" title="Ændr dato, klokkeslæt og tidszone">Forrige</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">Skift baggrundstapetet</span></h1></div>
 <div class="region">
 <div class="contents"><div class="ui-tile ">
@@ -67,7 +67,7 @@
 <div id="change-wallpaper-overview" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Skift baggrundstapetet</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klik på <span class="gui"><a href="shell-introduction.html#yourname" title="Dig og din computer">systemmenuen</a></span> på højre side af toplinjen.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui"><a href="shell-introduction.html.da#yourname" title="Dig og din computer">systemmenuen</a></span> på højre side af toplinjen.</p></li>
 <li class="steps"><p class="p">Klik på knappen indstillinger nederst til venstre i menuen.</p></li>
 <li class="steps"><p class="p">Klik på panelet <span class="gui">Baggrund</span>.</p></li>
 <li class="steps"><p class="p">Klik på det nuværende baggrundsbillede i venstre side af vinduet <span class="gui">Baggrund</span>.</p></li>
@@ -76,20 +76,20 @@
 <li class="steps"><p class="p">Luk vinduet <span class="gui">Baggrund</span> ved at klikke på krydset øverst til højre i vinduet.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Ændr dato, klokkeslæt og tidszone">Forrige</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.da" title="Ændr dato, klokkeslæt og tidszone">Forrige</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Kom godt i gang">Kom godt i gang med GNOME</a><span class="desc"> — Er GNOME nyt for dig? Lær at finde rundt.</span>
+<a href="getting-started.html.da" title="Kom godt i gang">Kom godt i gang med GNOME</a><span class="desc"> — Er GNOME nyt for dig? Lær at finde rundt.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-background.html" title="Change the desktop and lock screen backgrounds">Change the desktop and lock screen backgrounds</a><span class="desc"> — Set an image, color, or gradient as your desktop background or lock
+<a href="look-background.html.da" title="Change the desktop and lock screen backgrounds">Change the desktop and lock screen backgrounds</a><span class="desc"> — Set an image, color, or gradient as your desktop background or lock
     screen background.</span>
 </li></ul></div>
 </div></div>

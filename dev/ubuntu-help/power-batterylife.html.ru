@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="power.html" title="Питание и аккумулятор">Питание и аккумулятор</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="power.html.ru" title="Питание и аккумулятор">Питание и аккумулятор</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="power.html" title="Питание и аккумулятор">Питание и аккумулятор</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="power.html.ru" title="Питание и аккумулятор">Питание и аккумулятор</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,14 +56,14 @@
 <div id="general" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Общие советы</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#suspend" title="Ждущий режим">Переводите компьютер в ждущий режим</a></span>, когда не пользуетесь им. Это значительно уменьшает энергопотребление и позволяет быстро вернуть его в рабочий режим.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#shutdown" title="Выключение или перезапуск">Выключайте</a></span> компьютер, если не собираетесь им пользоваться в ближайшее время. Некоторые люди беспокоятся, что при регулярном выключении компьютера его аппаратные компоненты быстрее изнашиваются, но в данном случае это не так.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.ru#suspend" title="Ждущий режим">Переводите компьютер в ждущий режим</a></span>, когда не пользуетесь им. Это значительно уменьшает энергопотребление и позволяет быстро вернуть его в рабочий режим.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.ru#shutdown" title="Выключение или перезапуск">Выключайте</a></span> компьютер, если не собираетесь им пользоваться в ближайшее время. Некоторые люди беспокоятся, что при регулярном выключении компьютера его аппаратные компоненты быстрее изнашиваются, но в данном случае это не так.</p></li>
 <li class="list"><p class="p">Use the <span class="gui">Power</span> panel in <span class="app">Settings</span> to change your
     power settings. There are a number of options that will help to save power:
-    you can <span class="link"><a href="display-blank.html" title="Set screen blanking time">automatically blank the screen</a></span>
-    after a certain time, reduce the <span class="link"><a href="display-brightness.html" title="Set screen brightness">screen
+    you can <span class="link"><a href="display-blank.html.ru" title="Set screen blanking time">automatically blank the screen</a></span>
+    after a certain time, reduce the <span class="link"><a href="display-brightness.html.ru" title="Set screen brightness">screen
     brightness</a></span>, and have the computer
-    <span class="link"><a href="power-autosuspend.html" title="Set up automatic suspend">automatically suspend</a></span> if you have not
+    <span class="link"><a href="power-autosuspend.html.ru" title="Set up automatic suspend">automatically suspend</a></span> if you have not
     used it for a certain period of time.</p></li>
 <li class="list"><p class="p">Отключайте все внешние устройства (типа принтеров и сканеров), когда не пользуетесь ими.</p></li>
 </ul></div></div></div></div></div>
@@ -72,7 +72,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Ноутбуки, нетбуки и другие устройства с аккумуляторами</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Reduce the <span class="link"><a href="display-brightness.html" title="Set screen brightness">screen
+<p class="p">Reduce the <span class="link"><a href="display-brightness.html.ru" title="Set screen brightness">screen
      brightness</a></span>. Powering the screen accounts for a significant fraction
      of a laptop power consumption.</p>
 <p class="p">На клавиатурах большинства ноутбуков есть кнопки (или комбинации клавиш) для уменьшения яркости.</p>
@@ -100,10 +100,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Питание и аккумулятор">Питание и аккумулятор</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Что происходит при переходе компьютера в ждущий режим?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Почему мой экран через некоторое время гаснет?">screen dimming</a></span>…
+<a href="power.html.ru" title="Питание и аккумулятор">Питание и аккумулятор</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.ru" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.ru" title="Что происходит при переходе компьютера в ждущий режим?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.ru" title="Почему мой экран через некоторое время гаснет?">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -111,25 +111,25 @@
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-status.html" title="Check the battery status">Check the battery status</a><span class="desc"> — Display the status of the battery and connected devices.</span>
+<a href="power-status.html.ru" title="Check the battery status">Check the battery status</a><span class="desc"> — Display the status of the battery and connected devices.</span>
 </li>
 <li class="links ">
-<a href="display-brightness.html" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
+<a href="display-brightness.html.ru" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
     light.</span>
 </li>
 <li class="links ">
-<a href="power-wireless.html" title="Switch off unused wireless technologies">Switch off unused wireless technologies</a><span class="desc"> — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span>
+<a href="power-wireless.html.ru" title="Switch off unused wireless technologies">Switch off unused wireless technologies</a><span class="desc"> — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span>
 </li>
-<li class="links "><a href="shell-exit.html#shutdown" title="Выключение или перезапуск">Выключение или перезапуск</a></li>
-<li class="links "><a href="shell-exit.html#suspend" title="Ждущий режим">Ждущий режим</a></li>
+<li class="links "><a href="shell-exit.html.ru#shutdown" title="Выключение или перезапуск">Выключение или перезапуск</a></li>
+<li class="links "><a href="shell-exit.html.ru#suspend" title="Ждущий режим">Ждущий режим</a></li>
 <li class="links ">
-<a href="power-whydim.html" title="Почему мой экран через некоторое время гаснет?">Почему мой экран через некоторое время гаснет?</a><span class="desc"> — В целях экономии энергии, во время простоя компьютера экран гаснет.</span>
-</li>
-<li class="links ">
-<a href="power-batterywindows.html" title="Почему у меня время работы от аккумулятора ниже, чем было в Windows/Mac OS?">Почему у меня время работы от аккумулятора ниже, чем было в Windows/Mac OS?</a><span class="desc"> — Причиной этой проблемы могут быть тонкие настройки от производителя и отличающийся метод оценки времени работы аккумулятора.</span>
+<a href="power-whydim.html.ru" title="Почему мой экран через некоторое время гаснет?">Почему мой экран через некоторое время гаснет?</a><span class="desc"> — В целях экономии энергии, во время простоя компьютера экран гаснет.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Что происходит при переходе компьютера в ждущий режим?">Что происходит при переходе компьютера в ждущий режим?</a><span class="desc"> — В ждущем режиме компьютер «засыпает» и потребляет меньшую мощность.</span>
+<a href="power-batterywindows.html.ru" title="Почему у меня время работы от аккумулятора ниже, чем было в Windows/Mac OS?">Почему у меня время работы от аккумулятора ниже, чем было в Windows/Mac OS?</a><span class="desc"> — Причиной этой проблемы могут быть тонкие настройки от производителя и отличающийся метод оценки времени работы аккумулятора.</span>
+</li>
+<li class="links ">
+<a href="power-suspend.html.ru" title="Что происходит при переходе компьютера в ждущий режим?">Что происходит при переходе компьютера в ждущий режим?</a><span class="desc"> — В ждущем режиме компьютер «засыпает» и потребляет меньшую мощность.</span>
 </li>
 </ul></div>
 </div></div>

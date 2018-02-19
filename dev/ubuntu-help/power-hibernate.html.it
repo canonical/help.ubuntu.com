@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> » <a class="trail" href="power.html" title="Alimentazione e batteria">Alimentazione e batteria</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> » <a class="trail" href="power.html.it" title="Alimentazione e batteria">Alimentazione e batteria</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="power.html" title="Alimentazione e batteria">Alimentazione e batteria</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="power.html.it" title="Alimentazione e batteria">Alimentazione e batteria</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Quando il computer viene <span class="em">ibernato</span>, tutte le applicazioni e i documenti vengono memorizzati e il computer viene spento completamente senza quindi utilizzare energia elettrica. Nonostante ciò, tutte le applicazioni e i documenti rimarranno aperti quando il computer viene riacceso.</p>
-<p class="p">Sfortunatamente, l'ibernazione <span class="link"><a href="power-suspendfail.html" title="Why does my computer not turn back on after I suspended it?">non funziona</a></span> in molti casi e può causare la perdita di dati se si prevedeva, una volta acceso il computer, la riapertura dei documenti e delle applicazioni in uso. Per questo motivo l'ibernazione è stata disabilitata come impostazione predefinita.</p>
+<p class="p">Sfortunatamente, l'ibernazione <span class="link"><a href="power-suspendfail.html.it" title="Why does my computer not turn back on after I suspended it?">non funziona</a></span> in molti casi e può causare la perdita di dati se si prevedeva, una volta acceso il computer, la riapertura dei documenti e delle applicazioni in uso. Per questo motivo l'ibernazione è stata disabilitata come impostazione predefinita.</p>
 </div>
 <div id="test-hibernate" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Verificare il funzionamento dell'ibernazione</span></h2></div>
@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">È possibile utilizzare la riga di comando per verificare il funzionamento dell'ibernazione sul proprio computer.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Aprire il <span class="app">Terminale</span> premendo <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> o cercando <span class="input">terminale</span> nella <span class="gui">Dash</span>.</p></li>
+<li class="steps"><p class="p">Aprire il <span class="app">Terminale</span> cercando <span class="input">terminale</span> in <span class="gui">Attività</span>.</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Inserire la password quando richiesto.</p>
@@ -108,17 +108,17 @@ ResultActive=yes</pre></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Alimentazione e batteria">Alimentazione e batteria</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Cosa succede quando si sospende il computer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Perché lo schermo si oscura dopo un po' di tempo?">screen dimming</a></span>…
+<a href="power.html.it" title="Alimentazione e batteria">Alimentazione e batteria</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.it" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.it" title="Cosa succede quando si sospende il computer?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.it" title="Perché lo schermo si oscura dopo un po' di tempo?">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-suspendfail.html" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.it" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li></ul></div>
 </div></div>
 </div>

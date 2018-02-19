@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="网络术语与提示">网络术语与提示</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.zh-CN" title="网络术语与提示">网络术语与提示</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">使用网络时保持安全</span></h1></div>
@@ -59,9 +59,9 @@
 <p class="p">尽管已经有很多措施来保护您的 Linux 系统安全，但漏洞总会存在。作为一个普通网络用户，您仍容易遭受以下威胁：</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">网络钓鱼(尝试通过欺骗获取敏感信息的站点)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html" title="要为电子邮件扫描病毒吗？">转发恶意电子邮件</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html" title="我需要安装反病毒软件吗？">带有恶意企图的应用程序(病毒)</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html" title="WEP 和 WPA 是什么意思？">Unauthorized remote/local network
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.zh-CN" title="要为电子邮件扫描病毒吗？">转发恶意电子邮件</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.zh-CN" title="我需要安装反病毒软件吗？">带有恶意企图的应用程序(病毒)</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.zh-CN" title="WEP 和 WPA 是什么意思？">Unauthorized remote/local network
       access</a></span></p></li>
 </ul></div></div></div>
 <p class="p">要远离恶意入侵，请牢记以下提示：</p>
@@ -72,11 +72,11 @@
       information you are submitting and the potential consequences if that
       information is compromised by identity thieves or other criminals.</p></li>
 <li class="list"><p class="p">Be careful in providing
-      <span class="link"><a href="user-admin-explain.html" title="管理员权限是如何工作的呢？">root level permissions</a></span> to any
+      <span class="link"><a href="user-admin-explain.html.zh-CN" title="管理员权限是如何工作的呢？">root level permissions</a></span> to any
       application, especially ones that you have not used before or which are
       not well-known. Providing anyone or anything with root level permissions
       puts your computer at high risk to exploitation.</p></li>
-<li class="list"><p class="p">请确保您只运行必要的远程访问服务。<span class="app">SSH</span> 或 <span class="app">VNC</span> 有时会很有用，但如果保障不力，也会让您的计算机对入侵敞开大门。考虑使用<span class="link"><a href="net-firewall-on-off.html" title="启用和阻止防火墙访问">防火墙</a></span>来帮助计算机防御入侵。</p></li>
+<li class="list"><p class="p">请确保您只运行必要的远程访问服务。<span class="app">SSH</span> 或 <span class="app">VNC</span> 有时会很有用，但如果保障不力，也会让您的计算机对入侵敞开大门。考虑使用<span class="link"><a href="net-firewall-on-off.html.zh-CN" title="启用和阻止防火墙访问">防火墙</a></span>来帮助计算机防御入侵。</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -84,7 +84,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="网络术语与提示">网络术语与提示</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="查看您的 IP 地址">查看 IP 地址</a></span>、<span class="link"><a href="net-wireless-wepwpa.html" title="WEP 和 WPA 是什么意思？">WEP 和 WPA 安全</a></span>、<span class="link"><a href="net-macaddress.html" title="什么是 MAC 地址？">MAC 地址</a></span>、<span class="link"><a href="net-proxy.html" title="代理服务器设置">代理</a></span>…</span>
+<a href="net-general.html.zh-CN" title="网络术语与提示">网络术语与提示</a><span class="desc"> — <span class="link"><a href="net-findip.html.zh-CN" title="查看您的 IP 地址">查看 IP 地址</a></span>、<span class="link"><a href="net-wireless-wepwpa.html.zh-CN" title="WEP 和 WPA 是什么意思？">WEP 和 WPA 安全</a></span>、<span class="link"><a href="net-macaddress.html.zh-CN" title="什么是 MAC 地址？">MAC 地址</a></span>、<span class="link"><a href="net-proxy.html.zh-CN" title="代理服务器设置">代理</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

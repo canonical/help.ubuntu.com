@@ -43,31 +43,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Bluetooth is een draadloos protocol dat u in staat stelt een heleboel verschillende soorten apparaten met uw computer te verbinden. Bluetooth wordt meestal gebruikt voor koptelefoons en invoerapparaten zoals een muis of een toetsenbord. U kunt Bluetooth ook gebruiken om <span class="link"><a href="bluetooth-send-file.html" title="Bestanden sturen naar een Bluetooth-apparaat">bestanden van het ene naar het andere apparaat te versturen</a></span>, zoals van uw computer naar uw mobiel.</p>
+<p class="p">Bluetooth is een draadloos protocol dat u in staat stelt een heleboel verschillende soorten apparaten met uw computer te verbinden. Bluetooth wordt meestal gebruikt voor koptelefoons en invoerapparaten zoals een muis of een toetsenbord. U kunt Bluetooth ook gebruiken om <span class="link"><a href="bluetooth-send-file.html.nl" title="Bestanden sturen naar een Bluetooth-apparaat">bestanden van het ene naar het andere apparaat te versturen</a></span>, zoals van uw computer naar uw mobiel.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html" title="Bluetooth in- of uitschakelen"><span class="title">Bluetooth in- of uitschakelen</span><span class="linkdiv-dash"> — </span><span class="desc">Het Bluetooth-apparaat van uw computer in- of uitschakelen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html" title="Bestanden sturen naar een Bluetooth-apparaat"><span class="title">Bestanden sturen naar een Bluetooth-apparaat</span><span class="linkdiv-dash"> — </span><span class="desc">Bestanden delen met Bluetooth-apparaten, zoals uw telefoon.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Delen van besturing via Bluetooth"><span class="title">Delen van besturing via Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html" title="Uw computer met een Bluetooth-apparaat verbinden"><span class="title">Uw computer met een Bluetooth-apparaat verbinden</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth-apparaten verbinden.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html" title="Verbinding met een Bluetooth-apparaat verbreken"><span class="title">Verbinding met een Bluetooth-apparaat verbreken</span><span class="linkdiv-dash"> — </span><span class="desc">Een apparaat uit de lijst met Bluetooth-apparaten verwijderen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html" title="Wat is Bluetooth-zichtbaarheid?"><span class="title">Wat is Bluetooth-zichtbaarheid?</span><span class="linkdiv-dash"> — </span><span class="desc">Of andere apparaten uw computer kunnen zien.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html.nl" title="Bluetooth in- of uitschakelen"><span class="title">Bluetooth in- of uitschakelen</span><span class="linkdiv-dash"> — </span><span class="desc">Het Bluetooth-apparaat van uw computer in- of uitschakelen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.nl" title="Bestanden sturen naar een Bluetooth-apparaat"><span class="title">Bestanden sturen naar een Bluetooth-apparaat</span><span class="linkdiv-dash"> — </span><span class="desc">Bestanden delen met Bluetooth-apparaten, zoals uw telefoon.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.nl" title="Delen van besturing via Bluetooth"><span class="title">Delen van besturing via Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html.nl" title="Uw computer met een Bluetooth-apparaat verbinden"><span class="title">Uw computer met een Bluetooth-apparaat verbinden</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth-apparaten verbinden.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html.nl" title="Verbinding met een Bluetooth-apparaat verbreken"><span class="title">Verbinding met een Bluetooth-apparaat verbreken</span><span class="linkdiv-dash"> — </span><span class="desc">Een apparaat uit de lijst met Bluetooth-apparaten verwijderen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html.nl" title="Wat is Bluetooth-zichtbaarheid?"><span class="title">Wat is Bluetooth-zichtbaarheid?</span><span class="linkdiv-dash"> — </span><span class="desc">Of andere apparaten uw computer kunnen zien.</span></a></div>
 </div></div></div>
 </div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Problemen</span></h2></div>
 <div class="region">
-<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html" title="Ik kan mijn Bluetooth-apparaat niet aansluiten"><span class="title">Ik kan mijn Bluetooth-apparaat niet aansluiten</span><span class="linkdiv-dash"> — </span><span class="desc">Het kan zijn dat de adapter is uitgeschakeld, of geen stuurprogramma heeft, of Bluetooth kan uitgeschakeld of geblokkeerd zijn.</span></a></div></div></div></div></div>
+<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html.nl" title="Ik kan mijn Bluetooth-apparaat niet aansluiten"><span class="title">Ik kan mijn Bluetooth-apparaat niet aansluiten</span><span class="linkdiv-dash"> — </span><span class="desc">Het kan zijn dat de adapter is uitgeschakeld, of geen stuurprogramma heeft, of Bluetooth kan uitgeschakeld of geblokkeerd zijn.</span></a></div></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Meer informatie</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardwareproblemen</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardwareproblemen</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -77,7 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disks.html" title="disks">schijven</a></span>...</span>
+<a href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html.nl" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html.nl" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html.nl" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.nl" title="Schijven &amp; opslag">schijven</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

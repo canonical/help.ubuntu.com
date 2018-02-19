@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html#common-file-tasks" title="Általános feladatok">Általános feladatok</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.hu" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html.hu#common-file-tasks" title="Általános feladatok">Általános feladatok</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fájl vagy mappa átnevezése</span></h1></div>
@@ -57,7 +57,7 @@
 <li class="steps"><p class="p">Írja be az új nevet, és nyomja meg az <span class="key"><kbd>Enter</kbd></span> billentyűt, vagy válassza az <span class="gui">Átnevezés</span> menüpontot.</p></li>
 </ol></div>
 </div></div>
-<p class="p">A fájlokat a <span class="link"><a href="nautilus-file-properties-basic.html" title="Fájl tulajdonságai">Tulajdonságok</a></span> ablakban is átnevezheti.</p>
+<p class="p">A fájlokat a <span class="link"><a href="nautilus-file-properties-basic.html.hu" title="Fájl tulajdonságai">Tulajdonságok</a></span> ablakban is átnevezheti.</p>
 <p class="p">Fájlok átnevezésekor csak a fájl első része kerül kijelölésre, a kiterjesztés (az utolsó <span class="file">.</span> utáni rész) nem. A kiterjesztés általában a fájl típusát jelzi (például a <span class="file">fájl.pdf</span> egy PDF-dokumentum), és általában nem szükséges megváltoztatni. Ha a kiterjesztést is meg akarja változtatni, akkor jelölje ki a teljes fájlnevet, és módosítsa.</p>
 <div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Ha rossz fájlt nevezett át, vagy elrontotta az új nevet, akkor visszavonhatja az átnevezést. A művelet visszavonásához azonnal válassza a menü gombot az eszköztáron, majd az <span class="gui">Átnevezés visszavonása</span> menüpontot, vagy nyomja meg a <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span> kombinációt a korábbi név visszaállításához.</p></div></div></div></div>
 </div>
@@ -65,7 +65,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Érvényes karakterek a fájlnevekben</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Fájlnevekben tetszőleges karaktereket használhat az <span class="file">/</span> (osztásjel) kivételével. Néhány eszköz azonban olyan <span class="em">fájlrendszert</span> használ, amely a fájlnevekre több megszorítást érvényesít. Emiatt inkább kerülje a következő karakterek használatát a fájlnevekben: <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span><span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
-<div class="note note-warning" title="Figyelmeztetés"><div class="inner"><div class="region"><div class="contents"><p class="p">Ha egy fájl nevének első karaktere a <span class="file">.</span>, akkor a fájl <span class="link"><a href="files-hidden.html" title="Fájl elrejtése">rejtett</a></span> lesz, amikor megpróbálja megjeleníteni a fájlkezelőben.</p></div></div></div></div>
+<div class="note note-warning" title="Figyelmeztetés"><div class="inner"><div class="region"><div class="contents"><p class="p">Ha egy fájl nevének első karaktere a <span class="file">.</span>, akkor a fájl <span class="link"><a href="files-hidden.html.hu" title="Fájl elrejtése">rejtett</a></span> lesz, amikor megpróbálja megjeleníteni a fájlkezelőben.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="common-probs" class="sect"><div class="inner">
@@ -79,14 +79,14 @@
 <dt class="terms">A fájlnév túl hosszú</dt>
 <dd class="terms"><p class="p">Egyes fájlrendszereken a fájlnevek nem tartalmazhatnak 255-nél több karaktert. Ebbe a 255 karakteres korlátba beleértendő a fájl neve és elérési útja is (például: <span class="file">/home/wanda/Dokumentumok/munka/üzleti-ajánlatok/… </span>), így amennyire tudja, kerülje a hosszú fájl- és mappanevek használatát.</p></dd>
 <dt class="terms">Az átnevezés menüpont szürke</dt>
-<dd class="terms"><p class="p">Ha az <span class="gui">Átnevezés</span> szürke, akkor nincs jogosultsága átnevezni a fájlt. Az ilyen fájlok átnevezésével legyen óvatos, mert egyes védett fájlok átnevezése instabillá teheti a rendszerét. További információkért lásd a <span class="link"><a href="nautilus-file-properties-permissions.html" title="Fájljogosultságok beállítása">Fájljogosultságok beállítása</a></span> részt.</p></dd>
+<dd class="terms"><p class="p">Ha az <span class="gui">Átnevezés</span> szürke, akkor nincs jogosultsága átnevezni a fájlt. Az ilyen fájlok átnevezésével legyen óvatos, mert egyes védett fájlok átnevezése instabillá teheti a rendszerét. További információkért lásd a <span class="link"><a href="nautilus-file-properties-permissions.html.hu" title="Fájljogosultságok beállítása">Fájljogosultságok beállítása</a></span> részt.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Általános feladatok">Általános feladatok</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.hu#common-file-tasks" title="Általános feladatok">Általános feladatok</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

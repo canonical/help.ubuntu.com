@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html#apps" title="Приложения и окна">Приложения и окна</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ru" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html.ru#apps" title="Приложения и окна">Приложения и окна</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Окна и рабочие места</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Like other desktops, GNOME uses windows to display your running
-  applications. Using both the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span>
+  applications. Using both the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span>
   overview and the <span class="em">dash</span>, you can launch new applications and control
   active windows.</p>
 <p class="p">Приложения можно группировать внутри рабочих мест. Обратитесь к расположенным ниже разделам справки, посвящённым окнам и рабочим местам, чтобы узнать о том, как использовать эти возможности.</p>
@@ -59,13 +59,13 @@
 <div class="hgroup"><h2 class="title"><span class="title">Работа с окнами</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Переключение между окнами"><span class="title">Переключение между окнами</span><span class="linkdiv-dash"> — </span><span class="desc">Нажмите <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html" title="Перемещение и изменение размера окон."><span class="title">Перемещение и изменение размера окон.</span><span class="linkdiv-dash"> — </span><span class="desc">Упорядочите окна на рабочем месте для более эффективной работы.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html" title="Плиточное расположение окон"><span class="title">Плиточное расположение окон</span><span class="linkdiv-dash"> — </span><span class="desc">Разворачивание двух окон рядом друг с другом.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.ru" title="Переключение между окнами"><span class="title">Переключение между окнами</span><span class="linkdiv-dash"> — </span><span class="desc">Нажмите <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.ru" title="Перемещение и изменение размера окон."><span class="title">Перемещение и изменение размера окон.</span><span class="linkdiv-dash"> — </span><span class="desc">Упорядочите окна на рабочем месте для более эффективной работы.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.ru" title="Плиточное расположение окон"><span class="title">Плиточное расположение окон</span><span class="linkdiv-dash"> — </span><span class="desc">Разворачивание двух окон рядом друг с другом.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html" title="Поиск потерянного окна"><span class="title">Поиск потерянного окна</span><span class="linkdiv-dash"> — </span><span class="desc">Проверьте режим <span class="gui">Обзора</span> или другие рабочие места.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html" title="Разворачивание и восстановление размеров окна"><span class="title">Разворачивание и восстановление размеров окна</span><span class="linkdiv-dash"> — </span><span class="desc">Выполните двойное нажатие на заголовке или перетащите его, чтобы развернуть окно или восстановить его размер.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.ru" title="Поиск потерянного окна"><span class="title">Поиск потерянного окна</span><span class="linkdiv-dash"> — </span><span class="desc">Проверьте режим <span class="gui">Обзора</span> или другие рабочие места.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.ru" title="Разворачивание и восстановление размеров окна"><span class="title">Разворачивание и восстановление размеров окна</span><span class="linkdiv-dash"> — </span><span class="desc">Выполните двойное нажатие на заголовке или перетащите его, чтобы развернуть окно или восстановить его размер.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -73,17 +73,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Работа с рабочими местами</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html" title="Что такое рабочее место, и для чего оно нужно?"><span class="title">Что такое рабочее место, и для чего оно нужно?</span><span class="linkdiv-dash"> — </span><span class="desc">Рабочие места — это способ группировки окон на рабочем столе.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html" title="Переключение между рабочими местами"><span class="title">Переключение между рабочими местами</span><span class="linkdiv-dash"> — </span><span class="desc">Использование переключателя рабочих мест.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.ru" title="Что такое рабочее место, и для чего оно нужно?"><span class="title">Что такое рабочее место, и для чего оно нужно?</span><span class="linkdiv-dash"> — </span><span class="desc">Рабочие места — это способ группировки окон на рабочем столе.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.ru" title="Переключение между рабочими местами"><span class="title">Переключение между рабочими местами</span><span class="linkdiv-dash"> — </span><span class="desc">Использование переключателя рабочих мест.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html" title="Перемещение окна на другое рабочее место"><span class="title">Перемещение окна на другое рабочее место</span><span class="linkdiv-dash"> — </span><span class="desc">Зайдите в режим <span class="gui">Обзора</span> и перетащите окно на другое рабочее место.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.ru" title="Перемещение окна на другое рабочее место"><span class="title">Перемещение окна на другое рабочее место</span><span class="linkdiv-dash"> — </span><span class="desc">Зайдите в режим <span class="gui">Обзора</span> и перетащите окно на другое рабочее место.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Приложения и окна">Приложения и окна</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.ru#apps" title="Приложения и окна">Приложения и окна</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

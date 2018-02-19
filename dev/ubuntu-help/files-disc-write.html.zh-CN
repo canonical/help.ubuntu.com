@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.zh-CN" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html.zh-CN#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">把文件写入 CD 或 DVD</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">通过使用 <span class="gui">CD/DVD 创建器</span> 可以将文件刻入空白磁盘，方便文件传输到其他计算机或进行<span class="link"><a href="backup-why.html" title="备份您的重要文件">备份</a></span>。要将文件写入 CD 或 DVD：</p>
+<p class="p">通过使用 <span class="gui">CD/DVD 创建器</span> 可以将文件刻入空白磁盘，方便文件传输到其他计算机或进行<span class="link"><a href="backup-why.html.zh-CN" title="备份您的重要文件">备份</a></span>。要将文件写入 CD 或 DVD：</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">在您的 CD/DVD 刻录机中放一张空白光盘。</p></li>
 <li class="steps">
@@ -87,7 +87,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.zh-CN#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

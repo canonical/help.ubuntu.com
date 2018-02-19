@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="பிணையமாக்கல் சொற்கள் மற்றும் குறிப்புகள்">பிணையமாக்கல் சொற்கள் மற்றும் குறிப்புகள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.ta" title="பிணையமாக்கல் சொற்கள் மற்றும் குறிப்புகள்">பிணையமாக்கல் சொற்கள் மற்றும் குறிப்புகள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">பதிலி அமைவுகளை வரையறுத்தல்</span></h1></div>
@@ -62,7 +62,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">பதிலி முறையை மாற்றுதல்</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Network proxy</span> from the list on the left.</p></li>
@@ -88,7 +88,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="பிணையமாக்கல் சொற்கள் மற்றும் குறிப்புகள்">பிணையமாக்கல் சொற்கள் மற்றும் குறிப்புகள்</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="உங்கள் IP முகவரியை கண்டுபிடித்தல்">உங்கள் IP முகவரியைக் கண்டுபிடித்தல்</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="WEP மற்றும் WPA என்றால் என்ன?">WEP &amp; WPA பாதுகாப்பு</a></span>, <span class="link"><a href="net-macaddress.html" title="MAC முகவரி என்றால் என்ன?">MAC முகவரிகள்</a></span>, <span class="link"><a href="net-proxy.html" title="பதிலி அமைவுகளை வரையறுத்தல்">பதிலிகள்</a></span>…</span>
+<a href="net-general.html.ta" title="பிணையமாக்கல் சொற்கள் மற்றும் குறிப்புகள்">பிணையமாக்கல் சொற்கள் மற்றும் குறிப்புகள்</a><span class="desc"> — <span class="link"><a href="net-findip.html.ta" title="உங்கள் IP முகவரியை கண்டுபிடித்தல்">உங்கள் IP முகவரியைக் கண்டுபிடித்தல்</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.ta" title="WEP மற்றும் WPA என்றால் என்ன?">WEP &amp; WPA பாதுகாப்பு</a></span>, <span class="link"><a href="net-macaddress.html.ta" title="MAC முகவரி என்றால் என்ன?">MAC முகவரிகள்</a></span>, <span class="link"><a href="net-proxy.html.ta" title="பதிலி அமைவுகளை வரையறுத்தல்">பதிலிகள்</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

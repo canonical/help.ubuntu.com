@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html" title="Problemas com tela">Problemas com tela</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.pt-BR#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html.pt-BR" title="Problemas com tela">Problemas com tela</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="power.html#problems" title="Problemas">Problemas de energia</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.pt-BR#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="power.html.pt-BR#problems" title="Problemas">Problemas de energia</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Por que o meu computador não liga novamente após eu o ter suspendido?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Se você <span class="link"><a href="power-suspend.html" title="O que acontece quando eu suspendo o meu computador?">suspendeu</a></span> seu computador e, então, o tenta resumir, você pode descobrir que ele não funciona como você esperava. Isso pode acontecer porque o seu hardware não possui um suporte adequado à suspensão.</p></div>
+<div class="contents"><p class="p">Se você <span class="link"><a href="power-suspend.html.pt-BR" title="O que acontece quando eu suspendo o meu computador?">suspendeu</a></span> seu computador e, então, o tenta resumir, você pode descobrir que ele não funciona como você esperava. Isso pode acontecer porque o seu hardware não possui um suporte adequado à suspensão.</p></div>
 <div id="resume" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Meu computador está suspenso e não está resumindo</span></h2></div>
 <div class="region"><div class="contents">
@@ -66,7 +66,7 @@
 <div id="hardware" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Minha conexão sem fio (ou outro hardware) não funciona quando eu acordo meu computador</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Se você suspendeu seu computador e, então, o resume novamente, você pode descobrir que sua conexão Internet, mouse ou algum outro dispositivo não está funcionando adequadamente. Isso pode ocorrer porque o driver do dispositivo não possui suporte adequado à suspensão. Isso é um <span class="link"><a href="hardware-driver.html" title="O que é um driver?">problema com o driver</a></span> e não o dispositivo em si.</p>
+<p class="p">Se você suspendeu seu computador e, então, o resume novamente, você pode descobrir que sua conexão Internet, mouse ou algum outro dispositivo não está funcionando adequadamente. Isso pode ocorrer porque o driver do dispositivo não possui suporte adequado à suspensão. Isso é um <span class="link"><a href="hardware-driver.html.pt-BR" title="O que é um driver?">problema com o driver</a></span> e não o dispositivo em si.</p>
 <p class="p">Se o dispositivo possui um botão de liga/desliga, tente desligá-lo e, então, ligá-lo novamente. Na maioria dos casos, o dispositivo voltará a funcionar novamente. Se ele se conecta via um cabo USB ou outro semelhante, desconecte o dispositivo e, então, conecte-o novamente e veja se ele funciona.</p>
 <p class="p">Se você não conseguir desligar ou desconectar o dispositivo, ou se isso não funcionar, você pode ter que reiniciar o computador para que o dispositivo volte a funcionar.</p>
 </div></div>
@@ -78,10 +78,10 @@
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Problemas com tela">Problemas com tela</a><span class="desc"> — Solucione problemas de vídeo e tela.</span>
+<a href="hardware-problems-graphics.html.pt-BR" title="Problemas com tela">Problemas com tela</a><span class="desc"> — Solucione problemas de vídeo e tela.</span>
 </li>
 <li class="links ">
-<a href="power.html#problems" title="Problemas">Problemas de energia</a><span class="desc"> — Solucione problemas com energia e baterias.</span>
+<a href="power.html.pt-BR#problems" title="Problemas">Problemas de energia</a><span class="desc"> — Solucione problemas com energia e baterias.</span>
 </li>
 </ul></div>
 </div></div>
@@ -89,19 +89,19 @@
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-hibernate.html" title="Como eu posso hibernar meu computador?">Como eu posso hibernar meu computador?</a><span class="desc"> — A hibernação está desativada por padrão, uma vez que não é bem suportada.</span>
+<a href="power-hibernate.html.pt-BR" title="Como eu posso hibernar meu computador?">Como eu posso hibernar meu computador?</a><span class="desc"> — A hibernação está desativada por padrão, uma vez que não é bem suportada.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="Eu não tenho rede sem fio quando acordo meu computador">Eu não tenho rede sem fio quando acordo meu computador</a><span class="desc"> — Alguns dispositivos sem fio têm problemas em lidar quando o computador é suspenso, não resumindo adequadamente.</span>
+<a href="power-nowireless.html.pt-BR" title="Eu não tenho rede sem fio quando acordo meu computador">Eu não tenho rede sem fio quando acordo meu computador</a><span class="desc"> — Alguns dispositivos sem fio têm problemas em lidar quando o computador é suspenso, não resumindo adequadamente.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="O que acontece quando eu suspendo o meu computador?">O que acontece quando eu suspendo o meu computador?</a><span class="desc"> — Suspensão leva seu computador para dormir, para que use menos energia.</span>
+<a href="power-suspend.html.pt-BR" title="O que acontece quando eu suspendo o meu computador?">O que acontece quando eu suspendo o meu computador?</a><span class="desc"> — Suspensão leva seu computador para dormir, para que use menos energia.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="O que é um driver?">O que é um driver?</a><span class="desc"> — Um driver de hardware/dispositivo permite que seu computador use dispositivos que são anexados a ele.</span>
+<a href="hardware-driver.html.pt-BR" title="O que é um driver?">O que é um driver?</a><span class="desc"> — Um driver de hardware/dispositivo permite que seu computador use dispositivos que são anexados a ele.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="Por que meu computador desliga quando fecho a tampa?">Por que meu computador desliga quando fecho a tampa?</a><span class="desc"> — Notebooks dormem quando você fecha a tampa, para economizar energia.</span>
+<a href="power-closelid.html.pt-BR" title="Por que meu computador desliga quando fecho a tampa?">Por que meu computador desliga quando fecho a tampa?</a><span class="desc"> — Notebooks dormem quando você fecha a tampa, para economizar energia.</span>
 </li>
 </ul></div>
 </div></div>

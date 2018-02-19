@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="getting-started.html" title="Komma igång">Börja med GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="getting-started.html.sv" title="Komma igång">Börja med GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="Ansluta till nätkonton">Föregående</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="Ändra bakgrund">Nästa</a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.sv" title="Ansluta till nätkonton">Föregående</a><a class="nextlinks-next" href="gs-change-wallpaper.html.sv" title="Ändra bakgrund">Nästa</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Ändra datum, tid och tidszon</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klicka på <span class="gui"><a href="shell-introduction.html#yourname" title="Du och din dator">systemmenyn</a></span> på höger sida av systemraden.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui"><a href="shell-introduction.html.sv#yourname" title="Du och din dator">systemmenyn</a></span> på höger sida av systemraden.</p></li>
 <li class="steps"><p class="p">Tryck på inställningsknappen längst ner till vänster i menyn.</p></li>
 <li class="steps"><p class="p">Välj panelen <span class="gui">Datum &amp; tid</span>.</p></li>
 </ol></div></div></div>
@@ -68,7 +68,7 @@
 </ol></div></div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="Ansluta till nätkonton">Föregående</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="Ändra bakgrund">Nästa</a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.sv" title="Ansluta till nätkonton">Föregående</a><a class="nextlinks-next" href="gs-change-wallpaper.html.sv" title="Ändra bakgrund">Nästa</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -76,13 +76,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Komma igång">Börja med GNOME</a><span class="desc"> — Är GNOME nytt för dig? Lär dig hur du använder det.</span>
+<a href="getting-started.html.sv" title="Komma igång">Börja med GNOME</a><span class="desc"> — Är GNOME nytt för dig? Lär dig hur du använder det.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Datum och tid">Datum och tid</a><span class="desc"> — <span class="link"><a href="clock-set.html" title="Ändra datum och tid">Sätt datum och tid</a></span>, <span class="link"><a href="clock-world.html" title="Lägg till en världsklocka">världsklockor</a></span>, <span class="link"><a href="clock-timezone.html" title="Ändra din tidszon">tidszon</a></span>, <span class="link"><a href="clock-calendar.html" title="Kalendermöten">kalender och möten</a></span>…</span>
+<a href="clock.html.sv" title="Datum och tid">Datum och tid</a><span class="desc"> — <span class="link"><a href="clock-set.html.sv" title="Ändra datum och tid">Sätt datum och tid</a></span>, <span class="link"><a href="clock-world.html.sv" title="Lägg till en världsklocka">världsklockor</a></span>, <span class="link"><a href="clock-timezone.html.sv" title="Ändra din tidszon">tidszon</a></span>, <span class="link"><a href="clock-calendar.html.sv" title="Kalendermöten">kalender och möten</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

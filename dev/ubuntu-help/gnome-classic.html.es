@@ -48,15 +48,15 @@
 <div class="region">
 <div class="contents">
 <p class="p"><span class="em">GNOME clásico</span> es una característica para aquellos usuarios que prefieren una experiencia del escritorio más tradicional. Aunque <span class="em">GNOME clásico</span> se basa en tecnologías de <span class="em">GNOME 3</span> proporciona varios cambios en la interfaz del usuario, como los menús <span class="gui">Aplicaciones</span> y <span class="gui">Lugares</span> en la barra superior, y una lista de ventanas en la parte inferior de la pantalla.</p>
-<p class="p">Puede usar el menú de <span class="gui">Aplicaciones</span> de la barra superior para lanzar aplicaciones. La vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> está disponible seleccionando el elemento <span class="gui">Vista de actividades</span> en el menú.</p>
-<p class="p">Para acceder a la <span class="em">vista de <span class="gui">Actividades</span></span>, también puede pulsar la tecla <span class="key"><a href="keyboard-key-super.html" title="¿Qué es la tecla Super?"><kbd>Super</kbd></a></span>.</p>
+<p class="p">Puede usar el menú de <span class="gui">Aplicaciones</span> de la barra superior para lanzar aplicaciones. La vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> está disponible seleccionando el elemento <span class="gui">Vista de actividades</span> en el menú.</p>
+<p class="p">Para acceder a la <span class="em">vista de <span class="gui">Actividades</span></span>, también puede pulsar la tecla <span class="key"><a href="keyboard-key-super.html.es" title="¿Qué es la tecla Super?"><kbd>Super</kbd></a></span>.</p>
 </div>
 <div id="gnome-classic-window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Lista de ventanas</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">La lista de ventanas en la parte inferior de la pantalla proporciona acceso a todas sus ventanas y aplicaciones abiertas y le permite minimizarlas y restaurarlas rápidamente.</p>
 <p class="p">A la derecha de la lista de ventanas, GNOME muestra un identificador corto para el área de trabajo actual, como <span class="gui">1</span> para la primera área de trabajo. Además, el identificador también muestra el número total de áreas de trabajo disponibles. Para cambiar a un área de trabajo diferente, puede pulsar el en identificador y seleccionar el área de trabado que quiere usar en el menú.</p>
-<p class="p">Si una aplicación o un componente del sistema requieren su atención, mostrarán un icono azul en la parte derecha de la lista de ventanas. Al pulsar en el icono azul se mostrará la <span class="link"><a href="shell-notifications.html" title="Notificaciones y la bandeja de mensajes">bandeja de mensajes</a></span>, que le permite acceder a todas sus notificaciones.</p>
+<p class="p">Si una aplicación o un componente del sistema requieren su atención, mostrarán un icono azul en la parte derecha de la lista de ventanas. Al pulsar en el icono azul se mostrará la <span class="link"><a href="shell-notifications.html.es" title="Notificaciones y la bandeja de mensajes">bandeja de mensajes</a></span>, que le permite acceder a todas sus notificaciones.</p>
 </div></div>
 </div></div>
 <div id="gnome-classic-switch" class="sect"><div class="inner">

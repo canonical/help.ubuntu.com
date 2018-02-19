@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Akun pengguna</span></h1></div>
@@ -56,20 +56,20 @@
 <div class="hgroup"><h2 class="title"><span class="title">Mengelola akun pengguna</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Menambah akun pengguna baru"><span class="title">Menambah akun pengguna baru</span><span class="linkdiv-dash"> — </span><span class="desc">Tambahkan pengguna baru sehingga orang lain dapat log masuk ke komputer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Hapus suatu akun pengguna"><span class="title">Hapus suatu akun pengguna</span><span class="linkdiv-dash"> — </span><span class="desc">Menghapus pengguna yang tak memakai komputer Anda lagi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-add.html.id" title="Menambah akun pengguna baru"><span class="title">Menambah akun pengguna baru</span><span class="linkdiv-dash"> — </span><span class="desc">Tambahkan pengguna baru sehingga orang lain dapat log masuk ke komputer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html.id" title="Hapus suatu akun pengguna"><span class="title">Hapus suatu akun pengguna</span><span class="linkdiv-dash"> — </span><span class="desc">Menghapus pengguna yang tak memakai komputer Anda lagi.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Log masuk otomatis"><span class="title">Log masuk otomatis</span><span class="linkdiv-dash"> — </span><span class="desc">Set up automatic login for when you switch on your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Mengubah foto layar log masuk Anda"><span class="title">Mengubah foto layar log masuk Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Tambahkan foto Anda ke layar pengguna dan log masuk.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html.id" title="Log masuk otomatis"><span class="title">Log masuk otomatis</span><span class="linkdiv-dash"> — </span><span class="desc">Set up automatic login for when you switch on your computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html.id" title="Mengubah foto layar log masuk Anda"><span class="title">Mengubah foto layar log masuk Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Tambahkan foto Anda ke layar pengguna dan log masuk.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="passwords" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Kata sandi</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html" title="Pilih sandi yang aman"><span class="title">Pilih sandi yang aman</span><span class="linkdiv-dash"> — </span><span class="desc">Gunakan sandi yang lebih panjang, yang lebih rumit.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html" title="Ubah kata sandi Anda"><span class="title">Ubah kata sandi Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Keep your account secure by changing your password often in your
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html.id" title="Pilih sandi yang aman"><span class="title">Pilih sandi yang aman</span><span class="linkdiv-dash"> — </span><span class="desc">Gunakan sandi yang lebih panjang, yang lebih rumit.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html.id" title="Ubah kata sandi Anda"><span class="title">Ubah kata sandi Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Keep your account secure by changing your password often in your
     account settings.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
@@ -77,12 +77,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Hak akses pengguna</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html" title="Bagaimana privilese administratif bekerja?"><span class="title">Bagaimana privilese administratif bekerja?</span><span class="linkdiv-dash"> — </span><span class="desc">You need administrative privileges to change important parts of your
+<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?"><span class="title">Bagaimana privilese administratif bekerja?</span><span class="linkdiv-dash"> — </span><span class="desc">You need administrative privileges to change important parts of your
     system.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html" title="Masalah yang disebabkan oleh pembatasan administratif"><span class="title">Masalah yang disebabkan oleh pembatasan administratif</span><span class="linkdiv-dash"> — </span><span class="desc">You can do some things, like installing applications, only if you
+<div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.id" title="Masalah yang disebabkan oleh pembatasan administratif"><span class="title">Masalah yang disebabkan oleh pembatasan administratif</span><span class="linkdiv-dash"> — </span><span class="desc">You can do some things, like installing applications, only if you
     have administrative privileges.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-change.html" title="Ubah siapa yang memiliki privilese administratif"><span class="title">Ubah siapa yang memiliki privilese administratif</span><span class="linkdiv-dash"> — </span><span class="desc">You can allow users to make changes to the system by giving them
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.id" title="Ubah siapa yang memiliki privilese administratif"><span class="title">Ubah siapa yang memiliki privilese administratif</span><span class="linkdiv-dash"> — </span><span class="desc">You can allow users to make changes to the system by giving them
     administrative privileges.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
@@ -91,7 +91,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Papan tik">Papan tik</a></span>, <span class="link"><a href="mouse.html" title="Tetikus">tetikus</a></span>, <span class="link"><a href="prefs-display.html" title="Tampilan &amp; layar">tampilan</a></span>, <span class="link"><a href="prefs-language.html" title="Wilayah &amp; Bahasa">bahasa</a></span>, <span class="link"><a href="user-accounts.html" title="Akun pengguna">akun pengguna</a></span>…</span>
+<a href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — <span class="link"><a href="keyboard.html.id" title="Papan tik">Papan tik</a></span>, <span class="link"><a href="mouse.html.id" title="Tetikus">tetikus</a></span>, <span class="link"><a href="prefs-display.html.id" title="Tampilan &amp; layar">tampilan</a></span>, <span class="link"><a href="prefs-language.html.id" title="Wilayah &amp; Bahasa">bahasa</a></span>, <span class="link"><a href="user-accounts.html.id" title="Akun pengguna">akun pengguna</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

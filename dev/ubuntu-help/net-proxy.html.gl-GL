@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="Termos e consellos sobre redes">Termos e consellos sobre redes</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.gl-GL" title="Termos e consellos sobre redes">Termos e consellos sobre redes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Configuracións do sistema</span></h1></div>
@@ -62,7 +62,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Cambiar a súa hora do sistema</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Network proxy</span> from the list on the left.</p></li>
@@ -89,7 +89,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Termos e consellos sobre redes">Termos e consellos sobre redes</a><span class="desc"> — <span class="link"><a href="web.html#connections" title="web#connections">Conexións de rede</a></span>, <span class="link"><a href="web.html#chat" title="web#chat">iniciar conversas</a></span>, <span class="link"><a href="web.html#email" title="web#email">contas de correo electrónico</a></span>, <span class="link"><a href="web.html#browser" title="web#browser">engadidos</a></span>…</span>
+<a href="net-general.html.gl-GL" title="Termos e consellos sobre redes">Termos e consellos sobre redes</a><span class="desc"> — <span class="link"><a href="web.html.gl-GL#connections" title="web#connections">Conexións de rede</a></span>, <span class="link"><a href="web.html.gl-GL#chat" title="web#chat">iniciar conversas</a></span>, <span class="link"><a href="web.html.gl-GL#email" title="web#email">contas de correo electrónico</a></span>, <span class="link"><a href="web.html.gl-GL#browser" title="web#browser">engadidos</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

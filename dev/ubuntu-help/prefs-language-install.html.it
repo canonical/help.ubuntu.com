@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Aggiungere o rimuovere applicazioni</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.it" title="Install &amp; remove software">Aggiungere o rimuovere applicazioni</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Installare lingue</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Al momento dell'installazione di Ubuntu, la lingua prescelta viene installata insieme all'inglese, ma è comunque possibile aggiungere ulteriori lingue.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
@@ -59,7 +59,7 @@
 <li class="steps"><p class="p">Fare clic su <span class="gui">Installa/Rimuovi lingue...</span>. La finestra <span class="gui">Lingue installate</span> elenca tutte le lingue disponibili, con la spunta sulle lingue installate attualmente.</p></li>
 <li class="steps"><p class="p">Selezionare le lingue da installare e deselezionare quelle attualmente installate da rimuovere.</p></li>
 <li class="steps"><p class="p">Fare clic su <span class="gui">Applica modifiche</span>.</p></li>
-<li class="steps"><p class="p">Sono richiesti i <span class="link"><a href="user-admin-explain.html" title="Come funzionano i privilegi di amministrazione?">privilegi di amministrazione</a></span>. Inserire la propria password o la password di amministrazione.</p></li>
+<li class="steps"><p class="p">Sono richiesti i <span class="link"><a href="user-admin-explain.html.it" title="Come funzionano i privilegi di amministrazione?">privilegi di amministrazione</a></span>. Inserire la propria password o la password di amministrazione.</p></li>
 </ol></div></div></div>
 <p class="p">Oltre alle traduzioni usate nei menù e messaggi visualizzati, una nuova lingua può includere anche vari componenti di supporto  come dizionari per il controllo ortografico, caratteri e metodi di input.</p>
 <div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">Alcune traduzioni potrebbero essere incomplete e certi programmi potrebbero non supportare la propria lingua.</p></div></div></div></div>
@@ -70,10 +70,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Rimuovere un'applicazione">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+<a href="addremove.html.it" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
+      <span class="link"><a href="addremove-install.html.it" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.it" title="Rimuovere un'applicazione">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.it" title="Add software repositories">add repositories</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -81,7 +81,7 @@
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Install additional applications">
+<a href="addremove-install.html.it" title="Install additional applications">
     Install additional applications
   </a><span class="desc"> — 
       Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
@@ -89,10 +89,10 @@
     </span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Region &amp; Language">Region &amp; Language</a><span class="desc"> — 
-      <span class="link"><a href="session-language.html" title="Cambiare la lingua utilizzata">Language</a></span>,
-      <span class="link"><a href="session-formats.html" title="Modificare data e unità di misura">region and formats</a></span>,
-      <span class="link"><a href="keyboard-layouts.html" title="Usare disposizioni di tastiera alternative">keyboard layouts</a></span>…
+<a href="prefs-language.html.it" title="Region &amp; Language">Region &amp; Language</a><span class="desc"> — 
+      <span class="link"><a href="session-language.html.it" title="Cambiare la lingua utilizzata">Language</a></span>,
+      <span class="link"><a href="session-formats.html.it" title="Modificare data e unità di misura">region and formats</a></span>,
+      <span class="link"><a href="keyboard-layouts.html.it" title="Usare disposizioni di tastiera alternative">keyboard layouts</a></span>…
     </span>
 </li>
 </ul></div>

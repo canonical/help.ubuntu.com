@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="无线网络">无线网络</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.zh-CN" title="无线网络">无线网络</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html" title="网络问题">网络问题</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.zh-CN" title="网络问题">网络问题</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -91,21 +91,21 @@
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="无线网络">无线网络</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="连接到一个无线网络">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="连接到一个隐藏的无线网络">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="为什么我的无线网络总是断开？">Disconnecting</a></span>…
+<a href="net-wireless.html.zh-CN" title="无线网络">无线网络</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.zh-CN" title="连接到一个无线网络">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.zh-CN" title="连接到一个隐藏的无线网络">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.zh-CN" title="为什么我的无线网络总是断开？">Disconnecting</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="net-problem.html" title="网络问题">网络问题</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="无线网络故障排除">解决无线连接问题</a></span>、<span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">查看 wifi 网络</a></span>…</span>
+<a href="net-problem.html.zh-CN" title="网络问题">网络问题</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.zh-CN" title="无线网络故障排除">解决无线连接问题</a></span>、<span class="link"><a href="net-wireless-find.html.zh-CN" title="I can’t see my wireless network in the list">查看 wifi 网络</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html" title="连接到一个无线网络">连接到一个无线网络</a><span class="desc"> — Get on the internet — wirelessly.</span>
+<a href="net-wireless-connect.html.zh-CN" title="连接到一个无线网络">连接到一个无线网络</a><span class="desc"> — Get on the internet — wirelessly.</span>
 </li></ul></div>
 </div></div>
 </div>

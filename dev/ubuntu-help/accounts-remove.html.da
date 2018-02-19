@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">Settings</a> » <a class="trail" href="accounts.html" title="Onlinekonti">Onlinekonti</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="accounts.html.da" title="Onlinekonti">Onlinekonti</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Remove an account</span></h1></div>
@@ -61,7 +61,7 @@
     or sites. Look for an app called “GNOME” and remove it.</p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Onlinekonti</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Onlinekonti</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Online Accounts</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select the account which you wish to remove.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">-</span> button in the lower-left corner of the
@@ -69,7 +69,7 @@
 <li class="steps"><p class="p">Click <span class="gui">Remove</span> in the confirmation dialog.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Instead of deleting the account completely, it is possible to
-    <span class="link"><a href="accounts-disable-service.html" title="Control which online services an account can be used to access">restrict the services</a></span> accessed
+    <span class="link"><a href="accounts-disable-service.html.da" title="Control which online services an account can be used to access">restrict the services</a></span> accessed
     by your desktop.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -78,17 +78,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Onlinekonti">Onlinekonti</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Add an account">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Remove an account">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.da" title="Onlinekonti">Onlinekonti</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.da" title="Add an account">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.da" title="Remove an account">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.da" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="Control which online services an account can be used to access">Control which online services an account can be used to access</a><span class="desc"> — Some online accounts can be used to access multiple services (like
+<a href="accounts-disable-service.html.da" title="Control which online services an account can be used to access">Control which online services an account can be used to access</a><span class="desc"> — Some online accounts can be used to access multiple services (like
     calendar and email). You can control which of these services can be used by
     applications.</span>
 </li></ul></div>

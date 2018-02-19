@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Einführung in GNOME</span></h1></div>
@@ -51,29 +51,29 @@
 <div class="contents">
 <p class="p">GNOME 3 zeichnet sich durch eine vollständig neu entworfene Benutzeroberfläche aus, die Sie in Ihrer Arbeit nicht behindern, Ablenkungen so gering wie möglich halten und Ihnen bei der Bewältigung anstehender Aufgaben zur Seite stehen soll. Wenn Sie sich das erste Mal anmelden, werden Sie eine leere Arbeitsfläche und ein Panel am oberen Rand sehen.</p>
 <div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="Oberes Panel der GNOME Shell"></div></div>
-<p class="p">Das obere Panel ermöglicht Ihnen den Zugriff auf Fenster und Anwendungen, Ihren Kalender und Termine, sowie auf <span class="link"><a href="status-icons.html" title="Was bedeuten die Symbole im oberen Panel?">Systemeinstellungen</a></span> (z.B. Audio, Netzwerk und Stromversorgung). Im Status-Menü im oberen Panel können Sie die Lautstärke oder die Bildschirmhelligkeit ändern, die Verbindungsdetails für <span class="gui">Funknetzwerke</span> bearbeiten, den Akkuzustand prüfen, sich abmelden oder den Benutzer wechseln sowie den Rechner ausschalten.</p>
+<p class="p">Das obere Panel ermöglicht Ihnen den Zugriff auf Fenster und Anwendungen, Ihren Kalender und Termine, sowie auf <span class="link"><a href="status-icons.html.de" title="Was bedeuten die Symbole im oberen Panel?">Systemeinstellungen</a></span> (z.B. Audio, Netzwerk und Stromversorgung). Im Status-Menü im oberen Panel können Sie die Lautstärke oder die Bildschirmhelligkeit ändern, die Verbindungsdetails für <span class="gui">Funknetzwerke</span> bearbeiten, den Akkuzustand prüfen, sich abmelden oder den Benutzer wechseln sowie den Rechner ausschalten.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht"><span class="gui">Aktivitäten</span>-Übersicht</a></li>
-<li class="links "><a href="shell-introduction.html#appmenu" title="Anwendungsmenü">Anwendungsmenü</a></li>
-<li class="links "><a href="shell-introduction.html#clock" title="Uhr, Kalender und Termine">Uhr, Kalender und Termine</a></li>
-<li class="links "><a href="shell-introduction.html#yourname" title="Sie und Ihr Rechner">Sie und Ihr Rechner</a></li>
-<li class="links "><a href="shell-introduction.html#lockscreen" title="Sperrbildschirm">Sperrbildschirm</a></li>
-<li class="links "><a href="shell-introduction.html#window-list" title="Fensterliste">Fensterliste</a></li>
+<li class="links "><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht"><span class="gui">Aktivitäten</span>-Übersicht</a></li>
+<li class="links "><a href="shell-introduction.html.de#appmenu" title="Anwendungsmenü">Anwendungsmenü</a></li>
+<li class="links "><a href="shell-introduction.html.de#clock" title="Uhr, Kalender und Termine">Uhr, Kalender und Termine</a></li>
+<li class="links "><a href="shell-introduction.html.de#yourname" title="Sie und Ihr Rechner">Sie und Ihr Rechner</a></li>
+<li class="links "><a href="shell-introduction.html.de#lockscreen" title="Sperrbildschirm">Sperrbildschirm</a></li>
+<li class="links "><a href="shell-introduction.html.de#window-list" title="Fensterliste">Fensterliste</a></li>
 </ul></div></div></div>
 </div>
 <div id="activities" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title"><span class="gui">Aktivitäten</span>-Übersicht</span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-activities.png" class="media media-block" alt="Aktivitäten-Knopf"></div></div>
-<p class="p">Um Fenster und Anwendungen aufzurufen, klicken Sie auf den Knopf <span class="gui">Aktivitäten</span> oder bewegen Sie Ihren Mauszeiger einfach in die funktionale Ecke ganz links oben. Sie können auch die <span class="key"><a href="keyboard-key-super.html" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>-Taste auf Ihrer Tastatur drücken. In der Übersicht sehen Sie Ihre Fenster und Anwendungen. Außerdem können Sie einfach tippen, um nach Ihren Anwendungen, Dateien, Ordnern und im Internet zu suchen.</p>
+<p class="p">Um Fenster und Anwendungen aufzurufen, klicken Sie auf den Knopf <span class="gui">Aktivitäten</span> oder bewegen Sie Ihren Mauszeiger einfach in die funktionale Ecke ganz links oben. Sie können auch die <span class="key"><a href="keyboard-key-super.html.de" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>-Taste auf Ihrer Tastatur drücken. In der Übersicht sehen Sie Ihre Fenster und Anwendungen. Außerdem können Sie einfach tippen, um nach Ihren Anwendungen, Dateien, Ordnern und im Internet zu suchen.</p>
 <div class="media media-image floatstart if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-dash.png" height="300" class="media media-block" alt="Das Dash"></div></div>
 <p class="p">Auf der linken Seite der Übersicht sehen Sie das <span class="em">Dash</span>. Das Dash zeigt Ihnen Ihre Lieblingsanwendungen und gerade ausgeführte Anwendungen. Klicken Sie auf ein beliebiges Symbol im Dash, um die zugehörige Anwendung zu öffnen. Wird die Anwendung bereits ausgeführt, so ist das Symbol hervorgehoben. Wenn Sie auf das Symbol klicken, erscheint das zuletzt verwendete Fenster. Sie können das Symbol auch in die Übersicht oder eine der Arbeitsflächen auf der rechten Seite ziehen.</p>
 <p class="p">Ein Klick mit der rechten Maustaste auf das Symbol öffnet ein Menü, in welchem Sie ein beliebiges Fenster einer laufenden Anwendung wählen oder ein neues Fenster öffnen können. Sie können auch beim Anklicken des Symbols die <span class="key"><kbd>Strg</kbd></span>-Taste gedrückt halten, um ein neues Fenster zu öffnen.</p>
 <p class="p">Wenn Sie die Übersicht aufrufen, erscheint zunächst die Fensterübersicht. Diese zeigt eine Vorschau aller Fenster der aktuellen Arbeitsfläche in Echtzeit.</p>
 <p class="p">Klicken Sie auf den Raster-Knopf am unteren Ende des Dash, um zur Anwendungsübersicht zu gelangen. Diese zeigt alle auf dem Rechner installierten Anwendungen. Klicken Sie auf eine Anwendung, um diese auszuführen, oder ziehen Sie diese in die Übersicht oder auf eine Arbeitsflächenvorschau. Sie können eine Anwendung auch auf das Dash ziehen, um Sie zu Ihren Lieblingsanwendungen hinzuzufügen. Ihre Lieblingsanwendungen bleiben in dem Dash, auch wenn sie nicht ausgeführt werden, damit Sie schnell darauf zugreifen können.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="Anwendungen starten">Erfahren Sie mehr über das Starten von Anwendungen.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="Fenster und Arbeitsflächen">Erfahren Sie mehr über Fenster und Arbeitsflächen.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html.de" title="Anwendungen starten">Erfahren Sie mehr über das Starten von Anwendungen.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows.html.de" title="Fenster und Arbeitsflächen">Erfahren Sie mehr über Fenster und Arbeitsflächen.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -90,8 +90,8 @@
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appts.png" width="250" class="media media-block" alt="Uhr, Kalender, Termine und Benachrichtigungen"></div></div>
 <p class="p">Klicken Sie auf die Uhr in der Mitte des oberen Panels, um das aktuelle Datum, einen Kalender mit Monatsansicht, eine Liste Ihrer bevorstehenden Termine und neue Benachrichtigungen anzuzeigen. Den Kalender können Sie auch durch Drücken von <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> öffnen. Sie können außerdem auf die Zeit- und Datumseinstellungen zugreifen und Ihren kompletten <span class="app">Evolution</span>-Kalender direkt aus dem Menü öffnen.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html" title="Kalendereinträge">Erfahren Sie mehr über Kalender und Termine.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-notifications.html" title="Benachrichtigungen und das Benachrichtigungsfeld">Erfahren Sie mehr über Benachrichtigungen und das Benachrichtigungsfeld.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html.de" title="Kalendereinträge">Erfahren Sie mehr über Kalender und Termine.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-notifications.html.de" title="Benachrichtigungen und das Benachrichtigungsfeld">Erfahren Sie mehr über Benachrichtigungen und das Benachrichtigungsfeld.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -101,7 +101,7 @@
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-exit.png" width="250" class="media media-block" alt="Benutzermenü"></div></div>
 <p class="p">Klicken Sie auf das Systemmenü rechts oben auf dem Bildschirm, um Ihre Systemeinstellungen und Ihren Rechner zu verwalten.</p>
 <p class="p">Wenn Sie Ihren Rechner verlassen, können Sie den Bildschirm sperren, um andere Personen daran zu hindern, Ihren Rechner zu benutzen. Sie können schnell zwischen Benutzern wechseln, ohne sich abzumelden, um jemand anderem Zugriff auf den Rechner zu ermöglichen. Sie können auch vom Menü aus den Rechner in Bereitschaft versetzen oder ausschalten. Wenn Sie über einen Bildschirm verfügen, der horizontale oder vertikale Drehung unterstützt, so können Sie schnell den Bildschirm über das Systemmenü drehen. Wenn die Unterstützung fehlt, so fehlt auch der entsprechende Knopf.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html" title="Abmelden, ausschalten oder Benutzer wechseln">Erfahren Sie mehr über Benutzerwechsel, Abmelden und Ausschalten Ihres Rechners.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html.de" title="Abmelden, ausschalten oder Benutzer wechseln">Erfahren Sie mehr über Benutzerwechsel, Abmelden und Ausschalten Ihres Rechners.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div id="lockscreen" class="sect"><div class="inner">
@@ -109,14 +109,14 @@
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="Sperrbildschirm"></div></div>
 <p class="p">Wenn Sie Ihren Bildschirm sperren oder dies automatisch geschieht, wird der Sperrbildschirm angezeigt. Er schützt Ihre Arbeitsumgebung, während Sie von Ihrem Rechner abwesend sind und zeigt außerdem Datum und Uhrzeit an. Weiterhin werden Informationen über den Ladezustand des Akkus und Ihr Netzwerk angezeigt und Sie können die Medienwiedergabe steuern.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html" title="Der Sperrbildschirm">Erfahren Sie mehr über den Sperrbildschirm.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html.de" title="Der Sperrbildschirm">Erfahren Sie mehr über den Sperrbildschirm.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div id="window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Fensterliste</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">GNOME verwendet eine andere Herangehensweise zum Wechseln von Fenstern als dauerhaft sichtbare Fensterlisten, wie sie in anderen Arbeitsumgebungen zu finden sind. So können Sie sich ohne Ablenkungen auf Ihre Arbeit konzentrieren.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Wechseln zwischen Fenstern">Erfahren Sie mehr über das Wechseln zwischen Fenstern.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html.de" title="Wechseln zwischen Fenstern">Erfahren Sie mehr über das Wechseln zwischen Fenstern.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -125,9 +125,9 @@
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html" title="Ihre Arbeitsumgebung">Ihre Arbeitsumgebung</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Kalendereinträge">Kalender</a></span>, <span class="link"><a href="shell-notifications.html" title="Benachrichtigungen und das Benachrichtigungsfeld">Benachrichtigungen</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Nützliche Tastenkombinationen">Tastenkombinationen</a></span>, <span class="link"><a href="shell-windows.html" title="Fenster und Arbeitsflächen">Fenster und Arbeitsflächen</a></span>…</span>
+<a href="shell-overview.html.de" title="Ihre Arbeitsumgebung">Ihre Arbeitsumgebung</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.de" title="Kalendereinträge">Kalender</a></span>, <span class="link"><a href="shell-notifications.html.de" title="Benachrichtigungen und das Benachrichtigungsfeld">Benachrichtigungen</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.de" title="Nützliche Tastenkombinationen">Tastenkombinationen</a></span>, <span class="link"><a href="shell-windows.html.de" title="Fenster und Arbeitsflächen">Fenster und Arbeitsflächen</a></span>…</span>
 </li>
-<li class="links "><a href="index.html" title="Ubuntu-Leitfaden">Ubuntu-Leitfaden</a></li>
+<li class="links "><a href="index.html.de" title="Ubuntu-Leitfaden">Ubuntu-Leitfaden</a></li>
 </ul></div>
 </div></div></div>
 </div>

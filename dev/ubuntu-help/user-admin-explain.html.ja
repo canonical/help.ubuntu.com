@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="user-accounts.html" title="ユーザーアカウント">ユーザー</a> › <a class="trail" href="user-accounts.html#privileges" title="User privileges">Privileges</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ja" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="user-accounts.html.ja" title="ユーザーアカウント">ユーザー</a> › <a class="trail" href="user-accounts.html.ja#privileges" title="User privileges">Privileges</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">How do administrative privileges work?</span></h1></div>
@@ -109,36 +109,36 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="User privileges">User privileges</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.ja#privileges" title="User privileges">User privileges</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-change.html" title="Change who has administrative privileges">Change who has administrative privileges</a><span class="desc"> — You can allow users to make changes to the system by giving them
+<a href="user-admin-change.html.ja" title="Change who has administrative privileges">Change who has administrative privileges</a><span class="desc"> — You can allow users to make changes to the system by giving them
     administrative privileges.</span>
 </li>
 <li class="links ">
-<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — ネットワーク接続の設定内で<span class="gui">他のユーザーにも利用可能にする</span>オプションのチェックを外す必要があります。</span>
+<a href="net-othersedit.html.ja" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — ネットワーク接続の設定内で<span class="gui">他のユーザーにも利用可能にする</span>オプションのチェックを外す必要があります。</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="Problems caused by administrative restrictions">Problems caused by administrative restrictions</a><span class="desc"> — You can do some things, like installing applications, only if you
+<a href="user-admin-problems.html.ja" title="Problems caused by administrative restrictions">Problems caused by administrative restrictions</a><span class="desc"> — You can do some things, like installing applications, only if you
     have administrative privileges.</span>
 </li>
 <li class="links ">
-<a href="printing-setup-default-printer.html" title="デフォルトのプリンターを設定する">デフォルトのプリンターを設定する</a><span class="desc"> — もっともよく使用するプリンターを選択します。</span>
+<a href="printing-setup-default-printer.html.ja" title="デフォルトのプリンターを設定する">デフォルトのプリンターを設定する</a><span class="desc"> — もっともよく使用するプリンターを選択します。</span>
 </li>
 <li class="links ">
-<a href="user-changepassword.html" title="パスワードの変更">パスワードの変更</a><span class="desc"> — アカウント設定でパスワードを定期的に変更して、アカウントを安全に保ちます。</span>
+<a href="user-changepassword.html.ja" title="パスワードの変更">パスワードの変更</a><span class="desc"> — アカウント設定でパスワードを定期的に変更して、アカウントを安全に保ちます。</span>
 </li>
 <li class="links ">
-<a href="printing-name-location.html" title="プリンターの名前または場所を変更する">プリンターの名前または場所を変更する</a><span class="desc"> — プリンターの名前または場所をプリンター設定で変更します。</span>
+<a href="printing-name-location.html.ja" title="プリンターの名前または場所を変更する">プリンターの名前または場所を変更する</a><span class="desc"> — プリンターの名前または場所をプリンター設定で変更します。</span>
 </li>
 <li class="links ">
-<a href="user-delete.html" title="ユーザーアカウントを削除する">ユーザーアカウントを削除する</a><span class="desc"> — もうコンピューターを使わないユーザーを削除します。</span>
+<a href="user-delete.html.ja" title="ユーザーアカウントを削除する">ユーザーアカウントを削除する</a><span class="desc"> — もうコンピューターを使わないユーザーを削除します。</span>
 </li>
 <li class="links ">
-<a href="user-changepicture.html" title="ログイン画面の写真を変更する">ログイン画面の写真を変更する</a><span class="desc"> — ログイン画面およびユーザー画面に写真を追加します。</span>
+<a href="user-changepicture.html.ja" title="ログイン画面の写真を変更する">ログイン画面の写真を変更する</a><span class="desc"> — ログイン画面およびユーザー画面に写真を追加します。</span>
 </li>
 </ul></div>
 </div></div>

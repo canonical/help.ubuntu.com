@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="accounts.html" title="Comptes en ligne">Comptes en ligne</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ajout d'un compte</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">L'ajout d'un compte vous aide à mettre en relation vos comptes en ligne avec le bureau GNOME. Par conséquent, votre programme de messagerie, de discussion et les autres applications concernées, seront configurées pour vous.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Online Accounts</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur l'icône <span class="gui">Comptes en ligne</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">+</span> dans le coin inférieur gauche de la fenêtre.</p></li>
@@ -61,14 +61,14 @@
       account, enter your Google username and password. Some providers allow
       you to create a new account from the login dialog.</p></li>
 <li class="steps"><p class="p">Si vous avez saisi correctement vos informations d'identification, il vous sera demandé d'autoriser GNOME à accéder à votre compte en ligne. Autorisez l'accès pour continuer.</p></li>
-<li class="steps"><p class="p">Tous les services offerts par un fournisseur de compte seront activés par défaut. <span class="link"><a href="accounts-disable-service.html" title="Contrôle des services en ligne accessibles par un compte">Basculez</a></span> individuellement chaque interrupteur de chaque service sur <span class="gui">Désactivé</span> pour le désactiver.</p></li>
+<li class="steps"><p class="p">Tous les services offerts par un fournisseur de compte seront activés par défaut. <span class="link"><a href="accounts-disable-service.html.fr" title="Contrôle des services en ligne accessibles par un compte">Basculez</a></span> individuellement chaque interrupteur de chaque service sur <span class="gui">Désactivé</span> pour le désactiver.</p></li>
 </ol></div></div></div>
 <p class="p">After you have added accounts, applications can use those accounts for
-  the services you have chosen to allow. See <span class="link"><a href="accounts-disable-service.html" title="Contrôle des services en ligne accessibles par un compte">Contrôle des services en ligne accessibles par un compte</a></span>
+  the services you have chosen to allow. See <span class="link"><a href="accounts-disable-service.html.fr" title="Contrôle des services en ligne accessibles par un compte">Contrôle des services en ligne accessibles par un compte</a></span>
   for information on controlling which services to allow.</p>
 <div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">Many online services provide an authorization token which GNOME stores
     instead of your password. If you remove an account, you should also revoke
-    that certificate in the online service. See <span class="link"><a href="accounts-remove.html" title="Suppression d'un compte">Suppression d'un compte</a></span>
+    that certificate in the online service. See <span class="link"><a href="accounts-remove.html.fr" title="Suppression d'un compte">Suppression d'un compte</a></span>
     for more information.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -76,10 +76,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Comptes en ligne">Comptes en ligne</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Ajout d'un compte">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Suppression d'un compte">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.fr" title="Ajout d'un compte">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.fr" title="Suppression d'un compte">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.fr" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

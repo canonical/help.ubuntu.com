@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Networking terms &amp; tips</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html" title="Apa itu alamat IP?"><span class="title">Apa itu alamat IP?</span><span class="linkdiv-dash"> — </span><span class="desc">Suatu Alamat IP mirip dengan nomor telepon bagi komputer Anda.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html" title="Apa itu alamat MAC?"><span class="title">Apa itu alamat MAC?</span><span class="linkdiv-dash"> — </span><span class="desc">The unique identifier assigned to network hardware.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-proxy.html" title="Menentukan pengaturan proksi"><span class="title">Menentukan pengaturan proksi</span><span class="linkdiv-dash"> — </span><span class="desc">Proksi adalah perantara untuk trafik web, itu bisa dipakai untuk mengakses situs web secara anonim, untuk tujuan kendali atau keamanan.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html.id" title="Apa itu alamat IP?"><span class="title">Apa itu alamat IP?</span><span class="linkdiv-dash"> — </span><span class="desc">Suatu Alamat IP mirip dengan nomor telepon bagi komputer Anda.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html.id" title="Apa itu alamat MAC?"><span class="title">Apa itu alamat MAC?</span><span class="linkdiv-dash"> — </span><span class="desc">The unique identifier assigned to network hardware.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-proxy.html.id" title="Menentukan pengaturan proksi"><span class="title">Menentukan pengaturan proksi</span><span class="linkdiv-dash"> — </span><span class="desc">Proksi adalah perantara untuk trafik web, itu bisa dipakai untuk mengakses situs web secara anonim, untuk tujuan kendali atau keamanan.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-findip.html" title="Temukan alamat IP Anda"><span class="title">Temukan alamat IP Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Knowing your IP address can help you troubleshoot network problems.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html" title="Tetap aman di internet"><span class="title">Tetap aman di internet</span><span class="linkdiv-dash"> — </span><span class="desc">General tips to keep in mind when using the internet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-findip.html.id" title="Temukan alamat IP Anda"><span class="title">Temukan alamat IP Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Knowing your IP address can help you troubleshoot network problems.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html.id" title="Tetap aman di internet"><span class="title">Tetap aman di internet</span><span class="linkdiv-dash"> — </span><span class="desc">General tips to keep in mind when using the internet.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -65,13 +65,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Jaringan Nirkabel">Nirkabel</a></span>, <span class="link"><a href="net-wired.html" title="Jaringan Kabel">ethernet</a></span>, <span class="link"><a href="net-problem.html" title="Masalah jaringan">masalah koneksi</a></span>, <span class="link"><a href="net-browser.html" title="Peramban Web">meramban web</a></span>, <span class="link"><a href="net-email.html" title="Surel &amp; perangkat lunak surel">akun surel</a></span>…</span>
+<a href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.id" title="Jaringan Nirkabel">Nirkabel</a></span>, <span class="link"><a href="net-wired.html.id" title="Jaringan Kabel">ethernet</a></span>, <span class="link"><a href="net-problem.html.id" title="Masalah jaringan">masalah koneksi</a></span>, <span class="link"><a href="net-browser.html.id" title="Peramban Web">meramban web</a></span>, <span class="link"><a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">akun surel</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Menyambung ke wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?">Memutus</a></span>…</span>
+<a href="net-wireless.html.id" title="Jaringan Nirkabel">Jaringan Nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Menyambung ke wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.id" title="Mengapa jaringan nirkabel saya terputus terus?">Memutus</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

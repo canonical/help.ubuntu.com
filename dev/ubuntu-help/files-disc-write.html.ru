@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ru" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html.ru#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Запись файлов на CD или DVD</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Записать файлы на чистый диск можно с помощью приложения <span class="gui">Создание CD/DVD</span>. Пункт меню для записи на CD или DVD появится в менеджере файлов, как только вы поместите компакт-диск в устройство для записи CD/DVD. Файловый менеджер позволяет переносить файлы на другие компьютеры или создавать <span class="link"><a href="backup-why.html" title="Резервное копирование важных данных">резервные копии</a></span>, записывая файлы на чистый оптический носитель. Чтобы записать файлы на CD или DVD:</p>
+<p class="p">Записать файлы на чистый диск можно с помощью приложения <span class="gui">Создание CD/DVD</span>. Пункт меню для записи на CD или DVD появится в менеджере файлов, как только вы поместите компакт-диск в устройство для записи CD/DVD. Файловый менеджер позволяет переносить файлы на другие компьютеры или создавать <span class="link"><a href="backup-why.html.ru" title="Резервное копирование важных данных">резервные копии</a></span>, записывая файлы на чистый оптический носитель. Чтобы записать файлы на CD или DVD:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Поместите чистый диск в устройство записи CD/DVD.</p></li>
 <li class="steps">
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ru#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

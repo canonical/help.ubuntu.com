@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="printing.html" title="Штампање">Штампање</a> › <a class="trail" href="printing.html#setup" title="Подесите штампач">Подешавање</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="printing.html.sr" title="Штампање">Штампање</a> › <a class="trail" href="printing.html.sr#setup" title="Подесите штампач">Подешавање</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Измените назив или место штампача</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Можете да измените назив или место штампача у подешавањима истог.</p>
-<div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">Потребна су вам <span class="link"><a href="user-admin-explain.html" title="Како функционишу администраторска овлашћења?">администраторска овлашћења</a></span> на систему да измените назив или место штампача.</p></div></div></div></div>
+<div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">Потребна су вам <span class="link"><a href="user-admin-explain.html.sr" title="Како функционишу администраторска овлашћења?">администраторска овлашћења</a></span> на систему да измените назив или место штампача.</p></div></div></div></div>
 </div>
 <div id="printer-name-change" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Измените назив штампача</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Ако желите да измените назив штампача, урадите следеће:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Штампачи</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Штампачи</span>.</p></li>
 <li class="steps"><p class="p">Притисните на <span class="gui">Штампачи</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Кликните на дугме <span class="gui">Откључај</span> у горњем десном углу и упишите вашу лозинку.</p></li>
 <li class="steps"><p class="p">Притисните на назив вашег штампача, и почните да куцате нови назив штампача.</p></li>
@@ -70,7 +70,7 @@
 <div class="region"><div class="contents">
 <p class="p">Да измените место вашег штампача:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Штампачи</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Штампачи</span>.</p></li>
 <li class="steps"><p class="p">Притисните на <span class="gui">Штампачи</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Кликните на дугме <span class="gui">Откључај</span> у горњем десном углу и упишите вашу лозинку.</p></li>
 <li class="steps"><p class="p">Притисните на место, и почните да га уређујете.</p></li>
@@ -83,12 +83,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Подесите штампач">Подесите штампач</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.sr#setup" title="Подесите штампач">Подесите штампач</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-admin-explain.html" title="Како функционишу администраторска овлашћења?">Како функционишу администраторска овлашћења?</a><span class="desc"> — Потребна су вам администраторска овлашћења да измените важне делове вашег система.</span>
+<a href="user-admin-explain.html.sr" title="Како функционишу администраторска овлашћења?">Како функционишу администраторска овлашћења?</a><span class="desc"> — Потребна су вам администраторска овлашћења да измените важне делове вашег система.</span>
 </li></ul></div>
 </div></div>
 </div>

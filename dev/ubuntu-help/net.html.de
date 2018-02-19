@@ -43,55 +43,55 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Netzwerk, Internet und E-Mail</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html" title="Verbinden mit Funknetzwerken">Mit einem WLAN verbinden</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Verbinden mit verborgenen Funknetzwerken">Verborgene Netzwerke</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Warum wird meine WLAN-Verbindung dauernd getrennt?">Verbindung trennen</a></span> …</span></div>
+<div class="links-grid-link"><a href="net-wireless.html.de" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.de" title="Verbinden mit Funknetzwerken">Mit einem WLAN verbinden</a></span>, <span class="link"><a href="net-wireless-hidden.html.de" title="Verbinden mit verborgenen Funknetzwerken">Verborgene Netzwerke</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.de" title="Warum wird meine WLAN-Verbindung dauernd getrennt?">Verbindung trennen</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-chat.html" title="Chat &amp; Soziale Netzwerke">Chat &amp; Soziale Netzwerke</a></div>
+<div class="links-grid-link"><a href="net-chat.html.de" title="Chat &amp; Soziale Netzwerke">Chat &amp; Soziale Netzwerke</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-chat-empathy.html" title="Sofortnachrichten unter Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Bildtelefonie">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Wie kann ich Skype unter Ubuntu verwenden?">install skype</a></span>
+      <span class="link"><a href="net-chat-empathy.html.de" title="Sofortnachrichten unter Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.de" title="Bildtelefonie">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.de" title="Wie kann ich Skype unter Ubuntu verwenden?">install skype</a></span>
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-email.html" title="E-Mail und E-Mail-Software">E-Mail und E-Mail-Software</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-default-email.html" title="Ändern der E-Mail-Anwendung zum Verfassen von Nachrichten">Vorgegebene E-Mail-Anwendungen</a></span>, <span class="link"><a href="net-email-virus.html" title="Muss ich meine E-Mails auf Viren überprüfen lassen?">Sollte ich einen Virenscanner verwenden?</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-email.html.de" title="E-Mail und E-Mail-Software">E-Mail und E-Mail-Software</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-email.html.de" title="Ändern der E-Mail-Anwendung zum Verfassen von Nachrichten">Vorgegebene E-Mail-Anwendungen</a></span>, <span class="link"><a href="net-email-virus.html.de" title="Muss ich meine E-Mails auf Viren überprüfen lassen?">Sollte ich einen Virenscanner verwenden?</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="sharing.html" title="Freigabe">Freigabe</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html" title="Ihre Arbeitsumgebung freigeben">Bildschirmfreigabe</a></span>, <span class="link"><a href="files-share.html" title="Dateien via E-Mail teilen">Share files by email</a></span>, <span class="link"><a href="sharing-media.html" title="Ihre Musik, Fotos und Videos freigeben">Media sharing</a></span> …</span></div>
+<div class="links-grid-link"><a href="sharing.html.de" title="Freigabe">Freigabe</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html.de" title="Ihre Arbeitsumgebung freigeben">Bildschirmfreigabe</a></span>, <span class="link"><a href="files-share.html.de" title="Dateien via E-Mail teilen">Share files by email</a></span>, <span class="link"><a href="sharing-media.html.de" title="Ihre Musik, Fotos und Videos freigeben">Media sharing</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html" title="Kabelverbindungen">Kabelverbindungen</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html" title="Mit einem Kabelnetzwerk (Ethernet) verbinden">Kabelgebundene Internetverbindungen</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Eine Verbindung über eine feste IP-Adresse herstellen">feste IP-Adressen</a></span> …</span></div>
+<div class="links-grid-link"><a href="net-wired.html.de" title="Kabelverbindungen">Kabelverbindungen</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.de" title="Mit einem Kabelnetzwerk (Ethernet) verbinden">Kabelgebundene Internetverbindungen</a></span>, <span class="link"><a href="net-fixed-ip-address.html.de" title="Eine Verbindung über eine feste IP-Adresse herstellen">feste IP-Adressen</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="contacts.html" title="Kontakte">Kontakte</a></div>
+<div class="links-grid-link"><a href="contacts.html.de" title="Kontakte">Kontakte</a></div>
 <div class="desc"><span class="desc">Zugriff auf Ihre Kontakte.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-general.html" title="Netzwerk-Begriffe und Tipps">Netzwerk-Begriffe und Tipps</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html" title="Ihre IP-Adresse ermitteln">IP-Adresse herausfinden</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Was bedeuten WEP und WPA?">Sicherheit mit WEP und WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Was ist eine MAC-Adresse?">MAC-Adressen</a></span>, <span class="link"><a href="net-proxy.html" title="Proxy-Einstellungen festlegen">Proxys</a></span> …</span></div>
+<div class="links-grid-link"><a href="net-general.html.de" title="Netzwerk-Begriffe und Tipps">Netzwerk-Begriffe und Tipps</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.de" title="Ihre IP-Adresse ermitteln">IP-Adresse herausfinden</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.de" title="Was bedeuten WEP und WPA?">Sicherheit mit WEP und WPA</a></span>, <span class="link"><a href="net-macaddress.html.de" title="Was ist eine MAC-Adresse?">MAC-Adressen</a></span>, <span class="link"><a href="net-proxy.html.de" title="Proxy-Einstellungen festlegen">Proxys</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-problem.html" title="Netzwerkprobleme">Netzwerkprobleme</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Problemlösungen für Funknetzwerke">Fehlerbehandlung für Funknetzwerke</a></span>, <span class="link"><a href="net-wireless-find.html" title="Ich kann mein Funknetzwerk in der Liste nicht finden">Ihr Funknetzwerk suchen</a></span> …</span></div>
+<div class="links-grid-link"><a href="net-problem.html.de" title="Netzwerkprobleme">Netzwerkprobleme</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.de" title="Problemlösungen für Funknetzwerke">Fehlerbehandlung für Funknetzwerke</a></span>, <span class="link"><a href="net-wireless-find.html.de" title="Ich kann mein Funknetzwerk in der Liste nicht finden">Ihr Funknetzwerk suchen</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-security.html" title="Sicherheit im Internet">Sicherheit im Internet</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html" title="Benötige ich Anti-Virus-Software?">Anti-Virus-Software</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Firewall-Zugriff erlauben oder blockieren">Einfache Firewall</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Üblicherweise verwendete Netzwerk-Ports">Firewall-Ports</a></span> …</span></div>
+<div class="links-grid-link"><a href="net-security.html.de" title="Sicherheit im Internet">Sicherheit im Internet</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html.de" title="Benötige ich Anti-Virus-Software?">Anti-Virus-Software</a></span>, <span class="link"><a href="net-firewall-on-off.html.de" title="Firewall-Zugriff erlauben oder blockieren">Einfache Firewall</a></span>, <span class="link"><a href="net-firewall-ports.html.de" title="Üblicherweise verwendete Netzwerk-Ports">Firewall-Ports</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html" title="Webbrowser">Webbrowser</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html" title="Änderung des Webbrowsers, mit dem Webseiten geöffnet werden">Den Standardbrowser ändern</a></span>, <span class="link"><a href="net-install-flash.html" title="Die Flash-Erweiterung installieren">Flash installieren</a></span> …</span></div>
+<div class="links-grid-link"><a href="net-browser.html.de" title="Webbrowser">Webbrowser</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.de" title="Änderung des Webbrowsers, mit dem Webseiten geöffnet werden">Den Standardbrowser ändern</a></span>, <span class="link"><a href="net-install-flash.html.de" title="Die Flash-Erweiterung installieren">Flash installieren</a></span> …</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -99,11 +99,11 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu-Leitfaden">Ubuntu-Leitfaden</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.de" title="Ubuntu-Leitfaden">Ubuntu-Leitfaden</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-get-online.html" title="Online gehen">Eine Kurzanleitung, wie man ins Internet gelangt</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-get-online.html.de" title="Online gehen">Eine Kurzanleitung, wie man ins Internet gelangt</a></li></ul></div>
 </div></div>
 </div>
 </div>

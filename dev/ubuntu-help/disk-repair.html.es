@@ -2,7 +2,7 @@
 <html lang=es>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Repair a damaged filesystem</title>
+<title>Reparar un sistema de archivos dañado</title>
 <link rel="stylesheet" type="text/css" href="es.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,33 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="disk.html" title="Discos y almacenamiento">Discos y almacenamiento</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="disk.html.es" title="Discos y almacenamiento">Discos y almacenamiento</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Repair a damaged filesystem</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Reparar un sistema de archivos dañado</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Filesystems can be corrupted due to unexpected power loss, system crashes
      and unsafe removal of the drive.
      After such an incident it is recommended to <span class="em">repair</span> or at least
      <span class="em">check</span> the filesystem to prevent future data loss.</p>
-<p class="p">Sometimes a repair is required in order to mount or modify a filesystem.
-     Even if a <span class="em">check</span> does not report any damage the filesystem might
-     still be marked as 'dirty' internally and require a repair.</p>
+<p class="p">Algunas veces es necesario reparar para poder montar o modificar un sistema de archivos. Incluso si la <span class="em">comprobación</span> no informa de ningún daño el sistema de archivos puede seguir marcado como «sucio» y es necesario repararlo.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Check if a filesystem is damaged</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Comprobar si un sistema de archivos está dañado</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra <span class="app">Discos</span> desde la vista de <span class="gui">Actividades</span>.</p></li>
-<li class="steps"><p class="p">Select the disk containing the filesystem in question from the list of
-       storage devices on the left. If there is more than one volume on the
-       disk, select the volume which contains the filesystem.</p></li>
+<li class="steps"><p class="p">Seleccione el disco que contiene el sistema de archivos de la lista de dispositivos de almacenamiento de la izquierda. Si hay más de un volumen en el disco, seleccione el que contiene el sistema de archivos.</p></li>
 <li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
     menu button. Then click <span class="gui">Check Filesystem…</span>.</p></li>
 <li class="steps">
-<p class="p">Depending on how much data is stored in the filesystem a check may take
-       longer time. Confirm to start the action in the dialog that pops up.</p>
-<p class="p">The action will not modify the filesystem but will unmount it if needed.
-      Be patient while the filesystem is checked.</p>
+<p class="p">Dependiendo de la cantidad de datos almacenados en el sistema de archivos, la comprobación puede tardar mucho tiempo. Confirme para iniciar la acción en el diálogo emergente.</p>
+<p class="p">Esta acción no modificará el sistema de archivos, pero lo desmontará si es necesario. Sea paciente mientras se comprueba,</p>
 </li>
 <li class="steps"><p class="p">After completion you will be notified whether the filesystem is damaged.
        Note that in some cases even if the filesystem is undamaged it still
@@ -77,7 +71,7 @@
 </ol></div>
 </div></div>
 <div class="note note-warning" title="Advertencia"><div class="inner">
-<div class="title title-note"><h2><span class="title">Possible data loss when repairing</span></h2></div>
+<div class="title title-note"><h2><span class="title">Es posible que se pierdan datos al reparar</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">If the filesystem structure is damaged it can affect the files stored
      in it. In some cases these files can not be brought into a valid form
@@ -94,17 +88,13 @@
 </div></div>
 </div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Repair a filesystem</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Reparar un sistema de archivos</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra <span class="app">Discos</span> desde la vista de <span class="gui">Actividades</span>.</p></li>
-<li class="steps"><p class="p">Select the disk containing the filesystem in question from the list
-       of storage devices on the left. If there is more than one volume on
-       the disk, select the volume which contains the filesystem.</p></li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-    menu button. Then click <span class="gui">Repair Filesystem…</span>.</p></li>
+<li class="steps"><p class="p">Seleccione el disco que contiene el sistema de archivos de la lista de dispositivos de almacenamiento de la izquierda. Si hay más de un volumen en el disco, seleccione el que contiene el sistema de archivos.</p></li>
+<li class="steps"><p class="p">En la barra de herramientas, debajo de la sección <span class="gui">Volúmenes</span>, pulse el botón del menú. Después pulse en <span class="gui">Reparar sistema de archivos…</span>.</p></li>
 <li class="steps">
-<p class="p">Depending on how much data is stored in the filesystem a repair may take
-       longer time. Confirm to start the action in the dialog that pops up.</p>
+<p class="p">Dependiendo de la cantidad de datos almacenados en el sistema de archivos, la reparación puede tardar mucho tiempo. Confirme para iniciar la acción en el diálogo emergente.</p>
 <p class="p">The action will unmount the filesystem if needed. The repair action tries
    to bring the filesystem into a consistent state and moves files which were
    damaged in a special folder. Be patient while the filesystem is
@@ -119,7 +109,7 @@
        be done by mounting the image read-only or using forensic analysis tools
        like <span class="app">sleuthkit</span>.</p>
 <p class="p">To make use of the volume again it has to be
-       <span class="link"><a href="disk-format.html" title="Limpiar todo en un disco extraíble">formatted</a></span> with a new filesystem. All
+       <span class="link"><a href="disk-format.html.es" title="Limpiar todo en un disco extraíble">formatted</a></span> with a new filesystem. All
        data will be discarded.</p>
 </li>
 </ol></div>
@@ -130,7 +120,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Discos y almacenamiento">Discos y almacenamiento</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Comprobar cuánto espacio de disco hay disponible">Espacio en disco</a></span>, <span class="link"><a href="disk-benchmark.html" title="Comprobar el rendimiento de su disco duro">rendimiento</a></span>, <span class="link"><a href="disk-check.html" title="Comprobar los problemas del disco duro">problemas</a></span>, <span class="link"><a href="disk-partitions.html" title="Gestionar volúmenes y particiones">volúmenes y particiones</a></span>…</span>
+<a href="disk.html.es" title="Discos y almacenamiento">Discos y almacenamiento</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.es" title="Comprobar cuánto espacio de disco hay disponible">Espacio en disco</a></span>, <span class="link"><a href="disk-benchmark.html.es" title="Comprobar el rendimiento de su disco duro">rendimiento</a></span>, <span class="link"><a href="disk-check.html.es" title="Comprobar los problemas del disco duro">problemas</a></span>, <span class="link"><a href="disk-partitions.html.es" title="Gestionar volúmenes y particiones">volúmenes y particiones</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Bureau</a> › <a class="trail" href="shell-overview.html#apps" title="Les applications et les fenêtres">Les applications et les fenêtres</a> » <a class="trail" href="shell-windows.html" title="Fenêtres et espaces de travail">Fenêtres et espaces de travail</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Gestion des fenêtres">Windows</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="shell-overview.html.fr" title="Your desktop">Bureau</a> › <a class="trail" href="shell-overview.html.fr#apps" title="Les applications et les fenêtres">Les applications et les fenêtres</a> » <a class="trail" href="shell-windows.html.fr" title="Fenêtres et espaces de travail">Fenêtres et espaces de travail</a> › <a class="trail" href="shell-windows.html.fr#working-with-windows" title="Gestion des fenêtres">Windows</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Déplacement et redimensionnement de vos fenêtres.</span></h1></div>
@@ -54,14 +54,14 @@
 <li class="list"><p class="p">Déplacez une fenêtre en faisant glisser sa barre de titre, ou maintenez <span class="key"><kbd>Logo</kbd></span> appuyée pour la faire glisser à partir de n'importe quel point de la fenêtre. Maintenez la touche <span class="key"><kbd>Maj</kbd></span> appuyée tout en déplaçant la fenêtre pour la positionner au bord de l'écran ou à côté d'une autre fenêtre.</p></li>
 <li class="list"><p class="p">Redimensionnez une fenêtre en faisant glisser les bords ou les coins de celle-ci. Maintenez la touche <span class="key"><kbd>Maj</kbd></span> appuyée tout en redimensionnant la fenêtre pour la positionner au bord de l'écran ou à côté d'une autre fenêtre.</p></li>
 <li class="list"><p class="p">Déplacez ou redimensionnez une fenêtre en utilisant seulement le clavier. Appuyez sur <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span> pour déplacer une fenêtre ou <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span> pour la redimensionner. Utilisez les flèches du clavier pour déplacer ou redimensionner, puis appuyez sur <span class="key"><kbd>Entrée</kbd></span> pour terminer, ou appuyez sur <span class="key"><kbd>Échap</kbd></span> pour retourner à la position et la taille originales.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Maximisation et réduction d'une fenêtre">Maximisez une fenêtre</a></span> en la faisant glisser jusqu'en haut de l'écran. Faites glisser une fenêtre jusqu'à un bord de l'écran pour la maximiser le long du bord, vous permettant ainsi d'<span class="link"><a href="shell-windows-tiled.html" title="Juxtaposition de fenêtres">afficher des fenêtres côte-à-côte</a></span>.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html.fr" title="Maximisation et réduction d'une fenêtre">Maximisez une fenêtre</a></span> en la faisant glisser jusqu'en haut de l'écran. Faites glisser une fenêtre jusqu'à un bord de l'écran pour la maximiser le long du bord, vous permettant ainsi d'<span class="link"><a href="shell-windows-tiled.html.fr" title="Juxtaposition de fenêtres">afficher des fenêtres côte-à-côte</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Gestion des fenêtres">Gestion des fenêtres</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.fr#working-with-windows" title="Gestion des fenêtres">Gestion des fenêtres</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

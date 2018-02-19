@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="power.html" title="மின்சக்தி &amp; பேட்டரி">மின்சக்தி &amp; பேட்டரி</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="power.html.ta" title="மின்சக்தி &amp; பேட்டரி">மின்சக்தி &amp; பேட்டரி</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="power.html" title="மின்சக்தி &amp; பேட்டரி">மின்சக்தி &amp; பேட்டரி</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="power.html.ta" title="மின்சக்தி &amp; பேட்டரி">மின்சக்தி &amp; பேட்டரி</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,14 +56,14 @@
 <div id="general" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">பொது குறிப்புகள்</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">கணினியைப் பயன்படுத்தாத போது <span class="link"><a href="shell-exit.html#suspend" title="இடைநிறுத்து">கணினியை இடைநிறுத்துங்கள்</a></span>. இதனால் கணினி பயன்படுத்தும் மின் சக்தி வெகுவாகக் குறைக்கப்படும், அதே சமயம் அது மீண்டும் விரைவாக செயல்நிலைக்கும் வர முடியும்.</p></li>
-<li class="list"><p class="p">நீண்ட நேரம் பயன்படுத்தாத சமயங்களில் கணினியை <span class="link"><a href="shell-exit.html#shutdown" title="மின்சக்தி நிறுத்தம் அல்லது மறுதொடக்கம்">அணைக்கவும்</a></span>. கணினியை அணைப்பதால் அது சீக்கிரம் பழையதாகிவிடும் என சிலர் கருதுகின்றனர், ஆனால் உண்மை அதுவல்ல.</p></li>
+<li class="list"><p class="p">கணினியைப் பயன்படுத்தாத போது <span class="link"><a href="shell-exit.html.ta#suspend" title="இடைநிறுத்து">கணினியை இடைநிறுத்துங்கள்</a></span>. இதனால் கணினி பயன்படுத்தும் மின் சக்தி வெகுவாகக் குறைக்கப்படும், அதே சமயம் அது மீண்டும் விரைவாக செயல்நிலைக்கும் வர முடியும்.</p></li>
+<li class="list"><p class="p">நீண்ட நேரம் பயன்படுத்தாத சமயங்களில் கணினியை <span class="link"><a href="shell-exit.html.ta#shutdown" title="மின்சக்தி நிறுத்தம் அல்லது மறுதொடக்கம்">அணைக்கவும்</a></span>. கணினியை அணைப்பதால் அது சீக்கிரம் பழையதாகிவிடும் என சிலர் கருதுகின்றனர், ஆனால் உண்மை அதுவல்ல.</p></li>
 <li class="list"><p class="p">Use the <span class="gui">Power</span> panel in <span class="app">Settings</span> to change your
     power settings. There are a number of options that will help to save power:
-    you can <span class="link"><a href="display-blank.html" title="Set screen blanking time">automatically blank the screen</a></span>
-    after a certain time, reduce the <span class="link"><a href="display-brightness.html" title="Set screen brightness">screen
+    you can <span class="link"><a href="display-blank.html.ta" title="Set screen blanking time">automatically blank the screen</a></span>
+    after a certain time, reduce the <span class="link"><a href="display-brightness.html.ta" title="Set screen brightness">screen
     brightness</a></span>, and have the computer
-    <span class="link"><a href="power-autosuspend.html" title="Set up automatic suspend">automatically suspend</a></span> if you have not
+    <span class="link"><a href="power-autosuspend.html.ta" title="Set up automatic suspend">automatically suspend</a></span> if you have not
     used it for a certain period of time.</p></li>
 <li class="list"><p class="p">பயன்படுத்தாத போது (அச்சுப்பொறிகள், ஸ்கேனர்கள் போன்ற) வெளிப்புற சாதனங்களை அணைக்கவும்.</p></li>
 </ul></div></div></div></div></div>
@@ -72,7 +72,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">மடிக்கணினிகள், நெட்புக்குகள் மற்றும் பேட்டரிகளைக் கொண்டுள்ள பிற சாதனங்கள்</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Reduce the <span class="link"><a href="display-brightness.html" title="Set screen brightness">screen
+<p class="p">Reduce the <span class="link"><a href="display-brightness.html.ta" title="Set screen brightness">screen
      brightness</a></span>. Powering the screen accounts for a significant fraction
      of a laptop power consumption.</p>
 <p class="p">பெரும்பாலான மடிக்கணினிகளில், திரையின் பிரகாசத்தைக் குறைக்க விசைப்பலகையில் பொத்தான்கள் (அல்லது விசைப்பலகை குறுக்குவழி) இருக்கும்.</p>
@@ -100,10 +100,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="மின்சக்தி &amp; பேட்டரி">மின்சக்தி &amp; பேட்டரி</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="என் கணினியை இடைநிறுத்தும் போது என்ன நடக்கும்?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="சிறிது நேரம் கழித்து என் திரை ஏன் மங்கலாகிறது?">screen dimming</a></span>…
+<a href="power.html.ta" title="மின்சக்தி &amp; பேட்டரி">மின்சக்தி &amp; பேட்டரி</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.ta" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.ta" title="என் கணினியை இடைநிறுத்தும் போது என்ன நடக்கும்?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.ta" title="சிறிது நேரம் கழித்து என் திரை ஏன் மங்கலாகிறது?">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -111,26 +111,26 @@
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-status.html" title="Check the battery status">Check the battery status</a><span class="desc"> — Display the status of the battery and connected devices.</span>
+<a href="power-status.html.ta" title="Check the battery status">Check the battery status</a><span class="desc"> — Display the status of the battery and connected devices.</span>
 </li>
 <li class="links ">
-<a href="display-brightness.html" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
+<a href="display-brightness.html.ta" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
     light.</span>
 </li>
 <li class="links ">
-<a href="power-wireless.html" title="Switch off unused wireless technologies">Switch off unused wireless technologies</a><span class="desc"> — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span>
+<a href="power-wireless.html.ta" title="Switch off unused wireless technologies">Switch off unused wireless technologies</a><span class="desc"> — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="இடைநிறுத்து">இடைநிறுத்து</a></li>
+<li class="links "><a href="shell-exit.html.ta#suspend" title="இடைநிறுத்து">இடைநிறுத்து</a></li>
 <li class="links ">
-<a href="power-suspend.html" title="என் கணினியை இடைநிறுத்தும் போது என்ன நடக்கும்?">என் கணினியை இடைநிறுத்தும் போது என்ன நடக்கும்?</a><span class="desc"> — இடைநிறுத்துவது கணினியை உறக்க நிலைக்குக் கொண்டு செல்லும், இதனால் குறைவான மின்சாரமே பயன்படுத்தப்படும்.</span>
-</li>
-<li class="links ">
-<a href="power-batterywindows.html" title="என் பேட்டரி ஆயுள் Windows/Mac OS இல் இருந்ததை விட ஏன் குறைவகா உள்ளது?">என் பேட்டரி ஆயுள் Windows/Mac OS இல் இருந்ததை விட ஏன் குறைவகா உள்ளது?</a><span class="desc"> — உற்பத்தி நிறுவனம் செய்துள்ள நுண்ணிய அமைப்புகளும் வேறுபடும் பேட்டரி ஆயுட்கால கணக்கீடுகளும் இதற்கு காரணமாக இருக்கலாம்.</span>
+<a href="power-suspend.html.ta" title="என் கணினியை இடைநிறுத்தும் போது என்ன நடக்கும்?">என் கணினியை இடைநிறுத்தும் போது என்ன நடக்கும்?</a><span class="desc"> — இடைநிறுத்துவது கணினியை உறக்க நிலைக்குக் கொண்டு செல்லும், இதனால் குறைவான மின்சாரமே பயன்படுத்தப்படும்.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="சிறிது நேரம் கழித்து என் திரை ஏன் மங்கலாகிறது?">சிறிது நேரம் கழித்து என் திரை ஏன் மங்கலாகிறது?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
+<a href="power-batterywindows.html.ta" title="என் பேட்டரி ஆயுள் Windows/Mac OS இல் இருந்ததை விட ஏன் குறைவகா உள்ளது?">என் பேட்டரி ஆயுள் Windows/Mac OS இல் இருந்ததை விட ஏன் குறைவகா உள்ளது?</a><span class="desc"> — உற்பத்தி நிறுவனம் செய்துள்ள நுண்ணிய அமைப்புகளும் வேறுபடும் பேட்டரி ஆயுட்கால கணக்கீடுகளும் இதற்கு காரணமாக இருக்கலாம்.</span>
 </li>
-<li class="links "><a href="shell-exit.html#shutdown" title="மின்சக்தி நிறுத்தம் அல்லது மறுதொடக்கம்">மின்சக்தி நிறுத்தம் அல்லது மறுதொடக்கம்</a></li>
+<li class="links ">
+<a href="power-whydim.html.ta" title="சிறிது நேரம் கழித்து என் திரை ஏன் மங்கலாகிறது?">சிறிது நேரம் கழித்து என் திரை ஏன் மங்கலாகிறது?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
+</li>
+<li class="links "><a href="shell-exit.html.ta#shutdown" title="மின்சக்தி நிறுத்தம் அல்லது மறுதொடக்கம்">மின்சக்தி நிறுத்தம் அல்லது மறுதொடக்கம்</a></li>
 </ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Localizando um arquivo perdido</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">Se você criou ou baixou um arquivo, mas agora não consegue encontrá-lo, siga essas dicas.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Se você não lembra onde salvou o arquivo, mas tem alguma ideia de qual o nome dele, você pode <span class="link"><a href="files-search.html" title="Pesquisando por arquivos">pesquisar pelo arquivo com seu nome</a></span>.</p></li>
+<li class="list"><p class="p">Se você não lembra onde salvou o arquivo, mas tem alguma ideia de qual o nome dele, você pode <span class="link"><a href="files-search.html.pt-BR" title="Pesquisando por arquivos">pesquisar pelo arquivo com seu nome</a></span>.</p></li>
 <li class="list"><p class="p">Se você acabou de baixar o arquivo, seu navegador web pode ter salvo automaticamente em uma pasta comum. Verifique as pastas <span class="file">Área de trabalho</span> e <span class="file">Downloads</span> na sua pasta pessoal.</p></li>
-<li class="list"><p class="p">Talvez você tenha acidentalmente excluído o arquivo. Quando você exclui um, ele vai para a lixeira, onde ficará até que você a esvazie. Veja <span class="link"><a href="files-recover.html" title="Restaurando um arquivo da lixeira">Restaurando um arquivo da lixeira</a></span> para aprender como recuperar um arquivo excluído.</p></li>
-<li class="list"><p class="p">Você pode ter renomeado o arquivo de forma que ele fique oculto. Arquivos com nomes que começam com um <span class="file">.</span> ou terminam com um <span class="file">~</span> ficam ocultos no gerenciador de arquivos. Clique no botão de opções de visualização da barra de ferramentas do <span class="app">Arquivos</span> e habilite <span class="gui">Mostrar arquivos ocultos</span> para exibi-los. Veja <span class="link"><a href="files-hidden.html" title="Ocultando um arquivo">Ocultando um arquivo</a></span> para saber mais.</p></li>
+<li class="list"><p class="p">Talvez você tenha acidentalmente excluído o arquivo. Quando você exclui um, ele vai para a lixeira, onde ficará até que você a esvazie. Veja <span class="link"><a href="files-recover.html.pt-BR" title="Restaurando um arquivo da lixeira">Restaurando um arquivo da lixeira</a></span> para aprender como recuperar um arquivo excluído.</p></li>
+<li class="list"><p class="p">Você pode ter renomeado o arquivo de forma que ele fique oculto. Arquivos com nomes que começam com um <span class="file">.</span> ou terminam com um <span class="file">~</span> ficam ocultos no gerenciador de arquivos. Clique no botão de opções de visualização da barra de ferramentas do <span class="app">Arquivos</span> e habilite <span class="gui">Mostrar arquivos ocultos</span> para exibi-los. Veja <span class="link"><a href="files-hidden.html.pt-BR" title="Ocultando um arquivo">Ocultando um arquivo</a></span> para saber mais.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,12 +62,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt-BR#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-recover.html" title="Restaurando um arquivo da lixeira">Restaurando um arquivo da lixeira</a><span class="desc"> — Arquivos excluídos são normalmente enviados para a lixeira, mas podem ser restaurados.</span>
+<a href="files-recover.html.pt-BR" title="Restaurando um arquivo da lixeira">Restaurando um arquivo da lixeira</a><span class="desc"> — Arquivos excluídos são normalmente enviados para a lixeira, mas podem ser restaurados.</span>
 </li></ul></div>
 </div></div>
 </div>

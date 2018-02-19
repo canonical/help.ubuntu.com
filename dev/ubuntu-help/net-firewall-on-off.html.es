@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-security.html" title="Mantenerse seguro en Internet">Mantenerse seguro en Internet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-security.html.es" title="Mantenerse seguro en Internet">Mantenerse seguro en Internet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Activar y bloquear el acceso al cortafuegos</span></h1></div>
@@ -54,7 +54,7 @@
 <p class="p">Cada programa que proporciona servicios de red usa un <span class="em">puerto de red</span> específico. Para activar el acceso a los servicios de ese programa, puede que tenga que «abrir» sus puertos asignados en el cortafuegos:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Vaya a la vista de <span class="gui">Actividades</span> en la esquina superior izquierda de la pantalla e inicie su aplicación de cortafuegos. Puede necesitar instalar un gestor de cortafuegos (Firestarter o GUFW, por ejemplo) si no encuentra ninguno .</p></li>
-<li class="steps"><p class="p">Abra o cierre el puerto para su servicio de red, dependiendo de si quiere que la gente puede acceder a él o no. El puerto que debe cambiar <span class="link"><a href="net-firewall-ports.html" title="Puertos de red usados frecuentemente">dependerá del servicio</a></span></p></li>
+<li class="steps"><p class="p">Abra o cierre el puerto para su servicio de red, dependiendo de si quiere que la gente puede acceder a él o no. El puerto que debe cambiar <span class="link"><a href="net-firewall-ports.html.es" title="Puertos de red usados frecuentemente">dependerá del servicio</a></span></p></li>
 <li class="steps"><p class="p">Guarde o aplique los cambios, siguiendo las instrucciones adicionales que le proporciona la herramienta del cortafuegos.</p></li>
 </ol></div></div></div>
 </div>
@@ -64,13 +64,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Mantenerse seguro en Internet">Mantenerse seguro en Internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="¿Necesito software antivirus?">Software antivirus</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Activar y bloquear el acceso al cortafuegos">cortafuegos básico</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Activar y bloquear el acceso al cortafuegos">puertos del cortafuegos</a></span>…</span>
+<a href="net-security.html.es" title="Mantenerse seguro en Internet">Mantenerse seguro en Internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.es" title="¿Necesito software antivirus?">Software antivirus</a></span>, <span class="link"><a href="net-firewall-on-off.html.es" title="Activar y bloquear el acceso al cortafuegos">cortafuegos básico</a></span>, <span class="link"><a href="net-firewall-on-off.html.es" title="Activar y bloquear el acceso al cortafuegos">puertos del cortafuegos</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-ports.html" title="Puertos de red usados frecuentemente">Puertos de red usados frecuentemente</a><span class="desc"> — Para que un programa pueda usar un puerto de red, a través de su cortafuegos, debe especificar el puerto de red correcto para activar y desactivar el acceso a la red.</span>
+<a href="net-firewall-ports.html.es" title="Puertos de red usados frecuentemente">Puertos de red usados frecuentemente</a><span class="desc"> — Para que un programa pueda usar un puerto de red, a través de su cortafuegos, debe especificar el puerto de red correcto para activar y desactivar el acceso a la red.</span>
 </li></ul></div>
 </div></div>
 </div>

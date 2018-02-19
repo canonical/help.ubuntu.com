@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="clock.html" title="Tanggal &amp; waktu">Tanggal &amp; waktu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="clock.html.id" title="Tanggal &amp; waktu">Tanggal &amp; waktu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ubah tanggal dan waktu</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Bila tanggal dan waktu yang ditampilkan pada bilah puncak salah atau salah format, Anda dapat mengubahnya:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Activities</a></span>      
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span>      
       overview and start typing <span class="gui">Date &amp; Time</span>.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Tanggal &amp; Waktu</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">If you have <span class="gui">Automatic Date &amp; Time</span> set to <span class="gui">ON</span>,
@@ -62,7 +62,7 @@
 <li class="steps"><p class="p">You can change how the hour is displayed by selecting
       <span class="gui">24-hour</span> or <span class="gui">AM/PM</span> for <span class="gui">Time Format</span>.</p></li>
 </ol></div></div></div>
-<p class="p">You may also wish to <span class="link"><a href="clock-timezone.html" title="Ubah zona waktu Anda">set the timezone
+<p class="p">You may also wish to <span class="link"><a href="clock-timezone.html.id" title="Ubah zona waktu Anda">set the timezone
   manually</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Tanggal &amp; waktu">Tanggal &amp; waktu</a><span class="desc"> — <span class="link"><a href="clock-set.html" title="Ubah tanggal dan waktu">Atur tanggal dan waktu</a></span>, <span class="link"><a href="clock-world.html" title="Tambah jam dunia">jam dunia</a></span>, <span class="link"><a href="clock-timezone.html" title="Ubah zona waktu Anda">zona waktu</a></span>, <span class="link"><a href="clock-calendar.html" title="Janji kalender">kalender dan janji bertemu</a></span>…</span>
+<a href="clock.html.id" title="Tanggal &amp; waktu">Tanggal &amp; waktu</a><span class="desc"> — <span class="link"><a href="clock-set.html.id" title="Ubah tanggal dan waktu">Atur tanggal dan waktu</a></span>, <span class="link"><a href="clock-world.html.id" title="Tambah jam dunia">jam dunia</a></span>, <span class="link"><a href="clock-timezone.html.id" title="Ubah zona waktu Anda">zona waktu</a></span>, <span class="link"><a href="clock-calendar.html.id" title="Janji kalender">kalender dan janji bertemu</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

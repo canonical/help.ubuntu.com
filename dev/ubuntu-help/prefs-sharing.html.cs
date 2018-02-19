@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nastavení sdílení</span></h1></div>
@@ -52,13 +52,13 @@
 <p class="p"><span class="em">Nastavení sdílení</span> v GNOME vám pomáhá mít pod kontrolou, co se sdílí přes místní síť nebo jiné technologie, jako je <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html" title="Nastavení zobrazovaného názvu pro váš počítač"><span class="title">Nastavení zobrazovaného názvu pro váš počítač</span><span class="linkdiv-dash"> — </span><span class="desc">Jak určit, jak se váš počítač bude objevovat ostatním počítačům nebo zařízením.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Ovládání sdílení po Bluetooth"><span class="title">Ovládání sdílení po Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Jak umožnit nahrávání souborů na váš počítač přes Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html" title="Sdílení vašich osobních souborů"><span class="title">Sdílení vašich osobních souborů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak umožnit ostatním lidem dostat se k souborům v mojí složce <span class="file">Veřejné</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.cs" title="Nastavení zobrazovaného názvu pro váš počítač"><span class="title">Nastavení zobrazovaného názvu pro váš počítač</span><span class="linkdiv-dash"> — </span><span class="desc">Jak určit, jak se váš počítač bude objevovat ostatním počítačům nebo zařízením.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.cs" title="Ovládání sdílení po Bluetooth"><span class="title">Ovládání sdílení po Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Jak umožnit nahrávání souborů na váš počítač přes Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.cs" title="Sdílení vašich osobních souborů"><span class="title">Sdílení vašich osobních souborů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak umožnit ostatním lidem dostat se k souborům v mojí složce <span class="file">Veřejné</span>.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-media.html" title="Sdílení vaší hudby, fotografií a videí"><span class="title">Sdílení vaší hudby, fotografií a videí</span><span class="linkdiv-dash"> — </span><span class="desc">Jak sdílet multimédia v místní síti pomocí UPnP.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html" title="Sdílení vaší plochy"><span class="title">Sdílení vaší plochy</span><span class="linkdiv-dash"> — </span><span class="desc">Jak pomocí VNC ostatním lidem umožnit vidět a používat vaši pracovní plochu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-media.html.cs" title="Sdílení vaší hudby, fotografií a videí"><span class="title">Sdílení vaší hudby, fotografií a videí</span><span class="linkdiv-dash"> — </span><span class="desc">Jak sdílet multimédia v místní síti pomocí UPnP.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.cs" title="Sdílení vaší plochy"><span class="title">Sdílení vaší plochy</span><span class="linkdiv-dash"> — </span><span class="desc">Jak pomocí VNC ostatním lidem umožnit vidět a používat vaši pracovní plochu.</span></a></div>
 </div>
 </div></div></div>
 </div>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html" title="Uživatelské účty">uživatelské účty</a></span>…</span>
+<a href="prefs.html.cs" title="Uživatelská a systémová nastavení">Uživatelská a systémová nastavení</a><span class="desc"> — <span class="link"><a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a></span>, <span class="link"><a href="mouse.html.cs" title="Myš">myš</a></span>, <span class="link"><a href="prefs-display.html.cs" title="Displej a obrazovka">displej</a></span>, <span class="link"><a href="prefs-language.html.cs" title="Region a jazyk">jazyky</a></span>, <span class="link"><a href="user-accounts.html.cs" title="Uživatelské účty">uživatelské účty</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

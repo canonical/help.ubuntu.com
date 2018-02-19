@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="getting-started.html" title="Primeros pasos">Primeros pasos con GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="getting-started.html.es" title="Primeros pasos">Primeros pasos con GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Cambiar la fecha, hora y zona horaria">Anterior</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.es" title="Cambiar la fecha, hora y zona horaria">Anterior</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">Cambiar el fondo de pantalla</span></h1></div>
 <div class="region">
 <div class="contents"><div class="ui-tile ">
@@ -67,7 +67,7 @@
 <div id="change-wallpaper-overview" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Cambiar el fondo de pantalla</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Pulse en el <span class="gui"><a href="shell-introduction.html#yourname" title="Usted y su equipo">menú del sistema</a></span> en la parte derecha de la barra superior.</p></li>
+<li class="steps"><p class="p">Pulse en el <span class="gui"><a href="shell-introduction.html.es#yourname" title="Usted y su equipo">menú del sistema</a></span> en la parte derecha de la barra superior.</p></li>
 <li class="steps"><p class="p">Pulse el botón de configuración en la parte inferior izquierda del menú.</p></li>
 <li class="steps"><p class="p">Pulse el panel <span class="gui">Fondo</span>.</p></li>
 <li class="steps"><p class="p">Pulse la imagen del fondo de pantalla actual que está en la parte izquierda de la ventana <span class="gui">Fondo</span>.</p></li>
@@ -76,20 +76,20 @@
 <li class="steps"><p class="p">Cierre la ventana <span class="gui">Fondo</span> pulsando la cruz que está en la esquina superior derecha de la ventana.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Cambiar la fecha, hora y zona horaria">Anterior</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.es" title="Cambiar la fecha, hora y zona horaria">Anterior</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Primeros pasos">Primeros pasos con GNOME</a><span class="desc"> — ¿Es nuevo en GNOME? Aprenda cómo desenvolverse.</span>
+<a href="getting-started.html.es" title="Primeros pasos">Primeros pasos con GNOME</a><span class="desc"> — ¿Es nuevo en GNOME? Aprenda cómo desenvolverse.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-background.html" title="Cambiar el fondo del escritorio y de la pantalla de bloqueo">Cambiar el fondo del escritorio y de la pantalla de bloqueo</a><span class="desc"> — Establecer una imagen, color o degradado como su fondo de escritorio o como fondo de su pantalla de bloqueo.</span>
+<a href="look-background.html.es" title="Cambiar el fondo del escritorio y de la pantalla de bloqueo">Cambiar el fondo del escritorio y de la pantalla de bloqueo</a><span class="desc"> — Establecer una imagen, color o degradado como su fondo de escritorio o como fondo de su pantalla de bloqueo.</span>
 </li></ul></div>
 </div></div>
 </div>

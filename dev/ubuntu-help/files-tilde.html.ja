@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html#faq" title="ヒントと質問">ヒントと質問</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ja" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html.ja#faq" title="ヒントと質問">ヒントと質問</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="file">~</span>が名前の末尾に付いたファイルは何ですか?</span></h1></div>
@@ -60,19 +60,19 @@
   of the <span class="app">Files</span> toolbar) or pressed
   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. You can hide them again by
   repeating either of these steps.</p>
-<p class="p">これらのファイルは、通常の隠しファイルと同じように扱われます。隠しファイルの扱いについては、<span class="link"><a href="files-hidden.html" title="ファイルを隠す">ファイルを隠す</a></span> を参照してください。</p>
+<p class="p">これらのファイルは、通常の隠しファイルと同じように扱われます。隠しファイルの扱いについては、<span class="link"><a href="files-hidden.html.ja" title="ファイルを隠す">ファイルを隠す</a></span> を参照してください。</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="ヒントと質問">ヒントと質問</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ja#faq" title="ヒントと質問">ヒントと質問</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-hidden.html" title="ファイルを隠す">ファイルを隠す</a><span class="desc"> — Make a file invisible, so you cannot see it in the file
+<a href="files-hidden.html.ja" title="ファイルを隠す">ファイルを隠す</a><span class="desc"> — Make a file invisible, so you cannot see it in the file
     manager.</span>
 </li></ul></div>
 </div></div>

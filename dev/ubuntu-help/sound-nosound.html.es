@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="media.html#sound" title="Sonido básico">Sonido</a> » <a class="trail" href="sound-broken.html" title="Problemas de sonido">Problemas de sonido</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="media.html.es#sound" title="Sonido básico">Sonido</a> » <a class="trail" href="sound-broken.html.es" title="Problemas de sonido">Problemas de sonido</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comunes">Problemas</a> » <a class="trail" href="sound-broken.html" title="Problemas de sonido">Problemas de sonido</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html.es#problems" title="Problemas comunes">Problemas</a> » <a class="trail" href="sound-broken.html.es" title="Problemas de sonido">Problemas de sonido</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <div id="mute" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Asegúrese de que el sonido no está silenciado</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Abra el <span class="gui"><a href="shell-introduction.html#yourname" title="Usted y su equipo">menú del sistema</a></span> en la parte derecha de la barra superior y asegúrese de que el sonido no esté silenciado o en la posición hacia abajo.</p>
+<p class="p">Abra el <span class="gui"><a href="shell-introduction.html.es#yourname" title="Usted y su equipo">menú del sistema</a></span> en la parte derecha de la barra superior y asegúrese de que el sonido no esté silenciado o en la posición hacia abajo.</p>
 <p class="p">Algunos equipos portátiles tienen interruptores de silencio en sus teclados, pruebe a pulsar esa tecla para ver si se activa el sonido.</p>
 <p class="p">También debe comprobar que no ha silenciado la aplicación que está usando para reproducir el sonido (por ejemplo, su reproductor de música o su reproductor de películas). La aplicación puede tener un botón de silencio o de volumen en su ventana principal, por lo que debe comprobarlo.</p>
 <p class="p">También puede revisar la pestaña <span class="gui">Aplicaciones</span> en la interfaz de usuario de <span class="gui">Sonido</span>.</p>
@@ -80,7 +80,7 @@
 <div class="region"><div class="contents">
 <p class="p">Algunos equipos tienen varios «dispositivos de sonido» instalados. Algunos de estos son capaces de hacer salir el sonido y otros no, así que usted debe comprobar que tiene seleccionado el correcto. Esto podría implicar algún ensayo y error para elegir el correcto.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Sonido</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Sonido</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Sonido</span> para abrir el panel.</p></li>
 <li class="steps">
 <p class="p">En la pestaña <span class="gui">Salida</span>, cambie la configuración del <span class="gui">Perfil</span> para el dispositivo seleccionado y reproduzca un sonido para comprobar que funciona. Puede necesitar ir a través de la lista y probar cada perfil.</p>
@@ -96,7 +96,7 @@
 <p class="p">Ejecute el comando <span class="cmd">lspci</span> en la terminal para obtener más información acerca de su tarjeta de sonido:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Vaya a la vista de <span class="gui">Actividades</span> y abra una Terminal.</p></li>
-<li class="steps"><p class="p">Ejecute <span class="cmd">lspci</span> como <span class="link"><a href="user-admin-explain.html" title="¿Cómo funcionan los privilegios de administrador?">superusuario</a></span>; o bien escriba <span class="cmd">sudo lspci</span> y escriba su contraseña, o escriba <span class="cmd">su</span>, introduzca la contraseña de <span class="em">root</span> (administrador) y luego escriba <span class="cmd">lspci</span>.</p></li>
+<li class="steps"><p class="p">Ejecute <span class="cmd">lspci</span> como <span class="link"><a href="user-admin-explain.html.es" title="¿Cómo funcionan los privilegios de administrador?">superusuario</a></span>; o bien escriba <span class="cmd">sudo lspci</span> y escriba su contraseña, o escriba <span class="cmd">su</span>, introduzca la contraseña de <span class="em">root</span> (administrador) y luego escriba <span class="cmd">lspci</span>.</p></li>
 <li class="steps"><p class="p">Compruebe si se muestra un <span class="em">controlador de sonido</span> o un <span class="em">dispositivo de sonido</span>: en ese caso, debería ver el número de serie y el modelo de la tarjeta de sonido. También <span class="cmd">lspci -v</span> muestra una lista con información más detallada.</p></li>
 </ol></div></div></div>
 <p class="p">Puede que encuentre y pueda instalar los controladores para su tarjeta. Lo mejor es pedir instrucciones en los foros de soporte (o similares) para su distribución de GNU/Linux.</p>
@@ -108,7 +108,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html" title="Problemas de sonido">Problemas de sonido</a><span class="desc"> — Solucionar problemas como no tener sonido o tener mala calidad de sonido.</span>
+<a href="sound-broken.html.es" title="Problemas de sonido">Problemas de sonido</a><span class="desc"> — Solucionar problemas como no tener sonido o tener mala calidad de sonido.</span>
 </li></ul></div>
 </div></div></div>
 </div>

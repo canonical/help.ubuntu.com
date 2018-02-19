@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Tippek és trükkök">Tippek és trükkök</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.hu" title="Tippek és trükkök">Tippek és trükkök</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Képernyőképek és képernyővideók</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Képernyőkép készítése</span></h2></div>
 <div class="region">
 <div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="app">Képernyőkép</span> alkalmazást a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintésből.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="app">Képernyőkép</span> alkalmazást a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintésből.</p></li>
 <li class="steps"><p class="p">A <span class="app">Képernyőkép</span> ablakban válassza ki, hogy a teljes képernyőről, az aktuális ablakról vagy egy képernyőterületről szeretne-e képet készíteni. Beállíthat késleltetést, ha ki szeretne választani egy ablakot vagy más módon elő szeretné készíteni asztalát a képhez. Ezek után kiválaszthat hatásokat is.</p></li>
 <li class="steps">
 <p class="p">Nyomja meg a <span class="gui">Felvétel</span> gombot.</p>
@@ -100,7 +100,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Tippek és trükkök">Tippek és trükkök</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Speciális karakterek bevitele">Speciális karakterek</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Kattintás a középső egérgombbal">középső kattintással használható parancsok</a></span>…</span>
+<a href="tips.html.hu" title="Tippek és trükkök">Tippek és trükkök</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.hu" title="Speciális karakterek bevitele">Speciális karakterek</a></span>, <span class="link"><a href="mouse-middleclick.html.hu" title="Kattintás a középső egérgombbal">középső kattintással használható parancsok</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="user-accounts.html" title="Benutzerkonten">Benutzer</a> › <a class="trail" href="user-accounts.html#privileges" title="Benutzerrechte">Rechte</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="user-accounts.html.de" title="Benutzerkonten">Benutzer</a> › <a class="trail" href="user-accounts.html.de#privileges" title="Benutzerrechte">Rechte</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ändern der Inhaber von Systemverwalterrechten</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Systemverwalterrechte ermöglichen eine Entscheidung darüber, wer Änderungen an wichtigen Stellen des Systems vornehmen darf. Sie können ändern, welche Benutzer Systemverwalterrechte haben und welche nicht. Dies ist eine gute Möglichkeit, Ihr System sicher zu halten und potenziell schädliche, nicht autorisierte Änderungen zu verhindern.</p>
-<p class="p">Sie müssen über <span class="link"><a href="user-admin-explain.html" title="Wie funktionieren Systemverwalter-Privilegien?">Systemverwalterrechte verfügen</a></span>, um Kontentypen ändern zu können.</p>
+<p class="p">Sie müssen über <span class="link"><a href="user-admin-explain.html.de" title="Wie funktionieren Systemverwalter-Privilegien?">Systemverwalterrechte verfügen</a></span>, um Kontentypen ändern zu können.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Benutzer</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Benutzer</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Benutzer</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf den Knopf <span class="gui">Entsperren</span> in der rechten oberen Ecke und geben Sie Ihr Passwort ein.</p></li>
 <li class="steps"><p class="p">Wählen Sie den Benutzer aus, dessen Rechte Sie ändern wollen.</p></li>
@@ -69,16 +69,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Benutzerrechte">Benutzerrechte</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.de#privileges" title="Benutzerrechte">Benutzerrechte</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-problems.html" title="Durch administrative Einschränkungen verursachte Probleme">Durch administrative Einschränkungen verursachte Probleme</a><span class="desc"> — Einige Dinge, wie die Installation von Anwendungen, sind nur mit den Rechten des Systemverwalters möglich.</span>
+<a href="user-admin-problems.html.de" title="Durch administrative Einschränkungen verursachte Probleme">Durch administrative Einschränkungen verursachte Probleme</a><span class="desc"> — Einige Dinge, wie die Installation von Anwendungen, sind nur mit den Rechten des Systemverwalters möglich.</span>
 </li>
 <li class="links ">
-<a href="user-admin-explain.html" title="Wie funktionieren Systemverwalter-Privilegien?">Wie funktionieren Systemverwalter-Privilegien?</a><span class="desc"> — Sie benötigen Systemverwalterrechte, um Änderungen an wichtigen Teilen Ihres Systems vorzunehmen.</span>
+<a href="user-admin-explain.html.de" title="Wie funktionieren Systemverwalter-Privilegien?">Wie funktionieren Systemverwalter-Privilegien?</a><span class="desc"> — Sie benötigen Systemverwalterrechte, um Änderungen an wichtigen Teilen Ihres Systems vorzunehmen.</span>
 </li>
 </ul></div>
 </div></div>

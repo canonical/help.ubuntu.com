@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="privacy.html" title="Sekretessinställningar">Sekretessinställningar</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="privacy.html.sv" title="Sekretessinställningar">Sekretessinställningar</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Stäng av filhistorik</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Sekretessinställningar</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Sekretessinställningar</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Sekretessinställningar</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Välj <span class="gui">Användning &amp; historik</span>.</p></li>
 <li class="steps">
@@ -71,7 +71,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Begränsa hur länge din filhistorik spåras</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Sekretessinställningar</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Sekretessinställningar</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Sekretessinställningar</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Välj <span class="gui">Användning &amp; historik</span>.</p></li>
 <li class="steps"><p class="p">Säkerställ att inställningen <span class="gui">Nyligen använda</span> är <span class="gui">PÅ</span>.</p></li>
@@ -85,9 +85,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a></li>
+<li class="links "><a href="files.html.sv#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a></li>
 <li class="links ">
-<a href="privacy.html" title="Sekretessinställningar">Sekretessinställningar</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Lås automatiskt din skärm">Skärmlås</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Stäng av eller begränsa filhistorik">Användningshistorik</a></span>, <span class="link"><a href="privacy-purge.html" title="Töm papperskorgen &amp; ta bort tillfälliga filer">Ta bort skräp &amp; temporära filer</a></span>…</span>
+<a href="privacy.html.sv" title="Sekretessinställningar">Sekretessinställningar</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.sv" title="Lås automatiskt din skärm">Skärmlås</a></span>, <span class="link"><a href="privacy-history-recent-off.html.sv" title="Stäng av eller begränsa filhistorik">Användningshistorik</a></span>, <span class="link"><a href="privacy-purge.html.sv" title="Töm papperskorgen &amp; ta bort tillfälliga filer">Ta bort skräp &amp; temporära filer</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

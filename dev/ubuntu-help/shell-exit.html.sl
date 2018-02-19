@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Log out, power off or switch users</span></h1></div>
@@ -55,7 +55,7 @@
 <div class="region"><div class="contents">
 <p class="p">Da lahko vaš računalnik uporabljajo tudi drugi uporabniki se lahko odjavite ali ostanete prijavljeni in enostavno preklopite uporabnike. V primeru da enostavno preklopite uporabnike, se bodo vsi vaši programi še naprej izvajali in bo ob ponovni prijavi vse ostalo, kjer je bilo.</p>
 <p class="p">To <span class="gui">Log Out</span> or <span class="gui">Switch User</span>, click the
-  <span class="link"><a href="shell-introduction.html#yourname" title="Vi in vaš računalnik">system menu</a></span> on the right side of the
+  <span class="link"><a href="shell-introduction.html.sl#yourname" title="Vi in vaš računalnik">system menu</a></span> on the right side of the
   top bar, click your name and then choose the right option.</p>
 <div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">Ukaza <span class="gui">Odjavi</span> ali <span class="gui">Preklopi uporabnika</span> se v meniju pojavita le, če ima sistem več uporabniških računov.</p></div></div></div></div>
 </div></div>
@@ -67,7 +67,7 @@
 <p class="p">If you’re leaving your computer for a short time, you should lock your
   screen to prevent other people from accessing your files or running
   applications. When you return, raise the
-  <span class="link"><a href="shell-lockscreen.html" title="Zakleni zaslon">lock screen</a></span> curtain and enter your
+  <span class="link"><a href="shell-lockscreen.html.sl" title="Zakleni zaslon">lock screen</a></span> curtain and enter your
   password to log back in. If you don’t lock your screen, it will lock
   automatically after a certain amount of time.</p>
 <p class="p">To lock your screen, click the system menu on the right side of the top
@@ -82,11 +82,11 @@
 <div class="title"><h3><span class="title">Pogjejte tudi</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Automatically lock your screen">Automatically lock your screen</a><span class="desc"> — Prevent other people from using your desktop when you
+<a href="privacy-screen-lock.html.sl" title="Automatically lock your screen">Automatically lock your screen</a><span class="desc"> — Prevent other people from using your desktop when you
     go away from your computer.</span>
 </li>
 <li class="links ">
-<a href="session-screenlocks.html" title="Zaslon se prehitro zaklene">Zaslon se prehitro zaklene</a><span class="desc"> — Change how long to wait before locking the screen in the
+<a href="session-screenlocks.html.sl" title="Zaslon se prehitro zaklene">Zaslon se prehitro zaklene</a><span class="desc"> — Change how long to wait before locking the screen in the
     <span class="gui">Privacy</span> settings.</span>
 </li>
 </ul></div>
@@ -114,13 +114,13 @@
 <div class="title"><h3><span class="title">Pogjejte tudi</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspend.html" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">Kaj se zgodi, ko pošljem računalnik v pripravljenost?</a><span class="desc"> — Prehod v stanje pripravljenosti pošlje vaš računalnik v stanje pripravljenosti, da porabi manj energije.</span>
+<a href="power-suspend.html.sl" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">Kaj se zgodi, ko pošljem računalnik v pripravljenost?</a><span class="desc"> — Prehod v stanje pripravljenosti pošlje vaš računalnik v stanje pripravljenosti, da porabi manj energije.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Poraba manjše količine energije in podaljšanje trajanja baterije">Poraba manjše količine energije in podaljšanje trajanja baterije</a><span class="desc"> — Namigi za zmanjšanje porabe vašega računalnika.</span>
+<a href="power-batterylife.html.sl" title="Poraba manjše količine energije in podaljšanje trajanja baterije">Poraba manjše količine energije in podaljšanje trajanja baterije</a><span class="desc"> — Namigi za zmanjšanje porabe vašega računalnika.</span>
 </li>
 <li class="links ">
-<a href="power-autosuspend.html" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-autosuspend.html.sl" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -140,7 +140,7 @@
   administrative user, you may be asked for your password to power off.</p>
 <div class="note note-tip" title="Namig"><div class="inner"><div class="region"><div class="contents"><p class="p">You may want to power off your computer if you wish to move it and do
     not have a battery, if your battery is low or does not hold charge well. A
-    powered off computer also uses <span class="link"><a href="power-batterylife.html" title="Poraba manjše količine energije in podaljšanje trajanja baterije">less
+    powered off computer also uses <span class="link"><a href="power-batterylife.html.sl" title="Poraba manjše količine energije in podaljšanje trajanja baterije">less
     energy</a></span> than one which is suspended.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -148,7 +148,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Pogjejte tudi</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html" title="Poraba manjše količine energije in podaljšanje trajanja baterije">Poraba manjše količine energije in podaljšanje trajanja baterije</a><span class="desc"> — Namigi za zmanjšanje porabe vašega računalnika.</span>
+<a href="power-batterylife.html.sl" title="Poraba manjše količine energije in podaljšanje trajanja baterije">Poraba manjše količine energije in podaljšanje trajanja baterije</a><span class="desc"> — Namigi za zmanjšanje porabe vašega računalnika.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -160,20 +160,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="index.html" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li>
+<li class="links "><a href="index.html.sl" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li>
 <li class="links ">
-<a href="power.html" title="Napajanje in baterija">Napajanje in baterija</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Zakaj se moj zaslon po določenem času zatemni?">screen dimming</a></span>…
+<a href="power.html.sl" title="Napajanje in baterija">Napajanje in baterija</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.sl" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.sl" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.sl" title="Zakaj se moj zaslon po določenem času zatemni?">screen dimming</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="shell-overview.html" title="Your desktop">Your desktop</a><span class="desc"> — 
-      <span class="link"><a href="clock-calendar.html" title="Sestanki v koledarju">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="Obvestila in vrstica sporočanja">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="Uporabne tipkovne bližnjice">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="Okna in delovne površine">windows and workspaces</a></span>…
+<a href="shell-overview.html.sl" title="Your desktop">Your desktop</a><span class="desc"> — 
+      <span class="link"><a href="clock-calendar.html.sl" title="Sestanki v koledarju">Calendar</a></span>,
+      <span class="link"><a href="shell-notifications.html.sl" title="Obvestila in vrstica sporočanja">notifications</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.sl" title="Uporabne tipkovne bližnjice">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-windows.html.sl" title="Okna in delovne površine">windows and workspaces</a></span>…
     </span>
 </li>
 </ul></div>
@@ -181,7 +181,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-autologin.html" title="Log in automatically">Log in automatically</a><span class="desc"> — Set up automatic login for when you switch on your computer.</span>
+<a href="user-autologin.html.sl" title="Log in automatically">Log in automatically</a><span class="desc"> — Set up automatic login for when you switch on your computer.</span>
 </li></ul></div>
 </div></div>
 </div>

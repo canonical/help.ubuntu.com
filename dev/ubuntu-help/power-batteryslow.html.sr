@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="power.html" title="Напајање и батерија">Напајање и батерија</a> › <a class="trail" href="power.html#faq" title="Питања">Питања</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="power.html.sr" title="Напајање и батерија">Напајање и батерија</a> › <a class="trail" href="power.html.sr#faq" title="Питања">Питања</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="power.html" title="Напајање и батерија">Напајање и батерија</a> › <a class="trail" href="power.html#faq" title="Питања">Питања</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="power.html.sr" title="Напајање и батерија">Напајање и батерија</a> › <a class="trail" href="power.html.sr#faq" title="Питања">Питања</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,12 +61,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Питања">Питања</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.sr#faq" title="Питања">Питања</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterywindows.html" title="Зашто батерија траје краће него на Виндоузу/Мек ОС-у?">Зашто батерија траје краће него на Виндоузу/Мек ОС-у?</a><span class="desc"> — Подешавања од стране произвођача и различите процене трајања батерије могу бити узрок овог проблема.</span>
+<a href="power-batterywindows.html.sr" title="Зашто батерија траје краће него на Виндоузу/Мек ОС-у?">Зашто батерија траје краће него на Виндоузу/Мек ОС-у?</a><span class="desc"> — Подешавања од стране произвођача и различите процене трајања батерије могу бити узрок овог проблема.</span>
 </li></ul></div>
 </div></div>
 </div>

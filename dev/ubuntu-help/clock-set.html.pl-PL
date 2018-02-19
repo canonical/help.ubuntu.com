@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="clock.html" title="Data i czas">Data i czas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="clock.html.pl-PL" title="Data i czas">Data i czas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zmiana daty i czasu</span></h1></div>
@@ -52,9 +52,8 @@
 <p class="p">If the date and time displayed on the top bar are incorrect or in the
   wrong format, you can change them:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span>      
-      overview and start typing <span class="gui">Date &amp; Time</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Date &amp; Time</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Data i czas</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Data i czas</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">If you have <span class="gui">Automatic Date &amp; Time</span> set to <span class="gui">ON</span>,
       your date and time should update automatically if you have an internet
       connection. To update your date and time manually, set this to
@@ -63,7 +62,7 @@
 <li class="steps"><p class="p">You can change how the hour is displayed by selecting
       <span class="gui">24-hour</span> or <span class="gui">AM/PM</span> for <span class="gui">Time Format</span>.</p></li>
 </ol></div></div></div>
-<p class="p">You may also wish to <span class="link"><a href="clock-timezone.html" title="Zmiana strefy czasowej">set the timezone
+<p class="p">You may also wish to <span class="link"><a href="clock-timezone.html.pl-PL" title="Zmiana strefy czasowej">set the timezone
   manually</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -71,12 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Data i czas">Data i czas</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html" title="Zmiana daty i czasu">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Dodawanie zegara światowego">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="Zmiana strefy czasowej">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="Calendar appointments">calendar and appointments</a></span>…
-    </span>
+<a href="clock.html.pl-PL" title="Data i czas">Data i czas</a><span class="desc"> — <span class="link"><a href="clock-set.html.pl-PL" title="Zmiana daty i czasu">Ustawianie daty i czasu</a></span>, <span class="link"><a href="clock-world.html.pl-PL" title="Dodawanie zegara światowego">zegary światowe</a></span>, <span class="link"><a href="clock-timezone.html.pl-PL" title="Zmiana strefy czasowej">strefa czasowa</a></span>, <span class="link"><a href="clock-calendar.html.pl-PL" title="Spotkania w kalendarzu">kalendarz i spotkania</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="accounts.html" title="Contas en liña">Contas en liña</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="accounts.html.gl-GL" title="Contas en liña">Contas en liña</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Servizos en liña e aplicativos</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">En canto engada unha conta en liña, calquera aplicativo poderá usar a conta para calquera dos servizos dispoñíbeis que non <span class="link"><a href="accounts-disable-service.html" title="Controle que servizos en liña dunha conta poden usarse para acceder">desactivara</a></span>. Diferentes fornecedores fornecen distintos servizos. Esta páxina mostra os distintos servizos e algúns dos aplicativos que os usan.</p>
+<p class="p">En canto engada unha conta en liña, calquera aplicativo poderá usar a conta para calquera dos servizos dispoñíbeis que non <span class="link"><a href="accounts-disable-service.html.gl-GL" title="Controle que servizos en liña dunha conta poden usarse para acceder">desactivara</a></span>. Diferentes fornecedores fornecen distintos servizos. Esta páxina mostra os distintos servizos e algúns dos aplicativos que os usan.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Calendario</dt>
 <dd class="terms"><p class="p">O servizo de Calendario permítelle ver, engadir e editar eventos nun calendario en liña. É usado por aplicativos como <span class="app">Calendario</span>, <span class="app">Evolution</span> e <span class="app">California</span>.</p></dd>
@@ -60,7 +60,7 @@
 <dt class="terms">Documentos</dt>
 <dd class="terms"><p class="p">O servizo de Documentos permítelle ver os seus documentos en liña como aqueles en Google Docs. Pode ver os seus documentos usando o aplicativo <span class="app">Documentos</span>.</p></dd>
 <dt class="terms">Ficheiros</dt>
-<dd class="terms"><p class="p">O servizo de Ficheiros engade unha localización de ficheiro remota, como se ten que engadir unha usando a funcionalidade <span class="link"><a href="nautilus-connect.html" title="Examinar ficheiros nun servidor ou compartición de rede">Conectarse ao servidor</a></span> nun xestor de ficheiros. Pode acceder a ficheiros remotos usndo o xestor de ficheiros, así como mediante os diálogos de abrir e gardar ficheiros nun aplicativo.</p></dd>
+<dd class="terms"><p class="p">O servizo de Ficheiros engade unha localización de ficheiro remota, como se ten que engadir unha usando a funcionalidade <span class="link"><a href="nautilus-connect.html.gl-GL" title="Examinar ficheiros nun servidor ou compartición de rede">Conectarse ao servidor</a></span> nun xestor de ficheiros. Pode acceder a ficheiros remotos usndo o xestor de ficheiros, así como mediante os diálogos de abrir e gardar ficheiros nun aplicativo.</p></dd>
 <dt class="terms">Correo electrónico</dt>
 <dd class="terms"><p class="p">O servizo de Correo permítelle enviar e recibir correo electrónico mediante un fornecedor de correo como Google. É usado por <span class="app">Evolution</span>.</p></dd>
 <dt class="terms">Fotos</dt>
@@ -77,13 +77,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Contas en liña">Contas en liña</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Engadir unha conta">Engadir unha conta en liña</a></span>, <span class="link"><a href="accounts-remove.html" title="Retirar unha conta">Quitar unha conta</a></span>, <span class="link"><a href="accounts-which-application.html" title="Servizos en liña e aplicativos">Saber sobre un servizo</a></span>…</span>
+<a href="accounts.html.gl-GL" title="Contas en liña">Contas en liña</a><span class="desc"> — <span class="link"><a href="accounts-add.html.gl-GL" title="Engadir unha conta">Engadir unha conta en liña</a></span>, <span class="link"><a href="accounts-remove.html.gl-GL" title="Retirar unha conta">Quitar unha conta</a></span>, <span class="link"><a href="accounts-which-application.html.gl-GL" title="Servizos en liña e aplicativos">Saber sobre un servizo</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="Controle que servizos en liña dunha conta poden usarse para acceder">Controle que servizos en liña dunha conta poden usarse para acceder</a><span class="desc"> — Algunhas contas en liña poden usarse para acceder a múltiples servizos (como calendario e correo electrónico). Tamén pode controlar que servizos poden ser usados polos aplicativos.</span>
+<a href="accounts-disable-service.html.gl-GL" title="Controle que servizos en liña dunha conta poden usarse para acceder">Controle que servizos en liña dunha conta poden usarse para acceder</a><span class="desc"> — Algunhas contas en liña poden usarse para acceder a múltiples servizos (como calendario e correo electrónico). Tamén pode controlar que servizos poden ser usados polos aplicativos.</span>
 </li></ul></div>
 </div></div>
 </div>

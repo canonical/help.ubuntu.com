@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="prefs-sharing.html" title="Dela-inställningar">Dela-inställningar</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="prefs-sharing.html.sv" title="Dela-inställningar">Dela-inställningar</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="sharing.html" title="Dela">Dela</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="sharing.html.sv" title="Dela">Dela</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,11 +56,11 @@
 <p class="p">Du kan bläddra igenom, söka och spela media på din dator via en enhet med <span class="sys">UPnP</span>- eller <span class="sys">DLNA</span>-stöd, som till exempel en telefon, TV eller spelkonsol. Konfigurera <span class="gui">Mediadelning</span> för att låta dessa enheter få åtkomst till mapparna som innehåller musik, foton och videor.</p>
 <div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Du måste ha paketet <span class="app">Rygel</span> installerat för att <span class="gui">Mediadelning</span> ska vara synligt.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Dela</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Dela</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Dela</span> för att öppna panelen.</p></li>
 <li class="steps">
 <p class="p">Om <span class="gui">Dela</span> är <span class="gui">AV</span>, slå om den till <span class="gui">PÅ</span>.</p>
-<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Om texten nedanför <span class="gui">Datornamn</span> låter dig redigera den, kan du <span class="link"><a href="sharing-displayname.html" title="Ställ in visningsnamnet för din dator">ändra</a></span> namnet din dator visar på nätverket.</p></div></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Om texten nedanför <span class="gui">Datornamn</span> låter dig redigera den, kan du <span class="link"><a href="sharing-displayname.html.sv" title="Ställ in visningsnamnet för din dator">ändra</a></span> namnet din dator visar på nätverket.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Välj <span class="gui">Mediadelning</span>.</p></li>
 <li class="steps"><p class="p">Slå om <span class="gui">Mediadelning</span> till <span class="gui">PÅ</span>.</p></li>
@@ -79,10 +79,10 @@
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Dela">Dela</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Dela ditt skrivbord">Skrivbordsdelning</a></span>, <span class="link"><a href="files-share.html" title="Dela filer visa e-post">Dela filer via e-post</a></span>, <span class="link"><a href="sharing-media.html" title="Dela din musik, foton och videor">Mediadelning</a></span>…</span>
+<a href="sharing.html.sv" title="Dela">Dela</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.sv" title="Dela ditt skrivbord">Skrivbordsdelning</a></span>, <span class="link"><a href="files-share.html.sv" title="Dela filer visa e-post">Dela filer via e-post</a></span>, <span class="link"><a href="sharing-media.html.sv" title="Dela din musik, foton och videor">Mediadelning</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html" title="Dela-inställningar">Dela-inställningar</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Styr delning över Bluetooth">Bluetooth-delning</a></span>, <span class="link"><a href="sharing-personal.html" title="Dela ut dina personliga filer">Delning av personliga filer</a></span>, <span class="link"><a href="sharing-desktop.html" title="Dela ditt skrivbord">Skärmdelning</a></span>, <span class="link"><a href="sharing-media.html" title="Dela din musik, foton och videor">Mediadelning</a></span>…</span>
+<a href="prefs-sharing.html.sv" title="Dela-inställningar">Dela-inställningar</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.sv" title="Styr delning över Bluetooth">Bluetooth-delning</a></span>, <span class="link"><a href="sharing-personal.html.sv" title="Dela ut dina personliga filer">Delning av personliga filer</a></span>, <span class="link"><a href="sharing-desktop.html.sv" title="Dela ditt skrivbord">Skärmdelning</a></span>, <span class="link"><a href="sharing-media.html.sv" title="Dela din musik, foton och videor">Mediadelning</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

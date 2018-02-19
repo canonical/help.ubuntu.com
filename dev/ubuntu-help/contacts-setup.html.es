@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="contacts.html" title="Contactos">Contactos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="contacts.html.es" title="Contactos">Contactos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Iniciar Contactos pro primera vez</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Cuando ejecute <span class="app">Contactos</span> pro primera vez, se abrirá la ventana <span class="gui">Selecciona libreta de contactos</span>.</p>
-<p class="p">Si tiene configuradas las <span class="link"><a href="accounts.html" title="Cuentas en línea">cuentas en línea</a></span>, se listarán en la <span class="gui">Libreta local de direcciones</span>. Elija un elemento de la lista y pulse <span class="gui">Hecho</span>. Todos los contactos nuevos que cree se guardará en la libreta de contactos que elija. También puede ver y editar los contactos de otras libretas de direcciones.</p>
+<p class="p">Si tiene configuradas las <span class="link"><a href="accounts.html.es" title="Cuentas en línea">cuentas en línea</a></span>, se listarán en la <span class="gui">Libreta local de direcciones</span>. Elija un elemento de la lista y pulse <span class="gui">Hecho</span>. Todos los contactos nuevos que cree se guardará en la libreta de contactos que elija. También puede ver y editar los contactos de otras libretas de direcciones.</p>
 <p class="p">Si no tiene ninguna cuenta en línea configurada, pulse en <span class="gui">Cuentas en línea</span> para iniciar la configuración. Si no quiere configurar una cuenta en línea en este momento, pulse <span class="gui">Libreta de direcciones local</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -58,7 +58,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="contacts.html" title="Contactos">Contactos</a><span class="desc"> — Acceder a sus contactos.</span>
+<a href="contacts.html.es" title="Contactos">Contactos</a><span class="desc"> — Acceder a sus contactos.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="prefs-sharing.html" title="Sharing Settings">Sharing Settings</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="prefs-sharing.html.sl" title="Sharing Settings">Sharing Settings</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="Souporaba">Souporaba</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.sl" title="Souporaba">Souporaba</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,14 +60,14 @@
 <div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">You must have the <span class="app">Vino</span> package installed for
      <span class="gui">Screen Sharing</span> to be visible.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Sharing</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Sharing</span> to open the panel.</p></li>
 <li class="steps">
 <p class="p">If <span class="gui">Sharing</span> is <span class="gui">OFF</span>, switch it to
       <span class="gui">ON</span>.</p>
 <div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">If the text below <span class="gui">Computer Name</span> allows
-      you to edit it, you can <span class="link"><a href="sharing-displayname.html" title="Set the display name for your computer">change</a></span>
+      you to edit it, you can <span class="link"><a href="sharing-displayname.html.sl" title="Set the display name for your computer">change</a></span>
       the name your computer displays on the network.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Select <span class="gui">Screen Sharing</span>.</p></li>
@@ -137,18 +137,18 @@
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-sharing.html" title="Sharing Settings">Sharing Settings</a><span class="desc"> — 
-      <span class="link"><a href="sharing-bluetooth.html" title="Control sharing over Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html" title="Share your personal files">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html" title="Dajte svoje namizje v souporabo">Screen sharing</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Share your music, photos and videos">Media sharing</a></span>…
+<a href="prefs-sharing.html.sl" title="Sharing Settings">Sharing Settings</a><span class="desc"> — 
+      <span class="link"><a href="sharing-bluetooth.html.sl" title="Control sharing over Bluetooth">Bluetooth sharing</a></span>,
+      <span class="link"><a href="sharing-personal.html.sl" title="Share your personal files">Personal file sharing</a></span>,
+      <span class="link"><a href="sharing-desktop.html.sl" title="Dajte svoje namizje v souporabo">Screen sharing</a></span>,
+      <span class="link"><a href="sharing-media.html.sl" title="Share your music, photos and videos">Media sharing</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Souporaba">Souporaba</a><span class="desc"> — 
-      <span class="link"><a href="sharing-desktop.html" title="Dajte svoje namizje v souporabo">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html" title="Share files by email">Share files by email</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Share your music, photos and videos">Media sharing</a></span>…
+<a href="sharing.html.sl" title="Souporaba">Souporaba</a><span class="desc"> — 
+      <span class="link"><a href="sharing-desktop.html.sl" title="Dajte svoje namizje v souporabo">Desktop sharing</a></span>,
+      <span class="link"><a href="files-share.html.sl" title="Share files by email">Share files by email</a></span>,
+      <span class="link"><a href="sharing-media.html.sl" title="Share your music, photos and videos">Media sharing</a></span>…
     </span>
 </li>
 </ul></div>

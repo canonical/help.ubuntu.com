@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="disk.html" title="Диски и другие устройства хранения информации">Диски и другие устройства хранения информации</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="disk.html.ru" title="Диски и другие устройства хранения информации">Диски и другие устройства хранения информации</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Тестирование производительности жёсткого диска</span></h1></div>
@@ -52,14 +52,14 @@
 <p class="p">Чтобы проверить скорость жёсткого диска:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open <span class="app">Disks</span> from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview.</p></li>
 <li class="steps"><p class="p">Выберите диск из списка в панели слева.</p></li>
 <li class="steps"><p class="p">Click the menu button and select <span class="gui">Benchmark disk…</span> from the
       menu.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Start Benchmark…</span> and adjust the <span class="gui">Transfer
       Rate</span> and <span class="gui">Access Time</span> parameters as desired.</p></li>
 <li class="steps">
-<p class="p">Нажмите <span class="gui">Оценка производительности</span>, чтобы оценить скорость чтения данных с диска. Могут потребоваться <span class="link"><a href="user-admin-explain.html" title="Как работают административные полномочия?">административные полномочия</a></span>. Введите свой пароль или пароль для запрашиваемой учётной записи администратора.</p>
+<p class="p">Нажмите <span class="gui">Оценка производительности</span>, чтобы оценить скорость чтения данных с диска. Могут потребоваться <span class="link"><a href="user-admin-explain.html.ru" title="Как работают административные полномочия?">административные полномочия</a></span>. Введите свой пароль или пароль для запрашиваемой учётной записи администратора.</p>
 <div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">If <span class="gui">Perform write-benchmark</span> is checked, the benchmark
         will test how fast data can be read from and written to the disk. This
         will take longer to complete.</p></div></div></div></div>
@@ -73,7 +73,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Диски и другие устройства хранения информации">Диски и другие устройства хранения информации</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Проверка оставшегося свободного места на диске">Дисковое пространство</a></span>, <span class="link"><a href="disk-benchmark.html" title="Тестирование производительности жёсткого диска">производительность</a></span>, <span class="link"><a href="disk-check.html" title="Проверка жёсткого диска на наличие неисправностей">неполадки</a></span>, <span class="link"><a href="disk-partitions.html" title="Управление томами и разделами">тома и разделы</a></span>…</span>
+<a href="disk.html.ru" title="Диски и другие устройства хранения информации">Диски и другие устройства хранения информации</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ru" title="Проверка оставшегося свободного места на диске">Дисковое пространство</a></span>, <span class="link"><a href="disk-benchmark.html.ru" title="Тестирование производительности жёсткого диска">производительность</a></span>, <span class="link"><a href="disk-check.html.ru" title="Проверка жёсткого диска на наличие неисправностей">неполадки</a></span>, <span class="link"><a href="disk-partitions.html.ru" title="Управление томами и разделами">тома и разделы</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

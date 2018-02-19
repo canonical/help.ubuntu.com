@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="hardware-problems-graphics.html" title="Skärmproblem">Skärmproblem</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html.sv#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="hardware-problems-graphics.html.sv" title="Skärmproblem">Skärmproblem</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Varför ser saker otydliga/pixellerade ut på min skärm?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Detta kan hända när skärmupplösningen du använder inte är den bästa för din skärm.</p>
-<p class="p">För att lösa detta öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skärmar</span>. Klicka på <span class="gui">Skärmar</span> för att öppna panelen. Prova några av alternativen under <span class="gui">Upplösning</span> och ställ in den som gör att skärmen ser bättre ut.</p>
+<p class="p">För att lösa detta öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skärmar</span>. Klicka på <span class="gui">Skärmar</span> för att öppna panelen. Prova några av alternativen under <span class="gui">Upplösning</span> och ställ in den som gör att skärmen ser bättre ut.</p>
 </div>
 <div id="multihead" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">När flera skärmar är anslutna</span></h2></div>
@@ -59,7 +59,7 @@
 <p class="p">Du kan ställa in det så att båda skärmarna har olika upplösningar, men du kommer inte att kunna visa samma sak på båda skärmarna samtidigt. I själva verket kommer du att ha två oberoende skärmar anslutna samtidigt. Du kan flytta fönster från en skärm till en annan, men du kan inte visa samma fönster på båda skärmarna samtidigt.</p>
 <p class="p">Att ställa in skärmarna så att de har olika upplösningar:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skärmar</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skärmar</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Skärmar</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Skärmen bör finnas listad som <span class="gui">Speglad</span>. Välj din huvudskärm.</p></li>
 <li class="steps"><p class="p">Välj <span class="gui">Primär</span> i listan över skärmkonfigurationer och klicka sedan på <span class="gui">Verkställ</span> för att spara.</p></li>
@@ -73,13 +73,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-problems-graphics.html" title="Skärmproblem">Skärmproblem</a><span class="desc"> — Felsök skärm- och grafikproblem.</span>
+<a href="hardware-problems-graphics.html.sv" title="Skärmproblem">Skärmproblem</a><span class="desc"> — Felsök skärm- och grafikproblem.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-resolution.html" title="Ändra upplösning eller rotation på skärmen">Ändra upplösning eller rotation på skärmen</a><span class="desc"> — Ändra upplösningen på skärmen och dess orientering (rotation).</span>
+<a href="look-resolution.html.sv" title="Ändra upplösning eller rotation på skärmen">Ändra upplösning eller rotation på skärmen</a><span class="desc"> — Ändra upplösningen på skärmen och dess orientering (rotation).</span>
 </li></ul></div>
 </div></div>
 </div>

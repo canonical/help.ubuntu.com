@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="ユーザー設定およびシステム設定">設定</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ja" title="ユーザー設定およびシステム設定">設定</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">オンラインアカウント</span></h1></div>
@@ -54,14 +54,14 @@
   applications to access online services like email, calendars, chat, and
   documents.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="accounts-add.html" title="アカウントの追加"><span class="title">アカウントの追加</span><span class="linkdiv-dash"> — </span><span class="desc">Allow applications to access your accounts online for photos,
+<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.ja" title="アカウントの追加"><span class="title">アカウントの追加</span><span class="linkdiv-dash"> — </span><span class="desc">Allow applications to access your accounts online for photos,
     contacts, calendars, and more.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html" title="アカウントの削除"><span class="title">アカウントの削除</span><span class="linkdiv-dash"> — </span><span class="desc">Remove access to an online service provider from your
+<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.ja" title="アカウントの削除"><span class="title">アカウントの削除</span><span class="linkdiv-dash"> — </span><span class="desc">Remove access to an online service provider from your
     applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html" title="Why add an account?"><span class="title">Why add an account?</span><span class="linkdiv-dash"> — </span><span class="desc">メールやソーシャルメディアのアカウントをデスクトップに追加するのはなぜ?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html" title="Online services and applications"><span class="title">Online services and applications</span><span class="linkdiv-dash"> — </span><span class="desc">アプリケーションは、<span class="app">オンラインアカウント</span>で作成したアカウントや、そのアカウントで利用するサービスをアクセスできます。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html" title="アカウントがアクセスできるオンラインサービスの設定"><span class="title">アカウントがアクセスできるオンラインサービスの設定</span><span class="linkdiv-dash"> — </span><span class="desc">オンラインアカウントによっては、複数のサービス (カレンダーやメールなど) にアクセスできるものがあります。どのサービスをアプリケーションが使用できるかについて設定できます。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html" title="利用しているアカウントの種類が一覧にないのはなぜ?"><span class="title">利用しているアカウントの種類が一覧にないのはなぜ?</span><span class="linkdiv-dash"> — </span><span class="desc">オンラインサービスプロバイダーが一覧になかったら?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.ja" title="Why add an account?"><span class="title">Why add an account?</span><span class="linkdiv-dash"> — </span><span class="desc">メールやソーシャルメディアのアカウントをデスクトップに追加するのはなぜ?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.ja" title="Online services and applications"><span class="title">Online services and applications</span><span class="linkdiv-dash"> — </span><span class="desc">アプリケーションは、<span class="app">オンラインアカウント</span>で作成したアカウントや、そのアカウントで利用するサービスをアクセスできます。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.ja" title="アカウントがアクセスできるオンラインサービスの設定"><span class="title">アカウントがアクセスできるオンラインサービスの設定</span><span class="linkdiv-dash"> — </span><span class="desc">オンラインアカウントによっては、複数のサービス (カレンダーやメールなど) にアクセスできるものがあります。どのサービスをアプリケーションが使用できるかについて設定できます。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html.ja" title="利用しているアカウントの種類が一覧にないのはなぜ?"><span class="title">利用しているアカウントの種類が一覧にないのはなぜ?</span><span class="linkdiv-dash"> — </span><span class="desc">オンラインサービスプロバイダーが一覧になかったら?</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -70,18 +70,18 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="ユーザー設定およびシステム設定">ユーザー設定およびシステム設定</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="キーボード">キーボード</a></span>, <span class="link"><a href="mouse.html" title="マウス">マウス</a></span>, <span class="link"><a href="prefs-display.html" title="Display &amp; screen">ディスプレイ</a></span>, <span class="link"><a href="prefs-language.html" title="地域と言語">言語</a></span>, <span class="link"><a href="user-accounts.html" title="ユーザーアカウント">ユーザーアカウント</a></span>…</span>
+<a href="prefs.html.ja" title="ユーザー設定およびシステム設定">ユーザー設定およびシステム設定</a><span class="desc"> — <span class="link"><a href="keyboard.html.ja" title="キーボード">キーボード</a></span>, <span class="link"><a href="mouse.html.ja" title="マウス">マウス</a></span>, <span class="link"><a href="prefs-display.html.ja" title="Display &amp; screen">ディスプレイ</a></span>, <span class="link"><a href="prefs-language.html.ja" title="地域と言語">言語</a></span>, <span class="link"><a href="user-accounts.html.ja" title="ユーザーアカウント">ユーザーアカウント</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-connect-online-accounts.html" title="オンラインアカウントに接続する">オンラインアカウントへの接続に関するチュートリアル</a></li>
+<li class="links "><a href="gs-connect-online-accounts.html.ja" title="オンラインアカウントに接続する">オンラインアカウントへの接続に関するチュートリアル</a></li>
 <li class="links ">
-<a href="net-chat.html" title="チャットとソーシャルネットワーク">チャットとソーシャルネットワーク</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Ubuntuでのインスタントメッセージ">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="ビデオ通話">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="どのようにすればUbuntuでSkypeを使うことができますか？">install skype</a></span>
+<a href="net-chat.html.ja" title="チャットとソーシャルネットワーク">チャットとソーシャルネットワーク</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.ja" title="Ubuntuでのインスタントメッセージ">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.ja" title="ビデオ通話">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.ja" title="どのようにすればUbuntuでSkypeを使うことができますか？">install skype</a></span>
     </span>
 </li>
 </ul></div>

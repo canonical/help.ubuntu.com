@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Επαφές</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Χρησιμοποιήστε τις <span class="app">Επαφές</span> για αποθήκευση, προσπέλαση ή επεξεργασία των πληροφοριών των επαφών σας, τοπικά ή στους <span class="link"><a href="accounts.html" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακούς λογαριασμούς</a></span>.</p>
+<p class="p">Χρησιμοποιήστε τις <span class="app">Επαφές</span> για αποθήκευση, προσπέλαση ή επεξεργασία των πληροφοριών των επαφών σας, τοπικά ή στους <span class="link"><a href="accounts.html.el" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακούς λογαριασμούς</a></span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html" title="Εκκίνηση της εφαρμογής Επαφές για πρώτη φορά"><span class="title">Εκκίνηση της εφαρμογής Επαφές για πρώτη φορά</span><span class="linkdiv-dash"> — </span><span class="desc">Αποθηκεύστε τις επαφές σας σε ένα τοπικό βιβλίο διευθύνσεων ή σε έναν διαδικτυακό λογαριασμό.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-search.html" title="Αναζήτηση επαφής"><span class="title">Αναζήτηση επαφής</span><span class="linkdiv-dash"> — </span><span class="desc">Αναζητήστε μια επαφή.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html" title="Επεξεργασία λεπτομερειών επαφής"><span class="title">Επεξεργασία λεπτομερειών επαφής</span><span class="linkdiv-dash"> — </span><span class="desc">Επεξεργαστείτε τις πληροφορίες για κάθε επαφή.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html" title="Προσθήκη ή αφαίρεση μιας επαφής"><span class="title">Προσθήκη ή αφαίρεση μιας επαφής</span><span class="linkdiv-dash"> — </span><span class="desc">Προθέστε ή αφαιρέστε μια επαφή από το τοπικό βιβλίο διευθύνσεων.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html" title="Συνδεθείτε με την επαφή σας"><span class="title">Συνδεθείτε με την επαφή σας</span><span class="linkdiv-dash"> — </span><span class="desc">Επικοινωνήστε με ηλ. αλληλογραφία, συνομιλία ή τηλεφωνικώς.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html" title="Σύνδεση και αποσύνδεση επαφών"><span class="title">Σύνδεση και αποσύνδεση επαφών</span><span class="linkdiv-dash"> — </span><span class="desc">Συνδιάστε πληροφορίες για μια επαφή από πολλαπλές πηγές.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.el" title="Εκκίνηση της εφαρμογής Επαφές για πρώτη φορά"><span class="title">Εκκίνηση της εφαρμογής Επαφές για πρώτη φορά</span><span class="linkdiv-dash"> — </span><span class="desc">Αποθηκεύστε τις επαφές σας σε ένα τοπικό βιβλίο διευθύνσεων ή σε έναν διαδικτυακό λογαριασμό.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-search.html.el" title="Αναζήτηση επαφής"><span class="title">Αναζήτηση επαφής</span><span class="linkdiv-dash"> — </span><span class="desc">Αναζητήστε μια επαφή.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.el" title="Επεξεργασία λεπτομερειών επαφής"><span class="title">Επεξεργασία λεπτομερειών επαφής</span><span class="linkdiv-dash"> — </span><span class="desc">Επεξεργαστείτε τις πληροφορίες για κάθε επαφή.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html.el" title="Προσθήκη ή αφαίρεση μιας επαφής"><span class="title">Προσθήκη ή αφαίρεση μιας επαφής</span><span class="linkdiv-dash"> — </span><span class="desc">Προθέστε ή αφαιρέστε μια επαφή από το τοπικό βιβλίο διευθύνσεων.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.el" title="Συνδεθείτε με την επαφή σας"><span class="title">Συνδεθείτε με την επαφή σας</span><span class="linkdiv-dash"> — </span><span class="desc">Επικοινωνήστε με ηλ. αλληλογραφία, συνομιλία ή τηλεφωνικώς.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html.el" title="Σύνδεση και αποσύνδεση επαφών"><span class="title">Σύνδεση και αποσύνδεση επαφών</span><span class="linkdiv-dash"> — </span><span class="desc">Συνδιάστε πληροφορίες για μια επαφή από πολλαπλές πηγές.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Ασύρματη δικτύωση">Ασύρματο</a></span>, <span class="link"><a href="net-wired.html" title="Ενσύρματη δικτύωση">Ενσύρματο</a></span>, <span class="link"><a href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα σύνδεσης</a></span>, <span class="link"><a href="net-browser.html" title="Περιηγητές Ιστού">Περιήγηση ιστού</a></span>, <span class="link"><a href="net-email.html" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Λογαριασμοί αλληλογραφίας</a></span>…</span>
+<a href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a><span class="desc"> — <span class="link"><a href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματο</a></span>, <span class="link"><a href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματο</a></span>, <span class="link"><a href="net-problem.html.el" title="Προβλήματα δικτύου">Προβλήματα σύνδεσης</a></span>, <span class="link"><a href="net-browser.html.el" title="Περιηγητές Ιστού">Περιήγηση ιστού</a></span>, <span class="link"><a href="net-email.html.el" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Λογαριασμοί αλληλογραφίας</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

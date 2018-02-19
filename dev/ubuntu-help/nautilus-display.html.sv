@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » <a class="trail" href="nautilus-prefs.html" title="Inställningar för filhanterare">Inställningar för filhanterare</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » <a class="trail" href="nautilus-prefs.html.sv" title="Inställningar för filhanterare">Inställningar för filhanterare</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Filhanterarens visningsinställningar</span></h1></div>
@@ -55,7 +55,7 @@
 <div class="media media-image floatend"><div class="inner"><img src="figures/nautilus-icons.png" height="110" width="250" class="media media-block" alt="Filhanterarens ikoner med text"></div></div>
 <p class="p">När du använder ikonvyn kan du välja att visa extra information om filer och mappar som en text under varje ikon. Detta är till exempel användbart om du ofta behöver se vem som äger en fil eller när den senast modifierades.</p>
 <p class="p">Du kan zooma i en mapp genom att klicka på knappen visningsalternativ i verktygsfältet och välja en zoomnivå med skjutreglaget. När du zoomar in kommer filhanteraren att visa mer och mer information i rubriker. Du kan välja upp till tre saker att visa i rubrikerna. Den första kommer att visas på de flesta zoomnivåerna. Den sista kommer bara att visas vid väldigt stora storlekar.</p>
-<p class="p">Informationen du kan visa i ikonrubriker är samma som kolumnerna du kan använda i listvyn. Se <span class="link"><a href="nautilus-list.html" title="Kolumninställningar för listvy i Filer">Kolumninställningar för listvy i Filer</a></span> för mer information.</p>
+<p class="p">Informationen du kan visa i ikonrubriker är samma som kolumnerna du kan använda i listvyn. Se <span class="link"><a href="nautilus-list.html.sv" title="Kolumninställningar för listvy i Filer">Kolumninställningar för listvy i Filer</a></span> för mer information.</p>
 </div></div>
 </div></div>
 <div id="list-view" class="sect"><div class="inner">
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Inställningar för filhanterare">Inställningar för filhanterare</a><span class="desc"> — Visa och ställ in inställningar för filhanteraren.</span>
+<a href="nautilus-prefs.html.sv" title="Inställningar för filhanterare">Inställningar för filhanterare</a><span class="desc"> — Visa och ställ in inställningar för filhanteraren.</span>
 </li></ul></div>
 </div></div></div>
 </div>

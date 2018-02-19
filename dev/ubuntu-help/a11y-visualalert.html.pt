@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Acesso universal">Acesso universal</a> › <a class="trail" href="a11y.html#sound" title="Deficiências auditivas">Deficiências auditivas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.pt" title="Acesso universal">Acesso universal</a> › <a class="trail" href="a11y.html.pt#sound" title="Deficiências auditivas">Deficiências auditivas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Destelho de ecrã para sons de alerta</span></h1></div>
@@ -51,28 +51,28 @@
 <div class="contents">
 <p class="p">Sua computador reproducirá um singelo som de alerta para certos tipos de mensagens e eventos. Se tem dificuldades para oir esses sons, pode fazer que se alumie a janela atual ou o ecrã completo a cada vez que se reproduza um som de alerta.</p>
 <p class="p">This can also be useful if you’re in an environment where you need your
-  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="Escolha ou desative o som de alerta">Escolha ou desative o som de alerta</a></span>
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html.pt" title="Escolha ou desative o som de alerta">Escolha ou desative o som de alerta</a></span>
   to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Acesso universal</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Acesso universal</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Acesso universal</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Alertas visuais</span> na seção <span class="gui">Audição</span>.</p></li>
 <li class="steps"><p class="p">Ative as <span class="gui">Alertas visuais</span> (<span class="gui">Acendido</span>).</p></li>
 <li class="steps"><p class="p">Selecione se quer que destelhe o ecrã inteiro ou só a janela atual.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Pode ativar e desativar rapidamente alerta-las visuais clicando no <span class="link"><a href="a11y-icon.html" title="Encontrar o menu de acesso universal">ícone de acessibilidade</a></span> na barra superior e selecionando <span class="gui">Alertas visuais</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Pode ativar e desativar rapidamente alerta-las visuais clicando no <span class="link"><a href="a11y-icon.html.pt" title="Encontrar o menu de acesso universal">ícone de acessibilidade</a></span> na barra superior e selecionando <span class="gui">Alertas visuais</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#sound" title="Deficiências auditivas">Deficiências auditivas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.pt#sound" title="Deficiências auditivas">Deficiências auditivas</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-alert.html" title="Escolha ou desative o som de alerta">Escolha ou desative o som de alerta</a><span class="desc"> — Escolha o som para reproduzir as mensagens, estabeleça o volume de alerta, ou desative os sons de alerta.</span>
+<a href="sound-alert.html.pt" title="Escolha ou desative o som de alerta">Escolha ou desative o som de alerta</a><span class="desc"> — Escolha o som para reproduzir as mensagens, estabeleça o volume de alerta, ou desative os sons de alerta.</span>
 </li></ul></div>
 </div></div>
 </div>

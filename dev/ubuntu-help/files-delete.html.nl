@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bestanden en mappen verwijderen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Als u een bestand of map niet meer wilt hebben, dan kunt u die verwijderen. Wanneer u een item verwijdert, wordt het verplaatst naar de <span class="gui">Prullenbak</span>, waar het bewaard wordt totdat u de prullenbak leegt. U kunt items die zijn opgeslagen in de map <span class="gui">Prullenbak</span> <span class="link"><a href="files-recover.html" title="Een bestand dat u verwijderd heeft terughalen.">terugzetten naar hun oorspronkelijke locatie</a></span> wanneer u ze weer nodig heeft, of wanneer ze per ongeluk verwijderd waren.</p>
+<p class="p">Als u een bestand of map niet meer wilt hebben, dan kunt u die verwijderen. Wanneer u een item verwijdert, wordt het verplaatst naar de <span class="gui">Prullenbak</span>, waar het bewaard wordt totdat u de prullenbak leegt. U kunt items die zijn opgeslagen in de map <span class="gui">Prullenbak</span> <span class="link"><a href="files-recover.html.nl" title="Een bestand dat u verwijderd heeft terughalen.">terugzetten naar hun oorspronkelijke locatie</a></span> wanneer u ze weer nodig heeft, of wanneer ze per ongeluk verwijderd waren.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Om een bestand naar de prullenbak te verplaatsen:</span></h2></div>
 <div class="region"><ol class="steps">
@@ -71,11 +71,11 @@
 <div class="title title-steps"><h3><span class="title">Een bestand permanent verwijderen:</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Selecteer het item dat u wilt verwijderen.</p></li>
-<li class="steps"><p class="p">Houd de <span class="gui">Shift</span>-toets ingedrukt en druk vervolgens op de <span class="key"><kbd>Delete</kbd></span>-toets op u toetsenbord.</p></li>
+<li class="steps"><p class="p">Houd de <span class="key"><kbd>Shift</kbd></span>-toets ingedrukt en druk vervolgens op de <span class="key"><kbd>Delete</kbd></span>-toets op u toetsenbord.</p></li>
 <li class="steps"><p class="p">Omdat u dit niet ongedaan kunt maken, wordt u gevraagd te bevestigen om een bestand of de map te verwijderen.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Verwijderde bestanden op een <span class="link"><a href="files.html#removable" title="Verwijderbare schijven en externe schijven">verwijderbaar apparaat</a></span> zijn mogelijk niet zichtbaar in andere besturingssystemen zoals Windows of Mac OS. De bestanden zijn er nog wel, en zullen beschikbaar zijn wanneer u het apparaat weer aansluit op uw computer.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Verwijderde bestanden op een <span class="link"><a href="files.html.nl#removable" title="Verwijderbare schijven en externe schijven">verwijderbaar apparaat</a></span> zijn mogelijk niet zichtbaar in andere besturingssystemen zoals Windows of Mac OS. De bestanden zijn er nog wel, en zullen beschikbaar zijn wanneer u het apparaat weer aansluit op uw computer.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -83,15 +83,15 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-recover.html" title="Een bestand dat u verwijderd heeft terughalen.">Een bestand dat u verwijderd heeft terughalen.</a><span class="desc"> — Wanneer u bestanden verwijdert worden ze normaal gesproken naar de Prullenbak verplaatst, maar u kunt ze nog wel terughalen.</span>
+<a href="files-recover.html.nl" title="Een bestand dat u verwijderd heeft terughalen.">Een bestand dat u verwijderd heeft terughalen.</a><span class="desc"> — Wanneer u bestanden verwijdert worden ze normaal gesproken naar de Prullenbak verplaatst, maar u kunt ze nog wel terughalen.</span>
 </li>
-<li class="links "><a href="nautilus-behavior.html#trash" title="Prullenbak">Voorkeuren voor de prullenbak in bestandsbeheer</a></li>
+<li class="links "><a href="nautilus-behavior.html.nl#trash" title="Prullenbak">Voorkeuren voor de prullenbak in bestandsbeheer</a></li>
 </ul></div>
 </div></div>
 </div>

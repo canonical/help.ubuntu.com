@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="accounts.html" title="Comptes en ligne">Comptes en ligne</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Contrôle des services en ligne accessibles par un compte</span></h1></div>
@@ -57,12 +57,12 @@
   for chat.</p>
 <p class="p">Vous pouvez désactiver certains services fournis par chaque compte en ligne :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Online Accounts</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur l'icône <span class="gui">Comptes en ligne</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Sélectionnez le compte que vous voulez modifier dans la liste de gauche.</p></li>
 <li class="steps"><p class="p">A list of services that are available with this account will be
-      shown under <span class="gui">Use for</span>. See <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Online services and applications</a></span>
+      shown under <span class="gui">Use for</span>. See <span class="link"><a href="accounts-which-application.html.fr" title="Online services and applications">Online services and applications</a></span>
       to see which applications access which services.</p></li>
 <li class="steps"><p class="p">Désélectionnez chaque service que vous ne voulez pas utiliser.</p></li>
 </ol></div></div></div>
@@ -75,10 +75,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Comptes en ligne">Comptes en ligne</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Ajout d'un compte">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Suppression d'un compte">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.fr" title="Ajout d'un compte">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.fr" title="Suppression d'un compte">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.fr" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -86,10 +86,10 @@
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="accounts-which-application.html" title="Online services and applications">Online services and applications</a><span class="desc"> — Les applications peuvent utiliser les comptes créés dans <span class="app">Comptes en ligne</span> et les services qu'elles exploitent.</span>
+<a href="accounts-which-application.html.fr" title="Online services and applications">Online services and applications</a><span class="desc"> — Les applications peuvent utiliser les comptes créés dans <span class="app">Comptes en ligne</span> et les services qu'elles exploitent.</span>
 </li>
 <li class="links ">
-<a href="accounts-remove.html" title="Suppression d'un compte">Suppression d'un compte</a><span class="desc"> — Remove access to an online service provider from your
+<a href="accounts-remove.html.fr" title="Suppression d'un compte">Suppression d'un compte</a><span class="desc"> — Remove access to an online service provider from your
     applications.</span>
 </li>
 </ul></div>

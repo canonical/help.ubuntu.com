@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Zvuk, video a obrázky">Zvuk, video a obrázky</a> › <a class="trail" href="media.html#videos" title="Videa a videokamery">Videa</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.cs" title="Zvuk, video a obrázky">Zvuk, video a obrázky</a> › <a class="trail" href="media.html.cs#videos" title="Videa a videokamery">Videa</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Jiní lidé nemohou přehrát mnou vytvořená videa</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">Když vytvoříte na svém počítači s Linuxem video a pošlete jej někomu, kdo používá Windows nebo Mac OS, můžete se setkat s tím, že bude mít problémy s jeho přehráním.</p>
 <p class="p">Aby šlo video přehrát, musí mít osoba, které jej posíláte, nainstalovaný správný <span class="em">kodek</span>. Kodek je kus softwaru, který ví, jak video zpracovat a zobrazit jej na obrazovce. Existuje spousta různých formátů videa a každý tento formát vyžaduje jiný kodek, aby šel přehrát. O jaký formát se jedná u vašeho videa, můžete zjistit následovně:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Z přehledu <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> otevřete <span class="app">Soubory</span>.</p></li>
+<li class="list"><p class="p">Z přehledu <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> otevřete <span class="app">Soubory</span>.</p></li>
 <li class="list"><p class="p">Klikněte pravým tlačítkem na videosoubor a vyberte <span class="gui">Vlastnosti</span>.</p></li>
 <li class="list"><p class="p">Přejděte na kartu <span class="gui">Zvuk/video</span> nebo <span class="gui">Video</span> a podívejte se, jaký <span class="gui">Kodek</span> je uveden v části <span class="gui">Video</span> a <span class="gui">Zvuk</span> (pokud je video ozvučené).</p></li>
 </ul></div></div></div>
@@ -64,7 +64,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Videa a videokamery">Videa</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.cs#videos" title="Videa a videokamery">Videa</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

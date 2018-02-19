@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html#common-file-tasks" title="Tarefas comúns">Tarefas comúns</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#common-file-tasks" title="Tarefas comúns">Tarefas comúns</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Eliminar ficheiros e cartafoles</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">If you do not want a file or folder any more, you can delete it. When you
   delete an item it is moved to the <span class="gui">Trash</span> folder, where it is stored
-  until you empty the trash. You can <span class="link"><a href="files-recover.html" title="Recuperar un ficheiro eliminado">restore
+  until you empty the trash. You can <span class="link"><a href="files-recover.html.gl-GL" title="Recuperar un ficheiro eliminado">restore
   items</a></span> in the <span class="gui">Trash</span> folder to their original location if you
   decide you need them, or if they were accidentally deleted.</p>
 <div class="steps"><div class="inner">
@@ -80,7 +80,7 @@
 <li class="steps"><p class="p">Xa que non é posíbel desfacer isto, preguntaráselle se quere eliminar o ficheiro ou cartafol.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Os ficheiros eliminados nun <span class="link"><a href="files.html#removable" title="Dispositivos extraíbeis e discos externos">dispositivo extraíbel</a></span> poden non ser visíbeis noutros sistemas operativos, tales como Windows ou Mac OS. Os ficheiros seguen aí, e estarán dispoñíbeis cando conecte o dispositivo de novo no seu computador.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Os ficheiros eliminados nun <span class="link"><a href="files.html.gl-GL#removable" title="Dispositivos extraíbeis e discos externos">dispositivo extraíbel</a></span> poden non ser visíbeis noutros sistemas operativos, tales como Windows ou Mac OS. Os ficheiros seguen aí, e estarán dispoñíbeis cando conecte o dispositivo de novo no seu computador.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -88,14 +88,14 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Tarefas comúns">Tarefas comúns</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.gl-GL#common-file-tasks" title="Tarefas comúns">Tarefas comúns</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html#trash" title="Lixo">Preferencias do lixo do xestor de ficheiros</a></li>
+<li class="links "><a href="nautilus-behavior.html.gl-GL#trash" title="Lixo">Preferencias do lixo do xestor de ficheiros</a></li>
 <li class="links ">
-<a href="files-recover.html" title="Recuperar un ficheiro eliminado">Recuperar un ficheiro eliminado</a><span class="desc"> — Os ficheiros eliminados normalmente envíanse ao lixo, polo que pode recuperalos.</span>
+<a href="files-recover.html.gl-GL" title="Recuperar un ficheiro eliminado">Recuperar un ficheiro eliminado</a><span class="desc"> — Os ficheiros eliminados normalmente envíanse ao lixo, polo que pode recuperalos.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a> » <a class="trail" href="nautilus-prefs.html" title="Fájlkezelő beállításai">Fájlkezelő beállításai</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.hu" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html.hu#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a> » <a class="trail" href="nautilus-prefs.html.hu" title="Fájlkezelő beállításai">Fájlkezelő beállításai</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fájlkezelő viselkedésének beállításai</span></h1></div>
@@ -60,7 +60,7 @@
 <div id="executable" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Végrehajtható szöveges fájlok</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">A végrehajtható szöveges fájl egy futtatható (végrehajtható) programot tartalmazó szövegfájl. A <span class="link"><a href="nautilus-file-properties-permissions.html" title="Fájljogosultságok beállítása">fájl jogosultságainak</a></span> is lehetővé kell tenniük a fájl programként való futtatását. A leggyakoribbak a <span class="sys">Shell</span>, <span class="sys">Python</span> és <span class="sys">Perl</span> parancsfájlok. Ezek sorra a <span class="file">.sh</span>, <span class="file">.py</span> és <span class="file">.pl</span> kiterjesztéssel rendelkeznek.</p>
+<p class="p">A végrehajtható szöveges fájl egy futtatható (végrehajtható) programot tartalmazó szövegfájl. A <span class="link"><a href="nautilus-file-properties-permissions.html.hu" title="Fájljogosultságok beállítása">fájl jogosultságainak</a></span> is lehetővé kell tenniük a fájl programként való futtatását. A leggyakoribbak a <span class="sys">Shell</span>, <span class="sys">Python</span> és <span class="sys">Perl</span> parancsfájlok. Ezek sorra a <span class="file">.sh</span>, <span class="file">.py</span> és <span class="file">.pl</span> kiterjesztéssel rendelkeznek.</p>
 <p class="p">Amikor végrehajtható szövegfájlt nyit meg, a következő lehetőségek közül választhat:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Végrehajtható szöveges fájlok futtatása megnyitáskor</span></p></li>
@@ -89,7 +89,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Lásd még</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="files-delete.html" title="Fájlok és mappák törlése">Fájlok és mappák törlése</a><span class="desc"> — Fölöslegessé vált fájlok vagy mappák eltávolítása.</span>
+<a href="files-delete.html.hu" title="Fájlok és mappák törlése">Fájlok és mappák törlése</a><span class="desc"> — Fölöslegessé vált fájlok vagy mappák eltávolítása.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -100,7 +100,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Fájlkezelő beállításai">Fájlkezelő beállításai</a><span class="desc"> — A fájlböngésző beállításainak megjelenítése és megadása.</span>
+<a href="nautilus-prefs.html.hu" title="Fájlkezelő beállításai">Fájlkezelő beállításai</a><span class="desc"> — A fájlböngésző beállításainak megjelenítése és megadása.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html#apps" title="Програми и прозори">Програми и прозори</a> » <a class="trail" href="shell-windows.html" title="Прозори и радни простори">Прозори и радни простори</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Рад са прозорима">Прозори</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.sr" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html.sr#apps" title="Програми и прозори">Програми и прозори</a> » <a class="trail" href="shell-windows.html.sr" title="Прозори и радни простори">Прозори и радни простори</a> › <a class="trail" href="shell-windows.html.sr#working-with-windows" title="Рад са прозорима">Прозори</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Пронађите изгубљени прозор</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Прозор на другом радном простору, или скривен иза другог прозора, се може лако наћи ако користите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">активности</a></span>:</p>
+<p class="p">Прозор на другом радном простору, или скривен иза другог прозора, се може лако наћи ако користите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">активности</a></span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Отворите преглед <span class="gui">активности</span>. Ако се недостајући прозор налази на текућем <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Рад са радним просторима">радном простору</a></span>, овде ће бити приказан у минијатури. Једноставно кликните на минијатуру да поново прикажете прозор, или</p></li>
-<li class="list"><p class="p">Кликните на други радни простор у <span class="link"><a href="shell-workspaces.html" title="Шта је то радни простро, и како ће ми помоћи?">бирачу радног простора</a></span> на десној страни екрана да покушајте да пронађете ваш прозор, или</p></li>
+<li class="list"><p class="p">Отворите преглед <span class="gui">активности</span>. Ако се недостајући прозор налази на текућем <span class="link"><a href="shell-windows.html.sr#working-with-workspaces" title="Рад са радним просторима">радном простору</a></span>, овде ће бити приказан у минијатури. Једноставно кликните на минијатуру да поново прикажете прозор, или</p></li>
+<li class="list"><p class="p">Кликните на други радни простор у <span class="link"><a href="shell-workspaces.html.sr" title="Шта је то радни простро, и како ће ми помоћи?">бирачу радног простора</a></span> на десној страни екрана да покушајте да пронађете ваш прозор, или</p></li>
 <li class="list"><p class="p">Кликните десним тастером миша на програм у полетнику и његови отворени прозори ће бити приказани. Кликните на прозор на списку да се пребаците на њега.</p></li>
 </ul></div></div></div>
 <p class="p">Коришћење пребацивача прозора:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Притисните <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span>+<span class="key"><kbd>Таб</kbd></span></span> да прикажете <span class="link"><a href="shell-windows-switching.html" title="Пребацујте се између прозора">пребацивач прозора</a></span>. Наставите да држите тастер <span class="key"><kbd>Супер</kbd></span> и притисните <span class="key"><kbd>Таб</kbd></span> да кружите по отвореним прозорима, или <span class="keyseq"><span class="key"><kbd>Помак</kbd></span>+<span class="key"><kbd>Таб</kbd></span></span> да кружите уназад.</p></li>
+<li class="list"><p class="p">Притисните <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.sr" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span>+<span class="key"><kbd>Таб</kbd></span></span> да прикажете <span class="link"><a href="shell-windows-switching.html.sr" title="Пребацујте се између прозора">пребацивач прозора</a></span>. Наставите да држите тастер <span class="key"><kbd>Супер</kbd></span> и притисните <span class="key"><kbd>Таб</kbd></span> да кружите по отвореним прозорима, или <span class="keyseq"><span class="key"><kbd>Помак</kbd></span>+<span class="key"><kbd>Таб</kbd></span></span> да кружите уназад.</p></li>
 <li class="list"><p class="p">Ако неки програм има више отворених прозора, држите притиснутим <span class="key"><kbd>Супер</kbd></span> и притисните <span class="key"><kbd>`</kbd></span> (или тастер изнад тастера <span class="key"><kbd>Таб</kbd></span>) да се крећете по њима.</p></li>
 </ul></div></div></div>
 </div>
@@ -65,7 +65,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Рад са прозорима">Рад са прозорима</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.sr#working-with-windows" title="Рад са прозорима">Рад са прозорима</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

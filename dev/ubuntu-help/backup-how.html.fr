@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html#backup" title="Sauvegardes">Sauvegardes</a> » <a class="trail" href="backup-why.html" title="Sauvegarde de vos fichiers importants">Sauvegardes</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html.fr" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html.fr#backup" title="Sauvegardes">Sauvegardes</a> » <a class="trail" href="backup-why.html.fr" title="Sauvegarde de vos fichiers importants">Sauvegardes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Procédure de sauvegarde</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">La manière la plus simple de sauvegarder vos fichiers et paramètres est de confier ce travail à un logiciel de sauvegarde. Il y a plusieurs applications disponibles, dont <span class="app">Déjà Dup</span> par exemple.</p>
 <p class="p">Le manuel de l'application que vous choisissez va vous indiquer comment configurer vos paramètres de sauvegarde et de restauration de vos données.</p>
-<p class="p">Une autre solution consiste à <span class="link"><a href="files-copy.html" title="Copie et déplacement de fichiers et dossiers">copier vos fichiers</a></span> dans un endroit sûr comme un disque dur externe, un autre ordinateur du réseau ou un périphérique USB. Vos <span class="link"><a href="backup-thinkabout.html" title="Où trouver les fichiers à sauvegarder ?">fichiers personnels</a></span> et réglages sont en général stockés dans votre dossier personnel d'où vous pouvez les copier.</p>
+<p class="p">Une autre solution consiste à <span class="link"><a href="files-copy.html.fr" title="Copie et déplacement de fichiers et dossiers">copier vos fichiers</a></span> dans un endroit sûr comme un disque dur externe, un autre ordinateur du réseau ou un périphérique USB. Vos <span class="link"><a href="backup-thinkabout.html.fr" title="Où trouver les fichiers à sauvegarder ?">fichiers personnels</a></span> et réglages sont en général stockés dans votre dossier personnel d'où vous pouvez les copier.</p>
 <p class="p">La quantité de données pouvant être sauvegardées dépend de la taille de votre périphérique de destination. Si vous avez suffisamment de place sur votre périphérique de destination, il est préférable de sauvegarder tout le Dossier personnel à l'exception :</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">des fichiers qui sont déjà sauvegardés ailleurs comme sur un CD, un DVD ou un autre support amovible,</p></li>
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Sauvegarde de vos fichiers importants">Sauvegarde de vos fichiers importants</a><span class="desc"> — Pourquoi, de quoi, où et comment faire des sauvegardes ?</span>
+<a href="backup-why.html.fr" title="Sauvegarde de vos fichiers importants">Sauvegarde de vos fichiers importants</a><span class="desc"> — Pourquoi, de quoi, où et comment faire des sauvegardes ?</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een bestand of map hernoemen</span></h1></div>
@@ -57,15 +57,15 @@
 <li class="steps"><p class="p">Typ de nieuwe naam in en druk op <span class="key"><kbd>Enter</kbd></span>, of klik op <span class="gui">Hernoemen</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p">U kunt een bestand ook hernoemen vanuit het <span class="link"><a href="nautilus-file-properties-basic.html" title="Bestandseigenschappen">Eigenschappen</a></span>-venster.</p>
+<p class="p">U kunt een bestand ook hernoemen vanuit het <span class="link"><a href="nautilus-file-properties-basic.html.nl" title="Bestandseigenschappen">Eigenschappen</a></span>-venster.</p>
 <p class="p">Wanneer u een bestand hernoemt, wordt alleen het eerste deel van de bestandsnaam geselecteerd, niet de bestandsextensie (het deel na de laatste <span class="file">.</span>). De extensie geeft normaal gesproken aan wat voor type bestand het is (bijv. <span class="file">bestand.pdf</span> is een PDF-document), en dat wilt u doorgaans niet wijzigen. Als u ook de extensie wilt wijzigen, selecteer dan de volledige naam en wijzig hem.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u het verkeerde bestand heeft hernoemd, of uw bestand een verkeerde naam heeft gegeven, kunt u het hernoemen ongedaan maken. Om de handeling terug te draaien en de vorige naam te herstellen dient u onmiddellijk te klikken op <span class="gui">Hernoemen ongedaan maken</span> in de taakbalk, of te drukken op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span>.</p></div></div></div></div>
 </div>
 <div id="valid-chars" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Geldige tekens voor bestandsnamen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">U kunt elk teken behalve de <span class="key"><kbd>/</kbd></span> (slash) gebruiken in bestandsnamen. Sommige apparaten echter gebruiken een <span class="em">bestandssysteem</span> dat meer beperkingen heeft voor bestandsnamen. Daarom is het beter om in bestandsnamen de volgende tekens te vermijden: <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
-<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u een bestandsnaam met een <span class="key"><kbd>.</kbd></span> als eerste teken opgeeft, dan zal het bestand <span class="link"><a href="bestanden-verborgen.html" title="bestanden-verborgen">verborgen</a></span> zijn wanneer u probeert het in bestandsbeheer te zien te krijgen.</p></div></div></div></div>
+<p class="p">U kunt elk teken behalve de <span class="file">/</span> (slash) gebruiken in bestandsnamen. Sommige apparaten echter gebruiken een <span class="em">bestandssysteem</span> dat meer beperkingen heeft voor bestandsnamen. Daarom is het beter om in bestandsnamen de volgende tekens te vermijden: <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
+<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u een bestandsnaam met een <span class="file">.</span> als eerste teken opgeeft, dan zal het bestand <span class="link"><a href="files-hidden.html.nl" title="Een bestand verbergen">verborgen</a></span> zijn wanneer u probeert het in bestandsbeheer te zien te krijgen.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="common-probs" class="sect"><div class="inner">
@@ -79,14 +79,14 @@
 <dt class="terms">De bestandsnaam is te lang</dt>
 <dd class="terms"><p class="p">Bij sommige bestandssystemen kunnen bestandsnamen niet meer dan 255 tekens bevatten. Deze grens van 255 tekens  houdt zowel de bestandsnaam als het pad naar het bestand in (bijv. <span class="file">/home/jan/Documenten/werk/bedrijfsplannen/... </span>); u dient dus, waar mogelijk, lange namen voor mappen en bestanden te vermijden.</p></dd>
 <dt class="terms">De optie om de naam te wijzigen is niet beschikbaar</dt>
-<dd class="terms"><p class="p">Als <span class="gui">Hernoemen</span> grijs is, dan heeft u geen toestemming om het bestand te hernoemen. U dient voorzichtig te zijn met het hernoemen van dergelijke bestanden, aangezien het hernoemen van bepaalde beveiligde bestanden ervoor kan zorgen dat uw systeem instabiel wordt. Zie <span class="link"><a href="nautilus-file-properties-permissions.html" title="Bestandsrechten instellen">Bestandsrechten instellen</a></span> voor meer informatie hierover.</p></dd>
+<dd class="terms"><p class="p">Als <span class="gui">Hernoemen</span> grijs is, dan heeft u geen toestemming om het bestand te hernoemen. U dient voorzichtig te zijn met het hernoemen van dergelijke bestanden, aangezien het hernoemen van bepaalde beveiligde bestanden ervoor kan zorgen dat uw systeem instabiel wordt. Zie <span class="link"><a href="nautilus-file-properties-permissions.html.nl" title="Bestandsrechten instellen">Bestandsrechten instellen</a></span> voor meer informatie hierover.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

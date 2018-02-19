@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wireless.html" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wireless.html.de" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-problem.html" title="Netzwerkprobleme">Netzwerkprobleme</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-problem.html.de" title="Netzwerkprobleme">Netzwerkprobleme</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,10 +55,10 @@
 <div class="contents">
 <p class="p">Es gibt eine Reihe von Gründen, warum Ihr Funknetzwerk nicht in der Netzwerkliste zu sehen ist, die in der Liste der verfügbaren Netzwerke im Systemmenü angezeigt wird.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Falls keine Netzwerke in der Liste erscheinen, könnte Ihr Netzwerkadapter abgeschaltet sein oder <span class="link"><a href="net-wireless-troubleshooting.html" title="Problemlösungen für Funknetzwerke">nicht korrekt funktionieren</a></span>. Stellen Sie sicher, dass er eingeschaltet ist.</p></li>
+<li class="list"><p class="p">Falls keine Netzwerke in der Liste erscheinen, könnte Ihr Netzwerkadapter abgeschaltet sein oder <span class="link"><a href="net-wireless-troubleshooting.html.de" title="Problemlösungen für Funknetzwerke">nicht korrekt funktionieren</a></span>. Stellen Sie sicher, dass er eingeschaltet ist.</p></li>
 <li class="list"><p class="p">Sie könnten sich außerhalb des Bereichs des Netzwerks befinden. Versuchen Sie, näher an die Basisstation oder den Router heranzukommen, und schauen Sie nach, ob nach einer Weile das Netzwerk in der Liste erscheint.</p></li>
 <li class="list"><p class="p">Die Liste der Funknetzwerke benötigt eine gewisse Zeit zur Aktualisierung. Falls Sie gerade Ihren Rechner eingeschaltet haben oder den Standort gewechselt haben, sollten Sie eine Minute warten und erneut nachschauen, ob Ihr Netzwerk in der Liste erscheint.</p></li>
-<li class="list"><p class="p">Das Netzwerk könnte verborgen sein. Sie müssen sich <span class="link"><a href="net-wireless-hidden.html" title="Verbinden mit verborgenen Funknetzwerken">auf andere Weise verbinden</a></span>, wenn es sich um ein verborgenes Netzwerk handelt.</p></li>
+<li class="list"><p class="p">Das Netzwerk könnte verborgen sein. Sie müssen sich <span class="link"><a href="net-wireless-hidden.html.de" title="Verbinden mit verborgenen Funknetzwerken">auf andere Weise verbinden</a></span>, wenn es sich um ein verborgenes Netzwerk handelt.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -68,17 +68,17 @@
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Verbinden mit Funknetzwerken">Mit einem WLAN verbinden</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Verbinden mit verborgenen Funknetzwerken">Verborgene Netzwerke</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Warum wird meine WLAN-Verbindung dauernd getrennt?">Verbindung trennen</a></span> …</span>
+<a href="net-wireless.html.de" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.de" title="Verbinden mit Funknetzwerken">Mit einem WLAN verbinden</a></span>, <span class="link"><a href="net-wireless-hidden.html.de" title="Verbinden mit verborgenen Funknetzwerken">Verborgene Netzwerke</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.de" title="Warum wird meine WLAN-Verbindung dauernd getrennt?">Verbindung trennen</a></span> …</span>
 </li>
 <li class="links ">
-<a href="net-problem.html" title="Netzwerkprobleme">Netzwerkprobleme</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Problemlösungen für Funknetzwerke">Fehlerbehandlung für Funknetzwerke</a></span>, <span class="link"><a href="net-wireless-find.html" title="Ich kann mein Funknetzwerk in der Liste nicht finden">Ihr Funknetzwerk suchen</a></span> …</span>
+<a href="net-problem.html.de" title="Netzwerkprobleme">Netzwerkprobleme</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.de" title="Problemlösungen für Funknetzwerke">Fehlerbehandlung für Funknetzwerke</a></span>, <span class="link"><a href="net-wireless-find.html.de" title="Ich kann mein Funknetzwerk in der Liste nicht finden">Ihr Funknetzwerk suchen</a></span> …</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-hidden.html" title="Verbinden mit verborgenen Funknetzwerken">Verbinden mit verborgenen Funknetzwerken</a><span class="desc"> — Verbinden Sie sich mit einem Drahtlosnetzwerk, das nicht in der Netzwerkliste angezeigt wird.</span>
+<a href="net-wireless-hidden.html.de" title="Verbinden mit verborgenen Funknetzwerken">Verbinden mit verborgenen Funknetzwerken</a><span class="desc"> — Verbinden Sie sich mit einem Drahtlosnetzwerk, das nicht in der Netzwerkliste angezeigt wird.</span>
 </li></ul></div>
 </div></div>
 </div>

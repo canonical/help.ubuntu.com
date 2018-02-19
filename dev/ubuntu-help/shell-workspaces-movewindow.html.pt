@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Seu escritório">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicações e janelas">Aplicações e janelas</a> » <a class="trail" href="shell-windows.html" title="Janelas e áreas de trabalho">Janelas e áreas de trabalho</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Trabalhar com áreas de trabalho:">Áreas de trabalho</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pt" title="Seu escritório">Escritorio</a> › <a class="trail" href="shell-overview.html.pt#apps" title="Aplicações e janelas">Aplicações e janelas</a> » <a class="trail" href="shell-windows.html.pt" title="Janelas e áreas de trabalho">Janelas e áreas de trabalho</a> › <a class="trail" href="shell-windows.html.pt#working-with-workspaces" title="Trabalhar com áreas de trabalho:">Áreas de trabalho</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mover uma janela a um área de trabalho diferente</span></h1></div>
@@ -52,16 +52,16 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Usando o rato:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span>.</p></li>
 <li class="steps"><p class="p">Carregue e arraste a janela à direita do ecrã.</p></li>
-<li class="steps"><p class="p">Aparecerá o <span class="em"><a href="shell-workspaces.html" title="Que é um área de trabalho e como ajudar-me-á?">seletor de áreas de trabalho</a></span>.</p></li>
+<li class="steps"><p class="p">Aparecerá o <span class="em"><a href="shell-workspaces.html.pt" title="Que é um área de trabalho e como ajudar-me-á?">seletor de áreas de trabalho</a></span>.</p></li>
 <li class="steps"><p class="p">Arraste a janela a um área de trabalho vazia. Este área de trabalho agora contém a janela que se arrastou nela e criar-se-á uma nova área de trabalho esvazia ao final do <span class="em">seletor de áreas de trabalho</span>.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Usando o teclado:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Selecione a janela que quer mover (por exemplo, utilizando o <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> <span class="em"><a href="shell-windows-switching.html" title="Mudar entre janelas">seletor de janelas</a></span>).</p></li>
+<li class="steps"><p class="p">Selecione a janela que quer mover (por exemplo, utilizando o <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pt" title="Que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> <span class="em"><a href="shell-windows-switching.html.pt" title="Mudar entre janelas">seletor de janelas</a></span>).</p></li>
 <li class="steps">
 <p class="p">Carregue <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Re Pág</kbd></span></span> para mover a janela ao área de trabalho em cima do atual no <span class="em">seletor de áreas de trabalho</span>.</p>
 <p class="p">Carregue <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Av Pág</kbd></span></span> para mover a janela ao área de trabalho abaixo da atual no <span class="em">seletor de áreas de trabalho</span>.</p>
@@ -74,12 +74,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Trabalhar com áreas de trabalho:">Trabalhar com áreas de trabalho:</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.pt#working-with-workspaces" title="Trabalhar com áreas de trabalho:">Trabalhar com áreas de trabalho:</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-workspaces.html" title="Que é um área de trabalho e como ajudar-me-á?">Que é um área de trabalho e como ajudar-me-á?</a><span class="desc"> — As áreas de trabalho são uma maneira de agrupar janelas em seu escritório.</span>
+<a href="shell-workspaces.html.pt" title="Que é um área de trabalho e como ajudar-me-á?">Que é um área de trabalho e como ajudar-me-á?</a><span class="desc"> — As áreas de trabalho são uma maneira de agrupar janelas em seu escritório.</span>
 </li></ul></div>
 </div></div>
 </div>

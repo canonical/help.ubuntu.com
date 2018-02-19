@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="power.html" title="Virransäästö ja akku">Virransäästö ja akku</a> › <a class="trail" href="power.html#faq" title="Kysymykset">Kysymykset</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="power.html.fi" title="Virransäästö ja akku">Virransäästö ja akku</a> › <a class="trail" href="power.html.fi#faq" title="Kysymykset">Kysymykset</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="power.html" title="Virransäästö ja akku">Virransäästö ja akku</a> › <a class="trail" href="power.html#faq" title="Kysymykset">Kysymykset</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="power.html.fi" title="Virransäästö ja akku">Virransäästö ja akku</a> › <a class="trail" href="power.html.fi#faq" title="Kysymykset">Kysymykset</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Joidenkin tietokoneiden käyttöaika akulla saattaa lyhetä Linuxia käytettäessä, vaikka entisessä Windowsissa tai Mac OS X:ssä akku kestää pidempään. Tämä johtuu yleensä siitä, että tietokonevalmistaja on todennäköisesti asentanut Windowsiin/Maciin virranhallintaa parantavia ohjelmistoja tai laitteita. Ne ovat yleensä niin käyttöjärjestelmäkohtaisia, että niiden integroiminen myös Linuxiin ei ole järkevää.</p>
-<p class="p">Valitettavasti näiden ongelmien korjaaminen ainakaan helposti ei ole mahdollista, ellet tarkalleen tiedä mistä ne johtuvat. <span class="link"><a href="power-batterylife.html" title="Käytä vähemmän virtaa ja säästä siten akkua">Yleiset virransäästövinkit</a></span> voivat auttaa. Lisäksi jos tietokoneen <span class="link"><a href="power-batteryslow.html" title="Miksi kannettava tietokoneeni on hidas akkukäytössä?">suorittimen nopeutta</a></span> voi muuttaa, sitä kannattaa kokeilla.</p>
+<p class="p">Valitettavasti näiden ongelmien korjaaminen ainakaan helposti ei ole mahdollista, ellet tarkalleen tiedä mistä ne johtuvat. <span class="link"><a href="power-batterylife.html.fi" title="Käytä vähemmän virtaa ja säästä siten akkua">Yleiset virransäästövinkit</a></span> voivat auttaa. Lisäksi jos tietokoneen <span class="link"><a href="power-batteryslow.html.fi" title="Miksi kannettava tietokoneeni on hidas akkukäytössä?">suorittimen nopeutta</a></span> voi muuttaa, sitä kannattaa kokeilla.</p>
 <p class="p">Yksi syy akun keston arvion epäjohdonmukaisuuteen on se, että arviointitapa on erilainen Windowsin, Mac OS X:n ja Linuxin välillä. Akun kesto saattaa olla kaikissa sama, mutta eri arviointitavat antavat vaihtelevia arvoja.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,19 +62,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Kysymykset">Kysymykset</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.fi#faq" title="Kysymykset">Kysymykset</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batteryestimate.html" title="Akun arvioitu kesto on väärin ilmoitettu">Akun arvioitu kesto on väärin ilmoitettu</a><span class="desc"> — Akun arvioitu kesto  <span class="gui">akkuvalikossa</span> on pelkkä arvio.</span>
+<a href="power-batteryestimate.html.fi" title="Akun arvioitu kesto on väärin ilmoitettu">Akun arvioitu kesto on väärin ilmoitettu</a><span class="desc"> — Akun arvioitu kesto  <span class="gui">akkuvalikossa</span> on pelkkä arvio.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Käytä vähemmän virtaa ja säästä siten akkua">Käytä vähemmän virtaa ja säästä siten akkua</a><span class="desc"> — Vinkkejä tietokoneen virrankäytön vähentämiseksi.</span>
+<a href="power-batterylife.html.fi" title="Käytä vähemmän virtaa ja säästä siten akkua">Käytä vähemmän virtaa ja säästä siten akkua</a><span class="desc"> — Vinkkejä tietokoneen virrankäytön vähentämiseksi.</span>
 </li>
 <li class="links ">
-<a href="power-batteryslow.html" title="Miksi kannettava tietokoneeni on hidas akkukäytössä?">Miksi kannettava tietokoneeni on hidas akkukäytössä?</a><span class="desc"> — Jotkin kannettavat hidastuvat tarkoituksellisesti, kun ne toimivat akun varassa.</span>
+<a href="power-batteryslow.html.fi" title="Miksi kannettava tietokoneeni on hidas akkukäytössä?">Miksi kannettava tietokoneeni on hidas akkukäytössä?</a><span class="desc"> — Jotkin kannettavat hidastuvat tarkoituksellisesti, kun ne toimivat akun varassa.</span>
 </li>
 </ul></div>
 </div></div>

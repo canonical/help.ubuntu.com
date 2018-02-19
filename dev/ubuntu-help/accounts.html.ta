@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ஆன்லைன்  கணக்குகள்</span></h1></div>
@@ -54,14 +54,14 @@
   applications to access online services like email, calendars, chat, and
   documents.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="accounts-add.html" title="கணக்கை சேர்த்தல்"><span class="title">கணக்கை சேர்த்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">Allow applications to access your accounts online for photos,
+<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.ta" title="கணக்கை சேர்த்தல்"><span class="title">கணக்கை சேர்த்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">Allow applications to access your accounts online for photos,
     contacts, calendars, and more.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html" title="ஒரு கணக்கை நீக்குதல்"><span class="title">ஒரு கணக்கை நீக்குதல்</span><span class="linkdiv-dash"> — </span><span class="desc">Remove access to an online service provider from your
+<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.ta" title="ஒரு கணக்கை நீக்குதல்"><span class="title">ஒரு கணக்கை நீக்குதல்</span><span class="linkdiv-dash"> — </span><span class="desc">Remove access to an online service provider from your
     applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html" title="Why add an account?"><span class="title">Why add an account?</span><span class="linkdiv-dash"> — </span><span class="desc">உங்கள் மின்னஞ்சல் அல்லது மீடியா கணக்குகளை பணிமேசையில் ஏன் சேர்க்க வேண்டும்?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html" title="Online services and applications"><span class="title">Online services and applications</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">ஆன்லைன் கணக்குகளில்</span> உருவாக்கிய கணக்குகளையும் அவை வழங்கும் சேவைகளையும் பயன்பாடுகளால் பயன்படுத்த முடியும்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html" title="என் கணக்கு வகை ஏன் பட்டியலில் இல்லை?"><span class="title">என் கணக்கு வகை ஏன் பட்டியலில் இல்லை?</span><span class="linkdiv-dash"> — </span><span class="desc">ஆன்லைன் சேவை வழங்குநர் பட்டியலில் இல்லாவிட்டால்?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html" title="ஒரு கணக்கை எந்தெந்த ஆன்லைன் சேவைகளை அணுக பயன்படுத்தலாம் என்பதைக் கட்டுப்படுத்துதல்"><span class="title">ஒரு கணக்கை எந்தெந்த ஆன்லைன் சேவைகளை அணுக பயன்படுத்தலாம் என்பதைக் கட்டுப்படுத்துதல்</span><span class="linkdiv-dash"> — </span><span class="desc">சில ஆன்லைன் கணக்குகளைப் பயன்படுத்தி ஒன்றுக்கு மேற்பட்ட சேவைகளை (நாள்காட்டி மின்னஞ்சல் போன்று) அணுகப் பயன்படுத்த முடியும். பயன்பாடுகள் எந்தெந்த சேவைகளைப் பயன்படுத்த முடிய வேண்டும் என்பதை நீங்கள் கட்டுப்படுத்தலாம்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.ta" title="Why add an account?"><span class="title">Why add an account?</span><span class="linkdiv-dash"> — </span><span class="desc">உங்கள் மின்னஞ்சல் அல்லது மீடியா கணக்குகளை பணிமேசையில் ஏன் சேர்க்க வேண்டும்?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.ta" title="Online services and applications"><span class="title">Online services and applications</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">ஆன்லைன் கணக்குகளில்</span> உருவாக்கிய கணக்குகளையும் அவை வழங்கும் சேவைகளையும் பயன்பாடுகளால் பயன்படுத்த முடியும்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html.ta" title="என் கணக்கு வகை ஏன் பட்டியலில் இல்லை?"><span class="title">என் கணக்கு வகை ஏன் பட்டியலில் இல்லை?</span><span class="linkdiv-dash"> — </span><span class="desc">ஆன்லைன் சேவை வழங்குநர் பட்டியலில் இல்லாவிட்டால்?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.ta" title="ஒரு கணக்கை எந்தெந்த ஆன்லைன் சேவைகளை அணுக பயன்படுத்தலாம் என்பதைக் கட்டுப்படுத்துதல்"><span class="title">ஒரு கணக்கை எந்தெந்த ஆன்லைன் சேவைகளை அணுக பயன்படுத்தலாம் என்பதைக் கட்டுப்படுத்துதல்</span><span class="linkdiv-dash"> — </span><span class="desc">சில ஆன்லைன் கணக்குகளைப் பயன்படுத்தி ஒன்றுக்கு மேற்பட்ட சேவைகளை (நாள்காட்டி மின்னஞ்சல் போன்று) அணுகப் பயன்படுத்த முடியும். பயன்பாடுகள் எந்தெந்த சேவைகளைப் பயன்படுத்த முடிய வேண்டும் என்பதை நீங்கள் கட்டுப்படுத்தலாம்.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -70,20 +70,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">பயனர் &amp; கணினி அமைவுகள்</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="விசைப்பலகை">விசைப்பலகை</a></span>, <span class="link"><a href="mouse.html" title="சொடுக்கி">சொடுக்கி</a></span>, <span class="link"><a href="prefs-display.html" title="காட்சி &amp; திரை">காட்சி</a></span>, <span class="link"><a href="prefs-language.html" title="பகுதி &amp; மொழி">மொழிகள்</a></span>, <span class="link"><a href="user-accounts.html" title="பயனர் கணக்குகள்">பயனர் கணக்குகள்</a></span>…</span>
+<a href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">பயனர் &amp; கணினி அமைவுகள்</a><span class="desc"> — <span class="link"><a href="keyboard.html.ta" title="விசைப்பலகை">விசைப்பலகை</a></span>, <span class="link"><a href="mouse.html.ta" title="சொடுக்கி">சொடுக்கி</a></span>, <span class="link"><a href="prefs-display.html.ta" title="காட்சி &amp; திரை">காட்சி</a></span>, <span class="link"><a href="prefs-language.html.ta" title="பகுதி &amp; மொழி">மொழிகள்</a></span>, <span class="link"><a href="user-accounts.html.ta" title="பயனர் கணக்குகள்">பயனர் கணக்குகள்</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat.html" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Video calls">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="How can I use Skype on Ubuntu?">install skype</a></span>
+<a href="net-chat.html.ta" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.ta" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.ta" title="Video calls">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.ta" title="How can I use Skype on Ubuntu?">install skype</a></span>
     </span>
 </li>
-<li class="links "><a href="gs-connect-online-accounts.html" title="ஆன்லைன் கணக்குகளுக்கு இணைக்கவும்">ஆன்லைன் கணக்குகளுக்கு இணைப்பது பற்றிய பயிற்சி</a></li>
+<li class="links "><a href="gs-connect-online-accounts.html.ta" title="ஆன்லைன் கணக்குகளுக்கு இணைக்கவும்">ஆன்லைன் கணக்குகளுக்கு இணைப்பது பற்றிய பயிற்சி</a></li>
 </ul></div>
 </div></div>
 </div>

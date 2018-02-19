@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html" title="Navigare via Internet sicuri">Navigare via Internet sicuri</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html.it" title="Navigare via Internet sicuri">Navigare via Internet sicuri</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Porte di rete comunemente usate</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">This is a list of network ports commonly used by applications that provide
   network services, like file sharing or remote desktop viewing. You can change
-  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html" title="Abilitare o bloccare l'accesso al firewall">block or allow
+  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html.it" title="Abilitare o bloccare l'accesso al firewall">block or allow
   access</a></span> to these applications. There are thousands of ports in use, so
   this table isn’t complete.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
@@ -101,17 +101,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Navigare via Internet sicuri">Navigare via Internet sicuri</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="È necessario un software antivirus?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Abilitare o bloccare l'accesso al firewall">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Porte di rete comunemente usate">firewall ports</a></span>…
+<a href="net-security.html.it" title="Navigare via Internet sicuri">Navigare via Internet sicuri</a><span class="desc"> — 
+      <span class="link"><a href="net-antivirus.html.it" title="È necessario un software antivirus?">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.it" title="Abilitare o bloccare l'accesso al firewall">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.it" title="Porte di rete comunemente usate">firewall ports</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-on-off.html" title="Abilitare o bloccare l'accesso al firewall">Abilitare o bloccare l'accesso al firewall</a><span class="desc"> — È possibile controllare quali programmi possono accedere alla rete. Questo aiuta a mantenere il computer sicuro.</span>
+<a href="net-firewall-on-off.html.it" title="Abilitare o bloccare l'accesso al firewall">Abilitare o bloccare l'accesso al firewall</a><span class="desc"> — È possibile controllare quali programmi possono accedere alla rete. Questo aiuta a mantenere il computer sicuro.</span>
 </li></ul></div>
 </div></div>
 </div>

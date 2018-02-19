@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="prefs-display.html" title="Pantalla e monitor">Pantalla e monitor</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="prefs-display.html.gl-GL" title="Pantalla e monitor">Pantalla e monitor</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Change the resolution or rotation of the screen</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Pode cambiar como de grandes (ou detalladas), aparecen as cousas na pantalla cambiando a <span class="em">resolución de pantalla</span>. Pode cambiar a maneira na que se mostran as cousas (por exemplo, se ten unha pantalla xiratoria) cambiando a <span class="em">rotación</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Displays</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Displays</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Se ten varias pantallas e non están en espello, pode ter diferentes configuracións en cada unha. Seleccione unha pantalla no área de previsualización.</p></li>
@@ -72,7 +72,7 @@
   resolution that does not match the aspect ratio of your display, the screen
   will be letterboxed to avoid distortion, by adding black bars to the top and
   bottom or both sides of the screen.</p>
-<p class="p">Pode seleccionar a opción que prefira no menú despregábel <span class="gui">Resolución</span>. Se escolle unha resolución que non sexa axeitada para a súa pantalla é posíbel que a vexa <span class="link"><a href="look-display-fuzzy.html" title="Por que parece que o que hai na miña pantalla está difuso ou pixelado?">borrosa ou pixelada</a></span>.</p>
+<p class="p">Pode seleccionar a opción que prefira no menú despregábel <span class="gui">Resolución</span>. Se escolle unha resolución que non sexa axeitada para a súa pantalla é posíbel que a vexa <span class="link"><a href="look-display-fuzzy.html.gl-GL" title="Por que parece que o que hai na miña pantalla está difuso ou pixelado?">borrosa ou pixelada</a></span>.</p>
 </div></div>
 </div></div>
 <div id="rotation" class="sect"><div class="inner">
@@ -87,13 +87,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Pantalla e monitor">Pantalla e monitor</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Fondo</a></span>, <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">tamaño e rotación</a></span>, brillo…</span>
+<a href="prefs-display.html.gl-GL" title="Pantalla e monitor">Pantalla e monitor</a><span class="desc"> — <span class="link"><a href="look-background.html.gl-GL" title="Change the desktop and lock screen backgrounds">Fondo</a></span>, <span class="link"><a href="look-resolution.html.gl-GL" title="Change the resolution or rotation of the screen">tamaño e rotación</a></span>, brillo…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-display-fuzzy.html" title="Por que parece que o que hai na miña pantalla está difuso ou pixelado?">Por que parece que o que hai na miña pantalla está difuso ou pixelado?</a><span class="desc"> — A resolución da pantalla pode estar incorrectamente axusta.</span>
+<a href="look-display-fuzzy.html.gl-GL" title="Por que parece que o que hai na miña pantalla está difuso ou pixelado?">Por que parece que o que hai na miña pantalla está difuso ou pixelado?</a><span class="desc"> — A resolución da pantalla pode estar incorrectamente axusta.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="printing.html#problems" title="Printerproblemen">Printerproblemen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="printing.html.nl#problems" title="Printerproblemen">Printerproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een printopdracht annuleren, pauzeren, of  vrijgeven</span></h1></div>
@@ -56,7 +56,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Een printopdracht annuleren:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Printers</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Printers</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Klik de <span class="gui">Taken weergeven</span>-knop aan de rechterkant van het <span class="gui">Printers</span>-dialoogvenster.</p></li>
 <li class="steps"><p class="p">Annuleer de printopdracht door op de stopknop te klikken.</p></li>
@@ -79,7 +79,7 @@
 <div class="region"><div class="contents">
 <p class="p">Als u een printopdracht wil pauzeren of vrijgeven, dan kunt u dat doen door in de printerinstellingen naar de taken-dialoog te gaan en de juiste knop te klikken.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Printers</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Printers</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Klik de <span class="gui">Taken weergeven</span>-knop aan de rechterkant van het <span class="gui">Printers</span>-dialoogvenster en pauzeer de printopdracht of geef deze vrij, afhankelijk van wat u wenst.</p></li>
 </ol></div></div></div>
@@ -90,7 +90,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html#problems" title="Printerproblemen">Printerproblemen</a><span class="desc"> — Printers die niet zijn gedetecteerd, vastlopend papier, afdrukken die er niet goed uitzien…</span>
+<a href="printing.html.nl#problems" title="Printerproblemen">Printerproblemen</a><span class="desc"> — Printers die niet zijn gedetecteerd, vastlopend papier, afdrukken die er niet goed uitzien…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="Общий доступ">Общий доступ</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.ru" title="Общий доступ">Общий доступ</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="bluetooth.html.ru" title="Bluetooth">Bluetooth</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="prefs-sharing.html" title="Параметры общего доступа">Параметры общего доступа</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="prefs-sharing.html.ru" title="Параметры общего доступа">Параметры общего доступа</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,17 +60,17 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Разрешить добавление общих файлов в папку <span class="file">Загрузки</span></span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Make sure that <span class="link"><a href="bluetooth-turn-on-off.html" title="Включение и выключение Bluetooth"><span class="gui">Bluetooth</span>
+<li class="steps"><p class="p">Make sure that <span class="link"><a href="bluetooth-turn-on-off.html.ru" title="Включение и выключение Bluetooth"><span class="gui">Bluetooth</span>
       is switched on</a></span>.</p></li>
 <li class="steps"><p class="p">Bluetooth-enabled devices can send files to your
       <span class="file">Downloads</span> folder only when the <span class="gui">Bluetooth</span> panel is
       open.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">You can <span class="link"><a href="sharing-displayname.html" title="Set the display name for your computer">change</a></span> the name your
+<div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">You can <span class="link"><a href="sharing-displayname.html.ru" title="Set the display name for your computer">change</a></span> the name your
     computer displays to other devices.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -80,20 +80,20 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Соединение компьютера с устройством Bluetooth">Подключение</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Отправка файлов на устройство Bluetooth">передача файлов</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Включение и выключение Bluetooth">включение и отключение</a></span>…</span>
+<a href="bluetooth.html.ru" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.ru" title="Соединение компьютера с устройством Bluetooth">Подключение</a></span>, <span class="link"><a href="bluetooth-send-file.html.ru" title="Отправка файлов на устройство Bluetooth">передача файлов</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ru" title="Включение и выключение Bluetooth">включение и отключение</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Общий доступ">Общий доступ</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Общий доступ к рабочему столу">Общий доступ к рабочему столу</a></span>, <span class="link"><a href="files-share.html" title="Обмен файлами по почте">Как делиться файлами по почте</a></span>, <span class="link"><a href="sharing-media.html" title="Сделать общими музыку, фото и видео.">Общий доступ к мультимедиа</a></span>…</span>
+<a href="sharing.html.ru" title="Общий доступ">Общий доступ</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ru" title="Общий доступ к рабочему столу">Общий доступ к рабочему столу</a></span>, <span class="link"><a href="files-share.html.ru" title="Обмен файлами по почте">Как делиться файлами по почте</a></span>, <span class="link"><a href="sharing-media.html.ru" title="Сделать общими музыку, фото и видео.">Общий доступ к мультимедиа</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html" title="Параметры общего доступа">Параметры общего доступа</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Управление общим доступом по Bluetooth">Общий доступ по Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html" title="Сделайте общими ваши личные файлы">Общий доступ к личным файлам</a></span>, <span class="link"><a href="sharing-desktop.html" title="Общий доступ к рабочему столу">Общий доступ к экрану</a></span>, <span class="link"><a href="sharing-media.html" title="Сделать общими музыку, фото и видео.">Общий доступ к мультимедиа</a></span>…</span>
+<a href="prefs-sharing.html.ru" title="Параметры общего доступа">Параметры общего доступа</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.ru" title="Управление общим доступом по Bluetooth">Общий доступ по Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.ru" title="Сделайте общими ваши личные файлы">Общий доступ к личным файлам</a></span>, <span class="link"><a href="sharing-desktop.html.ru" title="Общий доступ к рабочему столу">Общий доступ к экрану</a></span>, <span class="link"><a href="sharing-media.html.ru" title="Сделать общими музыку, фото и видео.">Общий доступ к мультимедиа</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth-connect-device.html" title="Соединение компьютера с устройством Bluetooth">Соединение компьютера с устройством Bluetooth</a><span class="desc"> — Сопряжение устройств Bluetooth.</span>
+<a href="bluetooth-connect-device.html.ru" title="Соединение компьютера с устройством Bluetooth">Соединение компьютера с устройством Bluetooth</a><span class="desc"> — Сопряжение устройств Bluetooth.</span>
 </li></ul></div>
 </div></div>
 </div>

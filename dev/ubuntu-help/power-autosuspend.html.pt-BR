@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="power.html" title="Energia &amp; bateria">Energia &amp; bateria</a> › <a class="trail" href="power.html#saving" title="Configurações de economia de energia">Configurações de economia de energia</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="power.html.pt-BR" title="Energia &amp; bateria">Energia &amp; bateria</a> › <a class="trail" href="power.html.pt-BR#saving" title="Configurações de economia de energia">Configurações de economia de energia</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="power.html" title="Energia &amp; bateria">Energia &amp; bateria</a> › <a class="trail" href="power.html#saving" title="Configurações de economia de energia">Configurações de economia de energia</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="power.html.pt-BR" title="Energia &amp; bateria">Energia &amp; bateria</a> › <a class="trail" href="power.html.pt-BR#saving" title="Configurações de economia de energia">Configurações de economia de energia</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Você pode configurar seu computador para suspender automaticamente quando ocioso. Intervalos diferentes podem ser especificados para executar na bateria ou conectado na tomada.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Energia</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Energia</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Energia</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Na seção <span class="gui">Botão de suspender &amp; desligar</span>, clique em <span class="gui">Suspensão automática</span>.</p></li>
 <li class="steps">
@@ -69,15 +69,15 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#saving" title="Configurações de economia de energia">Configurações de economia de energia</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.pt-BR#saving" title="Configurações de economia de energia">Configurações de economia de energia</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspend.html" title="O que acontece quando eu suspendo o meu computador?">O que acontece quando eu suspendo o meu computador?</a><span class="desc"> — Suspensão leva seu computador para dormir, para que use menos energia.</span>
+<a href="power-suspend.html.pt-BR" title="O que acontece quando eu suspendo o meu computador?">O que acontece quando eu suspendo o meu computador?</a><span class="desc"> — Suspensão leva seu computador para dormir, para que use menos energia.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Suspender">Suspender</a></li>
+<li class="links "><a href="shell-exit.html.pt-BR#suspend" title="Suspender">Suspender</a></li>
 </ul></div>
 </div></div>
 </div>

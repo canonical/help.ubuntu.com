@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="mouse.html" title="சொடுக்கி">சொடுக்கி</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="mouse.html.ta" title="சொடுக்கி">சொடுக்கி</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="அனைவருக்குமான அணுகல்">அனைவருக்குமான அணுகல்</a> › <a class="trail" href="a11y.html#mobility" title="நகர்வதிலான குறைபாடுகள்">நகர்வதிலான குறைபாடுகள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ta" title="அனைவருக்குமான அணுகல்">அனைவருக்குமான அணுகல்</a> › <a class="trail" href="a11y.html.ta#mobility" title="நகர்வதிலான குறைபாடுகள்">நகர்வதிலான குறைபாடுகள்</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="mouse.html" title="சொடுக்கி">சொடுக்கி</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="mouse.html.ta" title="சொடுக்கி">சொடுக்கி</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <p class="p">திரையில் உள்ள ஒரு கட்டுப்பாடு அல்லது பொருளின் மீது உங்கள் சொடுக்கி சுட்டியை மேல் நகர்த்துவதன் மூலமே அவற்றை சொடுக்கவோ இழுக்கவோ முடியும். சொடுக்கியை ஒரே சமயத்தில் சொடுக்கியபடி இழுப்பது உங்களுக்கு சிரமமாக இருக்கும்பட்சத்தில் இது உங்களுக்கு பயனுள்ளதாக இருக்கும். இந்த அம்சம் மேல் நகர்த்து சொடுக்கம் அல்லது ட்வெல் சொடுக்கம் எனப்படும்.</p>
 <p class="p">மேல்நகர்த்து சொடுக்கம் செயல்படுத்தப்பட்டிருக்கும் போது ஒரு கட்டுப்பாட்டின் மீது நீங்கள் உங்கள் சொடுக்கி சுட்டியை நகர்த்தி, சொடுக்கியிலிருந்து விலகிச் செல்ல விட்டு, உங்களுக்காக பொத்தான் சொடுக்கப்படும் வரை சற்று காத்திருக்கவும்.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p"><span class="gui">அனைவருக்குமான அணுகல்</span> ஐத் திறந்து <span class="gui">தட்டச்சு</span> கீற்றைத் தேர்ந்தெடுக்கவும்.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Click Assist</span> in the <span class="gui">Pointing &amp;
@@ -77,9 +77,9 @@
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse.html" title="சொடுக்கி">சொடுக்கி</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="உங்கள் சொடுக்கியை இடதுகைப் பழக்கத்திற்கு ஏற்றபடி பயன்படுத்துதல்">இடக்கைப் பழக்கம்</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="சொடுக்கி மற்றும் தொடுதிட்டின் வேகத்தை சரிசெய்தல்">வேகமும் உணர்திறனும்</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="தொடுதிட்டைப் பயன்படுத்தி சொடுக்குதல், இழுத்தல் அல்லது உருட்டுதல்">தொடுதிட்டு சொடுக்கமும் உருட்டுதலும்</a></span>…</span>
+<a href="mouse.html.ta" title="சொடுக்கி">சொடுக்கி</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.ta" title="உங்கள் சொடுக்கியை இடதுகைப் பழக்கத்திற்கு ஏற்றபடி பயன்படுத்துதல்">இடக்கைப் பழக்கம்</a></span>, <span class="link"><a href="mouse-sensitivity.html.ta" title="சொடுக்கி மற்றும் தொடுதிட்டின் வேகத்தை சரிசெய்தல்">வேகமும் உணர்திறனும்</a></span>, <span class="link"><a href="mouse-touchpad-click.html.ta" title="தொடுதிட்டைப் பயன்படுத்தி சொடுக்குதல், இழுத்தல் அல்லது உருட்டுதல்">தொடுதிட்டு சொடுக்கமும் உருட்டுதலும்</a></span>…</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="நகர்வதிலான குறைபாடுகள்">நகர்வதிலான குறைபாடுகள்</a></li>
+<li class="links "><a href="a11y.html.ta#mobility" title="நகர்வதிலான குறைபாடுகள்">நகர்வதிலான குறைபாடுகள்</a></li>
 </ul></div>
 </div></div></div>
 </div>

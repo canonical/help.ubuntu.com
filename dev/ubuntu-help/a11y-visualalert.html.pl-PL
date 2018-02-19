@@ -43,34 +43,34 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Ułatwienia dostępu">Ułatwienia dostępu</a> › <a class="trail" href="a11y.html#sound" title="Wady słuchu">Wady słuchu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.pl-PL" title="Ułatwienia dostępu">Ułatwienia dostępu</a> › <a class="trail" href="a11y.html.pl-PL#sound" title="Wady słuchu">Wady słuchu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Miganie ekranem przy dźwiękach alarmów</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Komputer będzie odtwarzał prosty dźwięk alarmu dla pewnych rodzajów komunikatów i wydarzeń. Jeśli słyszenie tych dźwięków sprawia trudności, to można włączyć miganie całym ekranem lub obecnie używanym oknem podczas odtwarzania tych dźwięków.</p>
-<p class="p">Jest to przydatne także w miejscach, gdzie komputer musi mieć wyłączony dźwięk, na przykład w bibliotece. <span class="link"><a href="sound-alert.html" title="Choose or disable the alert sound">Choose or disable the alert sound</a></span> zawiera informacje o wyciszaniu dźwięków alarmów.</p>
+<p class="p">Jest to przydatne także w miejscach, gdzie komputer musi mieć wyłączony dźwięk, na przykład w bibliotece. <span class="link"><a href="sound-alert.html.pl-PL" title="Choose or disable the alert sound">Choose or disable the alert sound</a></span> zawiera informacje o wyciszaniu dźwięków alarmów.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Ułatwienia dostępu</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Ułatwienia dostępu</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Ułatwienia dostępu</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Naciśnij <span class="gui">Alarmy wizualne</span> w sekcji <span class="gui">Słuch</span>.</p></li>
 <li class="steps"><p class="p">Przełącz <span class="gui">Alarmy wizualne</span> na <span class="gui">|</span> (włączone).</p></li>
 <li class="steps"><p class="p">Wybierz, czy migać ma cały ekran lub tylko tytuł obecnie używanego okna.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Można szybko włączać i wyłączać alarmy wizualne klikając <span class="link"><a href="a11y-icon.html" title="Odnajdowanie menu ułatwień dostępu">ikonę ułatwień dostępu</a></span> i wybierając <span class="gui">Alarmy wizualne</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Można szybko włączać i wyłączać alarmy wizualne klikając <span class="link"><a href="a11y-icon.html.pl-PL" title="Odnajdowanie menu ułatwień dostępu">ikonę ułatwień dostępu</a></span> i wybierając <span class="gui">Alarmy wizualne</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#sound" title="Wady słuchu">Wady słuchu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.pl-PL#sound" title="Wady słuchu">Wady słuchu</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-alert.html" title="Choose or disable the alert sound">Choose or disable the alert sound</a><span class="desc"> — Choose the sound to play for messages, set the alert volume, or
+<a href="sound-alert.html.pl-PL" title="Choose or disable the alert sound">Choose or disable the alert sound</a><span class="desc"> — Choose the sound to play for messages, set the alert volume, or
     disable alert sounds.</span>
 </li></ul></div>
 </div></div>

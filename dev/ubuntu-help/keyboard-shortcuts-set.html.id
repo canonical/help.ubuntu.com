@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="keyboard.html" title="Papan tik">Papan tik</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="keyboard.html.id" title="Papan tik">Papan tik</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="keyboard.html" title="Papan tik">Papan tik</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="keyboard.html.id" title="Papan tik">Papan tik</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Untuk mengubah tombol atau tombol-tombol yang perlu ditekan bagi pintasan papan tik:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Papan Ketik</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Papan Ketik</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Papan Tik</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Select the <span class="gui">Shortcuts</span> tab.</p></li>
 <li class="steps"><p class="p">Select a category in the left pane, and the row for the desired action
@@ -133,7 +133,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Pindahkan jendela satu area kerja naik</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html.id" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Pindahkan jendela satu area kerja turun</p></td>
@@ -513,13 +513,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
+<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Use alternative keyboard layouts">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Pintasan papan tik yang berguna">Pintasan papan tik yang berguna</a><span class="desc"> — Get around the desktop using the keyboard.</span>
+<a href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna">Pintasan papan tik yang berguna</a><span class="desc"> — Get around the desktop using the keyboard.</span>
 </li></ul></div>
 </div></div>
 </div>

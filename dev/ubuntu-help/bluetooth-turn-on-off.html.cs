@@ -43,23 +43,33 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="bluetooth.html.cs" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zapnutí nebo vypnutí Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Bluetooth můžete mít zapnuté, abyste se mohli připojit k jinému zařízení Bluetooth, nebo vypnuté, abyste šetřili energii. Zapnete jej tak, že kliknete na ikonu Bluetooth na horní liště a přepnete vypínač <span class="gui">Bluetooth</span> na <span class="gui">Zapnuto</span>.</p>
-<p class="p">Řada notebooků má hardwarový vypínač nebo kombinaci kláves, kterými lze Bluetooth zapnout a vypnout. Když je hardware vypnutý, není ikona Bluetooth na horní liště zobrazená. V takovém případě se podívejte po hardwarovém vypínači nebo klávese na klávesnici. Klávesa je často v kombinaci s pomocnou klávesou <span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
-<p class="p">Když chcete Bluetooth vypnout, klikněte na ikonu Bluetooth a přepněte <span class="gui">Bluetooth</span> na <span class="gui">Vypnuto</span>.</p>
-<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Váš počítač je <span class="link"><a href="bluetooth-visibility.html" title="Co je to viditelnost Bluetooth?">viditelný</a></span>, když je vypínač <span class="gui">Viditelný</span> v nabídce Bluetooth přepnutý na <span class="gui">Zapnuto</span>.</p></div></div></div></div>
+<p class="p">Bluetooth můžete mít zapnuté, abyste se mohli připojit k jinému zařízení Bluetooth, nebo vypnuté, abyste šetřili energii. Zapnete jej následovně:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Kliknutím na <span class="gui">Bluetooth</span> otevřete příslušný panel.</p></li>
+<li class="steps"><p class="p">Vypínač nahoře přepněte na <span class="gui">❙</span> (zapnuto).</p></li>
+</ol></div></div></div>
+<p class="p">Řada notebooků má hardwarový vypínač nebo kombinaci kláves, kterým lze Bluetooth zapnout a vypnout. Podívejte se po hardwarovém vypínači nebo příslušné klávese na klávesnici. Klávesa je často v kombinaci s pomocnou klávesou <span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
+<p class="p">Když chcete Bluetooth vypnout:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Otevřete <span class="gui"><a href="shell-introduction.html.cs#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> vpravo na horní liště.</p></li>
+<li class="steps"><p class="p">Vyberte <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span>   Nepoužívá se</span>. Oddíl Bluetooth v nabídce se rozbalí.</p></li>
+<li class="steps"><p class="p">Vyberte <span class="gui">Vypnout</span>.</p></li>
+</ol></div></div></div>
+<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Váš počítač je <span class="link"><a href="bluetooth-visibility.html.cs" title="Co je to viditelnost Bluetooth?">viditelný</a></span> po celo dobu, co je otevřen panel <span class="gui">Bluetooth</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Připojení počítače k zařízení Bluetooth">Připojení</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Posílání souborů do zařízení Bluetooth">posílání souborů</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Zapnutí nebo vypnutí Bluetooth">zapnutí a vypnutí</a></span>…</span>
+<a href="bluetooth.html.cs" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.cs" title="Připojení počítače k zařízení Bluetooth">Připojení</a></span>, <span class="link"><a href="bluetooth-send-file.html.cs" title="Posílání souborů do zařízení Bluetooth">posílání souborů</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.cs" title="Zapnutí nebo vypnutí Bluetooth">zapnutí a vypnutí</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

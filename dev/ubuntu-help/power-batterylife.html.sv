@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="power.html" title="Ström och batteri">Ström och batteri</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="power.html.sv" title="Ström och batteri">Ström och batteri</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="power.html" title="Ström och batteri">Ström och batteri</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="power.html.sv" title="Ström och batteri">Ström och batteri</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,9 +56,9 @@
 <div id="general" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Allmänna tips</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#suspend" title="Vänteläge">Försätt datorn i vänteläge</a></span> när du inte använder den. Detta reducerar mängden ström den använder signifikant, och den kan väckas upp snabbt.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#shutdown" title="Stäng av eller starta om">Stäng av</a></span> datorn när du inte kommer att använda den under längre period. Vissa människor oroar sig för att stänga av datorn regelbundet skulle orsaka att den slits snabbare, men detta är inte fallet.</p></li>
-<li class="list"><p class="p">Använd <span class="gui">Ström</span>-panelen i <span class="app">Inställningar</span> för att ändra dina ströminställningar. Det finns ett antal alternativ som kommer att hjälpa dig att spara ström: du kan <span class="link"><a href="display-blank.html" title="Ställ in tiden för skärmtömning">automatiskt tömma skärmen</a></span> efter en viss tid, reducera <span class="link"><a href="display-brightness.html" title="Ställ in ljusstyrka">skärmens ljusstyrka</a></span> och få din dator att <span class="link"><a href="power-autosuspend.html" title="Konfigurera automatiskt vänteläge">automatiskt försättas i vänteläge</a></span> om du inte använt den under en viss tid.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.sv#suspend" title="Vänteläge">Försätt datorn i vänteläge</a></span> när du inte använder den. Detta reducerar mängden ström den använder signifikant, och den kan väckas upp snabbt.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.sv#shutdown" title="Stäng av eller starta om">Stäng av</a></span> datorn när du inte kommer att använda den under längre period. Vissa människor oroar sig för att stänga av datorn regelbundet skulle orsaka att den slits snabbare, men detta är inte fallet.</p></li>
+<li class="list"><p class="p">Använd <span class="gui">Ström</span>-panelen i <span class="app">Inställningar</span> för att ändra dina ströminställningar. Det finns ett antal alternativ som kommer att hjälpa dig att spara ström: du kan <span class="link"><a href="display-blank.html.sv" title="Ställ in tiden för skärmtömning">automatiskt tömma skärmen</a></span> efter en viss tid, reducera <span class="link"><a href="display-brightness.html.sv" title="Ställ in ljusstyrka">skärmens ljusstyrka</a></span> och få din dator att <span class="link"><a href="power-autosuspend.html.sv" title="Konfigurera automatiskt vänteläge">automatiskt försättas i vänteläge</a></span> om du inte använt den under en viss tid.</p></li>
 <li class="list"><p class="p">Stäng av externa enheter (som skrivare och bildläsare) när du inte använder dem.</p></li>
 </ul></div></div></div></div></div>
 </div></div>
@@ -66,7 +66,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Bärbara datorer, ultraportabla och andra enheter med batterier</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Reducera <span class="link"><a href="display-brightness.html" title="Ställ in ljusstyrka">skärmens ljusstyrka</a></span>. Strömförsörjningen för skärmen står för en signifikant del av en bärbar dators strömförbrukning.</p>
+<p class="p">Reducera <span class="link"><a href="display-brightness.html.sv" title="Ställ in ljusstyrka">skärmens ljusstyrka</a></span>. Strömförsörjningen för skärmen står för en signifikant del av en bärbar dators strömförbrukning.</p>
 <p class="p">De flesta bärbara datorer har knappar på tangentbordet (eller ett kortkommando) som du kan använda för att reducera ljusstyrkan.</p>
 </li>
 <li class="list">
@@ -88,32 +88,32 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Ström och batteri">Ström och batteri</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Kontrollera batteristatus">Batteristatus</a></span>, <span class="link"><a href="power-suspend.html" title="Vad händer när jag försätter min dator i vänteläge?">försätta i vänteläge</a></span>, <span class="link"><a href="power-whydim.html" title="Varför tonas min skärm ner efter ett tag?">skärmtoning</a></span>…</span>
+<a href="power.html.sv" title="Ström och batteri">Ström och batteri</a><span class="desc"> — <span class="link"><a href="power-status.html.sv" title="Kontrollera batteristatus">Batteristatus</a></span>, <span class="link"><a href="power-suspend.html.sv" title="Vad händer när jag försätter min dator i vänteläge?">försätta i vänteläge</a></span>, <span class="link"><a href="power-whydim.html.sv" title="Varför tonas min skärm ner efter ett tag?">skärmtoning</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-status.html" title="Kontrollera batteristatus">Kontrollera batteristatus</a><span class="desc"> — Visa status för batteriet och anslutna enheter.</span>
+<a href="power-status.html.sv" title="Kontrollera batteristatus">Kontrollera batteristatus</a><span class="desc"> — Visa status för batteriet och anslutna enheter.</span>
 </li>
 <li class="links ">
-<a href="power-wireless.html" title="Slå av trådlösa teknologier som inte används">Slå av trådlösa teknologier som inte används</a><span class="desc"> — Bluetooth, wi-fi och mobilt bredband kan slås av för att minska batterianvändning.</span>
+<a href="power-wireless.html.sv" title="Slå av trådlösa teknologier som inte används">Slå av trådlösa teknologier som inte används</a><span class="desc"> — Bluetooth, wi-fi och mobilt bredband kan slås av för att minska batterianvändning.</span>
 </li>
 <li class="links ">
-<a href="display-brightness.html" title="Ställ in ljusstyrka">Ställ in ljusstyrka</a><span class="desc"> — Ändra skärmens ljusstyrka för att göra den läsligare i starkt ljus.</span>
+<a href="display-brightness.html.sv" title="Ställ in ljusstyrka">Ställ in ljusstyrka</a><span class="desc"> — Ändra skärmens ljusstyrka för att göra den läsligare i starkt ljus.</span>
 </li>
-<li class="links "><a href="shell-exit.html#shutdown" title="Stäng av eller starta om">Stäng av eller starta om</a></li>
+<li class="links "><a href="shell-exit.html.sv#shutdown" title="Stäng av eller starta om">Stäng av eller starta om</a></li>
 <li class="links ">
-<a href="power-suspend.html" title="Vad händer när jag försätter min dator i vänteläge?">Vad händer när jag försätter min dator i vänteläge?</a><span class="desc"> — Vänteläge försätter din dator i ett strömsparläge där den drar mindre ström.</span>
-</li>
-<li class="links ">
-<a href="power-batterywindows.html" title="Varför har jag mindre batteridriftstid än jag hade i Windows/Mac OS?">Varför har jag mindre batteridriftstid än jag hade i Windows/Mac OS?</a><span class="desc"> — Justeringar från tillverkaren och olika batteridriftsuppskattningar kan vara orsaken till detta problem.</span>
+<a href="power-suspend.html.sv" title="Vad händer när jag försätter min dator i vänteläge?">Vad händer när jag försätter min dator i vänteläge?</a><span class="desc"> — Vänteläge försätter din dator i ett strömsparläge där den drar mindre ström.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="Varför tonas min skärm ner efter ett tag?">Varför tonas min skärm ner efter ett tag?</a><span class="desc"> — Skärmen tonas ner när datorn är oanvänd för att spara ström.</span>
+<a href="power-batterywindows.html.sv" title="Varför har jag mindre batteridriftstid än jag hade i Windows/Mac OS?">Varför har jag mindre batteridriftstid än jag hade i Windows/Mac OS?</a><span class="desc"> — Justeringar från tillverkaren och olika batteridriftsuppskattningar kan vara orsaken till detta problem.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Vänteläge">Vänteläge</a></li>
+<li class="links ">
+<a href="power-whydim.html.sv" title="Varför tonas min skärm ner efter ett tag?">Varför tonas min skärm ner efter ett tag?</a><span class="desc"> — Skärmen tonas ner när datorn är oanvänd för att spara ström.</span>
+</li>
+<li class="links "><a href="shell-exit.html.sv#suspend" title="Vänteläge">Vänteläge</a></li>
 </ul></div>
 </div></div>
 </div>

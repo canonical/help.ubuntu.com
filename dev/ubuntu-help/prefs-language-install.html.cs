@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Instalace a odstranění softwaru">Přidat/odebrat software</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.cs" title="Instalace a odstranění softwaru">Přidat/odebrat software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Instalace jazyků</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Při instalaci Ubuntu se vámi zvolený jazyk nainstaluje společně s angličtinou, můžete ovšem přidat další jazyky.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
@@ -62,7 +62,7 @@
 <li class="steps"><p class="p">Check the languages you want to install, and uncheck those
       currently installed languages you want to remove.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Apply Changes</span>.</p></li>
-<li class="steps"><p class="p">Pro změnu jsou vyžadována <span class="link"><a href="user-admin-explain.html" title="Jak fungují oprávnění správce?">správcovská oprávnění</a></span>. Zadejte své heslo respektive heslo vyžadovaného správcovského účtu.</p></li>
+<li class="steps"><p class="p">Pro změnu jsou vyžadována <span class="link"><a href="user-admin-explain.html.cs" title="Jak fungují oprávnění správce?">správcovská oprávnění</a></span>. Zadejte své heslo respektive heslo vyžadovaného správcovského účtu.</p></li>
 </ol></div></div></div>
 <p class="p">In addition to the translations used to display menus and messages,
   with a new language may follow various language support components such
@@ -75,17 +75,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Instalace a odstranění softwaru">Instalace a odstranění softwaru</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Instalace dodatečných aplikací">Instalace aplikací</a></span>, <span class="link"><a href="addremove-remove.html" title="Odstranění aplikace">odstranění aplikací</a></span>, <span class="link"><a href="addremove-sources.html" title="Přidávání zdrojů softwaru">přidání zdrojů softwaru</a></span>…</span>
+<a href="addremove.html.cs" title="Instalace a odstranění softwaru">Instalace a odstranění softwaru</a><span class="desc"> — <span class="link"><a href="addremove-install.html.cs" title="Instalace dodatečných aplikací">Instalace aplikací</a></span>, <span class="link"><a href="addremove-remove.html.cs" title="Odstranění aplikace">odstranění aplikací</a></span>, <span class="link"><a href="addremove-sources.html.cs" title="Přidávání zdrojů softwaru">přidání zdrojů softwaru</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Instalace dodatečných aplikací">Instalace dodatečných aplikací</a><span class="desc"> — Použijte <span class="app">Ubuntu Software</span> k instalaci dodatečných aplikací a vylepšete své Ubuntu.</span>
+<a href="addremove-install.html.cs" title="Instalace dodatečných aplikací">Instalace dodatečných aplikací</a><span class="desc"> — Použijte <span class="app">Ubuntu Software</span> k instalaci dodatečných aplikací a vylepšete své Ubuntu.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Region a jazyk">Region a jazyk</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Změna jazyka, který používáte">Jazyk</a></span>, <span class="link"><a href="session-formats.html" title="Změna formátů data a měrných jednotek">region a formáty</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">rozložení klávesnice</a></span>…</span>
+<a href="prefs-language.html.cs" title="Region a jazyk">Region a jazyk</a><span class="desc"> — <span class="link"><a href="session-language.html.cs" title="Změna jazyka, který používáte">Jazyk</a></span>, <span class="link"><a href="session-formats.html.cs" title="Změna formátů data a měrných jednotek">region a formáty</a></span>, <span class="link"><a href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice">rozložení klávesnice</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

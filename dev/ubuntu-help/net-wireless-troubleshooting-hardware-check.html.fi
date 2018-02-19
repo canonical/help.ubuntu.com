@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> › <a class="trail" href="hardware.html#problems" title="Yleisiä ongelmia">Ongelmat</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> › <a class="trail" href="hardware.html.fi#problems" title="Yleisiä ongelmia">Ongelmat</a> » <a class="trail" href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-wireless.html" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a> » <a class="trail" href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Langattoman verkon vianselvitys">Edellinen</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Langattoman verkon vianselvitys">Seuraava</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.fi" title="Langattoman verkon vianselvitys">Edellinen</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.fi" title="Langattoman verkon vianselvitys">Seuraava</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Langattoman verkon vianselvitys</span></h1>
@@ -72,7 +72,7 @@
        vendor: Intel Corporation</pre></div>
 </li>
 <li class="steps">
-<p class="p">Jos langaton verkkosovitin löytyy tulosteesta, jatka <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Langattoman verkon vianselvitys">laitteistoajurien tarkistamiseen</a></span>.</p>
+<p class="p">Jos langaton verkkosovitin löytyy tulosteesta, jatka <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.fi" title="Langattoman verkon vianselvitys">laitteistoajurien tarkistamiseen</a></span>.</p>
 <p class="p">Jos langatonta verkkosovitinta <span class="em">ei</span> löydy tulosteesta, seuraava vaihe riippuu laitteesi tyypistä. Jatka ongelmanratkaisua siirtymällä langattoman verkkosovittimen tyyppiä vastaavaan osioon (<span class="link"><a href="#pci" title="Sisäinen langaton PCI-sovitin">sisäinen PCI</a></span>, <span class="link"><a href="#usb" title="Langaton USB-sovitin">USB</a></span> tai <span class="link"><a href="#pcmcia" title="PCMCIA-laitteiden tarkistaminen">PCMCIA</a></span>).</p>
 </li>
 </ol></div></div></div>
@@ -88,7 +88,7 @@
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Langattoman verkon vianselvitys">Device Drivers
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.fi" title="Langattoman verkon vianselvitys">Device Drivers
       step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
       <span class="link"><a href="#not-recognized" title="Langatonta sovitinta ei tunnistettu">the instructions below</a></span>.</p></li>
@@ -106,7 +106,7 @@
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Langattoman verkon vianselvitys">Device Drivers
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.fi" title="Langattoman verkon vianselvitys">Device Drivers
       step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
       <span class="link"><a href="#not-recognized" title="Langatonta sovitinta ei tunnistettu">the instructions below</a></span>.</p></li>
@@ -129,7 +129,7 @@
 <li class="steps"><p class="p">Liitä langaton verkkosovitin PCMCIA-väylään ja tutki pääteikkunaan ilmestynyttä tekstiä. Muutoksiin pitäisi sisältyä tietoja juuri liitetystä langattomasta verkkosovittimesta. Tutki tulostetta ja yritä saada selville laitteen tietoja.</p></li>
 <li class="steps"><p class="p">Komennon suoritus päätteessä loppuu painamalla <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Tämän jälkeen voit sulkea pääteikkunan.</p></li>
 <li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
-      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Langattoman verkon vianselvitys">Device
+      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.fi" title="Langattoman verkon vianselvitys">Device
       Drivers step</a></span>. If you didn’t find anything related to your wireless
       adapter, see <span class="link"><a href="#not-recognized" title="Langatonta sovitinta ei tunnistettu">the instructions
       below</a></span>.</p></li>
@@ -149,14 +149,14 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Langattoman verkon vianselvitys">Edellinen</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Langattoman verkon vianselvitys">Seuraava</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.fi" title="Langattoman verkon vianselvitys">Edellinen</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.fi" title="Langattoman verkon vianselvitys">Seuraava</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li></ul></div>
 </div></div></div>
 </div>

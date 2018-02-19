@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="color.html" title="Управление цветом">Управление цветом</a> › <a class="trail" href="color.html#profiles" title="Цветовые профили">Цветовые профили</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="color.html.ru" title="Управление цветом">Управление цветом</a> › <a class="trail" href="color.html.ru#profiles" title="Цветовые профили">Цветовые профили</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="color.html" title="Управление цветом">Управление цветом</a> › <a class="trail" href="color.html#profiles" title="Цветовые профили">Цветовые профили</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="color.html.ru" title="Управление цветом">Управление цветом</a> › <a class="trail" href="color.html.ru#profiles" title="Цветовые профили">Цветовые профили</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -62,29 +62,29 @@
     more than a year before the date you bought the device then it’s
     likely dummy data generated that is useless.
   </p>
-<p class="p">Смотрите <span class="link"><a href="color-why-calibrate.html" title="Зачем выполнять калибровку самостоятельно?">Зачем выполнять калибровку самостоятельно?</a></span>, чтобы узнать, почему предоставляемые производителями профили часто бывают абсолютно бесполезными.</p>
+<p class="p">Смотрите <span class="link"><a href="color-why-calibrate.html.ru" title="Зачем выполнять калибровку самостоятельно?">Зачем выполнять калибровку самостоятельно?</a></span>, чтобы узнать, почему предоставляемые производителями профили часто бывают абсолютно бесполезными.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Цветовые профили">Цветовые профили</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.ru#profiles" title="Цветовые профили">Цветовые профили</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Зачем выполнять калибровку самостоятельно?">Зачем выполнять калибровку самостоятельно?</a><span class="desc"> — Калибровка важна, если вы заботитесь о точности передачи цветов на экране или при печати.</span>
+<a href="color-why-calibrate.html.ru" title="Зачем выполнять калибровку самостоятельно?">Зачем выполнять калибровку самостоятельно?</a><span class="desc"> — Калибровка важна, если вы заботитесь о точности передачи цветов на экране или при печати.</span>
 </li>
 <li class="links ">
-<a href="color-testing.html" title="Как проверить, правильно ли работает управление цветом?">Как проверить, правильно ли работает управление цветом?</a><span class="desc"> — Используйте идущие в поставке тестовые профили для проверки корректности применения профилей к вашему монитору.</span>
+<a href="color-testing.html.ru" title="Как проверить, правильно ли работает управление цветом?">Как проверить, правильно ли работает управление цветом?</a><span class="desc"> — Используйте идущие в поставке тестовые профили для проверки корректности применения профилей к вашему монитору.</span>
 </li>
 <li class="links ">
-<a href="color-missingvcgt.html" title="Отсутствует информация для полноэкранной цветокоррекции?">Отсутствует информация для полноэкранной цветокоррекции?</a><span class="desc"> — Полноэкранная цветокоррекция изменяет все цвета монитора во всех окнах.</span>
+<a href="color-missingvcgt.html.ru" title="Отсутствует информация для полноэкранной цветокоррекции?">Отсутствует информация для полноэкранной цветокоррекции?</a><span class="desc"> — Полноэкранная цветокоррекция изменяет все цвета монитора во всех окнах.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Что такое цветовой профиль?">Что такое цветовой профиль?</a><span class="desc"> — Цветовой профиль — это простой файл, описывающий цветовое пространство или отклик устройства.</span>
+<a href="color-whatisprofile.html.ru" title="Что такое цветовой профиль?">Что такое цветовой профиль?</a><span class="desc"> — Цветовой профиль — это простой файл, описывающий цветовое пространство или отклик устройства.</span>
 </li>
 </ul></div>
 </div></div>

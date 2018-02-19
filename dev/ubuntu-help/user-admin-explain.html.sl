@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="user-accounts.html" title="Uporabniški računi">Uporabniki</a> › <a class="trail" href="user-accounts.html#privileges" title="Uporabniška dovoljenja">Dovoljenja</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="user-accounts.html.sl" title="Uporabniški računi">Uporabniki</a> › <a class="trail" href="user-accounts.html.sl#privileges" title="Uporabniška dovoljenja">Dovoljenja</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kako delujejo skrbniška dovoljenja?</span></h1></div>
@@ -109,36 +109,36 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Uporabniška dovoljenja">Uporabniška dovoljenja</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.sl#privileges" title="Uporabniška dovoljenja">Uporabniška dovoljenja</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="printing-name-location.html" title="Change the name or location of a printer">Change the name or location of a printer</a><span class="desc"> — Change the name or location of a printer in the printer
+<a href="printing-name-location.html.sl" title="Change the name or location of a printer">Change the name or location of a printer</a><span class="desc"> — Change the name or location of a printer in the printer
     settings.</span>
 </li>
 <li class="links ">
-<a href="user-delete.html" title="Izbris uporabniškega računa">Izbris uporabniškega računa</a><span class="desc"> — Odstranitev uporabnikov, ki ne uporabljajo več vašega računalnika.</span>
+<a href="user-delete.html.sl" title="Izbris uporabniškega računa">Izbris uporabniškega računa</a><span class="desc"> — Odstranitev uporabnikov, ki ne uporabljajo več vašega računalnika.</span>
 </li>
 <li class="links ">
-<a href="printing-setup-default-printer.html" title="Nastavitev privzetega tiskalnika">Nastavitev privzetega tiskalnika</a><span class="desc"> — Izberite tiskalnik, ki ga najpogosteje uporabljate.</span>
+<a href="printing-setup-default-printer.html.sl" title="Nastavitev privzetega tiskalnika">Nastavitev privzetega tiskalnika</a><span class="desc"> — Izberite tiskalnik, ki ga najpogosteje uporabljate.</span>
 </li>
 <li class="links ">
-<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — V možnostih omrežne povezave morate odstraniti oznako <span class="gui">Na voljo vsem uporabnikom</span>.</span>
+<a href="net-othersedit.html.sl" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — V možnostih omrežne povezave morate odstraniti oznako <span class="gui">Na voljo vsem uporabnikom</span>.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="Sprememba kdo ima skrbniška dovoljenja">Sprememba kdo ima skrbniška dovoljenja</a><span class="desc"> — You can allow users to make changes to the system by giving them
+<a href="user-admin-change.html.sl" title="Sprememba kdo ima skrbniška dovoljenja">Sprememba kdo ima skrbniška dovoljenja</a><span class="desc"> — You can allow users to make changes to the system by giving them
     administrative privileges.</span>
 </li>
 <li class="links ">
-<a href="user-changepicture.html" title="Spremenite svojo fotografijo v prijavnem zaslonu.">Spremenite svojo fotografijo v prijavnem zaslonu.</a><span class="desc"> — Dodajanje fotografije prijavnemu in uporabniškim zaslonom.</span>
+<a href="user-changepicture.html.sl" title="Spremenite svojo fotografijo v prijavnem zaslonu.">Spremenite svojo fotografijo v prijavnem zaslonu.</a><span class="desc"> — Dodajanje fotografije prijavnemu in uporabniškim zaslonom.</span>
 </li>
 <li class="links ">
-<a href="user-changepassword.html" title="Spreminjanje gesla">Spreminjanje gesla</a><span class="desc"> — Obdržite svoj račun varen s pogostim spreminjanem gesla v nastavitvah računa.</span>
+<a href="user-changepassword.html.sl" title="Spreminjanje gesla">Spreminjanje gesla</a><span class="desc"> — Obdržite svoj račun varen s pogostim spreminjanem gesla v nastavitvah računa.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="Težave, ki jih povzročijo skrbniške omejitve">Težave, ki jih povzročijo skrbniške omejitve</a><span class="desc"> — You can do some things, like installing applications, only if you
+<a href="user-admin-problems.html.sl" title="Težave, ki jih povzročijo skrbniške omejitve">Težave, ki jih povzročijo skrbniške omejitve</a><span class="desc"> — You can do some things, like installing applications, only if you
     have administrative privileges.</span>
 </li>
 </ul></div>

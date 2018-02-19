@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Anwendungen installieren &amp; entfernen">Software hinzufügen/entfernen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.de" title="Anwendungen installieren &amp; entfernen">Software hinzufügen/entfernen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Eine Anwendung entfernen</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Eine Anwendung ist ein Programm, das eine graphische Benutzeroberfläche (GUI) hat. Sie können <span class="app">Ubuntu Software</span> benutzen um Anwendungen zu entfernen, die Sie nicht länger nutzen.</p>
 <p class="p">Anwendung stehen in zwei Formaten zur Verfügung: als Snap-Pakete and als Debian-Pakete. Eine Anwendung, die als Snap-Paket zur Verfügung steht, wird von nun an als <span class="em">Snap</span> bezeichnet. Um einen Snap zu installieren (oder zu entfernen), müssen Sie sich bei Snap Store/Ubuntu One anmelden. Einige Anwendungen sind in beiden Formaten erhältlich. In solchen Fällen wird in <span class="app">Ubuntu Software</span> der Snap als erstes aufgelistet.</p>
-<p class="p">Falls Sie Programme entfernen möchten, die keine keine GUI besitzen, benutzen Sie <span class="link"><a href="addremove-install-synaptic.html" title="Synaptic zur erweiterten Anwendungsverwaltung nutzen">Synaptic</a></span>. Beachten Sie, dass <span class="app">Synaptic</span> keine Snaps anzeigt.</p>
+<p class="p">Falls Sie Programme entfernen möchten, die keine keine GUI besitzen, benutzen Sie <span class="link"><a href="addremove-install-synaptic.html.de" title="Synaptic zur erweiterten Anwendungsverwaltung nutzen">Synaptic</a></span>. Beachten Sie, dass <span class="app">Synaptic</span> keine Snaps anzeigt.</p>
 <p class="p">Zum Entfernen einer Anwendung:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">
@@ -73,17 +73,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Anwendungen installieren &amp; entfernen">Anwendungen installieren &amp; entfernen</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Zusätzliche Anwendungen installieren">Anwendungen installieren</a></span>, <span class="link"><a href="addremove-remove.html" title="Eine Anwendung entfernen">Anwendungen entfernen</a></span>, <span class="link"><a href="addremove-sources.html" title="Paketquellen hinzufügen">Softwarequellen hinzufügen</a></span> …</span>
+<a href="addremove.html.de" title="Anwendungen installieren &amp; entfernen">Anwendungen installieren &amp; entfernen</a><span class="desc"> — <span class="link"><a href="addremove-install.html.de" title="Zusätzliche Anwendungen installieren">Anwendungen installieren</a></span>, <span class="link"><a href="addremove-remove.html.de" title="Eine Anwendung entfernen">Anwendungen entfernen</a></span>, <span class="link"><a href="addremove-sources.html.de" title="Paketquellen hinzufügen">Softwarequellen hinzufügen</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install-synaptic.html" title="Synaptic zur erweiterten Anwendungsverwaltung nutzen">Synaptic zur erweiterten Anwendungsverwaltung nutzen</a><span class="desc"> — Synaptic ist eine mächtige, aber auch komplizierte Softwareverwaltungsalternative  zu <span class="app">Ubuntu Software</span>.</span>
+<a href="addremove-install-synaptic.html.de" title="Synaptic zur erweiterten Anwendungsverwaltung nutzen">Synaptic zur erweiterten Anwendungsverwaltung nutzen</a><span class="desc"> — Synaptic ist eine mächtige, aber auch komplizierte Softwareverwaltungsalternative  zu <span class="app">Ubuntu Software</span>.</span>
 </li>
 <li class="links ">
-<a href="addremove-install.html" title="Zusätzliche Anwendungen installieren">Zusätzliche Anwendungen installieren</a><span class="desc"> — Verwenden <span class="app">Ubuntu Software</span> um zusätzliche Programme zu installieren und Ubuntu nützlicher zu machen.</span>
+<a href="addremove-install.html.de" title="Zusätzliche Anwendungen installieren">Zusätzliche Anwendungen installieren</a><span class="desc"> — Verwenden <span class="app">Ubuntu Software</span> um zusätzliche Programme zu installieren und Ubuntu nützlicher zu machen.</span>
 </li>
 </ul></div>
 </div></div>

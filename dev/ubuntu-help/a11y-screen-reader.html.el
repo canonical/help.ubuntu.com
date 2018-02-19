@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Γενική πρόσβαση">Γενική πρόσβαση</a> › <a class="trail" href="a11y.html#vision" title="Οπτικές δυσλειτουργίες">Οπτικές δυσλειτουργίες</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.el" title="Γενική πρόσβαση">Γενική πρόσβαση</a> › <a class="trail" href="a11y.html.el#vision" title="Οπτικές δυσλειτουργίες">Οπτικές δυσλειτουργίες</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ανάγνωση οθόνης δυνατά</span></h1></div>
@@ -54,13 +54,13 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Press <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
 <p class="p">Or to start <span class="app">Orca</span> using a mouse and keyboard:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Γενική πρόσβαση</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Γενική πρόσβαση</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Γενική πρόσβαση</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Αναγνώστης οθόνης</span> στην κατηγορία <span class="gui">Όραση</span>, και στη συνέχεια ενεργοποιήστε τον από τον διάλογο <span class="gui">Αναγνώστης οθόνης</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Συμβουλή"><div class="inner">
 <div class="title title-note"><h2><span class="title">Ενεργοποιήστε και απενεργοποιήστε γρήγορα τον αναγνώστη οθόνης</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Μπορείτε να ενεργοποιήσετε ή όχι τον αναγνώστη οθόνης κάνοντας κλικ στο <span class="link"><a href="a11y-icon.html" title="Βρείτε το μενού γενικής πρόσβασης">εικονίδιο προσιτότητας</a></span> στην πάνω γραμμή και επιλέγοντας <span class="gui">Αναγνώστης οθόνης</span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Μπορείτε να ενεργοποιήσετε ή όχι τον αναγνώστη οθόνης κάνοντας κλικ στο <span class="link"><a href="a11y-icon.html.el" title="Βρείτε το μενού γενικής πρόσβασης">εικονίδιο προσιτότητας</a></span> στην πάνω γραμμή και επιλέγοντας <span class="gui">Αναγνώστης οθόνης</span>.</p></div></div>
 </div></div>
 <p class="p">Για περισσότερες πληροφορίες, δείτε τη <span class="link"><a href="help:orca" title="help:orca">Βοήθεια Orca</a></span>.</p>
 </div>
@@ -69,12 +69,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Οπτικές δυσλειτουργίες">Οπτικές δυσλειτουργίες</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.el#vision" title="Οπτικές δυσλειτουργίες">Οπτικές δυσλειτουργίες</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y-braille.html" title="Ανάγνωση οθόνης σε Μπράιγ">Ανάγνωση οθόνης σε Μπράιγ</a><span class="desc"> — Χρησιμοποιήστε τον αναγνώστη οθόνης <span class="app">Orca</span> με μια ανανεώσιμη οθόνη Μπράιγ.</span>
+<a href="a11y-braille.html.el" title="Ανάγνωση οθόνης σε Μπράιγ">Ανάγνωση οθόνης σε Μπράιγ</a><span class="desc"> — Χρησιμοποιήστε τον αναγνώστη οθόνης <span class="app">Orca</span> με μια ανανεώσιμη οθόνη Μπράιγ.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="accounts.html" title="Účty on-line">Účty on-line</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="accounts.html.cs" title="Účty on-line">Účty on-line</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Proč přidat účet?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Přidání účtů on-line přinese služby, jako jsou kalendář, diskuze nebo e-mail, přímo do vašeho uživatelského prostředí a budete k nim mít pohodlný přístup. Můžete snadno zůstat ve spojení pomocí služeb z různých účtů naráz, třeba vést souběžně více diskuzí. Účty on-line nastavíte jen jednou, a pokaždé, když se pak přihlásíte k počítači, budou tyto účty a služby hned připraveny k použití.</p>
-<p class="p">Která aplikace přistupuje ke které službě on-line viz <span class="link"><a href="accounts-which-application.html" title="Služby a aplikace on-line">Služby a aplikace on-line</a></span>.</p>
+<p class="p">Která aplikace přistupuje ke které službě on-line viz <span class="link"><a href="accounts-which-application.html.cs" title="Služby a aplikace on-line">Služby a aplikace on-line</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Účty on-line">Účty on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Přidání účtu">Přidání účtu on-line</a></span>, <span class="link"><a href="accounts-remove.html" title="Odebrání účtu">odebrání účtu on-line</a></span>, <span class="link"><a href="accounts-which-application.html" title="Služby a aplikace on-line">něco o službách</a></span>…</span>
+<a href="accounts.html.cs" title="Účty on-line">Účty on-line</a><span class="desc"> — <span class="link"><a href="accounts-add.html.cs" title="Přidání účtu">Přidání účtu on-line</a></span>, <span class="link"><a href="accounts-remove.html.cs" title="Odebrání účtu">odebrání účtu on-line</a></span>, <span class="link"><a href="accounts-which-application.html.cs" title="Služby a aplikace on-line">něco o službách</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

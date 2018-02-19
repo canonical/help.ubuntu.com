@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="disk.html" title="Disky a úložiště">Disky a úložiště</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="disk.html.cs" title="Disky a úložiště">Disky a úložiště</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Úprava velikost souborového systému</span></h1></div>
@@ -62,7 +62,7 @@
 <li class="steps">
 <p class="p">Otevře se dialogové okno, kde si můžete zvolit novou velikost. Souborový systém se připojí, aby se vypočítala minimální potřebná velikost. Pokud není zmenšení velikosti podporováno, bude minimální velikost stejná jako aktuální. Když zmenšujete souborový systém, ponechte dostatečné místo, aby mohl fungovat dostatečně rychle a spolehlivě.</p>
 <p class="p">V závislosti na tom, kolik dat se při zmenšování oddílu přesouvá, může změna velikosti trvat dlouho.</p>
-<div class="note note-warning" title="Varování"><div class="inner"><div class="region"><div class="contents"><p class="p">Změna velikosti souborového systému automaticky zavolá <span class="link"><a href="disk-repair.html" title="Oprava poškozeného souborového systému">opravu</a></span> souborového systému. Proto je doporučeno před spuštěním změny velikosti zálohovat důležitá data. Probíhající změnu nesmíte nijak přerušit, jinak dojde k poškození souborového systému.</p></div></div></div></div>
+<div class="note note-warning" title="Varování"><div class="inner"><div class="region"><div class="contents"><p class="p">Změna velikosti souborového systému automaticky zavolá <span class="link"><a href="disk-repair.html.cs" title="Oprava poškozeného souborového systému">opravu</a></span> souborového systému. Proto je doporučeno před spuštěním změny velikosti zálohovat důležitá data. Probíhající změnu nesmíte nijak přerušit, jinak dojde k poškození souborového systému.</p></div></div></div></div>
 </li>
 <li class="steps">
 <p class="p">Spuštění akce potvrďte zmáčknutím tlačítka <span class="gui">Změnit velikost</span>.</p>
@@ -77,7 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Disky a úložiště">Disky a úložiště</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Kontrola volného místa na disku">Místo na disku</a></span>, <span class="link"><a href="disk-benchmark.html" title="Test výkonnosti vašeho pevného disku">výkon</a></span>, <span class="link"><a href="disk-check.html" title="Kontrola problémů s pevným diskem">problémy</a></span>, <span class="link"><a href="disk-partitions.html" title="Správa svazků a oddílů">svazky a oddíly</a></span>…</span>
+<a href="disk.html.cs" title="Disky a úložiště">Disky a úložiště</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.cs" title="Kontrola volného místa na disku">Místo na disku</a></span>, <span class="link"><a href="disk-benchmark.html.cs" title="Test výkonnosti vašeho pevného disku">výkon</a></span>, <span class="link"><a href="disk-check.html.cs" title="Kontrola problémů s pevným diskem">problémy</a></span>, <span class="link"><a href="disk-partitions.html.cs" title="Správa svazků a oddílů">svazky a oddíly</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

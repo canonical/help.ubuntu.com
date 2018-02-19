@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html#backup" title="Резервное копирование">Резервное копирование</a> » <a class="trail" href="backup-why.html" title="Резервное копирование важных данных">Резервные копии</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ru" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html.ru#backup" title="Резервное копирование">Резервное копирование</a> » <a class="trail" href="backup-why.html.ru" title="Резервное копирование важных данных">Резервные копии</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Что копировать</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">В первую очередь следует сделать резервные копии <span class="link"><a href="backup-thinkabout.html" title="Где найти файлы, которые я хочу скопировать?">самых важных файлов</a></span>, а также тех, которые трудно создать заново. Например (в порядке убывания важности):</p>
+<p class="p">В первую очередь следует сделать резервные копии <span class="link"><a href="backup-thinkabout.html.ru" title="Где найти файлы, которые я хочу скопировать?">самых важных файлов</a></span>, а также тех, которые трудно создать заново. Например (в порядке убывания важности):</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Ваши личные файлы</dt>
 <dd class="terms"><p class="p">Это могут быть документы, электронные таблицы, письма, события календаря, финансовые данные, семейные фотографии и любые другие личные файлы, которые невозможно создать заново.</p></dd>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="Резервное копирование важных данных">Резервное копирование важных данных</a><span class="desc"> — Зачем, что, куда и как копировать.</span>
+<a href="backup-why.html.ru" title="Резервное копирование важных данных">Резервное копирование важных данных</a><span class="desc"> — Зачем, что, куда и как копировать.</span>
 </li></ul></div>
 </div></div></div>
 </div>

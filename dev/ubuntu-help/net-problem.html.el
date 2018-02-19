@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Προβλήματα δικτύου</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">Το ασύρματο μπορεί να είναι απενεργοποημένο ή χαλασμένο, ή προσπαθείτε να συνδεθείτε σε ένα κρυφό δίκτυο.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="Other users can’t connect to the internet"><span class="title">Other users can’t connect to the internet</span><span class="linkdiv-dash"> — </span><span class="desc">Μπορείτε να αποθηκεύσετε ρυθμίσεις (όπως τον κωδικό πρόσβασης) για μια δικτυακή σύνδεση έτσι ώστε οιοσδήποτε χρησιμοποιεί τον υπολογιστή να μπορεί να συνδεθεί σε αυτόν.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="Other users can’t edit the network connections"><span class="title">Other users can’t edit the network connections</span><span class="linkdiv-dash"> — </span><span class="desc">Χρειάζεται να αποεπιλέξετε την επιλογή <span class="gui">Διαθέσιμο για όλους τους χρήστες</span> στις ρυθμίσεις σύνδεσης δικτύου.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html.el" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">Το ασύρματο μπορεί να είναι απενεργοποημένο ή χαλασμένο, ή προσπαθείτε να συνδεθείτε σε ένα κρυφό δίκτυο.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html.el" title="Other users can’t connect to the internet"><span class="title">Other users can’t connect to the internet</span><span class="linkdiv-dash"> — </span><span class="desc">Μπορείτε να αποθηκεύσετε ρυθμίσεις (όπως τον κωδικό πρόσβασης) για μια δικτυακή σύνδεση έτσι ώστε οιοσδήποτε χρησιμοποιεί τον υπολογιστή να μπορεί να συνδεθεί σε αυτόν.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html.el" title="Other users can’t edit the network connections"><span class="title">Other users can’t edit the network connections</span><span class="linkdiv-dash"> — </span><span class="desc">Χρειάζεται να αποεπιλέξετε την επιλογή <span class="gui">Διαθέσιμο για όλους τους χρήστες</span> στις ρυθμίσεις σύνδεσης δικτύου.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;"><span class="title">Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;</span><span class="linkdiv-dash"> — </span><span class="desc">Μπορεί να έχετε χαμηλό σήμα, ή το δίκτυο μπορεί να μην σας επιτρέπει να συνδεθείτε κατάλληλα.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-slow.html" title="Το διαδίκτυο φαίνεται αργό"><span class="title">Το διαδίκτυο φαίνεται αργό</span><span class="linkdiv-dash"> — </span><span class="desc">Μπορεί να γίνεται λήψη πραγμάτων, αλλά μπορεί να έχετε μια κακή σύνδεση, ή θα μπορούσε να είναι μια πολυάσχολη ώρα της ημέρας.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html.el" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;"><span class="title">Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;</span><span class="linkdiv-dash"> — </span><span class="desc">Μπορεί να έχετε χαμηλό σήμα, ή το δίκτυο μπορεί να μην σας επιτρέπει να συνδεθείτε κατάλληλα.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-slow.html.el" title="Το διαδίκτυο φαίνεται αργό"><span class="title">Το διαδίκτυο φαίνεται αργό</span><span class="linkdiv-dash"> — </span><span class="desc">Μπορεί να γίνεται λήψη πραγμάτων, αλλά μπορεί να έχετε μια κακή σύνδεση, ή θα μπορούσε να είναι μια πολυάσχολη ώρα της ημέρας.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -65,13 +65,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Ασύρματη δικτύωση">Ασύρματο</a></span>, <span class="link"><a href="net-wired.html" title="Ενσύρματη δικτύωση">Ενσύρματο</a></span>, <span class="link"><a href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα σύνδεσης</a></span>, <span class="link"><a href="net-browser.html" title="Περιηγητές Ιστού">Περιήγηση ιστού</a></span>, <span class="link"><a href="net-email.html" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Λογαριασμοί αλληλογραφίας</a></span>…</span>
+<a href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a><span class="desc"> — <span class="link"><a href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματο</a></span>, <span class="link"><a href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματο</a></span>, <span class="link"><a href="net-problem.html.el" title="Προβλήματα δικτύου">Προβλήματα σύνδεσης</a></span>, <span class="link"><a href="net-browser.html.el" title="Περιηγητές Ιστού">Περιήγηση ιστού</a></span>, <span class="link"><a href="net-email.html.el" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Λογαριασμοί αλληλογραφίας</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Σύνδεση σε ασύρματο δίκτυο">Σύνδεση σε wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Σύνδεση σε κρυφό ασύρματο δίκτυο">Κρυφά δίκτυα</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;">Αποσύνδεση</a></span>…</span>
+<a href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.el" title="Σύνδεση σε ασύρματο δίκτυο">Σύνδεση σε wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.el" title="Σύνδεση σε κρυφό ασύρματο δίκτυο">Κρυφά δίκτυα</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.el" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;">Αποσύνδεση</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-general.html" title="Terminologie sítí a rady">Terminologie sítí a rady</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-general.html.cs" title="Terminologie sítí a rady">Terminologie sítí a rady</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zjištění vaší IP adresy</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Zjištění vaší interní (síťové) adresy IP</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Síť</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Síť</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Síť</span> otevřete příslušný panel.</p></li>
 <li class="steps">
 <p class="p">V seznamu nalevo vyberte připojení – <span class="gui">Wi-Fi</span> nebo <span class="gui">Drátové</span>.</p>
@@ -77,17 +77,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Terminologie sítí a rady">Terminologie sítí a rady</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Zjištění vaší IP adresy">Zjištění vaší adresy IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Co znamená WEP a WPA?">zabezpečení WEP a WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Co je to MAC adresa?">adresa MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Nastavení proxy">proxy</a></span>…</span>
+<a href="net-general.html.cs" title="Terminologie sítí a rady">Terminologie sítí a rady</a><span class="desc"> — <span class="link"><a href="net-findip.html.cs" title="Zjištění vaší IP adresy">Zjištění vaší adresy IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.cs" title="Co znamená WEP a WPA?">zabezpečení WEP a WPA</a></span>, <span class="link"><a href="net-macaddress.html.cs" title="Co je to MAC adresa?">adresa MAC</a></span>, <span class="link"><a href="net-proxy.html.cs" title="Nastavení proxy">proxy</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-what-is-ip-address.html" title="Co je to IP adresa?">Co je to IP adresa?</a><span class="desc"> — IP adresa je něco jako telefonní číslo vašeho počítače.</span>
+<a href="net-what-is-ip-address.html.cs" title="Co je to IP adresa?">Co je to IP adresa?</a><span class="desc"> — IP adresa je něco jako telefonní číslo vašeho počítače.</span>
 </li>
 <li class="links ">
-<a href="net-fixed-ip-address.html" title="Vytvoření připojení se pevnou adresou IP">Vytvoření připojení se pevnou adresou IP</a><span class="desc"> — Použití statické adresy IP může usnadnit poskytování některých síťových služeb z vašeho počítač.</span>
+<a href="net-fixed-ip-address.html.cs" title="Vytvoření připojení se pevnou adresou IP">Vytvoření připojení se pevnou adresou IP</a><span class="desc"> — Použití statické adresy IP může usnadnit poskytování některých síťových služeb z vašeho počítač.</span>
 </li>
 </ul></div>
 </div></div>

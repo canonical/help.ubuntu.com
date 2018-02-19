@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fechar a sessão, apagar ou mudar de utilizador</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Fechar a sessão ou mudar de utilizador</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Para permitir que outros utilizadores usem o seu computador, pode sair da sessão, ou seguir conetado e simplesmente mudar de utilizador. Se muda de utilizador, todos as aplicações seguirão funcionando e tudo estará onde o deixou quando volte a iniciar sessão.</p>
-<p class="p">Para <span class="gui">Sair da sessão</span> ou <span class="gui">Mudar de utilizador</span>, carregue sobre no <span class="link"><a href="shell-introduction.html#yourname" title="Você e o seu computador">menu do sistema</a></span> em parte-a direita da barra superior, carregue sobre seu nome e selecione a opção apropriada.</p>
+<p class="p">Para <span class="gui">Sair da sessão</span> ou <span class="gui">Mudar de utilizador</span>, carregue sobre no <span class="link"><a href="shell-introduction.html.pt#yourname" title="Você e o seu computador">menu do sistema</a></span> em parte-a direita da barra superior, carregue sobre seu nome e selecione a opção apropriada.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">As opções <span class="gui">Sair da sessão</span> e <span class="gui">Mudar de utilizador</span>, só aparecem no menu se tem mais duma conta de utilizador em seu sistema.</p></div></div></div></div>
 </div></div>
 </div></div>
@@ -64,7 +64,7 @@
 <p class="p">If you’re leaving your computer for a short time, you should lock your
   screen to prevent other people from accessing your files or running
   applications. When you return, raise the
-  <span class="link"><a href="shell-lockscreen.html" title="O ecrã de bloqueio">lock screen</a></span> curtain and enter your
+  <span class="link"><a href="shell-lockscreen.html.pt" title="O ecrã de bloqueio">lock screen</a></span> curtain and enter your
   password to log back in. If you don’t lock your screen, it will lock
   automatically after a certain amount of time.</p>
 <p class="p">Para bloquear o ecrã, carregue no menu do sistema em parte-a direita da barra superior e carregue o botão de bloqueio na parte inferior do menu.</p>
@@ -76,10 +76,10 @@
 <div class="title"><h3><span class="title">Consulte também</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Bloquear automaticamente seu ecrã">Bloquear automaticamente seu ecrã</a><span class="desc"> — Impedir que outras pessoas possam usar seu escritório quando se afaste da sua computador.</span>
+<a href="privacy-screen-lock.html.pt" title="Bloquear automaticamente seu ecrã">Bloquear automaticamente seu ecrã</a><span class="desc"> — Impedir que outras pessoas possam usar seu escritório quando se afaste da sua computador.</span>
 </li>
 <li class="links ">
-<a href="session-screenlocks.html" title="O ecrã bloqueia-se demasiado depressa">O ecrã bloqueia-se demasiado depressa</a><span class="desc"> — Mude o tempo de espera antes de que se bloqueie o ecrã na configuração de <span class="gui">Privacidade</span>.</span>
+<a href="session-screenlocks.html.pt" title="O ecrã bloqueia-se demasiado depressa">O ecrã bloqueia-se demasiado depressa</a><span class="desc"> — Mude o tempo de espera antes de que se bloqueie o ecrã na configuração de <span class="gui">Privacidade</span>.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -106,13 +106,13 @@
 <div class="title"><h3><span class="title">Consulte também</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html" title="Configurar a suspensão automática">Configurar a suspensão automática</a><span class="desc"> — Configurar o seu computador para que se suspenda automaticamente</span>
+<a href="power-autosuspend.html.pt" title="Configurar a suspensão automática">Configurar a suspensão automática</a><span class="desc"> — Configurar o seu computador para que se suspenda automaticamente</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Que ocorre quando suspendo a computador?">Que ocorre quando suspendo a computador?</a><span class="desc"> — Suspender põe o seu computador a dormir para que use menos energia.</span>
+<a href="power-suspend.html.pt" title="Que ocorre quando suspendo a computador?">Que ocorre quando suspendo a computador?</a><span class="desc"> — Suspender põe o seu computador a dormir para que use menos energia.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Utilizar menos energia e melhorar a vida da bateria">Utilizar menos energia e melhorar a vida da bateria</a><span class="desc"> — Conselhos para reduzir o consumo de energia da sua computador.</span>
+<a href="power-batterylife.html.pt" title="Utilizar menos energia e melhorar a vida da bateria">Utilizar menos energia e melhorar a vida da bateria</a><span class="desc"> — Conselhos para reduzir o consumo de energia da sua computador.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -125,14 +125,14 @@
 <div class="contents">
 <p class="p">Se quer apagar o seu computador por completo ou fazer um reinicio total, carregue sobre no menu do sistema em parte-a direita da barra superior e carregue o botão de apagar na parte inferior do menu. Aparecerá um diálogo oferecendo-lhe <span class="gui">Reiniciar</span> ou <span class="gui">Apagar</span>.</p>
 <p class="p">Se há outros utilizadores conetados, não poderá apagar ou reiniciar a computador, porque isto fecharia suas sessões. Se é um utilizador administrador, pedir-se-lhe-á  a sua palavra-passe para apagar.</p>
-<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Pode querer apagar a computador se quer movê-lo e não tem uma bateria, ou se a sua bateria está baixa ou não se carrega bem. Uma computador apagada também usa <span class="link"><a href="power-batterylife.html" title="Utilizar menos energia e melhorar a vida da bateria">menos energia</a></span> que um que está suspenso.</p></div></div></div></div>
+<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Pode querer apagar a computador se quer movê-lo e não tem uma bateria, ou se a sua bateria está baixa ou não se carrega bem. Uma computador apagada também usa <span class="link"><a href="power-batterylife.html.pt" title="Utilizar menos energia e melhorar a vida da bateria">menos energia</a></span> que um que está suspenso.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Consulte também</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html" title="Utilizar menos energia e melhorar a vida da bateria">Utilizar menos energia e melhorar a vida da bateria</a><span class="desc"> — Conselhos para reduzir o consumo de energia da sua computador.</span>
+<a href="power-batterylife.html.pt" title="Utilizar menos energia e melhorar a vida da bateria">Utilizar menos energia e melhorar a vida da bateria</a><span class="desc"> — Conselhos para reduzir o consumo de energia da sua computador.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -145,18 +145,18 @@
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power.html" title="Energia e bateria">Energia e bateria</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Verifique o estado da bateria">Estado da bateria</a></span>, <span class="link"><a href="power-suspend.html" title="Que ocorre quando suspendo a computador?">suspender</a></span>, <span class="link"><a href="power-whydim.html" title="Por que meu ecrã se escurece após um tempo?">enfraquecimento do ecrã</a></span>…</span>
+<a href="power.html.pt" title="Energia e bateria">Energia e bateria</a><span class="desc"> — <span class="link"><a href="power-status.html.pt" title="Verifique o estado da bateria">Estado da bateria</a></span>, <span class="link"><a href="power-suspend.html.pt" title="Que ocorre quando suspendo a computador?">suspender</a></span>, <span class="link"><a href="power-whydim.html.pt" title="Por que meu ecrã se escurece após um tempo?">enfraquecimento do ecrã</a></span>…</span>
 </li>
 <li class="links ">
-<a href="shell-overview.html" title="Seu escritório">Seu escritório</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Citas de calendário">Calendário</a></span>, <span class="link"><a href="shell-notifications.html" title="Notificações e a bandeja de mensagens">notificações</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Atalhos de teclado úteis">atalhos do teclado</a></span>, <span class="link"><a href="shell-windows.html" title="Janelas e áreas de trabalho">janelas e áreas de trabalho</a></span>…</span>
+<a href="shell-overview.html.pt" title="Seu escritório">Seu escritório</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.pt" title="Citas de calendário">Calendário</a></span>, <span class="link"><a href="shell-notifications.html.pt" title="Notificações e a bandeja de mensagens">notificações</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.pt" title="Atalhos de teclado úteis">atalhos do teclado</a></span>, <span class="link"><a href="shell-windows.html.pt" title="Janelas e áreas de trabalho">janelas e áreas de trabalho</a></span>…</span>
 </li>
-<li class="links "><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li>
+<li class="links "><a href="index.html.pt" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-autologin.html" title="Iniciar sessão automaticamente">Iniciar sessão automaticamente</a><span class="desc"> — Configurar o início de sessão automático para quando acende a computador.</span>
+<a href="user-autologin.html.pt" title="Iniciar sessão automaticamente">Iniciar sessão automaticamente</a><span class="desc"> — Configurar o início de sessão automático para quando acende a computador.</span>
 </li></ul></div>
 </div></div>
 </div>

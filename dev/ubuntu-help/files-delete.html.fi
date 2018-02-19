@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html#common-file-tasks" title="Yleiset tehtävät">Yleiset tehtävät</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.fi" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html.fi#common-file-tasks" title="Yleiset tehtävät">Yleiset tehtävät</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Poista tiedostoja ja kansioita</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">If you do not want a file or folder any more, you can delete it. When you
   delete an item it is moved to the <span class="gui">Trash</span> folder, where it is stored
-  until you empty the trash. You can <span class="link"><a href="files-recover.html" title="Palauta roskakoriin siirretty tiedosto">restore
+  until you empty the trash. You can <span class="link"><a href="files-recover.html.fi" title="Palauta roskakoriin siirretty tiedosto">restore
   items</a></span> in the <span class="gui">Trash</span> folder to their original location if you
   decide you need them, or if they were accidentally deleted.</p>
 <div class="steps"><div class="inner">
@@ -80,7 +80,7 @@
 <li class="steps"><p class="p">Koska tätä toimenpidettä ei voi perua, kysytään varmistusta tiedoston tai kansion poistamiseksi.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="link"><a href="files.html#removable" title="Irrotettavat asemat ja ulkoiset levyt">Siirrettävältä laitteelta</a></span> poistetut tiedostot eivät välttämättä näy muilla käyttöjärjestelmillä, kuten Windowsilla ja Mac OS X:llä. Tiedostot ovat silti yhä laitteella, kun yhdistät sen tietokoneeseesi.</p></div></div></div></div>
+<div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="link"><a href="files.html.fi#removable" title="Irrotettavat asemat ja ulkoiset levyt">Siirrettävältä laitteelta</a></span> poistetut tiedostot eivät välttämättä näy muilla käyttöjärjestelmillä, kuten Windowsilla ja Mac OS X:llä. Tiedostot ovat silti yhä laitteella, kun yhdistät sen tietokoneeseesi.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -88,15 +88,15 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Yleiset tehtävät">Yleiset tehtävät</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.fi#common-file-tasks" title="Yleiset tehtävät">Yleiset tehtävät</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-recover.html" title="Palauta roskakoriin siirretty tiedosto">Palauta roskakoriin siirretty tiedosto</a><span class="desc"> — Kun poistat tiedoston, se siirretään yleensä roskakoriin. Voit palauttaa tiedostoja roskakorista.</span>
+<a href="files-recover.html.fi" title="Palauta roskakoriin siirretty tiedosto">Palauta roskakoriin siirretty tiedosto</a><span class="desc"> — Kun poistat tiedoston, se siirretään yleensä roskakoriin. Voit palauttaa tiedostoja roskakorista.</span>
 </li>
-<li class="links "><a href="nautilus-behavior.html#trash" title="Roskakori">Tiedostonhallinnan roskakorin ominaisuudet</a></li>
+<li class="links "><a href="nautilus-behavior.html.fi#trash" title="Roskakori">Tiedostonhallinnan roskakorin ominaisuudet</a></li>
 </ul></div>
 </div></div>
 </div>

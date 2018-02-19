@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> › <a class="trail" href="hardware.html#problems" title="பொதுவான பிரச்சினைகள்">சிக்கல்கள்</a> » <a class="trail" href="hardware-problems-graphics.html" title="திரை பிரச்சினைகள்">திரை பிரச்சினைகள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> › <a class="trail" href="hardware.html.ta#problems" title="பொதுவான பிரச்சினைகள்">சிக்கல்கள்</a> » <a class="trail" href="hardware-problems-graphics.html.ta" title="திரை பிரச்சினைகள்">திரை பிரச்சினைகள்</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> › <a class="trail" href="hardware.html#problems" title="பொதுவான பிரச்சினைகள்">சிக்கல்கள்</a> » <a class="trail" href="power.html#problems" title="சிக்கல்கள்">மின்சார சிக்கல்கள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> › <a class="trail" href="hardware.html.ta#problems" title="பொதுவான பிரச்சினைகள்">சிக்கல்கள்</a> » <a class="trail" href="power.html.ta#problems" title="சிக்கல்கள்">மின்சார சிக்கல்கள்</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">என் கணினியை இடைநிறுத்திய பிறகு ஏன் மீண்டும் இயங்க மாட்டேனென்கிறது?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">If you <span class="link"><a href="power-suspend.html" title="என் கணினியை இடைநிறுத்தும் போது என்ன நடக்கும்?">suspend</a></span> your computer, then try to
+<div class="contents"><p class="p">If you <span class="link"><a href="power-suspend.html.ta" title="என் கணினியை இடைநிறுத்தும் போது என்ன நடக்கும்?">suspend</a></span> your computer, then try to
 resume it, you may find that it does not work as you expected. This could be
 because suspend is not supported properly by your hardware.</p></div>
 <div id="resume" class="sect"><div class="inner">
@@ -72,7 +72,7 @@ because suspend is not supported properly by your hardware.</p></div>
 <p class="p">If you suspend your computer and then resume it again, you
   may find that your internet connection, mouse, or some other device does not
   work properly. This could be because the driver for the device does not
-  properly support suspend. This is a <span class="link"><a href="hardware-driver.html" title="இயக்கி என்பது என்ன?">problem with the driver</a></span> and not the device
+  properly support suspend. This is a <span class="link"><a href="hardware-driver.html.ta" title="இயக்கி என்பது என்ன?">problem with the driver</a></span> and not the device
   itself.</p>
 <p class="p">சாதனத்தில் பவர் ஸ்விட்ச் இருந்தால், அதை அணைத்து மீண்டும் இயக்க முயற்சிக்கவும். பெரும்பாலும் சாதனம் மீண்டும் சரியாக இயங்கும். சாதனம் USB கேபிள் அல்லது அது போன்றவற்றால் இணைக்கப்பட்டிருந்தால், சாதனத்தை எடுத்துவிட்டு மீண்டும் இணைத்து வேலை செய்கிறதா எனப் பார்க்கவும்.</p>
 <p class="p">If you cannot turn off or unplug the device, or if this does not work, you
@@ -86,10 +86,10 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="திரை பிரச்சினைகள்">திரை பிரச்சினைகள்</a><span class="desc"> — திரை மற்றும் கிராபிக்ஸ் சிக்கல்களைத் தீர்த்தல்.</span>
+<a href="hardware-problems-graphics.html.ta" title="திரை பிரச்சினைகள்">திரை பிரச்சினைகள்</a><span class="desc"> — திரை மற்றும் கிராபிக்ஸ் சிக்கல்களைத் தீர்த்தல்.</span>
 </li>
 <li class="links ">
-<a href="power.html#problems" title="சிக்கல்கள்">மின்சார சிக்கல்கள்</a><span class="desc"> — மின்சாரம் மற்றும் பேட்டரிகள் தொடர்பான சிக்கல்களை சரிசெய்தல்.</span>
+<a href="power.html.ta#problems" title="சிக்கல்கள்">மின்சார சிக்கல்கள்</a><span class="desc"> — மின்சாரம் மற்றும் பேட்டரிகள் தொடர்பான சிக்கல்களை சரிசெய்தல்.</span>
 </li>
 </ul></div>
 </div></div>
@@ -97,19 +97,19 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-hibernate.html" title="How do I hibernate my computer?">How do I hibernate my computer?</a><span class="desc"> — Hibernate is disabled by default since it's not well supported.</span>
+<a href="power-hibernate.html.ta" title="How do I hibernate my computer?">How do I hibernate my computer?</a><span class="desc"> — Hibernate is disabled by default since it's not well supported.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="இயக்கி என்பது என்ன?">இயக்கி என்பது என்ன?</a><span class="desc"> — ஒரு வன்பொருள்/சாதன இயக்கியானது, உங்கள் கணினியில் இணைக்கப்பட்ட சாதனங்களை பயன்படுத்த கணினியை அனுமதிக்கிறது.</span>
+<a href="hardware-driver.html.ta" title="இயக்கி என்பது என்ன?">இயக்கி என்பது என்ன?</a><span class="desc"> — ஒரு வன்பொருள்/சாதன இயக்கியானது, உங்கள் கணினியில் இணைக்கப்பட்ட சாதனங்களை பயன்படுத்த கணினியை அனுமதிக்கிறது.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="என் கணினியை இடைநிறுத்தும் போது என்ன நடக்கும்?">என் கணினியை இடைநிறுத்தும் போது என்ன நடக்கும்?</a><span class="desc"> — இடைநிறுத்துவது கணினியை உறக்க நிலைக்குக் கொண்டு செல்லும், இதனால் குறைவான மின்சாரமே பயன்படுத்தப்படும்.</span>
+<a href="power-suspend.html.ta" title="என் கணினியை இடைநிறுத்தும் போது என்ன நடக்கும்?">என் கணினியை இடைநிறுத்தும் போது என்ன நடக்கும்?</a><span class="desc"> — இடைநிறுத்துவது கணினியை உறக்க நிலைக்குக் கொண்டு செல்லும், இதனால் குறைவான மின்சாரமே பயன்படுத்தப்படும்.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="என் கணினியை விழிக்கச் செய்யும் போது என் வயர்லெஸ் பிணையம் இல்லாமல் போகிறது">என் கணினியை விழிக்கச் செய்யும் போது என் வயர்லெஸ் பிணையம் இல்லாமல் போகிறது</a><span class="desc"> — உங்கள் கணினி இடைநிறுத்தப்படும் போது சில வயர்லெஸ் சாதனங்கள் சிக்கல்களை அடையலாம், இதனால் அவை மீண்டும் சரியாக இயங்கத் தொடங்காமல் போகலாம்.</span>
+<a href="power-nowireless.html.ta" title="என் கணினியை விழிக்கச் செய்யும் போது என் வயர்லெஸ் பிணையம் இல்லாமல் போகிறது">என் கணினியை விழிக்கச் செய்யும் போது என் வயர்லெஸ் பிணையம் இல்லாமல் போகிறது</a><span class="desc"> — உங்கள் கணினி இடைநிறுத்தப்படும் போது சில வயர்லெஸ் சாதனங்கள் சிக்கல்களை அடையலாம், இதனால் அவை மீண்டும் சரியாக இயங்கத் தொடங்காமல் போகலாம்.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="நான், மூடியை மூடும் போது என் கணினி ஏன் அணைகிறது?">நான், மூடியை மூடும் போது என் கணினி ஏன் அணைகிறது?</a><span class="desc"> — நீங்கள் மடிக்கணினி மூடியை மூடும் போது, மின் சக்தியை சேமிப்பதற்காக மடிக்கணினி உறக்க முறைக்குச் செல்லும்.</span>
+<a href="power-closelid.html.ta" title="நான், மூடியை மூடும் போது என் கணினி ஏன் அணைகிறது?">நான், மூடியை மூடும் போது என் கணினி ஏன் அணைகிறது?</a><span class="desc"> — நீங்கள் மடிக்கணினி மூடியை மூடும் போது, மின் சக்தியை சேமிப்பதற்காக மடிக்கணினி உறக்க முறைக்குச் செல்லும்.</span>
 </li>
 </ul></div>
 </div></div>

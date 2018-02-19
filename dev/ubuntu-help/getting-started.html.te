@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ప్రారంభించుట</span></h1></div>
@@ -118,20 +118,20 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links title-heading"><h2><span class="title">ఉమ్మడి కర్తవ్యాలు</span></h2></div>
 <div class="region">
-<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html" title="ఆన్‌లైన్ ఖాతాలకు అనుసంధానించు">ఆన్‌లైన్ ఖాతాలకు అనుసంధానించు</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html" title="తేదీ, సమయం మరియు సమయక్షేత్రం మార్చు">తేదీ, సమయం మరియు సమయక్షేత్రం మార్చు</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html" title="నేపథ్యచిత్రం మార్చు">నేపథ్యచిత్రం మార్చు</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html" title="విండోలు మరియు పనిస్థలాలు వుపయోగించు">విండోలు మరియు పనిస్థలాలు వుపయోగించు</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html" title="వెబ్ బ్రౌజ్ చేయి">వెబ్ బ్రౌజ్ చేయి</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html" title="వ్యవస్థ అన్వేషణను వుపయోగించు">వ్యవస్థ అన్వేషణను వుపయోగించు</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html" title="అనువర్తనాలు ఆరంభించండి">అనువర్తనాలు ఆరంభించండి</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html" title="ఆన్‌లైన్ రండి">ఆన్‌లైన్ రండి</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html" title="కర్తవ్యాలను మార్చు">కర్తవ్యాలను మార్చు</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html.te" title="ఆన్‌లైన్ ఖాతాలకు అనుసంధానించు">ఆన్‌లైన్ ఖాతాలకు అనుసంధానించు</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html.te" title="తేదీ, సమయం మరియు సమయక్షేత్రం మార్చు">తేదీ, సమయం మరియు సమయక్షేత్రం మార్చు</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html.te" title="నేపథ్యచిత్రం మార్చు">నేపథ్యచిత్రం మార్చు</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html.te" title="విండోలు మరియు పనిస్థలాలు వుపయోగించు">విండోలు మరియు పనిస్థలాలు వుపయోగించు</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html.te" title="వెబ్ బ్రౌజ్ చేయి">వెబ్ బ్రౌజ్ చేయి</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html.te" title="వ్యవస్థ అన్వేషణను వుపయోగించు">వ్యవస్థ అన్వేషణను వుపయోగించు</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html.te" title="అనువర్తనాలు ఆరంభించండి">అనువర్తనాలు ఆరంభించండి</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html.te" title="ఆన్‌లైన్ రండి">ఆన్‌లైన్ రండి</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html.te" title="కర్తవ్యాలను మార్చు">కర్తవ్యాలను మార్చు</a></div></div>
 </div>
 </div></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title title-links"><h2><span class="title"></span></h2></div>
-<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></div></li></ul></div>
+<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html.te" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></div></li></ul></div>
 </div></div>
 </div></div>
 <div class="clear"></div>

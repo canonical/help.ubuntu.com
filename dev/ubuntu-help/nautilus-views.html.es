@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a> » <a class="trail" href="nautilus-prefs.html" title="Preferencias del gestor de archivos">Preferencias del gestor de archivos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a> » <a class="trail" href="nautilus-prefs.html.es" title="Preferencias del gestor de archivos">Preferencias del gestor de archivos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferencias de vistas en <span class="app">Archivos</span></span></h1></div>
@@ -55,7 +55,7 @@
 <dt class="terms"><span class="gui">Organizar los elementos</span></dt>
 <dd class="terms">
 <p class="p">Puede cambiar el orden predeterminado usado en las carpetas nuevas, usando la lista desplegable <span class="gui">Organizar los elementos</span> en las preferencias para ordenar por nombre, tamaño del archivo, tipo del archivo, cuándo se modificaron por última vez, cuándo se accedieron por última vez o cuándo se movieron a la papelera.</p>
-<p class="p">Puede cambiar cómo <span class="link"><a href="files-sort.html" title="Ordenar archivos y carpetas">se ordenan los archivos</a></span> en una carpeta individual pulsando el botón de opciones de la vista en la barra de herramientas y escogiendo <span class="gui">Nombre</span>, <span class="gui">Tamaño</span>, <span class="gui">Tipo</span>, <span class="gui">Última modificación</span>, o pulsando en las cabeceras de las columnas en la vista de lista.</p>
+<p class="p">Puede cambiar cómo <span class="link"><a href="files-sort.html.es" title="Ordenar archivos y carpetas">se ordenan los archivos</a></span> en una carpeta individual pulsando el botón de opciones de la vista en la barra de herramientas y escogiendo <span class="gui">Nombre</span>, <span class="gui">Tamaño</span>, <span class="gui">Tipo</span>, <span class="gui">Última modificación</span>, o pulsando en las cabeceras de las columnas en la vista de lista.</p>
 </dd>
 <dt class="terms"><span class="gui">Colocar las carpetas antes que los archivos</span></dt>
 <dd class="terms"><p class="p">De manera predeterminada, el gestor de archivos ya no muestra las carpetas antes de los archivos. Para ver todas las carpetas antes de los archivos, active esta opción</p></dd>
@@ -66,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Preferencias del gestor de archivos">Preferencias del gestor de archivos</a><span class="desc"> — Ver y establecer las preferencias para el explorador de archivos.</span>
+<a href="nautilus-prefs.html.es" title="Preferencias del gestor de archivos">Preferencias del gestor de archivos</a><span class="desc"> — Ver y establecer las preferencias para el explorador de archivos.</span>
 </li></ul></div>
 </div></div></div>
 </div>

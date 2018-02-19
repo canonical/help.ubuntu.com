@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Häufige Probleme">Probleme</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html.de#problems" title="Häufige Probleme">Probleme</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bildschirmprobleme</span></h1></div>
@@ -51,20 +51,20 @@
 <div class="contents">
 <p class="p">Die meisten Probleme mit der Anzeige werden durch Grafiktreiber oder deren Konfiguration hervorgerufen. Welches der nachfolgenden Themen beschreibt Ihr Problem am besten?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html" title="Bildschirmhelligkeit einstellen"><span class="title">Bildschirmhelligkeit einstellen</span><span class="linkdiv-dash"> — </span><span class="desc">Die Bildschirmhelligkeit anpassen, um das Lesen in hellem Umgebungslicht zu verbessern.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="Der Bildschirm sperrt sich zu schnell selbst"><span class="title">Der Bildschirm sperrt sich zu schnell selbst</span><span class="linkdiv-dash"> — </span><span class="desc">Ändern Sie in den <span class="gui">Privatsphäre</span>-Einstellungen, wie lange gewartet werden soll, bevor der Bildschirm gesperrt wird.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Die Zeit bis zum Abschalten des Bildschirms einstellen"><span class="title">Die Zeit bis zum Abschalten des Bildschirms einstellen</span><span class="linkdiv-dash"> — </span><span class="desc">So ändern Sie die Zeit bis zum Abschalten des Bildschirms, um Strom zu sparen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html" title="Warum ist das Bild auf meinem Bildschirm unscharf/verpixelt?"><span class="title">Warum ist das Bild auf meinem Bildschirm unscharf/verpixelt?</span><span class="linkdiv-dash"> — </span><span class="desc">Die Bildschirmauflösung könnte falsch eingestellt sein.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="Warum wacht mein Rechner nicht mehr auf, nachdem ich ihn in Bereitschaft versetzt habe?"><span class="title">Warum wacht mein Rechner nicht mehr auf, nachdem ich ihn in Bereitschaft versetzt habe?</span><span class="linkdiv-dash"> — </span><span class="desc">Manche Hardware-Komponenten verursachen Probleme mit dem Versetzen in Bereitschaft.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Warum wird mein Bildschirm nach einer Weile dunkler?"><span class="title">Warum wird mein Bildschirm nach einer Weile dunkler?</span><span class="linkdiv-dash"> — </span><span class="desc">Der Bildschirm wird bei Untätigkeit abgedunkelt, um Energie zu sparen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="Mein Rechner lässt sich nicht einschalten"><span class="title">Mein Rechner lässt sich nicht einschalten</span><span class="linkdiv-dash"> — </span><span class="desc">Lose Kabel und Hardwareprobleme sind häufig mögliche Gründe dafür.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.de" title="Bildschirmhelligkeit einstellen"><span class="title">Bildschirmhelligkeit einstellen</span><span class="linkdiv-dash"> — </span><span class="desc">Die Bildschirmhelligkeit anpassen, um das Lesen in hellem Umgebungslicht zu verbessern.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.de" title="Der Bildschirm sperrt sich zu schnell selbst"><span class="title">Der Bildschirm sperrt sich zu schnell selbst</span><span class="linkdiv-dash"> — </span><span class="desc">Ändern Sie in den <span class="gui">Privatsphäre</span>-Einstellungen, wie lange gewartet werden soll, bevor der Bildschirm gesperrt wird.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.de" title="Die Zeit bis zum Abschalten des Bildschirms einstellen"><span class="title">Die Zeit bis zum Abschalten des Bildschirms einstellen</span><span class="linkdiv-dash"> — </span><span class="desc">So ändern Sie die Zeit bis zum Abschalten des Bildschirms, um Strom zu sparen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.de" title="Warum ist das Bild auf meinem Bildschirm unscharf/verpixelt?"><span class="title">Warum ist das Bild auf meinem Bildschirm unscharf/verpixelt?</span><span class="linkdiv-dash"> — </span><span class="desc">Die Bildschirmauflösung könnte falsch eingestellt sein.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.de" title="Warum wacht mein Rechner nicht mehr auf, nachdem ich ihn in Bereitschaft versetzt habe?"><span class="title">Warum wacht mein Rechner nicht mehr auf, nachdem ich ihn in Bereitschaft versetzt habe?</span><span class="linkdiv-dash"> — </span><span class="desc">Manche Hardware-Komponenten verursachen Probleme mit dem Versetzen in Bereitschaft.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.de" title="Warum wird mein Bildschirm nach einer Weile dunkler?"><span class="title">Warum wird mein Bildschirm nach einer Weile dunkler?</span><span class="linkdiv-dash"> — </span><span class="desc">Der Bildschirm wird bei Untätigkeit abgedunkelt, um Energie zu sparen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.de" title="Mein Rechner lässt sich nicht einschalten"><span class="title">Mein Rechner lässt sich nicht einschalten</span><span class="linkdiv-dash"> — </span><span class="desc">Lose Kabel und Hardwareprobleme sind häufig mögliche Gründe dafür.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Häufige Probleme">Probleme mit der Hardware</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.de#problems" title="Häufige Probleme">Probleme mit der Hardware</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

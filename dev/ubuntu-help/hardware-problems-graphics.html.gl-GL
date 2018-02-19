@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comúns">Problemas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problemas de pantalla</span></h1></div>
@@ -51,21 +51,21 @@
 <div class="contents">
 <p class="p">A maioría dos problemas coa pantalla débense a controladores de gráficos que non están funcionando correctamente ou ao uso dunha configuración errónea. Cal dos seguintes temas describe mellor o problema que ten?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="A pantalla bloquéase demasiado rápido"><span class="title">A pantalla bloquéase demasiado rápido</span><span class="linkdiv-dash"> — </span><span class="desc">Cambie o tempo de espera antes de que se bloquee a pantalla na configuración de <span class="gui">Privacidade</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html" title="Estabelecer o brillo da pantalla"><span class="title">Estabelecer o brillo da pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.gl-GL" title="A pantalla bloquéase demasiado rápido"><span class="title">A pantalla bloquéase demasiado rápido</span><span class="linkdiv-dash"> — </span><span class="desc">Cambie o tempo de espera antes de que se bloquee a pantalla na configuración de <span class="gui">Privacidade</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.gl-GL" title="Estabelecer o brillo da pantalla"><span class="title">Estabelecer o brillo da pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
     light.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html" title="Por que parece que o que hai na miña pantalla está difuso ou pixelado?"><span class="title">Por que parece que o que hai na miña pantalla está difuso ou pixelado?</span><span class="linkdiv-dash"> — </span><span class="desc">A resolución da pantalla pode estar incorrectamente axusta.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="Porque o meu computador non se acende logo de ir suspendelo?"><span class="title">Porque o meu computador non se acende logo de ir suspendelo?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Porqué a pantalla escurece logo duns segundos?"><span class="title">Porqué a pantalla escurece logo duns segundos?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="O meu computador non arrinca"><span class="title">O meu computador non arrinca</span><span class="linkdiv-dash"> — </span><span class="desc">Os cables soltos e os problemas de hardware son as posíbeis razóns.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.gl-GL" title="Por que parece que o que hai na miña pantalla está difuso ou pixelado?"><span class="title">Por que parece que o que hai na miña pantalla está difuso ou pixelado?</span><span class="linkdiv-dash"> — </span><span class="desc">A resolución da pantalla pode estar incorrectamente axusta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.gl-GL" title="Porque o meu computador non se acende logo de ir suspendelo?"><span class="title">Porque o meu computador non se acende logo de ir suspendelo?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.gl-GL" title="Porqué a pantalla escurece logo duns segundos?"><span class="title">Porqué a pantalla escurece logo duns segundos?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.gl-GL" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.gl-GL" title="O meu computador non arrinca"><span class="title">O meu computador non arrinca</span><span class="linkdiv-dash"> — </span><span class="desc">Os cables soltos e os problemas de hardware son as posíbeis razóns.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Problemas comúns">Problemas de hardware</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas de hardware</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

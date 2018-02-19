@@ -44,28 +44,28 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Gestione del colore</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="color-assignprofiles.html" title="Come assegnare profili ai dispositivi?"><span class="title">Come assegnare profili ai dispositivi?</span><span class="linkdiv-dash"> — </span><span class="desc">Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-whyimportant.html" title="Perché la gestione del colore è importante?"><span class="title">Perché la gestione del colore è importante?</span><span class="linkdiv-dash"> — </span><span class="desc">La gestione del colore è importante per designer, fotografi e artisti.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-assignprofiles.html.it" title="Come assegnare profili ai dispositivi?"><span class="title">Come assegnare profili ai dispositivi?</span><span class="linkdiv-dash"> — </span><span class="desc">Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whyimportant.html.it" title="Perché la gestione del colore è importante?"><span class="title">Perché la gestione del colore è importante?</span><span class="linkdiv-dash"> — </span><span class="desc">La gestione del colore è importante per designer, fotografi e artisti.</span></a></div>
 </div></div></div></div>
 <div id="profiles" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Profili del colore</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html" title="Come importare profili del colore"><span class="title">Come importare profili del colore</span><span class="linkdiv-dash"> — </span><span class="desc">Color profiles can be imported by opening them.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-whatisspace.html" title="Cos'è lo spazio di colore?"><span class="title">Cos'è lo spazio di colore?</span><span class="linkdiv-dash"> — </span><span class="desc">Uno spazio di colore è una gamma di colori determinata.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html.it" title="Come importare profili del colore"><span class="title">Come importare profili del colore</span><span class="linkdiv-dash"> — </span><span class="desc">Color profiles can be imported by opening them.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whatisspace.html.it" title="Cos'è lo spazio di colore?"><span class="title">Cos'è lo spazio di colore?</span><span class="linkdiv-dash"> — </span><span class="desc">Uno spazio di colore è una gamma di colori determinata.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-whatisprofile.html" title="Cos'è un profilo di colore?"><span class="title">Cos'è un profilo di colore?</span><span class="linkdiv-dash"> — </span><span class="desc">Un profilo del colore è un semplice file che esprime uno spazio di colore o una risposta di dispositivo.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-gettingprofiles.html" title="Dove trovare i profili di colore?"><span class="title">Dove trovare i profili di colore?</span><span class="linkdiv-dash"> — </span><span class="desc">I profili di colore possono essere recuperati dal costruttore e possono essere generati automaticamente.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whatisprofile.html.it" title="Cos'è un profilo di colore?"><span class="title">Cos'è un profilo di colore?</span><span class="linkdiv-dash"> — </span><span class="desc">Un profilo del colore è un semplice file che esprime uno spazio di colore o una risposta di dispositivo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-gettingprofiles.html.it" title="Dove trovare i profili di colore?"><span class="title">Dove trovare i profili di colore?</span><span class="linkdiv-dash"> — </span><span class="desc">I profili di colore possono essere recuperati dal costruttore e possono essere generati automaticamente.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -73,17 +73,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Calibrazione</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html" title="Che tipi di immagini campione sono supportati?"><span class="title">Che tipi di immagini campione sono supportati?</span><span class="linkdiv-dash"> — </span><span class="desc">Le immagini campione di calibrazione sono necessarie per eseguire il profiling di scanner e fotocamere.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html" title="Come calibrare la fotocamera?"><span class="title">Come calibrare la fotocamera?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrare la propria fotocamera è importante per catturare colori fedeli.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html" title="Come calibrare la stampante?"><span class="title">Come calibrare la stampante?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrare la propria stampante è importante per stampare colori fedeli.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html" title="Come calibrare lo scanner?"><span class="title">Come calibrare lo scanner?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrare il proprio scanner è importante per catturare colori fedeli.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html" title="Come calibrare lo schermo?"><span class="title">Come calibrare lo schermo?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrare il proprio schermo è importante per visualizzare colori fedeli.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html.it" title="Che tipi di immagini campione sono supportati?"><span class="title">Che tipi di immagini campione sono supportati?</span><span class="linkdiv-dash"> — </span><span class="desc">Le immagini campione di calibrazione sono necessarie per eseguire il profiling di scanner e fotocamere.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html.it" title="Come calibrare la fotocamera?"><span class="title">Come calibrare la fotocamera?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrare la propria fotocamera è importante per catturare colori fedeli.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html.it" title="Come calibrare la stampante?"><span class="title">Come calibrare la stampante?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrare la propria stampante è importante per stampare colori fedeli.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html.it" title="Come calibrare lo scanner?"><span class="title">Come calibrare lo scanner?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrare il proprio scanner è importante per catturare colori fedeli.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html.it" title="Come calibrare lo schermo?"><span class="title">Come calibrare lo schermo?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrare il proprio schermo è importante per visualizzare colori fedeli.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html" title="Perché è necessario eseguire personalmente la calibrazione?"><span class="title">Perché è necessario eseguire personalmente la calibrazione?</span><span class="linkdiv-dash"> — </span><span class="desc">Effettuare la calibrazione è importante se si dà molta importanza ai colori visualizzati o stampati.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html" title="Quali strumenti di misurazione del colore sono supportati?"><span class="title">Quali strumenti di misurazione del colore sono supportati?</span><span class="linkdiv-dash"> — </span><span class="desc">Sono supportati un gran numero di dispositivi di calibrazione.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="What’s the difference between calibration and characterization?"><span class="title">What’s the difference between calibration and characterization?</span><span class="linkdiv-dash"> — </span><span class="desc">La calibrazione e la caratterizzazione sono cose completamente diverse.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html" title="È possibile condividere il profilo del colore?"><span class="title">È possibile condividere il profilo del colore?</span><span class="linkdiv-dash"> — </span><span class="desc">Condividere i profili del colore non è mai una buona idea in quanto l'hardware cambia nel tempo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html.it" title="Perché è necessario eseguire personalmente la calibrazione?"><span class="title">Perché è necessario eseguire personalmente la calibrazione?</span><span class="linkdiv-dash"> — </span><span class="desc">Effettuare la calibrazione è importante se si dà molta importanza ai colori visualizzati o stampati.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html.it" title="Quali strumenti di misurazione del colore sono supportati?"><span class="title">Quali strumenti di misurazione del colore sono supportati?</span><span class="linkdiv-dash"> — </span><span class="desc">Sono supportati un gran numero di dispositivi di calibrazione.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html.it" title="What’s the difference between calibration and characterization?"><span class="title">What’s the difference between calibration and characterization?</span><span class="linkdiv-dash"> — </span><span class="desc">La calibrazione e la caratterizzazione sono cose completamente diverse.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html.it" title="È possibile condividere il profilo del colore?"><span class="title">È possibile condividere il profilo del colore?</span><span class="linkdiv-dash"> — </span><span class="desc">Condividere i profili del colore non è mai una buona idea in quanto l'hardware cambia nel tempo.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -91,13 +91,13 @@
 <div class="hgroup"><h2 class="title"><span class="title">Problemi</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-notifications.html" title="Can I get notified when my color profile is inaccurate?"><span class="title">Can I get notified when my color profile is inaccurate?</span><span class="linkdiv-dash"> — </span><span class="desc">You can be notified if your color profile is old and inaccurate.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-testing.html" title="How do I test if color management is working correctly?"><span class="title">How do I test if color management is working correctly?</span><span class="linkdiv-dash"> — </span><span class="desc">Use the supplied test profiles to check that your profiles are being
+<div class="linkdiv "><a class="linkdiv" href="color-notifications.html.it" title="Can I get notified when my color profile is inaccurate?"><span class="title">Can I get notified when my color profile is inaccurate?</span><span class="linkdiv-dash"> — </span><span class="desc">You can be notified if your color profile is old and inaccurate.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-testing.html.it" title="How do I test if color management is working correctly?"><span class="title">How do I test if color management is working correctly?</span><span class="linkdiv-dash"> — </span><span class="desc">Use the supplied test profiles to check that your profiles are being
     applied correctly to your screen.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-missingvcgt.html" title="Mancano delle informazioni per la correzione del colore a schermo intero?"><span class="title">Mancano delle informazioni per la correzione del colore a schermo intero?</span><span class="linkdiv-dash"> — </span><span class="desc">La correzione del colore a schermo intero modifica tutti i colori dello schermo su tutte le finestre.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="Why don’t the default monitor profiles have a calibration expiry?"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">Default monitor profiles do not have a calibration date.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-missingvcgt.html.it" title="Mancano delle informazioni per la correzione del colore a schermo intero?"><span class="title">Mancano delle informazioni per la correzione del colore a schermo intero?</span><span class="linkdiv-dash"> — </span><span class="desc">La correzione del colore a schermo intero modifica tutti i colori dello schermo su tutte le finestre.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html.it" title="Why don’t the default monitor profiles have a calibration expiry?"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">Default monitor profiles do not have a calibration date.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -107,22 +107,22 @@
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html" title="Hardware e driver">Hardware e driver</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html#problems" title="Problemi comuni">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html" title="Stampa">printers</a></span>,
-      <span class="link"><a href="power.html" title="Alimentazione e batteria">power settings</a></span>,
-      <span class="link"><a href="color.html" title="Gestione del colore">color management</a></span>,
-      <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html" title="Dischi e archiviazione">disks</a></span>…
+<a href="hardware.html.it" title="Hardware e driver">Hardware e driver</a><span class="desc"> — 
+      <span class="link"><a href="hardware.html.it#problems" title="Problemi comuni">Hardware problems</a></span>,
+      <span class="link"><a href="printing.html.it" title="Stampa">printers</a></span>,
+      <span class="link"><a href="power.html.it" title="Alimentazione e batteria">power settings</a></span>,
+      <span class="link"><a href="color.html.it" title="Gestione del colore">color management</a></span>,
+      <span class="link"><a href="bluetooth.html.it" title="Bluetooth">Bluetooth</a></span>,
+      <span class="link"><a href="disk.html.it" title="Dischi e archiviazione">disks</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni utente e di sistema</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html" title="Tastiera">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html" title="Mouse">mouse</a></span>,
-      <span class="link"><a href="prefs-display.html" title="Visualizzazione e schermo">display</a></span>,
-      <span class="link"><a href="prefs-language.html" title="Region &amp; Language">languages</a></span>,
-      <span class="link"><a href="user-accounts.html" title="Account utente">user accounts</a></span>…
+<a href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni utente e di sistema</a><span class="desc"> — 
+      <span class="link"><a href="keyboard.html.it" title="Tastiera">Keyboard</a></span>,
+      <span class="link"><a href="mouse.html.it" title="Mouse">mouse</a></span>,
+      <span class="link"><a href="prefs-display.html.it" title="Visualizzazione e schermo">display</a></span>,
+      <span class="link"><a href="prefs-language.html.it" title="Region &amp; Language">languages</a></span>,
+      <span class="link"><a href="user-accounts.html.it" title="Account utente">user accounts</a></span>…
     </span>
 </li>
 </ul></div>

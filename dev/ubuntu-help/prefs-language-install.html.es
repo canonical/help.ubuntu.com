@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="addremove.html" title="Instalar y eliminar software">Añadir/eliminar software</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="addremove.html.es" title="Instalar y eliminar software">Añadir/eliminar software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Instalar idiomas</span></h1></div>
@@ -51,13 +51,13 @@
 <div class="contents">
 <p class="p">Cuando instale Ubuntu, el idioma que selecciona en la instalación se instala junto con el inglés, pero puede añadir más idiomas posteriormente.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista general de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y comience a escribir <span class="gui">Región e idioma</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista general de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y comience a escribir <span class="gui">Región e idioma</span>.</p></li>
 <li class="steps"><p class="p">Haga clic en <span class="gui">Región e idioma</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Pulse el botón <span class="gui">Gestionar idiomas instalados</span> para abrir el <span class="gui">Soporte de idiomas</span>.</p></li>
 <li class="steps"><p class="p">Haga clic en <span class="gui">Instalar o eliminar idiomas...</span>. La ventana <span class="gui">Idiomas instalados</span> muestra todos los idiomas disponibles, con los idiomas actualmente instalados marcados.</p></li>
 <li class="steps"><p class="p">Marque los idiomas que desea instalar, y quite la marca de aquellos que están actualmente instalados y quiere eliminar.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Aplicar cambios</span>.</p></li>
-<li class="steps"><p class="p">Se requieren <span class="link"><a href="user-admin-explain.html" title="¿Cómo funcionan los privilegios de administrador?">privilegios administrativos</a></span>. Introduzca su contraseña, o la contraseña del administrador correspondiente.</p></li>
+<li class="steps"><p class="p">Se requieren <span class="link"><a href="user-admin-explain.html.es" title="¿Cómo funcionan los privilegios de administrador?">privilegios administrativos</a></span>. Introduzca su contraseña, o la contraseña del administrador correspondiente.</p></li>
 </ol></div></div></div>
 <p class="p">Además de las traducciones usadas para mostrar los menús y mensajes, a un nuevo idioma le pueden seguir varios componentes de soporte de idiomas, como diccionarios para comprobar la ortografía, fuentes y métodos de entrada.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Algunas traducciones pueden estar incompletas, y es posible que algunas aplicaciones no funcionen en su idioma en absoluto.</p></div></div></div></div>
@@ -68,17 +68,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Instalar y eliminar software">Instalar y eliminar software</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Instalar aplicaciones adicionales">Instalar aplicaciones</a></span>, <span class="link"><a href="addremove-remove.html" title="Desinstalar una aplicación">desinstalar aplicaciones</a></span>, <span class="link"><a href="addremove-sources.html" title="Añadir repositorios de software">añadir repositorios</a></span>…</span>
+<a href="addremove.html.es" title="Instalar y eliminar software">Instalar y eliminar software</a><span class="desc"> — <span class="link"><a href="addremove-install.html.es" title="Instalar aplicaciones adicionales">Instalar aplicaciones</a></span>, <span class="link"><a href="addremove-remove.html.es" title="Desinstalar una aplicación">desinstalar aplicaciones</a></span>, <span class="link"><a href="addremove-sources.html.es" title="Añadir repositorios de software">añadir repositorios</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Instalar aplicaciones adicionales">Instalar aplicaciones adicionales</a><span class="desc"> — Use <span class="app">Ubuntu Software</span> para instalar aplicaciones adiciones y hacer a Ubuntu más útil.</span>
+<a href="addremove-install.html.es" title="Instalar aplicaciones adicionales">Instalar aplicaciones adicionales</a><span class="desc"> — Use <span class="app">Ubuntu Software</span> para instalar aplicaciones adiciones y hacer a Ubuntu más útil.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Región e idioma">Región e idioma</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Cambiar el idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html" title="Cambiar la fecha y los formatos de medida">región y formatos</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Usar distribuciones de teclado alternativas">distribuciones de teclado</a></span>…</span>
+<a href="prefs-language.html.es" title="Región e idioma">Región e idioma</a><span class="desc"> — <span class="link"><a href="session-language.html.es" title="Cambiar el idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html.es" title="Cambiar la fecha y los formatos de medida">región y formatos</a></span>, <span class="link"><a href="keyboard-layouts.html.es" title="Usar distribuciones de teclado alternativas">distribuciones de teclado</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

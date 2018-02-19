@@ -43,35 +43,35 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="user-accounts.html" title="Λογαριασμοί χρηστών">Χρήστες</a> › <a class="trail" href="user-accounts.html#privileges" title="Προνόμια χρήστη">Προνόμια</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="user-accounts.html.el" title="Λογαριασμοί χρηστών">Χρήστες</a> › <a class="trail" href="user-accounts.html.el#privileges" title="Προνόμια χρήστη">Προνόμια</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Προβλήματα που προκαλούνται από διαχειριστικούς περιορισμούς</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Μπορεί να αντιμετωπίσετε κάποια προβλήματα αν δεν έχετε <span class="link"><a href="user-admin-explain.html" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">δικαιώματα διαχειριστή</a></span>. Μερικές εργασίες απαιτούν δικαιώματα διαχειριστή για να δουλέψουν, όπως:</p>
+<p class="p">Μπορεί να αντιμετωπίσετε κάποια προβλήματα αν δεν έχετε <span class="link"><a href="user-admin-explain.html.el" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">δικαιώματα διαχειριστή</a></span>. Μερικές εργασίες απαιτούν δικαιώματα διαχειριστή για να δουλέψουν, όπως:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">σύνδεση με ασύρματα και ενσύρματα δίκτυα,</p></li>
 <li class="list"><p class="p">προβολή περιεχομένου διαφορετικών κατατμήσεων του δίσκου (για παράδειγμα, μια κατάτμηση Windows), ή</p></li>
 <li class="list"><p class="p">εγκατάσταση νέων εφαρμογών.</p></li>
 </ul></div></div></div>
-<p class="p">Μπορείτε <span class="link"><a href="user-admin-change.html" title="Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή">να αλλάξετε ποιος έχει δικαιώματα διαχειριστή</a></span>.</p>
+<p class="p">Μπορείτε <span class="link"><a href="user-admin-change.html.el" title="Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή">να αλλάξετε ποιος έχει δικαιώματα διαχειριστή</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Προνόμια χρήστη">Προνόμια χρήστη</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.el#privileges" title="Προνόμια χρήστη">Προνόμια χρήστη</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-change.html" title="Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή">Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή</a><span class="desc"> — Μπορείτε να επιτρέψετε τους χρήστες να κάνουν αλλαγές στο σύστημα δίνοντας τους δικαιώματα διαχειριστή.</span>
+<a href="user-admin-change.html.el" title="Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή">Αλλάξτε ποιοι έχουν δικαιώματα διαχειριστή</a><span class="desc"> — Μπορείτε να επιτρέψετε τους χρήστες να κάνουν αλλαγές στο σύστημα δίνοντας τους δικαιώματα διαχειριστή.</span>
 </li>
 <li class="links ">
-<a href="user-admin-explain.html" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">Πώς δουλεύουν τα δικαιώματα διαχειριστή;</a><span class="desc"> — Χρειάζεστε δικαιώματα διαχειριστή για να αλλάξετε σημαντικά μέρη του συστήματός σας.</span>
+<a href="user-admin-explain.html.el" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">Πώς δουλεύουν τα δικαιώματα διαχειριστή;</a><span class="desc"> — Χρειάζεστε δικαιώματα διαχειριστή για να αλλάξετε σημαντικά μέρη του συστήματός σας.</span>
 </li>
 </ul></div>
 </div></div>

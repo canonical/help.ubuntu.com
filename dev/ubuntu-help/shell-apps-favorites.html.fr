@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Bureau</a> › <a class="trail" href="shell-overview.html#desktop" title="Customize your desktop">Customize your desktop</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="shell-overview.html.fr" title="Your desktop">Bureau</a> › <a class="trail" href="shell-overview.html.fr#desktop" title="Customize your desktop">Customize your desktop</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ajout de vos applications préférées au lanceur</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To add an application to the <span class="link"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">dash</a></span>
+<p class="p">To add an application to the <span class="link"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">dash</a></span>
   for easy access:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the
-      <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview by
+      <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview by
       clicking <span class="gui">Activities</span> at the top left of the screen</p></li>
 <li class="steps"><p class="p">Cliquez sur l'icône en forme de grille dans le lanceur pour trouver l'application à ajouter.</p></li>
 <li class="steps">
@@ -68,12 +68,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="Customize your desktop">Customize your desktop</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.fr#desktop" title="Customize your desktop">Customize your desktop</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html" title="Lancement d'applications">Lancement d'applications</a><span class="desc"> — Lancer des applications à partir de la vue d'ensemble des <span class="gui">Activités</span>.</span>
+<a href="shell-apps-open.html.fr" title="Lancement d'applications">Lancement d'applications</a><span class="desc"> — Lancer des applications à partir de la vue d'ensemble des <span class="gui">Activités</span>.</span>
 </li></ul></div>
 </div></div>
 </div>

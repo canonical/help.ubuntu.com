@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="keyboard.html" title="键盘">键盘</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="keyboard.html.zh-CN" title="键盘">键盘</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="keyboard.html" title="键盘">键盘</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="keyboard.html.zh-CN" title="键盘">键盘</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="通用辅助功能">通用辅助功能</a> › <a class="trail" href="a11y.html#mobility" title="运动障碍">运动障碍</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.zh-CN" title="通用辅助功能">通用辅助功能</a> › <a class="trail" href="a11y.html.zh-CN#mobility" title="运动障碍">运动障碍</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,7 +61,7 @@
   disable this feature, or change how long it takes before key presses
   start repeating, or how quickly key presses repeat.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Repeat Keys</span> in the <span class="gui">Typing</span> section.</p></li>
@@ -76,9 +76,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="运动障碍">运动障碍</a></li>
+<li class="links "><a href="a11y.html.zh-CN#mobility" title="运动障碍">运动障碍</a></li>
 <li class="links ">
-<a href="keyboard.html" title="键盘">键盘</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">键盘布局</a></span>、<span class="link"><a href="keyboard-cursor-blink.html" title="让键盘光标闪烁">光标闪烁</a></span>、<span class="link"><a href="a11y.html#mobility" title="运动障碍">键盘辅助功能</a></span>…</span>
+<a href="keyboard.html.zh-CN" title="键盘">键盘</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.zh-CN" title="Use alternative keyboard layouts">键盘布局</a></span>、<span class="link"><a href="keyboard-cursor-blink.html.zh-CN" title="让键盘光标闪烁">光标闪烁</a></span>、<span class="link"><a href="a11y.html.zh-CN#mobility" title="运动障碍">键盘辅助功能</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

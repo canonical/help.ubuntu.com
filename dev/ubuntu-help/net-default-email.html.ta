@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html" title="மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்">மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html.ta" title="மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்">மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">மின்னஞ்சல்களை எழுத எந்த மின்னஞ்சல் பயன்பாடு பயன்படுத்தப்படுகிறது என்பதை மாற்றுதல்</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">நீங்கள் ஒரு புதிய மின்னஞ்சல் அனுப்புவதற்கான ஒரு பொத்தானை அல்லது இணைப்பை சொடுக்கும் போது (எடுத்துக்காட்டாக உங்கள் சொல் செயலாக்க பயன்பாட்டில்), ஒரு காலியான செய்தியுடன் நீங்கள் எழுத தயாராக உங்கள் முன்னிருப்பு மின்னஞ்சல் பயன்பாடு திறக்கப்படும். இருப்பினும் உங்களிடம் ஒன்றுக்கும் மேற்பட்ட மின்னஞ்சல் பயன்பாடுகள் இருந்தால், தவறான மின்னஞ்சல் பயன்பாடு திறக்கலாம். நீங்கள் முன்னிருப்பு மின்னஞ்சல் பயன்பாட்டை மாற்றுவதன் மூலம் இதை சரிசெய்ய முடியும்:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Details</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
 <li class="steps"><p class="p">சாளரத்தின் இடது பக்கத்தில் உள்ள பட்டியலில் இருந்து <span class="gui">முன்னிருப்பு பயன்பாடுகள்</span> ஐ தேர்வு செய்யவும்.</p></li>
@@ -63,9 +63,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email.html" title="மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்">மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்</a><span class="desc"> — 
-      <span class="link"><a href="net-default-email.html" title="மின்னஞ்சல்களை எழுத எந்த மின்னஞ்சல் பயன்பாடு பயன்படுத்தப்படுகிறது என்பதை மாற்றுதல்">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html" title="என் மின்னஞ்சல்களில் வைரஸ்கள் உள்ளதா என ஸ்கேன் செய்ய வேண்டுமா?">Should I scan for viruses?</a></span>…
+<a href="net-email.html.ta" title="மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்">மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்</a><span class="desc"> — 
+      <span class="link"><a href="net-default-email.html.ta" title="மின்னஞ்சல்களை எழுத எந்த மின்னஞ்சல் பயன்பாடு பயன்படுத்தப்படுகிறது என்பதை மாற்றுதல்">Default email apps</a></span>,
+      <span class="link"><a href="net-email-virus.html.ta" title="என் மின்னஞ்சல்களில் வைரஸ்கள் உள்ளதா என ஸ்கேன் செய்ய வேண்டுமா?">Should I scan for viruses?</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="user-accounts.html" title="Användarkonton">Användare</a> › <a class="trail" href="user-accounts.html#manage" title="Hantera användarkonton">Konton</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="user-accounts.html.sv" title="Användarkonton">Användare</a> › <a class="trail" href="user-accounts.html.sv#manage" title="Hantera användarkonton">Konton</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Lägg till ett nytt användarkonto</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Du kan lägga till flera användarkonton på din dator. Ge ett konto till varje person i ditt hushåll eller företag. Varje användare har sin egen hemmapp, dokument och inställningar.</p>
-<p class="p">Du behöver <span class="link"><a href="user-admin-explain.html" title="Hur fungerar administratörsbehörighet?">administratörsbehörighet</a></span> för att kunna lägga till konton.</p>
+<p class="p">Du behöver <span class="link"><a href="user-admin-explain.html.sv" title="Hur fungerar administratörsbehörighet?">administratörsbehörighet</a></span> för att kunna lägga till konton.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Användare</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Användare</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Användare</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="gui">Lås upp</span> i övre högra hörnet och skriv in ditt lösenord när du blir tillfrågad.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="gui">+</span>-knappen nedanför kontolistan till vänster för att lägga till ett nytt användarkonto.</p></li>
 <li class="steps">
-<p class="p">Om du vill att den nya användaren ska ha <span class="link"><a href="user-admin-explain.html" title="Hur fungerar administratörsbehörighet?">administratörsåtkomst</a></span> på datorn, välj <span class="gui">Administratör</span> som kontotyp.</p>
+<p class="p">Om du vill att den nya användaren ska ha <span class="link"><a href="user-admin-explain.html.sv" title="Hur fungerar administratörsbehörighet?">administratörsåtkomst</a></span> på datorn, välj <span class="gui">Administratör</span> som kontotyp.</p>
 <p class="p">Administratörer kan göra saker så som att lägga till och ta bort användare, installera programvara och drivrutiner samt ändra datum och tid.</p>
 </li>
 <li class="steps"><p class="p">Mata in användarens fullständiga namn. Användarnamnet kommer att fyllas i automatiskt baserat på det fullständiga namnet. Om du inte tycker om det föreslagna användarnamnet så kan du ändra det.</p></li>
@@ -75,12 +75,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Hantera användarkonton">Hantera användarkonton</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.sv#manage" title="Hantera användarkonton">Hantera användarkonton</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-delete.html" title="Ta bort ett användarkonto">Ta bort ett användarkonto</a><span class="desc"> — Ta bort användare som inte längre använder din dator.</span>
+<a href="user-delete.html.sv" title="Ta bort ett användarkonto">Ta bort ett användarkonto</a><span class="desc"> — Ta bort användare som inte längre använder din dator.</span>
 </li></ul></div>
 </div></div>
 </div>

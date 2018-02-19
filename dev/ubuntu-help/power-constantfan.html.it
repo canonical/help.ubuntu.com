@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemi comuni">Problemi</a> » <a class="trail" href="power.html#problems" title="Problemi">Problemi di alimentazione</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> › <a class="trail" href="hardware.html.it#problems" title="Problemi comuni">Problemi</a> » <a class="trail" href="power.html.it#problems" title="Problemi">Problemi di alimentazione</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Le ventole del computer sono sempre in funzione</span></h1></div>
@@ -62,7 +62,7 @@ Linux at all) and so the fans just run at full speed all of the time.</p>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html#problems" title="Problemi">Problemi di alimentazione</a><span class="desc"> — Risolvere problemi relativi all'alimentazione elettrica e alle batterie.</span>
+<a href="power.html.it#problems" title="Problemi">Problemi di alimentazione</a><span class="desc"> — Risolvere problemi relativi all'alimentazione elettrica e alle batterie.</span>
 </li></ul></div>
 </div></div></div>
 </div>

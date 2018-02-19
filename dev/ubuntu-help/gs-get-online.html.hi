@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="आरंभन">गनोम के साथ आरंभन</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.hi" title="आरंभन">गनोम के साथ आरंभन</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="तंत्र खोज का उपयोग करें">पिछला</a><a class="nextlinks-next" href="gs-browse-web.html" title="वेब ब्राउज़ करें">अगला</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.hi" title="तंत्र खोज का उपयोग करें">पिछला</a><a class="nextlinks-next" href="gs-browse-web.html.hi" title="वेब ब्राउज़ करें">अगला</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">ऑनलाइन होएँ</span></h1></div>
 <div class="region">
@@ -78,7 +78,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">To connect to a Wi-Fi (wireless) network:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html#yourname" title="You and your computer">system menu</a></span>
+<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html.hi#yourname" title="You and your computer">system menu</a></span>
         on the right side of the top bar.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Wi-Fi Not Connected</span>. The Wi-Fi section of the menu
         will expand.</p></li>
@@ -94,7 +94,7 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="तंत्र खोज का उपयोग करें">पिछला</a><a class="nextlinks-next" href="gs-browse-web.html" title="वेब ब्राउज़ करें">अगला</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.hi" title="तंत्र खोज का उपयोग करें">पिछला</a><a class="nextlinks-next" href="gs-browse-web.html.hi" title="वेब ब्राउज़ करें">अगला</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -102,18 +102,18 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">अधिक जानकारी</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="आरंभन">गनोम के साथ आरंभन</a><span class="desc"> — गनोम के लिए नए हैं? जानें कि कैसे इससे परिचित हुआ जाए.</span>
+<a href="getting-started.html.hi" title="आरंभन">गनोम के साथ आरंभन</a><span class="desc"> — गनोम के लिए नए हैं? जानें कि कैसे इससे परिचित हुआ जाए.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">यह भी देखें</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Wireless Networking">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Wired Networking">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Network problems">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Web Browsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email &amp; email software">email accounts</a></span>…
+<a href="net.html.hi" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html.hi" title="Wireless Networking">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html.hi" title="Wired Networking">wired</a></span>,
+      <span class="link"><a href="net-problem.html.hi" title="Network problems">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html.hi" title="Web Browsers">web browsing</a></span>,
+      <span class="link"><a href="net-email.html.hi" title="Email &amp; email software">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Få mer hjälp</span></h1></div>
@@ -54,17 +54,17 @@
   </p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="get-involved.html" title="Medverka till att förbättra den här handboken"><span class="title">Medverka till att förbättra den här handboken</span><span class="linkdiv-dash"> — </span><span class="desc">Hur och var du ska rapportera problem med dessa hjälptexter.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="about-this-guide.html" title="Om denna handbok"><span class="title">Om denna handbok</span><span class="linkdiv-dash"> — </span><span class="desc">Några tips om hur du använder Ubuntu Skrivbordsguide.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="get-involved.html.sv" title="Medverka till att förbättra den här handboken"><span class="title">Medverka till att förbättra den här handboken</span><span class="linkdiv-dash"> — </span><span class="desc">Hur och var du ska rapportera problem med dessa hjälptexter.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="about-this-guide.html.sv" title="Om denna handbok"><span class="title">Om denna handbok</span><span class="linkdiv-dash"> — </span><span class="desc">Några tips om hur du använder Ubuntu Skrivbordsguide.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html" title="Rapportera ett problem i Ubuntu"><span class="title">Rapportera ett problem i Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Hur och var kan man rapportera problem med Ubuntu.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html.sv" title="Rapportera ett problem i Ubuntu"><span class="title">Rapportera ett problem i Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Hur och var kan man rapportera problem med Ubuntu.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Handbok för Ubuntu-skrivbordet">Handbok för Ubuntu-skrivbordet</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.sv" title="Handbok för Ubuntu-skrivbordet">Handbok för Ubuntu-skrivbordet</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

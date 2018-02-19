@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="addremove.html" title="Installera &amp; ta bort mjukvara">Lägg till/ta bort program</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="addremove.html.sv" title="Installera &amp; ta bort mjukvara">Lägg till/ta bort program</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Installera fler program</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Ett program är mjukvara som har ett grafiskt användargränssnitt. Ubuntus utvecklingsgrupp har valt en uppsättning standardprogram som vi anser gör Ubuntu användbart för de allra flesta vardagsbestyr. Du kan förstås ändå vilja installera fler program för att anpassa Ubuntu efter dina behov. För att installera ett program, kan du använda <span class="app">Programvara för Ubuntu</span>.</p>
 <p class="p">Program finns tillgängliga i två format: snap-paket och Debian-paket. För att installera (eller ta bort) ett snap-paket behöver du logga in till Snap Store/Ubuntu One. Vissa program finns i båda formaten. I de fallen listas snap-paketet först i <span class="app">Programvara för Ubuntu</span>.</p>
-<p class="p">Du kan även vilja installera mjukvara som inte har ett grafiskt gränssnitt. För att installera sådan mjukvara kan du använda <span class="link"><a href="addremove-install-synaptic.html" title="Använd Synaptic för en mer avancerad programhantering">Synaptic</a></span>. Märk att <span class="app">Synaptic</span> inte listar snap-paket.</p>
+<p class="p">Du kan även vilja installera mjukvara som inte har ett grafiskt gränssnitt. För att installera sådan mjukvara kan du använda <span class="link"><a href="addremove-install-synaptic.html.sv" title="Använd Synaptic för en mer avancerad programhantering">Synaptic</a></span>. Märk att <span class="app">Synaptic</span> inte listar snap-paket.</p>
 <p class="p">För att installera ett program:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Klicka på ikonen <span class="app">Programvara för Ubuntu</span> i <span class="gui">Programstartaren</span>, eller sök efter <span class="input">Programvara</span> i sökraden för <span class="em">Aktiviteter</span>.</p></li>
@@ -67,20 +67,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Installera &amp; ta bort mjukvara">Installera &amp; ta bort mjukvara</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Installera fler program">Installera program</a></span>, <span class="link"><a href="addremove-remove.html" title="Ta bort ett program">ta bort program</a></span>, <span class="link"><a href="addremove-sources.html" title="Lägg till fler programförråd">lägg till förråd</a></span>…</span>
+<a href="addremove.html.sv" title="Installera &amp; ta bort mjukvara">Installera &amp; ta bort mjukvara</a><span class="desc"> — <span class="link"><a href="addremove-install.html.sv" title="Installera fler program">Installera program</a></span>, <span class="link"><a href="addremove-remove.html.sv" title="Ta bort ett program">ta bort program</a></span>, <span class="link"><a href="addremove-sources.html.sv" title="Lägg till fler programförråd">lägg till förråd</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install-synaptic.html" title="Använd Synaptic för en mer avancerad programhantering">Använd Synaptic för en mer avancerad programhantering</a><span class="desc"> — Synaptic är ett kraftfullt men komplicerat programhanteringsalternativ till <span class="app">Programvara för Ubuntu</span>.</span>
+<a href="addremove-install-synaptic.html.sv" title="Använd Synaptic för en mer avancerad programhantering">Använd Synaptic för en mer avancerad programhantering</a><span class="desc"> — Synaptic är ett kraftfullt men komplicerat programhanteringsalternativ till <span class="app">Programvara för Ubuntu</span>.</span>
 </li>
 <li class="links ">
-<a href="prefs-language-install.html" title="Installera språk">Installera språk</a><span class="desc"> — Installera fler översättningar och relaterade språkstödspaket.</span>
+<a href="prefs-language-install.html.sv" title="Installera språk">Installera språk</a><span class="desc"> — Installera fler översättningar och relaterade språkstödspaket.</span>
 </li>
 <li class="links ">
-<a href="addremove-remove.html" title="Ta bort ett program">Ta bort ett program</a><span class="desc"> — Ta bort program som du inte längre använder.</span>
+<a href="addremove-remove.html.sv" title="Ta bort ett program">Ta bort ett program</a><span class="desc"> — Ta bort program som du inte längre använder.</span>
 </li>
 </ul></div>
 </div></div>

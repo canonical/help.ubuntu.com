@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html#common-file-tasks" title="Általános feladatok">Általános feladatok</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.hu" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html.hu#common-file-tasks" title="Általános feladatok">Általános feladatok</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fájlok és mappák másolása vagy mozgatása</span></h1></div>
@@ -91,19 +91,19 @@
 </ol></div>
 </div>
 </div>
-<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">Nem másolhat vagy helyezhet át egy fájlt <span class="em">írásvédett</span> mappába. Néhány mappa írásvédett, megakadályozandó a tartalmának módosítását. Az írásvédelmet a <span class="link"><a href="nautilus-file-properties-permissions.html" title="Fájljogosultságok beállítása">fájl jogosultságainak módosításával</a></span> szüntetheti meg.</p></div></div></div></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">Nem másolhat vagy helyezhet át egy fájlt <span class="em">írásvédett</span> mappába. Néhány mappa írásvédett, megakadályozandó a tartalmának módosítását. Az írásvédelmet a <span class="link"><a href="nautilus-file-properties-permissions.html.hu" title="Fájljogosultságok beállítása">fájl jogosultságainak módosításával</a></span> szüntetheti meg.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Általános feladatok">Általános feladatok</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.hu#common-file-tasks" title="Általános feladatok">Általános feladatok</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-browse.html" title="Fájlok és mappák tallózása">Fájlok és mappák tallózása</a><span class="desc"> — Fájlok kezelése és rendszerezése a fájlkezelővel.</span>
+<a href="files-browse.html.hu" title="Fájlok és mappák tallózása">Fájlok és mappák tallózása</a><span class="desc"> — Fájlok kezelése és rendszerezése a fájlkezelővel.</span>
 </li></ul></div>
 </div></div>
 </div>

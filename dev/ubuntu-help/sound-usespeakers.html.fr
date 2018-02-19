@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="media.html#sound" title="Notions de base sur le son">Son</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="media.html.fr#sound" title="Notions de base sur le son">Son</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Utilisation d'autres haut-parleurs ou écouteurs.</span></h1></div>
@@ -63,7 +63,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Sélection d'un périphérique d'entrée par défaut</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span>
       overview and start typing <span class="gui">Sound</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Son</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Dans l'onglet <span class="gui">Sortie</span>, sélectionnez le périphérique que vous souhaitez utiliser.</p></li>
@@ -77,13 +77,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="Notions de base sur le son">Notions de base sur le son</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Modification du volume sonore">Volume sonore</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Utilisation d'autres haut-parleurs ou écouteurs.">haut-parleurs et casques</a></span>, <span class="link"><a href="sound-usemic.html" title="Utilisation d'un autre microphone">microphones</a></span>…</span>
+<a href="media.html.fr#sound" title="Notions de base sur le son">Notions de base sur le son</a><span class="desc"> — <span class="link"><a href="sound-volume.html.fr" title="Modification du volume sonore">Volume sonore</a></span>, <span class="link"><a href="sound-usespeakers.html.fr" title="Utilisation d'autres haut-parleurs ou écouteurs.">haut-parleurs et casques</a></span>, <span class="link"><a href="sound-usemic.html.fr" title="Utilisation d'un autre microphone">microphones</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-usemic.html" title="Utilisation d'un autre microphone">Utilisation d'un autre microphone</a><span class="desc"> — Utiliser un microphone USB ou analogique et sélectionner un périphérique d'entrée par défaut.</span>
+<a href="sound-usemic.html.fr" title="Utilisation d'un autre microphone">Utilisation d'un autre microphone</a><span class="desc"> — Utiliser un microphone USB ou analogique et sélectionner un périphérique d'entrée par défaut.</span>
 </li></ul></div>
 </div></div>
 </div>

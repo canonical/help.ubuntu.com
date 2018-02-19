@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="mouse.html" title="Tetikus">Tetikus</a> › <a class="trail" href="mouse.html#tips" title="Tips">Tip</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="mouse.html.id" title="Tetikus">Tetikus</a> › <a class="trail" href="mouse.html.id#tips" title="Tips">Tip</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="mouse.html" title="Tetikus">Tetikus</a> › <a class="trail" href="mouse.html#tips" title="Tips">Tip</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="mouse.html.id" title="Tetikus">Tetikus</a> › <a class="trail" href="mouse.html.id#tips" title="Tips">Tip</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="tips.html" title="Tip &amp; trik">Tip &amp; trik</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="tips.html.id" title="Tip &amp; trik">Tip &amp; trik</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -62,7 +62,7 @@ can press the left and right mouse buttons at the same time to
 middle-click.</p>
 <p class="p">On touchpads that support multi-finger taps, you can tap with three
 fingers at once to middle-click. You have to
-<span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">enable tap clicking</a></span> in the
+<span class="link"><a href="mouse-touchpad-click.html.id" title="Click, drag, or scroll with the touchpad">enable tap clicking</a></span> in the
 touchpad settings for this to work.</p>
 <p class="p">Many applications use middle-click for advanced click shortcuts.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
@@ -89,9 +89,9 @@ button for other functions. Search your application’s help for
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="tips.html" title="Tip &amp; trik">Tip &amp; trik</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Masukkan karakter khusus">Karakter khusus</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Klik tengah">pintasan klik tengah</a></span>…</span>
+<a href="tips.html.id" title="Tip &amp; trik">Tip &amp; trik</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.id" title="Masukkan karakter khusus">Karakter khusus</a></span>, <span class="link"><a href="mouse-middleclick.html.id" title="Klik tengah">pintasan klik tengah</a></span>…</span>
 </li>
-<li class="links "><a href="mouse.html#tips" title="Tips">Tip tetikus</a></li>
+<li class="links "><a href="mouse.html.id#tips" title="Tips">Tip tetikus</a></li>
 </ul></div>
 </div></div></div>
 </div>

@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="user-accounts.html" title="Uživatelské účty">Uživatelé</a> › <a class="trail" href="user-accounts.html#privileges" title="Uživatelská oprávnění">Oprávnění</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="user-accounts.html.cs" title="Uživatelské účty">Uživatelé</a> › <a class="trail" href="user-accounts.html.cs#privileges" title="Uživatelská oprávnění">Oprávnění</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Změna osob s oprávněním správce</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Správcovská oprávnění jsou způsobem, jak rozhodovat, kdo může provádět změny v důležitých částech systému. Můžete měnit, kteří uživatelé mají oprávnění správce, a kteří ne. Je to dobrý způsob, jak udržet váš systém bezpečný a jak zabránit potenciálním neoprávněným změnám vedoucím k jeho poškození.</p>
-<p class="p">Abyste mohli změnit typ účtu, potřebujete <span class="link"><a href="user-admin-explain.html" title="Jak fungují oprávnění správce?">oprávnění správce</a></span>.</p>
+<p class="p">Abyste mohli změnit typ účtu, potřebujete <span class="link"><a href="user-admin-explain.html.cs" title="Jak fungují oprávnění správce?">oprávnění správce</a></span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Uživatelé</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Uživatelé</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Uživatelé</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Zmáčkněte <span class="gui">Odemknout</span> v pravém horním rohu a po vyzvání zadejte heslo.</p></li>
 <li class="steps"><p class="p">Vyberte uživatele, jehož oprávnění chcete změnit.</p></li>
@@ -69,16 +69,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Uživatelská oprávnění">Uživatelská oprávnění</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.cs#privileges" title="Uživatelská oprávnění">Uživatelská oprávnění</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Jak fungují oprávnění správce?">Jak fungují oprávnění správce?</a><span class="desc"> — Oprávnění správce jsou zapotřebí ke změnám důležitých částí systému.</span>
+<a href="user-admin-explain.html.cs" title="Jak fungují oprávnění správce?">Jak fungují oprávnění správce?</a><span class="desc"> — Oprávnění správce jsou zapotřebí ke změnám důležitých částí systému.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="Problémy způsobené omezeními od správců">Problémy způsobené omezeními od správců</a><span class="desc"> — Některé věci, jako třeba instalovat aplikace, můžete dělat jen s oprávněním správce.</span>
+<a href="user-admin-problems.html.cs" title="Problémy způsobené omezeními od správců">Problémy způsobené omezeními od správců</a><span class="desc"> — Některé věci, jako třeba instalovat aplikace, můžete dělat jen s oprávněním správce.</span>
 </li>
 </ul></div>
 </div></div>

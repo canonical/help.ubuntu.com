@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="color.html" title="Xestión de cor">Xestión de cor</a> › <a class="trail" href="color.html#calibration" title="Calibración">Calibración</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="color.html.gl-GL" title="Xestión de cor">Xestión de cor</a> › <a class="trail" href="color.html.gl-GL#calibration" title="Calibración">Calibración</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="color.html" title="Xestión de cor">Xestión de cor</a> › <a class="trail" href="color.html#calibration" title="Calibración">Calibración</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="color.html.gl-GL" title="Xestión de cor">Xestión de cor</a> › <a class="trail" href="color.html.gl-GL#calibration" title="Calibración">Calibración</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -74,16 +74,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="Calibración">Calibración</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.gl-GL#calibration" title="Calibración">Calibración</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html" title="Como calibrar a cámara?">Como calibrar a cámara?</a><span class="desc"> — Calibrar a súa cámara é importante para capturar cores precisos.</span>
+<a href="color-calibrate-camera.html.gl-GL" title="Como calibrar a cámara?">Como calibrar a cámara?</a><span class="desc"> — Calibrar a súa cámara é importante para capturar cores precisos.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-scanner.html" title="Como calibrar o meu escáner?">Como calibrar o meu escáner?</a><span class="desc"> — Calibrar o seu escáner é importante para capturar cores precisos.</span>
+<a href="color-calibrate-scanner.html.gl-GL" title="Como calibrar o meu escáner?">Como calibrar o meu escáner?</a><span class="desc"> — Calibrar o seu escáner é importante para capturar cores precisos.</span>
 </li>
 </ul></div>
 </div></div>

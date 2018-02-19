@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> › <a class="trail" href="hardware.html#problems" title="Problèmes connus">Problèmes</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> › <a class="trail" href="hardware.html.fr#problems" title="Problèmes connus">Problèmes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problèmes d'écran</span></h1></div>
@@ -51,21 +51,21 @@
 <div class="contents">
 <p class="p">La plupart des difficultés d'affichage proviennent de problèmes avec les pilotes graphiques ou la configuration. Recherchez la rubrique qui correspond la mieux à votre problème parmi les suivantes :</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="Diminution de la luminosité de l'écran après un certain temps d'inactivité"><span class="title">Diminution de la luminosité de l'écran après un certain temps d'inactivité</span><span class="linkdiv-dash"> — </span><span class="desc">L'écran s'assombrit quand l'ordinateur est mis au repos pour économiser l'énergie.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="L'écran se verrouille trop rapidement"><span class="title">L'écran se verrouille trop rapidement</span><span class="linkdiv-dash"> — </span><span class="desc">Modifier le temps d'attente avant le verrouillage de l'écran dans les paramètres <span class="gui">Confidentialité</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html" title="Pourquoi l'affichage de mon écran est-il brouillé/pixelisé ?"><span class="title">Pourquoi l'affichage de mon écran est-il brouillé/pixelisé ?</span><span class="linkdiv-dash"> — </span><span class="desc">La résolution de l'écran est peut-être mal définie.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?"><span class="title">Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html" title="Set screen brightness"><span class="title">Set screen brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.fr" title="Diminution de la luminosité de l'écran après un certain temps d'inactivité"><span class="title">Diminution de la luminosité de l'écran après un certain temps d'inactivité</span><span class="linkdiv-dash"> — </span><span class="desc">L'écran s'assombrit quand l'ordinateur est mis au repos pour économiser l'énergie.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.fr" title="L'écran se verrouille trop rapidement"><span class="title">L'écran se verrouille trop rapidement</span><span class="linkdiv-dash"> — </span><span class="desc">Modifier le temps d'attente avant le verrouillage de l'écran dans les paramètres <span class="gui">Confidentialité</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.fr" title="Pourquoi l'affichage de mon écran est-il brouillé/pixelisé ?"><span class="title">Pourquoi l'affichage de mon écran est-il brouillé/pixelisé ?</span><span class="linkdiv-dash"> — </span><span class="desc">La résolution de l'écran est peut-être mal définie.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.fr" title="Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?"><span class="title">Pourquoi mon ordinateur ne sort-il pas de veille après une suspension ?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.fr" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.fr" title="Set screen brightness"><span class="title">Set screen brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
     light.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="Mise en marche de l'ordinateur impossible"><span class="title">Mise en marche de l'ordinateur impossible</span><span class="linkdiv-dash"> — </span><span class="desc">Des câbles mal branchés ou des problèmes de matériel sont des raisons probables.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.fr" title="Mise en marche de l'ordinateur impossible"><span class="title">Mise en marche de l'ordinateur impossible</span><span class="linkdiv-dash"> — </span><span class="desc">Des câbles mal branchés ou des problèmes de matériel sont des raisons probables.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Problèmes connus">Problèmes matériels</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.fr#problems" title="Problèmes connus">Problèmes matériels</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

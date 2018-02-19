@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-browser.html" title="Webbrowsers">Webbrowsers</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-browser.html.nl" title="Webbrowsers">Webbrowsers</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">De Flash plug-in installeren</span></h1></div>
@@ -70,7 +70,7 @@
 <div class="region"><div class="contents">
 <p class="p">Het pakket <span class="app">adobe-flashplugin</span> bevat zowel de NPAPI als PPAPI plug-ins, dat wil zeggen dat het Flash bevat voor browsers als Firefox en Chromium.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Zorg ervoor dat de <span class="link"><a href="addremove-sources.html#canonical-partner" title="De bron Partners van Canonical activeren">softwarebron "Partners van Canonical" is geactiveerd</a></span>.</p></li>
+<li class="steps"><p class="p">Zorg ervoor dat de <span class="link"><a href="addremove-sources.html.nl#canonical-partner" title="De bron Partners van Canonical activeren">softwarebron "Partners van Canonical" is geactiveerd</a></span>.</p></li>
 <li class="steps"><p class="p">Het pakket <span class="link"><a href="https://apps.ubuntu.com/cat/applications/adobe-flashplugin" title="https://apps.ubuntu.com/cat/applications/adobe-flashplugin">adobe-flashplugin</a></span> installeren.</p></li>
 <li class="steps"><p class="p">Uw browser opnieuw starten.</p></li>
 </ol></div></div></div>
@@ -95,7 +95,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Webbrowsers">Webbrowsers</a><span class="desc"> — <span class="link"><a href="net-default-browser.html" title="Wijzigen in welke webbrowser websites geopend moeten worden">De standaard webbrowser wijzigen</a></span>, <span class="link"><a href="net-install-flash.html" title="De Flash plug-in installeren">Flash installeren</a></span>…</span>
+<a href="net-browser.html.nl" title="Webbrowsers">Webbrowsers</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.nl" title="Wijzigen in welke webbrowser websites geopend moeten worden">De standaard webbrowser wijzigen</a></span>, <span class="link"><a href="net-install-flash.html.nl" title="De Flash plug-in installeren">Flash installeren</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

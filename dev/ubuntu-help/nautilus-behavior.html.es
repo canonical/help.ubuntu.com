@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a> » <a class="trail" href="nautilus-prefs.html" title="Preferencias del gestor de archivos">Preferencias del gestor de archivos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a> » <a class="trail" href="nautilus-prefs.html.es" title="Preferencias del gestor de archivos">Preferencias del gestor de archivos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferencias de comportamiento del gestor de archivos</span></h1></div>
@@ -60,7 +60,7 @@
 <div id="executable" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Archivos de texto ejecutables</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Un archivo de texto ejecutable es un archivo que contiene un programa que puede ejecutar. Los <span class="link"><a href="nautilus-file-properties-permissions.html" title="Establecer los permisos del archivo">permisos del archivo</a></span> también deben permitir que el archivo pueda ejecutarse como un programa. Los más frecuentes suelen ser scripts de Shell, Python y Perl. Tienen extensiones <span class="file">.sh</span>, <span class="file">.py</span> y <span class="file">.pl</span> respectivamente.</p>
+<p class="p">Un archivo de texto ejecutable es un archivo que contiene un programa que puede ejecutar. Los <span class="link"><a href="nautilus-file-properties-permissions.html.es" title="Establecer los permisos del archivo">permisos del archivo</a></span> también deben permitir que el archivo pueda ejecutarse como un programa. Los más frecuentes suelen ser scripts de Shell, Python y Perl. Tienen extensiones <span class="file">.sh</span>, <span class="file">.py</span> y <span class="file">.pl</span> respectivamente.</p>
 <p class="p">Cuando abre un archivo de texto ejecutable, puede elegir entre:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Ejecutar archivos de texto ejecutables cuando se abren</span></p></li>
@@ -89,7 +89,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Consulte también</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="files-delete.html" title="Eliminar archivos y carpetas">Eliminar archivos y carpetas</a><span class="desc"> — Quitar archivos o carpetas que ya no necesita.</span>
+<a href="files-delete.html.es" title="Eliminar archivos y carpetas">Eliminar archivos y carpetas</a><span class="desc"> — Quitar archivos o carpetas que ya no necesita.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -100,7 +100,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Preferencias del gestor de archivos">Preferencias del gestor de archivos</a><span class="desc"> — Ver y establecer las preferencias para el explorador de archivos.</span>
+<a href="nautilus-prefs.html.es" title="Preferencias del gestor de archivos">Preferencias del gestor de archivos</a><span class="desc"> — Ver y establecer las preferencias para el explorador de archivos.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Универзални приступ">Универзални приступ</a> › <a class="trail" href="a11y.html#vision" title="Оштећења вида">Оштећења вида</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.sr" title="Универзални приступ">Универзални приступ</a> › <a class="trail" href="a11y.html.sr#vision" title="Оштећења вида">Оштећења вида</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Читајте екран на глас</span></h1></div>
@@ -54,13 +54,13 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Притисните <span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>С</kbd></span>.</p></li></ol></div></div></div>
 <p class="p">Или да покренете <span class="app">Орку</span> користећи миша и тастатуру:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Универзални приступ</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Универзални приступ</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Универзални приступ</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Притисните на <span class="gui">Читач екрана</span> у одељку <span class="gui">Видети</span>, затим укључите <span class="gui">читача екрана</span> у прозорчету.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Савет"><div class="inner">
 <div class="title title-note"><h2><span class="title">Брзо укључите или искључите читача екрана</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Можете да укључите или да искључите читач екрана тако што ћете притиснути на <span class="link"><a href="a11y-icon.html" title="Пронађите изборник универзалног приступа">иконицу приступачности</a></span> на горњој траци и изабрати <span class="gui">Читач екрана</span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Можете да укључите или да искључите читач екрана тако што ћете притиснути на <span class="link"><a href="a11y-icon.html.sr" title="Пронађите изборник универзалног приступа">иконицу приступачности</a></span> на горњој траци и изабрати <span class="gui">Читач екрана</span>.</p></div></div>
 </div></div>
 <p class="p">Погледајте <span class="link"><a href="help:orca" title="help:orca">Помоћ Орке</a></span> за више података.</p>
 </div>
@@ -69,12 +69,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Оштећења вида">Оштећења вида</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.sr#vision" title="Оштећења вида">Оштећења вида</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y-braille.html" title="Читајте екран Брајевим писмом">Читајте екран Брајевим писмом</a><span class="desc"> — Користите читач екрана <span class="app">Орку</span> са освеживим Брајевим екраном.</span>
+<a href="a11y-braille.html.sr" title="Читајте екран Брајевим писмом">Читајте екран Брајевим писмом</a><span class="desc"> — Користите читач екрана <span class="app">Орку</span> са освеживим Брајевим екраном.</span>
 </li></ul></div>
 </div></div>
 </div>

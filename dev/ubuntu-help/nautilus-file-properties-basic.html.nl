@@ -43,27 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bestandseigenschappen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Om informatie over een bestand of map te bekijken klikt u er met rechts op en kiest u <span class="gui">Eigenschappen</span>.  U kunt ook het bestand selecteren en daarna drukken op <span class="guiseq"><span class="gui">Alt</span> ▸ <span class="gui">Enter</span></span>.</p>
-<p class="p">Het bestandseigenschappenvenster toont u informatie zoals het bestandstype, de bestandsgrootte, en de datum waarop u het bestand voor het laatst gewijzigd heeft. Als u deze informatie vaak nodig heeft, dan kunt u die laten weergeven in <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">lijstkolommen</a></span> of <span class="link"><a href="nautilus-display.html#icon-captions" title="Pictogrambijschriften">pictogrambijschriften</a></span>.</p>
-<p class="p">De informatie op het tabblad <span class="gui">Eenvoudig</span> wordt hieronder uitgelegd. Er zijn ook nog de volgende tabbladen: <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Bestandsrechten instellen">Rechten</a></span></span> en <span class="gui"><span class="link"><a href="files-open.html#default" title="De standaardtoepassing wijzigen">Openen met</a></span></span>. Voor bepaalde bestandstypes, zoals afbeeldingen en video's, is er een extra tabblad met informatie zoals afmetingen, duur en codec.</p>
+<p class="p">Om informatie over een bestand of map te bekijken klikt u er met rechts op en kiest u <span class="gui">Eigenschappen</span>.  U kunt ook het bestand selecteren en daarna drukken op <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Enter</kbd></span></span>.</p>
+<p class="p">Het bestandseigenschappenvenster toont u informatie zoals het bestandstype, de bestandsgrootte, en de datum waarop u het bestand voor het laatst gewijzigd heeft. Als u deze informatie vaak nodig heeft, dan kunt u die laten weergeven in <span class="link"><a href="nautilus-list.html.nl" title="Files list columns preferences">lijstkolommen</a></span> of <span class="link"><a href="nautilus-display.html.nl#icon-captions" title="Pictogrambijschriften">pictogrambijschriften</a></span>.</p>
+<p class="p">De informatie op het tabblad <span class="gui">Eenvoudig</span> wordt hieronder uitgelegd. Er zijn ook nog de volgende tabbladen: <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.nl" title="Bestandsrechten instellen">Rechten</a></span></span> en <span class="gui"><span class="link"><a href="files-open.html.nl#default" title="De standaardtoepassing wijzigen">Openen met</a></span></span>. Voor bepaalde bestandstypes, zoals afbeeldingen en video's, is er een extra tabblad met informatie zoals afmetingen, duur en codec.</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Basiseigenschappen</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Naam</span></dt>
-<dd class="terms"><p class="p">U kunt het bestand hernoemen door dit veld te wijzigen. U kunt een bestand ook buiten het eigenschappenvenster hernoemen. Zie <span class="link"><a href="files-rename.html" title="Een bestand of map hernoemen">Een bestand of map hernoemen</a></span>.</p></dd>
+<dd class="terms"><p class="p">U kunt het bestand hernoemen door dit veld te wijzigen. U kunt een bestand ook buiten het eigenschappenvenster hernoemen. Zie <span class="link"><a href="files-rename.html.nl" title="Een bestand of map hernoemen">Een bestand of map hernoemen</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Type</span></dt>
 <dd class="terms">
 <p class="p">This helps you identify the type of the file, such as PDF document,
     OpenDocument Text, or JPEG image. The file type determines which
     applications can open the file, among other things. For example, you
-    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="Bestanden openen met andere toepassingen">Bestanden openen met andere toepassingen</a></span>
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html.nl" title="Bestanden openen met andere toepassingen">Bestanden openen met andere toepassingen</a></span>
     for more information on this.</p>
 <p class="p">Het <span class="em">MIME-type</span> van het bestand wordt tussen haakjes getoond; MIME is een door computers gebruikte standaard manier om naar een bestandstype te verwijzen.</p>
 </dd>
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="Bestandsrechten instellen">Bestandsrechten instellen</a><span class="desc"> — Beheren wie uw bestanden en mappen mogen bekijken en bewerken.</span>
+<a href="nautilus-file-properties-permissions.html.nl" title="Bestandsrechten instellen">Bestandsrechten instellen</a><span class="desc"> — Beheren wie uw bestanden en mappen mogen bekijken en bewerken.</span>
 </li></ul></div>
 </div></div>
 </div>

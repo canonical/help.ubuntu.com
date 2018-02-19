@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="getting-started.html" title="Mulai Memakai">Mulai Memakai GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="getting-started.html.id" title="Mulai Memakai">Mulai Memakai GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="Menyambung ke akun daring">Sebelumnya</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="Ubah gambar latar">Selanjutnya</a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.id" title="Menyambung ke akun daring">Sebelumnya</a><a class="nextlinks-next" href="gs-change-wallpaper.html.id" title="Ubah gambar latar">Selanjutnya</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Mengubah tanggal, waktu, dan zona waktu</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klik <span class="gui"><a href="shell-introduction.html#yourname" title="Anda dan komputer Anda">menu sistem</a></span> pada sisi kanan bilah puncak.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui"><a href="shell-introduction.html.id#yourname" title="Anda dan komputer Anda">menu sistem</a></span> pada sisi kanan bilah puncak.</p></li>
 <li class="steps"><p class="p">Tekan tombol pengaturan di kiri dasar menu.</p></li>
 <li class="steps"><p class="p">Pilih panel <span class="gui">Tanggal &amp; Waktu</span>.</p></li>
 </ol></div></div></div>
@@ -68,7 +68,7 @@
 </ol></div></div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="Menyambung ke akun daring">Sebelumnya</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="Ubah gambar latar">Selanjutnya</a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.id" title="Menyambung ke akun daring">Sebelumnya</a><a class="nextlinks-next" href="gs-change-wallpaper.html.id" title="Ubah gambar latar">Selanjutnya</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -76,13 +76,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Mulai Memakai">Mulai Memakai GNOME</a><span class="desc"> — Baru kenal GNOME? Pelajari bagaimana memakainya.</span>
+<a href="getting-started.html.id" title="Mulai Memakai">Mulai Memakai GNOME</a><span class="desc"> — Baru kenal GNOME? Pelajari bagaimana memakainya.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Tanggal &amp; waktu">Tanggal &amp; waktu</a><span class="desc"> — <span class="link"><a href="clock-set.html" title="Ubah tanggal dan waktu">Atur tanggal dan waktu</a></span>, <span class="link"><a href="clock-world.html" title="Tambah jam dunia">jam dunia</a></span>, <span class="link"><a href="clock-timezone.html" title="Ubah zona waktu Anda">zona waktu</a></span>, <span class="link"><a href="clock-calendar.html" title="Janji kalender">kalender dan janji bertemu</a></span>…</span>
+<a href="clock.html.id" title="Tanggal &amp; waktu">Tanggal &amp; waktu</a><span class="desc"> — <span class="link"><a href="clock-set.html.id" title="Ubah tanggal dan waktu">Atur tanggal dan waktu</a></span>, <span class="link"><a href="clock-world.html.id" title="Tambah jam dunia">jam dunia</a></span>, <span class="link"><a href="clock-timezone.html.id" title="Ubah zona waktu Anda">zona waktu</a></span>, <span class="link"><a href="clock-calendar.html.id" title="Janji kalender">kalender dan janji bertemu</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

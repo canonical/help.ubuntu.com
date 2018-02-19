@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Параметры общего доступа</span></h1></div>
@@ -52,14 +52,14 @@
 <p class="p"><span class="em">Параметры общего доступа</span> в GNOME помогают контролировать общие ресурсы в локальной сети, а также общие ресурсы, доступ к которым реализуется с помощью других технологий, например, <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html" title="Set the display name for your computer"><span class="title">Set the display name for your computer</span><span class="linkdiv-dash"> — </span><span class="desc">Control how your computer will appear to other computers or
+<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.ru" title="Set the display name for your computer"><span class="title">Set the display name for your computer</span><span class="linkdiv-dash"> — </span><span class="desc">Control how your computer will appear to other computers or
     devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html" title="Общий доступ к рабочему столу"><span class="title">Общий доступ к рабочему столу</span><span class="linkdiv-dash"> — </span><span class="desc">Позвольте другим людям наблюдать за вашим рабочим столом и управлять им с помощью VNC.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html" title="Сделайте общими ваши личные файлы"><span class="title">Сделайте общими ваши личные файлы</span><span class="linkdiv-dash"> — </span><span class="desc">Открыть сторонним пользователям доступ к папке <span class="file">Общедоступное</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.ru" title="Общий доступ к рабочему столу"><span class="title">Общий доступ к рабочему столу</span><span class="linkdiv-dash"> — </span><span class="desc">Позвольте другим людям наблюдать за вашим рабочим столом и управлять им с помощью VNC.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.ru" title="Сделайте общими ваши личные файлы"><span class="title">Сделайте общими ваши личные файлы</span><span class="linkdiv-dash"> — </span><span class="desc">Открыть сторонним пользователям доступ к папке <span class="file">Общедоступное</span>.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-media.html" title="Сделать общими музыку, фото и видео."><span class="title">Сделать общими музыку, фото и видео.</span><span class="linkdiv-dash"> — </span><span class="desc">Share media on your local network using UPnP.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Управление общим доступом по Bluetooth"><span class="title">Управление общим доступом по Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-media.html.ru" title="Сделать общими музыку, фото и видео."><span class="title">Сделать общими музыку, фото и видео.</span><span class="linkdiv-dash"> — </span><span class="desc">Share media on your local network using UPnP.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.ru" title="Управление общим доступом по Bluetooth"><span class="title">Управление общим доступом по Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
 </div>
 </div></div></div>
 </div>
@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
+<a href="prefs.html.ru" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html.ru" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html.ru" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html.ru" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html.ru" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

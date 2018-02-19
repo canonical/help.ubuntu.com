@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-browser.html" title="Tīmekļa pārlūkprogrammas">Tīmekļa pārlūkprogrammas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-browser.html.lv" title="Tīmekļa pārlūkprogrammas">Tīmekļa pārlūkprogrammas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nomainiet, kura tīmekļa pārlūkprogrammā pēc noklusējuma atver tīmekļa lapas</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Nospiežot uz kādas tīmekļa lapas saites jebkurā lietotnē, tīmekļa pārlūkprogramma automātiski atvērs šo lapu. Ja ir instalētas vairākas tīmekļa pārlūkprogrammas, tīmekļa lapa var atvērties citā, nevis iecerētajā pārlūkprogrammā. Lai to salabotu, nomainiet noklusējuma tīmekļa pārlūkprogrammu:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="link"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Sīkāka informācija</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="link"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Sīkāka informācija</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Sīkāka informācija</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Izvēlieties <span class="gui">Noklusējuma lietotnes</span> loga kreisās puses sarakstā.</p></li>
 <li class="steps"><p class="p">Mainot <span class="gui">Tīmeklis</span> opciju, izvēlieties, kura tīmekļa pārlūkprogramma atvērs saites.</p></li>
@@ -63,7 +63,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Tīmekļa pārlūkprogrammas">Tīmekļa pārlūkprogrammas</a><span class="desc"> — <span class="link"><a href="net-default-browser.html" title="Nomainiet, kura tīmekļa pārlūkprogrammā pēc noklusējuma atver tīmekļa lapas">Nomainīt noklusējuma pārlūku</a></span>, <span class="link"><a href="net-install-flash.html" title="Instalēt Flash spraudni">instalēt Flash</a></span>…</span>
+<a href="net-browser.html.lv" title="Tīmekļa pārlūkprogrammas">Tīmekļa pārlūkprogrammas</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.lv" title="Nomainiet, kura tīmekļa pārlūkprogrammā pēc noklusējuma atver tīmekļa lapas">Nomainīt noklusējuma pārlūku</a></span>, <span class="link"><a href="net-install-flash.html.lv" title="Instalēt Flash spraudni">instalēt Flash</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

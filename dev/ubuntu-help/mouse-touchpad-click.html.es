@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="mouse.html" title="Ratón">Ratón</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="mouse.html.es" title="Ratón">Ratón</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="mouse.html" title="Ratón">Ratón</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="mouse.html.es" title="Ratón">Ratón</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="region"><div class="contents">
 <p class="p">Puede tocar el «touchpad» para pulsar en lugar de usar un botón.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Ratón y touchpad</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Ratón y touchpad</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Ratón y touchpad</span> para abrir el panel.</p></li>
 <li class="steps">
 <p class="p">En la sección <span class="gui">Touchpad</span>, seleccione <span class="gui">Tocar para pulsar</span>.</p>
@@ -69,8 +69,8 @@
 <li class="list"><p class="p">Para pulsar toque el «touchpad».</p></li>
 <li class="list"><p class="p">Para una doble pulsación, toque dos veces.</p></li>
 <li class="list"><p class="p">Para arrastrar un elemento, toque dos veces pero no levante su dedo después del segundo toque. Arrastre el elemento a donde quiera y después levante su dedo para soltarlo.</p></li>
-<li class="list"><p class="p">Si su «touchpad» es multitáctil, pulse con el botón derecho del ratón usando dos dedos a la vez. De lo contrario necesitará usar los botones hardware para pulsar con el botón derecho del ratón. Para ver un método de pulsación derecha del ratón sin usar el segundo botón del ratón consulte la <span class="link"><a href="a11y-right-click.html" title="Simular una pulsación derecha del ratón">Simular una pulsación derecha del ratón</a></span>.</p></li>
-<li class="list"><p class="p">Si su «touchpad» soporta multi-toque puede <span class="link"><a href="mouse-middleclick.html" title="Pulsación central">pulsar con el botón del medio</a></span> pulsando con tres dedos a la vez.</p></li>
+<li class="list"><p class="p">Si su «touchpad» es multitáctil, pulse con el botón derecho del ratón usando dos dedos a la vez. De lo contrario necesitará usar los botones hardware para pulsar con el botón derecho del ratón. Para ver un método de pulsación derecha del ratón sin usar el segundo botón del ratón consulte la <span class="link"><a href="a11y-right-click.html.es" title="Simular una pulsación derecha del ratón">Simular una pulsación derecha del ratón</a></span>.</p></li>
+<li class="list"><p class="p">Si su «touchpad» soporta multi-toque puede <span class="link"><a href="mouse-middleclick.html.es" title="Pulsación central">pulsar con el botón del medio</a></span> pulsando con tres dedos a la vez.</p></li>
 </ul></div></div></div>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Asegúrese de que sus dedos están separados lo suficiente al tocar o arrastrar con varios dedos. Si sus dedos están demasiado juntos su equipo puede creer que es un solo dedo.</p></div></div></div></div>
 </div></div>
@@ -80,7 +80,7 @@
 <div class="region"><div class="contents">
 <p class="p">Puede hacer desplazamientos usando su «touchpad» con dos dedos.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Ratón y touchpad</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Ratón y touchpad</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Ratón y touchpad</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">En la sección <span class="gui">Touchpad</span>, marque <span class="gui">Desplazamiento con dos dedos</span>.</p></li>
 </ol></div></div></div>
@@ -93,7 +93,7 @@
 <div class="region"><div class="contents">
 <p class="p">Puede arrastrar contenido como si desplazase una hoja física de papel usando el touchpad.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Ratón y touchpad</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Ratón y touchpad</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Ratón y touchpad</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">En la sección <span class="gui">Touchpad</span>, seleccione <span class="gui">Desplazamiento natural</span>.</p></li>
 </ol></div></div></div>
@@ -105,7 +105,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html" title="Ratón">Ratón</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Use su ratón para zurdos">Zurdo</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Ajustar la velocidad del ratón y del touchpad">velocidad y sensibilidad</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Pulsar, arrastrar o desplazarse con el «touchpad»">pulsación y desplazamiento con el touchpad</a></span>…</span>
+<a href="mouse.html.es" title="Ratón">Ratón</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.es" title="Use su ratón para zurdos">Zurdo</a></span>, <span class="link"><a href="mouse-sensitivity.html.es" title="Ajustar la velocidad del ratón y del touchpad">velocidad y sensibilidad</a></span>, <span class="link"><a href="mouse-touchpad-click.html.es" title="Pulsar, arrastrar o desplazarse con el «touchpad»">pulsación y desplazamiento con el touchpad</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="mouse.html" title="鼠标">鼠标</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="mouse.html.zh-CN" title="鼠标">鼠标</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="mouse.html" title="鼠标">鼠标</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="mouse.html.zh-CN" title="鼠标">鼠标</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="region"><div class="contents">
 <p class="p">You can tap your touchpad to click instead of using a button.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps">
@@ -72,8 +72,8 @@
 <li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
       second tap. Drag the item where you want it, then lift your finger to
       drop.</p></li>
-<li class="list"><p class="p">如果您的触摸板支持多指点击，则可以通过两指同时点击来触发右键单击动作。否则您需要按下实体右键方可完成动作。请参阅<span class="link"><a href="a11y-right-click.html" title="模拟右键点击">模拟右键点击</a></span>获得更多关于模拟右键点击的信息。</p></li>
-<li class="list"><p class="p">如果您的触摸板支持多指点击，三指同时点击可以模拟<span class="link"><a href="mouse-middleclick.html" title="单击中键">中键点击</a></span>动作。</p></li>
+<li class="list"><p class="p">如果您的触摸板支持多指点击，则可以通过两指同时点击来触发右键单击动作。否则您需要按下实体右键方可完成动作。请参阅<span class="link"><a href="a11y-right-click.html.zh-CN" title="模拟右键点击">模拟右键点击</a></span>获得更多关于模拟右键点击的信息。</p></li>
+<li class="list"><p class="p">如果您的触摸板支持多指点击，三指同时点击可以模拟<span class="link"><a href="mouse-middleclick.html.zh-CN" title="单击中键">中键点击</a></span>动作。</p></li>
 </ul></div></div></div>
 <div class="note" title="备注"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
     are spread far enough apart. If your fingers are too close, your computer
@@ -85,7 +85,7 @@
 <div class="region"><div class="contents">
 <p class="p">您可以在触摸板上使用两根手指滚屏</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps"><p class="p">在<span class="gui">触摸板</span>区段，勾选<span class="gui">双击滚动</span>。</p></li>
@@ -104,7 +104,7 @@
 <div class="region"><div class="contents">
 <p class="p">您可以使用触摸板拖动内容，像移动一张真正的纸一样。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Natural
@@ -118,7 +118,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html" title="鼠标">鼠标</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="左手使用习惯">左手习惯</a></span>、<span class="link"><a href="mouse-sensitivity.html" title="调整鼠标或触摸板的速度">速度和灵敏度</a></span>、<span class="link"><a href="mouse-touchpad-click.html" title="用触摸板点击、拖动、滚屏操作">触摸板上点击和滚动</a></span>…</span>
+<a href="mouse.html.zh-CN" title="鼠标">鼠标</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.zh-CN" title="左手使用习惯">左手习惯</a></span>、<span class="link"><a href="mouse-sensitivity.html.zh-CN" title="调整鼠标或触摸板的速度">速度和灵敏度</a></span>、<span class="link"><a href="mouse-touchpad-click.html.zh-CN" title="用触摸板点击、拖动、滚屏操作">触摸板上点击和滚动</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="mouse.html" title="Rato">Rato</a> › <a class="trail" href="mouse.html#tips" title="Conselhos">Conselhos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="mouse.html.pt" title="Rato">Rato</a> › <a class="trail" href="mouse.html.pt#tips" title="Conselhos">Conselhos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="mouse.html" title="Rato">Rato</a> › <a class="trail" href="mouse.html#tips" title="Conselhos">Conselhos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> » <a class="trail" href="mouse.html.pt" title="Rato">Rato</a> › <a class="trail" href="mouse.html.pt#tips" title="Conselhos">Conselhos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Truques e conselhos">Truques e conselhos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.pt" title="Truques e conselhos">Truques e conselhos</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@ with a scroll wheel, you can usually press directly down on the scroll
 wheel to middle-click. If you don’t have a middle mouse button, you
 can press the left and right mouse buttons at the same time to
 middle-click.</p>
-<p class="p">Em «touchpads» que sejam multitáteis pode carregar com três dedos ao mesmo tempo para realizar uma clique com o botão do médio. Para que isto funcione, deve ativar <span class="link"><a href="mouse-touchpad-click.html" title="Clicar, arrastar ou deslocar-se com o «touchpad»">Ativar cliques do rato com o touchpad</a></span> na configuração do «touchpad».</p>
+<p class="p">Em «touchpads» que sejam multitáteis pode carregar com três dedos ao mesmo tempo para realizar uma clique com o botão do médio. Para que isto funcione, deve ativar <span class="link"><a href="mouse-touchpad-click.html.pt" title="Clicar, arrastar ou deslocar-se com o «touchpad»">Ativar cliques do rato com o touchpad</a></span> na configuração do «touchpad».</p>
 <p class="p">Muitos aplicações usam a clique central para atalhos de clique avançados.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
@@ -82,9 +82,9 @@ button for other functions. Search your application’s help for
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="mouse.html#tips" title="Conselhos">Sugestões sobre o rato</a></li>
+<li class="links "><a href="mouse.html.pt#tips" title="Conselhos">Sugestões sobre o rato</a></li>
 <li class="links ">
-<a href="tips.html" title="Truques e conselhos">Truques e conselhos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Inserir carateres especiais">Carateres especiais</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Clique central">atalhos do botão do médio</a></span>…</span>
+<a href="tips.html.pt" title="Truques e conselhos">Truques e conselhos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.pt" title="Inserir carateres especiais">Carateres especiais</a></span>, <span class="link"><a href="mouse-middleclick.html.pt" title="Clique central">atalhos do botão do médio</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

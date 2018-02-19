@@ -43,31 +43,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Το Bluetooth είναι ένα ασύρματο πρωτόκολλο που επιτρέπει τη σύνδεση πολλών διαφορετικών τύπων συσκευών στον υπολογιστή σας. Το Bluetooth χρησιμοποιείται γενικά για ακουστικά και συσκευές εισόδου όπως ποντίκια και πληκτρολόγια. Μπορείτε επίσης να χρησιμοποιήσετε το Bluetooth στην <span class="link"><a href="bluetooth-send-file.html" title="Αποστολή αρχείων σε μια συσκευή Bluetooth">αποστολή αρχείων μεταξύ συσκευών</a></span>, όπως από τον υπολογιστή σας στο κινητό τηλέφωνο.</p>
+<p class="p">Το Bluetooth είναι ένα ασύρματο πρωτόκολλο που επιτρέπει τη σύνδεση πολλών διαφορετικών τύπων συσκευών στον υπολογιστή σας. Το Bluetooth χρησιμοποιείται γενικά για ακουστικά και συσκευές εισόδου όπως ποντίκια και πληκτρολόγια. Μπορείτε επίσης να χρησιμοποιήσετε το Bluetooth στην <span class="link"><a href="bluetooth-send-file.html.el" title="Αποστολή αρχείων σε μια συσκευή Bluetooth">αποστολή αρχείων μεταξύ συσκευών</a></span>, όπως από τον υπολογιστή σας στο κινητό τηλέφωνο.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html" title="Ενεργοποίηση ή απενεργοποίηση του bluetooth"><span class="title">Ενεργοποίηση ή απενεργοποίηση του bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Ενεργοποιήστε ή απενεργοποιήστε τη συσκευή Bluetooth στον υπολογιστή σας.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Έλεγχος κοινής χρήσης μέσω Bluetooth"><span class="title">Έλεγχος κοινής χρήσης μέσω Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Να επιτρέπεται σε αρχεία να αποστέλλονται στον υπολογιστή σας μέσα από Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html" title="Αποστολή αρχείων σε μια συσκευή Bluetooth"><span class="title">Αποστολή αρχείων σε μια συσκευή Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Κοινή χρήση αρχείων σε συσκευές bluetooth όπως το τηλέφωνο σας.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html" title="Αποσύνδεση συσκευής Bluetooth"><span class="title">Αποσύνδεση συσκευής Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Αφαιρέστε μια συσκευή από τη λίστα των συσκευών Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html" title="Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth"><span class="title">Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Ζεύγος συσκευών Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html" title="Τι είναι η ορατότητα Bluetooth;"><span class="title">Τι είναι η ορατότητα Bluetooth;</span><span class="linkdiv-dash"> — </span><span class="desc">Αν άλλες συσκευές μπορούν να ανακαλύψουν τον υπολογιστή σας.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html.el" title="Ενεργοποίηση ή απενεργοποίηση του bluetooth"><span class="title">Ενεργοποίηση ή απενεργοποίηση του bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Ενεργοποιήστε ή απενεργοποιήστε τη συσκευή Bluetooth στον υπολογιστή σας.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.el" title="Έλεγχος κοινής χρήσης μέσω Bluetooth"><span class="title">Έλεγχος κοινής χρήσης μέσω Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Να επιτρέπεται σε αρχεία να αποστέλλονται στον υπολογιστή σας μέσα από Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.el" title="Αποστολή αρχείων σε μια συσκευή Bluetooth"><span class="title">Αποστολή αρχείων σε μια συσκευή Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Κοινή χρήση αρχείων σε συσκευές bluetooth όπως το τηλέφωνο σας.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html.el" title="Αποσύνδεση συσκευής Bluetooth"><span class="title">Αποσύνδεση συσκευής Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Αφαιρέστε μια συσκευή από τη λίστα των συσκευών Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html.el" title="Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth"><span class="title">Συνδέστε τον υπολογιστή σας σε μια συσκευή Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Ζεύγος συσκευών Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html.el" title="Τι είναι η ορατότητα Bluetooth;"><span class="title">Τι είναι η ορατότητα Bluetooth;</span><span class="linkdiv-dash"> — </span><span class="desc">Αν άλλες συσκευές μπορούν να ανακαλύψουν τον υπολογιστή σας.</span></a></div>
 </div></div></div>
 </div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Προβλήματα</span></h2></div>
 <div class="region">
-<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html" title="Δεν μπορώ να συνδέσω τη συσκευή Bluetooth"><span class="title">Δεν μπορώ να συνδέσω τη συσκευή Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Ο προσαρμογέας μπορεί να είναι ανενεργός ή μπορεί να μην έχει οδηγούς, ή το Bluetooth μπορεί να είναι ανενεργό ή φραγμένο.</span></a></div></div></div></div></div>
+<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html.el" title="Δεν μπορώ να συνδέσω τη συσκευή Bluetooth"><span class="title">Δεν μπορώ να συνδέσω τη συσκευή Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Ο προσαρμογέας μπορεί να είναι ανενεργός ή μπορεί να μην έχει οδηγούς, ή το Bluetooth μπορεί να είναι ανενεργό ή φραγμένο.</span></a></div></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Περισσότερες πληροφορίες</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα υλικού</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα υλικού</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -77,7 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό &amp; οδηγοί</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα υλικού</a></span>, <span class="link"><a href="printing.html" title="Εκτύπωση">Εκτυπωτές</a></span>, <span class="link"><a href="power.html" title="Ενέργεια &amp; μπαταρία">Ρυθμίσεις ισχύος</a></span>, <span class="link"><a href="color.html" title="Διαχείριση χρωμάτων">Διαχείριση χρώματος</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Δίσκοι &amp; αποθήκευση">Δίσκοι</a></span>…</span>
+<a href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό &amp; οδηγοί</a><span class="desc"> — <span class="link"><a href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα υλικού</a></span>, <span class="link"><a href="printing.html.el" title="Εκτύπωση">Εκτυπωτές</a></span>, <span class="link"><a href="power.html.el" title="Ενέργεια &amp; μπαταρία">Ρυθμίσεις ισχύος</a></span>, <span class="link"><a href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρώματος</a></span>, <span class="link"><a href="bluetooth.html.el" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.el" title="Δίσκοι &amp; αποθήκευση">Δίσκοι</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

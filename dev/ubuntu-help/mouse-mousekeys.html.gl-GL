@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="mouse.html" title="Rato">Rato</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="mouse.html.gl-GL" title="Rato">Rato</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="a11y.html" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html#mobility" title="Deficiencias motoras">Deficiencias motoras</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="a11y.html.gl-GL" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">Deficiencias motoras</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="mouse.html" title="Rato">Rato</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="mouse.html.gl-GL" title="Rato">Rato</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,12 +58,12 @@
 <p class="p">Se ten dificultades ao usar un rato ou outro dispositivo apuntador, pode controlar o punteiro do rato usando o teclado numérico do seu teclado. Esta característica chámase <span class="em">teclas de rato</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p>
+<p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p>
 <p class="p">You can access the <span class="gui">Activities</span> overview by pressing on it,
       by moving your mouse pointer against the top-left corner of the screen,
       using <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>
       followed by <span class="key"><kbd>Enter</kbd></span> or using
-      <span class="key"><a href="keyboard-key-super.html" title="Que é a tecla Super?"><kbd>Super</kbd></a></span>.</p>
+      <span class="key"><a href="keyboard-key-super.html.gl-GL" title="Que é a tecla Super?"><kbd>Super</kbd></a></span>.</p>
 </li>
 <li class="steps"><p class="p">Prema sobre <span class="gui">Acceso universal</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Use the up and down arrow keys to select <span class="gui">Mouse Keys</span> in the
@@ -78,7 +78,7 @@
   feature often on a laptop, you can purchase external USB or Bluetooth numeric
   keypads.</p>
 <p class="p">Cada número do teclado numérico correspóndese cun enderezo. Por exemplo, ao premer a tecla <span class="key"><kbd>8</kbd></span> moverase ao punteiro cara arriba e ao premer <span class="key"><kbd>2</kbd></span> moverase cara abaixo. Ao premer a tecla <span class="key"><kbd>5</kbd></span> farase unha pulsación co rato e ao premer dúas veces rapidamente farase unha dupla pulsación.</p>
-<p class="p">A maioría dos teclado teñen unha tecla especial que permite facer unha pulsación dereita; algunhas veces chamada a tecla <span class="key"><a href="keyboard-key-menu.html" title="Que é a tecla Menú?"><kbd>Menú</kbd></a></span>. Porén teña en conta que esta tecla responde onde está o foco do teclado, non onde está o punteiro do rato. Consulte a <span class="link"><a href="a11y-right-click.html" title="Simular o clic dereito do rato">Simular o clic dereito do rato</a></span> para obter máis información sobre como facer unha pulsación dereita mantendo premida a tecla <span class="key"><kbd>5</kbd></span> ou co botón esquerdo do rato.</p>
+<p class="p">A maioría dos teclado teñen unha tecla especial que permite facer unha pulsación dereita; algunhas veces chamada a tecla <span class="key"><a href="keyboard-key-menu.html.gl-GL" title="Que é a tecla Menú?"><kbd>Menú</kbd></a></span>. Porén teña en conta que esta tecla responde onde está o foco do teclado, non onde está o punteiro do rato. Consulte a <span class="link"><a href="a11y-right-click.html.gl-GL" title="Simular o clic dereito do rato">Simular o clic dereito do rato</a></span> para obter máis información sobre como facer unha pulsación dereita mantendo premida a tecla <span class="key"><kbd>5</kbd></span> ou co botón esquerdo do rato.</p>
 <p class="p">Se quere usar o teclado numérico para teclear números cando está activada a opción de teclas do rato, active <span class="key"><kbd>Bloq Num</kbd></span>. O rato non se pode controlar co teclado numérico mentres estea activado <span class="key"><kbd>Bloq Num</kbd></span>.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">As teclas numéricas normais, situadas nunha fila na parte superior do teclado, non controlan o punteiro do rato. Só poden facelo as teclas do teclado numérico.</p></div></div></div></div>
 </div>
@@ -87,9 +87,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Deficiencias motoras">Deficiencias motoras</a></li>
+<li class="links "><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">Deficiencias motoras</a></li>
 <li class="links ">
-<a href="mouse.html" title="Rato">Rato</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Usar un rato para zurdos">Zurdo</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Axustar a velocidade do rato e touchpad">velocidade e sensibilidade</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Premer, arrastrar e desprazarse coa súa área táctil">presión e desprazamento do touchpad</a></span>…</span>
+<a href="mouse.html.gl-GL" title="Rato">Rato</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.gl-GL" title="Usar un rato para zurdos">Zurdo</a></span>, <span class="link"><a href="mouse-sensitivity.html.gl-GL" title="Axustar a velocidade do rato e touchpad">velocidade e sensibilidade</a></span>, <span class="link"><a href="mouse-touchpad-click.html.gl-GL" title="Premer, arrastrar e desprazarse coa súa área táctil">presión e desprazamento do touchpad</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

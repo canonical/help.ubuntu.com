@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Учётные записи пользователей</span></h1></div>
@@ -53,31 +53,31 @@
 <div class="hgroup"><h2 class="title"><span class="title">Управление учётными записями пользователей</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Добавление новой учётной записи пользователя"><span class="title">Добавление новой учётной записи пользователя</span><span class="linkdiv-dash"> — </span><span class="desc">Добавьте новых пользователей, чтобы другие люди могли воспользоваться компьютером.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Автоматический вход"><span class="title">Автоматический вход</span><span class="linkdiv-dash"> — </span><span class="desc">Настройка автоматического входа при запуске компьютера.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-add.html.ru" title="Добавление новой учётной записи пользователя"><span class="title">Добавление новой учётной записи пользователя</span><span class="linkdiv-dash"> — </span><span class="desc">Добавьте новых пользователей, чтобы другие люди могли воспользоваться компьютером.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html.ru" title="Автоматический вход"><span class="title">Автоматический вход</span><span class="linkdiv-dash"> — </span><span class="desc">Настройка автоматического входа при запуске компьютера.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Смена изображения пользователя на экране входа в систему"><span class="title">Смена изображения пользователя на экране входа в систему</span><span class="linkdiv-dash"> — </span><span class="desc">Добавление своей фотографии на экраны входа в систему и выбора пользователя.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Удаление учётной записи пользователя"><span class="title">Удаление учётной записи пользователя</span><span class="linkdiv-dash"> — </span><span class="desc">Удаление пользователей, которые больше не работают на вашем компьютере.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html.ru" title="Смена изображения пользователя на экране входа в систему"><span class="title">Смена изображения пользователя на экране входа в систему</span><span class="linkdiv-dash"> — </span><span class="desc">Добавление своей фотографии на экраны входа в систему и выбора пользователя.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html.ru" title="Удаление учётной записи пользователя"><span class="title">Удаление учётной записи пользователя</span><span class="linkdiv-dash"> — </span><span class="desc">Удаление пользователей, которые больше не работают на вашем компьютере.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="passwords" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Пароли</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html" title="Выбор надёжного пароля"><span class="title">Выбор надёжного пароля</span><span class="linkdiv-dash"> — </span><span class="desc">Используйте длинные, более сложные пароли.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html" title="Изменение пароля"><span class="title">Изменение пароля</span><span class="linkdiv-dash"> — </span><span class="desc">Обеспечьте безопасность своей учётной записи с помощью частого изменения пароля.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html.ru" title="Выбор надёжного пароля"><span class="title">Выбор надёжного пароля</span><span class="linkdiv-dash"> — </span><span class="desc">Используйте длинные, более сложные пароли.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html.ru" title="Изменение пароля"><span class="title">Изменение пароля</span><span class="linkdiv-dash"> — </span><span class="desc">Обеспечьте безопасность своей учётной записи с помощью частого изменения пароля.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="privileges" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Привилегии пользователей</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html" title="Как работают административные полномочия?"><span class="title">Как работают административные полномочия?</span><span class="linkdiv-dash"> — </span><span class="desc">Для изменения важных компонентов системы нужны права администратора.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html" title="Назначение административных полномочий"><span class="title">Назначение административных полномочий</span><span class="linkdiv-dash"> — </span><span class="desc">You can allow users to make changes to the system by giving them
+<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.ru" title="Как работают административные полномочия?"><span class="title">Как работают административные полномочия?</span><span class="linkdiv-dash"> — </span><span class="desc">Для изменения важных компонентов системы нужны права администратора.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.ru" title="Назначение административных полномочий"><span class="title">Назначение административных полномочий</span><span class="linkdiv-dash"> — </span><span class="desc">You can allow users to make changes to the system by giving them
     administrative privileges.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html" title="Проблемы, вызванные ограничением прав доступа"><span class="title">Проблемы, вызванные ограничением прав доступа</span><span class="linkdiv-dash"> — </span><span class="desc">You can do some things, like installing applications, only if you
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.ru" title="Проблемы, вызванные ограничением прав доступа"><span class="title">Проблемы, вызванные ограничением прав доступа</span><span class="linkdiv-dash"> — </span><span class="desc">You can do some things, like installing applications, only if you
     have administrative privileges.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
@@ -86,7 +86,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
+<a href="prefs.html.ru" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html.ru" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html.ru" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html.ru" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html.ru" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

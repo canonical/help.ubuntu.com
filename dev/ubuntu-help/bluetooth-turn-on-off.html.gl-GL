@@ -43,28 +43,41 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="bluetooth.html.gl-GL" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Apagar ou acender o Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can turn Bluetooth on to connect to other Bluetooth devices, or turn
-    it off to conserve power. To turn Bluetooth on, click the Bluetooth icon in
-    the menu bar and switch <span class="gui">Bluetooth</span> to <span class="gui">ON</span>.</p>
-<p class="p">Moitos portátiles teñen un interruptor físico ou unha combinación de teclas para acender ou apagar o Bluetooth. Se o interruptor físico está apagado, non poderá ver a icona de Bluetooth na barra de menú. Busque un interruptor no seu equipo ou unha tecla no seu teclado. A tecla soe ir asociada á tecla <span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
-<p class="p">To turn Bluetooth off, click the Bluetooth icon and switch
-    <span class="gui">Bluetooth</span> to <span class="gui">OFF</span>.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Your computer is <span class="link"><a href="bluetooth-visibility.html" title="Que é a visibilidade de Bluetooth?">visible</a></span>
-    if <span class="gui">Visible</span> is switched to <span class="gui">ON</span> in the Bluetooth
-    menu.</p></div></div></div></div>
+  it off to conserve power. To turn Bluetooth on:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Bluetooth</span> no lateral dereito.</p></li>
+<li class="steps"><p class="p">Set the switch at the top to <span class="gui">ON</span>.</p></li>
+</ol></div></div></div>
+<p class="p">Many laptop computers have a hardware switch or key combination to turn
+  Bluetooth on and off. Look for a switch on your computer or a key on your
+  keyboard. The keyboard key is often accessed with the help of the
+  <span class="key"><kbd class="key-Fn">Fn</kbd></span> key.</p>
+<p class="p">To turn Bluetooth off:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#yourname" title="Vostede e o seu computador">system menu</a></span> from the
+      right side of the top bar.</p></li>
+<li class="steps"><p class="p">Select
+      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span>
+      Not In Use</span>. The Bluetooth section of the menu will expand.</p></li>
+<li class="steps"><p class="p">Select <span class="gui">Turn Off</span>.</p></li>
+</ol></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Your computer is <span class="link"><a href="bluetooth-visibility.html.gl-GL" title="Que é a visibilidade de Bluetooth?">visible</a></span> as
+  long as the <span class="gui">Bluetooth</span> panel is open.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Conectar o seu computador a outro dispositivo Bluetooth">Conectar</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">enviar ficheiros</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Apagar ou acender o Bluetooth">activar e desactivar</a></span>…</span>
+<a href="bluetooth.html.gl-GL" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.gl-GL" title="Conectar o seu computador a outro dispositivo Bluetooth">Conectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.gl-GL" title="Send files to a Bluetooth device">enviar ficheiros</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.gl-GL" title="Apagar ou acender o Bluetooth">activar e desactivar</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

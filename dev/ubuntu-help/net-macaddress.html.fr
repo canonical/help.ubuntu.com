@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="Termes et astuces sur le réseau">Termes et astuces sur le réseau</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.fr" title="Termes et astuces sur le réseau">Termes et astuces sur le réseau</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Adresse MAC</span></h1></div>
@@ -53,7 +53,7 @@
 <p class="p">Une adresse MAC se compose de six groupes de deux caractères chacun, séparés par deux points. Voici un exemple d'adresse MAC : <span class="code">00:1B:44:11:3A:B7</span>.</p>
 <p class="p">Pour identifier l'adresse MAC de votre périphérique réseau :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Réseau</span> pour ouvrir le panneau.</p></li>
 <li class="steps">
@@ -78,7 +78,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Termes et astuces sur le réseau">Termes et astuces sur le réseau</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Recherche de votre adresse IP">Trouvez votre adresse IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Significations de WEP et WPA">sécurité WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Adresse MAC">adresses MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Définition des paramètres du serveur mandataire">serveurs mandataires</a></span>…</span>
+<a href="net-general.html.fr" title="Termes et astuces sur le réseau">Termes et astuces sur le réseau</a><span class="desc"> — <span class="link"><a href="net-findip.html.fr" title="Recherche de votre adresse IP">Trouvez votre adresse IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.fr" title="Significations de WEP et WPA">sécurité WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html.fr" title="Adresse MAC">adresses MAC</a></span>, <span class="link"><a href="net-proxy.html.fr" title="Définition des paramètres du serveur mandataire">serveurs mandataires</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

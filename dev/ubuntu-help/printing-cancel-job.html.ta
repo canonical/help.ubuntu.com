@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> › <a class="trail" href="hardware.html#problems" title="பொதுவான பிரச்சினைகள்">சிக்கல்கள்</a> » <a class="trail" href="printing.html#problems" title="அச்சுப்பொறி சிக்கல்கள்">அச்சுப்பொறி சிக்கல்கள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> › <a class="trail" href="hardware.html.ta#problems" title="பொதுவான பிரச்சினைகள்">சிக்கல்கள்</a> » <a class="trail" href="printing.html.ta#problems" title="அச்சுப்பொறி சிக்கல்கள்">அச்சுப்பொறி சிக்கல்கள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">அச்சுப் பணியை ரத்து செய்தல், இடைநிறுத்துதல் அல்லது விடுவித்தல்</span></h1></div>
@@ -56,7 +56,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">ஒரு அச்சு பணியை எப்படி ரத்து செய்வது:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
 <li class="steps"><p class="p"><span class="gui">அச்சுப்பொறிகள்</span> உரையாடலின் வலப்புறமுள்ள <span class="gui">பணிகளைக் காண்பி</span> பொத்தானை சொடுக்கவும்.</p></li>
@@ -80,7 +80,7 @@
 <div class="region"><div class="contents">
 <p class="p">ஒரு அச்சுப் பணியை நீங்கள் இடைநிறுத்த அல்லது விடுவிக்க விரும்பினால், அச்சுப்பொறி அமைவுகளில் உள்ள பணிகள் உரையாடலுக்குச் சென்று அதற்குரிய பொத்தானை அழுத்தி அதைச் செய்ய முடியும்.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
 <li class="steps"><p class="p"><span class="gui">அச்சுப்பொறிகள்</span> உரையாடலின் வலப்புறம் உள்ள <span class="gui">பணிகளைக் காண்பி</span> பொத்தானை சொடுக்கி உங்கள் தேவைக்கேற்ப அச்சுப் பணியை இடைநிறுத்தலாம் அல்லது விடுவிக்கலாம்.</p></li>
@@ -92,7 +92,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html#problems" title="அச்சுப்பொறி சிக்கல்கள்">அச்சுப்பொறி சிக்கல்கள்</a><span class="desc"> — அச்சுப்பொறிகள் அடையாளம் காணப்படாது போதல், தாள் சிக்கிக்கொள்ளுதல், அச்சு வெளியீடுகள் தவறாக தோற்றமளித்தல்…</span>
+<a href="printing.html.ta#problems" title="அச்சுப்பொறி சிக்கல்கள்">அச்சுப்பொறி சிக்கல்கள்</a><span class="desc"> — அச்சுப்பொறிகள் அடையாளம் காணப்படாது போதல், தாள் சிக்கிக்கொள்ளுதல், அச்சு வெளியீடுகள் தவறாக தோற்றமளித்தல்…</span>
 </li></ul></div>
 </div></div></div>
 </div>

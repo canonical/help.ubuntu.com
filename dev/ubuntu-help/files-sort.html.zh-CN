@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html#common-file-tasks" title="普通任务">普通任务</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.zh-CN" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html.zh-CN#common-file-tasks" title="普通任务">普通任务</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">排序文件和文件夹</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">您可以用不同的方式来排列文件夹中的文件，例如可以按照修改日期或文件大小。参阅下面常用的排列方法。<span class="link"><a href="#ways" title="排列文件的方法">排列文件的方法</a></span> 更多详细信息，请参阅<span class="link"><a href="nautilus-views.html" title="Views preferences in Files">Views preferences in <span class="app">Files</span></a></span>。</p>
+<p class="p">您可以用不同的方式来排列文件夹中的文件，例如可以按照修改日期或文件大小。参阅下面常用的排列方法。<span class="link"><a href="#ways" title="排列文件的方法">排列文件的方法</a></span> 更多详细信息，请参阅<span class="link"><a href="nautilus-views.html.zh-CN" title="Views preferences in Files">Views preferences in <span class="app">Files</span></a></span>。</p>
 <p class="p">您可以排列文件的方法，取决于当前使用的<span class="em">文件夹视图</span>。您可以点击工具栏上的列表或图标按钮来更改当前视图。</p>
 </div>
 <div id="icon-view" class="sect"><div class="inner">
@@ -73,7 +73,7 @@
   columns. Click the view options button in the toolbar, pick <span class="gui">Visible
   
   Columns…</span> and select the columns that you want to be visible. You will
-  then be able to sort by those columns. See <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">Files list columns preferences</a></span> for
+  then be able to sort by those columns. See <span class="link"><a href="nautilus-list.html.zh-CN" title="Files list columns preferences">Files list columns preferences</a></span> for
   descriptions of available columns.</p>
 </div></div>
 </div></div>
@@ -94,7 +94,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="普通任务">普通任务</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.zh-CN#common-file-tasks" title="普通任务">普通任务</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

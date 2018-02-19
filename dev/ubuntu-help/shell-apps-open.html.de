@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Anwendungen starten</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Bewegen Sie Ihren Mauszeiger in die <span class="gui">Aktivitäten</span>-Ecke links oben auf dem Bildschirm, um die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht anzuzeigen. Hier finden Sie alle Ihre Anwendungen. Sie können die Übersicht auch durch Drücken der <span class="key"><a href="keyboard-key-super.html" title="Was ist die Super-Taste?"><kbd>Super-Taste</kbd></a></span> öffnen.</p>
+<p class="p">Bewegen Sie Ihren Mauszeiger in die <span class="gui">Aktivitäten</span>-Ecke links oben auf dem Bildschirm, um die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht anzuzeigen. Hier finden Sie alle Ihre Anwendungen. Sie können die Übersicht auch durch Drücken der <span class="key"><a href="keyboard-key-super.html.de" title="Was ist die Super-Taste?"><kbd>Super-Taste</kbd></a></span> öffnen.</p>
 <p class="p">Es gibt mehrere Möglichkeiten, eine Anwendung zu öffnen, wenn Sie sich in der <span class="gui">Aktivitäten</span>-Übersicht befinden:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Beginnen Sie den Namen einer Anwendung einzugeben – es sollte sofort danach gesucht werden. Falls dies nicht geschieht, klicken Sie in das Suchfeld am oberen Rand des Bildschirms und beginnen Sie dann mit der Eingabe. Anschließend klicken Sie auf das Anwendungssymbol, um diese zu starten.</p></li>
 <li class="list">
 <p class="p">Einige Anwendungen verfügen über Symbole im <span class="em">Dash</span>, dem senkrechten Streifen mit Symbolen links in der <span class="gui">Aktivitäten</span>-Übersicht. Klicken Sie auf eines dieser Symbole, um die zugehörige Anwendung zu starten.</p>
-<p class="p">Häufig verwendete Anwendungen können Sie selbst <span class="link"><a href="shell-apps-favorites.html" title="Ihre Lieblingsanwendungen am Dash anheften">zum Dash hinzufügen</a></span>.</p>
+<p class="p">Häufig verwendete Anwendungen können Sie selbst <span class="link"><a href="shell-apps-favorites.html.de" title="Ihre Lieblingsanwendungen am Dash anheften">zum Dash hinzufügen</a></span>.</p>
 </li>
 <li class="list"><p class="p">Klicken Sie auf das Punktraster-Symbol am unteren Ende des Dash. Sie sehen nun die häufig genutzten Anwendungen, wenn die Ansicht <span class="gui">Häufig</span> aktiviert ist. Wenn Sie eine neue Anwendung starten wollen, klicken Sie auf den Knopf <span class="gui">Alle</span> am unteren Ende der Ansicht, um alle Anwendungen anzuzeigen. Klicken Sie auf die gewünschte Anwendung, um sie zu starten.</p></li>
 <li class="list">
-<p class="p">Sie können eine Anwendung auf einer eigenen <span class="link"><a href="shell-workspaces.html" title="Was ist eine Arbeitsfläche, und was habe ich davon?">Arbeitsfläche</a></span> ausführen, indem Sie das Anwendungssymbol von der Dash auf eine der Arbeitsflächen auf der rechten Seite des Bildschirms ziehen. Die Anwendung wird auf der entsprechenden Arbeitsfläche geöffnet.</p>
+<p class="p">Sie können eine Anwendung auf einer eigenen <span class="link"><a href="shell-workspaces.html.de" title="Was ist eine Arbeitsfläche, und was habe ich davon?">Arbeitsfläche</a></span> ausführen, indem Sie das Anwendungssymbol von der Dash auf eine der Arbeitsflächen auf der rechten Seite des Bildschirms ziehen. Die Anwendung wird auf der entsprechenden Arbeitsfläche geöffnet.</p>
 <p class="p">Sie können eine Anwendung auf einer <span class="em">neuen</span> Arbeitsfläche starten, indem Sie deren Symbol auf die leere Arbeitsfläche unten im Arbeitsflächenwechsler oder in die schmale Lücke zwischen zwei Arbeitsflächen verschieben.</p>
 </li>
 </ul></div></div></div>
@@ -78,18 +78,18 @@
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html" title="Ihre Arbeitsumgebung">Ihre Arbeitsumgebung</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Kalendereinträge">Kalender</a></span>, <span class="link"><a href="shell-notifications.html" title="Benachrichtigungen und das Benachrichtigungsfeld">Benachrichtigungen</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Nützliche Tastenkombinationen">Tastenkombinationen</a></span>, <span class="link"><a href="shell-windows.html" title="Fenster und Arbeitsflächen">Fenster und Arbeitsflächen</a></span>…</span>
+<a href="shell-overview.html.de" title="Ihre Arbeitsumgebung">Ihre Arbeitsumgebung</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.de" title="Kalendereinträge">Kalender</a></span>, <span class="link"><a href="shell-notifications.html.de" title="Benachrichtigungen und das Benachrichtigungsfeld">Benachrichtigungen</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.de" title="Nützliche Tastenkombinationen">Tastenkombinationen</a></span>, <span class="link"><a href="shell-windows.html.de" title="Fenster und Arbeitsflächen">Fenster und Arbeitsflächen</a></span>…</span>
 </li>
-<li class="links "><a href="index.html" title="Ubuntu-Leitfaden">Ubuntu-Leitfaden</a></li>
+<li class="links "><a href="index.html.de" title="Ubuntu-Leitfaden">Ubuntu-Leitfaden</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-launch-applications.html" title="Anwendungen starten">Eine Kurzanleitung zum Starten von Anwendungen</a></li>
-<li class="links "><a href="gs-use-system-search.html" title="Die Systemsuche verwenden">Eine Kurzanleitung zum Verwenden der Systemsuche</a></li>
+<li class="links "><a href="gs-launch-applications.html.de" title="Anwendungen starten">Eine Kurzanleitung zum Starten von Anwendungen</a></li>
+<li class="links "><a href="gs-use-system-search.html.de" title="Die Systemsuche verwenden">Eine Kurzanleitung zum Verwenden der Systemsuche</a></li>
 <li class="links ">
-<a href="shell-apps-favorites.html" title="Ihre Lieblingsanwendungen am Dash anheften">Ihre Lieblingsanwendungen am Dash anheften</a><span class="desc"> — Fügen Sie Symbole häufig genutzter Programme zum Dash hinzu oder entfernen Sie sie daraus.</span>
+<a href="shell-apps-favorites.html.de" title="Ihre Lieblingsanwendungen am Dash anheften">Ihre Lieblingsanwendungen am Dash anheften</a><span class="desc"> — Fügen Sie Symbole häufig genutzter Programme zum Dash hinzu oder entfernen Sie sie daraus.</span>
 </li>
 </ul></div>
 </div></div>

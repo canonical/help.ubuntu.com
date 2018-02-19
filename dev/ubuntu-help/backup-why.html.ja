@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html#backup" title="バックアップ">バックアップ</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ja" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html.ja#backup" title="バックアップ">バックアップ</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">重要なファイルをバックアップする</span></h1></div>
@@ -53,18 +53,18 @@
 <p class="p">ファイルをバックアップする最良の方法は、定期的に、オフサイトに保存し、(できれば) 暗号化することです。</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-what.html" title="What to back up"><span class="title">What to back up</span><span class="linkdiv-dash"> — </span><span class="desc">Back up anything that you cannot bear to lose if something goes
+<div class="linkdiv "><a class="linkdiv" href="backup-what.html.ja" title="What to back up"><span class="title">What to back up</span><span class="linkdiv-dash"> — </span><span class="desc">Back up anything that you cannot bear to lose if something goes
     wrong.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-where.html" title="バックアップの保存先"><span class="title">バックアップの保存先</span><span class="linkdiv-dash"> — </span><span class="desc">バックアップの保存場所、および使用するストレージデバイスの種類に関するアドバイスです。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-where.html.ja" title="バックアップの保存先"><span class="title">バックアップの保存先</span><span class="linkdiv-dash"> — </span><span class="desc">バックアップの保存場所、および使用するストレージデバイスの種類に関するアドバイスです。</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-how.html" title="バックアップ方法"><span class="title">バックアップ方法</span><span class="linkdiv-dash"> — </span><span class="desc">Déjà Dup (あるいは、他のバックアップアプリケーション) を使って、重要なファイルや設定のコピーを作成し、データの消失を防ぎます</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-how.html.ja" title="バックアップ方法"><span class="title">バックアップ方法</span><span class="linkdiv-dash"> — </span><span class="desc">Déjà Dup (あるいは、他のバックアップアプリケーション) を使って、重要なファイルや設定のコピーを作成し、データの消失を防ぎます</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="バックアップ">バックアップ</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ja#backup" title="バックアップ">バックアップ</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

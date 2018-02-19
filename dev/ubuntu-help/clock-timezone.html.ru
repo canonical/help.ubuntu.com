@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="clock.html" title="Дата и время">Дата и время</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="clock.html.ru" title="Дата и время">Дата и время</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Изменение часового пояса</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span>      
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span>      
       overview and start typing <span class="gui">Date &amp; Time</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Date &amp; Time</span> to open the panel.</p></li>
 <li class="steps"><p class="p">If you have <span class="gui">Automatic Time Zone</span> set to <span class="gui">ON</span>, your
@@ -59,18 +59,18 @@
       <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Нажмите на <span class="gui">Часовой пояс</span> и затем выберите ваше местоположение на карте или найдите ваш текущий город.</p></li>
 </ol></div></div></div>
-<p class="p">При выборе другого местоположения время будет обновлено автоматически. Также можно <span class="link"><a href="clock-set.html" title="Изменение даты и времени">установить время вручную</a></span>.</p>
+<p class="p">При выборе другого местоположения время будет обновлено автоматически. Также можно <span class="link"><a href="clock-set.html.ru" title="Изменение даты и времени">установить время вручную</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Дата и время">Дата и время</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html" title="Изменение даты и времени">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="Изменение часового пояса">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="События календаря">calendar and appointments</a></span>…
+<a href="clock.html.ru" title="Дата и время">Дата и время</a><span class="desc"> — 
+      <span class="link"><a href="clock-set.html.ru" title="Изменение даты и времени">Set date and time</a></span>,
+      <span class="link"><a href="clock-world.html.ru" title="Add a world clock">world clocks</a></span>,
+      <span class="link"><a href="clock-timezone.html.ru" title="Изменение часового пояса">timezone</a></span>,
+      <span class="link"><a href="clock-calendar.html.ru" title="События календаря">calendar and appointments</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

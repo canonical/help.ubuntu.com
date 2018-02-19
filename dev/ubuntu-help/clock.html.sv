@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Datum och tid</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="clock-set.html" title="Ändra datum och tid"><span class="title">Ändra datum och tid</span><span class="linkdiv-dash"> — </span><span class="desc">Använd <span class="gui">Datum- &amp; tidsinställningar</span> för att justera datum eller tid.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="Kalendermöten"><span class="title">Kalendermöten</span><span class="linkdiv-dash"> — </span><span class="desc">Visa dina möten i kalenderområdet i toppen på skärmen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html" title="Ändra din tidszon"><span class="title">Ändra din tidszon</span><span class="linkdiv-dash"> — </span><span class="desc">Uppdatera din tidszon till din nuvarande plats så att din tid är korrekt.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-world.html" title="Lägg till en världsklocka"><span class="title">Lägg till en världsklocka</span><span class="linkdiv-dash"> — </span><span class="desc">Visa tider i olika städer under kalendern.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-set.html.sv" title="Ändra datum och tid"><span class="title">Ändra datum och tid</span><span class="linkdiv-dash"> — </span><span class="desc">Använd <span class="gui">Datum- &amp; tidsinställningar</span> för att justera datum eller tid.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.sv" title="Kalendermöten"><span class="title">Kalendermöten</span><span class="linkdiv-dash"> — </span><span class="desc">Visa dina möten i kalenderområdet i toppen på skärmen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html.sv" title="Ändra din tidszon"><span class="title">Ändra din tidszon</span><span class="linkdiv-dash"> — </span><span class="desc">Uppdatera din tidszon till din nuvarande plats så att din tid är korrekt.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-world.html.sv" title="Lägg till en världsklocka"><span class="title">Lägg till en världsklocka</span><span class="linkdiv-dash"> — </span><span class="desc">Visa tider i olika städer under kalendern.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -60,12 +60,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html" title="Användarkonton">användarkonton</a></span>…</span>
+<a href="prefs.html.sv" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html.sv" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html.sv" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html.sv" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html.sv" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html.sv" title="Användarkonton">användarkonton</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-change-date-time-timezone.html" title="Ändra datum, tid och tidszon">En handledning i att ändra datum, tid och tidszon</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-change-date-time-timezone.html.sv" title="Ändra datum, tid och tidszon">En handledning i att ändra datum, tid och tidszon</a></li></ul></div>
 </div></div>
 </div>
 </div>

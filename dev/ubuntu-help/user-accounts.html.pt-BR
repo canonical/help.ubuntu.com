@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Contas de usuários</span></h1></div>
@@ -53,30 +53,30 @@
 <div class="hgroup"><h2 class="title"><span class="title">Gerenciando contas de usuários</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Adicionando uma nova conta de usuário"><span class="title">Adicionando uma nova conta de usuário</span><span class="linkdiv-dash"> — </span><span class="desc">Adicione novos usuários para que outros possam iniciar sessão no computador.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Alterando a sua foto da tela de autenticação"><span class="title">Alterando a sua foto da tela de autenticação</span><span class="linkdiv-dash"> — </span><span class="desc">Adicione sua foto à tela de usuário e de autenticação.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-add.html.pt-BR" title="Adicionando uma nova conta de usuário"><span class="title">Adicionando uma nova conta de usuário</span><span class="linkdiv-dash"> — </span><span class="desc">Adicione novos usuários para que outros possam iniciar sessão no computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html.pt-BR" title="Alterando a sua foto da tela de autenticação"><span class="title">Alterando a sua foto da tela de autenticação</span><span class="linkdiv-dash"> — </span><span class="desc">Adicione sua foto à tela de usuário e de autenticação.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Excluindo uma conta de usuário"><span class="title">Excluindo uma conta de usuário</span><span class="linkdiv-dash"> — </span><span class="desc">Remova os usuários que não usam mais seu computador.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Iniciando automaticamente a sessão"><span class="title">Iniciando automaticamente a sessão</span><span class="linkdiv-dash"> — </span><span class="desc">Configure o início automático de sessão para quando você ligar seu computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html.pt-BR" title="Excluindo uma conta de usuário"><span class="title">Excluindo uma conta de usuário</span><span class="linkdiv-dash"> — </span><span class="desc">Remova os usuários que não usam mais seu computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html.pt-BR" title="Iniciando automaticamente a sessão"><span class="title">Iniciando automaticamente a sessão</span><span class="linkdiv-dash"> — </span><span class="desc">Configure o início automático de sessão para quando você ligar seu computador.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="passwords" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Senhas</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html" title="Alterando a sua senha"><span class="title">Alterando a sua senha</span><span class="linkdiv-dash"> — </span><span class="desc">Mantenha sua conta segura alterando sua senha frequentemente nas configurações da sua conta.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html" title="Escolhendo uma senha segura"><span class="title">Escolhendo uma senha segura</span><span class="linkdiv-dash"> — </span><span class="desc">Use senhas mais longas e mais complicadas.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html.pt-BR" title="Alterando a sua senha"><span class="title">Alterando a sua senha</span><span class="linkdiv-dash"> — </span><span class="desc">Mantenha sua conta segura alterando sua senha frequentemente nas configurações da sua conta.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html.pt-BR" title="Escolhendo uma senha segura"><span class="title">Escolhendo uma senha segura</span><span class="linkdiv-dash"> — </span><span class="desc">Use senhas mais longas e mais complicadas.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="privileges" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Privilégios de usuário</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html" title="Alterando quem tem privilégios administrativos"><span class="title">Alterando quem tem privilégios administrativos</span><span class="linkdiv-dash"> — </span><span class="desc">Você pode permitir que usuários façam alterações no sistema, dando-lhes privilégios administrativos.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html" title="Como funcionam os privilégios administrativos?"><span class="title">Como funcionam os privilégios administrativos?</span><span class="linkdiv-dash"> — </span><span class="desc">Você precisa de privilégios administrativos para alterar partes importantes do seu sistema.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.pt-BR" title="Alterando quem tem privilégios administrativos"><span class="title">Alterando quem tem privilégios administrativos</span><span class="linkdiv-dash"> — </span><span class="desc">Você pode permitir que usuários façam alterações no sistema, dando-lhes privilégios administrativos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.pt-BR" title="Como funcionam os privilégios administrativos?"><span class="title">Como funcionam os privilégios administrativos?</span><span class="linkdiv-dash"> — </span><span class="desc">Você precisa de privilégios administrativos para alterar partes importantes do seu sistema.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html" title="Problemas causados por restrições administrativas"><span class="title">Problemas causados por restrições administrativas</span><span class="linkdiv-dash"> — </span><span class="desc">Você só pode fazer algumas coisas, como instalar aplicativos, apenas se tiver privilégios administrativos.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.pt-BR" title="Problemas causados por restrições administrativas"><span class="title">Problemas causados por restrições administrativas</span><span class="linkdiv-dash"> — </span><span class="desc">Você só pode fazer algumas coisas, como instalar aplicativos, apenas se tiver privilégios administrativos.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -84,7 +84,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Usuário &amp; configurações do sistema">Usuário &amp; configurações do sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html" title="Mouse">mouse</a></span>, <span class="link"><a href="prefs-display.html" title="Monitor &amp; tela">monitor</a></span>, <span class="link"><a href="prefs-language.html" title="Região &amp; idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html" title="Contas de usuários">contas de usuários</a></span>…</span>
+<a href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Usuário &amp; configurações do sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.pt-BR" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html.pt-BR" title="Mouse">mouse</a></span>, <span class="link"><a href="prefs-display.html.pt-BR" title="Monitor &amp; tela">monitor</a></span>, <span class="link"><a href="prefs-language.html.pt-BR" title="Região &amp; idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html.pt-BR" title="Contas de usuários">contas de usuários</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

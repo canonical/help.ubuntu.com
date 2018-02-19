@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-security.html" title="Manter-se seguro em Internet">Manter-se seguro em Internet</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-security.html.pt" title="Manter-se seguro em Internet">Manter-se seguro em Internet</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-email.html" title="Software de correio eletrónico">Software de correio eletrónico</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-email.html.pt" title="Software de correio eletrónico">Software de correio eletrónico</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Os vírus são programas que causam problemas se conseguem encontrar a maneira na computador. Uma forma comum de introduzir na sua computador é através de mensagens de correio eletrónico.</p>
 <p class="p">Viruses that can affect computers running Linux are quite rare, so you are
-  <span class="link"><a href="net-antivirus.html" title="Preciso software antivírus?">unlikely to get a virus through email or
+  <span class="link"><a href="net-antivirus.html.pt" title="Preciso software antivírus?">unlikely to get a virus through email or
   otherwise</a></span>. If you receive an email with a virus hidden in it, it will
   probably have no effect on your computer. As such, you probably don’t need to
   scan your email for viruses.</p>
@@ -75,17 +75,17 @@
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-security.html" title="Manter-se seguro em Internet">Manter-se seguro em Internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Preciso software antivírus?">Software antivírus</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Ativar e bloquear o acesso aa firewalh">firewalh básico</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Portos de rede usados frequentemente">portos da firewalh</a></span>…</span>
+<a href="net-security.html.pt" title="Manter-se seguro em Internet">Manter-se seguro em Internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.pt" title="Preciso software antivírus?">Software antivírus</a></span>, <span class="link"><a href="net-firewall-on-off.html.pt" title="Ativar e bloquear o acesso aa firewalh">firewalh básico</a></span>, <span class="link"><a href="net-firewall-ports.html.pt" title="Portos de rede usados frequentemente">portos da firewalh</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-email.html" title="Software de correio eletrónico">Software de correio eletrónico</a><span class="desc"> — <span class="link"><a href="net-default-email.html" title="Mudar que aplicação de correio eletrónico se usa para escrever correios">Aplicações de e-mail predeterminadas</a></span>, <span class="link"><a href="net-email-virus.html" title="Preciso verificar se há vírus em meus correios eletrónicos?">Devo fazer uma análise em procura de vírus?</a></span>…</span>
+<a href="net-email.html.pt" title="Software de correio eletrónico">Software de correio eletrónico</a><span class="desc"> — <span class="link"><a href="net-default-email.html.pt" title="Mudar que aplicação de correio eletrónico se usa para escrever correios">Aplicações de e-mail predeterminadas</a></span>, <span class="link"><a href="net-email-virus.html.pt" title="Preciso verificar se há vírus em meus correios eletrónicos?">Devo fazer uma análise em procura de vírus?</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="Preciso software antivírus?">Preciso software antivírus?</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
+<a href="net-antivirus.html.pt" title="Preciso software antivírus?">Preciso software antivírus?</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
     software.</span>
 </li></ul></div>
 </div></div>

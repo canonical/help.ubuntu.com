@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html#faq" title="Советы и вопросы">Советы и вопросы</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ru" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html.ru#faq" title="Советы и вопросы">Советы и вопросы</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">What is a file with a <span class="file">~</span> at the end of its name?</span></h1></div>
@@ -60,19 +60,19 @@
   of the <span class="app">Files</span> toolbar) or pressed
   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. You can hide them again by
   repeating either of these steps.</p>
-<p class="p">С этими файлами можно обращаться точно так же, как и с обычными скрытыми файлами. О работе со скрытыми файлами смотрите <span class="link"><a href="files-hidden.html" title="Скрытие файла">Скрытие файла</a></span>.</p>
+<p class="p">С этими файлами можно обращаться точно так же, как и с обычными скрытыми файлами. О работе со скрытыми файлами смотрите <span class="link"><a href="files-hidden.html.ru" title="Скрытие файла">Скрытие файла</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Советы и вопросы">Советы и вопросы</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ru#faq" title="Советы и вопросы">Советы и вопросы</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-hidden.html" title="Скрытие файла">Скрытие файла</a><span class="desc"> — Make a file invisible, so you cannot see it in the file
+<a href="files-hidden.html.ru" title="Скрытие файла">Скрытие файла</a><span class="desc"> — Make a file invisible, so you cannot see it in the file
     manager.</span>
 </li></ul></div>
 </div></div>

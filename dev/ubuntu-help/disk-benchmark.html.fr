@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="disk.html" title="Disques durs et périphériques de stockage">Disques durs et périphériques de stockage</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="disk.html.fr" title="Disques durs et périphériques de stockage">Disques durs et périphériques de stockage</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Test de la performance de votre disque dur</span></h1></div>
@@ -52,13 +52,13 @@
 <p class="p">Pour tester la vitesse de votre disque dur :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open <span class="app">Disks</span> from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview.</p></li>
 <li class="steps"><p class="p">Sélectionnez le disque dans la liste du panneau de gauche.</p></li>
 <li class="steps"><p class="p">Click the menu button and select <span class="gui">Benchmark disk…</span> from the
       menu.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Lancer le test de performance…</span> et réglez le <span class="gui">Taux de transfert</span> et le <span class="gui">Temps d'accès</span> selon votre désir.</p></li>
 <li class="steps">
-<p class="p">Cliquez sur <span class="gui">Lancer le test de performance</span> pour savoir à quelle vitesse les données sont lues sur le disque. <span class="link"><a href="user-admin-explain.html" title="Comment les privilèges administrateur fonctionnent-ils ?">Des privilèges administrateurs</a></span> peuvent être requis. Saisissez votre mot de passe ou le mot de passe du compte administrateur demandé.</p>
+<p class="p">Cliquez sur <span class="gui">Lancer le test de performance</span> pour savoir à quelle vitesse les données sont lues sur le disque. <span class="link"><a href="user-admin-explain.html.fr" title="Comment les privilèges administrateur fonctionnent-ils ?">Des privilèges administrateurs</a></span> peuvent être requis. Saisissez votre mot de passe ou le mot de passe du compte administrateur demandé.</p>
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Si <span class="gui">Faire un test de performance-écriture</span> est coché, le test vérifiera les vitesses de lecture et d'écriture sur le disque. Ce sera plus long à réaliser.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Disques durs et périphériques de stockage">Disques durs et périphériques de stockage</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Vérification de l'espace disque libre">Espace disque</a></span>, <span class="link"><a href="disk-benchmark.html" title="Test de la performance de votre disque dur">performance</a></span>, <span class="link"><a href="disk-check.html" title="Vérification d'éventuels problèmes de disque dur">problèmes</a></span>, <span class="link"><a href="disk-partitions.html" title="Gestion des volumes et des partitions">volumes et partitions</a></span>…</span>
+<a href="disk.html.fr" title="Disques durs et périphériques de stockage">Disques durs et périphériques de stockage</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.fr" title="Vérification de l'espace disque libre">Espace disque</a></span>, <span class="link"><a href="disk-benchmark.html.fr" title="Test de la performance de votre disque dur">performance</a></span>, <span class="link"><a href="disk-check.html.fr" title="Vérification d'éventuels problèmes de disque dur">problèmes</a></span>, <span class="link"><a href="disk-partitions.html.fr" title="Gestion des volumes et des partitions">volumes et partitions</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

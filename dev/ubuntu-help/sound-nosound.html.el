@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="sound-broken.html" title="Προβλήματα ήχου">Προβλήματα ήχου</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="sound-broken.html.el" title="Προβλήματα ήχου">Προβλήματα ήχου</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="media.html#sound" title="Βασικός ήχος">Ήχος</a> » <a class="trail" href="sound-broken.html" title="Προβλήματα ήχου">Προβλήματα ήχου</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="media.html.el#sound" title="Βασικός ήχος">Ήχος</a> » <a class="trail" href="sound-broken.html.el" title="Προβλήματα ήχου">Προβλήματα ήχου</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <div id="mute" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Βεβαιωθείτε ότι η ο ήχος δεν έχει σιγήσει</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Ανοίξτε το <span class="gui"><a href="shell-introduction.html#yourname" title="Εσείς και ο υπολογιστή σας">μενού συστήματος</a></span> και σιγουρευτείτε πως ο ήχος δεν είναι σε σίγαση ή χαμηλωμένος.</p>
+<p class="p">Ανοίξτε το <span class="gui"><a href="shell-introduction.html.el#yourname" title="Εσείς και ο υπολογιστή σας">μενού συστήματος</a></span> και σιγουρευτείτε πως ο ήχος δεν είναι σε σίγαση ή χαμηλωμένος.</p>
 <p class="p">Μερικοί φορητοί υπολογιστές έχουν διακόπτες σίγασης ή πλήκτρα στα πληκτρολόγιά τους - δοκιμάστε να πατήσετε αυτό το πλήκτρο για να δείτε εάν ενεργοποιεί τον ήχο.</p>
 <p class="p">Πρέπει να ελέγξετε επίσης πως δεν έχετε χαμηλώσει την ένταση μιας εφαρμογής που αναπαραγάγει ήχο (για παράδειγμα ο αναπαραγωγέας μουσικής ή βίντεο). Η εφαρμογή θα έχει ένα κουμπί έντασης στο κύριο παράθυρο, οπότε είναι συνετό να το δοκιμάσετε.</p>
 <p class="p">Επίσης, μπορείτε να ελέγξετε την καρτέλα <span class="gui">Εφαρμογές</span> στην ενότητα <span class="gui">Ήχος</span>:</p>
@@ -86,7 +86,7 @@
   have the correct sound device selected. This might involve some
   trial-and-error to choose the right one.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ήχος</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ήχος</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ήχος</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps">
 <p class="p">Στην καρτέλα <span class="gui">Έξοδος</span>, αλλάξτε τις ρυθμίσεις <span class="gui">Προφίλ</span> για την επιλεγμένη συσκευή και αναπαράξτε έναν ήχο για να δείτε αν λειτουργεί. Μπορεί να χρειαστεί να δοκιμάσετε κάθε προφίλ που υπάρχει στη λίστα.</p>
@@ -102,7 +102,7 @@
 <p class="p">Εκτελέστε την εντολή <span class="cmd">lspci</span> στο «Τερματικό» για να βρείτε ποια κάρτα ήχου έχετε:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Πηγαίνετε στην επισκόπηση <span class="gui">Δραστηριότητες</span> και ανοίξτε ένα τερματικό.</p></li>
-<li class="steps"><p class="p">Εκτελέστε την εντολή <span class="cmd">lspci</span> ως <span class="link"><a href="user-admin-explain.html" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">υπερχρήστης</a></span>, ή πληκτρολογήστε <span class="cmd">sudo lspci</span> και δώστε τον κωδικό πρόσβαση σας, ή πληκτρολογήστε <span class="cmd">su</span>, δώστε τον κωδικό πρόσβασης του <span class="em">root</span> (διαχειριστή) και έπειτα γράψτε την εντολή <span class="cmd">lspci</span>.</p></li>
+<li class="steps"><p class="p">Εκτελέστε την εντολή <span class="cmd">lspci</span> ως <span class="link"><a href="user-admin-explain.html.el" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">υπερχρήστης</a></span>, ή πληκτρολογήστε <span class="cmd">sudo lspci</span> και δώστε τον κωδικό πρόσβαση σας, ή πληκτρολογήστε <span class="cmd">su</span>, δώστε τον κωδικό πρόσβασης του <span class="em">root</span> (διαχειριστή) και έπειτα γράψτε την εντολή <span class="cmd">lspci</span>.</p></li>
 <li class="steps"><p class="p">Ελέγξτε αν εμφανίζονται ο <span class="em">ελεγκτής ήχου</span> ή η <span class="em">συσκευή ήχου</span>: σε αυτή την περίπτωση θα πρέπει να δείτε το νούμερο μοντέλου της κάρτας ήχου. Επίσης, η εντολή <span class="cmd">lspci -v</span> δείχνει μια πιο λεπτομερή λίστα με πληροφορίες της συσκευής.</p></li>
 </ol></div></div></div>
 <p class="p">Ενδέχεται να μπορέσετε να βρείτε και να εγκαταστήσετε τους οδηγούς για την κάρτα σας. Είναι καλύτερα να ζητήσετε υποστήριξη σε ομάδες συζήτησης (ή και αλλού) για τη διανομή Linux για περισσότερες οδηγίες.</p>
@@ -114,7 +114,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html" title="Προβλήματα ήχου">Προβλήματα ήχου</a><span class="desc"> — Ανιχνεύστε προβλήματα όπως να μην έχετε ήχο ή να έχετε φτωχή ποιότητα ήχου.</span>
+<a href="sound-broken.html.el" title="Προβλήματα ήχου">Προβλήματα ήχου</a><span class="desc"> — Ανιχνεύστε προβλήματα όπως να μην έχετε ήχο ή να έχετε φτωχή ποιότητα ήχου.</span>
 </li></ul></div>
 </div></div></div>
 </div>

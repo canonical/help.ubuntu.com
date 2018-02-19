@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="wacom.html" title="Wacom ritplatta">Wacom ritplatta</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="wacom.html.sv" title="Wacom ritplatta">Wacom ritplatta</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ställ in Wacom-plattans spårningsläge</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p"><span class="gui">Spårningsläge</span> avgör hur markören mappas till skärmen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Wacom-platta</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Wacom-platta</span>.</p></li>
 <li class="steps">
 <p class="p">Klicka på <span class="gui">Wacom-ritplatta</span> för att öppna panelen.</p>
 <div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Om ingen platta detekteras kommer du att bli ombedd att <span class="gui">Anslut eller aktivera din Wacom-ritplatta</span>. Klicka på länken <span class="gui">Bluetooth-inställningar</span> för att ansluta en trådlös platta.</p></div></div></div></div>
@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html" title="Wacom ritplatta">Wacom ritplatta</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html" title="Välj en skärm">Mappa en skärm</a></span>, <span class="link"><a href="wacom-stylus.html" title="Konfigurera pennan">konfigurera pennan</a></span>, <span class="link"><a href="wacom-left-handed.html" title="Använd plattan med vänster hand">använd plattan med vänster hand</a></span>…</span>
+<a href="wacom.html.sv" title="Wacom ritplatta">Wacom ritplatta</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html.sv" title="Välj en skärm">Mappa en skärm</a></span>, <span class="link"><a href="wacom-stylus.html.sv" title="Konfigurera pennan">konfigurera pennan</a></span>, <span class="link"><a href="wacom-left-handed.html.sv" title="Använd plattan med vänster hand">använd plattan med vänster hand</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

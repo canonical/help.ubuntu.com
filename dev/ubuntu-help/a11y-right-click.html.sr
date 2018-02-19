@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Универзални приступ">Универзални приступ</a> › <a class="trail" href="a11y.html#mobility" title="Оштећења покрета">Оштећења покрета</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.sr" title="Универзални приступ">Универзални приступ</a> › <a class="trail" href="a11y.html.sr#mobility" title="Оштећења покрета">Оштећења покрета</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="mouse.html" title="Миш">Миш</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="mouse.html.sr" title="Миш">Миш</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="mouse.html" title="Миш">Миш</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="mouse.html.sr" title="Миш">Миш</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">Можете да извршите десни клик држећи притиснут леви тастер миша. Ово је корисно ако налазите да вам је тешко да померате ваше прсте засебно на једној руци, или ако ваш показивачки уређај има само једно дугме.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Универзални приступ</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Универзални приступ</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Универзални приступ</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Притисните <span class="gui">Помоћ при клику</span> у одељку <span class="gui">Указивање и кликање</span>.</p></li>
 <li class="steps"><p class="p">Пребаците <span class="gui">Симулацију секундарног клика</span> на <span class="gui">УКЉ.</span>.</p></li>
@@ -65,7 +65,7 @@
 <p class="p">Можете да измените колико дуго морате да држите притиснут леви тастер миша пре него што буде забележен као десни клик тако што ћете изменити <span class="gui">Кашњење прихватања</span>.</p>
 <p class="p">Да извршите десни клик са симулираним десним кликом, задржите притиснутим леви тастер миша када желите да извршите десни клик, затим отпустите. Показивач ће бити обојен другачијом бојом како будете држали притиснутим леви тастер миша. Када буде у потпуности променио ову боју, отпустите тастер миша да извршите десни клик.</p>
 <p class="p">Неки посебни показивачи, као они за промену величине, не мењају боје. Још увек можете да користите симулирани секундарни клик као уобичајени, чак и ако не видите никакву промену на показивачу.</p>
-<p class="p">Ако користите <span class="link"><a href="mouse-mousekeys.html" title="Кликните и померите показивач миша користећи тастатуру">Тастере миша</a></span>, ово вам такође омогућава да извршите десни клик држећи притиснутим тастер <span class="key"><kbd>5</kbd></span> на тастатури.</p>
+<p class="p">Ако користите <span class="link"><a href="mouse-mousekeys.html.sr" title="Кликните и померите показивач миша користећи тастатуру">Тастере миша</a></span>, ово вам такође омогућава да извршите десни клик држећи притиснутим тастер <span class="key"><kbd>5</kbd></span> на тастатури.</p>
 <div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">У прегледу <span class="gui">Активности</span>, увек сте у могућности да задржите притисак да бисте извршили десни клик, чак и ако је ова функција искључена. Дуги притисци раде мало другачије у прегледу: не морате да отпуштате тастер да бисте извршили десни клик.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -74,9 +74,9 @@
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse.html" title="Миш">Миш</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Користите миша левом руком">За леворуке</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Подесите брзину миша и додирне табле">брзина и осетљивост</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Кликните, превуците, или клизајте на додирној табли">кликање и клизање додирном таблом</a></span>…</span>
+<a href="mouse.html.sr" title="Миш">Миш</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.sr" title="Користите миша левом руком">За леворуке</a></span>, <span class="link"><a href="mouse-sensitivity.html.sr" title="Подесите брзину миша и додирне табле">брзина и осетљивост</a></span>, <span class="link"><a href="mouse-touchpad-click.html.sr" title="Кликните, превуците, или клизајте на додирној табли">кликање и клизање додирном таблом</a></span>…</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Оштећења покрета">Оштећења покрета</a></li>
+<li class="links "><a href="a11y.html.sr#mobility" title="Оштећења покрета">Оштећења покрета</a></li>
 </ul></div>
 </div></div></div>
 </div>

@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Графический планшет Wacom</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">Переключение между режимом планшета и режимом мыши.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html" title="Выбор монитора"><span class="title">Выбор монитора</span><span class="linkdiv-dash"> — </span><span class="desc">Отображать планшет Wacom на конкретный монитор</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html" title="Настройка пера"><span class="title">Настройка пера</span><span class="linkdiv-dash"> — </span><span class="desc">Настройка функций кнопок и чувствительности нажатия для пера Wacom.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html" title="Управление графическим планшетом левой рукой"><span class="title">Управление графическим планшетом левой рукой</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.ru" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">Переключение между режимом планшета и режимом мыши.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.ru" title="Выбор монитора"><span class="title">Выбор монитора</span><span class="linkdiv-dash"> — </span><span class="desc">Отображать планшет Wacom на конкретный монитор</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.ru" title="Настройка пера"><span class="title">Настройка пера</span><span class="linkdiv-dash"> — </span><span class="desc">Настройка функций кнопок и чувствительности нажатия для пера Wacom.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.ru" title="Управление графическим планшетом левой рукой"><span class="title">Управление графическим планшетом левой рукой</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
+<a href="prefs.html.ru" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html.ru" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html.ru" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html.ru" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html.ru" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

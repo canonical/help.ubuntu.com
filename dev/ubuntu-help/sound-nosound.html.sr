@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="media.html#sound" title="Основни звук">Звук</a> » <a class="trail" href="sound-broken.html" title="Проблеми са звуком">Проблеми са звуком</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="media.html.sr#sound" title="Основни звук">Звук</a> » <a class="trail" href="sound-broken.html.sr" title="Проблеми са звуком">Проблеми са звуком</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="sound-broken.html" title="Проблеми са звуком">Проблеми са звуком</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> › <a class="trail" href="hardware.html.sr#problems" title="Општи проблеми">Проблеми</a> » <a class="trail" href="sound-broken.html.sr" title="Проблеми са звуком">Проблеми са звуком</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <div id="mute" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Уверите се да звук није утишан</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Отворите <span class="gui"><a href="shell-introduction.html#yourname" title="Ви и ваш рачунар">изборник система</a></span> и уверите се да звук није утишан или потпуно искључен.</p>
+<p class="p">Отворите <span class="gui"><a href="shell-introduction.html.sr#yourname" title="Ви и ваш рачунар">изборник система</a></span> и уверите се да звук није утишан или потпуно искључен.</p>
 <p class="p">Неки преносни рачунари имају прекидаче или тастере на тастатурама — покушајте да притиснете тај тастер да видите да ли ће се звук појачати.</p>
 <p class="p">Треба такође да проверите да нисте утишали програм који користите за пуштање звука (на пример, програм за музику или филмове). Програм може да има дугме за утишавање или јачину звука на главном прозору, и зато проверите и то.</p>
 <p class="p">Такође, можете да проверите језичак <span class="gui">програма</span> у графичком сучељу <span class="gui">звука</span>:</p>
@@ -80,7 +80,7 @@
 <div class="region"><div class="contents">
 <p class="p">Неки рачунари имају инсталираних више „звучних уређаја“. Неки од њих имају могућност отпуштања звука а неки не, тако да требате да проверите да ли сте изабрали онај прави. Ово може да обухвати неке пробе-и-грешке за избор оне праве.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Звук</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Звук</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Звук</span> да отворите панел.</p></li>
 <li class="steps">
 <p class="p">У језичку <span class="gui">Излаз</span>, измените подешавања <span class="gui">профила</span> изабраног уређаја и пустите звук да видите да ли ће радити. Можда ћете морати да испробате сваки профил са списка.</p>
@@ -96,7 +96,7 @@
 <p class="p">Покрените наредбу <span class="cmd">lspci</span> у терминалу да сазнате коју звучну картицу имате:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Идите на преглед <span class="gui">Активности</span> и отворите терминал.</p></li>
-<li class="steps"><p class="p">Покрените <span class="cmd">lspci</span> као <span class="link"><a href="user-admin-explain.html" title="Како функционишу администраторска овлашћења?">администратор</a></span>; или укуцајте <span class="cmd">sudo lspci</span> а затим вашу лозинку, или само <span class="cmd">su</span>, затим упишите <span class="em">администраторску</span> лозинку, а након тога укуцајте <span class="cmd">lspci</span>.</p></li>
+<li class="steps"><p class="p">Покрените <span class="cmd">lspci</span> као <span class="link"><a href="user-admin-explain.html.sr" title="Како функционишу администраторска овлашћења?">администратор</a></span>; или укуцајте <span class="cmd">sudo lspci</span> а затим вашу лозинку, или само <span class="cmd">su</span>, затим упишите <span class="em">администраторску</span> лозинку, а након тога укуцајте <span class="cmd">lspci</span>.</p></li>
 <li class="steps"><p class="p">Проверите да ли на списку постоји <span class="em">управљач звука</span> или <span class="em">звучни уређај</span>: у том случају требало би да видите произвођача број модела. Такође, <span class="cmd">lspci -v</span> приказује списак са опширнијим подацима.</p></li>
 </ol></div></div></div>
 <p class="p">Можете бити у могућности да пронађете и инсталирате управљачке програме за вашу картицу. Боље је да питате на форумима подршке (или негде другде) ваше дистрибуције Линукса за упутства.</p>
@@ -108,7 +108,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html" title="Проблеми са звуком">Проблеми са звуком</a><span class="desc"> — Решите проблеме као што је непостојање звука или звук лошег квалитета.</span>
+<a href="sound-broken.html.sr" title="Проблеми са звуком">Проблеми са звуком</a><span class="desc"> — Решите проблеме као што је непостојање звука или звук лошег квалитета.</span>
 </li></ul></div>
 </div></div></div>
 </div>

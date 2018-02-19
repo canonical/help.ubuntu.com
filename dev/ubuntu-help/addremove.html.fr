@@ -43,29 +43,29 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Installer et supprimer des logiciels</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-install.html" title="Installer des applications supplémentaires"><span class="title">Installer des applications supplémentaires</span><span class="linkdiv-dash"> — </span><span class="desc">Utiliser <span class="app">Logiciels Ubuntu</span> pour installer des applications supplémentaires et rendre Ubuntu plus utile.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html" title="Supprimer une application"><span class="title">Supprimer une application</span><span class="linkdiv-dash"> — </span><span class="desc">Supprimer des applications que vous n'utilisez plus.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html" title="Ajouter des dépôts de logiciels"><span class="title">Ajouter des dépôts de logiciels</span><span class="linkdiv-dash"> — </span><span class="desc">Ajouter des dépôts pour étendre les ressources de logiciels utilisées par Ubuntu pour l'installation et les mises à jour.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html" title="Ajouter un dépôt personnel de logiciels (PPA)"><span class="title">Ajouter un dépôt personnel de logiciels (PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">Ajouter des PPA pour étendre les ressources logicielles qu'utilise Ubuntu pour l'installation et les mises à jour.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.fr" title="Installer des applications supplémentaires"><span class="title">Installer des applications supplémentaires</span><span class="linkdiv-dash"> — </span><span class="desc">Utiliser <span class="app">Logiciels Ubuntu</span> pour installer des applications supplémentaires et rendre Ubuntu plus utile.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html.fr" title="Supprimer une application"><span class="title">Supprimer une application</span><span class="linkdiv-dash"> — </span><span class="desc">Supprimer des applications que vous n'utilisez plus.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html.fr" title="Ajouter des dépôts de logiciels"><span class="title">Ajouter des dépôts de logiciels</span><span class="linkdiv-dash"> — </span><span class="desc">Ajouter des dépôts pour étendre les ressources de logiciels utilisées par Ubuntu pour l'installation et les mises à jour.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html.fr" title="Ajouter un dépôt personnel de logiciels (PPA)"><span class="title">Ajouter un dépôt personnel de logiciels (PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">Ajouter des PPA pour étendre les ressources logicielles qu'utilise Ubuntu pour l'installation et les mises à jour.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html" title="Utiliser Synaptic pour gérer les logiciels de façon plus avancée"><span class="title">Utiliser Synaptic pour gérer les logiciels de façon plus avancée</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic est un gestionnaire de paquets puissant mais complexe qui peut se substituer à <span class="app">Logiciels Ubuntu</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Créer un disque de démarrage"><span class="title">Créer un disque de démarrage</span><span class="linkdiv-dash"> — </span><span class="desc">Convertir une clé USB en un volume à partir duquel vous pourrez démarrer et installer Ubuntu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html" title="Installer des langues"><span class="title">Installer des langues</span><span class="linkdiv-dash"> — </span><span class="desc">Installer plus de traductions et de paquets de prise en charge linguistique.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.fr" title="Utiliser Synaptic pour gérer les logiciels de façon plus avancée"><span class="title">Utiliser Synaptic pour gérer les logiciels de façon plus avancée</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic est un gestionnaire de paquets puissant mais complexe qui peut se substituer à <span class="app">Logiciels Ubuntu</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.fr" title="Créer un disque de démarrage"><span class="title">Créer un disque de démarrage</span><span class="linkdiv-dash"> — </span><span class="desc">Convertir une clé USB en un volume à partir duquel vous pourrez démarrer et installer Ubuntu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html.fr" title="Installer des langues"><span class="title">Installer des langues</span><span class="linkdiv-dash"> — </span><span class="desc">Installer plus de traductions et de paquets de prise en charge linguistique.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Guide du bureau Ubuntu">Guide du bureau Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.fr" title="Guide du bureau Ubuntu">Guide du bureau Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

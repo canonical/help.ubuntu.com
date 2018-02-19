@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#removable" title="Výměnná média a externí disky">Výměnná média a externí disky</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#removable" title="Výměnná média a externí disky">Výměnná média a externí disky</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bezpečné odebrání externího disku</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Když chcete vysunout výměnné zařízení:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Z přehledu <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činností</a></span> otevřete <span class="app">Soubory</span>.</p></li>
+<li class="steps"><p class="p">Z přehledu <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činností</a></span> otevřete <span class="app">Soubory</span>.</p></li>
 <li class="steps">
 <p class="p">V postranním panelu najděte zařízení. Vedle názvu by mělo mít malou ikonu symbolizující vysunutí. Kliknutím na ni zařízení bezpečně odeberete nebo vysunete.</p>
 <p class="p">Případně můžete kliknout pravým tlačítkem na název zařízení v postranním panelu a vybrat <span class="gui">Vysunout</span>.</p>
@@ -78,7 +78,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#removable" title="Výměnná média a externí disky">Výměnná média a externí disky</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.cs#removable" title="Výměnná média a externí disky">Výměnná média a externí disky</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

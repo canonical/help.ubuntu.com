@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="power.html" title="Barošana un baterija">Barošana un baterija</a> › <a class="trail" href="power.html#faq" title="Jautājumi">Jautājumi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="power.html.lv" title="Barošana un baterija">Barošana un baterija</a> › <a class="trail" href="power.html.lv#faq" title="Jautājumi">Jautājumi</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="power.html" title="Barošana un baterija">Barošana un baterija</a> › <a class="trail" href="power.html#faq" title="Jautājumi">Jautājumi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="power.html.lv" title="Barošana un baterija">Barošana un baterija</a> › <a class="trail" href="power.html.lv#faq" title="Jautājumi">Jautājumi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Šķiet, ka dažiem datoriem baterijas darbojas ilgāk ar Windows vai Mac OS nekā ar Linux. Viens iemesls varētu būt tas, ka datoru pārdevēji uz Windows vai Mac OS instalē īpašu programmatūru, kas optimizē dažādus aparatūras un programmatūras iestatījumus konkrētajam datora modelim. Šīs izmaiņas bieži ir ļoti specifiskas un nedokumentētas, tāpēc tās ir grūti iekļaut Linux.</p>
-<p class="p">Diemžēl nav iespējams vienkārši pielietot šādas izmaiņas, nezinot, kādas tās ir. Tomēr jums varētu palīdzēt daži <span class="link"><a href="power-batterylife.html" title="Lietot mazāk enerģijas un paildzināt bateriju mūžu">strāvas taupīšanas paņēmieni</a></span>. Ja jūsu datoram ir <span class="link"><a href="power-batteryslow.html" title="Kāpēc mans klēpjdators ir lēns, kad lieto bateriju?">maināma ātruma procesors</a></span>, varētu noderēt arī tā iestatījumi.</p>
+<p class="p">Diemžēl nav iespējams vienkārši pielietot šādas izmaiņas, nezinot, kādas tās ir. Tomēr jums varētu palīdzēt daži <span class="link"><a href="power-batterylife.html.lv" title="Lietot mazāk enerģijas un paildzināt bateriju mūžu">strāvas taupīšanas paņēmieni</a></span>. Ja jūsu datoram ir <span class="link"><a href="power-batteryslow.html.lv" title="Kāpēc mans klēpjdators ir lēns, kad lieto bateriju?">maināma ātruma procesors</a></span>, varētu noderēt arī tā iestatījumi.</p>
 <p class="p">Cits iespējamais iemesls ir tas, ka Windows, Mac OS un Linux ir dažādas metodes, lai noteiktu atlikušo baterijas darbības laiku. Patiesais baterijas darbības laiks ir precīzi tas pats, bet izmantotās metodes to atšķirīgi novērtē.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,19 +62,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Jautājumi">Jautājumi</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.lv#faq" title="Jautājumi">Jautājumi</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batteryslow.html" title="Kāpēc mans klēpjdators ir lēns, kad lieto bateriju?">Kāpēc mans klēpjdators ir lēns, kad lieto bateriju?</a><span class="desc"> — Daži klēpjdatori pāriet lēnākā darba režīmā, kad tie izmanto baterijas strāvu.</span>
+<a href="power-batteryslow.html.lv" title="Kāpēc mans klēpjdators ir lēns, kad lieto bateriju?">Kāpēc mans klēpjdators ir lēns, kad lieto bateriju?</a><span class="desc"> — Daži klēpjdatori pāriet lēnākā darba režīmā, kad tie izmanto baterijas strāvu.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Lietot mazāk enerģijas un paildzināt bateriju mūžu">Lietot mazāk enerģijas un paildzināt bateriju mūžu</a><span class="desc"> — Ieteikumi, lai samazinātu jūsu datora enerģijas patēriņu.</span>
+<a href="power-batterylife.html.lv" title="Lietot mazāk enerģijas un paildzināt bateriju mūžu">Lietot mazāk enerģijas un paildzināt bateriju mūžu</a><span class="desc"> — Ieteikumi, lai samazinātu jūsu datora enerģijas patēriņu.</span>
 </li>
 <li class="links ">
-<a href="power-batteryestimate.html" title="Uzrādītais baterijas darbības laiks nav pareizs">Uzrādītais baterijas darbības laiks nav pareizs</a><span class="desc"> — Atlikušais baterijas darbības laiks, kas parādās, nospiežot <span class="gui">baterijas ikonu</span>, ir aptuvens novērtējums.</span>
+<a href="power-batteryestimate.html.lv" title="Uzrādītais baterijas darbības laiks nav pareizs">Uzrādītais baterijas darbības laiks nav pareizs</a><span class="desc"> — Atlikušais baterijas darbības laiks, kas parādās, nospiežot <span class="gui">baterijas ikonu</span>, ir aptuvens novērtējums.</span>
 </li>
 </ul></div>
 </div></div>

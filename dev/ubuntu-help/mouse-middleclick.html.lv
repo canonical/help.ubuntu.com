@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="mouse.html" title="Pele">Pele</a> › <a class="trail" href="mouse.html#tips" title="Padomi">Padomi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="mouse.html.lv" title="Pele">Pele</a> › <a class="trail" href="mouse.html.lv#tips" title="Padomi">Padomi</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="mouse.html" title="Pele">Pele</a> › <a class="trail" href="mouse.html#tips" title="Padomi">Padomi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="mouse.html.lv" title="Pele">Pele</a> › <a class="trail" href="mouse.html.lv#tips" title="Padomi">Padomi</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Padomi un knifi">Padomi un knifi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.lv" title="Padomi un knifi">Padomi un knifi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Daudzām pelēm un dažiem skārienpaliktņiem ir vidējā poga. Ar peli, kurai ir ritentiņš, parasti vari nospiest ritentiņu tieši uz leju, lai izpildītu vidējo klikšķi. Ja pelei nav vidējās pogas, jūs varat nospiest kreiso un labo peles pogu reizē, lai izpildītu vidējo klikšķi.</p>
-<p class="p">Uz skārienpaliktņiem, kuri atbalsta vairāku pirkstu sitienus, tu vari uzsist ar 3 pirkstiem reizē lai veiktu vidējo klikšķi. Jums ir <span class="link"><a href="mouse-touchpad-click.html" title="Spiediet, velciet vai ritiniet ar skārienpaliktni">jāieslēdz klikšķi ar uzsitienu</a></span> sava skārienpaliktņa iestatījumos, lai tas strādātu.</p>
+<p class="p">Uz skārienpaliktņiem, kuri atbalsta vairāku pirkstu sitienus, tu vari uzsist ar 3 pirkstiem reizē lai veiktu vidējo klikšķi. Jums ir <span class="link"><a href="mouse-touchpad-click.html.lv" title="Spiediet, velciet vai ritiniet ar skārienpaliktni">jāieslēdz klikšķi ar uzsitienu</a></span> sava skārienpaliktņa iestatījumos, lai tas strādātu.</p>
 <p class="p">Daudzas lietotnes izmanto vidējo klikšķi dažām klikšķināšanas saīsnēm.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
@@ -77,9 +77,9 @@
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="tips.html" title="Padomi un knifi">Padomi un knifi</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Ievadiet īpašas rakstzīmes">Īpašās rakstzīmes</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Vidējais klikšķis">vidējās pogas saīsne</a></span>…</span>
+<a href="tips.html.lv" title="Padomi un knifi">Padomi un knifi</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.lv" title="Ievadiet īpašas rakstzīmes">Īpašās rakstzīmes</a></span>, <span class="link"><a href="mouse-middleclick.html.lv" title="Vidējais klikšķis">vidējās pogas saīsne</a></span>…</span>
 </li>
-<li class="links "><a href="mouse.html#tips" title="Padomi">Peles padomi</a></li>
+<li class="links "><a href="mouse.html.lv#tips" title="Padomi">Peles padomi</a></li>
 </ul></div>
 </div></div></div>
 </div>

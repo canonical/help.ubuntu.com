@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Seu ambiente">Área de trabalho</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicativos e janelas">Aplicativos e janelas</a> » <a class="trail" href="shell-windows.html" title="Janelas e espaços de trabalho">Janelas e espaços de trabalho</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Trabalhando com espaços de trabalho">Espaços de trabalho</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pt-BR" title="Seu ambiente">Área de trabalho</a> › <a class="trail" href="shell-overview.html.pt-BR#apps" title="Aplicativos e janelas">Aplicativos e janelas</a> » <a class="trail" href="shell-windows.html.pt-BR" title="Janelas e espaços de trabalho">Janelas e espaços de trabalho</a> › <a class="trail" href="shell-windows.html.pt-BR#working-with-workspaces" title="Trabalhando com espaços de trabalho">Espaços de trabalho</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">O que é um espaço de trabalho e como ele vai me ajudar?</span></h1></div>
@@ -54,7 +54,7 @@
 <p class="p">Os espaços de trabalho podem ser usados para organizar seu trabalho. Por exemplo, você poderia ter todas as suas janelas de comunicação, como programas de e-mail e de bate-papo, em um espaço, enquanto que o trabalho que você está fazendo em um espaço diferente. Seu gerenciador de música poderia estar em um terceiro espaço de trabalho.</p>
 <p class="p">Usando espaços de trabalho:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">No panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span>, mova seu cursor para o canto direito da tela.</p></li>
+<li class="list"><p class="p">No panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span>, mova seu cursor para o canto direito da tela.</p></li>
 <li class="list"><p class="p">Um painel vertical aparecerá mostrando os espaços de trabalho em uso, junto a um outro vazio. Este é o seletor de espaço de trabalho.</p></li>
 <li class="list"><p class="p">Para adicionar um espaço de trabalho, arraste e solte uma janela de um espaço de trabalho existente para outro, vazio, no seletor de espaços de trabalho. Este agora terá a janela que você soltou nele, e um novo espaço de trabalho vazio aparecerá logo abaixo.</p></li>
 <li class="list"><p class="p">Para remover um espaço de trabalho, basta fechar todas as suas janelas ou movê-las para outros espaços. de trabalho.</p></li>
@@ -66,16 +66,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Trabalhando com espaços de trabalho">Trabalhando com espaços de trabalho</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.pt-BR#working-with-workspaces" title="Trabalhando com espaços de trabalho">Trabalhando com espaços de trabalho</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-workspaces-switch.html" title="Alternando entre espaços de trabalho">Alternando entre espaços de trabalho</a><span class="desc"> — Use o seletor de espaço de trabalho.</span>
+<a href="shell-workspaces-switch.html.pt-BR" title="Alternando entre espaços de trabalho">Alternando entre espaços de trabalho</a><span class="desc"> — Use o seletor de espaço de trabalho.</span>
 </li>
 <li class="links ">
-<a href="shell-workspaces-movewindow.html" title="Movendo uma janela para um espaço de trabalho diferente">Movendo uma janela para um espaço de trabalho diferente</a><span class="desc"> — Vá para o panorama de <span class="gui">Atividades</span> e arraste a janela para um espaço de trabalho diferente.</span>
+<a href="shell-workspaces-movewindow.html.pt-BR" title="Movendo uma janela para um espaço de trabalho diferente">Movendo uma janela para um espaço de trabalho diferente</a><span class="desc"> — Vá para o panorama de <span class="gui">Atividades</span> e arraste a janela para um espaço de trabalho diferente.</span>
 </li>
 </ul></div>
 </div></div>

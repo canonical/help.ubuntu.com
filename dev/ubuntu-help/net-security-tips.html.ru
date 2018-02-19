@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="Сетевые термины и советы">Сетевые термины и советы</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.ru" title="Сетевые термины и советы">Сетевые термины и советы</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Безопасность в Интернете</span></h1></div>
@@ -53,9 +53,9 @@
 <p class="p">Несмотря на меры, принятые для обеспечения безопасности вашего дистрибутива Linux, всегда возможно наличие уязвимостей. Как обычный пользователь Интернета, вы подвергаетесь следующим угрозам:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Фишинг (веб-сайты и электронные письма, с помощью которых мошенники пытаются получить секретную информацию путём обмана)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html" title="Нужно ли сканировать свою электронную почту на наличие вирусов?">Рассылка электронных писем с вредоносными вложениями</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html" title="Нужна ли мне антивирусная программа?">Приложения с вредоносным предназначением (вирусы)</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html" title="Что такое WEP и WPA?">Unauthorized remote/local network
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.ru" title="Нужно ли сканировать свою электронную почту на наличие вирусов?">Рассылка электронных писем с вредоносными вложениями</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.ru" title="Нужна ли мне антивирусная программа?">Приложения с вредоносным предназначением (вирусы)</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.ru" title="Что такое WEP и WPA?">Unauthorized remote/local network
       access</a></span></p></li>
 </ul></div></div></div>
 <p class="p">Чтобы оставаться в безопасности, следуйте приведённым ниже советам:</p>
@@ -66,11 +66,11 @@
       information you are submitting and the potential consequences if that
       information is compromised by identity thieves or other criminals.</p></li>
 <li class="list"><p class="p">Be careful in providing
-      <span class="link"><a href="user-admin-explain.html" title="Как работают административные полномочия?">root level permissions</a></span> to any
+      <span class="link"><a href="user-admin-explain.html.ru" title="Как работают административные полномочия?">root level permissions</a></span> to any
       application, especially ones that you have not used before or which are
       not well-known. Providing anyone or anything with root level permissions
       puts your computer at high risk to exploitation.</p></li>
-<li class="list"><p class="p">Убедитесь, что запущены только необходимые сервисы удалённого доступа. SSH или VNC могут быть полезными, но они подвергают компьютер риску вторжения при отсутствии должной защиты. Чтобы защитить компьютер от вторжений, используйте <span class="link"><a href="net-firewall-on-off.html" title="Управление доступом к сети с помощью межсетевого экрана">межсетевой экран</a></span>.</p></li>
+<li class="list"><p class="p">Убедитесь, что запущены только необходимые сервисы удалённого доступа. SSH или VNC могут быть полезными, но они подвергают компьютер риску вторжения при отсутствии должной защиты. Чтобы защитить компьютер от вторжений, используйте <span class="link"><a href="net-firewall-on-off.html.ru" title="Управление доступом к сети с помощью межсетевого экрана">межсетевой экран</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -78,7 +78,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Сетевые термины и советы">Сетевые термины и советы</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Определение своего IP-адреса">Определение своего IP-адреса</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Что такое WEP и WPA?">защита WEP и WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Что такое MAC-адрес?">MAC-адреса</a></span>, <span class="link"><a href="net-proxy.html" title="Настройка прокси-сервера">прокси</a></span>…</span>
+<a href="net-general.html.ru" title="Сетевые термины и советы">Сетевые термины и советы</a><span class="desc"> — <span class="link"><a href="net-findip.html.ru" title="Определение своего IP-адреса">Определение своего IP-адреса</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.ru" title="Что такое WEP и WPA?">защита WEP и WPA</a></span>, <span class="link"><a href="net-macaddress.html.ru" title="Что такое MAC-адрес?">MAC-адреса</a></span>, <span class="link"><a href="net-proxy.html.ru" title="Настройка прокси-сервера">прокси</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

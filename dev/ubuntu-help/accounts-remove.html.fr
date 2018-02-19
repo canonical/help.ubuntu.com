@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="accounts.html" title="Comptes en ligne">Comptes en ligne</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Suppression d'un compte</span></h1></div>
@@ -61,14 +61,14 @@
     or sites. Look for an app called “GNOME” and remove it.</p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Online Accounts</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur l'icône <span class="gui">Comptes en ligne</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Sélectionnez le compte que vous souhaitez supprimer.</p></li>
 <li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">-</span> dans le coin inférieur gauche de la fenêtre.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Remove</span> in the confirmation dialog.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">Au lieu d'effacer complètement le compte, il est possible de <span class="link"><a href="accounts-disable-service.html" title="Contrôle des services en ligne accessibles par un compte">restreindre les services</a></span> accessibles par votre bureau.</p></div></div></div></div>
+<div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">Au lieu d'effacer complètement le compte, il est possible de <span class="link"><a href="accounts-disable-service.html.fr" title="Contrôle des services en ligne accessibles par un compte">restreindre les services</a></span> accessibles par votre bureau.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -76,17 +76,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Comptes en ligne">Comptes en ligne</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Ajout d'un compte">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Suppression d'un compte">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.fr" title="Ajout d'un compte">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.fr" title="Suppression d'un compte">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.fr" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="Contrôle des services en ligne accessibles par un compte">Contrôle des services en ligne accessibles par un compte</a><span class="desc"> — Certains comptes en ligne peuvent être utilisés pour accéder à de nombreux services (comme les agendas et les courriels). Vous pouvez contrôler quels services peuvent être utilisés par les applications.</span>
+<a href="accounts-disable-service.html.fr" title="Contrôle des services en ligne accessibles par un compte">Contrôle des services en ligne accessibles par un compte</a><span class="desc"> — Certains comptes en ligne peuvent être utilisés pour accéder à de nombreux services (comme les agendas et les courriels). Vous pouvez contrôler quels services peuvent être utilisés par les applications.</span>
 </li></ul></div>
 </div></div>
 </div>

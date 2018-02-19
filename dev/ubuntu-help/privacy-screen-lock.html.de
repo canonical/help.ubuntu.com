@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="privacy.html" title="Einstellungen zur Privatsphäre">Einstellungen zur Privatsphäre</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="privacy.html.de" title="Einstellungen zur Privatsphäre">Einstellungen zur Privatsphäre</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ihren Bildschirm automatisch sperren</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Wenn Sie Ihren Rechner verlassen, sollten Sie <span class="link"><a href="shell-exit.html#lock-screen" title="Bildschirm sperren">den Bildschirm sperren</a></span>, um andere Personen daran zu hindern, Ihre Arbeitsumgebung zu benutzen und auf Ihre Dateien zuzugreifen. Sie können den Bildschirm automatisch nach einer festgelegten Zeit sperren lassen, falls Sie häufiger das Sperren vergessen. Somit wird Ihr Rechner besser gesichert, wenn Sie ihn nicht verwenden.</p>
+<p class="p">Wenn Sie Ihren Rechner verlassen, sollten Sie <span class="link"><a href="shell-exit.html.de#lock-screen" title="Bildschirm sperren">den Bildschirm sperren</a></span>, um andere Personen daran zu hindern, Ihre Arbeitsumgebung zu benutzen und auf Ihre Dateien zuzugreifen. Sie können den Bildschirm automatisch nach einer festgelegten Zeit sperren lassen, falls Sie häufiger das Sperren vergessen. Somit wird Ihr Rechner besser gesichert, wenn Sie ihn nicht verwenden.</p>
 <div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Wenn Ihr Bildschirm gesperrt ist, werden Anwendungen und Systemprozesse weiter ausgeführt, aber Sie werden Ihr Passwort eingeben müssen, um Ihre Arbeit fortzusetzen.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">So legen Sie die Zeit bis zum automatischen Sperren des Bildschirms fest:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Privatsphäre</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Privatsphäre</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Privatsphäre</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Sperrbildschirm</span>.</p></li>
 <li class="steps"><p class="p">Stellen Sie sicher, dass <span class="gui">Automatische Sperrbildschirm</span> <span class="gui">AN</span> ist und wählen Sie dann eine Zeit in der Auswahlliste.</p></li>
@@ -69,15 +69,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html" title="Einstellungen zur Privatsphäre">Einstellungen zur Privatsphäre</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Ihren Bildschirm automatisch sperren">Sperrbildschirm</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Den Verlauf von Dateiänderungen ausschalten oder begrenzen">Verwendung und Chronik</a></span>, <span class="link"><a href="privacy-purge.html" title="Papierkorb leeren und temporäre Dateien löschen">Papierkorb leeren und temporäre Dateien</a></span> …</span>
+<a href="privacy.html.de" title="Einstellungen zur Privatsphäre">Einstellungen zur Privatsphäre</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.de" title="Ihren Bildschirm automatisch sperren">Sperrbildschirm</a></span>, <span class="link"><a href="privacy-history-recent-off.html.de" title="Den Verlauf von Dateiänderungen ausschalten oder begrenzen">Verwendung und Chronik</a></span>, <span class="link"><a href="privacy-purge.html.de" title="Papierkorb leeren und temporäre Dateien löschen">Papierkorb leeren und temporäre Dateien</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Bildschirm sperren">Bildschirm sperren</a></li>
+<li class="links "><a href="shell-exit.html.de#lock-screen" title="Bildschirm sperren">Bildschirm sperren</a></li>
 <li class="links ">
-<a href="session-screenlocks.html" title="Der Bildschirm sperrt sich zu schnell selbst">Der Bildschirm sperrt sich zu schnell selbst</a><span class="desc"> — Ändern Sie in den <span class="gui">Privatsphäre</span>-Einstellungen, wie lange gewartet werden soll, bevor der Bildschirm gesperrt wird.</span>
+<a href="session-screenlocks.html.de" title="Der Bildschirm sperrt sich zu schnell selbst">Der Bildschirm sperrt sich zu schnell selbst</a><span class="desc"> — Ändern Sie in den <span class="gui">Privatsphäre</span>-Einstellungen, wie lange gewartet werden soll, bevor der Bildschirm gesperrt wird.</span>
 </li>
 </ul></div>
 </div></div>

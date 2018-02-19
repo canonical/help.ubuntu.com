@@ -44,19 +44,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="media.html" title="Ljud, video och bilder">Ljud, video och bilder</a> › <a class="trail" href="media.html#photos" title="Foton och digitalkameror">Foton</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="media.html.sv" title="Ljud, video och bilder">Ljud, video och bilder</a> › <a class="trail" href="media.html.sv#photos" title="Foton och digitalkameror">Foton</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html#problems" title="Vanliga problem">Problem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html.sv#problems" title="Vanliga problem">Problem</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problem med mediakortsläsare</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Många datorer innehåller läsare för SD, MMC, SM, MS, CF och andra kort med lagringsmedia. Dessa bör automatiskt detekteras och <span class="link"><a href="disk-partitions.html" title="Hantera volymer och partitioner">monteras</a></span>. Här finns några felsökningssteg om detta inte lyckas:</p>
+<p class="p">Många datorer innehåller läsare för SD, MMC, SM, MS, CF och andra kort med lagringsmedia. Dessa bör automatiskt detekteras och <span class="link"><a href="disk-partitions.html.sv" title="Hantera volymer och partitioner">monteras</a></span>. Här finns några felsökningssteg om detta inte lyckas:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Säkerställ att kortet matats in korrekt. Många kort ser ut som om de sitter i upp och ner när de är korrekt isatta. Försäkra också att kortet är ordentligt isatt i kortplatsen; vissa kort, speciellt CF, kräver en liten knuff för att sättas i korrekt. (Var aktsam så du inte trycker för hårt! Om du stöter i något hårt, pressa inte.)</p></li>
-<li class="steps"><p class="p">Öppna <span class="app">Filer</span> genom att använda menyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>. Visas det inmatade kortet i listan <span class="gui">Enheter</span> i den vänstra sidopanelen? Ibland visas kortet i listan men det är inte monterat; klicka på det en gång för att montera det. (Om sidopanelen inte visas tryck på <span class="key"><kbd>F9</kbd></span> eller klicka på <span class="gui">Filer</span> i systemraden och välj <span class="gui">Sidopanel</span>.)</p></li>
+<li class="steps"><p class="p">Öppna <span class="app">Filer</span> genom att använda menyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>. Visas det inmatade kortet i listan <span class="gui">Enheter</span> i den vänstra sidopanelen? Ibland visas kortet i listan men det är inte monterat; klicka på det en gång för att montera det. (Om sidopanelen inte visas tryck på <span class="key"><kbd>F9</kbd></span> eller klicka på <span class="gui">Filer</span> i systemraden och välj <span class="gui">Sidopanel</span>.)</p></li>
 <li class="steps"><p class="p">Om ditt kort inte visas i sidopanelen, klicka på <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>L</kbd></span></span>, skriv sedan <span class="input">computer:///</span> och tryck <span class="key"><kbd>Retur</kbd></span>. Om din kortläsare är korrekt konfigurerad borde läsaren dyka upp som en enhet när inget kort är isatt och som kortet själv när kortet har monterats.</p></li>
 <li class="steps"><p class="p">Om du ser kortläsaren men inte kortet kan problem vara kortet i sig. Prova med ett annat kort eller kontrollera om möjligt att kortet fungerar i en annan kortläsare.</p></li>
 </ol></div></div></div>
@@ -67,8 +67,8 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#photos" title="Foton och digitalkameror">Foton</a></li>
-<li class="links "><a href="hardware.html#problems" title="Vanliga problem">Hårdvaruproblem</a></li>
+<li class="links "><a href="media.html.sv#photos" title="Foton och digitalkameror">Foton</a></li>
+<li class="links "><a href="hardware.html.sv#problems" title="Vanliga problem">Hårdvaruproblem</a></li>
 </ul></div>
 </div></div></div>
 </div>

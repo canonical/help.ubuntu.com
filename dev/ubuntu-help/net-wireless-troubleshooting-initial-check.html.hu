@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-wireless.html" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-wireless.html.hu" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a> » <a class="trail" href="net-wireless-troubleshooting.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html.hu#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="net-wireless-troubleshooting.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Előző</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Következő</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Előző</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Következő</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Vezeték nélküli hálózatok hibáinak elhárítása</span></h1>
@@ -64,7 +64,7 @@
 <li class="steps"><p class="p">Győződjön meg róla, hogy a laptopja nem csatlakozik egy <span class="em">vezetékes</span> internetkapcsolathoz.</p></li>
 <li class="steps"><p class="p">Ha külső vezeték nélküli csatolóval (például USB csatoló vagy a laptopba csúsztatható PCMCIA-kártya) rendelkezik, akkor győződjön meg róla, hogy az stabilan, a megfelelő csatlakozóba van behelyezve.</p></li>
 <li class="steps"><p class="p">Ha a vezeték nélküli kártya a számítógép <span class="em">belsejében</span> található, akkor győződjön meg róla, hogy a vezeték nélküli csatoló kapcsolója (ha van ilyen) be van kapcsolva. A laptopok vezeték nélküli kapcsolóit gyakran egy billentyűkombináció megnyomásával lehet aktiválni.</p></li>
-<li class="steps"><p class="p">Kattintson a rendszerállapot-területre a felső sávon, és válassza a <span class="gui">Wi-Fi</span> lehetőséget, majd a <span class="gui">Wi-Fi beállítások</span> pontot. Győződjön meg róla, hogy a <span class="gui">Wi-Fi</span> menüpont <span class="gui">BE</span> van kapcsolva. Ellenőrizze azt is, hogy a <span class="link"><a href="net-wireless-airplane.html" title="Vezeték nélküli csatoló kikapcsolása (repülő mód)">repülő mód</a></span> <span class="em">nincs-e</span> bekapcsolva.</p></li>
+<li class="steps"><p class="p">Kattintson a rendszerállapot-területre a felső sávon, és válassza a <span class="gui">Wi-Fi</span> lehetőséget, majd a <span class="gui">Wi-Fi beállítások</span> pontot. Győződjön meg róla, hogy a <span class="gui">Wi-Fi</span> menüpont <span class="gui">BE</span> van kapcsolva. Ellenőrizze azt is, hogy a <span class="link"><a href="net-wireless-airplane.html.hu" title="Vezeték nélküli csatoló kikapcsolása (repülő mód)">repülő mód</a></span> <span class="em">nincs-e</span> bekapcsolva.</p></li>
 <li class="steps">
 <p class="p">Nyisson meg egy Terminált, írja be az <span class="cmd">nmcli device</span> parancsot, és nyomja meg az <span class="key"><kbd>Enter</kbd></span> billentyűt.</p>
 <p class="p">Ez információkat jelenít meg a hálózati csatolókról és a kapcsolat állapotáról. Nézze meg, hogy a megjelenő információkban van-e a vezeték nélküli csatolóval kapcsolatos elem. Ha az állapot <span class="code">connected</span>, akkor a csatoló működik, és kapcsolódott a vezeték nélküli routerhez.</p>
@@ -74,14 +74,14 @@
 <p class="p">Ha az <span class="cmd">nmcli device</span> által megjelenített információk nem jelezték, hogy csatlakozva lenne a hálózatra, akkor kattintson a <span class="gui">Következő</span> hivatkozásra a hibaelhárítási útmutató következő részére ugráshoz.</p>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Előző</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Következő</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Előző</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Következő</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a><span class="desc"> — Vezeték nélküli kapcsolatok problémáinak azonosítása és megoldása.</span>
+<a href="net-wireless-troubleshooting.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a><span class="desc"> — Vezeték nélküli kapcsolatok problémáinak azonosítása és megoldása.</span>
 </li></ul></div>
 </div></div></div>
 </div>

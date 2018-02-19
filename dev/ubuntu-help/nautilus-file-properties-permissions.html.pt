@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html#faq" title="Conselhos e perguntas">Conselhos e perguntas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html.pt#faq" title="Conselhos e perguntas">Conselhos e perguntas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Estabelecer as permissões do ficheiro</span></h1></div>
@@ -68,7 +68,7 @@
     belong to.</p>
 <p class="p">You can also set the permissions for users other than the owner and
     those in the file’s group.</p>
-<p class="p">Se o ficheiro é um programa, como por exemplo um script, tendrá que selecionar <span class="gui">Permitir executar o ficheiro como um programa</span> para o executar. Inclusive com esta opção ativado, pode que o gestor de ficheiros abra esse ficheiro dentro duma aplicação ou lhe pergunte que fazer. Para obter mais informação consulte a <span class="link"><a href="nautilus-behavior.html#executable" title="Ficheiros de texto executáveis">Ficheiros de texto executáveis</a></span>.</p>
+<p class="p">Se o ficheiro é um programa, como por exemplo um script, tendrá que selecionar <span class="gui">Permitir executar o ficheiro como um programa</span> para o executar. Inclusive com esta opção ativado, pode que o gestor de ficheiros abra esse ficheiro dentro duma aplicação ou lhe pergunte que fazer. Para obter mais informação consulte a <span class="link"><a href="nautilus-behavior.html.pt#executable" title="Ficheiros de texto executáveis">Ficheiros de texto executáveis</a></span>.</p>
 </div></div>
 </div></div>
 <div id="folders" class="sect"><div class="inner">
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Conselhos e perguntas">Conselhos e perguntas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt#faq" title="Conselhos e perguntas">Conselhos e perguntas</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-basic.html" title="Propriedades do ficheiro">Propriedades do ficheiro</a><span class="desc"> — Ver informação básica do ficheiro, atribuir permissões e selecionar aplicações predeterminados.</span>
+<a href="nautilus-file-properties-basic.html.pt" title="Propriedades do ficheiro">Propriedades do ficheiro</a><span class="desc"> — Ver informação básica do ficheiro, atribuir permissões e selecionar aplicações predeterminados.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="power.html#problems" title="Problēmas">Barošanas problēmas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html.lv#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="power.html.lv#problems" title="Problēmas">Barošanas problēmas</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="hardware-problems-graphics.html" title="Ekrāna problēmas">Ekrāna problēmas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html.lv#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="hardware-problems-graphics.html.lv" title="Ekrāna problēmas">Ekrāna problēmas</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kāpēc mans dators neatmostas pēc iesnaudināšanas?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Mēģinot atmodināt vai ieslēgt datoru pēc <span class="link"><a href="power-suspend.html" title="Kas notiek, iesnaudinot datoru?">iesnaudināšanas</a></span>, var gadīties, ka tas neatsāk darbu, kā paredzēts. Iemesls var būt aparatūra, kas neatbalsta datora iesnaušanos.</p></div>
+<div class="contents"><p class="p">Mēģinot atmodināt vai ieslēgt datoru pēc <span class="link"><a href="power-suspend.html.lv" title="Kas notiek, iesnaudinot datoru?">iesnaudināšanas</a></span>, var gadīties, ka tas neatsāk darbu, kā paredzēts. Iemesls var būt aparatūra, kas neatbalsta datora iesnaušanos.</p></div>
 <div id="resume" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Dators neatmostas pēc iesnaudināšanas</span></h2></div>
 <div class="region"><div class="contents">
@@ -66,7 +66,7 @@
 <div id="hardware" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Bezvadu savienojums (vai citas ierīces) nestrādā, datoram atmostoties</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Atmodinot datoru pēc iesnaudināšanas, var gadīties, ka interneta pieslēgums, pele vai kas cits nestrādā, kā nākas. Iemesls varētu būt iesnaušanās atbalsta trūkums ierīces draiverī. Tad tā ir nevis pašas ierīces, bet <span class="link"><a href="hardware-driver.html" title="Kas ir draiveris?">draivera problēma</a></span>.</p>
+<p class="p">Atmodinot datoru pēc iesnaudināšanas, var gadīties, ka interneta pieslēgums, pele vai kas cits nestrādā, kā nākas. Iemesls varētu būt iesnaušanās atbalsta trūkums ierīces draiverī. Tad tā ir nevis pašas ierīces, bet <span class="link"><a href="hardware-driver.html.lv" title="Kas ir draiveris?">draivera problēma</a></span>.</p>
 <p class="p">Ja ierīcei ir ieslēgšanas slēdzis, mēģiniet to izslēgt un ieslēgt. Vairumā gadījumu ierīce atkal sāks darboties. Ja ierīce pievienota datoram ar USB vadu vai līdzīgā veidā, izņemiet un iespraudiet vadu, un tad pārbaudiet, vai ierīce strādā.</p>
 <p class="p">Ja aprakstītie soļi nav iespējami vai nelīdz, var būt nepieciešams pārstartēt datoru, lai ierīce atsāktu darboties.</p>
 </div></div>
@@ -78,10 +78,10 @@
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power.html#problems" title="Problēmas">Barošanas problēmas</a><span class="desc"> — Atrisināt problēmas ar datora barošanu un baterijām.</span>
+<a href="power.html.lv#problems" title="Problēmas">Barošanas problēmas</a><span class="desc"> — Atrisināt problēmas ar datora barošanu un baterijām.</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Ekrāna problēmas">Ekrāna problēmas</a><span class="desc"> — Ekrāna un video problēmu novēršana.</span>
+<a href="hardware-problems-graphics.html.lv" title="Ekrāna problēmas">Ekrāna problēmas</a><span class="desc"> — Ekrāna un video problēmu novēršana.</span>
 </li>
 </ul></div>
 </div></div>
@@ -89,19 +89,19 @@
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-nowireless.html" title="Kad atmodinu datoru, nav bezvadu tīkla">Kad atmodinu datoru, nav bezvadu tīkla</a><span class="desc"> — Dažām tīkla ierīcēm ir grūtības ar datora iesnaušanos un atmošanos.</span>
+<a href="power-nowireless.html.lv" title="Kad atmodinu datoru, nav bezvadu tīkla">Kad atmodinu datoru, nav bezvadu tīkla</a><span class="desc"> — Dažām tīkla ierīcēm ir grūtības ar datora iesnaušanos un atmošanos.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="Kas ir draiveris?">Kas ir draiveris?</a><span class="desc"> — Aparatūras/ierīces draiveris ļauj datoram izmantot tam pievienotās ierīces.</span>
+<a href="hardware-driver.html.lv" title="Kas ir draiveris?">Kas ir draiveris?</a><span class="desc"> — Aparatūras/ierīces draiveris ļauj datoram izmantot tam pievienotās ierīces.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Kas notiek, iesnaudinot datoru?">Kas notiek, iesnaudinot datoru?</a><span class="desc"> — Iesnaudināšana liek datoram pāriet īpašā režīmā, kas patērē mazāk elektroenerģijas.</span>
+<a href="power-suspend.html.lv" title="Kas notiek, iesnaudinot datoru?">Kas notiek, iesnaudinot datoru?</a><span class="desc"> — Iesnaudināšana liek datoram pāriet īpašā režīmā, kas patērē mazāk elektroenerģijas.</span>
 </li>
 <li class="links ">
-<a href="power-hibernate.html" title="Kā iemidzināt savu datoru?">Kā iemidzināt savu datoru?</a><span class="desc"> — Pēc noklusējuma iemidzināšana ir deaktivēta, jo tā nav labi atbalstīta.</span>
+<a href="power-hibernate.html.lv" title="Kā iemidzināt savu datoru?">Kā iemidzināt savu datoru?</a><span class="desc"> — Pēc noklusējuma iemidzināšana ir deaktivēta, jo tā nav labi atbalstīta.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="Kāpēc dators izslēdzas, aizverot tā vāku?">Kāpēc dators izslēdzas, aizverot tā vāku?</a><span class="desc"> — Klēpjdatori "iesnaužas", kad kāds aizver to vāku, lai ietaupītu elektroenerģiju.</span>
+<a href="power-closelid.html.lv" title="Kāpēc dators izslēdzas, aizverot tā vāku?">Kāpēc dators izslēdzas, aizverot tā vāku?</a><span class="desc"> — Klēpjdatori "iesnaužas", kad kāds aizver to vāku, lai ietaupītu elektroenerģiju.</span>
 </li>
 </ul></div>
 </div></div>

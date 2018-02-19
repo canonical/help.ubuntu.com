@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-security.html" title="Dodržování bezpečnosti na Internetu">Dodržování bezpečnosti na Internetu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-security.html.cs" title="Dodržování bezpečnosti na Internetu">Dodržování bezpečnosti na Internetu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Povolení nebo blokování přístupu na firewallu</span></h1></div>
@@ -54,7 +54,7 @@
 <p class="p">Každý program, který poskytuje síťové služby k tomu používá konkrétní <span class="em">síťový port</span>. Abyste dovolili ostatním počítačům v síti přístup k službě, musíte na firewallu „otevřít“ port, který ji patří:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Jděte do <span class="gui">Činností</span> v levém horním rohu obrazovky a spusťte firewallovou aplikaci. Možná si budete muset nějakou aplikaci pro správu firewallu doinstalovat, když žádnou nenajdete (například Firestarter nebo GUFW).</p></li>
-<li class="steps"><p class="p">Otevřete nebo zakažte port pro síťovou službu podle toho, k čemu chcete, aby lidé měli přístup nebo ho naopak neměli. Který port potřebujete změnit <span class="link"><a href="net-firewall-ports.html" title="Běžně používané síťové porty">závisí na službě</a></span>.</p></li>
+<li class="steps"><p class="p">Otevřete nebo zakažte port pro síťovou službu podle toho, k čemu chcete, aby lidé měli přístup nebo ho naopak neměli. Který port potřebujete změnit <span class="link"><a href="net-firewall-ports.html.cs" title="Běžně používané síťové porty">závisí na službě</a></span>.</p></li>
 <li class="steps"><p class="p">Uložte nebo použijte změny, řiďte se přitom instrukcemi poskytovanými daným nástrojem firewallu.</p></li>
 </ol></div></div></div>
 </div>
@@ -64,13 +64,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Dodržování bezpečnosti na Internetu">Dodržování bezpečnosti na Internetu</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Potřebuji antivirový software?">Antivirový software</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Povolení nebo blokování přístupu na firewallu">základy k firewallu</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Běžně používané síťové porty">porty na firewallu</a></span>…</span>
+<a href="net-security.html.cs" title="Dodržování bezpečnosti na Internetu">Dodržování bezpečnosti na Internetu</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.cs" title="Potřebuji antivirový software?">Antivirový software</a></span>, <span class="link"><a href="net-firewall-on-off.html.cs" title="Povolení nebo blokování přístupu na firewallu">základy k firewallu</a></span>, <span class="link"><a href="net-firewall-ports.html.cs" title="Běžně používané síťové porty">porty na firewallu</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-ports.html" title="Běžně používané síťové porty">Běžně používané síťové porty</a><span class="desc"> — Abyste na firewallu povolili/zakázali síťový přístup k programu, musíte určit správný síťový port.</span>
+<a href="net-firewall-ports.html.cs" title="Běžně používané síťové porty">Běžně používané síťové porty</a><span class="desc"> — Abyste na firewallu povolili/zakázali síťový přístup k programu, musíte určit správný síťový port.</span>
 </li></ul></div>
 </div></div>
 </div>

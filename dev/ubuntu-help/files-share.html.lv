@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="sharing.html" title="Kopīga lietošana">Kopīga lietošana</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="sharing.html.lv" title="Kopīga lietošana">Kopīga lietošana</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html#more-file-tasks" title="Vēl ar datnēm saistīti uzdevumi">Vēl ar datnēm saistīti uzdevumi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.lv" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html.lv#more-file-tasks" title="Vēl ar datnēm saistīti uzdevumi">Vēl ar datnēm saistīti uzdevumi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Sūtīt datni ar e-pastu:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="app">Datnes</span> lietotni no <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskata.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="app">Datnes</span> lietotni no <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskata.</p></li>
 <li class="steps"><p class="p">Atrodiet datni, kuru vēlaties pārsūtīt.</p></li>
 <li class="steps"><p class="p">Veiciet labo peles klikšķi uz datnes un izvēlieties <span class="gui">Sūtīt uz…</span>. Parādīsies e-pasta vēstules rakstīšanas logs ar pievienotu datni.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Kam</span>, lai izvēlētos kontaktu, vai ievadiet e-pasta adresi, uz kuru vēlaties sūtīt datni. Aizpildiet <span class="gui">Temats</span> un vēstules pamattekstu, un spiediet <span class="gui">Sūtīt</span>.</p></li>
@@ -73,19 +73,19 @@
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Kopīga lietošana">Kopīga lietošana</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Koplietot savu darbvirsmu">Darbvirsmas koplietošana</a></span>, <span class="link"><a href="files-share.html" title="Dalīties ar datnēm caur e-pastu">Koplietot datnes ar e-pastu</a></span>, <span class="link"><a href="sharing-media.html" title="Dalieties ar mūziku, fotogrāfijām un video">Multimediju koplietošana</a></span>…</span>
+<a href="sharing.html.lv" title="Kopīga lietošana">Kopīga lietošana</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.lv" title="Koplietot savu darbvirsmu">Darbvirsmas koplietošana</a></span>, <span class="link"><a href="files-share.html.lv" title="Dalīties ar datnēm caur e-pastu">Koplietot datnes ar e-pastu</a></span>, <span class="link"><a href="sharing-media.html.lv" title="Dalieties ar mūziku, fotogrāfijām un video">Multimediju koplietošana</a></span>…</span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="Vēl ar datnēm saistīti uzdevumi">Vēl ar datnēm saistīti uzdevumi</a></li>
+<li class="links "><a href="files.html.lv#more-file-tasks" title="Vēl ar datnēm saistīti uzdevumi">Vēl ar datnēm saistīti uzdevumi</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="nautilus-connect.html" title="Pārlūkojiet datnes uz servera vai tīkla koplietojumā">Pārlūkojiet datnes uz servera vai tīkla koplietojumā</a><span class="desc"> — Skatiet un rediģējiet datnes citā datorā caur FTP, SSH, Windows koplietojumiem vai WebDAV.</span>
+<a href="nautilus-connect.html.lv" title="Pārlūkojiet datnes uz servera vai tīkla koplietojumā">Pārlūkojiet datnes uz servera vai tīkla koplietojumā</a><span class="desc"> — Skatiet un rediģējiet datnes citā datorā caur FTP, SSH, Windows koplietojumiem vai WebDAV.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-send-file.html" title="Sūtīt datnes uz Bluetooth ierīci">Sūtīt datnes uz Bluetooth ierīci</a><span class="desc"> — Koplietot datnes ar Bluetooth ierīcēm, tādām kā jūsu telefons.</span>
+<a href="bluetooth-send-file.html.lv" title="Sūtīt datnes uz Bluetooth ierīci">Sūtīt datnes uz Bluetooth ierīci</a><span class="desc"> — Koplietot datnes ar Bluetooth ierīcēm, tādām kā jūsu telefons.</span>
 </li>
 </ul></div>
 </div></div>

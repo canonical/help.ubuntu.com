@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html#apps" title="Applications and windows">Applications and windows</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.hi" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html.hi#apps" title="Applications and windows">Applications and windows</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">Settings</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hi" title="User &amp; system settings">Settings</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -74,14 +74,14 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">अधिक जानकारी</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-overview.html#apps" title="Applications and windows">Applications and windows</a></li>
+<li class="links "><a href="shell-overview.html.hi#apps" title="Applications and windows">Applications and windows</a></li>
 <li class="links ">
-<a href="prefs.html" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html" title="Keyboard">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html" title="Mouse">mouse</a></span>,
-      <span class="link"><a href="prefs-display.html" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html" title="Region &amp; Language">languages</a></span>,
-      <span class="link"><a href="user-accounts.html" title="User accounts">user accounts</a></span>…
+<a href="prefs.html.hi" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
+      <span class="link"><a href="keyboard.html.hi" title="Keyboard">Keyboard</a></span>,
+      <span class="link"><a href="mouse.html.hi" title="Mouse">mouse</a></span>,
+      <span class="link"><a href="prefs-display.html.hi" title="Display &amp; screen">display</a></span>,
+      <span class="link"><a href="prefs-language.html.hi" title="Region &amp; Language">languages</a></span>,
+      <span class="link"><a href="user-accounts.html.hi" title="User accounts">user accounts</a></span>…
     </span>
 </li>
 </ul></div>

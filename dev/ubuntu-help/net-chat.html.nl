@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Chatten &amp; sociaal netwerken</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html" title="Chatten in Ubuntu"><span class="title">Chatten in Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Met <span class="app">Empathy</span> kunt u chatten, gesprekken en videogesprekken voeren met vrienden en collega's op een groot aantal netwerken</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html" title="Videogesprekken"><span class="title">Videogesprekken</span><span class="linkdiv-dash"> — </span><span class="desc">Welke toepassingen kan ik gebruiken om videogesprekken te voeren?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html.nl" title="Chatten in Ubuntu"><span class="title">Chatten in Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Met <span class="app">Empathy</span> kunt u chatten, gesprekken en videogesprekken voeren met vrienden en collega's op een groot aantal netwerken</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html.nl" title="Videogesprekken"><span class="title">Videogesprekken</span><span class="linkdiv-dash"> — </span><span class="desc">Welke toepassingen kan ik gebruiken om videogesprekken te voeren?</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html" title="Hoe kan ik Skype gebruiken in Ubuntu?"><span class="title">Hoe kan ik Skype gebruiken in Ubuntu?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> is niet-vrije software en dient handmatig geïnstalleerd te worden in Ubuntu.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html.nl" title="Hoe kan ik Skype gebruiken in Ubuntu?"><span class="title">Hoe kan ik Skype gebruiken in Ubuntu?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> is niet-vrije software en dient handmatig geïnstalleerd te worden in Ubuntu.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -61,19 +61,19 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Draadloos netwerk">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Bekabeld netwerk">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Netwerkproblemen">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Webbrowsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="E mail &amp; e-mailsoftware">email accounts</a></span>…
+<a href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html.nl" title="Draadloos netwerk">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html.nl" title="Bekabeld netwerk">wired</a></span>,
+      <span class="link"><a href="net-problem.html.nl" title="Netwerkproblemen">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html.nl" title="Webbrowsers">web browsing</a></span>,
+      <span class="link"><a href="net-email.html.nl" title="E mail &amp; e-mailsoftware">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Online-accounts">Online-accounts</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Een account toevoegen">Een online-account toevoegen</a></span>, <span class="link"><a href="accounts-remove.html" title="Een account verwijderen">Een account verwijderen</a></span>, <span class="link"><a href="accounts-which-application.html" title="Online-services en -toepassingen">Meer te weten komen over diensten</a></span>…</span>
+<a href="accounts.html.nl" title="Online-accounts">Online-accounts</a><span class="desc"> — <span class="link"><a href="accounts-add.html.nl" title="Een account toevoegen">Een online-account toevoegen</a></span>, <span class="link"><a href="accounts-remove.html.nl" title="Een account verwijderen">Een account verwijderen</a></span>, <span class="link"><a href="accounts-which-application.html.nl" title="Online-services en -toepassingen">Meer te weten komen over diensten</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

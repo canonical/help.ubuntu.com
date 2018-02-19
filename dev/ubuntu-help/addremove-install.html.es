@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="addremove.html" title="Instalar y eliminar software">Añadir/eliminar software</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="addremove.html.es" title="Instalar y eliminar software">Añadir/eliminar software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Instalar aplicaciones adicionales</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Una aplicación es un software que dispone de una interfaz gráfica de usuario (IGU). El equipo de desarrollo de ubuntu ha elegido un conjunto de aplicaciones predeterminadas que pensamos que pueden hacer a Ubuntu muy útil para la mayoría de las tareas diarias. Sin embargo, muy probablemente deseará instalar más aplicaciones para hacer a Ubuntu todavía más útil para usted. Para instalar una aplicación, puede usar <span class="app">Ubuntu Software</span>.La</p>
 <p class="p">Las aplicaciones están disponibles en dos formatos: paquetes snap y paquetes Deybina. Nos referiremos a partir de ahora a las aplicaciones disponibles como paquetes snap como <span class="em">snap</span>. Para instalar (o eliminar) un snap tiene que iniciar sesión en el Snap Store/Ubuntu One. Algunas aplicaciones están disponibles en ambos formatos. En tal caso el snap aparecerá primero en <span class="app">Ubuntu Software</span>.</p>
-<p class="p">Es posible que también desee instalar software que no tiene una IGU. Para instalar este tipo de software puede usar <span class="link"><a href="addremove-install-synaptic.html" title="Use Synaptic para una gestión de software más avanzada">Synaptic</a></span>. Tenga en cuenta que <span class="app">Synaptic</span> no muestra snaps.</p>
+<p class="p">Es posible que también desee instalar software que no tiene una IGU. Para instalar este tipo de software puede usar <span class="link"><a href="addremove-install-synaptic.html.es" title="Use Synaptic para una gestión de software más avanzada">Synaptic</a></span>. Tenga en cuenta que <span class="app">Synaptic</span> no muestra snaps.</p>
 <p class="p">Para instalar una aplicación:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Haga clic en el icono de <span class="app">Ubuntu Software</span> en el <span class="gui">Dock</span> o busque <span class="input">Software</span> en la barra de búsqueda de <span class="em">Actividades</span>.</p></li>
@@ -67,20 +67,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Instalar y eliminar software">Instalar y eliminar software</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Instalar aplicaciones adicionales">Instalar aplicaciones</a></span>, <span class="link"><a href="addremove-remove.html" title="Desinstalar una aplicación">desinstalar aplicaciones</a></span>, <span class="link"><a href="addremove-sources.html" title="Añadir repositorios de software">añadir repositorios</a></span>…</span>
+<a href="addremove.html.es" title="Instalar y eliminar software">Instalar y eliminar software</a><span class="desc"> — <span class="link"><a href="addremove-install.html.es" title="Instalar aplicaciones adicionales">Instalar aplicaciones</a></span>, <span class="link"><a href="addremove-remove.html.es" title="Desinstalar una aplicación">desinstalar aplicaciones</a></span>, <span class="link"><a href="addremove-sources.html.es" title="Añadir repositorios de software">añadir repositorios</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-remove.html" title="Desinstalar una aplicación">Desinstalar una aplicación</a><span class="desc"> — Eliminar aplicaciones que ya no usa.</span>
+<a href="addremove-remove.html.es" title="Desinstalar una aplicación">Desinstalar una aplicación</a><span class="desc"> — Eliminar aplicaciones que ya no usa.</span>
 </li>
 <li class="links ">
-<a href="prefs-language-install.html" title="Instalar idiomas">Instalar idiomas</a><span class="desc"> — Instalar más traducciones y paquetes relacionados con idiomas.</span>
+<a href="prefs-language-install.html.es" title="Instalar idiomas">Instalar idiomas</a><span class="desc"> — Instalar más traducciones y paquetes relacionados con idiomas.</span>
 </li>
 <li class="links ">
-<a href="addremove-install-synaptic.html" title="Use Synaptic para una gestión de software más avanzada">Use Synaptic para una gestión de software más avanzada</a><span class="desc"> — Synaptic es una herramienta potente pero compleja de gestión de software que puede emplearse como alternativa a <span class="app">Ubuntu Software</span>.</span>
+<a href="addremove-install-synaptic.html.es" title="Use Synaptic para una gestión de software más avanzada">Use Synaptic para una gestión de software más avanzada</a><span class="desc"> — Synaptic es una herramienta potente pero compleja de gestión de software que puede emplearse como alternativa a <span class="app">Ubuntu Software</span>.</span>
 </li>
 </ul></div>
 </div></div>

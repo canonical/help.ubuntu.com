@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="bluetooth.html.fr" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Qu'est-ce que la visibilité Bluetooth ?</span></h1></div>
@@ -54,15 +54,15 @@
   on and the <span class="gui">Bluetooth</span> panel is open, your computer will advertize
   itself to all other devices within range, allowing them to attempt to connect
   to your computer.</p>
-<div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">Vous pouvez <span class="link"><a href="sharing-displayname.html" title="Choix d'un nom public pour votre ordinateur">changer</a></span> le nom que votre ordinateur montre aux autres périphériques.</p></div></div></div></div>
-<p class="p">Après vous être <span class="link"><a href="bluetooth-connect-device.html" title="Association d'un ordinateur à un périphérique Bluetooth">connecté à un périphérique</a></span>, ni votre ordinateur, ni le périphérique n'ont besoin d'être visibles pour communiquer entre eux.</p>
+<div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">Vous pouvez <span class="link"><a href="sharing-displayname.html.fr" title="Choix d'un nom public pour votre ordinateur">changer</a></span> le nom que votre ordinateur montre aux autres périphériques.</p></div></div></div></div>
+<p class="p">Après vous être <span class="link"><a href="bluetooth-connect-device.html.fr" title="Association d'un ordinateur à un périphérique Bluetooth">connecté à un périphérique</a></span>, ni votre ordinateur, ni le périphérique n'ont besoin d'être visibles pour communiquer entre eux.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Association d'un ordinateur à un périphérique Bluetooth">Connexion</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Envoi de fichiers vers un périphérique Bluetooth">envoi de fichiers</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Activation ou désactivation du Bluetooth">activation et désactivation</a></span>…</span>
+<a href="bluetooth.html.fr" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.fr" title="Association d'un ordinateur à un périphérique Bluetooth">Connexion</a></span>, <span class="link"><a href="bluetooth-send-file.html.fr" title="Envoi de fichiers vers un périphérique Bluetooth">envoi de fichiers</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.fr" title="Activation ou désactivation du Bluetooth">activation et désactivation</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

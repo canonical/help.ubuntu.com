@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Padomi un knifi">Padomi un knifi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.lv" title="Padomi un knifi">Padomi un knifi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ievadiet īpašas rakstzīmes</span></h1></div>
@@ -53,22 +53,14 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Metodes, lai ievadītu rakstzīmes</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Rakstzīmju karte">Rakstzīmju karte</a></li>
-<li class="links "><a href="tips-specialchars.html#characters" title="Rakstzīmes">Rakstzīmes</a></li>
-<li class="links "><a href="tips-specialchars.html#compose" title="Kompozīcijas taustiņi">Kompozīcijas taustiņi</a></li>
-<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Koda punkti">Koda punkti</a></li>
-<li class="links "><a href="tips-specialchars.html#layout" title="Tastatūras izkārtojumi">Tastatūras izkārtojumi</a></li>
-<li class="links "><a href="tips-specialchars.html#im" title="Ievades metodes">Ievades metodes</a></li>
+<li class="links "><a href="tips-specialchars.html.lv#characters" title="Rakstzīmes">Rakstzīmes</a></li>
+<li class="links "><a href="tips-specialchars.html.lv#compose" title="Kompozīcijas taustiņi">Kompozīcijas taustiņi</a></li>
+<li class="links "><a href="tips-specialchars.html.lv#ctrlshiftu" title="Koda punkti">Koda punkti</a></li>
+<li class="links "><a href="tips-specialchars.html.lv#layout" title="Tastatūras izkārtojumi">Tastatūras izkārtojumi</a></li>
+<li class="links "><a href="tips-specialchars.html.lv#im" title="Ievades metodes">Ievades metodes</a></li>
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Rakstzīmju karte</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">GNOME nāk kopā ar rakstzīmju kartes programmu, kas ļauj jums aplūkot visas rakstzīmes unikodā. Izmantojiet rakstzīmju karti, lai atrast rakstzīmes, kuras jums vajag, un pēc tam nokopējiet un ielīmējiet tās, kur vien jums vajag.</p>
-<p class="p"><span class="gui">Aktivitāšu</span> pārskatā jūs varat atrast <span class="app">Rakstzīmju tabulu</span>. Lai uzzinātu vairāk par rakstzīmju tabulu, aplūkojiet <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">rakstzīmju tabulas rokasgrāmatu</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Rakstzīmes</span></h2></div>
 <div class="region"><div class="contents">
@@ -85,12 +77,13 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Definēt kompozīcijas taustiņu</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Piedare</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Piedare</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Piedare</span>, lai atvērtu lietotni.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Tastatūra un pele</span> cilni.</p></li>
 <li class="steps"><p class="p">Spiediet uz <span class="gui">Izslēgts</span> pie iestatījuma <span class="gui">Kompozīcijas taustiņš</span>.</p></li>
 <li class="steps"><p class="p">Dialoglodziņā ieslēdziet slēdzi un izvēlieties tastatūras saīsni, ko vēlaties izmantot.</p></li>
 <li class="steps"><p class="p">Atzīmējiet atzīmes rūtiņā taustiņu, kuru vēlaties iestatīt kā komponēšanas taustiņu.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Aizveriet <span class="gui">Piedares</span> logu.</p></li>
 </ol></div>
 </div></div>
@@ -113,7 +106,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tastatūras izkārtojumi</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Jūs varat likt savai tastatūrai darboties citā valodā, neatkarīgi no burtiem, kas ir uzrakstīti uz tastatūras taustiņiem. Jūs pat varat viegli pārslēgties starp dažādiem tastatūras izkārtojumiem izmantojot ikonu augšējajā joslā. Lai iemācītos, kā to izdarīt. skatiet <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Jūs varat likt savai tastatūrai darboties citā valodā, neatkarīgi no burtiem, kas ir uzrakstīti uz tastatūras taustiņiem. Jūs pat varat viegli pārslēgties starp dažādiem tastatūras izkārtojumiem izmantojot ikonu augšējajā joslā. Lai iemācītos, kā to izdarīt. skatiet <span class="link"><a href="keyboard-layouts.html.lv" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ievades metodes</span></h2></div>
@@ -128,13 +121,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Padomi un knifi">Padomi un knifi</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Ievadiet īpašas rakstzīmes">Īpašās rakstzīmes</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Vidējais klikšķis">vidējās pogas saīsne</a></span>…</span>
+<a href="tips.html.lv" title="Padomi un knifi">Padomi un knifi</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.lv" title="Ievadiet īpašas rakstzīmes">Īpašās rakstzīmes</a></span>, <span class="link"><a href="mouse-middleclick.html.lv" title="Vidējais klikšķis">vidējās pogas saīsne</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.lv" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html" title="Безопасность в Интернете">Безопасность в Интернете</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html.ru" title="Безопасность в Интернете">Безопасность в Интернете</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html" title="Электронная почта и почтовые программы">Электронная почта и почтовые программы</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html.ru" title="Электронная почта и почтовые программы">Электронная почта и почтовые программы</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Вирусы — это программы, вызывающие проблемы при проникновении на компьютер. Один из типичных способов их попадания на компьютер — через электронную почту.</p>
 <p class="p">Viruses that can affect computers running Linux are quite rare, so you are
-  <span class="link"><a href="net-antivirus.html" title="Нужна ли мне антивирусная программа?">unlikely to get a virus through email or
+  <span class="link"><a href="net-antivirus.html.ru" title="Нужна ли мне антивирусная программа?">unlikely to get a virus through email or
   otherwise</a></span>. If you receive an email with a virus hidden in it, it will
   probably have no effect on your computer. As such, you probably don’t need to
   scan your email for viruses.</p>
@@ -75,16 +75,16 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-security.html" title="Безопасность в Интернете">Безопасность в Интернете</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="Нужна ли мне антивирусная программа?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Управление доступом к сети с помощью межсетевого экрана">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Часто используемые сетевые порты">firewall ports</a></span>…
+<a href="net-security.html.ru" title="Безопасность в Интернете">Безопасность в Интернете</a><span class="desc"> — 
+      <span class="link"><a href="net-antivirus.html.ru" title="Нужна ли мне антивирусная программа?">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.ru" title="Управление доступом к сети с помощью межсетевого экрана">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.ru" title="Часто используемые сетевые порты">firewall ports</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="net-email.html" title="Электронная почта и почтовые программы">Электронная почта и почтовые программы</a><span class="desc"> — 
-      <span class="link"><a href="net-default-email.html" title="Выбор другого почтового приложения для создания писем">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html" title="Нужно ли сканировать свою электронную почту на наличие вирусов?">Should I scan for viruses?</a></span>…
+<a href="net-email.html.ru" title="Электронная почта и почтовые программы">Электронная почта и почтовые программы</a><span class="desc"> — 
+      <span class="link"><a href="net-default-email.html.ru" title="Выбор другого почтового приложения для создания писем">Default email apps</a></span>,
+      <span class="link"><a href="net-email-virus.html.ru" title="Нужно ли сканировать свою электронную почту на наличие вирусов?">Should I scan for viruses?</a></span>…
     </span>
 </li>
 </ul></div>
@@ -92,7 +92,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="Нужна ли мне антивирусная программа?">Нужна ли мне антивирусная программа?</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
+<a href="net-antivirus.html.ru" title="Нужна ли мне антивирусная программа?">Нужна ли мне антивирусная программа?</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
     software.</span>
 </li></ul></div>
 </div></div>

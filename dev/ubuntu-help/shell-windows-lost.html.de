@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ihre Arbeitsumgebung">Schreibtisch</a> › <a class="trail" href="shell-overview.html#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a> » <a class="trail" href="shell-windows.html" title="Fenster und Arbeitsflächen">Fenster und Arbeitsflächen</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Arbeiten mit Fenstern">Fenster</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.de" title="Ihre Arbeitsumgebung">Schreibtisch</a> › <a class="trail" href="shell-overview.html.de#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a> » <a class="trail" href="shell-windows.html.de" title="Fenster und Arbeitsflächen">Fenster und Arbeitsflächen</a> › <a class="trail" href="shell-windows.html.de#working-with-windows" title="Arbeiten mit Fenstern">Fenster</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ein verlorenes Fenster finden</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Ein Fenster auf einer anderen Arbeitsfläche, oder eines, dass sich hinter einem anderen Fenster befindet, können Sie leicht in der <span class="link"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht finden:</p>
+<p class="p">Ein Fenster auf einer anderen Arbeitsfläche, oder eines, dass sich hinter einem anderen Fenster befindet, können Sie leicht in der <span class="link"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht finden:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Öffnen Sie die <span class="gui">Aktivitäten-Übersicht</span>. Falls sich das fehlende Fenster auf der aktuellen <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Arbeiten mit Arbeitsflächen">Arbeitsfläche</a></span> befindet, dann wird hier ein Vorschaubild angezeigt. Klicken Sie einfach darauf, um das Fenster wieder anzuzeigen, oder</p></li>
-<li class="list"><p class="p">Klicken Sie auf verschiedene Arbeitsflächen im <span class="link"><a href="shell-workspaces.html" title="Was ist eine Arbeitsfläche, und was habe ich davon?">Arbeitsflächenumschalter</a></span> auf der rechten Seite des Bildschirms, um Ihr gewünschtes Fenster zu finden, oder</p></li>
+<li class="list"><p class="p">Öffnen Sie die <span class="gui">Aktivitäten-Übersicht</span>. Falls sich das fehlende Fenster auf der aktuellen <span class="link"><a href="shell-windows.html.de#working-with-workspaces" title="Arbeiten mit Arbeitsflächen">Arbeitsfläche</a></span> befindet, dann wird hier ein Vorschaubild angezeigt. Klicken Sie einfach darauf, um das Fenster wieder anzuzeigen, oder</p></li>
+<li class="list"><p class="p">Klicken Sie auf verschiedene Arbeitsflächen im <span class="link"><a href="shell-workspaces.html.de" title="Was ist eine Arbeitsfläche, und was habe ich davon?">Arbeitsflächenumschalter</a></span> auf der rechten Seite des Bildschirms, um Ihr gewünschtes Fenster zu finden, oder</p></li>
 <li class="list"><p class="p">Klicken Sie mit der rechten Maustaste auf eine Anwendung im Dash, woraufhin deren geöffnete Fenster aufgelistet werden. Klicken Sie auf das Fenster in der Liste, um dorthin zu wechseln.</p></li>
 </ul></div></div></div>
 <p class="p">Mit dem Fensterwechsler:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Drücken Sie <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tabulatortaste</kbd></span></span>, um den <span class="link"><a href="shell-windows-switching.html" title="Wechseln zwischen Fenstern">Fensterwechsler</a></span> anzuzeigen. Halten Sie die <span class="key"><kbd>Super</kbd></span>-Taste weiterhin gedrückt und blättern Sie mit der <span class="key"><kbd>Tabulatortaste</kbd></span> durch die geöffneten Fenster beziehungsweise rückwärts mit <span class="keyseq"><span class="key"><kbd>Umschalttaste</kbd></span>+<span class="key"><kbd>Tabulatortaste</kbd></span></span>.</p></li>
+<li class="list"><p class="p">Drücken Sie <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.de" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tabulatortaste</kbd></span></span>, um den <span class="link"><a href="shell-windows-switching.html.de" title="Wechseln zwischen Fenstern">Fensterwechsler</a></span> anzuzeigen. Halten Sie die <span class="key"><kbd>Super</kbd></span>-Taste weiterhin gedrückt und blättern Sie mit der <span class="key"><kbd>Tabulatortaste</kbd></span> durch die geöffneten Fenster beziehungsweise rückwärts mit <span class="keyseq"><span class="key"><kbd>Umschalttaste</kbd></span>+<span class="key"><kbd>Tabulatortaste</kbd></span></span>.</p></li>
 <li class="list"><p class="p">Falls für eine Anwendung mehrere Fenster geöffnet sind, halten Sie <span class="key"><kbd>Super</kbd></span> gedrückt und drücken Sie <span class="key"><kbd>^</kbd></span> (oder die Taste über der <span class="key"><kbd>Tabulator</kbd></span>taste) , um zwischen diesen Fenstern zu wechseln.</p></li>
 </ul></div></div></div>
 </div>
@@ -65,7 +65,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Arbeiten mit Fenstern">Arbeiten mit Fenstern</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.de#working-with-windows" title="Arbeiten mit Fenstern">Arbeiten mit Fenstern</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

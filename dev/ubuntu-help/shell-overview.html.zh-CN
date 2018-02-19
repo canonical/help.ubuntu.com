@@ -43,28 +43,28 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Your desktop</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="GNOME 指导"><span class="title">GNOME 指导</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.zh-CN" title="GNOME 指导"><span class="title">GNOME 指导</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
     <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">了解如何退出您的帐号，像注销、切换用户等等。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.zh-CN" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">了解如何退出您的帐号，像注销、切换用户等等。</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="启动应用程序"><span class="title">启动应用程序</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.zh-CN" title="启动应用程序"><span class="title">启动应用程序</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Customize your desktop</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html" title="把常用的程序放入 dash"><span class="title">把常用的程序放入 dash</span><span class="linkdiv-dash"> — </span><span class="desc">添加(或移除)dash 中的常用程序图标。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="日程安排"><span class="title">日程安排</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.zh-CN" title="把常用的程序放入 dash"><span class="title">把常用的程序放入 dash</span><span class="linkdiv-dash"> — </span><span class="desc">添加(或移除)dash 中的常用程序图标。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.zh-CN" title="日程安排"><span class="title">日程安排</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
     screen.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html" title="通知和消息托盘"><span class="title">通知和消息托盘</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.zh-CN" title="通知和消息托盘"><span class="title">通知和消息托盘</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
     certain events happen.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
@@ -72,14 +72,14 @@
 <div class="hgroup"><h2 class="title"><span class="title">应用程序和窗口</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="切换窗口"><span class="title">切换窗口</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="可用的键盘快捷键"><span class="title">可用的键盘快捷键</span><span class="linkdiv-dash"> — </span><span class="desc">使用键盘浏览桌面</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="startup-applications.html" title="启动应用程序"><span class="title">启动应用程序</span><span class="linkdiv-dash"> — </span><span class="desc">选择登录时要启动的应用程序。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.zh-CN" title="切换窗口"><span class="title">切换窗口</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.zh-CN" title="可用的键盘快捷键"><span class="title">可用的键盘快捷键</span><span class="linkdiv-dash"> — </span><span class="desc">使用键盘浏览桌面</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.zh-CN" title="启动应用程序"><span class="title">启动应用程序</span><span class="linkdiv-dash"> — </span><span class="desc">选择登录时要启动的应用程序。</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows.html" title="窗口和工作区"><span class="title">窗口和工作区</span><span class="linkdiv-dash"> — </span><span class="desc">移动和组织窗口。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html" title="锁定屏幕"><span class="title">锁定屏幕</span><span class="linkdiv-dash"> — </span><span class="desc">锁屏的功能和画面显示的有用信息。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="status-icons.html" title="顶部面板的图标有什么作用？"><span class="title">顶部面板的图标有什么作用？</span><span class="linkdiv-dash"> — </span><span class="desc">Explains the meanings of the icons located on the right of the top bar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows.html.zh-CN" title="窗口和工作区"><span class="title">窗口和工作区</span><span class="linkdiv-dash"> — </span><span class="desc">移动和组织窗口。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.zh-CN" title="锁定屏幕"><span class="title">锁定屏幕</span><span class="linkdiv-dash"> — </span><span class="desc">锁屏的功能和画面显示的有用信息。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="status-icons.html.zh-CN" title="顶部面板的图标有什么作用？"><span class="title">顶部面板的图标有什么作用？</span><span class="linkdiv-dash"> — </span><span class="desc">Explains the meanings of the icons located on the right of the top bar.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -87,7 +87,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu 桌面指南">Ubuntu 桌面指南</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.zh-CN" title="Ubuntu 桌面指南">Ubuntu 桌面指南</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

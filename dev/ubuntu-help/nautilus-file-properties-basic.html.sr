@@ -43,24 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.sr" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html.sr#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Својства датотеке</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Да погледате податке о датотеци или фасцикли, кликните десним тастером миша на њу и изаберите <span class="gui">Особине</span>. Можете такође да изаберете датотеку и да притиснете <span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Унеси</kbd></span></span>.</p>
-<p class="p">Прозор особина датотеке ће вам показати податке као што је врста датотеке, величина, и када сте је последњи пут изменили. Ако су вам често потребни ови подаци, можете да их прикажете у <span class="link"><a href="nautilus-list.html" title="Поставке колона списка датотека">колонама прегледа списком</a></span> или у <span class="link"><a href="nautilus-display.html#icon-captions" title="Натписи иконице">натпису иконице</a></span>.</p>
-<p class="p">Подаци дати у језичку <span class="gui">Основно</span> су објашњени испод. Поред њега имате такође и језичке <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Подесите овлашћења над датотеком">Овлашћења</a></span></span> и <span class="gui"><span class="link"><a href="files-open.html#default" title="Измените основни програм">Отвори помоћу</a></span></span>. За одређене врсте датотека, као што су слике и снимци, биће приказан додатни језичак који ће обезбеђивати податке о величини, трајању, и кодеку.</p>
+<p class="p">Прозор особина датотеке ће вам показати податке као што је врста датотеке, величина, и када сте је последњи пут изменили. Ако су вам често потребни ови подаци, можете да их прикажете у <span class="link"><a href="nautilus-list.html.sr" title="Поставке колона списка датотека">колонама прегледа списком</a></span> или у <span class="link"><a href="nautilus-display.html.sr#icon-captions" title="Натписи иконице">натпису иконице</a></span>.</p>
+<p class="p">Подаци дати у језичку <span class="gui">Основно</span> су објашњени испод. Поред њега имате такође и језичке <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.sr" title="Подесите овлашћења над датотеком">Овлашћења</a></span></span> и <span class="gui"><span class="link"><a href="files-open.html.sr#default" title="Измените основни програм">Отвори помоћу</a></span></span>. За одређене врсте датотека, као што су слике и снимци, биће приказан додатни језичак који ће обезбеђивати податке о величини, трајању, и кодеку.</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Основна својства</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Назив</span></dt>
-<dd class="terms"><p class="p">Можете да преименујете датотеку мењајући садржај овог поља. Можете такође да преименујете датотеку изван прозора особина. Погледајте <span class="link"><a href="files-rename.html" title="Преименујте датотеку или фасциклу">Преименујте датотеку или фасциклу</a></span>.</p></dd>
+<dd class="terms"><p class="p">Можете да преименујете датотеку мењајући садржај овог поља. Можете такође да преименујете датотеку изван прозора особина. Погледајте <span class="link"><a href="files-rename.html.sr" title="Преименујте датотеку или фасциклу">Преименујте датотеку или фасциклу</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Врста</span></dt>
 <dd class="terms">
-<p class="p">Ово ће вам помоћи да одредите врсту датотеке, као што је ПДФ документ, текст Отвореног документа, или ЈПЕГ слика. Врста датотеке одређује који програми могу да отворе датотеку, уз друге ствари. На пример, не можете да отворите слику програмом за пуштање музике. Погледајте <span class="link"><a href="files-open.html" title="Отворите датотеке другим програмима">Отворите датотеке другим програмима</a></span> за више података о овоме.</p>
+<p class="p">Ово ће вам помоћи да одредите врсту датотеке, као што је ПДФ документ, текст Отвореног документа, или ЈПЕГ слика. Врста датотеке одређује који програми могу да отворе датотеку, уз друге ствари. На пример, не можете да отворите слику програмом за пуштање музике. Погледајте <span class="link"><a href="files-open.html.sr" title="Отворите датотеке другим програмима">Отворите датотеке другим програмима</a></span> за више података о овоме.</p>
 <p class="p"><span class="em">МИМЕ врста</span> датотеке је приказана у загради; МИМЕ врста је уобичајени начин који рачунари користе да би обавестили о врсти датотеке.</p>
 </dd>
 <dt class="terms">Садржај</dt>
@@ -85,12 +85,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sr#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="Подесите овлашћења над датотеком">Подесите овлашћења над датотеком</a><span class="desc"> — Одредите ко може да прегледа и уређује ваше датотеке и фасцикле.</span>
+<a href="nautilus-file-properties-permissions.html.sr" title="Подесите овлашћења над датотеком">Подесите овлашћења над датотеком</a><span class="desc"> — Одредите ко може да прегледа и уређује ваше датотеке и фасцикле.</span>
 </li></ul></div>
 </div></div>
 </div>

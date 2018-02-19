@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html" title="Varnost na internetu">Varnost na internetu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html.sl" title="Varnost na internetu">Varnost na internetu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Omogočanje in blokiranje dostopa do požarnega zidu</span></h1></div>
@@ -59,7 +59,7 @@
       start your firewall application. You may need to install a firewall
       manager yourself if you can’t find one (for example, Firestarter or
       GUFW).</p></li>
-<li class="steps"><p class="p">Odprite ali onemogočite vrata za svojo omrežno storitev glede na to ali želite, da ljudje lahko do nje dostopajo ali ne. Vrata, ki jih želite spremeniti, so <span class="link"><a href="net-firewall-ports.html" title="Pogosto uporabljena vrata omrežja">odvisne od storitve</a></span>.</p></li>
+<li class="steps"><p class="p">Odprite ali onemogočite vrata za svojo omrežno storitev glede na to ali želite, da ljudje lahko do nje dostopajo ali ne. Vrata, ki jih želite spremeniti, so <span class="link"><a href="net-firewall-ports.html.sl" title="Pogosto uporabljena vrata omrežja">odvisne od storitve</a></span>.</p></li>
 <li class="steps"><p class="p">Shranite ali uveljavite spremembe in sledite morebitnim dodatnim navodilom orodja požarnega zidu.</p></li>
 </ol></div></div></div>
 </div>
@@ -69,17 +69,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Varnost na internetu">Varnost na internetu</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="Ali potrebujem protivirusni program?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Omogočanje in blokiranje dostopa do požarnega zidu">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Pogosto uporabljena vrata omrežja">firewall ports</a></span>…
+<a href="net-security.html.sl" title="Varnost na internetu">Varnost na internetu</a><span class="desc"> — 
+      <span class="link"><a href="net-antivirus.html.sl" title="Ali potrebujem protivirusni program?">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.sl" title="Omogočanje in blokiranje dostopa do požarnega zidu">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.sl" title="Pogosto uporabljena vrata omrežja">firewall ports</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-ports.html" title="Pogosto uporabljena vrata omrežja">Pogosto uporabljena vrata omrežja</a><span class="desc"> — Za omogočitev/onemogočitev dostopa do omrežja za program s požarnim zidom morate navesti prava omrežna vrata.</span>
+<a href="net-firewall-ports.html.sl" title="Pogosto uporabljena vrata omrežja">Pogosto uporabljena vrata omrežja</a><span class="desc"> — Za omogočitev/onemogočitev dostopa do omrežja za program s požarnim zidom morate navesti prava omrežna vrata.</span>
 </li></ul></div>
 </div></div>
 </div>

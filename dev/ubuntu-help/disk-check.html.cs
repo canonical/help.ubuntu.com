@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="disk.html" title="Disky a úložiště">Disky a úložiště</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="disk.html.cs" title="Disky a úložiště">Disky a úložiště</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kontrola problémů s pevným diskem</span></h1></div>
@@ -68,8 +68,8 @@
 <div id="disk-not-healthy" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Co dělat, když disk není v pořádku?</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">I když <span class="gui">Souhrnné posouzení</span> naznačuje, že disk <span class="em">není</span> v pořádku, nemusí tu být ještě nutně důvod k panice. Ale rozhodně je lepší připravit si <span class="link"><a href="backup-why.html" title="Záloha vašich důležitých souborů">zálohu</a></span>, abyste předešli ztrátě dat.</p>
-<p class="p">Když stav oznamuje „Předzvěst selhání“, je disk stále normálně použitelný, ale byly u něj zjištěny náznaky opotřebení, které naznačují, že v brzké době může selhat. Pokud je váš pevný disk (nebo počítač) starý několik let, dost možná se s touto zprávou setkáte při některé z kontrol stavu. V takové případě byste měli <span class="link"><a href="backup-how.html" title="Jak zálohovat">průběžně zálohovat důležité soubory</a></span> a pravidelně kontrolovat stav disku, jestli se nezhoršuje.</p>
+<p class="p">I když <span class="gui">Souhrnné posouzení</span> naznačuje, že disk <span class="em">není</span> v pořádku, nemusí tu být ještě nutně důvod k panice. Ale rozhodně je lepší připravit si <span class="link"><a href="backup-why.html.cs" title="Záloha vašich důležitých souborů">zálohu</a></span>, abyste předešli ztrátě dat.</p>
+<p class="p">Když stav oznamuje „Předzvěst selhání“, je disk stále normálně použitelný, ale byly u něj zjištěny náznaky opotřebení, které naznačují, že v brzké době může selhat. Pokud je váš pevný disk (nebo počítač) starý několik let, dost možná se s touto zprávou setkáte při některé z kontrol stavu. V takové případě byste měli <span class="link"><a href="backup-how.html.cs" title="Jak zálohovat">průběžně zálohovat důležité soubory</a></span> a pravidelně kontrolovat stav disku, jestli se nezhoršuje.</p>
 <p class="p">Jestliže se zhoršuje, asi byste měli vzít počítač/pevný disk k odborníkovi na podrobnější kontrolu nebo opravu.</p>
 </div></div>
 </div></div>
@@ -78,7 +78,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Disky a úložiště">Disky a úložiště</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Kontrola volného místa na disku">Místo na disku</a></span>, <span class="link"><a href="disk-benchmark.html" title="Test výkonnosti vašeho pevného disku">výkon</a></span>, <span class="link"><a href="disk-check.html" title="Kontrola problémů s pevným diskem">problémy</a></span>, <span class="link"><a href="disk-partitions.html" title="Správa svazků a oddílů">svazky a oddíly</a></span>…</span>
+<a href="disk.html.cs" title="Disky a úložiště">Disky a úložiště</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.cs" title="Kontrola volného místa na disku">Místo na disku</a></span>, <span class="link"><a href="disk-benchmark.html.cs" title="Test výkonnosti vašeho pevného disku">výkon</a></span>, <span class="link"><a href="disk-check.html.cs" title="Kontrola problémů s pevným diskem">problémy</a></span>, <span class="link"><a href="disk-partitions.html.cs" title="Správa svazků a oddílů">svazky a oddíly</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

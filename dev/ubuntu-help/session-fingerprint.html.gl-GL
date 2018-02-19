@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="hardware-auth.html" title="Pegadas dixitais e tarxetas intelixentes">Pegadas dixitais e tarxetas intelixentes</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="hardware-auth.html.gl-GL" title="Pegadas dixitais e tarxetas intelixentes">Pegadas dixitais e tarxetas intelixentes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Iniciar sesión con unha pegada dixital</span></h1></div>
@@ -56,10 +56,10 @@
 <p class="p">Before you can log in with your fingerprint, you need to record it so that
   the system can use it to identify you.</p>
 <div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Se o seu dedo está demasiado seco, pode que teña dificultade para rexistrar a súa pegada dixital. Se isto acontece, humedeza lixeiramente o dedo, séqueo cun pano limpo e sen pelusa, e volva a tentalo.</p></div></div></div></div>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html" title="Como funcionan os privilexios administrativos?">administrator privileges</a></span>
+<p class="p">You need <span class="link"><a href="user-admin-explain.html.gl-GL" title="Como funcionan os privilexios administrativos?">administrator privileges</a></span>
   to edit user accounts other than your own.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Users</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Users</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press on <span class="gui">Disabled</span>, next to <span class="gui">Fingerprint Login</span> to
@@ -83,7 +83,7 @@
 <div class="region"><div class="contents">
 <p class="p">Agora comprobe que funciona o seu novo inicio de sesión con pegada dixital. Se rexistra unha pegada dixital, aínda ten a opción de iniciar sesión co seu contrasinal.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Save any open work, and then <span class="link"><a href="shell-exit.html#logout" title="Saír da sesión ou trocar de usuario">log
+<li class="steps"><p class="p">Save any open work, and then <span class="link"><a href="shell-exit.html.gl-GL#logout" title="Saír da sesión ou trocar de usuario">log
       out</a></span>.</p></li>
 <li class="steps"><p class="p">Na pantalla de inicio de sesión, seleccione o seu nome de usuario da lista. Aparecerá o formulario de entrada de contrasinal.</p></li>
 <li class="steps"><p class="p">Instead of typing your password, you should be able to swipe your
@@ -96,7 +96,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-auth.html" title="Pegadas dixitais e tarxetas intelixentes">Pegadas dixitais e tarxetas intelixentes</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html" title="Iniciar sesión con unha pegada dixital">Lectores de pegadas dixitais</a></span>, tarxetas intelixentes…</span>
+<a href="hardware-auth.html.gl-GL" title="Pegadas dixitais e tarxetas intelixentes">Pegadas dixitais e tarxetas intelixentes</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html.gl-GL" title="Iniciar sesión con unha pegada dixital">Lectores de pegadas dixitais</a></span>, tarxetas intelixentes…</span>
 </li></ul></div>
 </div></div></div>
 </div>

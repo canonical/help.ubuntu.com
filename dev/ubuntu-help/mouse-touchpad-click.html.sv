@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="mouse.html" title="Mus">Mus</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="mouse.html.sv" title="Mus">Mus</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="mouse.html" title="Mus">Mus</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="mouse.html.sv" title="Mus">Mus</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="region"><div class="contents">
 <p class="p">Du kan knacka på din styrplatta för att klicka istället för att använda en knapp.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Mus &amp; styrplatta</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Mus &amp; styrplatta</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Mus &amp; styrplatta</span> för att öppna panelen.</p></li>
 <li class="steps">
 <p class="p">I avsnittet <span class="gui">Styrplatta</span>, markera <span class="gui">Knacka för att klicka</span>.</p>
@@ -69,8 +69,8 @@
 <li class="list"><p class="p">För att klicka, tryck på styrplattan.</p></li>
 <li class="list"><p class="p">För att dubbelklicka, tryck två gånger.</p></li>
 <li class="list"><p class="p">För att dra ett objekt, dubbeltryck; men lyft inte fingret efteråt. Dra objektet dit du vill ha det, och lyft sedan fingret för att släppa.</p></li>
-<li class="list"><p class="p">Om din styrplatta har stöd för flerfingersknackningar, högerklicka genom att knacka med två fingrar samtidigt. Annars måste du fortfarande använda hårdvaruknapparna för att högerklicka. Se <span class="link"><a href="a11y-right-click.html" title="Simulera ett högerklick">Simulera ett högerklick</a></span> för ett sätt att högerklicka utan en andra musknapp.</p></li>
-<li class="list"><p class="p">Om din styrplatta har stöd för flerfingersknackningar, <span class="link"><a href="mouse-middleclick.html" title="Mittenklick">mittenklicka</a></span> genom att knacka med tre fingrar samtidigt.</p></li>
+<li class="list"><p class="p">Om din styrplatta har stöd för flerfingersknackningar, högerklicka genom att knacka med två fingrar samtidigt. Annars måste du fortfarande använda hårdvaruknapparna för att högerklicka. Se <span class="link"><a href="a11y-right-click.html.sv" title="Simulera ett högerklick">Simulera ett högerklick</a></span> för ett sätt att högerklicka utan en andra musknapp.</p></li>
+<li class="list"><p class="p">Om din styrplatta har stöd för flerfingersknackningar, <span class="link"><a href="mouse-middleclick.html.sv" title="Mittenklick">mittenklicka</a></span> genom att knacka med tre fingrar samtidigt.</p></li>
 </ul></div></div></div>
 <div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">När du trycker eller drar med flera fingrar, se till att dina fingrar är tillräckligt långt från varandra. Om dina fingrar hamnar för tätt ihop kan datorn tro att du bara använder ett finger.</p></div></div></div></div>
 </div></div>
@@ -80,7 +80,7 @@
 <div class="region"><div class="contents">
 <p class="p">Du kan rulla via din styrplatta genom att använda två fingrar.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Mus &amp; styrplatta</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Mus &amp; styrplatta</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Mus &amp; styrplatta</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">I avsnittet <span class="gui">Styrplatta</span>, markera <span class="gui">Tvåfingersrullning</span>.</p></li>
 </ol></div></div></div>
@@ -93,7 +93,7 @@
 <div class="region"><div class="contents">
 <p class="p">Du kan dra innehåll som om du flyttade en fysisk bit papper via styrplattan.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Mus &amp; styrplatta</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Mus &amp; styrplatta</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Mus &amp; styrplatta</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">I avsnittet <span class="gui">Styrplatta</span>, markera <span class="gui">Naturlig rullning</span>.</p></li>
 </ol></div></div></div>
@@ -105,7 +105,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html" title="Mus">Mus</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Använd din mus med vänster hand">Vänsterhänt</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Justera hastigheten för musen och styrplattan">hastighet och känslighet</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Klicka, dra eller rulla med styrplattan">klickning och rullning med styrplatta</a></span>…</span>
+<a href="mouse.html.sv" title="Mus">Mus</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.sv" title="Använd din mus med vänster hand">Vänsterhänt</a></span>, <span class="link"><a href="mouse-sensitivity.html.sv" title="Justera hastigheten för musen och styrplattan">hastighet och känslighet</a></span>, <span class="link"><a href="mouse-touchpad-click.html.sv" title="Klicka, dra eller rulla med styrplattan">klickning och rullning med styrplatta</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

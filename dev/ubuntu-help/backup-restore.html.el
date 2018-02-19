@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#backup" title="Αντίγραφα ασφαλείας">Αντίγραφα ασφαλείας</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#backup" title="Αντίγραφα ασφαλείας">Αντίγραφα ασφαλείας</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Επαναφορά ενός αντιγράφου ασφαλείας</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Εάν χάσατε ή διαγράψατε κάποια από τα αρχεία σας, αλλά έχετε ένα αντίγραφο τους, μπορείτε να τα ανακτήσετε από το αντίγραφο:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Εάν θέλετε να ανακτήσετε το αντίγραφο ασφαλείας σας από μια συσκευή όπως έναν εξωτερικό σκληρό δίσκο, μια συσκευή USB ή άλλο υπολογιστή στο δίκτυο, μπορείτε να <span class="link"><a href="files-copy.html" title="Αντιγραφή ή μετακίνηση αρχείων και φακέλων">τα αντιγράψετε</a></span> πίσω στον υπολογιστή σας.</p></li>
+<li class="list"><p class="p">Εάν θέλετε να ανακτήσετε το αντίγραφο ασφαλείας σας από μια συσκευή όπως έναν εξωτερικό σκληρό δίσκο, μια συσκευή USB ή άλλο υπολογιστή στο δίκτυο, μπορείτε να <span class="link"><a href="files-copy.html.el" title="Αντιγραφή ή μετακίνηση αρχείων και φακέλων">τα αντιγράψετε</a></span> πίσω στον υπολογιστή σας.</p></li>
 <li class="list"><p class="p">Εάν δημιουργήσατε το αντίγραφο ασφαλείας σας χρησιμοποιώντας μια εφαρμογή εφεδρικού όπως το <span class="app">Déjà Dup</span>, συνιστάται να χρησιμοποιήσετε την ίδια εφαρμογή για επαναφορά του αντίγραφου σας. Επιθεωρήστε την βοήθεια εφαρμογής για το πρόγραμμα εφεδρικού: θα σας δώσει ειδικές οδηγίες πώς να επαναφέρετε τα αρχεία σας.</p></li>
 </ul></div></div></div>
 </div>
@@ -59,7 +59,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Αντίγραφα ασφαλείας">Αντίγραφα ασφαλείας</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.el#backup" title="Αντίγραφα ασφαλείας">Αντίγραφα ασφαλείας</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -44,17 +44,17 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="power.html" title="Ström och batteri">Ström och batteri</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="power.html.sv" title="Ström och batteri">Ström och batteri</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="power.html" title="Ström och batteri">Ström och batteri</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="power.html.sv" title="Ström och batteri">Ström och batteri</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Varför stängs min dator av när jag stänger locket?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">När du stänger locket på din bärbara dator kommer din dator att <span class="link"><a href="power-suspend.html" title="Vad händer när jag försätter min dator i vänteläge?"><span class="em">försättas i vänteläge</span></a></span> för att spara ström. Detta innebär att datorn egentligen inte är avstängd — den sover bara. Du kan väcka den igen genom att öppna locket. Om den inte väcks upp, prova att klicka med musen eller trycka på en tangent. Om det inte heller fungerar, tryck på strömknappen.</p>
-<p class="p">Vissa datorer kan inte försättas i vänteläge korrekt, vanligtvis eftersom deras hårdvara inte har komplett stöd av operativsystemet (till exempel kan Linux-drivrutinerna sakna stöd). I detta fall kan du upptäcka att du inte kan väcka upp din dator efter att du har stängt locket. Du kan prova att <span class="link"><a href="power-suspendfail.html" title="Varför återstartar inte min dator efter att jag har försatt den i vänteläge?">fixa problemet med vänteläge</a></span> eller så kan du undvika att datorn försätts i vänteläge när du stänger locket.</p>
+<p class="p">När du stänger locket på din bärbara dator kommer din dator att <span class="link"><a href="power-suspend.html.sv" title="Vad händer när jag försätter min dator i vänteläge?"><span class="em">försättas i vänteläge</span></a></span> för att spara ström. Detta innebär att datorn egentligen inte är avstängd — den sover bara. Du kan väcka den igen genom att öppna locket. Om den inte väcks upp, prova att klicka med musen eller trycka på en tangent. Om det inte heller fungerar, tryck på strömknappen.</p>
+<p class="p">Vissa datorer kan inte försättas i vänteläge korrekt, vanligtvis eftersom deras hårdvara inte har komplett stöd av operativsystemet (till exempel kan Linux-drivrutinerna sakna stöd). I detta fall kan du upptäcka att du inte kan väcka upp din dator efter att du har stängt locket. Du kan prova att <span class="link"><a href="power-suspendfail.html.sv" title="Varför återstartar inte min dator efter att jag har försatt den i vänteläge?">fixa problemet med vänteläge</a></span> eller så kan du undvika att datorn försätts i vänteläge när du stänger locket.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Förhindra datorn från att försättas i vänteläge när locket stängs</span></h2></div>
@@ -64,10 +64,10 @@
 <p class="p">Om du inte vill att datorn ska försättas i vänteläge när du stänger locket kan du ändra inställningarna för det beteendet.</p>
 <div class="note note-warning" title="Varning"><div class="inner"><div class="region"><div class="contents"><p class="p">Var aktsam när du ändrar denna inställning. Vissa bärbara datorer kan överhettas om de lämnas körandes med locket stängt, speciellt om de befinner sig i ett slutet utrymme som till exempel en ryggsäck.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Justering</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Justering</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Justering</span> för att öppna programmet.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Ström</span>-fliken.</p></li>
-<li class="steps"><p class="p">Slå om <span class="gui">Försätt inte i vänteläge då locket stängs</span> till <span class="gui">PÅ</span>.</p></li>
+<li class="steps"><p class="p">Slå om <span class="gui">Gå in i vänteläge då locket på den bärbara datorn stängs</span> till <span class="gui">AV</span>.</p></li>
 <li class="steps"><p class="p">Stäng fönstret <span class="gui">Justering</span>.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -78,17 +78,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Ström och batteri">Ström och batteri</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Kontrollera batteristatus">Batteristatus</a></span>, <span class="link"><a href="power-suspend.html" title="Vad händer när jag försätter min dator i vänteläge?">försätta i vänteläge</a></span>, <span class="link"><a href="power-whydim.html" title="Varför tonas min skärm ner efter ett tag?">skärmtoning</a></span>…</span>
+<a href="power.html.sv" title="Ström och batteri">Ström och batteri</a><span class="desc"> — <span class="link"><a href="power-status.html.sv" title="Kontrollera batteristatus">Batteristatus</a></span>, <span class="link"><a href="power-suspend.html.sv" title="Vad händer när jag försätter min dator i vänteläge?">försätta i vänteläge</a></span>, <span class="link"><a href="power-whydim.html.sv" title="Varför tonas min skärm ner efter ett tag?">skärmtoning</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspend.html" title="Vad händer när jag försätter min dator i vänteläge?">Vad händer när jag försätter min dator i vänteläge?</a><span class="desc"> — Vänteläge försätter din dator i ett strömsparläge där den drar mindre ström.</span>
+<a href="power-suspend.html.sv" title="Vad händer när jag försätter min dator i vänteläge?">Vad händer när jag försätter min dator i vänteläge?</a><span class="desc"> — Vänteläge försätter din dator i ett strömsparläge där den drar mindre ström.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Varför återstartar inte min dator efter att jag har försatt den i vänteläge?">Varför återstartar inte min dator efter att jag har försatt den i vänteläge?</a><span class="desc"> — Viss datorhårdvara orsakar problem med vänteläge.</span>
+<a href="power-suspendfail.html.sv" title="Varför återstartar inte min dator efter att jag har försatt den i vänteläge?">Varför återstartar inte min dator efter att jag har försatt den i vänteläge?</a><span class="desc"> — Viss datorhårdvara orsakar problem med vänteläge.</span>
 </li>
 </ul></div>
 </div></div>

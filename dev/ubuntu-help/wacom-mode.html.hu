@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="wacom.html" title="Wacom rajztábla">Wacom rajztábla</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="wacom.html.hu" title="Wacom rajztábla">Wacom rajztábla</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wacom rajztábla követési módjának beállítása</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">A <span class="gui">követési mód</span> meghatározza, hogy a mutató hogyan kerül leképezésre a képernyőre.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Wacom rajztábla</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Wacom rajztábla</span> szót.</p></li>
 <li class="steps">
 <p class="p">Kattintson a <span class="gui">Wacom rajztábla</span> ikonra a panel megnyitásához.</p>
 <div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Ha a rajztábla nem került felismerésre, akkor a program megkéri, hogy <span class="gui">Csatlakoztassa vagy kapcsolja be Wacom rajztábláját</span>. Kattintson a <span class="gui">Bluetooth beállítások</span> hivatkozásra a vezeték nélküli rajztábla csatlakoztatásához.</p></div></div></div></div>
@@ -68,7 +68,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html" title="Wacom rajztábla">Wacom rajztábla</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html" title="Monitor kiválasztása">Monitor leképezése</a></span>, <span class="link"><a href="wacom-stylus.html" title="A stylus beállítása">A stylus beállítása</a></span>, <span class="link"><a href="wacom-left-handed.html" title="Rajztábla használata bal kézzel">A rajztábla használata bal kézzel</a></span>…</span>
+<a href="wacom.html.hu" title="Wacom rajztábla">Wacom rajztábla</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html.hu" title="Monitor kiválasztása">Monitor leképezése</a></span>, <span class="link"><a href="wacom-stylus.html.hu" title="A stylus beállítása">A stylus beállítása</a></span>, <span class="link"><a href="wacom-left-handed.html.hu" title="Rajztábla használata bal kézzel">A rajztábla használata bal kézzel</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

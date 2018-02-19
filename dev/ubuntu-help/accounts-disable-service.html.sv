@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="accounts.html" title="Nätkonton">Nätkonton</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="accounts.html.sv" title="Nätkonton">Nätkonton</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Styr vilka nättjänster ett konto kan användas med</span></h1></div>
@@ -52,10 +52,10 @@
 <p class="p">Vissa typer av nätkontoleverantörer låter dig nå flera tjänster med samma användarkonto. Till exempel Google-konton tillhandahåller kalender, e-post, kontakter och chatt. Du kanske vill använda ditt konto för vissa tjänster, men inte andra. Du kanske vill till exempel använda ditt Google-konto för e-post men inte chatt, eftersom du har ett annat nätkonto som du använder för chatt.</p>
 <p class="p">Du kan inaktivera vissa tjänster som tillhandahålls av varje nätkonto:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Nätkonton</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Nätkonton</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Nätkonton</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Välj kontot som du vill ändra från listan till vänster.</p></li>
-<li class="steps"><p class="p">En lista av tjänster som är tillgängliga med detta konto kommer att visas under <span class="gui">Använd för</span>. Se <span class="link"><a href="accounts-which-application.html" title="Nättjänster och program">Nättjänster och program</a></span> för att se vilka program som använder vilka tjänster.</p></li>
+<li class="steps"><p class="p">En lista av tjänster som är tillgängliga med detta konto kommer att visas under <span class="gui">Använd för</span>. Se <span class="link"><a href="accounts-which-application.html.sv" title="Nättjänster och program">Nättjänster och program</a></span> för att se vilka program som använder vilka tjänster.</p></li>
 <li class="steps"><p class="p">Slå av de tjänster som du inte vill använda.</p></li>
 </ol></div></div></div>
 <p class="p">När en tjänst har inaktiverats för ett konto kommer program på din dator inte längre att kunna använda kontot för att koppla upp mot den tjänsten längre.</p>
@@ -67,17 +67,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Nätkonton">Nätkonton</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Lägg till ett konto">Lägg till ett nätkonto</a></span>, <span class="link"><a href="accounts-remove.html" title="Ta bort ett konto">Ta bort ett konto</a></span>, <span class="link"><a href="accounts-which-application.html" title="Nättjänster och program">Lär dig om tjänster</a></span>…</span>
+<a href="accounts.html.sv" title="Nätkonton">Nätkonton</a><span class="desc"> — <span class="link"><a href="accounts-add.html.sv" title="Lägg till ett konto">Lägg till ett nätkonto</a></span>, <span class="link"><a href="accounts-remove.html.sv" title="Ta bort ett konto">Ta bort ett konto</a></span>, <span class="link"><a href="accounts-which-application.html.sv" title="Nättjänster och program">Lär dig om tjänster</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="accounts-which-application.html" title="Nättjänster och program">Nättjänster och program</a><span class="desc"> — Program kan använda de konton som skapats i <span class="app">Nätkonton</span> och tjänsterna de utnyttjar.</span>
+<a href="accounts-which-application.html.sv" title="Nättjänster och program">Nättjänster och program</a><span class="desc"> — Program kan använda de konton som skapats i <span class="app">Nätkonton</span> och tjänsterna de utnyttjar.</span>
 </li>
 <li class="links ">
-<a href="accounts-remove.html" title="Ta bort ett konto">Ta bort ett konto</a><span class="desc"> — Ta bort tillgång till en nättjänstleverantör från dina program.</span>
+<a href="accounts-remove.html.sv" title="Ta bort ett konto">Ta bort ett konto</a><span class="desc"> — Ta bort tillgång till en nättjänstleverantör från dina program.</span>
 </li>
 </ul></div>
 </div></div>

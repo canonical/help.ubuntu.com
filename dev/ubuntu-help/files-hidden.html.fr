@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html#faq" title="Astuces et questions">Astuces et questions</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html.fr" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html.fr#faq" title="Astuces et questions">Astuces et questions</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Masquage d'un fichier</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">The <span class="app">Files</span> file manager gives you the ability to hide and unhide
   files at your discretion. When a file is hidden, it is not displayed by the
   file manager, but it is still there in its folder.</p>
-<p class="p">Pour cacher un fichier, <span class="link"><a href="files-rename.html" title="Modification d'un nom de fichier ou de dossier">renommez-le</a></span> en ajoutant un point (<span class="file">.</span>) au début de son nom. Par exemple, pour cacher le fichier appelé <span class="file">exemple.txt</span>, modifiez son nom en <span class="file">.exemple.txt</span>.</p>
+<p class="p">Pour cacher un fichier, <span class="link"><a href="files-rename.html.fr" title="Modification d'un nom de fichier ou de dossier">renommez-le</a></span> en ajoutant un point (<span class="file">.</span>) au début de son nom. Par exemple, pour cacher le fichier appelé <span class="file">exemple.txt</span>, modifiez son nom en <span class="file">.exemple.txt</span>.</p>
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">You can hide folders in the same way that you can hide files. Hide a
   folder by placing a <span class="file">.</span> at the beginning of the folder’s name.</p></div></div></div></div>
 </div>
@@ -87,8 +87,8 @@
   view options button in the toolbar and pick <span class="gui">Show Hidden Files</span>, or
   press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> to hide any other hidden
   files again.</p>
-<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Par défaut, les fichiers cachés sont visibles dans la fenêtre du gestionnaire de fichiers jusqu'à ce que vous le fermiez. Pour modifier ce paramètre et toujours afficher tous les fichiers cachés, consultez <span class="link"><a href="nautilus-views.html" title="Préférences des vues dans Fichiers">Préférences des vues dans <span class="app">Fichiers</span></a></span>.</p></div></div></div></div>
-<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">La plupart des fichiers cachés possèdent un <span class="file">.</span> au début de leur nom, mais d'autres peuvent avoir un <span class="file">~</span> à la fin du nom. Ces fichiers sont des fichiers de sauvegarde. Consultez <span class="link"><a href="files-tilde.html" title="Quel est ce fichier avec un ~ à la fin de son nom ?">Quel est ce fichier avec un <span class="file">~</span> à la fin de son nom ?</a></span> pour plus d'informations.</p></div></div></div></div>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Par défaut, les fichiers cachés sont visibles dans la fenêtre du gestionnaire de fichiers jusqu'à ce que vous le fermiez. Pour modifier ce paramètre et toujours afficher tous les fichiers cachés, consultez <span class="link"><a href="nautilus-views.html.fr" title="Préférences des vues dans Fichiers">Préférences des vues dans <span class="app">Fichiers</span></a></span>.</p></div></div></div></div>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">La plupart des fichiers cachés possèdent un <span class="file">.</span> au début de leur nom, mais d'autres peuvent avoir un <span class="file">~</span> à la fin du nom. Ces fichiers sont des fichiers de sauvegarde. Consultez <span class="link"><a href="files-tilde.html.fr" title="Quel est ce fichier avec un ~ à la fin de son nom ?">Quel est ce fichier avec un <span class="file">~</span> à la fin de son nom ?</a></span> pour plus d'informations.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -96,12 +96,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Astuces et questions">Astuces et questions</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.fr#faq" title="Astuces et questions">Astuces et questions</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-tilde.html" title="Quel est ce fichier avec un ~ à la fin de son nom ?">Quel est ce fichier avec un <span class="file">~</span> à la fin de son nom ?</a><span class="desc"> — Ce sont des fichiers de sauvegarde. Ils sont masqués par défaut.</span>
+<a href="files-tilde.html.fr" title="Quel est ce fichier avec un ~ à la fin de son nom ?">Quel est ce fichier avec un <span class="file">~</span> à la fin de son nom ?</a><span class="desc"> — Ce sont des fichiers de sauvegarde. Ils sont masqués par défaut.</span>
 </li></ul></div>
 </div></div>
 </div>

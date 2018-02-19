@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="prefs-display.html" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="hardware-problems-graphics.html" title="Képernyőproblémák">Képernyőproblémák</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html.hu#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="hardware-problems-graphics.html.hu" title="Képernyőproblémák">Képernyőproblémák</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">Ha számítógépét néhány percig nem használja, akkor a képernyő automatikusan zárolja magát, és a számítógép használatának folytatásához meg kell adnia a jelszavát. Ez biztonsági okokból történik (hogy más ne férhessen hozzá a felügyelet nélkül hagyott munkamenetéhez), de ha a képernyő túl gyorsan zárolja magát, az zavaró lehet.</p>
 <p class="p">A képernyő automatikus zárolása előtti hosszabb várakozás beállításához:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni az <span class="gui">Adatvédelem</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni az <span class="gui">Adatvédelem</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Adatvédelem</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Képernyőzár</span> lehetőséget.</p></li>
 <li class="steps"><p class="p">Ha az <span class="gui">Automatikus képernyőzárolás</span> be van kapcsolva, akkor a <span class="gui">Képernyő zárolása ennyi elsötétítés után</span> legördülő listában módosíthatja az értéket.</p></li>
@@ -70,10 +70,10 @@
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Képernyőproblémák">Képernyőproblémák</a><span class="desc"> — Képernyő- és grafikai hibák elhárítása.</span>
+<a href="hardware-problems-graphics.html.hu" title="Képernyőproblémák">Képernyőproblémák</a><span class="desc"> — Képernyő- és grafikai hibák elhárítása.</span>
 </li>
 <li class="links ">
-<a href="prefs-display.html" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Háttér</a></span>, <span class="link"><a href="look-resolution.html" title="A képernyő felbontásának vagy forgatásának módosítása">méret és elforgatás</a></span>, fényerő…</span>
+<a href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — <span class="link"><a href="look-background.html.hu" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Háttér</a></span>, <span class="link"><a href="look-resolution.html.hu" title="A képernyő felbontásának vagy forgatásának módosítása">méret és elforgatás</a></span>, fényerő…</span>
 </li>
 </ul></div>
 </div></div>
@@ -81,11 +81,11 @@
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Képernyő automatikus zárolása">Képernyő automatikus zárolása</a><span class="desc"> — Mások megakadályozása a számítógép használatában, mialatt nincs a számítógépénél.</span>
+<a href="privacy-screen-lock.html.hu" title="Képernyő automatikus zárolása">Képernyő automatikus zárolása</a><span class="desc"> — Mások megakadályozása a számítógép használatában, mialatt nincs a számítógépénél.</span>
 </li>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Képernyő zárolása">Képernyő zárolása</a></li>
+<li class="links "><a href="shell-exit.html.hu#lock-screen" title="Képernyő zárolása">Képernyő zárolása</a></li>
 <li class="links ">
-<a href="display-blank.html" title="Képernyő-elsötétítés idejének megadása">Képernyő-elsötétítés idejének megadása</a><span class="desc"> — A képernyő-elsötétítés idejének megadásával energiát spórolhat.</span>
+<a href="display-blank.html.hu" title="Képernyő-elsötétítés idejének megadása">Képernyő-elsötétítés idejének megadása</a><span class="desc"> — A képernyő-elsötétítés idejének megadásával energiát spórolhat.</span>
 </li>
 </ul></div>
 </div></div>

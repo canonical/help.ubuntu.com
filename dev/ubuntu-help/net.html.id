@@ -43,58 +43,58 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Networking, web &amp; email</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html" title="Jaringan Nirkabel">Jaringan Nirkabel</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html" title="Menyambung ke jaringan nirkabel">Menyambung ke wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Mengapa jaringan nirkabel saya terputus terus?">Memutus</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wireless.html.id" title="Jaringan Nirkabel">Jaringan Nirkabel</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Menyambung ke wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.id" title="Mengapa jaringan nirkabel saya terputus terus?">Memutus</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="sharing.html" title="Berbagi">Berbagi</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html" title="Berbagi desktop Anda">Berbagi desktop</a></span>, <span class="link"><a href="files-share.html" title="Berbagi berkas lewat surel">Berbagi berkas lewat surel</a></span>, <span class="link"><a href="sharing-media.html" title="Berbagi pakai musik, foto, dan video Anda">Berbagi media</a></span>…</span></div>
+<div class="links-grid-link"><a href="sharing.html.id" title="Berbagi">Berbagi</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html.id" title="Berbagi desktop Anda">Berbagi desktop</a></span>, <span class="link"><a href="files-share.html.id" title="Berbagi berkas lewat surel">Berbagi berkas lewat surel</a></span>, <span class="link"><a href="sharing-media.html.id" title="Berbagi pakai musik, foto, dan video Anda">Berbagi media</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-chat.html" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a></div>
+<div class="links-grid-link"><a href="net-chat.html.id" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-chat-empathy.html" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Video calls">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="How can I use Skype on Ubuntu?">install skype</a></span>
+      <span class="link"><a href="net-chat-empathy.html.id" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.id" title="Video calls">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.id" title="How can I use Skype on Ubuntu?">install skype</a></span>
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html" title="Jaringan Kabel">Jaringan Kabel</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html" title="Menyambung ke suatu jaringan (Ethernet) kabel">Koneksi internet melalui kabel</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Buat suatu koneksi dengan suatu alamat IP yang tetap">Alamat IP tetap</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wired.html.id" title="Jaringan Kabel">Jaringan Kabel</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.id" title="Menyambung ke suatu jaringan (Ethernet) kabel">Koneksi internet melalui kabel</a></span>, <span class="link"><a href="net-fixed-ip-address.html.id" title="Buat suatu koneksi dengan suatu alamat IP yang tetap">Alamat IP tetap</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="contacts.html" title="Kontak">Kontak</a></div>
+<div class="links-grid-link"><a href="contacts.html.id" title="Kontak">Kontak</a></div>
 <div class="desc"><span class="desc">Akses kontak Anda.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-problem.html" title="Masalah jaringan">Masalah jaringan</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Pelacak masalah jaringan nirkabel">Melacak masalah koneksi nirkabel</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">menemukan jaringan wifi Anda</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Melacak masalah koneksi nirkabel</a></span>, <span class="link"><a href="net-wireless-find.html.id" title="I can’t see my wireless network in the list">menemukan jaringan wifi Anda</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-general.html" title="Networking terms &amp; tips">Networking terms &amp; tips</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html" title="Temukan alamat IP Anda">Mencari tahu alamat IP Anda</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Apa arti WEP dan WPA?">keamanan WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Apa itu alamat MAC?">alamat MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Menentukan pengaturan proksi">proksi</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-general.html.id" title="Networking terms &amp; tips">Networking terms &amp; tips</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.id" title="Temukan alamat IP Anda">Mencari tahu alamat IP Anda</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">keamanan WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html.id" title="Apa itu alamat MAC?">alamat MAC</a></span>, <span class="link"><a href="net-proxy.html.id" title="Menentukan pengaturan proksi">proksi</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html" title="Peramban Web">Peramban Web</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Ubah peramban baku</a></span>, <span class="link"><a href="net-install-flash.html" title="Install the Flash plug-in">pasang Flash</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-browser.html.id" title="Peramban Web">Peramban Web</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.id" title="Change which web browser opens websites by default">Ubah peramban baku</a></span>, <span class="link"><a href="net-install-flash.html.id" title="Install the Flash plug-in">pasang Flash</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-email.html" title="Surel &amp; perangkat lunak surel">Surel &amp; perangkat lunak surel</a></div>
+<div class="links-grid-link"><a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">Surel &amp; perangkat lunak surel</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-email.html" title="Ubah aplikasi surel mana yang dipakai untuk menulis surel">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html" title="Do I need to scan my emails for viruses?">Should I scan for viruses?</a></span>…
+      <span class="link"><a href="net-default-email.html.id" title="Ubah aplikasi surel mana yang dipakai untuk menulis surel">Default email apps</a></span>,
+      <span class="link"><a href="net-email-virus.html.id" title="Do I need to scan my emails for viruses?">Should I scan for viruses?</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-security.html" title="Tetap aman di internet">Tetap aman di internet</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html" title="Apakah saya perlu perangkat lunak anti virus?">Perangkat lunak anti virus</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Aktifkan atau blok akses firewall">firewall dasar</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Port jaringan yang biasa dipakai">port firewall</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-security.html.id" title="Tetap aman di internet">Tetap aman di internet</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html.id" title="Apakah saya perlu perangkat lunak anti virus?">Perangkat lunak anti virus</a></span>, <span class="link"><a href="net-firewall-on-off.html.id" title="Aktifkan atau blok akses firewall">firewall dasar</a></span>, <span class="link"><a href="net-firewall-ports.html.id" title="Port jaringan yang biasa dipakai">port firewall</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -102,11 +102,11 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Panduan Desktop Ubuntu">Panduan Desktop Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.id" title="Panduan Desktop Ubuntu">Panduan Desktop Ubuntu</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-get-online.html" title="Menuju daring">Tutorial cara daring</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-get-online.html.id" title="Menuju daring">Tutorial cara daring</a></li></ul></div>
 </div></div>
 </div>
 </div>

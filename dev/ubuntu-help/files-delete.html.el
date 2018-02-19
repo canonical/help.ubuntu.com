@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#common-file-tasks" title="Κοινές εργασίες">Κοινές εργασίες</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#common-file-tasks" title="Κοινές εργασίες">Κοινές εργασίες</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Διαγραφή αρχείων και φακέλων</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Εάν δεν θέλετε ένα αρχείο ή φάκελο, μπορείτε να το διαγράψετε. Όταν διαγράφετε ένα αντικείμενο μετακινείται στον φάκελο <span class="gui">Απορρίμματα</span>, όπου αποθηκεύεται μέχρι να τα αδειάσετε. Μπορείτε να <span class="link"><a href="files-recover.html" title="Επαναφορά αρχείων από τα απορρίμματα">επαναφέρετε αντικείμενα</a></span> από τον φάκελο <span class="gui">Απορρίμματα</span> στην αρχική τους θέση εάν αποφασίσετε ότι τα χρειάζεστε, ή εάν διαγράφηκαν κατά λάθος.</p>
+<p class="p">Εάν δεν θέλετε ένα αρχείο ή φάκελο, μπορείτε να το διαγράψετε. Όταν διαγράφετε ένα αντικείμενο μετακινείται στον φάκελο <span class="gui">Απορρίμματα</span>, όπου αποθηκεύεται μέχρι να τα αδειάσετε. Μπορείτε να <span class="link"><a href="files-recover.html.el" title="Επαναφορά αρχείων από τα απορρίμματα">επαναφέρετε αντικείμενα</a></span> από τον φάκελο <span class="gui">Απορρίμματα</span> στην αρχική τους θέση εάν αποφασίσετε ότι τα χρειάζεστε, ή εάν διαγράφηκαν κατά λάθος.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Για να στείλετε ένα αρχείο στα απορρίμματα:</span></h2></div>
 <div class="region"><ol class="steps">
@@ -75,7 +75,7 @@
 <li class="steps"><p class="p">Επειδή δεν μπορείτε να το αναιρέσετε, θα ερωτηθείτε για επιβεβαίωση ότι θέλετε να διαγράψετε το αρχείο ή τον φάκελο.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Τα διαγραμμένα αρχεία σε μια <span class="link"><a href="files.html#removable" title="Αφαιρούμενοι οδηγοί και εξωτερικοί δίσκοι">αφαιρούμενη συσκευή</a></span> μπορεί να μην είναι ορατά σε άλλα λειτουργικά συστήματα, όπως Windows ή Mac. Τα αρχεία είναι ακόμα εκεί και θα είναι διαθέσιμα όταν συνδέσετε τη συσκευή πίσω στον υπολογιστή σας.</p></div></div></div></div>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Τα διαγραμμένα αρχεία σε μια <span class="link"><a href="files.html.el#removable" title="Αφαιρούμενοι οδηγοί και εξωτερικοί δίσκοι">αφαιρούμενη συσκευή</a></span> μπορεί να μην είναι ορατά σε άλλα λειτουργικά συστήματα, όπως Windows ή Mac. Τα αρχεία είναι ακόμα εκεί και θα είναι διαθέσιμα όταν συνδέσετε τη συσκευή πίσω στον υπολογιστή σας.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -83,15 +83,15 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Κοινές εργασίες">Κοινές εργασίες</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.el#common-file-tasks" title="Κοινές εργασίες">Κοινές εργασίες</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-recover.html" title="Επαναφορά αρχείων από τα απορρίμματα">Επαναφορά αρχείων από τα απορρίμματα</a><span class="desc"> — Τα διαγραμμένα αρχεία κανονικά στέλνονται στα απορρίμματα, αλλά μπορούν να ανακτηθούν.</span>
+<a href="files-recover.html.el" title="Επαναφορά αρχείων από τα απορρίμματα">Επαναφορά αρχείων από τα απορρίμματα</a><span class="desc"> — Τα διαγραμμένα αρχεία κανονικά στέλνονται στα απορρίμματα, αλλά μπορούν να ανακτηθούν.</span>
 </li>
-<li class="links "><a href="nautilus-behavior.html#trash" title="Απορρίμματα">Προτιμήσεις απορριμμάτων του διαχειριστή αρχείων</a></li>
+<li class="links "><a href="nautilus-behavior.html.el#trash" title="Απορρίμματα">Προτιμήσεις απορριμμάτων του διαχειριστή αρχείων</a></li>
 </ul></div>
 </div></div>
 </div>

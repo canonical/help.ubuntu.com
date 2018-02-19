@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Εκκίνηση εφαρμογών</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Μετακινήστε τον δείκτη ποντικιού στη γωνία <span class="gui">Δραστηριότητες</span> πάνω αριστερά στην οθόνη για να εμφανίσετε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>. Από εκεί μπορείτε να βρείτε όλες τις εφαρμογές σας. Μπορείτε επίσης να ανοίξετε την επισκόπηση πατώντας το πλήκτρο <span class="key"><a href="keyboard-key-super.html" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span></p>
+<p class="p">Μετακινήστε τον δείκτη ποντικιού στη γωνία <span class="gui">Δραστηριότητες</span> πάνω αριστερά στην οθόνη για να εμφανίσετε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>. Από εκεί μπορείτε να βρείτε όλες τις εφαρμογές σας. Μπορείτε επίσης να ανοίξετε την επισκόπηση πατώντας το πλήκτρο <span class="key"><a href="keyboard-key-super.html.el" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span></p>
 <p class="p">There are several ways of opening an application once you’re in the
   <span class="gui">Activities</span> overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
@@ -59,11 +59,11 @@
       to type an related term. Click the application’s icon to start it.</p></li>
 <li class="list">
 <p class="p">Μερικές εφαρμογές έχουν εικονίδια στο <span class="em">ταμπλό</span>, την κάθετη λουρίδα εικονιδίων στα αριστερά της επισκόπησης <span class="gui">Δραστηριότητες</span>. Κάντε κλικ σε ένα από αυτά για να ξεκινήσετε την αντίστοιχη εφαρμογή.</p>
-<p class="p">Εάν έχετε εφαρμογές που χρησιμοποιείτε πολύ συχνά, μπορείτε να <span class="link"><a href="shell-apps-favorites.html" title="Βάλτε τις αγαπημένες σας εφαρμογές στο ταμπλό">τις προσθέσετε στο ταμπλό</a></span>.</p>
+<p class="p">Εάν έχετε εφαρμογές που χρησιμοποιείτε πολύ συχνά, μπορείτε να <span class="link"><a href="shell-apps-favorites.html.el" title="Βάλτε τις αγαπημένες σας εφαρμογές στο ταμπλό">τις προσθέσετε στο ταμπλό</a></span>.</p>
 </li>
 <li class="list"><p class="p">Κάντε κλικ στο κουμπί πλέγματος στο κάτω μέρος του ταμπλό. Θα δείτε τις συχνά χρησιμοποιούμενες εφαρμογές αν η προβολή <span class="gui">Συχνά</span> είναι ενεργή. Αν θέλετε να εκτελέσετε μια νέα εφαρμογή, πατήστε το κουμπί <span class="gui">Όλα</span> στο κάτω μέρος για την προβολή όλων των εφαρμογών. Πατήστε σε μια εφαρμογή για την εκκίνησή της.</p></li>
 <li class="list">
-<p class="p">Μπορείτε να εκκινήσετε μια εφαρμογή σε έναν ξεχωριστό <span class="link"><a href="shell-workspaces.html" title="Τι είναι ένας χώρος εργασίας και πώς θα με βοηθήσει;">χώρο εργασίας</a></span> μεταφέροντας το εικονίδιο τους από το ταμπλό και αποθέτοντας την σε έναν από τους χώρους εργασίας στα δεξιά της οθόνης. Η εφαρμογή θα ανοίξει στον επιλεγμένο χώρο εργασίας.</p>
+<p class="p">Μπορείτε να εκκινήσετε μια εφαρμογή σε έναν ξεχωριστό <span class="link"><a href="shell-workspaces.html.el" title="Τι είναι ένας χώρος εργασίας και πώς θα με βοηθήσει;">χώρο εργασίας</a></span> μεταφέροντας το εικονίδιο τους από το ταμπλό και αποθέτοντας την σε έναν από τους χώρους εργασίας στα δεξιά της οθόνης. Η εφαρμογή θα ανοίξει στον επιλεγμένο χώρο εργασίας.</p>
 <p class="p">Μπορείτε να εκκινήσετε μια εφαρμογή σε ένα <span class="em">νέο</span> χώρο, μεταφέροντας το εικονίδιο στον κενό χώρο εργασίας κάτω από τον εναλλάκτη, ή ανάμεσα στο μικρό κενό μεταξύ δύο χώρων εργασίας.</p>
 </li>
 </ul></div></div></div>
@@ -85,18 +85,18 @@
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html" title="Η επιφάνεια εργασία σας">Η επιφάνεια εργασία σας</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Συναντήσεις ημερολογίου">Ημερολόγιο</a></span>, <span class="link"><a href="shell-notifications.html" title="Ειδοποιήσεις και η περιοχή ειδοποιήσεων">ειδοποιήσεις</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Χρήσιμες συντομεύσεις πληκτρολογίου">συντομεύσεις πληκτρολογίου</a></span>, <span class="link"><a href="shell-windows.html" title="Παράθυρα και χώροι εργασίας">παράθυρα και χώροι εργασίας</a></span>…</span>
+<a href="shell-overview.html.el" title="Η επιφάνεια εργασία σας">Η επιφάνεια εργασία σας</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.el" title="Συναντήσεις ημερολογίου">Ημερολόγιο</a></span>, <span class="link"><a href="shell-notifications.html.el" title="Ειδοποιήσεις και η περιοχή ειδοποιήσεων">ειδοποιήσεις</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.el" title="Χρήσιμες συντομεύσεις πληκτρολογίου">συντομεύσεις πληκτρολογίου</a></span>, <span class="link"><a href="shell-windows.html.el" title="Παράθυρα και χώροι εργασίας">παράθυρα και χώροι εργασίας</a></span>…</span>
 </li>
-<li class="links "><a href="index.html" title="Οδηγός χρήσης Ubuntu">Οδηγός χρήσης Ubuntu</a></li>
+<li class="links "><a href="index.html.el" title="Οδηγός χρήσης Ubuntu">Οδηγός χρήσης Ubuntu</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-use-system-search.html" title="Χρησιμοποιήστε το σύστημα αναζήτησης">Ένα μάθημα στη χρήση του συστήματος αναζήτησης</a></li>
-<li class="links "><a href="gs-launch-applications.html" title="Εκκίνηση εφαρμογών">Ένα μάθημα στην εκκίνηση εφαρμογών</a></li>
+<li class="links "><a href="gs-use-system-search.html.el" title="Χρησιμοποιήστε το σύστημα αναζήτησης">Ένα μάθημα στη χρήση του συστήματος αναζήτησης</a></li>
+<li class="links "><a href="gs-launch-applications.html.el" title="Εκκίνηση εφαρμογών">Ένα μάθημα στην εκκίνηση εφαρμογών</a></li>
 <li class="links ">
-<a href="shell-apps-favorites.html" title="Βάλτε τις αγαπημένες σας εφαρμογές στο ταμπλό">Βάλτε τις αγαπημένες σας εφαρμογές στο ταμπλό</a><span class="desc"> — Προσθέστε (ή αφαιρέστε) εικονίδια προγραμμάτων που χρησιμοποιούνται συχνά στο ταμπλό.</span>
+<a href="shell-apps-favorites.html.el" title="Βάλτε τις αγαπημένες σας εφαρμογές στο ταμπλό">Βάλτε τις αγαπημένες σας εφαρμογές στο ταμπλό</a><span class="desc"> — Προσθέστε (ή αφαιρέστε) εικονίδια προγραμμάτων που χρησιμοποιούνται συχνά στο ταμπλό.</span>
 </li>
 </ul></div>
 </div></div>

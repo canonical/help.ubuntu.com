@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hitta en borttappad fil</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">Om du skapat eller hämtat en fil men inte kan hitta den, följ dessa tips.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Om du inte kommer ihåg var du sparade filen, men har en idé om vad du kallade den kan du <span class="link"><a href="files-search.html" title="Sök efter filer">söka efter filen efter namn</a></span>.</p></li>
+<li class="list"><p class="p">Om du inte kommer ihåg var du sparade filen, men har en idé om vad du kallade den kan du <span class="link"><a href="files-search.html.sv" title="Sök efter filer">söka efter filen efter namn</a></span>.</p></li>
 <li class="list"><p class="p">Om du nyss hämtade filen kan din webbläsare automatiskt ha sparat den till en gemensam mapp. Kontrollera mapparna <span class="file">Skrivbord</span> och <span class="file">Hämtningar</span> i din hemmapp.</p></li>
-<li class="list"><p class="p">Du kan av misstag ha tagit bort filen. När du tar bort en fil flyttas den till papperskorgen där den stannar kvar tills du manuellt tömmer papperskorgen. Se <span class="link"><a href="files-recover.html" title="Återskapa en fil från Papperskorgen">Återskapa en fil från Papperskorgen</a></span> för att lära dig hur du återställer en borttagen fil.</p></li>
-<li class="list"><p class="p">Du kan ha bytt namn på filen på ett sätt som gjort filen dold. Filer som börjar med en <span class="file">.</span> eller slutar med ett <span class="file">~</span> är gömda för filhanteraren. Klicka på knappen visningsalternativ i verktygsfältet i <span class="app">Filer</span> och aktivera <span class="gui">Visa dolda filer</span> för att visa dem. Se <span class="link"><a href="files-hidden.html" title="Dölj en fil">Dölj en fil</a></span> för att lära dig mer.</p></li>
+<li class="list"><p class="p">Du kan av misstag ha tagit bort filen. När du tar bort en fil flyttas den till papperskorgen där den stannar kvar tills du manuellt tömmer papperskorgen. Se <span class="link"><a href="files-recover.html.sv" title="Återskapa en fil från Papperskorgen">Återskapa en fil från Papperskorgen</a></span> för att lära dig hur du återställer en borttagen fil.</p></li>
+<li class="list"><p class="p">Du kan ha bytt namn på filen på ett sätt som gjort filen dold. Filer som börjar med en <span class="file">.</span> eller slutar med ett <span class="file">~</span> är gömda för filhanteraren. Klicka på knappen visningsalternativ i verktygsfältet i <span class="app">Filer</span> och aktivera <span class="gui">Visa dolda filer</span> för att visa dem. Se <span class="link"><a href="files-hidden.html.sv" title="Dölj en fil">Dölj en fil</a></span> för att lära dig mer.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,12 +62,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sv#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-recover.html" title="Återskapa en fil från Papperskorgen">Återskapa en fil från Papperskorgen</a><span class="desc"> — Borttagna filer skickas normalt till Papperskorgen, men kan återställas.</span>
+<a href="files-recover.html.sv" title="Återskapa en fil från Papperskorgen">Återskapa en fil från Papperskorgen</a><span class="desc"> — Borttagna filer skickas normalt till Papperskorgen, men kan återställas.</span>
 </li></ul></div>
 </div></div>
 </div>

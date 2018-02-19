@@ -44,20 +44,20 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="media.html" title="Son, images et vidéos">Son, images et vidéos</a> › <a class="trail" href="media.html#photos" title="Photos et appareils numériques">Photos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="media.html.fr" title="Son, images et vidéos">Son, images et vidéos</a> › <a class="trail" href="media.html.fr#photos" title="Photos et appareils numériques">Photos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> › <a class="trail" href="hardware.html#problems" title="Problèmes connus">Problèmes</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> › <a class="trail" href="hardware.html.fr#problems" title="Problèmes connus">Problèmes</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problèmes de lecteurs de cartes de données</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Beaucoup d'ordinateurs sont équipés de lecteurs de cartes aux formats SD, MMC, SM, MS, CF et autres médias de stockage. Ceux-ci sont normalement détectés et <span class="link"><a href="disk-partitions.html" title="Gestion des volumes et des partitions">montés</a></span> automatiquement. S'ils ne le sont pas, voici quelques conseils de dépannage :</p>
+<p class="p">Beaucoup d'ordinateurs sont équipés de lecteurs de cartes aux formats SD, MMC, SM, MS, CF et autres médias de stockage. Ceux-ci sont normalement détectés et <span class="link"><a href="disk-partitions.html.fr" title="Gestion des volumes et des partitions">montés</a></span> automatiquement. S'ils ne le sont pas, voici quelques conseils de dépannage :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Vérifiez que la carte est correctement insérée. Beaucoup de cartes ont l'air d'être à l'envers lorsqu'elles sont correctement insérées. Vérifiez aussi que la carte soit fermement positionnée dans son logement ; il faut parfois forcer un peu pour insérer certaines cartes, surtout les CF (attention de ne pas trop forcer ! Si vous butez sur quelque chose de dur, arrêtez).</p></li>
 <li class="steps"><p class="p">Open <span class="app">Files</span> from the
-  <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview. Does the inserted
+  <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview. Does the inserted
   card appear in the <span class="gui">Devices</span> list in the left sidebar? Sometimes the
   card appears in this list but is not mounted; click it once to mount. (If the
   sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
@@ -72,8 +72,8 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#photos" title="Photos et appareils numériques">Photos</a></li>
-<li class="links "><a href="hardware.html#problems" title="Problèmes connus">Problèmes matériels</a></li>
+<li class="links "><a href="media.html.fr#photos" title="Photos et appareils numériques">Photos</a></li>
+<li class="links "><a href="hardware.html.fr#problems" title="Problèmes connus">Problèmes matériels</a></li>
 </ul></div>
 </div></div></div>
 </div>

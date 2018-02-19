@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="prefs-display.html" title="Monitor &amp; tela">Monitor &amp; tela</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="prefs-display.html.pt-BR" title="Monitor &amp; tela">Monitor &amp; tela</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Alterando a resolução ou rotação da tela</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Você pode alterar quão grande (ou quão detalhadas) as coisas aparecem na tela alterando a <span class="em">resolução da tela</span>. Você pode alterar em que direção elas aparecem (por exemplo, se você tiver girado o monitor) alterando a <span class="em">rotação</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Telas</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Telas</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Telas</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Se você tem múltiplos monitores e eles não estão espelhados, você pode ter configurações diferentes em cada monitor. Selecione um monitor na área de visualização.</p></li>
 <li class="steps"><p class="p">Selecione a resolução e rotação.</p></li>
@@ -62,7 +62,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Resolução</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">A resolução é a quantidade de pixels (pontos na tela) em cada direção que se pode exibir. Cada resolução tem uma <span class="em">taxa de proporção</span>, a razão entre a largura e a altura. Monitores de tela larga usam uma taxa de proporção de 16:9, enquanto os tradicionais usam 4:3. Se você escolher uma resolução que não tenha a taxa de proporção do seu monitor, a tela terá faixas pretas para evitar distorção, adicionando barras pretas no topo e baixo ou ambas laterais da tela.</p>
-<p class="p">Você pode escolher a resolução que preferir na lista suspensa <span class="gui">Resolução</span>. Se escolher uma que não é certa para a sua tela, ela pode <span class="link"><a href="look-display-fuzzy.html" title="Por que as coisas parecem borradas/quadriculadas na minha tela?">exibir borrada ou quadriculada</a></span>.</p>
+<p class="p">Você pode escolher a resolução que preferir na lista suspensa <span class="gui">Resolução</span>. Se escolher uma que não é certa para a sua tela, ela pode <span class="link"><a href="look-display-fuzzy.html.pt-BR" title="Por que as coisas parecem borradas/quadriculadas na minha tela?">exibir borrada ou quadriculada</a></span>.</p>
 </div></div>
 </div></div>
 <div id="rotation" class="sect"><div class="inner">
@@ -75,13 +75,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Monitor &amp; tela">Monitor &amp; tela</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Alterando o plano de fundo da área de trabalho e tela de bloqueio">Plano de fundo</a></span>, <span class="link"><a href="look-resolution.html" title="Alterando a resolução ou rotação da tela">tamanho e rotação</a></span>, brilho…</span>
+<a href="prefs-display.html.pt-BR" title="Monitor &amp; tela">Monitor &amp; tela</a><span class="desc"> — <span class="link"><a href="look-background.html.pt-BR" title="Alterando o plano de fundo da área de trabalho e tela de bloqueio">Plano de fundo</a></span>, <span class="link"><a href="look-resolution.html.pt-BR" title="Alterando a resolução ou rotação da tela">tamanho e rotação</a></span>, brilho…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-display-fuzzy.html" title="Por que as coisas parecem borradas/quadriculadas na minha tela?">Por que as coisas parecem borradas/quadriculadas na minha tela?</a><span class="desc"> — A resolução da tela pode estar configurada incorretamente.</span>
+<a href="look-display-fuzzy.html.pt-BR" title="Por que as coisas parecem borradas/quadriculadas na minha tela?">Por que as coisas parecem borradas/quadriculadas na minha tela?</a><span class="desc"> — A resolução da tela pode estar configurada incorretamente.</span>
 </li></ul></div>
 </div></div>
 </div>

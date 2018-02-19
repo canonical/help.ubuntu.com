@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="tips.html" title="Trucs et astuces">Trucs et astuces</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="tips.html.fr" title="Trucs et astuces">Trucs et astuces</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Captures d'écran et vidéo d'écran</span></h1></div>
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open <span class="app">Screenshot</span> from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview.</p></li>
 <li class="steps"><p class="p">Dans la fenêtre <span class="app">Capture d'écran</span>, choisissez si vous voulez copier tout l'écran, la fenêtre active ou une zone de l'écran. Définissez un délai si vous avez besoin de sélectionner une fenêtre ou de définir la taille de votre bureau pour la capture d'écran. Puis choisissez les effets que vous souhaitez.</p></li>
 <li class="steps">
 <p class="p">Cliquez sur <span class="gui">Prendre une capture d'écran</span>.</p>
@@ -101,7 +101,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Trucs et astuces">Trucs et astuces</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Saisie de caractères spéciaux">Caractères spéciaux</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Clic milieu">raccourcis du clic milieu</a></span>…</span>
+<a href="tips.html.fr" title="Trucs et astuces">Trucs et astuces</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.fr" title="Saisie de caractères spéciaux">Caractères spéciaux</a></span>, <span class="link"><a href="mouse-middleclick.html.fr" title="Clic milieu">raccourcis du clic milieu</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

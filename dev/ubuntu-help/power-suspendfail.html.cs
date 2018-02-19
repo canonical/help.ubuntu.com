@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Běžné problémy">Problémy</a> » <a class="trail" href="power.html#problems" title="Problémy">Problémy s napájením</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html.cs#problems" title="Běžné problémy">Problémy</a> » <a class="trail" href="power.html.cs#problems" title="Problémy">Problémy s napájením</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Běžné problémy">Problémy</a> » <a class="trail" href="hardware-problems-graphics.html" title="Problémy s obrazovkou">Problémy s obrazovkou</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html.cs#problems" title="Běžné problémy">Problémy</a> » <a class="trail" href="hardware-problems-graphics.html.cs" title="Problémy s obrazovkou">Problémy s obrazovkou</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Proč se můj počítač nechce znovu zapnout po jeho uspání?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Když svůj počítač <span class="link"><a href="power-suspend.html" title="Co se stane, když svůj počítač uspím?">uspíte do paměti</a></span>, a pak jej zkusíte probudit, můžete zjistit, že nepracuje, jak by měl. To může být způsobené tím, že příslušný režim uspání váš hardware správně nepodporuje.</p></div>
+<div class="contents"><p class="p">Když svůj počítač <span class="link"><a href="power-suspend.html.cs" title="Co se stane, když svůj počítač uspím?">uspíte do paměti</a></span>, a pak jej zkusíte probudit, můžete zjistit, že nepracuje, jak by měl. To může být způsobené tím, že příslušný režim uspání váš hardware správně nepodporuje.</p></div>
 <div id="resume" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Můj počítač se uspí a už se neprobudí</span></h2></div>
 <div class="region"><div class="contents">
@@ -66,7 +66,7 @@
 <div id="hardware" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Moje bezdrátové připojeni (nebo jiný hardware) nefunguje, když můj počítač probudím</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Když uspíte svůj počítač do paměti a pak jej opět probudíte, můžete zjistit, že nefunguje správně internetové připojení, myš nebo jiné zařízení. To může být tím, že ovladač zařízení nepodporuje správně uspávání. Je to čistě <span class="link"><a href="hardware-driver.html" title="Co je to ovladač?">problém ovladače</a></span> a ne zařízení samotného.</p>
+<p class="p">Když uspíte svůj počítač do paměti a pak jej opět probudíte, můžete zjistit, že nefunguje správně internetové připojení, myš nebo jiné zařízení. To může být tím, že ovladač zařízení nepodporuje správně uspávání. Je to čistě <span class="link"><a href="hardware-driver.html.cs" title="Co je to ovladač?">problém ovladače</a></span> a ne zařízení samotného.</p>
 <p class="p">Pokud má zařízení vypínač napájení, zkuste jej vypnout a pak zapnout. Ve většině případů začne znovu fungovat. Pokud je připojeno přes kabel USB nebo podobný, odpojte je a pak znovu připojte a podívejte se, jestli funguje.</p>
 <p class="p">Pokud nemůžete vypnout/odpojit zařízení nebo zařízení nefunguje, můžete zkusit počítač restartovat a tím zařízení znovu přivést k činnosti.</p>
 </div></div>
@@ -78,10 +78,10 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power.html#problems" title="Problémy">Problémy s napájením</a><span class="desc"> — Jak řešit problémy s napájením a bateriemi.</span>
+<a href="power.html.cs#problems" title="Problémy">Problémy s napájením</a><span class="desc"> — Jak řešit problémy s napájením a bateriemi.</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Problémy s obrazovkou">Problémy s obrazovkou</a><span class="desc"> — Jak řešit problémy s obrazovkou a grafikou.</span>
+<a href="hardware-problems-graphics.html.cs" title="Problémy s obrazovkou">Problémy s obrazovkou</a><span class="desc"> — Jak řešit problémy s obrazovkou a grafikou.</span>
 </li>
 </ul></div>
 </div></div>
@@ -89,19 +89,19 @@
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-driver.html" title="Co je to ovladač?">Co je to ovladač?</a><span class="desc"> — Ovladače hardwaru/zařízení umožňují vašemu počítači používat zařízení, která jsou k němu připojená.</span>
+<a href="hardware-driver.html.cs" title="Co je to ovladač?">Co je to ovladač?</a><span class="desc"> — Ovladače hardwaru/zařízení umožňují vašemu počítači používat zařízení, která jsou k němu připojená.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Co se stane, když svůj počítač uspím?">Co se stane, když svůj počítač uspím?</a><span class="desc"> — Uspáním se pozastaví běh vašeho počítač, aby se snížila spotřeba.</span>
+<a href="power-suspend.html.cs" title="Co se stane, když svůj počítač uspím?">Co se stane, když svůj počítač uspím?</a><span class="desc"> — Uspáním se pozastaví běh vašeho počítač, aby se snížila spotřeba.</span>
 </li>
 <li class="links ">
-<a href="power-hibernate.html" title="Jak mohu uspat svůj počítač na disk?">Jak mohu uspat svůj počítač na disk?</a><span class="desc"> — Režim spánku (hibernace) není ve výchozím nastavení zapnuta, jelikož nemá dobrou podporu.</span>
+<a href="power-hibernate.html.cs" title="Jak mohu uspat svůj počítač na disk?">Jak mohu uspat svůj počítač na disk?</a><span class="desc"> — Režim spánku (hibernace) není ve výchozím nastavení zapnuta, jelikož nemá dobrou podporu.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="Po probuzení počítače nemám žádnou bezdrátovou síť">Po probuzení počítače nemám žádnou bezdrátovou síť</a><span class="desc"> — Některá bezdrátová zařízení mají problém s přechodem počítače do stavu spánku a nesprávně pak obnoví svou činnost.</span>
+<a href="power-nowireless.html.cs" title="Po probuzení počítače nemám žádnou bezdrátovou síť">Po probuzení počítače nemám žádnou bezdrátovou síť</a><span class="desc"> — Některá bezdrátová zařízení mají problém s přechodem počítače do stavu spánku a nesprávně pak obnoví svou činnost.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="Proč se můj počítač vypne, když zavřu víko?">Proč se můj počítač vypne, když zavřu víko?</a><span class="desc"> — Noteboky se po zavření víka uspávají, aby ušetřily energii.</span>
+<a href="power-closelid.html.cs" title="Proč se můj počítač vypne, když zavřu víko?">Proč se můj počítač vypne, když zavřu víko?</a><span class="desc"> — Noteboky se po zavření víka uspávají, aby ušetřily energii.</span>
 </li>
 </ul></div>
 </div></div>

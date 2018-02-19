@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#backup" title="Zálohování">Zálohování</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#backup" title="Zálohování">Zálohování</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Obnovení ze zálohy</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Když přijdete o některé své soubory nebo je smažete, ale máte jejich zálohu, můžete je ze zálohy obnovit:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Pokud chcete obnovit svoje zazálohované soubory ze zařízení, jako je externí pevný disk, flashdisk nebo jiný počítač na síti, můžete <span class="link"><a href="files-copy.html" title="Kopírování a přesun souborů a složek">je nakopírovat</a></span> zpět do svého počítače.</p></li>
+<li class="list"><p class="p">Pokud chcete obnovit svoje zazálohované soubory ze zařízení, jako je externí pevný disk, flashdisk nebo jiný počítač na síti, můžete <span class="link"><a href="files-copy.html.cs" title="Kopírování a přesun souborů a složek">je nakopírovat</a></span> zpět do svého počítače.</p></li>
 <li class="list"><p class="p">Pokud jste vytvořili zálohu pomocí zálohovací aplikace, jako je <span class="app">Déjà Dup</span>, je doporučeno použít k obnově ze zálohy tu stejnou aplikaci. Podívejte se do nápovědy ke své zálohovací aplikaci, budou v ní konkrétní instrukce, jak soubory obnovit.</p></li>
 </ul></div></div></div>
 </div>
@@ -59,7 +59,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Zálohování">Zálohování</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.cs#backup" title="Zálohování">Zálohování</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

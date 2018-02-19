@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="prefs-display.html" title="காட்சி &amp; திரை">காட்சி &amp; திரை</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="prefs-display.html.ta" title="காட்சி &amp; திரை">காட்சி &amp; திரை</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Change the desktop and lock screen backgrounds</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can change the image used for your backgrounds or set it to a be a
+<p class="p">You can change the image used for your backgrounds or set it to be a
   solid color.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Background</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Background</span> to open the panel.</p></li>
 <li class="steps"><p class="p"><span class="gui">உயர் நிறம் மாறுபாடு</span> என்பதை <span class="gui">இயக்கு</span> என அமைக்கவும்.</p></li>
@@ -75,7 +75,7 @@
 </ul></div></div></div>
 </li>
 <li class="steps"><p class="p">அமைவுகள் உடனடியாக செயல்படுத்தப்படும்.</p></li>
-<li class="steps"><p class="p">உங்கள் பணிமேசை முழுவதையும் காண <span class="link"><a href="shell-workspaces-switch.html" title="பணியிடங்களிடையே மாறுதல்">காலி பணியிடத்திற்கு மாறுக</a></span>.</p></li>
+<li class="steps"><p class="p">உங்கள் பணிமேசை முழுவதையும் காண <span class="link"><a href="shell-workspaces-switch.html.ta" title="பணியிடங்களிடையே மாறுதல்">காலி பணியிடத்திற்கு மாறுக</a></span>.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -84,12 +84,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="காட்சி &amp; திரை">காட்சி &amp; திரை</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">பின்புலம்</a></span>, <span class="link"><a href="look-resolution.html" title="திரையில் உள்ள உரையின் அளவை மாற்றுங்கள்">அளவு மற்றும் சுழற்சி</a></span>, பிரகாசம்…</span>
+<a href="prefs-display.html.ta" title="காட்சி &amp; திரை">காட்சி &amp; திரை</a><span class="desc"> — <span class="link"><a href="look-background.html.ta" title="Change the desktop and lock screen backgrounds">பின்புலம்</a></span>, <span class="link"><a href="look-resolution.html.ta" title="திரையில் உள்ள உரையின் அளவை மாற்றுங்கள்">அளவு மற்றும் சுழற்சி</a></span>, பிரகாசம்…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-change-wallpaper.html" title="சுவர்ச்சித்திரத்தை மாற்றவும்">சுவர்சித்திரத்தை மாற்றுவதற்கான பயிற்சி</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-change-wallpaper.html.ta" title="சுவர்ச்சித்திரத்தை மாற்றவும்">சுவர்சித்திரத்தை மாற்றுவதற்கான பயிற்சி</a></li></ul></div>
 </div></div>
 </div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="privacy.html" title="Nastavení soukromí">Nastavení soukromí</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="privacy.html.cs" title="Nastavení soukromí">Nastavení soukromí</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Vypnutí sledování historie souborů</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Soukromí</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Soukromí</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Soukromí</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Vyberte <span class="gui">Použití a historie</span>.</p></li>
 <li class="steps">
@@ -71,7 +71,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Omezení doby, po kterou je soubor s historií schraňován</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Soukromí</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Soukromí</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Soukromí</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Vyberte <span class="gui">Použití a historie</span>.</p></li>
 <li class="steps"><p class="p">Ujistěte se, že je vypínač <span class="gui">Nedávno použité</span> přepnutý na <span class="gui">❙</span> (zapnuto).</p></li>
@@ -86,9 +86,9 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy.html" title="Nastavení soukromí">Nastavení soukromí</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Automatické zamykání obrazovky">Zamknutí obrazovky</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Vypněte nebo omezte sledování historie souborů">použití a historie</a></span>, <span class="link"><a href="privacy-purge.html" title="Vysypání koše a smazání dočasných souborů">vysypání koše a dočasných souborů</a></span>…</span>
+<a href="privacy.html.cs" title="Nastavení soukromí">Nastavení soukromí</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.cs" title="Automatické zamykání obrazovky">Zamknutí obrazovky</a></span>, <span class="link"><a href="privacy-history-recent-off.html.cs" title="Vypněte nebo omezte sledování historie souborů">použití a historie</a></span>, <span class="link"><a href="privacy-purge.html.cs" title="Vysypání koše a smazání dočasných souborů">vysypání koše a dočasných souborů</a></span>…</span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a></li>
+<li class="links "><a href="files.html.cs#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a></li>
 </ul></div>
 </div></div></div>
 </div>

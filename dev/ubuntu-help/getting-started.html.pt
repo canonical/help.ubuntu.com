@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Primeiros passos</span></h1></div>
@@ -115,20 +115,20 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links title-heading"><h2><span class="title">Tarefas comuns</span></h2></div>
 <div class="region">
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html" title="Alterar a data, hora e fuso horário">Alterar a data, hora e fuso horário</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html" title="Alterar o papel de parede">Alterar o papel de parede</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html" title="Ligar a contas online">Ligar a contas online</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html" title="Navegar na Internet">Navegar na Internet</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html" title="Usando janelas e espaços de trabalho">Usando janelas e espaços de trabalho</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html" title="Use a procura do sistema">Use a procura do sistema</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html" title="Alternando tarefas">Alternando tarefas</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html" title="Executar aplicações">Executar aplicações </a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html" title="Fique online">Fique online</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html.pt" title="Alterar a data, hora e fuso horário">Alterar a data, hora e fuso horário</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html.pt" title="Alterar o papel de parede">Alterar o papel de parede</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html.pt" title="Ligar a contas online">Ligar a contas online</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html.pt" title="Navegar na Internet">Navegar na Internet</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html.pt" title="Usando janelas e espaços de trabalho">Usando janelas e espaços de trabalho</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html.pt" title="Use a procura do sistema">Use a procura do sistema</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html.pt" title="Alternando tarefas">Alternando tarefas</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html.pt" title="Executar aplicações">Executar aplicações </a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html.pt" title="Fique online">Fique online</a></div></div>
 </div>
 </div></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title title-links"><h2><span class="title"></span></h2></div>
-<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></div></li></ul></div>
+<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html.pt" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></div></li></ul></div>
 </div></div>
 </div></div>
 <div class="clear"></div>

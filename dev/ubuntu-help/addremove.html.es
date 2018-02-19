@@ -43,29 +43,29 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Instalar y eliminar software</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html" title="Desinstalar una aplicación"><span class="title">Desinstalar una aplicación</span><span class="linkdiv-dash"> — </span><span class="desc">Eliminar aplicaciones que ya no usa.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-install.html" title="Instalar aplicaciones adicionales"><span class="title">Instalar aplicaciones adicionales</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Ubuntu Software</span> para instalar aplicaciones adiciones y hacer a Ubuntu más útil.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html" title="Añadir repositorios de software"><span class="title">Añadir repositorios de software</span><span class="linkdiv-dash"> — </span><span class="desc">Añadir repositorios para ampliar los origenes de software que Ubuntu usa para instalaciones y actualizaciones.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html" title="Añadir un repositorio de paquetes personal (PPA)"><span class="title">Añadir un repositorio de paquetes personal (PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">Añadir PPAs para ampliar los origenes de software que Ubuntu usa para instalaciones y actualizaciones.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html.es" title="Desinstalar una aplicación"><span class="title">Desinstalar una aplicación</span><span class="linkdiv-dash"> — </span><span class="desc">Eliminar aplicaciones que ya no usa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.es" title="Instalar aplicaciones adicionales"><span class="title">Instalar aplicaciones adicionales</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Ubuntu Software</span> para instalar aplicaciones adiciones y hacer a Ubuntu más útil.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html.es" title="Añadir repositorios de software"><span class="title">Añadir repositorios de software</span><span class="linkdiv-dash"> — </span><span class="desc">Añadir repositorios para ampliar los origenes de software que Ubuntu usa para instalaciones y actualizaciones.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html.es" title="Añadir un repositorio de paquetes personal (PPA)"><span class="title">Añadir un repositorio de paquetes personal (PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">Añadir PPAs para ampliar los origenes de software que Ubuntu usa para instalaciones y actualizaciones.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html" title="Use Synaptic para una gestión de software más avanzada"><span class="title">Use Synaptic para una gestión de software más avanzada</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic es una herramienta potente pero compleja de gestión de software que puede emplearse como alternativa a <span class="app">Ubuntu Software</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Crear un disco de arranque"><span class="title">Crear un disco de arranque</span><span class="linkdiv-dash"> — </span><span class="desc">Convertir un disco flash USB en una unidad desde la que puede arrancar e instalar Ubuntu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html" title="Instalar idiomas"><span class="title">Instalar idiomas</span><span class="linkdiv-dash"> — </span><span class="desc">Instalar más traducciones y paquetes relacionados con idiomas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.es" title="Use Synaptic para una gestión de software más avanzada"><span class="title">Use Synaptic para una gestión de software más avanzada</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic es una herramienta potente pero compleja de gestión de software que puede emplearse como alternativa a <span class="app">Ubuntu Software</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.es" title="Crear un disco de arranque"><span class="title">Crear un disco de arranque</span><span class="linkdiv-dash"> — </span><span class="desc">Convertir un disco flash USB en una unidad desde la que puede arrancar e instalar Ubuntu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html.es" title="Instalar idiomas"><span class="title">Instalar idiomas</span><span class="linkdiv-dash"> — </span><span class="desc">Instalar más traducciones y paquetes relacionados con idiomas.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Guía del escritorio de Ubuntu">Guía del escritorio de Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.es" title="Guía del escritorio de Ubuntu">Guía del escritorio de Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

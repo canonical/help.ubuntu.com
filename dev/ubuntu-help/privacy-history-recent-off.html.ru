@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ru" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html.ru#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="privacy.html" title="Параметры конфиденциальности">Параметры конфиденциальности</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="privacy.html.ru" title="Параметры конфиденциальности">Параметры конфиденциальности</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Turn off file history tracking</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Privacy</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Конфиденциальность</span> чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Выберите <span class="gui">Статистика и история</span>.</p></li>
@@ -76,7 +76,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Restrict the amount of time your file history is tracked</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Privacy</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Конфиденциальность</span> чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Выберите <span class="gui">Статистика и история</span>.</p></li>
@@ -94,9 +94,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
+<li class="links "><a href="files.html.ru#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
 <li class="links ">
-<a href="privacy.html" title="Параметры конфиденциальности">Параметры конфиденциальности</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Автоматическая блокировка экрана">Блокировка экрана</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Turn off or limit file history tracking">Статистика использования</a></span>, <span class="link"><a href="privacy-purge.html" title="Очистка корзины и удаление временных файлов">Очистка корзины и удаление временных файлов</a></span>…</span>
+<a href="privacy.html.ru" title="Параметры конфиденциальности">Параметры конфиденциальности</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.ru" title="Автоматическая блокировка экрана">Блокировка экрана</a></span>, <span class="link"><a href="privacy-history-recent-off.html.ru" title="Turn off or limit file history tracking">Статистика использования</a></span>, <span class="link"><a href="privacy-purge.html.ru" title="Очистка корзины и удаление временных файлов">Очистка корзины и удаление временных файлов</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

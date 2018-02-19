@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="mouse.html" title="Mus">Mus</a> › <a class="trail" href="mouse.html#problems" title="Vanliga problem">Vanliga problem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="mouse.html.sv" title="Mus">Mus</a> › <a class="trail" href="mouse.html.sv#problems" title="Vanliga problem">Vanliga problem</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="mouse.html" title="Mus">Mus</a> › <a class="trail" href="mouse.html#problems" title="Vanliga problem">Vanliga problem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="mouse.html.sv" title="Mus">Mus</a> › <a class="trail" href="mouse.html.sv#problems" title="Vanliga problem">Vanliga problem</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Muspekaren rör sig inte</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Kontrollera att musen är ansluten">Kontrollera att musen är ansluten</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Kontrollera att musen verkligen fungerar">Kontrollera att musen verkligen fungerar</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Kontrollera trådlösa möss">Kontrollera trådlösa möss</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.sv#plugged-in" title="Kontrollera att musen är ansluten">Kontrollera att musen är ansluten</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.sv#broken" title="Kontrollera att musen verkligen fungerar">Kontrollera att musen verkligen fungerar</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.sv#wireless-mice" title="Kontrollera trådlösa möss">Kontrollera trådlösa möss</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Kontrollera att musen är ansluten</span></h2></div>
@@ -76,8 +76,8 @@
 <div class="region"><div class="contents">
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Säkerställ att musen är påslagen. Det finns ofta en knapp på undersidan av musen som slår av musen helt så att du kan ta den med dig utan att den vaknar upp hela tiden.</p></li>
-<li class="list"><p class="p">Om du använder en Bluetooth-mus, försäkra dig om att du verkligen har parat ihop musen med din dator. Se <span class="link"><a href="bluetooth-connect-device.html" title="Anslut din dator till en Bluetooth-enhet">Anslut din dator till en Bluetooth-enhet</a></span>.</p></li>
-<li class="list"><p class="p">Klicka med en knapp och se om muspekaren flyttar sig nu. Vissa trådlösa möss kan försättas i strömsparläge för att spara ström, så de kan sluta svara tills du klicka med en knapp. Se <span class="link"><a href="mouse-wakeup.html" title="Musen reagerar med fördröjning innan den börjar fungera">Musen reagerar med fördröjning innan den börjar fungera</a></span>.</p></li>
+<li class="list"><p class="p">Om du använder en Bluetooth-mus, försäkra dig om att du verkligen har parat ihop musen med din dator. Se <span class="link"><a href="bluetooth-connect-device.html.sv" title="Anslut din dator till en Bluetooth-enhet">Anslut din dator till en Bluetooth-enhet</a></span>.</p></li>
+<li class="list"><p class="p">Klicka med en knapp och se om muspekaren flyttar sig nu. Vissa trådlösa möss kan försättas i strömsparläge för att spara ström, så de kan sluta svara tills du klicka med en knapp. Se <span class="link"><a href="mouse-wakeup.html.sv" title="Musen reagerar med fördröjning innan den börjar fungera">Musen reagerar med fördröjning innan den börjar fungera</a></span>.</p></li>
 <li class="list"><p class="p">Kontrollera att musens batteri är laddat.</p></li>
 <li class="list"><p class="p">Säkerställ att mottagaren (adapter) är ordentligt ansluten till datorn.</p></li>
 <li class="list"><p class="p">Om din mus och mottagare kan användas på olika radiokanaler, kontrollera att båda är inställda på samma kanal.</p></li>
@@ -90,7 +90,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Vanliga problem">Vanliga musproblem</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.sv#problems" title="Vanliga problem">Vanliga musproblem</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

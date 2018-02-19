@@ -43,65 +43,65 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Networking, web &amp; email</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html" title="Redes sen fíos">Redes sen fíos</a></div>
+<div class="links-grid-link"><a href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-connect.html" title="Conectar cunha rede sen fíos">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Conectar a unha rede sen fíos oculta">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Porque a miña rede sen fíos permanece desconectada?">Disconnecting</a></span>…
+      <span class="link"><a href="net-wireless-connect.html.gl-GL" title="Conectar cunha rede sen fíos">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.gl-GL" title="Porque a miña rede sen fíos permanece desconectada?">Disconnecting</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="sharing.html" title="Compartir">Compartir</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html" title="Compartir o meu escritorio remoto">Compartición de escritorio</a></span>, <span class="link"><a href="files-share.html" title="Compartir ficheiro por correo electrónico">Compartir ficheiros por correo</a></span>, <span class="link"><a href="sharing-media.html" title="Comparta a súa música, fotos e vídeos">Compartición multimedia</a></span>…</span></div>
+<div class="links-grid-link"><a href="sharing.html.gl-GL" title="Compartir">Compartir</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html.gl-GL" title="Compartir o meu escritorio remoto">Compartición de escritorio</a></span>, <span class="link"><a href="files-share.html.gl-GL" title="Compartir ficheiro por correo electrónico">Compartir ficheiros por correo</a></span>, <span class="link"><a href="sharing-media.html.gl-GL" title="Comparta a súa música, fotos e vídeos">Compartición multimedia</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="contacts.html" title="Contactos">Contactos</a></div>
+<div class="links-grid-link"><a href="contacts.html.gl-GL" title="Contactos">Contactos</a></div>
 <div class="desc"><span class="desc">Acceder aos seus contactos.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-chat.html" title="Conversas e redes sociais">Conversas e redes sociais</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-chat-empathy.html" title="Mensaxería instantánea con Ubuntu">Conversar en calquera rede con <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html" title="Chamadas de vídeo">facer chamadas de vídeo</a></span>, <span class="link"><a href="net-chat-skype.html" title="Cómo usar Skype en Ubuntu?">instalar skype</a></span></span></div>
+<div class="links-grid-link"><a href="net-chat.html.gl-GL" title="Conversas e redes sociais">Conversas e redes sociais</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-chat-empathy.html.gl-GL" title="Mensaxería instantánea con Ubuntu">Conversar en calquera rede con <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.gl-GL" title="Chamadas de vídeo">facer chamadas de vídeo</a></span>, <span class="link"><a href="net-chat-skype.html.gl-GL" title="Cómo usar Skype en Ubuntu?">instalar skype</a></span></span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-security.html" title="Manterse seguro na Internet">Manterse seguro na Internet</a></div>
+<div class="links-grid-link"><a href="net-security.html.gl-GL" title="Manterse seguro na Internet">Manterse seguro na Internet</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-antivirus.html" title="Preciso un software antivirus?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Activar ou bloquear o acceso á devasa">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Portos de rede usados frecuentemente">firewall ports</a></span>…
+      <span class="link"><a href="net-antivirus.html.gl-GL" title="Preciso un software antivirus?">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.gl-GL" title="Activar ou bloquear o acceso á devasa">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.gl-GL" title="Portos de rede usados frecuentemente">firewall ports</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html" title="Navegadores web">Navegadores web</a></div>
+<div class="links-grid-link"><a href="net-browser.html.gl-GL" title="Navegadores web">Navegadores web</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="Instalar o engadido de Flash">install Flash</a></span>…
+      <span class="link"><a href="net-default-browser.html.gl-GL" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-install-flash.html.gl-GL" title="Instalar o engadido de Flash">install Flash</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-problem.html" title="Problemas de rede">Problemas de rede</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos">Resolución de erros en redes sen fíos</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">atopar a súa rede sen fíos</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-problem.html.gl-GL" title="Problemas de rede">Problemas de rede</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de erros en redes sen fíos</a></span>, <span class="link"><a href="net-wireless-find.html.gl-GL" title="I can’t see my wireless network in the list">atopar a súa rede sen fíos</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html" title="Rede con cable">Rede con cable</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html" title="Conectar a unha rede cableada (Ethernet)">Conexións de Internet con fíos</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Crear unha conexión cunha enderezo IP fixo">Enderezos IP fixos</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wired.html.gl-GL" title="Rede con cable">Rede con cable</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.gl-GL" title="Conectar a unha rede cableada (Ethernet)">Conexións de Internet con fíos</a></span>, <span class="link"><a href="net-fixed-ip-address.html.gl-GL" title="Crear unha conexión cunha enderezo IP fixo">Enderezos IP fixos</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-email.html" title="Software de correo electrónico">Software de correo electrónico</a></div>
+<div class="links-grid-link"><a href="net-email.html.gl-GL" title="Software de correo electrónico">Software de correo electrónico</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-email.html" title="Cambiar o aplicativo de correo electrónico que se usa para escribir correos">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html" title="Preciso analizar os meus correos electrónicos por virus?">Should I scan for viruses?</a></span>…
+      <span class="link"><a href="net-default-email.html.gl-GL" title="Cambiar o aplicativo de correo electrónico que se usa para escribir correos">Default email apps</a></span>,
+      <span class="link"><a href="net-email-virus.html.gl-GL" title="Preciso analizar os meus correos electrónicos por virus?">Should I scan for viruses?</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-general.html" title="Termos e consellos sobre redes">Termos e consellos sobre redes</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="web.html#connections" title="web#connections">Conexións de rede</a></span>, <span class="link"><a href="web.html#chat" title="web#chat">iniciar conversas</a></span>, <span class="link"><a href="web.html#email" title="web#email">contas de correo electrónico</a></span>, <span class="link"><a href="web.html#browser" title="web#browser">engadidos</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-general.html.gl-GL" title="Termos e consellos sobre redes">Termos e consellos sobre redes</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="web.html.gl-GL#connections" title="web#connections">Conexións de rede</a></span>, <span class="link"><a href="web.html.gl-GL#chat" title="web#chat">iniciar conversas</a></span>, <span class="link"><a href="web.html.gl-GL#email" title="web#email">contas de correo electrónico</a></span>, <span class="link"><a href="web.html.gl-GL#browser" title="web#browser">engadidos</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -109,11 +109,11 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Guia do escritorio Ubuntu">Guia do escritorio Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.gl-GL" title="Guia do escritorio Ubuntu">Guia do escritorio Ubuntu</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-get-online.html" title="Conectarse a Internet">Un titorial sobre como conectarse a Internet</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-get-online.html.gl-GL" title="Conectarse a Internet">Un titorial sobre como conectarse a Internet</a></li></ul></div>
 </div></div>
 </div>
 </div>

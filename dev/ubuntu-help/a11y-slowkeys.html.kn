@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html" title="ಕೀಲಿಮಣೆ">ಕೀಲಿಮಣೆ</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.kn" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.kn" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html.kn" title="ಕೀಲಿಮಣೆ">ಕೀಲಿಮಣೆ</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="ಜಾಗತಿಕ ನಿಲುಕಣೆ">ಜಾಗತಿಕ ನಿಲುಕಣೆ</a> › <a class="trail" href="a11y.html#mobility" title="Mobility impairments">Mobility impairments</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.kn" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.kn" title="ಜಾಗತಿಕ ನಿಲುಕಣೆ">ಜಾಗತಿಕ ನಿಲುಕಣೆ</a> › <a class="trail" href="a11y.html.kn#mobility" title="Mobility impairments">Mobility impairments</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">ಸಿದ್ಧತೆಗಳು</a> » <a class="trail" href="keyboard.html" title="ಕೀಲಿಮಣೆ">ಕೀಲಿಮಣೆ</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.kn" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.kn" title="User &amp; system settings">ಸಿದ್ಧತೆಗಳು</a> » <a class="trail" href="keyboard.html.kn" title="ಕೀಲಿಮಣೆ">ಕೀಲಿಮಣೆ</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -62,7 +62,7 @@
   you type, or if you find it difficult to press the right key on the keyboard
   first time.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.kn#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Typing Assist (AccessX)</span> in the <span class="gui">Typing</span>
@@ -78,7 +78,7 @@
     you can press and hold <span class="key"><kbd>Shift</kbd></span> for eight seconds to enable or
     disable slow keys.</p>
 <p class="p">You can also turn slow keys on and off by clicking the
-    <span class="link"><a href="a11y-icon.html" title="Find the universal access menu">accessibility icon</a></span> on the top bar and
+    <span class="link"><a href="a11y-icon.html.kn" title="Find the universal access menu">accessibility icon</a></span> on the top bar and
     selecting <span class="gui">Slow Keys</span>. The accessibility icon is visible when
     one or more settings have been enabled from the <span class="gui">Universal Access</span>
     panel.</p>
@@ -95,12 +95,12 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">ಇನ್ನಷ್ಟು ಮಾಹಿತಿ</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Mobility impairments">Mobility impairments</a></li>
+<li class="links "><a href="a11y.html.kn#mobility" title="Mobility impairments">Mobility impairments</a></li>
 <li class="links ">
-<a href="keyboard.html" title="ಕೀಲಿಮಣೆ">ಕೀಲಿಮಣೆ</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html" title="Make the keyboard cursor blink">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html#mobility" title="Mobility impairments">keyboard accessibility</a></span>…
+<a href="keyboard.html.kn" title="ಕೀಲಿಮಣೆ">ಕೀಲಿಮಣೆ</a><span class="desc"> — 
+      <span class="link"><a href="keyboard-layouts.html.kn" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.kn" title="Make the keyboard cursor blink">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html.kn#mobility" title="Mobility impairments">keyboard accessibility</a></span>…
     </span>
 </li>
 </ul></div>

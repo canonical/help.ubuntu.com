@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="color.html" title="Gerenciamento de cores">Gerenciamento de cores</a> › <a class="trail" href="color.html#profiles" title="Perfis de cores">Perfis de cores</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="color.html.pt-BR" title="Gerenciamento de cores">Gerenciamento de cores</a> › <a class="trail" href="color.html.pt-BR#profiles" title="Perfis de cores">Perfis de cores</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="color.html" title="Gerenciamento de cores">Gerenciamento de cores</a> › <a class="trail" href="color.html#profiles" title="Perfis de cores">Perfis de cores</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="color.html.pt-BR" title="Gerenciamento de cores">Gerenciamento de cores</a> › <a class="trail" href="color.html.pt-BR#profiles" title="Perfis de cores">Perfis de cores</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -63,25 +63,25 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Perfis de cores">Perfis de cores</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.pt-BR#profiles" title="Perfis de cores">Perfis de cores</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Como atribuo perfis a dispositivos?">Como atribuo perfis a dispositivos?</a><span class="desc"> — Procure em <span class="guiseq"><span class="gui">Configurações</span> ▸ <span class="gui">Cor</span></span> para adicionar um perfil de cor para sua tela.</span>
+<a href="color-assignprofiles.html.pt-BR" title="Como atribuo perfis a dispositivos?">Como atribuo perfis a dispositivos?</a><span class="desc"> — Procure em <span class="guiseq"><span class="gui">Configurações</span> ▸ <span class="gui">Cor</span></span> para adicionar um perfil de cor para sua tela.</span>
 </li>
 <li class="links ">
-<a href="color-canshareprofiles.html" title="Como compartilho meu perfil de cores?">Como compartilho meu perfil de cores?</a><span class="desc"> — Compartilhar seus perfis de cores nunca é uma boa ideia, já que o hardware muda com o passar do tempo.</span>
+<a href="color-canshareprofiles.html.pt-BR" title="Como compartilho meu perfil de cores?">Como compartilho meu perfil de cores?</a><span class="desc"> — Compartilhar seus perfis de cores nunca é uma boa ideia, já que o hardware muda com o passar do tempo.</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html" title="Como importo perfis de cores?">Como importo perfis de cores?</a><span class="desc"> — Perfis de cores podem ser importados abrindo-os.</span>
+<a href="color-howtoimport.html.pt-BR" title="Como importo perfis de cores?">Como importo perfis de cores?</a><span class="desc"> — Perfis de cores podem ser importados abrindo-os.</span>
 </li>
 <li class="links ">
-<a href="color-whatisspace.html" title="O que é um espaço de cores?">O que é um espaço de cores?</a><span class="desc"> — Um espaço de cores é uma faixa definida de cores.</span>
+<a href="color-whatisspace.html.pt-BR" title="O que é um espaço de cores?">O que é um espaço de cores?</a><span class="desc"> — Um espaço de cores é uma faixa definida de cores.</span>
 </li>
 <li class="links ">
-<a href="color-gettingprofiles.html" title="Onde consigo perfis de cores?">Onde consigo perfis de cores?</a><span class="desc"> — Os perfis de cores são fornecidos por fabricantes e podem ser criados por você.</span>
+<a href="color-gettingprofiles.html.pt-BR" title="Onde consigo perfis de cores?">Onde consigo perfis de cores?</a><span class="desc"> — Os perfis de cores são fornecidos por fabricantes e podem ser criados por você.</span>
 </li>
 </ul></div>
 </div></div>

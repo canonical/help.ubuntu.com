@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="power.html" title="Energia e bateria">Energia e bateria</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="power.html.pt" title="Energia e bateria">Energia e bateria</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="power.html" title="Energia e bateria">Energia e bateria</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> » <a class="trail" href="power.html.pt" title="Energia e bateria">Energia e bateria</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Quando <span class="em">suspende</span> a computador, o envia a dormir. Todos as aplicações e os documentos permanecem abertos, mas o ecrã e outras partes da computador se apagam para poupar energia. A computador no entanto segue ignição e ainda vai utilizar uma pequena quantidade de energia. Pode ativá-lo clicando uma tecla ou o rato. Se isso não funciona, tente pressionar o botão de ignição.</p>
-<p class="p">Alguns computadores têm problemas de hardware o que significa que <span class="link"><a href="power-suspendfail.html" title="Por que minha computador não reage após o ter enviado suspendido?">podem não ser capazes de suspender adequadamente</a></span>. É uma boa ideia verificar a suspensão na sua computador para ver se funciona bem antes da usar.</p>
+<p class="p">Alguns computadores têm problemas de hardware o que significa que <span class="link"><a href="power-suspendfail.html.pt" title="Por que minha computador não reage após o ter enviado suspendido?">podem não ser capazes de suspender adequadamente</a></span>. É uma boa ideia verificar a suspensão na sua computador para ver se funciona bem antes da usar.</p>
 <div class="note note-important" title="Importante"><div class="inner">
 <div class="title title-note"><h2><span class="title">Guarde sempre seu trabalho antes de suspender</span></h2></div>
 <div class="region"><div class="contents"><p class="p">Deve guardar todo seu trabalho antes de suspender a computador, só por se algo fosse mau e seus aplicações e documentos abertos não se pudessem recuperar ao acender a computador de novo.</p></div></div>
@@ -66,24 +66,24 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Energia e bateria">Energia e bateria</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Verifique o estado da bateria">Estado da bateria</a></span>, <span class="link"><a href="power-suspend.html" title="Que ocorre quando suspendo a computador?">suspender</a></span>, <span class="link"><a href="power-whydim.html" title="Por que meu ecrã se escurece após um tempo?">enfraquecimento do ecrã</a></span>…</span>
+<a href="power.html.pt" title="Energia e bateria">Energia e bateria</a><span class="desc"> — <span class="link"><a href="power-status.html.pt" title="Verifique o estado da bateria">Estado da bateria</a></span>, <span class="link"><a href="power-suspend.html.pt" title="Que ocorre quando suspendo a computador?">suspender</a></span>, <span class="link"><a href="power-whydim.html.pt" title="Por que meu ecrã se escurece após um tempo?">enfraquecimento do ecrã</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html" title="Configurar a suspensão automática">Configurar a suspensão automática</a><span class="desc"> — Configurar o seu computador para que se suspenda automaticamente</span>
+<a href="power-autosuspend.html.pt" title="Configurar a suspensão automática">Configurar a suspensão automática</a><span class="desc"> — Configurar o seu computador para que se suspenda automaticamente</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Por que minha computador não reage após o ter enviado suspendido?">Por que minha computador não reage após o ter enviado suspendido?</a><span class="desc"> — Alguns componentes hardware da computador dão problemas ao suspender.</span>
+<a href="power-suspendfail.html.pt" title="Por que minha computador não reage após o ter enviado suspendido?">Por que minha computador não reage após o ter enviado suspendido?</a><span class="desc"> — Alguns componentes hardware da computador dão problemas ao suspender.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="Por que se apaga minha computador quando fecho a tampa?">Por que se apaga minha computador quando fecho a tampa?</a><span class="desc"> — Os portáteis suspendem-se quando se fecha a tampa para poupar energia.</span>
+<a href="power-closelid.html.pt" title="Por que se apaga minha computador quando fecho a tampa?">Por que se apaga minha computador quando fecho a tampa?</a><span class="desc"> — Os portáteis suspendem-se quando se fecha a tampa para poupar energia.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Suspender">Suspender</a></li>
+<li class="links "><a href="shell-exit.html.pt#suspend" title="Suspender">Suspender</a></li>
 <li class="links ">
-<a href="power-batterylife.html" title="Utilizar menos energia e melhorar a vida da bateria">Utilizar menos energia e melhorar a vida da bateria</a><span class="desc"> — Conselhos para reduzir o consumo de energia da sua computador.</span>
+<a href="power-batterylife.html.pt" title="Utilizar menos energia e melhorar a vida da bateria">Utilizar menos energia e melhorar a vida da bateria</a><span class="desc"> — Conselhos para reduzir o consumo de energia da sua computador.</span>
 </li>
 </ul></div>
 </div></div>

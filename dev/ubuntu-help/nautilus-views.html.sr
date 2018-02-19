@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a> » <a class="trail" href="nautilus-prefs.html" title="Поставке управника датотека">Поставке управника датотека</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.sr" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html.sr#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a> » <a class="trail" href="nautilus-prefs.html.sr" title="Поставке управника датотека">Поставке управника датотека</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Прикажите поставке у <span class="app">Датотекама</span></span></h1></div>
@@ -55,7 +55,7 @@
 <dt class="terms"><span class="gui">Поређај ставке</span></dt>
 <dd class="terms">
 <p class="p">Можете да измените основни начин ређања који је коришћен у фасциклама користећи падајући списак <span class="gui">Поређај ставке</span> у поставкама да поређате према називу, величини датотеке, врсти датотеке, према времену последње измене, према времену последњег приступа или према времену њиховог бацања у смеће.</p>
-<p class="p">Можете да измените начин на који су <span class="link"><a href="files-sort.html" title="Поређајте датотеке и фасцикле">поређане датотеке</a></span> у засебној фасцикли тако што ћете кликнути на дугме опција прегледа на траци алата и изабрати <span class="gui">Назив</span>, <span class="gui">Величина</span>, <span class="gui">Врста</span> или <span class="gui">Последња измена</span>, или кликом на заглавља колоне списка у прегледу списком.</p>
+<p class="p">Можете да измените начин на који су <span class="link"><a href="files-sort.html.sr" title="Поређајте датотеке и фасцикле">поређане датотеке</a></span> у засебној фасцикли тако што ћете кликнути на дугме опција прегледа на траци алата и изабрати <span class="gui">Назив</span>, <span class="gui">Величина</span>, <span class="gui">Врста</span> или <span class="gui">Последња измена</span>, или кликом на заглавља колоне списка у прегледу списком.</p>
 </dd>
 <dt class="terms"><span class="gui">Поређај фасцикле пре датотека</span></dt>
 <dd class="terms"><p class="p">По основи, управник датотека више не приказује све фасцикле пре датотека. Да видите све фасцикле наведене пре датотека, укључите ову могућност.</p></dd>
@@ -66,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Поставке управника датотека">Поставке управника датотека</a><span class="desc"> — Прегледајте и подесите поставке разгледача датотека.</span>
+<a href="nautilus-prefs.html.sr" title="Поставке управника датотека">Поставке управника датотека</a><span class="desc"> — Прегледајте и подесите поставке разгледача датотека.</span>
 </li></ul></div>
 </div></div></div>
 </div>

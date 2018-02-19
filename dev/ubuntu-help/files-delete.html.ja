@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html#common-file-tasks" title="よく行う操作">よく行う操作</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ja" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html.ja#common-file-tasks" title="よく行う操作">よく行う操作</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ファイル、フォルダーを削除する</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">If you do not want a file or folder any more, you can delete it. When you
   delete an item it is moved to the <span class="gui">Trash</span> folder, where it is stored
-  until you empty the trash. You can <span class="link"><a href="files-recover.html" title="ゴミ箱からファイルを元に戻す">restore
+  until you empty the trash. You can <span class="link"><a href="files-recover.html.ja" title="ゴミ箱からファイルを元に戻す">restore
   items</a></span> in the <span class="gui">Trash</span> folder to their original location if you
   decide you need them, or if they were accidentally deleted.</p>
 <div class="steps"><div class="inner">
@@ -80,7 +80,7 @@
 <li class="steps"><p class="p">この操作は元に戻すことができないため、そのファイルやフォルダーを削除してもよいかどうかを確認するメッセージが表示されます。</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="link"><a href="files.html#removable" title="リムーバブルドライブと外付けディスク">リムーバブルデバイス</a></span>で削除したファイルは、Windows や Mac OS など他のオペレーティングシステムでは見えることがあります。そうしたファイルは、まだそこに残っており、コンピューターにデバイスを挿し直せばまた使用できます。</p></div></div></div></div>
+<div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="link"><a href="files.html.ja#removable" title="リムーバブルドライブと外付けディスク">リムーバブルデバイス</a></span>で削除したファイルは、Windows や Mac OS など他のオペレーティングシステムでは見えることがあります。そうしたファイルは、まだそこに残っており、コンピューターにデバイスを挿し直せばまた使用できます。</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -88,15 +88,15 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="よく行う操作">よく行う操作</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ja#common-file-tasks" title="よく行う操作">よく行う操作</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-recover.html" title="ゴミ箱からファイルを元に戻す">ゴミ箱からファイルを元に戻す</a><span class="desc"> — 削除したファイルは通常ではゴミ箱に移動しますが、それを元に戻すことができます。</span>
+<a href="files-recover.html.ja" title="ゴミ箱からファイルを元に戻す">ゴミ箱からファイルを元に戻す</a><span class="desc"> — 削除したファイルは通常ではゴミ箱に移動しますが、それを元に戻すことができます。</span>
 </li>
-<li class="links "><a href="nautilus-behavior.html#trash" title="ゴミ箱">ファイルマネージャーのゴミ箱設定</a></li>
+<li class="links "><a href="nautilus-behavior.html.ja#trash" title="ゴミ箱">ファイルマネージャーのゴミ箱設定</a></li>
 </ul></div>
 </div></div>
 </div>

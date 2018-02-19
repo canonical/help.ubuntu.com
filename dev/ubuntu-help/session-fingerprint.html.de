@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="hardware-auth.html" title="Fingerabdruckleser und Smartcards">Fingerabdruckleser und Smartcards</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="hardware-auth.html.de" title="Fingerabdruckleser und Smartcards">Fingerabdruckleser und Smartcards</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Anmelden per Fingerabdruck</span></h1></div>
@@ -54,9 +54,9 @@
 <div class="region"><div class="contents">
 <p class="p">Bevor Sie sich mit Ihrem Fingerabdruck anmelden können, müssen Sie zunächst den Fingerabdruck aufzeichnen, den das System zur Identifikation verwenden kann.</p>
 <div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Falls Ihr Finger zu trocken ist, könnte dies Probleme bei der Registrierung Ihres Fingerabdrucks verursachen. Sollte dies der Fall sein, befeuchten Sie Ihren Finger ein wenig, trocknen Sie ihn mit einem sauberen, faserfreien Tuch und probieren Sie es erneut.</p></div></div></div></div>
-<p class="p">Sie benötigen <span class="link"><a href="user-admin-explain.html" title="Wie funktionieren Systemverwalter-Privilegien?">Systemverwalterrechte</a></span>, um fremde Benutzerkonten zu bearbeiten.</p>
+<p class="p">Sie benötigen <span class="link"><a href="user-admin-explain.html.de" title="Wie funktionieren Systemverwalter-Privilegien?">Systemverwalterrechte</a></span>, um fremde Benutzerkonten zu bearbeiten.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Benutzer</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Benutzer</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Benutzer</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Deaktiviert</span> neben <span class="gui">Anmeldung mit Fingerabdruck</span>, um einen Fingerabdruck für das gewählte Konto hinzuzufügen. Wenn Sie dies für einen anderen Benutzer tun wollen, müssen Sie das Panel zunächst <span class="gui">entsperren</span>.</p></li>
 <li class="steps"><p class="p">Wählen Sie den Finger, den Sie für den Abdruck verwenden möchten, und klicken Sie dann auf <span class="gui">Weiter</span>.</p></li>
@@ -70,7 +70,7 @@
 <div class="region"><div class="contents">
 <p class="p">Stellen Sie nun sicher, dass die Anmeldung mit dem Fingerabdruck funktioniert. Wenn Sie einen Fingerabdruck registrieren, können Sie sich trotzdem mit Ihrem Passwort anmelden.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Speichern Sie offene Arbeit und <span class="link"><a href="shell-exit.html#logout" title="Abmelden oder Benutzer wechseln">melden Sie sich ab</a></span>.</p></li>
+<li class="steps"><p class="p">Speichern Sie offene Arbeit und <span class="link"><a href="shell-exit.html.de#logout" title="Abmelden oder Benutzer wechseln">melden Sie sich ab</a></span>.</p></li>
 <li class="steps"><p class="p">Wählen Sie Ihren Benutzernamen aus der Liste im Anmeldebildschirm. Das Passworteingabefeld erscheint.</p></li>
 <li class="steps"><p class="p">Anstatt Ihr Passwort einzugeben, sollten Sie nun in der Lage sein, mit dem Finger über Ihren Fingerabdruckleser zu wischen.</p></li>
 </ol></div></div></div>
@@ -81,7 +81,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-auth.html" title="Fingerabdruckleser und Smartcards">Fingerabdruckleser und Smartcards</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html" title="Anmelden per Fingerabdruck">Fingerabdruckleser</a></span>, Smartcards …</span>
+<a href="hardware-auth.html.de" title="Fingerabdruckleser und Smartcards">Fingerabdruckleser und Smartcards</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html.de" title="Anmelden per Fingerabdruck">Fingerabdruckleser</a></span>, Smartcards …</span>
 </li></ul></div>
 </div></div></div>
 </div>

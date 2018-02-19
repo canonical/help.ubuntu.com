@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="wacom.html" title="Графический планшет Wacom">Графический планшет Wacom</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="wacom.html.ru" title="Графический планшет Wacom">Графический планшет Wacom</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Управление графическим планшетом левой рукой</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">На некоторых графических планшетах кнопки расположены с одной стороны. Планшет можно развернуть на 180 градусов, чтобы кнопки было удобнее нажимать левой рукой. Чтобы изменить ориентацию планшета:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
     start typing <span class="gui">Wacom Tablet</span>.</p></li>
 <li class="steps">
 <p class="p">Нажмите <span class="gui">Планшет Wacom</span>, чтобы открыть этот раздел настроек.</p>
@@ -67,10 +67,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html" title="Графический планшет Wacom">Графический планшет Wacom</a><span class="desc"> — 
-      <span class="link"><a href="wacom-multi-monitor.html" title="Выбор монитора">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html" title="Настройка пера">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html" title="Управление графическим планшетом левой рукой">use the tablet left handed</a></span>…
+<a href="wacom.html.ru" title="Графический планшет Wacom">Графический планшет Wacom</a><span class="desc"> — 
+      <span class="link"><a href="wacom-multi-monitor.html.ru" title="Выбор монитора">Map a monitor</a></span>,
+      <span class="link"><a href="wacom-stylus.html.ru" title="Настройка пера">configure the stylus</a></span>,
+      <span class="link"><a href="wacom-left-handed.html.ru" title="Управление графическим планшетом левой рукой">use the tablet left handed</a></span>…
   </span>
 </li></ul></div>
 </div></div></div>

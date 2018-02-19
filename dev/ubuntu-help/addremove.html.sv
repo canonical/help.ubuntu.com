@@ -43,29 +43,29 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Installera &amp; ta bort mjukvara</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-install.html" title="Installera fler program"><span class="title">Installera fler program</span><span class="linkdiv-dash"> — </span><span class="desc">Använd <span class="app">Programvara för Ubuntu</span> för att lägga till program och göra Ubuntu mer användbart.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html" title="Ta bort ett program"><span class="title">Ta bort ett program</span><span class="linkdiv-dash"> — </span><span class="desc">Ta bort program som du inte längre använder.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html" title="Använd Synaptic för en mer avancerad programhantering"><span class="title">Använd Synaptic för en mer avancerad programhantering</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic är ett kraftfullt men komplicerat programhanteringsalternativ till <span class="app">Programvara för Ubuntu</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html" title="Lägg till ett Privat PaketArkiv (PPA)"><span class="title">Lägg till ett Privat PaketArkiv (PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">Lägg till PPAer för att utöka de programkällor Ubuntu använder för installationer och uppgraderingar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.sv" title="Installera fler program"><span class="title">Installera fler program</span><span class="linkdiv-dash"> — </span><span class="desc">Använd <span class="app">Programvara för Ubuntu</span> för att lägga till program och göra Ubuntu mer användbart.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html.sv" title="Ta bort ett program"><span class="title">Ta bort ett program</span><span class="linkdiv-dash"> — </span><span class="desc">Ta bort program som du inte längre använder.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.sv" title="Använd Synaptic för en mer avancerad programhantering"><span class="title">Använd Synaptic för en mer avancerad programhantering</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic är ett kraftfullt men komplicerat programhanteringsalternativ till <span class="app">Programvara för Ubuntu</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html.sv" title="Lägg till ett Privat PaketArkiv (PPA)"><span class="title">Lägg till ett Privat PaketArkiv (PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">Lägg till PPAer för att utöka de programkällor Ubuntu använder för installationer och uppgraderingar.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html" title="Lägg till fler programförråd"><span class="title">Lägg till fler programförråd</span><span class="linkdiv-dash"> — </span><span class="desc">Lägg till andra arkiv för att utöka de programkällor Ubuntu använder för installationer och uppgraderingar.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html" title="Installera språk"><span class="title">Installera språk</span><span class="linkdiv-dash"> — </span><span class="desc">Installera fler översättningar och relaterade språkstödspaket.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Skapa en startdisk"><span class="title">Skapa en startdisk</span><span class="linkdiv-dash"> — </span><span class="desc">Konvertera ett USB-minne till en enhet från vilken du kan starta och installera Ubuntu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html.sv" title="Lägg till fler programförråd"><span class="title">Lägg till fler programförråd</span><span class="linkdiv-dash"> — </span><span class="desc">Lägg till andra arkiv för att utöka de programkällor Ubuntu använder för installationer och uppgraderingar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html.sv" title="Installera språk"><span class="title">Installera språk</span><span class="linkdiv-dash"> — </span><span class="desc">Installera fler översättningar och relaterade språkstödspaket.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.sv" title="Skapa en startdisk"><span class="title">Skapa en startdisk</span><span class="linkdiv-dash"> — </span><span class="desc">Konvertera ett USB-minne till en enhet från vilken du kan starta och installera Ubuntu.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Handbok för Ubuntu-skrivbordet">Handbok för Ubuntu-skrivbordet</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.sv" title="Handbok för Ubuntu-skrivbordet">Handbok för Ubuntu-skrivbordet</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="mouse.html" title="Maus">Maus</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="mouse.html.de" title="Maus">Maus</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="mouse.html" title="Maus">Maus</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="mouse.html.de" title="Maus">Maus</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="region"><div class="contents">
 <p class="p">Sie können Ihr Tastfeld antippen, anstelle einen Knopf zu drücken.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Maus und Tastfeld</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Maus und Tastfeld</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Maus und Tastfeld</span>, um das Panel zu öffnen.</p></li>
 <li class="steps">
 <p class="p">Wählen Sie <span class="gui">Klopfen zum Klicken</span> im Abschnitt <span class="gui">Tastfeld</span>.</p>
@@ -69,8 +69,8 @@
 <li class="list"><p class="p">Zum Klicken klopfen Sie auf das Tastfeld.</p></li>
 <li class="list"><p class="p">Für einen Doppelklick klopfen Sie zweimal.</p></li>
 <li class="list"><p class="p">Um ein Objekt zu ziehen, klopfen Sie doppelt, aber heben Sie Ihren Finger danach nicht an. Ziehen Sie dann das Objekt an den gewünschten Platz und heben Sie Ihren Finger an, um es abzulegen.</p></li>
-<li class="list"><p class="p">Wenn Ihr Tastfeld das Klopfen mit mehreren Fingern unterstützt, klopfen Sie für einen Rechtsklick mit zwei Fingern gleichzeitig. Andernfalls müssen Sie für einen Rechtsklick die Tasten am Rechner benutzen. Siehe <span class="link"><a href="a11y-right-click.html" title="Einen Klick der rechten Maustaste simulieren">Einen Klick der rechten Maustaste simulieren</a></span> für eine Methode, um einen Rechtsklick ohne zweite Maustaste auszuführen.</p></li>
-<li class="list"><p class="p">Wenn Ihr Tastfeld das Klopfen mit mehreren Fingern unterstützt, führen Sie einen <span class="link"><a href="mouse-middleclick.html" title="Mittelklick">Mittelklick</a></span> aus, indem Sie mit drei Fingern gleichzeitig klopfen.</p></li>
+<li class="list"><p class="p">Wenn Ihr Tastfeld das Klopfen mit mehreren Fingern unterstützt, klopfen Sie für einen Rechtsklick mit zwei Fingern gleichzeitig. Andernfalls müssen Sie für einen Rechtsklick die Tasten am Rechner benutzen. Siehe <span class="link"><a href="a11y-right-click.html.de" title="Einen Klick der rechten Maustaste simulieren">Einen Klick der rechten Maustaste simulieren</a></span> für eine Methode, um einen Rechtsklick ohne zweite Maustaste auszuführen.</p></li>
+<li class="list"><p class="p">Wenn Ihr Tastfeld das Klopfen mit mehreren Fingern unterstützt, führen Sie einen <span class="link"><a href="mouse-middleclick.html.de" title="Mittelklick">Mittelklick</a></span> aus, indem Sie mit drei Fingern gleichzeitig klopfen.</p></li>
 </ul></div></div></div>
 <div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Wenn Sie mit mehreren Fingern klopfen oder ziehen, achten Sie darauf, dass Ihre Finger weit genug auseinander liegen. Wenn Ihre Finger zu nah beieinander sind, könnte der Rechner glauben, dass es sich um einen einzelnen Finger handelt.</p></div></div></div></div>
 </div></div>
@@ -80,7 +80,7 @@
 <div class="region"><div class="contents">
 <p class="p">Sie können mit Ihrem Tastfeld einen Bildlauf auslösen, indem Sie zwei Finger verwenden.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Maus und Tastfeld</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Maus und Tastfeld</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Maus und Tastfeld</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Wählen Sie <span class="gui">Bildlauf mit zwei Fingern</span> unter <span class="gui">Tastfeld</span>.</p></li>
 </ol></div></div></div>
@@ -93,7 +93,7 @@
 <div class="region"><div class="contents">
 <p class="p">Sie können Inhalte ziehen, wie wenn Sie auf dem Tastfeld über ein echtes Stück Papier gleiten würden.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Maus und Tastfeld</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Maus und Tastfeld</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Maus und Tastfeld</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Wählen Sie <span class="gui">Natürlicher Bildlauf</span> im Abschnitt <span class="gui">Tastfeld</span>.</p></li>
 </ol></div></div></div>
@@ -105,7 +105,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html" title="Maus">Maus</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Die Maus mit der linken Hand verwenden">Linkshändig</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Anpassen der Geschwindigkeit von Maus und Tastfeld">Geschwindigkeit und Empfindlichkeit</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Klicken, Ziehen oder Rollen mit dem Tastfeld">klicken und rollen mit dem Touchpad </a></span> …</span>
+<a href="mouse.html.de" title="Maus">Maus</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.de" title="Die Maus mit der linken Hand verwenden">Linkshändig</a></span>, <span class="link"><a href="mouse-sensitivity.html.de" title="Anpassen der Geschwindigkeit von Maus und Tastfeld">Geschwindigkeit und Empfindlichkeit</a></span>, <span class="link"><a href="mouse-touchpad-click.html.de" title="Klicken, Ziehen oder Rollen mit dem Tastfeld">klicken und rollen mit dem Touchpad </a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

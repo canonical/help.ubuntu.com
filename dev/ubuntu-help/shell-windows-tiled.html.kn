@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">ಗಣಕತೆರೆ</a> › <a class="trail" href="shell-overview.html#apps" title="Applications and windows">Applications and windows</a> » <a class="trail" href="shell-windows.html" title="Windows and workspaces">Windows and workspaces</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Working with windows">ಕಿಟಕಿಗಳು</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.kn" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.kn" title="Your desktop">ಗಣಕತೆರೆ</a> › <a class="trail" href="shell-overview.html.kn#apps" title="Applications and windows">Applications and windows</a> » <a class="trail" href="shell-windows.html.kn" title="Windows and workspaces">Windows and workspaces</a> › <a class="trail" href="shell-windows.html.kn#working-with-windows" title="Working with windows">ಕಿಟಕಿಗಳು</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tile windows</span></h1></div>
@@ -54,7 +54,7 @@
   them.</p>
 <p class="p">To maximize a window along a side of the screen, grab the titlebar and
   drag it to the left or right side until half of the screen is highlighted.
-  Using the keyboard, hold down <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> and
+  Using the keyboard, hold down <span class="key"><a href="keyboard-key-super.html.kn" title="What is the Super key?"><kbd>Super</kbd></a></span> and
   press the <span class="key"><kbd>Left</kbd></span> or <span class="key"><kbd>Right</kbd></span> key.</p>
 <p class="p">To restore a window to its original size, drag it away from the side of
   the screen, or use the same keyboard shortcut you used to maximize.</p>
@@ -66,12 +66,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">ಇನ್ನಷ್ಟು ಮಾಹಿತಿ</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Working with windows">Working with windows</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.kn#working-with-windows" title="Working with windows">Working with windows</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ಇದನ್ನೂ ಸಹ ನೋಡಿ</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-maximize.html" title="Maximize and unmaximize a window">Maximize and unmaximize a window</a><span class="desc"> — Double-click or drag a titlebar to maximize or restore a
+<a href="shell-windows-maximize.html.kn" title="Maximize and unmaximize a window">Maximize and unmaximize a window</a><span class="desc"> — Double-click or drag a titlebar to maximize or restore a
     window.</span>
 </li></ul></div>
 </div></div>

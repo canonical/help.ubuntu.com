@@ -43,31 +43,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Bluetooth je bezdrátový protokol, který umožňuje připojit mnoho různých typů zařízení k počítači. Běžně se používá pro sluchátka a vstupní zařízení, jako je myš a klávesnice. Můžete jej také používat k <span class="link"><a href="bluetooth-send-file.html" title="Posílání souborů do zařízení Bluetooth">přenosu souborů mezi zařízeními</a></span>, třeba mezi počítačem a mobilním telefonem.</p>
+<p class="p">Bluetooth je bezdrátový protokol, který umožňuje připojit mnoho různých typů zařízení k počítači. Běžně se používá pro sluchátka a vstupní zařízení, jako je myš a klávesnice. Můžete jej také používat k <span class="link"><a href="bluetooth-send-file.html.cs" title="Posílání souborů do zařízení Bluetooth">přenosu souborů mezi zařízeními</a></span>, třeba mezi počítačem a mobilním telefonem.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html" title="Zapnutí nebo vypnutí Bluetooth"><span class="title">Zapnutí nebo vypnutí Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zapnout nebo vypnout zařízení Bluetooth na svém počítači.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html" title="Odpojení zařízení Bluetooth"><span class="title">Odpojení zařízení Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Jak odebrat zařízení ze seznamu se zařízeními Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Ovládání sdílení po Bluetooth"><span class="title">Ovládání sdílení po Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Jak umožnit nahrávání souborů na váš počítač přes Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html" title="Posílání souborů do zařízení Bluetooth"><span class="title">Posílání souborů do zařízení Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Jak sdílet soubory se zařízením Bluetooth, třeba s telefonem.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html" title="Připojení počítače k zařízení Bluetooth"><span class="title">Připojení počítače k zařízení Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Jak spárovat zařízení Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html" title="Co je to viditelnost Bluetooth?"><span class="title">Co je to viditelnost Bluetooth?</span><span class="linkdiv-dash"> — </span><span class="desc">Jestli ostatní zařízení mohou vyhledat váš počítač.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html.cs" title="Zapnutí nebo vypnutí Bluetooth"><span class="title">Zapnutí nebo vypnutí Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zapnout nebo vypnout zařízení Bluetooth na svém počítači.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html.cs" title="Odpojení zařízení Bluetooth"><span class="title">Odpojení zařízení Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Jak odebrat zařízení ze seznamu se zařízeními Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.cs" title="Ovládání sdílení po Bluetooth"><span class="title">Ovládání sdílení po Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Jak umožnit nahrávání souborů na váš počítač přes Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.cs" title="Posílání souborů do zařízení Bluetooth"><span class="title">Posílání souborů do zařízení Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Jak sdílet soubory se zařízením Bluetooth, třeba s telefonem.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html.cs" title="Připojení počítače k zařízení Bluetooth"><span class="title">Připojení počítače k zařízení Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Jak spárovat zařízení Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html.cs" title="Co je to viditelnost Bluetooth?"><span class="title">Co je to viditelnost Bluetooth?</span><span class="linkdiv-dash"> — </span><span class="desc">Jestli ostatní zařízení mohou vyhledat váš počítač.</span></a></div>
 </div></div></div>
 </div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Problémy</span></h2></div>
 <div class="region">
-<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html" title="Nemohu připojit své zařízení Bluetooth"><span class="title">Nemohu připojit své zařízení Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Adaptér může být vypnutý nebo možná nemáte ovladače nebo je Bluetooth zakázané nebo blokované.</span></a></div></div></div></div></div>
+<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html.cs" title="Nemohu připojit své zařízení Bluetooth"><span class="title">Nemohu připojit své zařízení Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Adaptér může být vypnutý nebo možná nemáte ovladače nebo je Bluetooth zakázané nebo blokované.</span></a></div></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Další informace</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Běžné problémy">Problémy s hardwarem</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.cs#problems" title="Běžné problémy">Problémy s hardwarem</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -77,7 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardware a ovladače">Hardware a ovladače</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Běžné problémy">Problémy s hardwarem</a></span>, <span class="link"><a href="printing.html" title="Tisk">tiskárny</a></span>, <span class="link"><a href="power.html" title="Napájení a baterie">nastavení napájení</a></span>, <span class="link"><a href="color.html" title="Správa barev">správa barev</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Disky a úložiště">disky</a></span>…</span>
+<a href="hardware.html.cs" title="Hardware a ovladače">Hardware a ovladače</a><span class="desc"> — <span class="link"><a href="hardware.html.cs#problems" title="Běžné problémy">Problémy s hardwarem</a></span>, <span class="link"><a href="printing.html.cs" title="Tisk">tiskárny</a></span>, <span class="link"><a href="power.html.cs" title="Napájení a baterie">nastavení napájení</a></span>, <span class="link"><a href="color.html.cs" title="Správa barev">správa barev</a></span>, <span class="link"><a href="bluetooth.html.cs" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.cs" title="Disky a úložiště">disky</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

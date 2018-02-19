@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Acesso universal">Acesso universal</a> › <a class="trail" href="a11y.html#vision" title="Deficiências visuais">Deficiências visuais</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.pt" title="Acesso universal">Acesso universal</a> › <a class="trail" href="a11y.html.pt#vision" title="Deficiências visuais">Deficiências visuais</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Magnificar um área do ecrã</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Magnificar o ecrã não é simplesmente aumentar o <span class="link"><a href="a11y-font-size.html" title="Mudar o tamanho do texto no ecrã">tamanho do texto</a></span>. Esta caraterística é como ter uma lupa que pode mover aumentando partes do ecrã.</p>
+<p class="p">Magnificar o ecrã não é simplesmente aumentar o <span class="link"><a href="a11y-font-size.html.pt" title="Mudar o tamanho do texto no ecrã">tamanho do texto</a></span>. Esta caraterística é como ter uma lupa que pode mover aumentando partes do ecrã.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Acesso universal</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Acesso universal</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Acesso universal</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Ampliação</span> na seção <span class="gui">Visão</span>.</p></li>
 <li class="steps"><p class="p">Ative a <span class="gui">Ampliação</span> (<span class="gui">Acendido</span>) no canto superior direita da janela <span class="gui">Opções de ampliação</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Pode mover no área do ecrã. Movendo seu rato pelas bordas da ptanlha, pode mover o área magnificada em diferentes direções, permitindo-lhe ver o área da sua eleição.</p>
-<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Pode ativar ou desativar a ampliação rapidamente clicando o <span class="link"><a href="a11y-icon.html" title="Encontrar o menu de acesso universal">ícone de acessibilidade</a></span> na barra superior e selecionando <span class="gui">Ampliação</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Pode ativar ou desativar a ampliação rapidamente clicando o <span class="link"><a href="a11y-icon.html.pt" title="Encontrar o menu de acesso universal">ícone de acessibilidade</a></span> na barra superior e selecionando <span class="gui">Ampliação</span>.</p></div></div></div></div>
 <p class="p">Pode mudar o fator de magnificação, o rastreamento do rato e a posição da vista magnificada no ecrã. Para ajustar isto, vá à flange <span class="gui">Magnificador</span> na janela <span class="gui">Opções de ampliação</span>.</p>
 <p class="p">Pode ativar cruzes para ajudar-lhe a encontrar o ponteiro do rato ou do «touchpad». Para ativá-las e ajustar a sua duração, cor e espessura, carregue a flange <span class="gui">Cruzes</span> na janela de configuração da <span class="gui">Ampliação</span>.</p>
 <p class="p">Pode alterar para vídeo inverso ou <span class="gui">Blanco em negro</span> e ajustar o brilho, contraste e opções de escala de cinzas para o magnificador. A combinação destas opções é útil para pessoas com visão baixa, qualquer grau de fotofobia ou simplesmente para usar a computador baixa condições de iluminação adversas. Selecione a flange <span class="gui">Efeitos de cor</span> na janela da configuração da <span class="gui">Ampliação</span> para ativar ou mudar estas opções.</p>
@@ -66,7 +66,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Deficiências visuais">Deficiências visuais</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.pt#vision" title="Deficiências visuais">Deficiências visuais</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Yhteystiedot</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Säilytä, käytä tai muokkaa yhteystietojasi <span class="app">Yhteystiedot</span>-ohjelmalla joko paikallisesti tai <span class="link"><a href="accounts.html" title="Verkkotilit">verkkotileilläsi</a></span>.</p>
+<p class="p">Säilytä, käytä tai muokkaa yhteystietojasi <span class="app">Yhteystiedot</span>-ohjelmalla joko paikallisesti tai <span class="link"><a href="accounts.html.fi" title="Verkkotilit">verkkotileilläsi</a></span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html" title="Yhteystietojen käytön aloittaminen"><span class="title">Yhteystietojen käytön aloittaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Säilytä yhteystietojasi tietokoneesi osoitekirjassa tai verkkotilillä.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html" title="Link and unlink contacts"><span class="title">Link and unlink contacts</span><span class="linkdiv-dash"> — </span><span class="desc">Yhdistä tietoja yhteystietoihin useasta lähteestä.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html" title="Muokkaa yhteystietoja"><span class="title">Muokkaa yhteystietoja</span><span class="linkdiv-dash"> — </span><span class="desc">Yhteystietojen muokkaaminen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html" title="Pidä yhteyttä yhteystietojen kanssa"><span class="title">Pidä yhteyttä yhteystietojen kanssa</span><span class="linkdiv-dash"> — </span><span class="desc">Lähetä sähköpostia, keskustele tai soita jollekulle</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-search.html" title="Yhteystiedon etsiminen"><span class="title">Yhteystiedon etsiminen</span><span class="linkdiv-dash"> — </span><span class="desc">Yhteystiedon etsiminen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html" title="Yhteystiedon lisääminen tai poistaminen"><span class="title">Yhteystiedon lisääminen tai poistaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Yhteystiedon lisääminen tai poistaminen osoitekirjasta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.fi" title="Yhteystietojen käytön aloittaminen"><span class="title">Yhteystietojen käytön aloittaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Säilytä yhteystietojasi tietokoneesi osoitekirjassa tai verkkotilillä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html.fi" title="Link and unlink contacts"><span class="title">Link and unlink contacts</span><span class="linkdiv-dash"> — </span><span class="desc">Yhdistä tietoja yhteystietoihin useasta lähteestä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.fi" title="Muokkaa yhteystietoja"><span class="title">Muokkaa yhteystietoja</span><span class="linkdiv-dash"> — </span><span class="desc">Yhteystietojen muokkaaminen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.fi" title="Pidä yhteyttä yhteystietojen kanssa"><span class="title">Pidä yhteyttä yhteystietojen kanssa</span><span class="linkdiv-dash"> — </span><span class="desc">Lähetä sähköpostia, keskustele tai soita jollekulle</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-search.html.fi" title="Yhteystiedon etsiminen"><span class="title">Yhteystiedon etsiminen</span><span class="linkdiv-dash"> — </span><span class="desc">Yhteystiedon etsiminen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html.fi" title="Yhteystiedon lisääminen tai poistaminen"><span class="title">Yhteystiedon lisääminen tai poistaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Yhteystiedon lisääminen tai poistaminen osoitekirjasta.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Langattomat verkkoyhteydet">Langattomat lähiverkot</a></span>, <span class="link"><a href="net-wired.html" title="Kiinteät verkkoyhteydet">kiinteät yhteydet</a></span>, <span class="link"><a href="net-problem.html" title="Yhteysongelmat">yhteysongelmat</a></span>, <span class="link"><a href="net-browser.html" title="Selaimet">WWW-selaaminen</a></span>, <span class="link"><a href="net-email.html" title="Sähköposti ja sähköpostiohjelmat">sähköpostitilit</a></span>...</span>
+<a href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a><span class="desc"> — <span class="link"><a href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat lähiverkot</a></span>, <span class="link"><a href="net-wired.html.fi" title="Kiinteät verkkoyhteydet">kiinteät yhteydet</a></span>, <span class="link"><a href="net-problem.html.fi" title="Yhteysongelmat">yhteysongelmat</a></span>, <span class="link"><a href="net-browser.html.fi" title="Selaimet">WWW-selaaminen</a></span>, <span class="link"><a href="net-email.html.fi" title="Sähköposti ja sähköpostiohjelmat">sähköpostitilit</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

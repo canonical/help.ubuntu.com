@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="printing.html" title="Printing">Printing</a> › <a class="trail" href="printing.html#setup" title="Set up a printer">Setup</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.en" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="printing.html.en" title="Printing">Printing</a> › <a class="trail" href="printing.html.en#setup" title="Set up a printer">Setup</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Set the default printer</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">If you have more than one printer available, you can select which will be
   your default printer. You may want to pick the printer you use most often.</p>
-<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">You need <span class="link"><a href="user-admin-explain.html" title="How do administrative privileges work?">administrative privileges</a></span>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">You need <span class="link"><a href="user-admin-explain.html.en" title="How do administrative privileges work?">administrative privileges</a></span>
     on the system to set the default printer.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.en#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Select your desired default printer from the list of available
@@ -71,17 +71,17 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">More Information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Set up a printer">Set up a printer</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.en#setup" title="Set up a printer">Set up a printer</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">See Also</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="How do administrative privileges work?">How do administrative privileges work?</a><span class="desc"> — You need administrative privileges to change important parts of your
+<a href="user-admin-explain.html.en" title="How do administrative privileges work?">How do administrative privileges work?</a><span class="desc"> — You need administrative privileges to change important parts of your
     system.</span>
 </li>
 <li class="links ">
-<a href="printing-setup.html" title="Set up a local printer">Set up a local printer</a><span class="desc"> — Set up a printer that is connected to your computer.</span>
+<a href="printing-setup.html.en" title="Set up a local printer">Set up a local printer</a><span class="desc"> — Set up a printer that is connected to your computer.</span>
 </li>
 </ul></div>
 </div></div>

@@ -44,21 +44,21 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="keyboard.html" title="Klávesnice">Klávesnice</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="keyboard.html" title="Klávesnice">Klávesnice</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Univerzální přístup">Univerzální přístup</a> › <a class="trail" href="a11y.html#mobility" title="Pohybová postižení">Pohybová postižení</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.cs" title="Univerzální přístup">Univerzální přístup</a> › <a class="trail" href="a11y.html.cs#mobility" title="Pohybová postižení">Pohybová postižení</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zapnutí kombinací kláves jedním prstem</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p"><span class="em">Kombinace kláves jedním prstem</span> vám umožňuje používat klávesové zkratky postupně po jedné klávese, místo abyste jich museli držet několik naráz. Například zkratku <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Co je klávesa Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> pro přepnutí mezi okny. Bez této funkce byste museli držet zmáčknuté obě klávesy naráz. S touto funkcí zmáčknete nejdříve samotný <span class="key"><kbd>Super</kbd></span> a pak samotný <span class="key"><kbd>Tab</kbd></span> a výsledek bude stejný.</p>
+<p class="p"><span class="em">Kombinace kláves jedním prstem</span> vám umožňuje používat klávesové zkratky postupně po jedné klávese, místo abyste jich museli držet několik naráz. Například zkratku <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.cs" title="Co je klávesa Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> pro přepnutí mezi okny. Bez této funkce byste museli držet zmáčknuté obě klávesy naráz. S touto funkcí zmáčknete nejdříve samotný <span class="key"><kbd>Super</kbd></span> a pak samotný <span class="key"><kbd>Tab</kbd></span> a výsledek bude stejný.</p>
 <p class="p">Pokud zjistíte, že vám činí potíže držet více kláves zmáčknutých naráz, může se vám hodit zapnout funkci Kombinace kláves jedním prstem.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Univerzální přístup</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Univerzální přístup</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Univerzální přístup</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">V části <span class="gui">Psaní</span> zmáčkněte <span class="gui">Pomáhat s psaním</span>.</p></li>
 <li class="steps"><p class="p">Přepněte vypínač <span class="gui">Kombinace kláves jedním prstem</span> na <span class="gui">❙</span> (zapnuto).</p></li>
@@ -67,7 +67,7 @@
 <div class="title title-note"><h2><span class="title">Rychlé zapnutí nebo vypnutí kombinace kláves jedním prstem</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Abyste mohli funkci kombinace kláves jedním prstem zapínat a vypínat pomocí klávesnice, v části <span class="gui">Zapnout z klávesnice</span> vyberte <span class="gui">Zapínat funkce zpřístupnění pomocí klávesnice</span>. Když je tato volba zapnutá, můžete zmáčknout klávesu <span class="gui">Shift</span> pětkrát po sobě a tím kombinace kláves jedním prstem zapnout nebo vypnout.</p>
-<p class="p">Vypnout nebo zapnout kombinace kláves jedním prstem můžete rychle kliknutím na <span class="link"><a href="a11y-icon.html" title="Vyhledání nabídky univerzálního přístupu">ikonu zpřístupnění</a></span> na horní liště a následným výběrem položky <span class="gui">Kombinace kláves jedním prstem</span>. Ikona zpřístupnění je viditelná, když je zapnuté aspoň jedno nastavení v panelu <span class="gui">Univerzální přístup</span>.</p>
+<p class="p">Vypnout nebo zapnout kombinace kláves jedním prstem můžete rychle kliknutím na <span class="link"><a href="a11y-icon.html.cs" title="Vyhledání nabídky univerzálního přístupu">ikonu zpřístupnění</a></span> na horní liště a následným výběrem položky <span class="gui">Kombinace kláves jedním prstem</span>. Ikona zpřístupnění je viditelná, když je zapnuté aspoň jedno nastavení v panelu <span class="gui">Univerzální přístup</span>.</p>
 </div></div>
 </div></div>
 <p class="p">Když zmáčknete dvě klávesy naráz, může se vám funkce kombinace kláves jedním prstem sama dočasně vypnout, abyste mohli zadávat klávesové zkratky normálním způsobem.</p>
@@ -81,9 +81,9 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
+<a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.cs" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html.cs#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Pohybová postižení">Pohybová postižení</a></li>
+<li class="links "><a href="a11y.html.cs#mobility" title="Pohybová postižení">Pohybová postižení</a></li>
 </ul></div>
 </div></div></div>
 </div>

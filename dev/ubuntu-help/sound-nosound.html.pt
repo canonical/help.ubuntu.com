@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="media.html#sound" title="Som básico">Som</a> » <a class="trail" href="sound-broken.html" title="Problemas de som">Problemas de som</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="media.html.pt#sound" title="Som básico">Som</a> » <a class="trail" href="sound-broken.html.pt" title="Problemas de som">Problemas de som</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="sound-broken.html" title="Problemas de som">Problemas de som</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.pt#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="sound-broken.html.pt" title="Problemas de som">Problemas de som</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <div id="mute" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Assegure-se de que o som não está silenciado</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Abra o <span class="gui"><a href="shell-introduction.html#yourname" title="Você e o seu computador">menu do sistema</a></span> em parte-a direita da barra superior e assegure-se de que o som não esteja silenciado ou na posição para baixo.</p>
+<p class="p">Abra o <span class="gui"><a href="shell-introduction.html.pt#yourname" title="Você e o seu computador">menu do sistema</a></span> em parte-a direita da barra superior e assegure-se de que o som não esteja silenciado ou na posição para baixo.</p>
 <p class="p">Alguns computadores portáteis têm interruptores de silêncio em seus teclados, prove a carregar essa tecla para ver se ativa-se o som.</p>
 <p class="p">Também deve verificar que não tem silenciado o aplicação que está a usar para reproduzir o som (por exemplo, seu reprodutor de música ou seu reprodutor de filmes). O aplicação pode ter um botão de silêncio ou de volume na sua janela principal, pelo que deve o verificar.</p>
 <p class="p">Também pode revisar a flange <span class="gui">Aplicações</span> na interface de utilizador de <span class="gui">Som</span>.</p>
@@ -86,7 +86,7 @@
   have the correct sound device selected. This might involve some
   trial-and-error to choose the right one.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Som</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Som</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Som</span> para abrir o painel.</p></li>
 <li class="steps">
 <p class="p">Na flange <span class="gui">Saída</span>, mude a configuração do <span class="gui">Perfil</span> para o dispositivo selecionado e reproduza um som para verificar que funciona. Pode precisar ir através da lista e experimentar a cada perfil.</p>
@@ -102,7 +102,7 @@
 <p class="p">Execute o comando <span class="cmd">lspci</span> no terminal para obter mais informação sobre seu cartão de som:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Vá à vista de <span class="gui">Atividades</span> e abra um Terminal.</p></li>
-<li class="steps"><p class="p">Execute <span class="cmd">lspci</span> como <span class="link"><a href="user-admin-explain.html" title="Como funcionam os privilégios de administrador?">superusuario</a></span>; ou bem escreva <span class="cmd">suo lspci</span> e escreva a sua palavra-passe, ou escreva <span class="cmd">a sua</span>, introduza a palavra-passe de <span class="em">root</span> (administrador) e depois escreva <span class="cmd">lspci</span>.</p></li>
+<li class="steps"><p class="p">Execute <span class="cmd">lspci</span> como <span class="link"><a href="user-admin-explain.html.pt" title="Como funcionam os privilégios de administrador?">superusuario</a></span>; ou bem escreva <span class="cmd">suo lspci</span> e escreva a sua palavra-passe, ou escreva <span class="cmd">a sua</span>, introduza a palavra-passe de <span class="em">root</span> (administrador) e depois escreva <span class="cmd">lspci</span>.</p></li>
 <li class="steps"><p class="p">Verifique se mostra-se um <span class="em">controlador de som</span> ou um <span class="em">dispositivo de som</span>: nesse caso, deveria ver o número de série e o modelo do cartão de som. Também <span class="cmd">lspci -v</span> mostra uma lista com informação mais detalhada.</p></li>
 </ol></div></div></div>
 <p class="p">Pode que encontre e possa instalar os controladores para seu cartão. O melhor é pedir instruções nos foros de suporte (ou similares) para a sua distribuição de GNU/Linux.</p>
@@ -114,7 +114,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html" title="Problemas de som">Problemas de som</a><span class="desc"> — Solucionar problemas como não ter som ou ter má qualidade de som.</span>
+<a href="sound-broken.html.pt" title="Problemas de som">Problemas de som</a><span class="desc"> — Solucionar problemas como não ter som ou ter má qualidade de som.</span>
 </li></ul></div>
 </div></div></div>
 </div>

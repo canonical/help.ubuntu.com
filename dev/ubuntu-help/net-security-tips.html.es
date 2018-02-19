@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-general.html" title="Términos y consejos sobre redes">Términos y consejos sobre redes</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-general.html.es" title="Términos y consejos sobre redes">Términos y consejos sobre redes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mantenerse seguro en Internet</span></h1></div>
@@ -53,16 +53,16 @@
 <p class="p">Independientemente de las medidas tomadas para asegurarse de que su instalación de Linux es segura, siempre existen vulnerabilidades. Como usuario medio en Internet es susceptible de:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Estafas de «phishing» (sitios web que intentan obtener información delicada a través de engaños)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html" title="¿Necesito comprobar si hay virus en mis correos electrónicos?">Reenvío de correos maliciosos</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html" title="¿Necesito software antivirus?">Aplicaciones con intenciones maliciosas (virus)</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html" title="¿Qué significan WEP y WPA?">Acceso no autorizado a la red local/remota</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.es" title="¿Necesito comprobar si hay virus en mis correos electrónicos?">Reenvío de correos maliciosos</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.es" title="¿Necesito software antivirus?">Aplicaciones con intenciones maliciosas (virus)</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.es" title="¿Qué significan WEP y WPA?">Acceso no autorizado a la red local/remota</a></span></p></li>
 </ul></div></div></div>
 <p class="p">Para conectarse se manera segura, recuerde las siguientes sugerencias:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">No abra correos electrónicos, adjuntos o enlaces enviados por personas que no conoce.</p></li>
 <li class="list"><p class="p">Si la oferta de una página es demasiado buena para ser verdad o solicita información sensible que parece innecesaria, piense dos veces qué está enviado y las consecuencias posibles si esa información cae en manos de ladrones de identidades u otros criminales.</p></li>
-<li class="list"><p class="p">Tenga cuidado al otorgar <span class="link"><a href="user-admin-explain.html" title="¿Cómo funcionan los privilegios de administrador?">permisos de administrador</a></span> a una aplicación, especialmente a aquellas que no ha usado anteriormente o aplicaciones que no conoce bien. Otorgar permisos de administrador a cualquiera o a cualquier cosa pone su equipo en riesgo.</p></li>
-<li class="list"><p class="p">Asegúrese de que sólo ejecuta los servicios de acceso remoto necesarios. Tener SSH o VNC en ejecución puede ser útil, pero deja su equipo abierto ante los intrusos si no está securizado adecuadamente. Considere la posibilidad de usar un <span class="link"><a href="net-firewall-on-off.html" title="Activar y bloquear el acceso al cortafuegos">cortafuegos</a></span> para ayudarle a proteger su equipo frente a los intrusos.</p></li>
+<li class="list"><p class="p">Tenga cuidado al otorgar <span class="link"><a href="user-admin-explain.html.es" title="¿Cómo funcionan los privilegios de administrador?">permisos de administrador</a></span> a una aplicación, especialmente a aquellas que no ha usado anteriormente o aplicaciones que no conoce bien. Otorgar permisos de administrador a cualquiera o a cualquier cosa pone su equipo en riesgo.</p></li>
+<li class="list"><p class="p">Asegúrese de que sólo ejecuta los servicios de acceso remoto necesarios. Tener SSH o VNC en ejecución puede ser útil, pero deja su equipo abierto ante los intrusos si no está securizado adecuadamente. Considere la posibilidad de usar un <span class="link"><a href="net-firewall-on-off.html.es" title="Activar y bloquear el acceso al cortafuegos">cortafuegos</a></span> para ayudarle a proteger su equipo frente a los intrusos.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Términos y consejos sobre redes">Términos y consejos sobre redes</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Buscar su dirección IP">Saber su dirección IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="¿Qué significan WEP y WPA?">seguridad WEP y WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="¿Qué es una dirección MAC?">dirección MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Definir la configuración del proxy">proxies</a></span>…</span>
+<a href="net-general.html.es" title="Términos y consejos sobre redes">Términos y consejos sobre redes</a><span class="desc"> — <span class="link"><a href="net-findip.html.es" title="Buscar su dirección IP">Saber su dirección IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.es" title="¿Qué significan WEP y WPA?">seguridad WEP y WPA</a></span>, <span class="link"><a href="net-macaddress.html.es" title="¿Qué es una dirección MAC?">dirección MAC</a></span>, <span class="link"><a href="net-proxy.html.es" title="Definir la configuración del proxy">proxies</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

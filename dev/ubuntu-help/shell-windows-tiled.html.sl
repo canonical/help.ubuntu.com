@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Namizje</a> › <a class="trail" href="shell-overview.html#apps" title="Programi in okna">Programi in okna</a> » <a class="trail" href="shell-windows.html" title="Okna in delovne površine">Okna in delovne površine</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Delo z okni">Okna</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="shell-overview.html.sl" title="Your desktop">Namizje</a> › <a class="trail" href="shell-overview.html.sl#apps" title="Programi in okna">Programi in okna</a> » <a class="trail" href="shell-windows.html.sl" title="Okna in delovne površine">Okna in delovne površine</a> › <a class="trail" href="shell-windows.html.sl#working-with-windows" title="Delo z okni">Okna</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Razpostavitev oken</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">Okno lahko razpete le na levi ali desni strani zaslona kar vam omogoča postavitev dveh oken en bo drugo za hiter preklop med njima.</p>
 <p class="p">To maximize a window along a side of the screen, grab the titlebar and
   drag it to the left or right side until half of the screen is highlighted.
-  Using the keyboard, hold down <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> and
+  Using the keyboard, hold down <span class="key"><a href="keyboard-key-super.html.sl" title="What is the Super key?"><kbd>Super</kbd></a></span> and
   press the <span class="key"><kbd>Left</kbd></span> or <span class="key"><kbd>Right</kbd></span> key.</p>
 <p class="p">Za obnovitev okna na izvirno velikost ga povlecite iz strani zaslona ali uporabite isto tipkovno bližnjico, ki ste jo uporabiti za razpenjanje.</p>
 <div class="note note-tip" title="Namig"><div class="inner"><div class="region"><div class="contents"><p class="p">Držite tipko <span class="key"><kbd>Alt</kbd></span> in vlecite kjerkoli v oknu za njegov premik.</p></div></div></div></div>
@@ -62,12 +62,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Delo z okni">Delo z okni</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.sl#working-with-windows" title="Delo z okni">Delo z okni</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-maximize.html" title="Razpenjanje in pomanjšanje okna">Razpenjanje in pomanjšanje okna</a><span class="desc"> — Dvokliknite na nazivno vrstico za razpenjanje ali obnovitev okna.</span>
+<a href="shell-windows-maximize.html.sl" title="Razpenjanje in pomanjšanje okna">Razpenjanje in pomanjšanje okna</a><span class="desc"> — Dvokliknite na nazivno vrstico za razpenjanje ali obnovitev okna.</span>
 </li></ul></div>
 </div></div>
 </div>

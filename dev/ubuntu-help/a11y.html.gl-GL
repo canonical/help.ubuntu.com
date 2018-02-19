@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Acceso universal</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">O escritorio GNOME inclúe tecnoloxías de asistencia para axudarlle aos usuarios con diversas deficiencias e necesidades especiais e para interactuar con dispositivos de asistencia comúns. Pode engadir un menú de accesibilidade á barra superior, fornecendo un acceso rápido a moitas das características de accesibilidade.</p>
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html" title="Atopar o menú de acceso universal"><span class="title">Atopar o menú de acceso universal</span><span class="linkdiv-dash"> — </span><span class="desc">O menú de acceso universal é a icona que parece un home na barra superior que semella unha persoa.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.gl-GL" title="Atopar o menú de acceso universal"><span class="title">Atopar o menú de acceso universal</span><span class="linkdiv-dash"> — </span><span class="desc">O menú de acceso universal é a icona que parece un home na barra superior que semella unha persoa.</span></a></div></div></div></div>
 </div>
 <div id="vision" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Deficiencias visuais</span></h2></div>
@@ -59,10 +59,10 @@
 <div class="title title-links"><h3><span class="title">Cegueira</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-screen-reader.html" title="Ler a pantalla">Ler a pantalla</a><span class="desc"> — Use o lector de pantalla <span class="app">Orca</span> para ler a interface de usuario.</span>
+<a href="a11y-screen-reader.html.gl-GL" title="Ler a pantalla">Ler a pantalla</a><span class="desc"> — Use o lector de pantalla <span class="app">Orca</span> para ler a interface de usuario.</span>
 </li>
 <li class="links ">
-<a href="a11y-braille.html" title="Ler a pantalla en Braille">Ler a pantalla en Braille</a><span class="desc"> — Use o lector de pantalla <span class="app">Orca</span> cun dispositivo Braille actualizábel.</span>
+<a href="a11y-braille.html.gl-GL" title="Ler a pantalla en Braille">Ler a pantalla en Braille</a><span class="desc"> — Use o lector de pantalla <span class="app">Orca</span> cun dispositivo Braille actualizábel.</span>
 </li>
 </ul></div>
 </div></div>
@@ -70,16 +70,16 @@
 <div class="title title-links"><h3><span class="title">Visión deficiente</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-mag.html" title="Ampliar o área da pantalla">Ampliar o área da pantalla</a><span class="desc"> — Amplíe a súa pantalla para que sexa máis sinxelo ver as cousas.</span>
+<a href="a11y-mag.html.gl-GL" title="Ampliar o área da pantalla">Ampliar o área da pantalla</a><span class="desc"> — Amplíe a súa pantalla para que sexa máis sinxelo ver as cousas.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="Axustar o contraste">Axustar o contraste</a><span class="desc"> — Facer que as xanelas e os botóns da pantalla sexan máis (ou menos) vívidos, para que sexan máis fáciles de ver.</span>
+<a href="a11y-contrast.html.gl-GL" title="Axustar o contraste">Axustar o contraste</a><span class="desc"> — Facer que as xanelas e os botóns da pantalla sexan máis (ou menos) vívidos, para que sexan máis fáciles de ver.</span>
 </li>
 <li class="links ">
-<a href="a11y-font-size.html" title="Cambiar o tamaño do texto de pantalla">Cambiar o tamaño do texto de pantalla</a><span class="desc"> — Usar tipos de letra máis grandes para facer que o texto sexa máis sinxelo ler.</span>
+<a href="a11y-font-size.html.gl-GL" title="Cambiar o tamaño do texto de pantalla">Cambiar o tamaño do texto de pantalla</a><span class="desc"> — Usar tipos de letra máis grandes para facer que o texto sexa máis sinxelo ler.</span>
 </li>
 <li class="links ">
-<a href="keyboard-cursor-blink.html" title="Facer que parpadee o cursor do teclado">Facer que parpadee o cursor do teclado</a><span class="desc"> — Facer que o punto de inserción parpadee e controlar a velocidade do parpadeo.</span>
+<a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">Facer que parpadee o cursor do teclado</a><span class="desc"> — Facer que o punto de inserción parpadee e controlar a velocidade do parpadeo.</span>
 </li>
 </ul></div>
 </div></div>
@@ -88,7 +88,7 @@
 <div id="sound" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Deficiencias auditivas</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul><li class="links ">
-<a href="a11y-visualalert.html" title="Mostrar unha alerta visual na pantalla nos sons de alerta">Mostrar unha alerta visual na pantalla nos sons de alerta</a><span class="desc"> — Activar alertas visuais para iluminar a pantalla ou a xanela canso se reproduza un son de alerta.</span>
+<a href="a11y-visualalert.html.gl-GL" title="Mostrar unha alerta visual na pantalla nos sons de alerta">Mostrar unha alerta visual na pantalla nos sons de alerta</a><span class="desc"> — Activar alertas visuais para iluminar a pantalla ou a xanela canso se reproduza un son de alerta.</span>
 </li></ul></div></div></div></div></div>
 </div></div>
 <div id="mobility" class="sect"><div class="inner">
@@ -99,10 +99,10 @@
 <div class="title title-links"><h3><span class="title">Movemento do rato</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-sensitivity.html" title="Axustar a velocidade do rato e touchpad">Axustar a velocidade do rato e touchpad</a><span class="desc"> — Cambiar como se move de rápido o punteiro cando usa o rato ou a área táctil.</span>
+<a href="mouse-sensitivity.html.gl-GL" title="Axustar a velocidade do rato e touchpad">Axustar a velocidade do rato e touchpad</a><span class="desc"> — Cambiar como se move de rápido o punteiro cando usa o rato ou a área táctil.</span>
 </li>
 <li class="links ">
-<a href="mouse-mousekeys.html" title="Facer clic e mover o punteiro do rato usando as frechas do teclado">Facer clic e mover o punteiro do rato usando as frechas do teclado</a><span class="desc"> — Enable mouse keys to control the mouse with the numeric
+<a href="mouse-mousekeys.html.gl-GL" title="Facer clic e mover o punteiro do rato usando as frechas do teclado">Facer clic e mover o punteiro do rato usando as frechas do teclado</a><span class="desc"> — Enable mouse keys to control the mouse with the numeric
     keypad.</span>
 </li>
 </ul></div>
@@ -111,13 +111,13 @@
 <div class="title title-links"><h3><span class="title">Facendo clic e arrastrando</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-doubleclick.html" title="Axustar a velocidade do dobre clic">Axustar a velocidade do dobre clic</a><span class="desc"> — Controlar a velocidade de pulsación do botón do rato para efectuar unha pulsación dobre.</span>
+<a href="mouse-doubleclick.html.gl-GL" title="Axustar a velocidade do dobre clic">Axustar a velocidade do dobre clic</a><span class="desc"> — Controlar a velocidade de pulsación do botón do rato para efectuar unha pulsación dobre.</span>
 </li>
 <li class="links ">
-<a href="a11y-dwellclick.html" title="Simular o clic ao pasar por enriba">Simular o clic ao pasar por enriba</a><span class="desc"> — A <span class="gui">pulsación ao pousarse</span> (pulsación ao posicionar o punteiro) permítelle premer mantendo o rato quieto.</span>
+<a href="a11y-dwellclick.html.gl-GL" title="Simular o clic ao pasar por enriba">Simular o clic ao pasar por enriba</a><span class="desc"> — A <span class="gui">pulsación ao pousarse</span> (pulsación ao posicionar o punteiro) permítelle premer mantendo o rato quieto.</span>
 </li>
 <li class="links ">
-<a href="a11y-right-click.html" title="Simular o clic dereito do rato">Simular o clic dereito do rato</a><span class="desc"> — Para realizar unha pulsación dereita, prema e manteña o botón esquerdo do rato.</span>
+<a href="a11y-right-click.html.gl-GL" title="Simular o clic dereito do rato">Simular o clic dereito do rato</a><span class="desc"> — Para realizar unha pulsación dereita, prema e manteña o botón esquerdo do rato.</span>
 </li>
 </ul></div>
 </div></div>
@@ -125,22 +125,22 @@
 <div class="title title-links"><h3><span class="title">Uso do teclado</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-slowkeys.html" title="Activar as teclas lentas">Activar as teclas lentas</a><span class="desc"> — Ter un retardo ao premer unha tecla e o tempo que tarda en aparecer na pantalla.</span>
+<a href="a11y-slowkeys.html.gl-GL" title="Activar as teclas lentas">Activar as teclas lentas</a><span class="desc"> — Ter un retardo ao premer unha tecla e o tempo que tarda en aparecer na pantalla.</span>
 </li>
 <li class="links ">
-<a href="a11y-stickykeys.html" title="Activar as teclas pegañentas">Activar as teclas pegañentas</a><span class="desc"> — Premer combinacións de teclas de forma seguida no lugar de ter que manter todas as teclas premidas á vez.</span>
+<a href="a11y-stickykeys.html.gl-GL" title="Activar as teclas pegañentas">Activar as teclas pegañentas</a><span class="desc"> — Premer combinacións de teclas de forma seguida no lugar de ter que manter todas as teclas premidas á vez.</span>
 </li>
 <li class="links ">
-<a href="a11y-bouncekeys.html" title="Activar o rexeite de teclas">Activar o rexeite de teclas</a><span class="desc"> — Ignorar pulsacións rápidas da mesma tecla.</span>
+<a href="a11y-bouncekeys.html.gl-GL" title="Activar o rexeite de teclas">Activar o rexeite de teclas</a><span class="desc"> — Ignorar pulsacións rápidas da mesma tecla.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html" title="Disposicións de teclado">Disposicións de teclado</a><span class="desc"> — Usar os aplicativos e escritorio sen un rato.</span>
+<a href="keyboard-nav.html.gl-GL" title="Disposicións de teclado">Disposicións de teclado</a><span class="desc"> — Usar os aplicativos e escritorio sen un rato.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Facer que o teclado non repita as letras cando se manteña unha tecla premida, ou cambiar o retardo e a velocidade de repetición das teclas.</span>
+<a href="keyboard-repeat-keys.html.gl-GL" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Facer que o teclado non repita as letras cando se manteña unha tecla premida, ou cambiar o retardo e a velocidade de repetición das teclas.</span>
 </li>
 <li class="links ">
-<a href="keyboard-osk.html" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
+<a href="keyboard-osk.html.gl-GL" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
     mouse or a touchscreen.</span>
 </li>
 </ul></div>
@@ -151,7 +151,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Vexa tamén</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-key-menu.html" title="Que é a tecla Menú?">Que é a tecla <span class="key"><kbd>Menú</kbd></span>?</a><span class="desc"> — A tecla <span class="key"><kbd>Menú</kbd></span> inicia un menú contextual con un teclado no lugar de co botón dereito.</span>
+<a href="keyboard-key-menu.html.gl-GL" title="Que é a tecla Menú?">Que é a tecla <span class="key"><kbd>Menú</kbd></span>?</a><span class="desc"> — A tecla <span class="key"><kbd>Menú</kbd></span> inicia un menú contextual con un teclado no lugar de co botón dereito.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -161,7 +161,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Guia do escritorio Ubuntu">Guia do escritorio Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.gl-GL" title="Guia do escritorio Ubuntu">Guia do escritorio Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

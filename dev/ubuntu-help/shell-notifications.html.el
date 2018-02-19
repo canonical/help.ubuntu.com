@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html#desktop" title="Προσαρμογή της επιφάνειας εργασίας σας">Προσαρμογή της επιφάνειας εργασίας σας</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.el" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html.el#desktop" title="Προσαρμογή της επιφάνειας εργασίας σας">Προσαρμογή της επιφάνειας εργασίας σας</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ειδοποιήσεις και η περιοχή ειδοποιήσεων</span></h1></div>
@@ -61,7 +61,7 @@
 <div id="messagetray" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Η περιοχή ειδοποιήσεων</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Η περιοχή ειδοποιήσεων σας βοηθά να επιστρέψετε στις ειδοποιήσεις σας όποτε χρειαστεί. Εμφανίζεται όταν κάνετε κλικ στο ρολόι, ή όταν πατάτε <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span>. Η περιοχή ειδοποιήσεων περιέχει όλες τις ειδοποιήσεις τις οποίες δεν έχετε δει ή αυτές που μόνιμα βρίσκονται εκεί.</p>
+<p class="p">Η περιοχή ειδοποιήσεων σας βοηθά να επιστρέψετε στις ειδοποιήσεις σας όποτε χρειαστεί. Εμφανίζεται όταν κάνετε κλικ στο ρολόι, ή όταν πατάτε <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.el" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span>. Η περιοχή ειδοποιήσεων περιέχει όλες τις ειδοποιήσεις τις οποίες δεν έχετε δει ή αυτές που μόνιμα βρίσκονται εκεί.</p>
 <p class="p">Μπορείτε να προβάλετε τις ειδοποιήσεις κάνοντας κλικ στα αντικείμενα της περιοχής ειδοποιήσεων. Αυτά είναι συνήθως μηνύματα απεσταλμένα από εφαρμογές. Όμως, οι ειδοποιήσεις συνομιλίας αντιμετωπίζονται ειδικά και αναπαριστώνται από τις μεμονωμένες επαφές που σας έστειλαν τα μηνύματα συνομιλίας.</p>
 <p class="p">Μπορείτε να κλείσετε την περιοχή ειδοποιήσεων πατώντας <span class="keyseq"><span class="key"><kbd>Λογότυπο</kbd></span>+<span class="key"><kbd>Μ</kbd></span></span> ξανά ή το πλήκτρο <span class="key"><kbd>Esc</kbd></span>.</p>
 </div></div>
@@ -72,7 +72,7 @@
 <p class="p">If you’re working on something and do not want to be bothered, you can
   switch off notifications.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ειδοποιήσεις</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ειδοποιήσεις</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στις <span class="gui">Ειδοποιήσεις</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Αλλάξτε το <span class="gui">Τίτλοι ειδοποίησης</span> σε <span class="gui">ΟΧΙ</span>.</p></li>
 </ol></div></div></div>
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="Προσαρμογή της επιφάνειας εργασίας σας">Προσαρμογή της επιφάνειας εργασίας σας</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.el#desktop" title="Προσαρμογή της επιφάνειας εργασίας σας">Προσαρμογή της επιφάνειας εργασίας σας</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

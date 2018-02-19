@@ -44,21 +44,21 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.nl" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html.nl#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html" title="Toetsenbord">Toetsenbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html" title="Toetsenbord">Toetsenbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Plaktoetsen activeren</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p"><span class="em">Plaktoetsen</span> stelt u in staat om sneltoetsen in te voeren door toetsen één voor één in te drukken, in plaats van alle toetsen in één keer tegelijk. Bijvoorbeeld, met de sneltoets <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> schakelt u tussen vensters. Zonder Plaktoetsen moet u deze twee toetsen allebei tegelijk ingedrukt houden; met Plaktoetsen ingeschakeld, drukt u eerst op <span class="key"><kbd>Super</kbd></span>, en dan op <span class="key"><kbd>Tab</kbd></span>, om hetzelfde te doen.</p>
+<p class="p"><span class="em">Plaktoetsen</span> stelt u in staat om sneltoetsen in te voeren door toetsen één voor één in te drukken, in plaats van alle toetsen in één keer tegelijk. Bijvoorbeeld, met de sneltoets <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> schakelt u tussen vensters. Zonder Plaktoetsen moet u deze twee toetsen allebei tegelijk ingedrukt houden; met Plaktoetsen ingeschakeld, drukt u eerst op <span class="key"><kbd>Super</kbd></span>, en dan op <span class="key"><kbd>Tab</kbd></span>, om hetzelfde te doen.</p>
 <p class="p">U kunt Plaktoetsen inschakelen als u het lastig vindt om meerdere toetsen tegelijk ingedrukt te houden.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Universele toegang</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Druk op <span class="gui">Typ-assistent (AccessX)</span> onder het kopje <span class="gui">Typen</span>.</p></li>
 <li class="steps"><p class="p">Zet <span class="gui">Plaktoetsen</span> <span class="gui">AAN</span>.</p></li>
@@ -67,7 +67,7 @@
 <div class="title title-note"><h2><span class="title">Plaktoetsen snel in- of uitschakelen</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Kies onder <span class="gui">Per toetsenbord inschakelen</span>, <span class="gui">Toegankelijkheidopties van het toetsenbord inschakelen</span> om plaktoetsen in- of uit te schakelen. Als deze optie is geselecteerd, kunt u <span class="key"><kbd>Shift</kbd></span> acht seconden lang ingedrukt houden om plaktoetsen in- of uit te schakelen.</p>
-<p class="p">U kunt Plaktoetsen ook in- en uitschakelen door te klikken op het <span class="link"><a href="a11y-icon.html" title="Het menu Universele toegang vinden">toegankelijkheidspictogram</a></span> in de bovenste balk en <span class="gui">Plaktoetsen</span> te selecteren. Het toegankelijkheidspictogram is zichtbaar als één of meer instellingen in <span class="gui">Universele toegang</span> ingeschakeld zijn.</p>
+<p class="p">U kunt Plaktoetsen ook in- en uitschakelen door te klikken op het <span class="link"><a href="a11y-icon.html.nl" title="Het menu Universele toegang vinden">toegankelijkheidspictogram</a></span> in de bovenste balk en <span class="gui">Plaktoetsen</span> te selecteren. Het toegankelijkheidspictogram is zichtbaar als één of meer instellingen in <span class="gui">Universele toegang</span> ingeschakeld zijn.</p>
 </div></div>
 </div></div>
 <p class="p">Als u twee toetsen tegelijk indrukt, kan Plaktoetsen tijdelijk uitgeschakeld worden om een toetscombinatie op de gewone manier in te kunnen drukken.</p>
@@ -84,12 +84,12 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a></li>
+<li class="links "><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Toetsenbord">Toetsenbord</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html" title="Alternatieve toetsenbordindelingen gebruiken">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html" title="De toetsenbordcursor laten knipperen">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html#mobility" title="Beperkte mobiliteit">keyboard accessibility</a></span>…
+<a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a><span class="desc"> — 
+      <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">keyboard accessibility</a></span>…
     </span>
 </li>
 </ul></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#faq" title="Συμβουλές και ερωτήσεις">Συμβουλές και ερωτήσεις</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#faq" title="Συμβουλές και ερωτήσεις">Συμβουλές και ερωτήσεις</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ορισμός δικαιωμάτων αρχείου</span></h1></div>
@@ -68,7 +68,7 @@
     belong to.</p>
 <p class="p">You can also set the permissions for users other than the owner and
     those in the file’s group.</p>
-<p class="p">Εάν το αρχείο είναι ένα πρόγραμμα, όπως μια δέσμη ενεργειών, πρέπει να επιλέξετε <span class="gui">Να επιτρέπεται η εκτέλεση αρχείου ως προγράμματος</span> για την εκτέλεση του. Ακόμα και με αυτήν την επιλογή σημειωμένη, ο διαχειριστής αρχείων μπορεί ακόμα να ανοίξει το αρχείο σε μια εφαρμογή ή να σας ζητήσει τι να κάνετε. Για περισσότερες πληροφορίες δείτε <span class="link"><a href="nautilus-behavior.html#executable" title="Εκτελέσιμα αρχεία κειμένου">Εκτελέσιμα αρχεία κειμένου</a></span>.</p>
+<p class="p">Εάν το αρχείο είναι ένα πρόγραμμα, όπως μια δέσμη ενεργειών, πρέπει να επιλέξετε <span class="gui">Να επιτρέπεται η εκτέλεση αρχείου ως προγράμματος</span> για την εκτέλεση του. Ακόμα και με αυτήν την επιλογή σημειωμένη, ο διαχειριστής αρχείων μπορεί ακόμα να ανοίξει το αρχείο σε μια εφαρμογή ή να σας ζητήσει τι να κάνετε. Για περισσότερες πληροφορίες δείτε <span class="link"><a href="nautilus-behavior.html.el#executable" title="Εκτελέσιμα αρχεία κειμένου">Εκτελέσιμα αρχεία κειμένου</a></span>.</p>
 </div></div>
 </div></div>
 <div id="folders" class="sect"><div class="inner">
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Συμβουλές και ερωτήσεις">Συμβουλές και ερωτήσεις</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.el#faq" title="Συμβουλές και ερωτήσεις">Συμβουλές και ερωτήσεις</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-basic.html" title="Ιδιότητες αρχείου">Ιδιότητες αρχείου</a><span class="desc"> — Δείτε βασικές πληροφορίες ενός αρχείου, ορίστε δικαιώματα και επιλέξτε τις προεπιλεγμένες εφαρμογές.</span>
+<a href="nautilus-file-properties-basic.html.el" title="Ιδιότητες αρχείου">Ιδιότητες αρχείου</a><span class="desc"> — Δείτε βασικές πληροφορίες ενός αρχείου, ορίστε δικαιώματα και επιλέξτε τις προεπιλεγμένες εφαρμογές.</span>
 </li></ul></div>
 </div></div>
 </div>

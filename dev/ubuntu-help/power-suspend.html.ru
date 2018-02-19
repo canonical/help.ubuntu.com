@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="power.html" title="Питание и аккумулятор">Питание и аккумулятор</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="power.html.ru" title="Питание и аккумулятор">Питание и аккумулятор</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="power.html" title="Питание и аккумулятор">Питание и аккумулятор</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="power.html.ru" title="Питание и аккумулятор">Питание и аккумулятор</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Когда компьютер переходит в <span class="em">ждущий режим</span>, он «засыпает». Все открытые приложения и документы остаются открытыми, но экран и другие части компьютера отключаются, для уменьшения энергопотребления. Тем не менее, компьютер всё равно остаётся включенным и потребляет небольшое количество электроэнергии. Его можно вернуть в рабочий режим нажатием клавиши или щелчком мыши. Если это не действует, попробуйте нажать кнопку питания.</p>
 <p class="p">Some computers have problems with hardware support which mean that they
-<span class="link"><a href="power-suspendfail.html" title="Почему мой компьютер не выходит из ждущего режима?">may not be able to suspend properly</a></span>. It is
+<span class="link"><a href="power-suspendfail.html.ru" title="Почему мой компьютер не выходит из ждущего режима?">may not be able to suspend properly</a></span>. It is
 a good idea to test suspend on your computer to see if it does work before
 relying on it.</p>
 <div class="note note-important" title="Важно"><div class="inner">
@@ -69,10 +69,10 @@ relying on it.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Питание и аккумулятор">Питание и аккумулятор</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Что происходит при переходе компьютера в ждущий режим?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Почему мой экран через некоторое время гаснет?">screen dimming</a></span>…
+<a href="power.html.ru" title="Питание и аккумулятор">Питание и аккумулятор</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.ru" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.ru" title="Что происходит при переходе компьютера в ждущий режим?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.ru" title="Почему мой экран через некоторое время гаснет?">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -80,17 +80,17 @@ relying on it.</p>
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-autosuspend.html.ru" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Ждущий режим">Ждущий режим</a></li>
+<li class="links "><a href="shell-exit.html.ru#suspend" title="Ждущий режим">Ждущий режим</a></li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Почему мой компьютер не выходит из ждущего режима?">Почему мой компьютер не выходит из ждущего режима?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
-</li>
-<li class="links ">
-<a href="power-closelid.html" title="Почему мой компьютер отключается, когда я закрываю его крышку?">Почему мой компьютер отключается, когда я закрываю его крышку?</a><span class="desc"> — Ноутбуки переходят в ждущий режим при закрытии крышки для экономии электроэнергии.</span>
+<a href="power-suspendfail.html.ru" title="Почему мой компьютер не выходит из ждущего режима?">Почему мой компьютер не выходит из ждущего режима?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора">Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора</a><span class="desc"> — Советы по уменьшению энергопотребления компьютера</span>
+<a href="power-closelid.html.ru" title="Почему мой компьютер отключается, когда я закрываю его крышку?">Почему мой компьютер отключается, когда я закрываю его крышку?</a><span class="desc"> — Ноутбуки переходят в ждущий режим при закрытии крышки для экономии электроэнергии.</span>
+</li>
+<li class="links ">
+<a href="power-batterylife.html.ru" title="Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора">Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора</a><span class="desc"> — Советы по уменьшению энергопотребления компьютера</span>
 </li>
 </ul></div>
 </div></div>

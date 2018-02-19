@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="addremove.html" title="Installera &amp; ta bort mjukvara">Lägg till/ta bort program</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="addremove.html.sv" title="Installera &amp; ta bort mjukvara">Lägg till/ta bort program</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Installera språk</span></h1></div>
@@ -51,13 +51,13 @@
 <div class="contents">
 <p class="p">När du installerar Ubuntu kommer språket du valde för installationen installeras, tillsammans med engelska, men du kan lägga till andra språk.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Region &amp; språk</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Region &amp; språk</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Region &amp; språk</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Klicka på knappen <span class="gui">Hantera installerade språk</span> för att öppna <span class="gui">Språkstöd</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Installera / Ta bort språk...</span>. Fönstret <span class="gui">Installerade språk</span> visar en lista över alla tillgängliga språk, med de i nuläget installerade språken förbockade.</p></li>
 <li class="steps"><p class="p">Bocka för de språk du vill installera, och avbocka de nu installerade språk som du vill ta bort.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Verkställ ändringar</span>.</p></li>
-<li class="steps"><p class="p"><span class="link"><a href="user-admin-explain.html" title="Hur fungerar administratörsbehörighet?">Administratörsrättigheter</a></span> krävs. Skriv ditt lösenord, eller lösenordet för det begärda administratörskontot.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="user-admin-explain.html.sv" title="Hur fungerar administratörsbehörighet?">Administratörsrättigheter</a></span> krävs. Skriv ditt lösenord, eller lösenordet för det begärda administratörskontot.</p></li>
 </ol></div></div></div>
 <p class="p">Utöver översättningarna som används för att visa menyer och meddelanden kommer andra språkstödskomponenter inkluderas med ett nytt språk: ordböcker för stavningskontroll, teckensnitt, och inmatningsmetoder.</p>
 <div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Vissa översättningar kan vara ofullständiga, och vissa program kanske inte alls har stöd för ditt språk.</p></div></div></div></div>
@@ -68,17 +68,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Installera &amp; ta bort mjukvara">Installera &amp; ta bort mjukvara</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Installera fler program">Installera program</a></span>, <span class="link"><a href="addremove-remove.html" title="Ta bort ett program">ta bort program</a></span>, <span class="link"><a href="addremove-sources.html" title="Lägg till fler programförråd">lägg till förråd</a></span>…</span>
+<a href="addremove.html.sv" title="Installera &amp; ta bort mjukvara">Installera &amp; ta bort mjukvara</a><span class="desc"> — <span class="link"><a href="addremove-install.html.sv" title="Installera fler program">Installera program</a></span>, <span class="link"><a href="addremove-remove.html.sv" title="Ta bort ett program">ta bort program</a></span>, <span class="link"><a href="addremove-sources.html.sv" title="Lägg till fler programförråd">lägg till förråd</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Installera fler program">Installera fler program</a><span class="desc"> — Använd <span class="app">Programvara för Ubuntu</span> för att lägga till program och göra Ubuntu mer användbart.</span>
+<a href="addremove-install.html.sv" title="Installera fler program">Installera fler program</a><span class="desc"> — Använd <span class="app">Programvara för Ubuntu</span> för att lägga till program och göra Ubuntu mer användbart.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Region &amp; språk">Region &amp; språk</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Ändra vilket språk du använder">Ändra språk</a></span>, <span class="link"><a href="session-formats.html" title="Ändra datum och mätvärden">region och format</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Använd alternativa tangentbordslayouter">tangentbordslayouter</a></span>…</span>
+<a href="prefs-language.html.sv" title="Region &amp; språk">Region &amp; språk</a><span class="desc"> — <span class="link"><a href="session-language.html.sv" title="Ändra vilket språk du använder">Ändra språk</a></span>, <span class="link"><a href="session-formats.html.sv" title="Ändra datum och mätvärden">region och format</a></span>, <span class="link"><a href="keyboard-layouts.html.sv" title="Använd alternativa tangentbordslayouter">tangentbordslayouter</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">பணிமேசை</a> › <a class="trail" href="shell-overview.html#apps" title="பயன்பாடுகள் மற்றும் சாளரங்கள்">பயன்பாடுகள் மற்றும் சாளரங்கள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ta" title="Your desktop">பணிமேசை</a> › <a class="trail" href="shell-overview.html.ta#apps" title="பயன்பாடுகள் மற்றும் சாளரங்கள்">பயன்பாடுகள் மற்றும் சாளரங்கள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">சாளரங்கள் மற்றும் பணியிடங்கள்</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Like other desktops, GNOME uses windows to display your running
-  applications. Using both the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span>
+  applications. Using both the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span>
   overview and the <span class="em">dash</span>, you can launch new applications and control
   active windows.</p>
 <p class="p">நீங்கள் பணியிடத்திற்குள்ளாக உங்கள் பயன்பாடுகளை குழுப்படுத்தவும் முடியும். இந்த அம்சத்தை எப்படி சிறப்பாக பயன்படுத்துவது என அறிய, கீழே உள்ள சாளரம் மற்றும் பணியிட உதவி தலைப்புகளுக்குச் செல்க.</p>
@@ -59,13 +59,13 @@
 <div class="hgroup"><h2 class="title"><span class="title">சாளரங்களைப் பயன்படுத்துதல்</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html" title="ஒரு சாளரத்தை பெரிதாக்குதல் மற்றும் பெரிதாக்கல் நீக்குதல்"><span class="title">ஒரு சாளரத்தை பெரிதாக்குதல் மற்றும் பெரிதாக்கல் நீக்குதல்</span><span class="linkdiv-dash"> — </span><span class="desc">ஒரு சாளரத்தை பெரிதாக்க அல்லது மீட்டமைக்க அதன் தலைப்புப் பட்டியை இரு சொடுக்கவும் அல்லது இழுக்கவும்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="சாளரங்களிடையே மாறுதல்"><span class="title">சாளரங்களிடையே மாறுதல்</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> ஐ அழுத்தவும்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html" title="சாளரங்களை ஒன்றன் பின் ஒன்றாக அமைத்தல்"><span class="title">சாளரங்களை ஒன்றன் பின் ஒன்றாக அமைத்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">இரு சாளரங்களை ஒன்றின் பக்கத்தில் மற்றொன்றாக பெரிதாக்குதல்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.ta" title="ஒரு சாளரத்தை பெரிதாக்குதல் மற்றும் பெரிதாக்கல் நீக்குதல்"><span class="title">ஒரு சாளரத்தை பெரிதாக்குதல் மற்றும் பெரிதாக்கல் நீக்குதல்</span><span class="linkdiv-dash"> — </span><span class="desc">ஒரு சாளரத்தை பெரிதாக்க அல்லது மீட்டமைக்க அதன் தலைப்புப் பட்டியை இரு சொடுக்கவும் அல்லது இழுக்கவும்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.ta" title="சாளரங்களிடையே மாறுதல்"><span class="title">சாளரங்களிடையே மாறுதல்</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> ஐ அழுத்தவும்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.ta" title="சாளரங்களை ஒன்றன் பின் ஒன்றாக அமைத்தல்"><span class="title">சாளரங்களை ஒன்றன் பின் ஒன்றாக அமைத்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">இரு சாளரங்களை ஒன்றின் பக்கத்தில் மற்றொன்றாக பெரிதாக்குதல்.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html" title="சாளரங்களை நகர்த்துதல் மற்றும் அளவுமாற்றுதல்"><span class="title">சாளரங்களை நகர்த்துதல் மற்றும் அளவுமாற்றுதல்</span><span class="linkdiv-dash"> — </span><span class="desc">சாளரங்களை பணியிடத்தில் ஒழுங்கமைப்பது சிறப்பாக பணி புரிய உதவும்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html" title="தொலைந்து போன ஒரு சாளரத்தைக் கண்டுபிடித்தல்"><span class="title">தொலைந்து போன ஒரு சாளரத்தைக் கண்டுபிடித்தல்</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">செயல்பாடுகள்</span> மேலோட்டம் அல்லது பிற பணியிடங்களைப் பார்த்தல்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.ta" title="சாளரங்களை நகர்த்துதல் மற்றும் அளவுமாற்றுதல்"><span class="title">சாளரங்களை நகர்த்துதல் மற்றும் அளவுமாற்றுதல்</span><span class="linkdiv-dash"> — </span><span class="desc">சாளரங்களை பணியிடத்தில் ஒழுங்கமைப்பது சிறப்பாக பணி புரிய உதவும்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.ta" title="தொலைந்து போன ஒரு சாளரத்தைக் கண்டுபிடித்தல்"><span class="title">தொலைந்து போன ஒரு சாளரத்தைக் கண்டுபிடித்தல்</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">செயல்பாடுகள்</span> மேலோட்டம் அல்லது பிற பணியிடங்களைப் பார்த்தல்.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -73,17 +73,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">பணியிடங்களைப் பயன்படுத்துதல்</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html" title="பணியிடம் என்றால் என்ன, அது எப்படி எனக்கு உதவும்?"><span class="title">பணியிடம் என்றால் என்ன, அது எப்படி எனக்கு உதவும்?</span><span class="linkdiv-dash"> — </span><span class="desc">பணியிடங்கள் உங்கள் பணிமேசையில் உள்ள சாளரங்களைக் குழுப்படுத்த உதவுகின்றன.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html" title="ஒரு சாளரத்தை வேறு பணியிடத்திற்கு நகர்த்துதல்"><span class="title">ஒரு சாளரத்தை வேறு பணியிடத்திற்கு நகர்த்துதல்</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">செயல்பாடுகள்</span> மேலோட்டத்திற்குச் சென்று சாளரத்தை வேறு பணியிடத்திற்கு இழுத்துச் செல்லுதல்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.ta" title="பணியிடம் என்றால் என்ன, அது எப்படி எனக்கு உதவும்?"><span class="title">பணியிடம் என்றால் என்ன, அது எப்படி எனக்கு உதவும்?</span><span class="linkdiv-dash"> — </span><span class="desc">பணியிடங்கள் உங்கள் பணிமேசையில் உள்ள சாளரங்களைக் குழுப்படுத்த உதவுகின்றன.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.ta" title="ஒரு சாளரத்தை வேறு பணியிடத்திற்கு நகர்த்துதல்"><span class="title">ஒரு சாளரத்தை வேறு பணியிடத்திற்கு நகர்த்துதல்</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">செயல்பாடுகள்</span> மேலோட்டத்திற்குச் சென்று சாளரத்தை வேறு பணியிடத்திற்கு இழுத்துச் செல்லுதல்.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html" title="பணியிடங்களிடையே மாறுதல்"><span class="title">பணியிடங்களிடையே மாறுதல்</span><span class="linkdiv-dash"> — </span><span class="desc">பணியிடத் தேர்வியைப் பயன்படுத்துதல்.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.ta" title="பணியிடங்களிடையே மாறுதல்"><span class="title">பணியிடங்களிடையே மாறுதல்</span><span class="linkdiv-dash"> — </span><span class="desc">பணியிடத் தேர்வியைப் பயன்படுத்துதல்.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="பயன்பாடுகள் மற்றும் சாளரங்கள்">பயன்பாடுகள் மற்றும் சாளரங்கள்</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.ta#apps" title="பயன்பாடுகள் மற்றும் சாளரங்கள்">பயன்பாடுகள் மற்றும் சாளரங்கள்</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

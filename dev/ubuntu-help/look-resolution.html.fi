@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="prefs-display.html" title="Näyttö">Näyttö</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="prefs-display.html.fi" title="Näyttö">Näyttö</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Change the resolution or rotation of the screen</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Voit muuttaa näytön tarkkuutta (näytöllä näkyvien esineiden kokoa) <span class="em">näytön resoluutio</span> säätimellä. Voit säätää mikä sivu näytöstä on yläreuna (esimerkiksi kierrettävät näytöt) muuttamalla <span class="em">kierto</span> asetuksia.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Displays</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Displays</span> to open the panel.</p></li>
 <li class="steps"><p class="p">If you have multiple displays and they are not mirrored, you can have
@@ -74,7 +74,7 @@
   resolution that does not match the aspect ratio of your display, the screen
   will be letterboxed to avoid distortion, by adding black bars to the top and
   bottom or both sides of the screen.</p>
-<p class="p">Voit muuttaa oletustarkkuutta valitsemalla jonkin toisen <span class="gui">tarkkuuden</span> pudotusvalikosta. Jos valitset näytöllesi sopimattoman tarkkuuden, se voi <span class="link"><a href="look-display-fuzzy.html" title="Miksi näytöllä olevat kohteet näyttävät sumeilta tai kulmikkailta?">näyttää sumealta tai epätarkalta</a></span>.</p>
+<p class="p">Voit muuttaa oletustarkkuutta valitsemalla jonkin toisen <span class="gui">tarkkuuden</span> pudotusvalikosta. Jos valitset näytöllesi sopimattoman tarkkuuden, se voi <span class="link"><a href="look-display-fuzzy.html.fi" title="Miksi näytöllä olevat kohteet näyttävät sumeilta tai kulmikkailta?">näyttää sumealta tai epätarkalta</a></span>.</p>
 </div></div>
 </div></div>
 <div id="rotation" class="sect"><div class="inner">
@@ -89,13 +89,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Näyttö">Näyttö</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Taustakuva</a></span>, <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">koko ja asento</a></span>, kirkkaus…</span>
+<a href="prefs-display.html.fi" title="Näyttö">Näyttö</a><span class="desc"> — <span class="link"><a href="look-background.html.fi" title="Change the desktop and lock screen backgrounds">Taustakuva</a></span>, <span class="link"><a href="look-resolution.html.fi" title="Change the resolution or rotation of the screen">koko ja asento</a></span>, kirkkaus…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-display-fuzzy.html" title="Miksi näytöllä olevat kohteet näyttävät sumeilta tai kulmikkailta?">Miksi näytöllä olevat kohteet näyttävät sumeilta tai kulmikkailta?</a><span class="desc"> — Näytön resoluutio on saatettu asettaa virheellisesti.</span>
+<a href="look-display-fuzzy.html.fi" title="Miksi näytöllä olevat kohteet näyttävät sumeilta tai kulmikkailta?">Miksi näytöllä olevat kohteet näyttävät sumeilta tai kulmikkailta?</a><span class="desc"> — Näytön resoluutio on saatettu asettaa virheellisesti.</span>
 </li></ul></div>
 </div></div>
 </div>

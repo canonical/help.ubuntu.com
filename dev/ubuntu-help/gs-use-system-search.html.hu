@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Kezdeti lépések">Kezdeti lépések GNOME alatt</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.hu" title="Kezdeti lépések">Kezdeti lépések GNOME alatt</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-windows-workspaces.html" title="Ablakok és munkaterületek használata">Előző</a><a class="nextlinks-next" href="gs-get-online.html" title="Kapcsolódás a hálózatra">Következő</a>
+<a class="nextlinks-prev" href="gs-use-windows-workspaces.html.hu" title="Ablakok és munkaterületek használata">Előző</a><a class="nextlinks-next" href="gs-get-online.html.hu" title="Kapcsolódás a hálózatra">Következő</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Rendszerkeresés használata</span></h1></div>
 <div class="region">
@@ -87,7 +87,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">A találatok személyre szabásához:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Kattintson a <span class="gui"><a href="shell-introduction.html#yourname" title="Ön és a számítógépe">rendszer menüre</a></span> a felső sáv jobb oldalán.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui"><a href="shell-introduction.html.hu#yourname" title="Ön és a számítógépe">rendszer menüre</a></span> a felső sáv jobb oldalán.</p></li>
 <li class="steps"><p class="p">Nyomja meg a Beállítások gombot a menü bal alsó részén.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Keresés</span> panelre.</p></li>
 <li class="steps"><p class="p">A keresési helyek listájában kattintson a <span class="gui">BE/KI</span> kapcsolóra az engedélyezni vagy letiltani kívánt keresési hely mellett.</p></li>
@@ -96,7 +96,7 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-windows-workspaces.html" title="Ablakok és munkaterületek használata">Előző</a><a class="nextlinks-next" href="gs-get-online.html" title="Kapcsolódás a hálózatra">Következő</a>
+<a class="nextlinks-prev" href="gs-use-windows-workspaces.html.hu" title="Ablakok és munkaterületek használata">Előző</a><a class="nextlinks-next" href="gs-get-online.html.hu" title="Kapcsolódás a hálózatra">Következő</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -104,13 +104,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Kezdeti lépések">Kezdeti lépések GNOME alatt</a><span class="desc"> — Új GNOME felhasználó? Ismerkedjen meg az alapokkal.</span>
+<a href="getting-started.html.hu" title="Kezdeti lépések">Kezdeti lépések GNOME alatt</a><span class="desc"> — Új GNOME felhasználó? Ismerkedjen meg az alapokkal.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html" title="Alkalmazások indítása">Alkalmazások indítása</a><span class="desc"> — Alkalmazások indítása a <span class="gui">Tevékenységek</span> áttekintésből.</span>
+<a href="shell-apps-open.html.hu" title="Alkalmazások indítása">Alkalmazások indítása</a><span class="desc"> — Alkalmazások indítása a <span class="gui">Tevékenységek</span> áttekintésből.</span>
 </li></ul></div>
 </div></div>
 </div>

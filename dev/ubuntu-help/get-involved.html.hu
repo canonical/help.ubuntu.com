@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html" title="További segítség">További segítség</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.hu" title="További segítség">További segítség</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vegyen részt ezen útmutató tökéletesítésében</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Ezt a súgórendszert egy önkéntes közösség készítette. Részvételét szívesen fogadjuk. Ha hibát (például elgépeléseket, helytelen utasításokat vagy hiányzó témaköröket) talál ezeken a súgóoldalakon, akkor küldjön be egy <span class="em">hibajelentést</span>.</p>
 <p class="p">A hibajelentés beküldéséhez nyomja meg az <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> kombinációt, és írja be az <span class="input">ubuntu-bug ubuntu-docs</span> parancsot. Nyomja meg az <span class="gui">Enter</span> billentyűt a hibával kapcsolatos információk összegyűjtéséhez.</p>
-<p class="p">A hibajelentés beküldésével kapcsolatos további információkért nézze meg az <span class="link"><a href="report-ubuntu-bug.html" title="Az Ubuntuval kapcsolatos probléma bejelentése">Ubuntu hibajelentési utasításokat</a></span>.</p>
+<p class="p">A hibajelentés beküldésével kapcsolatos további információkért nézze meg az <span class="link"><a href="report-ubuntu-bug.html.hu" title="Az Ubuntuval kapcsolatos probléma bejelentése">Ubuntu hibajelentési utasításokat</a></span>.</p>
 <p class="p">Köszönjük, hogy segít jobbá tenni az Ubuntu súgóját!</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -60,13 +60,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html" title="További segítség">További segítség</a><span class="desc"> — <span class="link"><a href="about-this-guide.html" title="A kézikönyv névjegye">Tippek az útmutató használatához</a></span>, <span class="link"><a href="get-involved.html" title="Vegyen részt ezen útmutató tökéletesítésében">segítsen jobbá tenni az útmutatót</a></span>…</span>
+<a href="more-help.html.hu" title="További segítség">További segítség</a><span class="desc"> — <span class="link"><a href="about-this-guide.html.hu" title="A kézikönyv névjegye">Tippek az útmutató használatához</a></span>, <span class="link"><a href="get-involved.html.hu" title="Vegyen részt ezen útmutató tökéletesítésében">segítsen jobbá tenni az útmutatót</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="report-ubuntu-bug.html" title="Az Ubuntuval kapcsolatos probléma bejelentése">Az Ubuntuval kapcsolatos probléma bejelentése</a><span class="desc"> — Hogyan és hol jelentheti az Ubuntuval kapcsolatos problémákat.</span>
+<a href="report-ubuntu-bug.html.hu" title="Az Ubuntuval kapcsolatos probléma bejelentése">Az Ubuntuval kapcsolatos probléma bejelentése</a><span class="desc"> — Hogyan és hol jelentheti az Ubuntuval kapcsolatos problémákat.</span>
 </li></ul></div>
 </div></div>
 </div>

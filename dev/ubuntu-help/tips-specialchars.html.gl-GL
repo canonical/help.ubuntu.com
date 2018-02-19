@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="tips.html" title="Consellos e trucos">Consellos e trucos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="tips.html.gl-GL" title="Consellos e trucos">Consellos e trucos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Inserir caracteres especiais</span></h1></div>
@@ -55,22 +55,14 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Métodos para inserir caracteres</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Mapa de caracteres">Mapa de caracteres</a></li>
-<li class="links "><a href="tips-specialchars.html#characters" title="Characters">Characters</a></li>
-<li class="links "><a href="tips-specialchars.html#compose" title="Tecla Compose">Tecla Compose</a></li>
-<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Puntos de código">Puntos de código</a></li>
-<li class="links "><a href="tips-specialchars.html#layout" title="Disposicións de teclado">Disposicións de teclado</a></li>
-<li class="links "><a href="tips-specialchars.html#im" title="Métodos de entrada">Métodos de entrada</a></li>
+<li class="links "><a href="tips-specialchars.html.gl-GL#characters" title="Characters">Characters</a></li>
+<li class="links "><a href="tips-specialchars.html.gl-GL#compose" title="Tecla Compose">Tecla Compose</a></li>
+<li class="links "><a href="tips-specialchars.html.gl-GL#ctrlshiftu" title="Puntos de código">Puntos de código</a></li>
+<li class="links "><a href="tips-specialchars.html.gl-GL#layout" title="Disposicións de teclado">Disposicións de teclado</a></li>
+<li class="links "><a href="tips-specialchars.html.gl-GL#im" title="Métodos de entrada">Métodos de entrada</a></li>
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Mapa de caracteres</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">GNOME ven con un aplicativo de mapa de caracteres que lle permite explorar tódolos caracteres en Unicode. Use o mapa de caracteres para atopar o caracter que quere e logo cópieo e pégueo onde o precise.</p>
-<p class="p">Pode atopar o <span class="app">Mapa de caracteres</span> na vista de <span class="gui">Actividades</span>. Para máis información sobre o mapa de caracteres vexa o <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">Manual do mapa de caracteres</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Characters</span></h2></div>
 <div class="region"><div class="contents">
@@ -91,15 +83,19 @@
 <div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
       change this setting.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Define a compose key</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Definir unha tecla composta</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span>
+        overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Keyboard &amp; Mouse</span> tab.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span> setting.</p></li>
-<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you want to use.</p></li>
-<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose key.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span>
+        setting.</p></li>
+<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you
+        want to use.</p></li>
+<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose
+        key.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div>
 </div></div>
@@ -127,7 +123,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Disposicións de teclado</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Pode facer que o teclado se comporte como o teclado doutro idioma, independentemente das teclas impresas nas teclas. Incluso pode cambiar facilmente entre diferentes distribucións de teclado cunha icona na barra superior. Para saber como facelo, consulte a <span class="link"><a href="keyboard-layouts.html" title="Usar distribucións de teclado alternativas">Usar distribucións de teclado alternativas</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Pode facer que o teclado se comporte como o teclado doutro idioma, independentemente das teclas impresas nas teclas. Incluso pode cambiar facilmente entre diferentes distribucións de teclado cunha icona na barra superior. Para saber como facelo, consulte a <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">Usar distribucións de teclado alternativas</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Métodos de entrada</span></h2></div>
@@ -145,13 +141,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Consellos e trucos">Consellos e trucos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Inserir caracteres especiais">Caracteres especiais</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Clic central">atallos de botón do medio</a></span>…</span>
+<a href="tips.html.gl-GL" title="Consellos e trucos">Consellos e trucos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.gl-GL" title="Inserir caracteres especiais">Caracteres especiais</a></span>, <span class="link"><a href="mouse-middleclick.html.gl-GL" title="Clic central">atallos de botón do medio</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Usar distribucións de teclado alternativas">Usar distribucións de teclado alternativas</a><span class="desc"> — Engadir disposicións de teclado e cambiar entre elas.</span>
+<a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">Usar distribucións de teclado alternativas</a><span class="desc"> — Engadir disposicións de teclado e cambiar entre elas.</span>
 </li></ul></div>
 </div></div>
 </div>

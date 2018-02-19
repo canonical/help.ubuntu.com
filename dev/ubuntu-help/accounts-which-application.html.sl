@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="accounts.html" title="Spletni računi">Spletni računi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="accounts.html.sl" title="Spletni računi">Spletni računi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Online services and applications</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Once you have added an online account, any application can use that
   account for any of the available services that you have not
-  <span class="link"><a href="accounts-disable-service.html" title="Nadzor do katerih spletnih staritev lahko dostopa račun">disabled</a></span>. Different
+  <span class="link"><a href="accounts-disable-service.html.sl" title="Nadzor do katerih spletnih staritev lahko dostopa račun">disabled</a></span>. Different
   providers provide different services. This page lists the different
   services and some of the applications that are known to use them.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
@@ -73,7 +73,7 @@
       <span class="app">Documents</span> application.</p></dd>
 <dt class="terms">Datoteke</dt>
 <dd class="terms"><p class="p">The Files service adds a remote file location, as if you had added
-      one using the <span class="link"><a href="nautilus-connect.html" title="Brskanje datotek na strežniku ali omrežni souporabi">Connect to Server</a></span>
+      one using the <span class="link"><a href="nautilus-connect.html.sl" title="Brskanje datotek na strežniku ali omrežni souporabi">Connect to Server</a></span>
       functionality in the file manager. You can access remote files using
       the file manager, as well as through file open and save dialogs in any
       application.</p></dd>
@@ -101,17 +101,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Spletni računi">Spletni računi</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Dodaj račun">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Odstranitev računa">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.sl" title="Spletni računi">Spletni računi</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.sl" title="Dodaj račun">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.sl" title="Odstranitev računa">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.sl" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="Nadzor do katerih spletnih staritev lahko dostopa račun">Nadzor do katerih spletnih staritev lahko dostopa račun</a><span class="desc"> — Nekatere spletne račune lahko uporabite za dostop do več storitev (kot sta koledar in e-pošta). Nadzirate lahko katere od teh storitev lahko uporabljajo programi.</span>
+<a href="accounts-disable-service.html.sl" title="Nadzor do katerih spletnih staritev lahko dostopa račun">Nadzor do katerih spletnih staritev lahko dostopa račun</a><span class="desc"> — Nekatere spletne račune lahko uporabite za dostop do več storitev (kot sta koledar in e-pošta). Nadzirate lahko katere od teh storitev lahko uporabljajo programi.</span>
 </li></ul></div>
 </div></div>
 </div>

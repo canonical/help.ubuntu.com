@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="Berbagi">Berbagi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.id" title="Berbagi">Berbagi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -187,15 +187,15 @@ internet/network address.</p>
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Berbagi">Berbagi</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Berbagi desktop Anda">Berbagi desktop</a></span>, <span class="link"><a href="files-share.html" title="Berbagi berkas lewat surel">Berbagi berkas lewat surel</a></span>, <span class="link"><a href="sharing-media.html" title="Berbagi pakai musik, foto, dan video Anda">Berbagi media</a></span>…</span>
+<a href="sharing.html.id" title="Berbagi">Berbagi</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.id" title="Berbagi desktop Anda">Berbagi desktop</a></span>, <span class="link"><a href="files-share.html.id" title="Berbagi berkas lewat surel">Berbagi berkas lewat surel</a></span>, <span class="link"><a href="sharing-media.html.id" title="Berbagi pakai musik, foto, dan video Anda">Berbagi media</a></span>…</span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
+<li class="links "><a href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html" title="Berbagi berkas lewat surel">Berbagi berkas lewat surel</a><span class="desc"> — Easily transfer files to your email contacts from the file
+<a href="files-share.html.id" title="Berbagi berkas lewat surel">Berbagi berkas lewat surel</a><span class="desc"> — Easily transfer files to your email contacts from the file
     manager.</span>
 </li></ul></div>
 </div></div>

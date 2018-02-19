@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Начало работы">Начало работы с GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.ru" title="Начало работы">Начало работы с GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="Подключение к сетевым учётным записям">Назад</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="Выбор фона рабочего стола">Вперёд</a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.ru" title="Подключение к сетевым учётным записям">Назад</a><a class="nextlinks-next" href="gs-change-wallpaper.html.ru" title="Выбор фона рабочего стола">Вперёд</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Смена даты, времени и часового пояса</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html#yourname" title="Вы и ваш компьютер">system menu</a></span>
+<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html.ru#yourname" title="Вы и ваш компьютер">system menu</a></span>
     on the right side of the top bar.</p></li>
 <li class="steps"><p class="p">Click the settings button at the bottom left of the menu.</p></li>
 <li class="steps"><p class="p">Select the <span class="gui">Date &amp; Time</span> panel.</p></li>
@@ -72,7 +72,7 @@
 </ol></div></div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="Подключение к сетевым учётным записям">Назад</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="Выбор фона рабочего стола">Вперёд</a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.ru" title="Подключение к сетевым учётным записям">Назад</a><a class="nextlinks-next" href="gs-change-wallpaper.html.ru" title="Выбор фона рабочего стола">Вперёд</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -80,17 +80,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Начало работы">Начало работы с GNOME</a><span class="desc"> — Новичок в GNOME? Узнай, с чего начать.</span>
+<a href="getting-started.html.ru" title="Начало работы">Начало работы с GNOME</a><span class="desc"> — Новичок в GNOME? Узнай, с чего начать.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Дата и время">Дата и время</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html" title="Изменение даты и времени">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="Изменение часового пояса">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="События календаря">calendar and appointments</a></span>…
+<a href="clock.html.ru" title="Дата и время">Дата и время</a><span class="desc"> — 
+      <span class="link"><a href="clock-set.html.ru" title="Изменение даты и времени">Set date and time</a></span>,
+      <span class="link"><a href="clock-world.html.ru" title="Add a world clock">world clocks</a></span>,
+      <span class="link"><a href="clock-timezone.html.ru" title="Изменение часового пояса">timezone</a></span>,
+      <span class="link"><a href="clock-calendar.html.ru" title="События календаря">calendar and appointments</a></span>…
     </span>
 </li></ul></div>
 </div></div>

@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">Settings</a> » <a class="trail" href="privacy.html" title="Privacy Settings">Privacy Settings</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="privacy.html.da" title="Privacy Settings">Privacy Settings</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Automatically lock your screen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">When you leave your computer, you should
-  <span class="link"><a href="shell-exit.html#lock-screen" title="Lås skærmen">lock the screen</a></span> to prevent
+  <span class="link"><a href="shell-exit.html.da#lock-screen" title="Lås skærmen">lock the screen</a></span> to prevent
   other people from using your desktop and accessing your files. If you
   sometimes forget to lock your screen, you may wish to have your computer’s
   screen lock automatically after a set period of time. This will help to
@@ -62,7 +62,7 @@
 <div class="title title-steps"><h2><span class="title">To set the length of time before your screen locks
     automatically:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Privatliv</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Privatliv</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Privacy</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Screen Lock</span>.</p></li>
 <li class="steps"><p class="p">Make sure <span class="gui">Automatic Screen Lock</span> is switched <span class="gui">ON</span>,
@@ -86,19 +86,19 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html" title="Privacy Settings">Privacy Settings</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html" title="Automatically lock your screen">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
+<a href="privacy.html.da" title="Privacy Settings">Privacy Settings</a><span class="desc"> — 
+      <span class="link"><a href="privacy-screen-lock.html.da" title="Automatically lock your screen">Screen lock</a></span>,
+      <span class="link"><a href="privacy-history-recent-off.html.da" title="Turn off or limit file history tracking">Usage history</a></span>,
+      <span class="link"><a href="privacy-purge.html.da" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Lås skærmen">Lås skærmen</a></li>
+<li class="links "><a href="shell-exit.html.da#lock-screen" title="Lås skærmen">Lås skærmen</a></li>
 <li class="links ">
-<a href="session-screenlocks.html" title="The screen locks itself too quickly">The screen locks itself too quickly</a><span class="desc"> — Change how long to wait before locking the screen in the
+<a href="session-screenlocks.html.da" title="The screen locks itself too quickly">The screen locks itself too quickly</a><span class="desc"> — Change how long to wait before locking the screen in the
     <span class="gui">Privacy</span> settings.</span>
 </li>
 </ul></div>

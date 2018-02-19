@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="color.html" title="Správa barev">Správa barev</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="color.html.cs" title="Správa barev">Správa barev</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="color.html" title="Správa barev">Správa barev</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="color.html.cs" title="Správa barev">Správa barev</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Můžete chtít přiřadit profil barev své obrazovce nebo tiskárně, aby barvy, které zobrazují, byly věrohodnější.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Barvy</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Barvy</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Barvy</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Vyberte zařízení, pro které chcete přidat profil.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Přidat profil</span> pro výběr stávajícího profilu nebo import nového profilu.</p></li>
@@ -70,20 +70,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html" title="Správa barev">Správa barev</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html" title="Proč je správa barev důležitá?">Proč je to důležité</a></span>, <span class="link"><a href="color.html#profiles" title="Profily barev">profily barev</a></span>, <span class="link"><a href="color.html#calibration" title="Kalibrace">jak zkalibrovat zařízení</a></span>…</span>
+<a href="color.html.cs" title="Správa barev">Správa barev</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.cs" title="Proč je správa barev důležitá?">Proč je to důležité</a></span>, <span class="link"><a href="color.html.cs#profiles" title="Profily barev">profily barev</a></span>, <span class="link"><a href="color.html.cs#calibration" title="Kalibrace">jak zkalibrovat zařízení</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Co je to profil barev?">Co je to profil barev?</a><span class="desc"> — Profil barev je jednoduchý soubor, který vyjadřuje prostor barev nebo odezvu zařízení.</span>
+<a href="color-whatisprofile.html.cs" title="Co je to profil barev?">Co je to profil barev?</a><span class="desc"> — Profil barev je jednoduchý soubor, který vyjadřuje prostor barev nebo odezvu zařízení.</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html" title="Jak mohu naimportovat profily barev?">Jak mohu naimportovat profily barev?</a><span class="desc"> — Profily barev lze naimportovat jejich otevřením.</span>
+<a href="color-howtoimport.html.cs" title="Jak mohu naimportovat profily barev?">Jak mohu naimportovat profily barev?</a><span class="desc"> — Profily barev lze naimportovat jejich otevřením.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Proč si musím kalibraci dělat sám?">Proč si musím kalibraci dělat sám?</a><span class="desc"> — Kalibrace je důležitá, když se staráte o věrnost barev, které zobrazujete nebo tisknete.</span>
+<a href="color-why-calibrate.html.cs" title="Proč si musím kalibraci dělat sám?">Proč si musím kalibraci dělat sám?</a><span class="desc"> — Kalibrace je důležitá, když se staráte o věrnost barev, které zobrazujete nebo tisknete.</span>
 </li>
 </ul></div>
 </div></div>

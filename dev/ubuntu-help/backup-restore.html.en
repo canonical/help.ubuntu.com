@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#backup" title="Backing up">Backing up</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.en" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.en#backup" title="Backing up">Backing up</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Restore a backup</span></h1></div>
@@ -54,7 +54,7 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">If you want to restore your backup from a device such as external
  hard drive, USB drive or another computer on the network, you can
- <span class="link"><a href="files-copy.html" title="Copy or move files and folders">copy them</a></span> back to your computer.</p></li>
+ <span class="link"><a href="files-copy.html.en" title="Copy or move files and folders">copy them</a></span> back to your computer.</p></li>
 <li class="list"><p class="p">If you created your backup using a backup application such as
  <span class="app">Déjà Dup</span>, it is recommended that you use the same application to
  restore your backup. Review the application help for your backup program: it
@@ -65,7 +65,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">More Information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Backing up">Backing up</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.en#backup" title="Backing up">Backing up</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

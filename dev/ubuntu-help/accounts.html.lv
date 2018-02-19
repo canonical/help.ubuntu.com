@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tiešsaistes konti</span></h1></div>
@@ -51,12 +51,12 @@
 <div class="contents">
 <p class="p">Jūs varat ievadīt savas ierakstīšanās detaļas kādiem tiešsaistes servisiem, piemēram, Google un Facebook logā <span class="app">Tiešsaistes konti</span>. Tas jums ļaus izmantot lietotnes, lai piekļūtu tiešsaistes pakalpojumiem, piemēram, e-pastas, kalendāriem, tērzēšanai un dokumentiem.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="accounts-add.html" title="Pievienot kontu"><span class="title">Pievienot kontu</span><span class="linkdiv-dash"> — </span><span class="desc">Ļaut lietotnēm piekļūt saviem kontiem fotogrāfijām, kontaktiem, kalendāriem un vēl.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html" title="Izņemt kontu"><span class="title">Izņemt kontu</span><span class="linkdiv-dash"> — </span><span class="desc">Noņemiet pieeju pie tiešsaistes pakalpojumu sniedzēja no jūsu lietotnēm.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html" title="Kāpēc pievienot kontu?"><span class="title">Kāpēc pievienot kontu?</span><span class="linkdiv-dash"> — </span><span class="desc">Kāpēc pievienot savus e-pasta vai sociālo mediju kontus savai darbvirsmai?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html" title="Kāpēc mana konta tips nav sarakstā?"><span class="title">Kāpēc mana konta tips nav sarakstā?</span><span class="linkdiv-dash"> — </span><span class="desc">Ja tiešsaistes servisa pakalpojuma sniedzējs nav sarakstā?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html" title="Noteikt, kurus tiešsaistes servisus var lietot ar šo kontu"><span class="title">Noteikt, kurus tiešsaistes servisus var lietot ar šo kontu</span><span class="linkdiv-dash"> — </span><span class="desc">Daži tiešsaistes konti var tikt izmantoti, lai piekļūtu vairākiem servisiem (piemēram, kalendārs un e-pasts). Jūs varat noteikt, kurus no šiem servisiem var izmantot lietotnes.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html" title="Tiešsaistes servisi un lietotnes"><span class="title">Tiešsaistes servisi un lietotnes</span><span class="linkdiv-dash"> — </span><span class="desc">Lietotnes, kas var izmantot sadaļā <span class="app">Tiešsaistes konti</span> iestatītos kontus un servisus, kuriem tās var piekļūt.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.lv" title="Pievienot kontu"><span class="title">Pievienot kontu</span><span class="linkdiv-dash"> — </span><span class="desc">Ļaut lietotnēm piekļūt saviem kontiem fotogrāfijām, kontaktiem, kalendāriem un vēl.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.lv" title="Izņemt kontu"><span class="title">Izņemt kontu</span><span class="linkdiv-dash"> — </span><span class="desc">Noņemiet pieeju pie tiešsaistes pakalpojumu sniedzēja no jūsu lietotnēm.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.lv" title="Kāpēc pievienot kontu?"><span class="title">Kāpēc pievienot kontu?</span><span class="linkdiv-dash"> — </span><span class="desc">Kāpēc pievienot savus e-pasta vai sociālo mediju kontus savai darbvirsmai?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html.lv" title="Kāpēc mana konta tips nav sarakstā?"><span class="title">Kāpēc mana konta tips nav sarakstā?</span><span class="linkdiv-dash"> — </span><span class="desc">Ja tiešsaistes servisa pakalpojuma sniedzējs nav sarakstā?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.lv" title="Noteikt, kurus tiešsaistes servisus var lietot ar šo kontu"><span class="title">Noteikt, kurus tiešsaistes servisus var lietot ar šo kontu</span><span class="linkdiv-dash"> — </span><span class="desc">Daži tiešsaistes konti var tikt izmantoti, lai piekļūtu vairākiem servisiem (piemēram, kalendārs un e-pasts). Jūs varat noteikt, kurus no šiem servisiem var izmantot lietotnes.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.lv" title="Tiešsaistes servisi un lietotnes"><span class="title">Tiešsaistes servisi un lietotnes</span><span class="linkdiv-dash"> — </span><span class="desc">Lietotnes, kas var izmantot sadaļā <span class="app">Tiešsaistes konti</span> iestatītos kontus un servisus, kuriem tās var piekļūt.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -65,18 +65,18 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Lietotājs un sistēmas iestatījumi</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tastatūra">Tastatūra</a></span>, <span class="link"><a href="mouse.html" title="Pele">pele</a></span>, <span class="link"><a href="prefs-display.html" title="Displejs un ekrāns">displejs</a></span>, <span class="link"><a href="prefs-language.html" title="Vieta un valoda">valodas</a></span>, <span class="link"><a href="user-accounts.html" title="Lietotāju konti">lietotāju konti</a></span>…</span>
+<a href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Lietotājs un sistēmas iestatījumi</a><span class="desc"> — <span class="link"><a href="keyboard.html.lv" title="Tastatūra">Tastatūra</a></span>, <span class="link"><a href="mouse.html.lv" title="Pele">pele</a></span>, <span class="link"><a href="prefs-display.html.lv" title="Displejs un ekrāns">displejs</a></span>, <span class="link"><a href="prefs-language.html.lv" title="Vieta un valoda">valodas</a></span>, <span class="link"><a href="user-accounts.html.lv" title="Lietotāju konti">lietotāju konti</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-connect-online-accounts.html" title="Savienoties ar tiešsaistes kontiem">Ceļvedis darbā ar tiešsaistes kontiem</a></li>
+<li class="links "><a href="gs-connect-online-accounts.html.lv" title="Savienoties ar tiešsaistes kontiem">Ceļvedis darbā ar tiešsaistes kontiem</a></li>
 <li class="links ">
-<a href="net-chat.html" title="Tērzēšana un sociālie tīkli">Tērzēšana un sociālie tīkli</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Tūlītēja ziņojumapmaiņa uz Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Video zvani">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Kā es varu lietot Skype uz Ubuntu?">install skype</a></span>
+<a href="net-chat.html.lv" title="Tērzēšana un sociālie tīkli">Tērzēšana un sociālie tīkli</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.lv" title="Tūlītēja ziņojumapmaiņa uz Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.lv" title="Video zvani">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.lv" title="Kā es varu lietot Skype uz Ubuntu?">install skype</a></span>
     </span>
 </li>
 </ul></div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="color.html" title="Värinhallinta">Värinhallinta</a> › <a class="trail" href="color.html#profiles" title="Väriprofiilit">Väriprofiilit</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="color.html.fi" title="Värinhallinta">Värinhallinta</a> › <a class="trail" href="color.html.fi#profiles" title="Väriprofiilit">Väriprofiilit</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="color.html" title="Värinhallinta">Värinhallinta</a> › <a class="trail" href="color.html#profiles" title="Väriprofiilit">Väriprofiilit</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="color.html.fi" title="Värinhallinta">Värinhallinta</a> › <a class="trail" href="color.html.fi#profiles" title="Väriprofiilit">Väriprofiilit</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <p class="p">Alternatively you can manage your color profiles through the
   <span class="gui">Color</span> panel.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Color</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel and select your
       device.</p></li>
@@ -68,7 +68,7 @@
 <p class="p">The manufacturer of your display may supply a profile that you can use.
   These profiles are usually made for the average display, so may not be perfect
   for your specific one. For the best calibration, you should
-  <span class="link"><a href="color-calibrate-screen.html" title="Kuinka kalibroin näyttöni?">create your own profile</a></span> using a
+  <span class="link"><a href="color-calibrate-screen.html.fi" title="Kuinka kalibroin näyttöni?">create your own profile</a></span> using a
   colorimeter or a spectrophotometer.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -76,16 +76,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Väriprofiilit">Väriprofiilit</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.fi#profiles" title="Väriprofiilit">Väriprofiilit</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Kuinka kohdistan profiileja laitteisiin?">Kuinka kohdistan profiileja laitteisiin?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-assignprofiles.html.fi" title="Kuinka kohdistan profiileja laitteisiin?">Kuinka kohdistan profiileja laitteisiin?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Mitä väriprofiili tarkoittaa?">Mitä väriprofiili tarkoittaa?</a><span class="desc"> — Väriprofiili on tiedosto, joka ilmaisee laitteen väriominaisuuksia, kuten väriavaruuden.</span>
+<a href="color-whatisprofile.html.fi" title="Mitä väriprofiili tarkoittaa?">Mitä väriprofiili tarkoittaa?</a><span class="desc"> — Väriprofiili on tiedosto, joka ilmaisee laitteen väriominaisuuksia, kuten väriavaruuden.</span>
 </li>
 </ul></div>
 </div></div>

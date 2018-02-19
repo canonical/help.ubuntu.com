@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Log out, power off or switch users</span></h1></div>
@@ -55,7 +55,7 @@
 <div class="region"><div class="contents">
 <p class="p">Per permettere l'uso del computer a un altro utente, è possibile sia terminare la propria sessione sia lasciare in esecuzione la sessione e semplicemente cambiare utente. Se si cambia utente, tutte le proprie applicazioni resteranno in esecuzione, disponibili come le si era lasciate quando si riaccederà.</p>
 <p class="p">To <span class="gui">Log Out</span> or <span class="gui">Switch User</span>, click the
-  <span class="link"><a href="shell-introduction.html#yourname" title="Tu e il tuo computer">system menu</a></span> on the right side of the
+  <span class="link"><a href="shell-introduction.html.it#yourname" title="Tu e il tuo computer">system menu</a></span> on the right side of the
   top bar, click your name and then choose the right option.</p>
 <div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Log Out</span> and <span class="gui">Switch User</span> entries only appear in
     the menu if you have more than one user account on your system.</p></div></div></div></div>
@@ -68,7 +68,7 @@
 <p class="p">If you’re leaving your computer for a short time, you should lock your
   screen to prevent other people from accessing your files or running
   applications. When you return, raise the
-  <span class="link"><a href="shell-lockscreen.html" title="The Lock Screen">lock screen</a></span> curtain and enter your
+  <span class="link"><a href="shell-lockscreen.html.it" title="The Lock Screen">lock screen</a></span> curtain and enter your
   password to log back in. If you don’t lock your screen, it will lock
   automatically after a certain amount of time.</p>
 <p class="p">To lock your screen, click the system menu on the right side of the top
@@ -83,10 +83,10 @@
 <div class="title"><h3><span class="title">Confronta anche</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Bloccare automaticamente lo schermo">Bloccare automaticamente lo schermo</a><span class="desc"> — Impedire ad altre persone di usare il computer in caso di assenza.</span>
+<a href="privacy-screen-lock.html.it" title="Bloccare automaticamente lo schermo">Bloccare automaticamente lo schermo</a><span class="desc"> — Impedire ad altre persone di usare il computer in caso di assenza.</span>
 </li>
 <li class="links ">
-<a href="session-screenlocks.html" title="Lo schermo si blocca troppo velocemente">Lo schermo si blocca troppo velocemente</a><span class="desc"> — Change how long to wait before locking the screen in the
+<a href="session-screenlocks.html.it" title="Lo schermo si blocca troppo velocemente">Lo schermo si blocca troppo velocemente</a><span class="desc"> — Change how long to wait before locking the screen in the
     <span class="gui">Privacy</span> settings.</span>
 </li>
 </ul></div>
@@ -114,13 +114,13 @@
 <div class="title"><h3><span class="title">Confronta anche</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspend.html" title="Cosa succede quando si sospende il computer?">Cosa succede quando si sospende il computer?</a><span class="desc"> — Con la sospensione il computer si mette in pausa in modo da usare meno energia.</span>
+<a href="power-suspend.html.it" title="Cosa succede quando si sospende il computer?">Cosa succede quando si sospende il computer?</a><span class="desc"> — Con la sospensione il computer si mette in pausa in modo da usare meno energia.</span>
 </li>
 <li class="links ">
-<a href="power-autosuspend.html" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-autosuspend.html.it" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Usare meno energia e aumentare la durata della batteria">Usare meno energia e aumentare la durata della batteria</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
+<a href="power-batterylife.html.it" title="Usare meno energia e aumentare la durata della batteria">Usare meno energia e aumentare la durata della batteria</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -140,7 +140,7 @@
   administrative user, you may be asked for your password to power off.</p>
 <div class="note note-tip" title="Suggerimento"><div class="inner"><div class="region"><div class="contents"><p class="p">You may want to power off your computer if you wish to move it and do
     not have a battery, if your battery is low or does not hold charge well. A
-    powered off computer also uses <span class="link"><a href="power-batterylife.html" title="Usare meno energia e aumentare la durata della batteria">less
+    powered off computer also uses <span class="link"><a href="power-batterylife.html.it" title="Usare meno energia e aumentare la durata della batteria">less
     energy</a></span> than one which is suspended.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -148,7 +148,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Confronta anche</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html" title="Usare meno energia e aumentare la durata della batteria">Usare meno energia e aumentare la durata della batteria</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
+<a href="power-batterylife.html.it" title="Usare meno energia e aumentare la durata della batteria">Usare meno energia e aumentare la durata della batteria</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -161,19 +161,19 @@
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power.html" title="Alimentazione e batteria">Alimentazione e batteria</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Cosa succede quando si sospende il computer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Perché lo schermo si oscura dopo un po' di tempo?">screen dimming</a></span>…
+<a href="power.html.it" title="Alimentazione e batteria">Alimentazione e batteria</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.it" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.it" title="Cosa succede quando si sospende il computer?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.it" title="Perché lo schermo si oscura dopo un po' di tempo?">screen dimming</a></span>…
     </span>
 </li>
-<li class="links "><a href="index.html" title="Guida Ubuntu Desktop">Guida Ubuntu Desktop</a></li>
+<li class="links "><a href="index.html.it" title="Guida Ubuntu Desktop">Guida Ubuntu Desktop</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Your desktop">Your desktop</a><span class="desc"> — 
-      <span class="link"><a href="clock-calendar.html" title="Appuntamenti in calendario">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="Notifiche e cassetto dei messaggi">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="Utili scorciatoie da tastiera">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="Finestre e spazi di lavoro">windows and workspaces</a></span>…
+<a href="shell-overview.html.it" title="Your desktop">Your desktop</a><span class="desc"> — 
+      <span class="link"><a href="clock-calendar.html.it" title="Appuntamenti in calendario">Calendar</a></span>,
+      <span class="link"><a href="shell-notifications.html.it" title="Notifiche e cassetto dei messaggi">notifications</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.it" title="Utili scorciatoie da tastiera">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-windows.html.it" title="Finestre e spazi di lavoro">windows and workspaces</a></span>…
     </span>
 </li>
 </ul></div>
@@ -181,7 +181,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-autologin.html" title="Log in automatically">Log in automatically</a><span class="desc"> — Set up automatic login for when you switch on your computer.</span>
+<a href="user-autologin.html.it" title="Log in automatically">Log in automatically</a><span class="desc"> — Set up automatic login for when you switch on your computer.</span>
 </li></ul></div>
 </div></div>
 </div>

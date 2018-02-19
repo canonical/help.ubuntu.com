@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fecha y hora</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="clock-set.html" title="Cambiar la fecha y la hora"><span class="title">Cambiar la fecha y la hora</span><span class="linkdiv-dash"> — </span><span class="desc">Use la <span class="gui">Configuración de fecha y hora</span> para cambiar la fecha y/o la hora.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html" title="Cambiar su zona horaria"><span class="title">Cambiar su zona horaria</span><span class="linkdiv-dash"> — </span><span class="desc">Actualice su zona horaria con su ubicación actual para que su hora sea correcta.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="Citas de calendario"><span class="title">Citas de calendario</span><span class="linkdiv-dash"> — </span><span class="desc">Mostrar sus citas en el calendario en la parte superior de la pantalla.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-world.html" title="Añadir un reloj del mundo"><span class="title">Añadir un reloj del mundo</span><span class="linkdiv-dash"> — </span><span class="desc">Mostra rla hora de otras ciudades debajo del calendario.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-set.html.es" title="Cambiar la fecha y la hora"><span class="title">Cambiar la fecha y la hora</span><span class="linkdiv-dash"> — </span><span class="desc">Use la <span class="gui">Configuración de fecha y hora</span> para cambiar la fecha y/o la hora.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html.es" title="Cambiar su zona horaria"><span class="title">Cambiar su zona horaria</span><span class="linkdiv-dash"> — </span><span class="desc">Actualice su zona horaria con su ubicación actual para que su hora sea correcta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.es" title="Citas de calendario"><span class="title">Citas de calendario</span><span class="linkdiv-dash"> — </span><span class="desc">Mostrar sus citas en el calendario en la parte superior de la pantalla.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-world.html.es" title="Añadir un reloj del mundo"><span class="title">Añadir un reloj del mundo</span><span class="linkdiv-dash"> — </span><span class="desc">Mostra rla hora de otras ciudades debajo del calendario.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -60,12 +60,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Usuario y configuración del sistema">Usuario y configuración del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html" title="Ratón">ratón</a></span>, <span class="link"><a href="prefs-display.html" title="Pantalla">pantalla</a></span>, <span class="link"><a href="prefs-language.html" title="Región e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html" title="Cuentas de usuario">cuentas de usuario</a></span>…</span>
+<a href="prefs.html.es" title="Usuario y configuración del sistema">Usuario y configuración del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.es" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html.es" title="Ratón">ratón</a></span>, <span class="link"><a href="prefs-display.html.es" title="Pantalla">pantalla</a></span>, <span class="link"><a href="prefs-language.html.es" title="Región e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html.es" title="Cuentas de usuario">cuentas de usuario</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-change-date-time-timezone.html" title="Cambiar la fecha, hora y zona horaria">Un tutorial para cambiar la fecha, la hora y la zona horaria</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-change-date-time-timezone.html.es" title="Cambiar la fecha, hora y zona horaria">Un tutorial para cambiar la fecha, la hora y la zona horaria</a></li></ul></div>
 </div></div>
 </div>
 </div>

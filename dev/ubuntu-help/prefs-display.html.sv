@@ -43,25 +43,25 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Visning och skärm</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html" title="Anslut en andra skärm till din dator"><span class="title">Anslut en andra skärm till din dator</span><span class="linkdiv-dash"> — </span><span class="desc">Ställ in en extra skärm.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html" title="Skärmen låser sig själv allt för snabbt"><span class="title">Skärmen låser sig själv allt för snabbt</span><span class="linkdiv-dash"> — </span><span class="desc">Ändra hur länge det tar innan skärmen låser sig själv i <span class="gui">Sekretessinställningar</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html" title="Ställ in ljusstyrka"><span class="title">Ställ in ljusstyrka</span><span class="linkdiv-dash"> — </span><span class="desc">Ändra skärmens ljusstyrka för att göra den läsligare i starkt ljus.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Ställ in tiden för skärmtömning"><span class="title">Ställ in tiden för skärmtömning</span><span class="linkdiv-dash"> — </span><span class="desc">Ändra tiden till skärmtömning för att spara ström.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-background.html" title="Ändra skrivbords- och låsskärmsbakgrunderna"><span class="title">Ändra skrivbords- och låsskärmsbakgrunderna</span><span class="linkdiv-dash"> — </span><span class="desc">Ställ in en bild, färg eller toning som din skrivbordsbakgrund eller låsskärmsbakgrund.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-resolution.html" title="Ändra upplösning eller rotation på skärmen"><span class="title">Ändra upplösning eller rotation på skärmen</span><span class="linkdiv-dash"> — </span><span class="desc">Ändra upplösningen på skärmen och dess orientering (rotation).</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.sv" title="Anslut en andra skärm till din dator"><span class="title">Anslut en andra skärm till din dator</span><span class="linkdiv-dash"> — </span><span class="desc">Ställ in en extra skärm.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.sv" title="Skärmen låser sig själv allt för snabbt"><span class="title">Skärmen låser sig själv allt för snabbt</span><span class="linkdiv-dash"> — </span><span class="desc">Ändra hur länge det tar innan skärmen låser sig själv i <span class="gui">Sekretessinställningar</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.sv" title="Ställ in ljusstyrka"><span class="title">Ställ in ljusstyrka</span><span class="linkdiv-dash"> — </span><span class="desc">Ändra skärmens ljusstyrka för att göra den läsligare i starkt ljus.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.sv" title="Ställ in tiden för skärmtömning"><span class="title">Ställ in tiden för skärmtömning</span><span class="linkdiv-dash"> — </span><span class="desc">Ändra tiden till skärmtömning för att spara ström.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-background.html.sv" title="Ändra skrivbords- och låsskärmsbakgrunderna"><span class="title">Ändra skrivbords- och låsskärmsbakgrunderna</span><span class="linkdiv-dash"> — </span><span class="desc">Ställ in en bild, färg eller toning som din skrivbordsbakgrund eller låsskärmsbakgrund.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-resolution.html.sv" title="Ändra upplösning eller rotation på skärmen"><span class="title">Ändra upplösning eller rotation på skärmen</span><span class="linkdiv-dash"> — </span><span class="desc">Ändra upplösningen på skärmen och dess orientering (rotation).</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html" title="Användarkonton">användarkonton</a></span>…</span>
+<a href="prefs.html.sv" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html.sv" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html.sv" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html.sv" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html.sv" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html.sv" title="Användarkonton">användarkonton</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a> » <a class="trail" href="nautilus-prefs.html" title="Předvolby správce souborů">Předvolby správce souborů</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a> » <a class="trail" href="nautilus-prefs.html.cs" title="Předvolby správce souborů">Předvolby správce souborů</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Předvolby zobrazení v <span class="app">Souborech</span></span></h1></div>
@@ -55,7 +55,7 @@
 <dt class="terms"><span class="gui">Řadit položky</span></dt>
 <dd class="terms">
 <p class="p">Pomocí rozbalovacího seznamu <span class="gui">Řadit položky</span> můžete v předvolbách změnit výchozí řazení používané ve složkách na řazení souborů podle názvu, velikosti, typu, data poslední změny a data posledního přístupu.</p>
-<p class="p">Můžete změnit, jak se mají <span class="link"><a href="files-sort.html" title="Řazení souborů a složek">soubory řadit</a></span> v jednotlivých složkách tak, že kliknete na tlačítko voleb zobrazení na nástrojové liště a zvolíte <span class="gui">Název</span>, <span class="gui">Velikost</span>, <span class="gui">Typ</span> nebo <span class="gui">Naposledy změněn</span>, nebo tak, že kliknete v seznamovém zobrazení na záhlaví příslušného sloupce.</p>
+<p class="p">Můžete změnit, jak se mají <span class="link"><a href="files-sort.html.cs" title="Řazení souborů a složek">soubory řadit</a></span> v jednotlivých složkách tak, že kliknete na tlačítko voleb zobrazení na nástrojové liště a zvolíte <span class="gui">Název</span>, <span class="gui">Velikost</span>, <span class="gui">Typ</span> nebo <span class="gui">Naposledy změněn</span>, nebo tak, že kliknete v seznamovém zobrazení na záhlaví příslušného sloupce.</p>
 </dd>
 <dt class="terms"><span class="gui">Řadit složky před soubory</span></dt>
 <dd class="terms"><p class="p">Ve výchozím stavu správce souborů již nezobrazuje složek před soubory. Abyste viděli všechny složky vypsané jako první před soubory, zapněte tuto volbu.</p></dd>
@@ -66,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Předvolby správce souborů">Předvolby správce souborů</a><span class="desc"> — Jak si zobrazit a nastavit předvolby pro správce souborů.</span>
+<a href="nautilus-prefs.html.cs" title="Předvolby správce souborů">Předvolby správce souborů</a><span class="desc"> — Jak si zobrazit a nastavit předvolby pro správce souborů.</span>
 </li></ul></div>
 </div></div></div>
 </div>

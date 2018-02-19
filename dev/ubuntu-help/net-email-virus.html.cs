@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-security.html" title="Dodržování bezpečnosti na Internetu">Dodržování bezpečnosti na Internetu</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-security.html.cs" title="Dodržování bezpečnosti na Internetu">Dodržování bezpečnosti na Internetu</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-email.html" title="E-mail a poštovní software">E-mail a poštovní software</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-email.html.cs" title="E-mail a poštovní software">E-mail a poštovní software</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Viry jsou programy, které mohou způsobovat problémy, když se jim podaří najít si cestu do vašeho počítač. Běžným způsobem, jak se dostat do počítače, je pro ně e-mail.</p>
-<p class="p">Viry, které umí napadnou počítač s Linuxem jsou velmi zřídkavé, takže je <span class="link"><a href="net-antivirus.html" title="Potřebuji antivirový software?">málo pravděpodobné, že byste dostali virus přes e-mail nebo jiným způsobem</a></span>. Když dostanete e-mail ukrývající virus, s největší pravděpodobností váš počítač nenapadne. Z tohoto důvodu nepotřebujete kontrolovat příchozí zprávy na viry.</p>
+<p class="p">Viry, které umí napadnou počítač s Linuxem jsou velmi zřídkavé, takže je <span class="link"><a href="net-antivirus.html.cs" title="Potřebuji antivirový software?">málo pravděpodobné, že byste dostali virus přes e-mail nebo jiným způsobem</a></span>. Když dostanete e-mail ukrývající virus, s největší pravděpodobností váš počítač nenapadne. Z tohoto důvodu nepotřebujete kontrolovat příchozí zprávy na viry.</p>
 <p class="p">Můžete si je ale přát kontrolovat na viry pro případy, kdy byste přeposlali zprávu s virem nějaké jiné osobě. Pokud například někteří z vašich přátel mají zavirovaný počítač s Windows, pošlou vám nakaženou e-mailovou zprávu a vy ji přepošlete jinému příteli taktéž s počítačem s Windows, bude mít druhý přítel počítač vzápětí zavirovaný také. Mohli byste si nainstalovat antivirovou aplikaci, aby kontrolovala e-maily, které přes vás projdou, aby se takovéto situaci zabránilo. Na druhou stranu se to nestává často a uživatelé Windows a Mac OS by stejně měli mít nainstalovaný antivirový software na svojí straně.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,17 +64,17 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-security.html" title="Dodržování bezpečnosti na Internetu">Dodržování bezpečnosti na Internetu</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Potřebuji antivirový software?">Antivirový software</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Povolení nebo blokování přístupu na firewallu">základy k firewallu</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Běžně používané síťové porty">porty na firewallu</a></span>…</span>
+<a href="net-security.html.cs" title="Dodržování bezpečnosti na Internetu">Dodržování bezpečnosti na Internetu</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.cs" title="Potřebuji antivirový software?">Antivirový software</a></span>, <span class="link"><a href="net-firewall-on-off.html.cs" title="Povolení nebo blokování přístupu na firewallu">základy k firewallu</a></span>, <span class="link"><a href="net-firewall-ports.html.cs" title="Běžně používané síťové porty">porty na firewallu</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-email.html" title="E-mail a poštovní software">E-mail a poštovní software</a><span class="desc"> — <span class="link"><a href="net-default-email.html" title="Změna poštovní aplikace používané k psaní e-mailů">Výchozí poštovní aplikace</a></span>, <span class="link"><a href="net-email-virus.html" title="Potřebuji kontrolovat své e-maily ohledně virů?">měl bych kontrolovat viry?</a></span>…</span>
+<a href="net-email.html.cs" title="E-mail a poštovní software">E-mail a poštovní software</a><span class="desc"> — <span class="link"><a href="net-default-email.html.cs" title="Změna poštovní aplikace používané k psaní e-mailů">Výchozí poštovní aplikace</a></span>, <span class="link"><a href="net-email-virus.html.cs" title="Potřebuji kontrolovat své e-maily ohledně virů?">měl bych kontrolovat viry?</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="Potřebuji antivirový software?">Potřebuji antivirový software?</a><span class="desc"> — Pro Linux existuje jen hrstka virů, takže antivirus nejspíše nebudete potřebovat.</span>
+<a href="net-antivirus.html.cs" title="Potřebuji antivirový software?">Potřebuji antivirový software?</a><span class="desc"> — Pro Linux existuje jen hrstka virů, takže antivirus nejspíše nebudete potřebovat.</span>
 </li></ul></div>
 </div></div>
 </div>

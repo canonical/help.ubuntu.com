@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="media.html#sound" title="మౌలిక శబ్దం">శబ్దం</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.te" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="media.html.te#sound" title="మౌలిక శబ్దం">శబ్దం</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> › <a class="trail" href="hardware.html#problems" title="ఉమ్మడి సమస్యలు">సమస్యలు</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.te" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> › <a class="trail" href="hardware.html.te#problems" title="ఉమ్మడి సమస్యలు">సమస్యలు</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,9 +55,9 @@
 <div class="contents">
 <p class="p">There are a number of ways for sound playback to break on your computer. Which of the topics below best describes the problem you are experiencing?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="sound-nosound.html" title="I cannot hear any sounds on the computer"><span class="title">I cannot hear any sounds on the computer</span><span class="linkdiv-dash"> — </span><span class="desc">Check that the sound is not muted, that cables are plugged in properly,
+<div class="linkdiv "><a class="linkdiv" href="sound-nosound.html.te" title="I cannot hear any sounds on the computer"><span class="title">I cannot hear any sounds on the computer</span><span class="linkdiv-dash"> — </span><span class="desc">Check that the sound is not muted, that cables are plugged in properly,
     and that the sound card is detected.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-crackle.html" title="I hear crackling or buzzing when sounds are playing"><span class="title">I hear crackling or buzzing when sounds are playing</span><span class="linkdiv-dash"> — </span><span class="desc">Check your audio cables and sound card drivers.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-crackle.html.te" title="I hear crackling or buzzing when sounds are playing"><span class="title">I hear crackling or buzzing when sounds are playing</span><span class="linkdiv-dash"> — </span><span class="desc">Check your audio cables and sound card drivers.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -66,9 +66,9 @@
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="media.html#sound" title="మౌలిక శబ్దం">మౌలిక శబ్దం</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="శబ్ద స్థాయిని మార్చండి">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Use different speakers or headphones">శబ్దకాలు మరియు శిరవాణి</a></span>, <span class="link"><a href="sound-usemic.html" title="Use a different microphone">మైక్రోఫోనులు</a></span>…</span>
+<a href="media.html.te#sound" title="మౌలిక శబ్దం">మౌలిక శబ్దం</a><span class="desc"> — <span class="link"><a href="sound-volume.html.te" title="శబ్ద స్థాయిని మార్చండి">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html.te" title="Use different speakers or headphones">శబ్దకాలు మరియు శిరవాణి</a></span>, <span class="link"><a href="sound-usemic.html.te" title="Use a different microphone">మైక్రోఫోనులు</a></span>…</span>
 </li>
-<li class="links "><a href="hardware.html#problems" title="ఉమ్మడి సమస్యలు">హార్డ్‌వేర్ సమస్యలు</a></li>
+<li class="links "><a href="hardware.html.te#problems" title="ఉమ్మడి సమస్యలు">హార్డ్‌వేర్ సమస్యలు</a></li>
 </ul></div>
 </div></div></div>
 </div>

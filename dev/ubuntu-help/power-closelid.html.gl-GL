@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="power.html" title="Enerxía e batería">Enerxía e batería</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="power.html" title="Enerxía e batería">Enerxía e batería</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,12 +54,12 @@
 <div class="region">
 <div class="contents">
 <p class="p">When you close the lid of your laptop, your computer will
-  <span class="link"><a href="power-suspend.html" title="Que acontece cando suspendo o meu computador?"><span class="em">suspend</span></a></span> in order to save power.
+  <span class="link"><a href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?"><span class="em">suspend</span></a></span> in order to save power.
   This means that the computer is not actually turned off — it has just gone to
   sleep. You can resume it by opening the lid. If it does not resume, try
   clicking the mouse or pressing a key. If that still does not work, press the
   power button.</p>
-<p class="p">Algúns portátiles non so capaces de suspender correctamente, normalmente porque o seu hardware non é completamente compatíbel co sistema operativo (por exemplo, os controladores de Linux están incompletos). Neste caso, pode atopar que non é capaz de espertar o seu portátil despois de pechar a tapa. Pode probar a <span class="link"><a href="power-suspendfail.html" title="Porque o meu computador non se acende logo de ir suspendelo?">arranxar o problema coa suspension</a></span>, ou previr que o computador tente suspenderse cando peche a tapa.</p>
+<p class="p">Algúns portátiles non so capaces de suspender correctamente, normalmente porque o seu hardware non é completamente compatíbel co sistema operativo (por exemplo, os controladores de Linux están incompletos). Neste caso, pode atopar que non é capaz de espertar o seu portátil despois de pechar a tapa. Pode probar a <span class="link"><a href="power-suspendfail.html.gl-GL" title="Porque o meu computador non se acende logo de ir suspendelo?">arranxar o problema coa suspension</a></span>, ou previr que o computador tente suspenderse cando peche a tapa.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Parar a suspensión do equipo cando se pecha a tapa</span></h2></div>
@@ -72,11 +72,12 @@
   change the setting for that behavior.</p>
 <div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">Teña moito coidado se cambia esta configuración. Algúns portátiles poden sobrequentarse se están coa tapa pechada, especialmente se están nun lugar pechado como nunha mochila.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span>
+      overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Power</span> tab.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Don’t suspend on lid close</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
+      <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -87,10 +88,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Enerxía e batería">Enerxía e batería</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Que acontece cando suspendo o meu computador?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Porqué a pantalla escurece logo duns segundos?">screen dimming</a></span>…
+<a href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.gl-GL" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.gl-GL" title="Porqué a pantalla escurece logo duns segundos?">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -98,10 +99,10 @@
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspendfail.html" title="Porque o meu computador non se acende logo de ir suspendelo?">Porque o meu computador non se acende logo de ir suspendelo?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.gl-GL" title="Porque o meu computador non se acende logo de ir suspendelo?">Porque o meu computador non se acende logo de ir suspendelo?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Que acontece cando suspendo o meu computador?">Que acontece cando suspendo o meu computador?</a><span class="desc"> — Suspender pon o seu computador a durmir para que use menos enerxía.</span>
+<a href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?">Que acontece cando suspendo o meu computador?</a><span class="desc"> — Suspender pon o seu computador a durmir para que use menos enerxía.</span>
 </li>
 </ul></div>
 </div></div>

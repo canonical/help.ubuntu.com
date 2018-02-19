@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Контакты</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Используйте приложение <span class="app">Контакты</span> для хранения, доступа и редактирования информации о своих контактах, как локальных, так и для <span class="link"><a href="accounts.html" title="Сетевые учётные записи">сетевых учётных записей</a></span>.</p>
+<p class="p">Используйте приложение <span class="app">Контакты</span> для хранения, доступа и редактирования информации о своих контактах, как локальных, так и для <span class="link"><a href="accounts.html.ru" title="Сетевые учётные записи">сетевых учётных записей</a></span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html" title="Первый запуск приложения Контакты"><span class="title">Первый запуск приложения <span class="app">Контакты</span></span><span class="linkdiv-dash"> — </span><span class="desc">Хранение контактов в локальной адресной книге или в адресной книге сетевой учётной записи.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html" title="Добавление или удаление контакта"><span class="title">Добавление или удаление контакта</span><span class="linkdiv-dash"> — </span><span class="desc">Добавьте или удалите контакт из локальной адресной книги.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html" title="Общение с контактами"><span class="title">Общение с контактами</span><span class="linkdiv-dash"> — </span><span class="desc">Отправка сообщения электронной почты, мгновенного сообщения или телефонный звонок контакту.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-search.html" title="Поиск контакта"><span class="title">Поиск контакта</span><span class="linkdiv-dash"> — </span><span class="desc">Поиск контактов.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html" title="Редактирование контактных данных"><span class="title">Редактирование контактных данных</span><span class="linkdiv-dash"> — </span><span class="desc">Изменение информации о контактах.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html" title="Связывание и разделение контактов"><span class="title">Связывание и разделение контактов</span><span class="linkdiv-dash"> — </span><span class="desc">Объединение данных о контакте из различных источников.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.ru" title="Первый запуск приложения Контакты"><span class="title">Первый запуск приложения <span class="app">Контакты</span></span><span class="linkdiv-dash"> — </span><span class="desc">Хранение контактов в локальной адресной книге или в адресной книге сетевой учётной записи.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html.ru" title="Добавление или удаление контакта"><span class="title">Добавление или удаление контакта</span><span class="linkdiv-dash"> — </span><span class="desc">Добавьте или удалите контакт из локальной адресной книги.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.ru" title="Общение с контактами"><span class="title">Общение с контактами</span><span class="linkdiv-dash"> — </span><span class="desc">Отправка сообщения электронной почты, мгновенного сообщения или телефонный звонок контакту.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-search.html.ru" title="Поиск контакта"><span class="title">Поиск контакта</span><span class="linkdiv-dash"> — </span><span class="desc">Поиск контактов.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.ru" title="Редактирование контактных данных"><span class="title">Редактирование контактных данных</span><span class="linkdiv-dash"> — </span><span class="desc">Изменение информации о контактах.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html.ru" title="Связывание и разделение контактов"><span class="title">Связывание и разделение контактов</span><span class="linkdiv-dash"> — </span><span class="desc">Объединение данных о контакте из различных источников.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Беспроводные сети">Беспроводные</a></span>, <span class="link"><a href="net-wired.html" title="Проводные сети">проводные</a></span>, <span class="link"><a href="net-problem.html" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html" title="Веб-браузеры">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
+<a href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные</a></span>, <span class="link"><a href="net-wired.html.ru" title="Проводные сети">проводные</a></span>, <span class="link"><a href="net-problem.html.ru" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html.ru" title="Веб-браузеры">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html.ru" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

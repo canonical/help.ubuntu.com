@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> › <a class="trail" href="hardware.html#problems" title="常见问题">问题</a> » <a class="trail" href="power.html#problems" title="问题">电源问题</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> › <a class="trail" href="hardware.html.zh-CN#problems" title="常见问题">问题</a> » <a class="trail" href="power.html.zh-CN#problems" title="问题">电源问题</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">当我唤醒计算机时，找不到无线网络</span></h1></div>
@@ -51,13 +51,13 @@
 <div class="contents">
 <p class="p">If you have suspended your computer, you may find that your wireless
   internet connection does not work when you resume it again. This happens when
-  the <span class="link"><a href="hardware-driver.html" title="什么是驱动？">driver</a></span> for the wireless device does
+  the <span class="link"><a href="hardware-driver.html.zh-CN" title="什么是驱动？">driver</a></span> for the wireless device does
   not fully support certain power saving features.
   Typically, the wireless connection fails to turn on properly when the
   computer is resumed.</p>
 <p class="p">尝试关闭无线适配器，然后再重新打开。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Wi-Fi</span>.</p></li>
@@ -75,17 +75,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html#problems" title="问题">电源问题</a><span class="desc"> — 解决电源和电池问题</span>
+<a href="power.html.zh-CN#problems" title="问题">电源问题</a><span class="desc"> — 解决电源和电池问题</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspendfail.html" title="为什么我的机子休眠后不能回到原来的状态？">为什么我的机子休眠后不能回到原来的状态？</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.zh-CN" title="为什么我的机子休眠后不能回到原来的状态？">为什么我的机子休眠后不能回到原来的状态？</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="什么是驱动？">什么是驱动？</a><span class="desc"> — 硬件/设备驱动是允许计算机使用该设备的驱动程序。</span>
+<a href="hardware-driver.html.zh-CN" title="什么是驱动？">什么是驱动？</a><span class="desc"> — 硬件/设备驱动是允许计算机使用该设备的驱动程序。</span>
 </li>
 </ul></div>
 </div></div>

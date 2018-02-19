@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="mouse.html" title="Muis">Muis</a> › <a class="trail" href="mouse.html#problems" title="Veel voorkomende problemen">Veel voorkomende problemen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> › <a class="trail" href="mouse.html.nl#problems" title="Veel voorkomende problemen">Veel voorkomende problemen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="mouse.html" title="Muis">Muis</a> › <a class="trail" href="mouse.html#problems" title="Veel voorkomende problemen">Veel voorkomende problemen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> › <a class="trail" href="mouse.html.nl#problems" title="Veel voorkomende problemen">Veel voorkomende problemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">De muisaanwijzer beweegt niet</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Controleer of de muis is aangesloten">Controleer of de muis is aangesloten</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Controleren of de muis überhaupt werkt">Controleren of de muis überhaupt werkt</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Draadloze muizen controleren">Draadloze muizen controleren</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.nl#plugged-in" title="Controleer of de muis is aangesloten">Controleer of de muis is aangesloten</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.nl#broken" title="Controleren of de muis überhaupt werkt">Controleren of de muis überhaupt werkt</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.nl#wireless-mice" title="Draadloze muizen controleren">Draadloze muizen controleren</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Controleer of de muis is aangesloten</span></h2></div>
@@ -78,8 +78,8 @@
 <li class="list"><p class="p">Make sure the mouse is turned on. There is often a switch on the
       bottom of the mouse to turn the mouse off completely, so you can take it
       with you without it constantly waking up.</p></li>
-<li class="list"><p class="p">Als u een Bluetooth muis gebruikt, zorg er dan voor dat u de muis aan uw computer gekoppeld heeft. Zie <span class="link"><a href="bluetooth-connect-device.html" title="Uw computer met een Bluetooth-apparaat verbinden">Uw computer met een Bluetooth-apparaat verbinden</a></span>.</p></li>
-<li class="list"><p class="p">Klik op een knop en kijk of de muisaanwijzer nu beweegt. Sommige draadloze muizen gaan in slaapstand om energie te sparen, dus reageren ze pas wanneer u op een knop drukt. Zie <span class="link"><a href="mouse-wakeup.html" title="Muis reageert met vertraging voordat het begint te werken">Muis reageert met vertraging voordat het begint te werken</a></span>.</p></li>
+<li class="list"><p class="p">Als u een Bluetooth muis gebruikt, zorg er dan voor dat u de muis aan uw computer gekoppeld heeft. Zie <span class="link"><a href="bluetooth-connect-device.html.nl" title="Uw computer met een Bluetooth-apparaat verbinden">Uw computer met een Bluetooth-apparaat verbinden</a></span>.</p></li>
+<li class="list"><p class="p">Klik op een knop en kijk of de muisaanwijzer nu beweegt. Sommige draadloze muizen gaan in slaapstand om energie te sparen, dus reageren ze pas wanneer u op een knop drukt. Zie <span class="link"><a href="mouse-wakeup.html.nl" title="Muis reageert met vertraging voordat het begint te werken">Muis reageert met vertraging voordat het begint te werken</a></span>.</p></li>
 <li class="list"><p class="p">Controleer of de batterij van de muis is opgeladen.</p></li>
 <li class="list"><p class="p">Zorg ervoor dat de ontvanger (dongle) stevig op de computer is aangesloten.</p></li>
 <li class="list"><p class="p">Als uw muis en ontvanger op verschillende radiokanalen kunnen opereren, zorg er dan voor dat ze allebei op hetzelfde kanaal zijn ingesteld.</p></li>
@@ -92,7 +92,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Veel voorkomende problemen">Veel voorkomende problemen met de muis</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.nl#problems" title="Veel voorkomende problemen">Veel voorkomende problemen met de muis</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

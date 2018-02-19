@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-browser.html" title="Navigateurs Web">Navigateurs Web</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-browser.html.fr" title="Navigateurs Web">Navigateurs Web</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Change which web browser opens websites by default</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Quand vous cliquez sur un lien vous redirigeant vers une page Web dans n'importe quelle application, celle-ci s'ouvre automatiquement dans un navigateur Web. Si vous avez installé plus d'un navigateur, cette page peut cependant s'ouvrir dans un autre navigateur que celui que vous espériez. Pour régler ce problème, changez votre navigateur par défaut :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Details</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Détails</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">choisissez <span class="gui">Applications par défaut</span> dans la liste du panneau de gauche,</p></li>
@@ -68,9 +68,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Navigateurs Web">Navigateurs Web</a><span class="desc"> — 
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="Installation du greffon Flash">install Flash</a></span>…
+<a href="net-browser.html.fr" title="Navigateurs Web">Navigateurs Web</a><span class="desc"> — 
+      <span class="link"><a href="net-default-browser.html.fr" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-install-flash.html.fr" title="Installation du greffon Flash">install Flash</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

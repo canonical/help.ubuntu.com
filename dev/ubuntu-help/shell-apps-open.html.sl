@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zaganjanje programov</span></h1></div>
@@ -51,9 +51,9 @@
 <div class="contents">
 <p class="p">Move your mouse pointer to the
   <span class="gui">Activities</span> corner at the top left of the screen to show the
-  <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview. This is where you
+  <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview. This is where you
   can find all of your applications. You can also open the overview by pressing
-  the <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> key.</p>
+  the <span class="key"><a href="keyboard-key-super.html.sl" title="What is the Super key?"><kbd>Super</kbd></a></span> key.</p>
 <p class="p">There are several ways of opening an application once you’re in the
   <span class="gui">Activities</span> overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
@@ -65,7 +65,7 @@
 <p class="p">Some applications have icons in the <span class="em">dash</span>, the vertical strip
       of icons on the left-hand side of the <span class="gui">Activities</span> overview.
       Click one of these to start the corresponding application.</p>
-<p class="p">V primeru da nekatere programe zelo pogosto poganjate, jih lahko <span class="link"><a href="shell-apps-favorites.html" title="Pripnite svoje priljubljene programe na pregledno ploščo">dodate v pregledno ploščo</a></span>.</p>
+<p class="p">V primeru da nekatere programe zelo pogosto poganjate, jih lahko <span class="link"><a href="shell-apps-favorites.html.sl" title="Pripnite svoje priljubljene programe na pregledno ploščo">dodate v pregledno ploščo</a></span>.</p>
 </li>
 <li class="list"><p class="p">Click the grid button at the bottom of the dash. You will see the
       frequently used applications if the <span class="gui">Frequent</span>
@@ -74,7 +74,7 @@
       applications. Press on the application to start it.</p></li>
 <li class="list">
 <p class="p">You can launch an application in a separate
-      <span class="link"><a href="shell-workspaces.html" title="Kaj je delovna površina in kako mi bo pomagala?">workspace</a></span> by dragging its icon from
+      <span class="link"><a href="shell-workspaces.html.sl" title="Kaj je delovna površina in kako mi bo pomagala?">workspace</a></span> by dragging its icon from
       the dash, and dropping it onto one of the workspaces on the right-hand
       side of the screen. The application will open in the chosen
       workspace.</p>
@@ -102,13 +102,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="index.html" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li>
+<li class="links "><a href="index.html.sl" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Your desktop">Your desktop</a><span class="desc"> — 
-      <span class="link"><a href="clock-calendar.html" title="Sestanki v koledarju">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="Obvestila in vrstica sporočanja">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="Uporabne tipkovne bližnjice">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="Okna in delovne površine">windows and workspaces</a></span>…
+<a href="shell-overview.html.sl" title="Your desktop">Your desktop</a><span class="desc"> — 
+      <span class="link"><a href="clock-calendar.html.sl" title="Sestanki v koledarju">Calendar</a></span>,
+      <span class="link"><a href="shell-notifications.html.sl" title="Obvestila in vrstica sporočanja">notifications</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.sl" title="Uporabne tipkovne bližnjice">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-windows.html.sl" title="Okna in delovne površine">windows and workspaces</a></span>…
     </span>
 </li>
 </ul></div>
@@ -116,7 +116,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-favorites.html" title="Pripnite svoje priljubljene programe na pregledno ploščo">Pripnite svoje priljubljene programe na pregledno ploščo</a><span class="desc"> — Dodajanje (ali odstranitev) ikon pogosto uporabljenih programov na pregledno ploščo.</span>
+<a href="shell-apps-favorites.html.sl" title="Pripnite svoje priljubljene programe na pregledno ploščo">Pripnite svoje priljubljene programe na pregledno ploščo</a><span class="desc"> — Dodajanje (ali odstranitev) ikon pogosto uporabljenih programov na pregledno ploščo.</span>
 </li></ul></div>
 </div></div>
 </div>

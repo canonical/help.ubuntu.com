@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html#problems" title="Типичные проблемы">Неполадки</a> » <a class="trail" href="hardware-problems-graphics.html" title="Проблемы с экраном">Проблемы с экраном</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки</a> » <a class="trail" href="hardware-problems-graphics.html.ru" title="Проблемы с экраном">Проблемы с экраном</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html#problems" title="Типичные проблемы">Неполадки</a> » <a class="trail" href="power.html#problems" title="Неполадки">Проблемы с электропитанием</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки</a> » <a class="trail" href="power.html.ru#problems" title="Неполадки">Проблемы с электропитанием</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Почему мой компьютер не выходит из ждущего режима?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">If you <span class="link"><a href="power-suspend.html" title="Что происходит при переходе компьютера в ждущий режим?">suspend</a></span> your computer, then try to
+<div class="contents"><p class="p">If you <span class="link"><a href="power-suspend.html.ru" title="Что происходит при переходе компьютера в ждущий режим?">suspend</a></span> your computer, then try to
 resume it, you may find that it does not work as you expected. This could be
 because suspend is not supported properly by your hardware.</p></div>
 <div id="resume" class="sect"><div class="inner">
@@ -72,7 +72,7 @@ because suspend is not supported properly by your hardware.</p></div>
 <p class="p">If you suspend your computer and then resume it again, you
   may find that your internet connection, mouse, or some other device does not
   work properly. This could be because the driver for the device does not
-  properly support suspend. This is a <span class="link"><a href="hardware-driver.html" title="Что такое драйвер?">problem with the driver</a></span> and not the device
+  properly support suspend. This is a <span class="link"><a href="hardware-driver.html.ru" title="Что такое драйвер?">problem with the driver</a></span> and not the device
   itself.</p>
 <p class="p">Если устройство снабжено выключателем питания, попробуйте отключить его и снова включить. В большинстве случаев оно снова начнёт работать. Если устройство подключается через USB или другой подобный кабель, попробуйте отсоединить устройство и подсоединить его снова и посмотрите, заработает ли оно.</p>
 <p class="p">If you cannot turn off or unplug the device, or if this does not work, you
@@ -86,10 +86,10 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Проблемы с экраном">Проблемы с экраном</a><span class="desc"> — Устранение проблем с экраном и графикой.</span>
+<a href="hardware-problems-graphics.html.ru" title="Проблемы с экраном">Проблемы с экраном</a><span class="desc"> — Устранение проблем с экраном и графикой.</span>
 </li>
 <li class="links ">
-<a href="power.html#problems" title="Неполадки">Проблемы с электропитанием</a><span class="desc"> — Устранение проблем с питанием и аккумуляторами.</span>
+<a href="power.html.ru#problems" title="Неполадки">Проблемы с электропитанием</a><span class="desc"> — Устранение проблем с питанием и аккумуляторами.</span>
 </li>
 </ul></div>
 </div></div>
@@ -97,19 +97,19 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-hibernate.html" title="Как мне перевести мой компьютер в спящий режим?">Как мне перевести мой компьютер в спящий режим?</a><span class="desc"> — Спящий режим отключён по умолчанию, поскольку плохо поддерживается.</span>
+<a href="power-hibernate.html.ru" title="Как мне перевести мой компьютер в спящий режим?">Как мне перевести мой компьютер в спящий режим?</a><span class="desc"> — Спящий режим отключён по умолчанию, поскольку плохо поддерживается.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="Почему мой компьютер отключается, когда я закрываю его крышку?">Почему мой компьютер отключается, когда я закрываю его крышку?</a><span class="desc"> — Ноутбуки переходят в ждущий режим при закрытии крышки для экономии электроэнергии.</span>
+<a href="power-closelid.html.ru" title="Почему мой компьютер отключается, когда я закрываю его крышку?">Почему мой компьютер отключается, когда я закрываю его крышку?</a><span class="desc"> — Ноутбуки переходят в ждущий режим при закрытии крышки для экономии электроэнергии.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="При «пробуждении» компьютера отсутствует беспроводное соединение">При «пробуждении» компьютера отсутствует беспроводное соединение</a><span class="desc"> — У некоторых беспроводных устройств возникают проблемы с обработкой состояния компьютера, если компьютер входил в спящий режим и потом вышел из спящего режима некорректным образом.</span>
+<a href="power-nowireless.html.ru" title="При «пробуждении» компьютера отсутствует беспроводное соединение">При «пробуждении» компьютера отсутствует беспроводное соединение</a><span class="desc"> — У некоторых беспроводных устройств возникают проблемы с обработкой состояния компьютера, если компьютер входил в спящий режим и потом вышел из спящего режима некорректным образом.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Что происходит при переходе компьютера в ждущий режим?">Что происходит при переходе компьютера в ждущий режим?</a><span class="desc"> — В ждущем режиме компьютер «засыпает» и потребляет меньшую мощность.</span>
+<a href="power-suspend.html.ru" title="Что происходит при переходе компьютера в ждущий режим?">Что происходит при переходе компьютера в ждущий режим?</a><span class="desc"> — В ждущем режиме компьютер «засыпает» и потребляет меньшую мощность.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="Что такое драйвер?">Что такое драйвер?</a><span class="desc"> — Драйвер позволяет компьютеру использовать подключённые к нему устройства.</span>
+<a href="hardware-driver.html.ru" title="Что такое драйвер?">Что такое драйвер?</a><span class="desc"> — Драйвер позволяет компьютеру использовать подключённые к нему устройства.</span>
 </li>
 </ul></div>
 </div></div>

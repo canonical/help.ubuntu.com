@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="media.html" title="Ljud, video och bilder">Ljud, video och bilder</a> › <a class="trail" href="media.html#videos" title="Videor och videokameror">Videor</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="media.html.sv" title="Ljud, video och bilder">Ljud, video och bilder</a> › <a class="trail" href="media.html.sv#videos" title="Videor och videokameror">Videor</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Andra personer kan inte spela upp videorna jag gjort</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">Om du har gjort en video på din Linux-dator och skickat den till någon som använder Windows eller Mac OS kan du komma att upptäcka att de har svårt att spela videon.</p>
 <p class="p">För att kunna spela din video, måste personen du skickat den till ha de korrekta <span class="em">kodekarna</span> installerade. En kodek är en liten bit programvara som vet hur man tar en video och visar den på skärmen. Det finns många olika video format och vart och ett kräver en egen kodek för att spela upp det. Du kan kontrollera vilket format dina videor har genom att:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Öppna <span class="app">Filer</span> från översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>.</p></li>
+<li class="list"><p class="p">Öppna <span class="app">Filer</span> från översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>.</p></li>
 <li class="list"><p class="p">Högerklicka på videofilen och välj <span class="gui">Egenskaper</span>.</p></li>
 <li class="list"><p class="p">Gå till fliken <span class="gui">Ljud/Video</span>- eller <span class="gui">Video</span>-fliken och se vilken <span class="gui">Kodek</span> som listas under <span class="gui">Video</span> och <span class="gui">Ljud</span> (om videon också har Ljud).</p></li>
 </ul></div></div></div>
@@ -64,7 +64,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Videor och videokameror">Videor</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.sv#videos" title="Videor och videokameror">Videor</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-security.html" title="Mantendo-se seguro na Internet">Mantendo-se seguro na Internet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-security.html.pt-BR" title="Mantendo-se seguro na Internet">Mantendo-se seguro na Internet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Habilitando ou bloqueando acesso no firewall</span></h1></div>
@@ -54,7 +54,7 @@
 <p class="p">Cada programa que oferece serviços de rede usa uma <span class="em">porta de rede</span> específica. Para permitir que outros computadores na rede acessem um serviço, pode precisar “abrir” a porta atribuída no firewall:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Vá em <span class="gui">Atividades</span> no canto esquerdo superior da tela e inicie seu aplicativo de firewall. Você pode precisar instalar um gerenciador de firewall, se você não encontrar um (por exemplo, Firestarter ou GUFW).</p></li>
-<li class="steps"><p class="p">Abra ou desabilite a porta do seu serviço de rede, dependendo se você deseja que as pessoas sejam capazes de acessá-lo ou não. A porta que você precisa alterar vai <span class="link"><a href="net-firewall-ports.html" title="Portas de rede comumente usadas">depender do serviço</a></span>.</p></li>
+<li class="steps"><p class="p">Abra ou desabilite a porta do seu serviço de rede, dependendo se você deseja que as pessoas sejam capazes de acessá-lo ou não. A porta que você precisa alterar vai <span class="link"><a href="net-firewall-ports.html.pt-BR" title="Portas de rede comumente usadas">depender do serviço</a></span>.</p></li>
 <li class="steps"><p class="p">Salve ou aplique as alterações, seguindo de quaisquer instruções adicionais fornecidas pela ferramenta de firewall.</p></li>
 </ol></div></div></div>
 </div>
@@ -64,13 +64,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Mantendo-se seguro na Internet">Mantendo-se seguro na Internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Eu preciso de um software de antivírus?">Software de antivírus</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Habilitando ou bloqueando acesso no firewall">firewalls básicos</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Portas de rede comumente usadas">portas nos firewalls</a></span>…</span>
+<a href="net-security.html.pt-BR" title="Mantendo-se seguro na Internet">Mantendo-se seguro na Internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.pt-BR" title="Eu preciso de um software de antivírus?">Software de antivírus</a></span>, <span class="link"><a href="net-firewall-on-off.html.pt-BR" title="Habilitando ou bloqueando acesso no firewall">firewalls básicos</a></span>, <span class="link"><a href="net-firewall-ports.html.pt-BR" title="Portas de rede comumente usadas">portas nos firewalls</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-ports.html" title="Portas de rede comumente usadas">Portas de rede comumente usadas</a><span class="desc"> — Você precisa especificar a porta de rede correta para habilitar/desabilitar o acesso a rede para um programa com seu firewall.</span>
+<a href="net-firewall-ports.html.pt-BR" title="Portas de rede comumente usadas">Portas de rede comumente usadas</a><span class="desc"> — Você precisa especificar a porta de rede correta para habilitar/desabilitar o acesso a rede para um programa com seu firewall.</span>
 </li></ul></div>
 </div></div>
 </div>

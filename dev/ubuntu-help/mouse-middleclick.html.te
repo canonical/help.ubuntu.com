@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="mouse.html" title="మౌసు">మౌసు</a> › <a class="trail" href="mouse.html#tips" title="చిట్కాలు">చిట్కాలు</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.te" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="mouse.html.te" title="మౌసు">మౌసు</a> › <a class="trail" href="mouse.html.te#tips" title="చిట్కాలు">చిట్కాలు</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="చిట్కాలు &amp; జిమ్మిక్కులు">చిట్కాలు &amp; జిమ్మిక్కులు</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.te" title="చిట్కాలు &amp; జిమ్మిక్కులు">చిట్కాలు &amp; జిమ్మిక్కులు</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="mouse.html" title="మౌసు">మౌసు</a> › <a class="trail" href="mouse.html#tips" title="చిట్కాలు">చిట్కాలు</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.te" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="mouse.html.te" title="మౌసు">మౌసు</a> › <a class="trail" href="mouse.html.te#tips" title="చిట్కాలు">చిట్కాలు</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -62,7 +62,7 @@ can press the left and right mouse buttons at the same time to
 middle-click.</p>
 <p class="p">On touchpads that support multi-finger taps, you can tap with three
 fingers at once to middle-click. You have to
-<span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">enable tap clicking</a></span> in the
+<span class="link"><a href="mouse-touchpad-click.html.te" title="Click, drag, or scroll with the touchpad">enable tap clicking</a></span> in the
 touchpad settings for this to work.</p>
 <p class="p">Many applications use middle-click for advanced click shortcuts.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
@@ -89,9 +89,9 @@ button for other functions. Search your application’s help for
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="tips.html" title="చిట్కాలు &amp; జిమ్మిక్కులు">చిట్కాలు &amp; జిమ్మిక్కులు</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Enter special characters">ప్రత్యేక అక్షరాలు</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Middle-click">మధ్య నొక్కు అడ్డదారులు</a></span>…</span>
+<a href="tips.html.te" title="చిట్కాలు &amp; జిమ్మిక్కులు">చిట్కాలు &amp; జిమ్మిక్కులు</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.te" title="Enter special characters">ప్రత్యేక అక్షరాలు</a></span>, <span class="link"><a href="mouse-middleclick.html.te" title="Middle-click">మధ్య నొక్కు అడ్డదారులు</a></span>…</span>
 </li>
-<li class="links "><a href="mouse.html#tips" title="చిట్కాలు">మౌసు చిట్కాలు</a></li>
+<li class="links "><a href="mouse.html.te#tips" title="చిట్కాలు">మౌసు చిట్కాలు</a></li>
 </ul></div>
 </div></div></div>
 </div>

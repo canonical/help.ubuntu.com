@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-wireless.html" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-wireless.html.hu" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a> » <a class="trail" href="net-wireless-troubleshooting.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html.hu#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="net-wireless-troubleshooting.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Előző</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Következő</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Előző</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Következő</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Vezeték nélküli kapcsolatok hibáinak elhárítása</span></h1>
@@ -70,7 +70,7 @@
        vendor: Intel Corporation</pre></div>
 </li>
 <li class="steps">
-<p class="p">Ha fel van sorolva egy vezeték nélküli eszköz, akkor folytassa az <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Illesztőprogramok lépéssel</a></span>.</p>
+<p class="p">Ha fel van sorolva egy vezeték nélküli eszköz, akkor folytassa az <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Illesztőprogramok lépéssel</a></span>.</p>
 <p class="p">Ha <span class="em">nincs</span> felsorolva vezeték nélküli eszköz, akkor a következő lépések a használt eszköz típusától függenek. Nézze meg lentebb a számítógépében használt vezeték nélküli adapter típusának (<span class="link"><a href="#pci" title="PCI (belső) vezeték nélküli csatoló">belső PCI</a></span>, <span class="link"><a href="#usb" title="USB vezeték nélküli csatoló">USB</a></span> vagy <span class="link"><a href="#pcmcia" title="PCMCIA eszköz keresése">PCMCIA</a></span>) megfelelő szakaszt.</p>
 </li>
 </ol></div></div></div>
@@ -85,7 +85,7 @@
 <p class="p">Nézze végig a megjelenő eszközök listáját, és keresse meg a <span class="code">Network controller</span> vagy <span class="code">Ethernet controller</span> jelölésűt. Több eszköz is meg lehet így jelölve, a vezeték nélküli csatolónak megfelelő a <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> vagy <span class="code">802.11</span> kifejezéseket tartalmazhatja. Egy bejegyzés például így nézhet ki:</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
-<li class="steps"><p class="p">Ha a vezeték nélküli csatolót megtalálta a listában, akkor folytassa az <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Illesztőprogramok lépéssel</a></span>. Ha nem talált semmit a vezeték nélküli csatolóról, akkor nézze meg az <span class="link"><a href="#not-recognized" title="A vezeték nélküli csatoló felismerése sikertelen">alábbi utasításokat</a></span>.</p></li>
+<li class="steps"><p class="p">Ha a vezeték nélküli csatolót megtalálta a listában, akkor folytassa az <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Illesztőprogramok lépéssel</a></span>. Ha nem talált semmit a vezeték nélküli csatolóról, akkor nézze meg az <span class="link"><a href="#not-recognized" title="A vezeték nélküli csatoló felismerése sikertelen">alábbi utasításokat</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -99,7 +99,7 @@
 <p class="p">Nézze végig a megjelenő eszközök listáját, és keresse meg a vezeték nélküli vagy hálózati eszközre utaló sort. A vezeték nélküli csatolónak megfelelő a <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> vagy <span class="code">802.11</span> kifejezéseket tartalmazhatja. Egy bejegyzés például így nézhet ki:</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
-<li class="steps"><p class="p">Ha a vezeték nélküli csatolót megtalálta a listában, akkor folytassa az <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Illesztőprogramok lépéssel</a></span>. Ha nem talált semmit a vezeték nélküli csatolóról, akkor nézze meg az <span class="link"><a href="#not-recognized" title="A vezeték nélküli csatoló felismerése sikertelen">alábbi utasításokat</a></span>.</p></li>
+<li class="steps"><p class="p">Ha a vezeték nélküli csatolót megtalálta a listában, akkor folytassa az <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Illesztőprogramok lépéssel</a></span>. Ha nem talált semmit a vezeték nélküli csatolóról, akkor nézze meg az <span class="link"><a href="#not-recognized" title="A vezeték nélküli csatoló felismerése sikertelen">alábbi utasításokat</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -116,7 +116,7 @@
 </li>
 <li class="steps"><p class="p">Helyezze be a vezeték nélküli csatolót a PCMCIA aljzatba, és figyelje a Terminál ablak változásait. A változásoknak információkat kell tartalmazniuk a vezeték nélküli csatolóról. Próbálja ezek alapján azonosítani a csatolót.</p></li>
 <li class="steps"><p class="p">A Terminálban futó parancs leállításához nyomja meg a <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span> kombinációt. Ezután bezárhatja a Terminált.</p></li>
-<li class="steps"><p class="p">Ha talált információkat a vezeték nélküli csatolóról, akkor folytassa az <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Illesztőprogramok lépéssel</a></span>. Ha nem talált semmit a vezeték nélküli csatolóról, akkor nézze meg az <span class="link"><a href="#not-recognized" title="A vezeték nélküli csatoló felismerése sikertelen">alábbi utasításokat</a></span>.</p></li>
+<li class="steps"><p class="p">Ha talált információkat a vezeték nélküli csatolóról, akkor folytassa az <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Illesztőprogramok lépéssel</a></span>. Ha nem talált semmit a vezeték nélküli csatolóról, akkor nézze meg az <span class="link"><a href="#not-recognized" title="A vezeték nélküli csatoló felismerése sikertelen">alábbi utasításokat</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -128,14 +128,14 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Előző</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Következő</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Előző</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Következő</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a><span class="desc"> — Vezeték nélküli kapcsolatok problémáinak azonosítása és megoldása.</span>
+<a href="net-wireless-troubleshooting.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a><span class="desc"> — Vezeték nélküli kapcsolatok problémáinak azonosítása és megoldása.</span>
 </li></ul></div>
 </div></div></div>
 </div>

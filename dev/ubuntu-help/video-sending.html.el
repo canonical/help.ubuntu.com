@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Ήχος, βίντεο &amp; εικόνες">Ήχος, βίντεο &amp; εικόνες</a> › <a class="trail" href="media.html#videos" title="Βίντεο και βιντεοκάμερες">Βίντεο</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.el" title="Ήχος, βίντεο &amp; εικόνες">Ήχος, βίντεο &amp; εικόνες</a> › <a class="trail" href="media.html.el#videos" title="Βίντεο και βιντεοκάμερες">Βίντεο</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Other people can’t play the videos I made</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">Εάν κάνατε ένα βίντεο στον υπολογιστή σας Linux και το στείλατε σε κάποιον που χρησιμοποιεί Windows ή Mac OS, μπορεί να βρείτε ότι έχουν προβλήματα να παίξουν το βίντεο.</p>
 <p class="p">Για να μπορέσει να παίξει το βίντεό σας, το άτομο που του το στείλατε πρέπει να έχει τους σωστούς <span class="em">κωδικοποιητές-αποκωδικοποιητές</span> εγκατεστημένους. Ένας κωδικοποιητής-αποκωδικοποιητής είναι ένα μικρό κομμάτι λογισμικού που ξέρει πώς να πάρει το βίντεο και να το εμφανίσει στην οθόνη. Υπάρχουν πολλές διαφορετικές μορφές βίντεο και καθεμιά τους απαιτεί έναν διαφορετικό κωδικοποιητή-αποκωδικοποιητή για να το παίξει. Μπορείτε να ελέγξετε ποιας μορφής είναι το βίντεό σας κάνοντας:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Ανοίξτε τα <span class="app">Αρχεία</span> από την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>.</p></li>
+<li class="list"><p class="p">Ανοίξτε τα <span class="app">Αρχεία</span> από την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>.</p></li>
 <li class="list"><p class="p">Κάντε δεξί κλικ στο αρχείο βίντεο και επιλέξτε <span class="gui">Ιδιότητες</span>.</p></li>
 <li class="list"><p class="p">Πηγαίνετε στην καρτέλα <span class="gui">Ήχος/βίντεο</span> ή <span class="gui">Βίντεο</span> και κοιτάξτε ποιος <span class="gui">κωδικοποιητής</span> είναι καταχωρισμένος στο <span class="gui">Βίντεο</span> και στο <span class="gui">Ήχος</span> (αν το βίντεο έχει και ήχο).</p></li>
 </ul></div></div></div>
@@ -81,7 +81,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Βίντεο και βιντεοκάμερες">Βίντεο</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.el#videos" title="Βίντεο και βιντεοκάμερες">Βίντεο</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

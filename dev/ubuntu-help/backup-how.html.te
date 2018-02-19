@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="దస్త్రాలు, సంచయాలు &amp; వెతుకులాట">Files</a> › <a class="trail" href="files.html#backup" title="Backing up">Backing up</a> » <a class="trail" href="backup-why.html" title="మీ ముఖ్యమైన ఫైళ్ళను బ్యాకప్ తీయి">బ్యాక్అప్లు</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.te" title="దస్త్రాలు, సంచయాలు &amp; వెతుకులాట">Files</a> › <a class="trail" href="files.html.te#backup" title="Backing up">Backing up</a> » <a class="trail" href="backup-why.html.te" title="మీ ముఖ్యమైన ఫైళ్ళను బ్యాకప్ తీయి">బ్యాక్అప్లు</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">బ్యాక్అప్ తీయడం ఎలా</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">మీ ఫైళ్ళను మరియు అమరికలను బ్యాకప్ తీయుటకు సుళువైన మార్గం ఏదేని బ్యాకప్ అనువర్తనాన్ని మీ బ్యాకప్ కార్యక్రమం నిర్వహించుటకు అనుమతించడమే. చాలా విభిన్న బ్యాకప్ అనువర్తనాలు అందుబాటులోవున్నాయి, ఉదాహరణకు <span class="app">Déjà Dup</span>.</p>
 <p class="p">మీరు ఎంచుకొనిన బ్యాకప్ అనువర్తనపు సహాయం అనునది బ్యాకప్ కొరకు మీ అభీష్టాలను అమర్చుటకు, అదేవిదంగా మీ దత్తాంశం తిరిగిపొందుటకు మార్గదర్శనంచేయును.</p>
-<p class="p">వేరొక ప్రత్యామ్నాయ ఐచ్చికం <span class="link"><a href="files-copy.html" title="ఫైళ్ళను లేదా సంచయాలను నకలుతీయి లేదా కదుల్చు">మీ ఫైళ్ళను నకలుతీయుట</a></span> వేరే హార్డు డ్రైవ్‌కు, నెట్వర్కు నందలి వేరే కంప్యూటర్‌కు, లేదా USB డ్రైవ్‌కు. మీ <span class="link"><a href="backup-thinkabout.html" title="నేను బ్యాకప్ తీయాలనుకొనే ఫైళ్ళను నేను ఎక్కడ కనుగొనగలను?">వ్యక్తిగత ఫైళ్ళు</a></span> మరియు అమరికలు సాధారణంగా మీ నివాస సంచయం నందు వుంటాయి, కనుక అక్కడనుండి మీరు నకలు తీయవచ్చు.</p>
+<p class="p">వేరొక ప్రత్యామ్నాయ ఐచ్చికం <span class="link"><a href="files-copy.html.te" title="ఫైళ్ళను లేదా సంచయాలను నకలుతీయి లేదా కదుల్చు">మీ ఫైళ్ళను నకలుతీయుట</a></span> వేరే హార్డు డ్రైవ్‌కు, నెట్వర్కు నందలి వేరే కంప్యూటర్‌కు, లేదా USB డ్రైవ్‌కు. మీ <span class="link"><a href="backup-thinkabout.html.te" title="నేను బ్యాకప్ తీయాలనుకొనే ఫైళ్ళను నేను ఎక్కడ కనుగొనగలను?">వ్యక్తిగత ఫైళ్ళు</a></span> మరియు అమరికలు సాధారణంగా మీ నివాస సంచయం నందు వుంటాయి, కనుక అక్కడనుండి మీరు నకలు తీయవచ్చు.</p>
 <p class="p">మీరు బ్యాకప్ తీయాలని అనుకుంటున్న పరిమాణం మీ నిల్వ పరికరం పరిమాణంకు పరిమితమై వుంటుంది. మీ బ్యాకప్ పరికరం పైన మీకు జాగా వుంటే, కింది వాటిని విస్మరించి మీ మొత్త నివాస సంచయం బ్యాకప్ తీయుట మంచిది.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">ఇప్పటికే వేరే చోటకి, CD, DVD, లేదా ఇతర మాధ్యమం వంటివాటికి బ్యాకప్ తీసిన ఫైళ్ళు.</p></li>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html" title="మీ ముఖ్యమైన ఫైళ్ళను బ్యాకప్ తీయి">మీ ముఖ్యమైన ఫైళ్ళను బ్యాకప్ తీయి</a><span class="desc"> — బ్యాకప్స్ ఎప్పుడు, ఎందుకు, ఎక్కడ మరియు ఎలా.</span>
+<a href="backup-why.html.te" title="మీ ముఖ్యమైన ఫైళ్ళను బ్యాకప్ తీయి">మీ ముఖ్యమైన ఫైళ్ళను బ్యాకప్ తీయి</a><span class="desc"> — బ్యాకప్స్ ఎప్పుడు, ఎందుకు, ఎక్కడ మరియు ఎలా.</span>
 </li></ul></div>
 </div></div></div>
 </div>

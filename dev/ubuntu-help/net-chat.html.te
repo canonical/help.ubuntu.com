@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.te" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Chat &amp; Social Networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html" title="Instant messaging on Ubuntu"><span class="title">Instant messaging on Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">With <span class="app">Empathy</span> you can chat, call and video call with friends
+<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html.te" title="Instant messaging on Ubuntu"><span class="title">Instant messaging on Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">With <span class="app">Empathy</span> you can chat, call and video call with friends
       and colleagues on a variety of networks</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html" title="Video calls"><span class="title">Video calls</span><span class="linkdiv-dash"> — </span><span class="desc">What applications can I use to make video calls?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html.te" title="Video calls"><span class="title">Video calls</span><span class="linkdiv-dash"> — </span><span class="desc">What applications can I use to make video calls?</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html" title="How can I use Skype on Ubuntu?"><span class="title">How can I use Skype on Ubuntu?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> is proprietary software and must be installed manually
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html.te" title="How can I use Skype on Ubuntu?"><span class="title">How can I use Skype on Ubuntu?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> is proprietary software and must be installed manually
     on Ubuntu</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -63,16 +63,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="నిస్తంత్రి నెట్‌వర్కింగు">నిస్తంత్రి</a></span>, <span class="link"><a href="net-wired.html" title="Wired Networking">తంత్రి</a></span>, <span class="link"><a href="net-problem.html" title="Network problems">అనుసంధాన సమస్యలు</a></span>, <span class="link"><a href="net-browser.html" title="Web Browsers">జాల విహారణం</a></span>, <span class="link"><a href="net-email.html" title="Email &amp; email software">ఈమెయిలు ఖాతాలు</a></span>…</span>
+<a href="net.html.te" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.te" title="నిస్తంత్రి నెట్‌వర్కింగు">నిస్తంత్రి</a></span>, <span class="link"><a href="net-wired.html.te" title="Wired Networking">తంత్రి</a></span>, <span class="link"><a href="net-problem.html.te" title="Network problems">అనుసంధాన సమస్యలు</a></span>, <span class="link"><a href="net-browser.html.te" title="Web Browsers">జాల విహారణం</a></span>, <span class="link"><a href="net-email.html.te" title="Email &amp; email software">ఈమెయిలు ఖాతాలు</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ఇవి కూడా చూడండి</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="ఆన్‌లైన్ ఖాతాలు">ఆన్‌లైన్ ఖాతాలు</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="ఒక ఖాతాను జతచేయి">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="ఒక ఖాతాను తీసివేయి">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.te" title="ఆన్‌లైన్ ఖాతాలు">ఆన్‌లైన్ ఖాతాలు</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.te" title="ఒక ఖాతాను జతచేయి">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.te" title="ఒక ఖాతాను తీసివేయి">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.te" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div>

@@ -43,22 +43,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Navegando por arquivos e pastas</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Use o gerenciador de arquivos <span class="app">Arquivos</span> para navegar e organizar os arquivos no seu computador. Você também pode usá-lo para gerenciar os arquivos em dispositivos de armazenamento (como discos rígidos externos), em <span class="link"><a href="nautilus-connect.html" title="Navegando nos arquivos em um servidor ou compartilhamento de rede">servidores de arquivos</a></span> e em compartilhamentos em rede.</p>
-<p class="p">Para abrir o gerenciador de arquivos, abra <span class="app">Arquivos</span> no panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span>. Você também pode pesquisar por arquivos e pastas através do panorama da mesma forma que faria uma <span class="link"><a href="shell-apps-open.html" title="Iniciando aplicativos">pesquisa por aplicativos</a></span>.</p>
+<p class="p">Use o gerenciador de arquivos <span class="app">Arquivos</span> para navegar e organizar os arquivos no seu computador. Você também pode usá-lo para gerenciar os arquivos em dispositivos de armazenamento (como discos rígidos externos), em <span class="link"><a href="nautilus-connect.html.pt-BR" title="Navegando nos arquivos em um servidor ou compartilhamento de rede">servidores de arquivos</a></span> e em compartilhamentos em rede.</p>
+<p class="p">Para abrir o gerenciador de arquivos, abra <span class="app">Arquivos</span> no panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span>. Você também pode pesquisar por arquivos e pastas através do panorama da mesma forma que faria uma <span class="link"><a href="shell-apps-open.html.pt-BR" title="Iniciando aplicativos">pesquisa por aplicativos</a></span>.</p>
 </div>
 <div id="files-view-folder-contents" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Explorando o conteúdo dos diretórios</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">No gerenciador de arquivos, dê um clique duplo em qualquer pasta para ver seu conteúdo, e dê um duplo clique ou <span class="link"><a href="mouse-middleclick.html" title="Clique com o botão do meio">clique com o botão do meio</a></span> em qualquer arquivo para abri-lo com o seu aplicativo padrão. Clique com o botão meio para abri-lo em uma nova aba. Você também pode efetuar um clique com o botão direito em uma pasta para abri-la em uma nova aba ou janela.</p>
-<p class="p">Ao buscar por arquivos em uma pasta, você pode <span class="link"><a href="files-preview.html" title="Visualizando arquivos e pastas">fazer uma pré-visualização de um arquivo</a></span> rapidamente, pressionando a barra de espaço: isso assegura que você está com o arquivo certo antes de abri-lo, copiá-lo ou excluí-lo.</p>
+<p class="p">No gerenciador de arquivos, dê um clique duplo em qualquer pasta para ver seu conteúdo, e dê um duplo clique ou <span class="link"><a href="mouse-middleclick.html.pt-BR" title="Clique com o botão do meio">clique com o botão do meio</a></span> em qualquer arquivo para abri-lo com o seu aplicativo padrão. Clique com o botão meio para abri-lo em uma nova aba. Você também pode efetuar um clique com o botão direito em uma pasta para abri-la em uma nova aba ou janela.</p>
+<p class="p">Ao buscar por arquivos em uma pasta, você pode <span class="link"><a href="files-preview.html.pt-BR" title="Visualizando arquivos e pastas">fazer uma pré-visualização de um arquivo</a></span> rapidamente, pressionando a barra de espaço: isso assegura que você está com o arquivo certo antes de abri-lo, copiá-lo ou excluí-lo.</p>
 <p class="p">A <span class="em">barra de caminho</span> acima da lista de arquivos e pastas lhe mostra qual pasta você está vendo, inclusive as pastas pai da pasta atual. Clique em uma pasta pai nessa barra de caminho para ir até ela. Clique com o direito em qualquer pasta na barra de caminho para abri-la em uma nova aba ou janela, ou acessar suas propriedades.</p>
-<p class="p">Se quiser <span class="link"><a href="files-search.html" title="Pesquisando por arquivos">pesquisar por um arquivo</a></span> rapidamente, dentro ou abaixo da pasta que você está vendo, comece a digitar o nome dele. Uma <span class="em">barra de pesquisa</span> aparecerá no parte superior da janela e apenas arquivos que coincidir com sua pesquisa será mostrado. Pressione <span class="key"><kbd>Esc</kbd></span> para cancelar a pesquisa.</p>
+<p class="p">Se quiser <span class="link"><a href="files-search.html.pt-BR" title="Pesquisando por arquivos">pesquisar por um arquivo</a></span> rapidamente, dentro ou abaixo da pasta que você está vendo, comece a digitar o nome dele. Uma <span class="em">barra de pesquisa</span> aparecerá no parte superior da janela e apenas arquivos que coincidir com sua pesquisa será mostrado. Pressione <span class="key"><kbd>Esc</kbd></span> para cancelar a pesquisa.</p>
 <p class="p">Você pode acessar rapidamente lugares comuns na <span class="em">barra lateral</span>. Se não vê a barra lateral, clique em <span class="gui">Arquivos</span> na barra superior e, então, na <span class="gui">Barra lateral</span>. Você pode adicionar marcadores a pastas que você use com frequência e eles aparecerão na barra lateral. Arraste uma pasta para a barra lateral e solte-a sobre <span class="gui">Novo marcador</span>, o qual dinamicamente aparece, ou clique no menu da janela e, então, selecione <span class="gui">Marcar este local</span>.</p>
 </div></div>
 </div></div>
@@ -67,12 +67,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt-BR#common-file-tasks" title="Tarefas comuns">Tarefas comuns</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-copy.html" title="Copiando ou movendo arquivos e pastas">Copiando ou movendo arquivos e pastas</a><span class="desc"> — Copie ou mova itens para uma nova pasta.</span>
+<a href="files-copy.html.pt-BR" title="Copiando ou movendo arquivos e pastas">Copiando ou movendo arquivos e pastas</a><span class="desc"> — Copie ou mova itens para uma nova pasta.</span>
 </li></ul></div>
 </div></div>
 </div>

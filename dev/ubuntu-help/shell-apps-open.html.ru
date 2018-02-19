@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Запуск приложений</span></h1></div>
@@ -51,9 +51,9 @@
 <div class="contents">
 <p class="p">Move your mouse pointer to the
   <span class="gui">Activities</span> corner at the top left of the screen to show the
-  <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview. This is where you
+  <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview. This is where you
   can find all of your applications. You can also open the overview by pressing
-  the <span class="key"><a href="keyboard-key-super.html" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span> key.</p>
+  the <span class="key"><a href="keyboard-key-super.html.ru" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span> key.</p>
 <p class="p">There are several ways of opening an application once you’re in the
   <span class="gui">Activities</span> overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
@@ -63,11 +63,11 @@
       to type an related term. Click the application’s icon to start it.</p></li>
 <li class="list">
 <p class="p">Значки некоторых приложений находятся в <span class="em">боковой панели</span> — вертикальная полоса в левой части <span class="gui">Обзора</span>. Чтобы запустить приложение, нажмите на его значок.</p>
-<p class="p">Часто используемые приложения можно <span class="link"><a href="shell-apps-favorites.html" title="Добавление приложений в боковую панель">добавить в боковую панель</a></span>.</p>
+<p class="p">Часто используемые приложения можно <span class="link"><a href="shell-apps-favorites.html.ru" title="Добавление приложений в боковую панель">добавить в боковую панель</a></span>.</p>
 </li>
 <li class="list"><p class="p">Нажмите кнопку в виде сетки в нижней части боковой панели. Вы увидите популярные (часто используемые вами) приложения (если включён режим <span class="gui">популярных приложений</span>). Если вы хотите запустить новое приложение, нажмите кнопку <span class="gui">Все</span>, чтобы увидеть все доступные приложения. Нажмите на значок приложения, чтобы его запустить.</p></li>
 <li class="list">
-<p class="p">Приложение можно запускать на отдельном <span class="link"><a href="shell-workspaces.html" title="Что такое рабочее место, и для чего оно нужно?">рабочем месте</a></span>, перетащив значок приложения из боковой панели (или списка приложений) на одно из рабочих мест в правой части экрана. После перетаскивания приложение будет открыто в выбранном рабочем месте.</p>
+<p class="p">Приложение можно запускать на отдельном <span class="link"><a href="shell-workspaces.html.ru" title="Что такое рабочее место, и для чего оно нужно?">рабочем месте</a></span>, перетащив значок приложения из боковой панели (или списка приложений) на одно из рабочих мест в правой части экрана. После перетаскивания приложение будет открыто в выбранном рабочем месте.</p>
 <p class="p">Чтобы запустить приложение на <span class="em">новом</span> рабочем месте перетащите его значок на пустое рабочее место в нижней части переключателя рабочих мест или на небольшой зазор между рабочими местами.</p>
 </li>
 </ul></div></div></div>
@@ -89,24 +89,24 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html" title="Your desktop">Your desktop</a><span class="desc"> — 
-      <span class="link"><a href="clock-calendar.html" title="События календаря">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="Панель для уведомлений и сообщений">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="Полезные комбинации клавиш">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="Окна и рабочие места">windows and workspaces</a></span>…
+<a href="shell-overview.html.ru" title="Your desktop">Your desktop</a><span class="desc"> — 
+      <span class="link"><a href="clock-calendar.html.ru" title="События календаря">Calendar</a></span>,
+      <span class="link"><a href="shell-notifications.html.ru" title="Панель для уведомлений и сообщений">notifications</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.ru" title="Полезные комбинации клавиш">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-windows.html.ru" title="Окна и рабочие места">windows and workspaces</a></span>…
     </span>
 </li>
-<li class="links "><a href="index.html" title="Руководство пользователя Ubuntu">Руководство пользователя Ubuntu</a></li>
+<li class="links "><a href="index.html.ru" title="Руководство пользователя Ubuntu">Руководство пользователя Ubuntu</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-apps-favorites.html" title="Добавление приложений в боковую панель">Добавление приложений в боковую панель</a><span class="desc"> — Добавление (или удаление) значков часто используемых приложений из боковой панели.</span>
+<a href="shell-apps-favorites.html.ru" title="Добавление приложений в боковую панель">Добавление приложений в боковую панель</a><span class="desc"> — Добавление (или удаление) значков часто используемых приложений из боковой панели.</span>
 </li>
-<li class="links "><a href="gs-launch-applications.html" title="Запуск приложений">Руководство по запуску приложений</a></li>
-<li class="links "><a href="gs-use-system-search.html" title="Использование системного поиска">Руководство по использованию системного поиска</a></li>
+<li class="links "><a href="gs-launch-applications.html.ru" title="Запуск приложений">Руководство по запуску приложений</a></li>
+<li class="links "><a href="gs-use-system-search.html.ru" title="Использование системного поиска">Руководство по использованию системного поиска</a></li>
 </ul></div>
 </div></div>
 </div>

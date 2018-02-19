@@ -48,15 +48,15 @@
 <div class="region">
 <div class="contents">
 <p class="p"><span class="em">GNOME klasické</span> je vlastnost pro uživatele, kteří dávají přednost více tradičnímu ovládání uživatelského prostředí. I když je založené na technologiích <span class="em">GNOME 3</span>, poskytuje řadu změn v uživatelském rozhraní, jako jsou nabídky <span class="gui">Aplikace</span> a <span class="gui">Místa</span> v horní liště a seznam oken v dolní části obrazovky.</p>
-<p class="p">Ke spuštění aplikací můžete použít nabídku <span class="gui">Aplikace</span> na horní liště. Přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činností</a></span> je přístupný přes položku <span class="gui">Přehled činností</span> v nabídce.</p>
-<p class="p">K přístupu do <span class="em">přehledu <span class="gui">Činností</span></span> můžete použít také zmáčknutí klávesy <span class="key"><a href="keyboard-key-super.html" title="Co je klávesa Super?"><kbd>Super</kbd></a></span>.</p>
+<p class="p">Ke spuštění aplikací můžete použít nabídku <span class="gui">Aplikace</span> na horní liště. Přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činností</a></span> je přístupný přes položku <span class="gui">Přehled činností</span> v nabídce.</p>
+<p class="p">K přístupu do <span class="em">přehledu <span class="gui">Činností</span></span> můžete použít také zmáčknutí klávesy <span class="key"><a href="keyboard-key-super.html.cs" title="Co je klávesa Super?"><kbd>Super</kbd></a></span>.</p>
 </div>
 <div id="gnome-classic-window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Seznam oken</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Seznam oken ve spodní části obrazovky poskytuje přístup ke všem otevřeným oknům a aplikacím a umožňuje vám je rychle minimalizovat a obnovit do původní velikosti.</p>
 <p class="p">Na pravé straně seznamu oken zobrazuje GNOME krátkou identifikaci aktuální pracovní plochy, např. <span class="gui">1</span> pro první (horní) pracovní plochu. Navíc zobrazuje identifikátor také celkový počet dostupných pracovních ploch. Když se chcete přepnout na jinou pracovní plochu, stačí kliknout na identifikátor a vybrat z nabídky pracovní plochu, kterou chcete.</p>
-<p class="p">Když chce některá aplikace nebo systémová komponenta získat vaši pozornost, zobrazí modrou ikonu na pravé straně seznamu oken. Kliknutím na modrou ikonu zobrazíte <span class="link"><a href="shell-notifications.html" title="Upozornění a pořadač zpráv">pořadač zpráv</a></span>, který poskytuje přístup ke všem upozorněním.</p>
+<p class="p">Když chce některá aplikace nebo systémová komponenta získat vaši pozornost, zobrazí modrou ikonu na pravé straně seznamu oken. Kliknutím na modrou ikonu zobrazíte <span class="link"><a href="shell-notifications.html.cs" title="Upozornění a pořadač zpráv">pořadač zpráv</a></span>, který poskytuje přístup ke všem upozorněním.</p>
 </div></div>
 </div></div>
 <div id="gnome-classic-switch" class="sect"><div class="inner">

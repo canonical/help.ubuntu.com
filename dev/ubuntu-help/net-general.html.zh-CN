@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">网络术语与提示</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html" title="什么是 IP 地址？"><span class="title">什么是 IP 地址？</span><span class="linkdiv-dash"> — </span><span class="desc">电脑中的 IP 地址就像电话号码</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html" title="什么是 MAC 地址？"><span class="title">什么是 MAC 地址？</span><span class="linkdiv-dash"> — </span><span class="desc">为网络硬件分配的唯一代码。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-proxy.html" title="代理服务器设置"><span class="title">代理服务器设置</span><span class="linkdiv-dash"> — </span><span class="desc">A proxy is an intermediary for web traffic, it can be used for accessing web services anonymously, for control or security purposes.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html.zh-CN" title="什么是 IP 地址？"><span class="title">什么是 IP 地址？</span><span class="linkdiv-dash"> — </span><span class="desc">电脑中的 IP 地址就像电话号码</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html.zh-CN" title="什么是 MAC 地址？"><span class="title">什么是 MAC 地址？</span><span class="linkdiv-dash"> — </span><span class="desc">为网络硬件分配的唯一代码。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-proxy.html.zh-CN" title="代理服务器设置"><span class="title">代理服务器设置</span><span class="linkdiv-dash"> — </span><span class="desc">A proxy is an intermediary for web traffic, it can be used for accessing web services anonymously, for control or security purposes.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html" title="使用网络时保持安全"><span class="title">使用网络时保持安全</span><span class="linkdiv-dash"> — </span><span class="desc">General tips to keep in mind when using the internet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-findip.html" title="查看您的 IP 地址"><span class="title">查看您的 IP 地址</span><span class="linkdiv-dash"> — </span><span class="desc">知道自己的 IP 地址可以帮您解决网络问题。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html.zh-CN" title="使用网络时保持安全"><span class="title">使用网络时保持安全</span><span class="linkdiv-dash"> — </span><span class="desc">General tips to keep in mind when using the internet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-findip.html.zh-CN" title="查看您的 IP 地址"><span class="title">查看您的 IP 地址</span><span class="linkdiv-dash"> — </span><span class="desc">知道自己的 IP 地址可以帮您解决网络问题。</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -65,16 +65,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="无线网络">无线连接</a></span>、<span class="link"><a href="net-wired.html" title="有线网络">wired</a></span>、<span class="link"><a href="net-problem.html" title="网络问题">连接故障</a></span>、<span class="link"><a href="net-browser.html" title="Web 浏览器">网页浏览器</a></span>、<span class="link"><a href="net-email.html" title="邮件和邮件客户端">邮箱帐号</a></span>…</span>
+<a href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.zh-CN" title="无线网络">无线连接</a></span>、<span class="link"><a href="net-wired.html.zh-CN" title="有线网络">wired</a></span>、<span class="link"><a href="net-problem.html.zh-CN" title="网络问题">连接故障</a></span>、<span class="link"><a href="net-browser.html.zh-CN" title="Web 浏览器">网页浏览器</a></span>、<span class="link"><a href="net-email.html.zh-CN" title="邮件和邮件客户端">邮箱帐号</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="无线网络">无线网络</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="连接到一个无线网络">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="连接到一个隐藏的无线网络">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="为什么我的无线网络总是断开？">Disconnecting</a></span>…
+<a href="net-wireless.html.zh-CN" title="无线网络">无线网络</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.zh-CN" title="连接到一个无线网络">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.zh-CN" title="连接到一个隐藏的无线网络">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.zh-CN" title="为什么我的无线网络总是断开？">Disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div>

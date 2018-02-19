@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="disk.html" title="Levyt ja tiedon tallennus">Levyt ja tiedon tallennus</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="disk.html.fi" title="Levyt ja tiedon tallennus">Levyt ja tiedon tallennus</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Testaa kiintolevyn suorituskyky</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">Testaa kiintolevyn suorituskyky:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open <span class="app">Disks</span> from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview.</p></li>
 <li class="steps"><p class="p">Choose the disk from the list in the left pane.</p></li>
 <li class="steps"><p class="p">Click the menu button and select <span class="gui">Benchmark disk…</span> from the
       menu.</p></li>
@@ -60,7 +60,7 @@
       Rate</span> and <span class="gui">Access Time</span> parameters as desired.</p></li>
 <li class="steps">
 <p class="p">Click <span class="gui">Start Benchmarking</span> to test how fast data can be read
-      from the disk. <span class="link"><a href="user-admin-explain.html" title="Kuinka pääkäyttäjäoikeudet toimivat?">Administrative
+      from the disk. <span class="link"><a href="user-admin-explain.html.fi" title="Kuinka pääkäyttäjäoikeudet toimivat?">Administrative
       privileges</a></span> may be required. Enter your password, or the password
       for the requested administrator account.</p>
 <div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">If <span class="gui">Perform write-benchmark</span> is checked, the benchmark
@@ -76,7 +76,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Levyt ja tiedon tallennus">Levyt ja tiedon tallennus</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Tarkista kuinka paljon levytilaa on käytössä">Levytila</a></span>, <span class="link"><a href="disk-benchmark.html" title="Testaa kiintolevyn suorituskyky">suorituskyky</a></span>, <span class="link"><a href="disk-check.html" title="Tarkista kiintolevysi ongelmien varalta">ongelmat</a></span>, <span class="link"><a href="disk-partitions.html" title="Hallitse levyjä ja osioita">asemat ja osiot</a></span>…</span>
+<a href="disk.html.fi" title="Levyt ja tiedon tallennus">Levyt ja tiedon tallennus</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.fi" title="Tarkista kuinka paljon levytilaa on käytössä">Levytila</a></span>, <span class="link"><a href="disk-benchmark.html.fi" title="Testaa kiintolevyn suorituskyky">suorituskyky</a></span>, <span class="link"><a href="disk-check.html.fi" title="Tarkista kiintolevysi ongelmien varalta">ongelmat</a></span>, <span class="link"><a href="disk-partitions.html.fi" title="Hallitse levyjä ja osioita">asemat ja osiot</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

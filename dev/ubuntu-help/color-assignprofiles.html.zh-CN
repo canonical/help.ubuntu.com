@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="color.html" title="色彩管理">色彩管理</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="color.html.zh-CN" title="色彩管理">色彩管理</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="color.html" title="色彩管理">色彩管理</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="color.html.zh-CN" title="色彩管理">色彩管理</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">You may want to assign a color profile for your screen or printer so that
   the colors which it shows are more accurate.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Color</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select the device for which you want to add a profile.</p></li>
@@ -74,20 +74,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html" title="色彩管理">色彩管理</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html" title="色彩管理为何非常重要？">为什么这很重要</a></span>、<span class="link"><a href="color.html#profiles" title="色彩配置文件">颜色配置文件</a></span>、<span class="link"><a href="color.html#calibration" title="校准">如何校准设备</a></span>…</span>
+<a href="color.html.zh-CN" title="色彩管理">色彩管理</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.zh-CN" title="色彩管理为何非常重要？">为什么这很重要</a></span>、<span class="link"><a href="color.html.zh-CN#profiles" title="色彩配置文件">颜色配置文件</a></span>、<span class="link"><a href="color.html.zh-CN#calibration" title="校准">如何校准设备</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-why-calibrate.html" title="为何需要自己进行校准？">为何需要自己进行校准？</a><span class="desc"> — 如果您在意您显示或打印的颜色，校准将非常重要。</span>
+<a href="color-why-calibrate.html.zh-CN" title="为何需要自己进行校准？">为何需要自己进行校准？</a><span class="desc"> — 如果您在意您显示或打印的颜色，校准将非常重要。</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="什么是色彩配置文件？">什么是色彩配置文件？</a><span class="desc"> — 色彩配置文件是一个表述色彩空间或设备响应的简单文件。</span>
+<a href="color-whatisprofile.html.zh-CN" title="什么是色彩配置文件？">什么是色彩配置文件？</a><span class="desc"> — 色彩配置文件是一个表述色彩空间或设备响应的简单文件。</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html" title="如何导入色彩配置文件？">如何导入色彩配置文件？</a><span class="desc"> — Color profiles can be imported by opening them.</span>
+<a href="color-howtoimport.html.zh-CN" title="如何导入色彩配置文件？">如何导入色彩配置文件？</a><span class="desc"> — Color profiles can be imported by opening them.</span>
 </li>
 </ul></div>
 </div></div>

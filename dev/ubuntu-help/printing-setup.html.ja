@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="printing.html" title="印刷">印刷</a> › <a class="trail" href="printing.html#setup" title="プリンターをセットアップする">設定</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="printing.html.ja" title="印刷">印刷</a> › <a class="trail" href="printing.html.ja#setup" title="プリンターをセットアップする">設定</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ローカルプリンターをセットアップする</span></h1></div>
@@ -59,7 +59,7 @@
 <p class="p">If your printer was not set up automatically, you can add it in the
   printer settings:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p"><span class="gui">プリンター</span>を選択します。</p></li>
 <li class="steps"><p class="p">右上にある<span class="gui">ロック解除</span>ボタンをクリックして、パスワードを入力します。</p></li>
@@ -68,19 +68,19 @@
 </ol></div></div></div>
 <p class="p">If your printer does not appear in the Add a New Printer window, you may
   need to install print drivers.</p>
-<p class="p">プリンターをインストールしたら、<span class="link"><a href="printing-setup-default-printer.html" title="デフォルトのプリンターを設定する">デフォルトプリンターの変更</a></span>を行うとよいでしょう。</p>
+<p class="p">プリンターをインストールしたら、<span class="link"><a href="printing-setup-default-printer.html.ja" title="デフォルトのプリンターを設定する">デフォルトプリンターの変更</a></span>を行うとよいでしょう。</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="プリンターをセットアップする">プリンターをセットアップする</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.ja#setup" title="プリンターをセットアップする">プリンターをセットアップする</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-setup-default-printer.html" title="デフォルトのプリンターを設定する">デフォルトのプリンターを設定する</a><span class="desc"> — もっともよく使用するプリンターを選択します。</span>
+<a href="printing-setup-default-printer.html.ja" title="デフォルトのプリンターを設定する">デフォルトのプリンターを設定する</a><span class="desc"> — もっともよく使用するプリンターを選択します。</span>
 </li></ul></div>
 </div></div>
 </div>

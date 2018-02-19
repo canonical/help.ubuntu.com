@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Contacten</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Gebruik <span class="app">Contacten</span> om informatie voor uw contacten lokaal of in uw <span class="link"><a href="accounts.html" title="Online-accounts">Online-accounts</a></span> op te slaan, te bekijken of te bewerken.</p>
+<p class="p">Gebruik <span class="app">Contacten</span> om informatie voor uw contacten lokaal of in uw <span class="link"><a href="accounts.html.nl" title="Online-accounts">Online-accounts</a></span> op te slaan, te bekijken of te bewerken.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html" title="Contacten voor de eerste keer starten"><span class="title">Contacten voor de eerste keer starten</span><span class="linkdiv-dash"> — </span><span class="desc">Uw contacten opslaan in een lokaal adresboek of in een online-account.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html" title="Contactpersoon aan elkaar verbinden en weer losmaken"><span class="title">Contactpersoon aan elkaar verbinden en weer losmaken</span><span class="linkdiv-dash"> — </span><span class="desc">Informatie over een contact uit meerdere bronnen bij elkaar brengen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html" title="Een contact toevoegen of verwijderen"><span class="title">Een contact toevoegen of verwijderen</span><span class="linkdiv-dash"> — </span><span class="desc">Een contact toevoegen aan of verwijderen uit het lokale adresboek.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html" title="Kenmerken van contact bewerken"><span class="title">Kenmerken van contact bewerken</span><span class="linkdiv-dash"> — </span><span class="desc">De gegevens voor elk contact bewerken.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html" title="Met uw contact verbinden"><span class="title">Met uw contact verbinden</span><span class="linkdiv-dash"> — </span><span class="desc">E-mail sturen naar, chatten of telefoneren met een contact.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-search.html" title="Zoeken naar een contact"><span class="title">Zoeken naar een contact</span><span class="linkdiv-dash"> — </span><span class="desc">Zoeken naar een contact.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.nl" title="Contacten voor de eerste keer starten"><span class="title">Contacten voor de eerste keer starten</span><span class="linkdiv-dash"> — </span><span class="desc">Uw contacten opslaan in een lokaal adresboek of in een online-account.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html.nl" title="Contactpersoon aan elkaar verbinden en weer losmaken"><span class="title">Contactpersoon aan elkaar verbinden en weer losmaken</span><span class="linkdiv-dash"> — </span><span class="desc">Informatie over een contact uit meerdere bronnen bij elkaar brengen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html.nl" title="Een contact toevoegen of verwijderen"><span class="title">Een contact toevoegen of verwijderen</span><span class="linkdiv-dash"> — </span><span class="desc">Een contact toevoegen aan of verwijderen uit het lokale adresboek.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.nl" title="Kenmerken van contact bewerken"><span class="title">Kenmerken van contact bewerken</span><span class="linkdiv-dash"> — </span><span class="desc">De gegevens voor elk contact bewerken.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.nl" title="Met uw contact verbinden"><span class="title">Met uw contact verbinden</span><span class="linkdiv-dash"> — </span><span class="desc">E-mail sturen naar, chatten of telefoneren met een contact.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-search.html.nl" title="Zoeken naar een contact"><span class="title">Zoeken naar een contact</span><span class="linkdiv-dash"> — </span><span class="desc">Zoeken naar een contact.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,12 +64,12 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Draadloos netwerk">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Bekabeld netwerk">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Netwerkproblemen">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Webbrowsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="E mail &amp; e-mailsoftware">email accounts</a></span>…
+<a href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html.nl" title="Draadloos netwerk">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html.nl" title="Bekabeld netwerk">wired</a></span>,
+      <span class="link"><a href="net-problem.html.nl" title="Netwerkproblemen">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html.nl" title="Webbrowsers">web browsing</a></span>,
+      <span class="link"><a href="net-email.html.nl" title="E mail &amp; e-mailsoftware">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

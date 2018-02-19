@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="disk.html" title="Δίσκοι &amp; αποθήκευση">Δίσκοι &amp; αποθήκευση</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="disk.html.el" title="Δίσκοι &amp; αποθήκευση">Δίσκοι &amp; αποθήκευση</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Δοκιμάστε την απόδοση του σκληρού σας δίσκου</span></h1></div>
@@ -51,13 +51,13 @@
 <div class="contents">
 <p class="p">Για να δοκιμάσετε την ταχύτητα του σκληρού σας δίσκου:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε το <span class="app">Δίσκοι</span> από την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε το <span class="app">Δίσκοι</span> από την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>.</p></li>
 <li class="steps"><p class="p">Επιλέξτε τον δίσκο από τη λίστα στο αριστερό παράθυρο.</p></li>
 <li class="steps"><p class="p">Click the menu button and select <span class="gui">Benchmark disk…</span> from the
       menu.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Εκκίνηση έλεγχου επιδόσεων…</span> και ρυθμίστε τις παραμέτρους <span class="gui">Ρυθμός μεταφοράς</span> και <span class="gui">Χρόνος προσπέλασης</span> όπως εσείς επιθυμείτε.</p></li>
 <li class="steps">
-<p class="p">Κάντε κλικ στο <span class="gui">Εκκίνηση του έλεγχου επιδόσεων</span> για να δοκιμάσετε πόσο γρήγορα μπορούν να διαβαστούν τα δεδομένα από τον δίσκο. Ίσως απαιτηθούν <span class="link"><a href="user-admin-explain.html" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">δικαιώματα διαχειριστή</a></span>. Εισάγετε τον κωδικό πρόσβασής σας, ή τον κωδικό πρόσβασης για τον ζητούμενο λογαριασμό διαχειριστή.</p>
+<p class="p">Κάντε κλικ στο <span class="gui">Εκκίνηση του έλεγχου επιδόσεων</span> για να δοκιμάσετε πόσο γρήγορα μπορούν να διαβαστούν τα δεδομένα από τον δίσκο. Ίσως απαιτηθούν <span class="link"><a href="user-admin-explain.html.el" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">δικαιώματα διαχειριστή</a></span>. Εισάγετε τον κωδικό πρόσβασής σας, ή τον κωδικό πρόσβασης για τον ζητούμενο λογαριασμό διαχειριστή.</p>
 <div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Εάν η επιλογή <span class="gui">Εκτέλεση ελέγχου επιδόσεων εγγραφής</span> είναι επιλεγμένη, ο έλεγχος επιδόσεων θα δοκιμάσει πόσο γρήγορα τα δεδομένα μπορούν να διαβαστούν και να γραφτούν στο δίσκο. Αυτό θα πάρει περισσότερο χρόνο για να ολοκληρωθεί.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
@@ -69,7 +69,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Δίσκοι &amp; αποθήκευση">Δίσκοι &amp; αποθήκευση</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Ελέγξτε πόσος χώρος έχει απομείνει στον δίσκο">Χώρος δίσκου</a></span>, <span class="link"><a href="disk-benchmark.html" title="Δοκιμάστε την απόδοση του σκληρού σας δίσκου">Απόδοση</a></span>, <span class="link"><a href="disk-check.html" title="Έλεγχος του σκληρού σας δίσκου για προβλήματα">Προβλήματα</a></span>, <span class="link"><a href="disk-partitions.html" title="Διαχείριση τόμων και κατατμήσεων">Τόμοι και κατατμήσεις</a></span>…</span>
+<a href="disk.html.el" title="Δίσκοι &amp; αποθήκευση">Δίσκοι &amp; αποθήκευση</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.el" title="Ελέγξτε πόσος χώρος έχει απομείνει στον δίσκο">Χώρος δίσκου</a></span>, <span class="link"><a href="disk-benchmark.html.el" title="Δοκιμάστε την απόδοση του σκληρού σας δίσκου">Απόδοση</a></span>, <span class="link"><a href="disk-check.html.el" title="Έλεγχος του σκληρού σας δίσκου για προβλήματα">Προβλήματα</a></span>, <span class="link"><a href="disk-partitions.html.el" title="Διαχείριση τόμων και κατατμήσεων">Τόμοι και κατατμήσεις</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

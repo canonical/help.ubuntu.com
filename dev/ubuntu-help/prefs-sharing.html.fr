@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Paramétrage du partage</span></h1></div>
@@ -52,13 +52,13 @@
 <p class="p">Le <span class="em">paramétrage du partage</span> dans GNOME permet de contrôler ce qui est partagé sur un réseau local, ou à travers d'autres techniques comme <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html" title="Choix d'un nom public pour votre ordinateur"><span class="title">Choix d'un nom public pour votre ordinateur</span><span class="linkdiv-dash"> — </span><span class="desc">Contrôler la manière dont votre ordinateur se présente aux autres machines et périphériques.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Contrôle du partage par Bluetooth"><span class="title">Contrôle du partage par Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Autoriser le téléversement de fichiers vers votre ordinateur par Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html" title="Partage de vos fichiers personnels"><span class="title">Partage de vos fichiers personnels</span><span class="linkdiv-dash"> — </span><span class="desc">Permettez à d'autres personnes d'accéder aux fichiers de votre dossier <span class="file">Public</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.fr" title="Choix d'un nom public pour votre ordinateur"><span class="title">Choix d'un nom public pour votre ordinateur</span><span class="linkdiv-dash"> — </span><span class="desc">Contrôler la manière dont votre ordinateur se présente aux autres machines et périphériques.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.fr" title="Contrôle du partage par Bluetooth"><span class="title">Contrôle du partage par Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Autoriser le téléversement de fichiers vers votre ordinateur par Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.fr" title="Partage de vos fichiers personnels"><span class="title">Partage de vos fichiers personnels</span><span class="linkdiv-dash"> — </span><span class="desc">Permettez à d'autres personnes d'accéder aux fichiers de votre dossier <span class="file">Public</span>.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html" title="Partage de votre bureau"><span class="title">Partage de votre bureau</span><span class="linkdiv-dash"> — </span><span class="desc">Permettre à d'autres personnes de voir et d'interagir avec votre bureau en utilisant VNC.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-media.html" title="Partage de votre musique, de vos photos et vidéos"><span class="title">Partage de votre musique, de vos photos et vidéos</span><span class="linkdiv-dash"> — </span><span class="desc">Partager les médias sur votre réseau local en utilisant UPnP.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.fr" title="Partage de votre bureau"><span class="title">Partage de votre bureau</span><span class="linkdiv-dash"> — </span><span class="desc">Permettre à d'autres personnes de voir et d'interagir avec votre bureau en utilisant VNC.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-media.html.fr" title="Partage de votre musique, de vos photos et vidéos"><span class="title">Partage de votre musique, de vos photos et vidéos</span><span class="linkdiv-dash"> — </span><span class="desc">Partager les médias sur votre réseau local en utilisant UPnP.</span></a></div>
 </div>
 </div></div></div>
 </div>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Paramètres utilisateur et système">Paramètres utilisateur et système</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Clavier">Clavier</a></span>, <span class="link"><a href="mouse.html" title="Souris">souris</a></span>, <span class="link"><a href="prefs-display.html" title="Affichage et écran">écran</a></span>, <span class="link"><a href="prefs-language.html" title="Pays &amp; langue.">langues</a></span>, <span class="link"><a href="user-accounts.html" title="Comptes utilisateurs">comptes utilisateurs</a></span>…</span>
+<a href="prefs.html.fr" title="Paramètres utilisateur et système">Paramètres utilisateur et système</a><span class="desc"> — <span class="link"><a href="keyboard.html.fr" title="Clavier">Clavier</a></span>, <span class="link"><a href="mouse.html.fr" title="Souris">souris</a></span>, <span class="link"><a href="prefs-display.html.fr" title="Affichage et écran">écran</a></span>, <span class="link"><a href="prefs-language.html.fr" title="Pays &amp; langue.">langues</a></span>, <span class="link"><a href="user-accounts.html.fr" title="Comptes utilisateurs">comptes utilisateurs</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

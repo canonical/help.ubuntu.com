@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="clock.html" title="Datums un laiks">Datums un laiks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="clock.html.lv" title="Datums un laiks">Datums un laiks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mainīt datumu un laiku</span></h1></div>
@@ -51,20 +51,20 @@
 <div class="contents">
 <p class="p">Ja datums un laiks, kas attēloti augšējā joslā, ir nepareizi, vai arī ir nepareizā formātā, jūs tos varat mainīt:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Datums un laiks</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Datums un laiks</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Datums un laiks</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Ja <span class="gui">Automātiskais datums un laiks</span> ir iestatīts uz <span class="gui">|</span>, datums un laiks tiks atjaunināta automātiski, kamēr ir savienojums ar internetu. Lai datumu un laiku atjauninātu manuāli, pārslēdziet to uz <span class="gui">◯</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Datums un laiks</span>, lai pielāgotu laiku un datumu.</p></li>
 <li class="steps"><p class="p">Jūs varat iestatīt, kā stunda ir attēlota, izvēloties <span class="gui">24 stundu</span> vai <span class="gui">AM/PM</span> <span class="gui">Laika formātu</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Jūs varētu vēlēties <span class="link"><a href="clock-timezone.html" title="Mainīt savu laika joslu">manuāli iestatīt laika joslu</a></span>.</p>
+<p class="p">Jūs varētu vēlēties <span class="link"><a href="clock-timezone.html.lv" title="Mainīt savu laika joslu">manuāli iestatīt laika joslu</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Datums un laiks">Datums un laiks</a><span class="desc"> — <span class="link"><a href="clock-set.html" title="Mainīt datumu un laiku">Iestatīt datumu un laiku</a></span>, <span class="link"><a href="clock-world.html" title="Pievienot pasaules pulksteni">pasaules pulksteņi</a></span>, <span class="link"><a href="clock-timezone.html" title="Mainīt savu laika joslu">laika josla</a></span>, <span class="link"><a href="clock-alendar.html" title="clock-alendar">kalendārs un tikšanās</a></span>…</span>
+<a href="clock.html.lv" title="Datums un laiks">Datums un laiks</a><span class="desc"> — <span class="link"><a href="clock-set.html.lv" title="Mainīt datumu un laiku">Iestatīt datumu un laiku</a></span>, <span class="link"><a href="clock-world.html.lv" title="Pievienot pasaules pulksteni">pasaules pulksteņi</a></span>, <span class="link"><a href="clock-timezone.html.lv" title="Mainīt savu laika joslu">laika josla</a></span>, <span class="link"><a href="clock-alendar.html.lv" title="clock-alendar">kalendārs un tikšanās</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

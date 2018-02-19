@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="sharing.html" title="Compartir">Compartir</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="sharing.html.es" title="Compartir">Compartir</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Para compartir archivos por correo-e:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la aplicación <span class="app">Archivos</span> desde la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span>.</p></li>
+<li class="steps"><p class="p">Abra la aplicación <span class="app">Archivos</span> desde la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span>.</p></li>
 <li class="steps"><p class="p">Seleccione el archivo que quiere transferir.</p></li>
 <li class="steps"><p class="p">Pulse con el botón derecho sobre el archivo y seleccione <span class="gui">Enviar a…</span>. Aparecerá una ventana del editor con el archivo seleccionado como adjunto.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Para</span> Para elegir un contacto, o introduzca una dirección de correo-e a la que quiere enviar el archivo. Rellene el campo <span class="gui">Asunto</span> y el cuerpo del mensaje y pulse <span class="gui">Enviar</span>.</p></li>
@@ -73,19 +73,19 @@
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Compartir">Compartir</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Compartir su escritorio">Compartición del escritorio</a></span>, <span class="link"><a href="files-share.html" title="Compartir archivos por correo-e">Compartir archivos por correo-e</a></span>, <span class="link"><a href="sharing-media.html" title="Compartir su música, fotos y vídeos">Compartición de medios</a></span>…</span>
+<a href="sharing.html.es" title="Compartir">Compartir</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.es" title="Compartir su escritorio">Compartición del escritorio</a></span>, <span class="link"><a href="files-share.html.es" title="Compartir archivos por correo-e">Compartir archivos por correo-e</a></span>, <span class="link"><a href="sharing-media.html.es" title="Compartir su música, fotos y vídeos">Compartición de medios</a></span>…</span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a></li>
+<li class="links "><a href="files.html.es#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-send-file.html" title="Enviar archivos a un dispositivo Bluetooth">Enviar archivos a un dispositivo Bluetooth</a><span class="desc"> — Compartir archivos entre dispositivos Bleutooth, como su teléfono.</span>
+<a href="bluetooth-send-file.html.es" title="Enviar archivos a un dispositivo Bluetooth">Enviar archivos a un dispositivo Bluetooth</a><span class="desc"> — Compartir archivos entre dispositivos Bleutooth, como su teléfono.</span>
 </li>
 <li class="links ">
-<a href="nautilus-connect.html" title="Examinar archivos en un servidor o compartición de red">Examinar archivos en un servidor o compartición de red</a><span class="desc"> — Ver y editar archivos en otro equipo sobre FTP, SSH, compartidos de Windows o WebDAV.</span>
+<a href="nautilus-connect.html.es" title="Examinar archivos en un servidor o compartición de red">Examinar archivos en un servidor o compartición de red</a><span class="desc"> — Ver y editar archivos en otro equipo sobre FTP, SSH, compartidos de Windows o WebDAV.</span>
 </li>
 </ul></div>
 </div></div>

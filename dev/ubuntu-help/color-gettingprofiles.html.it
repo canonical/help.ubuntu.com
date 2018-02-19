@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> » <a class="trail" href="color.html" title="Gestione del colore">Gestione del colore</a> › <a class="trail" href="color.html#profiles" title="Profili del colore">Profili del colore</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> » <a class="trail" href="color.html.it" title="Gestione del colore">Gestione del colore</a> › <a class="trail" href="color.html.it#profiles" title="Profili del colore">Profili del colore</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="color.html" title="Gestione del colore">Gestione del colore</a> › <a class="trail" href="color.html#profiles" title="Profili del colore">Profili del colore</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="color.html.it" title="Gestione del colore">Gestione del colore</a> › <a class="trail" href="color.html.it#profiles" title="Profili del colore">Profili del colore</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -62,30 +62,30 @@
     more than a year before the date you bought the device then it’s
     likely dummy data generated that is useless.
   </p>
-<p class="p">Consultare <span class="link"><a href="color-why-calibrate.html" title="Perché è necessario eseguire personalmente la calibrazione?">Perché è necessario eseguire personalmente la calibrazione?</a></span> per informazioni riguardanti il motivo per cui i profili forniti dai venditori sono spesso inutilizzabili.</p>
+<p class="p">Consultare <span class="link"><a href="color-why-calibrate.html.it" title="Perché è necessario eseguire personalmente la calibrazione?">Perché è necessario eseguire personalmente la calibrazione?</a></span> per informazioni riguardanti il motivo per cui i profili forniti dai venditori sono spesso inutilizzabili.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Profili del colore">Profili del colore</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.it#profiles" title="Profili del colore">Profili del colore</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Cos'è un profilo di colore?">Cos'è un profilo di colore?</a><span class="desc"> — Un profilo del colore è un semplice file che esprime uno spazio di colore o una risposta di dispositivo.</span>
+<a href="color-whatisprofile.html.it" title="Cos'è un profilo di colore?">Cos'è un profilo di colore?</a><span class="desc"> — Un profilo del colore è un semplice file che esprime uno spazio di colore o una risposta di dispositivo.</span>
 </li>
 <li class="links ">
-<a href="color-testing.html" title="How do I test if color management is working correctly?">How do I test if color management is working correctly?</a><span class="desc"> — Use the supplied test profiles to check that your profiles are being
+<a href="color-testing.html.it" title="How do I test if color management is working correctly?">How do I test if color management is working correctly?</a><span class="desc"> — Use the supplied test profiles to check that your profiles are being
     applied correctly to your screen.</span>
 </li>
 <li class="links ">
-<a href="color-missingvcgt.html" title="Mancano delle informazioni per la correzione del colore a schermo intero?">Mancano delle informazioni per la correzione del colore a schermo intero?</a><span class="desc"> — La correzione del colore a schermo intero modifica tutti i colori dello schermo su tutte le finestre.</span>
+<a href="color-missingvcgt.html.it" title="Mancano delle informazioni per la correzione del colore a schermo intero?">Mancano delle informazioni per la correzione del colore a schermo intero?</a><span class="desc"> — La correzione del colore a schermo intero modifica tutti i colori dello schermo su tutte le finestre.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html" title="Perché è necessario eseguire personalmente la calibrazione?">Perché è necessario eseguire personalmente la calibrazione?</a><span class="desc"> — Effettuare la calibrazione è importante se si dà molta importanza ai colori visualizzati o stampati.</span>
+<a href="color-why-calibrate.html.it" title="Perché è necessario eseguire personalmente la calibrazione?">Perché è necessario eseguire personalmente la calibrazione?</a><span class="desc"> — Effettuare la calibrazione è importante se si dà molta importanza ai colori visualizzati o stampati.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-security.html" title="Сачувајте безбедност на интернету">Сачувајте безбедност на интернету</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-security.html.sr" title="Сачувајте безбедност на интернету">Сачувајте безбедност на интернету</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Укључите или блокирајте приступ мрежне баријере</span></h1></div>
@@ -54,7 +54,7 @@
 <p class="p">Сваки програм који обезбеђује мрежне услуге користи нарочити <span class="em">мрежни прикључак</span>. Да омогућите другим рачунарима на мрежи да приступе услузи, можда ћете морати да „отворите“ његов додељени прикључак на мрежној баријери:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Идите до <span class="gui">Активности</span> у левом горњем углу екрана и покрените вашу мрежну баријеру. Можда ћете морати сами да инсталирате управника мрежне баријере ако не можете да пронађете ниједан (на пример, Паликућу или ГУФВ).</p></li>
-<li class="steps"><p class="p">Отворите или искључите прикључак за вашу мрежну услугу, у зависности да ли желите да други буду у могућности да му приступе или не. Који прикључак ћете морати да измените <span class="link"><a href="net-firewall-ports.html" title="Уопштено коришћени мрежни прикључци">зависиће од услуге</a></span>.</p></li>
+<li class="steps"><p class="p">Отворите или искључите прикључак за вашу мрежну услугу, у зависности да ли желите да други буду у могућности да му приступе или не. Који прикључак ћете морати да измените <span class="link"><a href="net-firewall-ports.html.sr" title="Уопштено коришћени мрежни прикључци">зависиће од услуге</a></span>.</p></li>
 <li class="steps"><p class="p">Сачувајте или примените измене, пратећи сва додатна упутства која вам даје алат мрежне баријере.</p></li>
 </ol></div></div></div>
 </div>
@@ -64,13 +64,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Сачувајте безбедност на интернету">Сачувајте безбедност на интернету</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Да ли ми је потребан анти-вирус?">Антивирусни програми</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Укључите или блокирајте приступ мрежне баријере">основне мрежне баријере</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Уопштено коришћени мрежни прикључци">прикључници мрежне баријере</a></span>…</span>
+<a href="net-security.html.sr" title="Сачувајте безбедност на интернету">Сачувајте безбедност на интернету</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.sr" title="Да ли ми је потребан анти-вирус?">Антивирусни програми</a></span>, <span class="link"><a href="net-firewall-on-off.html.sr" title="Укључите или блокирајте приступ мрежне баријере">основне мрежне баријере</a></span>, <span class="link"><a href="net-firewall-ports.html.sr" title="Уопштено коришћени мрежни прикључци">прикључници мрежне баријере</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-ports.html" title="Уопштено коришћени мрежни прикључци">Уопштено коришћени мрежни прикључци</a><span class="desc"> — Морате да одредите прави мрежни прикључак да укључите/искључите мрежни приступ за програм са вашом мрежном баријером.</span>
+<a href="net-firewall-ports.html.sr" title="Уопштено коришћени мрежни прикључци">Уопштено коришћени мрежни прикључци</a><span class="desc"> — Морате да одредите прави мрежни прикључак да укључите/искључите мрежни приступ за програм са вашом мрежном баријером.</span>
 </li></ul></div>
 </div></div>
 </div>

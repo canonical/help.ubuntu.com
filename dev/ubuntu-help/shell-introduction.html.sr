@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Упознавање са Гномом</span></h1></div>
@@ -51,29 +51,29 @@
 <div class="contents">
 <p class="p">Гном 3 карактерише потпуно нов изглед корисничког сучеља осмишљеног да вам не стоји на путу, умањи ометање, и да вам помогне да обавите посао. Када се први пут пријавите, видећете празну радну површ и горњу траку.</p>
 <div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="Горња трака Гномове шкољке"></div></div>
-<p class="p">Горња трака обезбеђује приступ вашим прозорима и програмима, вашем календару и састанцима, и <span class="link"><a href="status-icons.html" title="Које је значење иконица на горњој траци?">особинама система</a></span> као што је звук, умрежавање, и напајање. У изборнику стања на горњој траци, можете да измените јачину звука или осветљеност екрана, да уређујете појединости ваше <span class="gui">бежичне</span> везе, да проверите стање батерије, да се одјавите или да промените корисника, или да искључите рачунар.</p>
+<p class="p">Горња трака обезбеђује приступ вашим прозорима и програмима, вашем календару и састанцима, и <span class="link"><a href="status-icons.html.sr" title="Које је значење иконица на горњој траци?">особинама система</a></span> као што је звук, умрежавање, и напајање. У изборнику стања на горњој траци, можете да измените јачину звука или осветљеност екрана, да уређујете појединости ваше <span class="gui">бежичне</span> везе, да проверите стање батерије, да се одјавите или да промените корисника, или да искључите рачунар.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="shell-introduction.html#activities" title="Преглед Активности">Преглед <span class="gui">Активности</span></a></li>
-<li class="links "><a href="shell-introduction.html#appmenu" title="Изборник програма">Изборник програма</a></li>
-<li class="links "><a href="shell-introduction.html#clock" title="Сат, календар и састанци">Сат, календар и састанци</a></li>
-<li class="links "><a href="shell-introduction.html#yourname" title="Ви и ваш рачунар">Ви и ваш рачунар</a></li>
-<li class="links "><a href="shell-introduction.html#lockscreen" title="Закључавање екрана">Закључавање екрана</a></li>
-<li class="links "><a href="shell-introduction.html#window-list" title="Списак прозора">Списак прозора</a></li>
+<li class="links "><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Преглед <span class="gui">Активности</span></a></li>
+<li class="links "><a href="shell-introduction.html.sr#appmenu" title="Изборник програма">Изборник програма</a></li>
+<li class="links "><a href="shell-introduction.html.sr#clock" title="Сат, календар и састанци">Сат, календар и састанци</a></li>
+<li class="links "><a href="shell-introduction.html.sr#yourname" title="Ви и ваш рачунар">Ви и ваш рачунар</a></li>
+<li class="links "><a href="shell-introduction.html.sr#lockscreen" title="Закључавање екрана">Закључавање екрана</a></li>
+<li class="links "><a href="shell-introduction.html.sr#window-list" title="Списак прозора">Списак прозора</a></li>
 </ul></div></div></div>
 </div>
 <div id="activities" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Преглед <span class="gui">Активности</span></span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-activities.png" class="media media-block" alt="Дугме активности"></div></div>
-<p class="p">Да приступите вашим прозорима и програмима, кликните на дугме <span class="gui">Активности</span>, или једноставно померите показивач миша у горњи леви угао. Такође можете да притиснете тастер <span class="key"><a href="keyboard-key-super.html" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span> на вашој тастатури. Видећете ваше прозоре и програме у прегледу. Можете такође само да започнете да куцате да бисте претражили ваше програме, датотеке, фасцикле и веб.</p>
+<p class="p">Да приступите вашим прозорима и програмима, кликните на дугме <span class="gui">Активности</span>, или једноставно померите показивач миша у горњи леви угао. Такође можете да притиснете тастер <span class="key"><a href="keyboard-key-super.html.sr" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span> на вашој тастатури. Видећете ваше прозоре и програме у прегледу. Можете такође само да започнете да куцате да бисте претражили ваше програме, датотеке, фасцикле и веб.</p>
 <div class="media media-image floatstart if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-dash.png" height="300" class="media media-block" alt="Полетник"></div></div>
 <p class="p">На левој страни прегледа, наћи ћете <span class="em">полетника</span>. Полетник вам приказује ваше омиљене програме и оне који су већ покренути. Кликните на неку иконицу на полетнику да отворите тај програм; ако је програм већ покренут, биће истакнут. Клик на иконицу ће издићи најскорији коришћени прозор. Можете такође да превучете иконицу у преглед, или на било који радни простор на десној страни.</p>
 <p class="p">Клик десним тастером миша на иконицу приказује изборник који вам омогућава да изаберете било који прозор у покренутом програму, или да отворите нови прозор. Можете такође да кликнете на иконицу док држите притиснутим тастер <span class="key"><kbd>Ктрл</kbd></span> да отворите нови прозор.</p>
 <p class="p">Када сте у прегледу, на почетку ће вам увек бити приказан преглед прозора. У њему су вам приказане живе минијатуре свих прозора на текућем радном простору.</p>
 <p class="p">Кликните на дугме мреже при дну полетника да прикажете преглед програма. Ово ће вам приказати све програме инсталиране на вашем рачунару. Кликните на неки од програма да га покренете, или превуците програм у преглед или на минијатуру радног простора. Можете такође да превучете програм у полетнику да бисте га учинили омиљеним. Ваши омиљени програми остају у полетнику чак и када нису покренути, тако да им можете приступити брзо.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="Почетни програми">Сазнајте више о почетним програмима.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="Прозори и радни простори">Сазнајте више о прозорима и радним просторима.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html.sr" title="Почетни програми">Сазнајте више о почетним програмима.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows.html.sr" title="Прозори и радни простори">Сазнајте више о прозорима и радним просторима.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -90,8 +90,8 @@
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appts.png" width="250" class="media media-block" alt="Сат, календар, састанци и обавештења"></div></div>
 <p class="p">Кликните на сат на горњој траци да видите тренутни датум, календар појединачних месеци, списак ваших надолазећих састанака и нова обавештења. Можете да отворите календар и тако што ћете притиснути <span class="keyseq"><span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>М</kbd></span></span>. Можете да приступите подешавањима датума и времена и да отворите потпуни календар <span class="app">Еволуције</span> управно из изборника.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html" title="Састанци календара">Сазнајте више о календару и састанцима.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-notifications.html" title="Обавештења и фиока порука">Сазнајте више о обавештењима и фиоци порука.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html.sr" title="Састанци календара">Сазнајте више о календару и састанцима.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-notifications.html.sr" title="Обавештења и фиока порука">Сазнајте више о обавештењима и фиоци порука.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -101,7 +101,7 @@
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-exit.png" width="250" class="media media-block" alt="Кориснички изборник"></div></div>
 <p class="p">Кликните на системски изборник у горњем десном углу да управљате системским подешавањима и вашим рачунаром.</p>
 <p class="p">Када напустите ваш рачунар, можете закључати екран да бисте спречили друге да га користе. Такође можете врло лако да промените кориснике без потпуног одјављивања да бисте некоме дали приступ вашем рачунару, или можете да обуставите или да угасите рачунар из изборника. Ако имате екран који подржава усправно или водоравно окретање, можете врло брзо да га окренете у системском изборнуку. Ако ваш екран не подржава окретање, нећете видети дугме.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html" title="Одјављивање, гашење, промена корисника">Сазнајте више о промени корисника, одјављивању, и гашењу рачунара.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html.sr" title="Одјављивање, гашење, промена корисника">Сазнајте више о промени корисника, одјављивању, и гашењу рачунара.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div id="lockscreen" class="sect"><div class="inner">
@@ -109,14 +109,14 @@
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="Закључавање екрана"></div></div>
 <p class="p">Када закључате екран, или ако се сам закључа, бива приказан екран закључавања. Поред тога што штити вашу радну површ када сте далеко од рачунара, екран закључавања приказује датум и време. Такође приказује информације о стању ваше батерије и мреже, и омогућава вам да управљате пуштањем медија.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html" title="Закључавање екрана">Сазнајте више о закључавању екрана.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html.sr" title="Закључавање екрана">Сазнајте више о закључавању екрана.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div id="window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Списак прозора</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Гнома одликује другачији приступ пребацивања прозора него што је то стално видљив списак прозора који налазимо у другим окружењима радне површи. Ово вам допушта да се усредсредите на задатак на коме радите без ометања.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Пребацујте се између прозора">Сазнајте више о пребацивању прозора.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html.sr" title="Пребацујте се између прозора">Сазнајте више о пребацивању прозора.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -125,9 +125,9 @@
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html" title="Ваша радна површ">Ваша радна површ</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Састанци календара">Календар</a></span>, <span class="link"><a href="shell-notifications.html" title="Обавештења и фиока порука">обавештења</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Корисне пречице тастатуре">пречице тастатуре</a></span>, <span class="link"><a href="shell-windows.html" title="Прозори и радни простори">прозори и радни простори</a></span>…</span>
+<a href="shell-overview.html.sr" title="Ваша радна површ">Ваша радна површ</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.sr" title="Састанци календара">Календар</a></span>, <span class="link"><a href="shell-notifications.html.sr" title="Обавештења и фиока порука">обавештења</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.sr" title="Корисне пречице тастатуре">пречице тастатуре</a></span>, <span class="link"><a href="shell-windows.html.sr" title="Прозори и радни простори">прозори и радни простори</a></span>…</span>
 </li>
-<li class="links "><a href="index.html" title="Убунтуов водич за радну површ">Убунтуов водич за радну површ</a></li>
+<li class="links "><a href="index.html.sr" title="Убунтуов водич за радну површ">Убунтуов водич за радну површ</a></li>
 </ul></div>
 </div></div></div>
 </div>

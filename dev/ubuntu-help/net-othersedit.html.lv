@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-problem.html" title="Tīkla problēmas">Tīkla problēmas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-problem.html.lv" title="Tīkla problēmas">Tīkla problēmas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Citi lietotāji nevar rediģēt tīkla savienojumus</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Ja jūs varat rediģēt tīkla savienojumus, bet citi lietotāji nevar, jūs varbūt esat atzīmējis <span class="em">Pieejams visiem lietotājiem</span>. Tas nozīmē, ka jebkurš lietotājs šajā datorā varēs <span class="em">savienoties</span>, izmantojot šo savienojumu.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Tīkls</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Tīkls</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Tīkls</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Izvēlieties <span class="gui">Wi-Fi</span> sarakstā kreisajā pusē.</p></li>
 <li class="steps"><p class="p">Spiediet pogu <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="iestatījumi"></span></span> , lai atvērtu informāciju par savienojumu.</p></li>
@@ -66,17 +66,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Tīkla problēmas">Tīkla problēmas</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a></span>, <span class="link"><a href="net-wireless-find.html" title="Es sarakstā neredzu savu bezvadu tīklu">sameklējot savu bezvadu tīklu</a></span>…</span>
+<a href="net-problem.html.lv" title="Tīkla problēmas">Tīkla problēmas</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.lv" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a></span>, <span class="link"><a href="net-wireless-find.html.lv" title="Es sarakstā neredzu savu bezvadu tīklu">sameklējot savu bezvadu tīklu</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-othersconnect.html" title="Citi lietotāji nevar pieslēgties internetam">Citi lietotāji nevar pieslēgties internetam</a><span class="desc"> — Jūs varat saglabāt iestatījumus (tādu kā paroli) tīkla savienojumiem tā, lai jebkuram, kurš izmanto datoru būtu iespējams savienoties.</span>
+<a href="net-othersconnect.html.lv" title="Citi lietotāji nevar pieslēgties internetam">Citi lietotāji nevar pieslēgties internetam</a><span class="desc"> — Jūs varat saglabāt iestatījumus (tādu kā paroli) tīkla savienojumiem tā, lai jebkuram, kurš izmanto datoru būtu iespējams savienoties.</span>
 </li>
 <li class="links ">
-<a href="user-admin-explain.html" title="Kā strādā administratīvās tiesības?">Kā strādā administratīvās tiesības?</a><span class="desc"> — Administratora tiesības vajadzīgas, lai veiktu nopietnas izmaiņas sistēmā.</span>
+<a href="user-admin-explain.html.lv" title="Kā strādā administratīvās tiesības?">Kā strādā administratīvās tiesības?</a><span class="desc"> — Administratora tiesības vajadzīgas, lai veiktu nopietnas izmaiņas sistēmā.</span>
 </li>
 </ul></div>
 </div></div>

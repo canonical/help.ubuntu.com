@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="keyboard.html" title="Clavier">Clavier</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="keyboard.html.fr" title="Clavier">Clavier</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="keyboard.html" title="Clavier">Clavier</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="keyboard.html.fr" title="Clavier">Clavier</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,8 +55,8 @@
 <div class="contents">
 <p class="p">Avec la touche <span class="key"><kbd>Verrouillage numérique</kbd></span> vous pouvez activer ou désactiver manuellement le pavé numérique de votre clavier. En outre, les paramètres du BIOS de l'ordinateur comportent souvent une option pour permettre à l'ordinateur de démarrer avec le pavé numérique activé. Le cas échéant, voici une façon de le configurer :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html" title="Installer des applications supplémentaires">Installer</a></span> le paquet <span class="em">numlockx</span>.</p></li>
-<li class="steps"><p class="p">Ouvrez <span class="app"><span class="link"><a href="startup-applications.html" title="Applications au démarrage">Applications au démarrage</a></span></span> et ajoutez un programme au démarrage avec la commande : <span class="cmd">numlockx on</span></p></li>
+<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html.fr" title="Installer des applications supplémentaires">Installer</a></span> le paquet <span class="em">numlockx</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez <span class="app"><span class="link"><a href="startup-applications.html.fr" title="Applications au démarrage">Applications au démarrage</a></span></span> et ajoutez un programme au démarrage avec la commande : <span class="cmd">numlockx on</span></p></li>
 </ol></div></div></div>
 <p class="p">Si vous souhaitez que le clavier numérique soit actif aussi à partir de l'écran de connexion, vous pouvez créer un fichier de configuration spécial. Appuyez sur <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> pour ouvrir une fenêtre de terminal, puis exécutez cette commande (c'est une commande longue, même si elle peut paraître condensée à l'écran - copiez-la et collez-la pour éviter les erreurs) :</p>
 <p class="p"><span class="cmd">sudo sh -c 'printf "[Seat:*]\ngreeter-setup-script=numlockx on\n" &gt;/etc/lightdm/lightdm.conf.d/50-numlock.conf'</span></p>
@@ -66,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="Clavier">Clavier</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Utiliser des configurations de clavier alternatives">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span>
+<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.fr" title="Utiliser des configurations de clavier alternatives">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fr" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html.fr#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

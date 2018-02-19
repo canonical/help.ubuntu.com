@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="user-accounts.html" title="Uživatelské účty">Uživatelé</a> › <a class="trail" href="user-accounts.html#manage" title="Správa uživatelských účtů">Účty</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="user-accounts.html.cs" title="Uživatelské účty">Uživatelé</a> › <a class="trail" href="user-accounts.html.cs#manage" title="Správa uživatelských účtů">Účty</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Přidání nového uživatelského účtu</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Do svého počítače můžete přidat více uživatelských účtů. Každé osobě v domácnosti nebo v práci přidělte jeden účet. Každý uživatel tak bude mít svoji vlastní domovskou složku, dokumenty a nastavení.</p>
-<p class="p">Abyste mohli přidat účet uživatele, potřebujete <span class="link"><a href="user-admin-explain.html" title="Jak fungují oprávnění správce?">oprávnění správce</a></span>.</p>
+<p class="p">Abyste mohli přidat účet uživatele, potřebujete <span class="link"><a href="user-admin-explain.html.cs" title="Jak fungují oprávnění správce?">oprávnění správce</a></span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Uživatelé</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Uživatelé</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Uživatelé</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Zmáčkněte <span class="gui">Odemknout</span> v pravém horním rohu a po vyzvání zadejte heslo.</p></li>
 <li class="steps"><p class="p">Pro přidání nového účtu zmáčkněte tlačítko <span class="gui">+</span> vlevo pod seznamem účtů.</p></li>
 <li class="steps">
-<p class="p">Pokud chcete, aby měl nový uživatel k počítači <span class="link"><a href="user-admin-explain.html" title="Jak fungují oprávnění správce?">přístup správce</a></span>, vyberte u typu účtu <span class="gui">Správce</span>.</p>
+<p class="p">Pokud chcete, aby měl nový uživatel k počítači <span class="link"><a href="user-admin-explain.html.cs" title="Jak fungují oprávnění správce?">přístup správce</a></span>, vyberte u typu účtu <span class="gui">Správce</span>.</p>
 <p class="p">Správce může dělat věci, jako je přidávání a odebírání uživatelů, instalace softwaru a ovladačů a změna data a času.</p>
 </li>
 <li class="steps"><p class="p">Zadejte celé jméno uživatele. Uživatelské jméno bude vyplněno automaticky na základě celého jména. Pokud vám navrhované nebude vyhovovat, můžete jej samozřejmě změnit.</p></li>
@@ -75,12 +75,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Správa uživatelských účtů">Správa uživatelských účtů</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.cs#manage" title="Správa uživatelských účtů">Správa uživatelských účtů</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-delete.html" title="Smazání uživatelského účtu">Smazání uživatelského účtu</a><span class="desc"> — Jak odebrat uživatele, který počítač nadále nebude používat.</span>
+<a href="user-delete.html.cs" title="Smazání uživatelského účtu">Smazání uživatelského účtu</a><span class="desc"> — Jak odebrat uživatele, který počítač nadále nebude používat.</span>
 </li></ul></div>
 </div></div>
 </div>

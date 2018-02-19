@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html#backup" title="备份">备份</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.zh-CN" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html.zh-CN#backup" title="备份">备份</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">备份您的重要文件</span></h1></div>
@@ -53,18 +53,18 @@
 <p class="p">备份文件的最佳方式就是定期备份，并且异地、加密(若可能)保存副本。</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-where.html" title="在何处存储备份"><span class="title">在何处存储备份</span><span class="linkdiv-dash"> — </span><span class="desc">有关在何处存储备份以及使用何种存储设备的建议。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-what.html" title="备份对象"><span class="title">备份对象</span><span class="linkdiv-dash"> — </span><span class="desc">Back up anything that you cannot bear to lose if something goes
+<div class="linkdiv "><a class="linkdiv" href="backup-where.html.zh-CN" title="在何处存储备份"><span class="title">在何处存储备份</span><span class="linkdiv-dash"> — </span><span class="desc">有关在何处存储备份以及使用何种存储设备的建议。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-what.html.zh-CN" title="备份对象"><span class="title">备份对象</span><span class="linkdiv-dash"> — </span><span class="desc">Back up anything that you cannot bear to lose if something goes
     wrong.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-how.html" title="如何备份"><span class="title">如何备份</span><span class="linkdiv-dash"> — </span><span class="desc">使用 Déjà Dup(或其他备份程序)制作您重要文件和设置的备份防止丢失。</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-how.html.zh-CN" title="如何备份"><span class="title">如何备份</span><span class="linkdiv-dash"> — </span><span class="desc">使用 Déjà Dup(或其他备份程序)制作您重要文件和设置的备份防止丢失。</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="备份">备份</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.zh-CN#backup" title="备份">备份</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

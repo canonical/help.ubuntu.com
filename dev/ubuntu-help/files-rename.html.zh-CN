@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html#common-file-tasks" title="普通任务">普通任务</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.zh-CN" title="文件、文件夹 &amp; 搜索">文件</a> › <a class="trail" href="files.html.zh-CN#common-file-tasks" title="普通任务">普通任务</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">重命名文件或文件夹</span></h1></div>
@@ -59,7 +59,7 @@
     <span class="gui">Rename</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p">您还可以从<span class="link"><a href="nautilus-file-properties-basic.html" title="文件属性">属性</a></span>窗口重命名文件。</p>
+<p class="p">您还可以从<span class="link"><a href="nautilus-file-properties-basic.html.zh-CN" title="文件属性">属性</a></span>窗口重命名文件。</p>
 <p class="p">When you rename a file, only the first part of the name of the file is
   selected, not the file extension (the part after the last <span class="file">.</span>).
   The extension normally denotes what type of file it is (for example,
@@ -82,7 +82,7 @@
     <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>,
     <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
 <div class="note note-warning" title="警告"><div class="inner"><div class="region"><div class="contents"><p class="p">If you name a file with a <span class="file">.</span> as the first character, the
-    file will be <span class="link"><a href="files-hidden.html" title="隐藏文件">hidden</a></span> when you attempt to
+    file will be <span class="link"><a href="files-hidden.html.zh-CN" title="隐藏文件">hidden</a></span> when you attempt to
     view it in the file manager.</p></div></div></div></div>
 </div></div>
 </div></div>
@@ -103,14 +103,14 @@
         <span class="file">/home/wanda/Documents/work/business-proposals/…</span>), so you
         should avoid long file and folder names where possible.</p></dd>
 <dt class="terms">重命名的选项是灰色的</dt>
-<dd class="terms"><p class="p">如果<span class="gui">重命名</span>变灰，您将无权重命名文件。一般，如果您没有重命名文件的正确权限，您就不应重命名文件。请参阅<span class="link"><a href="nautilus-file-properties-permissions.html" title="设定文件权限">设定文件权限</a></span>。</p></dd>
+<dd class="terms"><p class="p">如果<span class="gui">重命名</span>变灰，您将无权重命名文件。一般，如果您没有重命名文件的正确权限，您就不应重命名文件。请参阅<span class="link"><a href="nautilus-file-properties-permissions.html.zh-CN" title="设定文件权限">设定文件权限</a></span>。</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="普通任务">普通任务</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.zh-CN#common-file-tasks" title="普通任务">普通任务</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

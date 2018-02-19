@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-display.html" title="Displej a obrazovka">Displej a obrazovka</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-display.html.cs" title="Displej a obrazovka">Displej a obrazovka</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Změna rozlišení nebo otočení obrazovky</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Pomocí změny <span class="em">rozlišení obrazovky</span> můžete změnit, jak velké (nebo jak podrobně vykreslené) mají věci na obrazovce vypadat. Pomocí změny <span class="em">otočení</span> můžete změnit, aby věci byly hlavou vzhůru (např. pokud máte otočný displej).</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Displeje</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Displeje</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Displeje</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Pokud máte více displejů a ty nejsou zrcadlené, můžete mít u každého jiné nastavení. Vyberte displej v části s náhledy.</p></li>
 <li class="steps"><p class="p">Vyberte rozlišení a otočení.</p></li>
@@ -62,7 +62,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Rozlišení</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Rozlišení je počet pixelů (obrazových bodů), které lze v jednotlivém směru zobrazit. Rozlišení má <span class="em">poměr stran</span>, což je poměr šířky a výšky. Širokoúhlé displeje používají poměr 16∶9, zatímco tradiční displeje 4∶3. Pokud zvolíte rozlišení, které neodpovídá poměrům stran vašeho displeje, bude obrazovka ořezána přidáním černých pruhů nahoru a dolů nebo po obou stranách, aby se zabránilo zkreslení.</p>
-<p class="p">V rozbalovacím seznamu <span class="gui">Rozlišení</span> si můžete zvolit rozlišení, které vám vyhovuje. Pokud ale zvolíte takové, které není pro vaši obrazovku správné, bude obraz <span class="link"><a href="look-display-fuzzy.html" title="Proč vše na mojí obrazovce vypadá rozmazané/kostičkované?">vypadat rozmazaně nebo kostičkovaně</a></span>.</p>
+<p class="p">V rozbalovacím seznamu <span class="gui">Rozlišení</span> si můžete zvolit rozlišení, které vám vyhovuje. Pokud ale zvolíte takové, které není pro vaši obrazovku správné, bude obraz <span class="link"><a href="look-display-fuzzy.html.cs" title="Proč vše na mojí obrazovce vypadá rozmazané/kostičkované?">vypadat rozmazaně nebo kostičkovaně</a></span>.</p>
 </div></div>
 </div></div>
 <div id="rotation" class="sect"><div class="inner">
@@ -75,13 +75,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Displej a obrazovka">Displej a obrazovka</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Změna pozadí pracovní plochy a uzamknuté obrazovky">Pozadí</a></span>, <span class="link"><a href="look-resolution.html" title="Změna rozlišení nebo otočení obrazovky">velikost a otočení</a></span>, jas…</span>
+<a href="prefs-display.html.cs" title="Displej a obrazovka">Displej a obrazovka</a><span class="desc"> — <span class="link"><a href="look-background.html.cs" title="Změna pozadí pracovní plochy a uzamknuté obrazovky">Pozadí</a></span>, <span class="link"><a href="look-resolution.html.cs" title="Změna rozlišení nebo otočení obrazovky">velikost a otočení</a></span>, jas…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-display-fuzzy.html" title="Proč vše na mojí obrazovce vypadá rozmazané/kostičkované?">Proč vše na mojí obrazovce vypadá rozmazané/kostičkované?</a><span class="desc"> — Možná je nastavené nesprávné rozlišení obrazovky.</span>
+<a href="look-display-fuzzy.html.cs" title="Proč vše na mojí obrazovce vypadá rozmazané/kostičkované?">Proč vše na mojí obrazovce vypadá rozmazané/kostičkované?</a><span class="desc"> — Možná je nastavené nesprávné rozlišení obrazovky.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="color.html" title="Manajemen warna">Manajemen warna</a> › <a class="trail" href="color.html#profiles" title="Profil warna">Profil warna</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="color.html.id" title="Manajemen warna">Manajemen warna</a> › <a class="trail" href="color.html.id#profiles" title="Profil warna">Profil warna</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="color.html" title="Manajemen warna">Manajemen warna</a> › <a class="trail" href="color.html#profiles" title="Profil warna">Profil warna</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="color.html.id" title="Manajemen warna">Manajemen warna</a> › <a class="trail" href="color.html.id#profiles" title="Profil warna">Profil warna</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,28 +56,28 @@
 <p class="p">Anda dapat mengimpor suatu profil warna dengan mengklik ganda pada berkas <span class="input">.ICC</span> atu <span class="input">.ICM</span> dalam peramban berkas.</p>
 <p class="p">Sebagai alternatif Anda dapat mengelola profil warna Anda melalui panel <span class="gui">Warna</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Warna</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Warna</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Warna</span> untuk membuka panel dan pilih perangkat Anda.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Tambah profil</span> untuk memilih profil yang ada atau mengimpor suatu profil baru.</p></li>
 <li class="steps"><p class="p">Tekan <span class="gui">Tambah</span> untuk mengkonfirmasi pilihan Anda.</p></li>
 </ol></div></div></div>
-<p class="p">Pembuat tampilan Anda mungkin menyediakan suatu profil yang dapat Anda pakai. Profil ini biasanya dibuat bagi tampilan rata-rata, sehingga mungkin tidak sempurna bagi spesifik milik Anda. Untuk kalibrasi terbaik, Anda mesti <span class="link"><a href="color-calibrate-screen.html" title="Bagaimana saya mengkalibrasi layar saya?">membuat profil Anda sendiri</a></span> memakai suatu colorimeter atau spectrophotometer.</p>
+<p class="p">Pembuat tampilan Anda mungkin menyediakan suatu profil yang dapat Anda pakai. Profil ini biasanya dibuat bagi tampilan rata-rata, sehingga mungkin tidak sempurna bagi spesifik milik Anda. Untuk kalibrasi terbaik, Anda mesti <span class="link"><a href="color-calibrate-screen.html.id" title="Bagaimana saya mengkalibrasi layar saya?">membuat profil Anda sendiri</a></span> memakai suatu colorimeter atau spectrophotometer.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Profil warna">Profil warna</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.id#profiles" title="Profil warna">Profil warna</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Apa itu profil warna?">Apa itu profil warna?</a><span class="desc"> — Profil warna adalah berkas sederhana yang mengekspresikan respon perangkat atau suatu ruang warna.</span>
+<a href="color-whatisprofile.html.id" title="Apa itu profil warna?">Apa itu profil warna?</a><span class="desc"> — Profil warna adalah berkas sederhana yang mengekspresikan respon perangkat atau suatu ruang warna.</span>
 </li>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Bagaimana saya mengarahkan profil ke perangkat?">Bagaimana saya mengarahkan profil ke perangkat?</a><span class="desc"> — Cari di <span class="guiseq"><span class="gui">Pengaturan</span> ▸ <span class="gui">Warna</span></span> untuk menambah suatu profil warna bagi layar Anda.</span>
+<a href="color-assignprofiles.html.id" title="Bagaimana saya mengarahkan profil ke perangkat?">Bagaimana saya mengarahkan profil ke perangkat?</a><span class="desc"> — Cari di <span class="guiseq"><span class="gui">Pengaturan</span> ▸ <span class="gui">Warna</span></span> untuk menambah suatu profil warna bagi layar Anda.</span>
 </li>
 </ul></div>
 </div></div>

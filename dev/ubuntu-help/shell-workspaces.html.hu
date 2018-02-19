@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Az asztal">Asztal</a> › <a class="trail" href="shell-overview.html#apps" title="Alkalmazások és ablakok">Alkalmazások és ablakok</a> » <a class="trail" href="shell-windows.html" title="Ablakok és munkaterületek">Ablakok és munkaterületek</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Munkaterületek kezelése">Munkaterületek</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.hu" title="Az asztal">Asztal</a> › <a class="trail" href="shell-overview.html.hu#apps" title="Alkalmazások és ablakok">Alkalmazások és ablakok</a> » <a class="trail" href="shell-windows.html.hu" title="Ablakok és munkaterületek">Ablakok és munkaterületek</a> › <a class="trail" href="shell-windows.html.hu#working-with-workspaces" title="Munkaterületek kezelése">Munkaterületek</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mi az a munkaterület, és mire használható?</span></h1></div>
@@ -54,7 +54,7 @@
 <p class="p">A munkaterületeket munkája rendszerezésére használhatja. Például az egyik munkaterületre elhelyezheti a kommunikációval kapcsolatos ablakokat, mint az e-mail és csevegés, a másikra pedig a munkájával kapcsolatos ablakokat. A zenelejátszó pedig a harmadik munkaterületre kerülhet.</p>
 <p class="p">Munkaterületek használata:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">A <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintésben vigye a kurzort a képernyő jobb szélére.</p></li>
+<li class="list"><p class="p">A <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintésben vigye a kurzort a képernyő jobb szélére.</p></li>
 <li class="list"><p class="p">Megjelenik egy függőleges panel, amely megjeleníti a használatban lévő munkaterületeket, valamint egy üres munkaterületet. Ez a munkaterület-választó.</p></li>
 <li class="list"><p class="p">Munkaterület hozzáadásához húzzon egy ablakot az egyik meglévő munkaterületről a munkaterület-választón lévő üres munkaterületre. Ezután ez a munkaterület fogja tartalmazni a ráejtett ablakot, és alatta megjelenik egy új üres munkaterület.</p></li>
 <li class="list"><p class="p">Egy munkaterület megszüntetéséhez zárja be a rajta lévő összes ablakot, vagy húzza át azokat más munkaterületekre.</p></li>
@@ -66,16 +66,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Munkaterületek kezelése">Munkaterületek kezelése</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.hu#working-with-workspaces" title="Munkaterületek kezelése">Munkaterületek kezelése</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-workspaces-movewindow.html" title="Ablak másik munkaterületre mozgatása">Ablak másik munkaterületre mozgatása</a><span class="desc"> — Nyissa meg a <span class="gui">Tevékenységek</span> áttekintést, és húzza az ablakot egy másik munkaterületre.</span>
+<a href="shell-workspaces-movewindow.html.hu" title="Ablak másik munkaterületre mozgatása">Ablak másik munkaterületre mozgatása</a><span class="desc"> — Nyissa meg a <span class="gui">Tevékenységek</span> áttekintést, és húzza az ablakot egy másik munkaterületre.</span>
 </li>
 <li class="links ">
-<a href="shell-workspaces-switch.html" title="Váltás a munkaterületek között">Váltás a munkaterületek között</a><span class="desc"> — A munkaterület-választó használata.</span>
+<a href="shell-workspaces-switch.html.hu" title="Váltás a munkaterületek között">Váltás a munkaterületek között</a><span class="desc"> — A munkaterület-választó használata.</span>
 </li>
 </ul></div>
 </div></div>

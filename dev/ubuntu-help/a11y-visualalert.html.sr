@@ -43,34 +43,34 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Универзални приступ">Универзални приступ</a> › <a class="trail" href="a11y.html#sound" title="Оштећења слуха">Оштећења слуха</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.sr" title="Универзални приступ">Универзални приступ</a> › <a class="trail" href="a11y.html.sr#sound" title="Оштећења слуха">Оштећења слуха</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Затреперите екраном за звуке обавештења</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Ваш рачунар ће пустити једноставан звук упозорења за одређене врсте порука и догађаја. Ако не можете да чујете ове звуке, можете подесити да било читав екран или ваш тренутни прозор визуелно затрепери при сваком пуштању звука.</p>
-<p class="p">Ово такође може бити корисно ако се налазите у окружењу у коме ваш рачунар треба да буде нечујан, као на пример у библиотеци. Погледајте <span class="link"><a href="sound-alert.html" title="Изаберите или искључите звук упозорења">Изаберите или искључите звук упозорења</a></span> да сазнате како да утишате звук упозорења, и да укључите визуелна упозорења.</p>
+<p class="p">Ово такође може бити корисно ако се налазите у окружењу у коме ваш рачунар треба да буде нечујан, као на пример у библиотеци. Погледајте <span class="link"><a href="sound-alert.html.sr" title="Изаберите или искључите звук упозорења">Изаберите или искључите звук упозорења</a></span> да сазнате како да утишате звук упозорења, и да укључите визуелна упозорења.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Универзални приступ</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Универзални приступ</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Универзални приступ</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Притисните <span class="gui">Визуелна упозорења</span> у одељку <span class="gui">Слушање</span>.</p></li>
 <li class="steps"><p class="p">Пребаците <span class="gui">Визуелна упозорења</span> на <span class="gui">УКЉ.</span>.</p></li>
 <li class="steps"><p class="p">Изаберите да ли желите да затрепери читав екран или само наслов вашег тренутног прозора.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Можете да укључите или да искључите визуелна упозорења тако што ћете кликнути на <span class="link"><a href="a11y-icon.html" title="Пронађите изборник универзалног приступа">иконицу приступачности</a></span> на горњој траци и изабрати <span class="gui">Визуелна упозорења</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Можете да укључите или да искључите визуелна упозорења тако што ћете кликнути на <span class="link"><a href="a11y-icon.html.sr" title="Пронађите изборник универзалног приступа">иконицу приступачности</a></span> на горњој траци и изабрати <span class="gui">Визуелна упозорења</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#sound" title="Оштећења слуха">Оштећења слуха</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.sr#sound" title="Оштећења слуха">Оштећења слуха</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-alert.html" title="Изаберите или искључите звук упозорења">Изаберите или искључите звук упозорења</a><span class="desc"> — Изаберите звук за поруке, подесите јачину звука упозорења, или искључите звуке упозорења.</span>
+<a href="sound-alert.html.sr" title="Изаберите или искључите звук упозорења">Изаберите или искључите звук упозорења</a><span class="desc"> — Изаберите звук за поруке, подесите јачину звука упозорења, или искључите звуке упозорења.</span>
 </li></ul></div>
 </div></div>
 </div>

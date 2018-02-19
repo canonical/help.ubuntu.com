@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="getting-started.html" title="Mulai Memakai">Mulai Memakai GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="getting-started.html.id" title="Mulai Memakai">Mulai Memakai GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="Memakai pencarian sistem">Sebelumnya</a><a class="nextlinks-next" href="gs-browse-web.html" title="Jelajah web">Selanjutnya</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.id" title="Memakai pencarian sistem">Sebelumnya</a><a class="nextlinks-next" href="gs-browse-web.html.id" title="Jelajah web">Selanjutnya</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Menuju daring</span></h1></div>
 <div class="region">
@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Untuk menyambung ke jaringan Wi-Fi (nirkabel):</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klik <span class="gui"><a href="shell-introduction.html#yourname" title="Anda dan komputer Anda">menu sistem</a></span> pada sisi kanan bilah puncak.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui"><a href="shell-introduction.html.id#yourname" title="Anda dan komputer Anda">menu sistem</a></span> pada sisi kanan bilah puncak.</p></li>
 <li class="steps"><p class="p">Pilih <span class="gui">Wi-Fi Tidak Tersambung</span>. Seksi Wi-Fi dari menu akan mengembang.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Pilih Jaringan</span>.</p></li>
 </ol></div>
@@ -88,7 +88,7 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-use-system-search.html" title="Memakai pencarian sistem">Sebelumnya</a><a class="nextlinks-next" href="gs-browse-web.html" title="Jelajah web">Selanjutnya</a>
+<a class="nextlinks-prev" href="gs-use-system-search.html.id" title="Memakai pencarian sistem">Sebelumnya</a><a class="nextlinks-next" href="gs-browse-web.html.id" title="Jelajah web">Selanjutnya</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -96,13 +96,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Mulai Memakai">Mulai Memakai GNOME</a><span class="desc"> — Baru kenal GNOME? Pelajari bagaimana memakainya.</span>
+<a href="getting-started.html.id" title="Mulai Memakai">Mulai Memakai GNOME</a><span class="desc"> — Baru kenal GNOME? Pelajari bagaimana memakainya.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Jaringan Nirkabel">Nirkabel</a></span>, <span class="link"><a href="net-wired.html" title="Jaringan Kabel">ethernet</a></span>, <span class="link"><a href="net-problem.html" title="Masalah jaringan">masalah koneksi</a></span>, <span class="link"><a href="net-browser.html" title="Peramban Web">meramban web</a></span>, <span class="link"><a href="net-email.html" title="Surel &amp; perangkat lunak surel">akun surel</a></span>…</span>
+<a href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.id" title="Jaringan Nirkabel">Nirkabel</a></span>, <span class="link"><a href="net-wired.html.id" title="Jaringan Kabel">ethernet</a></span>, <span class="link"><a href="net-problem.html.id" title="Masalah jaringan">masalah koneksi</a></span>, <span class="link"><a href="net-browser.html.id" title="Peramban Web">meramban web</a></span>, <span class="link"><a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">akun surel</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

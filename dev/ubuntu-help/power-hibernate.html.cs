@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="power.html" title="Napájení a baterie">Napájení a baterie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="power.html" title="Napájení a baterie">Napájení a baterie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Když počítač <span class="em">hibernuje</span>, všechny programy a dokumenty se uloží na disk a počítač se úplně vypne, takže nespotřebobává žádnou energii, ale aplikace budou po opětovném zapnutí stále otevřené.</p>
-<p class="p">Bohužel hibernace v mnoha případech <span class="link"><a href="power-suspendfail.html" title="Proč se můj počítač nechce znovu zapnout po jeho uspání?">nefunguje</a></span>, což může zaříčinit ztrátu dat když očekáváte že se aplikace znovu otevřou. Proto je hibernace ve výchozím stavu vypnutá.</p>
+<p class="p">Bohužel hibernace v mnoha případech <span class="link"><a href="power-suspendfail.html.cs" title="Proč se můj počítač nechce znovu zapnout po jeho uspání?">nefunguje</a></span>, což může zaříčinit ztrátu dat když očekáváte že se aplikace znovu otevřou. Proto je hibernace ve výchozím stavu vypnutá.</p>
 </div>
 <div id="test-hibernate" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Test funkčnosti hibernace</span></h2></div>
@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">Můžete použít příkazovou řádku pro otestování funkčnosti hibernace.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete <span class="app">Terminál</span> stiskem kláves <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> nebo vyhledáním slova <span class="input">terminál</span> v nabídce <span class="gui">Dash</span>.</p></li>
+<li class="steps"><p class="p">Otevřte <span class="app">Terminál</span> vyhledáním výrazu <span class="input">terminál</span> v <span class="gui">Přehledu aktivit</span>.</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Po zobrazení žádosti zadejte své heslo.</p>
@@ -108,13 +108,13 @@ ResultActive=yes</pre></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Napájení a baterie">Napájení a baterie</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Kontrola stavu baterie">Stav baterie</a></span>, <span class="link"><a href="power-suspend.html" title="Co se stane, když svůj počítač uspím?">uspání</a></span>, <span class="link"><a href="power-whydim.html" title="Proč moje obrazovka po krátké době potemní?">stmívání obrazovky</a></span>…</span>
+<a href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a><span class="desc"> — <span class="link"><a href="power-status.html.cs" title="Kontrola stavu baterie">Stav baterie</a></span>, <span class="link"><a href="power-suspend.html.cs" title="Co se stane, když svůj počítač uspím?">uspání</a></span>, <span class="link"><a href="power-whydim.html.cs" title="Proč moje obrazovka po krátké době potemní?">stmívání obrazovky</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-suspendfail.html" title="Proč se můj počítač nechce znovu zapnout po jeho uspání?">Proč se můj počítač nechce znovu zapnout po jeho uspání?</a><span class="desc"> — Některý hardware způsobuje problémy s uspáním do paměti.</span>
+<a href="power-suspendfail.html.cs" title="Proč se můj počítač nechce znovu zapnout po jeho uspání?">Proč se můj počítač nechce znovu zapnout po jeho uspání?</a><span class="desc"> — Některý hardware způsobuje problémy s uspáním do paměti.</span>
 </li></ul></div>
 </div></div>
 </div>

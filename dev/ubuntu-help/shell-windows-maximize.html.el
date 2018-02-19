@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » <a class="trail" href="shell-windows.html" title="Παράθυρα και χώροι εργασίας">Παράθυρα και χώροι εργασίας</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Δουλεύοντας με παράθυρα">Παράθυρα</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.el" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html.el#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » <a class="trail" href="shell-windows.html.el" title="Παράθυρα και χώροι εργασίας">Παράθυρα και χώροι εργασίας</a> › <a class="trail" href="shell-windows.html.el#working-with-windows" title="Δουλεύοντας με παράθυρα">Παράθυρα</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Μεγιστοποίηση και απομεγιστοποίηση παραθύρου</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Μπορείτε να μεγιστοποιήσετε ένα παράθυρο για να καταλάβει όλον τον χώρο στην επιφάνεια εργασίας σας και να απομεγιστοποιήσετε ένα παράθυρο για επαναφορά του στο κανονικό του μέγεθος. Μπορείτε επίσης να μεγιστοποιήσετε κάθετα τα παράθυρα στην αριστερή και δεξιά πλευρά της οθόνης, έτσι ώστε να μπορείτε εύκολα να κοιτάτε δύο παράθυρα μονομιάς. Για λεπτομέρειες δείτε <span class="link"><a href="shell-windows-tiled.html" title="Παράθεση παραθύρων">Παράθεση παραθύρων</a></span>.</p>
-<p class="p">Για να μεγιστοποιήσετε ένα παράθυρο, πάρτε τη γραμμή τίτλου και σύρετέ την στην κορυφή της οθόνης, ή απλά κάντε διπλό κλικ στη γραμμή του τίτλου. Για μεγιστοποίηση ενός παραθύρου χρησιμοποιώντας το πληκτρολόγιο, κρατήστε πατημένο το πλήκτρο <span class="key"><a href="keyboard-key-super.html" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span> και πατήστε <span class="key"><kbd>↑</kbd></span>, ή πατήστε <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
+<p class="p">Μπορείτε να μεγιστοποιήσετε ένα παράθυρο για να καταλάβει όλον τον χώρο στην επιφάνεια εργασίας σας και να απομεγιστοποιήσετε ένα παράθυρο για επαναφορά του στο κανονικό του μέγεθος. Μπορείτε επίσης να μεγιστοποιήσετε κάθετα τα παράθυρα στην αριστερή και δεξιά πλευρά της οθόνης, έτσι ώστε να μπορείτε εύκολα να κοιτάτε δύο παράθυρα μονομιάς. Για λεπτομέρειες δείτε <span class="link"><a href="shell-windows-tiled.html.el" title="Παράθεση παραθύρων">Παράθεση παραθύρων</a></span>.</p>
+<p class="p">Για να μεγιστοποιήσετε ένα παράθυρο, πάρτε τη γραμμή τίτλου και σύρετέ την στην κορυφή της οθόνης, ή απλά κάντε διπλό κλικ στη γραμμή του τίτλου. Για μεγιστοποίηση ενός παραθύρου χρησιμοποιώντας το πληκτρολόγιο, κρατήστε πατημένο το πλήκτρο <span class="key"><a href="keyboard-key-super.html.el" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span> και πατήστε <span class="key"><kbd>↑</kbd></span>, ή πατήστε <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
 <p class="p">Για να επαναφέρετε ένα παράθυρο στο κανονικό του μέγεθος, σύρετε το μακριά από τις άκρες της οθόνης. Εάν το παράθυρο είναι πλήρως μεγιστοποιημένο, μπορείτε με διπλό κλικ στη γραμμή τίτλου να το επαναφέρετε. Μπορείτε επίσης να χρησιμοποιήσετε τις ίδιες συντομεύσεις πληκτρολογίου που χρησιμοποιήσατε για τη μεγιστοποίηση του.</p>
 <div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Κρατήστε πατημένο το πλήκτρο <span class="key"><kbd>Λογότυπο</kbd></span> και σύρετε το οπουδήποτε σε ένα παράθυρο για να το μετακινήσετε.</p></div></div></div></div>
 </div>
@@ -59,12 +59,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Δουλεύοντας με παράθυρα">Δουλεύοντας με παράθυρα</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.el#working-with-windows" title="Δουλεύοντας με παράθυρα">Δουλεύοντας με παράθυρα</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-tiled.html" title="Παράθεση παραθύρων">Παράθεση παραθύρων</a><span class="desc"> — Μεγιστοποιήστε δύο παράθυρα πλάι-πλάι.</span>
+<a href="shell-windows-tiled.html.el" title="Παράθεση παραθύρων">Παράθεση παραθύρων</a><span class="desc"> — Μεγιστοποιήστε δύο παράθυρα πλάι-πλάι.</span>
 </li></ul></div>
 </div></div>
 </div>

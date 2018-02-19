@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ρυθμίσεις κοινής χρήσης</span></h1></div>
@@ -52,13 +52,13 @@
 <p class="p">Οι <span class="em">Ρυθμίσεις κοινής χρήσης</span> στο GNOME βοηθούν στον έλεγχο του διαμοιρασμού μέσω του τοπικού δικτύου, ή μέσα από άλλες τεχνολογίες όπως το <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html" title="Ορισμός του ονόματος εμφάνισης για τον υπολογιστή σας"><span class="title">Ορισμός του ονόματος εμφάνισης για τον υπολογιστή σας</span><span class="linkdiv-dash"> — </span><span class="desc">Ελέγξτε πώς ο υπολογιστής σας θα εμφανίζετε σε άλλους υπολογιστές ή συσκευές.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Έλεγχος κοινής χρήσης μέσω Bluetooth"><span class="title">Έλεγχος κοινής χρήσης μέσω Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Να επιτρέπεται σε αρχεία να αποστέλλονται στον υπολογιστή σας μέσα από Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html" title="Κοινή χρήση της επιφάνειας εργασίας σας"><span class="title">Κοινή χρήση της επιφάνειας εργασίας σας</span><span class="linkdiv-dash"> — </span><span class="desc">Αφήστε τους άλλους να προβάλλουν και να αλληλεπιδρούν με την επιφάνεια εργασίας σας χρησιμοποιώντας VNC.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.el" title="Ορισμός του ονόματος εμφάνισης για τον υπολογιστή σας"><span class="title">Ορισμός του ονόματος εμφάνισης για τον υπολογιστή σας</span><span class="linkdiv-dash"> — </span><span class="desc">Ελέγξτε πώς ο υπολογιστής σας θα εμφανίζετε σε άλλους υπολογιστές ή συσκευές.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.el" title="Έλεγχος κοινής χρήσης μέσω Bluetooth"><span class="title">Έλεγχος κοινής χρήσης μέσω Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Να επιτρέπεται σε αρχεία να αποστέλλονται στον υπολογιστή σας μέσα από Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.el" title="Κοινή χρήση της επιφάνειας εργασίας σας"><span class="title">Κοινή χρήση της επιφάνειας εργασίας σας</span><span class="linkdiv-dash"> — </span><span class="desc">Αφήστε τους άλλους να προβάλλουν και να αλληλεπιδρούν με την επιφάνεια εργασίας σας χρησιμοποιώντας VNC.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-media.html" title="Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας"><span class="title">Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας</span><span class="linkdiv-dash"> — </span><span class="desc">Διαμοιραστείτε πολυμέσα στο τοπικό δίκτυο σας χρησιμοποιώντας UPnP.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html" title="Μοιραστείτε τα προσωπικά σας αρχεία"><span class="title">Μοιραστείτε τα προσωπικά σας αρχεία</span><span class="linkdiv-dash"> — </span><span class="desc">Επιτρέψτε σε άλλα άτομα να προσπελάζουν τα αρχεία στον <span class="file">Δημόσιο</span> φάκελό σας.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-media.html.el" title="Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας"><span class="title">Κοινή χρήση της μουσικής, των φωτογραφιών και των βίντεό σας</span><span class="linkdiv-dash"> — </span><span class="desc">Διαμοιραστείτε πολυμέσα στο τοπικό δίκτυο σας χρησιμοποιώντας UPnP.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.el" title="Μοιραστείτε τα προσωπικά σας αρχεία"><span class="title">Μοιραστείτε τα προσωπικά σας αρχεία</span><span class="linkdiv-dash"> — </span><span class="desc">Επιτρέψτε σε άλλα άτομα να προσπελάζουν τα αρχεία στον <span class="file">Δημόσιο</span> φάκελό σας.</span></a></div>
 </div>
 </div></div></div>
 </div>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Χρήστης &amp; ρυθμίσεις συστήματος</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Πληκτρολόγιο">Πληκτρολόγιο</a></span>, <span class="link"><a href="mouse.html" title="Ποντίκι">Ποντίκι</a></span>, <span class="link"><a href="prefs-display.html" title="Εμφάνιση &amp; οθόνη">Οθόνη</a></span>, <span class="link"><a href="prefs-language.html" title="Περιοχή &amp; γλώσσα">Γλώσσες</a></span>, <span class="link"><a href="user-accounts.html" title="Λογαριασμοί χρηστών">Λογαριασμοί χρήστη</a></span>…</span>
+<a href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Χρήστης &amp; ρυθμίσεις συστήματος</a><span class="desc"> — <span class="link"><a href="keyboard.html.el" title="Πληκτρολόγιο">Πληκτρολόγιο</a></span>, <span class="link"><a href="mouse.html.el" title="Ποντίκι">Ποντίκι</a></span>, <span class="link"><a href="prefs-display.html.el" title="Εμφάνιση &amp; οθόνη">Οθόνη</a></span>, <span class="link"><a href="prefs-language.html.el" title="Περιοχή &amp; γλώσσα">Γλώσσες</a></span>, <span class="link"><a href="user-accounts.html.el" title="Λογαριασμοί χρηστών">Λογαριασμοί χρήστη</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

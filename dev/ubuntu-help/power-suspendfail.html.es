@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comunes">Problemas</a> » <a class="trail" href="power.html#problems" title="Problemas">Problemas de energía</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html.es#problems" title="Problemas comunes">Problemas</a> » <a class="trail" href="power.html.es#problems" title="Problemas">Problemas de energía</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comunes">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html" title="Problemas de la pantalla">Problemas de la pantalla</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html.es#problems" title="Problemas comunes">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html.es" title="Problemas de la pantalla">Problemas de la pantalla</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Si <span class="link"><a href="power-suspend.html" title="¿Qué ocurre cuando suspendo el equipo?">suspende</a></span> su equipo y luego tratar de despertarlo o de volver a encenderlo, es posible que no funcione como esperaba. Esto podría ser debido a que su hardware no permite suspender adecuadamente.</p></div>
+<div class="contents"><p class="p">Si <span class="link"><a href="power-suspend.html.es" title="¿Qué ocurre cuando suspendo el equipo?">suspende</a></span> su equipo y luego tratar de despertarlo o de volver a encenderlo, es posible que no funcione como esperaba. Esto podría ser debido a que su hardware no permite suspender adecuadamente.</p></div>
 <div id="resume" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Mi equipo está dormido y no puedo despertarlo</span></h2></div>
 <div class="region"><div class="contents">
@@ -66,7 +66,7 @@
 <div id="hardware" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Mi conexión inalámbrica (u otro hardware) no funciona cuando mi equipo despierta</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Si suspende su equipo y luego lo despierta de nuevo, es posible que encuentre que su conexión a Internet, el ratón, o algún otro dispositivo no funcionan correctamente. Esto podría deberse a que el controlador del dispositivo no soporta la suspensión correctamente. Esto es un <span class="link"><a href="hardware-driver.html" title="¿Qué es un controlador?">problema con el controlador</a></span> y no con el propio dispositivo.</p>
+<p class="p">Si suspende su equipo y luego lo despierta de nuevo, es posible que encuentre que su conexión a Internet, el ratón, o algún otro dispositivo no funcionan correctamente. Esto podría deberse a que el controlador del dispositivo no soporta la suspensión correctamente. Esto es un <span class="link"><a href="hardware-driver.html.es" title="¿Qué es un controlador?">problema con el controlador</a></span> y no con el propio dispositivo.</p>
 <p class="p">Si el dispositivo tiene algún interruptor de encendido, pruebe a apagarlo y volverlo a encender. En muchas ocasiones, el dispositivo volverá a funcionar de nuevo. Si se conecta mediante un cable USB o similar, desconéctelo y vuélvalo a conectar, a ver si funciona.</p>
 <p class="p">Si no se puede apagar o desenchufar el dispositivo, o si esto no funciona, es posible que deba reiniciar el equipo para que el dispositivo vuelva a funcionar.</p>
 </div></div>
@@ -78,10 +78,10 @@
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power.html#problems" title="Problemas">Problemas de energía</a><span class="desc"> — Resolución de problemas sobre energía y batería.</span>
+<a href="power.html.es#problems" title="Problemas">Problemas de energía</a><span class="desc"> — Resolución de problemas sobre energía y batería.</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Problemas de la pantalla">Problemas de la pantalla</a><span class="desc"> — Resolución de problemas de pantalla y gráficos.</span>
+<a href="hardware-problems-graphics.html.es" title="Problemas de la pantalla">Problemas de la pantalla</a><span class="desc"> — Resolución de problemas de pantalla y gráficos.</span>
 </li>
 </ul></div>
 </div></div>
@@ -89,19 +89,19 @@
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-nowireless.html" title="No tengo conexión inalámbrica a la red cuando despierto mi equipo">No tengo conexión inalámbrica a la red cuando despierto mi equipo</a><span class="desc"> — Algunos dispositivos inalámbricos tienen problemas de manejo cuando envía su equipo a dormir y no despiertan correctamente.</span>
+<a href="power-nowireless.html.es" title="No tengo conexión inalámbrica a la red cuando despierto mi equipo">No tengo conexión inalámbrica a la red cuando despierto mi equipo</a><span class="desc"> — Algunos dispositivos inalámbricos tienen problemas de manejo cuando envía su equipo a dormir y no despiertan correctamente.</span>
 </li>
 <li class="links ">
-<a href="power-hibernate.html" title="¿Cómo hibernar mi equipo?">¿Cómo hibernar mi equipo?</a><span class="desc"> — La hibernación está desactivada de manera predeterminada porque no tiene soporte adecuado.</span>
+<a href="power-hibernate.html.es" title="¿Cómo hibernar mi equipo?">¿Cómo hibernar mi equipo?</a><span class="desc"> — La hibernación está desactivada de manera predeterminada porque no tiene soporte adecuado.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="¿Por qué se apaga mi equipo cuando cierro la tapa?">¿Por qué se apaga mi equipo cuando cierro la tapa?</a><span class="desc"> — Los portátiles se suspenden cuando se cierra la tapa para ahorrar energía.</span>
+<a href="power-closelid.html.es" title="¿Por qué se apaga mi equipo cuando cierro la tapa?">¿Por qué se apaga mi equipo cuando cierro la tapa?</a><span class="desc"> — Los portátiles se suspenden cuando se cierra la tapa para ahorrar energía.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="¿Qué es un controlador?">¿Qué es un controlador?</a><span class="desc"> — Un controlador de hardware/dispositivo es aquello que permite a su equipo usar dispositivos que están conectados a él.</span>
+<a href="hardware-driver.html.es" title="¿Qué es un controlador?">¿Qué es un controlador?</a><span class="desc"> — Un controlador de hardware/dispositivo es aquello que permite a su equipo usar dispositivos que están conectados a él.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="¿Qué ocurre cuando suspendo el equipo?">¿Qué ocurre cuando suspendo el equipo?</a><span class="desc"> — Suspender pone su equipo a dormir para que use menos energía.</span>
+<a href="power-suspend.html.es" title="¿Qué ocurre cuando suspendo el equipo?">¿Qué ocurre cuando suspendo el equipo?</a><span class="desc"> — Suspender pone su equipo a dormir para que use menos energía.</span>
 </li>
 </ul></div>
 </div></div>

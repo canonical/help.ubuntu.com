@@ -43,27 +43,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html.pt#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Propriedades do ficheiro</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Pode ver informação sobre um ficheiro ou diretório, carregue com o botão direito e selecione <span class="gui">Propriedades</span>. Também pode selecionar o ficheiro e carregar <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Enter</kbd></span></span>.</p>
-<p class="p">A janela de propriedades do ficheiro mostra-lhe informação tal como o tipo de ficheiro, seu tamanhou e quando o modificou por última vez. Se precisa esta informação com frequência, pode mostrar nas <span class="link"><a href="nautilus-list.html" title="Preferências das colunas na lista de ficheiros">colunas da vista de pronta</a></span> ou nas <span class="link"><a href="nautilus-display.html#icon-captions" title="Títulos de ícones">lendas dos ícones</a></span>.</p>
-<p class="p">A informação básica dada na flange <span class="gui">Básico</span> explica-se a continuação. Também estão as flanges <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Estabelecer as permissões do ficheiro">Permissões</a></span></span> e <span class="gui"><span class="link"><a href="files-open.html#default" title="Mudar a aplicação predeterminado">Abrir com</a></span></span>. Para certos tipos de ficheiros, como imagens e vídeos, terá uma flange adicional que proporcione informação sobre o tamanho, a duração e o codec.</p>
+<p class="p">A janela de propriedades do ficheiro mostra-lhe informação tal como o tipo de ficheiro, seu tamanhou e quando o modificou por última vez. Se precisa esta informação com frequência, pode mostrar nas <span class="link"><a href="nautilus-list.html.pt" title="Preferências das colunas na lista de ficheiros">colunas da vista de pronta</a></span> ou nas <span class="link"><a href="nautilus-display.html.pt#icon-captions" title="Títulos de ícones">lendas dos ícones</a></span>.</p>
+<p class="p">A informação básica dada na flange <span class="gui">Básico</span> explica-se a continuação. Também estão as flanges <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.pt" title="Estabelecer as permissões do ficheiro">Permissões</a></span></span> e <span class="gui"><span class="link"><a href="files-open.html.pt#default" title="Mudar a aplicação predeterminado">Abrir com</a></span></span>. Para certos tipos de ficheiros, como imagens e vídeos, terá uma flange adicional que proporcione informação sobre o tamanho, a duração e o codec.</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Propriedades básicas</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Nome</span></dt>
-<dd class="terms"><p class="p">Pode mudar o nome do ficheiro mudando este campo. Também pode mudar o nome dum ficheiro fora da janela de propriedades. Consulte a <span class="link"><a href="files-rename.html" title="Renomear um ficheiro ou uma diretório">Renomear um ficheiro ou uma diretório</a></span>.</p></dd>
+<dd class="terms"><p class="p">Pode mudar o nome do ficheiro mudando este campo. Também pode mudar o nome dum ficheiro fora da janela de propriedades. Consulte a <span class="link"><a href="files-rename.html.pt" title="Renomear um ficheiro ou uma diretório">Renomear um ficheiro ou uma diretório</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Tipo</span></dt>
 <dd class="terms">
 <p class="p">This helps you identify the type of the file, such as PDF document,
     OpenDocument Text, or JPEG image. The file type determines which
     applications can open the file, among other things. For example, you
-    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="Abrir ficheiros com outros aplicações">Abrir ficheiros com outros aplicações</a></span>
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html.pt" title="Abrir ficheiros com outros aplicações">Abrir ficheiros com outros aplicações</a></span>
     for more information on this.</p>
 <p class="p">Entre parêntese mostra-se o <span class="em">tipo MIME</span> do ficheiro; o tipo MIME é uma forma regular que as computadores usam para referir ao tipo de ficheiro.</p>
 </dd>
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="Estabelecer as permissões do ficheiro">Estabelecer as permissões do ficheiro</a><span class="desc"> — Controlar quem pode ver e editar seus ficheiros e diretórios.</span>
+<a href="nautilus-file-properties-permissions.html.pt" title="Estabelecer as permissões do ficheiro">Estabelecer as permissões do ficheiro</a><span class="desc"> — Controlar quem pode ver e editar seus ficheiros e diretórios.</span>
 </li></ul></div>
 </div></div>
 </div>

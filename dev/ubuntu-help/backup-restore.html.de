@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html#backup" title="Datensicherung">Datensicherung</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.de" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html.de#backup" title="Datensicherung">Datensicherung</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Eine Sicherung wiederherstellen</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Falls Sie Dateien verloren oder gelöscht haben, aber über eine Sicherung verfügen, können Sie sie aus der Sicherung wiederherstellen:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Falls Sie die Datensicherung von einem Gerät wie einer externen Festplatte, einem USB-Laufwerk oder einem anderen Rechner im Netzwerk wiederherstellen wollen, können Sie sie einfach auf Ihren Rechner zurück <span class="link"><a href="files-copy.html" title="Dateien und Ordner kopieren oder verschieben">kopieren</a></span>.</p></li>
+<li class="list"><p class="p">Falls Sie die Datensicherung von einem Gerät wie einer externen Festplatte, einem USB-Laufwerk oder einem anderen Rechner im Netzwerk wiederherstellen wollen, können Sie sie einfach auf Ihren Rechner zurück <span class="link"><a href="files-copy.html.de" title="Dateien und Ordner kopieren oder verschieben">kopieren</a></span>.</p></li>
 <li class="list"><p class="p">Wenn Sie eine Datensicherung mit einer speziellen Anwendung wie <span class="app">Déjà Dup</span> erstellt haben, ist es empfehlenswert, die gleiche Anwendung zur Wiederherstellung zu verwenden. Schauen Sie in die Hilfe des Datensicherungsprogramms. Dort werden Sie spezifische Anweisungen finden, wie Sie Ihre Dateien wiederherstellen können.</p></li>
 </ul></div></div></div>
 </div>
@@ -59,7 +59,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Datensicherung">Datensicherung</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.de#backup" title="Datensicherung">Datensicherung</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Kezdeti lépések">Kezdeti lépések GNOME alatt</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.hu" title="Kezdeti lépések">Kezdeti lépések GNOME alatt</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-browse-web.html" title="Világháló böngészése">Előző</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html" title="Dátum, idő és időzóna módosítása">Következő</a>
+<a class="nextlinks-prev" href="gs-browse-web.html.hu" title="Világháló böngészése">Előző</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.hu" title="Dátum, idő és időzóna módosítása">Következő</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Kapcsolódás online fiókokhoz</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Kattintson a <span class="gui"><a href="shell-introduction.html#yourname" title="Ön és a számítógépe">rendszer menüre</a></span> a felső sáv jobb oldalán.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui"><a href="shell-introduction.html.hu#yourname" title="Ön és a számítógépe">rendszer menüre</a></span> a felső sáv jobb oldalán.</p></li>
 <li class="steps"><p class="p">Nyomja meg a Beállítások gombot a menü bal alsó részén.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa2.svg" width="100%" class="media media-block" alt=""></div></div>
@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Számos online fiók lehetővé teszi a használni kívánt szolgáltatások kiválasztását. Ha egy szolgáltatást nem szeretne használni, akkor tiltsa le az ablak jobb oldalán lévő <span class="gui">BE/KI</span> kapcsolóval.</p></li></ol></div></div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-browse-web.html" title="Világháló böngészése">Előző</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html" title="Dátum, idő és időzóna módosítása">Következő</a>
+<a class="nextlinks-prev" href="gs-browse-web.html.hu" title="Világháló böngészése">Előző</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.hu" title="Dátum, idő és időzóna módosítása">Következő</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -82,13 +82,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Kezdeti lépések">Kezdeti lépések GNOME alatt</a><span class="desc"> — Új GNOME felhasználó? Ismerkedjen meg az alapokkal.</span>
+<a href="getting-started.html.hu" title="Kezdeti lépések">Kezdeti lépések GNOME alatt</a><span class="desc"> — Új GNOME felhasználó? Ismerkedjen meg az alapokkal.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Online fiókok">Online fiókok</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Fiók hozzáadása">Online fiók hozzáadása</a></span>, <span class="link"><a href="accounts-remove.html" title="Fiók eltávolítása">Fiók eltávolítása</a></span>, <span class="link"><a href="accounts-which-application.html" title="Online szolgáltatások és alkalmazások">Szolgáltatások megismerése</a></span>…</span>
+<a href="accounts.html.hu" title="Online fiókok">Online fiókok</a><span class="desc"> — <span class="link"><a href="accounts-add.html.hu" title="Fiók hozzáadása">Online fiók hozzáadása</a></span>, <span class="link"><a href="accounts-remove.html.hu" title="Fiók eltávolítása">Fiók eltávolítása</a></span>, <span class="link"><a href="accounts-which-application.html.hu" title="Online szolgáltatások és alkalmazások">Szolgáltatások megismerése</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

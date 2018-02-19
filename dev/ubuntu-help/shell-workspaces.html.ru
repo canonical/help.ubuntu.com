@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html#apps" title="Приложения и окна">Приложения и окна</a> » <a class="trail" href="shell-windows.html" title="Окна и рабочие места">Окна и рабочие места</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Работа с рабочими местами">Рабочие места</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ru" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html.ru#apps" title="Приложения и окна">Приложения и окна</a> » <a class="trail" href="shell-windows.html.ru" title="Окна и рабочие места">Окна и рабочие места</a> › <a class="trail" href="shell-windows.html.ru#working-with-workspaces" title="Работа с рабочими местами">Рабочие места</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Что такое рабочее место, и для чего оно нужно?</span></h1></div>
@@ -55,7 +55,7 @@
 <p class="p">Использование рабочих мест:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the
-    <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview, move your cursor
+    <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview, move your cursor
     to the right-most side of the screen.</p></li>
 <li class="list"><p class="p">A vertical panel will appear showing
     workspaces in use, plus an empty workspace. This is the
@@ -73,16 +73,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Работа с рабочими местами">Работа с рабочими местами</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.ru#working-with-workspaces" title="Работа с рабочими местами">Работа с рабочими местами</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-workspaces-switch.html" title="Переключение между рабочими местами">Переключение между рабочими местами</a><span class="desc"> — Использование переключателя рабочих мест.</span>
+<a href="shell-workspaces-switch.html.ru" title="Переключение между рабочими местами">Переключение между рабочими местами</a><span class="desc"> — Использование переключателя рабочих мест.</span>
 </li>
 <li class="links ">
-<a href="shell-workspaces-movewindow.html" title="Перемещение окна на другое рабочее место">Перемещение окна на другое рабочее место</a><span class="desc"> — Зайдите в режим <span class="gui">Обзора</span> и перетащите окно на другое рабочее место.</span>
+<a href="shell-workspaces-movewindow.html.ru" title="Перемещение окна на другое рабочее место">Перемещение окна на другое рабочее место</a><span class="desc"> — Зайдите в режим <span class="gui">Обзора</span> и перетащите окно на другое рабочее место.</span>
 </li>
 </ul></div>
 </div></div>

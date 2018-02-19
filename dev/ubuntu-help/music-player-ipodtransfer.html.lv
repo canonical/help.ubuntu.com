@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Skaņa, video un bildes">Skaņa, video un bildes</a> › <a class="trail" href="media.html#music" title="Mūzika un pārnēsājamie audio atskaņotāji">Mūzika un atskaņotāji</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.lv" title="Skaņa, video un bildes">Skaņa, video un bildes</a> › <a class="trail" href="media.html.lv#music" title="Mūzika un pārnēsājamie audio atskaņotāji">Mūzika un atskaņotāji</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Dziesmas neparādās manā iPod, kad es tās tur iekopēju</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Pievienojot iPod datoram, tas parādīsies mūzikas atskaņotājā un arī datņu pārvaldniekā (<span class="app">Datnes</span> programma <span class="gui">Aktivitāšu</span> pārskatā). Jums ir jākopē dziesmas iPodā, izmantojot mūzikas atskaņotāju — ja kopēsiet tās izmantojot datņu pārvaldnieku, tās nestrādās, jo dziesmas nebūs novietotas pareizajā vietā. iPodiem ir īpaša vieta dziesmu glabāšanai, un mūzikas atskaņotājs zina, kā tur nokļūt, bet datņu pārvaldnieks to nezina.</p>
-<p class="p">Jums arī vajadzētu pagaidīt, līdz dziesmas iekopējas iPodā, pirms to atvienot. Pirms iPoda atvienošanas, pārliecinieties, ka izvēlaties <span class="link"><a href="files-removedrive.html" title="Droši atvienot ārējo disku">droši to apgūt</a></span>.Tādā veidā droši zināsiet, ka visas dziesmas ir pārkopētas pareizi.</p>
+<p class="p">Jums arī vajadzētu pagaidīt, līdz dziesmas iekopējas iPodā, pirms to atvienot. Pirms iPoda atvienošanas, pārliecinieties, ka izvēlaties <span class="link"><a href="files-removedrive.html.lv" title="Droši atvienot ārējo disku">droši to apgūt</a></span>.Tādā veidā droši zināsiet, ka visas dziesmas ir pārkopētas pareizi.</p>
 <p class="p">Vēl viens iemesls, kāpēc dziesmas, iespējams, neparādās jūsu iPod ir tas, ka mūzikas atskaņotās, kuru izmantojat, neatbalsta dziesmu pārveidošanu no viena audio formāta uz citu. Ja kopējat dziesmu, kuras formātu neatbalsta iPod (piemēram, Ogg Vorbis (.oga) datne), mūzikas atskaņotājs mēģinās pārveidot formātā, kuru saprot iPod, piemēram, MP3. Ja attiecīgā pārveidošanas programma (ko sauc arī par kodeku vai kodētāju) nav uzinstalēta, mūzikas atskaņotājs nevarēs izpildīt pārveidošanu un tādēļ nepārkopēs dziesmu. Meklējiet programmatūras instalētājā piemērotu kodeku.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#music" title="Mūzika un pārnēsājamie audio atskaņotāji">Mūzika un atskaņotāji</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.lv#music" title="Mūzika un pārnēsājamie audio atskaņotāji">Mūzika un atskaņotāji</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

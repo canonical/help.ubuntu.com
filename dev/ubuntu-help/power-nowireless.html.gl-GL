@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comúns">Problemas</a> » <a class="trail" href="power.html#problems" title="Problemas">Problemas de enerxía</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas</a> » <a class="trail" href="power.html.gl-GL#problems" title="Problemas">Problemas de enerxía</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Non teño conexión sen fíos á rede cando desperto o meu computador</span></h1></div>
@@ -51,13 +51,13 @@
 <div class="contents">
 <p class="p">If you have suspended your computer, you may find that your wireless
   internet connection does not work when you resume it again. This happens when
-  the <span class="link"><a href="hardware-driver.html" title="Que é un controlador?">driver</a></span> for the wireless device does
+  the <span class="link"><a href="hardware-driver.html.gl-GL" title="Que é un controlador?">driver</a></span> for the wireless device does
   not fully support certain power saving features.
   Typically, the wireless connection fails to turn on properly when the
   computer is resumed.</p>
 <p class="p">Tente apagar a súa tarxeta sen fíos e volvela a acender</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Wi-Fi</span>.</p></li>
@@ -75,17 +75,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html#problems" title="Problemas">Problemas de enerxía</a><span class="desc"> — Resolución de problemas coa enerxía e baterías.</span>
+<a href="power.html.gl-GL#problems" title="Problemas">Problemas de enerxía</a><span class="desc"> — Resolución de problemas coa enerxía e baterías.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspendfail.html" title="Porque o meu computador non se acende logo de ir suspendelo?">Porque o meu computador non se acende logo de ir suspendelo?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.gl-GL" title="Porque o meu computador non se acende logo de ir suspendelo?">Porque o meu computador non se acende logo de ir suspendelo?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="Que é un controlador?">Que é un controlador?</a><span class="desc"> — Un controlador de hardware/dispositivo é aquilo que permite ao seu equipo usar dispositivos que están conectados a el.</span>
+<a href="hardware-driver.html.gl-GL" title="Que é un controlador?">Que é un controlador?</a><span class="desc"> — Un controlador de hardware/dispositivo é aquilo que permite ao seu equipo usar dispositivos que están conectados a el.</span>
 </li>
 </ul></div>
 </div></div>

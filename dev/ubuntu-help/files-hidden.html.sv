@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#faq" title="Tips och frågor">Tips och frågor</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#faq" title="Tips och frågor">Tips och frågor</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Dölj en fil</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Filhanteraren <span class="app">Filer</span> ger dig möjligheten att dölja och visa filer efter dina önskemål. När en fil är dold syns den inte i filhanteraren men den finns fortfarande i mappen.</p>
-<p class="p">För att dölja en fil <span class="link"><a href="files-rename.html" title="Byt namn på en fil eller mapp">byt namn på den</a></span> med en <span class="file">.</span> i början på dess namn. För att till exempel dölja en fil med namnet <span class="file">example.txt</span> ska du byta namn på den till <span class="file">.example.txt</span>.</p>
+<p class="p">För att dölja en fil <span class="link"><a href="files-rename.html.sv" title="Byt namn på en fil eller mapp">byt namn på den</a></span> med en <span class="file">.</span> i början på dess namn. För att till exempel dölja en fil med namnet <span class="file">example.txt</span> ska du byta namn på den till <span class="file">.example.txt</span>.</p>
 <div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Du kan dölja mappar på samma sätt som du kan dölja filer. Dölj en mapp genom att placera en <span class="file">.</span> i början på mappens namn.</p></div></div></div></div>
 </div>
 <div id="show-hidden" class="sect"><div class="inner">
@@ -65,8 +65,8 @@
 <div class="region"><div class="contents">
 <p class="p">För att göra en fil synlig, gå till mappen som innehåller den dolda filen och klicka på knappen visningsalternativ i verktygsfältet och välj <span class="gui">Visa dolda filer</span>. Leta sedan upp den dolda filen och byt namn på den så att den inte har en <span class="file">.</span> i början på sitt namn. För att till exempel synliggöra en fil med namnet <span class="file">.example.txt</span> ska du byta namn på den till <span class="file">example.txt</span>.</p>
 <p class="p">När du har bytt namn på filen så kan du antingen klicka på knappen för visningsalternativ i verktygsfältet och välja <span class="gui">Visa dolda filer</span> eller trycka på <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> för att åter dölja andra dolda filer.</p>
-<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Som standard ser du bara dolda filer i filhanteraren tills du stänger filhanteraren. För att ändra den inställningen så att filhanteraren alltid visar dolda filer, se <span class="link"><a href="nautilus-views.html" title="Visningsinställningar i Filer">Visningsinställningar i <span class="app">Filer</span></a></span>.</p></div></div></div></div>
-<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">De flesta dolda filer kommer att ha en <span class="file">.</span> i början på sina namn, men andra kan ha en <span class="file">~</span> i slutet på namnet istället. Dessa filer är säkerhetskopierade filer. Se <span class="link"><a href="files-tilde.html" title="Vad är en fil med en ~ i slutet på namnet?">Vad är en fil med en <span class="file">~</span> i slutet på namnet?</a></span> för vidare information.</p></div></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Som standard ser du bara dolda filer i filhanteraren tills du stänger filhanteraren. För att ändra den inställningen så att filhanteraren alltid visar dolda filer, se <span class="link"><a href="nautilus-views.html.sv" title="Visningsinställningar i Filer">Visningsinställningar i <span class="app">Filer</span></a></span>.</p></div></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">De flesta dolda filer kommer att ha en <span class="file">.</span> i början på sina namn, men andra kan ha en <span class="file">~</span> i slutet på namnet istället. Dessa filer är säkerhetskopierade filer. Se <span class="link"><a href="files-tilde.html.sv" title="Vad är en fil med en ~ i slutet på namnet?">Vad är en fil med en <span class="file">~</span> i slutet på namnet?</a></span> för vidare information.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -74,12 +74,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Tips och frågor">Tips och frågor</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sv#faq" title="Tips och frågor">Tips och frågor</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-tilde.html" title="Vad är en fil med en ~ i slutet på namnet?">Vad är en fil med en <span class="file">~</span> i slutet på namnet?</a><span class="desc"> — Detta är säkerhetskopior. De är dolda som standard.</span>
+<a href="files-tilde.html.sv" title="Vad är en fil med en ~ i slutet på namnet?">Vad är en fil med en <span class="file">~</span> i slutet på namnet?</a><span class="desc"> — Detta är säkerhetskopior. De är dolda som standard.</span>
 </li></ul></div>
 </div></div>
 </div>

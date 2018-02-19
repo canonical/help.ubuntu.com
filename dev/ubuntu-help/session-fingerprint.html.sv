@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="hardware-auth.html" title="Fingeravtryck &amp; smartkort">Fingeravtryck &amp; smartkort</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="hardware-auth.html.sv" title="Fingeravtryck &amp; smartkort">Fingeravtryck &amp; smartkort</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Logga in med ett fingeravtryck</span></h1></div>
@@ -54,9 +54,9 @@
 <div class="region"><div class="contents">
 <p class="p">Innan du kan logga in med ditt fingeravtryck måste du spela in det så att systemet kan använda det för att identifiera dig.</p>
 <div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Om ditt finger är allt för torrt, kan du ha problem att registrera ditt fingeravtryck. Om detta händer fukta ditt finger lätt, torka av det med en ren, luddfri trasa och försök igen.</p></div></div></div></div>
-<p class="p">Du behöver <span class="link"><a href="user-admin-explain.html" title="Hur fungerar administratörsbehörighet?">administratörsbehörighet</a></span> för att redigera användarkonton andra än ditt eget.</p>
+<p class="p">Du behöver <span class="link"><a href="user-admin-explain.html.sv" title="Hur fungerar administratörsbehörighet?">administratörsbehörighet</a></span> för att redigera användarkonton andra än ditt eget.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Användare</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Användare</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Användare</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="gui">Inaktiverad</span>, intill <span class="gui">Fingeravtrycksinloggning</span> för att lägga till ett fingeravtryck för det valda kontot. Om du lägger till ett fingeravtryck för en annan användare kommer du först att vara tvungen att klicka på knappen <span class="gui">Lås upp</span> för att låsa upp panelen.</p></li>
 <li class="steps"><p class="p">Välj fingret som du vill använda för fingeravtrycket och klicka sedan på <span class="gui">Nästa</span>.</p></li>
@@ -70,7 +70,7 @@
 <div class="region"><div class="contents">
 <p class="p">Kontrollera nu om din nya fingeravtrycksinloggning fungerar. Om du registrerar ett fingeravtryck kommer du fortfarande att ha alternativet att logga in med lösenord.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Spara allt osparat arbete och <span class="link"><a href="shell-exit.html#logout" title="Logga ut eller växla användare">logga ut</a></span>.</p></li>
+<li class="steps"><p class="p">Spara allt osparat arbete och <span class="link"><a href="shell-exit.html.sv#logout" title="Logga ut eller växla användare">logga ut</a></span>.</p></li>
 <li class="steps"><p class="p">På inloggningsskärmen, välj ditt namn från listan. Formuläret för lösenordsinmatning visas.</p></li>
 <li class="steps"><p class="p">Istället för att skriva in ditt lösenord, bör du kunna svepa ditt finger över fingeravtrycksläsaren.</p></li>
 </ol></div></div></div>
@@ -81,7 +81,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-auth.html" title="Fingeravtryck &amp; smartkort">Fingeravtryck &amp; smartkort</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html" title="Logga in med ett fingeravtryck">Fingeravtrycksläsare</a></span>, smartkort…</span>
+<a href="hardware-auth.html.sv" title="Fingeravtryck &amp; smartkort">Fingeravtryck &amp; smartkort</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html.sv" title="Logga in med ett fingeravtryck">Fingeravtrycksläsare</a></span>, smartkort…</span>
 </li></ul></div>
 </div></div></div>
 </div>

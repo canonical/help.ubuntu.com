@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="prefs-language.html" title="Rexión e idioma">Rexión e idioma</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="prefs-language.html.gl-GL" title="Rexión e idioma">Rexión e idioma</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Cambiar a hora e data</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Pode controlar os formatos que se usan para datas, horas, números, moeda e medidas para que coincidan cos usados na súa rexión.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Formats</span>.</p></li>
@@ -77,13 +77,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Rexión e idioma">Rexión e idioma</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Cambiar o idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html" title="Cambiar a hora e data">rexión e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Usar distribucións de teclado alternativas">distribucións de teclado</a></span>…</span>
+<a href="prefs-language.html.gl-GL" title="Rexión e idioma">Rexión e idioma</a><span class="desc"> — <span class="link"><a href="session-language.html.gl-GL" title="Cambiar o idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html.gl-GL" title="Cambiar a hora e data">rexión e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">distribucións de teclado</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-language.html" title="Cambiar o idioma que usa">Cambiar o idioma que usa</a><span class="desc"> — Cambiar a un idioma diferente a interface de usuario e o texto da axuda.</span>
+<a href="session-language.html.gl-GL" title="Cambiar o idioma que usa">Cambiar o idioma que usa</a><span class="desc"> — Cambiar a un idioma diferente a interface de usuario e o texto da axuda.</span>
 </li></ul></div>
 </div></div>
 </div>

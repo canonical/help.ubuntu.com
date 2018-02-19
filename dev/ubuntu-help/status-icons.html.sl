@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Namizje</a> › <a class="trail" href="shell-overview.html#apps" title="Programi in okna">Programi in okna</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="shell-overview.html.sl" title="Your desktop">Namizje</a> › <a class="trail" href="shell-overview.html.sl#apps" title="Programi in okna">Programi in okna</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kaj pomenijo ikone v vrhnji vrstici?</span></h1></div>
@@ -52,11 +52,11 @@
 <p class="p">This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the GNOME interface are described.</p>
 <div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="Vrhnja vrstica lupine GNOME"></div></div>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="status-icons.html#universalicons" title="Ikone menija splošnega dostopa">Ikone menija splošnega dostopa</a></li>
-<li class="links "><a href="status-icons.html#audioicons" title="Ikone nadzornika glasnosti">Ikone nadzornika glasnosti</a></li>
-<li class="links "><a href="status-icons.html#bluetoothicons" title="Ikone upravljalnika Bluetooth">Ikone upravljalnika Bluetooth</a></li>
-<li class="links "><a href="status-icons.html#networkicons" title="Ikone upravljalnika omrežja">Ikone upravljalnika omrežja</a></li>
-<li class="links "><a href="status-icons.html#batteryicons" title="Ikone upravljalika porabe">Ikone upravljalika porabe</a></li>
+<li class="links "><a href="status-icons.html.sl#universalicons" title="Ikone menija splošnega dostopa">Ikone menija splošnega dostopa</a></li>
+<li class="links "><a href="status-icons.html.sl#audioicons" title="Ikone nadzornika glasnosti">Ikone nadzornika glasnosti</a></li>
+<li class="links "><a href="status-icons.html.sl#bluetoothicons" title="Ikone upravljalnika Bluetooth">Ikone upravljalnika Bluetooth</a></li>
+<li class="links "><a href="status-icons.html.sl#networkicons" title="Ikone upravljalnika omrežja">Ikone upravljalnika omrežja</a></li>
+<li class="links "><a href="status-icons.html.sl#batteryicons" title="Ikone upravljalika porabe">Ikone upravljalika porabe</a></li>
 </ul></div></div></div>
 </div>
 <div id="universalicons" class="sect"><div class="inner">
@@ -306,7 +306,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Programi in okna">Programi in okna</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.sl#apps" title="Programi in okna">Programi in okna</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

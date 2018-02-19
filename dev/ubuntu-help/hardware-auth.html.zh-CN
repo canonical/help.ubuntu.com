@@ -43,19 +43,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">指纹阅读器和智能卡</span></h1></div>
 <div class="region">
-<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="session-fingerprint.html" title="使用指纹识别登录"><span class="title">使用指纹识别登录</span><span class="linkdiv-dash"> — </span><span class="desc">You can log in to your system using a supported fingerprint scanner
+<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="session-fingerprint.html.zh-CN" title="使用指纹识别登录"><span class="title">使用指纹识别登录</span><span class="linkdiv-dash"> — </span><span class="desc">You can log in to your system using a supported fingerprint scanner
     instead of typing in your password.</span></a></div></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="硬件 &amp; 驱动">硬件 &amp; 驱动</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="常见问题">硬件问题</a></span>、<span class="link"><a href="printing.html" title="打印">打印机</a></span>、<span class="link"><a href="power.html" title="电源 &amp; 电池">电源设置</a></span>、<span class="link"><a href="color.html" title="色彩管理">颜色管理</a></span>、<span class="link"><a href="bluetooth.html" title="蓝牙">蓝牙</a></span>、<span class="link"><a href="disk.html" title="磁盘和存储器">磁盘</a></span>…</span>
+<a href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件 &amp; 驱动</a><span class="desc"> — <span class="link"><a href="hardware.html.zh-CN#problems" title="常见问题">硬件问题</a></span>、<span class="link"><a href="printing.html.zh-CN" title="打印">打印机</a></span>、<span class="link"><a href="power.html.zh-CN" title="电源 &amp; 电池">电源设置</a></span>、<span class="link"><a href="color.html.zh-CN" title="色彩管理">颜色管理</a></span>、<span class="link"><a href="bluetooth.html.zh-CN" title="蓝牙">蓝牙</a></span>、<span class="link"><a href="disk.html.zh-CN" title="磁盘和存储器">磁盘</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

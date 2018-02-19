@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hardver és illesztőprogramok</span></h1></div>
@@ -51,66 +51,66 @@
 <div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="keyboard.html" title="Billentyűzet">Billentyűzet</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html" title="Alternatív billentyűzetkiosztások használata">Billentyűzetkiosztások</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="A billentyűzetkurzor villogóvá tétele">kurzor villogása</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mozgássérültség">billentyűzet akadálymentesítése</a></span>…</span></div>
+<div class="links-grid-link"><a href="keyboard.html.hu" title="Billentyűzet">Billentyűzet</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.hu" title="Alternatív billentyűzetkiosztások használata">Billentyűzetkiosztások</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.hu" title="A billentyűzetkurzor villogóvá tétele">kurzor villogása</a></span>, <span class="link"><a href="a11y.html.hu#mobility" title="Mozgássérültség">billentyűzet akadálymentesítése</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html" title="Csatlakoztassa számítógépét Bluetooth eszközökhöz">Kapcsolódás</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Fájlok küldése Bluetooth-eszközre">fájlok küldése</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Bluetooth be- vagy kikapcsolása">be- és kikapcsolás</a></span>…</span></div>
+<div class="links-grid-link"><a href="bluetooth.html.hu" title="Bluetooth">Bluetooth</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html.hu" title="Csatlakoztassa számítógépét Bluetooth eszközökhöz">Kapcsolódás</a></span>, <span class="link"><a href="bluetooth-send-file.html.hu" title="Fájlok küldése Bluetooth-eszközre">fájlok küldése</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.hu" title="Bluetooth be- vagy kikapcsolása">be- és kikapcsolás</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html" title="Egér">Egér</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html" title="Bal kezes egér használata">Balkezes</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Az egér és érintőtábla sebességének módosítása">sebesség és érzékenység</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Kattintás, húzás vagy görgetés az érintőtáblával">kattintás és görgetés az érintőtáblával</a></span>…</span></div>
+<div class="links-grid-link"><a href="mouse.html.hu" title="Egér">Egér</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.hu" title="Bal kezes egér használata">Balkezes</a></span>, <span class="link"><a href="mouse-sensitivity.html.hu" title="Az egér és érintőtábla sebességének módosítása">sebesség és érzékenység</a></span>, <span class="link"><a href="mouse-touchpad-click.html.hu" title="Kattintás, húzás vagy görgetés az érintőtáblával">kattintás és görgetés az érintőtáblával</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="power.html" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="power-status.html" title="Akkumulátorállapot ellenőrzése">Akkumulátor állapot</a></span>, <span class="link"><a href="power-suspend.html" title="Mi történik a számítógép felfüggesztésekor?">felfüggesztés</a></span>, <span class="link"><a href="power-whydim.html" title="Miért halványul el a képernyőm egy idő után?">képernyő elhalványítása</a></span>…</span></div>
+<div class="links-grid-link"><a href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="power-status.html.hu" title="Akkumulátorállapot ellenőrzése">Akkumulátor állapot</a></span>, <span class="link"><a href="power-suspend.html.hu" title="Mi történik a számítógép felfüggesztésekor?">felfüggesztés</a></span>, <span class="link"><a href="power-whydim.html.hu" title="Miért halványul el a képernyőm egy idő után?">képernyő elhalványítása</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="disk.html" title="Lemezek és tárolók">Lemezek és tárolók</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html" title="Szabad lemezhely ellenőrzése">Lemezterület</a></span>, <span class="link"><a href="disk-benchmark.html" title="A merevlemez teljesítményének tesztelése">teljesítmény</a></span>, <span class="link"><a href="disk-check.html" title="Hibák keresése a merevlemezen">problémák</a></span>, <span class="link"><a href="disk-partitions.html" title="Kötetek és partíciók kezelése">kötetek és partíciók</a></span>…</span></div>
+<div class="links-grid-link"><a href="disk.html.hu" title="Lemezek és tárolók">Lemezek és tárolók</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html.hu" title="Szabad lemezhely ellenőrzése">Lemezterület</a></span>, <span class="link"><a href="disk-benchmark.html.hu" title="A merevlemez teljesítményének tesztelése">teljesítmény</a></span>, <span class="link"><a href="disk-check.html.hu" title="Hibák keresése a merevlemezen">problémák</a></span>, <span class="link"><a href="disk-partitions.html.hu" title="Kötetek és partíciók kezelése">kötetek és partíciók</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="printing.html" title="Nyomtatás">Nyomtatás</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html" title="Helyi nyomtató beállítása">Helyi beállítás</a></span>, <span class="link"><a href="printing-order.html" title="Oldalak nyomtatása eltérő sorrendben">sorrend és leválogatás</a></span>, <span class="link"><a href="printing-2sided.html" title="Kétoldalas és oldalanként több lapos elrendezések">kétoldalas és többoldalas</a></span>…</span></div>
+<div class="links-grid-link"><a href="printing.html.hu" title="Nyomtatás">Nyomtatás</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html.hu" title="Helyi nyomtató beállítása">Helyi beállítás</a></span>, <span class="link"><a href="printing-order.html.hu" title="Oldalak nyomtatása eltérő sorrendben">sorrend és leválogatás</a></span>, <span class="link"><a href="printing-2sided.html.hu" title="Kétoldalas és oldalanként több lapos elrendezések">kétoldalas és többoldalas</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html" title="Színkezelés">Színkezelés</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Miért fontos a színkezelés?">Ez miért fontos</a></span>, <span class="link"><a href="color.html#profiles" title="Színprofilok">Színprofilok</a></span>, <span class="link"><a href="color.html#calibration" title="Kalibráció">Hogyan kalibrálhatok egy eszközt</a></span>…</span></div>
+<div class="links-grid-link"><a href="color.html.hu" title="Színkezelés">Színkezelés</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.hu" title="Miért fontos a színkezelés?">Ez miért fontos</a></span>, <span class="link"><a href="color.html.hu#profiles" title="Színprofilok">Színprofilok</a></span>, <span class="link"><a href="color.html.hu#calibration" title="Kalibráció">Hogyan kalibrálhatok egy eszközt</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware-auth.html" title="Ujjlenyomatok és intelligens kártyák">Ujjlenyomatok és intelligens kártyák</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-fingerprint.html" title="Bejelentkezés ujjlenyomattal">Ujjlenyomat-olvasók</a></span>, intelligens kártyák…</span></div>
+<div class="links-grid-link"><a href="hardware-auth.html.hu" title="Ujjlenyomatok és intelligens kártyák">Ujjlenyomatok és intelligens kártyák</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-fingerprint.html.hu" title="Bejelentkezés ujjlenyomattal">Ujjlenyomat-olvasók</a></span>, intelligens kártyák…</span></div>
 </div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">További témák</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="Mi az az illesztőprogram?">Mi az az illesztőprogram?</a><span class="desc"> — A hardver- vagy eszköz-illesztőprogram lehetővé teszi a számítógépnek a csatlakoztatott eszközök használatát.</span>
+<a href="hardware-driver.html.hu" title="Mi az az illesztőprogram?">Mi az az illesztőprogram?</a><span class="desc"> — A hardver- vagy eszköz-illesztőprogram lehetővé teszi a számítógépnek a csatlakoztatott eszközök használatát.</span>
 </li></ul></div>
 </div></div>
 </div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Gyakori problémák</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="bluetooth.html#problems" title="Problémák">Bluetooth problémák</a></li>
+<li class="links "><a href="bluetooth.html.hu#problems" title="Problémák">Bluetooth problémák</a></li>
 <li class="links ">
-<a href="power.html#problems" title="Problémák">Energiagazdálkodási problémák</a><span class="desc"> — Energiagazdálkodással és akkumulátorokkal kapcsolatos problémák elhárítása.</span>
+<a href="power.html.hu#problems" title="Problémák">Energiagazdálkodási problémák</a><span class="desc"> — Energiagazdálkodással és akkumulátorokkal kapcsolatos problémák elhárítása.</span>
 </li>
 <li class="links ">
-<a href="sound-broken.html" title="Hangproblémák">Hangproblémák</a><span class="desc"> — Hibaelhárítás, például nincs hang vagy rossz minőségű.</span>
+<a href="sound-broken.html.hu" title="Hangproblémák">Hangproblémák</a><span class="desc"> — Hibaelhárítás, például nincs hang vagy rossz minőségű.</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Képernyőproblémák">Képernyőproblémák</a><span class="desc"> — Képernyő- és grafikai hibák elhárítása.</span>
+<a href="hardware-problems-graphics.html.hu" title="Képernyőproblémák">Képernyőproblémák</a><span class="desc"> — Képernyő- és grafikai hibák elhárítása.</span>
 </li>
 <li class="links ">
-<a href="hardware-cardreader.html" title="Médiakártya-olvasó problémái">Médiakártya-olvasó problémái</a><span class="desc"> — Médiakártyák hibáinak elhárítása</span>
+<a href="hardware-cardreader.html.hu" title="Médiakártya-olvasó problémái">Médiakártya-olvasó problémái</a><span class="desc"> — Médiakártyák hibáinak elhárítása</span>
 </li>
 <li class="links ">
-<a href="printing.html#problems" title="Nyomtatóproblémák">Nyomtatóproblémák</a><span class="desc"> — Azonosítatlan nyomtatók, papírelakadás, rosszul kinéző nyomatok…</span>
+<a href="printing.html.hu#problems" title="Nyomtatóproblémák">Nyomtatóproblémák</a><span class="desc"> — Azonosítatlan nyomtatók, papírelakadás, rosszul kinéző nyomatok…</span>
 </li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a><span class="desc"> — Vezeték nélküli kapcsolatok problémáinak azonosítása és megoldása.</span>
+<a href="net-wireless-troubleshooting.html.hu" title="Vezeték nélküli hálózatok hibáinak elhárítása">Vezeték nélküli hálózatok hibáinak elhárítása</a><span class="desc"> — Vezeték nélküli kapcsolatok problémáinak azonosítása és megoldása.</span>
 </li>
 </ul></div></div></div></div></div>
 </div></div>
@@ -118,7 +118,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu felhasználói kézikönyv">Ubuntu felhasználói kézikönyv</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.hu" title="Ubuntu felhasználói kézikönyv">Ubuntu felhasználói kézikönyv</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

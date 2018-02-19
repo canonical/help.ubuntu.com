@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Wanneer de computer in de <span class="em">Slaapstand</span> wordt gezet, zullen al uw toepassingen en documenten opgeslagen worden en zal uw computer geheel uitgeschakeld worden, zodat deze geen stroom gebruikt. De toepassingen en documenten zullen wel geopend zijn nadat u de computer weer heeft ingeschakeld.</p>
-<p class="p">Helaas, de slaapstand <span class="link"><a href="power-suspendfail.html" title="Why does my computer not turn back on after I suspended it?">werkt niet</a></span> in veel gevallen, hetgeen kan leiden tot gegevensverlies als u verwacht dat uw documenten en toepassingen weer zullen openen wanneer u uw computer weer aanzet. Daarom is de slaapstand standaard uitgeschakeld.</p>
+<p class="p">Helaas, de slaapstand <span class="link"><a href="power-suspendfail.html.nl" title="Why does my computer not turn back on after I suspended it?">werkt niet</a></span> in veel gevallen, hetgeen kan leiden tot gegevensverlies als u verwacht dat uw documenten en toepassingen weer zullen openen wanneer u uw computer weer aanzet. Daarom is de slaapstand standaard uitgeschakeld.</p>
 </div>
 <div id="test-hibernate" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Testen of de slaapstand werkt</span></h2></div>
@@ -65,7 +65,7 @@
 </div></div>
 <p class="p">U kunt de opdrachtregel gebruiken om te kijken of de slaapstand werkt op uw computer.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open een <span class="app">Terminalvenster</span> door te drukken op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> of door naar <span class="input">terminal</span> te zoeken in de <span class="gui">Snelzoeker</span>.</p></li>
+<li class="steps"><p class="p">Open een <span class="app">Terminalvenster</span> door naar <span class="input">terminal</span> te zoeken  in het <span class="gui">Activiteitenoverzicht</span>.</p></li>
 <li class="steps">
 <p class="p">Open een terminalvenster, typ <span class="cmd">sudo systemctl hibernate</span> in en druk daarna op <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Voer uw wachtwoord in wanneer daar naar gevraagd wordt.</p>
@@ -104,13 +104,13 @@ ResultActive=yes</pre></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Voeding &amp; accu">Voeding &amp; accu</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Controleer de accustatus">Accustatus</a></span>, <span class="link"><a href="power-suspend.html" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">pauzestand</a></span>, <span class="link"><a href="power-whydim.html" title="Waarom wordt mijn scherm na enige tijd zwart?">scherm dimmen</a></span>…</span>
+<a href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a><span class="desc"> — <span class="link"><a href="power-status.html.nl" title="Controleer de accustatus">Accustatus</a></span>, <span class="link"><a href="power-suspend.html.nl" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">pauzestand</a></span>, <span class="link"><a href="power-whydim.html.nl" title="Waarom wordt mijn scherm na enige tijd zwart?">scherm dimmen</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-suspendfail.html" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.nl" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li></ul></div>
 </div></div>
 </div>

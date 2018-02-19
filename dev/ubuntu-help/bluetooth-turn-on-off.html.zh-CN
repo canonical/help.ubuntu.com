@@ -43,28 +43,42 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="bluetooth.html" title="蓝牙">蓝牙</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="bluetooth.html.zh-CN" title="蓝牙">蓝牙</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">开启或关闭蓝牙</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can turn Bluetooth on to connect to other Bluetooth devices, or turn
-    it off to conserve power. To turn Bluetooth on, click the Bluetooth icon in
-    the menu bar and switch <span class="gui">Bluetooth</span> to <span class="gui">ON</span>.</p>
-<p class="p">很多笔记本电脑都有一个硬件开关或组合键来开启和关闭蓝牙。如果蓝牙硬件已关闭，在菜单栏上将看不到蓝牙图标。寻找您计算机上的开关或键盘上的键。键盘键通常可在 <span class="key"><kbd class="key-Fn">Fn</kbd></span> 键的帮助下访问。</p>
-<p class="p">To turn Bluetooth off, click the Bluetooth icon and switch
-    <span class="gui">Bluetooth</span> to <span class="gui">OFF</span>.</p>
-<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents"><p class="p">Your computer is <span class="link"><a href="bluetooth-visibility.html" title="什么是蓝牙可见性？">visible</a></span>
-    if <span class="gui">Visible</span> is switched to <span class="gui">ON</span> in the Bluetooth
-    menu.</p></div></div></div></div>
+  it off to conserve power. To turn Bluetooth on:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
+      start typing <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Set the switch at the top to <span class="gui">ON</span>.</p></li>
+</ol></div></div></div>
+<p class="p">Many laptop computers have a hardware switch or key combination to turn
+  Bluetooth on and off. Look for a switch on your computer or a key on your
+  keyboard. The keyboard key is often accessed with the help of the
+  <span class="key"><kbd class="key-Fn">Fn</kbd></span> key.</p>
+<p class="p">To turn Bluetooth off:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#yourname" title="您和您的计算机">system menu</a></span> from the
+      right side of the top bar.</p></li>
+<li class="steps"><p class="p">Select
+      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span>
+      Not In Use</span>. The Bluetooth section of the menu will expand.</p></li>
+<li class="steps"><p class="p">Select <span class="gui">Turn Off</span>.</p></li>
+</ol></div></div></div>
+<div class="note" title="备注"><div class="inner"><div class="region"><div class="contents"><p class="p">Your computer is <span class="link"><a href="bluetooth-visibility.html.zh-CN" title="什么是蓝牙可见性？">visible</a></span> as
+  long as the <span class="gui">Bluetooth</span> panel is open.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="蓝牙">蓝牙</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="将您的计算机连接至一蓝牙设备">连接</a></span>、<span class="link"><a href="bluetooth-send-file.html" title="Send files to a Bluetooth device">发送文件</a></span>、<span class="link"><a href="bluetooth-turn-on-off.html" title="开启或关闭蓝牙">开启或关闭</a></span>…</span>
+<a href="bluetooth.html.zh-CN" title="蓝牙">蓝牙</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.zh-CN" title="将您的计算机连接至一蓝牙设备">连接</a></span>、<span class="link"><a href="bluetooth-send-file.html.zh-CN" title="Send files to a Bluetooth device">发送文件</a></span>、<span class="link"><a href="bluetooth-turn-on-off.html.zh-CN" title="开启或关闭蓝牙">开启或关闭</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="File, cartelle e ricerche">File</a> › <a class="trail" href="files.html#removable" title="Unità rimovibili e dischi esterni">Unità rimovibili e dischi esterni</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.it" title="File, cartelle e ricerche">File</a> › <a class="trail" href="files.html.it#removable" title="Unità rimovibili e dischi esterni">Unità rimovibili e dischi esterni</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Rimuovere in sicurezza un dispositivo esterno</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Per espellere un dispositivo rimovibile:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">From the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview,
+<li class="steps"><p class="p">From the <span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> overview,
       open <span class="app">Files</span>.</p></li>
 <li class="steps">
 <p class="p">Individuare il dispositivo nel riquadro laterale. Dovrebbe presentare una piccola icona di espulsione vicino al nome. Fare clic sull'icona di espulsione per rimuovere in sicurezza o espellere il dispositivo.</p>
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#removable" title="Unità rimovibili e dischi esterni">Unità rimovibili e dischi esterni</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.it#removable" title="Unità rimovibili e dischi esterni">Unità rimovibili e dischi esterni</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

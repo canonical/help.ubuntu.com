@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="accounts.html" title="Сетевые учётные записи">Сетевые учётные записи</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="accounts.html.ru" title="Сетевые учётные записи">Сетевые учётные записи</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Online services and applications</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Once you have added an online account, any application can use that
   account for any of the available services that you have not
-  <span class="link"><a href="accounts-disable-service.html" title="К каким сетевым сервисам разрешён доступ с помощью учётной записи.">disabled</a></span>. Different
+  <span class="link"><a href="accounts-disable-service.html.ru" title="К каким сетевым сервисам разрешён доступ с помощью учётной записи.">disabled</a></span>. Different
   providers provide different services. This page lists the different
   services and some of the applications that are known to use them.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
@@ -73,7 +73,7 @@
       <span class="app">Documents</span> application.</p></dd>
 <dt class="terms">Файлы</dt>
 <dd class="terms"><p class="p">The Files service adds a remote file location, as if you had added
-      one using the <span class="link"><a href="nautilus-connect.html" title="Обзор файлов на сервере или сетевом ресурсе">Connect to Server</a></span>
+      one using the <span class="link"><a href="nautilus-connect.html.ru" title="Обзор файлов на сервере или сетевом ресурсе">Connect to Server</a></span>
       functionality in the file manager. You can access remote files using
       the file manager, as well as through file open and save dialogs in any
       application.</p></dd>
@@ -101,17 +101,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Сетевые учётные записи">Сетевые учётные записи</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="Добавление учётной записи">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="Удаление учётной записи">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.ru" title="Сетевые учётные записи">Сетевые учётные записи</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.ru" title="Добавление учётной записи">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.ru" title="Удаление учётной записи">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.ru" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="К каким сетевым сервисам разрешён доступ с помощью учётной записи.">К каким сетевым сервисам разрешён доступ с помощью учётной записи.</a><span class="desc"> — Некоторые сетевые учётные записи можно использовать для доступа к нескольким службам (например, календарь и почта). Можно выбрать, какие из этих служб будут использоваться приложениями.</span>
+<a href="accounts-disable-service.html.ru" title="К каким сетевым сервисам разрешён доступ с помощью учётной записи.">К каким сетевым сервисам разрешён доступ с помощью учётной записи.</a><span class="desc"> — Некоторые сетевые учётные записи можно использовать для доступа к нескольким службам (например, календарь и почта). Можно выбрать, какие из этих служб будут использоваться приложениями.</span>
 </li></ul></div>
 </div></div>
 </div>

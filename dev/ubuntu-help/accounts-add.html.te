@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="accounts.html" title="ఆన్‌లైన్ ఖాతాలు">ఆన్‌లైన్ ఖాతాలు</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.te" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="accounts.html.te" title="ఆన్‌లైన్ ఖాతాలు">ఆన్‌లైన్ ఖాతాలు</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ఒక ఖాతాను జతచేయి</span></h1></div>
@@ -53,7 +53,7 @@
   desktop. Thus, your email program, chat program and other related
   applications will be set up for you.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.te#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
       start typing <span class="gui">Online Accounts</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Online Accounts</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">+</span> button in the lower-left corner of the
@@ -67,15 +67,15 @@
       to allow GNOME access to your online account. Authorize access to
       continue.</p></li>
 <li class="steps"><p class="p">All services that are offered by an account provider will be enabled
-      by default. <span class="link"><a href="accounts-disable-service.html" title="ఒక ఖాతా ఏ ఆన్‌లైన్ సేవలను ఏక్సెస్ చేయాలో నియంత్రించుము">Switch</a></span>
+      by default. <span class="link"><a href="accounts-disable-service.html.te" title="ఒక ఖాతా ఏ ఆన్‌లైన్ సేవలను ఏక్సెస్ చేయాలో నియంత్రించుము">Switch</a></span>
       individual services to <span class="gui">OFF</span> to disable them.</p></li>
 </ol></div></div></div>
 <p class="p">After you have added accounts, applications can use those accounts for
-  the services you have chosen to allow. See <span class="link"><a href="accounts-disable-service.html" title="ఒక ఖాతా ఏ ఆన్‌లైన్ సేవలను ఏక్సెస్ చేయాలో నియంత్రించుము">ఒక ఖాతా ఏ ఆన్‌లైన్ సేవలను ఏక్సెస్ చేయాలో నియంత్రించుము</a></span>
+  the services you have chosen to allow. See <span class="link"><a href="accounts-disable-service.html.te" title="ఒక ఖాతా ఏ ఆన్‌లైన్ సేవలను ఏక్సెస్ చేయాలో నియంత్రించుము">ఒక ఖాతా ఏ ఆన్‌లైన్ సేవలను ఏక్సెస్ చేయాలో నియంత్రించుము</a></span>
   for information on controlling which services to allow.</p>
 <div class="note note-tip" title="చిట్కా"><div class="inner"><div class="region"><div class="contents"><p class="p">Many online services provide an authorization token which GNOME stores
     instead of your password. If you remove an account, you should also revoke
-    that certificate in the online service. See <span class="link"><a href="accounts-remove.html" title="ఒక ఖాతాను తీసివేయి">ఒక ఖాతాను తీసివేయి</a></span>
+    that certificate in the online service. See <span class="link"><a href="accounts-remove.html.te" title="ఒక ఖాతాను తీసివేయి">ఒక ఖాతాను తీసివేయి</a></span>
     for more information.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -83,10 +83,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="ఆన్‌లైన్ ఖాతాలు">ఆన్‌లైన్ ఖాతాలు</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html" title="ఒక ఖాతాను జతచేయి">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html" title="ఒక ఖాతాను తీసివేయి">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html" title="Online services and applications">Learn about services</a></span>…
+<a href="accounts.html.te" title="ఆన్‌లైన్ ఖాతాలు">ఆన్‌లైన్ ఖాతాలు</a><span class="desc"> — 
+      <span class="link"><a href="accounts-add.html.te" title="ఒక ఖాతాను జతచేయి">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.te" title="ఒక ఖాతాను తీసివేయి">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.te" title="Online services and applications">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

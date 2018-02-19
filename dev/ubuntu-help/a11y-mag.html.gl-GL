@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="a11y.html" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html#vision" title="Deficiencias visuais">Deficiencias visuais</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="a11y.html.gl-GL" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html.gl-GL#vision" title="Deficiencias visuais">Deficiencias visuais</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ampliar o área da pantalla</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Magnificar a pantalla non é simplemente aumentar o <span class="link"><a href="a11y-font-size.html" title="Cambiar o tamaño do texto de pantalla">tamaño do texto</a></span>. Esta característica é como ter unha lupa que pode mover aumentando partes da pantalla.</p>
+<p class="p">Magnificar a pantalla non é simplemente aumentar o <span class="link"><a href="a11y-font-size.html.gl-GL" title="Cambiar o tamaño do texto de pantalla">tamaño do texto</a></span>. Esta característica é como ter unha lupa que pode mover aumentando partes da pantalla.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
 <li class="steps"><p class="p">Prema sobre <span class="gui">Acceso universal</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Prema sobre <span class="gui">Ampliar</span> na sección <span class="gui">Vista</span>.</p></li>
 <li class="steps"><p class="p">Troque <span class="gui">Ampliar</span> a <span class="gui">I</span> na esquina superior dereita da xnela <span class="gui">Opcións de ampliación</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Pode moverse na área da pantalla. Movendo o rato polos bordos da pantalla, pode mover a área magnificada en diferentes direccións, permitíndolle ver a área da súa elección.</p>
-<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Pode activar a ampliación de forma rápida premendo na <span class="link"><a href="a11y-icon.html" title="Atopar o menú de acceso universal">icona de accesibilidade</a></span> desde a barra superior e seleccionando <span class="gui">Ampliación</span></p></div></div></div></div>
+<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Pode activar a ampliación de forma rápida premendo na <span class="link"><a href="a11y-icon.html.gl-GL" title="Atopar o menú de acceso universal">icona de accesibilidade</a></span> desde a barra superior e seleccionando <span class="gui">Ampliación</span></p></div></div></div></div>
 <p class="p">Pode cambiar o factor de magnificación, o seguemento do rato e a posición a vista magnificada na pantalla. Pode axustalos na lapela <span class="gui">Magnificador</span> da xanela <span class="gui">Opcións de ampliación</span>.</p>
 <p class="p">Para activar o punto de mira para axudarlle a atopar o rato ou punteiro da área táctil. Pode axustar a súa largura, cor e grosor desde a lapela <span class="gui">Punto de mira</span> da xanela de preferencias de <span class="gui">Ampliación</span>.</p>
 <p class="p">Pode trocar a vídeo invertido ou <span class="gui">Branco sobre negro</span>, e axustar as opcións de brillo, contraste e escala de grises do magnificador. A combinación destas opcións é útil para as persoas con visión reducida, calquera grao de fotofobia, ou simplemente para usar o seu computador baixo condicións adversas de iluminación. Pode activar e cambiar estas opcións desde a lapela <span class="gui">Efectos de cor</span> da xanela de preferencias de <span class="gui">Ampliación</span>.</p>
@@ -66,7 +66,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Deficiencias visuais">Deficiencias visuais</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.gl-GL#vision" title="Deficiencias visuais">Deficiencias visuais</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

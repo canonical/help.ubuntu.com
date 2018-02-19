@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="tips.html" title="Trucos y consejos">Trucos y consejos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="tips.html.es" title="Trucos y consejos">Trucos y consejos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Determinar qué versión de GNOME se está ejecutando.</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Puede conocer la versión de GNOME que se está ejecutando en su sistema yendo al panel <span class="gui">Detalles</span> en la <span class="gui">Configuración</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Detalles</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Detalles</span>.</p></li>
 <li class="steps">
 <p class="p">Pulse en <span class="gui">Detalles</span> para abrir el panel.</p>
 <p class="p">Aparece una ventana que muestra información sobre su sistema, incluyendo el nombre de la distribución y la versión de GNOME.</p>
@@ -63,7 +63,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Trucos y consejos">Trucos y consejos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Insertar caracteres especiales">Caracteres especiales</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Pulsación central">atajos del botón del medio</a></span>…</span>
+<a href="tips.html.es" title="Trucos y consejos">Trucos y consejos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.es" title="Insertar caracteres especiales">Caracteres especiales</a></span>, <span class="link"><a href="mouse-middleclick.html.es" title="Pulsación central">atajos del botón del medio</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="privacy.html" title="Configurações de privacidade">Configurações de privacidade</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="privacy.html.pt-BR" title="Configurações de privacidade">Configurações de privacidade</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Desligar rastreamento de histórico de arquivos</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Privacidade</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Privacidade</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Privacidade</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione <span class="gui">Uso &amp; histórico</span>.</p></li>
 <li class="steps">
@@ -71,7 +71,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Restringir a quantidade de tempo que seu histórico de arquivos é rastreado</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Privacidade</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Privacidade</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Privacidade</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione <span class="gui">Uso &amp; histórico</span>.</p></li>
 <li class="steps"><p class="p">Certifique-se de que <span class="gui">Usados recentemente</span> está em <span class="key"><kbd>❙</kbd></span>.</p></li>
@@ -86,9 +86,9 @@
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy.html" title="Configurações de privacidade">Configurações de privacidade</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Bloqueando automaticamente sua tela">Tela de bloqueio</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Desligando ou limitando rastreamento de histórico de arquivos">Histórico de uso</a></span>, <span class="link"><a href="privacy-purge.html" title="Excluindo permanentemente arquivos da lixeira e temporários">Excluir permanentemente arquivos da lixeira &amp; temporários</a></span>…</span>
+<a href="privacy.html.pt-BR" title="Configurações de privacidade">Configurações de privacidade</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.pt-BR" title="Bloqueando automaticamente sua tela">Tela de bloqueio</a></span>, <span class="link"><a href="privacy-history-recent-off.html.pt-BR" title="Desligando ou limitando rastreamento de histórico de arquivos">Histórico de uso</a></span>, <span class="link"><a href="privacy-purge.html.pt-BR" title="Excluindo permanentemente arquivos da lixeira e temporários">Excluir permanentemente arquivos da lixeira &amp; temporários</a></span>…</span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a></li>
+<li class="links "><a href="files.html.pt-BR#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a></li>
 </ul></div>
 </div></div></div>
 </div>

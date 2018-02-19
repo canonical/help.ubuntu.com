@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="bluetooth.html.cs" title="Bluetooth">Bluetooth</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-sharing.html" title="Nastavení sdílení">Nastavení sdílení</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-sharing.html.cs" title="Nastavení sdílení">Nastavení sdílení</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="sharing.html" title="Sdílení">Sdílení</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="sharing.html.cs" title="Sdílení">Sdílení</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -59,13 +59,13 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Povolení sdílení souborů do složky <span class="file">Stažené</span></span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Bluetooth</span> otevřete příslušný panel.</p></li>
-<li class="steps"><p class="p">Ujistěte se, že je <span class="link"><a href="bluetooth-turn-on-off.html" title="Zapnutí nebo vypnutí Bluetooth"><span class="gui">Bluetooth</span> zapnuté</a></span>.</p></li>
+<li class="steps"><p class="p">Ujistěte se, že je <span class="link"><a href="bluetooth-turn-on-off.html.cs" title="Zapnutí nebo vypnutí Bluetooth"><span class="gui">Bluetooth</span> zapnuté</a></span>.</p></li>
 <li class="steps"><p class="p">Zařízení se zapnutým Bluetooth mohou posílat soubory do vaší složky <span class="file">Stažené</span>, jen když je panel <span class="gui">Bluetooth</span> otevřený.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Název svého počítače, který se ukazuje jiným zařízením, můžete <span class="link"><a href="sharing-displayname.html" title="Nastavení zobrazovaného názvu pro váš počítač">změnit</a></span>.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Název svého počítače, který se ukazuje jiným zařízením, můžete <span class="link"><a href="sharing-displayname.html.cs" title="Nastavení zobrazovaného názvu pro váš počítač">změnit</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -74,20 +74,20 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Připojení počítače k zařízení Bluetooth">Připojení</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Posílání souborů do zařízení Bluetooth">posílání souborů</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Zapnutí nebo vypnutí Bluetooth">zapnutí a vypnutí</a></span>…</span>
+<a href="bluetooth.html.cs" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.cs" title="Připojení počítače k zařízení Bluetooth">Připojení</a></span>, <span class="link"><a href="bluetooth-send-file.html.cs" title="Posílání souborů do zařízení Bluetooth">posílání souborů</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.cs" title="Zapnutí nebo vypnutí Bluetooth">zapnutí a vypnutí</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html" title="Nastavení sdílení">Nastavení sdílení</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Ovládání sdílení po Bluetooth">Sdílení po Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html" title="Sdílení vašich osobních souborů">sdílení osobních souborů</a></span>, <span class="link"><a href="sharing-desktop.html" title="Sdílení vaší plochy">sdílení obrazovky</a></span>, <span class="link"><a href="sharing-media.html" title="Sdílení vaší hudby, fotografií a videí">sdílení médií</a></span>…</span>
+<a href="prefs-sharing.html.cs" title="Nastavení sdílení">Nastavení sdílení</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.cs" title="Ovládání sdílení po Bluetooth">Sdílení po Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.cs" title="Sdílení vašich osobních souborů">sdílení osobních souborů</a></span>, <span class="link"><a href="sharing-desktop.html.cs" title="Sdílení vaší plochy">sdílení obrazovky</a></span>, <span class="link"><a href="sharing-media.html.cs" title="Sdílení vaší hudby, fotografií a videí">sdílení médií</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Sdílení">Sdílení</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Sdílení vaší plochy">Sdílení pracovní plochy</a></span>, <span class="link"><a href="files-share.html" title="Sdílení souborů přes e-mail">sdílení souborů přes e-mail</a></span>, <span class="link"><a href="sharing-media.html" title="Sdílení vaší hudby, fotografií a videí">sdílení multimédií</a></span>…</span>
+<a href="sharing.html.cs" title="Sdílení">Sdílení</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.cs" title="Sdílení vaší plochy">Sdílení pracovní plochy</a></span>, <span class="link"><a href="files-share.html.cs" title="Sdílení souborů přes e-mail">sdílení souborů přes e-mail</a></span>, <span class="link"><a href="sharing-media.html.cs" title="Sdílení vaší hudby, fotografií a videí">sdílení multimédií</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth-connect-device.html" title="Připojení počítače k zařízení Bluetooth">Připojení počítače k zařízení Bluetooth</a><span class="desc"> — Jak spárovat zařízení Bluetooth.</span>
+<a href="bluetooth-connect-device.html.cs" title="Připojení počítače k zařízení Bluetooth">Připojení počítače k zařízení Bluetooth</a><span class="desc"> — Jak spárovat zařízení Bluetooth.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="mouse.html" title="Souris">Souris</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="mouse.html.fr" title="Souris">Souris</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="mouse.html" title="Souris">Souris</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="mouse.html.fr" title="Souris">Souris</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Vous pouvez inverser le comportement des boutons gauche et droit de la souris ou du pavé tactile pour une utilisation plus agréable par des gauchers.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Souris &amp; pavé tactile</span>.</p></li>
 <li class="steps"><p class="p">À la rubrique <span class="gui">Général</span>, choisissez <span class="gui">Droit</span> comme <span class="gui">Bouton principal</span>.</p></li>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html" title="Souris">Souris</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Utilisation de la souris avec la main gauche">Utilisation pour gauchers</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Adapter la rapidité de la souris et du pavé tactile">vitesse et sensibilité</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Clic, glissement et défilement avec le pavé tactile">clic et défilement avec le pavé tactile</a></span>…</span>
+<a href="mouse.html.fr" title="Souris">Souris</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.fr" title="Utilisation de la souris avec la main gauche">Utilisation pour gauchers</a></span>, <span class="link"><a href="mouse-sensitivity.html.fr" title="Adapter la rapidité de la souris et du pavé tactile">vitesse et sensibilité</a></span>, <span class="link"><a href="mouse-touchpad-click.html.fr" title="Clic, glissement et défilement avec le pavé tactile">clic et défilement avec le pavé tactile</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

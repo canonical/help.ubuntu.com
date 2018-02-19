@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="privacy.html" title="Configuração de privacidade">Configuração de privacidade</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="privacy.html.pt" title="Configuração de privacidade">Configuração de privacidade</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bloquear automaticamente seu ecrã</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">When you leave your computer, you should
-  <span class="link"><a href="shell-exit.html#lock-screen" title="Bloquear o ecrã">lock the screen</a></span> to prevent
+  <span class="link"><a href="shell-exit.html.pt#lock-screen" title="Bloquear o ecrã">lock the screen</a></span> to prevent
   other people from using your desktop and accessing your files. If you
   sometimes forget to lock your screen, you may wish to have your computer’s
   screen lock automatically after a set period of time. This will help to
@@ -59,7 +59,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Para configurar o tempo que demora seu ecrã em se bloquear automaticamente:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> comece a escrever <span class="gui">Privacidade</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> comece a escrever <span class="gui">Privacidade</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Privacidade</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione <span class="gui">Ecrã de bloqueio</span>.</p></li>
 <li class="steps"><p class="p">Assegure-se de que o <span class="gui">Bloqueio automático do ecrã</span> está <span class="gui">ativado</span> e selecione o tempo na lista desdobrável.</p></li>
@@ -78,15 +78,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html" title="Configuração de privacidade">Configuração de privacidade</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Bloquear automaticamente seu ecrã">Ecrã de bloqueio</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Desativar ou limitar o registro do histórico">Historico de uso</a></span>, <span class="link"><a href="privacy-purge.html" title="Limpar a caixote do lixo e os ficheiros temporários">Esvaziar caixote do lixo e ficheiros temporários</a></span>…</span>
+<a href="privacy.html.pt" title="Configuração de privacidade">Configuração de privacidade</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.pt" title="Bloquear automaticamente seu ecrã">Ecrã de bloqueio</a></span>, <span class="link"><a href="privacy-history-recent-off.html.pt" title="Desativar ou limitar o registro do histórico">Historico de uso</a></span>, <span class="link"><a href="privacy-purge.html.pt" title="Limpar a caixote do lixo e os ficheiros temporários">Esvaziar caixote do lixo e ficheiros temporários</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Bloquear o ecrã">Bloquear o ecrã</a></li>
+<li class="links "><a href="shell-exit.html.pt#lock-screen" title="Bloquear o ecrã">Bloquear o ecrã</a></li>
 <li class="links ">
-<a href="session-screenlocks.html" title="O ecrã bloqueia-se demasiado depressa">O ecrã bloqueia-se demasiado depressa</a><span class="desc"> — Mude o tempo de espera antes de que se bloqueie o ecrã na configuração de <span class="gui">Privacidade</span>.</span>
+<a href="session-screenlocks.html.pt" title="O ecrã bloqueia-se demasiado depressa">O ecrã bloqueia-se demasiado depressa</a><span class="desc"> — Mude o tempo de espera antes de que se bloqueie o ecrã na configuração de <span class="gui">Privacidade</span>.</span>
 </li>
 </ul></div>
 </div></div>

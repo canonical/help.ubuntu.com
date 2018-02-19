@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html#vision" title="Visuele beperkingen">Visuele beperkingen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.nl" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html.nl#vision" title="Visuele beperkingen">Visuele beperkingen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Contrast aanpassen</span></h1></div>
@@ -54,13 +54,13 @@
   changing the brightness of the whole screen; only parts of the
   <span class="em">user interface</span> will change.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Universele toegang</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Zet <span class="gui">Hoog contrast</span> <span class="gui">AAN</span> onder het kopje <span class="gui">Zicht</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner">
 <div class="title title-note"><h2><span class="title">Hoog contrast snel in- of uitschakelen</span></h2></div>
-<div class="region"><div class="contents"><p class="p">U kunt hoog contrast aan- en uitzetten door te klikken op het <span class="link"><a href="a11y-icon.html" title="Het menu Universele toegang vinden">toegankelijkheidspictogram</a></span> in de bovenste balk en <span class="gui">Hoog contrast</span> te selecteren. </p></div></div>
+<div class="region"><div class="contents"><p class="p">U kunt hoog contrast aan- en uitzetten door te klikken op het <span class="link"><a href="a11y-icon.html.nl" title="Het menu Universele toegang vinden">toegankelijkheidspictogram</a></span> in de bovenste balk en <span class="gui">Hoog contrast</span> te selecteren. </p></div></div>
 </div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -68,12 +68,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Visuele beperkingen">Visuele beperkingen</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.nl#vision" title="Visuele beperkingen">Visuele beperkingen</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="display-brightness.html" title="De helderheid van het scherm instellen">De helderheid van het scherm instellen</a><span class="desc"> — De helderheid van het scherm verhogen om het beter leesbaar te maken bij fel licht.</span>
+<a href="display-brightness.html.nl" title="De helderheid van het scherm instellen">De helderheid van het scherm instellen</a><span class="desc"> — De helderheid van het scherm verhogen om het beter leesbaar te maken bij fel licht.</span>
 </li></ul></div>
 </div></div>
 </div>

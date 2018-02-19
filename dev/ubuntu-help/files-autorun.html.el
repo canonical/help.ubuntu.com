@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#removable" title="Αφαιρούμενοι οδηγοί και εξωτερικοί δίσκοι">Αφαιρούμενοι οδηγοί και εξωτερικοί δίσκοι</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#removable" title="Αφαιρούμενοι οδηγοί και εξωτερικοί δίσκοι">Αφαιρούμενοι οδηγοί και εξωτερικοί δίσκοι</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Ήχος, βίντεο &amp; εικόνες">Ήχος, βίντεο &amp; εικόνες</a> › <a class="trail" href="media.html#videos" title="Βίντεο και βιντεοκάμερες">Βίντεο</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.el" title="Ήχος, βίντεο &amp; εικόνες">Ήχος, βίντεο &amp; εικόνες</a> › <a class="trail" href="media.html.el#videos" title="Βίντεο και βιντεοκάμερες">Βίντεο</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Ήχος, βίντεο &amp; εικόνες">Ήχος, βίντεο &amp; εικόνες</a> › <a class="trail" href="media.html#music" title="Μουσική και φορητοί αναπαραγωγείς ήχου">Μουσική και αναπαραγωγείς</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.el" title="Ήχος, βίντεο &amp; εικόνες">Ήχος, βίντεο &amp; εικόνες</a> › <a class="trail" href="media.html.el#music" title="Μουσική και φορητοί αναπαραγωγείς ήχου">Μουσική και αναπαραγωγείς</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Ήχος, βίντεο &amp; εικόνες">Ήχος, βίντεο &amp; εικόνες</a> › <a class="trail" href="media.html#photos" title="Φωτογραφίες και ψηφιακές κάμερες">Φωτογραφίες</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.el" title="Ήχος, βίντεο &amp; εικόνες">Ήχος, βίντεο &amp; εικόνες</a> › <a class="trail" href="media.html.el#photos" title="Φωτογραφίες και ψηφιακές κάμερες">Φωτογραφίες</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <p class="p">Μπορείτε να έχετε μια εφαρμογή να ξεκινά αυτόματα όταν συνδέετε μια συσκευή ή εισάγετε ένα δίσκο ή κάρτα μέσων. Για παράδειγμα, μπορεί να θέλετε ο οργανωτής φωτογραφιών σας να ξεκινά όταν συνδέετε μια ψηφιακή κάμερα. Μπορείτε επίσης να το απενεργοποιείτε, έτσι ώστε να μην συμβεί τίποτα όταν συνδέετε κάτι.</p>
 <p class="p">Για να αποφασίσετε ποιες εφαρμογές πρέπει να ξεκινούν όταν συνδέετε ποικίλες συσκευές:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Λεπτομέρειες</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Λεπτομέρειες</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Λεπτομέρειες</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Αφαιρούμενα μέσα</span>.</p></li>
 <li class="steps">
@@ -77,7 +77,7 @@
 <dt class="terms">Δίσκοι ήχου</dt>
 <dd class="terms"><p class="p">Επιλέξτε την αγαπημένη σας εφαρμογή μουσικής ή τον εξαγωγέα μουσικών CD για τη διαχείριση CD ήχου. Εάν χρησιμοποιείτε ηχητικά DVD (DVD-A), επιλέξτε πώς θα τα ανοίξετε στο <span class="gui">Άλλα μέσα…</span>. Εάν ανοίγετε έναν ηχητικό δίσκο με τον διαχειριστή αρχείων, τα κομμάτια θα εμφανίζονται ως αρχεία WAV, τα οποία μπορείτε να παίξετε σε οποιαδήποτε εφαρμογή αναπαραγωγής ήχου.</p></dd>
 <dt class="terms">Δίσκοι βίντεο</dt>
-<dd class="terms"><p class="p">Επιλέξτε την αγαπημένη σας εφαρμογή βίντεο για επεξεργασία βίντεο DVD. Χρησιμοποιήστε το κουμπί <span class="gui">Άλλα μέσα…</span> για να ορίσετε μια εφαρμογή για Blu-ray, HD DVD, βίντεο CD (VCD) και υπερβίντεο CD (SVCD). Εάν τα DVD ή άλλοι δίσκοι βίντεο δεν δουλεύουν σωστά όταν τα εισάγετε, δείτε <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.</p></dd>
+<dd class="terms"><p class="p">Επιλέξτε την αγαπημένη σας εφαρμογή βίντεο για επεξεργασία βίντεο DVD. Χρησιμοποιήστε το κουμπί <span class="gui">Άλλα μέσα…</span> για να ορίσετε μια εφαρμογή για Blu-ray, HD DVD, βίντεο CD (VCD) και υπερβίντεο CD (SVCD). Εάν τα DVD ή άλλοι δίσκοι βίντεο δεν δουλεύουν σωστά όταν τα εισάγετε, δείτε <span class="link"><a href="video-dvd.html.el" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.</p></dd>
 <dt class="terms">Κενοί δίσκοι</dt>
 <dd class="terms"><p class="p">Χρησιμοποιήστε το κουμπί <span class="gui">Άλλα μέσα…</span> για να επιλέξετε μια εφαρμογή εγγραφής δίσκου για κενά CD, DVD, δίσκους Blu-ray και HD DVD.</p></dd>
 <dt class="terms">Κάμερες και φωτογραφίες</dt>
@@ -101,10 +101,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#removable" title="Αφαιρούμενοι οδηγοί και εξωτερικοί δίσκοι">Αφαιρούμενοι οδηγοί και εξωτερικοί δίσκοι</a></li>
-<li class="links "><a href="media.html#videos" title="Βίντεο και βιντεοκάμερες">Βίντεο</a></li>
-<li class="links "><a href="media.html#music" title="Μουσική και φορητοί αναπαραγωγείς ήχου">Μουσική και αναπαραγωγείς</a></li>
-<li class="links "><a href="media.html#photos" title="Φωτογραφίες και ψηφιακές κάμερες">Φωτογραφίες</a></li>
+<li class="links "><a href="files.html.el#removable" title="Αφαιρούμενοι οδηγοί και εξωτερικοί δίσκοι">Αφαιρούμενοι οδηγοί και εξωτερικοί δίσκοι</a></li>
+<li class="links "><a href="media.html.el#videos" title="Βίντεο και βιντεοκάμερες">Βίντεο</a></li>
+<li class="links "><a href="media.html.el#music" title="Μουσική και φορητοί αναπαραγωγείς ήχου">Μουσική και αναπαραγωγείς</a></li>
+<li class="links "><a href="media.html.el#photos" title="Φωτογραφίες και ψηφιακές κάμερες">Φωτογραφίες</a></li>
 </ul></div>
 </div></div></div>
 </div>

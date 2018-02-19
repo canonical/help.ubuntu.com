@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#backup" title="Hacer copias de respaldo">Hacer copias de respaldo</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#backup" title="Hacer copias de respaldo">Hacer copias de respaldo</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Restaurar una copia de respaldo</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Si ha perdido o eliminado algunos de sus archivos pero tiene un respaldo de los mismos, puede restaurarlos desde el respaldo:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Si quiere restaurar su respaldo desde un dispositivo tal como un disco duro externo, una unidad USB u otro equipo de la red, puede <span class="link"><a href="files-copy.html" title="Copiar o mover archivos y carpetas">copiarlos</a></span> de nuevo en su equipo.</p></li>
+<li class="list"><p class="p">Si quiere restaurar su respaldo desde un dispositivo tal como un disco duro externo, una unidad USB u otro equipo de la red, puede <span class="link"><a href="files-copy.html.es" title="Copiar o mover archivos y carpetas">copiarlos</a></span> de nuevo en su equipo.</p></li>
 <li class="list"><p class="p">Si ha creado su respaldo usando una aplicación de respaldos tal como <span class="app">Déjà Dup</span>, se recomienda que use la misma aplicación para restaurar su respaldo. Revise la ayuda de la aplicación de su programa de respaldos: le proporcionará instrucciones específicas acerca de cómo restaurar sus archivos.</p></li>
 </ul></div></div></div>
 </div>
@@ -59,7 +59,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Hacer copias de respaldo">Hacer copias de respaldo</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.es#backup" title="Hacer copias de respaldo">Hacer copias de respaldo</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="files.html.es" title="Búsqueda de archivos y carpetas">Archivos</a> › <a class="trail" href="files.html.es#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferencias del gestor de archivos</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html" title="Preferencias de comportamiento del gestor de archivos"><span class="title">Preferencias de comportamiento del gestor de archivos</span><span class="linkdiv-dash"> — </span><span class="desc">Una sola pulsación para abrir archivos, ejecutar o ver archivos de texto ejecutables, y especificar el comportamiento de la papelera.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html" title="Preferencias de la vista del gestor de archivos"><span class="title">Preferencias de la vista del gestor de archivos</span><span class="linkdiv-dash"> — </span><span class="desc">Controlar las leyendas de los iconos usadas en el gestor de archivos.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html" title="Preferencias de la vista previa del gestor de archivos"><span class="title">Preferencias de la vista previa del gestor de archivos</span><span class="linkdiv-dash"> — </span><span class="desc">Controlar cuándo se usan miniaturas para los archivos.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html" title="Preferencias de las columnas en la lista de archivos"><span class="title">Preferencias de las columnas en la lista de archivos</span><span class="linkdiv-dash"> — </span><span class="desc">Controlar qué información se visualiza en columnas en la vista de lista.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html" title="Preferencias de vistas en Archivos"><span class="title">Preferencias de vistas en <span class="app">Archivos</span></span><span class="linkdiv-dash"> — </span><span class="desc">Especificar la ordenación predeterminada y el agrupamiento para el gestor de archivos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html.es" title="Preferencias de comportamiento del gestor de archivos"><span class="title">Preferencias de comportamiento del gestor de archivos</span><span class="linkdiv-dash"> — </span><span class="desc">Una sola pulsación para abrir archivos, ejecutar o ver archivos de texto ejecutables, y especificar el comportamiento de la papelera.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html.es" title="Preferencias de la vista del gestor de archivos"><span class="title">Preferencias de la vista del gestor de archivos</span><span class="linkdiv-dash"> — </span><span class="desc">Controlar las leyendas de los iconos usadas en el gestor de archivos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html.es" title="Preferencias de la vista previa del gestor de archivos"><span class="title">Preferencias de la vista previa del gestor de archivos</span><span class="linkdiv-dash"> — </span><span class="desc">Controlar cuándo se usan miniaturas para los archivos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html.es" title="Preferencias de las columnas en la lista de archivos"><span class="title">Preferencias de las columnas en la lista de archivos</span><span class="linkdiv-dash"> — </span><span class="desc">Controlar qué información se visualiza en columnas en la vista de lista.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html.es" title="Preferencias de vistas en Archivos"><span class="title">Preferencias de vistas en <span class="app">Archivos</span></span><span class="linkdiv-dash"> — </span><span class="desc">Especificar la ordenación predeterminada y el agrupamiento para el gestor de archivos.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.es#more-file-tasks" title="Más tareas relacionadas con archivos">Más tareas relacionadas con archivos</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

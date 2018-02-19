@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="getting-started.html" title="Premiers pas">Premiers pas avec GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="getting-started.html.fr" title="Premiers pas">Premiers pas avec GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="Connexion aux comptes en ligne">Précédent</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="Modifier le papier peint">Suivant</a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.fr" title="Connexion aux comptes en ligne">Précédent</a><a class="nextlinks-next" href="gs-change-wallpaper.html.fr" title="Modifier le papier peint">Suivant</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Modifier la date, l'heure et le fuseau horaire</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Cliquez sur le <span class="gui"><a href="shell-introduction.html#yourname" title="Vous et votre ordinateur">menu système</a></span> à droite dans la barre supérieure.</p></li>
+<li class="steps"><p class="p">Cliquez sur le <span class="gui"><a href="shell-introduction.html.fr#yourname" title="Vous et votre ordinateur">menu système</a></span> à droite dans la barre supérieure.</p></li>
 <li class="steps"><p class="p">Cliquez sur le bouton des paramètres au bas du menu à gauche.</p></li>
 <li class="steps"><p class="p">Sélectionnez le panneau <span class="gui">Date et heure</span>.</p></li>
 </ol></div></div></div>
@@ -68,7 +68,7 @@
 </ol></div></div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="Connexion aux comptes en ligne">Précédent</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="Modifier le papier peint">Suivant</a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.fr" title="Connexion aux comptes en ligne">Précédent</a><a class="nextlinks-next" href="gs-change-wallpaper.html.fr" title="Modifier le papier peint">Suivant</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -76,17 +76,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Premiers pas">Premiers pas avec GNOME</a><span class="desc"> — Vous êtes nouveau venu dans GNOME ? Apprenez à vous y déplacer.</span>
+<a href="getting-started.html.fr" title="Premiers pas">Premiers pas avec GNOME</a><span class="desc"> — Vous êtes nouveau venu dans GNOME ? Apprenez à vous y déplacer.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Date &amp; heure">Date &amp; heure</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html" title="Modification de la date et de l'heure">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="Modification de votre fuseau horaire">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="Rendez-vous dans l'agenda">calendar and appointments</a></span>…
+<a href="clock.html.fr" title="Date &amp; heure">Date &amp; heure</a><span class="desc"> — 
+      <span class="link"><a href="clock-set.html.fr" title="Modification de la date et de l'heure">Set date and time</a></span>,
+      <span class="link"><a href="clock-world.html.fr" title="Add a world clock">world clocks</a></span>,
+      <span class="link"><a href="clock-timezone.html.fr" title="Modification de votre fuseau horaire">timezone</a></span>,
+      <span class="link"><a href="clock-calendar.html.fr" title="Rendez-vous dans l'agenda">calendar and appointments</a></span>…
     </span>
 </li></ul></div>
 </div></div>

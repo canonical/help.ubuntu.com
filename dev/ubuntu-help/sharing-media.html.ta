@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="பகிர்தல்">பகிர்தல்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.ta" title="பகிர்தல்">பகிர்தல்</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="prefs-sharing.html" title="பகிர்தல் அமைவுகள்">பகிர்தல் அமைவுகள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="prefs-sharing.html.ta" title="பகிர்தல் அமைவுகள்">பகிர்தல் அமைவுகள்</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,13 +56,13 @@
 <p class="p">நீங்கள் ஃபோன், TV அல்லது கேம் கன்சோல் போன்ற <span class="sys">UPnP</span> அல்லது <span class="sys">DLNA</span> செயல்படுத்தப்பட்ட சாதனத்தைப் பயன்படுத்தி உங்கள் கணினியில் உள்ள மீடியாவை உலவலாம், தேடலாம் மற்றும் இயக்கலாம். உங்கள் இசை, புகைப்படங்கள் மற்றும் வீடியோக்களைக் கொண்டுள்ள கோப்புறைகளை அணுக இந்த சாதனங்களை அனுமதிக்க <span class="gui">மீடியா பகிர்தல்</span> ஐ அமைவாக்கம் செய்யவும்.</p>
 <div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="gui">மீடியா பகிர்தல்</span> புலப்படும்படி இருக்க நீங்கள் <span class="app">Rygel</span> தொகுப்பை நிறுவியிருக்க வேண்டும்.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Sharing</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Sharing</span> to open the panel.</p></li>
 <li class="steps">
 <p class="p"><span class="gui">பகிர்தல்</span> <span class="gui">ஆஃப்</span> என அமைக்கப்பட்டிருந்தால், அதை <span class="gui">ஆன்</span> என அமைக்கவும்.</p>
 <div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">If the text below <span class="gui">Computer Name</span> allows
-      you to edit it, you can <span class="link"><a href="sharing-displayname.html" title="Set the display name for your computer">change</a></span>
+      you to edit it, you can <span class="link"><a href="sharing-displayname.html.ta" title="Set the display name for your computer">change</a></span>
       the name your computer displays on the network.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p"><span class="gui">மீடியா பகிர்தல்</span> ஐ தேர்ந்தெடுக்கவும்.</p></li>
@@ -89,14 +89,14 @@
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="பகிர்தல்">பகிர்தல்</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="உங்கள் பணிமேசையைப் பகிர்தல்">பணிமேசை பகிர்தல்</a></span>, <span class="link"><a href="files-share.html" title="மின்னஞ்சல் மூலம் கோப்புகளை பகிர்தல்">மின்னஞ்சல் மூலம் கோப்புகளைப் பகிர்தல்</a></span>, <span class="link"><a href="sharing-media.html" title="உங்கள் இசை, புகைப்படங்கள் மற்றும் வீடியோக்களைப் பகிர்தல்">மீடியா பகிர்தல்</a></span>…</span>
+<a href="sharing.html.ta" title="பகிர்தல்">பகிர்தல்</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ta" title="உங்கள் பணிமேசையைப் பகிர்தல்">பணிமேசை பகிர்தல்</a></span>, <span class="link"><a href="files-share.html.ta" title="மின்னஞ்சல் மூலம் கோப்புகளை பகிர்தல்">மின்னஞ்சல் மூலம் கோப்புகளைப் பகிர்தல்</a></span>, <span class="link"><a href="sharing-media.html.ta" title="உங்கள் இசை, புகைப்படங்கள் மற்றும் வீடியோக்களைப் பகிர்தல்">மீடியா பகிர்தல்</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html" title="பகிர்தல் அமைவுகள்">பகிர்தல் அமைவுகள்</a><span class="desc"> — 
-      <span class="link"><a href="sharing-bluetooth.html" title="Bluetooth மூலம் பகிர்தலைக் கட்டுப்படுத்துதல்">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html" title="Share your personal files">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html" title="உங்கள் பணிமேசையைப் பகிர்தல்">Screen sharing</a></span>,
-      <span class="link"><a href="sharing-media.html" title="உங்கள் இசை, புகைப்படங்கள் மற்றும் வீடியோக்களைப் பகிர்தல்">Media sharing</a></span>…
+<a href="prefs-sharing.html.ta" title="பகிர்தல் அமைவுகள்">பகிர்தல் அமைவுகள்</a><span class="desc"> — 
+      <span class="link"><a href="sharing-bluetooth.html.ta" title="Bluetooth மூலம் பகிர்தலைக் கட்டுப்படுத்துதல்">Bluetooth sharing</a></span>,
+      <span class="link"><a href="sharing-personal.html.ta" title="Share your personal files">Personal file sharing</a></span>,
+      <span class="link"><a href="sharing-desktop.html.ta" title="உங்கள் பணிமேசையைப் பகிர்தல்">Screen sharing</a></span>,
+      <span class="link"><a href="sharing-media.html.ta" title="உங்கள் இசை, புகைப்படங்கள் மற்றும் வீடியோக்களைப் பகிர்தல்">Media sharing</a></span>…
     </span>
 </li>
 </ul></div>

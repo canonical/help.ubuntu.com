@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="keyboard.html" title="Клавиатура">Клавиатура</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="keyboard.html.ru" title="Клавиатура">Клавиатура</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="keyboard.html" title="Клавиатура">Клавиатура</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Настройка комбинаций клавиш">Настройка комбинаций клавиш</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="keyboard.html.ru" title="Клавиатура">Клавиатура</a> » <a class="trail" href="keyboard-shortcuts-set.html.ru" title="Настройка комбинаций клавиш">Настройка комбинаций клавиш</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="keyboard.html" title="Клавиатура">Клавиатура</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="keyboard.html.ru" title="Клавиатура">Клавиатура</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="keyboard.html" title="Клавиатура">Клавиатура</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Настройка комбинаций клавиш">Настройка комбинаций клавиш</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="keyboard.html.ru" title="Клавиатура">Клавиатура</a> » <a class="trail" href="keyboard-shortcuts-set.html.ru" title="Настройка комбинаций клавиш">Настройка комбинаций клавиш</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="prefs-language.html" title="Язык и регион">Язык и регион</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="prefs-language.html.ru" title="Язык и регион">Язык и регион</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,7 +61,7 @@
 <div class="contents">
 <p class="p">Существуют сотни различных раскладок клавиатуры для разных языков. Часто даже для одного языка есть несколько раскладок, таких как раскладка Dvorak для английского языка. Можно сделать так, чтобы ваша клавиатура действовала как клавиатура с другой раскладкой, независимо от того, какие символы нанесены на клавиши. Это удобно, когда происходит частое переключение между различными языками.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Откройте <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Обзор</a></span> и начните набирать <span class="gui">Язык и регион</span>.</p></li>
+<li class="steps"><p class="p">Откройте <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Обзор</a></span> и начните набирать <span class="gui">Язык и регион</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Язык и регион</span>, чтобы открыть панель.</p></li>
 <li class="steps"><p class="p">Нажмите кнопку <span class="gui">+</span> в секции <span class="gui">Источники ввода</span>, выберите язык, ассоциированный с раскладкой, затем выберите раскладку и нажмите <span class="gui">Добавить</span>.</p></li>
 </ol></div></div></div>
@@ -77,7 +77,7 @@
   <span class="gui">Input Source</span> <span class="gui">Keyboard Shortcuts</span>. These shortcuts open 
   the <span class="gui">Input Source</span> chooser where you can move forward and backward. 
   By default, you can switch to the next input source with 
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
+  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.ru" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
   and to the previous one with
   <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span>. You can
   change these shortcuts in the <span class="gui">Keyboard</span> settings.</p>
@@ -90,20 +90,20 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
+<a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ru" title="Использование альтернативных раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ru" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html.ru#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Настройка комбинаций клавиш">Настройка комбинаций клавиш</a><span class="desc"> — Создание или изменение комбинаций клавиш в параметрах клавиатуры.</span>
+<a href="keyboard-shortcuts-set.html.ru" title="Настройка комбинаций клавиш">Настройка комбинаций клавиш</a><span class="desc"> — Создание или изменение комбинаций клавиш в параметрах клавиатуры.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Язык и регион">Язык и регион</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Изменение языка">Язык</a></span>, <span class="link"><a href="session-formats.html" title="Изменение форматов даты и единиц измерения">регион и форматы</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">раскладки клавиатуры</a></span>…</span>
+<a href="prefs-language.html.ru" title="Язык и регион">Язык и регион</a><span class="desc"> — <span class="link"><a href="session-language.html.ru" title="Изменение языка">Язык</a></span>, <span class="link"><a href="session-formats.html.ru" title="Изменение форматов даты и единиц измерения">регион и форматы</a></span>, <span class="link"><a href="keyboard-layouts.html.ru" title="Использование альтернативных раскладок клавиатуры">раскладки клавиатуры</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips-specialchars.html" title="Ввод специальных символов">Ввод специальных символов</a><span class="desc"> — Набирайте символы, отсутствующие на клавиатуре, включая символы иностранных алфавитов, математические и другие символы.</span>
+<a href="tips-specialchars.html.ru" title="Ввод специальных символов">Ввод специальных символов</a><span class="desc"> — Набирайте символы, отсутствующие на клавиатуре, включая символы иностранных алфавитов, математические и другие символы.</span>
 </li></ul></div>
 </div></div>
 </div>

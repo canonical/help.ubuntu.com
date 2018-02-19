@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ta" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html.ta#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html" title="பகிர்தல்">பகிர்தல்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.ta" title="பகிர்தல்">பகிர்தல்</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <div class="title title-steps"><h2><span class="title">மின்னஞ்சல் மூலம் ஒரு கோப்பைப் பகிர்ந்து கொள்ள:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="app">Files</span> application from the
-      <span class="gui"><a href="shell-introduction.html#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview.</p></li>
 <li class="steps"><p class="p">நீங்கள் அனுப்ப விரும்பும் கோப்பைக் கண்டுபிடிக்கவும்.</p></li>
 <li class="steps"><p class="p">Right-click the file and select <span class="gui">Send to…</span>. An email compose
       window will appear with the file attached.</p></li>
@@ -77,9 +77,9 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
+<li class="links "><a href="files.html.ta#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
 <li class="links ">
-<a href="sharing.html" title="பகிர்தல்">பகிர்தல்</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="உங்கள் பணிமேசையைப் பகிர்தல்">பணிமேசை பகிர்தல்</a></span>, <span class="link"><a href="files-share.html" title="மின்னஞ்சல் மூலம் கோப்புகளை பகிர்தல்">மின்னஞ்சல் மூலம் கோப்புகளைப் பகிர்தல்</a></span>, <span class="link"><a href="sharing-media.html" title="உங்கள் இசை, புகைப்படங்கள் மற்றும் வீடியோக்களைப் பகிர்தல்">மீடியா பகிர்தல்</a></span>…</span>
+<a href="sharing.html.ta" title="பகிர்தல்">பகிர்தல்</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ta" title="உங்கள் பணிமேசையைப் பகிர்தல்">பணிமேசை பகிர்தல்</a></span>, <span class="link"><a href="files-share.html.ta" title="மின்னஞ்சல் மூலம் கோப்புகளை பகிர்தல்">மின்னஞ்சல் மூலம் கோப்புகளைப் பகிர்தல்</a></span>, <span class="link"><a href="sharing-media.html.ta" title="உங்கள் இசை, புகைப்படங்கள் மற்றும் வீடியோக்களைப் பகிர்தல்">மீடியா பகிர்தல்</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -87,10 +87,10 @@
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-send-file.html" title="ஒரு Bluetooth சாதனத்திற்கு கோப்புகளை அனுப்புதல்">ஒரு Bluetooth சாதனத்திற்கு கோப்புகளை அனுப்புதல்</a><span class="desc"> — உங்கள் தொலைபேசி போன்ற Bluetooth சாதனங்களுக்கு கோப்புகளைப் பகிர்தல்.</span>
+<a href="bluetooth-send-file.html.ta" title="ஒரு Bluetooth சாதனத்திற்கு கோப்புகளை அனுப்புதல்">ஒரு Bluetooth சாதனத்திற்கு கோப்புகளை அனுப்புதல்</a><span class="desc"> — உங்கள் தொலைபேசி போன்ற Bluetooth சாதனங்களுக்கு கோப்புகளைப் பகிர்தல்.</span>
 </li>
 <li class="links ">
-<a href="nautilus-connect.html" title="ஒரு சேவையகம் அல்லது பிணைய பகிர்வில் உள்ள கோப்புகளை உலவுதல்">ஒரு சேவையகம் அல்லது பிணைய பகிர்வில் உள்ள கோப்புகளை உலவுதல்</a><span class="desc"> — FTP, SSH, Windows பகிர்வுகள் அல்லது WebDAV மூலம் கோப்புகளை வேறொரு கணினியில் காணுதல், திருத்துதல்.</span>
+<a href="nautilus-connect.html.ta" title="ஒரு சேவையகம் அல்லது பிணைய பகிர்வில் உள்ள கோப்புகளை உலவுதல்">ஒரு சேவையகம் அல்லது பிணைய பகிர்வில் உள்ள கோப்புகளை உலவுதல்</a><span class="desc"> — FTP, SSH, Windows பகிர்வுகள் அல்லது WebDAV மூலம் கோப்புகளை வேறொரு கணினியில் காணுதல், திருத்துதல்.</span>
 </li>
 </ul></div>
 </div></div>

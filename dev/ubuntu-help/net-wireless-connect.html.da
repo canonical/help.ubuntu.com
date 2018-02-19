@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Wireless Networking">Wireless Networking</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.da" title="Wireless Networking">Wireless Networking</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Connect to a wireless network</span></h1></div>
@@ -53,7 +53,7 @@
  network that is within range to get access to the internet, view shared files
  on the network, and so on.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html#yourname" title="Dig og din computer">systemmenuen</a></span> fra højre side af toplinjen.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#yourname" title="Dig og din computer">systemmenuen</a></span> fra højre side af toplinjen.</p></li>
 <li class="steps"><p class="p">Select
     <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>
       Wi-Fi Not Connected</span>. The Wi-Fi section of the menu will expand.</p></li>
@@ -64,11 +64,11 @@
 <p class="p">If the name of the network is not in the list, try clicking
     <span class="gui">More</span> to see if the network is further down the list. If you 
     still do not see the network, you may be out of range, or the network
-    <span class="link"><a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">might be hidden</a></span>.</p>
+    <span class="link"><a href="net-wireless-hidden.html.da" title="Connect to a hidden wireless network">might be hidden</a></span>.</p>
 </li>
 <li class="steps">
 <p class="p">If the network is protected by a password
-    (<span class="link"><a href="net-wireless-wepwpa.html" title="What do WEP and WPA mean?">encryption key</a></span>), enter the
+    (<span class="link"><a href="net-wireless-wepwpa.html.da" title="What do WEP and WPA mean?">encryption key</a></span>), enter the
     password when prompted and click <span class="gui">Connect</span>.</p>
 <p class="p">If you do not know the key, it may be written on the underside of the
     wireless router or base station, or in its instruction manual, or you may
@@ -87,7 +87,7 @@
   There are a number of things that could have caused this to happen. You could
   have entered the wrong password, the wireless signal could be too weak, or
   your computer’s wireless card might have a problem, for example. See
-  <span class="link"><a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a></span> for more help.</p>
+  <span class="link"><a href="net-wireless-troubleshooting.html.da" title="Wireless network troubleshooter">Wireless network troubleshooter</a></span> for more help.</p>
 <p class="p">A stronger connection to a wireless network does not necessarily mean that
   you have a faster internet connection, or that you will have faster download
   speeds. The wireless connection connects your computer to the <span class="em">device
@@ -101,10 +101,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Wireless Networking">Wireless Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
+<a href="net-wireless.html.da" title="Wireless Networking">Wireless Networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.da" title="Connect to a wireless network">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.da" title="Connect to a hidden wireless network">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.da" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -112,11 +112,11 @@
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless-disconnecting.html" title="Why does my wireless network keep disconnecting?">Why does my wireless network keep disconnecting?</a><span class="desc"> — You might have low signal, or the network might not be letting you
+<a href="net-wireless-disconnecting.html.da" title="Why does my wireless network keep disconnecting?">Why does my wireless network keep disconnecting?</a><span class="desc"> — You might have low signal, or the network might not be letting you
     connect properly.</span>
 </li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Wireless network troubleshooter">Wireless network troubleshooter</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.da" title="Wireless network troubleshooter">Wireless network troubleshooter</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li>
 </ul></div>
 </div></div>

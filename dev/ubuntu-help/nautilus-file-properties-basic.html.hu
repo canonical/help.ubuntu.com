@@ -43,24 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.hu" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html.hu#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fájl tulajdonságai</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Adott fájl vagy mappa információinak megjelenítéséhez kattintson rá a jobb egérgombbal, és válassza a <span class="gui">Tulajdonságok</span> menüpontot. Ennek alternatívájaként jelölje ki a fájlt, és nyomja meg az <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Enter</kbd></span></span> kombinációt.</p>
-<p class="p">A fájl tulajdonságai ablak olyan információkat jelenít meg, mint a fájl típusa, mérete és módosításának ideje. Ha gyakran van szüksége ezekre az információkra, akkor megjeleníttetheti ezeket a <span class="link"><a href="nautilus-list.html" title="A Fájlok listaoszlopainak beállításai">listanézet oszlopaiban</a></span> vagy az <span class="link"><a href="nautilus-display.html#icon-captions" title="Ikonfeliratok">ikonfeliratokban</a></span> is.</p>
-<p class="p">Az <span class="gui">Alap</span> lapon megjelenő információk részletes bemutatása alább található. Elérheti a <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Fájljogosultságok beállítása">Jogosultságok</a></span></span> és <span class="gui"><span class="link"><a href="files-open.html#default" title="Az alap alkalmazás módosítása">Megnyitás ezzel</a></span></span> lapokat is. Bizonyos fájltípusok, például képek és videók esetén egy extra lap is megjelenik, amely a méretekhez, hosszhoz és kodekhez hasonló információkat jelenít meg.</p>
+<p class="p">A fájl tulajdonságai ablak olyan információkat jelenít meg, mint a fájl típusa, mérete és módosításának ideje. Ha gyakran van szüksége ezekre az információkra, akkor megjeleníttetheti ezeket a <span class="link"><a href="nautilus-list.html.hu" title="A Fájlok listaoszlopainak beállításai">listanézet oszlopaiban</a></span> vagy az <span class="link"><a href="nautilus-display.html.hu#icon-captions" title="Ikonfeliratok">ikonfeliratokban</a></span> is.</p>
+<p class="p">Az <span class="gui">Alap</span> lapon megjelenő információk részletes bemutatása alább található. Elérheti a <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.hu" title="Fájljogosultságok beállítása">Jogosultságok</a></span></span> és <span class="gui"><span class="link"><a href="files-open.html.hu#default" title="Az alap alkalmazás módosítása">Megnyitás ezzel</a></span></span> lapokat is. Bizonyos fájltípusok, például képek és videók esetén egy extra lap is megjelenik, amely a méretekhez, hosszhoz és kodekhez hasonló információkat jelenít meg.</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Alap tulajdonságok</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Név</span></dt>
-<dd class="terms"><p class="p">A fájlt ezen mező módosításával átnevezheti. A fájlt a tulajdonságok ablakon kívül is átnevezheti, lásd: <span class="link"><a href="files-rename.html" title="Fájl vagy mappa átnevezése">Fájl vagy mappa átnevezése</a></span>.</p></dd>
+<dd class="terms"><p class="p">A fájlt ezen mező módosításával átnevezheti. A fájlt a tulajdonságok ablakon kívül is átnevezheti, lásd: <span class="link"><a href="files-rename.html.hu" title="Fájl vagy mappa átnevezése">Fájl vagy mappa átnevezése</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Típus</span></dt>
 <dd class="terms">
-<p class="p">Ez segít azonosítani a fájl típusát, például PDF-dokumentum, OpenDocument szöveg vagy JPEG kép. A fájltípus többek közt meghatározza, hogy milyen alkalmazások képesek megnyitni a fájlt. Egy képet például nem fog tudni megnyitni egy zenelejátszóval. További információkért lásd: <span class="link"><a href="files-open.html" title="Fájlok megnyitása más alkalmazásokkal">Fájlok megnyitása más alkalmazásokkal</a></span>.</p>
+<p class="p">Ez segít azonosítani a fájl típusát, például PDF-dokumentum, OpenDocument szöveg vagy JPEG kép. A fájltípus többek közt meghatározza, hogy milyen alkalmazások képesek megnyitni a fájlt. Egy képet például nem fog tudni megnyitni egy zenelejátszóval. További információkért lásd: <span class="link"><a href="files-open.html.hu" title="Fájlok megnyitása más alkalmazásokkal">Fájlok megnyitása más alkalmazásokkal</a></span>.</p>
 <p class="p">A fájl <span class="em">MIME-típusa</span> zárójelben jelenik meg. A MIME-típus használatával a számítógépek szabványos módon hivatkozhatnak a fájltípusokra.</p>
 </dd>
 <dt class="terms">Tartalom</dt>
@@ -85,12 +85,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.hu#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="Fájljogosultságok beállítása">Fájljogosultságok beállítása</a><span class="desc"> — Adja meg, ki láthatja és szerkesztheti fájljait és mappáit.</span>
+<a href="nautilus-file-properties-permissions.html.hu" title="Fájljogosultságok beállítása">Fájljogosultságok beállítása</a><span class="desc"> — Adja meg, ki láthatja és szerkesztheti fájljait és mappáit.</span>
 </li></ul></div>
 </div></div>
 </div>

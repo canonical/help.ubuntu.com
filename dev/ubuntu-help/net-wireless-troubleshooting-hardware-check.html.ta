@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ் பிணையமாக்கம்</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் பிணைய சிக்கல்தீர்வி</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.ta" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ் பிணையமாக்கம்</a> » <a class="trail" href="net-wireless-troubleshooting.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் பிணைய சிக்கல்தீர்வி</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> › <a class="trail" href="hardware.html#problems" title="பொதுவான பிரச்சினைகள்">சிக்கல்கள்</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் பிணைய சிக்கல்தீர்வி</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> › <a class="trail" href="hardware.html.ta#problems" title="பொதுவான பிரச்சினைகள்">சிக்கல்கள்</a> » <a class="trail" href="net-wireless-troubleshooting.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் பிணைய சிக்கல்தீர்வி</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">முந்தைய</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">அடுத்து</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">முந்தைய</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">அடுத்து</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">வயர்லெஸ் இணைப்பு சிக்கல்தீர்வி</span></h1>
@@ -70,7 +70,7 @@
        vendor: Intel Corporation</pre></div>
 </li>
 <li class="steps">
-<p class="p">ஒரு வயர்லெஸ் சாதனம் பட்டியலிடப்பட்டிருந்தால், <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">சாதன இயக்கிகள் செயல்படிக்குச்</a></span> செல்லவும்.</p>
+<p class="p">ஒரு வயர்லெஸ் சாதனம் பட்டியலிடப்பட்டிருந்தால், <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">சாதன இயக்கிகள் செயல்படிக்குச்</a></span> செல்லவும்.</p>
 <p class="p">ஒரு வயர்லெஸ் சாதனம் <span class="em">பட்டியலிடப்படாவிட்டால்</span>, அடுத்து நீங்கள் செய்ய வேண்டிய செயல்படிகள் நீங்கள் பயன்படுத்தும் சாதனத்தின் வகையைப் பொறுத்து அமையும். உங்கள் கணினியின் வயர்லெஸ் அடாப்ட்டரின் வகை தொடர்பான கீழே உள்ள தலைப்பைப் பார்க்கவும் (<span class="link"><a href="#pci" title="PCI (அக) வயர்லெஸ் அடாப்ட்டர்">அக PCI</a></span>, <span class="link"><a href="#usb" title="USB வயர்லெஸ் அடாப்ட்டர்">USB</a></span> அல்லது <span class="link"><a href="#pcmcia" title="ஒரு PCMCIA சாதனத்தை சோதித்தல்">PCMCIA</a></span>).</p>
 </li>
 </ol></div></div></div>
@@ -86,7 +86,7 @@
 <div class="code"><pre class="contents ">பிணைய கட்டுப்படுத்தி: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">Device Drivers
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">Device Drivers
       step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
       <span class="link"><a href="#not-recognized" title="வயர்லெஸ் அடாப்ட்டர் அடையாளம் காணப்படவில்லை">the instructions below</a></span>.</p></li>
@@ -104,7 +104,7 @@
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">Device Drivers
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">Device Drivers
       step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
       <span class="link"><a href="#not-recognized" title="வயர்லெஸ் அடாப்ட்டர் அடையாளம் காணப்படவில்லை">the instructions below</a></span>.</p></li>
@@ -127,7 +127,7 @@
 <li class="steps"><p class="p">உங்கள் வயர்லெஸ் அடாப்ட்டரை PCMCIA துளையில் செருகி, முனைய சாளரத்தில் ஏதேனும் மாறுகிறதா எனப் பார்க்கவும். முனையத்தில் ஏற்படும் மாற்றங்களில் உங்கள் வயர்லெஸ் அடாப்ட்டர் பற்றிய தகவல் சில இருக்கும். அதைப் பார்த்து அடையாளம் காண முயற்சிக்கவும்.</p></li>
 <li class="steps"><p class="p">முனையத்தில் இந்தக் கட்டளை இயங்குவதை நிறுத்த <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span> ஐ அழுத்தவும். அதைச் செய்த பின் விரும்பினால் முனையத்தை மூடிவிடவும்.</p></li>
 <li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
-      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">Device
+      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">Device
       Drivers step</a></span>. If you didn’t find anything related to your wireless
       adapter, see <span class="link"><a href="#not-recognized" title="வயர்லெஸ் அடாப்ட்டர் அடையாளம் காணப்படவில்லை">the instructions
       below</a></span>.</p></li>
@@ -147,14 +147,14 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">முந்தைய</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">அடுத்து</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">முந்தைய</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">அடுத்து</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் பிணைய சிக்கல்தீர்வி</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் பிணைய சிக்கல்தீர்வி</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li></ul></div>
 </div></div></div>
 </div>

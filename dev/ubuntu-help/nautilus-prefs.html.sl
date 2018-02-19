@@ -43,24 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html.sl#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Možnosti upravljalnika datotek</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html" title="Files list columns preferences"><span class="title">Files list columns preferences</span><span class="linkdiv-dash"> — </span><span class="desc">Nadzirajte kateri podatki so prikazani v stolpcih v seznamskem pogledu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html" title="Možnosti obnašanja upravljalnika datotek"><span class="title">Možnosti obnašanja upravljalnika datotek</span><span class="linkdiv-dash"> — </span><span class="desc">Kliknite za odprtje datotek, poganjanje ali ogled izvedljivih besedilnih datotek in navedite obnašanje smeti.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html" title="Možnosti predogleda upravljalnika datotek"><span class="title">Možnosti predogleda upravljalnika datotek</span><span class="linkdiv-dash"> — </span><span class="desc">Nadzirajte kdaj se za datoteke uporabljajo sličice in predogledi.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html" title="Možnosti prikaza upravljalnika datotek"><span class="title">Možnosti prikaza upravljalnika datotek</span><span class="linkdiv-dash"> — </span><span class="desc">Nadziranje sličice ikon, ki se uporabljajo v upravljalniku datotek.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html" title="Views preferences in Files"><span class="title">Views preferences in <span class="app">Files</span></span><span class="linkdiv-dash"> — </span><span class="desc">Specify the default sort order and grouping for the file
+<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html.sl" title="Files list columns preferences"><span class="title">Files list columns preferences</span><span class="linkdiv-dash"> — </span><span class="desc">Nadzirajte kateri podatki so prikazani v stolpcih v seznamskem pogledu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html.sl" title="Možnosti obnašanja upravljalnika datotek"><span class="title">Možnosti obnašanja upravljalnika datotek</span><span class="linkdiv-dash"> — </span><span class="desc">Kliknite za odprtje datotek, poganjanje ali ogled izvedljivih besedilnih datotek in navedite obnašanje smeti.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html.sl" title="Možnosti predogleda upravljalnika datotek"><span class="title">Možnosti predogleda upravljalnika datotek</span><span class="linkdiv-dash"> — </span><span class="desc">Nadzirajte kdaj se za datoteke uporabljajo sličice in predogledi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html.sl" title="Možnosti prikaza upravljalnika datotek"><span class="title">Možnosti prikaza upravljalnika datotek</span><span class="linkdiv-dash"> — </span><span class="desc">Nadziranje sličice ikon, ki se uporabljajo v upravljalniku datotek.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html.sl" title="Views preferences in Files"><span class="title">Views preferences in <span class="app">Files</span></span><span class="linkdiv-dash"> — </span><span class="desc">Specify the default sort order and grouping for the file
     manager.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sl#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

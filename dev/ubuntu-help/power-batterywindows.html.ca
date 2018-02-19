@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="power.html" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="power.html.ca" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html.ca#faq" title="Questions">Questions</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="power.html" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="power.html.ca" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html.ca#faq" title="Questions">Questions</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,8 +60,8 @@ various hardware/software settings for a given model of computer. These tweaks
 are often highly specific, and may not be documented, so including them in
 Linux is difficult.</p>
 <p class="p">Unfortunately, there is not an easy way of applying these tweaks yourself
-without knowing exactly what they are. You may find that using some <span class="link"><a href="power-batterylife.html" title="Use less power and improve battery life">power-saving methods</a></span> helps, though. If your
-computer has a <span class="link"><a href="power-batteryslow.html" title="Why is my laptop slow when it is on battery?">variable-speed processor</a></span>,
+without knowing exactly what they are. You may find that using some <span class="link"><a href="power-batterylife.html.ca" title="Use less power and improve battery life">power-saving methods</a></span> helps, though. If your
+computer has a <span class="link"><a href="power-batteryslow.html.ca" title="Why is my laptop slow when it is on battery?">variable-speed processor</a></span>,
 you might find that changing its settings is also useful.</p>
 <p class="p">Another possible reason for the discrepancy is that the method of estimating
 battery life is different on Windows/Mac OS than on Linux. The actual battery
@@ -73,19 +73,19 @@ estimates.</p>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Questions">Questions</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.ca#faq" title="Questions">Questions</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batteryestimate.html" title="The estimated battery life is wrong">The estimated battery life is wrong</a><span class="desc"> — The battery life displayed when you click on the <span class="gui">battery icon</span> is an estimate.</span>
+<a href="power-batteryestimate.html.ca" title="The estimated battery life is wrong">The estimated battery life is wrong</a><span class="desc"> — The battery life displayed when you click on the <span class="gui">battery icon</span> is an estimate.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
+<a href="power-batterylife.html.ca" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
 </li>
 <li class="links ">
-<a href="power-batteryslow.html" title="Why is my laptop slow when it is on battery?">Why is my laptop slow when it is on battery?</a><span class="desc"> — Some laptops intentionally slow down when they are running on battery.</span>
+<a href="power-batteryslow.html.ca" title="Why is my laptop slow when it is on battery?">Why is my laptop slow when it is on battery?</a><span class="desc"> — Some laptops intentionally slow down when they are running on battery.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,80 +43,80 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Networking, web &amp; email</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html" title="Brezžične povezave">Brezžične povezave</a></div>
+<div class="links-grid-link"><a href="net-wireless.html.sl" title="Brezžične povezave">Brezžične povezave</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-connect.html" title="Povezava z brezžičnim omrežjem">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Povezava s skritim brezžičnim omrežjem">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?">Disconnecting</a></span>…
+      <span class="link"><a href="net-wireless-connect.html.sl" title="Povezava z brezžičnim omrežjem">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.sl" title="Povezava s skritim brezžičnim omrežjem">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.sl" title="Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?">Disconnecting</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-email.html" title="E-pošta, programi e-pošte">E-pošta, programi e-pošte</a></div>
+<div class="links-grid-link"><a href="net-email.html.sl" title="E-pošta, programi e-pošte">E-pošta, programi e-pošte</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-email.html" title="Spremenite poštni program s katerim boste pisali e-pošto.">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html" title="Ali moram svojo e-pošto preiskati za viruse?">Should I scan for viruses?</a></span>…
+      <span class="link"><a href="net-default-email.html.sl" title="Spremenite poštni program s katerim boste pisali e-pošto.">Default email apps</a></span>,
+      <span class="link"><a href="net-email-virus.html.sl" title="Ali moram svojo e-pošto preiskati za viruse?">Should I scan for viruses?</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-general.html" title="Izrazi in namigi omrežja">Izrazi in namigi omrežja</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html" title="Najdite svoj naslov IP">Najdite svoj naslov IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Kaj WEP in WPA pomenita?">varnost WEP in WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Kaj je naslov MAC?">naslovi MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Določitev nastavitvev posredniškega strežnika">posredniški strežniki</a></span> …</span></div>
+<div class="links-grid-link"><a href="net-general.html.sl" title="Izrazi in namigi omrežja">Izrazi in namigi omrežja</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.sl" title="Najdite svoj naslov IP">Najdite svoj naslov IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.sl" title="Kaj WEP in WPA pomenita?">varnost WEP in WPA</a></span>, <span class="link"><a href="net-macaddress.html.sl" title="Kaj je naslov MAC?">naslovi MAC</a></span>, <span class="link"><a href="net-proxy.html.sl" title="Določitev nastavitvev posredniškega strežnika">posredniški strežniki</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-chat.html" title="Klepet in družabna omrežja">Klepet in družabna omrežja</a></div>
+<div class="links-grid-link"><a href="net-chat.html.sl" title="Klepet in družabna omrežja">Klepet in družabna omrežja</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-chat-empathy.html" title="Hipno sporočanje na Ubuntuju">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Video klici">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Kako lahko na Ubuntuju uporabljam Skype?">install skype</a></span>
+      <span class="link"><a href="net-chat-empathy.html.sl" title="Hipno sporočanje na Ubuntuju">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.sl" title="Video klici">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.sl" title="Kako lahko na Ubuntuju uporabljam Skype?">install skype</a></span>
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="sharing.html" title="Souporaba">Souporaba</a></div>
+<div class="links-grid-link"><a href="sharing.html.sl" title="Souporaba">Souporaba</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="sharing-desktop.html" title="Dajte svoje namizje v souporabo">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html" title="Share files by email">Share files by email</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Share your music, photos and videos">Media sharing</a></span>…
+      <span class="link"><a href="sharing-desktop.html.sl" title="Dajte svoje namizje v souporabo">Desktop sharing</a></span>,
+      <span class="link"><a href="files-share.html.sl" title="Share files by email">Share files by email</a></span>,
+      <span class="link"><a href="sharing-media.html.sl" title="Share your music, photos and videos">Media sharing</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html" title="Spletni brskalniki">Spletni brskalniki</a></div>
+<div class="links-grid-link"><a href="net-browser.html.sl" title="Spletni brskalniki">Spletni brskalniki</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="Nameščanje vstavka Flash">install Flash</a></span>…
+      <span class="link"><a href="net-default-browser.html.sl" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-install-flash.html.sl" title="Nameščanje vstavka Flash">install Flash</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="contacts.html" title="Stiki">Stiki</a></div>
+<div class="links-grid-link"><a href="contacts.html.sl" title="Stiki">Stiki</a></div>
 <div class="desc"><span class="desc">Dostopajte do svojih stikov.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-problem.html" title="Težave z omrežjem">Težave z omrežjem</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">iskanje brezžične povezave</a></span> …</span></div>
+<div class="links-grid-link"><a href="net-problem.html.sl" title="Težave z omrežjem">Težave z omrežjem</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.sl" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html.sl" title="I can’t see my wireless network in the list">iskanje brezžične povezave</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-security.html" title="Varnost na internetu">Varnost na internetu</a></div>
+<div class="links-grid-link"><a href="net-security.html.sl" title="Varnost na internetu">Varnost na internetu</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-antivirus.html" title="Ali potrebujem protivirusni program?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Omogočanje in blokiranje dostopa do požarnega zidu">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Pogosto uporabljena vrata omrežja">firewall ports</a></span>…
+      <span class="link"><a href="net-antivirus.html.sl" title="Ali potrebujem protivirusni program?">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.sl" title="Omogočanje in blokiranje dostopa do požarnega zidu">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.sl" title="Pogosto uporabljena vrata omrežja">firewall ports</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html" title="Žične povezave">Žične povezave</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html" title="Povezava z žičnim (Eternet) omrežjem">Žične internetne povezave</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Ustvarite povezavo s stalnim naslovom IP">Stalni naslovi IP</a></span> …</span></div>
+<div class="links-grid-link"><a href="net-wired.html.sl" title="Žične povezave">Žične povezave</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.sl" title="Povezava z žičnim (Eternet) omrežjem">Žične internetne povezave</a></span>, <span class="link"><a href="net-fixed-ip-address.html.sl" title="Ustvarite povezavo s stalnim naslovom IP">Stalni naslovi IP</a></span> …</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.sl" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

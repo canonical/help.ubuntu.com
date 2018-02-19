@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Uvod v  GNOME</span></h1></div>
@@ -53,17 +53,17 @@
 <div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="Vrhnja vrstica lupine GNOME"></div></div>
 <p class="p">The top bar provides access to your windows and applications, your
   calendar and appointments, and
-  <span class="link"><a href="status-icons.html" title="Kaj pomenijo ikone v vrhnji vrstici?">system properties</a></span> like sound, networking,
+  <span class="link"><a href="status-icons.html.sl" title="Kaj pomenijo ikone v vrhnji vrstici?">system properties</a></span> like sound, networking,
   and power. In the status menu in the top bar, you can change the volume or
   screen brightness, edit your <span class="gui">Wi-Fi</span> connection details, check your
   battery status, log out or switch users, and turn off your computer.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="shell-introduction.html#activities" title="Activities overview"><span class="gui">Activities</span> overview</a></li>
-<li class="links "><a href="shell-introduction.html#appmenu" title="Application menu">Application menu</a></li>
-<li class="links "><a href="shell-introduction.html#clock" title="Ura, koledar in sestanki">Ura, koledar in sestanki</a></li>
-<li class="links "><a href="shell-introduction.html#yourname" title="Vi in vaš računalnik">Vi in vaš računalnik</a></li>
-<li class="links "><a href="shell-introduction.html#lockscreen" title="Zakleni zaslon">Zakleni zaslon</a></li>
-<li class="links "><a href="shell-introduction.html#window-list" title="Window List">Window List</a></li>
+<li class="links "><a href="shell-introduction.html.sl#activities" title="Activities overview"><span class="gui">Activities</span> overview</a></li>
+<li class="links "><a href="shell-introduction.html.sl#appmenu" title="Application menu">Application menu</a></li>
+<li class="links "><a href="shell-introduction.html.sl#clock" title="Ura, koledar in sestanki">Ura, koledar in sestanki</a></li>
+<li class="links "><a href="shell-introduction.html.sl#yourname" title="Vi in vaš računalnik">Vi in vaš računalnik</a></li>
+<li class="links "><a href="shell-introduction.html.sl#lockscreen" title="Zakleni zaslon">Zakleni zaslon</a></li>
+<li class="links "><a href="shell-introduction.html.sl#window-list" title="Window List">Window List</a></li>
 </ul></div></div></div>
 </div>
 <div id="activities" class="sect"><div class="inner">
@@ -73,7 +73,7 @@
 <p class="p">To access your windows and applications,
   click the <span class="gui">Activities</span> button, or just move your mouse pointer to
   the top-left hot corner. You can also press the
-  <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> key on your keyboard. You can
+  <span class="key"><a href="keyboard-key-super.html.sl" title="What is the Super key?"><kbd>Super</kbd></a></span> key on your keyboard. You can
   see your windows and applications in the overview. You can also just start
   typing to search your applications, files, folders, and the web.</p>
 <div class="media media-image floatstart if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-dash.png" height="300" class="media media-block" alt="Pregledna plošča"></div></div>
@@ -89,8 +89,8 @@
   the dash to make it a favorite. Your favorite applications stay in the dash
   even when they’re not running, so you can access them quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html" title="Zaganjanje programov">Naučite se več o zaganjanju programov.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="Okna in delovne površine">Naučite se več o oknih in delovnih prostorih.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html.sl" title="Zaganjanje programov">Naučite se več o zaganjanju programov.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows.html.sl" title="Okna in delovne površine">Naučite se več o oknih in delovnih prostorih.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -116,8 +116,8 @@
   time settings and open your full <span class="app">Evolution</span> calendar directly from
   the menu.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html" title="Sestanki v koledarju">Naučite se več o koledarju in sestankih.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="Okna in delovne površine">Naučite se več o obvestilih in vrstici sporočanja.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html.sl" title="Sestanki v koledarju">Naučite se več o koledarju in sestankih.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows.html.sl" title="Okna in delovne površine">Naučite se več o obvestilih in vrstici sporočanja.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -134,7 +134,7 @@
   that supports vertical or horizontal rotation, you can quickly rotate the 
   screen from the system menu. If your screen does not support rotation, 
   you will not see the button.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows.html" title="Okna in delovne površine">Naučite se več o preklapljanju uporabnikov, odjavi in izklopu računalnika.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows.html.sl" title="Okna in delovne površine">Naučite se več o preklapljanju uporabnikov, odjavi in izklopu računalnika.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div id="lockscreen" class="sect"><div class="inner">
@@ -146,7 +146,7 @@
   computer, the lock screen displays the date and time. It also shows
   information about your battery and network status, and allows you to control
   media playback.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html" title="Zakleni zaslon">Izvejte več o zaklepanju zaslona.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html.sl" title="Zakleni zaslon">Izvejte več o zaklepanju zaslona.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div id="window-list" class="sect"><div class="inner">
@@ -155,7 +155,7 @@
 <p class="p">GNOME features a different approach to switching windows than a
     permanently visible window list found in other desktop environments. This
     lets you focus on the task at hand without distractions.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Preklop med okni">Learn more about switching
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html.sl" title="Preklop med okni">Learn more about switching
         windows.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
@@ -164,13 +164,13 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="index.html" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li>
+<li class="links "><a href="index.html.sl" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Your desktop">Your desktop</a><span class="desc"> — 
-      <span class="link"><a href="clock-calendar.html" title="Sestanki v koledarju">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="Obvestila in vrstica sporočanja">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="Uporabne tipkovne bližnjice">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="Okna in delovne površine">windows and workspaces</a></span>…
+<a href="shell-overview.html.sl" title="Your desktop">Your desktop</a><span class="desc"> — 
+      <span class="link"><a href="clock-calendar.html.sl" title="Sestanki v koledarju">Calendar</a></span>,
+      <span class="link"><a href="shell-notifications.html.sl" title="Obvestila in vrstica sporočanja">notifications</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.sl" title="Uporabne tipkovne bližnjice">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-windows.html.sl" title="Okna in delovne površine">windows and workspaces</a></span>…
     </span>
 </li>
 </ul></div>

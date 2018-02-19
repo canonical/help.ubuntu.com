@@ -43,35 +43,35 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="user-accounts.html" title="Uživatelské účty">Uživatelé</a> › <a class="trail" href="user-accounts.html#privileges" title="Uživatelská oprávnění">Oprávnění</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="user-accounts.html.cs" title="Uživatelské účty">Uživatelé</a> › <a class="trail" href="user-accounts.html.cs#privileges" title="Uživatelská oprávnění">Oprávnění</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problémy způsobené omezeními od správců</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Pokud nemáte <span class="link"><a href="user-admin-explain.html" title="Jak fungují oprávnění správce?">oprávnění správce</a></span>, můžete narazit na pár překážek. Některé činnosti vyžadují oprávnění správce, jinak je není možné provést. Patří k nim:</p>
+<p class="p">Pokud nemáte <span class="link"><a href="user-admin-explain.html.cs" title="Jak fungují oprávnění správce?">oprávnění správce</a></span>, můžete narazit na pár překážek. Některé činnosti vyžadují oprávnění správce, jinak je není možné provést. Patří k nim:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">připojování k sítím, včetně bezdrátových</p></li>
 <li class="list"><p class="p">prohlížení obsahu jiných diskových oddílů (například oddílu s Windows)</p></li>
 <li class="list"><p class="p">instalace nových aplikací</p></li>
 </ul></div></div></div>
-<p class="p">Můžete <span class="link"><a href="user-admin-change.html" title="Změna osob s oprávněním správce">změnit, kdo má správcovská oprávnění</a></span>.</p>
+<p class="p">Můžete <span class="link"><a href="user-admin-change.html.cs" title="Změna osob s oprávněním správce">změnit, kdo má správcovská oprávnění</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Uživatelská oprávnění">Uživatelská oprávnění</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.cs#privileges" title="Uživatelská oprávnění">Uživatelská oprávnění</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Jak fungují oprávnění správce?">Jak fungují oprávnění správce?</a><span class="desc"> — Oprávnění správce jsou zapotřebí ke změnám důležitých částí systému.</span>
+<a href="user-admin-explain.html.cs" title="Jak fungují oprávnění správce?">Jak fungují oprávnění správce?</a><span class="desc"> — Oprávnění správce jsou zapotřebí ke změnám důležitých částí systému.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="Změna osob s oprávněním správce">Změna osob s oprávněním správce</a><span class="desc"> — Jak přidělením oprávnění správce umožnit uživatelům provádět změny systému.</span>
+<a href="user-admin-change.html.cs" title="Změna osob s oprávněním správce">Změna osob s oprávněním správce</a><span class="desc"> — Jak přidělením oprávnění správce umožnit uživatelům provádět změny systému.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="accounts.html" title="Tiešsaistes konti">Tiešsaistes konti</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="accounts.html.lv" title="Tiešsaistes konti">Tiešsaistes konti</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tiešsaistes servisi un lietotnes</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Pēc tiešsaistes konta pievienošanas, jebkura lietotne var izmantot to kontu jebkuram pieejamam pakalpojumam, ko neesat <span class="link"><a href="accounts-disable-service.html" title="Noteikt, kurus tiešsaistes servisus var lietot ar šo kontu">izslēdzis</a></span>. Dažādi pakalpojumu sniedzēji nodrošina dažādus pakalpojumus. Šajā lapā ir uzskaitīti dažādi pakalpojumi un dažas lietotnes, kuras šos pakalpojumus izmanto.</p>
+<p class="p">Pēc tiešsaistes konta pievienošanas, jebkura lietotne var izmantot to kontu jebkuram pieejamam pakalpojumam, ko neesat <span class="link"><a href="accounts-disable-service.html.lv" title="Noteikt, kurus tiešsaistes servisus var lietot ar šo kontu">izslēdzis</a></span>. Dažādi pakalpojumu sniedzēji nodrošina dažādus pakalpojumus. Šajā lapā ir uzskaitīti dažādi pakalpojumi un dažas lietotnes, kuras šos pakalpojumus izmanto.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Kalendārs</dt>
 <dd class="terms"><p class="p">Kalendāra pakalpojums jums ļauj skatīt, pievienot un rediģēt notikumus tiešsaistes kalendārā. To izmanto <span class="app">Kalendārs</span>, <span class="app">Evolution</span> un <span class="app">California</span> lietotnes.</p></dd>
@@ -60,7 +60,7 @@
 <dt class="terms">Dokumenti</dt>
 <dd class="terms"><p class="p">Dokumentu pakalpojums jums ļauj skatīt tiešsaistes dokumentus, piemēram Google docs. Jūs varat skatīt savus dokumentus, izmantojot <span class="app">Dokumentu</span> lietotni.</p></dd>
 <dt class="terms">Datnes</dt>
-<dd class="terms"><p class="p">Datņu pakalpojums pievieno attālināto datņu atrašanās vietas, it kā tās būtu pievienotas ar <span class="link"><a href="nautilus-connect.html" title="Pārlūkojiet datnes uz servera vai tīkla koplietojumā">Savienoties ar serveri</a></span> funkcionalitāti datņu pārvaldniekā. Jūs varat piekļūt attālinātām datnēm, izmantojot datņu pārvaldnieku, kā arī caur datņu atvēršanas un saglabāšanas dialoglodziņiem jebkurā lietotnē.</p></dd>
+<dd class="terms"><p class="p">Datņu pakalpojums pievieno attālināto datņu atrašanās vietas, it kā tās būtu pievienotas ar <span class="link"><a href="nautilus-connect.html.lv" title="Pārlūkojiet datnes uz servera vai tīkla koplietojumā">Savienoties ar serveri</a></span> funkcionalitāti datņu pārvaldniekā. Jūs varat piekļūt attālinātām datnēm, izmantojot datņu pārvaldnieku, kā arī caur datņu atvēršanas un saglabāšanas dialoglodziņiem jebkurā lietotnē.</p></dd>
 <dt class="terms">E-pasts</dt>
 <dd class="terms"><p class="p">Pasta pakalpojums jums ļauj sūtīt un saņemt e-pastu, izmantojot pasta pakalpojuma sniedzēju, piemēram, Google. To izmanto <span class="app">Evolution</span>.</p></dd>
 <dt class="terms">Fotogrāfijas</dt>
@@ -77,13 +77,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Tiešsaistes konti">Tiešsaistes konti</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Pievienot kontu">Izveidot tiešsaistes kontu</a></span>, <span class="link"><a href="accounts-remove.html" title="Izņemt kontu">Izņemt kontu</a></span>, <span class="link"><a href="accounts-which-application.html" title="Tiešsaistes servisi un lietotnes">Uzzināt par pakalpojumiem</a></span>…</span>
+<a href="accounts.html.lv" title="Tiešsaistes konti">Tiešsaistes konti</a><span class="desc"> — <span class="link"><a href="accounts-add.html.lv" title="Pievienot kontu">Izveidot tiešsaistes kontu</a></span>, <span class="link"><a href="accounts-remove.html.lv" title="Izņemt kontu">Izņemt kontu</a></span>, <span class="link"><a href="accounts-which-application.html.lv" title="Tiešsaistes servisi un lietotnes">Uzzināt par pakalpojumiem</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="Noteikt, kurus tiešsaistes servisus var lietot ar šo kontu">Noteikt, kurus tiešsaistes servisus var lietot ar šo kontu</a><span class="desc"> — Daži tiešsaistes konti var tikt izmantoti, lai piekļūtu vairākiem servisiem (piemēram, kalendārs un e-pasts). Jūs varat noteikt, kurus no šiem servisiem var izmantot lietotnes.</span>
+<a href="accounts-disable-service.html.lv" title="Noteikt, kurus tiešsaistes servisus var lietot ar šo kontu">Noteikt, kurus tiešsaistes servisus var lietot ar šo kontu</a><span class="desc"> — Daži tiešsaistes konti var tikt izmantoti, lai piekļūtu vairākiem servisiem (piemēram, kalendārs un e-pasts). Jūs varat noteikt, kurus no šiem servisiem var izmantot lietotnes.</span>
 </li></ul></div>
 </div></div>
 </div>

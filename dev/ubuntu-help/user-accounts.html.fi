@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Käyttäjätilit</span></h1></div>
@@ -56,32 +56,32 @@
 <div class="hgroup"><h2 class="title"><span class="title">Hallitse käyttäjätilejä</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Lisää uusi käyttäjätili"><span class="title">Lisää uusi käyttäjätili</span><span class="linkdiv-dash"> — </span><span class="desc">Lisää uusia käyttäjiä, jotta myös muut ihmiset voivat käyttää tietokonetta.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Kirjaudu automaattisesti"><span class="title">Kirjaudu automaattisesti</span><span class="linkdiv-dash"> — </span><span class="desc">Ota automaattinen kirjautuminen käyttöön, kun käynnistät koneen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-add.html.fi" title="Lisää uusi käyttäjätili"><span class="title">Lisää uusi käyttäjätili</span><span class="linkdiv-dash"> — </span><span class="desc">Lisää uusia käyttäjiä, jotta myös muut ihmiset voivat käyttää tietokonetta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html.fi" title="Kirjaudu automaattisesti"><span class="title">Kirjaudu automaattisesti</span><span class="linkdiv-dash"> — </span><span class="desc">Ota automaattinen kirjautuminen käyttöön, kun käynnistät koneen.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Poista käyttäjätili"><span class="title">Poista käyttäjätili</span><span class="linkdiv-dash"> — </span><span class="desc">Poista tarpeettomat käyttäjät.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Vaihda sisäänkirjautumisruudussa käytettävä kuva"><span class="title">Vaihda sisäänkirjautumisruudussa käytettävä kuva</span><span class="linkdiv-dash"> — </span><span class="desc">Lisää kuvasi sisäänkirjautumis- ja käyttäjänvaihtonäkymään.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html.fi" title="Poista käyttäjätili"><span class="title">Poista käyttäjätili</span><span class="linkdiv-dash"> — </span><span class="desc">Poista tarpeettomat käyttäjät.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html.fi" title="Vaihda sisäänkirjautumisruudussa käytettävä kuva"><span class="title">Vaihda sisäänkirjautumisruudussa käytettävä kuva</span><span class="linkdiv-dash"> — </span><span class="desc">Lisää kuvasi sisäänkirjautumis- ja käyttäjänvaihtonäkymään.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="passwords" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Salasanat</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html" title="Vaihda salasanasi"><span class="title">Vaihda salasanasi</span><span class="linkdiv-dash"> — </span><span class="desc">Pidä tunnuksesi turvassa vaihtamalla salasanasi säännöllisesti.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html" title="Valitse turvallinen salasana"><span class="title">Valitse turvallinen salasana</span><span class="linkdiv-dash"> — </span><span class="desc">Käytä pitkiä ja monimutkaisia salasanoja.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html.fi" title="Vaihda salasanasi"><span class="title">Vaihda salasanasi</span><span class="linkdiv-dash"> — </span><span class="desc">Pidä tunnuksesi turvassa vaihtamalla salasanasi säännöllisesti.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html.fi" title="Valitse turvallinen salasana"><span class="title">Valitse turvallinen salasana</span><span class="linkdiv-dash"> — </span><span class="desc">Käytä pitkiä ja monimutkaisia salasanoja.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="privileges" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Käyttäjäoikeudet</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html" title="Kuinka pääkäyttäjäoikeudet toimivat?"><span class="title">Kuinka pääkäyttäjäoikeudet toimivat?</span><span class="linkdiv-dash"> — </span><span class="desc">You need administrative privileges to change important parts of your
+<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.fi" title="Kuinka pääkäyttäjäoikeudet toimivat?"><span class="title">Kuinka pääkäyttäjäoikeudet toimivat?</span><span class="linkdiv-dash"> — </span><span class="desc">You need administrative privileges to change important parts of your
     system.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html" title="Pääkäyttäjäoikeuksien puuttumisesta koituvat rajoitteet"><span class="title">Pääkäyttäjäoikeuksien puuttumisesta koituvat rajoitteet</span><span class="linkdiv-dash"> — </span><span class="desc">You can do some things, like installing applications, only if you
+<div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.fi" title="Pääkäyttäjäoikeuksien puuttumisesta koituvat rajoitteet"><span class="title">Pääkäyttäjäoikeuksien puuttumisesta koituvat rajoitteet</span><span class="linkdiv-dash"> — </span><span class="desc">You can do some things, like installing applications, only if you
     have administrative privileges.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-change.html" title="Valitse ne tilit, joilla on pääkäyttäjäoikeudet"><span class="title">Valitse ne tilit, joilla on pääkäyttäjäoikeudet</span><span class="linkdiv-dash"> — </span><span class="desc">You can allow users to make changes to the system by giving them
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.fi" title="Valitse ne tilit, joilla on pääkäyttäjäoikeudet"><span class="title">Valitse ne tilit, joilla on pääkäyttäjäoikeudet</span><span class="linkdiv-dash"> — </span><span class="desc">You can allow users to make changes to the system by giving them
     administrative privileges.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
@@ -90,7 +90,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html" title="Hiiri">hiiri</a></span>, <span class="link"><a href="prefs-display.html" title="Näyttö">näytöt</a></span>, <span class="link"><a href="prefs-language.html" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html" title="Käyttäjätilit">käyttäjätilit</a></span>…</span>
+<a href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a><span class="desc"> — <span class="link"><a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html.fi" title="Hiiri">hiiri</a></span>, <span class="link"><a href="prefs-display.html.fi" title="Näyttö">näytöt</a></span>, <span class="link"><a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html.fi" title="Käyttäjätilit">käyttäjätilit</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

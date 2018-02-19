@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="power.html#problems" title="Problem">Strömproblem</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html.sv#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="power.html.sv#problems" title="Problem">Strömproblem</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Jag har inget trådlöst nätverk när jag väcker datorn</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Om du har försatt din dator i vänteläge kan du komma att upptäcka att din trådlösa internetanslutning inte fungerar när du startar den igen. Detta händer när <span class="link"><a href="hardware-driver.html" title="Vad är en drivrutin?">drivrutinen</a></span> för den trådlösa enheten inte har fullständigt stöd för vissa strömsparsfunktioner. Typiskt kommer den trådlösa anslutningen att misslyckas att slås på när datorn återstartar.</p>
+<p class="p">Om du har försatt din dator i vänteläge kan du komma att upptäcka att din trådlösa internetanslutning inte fungerar när du startar den igen. Detta händer när <span class="link"><a href="hardware-driver.html.sv" title="Vad är en drivrutin?">drivrutinen</a></span> för den trådlösa enheten inte har fullständigt stöd för vissa strömsparsfunktioner. Typiskt kommer den trådlösa anslutningen att misslyckas att slås på när datorn återstartar.</p>
 <p class="p">Om detta händer, prova att stänga av och slå på den trådlösa anslutningen igen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Nätverk</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Nätverk</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Nätverk</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Välj <span class="gui">Trådlöst nätverk</span>.</p></li>
 <li class="steps"><p class="p">Slå <span class="gui">AV</span> det trådlösa nätverket och slå sedan <span class="gui">PÅ</span> det igen.</p></li>
@@ -66,17 +66,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html#problems" title="Problem">Strömproblem</a><span class="desc"> — Felsök problem med ström och batterier.</span>
+<a href="power.html.sv#problems" title="Problem">Strömproblem</a><span class="desc"> — Felsök problem med ström och batterier.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-driver.html" title="Vad är en drivrutin?">Vad är en drivrutin?</a><span class="desc"> — En hårdvaru-/enhetsdrivrutin låter din dator använda enheter som ansluts till den.</span>
+<a href="hardware-driver.html.sv" title="Vad är en drivrutin?">Vad är en drivrutin?</a><span class="desc"> — En hårdvaru-/enhetsdrivrutin låter din dator använda enheter som ansluts till den.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Varför återstartar inte min dator efter att jag har försatt den i vänteläge?">Varför återstartar inte min dator efter att jag har försatt den i vänteläge?</a><span class="desc"> — Viss datorhårdvara orsakar problem med vänteläge.</span>
+<a href="power-suspendfail.html.sv" title="Varför återstartar inte min dator efter att jag har försatt den i vänteläge?">Varför återstartar inte min dator efter att jag har försatt den i vänteläge?</a><span class="desc"> — Viss datorhårdvara orsakar problem med vänteläge.</span>
 </li>
 </ul></div>
 </div></div>

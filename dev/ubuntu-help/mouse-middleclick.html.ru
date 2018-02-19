@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="mouse.html" title="Мышь">Мышь</a> › <a class="trail" href="mouse.html#tips" title="Советы">Советы</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="mouse.html.ru" title="Мышь">Мышь</a> › <a class="trail" href="mouse.html.ru#tips" title="Советы">Советы</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="mouse.html" title="Мышь">Мышь</a> › <a class="trail" href="mouse.html#tips" title="Советы">Советы</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="mouse.html.ru" title="Мышь">Мышь</a> › <a class="trail" href="mouse.html.ru#tips" title="Советы">Советы</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Полезные советы">Полезные советы</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.ru" title="Полезные советы">Полезные советы</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@ with a scroll wheel, you can usually press directly down on the scroll
 wheel to middle-click. If you don’t have a middle mouse button, you
 can press the left and right mouse buttons at the same time to
 middle-click.</p>
-<p class="p">На сенсорных панелях с поддержкой многопальцевого касания для воспроизведения нажатия колёсиком мышки, используется одновременное касание тремя пальцами. Чтобы включить эту возможность, отметьте параметр <span class="link"><a href="mouse-touchpad-click.html" title="Нажатия, перетаскивание и прокрутка с помощью сенсорной панели">щелчок при касании</a></span> в настройках сенсорной панели.</p>
+<p class="p">На сенсорных панелях с поддержкой многопальцевого касания для воспроизведения нажатия колёсиком мышки, используется одновременное касание тремя пальцами. Чтобы включить эту возможность, отметьте параметр <span class="link"><a href="mouse-touchpad-click.html.ru" title="Нажатия, перетаскивание и прокрутка с помощью сенсорной панели">щелчок при касании</a></span> в настройках сенсорной панели.</p>
 <p class="p">Многие приложения используют нажатие средней кнопки мыши для дополнительных действий.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
@@ -83,9 +83,9 @@ button for other functions. Search your application’s help for
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="tips.html" title="Полезные советы">Полезные советы</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Ввод специальных символов">Специальные символы</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Нажатие средней кнопки мыши">использование средней кнопки мыши</a></span>…</span>
+<a href="tips.html.ru" title="Полезные советы">Полезные советы</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.ru" title="Ввод специальных символов">Специальные символы</a></span>, <span class="link"><a href="mouse-middleclick.html.ru" title="Нажатие средней кнопки мыши">использование средней кнопки мыши</a></span>…</span>
 </li>
-<li class="links "><a href="mouse.html#tips" title="Советы">Советы по использованию мыши</a></li>
+<li class="links "><a href="mouse.html.ru#tips" title="Советы">Советы по использованию мыши</a></li>
 </ul></div>
 </div></div></div>
 </div>

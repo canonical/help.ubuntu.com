@@ -44,28 +44,28 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Värinhallinta</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="color-assignprofiles.html" title="Kuinka kohdistan profiileja laitteisiin?"><span class="title">Kuinka kohdistan profiileja laitteisiin?</span><span class="linkdiv-dash"> — </span><span class="desc">Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-whyimportant.html" title="Miksi värinhallinnalla on merkitystä?"><span class="title">Miksi värinhallinnalla on merkitystä?</span><span class="linkdiv-dash"> — </span><span class="desc">Värinhallinta on tärkeää suunnittelijoile, valokuvaajille ja taiteilijoille.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-assignprofiles.html.fi" title="Kuinka kohdistan profiileja laitteisiin?"><span class="title">Kuinka kohdistan profiileja laitteisiin?</span><span class="linkdiv-dash"> — </span><span class="desc">Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whyimportant.html.fi" title="Miksi värinhallinnalla on merkitystä?"><span class="title">Miksi värinhallinnalla on merkitystä?</span><span class="linkdiv-dash"> — </span><span class="desc">Värinhallinta on tärkeää suunnittelijoile, valokuvaajille ja taiteilijoille.</span></a></div>
 </div></div></div></div>
 <div id="profiles" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Väriprofiilit</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html" title="Kuinka tuon väriprofiileja?"><span class="title">Kuinka tuon väriprofiileja?</span><span class="linkdiv-dash"> — </span><span class="desc">Väriprofiilit on helppo tuoda avaamalle ne.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-gettingprofiles.html" title="Mistä saan väriprofiileja?"><span class="title">Mistä saan väriprofiileja?</span><span class="linkdiv-dash"> — </span><span class="desc">Väriprofiileja tarjoavat laitevalmistaja ja lisäksi niitä on mahdollista luoda itse.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html.fi" title="Kuinka tuon väriprofiileja?"><span class="title">Kuinka tuon väriprofiileja?</span><span class="linkdiv-dash"> — </span><span class="desc">Väriprofiilit on helppo tuoda avaamalle ne.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-gettingprofiles.html.fi" title="Mistä saan väriprofiileja?"><span class="title">Mistä saan väriprofiileja?</span><span class="linkdiv-dash"> — </span><span class="desc">Väriprofiileja tarjoavat laitevalmistaja ja lisäksi niitä on mahdollista luoda itse.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-whatisspace.html" title="Mitä väriavaruus tarkoittaa?"><span class="title">Mitä väriavaruus tarkoittaa?</span><span class="linkdiv-dash"> — </span><span class="desc">Väriavaruus on määritelty alue värejä.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-whatisprofile.html" title="Mitä väriprofiili tarkoittaa?"><span class="title">Mitä väriprofiili tarkoittaa?</span><span class="linkdiv-dash"> — </span><span class="desc">Väriprofiili on tiedosto, joka ilmaisee laitteen väriominaisuuksia, kuten väriavaruuden.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whatisspace.html.fi" title="Mitä väriavaruus tarkoittaa?"><span class="title">Mitä väriavaruus tarkoittaa?</span><span class="linkdiv-dash"> — </span><span class="desc">Väriavaruus on määritelty alue värejä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whatisprofile.html.fi" title="Mitä väriprofiili tarkoittaa?"><span class="title">Mitä väriprofiili tarkoittaa?</span><span class="linkdiv-dash"> — </span><span class="desc">Väriprofiili on tiedosto, joka ilmaisee laitteen väriominaisuuksia, kuten väriavaruuden.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -73,17 +73,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Kalibrointi</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html" title="Kuinka kalibroin kamerani?"><span class="title">Kuinka kalibroin kamerani?</span><span class="linkdiv-dash"> — </span><span class="desc">Digitaalikameran kalibrointi on tärkeää värien tarkan tallennuksen vuoksi.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html" title="Kuinka kalibroin kuvanlukijani?"><span class="title">Kuinka kalibroin kuvanlukijani?</span><span class="linkdiv-dash"> — </span><span class="desc">Kuvanlukijan kalibrointi on tärkeää mahdollisimman tarkkojen värien tallentamiseksi.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html" title="Kuinka kalibroin näyttöni?"><span class="title">Kuinka kalibroin näyttöni?</span><span class="linkdiv-dash"> — </span><span class="desc">Näytön kalibrointi on tärkeää tarkkojen värisävyjen näyttämiseksi.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html" title="Kuinka kalibroin tulostimeni?"><span class="title">Kuinka kalibroin tulostimeni?</span><span class="linkdiv-dash"> — </span><span class="desc">Tulostimen kalibrointi on tärkeää mahdollisimman tarkkojen värisävyjen tulostamiseksi.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html" title="Miksi minun pitää tehdä kalibrointi itse?"><span class="title">Miksi minun pitää tehdä kalibrointi itse?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrointi on tärkeää, jos välität näytettävistä tai tulostettavista väreistä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html.fi" title="Kuinka kalibroin kamerani?"><span class="title">Kuinka kalibroin kamerani?</span><span class="linkdiv-dash"> — </span><span class="desc">Digitaalikameran kalibrointi on tärkeää värien tarkan tallennuksen vuoksi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html.fi" title="Kuinka kalibroin kuvanlukijani?"><span class="title">Kuinka kalibroin kuvanlukijani?</span><span class="linkdiv-dash"> — </span><span class="desc">Kuvanlukijan kalibrointi on tärkeää mahdollisimman tarkkojen värien tallentamiseksi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html.fi" title="Kuinka kalibroin näyttöni?"><span class="title">Kuinka kalibroin näyttöni?</span><span class="linkdiv-dash"> — </span><span class="desc">Näytön kalibrointi on tärkeää tarkkojen värisävyjen näyttämiseksi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html.fi" title="Kuinka kalibroin tulostimeni?"><span class="title">Kuinka kalibroin tulostimeni?</span><span class="linkdiv-dash"> — </span><span class="desc">Tulostimen kalibrointi on tärkeää mahdollisimman tarkkojen värisävyjen tulostamiseksi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html.fi" title="Miksi minun pitää tehdä kalibrointi itse?"><span class="title">Miksi minun pitää tehdä kalibrointi itse?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrointi on tärkeää, jos välität näytettävistä tai tulostettavista väreistä.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html" title="Mitkä kohteet ovat tuettuja?"><span class="title">Mitkä kohteet ovat tuettuja?</span><span class="linkdiv-dash"> — </span><span class="desc">Kuvanlukijan ja kameran profilointi vaatii kalibrointikohteen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html" title="Mitkä värinmäärityslaitteet ovat tuettuja?"><span class="title">Mitkä värinmäärityslaitteet ovat tuettuja?</span><span class="linkdiv-dash"> — </span><span class="desc">Tuettuna on suuri määrä kalibrointilaitteita.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html" title="Voinko jakaa väriprofiilini?"><span class="title">Voinko jakaa väriprofiilini?</span><span class="linkdiv-dash"> — </span><span class="desc">Väriprofiilien jako ei ole hyvä idea, sillä laitteisto muuttuu ajan myötä.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html" title="What’s the difference between calibration and characterization?"><span class="title">What’s the difference between calibration and characterization?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrointi ja profilointi ovat täysin eri asioita.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html.fi" title="Mitkä kohteet ovat tuettuja?"><span class="title">Mitkä kohteet ovat tuettuja?</span><span class="linkdiv-dash"> — </span><span class="desc">Kuvanlukijan ja kameran profilointi vaatii kalibrointikohteen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html.fi" title="Mitkä värinmäärityslaitteet ovat tuettuja?"><span class="title">Mitkä värinmäärityslaitteet ovat tuettuja?</span><span class="linkdiv-dash"> — </span><span class="desc">Tuettuna on suuri määrä kalibrointilaitteita.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html.fi" title="Voinko jakaa väriprofiilini?"><span class="title">Voinko jakaa väriprofiilini?</span><span class="linkdiv-dash"> — </span><span class="desc">Väriprofiilien jako ei ole hyvä idea, sillä laitteisto muuttuu ajan myötä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html.fi" title="What’s the difference between calibration and characterization?"><span class="title">What’s the difference between calibration and characterization?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrointi ja profilointi ovat täysin eri asioita.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -91,13 +91,13 @@
 <div class="hgroup"><h2 class="title"><span class="title">Ongelmat</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-notifications.html" title="Can I get notified when my color profile is inaccurate?"><span class="title">Can I get notified when my color profile is inaccurate?</span><span class="linkdiv-dash"> — </span><span class="desc">You can be notified if your color profile is old and inaccurate.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-testing.html" title="How do I test if color management is working correctly?"><span class="title">How do I test if color management is working correctly?</span><span class="linkdiv-dash"> — </span><span class="desc">Use the supplied test profiles to check that your profiles are being
+<div class="linkdiv "><a class="linkdiv" href="color-notifications.html.fi" title="Can I get notified when my color profile is inaccurate?"><span class="title">Can I get notified when my color profile is inaccurate?</span><span class="linkdiv-dash"> — </span><span class="desc">You can be notified if your color profile is old and inaccurate.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-testing.html.fi" title="How do I test if color management is working correctly?"><span class="title">How do I test if color management is working correctly?</span><span class="linkdiv-dash"> — </span><span class="desc">Use the supplied test profiles to check that your profiles are being
     applied correctly to your screen.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-missingvcgt.html" title="Puuttuvat tiedot koko näytön värinkorjausta varten?"><span class="title">Puuttuvat tiedot koko näytön värinkorjausta varten?</span><span class="linkdiv-dash"> — </span><span class="desc">Koko näytön värinkorjaus muokkaa kaikkia ruudun värejä kaikissa ikkunoissa.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html" title="Why don’t the default monitor profiles have a calibration expiry?"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">Default monitor profiles do not have a calibration date.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-missingvcgt.html.fi" title="Puuttuvat tiedot koko näytön värinkorjausta varten?"><span class="title">Puuttuvat tiedot koko näytön värinkorjausta varten?</span><span class="linkdiv-dash"> — </span><span class="desc">Koko näytön värinkorjaus muokkaa kaikkia ruudun värejä kaikissa ikkunoissa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html.fi" title="Why don’t the default monitor profiles have a calibration expiry?"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">Default monitor profiles do not have a calibration date.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -107,10 +107,10 @@
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html" title="Hiiri">hiiri</a></span>, <span class="link"><a href="prefs-display.html" title="Näyttö">näytöt</a></span>, <span class="link"><a href="prefs-language.html" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html" title="Käyttäjätilit">käyttäjätilit</a></span>…</span>
+<a href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a><span class="desc"> — <span class="link"><a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html.fi" title="Hiiri">hiiri</a></span>, <span class="link"><a href="prefs-display.html.fi" title="Näyttö">näytöt</a></span>, <span class="link"><a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html.fi" title="Käyttäjätilit">käyttäjätilit</a></span>…</span>
 </li>
 <li class="links ">
-<a href="hardware.html" title="Laitteisto ja ajurit">Laitteisto ja ajurit</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Yleisiä ongelmia">Laitteisto-ongelmat</a></span>, <span class="link"><a href="printing.html" title="Tulostaminen">tulostimet</a></span>, <span class="link"><a href="power.html" title="Virransäästö ja akku">virranhallinta</a></span>, <span class="link"><a href="color.html" title="Värinhallinta">värinhallinta</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Levyt ja tiedon tallennus">levyt</a></span>…</span>
+<a href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto ja ajurit</a><span class="desc"> — <span class="link"><a href="hardware.html.fi#problems" title="Yleisiä ongelmia">Laitteisto-ongelmat</a></span>, <span class="link"><a href="printing.html.fi" title="Tulostaminen">tulostimet</a></span>, <span class="link"><a href="power.html.fi" title="Virransäästö ja akku">virranhallinta</a></span>, <span class="link"><a href="color.html.fi" title="Värinhallinta">värinhallinta</a></span>, <span class="link"><a href="bluetooth.html.fi" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.fi" title="Levyt ja tiedon tallennus">levyt</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

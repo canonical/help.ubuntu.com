@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html#common-file-tasks" title="Типичные задачи">Типичные задачи</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ru" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html.ru#common-file-tasks" title="Типичные задачи">Типичные задачи</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Копирование и перемещение файлов и папок</span></h1></div>
@@ -104,7 +104,7 @@
 <div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">You cannot copy or move a file into a folder that is <span class="em">read-only</span>.
   Some folders are read-only to prevent you from making changes to their
   contents. You can change things from being read-only by
-  <span class="link"><a href="nautilus-file-properties-permissions.html" title="Настройка прав доступа к файлам">changing file permissions
+  <span class="link"><a href="nautilus-file-properties-permissions.html.ru" title="Настройка прав доступа к файлам">changing file permissions
   </a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -112,12 +112,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Типичные задачи">Типичные задачи</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ru#common-file-tasks" title="Типичные задачи">Типичные задачи</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-browse.html" title="Навигация по файлам и папкам">Навигация по файлам и папкам</a><span class="desc"> — Управление файлами с помощью менеджера файлов.</span>
+<a href="files-browse.html.ru" title="Навигация по файлам и папкам">Навигация по файлам и папкам</a><span class="desc"> — Управление файлами с помощью менеджера файлов.</span>
 </li></ul></div>
 </div></div>
 </div>

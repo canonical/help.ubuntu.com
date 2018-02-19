@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#common-file-tasks" title="Κοινές εργασίες">Κοινές εργασίες</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#common-file-tasks" title="Κοινές εργασίες">Κοινές εργασίες</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Αντιγραφή ή μετακίνηση αρχείων και φακέλων</span></h1></div>
@@ -95,19 +95,19 @@
 </ol></div>
 </div>
 </div>
-<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Δεν μπορείτε να αντιγράψετε ή να μετακινήσετε ένα αρχείο σε έναν φάκελο που είναι <span class="em">μόνο για ανάγνωση</span>. Μερικοί φάκελοι είναι μόνο για ανάγνωση για να αποτρέψουν την αλλαγή των περιεχομένων τους. Μπορείτε να αλλάξετε πράγματα από το να είναι μόνο για ανάγνωση, <span class="link"><a href="nautilus-file-properties-permissions.html" title="Ορισμός δικαιωμάτων αρχείου">αλλάζοντας τα δικαιώματα του αρχείου</a></span>.</p></div></div></div></div>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Δεν μπορείτε να αντιγράψετε ή να μετακινήσετε ένα αρχείο σε έναν φάκελο που είναι <span class="em">μόνο για ανάγνωση</span>. Μερικοί φάκελοι είναι μόνο για ανάγνωση για να αποτρέψουν την αλλαγή των περιεχομένων τους. Μπορείτε να αλλάξετε πράγματα από το να είναι μόνο για ανάγνωση, <span class="link"><a href="nautilus-file-properties-permissions.html.el" title="Ορισμός δικαιωμάτων αρχείου">αλλάζοντας τα δικαιώματα του αρχείου</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Κοινές εργασίες">Κοινές εργασίες</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.el#common-file-tasks" title="Κοινές εργασίες">Κοινές εργασίες</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-browse.html" title="Περιήγηση αρχείων και φακέλων">Περιήγηση αρχείων και φακέλων</a><span class="desc"> — Διαχειριστείτε και οργανώστε αρχεία με τον διαχειριστή αρχείων.</span>
+<a href="files-browse.html.el" title="Περιήγηση αρχείων και φακέλων">Περιήγηση αρχείων και φακέλων</a><span class="desc"> — Διαχειριστείτε και οργανώστε αρχεία με τον διαχειριστή αρχείων.</span>
 </li></ul></div>
 </div></div>
 </div>

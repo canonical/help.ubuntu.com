@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,28 +54,28 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html" title="Ajustando a velocidade do clique duplo"><span class="title">Ajustando a velocidade do clique duplo</span><span class="linkdiv-dash"> — </span><span class="desc">Controle quão rapidamente você tem que pressionar o botão do mouse uma segunda vez para efetuar um clique duplo.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html" title="Ajustando a velocidade do mouse e do touchpad"><span class="title">Ajustando a velocidade do mouse e do touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Altere a velocidade de movimento do ponteiro quando você usa o mouse ou o touchpad.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html" title="Clicando e movendo o ponteiro do mouse usando o teclado"><span class="title">Clicando e movendo o ponteiro do mouse usando o teclado</span><span class="linkdiv-dash"> — </span><span class="desc">Habilite teclas do mouse para controlar o mouse com o teclado numérico.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html" title="Clicando, arrastando ou rolagem com o touchpad"><span class="title">Clicando, arrastando ou rolagem com o touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Clique, arraste ou role usando toques e gestos em seu touchpad.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.pt-BR" title="Ajustando a velocidade do clique duplo"><span class="title">Ajustando a velocidade do clique duplo</span><span class="linkdiv-dash"> — </span><span class="desc">Controle quão rapidamente você tem que pressionar o botão do mouse uma segunda vez para efetuar um clique duplo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.pt-BR" title="Ajustando a velocidade do mouse e do touchpad"><span class="title">Ajustando a velocidade do mouse e do touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Altere a velocidade de movimento do ponteiro quando você usa o mouse ou o touchpad.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.pt-BR" title="Clicando e movendo o ponteiro do mouse usando o teclado"><span class="title">Clicando e movendo o ponteiro do mouse usando o teclado</span><span class="linkdiv-dash"> — </span><span class="desc">Habilite teclas do mouse para controlar o mouse com o teclado numérico.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.pt-BR" title="Clicando, arrastando ou rolagem com o touchpad"><span class="title">Clicando, arrastando ou rolagem com o touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Clique, arraste ou role usando toques e gestos em seu touchpad.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html" title="Simulando cliques por flutuação"><span class="title">Simulando cliques por flutuação</span><span class="linkdiv-dash"> — </span><span class="desc">O recurso de <span class="gui">Clique flutuante</span> (Clique de permanência) permite que você clique ao manter o mouse parado.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html" title="Simulando o clique com o botão direito do mouse"><span class="title">Simulando o clique com o botão direito do mouse</span><span class="linkdiv-dash"> — </span><span class="desc">Pressione e mantenha o botão esquerdo do mouse para simular um clique com o botão direito.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html" title="Usando um mouse como canhoto"><span class="title">Usando um mouse como canhoto</span><span class="linkdiv-dash"> — </span><span class="desc">Inverta os botões esquerdo e direito nas configurações do mouse.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.pt-BR" title="Simulando cliques por flutuação"><span class="title">Simulando cliques por flutuação</span><span class="linkdiv-dash"> — </span><span class="desc">O recurso de <span class="gui">Clique flutuante</span> (Clique de permanência) permite que você clique ao manter o mouse parado.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.pt-BR" title="Simulando o clique com o botão direito do mouse"><span class="title">Simulando o clique com o botão direito do mouse</span><span class="linkdiv-dash"> — </span><span class="desc">Pressione e mantenha o botão esquerdo do mouse para simular um clique com o botão direito.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html.pt-BR" title="Usando um mouse como canhoto"><span class="title">Usando um mouse como canhoto</span><span class="linkdiv-dash"> — </span><span class="desc">Inverta os botões esquerdo e direito nas configurações do mouse.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Problemas comuns</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html" title="O mouse reage com um atraso antes que ele comece a funcionar"><span class="title">O mouse reage com um atraso antes que ele comece a funcionar</span><span class="linkdiv-dash"> — </span><span class="desc">Se você tiver que mexer ou clicar o mouse antes que ele responda.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html" title="O ponteiro do mouse não está movendo"><span class="title">O ponteiro do mouse não está movendo</span><span class="linkdiv-dash"> — </span><span class="desc">Como verificar por que o seu mouse não está funcionando.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.pt-BR" title="O mouse reage com um atraso antes que ele comece a funcionar"><span class="title">O mouse reage com um atraso antes que ele comece a funcionar</span><span class="linkdiv-dash"> — </span><span class="desc">Se você tiver que mexer ou clicar o mouse antes que ele responda.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.pt-BR" title="O ponteiro do mouse não está movendo"><span class="title">O ponteiro do mouse não está movendo</span><span class="linkdiv-dash"> — </span><span class="desc">Como verificar por que o seu mouse não está funcionando.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="tips" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Dicas</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Clique com o botão do meio"><span class="title">Clique com o botão do meio</span><span class="linkdiv-dash"> — </span><span class="desc">Use o botão do meio do mouse para abrir aplicativos, abrir abas e mais.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.pt-BR" title="Clique com o botão do meio"><span class="title">Clique com o botão do meio</span><span class="linkdiv-dash"> — </span><span class="desc">Use o botão do meio do mouse para abrir aplicativos, abrir abas e mais.</span></a></div></div>
 <div class="links-twocolumn"></div>
 </div></div></div></div></div>
 </div></div>
@@ -85,10 +85,10 @@
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html" title="Hardwares &amp; drivers">Hardwares &amp; drivers</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Problemas comuns">Problemas de hardware</a></span>, <span class="link"><a href="printing.html" title="Imprimindo">impressoras</a></span>, <span class="link"><a href="power.html" title="Energia &amp; bateria">configurações de energia</a></span>, <span class="link"><a href="color.html" title="Gerenciamento de cores">gerenciamento de cores</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Discos &amp; armazenamento">discos</a></span>…</span>
+<a href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardwares &amp; drivers</a><span class="desc"> — <span class="link"><a href="hardware.html.pt-BR#problems" title="Problemas comuns">Problemas de hardware</a></span>, <span class="link"><a href="printing.html.pt-BR" title="Imprimindo">impressoras</a></span>, <span class="link"><a href="power.html.pt-BR" title="Energia &amp; bateria">configurações de energia</a></span>, <span class="link"><a href="color.html.pt-BR" title="Gerenciamento de cores">gerenciamento de cores</a></span>, <span class="link"><a href="bluetooth.html.pt-BR" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.pt-BR" title="Discos &amp; armazenamento">discos</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs.html" title="Usuário &amp; configurações do sistema">Usuário &amp; configurações do sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html" title="Mouse">mouse</a></span>, <span class="link"><a href="prefs-display.html" title="Monitor &amp; tela">monitor</a></span>, <span class="link"><a href="prefs-language.html" title="Região &amp; idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html" title="Contas de usuários">contas de usuários</a></span>…</span>
+<a href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Usuário &amp; configurações do sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.pt-BR" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html.pt-BR" title="Mouse">mouse</a></span>, <span class="link"><a href="prefs-display.html.pt-BR" title="Monitor &amp; tela">monitor</a></span>, <span class="link"><a href="prefs-language.html.pt-BR" title="Região &amp; idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html.pt-BR" title="Contas de usuários">contas de usuários</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="prefs-display.html" title="Näyttö">Näyttö</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="prefs-display.html.fi" title="Näyttö">Näyttö</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Laitteisto ja ajurit">Laitteisto</a> › <a class="trail" href="hardware.html#problems" title="Yleisiä ongelmia">Ongelmat</a> » <a class="trail" href="hardware-problems-graphics.html" title="Näyttöongelmat">Näyttöongelmat</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> › <a class="trail" href="hardware.html.fi#problems" title="Yleisiä ongelmia">Ongelmat</a> » <a class="trail" href="hardware-problems-graphics.html.fi" title="Näyttöongelmat">Näyttöongelmat</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">Kun poistut tietokoneelta hetkeksi, näyttö lukitaan automaattisesti. Jotta voit jatkaa työskentelyä, lukitus tulee avata antamalla salasana. Lukitus tehdään turvallisuussyistä, jotta kukaan ei pääse käyttämään tietokonetta käyttäjätililläsi. Automaattinen lukitus saattaa kuitenkin ärsyttää, jos näyttö lukitaan automaattisesti liian nopeasti.</p>
 <p class="p">Näytön automaattisen lukituksen aikarajan kasvattaminen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Privacy</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Privacy</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press on <span class="gui">Screen Lock</span>.</p></li>
@@ -73,10 +73,10 @@
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Näyttö">Näyttö</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Taustakuva</a></span>, <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">koko ja asento</a></span>, kirkkaus…</span>
+<a href="prefs-display.html.fi" title="Näyttö">Näyttö</a><span class="desc"> — <span class="link"><a href="look-background.html.fi" title="Change the desktop and lock screen backgrounds">Taustakuva</a></span>, <span class="link"><a href="look-resolution.html.fi" title="Change the resolution or rotation of the screen">koko ja asento</a></span>, kirkkaus…</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Näyttöongelmat">Näyttöongelmat</a><span class="desc"> — Näytön ja graafisten ongelmien ongelmanratkaisu</span>
+<a href="hardware-problems-graphics.html.fi" title="Näyttöongelmat">Näyttöongelmat</a><span class="desc"> — Näytön ja graafisten ongelmien ongelmanratkaisu</span>
 </li>
 </ul></div>
 </div></div>
@@ -84,11 +84,11 @@
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Näytön automaattinen lukitseminen">Näytön automaattinen lukitseminen</a><span class="desc"> — Estä muita henkilöitä käyttämästä tietokonetta, kun lähdet pois sen luota.</span>
+<a href="privacy-screen-lock.html.fi" title="Näytön automaattinen lukitseminen">Näytön automaattinen lukitseminen</a><span class="desc"> — Estä muita henkilöitä käyttämästä tietokonetta, kun lähdet pois sen luota.</span>
 </li>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Näytön lukitseminen">Näytön lukitseminen</a></li>
+<li class="links "><a href="shell-exit.html.fi#lock-screen" title="Näytön lukitseminen">Näytön lukitseminen</a></li>
 <li class="links ">
-<a href="display-blank.html" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Muuta näytön pimenemisviivettä säästääksesi virtaa.</span>
+<a href="display-blank.html.fi" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Muuta näytön pimenemisviivettä säästääksesi virtaa.</span>
 </li>
 </ul></div>
 </div></div>

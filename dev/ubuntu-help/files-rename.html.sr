@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html#common-file-tasks" title="Уобичајени послови">Уобичајени послови</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.sr" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html.sr#common-file-tasks" title="Уобичајени послови">Уобичајени послови</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Преименујте датотеку или фасциклу</span></h1></div>
@@ -57,7 +57,7 @@
 <li class="steps"><p class="p">Упишите нови назив и притисните <span class="key"><kbd>Унеси</kbd></span> или притисните на <span class="gui">Преименуј</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Можете такође да преименујете датотеку и у прозору <span class="link"><a href="nautilus-file-properties-basic.html" title="Својства датотеке">особина</a></span>.</p>
+<p class="p">Можете такође да преименујете датотеку и у прозору <span class="link"><a href="nautilus-file-properties-basic.html.sr" title="Својства датотеке">особина</a></span>.</p>
 <p class="p">Када преименујете датотеку, само први део назива датотеке је изабран, а не и проширење датотеке (део после последње <span class="file">.</span>). Проширење обично означава која је то врста датотеке (нпр. <span class="file">датотека.pdf</span> је ПДФ документ), и ово не бисте требали да мењате. Ако баш морате да измените проширење, изаберите читав назив датотеке и измените га.</p>
 <div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Ако сте преименовали погрешну датотеку, или сте некој датотеци дали неодговарајући назив, можете да опозовете промену назива. Да повратите радњу, одмах притисните дугме изборника на горњој траци и изаберите <span class="gui">Опозови преименовање</span>, или притисните <span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>З</kbd></span></span>, да повратите претходни назив.</p></div></div></div></div>
 </div>
@@ -65,7 +65,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Исправни знаци за називе датотека</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Можете да користите било који знак осим знака <span class="file">/</span> (коса црта) у називима датотека. Неки уређаји, међутим, користе <span class="em">систем датотека</span> који има више ограничења на називе датотека. Стога је најбоље да избегавате следеће знакове у називима ваших датотека: <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
-<div class="note note-warning" title="Упозорење"><div class="inner"><div class="region"><div class="contents"><p class="p">Ако у називу датотеке као први знак употребите <span class="file">.</span>, иста ће бити <span class="link"><a href="files-hidden.html" title="Сакријте датотеку">скривена</a></span> када будете покушали да је видите у управнику датотека.</p></div></div></div></div>
+<div class="note note-warning" title="Упозорење"><div class="inner"><div class="region"><div class="contents"><p class="p">Ако у називу датотеке као први знак употребите <span class="file">.</span>, иста ће бити <span class="link"><a href="files-hidden.html.sr" title="Сакријте датотеку">скривена</a></span> када будете покушали да је видите у управнику датотека.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="common-probs" class="sect"><div class="inner">
@@ -79,14 +79,14 @@
 <dt class="terms">Назив датотеке је предуг</dt>
 <dd class="terms"><p class="p">На неким системима датотека, називи датотека не могу да имају више од 255 знакова у својим називима. У ограничење ових 255 знакова спадају и назив датотеке и путања до датотеке (нпр. <span class="file">/home/ђоле/Документи/посао/послови-које-треба-избегавати/…</span>), зато бисте требали да избегавате дуге називе датотека и фасцикли где је то могуће.</p></dd>
 <dt class="terms">Опција за преименовање је засивљена</dt>
-<dd class="terms"><p class="p">Ако је засивљена опција <span class="gui">Преименуј</span>, то значи да немате овлашћење да преименујете датотеку. Требате бити врло опрезни када преименујете такве датотеке, јер преименовање неких заштићених датотека може да доведе до нестабилности система. Погледајте <span class="link"><a href="nautilus-file-properties-permissions.html" title="Подесите овлашћења над датотеком">Подесите овлашћења над датотеком</a></span> за више података.</p></dd>
+<dd class="terms"><p class="p">Ако је засивљена опција <span class="gui">Преименуј</span>, то значи да немате овлашћење да преименујете датотеку. Требате бити врло опрезни када преименујете такве датотеке, јер преименовање неких заштићених датотека може да доведе до нестабилности система. Погледајте <span class="link"><a href="nautilus-file-properties-permissions.html.sr" title="Подесите овлашћења над датотеком">Подесите овлашћења над датотеком</a></span> за више података.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Уобичајени послови">Уобичајени послови</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sr#common-file-tasks" title="Уобичајени послови">Уобичајени послови</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="media.html" title="Ljud, video och bilder">Ljud, video och bilder</a> › <a class="trail" href="media.html#videos" title="Videor och videokameror">Videor</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="media.html.sv" title="Ljud, video och bilder">Ljud, video och bilder</a> › <a class="trail" href="media.html.sv#videos" title="Videor och videokameror">Videor</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Varför spelas inte dvd-filmer upp?</span></h1></div>
@@ -69,12 +69,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Videor och videokameror">Videor</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.sv#videos" title="Videor och videokameror">Videor</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="video-dvd-restricted.html" title="Hur aktiverar jag begränsade kodekar för DVD-uppspelning?">Hur aktiverar jag begränsade kodekar för DVD-uppspelning?</a><span class="desc"> — De flesta kommersiella DVD-skivor är krypterade och kommer inte spelas upp utan avkrypteringsprogram.</span>
+<a href="video-dvd-restricted.html.sv" title="Hur aktiverar jag begränsade kodekar för DVD-uppspelning?">Hur aktiverar jag begränsade kodekar för DVD-uppspelning?</a><span class="desc"> — De flesta kommersiella DVD-skivor är krypterade och kommer inte spelas upp utan avkrypteringsprogram.</span>
 </li></ul></div>
 </div></div>
 </div>

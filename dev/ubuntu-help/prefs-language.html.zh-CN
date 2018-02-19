@@ -43,15 +43,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Region &amp; Language</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html" title="Use alternative keyboard layouts"><span class="title">Use alternative keyboard layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Add keyboard layouts and switch between them.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-formats.html" title="更改日期格式和计量单位"><span class="title">更改日期格式和计量单位</span><span class="linkdiv-dash"> — </span><span class="desc">选择日期时间、数字、货币和测量使用的区域。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-language.html" title="更改系统语言"><span class="title">更改系统语言</span><span class="linkdiv-dash"> — </span><span class="desc">将用户界面和帮助文档切换到其他语言。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.zh-CN" title="Use alternative keyboard layouts"><span class="title">Use alternative keyboard layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Add keyboard layouts and switch between them.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-formats.html.zh-CN" title="更改日期格式和计量单位"><span class="title">更改日期格式和计量单位</span><span class="linkdiv-dash"> — </span><span class="desc">选择日期时间、数字、货币和测量使用的区域。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-language.html.zh-CN" title="更改系统语言"><span class="title">更改系统语言</span><span class="linkdiv-dash"> — </span><span class="desc">将用户界面和帮助文档切换到其他语言。</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -59,13 +59,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="用户 &amp; 系统设置">用户 &amp; 系统设置</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="键盘">键盘</a></span>、<span class="link"><a href="mouse.html" title="鼠标">鼠标</a></span>、<span class="link"><a href="prefs-display.html" title="显示器 &amp; 屏幕">显示器</a></span>、<span class="link"><a href="prefs-language.html" title="Region &amp; Language">语言</a></span>、<span class="link"><a href="user-accounts.html" title="用户帐号">用户帐号</a></span>…</span>
+<a href="prefs.html.zh-CN" title="用户 &amp; 系统设置">用户 &amp; 系统设置</a><span class="desc"> — <span class="link"><a href="keyboard.html.zh-CN" title="键盘">键盘</a></span>、<span class="link"><a href="mouse.html.zh-CN" title="鼠标">鼠标</a></span>、<span class="link"><a href="prefs-display.html.zh-CN" title="显示器 &amp; 屏幕">显示器</a></span>、<span class="link"><a href="prefs-language.html.zh-CN" title="Region &amp; Language">语言</a></span>、<span class="link"><a href="user-accounts.html.zh-CN" title="用户帐号">用户帐号</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language-install.html" title="安装语言">安装语言</a><span class="desc"> — 安装更多翻译和相关语言支持包。</span>
+<a href="prefs-language-install.html.zh-CN" title="安装语言">安装语言</a><span class="desc"> — 安装更多翻译和相关语言支持包。</span>
 </li></ul></div>
 </div></div>
 </div>

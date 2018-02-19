@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="tips.html" title="Tips och tricks">Tips och tricks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="tips.html.sv" title="Tips och tricks">Tips och tricks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mata in speciella tecken</span></h1></div>
@@ -53,22 +53,14 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Metoder att mata in tecken</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Teckentabell">Teckentabell</a></li>
-<li class="links "><a href="tips-specialchars.html#characters" title="Tecken">Tecken</a></li>
-<li class="links "><a href="tips-specialchars.html#compose" title="Compose-tangent">Compose-tangent</a></li>
-<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Kodpunkter">Kodpunkter</a></li>
-<li class="links "><a href="tips-specialchars.html#layout" title="Tangentbordslayouter">Tangentbordslayouter</a></li>
-<li class="links "><a href="tips-specialchars.html#im" title="Inmatningsmetoder">Inmatningsmetoder</a></li>
+<li class="links "><a href="tips-specialchars.html.sv#characters" title="Tecken">Tecken</a></li>
+<li class="links "><a href="tips-specialchars.html.sv#compose" title="Compose-tangent">Compose-tangent</a></li>
+<li class="links "><a href="tips-specialchars.html.sv#ctrlshiftu" title="Kodpunkter">Kodpunkter</a></li>
+<li class="links "><a href="tips-specialchars.html.sv#layout" title="Tangentbordslayouter">Tangentbordslayouter</a></li>
+<li class="links "><a href="tips-specialchars.html.sv#im" title="Inmatningsmetoder">Inmatningsmetoder</a></li>
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Teckentabell</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">GNOME erbjuder ett teckentabellsprogram som låter dig bläddra genom alla tecken i Unicode. Använd teckentabellen för att hitta tecknet du önskar och kopiera och klistra sedan in det där du behöver det.</p>
-<p class="p">Du kan hitta <span class="app">Teckentabell</span> i översiktsvyn <span class="gui">Aktiviteter</span>. För mer information om teckentabellen, se <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">manualen för Teckentabell</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tecken</span></h2></div>
 <div class="region"><div class="contents">
@@ -85,12 +77,13 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Definiera en compose-tangent</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Justering</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Justering</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Justering</span> för att öppna programmet.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Tangentbord &amp; mus</span>-fliken.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="gui">Inaktiverad</span> intill inställningen <span class="gui">Compose-tangent</span>.</p></li>
 <li class="steps"><p class="p">Slå på växeln i dialogen och välj tangentbordsgenvägen du vill använda.</p></li>
 <li class="steps"><p class="p">Kryssa i kryssrutan för den knapp du vill använda som Compose-tangent.</p></li>
+<li class="steps"><p class="p">Stäng dialogrutan.</p></li>
 <li class="steps"><p class="p">Stäng fönstret <span class="gui">Justering</span>.</p></li>
 </ol></div>
 </div></div>
@@ -113,7 +106,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tangentbordslayouter</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Du kan få ditt tangentbord att bete sig som ett tangentbord för ett annat språk, oavsett vilka tecken som finns tryckta på tangenterna. Du kan till och med enkelt byta mellan olika tangentbordslayouter via en ikon på systemraden. För att lära dig hur, se <span class="link"><a href="keyboard-layouts.html" title="Använd alternativa tangentbordslayouter">Använd alternativa tangentbordslayouter</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Du kan få ditt tangentbord att bete sig som ett tangentbord för ett annat språk, oavsett vilka tecken som finns tryckta på tangenterna. Du kan till och med enkelt byta mellan olika tangentbordslayouter via en ikon på systemraden. För att lära dig hur, se <span class="link"><a href="keyboard-layouts.html.sv" title="Använd alternativa tangentbordslayouter">Använd alternativa tangentbordslayouter</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Inmatningsmetoder</span></h2></div>
@@ -128,13 +121,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Tips och tricks">Tips och tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Mata in speciella tecken">Specialtecken</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Mittenklick">genvägar för mittenklick</a></span>…</span>
+<a href="tips.html.sv" title="Tips och tricks">Tips och tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.sv" title="Mata in speciella tecken">Specialtecken</a></span>, <span class="link"><a href="mouse-middleclick.html.sv" title="Mittenklick">genvägar för mittenklick</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Använd alternativa tangentbordslayouter">Använd alternativa tangentbordslayouter</a><span class="desc"> — Lägg till tangentbordslayouter och växla mellan dem.</span>
+<a href="keyboard-layouts.html.sv" title="Använd alternativa tangentbordslayouter">Använd alternativa tangentbordslayouter</a><span class="desc"> — Lägg till tangentbordslayouter och växla mellan dem.</span>
 </li></ul></div>
 </div></div>
 </div>

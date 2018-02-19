@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html.pt#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Escrever ficheiro num CD ou DVD</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Pode pôr ficheiros num disco vazio utilizando o <span class="gui">Criador de CD/DVD</span>. A opção de criar um CD ou um DVD aparecerá no gestor de ficheiros tão cedo como introduza um CD em seu grabador de CD/DVD. O gestor de ficheiros permite-lhe transferir ficheiros a outras computadores ou realizar <span class="link"><a href="backup-why.html" title="Fazer cópias de segurança de seus ficheiros importantes">cópias de segurança</a></span> pondo ficheiros num disco vazio. Para escrever ficheiros num CD ou DVD:</p>
+<p class="p">Pode pôr ficheiros num disco vazio utilizando o <span class="gui">Criador de CD/DVD</span>. A opção de criar um CD ou um DVD aparecerá no gestor de ficheiros tão cedo como introduza um CD em seu grabador de CD/DVD. O gestor de ficheiros permite-lhe transferir ficheiros a outras computadores ou realizar <span class="link"><a href="backup-why.html.pt" title="Fazer cópias de segurança de seus ficheiros importantes">cópias de segurança</a></span> pondo ficheiros num disco vazio. Para escrever ficheiros num CD ou DVD:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Coloque um disco vazio dentro dum unidade grabadora de CD/DVD.</p></li>
 <li class="steps">
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

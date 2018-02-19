@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Шта је то управљачки програм?</span></h1></div>
@@ -61,20 +61,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Хардвер и управљачки програми">Хардвер и управљачки програми</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Општи проблеми">Хардверски проблеми</a></span>, <span class="link"><a href="printing.html" title="Штампање">штампачи</a></span>, <span class="link"><a href="power.html" title="Напајање и батерија">подешавања напајања</a></span>, <span class="link"><a href="color.html" title="Управљање бојом">управљање бојом</a></span>, <span class="link"><a href="bluetooth.html" title="Блутут">Блутут</a></span>, <span class="link"><a href="disk.html" title="Дискови и складишта">дискови</a></span>…</span>
+<a href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер и управљачки програми</a><span class="desc"> — <span class="link"><a href="hardware.html.sr#problems" title="Општи проблеми">Хардверски проблеми</a></span>, <span class="link"><a href="printing.html.sr" title="Штампање">штампачи</a></span>, <span class="link"><a href="power.html.sr" title="Напајање и батерија">подешавања напајања</a></span>, <span class="link"><a href="color.html.sr" title="Управљање бојом">управљање бојом</a></span>, <span class="link"><a href="bluetooth.html.sr" title="Блутут">Блутут</a></span>, <span class="link"><a href="disk.html.sr" title="Дискови и складишта">дискови</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspendfail.html" title="Зашто мој рачунар неће да се поврати након што сам га успавао?">Зашто мој рачунар неће да се поврати након што сам га успавао?</a><span class="desc"> — Неке компоненте рачунара стварају проблеме приликом обуставе.</span>
+<a href="power-suspendfail.html.sr" title="Зашто мој рачунар неће да се поврати након што сам га успавао?">Зашто мој рачунар неће да се поврати након што сам га успавао?</a><span class="desc"> — Неке компоненте рачунара стварају проблеме приликом обуставе.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-problem-connecting.html" title="Не могу да повежем Блутут уређај">Не могу да повежем Блутут уређај</a><span class="desc"> — Можда је прилагођивач искључен или нема управљачких програма, или је можда Блутут искључен или блокиран.</span>
+<a href="bluetooth-problem-connecting.html.sr" title="Не могу да повежем Блутут уређај">Не могу да повежем Блутут уређај</a><span class="desc"> — Можда је прилагођивач искључен или нема управљачких програма, или је можда Блутут искључен или блокиран.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="Немам бежичну мрежу када пробудим рачунар">Немам бежичну мрежу када пробудим рачунар</a><span class="desc"> — Неки бежични уређаји имају проблеме са радом када је ваш рачунар обустављен а није се повратио како треба.</span>
+<a href="power-nowireless.html.sr" title="Немам бежичну мрежу када пробудим рачунар">Немам бежичну мрежу када пробудим рачунар</a><span class="desc"> — Неки бежични уређаји имају проблеме са радом када је ваш рачунар обустављен а није се повратио како треба.</span>
 </li>
 </ul></div>
 </div></div>

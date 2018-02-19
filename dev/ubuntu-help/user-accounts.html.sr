@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Кориснички налози</span></h1></div>
@@ -53,30 +53,30 @@
 <div class="hgroup"><h2 class="title"><span class="title">Управљајте корисничким налозима</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-add.html" title="Додајте налог новог корисника"><span class="title">Додајте налог новог корисника</span><span class="linkdiv-dash"> — </span><span class="desc">Додајте нове кориснике тако да неко други може да се пријави на рачунар.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="Измените вашу фотографију на екрану за пријаву"><span class="title">Измените вашу фотографију на екрану за пријаву</span><span class="linkdiv-dash"> — </span><span class="desc">Додајте вашу фотографију пријавним и корисничким екранима.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-add.html.sr" title="Додајте налог новог корисника"><span class="title">Додајте налог новог корисника</span><span class="linkdiv-dash"> — </span><span class="desc">Додајте нове кориснике тако да неко други може да се пријави на рачунар.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html.sr" title="Измените вашу фотографију на екрану за пријаву"><span class="title">Измените вашу фотографију на екрану за пријаву</span><span class="linkdiv-dash"> — </span><span class="desc">Додајте вашу фотографију пријавним и корисничким екранима.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="Обришите кориснички налог"><span class="title">Обришите кориснички налог</span><span class="linkdiv-dash"> — </span><span class="desc">Уклоните кориснике који више не користе ваш рачунар.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Самостално пријављивање"><span class="title">Самостално пријављивање</span><span class="linkdiv-dash"> — </span><span class="desc">Подесите самостално пријављивање када се пребацујете на ваш рачунар.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html.sr" title="Обришите кориснички налог"><span class="title">Обришите кориснички налог</span><span class="linkdiv-dash"> — </span><span class="desc">Уклоните кориснике који више не користе ваш рачунар.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html.sr" title="Самостално пријављивање"><span class="title">Самостално пријављивање</span><span class="linkdiv-dash"> — </span><span class="desc">Подесите самостално пријављивање када се пребацујете на ваш рачунар.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="passwords" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Лозинке</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html" title="Изаберите безбедну лозинку"><span class="title">Изаберите безбедну лозинку</span><span class="linkdiv-dash"> — </span><span class="desc">Користите дуже, сложеније лозинке.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html" title="Промените вашу лозинку"><span class="title">Промените вашу лозинку</span><span class="linkdiv-dash"> — </span><span class="desc">Држите ваш налог безбедним тако што ћете често мењати вашу лозинку у вашим подешавањима налога.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html.sr" title="Изаберите безбедну лозинку"><span class="title">Изаберите безбедну лозинку</span><span class="linkdiv-dash"> — </span><span class="desc">Користите дуже, сложеније лозинке.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html.sr" title="Промените вашу лозинку"><span class="title">Промените вашу лозинку</span><span class="linkdiv-dash"> — </span><span class="desc">Држите ваш налог безбедним тако што ћете често мењати вашу лозинку у вашим подешавањима налога.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="privileges" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Овлашћења корисника</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html" title="Измените ко има администраторска овлашћења"><span class="title">Измените ко има администраторска овлашћења</span><span class="linkdiv-dash"> — </span><span class="desc">Можете да дозволите корисницима да врше измене на систему дајући им администраторска овлашћења.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html" title="Како функционишу администраторска овлашћења?"><span class="title">Како функционишу администраторска овлашћења?</span><span class="linkdiv-dash"> — </span><span class="desc">Потребна су вам администраторска овлашћења да измените важне делове вашег система.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.sr" title="Измените ко има администраторска овлашћења"><span class="title">Измените ко има администраторска овлашћења</span><span class="linkdiv-dash"> — </span><span class="desc">Можете да дозволите корисницима да врше измене на систему дајући им администраторска овлашћења.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.sr" title="Како функционишу администраторска овлашћења?"><span class="title">Како функционишу администраторска овлашћења?</span><span class="linkdiv-dash"> — </span><span class="desc">Потребна су вам администраторска овлашћења да измените важне делове вашег система.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html" title="Проблеми изазвани администраторским ограничењима"><span class="title">Проблеми изазвани администраторским ограничењима</span><span class="linkdiv-dash"> — </span><span class="desc">Можете да урадите неке ствари, као што је инсталација програма, само ако имате администраторска овлашћења.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.sr" title="Проблеми изазвани администраторским ограничењима"><span class="title">Проблеми изазвани администраторским ограничењима</span><span class="linkdiv-dash"> — </span><span class="desc">Можете да урадите неке ствари, као што је инсталација програма, само ако имате администраторска овлашћења.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -84,7 +84,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html" title="Кориснички налози">кориснички налози</a></span>…</span>
+<a href="prefs.html.sr" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html.sr" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html.sr" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html.sr" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html.sr" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html.sr" title="Кориснички налози">кориснички налози</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

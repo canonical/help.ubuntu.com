@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-problem.html" title="Netwerkproblemen">Netwerkproblemen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-problem.html.nl" title="Netwerkproblemen">Netwerkproblemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,10 +56,10 @@
 <p class="p">There are a number of reasons why you might not be able to see your
   wireless network on the list of available networks from the system menu.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Als er geen netwerken in de lijst getoond worden, dan kan het zijn dat uw draadloos-hardware uitgeschakeld is, of dat die <span class="link"><a href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">mogelijk niet goed werkt</a></span>. Zorg ervoor dat het apparaat ingeschakeld is.</p></li>
+<li class="list"><p class="p">Als er geen netwerken in de lijst getoond worden, dan kan het zijn dat uw draadloos-hardware uitgeschakeld is, of dat die <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">mogelijk niet goed werkt</a></span>. Zorg ervoor dat het apparaat ingeschakeld is.</p></li>
 <li class="list"><p class="p">U kunt buiten bereik van het netwerk zijn. Probeer dichter bij het daadloos basisstation/de router te komen en kijk of het netwerk na een poosje in de lijst verschijnt.</p></li>
 <li class="list"><p class="p">Het duurt even voordat de lijst met draadloze netwerken bijgewerkt is. als u net uw computer heeft aangezet of naar een andere locatie bent gegaan, wacht een paar minuten en controleer dan of het netwerk in de lijst is verschenen.</p></li>
-<li class="list"><p class="p">Het netwerk kan verborgen zijn. U dient te <span class="link"><a href="net-wireless-hidden.html" title="Met een verborgen draadloos netwerk verbinden">verbinden op een andere manier</a></span> als het een verborgen netwerk is.</p></li>
+<li class="list"><p class="p">Het netwerk kan verborgen zijn. U dient te <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">verbinden op een andere manier</a></span> als het een verborgen netwerk is.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -69,21 +69,21 @@
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
+<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="net-problem.html" title="Netwerkproblemen">Netwerkproblemen</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Probleemoplosser draadloos netwerk">Problemen met draadloze verbindingen oplossen</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">Uw wifi-netwerk vinden</a></span>...</span>
+<a href="net-problem.html.nl" title="Netwerkproblemen">Netwerkproblemen</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Problemen met draadloze verbindingen oplossen</a></span>, <span class="link"><a href="net-wireless-find.html.nl" title="I can’t see my wireless network in the list">Uw wifi-netwerk vinden</a></span>...</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-hidden.html" title="Met een verborgen draadloos netwerk verbinden">Met een verborgen draadloos netwerk verbinden</a><span class="desc"> — Verbind met een draadloos netwerk dat niet in de netwerklijst staat.</span>
+<a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Met een verborgen draadloos netwerk verbinden</a><span class="desc"> — Verbind met een draadloos netwerk dat niet in de netwerklijst staat.</span>
 </li></ul></div>
 </div></div>
 </div>

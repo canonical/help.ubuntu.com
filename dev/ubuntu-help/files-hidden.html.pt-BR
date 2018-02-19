@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html#faq" title="Dicas e perguntas">Dicas e perguntas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#faq" title="Dicas e perguntas">Dicas e perguntas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ocultando um arquivo</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">O gerenciador de arquivos <span class="app">Arquivos</span> permite a você ocultar e desocultar arquivos como desejar. Quando um arquivo é ocultado, ele não é exibido pelo gerenciador de arquivos, mas ele ainda está na pasta.</p>
-<p class="p">Para ocultar um arquivo, <span class="link"><a href="files-rename.html" title="Renomeando um arquivo ou uma pasta">renomeie-o</a></span> com um <span class="file">.</span> no começo do seu nome. Por exemplo, para ocultar um arquivo chamado <span class="file">exemplo.txt</span>, você deveria renomeá-lo para <span class="file">.exemplo.txt</span>.</p>
+<p class="p">Para ocultar um arquivo, <span class="link"><a href="files-rename.html.pt-BR" title="Renomeando um arquivo ou uma pasta">renomeie-o</a></span> com um <span class="file">.</span> no começo do seu nome. Por exemplo, para ocultar um arquivo chamado <span class="file">exemplo.txt</span>, você deveria renomeá-lo para <span class="file">.exemplo.txt</span>.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Você pode ocultar pastas da mesma maneira que se oculta arquivos. Renomeie a pasta colocando um <span class="file">.</span> no começo do nome da pasta.</p></div></div></div></div>
 </div>
 <div id="show-hidden" class="sect"><div class="inner">
@@ -65,8 +65,8 @@
 <div class="region"><div class="contents">
 <p class="p">Para desocultar um arquivo, vá até a pasta que contém o arquivo oculto e clique no botão de opções de visualização na barra de ferramentas e escolha <span class="gui">Mostrar arquivos ocultos</span>. Então, localize o arquivo oculto e renomeie-o de forma que ele não contenha um <span class="file">.</span> na frente do seu nome. Por exemplo, para desocultar um arquivo chamado <span class="file">.exemplo.txt</span>, você deveria renomeá-lo para <span class="file">exemplo.txt</span>.</p>
 <p class="p">Uma vez que tenha renomeado o arquivo, você pode ou clicar no botão de opções de visualização na barra de ferramentas e escolhe <span class="gui">Mostrar arquivos ocultos</span> ou pressionar <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> para esconder os demais arquivos ocultos de novo.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Por padrão, você verá apenas os arquivos ocultos no gerenciador de arquivos até que este seja fechado. Para alterar essa configuração de forma que o gerenciador de arquivos sempre mostre os arquivos ocultos, veja <span class="link"><a href="nautilus-views.html" title="Preferências de visões no Arquivos">Preferências de visões no <span class="app">Arquivos</span></a></span>.</p></div></div></div></div>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">A maioria dos arquivos ocultos terão um <span class="file">.</span> no começo de seus nomes. Outros, no entanto, podem ter um <span class="file">~</span> no final dos seus nomes. Estes são cópias de segurança de arquivos. Veja <span class="link"><a href="files-tilde.html" title="O que é um arquivo com um ~ no final do seu nome?">O que é um arquivo com um <span class="file">~</span> no final do seu nome?</a></span> para mais informações.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Por padrão, você verá apenas os arquivos ocultos no gerenciador de arquivos até que este seja fechado. Para alterar essa configuração de forma que o gerenciador de arquivos sempre mostre os arquivos ocultos, veja <span class="link"><a href="nautilus-views.html.pt-BR" title="Preferências de visões no Arquivos">Preferências de visões no <span class="app">Arquivos</span></a></span>.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">A maioria dos arquivos ocultos terão um <span class="file">.</span> no começo de seus nomes. Outros, no entanto, podem ter um <span class="file">~</span> no final dos seus nomes. Estes são cópias de segurança de arquivos. Veja <span class="link"><a href="files-tilde.html.pt-BR" title="O que é um arquivo com um ~ no final do seu nome?">O que é um arquivo com um <span class="file">~</span> no final do seu nome?</a></span> para mais informações.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -74,12 +74,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Dicas e perguntas">Dicas e perguntas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt-BR#faq" title="Dicas e perguntas">Dicas e perguntas</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-tilde.html" title="O que é um arquivo com um ~ no final do seu nome?">O que é um arquivo com um <span class="file">~</span> no final do seu nome?</a><span class="desc"> — Esses são arquivos backup. Eles estão ocultos por padrão.</span>
+<a href="files-tilde.html.pt-BR" title="O que é um arquivo com um ~ no final do seu nome?">O que é um arquivo com um <span class="file">~</span> no final do seu nome?</a><span class="desc"> — Esses são arquivos backup. Eles estão ocultos por padrão.</span>
 </li></ul></div>
 </div></div>
 </div>

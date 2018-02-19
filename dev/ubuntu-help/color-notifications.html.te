@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="color.html" title="రంగుల నిర్వహణ">రంగుల నిర్వహణ</a> › <a class="trail" href="color.html#problems" title="సమస్యలు">సమస్యలు</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.te" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="color.html.te" title="రంగుల నిర్వహణ">రంగుల నిర్వహణ</a> › <a class="trail" href="color.html.te#problems" title="సమస్యలు">సమస్యలు</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="color.html" title="రంగుల నిర్వహణ">రంగుల నిర్వహణ</a> › <a class="trail" href="color.html#problems" title="సమస్యలు">సమస్యలు</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.te" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="color.html.te" title="రంగుల నిర్వహణ">రంగుల నిర్వహణ</a> › <a class="trail" href="color.html.te#problems" title="సమస్యలు">సమస్యలు</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -73,12 +73,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#problems" title="సమస్యలు">సమస్యలు</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.te#problems" title="సమస్యలు">సమస్యలు</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ఇవి కూడా చూడండి</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color-why-calibrate.html" title="నేను నాఅంతటనేనే కాలిబ్రేషన్ ఎందుకు చేయాలి?">నేను నాఅంతటనేనే కాలిబ్రేషన్ ఎందుకు చేయాలి?</a><span class="desc"> — మీరు ప్రదర్శించు లేదా ముద్రించు రంగులు మీకు ముఖ్యమైతే కాలిబ్రేటింగ్ అనునది ముఖ్యం.</span>
+<a href="color-why-calibrate.html.te" title="నేను నాఅంతటనేనే కాలిబ్రేషన్ ఎందుకు చేయాలి?">నేను నాఅంతటనేనే కాలిబ్రేషన్ ఎందుకు చేయాలి?</a><span class="desc"> — మీరు ప్రదర్శించు లేదా ముద్రించు రంగులు మీకు ముఖ్యమైతే కాలిబ్రేటింగ్ అనునది ముఖ్యం.</span>
 </li></ul></div>
 </div></div>
 </div>

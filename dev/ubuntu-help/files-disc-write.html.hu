@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.hu" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html.hu#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fájlok CD-re/DVD-re írása</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A <span class="gui">CD/DVD író</span> segítségével üres lemezre írhatja fájljait. A fájlkezelőben azonnal megjelenik a CD/DVD írásának lehetősége, amint behelyez egy CD-t a CD/DVD író meghajtóba. A fájlkezelő lehetővé teszi fájlok átvitelét más számítógépekre, vagy <span class="link"><a href="backup-why.html" title="Mentse fontos fájljait">biztonsági mentések</a></span> készítését a fájlok üres lemezre írásával. Fájlok CD-re vagy DVD-re írásához:</p>
+<p class="p">A <span class="gui">CD/DVD író</span> segítségével üres lemezre írhatja fájljait. A fájlkezelőben azonnal megjelenik a CD/DVD írásának lehetősége, amint behelyez egy CD-t a CD/DVD író meghajtóba. A fájlkezelő lehetővé teszi fájlok átvitelét más számítógépekre, vagy <span class="link"><a href="backup-why.html.hu" title="Mentse fontos fájljait">biztonsági mentések</a></span> készítését a fájlok üres lemezre írásával. Fájlok CD-re vagy DVD-re írásához:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Helyezzen egy üres lemezt a CD/DVD író meghajtójába.</p></li>
 <li class="steps">
@@ -82,7 +82,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.hu#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

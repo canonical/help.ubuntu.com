@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Aan de slag">Aan de slag met Gnome</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="Verbinding maken met online-accounts">Vorige</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="De achtergrond wijzigen">Volgende</a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.nl" title="Verbinding maken met online-accounts">Vorige</a><a class="nextlinks-next" href="gs-change-wallpaper.html.nl" title="De achtergrond wijzigen">Volgende</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Datum, tijd en tijdszone wijzigen</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klik op het <span class="gui"><a href="shell-introduction.html#yourname" title="U en uw computer">systeemmenu</a></span> aan de rechterkant van de bovenste balk.</p></li>
+<li class="steps"><p class="p">Klik op het <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">systeemmenu</a></span> aan de rechterkant van de bovenste balk.</p></li>
 <li class="steps"><p class="p">Klik op de knop Instellingen linksonder in het menu.</p></li>
 <li class="steps"><p class="p">Selecteer het paneel <span class="gui">Datum &amp; Tijd</span></p></li>
 </ol></div></div></div>
@@ -68,7 +68,7 @@
 </ol></div></div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="Verbinding maken met online-accounts">Vorige</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="De achtergrond wijzigen">Volgende</a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.nl" title="Verbinding maken met online-accounts">Vorige</a><a class="nextlinks-next" href="gs-change-wallpaper.html.nl" title="De achtergrond wijzigen">Volgende</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -76,13 +76,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Aan de slag">Aan de slag met Gnome</a><span class="desc"> — Nieuw bij Gnome? Leer hoe u het onder de knie krijgt.</span>
+<a href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a><span class="desc"> — Nieuw bij Gnome? Leer hoe u het onder de knie krijgt.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Datum &amp; tijd">Datum &amp; tijd</a><span class="desc"> — <span class="link"><a href="clock-set.html" title="Datum en tijd wijzigen">Tijd en datum instellen</a></span>, <span class="link"><a href="clock-world.html" title="Een wereldklok toevoegen">wereldklokken</a></span>,<span class="link"><a href="clock-timezone.html" title="Uw tijdzone wijzigen">tijdzone</a></span>, <span class="link"><a href="clock-calendar.html" title="Agenda-afspraken">agenda en afspraken</a></span>...</span>
+<a href="clock.html.nl" title="Datum &amp; tijd">Datum &amp; tijd</a><span class="desc"> — <span class="link"><a href="clock-set.html.nl" title="Datum en tijd wijzigen">Tijd en datum instellen</a></span>, <span class="link"><a href="clock-world.html.nl" title="Een wereldklok toevoegen">wereldklokken</a></span>,<span class="link"><a href="clock-timezone.html.nl" title="Uw tijdzone wijzigen">tijdzone</a></span>, <span class="link"><a href="clock-calendar.html.nl" title="Agenda-afspraken">agenda en afspraken</a></span>...</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,40 +43,40 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Työpöytäsi</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Johdanto Gnomeen"><span class="title">Johdanto Gnomeen</span><span class="linkdiv-dash"> — </span><span class="desc">Johdanto työpöytään, yläpalkkiin ja <span class="gui">Toiminnot</span>-yleisnäkymään.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Sovelluksien käynnistäminen"><span class="title">Sovelluksien käynnistäminen</span><span class="linkdiv-dash"> — </span><span class="desc">Käynnistä sovelluksia <span class="gui">Toiminnot</span>-yleisnäkymästä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.fi" title="Johdanto Gnomeen"><span class="title">Johdanto Gnomeen</span><span class="linkdiv-dash"> — </span><span class="desc">Johdanto työpöytään, yläpalkkiin ja <span class="gui">Toiminnot</span>-yleisnäkymään.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.fi" title="Sovelluksien käynnistäminen"><span class="title">Sovelluksien käynnistäminen</span><span class="linkdiv-dash"> — </span><span class="desc">Käynnistä sovelluksia <span class="gui">Toiminnot</span>-yleisnäkymästä.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Uloskirjautuminen, sammuttaminen ja käyttäjän vaihtaminen"><span class="title">Uloskirjautuminen, sammuttaminen ja käyttäjän vaihtaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Opi kuinka poistua käyttäjätililtä kirjautumalla ulos, vaihtamalla käyttäjää ja niin edelleen.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-exit.html.fi" title="Uloskirjautuminen, sammuttaminen ja käyttäjän vaihtaminen"><span class="title">Uloskirjautuminen, sammuttaminen ja käyttäjän vaihtaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Opi kuinka poistua käyttäjätililtä kirjautumalla ulos, vaihtamalla käyttäjää ja niin edelleen.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Mukauta työpöytääsi</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html" title="Ilmoitukset ja viestialue"><span class="title">Ilmoitukset ja viestialue</span><span class="linkdiv-dash"> — </span><span class="desc">Näytön ylälaidasta ilmestyvät viestit ilmoittavat erilaisista asioista ja tapahtumista.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="Kalenteritapaamiset"><span class="title">Kalenteritapaamiset</span><span class="linkdiv-dash"> — </span><span class="desc">Aseta kalenterimerkintäsi näkyviin näytön yläpalkin kalenteriin.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.fi" title="Ilmoitukset ja viestialue"><span class="title">Ilmoitukset ja viestialue</span><span class="linkdiv-dash"> — </span><span class="desc">Näytön ylälaidasta ilmestyvät viestit ilmoittavat erilaisista asioista ja tapahtumista.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.fi" title="Kalenteritapaamiset"><span class="title">Kalenteritapaamiset</span><span class="linkdiv-dash"> — </span><span class="desc">Aseta kalenterimerkintäsi näkyviin näytön yläpalkin kalenteriin.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html" title="Kiinnitä suosikkisovelluksesi telakkaan"><span class="title">Kiinnitä suosikkisovelluksesi telakkaan</span><span class="linkdiv-dash"> — </span><span class="desc">Lisää tai poista usein käyttämiesi sovellusten kuvakkeita telakasta.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.fi" title="Kiinnitä suosikkisovelluksesi telakkaan"><span class="title">Kiinnitä suosikkisovelluksesi telakkaan</span><span class="linkdiv-dash"> — </span><span class="desc">Lisää tai poista usein käyttämiesi sovellusten kuvakkeita telakasta.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="apps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Sovellukset ja ikkunat</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Hyödyllisiä pikanäppäimiä"><span class="title">Hyödyllisiä pikanäppäimiä</span><span class="linkdiv-dash"> — </span><span class="desc">Käytä työpöytää näppäimistöllä.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows.html" title="Ikkunat ja työtilat"><span class="title">Ikkunat ja työtilat</span><span class="linkdiv-dash"> — </span><span class="desc">Ikkunoiden siirtäminen ja järjestely.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="startup-applications.html" title="Käynnistettävät sovellukset"><span class="title">Käynnistettävät sovellukset</span><span class="linkdiv-dash"> — </span><span class="desc">Valitse sisäänkirjautumisen yhteydessä käynnistettävät sovellukset.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.fi" title="Hyödyllisiä pikanäppäimiä"><span class="title">Hyödyllisiä pikanäppäimiä</span><span class="linkdiv-dash"> — </span><span class="desc">Käytä työpöytää näppäimistöllä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows.html.fi" title="Ikkunat ja työtilat"><span class="title">Ikkunat ja työtilat</span><span class="linkdiv-dash"> — </span><span class="desc">Ikkunoiden siirtäminen ja järjestely.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.fi" title="Käynnistettävät sovellukset"><span class="title">Käynnistettävät sovellukset</span><span class="linkdiv-dash"> — </span><span class="desc">Valitse sisäänkirjautumisen yhteydessä käynnistettävät sovellukset.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html" title="Lukitusnäyttö"><span class="title">Lukitusnäyttö</span><span class="linkdiv-dash"> — </span><span class="desc">Koristeellinen ja toiminnollinen lukitusnäyttö sisältää hyödyllistä tietoa.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="status-icons.html" title="Mitä kuvakkeet yläpalkissa tarkoittavat?"><span class="title">Mitä kuvakkeet yläpalkissa tarkoittavat?</span><span class="linkdiv-dash"> — </span><span class="desc">Yläpalkin oikean laidan kuvakkeiden tarkoitukset selitettyinä.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Vaihtele ikkunoiden välillä"><span class="title">Vaihtele ikkunoiden välillä</span><span class="linkdiv-dash"> — </span><span class="desc">Paina <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.fi" title="Lukitusnäyttö"><span class="title">Lukitusnäyttö</span><span class="linkdiv-dash"> — </span><span class="desc">Koristeellinen ja toiminnollinen lukitusnäyttö sisältää hyödyllistä tietoa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="status-icons.html.fi" title="Mitä kuvakkeet yläpalkissa tarkoittavat?"><span class="title">Mitä kuvakkeet yläpalkissa tarkoittavat?</span><span class="linkdiv-dash"> — </span><span class="desc">Yläpalkin oikean laidan kuvakkeiden tarkoitukset selitettyinä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.fi" title="Vaihtele ikkunoiden välillä"><span class="title">Vaihtele ikkunoiden välillä</span><span class="linkdiv-dash"> — </span><span class="desc">Paina <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntun työpöytäopas">Ubuntun työpöytäopas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.fi" title="Ubuntun työpöytäopas">Ubuntun työpöytäopas</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

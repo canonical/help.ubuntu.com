@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html#removable" title="Dispositivos extraíbeis e discos externos">Dispositivos extraíbeis e discos externos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#removable" title="Dispositivos extraíbeis e discos externos">Dispositivos extraíbeis e discos externos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="media.html" title="Son, vídeo e imaxes">Son, vídeo e imaxes</a> › <a class="trail" href="media.html#photos" title="Fotos e cámaras dixitais">Fotos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="media.html.gl-GL" title="Son, vídeo e imaxes">Son, vídeo e imaxes</a> › <a class="trail" href="media.html.gl-GL#photos" title="Fotos e cámaras dixitais">Fotos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="media.html" title="Son, vídeo e imaxes">Son, vídeo e imaxes</a> › <a class="trail" href="media.html#music" title="Música e reprodutores de son portátiles">Música e reprodutores</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="media.html.gl-GL" title="Son, vídeo e imaxes">Son, vídeo e imaxes</a> › <a class="trail" href="media.html.gl-GL#music" title="Música e reprodutores de son portátiles">Música e reprodutores</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="media.html" title="Son, vídeo e imaxes">Son, vídeo e imaxes</a> › <a class="trail" href="media.html#videos" title="Vídeos e videocámaras">Vídeos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="media.html.gl-GL" title="Son, vídeo e imaxes">Son, vídeo e imaxes</a> › <a class="trail" href="media.html.gl-GL#videos" title="Vídeos e videocámaras">Vídeos</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <p class="p">Pode facer que un aplicativo se inicie automaticamente ao conectar un dispositivo. Por exemplo, pode querer que se inicie o xestor de fotos cando conecta unha cámara dixital. Tamén pode desactivar isto para que non aconteza nada cando se conecta algo.</p>
 <p class="p">Para decidir que aplicativos deben iniciarse ao conectar varios dispositivos:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
     start typing <span class="gui">Details</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Removable Media</span>.</p></li>
@@ -94,7 +94,7 @@
 <dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
     <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
     video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
+    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html.gl-GL" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
     </p></dd>
 <dt class="terms">Cegueira</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing
@@ -126,10 +126,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html#removable" title="Dispositivos extraíbeis e discos externos">Dispositivos extraíbeis e discos externos</a></li>
-<li class="links "><a href="media.html#photos" title="Fotos e cámaras dixitais">Fotos</a></li>
-<li class="links "><a href="media.html#music" title="Música e reprodutores de son portátiles">Música e reprodutores</a></li>
-<li class="links "><a href="media.html#videos" title="Vídeos e videocámaras">Vídeos</a></li>
+<li class="links "><a href="files.html.gl-GL#removable" title="Dispositivos extraíbeis e discos externos">Dispositivos extraíbeis e discos externos</a></li>
+<li class="links "><a href="media.html.gl-GL#photos" title="Fotos e cámaras dixitais">Fotos</a></li>
+<li class="links "><a href="media.html.gl-GL#music" title="Música e reprodutores de son portátiles">Música e reprodutores</a></li>
+<li class="links "><a href="media.html.gl-GL#videos" title="Vídeos e videocámaras">Vídeos</a></li>
 </ul></div>
 </div></div></div>
 </div>

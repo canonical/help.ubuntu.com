@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="hardware-auth.html" title="Αποτυπώματα &amp; έξυπνες κάρτες">Αποτυπώματα &amp; έξυπνες κάρτες</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="hardware-auth.html.el" title="Αποτυπώματα &amp; έξυπνες κάρτες">Αποτυπώματα &amp; έξυπνες κάρτες</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Είσοδος με δακτυλικό αποτύπωμα</span></h1></div>
@@ -54,9 +54,9 @@
 <div class="region"><div class="contents">
 <p class="p">Πριν να μπορείτε να συνδεθείτε με το δακτυλικό αποτύπωμά σας, χρειάζεται να το καταγράψετε έτσι ώστε το σύστημα να μπορεί να το χρησιμοποιήσει για να σας αναγνωρίσει.</p>
 <div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">Εάν το δάκτυλό σας είναι υπερβολικά ξηρό, μπορεί να έχετε δυσκολία καταχωρίζοντας το δακτυλικό σας αποτύπωμα. Εάν συμβεί αυτό, υγράνετε το δάκτυλό σας ελαφρά, ξηράνετε το με ένα καθαρό ύφασμα και ξαναδοκιμάστε.</p></div></div></div></div>
-<p class="p">Χρειάζεστε <span class="link"><a href="user-admin-explain.html" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">δικαιώματα διαχειριστή</a></span> για να επεξεργαστείτε λογαριασμούς χρήστη άλλους εκτός από τον δικό σας.</p>
+<p class="p">Χρειάζεστε <span class="link"><a href="user-admin-explain.html.el" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">δικαιώματα διαχειριστή</a></span> για να επεξεργαστείτε λογαριασμούς χρήστη άλλους εκτός από τον δικό σας.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Χρήστες</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Χρήστες</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Χρήστες</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Πατήστε στο <span class="gui">Απενεργοποιημένο</span>, δίπλα στο <span class="gui">Σύνδεση με δακτυλικό αποτύπωμα</span> για να προσθέσετε ένα δακτυλικό αποτύπωμα για τον επιλεγμένο λογαριασμό. Αν προσθέτετε το δακτυλικό αποτύπωμα για έναν διαφορετικό χρήστη, θα χρειαστείτε πρώτα να <span class="gui">Ξεκλειδώσετε</span> τον πίνακα.</p></li>
 <li class="steps"><p class="p">Επιλέξτε το δάκτυλο που θέλετε να χρησιμοποιήσετε για το δακτυλικό αποτύπωμα, έπειτα <span class="gui">Επόμενο</span>.</p></li>
@@ -70,7 +70,7 @@
 <div class="region"><div class="contents">
 <p class="p">Τώρα ελέγξετε ότι η νέα σύνδεσή σας με δακτυλικό αποτύπωμα δουλεύει. Εάν καταχωρίσατε ένα δακτυλικό αποτύπωμα, έχετε ακόμα την επιλογή να συνδεθείτε με τον κωδικό πρόσβασής  σας.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Αποθηκεύστε οποιαδήποτε ανοικτή δουλειά και έπειτα <span class="link"><a href="shell-exit.html#logout" title="Αποσύνδεση ή αλλαγή χρηστών">αποσύνδεση</a></span>.</p></li>
+<li class="steps"><p class="p">Αποθηκεύστε οποιαδήποτε ανοικτή δουλειά και έπειτα <span class="link"><a href="shell-exit.html.el#logout" title="Αποσύνδεση ή αλλαγή χρηστών">αποσύνδεση</a></span>.</p></li>
 <li class="steps"><p class="p">Στην οθόνη σύνδεσης, επιλέξτε το όνομα χρήστη από τη λίστα. Η μορφή καταχώρισης του κωδικού πρόσβασης θα εμφανιστεί.</p></li>
 <li class="steps"><p class="p">Αντί να πληκτρολογείτε τον κωδικό πρόσβασής σας, θα πρέπει να μπορείτε να περνάτε το δάκτυλό σας από τον αναγνώστη δακτυλικού αποτυπώματος.</p></li>
 </ol></div></div></div>
@@ -81,7 +81,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-auth.html" title="Αποτυπώματα &amp; έξυπνες κάρτες">Αποτυπώματα &amp; έξυπνες κάρτες</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html" title="Είσοδος με δακτυλικό αποτύπωμα">Αναγνώστες αποτυπωμάτων</a></span>, έξυπνες κάρτες…</span>
+<a href="hardware-auth.html.el" title="Αποτυπώματα &amp; έξυπνες κάρτες">Αποτυπώματα &amp; έξυπνες κάρτες</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html.el" title="Είσοδος με δακτυλικό αποτύπωμα">Αναγνώστες αποτυπωμάτων</a></span>, έξυπνες κάρτες…</span>
 </li></ul></div>
 </div></div></div>
 </div>

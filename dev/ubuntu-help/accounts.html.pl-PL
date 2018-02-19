@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Konta online</span></h1></div>
@@ -51,12 +51,12 @@
 <div class="contents">
 <p class="p">Dane logowania dla niektórych serwisów internetowych, takich jak Google i Facebook, mogą zostać wprowadzone w oknie <span class="app">Konta online</span>. Umożliwia to korzystanie z usług, takich jak poczta e-mail, kalendarze, komunikator i dokumenty bezpośrednio w programach.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="accounts-add.html" title="Dodawanie konta"><span class="title">Dodawanie konta</span><span class="linkdiv-dash"> — </span><span class="desc">Umożliwienie programom na dostęp do kont online zawierających zdjęcia, kontakty, kalendarze i wiele więcej.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html" title="Usuwanie konta"><span class="title">Usuwanie konta</span><span class="linkdiv-dash"> — </span><span class="desc">Usuwanie dostępu do serwisu z programów.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html" title="Po co dodawać konta?"><span class="title">Po co dodawać konta?</span><span class="linkdiv-dash"> — </span><span class="desc">Po co dodawać konta e-mail lub serwisów społecznościowych na komputerze?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html" title="Czemu mój rodzaj konta nie jest na liście?"><span class="title">Czemu mój rodzaj konta nie jest na liście?</span><span class="linkdiv-dash"> — </span><span class="desc">Co jeśli mojego serwisu nie ma na liście?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html" title="Kontrolowanie, których usług konta online można używać"><span class="title">Kontrolowanie, których usług konta online można używać</span><span class="linkdiv-dash"> — </span><span class="desc">Niektóre konta online mogą być używane do dostępu do wielu usług (np. kalendarza i poczty e-mail). Można kontrolować, które z tych usług mogą być używane przez programy.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html" title="Usługi internetowe a programy"><span class="title">Usługi internetowe a programy</span><span class="linkdiv-dash"> — </span><span class="desc">Programy mogą używać kont utworzonych w panelu <span class="app">Konta online</span> i usług, które one dostarczają.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.pl-PL" title="Dodawanie konta"><span class="title">Dodawanie konta</span><span class="linkdiv-dash"> — </span><span class="desc">Umożliwienie programom na dostęp do kont online zawierających zdjęcia, kontakty, kalendarze i wiele więcej.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.pl-PL" title="Usuwanie konta"><span class="title">Usuwanie konta</span><span class="linkdiv-dash"> — </span><span class="desc">Usuwanie dostępu do serwisu z programów.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.pl-PL" title="Po co dodawać konta?"><span class="title">Po co dodawać konta?</span><span class="linkdiv-dash"> — </span><span class="desc">Po co dodawać konta e-mail lub serwisów społecznościowych na komputerze?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html.pl-PL" title="Czemu mój rodzaj konta nie jest na liście?"><span class="title">Czemu mój rodzaj konta nie jest na liście?</span><span class="linkdiv-dash"> — </span><span class="desc">Co jeśli mojego serwisu nie ma na liście?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.pl-PL" title="Kontrolowanie, których usług konta online można używać"><span class="title">Kontrolowanie, których usług konta online można używać</span><span class="linkdiv-dash"> — </span><span class="desc">Niektóre konta online mogą być używane do dostępu do wielu usług (np. kalendarza i poczty e-mail). Można kontrolować, które z tych usług mogą być używane przez programy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.pl-PL" title="Usługi internetowe a programy"><span class="title">Usługi internetowe a programy</span><span class="linkdiv-dash"> — </span><span class="desc">Programy mogą używać kont utworzonych w panelu <span class="app">Konta online</span> i usług, które one dostarczają.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -65,20 +65,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia użytkownika i systemu</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Klawiatura">Klawiatura</a></span>, <span class="link"><a href="mouse.html" title="Mysz">mysz</a></span>, <span class="link"><a href="prefs-display.html" title="Ekran">ekran</a></span>, <span class="link"><a href="prefs-language.html" title="Region i język">język</a></span>, <span class="link"><a href="user-accounts.html" title="Konta użytkowników">konta użytkowników</a></span>…</span>
+<a href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia użytkownika i systemu</a><span class="desc"> — <span class="link"><a href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a></span>, <span class="link"><a href="mouse.html.pl-PL" title="Mysz">mysz</a></span>, <span class="link"><a href="prefs-display.html.pl-PL" title="Ekran">ekran</a></span>, <span class="link"><a href="prefs-language.html.pl-PL" title="Region i język">język</a></span>, <span class="link"><a href="user-accounts.html.pl-PL" title="Konta użytkowników">konta użytkowników</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat.html" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Połączenia wideo">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="How can I use Skype on Ubuntu?">install skype</a></span>
+<a href="net-chat.html.pl-PL" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.pl-PL" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.pl-PL" title="Połączenia wideo">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.pl-PL" title="How can I use Skype on Ubuntu?">install skype</a></span>
     </span>
 </li>
-<li class="links "><a href="gs-connect-online-accounts.html" title="Łączenie z kontami online">Samouczek łączenia z kontami online</a></li>
+<li class="links "><a href="gs-connect-online-accounts.html.pl-PL" title="Łączenie z kontami online">Samouczek łączenia z kontami online</a></li>
 </ul></div>
 </div></div>
 </div>

@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="mouse.html" title="マウス">マウス</a> › <a class="trail" href="mouse.html#tips" title="ヒント">ヒント</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="mouse.html.ja" title="マウス">マウス</a> › <a class="trail" href="mouse.html.ja#tips" title="ヒント">ヒント</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="ヒントとコツ">ヒントとコツ</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.ja" title="ヒントとコツ">ヒントとコツ</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="mouse.html" title="マウス">マウス</a> › <a class="trail" href="mouse.html#tips" title="ヒント">ヒント</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ja" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="mouse.html.ja" title="マウス">マウス</a> › <a class="trail" href="mouse.html.ja#tips" title="ヒント">ヒント</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@ with a scroll wheel, you can usually press directly down on the scroll
 wheel to middle-click. If you don’t have a middle mouse button, you
 can press the left and right mouse buttons at the same time to
 middle-click.</p>
-<p class="p">マルチタップをサポートするタッチパッドでは、指 3 本でタップして中クリックを行えます。この機能を利用するには、タッチパッドの設定で、<span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">タップによるクリックを有効にする</a></span>必要があります。</p>
+<p class="p">マルチタップをサポートするタッチパッドでは、指 3 本でタップして中クリックを行えます。この機能を利用するには、タッチパッドの設定で、<span class="link"><a href="mouse-touchpad-click.html.ja" title="Click, drag, or scroll with the touchpad">タップによるクリックを有効にする</a></span>必要があります。</p>
 <p class="p">多くのアプリケーションが、拡張的なショートカット機能を中クリックに当てています。</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
@@ -83,9 +83,9 @@ button for other functions. Search your application’s help for
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="tips.html" title="ヒントとコツ">ヒントとコツ</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="特殊な文字を入力する">特殊文字</a></span>、<span class="link"><a href="mouse-middleclick.html" title="中クリック">中クリックのショートカット</a></span>…</span>
+<a href="tips.html.ja" title="ヒントとコツ">ヒントとコツ</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.ja" title="特殊な文字を入力する">特殊文字</a></span>、<span class="link"><a href="mouse-middleclick.html.ja" title="中クリック">中クリックのショートカット</a></span>…</span>
 </li>
-<li class="links "><a href="mouse.html#tips" title="ヒント">マウスのヒント</a></li>
+<li class="links "><a href="mouse.html.ja#tips" title="ヒント">マウスのヒント</a></li>
 </ul></div>
 </div></div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="color.html" title="Управљање бојом">Управљање бојом</a> › <a class="trail" href="color.html#profiles" title="Профили боје">Профили боје</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="color.html.sr" title="Управљање бојом">Управљање бојом</a> › <a class="trail" href="color.html.sr#profiles" title="Профили боје">Профили боје</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="color.html" title="Управљање бојом">Управљање бојом</a> › <a class="trail" href="color.html#profiles" title="Профили боје">Профили боје</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="color.html.sr" title="Управљање бојом">Управљање бојом</a> › <a class="trail" href="color.html.sr#profiles" title="Профили боје">Профили боје</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,28 +56,28 @@
 <p class="p">Можете да увезете профил боје двоструким кликом на <span class="input">.ICC</span> или <span class="input">.ICM</span> датотеку у управнику датотека.</p>
 <p class="p">Другачије можете да управљате вашим профилима боје са панела <span class="gui">Боје</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Боја</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Боја</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Боје</span> да отворите панел и изаберете ваш уређај.</p></li>
 <li class="steps"><p class="p">Кликните <span class="gui">Додај профил</span> да изаберете постојећи или да увезете нови профил.</p></li>
 <li class="steps"><p class="p">Притисните <span class="gui">Додај</span> да потврдите ваш избор.</p></li>
 </ol></div></div></div>
-<p class="p">Произвођач вашег екрана може да достави профил који можете да користите. Ти профили су углавном направљени за просечне екране, тако да не могу савршено да одговарају вашем посебном. Зарад боље калибрације, требало би да <span class="link"><a href="color-calibrate-screen.html" title="Како да калибришем мој екран?">направите ваш сопствени профил</a></span> користећи колориметар или спектрофотометар.</p>
+<p class="p">Произвођач вашег екрана може да достави профил који можете да користите. Ти профили су углавном направљени за просечне екране, тако да не могу савршено да одговарају вашем посебном. Зарад боље калибрације, требало би да <span class="link"><a href="color-calibrate-screen.html.sr" title="Како да калибришем мој екран?">направите ваш сопствени профил</a></span> користећи колориметар или спектрофотометар.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Профили боје">Профили боје</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.sr#profiles" title="Профили боје">Профили боје</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Како да доделим профил уређају?">Како да доделим профил уређају?</a><span class="desc"> — Погледајте <span class="guiseq"><span class="gui">Подешавања</span> ▸ <span class="gui">Боје</span></span> да додате профил боје за ваш екран.</span>
+<a href="color-assignprofiles.html.sr" title="Како да доделим профил уређају?">Како да доделим профил уређају?</a><span class="desc"> — Погледајте <span class="guiseq"><span class="gui">Подешавања</span> ▸ <span class="gui">Боје</span></span> да додате профил боје за ваш екран.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html" title="Шта је то профил боје?">Шта је то профил боје?</a><span class="desc"> — Профил боје је једноставна датотека која изражава простор боје или одазив уређаја.</span>
+<a href="color-whatisprofile.html.sr" title="Шта је то профил боје?">Шта је то профил боје?</a><span class="desc"> — Профил боје је једноставна датотека која изражава простор боје или одазив уређаја.</span>
 </li>
 </ul></div>
 </div></div>

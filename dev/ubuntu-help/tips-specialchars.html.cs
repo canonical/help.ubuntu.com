@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Tipy a triky">Tipy a triky</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.cs" title="Tipy a triky">Tipy a triky</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zadávání speciálních znaků</span></h1></div>
@@ -53,22 +53,14 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Způsoby vkládání znaků</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Mapa znaků">Mapa znaků</a></li>
-<li class="links "><a href="tips-specialchars.html#characters" title="Znaky">Znaky</a></li>
-<li class="links "><a href="tips-specialchars.html#compose" title="Klávesa Compose">Klávesa Compose</a></li>
-<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Kódy znaků">Kódy znaků</a></li>
-<li class="links "><a href="tips-specialchars.html#layout" title="Rozložení klávesnice">Rozložení klávesnice</a></li>
-<li class="links "><a href="tips-specialchars.html#im" title="Vstupní metody">Vstupní metody</a></li>
+<li class="links "><a href="tips-specialchars.html.cs#characters" title="Znaky">Znaky</a></li>
+<li class="links "><a href="tips-specialchars.html.cs#compose" title="Klávesa Compose">Klávesa Compose</a></li>
+<li class="links "><a href="tips-specialchars.html.cs#ctrlshiftu" title="Kódy znaků">Kódy znaků</a></li>
+<li class="links "><a href="tips-specialchars.html.cs#layout" title="Rozložení klávesnice">Rozložení klávesnice</a></li>
+<li class="links "><a href="tips-specialchars.html.cs#im" title="Vstupní metody">Vstupní metody</a></li>
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Mapa znaků</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">GNOME přichází s aplikací <span class="app">Mapa znaků</span>, která umožňuje procházet všechny znaky Unikódu. Můžete ji použít k vyhledání požadovaného znaku, a k jeho případnému zkopírování a vložení.</p>
-<p class="p"><span class="app">Mapu znaků</span> najdete v přehledu <span class="gui">Činností</span>. Více informací o ní najdete v <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">příručce k Mapě znaků</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Znaky</span></h2></div>
 <div class="region"><div class="contents">
@@ -85,12 +77,13 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Nadefinování klávesy Compose</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Vyladění</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Vyladění</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Vyladění</span> otevřete aplikaci.</p></li>
 <li class="steps"><p class="p">Klikněte na kartu <span class="gui">Klávesnice a myš</span>.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Vypnuto</span> vedle nastavení <span class="gui">Klávesa Compose</span>.</p></li>
 <li class="steps"><p class="p">V dialogovém okně zapněte přepínač a zvolte klávesovou zkratku, kterou chcete používat.</p></li>
 <li class="steps"><p class="p">Zaškrtněte políčko u klávesy, kterou chcete nastavit jako klávesu Compose.</p></li>
+<li class="steps"><p class="p">Zavřete dialogové okno.</p></li>
 <li class="steps"><p class="p">Zavřete okno <span class="gui">Vyladění</span>.</p></li>
 </ol></div>
 </div></div>
@@ -113,7 +106,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Rozložení klávesnice</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Můžete přimět svoji klávesnici, aby se chovala jako klávesnice pro jiný jazyk, než pro který má na klávesách popisky. Mezi různými rozvrženími klávesnice se můžete přepínat pomocí ikony na horní liště. Jak na to viz <span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">Použití alternativního rozložení klávesnice</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Můžete přimět svoji klávesnici, aby se chovala jako klávesnice pro jiný jazyk, než pro který má na klávesách popisky. Mezi různými rozvrženími klávesnice se můžete přepínat pomocí ikony na horní liště. Jak na to viz <span class="link"><a href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice">Použití alternativního rozložení klávesnice</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Vstupní metody</span></h2></div>
@@ -128,13 +121,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Tipy a triky">Tipy a triky</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Zadávání speciálních znaků">Speciální znaky</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Kliknutí prostředním tlačítkem">klávesové zkratky s prostředním tlačítkem</a></span>…</span>
+<a href="tips.html.cs" title="Tipy a triky">Tipy a triky</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.cs" title="Zadávání speciálních znaků">Speciální znaky</a></span>, <span class="link"><a href="mouse-middleclick.html.cs" title="Kliknutí prostředním tlačítkem">klávesové zkratky s prostředním tlačítkem</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">Použití alternativního rozložení klávesnice</a><span class="desc"> — Přidání rozložení klávesnice a přepnutí mezi nimi.</span>
+<a href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice">Použití alternativního rozložení klávesnice</a><span class="desc"> — Přidání rozložení klávesnice a přepnutí mezi nimi.</span>
 </li></ul></div>
 </div></div>
 </div>

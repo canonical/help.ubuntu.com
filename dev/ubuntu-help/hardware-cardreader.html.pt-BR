@@ -44,19 +44,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Som, vídeo &amp; imagens">Som, vídeo &amp; imagens</a> › <a class="trail" href="media.html#photos" title="Fotos e câmeras digitais">Fotos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.pt-BR" title="Som, vídeo &amp; imagens">Som, vídeo &amp; imagens</a> › <a class="trail" href="media.html.pt-BR#photos" title="Fotos e câmeras digitais">Fotos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.pt-BR#problems" title="Problemas comuns">Problemas</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problemas com leitor de cartão de memória</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Muitos computadores contêm leitores de SD, MMC, SM, MS, CF e outros cartões de armazenamento de mídia. Eles devem ser detectados automaticamente e <span class="link"><a href="disk-partitions.html" title="Gerenciando volumes e partições">montados</a></span>. Seguem aqui algumas etapas de soluções, caso não sejam:</p>
+<p class="p">Muitos computadores contêm leitores de SD, MMC, SM, MS, CF e outros cartões de armazenamento de mídia. Eles devem ser detectados automaticamente e <span class="link"><a href="disk-partitions.html.pt-BR" title="Gerenciando volumes e partições">montados</a></span>. Seguem aqui algumas etapas de soluções, caso não sejam:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Certifique-se de que o cartão está inserido corretamente. Muitos cartões ficam de cabeça para baixo quando estão inseridos corretamente. Também, certifique-se de que o cartão está inserido firmemente na abertura; alguns cartões, especialmente CF, requerem uma pequena quantidade de força para serem inseridos corretamente. (Tenha cuidado para não empurrar muito forte! Se você se deparar com algo sólido, não force.)</p></li>
-<li class="steps"><p class="p">Abra <span class="app">Arquivos</span> pelo panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span>. O cartão inserido aparece na lista de <span class="gui">Dispositivos</span> na barra lateral da esquerda? Algumas vezes, o cartão aparece nessa lista, mas não está montado; clique nele uma vez para montar. (Se a barra lateral não está visível, pressione <span class="key"><kbd>F9</kbd></span> ou clique em <span class="gui">Arquivos</span> na barra superior e selecione o <span class="gui">Barra lateral</span>.)</p></li>
+<li class="steps"><p class="p">Abra <span class="app">Arquivos</span> pelo panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span>. O cartão inserido aparece na lista de <span class="gui">Dispositivos</span> na barra lateral da esquerda? Algumas vezes, o cartão aparece nessa lista, mas não está montado; clique nele uma vez para montar. (Se a barra lateral não está visível, pressione <span class="key"><kbd>F9</kbd></span> ou clique em <span class="gui">Arquivos</span> na barra superior e selecione o <span class="gui">Barra lateral</span>.)</p></li>
 <li class="steps"><p class="p">Se seu cartão não for mostrado na barra lateral, clique <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>L</kbd></span></span> e, então, digite <span class="input">computer:///</span> e pressione <span class="key"><kbd>Enter</kbd></span>. Se o seu leitor de cartão estiver configurado corretamente, o leitor deve aparecer como uma unidade quando nenhum cartão estiver presente e como o próprio cartão, quando o cartão tiver sido montado.</p></li>
 <li class="steps"><p class="p">Se você vir o leitor de cartão, mas não o cartão, o problema pode ser com o próprio cartão. Tente um cartão diferente ou verifique o cartão em um leitor diferente, se possível.</p></li>
 </ol></div></div></div>
@@ -67,8 +67,8 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#photos" title="Fotos e câmeras digitais">Fotos</a></li>
-<li class="links "><a href="hardware.html#problems" title="Problemas comuns">Problemas com hardware</a></li>
+<li class="links "><a href="media.html.pt-BR#photos" title="Fotos e câmeras digitais">Fotos</a></li>
+<li class="links "><a href="hardware.html.pt-BR#problems" title="Problemas comuns">Problemas com hardware</a></li>
 </ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html" title="Manterse seguro na Internet">Manterse seguro na Internet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html.gl-GL" title="Manterse seguro na Internet">Manterse seguro na Internet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Portos de rede usados frecuentemente</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">This is a list of network ports commonly used by applications that provide
   network services, like file sharing or remote desktop viewing. You can change
-  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html" title="Activar ou bloquear o acceso á devasa">block or allow
+  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html.gl-GL" title="Activar ou bloquear o acceso á devasa">block or allow
   access</a></span> to these applications. There are thousands of ports in use, so
   this table isn’t complete.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
@@ -101,17 +101,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Manterse seguro na Internet">Manterse seguro na Internet</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="Preciso un software antivirus?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Activar ou bloquear o acceso á devasa">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Portos de rede usados frecuentemente">firewall ports</a></span>…
+<a href="net-security.html.gl-GL" title="Manterse seguro na Internet">Manterse seguro na Internet</a><span class="desc"> — 
+      <span class="link"><a href="net-antivirus.html.gl-GL" title="Preciso un software antivirus?">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.gl-GL" title="Activar ou bloquear o acceso á devasa">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.gl-GL" title="Portos de rede usados frecuentemente">firewall ports</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-on-off.html" title="Activar ou bloquear o acceso á devasa">Activar ou bloquear o acceso á devasa</a><span class="desc"> — Pode controlar que programas poden acceder á rede. Isto axúdalle a manter o seu computador seguro.</span>
+<a href="net-firewall-on-off.html.gl-GL" title="Activar ou bloquear o acceso á devasa">Activar ou bloquear o acceso á devasa</a><span class="desc"> — Pode controlar que programas poden acceder á rede. Isto axúdalle a manter o seu computador seguro.</span>
 </li></ul></div>
 </div></div>
 </div>

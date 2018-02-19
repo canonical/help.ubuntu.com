@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html#faq" title="Padomi un jautājumi">Padomi un jautājumi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.lv" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html.lv#faq" title="Padomi un jautājumi">Padomi un jautājumi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Slēpt datni</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p"><span class="app">Datnes</span> datņu pārvaldnieks dod iespēju pēc izvēles paslēpt vai parādīt atsevišķas datnes. Kad datne ir paslēpta, to nerāda datņu pārvaldnieks, tomēr tā vēl joprojām atrodas mapē.</p>
-<p class="p">Lai paslēptu datni, <span class="link"><a href="files-rename.html" title="Pārdēvēt datni vai mapi">pārdēvējiet to</a></span> ar <span class="file">.</span> jaunā nosaukuma sākumā. Piemēram, lai noslēptu datni <span class="file">piemērs.txt</span>, tas jāpārdēvē par <span class="file">.piemērs.txt</span>.</p>
+<p class="p">Lai paslēptu datni, <span class="link"><a href="files-rename.html.lv" title="Pārdēvēt datni vai mapi">pārdēvējiet to</a></span> ar <span class="file">.</span> jaunā nosaukuma sākumā. Piemēram, lai noslēptu datni <span class="file">piemērs.txt</span>, tas jāpārdēvē par <span class="file">.piemērs.txt</span>.</p>
 <div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Jūs varat paslēpt mapes tāpat kā datnes. Pārsauciet mapi, ieliekot <span class="file">.</span> tās nosaukuma sākumā.</p></div></div></div></div>
 </div>
 <div id="show-hidden" class="sect"><div class="inner">
@@ -65,8 +65,8 @@
 <div class="region"><div class="contents">
 <p class="p">Lai padarītu slēptu datni par parastu, dodieties uz mapi, kurā atrodas slēptās datne, un spiediet skata opciju pogu un izvēlieties <span class="gui">Rādīt slēptās datnes</span>. Tad atrodiet vajadzīgo datni un pārdēvējiet to tā, lai nosaukums nesāktos ar <span class="file">.</span>. Piemēram, lai padarītu redzamu datni <span class="file">.piemērs.txt</span>, tā būtu jāpārdēvē par <span class="file">piemērs.txt</span>.</p>
 <p class="p">Kad datne ir pārdēvēta, jūs varat spiest skata opciju pogu rīkjoslā un izvēlēties <span class="gui">Rādīt slēptās datnes</span> vai piespiest <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>, lai atkal padarītu slēptās datnes neredzamus.</p>
-<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Pēc noklusējuma slēptās datnes paliks redzamas līdz datņu pārvaldnieka aizvēršanai. Lai iestatītu slēpto datņu rādīšanu vienmēr, skatiet <span class="link"><a href="nautilus-views.html" title="Skatu iestatījumi lietotnē Datnes">Skatu iestatījumi lietotnē <span class="app">Datnes</span></a></span>.</p></div></div></div></div>
-<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Vairumam slēpto datņu ir <span class="file">.</span> nosaukuma sākumā, bet citām var būt <span class="file">~</span> nosaukuma beigās. Tās ir rezerves kopiju datnes. Skatiet <span class="link"><a href="files-tilde.html" title="Kas ir datne ar ~ tās nosaukuma beigās?">Kas ir datne ar <span class="file">~</span> tās nosaukuma beigās?</a></span>, lai uzzinātu vairāk.</p></div></div></div></div>
+<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Pēc noklusējuma slēptās datnes paliks redzamas līdz datņu pārvaldnieka aizvēršanai. Lai iestatītu slēpto datņu rādīšanu vienmēr, skatiet <span class="link"><a href="nautilus-views.html.lv" title="Skatu iestatījumi lietotnē Datnes">Skatu iestatījumi lietotnē <span class="app">Datnes</span></a></span>.</p></div></div></div></div>
+<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Vairumam slēpto datņu ir <span class="file">.</span> nosaukuma sākumā, bet citām var būt <span class="file">~</span> nosaukuma beigās. Tās ir rezerves kopiju datnes. Skatiet <span class="link"><a href="files-tilde.html.lv" title="Kas ir datne ar ~ tās nosaukuma beigās?">Kas ir datne ar <span class="file">~</span> tās nosaukuma beigās?</a></span>, lai uzzinātu vairāk.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -74,12 +74,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Padomi un jautājumi">Padomi un jautājumi</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.lv#faq" title="Padomi un jautājumi">Padomi un jautājumi</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-tilde.html" title="Kas ir datne ar ~ tās nosaukuma beigās?">Kas ir datne ar <span class="file">~</span> tās nosaukuma beigās?</a><span class="desc"> — Šīs ir rezerves kopiju datnes. Pēc noklusējuma tās ir slēptas.</span>
+<a href="files-tilde.html.lv" title="Kas ir datne ar ~ tās nosaukuma beigās?">Kas ir datne ar <span class="file">~</span> tās nosaukuma beigās?</a><span class="desc"> — Šīs ir rezerves kopiju datnes. Pēc noklusējuma tās ir slēptas.</span>
 </li></ul></div>
 </div></div>
 </div>

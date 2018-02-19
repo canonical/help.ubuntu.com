@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html#apps" title="Program och fönster">Program och fönster</a> » <a class="trail" href="shell-windows.html" title="Fönster och arbetsytor">Fönster och arbetsytor</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Arbeta med fönster">Fönster</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html.sv" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html.sv#apps" title="Program och fönster">Program och fönster</a> » <a class="trail" href="shell-windows.html.sv" title="Fönster och arbetsytor">Fönster och arbetsytor</a> › <a class="trail" href="shell-windows.html.sv#working-with-windows" title="Arbeta med fönster">Fönster</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Maximera och avmaximera ett fönster</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Du kan maximera ett fönster så att det upptar allt utrymme på ditt skrivbord och avmaximera ett fönster för att återställa det till dess normala storlek. Du kan också maximera fönster vertikalt längs vänster och höger sida av skärmen, så att du enkelt kan se två fönster samtidigt. Se <span class="link"><a href="shell-windows-tiled.html" title="Placera fönster sida-vid-sida">Placera fönster sida-vid-sida</a></span> för detaljer.</p>
-<p class="p">För att maximera ett fönster, ta tag i namnlisten och dra den till toppen av skärmen eller bara dubbelklicka på namnlisten. För att maximera ett fönster med tangentbordet, håll nej <span class="key"><a href="keyboard-key-super.html" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>-tangenten och tryck <span class="key"><kbd>↑</kbd></span> eller tryck <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
+<p class="p">Du kan maximera ett fönster så att det upptar allt utrymme på ditt skrivbord och avmaximera ett fönster för att återställa det till dess normala storlek. Du kan också maximera fönster vertikalt längs vänster och höger sida av skärmen, så att du enkelt kan se två fönster samtidigt. Se <span class="link"><a href="shell-windows-tiled.html.sv" title="Placera fönster sida-vid-sida">Placera fönster sida-vid-sida</a></span> för detaljer.</p>
+<p class="p">För att maximera ett fönster, ta tag i namnlisten och dra den till toppen av skärmen eller bara dubbelklicka på namnlisten. För att maximera ett fönster med tangentbordet, håll nej <span class="key"><a href="keyboard-key-super.html.sv" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span>-tangenten och tryck <span class="key"><kbd>↑</kbd></span> eller tryck <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
 <p class="p">För att återställa ett fönster till dess normala storlek, dra det bort från kanterna på skärmen. Om fönstret är maximera kan du dubbelklicka på namnlisten för att återställa det. Du kan också använda samma tangentbordsgenvägar du använde för att maximera fönstret.</p>
 <div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Håll ner <span class="key"><kbd>Super</kbd></span>-tangenten och dra i ett fönster var som helst för att flytta det.</p></div></div></div></div>
 </div>
@@ -59,12 +59,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Arbeta med fönster">Arbeta med fönster</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.sv#working-with-windows" title="Arbeta med fönster">Arbeta med fönster</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-tiled.html" title="Placera fönster sida-vid-sida">Placera fönster sida-vid-sida</a><span class="desc"> — Maximera två fönster sida-vid-sida.</span>
+<a href="shell-windows-tiled.html.sv" title="Placera fönster sida-vid-sida">Placera fönster sida-vid-sida</a><span class="desc"> — Maximera två fönster sida-vid-sida.</span>
 </li></ul></div>
 </div></div>
 </div>

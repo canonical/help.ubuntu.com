@@ -43,26 +43,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Seu ambiente">Área de trabalho</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicativos e janelas">Aplicativos e janelas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pt-BR" title="Seu ambiente">Área de trabalho</a> › <a class="trail" href="shell-overview.html.pt-BR#apps" title="Aplicativos e janelas">Aplicativos e janelas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Janelas e espaços de trabalho</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Assim como em outros ambientes, o GNOME usa janelas para exibir seus aplicativos em execução. Usando ambos panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e <span class="em">dash</span>, você pode inicializar novos aplicativos e controlar janelas ativas.</p>
+<p class="p">Assim como em outros ambientes, o GNOME usa janelas para exibir seus aplicativos em execução. Usando ambos panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e <span class="em">dash</span>, você pode inicializar novos aplicativos e controlar janelas ativas.</p>
 <p class="p">Você também pode agrupar seus aplicativos em espaços de trabalho. Visite os tópicos de ajuda sobre janela e espaço de trabalho logo abaixo para aprender mais sobre como usar esses recursos.</p>
 </div>
 <div id="working-with-windows" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Trabalhando com janelas</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Alternando entre janelas"><span class="title">Alternando entre janelas</span><span class="linkdiv-dash"> — </span><span class="desc">Pressione <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html" title="Janelas lado a lado"><span class="title">Janelas lado a lado</span><span class="linkdiv-dash"> — </span><span class="desc">Maximize duas janelas lado a lado.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html" title="Localizando uma janela perdida"><span class="title">Localizando uma janela perdida</span><span class="linkdiv-dash"> — </span><span class="desc">Verifique o panorama de <span class="gui">Atividades</span> ou outros espaços de trabalho.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.pt-BR" title="Alternando entre janelas"><span class="title">Alternando entre janelas</span><span class="linkdiv-dash"> — </span><span class="desc">Pressione <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.pt-BR" title="Janelas lado a lado"><span class="title">Janelas lado a lado</span><span class="linkdiv-dash"> — </span><span class="desc">Maximize duas janelas lado a lado.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.pt-BR" title="Localizando uma janela perdida"><span class="title">Localizando uma janela perdida</span><span class="linkdiv-dash"> — </span><span class="desc">Verifique o panorama de <span class="gui">Atividades</span> ou outros espaços de trabalho.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html" title="Maximizando e desmaximizando uma janela"><span class="title">Maximizando e desmaximizando uma janela</span><span class="linkdiv-dash"> — </span><span class="desc">Clique duplo ou arraste uma barra de título para maximizar ou restaurar uma janela.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html" title="Movendo e redimensionando janelas"><span class="title">Movendo e redimensionando janelas</span><span class="linkdiv-dash"> — </span><span class="desc">Organize as janelas em um espaço de trabalho para ajudar você a trabalhar com mais eficiência.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.pt-BR" title="Maximizando e desmaximizando uma janela"><span class="title">Maximizando e desmaximizando uma janela</span><span class="linkdiv-dash"> — </span><span class="desc">Clique duplo ou arraste uma barra de título para maximizar ou restaurar uma janela.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.pt-BR" title="Movendo e redimensionando janelas"><span class="title">Movendo e redimensionando janelas</span><span class="linkdiv-dash"> — </span><span class="desc">Organize as janelas em um espaço de trabalho para ajudar você a trabalhar com mais eficiência.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -70,17 +70,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Trabalhando com espaços de trabalho</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html" title="O que é um espaço de trabalho e como ele vai me ajudar?"><span class="title">O que é um espaço de trabalho e como ele vai me ajudar?</span><span class="linkdiv-dash"> — </span><span class="desc">Espaços de trabalho são uma maneira de agrupar janelas na sua área de trabalho.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html" title="Alternando entre espaços de trabalho"><span class="title">Alternando entre espaços de trabalho</span><span class="linkdiv-dash"> — </span><span class="desc">Use o seletor de espaço de trabalho.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.pt-BR" title="O que é um espaço de trabalho e como ele vai me ajudar?"><span class="title">O que é um espaço de trabalho e como ele vai me ajudar?</span><span class="linkdiv-dash"> — </span><span class="desc">Espaços de trabalho são uma maneira de agrupar janelas na sua área de trabalho.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.pt-BR" title="Alternando entre espaços de trabalho"><span class="title">Alternando entre espaços de trabalho</span><span class="linkdiv-dash"> — </span><span class="desc">Use o seletor de espaço de trabalho.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html" title="Movendo uma janela para um espaço de trabalho diferente"><span class="title">Movendo uma janela para um espaço de trabalho diferente</span><span class="linkdiv-dash"> — </span><span class="desc">Vá para o panorama de <span class="gui">Atividades</span> e arraste a janela para um espaço de trabalho diferente.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.pt-BR" title="Movendo uma janela para um espaço de trabalho diferente"><span class="title">Movendo uma janela para um espaço de trabalho diferente</span><span class="linkdiv-dash"> — </span><span class="desc">Vá para o panorama de <span class="gui">Atividades</span> e arraste a janela para um espaço de trabalho diferente.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Aplicativos e janelas">Aplicativos e janelas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.pt-BR#apps" title="Aplicativos e janelas">Aplicativos e janelas</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

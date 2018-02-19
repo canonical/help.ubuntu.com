@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Tipps und Tricks">Tipps und Tricks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.de" title="Tipps und Tricks">Tipps und Tricks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ermitteln, welche GNOME-Version läuft</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Lesen Sie die aktive Version von GNOME aus im Panel <span class="gui">Details</span> in den <span class="gui">Einstellungen</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Details</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Details</span> ein.</p></li>
 <li class="steps">
 <p class="p">Klicken Sie auf <span class="gui">Details</span>, um das Panel zu öffnen.</p>
 <p class="p">Ein Fenster wird geöffnet, in dem Informationen zu Ihrem System angezeigt werden, wie der Name der Distribution und die GNOME-Version.</p>
@@ -63,7 +63,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Tipps und Tricks">Tipps und Tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Sonderzeichen eingeben">Sonderzeichen</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Mittelklick">Aufgaben per Mittelklick abkürzen</a></span> …</span>
+<a href="tips.html.de" title="Tipps und Tricks">Tipps und Tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.de" title="Sonderzeichen eingeben">Sonderzeichen</a></span>, <span class="link"><a href="mouse-middleclick.html.de" title="Mittelklick">Aufgaben per Mittelklick abkürzen</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

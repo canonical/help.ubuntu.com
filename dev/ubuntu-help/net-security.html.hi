@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hi" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Keeping safe on the internet</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html" title="Enable or block firewall access"><span class="title">Enable or block firewall access</span><span class="linkdiv-dash"> — </span><span class="desc">You can control which programs can access the network. This helps to keep your computer secure.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html" title="Commonly-used network ports"><span class="title">Commonly-used network ports</span><span class="linkdiv-dash"> — </span><span class="desc">You need to specify the right network port to enable/disable network
+<div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html.hi" title="Enable or block firewall access"><span class="title">Enable or block firewall access</span><span class="linkdiv-dash"> — </span><span class="desc">You can control which programs can access the network. This helps to keep your computer secure.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html.hi" title="Commonly-used network ports"><span class="title">Commonly-used network ports</span><span class="linkdiv-dash"> — </span><span class="desc">You need to specify the right network port to enable/disable network
     access for a program with your firewall.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="Do I need anti-virus software?"><span class="title">Do I need anti-virus software?</span><span class="linkdiv-dash"> — </span><span class="desc">There are few Linux viruses, so you probably don’t need anti-virus
+<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html.hi" title="Do I need anti-virus software?"><span class="title">Do I need anti-virus software?</span><span class="linkdiv-dash"> — </span><span class="desc">There are few Linux viruses, so you probably don’t need anti-virus
     software.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="क्या मुझे मेरी ईमेल मे वायरस जांच करने की आवश्यकता हैं?"><span class="title">क्या मुझे मेरी ईमेल मे वायरस जांच करने की आवश्यकता हैं?</span><span class="linkdiv-dash"> — </span><span class="desc">Viruses are unlikely to infect your computer, but could infect the
+<div class="linkdiv "><a class="linkdiv" href="net-email-virus.html.hi" title="क्या मुझे मेरी ईमेल मे वायरस जांच करने की आवश्यकता हैं?"><span class="title">क्या मुझे मेरी ईमेल मे वायरस जांच करने की आवश्यकता हैं?</span><span class="linkdiv-dash"> — </span><span class="desc">Viruses are unlikely to infect your computer, but could infect the
     computers of people you email.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -62,12 +62,12 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">अधिक जानकारी</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Wireless Networking">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Wired Networking">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Network problems">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Web Browsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email &amp; email software">email accounts</a></span>…
+<a href="net.html.hi" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html.hi" title="Wireless Networking">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html.hi" title="Wired Networking">wired</a></span>,
+      <span class="link"><a href="net-problem.html.hi" title="Network problems">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html.hi" title="Web Browsers">web browsing</a></span>,
+      <span class="link"><a href="net-email.html.hi" title="Email &amp; email software">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

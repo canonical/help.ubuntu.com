@@ -43,26 +43,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.el" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html.el#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Παράθυρα και χώροι εργασίας</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Όπως άλλα γραφικά περιβάλλοντα, το GNOME χρησιμοποιεί παράθυρα για να εμφανίσει τις εκτελούμενες εφαρμογές σας. Χρησιμοποιώντας την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και το <span class="em">ταμπλό</span>, μπορείτε να εκκινήσετε νέες εφαρμογές και να ελέγξετε τα ενεργά παράθυρα.</p>
+<p class="p">Όπως άλλα γραφικά περιβάλλοντα, το GNOME χρησιμοποιεί παράθυρα για να εμφανίσει τις εκτελούμενες εφαρμογές σας. Χρησιμοποιώντας την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και το <span class="em">ταμπλό</span>, μπορείτε να εκκινήσετε νέες εφαρμογές και να ελέγξετε τα ενεργά παράθυρα.</p>
 <p class="p">Μπορείτε επίσης να ομαδοποιήσετε τις εφαρμογές σας στους χώρους εργασίας. Επισκεφτείτε τα θέματα βοήθειας για τα παράθυρα και τους χώρους εργασίας για καλύτερη εκμάθηση χρήσης αυτών των λειτουργιών.</p>
 </div>
 <div id="working-with-windows" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Δουλεύοντας με παράθυρα</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Εναλλαγή μεταξύ παραθύρων"><span class="title">Εναλλαγή μεταξύ παραθύρων</span><span class="linkdiv-dash"> — </span><span class="desc">Πατήστε <span class="keyseq"><span class="key"><kbd>Λογότυπο</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html" title="Εύρεση ενός χαμένου παραθύρου"><span class="title">Εύρεση ενός χαμένου παραθύρου</span><span class="linkdiv-dash"> — </span><span class="desc">Ελέγξτε την επισκόπηση <span class="gui">Δραστηριότητες</span> ή σε άλλους χώρους εργασίας.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html" title="Μεγιστοποίηση και απομεγιστοποίηση παραθύρου"><span class="title">Μεγιστοποίηση και απομεγιστοποίηση παραθύρου</span><span class="linkdiv-dash"> — </span><span class="desc">Κάντε διπλό κλικ ή σύρετε μια γραμμή τίτλου για να μεγιστοποιήσετε ή να επαναφέρετε ένα παράθυρο.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.el" title="Εναλλαγή μεταξύ παραθύρων"><span class="title">Εναλλαγή μεταξύ παραθύρων</span><span class="linkdiv-dash"> — </span><span class="desc">Πατήστε <span class="keyseq"><span class="key"><kbd>Λογότυπο</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.el" title="Εύρεση ενός χαμένου παραθύρου"><span class="title">Εύρεση ενός χαμένου παραθύρου</span><span class="linkdiv-dash"> — </span><span class="desc">Ελέγξτε την επισκόπηση <span class="gui">Δραστηριότητες</span> ή σε άλλους χώρους εργασίας.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.el" title="Μεγιστοποίηση και απομεγιστοποίηση παραθύρου"><span class="title">Μεγιστοποίηση και απομεγιστοποίηση παραθύρου</span><span class="linkdiv-dash"> — </span><span class="desc">Κάντε διπλό κλικ ή σύρετε μια γραμμή τίτλου για να μεγιστοποιήσετε ή να επαναφέρετε ένα παράθυρο.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html" title="Μετακίνηση και αυξομείωση παραθύρων"><span class="title">Μετακίνηση και αυξομείωση παραθύρων</span><span class="linkdiv-dash"> — </span><span class="desc">Τακτοποιήστε τα παράθυρα σε ένα χώρο εργασίας για να βοηθηθείτε να δουλέψετε πιο αποτελεσματικά.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html" title="Παράθεση παραθύρων"><span class="title">Παράθεση παραθύρων</span><span class="linkdiv-dash"> — </span><span class="desc">Μεγιστοποιήστε δύο παράθυρα πλάι-πλάι.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.el" title="Μετακίνηση και αυξομείωση παραθύρων"><span class="title">Μετακίνηση και αυξομείωση παραθύρων</span><span class="linkdiv-dash"> — </span><span class="desc">Τακτοποιήστε τα παράθυρα σε ένα χώρο εργασίας για να βοηθηθείτε να δουλέψετε πιο αποτελεσματικά.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.el" title="Παράθεση παραθύρων"><span class="title">Παράθεση παραθύρων</span><span class="linkdiv-dash"> — </span><span class="desc">Μεγιστοποιήστε δύο παράθυρα πλάι-πλάι.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -70,17 +70,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Δουλεύοντας με χώρους εργασίας</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html" title="Τι είναι ένας χώρος εργασίας και πώς θα με βοηθήσει;"><span class="title">Τι είναι ένας χώρος εργασίας και πώς θα με βοηθήσει;</span><span class="linkdiv-dash"> — </span><span class="desc">Οι χώροι εργασίας είναι ένας τρόπος ομαδοποίησης παραθύρων στην επιφάνεια εργασίας σας.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html" title="Εναλλαγή μεταξύ των χώρων εργασίας"><span class="title">Εναλλαγή μεταξύ των χώρων εργασίας</span><span class="linkdiv-dash"> — </span><span class="desc">Χρησιμοποιήστε τον επιλογέα χώρου εργασίας.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.el" title="Τι είναι ένας χώρος εργασίας και πώς θα με βοηθήσει;"><span class="title">Τι είναι ένας χώρος εργασίας και πώς θα με βοηθήσει;</span><span class="linkdiv-dash"> — </span><span class="desc">Οι χώροι εργασίας είναι ένας τρόπος ομαδοποίησης παραθύρων στην επιφάνεια εργασίας σας.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.el" title="Εναλλαγή μεταξύ των χώρων εργασίας"><span class="title">Εναλλαγή μεταξύ των χώρων εργασίας</span><span class="linkdiv-dash"> — </span><span class="desc">Χρησιμοποιήστε τον επιλογέα χώρου εργασίας.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html" title="Μετακίνηση παραθύρου σε διαφορετικό χώρο εργασίας"><span class="title">Μετακίνηση παραθύρου σε διαφορετικό χώρο εργασίας</span><span class="linkdiv-dash"> — </span><span class="desc">Μεταβείτε στην επισκόπηση <span class="gui">Δραστηριότητες</span> και σύρετε το παράθυρο σε έναν διαφορετικό χώρο εργασίας.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.el" title="Μετακίνηση παραθύρου σε διαφορετικό χώρο εργασίας"><span class="title">Μετακίνηση παραθύρου σε διαφορετικό χώρο εργασίας</span><span class="linkdiv-dash"> — </span><span class="desc">Μεταβείτε στην επισκόπηση <span class="gui">Δραστηριότητες</span> και σύρετε το παράθυρο σε έναν διαφορετικό χώρο εργασίας.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.el#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

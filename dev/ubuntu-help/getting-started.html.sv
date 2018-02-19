@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Komma igång</span></h1></div>
@@ -109,20 +109,20 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links title-heading"><h2><span class="title">Vanliga uppgifter</span></h2></div>
 <div class="region">
-<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html" title="Ansluta till nätkonton">Ansluta till nätkonton</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html" title="Använd systemsökning">Använd systemsökning</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html" title="Använda fönster och arbetsytor">Använda fönster och arbetsytor</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html" title="Surfa på nätet">Surfa på nätet</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html" title="Ändra bakgrund">Ändra bakgrund</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html" title="Ändra datum, tid och tidszon">Ändra datum, tid och tidszon</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html" title="Ansluta till nätet">Ansluta till nätet</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html" title="Starta program">Starta program</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html" title="Växla uppgifter">Växla uppgifter</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html.sv" title="Ansluta till nätkonton">Ansluta till nätkonton</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html.sv" title="Använd systemsökning">Använd systemsökning</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html.sv" title="Använda fönster och arbetsytor">Använda fönster och arbetsytor</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html.sv" title="Surfa på nätet">Surfa på nätet</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html.sv" title="Ändra bakgrund">Ändra bakgrund</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html.sv" title="Ändra datum, tid och tidszon">Ändra datum, tid och tidszon</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html.sv" title="Ansluta till nätet">Ansluta till nätet</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html.sv" title="Starta program">Starta program</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html.sv" title="Växla uppgifter">Växla uppgifter</a></div></div>
 </div>
 </div></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title title-links"><h2><span class="title"></span></h2></div>
-<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html" title="Handbok för Ubuntu-skrivbordet">Handbok för Ubuntu-skrivbordet</a></div></li></ul></div>
+<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html.sv" title="Handbok för Ubuntu-skrivbordet">Handbok för Ubuntu-skrivbordet</a></div></li></ul></div>
 </div></div>
 </div></div>
 <div class="clear"></div>

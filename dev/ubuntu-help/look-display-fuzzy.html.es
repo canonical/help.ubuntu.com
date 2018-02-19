@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comunes">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html" title="Problemas de la pantalla">Problemas de la pantalla</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html.es#problems" title="Problemas comunes">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html.es" title="Problemas de la pantalla">Problemas de la pantalla</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">¿Por qué parece que lo que hay en mi pantalla está difuso o pixelado?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Esto puede suceder porque la resolución de pantalla que ha definido no es la más adecuado para su pantalla.</p>
-<p class="p">Para solucionar este problema, abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">actividades</a></span> y empiece a escribir <span class="gui">Pantallas</span>. Pulse en <span class="gui">Pantallas</span> para abrir el panel. Pruebe algunas de las opciones de <span class="gui">Resolución</span> y establezca la que haga que se vea mejor la pantalla.</p>
+<p class="p">Para solucionar este problema, abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">actividades</a></span> y empiece a escribir <span class="gui">Pantallas</span>. Pulse en <span class="gui">Pantallas</span> para abrir el panel. Pruebe algunas de las opciones de <span class="gui">Resolución</span> y establezca la que haga que se vea mejor la pantalla.</p>
 </div>
 <div id="multihead" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Cuando hay varias monitores conectadas</span></h2></div>
@@ -59,7 +59,7 @@
 <p class="p">Es posible hacer que las dos pantallas tengan distinta resolución, pero entonces no podrá visualizar lo mismo en ambas pantallas simultáneamente. De hecho, tendría dos pantallas independientes conectadas al mismo tiempo. Puede mover ventanas de una pantalla a la otra, pero no podrá mostrar la misma ventana en ambas pantallas a la vez.</p>
 <p class="p">Para configurar las pantallas, para que cada una tenga su propia resolución:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Pantallas</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Pantallas</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Pantallas</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Las pantallas deben aparece <span class="gui">En espejo</span>. Seleccione su pantalla principal.</p></li>
 <li class="steps"><p class="p">Seleccione <span class="gui">Primaria</span> en la lista de configuraciones de pantalla y pulse <span class="gui">Aplicar</span> para guardar.</p></li>
@@ -73,13 +73,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-problems-graphics.html" title="Problemas de la pantalla">Problemas de la pantalla</a><span class="desc"> — Resolución de problemas de pantalla y gráficos.</span>
+<a href="hardware-problems-graphics.html.es" title="Problemas de la pantalla">Problemas de la pantalla</a><span class="desc"> — Resolución de problemas de pantalla y gráficos.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-resolution.html" title="Cambiar la resolución o la rotación de la pantalla">Cambiar la resolución o la rotación de la pantalla</a><span class="desc"> — Cambiar la resolución de la pantalla y su orientación (rotación).</span>
+<a href="look-resolution.html.es" title="Cambiar la resolución o la rotación de la pantalla">Cambiar la resolución o la rotación de la pantalla</a><span class="desc"> — Cambiar la resolución de la pantalla y su orientación (rotación).</span>
 </li></ul></div>
 </div></div>
 </div>

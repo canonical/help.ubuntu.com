@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-browser.html" title="Webböngészők">Webböngészők</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-browser.html.hu" title="Webböngészők">Webböngészők</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">A webhelyeket alapesetben megnyitó webböngésző megváltoztatása</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Amikor valamely alkalmazásban egy weboldalra mutató hivatkozásra kattint, automatikusan egy webböngészőt nyit meg. Ha azonban több böngésző van telepítve, akkor előfordulhat, hogy az oldal nem abban a böngészőben nyílik meg, amelyikben szeretné. Ezt elkerülendő, változtassa meg az alapértelmezett webböngészőt:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Részletek</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Részletek</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Részletek</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Válassza az <span class="gui">Alap alkalmazások</span> pontot az ablak bal oldalán látható listából.</p></li>
 <li class="steps"><p class="p">A <span class="gui">Web</span> legördülő listából kiválaszthatja, melyik böngészőt szeretné használni a hivatkozások megnyitásához.</p></li>
@@ -63,7 +63,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Webböngészők">Webböngészők</a><span class="desc"> — <span class="link"><a href="net-default-browser.html" title="A webhelyeket alapesetben megnyitó webböngésző megváltoztatása">Az alapértelmezett böngésző megváltoztatása</a></span>, <span class="link"><a href="net-install-flash.html" title="Flash bővítmény telepítése">Flash telepítése</a></span>…</span>
+<a href="net-browser.html.hu" title="Webböngészők">Webböngészők</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.hu" title="A webhelyeket alapesetben megnyitó webböngésző megváltoztatása">Az alapértelmezett böngésző megváltoztatása</a></span>, <span class="link"><a href="net-install-flash.html.hu" title="Flash bővítmény telepítése">Flash telepítése</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="prefs-display.html" title="ప్రదర్శన &amp; తెర">ప్రదర్శన &amp; తెర</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.te" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="prefs-display.html.te" title="ప్రదర్శన &amp; తెర">ప్రదర్శన &amp; తెర</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Connect another monitor to your computer</span></h1></div>
@@ -56,7 +56,7 @@
   your system does not recognize it immediately, or you would like to adjust
   the settings:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.te#activities" title="కార్యకలాపాల అవలోకనం">Activities</a></span> overview and
       start typing <span class="gui">Displays</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Displays</span> to open the panel.</p></li>
 <li class="steps">
@@ -65,7 +65,7 @@
       deactivate the monitor, or one of <span class="gui">Primary</span>,
       <span class="gui">Secondary</span>, or <span class="gui">Mirror</span> to activate it.</p>
 <div class="note" title="చీటి"><div class="inner"><div class="region"><div class="contents"><p class="p">The primary monitor is the one with the
-        <span class="link"><a href="shell-introduction.html" title="గ్నోమ్ పరిచయం">top bar</a></span>, and where the
+        <span class="link"><a href="shell-introduction.html.te" title="గ్నోమ్ పరిచయం">top bar</a></span>, and where the
         <span class="gui">Activities</span> overview is shown.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">To rotate the orientation of the monitor, use the buttons with the
@@ -80,7 +80,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="ప్రదర్శన &amp; తెర">ప్రదర్శన &amp; తెర</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">నేపథ్యం</a></span>, <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">పరిమాణం మరియు పరిభ్రమణం</a></span>, ప్రకాశత…</span>
+<a href="prefs-display.html.te" title="ప్రదర్శన &amp; తెర">ప్రదర్శన &amp; తెర</a><span class="desc"> — <span class="link"><a href="look-background.html.te" title="Change the desktop and lock screen backgrounds">నేపథ్యం</a></span>, <span class="link"><a href="look-resolution.html.te" title="Change the resolution or rotation of the screen">పరిమాణం మరియు పరిభ్రమణం</a></span>, ప్రకాశత…</span>
 </li></ul></div>
 </div></div></div>
 </div>

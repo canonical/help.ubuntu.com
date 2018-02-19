@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="printing.html" title="Impresión">Impresión</a> › <a class="trail" href="printing.html#setup" title="Configurar unha impresora">Configurar</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="printing.html.gl-GL" title="Impresión">Impresión</a> › <a class="trail" href="printing.html.gl-GL#setup" title="Configurar unha impresora">Configurar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Estabelecer a impresora predeterminada</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Se ten máis dunha impresora dispoñíbel, pode seleccionar a que será a súa impresora predeterminada. É posíbel que queira elixir a impresora que usa con máis frecuencia.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">You need <span class="link"><a href="user-admin-explain.html" title="Como funcionan os privilexios administrativos?">administrative privileges</a></span>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">You need <span class="link"><a href="user-admin-explain.html.gl-GL" title="Como funcionan os privilexios administrativos?">administrative privileges</a></span>
     on the system to set the default printer.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Impresoras</span>.</p></li>
 <li class="steps"><p class="p">Seleccione a impresora predeterminada da lista de impresoras dispoñíbeis.</p></li>
@@ -68,17 +68,17 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Configurar unha impresora">Configurar unha impresora</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.gl-GL#setup" title="Configurar unha impresora">Configurar unha impresora</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Como funcionan os privilexios administrativos?">Como funcionan os privilexios administrativos?</a><span class="desc"> — You need administrative privileges to change important parts of your
+<a href="user-admin-explain.html.gl-GL" title="Como funcionan os privilexios administrativos?">Como funcionan os privilexios administrativos?</a><span class="desc"> — You need administrative privileges to change important parts of your
     system.</span>
 </li>
 <li class="links ">
-<a href="printing-setup.html" title="Configurar unha impresora local">Configurar unha impresora local</a><span class="desc"> — Configurar unha impresora que está conectada ao seu computador.</span>
+<a href="printing-setup.html.gl-GL" title="Configurar unha impresora local">Configurar unha impresora local</a><span class="desc"> — Configurar unha impresora que está conectada ao seu computador.</span>
 </li>
 </ul></div>
 </div></div>

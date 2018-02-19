@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » <a class="trail" href="nautilus-prefs.html" title="Inställningar för filhanterare">Inställningar för filhanterare</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#more-file-tasks" title="Fler filrelaterade uppgifter">Fler filrelaterade uppgifter</a> » <a class="trail" href="nautilus-prefs.html.sv" title="Inställningar för filhanterare">Inställningar för filhanterare</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Visningsinställningar i <span class="app">Filer</span></span></h1></div>
@@ -55,7 +55,7 @@
 <dt class="terms"><span class="gui">Ordna objekt</span></dt>
 <dd class="terms">
 <p class="p">Du kan ändra standardsorteringsordningen som användes för mappar via rullgardinsmenyn <span class="gui">Ordna objekt</span> i inställningarna för att sortera efter namn, filstorlek, filtyp, när de senast modifierades, när de senast användes eller när de slängts.</p>
-<p class="p">Du kan ändra hur <span class="link"><a href="files-sort.html" title="Sortera filer och mappar">filer sorteras</a></span> i en specifik mapp genom att klicka på knappen visningsalternativ i verktygsfältet och välja <span class="gui">Namn</span>, <span class="gui">Storlek</span>, <span class="gui">Typ</span> eller <span class="gui">Senast ändrad</span> eller genom att klicka på kolumnrubrikerna i listvyn.</p>
+<p class="p">Du kan ändra hur <span class="link"><a href="files-sort.html.sv" title="Sortera filer och mappar">filer sorteras</a></span> i en specifik mapp genom att klicka på knappen visningsalternativ i verktygsfältet och välja <span class="gui">Namn</span>, <span class="gui">Storlek</span>, <span class="gui">Typ</span> eller <span class="gui">Senast ändrad</span> eller genom att klicka på kolumnrubrikerna i listvyn.</p>
 </dd>
 <dt class="terms"><span class="gui">Sortera mappar före filer</span></dt>
 <dd class="terms"><p class="p">Som standard visar filhanteraren inte längre alla mappar före filer. För att se alla mappar listas före filer, aktivera detta alternativ.</p></dd>
@@ -66,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Inställningar för filhanterare">Inställningar för filhanterare</a><span class="desc"> — Visa och ställ in inställningar för filhanteraren.</span>
+<a href="nautilus-prefs.html.sv" title="Inställningar för filhanterare">Inställningar för filhanterare</a><span class="desc"> — Visa och ställ in inställningar för filhanteraren.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Универзални приступ">Универзални приступ</a> › <a class="trail" href="a11y.html#vision" title="Оштећења вида">Оштећења вида</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.sr" title="Универзални приступ">Универзални приступ</a> › <a class="trail" href="a11y.html.sr#vision" title="Оштећења вида">Оштећења вида</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Повећајте област екрана</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Повећавање екрана је другачије од самог увећавања <span class="link"><a href="a11y-font-size.html" title="Измените величину текста на екрану">величине текста</a></span>. Ова функција је као да имате увеличавајуће стакло, које вам омогућава да се крећете унаоколо и да приближавате делове екрана.</p>
+<p class="p">Повећавање екрана је другачије од самог увећавања <span class="link"><a href="a11y-font-size.html.sr" title="Измените величину текста на екрану">величине текста</a></span>. Ова функција је као да имате увеличавајуће стакло, које вам омогућава да се крећете унаоколо и да приближавате делове екрана.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Универзални приступ</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Универзални приступ</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Универзални приступ</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Притисните <span class="gui">Увеличање</span> у одељку <span class="gui">Видети</span>.</p></li>
 <li class="steps"><p class="p">Пребаците <span class="gui">Увеличање</span> на <span class="gui">УКЉ.</span> у горњем десном углу у прозору <span class="gui">Опције увеличања</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Сада можете да се крећете унаоколо по области екрана. Померајући вашег миша до ивица екрана, помераћете увеличану област у разним правцима, што ће вам омогућити да видите област вашег избора.</p>
-<div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Можете да укључите или да искључите зумирање тако што ћете кликнути на <span class="link"><a href="a11y-icon.html" title="Пронађите изборник универзалног приступа">иконицу приступачности</a></span> на горњој траци и изабрати <span class="gui">Зумирај</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Можете да укључите или да искључите зумирање тако што ћете кликнути на <span class="link"><a href="a11y-icon.html.sr" title="Пронађите изборник универзалног приступа">иконицу приступачности</a></span> на горњој траци и изабрати <span class="gui">Зумирај</span>.</p></div></div></div></div>
 <p class="p">Можете да измените чинилац увеличања, праћење миша, и положај увеличаног прегледа на екрану. Дотерајте ово у језичку <span class="gui">Лупа</span> у прозору <span class="gui">Опција увећања</span>.</p>
 <p class="p">Можете да активирате нишан да вам помогне да пронађете миша или показивач додирне табле. Укључите их и дотерајте њихову дужину, боју и дебљину, у језичку <span class="gui">Нишана</span> у прозору подешавања <span class="gui">Увећања</span>.</p>
 <p class="p">Можете да се пребаците на обрнути видео или <span class="gui">Бело на црном</span>, и да подесите опције осветљености, контраста и сивила за лупу. Комбинација ових опција је корисна за људе са слабијим видом, сваки степен фотофобије, или само за коришћење рачунара под неповољним условима осветљености. Изаберите језичак <span class="gui">Ефекти боје</span> у прозору подешавања <span class="gui">Увећања</span> да укључите и измените ове опције.</p>
@@ -66,7 +66,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Оштећења вида">Оштећења вида</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.sr#vision" title="Оштећења вида">Оштећења вида</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

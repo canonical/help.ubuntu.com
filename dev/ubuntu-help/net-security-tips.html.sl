@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="Izrazi in namigi omrežja">Izrazi in namigi omrežja</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.sl" title="Izrazi in namigi omrežja">Izrazi in namigi omrežja</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Varnost na internetu</span></h1></div>
@@ -59,9 +59,9 @@
 <p class="p">Kljub vsem ukrepom, da bi bila vaša namestitev Linuxa varna, ranljivosti vedno obstajajo. Kot običajen uporabnik na internetu ste še vedno izpostavljeni:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Lažnemu predstavljanju (spletišča, ki s prevaro poskušajo pridobiti občutljive podatke)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html" title="Ali moram svojo e-pošto preiskati za viruse?">Posredovanje zlonamerne e-pošte</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html" title="Ali potrebujem protivirusni program?">Programom z zlonamernimi nameni (virusi)</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html" title="Kaj WEP in WPA pomenita?">Unauthorized remote/local network
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.sl" title="Ali moram svojo e-pošto preiskati za viruse?">Posredovanje zlonamerne e-pošte</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.sl" title="Ali potrebujem protivirusni program?">Programom z zlonamernimi nameni (virusi)</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.sl" title="Kaj WEP in WPA pomenita?">Unauthorized remote/local network
       access</a></span></p></li>
 </ul></div></div></div>
 <p class="p">Da bi ostali na spletui varni, se držite naslednjih namigov:</p>
@@ -72,11 +72,11 @@
       information you are submitting and the potential consequences if that
       information is compromised by identity thieves or other criminals.</p></li>
 <li class="list"><p class="p">Be careful in providing
-      <span class="link"><a href="user-admin-explain.html" title="Kako delujejo skrbniška dovoljenja?">root level permissions</a></span> to any
+      <span class="link"><a href="user-admin-explain.html.sl" title="Kako delujejo skrbniška dovoljenja?">root level permissions</a></span> to any
       application, especially ones that you have not used before or which are
       not well-known. Providing anyone or anything with root level permissions
       puts your computer at high risk to exploitation.</p></li>
-<li class="list"><p class="p">Prepričajte se, da poganjate le nujne storitve oddaljenega dostopa. Poganjanje SSH ali VNC je lahko uporabno, vendar vaš računalnik pusti izpostavljen vlomu, če ni pravilno zavarovan. Razmislite o uporabi <span class="link"><a href="net-firewall-on-off.html" title="Omogočanje in blokiranje dostopa do požarnega zidu">požarnega zidu</a></span> za pomoč pri zaščiti vašega računalnika pred vlomom.</p></li>
+<li class="list"><p class="p">Prepričajte se, da poganjate le nujne storitve oddaljenega dostopa. Poganjanje SSH ali VNC je lahko uporabno, vendar vaš računalnik pusti izpostavljen vlomu, če ni pravilno zavarovan. Razmislite o uporabi <span class="link"><a href="net-firewall-on-off.html.sl" title="Omogočanje in blokiranje dostopa do požarnega zidu">požarnega zidu</a></span> za pomoč pri zaščiti vašega računalnika pred vlomom.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -84,7 +84,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Izrazi in namigi omrežja">Izrazi in namigi omrežja</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Najdite svoj naslov IP">Najdite svoj naslov IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Kaj WEP in WPA pomenita?">varnost WEP in WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Kaj je naslov MAC?">naslovi MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Določitev nastavitvev posredniškega strežnika">posredniški strežniki</a></span> …</span>
+<a href="net-general.html.sl" title="Izrazi in namigi omrežja">Izrazi in namigi omrežja</a><span class="desc"> — <span class="link"><a href="net-findip.html.sl" title="Najdite svoj naslov IP">Najdite svoj naslov IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.sl" title="Kaj WEP in WPA pomenita?">varnost WEP in WPA</a></span>, <span class="link"><a href="net-macaddress.html.sl" title="Kaj je naslov MAC?">naslovi MAC</a></span>, <span class="link"><a href="net-proxy.html.sl" title="Določitev nastavitvev posredniškega strežnika">posredniški strežniki</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

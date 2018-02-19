@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html#problems" title="Common problems">Common problems</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.en" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="mouse.html.en" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html.en#problems" title="Common problems">Common problems</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">Settings</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html#problems" title="Common problems">Common problems</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.en" title="User &amp; system settings">Settings</a> » <a class="trail" href="mouse.html.en" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html.en#problems" title="Common problems">Common problems</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mouse pointer is not moving</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Check that the mouse is plugged in">Check that the mouse is plugged in</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Check that the mouse actually works">Check that the mouse actually works</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Checking wireless mice">Checking wireless mice</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.en#plugged-in" title="Check that the mouse is plugged in">Check that the mouse is plugged in</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.en#broken" title="Check that the mouse actually works">Check that the mouse actually works</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.en#wireless-mice" title="Checking wireless mice">Checking wireless mice</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Check that the mouse is plugged in</span></h2></div>
@@ -91,11 +91,11 @@
       bottom of the mouse to turn the mouse off completely, so you can take it
       with you without it constantly waking up.</p></li>
 <li class="list"><p class="p">If you are using a Bluetooth mouse, make sure you have actually paired the
-   mouse with your computer. See <span class="link"><a href="bluetooth-connect-device.html" title="Connect your computer to a Bluetooth device">Connect your computer to a Bluetooth device</a></span>.</p></li>
+   mouse with your computer. See <span class="link"><a href="bluetooth-connect-device.html.en" title="Connect your computer to a Bluetooth device">Connect your computer to a Bluetooth device</a></span>.</p></li>
 <li class="list"><p class="p">
    Click a button and see if the mouse pointer moves now. Some wireless mice go
    to sleep to save power, so might not respond until you click a button.
-   See <span class="link"><a href="mouse-wakeup.html" title="Mouse reacts with delay before it starts working">Mouse reacts with delay before it starts working</a></span>.
+   See <span class="link"><a href="mouse-wakeup.html.en" title="Mouse reacts with delay before it starts working">Mouse reacts with delay before it starts working</a></span>.
    </p></li>
 <li class="list"><p class="p">
    Check that the battery of the mouse is charged.
@@ -125,7 +125,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">More Information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Common problems">Common mouse problems</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.en#problems" title="Common problems">Common mouse problems</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

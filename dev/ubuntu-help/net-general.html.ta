@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">பிணையமாக்கல் சொற்கள் மற்றும் குறிப்புகள்</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html" title="IP முகவரி என்றால் என்ன?"><span class="title">IP முகவரி என்றால் என்ன?</span><span class="linkdiv-dash"> — </span><span class="desc">IP முகவரி என்பது உங்கள் கணினிக்கு தொலைபேசி எண் போன்றது.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html" title="MAC முகவரி என்றால் என்ன?"><span class="title">MAC முகவரி என்றால் என்ன?</span><span class="linkdiv-dash"> — </span><span class="desc">பிணைய வன்பொருளுக்கு நியமிக்கப்படும் தனித்துவ அடையாளம் காட்டி.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html" title="இணையத்தில் பாதுகாப்பாக இருத்தல்"><span class="title">இணையத்தில் பாதுகாப்பாக இருத்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">இணையத்தைப் பயன்படுத்தும் போது மனதில் வைத்துக் கொள்ள வேண்டிய சில குறிப்புகள்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html.ta" title="IP முகவரி என்றால் என்ன?"><span class="title">IP முகவரி என்றால் என்ன?</span><span class="linkdiv-dash"> — </span><span class="desc">IP முகவரி என்பது உங்கள் கணினிக்கு தொலைபேசி எண் போன்றது.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html.ta" title="MAC முகவரி என்றால் என்ன?"><span class="title">MAC முகவரி என்றால் என்ன?</span><span class="linkdiv-dash"> — </span><span class="desc">பிணைய வன்பொருளுக்கு நியமிக்கப்படும் தனித்துவ அடையாளம் காட்டி.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html.ta" title="இணையத்தில் பாதுகாப்பாக இருத்தல்"><span class="title">இணையத்தில் பாதுகாப்பாக இருத்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">இணையத்தைப் பயன்படுத்தும் போது மனதில் வைத்துக் கொள்ள வேண்டிய சில குறிப்புகள்.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-findip.html" title="உங்கள் IP முகவரியை கண்டுபிடித்தல்"><span class="title">உங்கள் IP முகவரியை கண்டுபிடித்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">உங்கள் IP முகவரியைத் தெரிந்துகொண்டால், பிணைய பிரச்சினைகளை பழுதுபார்க்க உதவும்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-proxy.html" title="பதிலி அமைவுகளை வரையறுத்தல்"><span class="title">பதிலி அமைவுகளை வரையறுத்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">A proxy is an intermediary for web traffic, it can be used for accessing web services anonymously, for control or security purposes.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-findip.html.ta" title="உங்கள் IP முகவரியை கண்டுபிடித்தல்"><span class="title">உங்கள் IP முகவரியை கண்டுபிடித்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">உங்கள் IP முகவரியைத் தெரிந்துகொண்டால், பிணைய பிரச்சினைகளை பழுதுபார்க்க உதவும்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-proxy.html.ta" title="பதிலி அமைவுகளை வரையறுத்தல்"><span class="title">பதிலி அமைவுகளை வரையறுத்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">A proxy is an intermediary for web traffic, it can be used for accessing web services anonymously, for control or security purposes.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -65,16 +65,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ்</a></span>, <span class="link"><a href="net-wired.html" title="வயர்டு பிணைய அமைப்பு">வயர்டு</a></span>, <span class="link"><a href="net-problem.html" title="பிணைய சிக்கல்கள்">இணைப்பு சிக்கல்கள்</a></span>, <span class="link"><a href="net-browser.html" title="வலை உலாவிகள்">வலை உலாவல்</a></span>, <span class="link"><a href="net-email.html" title="மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்">மின்னஞ்சல் கணக்குகள்</a></span>…</span>
+<a href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ta" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ்</a></span>, <span class="link"><a href="net-wired.html.ta" title="வயர்டு பிணைய அமைப்பு">வயர்டு</a></span>, <span class="link"><a href="net-problem.html.ta" title="பிணைய சிக்கல்கள்">இணைப்பு சிக்கல்கள்</a></span>, <span class="link"><a href="net-browser.html.ta" title="வலை உலாவிகள்">வலை உலாவல்</a></span>, <span class="link"><a href="net-email.html.ta" title="மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்">மின்னஞ்சல் கணக்குகள்</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ் பிணையமாக்கம்</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="ஒரு மறைக்கப்பட்ட வயர்லெஸ் பிணையத்துக்கு இணைத்தல்">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="என் வயர்லெஸ் பிணையம் ஏன் தொடர்ந்து துண்டிக்கப்படுகிறது?">Disconnecting</a></span>…
+<a href="net-wireless.html.ta" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ் பிணையமாக்கம்</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.ta" title="ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ta" title="ஒரு மறைக்கப்பட்ட வயர்லெஸ் பிணையத்துக்கு இணைத்தல்">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ta" title="என் வயர்லெஸ் பிணையம் ஏன் தொடர்ந்து துண்டிக்கப்படுகிறது?">Disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div>

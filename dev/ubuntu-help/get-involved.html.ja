@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html" title="もっと詳しく">もっと詳しく</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.ja" title="もっと詳しく">もっと詳しく</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">このガイドの改善に参加する</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">このヘルプシステムは、ボランティアのコミュニティによって作成されました。あなたの参加を歓迎しております。このヘルプページでなにか気づいた点（たとえば誤字、間違った説明、あったほうがよいのにまだカバーされていない話題など）があれば、<span class="em">バグ報告</span>することができます。</p>
 <p class="p">バグを報告するには、 <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>を押して、<span class="input">ubuntu-bug ubuntu-docs</span>と入力します。そして<span class="gui">Enter</span>を押して、不具合の情報を収集するためのプロセスを開始します。</p>
-<p class="p">バグの報告をどのようにするかの詳しい情報は<span class="link"><a href="report-ubuntu-bug.html" title="Ubuntuの問題を報告する">Ubuntuのバグを報告する説明</a></span>を見てください。</p>
+<p class="p">バグの報告をどのようにするかの詳しい情報は<span class="link"><a href="report-ubuntu-bug.html.ja" title="Ubuntuの問題を報告する">Ubuntuのバグを報告する説明</a></span>を見てください。</p>
 <p class="p">Ubuntuヘルプの改善へのご協力に感謝します！</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -60,13 +60,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html" title="もっと詳しく">もっと詳しく</a><span class="desc"> — <span class="link"><a href="about-this-guide.html" title="このガイドについて">このガイドを使う際のヒント</a></span>、<span class="link"><a href="get-involved.html" title="このガイドの改善に参加する">このガイドを改善するのを手伝う</a></span>…</span>
+<a href="more-help.html.ja" title="もっと詳しく">もっと詳しく</a><span class="desc"> — <span class="link"><a href="about-this-guide.html.ja" title="このガイドについて">このガイドを使う際のヒント</a></span>、<span class="link"><a href="get-involved.html.ja" title="このガイドの改善に参加する">このガイドを改善するのを手伝う</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="report-ubuntu-bug.html" title="Ubuntuの問題を報告する">Ubuntuの問題を報告する</a><span class="desc"> — Ubuntuの問題をどこでどのように報告するか。</span>
+<a href="report-ubuntu-bug.html.ja" title="Ubuntuの問題を報告する">Ubuntuの問題を報告する</a><span class="desc"> — Ubuntuの問題をどこでどのように報告するか。</span>
 </li></ul></div>
 </div></div>
 </div>

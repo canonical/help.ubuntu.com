@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="power.html" title="Daya &amp; baterai">Daya &amp; baterai</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="power.html" title="Daya &amp; baterai">Daya &amp; baterai</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 documents are stored and the computer completely switches off so it does not
 use any power, but the applications and documents will still be open when you
 switch on the computer again.</p>
-<p class="p">Unfortunately, hibernate <span class="link"><a href="power-suspendfail.html" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">doesn't work</a></span>
+<p class="p">Unfortunately, hibernate <span class="link"><a href="power-suspendfail.html.id" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">doesn't work</a></span>
  in many cases, which can cause you to lose data if you expect your documents
  and applications to re-open when you switch your computer back on. Therefore,
  hibernate is disabled by default.</p>
@@ -73,8 +73,8 @@ switch on the computer again.</p>
 </div></div>
 <p class="p">You can use the command line to test if hibernate works on your computer.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="app">Terminal</span> by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>t</kbd></span></span> or by searching for <span class="input">terminal</span>
-        in the <span class="gui">Dash</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="app">Terminal</span> by searching for <span class="input">terminal</span>
+     in the <span class="gui">Activities overview</span>.</p></li>
 <li class="steps">
 <p class="p">Type <span class="cmd">sudo systemctl hibernate</span> into the terminal and press <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Enter your password when prompted.</p>
@@ -120,17 +120,17 @@ ResultActive=yes</pre></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html" title="Periksa status baterai">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
+<a href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — 
+      <span class="link"><a href="power-status.html.id" title="Periksa status baterai">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-suspendfail.html" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.id" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Install &amp; remove software">Szoftver telepítése/eltávolítása</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.hu" title="Install &amp; remove software">Szoftver telepítése/eltávolítása</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nyelvek telepítése</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Az Ubuntu telepítésekor az angol mellett a kiválasztott nyelv is telepítésre kerül, de további nyelvek telepíthetők.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
@@ -59,7 +59,7 @@
 <li class="steps"><p class="p">Kattintson a <span class="gui">Nyelvek telepítése/eltávolítása</span> ikonra. A <span class="gui">Telepített nyelvek</span> ablak felsorol minden elérhető nyelvet, az aktuálisan telepítettek itt be lesznek jelölve.</p></li>
 <li class="steps"><p class="p">Jelölje be a telepíteni kívánt nyelveket, és törölje az eltávolítani kívántak jelölését.</p></li>
 <li class="steps"><p class="p">Nyomja meg a <span class="gui">Változtatások alkalmazása</span> gombot.</p></li>
-<li class="steps"><p class="p">Ehhez <span class="link"><a href="user-admin-explain.html" title="Hogyan működik a rendszergazdai jogosultság?">rendszergazdai jogosultságok</a></span> szükségesek. Írja be jelszavát, vagy a kért rendszergazdai fiók jelszavát.</p></li>
+<li class="steps"><p class="p">Ehhez <span class="link"><a href="user-admin-explain.html.hu" title="Hogyan működik a rendszergazdai jogosultság?">rendszergazdai jogosultságok</a></span> szükségesek. Írja be jelszavát, vagy a kért rendszergazdai fiók jelszavát.</p></li>
 </ol></div></div></div>
 <p class="p">A menük és üzenetek megjelenítésére használt fordításokon túl az új nyelvet kísérhetik a nyelvi támogatást megvalósító összetevők, például helyesírási szótárak, betűkészletek és beviteli módszerek.</p>
 <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">Egyes fordítások befejezetlenek lehetnek, és bizonyos alkalmazások esetleg egyáltalán nem támogatják a nyelvét.</p></div></div></div></div>
@@ -70,10 +70,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Alkalmazás eltávolítása">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+<a href="addremove.html.hu" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
+      <span class="link"><a href="addremove-install.html.hu" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.hu" title="Alkalmazás eltávolítása">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.hu" title="Add software repositories">add repositories</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -81,7 +81,7 @@
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Install additional applications">
+<a href="addremove-install.html.hu" title="Install additional applications">
     Install additional applications
   </a><span class="desc"> — 
       Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
@@ -89,7 +89,7 @@
     </span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Terület és nyelv">Terület és nyelv</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Nyelv megváltoztatása">Nyelv</a></span>, <span class="link"><a href="session-formats.html" title="Dátum és mértékegység-formátumok módosítása">terület és formátumok</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Alternatív billentyűzetkiosztások használata">billentyűzetkiosztások</a></span>…</span>
+<a href="prefs-language.html.hu" title="Terület és nyelv">Terület és nyelv</a><span class="desc"> — <span class="link"><a href="session-language.html.hu" title="Nyelv megváltoztatása">Nyelv</a></span>, <span class="link"><a href="session-formats.html.hu" title="Dátum és mértékegység-formátumok módosítása">terület és formátumok</a></span>, <span class="link"><a href="keyboard-layouts.html.hu" title="Alternatív billentyűzetkiosztások használata">billentyűzetkiosztások</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

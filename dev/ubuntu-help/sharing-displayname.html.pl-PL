@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-sharing.html" title="Ustawienia udostępniania">Ustawienia udostępniania</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-sharing.html.pl-PL" title="Ustawienia udostępniania">Ustawienia udostępniania</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Set the display name for your computer</span></h1></div>
@@ -54,9 +54,8 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Change the display name of your computer:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Sharing</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="gui">Udostępnianie</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Udostępnianie</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Udostępnianie</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Edit the text below <span class="gui">Computer Name</span> to change the name your
       computer displays on the network.</p></li>
 </ol></div>
@@ -67,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-sharing.html" title="Ustawienia udostępniania">Ustawienia udostępniania</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Control sharing over Bluetooth">Udostępnianie przez Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html" title="Share your personal files">Udostępnianie plików osobistych</a></span>, <span class="link"><a href="sharing-desktop.html" title="Udostępnianie pulpitu">Udostępnianie ekranu</a></span>, <span class="link"><a href="sharing-media.html" title="Udostępnianie muzyki, zdjęć i filmów">Udostępnianie multimediów</a></span>…</span>
+<a href="prefs-sharing.html.pl-PL" title="Ustawienia udostępniania">Ustawienia udostępniania</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.pl-PL" title="Control sharing over Bluetooth">Udostępnianie przez Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.pl-PL" title="Share your personal files">Udostępnianie plików osobistych</a></span>, <span class="link"><a href="sharing-desktop.html.pl-PL" title="Udostępnianie pulpitu">Udostępnianie ekranu</a></span>, <span class="link"><a href="sharing-media.html.pl-PL" title="Udostępnianie muzyki, zdjęć i filmów">Udostępnianie multimediów</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-security.html" title="Сачувајте безбедност на интернету">Сачувајте безбедност на интернету</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="net-security.html.sr" title="Сачувајте безбедност на интернету">Сачувајте безбедност на интернету</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Уопштено коришћени мрежни прикључци</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Ово је списак мрежних прикључака уопштено коришћених програмима који обезбеђују мрежне услуге, као дељење датотека или удаљени преглед радне површи. Можете да измените мрежну баријеру вашег система да <span class="link"><a href="net-firewall-on-off.html" title="Укључите или блокирајте приступ мрежне баријере">блокира или дозволи приступ</a></span> овим програмима. Постоји на хиљаде прикључака у употреби, тако да ова табела није потпуна.</p>
+<p class="p">Ово је списак мрежних прикључака уопштено коришћених програмима који обезбеђују мрежне услуге, као дељење датотека или удаљени преглед радне површи. Можете да измените мрежну баријеру вашег система да <span class="link"><a href="net-firewall-on-off.html.sr" title="Укључите или блокирајте приступ мрежне баријере">блокира или дозволи приступ</a></span> овим програмима. Постоји на хиљаде прикључака у употреби, тако да ова табела није потпуна.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
 <thead><tr>
 <td><p class="p">Прикључак</p></td>
@@ -96,13 +96,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Сачувајте безбедност на интернету">Сачувајте безбедност на интернету</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Да ли ми је потребан анти-вирус?">Антивирусни програми</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Укључите или блокирајте приступ мрежне баријере">основне мрежне баријере</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Уопштено коришћени мрежни прикључци">прикључници мрежне баријере</a></span>…</span>
+<a href="net-security.html.sr" title="Сачувајте безбедност на интернету">Сачувајте безбедност на интернету</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.sr" title="Да ли ми је потребан анти-вирус?">Антивирусни програми</a></span>, <span class="link"><a href="net-firewall-on-off.html.sr" title="Укључите или блокирајте приступ мрежне баријере">основне мрежне баријере</a></span>, <span class="link"><a href="net-firewall-ports.html.sr" title="Уопштено коришћени мрежни прикључци">прикључници мрежне баријере</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-on-off.html" title="Укључите или блокирајте приступ мрежне баријере">Укључите или блокирајте приступ мрежне баријере</a><span class="desc"> — Можете да одредите који програми могу да приступе мрежи. Ово помаже у очувању безбедности вашег рачунара.</span>
+<a href="net-firewall-on-off.html.sr" title="Укључите или блокирајте приступ мрежне баријере">Укључите или блокирајте приступ мрежне баријере</a><span class="desc"> — Можете да одредите који програми могу да приступе мрежи. Ово помаже у очувању безбедности вашег рачунара.</span>
 </li></ul></div>
 </div></div>
 </div>

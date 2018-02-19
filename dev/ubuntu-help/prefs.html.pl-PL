@@ -43,99 +43,86 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ustawienia użytkownika i systemu</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="clock.html" title="Data i czas">Data i czas</a></div>
+<div class="links-grid-link"><a href="clock.html.pl-PL" title="Data i czas">Data i czas</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-set.html.pl-PL" title="Zmiana daty i czasu">Ustawianie daty i czasu</a></span>, <span class="link"><a href="clock-world.html.pl-PL" title="Dodawanie zegara światowego">zegary światowe</a></span>, <span class="link"><a href="clock-timezone.html.pl-PL" title="Zmiana strefy czasowej">strefa czasowa</a></span>, <span class="link"><a href="clock-calendar.html.pl-PL" title="Spotkania w kalendarzu">kalendarz i spotkania</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="media.html.pl-PL#sound" title="Dźwięk">Dźwięk</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html.pl-PL" title="Zmiana głośności dźwięku">Głośność</a></span>, <span class="link"><a href="sound-usespeakers.html.pl-PL" title="Używanie innych głośników lub słuchawek">głośniki i słuchawki</a></span>, <span class="link"><a href="sound-usemic.html.pl-PL" title="Używanie innego mikrofonu">mikrofony</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="prefs-display.html.pl-PL" title="Ekran">Ekran</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="look-background.html.pl-PL" title="Zmiana tła pulpitu i ekranu blokady">Tło</a></span>, <span class="link"><a href="look-resolution.html.pl-PL" title="Change the resolution or rotation of the screen">rozmiar i obrót</a></span>, Jasność…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="clock-set.html" title="Zmiana daty i czasu">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Dodawanie zegara światowego">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="Zmiana strefy czasowej">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="Calendar appointments">calendar and appointments</a></span>…
+      <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.pl-PL" title="Make the keyboard cursor blink">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">keyboard accessibility</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html#sound" title="Basic sound">Dźwięk</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html" title="Zmiana głośności dźwięku">Głośność</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Use different speakers or headphones">głośniki i słuchawki</a></span>, <span class="link"><a href="sound-usemic.html" title="Use a different microphone">mikrofony</a></span>…</span></div>
+<div class="links-grid-link"><a href="accounts.html.pl-PL" title="Konta online">Konta online</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html.pl-PL" title="Dodawanie konta">Dodawanie konta online</a></span>, <span class="link"><a href="accounts-remove.html.pl-PL" title="Usuwanie konta">Usuwanie konta</a></span>, <span class="link"><a href="accounts-which-application.html.pl-PL" title="Usługi internetowe a programy">Informacje o usługach</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-display.html" title="Ekran">Ekran</a></div>
+<div class="links-grid-link"><a href="user-accounts.html.pl-PL" title="Konta użytkowników">Konta użytkowników</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="user-add.html.pl-PL" title="Dodawanie nowego konta użytkownika">Dodawanie użytkownika</a></span>, <span class="link"><a href="user-changepassword.html.pl-PL" title="Zmiana hasła">zmiana hasła</a></span>, <span class="link"><a href="user-admin-change.html.pl-PL" title="Change who has administrative privileges">administratorzy</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="mouse.html.pl-PL" title="Mysz">Mysz</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
-      brightness…
+      <span class="link"><a href="mouse-lefthanded.html.pl-PL" title="Use your mouse left-handed">Left-handed</a></span>,
+      <span class="link"><a href="mouse-sensitivity.html.pl-PL" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
+      <span class="link"><a href="mouse-touchpad-click.html.pl-PL" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="keyboard.html" title="Klawiatura">Klawiatura</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html" title="Make the keyboard cursor blink">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html#mobility" title="Niepełnosprawność ruchowa">keyboard accessibility</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="prefs-language.html.pl-PL" title="Region i język">Region i język</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.pl-PL" title="Zmiana używanego języka">Język</a></span>, <span class="link"><a href="session-formats.html.pl-PL" title="Change date and measurement formats">region i formaty</a></span>, <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Use alternative keyboard layouts">układy klawiatury</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="accounts.html" title="Konta online">Konta online</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html" title="Dodawanie konta">Dodawanie konta online</a></span>, <span class="link"><a href="accounts-remove.html" title="Usuwanie konta">Usuwanie konta</a></span>, <span class="link"><a href="accounts-which-application.html" title="Usługi internetowe a programy">Informacje o usługach</a></span>…</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="user-accounts.html" title="Konta użytkowników">Konta użytkowników</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="user-add.html" title="Dodawanie nowego konta użytkownika">Dodawanie użytkownika</a></span>, <span class="link"><a href="user-changepassword.html" title="Zmiana hasła">zmiana hasła</a></span>, <span class="link"><a href="user-admin-change.html" title="Change who has administrative privileges">administratorzy</a></span>…</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html" title="Mysz">Mysz</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="mouse-lefthanded.html" title="Use your mouse left-handed">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-language.html" title="Region i język">Region i język</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-language.html" title="Change which language you use">Język</a></span>, <span class="link"><a href="session-formats.html" title="Change date and measurement formats">region i formaty</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">układy klawiatury</a></span>…</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="startup-applications.html" title="Startup Applications">Startup Applications</a></div>
+<div class="links-grid-link"><a href="startup-applications.html.pl-PL" title="Startup Applications">Startup Applications</a></div>
 <div class="desc"><span class="desc">Choose what applications to start when you log in.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="wacom.html" title="Tablet graficzny firmy Wacom">Tablet graficzny firmy Wacom</a></div>
+<div class="links-grid-link"><a href="wacom.html.pl-PL" title="Tablet graficzny firmy Wacom">Tablet graficzny firmy Wacom</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="wacom-multi-monitor.html" title="Wybieranie monitora">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html" title="Konfiguracja rysika">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html" title="Use the tablet left-handed">use the tablet left handed</a></span>…
+      <span class="link"><a href="wacom-multi-monitor.html.pl-PL" title="Wybieranie monitora">Map a monitor</a></span>,
+      <span class="link"><a href="wacom-stylus.html.pl-PL" title="Konfiguracja rysika">configure the stylus</a></span>,
+      <span class="link"><a href="wacom-left-handed.html.pl-PL" title="Use the tablet left-handed">use the tablet left handed</a></span>…
   </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="privacy.html" title="Ustawienia prywatności">Ustawienia prywatności</a></div>
+<div class="links-grid-link"><a href="privacy.html.pl-PL" title="Ustawienia prywatności">Ustawienia prywatności</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="privacy-screen-lock.html" title="Automatyczne blokowanie ekranu">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
+      <span class="link"><a href="privacy-screen-lock.html.pl-PL" title="Automatyczne blokowanie ekranu">Screen lock</a></span>,
+      <span class="link"><a href="privacy-history-recent-off.html.pl-PL" title="Turn off or limit file history tracking">Usage history</a></span>,
+      <span class="link"><a href="privacy-purge.html.pl-PL" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-sharing.html" title="Ustawienia udostępniania">Ustawienia udostępniania</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sharing-bluetooth.html" title="Control sharing over Bluetooth">Udostępnianie przez Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html" title="Share your personal files">Udostępnianie plików osobistych</a></span>, <span class="link"><a href="sharing-desktop.html" title="Udostępnianie pulpitu">Udostępnianie ekranu</a></span>, <span class="link"><a href="sharing-media.html" title="Udostępnianie muzyki, zdjęć i filmów">Udostępnianie multimediów</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs-sharing.html.pl-PL" title="Ustawienia udostępniania">Ustawienia udostępniania</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-bluetooth.html.pl-PL" title="Control sharing over Bluetooth">Udostępnianie przez Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.pl-PL" title="Share your personal files">Udostępnianie plików osobistych</a></span>, <span class="link"><a href="sharing-desktop.html.pl-PL" title="Udostępnianie pulpitu">Udostępnianie ekranu</a></span>, <span class="link"><a href="sharing-media.html.pl-PL" title="Udostępnianie muzyki, zdjęć i filmów">Udostępnianie multimediów</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html" title="Zarządzanie kolorami">Zarządzanie kolorami</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="color-whyimportant.html" title="Why is color management important?">Why is this important</a></span>,
-      <span class="link"><a href="color.html#profiles" title="Profile kolorów">Color profiles</a></span>,
-      <span class="link"><a href="color.html#calibration" title="Kalibracja">How to calibrate a device</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.pl-PL" title="Why is color management important?">Dlaczego to jest ważne</a></span>, <span class="link"><a href="color.html.pl-PL#profiles" title="Profile kolorów">Profile kolorów</a></span>, <span class="link"><a href="color.html.pl-PL#calibration" title="Kalibracja">Jak skalibrować urządzenie</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="power.html" title="Zasilanie i akumulator">Zasilanie i akumulator</a></div>
+<div class="links-grid-link"><a href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="What happens when I suspend my computer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Why does my screen go dim after a while?">screen dimming</a></span>…
+      <span class="link"><a href="power-status.html.pl-PL" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.pl-PL" title="What happens when I suspend my computer?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.pl-PL" title="Why does my screen go dim after a while?">screen dimming</a></span>…
     </span></div>
 </div>
 </div></div></div></div>
@@ -143,7 +130,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.pl-PL" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

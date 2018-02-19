@@ -49,17 +49,17 @@
 <div class="contents">
 <p class="p"><span class="em">GNOME Classic</span> est une présentation de GNOME sous un aspect plus traditionnel. Il est basé sur les technologies de <span class="em">GNOME 3</span> et offre de nombreux changements dans l'interface utilisateur, comme les menus <span class="gui">Applications</span> et <span class="gui">Emplacements</span> dans la barre supérieure, ainsi qu'une liste des fenêtres en bas de l'écran.</p>
 <p class="p">You can use the <span class="gui">Applications</span> menu on the top bar to launch
- applications. The <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span>
+ applications. The <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span>
  overview is available by selecting the <span class="gui">Activities
  Overview</span> item from the menu.</p>
-<p class="p">Pour accéder à la <span class="em">vue d'ensemble des <span class="gui">Activités</span></span>, vous pouvez aussi appuyer sur la touche <span class="key"><a href="keyboard-key-super.html" title="Qu'est-ce que la touche Logo ?"><kbd>Logo</kbd></a></span>.</p>
+<p class="p">Pour accéder à la <span class="em">vue d'ensemble des <span class="gui">Activités</span></span>, vous pouvez aussi appuyer sur la touche <span class="key"><a href="keyboard-key-super.html.fr" title="Qu'est-ce que la touche Logo ?"><kbd>Logo</kbd></a></span>.</p>
 </div>
 <div id="gnome-classic-window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Liste des fenêtres</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">La liste des fenêtres en bas de l'écran donne accès à toutes les fenêtres et applications ouvertes et permet de les réduire et de les restaurer rapidement.</p>
 <p class="p">À droite de la liste des fenêtres, GNOME affiche un identifiant du bureau actuel, par exemple <span class="gui">1</span> si vous êtes dans le premier bureau. Cet identifiant montre aussi le nombre total de bureaux disponibles. Pour passer à un autre bureau, cliquez sur l'identifiant et choisissez le bureau voulu dans le menu.</p>
-<p class="p">Si une application ou un composant du système veut attirer votre attention, il affiche une icône bleue à la droite de la liste des fenêtres. En cliquant sur cette icône bleue, vous faites apparaître le <span class="link"><a href="shell-notifications.html" title="Notifications et tiroir de messagerie">tiroir de messagerie</a></span>, qui donne accès à toutes les notifications.</p>
+<p class="p">Si une application ou un composant du système veut attirer votre attention, il affiche une icône bleue à la droite de la liste des fenêtres. En cliquant sur cette icône bleue, vous faites apparaître le <span class="link"><a href="shell-notifications.html.fr" title="Notifications et tiroir de messagerie">tiroir de messagerie</a></span>, qui donne accès à toutes les notifications.</p>
 </div></div>
 </div></div>
 <div id="gnome-classic-switch" class="sect"><div class="inner">

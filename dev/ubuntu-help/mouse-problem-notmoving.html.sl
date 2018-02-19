@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="mouse.html" title="Miška">Miška</a> › <a class="trail" href="mouse.html#problems" title="Pogoste težave">Pogoste težave</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="mouse.html.sl" title="Miška">Miška</a> › <a class="trail" href="mouse.html.sl#problems" title="Pogoste težave">Pogoste težave</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="mouse.html" title="Miška">Miška</a> › <a class="trail" href="mouse.html#problems" title="Pogoste težave">Pogoste težave</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="mouse.html.sl" title="Miška">Miška</a> › <a class="trail" href="mouse.html.sl#problems" title="Pogoste težave">Pogoste težave</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Miškin kazalec se ne premika</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Preverite, da je miška vklopljena">Preverite, da je miška vklopljena</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Preverite, če miška deluje">Preverite, če miška deluje</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Preverjanje brezžične miške">Preverjanje brezžične miške</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.sl#plugged-in" title="Preverite, da je miška vklopljena">Preverite, da je miška vklopljena</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.sl#broken" title="Preverite, če miška deluje">Preverite, če miška deluje</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.sl#wireless-mice" title="Preverjanje brezžične miške">Preverjanje brezžične miške</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Preverite, da je miška vklopljena</span></h2></div>
@@ -78,8 +78,8 @@
 <li class="list"><p class="p">Make sure the mouse is turned on. There is often a switch on the
       bottom of the mouse to turn the mouse off completely, so you can take it
       with you without it constantly waking up.</p></li>
-<li class="list"><p class="p">Če uporabljate Bluetooth, se prepričajte, da ste dejansko seznanili miško s svojim računalnikom. Oglejte si <span class="link"><a href="bluetooth-connect-device.html" title="Povezava računalnika z napravo Bluetooth.">Povezava računalnika z napravo Bluetooth.</a></span>.</p></li>
-<li class="list"><p class="p">Kliknite na gumb in si oglejte, če se miškin kazalec zdaj premakne. Nekatere brezžične miške gredo za varčevanje z energijo v pripravljenost, zato se morda ne bodo odzvale, dokler ne kliknete na gumb. Oglejte si <span class="link"><a href="mouse-wakeup.html" title="Mouse reacts with delay before it starts working">Mouse reacts with delay before it starts working</a></span>.</p></li>
+<li class="list"><p class="p">Če uporabljate Bluetooth, se prepričajte, da ste dejansko seznanili miško s svojim računalnikom. Oglejte si <span class="link"><a href="bluetooth-connect-device.html.sl" title="Povezava računalnika z napravo Bluetooth.">Povezava računalnika z napravo Bluetooth.</a></span>.</p></li>
+<li class="list"><p class="p">Kliknite na gumb in si oglejte, če se miškin kazalec zdaj premakne. Nekatere brezžične miške gredo za varčevanje z energijo v pripravljenost, zato se morda ne bodo odzvale, dokler ne kliknete na gumb. Oglejte si <span class="link"><a href="mouse-wakeup.html.sl" title="Mouse reacts with delay before it starts working">Mouse reacts with delay before it starts working</a></span>.</p></li>
 <li class="list"><p class="p">Preverite, če je miškina baterija napolnjena.</p></li>
 <li class="list"><p class="p">Prepričajte se, da je sprejemnik trdno vklopljen v računalnik.</p></li>
 <li class="list"><p class="p">V primeru da lahko vaša miška in sprejemnik delata na različnih radio kanalih, se prepričajte, da delata na istem kanalu.</p></li>
@@ -92,7 +92,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Pogoste težave">Pogoste težave z miško</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.sl#problems" title="Pogoste težave">Pogoste težave z miško</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

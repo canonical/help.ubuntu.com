@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు">నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.te" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.te" title="నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు">నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Staying safe on the internet</span></h1></div>
@@ -62,10 +62,10 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Phishing Scams (websites and emails that try to obtain sensitive
       information through deception)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html" title="Do I need to scan my emails for viruses?">Forwarding malicious emails</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html" title="Do I need anti-virus software?">Applications with malicious intent
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.te" title="Do I need to scan my emails for viruses?">Forwarding malicious emails</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.te" title="Do I need anti-virus software?">Applications with malicious intent
       (viruses)</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html" title="What do WEP and WPA mean?">Unauthorized remote/local network
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.te" title="What do WEP and WPA mean?">Unauthorized remote/local network
       access</a></span></p></li>
 </ul></div></div></div>
 <p class="p">To stay safe online, keep in mind the following tips:</p>
@@ -77,14 +77,14 @@
       information you are submitting and the potential consequences if that
       information is compromised by identity thieves or other criminals.</p></li>
 <li class="list"><p class="p">Be careful in providing
-      <span class="link"><a href="user-admin-explain.html" title="How do administrative privileges work?">root level permissions</a></span> to any
+      <span class="link"><a href="user-admin-explain.html.te" title="How do administrative privileges work?">root level permissions</a></span> to any
       application, especially ones that you have not used before or which are
       not well-known. Providing anyone or anything with root level permissions
       puts your computer at high risk to exploitation.</p></li>
 <li class="list"><p class="p">Make sure you are only running necessary remote-access services.
       Having SSH or VNC running can be useful, but also leaves your computer
       open to intrusion if not secured properly. Consider using a
-      <span class="link"><a href="net-firewall-on-off.html" title="Enable or block firewall access">firewall</a></span> to help protect your
+      <span class="link"><a href="net-firewall-on-off.html.te" title="Enable or block firewall access">firewall</a></span> to help protect your
       computer from intrusion.</p></li>
 </ul></div></div></div>
 </div>
@@ -93,11 +93,11 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు">నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు</a><span class="desc"> — 
-      <span class="link"><a href="net-findip.html" title="మీ ఐపీ చిరునామాను కనుక్కోండి">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html" title="What is a MAC address?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html" title="ప్రాక్సీ అమరికలను నిర్వచించండి">proxies</a></span>…
+<a href="net-general.html.te" title="నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు">నెట్‌వర్కింగు పదాలు &amp; చిట్కాలు</a><span class="desc"> — 
+      <span class="link"><a href="net-findip.html.te" title="మీ ఐపీ చిరునామాను కనుక్కోండి">Find your IP address</a></span>,
+      <span class="link"><a href="net-wireless-wepwpa.html.te" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
+      <span class="link"><a href="net-macaddress.html.te" title="What is a MAC address?">MAC addresses</a></span>,
+      <span class="link"><a href="net-proxy.html.te" title="ప్రాక్సీ అమరికలను నిర్వచించండి">proxies</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

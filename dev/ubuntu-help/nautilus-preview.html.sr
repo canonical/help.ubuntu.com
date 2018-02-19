@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a> » <a class="trail" href="nautilus-prefs.html" title="Поставке управника датотека">Поставке управника датотека</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.sr" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html.sr#more-file-tasks" title="Задаци више окренути датотекама">Задаци више окренути датотекама</a> » <a class="trail" href="nautilus-prefs.html.sr" title="Поставке управника датотека">Поставке управника датотека</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Поставке прегледа управника датотека</span></h1></div>
@@ -53,11 +53,11 @@
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Датотеке</span></dt>
 <dd class="terms">
-<p class="p">По основи, сви прегледи се приказују за <span class="gui">Само за локалне датотеке</span>, на вашем рачунару или на прикљученим спољним уређајима. Можете да поставите ову функцију на <span class="gui">Увек</span> или <span class="gui">Никада</span>. Управник датотека може да <span class="link"><a href="nautilus-connect.html" title="Претражујте датотеке на серверу или мрежном дељењу">разгледа датотеке на другим рачунарима</a></span> преко локалне мреже или на интернету. Ако често разгледате датотеке на локалној мрежи, а мрежа има велики пропусни опсег, можда ћете пожелети да подесите опцију прегледа на <span class="gui">Увек</span>.</p>
+<p class="p">По основи, сви прегледи се приказују за <span class="gui">Само за локалне датотеке</span>, на вашем рачунару или на прикљученим спољним уређајима. Можете да поставите ову функцију на <span class="gui">Увек</span> или <span class="gui">Никада</span>. Управник датотека може да <span class="link"><a href="nautilus-connect.html.sr" title="Претражујте датотеке на серверу или мрежном дељењу">разгледа датотеке на другим рачунарима</a></span> преко локалне мреже или на интернету. Ако често разгледате датотеке на локалној мрежи, а мрежа има велики пропусни опсег, можда ћете пожелети да подесите опцију прегледа на <span class="gui">Увек</span>.</p>
 <p class="p">Поред тога, можете да користите поставку <span class="gui">Само за датотеке мање од</span> да ограничите величину датотека за претпреглед.</p>
 </dd>
 <dt class="terms"><span class="gui">Фасцикле</span></dt>
-<dd class="terms"><p class="p">Ако прикажете величине датотека у <span class="link"><a href="nautilus-list.html" title="Поставке колона списка датотека">колонама прегледа списком</a></span> или у <span class="link"><a href="nautilus-display.html#icon-captions" title="Натписи иконице">натписима иконица</a></span>, фасцикле ће бити приказане са бројем садржаних датотека и фасцикли. Бројање ставки у фасцикли може бити споро, нарочито за велике фасцикле, или преко мреже. Можете да укључите или да искључите ову могућност, или да је укључите само за датотеке на вашем рачунару и локалним спољним уређајима.</p></dd>
+<dd class="terms"><p class="p">Ако прикажете величине датотека у <span class="link"><a href="nautilus-list.html.sr" title="Поставке колона списка датотека">колонама прегледа списком</a></span> или у <span class="link"><a href="nautilus-display.html.sr#icon-captions" title="Натписи иконице">натписима иконица</a></span>, фасцикле ће бити приказане са бројем садржаних датотека и фасцикли. Бројање ставки у фасцикли може бити споро, нарочито за велике фасцикле, или преко мреже. Можете да укључите или да искључите ову могућност, или да је укључите само за датотеке на вашем рачунару и локалним спољним уређајима.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Поставке управника датотека">Поставке управника датотека</a><span class="desc"> — Прегледајте и подесите поставке разгледача датотека.</span>
+<a href="nautilus-prefs.html.sr" title="Поставке управника датотека">Поставке управника датотека</a><span class="desc"> — Прегледајте и подесите поставке разгледача датотека.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-preview.html" title="Погледајте датотеке и фасцикле">Погледајте датотеке и фасцикле</a><span class="desc"> — На брзину прикажите и сакријте прегледе докумената, слика, видео записа, и осталог.</span>
+<a href="files-preview.html.sr" title="Погледајте датотеке и фасцикле">Погледајте датотеке и фасцикле</a><span class="desc"> — На брзину прикажите и сакријте прегледе докумената, слика, видео записа, и осталог.</span>
 </li></ul></div>
 </div></div>
 </div>

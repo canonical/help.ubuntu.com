@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="hardware-problems-graphics.html" title="Ekrāna problēmas">Ekrāna problēmas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html.lv#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="hardware-problems-graphics.html.lv" title="Ekrāna problēmas">Ekrāna problēmas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kāpēc viss uz mana ekrāna izskatās miglains vai pikseļots?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Tas varētu notikt tāpēc, ka iestatītā displeja izšķirtspēja nav atbilstoša jūsu ekrānam.</p>
-<p class="p">Lai to atrisinātu, atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Displeji</span>. Izmēģiniet kādas no <span class="gui">Izšķirtspējas</span> opcijām un iestatiet to, ar kuru ekrāns izskatās vislabāk.</p>
+<p class="p">Lai to atrisinātu, atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Displeji</span>. Izmēģiniet kādas no <span class="gui">Izšķirtspējas</span> opcijām un iestatiet to, ar kuru ekrāns izskatās vislabāk.</p>
 </div>
 <div id="multihead" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Kad pieslēgti vairāki displeji</span></h2></div>
@@ -59,7 +59,7 @@
 <p class="p">Ir iespējams iestatīt displejiem atšķirīgas izšķirtspējas, taču tad uz abiem ekrāniem nevarēs rādīt vienu un to pašu. Būtībā būs vienlaikus pieslēgti divi neatkarīgi ekrāni. Varēsiet pārvietot logus no viena ekrāna uz citu, bet ne rādīt vienu un to pašu logu uz abiem ekrāniem vienlaikus.</p>
 <p class="p">Lai iestatītu displejus tā, lai katram būtu sava izšķirtspēja:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Displeji</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Displeji</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Displeji</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Displejiem jābūt norādītiem <span class="gui">Dublēt</span>. Izvēlieties galveno displeju.</p></li>
 <li class="steps"><p class="p">Izvēlieties <span class="gui">Primārais</span> displeju konfigurācijas sarakstā un tad spiediet <span class="gui">Pielietot</span>, lai saglabātu.</p></li>
@@ -73,13 +73,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-problems-graphics.html" title="Ekrāna problēmas">Ekrāna problēmas</a><span class="desc"> — Ekrāna un video problēmu novēršana.</span>
+<a href="hardware-problems-graphics.html.lv" title="Ekrāna problēmas">Ekrāna problēmas</a><span class="desc"> — Ekrāna un video problēmu novēršana.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-resolution.html" title="Nomainīt ekrāna izšķirtspēju vai rotāciju">Nomainīt ekrāna izšķirtspēju vai rotāciju</a><span class="desc"> — Nomainīt ekrāna izšķirtspēju un tā orientāciju (rotāciju).</span>
+<a href="look-resolution.html.lv" title="Nomainīt ekrāna izšķirtspēju vai rotāciju">Nomainīt ekrāna izšķirtspēju vai rotāciju</a><span class="desc"> — Nomainīt ekrāna izšķirtspēju un tā orientāciju (rotāciju).</span>
 </li></ul></div>
 </div></div>
 </div>

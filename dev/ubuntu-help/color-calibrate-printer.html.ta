@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="color.html" title="நிற மேலாண்மை">நிற மேலாண்மை</a> › <a class="trail" href="color.html#calibration" title="அளவைவகுத்தல்">அளவைவகுத்தல்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="color.html.ta" title="நிற மேலாண்மை">நிற மேலாண்மை</a> › <a class="trail" href="color.html.ta#calibration" title="அளவைவகுத்தல்">அளவைவகுத்தல்</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="color.html" title="நிற மேலாண்மை">நிற மேலாண்மை</a> › <a class="trail" href="color.html#calibration" title="அளவைவகுத்தல்">அளவைவகுத்தல்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="color.html.ta" title="நிற மேலாண்மை">நிற மேலாண்மை</a> › <a class="trail" href="color.html.ta#calibration" title="அளவைவகுத்தல்">அளவைவகுத்தல்</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -67,19 +67,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#calibration" title="அளவைவகுத்தல்">அளவைவகுத்தல்</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.ta#calibration" title="அளவைவகுத்தல்">அளவைவகுத்தல்</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html" title="என் கேமராவை எப்படி அளவை வகுப்பது?">என் கேமராவை எப்படி அளவை வகுப்பது?</a><span class="desc"> — உங்கள் கேமராவைக் கொண்டு துல்லியமான நிறங்களைப் படம்பிடிக்க அதனை அளவை வகுப்பது முக்கியம்.</span>
+<a href="color-calibrate-camera.html.ta" title="என் கேமராவை எப்படி அளவை வகுப்பது?">என் கேமராவை எப்படி அளவை வகுப்பது?</a><span class="desc"> — உங்கள் கேமராவைக் கொண்டு துல்லியமான நிறங்களைப் படம்பிடிக்க அதனை அளவை வகுப்பது முக்கியம்.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-screen.html" title="என் திரையை எப்படி அளவை வகுப்பது?">என் திரையை எப்படி அளவை வகுப்பது?</a><span class="desc"> — உங்கள் திரை நிறங்களை துல்லியமாக காண்பிக்க, திரையை அளவை வகுப்பது முக்கியம்.</span>
+<a href="color-calibrate-screen.html.ta" title="என் திரையை எப்படி அளவை வகுப்பது?">என் திரையை எப்படி அளவை வகுப்பது?</a><span class="desc"> — உங்கள் திரை நிறங்களை துல்லியமாக காண்பிக்க, திரையை அளவை வகுப்பது முக்கியம்.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-scanner.html" title="என் ஸ்கேனரை எப்படி அளவை வகுப்பது?">என் ஸ்கேனரை எப்படி அளவை வகுப்பது?</a><span class="desc"> — உங்கள் ஸ்கேனரைக் கொண்டு துல்லியமான நிறங்களை ஸ்கேன் செய்ய அதனை அளவை வகுப்பது முக்கியம்.</span>
+<a href="color-calibrate-scanner.html.ta" title="என் ஸ்கேனரை எப்படி அளவை வகுப்பது?">என் ஸ்கேனரை எப்படி அளவை வகுப்பது?</a><span class="desc"> — உங்கள் ஸ்கேனரைக் கொண்டு துல்லியமான நிறங்களை ஸ்கேன் செய்ய அதனை அளவை வகுப்பது முக்கியம்.</span>
 </li>
 </ul></div>
 </div></div>

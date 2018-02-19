@@ -43,72 +43,72 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Networking, web &amp; email</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html" title="无线网络">无线网络</a></div>
+<div class="links-grid-link"><a href="net-wireless.html.zh-CN" title="无线网络">无线网络</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-connect.html" title="连接到一个无线网络">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="连接到一个隐藏的无线网络">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="为什么我的无线网络总是断开？">Disconnecting</a></span>…
+      <span class="link"><a href="net-wireless-connect.html.zh-CN" title="连接到一个无线网络">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.zh-CN" title="连接到一个隐藏的无线网络">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.zh-CN" title="为什么我的无线网络总是断开？">Disconnecting</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html" title="Web 浏览器">Web 浏览器</a></div>
+<div class="links-grid-link"><a href="net-browser.html.zh-CN" title="Web 浏览器">Web 浏览器</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="安装 Flash 插件">install Flash</a></span>…
+      <span class="link"><a href="net-default-browser.html.zh-CN" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-install-flash.html.zh-CN" title="安装 Flash 插件">install Flash</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-security.html" title="保证网络安全">保证网络安全</a></div>
+<div class="links-grid-link"><a href="net-security.html.zh-CN" title="保证网络安全">保证网络安全</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-antivirus.html" title="我需要安装反病毒软件吗？">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="启用和阻止防火墙访问">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="常用网络端口">firewall ports</a></span>…
+      <span class="link"><a href="net-antivirus.html.zh-CN" title="我需要安装反病毒软件吗？">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.zh-CN" title="启用和阻止防火墙访问">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.zh-CN" title="常用网络端口">firewall ports</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="sharing.html" title="共享">共享</a></div>
+<div class="links-grid-link"><a href="sharing.html.zh-CN" title="共享">共享</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="sharing-desktop.html" title="共享您的桌面">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html" title="Share files by email">Share files by email</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Share your music, photos and videos">Media sharing</a></span>…
+      <span class="link"><a href="sharing-desktop.html.zh-CN" title="共享您的桌面">Desktop sharing</a></span>,
+      <span class="link"><a href="files-share.html.zh-CN" title="Share files by email">Share files by email</a></span>,
+      <span class="link"><a href="sharing-media.html.zh-CN" title="Share your music, photos and videos">Media sharing</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html" title="有线网络">有线网络</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html" title="连接到有线网络(以太网)">有线连接</a></span>、<span class="link"><a href="net-fixed-ip-address.html" title="创建一个固定 IP 地址的连接">固定 IP 地址</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wired.html.zh-CN" title="有线网络">有线网络</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.zh-CN" title="连接到有线网络(以太网)">有线连接</a></span>、<span class="link"><a href="net-fixed-ip-address.html.zh-CN" title="创建一个固定 IP 地址的连接">固定 IP 地址</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-general.html" title="网络术语与提示">网络术语与提示</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html" title="查看您的 IP 地址">查看 IP 地址</a></span>、<span class="link"><a href="net-wireless-wepwpa.html" title="WEP 和 WPA 是什么意思？">WEP 和 WPA 安全</a></span>、<span class="link"><a href="net-macaddress.html" title="什么是 MAC 地址？">MAC 地址</a></span>、<span class="link"><a href="net-proxy.html" title="代理服务器设置">代理</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-general.html.zh-CN" title="网络术语与提示">网络术语与提示</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.zh-CN" title="查看您的 IP 地址">查看 IP 地址</a></span>、<span class="link"><a href="net-wireless-wepwpa.html.zh-CN" title="WEP 和 WPA 是什么意思？">WEP 和 WPA 安全</a></span>、<span class="link"><a href="net-macaddress.html.zh-CN" title="什么是 MAC 地址？">MAC 地址</a></span>、<span class="link"><a href="net-proxy.html.zh-CN" title="代理服务器设置">代理</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-problem.html" title="网络问题">网络问题</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="无线网络故障排除">解决无线连接问题</a></span>、<span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">查看 wifi 网络</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-problem.html.zh-CN" title="网络问题">网络问题</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.zh-CN" title="无线网络故障排除">解决无线连接问题</a></span>、<span class="link"><a href="net-wireless-find.html.zh-CN" title="I can’t see my wireless network in the list">查看 wifi 网络</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-chat.html" title="聊天和社交网络">聊天和社交网络</a></div>
+<div class="links-grid-link"><a href="net-chat.html.zh-CN" title="聊天和社交网络">聊天和社交网络</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-chat-empathy.html" title="在 Ubuntu 上使用即时通讯工具">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="视频呼叫">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="如何在 Ubuntu 上使用 Skype？">install skype</a></span>
+      <span class="link"><a href="net-chat-empathy.html.zh-CN" title="在 Ubuntu 上使用即时通讯工具">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.zh-CN" title="视频呼叫">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.zh-CN" title="如何在 Ubuntu 上使用 Skype？">install skype</a></span>
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="contacts.html" title="联系人">联系人</a></div>
+<div class="links-grid-link"><a href="contacts.html.zh-CN" title="联系人">联系人</a></div>
 <div class="desc"><span class="desc">查看联系人。</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-email.html" title="邮件和邮件客户端">邮件和邮件客户端</a></div>
+<div class="links-grid-link"><a href="net-email.html.zh-CN" title="邮件和邮件客户端">邮件和邮件客户端</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-email.html" title="设置用于书写邮件的应用程序">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html" title="要为电子邮件扫描病毒吗？">Should I scan for viruses?</a></span>…
+      <span class="link"><a href="net-default-email.html.zh-CN" title="设置用于书写邮件的应用程序">Default email apps</a></span>,
+      <span class="link"><a href="net-email-virus.html.zh-CN" title="要为电子邮件扫描病毒吗？">Should I scan for viruses?</a></span>…
     </span></div>
 </div>
 </div></div></div></div>
@@ -116,7 +116,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu 桌面指南">Ubuntu 桌面指南</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.zh-CN" title="Ubuntu 桌面指南">Ubuntu 桌面指南</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

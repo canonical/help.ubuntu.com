@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html" title="E-pošta, programi e-pošte">E-pošta, programi e-pošte</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html.sl" title="E-pošta, programi e-pošte">E-pošta, programi e-pošte</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html" title="Varnost na internetu">Varnost na internetu</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html.sl" title="Varnost na internetu">Varnost na internetu</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Virusi so programi, ki na vašem računalniku povzročajo težave. Pogosto se prenesejo na računalnik preko sporočil e-pošte.</p>
 <p class="p">Viruses that can affect computers running Linux are quite rare, so you are
-  <span class="link"><a href="net-antivirus.html" title="Ali potrebujem protivirusni program?">unlikely to get a virus through email or
+  <span class="link"><a href="net-antivirus.html.sl" title="Ali potrebujem protivirusni program?">unlikely to get a virus through email or
   otherwise</a></span>. If you receive an email with a virus hidden in it, it will
   probably have no effect on your computer. As such, you probably don’t need to
   scan your email for viruses.</p>
@@ -75,16 +75,16 @@
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-email.html" title="E-pošta, programi e-pošte">E-pošta, programi e-pošte</a><span class="desc"> — 
-      <span class="link"><a href="net-default-email.html" title="Spremenite poštni program s katerim boste pisali e-pošto.">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html" title="Ali moram svojo e-pošto preiskati za viruse?">Should I scan for viruses?</a></span>…
+<a href="net-email.html.sl" title="E-pošta, programi e-pošte">E-pošta, programi e-pošte</a><span class="desc"> — 
+      <span class="link"><a href="net-default-email.html.sl" title="Spremenite poštni program s katerim boste pisali e-pošto.">Default email apps</a></span>,
+      <span class="link"><a href="net-email-virus.html.sl" title="Ali moram svojo e-pošto preiskati za viruse?">Should I scan for viruses?</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="net-security.html" title="Varnost na internetu">Varnost na internetu</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="Ali potrebujem protivirusni program?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Omogočanje in blokiranje dostopa do požarnega zidu">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Pogosto uporabljena vrata omrežja">firewall ports</a></span>…
+<a href="net-security.html.sl" title="Varnost na internetu">Varnost na internetu</a><span class="desc"> — 
+      <span class="link"><a href="net-antivirus.html.sl" title="Ali potrebujem protivirusni program?">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.sl" title="Omogočanje in blokiranje dostopa do požarnega zidu">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.sl" title="Pogosto uporabljena vrata omrežja">firewall ports</a></span>…
     </span>
 </li>
 </ul></div>
@@ -92,7 +92,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="Ali potrebujem protivirusni program?">Ali potrebujem protivirusni program?</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
+<a href="net-antivirus.html.sl" title="Ali potrebujem protivirusni program?">Ali potrebujem protivirusni program?</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
     software.</span>
 </li></ul></div>
 </div></div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-wired.html" title="Conexiones cableadas">Conexiones cableadas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-wired.html.es" title="Conexiones cableadas">Conexiones cableadas</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-wireless.html" title="Conexiones inalámbricas">Conexiones inalámbricas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-wireless.html.es" title="Conexiones inalámbricas">Conexiones inalámbricas</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,13 +58,13 @@
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Si no hay ningún paquete de NetworkManager para su tipo de VPN, probablemente tendrá que descargar e instalar algún programa cliente de la empresa que proporcione el software VPN. Probablemente tendrá que seguir algunas instrucciones distintas para hacer que funcione.</p></div></div></div></div>
 <p class="p">Para configurar una conexión VPN:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Red</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Red</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Red</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">En la parte inferior de la lista, a la izquierda, pulse el botón <span class="gui">+</span> para añadir una conexión nueva.</p></li>
 <li class="steps"><p class="p">Elija <span class="gui">VPN</span> en la lista de interfaces.</p></li>
 <li class="steps"><p class="p">Seleccione qué tipo de conexión VPN tiene.</p></li>
 <li class="steps"><p class="p">Rellene los detalles de la conexión VPN y pulse <span class="gui">Añadir</span> cuando haya terminado.</p></li>
-<li class="steps"><p class="p">Cuando termine de configurar la VPN, abra el <span class="gui"><a href="shell-introduction.html#yourname" title="Usted y su equipo">menú del sistema</a></span> en la parte derecha de la barra superior, pulse en <span class="gui">VPN apagada</span> y seleccione <span class="gui">Conectar</span>. Es posible que deba introducir una contraseña antes de establecer la conexión. Cuando la conexión se establezca, verá un icono de un candado en la barra superior.</p></li>
+<li class="steps"><p class="p">Cuando termine de configurar la VPN, abra el <span class="gui"><a href="shell-introduction.html.es#yourname" title="Usted y su equipo">menú del sistema</a></span> en la parte derecha de la barra superior, pulse en <span class="gui">VPN apagada</span> y seleccione <span class="gui">Conectar</span>. Es posible que deba introducir una contraseña antes de establecer la conexión. Cuando la conexión se establezca, verá un icono de un candado en la barra superior.</p></li>
 <li class="steps"><p class="p">Si todo va bien, se conectará correctamente a la VPN. De lo contrario, puede que necesite volver a comprobar la configuración VPN que introdujo. Puede hacerlo pulsando desde el panel de <span class="gui">Red</span> que usó para crear la conexión, seleccionando la conexión VPN en la lista y pulsando el botón <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuración"></span></span> para revisar la configuración.</p></li>
 <li class="steps"><p class="p">Para desconectarse de la VPN, pulse en el menú del sistema en la barra superior y pulse <span class="gui">Apagar</span> bajo el nombre de su conexión VPN.</p></li>
 </ol></div></div></div>
@@ -75,10 +75,10 @@
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wired.html" title="Conexiones cableadas">Conexiones cableadas</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Conectar a una red cableada (Ethernet)">Conexiones de Internet cableadas</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Crear una conexión con una dirección IP fija">direcciones IP fijas</a></span>…</span>
+<a href="net-wired.html.es" title="Conexiones cableadas">Conexiones cableadas</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.es" title="Conectar a una red cableada (Ethernet)">Conexiones de Internet cableadas</a></span>, <span class="link"><a href="net-fixed-ip-address.html.es" title="Crear una conexión con una dirección IP fija">direcciones IP fijas</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html" title="Conexiones inalámbricas">Conexiones inalámbricas</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Conectar con una red inalámbrica">Conectar con una red inalámbrica</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Conectar a una red inalámbrica oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="¿Por qué mi red inalámbrica permanece desconectada?">desconectarse</a></span>…</span>
+<a href="net-wireless.html.es" title="Conexiones inalámbricas">Conexiones inalámbricas</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.es" title="Conectar con una red inalámbrica">Conectar con una red inalámbrica</a></span>, <span class="link"><a href="net-wireless-hidden.html.es" title="Conectar a una red inalámbrica oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.es" title="¿Por qué mi red inalámbrica permanece desconectada?">desconectarse</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

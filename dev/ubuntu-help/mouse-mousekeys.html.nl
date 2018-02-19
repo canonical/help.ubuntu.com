@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.nl" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html.nl#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="mouse.html" title="Muis">Muis</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="mouse.html" title="Muis">Muis</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,12 +58,12 @@
 <p class="p">Als u problemen heeft bij het gebruik van een muis of ander aanwijsapparaat, kunt u de muisaanwijzer via het numerieke toetsenbord besturen. Deze functie heet <span class="em">muistoetsen</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p>
+<p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p>
 <p class="p">You can access the <span class="gui">Activities</span> overview by pressing on it,
       by moving your mouse pointer against the top-left corner of the screen,
       using <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>
       followed by <span class="key"><kbd>Enter</kbd></span> or using
-      <span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>.</p>
+      <span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>.</p>
 </li>
 <li class="steps"><p class="p">Klik op <span class="gui">Universele toegang</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Use the up and down arrow keys to select <span class="gui">Mouse Keys</span> in the
@@ -79,9 +79,9 @@
   keypads.</p>
 <p class="p">Elk cijfer op het numerieke toetsenbord komt overeen met een richting. Zo zal het indrukken van de <span class="key"><kbd>8</kbd></span> de muis naar boven bewegen en de <span class="key"><kbd>2</kbd></span> naar beneden. Druk op de <span class="key"><kbd>5</kbd></span> voor een éénmalige muisklik, of druk hem snel twee keer in voor een dubbelklik.</p>
 <p class="p">Most keyboards have a special key which allows you to right-click,
-  sometimes called the <span class="key"><a href="keyboard-key-menu.html" title="Wat is de Menu-toets?"><kbd>Menu</kbd></a></span> key. Note,
+  sometimes called the <span class="key"><a href="keyboard-key-menu.html.nl" title="Wat is de Menu-toets?"><kbd>Menu</kbd></a></span> key. Note,
   however, that this key responds to where your keyboard focus is, not where
-  your mouse pointer is. See <span class="link"><a href="a11y-right-click.html" title="Een rechtermuisklik simuleren">Een rechtermuisklik simuleren</a></span> for information on
+  your mouse pointer is. See <span class="link"><a href="a11y-right-click.html.nl" title="Een rechtermuisklik simuleren">Een rechtermuisklik simuleren</a></span> for information on
   how to right-click by holding down <span class="key"><kbd>5</kbd></span> or the left mouse button.</p>
 <p class="p">Als u het numerieke toetsenbord wilt gebruiken om cijfers te typen terwijl Muistoetsen ingeschakeld is, zet dan <span class="key"><kbd>Num Lock</kbd></span> aan. Let er op dat u de muis niet met het numerieke toetsenbord kunt besturen wanneer <span class="key"><kbd>Num Lock</kbd></span> aan staat.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">De gewone cijfertoetsen, in een rij bovenaan het toetsenbord, besturen de muisaanwijzer niet. Alleen de toetsen van het numerieke toetsenbord kunnen gebruikt worden.</p></div></div></div></div>
@@ -91,9 +91,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a></li>
+<li class="links "><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a></li>
 <li class="links ">
-<a href="mouse.html" title="Muis">Muis</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Gebruik de muis met uw linker hand">Linkshandig</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="De snelheid van de muis en het touchpad aanpassen">snelheid en gevoeligheid</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Klik, sleep, of scroll met het touchpad">touchpad klikken en scrollen</a></span>...</span>
+<a href="mouse.html.nl" title="Muis">Muis</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.nl" title="Gebruik de muis met uw linker hand">Linkshandig</a></span>, <span class="link"><a href="mouse-sensitivity.html.nl" title="De snelheid van de muis en het touchpad aanpassen">snelheid en gevoeligheid</a></span>, <span class="link"><a href="mouse-touchpad-click.html.nl" title="Klik, sleep, of scroll met het touchpad">touchpad klikken en scrollen</a></span>...</span>
 </li>
 </ul></div>
 </div></div></div>

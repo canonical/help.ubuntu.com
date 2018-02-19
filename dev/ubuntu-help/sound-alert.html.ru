@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="media.html#sound" title="Основы работы со звуком">Звук</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="media.html.ru#sound" title="Основы работы со звуком">Звук</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Выбор или отключение звуковых уведомлений</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Компьютер воспроизводит простые звуковые уведомления для определённых типов сообщений и событий. Можно выбрать другие звуки для уведомлений, задать их громкость независимо от общесистемной громкости или полностью отключить звуковые уведомления.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Sound</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Звук</span> чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Выберите звук уведомления на вкладке <span class="gui">Звуковые эффекты</span>. Нажатие на звуке позволяет прослушать его.</p></li>
@@ -67,13 +67,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="Основы работы со звуком">Основы работы со звуком</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Изменение громкости звука">Громкость</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Использование различных аудиоколонок или наушников">колонки и наушники</a></span>, <span class="link"><a href="sound-usemic.html" title="Использование различных микрофонов">микрофоны</a></span>…</span>
+<a href="media.html.ru#sound" title="Основы работы со звуком">Основы работы со звуком</a><span class="desc"> — <span class="link"><a href="sound-volume.html.ru" title="Изменение громкости звука">Громкость</a></span>, <span class="link"><a href="sound-usespeakers.html.ru" title="Использование различных аудиоколонок или наушников">колонки и наушники</a></span>, <span class="link"><a href="sound-usemic.html.ru" title="Использование различных микрофонов">микрофоны</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y-visualalert.html" title="Мигание экрана при звуковых сигналах">Мигание экрана при звуковых сигналах</a><span class="desc"> — Включить визуальные уведомления миганием экрана или окна при воспроизведении звуковых уведомлений.</span>
+<a href="a11y-visualalert.html.ru" title="Мигание экрана при звуковых сигналах">Мигание экрана при звуковых сигналах</a><span class="desc"> — Включить визуальные уведомления миганием экрана или окна при воспроизведении звуковых уведомлений.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="color.html" title="Gestión del color">Gestión del color</a> › <a class="trail" href="color.html#profiles" title="Perfiles de color">Perfiles de color</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="color.html.es" title="Gestión del color">Gestión del color</a> › <a class="trail" href="color.html.es#profiles" title="Perfiles de color">Perfiles de color</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="color.html" title="Gestión del color">Gestión del color</a> › <a class="trail" href="color.html#profiles" title="Perfiles de color">Perfiles de color</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="color.html.es" title="Gestión del color">Gestión del color</a> › <a class="trail" href="color.html.es#profiles" title="Perfiles de color">Perfiles de color</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -63,25 +63,25 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Perfiles de color">Perfiles de color</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.es#profiles" title="Perfiles de color">Perfiles de color</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html" title="¿Cómo asignar perfiles a los dispositivos?">¿Cómo asignar perfiles a los dispositivos?</a><span class="desc"> — Busque en la <span class="guiseq"><span class="gui">Configuración</span> ▸ <span class="gui">Color</span></span> la opción para añadir un perfil de color a su pantalla.</span>
+<a href="color-assignprofiles.html.es" title="¿Cómo asignar perfiles a los dispositivos?">¿Cómo asignar perfiles a los dispositivos?</a><span class="desc"> — Busque en la <span class="guiseq"><span class="gui">Configuración</span> ▸ <span class="gui">Color</span></span> la opción para añadir un perfil de color a su pantalla.</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html" title="¿Cómo se importan perfiles de color?">¿Cómo se importan perfiles de color?</a><span class="desc"> — Los perfiles de color se pueden importar abriéndolos.</span>
+<a href="color-howtoimport.html.es" title="¿Cómo se importan perfiles de color?">¿Cómo se importan perfiles de color?</a><span class="desc"> — Los perfiles de color se pueden importar abriéndolos.</span>
 </li>
 <li class="links ">
-<a href="color-gettingprofiles.html" title="¿Dónde se pueden obtener perfiles de color?">¿Dónde se pueden obtener perfiles de color?</a><span class="desc"> — Los fabricantes proporcionan los perfiles de color y también puede generarlos usted.</span>
+<a href="color-gettingprofiles.html.es" title="¿Dónde se pueden obtener perfiles de color?">¿Dónde se pueden obtener perfiles de color?</a><span class="desc"> — Los fabricantes proporcionan los perfiles de color y también puede generarlos usted.</span>
 </li>
 <li class="links ">
-<a href="color-whatisspace.html" title="¿Qué es un espacio de color?">¿Qué es un espacio de color?</a><span class="desc"> — Un espacio de color es un rango definido de colores.</span>
+<a href="color-whatisspace.html.es" title="¿Qué es un espacio de color?">¿Qué es un espacio de color?</a><span class="desc"> — Un espacio de color es un rango definido de colores.</span>
 </li>
 <li class="links ">
-<a href="color-canshareprofiles.html" title="¿Se puede compartir un perfil de color?">¿Se puede compartir un perfil de color?</a><span class="desc"> — Compartir perfiles de color nunca es una buena idea ya que el hardware cambia a lo largo del tiempo.</span>
+<a href="color-canshareprofiles.html.es" title="¿Se puede compartir un perfil de color?">¿Se puede compartir un perfil de color?</a><span class="desc"> — Compartir perfiles de color nunca es una buena idea ya que el hardware cambia a lo largo del tiempo.</span>
 </li>
 </ul></div>
 </div></div>

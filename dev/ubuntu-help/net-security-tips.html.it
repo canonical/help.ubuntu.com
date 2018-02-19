@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="Termini e suggerimenti sulle funzionalità di rete">Termini e suggerimenti sulle funzionalità di rete</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.it" title="Termini e suggerimenti sulle funzionalità di rete">Termini e suggerimenti sulle funzionalità di rete</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sicurezza su Internet</span></h1></div>
@@ -59,9 +59,9 @@
 <p class="p">Nonostante le misure adottate per garantire la sicurezza dell'installazione del sistema operativo, ci sono sempre delle vulnerabilità. L'utente medio di Internet è sempre esposto a:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Phishing (siti web ed email che cercano di ottenere dati sensibili attraverso l'inganno)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html" title="È necessario eseguire un controllo dei virus sulle email?">Inoltro di email dannose</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html" title="È necessario un software antivirus?">Applicazioni con scopi dannosi (virus)</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html" title="Cosa significano WEP e WPA?">Unauthorized remote/local network
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.it" title="È necessario eseguire un controllo dei virus sulle email?">Inoltro di email dannose</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.it" title="È necessario un software antivirus?">Applicazioni con scopi dannosi (virus)</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.it" title="Cosa significano WEP e WPA?">Unauthorized remote/local network
       access</a></span></p></li>
 </ul></div></div></div>
 <p class="p">Per collegarsi in sicurezza, ricordare questi suggerimenti:</p>
@@ -72,11 +72,11 @@
       information you are submitting and the potential consequences if that
       information is compromised by identity thieves or other criminals.</p></li>
 <li class="list"><p class="p">Be careful in providing
-      <span class="link"><a href="user-admin-explain.html" title="Come funzionano i privilegi di amministrazione?">root level permissions</a></span> to any
+      <span class="link"><a href="user-admin-explain.html.it" title="Come funzionano i privilegi di amministrazione?">root level permissions</a></span> to any
       application, especially ones that you have not used before or which are
       not well-known. Providing anyone or anything with root level permissions
       puts your computer at high risk to exploitation.</p></li>
-<li class="list"><p class="p">Assicurarsi che siano in esecuzione unicamente i servizi ad accesso remoto necessari. Può essere utile mantenere i servizi SSH o VNC in esecuzione, ma questo potrebbe rendere il computer sensibile a intrusioni, se non adeguatamente protetto. Valutare l'opportunità di usare un <span class="link"><a href="net-firewall-on-off.html" title="Abilitare o bloccare l'accesso al firewall">firewall</a></span> per aumentare la protezione del computer da intrusioni.</p></li>
+<li class="list"><p class="p">Assicurarsi che siano in esecuzione unicamente i servizi ad accesso remoto necessari. Può essere utile mantenere i servizi SSH o VNC in esecuzione, ma questo potrebbe rendere il computer sensibile a intrusioni, se non adeguatamente protetto. Valutare l'opportunità di usare un <span class="link"><a href="net-firewall-on-off.html.it" title="Abilitare o bloccare l'accesso al firewall">firewall</a></span> per aumentare la protezione del computer da intrusioni.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -84,11 +84,11 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Termini e suggerimenti sulle funzionalità di rete">Termini e suggerimenti sulle funzionalità di rete</a><span class="desc"> — 
-      <span class="link"><a href="net-findip.html" title="Trovare il proprio indirizzo IP">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html" title="Cosa significano WEP e WPA?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html" title="Cos'è un indirizzo MAC?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html" title="Definire le impostazioni del proxy">proxies</a></span>…
+<a href="net-general.html.it" title="Termini e suggerimenti sulle funzionalità di rete">Termini e suggerimenti sulle funzionalità di rete</a><span class="desc"> — 
+      <span class="link"><a href="net-findip.html.it" title="Trovare il proprio indirizzo IP">Find your IP address</a></span>,
+      <span class="link"><a href="net-wireless-wepwpa.html.it" title="Cosa significano WEP e WPA?">WEP &amp; WPA security</a></span>,
+      <span class="link"><a href="net-macaddress.html.it" title="Cos'è un indirizzo MAC?">MAC addresses</a></span>,
+      <span class="link"><a href="net-proxy.html.it" title="Definire le impostazioni del proxy">proxies</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

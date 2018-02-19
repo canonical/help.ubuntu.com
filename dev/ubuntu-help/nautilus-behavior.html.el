@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a> » <a class="trail" href="nautilus-prefs.html" title="Προτιμήσεις του διαχειριστή αρχείων">Προτιμήσεις του διαχειριστή αρχείων</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία</a> › <a class="trail" href="files.html.el#more-file-tasks" title="Περισσότερες εργασίες σχετικές με αρχεία">Περισσότερες εργασίες σχετικές με αρχεία</a> » <a class="trail" href="nautilus-prefs.html.el" title="Προτιμήσεις του διαχειριστή αρχείων">Προτιμήσεις του διαχειριστή αρχείων</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Προτιμήσεις συμπεριφοράς διαχειριστή αρχείων</span></h1></div>
@@ -60,7 +60,7 @@
 <div id="executable" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Εκτελέσιμα αρχεία κειμένου</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Ένα εκτελέσιμο αρχείο κειμένου είναι ένα αρχείο που περιέχει ένα πρόγραμμα που μπορείτε να εκτελέσετε. Τα <span class="link"><a href="nautilus-file-properties-permissions.html" title="Ορισμός δικαιωμάτων αρχείου">δικαιώματα αρχείου</a></span> πρέπει επίσης να επιτρέπουν το αρχείο να εκτελεστεί ως πρόγραμμα. Οι πιο κοινές δέσμες ενεργειών είναι <span class="sys">κέλυφος</span>, <span class="sys">Python</span> και <span class="sys">Perl</span>. Αυτά έχουν επεκτάσεις <span class="file">.sh</span>, <span class="file">.py</span> και <span class="file">.pl</span>, αντίστοιχα.</p>
+<p class="p">Ένα εκτελέσιμο αρχείο κειμένου είναι ένα αρχείο που περιέχει ένα πρόγραμμα που μπορείτε να εκτελέσετε. Τα <span class="link"><a href="nautilus-file-properties-permissions.html.el" title="Ορισμός δικαιωμάτων αρχείου">δικαιώματα αρχείου</a></span> πρέπει επίσης να επιτρέπουν το αρχείο να εκτελεστεί ως πρόγραμμα. Οι πιο κοινές δέσμες ενεργειών είναι <span class="sys">κέλυφος</span>, <span class="sys">Python</span> και <span class="sys">Perl</span>. Αυτά έχουν επεκτάσεις <span class="file">.sh</span>, <span class="file">.py</span> και <span class="file">.pl</span>, αντίστοιχα.</p>
 <p class="p">Όταν ανοίγετε ένα εκτελέσιμο αρχείο κειμένου, μπορείτε να επιλέξτε από:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Εκτέλεση εκτελέσιμων αρχείων κειμένου όταν ανοιχτούν</span></p></li>
@@ -89,7 +89,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Δείτε επίσης</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="files-delete.html" title="Διαγραφή αρχείων και φακέλων">Διαγραφή αρχείων και φακέλων</a><span class="desc"> — Αφαιρέστε αρχεία ή φακέλους που δεν χρειάζεστε πια.</span>
+<a href="files-delete.html.el" title="Διαγραφή αρχείων και φακέλων">Διαγραφή αρχείων και φακέλων</a><span class="desc"> — Αφαιρέστε αρχεία ή φακέλους που δεν χρειάζεστε πια.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -100,7 +100,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Προτιμήσεις του διαχειριστή αρχείων">Προτιμήσεις του διαχειριστή αρχείων</a><span class="desc"> — Δείτε και ορίστε προτιμήσεις για τον περιηγητή αρχείων.</span>
+<a href="nautilus-prefs.html.el" title="Προτιμήσεις του διαχειριστή αρχείων">Προτιμήσεις του διαχειριστή αρχείων</a><span class="desc"> — Δείτε και ορίστε προτιμήσεις για τον περιηγητή αρχείων.</span>
 </li></ul></div>
 </div></div></div>
 </div>

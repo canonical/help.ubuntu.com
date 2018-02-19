@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">அனைவருக்குமான அணுகல்</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">GNOME பணித்திரையில் பல்வேறு குறைகளும் சிறப்பான தேவைகளும் உள்ளவருகளுக்கு உதவும் வகையிலும் பொதுவான உதவி சாதனங்களுடன் தொடர்பு கொண்டு செய்ல்படும் வகையிலும் பல உதவி தொழில்நுட்பங்கள் சேர்க்கப்பட்டுள்ளன. அணுகல் வசதி அம்சங்களில் பலவற்றை மேல் பட்டியில் உள்ள அணுகல் வசதி மெனுவிலிருந்து தேர்ந்தெடுக்கலாம்.</p>
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html" title="அனைவருக்குமான அணுகல் மெனுவைக் கண்டறிதல்"><span class="title">அனைவருக்குமான அணுகல் மெனுவைக் கண்டறிதல்</span><span class="linkdiv-dash"> — </span><span class="desc">மேல் பட்டியில் மனித உருவம் போன்று அமைந்துள்ள சின்னமே அனைவருக்குமான அணுகல் மெனுவாகும்.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.ta" title="அனைவருக்குமான அணுகல் மெனுவைக் கண்டறிதல்"><span class="title">அனைவருக்குமான அணுகல் மெனுவைக் கண்டறிதல்</span><span class="linkdiv-dash"> — </span><span class="desc">மேல் பட்டியில் மனித உருவம் போன்று அமைந்துள்ள சின்னமே அனைவருக்குமான அணுகல் மெனுவாகும்.</span></a></div></div></div></div>
 </div>
 <div id="vision" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">பார்வைக் குறைபாடுகள்</span></h2></div>
@@ -59,10 +59,10 @@
 <div class="title title-links"><h3><span class="title">பார்வையின்மை</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-screen-reader.html" title="திரையை உரக்க வாசித்தல்">திரையை உரக்க வாசித்தல்</a><span class="desc"> — பயனர் இடைமுகத்தை வாசிக்க, <span class="app">Orca</span> திரை வாசிப்புக் கருவியைப் பயன்படுத்தவும்.</span>
+<a href="a11y-screen-reader.html.ta" title="திரையை உரக்க வாசித்தல்">திரையை உரக்க வாசித்தல்</a><span class="desc"> — பயனர் இடைமுகத்தை வாசிக்க, <span class="app">Orca</span> திரை வாசிப்புக் கருவியைப் பயன்படுத்தவும்.</span>
 </li>
 <li class="links ">
-<a href="a11y-braille.html" title="பிரெய்லி முறையில் திரையை வாசிக்கவும்">பிரெய்லி முறையில் திரையை வாசிக்கவும்</a><span class="desc"> — புதுப்பிக்கும் வசதியுள்ள பிரெய்லி காட்சியைக் கொண்ட <span class="app">Orca</span> திரை வாசிப்புக் கருவியைப் பயன்படுத்துங்கள்.</span>
+<a href="a11y-braille.html.ta" title="பிரெய்லி முறையில் திரையை வாசிக்கவும்">பிரெய்லி முறையில் திரையை வாசிக்கவும்</a><span class="desc"> — புதுப்பிக்கும் வசதியுள்ள பிரெய்லி காட்சியைக் கொண்ட <span class="app">Orca</span> திரை வாசிப்புக் கருவியைப் பயன்படுத்துங்கள்.</span>
 </li>
 </ul></div>
 </div></div>
@@ -70,17 +70,17 @@
 <div class="title title-links"><h3><span class="title">பார்வைக் குறைவு</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-mag.html" title="திரைப் பகுதியைப் உருப்பெருக்குதல்">திரைப் பகுதியைப் உருப்பெருக்குதல்</a><span class="desc"> — திரையைப் பெரிதாக்கி திரையிலுள்ளவற்றை வசதியாகப் பார்க்க முடியும்.</span>
+<a href="a11y-mag.html.ta" title="திரைப் பகுதியைப் உருப்பெருக்குதல்">திரைப் பகுதியைப் உருப்பெருக்குதல்</a><span class="desc"> — திரையைப் பெரிதாக்கி திரையிலுள்ளவற்றை வசதியாகப் பார்க்க முடியும்.</span>
 </li>
 <li class="links ">
-<a href="a11y-font-size.html" title="திரையில் உள்ள உரையின் அளவை மாற்றுங்கள்">திரையில் உள்ள உரையின் அளவை மாற்றுங்கள்</a><span class="desc"> — உரையைப் படிக்க எளிதாக இருக்கும் வகையில் பெரிய எழுத்துருக்களைப் பயன்படுத்தவும்.</span>
+<a href="a11y-font-size.html.ta" title="திரையில் உள்ள உரையின் அளவை மாற்றுங்கள்">திரையில் உள்ள உரையின் அளவை மாற்றுங்கள்</a><span class="desc"> — உரையைப் படிக்க எளிதாக இருக்கும் வகையில் பெரிய எழுத்துருக்களைப் பயன்படுத்தவும்.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="நிறமாறுபாட்டை மாற்றுங்கள்">நிறமாறுபாட்டை மாற்றுங்கள்</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
+<a href="a11y-contrast.html.ta" title="நிறமாறுபாட்டை மாற்றுங்கள்">நிறமாறுபாட்டை மாற்றுங்கள்</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
     they’re easier to see.</span>
 </li>
 <li class="links ">
-<a href="keyboard-cursor-blink.html" title="விசைப்பலகை சுட்டியை சிமிட்டச் செய்தல்">விசைப்பலகை சுட்டியை சிமிட்டச் செய்தல்</a><span class="desc"> — செருகும் புள்ளி சிமிட்டும்படி செய்தல் மற்றும் அது சிமிட்டும் வேகத்தைக் கட்டுப்படுத்துதல்.</span>
+<a href="keyboard-cursor-blink.html.ta" title="விசைப்பலகை சுட்டியை சிமிட்டச் செய்தல்">விசைப்பலகை சுட்டியை சிமிட்டச் செய்தல்</a><span class="desc"> — செருகும் புள்ளி சிமிட்டும்படி செய்தல் மற்றும் அது சிமிட்டும் வேகத்தைக் கட்டுப்படுத்துதல்.</span>
 </li>
 </ul></div>
 </div></div>
@@ -89,7 +89,7 @@
 <div id="sound" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">கேட்டல் குறைபாடுகள்</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul><li class="links ">
-<a href="a11y-visualalert.html" title="விழிப்பூட்டல் ஒலிகளுக்கு திரையில் பளிச் ஒளியெழுப்பு">விழிப்பூட்டல் ஒலிகளுக்கு திரையில் பளிச் ஒளியெழுப்பு</a><span class="desc"> — விழிப்பூட்டல் இயக்கப்படும் போது திரை அல்லது சாளரத்தில் பளிச் ஒளி எழுப்புவதற்கு, காட்சி விழிப்பூட்டல்களை இயக்கவும்.</span>
+<a href="a11y-visualalert.html.ta" title="விழிப்பூட்டல் ஒலிகளுக்கு திரையில் பளிச் ஒளியெழுப்பு">விழிப்பூட்டல் ஒலிகளுக்கு திரையில் பளிச் ஒளியெழுப்பு</a><span class="desc"> — விழிப்பூட்டல் இயக்கப்படும் போது திரை அல்லது சாளரத்தில் பளிச் ஒளி எழுப்புவதற்கு, காட்சி விழிப்பூட்டல்களை இயக்கவும்.</span>
 </li></ul></div></div></div></div></div>
 </div></div>
 <div id="mobility" class="sect"><div class="inner">
@@ -100,10 +100,10 @@
 <div class="title title-links"><h3><span class="title">சொடுக்கி நகர்வு</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-sensitivity.html" title="சொடுக்கி மற்றும் தொடுதிட்டின் வேகத்தை சரிசெய்தல்">சொடுக்கி மற்றும் தொடுதிட்டின் வேகத்தை சரிசெய்தல்</a><span class="desc"> — நீங்கள் உங்கள் சொடுக்கி அல்லது தொடுதிட்டை பயன்படுத்தும் போது சுட்டி நகரும் வேகத்தை மாற்றுதல்.</span>
+<a href="mouse-sensitivity.html.ta" title="சொடுக்கி மற்றும் தொடுதிட்டின் வேகத்தை சரிசெய்தல்">சொடுக்கி மற்றும் தொடுதிட்டின் வேகத்தை சரிசெய்தல்</a><span class="desc"> — நீங்கள் உங்கள் சொடுக்கி அல்லது தொடுதிட்டை பயன்படுத்தும் போது சுட்டி நகரும் வேகத்தை மாற்றுதல்.</span>
 </li>
 <li class="links ">
-<a href="mouse-mousekeys.html" title="விசைப்பலகையைப் பயன்படுத்தி சொடுக்கி சுட்டியை சொடுக்கி நகர்த்தவும்">விசைப்பலகையைப் பயன்படுத்தி சொடுக்கி சுட்டியை சொடுக்கி நகர்த்தவும்</a><span class="desc"> — Enable mouse keys to control the mouse with the numeric
+<a href="mouse-mousekeys.html.ta" title="விசைப்பலகையைப் பயன்படுத்தி சொடுக்கி சுட்டியை சொடுக்கி நகர்த்தவும்">விசைப்பலகையைப் பயன்படுத்தி சொடுக்கி சுட்டியை சொடுக்கி நகர்த்தவும்</a><span class="desc"> — Enable mouse keys to control the mouse with the numeric
     keypad.</span>
 </li>
 </ul></div>
@@ -112,13 +112,13 @@
 <div class="title title-links"><h3><span class="title">சொடுக்குதலும் இழுத்தலும்</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-doubleclick.html" title="இரு சொடுக்க வேகத்தை சரிசெய்தல்">இரு சொடுக்க வேகத்தை சரிசெய்தல்</a><span class="desc"> — இரு சொடுக்கம் செய்ய சொடுக்கி பொத்தானை எவ்வளவு வேகமாக இரண்டாவது முறை அழுத்த வேண்டும் என்பதைக் கட்டுப்படுத்துதல்.</span>
+<a href="mouse-doubleclick.html.ta" title="இரு சொடுக்க வேகத்தை சரிசெய்தல்">இரு சொடுக்க வேகத்தை சரிசெய்தல்</a><span class="desc"> — இரு சொடுக்கம் செய்ய சொடுக்கி பொத்தானை எவ்வளவு வேகமாக இரண்டாவது முறை அழுத்த வேண்டும் என்பதைக் கட்டுப்படுத்துதல்.</span>
 </li>
 <li class="links ">
-<a href="a11y-right-click.html" title="சொடுக்கி வலது சொடுக்க ஏற்பாடு">சொடுக்கி வலது சொடுக்க ஏற்பாடு</a><span class="desc"> — சொடுக்கியின் இடது பொத்தானை அழுத்திப் பிடித்தபடி இருந்தால் வலது சொடுக்கம் செய்யவும்.</span>
+<a href="a11y-right-click.html.ta" title="சொடுக்கி வலது சொடுக்க ஏற்பாடு">சொடுக்கி வலது சொடுக்க ஏற்பாடு</a><span class="desc"> — சொடுக்கியின் இடது பொத்தானை அழுத்திப் பிடித்தபடி இருந்தால் வலது சொடுக்கம் செய்யவும்.</span>
 </li>
 <li class="links ">
-<a href="a11y-dwellclick.html" title="மேல் நகர்வு சொடுக்கத்தை செயல்படுத்துதல்">மேல் நகர்வு சொடுக்கத்தை செயல்படுத்துதல்</a><span class="desc"> — மேல்நிறுத்தி சொடுக்குதல் (நின்று சொடுக்குதல்) வசதியைக் கொண்டு நீங்கள் சொடுக்கியை அசையாமல் வைத்தபடியே சொடுக்க முடியும்.</span>
+<a href="a11y-dwellclick.html.ta" title="மேல் நகர்வு சொடுக்கத்தை செயல்படுத்துதல்">மேல் நகர்வு சொடுக்கத்தை செயல்படுத்துதல்</a><span class="desc"> — மேல்நிறுத்தி சொடுக்குதல் (நின்று சொடுக்குதல்) வசதியைக் கொண்டு நீங்கள் சொடுக்கியை அசையாமல் வைத்தபடியே சொடுக்க முடியும்.</span>
 </li>
 </ul></div>
 </div></div>
@@ -126,23 +126,23 @@
 <div class="title title-links"><h3><span class="title">விசைப்பலகை பயன்பாடு</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — நீங்கள் ஒரு விசையை அழுத்திப் பிடித்திருக்கையில் விசைப்பலகை அதே எழுத்தை மீண்டும் மீண்டும் தொடர்ந்து உள்ளிடாதபடி அமைத்தல் அல்லது திரும்பத் திரும்ப உள்ளிடப்படும் விசைகளின் தாமத நேரம் மற்றும் வேகத்தை மாற்றுதல்.</span>
+<a href="keyboard-repeat-keys.html.ta" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — நீங்கள் ஒரு விசையை அழுத்திப் பிடித்திருக்கையில் விசைப்பலகை அதே எழுத்தை மீண்டும் மீண்டும் தொடர்ந்து உள்ளிடாதபடி அமைத்தல் அல்லது திரும்பத் திரும்ப உள்ளிடப்படும் விசைகளின் தாமத நேரம் மற்றும் வேகத்தை மாற்றுதல்.</span>
 </li>
 <li class="links ">
-<a href="keyboard-osk.html" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
+<a href="keyboard-osk.html.ta" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
     mouse or a touchscreen.</span>
 </li>
 <li class="links ">
-<a href="a11y-stickykeys.html" title="ஒட்டு விசைகளை இயக்கவும்">ஒட்டு விசைகளை இயக்கவும்</a><span class="desc"> — விசைப்பலகை குறுக்குவழிகளை அழுத்தும் போது, ஒரே சமயம் அனைத்து விசைகளையும் அழுத்திப் பிடித்திருக்காமல் ஒரு சமயம் ஒரு விசையை மட்டும் தட்டச்சு செய்யவும்.</span>
+<a href="a11y-stickykeys.html.ta" title="ஒட்டு விசைகளை இயக்கவும்">ஒட்டு விசைகளை இயக்கவும்</a><span class="desc"> — விசைப்பலகை குறுக்குவழிகளை அழுத்தும் போது, ஒரே சமயம் அனைத்து விசைகளையும் அழுத்திப் பிடித்திருக்காமல் ஒரு சமயம் ஒரு விசையை மட்டும் தட்டச்சு செய்யவும்.</span>
 </li>
 <li class="links ">
-<a href="a11y-bouncekeys.html" title="பவுன்ஸ் விசைகளை இயக்கு">பவுன்ஸ் விசைகளை இயக்கு</a><span class="desc"> — Ignore quickly-repeated key presses of the same key.</span>
+<a href="a11y-bouncekeys.html.ta" title="பவுன்ஸ் விசைகளை இயக்கு">பவுன்ஸ் விசைகளை இயக்கு</a><span class="desc"> — Ignore quickly-repeated key presses of the same key.</span>
 </li>
 <li class="links ">
-<a href="a11y-slowkeys.html" title="மெதுவான விசைகள் அம்சத்தை இயக்குங்கள்">மெதுவான விசைகள் அம்சத்தை இயக்குங்கள்</a><span class="desc"> — ஒரு விசையை நீங்கள் அழுத்துவதற்கும் அது திரையில் தோன்றுவதற்கும் இடையே ஒரு நேர தாமதத்தையும் அமைக்கலாம்.</span>
+<a href="a11y-slowkeys.html.ta" title="மெதுவான விசைகள் அம்சத்தை இயக்குங்கள்">மெதுவான விசைகள் அம்சத்தை இயக்குங்கள்</a><span class="desc"> — ஒரு விசையை நீங்கள் அழுத்துவதற்கும் அது திரையில் தோன்றுவதற்கும் இடையே ஒரு நேர தாமதத்தையும் அமைக்கலாம்.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html" title="விசைப்பலகை நகர்வு">விசைப்பலகை நகர்வு</a><span class="desc"> — சொடுக்கி இல்லாமல் பயன்பாடுகள் மற்றும் டெஸ்க்டாப்பைப் பயன்படுத்துதல்.</span>
+<a href="keyboard-nav.html.ta" title="விசைப்பலகை நகர்வு">விசைப்பலகை நகர்வு</a><span class="desc"> — சொடுக்கி இல்லாமல் பயன்பாடுகள் மற்றும் டெஸ்க்டாப்பைப் பயன்படுத்துதல்.</span>
 </li>
 </ul></div>
 </div></div>
@@ -152,7 +152,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">இதனையும் பார்</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-key-menu.html" title="மெனு விசை என்பது என்ன?"><span class="key"><kbd>மெனு</kbd></span> விசை என்பது என்ன?</a><span class="desc"> — <span class="key"><kbd>மெனு</kbd></span> வலது சொடுக்கத்திற்கு அன்றி விசைப்பலகையில் ஒரு சூழல் மெனுவைத் துவக்கும்.</span>
+<a href="keyboard-key-menu.html.ta" title="மெனு விசை என்பது என்ன?"><span class="key"><kbd>மெனு</kbd></span> விசை என்பது என்ன?</a><span class="desc"> — <span class="key"><kbd>மெனு</kbd></span> வலது சொடுக்கத்திற்கு அன்றி விசைப்பலகையில் ஒரு சூழல் மெனுவைத் துவக்கும்.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -162,7 +162,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.ta" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

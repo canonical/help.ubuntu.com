@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-wireless.html" title="Trådlösa nätverk">Trådlösa nätverk</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlösa nätverk</a> » <a class="trail" href="net-wireless-troubleshooting.html.sv" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html.sv#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="net-wireless-troubleshooting.html.sv" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Felsökning av trådlösa nätverk">Föregående</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Felsökning av trådlösa nätverk">Nästa</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting.html.sv" title="Felsökning av trådlösa nätverk">Föregående</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html.sv" title="Felsökning av trådlösa nätverk">Nästa</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Felsökning av trådlösa nätverk</span></h1>
@@ -64,7 +64,7 @@
 <li class="steps"><p class="p">Säkerställ att din bärbara dator inte är ansluten till en <span class="em">trådburen</span> internetanslutning.</p></li>
 <li class="steps"><p class="p">Om du har en extern trådlös adapter (som en USB-adapter, eller ett PCMCIA-kort som sätts in i din bärbara dator), säkerställ att den är ordentligt isatt i rätt lucka på din dator.</p></li>
 <li class="steps"><p class="p">Om ditt trådlösa kort är <span class="em">inuti</span> din dator, säkerställ att den knappen för trådlös anslutning är påslagen (om det finns en). Bärbara datorer har ofta en knapp för trådlös anslutning som du kan slå på eller av via en kombination av tangenter.</p></li>
-<li class="steps"><p class="p">Klicka i systemstatusområdet på systemraden och välj <span class="gui">Trådlöst nätverk</span>, och sedan <span class="gui">Inställningar för trådlösa nätverk</span>. Kontrollera att <span class="gui">Trådlöst nätverk</span> är inställt på <span class="gui">PÅ</span>. Du bör också kontrollera att <span class="link"><a href="net-wireless-airplane.html" title="Stäng av trådlöst (flygplansläge)">flygplansläge</a></span> <span class="em">inte</span> är påslaget.</p></li>
+<li class="steps"><p class="p">Klicka i systemstatusområdet på systemraden och välj <span class="gui">Trådlöst nätverk</span>, och sedan <span class="gui">Inställningar för trådlösa nätverk</span>. Kontrollera att <span class="gui">Trådlöst nätverk</span> är inställt på <span class="gui">PÅ</span>. Du bör också kontrollera att <span class="link"><a href="net-wireless-airplane.html.sv" title="Stäng av trådlöst (flygplansläge)">flygplansläge</a></span> <span class="em">inte</span> är påslaget.</p></li>
 <li class="steps">
 <p class="p">Öppna terminalen, skriv <span class="cmd">nmcli device</span> och tryck <span class="key"><kbd>Retur</kbd></span>.</p>
 <p class="p">Detta kommer att visa information om dina nätverksgränssnitt och din anslutningsstatus. Titta genom listan av information och se om det finns en post som har att göra med den trådlösa nätverksadaptern. Om tillståndet är <span class="code">ansluten</span> betyder det att adaptern fungerar och är ansluten till din trådlösa router.</p>
@@ -74,14 +74,14 @@
 <p class="p">Om informationen från <span class="cmd">nmcli device</span> inte indikerade att du var ansluten till nätverket, klicka <span class="gui">Nästa</span> för att fortsätta till nästa del av felsökningsguiden.</p>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Felsökning av trådlösa nätverk">Föregående</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Felsökning av trådlösa nätverk">Nästa</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting.html.sv" title="Felsökning av trådlösa nätverk">Föregående</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html.sv" title="Felsökning av trådlösa nätverk">Nästa</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a><span class="desc"> — Identifiera och fixa problem med trådlösa anslutningar.</span>
+<a href="net-wireless-troubleshooting.html.sv" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a><span class="desc"> — Identifiera och fixa problem med trådlösa anslutningar.</span>
 </li></ul></div>
 </div></div></div>
 </div>

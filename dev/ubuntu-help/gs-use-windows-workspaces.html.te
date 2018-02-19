@@ -43,11 +43,11 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="ప్రారంభించండి">గ్నోమ్ తో ప్రారంభించండి</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.te" title="ప్రారంభించండి">గ్నోమ్ తో ప్రారంభించండి</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-switch-tasks.html" title="కర్తవ్యాలను మార్చు">క్రితం</a><a class="nextlinks-next" href="gs-use-system-search.html" title="వ్యవస్థ అన్వేషణను వుపయోగించు">తరువాత </a>
+<a class="nextlinks-prev" href="gs-switch-tasks.html.te" title="కర్తవ్యాలను మార్చు">క్రితం</a><a class="nextlinks-next" href="gs-use-system-search.html.te" title="వ్యవస్థ అన్వేషణను వుపయోగించు">తరువాత </a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">విండోలు మరియు పనిస్థలాలు వుపయోగించు</span></h1></div>
 <div class="region">
@@ -127,7 +127,7 @@
 </ol></div></div></div></div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-switch-tasks.html" title="కర్తవ్యాలను మార్చు">క్రితం</a><a class="nextlinks-next" href="gs-use-system-search.html" title="వ్యవస్థ అన్వేషణను వుపయోగించు">తరువాత </a>
+<a class="nextlinks-prev" href="gs-switch-tasks.html.te" title="కర్తవ్యాలను మార్చు">క్రితం</a><a class="nextlinks-next" href="gs-use-system-search.html.te" title="వ్యవస్థ అన్వేషణను వుపయోగించు">తరువాత </a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -135,13 +135,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="ప్రారంభించండి">గ్నోమ్ తో ప్రారంభించండి</a><span class="desc"> — గ్నోమ్ కు కొత్తా? ఎలా వుపయోగించాలో నేర్చుకోండి.</span>
+<a href="getting-started.html.te" title="ప్రారంభించండి">గ్నోమ్ తో ప్రారంభించండి</a><span class="desc"> — గ్నోమ్ కు కొత్తా? ఎలా వుపయోగించాలో నేర్చుకోండి.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ఇవి కూడా చూడండి</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-switching.html" title="Switch between windows">Switch between windows</a><span class="desc"> — Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span>
+<a href="shell-windows-switching.html.te" title="Switch between windows">Switch between windows</a><span class="desc"> — Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span>
 </li></ul></div>
 </div></div>
 </div>

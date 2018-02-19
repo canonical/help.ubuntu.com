@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="prefs-display.html" title="Tampilan &amp; layar">Tampilan &amp; layar</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sambungkan monitor lain ke komputer Anda</span></h1></div>
@@ -54,7 +54,7 @@
 <div class="region"><div class="contents">
 <p class="p">Untuk menyiapkan sebuah monitor tambahan, sambungkan monitor ke komputer Anda. Bila sistem Anda tak mengenalinya seketika, atau Anda ingin menyetel pengaturan:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Tampilan</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Tampilan</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Tampilan</span> untuk membuka panel.</p></li>
 <li class="steps">
 <p class="p">Click on the monitor that you would like to activate or deactivate,
@@ -62,7 +62,7 @@
       deactivate the monitor, or one of <span class="gui">Primary</span>,
       <span class="gui">Secondary</span>, or <span class="gui">Mirror</span> to activate it.</p>
 <div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">The primary monitor is the one with the
-        <span class="link"><a href="shell-introduction.html" title="Pengenalan ke GNOME">top bar</a></span>, and where the
+        <span class="link"><a href="shell-introduction.html.id" title="Pengenalan ke GNOME">top bar</a></span>, and where the
         <span class="gui">Activities</span> overview is shown.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">To rotate the orientation of the monitor, use the buttons with the
@@ -77,7 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Latar belakang</a></span>, <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">ukuran dan rotasi</a></span>, kecerahan…</span>
+<a href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — <span class="link"><a href="look-background.html.id" title="Change the desktop and lock screen backgrounds">Latar belakang</a></span>, <span class="link"><a href="look-resolution.html.id" title="Change the resolution or rotation of the screen">ukuran dan rotasi</a></span>, kecerahan…</span>
 </li></ul></div>
 </div></div></div>
 </div>

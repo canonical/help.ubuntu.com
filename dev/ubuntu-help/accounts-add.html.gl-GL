@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="accounts.html" title="Contas en liña">Contas en liña</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="accounts.html.gl-GL" title="Contas en liña">Contas en liña</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Engadir unha conta</span></h1></div>
@@ -51,23 +51,23 @@
 <div class="contents">
 <p class="p">Engadir unha conta axudaralle a ligar as súas contas en liña co seu escritorio GNOME. Polo tanto, os seus programas de correo-e, chat e outros aplicativos relacionados estarán configurados.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Contas en liña</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Contas en liña</span>.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Contas en liñla</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Prema o símbolo <span class="key"><kbd>+</kbd></span> na esquina inferior esquerda da xanela.</p></li>
 <li class="steps"><p class="p">Seleccione o tipo de conta que quere engadir.</p></li>
 <li class="steps"><p class="p">Abrirase unha pequena xanela con unha páxina web que lle permitirá escribir as credenciais da súa conta en liña. Por exemplo, se está configurando unh aconta de Google, escriba o seu usuario e contrasinal de Google. Algúns fornecedores permítenlle crear unha nova conta desde o diálogo de inicio de sesión.</p></li>
 <li class="steps"><p class="p">Se escribiu as súas credenciais correctamente preguntaráselle para permitirlle a GNOME acceder ás súas contas en liña. Autorice o acceso para continuar.</p></li>
-<li class="steps"><p class="p">Todos os servizos ofrecidos por un fornecedor de contas estarán activos por omisión, <span class="link"><a href="accounts-disable-service.html" title="Controle que servizos en liña dunha conta poden usarse para acceder">Tróqueos</a></span> de forma individual a <span class="gui">O</span> para desactivalos.</p></li>
+<li class="steps"><p class="p">Todos os servizos ofrecidos por un fornecedor de contas estarán activos por omisión, <span class="link"><a href="accounts-disable-service.html.gl-GL" title="Controle que servizos en liña dunha conta poden usarse para acceder">Tróqueos</a></span> de forma individual a <span class="gui">O</span> para desactivalos.</p></li>
 </ol></div></div></div>
-<p class="p">Despois de engadir as contas, os aplicativos poden usalas para os servizos que permitiu. Vexa <span class="link"><a href="accounts-disable-service.html" title="Controle que servizos en liña dunha conta poden usarse para acceder">Controle que servizos en liña dunha conta poden usarse para acceder</a></span> para obter máis información sobre como controlar o acceso aos servizos.</p>
-<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Algúns servizos en liña fornecen un token de autorización que GNOME almacena no lugar do seu contrasinal. Se eliminou unha conta terá que revocar o certificado no servizo en liña. Vexa <span class="link"><a href="accounts-remove.html" title="Retirar unha conta">Retirar unha conta</a></span> para obter máis información.</p></div></div></div></div>
+<p class="p">Despois de engadir as contas, os aplicativos poden usalas para os servizos que permitiu. Vexa <span class="link"><a href="accounts-disable-service.html.gl-GL" title="Controle que servizos en liña dunha conta poden usarse para acceder">Controle que servizos en liña dunha conta poden usarse para acceder</a></span> para obter máis información sobre como controlar o acceso aos servizos.</p>
+<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Algúns servizos en liña fornecen un token de autorización que GNOME almacena no lugar do seu contrasinal. Se eliminou unha conta terá que revocar o certificado no servizo en liña. Vexa <span class="link"><a href="accounts-remove.html.gl-GL" title="Retirar unha conta">Retirar unha conta</a></span> para obter máis información.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Contas en liña">Contas en liña</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Engadir unha conta">Engadir unha conta en liña</a></span>, <span class="link"><a href="accounts-remove.html" title="Retirar unha conta">Quitar unha conta</a></span>, <span class="link"><a href="accounts-which-application.html" title="Servizos en liña e aplicativos">Saber sobre un servizo</a></span>…</span>
+<a href="accounts.html.gl-GL" title="Contas en liña">Contas en liña</a><span class="desc"> — <span class="link"><a href="accounts-add.html.gl-GL" title="Engadir unha conta">Engadir unha conta en liña</a></span>, <span class="link"><a href="accounts-remove.html.gl-GL" title="Retirar unha conta">Quitar unha conta</a></span>, <span class="link"><a href="accounts-which-application.html.gl-GL" title="Servizos en liña e aplicativos">Saber sobre un servizo</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="power.html" title="Energia &amp; bateria">Energia &amp; bateria</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="power.html.pt-BR" title="Energia &amp; bateria">Energia &amp; bateria</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="power.html" title="Energia &amp; bateria">Energia &amp; bateria</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="power.html.pt-BR" title="Energia &amp; bateria">Energia &amp; bateria</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,9 +56,9 @@
 <div id="general" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Dicas gerais</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#suspend" title="Suspender">Suspenda seu computador</a></span> quando você não estiver usando-o. Isso reduz significativamente a quantidade de energia que ele usa e ele pode ser acordado rapidamente.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#shutdown" title="Desligar ou reiniciar">Desligue</a></span> o computador quando você não for usá-lo por períodos longos. Algumas pessoas acham que desligar um computador com certa regularidade pode resultar em desgastá-lo mais rápido, mas isso não ocorre de verdade.</p></li>
-<li class="list"><p class="p">Use o painel <span class="gui">Energia</span> nas <span class="app">Configurações</span> para alterar suas configurações de energia. Há um punhado de opções que vai ajudá-lo a economizar energia: você pode <span class="link"><a href="display-blank.html" title="Definindo o tempo de apagamento da tela">apagar a tela automaticamente</a></span> após determinado período de tempo, reduzir o <span class="link"><a href="display-brightness.html" title="Definindo brilho da tela">brilho da tela</a></span> e ter um computador <span class="link"><a href="power-autosuspend.html" title="Configurando suspensão automática">suspenso automaticamente</a></span> se você o tiver usado por um determinado período de tempo.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.pt-BR#suspend" title="Suspender">Suspenda seu computador</a></span> quando você não estiver usando-o. Isso reduz significativamente a quantidade de energia que ele usa e ele pode ser acordado rapidamente.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.pt-BR#shutdown" title="Desligar ou reiniciar">Desligue</a></span> o computador quando você não for usá-lo por períodos longos. Algumas pessoas acham que desligar um computador com certa regularidade pode resultar em desgastá-lo mais rápido, mas isso não ocorre de verdade.</p></li>
+<li class="list"><p class="p">Use o painel <span class="gui">Energia</span> nas <span class="app">Configurações</span> para alterar suas configurações de energia. Há um punhado de opções que vai ajudá-lo a economizar energia: você pode <span class="link"><a href="display-blank.html.pt-BR" title="Definindo o tempo de apagamento da tela">apagar a tela automaticamente</a></span> após determinado período de tempo, reduzir o <span class="link"><a href="display-brightness.html.pt-BR" title="Definindo brilho da tela">brilho da tela</a></span> e ter um computador <span class="link"><a href="power-autosuspend.html.pt-BR" title="Configurando suspensão automática">suspenso automaticamente</a></span> se você o tiver usado por um determinado período de tempo.</p></li>
 <li class="list"><p class="p">Desligue quaisquer dispositivos externos (como impressora e scanners) quando você não estiver usando-os.</p></li>
 </ul></div></div></div></div></div>
 </div></div>
@@ -66,7 +66,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Notebooks, netbooks e outros dispositivos com baterias</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Reduza o <span class="link"><a href="display-brightness.html" title="Definindo brilho da tela">brilho da tela</a></span>. A energização da tela é responsável por uma fração significativa do consumo da energia do notebook.</p>
+<p class="p">Reduza o <span class="link"><a href="display-brightness.html.pt-BR" title="Definindo brilho da tela">brilho da tela</a></span>. A energização da tela é responsável por uma fração significativa do consumo da energia do notebook.</p>
 <p class="p">A maioria dos notebooks possuem botões no teclado (ou um atalho de teclado) que você pode usar para reduzir o brilho.</p>
 </li>
 <li class="list">
@@ -88,31 +88,31 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Energia &amp; bateria">Energia &amp; bateria</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Verificando o status da bateria">Status da bateria</a></span>, <span class="link"><a href="power-suspend.html" title="O que acontece quando eu suspendo o meu computador?">suspensão</a></span>, <span class="link"><a href="power-whydim.html" title="Por que a minha tela começa a escurecer após um tempo?">escurecer a tela</a></span>…</span>
+<a href="power.html.pt-BR" title="Energia &amp; bateria">Energia &amp; bateria</a><span class="desc"> — <span class="link"><a href="power-status.html.pt-BR" title="Verificando o status da bateria">Status da bateria</a></span>, <span class="link"><a href="power-suspend.html.pt-BR" title="O que acontece quando eu suspendo o meu computador?">suspensão</a></span>, <span class="link"><a href="power-whydim.html.pt-BR" title="Por que a minha tela começa a escurecer após um tempo?">escurecer a tela</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="display-brightness.html" title="Definindo brilho da tela">Definindo brilho da tela</a><span class="desc"> — Altere o brilho da tela para tornar mais legível em ambientes muito claros.</span>
+<a href="display-brightness.html.pt-BR" title="Definindo brilho da tela">Definindo brilho da tela</a><span class="desc"> — Altere o brilho da tela para tornar mais legível em ambientes muito claros.</span>
 </li>
-<li class="links "><a href="shell-exit.html#shutdown" title="Desligar ou reiniciar">Desligar ou reiniciar</a></li>
+<li class="links "><a href="shell-exit.html.pt-BR#shutdown" title="Desligar ou reiniciar">Desligar ou reiniciar</a></li>
 <li class="links ">
-<a href="power-wireless.html" title="Desligue tecnologias sem fio não usadas">Desligue tecnologias sem fio não usadas</a><span class="desc"> — Bluetooth, Wi-Fi e banda larga móvel podem ser desligados para reduzir consumo de bateria.</span>
-</li>
-<li class="links ">
-<a href="power-suspend.html" title="O que acontece quando eu suspendo o meu computador?">O que acontece quando eu suspendo o meu computador?</a><span class="desc"> — Suspensão leva seu computador para dormir, para que use menos energia.</span>
+<a href="power-wireless.html.pt-BR" title="Desligue tecnologias sem fio não usadas">Desligue tecnologias sem fio não usadas</a><span class="desc"> — Bluetooth, Wi-Fi e banda larga móvel podem ser desligados para reduzir consumo de bateria.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="Por que a minha tela começa a escurecer após um tempo?">Por que a minha tela começa a escurecer após um tempo?</a><span class="desc"> — A tela vai escurecer quando o computador estiver ocioso, visando economizar energia.</span>
+<a href="power-suspend.html.pt-BR" title="O que acontece quando eu suspendo o meu computador?">O que acontece quando eu suspendo o meu computador?</a><span class="desc"> — Suspensão leva seu computador para dormir, para que use menos energia.</span>
 </li>
 <li class="links ">
-<a href="power-batterywindows.html" title="Por que eu tenho menos tempo de bateria do que eu tinha no Windows/Mac OS?">Por que eu tenho menos tempo de bateria do que eu tinha no Windows/Mac OS?</a><span class="desc"> — Ajustes do fabricante e diferentes estimativas de tempo da bateria podem ser a causa deste problema.</span>
+<a href="power-whydim.html.pt-BR" title="Por que a minha tela começa a escurecer após um tempo?">Por que a minha tela começa a escurecer após um tempo?</a><span class="desc"> — A tela vai escurecer quando o computador estiver ocioso, visando economizar energia.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Suspender">Suspender</a></li>
 <li class="links ">
-<a href="power-status.html" title="Verificando o status da bateria">Verificando o status da bateria</a><span class="desc"> — Exiba o status da bateria e dispositivos conectados.</span>
+<a href="power-batterywindows.html.pt-BR" title="Por que eu tenho menos tempo de bateria do que eu tinha no Windows/Mac OS?">Por que eu tenho menos tempo de bateria do que eu tinha no Windows/Mac OS?</a><span class="desc"> — Ajustes do fabricante e diferentes estimativas de tempo da bateria podem ser a causa deste problema.</span>
+</li>
+<li class="links "><a href="shell-exit.html.pt-BR#suspend" title="Suspender">Suspender</a></li>
+<li class="links ">
+<a href="power-status.html.pt-BR" title="Verificando o status da bateria">Verificando o status da bateria</a><span class="desc"> — Exiba o status da bateria e dispositivos conectados.</span>
 </li>
 </ul></div>
 </div></div>

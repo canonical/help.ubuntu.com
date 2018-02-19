@@ -44,19 +44,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="keyboard.html.pt-BR" title="Teclado">Teclado</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Acessibilidade">Acessibilidade</a> › <a class="trail" href="a11y.html#mobility" title="Deficiências motoras">Deficiências motoras</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.pt-BR" title="Acessibilidade">Acessibilidade</a> › <a class="trail" href="a11y.html.pt-BR#mobility" title="Deficiências motoras">Deficiências motoras</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html.pt-BR" title="Teclado">Teclado</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Navegação do teclado</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Essa página detalha a navegação por teclado para pessoas que não podem usar um mouse, ou outro dispositivo de apontamento, ou para aqueles que querem usar um teclado o máximo possível. Para atalhos de teclado que são úteis para todos usuários, veja <span class="link"><a href="shell-keyboard-shortcuts.html" title="Atalhos de teclado úteis">Atalhos de teclado úteis</a></span>.</p>
-<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Se você não puder usar um dispositivo de apontamento como um mouse, você pode controlar o ponteiro do mouse usando um teclado numérico do seu teclado. Veja <span class="link"><a href="mouse-mousekeys.html" title="Clicando e movendo o ponteiro do mouse usando o teclado">Clicando e movendo o ponteiro do mouse usando o teclado</a></span> para detalhes.</p></div></div></div></div>
+<p class="p">Essa página detalha a navegação por teclado para pessoas que não podem usar um mouse, ou outro dispositivo de apontamento, ou para aqueles que querem usar um teclado o máximo possível. Para atalhos de teclado que são úteis para todos usuários, veja <span class="link"><a href="shell-keyboard-shortcuts.html.pt-BR" title="Atalhos de teclado úteis">Atalhos de teclado úteis</a></span>.</p>
+<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Se você não puder usar um dispositivo de apontamento como um mouse, você pode controlar o ponteiro do mouse usando um teclado numérico do seu teclado. Veja <span class="link"><a href="mouse-mousekeys.html.pt-BR" title="Clicando e movendo o ponteiro do mouse usando o teclado">Clicando e movendo o ponteiro do mouse usando o teclado</a></span> para detalhes.</p></div></div></div></div>
 <div class="table"><div class="inner">
 <div class="title title-table"><h2><span class="title">Navegar na interface do usuário</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -101,11 +101,11 @@
 <td style="border-top-style: solid;"><p class="p">Abre o primeiro menu na barra de menu de uma janela. Use as teclas de setas para navegar nos menus.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="O que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pt-BR" title="O que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Abre o aplicativo de menu na barra superior.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> ou <span class="key"><a href="keyboard-key-menu.html" title="O que é a tecla Menu?"><kbd>Menu</kbd></a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> ou <span class="key"><a href="keyboard-key-menu.html.pt-BR" title="O que é a tecla Menu?"><kbd>Menu</kbd></a></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Apresenta o menu de contexto para a seleção atual, como se você tivesse clicado com o botão direito.</p></td>
 </tr>
 <tr>
@@ -122,12 +122,12 @@
 <div class="title title-table"><h2><span class="title">Navegar na área de trabalho</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> ou a tecla <span class="key"><a href="keyboard-key-super.html" title="O que é a tecla Super?"><kbd>Super</kbd></a></span></p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> ou a tecla <span class="key"><a href="keyboard-key-super.html.pt-BR" title="O que é a tecla Super?"><kbd>Super</kbd></a></span></p></td>
 <td><p class="p">Alterna entre o panorama de <span class="gui">Atividades</span> e a área de trabalho. No panorama, comece a digitar para pesquisar instantaneamente seus aplicativos, contatos e documentos.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Alternando entre janelas">Alterna rapidamente entre janelas</a></span>. Mantenha o <span class="key"><kbd>Shift</kbd></span> pressionado para uma ordem reversa de alternância.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.pt-BR" title="Alternando entre janelas">Alterna rapidamente entre janelas</a></span>. Mantenha o <span class="key"><kbd>Shift</kbd></span> pressionado para uma ordem reversa de alternância.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
@@ -142,7 +142,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> ou <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span>, e <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> ou <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Alternando entre espaços de trabalho">Alterna entre espaços de trabalho</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.pt-BR" title="Alternando entre espaços de trabalho">Alterna entre espaços de trabalho</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F6</kbd></span></span></p></td>
@@ -154,7 +154,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html#messagetray" title="A área de notificação">Abre a área de notificação</a></span>. Pressione <span class="key"><kbd>Esc</kbd></span> para fechar.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html.pt-BR#messagetray" title="A área de notificação">Abre a área de notificação</a></span>. Pressione <span class="key"><kbd>Esc</kbd></span> para fechar.</p></td>
 </tr>
 </table></div>
 </div></div>
@@ -179,7 +179,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> e <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Movendo uma janela para um espaço de trabalho diferente">Move a janela atual para um espaço de trabalho diferente</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.pt-BR" title="Movendo uma janela para um espaço de trabalho diferente">Move a janela atual para um espaço de trabalho diferente</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
@@ -191,7 +191,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> ou <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Maximizando e desmaximizando uma janela">Maximizar</a></span> uma janela. Pressione <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> ou <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> para restaurar uma janela maximizada a seu tamanho original.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html.pt-BR" title="Maximizando e desmaximizando uma janela">Maximizar</a></span> uma janela. Pressione <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> ou <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> para restaurar uma janela maximizada a seu tamanho original.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
@@ -218,16 +218,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Deficiências motoras">Deficiências motoras</a></li>
+<li class="links "><a href="a11y.html.pt-BR#mobility" title="Deficiências motoras">Deficiências motoras</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Disposições de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Fazendo o cursor de teclado piscar">cursor intermitente</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiências motoras">acessibilidade no teclado</a></span>…</span>
+<a href="keyboard.html.pt-BR" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.pt-BR" title="Use alternative keyboard layouts">Disposições de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.pt-BR" title="Fazendo o cursor de teclado piscar">cursor intermitente</a></span>, <span class="link"><a href="a11y.html.pt-BR#mobility" title="Deficiências motoras">acessibilidade no teclado</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Atalhos de teclado úteis">Atalhos de teclado úteis</a><span class="desc"> — Conheça o ambiente de trabalho usando o teclado.</span>
+<a href="shell-keyboard-shortcuts.html.pt-BR" title="Atalhos de teclado úteis">Atalhos de teclado úteis</a><span class="desc"> — Conheça o ambiente de trabalho usando o teclado.</span>
 </li></ul></div>
 </div></div>
 </div>

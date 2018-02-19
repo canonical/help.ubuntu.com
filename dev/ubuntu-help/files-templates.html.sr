@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html#faq" title="Савети и питања">Савети и питања</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.sr" title="Датотеке, фасцикле и претрага">Датотеке</a> › <a class="trail" href="files.html.sr#faq" title="Савети и питања">Савети и питања</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Шаблони за опште коришћене врсте докумената</span></h1></div>
@@ -63,7 +63,7 @@
 <li class="steps"><p class="p">Отворите фасциклу у којој желите да поставите нови документ.</p></li>
 <li class="steps"><p class="p">Кликните десним тастером миша било где на празном простору у фасцикли, затим изаберите <span class="gui">Нови документ</span>. Називи доступних шаблона ће бити наведени у подизборнику.</p></li>
 <li class="steps"><p class="p">Изаберите ваш жељени шаблон са списка.</p></li>
-<li class="steps"><p class="p">Два пута кликните на датотеку да је отворите и да почнете да је уређујете. Можете пожелети да <span class="link"><a href="files-rename.html" title="Преименујте датотеку или фасциклу">преименујете датотеку</a></span> када завршите.</p></li>
+<li class="steps"><p class="p">Два пута кликните на датотеку да је отворите и да почнете да је уређујете. Можете пожелети да <span class="link"><a href="files-rename.html.sr" title="Преименујте датотеку или фасциклу">преименујете датотеку</a></span> када завршите.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -71,7 +71,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Савети и питања">Савети и питања</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sr#faq" title="Савети и питања">Савети и питања</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

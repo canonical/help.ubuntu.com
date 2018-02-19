@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Työpöytäsi">Työpöytä</a> › <a class="trail" href="shell-overview.html#apps" title="Sovellukset ja ikkunat">Sovellukset ja ikkunat</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.fi" title="Työpöytäsi">Työpöytä</a> › <a class="trail" href="shell-overview.html.fi#apps" title="Sovellukset ja ikkunat">Sovellukset ja ikkunat</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ikkunat ja työtilat</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Like other desktops, GNOME uses windows to display your running
-  applications. Using both the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span>
+  applications. Using both the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span>
   overview and the <span class="em">dash</span>, you can launch new applications and control
   active windows.</p>
 <p class="p">You can also group your applications together within workspaces. Visit the
@@ -61,14 +61,14 @@
 <div class="hgroup"><h2 class="title"><span class="title">Ikkunoiden kanssa työskentely</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html" title="Ikkunan suurentaminen ja koon palauttaminen"><span class="title">Ikkunan suurentaminen ja koon palauttaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Ikkunan koon muuttaminen otsikkopalkkia raahaamalla tai kaksoisnapsauttamalla.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html" title="Ikkunoiden asettaminen vierekkäin"><span class="title">Ikkunoiden asettaminen vierekkäin</span><span class="linkdiv-dash"> — </span><span class="desc">Suurenna kaksi ikkunaa vierekkäin.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html" title="Löydä kadonnut ikkuna"><span class="title">Löydä kadonnut ikkuna</span><span class="linkdiv-dash"> — </span><span class="desc">Check the <span class="gui">Activities</span> overview or other workspaces.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.fi" title="Ikkunan suurentaminen ja koon palauttaminen"><span class="title">Ikkunan suurentaminen ja koon palauttaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Ikkunan koon muuttaminen otsikkopalkkia raahaamalla tai kaksoisnapsauttamalla.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.fi" title="Ikkunoiden asettaminen vierekkäin"><span class="title">Ikkunoiden asettaminen vierekkäin</span><span class="linkdiv-dash"> — </span><span class="desc">Suurenna kaksi ikkunaa vierekkäin.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.fi" title="Löydä kadonnut ikkuna"><span class="title">Löydä kadonnut ikkuna</span><span class="linkdiv-dash"> — </span><span class="desc">Check the <span class="gui">Activities</span> overview or other workspaces.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html" title="Siirrä ikkunoita ja muuta niiden kokoa"><span class="title">Siirrä ikkunoita ja muuta niiden kokoa</span><span class="linkdiv-dash"> — </span><span class="desc">Arrange windows in a workspace to help you work more
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.fi" title="Siirrä ikkunoita ja muuta niiden kokoa"><span class="title">Siirrä ikkunoita ja muuta niiden kokoa</span><span class="linkdiv-dash"> — </span><span class="desc">Arrange windows in a workspace to help you work more
     efficiently.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Vaihtele ikkunoiden välillä"><span class="title">Vaihtele ikkunoiden välillä</span><span class="linkdiv-dash"> — </span><span class="desc">Paina <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.fi" title="Vaihtele ikkunoiden välillä"><span class="title">Vaihtele ikkunoiden välillä</span><span class="linkdiv-dash"> — </span><span class="desc">Paina <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -76,18 +76,18 @@
 <div class="hgroup"><h2 class="title"><span class="title">Työtilojen kanssa työskentely</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html" title="Mikä ihmeen työtila, ja miten voin hyödyntää sitä?"><span class="title">Mikä ihmeen työtila, ja miten voin hyödyntää sitä?</span><span class="linkdiv-dash"> — </span><span class="desc">Työtilojen avulla voit ryhmitellä avoinna olevia ikkunoita.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html" title="Ikkunoiden siirtäminen toiseen työtilaan"><span class="title">Ikkunoiden siirtäminen toiseen työtilaan</span><span class="linkdiv-dash"> — </span><span class="desc">Go to the <span class="gui">Activities</span> overview and drag the window to a
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.fi" title="Mikä ihmeen työtila, ja miten voin hyödyntää sitä?"><span class="title">Mikä ihmeen työtila, ja miten voin hyödyntää sitä?</span><span class="linkdiv-dash"> — </span><span class="desc">Työtilojen avulla voit ryhmitellä avoinna olevia ikkunoita.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.fi" title="Ikkunoiden siirtäminen toiseen työtilaan"><span class="title">Ikkunoiden siirtäminen toiseen työtilaan</span><span class="linkdiv-dash"> — </span><span class="desc">Go to the <span class="gui">Activities</span> overview and drag the window to a
     different workspace.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html" title="Vaihtele työtilojen välillä"><span class="title">Vaihtele työtilojen välillä</span><span class="linkdiv-dash"> — </span><span class="desc">Käytä työtilan valitsinta.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.fi" title="Vaihtele työtilojen välillä"><span class="title">Vaihtele työtilojen välillä</span><span class="linkdiv-dash"> — </span><span class="desc">Käytä työtilan valitsinta.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Sovellukset ja ikkunat">Sovellukset ja ikkunat</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.fi#apps" title="Sovellukset ja ikkunat">Sovellukset ja ikkunat</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

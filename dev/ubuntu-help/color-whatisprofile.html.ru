@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="color.html" title="Управление цветом">Управление цветом</a> › <a class="trail" href="color.html#profiles" title="Цветовые профили">Цветовые профили</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="color.html.ru" title="Управление цветом">Управление цветом</a> › <a class="trail" href="color.html.ru#profiles" title="Цветовые профили">Цветовые профили</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="color.html" title="Управление цветом">Управление цветом</a> › <a class="trail" href="color.html#profiles" title="Цветовые профили">Цветовые профили</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="color.html.ru" title="Управление цветом">Управление цветом</a> › <a class="trail" href="color.html.ru#profiles" title="Цветовые профили">Цветовые профили</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -69,25 +69,25 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html#profiles" title="Цветовые профили">Цветовые профили</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.ru#profiles" title="Цветовые профили">Цветовые профили</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-gettingprofiles.html" title="Где взять цветовые профили?">Где взять цветовые профили?</a><span class="desc"> — Цветовые профили предоставляются производителями и могут быть созданы вами.</span>
+<a href="color-gettingprofiles.html.ru" title="Где взять цветовые профили?">Где взять цветовые профили?</a><span class="desc"> — Цветовые профили предоставляются производителями и могут быть созданы вами.</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html" title="Как импортировать цветовые профили?">Как импортировать цветовые профили?</a><span class="desc"> — Цветовые профили можно легко импортировать, открыв их.</span>
+<a href="color-howtoimport.html.ru" title="Как импортировать цветовые профили?">Как импортировать цветовые профили?</a><span class="desc"> — Цветовые профили можно легко импортировать, открыв их.</span>
 </li>
 <li class="links ">
-<a href="color-assignprofiles.html" title="Как назначать профили устройствам?">Как назначать профили устройствам?</a><span class="desc"> — Добавить цветовой профиль монитора можно в разделе <span class="guiseq"><span class="gui">Параметры</span> ▸ <span class="gui">Цвет</span></span>.</span>
+<a href="color-assignprofiles.html.ru" title="Как назначать профили устройствам?">Как назначать профили устройствам?</a><span class="desc"> — Добавить цветовой профиль монитора можно в разделе <span class="guiseq"><span class="gui">Параметры</span> ▸ <span class="gui">Цвет</span></span>.</span>
 </li>
 <li class="links ">
-<a href="color-canshareprofiles.html" title="Могу ли я поделиться своим цветовым профилем?">Могу ли я поделиться своим цветовым профилем?</a><span class="desc"> — Делиться профилями с другими не имеет смысла, поскольку характеристики оборудования со временем меняются.</span>
+<a href="color-canshareprofiles.html.ru" title="Могу ли я поделиться своим цветовым профилем?">Могу ли я поделиться своим цветовым профилем?</a><span class="desc"> — Делиться профилями с другими не имеет смысла, поскольку характеристики оборудования со временем меняются.</span>
 </li>
 <li class="links ">
-<a href="color-whatisspace.html" title="Что такое цветовое пространство?">Что такое цветовое пространство?</a><span class="desc"> — Цветовое пространство — это определённый диапазон цветов.</span>
+<a href="color-whatisspace.html.ru" title="Что такое цветовое пространство?">Что такое цветовое пространство?</a><span class="desc"> — Цветовое пространство — это определённый диапазон цветов.</span>
 </li>
 </ul></div>
 </div></div>

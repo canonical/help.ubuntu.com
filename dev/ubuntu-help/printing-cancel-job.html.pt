@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="printing.html#problems" title="Problemas com a impressora">Problemas com a impressora</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.pt#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="printing.html.pt#problems" title="Problemas com a impressora">Problemas com a impressora</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Cancelar, pausar ou libertar um trabalho de impressão</span></h1></div>
@@ -56,7 +56,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Como cancelar um trabalho de impressão:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Impressoras</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Impressoras</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Impressoras</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Carregue o botão <span class="gui">Mostrar trabalhos</span> em parte-a direita do diálogo de <span class="gui">Impressoras</span>.</p></li>
 <li class="steps"><p class="p">Cancele o trabalho de impressão clicando o botão de deter.</p></li>
@@ -78,7 +78,7 @@
 <div class="region"><div class="contents">
 <p class="p">Se quer pausar ou libertar um trabalho de impressão, pode fazê-lo indo ao diálogo de trabalhos de impressão na configuração da impressora e clicando o botão adequado.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Impressoras</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Impressoras</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Impressoras</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Carregue o botão <span class="gui">Mostrar trabalhos</span> em parte-a direita do diálogo de <span class="gui">Impressoras</span> e pause ou liberte o trabalho de impressão, segundo o que precise.</p></li>
 </ol></div></div></div>
@@ -89,7 +89,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html#problems" title="Problemas com a impressora">Problemas com a impressora</a><span class="desc"> — Impressoras não detetadas, atascos de papel, impressões que se vêem mau...</span>
+<a href="printing.html.pt#problems" title="Problemas com a impressora">Problemas com a impressora</a><span class="desc"> — Impressoras não detetadas, atascos de papel, impressões que se vêem mau...</span>
 </li></ul></div>
 </div></div></div>
 </div>

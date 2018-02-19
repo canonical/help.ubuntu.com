@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wat is een stuurprogramma?</span></h1></div>
@@ -63,21 +63,21 @@ and audio cards.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disks.html" title="disks">schijven</a></span>...</span>
+<a href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html.nl" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html.nl" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html.nl" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.nl" title="Schijven &amp; opslag">schijven</a></span>...</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-nowireless.html" title="Ik heb geen draadloos netwerk na het weer actief worden van mijn computer">Ik heb geen draadloos netwerk na het weer actief worden van mijn computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
+<a href="power-nowireless.html.nl" title="Ik heb geen draadloos netwerk na het weer actief worden van mijn computer">Ik heb geen draadloos netwerk na het weer actief worden van mijn computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
     suspended and does not resume properly.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-problem-connecting.html" title="Ik kan mijn Bluetooth-apparaat niet aansluiten">Ik kan mijn Bluetooth-apparaat niet aansluiten</a><span class="desc"> — Het kan zijn dat de adapter is uitgeschakeld, of geen stuurprogramma heeft, of Bluetooth kan uitgeschakeld of geblokkeerd zijn.</span>
+<a href="bluetooth-problem-connecting.html.nl" title="Ik kan mijn Bluetooth-apparaat niet aansluiten">Ik kan mijn Bluetooth-apparaat niet aansluiten</a><span class="desc"> — Het kan zijn dat de adapter is uitgeschakeld, of geen stuurprogramma heeft, of Bluetooth kan uitgeschakeld of geblokkeerd zijn.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.nl" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 </ul></div>
 </div></div>

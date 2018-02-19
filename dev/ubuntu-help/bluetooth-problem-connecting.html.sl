@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html#problems" title="Pogoste težave">Težave</a> » <a class="trail" href="bluetooth.html#problems" title="Težave">Težave z Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html.sl#problems" title="Pogoste težave">Težave</a> » <a class="trail" href="bluetooth.html.sl#problems" title="Težave">Težave z Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">I cannot connect my Bluetooth device</span></h1></div>
@@ -56,17 +56,17 @@
 <dt class="terms">Strojna oprema Bluetooth ni prepoznana</dt>
 <dd class="terms"><p class="p">Your Bluetooth adapter or dongle may not have been recognized by the
       computer. This could be because
-      <span class="link"><a href="hardware-driver.html" title="Kaj je gonilnik?">drivers</a></span> for the adapter are not
+      <span class="link"><a href="hardware-driver.html.sl" title="Kaj je gonilnik?">drivers</a></span> for the adapter are not
       installed. Some Bluetooth adapters are not supported on Linux, so you may
       not be able to get the right drivers for them. In this case, you will
       probably have to get a different Bluetooth adapter.</p></dd>
 <dt class="terms">Adapter is not switched on</dt>
-<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Click the
-          Bluetooth icon in the <span class="gui">menu bar</span> and check that it’s not
-          <span class="link"><a href="bluetooth-turn-on-off.html" title="Vklop ali izklop Bluetooth">disabled</a></span>.</p></dd>
+<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Open the
+        Bluetooth panel and check that it is not
+        <span class="link"><a href="bluetooth-turn-on-off.html.sl" title="Vklop ali izklop Bluetooth">disabled</a></span>.</p></dd>
 <dt class="terms">Povezava naprave Bluetooth je izklopljena</dt>
 <dd class="terms"><p class="p">Check that Bluetooth is turned on on the device you are trying to
-      connect to, and that it is <span class="link"><a href="bluetooth-visibility.html" title="Kaj je vidnost Bluetooth?">discoverable
+      connect to, and that it is <span class="link"><a href="bluetooth-visibility.html.sl" title="Kaj je vidnost Bluetooth?">discoverable
       or visible</a></span>. For example, if you are trying to connect to a phone,
       make sure that it is not in airplane mode.</p></dd>
 <dt class="terms">Na vašem računalniku ni vmesnika Bluetooth</dt>
@@ -78,12 +78,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="bluetooth.html#problems" title="Težave">Težave z Bluetooth</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="bluetooth.html.sl#problems" title="Težave">Težave z Bluetooth</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="Kaj je gonilnik?">Kaj je gonilnik?</a><span class="desc"> — Gonilnik za strojno opremo/napravo omogoča računalniku, da uporabi naprave, ki so nanj priklopljene</span>
+<a href="hardware-driver.html.sl" title="Kaj je gonilnik?">Kaj je gonilnik?</a><span class="desc"> — Gonilnik za strojno opremo/napravo omogoča računalniku, da uporabi naprave, ki so nanj priklopljene</span>
 </li></ul></div>
 </div></div>
 </div>

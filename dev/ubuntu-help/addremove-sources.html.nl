@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html" title="Software toevoegen &amp; verwijderen">Software toevoegen/verwijderen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.nl" title="Software toevoegen &amp; verwijderen">Software toevoegen/verwijderen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Softwarebronnen toevoegen</span></h1></div>
@@ -91,13 +91,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Software toevoegen &amp; verwijderen">Software toevoegen &amp; verwijderen</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Extra toepassingen installeren">Toepassingen installeren</a></span>, <span class="link"><a href="addremove-remove.html" title="Een toepassing verwijderen">toepassingen verwijderen</a></span>, <span class="link"><a href="addremove-sources.html" title="Softwarebronnen toevoegen">softwarebronnen toevoegen</a></span>…</span>
+<a href="addremove.html.nl" title="Software toevoegen &amp; verwijderen">Software toevoegen &amp; verwijderen</a><span class="desc"> — <span class="link"><a href="addremove-install.html.nl" title="Extra toepassingen installeren">Toepassingen installeren</a></span>, <span class="link"><a href="addremove-remove.html.nl" title="Een toepassing verwijderen">toepassingen verwijderen</a></span>, <span class="link"><a href="addremove-sources.html.nl" title="Softwarebronnen toevoegen">softwarebronnen toevoegen</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove-ppa.html" title="Een Personal Package Archive (PPA) toevoegen">Een Personal Package Archive (PPA) toevoegen</a><span class="desc"> — PPAs toevoegen om de softwarebronnen die Ubuntu gebruikt voor installatie en upgrades uit te breiden.</span>
+<a href="addremove-ppa.html.nl" title="Een Personal Package Archive (PPA) toevoegen">Een Personal Package Archive (PPA) toevoegen</a><span class="desc"> — PPAs toevoegen om de softwarebronnen die Ubuntu gebruikt voor installatie en upgrades uit te breiden.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Seu ambiente">Área de trabalho</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicativos e janelas">Aplicativos e janelas</a> » <a class="trail" href="shell-windows.html" title="Janelas e espaços de trabalho">Janelas e espaços de trabalho</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Trabalhando com janelas">Janelas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pt-BR" title="Seu ambiente">Área de trabalho</a> › <a class="trail" href="shell-overview.html.pt-BR#apps" title="Aplicativos e janelas">Aplicativos e janelas</a> » <a class="trail" href="shell-windows.html.pt-BR" title="Janelas e espaços de trabalho">Janelas e espaços de trabalho</a> › <a class="trail" href="shell-windows.html.pt-BR#working-with-windows" title="Trabalhando com janelas">Janelas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Localizando uma janela perdida</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Uma janela em um espaço de trabalho diferente, ou escondida atrás de outra janela, é facilmente encontrada usando o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span>:</p>
+<p class="p">Uma janela em um espaço de trabalho diferente, ou escondida atrás de outra janela, é facilmente encontrada usando o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Abra o panorama de <span class="gui">Atividades</span>. Se a janela perdida está no <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Trabalhando com espaços de trabalho">espaço de trabalho</a></span> atual, ela será mostrada aqui em miniatura. Basta clicar na miniatura para exibir novamente a janela, ou</p></li>
-<li class="list"><p class="p">Clique em espaços de trabalho diferentes no <span class="link"><a href="shell-workspaces.html" title="O que é um espaço de trabalho e como ele vai me ajudar?">seletor de espaços de trabalho</a></span> no canto direito da tela para localizar a tela para ver sua janela ou</p></li>
+<li class="list"><p class="p">Abra o panorama de <span class="gui">Atividades</span>. Se a janela perdida está no <span class="link"><a href="shell-windows.html.pt-BR#working-with-workspaces" title="Trabalhando com espaços de trabalho">espaço de trabalho</a></span> atual, ela será mostrada aqui em miniatura. Basta clicar na miniatura para exibir novamente a janela, ou</p></li>
+<li class="list"><p class="p">Clique em espaços de trabalho diferentes no <span class="link"><a href="shell-workspaces.html.pt-BR" title="O que é um espaço de trabalho e como ele vai me ajudar?">seletor de espaços de trabalho</a></span> no canto direito da tela para localizar a tela para ver sua janela ou</p></li>
 <li class="list"><p class="p">Clique com botão direito no aplicativo no dash e suas janelas abertas serão listadas. Clique na janela na lista para alterar o foco para ela.</p></li>
 </ul></div></div></div>
 <p class="p">Usando o alternador de janelas:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Pressione <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="O que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> para exibir o <span class="link"><a href="shell-windows-switching.html" title="Alternando entre janelas">alternador de janela</a></span>. Continue a segurar a tecla <span class="key"><kbd>Super</kbd></span> e pressione <span class="key"><kbd>Tab</kbd></span> para alternar entre as janelas abertas, ou <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> para alternar no sentido contrário.</p></li>
+<li class="list"><p class="p">Pressione <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pt-BR" title="O que é a tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> para exibir o <span class="link"><a href="shell-windows-switching.html.pt-BR" title="Alternando entre janelas">alternador de janela</a></span>. Continue a segurar a tecla <span class="key"><kbd>Super</kbd></span> e pressione <span class="key"><kbd>Tab</kbd></span> para alternar entre as janelas abertas, ou <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> para alternar no sentido contrário.</p></li>
 <li class="list"><p class="p">Se um aplicativo possui múltiplas janelas abertas, mantenha pressionada <span class="key"><kbd>Super</kbd></span> e pressione <span class="key"><kbd>`</kbd></span> (ou a tecla acima de <span class="key"><kbd>Tab</kbd></span>) para passar por todas elas.</p></li>
 </ul></div></div></div>
 </div>
@@ -65,7 +65,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Trabalhando com janelas">Trabalhando com janelas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.pt-BR#working-with-windows" title="Trabalhando com janelas">Trabalhando com janelas</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

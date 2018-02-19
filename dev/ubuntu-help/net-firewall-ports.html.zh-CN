@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html" title="保证网络安全">保证网络安全</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html.zh-CN" title="保证网络安全">保证网络安全</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">常用网络端口</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">This is a list of network ports commonly used by applications that provide
   network services, like file sharing or remote desktop viewing. You can change
-  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html" title="启用和阻止防火墙访问">block or allow
+  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html.zh-CN" title="启用和阻止防火墙访问">block or allow
   access</a></span> to these applications. There are thousands of ports in use, so
   this table isn’t complete.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
@@ -101,17 +101,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="保证网络安全">保证网络安全</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="我需要安装反病毒软件吗？">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="启用和阻止防火墙访问">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="常用网络端口">firewall ports</a></span>…
+<a href="net-security.html.zh-CN" title="保证网络安全">保证网络安全</a><span class="desc"> — 
+      <span class="link"><a href="net-antivirus.html.zh-CN" title="我需要安装反病毒软件吗？">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.zh-CN" title="启用和阻止防火墙访问">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.zh-CN" title="常用网络端口">firewall ports</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-on-off.html" title="启用和阻止防火墙访问">启用和阻止防火墙访问</a><span class="desc"> — 您可以控制哪些程序可以访问网络，这有助于保持您的计算机安全。</span>
+<a href="net-firewall-on-off.html.zh-CN" title="启用和阻止防火墙访问">启用和阻止防火墙访问</a><span class="desc"> — 您可以控制哪些程序可以访问网络，这有助于保持您的计算机安全。</span>
 </li></ul></div>
 </div></div>
 </div>

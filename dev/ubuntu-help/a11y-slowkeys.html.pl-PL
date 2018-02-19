@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Ułatwienia dostępu">Ułatwienia dostępu</a> › <a class="trail" href="a11y.html#mobility" title="Niepełnosprawność ruchowa">Niepełnosprawność ruchowa</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.pl-PL" title="Ułatwienia dostępu">Ułatwienia dostępu</a> › <a class="trail" href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">Niepełnosprawność ruchowa</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="keyboard.html" title="Klawiatura">Klawiatura</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="keyboard.html" title="Klawiatura">Klawiatura</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">Włącz <span class="em">powolne klawisze</span>, jeśli potrzebujesz opóźnienia między naciśnięciem klawisza a pojawieniem się litery na ekranie. Oznacza to, że trzeba przytrzymać każdy klawisz podczas pisania. Użyj powolnych klawiszy, jeśli przypadkowo naciskasz kilka klawiszy na raz podczas pisania, lub jeśli naciśnięcie właściwego klawisza za pierwszym razem sprawia trudności.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Ułatwienia dostępu</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Ułatwienia dostępu</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Ułatwienia dostępu</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Naciśnij <span class="gui">Wspomaganie pisania (AccessX)</span> w sekcji <span class="gui">Pisanie</span>.</p></li>
 <li class="steps"><p class="p">Przełącz <span class="gui">Powolne klawisze</span> na <span class="gui">|</span> (włączone).</p></li>
@@ -66,7 +66,7 @@
 <div class="title title-note"><h2><span class="title">Szybkie przełączanie powolnych klawiszy</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Pod <span class="gui">Włączanie za pomocą klawiatury</span> wybierz <span class="gui">Włączanie funkcji ułatwień dostępu za pomocą klawiatury</span>, aby przełączać powolne klawisze za pomocą klawiatury. Po włączeniu tej opcji można nacisnąć i przytrzymać klawisz <span class="key"><kbd>Shift</kbd></span> przez osiem sekund, aby włączyć lub wyłączyć powolne klawisze.</p>
-<p class="p">Można także włączać i wyłączać powolne klawisze klikając <span class="link"><a href="a11y-icon.html" title="Odnajdowanie menu ułatwień dostępu">ikonę ułatwień dostępu</a></span> na górnym pasku i wybierając <span class="gui">Powolne klawisze</span>. Ikona ułatwień dostępu jest widoczna, jeśli włączono co najmniej jedno ustawienie w panelu <span class="gui">Ułatwienia dostępu</span>.</p>
+<p class="p">Można także włączać i wyłączać powolne klawisze klikając <span class="link"><a href="a11y-icon.html.pl-PL" title="Odnajdowanie menu ułatwień dostępu">ikonę ułatwień dostępu</a></span> na górnym pasku i wybierając <span class="gui">Powolne klawisze</span>. Ikona ułatwień dostępu jest widoczna, jeśli włączono co najmniej jedno ustawienie w panelu <span class="gui">Ułatwienia dostępu</span>.</p>
 </div></div>
 </div></div>
 <p class="p">Użyj suwaka <span class="gui">Opóźnienie akceptacji</span>, aby zmienić czas, po jakim przytrzymany klawisz zostanie zarejestrowany.</p>
@@ -78,13 +78,13 @@
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Klawiatura">Klawiatura</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html" title="Make the keyboard cursor blink">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html#mobility" title="Niepełnosprawność ruchowa">keyboard accessibility</a></span>…
+<a href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a><span class="desc"> — 
+      <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.pl-PL" title="Make the keyboard cursor blink">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">keyboard accessibility</a></span>…
     </span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Niepełnosprawność ruchowa">Niepełnosprawność ruchowa</a></li>
+<li class="links "><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">Niepełnosprawność ruchowa</a></li>
 </ul></div>
 </div></div></div>
 </div>

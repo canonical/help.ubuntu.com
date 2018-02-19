@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-wired.html" title="Rede com fio">Rede com fio</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-wired.html.pt-BR" title="Rede com fio">Rede com fio</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-wireless.html" title="Rede sem fio">Rede sem fio</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-wireless.html.pt-BR" title="Rede sem fio">Rede sem fio</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,13 +58,13 @@
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Se não houver um pacote NetworkManager do seu tipo de VPN, você provavelmente vai ter que baixar e instalar algum software cliente da empresa que fornece o software VPN. Você provavelmente vai ter que seguir algumas instruções diferentes para que funcione.</p></div></div></div></div>
 <p class="p">Para configurar a conexão VPN:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Rede</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Rede</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Rede</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Na parte inferior da lista à esquerda, clique no botão <span class="gui">+</span> para adicionar uma nova conexão.</p></li>
 <li class="steps"><p class="p">Escolha <span class="gui">VPN</span> na lista de interfaces.</p></li>
 <li class="steps"><p class="p">Escolha qual tipo de conexão VPN que você tenha.</p></li>
 <li class="steps"><p class="p">Preencha os detalhes da conexão VPN e, então, pressione <span class="gui">Adicionar</span> assim que você tiver finalizado.</p></li>
-<li class="steps"><p class="p">Quando você tiver finalizado a configuração da VPN, abra o <span class="gui"><a href="shell-introduction.html#yourname" title="Você e seu computador">menu de sistema</a></span> no lado direito da barra superior, clique em <span class="gui">VPN desligada</span> e selecione <span class="gui">Conectar</span>. Você pode precisar informar uma senha para a conexão antes de estabelecê-la. Assim que a conexão estiver estabelecida, você verá um ícone com formato de trava na barra de ferramentas.</p></li>
+<li class="steps"><p class="p">Quando você tiver finalizado a configuração da VPN, abra o <span class="gui"><a href="shell-introduction.html.pt-BR#yourname" title="Você e seu computador">menu de sistema</a></span> no lado direito da barra superior, clique em <span class="gui">VPN desligada</span> e selecione <span class="gui">Conectar</span>. Você pode precisar informar uma senha para a conexão antes de estabelecê-la. Assim que a conexão estiver estabelecida, você verá um ícone com formato de trava na barra de ferramentas.</p></li>
 <li class="steps"><p class="p">Com sorte, você vai conectar com sucesso à VPN. Se não, você pode precisar de verificar novamente as configurações VPN que você inseriu. Você pode fazer isso no painel <span class="gui">Rede</span> que você usou para criar a conexão. Selecione a conexão VPN da lista e, então, pressione o botão <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configurações"></span></span> para revisar as configurações.</p></li>
 <li class="steps"><p class="p">Para desconectar de um VPN, clique no menu de sistema na barra superior e clique <span class="gui">Desligar</span> sob o nome de sua conexão VPN.</p></li>
 </ol></div></div></div>
@@ -75,10 +75,10 @@
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wired.html" title="Rede com fio">Rede com fio</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Conectando a rede com fio (Ethernet)">Conexões de Internet com fio</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Criando uma conexão com um endereço IP fixo">Endereços IP fixos</a></span>…</span>
+<a href="net-wired.html.pt-BR" title="Rede com fio">Rede com fio</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.pt-BR" title="Conectando a rede com fio (Ethernet)">Conexões de Internet com fio</a></span>, <span class="link"><a href="net-fixed-ip-address.html.pt-BR" title="Criando uma conexão com um endereço IP fixo">Endereços IP fixos</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html" title="Rede sem fio">Rede sem fio</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Conectando a uma rede sem fio">Conectar-se a redes sem fio</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Conectando a um rede sem fio oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Por que minha conexão sem fio fica desconectando?">desconectando</a></span>…</span>
+<a href="net-wireless.html.pt-BR" title="Rede sem fio">Rede sem fio</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pt-BR" title="Conectando a uma rede sem fio">Conectar-se a redes sem fio</a></span>, <span class="link"><a href="net-wireless-hidden.html.pt-BR" title="Conectando a um rede sem fio oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pt-BR" title="Por que minha conexão sem fio fica desconectando?">desconectando</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

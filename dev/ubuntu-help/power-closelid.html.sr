@@ -44,17 +44,17 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="power.html" title="Напајање и батерија">Напајање и батерија</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="power.html.sr" title="Напајање и батерија">Напајање и батерија</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="power.html" title="Напајање и батерија">Напајање и батерија</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="power.html.sr" title="Напајање и батерија">Напајање и батерија</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Зашто се мој рачунар гаси када спустим поклопац?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Када спустите поклопац вашег преносног рачунара, ваш рачунар ће <span class="link"><a href="power-suspend.html" title="Шта се дешава када обуставим рачунар?"><span class="em">обуставити</span></a></span> рад како би сачувао енергију. То значи да рачунар заправо није угашен — само се успавао. Можете да га повратите подизањем поклопца. Ако се не поврати, пробајте да кликнете мишем или да притиснете неки тастер. Ако и овако не проради, притисните дугме за напајање.</p>
-<p class="p">Неки рачунари не могу исправно да обуставе рад, обично зато што њихове компоненте нису у потпуности подржане оперативним системом (на пример, управљачки програми Линукса нису потпуни). У том случају, можете увидети да нисте у могућности да повратите ваш рачунар након што сте спустили поклопац. Можете да пробате да <span class="link"><a href="power-suspendfail.html" title="Зашто мој рачунар неће да се поврати након што сам га успавао?">исправите проблем са обуставом</a></span>, или можете да спречите рачунар да покуша да обустави рад када спустите поклопац.</p>
+<p class="p">Када спустите поклопац вашег преносног рачунара, ваш рачунар ће <span class="link"><a href="power-suspend.html.sr" title="Шта се дешава када обуставим рачунар?"><span class="em">обуставити</span></a></span> рад како би сачувао енергију. То значи да рачунар заправо није угашен — само се успавао. Можете да га повратите подизањем поклопца. Ако се не поврати, пробајте да кликнете мишем или да притиснете неки тастер. Ако и овако не проради, притисните дугме за напајање.</p>
+<p class="p">Неки рачунари не могу исправно да обуставе рад, обично зато што њихове компоненте нису у потпуности подржане оперативним системом (на пример, управљачки програми Линукса нису потпуни). У том случају, можете увидети да нисте у могућности да повратите ваш рачунар након што сте спустили поклопац. Можете да пробате да <span class="link"><a href="power-suspendfail.html.sr" title="Зашто мој рачунар неће да се поврати након што сам га успавао?">исправите проблем са обуставом</a></span>, или можете да спречите рачунар да покуша да обустави рад када спустите поклопац.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Не дозволите рачунару да обустави рад када спустите поклопац</span></h2></div>
@@ -64,10 +64,11 @@
 <p class="p">Ако не желите да рачунар обустави рад када затворите поклопац, можете да измените подешавање тог понашања.</p>
 <div class="note note-warning" title="Упозорење"><div class="inner"><div class="region"><div class="contents"><p class="p">Будите веома пажљиви ако мењате ово подешавање. Неки преносни рачунари мог да се прегреју ако су остављени да раде са спуштеним поклопцем, поготово ако су у затвореном простору као што је ранац.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Алат за лицкање</span> да га отворите.</p></li>
 <li class="steps"><p class="p">Притисните на језичак <span class="gui">Напајање</span>.</p></li>
-<li class="steps"><p class="p">Пребаците <span class="gui">Не обустављај при спуштању поклопца</span> на <span class="gui">УКЉ.</span>.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
+      <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Затворите прозор <span class="gui">Алата за лицкање</span>.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -78,17 +79,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Напајање и батерија">Напајање и батерија</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Проверите стање батерије">Стање батерије</a></span>, <span class="link"><a href="power-suspend.html" title="Шта се дешава када обуставим рачунар?">обустављање</a></span>, <span class="link"><a href="power-whydim.html" title="Зашто се екран затамни након неког времена?">затамњивање екрана</a></span>…</span>
+<a href="power.html.sr" title="Напајање и батерија">Напајање и батерија</a><span class="desc"> — <span class="link"><a href="power-status.html.sr" title="Проверите стање батерије">Стање батерије</a></span>, <span class="link"><a href="power-suspend.html.sr" title="Шта се дешава када обуставим рачунар?">обустављање</a></span>, <span class="link"><a href="power-whydim.html.sr" title="Зашто се екран затамни након неког времена?">затамњивање екрана</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspendfail.html" title="Зашто мој рачунар неће да се поврати након што сам га успавао?">Зашто мој рачунар неће да се поврати након што сам га успавао?</a><span class="desc"> — Неке компоненте рачунара стварају проблеме приликом обуставе.</span>
+<a href="power-suspendfail.html.sr" title="Зашто мој рачунар неће да се поврати након што сам га успавао?">Зашто мој рачунар неће да се поврати након што сам га успавао?</a><span class="desc"> — Неке компоненте рачунара стварају проблеме приликом обуставе.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Шта се дешава када обуставим рачунар?">Шта се дешава када обуставим рачунар?</a><span class="desc"> — Обустављање шаље ваш рачунар на спавање тако да користи мање напајања.</span>
+<a href="power-suspend.html.sr" title="Шта се дешава када обуставим рачунар?">Шта се дешава када обуставим рачунар?</a><span class="desc"> — Обустављање шаље ваш рачунар на спавање тако да користи мање напајања.</span>
 </li>
 </ul></div>
 </div></div>

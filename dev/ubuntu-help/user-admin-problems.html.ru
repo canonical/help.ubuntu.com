@@ -43,36 +43,36 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="user-accounts.html" title="Учётные записи пользователей">Пользователи</a> › <a class="trail" href="user-accounts.html#privileges" title="Привилегии пользователей">Привилегии</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="user-accounts.html.ru" title="Учётные записи пользователей">Пользователи</a> › <a class="trail" href="user-accounts.html.ru#privileges" title="Привилегии пользователей">Привилегии</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Проблемы, вызванные ограничением прав доступа</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Если у вас нет <span class="link"><a href="user-admin-explain.html" title="Как работают административные полномочия?">прав администратора</a></span>, вы можете столкнуться с некоторыми проблемами. Некоторые задачи требуют наличия прав администратора. Например:</p>
+<p class="p">Если у вас нет <span class="link"><a href="user-admin-explain.html.ru" title="Как работают административные полномочия?">прав администратора</a></span>, вы можете столкнуться с некоторыми проблемами. Некоторые задачи требуют наличия прав администратора. Например:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">connecting to networks or wireless networks,</p></li>
 <li class="list"><p class="p">viewing the contents of a different disk partition (for example, a
       Windows partition), or</p></li>
 <li class="list"><p class="p">installing new applications.</p></li>
 </ul></div></div></div>
-<p class="p">Можно <span class="link"><a href="user-admin-change.html" title="Назначение административных полномочий">выбрать пользователей, обладающих правами администратора</a></span>.</p>
+<p class="p">Можно <span class="link"><a href="user-admin-change.html.ru" title="Назначение административных полномочий">выбрать пользователей, обладающих правами администратора</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Привилегии пользователей">Привилегии пользователей</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.ru#privileges" title="Привилегии пользователей">Привилегии пользователей</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Как работают административные полномочия?">Как работают административные полномочия?</a><span class="desc"> — Для изменения важных компонентов системы нужны права администратора.</span>
+<a href="user-admin-explain.html.ru" title="Как работают административные полномочия?">Как работают административные полномочия?</a><span class="desc"> — Для изменения важных компонентов системы нужны права администратора.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="Назначение административных полномочий">Назначение административных полномочий</a><span class="desc"> — You can allow users to make changes to the system by giving them
+<a href="user-admin-change.html.ru" title="Назначение административных полномочий">Назначение административных полномочий</a><span class="desc"> — You can allow users to make changes to the system by giving them
     administrative privileges.</span>
 </li>
 </ul></div>

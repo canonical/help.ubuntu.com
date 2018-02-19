@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comunes">Problemas</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Solucionador de problemas de red inalámbrica">Solucionador de problemas de red inalámbrica</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html.es#problems" title="Problemas comunes">Problemas</a> » <a class="trail" href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Solucionador de problemas de red inalámbrica</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-wireless.html" title="Conexiones inalámbricas">Conexiones inalámbricas</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Solucionador de problemas de red inalámbrica">Solucionador de problemas de red inalámbrica</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-wireless.html.es" title="Conexiones inalámbricas">Conexiones inalámbricas</a> » <a class="trail" href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Solucionador de problemas de red inalámbrica</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Solucionador de problemas de red inalámbrica">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Solucionador de problemas de red inalámbrica">Siguiente</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html.es" title="Solucionador de problemas de red inalámbrica">Siguiente</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Solucionador de problemas de red inalámbrica</span></h1>
@@ -64,7 +64,7 @@
 <li class="steps"><p class="p">Asegúrese que su portátil no está conectado a una conexión de Internet <span class="em">cableada</span>-</p></li>
 <li class="steps"><p class="p">Si tiene un adaptador inalámbrico externo (como un adaptador inalámbrico USB o una tarjeta PCMCIA enchufada en su portátil), asegúrese de que está insertada en la ranura correcta en el equipo.</p></li>
 <li class="steps"><p class="p">Si su tarjeta inalámbrica está <span class="em">dentro</span> de su equipo, asegúrese que de el conmutador del adaptador inalámbrico está encendido (si tiene uno). Los portátiles frecuentemente tienen conmutadores que puede usar pulsando una combinación de teclas.</p></li>
-<li class="steps"><p class="p">Pulse en el área de estado del sistema en la barra superior, seleccione <span class="gui">Inalámbrica</span> y pulse en <span class="gui">Configuración inalámbrica</span>. Asegúrese de que <span class="gui">Inalámbrica</span> está <span class="gui">Activada</span>. También debe comprobar que el <span class="link"><a href="net-wireless-airplane.html" title="Apagar el modo inalámbrico (modo avión)">modo avión</a></span> <span class="em">no</span> está activado.</p></li>
+<li class="steps"><p class="p">Pulse en el área de estado del sistema en la barra superior, seleccione <span class="gui">Inalámbrica</span> y pulse en <span class="gui">Configuración inalámbrica</span>. Asegúrese de que <span class="gui">Inalámbrica</span> está <span class="gui">Activada</span>. También debe comprobar que el <span class="link"><a href="net-wireless-airplane.html.es" title="Apagar el modo inalámbrico (modo avión)">modo avión</a></span> <span class="em">no</span> está activado.</p></li>
 <li class="steps">
 <p class="p">Abra la terminal, teclee <span class="cmd">nmcli dispositivo</span> y pulse <span class="key"><kbd>Intro</kbd></span>.</p>
 <p class="p">Esto mostrará información sobre susinterfaces de red y el estado de la conexión. Consulte en la lista de información si hay una sección relacionada con el adaptador de red inalámbrica. Si el estado es <span class="code">conectado</span> en la sección de su adaptador inalámbrico, significa que está funcionando y conectado a su enrutador inalámbrico.</p>
@@ -74,14 +74,14 @@
 <p class="p">Si la información desde <span class="cmd">nmcli dispositivo</span> no indica que esté conectado a la red, pulse <span class="gui">Siguiente</span> para continuar con la siguiente parte de la guía de resolución de problemas.</p>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Solucionador de problemas de red inalámbrica">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Solucionador de problemas de red inalámbrica">Siguiente</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html.es" title="Solucionador de problemas de red inalámbrica">Siguiente</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Solucionador de problemas de red inalámbrica">Solucionador de problemas de red inalámbrica</a><span class="desc"> — Identificar y arreglar problemas con conexiones inalámbricas.</span>
+<a href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Solucionador de problemas de red inalámbrica</a><span class="desc"> — Identificar y arreglar problemas con conexiones inalámbricas.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="hardware-problems-graphics.html" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="hardware-problems-graphics.html.el" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="prefs-display.html" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="prefs-display.html.el" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">Εάν αφήσετε τον υπολογιστή σας για λίγο, η οθόνη θα κλειδώσει τον εαυτόν της αυτόματα, έτσι πρέπει να εισάγετε τον κωδικό πρόσβασής σας για να την ξαναχρησιμοποιήσετε. Αυτό γίνεται για λόγους ασφάλειας (έτσι ώστε κανένας να μην μπορεί να επέμβει στην εργασία σας εάν αφήσετε τον υπολογιστή αφύλακτο), αλλά μπορεί να είναι ενοχλητικό εάν η οθόνη κλειδώνεται μόνη της υπερβολικά γρήγορα.</p>
 <p class="p">Για μεγαλύτερη περίοδο αναμονής πριν να κλειδωθεί η οθόνη αυτόματα:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ιδιωτικότητα</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ιδιωτικότητα</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ιδιωτικότητα</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Πατήστε στο <span class="gui">Κλείδωμα οθόνης</span>.</p></li>
 <li class="steps"><p class="p">Αν το <span class="gui">Αυτόματο κλείδωμα οθόνης</span> είναι ενεργό, μπορείτε να αλλάξτε την τιμή στην αναπτυσσόμενη λίστα <span class="gui">Κλείδωμα οθόνης μετά από κενό για</span>.</p></li>
@@ -71,10 +71,10 @@
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος">Παρασκήνιο</a></span>, <span class="link"><a href="look-resolution.html" title="Αλλαγή της ανάλυσης ή της περιστροφής της οθόνης">Μέγεθος και περιστροφή</a></span>, φωτεινότητα…</span>
+<a href="prefs-display.html.el" title="Εμφάνιση &amp; οθόνη">Εμφάνιση &amp; οθόνη</a><span class="desc"> — <span class="link"><a href="look-background.html.el" title="Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος">Παρασκήνιο</a></span>, <span class="link"><a href="look-resolution.html.el" title="Αλλαγή της ανάλυσης ή της περιστροφής της οθόνης">Μέγεθος και περιστροφή</a></span>, φωτεινότητα…</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a><span class="desc"> — Λύστε προβλήματα οθόνης και γραφικών.</span>
+<a href="hardware-problems-graphics.html.el" title="Προβλήματα οθόνης">Προβλήματα οθόνης</a><span class="desc"> — Λύστε προβλήματα οθόνης και γραφικών.</span>
 </li>
 </ul></div>
 </div></div>
@@ -82,11 +82,11 @@
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Αυτόματο κλείδωμα της οθόνης">Αυτόματο κλείδωμα της οθόνης</a><span class="desc"> — Αποτρέψτε άλλα άτομα από τη χρήση της επιφάνειας εργασίας όταν φεύγετε από τον υπολογιστή σας.</span>
+<a href="privacy-screen-lock.html.el" title="Αυτόματο κλείδωμα της οθόνης">Αυτόματο κλείδωμα της οθόνης</a><span class="desc"> — Αποτρέψτε άλλα άτομα από τη χρήση της επιφάνειας εργασίας όταν φεύγετε από τον υπολογιστή σας.</span>
 </li>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Κλείδωμα της οθόνης">Κλείδωμα της οθόνης</a></li>
+<li class="links "><a href="shell-exit.html.el#lock-screen" title="Κλείδωμα της οθόνης">Κλείδωμα της οθόνης</a></li>
 <li class="links ">
-<a href="display-blank.html" title="Ορισμός χρόνου σβησίματος οθόνης">Ορισμός χρόνου σβησίματος οθόνης</a><span class="desc"> — Αλλάξτε τον χρόνο σβησίματος της οθόνης σας για να εξοικονομήσετε ενέργεια.</span>
+<a href="display-blank.html.el" title="Ορισμός χρόνου σβησίματος οθόνης">Ορισμός χρόνου σβησίματος οθόνης</a><span class="desc"> — Αλλάξτε τον χρόνο σβησίματος της οθόνης σας για να εξοικονομήσετε ενέργεια.</span>
 </li>
 </ul></div>
 </div></div>

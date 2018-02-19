@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="power.html" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="power.html" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">A számítógép <span class="em">felfüggesztésekor</span> alvó állapotba helyezi a számítógépet. Minden alkalmazása és dokumentuma nyitva marad, de a képernyő és a számítógép más alkatrészei az energiatakarékosság érdekében kikapcsolnak. A számítógép azonban bekapcsolva marad, és egy kevés áramot fogyaszt, és egy billentyű lenyomásával vagy egy egérkattintással felébresztheti. Ha ez nem történik meg, próbálja megnyomni a bekapcsológombot.</p>
-<p class="p">Egyes számítógépek hardvere nem megfelelően támogatott, ami azt jelenti, hogy ezeken <span class="link"><a href="power-suspendfail.html" title="Miért nem kapcsol vissza felfüggesztés után a számítógépem?">a felfüggesztés nem működik</a></span>. Javasoljuk, hogy tesztelje le a számítógép felfüggesztését, mielőtt ráhagyatkozik.</p>
+<p class="p">Egyes számítógépek hardvere nem megfelelően támogatott, ami azt jelenti, hogy ezeken <span class="link"><a href="power-suspendfail.html.hu" title="Miért nem kapcsol vissza felfüggesztés után a számítógépem?">a felfüggesztés nem működik</a></span>. Javasoljuk, hogy tesztelje le a számítógép felfüggesztését, mielőtt ráhagyatkozik.</p>
 <div class="note note-important" title="Fontos"><div class="inner">
 <div class="title title-note"><h2><span class="title">Mindig mentse munkáját felfüggesztés előtt</span></h2></div>
 <div class="region"><div class="contents"><p class="p">A számítógép felfüggesztése előtt mindig mentse dokumentumait, hogy akkor se veszítse el az aktuális változtatásokat, ha egy hiba miatt az alkalmazások és dokumentumok nem lesznek helyreállíthatók a számítógép használatának folytatásakor.</p></div></div>
@@ -66,24 +66,24 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Akkumulátorállapot ellenőrzése">Akkumulátor állapot</a></span>, <span class="link"><a href="power-suspend.html" title="Mi történik a számítógép felfüggesztésekor?">felfüggesztés</a></span>, <span class="link"><a href="power-whydim.html" title="Miért halványul el a képernyőm egy idő után?">képernyő elhalványítása</a></span>…</span>
+<a href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a><span class="desc"> — <span class="link"><a href="power-status.html.hu" title="Akkumulátorállapot ellenőrzése">Akkumulátor állapot</a></span>, <span class="link"><a href="power-suspend.html.hu" title="Mi történik a számítógép felfüggesztésekor?">felfüggesztés</a></span>, <span class="link"><a href="power-whydim.html.hu" title="Miért halványul el a képernyőm egy idő után?">képernyő elhalványítása</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html" title="Automatikus felfüggesztés beállítása">Automatikus felfüggesztés beállítása</a><span class="desc"> — Számítógép beállítása az automatikus felfüggesztéshez.</span>
+<a href="power-autosuspend.html.hu" title="Automatikus felfüggesztés beállítása">Automatikus felfüggesztés beállítása</a><span class="desc"> — Számítógép beállítása az automatikus felfüggesztéshez.</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Felfüggesztés">Felfüggesztés</a></li>
+<li class="links "><a href="shell-exit.html.hu#suspend" title="Felfüggesztés">Felfüggesztés</a></li>
 <li class="links ">
-<a href="power-batterylife.html" title="Kevesebb energia használata és az akkumulátoros üzemidő javítása">Kevesebb energia használata és az akkumulátoros üzemidő javítása</a><span class="desc"> — Tippek a számítógép áramfogyasztásának csökkentéséhez.</span>
-</li>
-<li class="links ">
-<a href="power-closelid.html" title="Miért kapcsol ki a számítógépem, amikor lezárom a fedelét?">Miért kapcsol ki a számítógépem, amikor lezárom a fedelét?</a><span class="desc"> — A laptopok az energiafelhasználás csökkentése érdekében alvó állapotba kerülnek, amikor lezárja a fedelüket.</span>
+<a href="power-batterylife.html.hu" title="Kevesebb energia használata és az akkumulátoros üzemidő javítása">Kevesebb energia használata és az akkumulátoros üzemidő javítása</a><span class="desc"> — Tippek a számítógép áramfogyasztásának csökkentéséhez.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Miért nem kapcsol vissza felfüggesztés után a számítógépem?">Miért nem kapcsol vissza felfüggesztés után a számítógépem?</a><span class="desc"> — Egyes számítógép-alkatrészek felfüggesztési hibákat okoznak.</span>
+<a href="power-closelid.html.hu" title="Miért kapcsol ki a számítógépem, amikor lezárom a fedelét?">Miért kapcsol ki a számítógépem, amikor lezárom a fedelét?</a><span class="desc"> — A laptopok az energiafelhasználás csökkentése érdekében alvó állapotba kerülnek, amikor lezárja a fedelüket.</span>
+</li>
+<li class="links ">
+<a href="power-suspendfail.html.hu" title="Miért nem kapcsol vissza felfüggesztés után a számítógépem?">Miért nem kapcsol vissza felfüggesztés után a számítógépem?</a><span class="desc"> — Egyes számítógép-alkatrészek felfüggesztési hibákat okoznak.</span>
 </li>
 </ul></div>
 </div></div>

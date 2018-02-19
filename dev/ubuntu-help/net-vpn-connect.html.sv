@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-wired.html" title="Trådbundna nätverk">Trådbundna nätverk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-wired.html.sv" title="Trådbundna nätverk">Trådbundna nätverk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-wireless.html" title="Trådlösa nätverk">Trådlösa nätverk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlösa nätverk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,13 +58,13 @@
 <div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Om det inte finns något paket för Nätverkshanteraren för din typ av VPN måste du troligtvis hämta ner och installera någon klientprogramvara från företaget som erbjuder VPN-programvaran. Du behöver sannolikt följa andra instruktioner för att få det att fungera.</p></div></div></div></div>
 <p class="p">För att ställa in VPN-anslutningen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Nätverk</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Nätverk</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Nätverk</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Längst ner i listan till vänster klicka på <span class="gui">+</span>-knappen för att lägga till en ny anslutning.</p></li>
 <li class="steps"><p class="p">Välj <span class="gui">VPN</span> i gränssnittslistan.</p></li>
 <li class="steps"><p class="p">Välj vilken sorts VPN-anslutning du har.</p></li>
 <li class="steps"><p class="p">Fyll i detaljerna för VPN-anslutningen, tryck sedan på <span class="gui">Lägg till</span> när du är klar.</p></li>
-<li class="steps"><p class="p">När du har ställt in VPN:et, öppna <span class="gui"><a href="shell-introduction.html#yourname" title="Du och din dator">systemmenyn</a></span> från höger sida i systemraden, klicka på <span class="gui">VPN avslaget</span> och välj <span class="gui">Anslut</span>. Du kan behöva skriva in ett lösenord för anslutningen innan den etableras. När anslutningen är gjord kommer du att se en ikon formad som ett lås i systemraden.</p></li>
+<li class="steps"><p class="p">När du har ställt in VPN:et, öppna <span class="gui"><a href="shell-introduction.html.sv#yourname" title="Du och din dator">systemmenyn</a></span> från höger sida i systemraden, klicka på <span class="gui">VPN avslaget</span> och välj <span class="gui">Anslut</span>. Du kan behöva skriva in ett lösenord för anslutningen innan den etableras. När anslutningen är gjord kommer du att se en ikon formad som ett lås i systemraden.</p></li>
 <li class="steps"><p class="p">Förhoppningsvis kommer du att lyckas ansluta till VPN:et. Om inte kan du behöva dubbelkolla VPN-inställningarna du matade in. Du kan göra detta från panelen <span class="gui">Nätverk</span> som du använde för att skapa anslutningen. Välj VPN-anslutningen från listan och tryck sedan på knappen <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="inställningar"></span></span> för att granska inställningarna.</p></li>
 <li class="steps"><p class="p">För att koppla ifrån ett VPN, klicka på systemmenyn i systemraden och klicka på <span class="gui">Stäng av</span> under namnet för din VPN-anslutning.</p></li>
 </ol></div></div></div>
@@ -75,10 +75,10 @@
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wired.html" title="Trådbundna nätverk">Trådbundna nätverk</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Anslut till ett trådbundet (Ethernet) nätverk">Trådbundna internetanslutningar</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Skapa en anslutning med en fast IP-adress">Fasta IP-adresser</a></span>…</span>
+<a href="net-wired.html.sv" title="Trådbundna nätverk">Trådbundna nätverk</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.sv" title="Anslut till ett trådbundet (Ethernet) nätverk">Trådbundna internetanslutningar</a></span>, <span class="link"><a href="net-fixed-ip-address.html.sv" title="Skapa en anslutning med en fast IP-adress">Fasta IP-adresser</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html" title="Trådlösa nätverk">Trådlösa nätverk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Anslut till ett trådlöst nätverk">Anslut till wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Anslut till ett dolt, trådlöst nätverk">Dolda nätverk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Varför kopplar mitt trådlösa nätverk ner hela tiden?">Koppla ifrån</a></span>…</span>
+<a href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlösa nätverk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.sv" title="Anslut till ett trådlöst nätverk">Anslut till wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.sv" title="Anslut till ett dolt, trådlöst nätverk">Dolda nätverk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.sv" title="Varför kopplar mitt trådlösa nätverk ner hela tiden?">Koppla ifrån</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

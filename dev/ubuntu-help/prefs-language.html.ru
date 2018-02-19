@@ -43,15 +43,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Язык и регион</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="session-formats.html" title="Изменение форматов даты и единиц измерения"><span class="title">Изменение форматов даты и единиц измерения</span><span class="linkdiv-dash"> — </span><span class="desc">Выберите региональный формат даты и времени, чисел, валюты и единиц измерения.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-language.html" title="Изменение языка"><span class="title">Изменение языка</span><span class="linkdiv-dash"> — </span><span class="desc">Переключение пользовательского интерфейса и текста справочной системы на другой язык.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры"><span class="title">Использование альтернативных раскладок клавиатуры</span><span class="linkdiv-dash"> — </span><span class="desc">Добавьте раскладки клавиатуры и переключайтесь между ними.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-formats.html.ru" title="Изменение форматов даты и единиц измерения"><span class="title">Изменение форматов даты и единиц измерения</span><span class="linkdiv-dash"> — </span><span class="desc">Выберите региональный формат даты и времени, чисел, валюты и единиц измерения.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-language.html.ru" title="Изменение языка"><span class="title">Изменение языка</span><span class="linkdiv-dash"> — </span><span class="desc">Переключение пользовательского интерфейса и текста справочной системы на другой язык.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.ru" title="Использование альтернативных раскладок клавиатуры"><span class="title">Использование альтернативных раскладок клавиатуры</span><span class="linkdiv-dash"> — </span><span class="desc">Добавьте раскладки клавиатуры и переключайтесь между ними.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -59,13 +59,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
+<a href="prefs.html.ru" title="Параметры пользователя и системы">Параметры пользователя и системы</a><span class="desc"> — <span class="link"><a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a></span>, <span class="link"><a href="mouse.html.ru" title="Мышь">мышь</a></span>, <span class="link"><a href="prefs-display.html.ru" title="Монитор и экран">монитор</a></span>, <span class="link"><a href="prefs-language.html.ru" title="Язык и регион">языки</a></span>, <span class="link"><a href="user-accounts.html.ru" title="Учётные записи пользователей">учётные записи пользователей</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language-install.html" title="Установка языков">Установка языков</a><span class="desc"> — Установите дополнительные переводы и соответствующие языковые пакеты.</span>
+<a href="prefs-language-install.html.ru" title="Установка языков">Установка языков</a><span class="desc"> — Установите дополнительные переводы и соответствующие языковые пакеты.</span>
 </li></ul></div>
 </div></div>
 </div>

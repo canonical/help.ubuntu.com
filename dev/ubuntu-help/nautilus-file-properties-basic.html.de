@@ -43,24 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.de" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html.de#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Dateieigenschaften</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Um Informationen zu einer Datei oder einem Ordner anzuzeigen, klicken Sie mit der rechten Maustaste darauf und wählen Sie <span class="gui">Eigenschaften</span> Sie können die Datei auch auswählen und <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Eingabetaste</kbd></span></span> drücken.</p>
-<p class="p">Das Dateieigenschaften-Fenster zeigt Ihnen Informationen wie den Dateityp, die Dateigröße und wann Sie die Datei zuletzt geändert haben. Wenn Sie diese Informationen häufig brauchen, können Sie sie in den <span class="link"><a href="nautilus-list.html" title="Einstellungen für die Spalten in der Dateiverwaltung">Spalten der Listenansicht</a></span> oder <span class="link"><a href="nautilus-display.html#icon-captions" title="Symbolbeschriftungen">Symbolbeschriftungen</a></span> anzeigen lassen.</p>
-<p class="p">Die im Reiter <span class="gui">Grundlegend</span> präsentierten Informationen werden im Folgenden erklärt. Daneben gibt es noch die Reiter <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Festlegen von Zugriffsrechten für Dateien">Zugriffsrechte</a></span></span> und <span class="gui"><span class="link"><a href="files-open.html#default" title="Ändern der Standardanwendung">Öffnen mit</a></span></span>. Bei bestimmten Dateitypen, wie Bildern und Videos, gibt es noch einen weiteren Reiter, der über Eigenschaften wie Ausmaße, Länge und Codec informiert.</p>
+<p class="p">Das Dateieigenschaften-Fenster zeigt Ihnen Informationen wie den Dateityp, die Dateigröße und wann Sie die Datei zuletzt geändert haben. Wenn Sie diese Informationen häufig brauchen, können Sie sie in den <span class="link"><a href="nautilus-list.html.de" title="Einstellungen für die Spalten in der Dateiverwaltung">Spalten der Listenansicht</a></span> oder <span class="link"><a href="nautilus-display.html.de#icon-captions" title="Symbolbeschriftungen">Symbolbeschriftungen</a></span> anzeigen lassen.</p>
+<p class="p">Die im Reiter <span class="gui">Grundlegend</span> präsentierten Informationen werden im Folgenden erklärt. Daneben gibt es noch die Reiter <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.de" title="Festlegen von Zugriffsrechten für Dateien">Zugriffsrechte</a></span></span> und <span class="gui"><span class="link"><a href="files-open.html.de#default" title="Ändern der Standardanwendung">Öffnen mit</a></span></span>. Bei bestimmten Dateitypen, wie Bildern und Videos, gibt es noch einen weiteren Reiter, der über Eigenschaften wie Ausmaße, Länge und Codec informiert.</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Grundlegende Eigenschaften</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Name</span></dt>
-<dd class="terms"><p class="p">Sie können die Datei umbenennen, indem Sie dieses Feld ändern. Sie können eine Datei auch außerhalb des Dateieigenschaften-Fensters umbenennen. Siehe <span class="link"><a href="files-rename.html" title="Eine Datei oder einen Ordner umbenennen">Eine Datei oder einen Ordner umbenennen</a></span>.</p></dd>
+<dd class="terms"><p class="p">Sie können die Datei umbenennen, indem Sie dieses Feld ändern. Sie können eine Datei auch außerhalb des Dateieigenschaften-Fensters umbenennen. Siehe <span class="link"><a href="files-rename.html.de" title="Eine Datei oder einen Ordner umbenennen">Eine Datei oder einen Ordner umbenennen</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Typ</span></dt>
 <dd class="terms">
-<p class="p">Damit können Sie den Dateityp leichter feststellen, etwa dass es ein PDF-Dokument, OpenDocument-Text oder JPEG-Bild ist. Der Dateityp bestimmt unter anderem, welche Anwendung die Datei öffnen kann. Zum Beispiel können Sie ein Bild nicht mit der Musikwiedergabe öffnen. Siehe <span class="link"><a href="files-open.html" title="Dateien mit anderen Anwendungen öffnen">Dateien mit anderen Anwendungen öffnen</a></span> für weitere Informationen darüber.</p>
+<p class="p">Damit können Sie den Dateityp leichter feststellen, etwa dass es ein PDF-Dokument, OpenDocument-Text oder JPEG-Bild ist. Der Dateityp bestimmt unter anderem, welche Anwendung die Datei öffnen kann. Zum Beispiel können Sie ein Bild nicht mit der Musikwiedergabe öffnen. Siehe <span class="link"><a href="files-open.html.de" title="Dateien mit anderen Anwendungen öffnen">Dateien mit anderen Anwendungen öffnen</a></span> für weitere Informationen darüber.</p>
 <p class="p">Der <span class="em">MIME-Typ</span> der Datei wird in Klammern angezeigt; der MIME-Typ ist eine standardisierte Beschreibung des Dateityps, die von Rechnern verwendet wird.</p>
 </dd>
 <dt class="terms">Inhalt</dt>
@@ -85,12 +85,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.de#more-file-tasks" title="Weitere Aktionen für Dateien">Weitere Aktionen für Dateien</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="Festlegen von Zugriffsrechten für Dateien">Festlegen von Zugriffsrechten für Dateien</a><span class="desc"> — Legen Sie fest, wer Ihre Dateien und Ordner betrachten und bearbeiten darf.</span>
+<a href="nautilus-file-properties-permissions.html.de" title="Festlegen von Zugriffsrechten für Dateien">Festlegen von Zugriffsrechten für Dateien</a><span class="desc"> — Legen Sie fest, wer Ihre Dateien und Ordner betrachten und bearbeiten darf.</span>
 </li></ul></div>
 </div></div>
 </div>

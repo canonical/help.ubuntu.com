@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="prefs-display.html" title="Pantalla">Pantalla</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="prefs-display.html.es" title="Pantalla">Pantalla</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comunes">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html" title="Problemas de la pantalla">Problemas de la pantalla</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> › <a class="trail" href="hardware.html.es#problems" title="Problemas comunes">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html.es" title="Problemas de la pantalla">Problemas de la pantalla</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,19 +54,19 @@
 <div class="region">
 <div class="contents">
 <p class="p">Dependiendo de su hardware, puede cambiar el brillo de la pantalla para ahorrar energía o para hacerla más legible en condiciones de mucha luz ambiental.</p>
-<p class="p">Para cambiar el volumen del sonido, abra el <span class="gui"><a href="shell-introduction.html#yourname" title="Usted y su equipo">menú del sistema</a></span> en el lado derecho de la barra superior y mueva el control deslizante del brillo al valor que quiera usar. El cambio debe surtir efecto inmediatamente.</p>
+<p class="p">Para cambiar el volumen del sonido, abra el <span class="gui"><a href="shell-introduction.html.es#yourname" title="Usted y su equipo">menú del sistema</a></span> en el lado derecho de la barra superior y mueva el control deslizante del brillo al valor que quiera usar. El cambio debe surtir efecto inmediatamente.</p>
 <div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Muchos portátiles tienen teclados con teclas especiales para ajustar el brillo. A menudo tienen una imagen que parece un sol. Mantenga pulsada la tecla <span class="key"><kbd class="key-Fn">Fn</kbd></span> para usar estas teclas.</p></div></div></div></div>
 <p class="p">También puede ajustar el brillo de la pantalla usando el panel <span class="gui">Energía</span>.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Para cambiar el brillo de la pantalla usando el panel de Energía:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> empiece a escribir <span class="gui">Energía</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> empiece a escribir <span class="gui">Energía</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Energía</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Ajuste el deslizador del <span class="gui">Brillo de la pantalla</span> al valor que quiera. El cambio debería aplicarse inmediatamente.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Si su equipo integra un sensor de luz, el brillo de la pantalla se ajustará automáticamente. Puede desactivar el brillo automático de la pantalla en el panel de <span class="gui">Energía</span>.</p></div></div></div></div>
-<p class="p">Si es posible regular el brillo de la pantalla, ésta se oscurecerá cuando el equipo esté inactivo para ahorrar energía. Para obtener más información, consulte la <span class="link"><a href="power-whydim.html" title="¿Por qué mi pantalla se oscurece después de un tiempo?">¿Por qué mi pantalla se oscurece después de un tiempo?</a></span>.</p>
+<p class="p">Si es posible regular el brillo de la pantalla, ésta se oscurecerá cuando el equipo esté inactivo para ahorrar energía. Para obtener más información, consulte la <span class="link"><a href="power-whydim.html.es" title="¿Por qué mi pantalla se oscurece después de un tiempo?">¿Por qué mi pantalla se oscurece después de un tiempo?</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -75,10 +75,10 @@
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Pantalla">Pantalla</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Cambiar el fondo del escritorio y de la pantalla de bloqueo">Fondo</a></span>, <span class="link"><a href="look-resolution.html" title="Cambiar la resolución o la rotación de la pantalla">tamaño y rotación</a></span>, brillo…</span>
+<a href="prefs-display.html.es" title="Pantalla">Pantalla</a><span class="desc"> — <span class="link"><a href="look-background.html.es" title="Cambiar el fondo del escritorio y de la pantalla de bloqueo">Fondo</a></span>, <span class="link"><a href="look-resolution.html.es" title="Cambiar la resolución o la rotación de la pantalla">tamaño y rotación</a></span>, brillo…</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Problemas de la pantalla">Problemas de la pantalla</a><span class="desc"> — Resolución de problemas de pantalla y gráficos.</span>
+<a href="hardware-problems-graphics.html.es" title="Problemas de la pantalla">Problemas de la pantalla</a><span class="desc"> — Resolución de problemas de pantalla y gráficos.</span>
 </li>
 </ul></div>
 </div></div>
@@ -86,16 +86,16 @@
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autobrightness.html" title="Activar el brillo automático">Activar el brillo automático</a><span class="desc"> — Controlar automáticamente el brillo de la pantalla para reducir el uso de batería.</span>
+<a href="power-autobrightness.html.es" title="Activar el brillo automático">Activar el brillo automático</a><span class="desc"> — Controlar automáticamente el brillo de la pantalla para reducir el uso de batería.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html" title="Ajustar el contraste">Ajustar el contraste</a><span class="desc"> — Hacer que las ventanas y los botones de la pantalla más (o menos) vivos, para que sean más fáciles de ver.</span>
+<a href="a11y-contrast.html.es" title="Ajustar el contraste">Ajustar el contraste</a><span class="desc"> — Hacer que las ventanas y los botones de la pantalla más (o menos) vivos, para que sean más fáciles de ver.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Usar menos energía y mejorar la vida de la batería">Usar menos energía y mejorar la vida de la batería</a><span class="desc"> — Consejos para reducir el consumo de energía de su equipo.</span>
+<a href="power-batterylife.html.es" title="Usar menos energía y mejorar la vida de la batería">Usar menos energía y mejorar la vida de la batería</a><span class="desc"> — Consejos para reducir el consumo de energía de su equipo.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="¿Por qué mi pantalla se oscurece después de un tiempo?">¿Por qué mi pantalla se oscurece después de un tiempo?</a><span class="desc"> — La pantalla se oscurecerá cuando el equipo esté inactivo para ahorrar energía.</span>
+<a href="power-whydim.html.es" title="¿Por qué mi pantalla se oscurece después de un tiempo?">¿Por qué mi pantalla se oscurece después de un tiempo?</a><span class="desc"> — La pantalla se oscurecerá cuando el equipo esté inactivo para ahorrar energía.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sortera filer och mappar</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Du kan sortera filer på olika sätt i en mapp, till exempel genom att sortera dem efter datum eller filstorlek. Se <span class="link"><a href="#ways" title="Olika sätt att sortera filer">Olika sätt att sortera filer</a></span> nedan för en lista över vanliga sätt att sortera filer. Se <span class="link"><a href="nautilus-views.html" title="Visningsinställningar i Filer">Visningsinställningar i <span class="app">Filer</span></a></span> för information om hur du ändrar standardsorteringen.</p>
+<p class="p">Du kan sortera filer på olika sätt i en mapp, till exempel genom att sortera dem efter datum eller filstorlek. Se <span class="link"><a href="#ways" title="Olika sätt att sortera filer">Olika sätt att sortera filer</a></span> nedan för en lista över vanliga sätt att sortera filer. Se <span class="link"><a href="nautilus-views.html.sv" title="Visningsinställningar i Filer">Visningsinställningar i <span class="app">Filer</span></a></span> för information om hur du ändrar standardsorteringen.</p>
 <p class="p">Sättet du sorterar filer beror på <span class="em">mappvyn</span> som du använder. Du kan ändra den aktuella vyn via list- eller ikonknapparna i verktygsfältet.</p>
 </div>
 <div id="icon-view" class="sect"><div class="inner">
@@ -64,7 +64,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Listvy</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">För att sortera filer i en annan ordning, klicka på en av kolumnrubrikerna i filhanteraren. Till exempel, klicka på <span class="gui">Typ</span> för att sortera efter filtyp. Klicka på kolumnrubriken igen för att sortera i omvänd ordning.</p>
-<p class="p">I listvyn kan du visa kolumner med fler attribut och sortera efter dessa kolumner. Klicka på knappen visningsalternativ i verktygsfältet, välj <span class="gui">Synliga kolumner…</span> och välj de kolumner som du vill ska vara synliga. Du kommer sedan kunna sortera efter dessa kolumner. Se <span class="link"><a href="nautilus-list.html" title="Kolumninställningar för listvy i Filer">Kolumninställningar för listvy i Filer</a></span> för beskrivningar av tillgängliga kolumner.</p>
+<p class="p">I listvyn kan du visa kolumner med fler attribut och sortera efter dessa kolumner. Klicka på knappen visningsalternativ i verktygsfältet, välj <span class="gui">Synliga kolumner…</span> och välj de kolumner som du vill ska vara synliga. Du kommer sedan kunna sortera efter dessa kolumner. Se <span class="link"><a href="nautilus-list.html.sv" title="Kolumninställningar för listvy i Filer">Kolumninställningar för listvy i Filer</a></span> för beskrivningar av tillgängliga kolumner.</p>
 </div></div>
 </div></div>
 <div id="ways" class="sect"><div class="inner">
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sv#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

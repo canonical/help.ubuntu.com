@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="contacts.html" title="Kontakter">Kontakter</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="contacts.html.sv" title="Kontakter">Kontakter</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Starta Kontakter för första gången</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">När du kör <span class="app">Kontakter</span> för första gången så visas fönstret <span class="gui">Välj adressbok</span>.</p>
-<p class="p">Om du har <span class="link"><a href="accounts.html" title="Nätkonton">nätkonton</a></span> konfigurerade så listas de tillsammans med <span class="gui">Lokal adressbok</span>. Markera ett objekt från listan och klicka <span class="gui">Färdig</span>. Alla nya kontakter du skapar kommer att sparas till adressboken du väljer. Du kan också visa och redigera kontakter i andra adressböcker.</p>
+<p class="p">Om du har <span class="link"><a href="accounts.html.sv" title="Nätkonton">nätkonton</a></span> konfigurerade så listas de tillsammans med <span class="gui">Lokal adressbok</span>. Markera ett objekt från listan och klicka <span class="gui">Färdig</span>. Alla nya kontakter du skapar kommer att sparas till adressboken du väljer. Du kan också visa och redigera kontakter i andra adressböcker.</p>
 <p class="p">Om du inte har några nätkonton konfigurerade klicka på <span class="gui">Nätkonton</span> för att börja ställa in dem. Om du inte önskar ställa in nätkonton just nu klicka på <span class="gui">Lokal adressbok</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -58,7 +58,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="contacts.html" title="Kontakter">Kontakter</a><span class="desc"> — Att nå dina kontakter.</span>
+<a href="contacts.html.sv" title="Kontakter">Kontakter</a><span class="desc"> — Att nå dina kontakter.</span>
 </li></ul></div>
 </div></div></div>
 </div>

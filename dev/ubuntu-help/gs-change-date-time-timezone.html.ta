@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="பயன்படுத்தத் தொடங்குதல்">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.ta" title="பயன்படுத்தத் தொடங்குதல்">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="ஆன்லைன் கணக்குகளுக்கு இணைக்கவும்">முந்தைய</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="சுவர்ச்சித்திரத்தை மாற்றவும்">அடுத்து</a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.ta" title="ஆன்லைன் கணக்குகளுக்கு இணைக்கவும்">முந்தைய</a><a class="nextlinks-next" href="gs-change-wallpaper.html.ta" title="சுவர்ச்சித்திரத்தை மாற்றவும்">அடுத்து</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">தேதி, நேரம், நேரமண்டலம் ஆகியவற்றை மாற்றவும்</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html#yourname" title="நீங்களும் உங்கள் கணினியும்">system menu</a></span>
+<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html.ta#yourname" title="நீங்களும் உங்கள் கணினியும்">system menu</a></span>
     on the right side of the top bar.</p></li>
 <li class="steps"><p class="p">Click the settings button at the bottom left of the menu.</p></li>
 <li class="steps"><p class="p">Select the <span class="gui">Date &amp; Time</span> panel.</p></li>
@@ -72,7 +72,7 @@
 </ol></div></div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-connect-online-accounts.html" title="ஆன்லைன் கணக்குகளுக்கு இணைக்கவும்">முந்தைய</a><a class="nextlinks-next" href="gs-change-wallpaper.html" title="சுவர்ச்சித்திரத்தை மாற்றவும்">அடுத்து</a>
+<a class="nextlinks-prev" href="gs-connect-online-accounts.html.ta" title="ஆன்லைன் கணக்குகளுக்கு இணைக்கவும்">முந்தைய</a><a class="nextlinks-next" href="gs-change-wallpaper.html.ta" title="சுவர்ச்சித்திரத்தை மாற்றவும்">அடுத்து</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -80,17 +80,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="பயன்படுத்தத் தொடங்குதல்">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</a><span class="desc"> — GNOME க்குப் புதிதா? எப்படி தொடங்குவது என அறிந்துகொள்ளுங்கள்.</span>
+<a href="getting-started.html.ta" title="பயன்படுத்தத் தொடங்குதல்">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</a><span class="desc"> — GNOME க்குப் புதிதா? எப்படி தொடங்குவது என அறிந்துகொள்ளுங்கள்.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="தேதி &amp; நேரம்">தேதி &amp; நேரம்</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html" title="தேதி மற்றும் நேரத்தை மாற்றுதல்">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="உங்கள் நேர மண்டலத்தை மாற்றுதல்">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="நாள்காட்டி சந்திப்புத் திட்டங்கள்">calendar and appointments</a></span>…
+<a href="clock.html.ta" title="தேதி &amp; நேரம்">தேதி &amp; நேரம்</a><span class="desc"> — 
+      <span class="link"><a href="clock-set.html.ta" title="தேதி மற்றும் நேரத்தை மாற்றுதல்">Set date and time</a></span>,
+      <span class="link"><a href="clock-world.html.ta" title="Add a world clock">world clocks</a></span>,
+      <span class="link"><a href="clock-timezone.html.ta" title="உங்கள் நேர மண்டலத்தை மாற்றுதல்">timezone</a></span>,
+      <span class="link"><a href="clock-calendar.html.ta" title="நாள்காட்டி சந்திப்புத் திட்டங்கள்">calendar and appointments</a></span>…
     </span>
 </li></ul></div>
 </div></div>

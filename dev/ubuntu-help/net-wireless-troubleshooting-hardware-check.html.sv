@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-wireless.html" title="Trådlösa nätverk">Trådlösa nätverk</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlösa nätverk</a> » <a class="trail" href="net-wireless-troubleshooting.html.sv" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html.sv#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="net-wireless-troubleshooting.html.sv" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Felsökning av trådlösa nätverk">Föregående</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Felsökning av trådlösa nätverk">Nästa</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.sv" title="Felsökning av trådlösa nätverk">Föregående</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.sv" title="Felsökning av trådlösa nätverk">Nästa</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Felsökningsguiden för trådlösa anslutningar</span></h1>
@@ -70,7 +70,7 @@
        vendor: Intel Corporation</pre></div>
 </li>
 <li class="steps">
-<p class="p">Om en trådlös enhet är listad, fortsätt till <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Felsökning av trådlösa nätverk">steget enhetsdrivrutin</a></span>.</p>
+<p class="p">Om en trådlös enhet är listad, fortsätt till <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.sv" title="Felsökning av trådlösa nätverk">steget enhetsdrivrutin</a></span>.</p>
 <p class="p">Om en trådlös enhet <span class="em">inte</span> finns listad, så kommer nästa steg du ta att bero på vilken typ av enhet du använder. Läs det avsnitt nedan som är relevant för typen av trådlös adapter som din dator har (<span class="link"><a href="#pci" title="PCI (intern) trådlös adapter">internal PCI</a></span>, <span class="link"><a href="#usb" title="Trådlös USB-adapter">USB</a></span> eller <span class="link"><a href="#pcmcia" title="Kontrollera en PCMCIA-enhet">PCMCIA</a></span>).</p>
 </li>
 </ol></div></div></div>
@@ -85,7 +85,7 @@
 <p class="p">Titta genom listan av enheter som visas och leta efter någon som är markerad <span class="code">Network controller</span> eller <span class="code">Ethernet controller</span>. Flera enheter kan finnas markerade på detta sättet; den som motsvarar din trådlösa adapter kan innehålla ord som <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> eller <span class="code">802.11</span>. Här följer ett exempel på hur en post kan se ut:</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
-<li class="steps"><p class="p">Om du hittar din trådlösa adapter i listan, fortsätt till <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Felsökning av trådlösa nätverk">steget enhetsdrivrutin</a></span>. Om du inte hittar något relaterat till din trådlösa adapter, se <span class="link"><a href="#not-recognized" title="Trådlös adapter kändes inte igen">instruktionerna nedan</a></span>.</p></li>
+<li class="steps"><p class="p">Om du hittar din trådlösa adapter i listan, fortsätt till <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.sv" title="Felsökning av trådlösa nätverk">steget enhetsdrivrutin</a></span>. Om du inte hittar något relaterat till din trådlösa adapter, se <span class="link"><a href="#not-recognized" title="Trådlös adapter kändes inte igen">instruktionerna nedan</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -99,7 +99,7 @@
 <p class="p">Titta genom listan över enheter som visas och leta efter någon som ser ut som om den refererar till trådlösa eller nätverksenheter. Den som motsvarar din trådlösa adapter kan innehålla ord som <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> eller <span class="code">802.11</span>. Här följer ett exempel på hur en post kan se ut:</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
-<li class="steps"><p class="p">Om du hittar din trådlösa adapter i listan, fortsätt till <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Felsökning av trådlösa nätverk">steget enhetsdrivrutin</a></span>. Om du inte hittar något relaterat till din trådlösa adapter, se <span class="link"><a href="#not-recognized" title="Trådlös adapter kändes inte igen">instruktionerna nedan</a></span>.</p></li>
+<li class="steps"><p class="p">Om du hittar din trådlösa adapter i listan, fortsätt till <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.sv" title="Felsökning av trådlösa nätverk">steget enhetsdrivrutin</a></span>. Om du inte hittar något relaterat till din trådlösa adapter, se <span class="link"><a href="#not-recognized" title="Trådlös adapter kändes inte igen">instruktionerna nedan</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -116,7 +116,7 @@
 </li>
 <li class="steps"><p class="p">Sätt i din trådlösa adapter i PCMCIA-luckan och se vad som ändras i terminalfönstret. Ändringarna bör inkludera någon information om din trådlösa adapter. Leta genom dem och se om du kan identifiera den.</p></li>
 <li class="steps"><p class="p">För att stoppa kommandot från att köra i terminalen, tryck <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Efter att du har gjort det kan du stänga Terminalen om du vill.</p></li>
-<li class="steps"><p class="p">Om du hittade någon information om din trådlösa adapter, fortsätt till <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Felsökning av trådlösa nätverk">steget enhetsdrivrutin</a></span>. Om du inte hittade någonting relaterat till din trådlösa adapter, se <span class="link"><a href="#not-recognized" title="Trådlös adapter kändes inte igen">instruktionerna nedan</a></span>.</p></li>
+<li class="steps"><p class="p">Om du hittade någon information om din trådlösa adapter, fortsätt till <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.sv" title="Felsökning av trådlösa nätverk">steget enhetsdrivrutin</a></span>. Om du inte hittade någonting relaterat till din trådlösa adapter, se <span class="link"><a href="#not-recognized" title="Trådlös adapter kändes inte igen">instruktionerna nedan</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -128,14 +128,14 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Felsökning av trådlösa nätverk">Föregående</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Felsökning av trådlösa nätverk">Nästa</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.sv" title="Felsökning av trådlösa nätverk">Föregående</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.sv" title="Felsökning av trådlösa nätverk">Nästa</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a><span class="desc"> — Identifiera och fixa problem med trådlösa anslutningar.</span>
+<a href="net-wireless-troubleshooting.html.sv" title="Felsökning av trådlösa nätverk">Felsökning av trådlösa nätverk</a><span class="desc"> — Identifiera och fixa problem med trådlösa anslutningar.</span>
 </li></ul></div>
 </div></div></div>
 </div>

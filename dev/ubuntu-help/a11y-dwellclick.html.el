@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Γενική πρόσβαση">Γενική πρόσβαση</a> › <a class="trail" href="a11y.html#mobility" title="Κινητικά προβλήματα">Κινητικά προβλήματα</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.el" title="Γενική πρόσβαση">Γενική πρόσβαση</a> › <a class="trail" href="a11y.html.el#mobility" title="Κινητικά προβλήματα">Κινητικά προβλήματα</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="mouse.html" title="Ποντίκι">Ποντίκι</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="mouse.html.el" title="Ποντίκι">Ποντίκι</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="mouse.html" title="Ποντίκι">Ποντίκι</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="mouse.html.el" title="Ποντίκι">Ποντίκι</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <p class="p">Μπορείτε να κάνετε κλικ ή να σύρετε απλά με αιώρηση τον δείκτη του ποντικιού σας πάνω από ένα στοιχείο ελέγχου ή αντικείμενο στην οθόνη. Αυτό είναι χρήσιμο αν δυσκολεύεστε να μετακινήσετε το ποντίκι και θέλετε να κάνετε κλικ ταυτόχρονα. Αυτή η λειτουργία λέγεται <span class="gui">Πάτημα με αιώρηση</span> ή κρατημένο κλικ.</p>
 <p class="p">Όταν ενεργοποιηθεί το <span class="gui">Πάτημα με αιώρηση</span>, μπορείτε να μετακινήσετε τον δείκτη του ποντικιού σας πάνω από ένα στοιχείο ελέγχου, να αφήσετε το ποντίκι και έπειτα να περιμένετε για λίγο πριν γίνει το κλικ του κουμπιού για σας.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Γενική πρόσβαση</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Γενική πρόσβαση</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Γενική πρόσβαση</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Πατήστε <span class="gui">Βοηθός κλικ</span> στην ενότητα <span class="gui">Κατάδειξη &amp; κλικ</span>.</p></li>
 <li class="steps"><p class="p">Αλλάξτε το <span class="gui">Πάτημα με αιώρηση</span> σε <span class="gui">ΝΑΙ</span>.</p></li>
@@ -74,9 +74,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Κινητικά προβλήματα">Κινητικά προβλήματα</a></li>
+<li class="links "><a href="a11y.html.el#mobility" title="Κινητικά προβλήματα">Κινητικά προβλήματα</a></li>
 <li class="links ">
-<a href="mouse.html" title="Ποντίκι">Ποντίκι</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Χρησιμοποιήστε το αριστερό ποντίκι">Αριστερόχειρες</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Προσαρμογή ταχύτητας του ποντικιού και τις πινακίδας αφής">Ταχύτητα και ευαισθησία</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Κάντε κλικ, σύρετε ή κυλήστε με την πινακίδα αφής">Πάτημα πινακίδας αφής και κύλιση</a></span>…</span>
+<a href="mouse.html.el" title="Ποντίκι">Ποντίκι</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.el" title="Χρησιμοποιήστε το αριστερό ποντίκι">Αριστερόχειρες</a></span>, <span class="link"><a href="mouse-sensitivity.html.el" title="Προσαρμογή ταχύτητας του ποντικιού και τις πινακίδας αφής">Ταχύτητα και ευαισθησία</a></span>, <span class="link"><a href="mouse-touchpad-click.html.el" title="Κάντε κλικ, σύρετε ή κυλήστε με την πινακίδα αφής">Πάτημα πινακίδας αφής και κύλιση</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

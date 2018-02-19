@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="prefs-display.html" title="Displejs un ekrāns">Displejs un ekrāns</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="prefs-display.html.lv" title="Displejs un ekrāns">Displejs un ekrāns</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="hardware-problems-graphics.html" title="Ekrāna problēmas">Ekrāna problēmas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html.lv#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="hardware-problems-graphics.html.lv" title="Ekrāna problēmas">Ekrāna problēmas</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">Ja uz dažām minūtēm atstāsiet savu datoru, ekrāns automātiski tiks slēgts, un jums būs jāievada sava parole, lai atsāktu lietot datoru. Tas notiek drošības apsvērumu dēļ (lai neviens nesabojātu jūsu darbu, kad atstājat datoru bez uzraudzības), bet tas var sagādāt neērtības, ja slēgšana notiek par ātru.</p>
 <p class="p">Lai nogaidītu ilgāku laiku, pirms automātiski slēgt ekrānu:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Privātums</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Privātums</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Privātums</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Ekrāna bloķēšana</span>.</p></li>
 <li class="steps"><p class="p">Ja ir ieslēgta <span class="gui">Automātiskā ekrāna bloķēšana</span>, jūs varat mainīt vērtību izkrītošajā sarakstā <span class="gui">Bloķēt ekrānu, kad pagājušas</span>.</p></li>
@@ -70,10 +70,10 @@
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Displejs un ekrāns">Displejs un ekrāns</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Nomainīt darbvirsmas un bloķēšanas ekrāna fonus">Fons</a></span>, <span class="link"><a href="look-resolution.html" title="Nomainīt ekrāna izšķirtspēju vai rotāciju">izmērs un rotācija</a></span>, spilgtums…</span>
+<a href="prefs-display.html.lv" title="Displejs un ekrāns">Displejs un ekrāns</a><span class="desc"> — <span class="link"><a href="look-background.html.lv" title="Nomainīt darbvirsmas un bloķēšanas ekrāna fonus">Fons</a></span>, <span class="link"><a href="look-resolution.html.lv" title="Nomainīt ekrāna izšķirtspēju vai rotāciju">izmērs un rotācija</a></span>, spilgtums…</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Ekrāna problēmas">Ekrāna problēmas</a><span class="desc"> — Ekrāna un video problēmu novēršana.</span>
+<a href="hardware-problems-graphics.html.lv" title="Ekrāna problēmas">Ekrāna problēmas</a><span class="desc"> — Ekrāna un video problēmu novēršana.</span>
 </li>
 </ul></div>
 </div></div>
@@ -81,11 +81,11 @@
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Automātiski bloķēt ekrānu">Automātiski bloķēt ekrānu</a><span class="desc"> — Neļaut citām personām izmantot jūsu datoru, kad dodaties prom.</span>
+<a href="privacy-screen-lock.html.lv" title="Automātiski bloķēt ekrānu">Automātiski bloķēt ekrānu</a><span class="desc"> — Neļaut citām personām izmantot jūsu datoru, kad dodaties prom.</span>
 </li>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Bloķēt ekrānu">Bloķēt ekrānu</a></li>
+<li class="links "><a href="shell-exit.html.lv#lock-screen" title="Bloķēt ekrānu">Bloķēt ekrānu</a></li>
 <li class="links ">
-<a href="display-blank.html" title="Iestatīt ekrāna aptumšošanas laiku">Iestatīt ekrāna aptumšošanas laiku</a><span class="desc"> — Izmainiet ekrāna aptumšošanas laiku, lai ietaupītu jaudu.</span>
+<a href="display-blank.html.lv" title="Iestatīt ekrāna aptumšošanas laiku">Iestatīt ekrāna aptumšošanas laiku</a><span class="desc"> — Izmainiet ekrāna aptumšošanas laiku, lai ietaupītu jaudu.</span>
 </li>
 </ul></div>
 </div></div>

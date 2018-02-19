@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-chat.html" title="Klepet in družabna omrežja">Klepet in družabna omrežja</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-chat.html.sl" title="Klepet in družabna omrežja">Klepet in družabna omrežja</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Video klici</span></h1></div>
@@ -64,10 +64,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html" title="Klepet in družabna omrežja">Klepet in družabna omrežja</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Hipno sporočanje na Ubuntuju">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Video klici">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Kako lahko na Ubuntuju uporabljam Skype?">install skype</a></span>
+<a href="net-chat.html.sl" title="Klepet in družabna omrežja">Klepet in družabna omrežja</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.sl" title="Hipno sporočanje na Ubuntuju">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.sl" title="Video klici">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.sl" title="Kako lahko na Ubuntuju uporabljam Skype?">install skype</a></span>
     </span>
 </li></ul></div>
 </div></div>
@@ -75,10 +75,10 @@
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat-empathy.html" title="Hipno sporočanje na Ubuntuju">Hipno sporočanje na Ubuntuju</a><span class="desc"> — Z <span class="app">Empathy</span> lahko klepetate, vzpostavljate zvočne in video klice s prijatelji in znanci na številnih omrežjih.</span>
+<a href="net-chat-empathy.html.sl" title="Hipno sporočanje na Ubuntuju">Hipno sporočanje na Ubuntuju</a><span class="desc"> — Z <span class="app">Empathy</span> lahko klepetate, vzpostavljate zvočne in video klice s prijatelji in znanci na številnih omrežjih.</span>
 </li>
 <li class="links ">
-<a href="net-chat-skype.html" title="Kako lahko na Ubuntuju uporabljam Skype?">Kako lahko na Ubuntuju uporabljam Skype?</a><span class="desc"> — <span class="app">Skype</span> je lastniški program, zato ga je treba na Ubuntuju ročno namestiti.</span>
+<a href="net-chat-skype.html.sl" title="Kako lahko na Ubuntuju uporabljam Skype?">Kako lahko na Ubuntuju uporabljam Skype?</a><span class="desc"> — <span class="app">Skype</span> je lastniški program, zato ga je treba na Ubuntuju ročno namestiti.</span>
 </li>
 </ul></div>
 </div></div>

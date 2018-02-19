@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html#apps" title="Program och fönster">Program och fönster</a> » <a class="trail" href="shell-windows.html" title="Fönster och arbetsytor">Fönster och arbetsytor</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Arbeta med fönster">Fönster</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html.sv" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html.sv#apps" title="Program och fönster">Program och fönster</a> » <a class="trail" href="shell-windows.html.sv" title="Fönster och arbetsytor">Fönster och arbetsytor</a> › <a class="trail" href="shell-windows.html.sv#working-with-windows" title="Arbeta med fönster">Fönster</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Flytta och storleksändra fönster</span></h1></div>
@@ -51,17 +51,17 @@
 <div class="contents">
 <p class="p">Du kan flytta och ändra storlek på fönster för du ska kunna arbeta effektivare. Förutom möjligheten att dra som du förväntar dig har GNOME även genvägar och modifierare som hjälper dig att ordna fönster snabbt.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Flytta ett fönster genom att dra i namnlisten eller håll ner <span class="key"><a href="keyboard-key-super.html" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span> och dra var som helst i fönstret. Håll ner <span class="key"><kbd>Skift</kbd></span> medan du drar för att fästa fönstret mot kanterna på skärmen eller andra fönster.</p></li>
+<li class="list"><p class="p">Flytta ett fönster genom att dra i namnlisten eller håll ner <span class="key"><a href="keyboard-key-super.html.sv" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span> och dra var som helst i fönstret. Håll ner <span class="key"><kbd>Skift</kbd></span> medan du drar för att fästa fönstret mot kanterna på skärmen eller andra fönster.</p></li>
 <li class="list"><p class="p">Ändra storlek på ett fönster genom att dra i kanterna eller hörnen på fönstret. Håll ner <span class="key"><kbd>Skift</kbd></span> medan du ändrar storlek för att fästa fönstret mot kanterna av skärmen eller andra fönster.</p></li>
 <li class="list"><p class="p">Flytta eller ändra storlek på ett fönster enbart via tangentbordet. Tryck <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span> för att flytta ett fönster eller <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span> för att ändra storlek. Använd piltangenterna för att flytta eller ändra storlek och tryck sedan <span class="key"><kbd>Retur</kbd></span> för att avsluta, eller tryck <span class="key"><kbd>Esc</kbd></span> för att återgå till ursprunglig position och storlek.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Maximera och avmaximera ett fönster">Maximera ett fönster</a></span> genom att dra det till toppen av skärmen. Dra ett fönster till en sedan av skärmen för att maximera det längs den sidan, vilket låter dig att <span class="link"><a href="shell-windows-tiled.html" title="Placera fönster sida-vid-sida">lägga fönster sida-vid-sida</a></span>.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html.sv" title="Maximera och avmaximera ett fönster">Maximera ett fönster</a></span> genom att dra det till toppen av skärmen. Dra ett fönster till en sedan av skärmen för att maximera det längs den sidan, vilket låter dig att <span class="link"><a href="shell-windows-tiled.html.sv" title="Placera fönster sida-vid-sida">lägga fönster sida-vid-sida</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Arbeta med fönster">Arbeta med fönster</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.sv#working-with-windows" title="Arbeta med fönster">Arbeta med fönster</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

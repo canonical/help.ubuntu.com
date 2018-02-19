@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Běžné problémy">Problémy</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovými sítěmi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html.cs#problems" title="Běžné problémy">Problémy</a> » <a class="trail" href="net-wireless-troubleshooting.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovými sítěmi</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wireless.html" title="Bezdrátové sítě">Bezdrátové sítě</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovými sítěmi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové sítě</a> » <a class="trail" href="net-wireless-troubleshooting.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovými sítěmi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Řešení problémů s bezdrátovými sítěmi">Předchozí</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Řešení problémů s bezdrátovými sítěmi">Následující</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Předchozí</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Následující</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Řešení problémů s bezdrátovými sítěmi</span></h1>
@@ -64,7 +64,7 @@
 <li class="steps"><p class="p">Ujistěte se, že váš počítač není připojený k <span class="em">drátové</span> síti.</p></li>
 <li class="steps"><p class="p">V případě, že máte externí bezdrátový adaptér (například do USB nebo do slotu PCMCIA), ujistěte se, že je řádně zasunutý do správné zdířky ve vašem počítači.</p></li>
 <li class="steps"><p class="p">V případě, že je bezdrátová karta součástí <span class="em">uvnitř</span> počítače, ujistěte se, je její vypínač je zapnutý (pokud nějaký má). Notebooky často nemívají samostatný vypínač, ale používá se zmáčknutí kombinace nějakých kláves.</p></li>
-<li class="steps"><p class="p">Klikněte do systémové stavové oblasti na horní liště a vyberte <span class="gui">Wi-Fi</span> a následně <span class="gui">Nastavení Wi-Fi</span>. Ujistěte se, že <span class="gui">Wi-Fi</span> je <span class="gui">Zapnuto</span>. Rovněž byste měli zkontrolovat, že <span class="link"><a href="net-wireless-airplane.html" title="Vypnutí bezdrátových zařízení (režim letadlo)">režim „letadlo“</a></span> zapnutý <span class="em">není</span>.</p></li>
+<li class="steps"><p class="p">Klikněte do systémové stavové oblasti na horní liště a vyberte <span class="gui">Wi-Fi</span> a následně <span class="gui">Nastavení Wi-Fi</span>. Ujistěte se, že <span class="gui">Wi-Fi</span> je <span class="gui">Zapnuto</span>. Rovněž byste měli zkontrolovat, že <span class="link"><a href="net-wireless-airplane.html.cs" title="Vypnutí bezdrátových zařízení (režim letadlo)">režim „letadlo“</a></span> zapnutý <span class="em">není</span>.</p></li>
 <li class="steps">
 <p class="p">Otevřete Terminál, napište <span class="cmd">nmcli device</span> a zmáčkněte <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Tím se zobrazí informace o síťovém rozhraní a stavu připojení. Projděte si tyto informace a dívejte se po části vztahující se k bezdrátovému adaptéru. Pokud je stav <span class="code">připojeno</span>, znamená to, že funguje a je připojen k bezdrátovému přístupovému bodu/směrovači.</p>
@@ -74,14 +74,14 @@
 <p class="p">Jestliže informace od <span class="cmd">nmcli device</span> nenaznačují, že byste byli připojeni k síti, klikněte na <span class="gui">Následující</span> a pokračujte následující částí průvodce řešením problému.</p>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Řešení problémů s bezdrátovými sítěmi">Předchozí</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Řešení problémů s bezdrátovými sítěmi">Následující</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Předchozí</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Následující</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovými sítěmi</a><span class="desc"> — Určení a oprava problémů s bezdrátovými připojeními.</span>
+<a href="net-wireless-troubleshooting.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovými sítěmi</a><span class="desc"> — Určení a oprava problémů s bezdrátovými připojeními.</span>
 </li></ul></div>
 </div></div></div>
 </div>

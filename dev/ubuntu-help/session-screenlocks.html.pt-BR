@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="prefs-display.html" title="Monitor &amp; tela">Monitor &amp; tela</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="prefs-display.html.pt-BR" title="Monitor &amp; tela">Monitor &amp; tela</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html" title="Problemas com tela">Problemas com tela</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.pt-BR#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html.pt-BR" title="Problemas com tela">Problemas com tela</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">Se você se ausenta do computador por alguns minutos, a tela será bloqueada automaticamente e você terá que informar sua senha para começar a usá-lo novamente. Isso é feito por razões de segurança (para que ninguém possa mexer em seu trabalho se você abandonar seu computador), mas pode ser irritante se ela fica bloqueada muito cedo.</p>
 <p class="p">Para esperar um período um pouco mais longo antes da tela ficar bloqueada automaticamente:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Privacidade</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Privacidade</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Privacidade</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Pressione <span class="gui">Tela de bloqueio</span>.</p></li>
 <li class="steps"><p class="p">Se <span class="gui">Bloqueio de tela automático</span> estiver ligado, você pode alterar o valor na lista suspensa <span class="gui">Bloquear a tela após apagada por</span>.</p></li>
@@ -70,10 +70,10 @@
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Monitor &amp; tela">Monitor &amp; tela</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Alterando o plano de fundo da área de trabalho e tela de bloqueio">Plano de fundo</a></span>, <span class="link"><a href="look-resolution.html" title="Alterando a resolução ou rotação da tela">tamanho e rotação</a></span>, brilho…</span>
+<a href="prefs-display.html.pt-BR" title="Monitor &amp; tela">Monitor &amp; tela</a><span class="desc"> — <span class="link"><a href="look-background.html.pt-BR" title="Alterando o plano de fundo da área de trabalho e tela de bloqueio">Plano de fundo</a></span>, <span class="link"><a href="look-resolution.html.pt-BR" title="Alterando a resolução ou rotação da tela">tamanho e rotação</a></span>, brilho…</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Problemas com tela">Problemas com tela</a><span class="desc"> — Solucione problemas de vídeo e tela.</span>
+<a href="hardware-problems-graphics.html.pt-BR" title="Problemas com tela">Problemas com tela</a><span class="desc"> — Solucione problemas de vídeo e tela.</span>
 </li>
 </ul></div>
 </div></div>
@@ -81,11 +81,11 @@
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Bloqueando automaticamente sua tela">Bloqueando automaticamente sua tela</a><span class="desc"> — Evite que outras pessoas usem seu computador quanto você estiver distante dele.</span>
+<a href="privacy-screen-lock.html.pt-BR" title="Bloqueando automaticamente sua tela">Bloqueando automaticamente sua tela</a><span class="desc"> — Evite que outras pessoas usem seu computador quanto você estiver distante dele.</span>
 </li>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Bloquear a tela">Bloquear a tela</a></li>
+<li class="links "><a href="shell-exit.html.pt-BR#lock-screen" title="Bloquear a tela">Bloquear a tela</a></li>
 <li class="links ">
-<a href="display-blank.html" title="Definindo o tempo de apagamento da tela">Definindo o tempo de apagamento da tela</a><span class="desc"> — Altere o tempo até apagar a tela para economizar energia.</span>
+<a href="display-blank.html.pt-BR" title="Definindo o tempo de apagamento da tela">Definindo o tempo de apagamento da tela</a><span class="desc"> — Altere o tempo até apagar a tela para economizar energia.</span>
 </li>
 </ul></div>
 </div></div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="prefs-sharing.html" title="Подешавања дељења">Подешавања дељења</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="prefs-sharing.html.sr" title="Подешавања дељења">Подешавања дељења</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="sharing.html" title="Дељење">Дељење</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » <a class="trail" href="sharing.html.sr" title="Дељење">Дељење</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,11 +56,11 @@
 <p class="p">Можете да допустите другима да прегледају и управљају вашом радном површином са другог рачунара са програмом за преглед радне површи. Подесите <span class="gui">Дељење екрана</span> да дозволите другима да приступе вашој радној површи и да подесе поставке безбедности.</p>
 <div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">Морате имати инсталран пакет <span class="app">Вино</span> да би <span class="gui">Дељење екрана</span> било видљиво.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Дељење</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Дељење</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Дељење</span> да отворите панел.</p></li>
 <li class="steps">
 <p class="p">Ако је <span class="gui">Дељење</span> <span class="gui">ИСКЉ.</span>, пребаците га на <span class="gui">УКЉ.</span>.</p>
-<div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">Ако вам текст испод <span class="gui">назива рачунара</span> допушта да га уређујете, можете да <span class="link"><a href="sharing-displayname.html" title="Подесите назив приказа за ваш рачунар">измените</a></span> назив под којим се ваш рачунар приказује на мрежи.</p></div></div></div></div>
+<div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">Ако вам текст испод <span class="gui">назива рачунара</span> допушта да га уређујете, можете да <span class="link"><a href="sharing-displayname.html.sr" title="Подесите назив приказа за ваш рачунар">измените</a></span> назив под којим се ваш рачунар приказује на мрежи.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Изаберите <span class="gui">Дељење екрана</span>.</p></li>
 <li class="steps"><p class="p">Да пустите друге да прегледају вашу радну површ, пребаците <span class="gui">Дељење екрана</span> на <span class="gui">УКЉ.</span>. Ово значи да ће неко други бити у могућности да покуша да се повеже на ваш рачунар и да прегледа шта се налази на вашем екрану.</p></li>
@@ -110,10 +110,10 @@
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Дељење">Дељење</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Делите радну површ">Дељење радне површи</a></span>, <span class="link"><a href="files-share.html" title="Делите датотеке е-поштом">Дељење датотека е-поштом</a></span>, <span class="link"><a href="sharing-media.html" title="Делите вашу музику, фотографије и видео записе">Дељење медија</a></span>…</span>
+<a href="sharing.html.sr" title="Дељење">Дељење</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.sr" title="Делите радну површ">Дељење радне површи</a></span>, <span class="link"><a href="files-share.html.sr" title="Делите датотеке е-поштом">Дељење датотека е-поштом</a></span>, <span class="link"><a href="sharing-media.html.sr" title="Делите вашу музику, фотографије и видео записе">Дељење медија</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html" title="Подешавања дељења">Подешавања дељења</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Управљајте дељењем преко блутута">Дељење блутута</a></span>, <span class="link"><a href="sharing-personal.html" title="Делите ваше личне датотеке">Дељење личних датотека</a></span>, <span class="link"><a href="sharing-desktop.html" title="Делите радну површ">Дељење екрана</a></span>, <span class="link"><a href="sharing-media.html" title="Делите вашу музику, фотографије и видео записе">Дељење медија</a></span>…</span>
+<a href="prefs-sharing.html.sr" title="Подешавања дељења">Подешавања дељења</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.sr" title="Управљајте дељењем преко блутута">Дељење блутута</a></span>, <span class="link"><a href="sharing-personal.html.sr" title="Делите ваше личне датотеке">Дељење личних датотека</a></span>, <span class="link"><a href="sharing-desktop.html.sr" title="Делите радну површ">Дељење екрана</a></span>, <span class="link"><a href="sharing-media.html.sr" title="Делите вашу музику, фотографије и видео записе">Дељење медија</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Reti WiFi">Reti WiFi</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Risoluzione dei problemi relativi alle reti senza fili">Risoluzione dei problemi relativi alle reti senza fili</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.it" title="Reti WiFi">Reti WiFi</a> » <a class="trail" href="net-wireless-troubleshooting.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Risoluzione dei problemi relativi alle reti senza fili</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemi comuni">Problemi</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Risoluzione dei problemi relativi alle reti senza fili">Risoluzione dei problemi relativi alle reti senza fili</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> › <a class="trail" href="hardware.html.it#problems" title="Problemi comuni">Problemi</a> » <a class="trail" href="net-wireless-troubleshooting.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Risoluzione dei problemi relativi alle reti senza fili</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Risoluzione dei problemi relativi alle reti senza fili">Indietro</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Risoluzione dei problemi relativi alle reti senza fili">Avanti</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Indietro</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Avanti</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Risoluzione dei problemi relativi alla connessione WiFi</span></h1>
@@ -72,7 +72,7 @@
        vendor: Intel Corporation</pre></div>
 </li>
 <li class="steps">
-<p class="p">Se nell'elenco è presente un dispositivo WiFi, continuare consultando il <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Risoluzione dei problemi relativi alle reti senza fili">passaggio sull'installazione dei driver</a></span>.</p>
+<p class="p">Se nell'elenco è presente un dispositivo WiFi, continuare consultando il <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">passaggio sull'installazione dei driver</a></span>.</p>
 <p class="p">Se nell'elenco <span class="em">non</span> è presente un dispositivo WiFi, i passi successivi da intraprendere dipendono dal tipo di dispositivo utilizzato. Consultare la pertinente sezione in relazione al tipo di adattatore WiFi usato: <span class="link"><a href="#pci" title="Adattatore senza fili PCI (interno)">PCI interno</a></span>, <span class="link"><a href="#usb" title="Adattatore senza fili USB">USB</a></span> o <span class="link"><a href="#pcmcia" title="Controllare un dispositivo PCMCIA">PCMCIA</a></span>.</p>
 </li>
 </ol></div></div></div>
@@ -88,7 +88,7 @@
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Risoluzione dei problemi relativi alle reti senza fili">Device Drivers
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Device Drivers
       step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
       <span class="link"><a href="#not-recognized" title="L'adattatore WiFi non è stato riconosciuto">the instructions below</a></span>.</p></li>
@@ -106,7 +106,7 @@
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Risoluzione dei problemi relativi alle reti senza fili">Device Drivers
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Device Drivers
       step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
       <span class="link"><a href="#not-recognized" title="L'adattatore WiFi non è stato riconosciuto">the instructions below</a></span>.</p></li>
@@ -129,7 +129,7 @@
 <li class="steps"><p class="p">Inserire l'adattatore WiFi nel connettore PCMCIA e controllare cosa cambia nella finestra del terminale. Le modifiche dovrebbero comprendere alcune informazioni relative all'adattatore WiFi: esaminarle per cercare di identificarlo.</p></li>
 <li class="steps"><p class="p">Per interrompere l'esecuzione del comando nel terminale, premere <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>; dopo questa operazione si può chiudere il terminale.</p></li>
 <li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
-      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Risoluzione dei problemi relativi alle reti senza fili">Device
+      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Device
       Drivers step</a></span>. If you didn’t find anything related to your wireless
       adapter, see <span class="link"><a href="#not-recognized" title="L'adattatore WiFi non è stato riconosciuto">the instructions
       below</a></span>.</p></li>
@@ -149,14 +149,14 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Risoluzione dei problemi relativi alle reti senza fili">Indietro</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Risoluzione dei problemi relativi alle reti senza fili">Avanti</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Indietro</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Avanti</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Risoluzione dei problemi relativi alle reti senza fili">Risoluzione dei problemi relativi alle reti senza fili</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Risoluzione dei problemi relativi alle reti senza fili</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li></ul></div>
 </div></div></div>
 </div>

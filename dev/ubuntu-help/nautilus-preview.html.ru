@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="Параметры менеджера файлов">Параметры менеджера файлов</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ru" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html.ru#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.ru" title="Параметры менеджера файлов">Параметры менеджера файлов</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Параметры вкладки <span class="gui">Образцы</span> менеджера файлов</span></h1></div>
@@ -53,11 +53,11 @@
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Files</span></dt>
 <dd class="terms">
-<p class="p">По умолчанию, предварительный просмотр создаётся <span class="gui">Только для локальных файлов</span>, то есть для файлов на вашем компьютере или на подключённых внешних устройствах. Для этого параметра можно выставить значение <span class="gui">Всегда</span> или <span class="gui">Никогда</span>. Менеджер файлов может <span class="link"><a href="nautilus-connect.html" title="Обзор файлов на сервере или сетевом ресурсе">просматривать файлы на других компьютерах</a></span> в локальной сети или в интернете. Если вам часто приходится просматривать файлы в высокоскоростной локальной сети, то значение <span class="gui">Всегда</span> может оказаться удобным.</p>
+<p class="p">По умолчанию, предварительный просмотр создаётся <span class="gui">Только для локальных файлов</span>, то есть для файлов на вашем компьютере или на подключённых внешних устройствах. Для этого параметра можно выставить значение <span class="gui">Всегда</span> или <span class="gui">Никогда</span>. Менеджер файлов может <span class="link"><a href="nautilus-connect.html.ru" title="Обзор файлов на сервере или сетевом ресурсе">просматривать файлы на других компьютерах</a></span> в локальной сети или в интернете. Если вам часто приходится просматривать файлы в высокоскоростной локальной сети, то значение <span class="gui">Всегда</span> может оказаться удобным.</p>
 <p class="p">Кроме того, для ограничения размера предварительного просмотра файлов можно использовать настройку <span class="gui">Только для файлов меньше, чем:</span>.</p>
 </dd>
 <dt class="terms"><span class="gui">Folders</span></dt>
-<dd class="terms"><p class="p">Если включен показ размера файлов в <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">столбцах списка</a></span> или <span class="link"><a href="nautilus-display.html#icon-captions" title="Подписи к значкам">подписях к значкам</a></span>, для папок отображается количество содержащихся в них файлов и вложенных папок. Подсчёт объектов в папках может быть медленным, особенно для очень больших папок или папок в сети. Можно отключить эту возможность или включить её только для папок, расположенных на компьютере и локальных съёмных носителях.</p></dd>
+<dd class="terms"><p class="p">Если включен показ размера файлов в <span class="link"><a href="nautilus-list.html.ru" title="Files list columns preferences">столбцах списка</a></span> или <span class="link"><a href="nautilus-display.html.ru#icon-captions" title="Подписи к значкам">подписях к значкам</a></span>, для папок отображается количество содержащихся в них файлов и вложенных папок. Подсчёт объектов в папках может быть медленным, особенно для очень больших папок или папок в сети. Можно отключить эту возможность или включить её только для папок, расположенных на компьютере и локальных съёмных носителях.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Параметры менеджера файлов">Параметры менеджера файлов</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.ru" title="Параметры менеджера файлов">Параметры менеджера файлов</a><span class="desc"> — View and set preferences for the file browser.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-preview.html" title="Предварительный просмотр файлов и папок">Предварительный просмотр файлов и папок</a><span class="desc"> — Быстрое включение и отключение предварительного просмотра документов, изображений, видео и других типов файлов.</span>
+<a href="files-preview.html.ru" title="Предварительный просмотр файлов и папок">Предварительный просмотр файлов и папок</a><span class="desc"> — Быстрое включение и отключение предварительного просмотра документов, изображений, видео и других типов файлов.</span>
 </li></ul></div>
 </div></div>
 </div>

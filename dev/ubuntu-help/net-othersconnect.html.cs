@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-problem.html" title="Problémy se sítí">Problémy se sítí</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-problem.html.cs" title="Problémy se sítí">Problémy se sítí</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ostatní uživatelé se nemohou připojit k Internetu</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Když nastavíte síťové připojení, měli by všichni uživatelé počítače normálně mít možnost jej používat. Pokud informace o připojení nejsou sdílené, měli byste zkontrolovat nastavení připojení.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Síť</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Síť</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Síť</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">V seznamu nalevo vyberte <span class="gui">Wi-Fi</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na tlačítko <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="nastavení"></span></span> otevřete podrobnosti o připojení.</p></li>
@@ -68,13 +68,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Problémy se sítí">Problémy se sítí</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovým připojením</a></span>, <span class="link"><a href="net-wireless-find.html" title="Nevidím svoji bezdrátovou síť v seznamu">vyhledání vaší sítě Wi-Fi</a></span>…</span>
+<a href="net-problem.html.cs" title="Problémy se sítí">Problémy se sítí</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovým připojením</a></span>, <span class="link"><a href="net-wireless-find.html.cs" title="Nevidím svoji bezdrátovou síť v seznamu">vyhledání vaší sítě Wi-Fi</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-othersedit.html" title="Ostatní uživatelé nemohou upravovat síťové připojení">Ostatní uživatelé nemohou upravovat síťové připojení</a><span class="desc"> — Musíte zrušit zaškrtnutí volby <span class="gui">Zpřístupnit ostatním uživatelům</span> v nastavení síťového připojení.</span>
+<a href="net-othersedit.html.cs" title="Ostatní uživatelé nemohou upravovat síťové připojení">Ostatní uživatelé nemohou upravovat síťové připojení</a><span class="desc"> — Musíte zrušit zaškrtnutí volby <span class="gui">Zpřístupnit ostatním uživatelům</span> v nastavení síťového připojení.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Беспроводные сети">Беспроводные сети</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Устранение неполадок с беспроводной сетью</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные сети</a> » <a class="trail" href="net-wireless-troubleshooting.html.ru" title="Устранение неполадок с беспроводной сетью">Устранение неполадок с беспроводной сетью</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html#problems" title="Типичные проблемы">Неполадки</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Устранение неполадок с беспроводной сетью</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> › <a class="trail" href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки</a> » <a class="trail" href="net-wireless-troubleshooting.html.ru" title="Устранение неполадок с беспроводной сетью">Устранение неполадок с беспроводной сетью</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Устранение неполадок с беспроводной сетью">Назад</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Устранение неполадок с беспроводной сетью">Вперёд</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.ru" title="Устранение неполадок с беспроводной сетью">Назад</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.ru" title="Устранение неполадок с беспроводной сетью">Вперёд</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Устранение неполадок с беспроводными устройствами</span></h1>
@@ -70,7 +70,7 @@
        vendor: Intel Corporation</pre></div>
 </li>
 <li class="steps">
-<p class="p">Если беспроводное устройство присутствует в списке, переходите к шагу <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Устранение неполадок с беспроводной сетью">Драйверы устройства</a></span>.</p>
+<p class="p">Если беспроводное устройство присутствует в списке, переходите к шагу <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.ru" title="Устранение неполадок с беспроводной сетью">Драйверы устройства</a></span>.</p>
 <p class="p">Если беспроводного устройства <span class="em">нет</span> в списке, следующие шаги будут зависеть от типа используемого вами устройства. Обратитесь к расположенному ниже разделу, который соответствует вашему типу беспроводного адаптера (<span class="link"><a href="#pci" title="Беспроводные PCI адаптеры (внутренние)">внутренний PCI</a></span>, <span class="link"><a href="#usb" title="Беспроводные USB адаптеры">USB</a></span> или <span class="link"><a href="#pcmcia" title="Проверка устройства PCMCIA">PCMCIA</a></span>).</p>
 </li>
 </ol></div></div></div>
@@ -86,7 +86,7 @@
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Устранение неполадок с беспроводной сетью">Device Drivers
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.ru" title="Устранение неполадок с беспроводной сетью">Device Drivers
       step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
       <span class="link"><a href="#not-recognized" title="Беспроводной адаптер не распознан">the instructions below</a></span>.</p></li>
@@ -104,7 +104,7 @@
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Устранение неполадок с беспроводной сетью">Device Drivers
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.ru" title="Устранение неполадок с беспроводной сетью">Device Drivers
       step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
       <span class="link"><a href="#not-recognized" title="Беспроводной адаптер не распознан">the instructions below</a></span>.</p></li>
@@ -127,7 +127,7 @@
 <li class="steps"><p class="p">Вставьте беспроводной адаптер в гнездо PCMCIA и посмотрите, что изменилось в окне терминала. Изменения должны включать в себя некоторые сведения о вашем беспроводном адаптере. Посмотрите, сможете ли вы его идентифицировать.</p></li>
 <li class="steps"><p class="p">Чтобы остановить команду, запущенную из терминала, нажмите <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. После этого можно закрыть терминал.</p></li>
 <li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
-      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html" title="Устранение неполадок с беспроводной сетью">Device
+      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.ru" title="Устранение неполадок с беспроводной сетью">Device
       Drivers step</a></span>. If you didn’t find anything related to your wireless
       adapter, see <span class="link"><a href="#not-recognized" title="Беспроводной адаптер не распознан">the instructions
       below</a></span>.</p></li>
@@ -147,14 +147,14 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html" title="Устранение неполадок с беспроводной сетью">Назад</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html" title="Устранение неполадок с беспроводной сетью">Вперёд</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.ru" title="Устранение неполадок с беспроводной сетью">Назад</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.ru" title="Устранение неполадок с беспроводной сетью">Вперёд</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Устранение неполадок с беспроводной сетью">Устранение неполадок с беспроводной сетью</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.ru" title="Устранение неполадок с беспроводной сетью">Устранение неполадок с беспроводной сетью</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="keyboard.html" title="键盘">键盘</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="keyboard.html.zh-CN" title="键盘">键盘</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="keyboard.html" title="键盘">键盘</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="keyboard.html.zh-CN" title="键盘">键盘</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,8 +55,8 @@
 <div class="contents">
 <p class="p">使用<span class="key"><kbd>Num Lock</kbd></span> 按钮，您可以手动开启或开闭您键盘上的数字键盘。您也可以通过 BIOS 设置来开机时启动数字键盘。不然，还有一种方法可以设置：</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html" title="Install additional applications">安装</a></span>  <span class="em">numlockx</span> 包。</p></li>
-<li class="steps"><p class="p">打开<span class="app"><span class="link"><a href="startup-applications.html" title="启动应用程序">启动应用程序</a></span></span>，使用命令<span class="cmd">numlockx on</span>添加数字键盘为启动应用程序。</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html.zh-CN" title="Install additional applications">安装</a></span>  <span class="em">numlockx</span> 包。</p></li>
+<li class="steps"><p class="p">打开<span class="app"><span class="link"><a href="startup-applications.html.zh-CN" title="启动应用程序">启动应用程序</a></span></span>，使用命令<span class="cmd">numlockx on</span>添加数字键盘为启动应用程序。</p></li>
 </ol></div></div></div>
 <p class="p">如果希望在登录界面也打开数字键盘，您可以创建一个特殊的配置文件。按<span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>打开终端窗口，执行此命令（长度较长，甚至会在屏幕上自动换行 - 复制粘贴即可）：</p>
 <p class="p"><span class="cmd">sudo sh -c 'printf "[Seat:*]\ngreeter-setup-script=numlockx on\n" &gt;/etc/lightdm/lightdm.conf.d/50-numlock.conf'</span></p>
@@ -66,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html" title="键盘">键盘</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">键盘布局</a></span>、<span class="link"><a href="keyboard-cursor-blink.html" title="让键盘光标闪烁">光标闪烁</a></span>、<span class="link"><a href="a11y.html#mobility" title="运动障碍">键盘辅助功能</a></span>…</span>
+<a href="keyboard.html.zh-CN" title="键盘">键盘</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.zh-CN" title="Use alternative keyboard layouts">键盘布局</a></span>、<span class="link"><a href="keyboard-cursor-blink.html.zh-CN" title="让键盘光标闪烁">光标闪烁</a></span>、<span class="link"><a href="a11y.html.zh-CN#mobility" title="运动障碍">键盘辅助功能</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

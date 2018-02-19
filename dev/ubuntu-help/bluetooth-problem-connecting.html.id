@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="bluetooth.html#problems" title="Masalah">Masalah-masalah Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html.id#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="bluetooth.html.id#problems" title="Masalah">Masalah-masalah Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Saya tak bisa menyambung ke perangkat Bluetooth saya</span></h1></div>
@@ -54,13 +54,11 @@
 <dt class="terms">Koneksi diblokir atau tak dipercaya</dt>
 <dd class="terms"><p class="p">Beberapa perangkat Bluetooth secara baku memblokir koneksi, atau memerlukan perubahan pengaturan agar mengijinkan penyambungan. Pastikan bahwa perangkat Anda disiapkan untuk mengijinkan koneks.</p></dd>
 <dt class="terms">Perangkat keras Bluetooth tak dikenal</dt>
-<dd class="terms"><p class="p">Adaptor atau dongle Bluetooth Anda mungkin belum dikenali oleh komputer. Ini bisa jadi karena <span class="link"><a href="hardware-driver.html" title="Apa itu penggerak?">driver</a></span> untuk adaptor tidak diinstal. Beberapa adaptor Bluetooth tidak didukung pada Linux, sehingga Anda mungkin tidak bisa mendapatkan driver yang tepat untuk mereka. Dalam hal ini, Anda mungkin harus memakai adaptor Bluetooth yang lain.</p></dd>
+<dd class="terms"><p class="p">Adaptor atau dongle Bluetooth Anda mungkin belum dikenali oleh komputer. Ini bisa jadi karena <span class="link"><a href="hardware-driver.html.id" title="Apa itu penggerak?">driver</a></span> untuk adaptor tidak diinstal. Beberapa adaptor Bluetooth tidak didukung pada Linux, sehingga Anda mungkin tidak bisa mendapatkan driver yang tepat untuk mereka. Dalam hal ini, Anda mungkin harus memakai adaptor Bluetooth yang lain.</p></dd>
 <dt class="terms">Adaptor Bluetooth tidak dinyalakan</dt>
-<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Click the
-          Bluetooth icon in the <span class="gui">menu bar</span> and check that it’s not
-          <span class="link"><a href="bluetooth-turn-on-off.html" title="Nyalakan atau matikan Bluetooth">disabled</a></span>.</p></dd>
+<dd class="terms"><p class="p">Pastikan bahwa adaptor Bluetooth Anda dinyalakan. Buka panel Bluetooth dan periksa bahwa itu tidak <span class="link"><a href="bluetooth-turn-on-off.html.id" title="Nyalakan atau matikan Bluetooth">dinonaktifkan</a></span>.</p></dd>
 <dt class="terms">Koneksi perangkat Bluetooth dimatikan</dt>
-<dd class="terms"><p class="p">Periksalah bahwa Bluetooth dinyalakan pada perangkat yang Anda coba hubungi, dan itu <span class="link"><a href="bluetooth-visibility.html" title="Apa itu kenampakan Bluetooth?">dapat ditemukan atau tampak</a></span>. Sebagai contoh, bila Anda mencoba menyambung ke suatu telepon, pastikan bahwa itu tidak dalam mode pesawat terbang.</p></dd>
+<dd class="terms"><p class="p">Periksalah bahwa Bluetooth dinyalakan pada perangkat yang Anda coba hubungi, dan itu <span class="link"><a href="bluetooth-visibility.html.id" title="Apa itu kenampakan Bluetooth?">dapat ditemukan atau tampak</a></span>. Sebagai contoh, bila Anda mencoba menyambung ke suatu telepon, pastikan bahwa itu tidak dalam mode pesawat terbang.</p></dd>
 <dt class="terms">Tak ada adaptor Bluetooth dalam komputer Anda</dt>
 <dd class="terms"><p class="p">Banyak komputer yang tak punya adaptor Bluetooth. Anda dapat membeli adaptor bila Anda ingin memakai Bluetooth.</p></dd>
 </dl></div></div></div>
@@ -70,12 +68,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="bluetooth.html#problems" title="Masalah">Masalah-masalah Bluetooth</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="bluetooth.html.id#problems" title="Masalah">Masalah-masalah Bluetooth</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="Apa itu penggerak?">Apa itu penggerak?</a><span class="desc"> — Driver perangkat/perangkat keras memungkinkan komputer Anda memakai perangkat yang tercantol padanya.</span>
+<a href="hardware-driver.html.id" title="Apa itu penggerak?">Apa itu penggerak?</a><span class="desc"> — Driver perangkat/perangkat keras memungkinkan komputer Anda memakai perangkat yang tercantol padanya.</span>
 </li></ul></div>
 </div></div>
 </div>

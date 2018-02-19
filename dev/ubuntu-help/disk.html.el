@@ -43,32 +43,32 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Δίσκοι &amp; αποθήκευση</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="disk-resize.html" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Create a startup disk"><span class="title">
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html.el" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.el" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
     Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
     </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-repair.html" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html.el" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
           state.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html" title="Έλεγχος του σκληρού σας δίσκου για προβλήματα"><span class="title">Έλεγχος του σκληρού σας δίσκου για προβλήματα</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-partitions.html" title="Διαχείριση τόμων και κατατμήσεων"><span class="title">Διαχείριση τόμων και κατατμήσεων</span><span class="linkdiv-dash"> — </span><span class="desc">Κατανοώντας τι είναι τόμοι και κατατμήσεις και χρησιμοποιώντας το εργαλείο δίσκου μπορείτε να τα διαχειριστείτε.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html" title="Δοκιμάστε την απόδοση του σκληρού σας δίσκου"><span class="title">Δοκιμάστε την απόδοση του σκληρού σας δίσκου</span><span class="linkdiv-dash"> — </span><span class="desc">Εκτελέστε μετρήσεις επιδόσεων στον σκληρό σας δίσκο για να ελέγξετε πόσο γρήγορος είναι.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-capacity.html" title="Ελέγξτε πόσος χώρος έχει απομείνει στον δίσκο"><span class="title">Ελέγξτε πόσος χώρος έχει απομείνει στον δίσκο</span><span class="linkdiv-dash"> — </span><span class="desc">Χρησιμοποιήστε τον <span class="gui">Αναλυτή χρήσης δίσκου</span> ή την <span class="gui">Παρακολούθηση συστήματος</span> για να ελέγξετε τον χώρο και τη χωρητικότητα.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-format.html" title="Εξαλείψτε τα πάντα σε έναν αφαιρούμενο δίσκο"><span class="title">Εξαλείψτε τα πάντα σε έναν αφαιρούμενο δίσκο</span><span class="linkdiv-dash"> — </span><span class="desc">Αφαιρέστε όλα τα αρχεία και τους φακέλους από έναν εξωτερικό σκληρό δίσκο ή οδηγό USB διαμορφώνοντας τον.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html.el" title="Έλεγχος του σκληρού σας δίσκου για προβλήματα"><span class="title">Έλεγχος του σκληρού σας δίσκου για προβλήματα</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-partitions.html.el" title="Διαχείριση τόμων και κατατμήσεων"><span class="title">Διαχείριση τόμων και κατατμήσεων</span><span class="linkdiv-dash"> — </span><span class="desc">Κατανοώντας τι είναι τόμοι και κατατμήσεις και χρησιμοποιώντας το εργαλείο δίσκου μπορείτε να τα διαχειριστείτε.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html.el" title="Δοκιμάστε την απόδοση του σκληρού σας δίσκου"><span class="title">Δοκιμάστε την απόδοση του σκληρού σας δίσκου</span><span class="linkdiv-dash"> — </span><span class="desc">Εκτελέστε μετρήσεις επιδόσεων στον σκληρό σας δίσκο για να ελέγξετε πόσο γρήγορος είναι.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-capacity.html.el" title="Ελέγξτε πόσος χώρος έχει απομείνει στον δίσκο"><span class="title">Ελέγξτε πόσος χώρος έχει απομείνει στον δίσκο</span><span class="linkdiv-dash"> — </span><span class="desc">Χρησιμοποιήστε τον <span class="gui">Αναλυτή χρήσης δίσκου</span> ή την <span class="gui">Παρακολούθηση συστήματος</span> για να ελέγξετε τον χώρο και τη χωρητικότητα.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-format.html.el" title="Εξαλείψτε τα πάντα σε έναν αφαιρούμενο δίσκο"><span class="title">Εξαλείψτε τα πάντα σε έναν αφαιρούμενο δίσκο</span><span class="linkdiv-dash"> — </span><span class="desc">Αφαιρέστε όλα τα αρχεία και τους φακέλους από έναν εξωτερικό σκληρό δίσκο ή οδηγό USB διαμορφώνοντας τον.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό &amp; οδηγοί</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα υλικού</a></span>, <span class="link"><a href="printing.html" title="Εκτύπωση">Εκτυπωτές</a></span>, <span class="link"><a href="power.html" title="Ενέργεια &amp; μπαταρία">Ρυθμίσεις ισχύος</a></span>, <span class="link"><a href="color.html" title="Διαχείριση χρωμάτων">Διαχείριση χρώματος</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Δίσκοι &amp; αποθήκευση">Δίσκοι</a></span>…</span>
+<a href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό &amp; οδηγοί</a><span class="desc"> — <span class="link"><a href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα υλικού</a></span>, <span class="link"><a href="printing.html.el" title="Εκτύπωση">Εκτυπωτές</a></span>, <span class="link"><a href="power.html.el" title="Ενέργεια &amp; μπαταρία">Ρυθμίσεις ισχύος</a></span>, <span class="link"><a href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρώματος</a></span>, <span class="link"><a href="bluetooth.html.el" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.el" title="Δίσκοι &amp; αποθήκευση">Δίσκοι</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

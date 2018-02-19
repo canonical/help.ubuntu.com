@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="accounts.html" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακοί λογαριασμοί</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="accounts.html.el" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακοί λογαριασμοί</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ελέγξτε ποιες διαδικτυακές υπηρεσίες ενός λογαριασμού μπορούν να χρησιμοποιηθούν για πρόσβαση</span></h1></div>
@@ -52,10 +52,10 @@
 <p class="p">Μερικοί τύποι διαδικτυακών λογαριασμών επιτρέπουν την πρόσβαση σε πολλές υπηρεσίες με τον ίδιο λογαριασμό χρήστη. Για παράδειγμα, οι λογαριασμοί Google παρέχουν πρόσβαση στο ημερολόγιο, στην ηλεκτρονική αλληλογραφία, σε επαφές και συνομιλία. Μπορεί να θέλετε να χρησιμοποιήσετε τον λογαριασμό σας για μερικές υπηρεσίες, αλλά όχι για τις υπόλοιπες. Για παράδειγμα, μπορεί να θέλετε να χρησιμοποιήσετε τον λογαριασμό Google για αλληλογραφία αλλά όχι συνομιλία, αφού έχετε έναν διαφορετικό διαδικτυακό λογαριασμό που χρησιμοποιείτε για συνομιλίες.</p>
 <p class="p">Μπορείτε να απενεργοποιήσετε μερικές από τις υπηρεσίες που παρέχονται από κάθε διαδικτυακό λογαριασμό:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Διαδικτυακοί λογαριασμοί</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Διαδικτυακοί λογαριασμοί</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Διαδικτυακοί λογαριασμοί</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Επιλέξτε τον λογαριασμό που θέλετε να αλλάξετε από την λίστα στα αριστερά.</p></li>
-<li class="steps"><p class="p">Θα εμφανιστεί μια λίστα με τις υπηρεσίες που είναι διαθέσιμες στον λογαριασμό, στην ενότητα <span class="gui">Χρήση για</span>. Δείτε ποιες εφαρμογές έχουν πρόσβαση στις υπηρεσίες στο <span class="link"><a href="accounts-which-application.html" title="Διαδικτυακές υπηρεσίες και εφαρμογές">Διαδικτυακές υπηρεσίες και εφαρμογές</a></span>.</p></li>
+<li class="steps"><p class="p">Θα εμφανιστεί μια λίστα με τις υπηρεσίες που είναι διαθέσιμες στον λογαριασμό, στην ενότητα <span class="gui">Χρήση για</span>. Δείτε ποιες εφαρμογές έχουν πρόσβαση στις υπηρεσίες στο <span class="link"><a href="accounts-which-application.html.el" title="Διαδικτυακές υπηρεσίες και εφαρμογές">Διαδικτυακές υπηρεσίες και εφαρμογές</a></span>.</p></li>
 <li class="steps"><p class="p">Απενεργοποιήστε όποιες από τις υπηρεσίες δεν θέλετε να χρησιμοποιήσετε.</p></li>
 </ol></div></div></div>
 <p class="p">Μόλις απενεργοποιηθεί μια υπηρεσία έχει για έναν λογαριασμό, οι εφαρμογές στον υπολογιστή σας δεν θα μπορούν να χρησιμοποιήσουν τον λογαριασμό για να συνδεθούν πια με αυτήν την υπηρεσία.</p>
@@ -67,17 +67,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακοί λογαριασμοί</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Προσθήκη λογαριασμού">Προσθήκη διαδικτυακού λογαριασμού</a></span>, <span class="link"><a href="accounts-remove.html" title="Αφαίρεση λογαριασμού">Αφαίρεση λογαριασμού</a></span>, <span class="link"><a href="accounts-which-application.html" title="Διαδικτυακές υπηρεσίες και εφαρμογές">Μάθετε σχετικά με τις υπηρεσίες</a></span>…</span>
+<a href="accounts.html.el" title="Διαδικτυακοί λογαριασμοί">Διαδικτυακοί λογαριασμοί</a><span class="desc"> — <span class="link"><a href="accounts-add.html.el" title="Προσθήκη λογαριασμού">Προσθήκη διαδικτυακού λογαριασμού</a></span>, <span class="link"><a href="accounts-remove.html.el" title="Αφαίρεση λογαριασμού">Αφαίρεση λογαριασμού</a></span>, <span class="link"><a href="accounts-which-application.html.el" title="Διαδικτυακές υπηρεσίες και εφαρμογές">Μάθετε σχετικά με τις υπηρεσίες</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="accounts-remove.html" title="Αφαίρεση λογαριασμού">Αφαίρεση λογαριασμού</a><span class="desc"> — Αφαιρέστε την πρόσβαση σε έναν διαδικτυακό πάροχο από τις εφαρμογές σας.</span>
+<a href="accounts-remove.html.el" title="Αφαίρεση λογαριασμού">Αφαίρεση λογαριασμού</a><span class="desc"> — Αφαιρέστε την πρόσβαση σε έναν διαδικτυακό πάροχο από τις εφαρμογές σας.</span>
 </li>
 <li class="links ">
-<a href="accounts-which-application.html" title="Διαδικτυακές υπηρεσίες και εφαρμογές">Διαδικτυακές υπηρεσίες και εφαρμογές</a><span class="desc"> — Οι εφαρμογές μπορούν να χρησιμοποιήσουν τους δημιουργημένους λογαριασμούς στο <span class="app">Διαδικτυακοί λογαριασμοί</span> και τις υπηρεσίες που εκμεταλλεύονται.</span>
+<a href="accounts-which-application.html.el" title="Διαδικτυακές υπηρεσίες και εφαρμογές">Διαδικτυακές υπηρεσίες και εφαρμογές</a><span class="desc"> — Οι εφαρμογές μπορούν να χρησιμοποιήσουν τους δημιουργημένους λογαριασμούς στο <span class="app">Διαδικτυακοί λογαριασμοί</span> και τις υπηρεσίες που εκμεταλλεύονται.</span>
 </li>
 </ul></div>
 </div></div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html#common-file-tasks" title="よく行う操作">よく行う操作</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ja" title="ファイル、フォルダーおよび検索">ファイル</a> › <a class="trail" href="files.html.ja#common-file-tasks" title="よく行う操作">よく行う操作</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ファイル、フォルダーの名前を変更する</span></h1></div>
@@ -59,7 +59,7 @@
     <span class="gui">Rename</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p"><span class="link"><a href="nautilus-file-properties-basic.html" title="ファイルプロパティ">プロパティ</a></span>ウィンドウからファイルの名前を変更することもできます。</p>
+<p class="p"><span class="link"><a href="nautilus-file-properties-basic.html.ja" title="ファイルプロパティ">プロパティ</a></span>ウィンドウからファイルの名前を変更することもできます。</p>
 <p class="p">When you rename a file, only the first part of the name of the file is
   selected, not the file extension (the part after the last <span class="file">.</span>).
   The extension normally denotes what type of file it is (for example,
@@ -76,7 +76,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">ファイル名として有効な文字</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">ファイル名には、<span class="file">/</span> (スラッシュ) を除いて、任意の文字を使用できます。しかしながら、ファイル名の条件としてより厳しい制限のある<span class="em">ファイルシステム</span>を使用するデバイスもあります。そのため、ファイル名として次の文字を避けることが最善とされています。<span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
-<div class="note note-warning" title="警告"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="file">.</span> で始まる名前を付けると、そのファイルをファイルマネージャーで表示しようとしても、<span class="link"><a href="files-hidden.html" title="ファイルを隠す">表示されません</a></span>。</p></div></div></div></div>
+<div class="note note-warning" title="警告"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="file">.</span> で始まる名前を付けると、そのファイルをファイルマネージャーで表示しようとしても、<span class="link"><a href="files-hidden.html.ja" title="ファイルを隠す">表示されません</a></span>。</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="common-probs" class="sect"><div class="inner">
@@ -96,14 +96,14 @@
         <span class="file">/home/wanda/Documents/work/business-proposals/…</span>), so you
         should avoid long file and folder names where possible.</p></dd>
 <dt class="terms">名前変更のオプションがグレーアウトされている</dt>
-<dd class="terms"><p class="p"><span class="gui">名前の変更</span>のオプションがグレーアウトされている場合は、そのファイル名を変更する権限が無いということです。保護されたファイルの名前を変更すると、お使いのシステムが不安定になるおそれがあるため、そのようなファイルの名前変更には注意してください。より詳細な情報については、<span class="link"><a href="nautilus-file-properties-permissions.html" title="ファイルのアクセス権を設定する">ファイルのアクセス権を設定する</a></span> を参照してください。</p></dd>
+<dd class="terms"><p class="p"><span class="gui">名前の変更</span>のオプションがグレーアウトされている場合は、そのファイル名を変更する権限が無いということです。保護されたファイルの名前を変更すると、お使いのシステムが不安定になるおそれがあるため、そのようなファイルの名前変更には注意してください。より詳細な情報については、<span class="link"><a href="nautilus-file-properties-permissions.html.ja" title="ファイルのアクセス権を設定する">ファイルのアクセス権を設定する</a></span> を参照してください。</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="よく行う操作">よく行う操作</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ja#common-file-tasks" title="よく行う操作">よく行う操作</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

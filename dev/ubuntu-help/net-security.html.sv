@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Håll dig säker på internet</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html" title="Aktivera eller blockera brandväggsåtkomst"><span class="title">Aktivera eller blockera brandväggsåtkomst</span><span class="linkdiv-dash"> — </span><span class="desc">Du kan styra vilka program som ska kunna komma åt nätverket. Detta hjälper dig att hålla din dator säker.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="Behöver jag ett antivirusprogram?"><span class="title">Behöver jag ett antivirusprogram?</span><span class="linkdiv-dash"> — </span><span class="desc">Det finns ytterst få virus för Linux, så du behöver troligen inte något anti-virusprogram.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="Behöver jag söka igenom min e-post efter virus?"><span class="title">Behöver jag söka igenom min e-post efter virus?</span><span class="linkdiv-dash"> — </span><span class="desc">Det är osannolikt att virus infekterar din dator, men kan infektera datorerna hos de personer du e-postar.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html" title="Vanligt förekommande nätverksportar"><span class="title">Vanligt förekommande nätverksportar</span><span class="linkdiv-dash"> — </span><span class="desc">Du behöver ange rätt nätverksport för att aktivera/inaktivera nätverksåtkomst för ett program via din brandvägg.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html.sv" title="Aktivera eller blockera brandväggsåtkomst"><span class="title">Aktivera eller blockera brandväggsåtkomst</span><span class="linkdiv-dash"> — </span><span class="desc">Du kan styra vilka program som ska kunna komma åt nätverket. Detta hjälper dig att hålla din dator säker.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html.sv" title="Behöver jag ett antivirusprogram?"><span class="title">Behöver jag ett antivirusprogram?</span><span class="linkdiv-dash"> — </span><span class="desc">Det finns ytterst få virus för Linux, så du behöver troligen inte något anti-virusprogram.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-email-virus.html.sv" title="Behöver jag söka igenom min e-post efter virus?"><span class="title">Behöver jag söka igenom min e-post efter virus?</span><span class="linkdiv-dash"> — </span><span class="desc">Det är osannolikt att virus infekterar din dator, men kan infektera datorerna hos de personer du e-postar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html.sv" title="Vanligt förekommande nätverksportar"><span class="title">Vanligt förekommande nätverksportar</span><span class="linkdiv-dash"> — </span><span class="desc">Du behöver ange rätt nätverksport för att aktivera/inaktivera nätverksåtkomst för ett program via din brandvägg.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Trådlösa nätverk">Trådlöst</a></span>, <span class="link"><a href="net-wired.html" title="Trådbundna nätverk">trådbundet</a></span>, <span class="link"><a href="net-problem.html" title="Nätverksproblem">anslutningsproblem</a></span>, <span class="link"><a href="net-browser.html" title="Webbläsare">webbsurfning</a></span>, <span class="link"><a href="net-email.html" title="E-post &amp; e-postprogramvara">e-postkonton</a></span>…</span>
+<a href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlöst</a></span>, <span class="link"><a href="net-wired.html.sv" title="Trådbundna nätverk">trådbundet</a></span>, <span class="link"><a href="net-problem.html.sv" title="Nätverksproblem">anslutningsproblem</a></span>, <span class="link"><a href="net-browser.html.sv" title="Webbläsare">webbsurfning</a></span>, <span class="link"><a href="net-email.html.sv" title="E-post &amp; e-postprogramvara">e-postkonton</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

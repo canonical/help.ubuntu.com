@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="disk.html" title="డిస్కులు మరియు నిల్వ">డిస్కులు మరియు నిల్వ</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.te" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » <a class="trail" href="disk.html.te" title="డిస్కులు మరియు నిల్వ">డిస్కులు మరియు నిల్వ</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">హార్డు డిస్కు సమస్యలను పరిశీలించండి</span></h1></div>
@@ -74,13 +74,13 @@
 <div class="region"><div class="contents">
 <p class="p">Even if the <span class="gui">Overall Assessment</span> indicates that the disk
   <span class="em">isn’t</span> healthy, there may be no cause for alarm. However, it’s better
-  to be prepared with a <span class="link"><a href="backup-why.html" title="మీ ముఖ్యమైన ఫైళ్ళను బ్యాకప్ తీయి">backup</a></span> to prevent data
+  to be prepared with a <span class="link"><a href="backup-why.html.te" title="మీ ముఖ్యమైన ఫైళ్ళను బ్యాకప్ తీయి">backup</a></span> to prevent data
   loss.</p>
 <p class="p">If the status says “Pre-fail”, the disk is still reasonably healthy but
  signs of wear have been detected which mean it might fail in the near future.
  If your hard disk (or computer) is a few years old, you are likely to see
  this message on at least some of the health checks. You should
- <span class="link"><a href="backup-how.html" title="బ్యాక్అప్ తీయడం ఎలా">backup your important files regularly</a></span> and check
+ <span class="link"><a href="backup-how.html.te" title="బ్యాక్అప్ తీయడం ఎలా">backup your important files regularly</a></span> and check
  the disk status periodically to see if it gets worse.</p>
 <p class="p">ఒకవేళ అది బాగా పాడైవుంటే, మరింత విశ్లేషణకు లేదా బాగుచేయుటకు మీ కంప్యూటర్/హార్డు డిస్కును మీరు అనుభవజ్ఞుల వద్దకు తీసుకుని వెళ్ళవచ్చు.</p>
 </div></div>
@@ -90,7 +90,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="డిస్కులు మరియు నిల్వ">డిస్కులు మరియు నిల్వ</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="ఎంత డిస్కు జాగా మిగిలివుందో పరిశీలించు">డిస్కు జాగా</a></span>, <span class="link"><a href="disk-benchmark.html" title="మీ హార్డు డిస్కు యొక్క పనితనం పరిశీలించండి">పనితనం</a></span>, <span class="link"><a href="disk-check.html" title="హార్డు డిస్కు సమస్యలను పరిశీలించండి">సమస్యలు</a></span>, <span class="link"><a href="disk-partitions.html" title="వాల్యూమ్లు మరియు విభజనలు నిర్వహించుము">వాల్యూమ్లు మరియు విభజనలు</a></span>…</span>
+<a href="disk.html.te" title="డిస్కులు మరియు నిల్వ">డిస్కులు మరియు నిల్వ</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.te" title="ఎంత డిస్కు జాగా మిగిలివుందో పరిశీలించు">డిస్కు జాగా</a></span>, <span class="link"><a href="disk-benchmark.html.te" title="మీ హార్డు డిస్కు యొక్క పనితనం పరిశీలించండి">పనితనం</a></span>, <span class="link"><a href="disk-check.html.te" title="హార్డు డిస్కు సమస్యలను పరిశీలించండి">సమస్యలు</a></span>, <span class="link"><a href="disk-partitions.html.te" title="వాల్యూమ్లు మరియు విభజనలు నిర్వహించుము">వాల్యూమ్లు మరియు విభజనలు</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

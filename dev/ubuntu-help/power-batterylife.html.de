@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="power.html" title="Energie und Akkus">Energie und Akkus</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="power.html.de" title="Energie und Akkus">Energie und Akkus</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="power.html" title="Energie und Akkus">Energie und Akkus</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="power.html.de" title="Energie und Akkus">Energie und Akkus</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,9 +56,9 @@
 <div id="general" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Allgemeine Tipps</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#suspend" title="Bereitschaft">Versetzen Sie Ihren Rechner in Bereitschaft</a></span>, wenn Sie ihn nicht verwenden. Dies reduziert den Energieverbrauch deutlich und der Rechner kann trotzdem schnell wieder in Betrieb genommen werden.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html#shutdown" title="Ausschalten oder neu starten">Schalten Sie den Rechner aus</a></span>, wenn Sie ihn für längere Zeit nicht verwenden. Einige Leute meinen, dass der Rechner durch häufiges Ausschalten schneller kaputtgeht, aber das ist nicht der Fall.</p></li>
-<li class="list"><p class="p">Verwenden Sie die Einstellung <span class="gui">Leistung</span> in den <span class="app">Einstellungen</span>, um Ihre Energieeinstellungen anzupassen. Es stehen einige Möglichkeiten zur Verfügung, mit denen Sie Energie sparen können: Sie können den Bildschirm nach einer bestimmten Zeit <span class="link"><a href="display-blank.html" title="Die Zeit bis zum Abschalten des Bildschirms einstellen">automatisch abdunkeln</a></span> lassen, die <span class="link"><a href="display-brightness.html" title="Bildschirmhelligkeit einstellen">Bildschirmhelligkeit</a></span> reduzieren und den Rechner <span class="link"><a href="power-autosuspend.html" title="Automatische Bereitschaft einrichten">automatisch in Bereitschaft versetzen</a></span>, wenn Sie ihn für eine bestimmte Zeit nicht verwendet haben.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.de#suspend" title="Bereitschaft">Versetzen Sie Ihren Rechner in Bereitschaft</a></span>, wenn Sie ihn nicht verwenden. Dies reduziert den Energieverbrauch deutlich und der Rechner kann trotzdem schnell wieder in Betrieb genommen werden.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.de#shutdown" title="Ausschalten oder neu starten">Schalten Sie den Rechner aus</a></span>, wenn Sie ihn für längere Zeit nicht verwenden. Einige Leute meinen, dass der Rechner durch häufiges Ausschalten schneller kaputtgeht, aber das ist nicht der Fall.</p></li>
+<li class="list"><p class="p">Verwenden Sie die Einstellung <span class="gui">Leistung</span> in den <span class="app">Einstellungen</span>, um Ihre Energieeinstellungen anzupassen. Es stehen einige Möglichkeiten zur Verfügung, mit denen Sie Energie sparen können: Sie können den Bildschirm nach einer bestimmten Zeit <span class="link"><a href="display-blank.html.de" title="Die Zeit bis zum Abschalten des Bildschirms einstellen">automatisch abdunkeln</a></span> lassen, die <span class="link"><a href="display-brightness.html.de" title="Bildschirmhelligkeit einstellen">Bildschirmhelligkeit</a></span> reduzieren und den Rechner <span class="link"><a href="power-autosuspend.html.de" title="Automatische Bereitschaft einrichten">automatisch in Bereitschaft versetzen</a></span>, wenn Sie ihn für eine bestimmte Zeit nicht verwendet haben.</p></li>
 <li class="list"><p class="p">Schalten Sie jegliche externe Geräte ab (wie Drucker und Scanner), wenn Sie sie nicht benötigen.</p></li>
 </ul></div></div></div></div></div>
 </div></div>
@@ -66,7 +66,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Laptops, Netbooks und andere Geräte mit Akkus</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Verringern Sie die <span class="link"><a href="display-brightness.html" title="Bildschirmhelligkeit einstellen">Bildschirmhelligkeit</a></span>. Die Stromversorgung des Bildschirms macht einen beachtlichen Teil des Stromverbrauchs eines Laptops aus.</p>
+<p class="p">Verringern Sie die <span class="link"><a href="display-brightness.html.de" title="Bildschirmhelligkeit einstellen">Bildschirmhelligkeit</a></span>. Die Stromversorgung des Bildschirms macht einen beachtlichen Teil des Stromverbrauchs eines Laptops aus.</p>
 <p class="p">Die meisten Laptops verfügen über Tasten auf der Tastatur (oder Tastenkombinationen), über die Sie die Helligkeit verringern können.</p>
 </li>
 <li class="list">
@@ -88,31 +88,31 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Energie und Akkus">Energie und Akkus</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Akkustatus überprüfen">Akkuzustand</a></span>, <span class="link"><a href="power-suspend.html" title="Was passiert, wenn ich den Rechner in Bereitschaft versetze?">Bereitschaft</a></span>, <span class="link"><a href="power-whydim.html" title="Warum wird mein Bildschirm nach einer Weile dunkler?">Bildschirm abdunkeln</a></span> …</span>
+<a href="power.html.de" title="Energie und Akkus">Energie und Akkus</a><span class="desc"> — <span class="link"><a href="power-status.html.de" title="Akkustatus überprüfen">Akkuzustand</a></span>, <span class="link"><a href="power-suspend.html.de" title="Was passiert, wenn ich den Rechner in Bereitschaft versetze?">Bereitschaft</a></span>, <span class="link"><a href="power-whydim.html.de" title="Warum wird mein Bildschirm nach einer Weile dunkler?">Bildschirm abdunkeln</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-status.html" title="Akkustatus überprüfen">Akkustatus überprüfen</a><span class="desc"> — So zeigen Sie den Status des Akkus und angeschlossener Geräte an.</span>
+<a href="power-status.html.de" title="Akkustatus überprüfen">Akkustatus überprüfen</a><span class="desc"> — So zeigen Sie den Status des Akkus und angeschlossener Geräte an.</span>
 </li>
-<li class="links "><a href="shell-exit.html#shutdown" title="Ausschalten oder neu starten">Ausschalten oder neu starten</a></li>
-<li class="links "><a href="shell-exit.html#suspend" title="Bereitschaft">Bereitschaft</a></li>
+<li class="links "><a href="shell-exit.html.de#shutdown" title="Ausschalten oder neu starten">Ausschalten oder neu starten</a></li>
+<li class="links "><a href="shell-exit.html.de#suspend" title="Bereitschaft">Bereitschaft</a></li>
 <li class="links ">
-<a href="display-brightness.html" title="Bildschirmhelligkeit einstellen">Bildschirmhelligkeit einstellen</a><span class="desc"> — Die Bildschirmhelligkeit anpassen, um das Lesen in hellem Umgebungslicht zu verbessern.</span>
-</li>
-<li class="links ">
-<a href="power-wireless.html" title="Nicht verwendete Funkelektronik abschalten">Nicht verwendete Funkelektronik abschalten</a><span class="desc"> — Bluetooth, WLAN und mobile Breitbandverbindung können ausgeschaltet werden, um Energie zu sparen.</span>
+<a href="display-brightness.html.de" title="Bildschirmhelligkeit einstellen">Bildschirmhelligkeit einstellen</a><span class="desc"> — Die Bildschirmhelligkeit anpassen, um das Lesen in hellem Umgebungslicht zu verbessern.</span>
 </li>
 <li class="links ">
-<a href="power-batterywindows.html" title="Warum hält mein Akku nicht so lange wie unter Windows/Mac OS?">Warum hält mein Akku nicht so lange wie unter Windows/Mac OS?</a><span class="desc"> — Optimierungen des Herstellers und abweichende Schätzungen der Akkulaufzeit können dieses Problem verursachen.</span>
+<a href="power-wireless.html.de" title="Nicht verwendete Funkelektronik abschalten">Nicht verwendete Funkelektronik abschalten</a><span class="desc"> — Bluetooth, WLAN und mobile Breitbandverbindung können ausgeschaltet werden, um Energie zu sparen.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html" title="Warum wird mein Bildschirm nach einer Weile dunkler?">Warum wird mein Bildschirm nach einer Weile dunkler?</a><span class="desc"> — Der Bildschirm wird bei Untätigkeit abgedunkelt, um Energie zu sparen.</span>
+<a href="power-batterywindows.html.de" title="Warum hält mein Akku nicht so lange wie unter Windows/Mac OS?">Warum hält mein Akku nicht so lange wie unter Windows/Mac OS?</a><span class="desc"> — Optimierungen des Herstellers und abweichende Schätzungen der Akkulaufzeit können dieses Problem verursachen.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Was passiert, wenn ich den Rechner in Bereitschaft versetze?">Was passiert, wenn ich den Rechner in Bereitschaft versetze?</a><span class="desc"> — Bereitschaft versetzt Ihren Rechner in einen Energiesparmodus, so dass er weniger Strom verbraucht.</span>
+<a href="power-whydim.html.de" title="Warum wird mein Bildschirm nach einer Weile dunkler?">Warum wird mein Bildschirm nach einer Weile dunkler?</a><span class="desc"> — Der Bildschirm wird bei Untätigkeit abgedunkelt, um Energie zu sparen.</span>
+</li>
+<li class="links ">
+<a href="power-suspend.html.de" title="Was passiert, wenn ich den Rechner in Bereitschaft versetze?">Was passiert, wenn ich den Rechner in Bereitschaft versetze?</a><span class="desc"> — Bereitschaft versetzt Ihren Rechner in einen Energiesparmodus, so dass er weniger Strom verbraucht.</span>
 </li>
 </ul></div>
 </div></div>

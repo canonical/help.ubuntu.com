@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Accesso universale">Accesso universale</a> › <a class="trail" href="a11y.html#vision" title="Difficoltà visive">Difficoltà visive</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.it" title="Accesso universale">Accesso universale</a> › <a class="trail" href="a11y.html.it#vision" title="Difficoltà visive">Difficoltà visive</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Regolare il contrasto</span></h1></div>
@@ -54,7 +54,7 @@
   changing the brightness of the whole screen; only parts of the
   <span class="em">user interface</span> will change.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">High Contrast</span> to <span class="gui">ON</span> in the
@@ -63,7 +63,7 @@
 <div class="note note-tip" title="Suggerimento"><div class="inner">
 <div class="title title-note"><h2><span class="title">Quickly turn high contrast on and off</span></h2></div>
 <div class="region"><div class="contents"><p class="p">You can turn high contrast on and off by clicking the
-    <span class="link"><a href="a11y-icon.html" title="Trovare il menù accesso universale">accessibility icon</a></span> on the top bar and
+    <span class="link"><a href="a11y-icon.html.it" title="Trovare il menù accesso universale">accessibility icon</a></span> on the top bar and
     selecting <span class="gui">High Contrast</span>.</p></div></div>
 </div></div>
 </div>
@@ -72,12 +72,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Difficoltà visive">Difficoltà visive</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.it#vision" title="Difficoltà visive">Difficoltà visive</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="display-brightness.html" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
+<a href="display-brightness.html.it" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
     light.</span>
 </li></ul></div>
 </div></div>

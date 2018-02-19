@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Bureau</a> › <a class="trail" href="shell-overview.html#apps" title="Les applications et les fenêtres">Les applications et les fenêtres</a> » <a class="trail" href="shell-windows.html" title="Fenêtres et espaces de travail">Fenêtres et espaces de travail</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Gestion des fenêtres">Windows</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="shell-overview.html.fr" title="Your desktop">Bureau</a> › <a class="trail" href="shell-overview.html.fr#apps" title="Les applications et les fenêtres">Les applications et les fenêtres</a> » <a class="trail" href="shell-windows.html.fr" title="Fenêtres et espaces de travail">Fenêtres et espaces de travail</a> › <a class="trail" href="shell-windows.html.fr#working-with-windows" title="Gestion des fenêtres">Windows</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Maximisation et réduction d'une fenêtre</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Vous pouvez maximiser une fenêtre pour qu'elle remplisse tout l'espace de votre bureau et démaximiser une fenêtre pour lui rendre sa taille normale. Vous pouvez aussi maximiser des fenêtres verticalement le long des bords gauche et droit de l'écran, afin de pouvoir visualiser facilement les deux fenêtres simultanément. Consultez <span class="link"><a href="shell-windows-tiled.html" title="Juxtaposition de fenêtres">Juxtaposition de fenêtres</a></span> pour plus de détails.</p>
-<p class="p">Pour maximiser une fenêtre, cliquez sur sa barre de titre et faites-la glisser jusqu'en haut de l'écran, ou effectuez simplement un double-clic sur la barre de titre. Pour maximiser une fenêtre via le clavier, maintenez enfoncée la touche <span class="link"><a href="keyboard-key-super.html" title="Qu'est-ce que la touche Logo ?">Logo</a></span> et appuyez sur <span class="key"><kbd>↑</kbd></span> ou appuyez sur <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
+<p class="p">Vous pouvez maximiser une fenêtre pour qu'elle remplisse tout l'espace de votre bureau et démaximiser une fenêtre pour lui rendre sa taille normale. Vous pouvez aussi maximiser des fenêtres verticalement le long des bords gauche et droit de l'écran, afin de pouvoir visualiser facilement les deux fenêtres simultanément. Consultez <span class="link"><a href="shell-windows-tiled.html.fr" title="Juxtaposition de fenêtres">Juxtaposition de fenêtres</a></span> pour plus de détails.</p>
+<p class="p">Pour maximiser une fenêtre, cliquez sur sa barre de titre et faites-la glisser jusqu'en haut de l'écran, ou effectuez simplement un double-clic sur la barre de titre. Pour maximiser une fenêtre via le clavier, maintenez enfoncée la touche <span class="link"><a href="keyboard-key-super.html.fr" title="Qu'est-ce que la touche Logo ?">Logo</a></span> et appuyez sur <span class="key"><kbd>↑</kbd></span> ou appuyez sur <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
 <p class="p">Pour restaurer une fenêtre à sa taille normale, faites-la glisser hors des bords de l'écran. Si la fenêtre est complètement maximisée, vous pouvez double-cliquer sur la barre de titre pour la restaurer. Vous pouvez aussi utiliser les mêmes raccourcis clavier que ceux que vous aviez utilisé pour maximiser la fenêtre.</p>
 <div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">Maintenez appuyée la touche <span class="key"><kbd>Logo</kbd></span> et faites glisser une fenêtre à partir de n'importe quel point de la fenêtre pour la déplacer.</p></div></div></div></div>
 </div>
@@ -59,12 +59,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Gestion des fenêtres">Gestion des fenêtres</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.fr#working-with-windows" title="Gestion des fenêtres">Gestion des fenêtres</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-tiled.html" title="Juxtaposition de fenêtres">Juxtaposition de fenêtres</a><span class="desc"> — Maximiser deux fenêtres côte à côte.</span>
+<a href="shell-windows-tiled.html.fr" title="Juxtaposition de fenêtres">Juxtaposition de fenêtres</a><span class="desc"> — Maximiser deux fenêtres côte à côte.</span>
 </li></ul></div>
 </div></div>
 </div>

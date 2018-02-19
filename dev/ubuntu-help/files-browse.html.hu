@@ -43,22 +43,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html#common-file-tasks" title="Általános feladatok">Általános feladatok</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.hu" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html.hu#common-file-tasks" title="Általános feladatok">Általános feladatok</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fájlok és mappák tallózása</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A <span class="app">Fájlok</span> alkalmazás segítségével tallózhatja a számítógépén található fájlokat. Segítségével kezelheti a tárolóeszközökön (például külső merevlemezeken), <span class="link"><a href="nautilus-connect.html" title="Fájlok tallózása egy kiszolgálón vagy hálózati megosztáson">fájlkiszolgálókon</a></span> és hálózati megosztásokon lévő fájlokat.</p>
-<p class="p">A fájlkezelő elindításához válassza a <span class="app">Fájlok</span> alkalmazást a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintésben. Mappákat és eszközöket az áttekintésben ugyanúgy kereshet, mint <span class="link"><a href="shell-apps-open.html" title="Alkalmazások indítása">alkalmazásokat</a></span>.</p>
+<p class="p">A <span class="app">Fájlok</span> alkalmazás segítségével tallózhatja a számítógépén található fájlokat. Segítségével kezelheti a tárolóeszközökön (például külső merevlemezeken), <span class="link"><a href="nautilus-connect.html.hu" title="Fájlok tallózása egy kiszolgálón vagy hálózati megosztáson">fájlkiszolgálókon</a></span> és hálózati megosztásokon lévő fájlokat.</p>
+<p class="p">A fájlkezelő elindításához válassza a <span class="app">Fájlok</span> alkalmazást a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintésben. Mappákat és eszközöket az áttekintésben ugyanúgy kereshet, mint <span class="link"><a href="shell-apps-open.html.hu" title="Alkalmazások indítása">alkalmazásokat</a></span>.</p>
 </div>
 <div id="files-view-folder-contents" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Mappák tartalmának felfedezése</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">A fájlkezelőben a mappákra duplán kattintva megjelenik azok tartalma, a fájlokra duplán vagy a <span class="link"><a href="mouse-middleclick.html" title="Kattintás a középső egérgombbal">középső gombbal</a></span> kattintva azok megnyílnak a fájltípushoz tartozó alap alkalmazásban. Egy mappán való középső kattintás új lapon nyitja azt meg. A mappán jobb egérgombbal kattintva megnyithatja azt új ablakban vagy új lapon.</p>
-<p class="p">Egy mappa fájljainak áttekintésekor a szóköz megnyomásával gyorsan <span class="link"><a href="files-preview.html" title="Fájlok és mappák előnézete">megjelenítheti az egyes fájlok előnézetét</a></span>, így azok megnyitása, másolása vagy törlése előtt meggyőződhet arról, hogy a megfelelő fájlt választotta ki.</p>
+<p class="p">A fájlkezelőben a mappákra duplán kattintva megjelenik azok tartalma, a fájlokra duplán vagy a <span class="link"><a href="mouse-middleclick.html.hu" title="Kattintás a középső egérgombbal">középső gombbal</a></span> kattintva azok megnyílnak a fájltípushoz tartozó alap alkalmazásban. Egy mappán való középső kattintás új lapon nyitja azt meg. A mappán jobb egérgombbal kattintva megnyithatja azt új ablakban vagy új lapon.</p>
+<p class="p">Egy mappa fájljainak áttekintésekor a szóköz megnyomásával gyorsan <span class="link"><a href="files-preview.html.hu" title="Fájlok és mappák előnézete">megjelenítheti az egyes fájlok előnézetét</a></span>, így azok megnyitása, másolása vagy törlése előtt meggyőződhet arról, hogy a megfelelő fájlt választotta ki.</p>
 <p class="p">A fájlok és mappák listája fölötti <span class="em">útvonalsáv</span> megjeleníti az éppen látható mappát, beleértve a szülőmappáit is. Kattintson egy szülőmappára az útvonalsávon az adott mappába ugráshoz. Kattintson bármely mappára a jobb egérgombbal az útvonalsávon az új lapon vagy ablakban való megnyitásához, illetve tulajdonságainak megjelenítéséhez.</p>
-<p class="p">Ha gyorsan meg <span class="link"><a href="files-search.html" title="Fájlok keresése">szeretne találni egy fájlt</a></span> az éppen megjelenített mappában vagy az alatt, akkor kezdje el begépelni a fájl nevét. Az ablak tetején megjelenik egy <span class="em">keresőmező</span>, és csak a keresett kifejezésre illeszkedő fájlok jelennek meg. Nyomja meg az <span class="key"><kbd>Esc</kbd></span> billentyűt a keresés megszakításához.</p>
+<p class="p">Ha gyorsan meg <span class="link"><a href="files-search.html.hu" title="Fájlok keresése">szeretne találni egy fájlt</a></span> az éppen megjelenített mappában vagy az alatt, akkor kezdje el begépelni a fájl nevét. Az ablak tetején megjelenik egy <span class="em">keresőmező</span>, és csak a keresett kifejezésre illeszkedő fájlok jelennek meg. Nyomja meg az <span class="key"><kbd>Esc</kbd></span> billentyűt a keresés megszakításához.</p>
 <p class="p">Az <span class="em">oldalsávból</span> gyorsan elérheti az általános helyeket. Ha nem látja az oldalsávot, akkor kattintson a <span class="gui">Fájlok</span> gombra a felső sávon, és válassza az <span class="gui">Oldalsáv</span> menüpontot. A gyakran használt mappákra könyvjelzőket is készíthet, ezek is az oldalsávban jelennek meg. Ehhez húzzon egy mappát az oldalsávra, és ejtse a dinamikusan megjelenő <span class="gui">Új könyvjelző</span> elemre, vagy kattintson az ablak menüjére, majd válassza a <span class="gui">Hely könyvjelzőzése</span> menüpontot.</p>
 </div></div>
 </div></div>
@@ -67,12 +67,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Általános feladatok">Általános feladatok</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.hu#common-file-tasks" title="Általános feladatok">Általános feladatok</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-copy.html" title="Fájlok és mappák másolása vagy mozgatása">Fájlok és mappák másolása vagy mozgatása</a><span class="desc"> — Elemek új mappába másolása vagy áthelyezése.</span>
+<a href="files-copy.html.hu" title="Fájlok és mappák másolása vagy mozgatása">Fájlok és mappák másolása vagy mozgatása</a><span class="desc"> — Elemek új mappába másolása vagy áthelyezése.</span>
 </li></ul></div>
 </div></div>
 </div>

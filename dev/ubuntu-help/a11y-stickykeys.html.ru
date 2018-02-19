@@ -44,21 +44,21 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="keyboard.html" title="Клавиатура">Клавиатура</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="keyboard.html.ru" title="Клавиатура">Клавиатура</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Специальные возможности">Специальные возможности</a> › <a class="trail" href="a11y.html#mobility" title="Ограничения подвижности">Ограничения подвижности</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ru" title="Специальные возможности">Специальные возможности</a> › <a class="trail" href="a11y.html.ru#mobility" title="Ограничения подвижности">Ограничения подвижности</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="keyboard.html" title="Клавиатура">Клавиатура</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="keyboard.html.ru" title="Клавиатура">Клавиатура</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Включение «залипающих клавиш»</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p"><span class="em">«Залипающие клавиши»</span> позволяют вводить комбинации клавиш не одновременным нажатием всех клавиш, а нажимая их по одной. Например, для переключения между окнами используется комбинация клавиш <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>. Если «залипающие клавиши» отключены, нужно нажать обе клавиши одновременно, если включены — можно нажать сначала <span class="key"><kbd>Super</kbd></span> и затем <span class="key"><kbd>Tab</kbd></span>.</p>
+<p class="p"><span class="em">«Залипающие клавиши»</span> позволяют вводить комбинации клавиш не одновременным нажатием всех клавиш, а нажимая их по одной. Например, для переключения между окнами используется комбинация клавиш <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.ru" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>. Если «залипающие клавиши» отключены, нужно нажать обе клавиши одновременно, если включены — можно нажать сначала <span class="key"><kbd>Super</kbd></span> и затем <span class="key"><kbd>Tab</kbd></span>.</p>
 <p class="p">«Залипающие клавиши» могут быть полезны, если вам трудно удерживать нажатыми несколько клавиш одновременно.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Универсальный доступ</span>, чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Помощник ввода (AccessX)</span> в разделе <span class="gui">Ввод</span>.</p></li>
@@ -68,7 +68,7 @@
 <div class="title title-note"><h2><span class="title">Быстрое включение и отключение «залипающих клавиш»</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Чтобы управлять включением и отключением залипающих клавиш с помощью клавиатуры, в пункте <span class="gui">Управляется с клавиатуры</span> установите флажок <span class="gui">Включать и выключать специальные возможности с помощью клавиатуры</span>. После этого можно будет включать или отключать залипающие клавиши нажатием клавиши <span class="key"><kbd>Shift</kbd></span> пять раз подряд.</p>
-<p class="p">Чтобы включить или отключить залипающие клавиши, можно также нажать на <span class="link"><a href="a11y-icon.html" title="Найдите меню универсального доступа">значок специальных возможностей</a></span> в верхней панели и выбрать <span class="gui">Залипающие клавиши</span>. Значок специальных возможностей становится виден в том случае, если один или более параметров были включены в разделе <span class="gui">Универсальный доступ</span>.</p>
+<p class="p">Чтобы включить или отключить залипающие клавиши, можно также нажать на <span class="link"><a href="a11y-icon.html.ru" title="Найдите меню универсального доступа">значок специальных возможностей</a></span> в верхней панели и выбрать <span class="gui">Залипающие клавиши</span>. Значок специальных возможностей становится виден в том случае, если один или более параметров были включены в разделе <span class="gui">Универсальный доступ</span>.</p>
 </div></div>
 </div></div>
 <p class="p">Если нажать две клавиши одновременно, «залипающие клавиши» временно отключатся, чтобы вы могли ввести комбинацию клавиш «обычным» способом.</p>
@@ -86,9 +86,9 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
+<a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ru" title="Использование альтернативных раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ru" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html.ru#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Ограничения подвижности">Ограничения подвижности</a></li>
+<li class="links "><a href="a11y.html.ru#mobility" title="Ограничения подвижности">Ограничения подвижности</a></li>
 </ul></div>
 </div></div></div>
 </div>

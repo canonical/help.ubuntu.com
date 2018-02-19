@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="media.html#sound" title="Sonido básico">Sonido</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="media.html.es#sound" title="Sonido básico">Sonido</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Usar altavoces o auriculares diferentes</span></h1></div>
@@ -56,7 +56,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Seleccione el dispositivo de entrada de sonido predeterminado</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Sonido</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Sonido</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Sonido</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">En la pestaña <span class="gui">Salida</span>, seleccione el dispositivo que quiere usar.</p></li>
 </ol></div>
@@ -69,13 +69,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="Sonido básico">Sonido básico</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Cambiar el volumen del sonido">Volumen</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Usar altavoces o auriculares diferentes">altavoces y auriculares</a></span>, <span class="link"><a href="sound-usemic.html" title="Usar un micrófono diferente">micrófonos</a></span>…</span>
+<a href="media.html.es#sound" title="Sonido básico">Sonido básico</a><span class="desc"> — <span class="link"><a href="sound-volume.html.es" title="Cambiar el volumen del sonido">Volumen</a></span>, <span class="link"><a href="sound-usespeakers.html.es" title="Usar altavoces o auriculares diferentes">altavoces y auriculares</a></span>, <span class="link"><a href="sound-usemic.html.es" title="Usar un micrófono diferente">micrófonos</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-usemic.html" title="Usar un micrófono diferente">Usar un micrófono diferente</a><span class="desc"> — Use un micrófono analógico o USB y seleccione un dispositivo de entrada predeterminado.</span>
+<a href="sound-usemic.html.es" title="Usar un micrófono diferente">Usar un micrófono diferente</a><span class="desc"> — Use un micrófono analógico o USB y seleccione un dispositivo de entrada predeterminado.</span>
 </li></ul></div>
 </div></div>
 </div>

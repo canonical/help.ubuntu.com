@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="prefs-display.html" title="Tampilan &amp; layar">Tampilan &amp; layar</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Change the desktop and lock screen backgrounds</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can change the image used for your backgrounds or set it to a be a
+<p class="p">You can change the image used for your backgrounds or set it to be a
   solid color.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Latar Belakang</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Latar Belakang</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Latar Belakang</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Select the <span class="gui">Background</span> or <span class="gui">Lock Screen</span>.</p></li>
 <li class="steps">
@@ -74,7 +74,7 @@
 </ul></div></div></div>
 </li>
 <li class="steps"><p class="p">Pengaturan diterapkan seketika.</p></li>
-<li class="steps"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Bertukar antar area kerja">Bertukar ke suatu ruang kerja kosong</a></span> untuk melihat seluruh desktop Anda.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.id" title="Bertukar antar area kerja">Bertukar ke suatu ruang kerja kosong</a></span> untuk melihat seluruh desktop Anda.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -83,12 +83,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Latar belakang</a></span>, <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">ukuran dan rotasi</a></span>, kecerahan…</span>
+<a href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — <span class="link"><a href="look-background.html.id" title="Change the desktop and lock screen backgrounds">Latar belakang</a></span>, <span class="link"><a href="look-resolution.html.id" title="Change the resolution or rotation of the screen">ukuran dan rotasi</a></span>, kecerahan…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-change-wallpaper.html" title="Ubah gambar latar">Tutorial cara mengubah gambar latar</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-change-wallpaper.html.id" title="Ubah gambar latar">Tutorial cara mengubah gambar latar</a></li></ul></div>
 </div></div>
 </div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-email.html" title="E mail &amp; e-mailsoftware">E mail &amp; e-mailsoftware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-email.html.nl" title="E mail &amp; e-mailsoftware">E mail &amp; e-mailsoftware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wijzigen welk e-mailprogramma gebruikt wordt om e-mails te schrijven</span></h1></div>
@@ -55,7 +55,7 @@
   mail application installed, the wrong mail application might open up. You
   can fix this by changing which one is the default email application:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Details</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Details</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Details</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Choose <span class="gui">Default Applications</span> from the list on the left side
       of the window.</p></li>
@@ -67,7 +67,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email.html" title="E mail &amp; e-mailsoftware">E mail &amp; e-mailsoftware</a><span class="desc"> — <span class="link"><a href="net-default-email.html" title="Wijzigen welk e-mailprogramma gebruikt wordt om e-mails te schrijven">Standaard e-mailtoepassingen</a></span>, <span class="link"><a href="net-email-virus.html" title="Moet ik mijn e-mails controleren op virussen?">Moet ik op virussen scannen?</a></span>…</span>
+<a href="net-email.html.nl" title="E mail &amp; e-mailsoftware">E mail &amp; e-mailsoftware</a><span class="desc"> — <span class="link"><a href="net-default-email.html.nl" title="Wijzigen welk e-mailprogramma gebruikt wordt om e-mails te schrijven">Standaard e-mailtoepassingen</a></span>, <span class="link"><a href="net-email-virus.html.nl" title="Moet ik mijn e-mails controleren op virussen?">Moet ik op virussen scannen?</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

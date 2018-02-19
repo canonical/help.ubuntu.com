@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="privacy.html" title="Подешавања приватности">Подешавања приватности</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="privacy.html.sr" title="Подешавања приватности">Подешавања приватности</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Самостално закључајте ваш екран</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Када се удаљите од вашег рачунара, требали бисте да <span class="link"><a href="shell-exit.html#lock-screen" title="Закључавање екрана">закључате екран</a></span> како други неби могли да користе вашу радну површ и да приступе вашим датотекама. Ако вам се деси да некад заборавите да закључате екран, можда ћете пожелети да се екран вашег рачунара сам закључа након одређеног времена. То ће вам помоћи да осигурате ваш рачунар када га не користите.</p>
+<p class="p">Када се удаљите од вашег рачунара, требали бисте да <span class="link"><a href="shell-exit.html.sr#lock-screen" title="Закључавање екрана">закључате екран</a></span> како други неби могли да користе вашу радну површ и да приступе вашим датотекама. Ако вам се деси да некад заборавите да закључате екран, можда ћете пожелети да се екран вашег рачунара сам закључа након одређеног времена. То ће вам помоћи да осигурате ваш рачунар када га не користите.</p>
 <div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">Када је ваш екран закључан, ваши програми и системски процеси ће наставити да раде, али ви ћете морати да унесете вашу лозинку да бисте поново почели да их користите.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Да поставите време након кога ће се ваш екран сам закључати:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Приватност</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Приватност</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Приватност</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Изаберите <span class="gui">Закључај екран</span>.</p></li>
 <li class="steps"><p class="p">Уверите се да је <span class="gui">Сам закључај екран</span> пребачено на <span class="gui">УКЉ.</span>, затим изаберите временски период из падајућег списка.</p></li>
@@ -69,16 +69,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html" title="Подешавања приватности">Подешавања приватности</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Самостално закључајте ваш екран">Закључавање екрана</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Искључите или ограничите праћење историјата датотека">Историјат коришћења</a></span>, <span class="link"><a href="privacy-purge.html" title="Очистите смеће и привремене датотеке">Чишћење смећа и привремених датотека</a></span>…</span>
+<a href="privacy.html.sr" title="Подешавања приватности">Подешавања приватности</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.sr" title="Самостално закључајте ваш екран">Закључавање екрана</a></span>, <span class="link"><a href="privacy-history-recent-off.html.sr" title="Искључите или ограничите праћење историјата датотека">Историјат коришћења</a></span>, <span class="link"><a href="privacy-purge.html.sr" title="Очистите смеће и привремене датотеке">Чишћење смећа и привремених датотека</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="session-screenlocks.html" title="Екран се превише брзо закључава">Екран се превише брзо закључава</a><span class="desc"> — Измените након ког времена ће се закључати екран у подешавањима <span class="gui">Приватности</span>.</span>
+<a href="session-screenlocks.html.sr" title="Екран се превише брзо закључава">Екран се превише брзо закључава</a><span class="desc"> — Измените након ког времена ће се закључати екран у подешавањима <span class="gui">Приватности</span>.</span>
 </li>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Закључавање екрана">Закључавање екрана</a></li>
+<li class="links "><a href="shell-exit.html.sr#lock-screen" title="Закључавање екрана">Закључавање екрана</a></li>
 </ul></div>
 </div></div>
 </div>

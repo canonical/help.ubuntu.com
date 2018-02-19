@@ -43,24 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Pencetakan</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html" title="How can I check my printer’s ink or toner levels?"><span class="title">How can I check my printer’s ink or toner levels?</span><span class="linkdiv-dash"> — </span><span class="desc">Periksalah banyaknya tinta atau toner yang tersisa dalam cartridge pencetak.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html" title="Cetak ke berkas"><span class="title">Cetak ke berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Save a document as a PDF, PostScript or SVG file instead of sending
+<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.id" title="How can I check my printer’s ink or toner levels?"><span class="title">How can I check my printer’s ink or toner levels?</span><span class="linkdiv-dash"> — </span><span class="desc">Periksalah banyaknya tinta atau toner yang tersisa dalam cartridge pencetak.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html.id" title="Cetak ke berkas"><span class="title">Cetak ke berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Save a document as a PDF, PostScript or SVG file instead of sending
     it to a printer.</span></a></div>
 </div></div></div></div>
 <div id="setup" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Menyiapkan pencetak</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-setup.html" title="Mempersiapkan pencetak lokal"><span class="title">Mempersiapkan pencetak lokal</span><span class="linkdiv-dash"> — </span><span class="desc">Menyiapkan pencetak yang terhubung ke komputer Anda.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html" title="Atur pencetak baku"><span class="title">Atur pencetak baku</span><span class="linkdiv-dash"> — </span><span class="desc">Pick the printer that you use most often.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-setup.html.id" title="Mempersiapkan pencetak lokal"><span class="title">Mempersiapkan pencetak lokal</span><span class="linkdiv-dash"> — </span><span class="desc">Menyiapkan pencetak yang terhubung ke komputer Anda.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html.id" title="Atur pencetak baku"><span class="title">Atur pencetak baku</span><span class="linkdiv-dash"> — </span><span class="desc">Pick the printer that you use most often.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-name-location.html" title="Change the name or location of a printer"><span class="title">Change the name or location of a printer</span><span class="linkdiv-dash"> — </span><span class="desc">Change the name or location of a printer in the printer
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-name-location.html.id" title="Change the name or location of a printer"><span class="title">Change the name or location of a printer</span><span class="linkdiv-dash"> — </span><span class="desc">Change the name or location of a printer in the printer
     settings.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
@@ -68,16 +68,16 @@
 <div class="hgroup"><h2 class="title"><span class="title">Tata letak dan ukuran kertas yang berbeda</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-select.html" title="Hanya mencetak halaman tertentu"><span class="title">Hanya mencetak halaman tertentu</span><span class="linkdiv-dash"> — </span><span class="desc">Mencetak hanya halaman tertentu, atau hanya suatu jangkauan halaman.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-order.html" title="Make pages print in a different order"><span class="title">Make pages print in a different order</span><span class="linkdiv-dash"> — </span><span class="desc">Collate and reverse the print order.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html" title="Mencetak booklet"><span class="title">Mencetak booklet</span><span class="linkdiv-dash"> — </span><span class="desc">How to print a folded, multi-page booklet using A4 or Letter-sized
+<div class="linkdiv "><a class="linkdiv" href="printing-select.html.id" title="Hanya mencetak halaman tertentu"><span class="title">Hanya mencetak halaman tertentu</span><span class="linkdiv-dash"> — </span><span class="desc">Mencetak hanya halaman tertentu, atau hanya suatu jangkauan halaman.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-order.html.id" title="Make pages print in a different order"><span class="title">Make pages print in a different order</span><span class="linkdiv-dash"> — </span><span class="desc">Collate and reverse the print order.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.id" title="Mencetak booklet"><span class="title">Mencetak booklet</span><span class="linkdiv-dash"> — </span><span class="desc">How to print a folded, multi-page booklet using A4 or Letter-sized
     paper.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html" title="Mengubah ukuran kertas ketika mencetak"><span class="title">Mengubah ukuran kertas ketika mencetak</span><span class="linkdiv-dash"> — </span><span class="desc">Mencetak dokumen pada kertas dengan ukuran atau orientasi yang berbeda.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html" title="Print envelopes"><span class="title">Print envelopes</span><span class="linkdiv-dash"> — </span><span class="desc">Make sure that you have the envelope the right way up, and have
+<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html.id" title="Mengubah ukuran kertas ketika mencetak"><span class="title">Mengubah ukuran kertas ketika mencetak</span><span class="linkdiv-dash"> — </span><span class="desc">Mencetak dokumen pada kertas dengan ukuran atau orientasi yang berbeda.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.id" title="Print envelopes"><span class="title">Print envelopes</span><span class="linkdiv-dash"> — </span><span class="desc">Make sure that you have the envelope the right way up, and have
     chosen the correct paper size.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html" title="Print two-sided and multi-page layouts"><span class="title">Print two-sided and multi-page layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Print on both sides of the paper, or multiple pages per sheet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html.id" title="Print two-sided and multi-page layouts"><span class="title">Print two-sided and multi-page layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Print on both sides of the paper, or multiple pages per sheet.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -86,18 +86,18 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html" title="Membatalkan, mengistirahakan, atau melepas suatu tugas pencetakan"><span class="title">Membatalkan, mengistirahakan, atau melepas suatu tugas pencetakan</span><span class="linkdiv-dash"> — </span><span class="desc">Membatalkan suatu tugas pencetakan yang tertunda dan menghapusnya dari antrian.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html" title="Membersihkan kertas yang macet"><span class="title">Membersihkan kertas yang macet</span><span class="linkdiv-dash"> — </span><span class="desc">How you clear a paper jam will depend on the make and model of
+<div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html.id" title="Membatalkan, mengistirahakan, atau melepas suatu tugas pencetakan"><span class="title">Membatalkan, mengistirahakan, atau melepas suatu tugas pencetakan</span><span class="linkdiv-dash"> — </span><span class="desc">Membatalkan suatu tugas pencetakan yang tertunda dan menghapusnya dari antrian.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html.id" title="Membersihkan kertas yang macet"><span class="title">Membersihkan kertas yang macet</span><span class="linkdiv-dash"> — </span><span class="desc">How you clear a paper jam will depend on the make and model of
     printer that you have.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-streaks.html" title="Mengapa ada coretan, garis, atau warna yang salah pada hasil cetakan saya?"><span class="title">Mengapa ada coretan, garis, atau warna yang salah pada hasil cetakan saya?</span><span class="linkdiv-dash"> — </span><span class="desc">If print-outs are streaky, fading, or missing colors, check your ink
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-streaks.html.id" title="Mengapa ada coretan, garis, atau warna yang salah pada hasil cetakan saya?"><span class="title">Mengapa ada coretan, garis, atau warna yang salah pada hasil cetakan saya?</span><span class="linkdiv-dash"> — </span><span class="desc">If print-outs are streaky, fading, or missing colors, check your ink
     levels or clean the print head.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Informasi Lanjut</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Masalah umum">Masalah-masalah perangkat keras</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.id#problems" title="Masalah umum">Masalah-masalah perangkat keras</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -107,7 +107,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Perangkat keras &amp; penggerak">Perangkat keras &amp; penggerak</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Masalah umum">Masalah perangkat keras</a></span>, <span class="link"><a href="printing.html" title="Pencetakan">pencetak</a></span>, <span class="link"><a href="power.html" title="Daya &amp; baterai">pengaturan daya</a></span>, <span class="link"><a href="color.html" title="Manajemen warna">manajemen warna</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Disk &amp; penyimpanan">disk</a></span>…</span>
+<a href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras &amp; penggerak</a><span class="desc"> — <span class="link"><a href="hardware.html.id#problems" title="Masalah umum">Masalah perangkat keras</a></span>, <span class="link"><a href="printing.html.id" title="Pencetakan">pencetak</a></span>, <span class="link"><a href="power.html.id" title="Daya &amp; baterai">pengaturan daya</a></span>, <span class="link"><a href="color.html.id" title="Manajemen warna">manajemen warna</a></span>, <span class="link"><a href="bluetooth.html.id" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.id" title="Disk &amp; penyimpanan">disk</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="accounts.html" title="Akun daring">Akun daring</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="accounts.html.id" title="Akun daring">Akun daring</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tambahkan akun</span></h1></div>
@@ -51,23 +51,23 @@
 <div class="contents">
 <p class="p">Menambahkan akun akan membantu menghubungkan akun daring Anda dengan desktop GNOME Anda. Jadi, program surel, program obrolan, dan aplikasi terkait lain akan disiapkan untuk Anda.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akun Daring</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akun Daring</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akun Daring</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Klik tombol <span class="gui">+</span> di pojok kiri bawah jendela.</p></li>
 <li class="steps"><p class="p">Pilih tipe akun yang ingin Anda tambah.</p></li>
 <li class="steps"><p class="p">Suatu dialog atau jendela situs web kecil akan terbuka dimana Anda dapat memasukkan kredensial akun daring Anda. Sebagai contoh, bila Anda menyiapkan akun Google, masukkan nama pengguna dan sandi Google Anda. Beberapa penyedia mengizinkan Anda membuat sebuah akun baru dari dialog log masuk.</p></li>
 <li class="steps"><p class="p">Bila Anda telah memasukkan kredensial dengan benar, Anda akan ditanya untuk mengijinkan GNOME mengakses akun daring Anda. Berikan otorisasi akses untuk melanjutkan.</p></li>
-<li class="steps"><p class="p">Semua layanan yang ditawarkan oleh penyedia akun akan difungsikan secara baku. <span class="link"><a href="accounts-disable-service.html" title="Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana">Matikan</a></span> layanan individu untuk menonaktifkan mereka.</p></li>
+<li class="steps"><p class="p">Semua layanan yang ditawarkan oleh penyedia akun akan difungsikan secara baku. <span class="link"><a href="accounts-disable-service.html.id" title="Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana">Matikan</a></span> layanan individu untuk menonaktifkan mereka.</p></li>
 </ol></div></div></div>
-<p class="p">Setelah Anda menambahkan akun, aplikasi dapat menggunakan akun-akun tersebut untuk layanan yang telah Anda pilih untuk diizinkan. Lihat <span class="link"><a href="accounts-disable-service.html" title="Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana">Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana</a></span> untuk informasi tentang mengendalikan layanan mana yang diizinkan.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Banyak layanan daring menyediakan suatu token otorisasi yang disimpan oleh GNOME sebagai pengganti kata sandi. Bila Anda menghapus suatu akun, Anda juga mesti mencabut sertifikat itu dalam layanan daring. Lihat <span class="link"><a href="accounts-remove.html" title="Menghapus sebuah akun">Menghapus sebuah akun</a></span> untuk informasi lebih lanjut.</p></div></div></div></div>
+<p class="p">Setelah Anda menambahkan akun, aplikasi dapat menggunakan akun-akun tersebut untuk layanan yang telah Anda pilih untuk diizinkan. Lihat <span class="link"><a href="accounts-disable-service.html.id" title="Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana">Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana</a></span> untuk informasi tentang mengendalikan layanan mana yang diizinkan.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Banyak layanan daring menyediakan suatu token otorisasi yang disimpan oleh GNOME sebagai pengganti kata sandi. Bila Anda menghapus suatu akun, Anda juga mesti mencabut sertifikat itu dalam layanan daring. Lihat <span class="link"><a href="accounts-remove.html.id" title="Menghapus sebuah akun">Menghapus sebuah akun</a></span> untuk informasi lebih lanjut.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Akun daring">Akun daring</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Tambahkan akun">Menambahkan suatu akun daring</a></span>, <span class="link"><a href="accounts-remove.html" title="Menghapus sebuah akun">Menghapus suatu akun</a></span>, <span class="link"><a href="accounts-which-application.html" title="Aplikasi dan layanan daring">Mempelajari tentang layanan</a></span>…</span>
+<a href="accounts.html.id" title="Akun daring">Akun daring</a><span class="desc"> — <span class="link"><a href="accounts-add.html.id" title="Tambahkan akun">Menambahkan suatu akun daring</a></span>, <span class="link"><a href="accounts-remove.html.id" title="Menghapus sebuah akun">Menghapus suatu akun</a></span>, <span class="link"><a href="accounts-which-application.html.id" title="Aplikasi dan layanan daring">Mempelajari tentang layanan</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

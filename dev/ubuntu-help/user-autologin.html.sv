@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="user-accounts.html" title="Användarkonton">Användare</a> › <a class="trail" href="user-accounts.html#manage" title="Hantera användarkonton">Konton</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="user-accounts.html.sv" title="Användarkonton">Användare</a> › <a class="trail" href="user-accounts.html.sv#manage" title="Hantera användarkonton">Konton</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Logga in automatiskt</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Du kan ändra dina inställningar så att du loggas in automatiskt på ditt konto när du startar din dator:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Användare</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Användare</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Användare</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Välj användarkontot du vill logga in som automatiskt vid uppstart.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="gui">Lås upp</span> och mata in ditt lösenord.</p></li>
@@ -65,12 +65,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Hantera användarkonton">Hantera användarkonton</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.sv#manage" title="Hantera användarkonton">Hantera användarkonton</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-exit.html" title="Logga ut, stäng av eller växla användare">Logga ut, stäng av eller växla användare</a><span class="desc"> — Lär dig hur du lämnar ditt användarkonto genom att logga ut, växla användare, och så vidare.</span>
+<a href="shell-exit.html.sv" title="Logga ut, stäng av eller växla användare">Logga ut, stäng av eller växla användare</a><span class="desc"> — Lär dig hur du lämnar ditt användarkonto genom att logga ut, växla användare, och så vidare.</span>
 </li></ul></div>
 </div></div>
 </div>

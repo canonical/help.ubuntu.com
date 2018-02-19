@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html#apps" title="Aplikace a okna">Aplikace a okna</a> » <a class="trail" href="shell-windows.html" title="Okna a pracovní plochy">Okna a pracovní plochy</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Práce s okny">Okna</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.cs" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html.cs#apps" title="Aplikace a okna">Aplikace a okna</a> » <a class="trail" href="shell-windows.html.cs" title="Okna a pracovní plochy">Okna a pracovní plochy</a> › <a class="trail" href="shell-windows.html.cs#working-with-windows" title="Práce s okny">Okna</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Přesun a změna velikosti okna</span></h1></div>
@@ -51,17 +51,17 @@
 <div class="contents">
 <p class="p">Aby se vám lépe pracovalo, můžete si okna přesouvat a měnit jejich velikost. Mimo běžného přetahování, které funguje jak se očekává, nabízí GNOME i klávesové zkratky a modifikátory, které dokáží uspořádávání oken urychlit.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Okno přesunete jeho chycením za záhlaví, nebo držte zmáčknutý <span class="key"><a href="keyboard-key-super.html" title="Co je klávesa Super?"><kbd>Super</kbd></a></span> a můžete jej chytit kdekoliv. Když budete při přesunu držet zmáčknutý <span class="key"><kbd>Shift</kbd></span>, bude se okno přichytávat k okrajům obrazovky nebo jiným oknům.</p></li>
+<li class="list"><p class="p">Okno přesunete jeho chycením za záhlaví, nebo držte zmáčknutý <span class="key"><a href="keyboard-key-super.html.cs" title="Co je klávesa Super?"><kbd>Super</kbd></a></span> a můžete jej chytit kdekoliv. Když budete při přesunu držet zmáčknutý <span class="key"><kbd>Shift</kbd></span>, bude se okno přichytávat k okrajům obrazovky nebo jiným oknům.</p></li>
 <li class="list"><p class="p">Velikost okna změníte tažením okraje nebo rohu okna. Když budete při změně velikosti držet zmáčknutý <span class="key"><kbd>Shift</kbd></span>, bude se okno přichytávat k okrajům obrazovky nebo jiným oknům.</p></li>
 <li class="list"><p class="p">Měnit velikost oken, nebo je přesouvat, lze i čistě pomocí klávesnice. Pro přesun okna zmáčkněte <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span>, pro změnu velikosti <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span>. Pak pro přesun nebo změnu velikosti použijte kurzorové šipky a následně zmáčkněte <span class="key"><kbd>Enter</kbd></span> pro dokončení nebo <span class="key"><kbd>Esc</kbd></span> pro vrácení na původní místo a velikost.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Maximalizace a zrušení maximalizace okna">Maximalizovat okno</a></span> můžete jeho tažením k horní části obrazovky. Tažením k jedné z bočních stran obrazovky jej maximalizujete podél této strany, což umožňuje <span class="link"><a href="shell-windows-tiled.html" title="Dláždění oken">dláždit okna vedle sebe</a></span>.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html.cs" title="Maximalizace a zrušení maximalizace okna">Maximalizovat okno</a></span> můžete jeho tažením k horní části obrazovky. Tažením k jedné z bočních stran obrazovky jej maximalizujete podél této strany, což umožňuje <span class="link"><a href="shell-windows-tiled.html.cs" title="Dláždění oken">dláždit okna vedle sebe</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Práce s okny">Práce s okny</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.cs#working-with-windows" title="Práce s okny">Práce s okny</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

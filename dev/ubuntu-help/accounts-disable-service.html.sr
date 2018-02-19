@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="accounts.html" title="Налози на мрежи">Налози на мрежи</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="accounts.html.sr" title="Налози на мрежи">Налози на мрежи</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Одредите којим услугама на мрежи може да приступи налог</span></h1></div>
@@ -52,10 +52,10 @@
 <p class="p">Неке врсте достављача налога на мрежи вам допуштају да истим корисничким налогом имате приступ на неколико услуга. На пример, Гугл налози обезбеђују приступ календару, е-пошти, контактима и ћаскању. Можете пожелети да користите ваш налог за неке услуге, али не и за остале. На пример, можда ћете желети да користите Гугл налог за е-пошту али не и за ћаскање ако имате другачији налог на мрежи који користите за ћаскање.</p>
 <p class="p">Можете да искључите неке услуге које су достављене сваким налогом на мрежи:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-terminology.html" title="shell-terminology">Активности</a></span> и почните да куцате <span class="gui">Налози на мрежи</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-terminology.html.sr" title="shell-terminology">Активности</a></span> и почните да куцате <span class="gui">Налози на мрежи</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">налоге на мрежи</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Изаберите налог који желите да измените са списка на левој страни.</p></li>
-<li class="steps"><p class="p">Списак услуга које су доступне са овим налогом биће приказане под <span class="gui">Користи за</span>. Погледајте <span class="link"><a href="accounts-which-application.html" title="Услуге и програми на мрежи">Услуге и програми на мрежи</a></span> да видите који програми приступају којим услугама.</p></li>
+<li class="steps"><p class="p">Списак услуга које су доступне са овим налогом биће приказане под <span class="gui">Користи за</span>. Погледајте <span class="link"><a href="accounts-which-application.html.sr" title="Услуге и програми на мрежи">Услуге и програми на мрежи</a></span> да видите који програми приступају којим услугама.</p></li>
 <li class="steps"><p class="p">Искључите све оне услуге које не желите да користите.</p></li>
 </ol></div></div></div>
 <p class="p">Када искључите услугу за налог, програми на вашем рачунару неће више бити у могућности да користе налог да се повежу на ту услугу.</p>
@@ -67,17 +67,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Налози на мрежи">Налози на мрежи</a><span class="desc"> — <span class="link"><a href="accounts-create.html" title="accounts-create">Додајте налог на мрежи</a></span>, <span class="link"><a href="accounts-add.html" title="Додајте налог">Уклоните налог</a></span>, <span class="link"><a href="accounts-remove.html" title="Уклоните налог">Сазнајте о услугама</a></span>…</span>
+<a href="accounts.html.sr" title="Налози на мрежи">Налози на мрежи</a><span class="desc"> — <span class="link"><a href="accounts-create.html.sr" title="accounts-create">Додајте налог на мрежи</a></span>, <span class="link"><a href="accounts-add.html.sr" title="Додајте налог">Уклоните налог</a></span>, <span class="link"><a href="accounts-remove.html.sr" title="Уклоните налог">Сазнајте о услугама</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="accounts-remove.html" title="Уклоните налог">Уклоните налог</a><span class="desc"> — Уклоните приступ достављачу услуге на мрежи из ваших програма.</span>
+<a href="accounts-remove.html.sr" title="Уклоните налог">Уклоните налог</a><span class="desc"> — Уклоните приступ достављачу услуге на мрежи из ваших програма.</span>
 </li>
 <li class="links ">
-<a href="accounts-which-application.html" title="Услуге и програми на мрежи">Услуге и програми на мрежи</a><span class="desc"> — Програми могу да користе налоге направљене у <span class="app">Налозима на мрежи</span> и услуге које искоришћавају.</span>
+<a href="accounts-which-application.html.sr" title="Услуге и програми на мрежи">Услуге и програми на мрежи</a><span class="desc"> — Програми могу да користе налоге направљене у <span class="app">Налозима на мрежи</span> и услуге које искоришћавају.</span>
 </li>
 </ul></div>
 </div></div>

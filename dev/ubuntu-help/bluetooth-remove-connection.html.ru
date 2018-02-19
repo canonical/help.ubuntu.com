@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="bluetooth.html.ru" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Disconnect a Bluetooth device</span></h1></div>
@@ -54,14 +54,15 @@
   like a mouse or headset, or if you no longer wish to transfer files to or
   from a device.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Нажмите на значок Bluetooth в <span class="gui">панели меню</span> и выберите <span class="gui">Настроить Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Выберите <span class="gui">Параметры Bluetooth</span>, чтобы открыть панель.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
+      start typing <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select the device which you want to disconnect from the list.</p></li>
 <li class="steps"><p class="p">In the device dialog box, switch <span class="gui">Connection</span> to
       <span class="gui">OFF</span>, or to remove the device from the <span class="gui">Devices</span> list,
       click <span class="gui">Remove Device</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Позже при необходимости вы сможете повторно <span class="link"><a href="bluetooth-connect-device.html" title="Соединение компьютера с устройством Bluetooth">подключиться к устройству Bluetooth</a></span>.</p>
+<p class="p">Позже при необходимости вы сможете повторно <span class="link"><a href="bluetooth-connect-device.html.ru" title="Соединение компьютера с устройством Bluetooth">подключиться к устройству Bluetooth</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -69,13 +70,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Соединение компьютера с устройством Bluetooth">Подключение</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Отправка файлов на устройство Bluetooth">передача файлов</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Включение и выключение Bluetooth">включение и отключение</a></span>…</span>
+<a href="bluetooth.html.ru" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.ru" title="Соединение компьютера с устройством Bluetooth">Подключение</a></span>, <span class="link"><a href="bluetooth-send-file.html.ru" title="Отправка файлов на устройство Bluetooth">передача файлов</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ru" title="Включение и выключение Bluetooth">включение и отключение</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth-connect-device.html" title="Соединение компьютера с устройством Bluetooth">Соединение компьютера с устройством Bluetooth</a><span class="desc"> — Сопряжение устройств Bluetooth.</span>
+<a href="bluetooth-connect-device.html.ru" title="Соединение компьютера с устройством Bluetooth">Соединение компьютера с устройством Bluetooth</a><span class="desc"> — Сопряжение устройств Bluetooth.</span>
 </li></ul></div>
 </div></div>
 </div>

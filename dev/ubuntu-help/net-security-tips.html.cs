@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-general.html" title="Terminologie sítí a rady">Terminologie sítí a rady</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-general.html.cs" title="Terminologie sítí a rady">Terminologie sítí a rady</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Jak zůstat na Internetu v bezpečí</span></h1></div>
@@ -53,16 +53,16 @@
 <p class="p">I přes opatření činěná proto, aby byla vaše instalace Linuxu bezpečná, vždy se vyskytnou nějaká zranitelná místa. Jako běžný uživatel Internetu byste měli dávat pozor na:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Phishingové podvody (tzv. rhybaření) – webové stránka nebo e-mail se od vás snaží vylákat citlivé informace</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html" title="Potřebuji kontrolovat své e-maily ohledně virů?">Předávání zákeřných e-mailů</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html" title="Potřebuji antivirový software?">Aplikace se zákeřnými záměry (viry)</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html" title="Co znamená WEP a WPA?">Neoprávněný přístup do vzdálené/místní sítě</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.cs" title="Potřebuji kontrolovat své e-maily ohledně virů?">Předávání zákeřných e-mailů</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.cs" title="Potřebuji antivirový software?">Aplikace se zákeřnými záměry (viry)</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.cs" title="Co znamená WEP a WPA?">Neoprávněný přístup do vzdálené/místní sítě</a></span></p></li>
 </ul></div></div></div>
 <p class="p">Abyste i on-line zůstali v bezpečí, mějte na paměti následující rady:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Buďte obezřetní ohledně pošty, příloh a odkazů, které jste obdrželi od neznámých lidí.</p></li>
 <li class="list"><p class="p">Pokud se nabídka webové stránky zdá až nápadně výhodná, nebo jste tázání na důvěrné informace, které k danému účelu nejsou zapotřebí, rozmyslete se dvakrát, než tyto informace sdělíte a zvažte případné následky, co by se stalo, kdyby se dostali ke zlodějům identit nebo jiným kriminálním živlům.</p></li>
-<li class="list"><p class="p">Buďte obezřetní v poskytování <span class="link"><a href="user-admin-explain.html" title="Jak fungují oprávnění správce?">správcovské úrovně oprávnění</a></span> aplikacím, hlavně těm, které jste zatím nepoužívali, nebo které dobře neznáte. Poskytnutí správcovské úrovně oprávnění komukoliv nebo čemukoliv vystavuje váš počítač vysokému riziku jeho zneužití.</p></li>
-<li class="list"><p class="p">Ujistěte se, že běží jen nejnutnější služby poskytující vzdálený přístup. Mít spuštěné servery SSH a VNC se sice hodí, ale na druhou stranu, když nejsou správně nastavené, jsou otevřenými dveřmi pro útočníky. Zvažte používání <span class="link"><a href="net-firewall-on-off.html" title="Povolení nebo blokování přístupu na firewallu">firewallu</a></span> k ochraně svého počítače před vetřelci.</p></li>
+<li class="list"><p class="p">Buďte obezřetní v poskytování <span class="link"><a href="user-admin-explain.html.cs" title="Jak fungují oprávnění správce?">správcovské úrovně oprávnění</a></span> aplikacím, hlavně těm, které jste zatím nepoužívali, nebo které dobře neznáte. Poskytnutí správcovské úrovně oprávnění komukoliv nebo čemukoliv vystavuje váš počítač vysokému riziku jeho zneužití.</p></li>
+<li class="list"><p class="p">Ujistěte se, že běží jen nejnutnější služby poskytující vzdálený přístup. Mít spuštěné servery SSH a VNC se sice hodí, ale na druhou stranu, když nejsou správně nastavené, jsou otevřenými dveřmi pro útočníky. Zvažte používání <span class="link"><a href="net-firewall-on-off.html.cs" title="Povolení nebo blokování přístupu na firewallu">firewallu</a></span> k ochraně svého počítače před vetřelci.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -70,7 +70,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Terminologie sítí a rady">Terminologie sítí a rady</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="Zjištění vaší IP adresy">Zjištění vaší adresy IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html" title="Co znamená WEP a WPA?">zabezpečení WEP a WPA</a></span>, <span class="link"><a href="net-macaddress.html" title="Co je to MAC adresa?">adresa MAC</a></span>, <span class="link"><a href="net-proxy.html" title="Nastavení proxy">proxy</a></span>…</span>
+<a href="net-general.html.cs" title="Terminologie sítí a rady">Terminologie sítí a rady</a><span class="desc"> — <span class="link"><a href="net-findip.html.cs" title="Zjištění vaší IP adresy">Zjištění vaší adresy IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.cs" title="Co znamená WEP a WPA?">zabezpečení WEP a WPA</a></span>, <span class="link"><a href="net-macaddress.html.cs" title="Co je to MAC adresa?">adresa MAC</a></span>, <span class="link"><a href="net-proxy.html.cs" title="Nastavení proxy">proxy</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

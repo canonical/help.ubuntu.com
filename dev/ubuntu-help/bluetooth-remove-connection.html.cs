@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="bluetooth.html.cs" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Odpojení zařízení Bluetooth</span></h1></div>
@@ -51,12 +51,12 @@
 <div class="contents">
 <p class="p">V případě, že již nadále nechcete být se zařízením Bluetooth spojeni, můžete spojení odebrat. To se hodí, když již nadále nechcete používat zařízení, jako je myš nebo sluchátka, nebo když si nadále nepřejete přenášet soubor do nebo ze zařízení.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klikněte na ikonu Bluetooth v <span class="gui">nabídkové liště</span> a vyberte <span class="gui">Nastavení Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Kliknutím na <span class="gui">Nastavení Bluetooth</span> otevřete příslušný panel.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Kliknutím na <span class="gui">Bluetooth</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Vyberte v seznamu zařízení, které chcete odpojit.</p></li>
 <li class="steps"><p class="p">V dialogovém okně zařízení přepněte <span class="gui">Připojení</span> na <span class="gui">○</span> (vypnuto) nebo odeberte zařízení ze seznamu <span class="gui">Zařízení</span> kliknutím na <span class="gui">Odebrat zařízení</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Když si to budete přát, můžete později <span class="link"><a href="bluetooth-connect-device.html" title="Připojení počítače k zařízení Bluetooth">zařízení Bluetooth znovu připojit</a></span>.</p>
+<p class="p">Když si to budete přát, můžete později <span class="link"><a href="bluetooth-connect-device.html.cs" title="Připojení počítače k zařízení Bluetooth">zařízení Bluetooth znovu připojit</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -64,13 +64,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Připojení počítače k zařízení Bluetooth">Připojení</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Posílání souborů do zařízení Bluetooth">posílání souborů</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Zapnutí nebo vypnutí Bluetooth">zapnutí a vypnutí</a></span>…</span>
+<a href="bluetooth.html.cs" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.cs" title="Připojení počítače k zařízení Bluetooth">Připojení</a></span>, <span class="link"><a href="bluetooth-send-file.html.cs" title="Posílání souborů do zařízení Bluetooth">posílání souborů</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.cs" title="Zapnutí nebo vypnutí Bluetooth">zapnutí a vypnutí</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth-connect-device.html" title="Připojení počítače k zařízení Bluetooth">Připojení počítače k zařízení Bluetooth</a><span class="desc"> — Jak spárovat zařízení Bluetooth.</span>
+<a href="bluetooth-connect-device.html.cs" title="Připojení počítače k zařízení Bluetooth">Připojení počítače k zařízení Bluetooth</a><span class="desc"> — Jak spárovat zařízení Bluetooth.</span>
 </li></ul></div>
 </div></div>
 </div>

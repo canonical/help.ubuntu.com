@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Trucos y consejos</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Atajos de teclado útiles"><span class="title">Atajos de teclado útiles</span><span class="linkdiv-dash"> — </span><span class="desc">Moverse por el escritorio usando el teclado.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html" title="Capturas de pantalla y grabaciones de vídeo"><span class="title">Capturas de pantalla y grabaciones de vídeo</span><span class="linkdiv-dash"> — </span><span class="desc">Obtener una imagen o grabar un vídeo de lo que ocurre en su pantalla.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="gnome-version.html" title="Determinar qué versión de GNOME se está ejecutando."><span class="title">Determinar qué versión de GNOME se está ejecutando.</span><span class="linkdiv-dash"> — </span><span class="desc">Cómo determinar qué versión de GNOME se está ejecutando.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html" title="Insertar caracteres especiales"><span class="title">Insertar caracteres especiales</span><span class="linkdiv-dash"> — </span><span class="desc">Escriba los caracteres que no se encuentran en el teclado, incluidos los alfabetos extranjeros, símbolos matemáticos y «dingbats».</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Pulsación central"><span class="title">Pulsación central</span><span class="linkdiv-dash"> — </span><span class="desc">Use el botón central para abrir aplicaciones, abrir pestañas y más.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.es" title="Atajos de teclado útiles"><span class="title">Atajos de teclado útiles</span><span class="linkdiv-dash"> — </span><span class="desc">Moverse por el escritorio usando el teclado.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html.es" title="Capturas de pantalla y grabaciones de vídeo"><span class="title">Capturas de pantalla y grabaciones de vídeo</span><span class="linkdiv-dash"> — </span><span class="desc">Obtener una imagen o grabar un vídeo de lo que ocurre en su pantalla.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="gnome-version.html.es" title="Determinar qué versión de GNOME se está ejecutando."><span class="title">Determinar qué versión de GNOME se está ejecutando.</span><span class="linkdiv-dash"> — </span><span class="desc">Cómo determinar qué versión de GNOME se está ejecutando.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html.es" title="Insertar caracteres especiales"><span class="title">Insertar caracteres especiales</span><span class="linkdiv-dash"> — </span><span class="desc">Escriba los caracteres que no se encuentran en el teclado, incluidos los alfabetos extranjeros, símbolos matemáticos y «dingbats».</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.es" title="Pulsación central"><span class="title">Pulsación central</span><span class="linkdiv-dash"> — </span><span class="desc">Use el botón central para abrir aplicaciones, abrir pestañas y más.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Guía del escritorio de Ubuntu">Guía del escritorio de Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.es" title="Guía del escritorio de Ubuntu">Guía del escritorio de Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

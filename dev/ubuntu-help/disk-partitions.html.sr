@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="disk.html" title="Дискови и складишта">Дискови и складишта</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="disk.html.sr" title="Дискови и складишта">Дискови и складишта</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Управљајте волуменима и партицијама</span></h1></div>
@@ -73,7 +73,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html" title="Дискови и складишта">Дискови и складишта</a><span class="desc"> — <span class="link"><a href="disk-capacity.html" title="Проверите колико је преостало простора на диску">Простор на диску</a></span>, <span class="link"><a href="disk-check.html" title="Проверите ваш чврсти диск за проблемима">проблеми</a></span>, <span class="link"><a href="disk-partitions.html" title="Управљајте волуменима и партицијама">волумени и партиције</a></span>…</span>
+<a href="disk.html.sr" title="Дискови и складишта">Дискови и складишта</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.sr" title="Проверите колико је преостало простора на диску">Простор на диску</a></span>, <span class="link"><a href="disk-check.html.sr" title="Проверите ваш чврсти диск за проблемима">проблеми</a></span>, <span class="link"><a href="disk-partitions.html.sr" title="Управљајте волуменима и партицијама">волумени и партиције</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

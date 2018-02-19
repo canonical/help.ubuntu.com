@@ -44,19 +44,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="keyboard.html" title="Tipkovnica">Tipkovnica</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="keyboard.html" title="Tipkovnica">Tipkovnica</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="a11y.html" title="Splošni dostop">Splošni dostop</a> › <a class="trail" href="a11y.html#mobility" title="Težave z gibanjem">Težave z gibanjem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="a11y.html.sl" title="Splošni dostop">Splošni dostop</a> › <a class="trail" href="a11y.html.sl#mobility" title="Težave z gibanjem">Težave z gibanjem</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Krmarjenje s tipkami</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Ta stran opisuje krmarjenje s tipkovnico za ljudi, ki ne morejo uporabiti miške ali druge kazalne naprave ali za tiste, ki želijo tipkovnico uporabljati kolikor je le mogoče. Za tipkovne bližnjice, ki so uporabne za vse uporabnike, si oglejte <span class="link"><a href="shell-keyboard-shortcuts.html" title="Uporabne tipkovne bližnjice">Uporabne tipkovne bližnjice</a></span>.</p>
-<div class="note note-tip" title="Namig"><div class="inner"><div class="region"><div class="contents"><p class="p">V primeru da imate težave z uporabo miške ali druge kazalne naprave, lahko miškin kazalec nadzirate s številsko  tipkovnico. Za podrobnosti si oglejte <span class="link"><a href="mouse-mousekeys.html" title="Klik in premikanje miškinega kazalca s številsko tipkovnico">Klik in premikanje miškinega kazalca s številsko tipkovnico</a></span>.</p></div></div></div></div>
+<p class="p">Ta stran opisuje krmarjenje s tipkovnico za ljudi, ki ne morejo uporabiti miške ali druge kazalne naprave ali za tiste, ki želijo tipkovnico uporabljati kolikor je le mogoče. Za tipkovne bližnjice, ki so uporabne za vse uporabnike, si oglejte <span class="link"><a href="shell-keyboard-shortcuts.html.sl" title="Uporabne tipkovne bližnjice">Uporabne tipkovne bližnjice</a></span>.</p>
+<div class="note note-tip" title="Namig"><div class="inner"><div class="region"><div class="contents"><p class="p">V primeru da imate težave z uporabo miške ali druge kazalne naprave, lahko miškin kazalec nadzirate s številsko  tipkovnico. Za podrobnosti si oglejte <span class="link"><a href="mouse-mousekeys.html.sl" title="Klik in premikanje miškinega kazalca s številsko tipkovnico">Klik in premikanje miškinega kazalca s številsko tipkovnico</a></span>.</p></div></div></div></div>
 <div class="table"><div class="inner">
 <div class="title title-table"><h2><span class="title">Krmarjenje po uporabniškem vmesniku</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -104,12 +104,12 @@
 <td style="border-top-style: solid;"><p class="p">Odpre prvi meni v menijski vrstici okna. Uporabite smerne tipke za krmarjenje po menijih.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html.sl" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Odprite meni programi v vrhnji vrstici.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or
-    <span class="key"><a href="keyboard-key-menu.html" title="What is the Menu key?"><kbd>Menu</kbd></a></span></p></td>
+    <span class="key"><a href="keyboard-key-menu.html.sl" title="What is the Menu key?"><kbd>Menu</kbd></a></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Prikaže vsebinski meni za trenutno izbiro kot če bi desno kliknili.</p></td>
 </tr>
 <tr>
@@ -128,13 +128,13 @@
 <tr>
 <td><p class="p">
       <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> or the
-      <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span> key
+      <span class="key"><a href="keyboard-key-super.html.sl" title="What is the Super key?"><kbd>Super</kbd></a></span> key
     </p></td>
 <td><p class="p">Preklopi med pregledom <span class="gui">Dejavnosti</span> in namizjem. V pregledu začnite tipkati za hipno iskanje po programih, stikih in dokumentih.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Preklop med okni">Quickly switch between
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.sl" title="Preklop med okni">Quickly switch between
     windows</a></span>. Hold down <span class="key"><kbd>Shift</kbd></span> for reverse order.</p></td>
 </tr>
 <tr>
@@ -161,7 +161,7 @@
       <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> or
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span>
     </p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Preklop med delovnimi površinami">Switch between
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.sl" title="Preklop med delovnimi površinami">Switch between
      workspaces</a></span>.</p></td>
 </tr>
 <tr>
@@ -174,7 +174,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html#messagetray" title="Vrstica sporočanja">Open the message
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html.sl#messagetray" title="Vrstica sporočanja">Open the message
     tray.</a></span> Press <span class="key"><kbd>Esc</kbd></span> to close.</p></td>
 </tr>
 </table></div>
@@ -207,7 +207,7 @@
       <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> and
       <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span>
     </p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Premakne trenutno okno na drugo delovno površino">Move the current window to a
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.sl" title="Premakne trenutno okno na drugo delovno površino">Move the current window to a
      different workspace</a></span>.</p></td>
 </tr>
 <tr>
@@ -221,7 +221,7 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or
     <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Razpenjanje in pomanjšanje okna">Maximize</a></span> a window. Press
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html.sl" title="Razpenjanje in pomanjšanje okna">Maximize</a></span> a window. Press
     <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or
     <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> to
     restore a maximized window to its original size.</p></td>
@@ -257,16 +257,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Težave z gibanjem">Težave z gibanjem</a></li>
+<li class="links "><a href="a11y.html.sl#mobility" title="Težave z gibanjem">Težave z gibanjem</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Tipkovnica">Tipkovnica</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Uporaba nadomestnih razporeditev tipk">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span>
+<a href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sl" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html.sl#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Uporabne tipkovne bližnjice">Uporabne tipkovne bližnjice</a><span class="desc"> — Uporaba namizja s tipkovnico.</span>
+<a href="shell-keyboard-shortcuts.html.sl" title="Uporabne tipkovne bližnjice">Uporabne tipkovne bližnjice</a><span class="desc"> — Uporaba namizja s tipkovnico.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Ambiente grafico</a> › <a class="trail" href="shell-overview.html#apps" title="Applicazioni e finestre">Applicazioni e finestre</a> » <a class="trail" href="shell-windows.html" title="Finestre e spazi di lavoro">Finestre e spazi di lavoro</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Lavorare con le finestre">Finestre</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.it" title="Your desktop">Ambiente grafico</a> › <a class="trail" href="shell-overview.html.it#apps" title="Applicazioni e finestre">Applicazioni e finestre</a> » <a class="trail" href="shell-windows.html.it" title="Finestre e spazi di lavoro">Finestre e spazi di lavoro</a> › <a class="trail" href="shell-windows.html.it#working-with-windows" title="Lavorare con le finestre">Finestre</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Affiancare finestre</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">Una finestra può essere massimizzata solo verso destra o sinistra dello schermo, consentendo di posizionare due finestre una a fianco dell'altra.</p>
 <p class="p">To maximize a window along a side of the screen, grab the titlebar and
   drag it to the left or right side until half of the screen is highlighted.
-  Using the keyboard, hold down <span class="key"><a href="keyboard-key-super.html" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span> and
+  Using the keyboard, hold down <span class="key"><a href="keyboard-key-super.html.it" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span> and
   press the <span class="key"><kbd>Left</kbd></span> or <span class="key"><kbd>Right</kbd></span> key.</p>
 <p class="p">Per ripristinare una finestra alle sue dimensioni originali, trascinarla via dal lato dello schermo, oppure sfruttare la stessa scorciatoia usata per massimizzarla.</p>
 <div class="note note-tip" title="Suggerimento"><div class="inner"><div class="region"><div class="contents"><p class="p">Per spostare una finestra, tenere premuto il tasto <span class="key"><kbd>Alt</kbd></span> e fare clic in un punto qualsiasi della finestra.</p></div></div></div></div>
@@ -62,12 +62,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Lavorare con le finestre">Lavorare con le finestre</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.it#working-with-windows" title="Lavorare con le finestre">Lavorare con le finestre</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-maximize.html" title="Massimizzare e de-massimizzare una finestra">Massimizzare e de-massimizzare una finestra</a><span class="desc"> — Doppio-clic o trascinare la barra del titolo per massimizzare o ripristinare una finestra.</span>
+<a href="shell-windows-maximize.html.it" title="Massimizzare e de-massimizzare una finestra">Massimizzare e de-massimizzare una finestra</a><span class="desc"> — Doppio-clic o trascinare la barra del titolo per massimizzare o ripristinare una finestra.</span>
 </li></ul></div>
 </div></div>
 </div>

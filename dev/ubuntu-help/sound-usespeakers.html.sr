@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="media.html#sound" title="Основни звук">Звук</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="media.html.sr#sound" title="Основни звук">Звук</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Користите друге звучнике или слушалице</span></h1></div>
@@ -56,7 +56,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Изаберите основни улазни звучни уређај</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Звук</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Звук</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Звук</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">У језичку <span class="gui">Излаз</span>, изаберите уређај који желите да користите.</p></li>
 </ol></div>
@@ -69,13 +69,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="Основни звук">Основни звук</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Измените јачину звука">Јачина звука</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Користите друге звучнике или слушалице">звучници и слушалице са микрофоном</a></span>, <span class="link"><a href="sound-usemic.html" title="Користите други микрофон">микрофони</a></span>…</span>
+<a href="media.html.sr#sound" title="Основни звук">Основни звук</a><span class="desc"> — <span class="link"><a href="sound-volume.html.sr" title="Измените јачину звука">Јачина звука</a></span>, <span class="link"><a href="sound-usespeakers.html.sr" title="Користите друге звучнике или слушалице">звучници и слушалице са микрофоном</a></span>, <span class="link"><a href="sound-usemic.html.sr" title="Користите други микрофон">микрофони</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-usemic.html" title="Користите други микрофон">Користите други микрофон</a><span class="desc"> — Користите аналоган или УСБ микрофон и изаберите основни улазни уређај.</span>
+<a href="sound-usemic.html.sr" title="Користите други микрофон">Користите други микрофон</a><span class="desc"> — Користите аналоган или УСБ микрофон и изаберите основни улазни уређај.</span>
 </li></ul></div>
 </div></div>
 </div>

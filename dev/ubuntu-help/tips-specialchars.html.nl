@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Tips &amp; trucs">Tips &amp; trucs</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.nl" title="Tips &amp; trucs">Tips &amp; trucs</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Speciale tekens invoeren</span></h1></div>
@@ -55,27 +55,19 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Manieren om tekens in te voeren</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Tekens en symbolen">Tekens en symbolen</a></li>
-<li class="links "><a href="tips-specialchars.html#characters" title="Tekens en symbolen">Tekens en symbolen</a></li>
-<li class="links "><a href="tips-specialchars.html#compose" title="Samensteltoets">Samensteltoets</a></li>
-<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Codepunten">Codepunten</a></li>
-<li class="links "><a href="tips-specialchars.html#layout" title="Toetsenbordindelingen">Toetsenbordindelingen</a></li>
-<li class="links "><a href="tips-specialchars.html#im" title="Invoermethodes">Invoermethodes</a></li>
+<li class="links "><a href="tips-specialchars.html.nl#characters" title="Tekens en symbolen">Tekens en symbolen</a></li>
+<li class="links "><a href="tips-specialchars.html.nl#compose" title="Samensteltoets">Samensteltoets</a></li>
+<li class="links "><a href="tips-specialchars.html.nl#ctrlshiftu" title="Codepunten">Codepunten</a></li>
+<li class="links "><a href="tips-specialchars.html.nl#layout" title="Toetsenbordindelingen">Toetsenbordindelingen</a></li>
+<li class="links "><a href="tips-specialchars.html.nl#im" title="Invoermethodes">Invoermethodes</a></li>
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Tekens en symbolen</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">Gnome bevat een toepassing voor vreemde tekens en symbolen waarmee u door alle tekens in Unicode kunt bladeren. Gebruik Tekens en symbolen om het gewenste teken te zoeken en kopieer en plak dat waar u het nodig heeft.</p>
-<p class="p">U vindt <span class="app">Tekens en symbolen</span> in het <span class="gui">Activiteiten</span>-overzicht. Zie de <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">Handleiding Tekens en symbolen</a></span> voor meer informatie hierover.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tekens en symbolen</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Een andere handige toepassing die wordt geleverd met Gnome is <span class="app">Tekens en symbolen</span>. U kunt hiermee ongebruikelijke tekens zoeken en invoegen door teken-categorieën te doorzoeken met sleutelwoorden.</p>
-<p class="p">U vindt Tekens en Symbolen in het Activiteiten-overzicht. Zie de <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">Handleiding Tekens en symbolen</a></span> voor meer informatie hierover.</p>
+<p class="p">U vindt Tekens en Symbolen in het Activiteiten-overzicht. Zie de <span class="link"><a href="help:gnome-characters" title="help:gnome-characters">Handleiding Tekens en symbolen</a></span> voor meer informatie hierover.</p>
 </div></div>
 </div></div>
 <div id="compose" class="sect"><div class="inner">
@@ -87,15 +79,19 @@
 <div class="note note-important" title="Belangrijk"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
       change this setting.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Define a compose key</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Een samensteltoets definiëren</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span>
+        overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Keyboard &amp; Mouse</span> tab.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span> setting.</p></li>
-<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you want to use.</p></li>
-<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose key.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span>
+        setting.</p></li>
+<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you
+        want to use.</p></li>
+<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose
+        key.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div>
 </div></div>
@@ -123,7 +119,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Toetsenbordindelingen</span></h2></div>
-<div class="region"><div class="contents"><p class="p">U kunt ervoor zorgen dat uw toetsenbord zich gedraagt als een toetsenbord voor een andere taal, ongeacht de letters die op de toetsen staan. U kunt eenvoudig wisselen tussen verschillende toetsenbordindelingen via een pictogram in de menubalk. Hoe u dat doet leest u in <span class="link"><a href="keyboard-layouts.html" title="Alternatieve toetsenbordindelingen gebruiken">Alternatieve toetsenbordindelingen gebruiken</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">U kunt ervoor zorgen dat uw toetsenbord zich gedraagt als een toetsenbord voor een andere taal, ongeacht de letters die op de toetsen staan. U kunt eenvoudig wisselen tussen verschillende toetsenbordindelingen via een pictogram in de menubalk. Hoe u dat doet leest u in <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Alternatieve toetsenbordindelingen gebruiken</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Invoermethodes</span></h2></div>
@@ -138,13 +134,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Tips &amp; trucs">Tips &amp; trucs</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Speciale tekens invoeren">Speciale tekens</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Middelklik">middelmuisklik-sneltoetsen</a></span>...</span>
+<a href="tips.html.nl" title="Tips &amp; trucs">Tips &amp; trucs</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.nl" title="Speciale tekens invoeren">Speciale tekens</a></span>, <span class="link"><a href="mouse-middleclick.html.nl" title="Middelklik">middelmuisklik-sneltoetsen</a></span>...</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Alternatieve toetsenbordindelingen gebruiken">Alternatieve toetsenbordindelingen gebruiken</a><span class="desc"> — Toetsenbordindelingen toevoegen en tussen indelingen omschakelen</span>
+<a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Alternatieve toetsenbordindelingen gebruiken</a><span class="desc"> — Toetsenbordindelingen toevoegen en tussen indelingen omschakelen</span>
 </li></ul></div>
 </div></div>
 </div>

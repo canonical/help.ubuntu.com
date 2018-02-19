@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="media.html" title="Sonido, vídeo e imágenes">Sonido, vídeo e imágenes</a> › <a class="trail" href="media.html#videos" title="Vídeos y videocámaras">Vídeos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="media.html.es" title="Sonido, vídeo e imágenes">Sonido, vídeo e imágenes</a> › <a class="trail" href="media.html.es#videos" title="Vídeos y videocámaras">Vídeos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Otras personas no pueden reproducir los vídeos que yo hice</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">Si ha realizado un vídeo en su equipo GNU/Linux y lo envió a alguien que use Windows o Mac OS, es posible que tengan problemas para reproducir el vídeo.</p>
 <p class="p">Para poder reproducir su vídeo, la persona a la que lo envió debe tener los <span class="em">códecs</span> adecuados instalados. Un códec es una pequeña pieza de software que sabe cómo sacar el vídeo y mostrarlo en la pantalla. Hay muchos formatos de vídeo diferentes y cada uno requiere un códec para reproducirse. Puede comprobar el formato de su vídeo haciendo lo siguiente:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Abra <span class="app">Archivos</span> desde la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Activities</a></span>.</p></li>
+<li class="list"><p class="p">Abra <span class="app">Archivos</span> desde la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Activities</a></span>.</p></li>
 <li class="list"><p class="p">Pulse con el botón derecho del ratón sobre el archivo de vídeo y seleccione <span class="gui">Propiedades</span>.</p></li>
 <li class="list"><p class="p">Vaya a la pestaña <span class="gui">Sonido/Vídeo</span>o <span class="gui">Vídeo</span> y compruebe qué <span class="gui">Codificador</span> aparece en <span class="gui">Vídeo</span> y en <span class="gui">Sonido</span> (si el vídeo también tiene sonido).</p></li>
 </ul></div></div></div>
@@ -64,7 +64,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Vídeos y videocámaras">Vídeos</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.es#videos" title="Vídeos y videocámaras">Vídeos</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

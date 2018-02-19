@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="Termos e consellos sobre redes">Termos e consellos sobre redes</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.gl-GL" title="Termos e consellos sobre redes">Termos e consellos sobre redes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Manterse seguro na Internet</span></h1></div>
@@ -59,9 +59,9 @@
 <p class="p">A pesar de que as medidas levadas a cabo para asegurar a súa instalación de Linux sexan seguras existen vulnerabilidades. Como usuario medio de internet tamén pode ser susceptíbel de:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Fraudes de suplantación de identidade (sitios web e correos electrónicos que tentan obter información sensíbel mediante unha suplantación)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html" title="Preciso analizar os meus correos electrónicos por virus?">Reenvío de correos maliciosos</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html" title="Preciso un software antivirus?">Aplicativos con intencións maliciosas (virus)</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html" title="Que significa WEP e WPA?">Unauthorized remote/local network
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.gl-GL" title="Preciso analizar os meus correos electrónicos por virus?">Reenvío de correos maliciosos</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.gl-GL" title="Preciso un software antivirus?">Aplicativos con intencións maliciosas (virus)</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.gl-GL" title="Que significa WEP e WPA?">Unauthorized remote/local network
       access</a></span></p></li>
 </ul></div></div></div>
 <p class="p">Para conectarse de maneira segura, recorde as seguintes suxestións:</p>
@@ -72,11 +72,11 @@
       information you are submitting and the potential consequences if that
       information is compromised by identity thieves or other criminals.</p></li>
 <li class="list"><p class="p">Be careful in providing
-      <span class="link"><a href="user-admin-explain.html" title="Como funcionan os privilexios administrativos?">root level permissions</a></span> to any
+      <span class="link"><a href="user-admin-explain.html.gl-GL" title="Como funcionan os privilexios administrativos?">root level permissions</a></span> to any
       application, especially ones that you have not used before or which are
       not well-known. Providing anyone or anything with root level permissions
       puts your computer at high risk to exploitation.</p></li>
-<li class="list"><p class="p">Asegúrese de que só está executando os servizos de acceso remoto necesarios. Tendo SSH ou VNC executándose pode ser útil, pero deixa o seu computador aberto á intrusión se non os asegura de forma correcta. Considere o uso dunha <span class="link"><a href="net-firewall-on-off.html" title="Activar ou bloquear o acceso á devasa">devasa</a></span> que lle axude ao seu computador nas intrusións.</p></li>
+<li class="list"><p class="p">Asegúrese de que só está executando os servizos de acceso remoto necesarios. Tendo SSH ou VNC executándose pode ser útil, pero deixa o seu computador aberto á intrusión se non os asegura de forma correcta. Considere o uso dunha <span class="link"><a href="net-firewall-on-off.html.gl-GL" title="Activar ou bloquear o acceso á devasa">devasa</a></span> que lle axude ao seu computador nas intrusións.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -84,7 +84,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Termos e consellos sobre redes">Termos e consellos sobre redes</a><span class="desc"> — <span class="link"><a href="web.html#connections" title="web#connections">Conexións de rede</a></span>, <span class="link"><a href="web.html#chat" title="web#chat">iniciar conversas</a></span>, <span class="link"><a href="web.html#email" title="web#email">contas de correo electrónico</a></span>, <span class="link"><a href="web.html#browser" title="web#browser">engadidos</a></span>…</span>
+<a href="net-general.html.gl-GL" title="Termos e consellos sobre redes">Termos e consellos sobre redes</a><span class="desc"> — <span class="link"><a href="web.html.gl-GL#connections" title="web#connections">Conexións de rede</a></span>, <span class="link"><a href="web.html.gl-GL#chat" title="web#chat">iniciar conversas</a></span>, <span class="link"><a href="web.html.gl-GL#email" title="web#email">contas de correo electrónico</a></span>, <span class="link"><a href="web.html.gl-GL#browser" title="web#browser">engadidos</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

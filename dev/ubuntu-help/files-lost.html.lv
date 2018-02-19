@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html#more-file-tasks" title="Vēl ar datnēm saistīti uzdevumi">Vēl ar datnēm saistīti uzdevumi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.lv" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html.lv#more-file-tasks" title="Vēl ar datnēm saistīti uzdevumi">Vēl ar datnēm saistīti uzdevumi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Atrast pazudušu datni</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">Ja esat izveidojuši vai lejupielādējuši datni, bet vairs nevarat to atrast, izmantojiet šos norādījumus.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Ja neatceraties, kur saglabājāt datni, bet ir nojausma, kā to nosaucāt, jūs varat  <span class="link"><a href="files-search.html" title="Meklēt datnes">to atrast pēc nosaukuma</a></span>.</p></li>
+<li class="list"><p class="p">Ja neatceraties, kur saglabājāt datni, bet ir nojausma, kā to nosaucāt, jūs varat  <span class="link"><a href="files-search.html.lv" title="Meklēt datnes">to atrast pēc nosaukuma</a></span>.</p></li>
 <li class="list"><p class="p">Ja tikko lejuplādējāt datni, tīmekļa pārlūks varētu būt to automātiski saglabājis noteiktā mapē. Pārbaudiet mapes <span class="file">Darbvirsma</span> un <span class="file">Lejupielādes</span> savā mājas mapē.</p></li>
-<li class="list"><p class="p">Varbūt jums gadījies datni nejauši izdzēst. Kad dzēšat datni, tā tiek pārvietota uz miskasti, kur tā glabājas, līdz jūs izvēlaties miskasti iztukšot. Skatiet <span class="link"><a href="files-recover.html" title="Atjaunot datni no miskastes">Atjaunot datni no miskastes</a></span>, lai uzzinātu, kā atjaunot izdzēstas datnes.</p></li>
-<li class="list"><p class="p">Iespējams, gadījies pārdēvēt datni tā, ka tā kļuva neredzams. Datnes, kuru nosaukumi sākas ar <span class="file">.</span> vai beidzas ar <span class="file">~</span>, datņu pārvaldniekā tiek slēptas. Spiediet skata opciju pogu <span class="app">Datņu</span> rīkjoslā un ieslēdziet <span class="gui">Rādīt slēptās datnes</span>. Skatiet <span class="link"><a href="files-hidden.html" title="Slēpt datni">Slēpt datni</a></span>, lai uzzinātu vairāk.</p></li>
+<li class="list"><p class="p">Varbūt jums gadījies datni nejauši izdzēst. Kad dzēšat datni, tā tiek pārvietota uz miskasti, kur tā glabājas, līdz jūs izvēlaties miskasti iztukšot. Skatiet <span class="link"><a href="files-recover.html.lv" title="Atjaunot datni no miskastes">Atjaunot datni no miskastes</a></span>, lai uzzinātu, kā atjaunot izdzēstas datnes.</p></li>
+<li class="list"><p class="p">Iespējams, gadījies pārdēvēt datni tā, ka tā kļuva neredzams. Datnes, kuru nosaukumi sākas ar <span class="file">.</span> vai beidzas ar <span class="file">~</span>, datņu pārvaldniekā tiek slēptas. Spiediet skata opciju pogu <span class="app">Datņu</span> rīkjoslā un ieslēdziet <span class="gui">Rādīt slēptās datnes</span>. Skatiet <span class="link"><a href="files-hidden.html.lv" title="Slēpt datni">Slēpt datni</a></span>, lai uzzinātu vairāk.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,12 +62,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Vēl ar datnēm saistīti uzdevumi">Vēl ar datnēm saistīti uzdevumi</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.lv#more-file-tasks" title="Vēl ar datnēm saistīti uzdevumi">Vēl ar datnēm saistīti uzdevumi</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-recover.html" title="Atjaunot datni no miskastes">Atjaunot datni no miskastes</a><span class="desc"> — Parasti dzēstās datnes tiek aizsūtītas uz miskasti, bet tās var atgūt.</span>
+<a href="files-recover.html.lv" title="Atjaunot datni no miskastes">Atjaunot datni no miskastes</a><span class="desc"> — Parasti dzēstās datnes tiek aizsūtītas uz miskasti, bet tās var atgūt.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Bureau</a> › <a class="trail" href="shell-overview.html#desktop" title="Customize your desktop">Customize your desktop</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="shell-overview.html.fr" title="Your desktop">Bureau</a> › <a class="trail" href="shell-overview.html.fr#desktop" title="Customize your desktop">Customize your desktop</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Notifications et tiroir de messagerie</span></h1></div>
@@ -62,7 +62,7 @@
 <div id="messagetray" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Le tiroir de messagerie</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Le tiroir de messagerie vous permet de récupérer vos notifications quand bon vous semble. Il apparaît lorsque vous cliquez sur l'horloge, ou lorsque vous appuyez sur <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Qu'est-ce que la touche Logo ?"><kbd>Logo</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span>. Il contient toutes les notifications sur lesquelles vous n'avez pas encore agi ou qui y résident en permanence.</p>
+<p class="p">Le tiroir de messagerie vous permet de récupérer vos notifications quand bon vous semble. Il apparaît lorsque vous cliquez sur l'horloge, ou lorsque vous appuyez sur <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.fr" title="Qu'est-ce que la touche Logo ?"><kbd>Logo</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span>. Il contient toutes les notifications sur lesquelles vous n'avez pas encore agi ou qui y résident en permanence.</p>
 <p class="p">Vous pouvez afficher les notifications en cliquant sur les éléments du tiroir de messagerie. Ce sont en général des messages envoyés par des applications. Néanmoins, les notifications de discussion reçoivent un traitement spécial et sont représentées par les contacts individuels qui vous ont envoyé les messages.</p>
 <p class="p">Pour fermer le tiroir de messagerie, appuyez de nouveau sur <span class="keyseq"><span class="key"><kbd>Logo</kbd></span>+<span class="key"><kbd>M</kbd></span></span> ou sur <span class="key"><kbd>Échap</kbd></span>.</p>
 </div></div>
@@ -73,7 +73,7 @@
 <p class="p">If you’re working on something and do not want to be bothered, you can
   switch off notifications.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Notifications</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Notifications</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Notification Banners</span> to <span class="gui">OFF</span>.</p></li>
@@ -92,7 +92,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="Customize your desktop">Customize your desktop</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.fr#desktop" title="Customize your desktop">Customize your desktop</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html#backup" title="Ustvarjanje varnostnih kopij">Ustvarjanje varnostnih kopij</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html.sl#backup" title="Ustvarjanje varnostnih kopij">Ustvarjanje varnostnih kopij</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ustvarjanje varnostne kopije pomembnih datotek</span></h1></div>
@@ -53,18 +53,18 @@
 <p class="p">Najboljši način ustvarjanja varnostnih kopij je redno, oddaljeno shranjeno in (če je le mogoče) šifrirano.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-what.html" title="Iz česa naj bo ustvarjena varnostna kopija"><span class="title">Iz česa naj bo ustvarjena varnostna kopija</span><span class="linkdiv-dash"> — </span><span class="desc">Back up anything that you cannot bear to lose if something goes
+<div class="linkdiv "><a class="linkdiv" href="backup-what.html.sl" title="Iz česa naj bo ustvarjena varnostna kopija"><span class="title">Iz česa naj bo ustvarjena varnostna kopija</span><span class="linkdiv-dash"> — </span><span class="desc">Back up anything that you cannot bear to lose if something goes
     wrong.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-how.html" title="Kako ustvariti varnostno kopijo"><span class="title">Kako ustvariti varnostno kopijo</span><span class="linkdiv-dash"> — </span><span class="desc">Uporaba Déjà Dup (ali katerega drugega programa za izdelavo varnostnih kopij) za izdelavo kopij vrednih datotek in storitev za zaščito pred izgubo podatkov.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-how.html.sl" title="Kako ustvariti varnostno kopijo"><span class="title">Kako ustvariti varnostno kopijo</span><span class="linkdiv-dash"> — </span><span class="desc">Uporaba Déjà Dup (ali katerega drugega programa za izdelavo varnostnih kopij) za izdelavo kopij vrednih datotek in storitev za zaščito pred izgubo podatkov.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-where.html" title="Kam shraniti varnostne kopije"><span class="title">Kam shraniti varnostne kopije</span><span class="linkdiv-dash"> — </span><span class="desc">Nasvet kje shraniti varnostne kopije in katero vrsto naprave shrambe uporabiti.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-where.html.sl" title="Kam shraniti varnostne kopije"><span class="title">Kam shraniti varnostne kopije</span><span class="linkdiv-dash"> — </span><span class="desc">Nasvet kje shraniti varnostne kopije in katero vrsto naprave shrambe uporabiti.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#backup" title="Ustvarjanje varnostnih kopij">Ustvarjanje varnostnih kopij</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sl#backup" title="Ustvarjanje varnostnih kopij">Ustvarjanje varnostnih kopij</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

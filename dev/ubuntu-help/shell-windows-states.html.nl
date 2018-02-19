@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Werken met vensters">Vensters</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-windows" title="Werken met vensters">Vensters</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vensters verplaatsen en van grootte veranderen</span></h1></div>
@@ -54,7 +54,7 @@
   and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Move a window by dragging the titlebar, or hold down
-      <span class="key"><a href="keyboard-key-super.html" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span> and drag anywhere in the
+      <span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span> and drag anywhere in the
       window. Hold down <span class="key"><kbd>Shift</kbd></span> while moving to snap the window to the
       edges of the screen and other windows.</p></li>
 <li class="list"><p class="p">Resize a window by dragging the edges or corner of the window. Hold
@@ -65,17 +65,17 @@
       <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span> to resize. Use the arrow
       keys to move or resize, then press <span class="key"><kbd>Enter</kbd></span> to finish, or press
       <span class="key"><kbd>Esc</kbd></span> to return to the original position and size.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Een venster maximaliseren en weer herstellen">Maximize a window</a></span> by
+<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html.nl" title="Een venster maximaliseren en weer herstellen">Maximize a window</a></span> by
       dragging it to the top of the screen. Drag a window to one side of the
       screen to maximize it along the side, allowing you to
-      <span class="link"><a href="shell-windows-tiled.html" title="Vensters tegelen">tile windows side by side</a></span>.</p></li>
+      <span class="link"><a href="shell-windows-tiled.html.nl" title="Vensters tegelen">tile windows side by side</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Werken met vensters">Werken met vensters</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.nl#working-with-windows" title="Werken met vensters">Werken met vensters</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

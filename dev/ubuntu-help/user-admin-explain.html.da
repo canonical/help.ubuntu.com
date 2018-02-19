@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">Settings</a> » <a class="trail" href="user-accounts.html" title="User accounts">Users</a> › <a class="trail" href="user-accounts.html#privileges" title="User privileges">Privileges</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="user-accounts.html.da" title="User accounts">Users</a> › <a class="trail" href="user-accounts.html.da#privileges" title="User privileges">Privileges</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">How do administrative privileges work?</span></h1></div>
@@ -109,38 +109,38 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="User privileges">User privileges</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.da#privileges" title="User privileges">User privileges</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="printing-name-location.html" title="Change the name or location of a printer">Change the name or location of a printer</a><span class="desc"> — Change the name or location of a printer in the printer
+<a href="printing-name-location.html.da" title="Change the name or location of a printer">Change the name or location of a printer</a><span class="desc"> — Change the name or location of a printer in the printer
     settings.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="Change who has administrative privileges">Change who has administrative privileges</a><span class="desc"> — You can allow users to make changes to the system by giving them
+<a href="user-admin-change.html.da" title="Change who has administrative privileges">Change who has administrative privileges</a><span class="desc"> — You can allow users to make changes to the system by giving them
     administrative privileges.</span>
 </li>
 <li class="links ">
-<a href="user-changepicture.html" title="Change your login screen photo">Change your login screen photo</a><span class="desc"> — Add your photo to the login and user screens.</span>
+<a href="user-changepicture.html.da" title="Change your login screen photo">Change your login screen photo</a><span class="desc"> — Add your photo to the login and user screens.</span>
 </li>
 <li class="links ">
-<a href="user-changepassword.html" title="Change your password">Change your password</a><span class="desc"> — Keep your account secure by changing your password often in your
+<a href="user-changepassword.html.da" title="Change your password">Change your password</a><span class="desc"> — Keep your account secure by changing your password often in your
     account settings.</span>
 </li>
 <li class="links ">
-<a href="user-delete.html" title="Delete a user account">Delete a user account</a><span class="desc"> — Remove users that no longer use your computer.</span>
+<a href="user-delete.html.da" title="Delete a user account">Delete a user account</a><span class="desc"> — Remove users that no longer use your computer.</span>
 </li>
 <li class="links ">
-<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — You need to uncheck the <span class="gui">Available to all users</span> option in the network connection settings.</span>
+<a href="net-othersedit.html.da" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — You need to uncheck the <span class="gui">Available to all users</span> option in the network connection settings.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="Problems caused by administrative restrictions">Problems caused by administrative restrictions</a><span class="desc"> — You can do some things, like installing applications, only if you
+<a href="user-admin-problems.html.da" title="Problems caused by administrative restrictions">Problems caused by administrative restrictions</a><span class="desc"> — You can do some things, like installing applications, only if you
     have administrative privileges.</span>
 </li>
 <li class="links ">
-<a href="printing-setup-default-printer.html" title="Set the default printer">Set the default printer</a><span class="desc"> — Pick the printer that you use most often.</span>
+<a href="printing-setup-default-printer.html.da" title="Set the default printer">Set the default printer</a><span class="desc"> — Pick the printer that you use most often.</span>
 </li>
 </ul></div>
 </div></div>

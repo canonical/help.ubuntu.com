@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Stiki</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Uporabite <span class="app">Stike</span> za shranjevanje, dostop ali urejanje podatkov o vaših stikih, ki so krajevno ali v vaših  <span class="link"><a href="accounts.html" title="Spletni računi">Spletnih računih</a></span>.</p>
+<p class="p">Uporabite <span class="app">Stike</span> za shranjevanje, dostop ali urejanje podatkov o vaših stikih, ki so krajevno ali v vaših  <span class="link"><a href="accounts.html.sl" title="Spletni računi">Spletnih računih</a></span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html" title="Prvo začenjanje stikov"><span class="title">Prvo začenjanje stikov</span><span class="linkdiv-dash"> — </span><span class="desc">Shranite svoje stike v krajevnem imeniku ali na spletnem računu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html" title="Dodajanje ali odstranitev stika"><span class="title">Dodajanje ali odstranitev stika</span><span class="linkdiv-dash"> — </span><span class="desc">Dodajte ali odstranite stik iz krajevnega imenika.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-search.html" title="Iskanje stika"><span class="title">Iskanje stika</span><span class="linkdiv-dash"> — </span><span class="desc">Iskanje stika</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html" title="Link and unlink contacts"><span class="title">Link and unlink contacts</span><span class="linkdiv-dash"> — </span><span class="desc">Združite podatke za stik iz več virov.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html" title="Povežite se z svojim stikom"><span class="title">Povežite se z svojim stikom</span><span class="linkdiv-dash"> — </span><span class="desc">Pošljite e-pošto, klepetajte ali pokličite stik.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html" title="Urejanje podrobnosti stika"><span class="title">Urejanje podrobnosti stika</span><span class="linkdiv-dash"> — </span><span class="desc">Uredite podrobnosti vsakega stika.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.sl" title="Prvo začenjanje stikov"><span class="title">Prvo začenjanje stikov</span><span class="linkdiv-dash"> — </span><span class="desc">Shranite svoje stike v krajevnem imeniku ali na spletnem računu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html.sl" title="Dodajanje ali odstranitev stika"><span class="title">Dodajanje ali odstranitev stika</span><span class="linkdiv-dash"> — </span><span class="desc">Dodajte ali odstranite stik iz krajevnega imenika.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-search.html.sl" title="Iskanje stika"><span class="title">Iskanje stika</span><span class="linkdiv-dash"> — </span><span class="desc">Iskanje stika</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html.sl" title="Link and unlink contacts"><span class="title">Link and unlink contacts</span><span class="linkdiv-dash"> — </span><span class="desc">Združite podatke za stik iz več virov.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.sl" title="Povežite se z svojim stikom"><span class="title">Povežite se z svojim stikom</span><span class="linkdiv-dash"> — </span><span class="desc">Pošljite e-pošto, klepetajte ali pokličite stik.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.sl" title="Urejanje podrobnosti stika"><span class="title">Urejanje podrobnosti stika</span><span class="linkdiv-dash"> — </span><span class="desc">Uredite podrobnosti vsakega stika.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,7 +64,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Brezžične povezave">Brezžično</a></span>, <span class="link"><a href="net-wired.html" title="Žične povezave">žično</a></span>, <span class="link"><a href="net-problem.html" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html" title="Spletni brskalniki">spletno brskanje</a></span>, <span class="link"><a href="net-email.html" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span>
+<a href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sl" title="Brezžične povezave">Brezžično</a></span>, <span class="link"><a href="net-wired.html.sl" title="Žične povezave">žično</a></span>, <span class="link"><a href="net-problem.html.sl" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html.sl" title="Spletni brskalniki">spletno brskanje</a></span>, <span class="link"><a href="net-email.html.sl" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span>
 </li></ul></div>
 </div></div></div>
 </div>

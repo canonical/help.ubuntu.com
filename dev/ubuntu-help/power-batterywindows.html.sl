@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="power.html" title="Napajanje in baterija">Napajanje in baterija</a> › <a class="trail" href="power.html#faq" title="Vprašanja">Vprašanja</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="power.html.sl" title="Napajanje in baterija">Napajanje in baterija</a> › <a class="trail" href="power.html.sl#faq" title="Vprašanja">Vprašanja</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="power.html" title="Napajanje in baterija">Napajanje in baterija</a> › <a class="trail" href="power.html#faq" title="Vprašanja">Vprašanja</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> » <a class="trail" href="power.html.sl" title="Napajanje in baterija">Napajanje in baterija</a> › <a class="trail" href="power.html.sl#faq" title="Vprašanja">Vprašanja</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Nekateri računalniki kažejo, da imajo pri delovanju na Linuxu krajše trajanje baterije kot pri poganjanju na Windows ali Mac OS. En vzrok za to je, da nekateri ponudniki na Windows/Mac OS namestijo posebne programe, ki optimizirajo različne nastavitve strojne opreme/programov za dan model računalnika. Te prilagoditve so običajno visoko specifične in morda niso dokumentirane, zato jih je v Linux težko vključiti.</p>
-<p class="p">Na žalost ne obstaja enostaven način za uveljavitev teh prilagoditev brez znanja kaj natančno so. Morda boste ugotovili, da uporaba nekaterih <span class="link"><a href="power-batterylife.html" title="Poraba manjše količine energije in podaljšanje trajanja baterije"> načinov varčevanja z energijo</a></span> pomaga. V primeru da ima vaš računalnik <span class="link"><a href="power-batteryslow.html" title="Zakaj je moj prenosnik počasen, ko uporablja napetost baterije?">procesor s spremenljivo hitrostjo</a></span>, je lahko sprememba te nastavitve uporabna.</p>
+<p class="p">Na žalost ne obstaja enostaven način za uveljavitev teh prilagoditev brez znanja kaj natančno so. Morda boste ugotovili, da uporaba nekaterih <span class="link"><a href="power-batterylife.html.sl" title="Poraba manjše količine energije in podaljšanje trajanja baterije"> načinov varčevanja z energijo</a></span> pomaga. V primeru da ima vaš računalnik <span class="link"><a href="power-batteryslow.html.sl" title="Zakaj je moj prenosnik počasen, ko uporablja napetost baterije?">procesor s spremenljivo hitrostjo</a></span>, je lahko sprememba te nastavitve uporabna.</p>
 <p class="p">Drug možen vzrok je različen način ocenjevanja trajanja baterije na Windows/Mac OS in na Linuxu. Dejansko trajanje baterije bi lahko bilo popolnoma enako, vendar različni načini dajejo različne ocene.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -62,19 +62,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html#faq" title="Vprašanja">Vprašanja</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.sl#faq" title="Vprašanja">Vprašanja</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batteryestimate.html" title="Ocenjeno trajanje baterije je napačno">Ocenjeno trajanje baterije je napačno</a><span class="desc"> — Trajanje baterije, ki je prikazano, ko kliknete na <span class="gui">ikono baterije</span>, je le ocena.</span>
+<a href="power-batteryestimate.html.sl" title="Ocenjeno trajanje baterije je napačno">Ocenjeno trajanje baterije je napačno</a><span class="desc"> — Trajanje baterije, ki je prikazano, ko kliknete na <span class="gui">ikono baterije</span>, je le ocena.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Poraba manjše količine energije in podaljšanje trajanja baterije">Poraba manjše količine energije in podaljšanje trajanja baterije</a><span class="desc"> — Namigi za zmanjšanje porabe vašega računalnika.</span>
+<a href="power-batterylife.html.sl" title="Poraba manjše količine energije in podaljšanje trajanja baterije">Poraba manjše količine energije in podaljšanje trajanja baterije</a><span class="desc"> — Namigi za zmanjšanje porabe vašega računalnika.</span>
 </li>
 <li class="links ">
-<a href="power-batteryslow.html" title="Zakaj je moj prenosnik počasen, ko uporablja napetost baterije?">Zakaj je moj prenosnik počasen, ko uporablja napetost baterije?</a><span class="desc"> — Nekateri prenosniki se namenoma upočasnijo, ko tečejo na bateriji.</span>
+<a href="power-batteryslow.html.sl" title="Zakaj je moj prenosnik počasen, ko uporablja napetost baterije?">Zakaj je moj prenosnik počasen, ko uporablja napetost baterije?</a><span class="desc"> — Nekateri prenosniki se namenoma upočasnijo, ko tečejo na bateriji.</span>
 </li>
 </ul></div>
 </div></div>

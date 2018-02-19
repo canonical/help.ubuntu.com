@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="printing.html" title="Штампање">Штампање</a> › <a class="trail" href="printing.html#paper" title="Различите величине папира и распореди">Величине и распореди</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="printing.html.sr" title="Штампање">Штампање</a> › <a class="trail" href="printing.html.sr#paper" title="Различите величине папира и распореди">Величине и распореди</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Штампајте књижицу</span></h1></div>
@@ -59,15 +59,15 @@
 </ol></div></div></div>
 <p class="p">Изаберите врсту штампача који ћете да користите за штампање из доњег списка:</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="printing-booklet-duplex.html" title="Штампајте књижицу на двостраном штампачу"><span class="title">Штампајте књижицу на двостраном штампачу</span><span class="linkdiv-dash"> — </span><span class="desc">Штампајте пресавијене књижице (као што је књига или летак) из ПДФ-а користећи нормалан папир величине А4 или писма.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-booklet-singlesided.html" title="Штампајте књижицу на једностраном штампачу"><span class="title">Штампајте књижицу на једностраном штампачу</span><span class="linkdiv-dash"> — </span><span class="desc">Штампајте књижицу из ПДФ-а на једностраном штампачу.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet-duplex.html.sr" title="Штампајте књижицу на двостраном штампачу"><span class="title">Штампајте књижицу на двостраном штампачу</span><span class="linkdiv-dash"> — </span><span class="desc">Штампајте пресавијене књижице (као што је књига или летак) из ПДФ-а користећи нормалан папир величине А4 или писма.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet-singlesided.html.sr" title="Штампајте књижицу на једностраном штампачу"><span class="title">Штампајте књижицу на једностраном штампачу</span><span class="linkdiv-dash"> — </span><span class="desc">Штампајте књижицу из ПДФ-а на једностраном штампачу.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#paper" title="Различите величине папира и распореди">Различите величине папира и распореди</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.sr#paper" title="Различите величине папира и распореди">Различите величине папира и распореди</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

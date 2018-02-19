@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html.fr" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html.fr#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Restauration d'un fichier à partir de la corbeille</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Pour restaurer un fichier à partir de la corbeille :</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="app">Files</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="app">Files</span> to open the file manager.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Corbeille</span> dans le panneau latéral. Si vous ne la voyez pas, cliquez sur <span class="gui">Fichiers</span> dans la barre d'outils et sélectionnez <span class="gui">Afficher le panneau latéral</span>.</p></li>
@@ -75,17 +75,17 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.fr#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-lost.html" title="Recherche d'un fichier perdu">Recherche d'un fichier perdu</a><span class="desc"> — Follow these tips if you can’t find a file you created or
+<a href="files-lost.html.fr" title="Recherche d'un fichier perdu">Recherche d'un fichier perdu</a><span class="desc"> — Follow these tips if you can’t find a file you created or
     downloaded.</span>
 </li>
 <li class="links ">
-<a href="files-delete.html" title="Suppression de fichiers et de dossiers">Suppression de fichiers et de dossiers</a><span class="desc"> — Supprimer des fichiers ou dossiers dont vous n'avez plus besoin.</span>
+<a href="files-delete.html.fr" title="Suppression de fichiers et de dossiers">Suppression de fichiers et de dossiers</a><span class="desc"> — Supprimer des fichiers ou dossiers dont vous n'avez plus besoin.</span>
 </li>
 </ul></div>
 </div></div>

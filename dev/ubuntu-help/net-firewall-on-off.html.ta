@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html" title="இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்">இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html.ta" title="இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்">இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ஃபயர்வால் அணுகலை இயக்குதல் அல்லது தடுத்தல்</span></h1></div>
@@ -59,7 +59,7 @@
       start your firewall application. You may need to install a firewall
       manager yourself if you can’t find one (for example, Firestarter or
       GUFW).</p></li>
-<li class="steps"><p class="p">மற்றவர்கள் உங்கள் பிணைய சேவையை அணுக வேண்டுமா இல்லையா என்ற உங்கள் விருப்பத்தைப் பொறுத்து, அதை திறக்கலாம் அல்லது முடக்கலாம். நீங்கள் எந்த போர்ட்டை மாற்ற வேண்டும் என்பது<span class="link"><a href="net-firewall-ports.html" title="பொதுவாக பயன்படுத்தப்படும் பிணைய போர்ட்கள்">சேவையைப் பொறுத்தது</a></span>.</p></li>
+<li class="steps"><p class="p">மற்றவர்கள் உங்கள் பிணைய சேவையை அணுக வேண்டுமா இல்லையா என்ற உங்கள் விருப்பத்தைப் பொறுத்து, அதை திறக்கலாம் அல்லது முடக்கலாம். நீங்கள் எந்த போர்ட்டை மாற்ற வேண்டும் என்பது<span class="link"><a href="net-firewall-ports.html.ta" title="பொதுவாக பயன்படுத்தப்படும் பிணைய போர்ட்கள்">சேவையைப் பொறுத்தது</a></span>.</p></li>
 <li class="steps"><p class="p">ஃபயர்வால் கருவி ஏதேனும் கூடுதல் அறிவுறுத்தல்களை வழங்கினால், அவற்றைப் பின்பற்றி மாற்றங்களை சேமிக்கவும் அல்லது பயன்படுத்தவும்.</p></li>
 </ol></div></div></div>
 </div>
@@ -69,17 +69,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்">இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="வைரஸ் எதிர்ப்பு மென்பொருள் தேவையா?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="ஃபயர்வால் அணுகலை இயக்குதல் அல்லது தடுத்தல்">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="பொதுவாக பயன்படுத்தப்படும் பிணைய போர்ட்கள்">firewall ports</a></span>…
+<a href="net-security.html.ta" title="இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்">இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்</a><span class="desc"> — 
+      <span class="link"><a href="net-antivirus.html.ta" title="வைரஸ் எதிர்ப்பு மென்பொருள் தேவையா?">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.ta" title="ஃபயர்வால் அணுகலை இயக்குதல் அல்லது தடுத்தல்">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.ta" title="பொதுவாக பயன்படுத்தப்படும் பிணைய போர்ட்கள்">firewall ports</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-ports.html" title="பொதுவாக பயன்படுத்தப்படும் பிணைய போர்ட்கள்">பொதுவாக பயன்படுத்தப்படும் பிணைய போர்ட்கள்</a><span class="desc"> — உங்கள் ஃபயர்வால் கொண்டு, ஒரு நிரலுக்கான பிணைய அணுகலை இயக்க/முடக்க நீங்கள் சரியான பிணைய போர்ட்டைக் குறிப்பிட வேண்டும்.</span>
+<a href="net-firewall-ports.html.ta" title="பொதுவாக பயன்படுத்தப்படும் பிணைய போர்ட்கள்">பொதுவாக பயன்படுத்தப்படும் பிணைய போர்ட்கள்</a><span class="desc"> — உங்கள் ஃபயர்வால் கொண்டு, ஒரு நிரலுக்கான பிணைய அணுகலை இயக்க/முடக்க நீங்கள் சரியான பிணைய போர்ட்டைக் குறிப்பிட வேண்டும்.</span>
 </li></ul></div>
 </div></div>
 </div>

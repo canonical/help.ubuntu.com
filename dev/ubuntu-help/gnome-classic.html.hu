@@ -48,15 +48,15 @@
 <div class="region">
 <div class="contents">
 <p class="p">A <span class="em">Klasszikus GNOME</span> azoknak a felhasználóknak készült, akik a hagyományos asztali környezeteket kedvelik. Míg a <span class="em">Klasszikus GNOME</span> a <span class="em">GNOME 3</span> technológiájára épül, számos ponton megváltoztatja a felhasználói felületet, például az <span class="gui">Alkalmazások</span> és <span class="gui">Helyek</span> menük hozzáadásával a felső sávhoz, valamint az ablaklista megjelenítésével a képernyő alján.</p>
-<p class="p">A felső sávon lévő <span class="gui">Alkalmazások</span> menüből alkalmazásokat indíthat. A <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintés a menü <span class="gui">Tevékenységek áttekintés</span> pontjának kiválasztásával érhető el.</p>
-<p class="p">A <span class="em"><span class="gui">Tevékenységek</span> áttekintés</span> elérhető a <span class="key"><a href="keyboard-key-super.html" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span> billentyű megnyomásával is.</p>
+<p class="p">A felső sávon lévő <span class="gui">Alkalmazások</span> menüből alkalmazásokat indíthat. A <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintés a menü <span class="gui">Tevékenységek áttekintés</span> pontjának kiválasztásával érhető el.</p>
+<p class="p">A <span class="em"><span class="gui">Tevékenységek</span> áttekintés</span> elérhető a <span class="key"><a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span> billentyű megnyomásával is.</p>
 </div>
 <div id="gnome-classic-window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ablaklista</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">A képernyő alján lévő ablaklistával elérheti az összes megnyitott ablakot és alkalmazást, és lehetővé teszi a gyors minimalizálásukat és visszaállításukat.</p>
 <p class="p">Az ablaklista jobb oldalán a GNOME megjeleníti az aktuális munkaterület rövid azonosítóját, ez az első (felső) munkaterület esetén például <span class="gui">1</span>. Ezen kívül az azonosító megjeleníti az elérhető munkaterületek teljes számát is. Egy másik munkaterületre váltáshoz kattintson az azonosítóra, és válassza ki a használni kívánt munkaterületet a menüből.</p>
-<p class="p">Ha egy alkalmazás vagy rendszerösszetevő a figyelmét igényli, akkor az ablaklista jobb oldalán egy kék ikont jelenít meg. A kék ikonra kattintva megjelenik az <span class="link"><a href="shell-notifications.html" title="Értesítések és az üzenettálca">üzenettálca</a></span>, amelyről elérheti az összes értesítést.</p>
+<p class="p">Ha egy alkalmazás vagy rendszerösszetevő a figyelmét igényli, akkor az ablaklista jobb oldalán egy kék ikont jelenít meg. A kék ikonra kattintva megjelenik az <span class="link"><a href="shell-notifications.html.hu" title="Értesítések és az üzenettálca">üzenettálca</a></span>, amelyről elérheti az összes értesítést.</p>
 </div></div>
 </div></div>
 <div id="gnome-classic-switch" class="sect"><div class="inner">

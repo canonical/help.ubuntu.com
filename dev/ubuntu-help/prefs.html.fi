@@ -43,78 +43,78 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Käyttäjän ja järjestelmän asetukset</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-language.html" title="Alue- ja kieliasetukset">Alue- ja kieliasetukset</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-language.html" title="Vaihda käytettävä kieli">Kieliasetukset</a></span>, <span class="link"><a href="session-formats.html" title="Vaihda päiväyksen ja mittojen muotoja">alue ja muotoilut</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">näppäimistöasettelu</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">Alue- ja kieliasetukset</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.fi" title="Vaihda käytettävä kieli">Kieliasetukset</a></span>, <span class="link"><a href="session-formats.html.fi" title="Vaihda päiväyksen ja mittojen muotoja">alue ja muotoilut</a></span>, <span class="link"><a href="keyboard-layouts.html.fi" title="Use alternative keyboard layouts">näppäimistöasettelu</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html" title="Hiiri">Hiiri</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html" title="Käytä hiirtä vasenkätisen asetuksin">Vasenkätisyys</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Muuta hiiren ja kosketuslevyn nopeutta">nopeus ja herkkyys</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">kosketuslevyn vierittäminen ja napsauttaminen</a></span>…</span></div>
+<div class="links-grid-link"><a href="mouse.html.fi" title="Hiiri">Hiiri</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.fi" title="Käytä hiirtä vasenkätisen asetuksin">Vasenkätisyys</a></span>, <span class="link"><a href="mouse-sensitivity.html.fi" title="Muuta hiiren ja kosketuslevyn nopeutta">nopeus ja herkkyys</a></span>, <span class="link"><a href="mouse-touchpad-click.html.fi" title="Click, drag, or scroll with the touchpad">kosketuslevyn vierittäminen ja napsauttaminen</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-sharing.html" title="Jakamisasetukset">Jakamisasetukset</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sharing-bluetooth.html" title="Control sharing over Bluetooth">Bluetooth-jakaminen</a></span>, <span class="link"><a href="sharing-personal.html" title="Jaa henkilökohtaisia tiedostoja">henkilökohtainen tiedostojako</a></span>, <span class="link"><a href="sharing-desktop.html" title="Jaa työpöytäsi">näytön jakaminen</a></span>, <span class="link"><a href="sharing-media.html" title="Jaa musiikkia, kuvia ja videoita">median jakaminen</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs-sharing.html.fi" title="Jakamisasetukset">Jakamisasetukset</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-bluetooth.html.fi" title="Control sharing over Bluetooth">Bluetooth-jakaminen</a></span>, <span class="link"><a href="sharing-personal.html.fi" title="Jaa henkilökohtaisia tiedostoja">henkilökohtainen tiedostojako</a></span>, <span class="link"><a href="sharing-desktop.html.fi" title="Jaa työpöytäsi">näytön jakaminen</a></span>, <span class="link"><a href="sharing-media.html.fi" title="Jaa musiikkia, kuvia ja videoita">median jakaminen</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="startup-applications.html" title="Käynnistettävät sovellukset">Käynnistettävät sovellukset</a></div>
+<div class="links-grid-link"><a href="startup-applications.html.fi" title="Käynnistettävät sovellukset">Käynnistettävät sovellukset</a></div>
 <div class="desc"><span class="desc">Valitse sisäänkirjautumisen yhteydessä käynnistettävät sovellukset.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="user-accounts.html" title="Käyttäjätilit">Käyttäjätilit</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="user-add.html" title="Lisää uusi käyttäjätili">Lisää käyttäjä</a></span>, <span class="link"><a href="user-changepassword.html" title="Vaihda salasanasi">vaihda salasana</a></span>, <span class="link"><a href="user-admin-change.html" title="Valitse ne tilit, joilla on pääkäyttäjäoikeudet">ylläpitäjät</a></span>…</span></div>
+<div class="links-grid-link"><a href="user-accounts.html.fi" title="Käyttäjätilit">Käyttäjätilit</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="user-add.html.fi" title="Lisää uusi käyttäjätili">Lisää käyttäjä</a></span>, <span class="link"><a href="user-changepassword.html.fi" title="Vaihda salasanasi">vaihda salasana</a></span>, <span class="link"><a href="user-admin-change.html.fi" title="Valitse ne tilit, joilla on pääkäyttäjäoikeudet">ylläpitäjät</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="keyboard.html" title="Näppäimistö">Näppäimistö</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Näppäimistöasettelut</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Aseta näppäimistön kohdistin vilkkumaan">osoitin vilkkumaan</a></span>, <span class="link"><a href="a11y.html#mobility" title="Liikuntarajoitteisuudet">esteettömyys</a></span>...</span></div>
+<div class="links-grid-link"><a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.fi" title="Use alternative keyboard layouts">Näppäimistöasettelut</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fi" title="Aseta näppäimistön kohdistin vilkkumaan">osoitin vilkkumaan</a></span>, <span class="link"><a href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">esteettömyys</a></span>...</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-display.html" title="Näyttö">Näyttö</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Taustakuva</a></span>, <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">koko ja asento</a></span>, kirkkaus…</span></div>
+<div class="links-grid-link"><a href="prefs-display.html.fi" title="Näyttö">Näyttö</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="look-background.html.fi" title="Change the desktop and lock screen backgrounds">Taustakuva</a></span>, <span class="link"><a href="look-resolution.html.fi" title="Change the resolution or rotation of the screen">koko ja asento</a></span>, kirkkaus…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="clock.html" title="Päiväys ja kello">Päiväys ja kello</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="clock-set.html" title="Muuta päivämäärää ja aikaa">Aseta päivä ja aika</a></span>, <span class="link"><a href="clock-world.html" title="Lisää maailmankello">maailmankellot</a></span>, <span class="link"><a href="clock-timezone.html" title="Vaihda aikavyöhykettä">aikavyöhyke</a></span>, <span class="link"><a href="clock-calendar.html" title="Kalenteritapaamiset">kalenteri ja tapaamiset</a></span>…</span></div>
+<div class="links-grid-link"><a href="clock.html.fi" title="Päiväys ja kello">Päiväys ja kello</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-set.html.fi" title="Muuta päivämäärää ja aikaa">Aseta päivä ja aika</a></span>, <span class="link"><a href="clock-world.html.fi" title="Lisää maailmankello">maailmankellot</a></span>, <span class="link"><a href="clock-timezone.html.fi" title="Vaihda aikavyöhykettä">aikavyöhyke</a></span>, <span class="link"><a href="clock-calendar.html.fi" title="Kalenteritapaamiset">kalenteri ja tapaamiset</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="accounts.html" title="Verkkotilit">Verkkotilit</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html" title="Lisää tili">Lisää verkkotili</a></span>, <span class="link"><a href="accounts-remove.html" title="Poista tili">Poista tili</a></span>, <span class="link"><a href="accounts-which-application.html" title="Verkkopalvelut ja sovellukset">Lisätietoja palveluista</a></span>…</span></div>
+<div class="links-grid-link"><a href="accounts.html.fi" title="Verkkotilit">Verkkotilit</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html.fi" title="Lisää tili">Lisää verkkotili</a></span>, <span class="link"><a href="accounts-remove.html.fi" title="Poista tili">Poista tili</a></span>, <span class="link"><a href="accounts-which-application.html.fi" title="Verkkopalvelut ja sovellukset">Lisätietoja palveluista</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="power.html" title="Virransäästö ja akku">Virransäästö ja akku</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="power-status.html" title="Tarkista akun tila">Akun tila</a></span>, <span class="link"><a href="power-suspend.html" title="Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?">valmiustila</a></span>, <span class="link"><a href="power-whydim.html" title="Miksi näyttö himmenee itsestään?">näytön himmentäminen</a></span>…</span></div>
+<div class="links-grid-link"><a href="power.html.fi" title="Virransäästö ja akku">Virransäästö ja akku</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="power-status.html.fi" title="Tarkista akun tila">Akun tila</a></span>, <span class="link"><a href="power-suspend.html.fi" title="Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?">valmiustila</a></span>, <span class="link"><a href="power-whydim.html.fi" title="Miksi näyttö himmenee itsestään?">näytön himmentäminen</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html" title="Värinhallinta">Värinhallinta</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Miksi värinhallinnalla on merkitystä?">Värinhallinnan hyödyt</a></span>, <span class="link"><a href="color.html#profiles" title="Väriprofiilit">väriprofiilit</a></span>, <span class="link"><a href="color.html#calibration" title="Kalibrointi">kuinka kalibroida laite</a></span>…</span></div>
+<div class="links-grid-link"><a href="color.html.fi" title="Värinhallinta">Värinhallinta</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.fi" title="Miksi värinhallinnalla on merkitystä?">Värinhallinnan hyödyt</a></span>, <span class="link"><a href="color.html.fi#profiles" title="Väriprofiilit">väriprofiilit</a></span>, <span class="link"><a href="color.html.fi#calibration" title="Kalibrointi">kuinka kalibroida laite</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="wacom.html" title="Wacom-piirtopöydät">Wacom-piirtopöydät</a></div>
+<div class="links-grid-link"><a href="wacom.html.fi" title="Wacom-piirtopöydät">Wacom-piirtopöydät</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="wacom-multi-monitor.html" title="Valitse näyttö">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html" title="Määritä stylus-kynän asetukset">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html" title="Käytä piirtopöytää vasenkätisenä">use the tablet left handed</a></span>…
+      <span class="link"><a href="wacom-multi-monitor.html.fi" title="Valitse näyttö">Map a monitor</a></span>,
+      <span class="link"><a href="wacom-stylus.html.fi" title="Määritä stylus-kynän asetukset">configure the stylus</a></span>,
+      <span class="link"><a href="wacom-left-handed.html.fi" title="Käytä piirtopöytää vasenkätisenä">use the tablet left handed</a></span>…
   </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="privacy.html" title="Yksityisyysasetukset">Yksityisyysasetukset</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="privacy-screen-lock.html" title="Näytön automaattinen lukitseminen">Screen lock</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Turn off or limit file history tracking">käyttöhistoria</a></span>, <span class="link"><a href="privacy-purge.html" title="Purge trash &amp; temporary files">tyhjennä roskakori ja väliaikaiset tiedostot</a></span>…</span></div>
+<div class="links-grid-link"><a href="privacy.html.fi" title="Yksityisyysasetukset">Yksityisyysasetukset</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="privacy-screen-lock.html.fi" title="Näytön automaattinen lukitseminen">Screen lock</a></span>, <span class="link"><a href="privacy-history-recent-off.html.fi" title="Turn off or limit file history tracking">käyttöhistoria</a></span>, <span class="link"><a href="privacy-purge.html.fi" title="Purge trash &amp; temporary files">tyhjennä roskakori ja väliaikaiset tiedostot</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html#sound" title="Perusasiat äänestä">Ääni</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html" title="Muuta äänenvoimakkuutta">Äänenvoimakkuus</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Käytä eri kaiuttimia tai kuulokkeita">kaiuttimet ja kuulokkeet</a></span>, <span class="link"><a href="sound-usemic.html" title="Käytä eri mikrofonia">mikrofonit</a></span>…</span></div>
+<div class="links-grid-link"><a href="media.html.fi#sound" title="Perusasiat äänestä">Ääni</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html.fi" title="Muuta äänenvoimakkuutta">Äänenvoimakkuus</a></span>, <span class="link"><a href="sound-usespeakers.html.fi" title="Käytä eri kaiuttimia tai kuulokkeita">kaiuttimet ja kuulokkeet</a></span>, <span class="link"><a href="sound-usemic.html.fi" title="Käytä eri mikrofonia">mikrofonit</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntun työpöytäopas">Ubuntun työpöytäopas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.fi" title="Ubuntun työpöytäopas">Ubuntun työpöytäopas</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

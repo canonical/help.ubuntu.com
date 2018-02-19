@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html#tips" title="Tips">Tips</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="mouse.html.ca" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html.ca#tips" title="Tips">Tips</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="mouse.html" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html#tips" title="Tips">Tips</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="mouse.html.ca" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html.ca#tips" title="Tips">Tips</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Tips &amp; tricks">Tips &amp; tricks</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.ca" title="Tips &amp; tricks">Tips &amp; tricks</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -62,7 +62,7 @@ can press the left and right mouse buttons at the same time to
 middle-click.</p>
 <p class="p">On touchpads that support multi-finger taps, you can tap with three
 fingers at once to middle-click. You have to
-<span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">enable tap clicking</a></span> in the
+<span class="link"><a href="mouse-touchpad-click.html.ca" title="Click, drag, or scroll with the touchpad">enable tap clicking</a></span> in the
 touchpad settings for this to work.</p>
 <p class="p">Many applications use middle-click for advanced click shortcuts.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
@@ -88,9 +88,9 @@ button for other functions. Search your application’s help for
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="mouse.html#tips" title="Tips">Mouse tips</a></li>
+<li class="links "><a href="mouse.html.ca#tips" title="Tips">Mouse tips</a></li>
 <li class="links ">
-<a href="tips.html" title="Tips &amp; tricks">Tips &amp; tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Enter special characters">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Middle-click">middle click shortcuts</a></span>…</span>
+<a href="tips.html.ca" title="Tips &amp; tricks">Tips &amp; tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.ca" title="Enter special characters">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html.ca" title="Middle-click">middle click shortcuts</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

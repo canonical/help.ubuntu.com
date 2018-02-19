@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Esteettömyys">Esteettömyys</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.fi" title="Esteettömyys">Esteettömyys</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Löydä esteettömyystoimintojen valikko</span></h1></div>
@@ -61,7 +61,7 @@
 <p class="p">If you do not see the universal access menu, you can enable it from the
   <span class="gui">Universal Access</span> settings panel:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Esteettömyys</span> avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Always Show Universal Access Menu</span> to
@@ -81,7 +81,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y.html" title="Esteettömyys">Esteettömyys</a><span class="desc"> — <span class="link"><a href="a11y.html#vision" title="Näkörajoitteisuudet">Näkeminen</a></span>, <span class="link"><a href="a11y.html#sound" title="Kuuloon liittyvät rajoitteisuudet">kuuleminen</a></span>, <span class="link"><a href="a11y.html#mobility" title="Liikuntarajoitteisuudet">liikkuvuus</a></span>, <span class="link"><a href="a11y-braille.html" title="Lue näytön sisältöä pistekirjoituksella">sokeainkirjoitus</a></span>, <span class="link"><a href="a11y-mag.html" title="Näytön alueen suurentaminen">näytön suurennos</a></span>...</span>
+<a href="a11y.html.fi" title="Esteettömyys">Esteettömyys</a><span class="desc"> — <span class="link"><a href="a11y.html.fi#vision" title="Näkörajoitteisuudet">Näkeminen</a></span>, <span class="link"><a href="a11y.html.fi#sound" title="Kuuloon liittyvät rajoitteisuudet">kuuleminen</a></span>, <span class="link"><a href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">liikkuvuus</a></span>, <span class="link"><a href="a11y-braille.html.fi" title="Lue näytön sisältöä pistekirjoituksella">sokeainkirjoitus</a></span>, <span class="link"><a href="a11y-mag.html.fi" title="Näytön alueen suurentaminen">näytön suurennos</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Comptes en ligne</span></h1></div>
@@ -54,14 +54,14 @@
   applications to access online services like email, calendars, chat, and
   documents.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="accounts-add.html" title="Ajout d'un compte"><span class="title">Ajout d'un compte</span><span class="linkdiv-dash"> — </span><span class="desc">Allow applications to access your accounts online for photos,
+<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.fr" title="Ajout d'un compte"><span class="title">Ajout d'un compte</span><span class="linkdiv-dash"> — </span><span class="desc">Allow applications to access your accounts online for photos,
     contacts, calendars, and more.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html" title="Suppression d'un compte"><span class="title">Suppression d'un compte</span><span class="linkdiv-dash"> — </span><span class="desc">Remove access to an online service provider from your
+<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.fr" title="Suppression d'un compte"><span class="title">Suppression d'un compte</span><span class="linkdiv-dash"> — </span><span class="desc">Remove access to an online service provider from your
     applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html" title="Why add an account?"><span class="title">Why add an account?</span><span class="linkdiv-dash"> — </span><span class="desc">Pourquoi ajouter vos courriels ou vos comptes de réseau social à votre bureau ?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html" title="Contrôle des services en ligne accessibles par un compte"><span class="title">Contrôle des services en ligne accessibles par un compte</span><span class="linkdiv-dash"> — </span><span class="desc">Certains comptes en ligne peuvent être utilisés pour accéder à de nombreux services (comme les agendas et les courriels). Vous pouvez contrôler quels services peuvent être utilisés par les applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html" title="Online services and applications"><span class="title">Online services and applications</span><span class="linkdiv-dash"> — </span><span class="desc">Les applications peuvent utiliser les comptes créés dans <span class="app">Comptes en ligne</span> et les services qu'elles exploitent.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html" title="Pourquoi mon type de compte n'apparaît-il pas dans la liste ?"><span class="title">Pourquoi mon type de compte n'apparaît-il pas dans la liste ?</span><span class="linkdiv-dash"> — </span><span class="desc">Et si un fournisseur de service en ligne n'est pas dans la liste ?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.fr" title="Why add an account?"><span class="title">Why add an account?</span><span class="linkdiv-dash"> — </span><span class="desc">Pourquoi ajouter vos courriels ou vos comptes de réseau social à votre bureau ?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.fr" title="Contrôle des services en ligne accessibles par un compte"><span class="title">Contrôle des services en ligne accessibles par un compte</span><span class="linkdiv-dash"> — </span><span class="desc">Certains comptes en ligne peuvent être utilisés pour accéder à de nombreux services (comme les agendas et les courriels). Vous pouvez contrôler quels services peuvent être utilisés par les applications.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.fr" title="Online services and applications"><span class="title">Online services and applications</span><span class="linkdiv-dash"> — </span><span class="desc">Les applications peuvent utiliser les comptes créés dans <span class="app">Comptes en ligne</span> et les services qu'elles exploitent.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html.fr" title="Pourquoi mon type de compte n'apparaît-il pas dans la liste ?"><span class="title">Pourquoi mon type de compte n'apparaît-il pas dans la liste ?</span><span class="linkdiv-dash"> — </span><span class="desc">Et si un fournisseur de service en ligne n'est pas dans la liste ?</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -70,20 +70,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Paramètres utilisateur et système">Paramètres utilisateur et système</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Clavier">Clavier</a></span>, <span class="link"><a href="mouse.html" title="Souris">souris</a></span>, <span class="link"><a href="prefs-display.html" title="Affichage et écran">écran</a></span>, <span class="link"><a href="prefs-language.html" title="Pays &amp; langue.">langues</a></span>, <span class="link"><a href="user-accounts.html" title="Comptes utilisateurs">comptes utilisateurs</a></span>…</span>
+<a href="prefs.html.fr" title="Paramètres utilisateur et système">Paramètres utilisateur et système</a><span class="desc"> — <span class="link"><a href="keyboard.html.fr" title="Clavier">Clavier</a></span>, <span class="link"><a href="mouse.html.fr" title="Souris">souris</a></span>, <span class="link"><a href="prefs-display.html.fr" title="Affichage et écran">écran</a></span>, <span class="link"><a href="prefs-language.html.fr" title="Pays &amp; langue.">langues</a></span>, <span class="link"><a href="user-accounts.html.fr" title="Comptes utilisateurs">comptes utilisateurs</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat.html" title="Clavardage &amp; réseaux sociaux">Clavardage &amp; réseaux sociaux</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Messagerie instantanée dans Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Visioconférences">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Comment puis-je utiliser Skype sur Ubuntu ?">install skype</a></span>
+<a href="net-chat.html.fr" title="Clavardage &amp; réseaux sociaux">Clavardage &amp; réseaux sociaux</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.fr" title="Messagerie instantanée dans Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.fr" title="Visioconférences">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.fr" title="Comment puis-je utiliser Skype sur Ubuntu ?">install skype</a></span>
     </span>
 </li>
-<li class="links "><a href="gs-connect-online-accounts.html" title="Connexion aux comptes en ligne">Connexion aux comptes en ligne</a></li>
+<li class="links "><a href="gs-connect-online-accounts.html.fr" title="Connexion aux comptes en ligne">Connexion aux comptes en ligne</a></li>
 </ul></div>
 </div></div>
 </div>

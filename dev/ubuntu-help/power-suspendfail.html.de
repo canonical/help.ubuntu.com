@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Häufige Probleme">Probleme</a> » <a class="trail" href="hardware-problems-graphics.html" title="Bildschirmprobleme">Bildschirmprobleme</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html.de#problems" title="Häufige Probleme">Probleme</a> » <a class="trail" href="hardware-problems-graphics.html.de" title="Bildschirmprobleme">Bildschirmprobleme</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Häufige Probleme">Probleme</a> » <a class="trail" href="power.html#problems" title="Probleme">Energieprobleme</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html.de#problems" title="Häufige Probleme">Probleme</a> » <a class="trail" href="power.html.de#problems" title="Probleme">Energieprobleme</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Warum wacht mein Rechner nicht mehr auf, nachdem ich ihn in Bereitschaft versetzt habe?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Wenn Sie Ihren Rechner in <span class="link"><a href="power-suspend.html" title="Was passiert, wenn ich den Rechner in Bereitschaft versetze?">Bereitschaft</a></span>) versetzen und dann versuchen, ihn wieder aufzuwecken, kann es sein, dass das nicht so funktioniert wie erwartet. Das könnte daran liegen, dass die Bereitschaft von Ihrer Hardware nicht richtig unterstützt wird.</p></div>
+<div class="contents"><p class="p">Wenn Sie Ihren Rechner in <span class="link"><a href="power-suspend.html.de" title="Was passiert, wenn ich den Rechner in Bereitschaft versetze?">Bereitschaft</a></span>) versetzen und dann versuchen, ihn wieder aufzuwecken, kann es sein, dass das nicht so funktioniert wie erwartet. Das könnte daran liegen, dass die Bereitschaft von Ihrer Hardware nicht richtig unterstützt wird.</p></div>
 <div id="resume" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Mein Rechner ist in Bereitschaft und wacht nicht mehr auf</span></h2></div>
 <div class="region"><div class="contents">
@@ -66,7 +66,7 @@
 <div id="hardware" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Meine kabellose Verbindung (oder andere Hardware) funktioniert nicht, wenn ich meinen Rechner aufwecke</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Wenn Sie Ihren Rechner in Bereitschaft versetzen und dann wieder aufwecken, kann es sein, dass die Internetverbindung, die Maus oder irgendein anderes Gerät nicht richtig funktioniert. Das könnte daran liegen, dass der Gerätetreiber Bereitschaft nicht richtig unterstützt. Das ist ein <span class="link"><a href="hardware-driver.html" title="Was ist ein Treiber?">Problem mit dem Treiber</a></span> und nicht mit dem Gerät selbst.</p>
+<p class="p">Wenn Sie Ihren Rechner in Bereitschaft versetzen und dann wieder aufwecken, kann es sein, dass die Internetverbindung, die Maus oder irgendein anderes Gerät nicht richtig funktioniert. Das könnte daran liegen, dass der Gerätetreiber Bereitschaft nicht richtig unterstützt. Das ist ein <span class="link"><a href="hardware-driver.html.de" title="Was ist ein Treiber?">Problem mit dem Treiber</a></span> und nicht mit dem Gerät selbst.</p>
 <p class="p">Wenn das Gerät eine Ein-/Ausschalttaste hat, versuchen Sie es auszuschalten und dann wieder einzuschalten. In den meisten Fällen wird das Gerät wieder funktionieren. Wenn es mit einem USB-Kabel oder Ähnlichem angeschlossen ist, stecken Sie das Gerät aus und dann wieder ein und sehen Sie, ob es wieder funktioniert.</p>
 <p class="p">Wenn Sie das Gerät nicht ausschalten oder ausstecken können oder wenn das nicht geholfen hat, müssen Sie den Rechner gegebenenfalls neu starten, um das Gerät wieder in Gang zu bringen.</p>
 </div></div>
@@ -78,10 +78,10 @@
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Bildschirmprobleme">Bildschirmprobleme</a><span class="desc"> — Fehlerbeseitigung bei Bildschirm- und Grafikproblemen.</span>
+<a href="hardware-problems-graphics.html.de" title="Bildschirmprobleme">Bildschirmprobleme</a><span class="desc"> — Fehlerbeseitigung bei Bildschirm- und Grafikproblemen.</span>
 </li>
 <li class="links ">
-<a href="power.html#problems" title="Probleme">Energieprobleme</a><span class="desc"> — Problemlösungen mit Stromversorgung und Akkus.</span>
+<a href="power.html.de#problems" title="Probleme">Energieprobleme</a><span class="desc"> — Problemlösungen mit Stromversorgung und Akkus.</span>
 </li>
 </ul></div>
 </div></div>
@@ -89,19 +89,19 @@
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-nowireless.html" title="Ich habe keine Funknetzwerkverbindung, wenn ich meinen Rechner aus einem Energiesparmodus aufwecke">Ich habe keine Funknetzwerkverbindung, wenn ich meinen Rechner aus einem Energiesparmodus aufwecke</a><span class="desc"> — Einige Funknetzwerkgeräte haben Probleme, wenn der Rechner in den Ruhezustand versetzt wurde und nicht richtig aufgeweckt wird.</span>
+<a href="power-nowireless.html.de" title="Ich habe keine Funknetzwerkverbindung, wenn ich meinen Rechner aus einem Energiesparmodus aufwecke">Ich habe keine Funknetzwerkverbindung, wenn ich meinen Rechner aus einem Energiesparmodus aufwecke</a><span class="desc"> — Einige Funknetzwerkgeräte haben Probleme, wenn der Rechner in den Ruhezustand versetzt wurde und nicht richtig aufgeweckt wird.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="Warum wird mein Rechner abgeschaltet, wenn ich den Deckel schließe?">Warum wird mein Rechner abgeschaltet, wenn ich den Deckel schließe?</a><span class="desc"> — Laptops werden in Bereitschaft versetzt, wenn sie zugeklappt werden, um Strom zu sparen.</span>
+<a href="power-closelid.html.de" title="Warum wird mein Rechner abgeschaltet, wenn ich den Deckel schließe?">Warum wird mein Rechner abgeschaltet, wenn ich den Deckel schließe?</a><span class="desc"> — Laptops werden in Bereitschaft versetzt, wenn sie zugeklappt werden, um Strom zu sparen.</span>
 </li>
 <li class="links ">
-<a href="hardware-driver.html" title="Was ist ein Treiber?">Was ist ein Treiber?</a><span class="desc"> — Ein Hardware-/Geräte-Treiber ermöglicht Ihrem Rechner die Verwendung von Geräten, die mit ihm verbunden sind.</span>
+<a href="hardware-driver.html.de" title="Was ist ein Treiber?">Was ist ein Treiber?</a><span class="desc"> — Ein Hardware-/Geräte-Treiber ermöglicht Ihrem Rechner die Verwendung von Geräten, die mit ihm verbunden sind.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Was passiert, wenn ich den Rechner in Bereitschaft versetze?">Was passiert, wenn ich den Rechner in Bereitschaft versetze?</a><span class="desc"> — Bereitschaft versetzt Ihren Rechner in einen Energiesparmodus, so dass er weniger Strom verbraucht.</span>
+<a href="power-suspend.html.de" title="Was passiert, wenn ich den Rechner in Bereitschaft versetze?">Was passiert, wenn ich den Rechner in Bereitschaft versetze?</a><span class="desc"> — Bereitschaft versetzt Ihren Rechner in einen Energiesparmodus, so dass er weniger Strom verbraucht.</span>
 </li>
 <li class="links ">
-<a href="power-hibernate.html" title="Wie versetze ich meinen Rechner in den Ruhezustand?">Wie versetze ich meinen Rechner in den Ruhezustand?</a><span class="desc"> — Der Ruhezustand ist standardmäßig deaktiviert, weil er schlecht unterstützt wird.</span>
+<a href="power-hibernate.html.de" title="Wie versetze ich meinen Rechner in den Ruhezustand?">Wie versetze ich meinen Rechner in den Ruhezustand?</a><span class="desc"> — Der Ruhezustand ist standardmäßig deaktiviert, weil er schlecht unterstützt wird.</span>
 </li>
 </ul></div>
 </div></div>

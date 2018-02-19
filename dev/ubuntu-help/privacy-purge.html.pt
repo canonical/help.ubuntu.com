@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="privacy.html" title="Configuração de privacidade">Configuração de privacidade</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="privacy.html.pt" title="Configuração de privacidade">Configuração de privacidade</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html.pt#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Esvaziar automaticamente a caixote do lixo e limpar os ficheiros temporários</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> comece a escrever <span class="gui">Privacidade</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> comece a escrever <span class="gui">Privacidade</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Privacidade</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione <span class="gui">Limpar a caixote do lixo e os ficheiros temporários</span>.</p></li>
 <li class="steps"><p class="p">Mova um ou ambos deslizadores <span class="gui">Esvaziar a caixote do lixo automaticamente</span> ou <span class="gui">Limpar os ficheiros temporários automaticamente</span> a <span class="gui">Ignição</span>.</p></li>
@@ -66,7 +66,7 @@
 <li class="steps"><p class="p">Use os <span class="gui">Esvaziar caixote do lixo</span> ou <span class="gui">Limpar ficheiros temporários</span> para realizar estas ações imediatamente.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Pode eliminar ficheiros imediata e permanentemente se usar a caixote do lixo. Consulte a <span class="link"><a href="files-delete.html#permanent" title="Eliminar permanentemente um ficheiro">Eliminar permanentemente um ficheiro</a></span> para obter mais informação.</p></div></div></div></div>
+<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">Pode eliminar ficheiros imediata e permanentemente se usar a caixote do lixo. Consulte a <span class="link"><a href="files-delete.html.pt#permanent" title="Eliminar permanentemente um ficheiro">Eliminar permanentemente um ficheiro</a></span> para obter mais informação.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -74,9 +74,9 @@
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy.html" title="Configuração de privacidade">Configuração de privacidade</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Bloquear automaticamente seu ecrã">Ecrã de bloqueio</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Desativar ou limitar o registro do histórico">Historico de uso</a></span>, <span class="link"><a href="privacy-purge.html" title="Limpar a caixote do lixo e os ficheiros temporários">Esvaziar caixote do lixo e ficheiros temporários</a></span>…</span>
+<a href="privacy.html.pt" title="Configuração de privacidade">Configuração de privacidade</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.pt" title="Bloquear automaticamente seu ecrã">Ecrã de bloqueio</a></span>, <span class="link"><a href="privacy-history-recent-off.html.pt" title="Desativar ou limitar o registro do histórico">Historico de uso</a></span>, <span class="link"><a href="privacy-purge.html.pt" title="Limpar a caixote do lixo e os ficheiros temporários">Esvaziar caixote do lixo e ficheiros temporários</a></span>…</span>
 </li>
-<li class="links "><a href="files.html#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a></li>
+<li class="links "><a href="files.html.pt#more-file-tasks" title="Mais tarefas relacionadas com ficheiros">Mais tarefas relacionadas com ficheiros</a></li>
 </ul></div>
 </div></div></div>
 </div>

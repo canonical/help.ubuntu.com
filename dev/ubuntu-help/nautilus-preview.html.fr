@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a> » <a class="trail" href="nautilus-prefs.html" title="Préférences du gestionnaire de fichiers">Préférences du gestionnaire de fichiers</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html.fr" title="Fichiers, dossiers &amp; recherches">Fichiers</a> › <a class="trail" href="files.html.fr#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a> » <a class="trail" href="nautilus-prefs.html.fr" title="Préférences du gestionnaire de fichiers">Préférences du gestionnaire de fichiers</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Préférences d'aperçu du gestionnaire de fichiers</span></h1></div>
@@ -53,11 +53,11 @@
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Files</span></dt>
 <dd class="terms">
-<p class="p">Par défaut, les aperçus ne sont disponibles que pour <span class="gui">Uniquement les fichiers locaux</span> de votre ordinateur ou les fichiers sur un support externe qui y est connecté. Vous pouvez régler cette caractéristique sur <span class="gui">Toujours</span> ou <span class="gui">Jamais</span>. Le gestionnaire de fichiers peut aussi <span class="link"><a href="nautilus-connect.html" title="Consultation de fichiers sur un serveur ou un réseau partagé">consulter des fichiers sur un autre ordinateur</a></span> ou sur un réseau local ou sur internet. Si vous avez souvent besoin de ces fonctions et si le serveur possède suffisamment de bande passante, vous pouvez mettre quelques unes (ou toutes) les options d'aperçu sur <span class="gui">Toujours</span>.</p>
+<p class="p">Par défaut, les aperçus ne sont disponibles que pour <span class="gui">Uniquement les fichiers locaux</span> de votre ordinateur ou les fichiers sur un support externe qui y est connecté. Vous pouvez régler cette caractéristique sur <span class="gui">Toujours</span> ou <span class="gui">Jamais</span>. Le gestionnaire de fichiers peut aussi <span class="link"><a href="nautilus-connect.html.fr" title="Consultation de fichiers sur un serveur ou un réseau partagé">consulter des fichiers sur un autre ordinateur</a></span> ou sur un réseau local ou sur internet. Si vous avez souvent besoin de ces fonctions et si le serveur possède suffisamment de bande passante, vous pouvez mettre quelques unes (ou toutes) les options d'aperçu sur <span class="gui">Toujours</span>.</p>
 <p class="p">En outre, vous pouvez recourir à <span class="gui">Uniquement pour les fichiers de taille inférieure à</span> pour limiter la taille des fichiers d'aperçu.</p>
 </dd>
 <dt class="terms"><span class="gui">Folders</span></dt>
-<dd class="terms"><p class="p">Si vous affichez les tailles de fichiers dans <span class="link"><a href="nautilus-list.html" title="Préférences des colonnes dans Fichiers">les colonnes de la vue en liste</a></span> ou dans les <span class="link"><a href="nautilus-display.html#icon-captions" title="Libellés des icônes">libellés des icônes</a></span>, les dossiers affichent le nombre de fichiers et de sous-dossiers qu'ils contiennent. Le comptage peut être très long si le contenu est très important, ou s'effectue à travers un réseau. Vous pouvez activer ou désactiver cette fonctionnalité ou l'activer seulement pour les fichiers de votre ordinateur ou d'un lecteur qui y est connecté.</p></dd>
+<dd class="terms"><p class="p">Si vous affichez les tailles de fichiers dans <span class="link"><a href="nautilus-list.html.fr" title="Préférences des colonnes dans Fichiers">les colonnes de la vue en liste</a></span> ou dans les <span class="link"><a href="nautilus-display.html.fr#icon-captions" title="Libellés des icônes">libellés des icônes</a></span>, les dossiers affichent le nombre de fichiers et de sous-dossiers qu'ils contiennent. Le comptage peut être très long si le contenu est très important, ou s'effectue à travers un réseau. Vous pouvez activer ou désactiver cette fonctionnalité ou l'activer seulement pour les fichiers de votre ordinateur ou d'un lecteur qui y est connecté.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Préférences du gestionnaire de fichiers">Préférences du gestionnaire de fichiers</a><span class="desc"> — Afficher et définir les préférences du navigateur de fichiers.</span>
+<a href="nautilus-prefs.html.fr" title="Préférences du gestionnaire de fichiers">Préférences du gestionnaire de fichiers</a><span class="desc"> — Afficher et définir les préférences du navigateur de fichiers.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-preview.html" title="Aperçu des fichiers et des dossiers">Aperçu des fichiers et des dossiers</a><span class="desc"> — Afficher et masquer rapidement des aperçus de documents, de vidéos et autres.</span>
+<a href="files-preview.html.fr" title="Aperçu des fichiers et des dossiers">Aperçu des fichiers et des dossiers</a><span class="desc"> — Afficher et masquer rapidement des aperçus de documents, de vidéos et autres.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html#more-file-tasks" title="Vēl ar datnēm saistīti uzdevumi">Vēl ar datnēm saistīti uzdevumi</a> » <a class="trail" href="nautilus-prefs.html" title="Datņu pārvaldnieka iestatījumi">Datņu pārvaldnieka iestatījumi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.lv" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html.lv#more-file-tasks" title="Vēl ar datnēm saistīti uzdevumi">Vēl ar datnēm saistīti uzdevumi</a> » <a class="trail" href="nautilus-prefs.html.lv" title="Datņu pārvaldnieka iestatījumi">Datņu pārvaldnieka iestatījumi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Datņu pārvaldnieka priekšskatījuma iestatījumi.</span></h1></div>
@@ -53,11 +53,11 @@
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Datnes</span></dt>
 <dd class="terms">
-<p class="p">Pēc noklusējuma visi priekšskatījumi tiek veidoti <span class="gui">tikai lokālajām datnēm</span> — tiem, kas ir jūsu datorā vai pievienoti ārējos diskos. Jūs varat iestatīt šo iespēju uz <span class="gui">Vienmēr</span> vai <span class="gui">Nekad</span>. Datņu pārvaldnieks var <span class="link"><a href="nautilus-connect.html" title="Pārlūkojiet datnes uz servera vai tīkla koplietojumā">pārlūkot citos datoros esošās datnes</a></span> caur lokālo tīklu vai internetu. Ja bieži pārlūkojat datnes caur lokālo tīklu vai internetu un, ja tīklam ir liela caurlaidība, jūs varētu vēlēties iestatīt priekšskatīšanas opcijas uz <span class="gui">Vienmēr</span>.</p>
+<p class="p">Pēc noklusējuma visi priekšskatījumi tiek veidoti <span class="gui">tikai lokālajām datnēm</span> — tiem, kas ir jūsu datorā vai pievienoti ārējos diskos. Jūs varat iestatīt šo iespēju uz <span class="gui">Vienmēr</span> vai <span class="gui">Nekad</span>. Datņu pārvaldnieks var <span class="link"><a href="nautilus-connect.html.lv" title="Pārlūkojiet datnes uz servera vai tīkla koplietojumā">pārlūkot citos datoros esošās datnes</a></span> caur lokālo tīklu vai internetu. Ja bieži pārlūkojat datnes caur lokālo tīklu vai internetu un, ja tīklam ir liela caurlaidība, jūs varētu vēlēties iestatīt priekšskatīšanas opcijas uz <span class="gui">Vienmēr</span>.</p>
 <p class="p">Kā arī, jūs varat izmantot <span class="gui">Tikai datnēm, mazākām par</span> iestatījumu, lai ierobežotu priekšskatāmo datņu izmēru.</p>
 </dd>
 <dt class="terms"><span class="gui">Mapes</span></dt>
-<dd class="terms"><p class="p">Ja norādāt datnes izmēru <span class="link"><a href="nautilus-list.html" title="Datņu saraksta kolonnu iestatījumi">Saraksta skata kolonnas</a></span> vai <span class="link"><a href="nautilus-display.html#icon-captions" title="Ikonu paraksti">Ikonu paraksti</a></span>, mapes tiks attēlotas ar to saturošo datņu un mapju daudzumu. Vienumu saskaitīšana mapē var būt lēna, it īpaši liela izmēra mapēm vai, ja tā tiek skatīta caur tīklu. Jūs varat izslēgt vai ieslēgt šo iespēju tikai savā datorā un ārējos diskdziņos.</p></dd>
+<dd class="terms"><p class="p">Ja norādāt datnes izmēru <span class="link"><a href="nautilus-list.html.lv" title="Datņu saraksta kolonnu iestatījumi">Saraksta skata kolonnas</a></span> vai <span class="link"><a href="nautilus-display.html.lv#icon-captions" title="Ikonu paraksti">Ikonu paraksti</a></span>, mapes tiks attēlotas ar to saturošo datņu un mapju daudzumu. Vienumu saskaitīšana mapē var būt lēna, it īpaši liela izmēra mapēm vai, ja tā tiek skatīta caur tīklu. Jūs varat izslēgt vai ieslēgt šo iespēju tikai savā datorā un ārējos diskdziņos.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Datņu pārvaldnieka iestatījumi">Datņu pārvaldnieka iestatījumi</a><span class="desc"> — Skatīt un iestatīt iestatījumus datņu pārlūkam.</span>
+<a href="nautilus-prefs.html.lv" title="Datņu pārvaldnieka iestatījumi">Datņu pārvaldnieka iestatījumi</a><span class="desc"> — Skatīt un iestatīt iestatījumus datņu pārlūkam.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-preview.html" title="Priekšskatīt datnes un mapes">Priekšskatīt datnes un mapes</a><span class="desc"> — Ātri parādīt un paslēpt dokumentu, attēlu, video un citu datņu priekšskatījumus.</span>
+<a href="files-preview.html.lv" title="Priekšskatīt datnes un mapes">Priekšskatīt datnes un mapes</a><span class="desc"> — Ātri parādīt un paslēpt dokumentu, attēlu, video un citu datņu priekšskatījumus.</span>
 </li></ul></div>
 </div></div>
 </div>

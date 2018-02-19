@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="mouse.html" title="鼠标">鼠标</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> » <a class="trail" href="mouse.html.zh-CN" title="鼠标">鼠标</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="mouse.html" title="鼠标">鼠标</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="mouse.html.zh-CN" title="鼠标">鼠标</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="通用辅助功能">通用辅助功能</a> › <a class="trail" href="a11y.html#mobility" title="运动障碍">运动障碍</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.zh-CN" title="通用辅助功能">通用辅助功能</a> › <a class="trail" href="a11y.html.zh-CN#mobility" title="运动障碍">运动障碍</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,13 +58,13 @@
 <p class="p">如果您使用鼠标或其他指针设备有困难，可以用数字小键盘来控制鼠标指针。这个特性称作 <span class="em">鼠标键</span>。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p>
 <p class="p">You can access the <span class="gui">Activities</span> overview by pressing on it,
       by moving your mouse pointer against the top-left corner of the screen,
       using <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>
       followed by <span class="key"><kbd>Enter</kbd></span> or using
-      <span class="key"><a href="keyboard-key-super.html" title="What is the Super key?"><kbd>Super</kbd></a></span>.</p>
+      <span class="key"><a href="keyboard-key-super.html.zh-CN" title="What is the Super key?"><kbd>Super</kbd></a></span>.</p>
 </li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Use the up and down arrow keys to select <span class="gui">Mouse Keys</span> in the
@@ -80,9 +80,9 @@
   keypads.</p>
 <p class="p">小键盘上的每个数字代表一个方向。例如，按<span class="key"><kbd>8</kbd></span>是向上，按<span class="key"><kbd>2</kbd></span>是向下。按<span class="key"><kbd>5</kbd></span>是向单击，快速按两下是双击。</p>
 <p class="p">Most keyboards have a special key which allows you to right-click,
-  sometimes called the <span class="key"><a href="keyboard-key-menu.html" title="What is the Menu key?"><kbd>Menu</kbd></a></span> key. Note,
+  sometimes called the <span class="key"><a href="keyboard-key-menu.html.zh-CN" title="What is the Menu key?"><kbd>Menu</kbd></a></span> key. Note,
   however, that this key responds to where your keyboard focus is, not where
-  your mouse pointer is. See <span class="link"><a href="a11y-right-click.html" title="模拟右键点击">模拟右键点击</a></span> for information on
+  your mouse pointer is. See <span class="link"><a href="a11y-right-click.html.zh-CN" title="模拟右键点击">模拟右键点击</a></span> for information on
   how to right-click by holding down <span class="key"><kbd>5</kbd></span> or the left mouse button.</p>
 <p class="p">如果这时您想输入数字，只要开启 <span class="key"><kbd>Num Lock</kbd></span> 数字灯，<span class="key"><kbd>Num Lock</kbd></span> 灯亮的时候鼠标不能被键盘控制。</p>
 <div class="note" title="备注"><div class="inner"><div class="region"><div class="contents"><p class="p">键盘上面还有一排普通数字键，它们不能控制鼠标指针，只能当数字按键使用。</p></div></div></div></div>
@@ -92,9 +92,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="运动障碍">运动障碍</a></li>
+<li class="links "><a href="a11y.html.zh-CN#mobility" title="运动障碍">运动障碍</a></li>
 <li class="links ">
-<a href="mouse.html" title="鼠标">鼠标</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="左手使用习惯">左手习惯</a></span>、<span class="link"><a href="mouse-sensitivity.html" title="调整鼠标或触摸板的速度">速度和灵敏度</a></span>、<span class="link"><a href="mouse-touchpad-click.html" title="用触摸板点击、拖动、滚屏操作">触摸板上点击和滚动</a></span>…</span>
+<a href="mouse.html.zh-CN" title="鼠标">鼠标</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.zh-CN" title="左手使用习惯">左手习惯</a></span>、<span class="link"><a href="mouse-sensitivity.html.zh-CN" title="调整鼠标或触摸板的速度">速度和灵敏度</a></span>、<span class="link"><a href="mouse-touchpad-click.html.zh-CN" title="用触摸板点击、拖动、滚屏操作">触摸板上点击和滚动</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

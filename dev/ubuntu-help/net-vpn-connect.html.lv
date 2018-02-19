@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wireless.html" title="Bezvadu tīkls">Bezvadu tīkls</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wired.html" title="Vadu savienojums">Vadu savienojums</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wired.html.lv" title="Vadu savienojums">Vadu savienojums</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,13 +58,13 @@
 <div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Ja nav NetworkManager pakotnes, kas paredzēta jūsu VPN tipam, jums, iespējams, vajadzēs lejupielādēt un iestatīt kādu klienta programmu no kompānijas, kas nodrošina VPN programmatūru. Jums, iespējams, vajadzēs sekot vairākām dažādām instrukcijām, lai tas strādātu.</p></div></div></div></div>
 <p class="p">Lai iestatītu VPN savienojumu:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Tīkls</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Tīkls</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Tīkls</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Kreisajā saraksta pusē spiediet <span class="gui">+</span> pogu, lai pievienotu jaunu savienojumu.</p></li>
 <li class="steps"><p class="p">Izvēlieties <span class="gui">VPN</span> saskarņu sarakstā.</p></li>
 <li class="steps"><p class="p">Izvēlieties, kāda veida VPN savienojums jums ir.</p></li>
 <li class="steps"><p class="p">Aizpildiet informāciju par VPN, beigās spiediet <span class="gui">Pievienot</span>.</p></li>
-<li class="steps"><p class="p">Kad esat beidzis VPN izveidi, atveriet <span class="gui"><a href="shell-introduction.html#yourname" title="Jūs un jūsu dators">sistēmas izvēlni</a></span> labajā pusē augšējā joslā, spiediet <span class="gui">VPN ir izslēgts</span> un izvēlieties <span class="gui">Savienoties</span>. Jums visdrīzāk būs jāievada paroli, pirms varēs izveidot savienojumu. Kad savienojums ir izveidots, augšējā joslā redzēsiet ikonu, kas izskatās pēc slēdzenes. </p></li>
+<li class="steps"><p class="p">Kad esat beidzis VPN izveidi, atveriet <span class="gui"><a href="shell-introduction.html.lv#yourname" title="Jūs un jūsu dators">sistēmas izvēlni</a></span> labajā pusē augšējā joslā, spiediet <span class="gui">VPN ir izslēgts</span> un izvēlieties <span class="gui">Savienoties</span>. Jums visdrīzāk būs jāievada paroli, pirms varēs izveidot savienojumu. Kad savienojums ir izveidots, augšējā joslā redzēsiet ikonu, kas izskatās pēc slēdzenes. </p></li>
 <li class="steps"><p class="p">Cerams, jūs veiksmīgi savienosities ar VPN. Ja nē, varbūt vēlreiz ir nepieciešams pārbaudīt ievadītos VPN iestatījumus. Jūs to varat izdarīt no <span class="gui">Tīkla</span> paneļa, ko izmantojāt, lai izveidotu savienojumu. No saraksta izvēlieties VPN savienojumu, tad spiediet pogu <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="iestatījumi"></span></span>, lai pārskatītu iestatījumus.</p></li>
 <li class="steps"><p class="p">Lai atvienotos no VPN, spiediet uz sistēmas izvēlnē augšējajā joslā un spiediet <span class="gui">Izslēgt</span> zem sava VPN savienojuma nosaukuma.</p></li>
 </ol></div></div></div>
@@ -75,10 +75,10 @@
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html" title="Bezvadu tīkls">Bezvadu tīkls</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Savienoties ar bezvadu tīklu">Savienoties ar WiFi</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Savienojaties ar slēptu bezvadu tīklu.">Slēptie tīkli</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Kādēļ mans bezvadu tīkls mani atvieno?">Atvienoties</a></span>…</span>
+<a href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.lv" title="Savienoties ar bezvadu tīklu">Savienoties ar WiFi</a></span>, <span class="link"><a href="net-wireless-hidden.html.lv" title="Savienojaties ar slēptu bezvadu tīklu.">Slēptie tīkli</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.lv" title="Kādēļ mans bezvadu tīkls mani atvieno?">Atvienoties</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wired.html" title="Vadu savienojums">Vadu savienojums</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Tīkla savienojums ar vadu (tīkls Ethernet)">Vadu interneta savienojumi</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Veidot savienojumu ar fiksēto IP adresi.">Fiksētas IP adreses</a></span>…</span>
+<a href="net-wired.html.lv" title="Vadu savienojums">Vadu savienojums</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.lv" title="Tīkla savienojums ar vadu (tīkls Ethernet)">Vadu interneta savienojumi</a></span>, <span class="link"><a href="net-fixed-ip-address.html.lv" title="Veidot savienojumu ar fiksēto IP adresi.">Fiksētas IP adreses</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

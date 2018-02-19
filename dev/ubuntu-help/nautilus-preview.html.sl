@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="Možnosti upravljalnika datotek">Možnosti upravljalnika datotek</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="files.html.sl" title="Datoteke, mape in iskanje">Datoteke</a> › <a class="trail" href="files.html.sl#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.sl" title="Možnosti upravljalnika datotek">Možnosti upravljalnika datotek</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Možnosti predogleda upravljalnika datotek</span></h1></div>
@@ -53,11 +53,11 @@
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Files</span></dt>
 <dd class="terms">
-<p class="p">Privzeto so vsi predogledi narejeni za <span class="gui">krajevne datoteke</span> na vašem računalniku ali povezanih zunanjih pogonih. To zmožnost lahko nastavite na <span class="gui">Vedno</span> ali <span class="gui">Nikoli</span>. Upravljalnik datotek lahko <span class="link"><a href="nautilus-connect.html" title="Brskanje datotek na strežniku ali omrežni souporabi">brska po datotekah na drugih računalnikih</a></span> preko krajevnega omrežja ali interneta. V primeru da pogosto brskate po datotekah preko krajevnega omrežja in ima omrežje visoko pasovno širino, boste morda želeli nekatere ali vse možnosti predogleda nastaviti na <span class="gui">Vedno</span>.</p>
+<p class="p">Privzeto so vsi predogledi narejeni za <span class="gui">krajevne datoteke</span> na vašem računalniku ali povezanih zunanjih pogonih. To zmožnost lahko nastavite na <span class="gui">Vedno</span> ali <span class="gui">Nikoli</span>. Upravljalnik datotek lahko <span class="link"><a href="nautilus-connect.html.sl" title="Brskanje datotek na strežniku ali omrežni souporabi">brska po datotekah na drugih računalnikih</a></span> preko krajevnega omrežja ali interneta. V primeru da pogosto brskate po datotekah preko krajevnega omrežja in ima omrežje visoko pasovno širino, boste morda želeli nekatere ali vse možnosti predogleda nastaviti na <span class="gui">Vedno</span>.</p>
 <p class="p">Za omejitev velikosti datotek s predogledom lahko uporabite nastavitev <span class="gui">Le za datoteke manjše kot</span>.</p>
 </dd>
 <dt class="terms"><span class="gui">Folders</span></dt>
-<dd class="terms"><p class="p">V primeru da imate velikosti datotek prikazane v <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">stolpcu seznama pogledov</a></span> ali <span class="link"><a href="nautilus-display.html#icon-captions" title="Naslovi ikon">sličicah ikone</a></span>, bodo mape prikazane s številom datotek in map, ki jih vsebujejo. Štetje predmetov v mapi je lahko počasno, še posebno za zelo velike mape ali preko omrežja. To zmožnost lahko vklopite, izklopite ali pa jo vklopite samo za datoteke na svojem računalniku in krajevnih zunanjih diskih.</p></dd>
+<dd class="terms"><p class="p">V primeru da imate velikosti datotek prikazane v <span class="link"><a href="nautilus-list.html.sl" title="Files list columns preferences">stolpcu seznama pogledov</a></span> ali <span class="link"><a href="nautilus-display.html.sl#icon-captions" title="Naslovi ikon">sličicah ikone</a></span>, bodo mape prikazane s številom datotek in map, ki jih vsebujejo. Štetje predmetov v mapi je lahko počasno, še posebno za zelo velike mape ali preko omrežja. To zmožnost lahko vklopite, izklopite ali pa jo vklopite samo za datoteke na svojem računalniku in krajevnih zunanjih diskih.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Možnosti upravljalnika datotek">Možnosti upravljalnika datotek</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.sl" title="Možnosti upravljalnika datotek">Možnosti upravljalnika datotek</a><span class="desc"> — View and set preferences for the file browser.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-preview.html" title="Predogled datotek in map">Predogled datotek in map</a><span class="desc"> — Hiter prikaz in skrivanje predogledov za dokumente, slike, videoposnetke in več.</span>
+<a href="files-preview.html.sl" title="Predogled datotek in map">Predogled datotek in map</a><span class="desc"> — Hiter prikaz in skrivanje predogledov za dokumente, slike, videoposnetke in več.</span>
 </li></ul></div>
 </div></div>
 </div>

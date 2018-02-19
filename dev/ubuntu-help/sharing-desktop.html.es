@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="prefs-sharing.html" title="Configuración de compartición">Configuración de compartición</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="prefs-sharing.html.es" title="Configuración de compartición">Configuración de compartición</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="sharing.html" title="Compartir">Compartir</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="sharing.html.es" title="Compartir">Compartir</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,11 +56,11 @@
 <p class="p">Puede permitir que otras personas vean y controlen su escritorio desde otros equipos con una aplicación de visualización de escritorios. Configure la <span class="app">Compartición de la pantalla</span> para permitir que otros accedan a su escritorio y configure las preferencias de seguridad.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Debe tener instalado el paquete <span class="app">Vino</span> para que la opción de <span class="gui">Compartición de pantalla</span> esté visible.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Compartición</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Compartición</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Compartición</span> para abrir el panel.</p></li>
 <li class="steps">
 <p class="p">Si la<span class="gui">Compartición</span> está <span class="gui">Apagada</span>, <span class="gui">Actívela</span>.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Si puede editar el texto de debajo de <span class="gui">Nombre del equipo</span> puede <span class="link"><a href="sharing-displayname.html" title="Establecer el nombre visible del equipo">cambiar</a></span> el nombre de su equipo en la red.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Si puede editar el texto de debajo de <span class="gui">Nombre del equipo</span> puede <span class="link"><a href="sharing-displayname.html.es" title="Establecer el nombre visible del equipo">cambiar</a></span> el nombre de su equipo en la red.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Seleccione <span class="gui">Compartición de la pantalla</span>.</p></li>
 <li class="steps"><p class="p">Para permitir que otros vean o interactúen con su escritorio, <span class="gui">Active</span> la <span class="gui">Compartición de pantalla</span>. Esto significa que otras personas podrán intentar conectarse con su equipo y ver lo que hay en su pantalla.</p></li>
@@ -110,10 +110,10 @@
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html" title="Compartir">Compartir</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Compartir su escritorio">Compartición del escritorio</a></span>, <span class="link"><a href="files-share.html" title="Compartir archivos por correo-e">Compartir archivos por correo-e</a></span>, <span class="link"><a href="sharing-media.html" title="Compartir su música, fotos y vídeos">Compartición de medios</a></span>…</span>
+<a href="sharing.html.es" title="Compartir">Compartir</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.es" title="Compartir su escritorio">Compartición del escritorio</a></span>, <span class="link"><a href="files-share.html.es" title="Compartir archivos por correo-e">Compartir archivos por correo-e</a></span>, <span class="link"><a href="sharing-media.html.es" title="Compartir su música, fotos y vídeos">Compartición de medios</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html" title="Configuración de compartición">Configuración de compartición</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Controlar la compartición por Bluetooth">Compartición por Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html" title="Compartir sus archivos personales">Compartición de archivos personales</a></span>, <span class="link"><a href="sharing-desktop.html" title="Compartir su escritorio">Compartición de la pantalla</a></span>, <span class="link"><a href="sharing-media.html" title="Compartir su música, fotos y vídeos">Compartición multimedia</a></span>…</span>
+<a href="prefs-sharing.html.es" title="Configuración de compartición">Configuración de compartición</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.es" title="Controlar la compartición por Bluetooth">Compartición por Bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.es" title="Compartir sus archivos personales">Compartición de archivos personales</a></span>, <span class="link"><a href="sharing-desktop.html.es" title="Compartir su escritorio">Compartición de la pantalla</a></span>, <span class="link"><a href="sharing-media.html.es" title="Compartir su música, fotos y vídeos">Compartición multimedia</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

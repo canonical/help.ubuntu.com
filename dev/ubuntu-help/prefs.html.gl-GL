@@ -43,100 +43,100 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Configuracións do usuario e sistema</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="startup-applications.html" title="Aplicativos de inicio">Aplicativos de inicio</a></div>
+<div class="links-grid-link"><a href="startup-applications.html.gl-GL" title="Aplicativos de inicio">Aplicativos de inicio</a></div>
 <div class="desc"><span class="desc">Seleccione os aplicativos que desexa abrir cando inicie unha sesión.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="user-accounts.html" title="Contas de usuario">Contas de usuario</a></div>
+<div class="links-grid-link"><a href="user-accounts.html.gl-GL" title="Contas de usuario">Contas de usuario</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="user-add.html" title="Engadir unha nova conta de usuario">Add user</a></span>,
-      <span class="link"><a href="user-changepassword.html" title="Cambiar o seu contrasinal">change password</a></span>,
-      <span class="link"><a href="user-admin-change.html" title="Como funcionan os privilexios de administración?">administrators</a></span>…
+      <span class="link"><a href="user-add.html.gl-GL" title="Engadir unha nova conta de usuario">Add user</a></span>,
+      <span class="link"><a href="user-changepassword.html.gl-GL" title="Cambiar o seu contrasinal">change password</a></span>,
+      <span class="link"><a href="user-admin-change.html.gl-GL" title="Como funcionan os privilexios de administración?">administrators</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="accounts.html" title="Contas en liña">Contas en liña</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html" title="Engadir unha conta">Engadir unha conta en liña</a></span>, <span class="link"><a href="accounts-remove.html" title="Retirar unha conta">Quitar unha conta</a></span>, <span class="link"><a href="accounts-which-application.html" title="Servizos en liña e aplicativos">Saber sobre un servizo</a></span>…</span></div>
+<div class="links-grid-link"><a href="accounts.html.gl-GL" title="Contas en liña">Contas en liña</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html.gl-GL" title="Engadir unha conta">Engadir unha conta en liña</a></span>, <span class="link"><a href="accounts-remove.html.gl-GL" title="Retirar unha conta">Quitar unha conta</a></span>, <span class="link"><a href="accounts-which-application.html.gl-GL" title="Servizos en liña e aplicativos">Saber sobre un servizo</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="clock.html" title="Data e hora">Data e hora</a></div>
+<div class="links-grid-link"><a href="clock.html.gl-GL" title="Data e hora">Data e hora</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="clock-set.html" title="Cambiar a hora e data">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="Cambiar a súa hora do sistema">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="Apuntamentos no reloxo">calendar and appointments</a></span>…
+      <span class="link"><a href="clock-set.html.gl-GL" title="Cambiar a hora e data">Set date and time</a></span>,
+      <span class="link"><a href="clock-world.html.gl-GL" title="Add a world clock">world clocks</a></span>,
+      <span class="link"><a href="clock-timezone.html.gl-GL" title="Cambiar a súa hora do sistema">timezone</a></span>,
+      <span class="link"><a href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo">calendar and appointments</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="power.html" title="Enerxía e batería">Enerxía e batería</a></div>
+<div class="links-grid-link"><a href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="power-status.html" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Que acontece cando suspendo o meu computador?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Porqué a pantalla escurece logo duns segundos?">screen dimming</a></span>…
+      <span class="link"><a href="power-status.html.gl-GL" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.gl-GL" title="Porqué a pantalla escurece logo duns segundos?">screen dimming</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-display.html" title="Pantalla e monitor">Pantalla e monitor</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Fondo</a></span>, <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">tamaño e rotación</a></span>, brillo…</span></div>
+<div class="links-grid-link"><a href="prefs-display.html.gl-GL" title="Pantalla e monitor">Pantalla e monitor</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="look-background.html.gl-GL" title="Change the desktop and lock screen backgrounds">Fondo</a></span>, <span class="link"><a href="look-resolution.html.gl-GL" title="Change the resolution or rotation of the screen">tamaño e rotación</a></span>, brillo…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-sharing.html" title="Preferencias de compartición">Preferencias de compartición</a></div>
+<div class="links-grid-link"><a href="prefs-sharing.html.gl-GL" title="Preferencias de compartición">Preferencias de compartición</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="sharing-bluetooth.html" title="Controlar a compartición por Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html" title="Share your personal files">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html" title="Compartir o meu escritorio remoto">Screen sharing</a></span>,
-      <span class="link"><a href="sharing-media.html" title="Comparta a súa música, fotos e vídeos">Media sharing</a></span>…
+      <span class="link"><a href="sharing-bluetooth.html.gl-GL" title="Controlar a compartición por Bluetooth">Bluetooth sharing</a></span>,
+      <span class="link"><a href="sharing-personal.html.gl-GL" title="Share your personal files">Personal file sharing</a></span>,
+      <span class="link"><a href="sharing-desktop.html.gl-GL" title="Compartir o meu escritorio remoto">Screen sharing</a></span>,
+      <span class="link"><a href="sharing-media.html.gl-GL" title="Comparta a súa música, fotos e vídeos">Media sharing</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="privacy.html" title="Preferencias de privacidade">Preferencias de privacidade</a></div>
+<div class="links-grid-link"><a href="privacy.html.gl-GL" title="Preferencias de privacidade">Preferencias de privacidade</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="privacy-screen-lock.html" title="Bloquear a pantalla automaticamente">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html" title="Limpar o lixo e ficheiros temporais">Purge trash &amp; temporary files</a></span>…
+      <span class="link"><a href="privacy-screen-lock.html.gl-GL" title="Bloquear a pantalla automaticamente">Screen lock</a></span>,
+      <span class="link"><a href="privacy-history-recent-off.html.gl-GL" title="Turn off or limit file history tracking">Usage history</a></span>,
+      <span class="link"><a href="privacy-purge.html.gl-GL" title="Limpar o lixo e ficheiros temporais">Purge trash &amp; temporary files</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html" title="Rato">Rato</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html" title="Usar un rato para zurdos">Zurdo</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Axustar a velocidade do rato e touchpad">velocidade e sensibilidade</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Premer, arrastrar e desprazarse coa súa área táctil">presión e desprazamento do touchpad</a></span>…</span></div>
+<div class="links-grid-link"><a href="mouse.html.gl-GL" title="Rato">Rato</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.gl-GL" title="Usar un rato para zurdos">Zurdo</a></span>, <span class="link"><a href="mouse-sensitivity.html.gl-GL" title="Axustar a velocidade do rato e touchpad">velocidade e sensibilidade</a></span>, <span class="link"><a href="mouse-touchpad-click.html.gl-GL" title="Premer, arrastrar e desprazarse coa súa área táctil">presión e desprazamento do touchpad</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-language.html" title="Rexión e idioma">Rexión e idioma</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-language.html" title="Cambiar o idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html" title="Cambiar a hora e data">rexión e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Usar distribucións de teclado alternativas">distribucións de teclado</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs-language.html.gl-GL" title="Rexión e idioma">Rexión e idioma</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.gl-GL" title="Cambiar o idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html.gl-GL" title="Cambiar a hora e data">rexión e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">distribucións de teclado</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html#sound" title="Son básico">Son</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html" title="Cambiar o volume do sistema">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Usar uns altofalantes ou cascos distintos">altofalantes e auriculares</a></span>, <span class="link"><a href="sound-usemic.html" title="Usan un micrófono diferente">micrófonos</a></span>…</span></div>
+<div class="links-grid-link"><a href="media.html.gl-GL#sound" title="Son básico">Son</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html.gl-GL" title="Cambiar o volume do sistema">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html.gl-GL" title="Usar uns altofalantes ou cascos distintos">altofalantes e auriculares</a></span>, <span class="link"><a href="sound-usemic.html.gl-GL" title="Usan un micrófono diferente">micrófonos</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="wacom.html" title="Tableta gráfica Wacom">Tableta gráfica Wacom</a></div>
+<div class="links-grid-link"><a href="wacom.html.gl-GL" title="Tableta gráfica Wacom">Tableta gráfica Wacom</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="wacom-multi-monitor.html" title="Seleccione unha pantalla">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html" title="Configure o seu «stylus»">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html" title="Usar a tableta para zurdos">use the tablet left handed</a></span>…
+      <span class="link"><a href="wacom-multi-monitor.html.gl-GL" title="Seleccione unha pantalla">Map a monitor</a></span>,
+      <span class="link"><a href="wacom-stylus.html.gl-GL" title="Configure o seu «stylus»">configure the stylus</a></span>,
+      <span class="link"><a href="wacom-left-handed.html.gl-GL" title="Usar a tableta para zurdos">use the tablet left handed</a></span>…
   </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="keyboard.html" title="Teclado">Teclado</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html" title="Usar distribucións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span></div>
+<div class="links-grid-link"><a href="keyboard.html.gl-GL" title="Teclado">Teclado</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html" title="Xestión de cor">Xestión de cor</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Porque é importante a xestión de cor?">Porqué é importante</a></span>, <span class="link"><a href="color.html#profiles" title="Perfiles de cor">Perfiles de cor</a></span>, <span class="link"><a href="color.html#calibration" title="Calibración">Como calibrar un dispositivo</a></span>…</span></div>
+<div class="links-grid-link"><a href="color.html.gl-GL" title="Xestión de cor">Xestión de cor</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.gl-GL" title="Porque é importante a xestión de cor?">Porqué é importante</a></span>, <span class="link"><a href="color.html.gl-GL#profiles" title="Perfiles de cor">Perfiles de cor</a></span>, <span class="link"><a href="color.html.gl-GL#calibration" title="Calibración">Como calibrar un dispositivo</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Guia do escritorio Ubuntu">Guia do escritorio Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.gl-GL" title="Guia do escritorio Ubuntu">Guia do escritorio Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

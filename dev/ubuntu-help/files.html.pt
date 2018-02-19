@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Busca de ficheiros e diretórios</span></h1></div>
@@ -53,15 +53,15 @@
 <div class="hgroup"><h2 class="title"><span class="title">Tarefas comuns</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-copy.html" title="Copiar ou mover ficheiros e diretórios"><span class="title">Copiar ou mover ficheiros e diretórios</span><span class="linkdiv-dash"> — </span><span class="desc">Copiar ou mover elementos a uma diretório nova.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-delete.html" title="Eliminar ficheiros e diretórios"><span class="title">Eliminar ficheiros e diretórios</span><span class="linkdiv-dash"> — </span><span class="desc">Tirar ficheiros ou diretórios que já não precisa.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-browse.html" title="Examinar ficheiros e diretórios"><span class="title">Examinar ficheiros e diretórios</span><span class="linkdiv-dash"> — </span><span class="desc">Gira e organize ficheiros com o gestor de ficheiros.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-sort.html" title="Ordenar ficheiros e diretórios"><span class="title">Ordenar ficheiros e diretórios</span><span class="linkdiv-dash"> — </span><span class="desc">Ordenar ficheiros por nome, tamanhou, tipo, ou por quando se modificaram.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-copy.html.pt" title="Copiar ou mover ficheiros e diretórios"><span class="title">Copiar ou mover ficheiros e diretórios</span><span class="linkdiv-dash"> — </span><span class="desc">Copiar ou mover elementos a uma diretório nova.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-delete.html.pt" title="Eliminar ficheiros e diretórios"><span class="title">Eliminar ficheiros e diretórios</span><span class="linkdiv-dash"> — </span><span class="desc">Tirar ficheiros ou diretórios que já não precisa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-browse.html.pt" title="Examinar ficheiros e diretórios"><span class="title">Examinar ficheiros e diretórios</span><span class="linkdiv-dash"> — </span><span class="desc">Gira e organize ficheiros com o gestor de ficheiros.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-sort.html.pt" title="Ordenar ficheiros e diretórios"><span class="title">Ordenar ficheiros e diretórios</span><span class="linkdiv-dash"> — </span><span class="desc">Ordenar ficheiros por nome, tamanhou, tipo, ou por quando se modificaram.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-search.html" title="Procurar ficheiros"><span class="title">Procurar ficheiros</span><span class="linkdiv-dash"> — </span><span class="desc">Procurar ficheiros baseando no nome do ficheiro e o tipo.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-rename.html" title="Renomear um ficheiro ou uma diretório"><span class="title">Renomear um ficheiro ou uma diretório</span><span class="linkdiv-dash"> — </span><span class="desc">Mudar o nome dum ficheiro ou duma diretório</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-preview.html" title="Visualizar ficheiros e diretórios"><span class="title">Visualizar ficheiros e diretórios</span><span class="linkdiv-dash"> — </span><span class="desc">Mostrar e ocultar rapidamente vistas prévias para documentos, imagens, vídeos e mais.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-search.html.pt" title="Procurar ficheiros"><span class="title">Procurar ficheiros</span><span class="linkdiv-dash"> — </span><span class="desc">Procurar ficheiros baseando no nome do ficheiro e o tipo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-rename.html.pt" title="Renomear um ficheiro ou uma diretório"><span class="title">Renomear um ficheiro ou uma diretório</span><span class="linkdiv-dash"> — </span><span class="desc">Mudar o nome dum ficheiro ou duma diretório</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-preview.html.pt" title="Visualizar ficheiros e diretórios"><span class="title">Visualizar ficheiros e diretórios</span><span class="linkdiv-dash"> — </span><span class="desc">Mostrar e ocultar rapidamente vistas prévias para documentos, imagens, vídeos e mais.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -69,41 +69,41 @@
 <div class="hgroup"><h2 class="title"><span class="title">Mais tarefas relacionadas com ficheiros</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-open.html" title="Abrir ficheiros com outros aplicações"><span class="title">Abrir ficheiros com outros aplicações</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
+<div class="linkdiv "><a class="linkdiv" href="files-open.html.pt" title="Abrir ficheiros com outros aplicações"><span class="title">Abrir ficheiros com outros aplicações</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
     type of file. You can change the default too.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html" title="Desativar ou limitar o registro do histórico"><span class="title">Desativar ou limitar o registro do histórico</span><span class="linkdiv-dash"> — </span><span class="desc">Deixar de registar ou limitar o registro de ficheiros usados recentemente.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-lost.html" title="Encontrar um ficheiro perdido"><span class="title">Encontrar um ficheiro perdido</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.pt" title="Desativar ou limitar o registro do histórico"><span class="title">Desativar ou limitar o registro do histórico</span><span class="linkdiv-dash"> — </span><span class="desc">Deixar de registar ou limitar o registro de ficheiros usados recentemente.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html.pt" title="Encontrar um ficheiro perdido"><span class="title">Encontrar um ficheiro perdido</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
     downloaded.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html" title="Escrever ficheiro num CD ou DVD"><span class="title">Escrever ficheiro num CD ou DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Pôr ficheiros e documentos num CD ou DVD vazio utilizando uma grabadora de CD/DVD.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html" title="Examinar ficheiros num servidor ou partilha de rede"><span class="title">Examinar ficheiros num servidor ou partilha de rede</span><span class="linkdiv-dash"> — </span><span class="desc">Ver e editar ficheiros em outra computador sobre FTP, SSH, partilhados de Windows ou WebDAV.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html.pt" title="Escrever ficheiro num CD ou DVD"><span class="title">Escrever ficheiro num CD ou DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Pôr ficheiros e documentos num CD ou DVD vazio utilizando uma grabadora de CD/DVD.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.pt" title="Examinar ficheiros num servidor ou partilha de rede"><span class="title">Examinar ficheiros num servidor ou partilha de rede</span><span class="linkdiv-dash"> — </span><span class="desc">Ver e editar ficheiros em outra computador sobre FTP, SSH, partilhados de Windows ou WebDAV.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html" title="Limpar a caixote do lixo e os ficheiros temporários"><span class="title">Limpar a caixote do lixo e os ficheiros temporários</span><span class="linkdiv-dash"> — </span><span class="desc">Estabelecer com que frequência se limpam a caixote do lixo e os ficheiros temporários da sua computador.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-share.html" title="Partilhar ficheiros por e-mail"><span class="title">Partilhar ficheiros por e-mail</span><span class="linkdiv-dash"> — </span><span class="desc">Transferência singela de ficheiros a seus contactos de e-mail desde o gestor de ficheiros.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html" title="Preferências do gestor de ficheiros"><span class="title">Preferências do gestor de ficheiros</span><span class="linkdiv-dash"> — </span><span class="desc">Ver e estabelecer as preferências para o navegador de ficheiros.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html" title="Propriedades do ficheiro"><span class="title">Propriedades do ficheiro</span><span class="linkdiv-dash"> — </span><span class="desc">Ver informação básica do ficheiro, atribuir permissões e selecionar aplicações predeterminados.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-recover.html" title="Recuperar um ficheiro da caixote do lixo"><span class="title">Recuperar um ficheiro da caixote do lixo</span><span class="linkdiv-dash"> — </span><span class="desc">Quando elimina um ficheiro, normalmente se envià a caixote do lixo, mas é possível o recuperar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.pt" title="Limpar a caixote do lixo e os ficheiros temporários"><span class="title">Limpar a caixote do lixo e os ficheiros temporários</span><span class="linkdiv-dash"> — </span><span class="desc">Estabelecer com que frequência se limpam a caixote do lixo e os ficheiros temporários da sua computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-share.html.pt" title="Partilhar ficheiros por e-mail"><span class="title">Partilhar ficheiros por e-mail</span><span class="linkdiv-dash"> — </span><span class="desc">Transferência singela de ficheiros a seus contactos de e-mail desde o gestor de ficheiros.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.pt" title="Preferências do gestor de ficheiros"><span class="title">Preferências do gestor de ficheiros</span><span class="linkdiv-dash"> — </span><span class="desc">Ver e estabelecer as preferências para o navegador de ficheiros.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html.pt" title="Propriedades do ficheiro"><span class="title">Propriedades do ficheiro</span><span class="linkdiv-dash"> — </span><span class="desc">Ver informação básica do ficheiro, atribuir permissões e selecionar aplicações predeterminados.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-recover.html.pt" title="Recuperar um ficheiro da caixote do lixo"><span class="title">Recuperar um ficheiro da caixote do lixo</span><span class="linkdiv-dash"> — </span><span class="desc">Quando elimina um ficheiro, normalmente se envià a caixote do lixo, mas é possível o recuperar.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="removable" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Dispositivos removíveis e discos externos</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html" title="Abrir aplicações para dispositivos ou discos"><span class="title">Abrir aplicações para dispositivos ou discos</span><span class="linkdiv-dash"> — </span><span class="desc">Executar aplicações automaticamente para CD e DVD, cámaras, reprodutores de som e outros dispositivos e suportes.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html" title="Extrair uma unidade externa de forma segura"><span class="title">Extrair uma unidade externa de forma segura</span><span class="linkdiv-dash"> — </span><span class="desc">Ejetar ou desmontar uma memória USB, um CD, um DVD ou outro dispositivo.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.pt" title="Abrir aplicações para dispositivos ou discos"><span class="title">Abrir aplicações para dispositivos ou discos</span><span class="linkdiv-dash"> — </span><span class="desc">Executar aplicações automaticamente para CD e DVD, cámaras, reprodutores de som e outros dispositivos e suportes.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html.pt" title="Extrair uma unidade externa de forma segura"><span class="title">Extrair uma unidade externa de forma segura</span><span class="linkdiv-dash"> — </span><span class="desc">Ejetar ou desmontar uma memória USB, um CD, um DVD ou outro dispositivo.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="backup" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Fazer cópias de segurança</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html" title="Dónde posso encontrar os ficheiros dos que quero fazer copia de copia de segurança?"><span class="title">Dónde posso encontrar os ficheiros dos que quero fazer copia de copia de segurança?</span><span class="linkdiv-dash"> — </span><span class="desc">Uma lista de diretórios onde pode encontrar documentos, ficheiros e configurações que podria querer guardar.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-why.html" title="Fazer cópias de segurança de seus ficheiros importantes"><span class="title">Fazer cópias de segurança de seus ficheiros importantes</span><span class="linkdiv-dash"> — </span><span class="desc">Por que, que, onde e como fazer cópias de segurança.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html" title="Frequência das cópias de segurança"><span class="title">Frequência das cópias de segurança</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda com que frequência deveria guardar seus ficheiros importantes para se assegurar de que estão a bom arrecado.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html.pt" title="Dónde posso encontrar os ficheiros dos que quero fazer copia de copia de segurança?"><span class="title">Dónde posso encontrar os ficheiros dos que quero fazer copia de copia de segurança?</span><span class="linkdiv-dash"> — </span><span class="desc">Uma lista de diretórios onde pode encontrar documentos, ficheiros e configurações que podria querer guardar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-why.html.pt" title="Fazer cópias de segurança de seus ficheiros importantes"><span class="title">Fazer cópias de segurança de seus ficheiros importantes</span><span class="linkdiv-dash"> — </span><span class="desc">Por que, que, onde e como fazer cópias de segurança.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html.pt" title="Frequência das cópias de segurança"><span class="title">Frequência das cópias de segurança</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda com que frequência deveria guardar seus ficheiros importantes para se assegurar de que estão a bom arrecado.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-restore.html" title="Restaurar uma copia de copia de segurança"><span class="title">Restaurar uma copia de copia de segurança</span><span class="linkdiv-dash"> — </span><span class="desc">Recuperar seus ficheiros desde uma copia de copia de segurança.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-check.html" title="Verifique a sua copia de copia de segurança"><span class="title">Verifique a sua copia de copia de segurança</span><span class="linkdiv-dash"> — </span><span class="desc">Verifique que a sua copia de copia de segurança seja correta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-restore.html.pt" title="Restaurar uma copia de copia de segurança"><span class="title">Restaurar uma copia de copia de segurança</span><span class="linkdiv-dash"> — </span><span class="desc">Recuperar seus ficheiros desde uma copia de copia de segurança.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-check.html.pt" title="Verifique a sua copia de copia de segurança"><span class="title">Verifique a sua copia de copia de segurança</span><span class="linkdiv-dash"> — </span><span class="desc">Verifique que a sua copia de copia de segurança seja correta.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -111,14 +111,14 @@
 <div class="hgroup"><h2 class="title"><span class="title">Conselhos e perguntas</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html" title="Editar marcadores de diretório"><span class="title">Editar marcadores de diretório</span><span class="linkdiv-dash"> — </span><span class="desc">Acrescentar, eliminar e renomear marcadores no gestor de ficheiros.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html" title="Estabelecer as permissões do ficheiro"><span class="title">Estabelecer as permissões do ficheiro</span><span class="linkdiv-dash"> — </span><span class="desc">Controlar quem pode ver e editar seus ficheiros e diretórios.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-templates.html" title="Modelos para tipos de documentos usados comumente"><span class="title">Modelos para tipos de documentos usados comumente</span><span class="linkdiv-dash"> — </span><span class="desc">Criar rapidamente documentos desde ficheiros de modelos personalizados.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html.pt" title="Editar marcadores de diretório"><span class="title">Editar marcadores de diretório</span><span class="linkdiv-dash"> — </span><span class="desc">Acrescentar, eliminar e renomear marcadores no gestor de ficheiros.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html.pt" title="Estabelecer as permissões do ficheiro"><span class="title">Estabelecer as permissões do ficheiro</span><span class="linkdiv-dash"> — </span><span class="desc">Controlar quem pode ver e editar seus ficheiros e diretórios.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-templates.html.pt" title="Modelos para tipos de documentos usados comumente"><span class="title">Modelos para tipos de documentos usados comumente</span><span class="linkdiv-dash"> — </span><span class="desc">Criar rapidamente documentos desde ficheiros de modelos personalizados.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-hidden.html" title="Ocultar um ficheiro"><span class="title">Ocultar um ficheiro</span><span class="linkdiv-dash"> — </span><span class="desc">Fazer que um ficheiro seja invisível, para que não possa ver no gestor de ficheiros.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-tilde.html" title="Que é um ficheiro com uma ~ ao final do nome?"><span class="title">Que é um ficheiro com uma <span class="file">~</span> ao final do nome?</span><span class="linkdiv-dash"> — </span><span class="desc">Estes são ficheiros de cópias de segurança. Estão ocultos de maneira predeterminada.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-select.html" title="Selecionar ficheiros por padrões"><span class="title">Selecionar ficheiros por padrões</span><span class="linkdiv-dash"> — </span><span class="desc">Carregue <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> para selecionar múltiplos ficheiros que têm nomes similares.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-hidden.html.pt" title="Ocultar um ficheiro"><span class="title">Ocultar um ficheiro</span><span class="linkdiv-dash"> — </span><span class="desc">Fazer que um ficheiro seja invisível, para que não possa ver no gestor de ficheiros.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-tilde.html.pt" title="Que é um ficheiro com uma ~ ao final do nome?"><span class="title">Que é um ficheiro com uma <span class="file">~</span> ao final do nome?</span><span class="linkdiv-dash"> — </span><span class="desc">Estes são ficheiros de cópias de segurança. Estão ocultos de maneira predeterminada.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-select.html.pt" title="Selecionar ficheiros por padrões"><span class="title">Selecionar ficheiros por padrões</span><span class="linkdiv-dash"> — </span><span class="desc">Carregue <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> para selecionar múltiplos ficheiros que têm nomes similares.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -126,7 +126,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.pt" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

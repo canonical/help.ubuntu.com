@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="addremove.html" title="Instalar e eliminar software">Engadir/Eliminar aplicativos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="addremove.html.gl-GL" title="Instalar e eliminar software">Engadir/Eliminar aplicativos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Use Synaptic para unha xestión de software máis avanzada</span></h1></div>
@@ -72,17 +72,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html" title="Instalar e eliminar software">Instalar e eliminar software</a><span class="desc"> — <span class="link"><a href="addremove-install.html" title="Instalar aplicativos adicionais">Instalar aplicativos</a></span>, <span class="link"><a href="addremove-remove.html" title="Retirar un aplicativo">eliminar aplicativos</a></span>, <span class="link"><a href="addremove-sources.html" title="Engadir repositorios de software">engadir repositorios</a></span>…</span>
+<a href="addremove.html.gl-GL" title="Instalar e eliminar software">Instalar e eliminar software</a><span class="desc"> — <span class="link"><a href="addremove-install.html.gl-GL" title="Instalar aplicativos adicionais">Instalar aplicativos</a></span>, <span class="link"><a href="addremove-remove.html.gl-GL" title="Retirar un aplicativo">eliminar aplicativos</a></span>, <span class="link"><a href="addremove-sources.html.gl-GL" title="Engadir repositorios de software">engadir repositorios</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html" title="Instalar aplicativos adicionais">Instalar aplicativos adicionais</a><span class="desc"> — Use <span class="app">Ubuntu Software</span> para instalar aplicativos adicionais e facer o Ubuntu máis útil.</span>
+<a href="addremove-install.html.gl-GL" title="Instalar aplicativos adicionais">Instalar aplicativos adicionais</a><span class="desc"> — Use <span class="app">Ubuntu Software</span> para instalar aplicativos adicionais e facer o Ubuntu máis útil.</span>
 </li>
 <li class="links ">
-<a href="addremove-remove.html" title="Retirar un aplicativo">Retirar un aplicativo</a><span class="desc"> — Elimine aplicativos que xa non usa.</span>
+<a href="addremove-remove.html.gl-GL" title="Retirar un aplicativo">Retirar un aplicativo</a><span class="desc"> — Elimine aplicativos que xa non usa.</span>
 </li>
 </ul></div>
 </div></div>

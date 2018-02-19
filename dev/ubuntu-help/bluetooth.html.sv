@@ -43,31 +43,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Bluetooth är ett trådlöst protokoll som låter du ansluta många olika enheter till din dator. Bluetooth används vanligen för hörlurar och indataenheter som möss och tangentbord. Du kan också använda Bluetooth för att <span class="link"><a href="bluetooth-send-file.html" title="Skicka filer till en Bluetooth-enhet">överföra filer mellan enheter</a></span>, exempelvis från din dator till din mobiltelefon.</p>
+<p class="p">Bluetooth är ett trådlöst protokoll som låter du ansluta många olika enheter till din dator. Bluetooth används vanligen för hörlurar och indataenheter som möss och tangentbord. Du kan också använda Bluetooth för att <span class="link"><a href="bluetooth-send-file.html.sv" title="Skicka filer till en Bluetooth-enhet">överföra filer mellan enheter</a></span>, exempelvis från din dator till din mobiltelefon.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html" title="Aktivera eller inaktivera Bluetooth"><span class="title">Aktivera eller inaktivera Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Aktivera eller inaktivera Bluetooth-enheten på din dator.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html" title="Anslut din dator till en Bluetooth-enhet"><span class="title">Anslut din dator till en Bluetooth-enhet</span><span class="linkdiv-dash"> — </span><span class="desc">Ihopparning av Bluetooth-enheter.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html" title="Koppla ifrån en Bluetooth-enhet"><span class="title">Koppla ifrån en Bluetooth-enhet</span><span class="linkdiv-dash"> — </span><span class="desc">Ta bort en enhet från listan över Bluetooth-enheter.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html" title="Skicka filer till en Bluetooth-enhet"><span class="title">Skicka filer till en Bluetooth-enhet</span><span class="linkdiv-dash"> — </span><span class="desc">Dela filer till en Bluetooth-enhet, exempelvis en telefon.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Styr delning över Bluetooth"><span class="title">Styr delning över Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Låt filer skickas till din dator över Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html" title="Vad är Bluetooth-synlighet?"><span class="title">Vad är Bluetooth-synlighet?</span><span class="linkdiv-dash"> — </span><span class="desc">Huruvida andra enheter kan detektera din dator.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html.sv" title="Aktivera eller inaktivera Bluetooth"><span class="title">Aktivera eller inaktivera Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Aktivera eller inaktivera Bluetooth-enheten på din dator.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html.sv" title="Anslut din dator till en Bluetooth-enhet"><span class="title">Anslut din dator till en Bluetooth-enhet</span><span class="linkdiv-dash"> — </span><span class="desc">Ihopparning av Bluetooth-enheter.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html.sv" title="Koppla ifrån en Bluetooth-enhet"><span class="title">Koppla ifrån en Bluetooth-enhet</span><span class="linkdiv-dash"> — </span><span class="desc">Ta bort en enhet från listan över Bluetooth-enheter.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.sv" title="Skicka filer till en Bluetooth-enhet"><span class="title">Skicka filer till en Bluetooth-enhet</span><span class="linkdiv-dash"> — </span><span class="desc">Dela filer till en Bluetooth-enhet, exempelvis en telefon.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.sv" title="Styr delning över Bluetooth"><span class="title">Styr delning över Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Låt filer skickas till din dator över Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html.sv" title="Vad är Bluetooth-synlighet?"><span class="title">Vad är Bluetooth-synlighet?</span><span class="linkdiv-dash"> — </span><span class="desc">Huruvida andra enheter kan detektera din dator.</span></a></div>
 </div></div></div>
 </div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Problem</span></h2></div>
 <div class="region">
-<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html" title="Jag kan inte ansluta min Bluetooth-enhet"><span class="title">Jag kan inte ansluta min Bluetooth-enhet</span><span class="linkdiv-dash"> — </span><span class="desc">Adaptern kan vara avstängd eller har kanske inte drivrutiner eller så är Bluetooth inaktiverat eller blockerat.</span></a></div></div></div></div></div>
+<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html.sv" title="Jag kan inte ansluta min Bluetooth-enhet"><span class="title">Jag kan inte ansluta min Bluetooth-enhet</span><span class="linkdiv-dash"> — </span><span class="desc">Adaptern kan vara avstängd eller har kanske inte drivrutiner eller så är Bluetooth inaktiverat eller blockerat.</span></a></div></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Mer information</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Vanliga problem">Hårdvaruproblem</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.sv#problems" title="Vanliga problem">Hårdvaruproblem</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -77,7 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Maskinvara och drivrutiner">Maskinvara och drivrutiner</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Vanliga problem">Hårdvaruproblem</a></span>, <span class="link"><a href="printing.html" title="Utskrifter">skrivare</a></span>, <span class="link"><a href="power.html" title="Ström och batteri">ströminställningar</a></span>, <span class="link"><a href="color.html" title="Färghantering">färghantering</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Diskar och lagring">diskar</a></span>…</span>
+<a href="hardware.html.sv" title="Maskinvara och drivrutiner">Maskinvara och drivrutiner</a><span class="desc"> — <span class="link"><a href="hardware.html.sv#problems" title="Vanliga problem">Hårdvaruproblem</a></span>, <span class="link"><a href="printing.html.sv" title="Utskrifter">skrivare</a></span>, <span class="link"><a href="power.html.sv" title="Ström och batteri">ströminställningar</a></span>, <span class="link"><a href="color.html.sv" title="Färghantering">färghantering</a></span>, <span class="link"><a href="bluetooth.html.sv" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.sv" title="Diskar och lagring">diskar</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

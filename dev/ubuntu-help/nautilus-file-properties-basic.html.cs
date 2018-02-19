@@ -43,24 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vlastnosti souboru</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Kdy se chcete podívat na informace o souboru nebo složce, klikněte na ně pravým tlačítkem a zvolte <span class="gui">Vlastnosti</span>. Můžete také soubor vybrat a zmáčknout <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Enter</kbd></span></span>.</p>
-<p class="p">Okno s vlastnostmi souboru zobrazuje informace, jako je typ souboru, jeho velikost a kdy byl naposled změněn. Pokud tyto informace potřebujete často, můžete je mít zobrazené přímo ve <span class="link"><a href="nautilus-list.html" title="Předvolby sloupců v seznamu souborů">sloupcích seznamového zobrazení</a></span> nebo v <span class="link"><a href="nautilus-display.html#icon-captions" title="Popisy ikon">popisech ikon</a></span>.</p>
-<p class="p">Informace z karty <span class="gui">Základní</span> jsou vysvětleny níže. Dále najdete karty <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Nastavení oprávnění souboru">Oprávnění</a></span></span> a <span class="gui"><span class="link"><a href="files-open.html#default" title="Změna výchozí aplikace">Otevřít pomocí</a></span></span>. Pro některé typy souborů, jako jsou obrázky nebo videa, se objeví ještě další karty poskytující informace typu rozměry, doba a kodeky.</p>
+<p class="p">Okno s vlastnostmi souboru zobrazuje informace, jako je typ souboru, jeho velikost a kdy byl naposled změněn. Pokud tyto informace potřebujete často, můžete je mít zobrazené přímo ve <span class="link"><a href="nautilus-list.html.cs" title="Předvolby sloupců v seznamu souborů">sloupcích seznamového zobrazení</a></span> nebo v <span class="link"><a href="nautilus-display.html.cs#icon-captions" title="Popisy ikon">popisech ikon</a></span>.</p>
+<p class="p">Informace z karty <span class="gui">Základní</span> jsou vysvětleny níže. Dále najdete karty <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.cs" title="Nastavení oprávnění souboru">Oprávnění</a></span></span> a <span class="gui"><span class="link"><a href="files-open.html.cs#default" title="Změna výchozí aplikace">Otevřít pomocí</a></span></span>. Pro některé typy souborů, jako jsou obrázky nebo videa, se objeví ještě další karty poskytující informace typu rozměry, doba a kodeky.</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Základní vlastnosti</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Název</span></dt>
-<dd class="terms"><p class="p">Změnou tohoto pole můžete soubor přejmenovat. Přejmenování lze provést i jinde, než v okně s podrobnostmi, viz <span class="link"><a href="files-rename.html" title="Přejmenování souboru nebo složky">Přejmenování souboru nebo složky</a></span>.</p></dd>
+<dd class="terms"><p class="p">Změnou tohoto pole můžete soubor přejmenovat. Přejmenování lze provést i jinde, než v okně s podrobnostmi, viz <span class="link"><a href="files-rename.html.cs" title="Přejmenování souboru nebo složky">Přejmenování souboru nebo složky</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Typ</span></dt>
 <dd class="terms">
-<p class="p">Pomáhá vám rozpoznat typ souboru, jako je dokument PDF, text OpenDocument nebo obrázek JPEG. Typ souboru mimo jiné určuje, kterými aplikacemi půjde otevřít. Například nemůžete otevřít obrázek pomocí hudebního přehrávače. Více informací na toto téma viz <span class="link"><a href="files-open.html" title="Otevření souborů pomocí jiných aplikací">Otevření souborů pomocí jiných aplikací</a></span>.</p>
+<p class="p">Pomáhá vám rozpoznat typ souboru, jako je dokument PDF, text OpenDocument nebo obrázek JPEG. Typ souboru mimo jiné určuje, kterými aplikacemi půjde otevřít. Například nemůžete otevřít obrázek pomocí hudebního přehrávače. Více informací na toto téma viz <span class="link"><a href="files-open.html.cs" title="Otevření souborů pomocí jiných aplikací">Otevření souborů pomocí jiných aplikací</a></span>.</p>
 <p class="p">V závorkách je zobrazen <span class="em">typ MIME</span> souboru. Typ MIME je standardizovaný způsob, kterým počítače označují typ souboru.</p>
 </dd>
 <dt class="terms">Obsah</dt>
@@ -85,12 +85,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.cs#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="Nastavení oprávnění souboru">Nastavení oprávnění souboru</a><span class="desc"> — Jak řídit, kdo si může zobrazit a upravit vaše soubory a složky.</span>
+<a href="nautilus-file-properties-permissions.html.cs" title="Nastavení oprávnění souboru">Nastavení oprávnění souboru</a><span class="desc"> — Jak řídit, kdo si může zobrazit a upravit vaše soubory a složky.</span>
 </li></ul></div>
 </div></div>
 </div>

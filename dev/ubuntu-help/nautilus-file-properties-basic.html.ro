@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ro" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.ro#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">File properties</span></h1></div>
@@ -55,12 +55,12 @@
 <p class="p">The file properties window shows you information like the type of file,
   the size of the file, and when you last modified it. If you need this
   information often, you
-  can have it displayed in <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">list view columns</a></span>
-  or <span class="link"><a href="nautilus-display.html#icon-captions" title="Icon captions">icon captions</a></span>.</p>
+  can have it displayed in <span class="link"><a href="nautilus-list.html.ro" title="Files list columns preferences">list view columns</a></span>
+  or <span class="link"><a href="nautilus-display.html.ro#icon-captions" title="Icon captions">icon captions</a></span>.</p>
 <p class="p">The information given on the <span class="gui">Basic</span> tab is explained below.
   There are also
-  <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Set file permissions">Permissions</a></span></span>
-  and <span class="gui"><span class="link"><a href="files-open.html#default" title="Change the default application">Open With</a></span></span> tabs. For
+  <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.ro" title="Set file permissions">Permissions</a></span></span>
+  and <span class="gui"><span class="link"><a href="files-open.html.ro#default" title="Change the default application">Open With</a></span></span> tabs. For
   certain types of files, such as images and videos, there will be an extra tab
   that provides information like the dimensions, duration, and codec.</p>
 </div>
@@ -70,13 +70,13 @@
 <dt class="terms"><span class="gui">Name</span></dt>
 <dd class="terms"><p class="p">You can rename the file by changing this field.
     You can also rename a file outside the properties window. See
-    <span class="link"><a href="files-rename.html" title="Rename a file or folder">Rename a file or folder</a></span>.</p></dd>
+    <span class="link"><a href="files-rename.html.ro" title="Rename a file or folder">Rename a file or folder</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Type</span></dt>
 <dd class="terms">
 <p class="p">This helps you identify the type of the file, such as PDF document,
     OpenDocument Text, or JPEG image. The file type determines which
     applications can open the file, among other things. For example, you
-    can’t open a picture with a music player. See <span class="link"><a href="files-open.html" title="Open files with other applications">Open files with other applications</a></span>
+    can’t open a picture with a music player. See <span class="link"><a href="files-open.html.ro" title="Open files with other applications">Open files with other applications</a></span>
     for more information on this.</p>
 <p class="p">The <span class="em">MIME type</span> of the file is shown in parentheses; MIME type is
     a standard way that computers use to refer to the file type.</p>
@@ -110,12 +110,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ro#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vezi și</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="Set file permissions">Set file permissions</a><span class="desc"> — Control who can view and edit your files and folders.</span>
+<a href="nautilus-file-properties-permissions.html.ro" title="Set file permissions">Set file permissions</a><span class="desc"> — Control who can view and edit your files and folders.</span>
 </li></ul></div>
 </div></div>
 </div>

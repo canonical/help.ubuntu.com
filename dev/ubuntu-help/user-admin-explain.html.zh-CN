@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="user-accounts.html" title="用户帐号">用户</a> › <a class="trail" href="user-accounts.html#privileges" title="用户权限">权限</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="user-accounts.html.zh-CN" title="用户帐号">用户</a> › <a class="trail" href="user-accounts.html.zh-CN#privileges" title="用户权限">权限</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">管理员权限是如何工作的呢？</span></h1></div>
@@ -109,36 +109,36 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="用户权限">用户权限</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.zh-CN#privileges" title="用户权限">用户权限</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="printing-name-location.html" title="Change the name or location of a printer">Change the name or location of a printer</a><span class="desc"> — Change the name or location of a printer in the printer
+<a href="printing-name-location.html.zh-CN" title="Change the name or location of a printer">Change the name or location of a printer</a><span class="desc"> — Change the name or location of a printer in the printer
     settings.</span>
 </li>
 <li class="links ">
-<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — 您需要在连接设置中取消选中<span class="gui">对所有用户可用</span>选项。</span>
+<a href="net-othersedit.html.zh-CN" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — 您需要在连接设置中取消选中<span class="gui">对所有用户可用</span>选项。</span>
 </li>
 <li class="links ">
-<a href="user-delete.html" title="删除用户帐号">删除用户帐号</a><span class="desc"> — 删除您计算机上不再使用的用户。</span>
+<a href="user-delete.html.zh-CN" title="删除用户帐号">删除用户帐号</a><span class="desc"> — 删除您计算机上不再使用的用户。</span>
 </li>
 <li class="links ">
-<a href="user-changepassword.html" title="更改密码">更改密码</a><span class="desc"> — 在帐号设置中定期修改密码，可以保证帐号的安全性。</span>
+<a href="user-changepassword.html.zh-CN" title="更改密码">更改密码</a><span class="desc"> — 在帐号设置中定期修改密码，可以保证帐号的安全性。</span>
 </li>
 <li class="links ">
-<a href="user-changepicture.html" title="更改登录屏幕图片">更改登录屏幕图片</a><span class="desc"> — 将您的照片添加到您的登录和用户屏幕。</span>
+<a href="user-changepicture.html.zh-CN" title="更改登录屏幕图片">更改登录屏幕图片</a><span class="desc"> — 将您的照片添加到您的登录和用户屏幕。</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="设置哪些用户可以具备管理员权限">设置哪些用户可以具备管理员权限</a><span class="desc"> — You can allow users to make changes to the system by giving them
+<a href="user-admin-change.html.zh-CN" title="设置哪些用户可以具备管理员权限">设置哪些用户可以具备管理员权限</a><span class="desc"> — You can allow users to make changes to the system by giving them
     administrative privileges.</span>
 </li>
 <li class="links ">
-<a href="printing-setup-default-printer.html" title="设置默认打印机">设置默认打印机</a><span class="desc"> — 选择您常用的打印机。</span>
+<a href="printing-setup-default-printer.html.zh-CN" title="设置默认打印机">设置默认打印机</a><span class="desc"> — 选择您常用的打印机。</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="限制管理员权限产生的问题">限制管理员权限产生的问题</a><span class="desc"> — You can do some things, like installing applications, only if you
+<a href="user-admin-problems.html.zh-CN" title="限制管理员权限产生的问题">限制管理员权限产生的问题</a><span class="desc"> — You can do some things, like installing applications, only if you
     have administrative privileges.</span>
 </li>
 </ul></div>

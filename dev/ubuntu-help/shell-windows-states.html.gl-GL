@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicativos e xanelas">Aplicativos e xanelas</a> » <a class="trail" href="shell-windows.html" title="Xanelas e espazos de traballo">Xanelas e espazos de traballo</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Traballando coas xanelas">Compartido por Windows</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="shell-overview.html.gl-GL" title="Your desktop">Escritorio</a> › <a class="trail" href="shell-overview.html.gl-GL#apps" title="Aplicativos e xanelas">Aplicativos e xanelas</a> » <a class="trail" href="shell-windows.html.gl-GL" title="Xanelas e espazos de traballo">Xanelas e espazos de traballo</a> › <a class="trail" href="shell-windows.html.gl-GL#working-with-windows" title="Traballando coas xanelas">Compartido por Windows</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mover e organizar as súas xanelas.</span></h1></div>
@@ -52,19 +52,19 @@
 <p class="p">Pode mover e redimensionar xanelas para axudarlle a traballar de forma máis eficiente. Ademais do comportamento de arrastre, GNOME ten atallos de teclado e modificadores para axudarlle a colocar xanelas rapidamente.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Move a window by dragging the titlebar, or hold down
-      <span class="key"><a href="keyboard-key-super.html" title="Que é a tecla Super?"><kbd>Super</kbd></a></span> and drag anywhere in the
+      <span class="key"><a href="keyboard-key-super.html.gl-GL" title="Que é a tecla Super?"><kbd>Super</kbd></a></span> and drag anywhere in the
       window. Hold down <span class="key"><kbd>Shift</kbd></span> while moving to snap the window to the
       edges of the screen and other windows.</p></li>
 <li class="list"><p class="p">Redimensione unha xanela arrastrándoa aos bordos ou unha esquina da xanela. Manteña premida a tecla <span class="key"><kbd>Maiús</kbd></span> ao redimensionar para axustar a xanela aos bordos da pantalla e a outras xanelas.</p></li>
 <li class="list"><p class="p">Mova ou redimensione unha xanela usando só o teclado. Prema <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span> para mover unha xanela ou <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span> para redimensionala. Use as teclas de frechas para mover ou redimensionar, despois prema <span class="key"><kbd>Intro</kbd></span> para finalizar ou prema <span class="key"><kbd>Esc</kbd></span> para volver á posición e tamaño orixinal.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html" title="Maximizar e restaurar unha xanela">Maximice unha xanela</a></span> arrastrándoa á parte superior da pantalla. Arrastre unha xanela a un lateral da pantalla para maximizala ao largo deste lado, o que lle permite <span class="link"><a href="shell-windows-tiled.html" title="Xanelas en mosaico">colora as xanelas lado a lado</a></span>.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html.gl-GL" title="Maximizar e restaurar unha xanela">Maximice unha xanela</a></span> arrastrándoa á parte superior da pantalla. Arrastre unha xanela a un lateral da pantalla para maximizala ao largo deste lado, o que lle permite <span class="link"><a href="shell-windows-tiled.html.gl-GL" title="Xanelas en mosaico">colora as xanelas lado a lado</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Traballando coas xanelas">Traballando coas xanelas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.gl-GL#working-with-windows" title="Traballando coas xanelas">Traballando coas xanelas</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

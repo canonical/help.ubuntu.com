@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="power.html" title="Energia e bateria">Energia e bateria</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt" title="Utente e configuração do sistema">Configuração</a> » <a class="trail" href="power.html.pt" title="Energia e bateria">Energia e bateria</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » <a class="trail" href="power.html" title="Energia e bateria">Energia e bateria</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> » <a class="trail" href="power.html.pt" title="Energia e bateria">Energia e bateria</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">Pode reduzir o consumo de bateria apagando o Bluetooth, a rede sem fios e a rede de banda larga quando não estão em uso.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> comece a escrever <span class="gui">Energia</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> comece a escrever <span class="gui">Energia</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Energia</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">A seção <span class="gui">Poupança de energia</span> contém interruptores para <span class="gui">Wi-Fi</span>, <span class="gui">Banda larga movel</span>, e <span class="gui">Bluetooth</span>. <span class="gui">Desative</span> os serviços que não usa. Quando o precise, volte a <span class="gui">Os ativar</span>.</p></li>
 </ol></div></div></div>
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Energia e bateria">Energia e bateria</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Verifique o estado da bateria">Estado da bateria</a></span>, <span class="link"><a href="power-suspend.html" title="Que ocorre quando suspendo a computador?">suspender</a></span>, <span class="link"><a href="power-whydim.html" title="Por que meu ecrã se escurece após um tempo?">enfraquecimento do ecrã</a></span>…</span>
+<a href="power.html.pt" title="Energia e bateria">Energia e bateria</a><span class="desc"> — <span class="link"><a href="power-status.html.pt" title="Verifique o estado da bateria">Estado da bateria</a></span>, <span class="link"><a href="power-suspend.html.pt" title="Que ocorre quando suspendo a computador?">suspender</a></span>, <span class="link"><a href="power-whydim.html.pt" title="Por que meu ecrã se escurece após um tempo?">enfraquecimento do ecrã</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html" title="Utilizar menos energia e melhorar a vida da bateria">Utilizar menos energia e melhorar a vida da bateria</a><span class="desc"> — Conselhos para reduzir o consumo de energia da sua computador.</span>
+<a href="power-batterylife.html.pt" title="Utilizar menos energia e melhorar a vida da bateria">Utilizar menos energia e melhorar a vida da bateria</a><span class="desc"> — Conselhos para reduzir o consumo de energia da sua computador.</span>
 </li></ul></div>
 </div></div>
 </div>

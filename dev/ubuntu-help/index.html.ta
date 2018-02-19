@@ -45,64 +45,64 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
-<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 17.10</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html" title="பயன்படுத்தத் தொடங்குதல்"><span class="title">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</span><span class="linkdiv-dash"> — </span><span class="desc">GNOME க்குப் புதிதா? எப்படி தொடங்குவது என அறிந்துகொள்ளுங்கள்.</span></a></div></div></div></div>
+<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 18.04</span></div><div class="region"><div class="contents">
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.ta" title="பயன்படுத்தத் தொடங்குதல்"><span class="title">GNOME ஐப் பயன்படுத்தத் தொடங்குதல்</span><span class="linkdiv-dash"> — </span><span class="desc">GNOME க்குப் புதிதா? எப்படி தொடங்குவது என அறிந்துகொள்ளுங்கள்.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="GNOME - அறிமுகம்"><span class="title">GNOME - அறிமுகம்</span><span class="linkdiv-dash"> — </span><span class="desc">மேல் பட்டியில் உங்கள் பெயரைச் சொடுக்கி <span class="gui">அமைவுகள்</span> ஐத் தேர்ந்தெடுக்கவும்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">விடுபதிகை செய்து, பயனர்கலை மாற்றி மற்றும் பல வழிகளில் உங்கள் பயனர் கணக்கிலிருந்து எப்படி வெளியேறுவது எனக் கற்றுக்கொள்க.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="பயன்பாடுகளைத் தொடங்குதல்"><span class="title">பயன்பாடுகளைத் தொடங்குதல்</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">செயல்பாடுகள் மேலோட்டத்தில்</span> இருந்து பயன்பாடுகளை துவக்குதல்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.ta" title="GNOME - அறிமுகம்"><span class="title">GNOME - அறிமுகம்</span><span class="linkdiv-dash"> — </span><span class="desc">மேல் பட்டியில் உங்கள் பெயரைச் சொடுக்கி <span class="gui">அமைவுகள்</span> ஐத் தேர்ந்தெடுக்கவும்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.ta" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">விடுபதிகை செய்து, பயனர்கலை மாற்றி மற்றும் பல வழிகளில் உங்கள் பயனர் கணக்கிலிருந்து எப்படி வெளியேறுவது எனக் கற்றுக்கொள்க.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.ta" title="பயன்பாடுகளைத் தொடங்குதல்"><span class="title">பயன்பாடுகளைத் தொடங்குதல்</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">செயல்பாடுகள் மேலோட்டத்தில்</span> இருந்து பயன்பாடுகளை துவக்குதல்.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="shell-overview.html" title="Your desktop">Your desktop</a></div>
+<div class="links-grid-link"><a href="shell-overview.html.ta" title="Your desktop">Your desktop</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="clock-calendar.html" title="நாள்காட்டி சந்திப்புத் திட்டங்கள்">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="அறிவிப்புகள் மற்றும் செய்தித் தட்டு">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="பயனுள்ள விசைப்பலகை குறுக்குவழிகள்">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="சாளரங்கள் மற்றும் பணியிடங்கள்">windows and workspaces</a></span>…
+      <span class="link"><a href="clock-calendar.html.ta" title="நாள்காட்டி சந்திப்புத் திட்டங்கள்">Calendar</a></span>,
+      <span class="link"><a href="shell-notifications.html.ta" title="அறிவிப்புகள் மற்றும் செய்தித் தட்டு">notifications</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.ta" title="பயனுள்ள விசைப்பலகை குறுக்குவழிகள்">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-windows.html.ta" title="சாளரங்கள் மற்றும் பணியிடங்கள்">windows and workspaces</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ்</a></span>, <span class="link"><a href="net-wired.html" title="வயர்டு பிணைய அமைப்பு">வயர்டு</a></span>, <span class="link"><a href="net-problem.html" title="பிணைய சிக்கல்கள்">இணைப்பு சிக்கல்கள்</a></span>, <span class="link"><a href="net-browser.html" title="வலை உலாவிகள்">வலை உலாவல்</a></span>, <span class="link"><a href="net-email.html" title="மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்">மின்னஞ்சல் கணக்குகள்</a></span>…</span></div>
+<div class="links-grid-link"><a href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.ta" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ்</a></span>, <span class="link"><a href="net-wired.html.ta" title="வயர்டு பிணைய அமைப்பு">வயர்டு</a></span>, <span class="link"><a href="net-problem.html.ta" title="பிணைய சிக்கல்கள்">இணைப்பு சிக்கல்கள்</a></span>, <span class="link"><a href="net-browser.html.ta" title="வலை உலாவிகள்">வலை உலாவல்</a></span>, <span class="link"><a href="net-email.html.ta" title="மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்">மின்னஞ்சல் கணக்குகள்</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html" title="ஒலி, வீடியோ &amp; படங்கள்">ஒலி, வீடியோ &amp;  படங்கள்</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="media.html#photos" title="புகைப்படங்கள் மற்றும் டிஜிட்டல் கேமராக்கள்">டிஜிட்டல் கேமராக்கள்</a></span>, <span class="link"><a href="media.html#music" title="இசை மற்றும் சிறிய ஆடியோ பிளேயர்கள்">iPods</a></span>, <span class="link"><a href="media.html#photos" title="புகைப்படங்கள் மற்றும் டிஜிட்டல் கேமராக்கள்">புகைப்படங்களைத் திருத்துதல்</a></span>, <span class="link"><a href="media.html#videos" title="வீடியோக்கள் மற்றும் வீடியோ கேமராக்கள்">வீடியோக்களை இயக்குதல்</a></span>…</span></div>
+<div class="links-grid-link"><a href="media.html.ta" title="ஒலி, வீடியோ &amp; படங்கள்">ஒலி, வீடியோ &amp;  படங்கள்</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="media.html.ta#photos" title="புகைப்படங்கள் மற்றும் டிஜிட்டல் கேமராக்கள்">டிஜிட்டல் கேமராக்கள்</a></span>, <span class="link"><a href="media.html.ta#music" title="இசை மற்றும் சிறிய ஆடியோ பிளேயர்கள்">iPods</a></span>, <span class="link"><a href="media.html.ta#photos" title="புகைப்படங்கள் மற்றும் டிஜிட்டல் கேமராக்கள்">புகைப்படங்களைத் திருத்துதல்</a></span>, <span class="link"><a href="media.html.ta#videos" title="வீடியோக்கள் மற்றும் வீடியோ கேமராக்கள்">வீடியோக்களை இயக்குதல்</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="files.html" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள், கோப்புறைகள் மற்றும் தேடல்</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="files-search.html" title="கோப்புகளைத் தேடல்">தேடுதல்</a></span>, <span class="link"><a href="files-delete.html" title="கோப்புகள் மற்றும் கோப்புறைகளை அழித்தல்">கோப்புகளை அழித்தல்</a></span>, <span class="link"><a href="files.html#backup" title="மறுபிரதி எடுத்தல்">மறுபிரதிகள்</a></span>, <span class="link"><a href="files.html#removable" title="நீக்கக்கூடிய இயக்கிகள் மற்றும் வெளி வட்டுகள்">நீக்கக்கூடிய இயக்கிகள்</a></span>…</span></div>
+<div class="links-grid-link"><a href="files.html.ta" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள், கோப்புறைகள் மற்றும் தேடல்</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="files-search.html.ta" title="கோப்புகளைத் தேடல்">தேடுதல்</a></span>, <span class="link"><a href="files-delete.html.ta" title="கோப்புகள் மற்றும் கோப்புறைகளை அழித்தல்">கோப்புகளை அழித்தல்</a></span>, <span class="link"><a href="files.html.ta#backup" title="மறுபிரதி எடுத்தல்">மறுபிரதிகள்</a></span>, <span class="link"><a href="files.html.ta#removable" title="நீக்கக்கூடிய இயக்கிகள் மற்றும் வெளி வட்டுகள்">நீக்கக்கூடிய இயக்கிகள்</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a></div>
+<div class="links-grid-link"><a href="addremove.html.ta" title="Install &amp; remove software">Install &amp; remove software</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Remove an application">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+      <span class="link"><a href="addremove-install.html.ta" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.ta" title="Remove an application">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.ta" title="Add software repositories">add repositories</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">பயனர் &amp; கணினி அமைவுகள்</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html" title="விசைப்பலகை">விசைப்பலகை</a></span>, <span class="link"><a href="mouse.html" title="சொடுக்கி">சொடுக்கி</a></span>, <span class="link"><a href="prefs-display.html" title="காட்சி &amp; திரை">காட்சி</a></span>, <span class="link"><a href="prefs-language.html" title="பகுதி &amp; மொழி">மொழிகள்</a></span>, <span class="link"><a href="user-accounts.html" title="பயனர் கணக்குகள்">பயனர் கணக்குகள்</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">பயனர் &amp; கணினி அமைவுகள்</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html.ta" title="விசைப்பலகை">விசைப்பலகை</a></span>, <span class="link"><a href="mouse.html.ta" title="சொடுக்கி">சொடுக்கி</a></span>, <span class="link"><a href="prefs-display.html.ta" title="காட்சி &amp; திரை">காட்சி</a></span>, <span class="link"><a href="prefs-language.html.ta" title="பகுதி &amp; மொழி">மொழிகள்</a></span>, <span class="link"><a href="user-accounts.html.ta" title="பயனர் கணக்குகள்">பயனர் கணக்குகள்</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள் &amp; இயக்கிகள்</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="hardware.html#problems" title="பொதுவான பிரச்சினைகள்">வன்பொருள் பிரச்சினைகள்</a></span>, <span class="link"><a href="printing.html" title="அச்சிடுதல்">அச்சுப்பொறிகள்</a></span>, <span class="link"><a href="power.html" title="மின்சக்தி &amp; பேட்டரி">மின் அமைவுகள்</a></span>, <span class="link"><a href="color.html" title="நிற மேலாண்மை">நிற மேலாண்மை</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="வட்டுகள் &amp; சேமிப்பிடம்">வட்டுகள்</a></span>… </span></div>
+<div class="links-grid-link"><a href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள் &amp; இயக்கிகள்</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="hardware.html.ta#problems" title="பொதுவான பிரச்சினைகள்">வன்பொருள் பிரச்சினைகள்</a></span>, <span class="link"><a href="printing.html.ta" title="அச்சிடுதல்">அச்சுப்பொறிகள்</a></span>, <span class="link"><a href="power.html.ta" title="மின்சக்தி &amp; பேட்டரி">மின் அமைவுகள்</a></span>, <span class="link"><a href="color.html.ta" title="நிற மேலாண்மை">நிற மேலாண்மை</a></span>, <span class="link"><a href="bluetooth.html.ta" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.ta" title="வட்டுகள் &amp; சேமிப்பிடம்">வட்டுகள்</a></span>… </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="a11y.html" title="அனைவருக்குமான அணுகல்">அனைவருக்குமான அணுகல்</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="a11y.html#vision" title="பார்வைக் குறைபாடுகள்">Seeing</a></span>, <span class="link"><a href="a11y.html#sound" title="கேட்டல் குறைபாடுகள்">hearing</a></span>, <span class="link"><a href="a11y.html#mobility" title="நகர்வதிலான குறைபாடுகள்">mobility</a></span>, <span class="link"><a href="a11y-braille.html" title="பிரெய்லி முறையில் திரையை வாசிக்கவும்">braille</a></span>, <span class="link"><a href="a11y-mag.html" title="திரைப் பகுதியைப் உருப்பெருக்குதல்">screen magnifier</a></span>…</span></div>
+<div class="links-grid-link"><a href="a11y.html.ta" title="அனைவருக்குமான அணுகல்">அனைவருக்குமான அணுகல்</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="a11y.html.ta#vision" title="பார்வைக் குறைபாடுகள்">Seeing</a></span>, <span class="link"><a href="a11y.html.ta#sound" title="கேட்டல் குறைபாடுகள்">hearing</a></span>, <span class="link"><a href="a11y.html.ta#mobility" title="நகர்வதிலான குறைபாடுகள்">mobility</a></span>, <span class="link"><a href="a11y-braille.html.ta" title="பிரெய்லி முறையில் திரையை வாசிக்கவும்">braille</a></span>, <span class="link"><a href="a11y-mag.html.ta" title="திரைப் பகுதியைப் உருப்பெருக்குதல்">screen magnifier</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="tips.html" title="குறிப்புகள் &amp; தந்திரங்கள்">குறிப்புகள் &amp; தந்திரங்கள்</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html" title="சிறப்பு எழுத்துக்களை உள்ளிடுதல்">சிறப்பு எழுத்துகள்</a></span>, <span class="link"><a href="mouse-middleclick.html" title="நடு சொடுக்கம்">நடு சொடுக்க குறுக்குவழிகள்</a></span>…</span></div>
+<div class="links-grid-link"><a href="tips.html.ta" title="குறிப்புகள் &amp; தந்திரங்கள்">குறிப்புகள் &amp; தந்திரங்கள்</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.ta" title="சிறப்பு எழுத்துக்களை உள்ளிடுதல்">சிறப்பு எழுத்துகள்</a></span>, <span class="link"><a href="mouse-middleclick.html.ta" title="நடு சொடுக்கம்">நடு சொடுக்க குறுக்குவழிகள்</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="more-help.html" title="Get more help">Get more help</a></div>
+<div class="links-grid-link"><a href="more-help.html.ta" title="Get more help">Get more help</a></div>
 <div class="desc"><span class="desc">
-        <span class="link"><a href="about-this-guide.html" title="About this guide">Tips on using this guide</a></span>,
-        <span class="link"><a href="get-involved.html" title="Participate to improve this guide">help improve this guide</a></span>…
+        <span class="link"><a href="about-this-guide.html.ta" title="About this guide">Tips on using this guide</a></span>,
+        <span class="link"><a href="get-involved.html.ta" title="Participate to improve this guide">help improve this guide</a></span>…
     </span></div>
 </div>
 </div></div></div>

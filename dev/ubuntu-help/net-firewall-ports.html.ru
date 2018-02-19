@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html" title="Безопасность в Интернете">Безопасность в Интернете</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html.ru" title="Безопасность в Интернете">Безопасность в Интернете</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Часто используемые сетевые порты</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">This is a list of network ports commonly used by applications that provide
   network services, like file sharing or remote desktop viewing. You can change
-  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html" title="Управление доступом к сети с помощью межсетевого экрана">block or allow
+  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html.ru" title="Управление доступом к сети с помощью межсетевого экрана">block or allow
   access</a></span> to these applications. There are thousands of ports in use, so
   this table isn’t complete.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
@@ -101,17 +101,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Безопасность в Интернете">Безопасность в Интернете</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="Нужна ли мне антивирусная программа?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="Управление доступом к сети с помощью межсетевого экрана">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="Часто используемые сетевые порты">firewall ports</a></span>…
+<a href="net-security.html.ru" title="Безопасность в Интернете">Безопасность в Интернете</a><span class="desc"> — 
+      <span class="link"><a href="net-antivirus.html.ru" title="Нужна ли мне антивирусная программа?">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.ru" title="Управление доступом к сети с помощью межсетевого экрана">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.ru" title="Часто используемые сетевые порты">firewall ports</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-on-off.html" title="Управление доступом к сети с помощью межсетевого экрана">Управление доступом к сети с помощью межсетевого экрана</a><span class="desc"> — Управление тем, какие программы могут получать доступ к сети. Это помогает обеспечить безопасность компьютера.</span>
+<a href="net-firewall-on-off.html.ru" title="Управление доступом к сети с помощью межсетевого экрана">Управление доступом к сети с помощью межсетевого экрана</a><span class="desc"> — Управление тем, какие программы могут получать доступ к сети. Это помогает обеспечить безопасность компьютера.</span>
 </li></ul></div>
 </div></div>
 </div>

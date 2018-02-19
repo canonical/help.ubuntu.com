@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Manterse seguro na Internet</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html" title="Activar ou bloquear o acceso á devasa"><span class="title">Activar ou bloquear o acceso á devasa</span><span class="linkdiv-dash"> — </span><span class="desc">Pode controlar que programas poden acceder á rede. Isto axúdalle a manter o seu computador seguro.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html" title="Portos de rede usados frecuentemente"><span class="title">Portos de rede usados frecuentemente</span><span class="linkdiv-dash"> — </span><span class="desc">Debe especificar o porto de rede correcto para activar/desactivar o acceso da rede para un programa na súa devasa.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="Preciso analizar os meus correos electrónicos por virus?"><span class="title">Preciso analizar os meus correos electrónicos por virus?</span><span class="linkdiv-dash"> — </span><span class="desc">Os virus raramente infectan o seu computador, pero podería infectar os computadores das persoas ás que envía correos electrónicos.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="Preciso un software antivirus?"><span class="title">Preciso un software antivirus?</span><span class="linkdiv-dash"> — </span><span class="desc">There are few Linux viruses, so you probably don’t need anti-virus
+<div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html.gl-GL" title="Activar ou bloquear o acceso á devasa"><span class="title">Activar ou bloquear o acceso á devasa</span><span class="linkdiv-dash"> — </span><span class="desc">Pode controlar que programas poden acceder á rede. Isto axúdalle a manter o seu computador seguro.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html.gl-GL" title="Portos de rede usados frecuentemente"><span class="title">Portos de rede usados frecuentemente</span><span class="linkdiv-dash"> — </span><span class="desc">Debe especificar o porto de rede correcto para activar/desactivar o acceso da rede para un programa na súa devasa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-email-virus.html.gl-GL" title="Preciso analizar os meus correos electrónicos por virus?"><span class="title">Preciso analizar os meus correos electrónicos por virus?</span><span class="linkdiv-dash"> — </span><span class="desc">Os virus raramente infectan o seu computador, pero podería infectar os computadores das persoas ás que envía correos electrónicos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html.gl-GL" title="Preciso un software antivirus?"><span class="title">Preciso un software antivirus?</span><span class="linkdiv-dash"> — </span><span class="desc">There are few Linux viruses, so you probably don’t need anti-virus
     software.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -60,7 +60,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Redes sen fíos">Sen fíos</a></span>, <span class="link"><a href="net-wired.html" title="Rede con cable">con fíos</a></span>, <span class="link"><a href="net-problem.html" title="Problemas de rede">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html" title="Navegadores web">navegación web</a></span>, <span class="link"><a href="net-email.html" title="Software de correo electrónico">contas de correo-e</a></span>…</span>
+<a href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.gl-GL" title="Redes sen fíos">Sen fíos</a></span>, <span class="link"><a href="net-wired.html.gl-GL" title="Rede con cable">con fíos</a></span>, <span class="link"><a href="net-problem.html.gl-GL" title="Problemas de rede">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.gl-GL" title="Navegadores web">navegación web</a></span>, <span class="link"><a href="net-email.html.gl-GL" title="Software de correo electrónico">contas de correo-e</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

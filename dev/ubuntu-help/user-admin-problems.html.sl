@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="user-accounts.html" title="Uporabniški računi">Uporabniki</a> › <a class="trail" href="user-accounts.html#privileges" title="Uporabniška dovoljenja">Dovoljenja</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="prefs.html.sl" title="Uporabniške in sistemske nastavitve">Nastavitve</a> » <a class="trail" href="user-accounts.html.sl" title="Uporabniški računi">Uporabniki</a> › <a class="trail" href="user-accounts.html.sl#privileges" title="Uporabniška dovoljenja">Dovoljenja</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Težave, ki jih povzročijo skrbniške omejitve</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You may experience a few problems if you do not have
-  <span class="link"><a href="user-admin-explain.html" title="Kako delujejo skrbniška dovoljenja?">administrative privileges</a></span>. Some tasks
+  <span class="link"><a href="user-admin-explain.html.sl" title="Kako delujejo skrbniška dovoljenja?">administrative privileges</a></span>. Some tasks
   require administrative privileges in order to work, such as:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">connecting to networks or wireless networks,</p></li>
@@ -58,7 +58,7 @@
       Windows partition), or</p></li>
 <li class="list"><p class="p">installing new applications.</p></li>
 </ul></div></div></div>
-<p class="p">You can <span class="link"><a href="user-admin-change.html" title="Sprememba kdo ima skrbniška dovoljenja">change who has administrative
+<p class="p">You can <span class="link"><a href="user-admin-change.html.sl" title="Sprememba kdo ima skrbniška dovoljenja">change who has administrative
   privileges</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -66,17 +66,17 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Uporabniška dovoljenja">Uporabniška dovoljenja</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.sl#privileges" title="Uporabniška dovoljenja">Uporabniška dovoljenja</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html" title="Kako delujejo skrbniška dovoljenja?">Kako delujejo skrbniška dovoljenja?</a><span class="desc"> — You need administrative privileges to change important parts of your
+<a href="user-admin-explain.html.sl" title="Kako delujejo skrbniška dovoljenja?">Kako delujejo skrbniška dovoljenja?</a><span class="desc"> — You need administrative privileges to change important parts of your
     system.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="Sprememba kdo ima skrbniška dovoljenja">Sprememba kdo ima skrbniška dovoljenja</a><span class="desc"> — You can allow users to make changes to the system by giving them
+<a href="user-admin-change.html.sl" title="Sprememba kdo ima skrbniška dovoljenja">Sprememba kdo ima skrbniška dovoljenja</a><span class="desc"> — You can allow users to make changes to the system by giving them
     administrative privileges.</span>
 </li>
 </ul></div>

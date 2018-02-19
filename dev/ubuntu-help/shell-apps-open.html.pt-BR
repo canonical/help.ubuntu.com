@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Iniciando aplicativos</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Mova o ponteiro do seu mouse para <span class="gui">Atividades</span> no canto superior esquerda da tela para mostrar o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span>. É ali que você pode encontrar todos os seus aplicativos. Você também pode abrir o panorama pressionando a tecla <span class="key"><a href="keyboard-key-super.html" title="O que é a tecla Super?"><kbd>Super</kbd></a></span>.</p>
+<p class="p">Mova o ponteiro do seu mouse para <span class="gui">Atividades</span> no canto superior esquerda da tela para mostrar o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span>. É ali que você pode encontrar todos os seus aplicativos. Você também pode abrir o panorama pressionando a tecla <span class="key"><a href="keyboard-key-super.html.pt-BR" title="O que é a tecla Super?"><kbd>Super</kbd></a></span>.</p>
 <p class="p">Existem várias maneiras de se abrir um aplicativo uma vez que esteja no panorama de <span class="gui">Atividades</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Comece digitando o nome de um aplicativo — a pesquisa começa instantaneamente (se isso não acontecer, clique na barra de pesquisa na região superior da tela e comece a digitar). Se você não sabe exatamente o nome de um aplicativo, tente digitar um termo relacionado. Clique no ícone do aplicativo para iniciá-lo.</p></li>
 <li class="list">
 <p class="p">Alguns aplicativos possuem ícones no <span class="em">dash</span>, a listra vertical de ícones no lado esquerdo do panorama de <span class="gui">Atividades</span>. Clique em um desses para iniciar o aplicativo correspondente.</p>
-<p class="p">Se você tiver aplicativos que você usa muito frequentemente, você pode <span class="link"><a href="shell-apps-favorites.html" title="Fixe seus aplicativos favoritos ao dash">adicioná-los ao dash</a></span>.</p>
+<p class="p">Se você tiver aplicativos que você usa muito frequentemente, você pode <span class="link"><a href="shell-apps-favorites.html.pt-BR" title="Fixe seus aplicativos favoritos ao dash">adicioná-los ao dash</a></span>.</p>
 </li>
 <li class="list"><p class="p">Clique no botão de grade na parte inferior do dash. Você verá os aplicativos frequentemente usados se a visão <span class="gui">Frequente</span> estiver habilitada. Se você quiser executar um novo aplicativo, pressione o botão <span class="gui">Todos</span> na parte inferior para ver todos os aplicativos. Pressione o aplicativo para iniciá-lo.</p></li>
 <li class="list">
-<p class="p">Você pode inciar um aplicativo em um <span class="link"><a href="shell-workspaces.html" title="O que é um espaço de trabalho e como ele vai me ajudar?">espaço de trabalho</a></span> separado arrastando seu ícone do dash (ou da lista de aplicativos) e soltando-o em um outro espaço de trabalho no lado direito da tela. O aplicativo vai abrir espaço de trabalho escolhido.</p>
+<p class="p">Você pode inciar um aplicativo em um <span class="link"><a href="shell-workspaces.html.pt-BR" title="O que é um espaço de trabalho e como ele vai me ajudar?">espaço de trabalho</a></span> separado arrastando seu ícone do dash (ou da lista de aplicativos) e soltando-o em um outro espaço de trabalho no lado direito da tela. O aplicativo vai abrir espaço de trabalho escolhido.</p>
 <p class="p">Você pode iniciar um aplicativo em um <span class="em">novo</span> espaço de trabalho arrastando seu ícone para um espaço de trabalho vazio mais em baixo no alternador do espaço de trabalho, ou para um espaço entre dois espaços de trabalho.</p>
 </li>
 </ul></div></div></div>
@@ -77,9 +77,9 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="index.html" title="Guia do Ubuntu Desktop">Guia do Ubuntu Desktop</a></li>
+<li class="links "><a href="index.html.pt-BR" title="Guia do Ubuntu Desktop">Guia do Ubuntu Desktop</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Seu ambiente">Seu ambiente</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Compromissos da agenda">Agenda</a></span>, <span class="link"><a href="shell-notifications.html" title="Notificações e a área de notificação">notificações</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Atalhos de teclado úteis">atalhos de teclado</a></span>, <span class="link"><a href="shell-windows.html" title="Janelas e espaços de trabalho">janelas e espaços de trabalho</a></span>…</span>
+<a href="shell-overview.html.pt-BR" title="Seu ambiente">Seu ambiente</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.pt-BR" title="Compromissos da agenda">Agenda</a></span>, <span class="link"><a href="shell-notifications.html.pt-BR" title="Notificações e a área de notificação">notificações</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.pt-BR" title="Atalhos de teclado úteis">atalhos de teclado</a></span>, <span class="link"><a href="shell-windows.html.pt-BR" title="Janelas e espaços de trabalho">janelas e espaços de trabalho</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -87,10 +87,10 @@
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-apps-favorites.html" title="Fixe seus aplicativos favoritos ao dash">Fixe seus aplicativos favoritos ao dash</a><span class="desc"> — Adicione (ou remova) ícones de programas frequentemente usados ao dash.</span>
+<a href="shell-apps-favorites.html.pt-BR" title="Fixe seus aplicativos favoritos ao dash">Fixe seus aplicativos favoritos ao dash</a><span class="desc"> — Adicione (ou remova) ícones de programas frequentemente usados ao dash.</span>
 </li>
-<li class="links "><a href="gs-launch-applications.html" title="Executando aplicativos">Um tutorial sobre a execução de aplicativos</a></li>
-<li class="links "><a href="gs-use-system-search.html" title="Usando a pesquisa do sistema">Um tutorial sobre o uso da pesquisa do sistema</a></li>
+<li class="links "><a href="gs-launch-applications.html.pt-BR" title="Executando aplicativos">Um tutorial sobre a execução de aplicativos</a></li>
+<li class="links "><a href="gs-use-system-search.html.pt-BR" title="Usando a pesquisa do sistema">Um tutorial sobre o uso da pesquisa do sistema</a></li>
 </ul></div>
 </div></div>
 </div>

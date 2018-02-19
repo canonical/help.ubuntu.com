@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a> » <a class="trail" href="nautilus-prefs.html" title="Fájlkezelő beállításai">Fájlkezelő beállításai</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.hu" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html.hu#more-file-tasks" title="Fájlokkal kapcsolatos további feladatok">Fájlokkal kapcsolatos további feladatok</a> » <a class="trail" href="nautilus-prefs.html.hu" title="Fájlkezelő beállításai">Fájlkezelő beállításai</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fájlkezelő előnézet-beállításai</span></h1></div>
@@ -53,11 +53,11 @@
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Fájlok</span></dt>
 <dd class="terms">
-<p class="p">Alapesetben minden előnézet csak a számítógépen vagy csatlakoztatott külső meghajtókon található <span class="gui">Helyi fájlokhoz</span> készül. Ezt a szolgáltatást beállíthatja <span class="gui">Mindig</span> vagy <span class="gui">Soha</span> értékre is. A fájlkezelő képes <span class="link"><a href="nautilus-connect.html" title="Fájlok tallózása egy kiszolgálón vagy hálózati megosztáson">más számítógépeken található fájlok tallózására</a></span> a helyi hálózaton vagy az interneten. Ha gyakran tallóz a helyi hálózaton lévő fájlokat, és a hálózat elég gyors, akkor állítsa az előnézeti beállítást <span class="gui">Mindig</span> értékűre.</p>
+<p class="p">Alapesetben minden előnézet csak a számítógépen vagy csatlakoztatott külső meghajtókon található <span class="gui">Helyi fájlokhoz</span> készül. Ezt a szolgáltatást beállíthatja <span class="gui">Mindig</span> vagy <span class="gui">Soha</span> értékre is. A fájlkezelő képes <span class="link"><a href="nautilus-connect.html.hu" title="Fájlok tallózása egy kiszolgálón vagy hálózati megosztáson">más számítógépeken található fájlok tallózására</a></span> a helyi hálózaton vagy az interneten. Ha gyakran tallóz a helyi hálózaton lévő fájlokat, és a hálózat elég gyors, akkor állítsa az előnézeti beállítást <span class="gui">Mindig</span> értékűre.</p>
 <p class="p">Ezen kívül használhatja a <span class="gui">Csak az ennél kisebb fájlokhoz</span> beállítást az előnézet használatának korlátozásához.</p>
 </dd>
 <dt class="terms"><span class="gui">Mappák</span></dt>
-<dd class="terms"><p class="p">Ha a fájlméreteket megjelenítteti a <span class="link"><a href="nautilus-list.html" title="A Fájlok listaoszlopainak beállításai">listanézet oszlopaiban</a></span> vagy az <span class="link"><a href="nautilus-display.html#icon-captions" title="Ikonfeliratok">ikonfeliratokban</a></span>, akkor a mappák megjelenítik az általuk tartalmazott fájlok és mappák számát. A mappák elemeinek megszámolása lassú lehet, különösen nagyon nagy mappák vagy hálózat használata esetén. Ezt a szolgáltatást be- vagy kikapcsolhatja, vagy korlátozhatja használatát a számítógépén és a helyi külső meghajtókon lévő fájlokra.</p></dd>
+<dd class="terms"><p class="p">Ha a fájlméreteket megjelenítteti a <span class="link"><a href="nautilus-list.html.hu" title="A Fájlok listaoszlopainak beállításai">listanézet oszlopaiban</a></span> vagy az <span class="link"><a href="nautilus-display.html.hu#icon-captions" title="Ikonfeliratok">ikonfeliratokban</a></span>, akkor a mappák megjelenítik az általuk tartalmazott fájlok és mappák számát. A mappák elemeinek megszámolása lassú lehet, különösen nagyon nagy mappák vagy hálózat használata esetén. Ezt a szolgáltatást be- vagy kikapcsolhatja, vagy korlátozhatja használatát a számítógépén és a helyi külső meghajtókon lévő fájlokra.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Fájlkezelő beállításai">Fájlkezelő beállításai</a><span class="desc"> — A fájlböngésző beállításainak megjelenítése és megadása.</span>
+<a href="nautilus-prefs.html.hu" title="Fájlkezelő beállításai">Fájlkezelő beállításai</a><span class="desc"> — A fájlböngésző beállításainak megjelenítése és megadása.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-preview.html" title="Fájlok és mappák előnézete">Fájlok és mappák előnézete</a><span class="desc"> — Dokumentumok, képek, videók és sok más előnézetének gyors megjelenítése és elrejtése.</span>
+<a href="files-preview.html.hu" title="Fájlok és mappák előnézete">Fájlok és mappák előnézete</a><span class="desc"> — Dokumentumok, képek, videók és sok más előnézetének gyors megjelenítése és elrejtése.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ћаскање и друштвене мреже</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html" title="Брзе поруке на Убунтуу"><span class="title">Брзе поруке на Убунтуу</span><span class="linkdiv-dash"> — </span><span class="desc">Са <span class="app">Интернет писмоношом</span> можете да ћаскате, позивате и да позивате уз видео пријатеље и колеге на разним мрежама</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html" title="Видео позиви"><span class="title">Видео позиви</span><span class="linkdiv-dash"> — </span><span class="desc">Које програме могу да користим за обављање видео позива?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html.sr" title="Брзе поруке на Убунтуу"><span class="title">Брзе поруке на Убунтуу</span><span class="linkdiv-dash"> — </span><span class="desc">Са <span class="app">Интернет писмоношом</span> можете да ћаскате, позивате и да позивате уз видео пријатеље и колеге на разним мрежама</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html.sr" title="Видео позиви"><span class="title">Видео позиви</span><span class="linkdiv-dash"> — </span><span class="desc">Које програме могу да користим за обављање видео позива?</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html" title="Како могу да користим Скајп на Убунтуу?"><span class="title">Како могу да користим Скајп на Убунтуу?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Скајп</span> је власнички софтвер и мора бити ручно инсталиран на Убунтуу</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html.sr" title="Како могу да користим Скајп на Убунтуу?"><span class="title">Како могу да користим Скајп на Убунтуу?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Скајп</span> је власнички софтвер и мора бити ручно инсталиран на Убунтуу</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -61,13 +61,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Бежично умрежавање">Бежична</a></span>, <span class="link"><a href="net-wired.html" title="Жичано умрежавање">жичана</a></span>, <span class="link"><a href="net-problem.html" title="Мрежни проблеми">проблеми повезивања</a></span>, <span class="link"><a href="net-browser.html" title="Веб прегледници">прегледање веба</a></span>, <span class="link"><a href="net-email.html" title="Е-пошта и програми за е-пошту">налози е-поште</a></span>…</span>
+<a href="net.html.sr" title="Умрежавање, веб и е-пошта">Умрежавање, веб и е-пошта</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sr" title="Бежично умрежавање">Бежична</a></span>, <span class="link"><a href="net-wired.html.sr" title="Жичано умрежавање">жичана</a></span>, <span class="link"><a href="net-problem.html.sr" title="Мрежни проблеми">проблеми повезивања</a></span>, <span class="link"><a href="net-browser.html.sr" title="Веб прегледници">прегледање веба</a></span>, <span class="link"><a href="net-email.html.sr" title="Е-пошта и програми за е-пошту">налози е-поште</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Налози на мрежи">Налози на мрежи</a><span class="desc"> — <span class="link"><a href="accounts-create.html" title="accounts-create">Додајте налог на мрежи</a></span>, <span class="link"><a href="accounts-add.html" title="Додајте налог">Уклоните налог</a></span>, <span class="link"><a href="accounts-remove.html" title="Уклоните налог">Сазнајте о услугама</a></span>…</span>
+<a href="accounts.html.sr" title="Налози на мрежи">Налози на мрежи</a><span class="desc"> — <span class="link"><a href="accounts-create.html.sr" title="accounts-create">Додајте налог на мрежи</a></span>, <span class="link"><a href="accounts-add.html.sr" title="Додајте налог">Уклоните налог</a></span>, <span class="link"><a href="accounts-remove.html.sr" title="Уклоните налог">Сазнајте о услугама</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

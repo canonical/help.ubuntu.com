@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="tips.html" title="Namigi in triki">Namigi in triki</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="tips.html.sl" title="Namigi in triki">Namigi in triki</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Determine which version of GNOME is running</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">You can determine the version of GNOME that is running on your system by
   going to the <span class="gui">Details</span> panel in <span class="gui">Settings</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Details</span>.</p></li>
 <li class="steps">
 <p class="p">Click on <span class="gui">Details</span> to open the panel.</p>
@@ -66,7 +66,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Namigi in triki">Namigi in triki</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Vnos posebnih znakov">Posebni znaki</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Srednji klik">bližnjice s srednjim klikom</a></span> ...</span>
+<a href="tips.html.sl" title="Namigi in triki">Namigi in triki</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.sl" title="Vnos posebnih znakov">Posebni znaki</a></span>, <span class="link"><a href="mouse-middleclick.html.sl" title="Srednji klik">bližnjice s srednjim klikom</a></span> ...</span>
 </li></ul></div>
 </div></div></div>
 </div>

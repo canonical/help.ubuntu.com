@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="user-accounts.html" title="Uživatelské účty">Uživatelé</a> › <a class="trail" href="user-accounts.html#manage" title="Správa uživatelských účtů">Účty</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="user-accounts.html.cs" title="Uživatelské účty">Uživatelé</a> › <a class="trail" href="user-accounts.html.cs#manage" title="Správa uživatelských účtů">Účty</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Automatické přihlašování</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Může změnit své nastavení tak, že po zapnutí počítače budete automaticky přihlášeni ke svému účtu:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Uživatelé</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Uživatelé</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Uživatelé</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Vyberte uživatelský účet, pod kterým se chcete přihlásit automaticky po spuštění.</p></li>
 <li class="steps"><p class="p">Zmáčkněte <span class="gui">Odemknout</span> a zadejte své heslo.</p></li>
@@ -65,12 +65,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#manage" title="Správa uživatelských účtů">Správa uživatelských účtů</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.cs#manage" title="Správa uživatelských účtů">Správa uživatelských účtů</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-exit.html" title="Odhlášení nebo přepnutí uživatele, vypnutí">Odhlášení nebo přepnutí uživatele, vypnutí</a><span class="desc"> — Naučte se, jak správně odejít od svého účtu, ať už odhlášením nebo přepnutím uživatele apod.</span>
+<a href="shell-exit.html.cs" title="Odhlášení nebo přepnutí uživatele, vypnutí">Odhlášení nebo přepnutí uživatele, vypnutí</a><span class="desc"> — Naučte se, jak správně odejít od svého účtu, ať už odhlášením nebo přepnutím uživatele apod.</span>
 </li></ul></div>
 </div></div>
 </div>

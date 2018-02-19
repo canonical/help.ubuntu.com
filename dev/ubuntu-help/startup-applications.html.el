@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.el" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html.el#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -74,9 +74,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-overview.html#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a></li>
+<li class="links "><a href="shell-overview.html.el#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a></li>
 <li class="links ">
-<a href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Χρήστης &amp; ρυθμίσεις συστήματος</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Πληκτρολόγιο">Πληκτρολόγιο</a></span>, <span class="link"><a href="mouse.html" title="Ποντίκι">Ποντίκι</a></span>, <span class="link"><a href="prefs-display.html" title="Εμφάνιση &amp; οθόνη">Οθόνη</a></span>, <span class="link"><a href="prefs-language.html" title="Περιοχή &amp; γλώσσα">Γλώσσες</a></span>, <span class="link"><a href="user-accounts.html" title="Λογαριασμοί χρηστών">Λογαριασμοί χρήστη</a></span>…</span>
+<a href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Χρήστης &amp; ρυθμίσεις συστήματος</a><span class="desc"> — <span class="link"><a href="keyboard.html.el" title="Πληκτρολόγιο">Πληκτρολόγιο</a></span>, <span class="link"><a href="mouse.html.el" title="Ποντίκι">Ποντίκι</a></span>, <span class="link"><a href="prefs-display.html.el" title="Εμφάνιση &amp; οθόνη">Οθόνη</a></span>, <span class="link"><a href="prefs-language.html.el" title="Περιοχή &amp; γλώσσα">Γλώσσες</a></span>, <span class="link"><a href="user-accounts.html.el" title="Λογαριασμοί χρηστών">Λογαριασμοί χρήστη</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

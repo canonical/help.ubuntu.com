@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-browser.html" title="Navegadores web">Navegadores web</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-browser.html.pt-BR" title="Navegadores web">Navegadores web</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Alterando qual navegador web abre os sites por padrão</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Quando você clica em um link para uma página web em algum aplicativo, um navegador web irá abri-lo automaticamente. Se você tiver mais de um navegador instalado, contudo, talvez a página não seja aberta no navegador que você gostaria. Para corrigir isso, altere o navegador web padrão:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Detalhes</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Detalhes</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Detalhes</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Escolha <span class="gui">Aplicativos padrões</span> na lista do lado esquerdo da janela.</p></li>
 <li class="steps"><p class="p">Escolha com qual navegador você gostaria de abrir links alterando a opção <span class="gui">Web</span>.</p></li>
@@ -63,7 +63,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Navegadores web">Navegadores web</a><span class="desc"> — <span class="link"><a href="net-default-browser.html" title="Alterando qual navegador web abre os sites por padrão">Altere o navegador padrão</a></span>, <span class="link"><a href="net-install-flash.html" title="Instalar o plug-in Flash">instale Flash</a></span>…</span>
+<a href="net-browser.html.pt-BR" title="Navegadores web">Navegadores web</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.pt-BR" title="Alterando qual navegador web abre os sites por padrão">Altere o navegador padrão</a></span>, <span class="link"><a href="net-install-flash.html.pt-BR" title="Instalar o plug-in Flash">instale Flash</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

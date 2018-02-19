@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-email.html" title="E-Mail und E-Mail-Software">E-Mail und E-Mail-Software</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-email.html.de" title="E-Mail und E-Mail-Software">E-Mail und E-Mail-Software</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-security.html" title="Sicherheit im Internet">Sicherheit im Internet</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-security.html.de" title="Sicherheit im Internet">Sicherheit im Internet</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Viren sind Programme, die Probleme hervorrufen können, sofern sie einen Weg finden, auf Ihren Rechner zu gelangen. Einer der üblichen Wege dazu führt über E-Mail-Nachrichten.</p>
-<p class="p">Viren, die einen Linux-Rechner befallen können, sind recht selten. Daher ist es <span class="link"><a href="net-antivirus.html" title="Benötige ich Anti-Virus-Software?">unwahrscheinlich, dass Sie einen Virus über E-Mail oder auf anderen Wegen erhalten</a></span>. Falls Sie eine E-Mail mit einem darin verborgenen Virus erhalten, wird dieser wahrscheinlich auf Ihrem Rechner keinen Schaden anrichten können. Daher dürfte es nicht notwendig sein, Ihre E-Mails auf Viren zu untersuchen.</p>
+<p class="p">Viren, die einen Linux-Rechner befallen können, sind recht selten. Daher ist es <span class="link"><a href="net-antivirus.html.de" title="Benötige ich Anti-Virus-Software?">unwahrscheinlich, dass Sie einen Virus über E-Mail oder auf anderen Wegen erhalten</a></span>. Falls Sie eine E-Mail mit einem darin verborgenen Virus erhalten, wird dieser wahrscheinlich auf Ihrem Rechner keinen Schaden anrichten können. Daher dürfte es nicht notwendig sein, Ihre E-Mails auf Viren zu untersuchen.</p>
 <p class="p">Sie könnten dennoch Ihre E-Mails auf Viren überprüfen lassen, beispielsweise um erhaltene Viren nicht an andere weiterzugeben. Falls einer Ihrer Freunde oder Bekannten einen Windows-Rechner benutzt und Ihnen damit eine von einem Virus befallene E-Mail sendet, könnten Sie diese E-Mail an einen anderen Freund oder Bekannten mit einem Windows-Rechner weiterleiten. Diese zweite Person würde dann auch diesen Virus erhalten. Sie können eine Anti-Virus-Anwendung installieren, um Ihre E-Mails vorsorglich prüfen zu lassen. Doch höchstwahrscheinlich wird dies nicht passieren, und die meisten Windows- und Mac-Benutzer werden ohnehin auf Ihren Rechnern bereits eine Anti-Virus-Software installiert haben.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -64,17 +64,17 @@
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-email.html" title="E-Mail und E-Mail-Software">E-Mail und E-Mail-Software</a><span class="desc"> — <span class="link"><a href="net-default-email.html" title="Ändern der E-Mail-Anwendung zum Verfassen von Nachrichten">Vorgegebene E-Mail-Anwendungen</a></span>, <span class="link"><a href="net-email-virus.html" title="Muss ich meine E-Mails auf Viren überprüfen lassen?">Sollte ich einen Virenscanner verwenden?</a></span>…</span>
+<a href="net-email.html.de" title="E-Mail und E-Mail-Software">E-Mail und E-Mail-Software</a><span class="desc"> — <span class="link"><a href="net-default-email.html.de" title="Ändern der E-Mail-Anwendung zum Verfassen von Nachrichten">Vorgegebene E-Mail-Anwendungen</a></span>, <span class="link"><a href="net-email-virus.html.de" title="Muss ich meine E-Mails auf Viren überprüfen lassen?">Sollte ich einen Virenscanner verwenden?</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-security.html" title="Sicherheit im Internet">Sicherheit im Internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Benötige ich Anti-Virus-Software?">Anti-Virus-Software</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Firewall-Zugriff erlauben oder blockieren">Einfache Firewall</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Üblicherweise verwendete Netzwerk-Ports">Firewall-Ports</a></span> …</span>
+<a href="net-security.html.de" title="Sicherheit im Internet">Sicherheit im Internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.de" title="Benötige ich Anti-Virus-Software?">Anti-Virus-Software</a></span>, <span class="link"><a href="net-firewall-on-off.html.de" title="Firewall-Zugriff erlauben oder blockieren">Einfache Firewall</a></span>, <span class="link"><a href="net-firewall-ports.html.de" title="Üblicherweise verwendete Netzwerk-Ports">Firewall-Ports</a></span> …</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="Benötige ich Anti-Virus-Software?">Benötige ich Anti-Virus-Software?</a><span class="desc"> — Es gibt nur wenige Linux-Viren, also brauchen Sie wahrscheinlich keine Anti-Virus-Software.</span>
+<a href="net-antivirus.html.de" title="Benötige ich Anti-Virus-Software?">Benötige ich Anti-Virus-Software?</a><span class="desc"> — Es gibt nur wenige Linux-Viren, also brauchen Sie wahrscheinlich keine Anti-Virus-Software.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Esiet droši internetā</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html" title="Ieslēgt vai bloķēt ugunsmūra pieeju"><span class="title">Ieslēgt vai bloķēt ugunsmūra pieeju</span><span class="linkdiv-dash"> — </span><span class="desc">Jūs varat kontrolēt, kura programma varēs piekļūt tīklam. Tas palīdzēs uzturēt jūsu datoru drošībā.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html" title="Biežāk lietotie tīkla porti"><span class="title">Biežāk lietotie tīkla porti</span><span class="linkdiv-dash"> — </span><span class="desc">Jums vajag norādīt pareizo portu, lai ieslēgtu/atslēgtu tīkla pieeju programmai ar jūsu ugunsmūri.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html" title="Vai man vajag anti-vīrus programmu?"><span class="title">Vai man vajag anti-vīrus programmu?</span><span class="linkdiv-dash"> — </span><span class="desc">Ir tikai daži Linux vīrusi, tādēļ jums iespējams nevajag anti-vīrus programmu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-email-virus.html" title="Vai man vajag skenēt savus e-pastus pret vīrusiem?"><span class="title">Vai man vajag skenēt savus e-pastus pret vīrusiem?</span><span class="linkdiv-dash"> — </span><span class="desc">Ir mazticams, ka vīrusi inficēs jūsu datoru, taču tie var inficēt to cilvēku datorus, kuriem sūtāt e-pastus.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html.lv" title="Ieslēgt vai bloķēt ugunsmūra pieeju"><span class="title">Ieslēgt vai bloķēt ugunsmūra pieeju</span><span class="linkdiv-dash"> — </span><span class="desc">Jūs varat kontrolēt, kura programma varēs piekļūt tīklam. Tas palīdzēs uzturēt jūsu datoru drošībā.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html.lv" title="Biežāk lietotie tīkla porti"><span class="title">Biežāk lietotie tīkla porti</span><span class="linkdiv-dash"> — </span><span class="desc">Jums vajag norādīt pareizo portu, lai ieslēgtu/atslēgtu tīkla pieeju programmai ar jūsu ugunsmūri.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html.lv" title="Vai man vajag anti-vīrus programmu?"><span class="title">Vai man vajag anti-vīrus programmu?</span><span class="linkdiv-dash"> — </span><span class="desc">Ir tikai daži Linux vīrusi, tādēļ jums iespējams nevajag anti-vīrus programmu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-email-virus.html.lv" title="Vai man vajag skenēt savus e-pastus pret vīrusiem?"><span class="title">Vai man vajag skenēt savus e-pastus pret vīrusiem?</span><span class="linkdiv-dash"> — </span><span class="desc">Ir mazticams, ka vīrusi inficēs jūsu datoru, taču tie var inficēt to cilvēku datorus, kuriem sūtāt e-pastus.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Bezvadu tīkls">Bezvadu tīkls</a></span>, <span class="link"><a href="net-wired.html" title="Vadu savienojums">vadu</a></span>, <span class="link"><a href="net-problem.html" title="Tīkla problēmas">savienojumu problēmas</a></span>, <span class="link"><a href="net-browser.html" title="Tīmekļa pārlūkprogrammas">tīmekļa pārlūkošana</a></span>, <span class="link"><a href="net-email.html" title="E-pasts un e-pasta programmatūra">e-pasta konti</a></span>…</span>
+<a href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a><span class="desc"> — <span class="link"><a href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a></span>, <span class="link"><a href="net-wired.html.lv" title="Vadu savienojums">vadu</a></span>, <span class="link"><a href="net-problem.html.lv" title="Tīkla problēmas">savienojumu problēmas</a></span>, <span class="link"><a href="net-browser.html.lv" title="Tīmekļa pārlūkprogrammas">tīmekļa pārlūkošana</a></span>, <span class="link"><a href="net-email.html.lv" title="E-pasts un e-pasta programmatūra">e-pasta konti</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

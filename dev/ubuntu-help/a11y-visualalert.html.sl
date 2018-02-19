@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="a11y.html" title="Splošni dostop">Splošni dostop</a> › <a class="trail" href="a11y.html#sound" title="Težave s sluhom">Težave s sluhom</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="a11y.html.sl" title="Splošni dostop">Splošni dostop</a> › <a class="trail" href="a11y.html.sl#sound" title="Težave s sluhom">Težave s sluhom</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Blisk zaslona za zvoke alarma</span></h1></div>
@@ -51,10 +51,10 @@
 <div class="contents">
 <p class="p">Vaš računalnik bo za določene vrste sporočil in dogodkov predvajal enostaven zvok alarma. V primeru, da te zvoke težko slišite, lahko nastavite, da vaš celoten zaslon ali vaše trenutno okno zabliska, ko se predvaja zvok alarma.</p>
 <p class="p">This can also be useful if you’re in an environment where you need your
-  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html" title="Izbira ali onemogočitev opozorilnega zvoka">Izbira ali onemogočitev opozorilnega zvoka</a></span>
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html.sl" title="Izbira ali onemogočitev opozorilnega zvoka">Izbira ali onemogočitev opozorilnega zvoka</a></span>
   to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Visual Alerts</span> in the <span class="gui">Hearing</span> section.</p></li>
@@ -62,19 +62,19 @@
 <li class="steps"><p class="p"> Select whether you want the entire screen or just your current window
       title to flash.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Namig"><div class="inner"><div class="region"><div class="contents"><p class="p">Vidne alarme lahko hitro spremenite s klikom na <span class="link"><a href="a11y-icon.html" title="Najdite meni splošnega dostopa">ikono splošnega dostopa</a></span> v vrhnji vrstici in izbiro <span class="gui">Vidni alarmi</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Namig"><div class="inner"><div class="region"><div class="contents"><p class="p">Vidne alarme lahko hitro spremenite s klikom na <span class="link"><a href="a11y-icon.html.sl" title="Najdite meni splošnega dostopa">ikono splošnega dostopa</a></span> v vrhnji vrstici in izbiro <span class="gui">Vidni alarmi</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#sound" title="Težave s sluhom">Težave s sluhom</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.sl#sound" title="Težave s sluhom">Težave s sluhom</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-alert.html" title="Izbira ali onemogočitev opozorilnega zvoka">Izbira ali onemogočitev opozorilnega zvoka</a><span class="desc"> — Izberite zvok za predvajanje ob novih sporočilih, nastavite glasnost opozoril ali onemogočite opozorilne zvoke.</span>
+<a href="sound-alert.html.sl" title="Izbira ali onemogočitev opozorilnega zvoka">Izbira ali onemogočitev opozorilnega zvoka</a><span class="desc"> — Izberite zvok za predvajanje ob novih sporočilih, nastavite glasnost opozoril ali onemogočite opozorilne zvoke.</span>
 </li></ul></div>
 </div></div>
 </div>

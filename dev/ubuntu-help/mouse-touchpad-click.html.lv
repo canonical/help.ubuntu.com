@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="mouse.html" title="Pele">Pele</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="mouse.html.lv" title="Pele">Pele</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="mouse.html" title="Pele">Pele</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="mouse.html.lv" title="Pele">Pele</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <div class="region"><div class="contents">
 <p class="p">Lai klikšķinātu, jūs varat uzsist uz skārienpaliktņa, nevis izmantot pogu.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Pele un skārienpaliktnis</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Pele un skārienpaliktnis</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Pele un skārienpaliktnis</span>, lai atvērtu paneli.</p></li>
 <li class="steps">
 <p class="p">Atveriet <span class="gui">Skārienpaliktnis</span> sadaļu un atzīmējiet <span class="gui">Uzsitiens nozīmē klikšķi</span>.</p>
@@ -69,8 +69,8 @@
 <li class="list"><p class="p">Lai klikšķinātu, uzsitiet uz skārienpaliktņa.</p></li>
 <li class="list"><p class="p">Lai veiktu dubultklikšķi, uzsitiet divreiz.</p></li>
 <li class="list"><p class="p">Lai pavilktu kādu priekšmetu, uzsit uz tā divreiz, bet pirkstu pēc otrā uzsitiena nepalaid vāļā. Aizvelc priekšmetu, kur vēlies, un atlaid pirkstu.</p></li>
-<li class="list"><p class="p">Ja skārienpaliktnis atbalsta vairāku skārienu sitienus, labais peles klikšķis var tikt atveidots, uzsitot ar 2 pirkstiem reizē. Citādi tev vajadzēs izmantot pogas, lai veiktu labo klikšķi. Lasi <span class="link"><a href="a11y-right-click.html" title="Simulēt peles labā taustiņa klikšķi">Simulēt peles labā taustiņa klikšķi</a></span>, lai uzzinātu par klikšķināšanas metodi bez otrās peles pogas.</p></li>
-<li class="list"><p class="p">Ja skārienpaliktnis atbalsta vairāku skārienu sitienus, <span class="link"><a href="mouse-middleclick.html" title="Vidējais klikšķis">veic vidējo klikšķi</a></span>, uzsitot ar 3 pirkstiem reizē.</p></li>
+<li class="list"><p class="p">Ja skārienpaliktnis atbalsta vairāku skārienu sitienus, labais peles klikšķis var tikt atveidots, uzsitot ar 2 pirkstiem reizē. Citādi tev vajadzēs izmantot pogas, lai veiktu labo klikšķi. Lasi <span class="link"><a href="a11y-right-click.html.lv" title="Simulēt peles labā taustiņa klikšķi">Simulēt peles labā taustiņa klikšķi</a></span>, lai uzzinātu par klikšķināšanas metodi bez otrās peles pogas.</p></li>
+<li class="list"><p class="p">Ja skārienpaliktnis atbalsta vairāku skārienu sitienus, <span class="link"><a href="mouse-middleclick.html.lv" title="Vidējais klikšķis">veic vidējo klikšķi</a></span>, uzsitot ar 3 pirkstiem reizē.</p></li>
 </ul></div></div></div>
 <div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Sitot vai velkot ar vairākiem pirkstiem, pārliecinies vai pirksti ir pietiekami tālu viens no otra. Ja pirksti būs pārāk tuvu, dators var padomāt, ka tas ir viens pirksts.</p></div></div></div></div>
 </div></div>
@@ -80,7 +80,7 @@
 <div class="region"><div class="contents">
 <p class="p">Ritināt var ar skārienpaliktni, izmantojot divus pirkstus.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Pele un skārienpaliktnis</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Pele un skārienpaliktnis</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Pele un skārienpaliktnis</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Atveriet <span class="gui">Skārienpaliktnis</span> sadaļu un atzīmējiet <span class="gui">Divpirkstu ritināšana</span>.</p></li>
 </ol></div></div></div>
@@ -93,7 +93,7 @@
 <div class="region"><div class="contents">
 <p class="p">Jūs varat vilkt saturu, it kā slidinātu fizisku papīru, izmantojot skārienpaliktni.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Pele un skārienpaliktnis</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Pele un skārienpaliktnis</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Pele un skārienpaliktnis</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Atveriet <span class="gui">Skārienpaliktnis</span> sadaļu un atzīmējiet <span class="gui">Dabiskā ritināšana</span>.</p></li>
 </ol></div></div></div>
@@ -105,7 +105,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html" title="Pele">Pele</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="Izmantot peli kā kreilim">Kreiļiem</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Piemērot peles vai skārienpaliktņa ātrumu">ātrums un jutīgums</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Spiediet, velciet vai ritiniet ar skārienpaliktni">skārienpaliktņa klikšķināšana un ritināšana</a></span>…</span>
+<a href="mouse.html.lv" title="Pele">Pele</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.lv" title="Izmantot peli kā kreilim">Kreiļiem</a></span>, <span class="link"><a href="mouse-sensitivity.html.lv" title="Piemērot peles vai skārienpaliktņa ātrumu">ātrums un jutīgums</a></span>, <span class="link"><a href="mouse-touchpad-click.html.lv" title="Spiediet, velciet vai ritiniet ar skārienpaliktni">skārienpaliktņa klikšķināšana un ritināšana</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

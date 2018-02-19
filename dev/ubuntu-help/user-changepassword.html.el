@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="user-accounts.html" title="Λογαριασμοί χρηστών">Χρήστες</a> › <a class="trail" href="user-accounts.html#passwords" title="Κωδικοί πρόσβασης">Κωδικοί πρόσβασης</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="user-accounts.html.el" title="Λογαριασμοί χρηστών">Χρήστες</a> › <a class="trail" href="user-accounts.html.el#passwords" title="Κωδικοί πρόσβασης">Κωδικοί πρόσβασης</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Αλλάξτε τον κωδικό πρόσβασής σας</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Είναι καλή ιδέα να αλλάζετε συχνά τον κωδικό πρόσβαση σας, ειδικά εάν νομίζετε ότι κάποιος άλλος τον γνωρίζει.</p>
-<p class="p">Χρειάζεστε <span class="link"><a href="user-admin-explain.html" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">δικαιώματα διαχειριστή</a></span> για να επεξεργαστείτε λογαριασμούς χρήστη άλλους εκτός από τον δικό σας.</p>
+<p class="p">Χρειάζεστε <span class="link"><a href="user-admin-explain.html.el" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">δικαιώματα διαχειριστή</a></span> για να επεξεργαστείτε λογαριασμούς χρήστη άλλους εκτός από τον δικό σας.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Χρήστες</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Χρήστες</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Χρήστες</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στην ετικέτα <span class="gui">·····</span> δίπλα στον <span class="gui">Κωδικό πρόσβασης</span>. Αν αλλάζετε τον κωδικό πρόσβασης για έναν διαφορετικό χρήστη, θα χρειαστείτε πρώτα να <span class="gui">Ξεκλειδώσετε</span> τον πίνακα.</p></li>
 <li class="steps">
@@ -61,7 +61,7 @@
 </li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Αλλαγή</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Βεβαιωθείτε ότι <span class="link"><a href="user-goodpassword.html" title="Επιλέξτε έναν ασφαλή κωδικό πρόσβασης">διαλέξατε έναν καλό κωδικό πρόσβασης</a></span>. Αυτό θα βοηθήσει να κρατήσετε τον λογαριασμό χρήστη ασφαλή.</p>
+<p class="p">Βεβαιωθείτε ότι <span class="link"><a href="user-goodpassword.html.el" title="Επιλέξτε έναν ασφαλή κωδικό πρόσβασης">διαλέξατε έναν καλό κωδικό πρόσβασης</a></span>. Αυτό θα βοηθήσει να κρατήσετε τον λογαριασμό χρήστη ασφαλή.</p>
 <div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Όταν ενημερώνετε τον κωδικό πρόσβασης σύνδεσης, ο κωδικός πρόσβασης σύνδεσης της κλειδοθήκης θα ενημερωθεί αυτόματα για να είναι ο ίδιος με τον κωδικό πρόσβασης της νέας σύνδεσης.</p></div></div></div></div>
 <p class="p">Αν ξεχνάτε τον κωδικό πρόσβασής σας, οποιοσδήποτε χρήστης με δικαιώματα διαχειριστή μπορεί να τον αλλάξει για σας.</p>
 </div>
@@ -70,16 +70,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#passwords" title="Κωδικοί πρόσβασης">Κωδικοί πρόσβασης</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.el#passwords" title="Κωδικοί πρόσβασης">Κωδικοί πρόσβασης</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-goodpassword.html" title="Επιλέξτε έναν ασφαλή κωδικό πρόσβασης">Επιλέξτε έναν ασφαλή κωδικό πρόσβασης</a><span class="desc"> — Χρήση μεγαλυτέρων, περισσότερο πολύπλοκων κωδικών πρόσβασης.</span>
+<a href="user-goodpassword.html.el" title="Επιλέξτε έναν ασφαλή κωδικό πρόσβασης">Επιλέξτε έναν ασφαλή κωδικό πρόσβασης</a><span class="desc"> — Χρήση μεγαλυτέρων, περισσότερο πολύπλοκων κωδικών πρόσβασης.</span>
 </li>
 <li class="links ">
-<a href="user-admin-explain.html" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">Πώς δουλεύουν τα δικαιώματα διαχειριστή;</a><span class="desc"> — Χρειάζεστε δικαιώματα διαχειριστή για να αλλάξετε σημαντικά μέρη του συστήματός σας.</span>
+<a href="user-admin-explain.html.el" title="Πώς δουλεύουν τα δικαιώματα διαχειριστή;">Πώς δουλεύουν τα δικαιώματα διαχειριστή;</a><span class="desc"> — Χρειάζεστε δικαιώματα διαχειριστή για να αλλάξετε σημαντικά μέρη του συστήματός σας.</span>
 </li>
 </ul></div>
 </div></div>

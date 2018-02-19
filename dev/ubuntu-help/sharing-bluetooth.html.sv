@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="bluetooth.html.sv" title="Bluetooth">Bluetooth</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="prefs-sharing.html" title="Dela-inställningar">Dela-inställningar</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="prefs-sharing.html.sv" title="Dela-inställningar">Dela-inställningar</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="sharing.html" title="Dela">Dela</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="net.html.sv" title="Nätverk, webb &amp; e-post">Nätverk, webb &amp; e-post</a> » <a class="trail" href="sharing.html.sv" title="Dela">Dela</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -59,13 +59,13 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Tillåt filer att delas till din mapp <span class="file">Hämtningar</span></span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Bluetooth</span> för att öppna panelen.</p></li>
-<li class="steps"><p class="p">Säkerställ att <span class="link"><a href="bluetooth-turn-on-off.html" title="Aktivera eller inaktivera Bluetooth"><span class="gui">Bluetooth</span> är påslaget</a></span>.</p></li>
+<li class="steps"><p class="p">Säkerställ att <span class="link"><a href="bluetooth-turn-on-off.html.sv" title="Aktivera eller inaktivera Bluetooth"><span class="gui">Bluetooth</span> är påslaget</a></span>.</p></li>
 <li class="steps"><p class="p">Bluetooth-aktiverade enheter kan skicka filer till din mapp <span class="file">Hämtningar</span> endast när <span class="gui">Bluetooth</span>-panelen är öppen.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Du kan <span class="link"><a href="sharing-displayname.html" title="Ställ in visningsnamnet för din dator">ändra</a></span>namnet som din dator visar för andra enheter.</p></div></div></div></div>
+<div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Du kan <span class="link"><a href="sharing-displayname.html.sv" title="Ställ in visningsnamnet för din dator">ändra</a></span>namnet som din dator visar för andra enheter.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -74,20 +74,20 @@
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Anslut din dator till en Bluetooth-enhet">Anslut</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Skicka filer till en Bluetooth-enhet">skicka filer</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Aktivera eller inaktivera Bluetooth">aktivera och inaktivera</a></span>…</span>
+<a href="bluetooth.html.sv" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.sv" title="Anslut din dator till en Bluetooth-enhet">Anslut</a></span>, <span class="link"><a href="bluetooth-send-file.html.sv" title="Skicka filer till en Bluetooth-enhet">skicka filer</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.sv" title="Aktivera eller inaktivera Bluetooth">aktivera och inaktivera</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html" title="Dela">Dela</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html" title="Dela ditt skrivbord">Skrivbordsdelning</a></span>, <span class="link"><a href="files-share.html" title="Dela filer visa e-post">Dela filer via e-post</a></span>, <span class="link"><a href="sharing-media.html" title="Dela din musik, foton och videor">Mediadelning</a></span>…</span>
+<a href="sharing.html.sv" title="Dela">Dela</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.sv" title="Dela ditt skrivbord">Skrivbordsdelning</a></span>, <span class="link"><a href="files-share.html.sv" title="Dela filer visa e-post">Dela filer via e-post</a></span>, <span class="link"><a href="sharing-media.html.sv" title="Dela din musik, foton och videor">Mediadelning</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html" title="Dela-inställningar">Dela-inställningar</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html" title="Styr delning över Bluetooth">Bluetooth-delning</a></span>, <span class="link"><a href="sharing-personal.html" title="Dela ut dina personliga filer">Delning av personliga filer</a></span>, <span class="link"><a href="sharing-desktop.html" title="Dela ditt skrivbord">Skärmdelning</a></span>, <span class="link"><a href="sharing-media.html" title="Dela din musik, foton och videor">Mediadelning</a></span>…</span>
+<a href="prefs-sharing.html.sv" title="Dela-inställningar">Dela-inställningar</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.sv" title="Styr delning över Bluetooth">Bluetooth-delning</a></span>, <span class="link"><a href="sharing-personal.html.sv" title="Dela ut dina personliga filer">Delning av personliga filer</a></span>, <span class="link"><a href="sharing-desktop.html.sv" title="Dela ditt skrivbord">Skärmdelning</a></span>, <span class="link"><a href="sharing-media.html.sv" title="Dela din musik, foton och videor">Mediadelning</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth-connect-device.html" title="Anslut din dator till en Bluetooth-enhet">Anslut din dator till en Bluetooth-enhet</a><span class="desc"> — Ihopparning av Bluetooth-enheter.</span>
+<a href="bluetooth-connect-device.html.sv" title="Anslut din dator till en Bluetooth-enhet">Anslut din dator till en Bluetooth-enhet</a><span class="desc"> — Ihopparning av Bluetooth-enheter.</span>
 </li></ul></div>
 </div></div>
 </div>

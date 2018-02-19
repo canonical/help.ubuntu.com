@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wired.html" title="Bekabeld netwerk">Bekabeld netwerk</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wired.html.nl" title="Bekabeld netwerk">Bekabeld netwerk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een verbinding met een vast IP-adres aanmaken</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">De meeste netwerken kennen automatisch een <span class="link"><a href="net-what-is-ip-address.html" title="Wat is een IP-adres?">IP-adres</a></span> en andere details toe aan uw computer wanneer u met het netwerk verbindt. Deze details kunnen periodiek veranderen, maar het kan zijn dat u een vast adres wilt hebben voor een computer zodat u altijd weet wat het adres is (bijvoorbeeld, wanneer het een bestandsserver is).</p>
+<p class="p">De meeste netwerken kennen automatisch een <span class="link"><a href="net-what-is-ip-address.html.nl" title="Wat is een IP-adres?">IP-adres</a></span> en andere details toe aan uw computer wanneer u met het netwerk verbindt. Deze details kunnen periodiek veranderen, maar het kan zijn dat u een vast adres wilt hebben voor een computer zodat u altijd weet wat het adres is (bijvoorbeeld, wanneer het een bestandsserver is).</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Om uw computer een vast (statisch) IP-adres te geven:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Netwerk</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Netwerk</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Netwerk</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">In the left pane, select the network connection that you want to have
       a fixed address. If you plug in to the network with a cable, click
@@ -64,7 +64,7 @@
       button will be located next to the active network.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
       and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>
-<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html" title="Wat is een IP-adres?">IP Address</a></span> and
+<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html.nl" title="Wat is een IP-adres?">IP Address</a></span> and
       <span class="gui">Gateway</span>, as well as the appropriate <span class="gui">Netmask</span>.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">DNS</span> section, switch <span class="gui">Automatic</span> to
       <span class="gui">OFF</span>. Enter the IP address of a DNS server you want to use.
@@ -83,13 +83,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html" title="Bekabeld netwerk">Bekabeld netwerk</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Verbinden met een bekabeld (Ethernet) netwerk">Bekabelde internetverbindingen</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Een verbinding met een vast IP-adres aanmaken">Vaste IP-adressen</a></span>…</span>
+<a href="net-wired.html.nl" title="Bekabeld netwerk">Bekabeld netwerk</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.nl" title="Verbinden met een bekabeld (Ethernet) netwerk">Bekabelde internetverbindingen</a></span>, <span class="link"><a href="net-fixed-ip-address.html.nl" title="Een verbinding met een vast IP-adres aanmaken">Vaste IP-adressen</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-findip.html" title="Uw IP-adres achterhalen">Uw IP-adres achterhalen</a><span class="desc"> — Weten wat uw IP-adres is kan helpen bij het oplossen van netwerkproblemen.</span>
+<a href="net-findip.html.nl" title="Uw IP-adres achterhalen">Uw IP-adres achterhalen</a><span class="desc"> — Weten wat uw IP-adres is kan helpen bij het oplossen van netwerkproblemen.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -43,24 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ru" title="Файлы, папки и поиск">Файлы</a> › <a class="trail" href="files.html.ru#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Параметры менеджера файлов</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html" title="Files list columns preferences"><span class="title">Files list columns preferences</span><span class="linkdiv-dash"> — </span><span class="desc">Управление информацией, отображаемой в столбцах при просмотре в виде списка.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html" title="Параметры вкладки Образцы менеджера файлов"><span class="title">Параметры вкладки <span class="gui">Образцы</span> менеджера файлов</span><span class="linkdiv-dash"> — </span><span class="desc">Настройки миниатюр для файлов.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html" title="Параметры вкладки Отображение менеджера файлов"><span class="title">Параметры вкладки <span class="gui">Отображение</span> менеджера файлов</span><span class="linkdiv-dash"> — </span><span class="desc">Управление подписями к значкам в менеджере файлов.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html" title="Параметры вкладки Поведение менеджера файлов"><span class="title">Параметры вкладки <span class="gui">Поведение</span> менеджера файлов</span><span class="linkdiv-dash"> — </span><span class="desc">Открытие файлов одинарным нажатием, запуск или просмотр исполняемых текстовых файлов и настройка поведения корзины.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html" title="Параметры просмотра файлов и папок в Nautilus"><span class="title">Параметры просмотра файлов и папок в <span class="app">Nautilus</span></span><span class="linkdiv-dash"> — </span><span class="desc">Specify the default sort order and grouping for the file
+<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html.ru" title="Files list columns preferences"><span class="title">Files list columns preferences</span><span class="linkdiv-dash"> — </span><span class="desc">Управление информацией, отображаемой в столбцах при просмотре в виде списка.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html.ru" title="Параметры вкладки Образцы менеджера файлов"><span class="title">Параметры вкладки <span class="gui">Образцы</span> менеджера файлов</span><span class="linkdiv-dash"> — </span><span class="desc">Настройки миниатюр для файлов.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html.ru" title="Параметры вкладки Отображение менеджера файлов"><span class="title">Параметры вкладки <span class="gui">Отображение</span> менеджера файлов</span><span class="linkdiv-dash"> — </span><span class="desc">Управление подписями к значкам в менеджере файлов.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html.ru" title="Параметры вкладки Поведение менеджера файлов"><span class="title">Параметры вкладки <span class="gui">Поведение</span> менеджера файлов</span><span class="linkdiv-dash"> — </span><span class="desc">Открытие файлов одинарным нажатием, запуск или просмотр исполняемых текстовых файлов и настройка поведения корзины.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html.ru" title="Параметры просмотра файлов и папок в Nautilus"><span class="title">Параметры просмотра файлов и папок в <span class="app">Nautilus</span></span><span class="linkdiv-dash"> — </span><span class="desc">Specify the default sort order and grouping for the file
     manager.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.ru#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

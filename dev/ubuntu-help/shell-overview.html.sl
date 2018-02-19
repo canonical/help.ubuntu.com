@@ -43,28 +43,28 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Your desktop</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Uvod v GNOME"><span class="title">Uvod v  GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.sl" title="Uvod v GNOME"><span class="title">Uvod v  GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
     <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Naučite se kako se odjavite, preklapljate med uporabniki in še več.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.sl" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Naučite se kako se odjavite, preklapljate med uporabniki in še več.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Zaganjanje programov"><span class="title">Zaganjanje programov</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.sl" title="Zaganjanje programov"><span class="title">Zaganjanje programov</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Customize your desktop</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html" title="Obvestila in vrstica sporočanja"><span class="title">Obvestila in vrstica sporočanja</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
+<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.sl" title="Obvestila in vrstica sporočanja"><span class="title">Obvestila in vrstica sporočanja</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
     certain events happen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html" title="Pripnite svoje priljubljene programe na pregledno ploščo"><span class="title">Pripnite svoje priljubljene programe na pregledno ploščo</span><span class="linkdiv-dash"> — </span><span class="desc">Dodajanje (ali odstranitev) ikon pogosto uporabljenih programov na pregledno ploščo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.sl" title="Pripnite svoje priljubljene programe na pregledno ploščo"><span class="title">Pripnite svoje priljubljene programe na pregledno ploščo</span><span class="linkdiv-dash"> — </span><span class="desc">Dodajanje (ali odstranitev) ikon pogosto uporabljenih programov na pregledno ploščo.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="Sestanki v koledarju"><span class="title">Sestanki v koledarju</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.sl" title="Sestanki v koledarju"><span class="title">Sestanki v koledarju</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
     screen.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
@@ -72,15 +72,15 @@
 <div class="hgroup"><h2 class="title"><span class="title">Programi in okna</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="status-icons.html" title="Kaj pomenijo ikone v vrhnji vrstici?"><span class="title">Kaj pomenijo ikone v vrhnji vrstici?</span><span class="linkdiv-dash"> — </span><span class="desc">Razloži pomen ikon v desnem delu vrhnje vrstice.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows.html" title="Okna in delovne površine"><span class="title">Okna in delovne površine</span><span class="linkdiv-dash"> — </span><span class="desc">Premikajte in organizirajte svoja okna.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Preklop med okni"><span class="title">Preklop med okni</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="status-icons.html.sl" title="Kaj pomenijo ikone v vrhnji vrstici?"><span class="title">Kaj pomenijo ikone v vrhnji vrstici?</span><span class="linkdiv-dash"> — </span><span class="desc">Razloži pomen ikon v desnem delu vrhnje vrstice.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows.html.sl" title="Okna in delovne površine"><span class="title">Okna in delovne površine</span><span class="linkdiv-dash"> — </span><span class="desc">Premikajte in organizirajte svoja okna.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.sl" title="Preklop med okni"><span class="title">Preklop med okni</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html" title="Uporabne tipkovne bližnjice"><span class="title">Uporabne tipkovne bližnjice</span><span class="linkdiv-dash"> — </span><span class="desc">Uporaba namizja s tipkovnico.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html" title="Zakleni zaslon"><span class="title">Zakleni zaslon</span><span class="linkdiv-dash"> — </span><span class="desc">The decorative and functional lock screen conveys useful
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.sl" title="Uporabne tipkovne bližnjice"><span class="title">Uporabne tipkovne bližnjice</span><span class="linkdiv-dash"> — </span><span class="desc">Uporaba namizja s tipkovnico.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.sl" title="Zakleni zaslon"><span class="title">Zakleni zaslon</span><span class="linkdiv-dash"> — </span><span class="desc">The decorative and functional lock screen conveys useful
     information.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="startup-applications.html" title="Začetni programi"><span class="title">Začetni programi</span><span class="linkdiv-dash"> — </span><span class="desc">Izberite kateri programi naj se zaženejo ob prijavi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.sl" title="Začetni programi"><span class="title">Začetni programi</span><span class="linkdiv-dash"> — </span><span class="desc">Izberite kateri programi naj se zaženejo ob prijavi.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -88,7 +88,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.sl" title="Namizni vodnik Ubuntu">Namizni vodnik Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

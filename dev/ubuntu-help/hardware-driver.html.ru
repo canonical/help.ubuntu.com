@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Что такое драйвер?</span></h1></div>
@@ -69,20 +69,20 @@ double-sided printing, but is otherwise completely functional.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Оборудование и драйверы">Оборудование и драйверы</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Типичные проблемы">Неполадки оборудования</a></span>, <span class="link"><a href="printing.html" title="Печать">принтеры</a></span>, <span class="link"><a href="power.html" title="Питание и аккумулятор">параметры питания</a></span>, <span class="link"><a href="color.html" title="Управление цветом">управление цветом</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Диски и другие устройства хранения информации">диски</a></span>…</span>
+<a href="hardware.html.ru" title="Оборудование и драйверы">Оборудование и драйверы</a><span class="desc"> — <span class="link"><a href="hardware.html.ru#problems" title="Типичные проблемы">Неполадки оборудования</a></span>, <span class="link"><a href="printing.html.ru" title="Печать">принтеры</a></span>, <span class="link"><a href="power.html.ru" title="Питание и аккумулятор">параметры питания</a></span>, <span class="link"><a href="color.html.ru" title="Управление цветом">управление цветом</a></span>, <span class="link"><a href="bluetooth.html.ru" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.ru" title="Диски и другие устройства хранения информации">диски</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-problem-connecting.html" title="I cannot connect my Bluetooth device">I cannot connect my Bluetooth device</a><span class="desc"> — Адаптер может быть отключен или для него нет драйверов, либо Bluetooth может быть отключен или заблокирован.</span>
+<a href="bluetooth-problem-connecting.html.ru" title="I cannot connect my Bluetooth device">I cannot connect my Bluetooth device</a><span class="desc"> — Адаптер может быть отключен или для него нет драйверов, либо Bluetooth может быть отключен или заблокирован.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Почему мой компьютер не выходит из ждущего режима?">Почему мой компьютер не выходит из ждущего режима?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.ru" title="Почему мой компьютер не выходит из ждущего режима?">Почему мой компьютер не выходит из ждущего режима?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="При «пробуждении» компьютера отсутствует беспроводное соединение">При «пробуждении» компьютера отсутствует беспроводное соединение</a><span class="desc"> — У некоторых беспроводных устройств возникают проблемы с обработкой состояния компьютера, если компьютер входил в спящий режим и потом вышел из спящего режима некорректным образом.</span>
+<a href="power-nowireless.html.ru" title="При «пробуждении» компьютера отсутствует беспроводное соединение">При «пробуждении» компьютера отсутствует беспроводное соединение</a><span class="desc"> — У некоторых беспроводных устройств возникают проблемы с обработкой состояния компьютера, если компьютер входил в спящий режим и потом вышел из спящего режима некорректным образом.</span>
 </li>
 </ul></div>
 </div></div>

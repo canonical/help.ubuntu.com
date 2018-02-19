@@ -43,31 +43,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="clock.html" title="Date &amp; heure">Date &amp; heure</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="clock.html.fr" title="Date &amp; heure">Date &amp; heure</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Modification de votre fuseau horaire</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activities</a></span>      
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span>      
       overview and start typing <span class="gui">Date &amp; Time</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Date &amp; Time</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Si <span class="gui">Fuseau horaire automatique</span> est sur <span class="gui">Activé</span>, il devrait se mettre à jour automatiquement si vous disposez d'une connexion internet. Basculez-le sur <span class="gui">Désactivé</span> si vous désirez le mettre à jour manuellement.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Fuseau horaire</span>, sélectionnez votre position sur la carte, puis choisissez votre ville actuelle.</p></li>
 </ol></div></div></div>
-<p class="p">L'heure affichée dans la barre supérieure se met à jour automatiquement en fonction du lieu que vous avez sélectionné.. Il se peut que vous ayez besoin de <span class="link"><a href="clock-set.html" title="Modification de la date et de l'heure">régler l'heure manuellement</a></span>.</p>
+<p class="p">L'heure affichée dans la barre supérieure se met à jour automatiquement en fonction du lieu que vous avez sélectionné.. Il se peut que vous ayez besoin de <span class="link"><a href="clock-set.html.fr" title="Modification de la date et de l'heure">régler l'heure manuellement</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="Date &amp; heure">Date &amp; heure</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html" title="Modification de la date et de l'heure">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="Modification de votre fuseau horaire">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="Rendez-vous dans l'agenda">calendar and appointments</a></span>…
+<a href="clock.html.fr" title="Date &amp; heure">Date &amp; heure</a><span class="desc"> — 
+      <span class="link"><a href="clock-set.html.fr" title="Modification de la date et de l'heure">Set date and time</a></span>,
+      <span class="link"><a href="clock-world.html.fr" title="Add a world clock">world clocks</a></span>,
+      <span class="link"><a href="clock-timezone.html.fr" title="Modification de votre fuseau horaire">timezone</a></span>,
+      <span class="link"><a href="clock-calendar.html.fr" title="Rendez-vous dans l'agenda">calendar and appointments</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

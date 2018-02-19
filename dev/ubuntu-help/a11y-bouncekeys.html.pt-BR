@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="keyboard.html.pt-BR" title="Teclado">Teclado</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Acessibilidade">Acessibilidade</a> › <a class="trail" href="a11y.html#mobility" title="Deficiências motoras">Deficiências motoras</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.pt-BR" title="Acessibilidade">Acessibilidade</a> › <a class="trail" href="a11y.html.pt-BR#mobility" title="Deficiências motoras">Deficiências motoras</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html.pt-BR" title="Teclado">Teclado</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,14 +57,14 @@
 <div class="contents">
 <p class="p">Ative as <span class="em">teclas de repercussão</span> para ignorar teclas que são pressionadas rapidamente repetidas vezes. Por exemplo, se você tem tremores na mão, o que pode fazer com que você pressione uma tecla múltiplas vezes quando você só queria pressioná-la apenas uma vez, você deveria ativar teclas de repercussão.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Acessibilidade</span>.</p></li>
+<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Acessibilidade</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Acessibilidade</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Pressione <span class="gui">Assistência de digitação (AccessX)</span> na seção <span class="gui">Digitação</span>.</p></li>
 <li class="steps"><p class="p">Alterne <span class="gui">Teclas de repercussão</span> para <span class="key"><kbd>❙</kbd></span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Dica"><div class="inner">
 <div class="title title-note"><h2><span class="title">Ative e desative rapidamente as teclas de repercussão</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Você pode ativar e desativar as teclas de repercussão clicando no <span class="link"><a href="a11y-icon.html" title="Localizando o menu de acessibilidade">ícone de acessibilidade</a></span> na barra superior e selecionando <span class="gui">Teclas de repercussão</span>. O ícone de acessibilidade fica visível quando uma ou mais configurações de <span class="gui">Acessibilidade</span> forem habilitadas.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Você pode ativar e desativar as teclas de repercussão clicando no <span class="link"><a href="a11y-icon.html.pt-BR" title="Localizando o menu de acessibilidade">ícone de acessibilidade</a></span> na barra superior e selecionando <span class="gui">Teclas de repercussão</span>. O ícone de acessibilidade fica visível quando uma ou mais configurações de <span class="gui">Acessibilidade</span> forem habilitadas.</p></div></div>
 </div></div>
 <p class="p">Use a barra deslizante de <span class="gui">Atraso de aceitação</span> para alterar quanto tempo as teclas de repercussão esperam até registrar outra tecla pressionada, depois que você pressionou a tecla pela primeira vez. Selecione <span class="gui">Soar um bip quando a tecla for rejeitada</span> se você deseja que o computador faça um som a cada vez que ele ignorar uma tecla pressionada por ter acontecido muito cedo, depois da tecla pressionada anteriormente.</p>
 </div>
@@ -73,9 +73,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Deficiências motoras">Deficiências motoras</a></li>
+<li class="links "><a href="a11y.html.pt-BR#mobility" title="Deficiências motoras">Deficiências motoras</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Disposições de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Fazendo o cursor de teclado piscar">cursor intermitente</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiências motoras">acessibilidade no teclado</a></span>…</span>
+<a href="keyboard.html.pt-BR" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.pt-BR" title="Use alternative keyboard layouts">Disposições de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.pt-BR" title="Fazendo o cursor de teclado piscar">cursor intermitente</a></span>, <span class="link"><a href="a11y.html.pt-BR#mobility" title="Deficiências motoras">acessibilidade no teclado</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

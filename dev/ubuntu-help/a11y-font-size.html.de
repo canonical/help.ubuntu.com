@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Barrierefreiheit">Barrierefreiheit</a> › <a class="trail" href="a11y.html#vision" title="Visuelle Beeinträchtigungen">Visuelle Beeinträchtigungen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.de" title="Barrierefreiheit">Barrierefreiheit</a> › <a class="trail" href="a11y.html.de#vision" title="Visuelle Beeinträchtigungen">Visuelle Beeinträchtigungen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Schriftgröße auf dem Bildschirm ändern</span></h1></div>
@@ -51,11 +51,11 @@
 <div class="contents">
 <p class="p">Falls Sie Schwierigkeiten beim Lesen des Textes auf Ihrem Bildschirm haben, können Sie die Größe der Schrift anpassen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Barrierefreiheit</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Barrierefreiheit</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Barrierefreiheit</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Stellen Sie im Abschnitt <span class="gui">Sehen</span> <span class="gui">Große Schrift</span> auf <span class="gui">AN</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Sie können die Schriftgröße schnell ändern, indem Sie auf das <span class="link"><a href="a11y-icon.html" title="Das Barrierefreiheitsmenü finden">Barrierefreiheitssymbol</a></span> im oberen Panel klicken und <span class="gui">Große Schrift</span> wählen.</p>
+<p class="p">Sie können die Schriftgröße schnell ändern, indem Sie auf das <span class="link"><a href="a11y-icon.html.de" title="Das Barrierefreiheitsmenü finden">Barrierefreiheitssymbol</a></span> im oberen Panel klicken und <span class="gui">Große Schrift</span> wählen.</p>
 <div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">In vielen Anwendungen können Sie jederzeit die Textgröße durch Drücken von <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>+</kbd></span></span> erhöhen. Um die Textgröße zu verringern, drücken Sie <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>-</kbd></span></span>.</p></div></div></div></div>
 <p class="p"><span class="gui">Großer Text</span> skaliert den Text um den Faktor 1,2. Sie können auch das <span class="app">GNOME-Optimierungswerkzeug</span> verwenden, um die Textgröße zu ändern.</p>
 </div>
@@ -63,7 +63,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Visuelle Beeinträchtigungen">Visuelle Beeinträchtigungen</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.de#vision" title="Visuelle Beeinträchtigungen">Visuelle Beeinträchtigungen</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

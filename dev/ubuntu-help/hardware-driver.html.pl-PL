@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What is a driver?</title>
+<title>Czym jest sterownik?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Sprzęt i sterowniki">Sprzęt</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What is a driver?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Czym jest sterownik?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Devices are the physical “parts” of your computer. They may be
@@ -73,22 +73,22 @@ double-sided printing, but is otherwise completely functional.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Sprzęt i sterowniki">Sprzęt i sterowniki</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Często występujące problemy">Problemy ze sprzętem</a></span>, <span class="link"><a href="printing.html" title="Drukowanie">drukarki</a></span>, <span class="link"><a href="power.html" title="Zasilanie i akumulator">ustawienia zasilania</a></span>, <span class="link"><a href="color.html" title="Zarządzanie kolorami">zarządzanie kolorami</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Dyski i przechowywanie danych">dyski</a></span>…</span>
+<a href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt i sterowniki</a><span class="desc"> — <span class="link"><a href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy ze sprzętem</a></span>, <span class="link"><a href="printing.html.pl-PL" title="Drukowanie">drukarki</a></span>, <span class="link"><a href="power.html.pl-PL" title="Zasilanie i akumulator">ustawienia zasilania</a></span>, <span class="link"><a href="color.html.pl-PL" title="Zarządzanie kolorami">zarządzanie kolorami</a></span>, <span class="link"><a href="bluetooth.html.pl-PL" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.pl-PL" title="Dyski i przechowywanie danych">dyski</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-problem-connecting.html" title="I cannot connect my Bluetooth device">I cannot connect my Bluetooth device</a><span class="desc"> — The adapter could be turned off or may not have drivers, or Bluetooth
+<a href="bluetooth-problem-connecting.html.pl-PL" title="Nie mogę połączyć mojego urządzenia Bluetooth">Nie mogę połączyć mojego urządzenia Bluetooth</a><span class="desc"> — The adapter could be turned off or may not have drivers, or Bluetooth
     might be disabled or blocked.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="I have no wireless network when I wake up my computer">I have no wireless network when I wake up my computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
+<a href="power-nowireless.html.pl-PL" title="Po przebudzeniu komputera sieć bezprzewodowa nie działa">Po przebudzeniu komputera sieć bezprzewodowa nie działa</a><span class="desc"> — Some wireless devices have problems handling when your computer is
     suspended and does not resume properly.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.pl-PL" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 </ul></div>
 </div></div>

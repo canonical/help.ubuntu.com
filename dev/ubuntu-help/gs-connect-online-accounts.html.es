@@ -43,18 +43,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="getting-started.html" title="Primeros pasos">Primeros pasos con GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="getting-started.html.es" title="Primeros pasos">Primeros pasos con GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-browse-web.html" title="Navegar por la Web">Anterior</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html" title="Cambiar la fecha, hora y zona horaria">Siguiente</a>
+<a class="nextlinks-prev" href="gs-browse-web.html.es" title="Navegar por la Web">Anterior</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.es" title="Cambiar la fecha, hora y zona horaria">Siguiente</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Conectarse a cuentas en línea</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Pulse en el <span class="gui"><a href="shell-introduction.html#yourname" title="Usted y su equipo">menú del sistema</a></span> en la parte derecha de la barra superior.</p></li>
+<li class="steps"><p class="p">Pulse en el <span class="gui"><a href="shell-introduction.html.es#yourname" title="Usted y su equipo">menú del sistema</a></span> en la parte derecha de la barra superior.</p></li>
 <li class="steps"><p class="p">Pulse el botón de configuración en la parte inferior izquierda del menú.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa2.svg" width="100%" class="media media-block" alt=""></div></div>
@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Muchas cuentas en línea le permiten elegir los servicios que desee utilizar con su cuenta en línea. Si no desea algún servicio en particular, desactívelo con el <span class="gui">interruptor de encendido/apagado</span> que está al lado derecho de la ventana.</p></li></ol></div></div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-browse-web.html" title="Navegar por la Web">Anterior</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html" title="Cambiar la fecha, hora y zona horaria">Siguiente</a>
+<a class="nextlinks-prev" href="gs-browse-web.html.es" title="Navegar por la Web">Anterior</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.es" title="Cambiar la fecha, hora y zona horaria">Siguiente</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -82,13 +82,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Primeros pasos">Primeros pasos con GNOME</a><span class="desc"> — ¿Es nuevo en GNOME? Aprenda cómo desenvolverse.</span>
+<a href="getting-started.html.es" title="Primeros pasos">Primeros pasos con GNOME</a><span class="desc"> — ¿Es nuevo en GNOME? Aprenda cómo desenvolverse.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Cuentas en línea">Cuentas en línea</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Añadir una cuenta">Añadir una cuenta en línea</a></span>, <span class="link"><a href="accounts-remove.html" title="Quitar una cuenta">Quitar una cuenta</a></span>, <span class="link"><a href="accounts-which-application.html" title="Servicios y aplicaciones en línea">Aprender más sobre los servicios</a></span>…</span>
+<a href="accounts.html.es" title="Cuentas en línea">Cuentas en línea</a><span class="desc"> — <span class="link"><a href="accounts-add.html.es" title="Añadir una cuenta">Añadir una cuenta en línea</a></span>, <span class="link"><a href="accounts-remove.html.es" title="Quitar una cuenta">Quitar una cuenta</a></span>, <span class="link"><a href="accounts-which-application.html.es" title="Servicios y aplicaciones en línea">Aprender más sobre los servicios</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

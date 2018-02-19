@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Jūsu darbvirsma">Darbvirsma</a> › <a class="trail" href="shell-overview.html#apps" title="Lietotnes un logi">Lietotnes un logi</a> » <a class="trail" href="shell-windows.html" title="Logi un darbvietas">Logi un darbvietas</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Darbs ar darbvietām">Darbvietas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.lv" title="Jūsu darbvirsma">Darbvirsma</a> › <a class="trail" href="shell-overview.html.lv#apps" title="Lietotnes un logi">Lietotnes un logi</a> » <a class="trail" href="shell-windows.html.lv" title="Logi un darbvietas">Logi un darbvietas</a> › <a class="trail" href="shell-windows.html.lv#working-with-workspaces" title="Darbs ar darbvietām">Darbvietas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kas ir darbvieta un kā tā man palīdzēs?</span></h1></div>
@@ -54,7 +54,7 @@
 <p class="p">Darbvietas var tikt izmantotas, lai organizētu jūsu darbu. Piemēram, visi saziņas logi kā e-pasts un jūsu tērzēšanas programma varētu atrasties uz vienas darbvietas un tas, ko jūs darāt, uz citas darbvietas. Mūzikas pārvaldnieks varētu atrasties uz trešās darbvietas.</p>
 <p class="p">Darbvietu lietošana:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatā pārvietojiet kursoru uz ekrāna labo malu.</p></li>
+<li class="list"><p class="p"><span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatā pārvietojiet kursoru uz ekrāna labo malu.</p></li>
 <li class="list"><p class="p">Parādīsies vertikāls panelis, parādot izmantotās darbvietas un vienu tukšu darbvietu. Šis ir darbvietu atlasītājs.</p></li>
 <li class="list"><p class="p">Lai pievienotu darbvietu, velciet un nometiet logu no esošas darbvietas tukšā darbvietā, kas atrodas darbvietu atlasītajā. Šī darbvieta tagad satur nomesto logu, un jauna, tukša darbvieta parādīsies zem tās.</p></li>
 <li class="list"><p class="p">Lai izņemtu darbvietu, vienkārši aizveriet visus tās logus vai pārvietojiet tos uz citu darbvietu.</p></li>
@@ -66,16 +66,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Darbs ar darbvietām">Darbs ar darbvietām</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.lv#working-with-workspaces" title="Darbs ar darbvietām">Darbs ar darbvietām</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-workspaces-switch.html" title="Pārslēgties starp darbvietām">Pārslēgties starp darbvietām</a><span class="desc"> — Lietojiet darbvietu atlasītāju.</span>
+<a href="shell-workspaces-switch.html.lv" title="Pārslēgties starp darbvietām">Pārslēgties starp darbvietām</a><span class="desc"> — Lietojiet darbvietu atlasītāju.</span>
 </li>
 <li class="links ">
-<a href="shell-workspaces-movewindow.html" title="Pārvietot logu uz citu darbvietu">Pārvietot logu uz citu darbvietu</a><span class="desc"> — Ejiet uz <span class="gui">aktivitāšu</span> pārskatu un velciet logu uz citu darbvietu.</span>
+<a href="shell-workspaces-movewindow.html.lv" title="Pārvietot logu uz citu darbvietu">Pārvietot logu uz citu darbvietu</a><span class="desc"> — Ejiet uz <span class="gui">aktivitāšu</span> pārskatu un velciet logu uz citu darbvietu.</span>
 </li>
 </ul></div>
 </div></div>

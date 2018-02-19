@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="media.html#sound" title="Základy ke zvuku">Zvuk</a> » <a class="trail" href="sound-broken.html" title="Problémy se zvukem">Problémy se zvukem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="media.html.cs#sound" title="Základy ke zvuku">Zvuk</a> » <a class="trail" href="sound-broken.html.cs" title="Problémy se zvukem">Problémy se zvukem</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Běžné problémy">Problémy</a> » <a class="trail" href="sound-broken.html" title="Problémy se zvukem">Problémy se zvukem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> › <a class="trail" href="hardware.html.cs#problems" title="Běžné problémy">Problémy</a> » <a class="trail" href="sound-broken.html.cs" title="Problémy se zvukem">Problémy se zvukem</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <div id="mute" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ujistěte se, že zvuk není ztišený</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Otevřete <span class="gui"><a href="shell-introduction.html#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> a ujistěte se, že zvuk není ztišený nebo nastavený na příliš nízkou hlasitost.</p>
+<p class="p">Otevřete <span class="gui"><a href="shell-introduction.html.cs#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> a ujistěte se, že zvuk není ztišený nebo nastavený na příliš nízkou hlasitost.</p>
 <p class="p">Některé notebooky mají na ztišení speciální vypínač nebo klávesy na klávesnici – zkuste je použít, jestli se ztišení nezruší.</p>
 <p class="p">Měli byste také zkontrolovat, jestli nemáte zvuk ztišený v aplikaci, kterou používáte k přehrávání (například přehrávač hudby nebo filmů). Aplikace mohou mít tlačítka pro ztišení a ovládání hlasitosti přímo v hlavním okně, takže zkontrolujte i tyto.</p>
 <p class="p">Můžete také zkontrolovat kartu <span class="gui">Aplikace</span> v panelu <span class="gui">Zvuk</span>:</p>
@@ -80,7 +80,7 @@
 <div class="region"><div class="contents">
 <p class="p">Některé počítače mají nainstalováno více „zvukových zařízení“. Některé jsou schopné vydávat zvuk a jiné ne, takže zkontrolujte, jestli máte vybráno správné. Můžete to provést stylem pokus – omyl.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Zvuk</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Zvuk</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Zvuk</span> otevřete příslušný panel.</p></li>
 <li class="steps">
 <p class="p">Na kartě <span class="gui">Výstup</span> změňte nastavení <span class="gui">Profilu</span> pro vybrané zařízení a zkuste přehrát zvuk, abyste viděli, jestli to funguje. Možná budete muset projít celý seznam a zkusit všechny profily.</p>
@@ -96,7 +96,7 @@
 <p class="p">Spusťte v terminálu příkaz <span class="cmd">lspci</span>, abyste zjistili, jakou máte zvukovou kartu:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Jděte do přehledu <span class="gui">Činnosti</span> a otevřete <span class="app">Terminál</span>.</p></li>
-<li class="steps"><p class="p">Spusťte jako <span class="link"><a href="user-admin-explain.html" title="Jak fungují oprávnění správce?">superuživatel</a></span> příkaz <span class="cmd">lspci</span>, tzn. buď napsat <span class="cmd">sudo lspci</span> a zadat heslo, nebo napsat <span class="cmd">su</span>, zadat heslo uživatele <span class="em">root</span> (správce) a pak napsat <span class="cmd">lspci</span>.</p></li>
+<li class="steps"><p class="p">Spusťte jako <span class="link"><a href="user-admin-explain.html.cs" title="Jak fungují oprávnění správce?">superuživatel</a></span> příkaz <span class="cmd">lspci</span>, tzn. buď napsat <span class="cmd">sudo lspci</span> a zadat heslo, nebo napsat <span class="cmd">su</span>, zadat heslo uživatele <span class="em">root</span> (správce) a pak napsat <span class="cmd">lspci</span>.</p></li>
 <li class="steps"><p class="p">Podívejte se, jestli je v seznamu uveden <span class="em">audio controller</span> nebo <span class="em">audio device</span>: pokud ano, měli byste vidět výrobce a modelové označení zvukové karty. Navíc si pomocí <span class="cmd">lspci -v</span> může vypsat podrobnější informace.</p></li>
 </ol></div></div></div>
 <p class="p">Možná se vám zadaří najít a nainstalovat ovladače pro svoji grafickou kartu. Nejlepší je dotázat se na fóru podpory (nebo jiném místě) své linuxové distribuce ohledné instrukcí.</p>
@@ -108,7 +108,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html" title="Problémy se zvukem">Problémy se zvukem</a><span class="desc"> — Jak řešit problémy, jako je žádný zvuk nebo zvuk s ubohou kvalitou.</span>
+<a href="sound-broken.html.cs" title="Problémy se zvukem">Problémy se zvukem</a><span class="desc"> — Jak řešit problémy, jako je žádný zvuk nebo zvuk s ubohou kvalitou.</span>
 </li></ul></div>
 </div></div></div>
 </div>

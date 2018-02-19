@@ -43,23 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vadu savienojums</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html" title="Tīkla savienojums ar vadu (tīkls Ethernet)"><span class="title">Tīkla savienojums ar vadu (tīkls Ethernet)</span><span class="linkdiv-dash"> — </span><span class="desc">Lielākoties, lai izveidotu vadu tīkla savienojumu, viss kas jums ir jāizdara, ir jāpievieno tīkla vads.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Pašrocīgi iestatīt tīkla iestatījumus"><span class="title">Pašrocīgi iestatīt tīkla iestatījumus</span><span class="linkdiv-dash"> — </span><span class="desc">Ja tīkla iestatījumi netiek piešķirti automātiski, tos vajadzēs ievadīt pašrocīgi.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Savienoties ar VPN"><span class="title">Savienoties ar VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Iestatiet VPN savienojumu uz privātu tīklu cauri internetam.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html" title="Veidot savienojumu ar fiksēto IP adresi."><span class="title">Veidot savienojumu ar fiksēto IP adresi.</span><span class="linkdiv-dash"> — </span><span class="desc">Statiskas IP adreses izmantošana var atvieglot dažu tīkla pakalpojumu sniegšanu no jūsu datora.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html.lv" title="Tīkla savienojums ar vadu (tīkls Ethernet)"><span class="title">Tīkla savienojums ar vadu (tīkls Ethernet)</span><span class="linkdiv-dash"> — </span><span class="desc">Lielākoties, lai izveidotu vadu tīkla savienojumu, viss kas jums ir jāizdara, ir jāpievieno tīkla vads.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html.lv" title="Pašrocīgi iestatīt tīkla iestatījumus"><span class="title">Pašrocīgi iestatīt tīkla iestatījumus</span><span class="linkdiv-dash"> — </span><span class="desc">Ja tīkla iestatījumi netiek piešķirti automātiski, tos vajadzēs ievadīt pašrocīgi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html.lv" title="Savienoties ar VPN"><span class="title">Savienoties ar VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Iestatiet VPN savienojumu uz privātu tīklu cauri internetam.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html.lv" title="Veidot savienojumu ar fiksēto IP adresi."><span class="title">Veidot savienojumu ar fiksēto IP adresi.</span><span class="linkdiv-dash"> — </span><span class="desc">Statiskas IP adreses izmantošana var atvieglot dažu tīkla pakalpojumu sniegšanu no jūsu datora.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Bezvadu tīkls">Bezvadu tīkls</a></span>, <span class="link"><a href="net-wired.html" title="Vadu savienojums">vadu</a></span>, <span class="link"><a href="net-problem.html" title="Tīkla problēmas">savienojumu problēmas</a></span>, <span class="link"><a href="net-browser.html" title="Tīmekļa pārlūkprogrammas">tīmekļa pārlūkošana</a></span>, <span class="link"><a href="net-email.html" title="E-pasts un e-pasta programmatūra">e-pasta konti</a></span>…</span>
+<a href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a><span class="desc"> — <span class="link"><a href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a></span>, <span class="link"><a href="net-wired.html.lv" title="Vadu savienojums">vadu</a></span>, <span class="link"><a href="net-problem.html.lv" title="Tīkla problēmas">savienojumu problēmas</a></span>, <span class="link"><a href="net-browser.html.lv" title="Tīmekļa pārlūkprogrammas">tīmekļa pārlūkošana</a></span>, <span class="link"><a href="net-email.html.lv" title="E-pasts un e-pasta programmatūra">e-pasta konti</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

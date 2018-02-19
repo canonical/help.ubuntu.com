@@ -44,15 +44,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> » <a class="trail" href="keyboard.html" title="Tastiera">Tastiera</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> » <a class="trail" href="keyboard.html.it" title="Tastiera">Tastiera</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware e driver">Hardware</a> » <a class="trail" href="keyboard.html" title="Tastiera">Tastiera</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Impostare scorciatoie da tastiera">Impostare scorciatoie da tastiera</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> » <a class="trail" href="keyboard.html.it" title="Tastiera">Tastiera</a> » <a class="trail" href="keyboard-shortcuts-set.html.it" title="Impostare scorciatoie da tastiera">Impostare scorciatoie da tastiera</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="prefs-language.html" title="Region &amp; Language">Region &amp; Language</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="prefs-language.html.it" title="Region &amp; Language">Region &amp; Language</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="keyboard.html" title="Tastiera">Tastiera</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="keyboard.html.it" title="Tastiera">Tastiera</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="keyboard.html" title="Tastiera">Tastiera</a> » <a class="trail" href="keyboard-shortcuts-set.html" title="Impostare scorciatoie da tastiera">Impostare scorciatoie da tastiera</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="keyboard.html.it" title="Tastiera">Tastiera</a> » <a class="trail" href="keyboard-shortcuts-set.html.it" title="Impostare scorciatoie da tastiera">Impostare scorciatoie da tastiera</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -61,7 +61,7 @@
 <div class="contents">
 <p class="p">Esistono centinaia di diversi disposizioni di tastiera per le molteplici lingue, anche per una singola lingua ci sono spesso più disposizioni, come la Dvorak per la lingua inglese. È possibile far funzionare la propria tastiera come una con una disposizione diversa, senza curarsi delle lettere e i simboli presenti sui tasti. Questo è utile se si passa spesso da una lingua a un'altra.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">+</span> button in the <span class="gui">Input Sources</span> section,
@@ -102,7 +102,7 @@
   <span class="gui">Input Source</span> <span class="gui">Keyboard Shortcuts</span>. These shortcuts open 
   the <span class="gui">Input Source</span> chooser where you can move forward and backward. 
   By default, you can switch to the next input source with 
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
+  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.it" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
   and to the previous one with
   <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span>. You can
   change these shortcuts in the <span class="gui">Keyboard</span> settings.</p>
@@ -115,20 +115,20 @@
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Impostare scorciatoie da tastiera">Impostare scorciatoie da tastiera</a><span class="desc"> — Definire o cambiare scorciatoie da tastiera nella impostazioni <span class="gui">Tastiera</span>.</span>
+<a href="keyboard-shortcuts-set.html.it" title="Impostare scorciatoie da tastiera">Impostare scorciatoie da tastiera</a><span class="desc"> — Definire o cambiare scorciatoie da tastiera nella impostazioni <span class="gui">Tastiera</span>.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html" title="Region &amp; Language">Region &amp; Language</a><span class="desc"> — 
-      <span class="link"><a href="session-language.html" title="Cambiare la lingua utilizzata">Language</a></span>,
-      <span class="link"><a href="session-formats.html" title="Modificare data e unità di misura">region and formats</a></span>,
-      <span class="link"><a href="keyboard-layouts.html" title="Usare disposizioni di tastiera alternative">keyboard layouts</a></span>…
+<a href="prefs-language.html.it" title="Region &amp; Language">Region &amp; Language</a><span class="desc"> — 
+      <span class="link"><a href="session-language.html.it" title="Cambiare la lingua utilizzata">Language</a></span>,
+      <span class="link"><a href="session-formats.html.it" title="Modificare data e unità di misura">region and formats</a></span>,
+      <span class="link"><a href="keyboard-layouts.html.it" title="Usare disposizioni di tastiera alternative">keyboard layouts</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="keyboard.html" title="Tastiera">Tastiera</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html" title="Usare disposizioni di tastiera alternative">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html" title="Rendere il cursore intermittente">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html#mobility" title="Difficoltà motorie">keyboard accessibility</a></span>…
+<a href="keyboard.html.it" title="Tastiera">Tastiera</a><span class="desc"> — 
+      <span class="link"><a href="keyboard-layouts.html.it" title="Usare disposizioni di tastiera alternative">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.it" title="Rendere il cursore intermittente">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html.it#mobility" title="Difficoltà motorie">keyboard accessibility</a></span>…
     </span>
 </li>
 </ul></div>
@@ -136,7 +136,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips-specialchars.html" title="Inserire caratteri speciali">Inserire caratteri speciali</a><span class="desc"> — Digitare caratteri non presenti sulla propria tastiera, inclusi alfabeti stranieri, simboli matematici e dingbat.</span>
+<a href="tips-specialchars.html.it" title="Inserire caratteri speciali">Inserire caratteri speciali</a><span class="desc"> — Digitare caratteri non presenti sulla propria tastiera, inclusi alfabeti stranieri, simboli matematici e dingbat.</span>
 </li></ul></div>
 </div></div>
 </div>

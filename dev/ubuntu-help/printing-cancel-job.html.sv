@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="printing.html#problems" title="Skrivarproblem">Skrivarproblem</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> › <a class="trail" href="hardware.html.sv#problems" title="Vanliga problem">Problem</a> » <a class="trail" href="printing.html.sv#problems" title="Skrivarproblem">Skrivarproblem</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Avbryt, pausa eller släpp ett utskriftsjobb</span></h1></div>
@@ -56,7 +56,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Hur du avbryter ett utskriftsjobb:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skrivare</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skrivare</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Skrivare</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Klicka på knappen <span class="gui">Visa jobb</span>-knappen på högersidan av dialogrutan <span class="gui">Skrivare</span>.</p></li>
 <li class="steps"><p class="p">Avbryt utskriftsjobbet genom att klicka på stopp-knappen.</p></li>
@@ -72,7 +72,7 @@
 <div class="region"><div class="contents">
 <p class="p">Om du vill pausa eller släppa ett utskriftsjobb kan du göra det genom att gå till jobbets dialogruta bland skrivarinställningarna och klicka på lämpliga knapp.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skrivare</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skrivare</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Skrivare</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Visa jobb</span>-knappen på höger sida av dialogrutan <span class="gui">Skrivare</span> och antingen pausa eller släpp utskriftsjobbet baserat på dina behov.</p></li>
 </ol></div></div></div>
@@ -83,7 +83,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html#problems" title="Skrivarproblem">Skrivarproblem</a><span class="desc"> — Skrivare som inte detekterats, papper som fastnat, utskrifter som ser fel ut…</span>
+<a href="printing.html.sv#problems" title="Skrivarproblem">Skrivarproblem</a><span class="desc"> — Skrivare som inte detekterats, papper som fastnat, utskrifter som ser fel ut…</span>
 </li></ul></div>
 </div></div></div>
 </div>

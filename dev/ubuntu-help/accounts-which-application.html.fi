@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="accounts.html" title="Verkkotilit">Verkkotilit</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="accounts.html.fi" title="Verkkotilit">Verkkotilit</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Verkkopalvelut ja sovellukset</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Once you have added an online account, any application can use that
   account for any of the available services that you have not
-  <span class="link"><a href="accounts-disable-service.html" title="Control which online services an account can be used to access">disabled</a></span>. Different
+  <span class="link"><a href="accounts-disable-service.html.fi" title="Control which online services an account can be used to access">disabled</a></span>. Different
   providers provide different services. This page lists the different
   services and some of the applications that are known to use them.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
@@ -73,7 +73,7 @@
       <span class="app">Documents</span> application.</p></dd>
 <dt class="terms">Tiedostot</dt>
 <dd class="terms"><p class="p">The Files service adds a remote file location, as if you had added
-      one using the <span class="link"><a href="nautilus-connect.html" title="Selaa palvelimen verkkojaon tiedostoja">Connect to Server</a></span>
+      one using the <span class="link"><a href="nautilus-connect.html.fi" title="Selaa palvelimen verkkojaon tiedostoja">Connect to Server</a></span>
       functionality in the file manager. You can access remote files using
       the file manager, as well as through file open and save dialogs in any
       application.</p></dd>
@@ -101,13 +101,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Verkkotilit">Verkkotilit</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Lisää tili">Lisää verkkotili</a></span>, <span class="link"><a href="accounts-remove.html" title="Poista tili">Poista tili</a></span>, <span class="link"><a href="accounts-which-application.html" title="Verkkopalvelut ja sovellukset">Lisätietoja palveluista</a></span>…</span>
+<a href="accounts.html.fi" title="Verkkotilit">Verkkotilit</a><span class="desc"> — <span class="link"><a href="accounts-add.html.fi" title="Lisää tili">Lisää verkkotili</a></span>, <span class="link"><a href="accounts-remove.html.fi" title="Poista tili">Poista tili</a></span>, <span class="link"><a href="accounts-which-application.html.fi" title="Verkkopalvelut ja sovellukset">Lisätietoja palveluista</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="Control which online services an account can be used to access">Control which online services an account can be used to access</a><span class="desc"> — Some online accounts can be used to access multiple services (like
+<a href="accounts-disable-service.html.fi" title="Control which online services an account can be used to access">Control which online services an account can be used to access</a><span class="desc"> — Some online accounts can be used to access multiple services (like
     calendar and email). You can control which of these services can be used by
     applications.</span>
 </li></ul></div>

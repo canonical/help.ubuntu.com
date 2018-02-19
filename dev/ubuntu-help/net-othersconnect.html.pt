@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-problem.html" title="Problemas de rede">Problemas de rede</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-problem.html.pt" title="Problemas de rede">Problemas de rede</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Other users can’t connect to the internet</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Normalmente, quando configura uma conexão de rede, o resto de utilizadores da computador poderão a usar. Se não se partilha a informação da conexão, deveria verificar a configuração da conexão.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Rede</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Rede</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Rede</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione <span class="gui">sem fios</span> da lista à esquerda.</p></li>
 <li class="steps"><p class="p">Carregue o botão <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuração"></span></span> para abrir os detalhes da conexão.</p></li>
@@ -68,13 +68,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html" title="Problemas de rede">Problemas de rede</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html" title="Solucionador de problemas de rede sem fios">Solucionar problemas da rede sem fios</a></span>, <span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">Procurar a sua rede sem fios</a></span>…</span>
+<a href="net-problem.html.pt" title="Problemas de rede">Problemas de rede</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.pt" title="Solucionador de problemas de rede sem fios">Solucionar problemas da rede sem fios</a></span>, <span class="link"><a href="net-wireless-find.html.pt" title="I can’t see my wireless network in the list">Procurar a sua rede sem fios</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-othersedit.html" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — Deve desmarcar a opção <span class="gui">Disponível para todos os utilizadores</span> na configuração da conexão.</span>
+<a href="net-othersedit.html.pt" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — Deve desmarcar a opção <span class="gui">Disponível para todos os utilizadores</span> na configuração da conexão.</span>
 </li></ul></div>
 </div></div>
 </div>

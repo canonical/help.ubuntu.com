@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html" title="Akses universal">Akses universal</a> › <a class="trail" href="a11y.html#vision" title="Masalah visual">Masalah visual</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html.id" title="Akses universal">Akses universal</a> › <a class="trail" href="a11y.html.id#vision" title="Masalah visual">Masalah visual</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ubah ukuran teks pada layar</span></h1></div>
@@ -51,11 +51,11 @@
 <div class="contents">
 <p class="p">Bila Anda mengalami kesulitan membaca teks pada layar Anda, Anda dapat mengubah ukuran fonta.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Nyalakan <span class="gui">Teks Besar</span> dalam seksi <span class="gui">Penglihatan</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Sebagai alternatif, Anda dapat mengubah dengan cepat ukuran teks dengan mengklik <span class="link"><a href="a11y-icon.html" title="Temukan menu akses universal">ikon aksesibilitas</a></span> pada bilah puncak dan memilih <span class="gui">Teks Besar</span>.</p>
+<p class="p">Sebagai alternatif, Anda dapat mengubah dengan cepat ukuran teks dengan mengklik <span class="link"><a href="a11y-icon.html.id" title="Temukan menu akses universal">ikon aksesibilitas</a></span> pada bilah puncak dan memilih <span class="gui">Teks Besar</span>.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Dalam banyak aplikasi, Anda dapat memperbesar ukuran teks kapanpun dengan menekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>+</kbd></span></span>. Untuk memperkecil ukuran teks, tekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>-</kbd></span></span>.</p></div></div></div></div>
 <p class="p"><span class="gui">Large Text</span> will scale the text by 1.2 times. You can use
   <span class="app">Tweaks</span> to make text size bigger or smaller.</p>
@@ -64,7 +64,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Masalah visual">Masalah visual</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.id#vision" title="Masalah visual">Masalah visual</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

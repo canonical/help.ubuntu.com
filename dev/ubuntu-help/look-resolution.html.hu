@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="prefs-display.html" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">A képernyő felbontásának vagy forgatásának módosítása</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">A <span class="em">képernyő felbontásának</span> módosításával megadhatja, hogy milyen nagyok (vagy részletesek) legyenek a képernyőn megjelenő objektumok. A <span class="em">forgatás</span> módosításával megadhatja, hogy melyik irányban legyen a képernyő teteje, ez akkor hasznos, ha forgatható kijelzője van.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Kijelzők</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Kijelzők</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Kijelzők</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Ha több kijelzője van, amelyek nem tükrözöttek, akkor az egyes kijelzők felbontása eltérő is lehet. Válasszon egy kijelezőt az előnézeti területen.</p></li>
 <li class="steps"><p class="p">Válassza ki a felbontást és forgatást.</p></li>
@@ -62,7 +62,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Felbontás</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">A felbontás az egyes irányokban megjeleníthető képpontok száma. Minden felbontáshoz tartozik egy <span class="em">méretarány</span>, a szélesség magassághoz viszonyított aránya. A széles vásznú kijelzők 16∶9 méretarányt használnak, míg a hagyományosak 4∶3 méretarányt. Ha a kijelző méretarányának meg nem felelő felbontást választ, akkor a képernyő tartalma letterboxban jelenik meg a torzítás elkerülése érdekében, azaz a képernyő tetején és alján vagy két oldalán fekete sávok jelennek meg.</p>
-<p class="p">A <span class="gui">Felbontás</span> legördülő menüből kiválaszthatja a kívánt felbontást. Ha a képernyőhöz nem megfelelő beállítást választ, a kép könnyen <span class="link"><a href="look-display-fuzzy.html" title="Miért homályos/pixeles a kép?">homályos vagy pixeles</a></span> lehet.</p>
+<p class="p">A <span class="gui">Felbontás</span> legördülő menüből kiválaszthatja a kívánt felbontást. Ha a képernyőhöz nem megfelelő beállítást választ, a kép könnyen <span class="link"><a href="look-display-fuzzy.html.hu" title="Miért homályos/pixeles a kép?">homályos vagy pixeles</a></span> lehet.</p>
 </div></div>
 </div></div>
 <div id="rotation" class="sect"><div class="inner">
@@ -75,13 +75,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Háttér</a></span>, <span class="link"><a href="look-resolution.html" title="A képernyő felbontásának vagy forgatásának módosítása">méret és elforgatás</a></span>, fényerő…</span>
+<a href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — <span class="link"><a href="look-background.html.hu" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Háttér</a></span>, <span class="link"><a href="look-resolution.html.hu" title="A képernyő felbontásának vagy forgatásának módosítása">méret és elforgatás</a></span>, fényerő…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-display-fuzzy.html" title="Miért homályos/pixeles a kép?">Miért homályos/pixeles a kép?</a><span class="desc"> — A képernyő felbontása helytelen lehet.</span>
+<a href="look-display-fuzzy.html.hu" title="Miért homályos/pixeles a kép?">Miért homályos/pixeles a kép?</a><span class="desc"> — A képernyő felbontása helytelen lehet.</span>
 </li></ul></div>
 </div></div>
 </div>

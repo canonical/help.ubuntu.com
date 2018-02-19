@@ -43,15 +43,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Region &amp; språk</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html" title="Använd alternativa tangentbordslayouter"><span class="title">Använd alternativa tangentbordslayouter</span><span class="linkdiv-dash"> — </span><span class="desc">Lägg till tangentbordslayouter och växla mellan dem.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-formats.html" title="Ändra datum och mätvärden"><span class="title">Ändra datum och mätvärden</span><span class="linkdiv-dash"> — </span><span class="desc">Välj en region som används för datum och tid, tal, valuta och mätvärden.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-language.html" title="Ändra vilket språk du använder"><span class="title">Ändra vilket språk du använder</span><span class="linkdiv-dash"> — </span><span class="desc">Växla till ett annat språk för användargränssnittet och hjälptext.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.sv" title="Använd alternativa tangentbordslayouter"><span class="title">Använd alternativa tangentbordslayouter</span><span class="linkdiv-dash"> — </span><span class="desc">Lägg till tangentbordslayouter och växla mellan dem.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-formats.html.sv" title="Ändra datum och mätvärden"><span class="title">Ändra datum och mätvärden</span><span class="linkdiv-dash"> — </span><span class="desc">Välj en region som används för datum och tid, tal, valuta och mätvärden.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-language.html.sv" title="Ändra vilket språk du använder"><span class="title">Ändra vilket språk du använder</span><span class="linkdiv-dash"> — </span><span class="desc">Växla till ett annat språk för användargränssnittet och hjälptext.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -59,13 +59,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html" title="Användarkonton">användarkonton</a></span>…</span>
+<a href="prefs.html.sv" title="Inställningar för användare och system">Inställningar för användare och system</a><span class="desc"> — <span class="link"><a href="keyboard.html.sv" title="Tangentbord">Tangentbord</a></span>, <span class="link"><a href="mouse.html.sv" title="Mus">mus</a></span>, <span class="link"><a href="prefs-display.html.sv" title="Visning och skärm">visning</a></span>, <span class="link"><a href="prefs-language.html.sv" title="Region &amp; språk">språk</a></span>, <span class="link"><a href="user-accounts.html.sv" title="Användarkonton">användarkonton</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language-install.html" title="Installera språk">Installera språk</a><span class="desc"> — Installera fler översättningar och relaterade språkstödspaket.</span>
+<a href="prefs-language-install.html.sv" title="Installera språk">Installera språk</a><span class="desc"> — Installera fler översättningar och relaterade språkstödspaket.</span>
 </li></ul></div>
 </div></div>
 </div>

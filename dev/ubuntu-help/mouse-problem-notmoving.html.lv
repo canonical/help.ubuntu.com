@@ -44,18 +44,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="mouse.html" title="Pele">Pele</a> › <a class="trail" href="mouse.html#problems" title="Biežākās problēmas">Biežākās problēmas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="mouse.html.lv" title="Pele">Pele</a> › <a class="trail" href="mouse.html.lv#problems" title="Biežākās problēmas">Biežākās problēmas</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="mouse.html" title="Pele">Pele</a> › <a class="trail" href="mouse.html#problems" title="Biežākās problēmas">Biežākās problēmas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="mouse.html.lv" title="Pele">Pele</a> › <a class="trail" href="mouse.html.lv#problems" title="Biežākās problēmas">Biežākās problēmas</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Peles rādītājs nekustās</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html#plugged-in" title="Pārbaudiet vai pele ir pievienota">Pārbaudiet vai pele ir pievienota</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#broken" title="Pārbaudiet vai pele tiešām strādā">Pārbaudiet vai pele tiešām strādā</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html#wireless-mice" title="Bezvadu peles pārbaudīšana">Bezvadu peles pārbaudīšana</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.lv#plugged-in" title="Pārbaudiet vai pele ir pievienota">Pārbaudiet vai pele ir pievienota</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.lv#broken" title="Pārbaudiet vai pele tiešām strādā">Pārbaudiet vai pele tiešām strādā</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.lv#wireless-mice" title="Bezvadu peles pārbaudīšana">Bezvadu peles pārbaudīšana</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Pārbaudiet vai pele ir pievienota</span></h2></div>
@@ -76,8 +76,8 @@
 <div class="region"><div class="contents">
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Pārliecinies, ka pele ir ieslēgta. Peles apakšā parasti ir slēdzis, lai pilnībā izslēgtu peli, lai to varētu ņem sev līdzi, nepamodinot datoru no snaudiena.</p></li>
-<li class="list"><p class="p">Ja izmanto Bluetooth, pārliecinieties, ka pele tiešām ir sapārota ar datoru. Lasi <span class="link"><a href="bluetooth-connect-device.html" title="Savienot jūsu datoru ar Bluetooth ierīci">Savienot jūsu datoru ar Bluetooth ierīci</a></span>.</p></li>
-<li class="list"><p class="p">Nospied pogu un skaties vai peles rādītājs kustās tagad. Dažas bezvadu peles iet gulēšanas režīmā, lai taupītu enerģiju, tāpēc tās var nereaģēt kamēr nenospiedīsiet tās pogu. Lasi <span class="link"><a href="mouse-wakeup.html" title="Pelei ir aizture, pirms tā sāk strādāt">Pelei ir aizture, pirms tā sāk strādāt</a></span>.</p></li>
+<li class="list"><p class="p">Ja izmanto Bluetooth, pārliecinieties, ka pele tiešām ir sapārota ar datoru. Lasi <span class="link"><a href="bluetooth-connect-device.html.lv" title="Savienot jūsu datoru ar Bluetooth ierīci">Savienot jūsu datoru ar Bluetooth ierīci</a></span>.</p></li>
+<li class="list"><p class="p">Nospied pogu un skaties vai peles rādītājs kustās tagad. Dažas bezvadu peles iet gulēšanas režīmā, lai taupītu enerģiju, tāpēc tās var nereaģēt kamēr nenospiedīsiet tās pogu. Lasi <span class="link"><a href="mouse-wakeup.html.lv" title="Pelei ir aizture, pirms tā sāk strādāt">Pelei ir aizture, pirms tā sāk strādāt</a></span>.</p></li>
 <li class="list"><p class="p">Pārbaudi vai peles baterija ir uzlādēta.</p></li>
 <li class="list"><p class="p">Pārliecinies, ka uztvērējs ir kārtīgi pievienots datoram.</p></li>
 <li class="list"><p class="p">Ja pele un uztvērējs var darboties dažādos kanālos, pārliecinieties, ka tie abi atrodas vienā kanālā.</p></li>
@@ -90,7 +90,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html#problems" title="Biežākās problēmas">Biežākās problēmas ar peli</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.lv#problems" title="Biežākās problēmas">Biežākās problēmas ar peli</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

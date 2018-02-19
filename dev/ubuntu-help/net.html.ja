@@ -43,65 +43,65 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Networking, web &amp; email</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html" title="無線ネットワーク">無線ネットワーク</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html" title="無線ネットワークに接続する">無線接続</a></span>、<span class="link"><a href="net-wireless-hidden.html" title="非表示設定の無線ネットワークに接続">非表示設定のネットワーク</a></span>、<span class="link"><a href="net-wireless-disconnecting.html" title="無線ネットワークが切断されてしまいます、なぜですか?">切断する</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wireless.html.ja" title="無線ネットワーク">無線ネットワーク</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.ja" title="無線ネットワークに接続する">無線接続</a></span>、<span class="link"><a href="net-wireless-hidden.html.ja" title="非表示設定の無線ネットワークに接続">非表示設定のネットワーク</a></span>、<span class="link"><a href="net-wireless-disconnecting.html.ja" title="無線ネットワークが切断されてしまいます、なぜですか?">切断する</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="contacts.html" title="Contacts">Contacts</a></div>
+<div class="links-grid-link"><a href="contacts.html.ja" title="Contacts">Contacts</a></div>
 <div class="desc"><span class="desc">Access your contacts.</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-security.html" title="インターネットを安全に利用するために">インターネットを安全に利用するために</a></div>
+<div class="links-grid-link"><a href="net-security.html.ja" title="インターネットを安全に利用するために">インターネットを安全に利用するために</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-antivirus.html" title="ウイルス除去ソフトウェアは必要ですか?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="ファイアウォールへのアクセスの許可とブロック">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="よく使用されるネットワークポート">firewall ports</a></span>…
+      <span class="link"><a href="net-antivirus.html.ja" title="ウイルス除去ソフトウェアは必要ですか?">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.ja" title="ファイアウォールへのアクセスの許可とブロック">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.ja" title="よく使用されるネットワークポート">firewall ports</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html" title="ウェブブラウザー">ウェブブラウザー</a></div>
+<div class="links-grid-link"><a href="net-browser.html.ja" title="ウェブブラウザー">ウェブブラウザー</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-browser.html" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html" title="Flash プラグインのインストール">install Flash</a></span>…
+      <span class="link"><a href="net-default-browser.html.ja" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-install-flash.html.ja" title="Flash プラグインのインストール">install Flash</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-chat.html" title="チャットとソーシャルネットワーク">チャットとソーシャルネットワーク</a></div>
+<div class="links-grid-link"><a href="net-chat.html.ja" title="チャットとソーシャルネットワーク">チャットとソーシャルネットワーク</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-chat-empathy.html" title="Ubuntuでのインスタントメッセージ">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="ビデオ通話">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="どのようにすればUbuntuでSkypeを使うことができますか？">install skype</a></span>
+      <span class="link"><a href="net-chat-empathy.html.ja" title="Ubuntuでのインスタントメッセージ">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.ja" title="ビデオ通話">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.ja" title="どのようにすればUbuntuでSkypeを使うことができますか？">install skype</a></span>
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-general.html" title="ネットワーク用語とヒント">ネットワーク用語とヒント</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html" title="IP アドレスを確認する">IP アドレスの確認</a></span>、<span class="link"><a href="net-wireless-wepwpa.html" title="WEP と WPA とは?">WEP &amp; WPA セキュリティ</a></span>、<span class="link"><a href="net-macaddress.html" title="MAC アドレスとは">MAC アドレス</a></span>、<span class="link"><a href="net-proxy.html" title="プロキシ設定の定義">プロキシ</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-general.html.ja" title="ネットワーク用語とヒント">ネットワーク用語とヒント</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.ja" title="IP アドレスを確認する">IP アドレスの確認</a></span>、<span class="link"><a href="net-wireless-wepwpa.html.ja" title="WEP と WPA とは?">WEP &amp; WPA セキュリティ</a></span>、<span class="link"><a href="net-macaddress.html.ja" title="MAC アドレスとは">MAC アドレス</a></span>、<span class="link"><a href="net-proxy.html.ja" title="プロキシ設定の定義">プロキシ</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-problem.html" title="ネットワーク関連の問題">ネットワーク関連の問題</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線接続トラブルシューティング</a></span>、<span class="link"><a href="net-wireless-find.html" title="I can’t see my wireless network in the list">wifi ネットワーク検索</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-problem.html.ja" title="ネットワーク関連の問題">ネットワーク関連の問題</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.ja" title="無線ネットワークトラブルシューティング">無線接続トラブルシューティング</a></span>、<span class="link"><a href="net-wireless-find.html.ja" title="I can’t see my wireless network in the list">wifi ネットワーク検索</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-email.html" title="メールとメールソフトウェア">メールとメールソフトウェア</a></div>
+<div class="links-grid-link"><a href="net-email.html.ja" title="メールとメールソフトウェア">メールとメールソフトウェア</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-email.html" title="メール作成に使うアプリケーションの変更">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html" title="メールのウイルススキャンをする必要がありますか?">Should I scan for viruses?</a></span>…
+      <span class="link"><a href="net-default-email.html.ja" title="メール作成に使うアプリケーションの変更">Default email apps</a></span>,
+      <span class="link"><a href="net-email-virus.html.ja" title="メールのウイルススキャンをする必要がありますか?">Should I scan for viruses?</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="sharing.html" title="共有">共有</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html" title="デスクトップを共有する">デスクトップ共有</a></span>, <span class="link"><a href="files-share.html" title="メールを使ってファイルを共有する">メールでファイルを共有する</a></span>, <span class="link"><a href="sharing-media.html" title="音楽、写真、ビデオを共有する">メディア共有</a></span>…</span></div>
+<div class="links-grid-link"><a href="sharing.html.ja" title="共有">共有</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html.ja" title="デスクトップを共有する">デスクトップ共有</a></span>, <span class="link"><a href="files-share.html.ja" title="メールを使ってファイルを共有する">メールでファイルを共有する</a></span>, <span class="link"><a href="sharing-media.html.ja" title="音楽、写真、ビデオを共有する">メディア共有</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html" title="有線によるネットワーク">有線によるネットワーク</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html" title="有線 (Ethernet) ネットワークへの接続">有線インターネット接続</a></span>、<span class="link"><a href="net-fixed-ip-address.html" title="固定 IP アドレスの接続を作成">固定 IP アドレス</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wired.html.ja" title="有線によるネットワーク">有線によるネットワーク</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.ja" title="有線 (Ethernet) ネットワークへの接続">有線インターネット接続</a></span>、<span class="link"><a href="net-fixed-ip-address.html.ja" title="固定 IP アドレスの接続を作成">固定 IP アドレス</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -109,11 +109,11 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Ubuntu デスクトップガイド">Ubuntu デスクトップガイド</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.ja" title="Ubuntu デスクトップガイド">Ubuntu デスクトップガイド</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-get-online.html" title="ネットワークに接続する">ネットワーク接続に関するチュートリアル</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-get-online.html.ja" title="ネットワークに接続する">ネットワーク接続に関するチュートリアル</a></li></ul></div>
 </div></div>
 </div>
 </div>

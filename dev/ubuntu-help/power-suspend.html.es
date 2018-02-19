@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="power.html" title="Energía y batería">Energía y batería</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="power.html.es" title="Energía y batería">Energía y batería</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="power.html" title="Energía y batería">Energía y batería</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="power.html.es" title="Energía y batería">Energía y batería</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,7 +54,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Cuando <span class="em">suspende</span> el equipo, lo envía a dormir. Todas las aplicaciones y los documentos permanecen abiertos, pero la pantalla y otras partes del equipo se apagan para ahorrar energía. El equipo sin embargo sigue encendido y aún va a utilizar una pequeña cantidad de energía. Puede activarlo pulsando una tecla o el ratón. Si eso no funciona, intente presionar el botón de encendido.</p>
-<p class="p">Algunos equipos tienen problemas de hardware lo que significa que <span class="link"><a href="power-suspendfail.html" title="¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?">pueden no ser capaces de suspender adecuadamente</a></span>. Es una buena idea comprobar la suspensión en su equipo para ver si funciona bien antes de usarla.</p>
+<p class="p">Algunos equipos tienen problemas de hardware lo que significa que <span class="link"><a href="power-suspendfail.html.es" title="¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?">pueden no ser capaces de suspender adecuadamente</a></span>. Es una buena idea comprobar la suspensión en su equipo para ver si funciona bien antes de usarla.</p>
 <div class="note note-important" title="Importante"><div class="inner">
 <div class="title title-note"><h2><span class="title">Guarde siempre su trabajo antes de suspender</span></h2></div>
 <div class="region"><div class="contents"><p class="p">Debe guardar todo su trabajo antes de suspender el equipo, solo por si algo fuera mal y sus aplicaciones y documentos abiertos no se pudieran recuperar al encender el equipo de nuevo.</p></div></div>
@@ -66,24 +66,24 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html" title="Energía y batería">Energía y batería</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Compruebe el estado de la batería">Estado de la batería</a></span>, <span class="link"><a href="power-suspend.html" title="¿Qué ocurre cuando suspendo el equipo?">suspender</a></span>, <span class="link"><a href="power-whydim.html" title="¿Por qué mi pantalla se oscurece después de un tiempo?">atenuación de la pantalla</a></span>…</span>
+<a href="power.html.es" title="Energía y batería">Energía y batería</a><span class="desc"> — <span class="link"><a href="power-status.html.es" title="Compruebe el estado de la batería">Estado de la batería</a></span>, <span class="link"><a href="power-suspend.html.es" title="¿Qué ocurre cuando suspendo el equipo?">suspender</a></span>, <span class="link"><a href="power-whydim.html.es" title="¿Por qué mi pantalla se oscurece después de un tiempo?">atenuación de la pantalla</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html" title="Configurar la suspensión automática">Configurar la suspensión automática</a><span class="desc"> — Configurar su equipo para que se suspenda automáticamente</span>
+<a href="power-autosuspend.html.es" title="Configurar la suspensión automática">Configurar la suspensión automática</a><span class="desc"> — Configurar su equipo para que se suspenda automáticamente</span>
 </li>
-<li class="links "><a href="shell-exit.html#suspend" title="Suspender">Suspender</a></li>
+<li class="links "><a href="shell-exit.html.es#suspend" title="Suspender">Suspender</a></li>
 <li class="links ">
-<a href="power-batterylife.html" title="Usar menos energía y mejorar la vida de la batería">Usar menos energía y mejorar la vida de la batería</a><span class="desc"> — Consejos para reducir el consumo de energía de su equipo.</span>
-</li>
-<li class="links ">
-<a href="power-suspendfail.html" title="¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?">¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?</a><span class="desc"> — Algunos componentes hardware del equipo dan problemas al suspender.</span>
+<a href="power-batterylife.html.es" title="Usar menos energía y mejorar la vida de la batería">Usar menos energía y mejorar la vida de la batería</a><span class="desc"> — Consejos para reducir el consumo de energía de su equipo.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html" title="¿Por qué se apaga mi equipo cuando cierro la tapa?">¿Por qué se apaga mi equipo cuando cierro la tapa?</a><span class="desc"> — Los portátiles se suspenden cuando se cierra la tapa para ahorrar energía.</span>
+<a href="power-suspendfail.html.es" title="¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?">¿Por qué mi equipo no reacciona después de haberlo enviado suspendido?</a><span class="desc"> — Algunos componentes hardware del equipo dan problemas al suspender.</span>
+</li>
+<li class="links ">
+<a href="power-closelid.html.es" title="¿Por qué se apaga mi equipo cuando cierro la tapa?">¿Por qué se apaga mi equipo cuando cierro la tapa?</a><span class="desc"> — Los portátiles se suspenden cuando se cierra la tapa para ahorrar energía.</span>
 </li>
 </ul></div>
 </div></div>

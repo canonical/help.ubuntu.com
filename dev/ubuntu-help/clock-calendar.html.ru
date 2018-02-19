@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html#desktop" title="Customize your desktop">Customize your desktop</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ru" title="Your desktop">Рабочий стол</a> › <a class="trail" href="shell-overview.html.ru#desktop" title="Customize your desktop">Customize your desktop</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="clock.html" title="Дата и время">Дата и время</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="clock.html.ru" title="Дата и время">Дата и время</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -77,13 +77,13 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-overview.html#desktop" title="Customize your desktop">Customize your desktop</a></li>
+<li class="links "><a href="shell-overview.html.ru#desktop" title="Customize your desktop">Customize your desktop</a></li>
 <li class="links ">
-<a href="clock.html" title="Дата и время">Дата и время</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html" title="Изменение даты и времени">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="Изменение часового пояса">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="События календаря">calendar and appointments</a></span>…
+<a href="clock.html.ru" title="Дата и время">Дата и время</a><span class="desc"> — 
+      <span class="link"><a href="clock-set.html.ru" title="Изменение даты и времени">Set date and time</a></span>,
+      <span class="link"><a href="clock-world.html.ru" title="Add a world clock">world clocks</a></span>,
+      <span class="link"><a href="clock-timezone.html.ru" title="Изменение часового пояса">timezone</a></span>,
+      <span class="link"><a href="clock-calendar.html.ru" title="События календаря">calendar and appointments</a></span>…
     </span>
 </li>
 </ul></div>

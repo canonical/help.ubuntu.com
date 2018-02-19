@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html#faq" title="Vinkit ja kysymykset">Vinkit ja kysymykset</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.fi" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html.fi#faq" title="Vinkit ja kysymykset">Vinkit ja kysymykset</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Määritä tiedoston käyttöoikeudet</span></h1></div>
@@ -68,7 +68,7 @@
     belong to.</p>
 <p class="p">You can also set the permissions for users other than the owner and
     those in the file’s group.</p>
-<p class="p">Jos tiedosto on ohjelma ja haluat suorittaa sen tiedostonhallinnasta, täytyy asetus <span class="gui">Salli tiedoston suorittaminen ohjelmana</span> olla käytössä. Tiedostohallinta voi kuitenkin yhä avata tiedoston jossakin ohjelmassa tai kysyä sinulta, mitä tehdä. Lue <span class="link"><a href="nautilus-behavior.html#executable" title="Suoritettavat tekstitiedostot">Suoritettavat tekstitiedostot</a></span> saadaksesi lisätietoa.</p>
+<p class="p">Jos tiedosto on ohjelma ja haluat suorittaa sen tiedostonhallinnasta, täytyy asetus <span class="gui">Salli tiedoston suorittaminen ohjelmana</span> olla käytössä. Tiedostohallinta voi kuitenkin yhä avata tiedoston jossakin ohjelmassa tai kysyä sinulta, mitä tehdä. Lue <span class="link"><a href="nautilus-behavior.html.fi#executable" title="Suoritettavat tekstitiedostot">Suoritettavat tekstitiedostot</a></span> saadaksesi lisätietoa.</p>
 </div></div>
 </div></div>
 <div id="folders" class="sect"><div class="inner">
@@ -98,12 +98,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Vinkit ja kysymykset">Vinkit ja kysymykset</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.fi#faq" title="Vinkit ja kysymykset">Vinkit ja kysymykset</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-basic.html" title="Tiedostojen ominaisuudet">Tiedostojen ominaisuudet</a><span class="desc"> — Tarkista tiedoston perusominaisuudet, aseta oikeudet ja valitse oletussovellukset.</span>
+<a href="nautilus-file-properties-basic.html.fi" title="Tiedostojen ominaisuudet">Tiedostojen ominaisuudet</a><span class="desc"> — Tarkista tiedoston perusominaisuudet, aseta oikeudet ja valitse oletussovellukset.</span>
 </li></ul></div>
 </div></div>
 </div>

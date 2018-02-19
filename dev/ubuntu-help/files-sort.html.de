@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html#common-file-tasks" title="Häufige Aufgaben">Häufige Aufgaben</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.de" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html.de#common-file-tasks" title="Häufige Aufgaben">Häufige Aufgaben</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Dateien und Ordner sortieren</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Sie können Dateien in einem Ordner auf verschiedene Weise sortieren, zum Beispiel nach ihrem Datum oder der Dateigröße. Bitte lesen Sie weiter unten <span class="link"><a href="#ways" title="Möglichkeiten zum Sortieren von Dateien">Möglichkeiten zum Sortieren von Dateien</a></span> für eine Liste der üblichen Sortierweisen. Lesen Sie <span class="link"><a href="nautilus-views.html" title="Die Einstellungen von Dateien zeigen">Die Einstellungen von <span class="app">Dateien</span> zeigen</a></span> für weitere Informationen, wie Sie die voreingestellte Sortierreihenfolge ändern.</p>
+<p class="p">Sie können Dateien in einem Ordner auf verschiedene Weise sortieren, zum Beispiel nach ihrem Datum oder der Dateigröße. Bitte lesen Sie weiter unten <span class="link"><a href="#ways" title="Möglichkeiten zum Sortieren von Dateien">Möglichkeiten zum Sortieren von Dateien</a></span> für eine Liste der üblichen Sortierweisen. Lesen Sie <span class="link"><a href="nautilus-views.html.de" title="Die Einstellungen von Dateien zeigen">Die Einstellungen von <span class="app">Dateien</span> zeigen</a></span> für weitere Informationen, wie Sie die voreingestellte Sortierreihenfolge ändern.</p>
 <p class="p">Wie Sie Dateien sortieren können, hängt von der <span class="em">Ordneransicht</span> ab, die Sie verwenden. Sie können die aktuelle Ansicht mit Hilfe des Listen- und Symbol-Knopfes in der Werkzeugleiste ändern.</p>
 </div>
 <div id="icon-view" class="sect"><div class="inner">
@@ -64,7 +64,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Listenansicht</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Um die Dateien in einer anderen Reihenfolge anzuordnen, klicken Sie auf einen Spaltenkopf in der Dateiverwaltung. Klicken Sie zum Beispiel auf <span class="gui">Typ</span>, um sie nach Dateityp zu sortieren. Klicken Sie noch einmal auf den Spaltenkopf, um die Reihenfolge umzudrehen.</p>
-<p class="p">In der Listenansicht können Sie Spalten mit weiteren Attributen anzeigen und nach diesen Spalten sortieren. Klicken Sie auf den Ansichtsoptionen-Knopf in der Werkzeugleiste, wählen Sie <span class="gui">Sichtbare Spalten …</span> und wählen Sie die Spalten, die Sie sehen wollen. Sie können dann nach diesen Spalten sortieren. Lesen Sie <span class="link"><a href="nautilus-list.html" title="Einstellungen für die Spalten in der Dateiverwaltung">Einstellungen für die Spalten in der Dateiverwaltung</a></span> für eine Beschreibung der verfügbaren Spalten.</p>
+<p class="p">In der Listenansicht können Sie Spalten mit weiteren Attributen anzeigen und nach diesen Spalten sortieren. Klicken Sie auf den Ansichtsoptionen-Knopf in der Werkzeugleiste, wählen Sie <span class="gui">Sichtbare Spalten …</span> und wählen Sie die Spalten, die Sie sehen wollen. Sie können dann nach diesen Spalten sortieren. Lesen Sie <span class="link"><a href="nautilus-list.html.de" title="Einstellungen für die Spalten in der Dateiverwaltung">Einstellungen für die Spalten in der Dateiverwaltung</a></span> für eine Beschreibung der verfügbaren Spalten.</p>
 </div></div>
 </div></div>
 <div id="ways" class="sect"><div class="inner">
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Häufige Aufgaben">Häufige Aufgaben</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.de#common-file-tasks" title="Häufige Aufgaben">Häufige Aufgaben</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

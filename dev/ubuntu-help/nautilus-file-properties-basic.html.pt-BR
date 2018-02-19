@@ -43,24 +43,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Propriedades do arquivo</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Para ver informações sobre um arquivo ou pasta, clique com botão direito nele(a) e selecione <span class="gui">Propriedades</span>. Você também pode selecionar o arquivo e pressionar <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Enter</kbd></span></span>.</p>
-<p class="p">A janela de propriedades de arquivos mostra a você informações como o tipo de arquivo, o tamanho do arquivo e quando você modificou pela última vez. Se você precisa desta informação com frequência, você pode tê-la exibida em <span class="link"><a href="nautilus-list.html" title="Preferências de colunas da lista do arquivos">colunas de visão de lista</a></span> ou <span class="link"><a href="nautilus-display.html#icon-captions" title="Legendas dos ícones">legenda de ícones</a></span>.</p>
-<p class="p">A informação dada na aba <span class="gui">Básico</span> é explicada abaixo. Também há as abas <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html" title="Definindo permissões de arquivo">Permissões</a></span></span> e <span class="gui"><span class="link"><a href="files-open.html#default" title="Alterar o aplicativo padrão">Abrir com</a></span></span>. Para determinados tipos de arquivos, como imagens e vídeos, haverá uma aba extra que fornece informações como as dimensões, duração e codec.</p>
+<p class="p">A janela de propriedades de arquivos mostra a você informações como o tipo de arquivo, o tamanho do arquivo e quando você modificou pela última vez. Se você precisa desta informação com frequência, você pode tê-la exibida em <span class="link"><a href="nautilus-list.html.pt-BR" title="Preferências de colunas da lista do arquivos">colunas de visão de lista</a></span> ou <span class="link"><a href="nautilus-display.html.pt-BR#icon-captions" title="Legendas dos ícones">legenda de ícones</a></span>.</p>
+<p class="p">A informação dada na aba <span class="gui">Básico</span> é explicada abaixo. Também há as abas <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.pt-BR" title="Definindo permissões de arquivo">Permissões</a></span></span> e <span class="gui"><span class="link"><a href="files-open.html.pt-BR#default" title="Alterar o aplicativo padrão">Abrir com</a></span></span>. Para determinados tipos de arquivos, como imagens e vídeos, haverá uma aba extra que fornece informações como as dimensões, duração e codec.</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Propriedades básicas</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Nome</span></dt>
-<dd class="terms"><p class="p">Você pode renomear o arquivo alterando este campo. Você também pode renomear um arquivo fora da janela de propriedades. Veja <span class="link"><a href="files-rename.html" title="Renomeando um arquivo ou uma pasta">Renomeando um arquivo ou uma pasta</a></span>.</p></dd>
+<dd class="terms"><p class="p">Você pode renomear o arquivo alterando este campo. Você também pode renomear um arquivo fora da janela de propriedades. Veja <span class="link"><a href="files-rename.html.pt-BR" title="Renomeando um arquivo ou uma pasta">Renomeando um arquivo ou uma pasta</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Tipo</span></dt>
 <dd class="terms">
-<p class="p">Isso ajuda você a identificar o tipo de arquivo, como um documento PDF, texto OpenDocument (odt) ou imagem JPEG. O tipo de arquivo determina quais aplicativos podem abrir o arquivo, além de outras coisas. Por exemplo, você pode abrir uma imagem com um reprodutor de música. Veja <span class="link"><a href="files-open.html" title="Abrindo arquivos com outros aplicativos">Abrindo arquivos com outros aplicativos</a></span> para mais informações sobre isto.</p>
+<p class="p">Isso ajuda você a identificar o tipo de arquivo, como um documento PDF, texto OpenDocument (odt) ou imagem JPEG. O tipo de arquivo determina quais aplicativos podem abrir o arquivo, além de outras coisas. Por exemplo, você pode abrir uma imagem com um reprodutor de música. Veja <span class="link"><a href="files-open.html.pt-BR" title="Abrindo arquivos com outros aplicativos">Abrindo arquivos com outros aplicativos</a></span> para mais informações sobre isto.</p>
 <p class="p">O <span class="em">tipo MIME</span> do arquivo é mostrado em parênteses; tipo MIME é uma forma padrão que computadores usam para se referir aos tipos de arquivos.</p>
 </dd>
 <dt class="terms">Conteúdo</dt>
@@ -85,12 +85,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt-BR#more-file-tasks" title="Mais tarefas relacionadas a arquivos">Mais tarefas relacionadas a arquivos</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html" title="Definindo permissões de arquivo">Definindo permissões de arquivo</a><span class="desc"> — Controle quem pode ver e editar seus arquivos e suas pastas.</span>
+<a href="nautilus-file-properties-permissions.html.pt-BR" title="Definindo permissões de arquivo">Definindo permissões de arquivo</a><span class="desc"> — Controle quem pode ver e editar seus arquivos e suas pastas.</span>
 </li></ul></div>
 </div></div>
 </div>

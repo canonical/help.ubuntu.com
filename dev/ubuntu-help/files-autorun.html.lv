@@ -44,13 +44,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Skaņa, video un bildes">Skaņa, video un bildes</a> › <a class="trail" href="media.html#photos" title="Fotogrāfijas un digitālās kameras">Fotogrāfijas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.lv" title="Skaņa, video un bildes">Skaņa, video un bildes</a> › <a class="trail" href="media.html.lv#photos" title="Fotogrāfijas un digitālās kameras">Fotogrāfijas</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html#removable" title="Izņemamie dziņi un ārējie diski">Izņemamie dziņi un ārējie diski</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.lv" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html.lv#removable" title="Izņemamie dziņi un ārējie diski">Izņemamie dziņi un ārējie diski</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Skaņa, video un bildes">Skaņa, video un bildes</a> › <a class="trail" href="media.html#music" title="Mūzika un pārnēsājamie audio atskaņotāji">Mūzika un atskaņotāji</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.lv" title="Skaņa, video un bildes">Skaņa, video un bildes</a> › <a class="trail" href="media.html.lv#music" title="Mūzika un pārnēsājamie audio atskaņotāji">Mūzika un atskaņotāji</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Skaņa, video un bildes">Skaņa, video un bildes</a> › <a class="trail" href="media.html#videos" title="Video un video kameras">Video</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.lv" title="Skaņa, video un bildes">Skaņa, video un bildes</a> › <a class="trail" href="media.html.lv#videos" title="Video un video kameras">Video</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@
 <p class="p">Var iestatīt, lai kāda lietotne automātiski tiek palaista, kad pieslēgta ierīce vai ievietots disks vai zibatmiņa. Piemēram, jums varētu būt ērti, ja fotoaparāta pievienošana palaistu fotogrāfiju pārvaldnieku. Šo iespēju var arī atslēgt, lai, pievienojot ierīces, nekādas darbības netiktu veiktas.</p>
 <p class="p">Lai norādītu, kuras lietotnes jāpalaiž, kad pieslēgtas dažādas ierīces:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="link"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Sīkāka informācija</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="link"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Sīkāka informācija</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Sīkāka informācija</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Noņemamie datu nesēji</span>.</p></li>
 <li class="steps">
@@ -77,7 +77,7 @@
 <dt class="terms">Audio diski</dt>
 <dd class="terms"><p class="p">Izvēlieties savu iemīļoto mūzikas lietotni vai CD audio izvilcēju, lai atvērtu audio kompaktdiskus. Ja jūs lietojat audio DVD (DVD-A), iestatiet to atvēršanu, nospiežot pogu <span class="gui">Citi datu nesēji…</span>. Ja jūs atvērsiet audio disku ar datņu pārvaldnieku, celiņi parādīsies kā WAV datnes, kurus var noklausīties ar jebkuru audio atskaņošanas lietotni.</p></dd>
 <dt class="terms">Video diski</dt>
-<dd class="terms"><p class="p">Izvēlieties lietotni, ar ko atvērt video DVD. Izmantojiet pogu <span class="gui">Citi datu nesēji…</span>, lai iestatītu lietotnes Blu-ray, HD DVD, video CD (VCD) un super video CD (SVCD) atvēršanai. Ja DVD vai citi diski nestrādā pareizi, skatiet <span class="link"><a href="video-dvd.html" title="Kāpēc neatskaņo DVD?">Kāpēc neatskaņo DVD?</a></span>.</p></dd>
+<dd class="terms"><p class="p">Izvēlieties lietotni, ar ko atvērt video DVD. Izmantojiet pogu <span class="gui">Citi datu nesēji…</span>, lai iestatītu lietotnes Blu-ray, HD DVD, video CD (VCD) un super video CD (SVCD) atvēršanai. Ja DVD vai citi diski nestrādā pareizi, skatiet <span class="link"><a href="video-dvd.html.lv" title="Kāpēc neatskaņo DVD?">Kāpēc neatskaņo DVD?</a></span>.</p></dd>
 <dt class="terms">Tukši diski</dt>
 <dd class="terms"><p class="p">Izmantojiet pogu <span class="gui">Citi datu nesēji…</span>, lai izvēlētos lietotni CD, DVD, Blu-ray disku un HD DVD ierakstīšanai.</p></dd>
 <dt class="terms">Fotoaparāti un fotogrāfijas</dt>
@@ -101,10 +101,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html#photos" title="Fotogrāfijas un digitālās kameras">Fotogrāfijas</a></li>
-<li class="links "><a href="files.html#removable" title="Izņemamie dziņi un ārējie diski">Izņemamie dziņi un ārējie diski</a></li>
-<li class="links "><a href="media.html#music" title="Mūzika un pārnēsājamie audio atskaņotāji">Mūzika un atskaņotāji</a></li>
-<li class="links "><a href="media.html#videos" title="Video un video kameras">Video</a></li>
+<li class="links "><a href="media.html.lv#photos" title="Fotogrāfijas un digitālās kameras">Fotogrāfijas</a></li>
+<li class="links "><a href="files.html.lv#removable" title="Izņemamie dziņi un ārējie diski">Izņemamie dziņi un ārējie diski</a></li>
+<li class="links "><a href="media.html.lv#music" title="Mūzika un pārnēsājamie audio atskaņotāji">Mūzika un atskaņotāji</a></li>
+<li class="links "><a href="media.html.lv#videos" title="Video un video kameras">Video</a></li>
 </ul></div>
 </div></div></div>
 </div>

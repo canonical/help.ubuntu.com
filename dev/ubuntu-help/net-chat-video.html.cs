@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-chat.html" title="Chatování a společenské sítě">Chatování a společenské sítě</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-chat.html.cs" title="Chatování a společenské sítě">Chatování a společenské sítě</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Videotelefonování</span></h1></div>
@@ -66,10 +66,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html" title="Chatování a společenské sítě">Chatování a společenské sítě</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html" title="Rychlá komunikace na Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html" title="Videotelefonování">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html" title="Jak mohu použít Skype v Ubuntu?">install skype</a></span>
+<a href="net-chat.html.cs" title="Chatování a společenské sítě">Chatování a společenské sítě</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.cs" title="Rychlá komunikace na Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.cs" title="Videotelefonování">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.cs" title="Jak mohu použít Skype v Ubuntu?">install skype</a></span>
     </span>
 </li></ul></div>
 </div></div>
@@ -77,10 +77,10 @@
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat-skype.html" title="Jak mohu použít Skype v Ubuntu?">Jak mohu použít Skype v Ubuntu?</a><span class="desc"> — <span class="app">Skype</span> je proprietární software a na Ubuntu se musí nainstalovat ručně</span>
+<a href="net-chat-skype.html.cs" title="Jak mohu použít Skype v Ubuntu?">Jak mohu použít Skype v Ubuntu?</a><span class="desc"> — <span class="app">Skype</span> je proprietární software a na Ubuntu se musí nainstalovat ručně</span>
 </li>
 <li class="links ">
-<a href="net-chat-empathy.html" title="Rychlá komunikace na Ubuntu">Rychlá komunikace na Ubuntu</a><span class="desc"> — S <span class="app">Empathy</span> můžete chatovat, telefonovat a videotelefonovat s přáteli a kolegy na mnoha sítích</span>
+<a href="net-chat-empathy.html.cs" title="Rychlá komunikace na Ubuntu">Rychlá komunikace na Ubuntu</a><span class="desc"> — S <span class="app">Empathy</span> můžete chatovat, telefonovat a videotelefonovat s přáteli a kolegy na mnoha sítích</span>
 </li>
 </ul></div>
 </div></div>

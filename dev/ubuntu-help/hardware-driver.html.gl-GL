@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware e controladores">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Que é un controlador?</span></h1></div>
@@ -69,20 +69,20 @@ double-sided printing, but is otherwise completely functional.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Hardware e controladores">Hardware e controladores</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Problemas comúns">Problemas de hardware</a></span>, <span class="link"><a href="hardware.html#printing" title="hardware#printing">impresoras</a></span>, <span class="link"><a href="hardware.html#power" title="hardware#power">configuración de enerxía</a></span>, <span class="link"><a href="hardware.html#bluetooth" title="hardware#bluetooth">Bluetooth</a></span>, <span class="link"><a href="hardware.html#disk" title="hardware#disk">discos</a></span>…</span>
+<a href="hardware.html.gl-GL" title="Hardware e controladores">Hardware e controladores</a><span class="desc"> — <span class="link"><a href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas de hardware</a></span>, <span class="link"><a href="hardware.html.gl-GL#printing" title="hardware#printing">impresoras</a></span>, <span class="link"><a href="hardware.html.gl-GL#power" title="hardware#power">configuración de enerxía</a></span>, <span class="link"><a href="hardware.html.gl-GL#bluetooth" title="hardware#bluetooth">Bluetooth</a></span>, <span class="link"><a href="hardware.html.gl-GL#disk" title="hardware#disk">discos</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-problem-connecting.html" title="Non podo conectar o meu dispositivo Bluetooth">Non podo conectar o meu dispositivo Bluetooth</a><span class="desc"> — Pode que o adaptador estea apagado ou que non teña controladores, ou pode que teña desactivado ou bloqueado o Bluteooth.</span>
+<a href="bluetooth-problem-connecting.html.gl-GL" title="Non podo conectar o meu dispositivo Bluetooth">Non podo conectar o meu dispositivo Bluetooth</a><span class="desc"> — Pode que o adaptador estea apagado ou que non teña controladores, ou pode que teña desactivado ou bloqueado o Bluteooth.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="Non teño conexión sen fíos á rede cando desperto o meu computador">Non teño conexión sen fíos á rede cando desperto o meu computador</a><span class="desc"> — Algúns dispositivos sen fíos teñen problemas de manexo cando envía o seu computador a durmir e non espertar correctamente.</span>
+<a href="power-nowireless.html.gl-GL" title="Non teño conexión sen fíos á rede cando desperto o meu computador">Non teño conexión sen fíos á rede cando desperto o meu computador</a><span class="desc"> — Algúns dispositivos sen fíos teñen problemas de manexo cando envía o seu computador a durmir e non espertar correctamente.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Porque o meu computador non se acende logo de ir suspendelo?">Porque o meu computador non se acende logo de ir suspendelo?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.gl-GL" title="Porque o meu computador non se acende logo de ir suspendelo?">Porque o meu computador non se acende logo de ir suspendelo?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 </ul></div>
 </div></div>

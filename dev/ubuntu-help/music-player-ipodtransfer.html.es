@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="media.html" title="Sonido, vídeo e imágenes">Sonido, vídeo e imágenes</a> › <a class="trail" href="media.html#music" title="Música y reproductores de sonido portátiles">Música y reproductores</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="media.html.es" title="Sonido, vídeo e imágenes">Sonido, vídeo e imágenes</a> › <a class="trail" href="media.html.es#music" title="Música y reproductores de sonido portátiles">Música y reproductores</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Las canciones no aparecen en mi iPod cuando los copio en él</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Al conectar un iPod a su equipo, aparecerá en su reproductor de música y también en el gestor de archivos (la aplicación <span class="app">Archivos</span> en la vista <span class="gui">Actividades</span>). Puede copiar canciones en el iPod usando el reproductor de música, si los copia a través del gestor de archivos, no va a funcionar porque las canciones no se pondrán en el lugar correcto. Los iPods tienen un lugar especial para almacenar canciones, que las aplicaciones de reproducción de música conocen, pero no el gestor de archivos.</p>
-<p class="p">También tendrá que esperar a que las canciones se terminen de copiar al iPod antes de desconectarlo. Antes de desconectar el iPod, asegúrese de <span class="link"><a href="files-removedrive.html" title="Extraer una unidad externa de forma segura">extraerlo con seguridad</a></span>. Esto garantizará que todas las canciones se han copiado correctamente.</p>
+<p class="p">También tendrá que esperar a que las canciones se terminen de copiar al iPod antes de desconectarlo. Antes de desconectar el iPod, asegúrese de <span class="link"><a href="files-removedrive.html.es" title="Extraer una unidad externa de forma segura">extraerlo con seguridad</a></span>. Esto garantizará que todas las canciones se han copiado correctamente.</p>
 <p class="p">Otra razón por la que pueden no aparecer las canciones en su iPod es que el reproductor de música que se está usando no permite la conversión de las canciones de un formato de sonido a otro. Si copia una canción que se guarda en un formato de sonido que no es compatible con su iPod (por ejemplo, un archivo Ogg Vorbis (.oga)), el reproductor de música tratará de convertirlo a un formato que el iPod no entiende, tal como MP3. Si no está instalado el software de conversión apropiado (también llamado códec o codificador), el reproductor de música no será capaz de hacer la conversión y por lo tanto no copiará la canción. Busque en el instalador de software un códec apropiado.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#music" title="Música y reproductores de sonido portátiles">Música y reproductores</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.es#music" title="Música y reproductores de sonido portátiles">Música y reproductores</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html#apps" title="Program och fönster">Program och fönster</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html.sv" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html.sv#apps" title="Program och fönster">Program och fönster</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vad betyder ikonerna i systemraden?</span></h1></div>
@@ -52,11 +52,11 @@
 <p class="p">Detta avsnitt förklarar innebörden av ikonerna som finns i det övre högra hörnet av skärmen. Mer specifikt, de olika varianterna av ikoner som erbjuds av GNOME:s gränssnitt förklaras.</p>
 <div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="GNOME-skalets systemrad"></div></div>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="status-icons.html#universalicons" title="Ikoner för hjälpmedelsmenyn">Ikoner för hjälpmedelsmenyn</a></li>
-<li class="links "><a href="status-icons.html#audioicons" title="Volymkontrollikoner">Volymkontrollikoner</a></li>
-<li class="links "><a href="status-icons.html#bluetoothicons" title="Bluetooth-hanterarikoner">Bluetooth-hanterarikoner</a></li>
-<li class="links "><a href="status-icons.html#networkicons" title="Ikoner för nätverkshanteraren">Ikoner för nätverkshanteraren</a></li>
-<li class="links "><a href="status-icons.html#batteryicons" title="Strömhanteringsikoner">Strömhanteringsikoner</a></li>
+<li class="links "><a href="status-icons.html.sv#universalicons" title="Ikoner för hjälpmedelsmenyn">Ikoner för hjälpmedelsmenyn</a></li>
+<li class="links "><a href="status-icons.html.sv#audioicons" title="Volymkontrollikoner">Volymkontrollikoner</a></li>
+<li class="links "><a href="status-icons.html.sv#bluetoothicons" title="Bluetooth-hanterarikoner">Bluetooth-hanterarikoner</a></li>
+<li class="links "><a href="status-icons.html.sv#networkicons" title="Ikoner för nätverkshanteraren">Ikoner för nätverkshanteraren</a></li>
+<li class="links "><a href="status-icons.html.sv#batteryicons" title="Strömhanteringsikoner">Strömhanteringsikoner</a></li>
 </ul></div></div></div>
 </div>
 <div id="universalicons" class="sect"><div class="inner">
@@ -306,7 +306,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Program och fönster">Program och fönster</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.sv#apps" title="Program och fönster">Program och fönster</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

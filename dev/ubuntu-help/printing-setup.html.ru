@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="printing.html" title="Печать">Печать</a> › <a class="trail" href="printing.html#setup" title="Установка принтера">Установка</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ru" title="Оборудование и драйверы">Аппаратное обеспечение</a> » <a class="trail" href="printing.html.ru" title="Печать">Печать</a> › <a class="trail" href="printing.html.ru#setup" title="Установка принтера">Установка</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Установка локального принтера</span></h1></div>
@@ -59,7 +59,7 @@
 <p class="p">If your printer was not set up automatically, you can add it in the
   printer settings:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Принтеры</span>.</p></li>
 <li class="steps"><p class="p">Нажмите кнопку <span class="gui">Разблокировать</span> в правом верхнем углу и введите свой пароль.</p></li>
@@ -68,19 +68,19 @@
 </ol></div></div></div>
 <p class="p">If your printer does not appear in the Add a New Printer window, you may
   need to install print drivers.</p>
-<p class="p">После установки принтера можно <span class="link"><a href="printing-setup-default-printer.html" title="Выбор принтера, используемого по умолчанию">выбрать принтер, используемый по умолчанию</a></span>.</p>
+<p class="p">После установки принтера можно <span class="link"><a href="printing-setup-default-printer.html.ru" title="Выбор принтера, используемого по умолчанию">выбрать принтер, используемый по умолчанию</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html#setup" title="Установка принтера">Установка принтера</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.ru#setup" title="Установка принтера">Установка принтера</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-setup-default-printer.html" title="Выбор принтера, используемого по умолчанию">Выбор принтера, используемого по умолчанию</a><span class="desc"> — Выберите принтер, которым пользуетесь чаще всего.</span>
+<a href="printing-setup-default-printer.html.ru" title="Выбор принтера, используемого по умолчанию">Выбор принтера, используемого по умолчанию</a><span class="desc"> — Выберите принтер, которым пользуетесь чаще всего.</span>
 </li></ul></div>
 </div></div>
 </div>

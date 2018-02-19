@@ -43,17 +43,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Chat &amp; Soziale Netzwerke</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html" title="Bildtelefonie"><span class="title">Bildtelefonie</span><span class="linkdiv-dash"> — </span><span class="desc">Welche Anwendungen kann ich zur Bildtelefonie verwenden?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html" title="Sofortnachrichten unter Ubuntu"><span class="title">Sofortnachrichten unter Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Mit <span class="app">Empathy</span> können Sie über eine Vielzahl von Netzwerken Sofortnachrichten verschicken sowie Anrufe und Video-Anrufe zu Freunden und Kollegen tätigen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-video.html.de" title="Bildtelefonie"><span class="title">Bildtelefonie</span><span class="linkdiv-dash"> — </span><span class="desc">Welche Anwendungen kann ich zur Bildtelefonie verwenden?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html.de" title="Sofortnachrichten unter Ubuntu"><span class="title">Sofortnachrichten unter Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Mit <span class="app">Empathy</span> können Sie über eine Vielzahl von Netzwerken Sofortnachrichten verschicken sowie Anrufe und Video-Anrufe zu Freunden und Kollegen tätigen.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html" title="Wie kann ich Skype unter Ubuntu verwenden?"><span class="title">Wie kann ich Skype unter Ubuntu verwenden?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> ist eine proprietäre Anwendung und muss unter Ubuntu manuell installiert werden.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html.de" title="Wie kann ich Skype unter Ubuntu verwenden?"><span class="title">Wie kann ich Skype unter Ubuntu verwenden?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> ist eine proprietäre Anwendung und muss unter Ubuntu manuell installiert werden.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -61,13 +61,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Drahtlose Verbindungen">Funknetzwerk</a></span>, <span class="link"><a href="net-wired.html" title="Kabelverbindungen">Kabelgebunden</a></span>, <span class="link"><a href="net-problem.html" title="Netzwerkprobleme">Verbindungsprobleme</a></span>, <span class="link"><a href="net-browser.html" title="Webbrowser">Webbrowser</a></span>, <span class="link"><a href="net-email.html" title="E-Mail und E-Mail-Software">E-Mail-Konten</a></span> …</span>
+<a href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.de" title="Drahtlose Verbindungen">Funknetzwerk</a></span>, <span class="link"><a href="net-wired.html.de" title="Kabelverbindungen">Kabelgebunden</a></span>, <span class="link"><a href="net-problem.html.de" title="Netzwerkprobleme">Verbindungsprobleme</a></span>, <span class="link"><a href="net-browser.html.de" title="Webbrowser">Webbrowser</a></span>, <span class="link"><a href="net-email.html.de" title="E-Mail und E-Mail-Software">E-Mail-Konten</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Online-Konten">Online-Konten</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Ein Konto hinzufügen">Ein Internet-Konto anlegen</a></span>, <span class="link"><a href="accounts-remove.html" title="Ein Konto entfernen">Ein Konto entfernen</a></span>, <span class="link"><a href="accounts-which-application.html" title="Internet-Dienste und Anwendungen">mehr über Dienste erfahren</a></span> …</span>
+<a href="accounts.html.de" title="Online-Konten">Online-Konten</a><span class="desc"> — <span class="link"><a href="accounts-add.html.de" title="Ein Konto hinzufügen">Ein Internet-Konto anlegen</a></span>, <span class="link"><a href="accounts-remove.html.de" title="Ein Konto entfernen">Ein Konto entfernen</a></span>, <span class="link"><a href="accounts-which-application.html.de" title="Internet-Dienste und Anwendungen">mehr über Dienste erfahren</a></span> …</span>
 </li></ul></div>
 </div></div>
 </div>

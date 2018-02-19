@@ -44,27 +44,27 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="keyboard.html" title="Тастатура">Тастатура</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="keyboard.html.sr" title="Тастатура">Тастатура</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html#apps" title="Програми и прозори">Програми и прозори</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.sr" title="Ваша радна површ">Радна површ</a> › <a class="trail" href="shell-overview.html.sr#apps" title="Програми и прозори">Програми и прозори</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Савети и трикови">Савети и трикови</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.sr" title="Савети и трикови">Савети и трикови</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="keyboard.html" title="Тастатура">Тастатура</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="keyboard.html.sr" title="Тастатура">Тастатура</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Корисне пречице тастатуре</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Ова страница обезбеђује преглед пречица тастатуре које могу да вам помогну да успешније користите вашу радну површ и програме. Ако уопште не можете да користите миша или показивачки уређај, погледајте <span class="link"><a href="keyboard-nav.html" title="Навигација тастатуром">Навигација тастатуром</a></span> за више података о кретању по корисничком сучељу само тастатуром.</p>
+<p class="p">Ова страница обезбеђује преглед пречица тастатуре које могу да вам помогну да успешније користите вашу радну површ и програме. Ако уопште не можете да користите миша или показивачки уређај, погледајте <span class="link"><a href="keyboard-nav.html.sr" title="Навигација тастатуром">Навигација тастатуром</a></span> за више података о кретању по корисничком сучељу само тастатуром.</p>
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="true"></div>
 <div class="inner">
 <div class="title title-table"><h2><span class="title">Кретање по радној површи</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p"><span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Ф1</kbd></span></span> или тастер <span class="key"><a href="keyboard-key-super.html" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span></p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Ф1</kbd></span></span> или тастер <span class="key"><a href="keyboard-key-super.html.sr" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span></p></td>
 <td><p class="p">Пребацујте се између прегледа <span class="gui">Активности</span> и радне површи. У прегледу, почните да куцате да одмах потражите ваше програме, контакте и документа.</p></td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>Таб</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="Пребацујте се између прозора">Брзо се пребацујте између прозора</a></span>. Држите притиснутим <span class="key"><kbd>Шифт</kbd></span> за преокренути поредак.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.sr" title="Пребацујте се између прозора">Брзо се пребацујте између прозора</a></span>. Држите притиснутим <span class="key"><kbd>Шифт</kbd></span> за преокренути поредак.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
@@ -92,11 +92,11 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>Страница горе</kbd></span></span> или <span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Стрелица на горе</kbd></span></span>, и <span class="keyseq"><span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>Страница доле</kbd></span></span> или <span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Стрелица на доле</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="Пребацујте се између радних простора">Пребацујте се између радних простора</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.sr" title="Пребацујте се између радних простора">Пребацујте се између радних простора</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>Шифт</kbd></span>+<span class="key"><kbd>Страница горе</kbd></span></span> и <span class="keyseq"><span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>Шифт</kbd></span>+<span class="key"><kbd>Страница доле</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="Преместите прозор на други радни простор">Преместите тренутни прозор на други радни простор</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.sr" title="Преместите прозор на други радни простор">Преместите тренутни прозор на други радни простор</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>Помак</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
@@ -108,15 +108,15 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Обриши</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html" title="Одјављивање, гашење, промена корисника">Искључите</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.sr" title="Одјављивање, гашење, промена корисника">Искључите</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>Л</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html#lock-screen" title="Закључавање екрана">Закључајте екран.</a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.sr#lock-screen" title="Закључавање екрана">Закључајте екран.</a></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>М</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Отворите <span class="link"><a href="shell-notifications.html#messagetray" title="Фиока порука">фиоку порука</a></span>. Притисните опет <span class="keyseq"><span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>М</kbd></span></span> или <span class="key"><kbd>Есц</kbd></span> да затворите.</p></td>
+<td style="border-top-style: solid;"><p class="p">Отворите <span class="link"><a href="shell-notifications.html.sr#messagetray" title="Фиока порука">фиоку порука</a></span>. Притисните опет <span class="keyseq"><span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>М</kbd></span></span> или <span class="key"><kbd>Есц</kbd></span> да затворите.</p></td>
 </tr>
 </table></div>
 </div>
@@ -156,19 +156,19 @@
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p"><span class="key"><kbd>Штампај екран</kbd></span></p></td>
-<td><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Прави снимак екрана">Направите слику екрана.</a></span></p></td>
+<td><p class="p"><span class="link"><a href="screen-shot-record.html.sr#screenshot" title="Прави снимак екрана">Направите слику екрана.</a></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Штампај екран</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Прави снимак екрана">Направите слику прозора.</a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.sr#screenshot" title="Прави снимак екрана">Направите слику прозора.</a></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Шифт</kbd></span>+<span class="key"><kbd>Штампај екран</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screenshot" title="Прави снимак екрана">Направите снимак области екрана</a></span>. Показивач се мења у нишан. Кликните и превуците да изаберете област.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.sr#screenshot" title="Прави снимак екрана">Направите снимак области екрана</a></span>. Показивач се мења у нишан. Кликните и превуците да изаберете област.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Шифт</kbd></span>+<span class="key"><kbd>Р</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html#screencast" title="Направите снимак екрана">Покрените и зауставите записивање снимка екрана.</a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.sr#screencast" title="Направите снимак екрана">Покрените и зауставите записивање снимка екрана.</a></span></p></td>
 </tr>
 </table></div>
 </div>
@@ -180,12 +180,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-overview.html#apps" title="Програми и прозори">Програми и прозори</a></li>
+<li class="links "><a href="shell-overview.html.sr#apps" title="Програми и прозори">Програми и прозори</a></li>
 <li class="links ">
-<a href="tips.html" title="Савети и трикови">Савети и трикови</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Унесите посебне знаке">Посебни знаци</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Средњи клик">пречице средњег клика</a></span>…</span>
+<a href="tips.html.sr" title="Савети и трикови">Савети и трикови</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.sr" title="Унесите посебне знаке">Посебни знаци</a></span>, <span class="link"><a href="mouse-middleclick.html.sr" title="Средњи клик">пречице средњег клика</a></span>…</span>
 </li>
 <li class="links ">
-<a href="keyboard.html" title="Тастатура">Тастатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Распореди тастатуре</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Учините да курсор тастатуре трепери">треперење курсора</a></span>, <span class="link"><a href="a11y.html#mobility" title="Оштећења покрета">приступачност тастатуре</a></span>…</span>
+<a href="keyboard.html.sr" title="Тастатура">Тастатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.sr" title="Use alternative keyboard layouts">Распореди тастатуре</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sr" title="Учините да курсор тастатуре трепери">треперење курсора</a></span>, <span class="link"><a href="a11y.html.sr#mobility" title="Оштећења покрета">приступачност тастатуре</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -193,16 +193,16 @@
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-nav.html" title="Навигација тастатуром">Навигација тастатуром</a><span class="desc"> — Користите програме и радну површ без миша.</span>
+<a href="keyboard-nav.html.sr" title="Навигација тастатуром">Навигација тастатуром</a><span class="desc"> — Користите програме и радну површ без миша.</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Подесите пречице тастатуре">Подесите пречице тастатуре</a><span class="desc"> — Одредите или измените пречице тастатуре у подешавањима <span class="gui">Тастатуре</span>.</span>
+<a href="keyboard-shortcuts-set.html.sr" title="Подесите пречице тастатуре">Подесите пречице тастатуре</a><span class="desc"> — Одредите или измените пречице тастатуре у подешавањима <span class="gui">Тастатуре</span>.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-menu.html" title="Шта је то тастер Изборник?">Шта је то тастер <span class="key"><kbd>Изборник</kbd></span>?</a><span class="desc"> — Тастер <span class="key"><kbd>Изборника</kbd></span> покреће приручни изборник тастатуром радије него ли десним кликом.</span>
+<a href="keyboard-key-menu.html.sr" title="Шта је то тастер Изборник?">Шта је то тастер <span class="key"><kbd>Изборник</kbd></span>?</a><span class="desc"> — Тастер <span class="key"><kbd>Изборника</kbd></span> покреће приручни изборник тастатуром радије него ли десним кликом.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html" title="Шта је то тастер Супер?">Шта је то тастер <span class="key"><kbd>Супер</kbd></span>?</a><span class="desc"> — Тастер <span class="key"><kbd>Супер</kbd></span> отвара преглед <span class="gui">Активности</span>. Обично се на тастатури налази поред тастера <span class="key"><kbd>Алт</kbd></span>.</span>
+<a href="keyboard-key-super.html.sr" title="Шта је то тастер Супер?">Шта је то тастер <span class="key"><kbd>Супер</kbd></span>?</a><span class="desc"> — Тастер <span class="key"><kbd>Супер</kbd></span> отвара преглед <span class="gui">Активности</span>. Обично се на тастатури налази поред тастера <span class="key"><kbd>Алт</kbd></span>.</span>
 </li>
 </ul></div>
 </div></div>

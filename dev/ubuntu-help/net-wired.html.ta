@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">வயர்டு பிணைய அமைப்பு</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html" title="வயர்டு (ஈத்தர்நெட்) பிணையத்திற்கு இணைத்தல்"><span class="title">வயர்டு (ஈத்தர்நெட்) பிணையத்திற்கு இணைத்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">பெரும்பாலான வயர்டு பிணைய இணைப்புகளை இணைக்க நீங்கள் ஒரு பிணைய கேபிளை இணைத்தால் போதும்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="ஒரு VPN க்கு இணைத்தல்"><span class="title">ஒரு VPN க்கு இணைத்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html" title="ஒரு நிலையான IP முகவரியுடனான ஒரு இணைப்பை உருவாக்குதல்"><span class="title">ஒரு நிலையான IP முகவரியுடனான ஒரு இணைப்பை உருவாக்குதல்</span><span class="linkdiv-dash"> — </span><span class="desc">ஒரு நிலையான IP முகவரியைப் பயன்படுத்தினால், உங்கள் கணினியில் இருந்து சில பிணைய சேவைகளை எளிதாக வழங்க முடியும்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="பிணைய அமைவுகளை கைமுறையாக அமைத்தல்"><span class="title">பிணைய அமைவுகளை கைமுறையாக அமைத்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
+<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html.ta" title="வயர்டு (ஈத்தர்நெட்) பிணையத்திற்கு இணைத்தல்"><span class="title">வயர்டு (ஈத்தர்நெட்) பிணையத்திற்கு இணைத்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">பெரும்பாலான வயர்டு பிணைய இணைப்புகளை இணைக்க நீங்கள் ஒரு பிணைய கேபிளை இணைத்தால் போதும்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html.ta" title="ஒரு VPN க்கு இணைத்தல்"><span class="title">ஒரு VPN க்கு இணைத்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html.ta" title="ஒரு நிலையான IP முகவரியுடனான ஒரு இணைப்பை உருவாக்குதல்"><span class="title">ஒரு நிலையான IP முகவரியுடனான ஒரு இணைப்பை உருவாக்குதல்</span><span class="linkdiv-dash"> — </span><span class="desc">ஒரு நிலையான IP முகவரியைப் பயன்படுத்தினால், உங்கள் கணினியில் இருந்து சில பிணைய சேவைகளை எளிதாக வழங்க முடியும்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html.ta" title="பிணைய அமைவுகளை கைமுறையாக அமைத்தல்"><span class="title">பிணைய அமைவுகளை கைமுறையாக அமைத்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
     automatically.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -60,7 +60,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ்</a></span>, <span class="link"><a href="net-wired.html" title="வயர்டு பிணைய அமைப்பு">வயர்டு</a></span>, <span class="link"><a href="net-problem.html" title="பிணைய சிக்கல்கள்">இணைப்பு சிக்கல்கள்</a></span>, <span class="link"><a href="net-browser.html" title="வலை உலாவிகள்">வலை உலாவல்</a></span>, <span class="link"><a href="net-email.html" title="மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்">மின்னஞ்சல் கணக்குகள்</a></span>…</span>
+<a href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ta" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ்</a></span>, <span class="link"><a href="net-wired.html.ta" title="வயர்டு பிணைய அமைப்பு">வயர்டு</a></span>, <span class="link"><a href="net-problem.html.ta" title="பிணைய சிக்கல்கள்">இணைப்பு சிக்கல்கள்</a></span>, <span class="link"><a href="net-browser.html.ta" title="வலை உலாவிகள்">வலை உலாவல்</a></span>, <span class="link"><a href="net-email.html.ta" title="மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்">மின்னஞ்சல் கணக்குகள்</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

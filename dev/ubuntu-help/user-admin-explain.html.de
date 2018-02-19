@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="user-accounts.html" title="Benutzerkonten">Benutzer</a> › <a class="trail" href="user-accounts.html#privileges" title="Benutzerrechte">Rechte</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="user-accounts.html.de" title="Benutzerkonten">Benutzer</a> › <a class="trail" href="user-accounts.html.de#privileges" title="Benutzerrechte">Rechte</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wie funktionieren Systemverwalter-Privilegien?</span></h1></div>
@@ -72,34 +72,34 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html#privileges" title="Benutzerrechte">Benutzerrechte</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.de#privileges" title="Benutzerrechte">Benutzerrechte</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-othersedit.html" title="Andere Benutzer können die Netzwerkverbindungen nicht bearbeiten">Andere Benutzer können die Netzwerkverbindungen nicht bearbeiten</a><span class="desc"> — Sie müssen die Option <span class="gui">Für alle Benutzer verfügbar</span> in den Verbindungseinstellungen des Netzwerks deaktivieren.</span>
+<a href="net-othersedit.html.de" title="Andere Benutzer können die Netzwerkverbindungen nicht bearbeiten">Andere Benutzer können die Netzwerkverbindungen nicht bearbeiten</a><span class="desc"> — Sie müssen die Option <span class="gui">Für alle Benutzer verfügbar</span> in den Verbindungseinstellungen des Netzwerks deaktivieren.</span>
 </li>
 <li class="links ">
-<a href="printing-name-location.html" title="Den Namen oder den Ort eines Druckers ändern">Den Namen oder den Ort eines Druckers ändern</a><span class="desc"> — So ändern Sie den Namen oder den Ort eines Druckers in den Druckereinstellungen.</span>
+<a href="printing-name-location.html.de" title="Den Namen oder den Ort eines Druckers ändern">Den Namen oder den Ort eines Druckers ändern</a><span class="desc"> — So ändern Sie den Namen oder den Ort eines Druckers in den Druckereinstellungen.</span>
 </li>
 <li class="links ">
-<a href="printing-setup-default-printer.html" title="Den Standarddrucker einrichten">Den Standarddrucker einrichten</a><span class="desc"> — Wählen Sie den Drucker, den Sie am häufigsten verwenden.</span>
+<a href="printing-setup-default-printer.html.de" title="Den Standarddrucker einrichten">Den Standarddrucker einrichten</a><span class="desc"> — Wählen Sie den Drucker, den Sie am häufigsten verwenden.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html" title="Durch administrative Einschränkungen verursachte Probleme">Durch administrative Einschränkungen verursachte Probleme</a><span class="desc"> — Einige Dinge, wie die Installation von Anwendungen, sind nur mit den Rechten des Systemverwalters möglich.</span>
+<a href="user-admin-problems.html.de" title="Durch administrative Einschränkungen verursachte Probleme">Durch administrative Einschränkungen verursachte Probleme</a><span class="desc"> — Einige Dinge, wie die Installation von Anwendungen, sind nur mit den Rechten des Systemverwalters möglich.</span>
 </li>
 <li class="links ">
-<a href="user-delete.html" title="Löschen eines Benutzerkontos">Löschen eines Benutzerkontos</a><span class="desc"> — Löschen Sie Benutzerkonten, die nicht mehr verwendet werden.</span>
+<a href="user-delete.html.de" title="Löschen eines Benutzerkontos">Löschen eines Benutzerkontos</a><span class="desc"> — Löschen Sie Benutzerkonten, die nicht mehr verwendet werden.</span>
 </li>
 <li class="links ">
-<a href="user-changepassword.html" title="Ändern Ihres Passworts">Ändern Ihres Passworts</a><span class="desc"> — Halten Sie Ihr Konto sicher, indem Sie Ihr Passwort häufig in den Benutzereinstellungen ändern.</span>
+<a href="user-changepassword.html.de" title="Ändern Ihres Passworts">Ändern Ihres Passworts</a><span class="desc"> — Halten Sie Ihr Konto sicher, indem Sie Ihr Passwort häufig in den Benutzereinstellungen ändern.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html" title="Ändern der Inhaber von Systemverwalterrechten">Ändern der Inhaber von Systemverwalterrechten</a><span class="desc"> — Sie können ändern, welche Benutzer Änderungen am System vornehmen dürfen, indem Sie Ihnen Systemverwalterrechte geben.</span>
+<a href="user-admin-change.html.de" title="Ändern der Inhaber von Systemverwalterrechten">Ändern der Inhaber von Systemverwalterrechten</a><span class="desc"> — Sie können ändern, welche Benutzer Änderungen am System vornehmen dürfen, indem Sie Ihnen Systemverwalterrechte geben.</span>
 </li>
 <li class="links ">
-<a href="user-changepicture.html" title="Ändern des Fotos für den Anmeldebildschirm">Ändern des Fotos für den Anmeldebildschirm</a><span class="desc"> — Fügen Sie Ihr Foto zum Anmeldefenster und zur Benutzeranzeige hinzu.</span>
+<a href="user-changepicture.html.de" title="Ändern des Fotos für den Anmeldebildschirm">Ändern des Fotos für den Anmeldebildschirm</a><span class="desc"> — Fügen Sie Ihr Foto zum Anmeldefenster und zur Benutzeranzeige hinzu.</span>
 </li>
 </ul></div>
 </div></div>

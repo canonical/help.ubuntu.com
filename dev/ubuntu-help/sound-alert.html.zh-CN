@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="media.html#sound" title="基本声音">声音</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="media.html.zh-CN#sound" title="基本声音">声音</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">选择或禁用警报声音</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">计算机将播放简短的响铃音，提醒当前的消息或事件。可以选择不同的声音主题，单独设置警报音量，或者禁用警报提醒声音。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Sound</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Sound Effects</span> tab, select an alert sound. Each sound
@@ -69,13 +69,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="基本声音">基本声音</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="更改音量大小">音量</a></span>、<span class="link"><a href="sound-usespeakers.html" title="使用不同的音箱或耳机">音箱和耳机</a></span>、<span class="link"><a href="sound-usemic.html" title="使用其他的麦克风">麦克风</a></span>…</span>
+<a href="media.html.zh-CN#sound" title="基本声音">基本声音</a><span class="desc"> — <span class="link"><a href="sound-volume.html.zh-CN" title="更改音量大小">音量</a></span>、<span class="link"><a href="sound-usespeakers.html.zh-CN" title="使用不同的音箱或耳机">音箱和耳机</a></span>、<span class="link"><a href="sound-usemic.html.zh-CN" title="使用其他的麦克风">麦克风</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y-visualalert.html" title="警告声响起时屏幕闪烁">警告声响起时屏幕闪烁</a><span class="desc"> — 播放警告声时，启用视觉警告：屏幕或窗口闪烁。</span>
+<a href="a11y-visualalert.html.zh-CN" title="警告声响起时屏幕闪烁">警告声响起时屏幕闪烁</a><span class="desc"> — 播放警告声时，启用视觉警告：屏幕或窗口闪烁。</span>
 </li></ul></div>
 </div></div>
 </div>

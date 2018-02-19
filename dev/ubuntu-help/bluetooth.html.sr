@@ -43,31 +43,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Хардвер и управљачки програми">Хардвер</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Блутут</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Блутут је бежични протокол који вам омогућава да повежете многе различите врсте уређаја на ваш рачунар. Блутут се углавном користи за слушалице са микрофоном и улазне уређаје као што су миш и тастатуре. Можете такође да користите Блутут да <span class="link"><a href="bluetooth-send-file.html" title="Пошаљите датотеке Блутут уређају">пошаљете датотеке између уређаја</a></span>, као оне са вашег рачунара на мобилни телефон.</p>
+<p class="p">Блутут је бежични протокол који вам омогућава да повежете многе различите врсте уређаја на ваш рачунар. Блутут се углавном користи за слушалице са микрофоном и улазне уређаје као што су миш и тастатуре. Можете такође да користите Блутут да <span class="link"><a href="bluetooth-send-file.html.sr" title="Пошаљите датотеке Блутут уређају">пошаљете датотеке између уређаја</a></span>, као оне са вашег рачунара на мобилни телефон.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html" title="Укључите или искључите блутут"><span class="title">Укључите или искључите блутут</span><span class="linkdiv-dash"> — </span><span class="desc">Укључите или искључите блутут уређај на вашем рачунару.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html" title="Искључите блутут уређај"><span class="title">Искључите блутут уређај</span><span class="linkdiv-dash"> — </span><span class="desc">Уклоните уређај са списка Блутут уређаја.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html" title="Повежите ваш рачунар на Блутут уређај"><span class="title">Повежите ваш рачунар на Блутут уређај</span><span class="linkdiv-dash"> — </span><span class="desc">Упарите Блутут уређаје.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html" title="Пошаљите датотеке Блутут уређају"><span class="title">Пошаљите датотеке Блутут уређају</span><span class="linkdiv-dash"> — </span><span class="desc">Делите датотеке Блутут уређајима као што је ваш телефон.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html" title="Управљајте дељењем преко блутута"><span class="title">Управљајте дељењем преко блутута</span><span class="linkdiv-dash"> — </span><span class="desc">Омогућите утовар датотека на ваш рачунар путем блутута.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html" title="Шта је видљивост блутута?"><span class="title">Шта је видљивост блутута?</span><span class="linkdiv-dash"> — </span><span class="desc">Да ли други уређаји могу да открију ваш рачунар.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html.sr" title="Укључите или искључите блутут"><span class="title">Укључите или искључите блутут</span><span class="linkdiv-dash"> — </span><span class="desc">Укључите или искључите блутут уређај на вашем рачунару.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html.sr" title="Искључите блутут уређај"><span class="title">Искључите блутут уређај</span><span class="linkdiv-dash"> — </span><span class="desc">Уклоните уређај са списка Блутут уређаја.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html.sr" title="Повежите ваш рачунар на Блутут уређај"><span class="title">Повежите ваш рачунар на Блутут уређај</span><span class="linkdiv-dash"> — </span><span class="desc">Упарите Блутут уређаје.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.sr" title="Пошаљите датотеке Блутут уређају"><span class="title">Пошаљите датотеке Блутут уређају</span><span class="linkdiv-dash"> — </span><span class="desc">Делите датотеке Блутут уређајима као што је ваш телефон.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.sr" title="Управљајте дељењем преко блутута"><span class="title">Управљајте дељењем преко блутута</span><span class="linkdiv-dash"> — </span><span class="desc">Омогућите утовар датотека на ваш рачунар путем блутута.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html.sr" title="Шта је видљивост блутута?"><span class="title">Шта је видљивост блутута?</span><span class="linkdiv-dash"> — </span><span class="desc">Да ли други уређаји могу да открију ваш рачунар.</span></a></div>
 </div></div></div>
 </div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Проблеми</span></h2></div>
 <div class="region">
-<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html" title="Не могу да повежем Блутут уређај"><span class="title">Не могу да повежем Блутут уређај</span><span class="linkdiv-dash"> — </span><span class="desc">Можда је прилагођивач искључен или нема управљачких програма, или је можда Блутут искључен или блокиран.</span></a></div></div></div></div></div>
+<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html.sr" title="Не могу да повежем Блутут уређај"><span class="title">Не могу да повежем Блутут уређај</span><span class="linkdiv-dash"> — </span><span class="desc">Можда је прилагођивач искључен или нема управљачких програма, или је можда Блутут искључен или блокиран.</span></a></div></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Још података</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="Општи проблеми">Хардверски проблеми</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.sr#problems" title="Општи проблеми">Хардверски проблеми</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -77,7 +77,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="Хардвер и управљачки програми">Хардвер и управљачки програми</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Општи проблеми">Хардверски проблеми</a></span>, <span class="link"><a href="printing.html" title="Штампање">штампачи</a></span>, <span class="link"><a href="power.html" title="Напајање и батерија">подешавања напајања</a></span>, <span class="link"><a href="color.html" title="Управљање бојом">управљање бојом</a></span>, <span class="link"><a href="bluetooth.html" title="Блутут">Блутут</a></span>, <span class="link"><a href="disk.html" title="Дискови и складишта">дискови</a></span>…</span>
+<a href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер и управљачки програми</a><span class="desc"> — <span class="link"><a href="hardware.html.sr#problems" title="Општи проблеми">Хардверски проблеми</a></span>, <span class="link"><a href="printing.html.sr" title="Штампање">штампачи</a></span>, <span class="link"><a href="power.html.sr" title="Напајање и батерија">подешавања напајања</a></span>, <span class="link"><a href="color.html.sr" title="Управљање бојом">управљање бојом</a></span>, <span class="link"><a href="bluetooth.html.sr" title="Блутут">Блутут</a></span>, <span class="link"><a href="disk.html.sr" title="Дискови и складишта">дискови</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

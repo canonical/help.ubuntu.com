@@ -45,69 +45,69 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
-<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 17.10</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html" title="初めて使う方へ"><span class="title">GNOME を初めて使う方へ</span><span class="linkdiv-dash"> — </span><span class="desc">GNOME は初めてですか? 使い方を一通り身に付けられます。</span></a></div></div></div></div>
+<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 18.04</span></div><div class="region"><div class="contents">
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.ja" title="初めて使う方へ"><span class="title">GNOME を初めて使う方へ</span><span class="linkdiv-dash"> — </span><span class="desc">GNOME は初めてですか? 使い方を一通り身に付けられます。</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="GNOME 入門"><span class="title">GNOME 入門</span><span class="linkdiv-dash"> — </span><span class="desc">デスクトップ、トップバー、および<span class="gui">アクティビティ</span>画面について画像をまじえた入門。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="アプリケーションの起動"><span class="title">アプリケーションの起動</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">アクティビティ</span>画面からアプリを起動します。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="ログアウト、電源オフ、ユーザー切り替え"><span class="title">ログアウト、電源オフ、ユーザー切り替え</span><span class="linkdiv-dash"> — </span><span class="desc">ログアウト、ユーザーの切り替えなどによる、アカウントの抜け方を学びます。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.ja" title="GNOME 入門"><span class="title">GNOME 入門</span><span class="linkdiv-dash"> — </span><span class="desc">デスクトップ、トップバー、および<span class="gui">アクティビティ</span>画面について画像をまじえた入門。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.ja" title="アプリケーションの起動"><span class="title">アプリケーションの起動</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">アクティビティ</span>画面からアプリを起動します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.ja" title="ログアウト、電源オフ、ユーザー切り替え"><span class="title">ログアウト、電源オフ、ユーザー切り替え</span><span class="linkdiv-dash"> — </span><span class="desc">ログアウト、ユーザーの切り替えなどによる、アカウントの抜け方を学びます。</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="shell-overview.html" title="Your desktop">Your desktop</a></div>
+<div class="links-grid-link"><a href="shell-overview.html.ja" title="Your desktop">Your desktop</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="clock-calendar.html" title="スケジュール表">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html" title="通知メッセージとメッセージトレイ">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html" title="便利なキーボードショートカット">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html" title="ウィンドウとワークスペース">windows and workspaces</a></span>…
+      <span class="link"><a href="clock-calendar.html.ja" title="スケジュール表">Calendar</a></span>,
+      <span class="link"><a href="shell-notifications.html.ja" title="通知メッセージとメッセージトレイ">notifications</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.ja" title="便利なキーボードショートカット">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-windows.html.ja" title="ウィンドウとワークスペース">windows and workspaces</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html" title="無線ネットワーク">無線</a></span>、<span class="link"><a href="net-wired.html" title="有線によるネットワーク">有線</a></span>、<span class="link"><a href="net-problem.html" title="ネットワーク関連の問題">接続関連の問題</a></span>、<span class="link"><a href="net-browser.html" title="ウェブブラウザー">web ブラウジング</a></span>、<span class="link"><a href="net-email.html" title="メールとメールソフトウェア">メールアカウント</a></span>…</span></div>
+<div class="links-grid-link"><a href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.ja" title="無線ネットワーク">無線</a></span>、<span class="link"><a href="net-wired.html.ja" title="有線によるネットワーク">有線</a></span>、<span class="link"><a href="net-problem.html.ja" title="ネットワーク関連の問題">接続関連の問題</a></span>、<span class="link"><a href="net-browser.html.ja" title="ウェブブラウザー">web ブラウジング</a></span>、<span class="link"><a href="net-email.html.ja" title="メールとメールソフトウェア">メールアカウント</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html" title="サウンド、ビデオ、画像">サウンド、ビデオ、画像</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="media.html#photos" title="写真とデジタルカメラ">デジタルカメラ</a></span>, <span class="link"><a href="media.html#music" title="音楽とポータブルオーディオプレイヤー">iPod</a></span>, <span class="link"><a href="media.html#photos" title="写真とデジタルカメラ">写真編集</a></span>, <span class="link"><a href="media.html#videos" title="ビデオとビデオカメラ">ビデオ再生</a></span>…</span></div>
+<div class="links-grid-link"><a href="media.html.ja" title="サウンド、ビデオ、画像">サウンド、ビデオ、画像</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="media.html.ja#photos" title="写真とデジタルカメラ">デジタルカメラ</a></span>, <span class="link"><a href="media.html.ja#music" title="音楽とポータブルオーディオプレイヤー">iPod</a></span>, <span class="link"><a href="media.html.ja#photos" title="写真とデジタルカメラ">写真編集</a></span>, <span class="link"><a href="media.html.ja#videos" title="ビデオとビデオカメラ">ビデオ再生</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="files.html" title="ファイル、フォルダーおよび検索">ファイル、フォルダーおよび検索</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="files-search.html" title="ファイルを検索する">検索</a></span>、<span class="link"><a href="files-delete.html" title="ファイル、フォルダーを削除する">ファイルの削除</a></span>、<span class="link"><a href="files.html#backup" title="バックアップ">バックアップ</a></span>, <span class="link"><a href="files.html#removable" title="リムーバブルドライブと外付けディスク">リムーバブルドライブ</a></span>…</span></div>
+<div class="links-grid-link"><a href="files.html.ja" title="ファイル、フォルダーおよび検索">ファイル、フォルダーおよび検索</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="files-search.html.ja" title="ファイルを検索する">検索</a></span>、<span class="link"><a href="files-delete.html.ja" title="ファイル、フォルダーを削除する">ファイルの削除</a></span>、<span class="link"><a href="files.html.ja#backup" title="バックアップ">バックアップ</a></span>, <span class="link"><a href="files.html.ja#removable" title="リムーバブルドライブと外付けディスク">リムーバブルドライブ</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a></div>
+<div class="links-grid-link"><a href="addremove.html.ja" title="Install &amp; remove software">Install &amp; remove software</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="アプリケーションの削除">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+      <span class="link"><a href="addremove-install.html.ja" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.ja" title="アプリケーションの削除">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.ja" title="Add software repositories">add repositories</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs.html" title="ユーザー設定およびシステム設定">ユーザー設定およびシステム設定</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html" title="キーボード">キーボード</a></span>, <span class="link"><a href="mouse.html" title="マウス">マウス</a></span>, <span class="link"><a href="prefs-display.html" title="Display &amp; screen">ディスプレイ</a></span>, <span class="link"><a href="prefs-language.html" title="地域と言語">言語</a></span>, <span class="link"><a href="user-accounts.html" title="ユーザーアカウント">ユーザーアカウント</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs.html.ja" title="ユーザー設定およびシステム設定">ユーザー設定およびシステム設定</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html.ja" title="キーボード">キーボード</a></span>, <span class="link"><a href="mouse.html.ja" title="マウス">マウス</a></span>, <span class="link"><a href="prefs-display.html.ja" title="Display &amp; screen">ディスプレイ</a></span>, <span class="link"><a href="prefs-language.html.ja" title="地域と言語">言語</a></span>, <span class="link"><a href="user-accounts.html.ja" title="ユーザーアカウント">ユーザーアカウント</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware.html" title="ハードウェアとドライバー">ハードウェアとドライバー</a></div>
+<div class="links-grid-link"><a href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェアとドライバー</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="hardware.html#problems" title="よくある問題">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html" title="印刷">printers</a></span>,
-      <span class="link"><a href="power.html" title="電源とバッテリー">power settings</a></span>,
-      <span class="link"><a href="color.html" title="カラーマネージメント">color management</a></span>,
-      <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html" title="Disks &amp; storage">disks</a></span>…
+      <span class="link"><a href="hardware.html.ja#problems" title="よくある問題">Hardware problems</a></span>,
+      <span class="link"><a href="printing.html.ja" title="印刷">printers</a></span>,
+      <span class="link"><a href="power.html.ja" title="電源とバッテリー">power settings</a></span>,
+      <span class="link"><a href="color.html.ja" title="カラーマネージメント">color management</a></span>,
+      <span class="link"><a href="bluetooth.html.ja" title="Bluetooth">Bluetooth</a></span>,
+      <span class="link"><a href="disk.html.ja" title="Disks &amp; storage">disks</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="a11y.html" title="ユニバーサルアクセス">ユニバーサルアクセス</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="a11y.html#vision" title="視覚障害">視覚</a></span>, <span class="link"><a href="a11y.html#sound" title="聴覚障害">聴覚</a></span>, <span class="link"><a href="a11y.html#mobility" title="運動障害">運動機能</a></span>, <span class="link"><a href="a11y-braille.html" title="点字で画面を読む">点字</a></span>, <span class="link"><a href="a11y-mag.html" title="画面を拡大表示する">画面拡大</a></span>…</span></div>
+<div class="links-grid-link"><a href="a11y.html.ja" title="ユニバーサルアクセス">ユニバーサルアクセス</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="a11y.html.ja#vision" title="視覚障害">視覚</a></span>, <span class="link"><a href="a11y.html.ja#sound" title="聴覚障害">聴覚</a></span>, <span class="link"><a href="a11y.html.ja#mobility" title="運動障害">運動機能</a></span>, <span class="link"><a href="a11y-braille.html.ja" title="点字で画面を読む">点字</a></span>, <span class="link"><a href="a11y-mag.html.ja" title="画面を拡大表示する">画面拡大</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="tips.html" title="ヒントとコツ">ヒントとコツ</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html" title="特殊な文字を入力する">特殊文字</a></span>、<span class="link"><a href="mouse-middleclick.html" title="中クリック">中クリックのショートカット</a></span>…</span></div>
+<div class="links-grid-link"><a href="tips.html.ja" title="ヒントとコツ">ヒントとコツ</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.ja" title="特殊な文字を入力する">特殊文字</a></span>、<span class="link"><a href="mouse-middleclick.html.ja" title="中クリック">中クリックのショートカット</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="more-help.html" title="もっと詳しく">もっと詳しく</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html" title="このガイドについて">このガイドを使う際のヒント</a></span>、<span class="link"><a href="get-involved.html" title="このガイドの改善に参加する">このガイドを改善するのを手伝う</a></span>…</span></div>
+<div class="links-grid-link"><a href="more-help.html.ja" title="もっと詳しく">もっと詳しく</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html.ja" title="このガイドについて">このガイドを使う際のヒント</a></span>、<span class="link"><a href="get-involved.html.ja" title="このガイドの改善に参加する">このガイドを改善するのを手伝う</a></span>…</span></div>
 </div>
 </div></div></div>
 </div></div>

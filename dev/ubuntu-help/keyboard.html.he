@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; drivers">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.he" title="Hardware &amp; drivers">Hardware</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="User &amp; system settings">Settings</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.he" title="User &amp; system settings">Settings</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,36 +56,36 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Region &amp; Language</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.he" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Universal access</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-nav.html" title="Keyboard navigation">Keyboard navigation</a><span class="desc"> — Use applications and the desktop without a mouse.</span>
+<a href="keyboard-nav.html.he" title="Keyboard navigation">Keyboard navigation</a><span class="desc"> — Use applications and the desktop without a mouse.</span>
 </li>
 <li class="links ">
-<a href="a11y-bouncekeys.html" title="Turn on bounce keys">Turn on bounce keys</a><span class="desc"> — Ignore quickly-repeated key presses of the same key.</span>
+<a href="a11y-bouncekeys.html.he" title="Turn on bounce keys">Turn on bounce keys</a><span class="desc"> — Ignore quickly-repeated key presses of the same key.</span>
 </li>
 <li class="links ">
-<a href="a11y-slowkeys.html" title="Turn on slow keys">Turn on slow keys</a><span class="desc"> — Have a delay between a key being pressed and that letter appearing on
+<a href="a11y-slowkeys.html.he" title="Turn on slow keys">Turn on slow keys</a><span class="desc"> — Have a delay between a key being pressed and that letter appearing on
     the screen.</span>
 </li>
 <li class="links ">
-<a href="a11y-stickykeys.html" title="Turn on sticky keys">Turn on sticky keys</a><span class="desc"> — Type keyboard shortcuts one key at a time rather than having to hold
+<a href="a11y-stickykeys.html.he" title="Turn on sticky keys">Turn on sticky keys</a><span class="desc"> — Type keyboard shortcuts one key at a time rather than having to hold
      down all of the keys at once.</span>
 </li>
 <li class="links ">
-<a href="keyboard-osk.html" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
+<a href="keyboard-osk.html.he" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
     mouse or a touchscreen.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-menu.html" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
+<a href="keyboard-key-menu.html.he" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
     rather than with a right-click.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html" title="What is the Super key?">What is the <span class="key"><kbd>Super</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
+<a href="keyboard-key-super.html.he" title="What is the Super key?">What is the <span class="key"><kbd>Super</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
     You can usually find it next to the <span class="key"><kbd>Alt</kbd></span> key on your
     keyboard.</span>
 </li>
@@ -95,22 +95,22 @@
 <div class="title title-links"><h2><span class="title">Other topics</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-cursor-blink.html" title="Make the keyboard cursor blink">Make the keyboard cursor blink</a><span class="desc"> — Make the insertion point blink and control how quickly it
+<a href="keyboard-cursor-blink.html.he" title="Make the keyboard cursor blink">Make the keyboard cursor blink</a><span class="desc"> — Make the insertion point blink and control how quickly it
     blinks.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Make the keyboard not repeat letters when you hold down a key,
+<a href="keyboard-repeat-keys.html.he" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Make the keyboard not repeat letters when you hold down a key,
     or change the delay and speed of repeat keys.</span>
 </li>
 <li class="links ">
-<a href="numeric-keypad.html" title="Numeric keypad">Numeric keypad</a><span class="desc"> — Enable the numeric keypad by default.</span>
+<a href="numeric-keypad.html.he" title="Numeric keypad">Numeric keypad</a><span class="desc"> — Enable the numeric keypad by default.</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html" title="Set keyboard shortcuts">Set keyboard shortcuts</a><span class="desc"> — Define or change keyboard shortcuts in <span class="gui">Keyboard</span>
+<a href="keyboard-shortcuts-set.html.he" title="Set keyboard shortcuts">Set keyboard shortcuts</a><span class="desc"> — Define or change keyboard shortcuts in <span class="gui">Keyboard</span>
     settings.</span>
 </li>
 <li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="Useful keyboard shortcuts">Useful keyboard shortcuts</a><span class="desc"> — Get around the desktop using the keyboard.</span>
+<a href="shell-keyboard-shortcuts.html.he" title="Useful keyboard shortcuts">Useful keyboard shortcuts</a><span class="desc"> — Get around the desktop using the keyboard.</span>
 </li>
 </ul></div>
 </div></div>
@@ -121,22 +121,22 @@
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html" title="Hardware &amp; drivers">Hardware &amp; drivers</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html" title="Printing">printers</a></span>,
-      <span class="link"><a href="power.html" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html" title="Color management">color management</a></span>,
-      <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html" title="Disks &amp; storage">disks</a></span>…
+<a href="hardware.html.he" title="Hardware &amp; drivers">Hardware &amp; drivers</a><span class="desc"> — 
+      <span class="link"><a href="hardware.html.he#problems" title="Common problems">Hardware problems</a></span>,
+      <span class="link"><a href="printing.html.he" title="Printing">printers</a></span>,
+      <span class="link"><a href="power.html.he" title="Power &amp; battery">power settings</a></span>,
+      <span class="link"><a href="color.html.he" title="Color management">color management</a></span>,
+      <span class="link"><a href="bluetooth.html.he" title="Bluetooth">Bluetooth</a></span>,
+      <span class="link"><a href="disk.html.he" title="Disks &amp; storage">disks</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="prefs.html" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html" title="Keyboard">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html" title="Mouse">mouse</a></span>,
-      <span class="link"><a href="prefs-display.html" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html" title="Region &amp; Language">languages</a></span>,
-      <span class="link"><a href="user-accounts.html" title="User accounts">user accounts</a></span>…
+<a href="prefs.html.he" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
+      <span class="link"><a href="keyboard.html.he" title="Keyboard">Keyboard</a></span>,
+      <span class="link"><a href="mouse.html.he" title="Mouse">mouse</a></span>,
+      <span class="link"><a href="prefs-display.html.he" title="Display &amp; screen">display</a></span>,
+      <span class="link"><a href="prefs-language.html.he" title="Region &amp; Language">languages</a></span>,
+      <span class="link"><a href="user-accounts.html.he" title="User accounts">user accounts</a></span>…
     </span>
 </li>
 </ul></div>

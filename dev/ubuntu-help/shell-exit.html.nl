@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Afmelden, uitschakelen, van gebruiker wisselen</span></h1></div>
@@ -54,7 +54,7 @@
 <div class="region"><div class="contents">
 <p class="p">Om anderen uw computer te laten gebruiken kunt u zich afmelden of aangemeld blijven en alleen van gebruiker wisselen. Als u alleen maar van gebruiker wisselt, dan zullen al uw toepassingen blijven draaien en alles zal zich bevinden waar u het achterliet wanneer u zich weer aanmeldt.</p>
 <p class="p">To <span class="gui">Log Out</span> or <span class="gui">Switch User</span>, click the
-  <span class="link"><a href="shell-introduction.html#yourname" title="U en uw computer">system menu</a></span> on the right side of the
+  <span class="link"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">system menu</a></span> on the right side of the
   top bar, click your name and then choose the right option.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Log Out</span> and <span class="gui">Switch User</span> entries only appear in
     the menu if you have more than one user account on your system.</p></div></div></div></div>
@@ -67,7 +67,7 @@
 <p class="p">If you’re leaving your computer for a short time, you should lock your
   screen to prevent other people from accessing your files or running
   applications. When you return, raise the
-  <span class="link"><a href="shell-lockscreen.html" title="Het vergrendelingsscherm">lock screen</a></span> curtain and enter your
+  <span class="link"><a href="shell-lockscreen.html.nl" title="Het vergrendelingsscherm">lock screen</a></span> curtain and enter your
   password to log back in. If you don’t lock your screen, it will lock
   automatically after a certain amount of time.</p>
 <p class="p">To lock your screen, click the system menu on the right side of the top
@@ -82,10 +82,10 @@
 <div class="title"><h3><span class="title">Zie ook</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Het scherm automatisch vergrendelen">Het scherm automatisch vergrendelen</a><span class="desc"> — Voorkom dat andere mensen uw computer gebruiken wanneer u even bij uw computer weg gaat.</span>
+<a href="privacy-screen-lock.html.nl" title="Het scherm automatisch vergrendelen">Het scherm automatisch vergrendelen</a><span class="desc"> — Voorkom dat andere mensen uw computer gebruiken wanneer u even bij uw computer weg gaat.</span>
 </li>
 <li class="links ">
-<a href="session-screenlocks.html" title="Het scherm vergrendeld zichzelf te snel">Het scherm vergrendeld zichzelf te snel</a><span class="desc"> — Wijzigen hoe lang er gewacht moet worden voordat het scherm vergrendeld wordt in de <span class="gui">Privacy</span>-instellingen.</span>
+<a href="session-screenlocks.html.nl" title="Het scherm vergrendeld zichzelf te snel">Het scherm vergrendeld zichzelf te snel</a><span class="desc"> — Wijzigen hoe lang er gewacht moet worden voordat het scherm vergrendeld wordt in de <span class="gui">Privacy</span>-instellingen.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -112,13 +112,13 @@
 <div class="title"><h3><span class="title">Zie ook</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html" title="Automatische pauzestand instellen">Automatische pauzestand instellen</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-autosuspend.html.nl" title="Automatische pauzestand instellen">Automatische pauzestand instellen</a><span class="desc"> — Configure your computer to suspend automatically.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Gebruik minder stroom en verbeter de levensduur van de accu">Gebruik minder stroom en verbeter de levensduur van de accu</a><span class="desc"> — Tips om het energieverbruik van uw computer te verminderen.</span>
+<a href="power-batterylife.html.nl" title="Gebruik minder stroom en verbeter de levensduur van de accu">Gebruik minder stroom en verbeter de levensduur van de accu</a><span class="desc"> — Tips om het energieverbruik van uw computer te verminderen.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?</a><span class="desc"> — Dit betekent dat uw computer in pauzestand wordt gezet zodat deze minder stroom verbruikt.</span>
+<a href="power-suspend.html.nl" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?</a><span class="desc"> — Dit betekent dat uw computer in pauzestand wordt gezet zodat deze minder stroom verbruikt.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -138,7 +138,7 @@
   administrative user, you may be asked for your password to power off.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">You may want to power off your computer if you wish to move it and do
     not have a battery, if your battery is low or does not hold charge well. A
-    powered off computer also uses <span class="link"><a href="power-batterylife.html" title="Gebruik minder stroom en verbeter de levensduur van de accu">less
+    powered off computer also uses <span class="link"><a href="power-batterylife.html.nl" title="Gebruik minder stroom en verbeter de levensduur van de accu">less
     energy</a></span> than one which is suspended.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -146,7 +146,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Zie ook</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html" title="Gebruik minder stroom en verbeter de levensduur van de accu">Gebruik minder stroom en verbeter de levensduur van de accu</a><span class="desc"> — Tips om het energieverbruik van uw computer te verminderen.</span>
+<a href="power-batterylife.html.nl" title="Gebruik minder stroom en verbeter de levensduur van de accu">Gebruik minder stroom en verbeter de levensduur van de accu</a><span class="desc"> — Tips om het energieverbruik van uw computer te verminderen.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -158,19 +158,19 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="index.html" title="Handleiding Ubuntu-desktop">Handleiding Ubuntu-desktop</a></li>
+<li class="links "><a href="index.html.nl" title="Handleiding Ubuntu-desktop">Handleiding Ubuntu-desktop</a></li>
 <li class="links ">
-<a href="shell-overview.html" title="Uw bureaublad">Uw bureaublad</a><span class="desc"> — <span class="link"><a href="clock-calendar.html" title="Agenda-afspraken">Agenda</a></span>, <span class="link"><a href="shell-notifications.html" title="Notifications and the message tray">meldingen</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Handige sneltoetsen">sneltoetsen</a></span>, <span class="link"><a href="shell-windows.html" title="Vensters en werkbladen">vensters en werkbladen</a></span>…</span>
+<a href="shell-overview.html.nl" title="Uw bureaublad">Uw bureaublad</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.nl" title="Agenda-afspraken">Agenda</a></span>, <span class="link"><a href="shell-notifications.html.nl" title="Notifications and the message tray">meldingen</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.nl" title="Handige sneltoetsen">sneltoetsen</a></span>, <span class="link"><a href="shell-windows.html.nl" title="Vensters en werkbladen">vensters en werkbladen</a></span>…</span>
 </li>
 <li class="links ">
-<a href="power.html" title="Voeding &amp; accu">Voeding &amp; accu</a><span class="desc"> — <span class="link"><a href="power-status.html" title="Controleer de accustatus">Accustatus</a></span>, <span class="link"><a href="power-suspend.html" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">pauzestand</a></span>, <span class="link"><a href="power-whydim.html" title="Waarom wordt mijn scherm na enige tijd zwart?">scherm dimmen</a></span>…</span>
+<a href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a><span class="desc"> — <span class="link"><a href="power-status.html.nl" title="Controleer de accustatus">Accustatus</a></span>, <span class="link"><a href="power-suspend.html.nl" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">pauzestand</a></span>, <span class="link"><a href="power-whydim.html.nl" title="Waarom wordt mijn scherm na enige tijd zwart?">scherm dimmen</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-autologin.html" title="Automatisch inloggen">Automatisch inloggen</a><span class="desc"> — Automatisch aanmelden voor wanneer u uw computer aanzet instellen.</span>
+<a href="user-autologin.html.nl" title="Automatisch inloggen">Automatisch inloggen</a><span class="desc"> — Automatisch aanmelden voor wanneer u uw computer aanzet instellen.</span>
 </li></ul></div>
 </div></div>
 </div>

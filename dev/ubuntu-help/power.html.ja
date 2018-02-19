@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="ハードウェアとドライバー">ハードウェア</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="ユーザー設定およびシステム設定">設定</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ja" title="ユーザー設定およびシステム設定">設定</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,28 +54,28 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-status.html" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-wireless.html" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html" title="コンピューターのハイバネートはどのようにすればいいですか?"><span class="title">コンピューターのハイバネートはどのようにすればいいですか?</span><span class="linkdiv-dash"> — </span><span class="desc">Hibernate is disabled by default since it's not well supported.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-closelid.html" title="コンピューターの蓋を閉めるとオフになるのはなぜですか?"><span class="title">コンピューターの蓋を閉めるとオフになるのはなぜですか?</span><span class="linkdiv-dash"> — </span><span class="desc">ラップトップは蓋を閉めると節電のためスリープ状態に入ります。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-status.html.ja" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.ja" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.ja" title="コンピューターのハイバネートはどのようにすればいいですか?"><span class="title">コンピューターのハイバネートはどのようにすればいいですか?</span><span class="linkdiv-dash"> — </span><span class="desc">Hibernate is disabled by default since it's not well supported.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.ja" title="コンピューターの蓋を閉めるとオフになるのはなぜですか?"><span class="title">コンピューターの蓋を閉めるとオフになるのはなぜですか?</span><span class="linkdiv-dash"> — </span><span class="desc">ラップトップは蓋を閉めると節電のためスリープ状態に入ります。</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-suspend.html" title="コンピューターをサスペンドしたらどうなりますか?"><span class="title">コンピューターをサスペンドしたらどうなりますか?</span><span class="linkdiv-dash"> — </span><span class="desc">サスペンドするとコンピューターはスリープ状態となるため、消費電力が少なくなります。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html" title="ラップトップのバッテリーを長く使う"><span class="title">ラップトップのバッテリーを長く使う</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="ログアウト、電源オフ、ユーザー切り替え"><span class="title">ログアウト、電源オフ、ユーザー切り替え</span><span class="linkdiv-dash"> — </span><span class="desc">ログアウト、ユーザーの切り替えなどによる、アカウントの抜け方を学びます。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batterylife.html" title="電力の消費を抑えてバッテリー長持ちさせる"><span class="title">電力の消費を抑えてバッテリー長持ちさせる</span><span class="linkdiv-dash"> — </span><span class="desc">コンピューターの電力消費を抑えるためのヒントです。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspend.html.ja" title="コンピューターをサスペンドしたらどうなりますか?"><span class="title">コンピューターをサスペンドしたらどうなりますか?</span><span class="linkdiv-dash"> — </span><span class="desc">サスペンドするとコンピューターはスリープ状態となるため、消費電力が少なくなります。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.ja" title="ラップトップのバッテリーを長く使う"><span class="title">ラップトップのバッテリーを長く使う</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.ja" title="ログアウト、電源オフ、ユーザー切り替え"><span class="title">ログアウト、電源オフ、ユーザー切り替え</span><span class="linkdiv-dash"> — </span><span class="desc">ログアウト、ユーザーの切り替えなどによる、アカウントの抜け方を学びます。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.ja" title="電力の消費を抑えてバッテリー長持ちさせる"><span class="title">電力の消費を抑えてバッテリー長持ちさせる</span><span class="linkdiv-dash"> — </span><span class="desc">コンピューターの電力消費を抑えるためのヒントです。</span></a></div>
 </div>
 </div></div></div></div>
 <div id="saving" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Power saving settings</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html" title="Enable automatic brightness"><span class="title">Enable automatic brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.ja" title="Enable automatic brightness"><span class="title">Enable automatic brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.ja" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html" title="Set up automatic suspend"><span class="title">Set up automatic suspend</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your computer to suspend automatically.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html" title="しばらくすると画面が暗くなるのはなぜですか?"><span class="title">しばらくすると画面が暗くなるのはなぜですか?</span><span class="linkdiv-dash"> — </span><span class="desc">節電のためコンピューターがアイドル状態になると画面が暗くなります。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.ja" title="Set up automatic suspend"><span class="title">Set up automatic suspend</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your computer to suspend automatically.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.ja" title="しばらくすると画面が暗くなるのはなぜですか?"><span class="title">しばらくすると画面が暗くなるのはなぜですか?</span><span class="linkdiv-dash"> — </span><span class="desc">節電のためコンピューターがアイドル状態になると画面が暗くなります。</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -83,12 +83,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Questions</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html" title="Why did my computer turn off when the battery got to 10%?"><span class="title">Why did my computer turn off when the battery got to 10%?</span><span class="linkdiv-dash"> — </span><span class="desc">完全に放電させてしまうのはバッテリーによくありません。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html" title="Windows や Mac OS と比べるとバッテリー寿命が短いのはなぜですか?"><span class="title">Windows や Mac OS と比べるとバッテリー寿命が短いのはなぜですか?</span><span class="linkdiv-dash"> — </span><span class="desc">製造元による調整および異なるバッテリー寿命の推定がこの問題の原因である可能性があります。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html.ja" title="Why did my computer turn off when the battery got to 10%?"><span class="title">Why did my computer turn off when the battery got to 10%?</span><span class="linkdiv-dash"> — </span><span class="desc">完全に放電させてしまうのはバッテリーによくありません。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html.ja" title="Windows や Mac OS と比べるとバッテリー寿命が短いのはなぜですか?"><span class="title">Windows や Mac OS と比べるとバッテリー寿命が短いのはなぜですか?</span><span class="linkdiv-dash"> — </span><span class="desc">製造元による調整および異なるバッテリー寿命の推定がこの問題の原因である可能性があります。</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html" title="バッテリーで駆動させるとラップトップが遅くなるのはなぜですか?"><span class="title">バッテリーで駆動させるとラップトップが遅くなるのはなぜですか?</span><span class="linkdiv-dash"> — </span><span class="desc">バッテリーで駆動させると意図的に稼働速度が遅くなるタイプのラップトップがあります。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html" title="バッテリー残量の表示が間違っている"><span class="title">バッテリー残量の表示が間違っている</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">バッテリーアイコン</span>をクリックして表示されるバッテリー残量は推定値です。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html.ja" title="バッテリーで駆動させるとラップトップが遅くなるのはなぜですか?"><span class="title">バッテリーで駆動させるとラップトップが遅くなるのはなぜですか?</span><span class="linkdiv-dash"> — </span><span class="desc">バッテリーで駆動させると意図的に稼働速度が遅くなるタイプのラップトップがあります。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html.ja" title="バッテリー残量の表示が間違っている"><span class="title">バッテリー残量の表示が間違っている</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">バッテリーアイコン</span>をクリックして表示されるバッテリー残量は推定値です。</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -97,21 +97,21 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html" title="コンピューターがかなり熱くなります"><span class="title">コンピューターがかなり熱くなります</span><span class="linkdiv-dash"> — </span><span class="desc">コンピューターが熱を持つのは普通ですが、熱くなり過ぎるとオーバーヒートを起して損傷する恐れがあります。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html" title="コンピューターの電源が入りません"><span class="title">コンピューターの電源が入りません</span><span class="linkdiv-dash"> — </span><span class="desc">電源ケーブルの接触が緩い、ハードウェアに問題があるなどが原因として挙げられます。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html" title="コンピューターをサスペンドしたあと復帰しないのはなぜですか?"><span class="title">コンピューターをサスペンドしたあと復帰しないのはなぜですか?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html.ja" title="コンピューターがかなり熱くなります"><span class="title">コンピューターがかなり熱くなります</span><span class="linkdiv-dash"> — </span><span class="desc">コンピューターが熱を持つのは普通ですが、熱くなり過ぎるとオーバーヒートを起して損傷する恐れがあります。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.ja" title="コンピューターの電源が入りません"><span class="title">コンピューターの電源が入りません</span><span class="linkdiv-dash"> — </span><span class="desc">電源ケーブルの接触が緩い、ハードウェアに問題があるなどが原因として挙げられます。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.ja" title="コンピューターをサスペンドしたあと復帰しないのはなぜですか?"><span class="title">コンピューターをサスペンドしたあと復帰しないのはなぜですか?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html" title="コンピューターを再開すると無線ネットワークの接続が切れます"><span class="title">コンピューターを再開すると無線ネットワークの接続が切れます</span><span class="linkdiv-dash"> — </span><span class="desc">一部の無線デバイスは、コンピューターのサスペンドをうまく処理できず、正常に再開できないことがあります。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html" title="ラップトップのファンが常に作動しています"><span class="title">ラップトップのファンが常に作動しています</span><span class="linkdiv-dash"> — </span><span class="desc">ファン制御ソフトウェアがインストールされていないか、ラップトップの作動熱で高温になっている可能性があります。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-othercountry.html" title="他の国の電源でもコンピューターは動作しますか?"><span class="title">他の国の電源でもコンピューターは動作しますか?</span><span class="linkdiv-dash"> — </span><span class="desc">動作しますが、異なるタイプの電源ケーブルまたは旅行用アダプターが必要になる場合があります。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html.ja" title="コンピューターを再開すると無線ネットワークの接続が切れます"><span class="title">コンピューターを再開すると無線ネットワークの接続が切れます</span><span class="linkdiv-dash"> — </span><span class="desc">一部の無線デバイスは、コンピューターのサスペンドをうまく処理できず、正常に再開できないことがあります。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html.ja" title="ラップトップのファンが常に作動しています"><span class="title">ラップトップのファンが常に作動しています</span><span class="linkdiv-dash"> — </span><span class="desc">ファン制御ソフトウェアがインストールされていないか、ラップトップの作動熱で高温になっている可能性があります。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-othercountry.html.ja" title="他の国の電源でもコンピューターは動作しますか?"><span class="title">他の国の電源でもコンピューターは動作しますか?</span><span class="linkdiv-dash"> — </span><span class="desc">動作しますが、異なるタイプの電源ケーブルまたは旅行用アダプターが必要になる場合があります。</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">詳細</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html#problems" title="よくある問題">ハードウェアの問題</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.ja#problems" title="よくある問題">ハードウェアの問題</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -122,17 +122,17 @@
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html" title="ハードウェアとドライバー">ハードウェアとドライバー</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html#problems" title="よくある問題">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html" title="印刷">printers</a></span>,
-      <span class="link"><a href="power.html" title="電源とバッテリー">power settings</a></span>,
-      <span class="link"><a href="color.html" title="カラーマネージメント">color management</a></span>,
-      <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html" title="Disks &amp; storage">disks</a></span>…
+<a href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェアとドライバー</a><span class="desc"> — 
+      <span class="link"><a href="hardware.html.ja#problems" title="よくある問題">Hardware problems</a></span>,
+      <span class="link"><a href="printing.html.ja" title="印刷">printers</a></span>,
+      <span class="link"><a href="power.html.ja" title="電源とバッテリー">power settings</a></span>,
+      <span class="link"><a href="color.html.ja" title="カラーマネージメント">color management</a></span>,
+      <span class="link"><a href="bluetooth.html.ja" title="Bluetooth">Bluetooth</a></span>,
+      <span class="link"><a href="disk.html.ja" title="Disks &amp; storage">disks</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="prefs.html" title="ユーザー設定およびシステム設定">ユーザー設定およびシステム設定</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="キーボード">キーボード</a></span>, <span class="link"><a href="mouse.html" title="マウス">マウス</a></span>, <span class="link"><a href="prefs-display.html" title="Display &amp; screen">ディスプレイ</a></span>, <span class="link"><a href="prefs-language.html" title="地域と言語">言語</a></span>, <span class="link"><a href="user-accounts.html" title="ユーザーアカウント">ユーザーアカウント</a></span>…</span>
+<a href="prefs.html.ja" title="ユーザー設定およびシステム設定">ユーザー設定およびシステム設定</a><span class="desc"> — <span class="link"><a href="keyboard.html.ja" title="キーボード">キーボード</a></span>, <span class="link"><a href="mouse.html.ja" title="マウス">マウス</a></span>, <span class="link"><a href="prefs-display.html.ja" title="Display &amp; screen">ディスプレイ</a></span>, <span class="link"><a href="prefs-language.html.ja" title="地域と言語">言語</a></span>, <span class="link"><a href="user-accounts.html.ja" title="ユーザーアカウント">ユーザーアカウント</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

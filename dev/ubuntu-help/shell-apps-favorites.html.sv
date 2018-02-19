@@ -43,15 +43,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html#desktop" title="Anpassa ditt skrivbord">Anpassa ditt skrivbord</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="shell-overview.html.sv" title="Ditt skrivbord">Skrivbord</a> › <a class="trail" href="shell-overview.html.sv#desktop" title="Anpassa ditt skrivbord">Anpassa ditt skrivbord</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nåla fast dina favoritprogram i snabbstartspanelen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">För att lägga till ett program i <span class="link"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">snabbstartspanelen</a></span> för enkel åtkomst:</p>
+<p class="p">För att lägga till ett program i <span class="link"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">snabbstartspanelen</a></span> för enkel åtkomst:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> genom att klicka på <span class="gui">Aktiviteter</span> i övre vänstra hörnet av skärmen</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> genom att klicka på <span class="gui">Aktiviteter</span> i övre vänstra hörnet av skärmen</p></li>
 <li class="steps"><p class="p">Klicka på rutnätsknappen i snabbstartspanelen och hitta programmet du vill lägga till.</p></li>
 <li class="steps">
 <p class="p">Högerklicka på programikonen och välj <span class="gui">Lägg till som favorit</span>.</p>
@@ -65,12 +65,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#desktop" title="Anpassa ditt skrivbord">Anpassa ditt skrivbord</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.sv#desktop" title="Anpassa ditt skrivbord">Anpassa ditt skrivbord</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html" title="Starta program">Starta program</a><span class="desc"> — Starta program från översiktsvyn <span class="gui">Aktiviteter</span>.</span>
+<a href="shell-apps-open.html.sv" title="Starta program">Starta program</a><span class="desc"> — Starta program från översiktsvyn <span class="gui">Aktiviteter</span>.</span>
 </li></ul></div>
 </div></div>
 </div>

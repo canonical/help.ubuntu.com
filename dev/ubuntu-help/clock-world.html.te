@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="clock.html" title="తేదీ &amp; సమయం">తేదీ  &amp; సమయం</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.te" title="వాడుకరి &amp; వ్యవస్థ అమరికలు">అమరికలు</a> » <a class="trail" href="clock.html.te" title="తేదీ &amp; సమయం">తేదీ  &amp; సమయం</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Add a world clock</span></h1></div>
@@ -82,11 +82,11 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html" title="తేదీ &amp; సమయం">తేదీ  &amp; సమయం</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html" title="తేదీ మరియు సమయం మార్చండి">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html" title="మీ సమయక్షేత్రాన్ని మార్చండి">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html" title="క్యాలెండరు నియామకాలు">calendar and appointments</a></span>…
+<a href="clock.html.te" title="తేదీ &amp; సమయం">తేదీ  &amp; సమయం</a><span class="desc"> — 
+      <span class="link"><a href="clock-set.html.te" title="తేదీ మరియు సమయం మార్చండి">Set date and time</a></span>,
+      <span class="link"><a href="clock-world.html.te" title="Add a world clock">world clocks</a></span>,
+      <span class="link"><a href="clock-timezone.html.te" title="మీ సమయక్షేత్రాన్ని మార్చండి">timezone</a></span>,
+      <span class="link"><a href="clock-calendar.html.te" title="క్యాలెండరు నియామకాలు">calendar and appointments</a></span>…
     </span>
 </li></ul></div>
 </div></div>

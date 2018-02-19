@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-browser.html" title="Περιηγητές Ιστού">Περιηγητές Ιστού</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-browser.html.el" title="Περιηγητές Ιστού">Περιηγητές Ιστού</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Εγκατάσταση πρόσθετου για το flash</span></h1></div>
@@ -74,7 +74,7 @@ offered, there are still some websites which won't work without Flash.</p>
 <p class="p">The <span class="app">adobe-flashplugin</span> package provides both the NPAPI and PPAPI plug-ins, i.e. it provides
  Flash for both Firefox and Chromium like web browsers.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Make sure that the <span class="link"><a href="addremove-sources.html#canonical-partner" title="Ενεργοποιήστε το Αποθετήριο συνεργατών της Canonical.">Canonical Partner repository is activated</a></span>.</p></li>
+<li class="steps"><p class="p">Make sure that the <span class="link"><a href="addremove-sources.html.el#canonical-partner" title="Ενεργοποιήστε το Αποθετήριο συνεργατών της Canonical.">Canonical Partner repository is activated</a></span>.</p></li>
 <li class="steps"><p class="p">Install the <span class="link"><a href="https://apps.ubuntu.com/cat/applications/adobe-flashplugin" title="https://apps.ubuntu.com/cat/applications/adobe-flashplugin">adobe-flashplugin</a></span> package.</p></li>
 <li class="steps"><p class="p">Restart your browser.</p></li>
 </ol></div></div></div>
@@ -103,7 +103,7 @@ offered, there are still some websites which won't work without Flash.</p>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Περιηγητές Ιστού">Περιηγητές Ιστού</a><span class="desc"> — <span class="link"><a href="net-default-browser.html" title="Αλλαγή του προεπιλεγμένου περιηγητή διαδικτύου">Αλλαγή προεπιλεγμένου περιηγητή</a></span>, <span class="link"><a href="net-install-flash.html" title="Εγκατάσταση πρόσθετου για το flash">Εγκατάσταση του Flash</a></span>…</span>
+<a href="net-browser.html.el" title="Περιηγητές Ιστού">Περιηγητές Ιστού</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.el" title="Αλλαγή του προεπιλεγμένου περιηγητή διαδικτύου">Αλλαγή προεπιλεγμένου περιηγητή</a></span>, <span class="link"><a href="net-install-flash.html.el" title="Εγκατάσταση πρόσθετου για το flash">Εγκατάσταση του Flash</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

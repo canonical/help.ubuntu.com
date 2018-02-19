@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-security.html" title="Mantenerse seguro en Internet">Mantenerse seguro en Internet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » <a class="trail" href="net-security.html.es" title="Mantenerse seguro en Internet">Mantenerse seguro en Internet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Puertos de red usados frecuentemente</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Esta es una lista de los puertos usados habitualmente por aplicaciones que proporcionan servicios de red, como compartición de archivos o visualización de escritorios remotos. Puede cambiar el cortafuegos de su sistema para que <span class="link"><a href="net-firewall-on-off.html" title="Activar y bloquear el acceso al cortafuegos">permita o deniegue el acceso</a></span> a estas aplicaciones. Hay cientos de puertos en uso, por lo que la tabla no está completa.</p>
+<p class="p">Esta es una lista de los puertos usados habitualmente por aplicaciones que proporcionan servicios de red, como compartición de archivos o visualización de escritorios remotos. Puede cambiar el cortafuegos de su sistema para que <span class="link"><a href="net-firewall-on-off.html.es" title="Activar y bloquear el acceso al cortafuegos">permita o deniegue el acceso</a></span> a estas aplicaciones. Hay cientos de puertos en uso, por lo que la tabla no está completa.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
 <thead><tr>
 <td><p class="p">Puerto</p></td>
@@ -96,13 +96,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Mantenerse seguro en Internet">Mantenerse seguro en Internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="¿Necesito software antivirus?">Software antivirus</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Activar y bloquear el acceso al cortafuegos">cortafuegos básico</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Activar y bloquear el acceso al cortafuegos">puertos del cortafuegos</a></span>…</span>
+<a href="net-security.html.es" title="Mantenerse seguro en Internet">Mantenerse seguro en Internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.es" title="¿Necesito software antivirus?">Software antivirus</a></span>, <span class="link"><a href="net-firewall-on-off.html.es" title="Activar y bloquear el acceso al cortafuegos">cortafuegos básico</a></span>, <span class="link"><a href="net-firewall-on-off.html.es" title="Activar y bloquear el acceso al cortafuegos">puertos del cortafuegos</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-on-off.html" title="Activar y bloquear el acceso al cortafuegos">Activar y bloquear el acceso al cortafuegos</a><span class="desc"> — Puede controlar qué programas son accesible en la red. Esto le ayuda a mantener su equipo seguro.</span>
+<a href="net-firewall-on-off.html.es" title="Activar y bloquear el acceso al cortafuegos">Activar y bloquear el acceso al cortafuegos</a><span class="desc"> — Puede controlar qué programas son accesible en la red. Esto le ayuda a mantener su equipo seguro.</span>
 </li></ul></div>
 </div></div>
 </div>

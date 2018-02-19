@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Your desktop">Namizje</a> › <a class="trail" href="shell-overview.html#apps" title="Programi in okna">Programi in okna</a> » <a class="trail" href="shell-windows.html" title="Okna in delovne površine">Okna in delovne površine</a> › <a class="trail" href="shell-windows.html#working-with-workspaces" title="Delo z delovnimi površinami">Delovne površine</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="shell-overview.html.sl" title="Your desktop">Namizje</a> › <a class="trail" href="shell-overview.html.sl#apps" title="Programi in okna">Programi in okna</a> » <a class="trail" href="shell-windows.html.sl" title="Okna in delovne površine">Okna in delovne površine</a> › <a class="trail" href="shell-windows.html.sl#working-with-workspaces" title="Delo z delovnimi površinami">Delovne površine</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kaj je delovna površina in kako mi bo pomagala?</span></h1></div>
@@ -58,7 +58,7 @@
 <p class="p">Uporaba delovnih površin:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the
-    <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview, move your cursor
+    <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview, move your cursor
     to the right-most side of the screen.</p></li>
 <li class="list"><p class="p">A vertical panel will appear showing
     workspaces in use, plus an empty workspace. This is the
@@ -77,16 +77,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-workspaces" title="Delo z delovnimi površinami">Delo z delovnimi površinami</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.sl#working-with-workspaces" title="Delo z delovnimi površinami">Delo z delovnimi površinami</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-workspaces-switch.html" title="Preklop med delovnimi površinami">Preklop med delovnimi površinami</a><span class="desc"> — Use the workspace selector.</span>
+<a href="shell-workspaces-switch.html.sl" title="Preklop med delovnimi površinami">Preklop med delovnimi površinami</a><span class="desc"> — Use the workspace selector.</span>
 </li>
 <li class="links ">
-<a href="shell-workspaces-movewindow.html" title="Premakne trenutno okno na drugo delovno površino">Premakne trenutno okno na drugo delovno površino</a><span class="desc"> — Go to the <span class="gui">Activities</span> overview and drag the window to a
+<a href="shell-workspaces-movewindow.html.sl" title="Premakne trenutno okno na drugo delovno površino">Premakne trenutno okno na drugo delovno površino</a><span class="desc"> — Go to the <span class="gui">Activities</span> overview and drag the window to a
     different workspace.</span>
 </li>
 </ul></div>

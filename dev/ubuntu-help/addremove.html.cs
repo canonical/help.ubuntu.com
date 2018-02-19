@@ -43,29 +43,29 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Instalace a odstranění softwaru</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-install.html" title="Instalace dodatečných aplikací"><span class="title">Instalace dodatečných aplikací</span><span class="linkdiv-dash"> — </span><span class="desc">Použijte <span class="app">Ubuntu Software</span> k instalaci dodatečných aplikací a vylepšete své Ubuntu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html" title="Odstranění aplikace"><span class="title">Odstranění aplikace</span><span class="linkdiv-dash"> — </span><span class="desc">Odstraňte aplikace, které již nepoužíváte.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html" title="Použití Synaptic pro pokročilejší správu softwaru"><span class="title">Použití Synaptic pro pokročilejší správu softwaru</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic je efektivní, ale komplikovanou alternativou k <span class="app">Ubuntu Software</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html" title="Přidávání zdrojů Personal Package Archive (PPA)"><span class="title">Přidávání zdrojů Personal Package Archive (PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">Přidejte PPA pro rozšíření zdrojů softwaru, které Ubuntu používá pro instalaci a aktualizaci.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.cs" title="Instalace dodatečných aplikací"><span class="title">Instalace dodatečných aplikací</span><span class="linkdiv-dash"> — </span><span class="desc">Použijte <span class="app">Ubuntu Software</span> k instalaci dodatečných aplikací a vylepšete své Ubuntu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html.cs" title="Odstranění aplikace"><span class="title">Odstranění aplikace</span><span class="linkdiv-dash"> — </span><span class="desc">Odstraňte aplikace, které již nepoužíváte.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.cs" title="Použití Synaptic pro pokročilejší správu softwaru"><span class="title">Použití Synaptic pro pokročilejší správu softwaru</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic je efektivní, ale komplikovanou alternativou k <span class="app">Ubuntu Software</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html.cs" title="Přidávání zdrojů Personal Package Archive (PPA)"><span class="title">Přidávání zdrojů Personal Package Archive (PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">Přidejte PPA pro rozšíření zdrojů softwaru, které Ubuntu používá pro instalaci a aktualizaci.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html" title="Přidávání zdrojů softwaru"><span class="title">Přidávání zdrojů softwaru</span><span class="linkdiv-dash"> — </span><span class="desc">Přidejte repozitáře pro rozšíření zdrojů softwaru, které Ubuntu používá pro instalaci a aktualizaci.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html" title="Instalace jazyků"><span class="title">Instalace jazyků</span><span class="linkdiv-dash"> — </span><span class="desc">Instalace překladů a souvisejících balíků jazykové podpory.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html" title="Tvorba spouštěcího disku"><span class="title">Tvorba spouštěcího disku</span><span class="linkdiv-dash"> — </span><span class="desc">Převeďte jednotku USB flash do svazku, ze kterého budete moci spustit a instalovat Ubuntu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html.cs" title="Přidávání zdrojů softwaru"><span class="title">Přidávání zdrojů softwaru</span><span class="linkdiv-dash"> — </span><span class="desc">Přidejte repozitáře pro rozšíření zdrojů softwaru, které Ubuntu používá pro instalaci a aktualizaci.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html.cs" title="Instalace jazyků"><span class="title">Instalace jazyků</span><span class="linkdiv-dash"> — </span><span class="desc">Instalace překladů a souvisejících balíků jazykové podpory.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.cs" title="Tvorba spouštěcího disku"><span class="title">Tvorba spouštěcího disku</span><span class="linkdiv-dash"> — </span><span class="desc">Převeďte jednotku USB flash do svazku, ze kterého budete moci spustit a instalovat Ubuntu.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Průvodce pracovním prostředím Ubuntu">Průvodce pracovním prostředím Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu">Průvodce pracovním prostředím Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

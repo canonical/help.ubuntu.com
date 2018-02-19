@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">ネットワーク用語とヒント</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-findip.html" title="IP アドレスを確認する"><span class="title">IP アドレスを確認する</span><span class="linkdiv-dash"> — </span><span class="desc">ネットワーク関連の問題の原因を解決する際、IPアドレスがわかると役立つ場合があります。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html" title="IPアドレスとは"><span class="title">IPアドレスとは</span><span class="linkdiv-dash"> — </span><span class="desc">IP アドレスとはコンピューターの電話番号のようなものです。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html" title="MAC アドレスとは"><span class="title">MAC アドレスとは</span><span class="linkdiv-dash"> — </span><span class="desc">ネットワークハードウェアに割り当てられる固有の識別子です。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-findip.html.ja" title="IP アドレスを確認する"><span class="title">IP アドレスを確認する</span><span class="linkdiv-dash"> — </span><span class="desc">ネットワーク関連の問題の原因を解決する際、IPアドレスがわかると役立つ場合があります。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html.ja" title="IPアドレスとは"><span class="title">IPアドレスとは</span><span class="linkdiv-dash"> — </span><span class="desc">IP アドレスとはコンピューターの電話番号のようなものです。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html.ja" title="MAC アドレスとは"><span class="title">MAC アドレスとは</span><span class="linkdiv-dash"> — </span><span class="desc">ネットワークハードウェアに割り当てられる固有の識別子です。</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html" title="インターネット上で安全性を維持する"><span class="title">インターネット上で安全性を維持する</span><span class="linkdiv-dash"> — </span><span class="desc">General tips to keep in mind when using the internet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-proxy.html" title="プロキシ設定の定義"><span class="title">プロキシ設定の定義</span><span class="linkdiv-dash"> — </span><span class="desc">A proxy is an intermediary for web traffic, it can be used for accessing web services anonymously, for control or security purposes.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html.ja" title="インターネット上で安全性を維持する"><span class="title">インターネット上で安全性を維持する</span><span class="linkdiv-dash"> — </span><span class="desc">General tips to keep in mind when using the internet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-proxy.html.ja" title="プロキシ設定の定義"><span class="title">プロキシ設定の定義</span><span class="linkdiv-dash"> — </span><span class="desc">A proxy is an intermediary for web traffic, it can be used for accessing web services anonymously, for control or security purposes.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -65,13 +65,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="無線ネットワーク">無線</a></span>、<span class="link"><a href="net-wired.html" title="有線によるネットワーク">有線</a></span>、<span class="link"><a href="net-problem.html" title="ネットワーク関連の問題">接続関連の問題</a></span>、<span class="link"><a href="net-browser.html" title="ウェブブラウザー">web ブラウジング</a></span>、<span class="link"><a href="net-email.html" title="メールとメールソフトウェア">メールアカウント</a></span>…</span>
+<a href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ja" title="無線ネットワーク">無線</a></span>、<span class="link"><a href="net-wired.html.ja" title="有線によるネットワーク">有線</a></span>、<span class="link"><a href="net-problem.html.ja" title="ネットワーク関連の問題">接続関連の問題</a></span>、<span class="link"><a href="net-browser.html.ja" title="ウェブブラウザー">web ブラウジング</a></span>、<span class="link"><a href="net-email.html.ja" title="メールとメールソフトウェア">メールアカウント</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="無線ネットワーク">無線ネットワーク</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="無線ネットワークに接続する">無線接続</a></span>、<span class="link"><a href="net-wireless-hidden.html" title="非表示設定の無線ネットワークに接続">非表示設定のネットワーク</a></span>、<span class="link"><a href="net-wireless-disconnecting.html" title="無線ネットワークが切断されてしまいます、なぜですか?">切断する</a></span>…</span>
+<a href="net-wireless.html.ja" title="無線ネットワーク">無線ネットワーク</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.ja" title="無線ネットワークに接続する">無線接続</a></span>、<span class="link"><a href="net-wireless-hidden.html.ja" title="非表示設定の無線ネットワークに接続">非表示設定のネットワーク</a></span>、<span class="link"><a href="net-wireless-disconnecting.html.ja" title="無線ネットワークが切断されてしまいます、なぜですか?">切断する</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

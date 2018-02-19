@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » <a class="trail" href="shell-windows.html" title="Παράθυρα και χώροι εργασίας">Παράθυρα και χώροι εργασίας</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Δουλεύοντας με παράθυρα">Παράθυρα</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.el" title="Η επιφάνεια εργασία σας">Επιφάνεια εργασίας</a> › <a class="trail" href="shell-overview.html.el#apps" title="Εφαρμογές και παράθυρα">Εφαρμογές και παράθυρα</a> » <a class="trail" href="shell-windows.html.el" title="Παράθυρα και χώροι εργασίας">Παράθυρα και χώροι εργασίας</a> › <a class="trail" href="shell-windows.html.el#working-with-windows" title="Δουλεύοντας με παράθυρα">Παράθυρα</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Εύρεση ενός χαμένου παραθύρου</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Ένα παράθυρο σε ένα διαφορετικό χώρο εργασίας, ή κρυμμένο πίσω από ένα άλλο παράθυρο, βρίσκεται εύκολα χρησιμοποιώντας την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>:</p>
+<p class="p">Ένα παράθυρο σε ένα διαφορετικό χώρο εργασίας, ή κρυμμένο πίσω από ένα άλλο παράθυρο, βρίσκεται εύκολα χρησιμοποιώντας την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Ανοίξτε την επισκόπηση <span class="gui">Δραστηριότητες</span>. Αν το παράθυρο που λείπει είναι στον τρέχοντα <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Δουλεύοντας με χώρους εργασίας">χώρο εργασίας</a></span>, θα εμφανιστεί εδώ στη μικρογραφία. Απλά κάντε κλικ στην μικρογραφία για να εμφανιστεί το παράθυρο, ή</p></li>
-<li class="list"><p class="p">Κάντε κλικ σε διαφορετικούς χώρους εργασίας στον <span class="link"><a href="shell-workspaces.html" title="Τι είναι ένας χώρος εργασίας και πώς θα με βοηθήσει;">επιλογέα χώρου εργασίας</a></span> στα δεξιά της οθόνης για να βρείτε το παράθυρό σας, ή</p></li>
+<li class="list"><p class="p">Ανοίξτε την επισκόπηση <span class="gui">Δραστηριότητες</span>. Αν το παράθυρο που λείπει είναι στον τρέχοντα <span class="link"><a href="shell-windows.html.el#working-with-workspaces" title="Δουλεύοντας με χώρους εργασίας">χώρο εργασίας</a></span>, θα εμφανιστεί εδώ στη μικρογραφία. Απλά κάντε κλικ στην μικρογραφία για να εμφανιστεί το παράθυρο, ή</p></li>
+<li class="list"><p class="p">Κάντε κλικ σε διαφορετικούς χώρους εργασίας στον <span class="link"><a href="shell-workspaces.html.el" title="Τι είναι ένας χώρος εργασίας και πώς θα με βοηθήσει;">επιλογέα χώρου εργασίας</a></span> στα δεξιά της οθόνης για να βρείτε το παράθυρό σας, ή</p></li>
 <li class="list"><p class="p">Κάντε δεξί κλικ στην εφαρμογή στο ταμπλό και θα εμφανιστούν τα ανοικτά του παράθυρα. Κάντε κλικ στο παράθυρο στη λίστα για αλλαγή του.</p></li>
 </ul></div></div></div>
 <p class="p">Χρησιμοποιώντας τον εναλλάκτη παραθύρου:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Πατήστε το πλήκτρο <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> για να εμφανίσετε τον <span class="link"><a href="shell-windows-switching.html" title="Εναλλαγή μεταξύ παραθύρων">εναλλάκτη παραθύρων</a></span>. Συνεχίστε να κρατάτε πατημένο το πλήκτρο <span class="key"><kbd>Λογότυπο</kbd></span> και πατήστε <span class="key"><kbd>Tab</kbd></span> για να περιηγηθείτε στα ανοικτά παράθυρα, ή <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> για αντίστροφη περιήγηση.</p></li>
+<li class="list"><p class="p">Πατήστε το πλήκτρο <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.el" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> για να εμφανίσετε τον <span class="link"><a href="shell-windows-switching.html.el" title="Εναλλαγή μεταξύ παραθύρων">εναλλάκτη παραθύρων</a></span>. Συνεχίστε να κρατάτε πατημένο το πλήκτρο <span class="key"><kbd>Λογότυπο</kbd></span> και πατήστε <span class="key"><kbd>Tab</kbd></span> για να περιηγηθείτε στα ανοικτά παράθυρα, ή <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> για αντίστροφη περιήγηση.</p></li>
 <li class="list"><p class="p">Αν μια εφαρμογή έχει πολλαπλά ανοικτά παράθυρα, κρατήστε πατημένο το πλήκτρο <span class="key"><kbd>Λογότυπο</kbd></span> και πατήστε <span class="key"><kbd>`</kbd></span> (ή το πλήκτρο πάνω από το <span class="key"><kbd>Tab</kbd></span>) για να περιηγηθείτε ανάμεσα τους.</p></li>
 </ul></div></div></div>
 </div>
@@ -65,7 +65,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Δουλεύοντας με παράθυρα">Δουλεύοντας με παράθυρα</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.el#working-with-windows" title="Δουλεύοντας με παράθυρα">Δουλεύοντας με παράθυρα</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

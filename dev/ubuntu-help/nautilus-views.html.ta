@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html" title="கோப்பு மேலாளர் முன்னுரிமைகள்">கோப்பு மேலாளர் முன்னுரிமைகள்</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ta" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html.ta#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.ta" title="கோப்பு மேலாளர் முன்னுரிமைகள்">கோப்பு மேலாளர் முன்னுரிமைகள்</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="app">கோப்புகள்</span> இல் உள்ள முன்னுரிமைகளைக் காட்டும்</span></h1></div>
@@ -57,7 +57,7 @@ Select <span class="guiseq"><span class="gui">Files</span> ▸ <span class="gui
 <dt class="terms"><span class="gui">உருப்படிகளை வரிசைப்படுத்துதல்</span></dt>
 <dd class="terms">
 <p class="p">முன்னுரிமைகளில் உள்ள <span class="gui">உருப்படிகளை வரிசைப்படுத்து</span> கீழ் தோன்று பட்டியலைப் பயன்படுத்தி உருப்படிகளின் பெயர், கோப்பு அளவு, கோப்பு வகை, எப்போது கடைசியாக மாற்றப்பட்டது, கடைசியாக எப்போது அணுகப்பட்டது அல்லது அவை எப்போது குப்பைத் தொட்டிக்கு அனுப்பப்பட்டது என்பவற்றின் படி வரிசைப்படுத்தலாம்.</p>
-<p class="p">You can change how <span class="link"><a href="files-sort.html" title="கோப்புகள் மற்றும் கோப்புறைகளை வரிசைப்படுத்துதல்">files are
+<p class="p">You can change how <span class="link"><a href="files-sort.html.ta" title="கோப்புகள் மற்றும் கோப்புறைகளை வரிசைப்படுத்துதல்">files are
     sorted</a></span> in an individual folder by clicking the view options
     
     button in the toolbar and choosing <span class="gui">Name</span>,
@@ -73,7 +73,7 @@ Select <span class="guiseq"><span class="gui">Files</span> ▸ <span class="gui
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="கோப்பு மேலாளர் முன்னுரிமைகள்">கோப்பு மேலாளர் முன்னுரிமைகள்</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.ta" title="கோப்பு மேலாளர் முன்னுரிமைகள்">கோப்பு மேலாளர் முன்னுரிமைகள்</a><span class="desc"> — View and set preferences for the file browser.</span>
 </li></ul></div>
 </div></div></div>
 </div>

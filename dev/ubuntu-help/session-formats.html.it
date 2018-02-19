@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="prefs-language.html" title="Region &amp; Language">Region &amp; Language</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="prefs-language.html.it" title="Region &amp; Language">Region &amp; Language</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Modificare data e unità di misura</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">All'interno del sistema è possibile controllare i formati utilizzati per visualizzare date, orari, numeri, valuta monetaria e le unità di misura in base alle impostazioni predefinite della propria regione.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Formats</span>.</p></li>
@@ -77,17 +77,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Region &amp; Language">Region &amp; Language</a><span class="desc"> — 
-      <span class="link"><a href="session-language.html" title="Cambiare la lingua utilizzata">Language</a></span>,
-      <span class="link"><a href="session-formats.html" title="Modificare data e unità di misura">region and formats</a></span>,
-      <span class="link"><a href="keyboard-layouts.html" title="Usare disposizioni di tastiera alternative">keyboard layouts</a></span>…
+<a href="prefs-language.html.it" title="Region &amp; Language">Region &amp; Language</a><span class="desc"> — 
+      <span class="link"><a href="session-language.html.it" title="Cambiare la lingua utilizzata">Language</a></span>,
+      <span class="link"><a href="session-formats.html.it" title="Modificare data e unità di misura">region and formats</a></span>,
+      <span class="link"><a href="keyboard-layouts.html.it" title="Usare disposizioni di tastiera alternative">keyboard layouts</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-language.html" title="Cambiare la lingua utilizzata">Cambiare la lingua utilizzata</a><span class="desc"> — Usare un'altra lingua per l'interfaccia utente.</span>
+<a href="session-language.html.it" title="Cambiare la lingua utilizzata">Cambiare la lingua utilizzata</a><span class="desc"> — Usare un'altra lingua per l'interfaccia utente.</span>
 </li></ul></div>
 </div></div>
 </div>

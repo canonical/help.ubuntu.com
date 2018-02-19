@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="power.html#problems" title="Problémák">Energiagazdálkodási problémák</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> › <a class="trail" href="hardware.html.hu#problems" title="Gyakori problémák">Problémák</a> » <a class="trail" href="power.html.hu#problems" title="Problémák">Energiagazdálkodási problémák</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Felébresztés után nem működik a vezeték nélküli hálózat</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Ha számítógépét felfüggesztette, akkor előfordulhat, hogy a vezeték nélküli internetkapcsolat nem működik a számítógép használatának folytatása után. Ez olyankor fordul elő, amikor a vezeték nélküli eszköz <span class="link"><a href="hardware-driver.html" title="Mi az az illesztőprogram?">illesztőprogramjai</a></span> nem teljesen támogatnak egyes energiatakarékossági szolgáltatásokat. Általában a vezeték nélküli csatoló nem kapcsol be a számítógép használatának folytatásakor.</p>
+<p class="p">Ha számítógépét felfüggesztette, akkor előfordulhat, hogy a vezeték nélküli internetkapcsolat nem működik a számítógép használatának folytatása után. Ez olyankor fordul elő, amikor a vezeték nélküli eszköz <span class="link"><a href="hardware-driver.html.hu" title="Mi az az illesztőprogram?">illesztőprogramjai</a></span> nem teljesen támogatnak egyes energiatakarékossági szolgáltatásokat. Általában a vezeték nélküli csatoló nem kapcsol be a számítógép használatának folytatásakor.</p>
 <p class="p">Ha ez történik, akkor próbálja meg vezeték nélküli csatolóját ki, majd újra bekapcsolni:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Hálózat</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Hálózat</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Hálózat</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Wi-Fi</span> lehetőséget.</p></li>
 <li class="steps"><p class="p">Kapcsolja <span class="gui">KI</span>, majd újra <span class="gui">BE</span> állásba a vezeték nélküli csatoló melletti kapcsolót.</p></li>
@@ -66,17 +66,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html#problems" title="Problémák">Energiagazdálkodási problémák</a><span class="desc"> — Energiagazdálkodással és akkumulátorokkal kapcsolatos problémák elhárítása.</span>
+<a href="power.html.hu#problems" title="Problémák">Energiagazdálkodási problémák</a><span class="desc"> — Energiagazdálkodással és akkumulátorokkal kapcsolatos problémák elhárítása.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-driver.html" title="Mi az az illesztőprogram?">Mi az az illesztőprogram?</a><span class="desc"> — A hardver- vagy eszköz-illesztőprogram lehetővé teszi a számítógépnek a csatlakoztatott eszközök használatát.</span>
+<a href="hardware-driver.html.hu" title="Mi az az illesztőprogram?">Mi az az illesztőprogram?</a><span class="desc"> — A hardver- vagy eszköz-illesztőprogram lehetővé teszi a számítógépnek a csatlakoztatott eszközök használatát.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Miért nem kapcsol vissza felfüggesztés után a számítógépem?">Miért nem kapcsol vissza felfüggesztés után a számítógépem?</a><span class="desc"> — Egyes számítógép-alkatrészek felfüggesztési hibákat okoznak.</span>
+<a href="power-suspendfail.html.hu" title="Miért nem kapcsol vissza felfüggesztés után a számítógépem?">Miért nem kapcsol vissza felfüggesztés után a számítógépem?</a><span class="desc"> — Egyes számítógép-alkatrészek felfüggesztési hibákat okoznak.</span>
 </li>
 </ul></div>
 </div></div>

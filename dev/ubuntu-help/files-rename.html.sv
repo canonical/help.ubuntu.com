@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Byt namn på en fil eller mapp</span></h1></div>
@@ -57,7 +57,7 @@
 <li class="steps"><p class="p">Ange det nya namnet och tryck på <span class="key"><kbd>Retur</kbd></span> eller klicka på <span class="gui">Byt namn</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Du kan också byta namn på en fil från fönstret<span class="link"><a href="nautilus-file-properties-basic.html" title="Filegenskaper">egenskaper</a></span>.</p>
+<p class="p">Du kan också byta namn på en fil från fönstret<span class="link"><a href="nautilus-file-properties-basic.html.sv" title="Filegenskaper">egenskaper</a></span>.</p>
 <p class="p">När du byter namn på en fil kommer bara första delen av namnet på filen att markeras, inte filändelsen (delen efter sista <span class="file">.</span>). Filändelsen betecknar vanligtvis vilken typ av fil det är (till exempel är <span class="file">file.pdf</span> ett PDF-dokument) och du vill vanligtvis inte ändra den. Om du behöver ändra filändelsen också så välj hela filnamnet och ändra det.</p>
 <div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Om du bytt namn på fel fil eller gav filen fel namn kan du ångra namnbytet. För att ångra åtgärden tryck omedelbart på menyknappen i verktygsfältet och välj <span class="gui">Ångra namnbyte</span>, eller tryck <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span> för att återställa det gamla namnet.</p></div></div></div></div>
 </div>
@@ -65,7 +65,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Giltiga tecken för filnamn</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Du kan använda vilket tecken som helst i filnamn förutom tecknet <span class="file">/</span> (snedstreck). Vissa enheter använder dock ett <span class="em">filsystem</span> som har fler restriktioner på filnamnen. Därför är det bäst att undvika följande tecken i dina filnamn: <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
-<div class="note note-warning" title="Varning"><div class="inner"><div class="region"><div class="contents"><p class="p">Om du namnger en fil med en <span class="file">.</span> som första tecken kommer filen att bli <span class="link"><a href="files-hidden.html" title="Dölj en fil">dold</a></span> när du försöker visa den i filhanteraren.</p></div></div></div></div>
+<div class="note note-warning" title="Varning"><div class="inner"><div class="region"><div class="contents"><p class="p">Om du namnger en fil med en <span class="file">.</span> som första tecken kommer filen att bli <span class="link"><a href="files-hidden.html.sv" title="Dölj en fil">dold</a></span> när du försöker visa den i filhanteraren.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="common-probs" class="sect"><div class="inner">
@@ -79,14 +79,14 @@
 <dt class="terms">Filnamnet är för långt</dt>
 <dd class="terms"><p class="p">På vissa filsystem kan filnamn inte har mer än 255 tecken. Denna 255-teckensbegränsning inkluderar både filnamnet och sökvägen till filen (till exempel <span class="file">/home/maria/Dokument/arbete/affärsförslag/…</span>), så du bör undvika långa fil- och mappnamn där det går.</p></dd>
 <dt class="terms">Alternativet att byta namn är inaktiverat</dt>
-<dd class="terms"><p class="p">Om <span class="gui">Byt namn</span> är inaktiverat har du inte rättighet att byta namn på filen. Du bör vara aktsam med att byta namn på sådana filer, eftersom namnbyte på vissa skyddade filer kan orsaka att systemet blir instabilt. Se <span class="link"><a href="nautilus-file-properties-permissions.html" title="Ange filrättigheter">Ange filrättigheter</a></span> för vidare information.</p></dd>
+<dd class="terms"><p class="p">Om <span class="gui">Byt namn</span> är inaktiverat har du inte rättighet att byta namn på filen. Du bör vara aktsam med att byta namn på sådana filer, eftersom namnbyte på vissa skyddade filer kan orsaka att systemet blir instabilt. Se <span class="link"><a href="nautilus-file-properties-permissions.html.sv" title="Ange filrättigheter">Ange filrättigheter</a></span> för vidare information.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sv#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

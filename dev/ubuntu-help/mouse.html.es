@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,28 +54,28 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html" title="Ajustar la velocidad de la doble pulsación"><span class="title">Ajustar la velocidad de la doble pulsación</span><span class="linkdiv-dash"> — </span><span class="desc">Controlar la velocidad de pulsación del botón del ratón para efectuar una pulsación doble.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html" title="Ajustar la velocidad del ratón y del touchpad"><span class="title">Ajustar la velocidad del ratón y del touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar cómo se mueve de rápido el puntero cuando usa el ratón o el touchpad.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html" title="Pulsar y mover el puntero del ratón usando el teclado numérico"><span class="title">Pulsar y mover el puntero del ratón usando el teclado numérico</span><span class="linkdiv-dash"> — </span><span class="desc">Activar las teclas del ratón para controlar el ratón con el teclado numérico.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html" title="Pulsar, arrastrar o desplazarse con el «touchpad»"><span class="title">Pulsar, arrastrar o desplazarse con el «touchpad»</span><span class="linkdiv-dash"> — </span><span class="desc">Pulsar, arrastrar o desplazarse usando toques y gestos en su «touchpad».</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.es" title="Ajustar la velocidad de la doble pulsación"><span class="title">Ajustar la velocidad de la doble pulsación</span><span class="linkdiv-dash"> — </span><span class="desc">Controlar la velocidad de pulsación del botón del ratón para efectuar una pulsación doble.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.es" title="Ajustar la velocidad del ratón y del touchpad"><span class="title">Ajustar la velocidad del ratón y del touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar cómo se mueve de rápido el puntero cuando usa el ratón o el touchpad.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.es" title="Pulsar y mover el puntero del ratón usando el teclado numérico"><span class="title">Pulsar y mover el puntero del ratón usando el teclado numérico</span><span class="linkdiv-dash"> — </span><span class="desc">Activar las teclas del ratón para controlar el ratón con el teclado numérico.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.es" title="Pulsar, arrastrar o desplazarse con el «touchpad»"><span class="title">Pulsar, arrastrar o desplazarse con el «touchpad»</span><span class="linkdiv-dash"> — </span><span class="desc">Pulsar, arrastrar o desplazarse usando toques y gestos en su «touchpad».</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html" title="Simular una pulsación al posicionar el puntero"><span class="title">Simular una pulsación al posicionar el puntero</span><span class="linkdiv-dash"> — </span><span class="desc">La <span class="gui">pulsación al posarse</span> (pulsación al posicionar el puntero) le permite pulsar manteniendo el ratón quieto.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html" title="Simular una pulsación derecha del ratón"><span class="title">Simular una pulsación derecha del ratón</span><span class="linkdiv-dash"> — </span><span class="desc">Para realizar una pulsación derecha, pulse y mantenga pulsado el botón izquierdo del ratón.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html" title="Use su ratón para zurdos"><span class="title">Use su ratón para zurdos</span><span class="linkdiv-dash"> — </span><span class="desc">Intercambiar los botones izquierdo y derecho del ratón en las preferencias del ratón.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.es" title="Simular una pulsación al posicionar el puntero"><span class="title">Simular una pulsación al posicionar el puntero</span><span class="linkdiv-dash"> — </span><span class="desc">La <span class="gui">pulsación al posarse</span> (pulsación al posicionar el puntero) le permite pulsar manteniendo el ratón quieto.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.es" title="Simular una pulsación derecha del ratón"><span class="title">Simular una pulsación derecha del ratón</span><span class="linkdiv-dash"> — </span><span class="desc">Para realizar una pulsación derecha, pulse y mantenga pulsado el botón izquierdo del ratón.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html.es" title="Use su ratón para zurdos"><span class="title">Use su ratón para zurdos</span><span class="linkdiv-dash"> — </span><span class="desc">Intercambiar los botones izquierdo y derecho del ratón en las preferencias del ratón.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Problemas comunes</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html" title="El puntero del ratón no se mueve"><span class="title">El puntero del ratón no se mueve</span><span class="linkdiv-dash"> — </span><span class="desc">Cómo comprobar si su ratón no está funcionando.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html" title="El ratón sufre un retardo antes de empezar a funcionar"><span class="title">El ratón sufre un retardo antes de empezar a funcionar</span><span class="linkdiv-dash"> — </span><span class="desc">Si tiene que mover o pulsar el ratón antes de que empiece a responder.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.es" title="El puntero del ratón no se mueve"><span class="title">El puntero del ratón no se mueve</span><span class="linkdiv-dash"> — </span><span class="desc">Cómo comprobar si su ratón no está funcionando.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.es" title="El ratón sufre un retardo antes de empezar a funcionar"><span class="title">El ratón sufre un retardo antes de empezar a funcionar</span><span class="linkdiv-dash"> — </span><span class="desc">Si tiene que mover o pulsar el ratón antes de que empiece a responder.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="tips" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Consejos</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="Pulsación central"><span class="title">Pulsación central</span><span class="linkdiv-dash"> — </span><span class="desc">Use el botón central para abrir aplicaciones, abrir pestañas y más.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.es" title="Pulsación central"><span class="title">Pulsación central</span><span class="linkdiv-dash"> — </span><span class="desc">Use el botón central para abrir aplicaciones, abrir pestañas y más.</span></a></div></div>
 <div class="links-twocolumn"></div>
 </div></div></div></div></div>
 </div></div>
@@ -85,10 +85,10 @@
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html" title="Hardware y controladores">Hardware y controladores</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="Problemas comunes">Problemas de hardware</a></span>, <span class="link"><a href="printing.html" title="Imprimir">impresoras</a></span>, <span class="link"><a href="power.html" title="Energía y batería">configuración de energía</a></span>, <span class="link"><a href="color.html" title="Gestión del color">gestión del color</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Discos y almacenamiento">discos</a></span>…</span>
+<a href="hardware.html.es" title="Hardware y controladores">Hardware y controladores</a><span class="desc"> — <span class="link"><a href="hardware.html.es#problems" title="Problemas comunes">Problemas de hardware</a></span>, <span class="link"><a href="printing.html.es" title="Imprimir">impresoras</a></span>, <span class="link"><a href="power.html.es" title="Energía y batería">configuración de energía</a></span>, <span class="link"><a href="color.html.es" title="Gestión del color">gestión del color</a></span>, <span class="link"><a href="bluetooth.html.es" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.es" title="Discos y almacenamiento">discos</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs.html" title="Usuario y configuración del sistema">Usuario y configuración del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html" title="Ratón">ratón</a></span>, <span class="link"><a href="prefs-display.html" title="Pantalla">pantalla</a></span>, <span class="link"><a href="prefs-language.html" title="Región e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html" title="Cuentas de usuario">cuentas de usuario</a></span>…</span>
+<a href="prefs.html.es" title="Usuario y configuración del sistema">Usuario y configuración del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.es" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html.es" title="Ratón">ratón</a></span>, <span class="link"><a href="prefs-display.html.es" title="Pantalla">pantalla</a></span>, <span class="link"><a href="prefs-language.html.es" title="Región e idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html.es" title="Cuentas de usuario">cuentas de usuario</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

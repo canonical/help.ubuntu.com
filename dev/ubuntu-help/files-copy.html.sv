@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kopiera eller flytta filer och mappar</span></h1></div>
@@ -91,19 +91,19 @@
 </ol></div>
 </div>
 </div>
-<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Du kan inte kopiera eller flytta en fil in i en mapp som är <span class="em">skrivskyddad</span>. Vissa mappar är skrivskyddade för att förhindra att du gör ändringar i deras innehåll. Du kan ändra saker från att vara skrivskyddade genom att <span class="link"><a href="nautilus-file-properties-permissions.html" title="Ange filrättigheter">ändra filrättigheterna</a></span>.</p></div></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Du kan inte kopiera eller flytta en fil in i en mapp som är <span class="em">skrivskyddad</span>. Vissa mappar är skrivskyddade för att förhindra att du gör ändringar i deras innehåll. Du kan ändra saker från att vara skrivskyddade genom att <span class="link"><a href="nautilus-file-properties-permissions.html.sv" title="Ange filrättigheter">ändra filrättigheterna</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sv#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-browse.html" title="Bläddra bland filer och mappar">Bläddra bland filer och mappar</a><span class="desc"> — Hantera och organisera filer med filhanteraren.</span>
+<a href="files-browse.html.sv" title="Bläddra bland filer och mappar">Bläddra bland filer och mappar</a><span class="desc"> — Hantera och organisera filer med filhanteraren.</span>
 </li></ul></div>
 </div></div>
 </div>

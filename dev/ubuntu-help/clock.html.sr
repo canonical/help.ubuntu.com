@@ -43,16 +43,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Подешавања корисника и система">Подешавања</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Датум и време</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="clock-set.html" title="Измените датум и време"><span class="title">Измените датум и време</span><span class="linkdiv-dash"> — </span><span class="desc">Користите <span class="gui">Подешавања датума и времена</span> да измените датум или време.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html" title="Измените временску зону"><span class="title">Измените временску зону</span><span class="linkdiv-dash"> — </span><span class="desc">Ажурирајте вашу временску зону на ваше тренутно место тако да вам време буде тачно.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html" title="Састанци календара"><span class="title">Састанци календара</span><span class="linkdiv-dash"> — </span><span class="desc">Прикажите ваше састанке у области календара на врху екрана.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-world.html" title="Додај светски сат"><span class="title">Додај светски сат</span><span class="linkdiv-dash"> — </span><span class="desc">Прикажите времена у другим градовима у календару.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-set.html.sr" title="Измените датум и време"><span class="title">Измените датум и време</span><span class="linkdiv-dash"> — </span><span class="desc">Користите <span class="gui">Подешавања датума и времена</span> да измените датум или време.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html.sr" title="Измените временску зону"><span class="title">Измените временску зону</span><span class="linkdiv-dash"> — </span><span class="desc">Ажурирајте вашу временску зону на ваше тренутно место тако да вам време буде тачно.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.sr" title="Састанци календара"><span class="title">Састанци календара</span><span class="linkdiv-dash"> — </span><span class="desc">Прикажите ваше састанке у области календара на врху екрана.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-world.html.sr" title="Додај светски сат"><span class="title">Додај светски сат</span><span class="linkdiv-dash"> — </span><span class="desc">Прикажите времена у другим градовима у календару.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -60,12 +60,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html" title="Кориснички налози">кориснички налози</a></span>…</span>
+<a href="prefs.html.sr" title="Подешавања корисника и система">Подешавања корисника и система</a><span class="desc"> — <span class="link"><a href="keyboard.html.sr" title="Тастатура">Тастатура</a></span>, <span class="link"><a href="mouse.html.sr" title="Миш">миш</a></span>, <span class="link"><a href="prefs-display.html.sr" title="Дисплеј и екран">екран</a></span>, <span class="link"><a href="prefs-language.html.sr" title="Регион и језик">језици</a></span>, <span class="link"><a href="user-accounts.html.sr" title="Кориснички налози">кориснички налози</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-change-date-time-timezone.html" title="Промена датума, времена и временске зоне">Упутство о промени датума, времена и временске зоне</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-change-date-time-timezone.html.sr" title="Промена датума, времена и временске зоне">Упутство о промени датума, времена и временске зоне</a></li></ul></div>
 </div></div>
 </div>
 </div>

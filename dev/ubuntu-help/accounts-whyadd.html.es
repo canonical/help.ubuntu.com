@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="accounts.html" title="Cuentas en línea">Cuentas en línea</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="accounts.html.es" title="Cuentas en línea">Cuentas en línea</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">¿Por qué debería añadir una cuenta?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Añadir sus cuentas en línea le da la posibilidad de acceder a servicios como el calendario, el chat y el correo-e a través de su escritorio y hace que la información de los servicios sea parte de su experiencia de usuario. Añadir cuentas le permite estar fácilmente en contacto con los servicios de las distintas cuentas, como chats, al mismo tiempo. Simplemente configure su cuenta una vez y, cada vez que inicie su equipo, todas las cuentas y lo servicios que elija estarán listos para usarse.</p>
-<p class="p">Consulte la <span class="link"><a href="accounts-which-application.html" title="Servicios y aplicaciones en línea">Servicios y aplicaciones en línea</a></span> para ver la información sobre qué aplicaciones pueden acceder a qué servicios en línea.</p>
+<p class="p">Consulte la <span class="link"><a href="accounts-which-application.html.es" title="Servicios y aplicaciones en línea">Servicios y aplicaciones en línea</a></span> para ver la información sobre qué aplicaciones pueden acceder a qué servicios en línea.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Cuentas en línea">Cuentas en línea</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Añadir una cuenta">Añadir una cuenta en línea</a></span>, <span class="link"><a href="accounts-remove.html" title="Quitar una cuenta">Quitar una cuenta</a></span>, <span class="link"><a href="accounts-which-application.html" title="Servicios y aplicaciones en línea">Aprender más sobre los servicios</a></span>…</span>
+<a href="accounts.html.es" title="Cuentas en línea">Cuentas en línea</a><span class="desc"> — <span class="link"><a href="accounts-add.html.es" title="Añadir una cuenta">Añadir una cuenta en línea</a></span>, <span class="link"><a href="accounts-remove.html.es" title="Quitar una cuenta">Quitar una cuenta</a></span>, <span class="link"><a href="accounts-which-application.html.es" title="Servicios y aplicaciones en línea">Aprender más sobre los servicios</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

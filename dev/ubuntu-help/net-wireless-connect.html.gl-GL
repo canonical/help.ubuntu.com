@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="Redes sen fíos">Redes sen fíos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Conectar cunha rede sen fíos</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Se ten un computador con unha tarxeta sen fíos que funcione pode conectarse a unha rede sen fíos cercana para obter acceso a Internet, ver ficheiros compartidos en rede e demáis.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#yourname" title="Vostede e o seu computador">system menu</a></span> from the right
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#yourname" title="Vostede e o seu computador">system menu</a></span> from the right
     side of the top bar.</p></li>
 <li class="steps"><p class="p">Select
     <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>
@@ -63,10 +63,10 @@
 <p class="p">If the name of the network is not in the list, try clicking
     <span class="gui">More</span> to see if the network is further down the list. If you 
     still do not see the network, you may be out of range, or the network
-    <span class="link"><a href="net-wireless-hidden.html" title="Conectar a unha rede sen fíos oculta">might be hidden</a></span>.</p>
+    <span class="link"><a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">might be hidden</a></span>.</p>
 </li>
 <li class="steps">
-<p class="p">Se a rede está protexida por un contrasinal (<span class="link"><a href="net-wireless-wepwpa.html" title="Que significa WEP e WPA?">chave de cifrado</a></span>), escriba o contrasinal cando se lle pida e prema <span class="gui">Conectar</span>.</p>
+<p class="p">Se a rede está protexida por un contrasinal (<span class="link"><a href="net-wireless-wepwpa.html.gl-GL" title="Que significa WEP e WPA?">chave de cifrado</a></span>), escriba o contrasinal cando se lle pida e prema <span class="gui">Conectar</span>.</p>
 <p class="p">If you do not know the key, it may be written on the underside of the
     wireless router or base station, or in its instruction manual, or you may
     have to ask the person who administers the wireless network.</p>
@@ -83,7 +83,7 @@
   There are a number of things that could have caused this to happen. You could
   have entered the wrong password, the wireless signal could be too weak, or
   your computer’s wireless card might have a problem, for example. See
-  <span class="link"><a href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a></span> for more help.</p>
+  <span class="link"><a href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a></span> for more help.</p>
 <p class="p">Unha conexión máis forte a unha rede sen fíos non significa necesariamente que teña unha conexión a internet máis rápida, ou que terá velocidades de descarga máis rápidas. As conexións sen fíos conectan o seu computador ao <span class="em">dispositivo que fornece a conexión a internet</span> (como un enrutador ou módem), pero as dúas conexións son realmente distintas, polo que terán velocidades distintas.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -92,10 +92,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Redes sen fíos">Redes sen fíos</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html" title="Conectar cunha rede sen fíos">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html" title="Conectar a unha rede sen fíos oculta">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html" title="Porque a miña rede sen fíos permanece desconectada?">Disconnecting</a></span>…
+<a href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.gl-GL" title="Conectar cunha rede sen fíos">Connect to wifi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">Hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.gl-GL" title="Porque a miña rede sen fíos permanece desconectada?">Disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -103,10 +103,10 @@
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless-disconnecting.html" title="Porque a miña rede sen fíos permanece desconectada?">Porque a miña rede sen fíos permanece desconectada?</a><span class="desc"> — É posíbel que teña baixo sinal, ou a rede podería ser a que non lle permite conectar correctamente.</span>
+<a href="net-wireless-disconnecting.html.gl-GL" title="Porque a miña rede sen fíos permanece desconectada?">Porque a miña rede sen fíos permanece desconectada?</a><span class="desc"> — É posíbel que teña baixo sinal, ou a rede podería ser a que non lle permite conectar correctamente.</span>
 </li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li>
 </ul></div>
 </div></div>

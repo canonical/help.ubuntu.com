@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.te" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">చోదకం అంటే ఏమిటి?</span></h1></div>
@@ -73,21 +73,21 @@ double-sided printing, but is otherwise completely functional.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">మరింత సమాచారం</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్ &amp; చోదకాలు</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="ఉమ్మడి సమస్యలు">హార్డ్‌వేర్ సమస్యలు</a></span>, <span class="link"><a href="printing.html" title="Printing">ముద్రకాలు</a></span>, <span class="link"><a href="power.html" title="విద్యుత్ &amp; విద్యుద్ఘటం">విద్యుత్ అమరికలు</a></span>, <span class="link"><a href="color.html" title="రంగుల నిర్వహణ">రంగుల నిర్వహణ</a></span>, <span class="link"><a href="bluetooth.html" title="బ్లూటూత్">బ్లూటూత్</a></span>, <span class="link"><a href="disk.html" title="డిస్కులు మరియు నిల్వ">డిస్కులు</a></span>…</span>
+<a href="hardware.html.te" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్ &amp; చోదకాలు</a><span class="desc"> — <span class="link"><a href="hardware.html.te#problems" title="ఉమ్మడి సమస్యలు">హార్డ్‌వేర్ సమస్యలు</a></span>, <span class="link"><a href="printing.html.te" title="Printing">ముద్రకాలు</a></span>, <span class="link"><a href="power.html.te" title="విద్యుత్ &amp; విద్యుద్ఘటం">విద్యుత్ అమరికలు</a></span>, <span class="link"><a href="color.html.te" title="రంగుల నిర్వహణ">రంగుల నిర్వహణ</a></span>, <span class="link"><a href="bluetooth.html.te" title="బ్లూటూత్">బ్లూటూత్</a></span>, <span class="link"><a href="disk.html.te" title="డిస్కులు మరియు నిల్వ">డిస్కులు</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ఇవి కూడా చూడండి</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-problem-connecting.html" title="I cannot connect my Bluetooth device">I cannot connect my Bluetooth device</a><span class="desc"> — ఎడాప్టర్ ఆఫ్ చేసివుండవచ్చు లేదా డ్రైవర్లను కలిగివుండక పోవచ్చు, లేదా బ్లూటూత్ అచేతనమై వుండవచ్చు లేదా నిరోధించబడి వుండవచ్చు.</span>
+<a href="bluetooth-problem-connecting.html.te" title="I cannot connect my Bluetooth device">I cannot connect my Bluetooth device</a><span class="desc"> — ఎడాప్టర్ ఆఫ్ చేసివుండవచ్చు లేదా డ్రైవర్లను కలిగివుండక పోవచ్చు, లేదా బ్లూటూత్ అచేతనమై వుండవచ్చు లేదా నిరోధించబడి వుండవచ్చు.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html" title="I have no wireless network when I wake up my computer">I have no wireless network when I wake up my computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
+<a href="power-nowireless.html.te" title="I have no wireless network when I wake up my computer">I have no wireless network when I wake up my computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
     suspended and does not resume properly.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.te" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 </ul></div>
 </div></div>

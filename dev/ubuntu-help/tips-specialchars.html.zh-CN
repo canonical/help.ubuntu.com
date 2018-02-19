@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="小贴士 &amp; 小技巧">小贴士 &amp; 小技巧</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.zh-CN" title="小贴士 &amp; 小技巧">小贴士 &amp; 小技巧</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">输入特殊字符</span></h1></div>
@@ -55,22 +55,14 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">输入字符的方法</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="字符映射表">字符映射表</a></li>
-<li class="links "><a href="tips-specialchars.html#characters" title="Characters">Characters</a></li>
-<li class="links "><a href="tips-specialchars.html#compose" title="Compose 键">Compose 键</a></li>
-<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="代码点">代码点</a></li>
-<li class="links "><a href="tips-specialchars.html#layout" title="键盘布局">键盘布局</a></li>
-<li class="links "><a href="tips-specialchars.html#im" title="输入法">输入法</a></li>
+<li class="links "><a href="tips-specialchars.html.zh-CN#characters" title="Characters">Characters</a></li>
+<li class="links "><a href="tips-specialchars.html.zh-CN#compose" title="Compose 键">Compose 键</a></li>
+<li class="links "><a href="tips-specialchars.html.zh-CN#ctrlshiftu" title="代码点">代码点</a></li>
+<li class="links "><a href="tips-specialchars.html.zh-CN#layout" title="键盘布局">键盘布局</a></li>
+<li class="links "><a href="tips-specialchars.html.zh-CN#im" title="输入法">输入法</a></li>
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">字符映射表</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">GNOME 附带一个字符映射表程序，可以让您浏览所有 Unicode 字符，使用它可以找到您想要的字符，然后复制粘贴到其他您要使用的地方。</p>
-<p class="p">您可以在<span class="gui">活动概览</span>中找到<span class="app">字符映射表</span>，更多相关信息，请参阅<span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">字符映射表手册</a></span>。</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Characters</span></h2></div>
 <div class="region"><div class="contents">
@@ -91,15 +83,19 @@
 <div class="note note-important" title="重要"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
       change this setting.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Define a compose key</span></h3></div>
+<div class="title title-steps"><h3><span class="title">定义一个 compose 键</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span>
+        overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Keyboard &amp; Mouse</span> tab.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span> setting.</p></li>
-<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you want to use.</p></li>
-<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose key.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span>
+        setting.</p></li>
+<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you
+        want to use.</p></li>
+<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose
+        key.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div>
 </div></div>
@@ -127,7 +123,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">键盘布局</span></h2></div>
-<div class="region"><div class="contents"><p class="p">您可以让键盘变成其他语言布局，而不是原来键盘上标识的字母了，您甚至可以使用顶部面板上的一个图标，轻松地在不同语言之间切换，详细介绍请参阅 <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>。</p></div></div>
+<div class="region"><div class="contents"><p class="p">您可以让键盘变成其他语言布局，而不是原来键盘上标识的字母了，您甚至可以使用顶部面板上的一个图标，轻松地在不同语言之间切换，详细介绍请参阅 <span class="link"><a href="keyboard-layouts.html.zh-CN" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>。</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">输入法</span></h2></div>
@@ -145,13 +141,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="小贴士 &amp; 小技巧">小贴士 &amp; 小技巧</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="输入特殊字符">特殊符号</a></span>、<span class="link"><a href="mouse-middleclick.html" title="单击中键">中键快捷键</a></span>…</span>
+<a href="tips.html.zh-CN" title="小贴士 &amp; 小技巧">小贴士 &amp; 小技巧</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.zh-CN" title="输入特殊字符">特殊符号</a></span>、<span class="link"><a href="mouse-middleclick.html.zh-CN" title="单击中键">中键快捷键</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.zh-CN" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
 </li></ul></div>
 </div></div>
 </div>

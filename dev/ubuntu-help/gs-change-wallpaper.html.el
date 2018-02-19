@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Ξεκινώντας">Ξεκινώντας με το GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.el" title="Ξεκινώντας">Ξεκινώντας με το GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Αλλαγή ημερομηνίας, ώρας και ζώνης ώρας">Προηγούμενο</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.el" title="Αλλαγή ημερομηνίας, ώρας και ζώνης ώρας">Προηγούμενο</a></div>
 <div class="hgroup"><h1 class="title"><span class="title">Αλλαγή ταπετσαρίας</span></h1></div>
 <div class="region">
 <div class="contents"><div class="ui-tile ">
@@ -67,7 +67,7 @@
 <div id="change-wallpaper-overview" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Αλλαγή ταπετσαρίας</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui"><a href="shell-introduction.html#yourname" title="Εσείς και ο υπολογιστή σας">μενού του συστήματος</a></span> στο δεξί μέρος της πάνω μπάρας.</p></li>
+<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui"><a href="shell-introduction.html.el#yourname" title="Εσείς και ο υπολογιστή σας">μενού του συστήματος</a></span> στο δεξί μέρος της πάνω μπάρας.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο κουμπί ρυθμίσεις στο κάτω αριστερό μέρος του μενού.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στον πίνακα <span class="gui">Παρασκήνιο</span>.</p></li>
 <li class="steps"><p class="p">Πατήστε την εικόνα της τρέχουσας ταπετσαρίας σας στο αριστερό μέρος του παραθύρου <span class="gui">Παρασκήνιο</span>.</p></li>
@@ -76,20 +76,20 @@
 <li class="steps"><p class="p">Κλείστε το παράθυρο <span class="gui">Παρασκήνιο</span> πατώντας το εικονίδιο στην πάνω δεξιά γωνία του παραθύρου.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
-<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html" title="Αλλαγή ημερομηνίας, ώρας και ζώνης ώρας">Προηγούμενο</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.el" title="Αλλαγή ημερομηνίας, ώρας και ζώνης ώρας">Προηγούμενο</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Ξεκινώντας">Ξεκινώντας με το GNOME</a><span class="desc"> — Είστε νέος στο GNOME; Μάθετε πώς να τα καταφέρετε.</span>
+<a href="getting-started.html.el" title="Ξεκινώντας">Ξεκινώντας με το GNOME</a><span class="desc"> — Είστε νέος στο GNOME; Μάθετε πώς να τα καταφέρετε.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-background.html" title="Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος">Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος</a><span class="desc"> — Ορίστε μιας εικόνα, ένα χρώμα ή μια διαβάθμιση ως παρασκήνιο της επιφάνειας εργασίας σας ή το παρασκήνιο του κλειδώματος οθόνης.</span>
+<a href="look-background.html.el" title="Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος">Αλλαγή παρασκηνίου της επιφάνειας εργασίας και της οθόνης κλειδώματος</a><span class="desc"> — Ορίστε μιας εικόνα, ένα χρώμα ή μια διαβάθμιση ως παρασκήνιο της επιφάνειας εργασίας σας ή το παρασκήνιο του κλειδώματος οθόνης.</span>
 </li></ul></div>
 </div></div>
 </div>

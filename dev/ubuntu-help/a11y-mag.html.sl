@@ -43,15 +43,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="a11y.html" title="Splošni dostop">Splošni dostop</a> › <a class="trail" href="a11y.html#vision" title="Težave z vidom">Težave z vidom</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="a11y.html.sl" title="Splošni dostop">Splošni dostop</a> › <a class="trail" href="a11y.html.sl#vision" title="Težave z vidom">Težave z vidom</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Magnify a screen area</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Povečanje zaslona je drugačno kot povečanje <span class="link"><a href="a11y-font-size.html" title="Sprememba velikosti besedila na zaslonu">velikosti besedila</a></span>. Ta zmožnost je kot povečevalno steklo, ki vam omogoča premikanje in približanje delov zaslona.</p>
+<p class="p">Povečanje zaslona je drugačno kot povečanje <span class="link"><a href="a11y-font-size.html.sl" title="Sprememba velikosti besedila na zaslonu">velikosti besedila</a></span>. Ta zmožnost je kot povečevalno steklo, ki vam omogoča premikanje in približanje delov zaslona.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press on <span class="gui">Zoom</span> in the <span class="gui">Seeing</span> section.</p></li>
@@ -59,7 +59,7 @@
       <span class="gui">Zoom Options</span> window.</p></li>
 </ol></div></div></div>
 <p class="p">Sedaj se lahko premikate po področju zaslona. S premikom svoje miške na rob zaslona boste povečano področje premaknili v različne smeri, kar vam omogoča ogled področja po izbiri.</p>
-<div class="note note-tip" title="Namig"><div class="inner"><div class="region"><div class="contents"><p class="p">Povečavo lahko hitro vklopite in izklopite s klikom na <span class="link"><a href="a11y-icon.html" title="Najdite meni splošnega dostopa">ikono splošnega dostopa</a></span> v vrhnji vrstici in izbiro <span class="gui">Povečava</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Namig"><div class="inner"><div class="region"><div class="contents"><p class="p">Povečavo lahko hitro vklopite in izklopite s klikom na <span class="link"><a href="a11y-icon.html.sl" title="Najdite meni splošnega dostopa">ikono splošnega dostopa</a></span> v vrhnji vrstici in izbiro <span class="gui">Povečava</span>.</p></div></div></div></div>
 <p class="p">You can change the magnification factor, the mouse tracking, and the
   position of the magnified view on the screen. Adjust these in the
   <span class="gui">Magnifier</span> tab of the <span class="gui">Zoom Options</span> window.</p>
@@ -77,7 +77,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html#vision" title="Težave z vidom">Težave z vidom</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.sl#vision" title="Težave z vidom">Težave z vidom</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

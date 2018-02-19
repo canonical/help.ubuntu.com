@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="media.html#sound" title="Βασικός ήχος">Ήχος</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="media.html.el#sound" title="Βασικός ήχος">Ήχος</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Αλλαγή έντασης του ήχου</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Για να αλλάξετε την ένταση του ήχου, ανοίξτε το <span class="gui"><a href="shell-introduction.html#yourname" title="Εσείς και ο υπολογιστή σας">μενού συστήματος</a></span> από τη δεξιά πλευρά της πάνω γραμμής και μετακινήστε τον ολισθητή έντασης αριστερά ή δεξιά. Μπορείτε να κλείσετε πλήρως τον ήχο σύροντας τον ολισθητή τελείως αριστερά.</p>
+<p class="p">Για να αλλάξετε την ένταση του ήχου, ανοίξτε το <span class="gui"><a href="shell-introduction.html.el#yourname" title="Εσείς και ο υπολογιστή σας">μενού συστήματος</a></span> από τη δεξιά πλευρά της πάνω γραμμής και μετακινήστε τον ολισθητή έντασης αριστερά ή δεξιά. Μπορείτε να κλείσετε πλήρως τον ήχο σύροντας τον ολισθητή τελείως αριστερά.</p>
 <p class="p">Some keyboards have keys that let you control the volume. They normally
   look like stylized speakers with waves coming out of them. They are often
   near the “F” keys at the top. On laptop keyboards, they are usually on the
@@ -64,7 +64,7 @@
 <p class="p">Μπορείτε να αλλάξετε την ένταση μιας εφαρμογής και να την αφήσετε αμετάβλητη για τις άλλες. Αυτό είναι χρήσιμο αν ακούτε μουσική και περιηγείστε στον ιστό. Μπορεί να θέλετε να κλείσετε την ένταση στον περιηγητή ιστού, έτσι ώστε οι ήχοι από τους ιστοτόπους να μην διακόπτουν τη μουσική.</p>
 <p class="p">Μερικές εφαρμογές διαθέτουν ολισθητές έντασης στο κύριο παράθυρο τους. Αν η εφαρμογή σας διαθέτει έναν, χρησιμοποιήστε τον. Αν όχι:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ήχος</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ήχος</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ήχος</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps">
 <p class="p">Πηγαίντε στην καρτέλα <span class="gui">Εφαρμογές</span> και αλλάξτε την ένταση της εφαρμογής.</p>
@@ -78,7 +78,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="Βασικός ήχος">Βασικός ήχος</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Αλλαγή έντασης του ήχου">Ένταση</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Χρησιμοποιήστε διαφορετικά ηχεία ή ακουστικά">Ηχεία και ακουστικά</a></span>, <span class="link"><a href="sound-usemic.html" title="Χρήση διαφορετικού μικροφώνου">Μικρόφωνα</a></span>…</span>
+<a href="media.html.el#sound" title="Βασικός ήχος">Βασικός ήχος</a><span class="desc"> — <span class="link"><a href="sound-volume.html.el" title="Αλλαγή έντασης του ήχου">Ένταση</a></span>, <span class="link"><a href="sound-usespeakers.html.el" title="Χρησιμοποιήστε διαφορετικά ηχεία ή ακουστικά">Ηχεία και ακουστικά</a></span>, <span class="link"><a href="sound-usemic.html.el" title="Χρήση διαφορετικού μικροφώνου">Μικρόφωνα</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

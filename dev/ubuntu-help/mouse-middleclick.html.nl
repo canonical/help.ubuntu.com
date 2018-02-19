@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="mouse.html" title="Muis">Muis</a> › <a class="trail" href="mouse.html#tips" title="Tips">Tips</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> › <a class="trail" href="mouse.html.nl#tips" title="Tips">Tips</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="mouse.html" title="Muis">Muis</a> › <a class="trail" href="mouse.html#tips" title="Tips">Tips</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> › <a class="trail" href="mouse.html.nl#tips" title="Tips">Tips</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Tips &amp; trucs">Tips &amp; trucs</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.nl" title="Tips &amp; trucs">Tips &amp; trucs</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -60,7 +60,7 @@ with a scroll wheel, you can usually press directly down on the scroll
 wheel to middle-click. If you don’t have a middle mouse button, you
 can press the left and right mouse buttons at the same time to
 middle-click.</p>
-<p class="p">Op een touchpad die het tikken met meerdere vingers ondersteunt, kunt u middenklikken door met drie vingers tegelijk te tikken. U dient <span class="link"><a href="mouse-touchpad-click.html" title="Klik, sleep, of scroll met het touchpad">klikken door tikken inschakelen</a></span> geselecteerd te hebben bij de touchpadinstellingen om dit te laten werken.</p>
+<p class="p">Op een touchpad die het tikken met meerdere vingers ondersteunt, kunt u middenklikken door met drie vingers tegelijk te tikken. U dient <span class="link"><a href="mouse-touchpad-click.html.nl" title="Klik, sleep, of scroll met het touchpad">klikken door tikken inschakelen</a></span> geselecteerd te hebben bij de touchpadinstellingen om dit te laten werken.</p>
 <p class="p">Veel toepassingen gebruiken de middelste muisknop voor geavanceerde snelkoppelingen.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
@@ -82,9 +82,9 @@ button for other functions. Search your application’s help for
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="mouse.html#tips" title="Tips">Muistips</a></li>
+<li class="links "><a href="mouse.html.nl#tips" title="Tips">Muistips</a></li>
 <li class="links ">
-<a href="tips.html" title="Tips &amp; trucs">Tips &amp; trucs</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Speciale tekens invoeren">Speciale tekens</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Middelklik">middelmuisklik-sneltoetsen</a></span>...</span>
+<a href="tips.html.nl" title="Tips &amp; trucs">Tips &amp; trucs</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.nl" title="Speciale tekens invoeren">Speciale tekens</a></span>, <span class="link"><a href="mouse-middleclick.html.nl" title="Middelklik">middelmuisklik-sneltoetsen</a></span>...</span>
 </li>
 </ul></div>
 </div></div></div>

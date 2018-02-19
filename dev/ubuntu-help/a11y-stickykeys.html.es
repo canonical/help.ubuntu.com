@@ -44,21 +44,21 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="keyboard.html.es" title="Teclado">Teclado</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="a11y.html" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html#mobility" title="Deficiencias motoras">Deficiencias motoras</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="a11y.html.es" title="Acceso universal">Acceso universal</a> › <a class="trail" href="a11y.html.es#mobility" title="Deficiencias motoras">Deficiencias motoras</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="keyboard.html" title="Teclado">Teclado</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="keyboard.html.es" title="Teclado">Teclado</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Activar las teclas persistentes</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Las <span class="em">teclas persistentes</span> le permiten usar combinaciones de teclas pulsándolas tecla a tecla, en lugar de tener que mantener pulsadas todas las teclas a la vez. Por ejemplo, la combinación <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="¿Qué es la tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> sirve para pasar de una ventana a otra. Sin las teclas persistentes activadas tendría que mantener pulsadas ambas teclas al mismo tiempo; con las teclas persistentes, puede pulsar la tecla <span class="key"><kbd>Super</kbd></span>, soltarla y luego pulsar <span class="key"><kbd>Tab</kbd></span> para obtener el mismo resultado.</p>
+<p class="p">Las <span class="em">teclas persistentes</span> le permiten usar combinaciones de teclas pulsándolas tecla a tecla, en lugar de tener que mantener pulsadas todas las teclas a la vez. Por ejemplo, la combinación <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.es" title="¿Qué es la tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> sirve para pasar de una ventana a otra. Sin las teclas persistentes activadas tendría que mantener pulsadas ambas teclas al mismo tiempo; con las teclas persistentes, puede pulsar la tecla <span class="key"><kbd>Super</kbd></span>, soltarla y luego pulsar <span class="key"><kbd>Tab</kbd></span> para obtener el mismo resultado.</p>
 <p class="p">Puede querer activar las teclas persistentes si encuentra dificultad para mantener pulsadas varias teclas a la vez.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Acceso universal</span>.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Acceso universal</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Acceso universal</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Asistente de escritura</span> en la sección <span class="gui">Teclear</span>.</p></li>
 <li class="steps"><p class="p">Activar las <span class="gui">Teclas persistentes</span> (<span class="gui">Encendido</span>).</p></li>
@@ -67,7 +67,7 @@
 <div class="title title-note"><h2><span class="title">Activar y desactivar rápidamente las teclas lentas</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">En <span class="gui">Activar por teclado</span>, seleccione <span class="gui">Activar las características de accesibilidad desde el teclado</span> para activar y desactivar las teclas persistentes desde el teclado. Cuando esta opción está seleccionada puede pulsar la tecla <span class="key"><kbd>Mayús</kbd></span> cinco veces seguidas para activar o desactivar las teclas persistentes.</p>
-<p class="p">También puede activar y desactivar las teclas lentas pulsando el <span class="link"><a href="a11y-icon.html" title="Encontrar el menú de acceso universal">icono de acceso universal</a></span> en la barra superior y cambiando las <span class="gui">Teclas lentas</span>. El icono de accesibilidad está visible cuando se han activado una o mas opciones en el panel de <span class="gui">Acceso universal</span>.</p>
+<p class="p">También puede activar y desactivar las teclas lentas pulsando el <span class="link"><a href="a11y-icon.html.es" title="Encontrar el menú de acceso universal">icono de acceso universal</a></span> en la barra superior y cambiando las <span class="gui">Teclas lentas</span>. El icono de accesibilidad está visible cuando se han activado una o mas opciones en el panel de <span class="gui">Acceso universal</span>.</p>
 </div></div>
 </div></div>
 <p class="p">Si pulsa dos teclas a la vez, puede hacer que las teclas persistentes se desactiven temporalmente para introducir un atajo de teclado de la manera habitual.</p>
@@ -80,9 +80,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Deficiencias motoras">Deficiencias motoras</a></li>
+<li class="links "><a href="a11y.html.es#mobility" title="Deficiencias motoras">Deficiencias motoras</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Usar distribuciones de teclado alternativas">distribuciones de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Hacer que parpadee el cursor del teclado">parpadeo del cursor</a></span>, <span class="link"><a href="a11y.html#mobility" title="Deficiencias motoras">accesibilidad del teclado</a></span>…</span>
+<a href="keyboard.html.es" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.es" title="Usar distribuciones de teclado alternativas">distribuciones de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.es" title="Hacer que parpadee el cursor del teclado">parpadeo del cursor</a></span>, <span class="link"><a href="a11y.html.es#mobility" title="Deficiencias motoras">accesibilidad del teclado</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

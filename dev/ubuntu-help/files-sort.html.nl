@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bestanden en mappen sorteren</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">U kan bestanden in een map op verschillende manieren sorteren. bijvoorbeeld door ze op datum of bestandsgrootte te sorteren. Zie onderstaande <span class="link"><a href="#ways" title="Manieren om bestanden te sorteren">Manieren om bestanden te sorteren</a></span> voor een lijst van veelgebruikte manieren om bestanden te sorteren. Zie <span class="link"><a href="nautilus-views.html" title="Weergaven-voorkeuren in Bestanden">Weergaven-voorkeuren in <span class="app">Bestanden</span></a></span> voor informatie over hoe u de standaard sorteervolgorde kunt wijzigen.</p>
+<p class="p">U kan bestanden in een map op verschillende manieren sorteren. bijvoorbeeld door ze op datum of bestandsgrootte te sorteren. Zie onderstaande <span class="link"><a href="#ways" title="Manieren om bestanden te sorteren">Manieren om bestanden te sorteren</a></span> voor een lijst van veelgebruikte manieren om bestanden te sorteren. Zie <span class="link"><a href="nautilus-views.html.nl" title="Weergaven-voorkeuren in Bestanden">Weergaven-voorkeuren in <span class="app">Bestanden</span></a></span> voor informatie over hoe u de standaard sorteervolgorde kunt wijzigen.</p>
 <p class="p">De manier waarop us bestanden kunt sorteren is afhankelijk van de door u gebruikte <span class="em">folderweergave</span>. U kan met behulp van de lijst of pictogramknoppen in de taakbalk de huidige weergave wijzigen.</p>
 </div>
 <div id="icon-view" class="sect"><div class="inner">
@@ -64,7 +64,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Lijstweergave</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Om bestanden in een andere volgorde te sorteren klikt u op één van de kolommen in bestandsbeheer. Klik bijvoorbeeld op <span class="gui">Type</span> om te sorteren op bestandstype. Klik opnieuw op de kolom om in de omgekeerde volgorde te sorteren.</p>
-<p class="p">In lijstweergave kunt u kolommen met meer attributen laten weergeven en op die kolommen sorteren. Klik in de taakbalk op de knop Weergaveopties en kies <span class="gui">Zichtbare kolommen…</span> en selecteer de kolommen waarvan u wilt dat die zichtbaar zijn. U kunt vervolgens op die kolommen sorteren. Zie <span class="link"><a href="nautilus-list.html" title="Files list columns preferences">Files list columns preferences</a></span> voor een beschrijving van de beschikbare kolommen.</p>
+<p class="p">In lijstweergave kunt u kolommen met meer attributen laten weergeven en op die kolommen sorteren. Klik in de taakbalk op de knop Weergaveopties en kies <span class="gui">Zichtbare kolommen…</span> en selecteer de kolommen waarvan u wilt dat die zichtbaar zijn. U kunt vervolgens op die kolommen sorteren. Zie <span class="link"><a href="nautilus-list.html.nl" title="Files list columns preferences">Files list columns preferences</a></span> voor een beschrijving van de beschikbare kolommen.</p>
 </div></div>
 </div></div>
 <div id="ways" class="sect"><div class="inner">
@@ -84,7 +84,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -43,26 +43,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html#apps" title="Aplikace a okna">Aplikace a okna</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.cs" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html.cs#apps" title="Aplikace a okna">Aplikace a okna</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Okna a pracovní plochy</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Obdobně, jako jiná uživatelská prostředí, používá i GNOME k zobrazení běžících aplikací okna. Pomocí přehledu <span class="link"><a href="shell-introduction.html#activities" title="Přehled Činností">činností</a></span> a <span class="em">oblíbených</span> můžete spustit nové aplikace a ovládat aktivní okna.</p>
+<p class="p">Obdobně, jako jiná uživatelská prostředí, používá i GNOME k zobrazení běžících aplikací okna. Pomocí přehledu <span class="link"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">činností</a></span> a <span class="em">oblíbených</span> můžete spustit nové aplikace a ovládat aktivní okna.</p>
 <p class="p">Své aplikace můžete seskupovat pomocí pracovních ploch. Podívejte se níže do témat o oknech a pracovních plochách, abyste lépe pochopili, jak to funguje.</p>
 </div>
 <div id="working-with-windows" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Práce s okny</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html" title="Dláždění oken"><span class="title">Dláždění oken</span><span class="linkdiv-dash"> — </span><span class="desc">Jak maximalizovat dvě okna vedle sebe.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html" title="Maximalizace a zrušení maximalizace okna"><span class="title">Maximalizace a zrušení maximalizace okna</span><span class="linkdiv-dash"> — </span><span class="desc">Jak okno maximalizovat nebo obnovit do původní velikosti dvojitým kliknutím nebo tažením na záhlaví.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html" title="Přepínání mezi okny"><span class="title">Přepínání mezi okny</span><span class="linkdiv-dash"> — </span><span class="desc">Zmáčkněte <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.cs" title="Dláždění oken"><span class="title">Dláždění oken</span><span class="linkdiv-dash"> — </span><span class="desc">Jak maximalizovat dvě okna vedle sebe.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.cs" title="Maximalizace a zrušení maximalizace okna"><span class="title">Maximalizace a zrušení maximalizace okna</span><span class="linkdiv-dash"> — </span><span class="desc">Jak okno maximalizovat nebo obnovit do původní velikosti dvojitým kliknutím nebo tažením na záhlaví.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.cs" title="Přepínání mezi okny"><span class="title">Přepínání mezi okny</span><span class="linkdiv-dash"> — </span><span class="desc">Zmáčkněte <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html" title="Přesun a změna velikosti okna"><span class="title">Přesun a změna velikosti okna</span><span class="linkdiv-dash"> — </span><span class="desc">Jak uspořádat okna na pracovní ploše, abyste mohli efektivněji pracovat.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html" title="Vyhledání ztraceného okna"><span class="title">Vyhledání ztraceného okna</span><span class="linkdiv-dash"> — </span><span class="desc">Podívejte se do přehledu <span class="gui">Činností</span> nebo na jiné pracovní plochy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.cs" title="Přesun a změna velikosti okna"><span class="title">Přesun a změna velikosti okna</span><span class="linkdiv-dash"> — </span><span class="desc">Jak uspořádat okna na pracovní ploše, abyste mohli efektivněji pracovat.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.cs" title="Vyhledání ztraceného okna"><span class="title">Vyhledání ztraceného okna</span><span class="linkdiv-dash"> — </span><span class="desc">Podívejte se do přehledu <span class="gui">Činností</span> nebo na jiné pracovní plochy.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -70,17 +70,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Práce s pracovními plochami</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html" title="Co je to pracovní plocha a co mi přinese?"><span class="title">Co je to pracovní plocha a co mi přinese?</span><span class="linkdiv-dash"> — </span><span class="desc">Pracovní plochy jsou způsob seskupování oken.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html" title="Přepínání mezi pracovními plochami"><span class="title">Přepínání mezi pracovními plochami</span><span class="linkdiv-dash"> — </span><span class="desc">Jak používat volič pracovních ploch.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.cs" title="Co je to pracovní plocha a co mi přinese?"><span class="title">Co je to pracovní plocha a co mi přinese?</span><span class="linkdiv-dash"> — </span><span class="desc">Pracovní plochy jsou způsob seskupování oken.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.cs" title="Přepínání mezi pracovními plochami"><span class="title">Přepínání mezi pracovními plochami</span><span class="linkdiv-dash"> — </span><span class="desc">Jak používat volič pracovních ploch.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html" title="Přesun okna na jinou pracovní plochu"><span class="title">Přesun okna na jinou pracovní plochu</span><span class="linkdiv-dash"> — </span><span class="desc">Jděte do přehledu <span class="gui">Činností</span> a přetáhněte okno na jinou pracovní plochu.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.cs" title="Přesun okna na jinou pracovní plochu"><span class="title">Přesun okna na jinou pracovní plochu</span><span class="linkdiv-dash"> — </span><span class="desc">Jděte do přehledu <span class="gui">Činností</span> a přetáhněte okno na jinou pracovní plochu.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html#apps" title="Aplikace a okna">Aplikace a okna</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.cs#apps" title="Aplikace a okna">Aplikace a okna</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

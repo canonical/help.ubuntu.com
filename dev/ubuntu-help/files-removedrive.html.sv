@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html#removable" title="Flyttbara enheter och externa diskar">Flyttbara enheter och externa diskar</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#removable" title="Flyttbara enheter och externa diskar">Flyttbara enheter och externa diskar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Säker borttagning av extern enhet</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">För att mata ut en flyttbar enhet:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Från översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>, öppna <span class="app">Filer</span>.</p></li>
+<li class="steps"><p class="p">Från översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>, öppna <span class="app">Filer</span>.</p></li>
 <li class="steps">
 <p class="p">Hitta enheten i sidopanelen. Den bör ha en liten utmatningsikon intill namnet. Klicka på utmatningsikonen för att ta bort enheten säkert eller mata ut enheten.</p>
 <p class="p">Alternativt kan du högerklicka på namnet på enheten i sidopanelen och välja <span class="gui">Mata ut</span>.</p>
@@ -78,7 +78,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#removable" title="Flyttbara enheter och externa diskar">Flyttbara enheter och externa diskar</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.sv#removable" title="Flyttbara enheter och externa diskar">Flyttbara enheter och externa diskar</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

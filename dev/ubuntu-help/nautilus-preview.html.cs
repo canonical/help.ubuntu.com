@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a> » <a class="trail" href="nautilus-prefs.html" title="Předvolby správce souborů">Předvolby správce souborů</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#more-file-tasks" title="Činnosti týkající se hlavně souborů">Činnosti týkající se hlavně souborů</a> » <a class="trail" href="nautilus-prefs.html.cs" title="Předvolby správce souborů">Předvolby správce souborů</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Předvolby náhledů ve správci souborů</span></h1></div>
@@ -53,11 +53,11 @@
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Soubory</span></dt>
 <dd class="terms">
-<p class="p">Ve výchozím nastavení budu mít miniatury vytvořené <span class="gui">Jen místní soubory</span>, které jsou na vašem počítači a připojených externích discích. Můžete tuto funkci nastavit také na <span class="gui">Vždy</span> nebo <span class="gui">Nikdy</span>. Správce souborů může <span class="link"><a href="nautilus-connect.html" title="Procházení souborů na serveru nebo síťovém sdílení">procházet soubory na jiných počítačích</a></span> přes místní síť nebo Internet. Pokud často procházíte soubory přes místní síť a ta má dostatečnou šířku pásma, můžete nastavit tvorbu miniatur na <span class="gui">Vždy</span>.</p>
+<p class="p">Ve výchozím nastavení budu mít miniatury vytvořené <span class="gui">Jen místní soubory</span>, které jsou na vašem počítači a připojených externích discích. Můžete tuto funkci nastavit také na <span class="gui">Vždy</span> nebo <span class="gui">Nikdy</span>. Správce souborů může <span class="link"><a href="nautilus-connect.html.cs" title="Procházení souborů na serveru nebo síťovém sdílení">procházet soubory na jiných počítačích</a></span> přes místní síť nebo Internet. Pokud často procházíte soubory přes místní síť a ta má dostatečnou šířku pásma, můžete nastavit tvorbu miniatur na <span class="gui">Vždy</span>.</p>
 <p class="p">Navíc můžete upravit nastavení <span class="gui">Jen pro soubory menší než</span>, abyste omezili velikost souborů, pro které se miniatury generují.</p>
 </dd>
 <dt class="terms"><span class="gui">Složky</span></dt>
-<dd class="terms"><p class="p">Když máte mezi <span class="link"><a href="nautilus-list.html" title="Předvolby sloupců v seznamu souborů">sloupci seznamového zobrazení</a></span> nebo v <span class="link"><a href="nautilus-display.html#icon-captions" title="Popisy ikon">popisech ikon</a></span> zobrazeny velikosti souborů, bude se u složek zobrazovat počet souborů a složek, které obsahuje. Spočítání položek ve složce může být pomalé, hlavně u rozsáhlých složek nebo přes síť. Proto můžete tuto funkci zapnout a vypnout, případně zapnout jen pro složky přímo na počítači nebo na místních externích discích.</p></dd>
+<dd class="terms"><p class="p">Když máte mezi <span class="link"><a href="nautilus-list.html.cs" title="Předvolby sloupců v seznamu souborů">sloupci seznamového zobrazení</a></span> nebo v <span class="link"><a href="nautilus-display.html.cs#icon-captions" title="Popisy ikon">popisech ikon</a></span> zobrazeny velikosti souborů, bude se u složek zobrazovat počet souborů a složek, které obsahuje. Spočítání položek ve složce může být pomalé, hlavně u rozsáhlých složek nebo přes síť. Proto můžete tuto funkci zapnout a vypnout, případně zapnout jen pro složky přímo na počítači nebo na místních externích discích.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html" title="Předvolby správce souborů">Předvolby správce souborů</a><span class="desc"> — Jak si zobrazit a nastavit předvolby pro správce souborů.</span>
+<a href="nautilus-prefs.html.cs" title="Předvolby správce souborů">Předvolby správce souborů</a><span class="desc"> — Jak si zobrazit a nastavit předvolby pro správce souborů.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-preview.html" title="Náhled souborů a složek">Náhled souborů a složek</a><span class="desc"> — Rychlé zobrazení a skrytí náhledů pro dokumenty, obrázky, videa a další.</span>
+<a href="files-preview.html.cs" title="Náhled souborů a složek">Náhled souborů a složek</a><span class="desc"> — Rychlé zobrazení a skrytí náhledů pro dokumenty, obrázky, videa a další.</span>
 </li></ul></div>
 </div></div>
 </div>

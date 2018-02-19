@@ -43,22 +43,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html" title="Hardware y controladores">Hardware</a> » <a class="trail" href="bluetooth.html" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="hardware.html.es" title="Hardware y controladores">Hardware</a> » <a class="trail" href="bluetooth.html.es" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">¿Qué es la visibilidad de Bluetooth?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">La visibilidad de Bluetooth se refiere simplemente a si otros dispositivos pueden descubrir su equipo al buscar dispositivos Bluetooth. Cuando la visibilidad de Bluetooth está activada y el panel de <span class="gui">Bluetooth</span> está abierto, su equipo informará al resto de dispositivos que estén al alcance, permitiéndoles que se intenten conectar a su equipo.</p>
-<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Puede <span class="link"><a href="sharing-displayname.html" title="Establecer el nombre visible del equipo">cambiar</a></span> el nombre que el equipo muestra a otros dispositivos.</p></div></div></div></div>
-<p class="p">Después de haberse <span class="link"><a href="bluetooth-connect-device.html" title="Conectar su equipo a un dispositivo Bluetooth">conectado a un dispositivo</a></span>, ni su equipo ni el dispositivo necesitan estar visibles para comunicarse entre sí.</p>
+<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Puede <span class="link"><a href="sharing-displayname.html.es" title="Establecer el nombre visible del equipo">cambiar</a></span> el nombre que el equipo muestra a otros dispositivos.</p></div></div></div></div>
+<p class="p">Después de haberse <span class="link"><a href="bluetooth-connect-device.html.es" title="Conectar su equipo a un dispositivo Bluetooth">conectado a un dispositivo</a></span>, ni su equipo ni el dispositivo necesitan estar visibles para comunicarse entre sí.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html" title="Conectar su equipo a un dispositivo Bluetooth">Connectar</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Enviar archivos a un dispositivo Bluetooth">envar archivos</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Encender o apagar el Bluetooth">apagar y encender</a></span>…</span>
+<a href="bluetooth.html.es" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.es" title="Conectar su equipo a un dispositivo Bluetooth">Connectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.es" title="Enviar archivos a un dispositivo Bluetooth">envar archivos</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.es" title="Encender o apagar el Bluetooth">apagar y encender</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

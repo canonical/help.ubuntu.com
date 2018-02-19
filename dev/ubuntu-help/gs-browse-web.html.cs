@@ -43,15 +43,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html" title="Začínáme">Začínáme s GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.cs" title="Začínáme">Začínáme s GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="Připojení k internetu">Předchozí</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Připojení k účtům on-line">Následující</a>
+<a class="nextlinks-prev" href="gs-get-online.html.cs" title="Připojení k internetu">Předchozí</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.cs" title="Připojení k účtům on-line">Následující</a>
 </div>
 <div class="hgroup"><h1 class="title"><span class="title">Brouzdání po webu</span></h1></div>
 <div class="region">
-<div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Přejeďte ukazatelem myši do rohu <span class="gui">Činnosti</span> v levém horním rohu obrazovky a zobrazí se vám <span class="gui">Přehled činností</span>.</p></li>
+<li class="steps"><p class="p">Na liště po levé straně obrazovky vyberte ikonu prohlížeče <span class="app">Firefox</span>.</p></li>
+</ol></div></div></div>
+<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Případně můžete prohlíčes spustit <span class="link"><a href="gs-use-system-search.html.cs" title="Vyhledávání v systému">prostým napsaním</a></span> <span class="em">firefox</span> v <span class="gui">Přehledu činností</span>.</p></div></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
 <li class="steps"><p class="p">Klikněte na adresní lištu v horní části okna prohlížeče a začněte psát adresu webu, který chcete navštívit.</p></li>
 <li class="steps">
 <p class="p">Během psaní webové adresy se začne hledat v historii prohlížeče a v záložkách, takže si adresu nepotřebujete pamatovat přesně.</p>
@@ -59,9 +67,10 @@
 </li>
 <li class="steps"><p class="p">V tomto rozbalovacím seznamu si můžete webovou stránku rychle vybrat pomocí klávesových šipek.</p></li>
 <li class="steps"><p class="p">Až si webovou stránku vyberete, stačí pro její navštívení zmáčknout <span class="key"><kbd>Enter</kbd></span>.</p></li>
-</ol></div></div></div></div>
+</ol></div></div></div>
+</div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="gs-get-online.html" title="Připojení k internetu">Předchozí</a><a class="nextlinks-next" href="gs-connect-online-accounts.html" title="Připojení k účtům on-line">Následující</a>
+<a class="nextlinks-prev" href="gs-get-online.html.cs" title="Připojení k internetu">Předchozí</a><a class="nextlinks-next" href="gs-connect-online-accounts.html.cs" title="Připojení k účtům on-line">Následující</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -69,13 +78,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html" title="Začínáme">Začínáme s GNOME</a><span class="desc"> — Začínáte s GNOME? Naučte se základní triky.</span>
+<a href="getting-started.html.cs" title="Začínáme">Začínáme s GNOME</a><span class="desc"> — Začínáte s GNOME? Naučte se základní triky.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html" title="Prohlížeče WWW">Prohlížeče WWW</a><span class="desc"> — <span class="link"><a href="net-default-browser.html" title="Změna prohlížeče, ve kterém se jako výchozím otevírají stránky WWW">Změna výchozího prohlížeče</a></span>, <span class="link"><a href="net-install-flash.html" title="Instalace zásuvného modulu Flash">instalace zásuvného modulu Flash</a></span>…</span>
+<a href="net-browser.html.cs" title="Webové prohlížeče">Webové prohlížeče</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.cs" title="Změna prohlížeče, ve kterém se jako výchozím otevírají webové stránky">Změna výchozího prohlížeče</a></span>, <span class="link"><a href="net-install-flash.html.cs" title="Instalace zásuvného modulu Flash">instalace zásuvného modulu Flash</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

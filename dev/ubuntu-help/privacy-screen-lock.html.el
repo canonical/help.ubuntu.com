@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="privacy.html" title="Ρυθμίσεις ιδιωτικότητας">Ρυθμίσεις ιδιωτικότητας</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="privacy.html.el" title="Ρυθμίσεις ιδιωτικότητας">Ρυθμίσεις ιδιωτικότητας</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Αυτόματο κλείδωμα της οθόνης</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">When you leave your computer, you should
-  <span class="link"><a href="shell-exit.html#lock-screen" title="Κλείδωμα της οθόνης">lock the screen</a></span> to prevent
+  <span class="link"><a href="shell-exit.html.el#lock-screen" title="Κλείδωμα της οθόνης">lock the screen</a></span> to prevent
   other people from using your desktop and accessing your files. If you
   sometimes forget to lock your screen, you may wish to have your computer’s
   screen lock automatically after a set period of time. This will help to
@@ -59,7 +59,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Για να ορίσετε τη διάρκεια του χρόνου πριν να κλειδωθεί η οθόνη σας αυτόματα:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ιδιωτικότητα</span>.</p></li>
+<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Ιδιωτικότητα</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Ιδιωτικότητα</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Επιλέξτε <span class="gui">Κλείδωμα οθόνης</span>.</p></li>
 <li class="steps"><p class="p">Βεβαιωθείτε ότι το <span class="gui">Αυτόματο κλείδωμα οθόνης</span> έχει αλλάξει σε <span class="gui">ΝΑΙ</span>, έπειτα επιλέξτε τη διάρκεια του χρόνου από την πτυσσόμενο λίστα.</p></li>
@@ -78,16 +78,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html" title="Ρυθμίσεις ιδιωτικότητας">Ρυθμίσεις ιδιωτικότητας</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Αυτόματο κλείδωμα της οθόνης">Κλείδωμα οθόνης</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Απενεργοποιήστε ή περιορίστε την ανίχνευση του ιστορικού αρχείων">Χρήση ιστορικού</a></span>, <span class="link"><a href="privacy-purge.html" title="Εκκαθάριση απορριμμάτων &amp; προσωρινών αρχείων">Εκκαθάριση απορριμμάτων &amp; προσωρινών αρχείων</a></span>…</span>
+<a href="privacy.html.el" title="Ρυθμίσεις ιδιωτικότητας">Ρυθμίσεις ιδιωτικότητας</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.el" title="Αυτόματο κλείδωμα της οθόνης">Κλείδωμα οθόνης</a></span>, <span class="link"><a href="privacy-history-recent-off.html.el" title="Απενεργοποιήστε ή περιορίστε την ανίχνευση του ιστορικού αρχείων">Χρήση ιστορικού</a></span>, <span class="link"><a href="privacy-purge.html.el" title="Εκκαθάριση απορριμμάτων &amp; προσωρινών αρχείων">Εκκαθάριση απορριμμάτων &amp; προσωρινών αρχείων</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="session-screenlocks.html" title="Η οθόνη κλειδώνει υπερβολικά γρήγορα">Η οθόνη κλειδώνει υπερβολικά γρήγορα</a><span class="desc"> — Αλλάξτε τον χρόνο αναμονής πριν να κλειδώσετε την οθόνη στις ρυθμίσεις <span class="gui">Ιδιωτικότητα</span>.</span>
+<a href="session-screenlocks.html.el" title="Η οθόνη κλειδώνει υπερβολικά γρήγορα">Η οθόνη κλειδώνει υπερβολικά γρήγορα</a><span class="desc"> — Αλλάξτε τον χρόνο αναμονής πριν να κλειδώσετε την οθόνη στις ρυθμίσεις <span class="gui">Ιδιωτικότητα</span>.</span>
 </li>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Κλείδωμα της οθόνης">Κλείδωμα της οθόνης</a></li>
+<li class="links "><a href="shell-exit.html.el#lock-screen" title="Κλείδωμα της οθόνης">Κλείδωμα της οθόνης</a></li>
 </ul></div>
 </div></div>
 </div>

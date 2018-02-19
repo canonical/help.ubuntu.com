@@ -45,57 +45,57 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
-<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 17.10</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html" title="Ξεκινώντας"><span class="title">Ξεκινώντας με το GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Είστε νέος στο GNOME; Μάθετε πώς να τα καταφέρετε.</span></a></div></div></div></div>
+<div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 18.04</span></div><div class="region"><div class="contents">
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.el" title="Ξεκινώντας"><span class="title">Ξεκινώντας με το GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Είστε νέος στο GNOME; Μάθετε πώς να τα καταφέρετε.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html" title="Αποσύνδεση, τερματισμός ή αλλαγή χρηστών"><span class="title">Αποσύνδεση, τερματισμός ή αλλαγή χρηστών</span><span class="linkdiv-dash"> — </span><span class="desc">Μάθετε πώς να αφήσετε τον λογαριασμό χρήστη, αποσυνδέοντας, αλλάζοντας χρήστες κ.ο.κ.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html" title="Εισαγωγή στο GNOME"><span class="title">Εισαγωγή στο GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Μια οπτική εισαγωγή στην επιφάνεια εργασίας σας, η πάνω γραμμή και η επισκόπηση <span class="gui">Δραστηριότητες</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html" title="Εκκίνηση εφαρμογών"><span class="title">Εκκίνηση εφαρμογών</span><span class="linkdiv-dash"> — </span><span class="desc">Ξεκινήστε εφαρμογές από την επισκόπηση <span class="gui">Δραστηριότητες</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.el" title="Αποσύνδεση, τερματισμός ή αλλαγή χρηστών"><span class="title">Αποσύνδεση, τερματισμός ή αλλαγή χρηστών</span><span class="linkdiv-dash"> — </span><span class="desc">Μάθετε πώς να αφήσετε τον λογαριασμό χρήστη, αποσυνδέοντας, αλλάζοντας χρήστες κ.ο.κ.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.el" title="Εισαγωγή στο GNOME"><span class="title">Εισαγωγή στο GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Μια οπτική εισαγωγή στην επιφάνεια εργασίας σας, η πάνω γραμμή και η επισκόπηση <span class="gui">Δραστηριότητες</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.el" title="Εκκίνηση εφαρμογών"><span class="title">Εκκίνηση εφαρμογών</span><span class="linkdiv-dash"> — </span><span class="desc">Ξεκινήστε εφαρμογές από την επισκόπηση <span class="gui">Δραστηριότητες</span>.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="shell-overview.html" title="Η επιφάνεια εργασία σας">Η επιφάνεια εργασία σας</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html" title="Συναντήσεις ημερολογίου">Ημερολόγιο</a></span>, <span class="link"><a href="shell-notifications.html" title="Ειδοποιήσεις και η περιοχή ειδοποιήσεων">ειδοποιήσεις</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html" title="Χρήσιμες συντομεύσεις πληκτρολογίου">συντομεύσεις πληκτρολογίου</a></span>, <span class="link"><a href="shell-windows.html" title="Παράθυρα και χώροι εργασίας">παράθυρα και χώροι εργασίας</a></span>…</span></div>
+<div class="links-grid-link"><a href="shell-overview.html.el" title="Η επιφάνεια εργασία σας">Η επιφάνεια εργασία σας</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html.el" title="Συναντήσεις ημερολογίου">Ημερολόγιο</a></span>, <span class="link"><a href="shell-notifications.html.el" title="Ειδοποιήσεις και η περιοχή ειδοποιήσεων">ειδοποιήσεις</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.el" title="Χρήσιμες συντομεύσεις πληκτρολογίου">συντομεύσεις πληκτρολογίου</a></span>, <span class="link"><a href="shell-windows.html.el" title="Παράθυρα και χώροι εργασίας">παράθυρα και χώροι εργασίας</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net.html" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html" title="Ασύρματη δικτύωση">Ασύρματο</a></span>, <span class="link"><a href="net-wired.html" title="Ενσύρματη δικτύωση">Ενσύρματο</a></span>, <span class="link"><a href="net-problem.html" title="Προβλήματα δικτύου">Προβλήματα σύνδεσης</a></span>, <span class="link"><a href="net-browser.html" title="Περιηγητές Ιστού">Περιήγηση ιστού</a></span>, <span class="link"><a href="net-email.html" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Λογαριασμοί αλληλογραφίας</a></span>…</span></div>
+<div class="links-grid-link"><a href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματο</a></span>, <span class="link"><a href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματο</a></span>, <span class="link"><a href="net-problem.html.el" title="Προβλήματα δικτύου">Προβλήματα σύνδεσης</a></span>, <span class="link"><a href="net-browser.html.el" title="Περιηγητές Ιστού">Περιήγηση ιστού</a></span>, <span class="link"><a href="net-email.html.el" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Λογαριασμοί αλληλογραφίας</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html" title="Ήχος, βίντεο &amp; εικόνες">Ήχος, βίντεο &amp; εικόνες</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="media.html#photos" title="Φωτογραφίες και ψηφιακές κάμερες">Ψηφιακές κάμερες</a></span>, <span class="link"><a href="media.html#music" title="Μουσική και φορητοί αναπαραγωγείς ήχου">iPods</a></span>, <span class="link"><a href="media.html#photos" title="Φωτογραφίες και ψηφιακές κάμερες">Επεξεργασία φωτογραφιών</a></span>, <span class="link"><a href="media.html#videos" title="Βίντεο και βιντεοκάμερες">Αναπαραγωγή βίντεο</a></span>…</span></div>
+<div class="links-grid-link"><a href="media.html.el" title="Ήχος, βίντεο &amp; εικόνες">Ήχος, βίντεο &amp; εικόνες</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="media.html.el#photos" title="Φωτογραφίες και ψηφιακές κάμερες">Ψηφιακές κάμερες</a></span>, <span class="link"><a href="media.html.el#music" title="Μουσική και φορητοί αναπαραγωγείς ήχου">iPods</a></span>, <span class="link"><a href="media.html.el#photos" title="Φωτογραφίες και ψηφιακές κάμερες">Επεξεργασία φωτογραφιών</a></span>, <span class="link"><a href="media.html.el#videos" title="Βίντεο και βιντεοκάμερες">Αναπαραγωγή βίντεο</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="files.html" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία, φακέλοι &amp; αναζήτηση</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="files-search.html" title="Αναζήτηση για αρχεία">Αναζήτηση</a></span>, <span class="link"><a href="files-delete.html" title="Διαγραφή αρχείων και φακέλων">Διαγραφή αρχείων</a></span>, <span class="link"><a href="files.html#backup" title="Αντίγραφα ασφαλείας">Αντίγραφα ασφαλείας</a></span>, <span class="link"><a href="files.html#removable" title="Αφαιρούμενοι οδηγοί και εξωτερικοί δίσκοι">Αφαιρούμενοι οδηγοί</a></span>…</span></div>
+<div class="links-grid-link"><a href="files.html.el" title="Αρχεία, φακέλοι &amp; αναζήτηση">Αρχεία, φακέλοι &amp; αναζήτηση</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="files-search.html.el" title="Αναζήτηση για αρχεία">Αναζήτηση</a></span>, <span class="link"><a href="files-delete.html.el" title="Διαγραφή αρχείων και φακέλων">Διαγραφή αρχείων</a></span>, <span class="link"><a href="files.html.el#backup" title="Αντίγραφα ασφαλείας">Αντίγραφα ασφαλείας</a></span>, <span class="link"><a href="files.html.el#removable" title="Αφαιρούμενοι οδηγοί και εξωτερικοί δίσκοι">Αφαιρούμενοι οδηγοί</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="addremove.html" title="Install &amp; remove software">Install &amp; remove software</a></div>
+<div class="links-grid-link"><a href="addremove.html.el" title="Install &amp; remove software">Install &amp; remove software</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="addremove-install.html" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html" title="Απομακρύνετε μια εφαρμογή">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html" title="Add software repositories">add repositories</a></span>…
+      <span class="link"><a href="addremove-install.html.el" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.el" title="Απομακρύνετε μια εφαρμογή">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.el" title="Add software repositories">add repositories</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs.html" title="Χρήστης &amp; ρυθμίσεις συστήματος">Χρήστης &amp; ρυθμίσεις συστήματος</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html" title="Πληκτρολόγιο">Πληκτρολόγιο</a></span>, <span class="link"><a href="mouse.html" title="Ποντίκι">Ποντίκι</a></span>, <span class="link"><a href="prefs-display.html" title="Εμφάνιση &amp; οθόνη">Οθόνη</a></span>, <span class="link"><a href="prefs-language.html" title="Περιοχή &amp; γλώσσα">Γλώσσες</a></span>, <span class="link"><a href="user-accounts.html" title="Λογαριασμοί χρηστών">Λογαριασμοί χρήστη</a></span>…</span></div>
+<div class="links-grid-link"><a href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Χρήστης &amp; ρυθμίσεις συστήματος</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html.el" title="Πληκτρολόγιο">Πληκτρολόγιο</a></span>, <span class="link"><a href="mouse.html.el" title="Ποντίκι">Ποντίκι</a></span>, <span class="link"><a href="prefs-display.html.el" title="Εμφάνιση &amp; οθόνη">Οθόνη</a></span>, <span class="link"><a href="prefs-language.html.el" title="Περιοχή &amp; γλώσσα">Γλώσσες</a></span>, <span class="link"><a href="user-accounts.html.el" title="Λογαριασμοί χρηστών">Λογαριασμοί χρήστη</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware.html" title="Υλικό &amp; οδηγοί">Υλικό &amp; οδηγοί</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="hardware.html#problems" title="Κοινά προβλήματα">Προβλήματα υλικού</a></span>, <span class="link"><a href="printing.html" title="Εκτύπωση">Εκτυπωτές</a></span>, <span class="link"><a href="power.html" title="Ενέργεια &amp; μπαταρία">Ρυθμίσεις ισχύος</a></span>, <span class="link"><a href="color.html" title="Διαχείριση χρωμάτων">Διαχείριση χρώματος</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="Δίσκοι &amp; αποθήκευση">Δίσκοι</a></span>…</span></div>
+<div class="links-grid-link"><a href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό &amp; οδηγοί</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα υλικού</a></span>, <span class="link"><a href="printing.html.el" title="Εκτύπωση">Εκτυπωτές</a></span>, <span class="link"><a href="power.html.el" title="Ενέργεια &amp; μπαταρία">Ρυθμίσεις ισχύος</a></span>, <span class="link"><a href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρώματος</a></span>, <span class="link"><a href="bluetooth.html.el" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.el" title="Δίσκοι &amp; αποθήκευση">Δίσκοι</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="a11y.html" title="Γενική πρόσβαση">Γενική πρόσβαση</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="a11y.html#vision" title="Οπτικές δυσλειτουργίες">Όραση</a></span>,<span class="link"><a href="a11y.html#sound" title="Προβλήματα ακοής">Ακοή</a></span>, <span class="link"><a href="a11y.html#mobility" title="Κινητικά προβλήματα">Κινητικότητα</a></span>, <span class="link"><a href="a11y-braille.html" title="Ανάγνωση οθόνης σε Μπράιγ">Μπράιγ</a></span>, <span class="link"><a href="a11y-mag.html" title="Μεγέθυνση της περιοχής οθόνης">Μεγεθυντής οθόνης</a></span>…</span></div>
+<div class="links-grid-link"><a href="a11y.html.el" title="Γενική πρόσβαση">Γενική πρόσβαση</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="a11y.html.el#vision" title="Οπτικές δυσλειτουργίες">Όραση</a></span>,<span class="link"><a href="a11y.html.el#sound" title="Προβλήματα ακοής">Ακοή</a></span>, <span class="link"><a href="a11y.html.el#mobility" title="Κινητικά προβλήματα">Κινητικότητα</a></span>, <span class="link"><a href="a11y-braille.html.el" title="Ανάγνωση οθόνης σε Μπράιγ">Μπράιγ</a></span>, <span class="link"><a href="a11y-mag.html.el" title="Μεγέθυνση της περιοχής οθόνης">Μεγεθυντής οθόνης</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="tips.html" title="Συμβουλές &amp; κόλπα">Συμβουλές &amp; κόλπα</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html" title="Εισαγωγή ειδικών χαρακτήρων">Ειδικοί χαρακτήρες</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Μεσαίο κλικ">Συντομεύσεις μεσαίου κλικ</a></span>…</span></div>
+<div class="links-grid-link"><a href="tips.html.el" title="Συμβουλές &amp; κόλπα">Συμβουλές &amp; κόλπα</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.el" title="Εισαγωγή ειδικών χαρακτήρων">Ειδικοί χαρακτήρες</a></span>, <span class="link"><a href="mouse-middleclick.html.el" title="Μεσαίο κλικ">Συντομεύσεις μεσαίου κλικ</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="more-help.html" title="Περισσότερη βοήθεια">Περισσότερη βοήθεια</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html" title="Σχετικά με αυτό τον οδηγό">Συμβουλές για τη χρήση του οδηγού</a></span>, <span class="link"><a href="get-involved.html" title="Συμμετέχετε για να βελτιώσετε αυτό τον οδηγό">βοηθήστε στη βελτίωση αυτού του οδηγού</a></span>…</span></div>
+<div class="links-grid-link"><a href="more-help.html.el" title="Περισσότερη βοήθεια">Περισσότερη βοήθεια</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html.el" title="Σχετικά με αυτό τον οδηγό">Συμβουλές για τη χρήση του οδηγού</a></span>, <span class="link"><a href="get-involved.html.el" title="Συμμετέχετε για να βελτιώσετε αυτό τον οδηγό">βοηθήστε στη βελτίωση αυτού του οδηγού</a></span>…</span></div>
 </div>
 </div></div></div>
 </div></div>

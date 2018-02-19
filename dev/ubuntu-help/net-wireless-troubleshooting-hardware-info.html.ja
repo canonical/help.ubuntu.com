@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html" title="無線ネットワーク">無線ネットワーク</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線ネットワークトラブルシューティング</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.ja" title="無線ネットワーク">無線ネットワーク</a> » <a class="trail" href="net-wireless-troubleshooting.html.ja" title="無線ネットワークトラブルシューティング">無線ネットワークトラブルシューティング</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="ハードウェアとドライバー">ハードウェア</a> › <a class="trail" href="hardware.html#problems" title="よくある問題">問題</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線ネットワークトラブルシューティング</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> › <a class="trail" href="hardware.html.ja#problems" title="よくある問題">問題</a> » <a class="trail" href="net-wireless-troubleshooting.html.ja" title="無線ネットワークトラブルシューティング">無線ネットワークトラブルシューティング</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-initial-check.html" title="無線ネットワークトラブルシューティング">前へ</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-check.html" title="無線接続のトラブルシューター">次へ</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-initial-check.html.ja" title="無線ネットワークトラブルシューティング">前へ</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-check.html.ja" title="無線接続のトラブルシューター">次へ</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">無線ネットワークトラブルシューティング</span></h1>
@@ -76,14 +76,14 @@
 <p class="p">これらのアイテムをできるだけ揃えたら<span class="gui">次</span>をクリックします。</p>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-initial-check.html" title="無線ネットワークトラブルシューティング">前へ</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-check.html" title="無線接続のトラブルシューター">次へ</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-initial-check.html.ja" title="無線ネットワークトラブルシューティング">前へ</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-check.html.ja" title="無線接続のトラブルシューター">次へ</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="無線ネットワークトラブルシューティング">無線ネットワークトラブルシューティング</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.ja" title="無線ネットワークトラブルシューティング">無線ネットワークトラブルシューティング</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li></ul></div>
 </div></div></div>
 </div>

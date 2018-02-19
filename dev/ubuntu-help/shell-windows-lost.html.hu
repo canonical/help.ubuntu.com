@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Az asztal">Asztal</a> › <a class="trail" href="shell-overview.html#apps" title="Alkalmazások és ablakok">Alkalmazások és ablakok</a> » <a class="trail" href="shell-windows.html" title="Ablakok és munkaterületek">Ablakok és munkaterületek</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Ablakok kezelése">Ablakok</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.hu" title="Az asztal">Asztal</a> › <a class="trail" href="shell-overview.html.hu#apps" title="Alkalmazások és ablakok">Alkalmazások és ablakok</a> » <a class="trail" href="shell-windows.html.hu" title="Ablakok és munkaterületek">Ablakok és munkaterületek</a> › <a class="trail" href="shell-windows.html.hu#working-with-windows" title="Ablakok kezelése">Ablakok</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Elveszett ablak megtalálása</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A másik munkaterületen lévő vagy egy másik ablak alatt lévő ablak egyszerűen megtalálható a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">tevékenységek áttekintés</a></span> segítségével:</p>
+<p class="p">A másik munkaterületen lévő vagy egy másik ablak alatt lévő ablak egyszerűen megtalálható a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">tevékenységek áttekintés</a></span> segítségével:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Nyissa meg a <span class="gui">Tevékenységek</span> áttekintést. Ha a keresett ablak az éppen használt <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Munkaterületek kezelése">munkaterületen</a></span> van, akkor itt meg fog jelenni. Egyszerűen csak kattintson a bélyegképre az ismételt megjelenítéséhez, vagy</p></li>
-<li class="list"><p class="p">kattintson a különböző munkaterületekre a <span class="link"><a href="shell-workspaces.html" title="Mi az a munkaterület, és mire használható?">munkaterület-választóban</a></span> a képernyő jobb oldalán az ablak megkereséséhez, vagy</p></li>
+<li class="list"><p class="p">Nyissa meg a <span class="gui">Tevékenységek</span> áttekintést. Ha a keresett ablak az éppen használt <span class="link"><a href="shell-windows.html.hu#working-with-workspaces" title="Munkaterületek kezelése">munkaterületen</a></span> van, akkor itt meg fog jelenni. Egyszerűen csak kattintson a bélyegképre az ismételt megjelenítéséhez, vagy</p></li>
+<li class="list"><p class="p">kattintson a különböző munkaterületekre a <span class="link"><a href="shell-workspaces.html.hu" title="Mi az a munkaterület, és mire használható?">munkaterület-választóban</a></span> a képernyő jobb oldalán az ablak megkereséséhez, vagy</p></li>
 <li class="list"><p class="p">kattintson a jobb egérgombbal az alkalmazásra az indítópanelen, és minden nyitott ablaka felsorolásra kerül. Ebben a listában kattintson arra az ablakra, amelyre át kíván váltani.</p></li>
 </ul></div></div></div>
 <p class="p">Az ablakváltó használata:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Nyomja meg a <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> kombinációt az <span class="link"><a href="shell-windows-switching.html" title="Váltás ablakok között">ablakváltó</a></span> megjelenítéséhez. Tartsa lenyomva a <span class="key"><kbd>Super</kbd></span> billentyűt, majd nyomja meg a <span class="key"><kbd>Tab</kbd></span> billentyűt a megnyitott ablakok listáján való végiglépkedéshez, vagy a <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> kombinációt a visszafelé lépkedéshez.</p></li>
+<li class="list"><p class="p">Nyomja meg a <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> kombinációt az <span class="link"><a href="shell-windows-switching.html.hu" title="Váltás ablakok között">ablakváltó</a></span> megjelenítéséhez. Tartsa lenyomva a <span class="key"><kbd>Super</kbd></span> billentyűt, majd nyomja meg a <span class="key"><kbd>Tab</kbd></span> billentyűt a megnyitott ablakok listáján való végiglépkedéshez, vagy a <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> kombinációt a visszafelé lépkedéshez.</p></li>
 <li class="list"><p class="p">Ha egy alkalmazásnak több ablaka is meg van nyitva, akkor az azokon való végiglépkedéshez nyomja le a <span class="key"><kbd>Super</kbd></span> billentyűt, és nyomja meg a <span class="key"><kbd>`</kbd></span> (magyar billentyűzeteken: a <span class="key"><kbd>Tab</kbd></span> fölötti <span class="key"><kbd>0</kbd></span>) billentyűt.</p></li>
 </ul></div></div></div>
 </div>
@@ -65,7 +65,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Ablakok kezelése">Ablakok kezelése</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.hu#working-with-windows" title="Ablakok kezelése">Ablakok kezelése</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

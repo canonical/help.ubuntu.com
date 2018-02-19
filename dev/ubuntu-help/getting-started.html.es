@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Primeros pasos</span></h1></div>
@@ -109,20 +109,20 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links title-heading"><h2><span class="title">Tareas frecuentes</span></h2></div>
 <div class="region">
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html" title="Cambiar el fondo de pantalla">Cambiar el fondo de pantalla</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html" title="Cambiar la fecha, hora y zona horaria">Cambiar la fecha, hora y zona horaria</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html" title="Conectarse a cuentas en línea">Conectarse a cuentas en línea</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html" title="Navegar por la Web">Navegar por la Web</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html" title="Usar ventanas y áreas de trabajo">Usar ventanas y áreas de trabajo</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html" title="Utilizar la búsqueda de sistema">Utilizar la búsqueda de sistema</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html" title="Cambiar entre tareas">Cambiar entre tareas</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html" title="Conectarse a Internet">Conectarse a Internet</a></div></div>
-<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html" title="Lanzar aplicaciones">Lanzar aplicaciones</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html.es" title="Cambiar el fondo de pantalla">Cambiar el fondo de pantalla</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html.es" title="Cambiar la fecha, hora y zona horaria">Cambiar la fecha, hora y zona horaria</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-connect-online-accounts.html.es" title="Conectarse a cuentas en línea">Conectarse a cuentas en línea</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-browse-web.html.es" title="Navegar por la Web">Navegar por la Web</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html.es" title="Usar ventanas y áreas de trabajo">Usar ventanas y áreas de trabajo</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-use-system-search.html.es" title="Utilizar la búsqueda de sistema">Utilizar la búsqueda de sistema</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-switch-tasks.html.es" title="Cambiar entre tareas">Cambiar entre tareas</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-get-online.html.es" title="Conectarse a Internet">Conectarse a Internet</a></div></div>
+<div class="links-grid "><div class="links-grid-link"><a href="gs-launch-applications.html.es" title="Lanzar aplicaciones">Lanzar aplicaciones</a></div></div>
 </div>
 </div></div>
 <div class="links guidelinks"><div class="inner">
 <div class="title title-links"><h2><span class="title"></span></h2></div>
-<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html" title="Guía del escritorio de Ubuntu">Guía del escritorio de Ubuntu</a></div></li></ul></div>
+<div class="region"><ul class="links-heading"><li class="links "><div class="links-heading"><a href="index.html.es" title="Guía del escritorio de Ubuntu">Guía del escritorio de Ubuntu</a></div></li></ul></div>
 </div></div>
 </div></div>
 <div class="clear"></div>

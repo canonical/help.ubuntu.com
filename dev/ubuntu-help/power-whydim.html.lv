@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="power.html" title="Barošana un baterija">Barošana un baterija</a> › <a class="trail" href="power.html#saving" title="Enerģijas taupīšanas iestatījumi">Enerģijas taupīšanas iestatījumi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="power.html.lv" title="Barošana un baterija">Barošana un baterija</a> › <a class="trail" href="power.html.lv#saving" title="Enerģijas taupīšanas iestatījumi">Enerģijas taupīšanas iestatījumi</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="power.html" title="Barošana un baterija">Barošana un baterija</a> › <a class="trail" href="power.html#saving" title="Enerģijas taupīšanas iestatījumi">Enerģijas taupīšanas iestatījumi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="power.html.lv" title="Barošana un baterija">Barošana un baterija</a> › <a class="trail" href="power.html.lv#saving" title="Enerģijas taupīšanas iestatījumi">Enerģijas taupīšanas iestatījumi</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="hardware-problems-graphics.html" title="Ekrāna problēmas">Ekrāna problēmas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html.lv#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="hardware-problems-graphics.html.lv" title="Ekrāna problēmas">Ekrāna problēmas</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <p class="p">Ja var mainīt šī ekrāna gaišumu, tas kļūs tumšāks, lai ietaupītu elektroenerģiju. Kad atsāksiet lietot datoru, ekrāns atgūs sākotnējo spilgtumu.</p>
 <p class="p">Lai izslēgtu ekrāna aptumšošanos:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Barošana</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Barošana</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Barošana</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Pārslēdziet <span class="gui">Padarīt ekrānu tumšāku, kad nav aktīvs</span> uz <span class="gui">◯</span> sadaļā <span class="gui">Enerģijas taupīšana</span>.</p></li>
 </ol></div></div></div>
@@ -70,22 +70,22 @@
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Ekrāna problēmas">Ekrāna problēmas</a><span class="desc"> — Ekrāna un video problēmu novēršana.</span>
+<a href="hardware-problems-graphics.html.lv" title="Ekrāna problēmas">Ekrāna problēmas</a><span class="desc"> — Ekrāna un video problēmu novēršana.</span>
 </li>
-<li class="links "><a href="power.html#saving" title="Enerģijas taupīšanas iestatījumi">Enerģijas taupīšanas iestatījumi</a></li>
+<li class="links "><a href="power.html.lv#saving" title="Enerģijas taupīšanas iestatījumi">Enerģijas taupīšanas iestatījumi</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="display-brightness.html" title="Iestatiet ekrāna spilgtumu">Iestatiet ekrāna spilgtumu</a><span class="desc"> — Izmainiet ekrāna spilgtumu, lai padarītu to vieglāk lasāmu spilgtā gaismā.</span>
+<a href="display-brightness.html.lv" title="Iestatiet ekrāna spilgtumu">Iestatiet ekrāna spilgtumu</a><span class="desc"> — Izmainiet ekrāna spilgtumu, lai padarītu to vieglāk lasāmu spilgtā gaismā.</span>
 </li>
 <li class="links ">
-<a href="display-blank.html" title="Iestatīt ekrāna aptumšošanas laiku">Iestatīt ekrāna aptumšošanas laiku</a><span class="desc"> — Izmainiet ekrāna aptumšošanas laiku, lai ietaupītu jaudu.</span>
+<a href="display-blank.html.lv" title="Iestatīt ekrāna aptumšošanas laiku">Iestatīt ekrāna aptumšošanas laiku</a><span class="desc"> — Izmainiet ekrāna aptumšošanas laiku, lai ietaupītu jaudu.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html" title="Lietot mazāk enerģijas un paildzināt bateriju mūžu">Lietot mazāk enerģijas un paildzināt bateriju mūžu</a><span class="desc"> — Ieteikumi, lai samazinātu jūsu datora enerģijas patēriņu.</span>
+<a href="power-batterylife.html.lv" title="Lietot mazāk enerģijas un paildzināt bateriju mūžu">Lietot mazāk enerģijas un paildzināt bateriju mūžu</a><span class="desc"> — Ieteikumi, lai samazinātu jūsu datora enerģijas patēriņu.</span>
 </li>
 </ul></div>
 </div></div>

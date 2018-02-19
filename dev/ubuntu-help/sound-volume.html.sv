@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="media.html#sound" title="Grundläggande ljud">Ljud</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="media.html.sv#sound" title="Grundläggande ljud">Ljud</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ändra ljudvolymen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">För att ändra ljudvolymen, öppna <span class="gui"><a href="shell-introduction.html#yourname" title="Du och din dator">systemmenyn</a></span> från högersidan på systemraden och flytta skjutreglaget för volym till vänster eller höger. Du kan stänga av ljudet helt genom att dra reglaget hela vägen till vänster.</p>
+<p class="p">För att ändra ljudvolymen, öppna <span class="gui"><a href="shell-introduction.html.sv#yourname" title="Du och din dator">systemmenyn</a></span> från högersidan på systemraden och flytta skjutreglaget för volym till vänster eller höger. Du kan stänga av ljudet helt genom att dra reglaget hela vägen till vänster.</p>
 <p class="p">Vissa tangentbord har tangenter som låter dig kontrollera volymen. De ser normalt ut som stiliserade högtalare med vågor som kommer ur dem. De finns ofta nära ”F”-tangenterna längst upp. På tangentbord på bärbara datorer finns de ofta på ”F”-tangenterna. Håll ner <span class="key"><kbd class="key-Fn">Fn</kbd></span>-tangenten på ditt tangentbord för att använda dem.</p>
 <p class="p">Du kan även, om du har externa högtalare, ändra volym med volymkontrollerna på högtalarna. Vissa hörlurar har också en volymkontroll.</p>
 </div>
@@ -59,7 +59,7 @@
 <p class="p">Du kan ändra volym för ett program och låta volymen för andra program kvarstå oförändrade. Detta är användbart om du till exempel lyssnar på musik och surfar på nätet. Du kanske vill stänga av volymen i webbläsaren så att ljud från webbplatser inte avbryter musiken.</p>
 <p class="p">Vissa program har volymkontroller i sina huvudfönster. Om ditt program har en volymkontroll, använd den för att ändra volymen. Om inte:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Ljud</span>.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Ljud</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Ljud</span> för att öppna panelen.</p></li>
 <li class="steps">
 <p class="p">Gå till <span class="gui">Program</span>-fliken och ändra volymen för programmet som listas där.</p>
@@ -73,7 +73,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html#sound" title="Grundläggande ljud">Grundläggande ljud</a><span class="desc"> — <span class="link"><a href="sound-volume.html" title="Ändra ljudvolymen">Volym</a></span>, <span class="link"><a href="sound-usespeakers.html" title="Använd andra högtalar eller hörlurar">högtalare och hörlurar</a></span>, <span class="link"><a href="sound-usemic.html" title="Använd en annan mikrofon">mikrofoner</a></span>…</span>
+<a href="media.html.sv#sound" title="Grundläggande ljud">Grundläggande ljud</a><span class="desc"> — <span class="link"><a href="sound-volume.html.sv" title="Ändra ljudvolymen">Volym</a></span>, <span class="link"><a href="sound-usespeakers.html.sv" title="Använd andra högtalar eller hörlurar">högtalare och hörlurar</a></span>, <span class="link"><a href="sound-usemic.html.sv" title="Använd en annan mikrofon">mikrofoner</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

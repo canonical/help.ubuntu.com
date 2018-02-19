@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="网络术语与提示">网络术语与提示</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.zh-CN" title="网络术语与提示">网络术语与提示</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">查看您的 IP 地址</span></h1></div>
@@ -53,7 +53,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">查找您的内部 IP 地址：</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps">
@@ -84,17 +84,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="网络术语与提示">网络术语与提示</a><span class="desc"> — <span class="link"><a href="net-findip.html" title="查看您的 IP 地址">查看 IP 地址</a></span>、<span class="link"><a href="net-wireless-wepwpa.html" title="WEP 和 WPA 是什么意思？">WEP 和 WPA 安全</a></span>、<span class="link"><a href="net-macaddress.html" title="什么是 MAC 地址？">MAC 地址</a></span>、<span class="link"><a href="net-proxy.html" title="代理服务器设置">代理</a></span>…</span>
+<a href="net-general.html.zh-CN" title="网络术语与提示">网络术语与提示</a><span class="desc"> — <span class="link"><a href="net-findip.html.zh-CN" title="查看您的 IP 地址">查看 IP 地址</a></span>、<span class="link"><a href="net-wireless-wepwpa.html.zh-CN" title="WEP 和 WPA 是什么意思？">WEP 和 WPA 安全</a></span>、<span class="link"><a href="net-macaddress.html.zh-CN" title="什么是 MAC 地址？">MAC 地址</a></span>、<span class="link"><a href="net-proxy.html.zh-CN" title="代理服务器设置">代理</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-what-is-ip-address.html" title="什么是 IP 地址？">什么是 IP 地址？</a><span class="desc"> — 电脑中的 IP 地址就像电话号码</span>
+<a href="net-what-is-ip-address.html.zh-CN" title="什么是 IP 地址？">什么是 IP 地址？</a><span class="desc"> — 电脑中的 IP 地址就像电话号码</span>
 </li>
 <li class="links ">
-<a href="net-fixed-ip-address.html" title="创建一个固定 IP 地址的连接">创建一个固定 IP 地址的连接</a><span class="desc"> — 使用静态 IP 地址可简化一些网络服务的管理。</span>
+<a href="net-fixed-ip-address.html.zh-CN" title="创建一个固定 IP 地址的连接">创建一个固定 IP 地址的连接</a><span class="desc"> — 使用静态 IP 地址可简化一些网络服务的管理。</span>
 </li>
 </ul></div>
 </div></div>

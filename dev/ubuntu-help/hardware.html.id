@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Perangkat keras &amp; penggerak</span></h1></div>
@@ -51,46 +51,46 @@
 <div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html" title="Hubungkan komputer Anda ke perangkat Bluetooth">Menyambung</a></span>, <span class="link"><a href="bluetooth-send-file.html" title="Kirim berkas ke perangkat Bluetooth">mengirim berkas</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html" title="Nyalakan atau matikan Bluetooth">menyalakan dan mematikan</a></span>…</span></div>
+<div class="links-grid-link"><a href="bluetooth.html.id" title="Bluetooth">Bluetooth</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html.id" title="Hubungkan komputer Anda ke perangkat Bluetooth">Menyambung</a></span>, <span class="link"><a href="bluetooth-send-file.html.id" title="Kirim berkas ke perangkat Bluetooth">mengirim berkas</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.id" title="Nyalakan atau matikan Bluetooth">menyalakan dan mematikan</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="power.html" title="Daya &amp; baterai">Daya &amp; baterai</a></div>
+<div class="links-grid-link"><a href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="power-status.html" title="Periksa status baterai">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
+      <span class="link"><a href="power-status.html.id" title="Periksa status baterai">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="disk.html" title="Disk &amp; penyimpanan">Disk &amp; penyimpanan</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html" title="Periksa seberapa banyak ruang disk yang tersisa">Ruang disk</a></span>, <span class="link"><a href="disk-benchmark.html" title="Uji kinerja hard disk Anda">kinerja</a></span>, <span class="link"><a href="disk-check.html" title="Periksa hard disk Anda apakah bermasalah">masalah</a></span>, <span class="link"><a href="disk-partitions.html" title="Mengelola volume dan partisi">volume dan partisi</a></span>…</span></div>
+<div class="links-grid-link"><a href="disk.html.id" title="Disk &amp; penyimpanan">Disk &amp; penyimpanan</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html.id" title="Periksa seberapa banyak ruang disk yang tersisa">Ruang disk</a></span>, <span class="link"><a href="disk-benchmark.html.id" title="Uji kinerja hard disk Anda">kinerja</a></span>, <span class="link"><a href="disk-check.html.id" title="Periksa hard disk Anda apakah bermasalah">masalah</a></span>, <span class="link"><a href="disk-partitions.html.id" title="Mengelola volume dan partisi">volume dan partisi</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html" title="Manajemen warna">Manajemen warna</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html" title="Mengapa manajemen warna penting?">Mengapa ini penting</a></span>, <span class="link"><a href="color.html#profiles" title="Profil warna">Profil warna</a></span>, <span class="link"><a href="color.html#calibration" title="Kalibrasi">Bagaimana mengkalibrasi perangkat</a></span>…</span></div>
+<div class="links-grid-link"><a href="color.html.id" title="Manajemen warna">Manajemen warna</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.id" title="Mengapa manajemen warna penting?">Mengapa ini penting</a></span>, <span class="link"><a href="color.html.id#profiles" title="Profil warna">Profil warna</a></span>, <span class="link"><a href="color.html.id#calibration" title="Kalibrasi">Bagaimana mengkalibrasi perangkat</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="keyboard.html" title="Papan tik">Papan tik</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span></div>
+<div class="links-grid-link"><a href="keyboard.html.id" title="Papan tik">Papan tik</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.id" title="Use alternative keyboard layouts">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="printing.html" title="Pencetakan">Pencetakan</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html" title="Mempersiapkan pencetak lokal">Penyiapan lokal</a></span>, <span class="link"><a href="printing-order.html" title="Make pages print in a different order">urutan dan kolasi</a></span>, <span class="link"><a href="printing-2sided.html" title="Print two-sided and multi-page layouts">dua sisi dan multi halaman</a></span>…</span></div>
+<div class="links-grid-link"><a href="printing.html.id" title="Pencetakan">Pencetakan</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html.id" title="Mempersiapkan pencetak lokal">Penyiapan lokal</a></span>, <span class="link"><a href="printing-order.html.id" title="Make pages print in a different order">urutan dan kolasi</a></span>, <span class="link"><a href="printing-2sided.html.id" title="Print two-sided and multi-page layouts">dua sisi dan multi halaman</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware-auth.html" title="Sidik jari &amp; smart card">Sidik jari &amp; smart card</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-fingerprint.html" title="Log masuk dengan sidik jari">Pembaca sidik jari</a></span>, smart card…</span></div>
+<div class="links-grid-link"><a href="hardware-auth.html.id" title="Sidik jari &amp; smart card">Sidik jari &amp; smart card</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-fingerprint.html.id" title="Log masuk dengan sidik jari">Pembaca sidik jari</a></span>, smart card…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html" title="Tetikus">Tetikus</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html" title="Gunakan tetikus Anda secara kidal">Kidal</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="Menyetel kecepatan tetikus dan touchpad">kecepatan dan kepekaan</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">mengklik dan menggulir touchpad</a></span>…</span></div>
+<div class="links-grid-link"><a href="mouse.html.id" title="Tetikus">Tetikus</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.id" title="Gunakan tetikus Anda secara kidal">Kidal</a></span>, <span class="link"><a href="mouse-sensitivity.html.id" title="Menyetel kecepatan tetikus dan touchpad">kecepatan dan kepekaan</a></span>, <span class="link"><a href="mouse-touchpad-click.html.id" title="Click, drag, or scroll with the touchpad">mengklik dan menggulir touchpad</a></span>…</span></div>
 </div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Lebih banyak topik</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html" title="Apa itu penggerak?">Apa itu penggerak?</a><span class="desc"> — Driver perangkat/perangkat keras memungkinkan komputer Anda memakai perangkat yang tercantol padanya.</span>
+<a href="hardware-driver.html.id" title="Apa itu penggerak?">Apa itu penggerak?</a><span class="desc"> — Driver perangkat/perangkat keras memungkinkan komputer Anda memakai perangkat yang tercantol padanya.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -98,24 +98,24 @@
 <div class="hgroup"><h2 class="title"><span class="title">Masalah umum</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul>
 <li class="links ">
-<a href="power.html#problems" title="Masalah">Masalah daya</a><span class="desc"> — Melacak masalah daya dan baterai.</span>
+<a href="power.html.id#problems" title="Masalah">Masalah daya</a><span class="desc"> — Melacak masalah daya dan baterai.</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Masalah layar">Masalah layar</a><span class="desc"> — Melacak masalah layar dan grafis.</span>
+<a href="hardware-problems-graphics.html.id" title="Masalah layar">Masalah layar</a><span class="desc"> — Melacak masalah layar dan grafis.</span>
 </li>
 <li class="links ">
-<a href="hardware-cardreader.html" title="Masalah pembaca kartu media">Masalah pembaca kartu media</a><span class="desc"> — Melacak masalah pembaca kartu media</span>
+<a href="hardware-cardreader.html.id" title="Masalah pembaca kartu media">Masalah pembaca kartu media</a><span class="desc"> — Melacak masalah pembaca kartu media</span>
 </li>
 <li class="links ">
-<a href="printing.html#problems" title="Masalah pencetak">Masalah pencetak</a><span class="desc"> — Pencetak yang tak terdeteksi, kertas menyangkut, hasil pencetakan yang nampak salah…</span>
+<a href="printing.html.id#problems" title="Masalah pencetak">Masalah pencetak</a><span class="desc"> — Pencetak yang tak terdeteksi, kertas menyangkut, hasil pencetakan yang nampak salah…</span>
 </li>
 <li class="links ">
-<a href="sound-broken.html" title="Masalah suara">Masalah suara</a><span class="desc"> — Troubleshoot problems like having no sound or having poor sound
+<a href="sound-broken.html.id" title="Masalah suara">Masalah suara</a><span class="desc"> — Troubleshoot problems like having no sound or having poor sound
     quality.</span>
 </li>
-<li class="links "><a href="bluetooth.html#problems" title="Masalah">Masalah-masalah Bluetooth</a></li>
+<li class="links "><a href="bluetooth.html.id#problems" title="Masalah">Masalah-masalah Bluetooth</a></li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li>
 </ul></div></div></div></div></div>
 </div></div>
@@ -123,7 +123,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html" title="Panduan Desktop Ubuntu">Panduan Desktop Ubuntu</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.id" title="Panduan Desktop Ubuntu">Panduan Desktop Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

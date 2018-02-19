@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="prefs-display.html" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="prefs-display.html.de" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Häufige Probleme">Probleme</a> » <a class="trail" href="hardware-problems-graphics.html" title="Bildschirmprobleme">Bildschirmprobleme</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html.de#problems" title="Häufige Probleme">Probleme</a> » <a class="trail" href="hardware-problems-graphics.html.de" title="Bildschirmprobleme">Bildschirmprobleme</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <p class="p">Wenn Sie Ihren Rechner für ein paar Minuten verlassen, sperrt sich der Bildschirm automatisch selbst, so dass Sie Ihr Passwort eingeben müssen, um ihn wieder zu benutzen. Dies geschieht aus Sicherheitsgründen (damit sich niemand an Ihren Sachen zu schaffen macht, wenn Sie den Rechner unbeaufsichtigt lassen), aber es kann lästig sein, wenn sich der Bildschirm zu schnell sperrt.</p>
 <p class="p">So legen Sie eine längere Wartezeit vor dem automatischen Sperren des Bildschirms fest:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Privatsphäre</span> ein.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Privatsphäre</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Privatsphäre</span>, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Drücken Sie auf <span class="gui">Sperrbildschirm</span>.</p></li>
 <li class="steps"><p class="p">Wenn <span class="gui">Automatische Bildschirmsperre</span> aktiviert ist, können Sie den Wert in der Auswahlliste <span class="gui">Bildschirm sperren nach</span> ändern.</p></li>
@@ -70,22 +70,22 @@
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a><span class="desc"> — <span class="link"><a href="look-background.html" title="Anpassen des Hintergrundes für den Schreibtisch und den Sperrbildschirm">Hintergrund</a></span>, <span class="link"><a href="look-resolution.html" title="Ändern der Auflösung und der Drehung des Bildschirms">Größe und Drehung</a></span>, Helligkeit …</span>
+<a href="prefs-display.html.de" title="Anzeige und Bildschirm">Anzeige und Bildschirm</a><span class="desc"> — <span class="link"><a href="look-background.html.de" title="Anpassen des Hintergrundes für den Schreibtisch und den Sperrbildschirm">Hintergrund</a></span>, <span class="link"><a href="look-resolution.html.de" title="Ändern der Auflösung und der Drehung des Bildschirms">Größe und Drehung</a></span>, Helligkeit …</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html" title="Bildschirmprobleme">Bildschirmprobleme</a><span class="desc"> — Fehlerbeseitigung bei Bildschirm- und Grafikproblemen.</span>
+<a href="hardware-problems-graphics.html.de" title="Bildschirmprobleme">Bildschirmprobleme</a><span class="desc"> — Fehlerbeseitigung bei Bildschirm- und Grafikproblemen.</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Bildschirm sperren">Bildschirm sperren</a></li>
+<li class="links "><a href="shell-exit.html.de#lock-screen" title="Bildschirm sperren">Bildschirm sperren</a></li>
 <li class="links ">
-<a href="display-blank.html" title="Die Zeit bis zum Abschalten des Bildschirms einstellen">Die Zeit bis zum Abschalten des Bildschirms einstellen</a><span class="desc"> — So ändern Sie die Zeit bis zum Abschalten des Bildschirms, um Strom zu sparen.</span>
+<a href="display-blank.html.de" title="Die Zeit bis zum Abschalten des Bildschirms einstellen">Die Zeit bis zum Abschalten des Bildschirms einstellen</a><span class="desc"> — So ändern Sie die Zeit bis zum Abschalten des Bildschirms, um Strom zu sparen.</span>
 </li>
 <li class="links ">
-<a href="privacy-screen-lock.html" title="Ihren Bildschirm automatisch sperren">Ihren Bildschirm automatisch sperren</a><span class="desc"> — Hindern Sie andere Personen daran, Ihre Arbeitsumgebung zu verwenden, wenn Sie sich von Ihrem Rechner entfernen.</span>
+<a href="privacy-screen-lock.html.de" title="Ihren Bildschirm automatisch sperren">Ihren Bildschirm automatisch sperren</a><span class="desc"> — Hindern Sie andere Personen daran, Ihre Arbeitsumgebung zu verwenden, wenn Sie sich von Ihrem Rechner entfernen.</span>
 </li>
 </ul></div>
 </div></div>

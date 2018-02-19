@@ -44,14 +44,14 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Solução de problemas de rede sem fio">Solução de problemas de rede sem fio</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.pt-BR#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="net-wireless-troubleshooting.html.pt-BR" title="Solução de problemas de rede sem fio">Solução de problemas de rede sem fio</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-wireless.html" title="Rede sem fio">Rede sem fio</a> » <a class="trail" href="net-wireless-troubleshooting.html" title="Solução de problemas de rede sem fio">Solução de problemas de rede sem fio</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » <a class="trail" href="net-wireless.html.pt-BR" title="Rede sem fio">Rede sem fio</a> » <a class="trail" href="net-wireless-troubleshooting.html.pt-BR" title="Solução de problemas de rede sem fio">Solução de problemas de rede sem fio</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Solução de problemas de rede sem fio">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Solução de problemas de rede sem fio">Próximo</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting.html.pt-BR" title="Solução de problemas de rede sem fio">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html.pt-BR" title="Solução de problemas de rede sem fio">Próximo</a>
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Solução de problemas de rede sem fio</span></h1>
@@ -64,7 +64,7 @@
 <li class="steps"><p class="p">Certifique-se de que seu notebook não está conectado a uma conexão <span class="em">com fio</span>.</p></li>
 <li class="steps"><p class="p">Se você tem um adaptador de rede sem fio externo (tal como um adaptador USB, ou uma placa PCMCIA que é inserido em seu notebook), certifique-se de que ele está inserido firmemente na slot adequado em seu computador.</p></li>
 <li class="steps"><p class="p">Se sua placa de rede sem fio está <span class="em">dentro</span> de seu computador, certifique-se de que o botão da rede sem fio está ligada (se houver). Notebooks geralmente possuem botões de rede sem fio, os quais você pode desativar pressionando uma combinação de teclas no teclado.</p></li>
-<li class="steps"><p class="p">Clique na área de status do sistema na barra superior e selecione <span class="gui">Wi-Fi</span> e, então, selecione <span class="gui">Configurações de Wi-Fi</span>. Certifique-se de que <span class="gui">Wi-Fi</span> esteja em <span class="key"><kbd>❙</kbd></span>. Você também deveria se certificar de que o <span class="link"><a href="net-wireless-airplane.html" title="Desligando a rede sem fio (modo avião)">Modo avião</a></span> <span class="em">não</span> está ligado.</p></li>
+<li class="steps"><p class="p">Clique na área de status do sistema na barra superior e selecione <span class="gui">Wi-Fi</span> e, então, selecione <span class="gui">Configurações de Wi-Fi</span>. Certifique-se de que <span class="gui">Wi-Fi</span> esteja em <span class="key"><kbd>❙</kbd></span>. Você também deveria se certificar de que o <span class="link"><a href="net-wireless-airplane.html.pt-BR" title="Desligando a rede sem fio (modo avião)">Modo avião</a></span> <span class="em">não</span> está ligado.</p></li>
 <li class="steps">
 <p class="p">Abra o Terminal, digite <span class="cmd">nmcli device</span> e pressione <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Isso vai exibir informações sobre suas interfaces de rede e status de conexão. Procure na lista de informações e veja se há um item relacionado ao adaptador de rede sem fio. Se o estado estiver <span class="code">conectado</span>, significa que o adaptador está funcionando e conectado a seu roteador de rede sem fio.</p>
@@ -74,14 +74,14 @@
 <p class="p">Se a informação de <span class="cmd">nmcli device</span> não indica que você estava conectado à rede, clique em <span class="gui">Próximo</span> para continuar com os próximos passos do guia de diagnóstico.</p>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting.html" title="Solução de problemas de rede sem fio">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html" title="Solução de problemas de rede sem fio">Próximo</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting.html.pt-BR" title="Solução de problemas de rede sem fio">Anterior</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html.pt-BR" title="Solução de problemas de rede sem fio">Próximo</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html" title="Solução de problemas de rede sem fio">Solução de problemas de rede sem fio</a><span class="desc"> — Identifique a corrija problemas com conexões de rede sem fio.</span>
+<a href="net-wireless-troubleshooting.html.pt-BR" title="Solução de problemas de rede sem fio">Solução de problemas de rede sem fio</a><span class="desc"> — Identifique a corrija problemas com conexões de rede sem fio.</span>
 </li></ul></div>
 </div></div></div>
 </div>

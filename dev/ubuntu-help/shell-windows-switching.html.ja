@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">デスクトップ</a> › <a class="trail" href="shell-overview.html#apps" title="アプリケーションとウィンドウ">アプリケーションとウィンドウ</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ja" title="Your desktop">デスクトップ</a> › <a class="trail" href="shell-overview.html.ja#apps" title="アプリケーションとウィンドウ">アプリケーションとウィンドウ</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html" title="Your desktop">デスクトップ</a> › <a class="trail" href="shell-overview.html#apps" title="アプリケーションとウィンドウ">アプリケーションとウィンドウ</a> » <a class="trail" href="shell-windows.html" title="ウィンドウとワークスペース">ウィンドウとワークスペース</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="ウィンドウを扱う">ウィンドウ</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ja" title="Your desktop">デスクトップ</a> › <a class="trail" href="shell-overview.html.ja#apps" title="アプリケーションとウィンドウ">アプリケーションとウィンドウ</a> » <a class="trail" href="shell-windows.html.ja" title="ウィンドウとワークスペース">ウィンドウとワークスペース</a> › <a class="trail" href="shell-windows.html.ja#working-with-windows" title="ウィンドウを扱う">ウィンドウ</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -59,17 +59,17 @@
   which applications are running.</p>
 <p class="p">ワークスペース上で次の手順を行います。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> を押して、<span class="gui">ウィンドウスイッチャー</span>を表示します。</p></li>
-<li class="steps"><p class="p"><span class="key"><a href="keyboard-key-super.html" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span> を離すと、ウィンドウスイッチャー上の次の (ハイライトされた) ウィンドウに切り替わります。</p></li>
-<li class="steps"><p class="p">もしくは、<span class="key"><a href="keyboard-key-super.html" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span> キーを押したままで、<span class="key"><kbd>Tab</kbd></span> を押すと、開いている各ウィンドウを順に切り替えていき、<span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> を押すと、逆の順序で切り替えます。</p></li>
+<li class="steps"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html.ja" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> を押して、<span class="gui">ウィンドウスイッチャー</span>を表示します。</p></li>
+<li class="steps"><p class="p"><span class="key"><a href="keyboard-key-super.html.ja" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span> を離すと、ウィンドウスイッチャー上の次の (ハイライトされた) ウィンドウに切り替わります。</p></li>
+<li class="steps"><p class="p">もしくは、<span class="key"><a href="keyboard-key-super.html.ja" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span> キーを押したままで、<span class="key"><kbd>Tab</kbd></span> を押すと、開いている各ウィンドウを順に切り替えていき、<span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> を押すと、逆の順序で切り替えます。</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="ヒント"><div class="inner"><div class="region"><div class="contents"><p class="p">ウィンドウスイッチャー上のウィンドウはアプリケーションごとにまとめられています。複数のウィンドウを持つアプリケーションをクリックすると、プレビューがポップダウンします。<span class="key"><a href="keyboard-key-super.html" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span>を押しながら<span class="key"><kbd>`</kbd></span> キー (<span class="key"><kbd>Tab</kbd></span> の上にあるキー) を押すと、そのアプリケーションのウィンドウ間で切り替えます (訳注: 日本語キーボードの場合は、一般に <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>半角/全角</kbd></span></span>です)。</p></div></div></div></div>
+<div class="note note-tip" title="ヒント"><div class="inner"><div class="region"><div class="contents"><p class="p">ウィンドウスイッチャー上のウィンドウはアプリケーションごとにまとめられています。複数のウィンドウを持つアプリケーションをクリックすると、プレビューがポップダウンします。<span class="key"><a href="keyboard-key-super.html.ja" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span>を押しながら<span class="key"><kbd>`</kbd></span> キー (<span class="key"><kbd>Tab</kbd></span> の上にあるキー) を押すと、そのアプリケーションのウィンドウ間で切り替えます (訳注: 日本語キーボードの場合は、一般に <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>半角/全角</kbd></span></span>です)。</p></div></div></div></div>
 <p class="p"><span class="key"><kbd>→</kbd></span> あるいは <span class="key"><kbd>←</kbd></span> キーでウィンドウスイッチャー上のアプリケーションアイコンを移動したり、あるいはマウスでクリックして選択することもできます。</p>
 <p class="p">ウィンドウを 1 つだけ持つアプリケーションのプレビューは、<span class="key"><kbd>↓</kbd></span> キーを押すと表示されます。</p>
 <p class="p">From the <span class="gui">Activities</span> overview, click on a
-  <span class="link"><a href="shell-windows.html" title="ウィンドウとワークスペース">window</a></span> to switch to it and leave the
+  <span class="link"><a href="shell-windows.html.ja" title="ウィンドウとワークスペース">window</a></span> to switch to it and leave the
   overview. If you have multiple
-  <span class="link"><a href="shell-windows.html#working-with-workspaces" title="ワークスペースを扱う">workspaces</a></span> open,
+  <span class="link"><a href="shell-windows.html.ja#working-with-workspaces" title="ワークスペースを扱う">workspaces</a></span> open,
   you can click on each workspace to view the open windows on each
   workspace.</p>
 </div>
@@ -79,15 +79,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-overview.html#apps" title="アプリケーションとウィンドウ">アプリケーションとウィンドウ</a></li>
-<li class="links "><a href="shell-windows.html#working-with-windows" title="ウィンドウを扱う">ウィンドウを扱う</a></li>
+<li class="links "><a href="shell-overview.html.ja#apps" title="アプリケーションとウィンドウ">アプリケーションとウィンドウ</a></li>
+<li class="links "><a href="shell-windows.html.ja#working-with-windows" title="ウィンドウを扱う">ウィンドウを扱う</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-use-windows-workspaces.html" title="ウィンドウとワークスペースを使用する">ウィンドウとワークスペースの使用に関するチュートリアル</a></li>
-<li class="links "><a href="gs-switch-tasks.html" title="タスクを切り替える">タスクの切り替えに関するチュートリアル</a></li>
+<li class="links "><a href="gs-use-windows-workspaces.html.ja" title="ウィンドウとワークスペースを使用する">ウィンドウとワークスペースの使用に関するチュートリアル</a></li>
+<li class="links "><a href="gs-switch-tasks.html.ja" title="タスクを切り替える">タスクの切り替えに関するチュートリアル</a></li>
 </ul></div>
 </div></div>
 </div>

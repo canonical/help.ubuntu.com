@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="prefs-display.html" title="显示器 &amp; 屏幕">显示器 &amp; 屏幕</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » <a class="trail" href="prefs-display.html.zh-CN" title="显示器 &amp; 屏幕">显示器 &amp; 屏幕</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Change the resolution or rotation of the screen</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">您可以在<span class="em">屏幕分辨率</span>中，更改屏幕上对象的大小(或细致程度)。可以在<span class="em">旋转</span>中，设置对象出现的方向(例如，您旋转了屏幕显示)。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Displays</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Displays</span> to open the panel.</p></li>
 <li class="steps"><p class="p">If you have multiple displays and they are not mirrored, you can have
@@ -74,7 +74,7 @@
   resolution that does not match the aspect ratio of your display, the screen
   will be letterboxed to avoid distortion, by adding black bars to the top and
   bottom or both sides of the screen.</p>
-<p class="p">您可以在<span class="gui">分辨率</span>下拉列表中选择分辨率。如果选择错误，屏幕会变得<span class="link"><a href="look-display-fuzzy.html" title="为什么屏幕看着模糊/花屏了？">看着很模糊或花屏</a></span>。</p>
+<p class="p">您可以在<span class="gui">分辨率</span>下拉列表中选择分辨率。如果选择错误，屏幕会变得<span class="link"><a href="look-display-fuzzy.html.zh-CN" title="为什么屏幕看着模糊/花屏了？">看着很模糊或花屏</a></span>。</p>
 </div></div>
 </div></div>
 <div id="rotation" class="sect"><div class="inner">
@@ -89,9 +89,9 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html" title="显示器 &amp; 屏幕">显示器 &amp; 屏幕</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
+<a href="prefs-display.html.zh-CN" title="显示器 &amp; 屏幕">显示器 &amp; 屏幕</a><span class="desc"> — 
+      <span class="link"><a href="look-background.html.zh-CN" title="Change the desktop and lock screen backgrounds">Background</a></span>,
+      <span class="link"><a href="look-resolution.html.zh-CN" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
       brightness…
     </span>
 </li></ul></div>
@@ -99,7 +99,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-display-fuzzy.html" title="为什么屏幕看着模糊/花屏了？">为什么屏幕看着模糊/花屏了？</a><span class="desc"> — 屏幕分辨率可能设置不正确。</span>
+<a href="look-display-fuzzy.html.zh-CN" title="为什么屏幕看着模糊/花屏了？">为什么屏幕看着模糊/花屏了？</a><span class="desc"> — 屏幕分辨率可能设置不正确。</span>
 </li></ul></div>
 </div></div>
 </div>

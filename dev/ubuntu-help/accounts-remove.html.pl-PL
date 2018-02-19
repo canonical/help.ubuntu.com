@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="accounts.html" title="Konta online">Konta online</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="accounts.html.pl-PL" title="Konta online">Konta online</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Usuwanie konta</span></h1></div>
@@ -55,13 +55,13 @@
 <p class="p">Sposób unieważnienia upoważnienia zależy od serwisu. Poszukaj listy upoważnionych lub połączonych programów na stronie serwisu. Znajdź pozycję o nazwie „GNOME” i ją usuń.</p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Konta online</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Konta online</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Konta online</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Wybierz konto, które ma zostać usunięte.</p></li>
 <li class="steps"><p class="p">Kliknij przycisk <span class="gui">-</span> w dolnym lewym rogu okna.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Usuń</span> w oknie potwierdzenia.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Można <span class="link"><a href="accounts-disable-service.html" title="Kontrolowanie, których usług konta online można używać">ograniczyć usługi</a></span> używane przez komputer zamiast całkowicie usuwać konto.</p></div></div></div></div>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Można <span class="link"><a href="accounts-disable-service.html.pl-PL" title="Kontrolowanie, których usług konta online można używać">ograniczyć usługi</a></span> używane przez komputer zamiast całkowicie usuwać konto.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -69,13 +69,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html" title="Konta online">Konta online</a><span class="desc"> — <span class="link"><a href="accounts-add.html" title="Dodawanie konta">Dodawanie konta online</a></span>, <span class="link"><a href="accounts-remove.html" title="Usuwanie konta">Usuwanie konta</a></span>, <span class="link"><a href="accounts-which-application.html" title="Usługi internetowe a programy">Informacje o usługach</a></span>…</span>
+<a href="accounts.html.pl-PL" title="Konta online">Konta online</a><span class="desc"> — <span class="link"><a href="accounts-add.html.pl-PL" title="Dodawanie konta">Dodawanie konta online</a></span>, <span class="link"><a href="accounts-remove.html.pl-PL" title="Usuwanie konta">Usuwanie konta</a></span>, <span class="link"><a href="accounts-which-application.html.pl-PL" title="Usługi internetowe a programy">Informacje o usługach</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html" title="Kontrolowanie, których usług konta online można używać">Kontrolowanie, których usług konta online można używać</a><span class="desc"> — Niektóre konta online mogą być używane do dostępu do wielu usług (np. kalendarza i poczty e-mail). Można kontrolować, które z tych usług mogą być używane przez programy.</span>
+<a href="accounts-disable-service.html.pl-PL" title="Kontrolowanie, których usług konta online można używać">Kontrolowanie, których usług konta online można używać</a><span class="desc"> — Niektóre konta online mogą być używane do dostępu do wielu usług (np. kalendarza i poczty e-mail). Można kontrolować, które z tych usług mogą być używane przez programy.</span>
 </li></ul></div>
 </div></div>
 </div>

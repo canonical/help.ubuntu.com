@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="keyboard.html" title="Clavier">Clavier</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="keyboard.html.fr" title="Clavier">Clavier</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="a11y.html" title="Accès universel">Accès universel</a> › <a class="trail" href="a11y.html#mobility" title="Mobilité défaillante">Mobilité défaillante</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="a11y.html.fr" title="Accès universel">Accès universel</a> › <a class="trail" href="a11y.html.fr#mobility" title="Mobilité défaillante">Mobilité défaillante</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="keyboard.html" title="Clavier">Clavier</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="keyboard.html.fr" title="Clavier">Clavier</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -58,7 +58,7 @@
 <p class="p">Si vous n'avez pas de clavier connecté à votre ordinateur, ou si vous ne souhaitez pas l'utiliser, vous pouvez activer la fonction <span class="em">clavier visuel</span> pour saisir du texte.</p>
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Le clavier visuel s'active automatiquement dès que vous touchez l'écran.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ouvrez la vue d'ensemble des <span class="link"><a href="shell-introduction.html#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d'ensemble des <span class="link"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur l'icône <span class="gui">Accès universel</span> pour afficher le panneau.</p></li>
 <li class="steps"><p class="p">Ouvrez <span class="gui">Clavier visuel</span> dans la section <span class="gui">Saisie</span>.</p></li>
 </ol></div></div></div>
@@ -67,7 +67,7 @@
   symbols. More symbols are available if you then press the
   <span class="gui">{#*</span> button. To return to the alphabet keyboard,
   press the <span class="gui">Abc</span> button.</p>
-<p class="p">Si le clavier visuel vous gène, cliquez sur le bouton <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="clavier"></span></span></span> pour le masquer temporairement. Il s'affichera à nouveau automatiquement chaque fois que vous appuierez sur quelque chose où il peut être utilisé. Pour l'afficher à nouveau, ouvrez le <span class="link"><a href="shell-notifications.html" title="Notifications et tiroir de messagerie">tiroir de messagerie</a></span> en passant votre souris en bas à droite de l'écran et cliquez sur l'icône du clavier.</p>
+<p class="p">Si le clavier visuel vous gène, cliquez sur le bouton <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="clavier"></span></span></span> pour le masquer temporairement. Il s'affichera à nouveau automatiquement chaque fois que vous appuierez sur quelque chose où il peut être utilisé. Pour l'afficher à nouveau, ouvrez le <span class="link"><a href="shell-notifications.html.fr" title="Notifications et tiroir de messagerie">tiroir de messagerie</a></span> en passant votre souris en bas à droite de l'écran et cliquez sur l'icône du clavier.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -75,9 +75,9 @@
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html" title="Clavier">Clavier</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Utiliser des configurations de clavier alternatives">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span>
+<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.fr" title="Utiliser des configurations de clavier alternatives">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fr" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html.fr#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="Mobilité défaillante">Mobilité défaillante</a></li>
+<li class="links "><a href="a11y.html.fr#mobility" title="Mobilité défaillante">Mobilité défaillante</a></li>
 </ul></div>
 </div></div></div>
 </div>

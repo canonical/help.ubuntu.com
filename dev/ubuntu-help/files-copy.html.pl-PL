@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Copy or move files and folders</title>
+<title>Kopiowanie i przenoszenie plików i katalogów</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -43,10 +43,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html#common-file-tasks" title="Często wykonywane zadania">Często wykonywane zadania</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#common-file-tasks" title="Często wykonywane zadania">Często wykonywane zadania</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Copy or move files and folders</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Kopiowanie i przenoszenie plików i katalogów</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">A file or folder can be copied or moved to a new location by dragging and
@@ -61,7 +61,7 @@
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-steps"><h2><span class="title">Copy and paste files</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Kopiowanie i wklejanie plików</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Select the file you want to copy by clicking on it once.</p></li>
 <li class="steps"><p class="p">Right-click and pick <span class="gui">Copy</span>, or press
@@ -118,7 +118,7 @@
 <div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">You cannot copy or move a file into a folder that is <span class="em">read-only</span>.
   Some folders are read-only to prevent you from making changes to their
   contents. You can change things from being read-only by
-  <span class="link"><a href="nautilus-file-properties-permissions.html" title="Set file permissions">changing file permissions
+  <span class="link"><a href="nautilus-file-properties-permissions.html.pl-PL" title="Ustawianie uprawnień plików">changing file permissions
   </a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -126,12 +126,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#common-file-tasks" title="Często wykonywane zadania">Często wykonywane zadania</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pl-PL#common-file-tasks" title="Często wykonywane zadania">Często wykonywane zadania</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-browse.html" title="Browse files and folders">Browse files and folders</a><span class="desc"> — Manage and organize files with the file manager.</span>
+<a href="files-browse.html.pl-PL" title="Przeglądanie plików i katalogów">Przeglądanie plików i katalogów</a><span class="desc"> — Manage and organize files with the file manager.</span>
 </li></ul></div>
 </div></div>
 </div>

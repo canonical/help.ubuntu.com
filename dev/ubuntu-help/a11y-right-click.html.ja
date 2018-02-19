@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="mouse.html" title="マウス">マウス</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="mouse.html.ja" title="マウス">マウス</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="mouse.html" title="マウス">マウス</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ja" title="ユーザー設定およびシステム設定">設定</a> » <a class="trail" href="mouse.html.ja" title="マウス">マウス</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="ユニバーサルアクセス">ユニバーサルアクセス</a> › <a class="trail" href="a11y.html#mobility" title="運動障害">運動障害</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ja" title="ユニバーサルアクセス">ユニバーサルアクセス</a> › <a class="trail" href="a11y.html.ja#mobility" title="運動障害">運動障害</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -57,7 +57,7 @@
 <div class="contents">
 <p class="p">マウスの左ボタンを押したままにすることで、右クリック操作を行うことができます。片手で複数の指を別々に動かすのが困難であったり、特殊なマウスを使っていたりする場合に、この機能は役立ちます。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="アクティビティ画面">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Universal Access</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Click Assist</span> in the <span class="gui">Pointing &amp; Clicking</span>
@@ -74,7 +74,7 @@
 <p class="p">Some special pointers, such as the resize pointers, do not change colors.
   You can still use simulated secondary click as normal, even if you do not get
   visual feedback from the pointer.</p>
-<p class="p"><span class="link"><a href="mouse-mousekeys.html" title="キーパッドを使ってクリックやマウスポインターの操作を行う">マウスキー</a></span>を使用している場合は、キーパッドの <span class="key"><kbd>5</kbd></span> キーを押したままにすることで、右クリックできます。</p>
+<p class="p"><span class="link"><a href="mouse-mousekeys.html.ja" title="キーパッドを使ってクリックやマウスポインターの操作を行う">マウスキー</a></span>を使用している場合は、キーパッドの <span class="key"><kbd>5</kbd></span> キーを押したままにすることで、右クリックできます。</p>
 <div class="note" title="注記"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="gui">アクティビティ</span>画面では、この機能を無効にしている場合でも長押しによる右クリックが常に可能です。アクティビティ画面では、長押しの動作が少し異なります。右クリック操作をするのにボタンを離す必要がありません。</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -83,9 +83,9 @@
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse.html" title="マウス">マウス</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html" title="左手でマウスを使う">左手で利用する</a></span>, <span class="link"><a href="mouse-sensitivity.html" title="マウスやタッチパッドの速度を調節する">速度と感度</a></span>, <span class="link"><a href="mouse-touchpad-click.html" title="Click, drag, or scroll with the touchpad">タッチパッドでクリックとスクロール</a></span>…</span>
+<a href="mouse.html.ja" title="マウス">マウス</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.ja" title="左手でマウスを使う">左手で利用する</a></span>, <span class="link"><a href="mouse-sensitivity.html.ja" title="マウスやタッチパッドの速度を調節する">速度と感度</a></span>, <span class="link"><a href="mouse-touchpad-click.html.ja" title="Click, drag, or scroll with the touchpad">タッチパッドでクリックとスクロール</a></span>…</span>
 </li>
-<li class="links "><a href="a11y.html#mobility" title="運動障害">運動障害</a></li>
+<li class="links "><a href="a11y.html.ja#mobility" title="運動障害">運動障害</a></li>
 </ul></div>
 </div></div></div>
 </div>

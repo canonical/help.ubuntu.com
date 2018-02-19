@@ -43,29 +43,29 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Reti via cavo</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html" title="Connettersi a una rete via cavo (Ethernet)"><span class="title">Connettersi a una rete via cavo (Ethernet)</span><span class="linkdiv-dash"> — </span><span class="desc">Per configurare la maggior parte delle connessioni di rete via cavo, è necessario unicamente collegare un cavo di rete.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html" title="Configurare manualmente le impostazioni di rete"><span class="title">Configurare manualmente le impostazioni di rete</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
+<div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html.it" title="Connettersi a una rete via cavo (Ethernet)"><span class="title">Connettersi a una rete via cavo (Ethernet)</span><span class="linkdiv-dash"> — </span><span class="desc">Per configurare la maggior parte delle connessioni di rete via cavo, è necessario unicamente collegare un cavo di rete.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html.it" title="Configurare manualmente le impostazioni di rete"><span class="title">Configurare manualmente le impostazioni di rete</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
     automatically.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html" title="Connettersi a una VPN"><span class="title">Connettersi a una VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html" title="Creare una connessione con un indirizzo IP statico"><span class="title">Creare una connessione con un indirizzo IP statico</span><span class="linkdiv-dash"> — </span><span class="desc">Se si utilizza un indirizzo IP statico è più semplice fornire alcuni servizi di rete dal proprio computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html.it" title="Connettersi a una VPN"><span class="title">Connettersi a una VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-fixed-ip-address.html.it" title="Creare una connessione con un indirizzo IP statico"><span class="title">Creare una connessione con un indirizzo IP statico</span><span class="linkdiv-dash"> — </span><span class="desc">Se si utilizza un indirizzo IP statico è più semplice fornire alcuni servizi di rete dal proprio computer.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html" title="Reti WiFi">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html" title="Reti via cavo">wired</a></span>,
-      <span class="link"><a href="net-problem.html" title="Problemi di rete">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html" title="Browser web">web browsing</a></span>,
-      <span class="link"><a href="net-email.html" title="Email e applicazioni per la posta elettronica">email accounts</a></span>…
+<a href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html.it" title="Reti WiFi">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html.it" title="Reti via cavo">wired</a></span>,
+      <span class="link"><a href="net-problem.html.it" title="Problemi di rete">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html.it" title="Browser web">web browsing</a></span>,
+      <span class="link"><a href="net-email.html.it" title="Email e applicazioni per la posta elettronica">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a> » <a class="trail" href="shell-windows.html" title="Ventanas y áreas de trabajo">Ventanas y áreas de trabajo</a> › <a class="trail" href="shell-windows.html#working-with-windows" title="Trabajar con ventanas">Ventanas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="shell-overview.html.es" title="Su escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html.es#apps" title="Aplicaciones y ventanas">Aplicaciones y ventanas</a> » <a class="trail" href="shell-windows.html.es" title="Ventanas y áreas de trabajo">Ventanas y áreas de trabajo</a> › <a class="trail" href="shell-windows.html.es#working-with-windows" title="Trabajar con ventanas">Ventanas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Encontrar una ventana perdida</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Una ventana en un área de trabajo diferente, u oculta detrás de otra ventana es fácil de encontrar usando la vista de <span class="gui"><a href="shell-introduction.html#activities" title="Vista de Actividades">Actividades</a></span>:</p>
+<p class="p">Una ventana en un área de trabajo diferente, u oculta detrás de otra ventana es fácil de encontrar usando la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Abra la vista de <span class="gui">Actividades</span>. Si la ventana que está buscando está en el <span class="link"><a href="shell-windows.html#working-with-workspaces" title="Trabajar con áreas de trabajo:">área de trabajo</a></span>, se mostrará aquí como una miniatura. Para mostrarla de nuevo, simplemente pulse la miniatura, o</p></li>
-<li class="list"><p class="p">Pulse en diferentes áreas de trabajo en el <span class="link"><a href="shell-workspaces.html" title="¿Qué es un área de trabajo y cómo me ayudará?">selector de áreas de trabajo</a></span> a la derecha de la pantalla para tratar de encontrar la ventana, o</p></li>
+<li class="list"><p class="p">Abra la vista de <span class="gui">Actividades</span>. Si la ventana que está buscando está en el <span class="link"><a href="shell-windows.html.es#working-with-workspaces" title="Trabajar con áreas de trabajo:">área de trabajo</a></span>, se mostrará aquí como una miniatura. Para mostrarla de nuevo, simplemente pulse la miniatura, o</p></li>
+<li class="list"><p class="p">Pulse en diferentes áreas de trabajo en el <span class="link"><a href="shell-workspaces.html.es" title="¿Qué es un área de trabajo y cómo me ayudará?">selector de áreas de trabajo</a></span> a la derecha de la pantalla para tratar de encontrar la ventana, o</p></li>
 <li class="list"><p class="p">Pulse con el botón derecho sobre la aplicación en el tablero y se listarán las ventanas abiertas. Pulse en la ventana de la lista a la que quiere cambiar.</p></li>
 </ul></div></div></div>
 <p class="p">Usando el selector de ventanas:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Pulse <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="¿Qué es la tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> para mostrar el <span class="link"><a href="shell-windows-switching.html" title="Cambiar entre ventanas">selector de ventanas</a></span>. Mantenga pulsada la tecla <span class="key"><kbd>Super</kbd></span> y pulse <span class="key"><kbd>Tab</kbd></span> para cambiar entre la lista de ventanas abiertas, o pulse <span class="keyseq"><span class="key"><kbd>Mayús</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> para cambiar hacia atrás.</p></li>
+<li class="list"><p class="p">Pulse <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.es" title="¿Qué es la tecla Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> para mostrar el <span class="link"><a href="shell-windows-switching.html.es" title="Cambiar entre ventanas">selector de ventanas</a></span>. Mantenga pulsada la tecla <span class="key"><kbd>Super</kbd></span> y pulse <span class="key"><kbd>Tab</kbd></span> para cambiar entre la lista de ventanas abiertas, o pulse <span class="keyseq"><span class="key"><kbd>Mayús</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> para cambiar hacia atrás.</p></li>
 <li class="list"><p class="p">Si una aplicación tiene múltiples ventanas abiertas, pulse <span class="key"><kbd>Super</kbd></span> y <span class="key"><kbd>`</kbd></span> (o la tecla encima de la tecla <span class="key"><kbd>Tab</kbd></span>) para pasar por ellas.</p></li>
 </ul></div></div></div>
 </div>
@@ -65,7 +65,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html#working-with-windows" title="Trabajar con ventanas">Trabajar con ventanas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.es#working-with-windows" title="Trabajar con ventanas">Trabajar con ventanas</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

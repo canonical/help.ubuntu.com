@@ -43,20 +43,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hálózati problémák</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-slow.html" title="Az internet lassúnak tűnik"><span class="title">Az internet lassúnak tűnik</span><span class="linkdiv-dash"> — </span><span class="desc">Letöltések lehetnek folyamatban, a kapcsolat rossz vagy az adott napszakban leterhelt lehet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html" title="Miért bontja folyamatosan a kapcsolatot a vezeték nélküli hálózatom?"><span class="title">Miért bontja folyamatosan a kapcsolatot a vezeték nélküli hálózatom?</span><span class="linkdiv-dash"> — </span><span class="desc">Gyenge lehet a jel, vagy a hálózat nem engedi a megfelelő csatlakozást.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html" title="Más felhasználók nem tudják szerkeszteni a hálózati kapcsolatokat"><span class="title">Más felhasználók nem tudják szerkeszteni a hálózati kapcsolatokat</span><span class="linkdiv-dash"> — </span><span class="desc">Törölje az <span class="gui">Elérhető minden felhasználónak</span> négyzetet a hálózati kapcsolat beállításaiban.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-slow.html.hu" title="Az internet lassúnak tűnik"><span class="title">Az internet lassúnak tűnik</span><span class="linkdiv-dash"> — </span><span class="desc">Letöltések lehetnek folyamatban, a kapcsolat rossz vagy az adott napszakban leterhelt lehet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html.hu" title="Miért bontja folyamatosan a kapcsolatot a vezeték nélküli hálózatom?"><span class="title">Miért bontja folyamatosan a kapcsolatot a vezeték nélküli hálózatom?</span><span class="linkdiv-dash"> — </span><span class="desc">Gyenge lehet a jel, vagy a hálózat nem engedi a megfelelő csatlakozást.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html.hu" title="Más felhasználók nem tudják szerkeszteni a hálózati kapcsolatokat"><span class="title">Más felhasználók nem tudják szerkeszteni a hálózati kapcsolatokat</span><span class="linkdiv-dash"> — </span><span class="desc">Törölje az <span class="gui">Elérhető minden felhasználónak</span> négyzetet a hálózati kapcsolat beállításaiban.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html" title="Más felhasználók nem tudnak az internetre csatlakozni"><span class="title">Más felhasználók nem tudnak az internetre csatlakozni</span><span class="linkdiv-dash"> — </span><span class="desc">Elmentheti a hálózati kapcsolat beállításait (például a jelszavát), hogy a számítógép minden felhasználója kapcsolódhasson ahhoz.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html" title="Nem látom a vezeték nélküli hálózatomat a listán"><span class="title">Nem látom a vezeték nélküli hálózatomat a listán</span><span class="linkdiv-dash"> — </span><span class="desc">A hardver ki lehet kapcsolva vagy hibás lehet, vagy rejtett hálózathoz próbálhat csatlakozni.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html.hu" title="Más felhasználók nem tudnak az internetre csatlakozni"><span class="title">Más felhasználók nem tudnak az internetre csatlakozni</span><span class="linkdiv-dash"> — </span><span class="desc">Elmentheti a hálózati kapcsolat beállításait (például a jelszavát), hogy a számítógép minden felhasználója kapcsolódhasson ahhoz.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html.hu" title="Nem látom a vezeték nélküli hálózatomat a listán"><span class="title">Nem látom a vezeték nélküli hálózatomat a listán</span><span class="linkdiv-dash"> — </span><span class="desc">A hardver ki lehet kapcsolva vagy hibás lehet, vagy rejtett hálózathoz próbálhat csatlakozni.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -65,13 +65,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html" title="Vezeték nélküli hálózatok">Vezeték nélküli</a></span>, <span class="link"><a href="net-wired.html" title="Vezetékes kapcsolatok">vezetékes</a></span>, <span class="link"><a href="net-problem.html" title="Hálózati problémák">kapcsolatproblémák</a></span>, <span class="link"><a href="net-browser.html" title="Webböngészők">webböngészés</a></span>, <span class="link"><a href="net-email.html" title="E-mail és levelezőprogramok">e-mail fiókok</a></span>…</span>
+<a href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.hu" title="Vezeték nélküli hálózatok">Vezeték nélküli</a></span>, <span class="link"><a href="net-wired.html.hu" title="Vezetékes kapcsolatok">vezetékes</a></span>, <span class="link"><a href="net-problem.html.hu" title="Hálózati problémák">kapcsolatproblémák</a></span>, <span class="link"><a href="net-browser.html.hu" title="Webböngészők">webböngészés</a></span>, <span class="link"><a href="net-email.html.hu" title="E-mail és levelezőprogramok">e-mail fiókok</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html" title="Csatlakozás vezeték nélküli hálózatra">Kapcsolódás Wi-Fi-hez</a></span>, <span class="link"><a href="net-wireless-hidden.html" title="Kapcsolódás rejtett vezeték nélküli hálózathoz">Rejtett hálózatok</a></span>, <span class="link"><a href="net-wireless-disconnecting.html" title="Miért bontja folyamatosan a kapcsolatot a vezeték nélküli hálózatom?">Kapcsolatbontás</a></span>…</span>
+<a href="net-wireless.html.hu" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.hu" title="Csatlakozás vezeték nélküli hálózatra">Kapcsolódás Wi-Fi-hez</a></span>, <span class="link"><a href="net-wireless-hidden.html.hu" title="Kapcsolódás rejtett vezeték nélküli hálózathoz">Rejtett hálózatok</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.hu" title="Miért bontja folyamatosan a kapcsolatot a vezeték nélküli hálózatom?">Kapcsolatbontás</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

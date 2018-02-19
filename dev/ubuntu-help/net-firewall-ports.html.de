@@ -43,13 +43,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-security.html" title="Sicherheit im Internet">Sicherheit im Internet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-security.html.de" title="Sicherheit im Internet">Sicherheit im Internet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Üblicherweise verwendete Netzwerk-Ports</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Dies ist eine Liste von Netzwerkports, die üblicherweise von Anwendungen verwendet werden, die Netzwerkdienste bereitstellen, wie etwa Dateifreigaben oder das Betrachten entfernter Bildschirme. Sie können die Firewall Ihres Systems so einstellen, dass sie den <span class="link"><a href="net-firewall-on-off.html" title="Firewall-Zugriff erlauben oder blockieren">Zugriff auf diese Anwendungen verhindert oder erlaubt</a></span>. Es gibt tausende verwendeter Ports, deshalb ist diese Liste nicht vollständig.</p>
+<p class="p">Dies ist eine Liste von Netzwerkports, die üblicherweise von Anwendungen verwendet werden, die Netzwerkdienste bereitstellen, wie etwa Dateifreigaben oder das Betrachten entfernter Bildschirme. Sie können die Firewall Ihres Systems so einstellen, dass sie den <span class="link"><a href="net-firewall-on-off.html.de" title="Firewall-Zugriff erlauben oder blockieren">Zugriff auf diese Anwendungen verhindert oder erlaubt</a></span>. Es gibt tausende verwendeter Ports, deshalb ist diese Liste nicht vollständig.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
 <thead><tr>
 <td><p class="p">Port</p></td>
@@ -96,13 +96,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html" title="Sicherheit im Internet">Sicherheit im Internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html" title="Benötige ich Anti-Virus-Software?">Anti-Virus-Software</a></span>, <span class="link"><a href="net-firewall-on-off.html" title="Firewall-Zugriff erlauben oder blockieren">Einfache Firewall</a></span>, <span class="link"><a href="net-firewall-ports.html" title="Üblicherweise verwendete Netzwerk-Ports">Firewall-Ports</a></span> …</span>
+<a href="net-security.html.de" title="Sicherheit im Internet">Sicherheit im Internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.de" title="Benötige ich Anti-Virus-Software?">Anti-Virus-Software</a></span>, <span class="link"><a href="net-firewall-on-off.html.de" title="Firewall-Zugriff erlauben oder blockieren">Einfache Firewall</a></span>, <span class="link"><a href="net-firewall-ports.html.de" title="Üblicherweise verwendete Netzwerk-Ports">Firewall-Ports</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-on-off.html" title="Firewall-Zugriff erlauben oder blockieren">Firewall-Zugriff erlauben oder blockieren</a><span class="desc"> — Sie können steuern, welche Programme auf das Netzwerk zugreifen dürfen. Dies hilft Ihnen dabei, Ihren Rechner sicher zu halten.</span>
+<a href="net-firewall-on-off.html.de" title="Firewall-Zugriff erlauben oder blockieren">Firewall-Zugriff erlauben oder blockieren</a><span class="desc"> — Sie können steuern, welche Programme auf das Netzwerk zugreifen dürfen. Dies hilft Ihnen dabei, Ihren Rechner sicher zu halten.</span>
 </li></ul></div>
 </div></div>
 </div>

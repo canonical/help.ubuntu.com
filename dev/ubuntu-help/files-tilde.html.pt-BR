@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html#faq" title="Dicas e perguntas">Dicas e perguntas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#faq" title="Dicas e perguntas">Dicas e perguntas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">O que é um arquivo com um <span class="file">~</span> no final do seu nome?</span></h1></div>
@@ -51,19 +51,19 @@
 <div class="contents">
 <p class="p">Arquivos com um <span class="file">~</span> no final do seus nomes (por exemplo, <span class="file">exemplo.txt~</span>) são cópias de segurança criadas automaticamente de documentos editados no editor de texto <span class="app">gedit</span> ou outros aplicativos. É seguro excluí-los, mas não há risco em mantê-los em seu computador.</p>
 <p class="p">Por padrão, estes arquivos são ocultos. Se você está os vendo, é porque você selecionou tanto <span class="gui">Mostrar arquivos ocultos</span> (no menu de opções de visualização da barra de ferramentas <span class="app">Arquivos</span>) ou pressionou <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Você pode ocultá-los novamente repetindo qualquer um destes passos.</p>
-<p class="p">Esses arquivos são tratados da mesma forma que arquivos ocultos comuns. Veja <span class="link"><a href="files-hidden.html" title="Ocultando um arquivo">Ocultando um arquivo</a></span> por conselho sobre lidar com arquivos ocultos.</p>
+<p class="p">Esses arquivos são tratados da mesma forma que arquivos ocultos comuns. Veja <span class="link"><a href="files-hidden.html.pt-BR" title="Ocultando um arquivo">Ocultando um arquivo</a></span> por conselho sobre lidar com arquivos ocultos.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html#faq" title="Dicas e perguntas">Dicas e perguntas</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt-BR#faq" title="Dicas e perguntas">Dicas e perguntas</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-hidden.html" title="Ocultando um arquivo">Ocultando um arquivo</a><span class="desc"> — Torne um arquivo invisível, para que você não o veja no gerenciador de arquivos.</span>
+<a href="files-hidden.html.pt-BR" title="Ocultando um arquivo">Ocultando um arquivo</a><span class="desc"> — Torne um arquivo invisível, para que você não o veja no gerenciador de arquivos.</span>
 </li></ul></div>
 </div></div>
 </div>

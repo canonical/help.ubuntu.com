@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html" title="保证网络安全">保证网络安全</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html.zh-CN" title="保证网络安全">保证网络安全</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html" title="邮件和邮件客户端">邮件和邮件客户端</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html.zh-CN" title="邮件和邮件客户端">邮件和邮件客户端</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -55,7 +55,7 @@
 <div class="contents">
 <p class="p">病毒是一种程序，如果它们侵入您的计算机，则会导致问题的发生。它们侵入计算机的常见方式之一就是通过电子邮件消息。</p>
 <p class="p">Viruses that can affect computers running Linux are quite rare, so you are
-  <span class="link"><a href="net-antivirus.html" title="我需要安装反病毒软件吗？">unlikely to get a virus through email or
+  <span class="link"><a href="net-antivirus.html.zh-CN" title="我需要安装反病毒软件吗？">unlikely to get a virus through email or
   otherwise</a></span>. If you receive an email with a virus hidden in it, it will
   probably have no effect on your computer. As such, you probably don’t need to
   scan your email for viruses.</p>
@@ -75,16 +75,16 @@
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-security.html" title="保证网络安全">保证网络安全</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html" title="我需要安装反病毒软件吗？">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html" title="启用和阻止防火墙访问">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html" title="常用网络端口">firewall ports</a></span>…
+<a href="net-security.html.zh-CN" title="保证网络安全">保证网络安全</a><span class="desc"> — 
+      <span class="link"><a href="net-antivirus.html.zh-CN" title="我需要安装反病毒软件吗？">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.zh-CN" title="启用和阻止防火墙访问">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.zh-CN" title="常用网络端口">firewall ports</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="net-email.html" title="邮件和邮件客户端">邮件和邮件客户端</a><span class="desc"> — 
-      <span class="link"><a href="net-default-email.html" title="设置用于书写邮件的应用程序">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html" title="要为电子邮件扫描病毒吗？">Should I scan for viruses?</a></span>…
+<a href="net-email.html.zh-CN" title="邮件和邮件客户端">邮件和邮件客户端</a><span class="desc"> — 
+      <span class="link"><a href="net-default-email.html.zh-CN" title="设置用于书写邮件的应用程序">Default email apps</a></span>,
+      <span class="link"><a href="net-email-virus.html.zh-CN" title="要为电子邮件扫描病毒吗？">Should I scan for viruses?</a></span>…
     </span>
 </li>
 </ul></div>
@@ -92,7 +92,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html" title="我需要安装反病毒软件吗？">我需要安装反病毒软件吗？</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
+<a href="net-antivirus.html.zh-CN" title="我需要安装反病毒软件吗？">我需要安装反病毒软件吗？</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
     software.</span>
 </li></ul></div>
 </div></div>

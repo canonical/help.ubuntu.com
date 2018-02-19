@@ -44,11 +44,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="mouse.html" title="Mus">Mus</a> › <a class="trail" href="mouse.html#tips" title="Tips">Tips</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="hardware.html.sv" title="Maskinvara och drivrutiner">Hårdvara</a> » <a class="trail" href="mouse.html.sv" title="Mus">Mus</a> › <a class="trail" href="mouse.html.sv#tips" title="Tips">Tips</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="mouse.html" title="Mus">Mus</a> › <a class="trail" href="mouse.html#tips" title="Tips">Tips</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="prefs.html.sv" title="Inställningar för användare och system">Inställningar</a> » <a class="trail" href="mouse.html.sv" title="Mus">Mus</a> › <a class="trail" href="mouse.html.sv#tips" title="Tips">Tips</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="tips.html" title="Tips och tricks">Tips och tricks</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="tips.html.sv" title="Tips och tricks">Tips och tricks</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -56,7 +56,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Många möss och vissa styrplattor har en mittmusknapp. På en mus med ett rullhjul kan du vanligtvis trycka ner rullhjulet för att mittenklicka. Om du inte har en mittmusknapp kan du trycka på vänster och höger musknappar samtidigt för att mittenklicka.</p>
-<p class="p">På styrplattor som har stöd för flerfingerknackningar kan du knacka med tre fingrar samtidigt för att mittenklicka. Du måste <span class="link"><a href="mouse-touchpad-click.html" title="Klicka, dra eller rulla med styrplattan">aktivera knackklickning</a></span> i styrplattsinställningarna för att detta ska fungera.</p>
+<p class="p">På styrplattor som har stöd för flerfingerknackningar kan du knacka med tre fingrar samtidigt för att mittenklicka. Du måste <span class="link"><a href="mouse-touchpad-click.html.sv" title="Klicka, dra eller rulla med styrplattan">aktivera knackklickning</a></span> i styrplattsinställningarna för att detta ska fungera.</p>
 <p class="p">Många program använder mittenklick för avancerade klickgenvägar.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">I översiktsvyn <span class="gui">Aktiviteter</span> kan du snabbt öppna ett nytt fönster för ett program med ett mittenklick. Mittenklicka helt enkelt på programmets ikon antingen i snabbstartspanelen till vänster eller i programöversikten. Programöversikten visas via rutnätsknappen i snabbstartspanelen.</p></li>
@@ -70,9 +70,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="mouse.html#tips" title="Tips">Mustips</a></li>
+<li class="links "><a href="mouse.html.sv#tips" title="Tips">Mustips</a></li>
 <li class="links ">
-<a href="tips.html" title="Tips och tricks">Tips och tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Mata in speciella tecken">Specialtecken</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Mittenklick">genvägar för mittenklick</a></span>…</span>
+<a href="tips.html.sv" title="Tips och tricks">Tips och tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.sv" title="Mata in speciella tecken">Specialtecken</a></span>, <span class="link"><a href="mouse-middleclick.html.sv" title="Mittenklick">genvägar för mittenklick</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

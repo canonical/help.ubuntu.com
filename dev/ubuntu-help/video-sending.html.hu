@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html" title="Hang, videó és képek">Hang, videó és képek</a> › <a class="trail" href="media.html#videos" title="Videók és videokamerák">Videók</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.hu" title="Hang, videó és képek">Hang, videó és képek</a> › <a class="trail" href="media.html.hu#videos" title="Videók és videokamerák">Videók</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mások nem tudják lejátszani az általam készített videókat.</span></h1></div>
@@ -52,7 +52,7 @@
 <p class="p">Ha az Ön linuxos számítógépén készült videót elküldi Windows vagy Mac OS felhasználóknak, akkor a címzettek lehet, hogy nem lesznek képesek annak lejátszására.</p>
 <p class="p">Az elküldött videó lejátszásához a címzettnek telepítenie kell a megfelelő <span class="em">kodekeket</span>. A kodek az a szoftver, amely lehetővé teszi a videó megjelenítését a képernyőn. Rengeteg különböző videoformátum létezik, amelyek mindegyike más kodeket igényel a lejátszásához. Így ellenőrizheti, hogy melyik formátumban készült a videója:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Nyissa meg a <span class="app">Fájlok</span> alkalmazást a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintésből.</p></li>
+<li class="list"><p class="p">Nyissa meg a <span class="app">Fájlok</span> alkalmazást a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintésből.</p></li>
 <li class="list"><p class="p">Kattintson a jobb egérgombbal a videofájlra, és válassza a <span class="gui">Tulajdonságok</span> menüpontot.</p></li>
 <li class="list"><p class="p">Lépjen a <span class="gui">Hang/Videó</span> vagy <span class="gui">Videó</span> lapra, és nézze meg, melyik <span class="gui">Kodek</span> van felsorolva a <span class="gui">Videó</span> és a <span class="gui">Hang</span> alatt (ha a videónak hangja is van).</p></li>
 </ul></div></div></div>
@@ -64,7 +64,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
-<div class="region"><ul><li class="links "><a href="media.html#videos" title="Videók és videokamerák">Videók</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="media.html.hu#videos" title="Videók és videokamerák">Videók</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

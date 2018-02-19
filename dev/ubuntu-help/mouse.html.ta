@@ -44,9 +44,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -54,29 +54,29 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html" title="இரு சொடுக்க வேகத்தை சரிசெய்தல்"><span class="title">இரு சொடுக்க வேகத்தை சரிசெய்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">இரு சொடுக்கம் செய்ய சொடுக்கி பொத்தானை எவ்வளவு வேகமாக இரண்டாவது முறை அழுத்த வேண்டும் என்பதைக் கட்டுப்படுத்துதல்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html" title="உங்கள் சொடுக்கியை இடதுகைப் பழக்கத்திற்கு ஏற்றபடி பயன்படுத்துதல்"><span class="title">உங்கள் சொடுக்கியை இடதுகைப் பழக்கத்திற்கு ஏற்றபடி பயன்படுத்துதல்</span><span class="linkdiv-dash"> — </span><span class="desc">சொடுக்கி அமைவுகளில் இடது மற்றும் வலது சொடுக்கி பொத்தான்களை எதிர்மறையாக அமைத்தல்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html" title="சொடுக்கி மற்றும் தொடுதிட்டின் வேகத்தை சரிசெய்தல்"><span class="title">சொடுக்கி மற்றும் தொடுதிட்டின் வேகத்தை சரிசெய்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">நீங்கள் உங்கள் சொடுக்கி அல்லது தொடுதிட்டை பயன்படுத்தும் போது சுட்டி நகரும் வேகத்தை மாற்றுதல்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html" title="சொடுக்கி வலது சொடுக்க ஏற்பாடு"><span class="title">சொடுக்கி வலது சொடுக்க ஏற்பாடு</span><span class="linkdiv-dash"> — </span><span class="desc">சொடுக்கியின் இடது பொத்தானை அழுத்திப் பிடித்தபடி இருந்தால் வலது சொடுக்கம் செய்யவும்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.ta" title="இரு சொடுக்க வேகத்தை சரிசெய்தல்"><span class="title">இரு சொடுக்க வேகத்தை சரிசெய்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">இரு சொடுக்கம் செய்ய சொடுக்கி பொத்தானை எவ்வளவு வேகமாக இரண்டாவது முறை அழுத்த வேண்டும் என்பதைக் கட்டுப்படுத்துதல்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html.ta" title="உங்கள் சொடுக்கியை இடதுகைப் பழக்கத்திற்கு ஏற்றபடி பயன்படுத்துதல்"><span class="title">உங்கள் சொடுக்கியை இடதுகைப் பழக்கத்திற்கு ஏற்றபடி பயன்படுத்துதல்</span><span class="linkdiv-dash"> — </span><span class="desc">சொடுக்கி அமைவுகளில் இடது மற்றும் வலது சொடுக்கி பொத்தான்களை எதிர்மறையாக அமைத்தல்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.ta" title="சொடுக்கி மற்றும் தொடுதிட்டின் வேகத்தை சரிசெய்தல்"><span class="title">சொடுக்கி மற்றும் தொடுதிட்டின் வேகத்தை சரிசெய்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">நீங்கள் உங்கள் சொடுக்கி அல்லது தொடுதிட்டை பயன்படுத்தும் போது சுட்டி நகரும் வேகத்தை மாற்றுதல்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.ta" title="சொடுக்கி வலது சொடுக்க ஏற்பாடு"><span class="title">சொடுக்கி வலது சொடுக்க ஏற்பாடு</span><span class="linkdiv-dash"> — </span><span class="desc">சொடுக்கியின் இடது பொத்தானை அழுத்திப் பிடித்தபடி இருந்தால் வலது சொடுக்கம் செய்யவும்.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html" title="தொடுதிட்டைப் பயன்படுத்தி சொடுக்குதல், இழுத்தல் அல்லது உருட்டுதல்"><span class="title">தொடுதிட்டைப் பயன்படுத்தி சொடுக்குதல், இழுத்தல் அல்லது உருட்டுதல்</span><span class="linkdiv-dash"> — </span><span class="desc">உங்கள் தொடுதிட்டில் தட்டுவதன் மூலம் சைகை செய்வதன் மூலம் சொடுக்கலாம், இழுக்கலாம் அல்லது உருட்டலாம்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html" title="மேல் நகர்வு சொடுக்கத்தை செயல்படுத்துதல்"><span class="title">மேல் நகர்வு சொடுக்கத்தை செயல்படுத்துதல்</span><span class="linkdiv-dash"> — </span><span class="desc">மேல்நிறுத்தி சொடுக்குதல் (நின்று சொடுக்குதல்) வசதியைக் கொண்டு நீங்கள் சொடுக்கியை அசையாமல் வைத்தபடியே சொடுக்க முடியும்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html" title="விசைப்பலகையைப் பயன்படுத்தி சொடுக்கி சுட்டியை சொடுக்கி நகர்த்தவும்"><span class="title">விசைப்பலகையைப் பயன்படுத்தி சொடுக்கி சுட்டியை சொடுக்கி நகர்த்தவும்</span><span class="linkdiv-dash"> — </span><span class="desc">Enable mouse keys to control the mouse with the numeric
+<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.ta" title="தொடுதிட்டைப் பயன்படுத்தி சொடுக்குதல், இழுத்தல் அல்லது உருட்டுதல்"><span class="title">தொடுதிட்டைப் பயன்படுத்தி சொடுக்குதல், இழுத்தல் அல்லது உருட்டுதல்</span><span class="linkdiv-dash"> — </span><span class="desc">உங்கள் தொடுதிட்டில் தட்டுவதன் மூலம் சைகை செய்வதன் மூலம் சொடுக்கலாம், இழுக்கலாம் அல்லது உருட்டலாம்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.ta" title="மேல் நகர்வு சொடுக்கத்தை செயல்படுத்துதல்"><span class="title">மேல் நகர்வு சொடுக்கத்தை செயல்படுத்துதல்</span><span class="linkdiv-dash"> — </span><span class="desc">மேல்நிறுத்தி சொடுக்குதல் (நின்று சொடுக்குதல்) வசதியைக் கொண்டு நீங்கள் சொடுக்கியை அசையாமல் வைத்தபடியே சொடுக்க முடியும்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.ta" title="விசைப்பலகையைப் பயன்படுத்தி சொடுக்கி சுட்டியை சொடுக்கி நகர்த்தவும்"><span class="title">விசைப்பலகையைப் பயன்படுத்தி சொடுக்கி சுட்டியை சொடுக்கி நகர்த்தவும்</span><span class="linkdiv-dash"> — </span><span class="desc">Enable mouse keys to control the mouse with the numeric
     keypad.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">பொதுவான பிரச்சினைகள்</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html" title="சொடுக்கி சுட்டி நகரவில்லை"><span class="title">சொடுக்கி சுட்டி நகரவில்லை</span><span class="linkdiv-dash"> — </span><span class="desc">How to check why your mouse is not working.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html" title="சொடுக்கி வேலை செய்யத் தொடங்கும் முன் சற்று தாமதிக்கும்"><span class="title">சொடுக்கி வேலை செய்யத் தொடங்கும் முன் சற்று தாமதிக்கும்</span><span class="linkdiv-dash"> — </span><span class="desc">உங்கள் சொடுக்கியை வேலை செய்யத் தொடங்க வைக்க, நீங்கள் சொடுக்கியை சொடுக்கவோ அல்லது முன் பின் நகர்த்தவோ வேண்டி இருந்தால்.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.ta" title="சொடுக்கி சுட்டி நகரவில்லை"><span class="title">சொடுக்கி சுட்டி நகரவில்லை</span><span class="linkdiv-dash"> — </span><span class="desc">How to check why your mouse is not working.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.ta" title="சொடுக்கி வேலை செய்யத் தொடங்கும் முன் சற்று தாமதிக்கும்"><span class="title">சொடுக்கி வேலை செய்யத் தொடங்கும் முன் சற்று தாமதிக்கும்</span><span class="linkdiv-dash"> — </span><span class="desc">உங்கள் சொடுக்கியை வேலை செய்யத் தொடங்க வைக்க, நீங்கள் சொடுக்கியை சொடுக்கவோ அல்லது முன் பின் நகர்த்தவோ வேண்டி இருந்தால்.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="tips" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">குறிப்புகள்</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html" title="நடு சொடுக்கம்"><span class="title">நடு சொடுக்கம்</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.ta" title="நடு சொடுக்கம்"><span class="title">நடு சொடுக்கம்</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
     more.</span></a></div></div>
 <div class="links-twocolumn"></div>
 </div></div></div></div></div>
@@ -87,10 +87,10 @@
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">பயனர் &amp; கணினி அமைவுகள்</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="விசைப்பலகை">விசைப்பலகை</a></span>, <span class="link"><a href="mouse.html" title="சொடுக்கி">சொடுக்கி</a></span>, <span class="link"><a href="prefs-display.html" title="காட்சி &amp; திரை">காட்சி</a></span>, <span class="link"><a href="prefs-language.html" title="பகுதி &amp; மொழி">மொழிகள்</a></span>, <span class="link"><a href="user-accounts.html" title="பயனர் கணக்குகள்">பயனர் கணக்குகள்</a></span>…</span>
+<a href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">பயனர் &amp; கணினி அமைவுகள்</a><span class="desc"> — <span class="link"><a href="keyboard.html.ta" title="விசைப்பலகை">விசைப்பலகை</a></span>, <span class="link"><a href="mouse.html.ta" title="சொடுக்கி">சொடுக்கி</a></span>, <span class="link"><a href="prefs-display.html.ta" title="காட்சி &amp; திரை">காட்சி</a></span>, <span class="link"><a href="prefs-language.html.ta" title="பகுதி &amp; மொழி">மொழிகள்</a></span>, <span class="link"><a href="user-accounts.html.ta" title="பயனர் கணக்குகள்">பயனர் கணக்குகள்</a></span>…</span>
 </li>
 <li class="links ">
-<a href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள் &amp; இயக்கிகள்</a><span class="desc"> — <span class="link"><a href="hardware.html#problems" title="பொதுவான பிரச்சினைகள்">வன்பொருள் பிரச்சினைகள்</a></span>, <span class="link"><a href="printing.html" title="அச்சிடுதல்">அச்சுப்பொறிகள்</a></span>, <span class="link"><a href="power.html" title="மின்சக்தி &amp; பேட்டரி">மின் அமைவுகள்</a></span>, <span class="link"><a href="color.html" title="நிற மேலாண்மை">நிற மேலாண்மை</a></span>, <span class="link"><a href="bluetooth.html" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html" title="வட்டுகள் &amp; சேமிப்பிடம்">வட்டுகள்</a></span>… </span>
+<a href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள் &amp; இயக்கிகள்</a><span class="desc"> — <span class="link"><a href="hardware.html.ta#problems" title="பொதுவான பிரச்சினைகள்">வன்பொருள் பிரச்சினைகள்</a></span>, <span class="link"><a href="printing.html.ta" title="அச்சிடுதல்">அச்சுப்பொறிகள்</a></span>, <span class="link"><a href="power.html.ta" title="மின்சக்தி &amp; பேட்டரி">மின் அமைவுகள்</a></span>, <span class="link"><a href="color.html.ta" title="நிற மேலாண்மை">நிற மேலாண்மை</a></span>, <span class="link"><a href="bluetooth.html.ta" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.ta" title="வட்டுகள் &amp; சேமிப்பிடம்">வட்டுகள்</a></span>… </span>
 </li>
 </ul></div>
 </div></div></div>

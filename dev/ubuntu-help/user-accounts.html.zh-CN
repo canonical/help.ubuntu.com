@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="用户 &amp; 系统设置">设置</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.zh-CN" title="用户 &amp; 系统设置">设置</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">用户帐号</span></h1></div>
@@ -56,32 +56,32 @@
 <div class="hgroup"><h2 class="title"><span class="title">管理用户帐号</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-add.html" title="添加一个新用户"><span class="title">添加一个新用户</span><span class="linkdiv-dash"> — </span><span class="desc">添加新用户以便其他从可以登录计算机。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-autologin.html" title="Log in automatically"><span class="title">Log in automatically</span><span class="linkdiv-dash"> — </span><span class="desc">Set up automatic login for when you switch on your computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-add.html.zh-CN" title="添加一个新用户"><span class="title">添加一个新用户</span><span class="linkdiv-dash"> — </span><span class="desc">添加新用户以便其他从可以登录计算机。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html.zh-CN" title="Log in automatically"><span class="title">Log in automatically</span><span class="linkdiv-dash"> — </span><span class="desc">Set up automatic login for when you switch on your computer.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-delete.html" title="删除用户帐号"><span class="title">删除用户帐号</span><span class="linkdiv-dash"> — </span><span class="desc">删除您计算机上不再使用的用户。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html" title="更改登录屏幕图片"><span class="title">更改登录屏幕图片</span><span class="linkdiv-dash"> — </span><span class="desc">将您的照片添加到您的登录和用户屏幕。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html.zh-CN" title="删除用户帐号"><span class="title">删除用户帐号</span><span class="linkdiv-dash"> — </span><span class="desc">删除您计算机上不再使用的用户。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html.zh-CN" title="更改登录屏幕图片"><span class="title">更改登录屏幕图片</span><span class="linkdiv-dash"> — </span><span class="desc">将您的照片添加到您的登录和用户屏幕。</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="passwords" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">密码</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html" title="更改密码"><span class="title">更改密码</span><span class="linkdiv-dash"> — </span><span class="desc">在帐号设置中定期修改密码，可以保证帐号的安全性。</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html" title="选择一个可靠的密码"><span class="title">选择一个可靠的密码</span><span class="linkdiv-dash"> — </span><span class="desc">使用长的、复杂的密码。</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html.zh-CN" title="更改密码"><span class="title">更改密码</span><span class="linkdiv-dash"> — </span><span class="desc">在帐号设置中定期修改密码，可以保证帐号的安全性。</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html.zh-CN" title="选择一个可靠的密码"><span class="title">选择一个可靠的密码</span><span class="linkdiv-dash"> — </span><span class="desc">使用长的、复杂的密码。</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="privileges" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">用户权限</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html" title="管理员权限是如何工作的呢？"><span class="title">管理员权限是如何工作的呢？</span><span class="linkdiv-dash"> — </span><span class="desc">You need administrative privileges to change important parts of your
+<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.zh-CN" title="管理员权限是如何工作的呢？"><span class="title">管理员权限是如何工作的呢？</span><span class="linkdiv-dash"> — </span><span class="desc">You need administrative privileges to change important parts of your
     system.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html" title="设置哪些用户可以具备管理员权限"><span class="title">设置哪些用户可以具备管理员权限</span><span class="linkdiv-dash"> — </span><span class="desc">You can allow users to make changes to the system by giving them
+<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.zh-CN" title="设置哪些用户可以具备管理员权限"><span class="title">设置哪些用户可以具备管理员权限</span><span class="linkdiv-dash"> — </span><span class="desc">You can allow users to make changes to the system by giving them
     administrative privileges.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html" title="限制管理员权限产生的问题"><span class="title">限制管理员权限产生的问题</span><span class="linkdiv-dash"> — </span><span class="desc">You can do some things, like installing applications, only if you
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.zh-CN" title="限制管理员权限产生的问题"><span class="title">限制管理员权限产生的问题</span><span class="linkdiv-dash"> — </span><span class="desc">You can do some things, like installing applications, only if you
     have administrative privileges.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
@@ -90,7 +90,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html" title="用户 &amp; 系统设置">用户 &amp; 系统设置</a><span class="desc"> — <span class="link"><a href="keyboard.html" title="键盘">键盘</a></span>、<span class="link"><a href="mouse.html" title="鼠标">鼠标</a></span>、<span class="link"><a href="prefs-display.html" title="显示器 &amp; 屏幕">显示器</a></span>、<span class="link"><a href="prefs-language.html" title="Region &amp; Language">语言</a></span>、<span class="link"><a href="user-accounts.html" title="用户帐号">用户帐号</a></span>…</span>
+<a href="prefs.html.zh-CN" title="用户 &amp; 系统设置">用户 &amp; 系统设置</a><span class="desc"> — <span class="link"><a href="keyboard.html.zh-CN" title="键盘">键盘</a></span>、<span class="link"><a href="mouse.html.zh-CN" title="鼠标">鼠标</a></span>、<span class="link"><a href="prefs-display.html.zh-CN" title="显示器 &amp; 屏幕">显示器</a></span>、<span class="link"><a href="prefs-language.html.zh-CN" title="Region &amp; Language">语言</a></span>、<span class="link"><a href="user-accounts.html.zh-CN" title="用户帐号">用户帐号</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

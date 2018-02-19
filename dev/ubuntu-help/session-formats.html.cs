@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-language.html" title="Region a jazyk">Region a jazyk</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-language.html.cs" title="Region a jazyk">Region a jazyk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Změna formátů data a měrných jednotek</span></h1></div>
@@ -51,7 +51,7 @@
 <div class="contents">
 <p class="p">Můžete určit formáty, které se používají pro datum, čas a čísla, měnu a měrné jednotky, aby odpovídaly místním zvyklostem ve vašem regionu.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Region a jazyk</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Region a jazyk</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Region a jazyk</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Formáty</span>.</p></li>
 <li class="steps"><p class="p">Vyberte region a jazyk, které nejlépe odpovídají formátům, které byste rádi používali. Pokud váš region a jazyk nejsou na seznamu, klikněte na <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> ve spodní části seznamu, abyste si mohli vybrat ze všech dostupných regionů a jazyků.</p></li>
@@ -66,13 +66,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html" title="Region a jazyk">Region a jazyk</a><span class="desc"> — <span class="link"><a href="session-language.html" title="Změna jazyka, který používáte">Jazyk</a></span>, <span class="link"><a href="session-formats.html" title="Změna formátů data a měrných jednotek">region a formáty</a></span>, <span class="link"><a href="keyboard-layouts.html" title="Použití alternativního rozložení klávesnice">rozložení klávesnice</a></span>…</span>
+<a href="prefs-language.html.cs" title="Region a jazyk">Region a jazyk</a><span class="desc"> — <span class="link"><a href="session-language.html.cs" title="Změna jazyka, který používáte">Jazyk</a></span>, <span class="link"><a href="session-formats.html.cs" title="Změna formátů data a měrných jednotek">region a formáty</a></span>, <span class="link"><a href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice">rozložení klávesnice</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-language.html" title="Změna jazyka, který používáte">Změna jazyka, který používáte</a><span class="desc"> — Jak se přepnou na jiný jazyk pro uživatelské rozhraní a text nápovědy.</span>
+<a href="session-language.html.cs" title="Změna jazyka, který používáte">Změna jazyka, který používáte</a><span class="desc"> — Jak se přepnou na jiný jazyk pro uživatelské rozhraní a text nápovědy.</span>
 </li></ul></div>
 </div></div>
 </div>

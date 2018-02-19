@@ -44,21 +44,21 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="keyboard.html" title="Tastatūra">Tastatūra</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="keyboard.html.lv" title="Tastatūra">Tastatūra</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="keyboard.html" title="Tastatūra">Tastatūra</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="keyboard.html.lv" title="Tastatūra">Tastatūra</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="Universālā piekļuve">Universālā piekļuve</a> › <a class="trail" href="a11y.html#mobility" title="Kustību traucējumi">Kustību traucējumi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.lv" title="Universālā piekļuve">Universālā piekļuve</a> › <a class="trail" href="a11y.html.lv#mobility" title="Kustību traucējumi">Kustību traucējumi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ieslēgt lipīgos taustiņus</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p"><span class="em">Lipīgie taustiņi</span> ļauj jums ievadīt tastatūras saīsnes pa vienam taustiņam, nevis turot visus taustiņus nospiestus vienlaicīgi. Piemēram, <span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> saīsne ļauj pārslēgties starp logiem. Bez ieslēgtiem lipīgajiem taustiņiem, jums būtu jātur nospiesti abi taustiņi vienlaicīgi; ar ieslēgtiem lipīgajiem taustiņiem, jums vajadzētu secīgi nospiest <span class="key"><kbd>Super</kbd></span> un pēc tam <span class="key"><kbd>Tab</kbd></span> taustiņus lai iegūtu to pašu efektu.</p>
+<p class="p"><span class="em">Lipīgie taustiņi</span> ļauj jums ievadīt tastatūras saīsnes pa vienam taustiņam, nevis turot visus taustiņus nospiestus vienlaicīgi. Piemēram, <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.lv" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> saīsne ļauj pārslēgties starp logiem. Bez ieslēgtiem lipīgajiem taustiņiem, jums būtu jātur nospiesti abi taustiņi vienlaicīgi; ar ieslēgtiem lipīgajiem taustiņiem, jums vajadzētu secīgi nospiest <span class="key"><kbd>Super</kbd></span> un pēc tam <span class="key"><kbd>Tab</kbd></span> taustiņus lai iegūtu to pašu efektu.</p>
 <p class="p">Jūs varētu vēlēties ieslēgt lipīgos taustiņus gadījumā, ja jums ir grūtības turēt nospiestus vairākus taustiņus vienlaicīgi.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Universālā piekļuve</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Universālā piekļuve</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Universālā piekļuve</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Rakstīšanas asistents (AccessX)</span> un sadaļā <span class="gui">Rakstīšana</span>.</p></li>
 <li class="steps"><p class="p">Pārslēdziet <span class="gui">Lipīgie taustiņi</span> uz <span class="gui">|</span>.</p></li>
@@ -67,7 +67,7 @@
 <div class="title title-note"><h2><span class="title">Ātri ieslēgt un izslēgt lipīgos taustiņus</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Sadaļā <span class="gui">Aktivēt ar tastatūru</span>, izvēlieties <span class="gui">Ieslēgt pieejamības iespējas no tastatūras</span>, lai ieslēgtu un izslēgtu lipīgos taustiņus no tastatūras. Kad šī opcija ir izvēlēta, jūs varat nospiest <span class="key"><kbd>Shift</kbd></span> piecas reizes pēc kārtas, lai ieslēgtu vai izslēgtu lipīgos taustiņus.</p>
-<p class="p">Jūs varat arī ieslēgt un izslēgt lipīgos taustiņus, spiežot uz <span class="link"><a href="a11y-icon.html" title="Atrodiet universālās piekļuves izvēlni">pieejamības ikonas</a></span> augšējā joslā un izvēloties <span class="gui">Lipīgie taustiņi</span>. Pieejamības ikona ir redzama, kad viens vai vairāki iestatījumi ir aktivēti <span class="gui">universālās piekļuves</span> panelī.</p>
+<p class="p">Jūs varat arī ieslēgt un izslēgt lipīgos taustiņus, spiežot uz <span class="link"><a href="a11y-icon.html.lv" title="Atrodiet universālās piekļuves izvēlni">pieejamības ikonas</a></span> augšējā joslā un izvēloties <span class="gui">Lipīgie taustiņi</span>. Pieejamības ikona ir redzama, kad viens vai vairāki iestatījumi ir aktivēti <span class="gui">universālās piekļuves</span> panelī.</p>
 </div></div>
 </div></div>
 <p class="p">Ja nospiedīsiet divus taustiņus vienlaicīgi, jūs varat izslēgt lipīgos taustiņus uz brīdi, lai ļautu jums ievadīt tastatūras saīsni parastajā veidā.</p>
@@ -80,9 +80,9 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="Kustību traucējumi">Kustību traucējumi</a></li>
+<li class="links "><a href="a11y.html.lv#mobility" title="Kustību traucējumi">Kustību traucējumi</a></li>
 <li class="links ">
-<a href="keyboard.html" title="Tastatūra">Tastatūra</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">Tastatūru izkārtojumi</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="Izdariet tā, lai tastatūras kursors mirgotu">kursora mirgošana</a></span>, <span class="link"><a href="a11y.html#mobility" title="Kustību traucējumi">tastatūras pieejamība</a></span>…</span>
+<a href="keyboard.html.lv" title="Tastatūra">Tastatūra</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.lv" title="Use alternative keyboard layouts">Tastatūru izkārtojumi</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.lv" title="Izdariet tā, lai tastatūras kursors mirgotu">kursora mirgošana</a></span>, <span class="link"><a href="a11y.html.lv#mobility" title="Kustību traucējumi">tastatūras pieejamība</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

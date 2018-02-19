@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html" title="Termini e suggerimenti sulle funzionalità di rete">Termini e suggerimenti sulle funzionalità di rete</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.it" title="Termini e suggerimenti sulle funzionalità di rete">Termini e suggerimenti sulle funzionalità di rete</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Definire le impostazioni del proxy</span></h1></div>
@@ -62,7 +62,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Modificare il metodo del proxy</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Network proxy</span> from the list on the left.</p></li>
@@ -89,11 +89,11 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html" title="Termini e suggerimenti sulle funzionalità di rete">Termini e suggerimenti sulle funzionalità di rete</a><span class="desc"> — 
-      <span class="link"><a href="net-findip.html" title="Trovare il proprio indirizzo IP">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html" title="Cosa significano WEP e WPA?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html" title="Cos'è un indirizzo MAC?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html" title="Definire le impostazioni del proxy">proxies</a></span>…
+<a href="net-general.html.it" title="Termini e suggerimenti sulle funzionalità di rete">Termini e suggerimenti sulle funzionalità di rete</a><span class="desc"> — 
+      <span class="link"><a href="net-findip.html.it" title="Trovare il proprio indirizzo IP">Find your IP address</a></span>,
+      <span class="link"><a href="net-wireless-wepwpa.html.it" title="Cosa significano WEP e WPA?">WEP &amp; WPA security</a></span>,
+      <span class="link"><a href="net-macaddress.html.it" title="Cos'è un indirizzo MAC?">MAC addresses</a></span>,
+      <span class="link"><a href="net-proxy.html.it" title="Definire le impostazioni del proxy">proxies</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

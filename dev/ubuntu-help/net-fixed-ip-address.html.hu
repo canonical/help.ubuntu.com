@@ -43,21 +43,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-wired.html" title="Vezetékes kapcsolatok">Vezetékes kapcsolatok</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a> » <a class="trail" href="net-wired.html.hu" title="Vezetékes kapcsolatok">Vezetékes kapcsolatok</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Statikus IP-címet használó kapcsolat létrehozása</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A legtöbb hálózat automatikusan társít <span class="link"><a href="net-what-is-ip-address.html" title="Mi az az IP-cím?">IP-címet</a></span> és más adatokat a számítógépéhez, amikor az csatlakozik. Ezek az adatok rendszeresen változhatnak, de néha szüksége lehet rögzített IP-cím használatára, például ha fájlkiszolgálóként használja azt.</p>
+<p class="p">A legtöbb hálózat automatikusan társít <span class="link"><a href="net-what-is-ip-address.html.hu" title="Mi az az IP-cím?">IP-címet</a></span> és más adatokat a számítógépéhez, amikor az csatlakozik. Ezek az adatok rendszeresen változhatnak, de néha szüksége lehet rögzített IP-cím használatára, például ha fájlkiszolgálóként használja azt.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Rögzített IP-cím társítása a számítógéphez:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Hálózat</span> szót.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Hálózat</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Hálózat</span> ikonra a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">A bal oldali ablaktáblán válassza ki azt a hálózati kapcsolatot, amelynek rögzített címet szeretne beállítani. Ha kábellel csatlakozik a hálózatra, akkor kattintson a <span class="gui">Vezetékes</span> lehetőségre, majd a <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="beállítások"></span></span> gombra a panel jobb alsó sarkában. <span class="gui">Wi-Fi</span> kapcsolat esetén a <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="beállítások"></span></span> gomb az aktív hálózat mellett lesz.</p></li>
 <li class="steps"><p class="p">Kattintson a bal oldali ablaktáblán az <span class="gui">IPv4</span> vagy az <span class="gui">IPv6</span> elemre, és módosítsa a <span class="gui">Címeket</span> a <span class="em">Kézi</span> értékűre.</p></li>
-<li class="steps"><p class="p">Írja be az <span class="gui"><a href="net-what-is-ip-address.html" title="Mi az az IP-cím?">IP-címet</a></span> és az <span class="gui">Átjárót</span>, valamint a megfelelő <span class="gui">Hálózati maszkot</span>.</p></li>
+<li class="steps"><p class="p">Írja be az <span class="gui"><a href="net-what-is-ip-address.html.hu" title="Mi az az IP-cím?">IP-címet</a></span> és az <span class="gui">Átjárót</span>, valamint a megfelelő <span class="gui">Hálózati maszkot</span>.</p></li>
 <li class="steps"><p class="p">A <span class="gui">DNS</span> szakaszban kapcsolja <span class="gui">KI</span> az <span class="gui">Automatikus</span> beállítást. Írja be a használni kívánt DNS-kiszolgáló IP-címét. A <span class="gui">+</span> gomb használatával további DNS-kiszolgálók címeit adhatja meg.</p></li>
 <li class="steps"><p class="p">Az <span class="gui">Útvonalak</span> szakaszban kapcsolja <span class="gui">KI</span> az <span class="gui">Automatikus</span> beállítást. Írja be a használni kívánt útvonal <span class="gui">Címét</span>, <span class="gui">Hálózati maszkját</span>, <span class="gui">Átjáróját</span> és <span class="gui">Metrikáját</span>. A <span class="gui">+</span> gomb használatával további útvonalakat adhat meg.</p></li>
 <li class="steps"><p class="p">Nyomja meg az <span class="gui">Alkalmaz</span> gombot. A hálózati kapcsolat mostantól rögzített IP-címmel rendelkezik.</p></li>
@@ -70,13 +70,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html" title="Vezetékes kapcsolatok">Vezetékes kapcsolatok</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html" title="Csatlakozás vezetékes (Ethernet) hálózathoz">Vezetékes internetkapcsolatok</a></span>, <span class="link"><a href="net-fixed-ip-address.html" title="Statikus IP-címet használó kapcsolat létrehozása">rögzített IP-címek</a></span>…</span>
+<a href="net-wired.html.hu" title="Vezetékes kapcsolatok">Vezetékes kapcsolatok</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.hu" title="Csatlakozás vezetékes (Ethernet) hálózathoz">Vezetékes internetkapcsolatok</a></span>, <span class="link"><a href="net-fixed-ip-address.html.hu" title="Statikus IP-címet használó kapcsolat létrehozása">rögzített IP-címek</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-findip.html" title="IP-címének meghatározása">IP-címének meghatározása</a><span class="desc"> — Az IP-címének ismerete segíthet elhárítani a hálózati problémákat.</span>
+<a href="net-findip.html.hu" title="IP-címének meghatározása">IP-címének meghatározása</a><span class="desc"> — Az IP-címének ismerete segíthet elhárítani a hálózati problémákat.</span>
 </li></ul></div>
 </div></div>
 </div>

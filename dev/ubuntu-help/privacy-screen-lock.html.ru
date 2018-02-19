@@ -43,14 +43,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="privacy.html" title="Параметры конфиденциальности">Параметры конфиденциальности</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ru" title="Параметры пользователя и системы">Параметры</a> » <a class="trail" href="privacy.html.ru" title="Параметры конфиденциальности">Параметры конфиденциальности</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Автоматическая блокировка экрана</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">When you leave your computer, you should
-  <span class="link"><a href="shell-exit.html#lock-screen" title="Блокирование экрана">lock the screen</a></span> to prevent
+  <span class="link"><a href="shell-exit.html.ru#lock-screen" title="Блокирование экрана">lock the screen</a></span> to prevent
   other people from using your desktop and accessing your files. If you
   sometimes forget to lock your screen, you may wish to have your computer’s
   screen lock automatically after a set period of time. This will help to
@@ -59,7 +59,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Чтобы установить промежуток времени перед автоматической блокировкой экрана:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Privacy</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Конфиденциальность</span> чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Выберите <span class="gui">Блокировка экрана</span>.</p></li>
@@ -80,15 +80,15 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html" title="Параметры конфиденциальности">Параметры конфиденциальности</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html" title="Автоматическая блокировка экрана">Блокировка экрана</a></span>, <span class="link"><a href="privacy-history-recent-off.html" title="Turn off or limit file history tracking">Статистика использования</a></span>, <span class="link"><a href="privacy-purge.html" title="Очистка корзины и удаление временных файлов">Очистка корзины и удаление временных файлов</a></span>…</span>
+<a href="privacy.html.ru" title="Параметры конфиденциальности">Параметры конфиденциальности</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.ru" title="Автоматическая блокировка экрана">Блокировка экрана</a></span>, <span class="link"><a href="privacy-history-recent-off.html.ru" title="Turn off or limit file history tracking">Статистика использования</a></span>, <span class="link"><a href="privacy-purge.html.ru" title="Очистка корзины и удаление временных файлов">Очистка корзины и удаление временных файлов</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html#lock-screen" title="Блокирование экрана">Блокирование экрана</a></li>
+<li class="links "><a href="shell-exit.html.ru#lock-screen" title="Блокирование экрана">Блокирование экрана</a></li>
 <li class="links ">
-<a href="session-screenlocks.html" title="Экран блокируется слишком быстро">Экран блокируется слишком быстро</a><span class="desc"> — Измените время ожидания перед блокировкой экрана в настройках <span class="gui">Конфиденциальность</span>.</span>
+<a href="session-screenlocks.html.ru" title="Экран блокируется слишком быстро">Экран блокируется слишком быстро</a><span class="desc"> — Измените время ожидания перед блокировкой экрана в настройках <span class="gui">Конфиденциальность</span>.</span>
 </li>
 </ul></div>
 </div></div>

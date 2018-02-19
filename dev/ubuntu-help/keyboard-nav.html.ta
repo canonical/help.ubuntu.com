@@ -44,19 +44,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="keyboard.html" title="விசைப்பலகை">விசைப்பலகை</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="keyboard.html.ta" title="விசைப்பலகை">விசைப்பலகை</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html" title="அனைவருக்குமான அணுகல்">அனைவருக்குமான அணுகல்</a> › <a class="trail" href="a11y.html#mobility" title="நகர்வதிலான குறைபாடுகள்">நகர்வதிலான குறைபாடுகள்</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ta" title="அனைவருக்குமான அணுகல்">அனைவருக்குமான அணுகல்</a> › <a class="trail" href="a11y.html.ta#mobility" title="நகர்வதிலான குறைபாடுகள்">நகர்வதிலான குறைபாடுகள்</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="keyboard.html" title="விசைப்பலகை">விசைப்பலகை</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="keyboard.html.ta" title="விசைப்பலகை">விசைப்பலகை</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">விசைப்பலகை நகர்வு</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">சொடுக்கி அல்லது மற்ற சொடுக்க சாதனத்தைப் பயன்படுத்த முடியாதவர்களுக்காக அல்லது கூடுமானவரை சொடுக்கியைப் பயன்படுத்தாமல் விசைப்பலகையையே பயன்படுத்த விரும்புபவர்களுக்காக விசைப்பலகையைக் கொண்டு வழிசெலுத்துவது பற்றிய விவரங்களைக் கொடுக்கிறது. அனைத்து பயனர்களுக்கும் பயன்படக்கூடிய விசைப்பலகை குறுக்குவழிகளைக் காண <span class="link"><a href="shell-keyboard-shortcuts.html" title="பயனுள்ள விசைப்பலகை குறுக்குவழிகள்">பயனுள்ள விசைப்பலகை குறுக்குவழிகள்</a></span> பார்க்கவும்.</p>
-<div class="note note-tip" title="துணுக்கு"><div class="inner"><div class="region"><div class="contents"><p class="p">நீங்கள் சொடுக்கி போன்ற ஒரு சுட்டு சாதனத்தைப் பயன்படுத்த முடியாது எனில், நீங்கள் உங்கள் விசைப்பலகையில் உள்ள எண் விசைப்பலகையைப் பயன்படுத்தி சொடுக்கி சுட்டியைக் கட்டுப்படுத்த முடியும். விவரங்களுக்கு <span class="link"><a href="mouse-mousekeys.html" title="விசைப்பலகையைப் பயன்படுத்தி சொடுக்கி சுட்டியை சொடுக்கி நகர்த்தவும்">விசைப்பலகையைப் பயன்படுத்தி சொடுக்கி சுட்டியை சொடுக்கி நகர்த்தவும்</a></span> ஐ பார்க்கவும்.</p></div></div></div></div>
+<p class="p">சொடுக்கி அல்லது மற்ற சொடுக்க சாதனத்தைப் பயன்படுத்த முடியாதவர்களுக்காக அல்லது கூடுமானவரை சொடுக்கியைப் பயன்படுத்தாமல் விசைப்பலகையையே பயன்படுத்த விரும்புபவர்களுக்காக விசைப்பலகையைக் கொண்டு வழிசெலுத்துவது பற்றிய விவரங்களைக் கொடுக்கிறது. அனைத்து பயனர்களுக்கும் பயன்படக்கூடிய விசைப்பலகை குறுக்குவழிகளைக் காண <span class="link"><a href="shell-keyboard-shortcuts.html.ta" title="பயனுள்ள விசைப்பலகை குறுக்குவழிகள்">பயனுள்ள விசைப்பலகை குறுக்குவழிகள்</a></span> பார்க்கவும்.</p>
+<div class="note note-tip" title="துணுக்கு"><div class="inner"><div class="region"><div class="contents"><p class="p">நீங்கள் சொடுக்கி போன்ற ஒரு சுட்டு சாதனத்தைப் பயன்படுத்த முடியாது எனில், நீங்கள் உங்கள் விசைப்பலகையில் உள்ள எண் விசைப்பலகையைப் பயன்படுத்தி சொடுக்கி சுட்டியைக் கட்டுப்படுத்த முடியும். விவரங்களுக்கு <span class="link"><a href="mouse-mousekeys.html.ta" title="விசைப்பலகையைப் பயன்படுத்தி சொடுக்கி சுட்டியை சொடுக்கி நகர்த்தவும்">விசைப்பலகையைப் பயன்படுத்தி சொடுக்கி சுட்டியை சொடுக்கி நகர்த்தவும்</a></span> ஐ பார்க்கவும்.</p></div></div></div></div>
 <div class="table"><div class="inner">
 <div class="title title-table"><h2><span class="title">பயனர் இடைமுகத்தில் நகர்தல்</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -104,11 +104,11 @@
 <td style="border-top-style: solid;"><p class="p">ஒரு சாளரத்தின் மெனுப்பட்டியின் முதல் மெனுவைத் திறத்தல். மெனுக்களிடையே செல்ல அம்புக்குறி விசைகளை பயன்படுத்தவும்.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html" title="Super என்பது என்ன?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html.ta" title="Super என்பது என்ன?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p">மேல் பட்டியில் உள்ள பயன்பாடு மெனுவைத் திறத்தல்.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or <span class="key"><a href="keyboard-key-menu.html" title="மெனு விசை என்பது என்ன?"><kbd>Menu</kbd></a></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or <span class="key"><a href="keyboard-key-menu.html.ta" title="மெனு விசை என்பது என்ன?"><kbd>Menu</kbd></a></span></p></td>
 <td style="border-top-style: solid;"><p class="p">தற்போதைய் தேர்ந்தெடுத்துள்ள உருப்படியை நீங்கள் வலது சொடுக்கம் செய்தால் வருவது போன்ற ஒரு பாப்-அப் சூழல் மெனு வரும்.</p></td>
 </tr>
 <tr>
@@ -125,12 +125,12 @@
 <div class="title title-table"><h2><span class="title">பணிமேசையில் நகர்தல்</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> அல்லது <span class="key"><a href="keyboard-key-super.html" title="Super என்பது என்ன?"><kbd>Super</kbd></a></span> விசை</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> அல்லது <span class="key"><a href="keyboard-key-super.html.ta" title="Super என்பது என்ன?"><kbd>Super</kbd></a></span> விசை</p></td>
 <td><p class="p"><span class="gui">செயல்பாடுகள்</span> மேலோட்டம் மற்றும் பணிமேசைக்கு மாறுதல். மேலோட்டத்தில் தட்டச்சு செய்யத் தொடங்கியதும் உங்கள் பயன்பாடுகள், தொடர்புகள் மற்றும் ஆவணங்கள் உடனடியாக காண்பிக்கப்படும்.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html" title="சாளரங்களிடையே மாறுதல்">சாளரங்களுக்கிடையே விரைவாக மாறுதல்</a></span>. எதிர்த்திசையில் மாற <span class="key"><kbd>Shift</kbd></span> ஐப் பிடித்துக்கொள்ளவும்.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.ta" title="சாளரங்களிடையே மாறுதல்">சாளரங்களுக்கிடையே விரைவாக மாறுதல்</a></span>. எதிர்த்திசையில் மாற <span class="key"><kbd>Shift</kbd></span> ஐப் பிடித்துக்கொள்ளவும்.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
@@ -153,7 +153,7 @@
       <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> or
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span>
     </p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html" title="பணியிடங்களிடையே மாறுதல்">பணியிடங்களிடையே மாறுதல்</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.ta" title="பணியிடங்களிடையே மாறுதல்">பணியிடங்களிடையே மாறுதல்</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F6</kbd></span></span></p></td>
@@ -165,7 +165,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html#messagetray" title="செய்தித் தட்டு">Open the message
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html.ta#messagetray" title="செய்தித் தட்டு">Open the message
     tray.</a></span> Press <span class="key"><kbd>Esc</kbd></span> to close.</p></td>
 </tr>
 </table></div>
@@ -194,7 +194,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> மற்றும் <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html" title="ஒரு சாளரத்தை வேறு பணியிடத்திற்கு நகர்த்துதல்">நடப்பு சாளரத்தை வேறு பணியிடத்திற்கு நகர்த்துதல்</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.ta" title="ஒரு சாளரத்தை வேறு பணியிடத்திற்கு நகர்த்துதல்">நடப்பு சாளரத்தை வேறு பணியிடத்திற்கு நகர்த்துதல்</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
@@ -206,7 +206,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> அல்லது <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">ஒரு சாளரத்தைப் <span class="link"><a href="shell-windows-maximize.html" title="ஒரு சாளரத்தை பெரிதாக்குதல் மற்றும் பெரிதாக்கல் நீக்குதல்">பெரிதாக்குதல்</a></span>. பெரிதாக்கப்பட்ட ஒரு சாளரத்தை பழைய அளவுக்கே மீட்டமைக்க <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> அல்லது <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> ஐ அழுத்தவும்.</p></td>
+<td style="border-top-style: solid;"><p class="p">ஒரு சாளரத்தைப் <span class="link"><a href="shell-windows-maximize.html.ta" title="ஒரு சாளரத்தை பெரிதாக்குதல் மற்றும் பெரிதாக்கல் நீக்குதல்">பெரிதாக்குதல்</a></span>. பெரிதாக்கப்பட்ட ஒரு சாளரத்தை பழைய அளவுக்கே மீட்டமைக்க <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> அல்லது <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> ஐ அழுத்தவும்.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
@@ -233,16 +233,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html#mobility" title="நகர்வதிலான குறைபாடுகள்">நகர்வதிலான குறைபாடுகள்</a></li>
+<li class="links "><a href="a11y.html.ta#mobility" title="நகர்வதிலான குறைபாடுகள்">நகர்வதிலான குறைபாடுகள்</a></li>
 <li class="links ">
-<a href="keyboard.html" title="விசைப்பலகை">விசைப்பலகை</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html" title="Use alternative keyboard layouts">விசைப்பலகை லேயவுட்டுகள்</a></span>, <span class="link"><a href="keyboard-cursor-blink.html" title="விசைப்பலகை சுட்டியை சிமிட்டச் செய்தல்">சுட்டி சிமிட்டல்</a></span>, <span class="link"><a href="a11y.html#mobility" title="நகர்வதிலான குறைபாடுகள்">விசைப்பலகை அணுகல் தன்மை</a></span>…</span>
+<a href="keyboard.html.ta" title="விசைப்பலகை">விசைப்பலகை</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ta" title="Use alternative keyboard layouts">விசைப்பலகை லேயவுட்டுகள்</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ta" title="விசைப்பலகை சுட்டியை சிமிட்டச் செய்தல்">சுட்டி சிமிட்டல்</a></span>, <span class="link"><a href="a11y.html.ta#mobility" title="நகர்வதிலான குறைபாடுகள்">விசைப்பலகை அணுகல் தன்மை</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html" title="பயனுள்ள விசைப்பலகை குறுக்குவழிகள்">பயனுள்ள விசைப்பலகை குறுக்குவழிகள்</a><span class="desc"> — விசைப்பலகையைப் பயன்படுத்தி பணிமேசையில் வலம் வருதல்.</span>
+<a href="shell-keyboard-shortcuts.html.ta" title="பயனுள்ள விசைப்பலகை குறுக்குவழிகள்">பயனுள்ள விசைப்பலகை குறுக்குவழிகள்</a><span class="desc"> — விசைப்பலகையைப் பயன்படுத்தி பணிமேசையில் வலம் வருதல்.</span>
 </li></ul></div>
 </div></div>
 </div>

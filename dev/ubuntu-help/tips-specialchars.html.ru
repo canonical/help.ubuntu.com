@@ -43,7 +43,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 17.10</span> » <a class="trail" href="index.html" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html" title="Полезные советы">Полезные советы</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.ru" title="Полезные советы">Полезные советы</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ввод специальных символов</span></h1></div>
@@ -55,22 +55,14 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Способы ввода символов</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html#charmap" title="Таблица символов">Таблица символов</a></li>
-<li class="links "><a href="tips-specialchars.html#characters" title="Characters">Characters</a></li>
-<li class="links "><a href="tips-specialchars.html#compose" title="Клавиша Compose">Клавиша Compose</a></li>
-<li class="links "><a href="tips-specialchars.html#ctrlshiftu" title="Коды символов">Коды символов</a></li>
-<li class="links "><a href="tips-specialchars.html#layout" title="Раскладки клавиатуры">Раскладки клавиатуры</a></li>
-<li class="links "><a href="tips-specialchars.html#im" title="Методы ввода">Методы ввода</a></li>
+<li class="links "><a href="tips-specialchars.html.ru#characters" title="Characters">Characters</a></li>
+<li class="links "><a href="tips-specialchars.html.ru#compose" title="Клавиша Compose">Клавиша Compose</a></li>
+<li class="links "><a href="tips-specialchars.html.ru#ctrlshiftu" title="Коды символов">Коды символов</a></li>
+<li class="links "><a href="tips-specialchars.html.ru#layout" title="Раскладки клавиатуры">Раскладки клавиатуры</a></li>
+<li class="links "><a href="tips-specialchars.html.ru#im" title="Методы ввода">Методы ввода</a></li>
 </ul></div>
 </div></div>
 </div>
-<div id="charmap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Таблица символов</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p">В состав GNOME входит приложение «Таблица символов», позволяющая просмотреть все символы в кодировке Unicode. Найдите в таблице нужный символ, а затем скопируйте его и вставьте туда, где он нужен.</p>
-<p class="p"><span class="app">Таблицу символов</span> можно найти в <span class="gui">Обзоре</span>. Дополнительные сведения о таблице символов можно найти в <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">Руководстве по Таблице символов</a></span>.</p>
-</div></div>
-</div></div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Characters</span></h2></div>
 <div class="region"><div class="contents">
@@ -91,15 +83,19 @@
 <div class="note note-important" title="Важно"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
       change this setting.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Define a compose key</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Назначение клавиши Compose</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html#activities" title="Режим обзора">Activities</a></span> overview and
-      start typing <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span>
+        overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Keyboard &amp; Mouse</span> tab.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span> setting.</p></li>
-<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you want to use.</p></li>
-<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose key.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span>
+        setting.</p></li>
+<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you
+        want to use.</p></li>
+<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose
+        key.</p></li>
+<li class="steps"><p class="p">Close the dialog.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div>
 </div></div>
@@ -127,7 +123,7 @@
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Раскладки клавиатуры</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Можно сделать так, чтобы ваша клавиатура вела себя как клавиатура для другого языка, независимо от того, какие буквы изображены на клавишах. Можно даже легко переключаться между различными раскладками клавиатуры, используя значок в верхней панели. О том, как это делать, смотрите <span class="link"><a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">Использование альтернативных раскладок клавиатуры</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Можно сделать так, чтобы ваша клавиатура вела себя как клавиатура для другого языка, независимо от того, какие буквы изображены на клавишах. Можно даже легко переключаться между различными раскладками клавиатуры, используя значок в верхней панели. О том, как это делать, смотрите <span class="link"><a href="keyboard-layouts.html.ru" title="Использование альтернативных раскладок клавиатуры">Использование альтернативных раскладок клавиатуры</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Методы ввода</span></h2></div>
@@ -142,13 +138,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html" title="Полезные советы">Полезные советы</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html" title="Ввод специальных символов">Специальные символы</a></span>, <span class="link"><a href="mouse-middleclick.html" title="Нажатие средней кнопки мыши">использование средней кнопки мыши</a></span>…</span>
+<a href="tips.html.ru" title="Полезные советы">Полезные советы</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.ru" title="Ввод специальных символов">Специальные символы</a></span>, <span class="link"><a href="mouse-middleclick.html.ru" title="Нажатие средней кнопки мыши">использование средней кнопки мыши</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html" title="Использование альтернативных раскладок клавиатуры">Использование альтернативных раскладок клавиатуры</a><span class="desc"> — Добавьте раскладки клавиатуры и переключайтесь между ними.</span>
+<a href="keyboard-layouts.html.ru" title="Использование альтернативных раскладок клавиатуры">Использование альтернативных раскладок клавиатуры</a><span class="desc"> — Добавьте раскладки клавиатуры и переключайтесь между ними.</span>
 </li></ul></div>
 </div></div>
 </div>
